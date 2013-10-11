@@ -511,7 +511,6 @@
 
 ###Python
 
-* [Building Skills in Python Version 2.5](http://homepage.mac.com/s_lott/books/python.html)
 * [Byte of Python](http://www.swaroopch.com/notes/Python)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/)
@@ -525,7 +524,6 @@
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) (PDF)
-* [Thinking in Python](http://www.mindview.net/Books/TIPython/)
 
 
 ###R

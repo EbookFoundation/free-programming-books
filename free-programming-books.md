@@ -35,7 +35,7 @@
 * [Maven](#maven)
 * [Mercurial](#mercurial)
 * [Nemerle](#nemerle)
-* [.NET (C# / VB / Nemerle / Visual Studio)](#net-c-vb-nemerle-visual-studio)
+* [.NET (C# / VB / Nemerle / Visual Studio)](#net-c--vb--nemerle--visual-studio)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)
 * [Objective-C](#objective-c)

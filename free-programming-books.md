@@ -246,6 +246,7 @@
 ###Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
+* [Djangobook.com, In development](https://github.com/jacobian/djangobook.com)
 
 
 ###Emacs

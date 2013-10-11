@@ -12,7 +12,7 @@
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
 * [DB2](#db2)
-* [Delphi / Pascal](#delphi-pascal)
+* [Delphi / Pascal](#delphi--pascal)
 * [Django](#django)
 * [Emacs](#emacs)
 * [Erlang](#erlang)

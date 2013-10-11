@@ -529,7 +529,7 @@
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
-* <a href="http://www.briggs.net.nz/log/writing/snake-wrangling-for-kids/" title="SWFK">Snake Wrangling For Kids</a>
+* [Snake Wrangling For Kids](http://www.briggs.net.nz/log/writing/snake-wrangling-for-kids/)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) (PDF)
 * [Thinking in Python](http://www.mindview.net/Books/TIPython/)
 

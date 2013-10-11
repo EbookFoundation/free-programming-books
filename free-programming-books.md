@@ -51,7 +51,7 @@
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [R](#r)
-* [Racket] (#racket)
+* [Racket](#racket)
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)

@@ -171,7 +171,7 @@
 * [Think Complexity] (http://www.greenteapress.com/compmod/) - Allen B. Downey
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
-
+* [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 
 ###Android
 

@@ -425,6 +425,7 @@
 * [CouchDB: The Definitive Guide](http://books.couchdb.org/relax/)
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
+* [Graph Databases](http://graphdatabases.com/)
 
 
 ###Oberon

@@ -1,7 +1,8 @@
-free-programming-books
+[List of free programming books](http://resrc.io/list/10/list-of-free-programming-books/)
 ======================
 
-This list initially was a clone of [stack**overflow** - List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926) by George Stocker.
+This list initially was a clone of [stackoverflow - List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926) by George Stocker.
+Moved to GitHub for collaborative updating and for the purpose of reSRC.io : [List of free programming books](http://resrc.io/list/10/list-of-free-programming-books/).
 
 ###Meta-Lists
 

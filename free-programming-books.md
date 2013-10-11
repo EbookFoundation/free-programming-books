@@ -322,6 +322,7 @@
 
 * [Dive Into HTML5](http://fortuito.us/diveintohtml5/)
 * [HTML Dog Tutorials](http://www.htmldog.com/)
+* [HTML5 for Publishers] (http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 
 
 ###Java

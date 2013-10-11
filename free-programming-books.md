@@ -561,6 +561,7 @@
 ###Ruby on Rails
 
 * [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+* [Objects on Rails](http://objectsonrails.com)
 
 
 ###Rust

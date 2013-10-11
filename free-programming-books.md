@@ -297,6 +297,7 @@
 
 * [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
 * [Go by Example](https://gobyexample.com/)
+* [Learning Go](http://www.miek.nl/projects/learninggo/)
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
 
 

@@ -28,7 +28,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [JavaScript (Node.js specific)](#javascript-nodejs-specific)
-* [JavaScript (d3.js specific)](#javascript-d3js-specific)
+* [JavaScript (D3.js specific)](#javascript-d3js-specific)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
@@ -350,7 +350,7 @@
 * [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
 * [Mixu's Node Book](http://book.mixu.net/)
 
-###JavaScript (Node.js specific)
+###JavaScript (D3.js specific)
 
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 

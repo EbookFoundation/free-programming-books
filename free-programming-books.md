@@ -99,6 +99,7 @@
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)
 * [Best Kept Secrets of Peer Code Review](http://smartbear.com/codecollab-code-review-book.php)
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf)
+* [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf)
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
 * [Communicating Sequential Processes (PDF)](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare

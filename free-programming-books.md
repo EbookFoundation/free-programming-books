@@ -51,6 +51,7 @@
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [R](#r)
+* [Racket](#racket)
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
@@ -542,6 +543,10 @@
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
 * [Computational Statistics, Jeremy Penzer](http://stats.lse.ac.uk/penzer/ST419materials/)
+
+
+###Racket
+* [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html) 
 
 
 ###Ruby

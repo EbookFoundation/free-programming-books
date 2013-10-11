@@ -110,6 +110,7 @@
 * [The Definitive Guide to Building Code Quality](http://nexus.realtimepublishers.com/dgbcq.php)
 * [Designing Interfaces](http://designinginterfaces.com) by Jennifer Tidwell
 * [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com/)
+* [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [Don't Just Roll the Dice](http://www.neildavidson.com/dontjustrollthedice.html)
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke

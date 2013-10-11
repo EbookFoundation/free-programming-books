@@ -135,6 +135,7 @@
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+* [Linux Device Drivers](http://lwn.net/Kernel/LDD3/)
 * [Learn to Program](http://pine.fm/LearnToProgram/)
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf)
 * [Linkers and loaders](http://www.iecc.com/linker/)

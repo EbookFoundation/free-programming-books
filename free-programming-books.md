@@ -223,6 +223,7 @@
 
 * [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
+* [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 
 
 ###CoffeeScript
@@ -425,6 +426,8 @@
 * [CouchDB: The Definitive Guide](http://books.couchdb.org/relax/)
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
+* [The Little Riak Book](http://littleriakbook.com/)
+* [Graph Databases](http://graphdatabases.com/)
 
 
 ###Oberon
@@ -571,6 +574,7 @@
 * [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) (PDF)
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
+* [Another tour of Scala](http://naildrivin5.com/scalatour)
 
 
 ###Scheme

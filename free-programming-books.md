@@ -253,7 +253,7 @@
 ###Emacs
 
 * [GNU Emacs Manual, 16th Edition, v. 22](http://shop.fsf.org/product/gnu-emacs-manual-16th-edition/)
-* [An Introduction to Programming in Emacs Lisp, 3rd Edition](http://www.gnu.org/software/emacs/emacs-lisp-intro/)
+* [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
 
 
 ###Erlang

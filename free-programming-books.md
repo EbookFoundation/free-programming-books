@@ -327,17 +327,16 @@
 
 ###Java
 
-* [Java Application Development on Linux by Carl Albing and Michael Schwarz(PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf)
+* [Category wise tutorials - J2EE](http://www.mkyong.com/)
+* [Effective Java](http://www.oracle.com/technetwork/java/effectivejava-136174.html)
 * [How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/)
+* [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
+* [Java Application Development on Linux by Carl Albing and Michael Schwarz(PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf)
 * [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
+* [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
 * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
-* [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
-* [Category wise tutorials - J2EE](http://www.mkyong.com/)
-* [Introduction to Programming Using Java - David J. Eck](http://math.hws.edu/javanotes/index.html)
-* [Effective Java](http://www.oracle.com/technetwork/java/effectivejava-136174.html)
-* [Introduction to Programming Using Java](http://math.hws.edu/javanotes/)
 
 ###JavaScript
 

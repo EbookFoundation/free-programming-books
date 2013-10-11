@@ -1,6 +1,68 @@
-This list initially was a clone of [stackoverflow - List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926) by George Stocker.
+###Index
+* [Meta-Lists](#meta-lists)
+* [Graphics Programming](#graphics-programming)
+* [Language Agnostic](#language-agnostic)
+* [Android](#android)
+* [Autotools](#autotools)
+* [ASP.NET MVC](#aspnet mvc)
+* [Assembly Language](#assembly-language)
+* [Bash](#bash)
+* [C / C++](#c-c)
+* [Clojure](#Clojure)
+* [CoffeeScript](#coffeescript)
+* [ColdFusion](#coldfusion)
+* [DB2](#db2)
+* [Delphi / Pascal](#delphi-pascal)
+* [Django](#django)
+* [Emacs](#emacs)
+* [Erlang](#erlang)
+* [Flex](#flex)
+* [F#](#f)
+* [Forth](#forth)
+* [Git](#git)
+* [Go](#go)
+* [Grails](#grails)
+* [Haskell](#haskell)
+* [HTML / CSS](#HTML / CSS)
+* [Java](#Java)
+* [JavaScript](#JavaScript)
+* [JavaScript (Node.js specific)](#JavaScript (Node.js specific))
+* [LaTeX](#LaTeX)
+* [Linux](#Linux)
+* [Lisp](#Lisp)
+* [Lua](#Lua)
+* [Mathematica](#Mathematica)
+* [Maven](#Maven)
+* [Mercurial](#Mercurial)
+* [Nemerle](#Nemerle)
+* [.NET (C# / VB / Nemerle / Visual Studio)](#.NET (C# / VB / Nemerle / Visual Studio))
+* [NoSQL](#NoSQL)
+* [Oberon](#Oberon)
+* [Objective-C](#Objective-C)
+* [OCaml](#OCaml)
+* [Oracle Server](#Oracle Server)
+* [Oracle PL/SQL](#Oracle PL/SQL)
+* [Parrot / Perl 6](#Parrot / Perl 6)
+* [Perl](#Perl)
+* [PHP](#PHP)
+* [PowerShell](#PowerShell)
+* [Prolog](#Prolog)
+* [PostgreSQL](#PostgreSQL)
+* [Python](#Python)
+* [R](#R)
+* [Ruby](#Ruby)
+* [Ruby on Rails](#Ruby on Rails)
+* [Scala](#Scala)
+* [Scheme](#Scheme)
+* [Sed](#Sed)
+* [Smalltalk](#Smalltalk)
+* [Subversion](#Subversion)
+* [SQL (implementation agnostic)](#SQL (implementation agnostic))
+* [Teradata](#Teradata)
+* [Vim](#Vim)
+* [Websphere](#Websphere)
+* [Windows Phone](#Windows Phone)
 
-#####[Contribute to this list on GitHub!](https://github.com/vhf/free-programming-books)
 
 ###Meta-Lists
 
@@ -158,11 +220,6 @@ This list initially was a clone of [stackoverflow - List of freely available pro
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 
 
-###C#
-
-* See <strong>.NET</strong> below
-
-
 ###Clojure
 
 * [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
@@ -214,7 +271,7 @@ This list initially was a clone of [stackoverflow - List of freely available pro
 * [Getting started with Adobe Flex](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_Adobe_Flex_p2.pdf) (PDF)
 
 
-###F#
+###F\#
 
 * [The F# Survival Guide](http://www.ctocorner.com/fsharp/book/ch0.aspx)
 * [F Sharp Programming](http://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
@@ -248,6 +305,7 @@ This list initially was a clone of [stackoverflow - List of freely available pro
 
 * [Learn You a Haskell](http://learnyouahaskell.com/chapters)
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
+* [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
 
 
 ###HTML / CSS
@@ -277,6 +335,7 @@ This list initially was a clone of [stackoverflow - List of freely available pro
 * [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
+* [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 
 
 ###JavaScript (Node.js specific)

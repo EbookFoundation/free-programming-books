@@ -516,8 +516,9 @@
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
+* [Hacking Secret Cyphers with Python] (http://inventwithpython.com/hacking/chapters/) - Al Sweigart
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
-* [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/)
+* [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)

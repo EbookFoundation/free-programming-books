@@ -163,9 +163,11 @@
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 * [Summary of the GoF Design Patterns](http://domaindrivendesign.org/sites/default/files/discussion/PatternSummariesUnderCreativeCommons.doc)
-* [The Little Book of Semaphores](http://greenteapress.com/semaphores/)
+* [The Little Book of Semaphores](http://greenteapress.com/semaphores/) - Allen B. Downey
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
-* [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (PDF, code written in Python)
+* [Think Bayes: Bayesian Statistics Made Simple] (http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
+* [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (PDF, code written in Python) - Allen B. Downey
+* [Think Complexity] (http://www.greenteapress.com/compmod/) - Allen B. Downey
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
 
@@ -518,8 +520,9 @@
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
+* [Hacking Secret Cyphers with Python] (http://inventwithpython.com/hacking/chapters/) - Al Sweigart
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
-* [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/)
+* [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
@@ -527,7 +530,7 @@
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
-* [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) (PDF)
+* [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) (PDF) - Allen B. Downey
 
 
 ###R

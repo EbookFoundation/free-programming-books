@@ -520,10 +520,10 @@
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
+* [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) (PDF)
-* [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 
 
 ###R

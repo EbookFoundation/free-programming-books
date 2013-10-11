@@ -244,8 +244,7 @@
 
 
 ###Django
-* [Djen of Django](http://agiliq.com/books/djenofdjango/)
-* [Django by Example](http://www.lightbird.net/dbe/)
+
 
 
 ###Emacs
@@ -523,6 +522,7 @@
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) (PDF)
+* [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 
 
 ###R

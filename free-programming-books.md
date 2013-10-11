@@ -67,16 +67,11 @@
 ###Meta-Lists
 
 * [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/)
-* [Book Training - On Video](http://www.booktraining.net/)
 * [Cheat Sheets (Free)](http://refcardz.dzone.com/)
-* [CodePlex List of Free E-Books](http://blogs.msdn.com/wriju/archive/2009/01/07/free-ebooks-at-codeplex.aspx)
 * [Free Tech Books](http://www.freetechbooks.com/)
-* [Galileo Computing](http://www.galileocomputing.de/katalog/openbook) (German)
-* [How to Design Programs: An Introduction to Computing and Programming](http://www.htdp.org/2003-09-26/Book/)
 * [Microsoft Press: Free E-Books](http://blogs.msdn.com/b/microsoft_press/archive/2011/03/03/ebooks-list-of-our-free-books.aspx)
 * [MindView Inc](http://www.mindviewinc.com/Books/)
 * [O'Reilly's Open Books Project](http://oreilly.com/openbook/)
-* [Sofware Program Managers Network](http://www.spmn.com/products_guidebooks.html)
 * [TechBooksForFree.com](http://www.techbooksforfree.com/)
 * [Theassayer.org](http://theassayer.org/)
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)

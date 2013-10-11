@@ -247,7 +247,6 @@
 
 ###Django
 
-* [Djangobook.com](http://djangobook.com/)
 
 
 ###Emacs
@@ -515,7 +514,6 @@
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
-* [The Django Book](http://djangobook.com/)
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/)
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)

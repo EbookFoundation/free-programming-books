@@ -23,7 +23,7 @@
 * [Go](#go)
 * [Grails](#grails)
 * [Haskell](#haskell)
-* [HTML / CSS](#HTML / CSS)
+* [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [JavaScript (Node.js specific)](#javascript-nodejs-specific)

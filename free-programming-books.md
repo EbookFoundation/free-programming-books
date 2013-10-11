@@ -91,6 +91,7 @@
 ###Language Agnostic
 
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)
+* [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
 * [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
 * [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms.html) (draft)
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)

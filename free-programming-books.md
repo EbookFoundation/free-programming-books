@@ -331,6 +331,7 @@
 * [Introduction to Programming Using Java - David J. Eck](http://math.hws.edu/javanotes/index.html)
 * [Effective Java](http://www.oracle.com/technetwork/java/effectivejava-136174.html)
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/)
+* [Artificial Intelligence - Foundation of Computational Agents] (http://artint.info/html/ArtInt.html)
 
 ###JavaScript
 

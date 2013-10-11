@@ -52,6 +52,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Scheme](#scheme)
 * [Sed](#sed)

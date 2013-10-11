@@ -244,8 +244,7 @@
 
 
 ###Django
-* [Djen of Django](http://agiliq.com/books/djenofdjango/)
-* [Django by Example](http://www.lightbird.net/dbe/)
+
 
 
 ###Emacs
@@ -319,7 +318,6 @@
 * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
 * [Introduction to Programming Using Java - David J. Eck](http://math.hws.edu/javanotes/index.html)
-* [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 
 
 ###JavaScript
@@ -331,6 +329,7 @@
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 
 ###JavaScript (Node.js specific)
@@ -393,6 +392,11 @@
 
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com/)
+
+
+###Nemerle
+
+* See <strong>.NET</strong> below
 
 
 ###.NET (C# / VB / Nemerle / Visual Studio)

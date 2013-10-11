@@ -298,8 +298,8 @@
 
 ###Haskell
 
-* [Learn You a Haskell](http://learnyouahaskell.com/chapters)
-* [Real World Haskell](http://book.realworldhaskell.org/read/)
+* [Learn You a Haskell](http://learnyouahaskell.com)
+* [Real World Haskell](http://book.realworldhaskell.org)
 * [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
 
 

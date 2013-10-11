@@ -23,6 +23,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Grails](#grails)
+* [Hadoop] (#hadoop)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)
@@ -303,6 +304,11 @@
 ###Grails
 
 * [Getting Start with Grails](http://www.infoq.com/minibooks/grails-getting-started)
+
+
+###Hadoop
+
+* [Programming Pig] (http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
 
 
 ###Haskell

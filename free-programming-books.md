@@ -366,6 +366,7 @@
 * [Linux Device Drivers](http://lwn.net/Kernel/LDD3/) by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
 * [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
 * [Secure Programming for Linux and Unix](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
+* [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 
 
 ###Lisp

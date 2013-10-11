@@ -281,8 +281,7 @@
 
 ###Git
 
-* [Pro Git](http://progit.org/book/)
-* [The Git Community Book](http://book.git-scm.com/index.html)
+* [Pro Git](http://git-scm.com/book)
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 
 
@@ -298,8 +297,8 @@
 
 ###Haskell
 
-* [Learn You a Haskell](http://learnyouahaskell.com)
-* [Real World Haskell](http://book.realworldhaskell.org)
+* [Learn You a Haskell](http://learnyouahaskell.com/)
+* [Real World Haskell](http://book.realworldhaskell.org/)
 * [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
 
 

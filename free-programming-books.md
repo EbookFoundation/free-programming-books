@@ -52,6 +52,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Scheme](#scheme)
 * [Sed](#sed)
@@ -545,6 +546,11 @@
 ###Ruby on Rails
 
 * [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+
+
+###Rust
+
+* [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
 
 
 ###Scala

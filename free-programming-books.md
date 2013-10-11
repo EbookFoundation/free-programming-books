@@ -223,6 +223,7 @@
 
 * [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
+* [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 
 
 ###CoffeeScript

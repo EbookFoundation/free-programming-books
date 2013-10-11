@@ -168,9 +168,6 @@
 
 ###Android
 
-* [Building Android Apps with HTML, CSS, and JavaScript](http://ofps.oreilly.com/titles/9781449383268/)
-* [Learning Android](http://ofps.oreilly.com/titles/9781449390501/)
-
 
 ###Autotools
 

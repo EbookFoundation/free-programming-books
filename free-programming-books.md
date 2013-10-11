@@ -545,7 +545,9 @@
 
 * [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 
+
 ###Rust
+
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
 
 

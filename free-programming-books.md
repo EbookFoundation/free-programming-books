@@ -547,6 +547,10 @@
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
 * [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
+* Laravel Framework
+   * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
+   * [Code Happy](http://codehappy.daylerees.com/) (Laravel 3 Starter Book)
+   * [Code Bright](http://codebright.daylerees.com/) (Laravel 4 Starter Book)
 
 
 ###PowerShell

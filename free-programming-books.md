@@ -329,7 +329,6 @@
 * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
 * [Introduction to Programming Using Java - David J. Eck](http://math.hws.edu/javanotes/index.html)
-* [Effective Java](http://www.oracle.com/technetwork/java/effectivejava-136174.html)
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/)
 
 ###JavaScript

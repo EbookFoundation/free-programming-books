@@ -635,7 +635,7 @@
 ###Vim
 
 * [A Byte of Vim](http://www.swaroopch.com/notes/Vim)
-* [Vim Recipes](http://vim.runpaint.org/toc/)
+* [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf)
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) by Steve Oualline
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 

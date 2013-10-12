@@ -214,6 +214,7 @@
 
 ###ASP.NET MVC
 
+* [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com/)
 * [NerdDinner Walkthrough](http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx)
 
 

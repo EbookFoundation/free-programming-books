@@ -279,6 +279,7 @@
 * [The F# Survival Guide](http://www.ctocorner.com/fsharp/book/ch0.aspx)
 * [F Sharp Programming](http://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
 * [Real World Functional Programming](http://msdn.microsoft.com/en-us/library/hh314518.aspx) (MSDN Chapters)
+* [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf) (PDF)
 
 
 ###Forth
@@ -437,6 +438,7 @@
 ###Oberon
 
 * [Programming in Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProgInOberon.pdf) (PDF)
+* [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf ) (PDF)
 
 
 ###Objective-C
@@ -451,6 +453,7 @@
 * [Objective Caml for Scientists (first chapter only)](http://www.ffconsultancy.com/products/ocaml_for_scientists/chapter1.html)
 * [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/)
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
+* [Real World OCaml](https://realworldocaml.org/beta3/en/html/)
 
 
 ###Oracle Server

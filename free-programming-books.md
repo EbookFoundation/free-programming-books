@@ -104,7 +104,7 @@
 * [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf)
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
-* [Come, Let's Play: Scenario-Based Programming Using LSCs](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
+* [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
 * [Communicating Sequential Processes (PDF)](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare
 * [Compiler Construction](http://www-old.oberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
@@ -145,7 +145,7 @@
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Matters Computational](http://www.jjj.de/fxt/#fxtbook)
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
-* [Modeling Reactive Systems With Statecharts](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
+* [Modeling Reactive Systems with Statecharts](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
 * [NASA Manager Handbook for Software Development](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-manage.pdf) (PDF)
 * [NASA Software Measurement Handbook](http://www.scribd.com/doc/7181362/NASA-Software-Measurement-Guidebook)
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/)

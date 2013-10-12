@@ -24,7 +24,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Grails](#grails)
-* [Hadoop] (#hadoop)
+* [Hadoop](#hadoop)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)

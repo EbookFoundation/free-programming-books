@@ -49,6 +49,7 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [PowerShell](#powershell)
+* [Processing](#processing)
 * [Prolog](#prolog)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
@@ -555,6 +556,10 @@
 ###PowerShell
 
 * [Mastering PowerShell](http://powershell.com/cs/blogs/ebook/)
+
+
+###Processing
+* [The Nature of Code: Simulating Natural Systems with Processing](http://natureofcode.com/book/)
 
 
 ###Prolog

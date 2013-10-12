@@ -597,7 +597,6 @@
 * [The R Manuals](http://cran.r-project.org/manuals.html)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
-* [Computational Statistics, Jeremy Penzer](http://stats.lse.ac.uk/penzer/ST419materials/)
 
 
 ###Racket

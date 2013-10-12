@@ -177,6 +177,7 @@
 
 ###Android
 
+* [Tutorial on Basic Android Setup](http://www.stanford.edu/class/ee368/Android/Tutorial-1-Basic-Android-Setup-Windows.pdf)
 
 ###Autotools
 

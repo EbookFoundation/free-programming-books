@@ -126,6 +126,7 @@
 * [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf)
 * [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/portal/web/swebok)
+* [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 * [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html)
 * [How to Design Programs](http://www.htdp.org/)
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/)
@@ -171,7 +172,7 @@
 * [Think Complexity] (http://www.greenteapress.com/compmod/) - Allen B. Downey
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
-* [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+
 
 ###Android
 

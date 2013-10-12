@@ -316,6 +316,8 @@
 * [Learn You a Haskell](http://learnyouahaskell.com/)
 * [Real World Haskell](http://book.realworldhaskell.org/)
 * [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
+* [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
+* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929)
 
 
 ###HTML / CSS

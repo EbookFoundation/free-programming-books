@@ -408,6 +408,7 @@
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [Successful Lisp: How to Understand and Use Common Lisp](http://psg.com/~dlamkins/sl/) - David Lamkins
 * [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
+* [Lisp Web Tales](http://lispwebtales.ppenev.com/) - Pavel Penev
 
 
 ###Lua

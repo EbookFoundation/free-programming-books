@@ -399,7 +399,7 @@
 * [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
 * [The Node Beginner Book](http://nodebeginner.org/)
 * [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
-* [Mixu's Node Book](http://book.mixu.net/)
+* [Mixu's Node Book](http://book.mixu.net/node/)
 
 ####D3.js
 

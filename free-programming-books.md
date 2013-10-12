@@ -631,6 +631,7 @@
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
+* [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 
 
 ###Ruby on Rails

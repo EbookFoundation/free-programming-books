@@ -206,6 +206,8 @@
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
+* [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
+
 
 ####MOOC
 * [Online Course Materials](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)

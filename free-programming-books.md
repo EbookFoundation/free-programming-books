@@ -106,7 +106,7 @@
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
 * [Communicating Sequential Processes (PDF)](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare
-* [Compiler Construction](http://www-old.oberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
+* [Compiler Construction](http://www.inf.ethz.ch/personal/wirth/Articles/CompilerConstruction/CBE.pdf) (PDF)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
 * [Data Structures and Algorithms: Annotated Reference with Examples](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/)
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)

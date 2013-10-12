@@ -27,6 +27,7 @@
 * [Hadoop](#hadoop)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
+* [Icon](#icon)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Node.js](#nodejs)
@@ -91,6 +92,7 @@
 * [GPU Gems 2](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html) - [ch 8,14,18,29,30 as pdf](ftp://download.nvidia.com/developer/GPU_Gems_2/)
 * [GPU Gems 3](http://http.developer.nvidia.com/GPUGems3/gpugems3_part01.html)
 * [Graphics Programming Black Book](http://www.gamedev.net/reference/articles/article1698.asp)
+* [OpenGL Insights](http://openglinsights.com) (chapters 22, 23, 28, 33, 39)
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 
 
@@ -106,6 +108,7 @@
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
 * [Open Data Structures](http://opendatastructures.org/)
+* [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 
 ####Operating systems
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)
@@ -196,9 +199,11 @@
 * [NASA Software Measurement Handbook](http://www.scribd.com/doc/7181362/NASA-Software-Measurement-Guidebook)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
+* [Programming Reliable Systems (Joe Armstrong's PhD thesis)](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf)
 * [Producing Open Source Software](http://producingoss.com/)
 * [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
+* [Small Memory Software](http://www.smallmemory.com/book.html)
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 
 ####MOOC
@@ -365,6 +370,11 @@
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
 * [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [Learn CSS Layout](http://learnlayout.com/)
+
+
+###Icon
+
+* [The Implementation of the Icon Programming Language](http://www.cs.arizona.edu/icon/ibsale.htm)
 
 
 ###Java

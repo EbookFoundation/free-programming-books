@@ -345,7 +345,6 @@
 
 * [Artificial Intelligence - Foundation of Computational Agents] (http://artint.info/html/ArtInt.html)
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
-* [Effective Java](http://www.oracle.com/technetwork/java/effectivejava-136174.html)
 * [How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/)
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz(PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf)

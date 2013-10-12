@@ -615,7 +615,6 @@
 * [MacRuby: The Definitive Guide](http://macruby.labs.oreilly.com/)
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
-* [Ruby Best Practices](http://rubybestpractices.com/)
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
 
 

@@ -340,7 +340,7 @@
 
 ###Grails
 
-* [Getting Start with Grails](http://www.infoq.com/minibooks/grails-getting-started)
+* [Getting Started with Grails](http://www.infoq.com/minibooks/grails-getting-started)
 
 
 ###Hadoop

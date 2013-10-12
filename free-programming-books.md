@@ -105,6 +105,7 @@
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
+* [Open Data Structures](http://opendatastructures.org/)
 
 ####Operating systems
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)

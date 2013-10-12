@@ -342,6 +342,7 @@
 * [Go by Example](https://gobyexample.com/)
 * [Learning Go](http://www.miek.nl/projects/learninggo/)
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
+* [Network Programming in Go](http://jan.newmarch.name/go/)
 
 
 ###Grails

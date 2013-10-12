@@ -154,7 +154,7 @@
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
 
 ####Mathematics
-* [Think Bayes: Bayesian Statistics Made Simple] (http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
+* [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (PDF, code written in Python) - Allen B. Downey
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 
@@ -198,7 +198,7 @@
 * [Producing Open Source Software](http://producingoss.com/)
 * [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
-* [Think Complexity] (http://www.greenteapress.com/compmod/) - Allen B. Downey
+* [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 
 ####MOOC
 * [Online Course Materials](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)

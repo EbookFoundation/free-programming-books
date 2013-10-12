@@ -173,9 +173,9 @@
 * [Summary of the GoF Design Patterns](http://domaindrivendesign.org/sites/default/files/discussion/PatternSummariesUnderCreativeCommons.doc)
 * [The Little Book of Semaphores](http://greenteapress.com/semaphores/) - Allen B. Downey
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
-* [Think Bayes: Bayesian Statistics Made Simple] (http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
+* [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (PDF, code written in Python) - Allen B. Downey
-* [Think Complexity] (http://www.greenteapress.com/compmod/) - Allen B. Downey
+* [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
 
@@ -320,7 +320,7 @@
 
 ###Hadoop
 
-* [Programming Pig] (http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
+* [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
 
 
 ###Haskell
@@ -337,21 +337,21 @@
 * [Dive Into HTML5](http://fortuito.us/diveintohtml5/)
 * [GA Dash](http://dash.generalassemb.ly)
 * [HTML Dog Tutorials](http://www.htmldog.com/)
-* [HTML5 Canvas] (http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
-* [HTML5 for Publishers] (http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
+* [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
+* [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [Learn CSS Layout](http://learnlayout.com/)
 
 
 ###Java
 
-* [Artificial Intelligence - Foundation of Computational Agents] (http://artint.info/html/ArtInt.html)
+* [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
 * [How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/)
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz(PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf)
 * [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
-* [Learning Java] (http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
+* [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
 * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
 * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
@@ -555,13 +555,13 @@
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
-* [Hacking Secret Cyphers with Python] (http://inventwithpython.com/hacking/chapters/) - Al Sweigart
+* [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
-* [Python Cookbook] (http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
+* [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)

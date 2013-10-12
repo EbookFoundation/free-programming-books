@@ -7,7 +7,7 @@
 * [ASP.NET MVC](#aspnet-mvc)
 * [Assembly Language](#assembly-language)
 * [Bash](#bash)
-* [C / C++](#c-c)
+* [C / C++](#c--c)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)

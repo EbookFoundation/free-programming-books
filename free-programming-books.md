@@ -15,6 +15,7 @@
 * [DB2](#db2)
 * [Delphi / Pascal](#delphi--pascal)
 * [Django](#django)
+* [Elasticsearch](#elasticsearch)
 * [Emacs](#emacs)
 * [Erlang](#erlang)
 * [Flex](#flex)
@@ -257,6 +258,10 @@
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
 
+
+###Elasticsearch
+
+* [Exploring Elasticsearch](http://exploringelasticsearch.com/)
 
 ###Emacs
 

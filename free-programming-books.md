@@ -86,6 +86,7 @@
 
 * [DirectX manual](http://www.xmission.com/~legalize/book/download/index.html) (draft)
 * [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/) (draft)
+* [Introduction to Modern OpenGL](http://open.gl/)
 * [GPU Gems](http://http.developer.nvidia.com/GPUGems/gpugems_part01.html)
 * [GPU Gems 2](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html) - [ch 8,14,18,29,30 as pdf](ftp://download.nvidia.com/developer/GPU_Gems_2/)
 * [GPU Gems 3](http://http.developer.nvidia.com/GPUGems3/gpugems3_part01.html)

@@ -195,8 +195,8 @@
 
 ###Assembly Language
 
-* [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
 * [Paul Carter's Tutorial on x86 Assembly](http://drpaulcarter.com/pcasm/)
+* [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 
 
@@ -343,6 +343,7 @@
 
 ###Java
 
+* [Artificial Intelligence - Foundation of Computational Agents] (http://artint.info/html/ArtInt.html)
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
 * [Effective Java](http://www.oracle.com/technetwork/java/effectivejava-136174.html)
 * [How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/)
@@ -354,6 +355,7 @@
 * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
 * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
+
 
 ###JavaScript
 

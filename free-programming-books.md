@@ -138,6 +138,7 @@
 * [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+* [Linux kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [Learn to Program](http://pine.fm/LearnToProgram/)
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf)
@@ -306,6 +307,7 @@
 
 * [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
 * [Go by Example](https://gobyexample.com/)
+* [Learning Go](http://www.miek.nl/projects/learninggo/)
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
 
 
@@ -381,6 +383,7 @@
 * [Linux Device Drivers](http://lwn.net/Kernel/LDD3/) by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
 * [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
 * [Secure Programming for Linux and Unix](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
+* [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 
 
 ###Lisp

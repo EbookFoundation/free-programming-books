@@ -24,6 +24,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Grails](#grails)
+* [Hadoop] (#hadoop)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)
@@ -317,6 +318,11 @@
 * [Getting Start with Grails](http://www.infoq.com/minibooks/grails-getting-started)
 
 
+###Hadoop
+
+* [Programming Pig] (http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
+
+
 ###Haskell
 
 * [Learn You a Haskell](http://learnyouahaskell.com/)
@@ -330,22 +336,24 @@
 
 * [Dive Into HTML5](http://fortuito.us/diveintohtml5/)
 * [HTML Dog Tutorials](http://www.htmldog.com/)
+* [HTML5 Canvas] (http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
+* [HTML5 for Publishers] (http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [Learn CSS Layout](http://learnlayout.com/)
 
 
 ###Java
 
-* [Java Application Development on Linux by Carl Albing and Michael Schwarz(PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf)
+* [Category wise tutorials - J2EE](http://www.mkyong.com/)
+* [Effective Java](http://www.oracle.com/technetwork/java/effectivejava-136174.html)
 * [How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/)
+* [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
+* [Java Application Development on Linux by Carl Albing and Michael Schwarz(PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf)
 * [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
+* [Learning Java] (http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
+* [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
 * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
-* [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
-* [Category wise tutorials - J2EE](http://www.mkyong.com/)
-* [Introduction to Programming Using Java - David J. Eck](http://math.hws.edu/javanotes/index.html)
-* [Effective Java](http://www.oracle.com/technetwork/java/effectivejava-136174.html)
-* [Introduction to Programming Using Java](http://math.hws.edu/javanotes/)
 
 ###JavaScript
 
@@ -551,6 +559,7 @@
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
+* [Python Cookbook] (http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)

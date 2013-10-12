@@ -243,7 +243,6 @@
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
-* [Introduction to Design Patterns in C++ with Qt 4](http://cartan.cas.suffolk.edu/oopdocbook/opensource/index.html) ([PDF](http://www.informit.com/store/product.aspx?isbn=0131879057))
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf)
 * [The new C standard - an annotated reference](http://www.knosof.co.uk/cbook/cbook.html)

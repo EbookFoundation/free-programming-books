@@ -178,6 +178,8 @@
 ###Android
 
 * [Tutorial on Basic Android Setup](http://www.stanford.edu/class/ee368/Android/Tutorial-1-Basic-Android-Setup-Windows.pdf)
+* [Android lessons for beginners](http://startandroid.ru/en/lessons/complete-list.html)
+* [Beginning Android ApplicAtion development](http://blogs.wrox.com/files/2013/05/Chapter-8-9781118087299-2.pdf)
 
 ###Autotools
 

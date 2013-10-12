@@ -29,8 +29,8 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [JavaScript (Node.js specific)](#javascript-nodejs-specific)
-* [JavaScript (D3.js specific)](#javascript-d3js-specific)
+    * [Node.js](#nodejs)
+    * [D3.js](#d3js)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
@@ -38,7 +38,6 @@
 * [Mathematica](#mathematica)
 * [Maven](#maven)
 * [Mercurial](#mercurial)
-* [Nemerle](#nemerle)
 * [.NET (C# / VB / Nemerle / Visual Studio)](#net-c--vb--nemerle--visual-studio)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)
@@ -393,14 +392,14 @@
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 
-###JavaScript (Node.js specific)
+####Node.js
 
 * [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
 * [The Node Beginner Book](http://nodebeginner.org/)
 * [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
 * [Mixu's Node Book](http://book.mixu.net/)
 
-###JavaScript (D3.js specific)
+####D3.js
 
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
@@ -542,7 +541,7 @@
 ###PHP
 
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
-* [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's <em>PHP In a Nutshell</em>)
+* [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
 * [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
 

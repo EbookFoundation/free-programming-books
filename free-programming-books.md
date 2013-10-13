@@ -93,7 +93,7 @@
 * [GPU Gems](http://http.developer.nvidia.com/GPUGems/gpugems_part01.html)
 * [GPU Gems 2](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html) - [ch 8,14,18,29,30 as pdf](ftp://download.nvidia.com/developer/GPU_Gems_2/)
 * [GPU Gems 3](http://http.developer.nvidia.com/GPUGems3/gpugems3_part01.html)
-* [Graphics Programming Black Book](http://www.gamedev.net/reference/articles/article1698.asp)
+* [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
 * [OpenGL Insights](http://openglinsights.com) (chapters 22, 23, 28, 33, 39)
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 
@@ -344,7 +344,7 @@
 
 * [Pro Git](http://git-scm.com/book)
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
-* [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) 
+* [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf)
 
 
 ###Go

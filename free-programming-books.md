@@ -30,8 +30,9 @@
 * [Icon](#icon)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [Node.js](#nodejs)
+    * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
+    * [Node.js](#nodejs)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
@@ -405,16 +406,20 @@
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 
+####Backbone.js
+
+* [Developting Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+
+####D3.js
+
+* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+
 ####Node.js
 
 * [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
 * [The Node Beginner Book](http://nodebeginner.org/)
 * [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
 * [Mixu's Node Book](http://book.mixu.net/node/)
-
-####D3.js
-
-* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
 ###LaTeX
 

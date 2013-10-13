@@ -47,7 +47,7 @@
 * [OCaml](#ocaml)
 * [Oracle Server](#oracle-server)
 * [Oracle PL/SQL](#oracle-plsql)
-* [Parrot / Perl 6](#parrot-perl-6)
+* [Parrot / Perl 6](#parrot--perl-6)
 * [Perl](#perl)
 * [PHP](#php)
 * [PowerShell](#powershell)

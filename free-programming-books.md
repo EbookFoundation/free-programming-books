@@ -369,7 +369,7 @@
 
 ###HTML / CSS
 
-* [Dive Into HTML5](http://fortuito.us/diveintohtml5/)
+* [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/))
 * [GA Dash](http://dash.generalassemb.ly)
 * [HTML Dog Tutorials](http://www.htmldog.com/)
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
@@ -388,7 +388,7 @@
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
 * [How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/)
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
-* [Java Application Development on Linux by Carl Albing and Michael Schwarz(PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf)
+* [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf)
 * [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
 * [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
@@ -503,7 +503,7 @@
 ###Oberon
 
 * [Programming in Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProgInOberon.pdf) (PDF)
-* [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf ) (PDF)
+* [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf) (PDF)
 
 
 ###Objective-C

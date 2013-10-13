@@ -115,7 +115,7 @@
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
 * [Open Data Structures](http://opendatastructures.org/)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
-
+* [Rosetta Code - Wiki for Programming Tasks and their solutions](http://rosettacode.org/wiki/Category:Programming_Tasks)
 ####Operating systems
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)
 * [The Little Book of Semaphores](http://greenteapress.com/semaphores/) - Allen B. Downey

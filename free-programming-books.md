@@ -372,12 +372,13 @@
 
 ###Haskell
 
+* [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
 * [Learn You a Haskell](http://learnyouahaskell.com/)
+* [Natural Language Processing for the Working Programmer](http://nlpwp.org/book/index.xhtml)
+* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929)
 * [Real World Haskell](http://book.realworldhaskell.org/)
 * [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
-* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929)
-* [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
 
 
 ###HTML / CSS
@@ -424,10 +425,10 @@
 
 ####Node.js
 
-* [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
-* [The Node Beginner Book](http://nodebeginner.org/)
 * [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
 * [Mixu's Node Book](http://book.mixu.net/node/)
+* [The Node Beginner Book](http://nodebeginner.org/)
+* [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
 
 ####D3.js
 

@@ -59,6 +59,7 @@
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
+* [Sage](#sage)
 * [Scala](#scala)
 * [Scheme](#scheme)
 * [Sed](#sed)
@@ -655,6 +656,10 @@
 
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
 
+###Sage
+
+* [The Sage Manuals](http://sagemath.org/doc/)
+* [Sage for Newbies](http://sage.math.washington.edu/home/tkosan/newbies_book/)
 
 ###Scala
 

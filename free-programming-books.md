@@ -432,7 +432,7 @@
 
 * [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf)
 * (fr) [Tout ce que vous voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander/) by Vincent Lozano
-* (fr) [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net) by Maïeul Rouquette
+* (fr) [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) by Maïeul Rouquette
 
 ###Linux
 

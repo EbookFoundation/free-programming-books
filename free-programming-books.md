@@ -298,10 +298,10 @@
 ###Delphi / Pascal
 
 * [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
-* [The Tomes of Delphi](http://www.lulu.com/content/435417)
 
 
 ###Django
+
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
 
@@ -638,12 +638,12 @@
 
 ###Ruby
 
+* [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 * [Learn Ruby the hard way](http://ruby.learncodethehardway.org/book/)
 * [MacRuby: The Definitive Guide](http://macruby.labs.oreilly.com/)
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
-* [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 
 
 ###Ruby on Rails
@@ -663,16 +663,16 @@
 
 ###Scala
 
+* [Another tour of Scala](http://naildrivin5.com/scalatour)
 * [Exploring Lift](http://exploring.liftweb.net/) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
 * [Lift](http://github.com/tjweir/liftbook)
 * [Pro Scala: Monadic Design Patterns for the Web](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)
 * [Programming Scala](http://programming-scala.labs.oreilly.com/index.html)
 * [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) (PDF)
+* [Scala School by Twitter](http://twitter.github.io/scala_school/)
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
-* [Another tour of Scala](http://naildrivin5.com/scalatour)
-* [Scala School by Twitter](http://twitter.github.io/scala_school/)
 
 
 ###Scheme

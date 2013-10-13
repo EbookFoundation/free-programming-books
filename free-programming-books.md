@@ -608,6 +608,7 @@
 
 ###Python
 
+* (fr) [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) by Gerard Swinnen
 * [Byte of Python](http://www.swaroopch.com/notes/Python)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/)

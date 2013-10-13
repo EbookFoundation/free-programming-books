@@ -18,6 +18,7 @@
 * [Elasticsearch](#elasticsearch)
 * [Emacs](#emacs)
 * [Erlang](#erlang)
+* [Flask](#flask)
 * [Flex](#flex)
 * [F#](#f-sharp)
 * [Forth](#forth)
@@ -320,6 +321,9 @@
 
 * [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/)
 
+###Flask
+
+* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ###Flex
 

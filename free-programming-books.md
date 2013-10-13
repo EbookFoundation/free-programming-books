@@ -365,7 +365,7 @@
 
 ###HTML / CSS
 
-* [Dive Into HTML5](http://fortuito.us/diveintohtml5/)
+* [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/))
 * [GA Dash](http://dash.generalassemb.ly)
 * [HTML Dog Tutorials](http://www.htmldog.com/)
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton

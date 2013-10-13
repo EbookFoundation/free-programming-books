@@ -132,7 +132,7 @@
 * [ZeroMQ Guide](http://zguide.zeromq.org/page:all)
 
 ####Compiler Design
-* [Compiler Construction](http://www.oberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
+* [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf)
 * [Linkers and loaders](http://www.iecc.com/linker/)
 

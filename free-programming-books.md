@@ -68,6 +68,7 @@
 * [Subversion](#subversion)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [Teradata](#teradata)
+* [Theory](#theory)
 * [Vim](#vim)
 * [Websphere](#websphere)
 * [Windows Phone](#windows-phone)
@@ -717,6 +718,9 @@
 
 * [Teradata Books](http://www.info.teradata.com/)
 
+###Theory
+
+* [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 
 ###Vim
 

@@ -674,6 +674,7 @@
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Another tour of Scala](http://naildrivin5.com/scalatour)
+* [Scala School by Twitter](http://twitter.github.io/scala_school/)
 
 
 ###Scheme

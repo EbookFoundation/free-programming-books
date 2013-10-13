@@ -239,6 +239,7 @@
 ###Assembly Language
 
 * [Paul Carter's Tutorial on x86 Assembly](http://drpaulcarter.com/pcasm/)
+* [Professional Assembly Language](http://blog.hit.edu.cn/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf)
 * [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 

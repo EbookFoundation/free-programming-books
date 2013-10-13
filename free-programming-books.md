@@ -104,7 +104,11 @@
 * [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms.html) (draft)
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf)
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
+* [Computational Geometry: Algorithms and Applications](http://www.cs.uu.nl/geobook/) (chapters 1 and 9, pseudo-code)
 * [Data Structures and Algorithms: Annotated Reference with Examples](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/)
+* [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
+* [Hacker's Delight](http://www.hackersdelight.org) (chapter 2, code)
+* [LEDA: A Platform for Combinatorial and Geometric Computing](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
@@ -118,11 +122,13 @@
 
 ####Database
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
+* [Database-backed Web Sites](http://philip.greenspun.com/wtr/dead-trees/)
 
 ####Networking
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
+* [ZeroMQ Guide](http://zguide.zeromq.org/page:all)
 
 ####Compiler Design
 * [Compiler Construction](http://www-old.oberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
@@ -205,6 +211,7 @@
 * [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
+* [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/) (fascicles, mostly volume 4)
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 * [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
 

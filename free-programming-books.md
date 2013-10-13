@@ -404,6 +404,7 @@
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+* [Javascript Garden] (http://bonsaiden.github.io/JavaScript-Garden/)
 
 ####Node.js
 

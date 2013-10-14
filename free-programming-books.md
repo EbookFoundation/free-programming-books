@@ -457,7 +457,7 @@
 
 * [Crockford's JavaScript](http://www.crockford.com/javascript/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [Essential Javascript &amp; jQuery Design Patterns for Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Essential Javascript & jQuery Design Patterns for Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf)
 * [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
@@ -615,7 +615,7 @@
 * [Higher-Order Perl](http://hop.perl.plover.com/book/)
 * [The Mason Book](http://www.masonbook.com/book/)
 * [Modern Perl 5](http://www.onyxneon.com/books/modern_perl/index.html)
-* [Perl &amp; LWP](http://lwp.interglacial.com/index.html)
+* [Perl & LWP](http://lwp.interglacial.com/index.html)
 * [Perl for the Web](http://www.globalspin.com/thebook/)
 * [Perl Free Online EBooks](http://linkmingle.com/list/13-plus-List-of-Free-Great-Perl-Books-available-Online-freebooksandarticles) (meta-list)
 * [Perl The Hard Way](http://www.greenteapress.com/perl/)

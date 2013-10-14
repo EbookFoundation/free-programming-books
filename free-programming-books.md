@@ -218,6 +218,7 @@
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 * [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
 
+
 ####MOOC
 * [Online Course Materials](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
 
@@ -427,7 +428,7 @@
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
-* [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
+* [The JavaScript Tutorial](http://javascript.info/)
 
 ####Node.js
 

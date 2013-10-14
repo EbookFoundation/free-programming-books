@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.6.0)
+    httparty (0.8.3)
+      multi_json (~> 1.0)
+      multi_xml
+    multi_json (1.7.4)
+    multi_xml (0.5.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize
+  httparty

@@ -81,7 +81,7 @@
 
 ###Meta-Lists
 
-* [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/)
+* [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/) <verify snippet="Below is a selection of 25 of the best free computer science books" />
 * [Cheat Sheets (Free)](http://refcardz.dzone.com/)
 * [Free Tech Books](http://www.freetechbooks.com/)
 * [Microsoft Press: Free E-Books](http://blogs.msdn.com/b/microsoft_press/archive/2011/03/03/ebooks-list-of-our-free-books.aspx)

@@ -44,7 +44,7 @@ books.each_with_index do |book, index|
     url, snippet = *book
     print "[%#{digits}d/#{books.size}] Checking %s " % [index + 1, url]
     begin
-        response = HTTParty.get(url).response
+        response = (snippet ? HTTParty.get(url) : HTTParty.head(url)).response
         if response.is_a? Net::HTTPOK
             if !snippet || response.body.include?(snippet)
                 ok

@@ -101,6 +101,7 @@
 * [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
 * [OpenGL Insights](http://openglinsights.com) (chapters 22, 23, 28, 33, 39)
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
+* [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
 
 
 ###Language Agnostic
@@ -140,6 +141,7 @@
 * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf)
 * [Linkers and loaders](http://www.iecc.com/linker/)
+* [Compiler Design: Theory, Tools, and Examples](http://elvis.rowan.edu/~bergmann/books.html)
 
 ####Programming Paradigms
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)
@@ -151,6 +153,7 @@
 
 ####Software Architecture
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+* [The Performance of Open Source Applications](http://aosabook.org/en/)
 * [Programming Pearls](http://cs.bell-labs.com/cm/cs/pearls/)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf)
 * [Summary of the GoF Design Patterns](http://domaindrivendesign.org/sites/default/files/discussion/PatternSummariesUnderCreativeCommons.doc)
@@ -174,6 +177,7 @@
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (PDF, code written in Python) - Allen B. Downey
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 ####Misc
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)
@@ -290,6 +294,10 @@
 * [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
+* [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Modern cljs](https://github.com/magomimmo/modern-cljs)
+* [Clojure for the Brave and True](http://www.braveclojure.com/)
+* [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
 
 ###CoffeeScript
@@ -358,6 +366,10 @@
 
 * [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
 * [Thinking Forth](http://thinking-forth.sourceforge.net/)
+* [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf)
+* [A Beginner's Guide to Forth](http://hackershelf.com/book/482/a-beginners-guide-to-forth/)
+* [And so Forth...](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf)
+* [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm)
 
 
 ###Git
@@ -395,6 +407,7 @@
 * [Real World Haskell](http://book.realworldhaskell.org/)
 * [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
+* [Haskell no panic](http://lisperati.com/haskell/)
 
 
 ###HTML / CSS
@@ -445,6 +458,7 @@
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+* [The JavaScript Tutorial](http://javascript.info/)
 
 ####Node.js
 
@@ -560,6 +574,7 @@
 * [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/)
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Real World OCaml](https://realworldocaml.org/beta3/en/html/)
+* [Think OCaml](http://web.archive.org/web/20120307164444/http://www.thinkocaml.com/)
 
 
 ###Oracle Server
@@ -665,6 +680,7 @@
 * [The R Manuals](http://cran.r-project.org/manuals.html)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
+* [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf)
 * [Advanced R Programming](http://adv-r.had.co.nz/)
 
 
@@ -681,6 +697,7 @@
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
+* [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
 
 
 ###Ruby on Rails
@@ -717,6 +734,7 @@
 * [Concrete Abstractions: An Introduction to Computer Science Using Scheme](https://gustavus.edu/+max/concrete-abstractions.html)
 * The Scheme Programming Language [Edition 3](http://www.scheme.com/tspl3/), [Edition 4](http://www.scheme.com/tspl4/)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html)
+* [Teach Yourself Scheme in Fixnum Days](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html)
 
 
 ###Sed

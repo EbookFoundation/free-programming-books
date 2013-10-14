@@ -651,6 +651,7 @@
 * [The R Manuals](http://cran.r-project.org/manuals.html)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
+* [Advanced R Programming](http://adv-r.had.co.nz/)
 
 
 ###Racket

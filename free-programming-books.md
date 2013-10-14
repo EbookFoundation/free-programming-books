@@ -2,6 +2,7 @@
 * [Meta-Lists](#meta-lists)
 * [Graphics Programming](#graphics-programming)
 * [Language Agnostic](#language-agnostic)
+* [Ada](#ada)
 * [Android](#android)
 * [Autotools](#autotools)
 * [ASP.NET MVC](#aspnet-mvc)
@@ -221,6 +222,10 @@
 ####MOOC
 * [Online Course Materials](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
 
+###Ada
+* [Ada 95: The Craft of Object-Oriented Programming](http://faculty.cs.wwu.edu/reedyc/AdaResources/bookhtml/contents.htm)
+* [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf)
+* [Ada for Software Engineers](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf)
 
 ###Android
 
@@ -416,6 +421,7 @@
 * [Crockford's JavaScript](http://www.crockford.com/javascript/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [Essential Javascript &amp; jQuery Design Patterns for Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf)
 * [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)

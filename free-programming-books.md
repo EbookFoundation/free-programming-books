@@ -635,6 +635,7 @@
    * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
    * [Code Happy](http://codehappy.daylerees.com/) (Laravel 3 Starter Book)
    * [Code Bright](http://codebright.daylerees.com/) (Laravel 4 Starter Book)
+* [PHP Internals Book](http://www.phpinternalsbook.com/)
 
 
 ###PowerShell

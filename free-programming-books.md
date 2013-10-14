@@ -466,6 +466,7 @@
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [The JavaScript Tutorial](http://javascript.info/)
+* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 
 ####Node.js
 

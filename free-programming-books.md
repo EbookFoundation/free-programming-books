@@ -638,10 +638,12 @@
 * [Dive into Python](http://www.diveintopython.net/)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart
+* [Hitchiker's Guide to Python!](http://docs.python-guide.org/en/latest/)
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * [Natural Language Processing with Python](http://www.nltk.org/book)
+* [Porting to Python 3: An In-Depth Guide](http://python3porting.com/)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
 * [Python for Fun](http://www.openbookproject.net/py4fun/)

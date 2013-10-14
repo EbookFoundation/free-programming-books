@@ -246,6 +246,7 @@
 ###Autotools
 
 * [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
+* [Autotools Mythbuster](https://www.flameeyes.eu/autotools-mythbuster/)
 
 
 ###ASP.NET MVC

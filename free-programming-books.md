@@ -14,7 +14,7 @@
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
 * [D](#d)
-* [DTrace](#d--dtrace)
+* [DTrace](#dtrace)
 * [DB2](#db2)
 * [Delphi / Pascal](#delphi--pascal)
 * [Django](#django)
@@ -315,7 +315,7 @@
 ###D
 * [Programming in D](http://ddili.org/ders/d.en/)
 
-###D / DTrace
+###DTrace
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
 
 ###DB2

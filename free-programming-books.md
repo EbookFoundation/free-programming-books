@@ -8,7 +8,8 @@
 * [ASP.NET MVC](#aspnet-mvc)
 * [Assembly Language](#assembly-language)
 * [Bash](#bash)
-* [C / C++](#c--c)
+* [C](#c)
+* [C++](#c)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
@@ -260,19 +261,23 @@
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
 
 
-###C / C++
+###C
 
-* [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
+* [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
+* [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
+* [Learn C the hard way](http://c.learncodethehardway.org/book/)
+* [The new C standard - an annotated reference](http://www.knosof.co.uk/cbook/cbook.html)
+* [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
+
+
+###C++
+
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
-* [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
-* [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf)
-* [The new C standard - an annotated reference](http://www.knosof.co.uk/cbook/cbook.html)
-* [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [Thinking in C++, Second Edition](http://www.mindview.net/Books/TICPP/ThinkingInCPP2e.html)
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)

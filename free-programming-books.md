@@ -437,6 +437,7 @@
 ###LaTeX
 
 * [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf)
+* [LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX)
 
 
 ###Linux

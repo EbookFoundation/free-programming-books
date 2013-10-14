@@ -9,6 +9,12 @@
 # Or just like that if all the dependencies are installed:
 # $ ./check-list.rb
 
+# This script checks if the books on the list are accessible. When <verify snippet="..." />
+# tag is provided, the content is checked against it. The snippet should be present in the
+# body of the response as is (not HTML tags are processed or stripped).
+# <verify> tag was invented since I couldn't find a way to embed a comment into a markdown file.
+# GitHub seems to be stripping unknown tags out. So it works.
+
 # TODO:
 #   - silent mode
 #   - log failures in machine readable format

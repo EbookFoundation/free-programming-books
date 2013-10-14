@@ -789,7 +789,6 @@
 ###Theory
 
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
-* []
 
 ###Vim
 

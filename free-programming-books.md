@@ -470,7 +470,6 @@
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [The JavaScript Tutorial](http://javascript.info/)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
-* [JavaScript Allongé. A strong cup of functions, objects, combinators, and decorators](https://leanpub.com/javascript-allonge/read)
 
 ####Node.js
 

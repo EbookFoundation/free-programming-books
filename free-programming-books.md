@@ -123,6 +123,9 @@
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
 * [Open Data Structures](http://opendatastructures.org/)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+* [Algorithms for Programmers: Ideas and Source Code](http://www.jjj.de/fxt/fxtbook.pdf)
+* [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
+* [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf)
 
 ####Operating systems
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)

@@ -497,6 +497,7 @@
 * [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
 * [Secure Programming for Linux and Unix](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
+* [The Linux Programmer's Guide] (http://www.tldp.org/LDP/lpg-0.4.pdf)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf)
 
 

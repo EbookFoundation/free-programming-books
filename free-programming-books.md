@@ -225,6 +225,8 @@
 
 ###Android
 
+*[Google Android Developer Training](https://developer.android.com/training/index.html)
+*[Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 
 ###Autotools
 

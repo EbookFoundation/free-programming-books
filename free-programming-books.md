@@ -9,7 +9,7 @@
 * [Assembly Language](#assembly-language)
 * [Bash](#bash)
 * [C](#c)
-* [C++](#c)
+* [C++](#c-1)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)

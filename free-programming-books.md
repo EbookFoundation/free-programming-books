@@ -178,7 +178,7 @@
 
 ####Mathematics
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
-* [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (PDF, code written in Python) - Allen B. Downey
+* [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
@@ -289,6 +289,7 @@
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [Thinking in C++, Second Edition](http://www.mindview.net/Books/TICPP/ThinkingInCPP2e.html)
+* [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 
 
@@ -442,7 +443,7 @@
 
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
-* [How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/)
+* [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf)
 * [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
@@ -582,7 +583,7 @@
 * [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/)
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Real World OCaml](https://realworldocaml.org/beta3/en/html/)
-* [Think OCaml](http://web.archive.org/web/20120307164444/http://www.thinkocaml.com/)
+* [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey and Nicholas Monje
 
 
 ###OpenSCAD
@@ -619,7 +620,7 @@
 * [Perl & LWP](http://lwp.interglacial.com/index.html)
 * [Perl for the Web](http://www.globalspin.com/thebook/)
 * [Perl Free Online EBooks](http://linkmingle.com/list/13-plus-List-of-Free-Great-Perl-Books-available-Online-freebooksandarticles) (meta-list)
-* [Perl The Hard Way](http://www.greenteapress.com/perl/)
+* [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
 * [Practical mod_perl](http://modperlbook.org/)
 * [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
 
@@ -686,7 +687,7 @@
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
-* [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) (PDF) - Allen B. Downey
+* [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
 
 
 ###R

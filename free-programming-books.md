@@ -614,6 +614,7 @@
 ###PHP
 
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
+* [PHP: The Right Way](http://www.phptherightway.com/)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
 * [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)

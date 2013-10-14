@@ -144,6 +144,7 @@
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf)
 * [Linkers and loaders](http://www.iecc.com/linker/)
 * [Compiler Design: Theory, Tools, and Examples](http://elvis.rowan.edu/~bergmann/books.html)
+* [Practical and Theoretical Aspects of Compiler Construction](http://www.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 
 ####Programming Paradigms
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)

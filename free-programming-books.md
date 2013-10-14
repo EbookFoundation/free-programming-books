@@ -31,6 +31,7 @@
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Icon](#icon)
+* [IDL](#idl)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Node.js](#nodejs)
@@ -409,6 +410,11 @@
 ###Icon
 
 * [The Implementation of the Icon Programming Language](http://www.cs.arizona.edu/icon/ibsale.htm)
+
+
+###IDL
+
+* [Getting Started with IDL](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/getting-started-IDL-v7.0.pdf)
 
 
 ###Java

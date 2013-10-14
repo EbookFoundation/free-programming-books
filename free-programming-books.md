@@ -408,7 +408,7 @@
 
 ####Backbone.js
 
-* [Developting Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 
 ####D3.js
 

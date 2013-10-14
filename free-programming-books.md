@@ -123,6 +123,7 @@
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
 * [Open Data Structures](http://opendatastructures.org/)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+* [Introduction to Computing](http://www.computingbook.org/)
 
 ####Operating systems
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)
@@ -230,7 +231,9 @@
 
 
 ####MOOC
-* [Online Course Materials](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
+* [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
+* [Coursera](https://www.coursera.org/)
+* [Udacity](https://www.udacity.com/)
 
 ###Ada
 * [Ada 95: The Craft of Object-Oriented Programming](http://faculty.cs.wwu.edu/reedyc/AdaResources/bookhtml/contents.htm)
@@ -786,6 +789,7 @@
 ###Theory
 
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+* []
 
 ###Vim
 

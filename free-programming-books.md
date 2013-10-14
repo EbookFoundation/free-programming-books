@@ -241,6 +241,7 @@
 
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
+* [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
 
 ###Autotools
 

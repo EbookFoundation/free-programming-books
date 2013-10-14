@@ -470,6 +470,8 @@
 ###Lua
 
 * [Programming In Lua](http://www.lua.org/pil/) (for version 5)
+* [Programming Gems](http://www.lua.org/gems/)
+* [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/)
 
 
 ###Mathematica

@@ -2,6 +2,7 @@
 * [Meta-Lists](#meta-lists)
 * [Graphics Programming](#graphics-programming)
 * [Language Agnostic](#language-agnostic)
+* [Ada](#ada)
 * [Android](#android)
 * [Autotools](#autotools)
 * [ASP.NET MVC](#aspnet-mvc)
@@ -68,6 +69,7 @@
 * [Subversion](#subversion)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [Teradata](#teradata)
+* [Theory](#theory)
 * [Vim](#vim)
 * [Websphere](#websphere)
 * [Windows Phone](#windows-phone)
@@ -225,9 +227,15 @@
 ####MOOC
 * [Online Course Materials](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
 
+###Ada
+* [Ada 95: The Craft of Object-Oriented Programming](http://faculty.cs.wwu.edu/reedyc/AdaResources/bookhtml/contents.htm)
+* [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf)
+* [Ada for Software Engineers](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf)
 
 ###Android
 
+* [Google Android Developer Training](https://developer.android.com/training/index.html)
+* [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 
 ###Autotools
 
@@ -243,6 +251,7 @@
 ###Assembly Language
 
 * [Paul Carter's Tutorial on x86 Assembly](http://drpaulcarter.com/pcasm/)
+* [Professional Assembly Language](http://blog.hit.edu.cn/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf)
 * [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 
@@ -293,6 +302,7 @@
 ###ColdFusion
 
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown)
+* [Learn CF in a Week](http://learncfinaweek.com/)
 
 ###D / DTrace
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
@@ -429,6 +439,7 @@
 * [Crockford's JavaScript](http://www.crockford.com/javascript/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [Essential Javascript &amp; jQuery Design Patterns for Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf)
 * [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
@@ -451,6 +462,7 @@
 ###LaTeX
 
 * [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf)
+* [LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX)
 
 
 ###Linux
@@ -463,6 +475,7 @@
 * [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
 * [Secure Programming for Linux and Unix](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
+* [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf)
 
 
 ###Lisp
@@ -481,6 +494,8 @@
 ###Lua
 
 * [Programming In Lua](http://www.lua.org/pil/) (for version 5)
+* [Programming Gems](http://www.lua.org/gems/)
+* [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/)
 
 
 ###Mathematica
@@ -652,10 +667,12 @@
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
 * [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf)
+* [Advanced R Programming](http://adv-r.had.co.nz/)
 
 
 ###Racket
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
+* [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
 
 
 ###Ruby
@@ -735,6 +752,9 @@
 
 * [Teradata Books](http://www.info.teradata.com/)
 
+###Theory
+
+* [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 
 ###Vim
 

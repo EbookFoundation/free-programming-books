@@ -49,6 +49,7 @@
 * [Oberon](#oberon)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
+* [OpenSCAD](#openscad)
 * [Oracle Server](#oracle-server)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Parrot / Perl 6](#parrot--perl-6)
@@ -579,6 +580,11 @@
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Real World OCaml](https://realworldocaml.org/beta3/en/html/)
 * [Think OCaml](http://web.archive.org/web/20120307164444/http://www.thinkocaml.com/)
+
+
+###OpenSCAD
+
+* [OpenSCAD User Manual](http://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 
 ###Oracle Server

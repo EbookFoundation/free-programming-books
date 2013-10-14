@@ -13,7 +13,8 @@
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
-* [D / DTrace](#d--dtrace)
+* [D](#d)
+* [DTrace](#dtrace)
 * [DB2](#db2)
 * [Delphi / Pascal](#delphi--pascal)
 * [Django](#django)
@@ -311,7 +312,10 @@
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown)
 * [Learn CF in a Week](http://learncfinaweek.com/)
 
-###D / DTrace
+###D
+* [Programming in D](http://ddili.org/ders/d.en/)
+
+###DTrace
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
 
 ###DB2

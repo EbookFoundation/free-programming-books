@@ -147,6 +147,7 @@
 
 ####Software Architecture
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+* [The Performance of Open Source Applications](http://aosabook.org/en/)
 * [Programming Pearls](http://cs.bell-labs.com/cm/cs/pearls/)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf)
 * [Summary of the GoF Design Patterns](http://domaindrivendesign.org/sites/default/files/discussion/PatternSummariesUnderCreativeCommons.doc)
@@ -217,7 +218,6 @@
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 * [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
 
-
 ####MOOC
 * [Online Course Materials](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
 
@@ -274,6 +274,8 @@
 * [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
+* [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Modern cljs](https://github.com/magomimmo/modern-cljs)
 
 
 ###CoffeeScript
@@ -342,6 +344,9 @@
 
 * [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
 * [Thinking Forth](http://thinking-forth.sourceforge.net/)
+* [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf)
+* [A Beginner's Guide to Forth](http://hackershelf.com/book/482/a-beginners-guide-to-forth/)
+* [And so Forth...](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf)
 
 
 ###Git
@@ -422,6 +427,7 @@
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+* [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 
 ####Node.js
 

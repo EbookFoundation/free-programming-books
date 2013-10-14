@@ -347,7 +347,6 @@
 
 ###F Sharp
 
-* [The F# Survival Guide](http://www.ctocorner.com/fsharp/book/ch0.aspx)
 * [F Sharp Programming](http://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
 * [Real World Functional Programming](http://msdn.microsoft.com/en-us/library/hh314518.aspx) (MSDN Chapters)
 * [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf) (PDF)

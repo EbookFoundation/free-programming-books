@@ -286,6 +286,7 @@
 * [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [The Art of Assembly Language Programming](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
+* [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly) 
 
 
 ###Bash

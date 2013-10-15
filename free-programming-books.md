@@ -320,13 +320,14 @@
 
 ###Clojure
 
-* [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
+* [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
-* [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
-* [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [Clojure for the Brave and True](http://www.braveclojure.com/)
+* [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+* [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
+* [Modern cljs](https://github.com/magomimmo/modern-cljs)
 
 
 ###CoffeeScript

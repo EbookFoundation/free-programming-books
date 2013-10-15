@@ -306,6 +306,7 @@
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [The new C standard - an annotated reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
+* [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C) 
 
 
 ###C++

@@ -286,6 +286,7 @@
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [The Art of Assembly Language Programming](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
 * [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly) 
+* [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
 
 
 ###Bash

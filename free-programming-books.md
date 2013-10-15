@@ -18,7 +18,6 @@
 * [DTrace](#dtrace)
 * [DB2](#db2)
 * [Delphi / Pascal](#delphi--pascal)
-* [Django](#django)
 * [Elasticsearch](#elasticsearch)
 * [Emacs](#emacs)
 * [Erlang](#erlang)
@@ -62,6 +61,7 @@
 * [Prolog](#prolog)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+    * [Django](#django)
 * [R](#r)
 * [Racket](#racket)
 * [Ruby](#ruby)
@@ -370,12 +370,6 @@
 ###Delphi / Pascal
 
 * [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
-
-
-###Django
-
-* [Djen of Django](http://agiliq.com/books/djenofdjango/)
-* [Django by Example](http://www.lightbird.net/dbe/)
 
 
 ###Elasticsearch
@@ -740,6 +734,11 @@
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
+
+####Django
+
+* [Djen of Django](http://agiliq.com/books/djenofdjango/)
+* [Django by Example](http://www.lightbird.net/dbe/)
 
 
 ###R

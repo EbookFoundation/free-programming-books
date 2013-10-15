@@ -110,7 +110,7 @@
 ###Graphics User Interfaces
 
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
- 
+
 
 ###Language Agnostic
 
@@ -238,6 +238,7 @@
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 * [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
+* [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
 
 
 ####MOOC
@@ -259,6 +260,7 @@
 ###Autotools
 
 * [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
+* [Autotools Mythbuster](https://www.flameeyes.eu/autotools-mythbuster/)
 
 
 ###ASP.NET MVC

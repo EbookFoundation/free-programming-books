@@ -671,6 +671,12 @@
    * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
    * [Code Happy](http://codehappy.daylerees.com/) (Laravel 3 Starter Book)
    * [Code Bright](http://codebright.daylerees.com/) (Laravel 4 Starter Book)
+* Drupal Framework
+	* Drupal 6
+	* Drupal 7
+		*	[The Tiny Book of Rules](https://drupal.org/files/tiny-book-of-rules.pdf)
+		*	[Master Drupal in 7 hours](http://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf)
+	* Drupal 8
 * [PHP Internals Book](http://www.phpinternalsbook.com/)
 
 

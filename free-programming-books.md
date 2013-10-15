@@ -74,6 +74,7 @@
 * [Smalltalk](#smalltalk)
 * [Subversion](#subversion)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
+* [SQL Server](#sql-server)
 * [Teradata](#teradata)
 * [Theory](#theory)
 * [Vim](#vim)
@@ -829,6 +830,10 @@
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com/)
 * [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
 
+###SQL Server
+* [Introducing Microsoft SQL Server 2008 R2](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#IntroducingMicrosoftSQLServer2008R2)
+* [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#IntroducingMicrosoftSQLServer2012)
+* [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#SQLServer2012Tutorials:ReportingServices)
 
 ###Teradata
 

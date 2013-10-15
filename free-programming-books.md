@@ -289,6 +289,7 @@
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [The Art of Assembly Language Programming](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
 * [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly) 
+* [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
 
 
 ###Bash
@@ -308,6 +309,7 @@
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [The new C standard - an annotated reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
+* [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C) 
 
 
 ###C++
@@ -416,6 +418,7 @@
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+* [Git Reference](http://www.gitref.org)
 
 
 ###Go

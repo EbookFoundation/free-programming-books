@@ -123,7 +123,16 @@
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
 * [Open Data Structures](http://opendatastructures.org/)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+* [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf)
+* [Matters Computational](http://www.jjj.de/fxt/#fxtbook)
+* [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
+
+####Theoretical Computer Science
+* [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
+* [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
+* [Programming Languages: Application and Interpretation](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Introduction to Computing](http://www.computingbook.org/)
+* [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
 
 ####Operating systems
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)
@@ -170,6 +179,10 @@
 * [Best Kept Secrets of Peer Code Review](http://smartbear.com/codecollab-code-review-book.php)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [Essential Skills for Agile Development](http://elliottback.com/wp/essential-skills-for-agile-development/)
+* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
+* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/portal/web/swebok)
+* [Programming Reliable Systems (Joe Armstrong's PhD thesis)](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf)
+* [Producing Open Source Software](http://producingoss.com/)
 
 ####Information Retrieval
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
@@ -182,6 +195,7 @@
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
 
 ####Misc
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)
@@ -190,14 +204,9 @@
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/)
 * [I Am a Bug](http://www.amibug.com/iamabug/p01.html)
 * [Learn to Program](http://pine.fm/LearnToProgram/)
-* [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [Foundations of Programming](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
-* [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
-* [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
-* [Programming Languages: Application and Interpretation](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Programming Methodology](http://www.stanford.edu/class/cs106a/cgi-bin/handouts/)
 * [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf)
-* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
 * [Communicating Sequential Processes (PDF)](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
@@ -212,16 +221,11 @@
 * [Flow based Programming](http://jpaulmorrison.com/fbp/#book)
 * [Getting Real](http://gettingreal.37signals.com/)
 * [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
-* [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf)
-* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/portal/web/swebok)
-* [Matters Computational](http://www.jjj.de/fxt/#fxtbook)
 * [Modeling Reactive Systems with Statecharts](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
 * [NASA Manager Handbook for Software Development](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-manage.pdf) (PDF)
 * [NASA Software Measurement Handbook](http://www.scribd.com/doc/7181362/NASA-Software-Measurement-Guidebook)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
-* [Programming Reliable Systems (Joe Armstrong's PhD thesis)](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf)
-* [Producing Open Source Software](http://producingoss.com/)
 * [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)

@@ -503,10 +503,8 @@
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/blog/essentialjsdesignpatterns/)
-* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [The JavaScript Tutorial](http://javascript.info/)
-* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)
 
 ####Backbone.js

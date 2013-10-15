@@ -202,6 +202,7 @@
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.html)
 
 ####Misc
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)

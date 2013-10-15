@@ -35,8 +35,9 @@
 * [IDL](#idl)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [Node.js](#nodejs)
+    * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
+    * [Node.js](#nodejs)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
@@ -482,16 +483,20 @@
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)
 
+####Backbone.js
+
+* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+
+####D3.js
+
+* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+
 ####Node.js
 
 * [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [The Node Beginner Book](http://nodebeginner.org/)
 * [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
-
-####D3.js
-
-* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
 ###LaTeX
 

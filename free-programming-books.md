@@ -186,6 +186,15 @@
 ####Datamining
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
 
+####Machine Learning
+* [Programming Computer Vision with Python](https://github.com/dolaameng/free-programming-books.git)
+* [A Course in Machine Learning](http://hackershelf.com/book/492/a-course-in-machine-learning/)
+* [Bayesian Methods for Hackers](http://hackershelf.com/book/455/bayesian-methods-for-hackers/)
+* [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
+* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+* [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf)
+* [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
+
 ####Mathematics
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
@@ -830,12 +839,3 @@
 ###Windows Phone
 
 * [Programming Windows Phone 7](http://blogs.msdn.com/b/microsoft_press/archive/2010/10/28/free-ebook-programming-windows-phone-7-by-charles-petzold.aspx)
-
-###Machine Learning
-* [Programming Computer Vision with Python](https://github.com/dolaameng/free-programming-books.git)
-* [A Course in Machine Learning](http://hackershelf.com/book/492/a-course-in-machine-learning/)
-* [Bayesian Methods for Hackers](http://hackershelf.com/book/455/bayesian-methods-for-hackers/)
-* [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
-* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-* [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf)
-* [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)

@@ -186,6 +186,7 @@
 
 ####Datamining
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
+* [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 
 ####Machine Learning
 * [Programming Computer Vision with Python](https://github.com/dolaameng/free-programming-books.git)

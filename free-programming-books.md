@@ -421,6 +421,7 @@
 * [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
 * [Haskell no panic](http://lisperati.com/haskell/)
+* [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/) (HTML/PDF)
 
 
 ###HTML / CSS

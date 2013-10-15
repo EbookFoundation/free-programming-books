@@ -195,6 +195,7 @@
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
+* [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
 
 ####Mathematics
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey

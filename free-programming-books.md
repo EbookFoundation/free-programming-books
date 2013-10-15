@@ -259,6 +259,8 @@
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
 * [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
 
+####Web Performance
+* [Book of Speed](http://www.bookofspeed.com/index.html) by Stoyan Stefanov
 
 ####MOOC
 * [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)

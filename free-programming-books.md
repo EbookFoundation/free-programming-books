@@ -227,6 +227,7 @@
 * [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/) (fascicles, mostly volume 4)
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 * [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
+* [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
 
 
 ####MOOC

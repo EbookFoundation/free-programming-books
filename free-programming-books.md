@@ -387,6 +387,7 @@
 ###Git
 
 * [Pro Git](http://git-scm.com/book)
+* [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
@@ -448,6 +449,7 @@
 ###Java
 
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
+* [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/html/page9.html)
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
@@ -470,10 +472,12 @@
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Learning JavaScript Design Patterns](http://addyosmani.com/blog/essentialjsdesignpatterns/)
+* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [The JavaScript Tutorial](http://javascript.info/)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+* [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)
 
 ####Node.js
 

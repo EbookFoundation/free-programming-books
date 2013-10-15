@@ -743,6 +743,7 @@
 
 * [The Sage Manuals](http://sagemath.org/doc/)
 * [Sage for Newbies](http://sage.math.washington.edu/home/tkosan/newbies_book/)
+* [Sage for Power Users](http://modular.math.washington.edu/books/sagebook/sagebook.pdf)
 
 ###Scala
 

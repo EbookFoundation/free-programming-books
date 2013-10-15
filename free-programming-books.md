@@ -721,6 +721,8 @@
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
 * [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf)
 * [Advanced R Programming](http://adv-r.had.co.nz/)
+* [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf)
+* [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf)
 
 
 ###Racket

@@ -183,9 +183,7 @@
 ####Software Architecture
 
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf)
-* [Summary of the GoF Design Patterns](http://domaindrivendesign.org/sites/default/files/discussion/PatternSummariesUnderCreativeCommons.doc)
 * [How to write Unmaintainable Code](http://mindprod.com/jgloss/unmain.html)
-* [OO Design](http://homepage.mac.com/s_lott/books/oodesign.html)
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/)
 * [Patterns and Practices: Application Architecture Guide 2.0](http://www.codeplex.com/AppArchGuide)
 * [The Definitive Guide to Building Code Quality](http://nexus.realtimepublishers.com/dgbcq.php)
@@ -598,7 +596,6 @@
 * [Entity Framework](http://weblogs.asp.net/zeeshanhirani/archive/2008/12/05/my-christmas-present-to-the-entity-framework-community.aspx)
 * [Moving to Microsoft Visual Studio 2010](http://blogs.msdn.com/b/microsoft_press/archive/2010/09/13/free-ebook-moving-to-microsoft-visual-studio-2010.aspx)
 * [Nemerle](http://asaha.com/ebook/AMTQ2NjA-/Nemerle.pdf)
-* [Programmer's Heaven C# School Book](http://www.programmersheaven.com/2/CSharpBook) (covers C# 1.0 and 2.0)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 * [Visual Studio Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
@@ -713,7 +710,6 @@
 * [Logic, Programming and Prolog (2ed)](http://www.ida.liu.se/~ulfni/lpp/)
 * [Natural Language Processing in Prolog](http://www.informatics.susx.ac.uk/research/groups/nlp/gazdar/nlp-in-prolog/index.html)
 * [Natural Language Processing Techniques in Prolog](http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/)
-* [Prolog Programming A First Course](http://computing.unn.ac.uk/staff/cgpb4/prologbook/)
 * [Prolog Techniques](http://bookboon.com/int/student/it/prolog-techniques-applications-of-prolog)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
 * [Visual Prolog 7.2 for Tyros](http://download.pdc.dk/vip/72/books/tyros/tyros72.pdf)

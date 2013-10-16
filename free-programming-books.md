@@ -10,7 +10,7 @@
 * [Assembly Language](#assembly-language)
 * [Bash](#bash)
 * [C](#c)
-* [C++](#c-1)
+* [C++](#c++)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
@@ -322,7 +322,10 @@
 * [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C)
 
 
-###C++
+<h3>
+  <a name="c++" class="anchor" href="#c++"><span class="octicon octicon-link"></span></a>
+  C++
+</h3>
 
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)

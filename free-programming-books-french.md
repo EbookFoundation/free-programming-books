@@ -1,7 +1,7 @@
 ###Index
 * [LaTeX](#latex)
 * [Python](#python)
-
+* [SPIP](#spip)
 ###LaTeX
 
 * [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf)
@@ -11,3 +11,7 @@
 ###Python
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) par Gerard Swinnen
+
+###SPIP
+* [Programmer avec SPIP](http://programmer.spip.net/), par Matthieu Marcimat et collectif SPIP
+

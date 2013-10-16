@@ -1,5 +1,6 @@
 ###Index
 * [Non dépendant du langage](#non-dépendant-du-langage)
+* [Assembleur](#assembleur)
 * [Caml](#caml)
 * [C / C++](#c-c)
 * [Git](#git)
@@ -18,6 +19,8 @@
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
 
+###Assembleur
+* [Initiation à la programmation en assembleur 64 bits](http://www.ilv-edition.com/librairie/initiation-programmation-assembleur-bits.html), par Pierre Jourlin
 ###Caml
 
 * [Introduction à Objective Caml](http://form-ocaml.forge.ocamlcore.org/html/index.html), par Maxence Guesdon

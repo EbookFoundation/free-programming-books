@@ -21,7 +21,6 @@
 * [Elasticsearch](#elasticsearch)
 * [Emacs](#emacs)
 * [Erlang](#erlang)
-* [Flask](#flask)
 * [Flex](#flex)
 * [F#](#f-sharp)
 * [Forth](#forth)
@@ -63,6 +62,7 @@
 * [PostgreSQL](#postgresql)
 * [Python](#python)
     * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Racket](#racket)
 * [Ruby](#ruby)
@@ -389,9 +389,6 @@
 
 * [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/)
 
-###Flask
-
-* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ###Flex
 
@@ -748,6 +745,10 @@
 
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
+
+####Flask
+
+* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 
 ###R

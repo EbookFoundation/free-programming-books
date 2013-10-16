@@ -15,6 +15,7 @@
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
 * [D](#d)
+* [Dart](#dart)
 * [DTrace](#dtrace)
 * [DB2](#db2)
 * [Delphi / Pascal](#delphi--pascal)
@@ -86,14 +87,16 @@
 
 * [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/)
 * [Cheat Sheets (Free)](http://refcardz.dzone.com/)
+* [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com/)
+* [Hacker Shelf](http://hackershelf.com/browse/)
 * [Microsoft Press: Free E-Books](http://blogs.msdn.com/b/microsoft_press/archive/2011/03/03/ebooks-list-of-our-free-books.aspx)
 * [MindView Inc](http://www.mindviewinc.com/Books/)
+* [O'Reilly's Commons](http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons)
 * [O'Reilly's Open Books Project](http://oreilly.com/openbook/)
 * [TechBooksForFree.com](http://www.techbooksforfree.com/)
 * [Theassayer.org](http://theassayer.org/)
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
-* [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 
 ###Graphics Programming
 
@@ -199,10 +202,14 @@
 * [Don't Just Roll the Dice](http://www.neildavidson.com/dontjustrollthedice.html)
 
 ####Open Source Ecosystem
+* [Data Journalism Handbook](http://datajournalismhandbook.org/)
+* [Free Software, Free Society](http://shop.fsf.org/product/free-software-free-society-2/)
 * [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
+* [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html)
 * [Producing Open Source Software](http://producingoss.com/)
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+* [The Future of the Internet](http://futureoftheinternet.org/)
 * [The Performance of Open Source Applications](http://aosabook.org/en/)
 
 ####Information Retrieval
@@ -215,7 +222,6 @@
 ####Machine Learning
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 * [A Course in Machine Learning](http://hackershelf.com/book/492/a-course-in-machine-learning/)
-* [Bayesian Methods for Hackers](http://hackershelf.com/book/455/bayesian-methods-for-hackers/)
 * [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf)
@@ -235,6 +241,8 @@
 ####Misc
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
+* [A Mathematical Theory of Communication](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html) by Claude E.Shannon
+* [Asterisk™: The Definitive Guide](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/)
 * [I Am a Bug](http://www.amibug.com/iamabug/p01.html)
 * [Learn to Program](http://pine.fm/LearnToProgram/)
@@ -255,6 +263,7 @@
 * [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
+* [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
 * [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
 * [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
@@ -359,6 +368,9 @@
 ###D
 * [Programming in D](http://ddili.org/ders/d.en/)
 
+###Dart
+* [What is Dart?](http://shop.oreilly.com/product/0636920025887.do)
+
 ###DTrace
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
 
@@ -422,6 +434,7 @@
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 * [Git Reference](http://www.gitref.org)
+* [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
 
 
 ###Go
@@ -533,13 +546,18 @@
 ###Linux
 
 * [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
+* [Getting Started with Ubuntu](http://ubuntu-manual.org/)
 * [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
 * [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/index.html)
+* [The Debian Administrator's Handbook](http://debian-handbook.info/)
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php) (PDF)
 * [The Linux Development Platform (PDF)](http://www.informit.com/content/downloads/perens/0130091154.pdf)
 * [Linux Device Drivers](http://lwn.net/Kernel/LDD3/) by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
+* [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
 * [Secure Programming for Linux and Unix](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
+* [Ubuntu Pocket Guide and Reference](http://www.ubuntupocketguide.com/index_main.html)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf)
 
 
@@ -748,6 +766,7 @@
 
 ###R
 
+* [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) (PDF)
 * [The R Manuals](http://cran.r-project.org/manuals.html)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
@@ -771,6 +790,7 @@
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
+* [Ruby Best Practices](http://majesticseacreature.com/rbp-book/pdfs/rbp_1-0.pdf) (PDF)
 
 
 ###Ruby on Rails
@@ -792,6 +812,7 @@
 ###Scala
 
 * [Another tour of Scala](http://naildrivin5.com/scalatour)
+* [Effective Scala](http://twitter.github.com/effectivescala/)
 * [Exploring Lift](http://exploring.liftweb.net/) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
 * [Lift](http://github.com/tjweir/liftbook)
 * [Pro Scala: Monadic Design Patterns for the Web](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)

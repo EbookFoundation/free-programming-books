@@ -815,12 +815,16 @@
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
 * [Ruby Best Practices](http://majesticseacreature.com/rbp-book/pdfs/rbp_1-0.pdf) (PDF)
+* [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+* [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 
 
 ###Ruby on Rails
 
 * [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [Objects on Rails](http://objectsonrails.com)
+* [Ruby on Rails Guides](http://guides.rubyonrails.org)
+* [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
 
 
 ###Rust

@@ -431,8 +431,6 @@
 ###LaTeX
 
 * [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf)
-* (fr) [Tout ce que vous voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander/) by Vincent Lozano
-* (fr) [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) by Maïeul Rouquette
 
 ###Linux
 
@@ -608,7 +606,6 @@
 
 ###Python
 
-* (fr) [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) by Gerard Swinnen
 * [Byte of Python](http://www.swaroopch.com/notes/Python)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/)

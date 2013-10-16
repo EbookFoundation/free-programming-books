@@ -440,6 +440,7 @@
 
 ###Hadoop
 
+* [Hadoop Illuminated](http://hadoopilluminated.com/book.php) - Mark Kerzner & Sujee Maniyam
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
 
 

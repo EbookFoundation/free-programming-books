@@ -378,6 +378,7 @@
 
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
+* [The Django Book](http://www.djangobook.com/en/2.0/index.html)
 
 
 ###Elasticsearch

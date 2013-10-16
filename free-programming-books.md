@@ -50,6 +50,7 @@
 * [Oberon](#oberon)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
+* [Octave](#octave)
 * [OpenSCAD](#openscad)
 * [Oracle Server](#oracle-server)
 * [Oracle PL/SQL](#oracle-plsql)
@@ -628,6 +629,9 @@
 * [Real World OCaml](https://realworldocaml.org/beta3/en/html/)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey and Nicholas Monje
 
+###Octave
+
+* [Octave Programming](http://en.wikibooks.org/wiki/Octave_Programming_Tutorial)
 
 ###OpenSCAD
 

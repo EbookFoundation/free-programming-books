@@ -1,7 +1,13 @@
 ###Index
+* [Git](#git)
 * [LaTeX](#latex)
 * [Python](#python)
 * [SPIP](#spip)
+
+###Git
+
+* [Pro Git](http://www.git-scm.com/book/fr) par Scott Chacon
+
 ###LaTeX
 
 * [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf)

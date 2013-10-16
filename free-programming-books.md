@@ -141,7 +141,7 @@
 * [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf)
 
-####TheoreticalC omputer Science
+####Theoretical Computer Science
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 * [Programming Languages: Application and Interpretation](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Introduction to Computing](http://www.computingbook.org/)

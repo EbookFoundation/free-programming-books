@@ -138,7 +138,9 @@
 * [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/) (fascicles, mostly volume 4)
 * [Programming Pearls](http://cs.bell-labs.com/cm/cs/pearls/)
 * [Algorithms for Programmers: Ideas and Source Code](http://www.jjj.de/fxt/fxtbook.pdf)
-* [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
+* [Sequential and parallel sorting algorithms](http://ww
+* 
+* w.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf)
 
 ####Theoretical Computer Science
@@ -735,6 +737,7 @@
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
+* [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com/)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
@@ -742,6 +745,7 @@
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
+* [Python Scientific Lecture Notes](http://scipy-lectures.github.io/)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
 

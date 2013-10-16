@@ -105,7 +105,7 @@
 
 ###Meta-Lists
 
-* [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/)
+* [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/) <verify snippet="Below is a selection of 25 of the best free computer science books" />
 * [Cheat Sheets (Free)](http://refcardz.dzone.com/)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com/)

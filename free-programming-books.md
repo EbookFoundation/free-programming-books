@@ -215,7 +215,7 @@
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 
 ####Machine Learning
-* [Programming Computer Vision with Python](https://github.com/dolaameng/free-programming-books.git)
+* [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 * [A Course in Machine Learning](http://hackershelf.com/book/492/a-course-in-machine-learning/)
 * [Bayesian Methods for Hackers](http://hackershelf.com/book/455/bayesian-methods-for-hackers/)
 * [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)

@@ -138,12 +138,10 @@
 * [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/) (fascicles, mostly volume 4)
 * [Programming Pearls](http://cs.bell-labs.com/cm/cs/pearls/)
 * [Algorithms for Programmers: Ideas and Source Code](http://www.jjj.de/fxt/fxtbook.pdf)
-* [Sequential and parallel sorting algorithms](http://ww
-* 
-* w.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
+* [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf)
 
-####Theoretical Computer Science
+####TheoreticalC omputer Science
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 * [Programming Languages: Application and Interpretation](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Introduction to Computing](http://www.computingbook.org/)

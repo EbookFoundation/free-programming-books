@@ -96,6 +96,7 @@
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
 * [Teradata](#teradata)
+* [TeX](#tex)
 * [Theory](#theory)
 * [Vim](#vim)
 * [Websphere](#websphere)
@@ -575,6 +576,8 @@
 * [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf)
 * [LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX)
 
+See also [TeX](#tex)
+
 ###Linux
 
 * [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
@@ -908,6 +911,12 @@
 ###Teradata
 
 * [Teradata Books](http://www.info.teradata.com/)
+
+###TeX
+
+* (TeX for the Impatient)(https://www.gnu.org/software/teximpatient/), by Paul Abrahams, Kathryn Hargreaves, and Karl Berry
+
+See also [LaTeX](#latex)
 
 ###Theory
 

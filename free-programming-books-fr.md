@@ -10,6 +10,7 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [SPIP](#spip)
+* [TeX](#tex)
 
 ###Non dépendant du langage
 ####Algorithmique
@@ -32,9 +33,11 @@
 * [Pro Git](http://www.git-scm.com/book/fr) par Scott Chacon
 
 ###Javascript
+
 * [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net/), par Marijn Haverbeke
 
 ###Haskell
+
 * [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr/)
 
 ###LaTeX
@@ -42,7 +45,9 @@
 * [Tout ce que vous voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander/) par Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) par Maïeul Rouquette
 
+Voir aussi [TeX](#tex)
 ###Perl
+
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html), par Sylvain Lhullier
 * [La documentation Perl en français](http://perl.mines-albi.fr/DocFr.html)
 
@@ -56,8 +61,15 @@
 * [Venir à Ruby après un autre language](https://www.ruby-lang.org/fr/documentation/ruby-from-other-languages/)
 
 ####Ruby on Rails
+
 * [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning), par Michael Hartl 
 
 ###SPIP
+
 * [Programmer avec SPIP](http://programmer.spip.net/), par Matthieu Marcimat et collectif SPIP
 
+###TeX
+
+* (TeX pour l'Impatient)(ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
+
+Voir aussi [LaTeX](#latex)

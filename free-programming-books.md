@@ -50,6 +50,7 @@
 * [HTML / CSS](#html--css)
 * [Icon](#icon)
 * [IDL](#idl)
+* [J](#j)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Backbone.js](#backbonejs)
@@ -505,6 +506,22 @@
 
 * [Getting Started with IDL](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/getting-started-IDL-v7.0.pdf)
 * [Guide to Using IDL for Astronomers](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/IDLguide.html)
+
+
+###J
+
+* [Learning J by Roger Stokes- online](http://www.rogerstokes.free-online.co.uk/book.htm) || [pdf](http://www.elliscave.com/APL_J/Learning_J.pdf)
+* [J for C Programmers by Henry Rich- online](http://www.jsoftware.com/help/jforc/contents.htm) || [pdf](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20071003.pdf) || [word 2003 file](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20070929.doc)
+* [J Reference Card](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=view&target=J602_RefCard_color_letter_current.pdf) (pdf)
+* [Brief Reference by Chris Burke and Clifford Reiter ](http://www.jsoftware.com/books/pdf/brief.pdf)(pdf)
+* [Computers and Mathematical Notation by Kenneth E Iverson](http://www.jsoftware.com/papers/camn.htm)
+* [Easy J by Linda Alvord, Norman Thomson - pdf](http://www.jsoftware.com/books/pdf/easyj.pdf) || [Word DOC](http://www.jsoftware.com/books/doc/easyj_doc.zip)
+* [Math for the Layman by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/mftl.zip) (zipped html+images)
+* [Exploring Math by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/expmath.pdf) (pdf)
+* [Arithmetic by Kenneth E Iverson ](http://www.jsoftware.com/books/pdf/arithmetic.pdf) (pdf)
+* [Calculus by Kenneth E Iverson ](http://www.jsoftware.com/books/pdf/calculus.pdf)(pdf)
+* [Concrete Math Companion  by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/cmc.pdf) (pdf)
+* [J Primer](http://www.jsoftware.com/help/primer/contents.htm)
 
 
 ###Java

@@ -203,6 +203,7 @@
 ####Parallel Programming
 * [How to Write Parallel Programs](http://www.lindaspaces.com/book/)
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+* [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 
 ####Software Architecture
 

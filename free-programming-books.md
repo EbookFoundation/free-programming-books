@@ -619,7 +619,8 @@ See also [TeX](#tex)
 ###Mathematica
 
 * [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org/)
-
+* [Stephen Wolfram's The Mathematica Book] (http://reference.wolfram.com/legacy/v5_2/)
+* [Wolfram Mathematica Tutorial Collection] (http://www.wolfram.com/learningcenter/tutorialcollection/)
 
 ###Maven
 

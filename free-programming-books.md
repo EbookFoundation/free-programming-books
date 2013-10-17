@@ -21,6 +21,7 @@
     * [Web Performance](#web-performance)
     * [MOOC](#mooc)
     * [Professional Development](#professional-development)
+    * [Programmer's Motivation for Beginners](http://www.programmersmotivation.com)
 * [Ada](#ada)
 * [Android](#android)
 * [Autotools](#autotools)

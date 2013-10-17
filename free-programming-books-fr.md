@@ -66,7 +66,7 @@ Voir aussi [TeX](#tex)
 
 ####Ruby on Rails
 
-* [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning), par Michael Hartl 
+* [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning), par Michael Hartl
 
 ###SPIP
 
@@ -74,6 +74,6 @@ Voir aussi [TeX](#tex)
 
 ###TeX
 
-* (TeX pour l'Impatient)(ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
+* [TeX pour l'Impatient](ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
 
 Voir aussi [LaTeX](#latex)

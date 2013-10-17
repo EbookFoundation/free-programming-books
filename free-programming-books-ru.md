@@ -41,5 +41,5 @@
 
 ###SQL
 
-*[Работа с PostgreSQL: настройка и масштабирование](http://postgresql.leopard.in.ua/)
-*[История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
+* [Работа с PostgreSQL: настройка и масштабирование](http://postgresql.leopard.in.ua/)
+* [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)

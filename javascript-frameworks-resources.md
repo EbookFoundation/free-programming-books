@@ -27,3 +27,6 @@
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [Ember 101](http://ember101.com/)
 * [Let's Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/)
+
+## Knockout.js
+* [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*

@@ -5,6 +5,7 @@
 * [Perl](#perl)
 * [R](#r)
 * [Ruby](#ruby)
+* [Ruby on Rails](#ruby-on-rails)
 * [SQL](#sql)
 
 
@@ -36,7 +37,13 @@
 
 ###Ruby
 
-* [Ruby](https://github.com/Krugloff/rus_ruby_book)
+* [Круглов А. — Ruby](https://github.com/Krugloff/rus_ruby_book)
+
+
+###Ruby on Rails
+
+* [Ruby on Rails Guides](http://rusrails.ru)
+* [Ruby on Rails Tutorial](http://railstutorial.ru/)
 
 
 ###SQL

@@ -343,6 +343,7 @@
 
 ###C
 
+* [A Tutorial on Pointers and Arrays in C](http://home.netcom.com/~tjensen/ptr/pointers.htm)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
@@ -488,6 +489,7 @@
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
 * [Haskell no panic](http://lisperati.com/haskell/)
 * [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/) (HTML/PDF)
+* [Speeding Through Haskell](http://www.sthaskell.com/) (PDF)
 
 
 ###HTML / CSS
@@ -723,7 +725,7 @@ See also [TeX](#tex)
 * [Perl for the Web](http://www.globalspin.com/thebook/)
 * [Perl Free Online EBooks](http://linkmingle.com/list/13-plus-List-of-Free-Great-Perl-Books-available-Online-freebooksandarticles) (meta-list)
 * [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
-* [Practical mod_perl](http://modperlbook.org/)
+* [Practical mod\_perl](http://modperlbook.org/)
 * [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
 
 
@@ -820,6 +822,7 @@ See also [TeX](#tex)
 * [Advanced R Programming](http://adv-r.had.co.nz/)
 * [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf)
 * [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf)
+* [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
 
 
 ###Racket
@@ -891,6 +894,7 @@ See also [TeX](#tex)
 
 * [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents)
 * [Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
+* [Pharo by Example](http://pharobyexample.org/) (Smalltalk DE)
 * [Squeak By Example](http://www.squeakbyexample.org/) (Smalltalk IDE)
 
 

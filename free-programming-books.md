@@ -141,6 +141,7 @@
 ####Algorithms & Datastructures
 * [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
 * [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms.html) (draft)
+* [Algorithms Course Materials](http://compgeom.cs.uiuc.edu/~jeffe/teaching/algorithms/) - Jeff Erickson
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf)
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
 * [Computational Geometry: Algorithms and Applications](http://www.cs.uu.nl/geobook/) (chapters 1 and 9, pseudo-code)
@@ -203,6 +204,7 @@
 ####Parallel Programming
 * [How to Write Parallel Programs](http://www.lindaspaces.com/book/)
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+* [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 
 ####Software Architecture
 
@@ -621,7 +623,8 @@ See also [TeX](#tex)
 ###Mathematica
 
 * [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org/)
-
+* [Stephen Wolfram's The Mathematica Book] (http://reference.wolfram.com/legacy/v5_2/)
+* [Wolfram Mathematica Tutorial Collection] (http://www.wolfram.com/learningcenter/tutorialcollection/)
 
 ###Maven
 

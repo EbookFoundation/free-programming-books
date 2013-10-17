@@ -20,6 +20,7 @@
     * [Misc](#misc)
     * [Web Performance](#web-performance)
     * [MOOC](#mooc)
+    * [Professional Development](#professional-development)
 * [Ada](#ada)
 * [Android](#android)
 * [Autotools](#autotools)
@@ -50,12 +51,16 @@
 * [HTML / CSS](#html--css)
 * [Icon](#icon)
 * [IDL](#idl)
+* [iOS](#ios)
 * [J](#j)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
+    * [jQuery](#jQuery)
+    * [Knockout.js](#knockout.js)
     * [Node.js](#nodejs)
+    
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
@@ -98,6 +103,7 @@
 * [Teradata](#teradata)
 * [TeX](#tex)
 * [Theory](#theory)
+* [TypeScript](#typescript)
 * [Vim](#vim)
 * [Websphere](#websphere)
 * [Windows Phone](#windows-phone)
@@ -165,6 +171,9 @@
 * [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
+* [Data Structures Succinctly Part 1, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Data Structures Succinctly Part 2, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
+
 
 ####Theoretical Computer Science
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
@@ -189,6 +198,8 @@
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page:all)
 * [Network Security Tools](http://commons.oreilly.com/wiki/index.php/Network_Security_Tools)
+* [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
+
 
 ####Compiler Design
 * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
@@ -299,6 +310,11 @@
 * [Coursera](https://www.coursera.org/)
 * [Udacity](https://www.udacity.com/)
 
+
+####Professional Development
+* [Don't Just Roll the Dice](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) *(RedGate, By Neil Davidson)*
+* [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)* 
+
 ###Ada
 * [Ada 95: The Craft of Object-Oriented Programming](http://faculty.cs.wwu.edu/reedyc/AdaResources/bookhtml/contents.htm)
 * [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf)
@@ -364,6 +380,8 @@
 * [Thinking in C++, Second Edition](http://www.mindview.net/Books/TICPP/ThinkingInCPP2e.html)
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
+* [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
+
 
 
 ###Clojure
@@ -435,6 +453,8 @@
 * [F Sharp Programming](http://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
 * [Real World Functional Programming](http://msdn.microsoft.com/en-us/library/hh314518.aspx) (MSDN Chapters)
 * [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf) (PDF)
+* [F# Succinctly, SyncFusion](http://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) *(Just fill the fields with any values)*
+
 
 
 ###Forth
@@ -456,6 +476,8 @@
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 * [Git Reference](http://www.gitref.org)
 * [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
+* [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
+
 
 
 ###Go
@@ -512,6 +534,8 @@
 * [Getting Started with IDL](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/getting-started-IDL-v7.0.pdf)
 * [Guide to Using IDL for Astronomers](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/IDLguide.html)
 
+###iOS
+* [iOS Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) *(Just fill the fields with any values)*
 
 ###J
 
@@ -559,6 +583,8 @@
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [The JavaScript Tutorial](http://javascript.info/)
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)
+* [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
+
 
 ####Backbone.js
 
@@ -567,6 +593,13 @@
 ####D3.js
 
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+
+####jQuery
+
+* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
+
+####Knockout.js
+* [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
 
 ####Node.js
 
@@ -654,7 +687,9 @@ See also [TeX](#tex)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 * [Visual Studio Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
-
+* [Under the Hood of .NET Memory Management](http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf) *(RedGate, By Chris Farrell and Nick Harrison)*
+* [Practical Performance Profiling: Improving the efficiency of .NET code ](http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/practical-performance-profiling) *(RedGate, By Jean-Philippe Gouigoux)*
+* [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) *(RedGate, By Paul Glavich and Chris Farrell)*
 
 ###NoSQL
 
@@ -675,6 +710,7 @@ See also [TeX](#tex)
 
 * [Programming With Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf)
 * [Object-Oriented Programming with Objective-C](http://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/OOP_ObjC.pdf)
+* [Objective-C Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ###OCaml
@@ -914,6 +950,13 @@ See also [TeX](#tex)
 * [Introducing Microsoft SQL Server 2008 R2](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#IntroducingMicrosoftSQLServer2008R2)
 * [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#IntroducingMicrosoftSQLServer2012)
 * [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#SQLServer2012Tutorials:ReportingServices)
+* [SQL Server Execution Plans](http://download.red-gate.com/ebooks/SQL/sql-server-execution-plans.pdf) *(RedGate, By Grant Fritchey)*
+* [Defensive Database Programming ](http://download.red-gate.com/ebooks/SQL/defensive-database-programming.pdf) *(RedGate, By Alex Kuznetsov)*
+* [SQL Server Execution Plans, Second Edition](http://download.red-gate.com/ebooks/SQL/eBOOK_SQLServerExecutionPlans_2Ed_G_Fritchey.pdf) *(RedGate, By Grant Fritchey)*
+* [Inside the SQL Server Query Optimizer](http://www.red-gate.com/products/sql-development/sql-prompt/entrypage/sql-query-optimizer-ebook3) *(RedGate, By Benjamin Nevarez)*
+* [Mastering SQL Server Profiler](http://download.red-gate.com/ebooks/SQL/Mastering_Profiler_eBook.pdf) *(RedGate, By Brad McGehee)*
+
+
 
 ###Teradata
 
@@ -928,6 +971,10 @@ See also [LaTeX](#latex)
 ###Theory
 
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+
+###TypeScript
+
+* [TypeScript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) *(Just fill the fields with any values)*
 
 ###Vim
 

@@ -259,6 +259,7 @@
 * [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) (PDF)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
+* [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
 
 ####Mathematics
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
@@ -707,7 +708,7 @@ See also [TeX](#tex)
 ###Oracle PL/SQL
 * [PL/SQL Language Reference](http://download.oracle.com/docs/cd/E11882_01/appdev.112/e17126/toc.htm)
 * [PL/SQL Packages and Types Reference](http://download.oracle.com/docs/cd/E11882_01/appdev.112/e16760/toc.htm)
-* [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/Knowledge/DatabaseKnowledge/StevenFeuersteinsPLSQLObsession/tabid/153/Default.aspx)
+* [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession.aspx)
 
 
 ###Parrot / Perl 6

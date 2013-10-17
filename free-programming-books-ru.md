@@ -1,16 +1,24 @@
 ###Index
+* [CoffeeScript](#coffeescript)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [MetaPost](#metapost)
 * [Perl](#perl)
 * [R](#r)
 * [Ruby](#ruby)
+* [Ruby on Rails](#ruby-on-rails)
 * [SQL](#sql)
+
+
+###CoffeeScript
+
+* [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
 
 
 ###JavaScript
 
 * [Современный учебник JavaScript](http://learn.javascript.ru/)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 
 
 ###LaTeX
@@ -36,7 +44,13 @@
 
 ###Ruby
 
-* [Ruby](https://github.com/Krugloff/rus_ruby_book)
+* [Круглов А. — Ruby](https://github.com/Krugloff/rus_ruby_book)
+
+
+###Ruby on Rails
+
+* [Ruby on Rails Guides](http://rusrails.ru)
+* [Ruby on Rails Tutorial](http://railstutorial.ru/)
 
 
 ###SQL

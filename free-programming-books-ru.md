@@ -1,4 +1,5 @@
 ###Index
+* [CoffeeScript](#coffeescript)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [MetaPost](#metapost)
@@ -7,6 +8,11 @@
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)
 * [SQL](#sql)
+
+
+###CoffeeScript
+
+* [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
 
 
 ###JavaScript

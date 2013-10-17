@@ -57,7 +57,7 @@
 * [JavaScript](#javascript)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
-    * [jQuery](#jQuery)
+    * [jQuery](#jquery)
     * [Knockout.js](#knockout.js)
     * [Node.js](#nodejs)
 * [LaTeX](#latex)

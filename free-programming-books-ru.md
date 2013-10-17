@@ -12,6 +12,7 @@
 ###JavaScript
 
 * [Современный учебник JavaScript](http://learn.javascript.ru/)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 
 
 ###LaTeX

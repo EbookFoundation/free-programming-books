@@ -32,9 +32,9 @@
 
 * [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
 
-###
+###Unix
 
-* [Wie werde ich Unix Guru?])http://openbook.galileocomputing.de/unix_guru/)
+* [Wie werde ich Unix Guru?](http://openbook.galileocomputing.de/unix_guru/)
 
 ###Visual Basic
 

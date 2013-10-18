@@ -801,6 +801,7 @@ See also [TeX](#tex)
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
+* [Tango With Django](http://www.tangowithdjango.com/book/)
 
 ####Flask
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)

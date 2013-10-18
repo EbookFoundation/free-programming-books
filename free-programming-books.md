@@ -838,6 +838,11 @@ See also [TeX](#tex)
 * [Ruby Best Practices](http://majesticseacreature.com/rbp-book/pdfs/rbp_1-0.pdf) (PDF)
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
+* [Code Academy Ruby](http://www.codecademy.com/tracks/ruby)
+* [How To Think Like a Computer Scientist: Learning With Ruby](http://mysite.verizon.net/hpassel/thinkruby/)
+* [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+* [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
+* [Ruby Learning](http://rubylearning.com/)
 
 
 ###Ruby on Rails

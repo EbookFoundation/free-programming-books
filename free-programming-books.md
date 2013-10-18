@@ -59,7 +59,7 @@
     * [D3.js](#d3js)
     * [jQuery](#jquery)
     * [Knockout.js](#knockout.js)
-    * [Node.js](#nodejs)
+    * [Node.js](#nodejs)elo
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
@@ -564,6 +564,7 @@
 * [The JavaScript Tutorial](http://javascript.info/)
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
 * [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
+* [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
 
 ####Backbone.js
 

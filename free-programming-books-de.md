@@ -32,6 +32,10 @@
 
 * [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
 
+###
+
+* [Wie werde ich Unix Guru?])http://openbook.galileocomputing.de/unix_guru/)
+
 ###Visual Basic
 
 * [Einstieg in Visual Basic 2010](http://openbook.galileocomputing.de/einstieg_vb_2010/)

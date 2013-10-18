@@ -377,6 +377,7 @@
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 * [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Learn C++.] (http://www.learncpp.com/) (PDF, Online)
 
 
 ###Clojure

@@ -1,5 +1,6 @@
 ###Index
 * [CoffeeScript](#coffeescript)
+* [Git](#git)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [MetaPost](#metapost)
@@ -20,6 +21,11 @@
 * [Современный учебник JavaScript](http://learn.javascript.ru/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 
+
+###Git
+
+* [Pro Git](http://git-scm.com/book/ru)
+ 
 
 ###LaTeX
 

@@ -940,6 +940,7 @@ See also [LaTeX](#latex)
 
 ###Theory
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+* [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
 
 
 ###TypeScript

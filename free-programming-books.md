@@ -104,6 +104,7 @@
 * [Theory](#theory)
 * [TypeScript](#typescript)
 * [Vim](#vim)
+* [Web Services] (#webservices)
 * [Websphere](#websphere)
 * [Windows Phone](#windows-phone)
 
@@ -958,9 +959,8 @@ See also [LaTeX](#latex)
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 
-
-###Websphere
-* [Getting started with WebSphere](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_WASCE_p2.pdf) (PDF)
+###WebServices
+* [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
 
 
 ###Windows Phone

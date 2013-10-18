@@ -786,6 +786,7 @@ See also [TeX](#tex)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson
+* [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com/)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)

@@ -3,8 +3,8 @@
 * [iOS](#ios)
 * [Java](#java)
 * [Python](#python)
-* [Ruby on Rails](#ruby_on_rails)
-* [Visual Basic](#visual_basic)
+* [Ruby on Rails](#ruby-on-rails)
+* [Visual Basic](#visual-basic)
 
 ###Android
 

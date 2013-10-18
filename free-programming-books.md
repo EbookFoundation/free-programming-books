@@ -554,20 +554,20 @@
 
 
 ###JavaScript
-* [Crockford's JavaScript](http://www.crockford.com/javascript/)
-* [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [Essential Javascript & jQuery Design Patterns for Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
+* [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
+* [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
 * [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/blog/essentialjsdesignpatterns/)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [The JavaScript Tutorial](http://javascript.info/)
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
 * [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Dev Docs](http://devdocs.io/)
+* [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com/)  - Noel Rappin
 
 ####Backbone.js
 

@@ -468,7 +468,7 @@
 * [Git Reference](http://www.gitref.org)
 * [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
 * [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
-
+* [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 
 
 ###Go

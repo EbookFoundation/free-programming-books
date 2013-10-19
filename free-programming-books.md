@@ -248,6 +248,7 @@
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 ####Datamining
+* [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/DokuWiki/doku.php) (Draft)
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 

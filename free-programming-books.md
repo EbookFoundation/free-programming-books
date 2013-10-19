@@ -813,6 +813,7 @@ See also [TeX](#tex)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
 * [Tango With Django](http://www.tangowithdjango.com/book/)
+* [The Django Book](http://www.djangobook.com)
 
 ####Flask
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)

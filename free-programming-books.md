@@ -788,6 +788,7 @@ See also [TeX](#tex)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart
 * [Hitchiker's Guide to Python!](http://docs.python-guide.org/en/latest/)
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
+* [Introduction to Programming Using Python](http://python-ebook.blogspot.com) - Cody Jackson
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson

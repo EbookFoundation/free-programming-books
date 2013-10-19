@@ -213,6 +213,7 @@
 
 ####Parallel Programming
 * [How to Write Parallel Programs](http://www.lindaspaces.com/book/)
+* [High Performance Computing](http://cnx.org/content/col11136/latest) (PDF, ePUB) - Charles Severance & Kevin Dowd
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 
@@ -248,6 +249,7 @@
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 ####Datamining
+* [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/DokuWiki/doku.php) (Draft)
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 
@@ -260,6 +262,7 @@
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
 * [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
+* [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 
 ####Mathematics
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
@@ -302,6 +305,7 @@
 * [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
 * [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
+* [Mother Tongues of Computer Languages](http://www.digibarn.com/collections/posters/tongues/) (PNG)
 
 ####Web Performance
 * [Book of Speed](http://www.bookofspeed.com/index.html) by Stoyan Stefanov
@@ -377,6 +381,7 @@
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 * [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Learn C++.] (http://www.learncpp.com/) (PDF, Online)
 
 
 ###Clojure
@@ -465,7 +470,7 @@
 * [Git Reference](http://www.gitref.org)
 * [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
 * [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
-
+* [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 
 
 ###Go
@@ -551,19 +556,20 @@
 
 
 ###JavaScript
-* [Crockford's JavaScript](http://www.crockford.com/javascript/)
-* [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [Essential Javascript & jQuery Design Patterns for Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
+* [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
+* [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
 * [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/blog/essentialjsdesignpatterns/)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [The JavaScript Tutorial](http://javascript.info/)
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
 * [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Dev Docs](http://devdocs.io/)
+* [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com/)  - Noel Rappin
 
 ####Backbone.js
 
@@ -780,12 +786,15 @@ See also [TeX](#tex)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
+* [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart
 * [Hitchiker's Guide to Python!](http://docs.python-guide.org/en/latest/)
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
+* [Introduction to Programming Using Python](http://python-ebook.blogspot.com) - Cody Jackson
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson
+* [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com/)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
@@ -793,6 +802,8 @@ See also [TeX](#tex)
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
+* [Python Practice Book](http://anandology.com/python-practice-book/index.html)
+* [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - PDF
 * [Python Scientific Lecture Notes](http://scipy-lectures.github.io/)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
@@ -801,6 +812,7 @@ See also [TeX](#tex)
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
+* [Tango With Django](http://www.tangowithdjango.com/book/)
 
 ####Flask
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -834,6 +846,11 @@ See also [TeX](#tex)
 * [Ruby Best Practices](http://majesticseacreature.com/rbp-book/pdfs/rbp_1-0.pdf) (PDF)
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
+* [Code Academy Ruby](http://www.codecademy.com/tracks/ruby)
+* [How To Think Like a Computer Scientist: Learning With Ruby](http://mysite.verizon.net/hpassel/thinkruby/)
+* [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+* [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
+* [Ruby Learning](http://rubylearning.com/)
 
 
 ###Ruby on Rails
@@ -931,6 +948,7 @@ See also [LaTeX](#latex)
 
 ###Theory
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+* [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
 
 
 ###TypeScript

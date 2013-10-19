@@ -9,9 +9,13 @@ Moved to GitHub for collaborative updating and for the purpose of reSRC.io : [Li
 #### [French : Free programming books](http://resrc.io/list/33/livres-gratuits-sur-la-programmation/) -- free-programming-books-fr.md
 The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-liens>.
 
+#### German : Free programming books -- free-programming-books-de.md
+
 #### Italian : Free programming books -- free-programming-books-it.md
 
 #### Russian : Free programming books -- free-programming-books-ru.md
+
+#### Portuguese : Free programming books -- free-programming-books-pt_BR.md
 
 ### [Free JavaScript frameworks resources and tutorials](http://resrc.io/list/18/javascript-frameworks/) -- javascript-frameworks-resources.md
 

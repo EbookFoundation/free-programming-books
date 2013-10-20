@@ -57,7 +57,7 @@
 
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander/) par Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) par Maïeul Rouquette
-* [LaTex... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
+* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
 
 Voir aussi [TeX](#tex)
 

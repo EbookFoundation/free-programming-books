@@ -38,6 +38,7 @@
 
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) par Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/6-le-c-en-20-heures/), par Eric Berthomier et Daniel Schang
+* [Programmation en C](https://www.rocq.inria.fr/secret/Matthieu.Finiasz/teaching/ENSTA/IN101%20-%20poly%20C.pdf) par Pierre-Alain Fouque et David Pointcheval
 
 ###Git
 

@@ -23,6 +23,7 @@
     * [Professional Development](#professional-development)
 * [Ada](#ada)
 * [Android](#android)
+* [APL](#apl)
 * [Autotools](#autotools)
 * [ASP.NET MVC](#aspnet-mvc)
 * [Assembly Language](#assembly-language)
@@ -122,6 +123,7 @@
 * [TechBooksForFree.com](http://www.techbooksforfree.com/)
 * [Theassayer.org](http://theassayer.org/)
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
+* [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
 
 
 ###Graphics Programming
@@ -295,6 +297,7 @@
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [Flow based Programming](http://jpaulmorrison.com/fbp/#book)
 * [Getting Real](http://gettingreal.37signals.com/)
+* [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) by Bret Victor
 * [Modeling Reactive Systems with Statecharts](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
@@ -314,6 +317,7 @@
 * [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
 * [Coursera](https://www.coursera.org/)
 * [Udacity](https://www.udacity.com/)
+* [edX](https://www.edx.org/)
 
 ####Professional Development
 * [Don't Just Roll the Dice](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
@@ -330,6 +334,12 @@
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
+
+
+###APL
+* [A Practical Introduction to APL1 & APL2](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
+* [A Practical Introduction to APL2 & APL3](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL3_.26_APL4)
+* [Mastering Dyalog APL](http://www.dyalog.com/intro/) (PDF)
 
 
 ###Autotools
@@ -491,6 +501,8 @@
 
 
 ###Haskell
+* [A Haskell School of Music](http://haskell.cs.yale.edu/?post_type=publication&p=112) (PDF) (work in progress)
+* [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
 * [Learn You a Haskell](http://learnyouahaskell.com/)
 * [Natural Language Processing for the Working Programmer](http://nlpwp.org/book/index.xhtml)
@@ -806,6 +818,7 @@ See also [TeX](#tex)
 * [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - PDF
 * [Python Scientific Lecture Notes](http://scipy-lectures.github.io/)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
+* [The Art and Craft of Programming](http://beastie.cs.ua.edu/cs150/book/index.html)
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 
@@ -828,6 +841,7 @@ See also [TeX](#tex)
 * [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
+* [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html)
 
 
 ###Racket
@@ -896,6 +910,7 @@ See also [TeX](#tex)
 
 
 ###Smalltalk
+* [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk) (PDF)
 * [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents)
 * [Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 * [Pharo by Example](http://pharobyexample.org/) (Smalltalk DE)
@@ -943,6 +958,7 @@ See also [TeX](#tex)
 
 ###TeX
 * [TeX for the Impatient](https://www.gnu.org/software/teximpatient/), by Paul Abrahams, Kathryn Hargreaves, and Karl Berry
+* [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) (PDF) by Christian Feursänger
 
 See also [LaTeX](#latex)
 

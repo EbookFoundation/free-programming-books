@@ -9,6 +9,7 @@
 * [LaTeX](#latex)
 * [Perl](#perl)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
 * [SPIP](#spip)
 * [TeX](#tex)
@@ -18,6 +19,11 @@
 
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
+* [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours), par Michel Quercia
+
+####Bases de données
+
+* [Bases de données I](http://decan.lexpage.net/files/bdd1/bdd1-syllabus.pdf), par Jef Wijsen
 
 ###Assembleur
 * [Initiation à la programmation en assembleur 64 bits](http://www.ilv-edition.com/librairie/initiation-programmation-assembleur-bits.html), par Pierre Jourlin
@@ -48,8 +54,10 @@
 
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander/) par Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) par Maïeul Rouquette
+* [LaTex... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
 
 Voir aussi [TeX](#tex)
+
 ###Perl
 
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html), par Sylvain Lhullier
@@ -58,6 +66,10 @@ Voir aussi [TeX](#tex)
 ###Python
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) par Gerard Swinnen
+
+###R
+
+* [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) par Vincent Goulet
 
 ###Ruby
 

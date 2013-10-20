@@ -826,6 +826,7 @@ See also [TeX](#tex)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
 * [Tango With Django](http://www.tangowithdjango.com/book/)
+* [Deploy Django](http://www.deploydjango.com)
 
 ####Flask
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)

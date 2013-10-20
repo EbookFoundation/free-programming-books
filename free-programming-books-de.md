@@ -18,6 +18,12 @@
 ###iOS
 
 * [Apps programmieren für iPhone und iPad](http://openbook.galileocomputing.de/apps_programmieren_fuer_iphone_und_ipad/)
+* [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
+* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf)
+
+###Groovy
+
+* [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf)
 
 ###Java
 
@@ -30,6 +36,9 @@
 
 ###Ruby on Rails
 
+* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)
+* [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf)
+* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf)
 * [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
 
 ###Unix

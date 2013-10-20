@@ -3,7 +3,7 @@
 * [Ensamblador](#ensamblador)
 * [Git](#git)
 * [Python](#python)
-
+* [Haskell](#haskell)
 
 ###Metalistas
 
@@ -30,3 +30,7 @@
 ###Ruby
 
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)
+
+###Haskell
+
+* [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)

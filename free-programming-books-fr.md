@@ -20,6 +20,7 @@
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours), par Michel Quercia
+* [Éléments d'algorithmique](https://www.rocq.inria.fr/secret/Matthieu.Finiasz/teaching/ENSTA/IN101%20-%20poly%20algo.pdf) par Françoise Levy-dit-Vehel et Matthieu Finiasz
 
 ####Bases de données
 

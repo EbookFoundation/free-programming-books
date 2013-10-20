@@ -26,3 +26,7 @@
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Python instantáneo](http://www.arrakis.es/~rapto/AprendaPython.html)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/python-ingenieria)
+
+###Ruby
+
+* [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)

@@ -1,4 +1,5 @@
 ###Index
+* [Bash](#bash)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
 * [JavaScript](#javascript)
@@ -9,6 +10,10 @@
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)
 * [SQL](#sql)
+
+###Bash
+
+* [Advanced Bash-Scripting Guide](http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html)
 
 
 ###CoffeeScript

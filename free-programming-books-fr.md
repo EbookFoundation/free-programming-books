@@ -23,6 +23,10 @@
 * [Éléments d'algorithmique](https://www.rocq.inria.fr/secret/Matthieu.Finiasz/teaching/ENSTA/IN101%20-%20poly%20algo.pdf) par Françoise Levy-dit-Vehel et Matthieu Finiasz
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) par D. Beauquier, J. Berstel, et Ph. Chrétienne
 
+####Théorie des langages
+
+* [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) par Université de Bretagne Occidentale
+
 ####Bases de données
 
 * [Bases de données I](http://decan.lexpage.net/files/bdd1/bdd1-syllabus.pdf), par Jef Wijsen

@@ -19,6 +19,7 @@
 
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
+* [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours), par Michel Quercia
 
 ####Bases de données
 

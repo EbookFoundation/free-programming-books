@@ -20,6 +20,10 @@
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
 
+####Bases de données
+
+* [Bases de données I](http://decan.lexpage.net/files/bdd1/bdd1-syllabus.pdf), par Jef Wijsen
+
 ###Assembleur
 * [Initiation à la programmation en assembleur 64 bits](http://www.ilv-edition.com/librairie/initiation-programmation-assembleur-bits.html), par Pierre Jourlin
 

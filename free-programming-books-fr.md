@@ -9,6 +9,7 @@
 * [LaTeX](#latex)
 * [Perl](#perl)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
 * [SPIP](#spip)
 * [TeX](#tex)
@@ -58,6 +59,10 @@ Voir aussi [TeX](#tex)
 ###Python
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) par Gerard Swinnen
+
+###R
+
+* [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) par Vincent Goulet
 
 ###Ruby
 

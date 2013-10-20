@@ -30,3 +30,4 @@
 
 ## Knockout.js
 * [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Knockout.js Starter](http://dl.e-book-free.com/2013/07/knockoutjs_starter.pdf)

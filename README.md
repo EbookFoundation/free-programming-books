@@ -13,6 +13,8 @@ The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-
 
 #### Italian : Free programming books -- free-programming-books-it.md
 
+#### Japanese : Free programming books -- free-programming-books-ja.md
+
 #### Russian : Free programming books -- free-programming-books-ru.md
 
 #### Portuguese : Free programming books -- free-programming-books-pt_BR.md

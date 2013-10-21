@@ -1,11 +1,12 @@
 ###Index
+* [Méta-listes](#méta-listes)
 * [Non dépendant du langage](#non-dépendant-du-langage)
 * [Assembleur](#assembleur)
 * [Caml](#caml)
-* [C / C++](#c-c)
+* [C / C++](#c--c)
 * [Git](#git)
 * [Haskell](#haskell)
-* [Javascript](#Javascript)
+* [Javascript](#javascript)
 * [LaTeX](#latex)
 * [Perl](#perl)
 * [PHP](#php)
@@ -15,12 +16,22 @@
 * [SPIP](#spip)
 * [TeX](#tex)
 
+###Méta-listes
+
+* [Le SILO: Sciences du numérique &amp; Informatique au Lycée: Oui!](https://wiki.inria.fr/sciencinfolycee/Accueil) 
+
 ###Non dépendant du langage
 ####Algorithmique
 
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours), par Michel Quercia
+* [Éléments d'algorithmique](https://www.rocq.inria.fr/secret/Matthieu.Finiasz/teaching/ENSTA/IN101%20-%20poly%20algo.pdf) par Françoise Levy-dit-Vehel et Matthieu Finiasz
+* [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) par D. Beauquier, J. Berstel, et Ph. Chrétienne
+
+####Théorie des langages
+
+* [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) par Université de Bretagne Occidentale
 
 ####Bases de données
 
@@ -41,6 +52,7 @@
 
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) par Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/6-le-c-en-20-heures/), par Eric Berthomier et Daniel Schang
+* [Programmation en C](https://www.rocq.inria.fr/secret/Matthieu.Finiasz/teaching/ENSTA/IN101%20-%20poly%20C.pdf) par Pierre-Alain Fouque et David Pointcheval
 
 ###Git
 
@@ -59,7 +71,7 @@
 
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander/) par Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) par Maïeul Rouquette
-* [LaTex... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
+* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
 
 Voir aussi [TeX](#tex)
 

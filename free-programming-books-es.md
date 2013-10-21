@@ -1,9 +1,14 @@
 ###Index
+* [Assembly Language](#assembly-language)
 * [Metalistas](#metalistas)
 * [Ensamblador](#ensamblador)
 * [Git](#git)
 * [Python](#python)
 * [Haskell](#haskell)
+
+
+###Assembly Language
+* [Machine Code for Beginners](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF) by Lisa Watts and Mike Wharton
 
 ###Metalistas
 

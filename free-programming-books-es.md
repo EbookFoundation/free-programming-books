@@ -26,6 +26,8 @@
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Python instantáneo](http://www.arrakis.es/~rapto/AprendaPython.html)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/python-ingenieria)
+* [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
+* [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
 
 ###Ruby
 

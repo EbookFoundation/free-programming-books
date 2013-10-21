@@ -821,6 +821,7 @@ See also [TeX](#tex)
 * [The Art and Craft of Programming](http://beastie.cs.ua.edu/cs150/book/index.html)
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
+* [Python Module of the Week](http://pymotw.com/2/)
 
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)

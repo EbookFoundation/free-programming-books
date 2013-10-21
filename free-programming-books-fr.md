@@ -37,6 +37,9 @@
 
 * [Bases de données I](http://decan.lexpage.net/files/bdd1/bdd1-syllabus.pdf), par Jef Wijsen
 
+####Logiciels libres
+
+* [Produire du logiciel libre](http://framabook.org/8-produire-du-logiciel-libre/), par Karl Fogel
 
 ###Assembleur
 

@@ -1,4 +1,5 @@
 ###Index
+* [Méta-listes](#meta-listes)
 * [Non dépendant du langage](#non-dépendant-du-langage)
 * [Assembleur](#assembleur)
 * [Caml](#caml)
@@ -13,6 +14,10 @@
 * [Ruby](#ruby)
 * [SPIP](#spip)
 * [TeX](#tex)
+
+###Méta-listes
+
+* [Le SILO: Sciences du numérique &amp; Informatique au Lycée: Oui!](https://wiki.inria.fr/sciencinfolycee/Accueil) 
 
 ###Non dépendant du langage
 ####Algorithmique

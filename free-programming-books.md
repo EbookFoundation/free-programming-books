@@ -873,6 +873,7 @@ See also [TeX](#tex)
 * [Objects on Rails](http://objectsonrails.com)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
 * [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
+* [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
 
 
 ###Rust

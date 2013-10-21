@@ -4,6 +4,7 @@
 * [Ensamblador](#ensamblador)
 * [Git](#git)
 * [Python](#python)
+* [Ruby](#ruby)
 * [Haskell](#haskell)
 
 

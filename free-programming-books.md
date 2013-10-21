@@ -361,6 +361,9 @@
 * [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
 
+####Non-X86
+* [Machine Code for Beginners](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF) by Lisa Watts and Mike Wharton
+
 
 ###Bash
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)

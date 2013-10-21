@@ -8,6 +8,7 @@
 * [Javascript](#Javascript)
 * [LaTeX](#latex)
 * [Perl](#perl)
+* [PHP](#php)
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
@@ -25,7 +26,10 @@
 
 * [Bases de données I](http://decan.lexpage.net/files/bdd1/bdd1-syllabus.pdf), par Jef Wijsen
 
+
 ###Assembleur
+
+* [Pas à pas vers l'assembleur](ftp://ftp-developpez.com/asm/cours/noteworthy/pas-a-pas-vers-l-assembleur-par-lord-noteworthy.pdf) par Lord Noteworthy
 * [Initiation à la programmation en assembleur 64 bits](http://www.ilv-edition.com/librairie/initiation-programmation-assembleur-bits.html), par Pierre Jourlin
 
 ###Caml
@@ -41,6 +45,7 @@
 ###Git
 
 * [Pro Git](http://www.git-scm.com/book/fr) par Scott Chacon
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) par par Alexandre Garel, Paul Gaborit et Nicolas Deram
 
 ###Javascript
 
@@ -63,9 +68,16 @@ Voir aussi [TeX](#tex)
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html), par Sylvain Lhullier
 * [La documentation Perl en français](http://perl.mines-albi.fr/DocFr.html)
 
+###Php
+
+* [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) par Guillaume Rossolini
+* [Initiation au PHP](http://www.framasoft.net/IMG/pdf/initiation_php.pdf) par David Ducrocq
+* [Programmer en PHP](http://www.lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) par Julien Gaulmin
+
 ###Python
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) par Gerard Swinnen
+* [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) par Guido Van Rossum
 
 ###R
 

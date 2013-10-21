@@ -40,6 +40,7 @@
 ####Logiciels libres
 
 * [Produire du logiciel libre](http://framabook.org/8-produire-du-logiciel-libre/), par Karl Fogel
+* [Option libre. Du bon usage des licences libres](http://framabook.org/option-libre-du-bon-usage-des-licences-libres/), par Jean Benjamin
 
 ###Assembleur
 

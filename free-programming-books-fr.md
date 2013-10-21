@@ -3,7 +3,7 @@
 * [Non dépendant du langage](#non-dépendant-du-langage)
 * [Assembleur](#assembleur)
 * [Caml](#caml)
-* [C / C++](#c-/-c++)
+* [C / C++](#c--c)
 * [Git](#git)
 * [Haskell](#haskell)
 * [Javascript](#javascript)

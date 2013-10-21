@@ -513,6 +513,7 @@
 * [Haskell no panic](http://lisperati.com/haskell/)
 * [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/)
 * [Speeding Through Haskell](http://www.sthaskell.com/)
+* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way)
 
 
 ###HTML / CSS

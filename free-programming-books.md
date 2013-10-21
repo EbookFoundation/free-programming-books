@@ -762,8 +762,6 @@ See also [TeX](#tex)
 * [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
 * Laravel Framework
    * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
-   * [Code Happy](http://codehappy.daylerees.com/) (Laravel 3 Starter Book)
-   * [Code Bright](http://codebright.daylerees.com/) (Laravel 4 Starter Book)
 * Drupal Framework
 	* Drupal 6
 	* Drupal 7

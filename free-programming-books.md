@@ -967,6 +967,8 @@ See also [TeX](#tex)
 ###TeX
 * [TeX for the Impatient](https://www.gnu.org/software/teximpatient/), by Paul Abrahams, Kathryn Hargreaves, and Karl Berry
 * [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) (PDF) by Christian Feursänger
+* [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html), by Victor Eijkhout
+* [The Computer Science of TeX and LaTeX](http://eijkhout.net/texsci/), by Victor Eijkhout 
 
 See also [LaTeX](#latex)
 

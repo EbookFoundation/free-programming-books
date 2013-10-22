@@ -29,6 +29,7 @@
 
 * [Java 7 Mehr als eine Insel](http://openbook.galileocomputing.de/java7/)
 * [Java ist auch eine Insel](http://openbook.galileocomputing.de/javainsel/)
+* [JSFAtWork, JSF 2.0 und Apache MyFaces](http://jsfatwork.irian.at/book_de/)
 
 ###PHP
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf)

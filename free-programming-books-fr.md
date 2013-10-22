@@ -37,6 +37,11 @@
 
 * [Bases de données I](http://decan.lexpage.net/files/bdd1/bdd1-syllabus.pdf), par Jef Wijsen
 
+####Logiciels libres
+
+* [Produire du logiciel libre](http://framabook.org/8-produire-du-logiciel-libre/), par Karl Fogel
+* [Option libre. Du bon usage des licences libres](http://framabook.org/option-libre-du-bon-usage-des-licences-libres/), par Jean Benjamin
+* [Histoires et cultures du libres](http://framabook.org/histoires-et-cultures-du-libre/)
 
 ###Assembleur
 

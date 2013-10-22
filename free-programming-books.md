@@ -827,6 +827,7 @@ See also [TeX](#tex)
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Python Module of the Week](http://pymotw.com/2/)
+* [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming)
 
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)

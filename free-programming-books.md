@@ -254,6 +254,7 @@
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/DokuWiki/doku.php) (Draft)
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+* [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) (Draft)
 
 ####Machine Learning
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)

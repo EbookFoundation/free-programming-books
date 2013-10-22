@@ -17,6 +17,9 @@ The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-
 
 #### Russian : Free programming books -- free-programming-books-ru.md
 
+#### Chinese : Free programming books -- free-programming-books-ch.md
+中文书目可以先发PR到[这个仓库](https://github.com/bingwen/free-programming-books)，bingwen会整理好一起更新到这边
+
 #### Portuguese : Free programming books -- free-programming-books-pt_BR.md
 
 ### [Free JavaScript frameworks resources and tutorials](http://resrc.io/list/18/javascript-frameworks/) -- javascript-frameworks-resources.md

@@ -872,6 +872,7 @@ See also [TeX](#tex)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 * [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
 * [Ruby Learning](http://rubylearning.com/)
+* [Try Ruby](http://tryruby.org/)
 
 
 ###Ruby on Rails

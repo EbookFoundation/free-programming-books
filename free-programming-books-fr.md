@@ -9,6 +9,7 @@
 * [Javascript](#javascript)
 * [LaTeX](#latex)
     * [Asymptote](#asymptote)
+    * [Metapost](#metapost)
     * [PGF/TikZ](#pgftikz)
 * [Perl](#perl)
 * [PHP](#php)
@@ -85,6 +86,10 @@ Voir aussi [TeX](#tex)
 ####Asymptote
 
 * [Asymptote. Démarrage rapide](http://cgmaths.fr/cgFiles/Dem_Rapide.pdf), par Christophe Grospellier
+
+####Metapost
+
+* [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf), par John D. Hobby
 
 ####PGF/TikZ
 

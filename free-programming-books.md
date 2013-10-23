@@ -95,6 +95,7 @@
 * [Sage](#sage)
 * [Scala](#scala)
 * [Scheme](#scheme)
+* [Scratch](#scratch)
 * [Sed](#sed)
 * [Smalltalk](#smalltalk)
 * [Subversion](#subversion)
@@ -917,10 +918,11 @@ See also [TeX](#tex)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html)
 * [Teach Yourself Scheme in Fixnum Days](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html)
 
+###Scratch
+* [Computer Science Concepts in Scratch](http://stwww.weizmann.ac.il/g-cs/scratch/scratch_en.html)
 
 ###Sed
 * [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
-
 
 ###Smalltalk
 * [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk) (PDF)

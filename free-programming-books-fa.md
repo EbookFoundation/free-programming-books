@@ -1,7 +1,7 @@
 ###Index
-*[گنو/لینوکس]#linux)
-	*[arch](#arch)
-###linux
-some text
-####arch
-*[archbook](http://linuxreview.ir/1390/12/archbook-2012-1-released/)
+* [گنو/لینوکس](#گنو/لینوکس)
+* [آرچ لینوکس](#آرچ لینوکس)
+
+###گنو/لینوکس
+####آرچ لینوکس
+* [آرچ بوک](http://linuxreview.ir/archbook/ArchBook-2012-1.pdf) (pdf)

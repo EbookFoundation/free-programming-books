@@ -8,6 +8,9 @@
 * [Haskell](#haskell)
 * [Javascript](#javascript)
 * [LaTeX](#latex)
+    * [Asymptote](#asymptote)
+    * [Metapost](#metapost)
+    * [PGF/TikZ](#pgftikz)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -79,6 +82,19 @@
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
 
 Voir aussi [TeX](#tex)
+
+####Asymptote
+
+* [Asymptote. Démarrage rapide](http://cgmaths.fr/cgFiles/Dem_Rapide.pdf), par Christophe Grospellier
+
+####Metapost
+
+* [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf), par John D. Hobby
+* [Tracer des graphes avec Metapost](http://melusine.eu.org/syracuse/metapost/f-mpgraph.pdf), par John D. Hobby
+
+####PGF/TikZ
+
+* [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/), par Gérard Tisseau et Jacques Duma
 
 ###Perl
 

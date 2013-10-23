@@ -8,6 +8,7 @@
 * [Haskell](#haskell)
 * [Javascript](#javascript)
 * [LaTeX](#latex)
+    * [PGF/TikZ](#pgf-tikz)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -79,6 +80,10 @@
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
 
 Voir aussi [TeX](#tex)
+
+####PGF/TikZ
+
+* [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/), par Gérard Tisseau et Jacques Duma
 
 ###Perl
 

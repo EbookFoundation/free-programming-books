@@ -9,7 +9,7 @@
 * [Javascript](#javascript)
 * [LaTeX](#latex)
     * [Asymptote](#asymptote)
-    * [PGF/TikZ](#pgf-tikz)
+    * [PGF/TikZ](#pgftikz)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)

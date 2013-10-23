@@ -830,6 +830,7 @@ See also [TeX](#tex)
 * [Python Scientific Lecture Notes](http://scipy-lectures.github.io/)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
 * [The Art and Craft of Programming](http://beastie.cs.ua.edu/cs150/book/index.html)
+* [The Programming Historian](http://niche-canada.org/files/programming-historian-1.pdf) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Python Module of the Week](http://pymotw.com/2/)

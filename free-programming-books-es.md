@@ -15,6 +15,7 @@
 ###Metalistas
 
 * [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
+* [CodeHero](http://codehero.co/)
 
 ###Ensamblador
 

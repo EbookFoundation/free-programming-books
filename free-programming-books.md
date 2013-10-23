@@ -412,6 +412,7 @@
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
+* [Clojure Koans](http://clojurekoans.com/)
 
 
 ###CoffeeScript
@@ -651,6 +652,7 @@ See also [TeX](#tex)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [Successful Lisp: How to Understand and Use Common Lisp](http://psg.com/~dlamkins/sl/) - David Lamkins
 * [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
+* [Lisp Koans](https://github.com/google/lisp-koans)
 
 
 ###Lua
@@ -701,6 +703,7 @@ See also [TeX](#tex)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
 * [The Little Riak Book](http://littleriakbook.com/)
 * [Graph Databases](http://graphdatabases.com/)
+* [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
 
 
 ###Oberon
@@ -835,6 +838,7 @@ See also [TeX](#tex)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Python Module of the Week](http://pymotw.com/2/)
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming)
+* [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
@@ -882,6 +886,7 @@ See also [TeX](#tex)
 * [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
 * [Ruby Learning](http://rubylearning.com/)
 * [Try Ruby](http://tryruby.org/)
+* [Ruby Koans](http://www.rubykoans.com/)
 
 
 ###Ruby on Rails

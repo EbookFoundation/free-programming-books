@@ -8,6 +8,7 @@
 * [Haskell](#haskell)
 * [Javascript](#javascript)
 * [LaTeX](#latex)
+    * [Asymptote](#asymptote)
     * [PGF/TikZ](#pgf-tikz)
 * [Perl](#perl)
 * [PHP](#php)
@@ -80,6 +81,10 @@
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
 
 Voir aussi [TeX](#tex)
+
+####Asymptote
+
+* [Asymptote. Démarrage rapide](http://cgmaths.fr/cgFiles/Dem_Rapide.pdf), par Christophe Grospellier
 
 ####PGF/TikZ
 

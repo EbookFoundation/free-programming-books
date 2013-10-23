@@ -3,6 +3,7 @@
 * [Metalistas](#metalistas)
 * [Ensamblador](#ensamblador)
 * [Git](#git)
+* [Java](#java)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Haskell](#haskell)
@@ -23,6 +24,10 @@
 
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
 * [Pro Git](http://git-scm.com/book/es)
+
+###Java
+
+* [Arquitectura Java Sólida](http://www.arquitecturajava.com/)
 
 ###Python
 

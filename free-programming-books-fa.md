@@ -1,6 +1,6 @@
 ###Index
-*linux(#linux)
-	*arch(#arch)
+*[گنو/لینوکس]#linux)
+	*[arch](#arch)
 ###linux
 some text
 ####arch

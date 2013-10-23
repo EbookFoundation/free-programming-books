@@ -90,6 +90,7 @@ Voir aussi [TeX](#tex)
 ####Metapost
 
 * [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf), par John D. Hobby
+* [Tracer des graphes avec Metapost](http://melusine.eu.org/syracuse/metapost/f-mpgraph.pdf), par John D. Hobby
 
 ####PGF/TikZ
 

@@ -762,7 +762,7 @@ See also [TeX](#tex)
 * [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
 * [Practical mod\_perl](http://modperlbook.org/)
 * [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
-
+* [Plack Handbook](http://handbook.plackperl.org/) 
 
 ###PHP
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)

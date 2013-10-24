@@ -43,6 +43,7 @@
 
 ###Ruby
 
+* [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)
 
 ###Haskell

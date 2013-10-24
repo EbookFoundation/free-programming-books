@@ -306,6 +306,7 @@
 * [Modeling Reactive Systems with Statecharts](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
+* [Programmer's Motivation for Beginners](http://programmersmotivation.com/)
 * [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
@@ -525,6 +526,7 @@
 * [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/)
 * [Speeding Through Haskell](http://www.sthaskell.com/)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way)
+* [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
 
 
 ###HTML / CSS
@@ -1002,6 +1004,7 @@ See also [LaTeX](#latex)
 * [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+* [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 
 
 ###Websphere

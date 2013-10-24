@@ -889,6 +889,7 @@ See also [TeX](#tex)
 * [Ruby Learning](http://rubylearning.com/)
 * [Try Ruby](http://tryruby.org/)
 * [Ruby Koans](http://www.rubykoans.com/)
+* [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 
 
 ###Ruby on Rails

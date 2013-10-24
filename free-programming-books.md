@@ -55,6 +55,7 @@
 * [iOS](#ios)
 * [J](#j)
 * [Java](#java)
+    * [Wicket](#wicket)
 * [JavaScript](#javascript)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
@@ -583,6 +584,9 @@
 * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
 
+
+####Wicket
+* [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)
 
 ###JavaScript
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford

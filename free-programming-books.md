@@ -599,6 +599,7 @@
 ####Backbone.js
 
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+* [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 
 ####D3.js
 

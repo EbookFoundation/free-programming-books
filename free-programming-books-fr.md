@@ -79,6 +79,7 @@
 ###Haskell
 
 * [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr/)
+* [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) par Paul Hudak, John Peterson et Joseph Fasel
 
 ###LaTeX
 

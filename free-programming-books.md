@@ -202,7 +202,8 @@
 * [ZeroMQ Guide](http://zguide.zeromq.org/page:all)
 * [Network Security Tools](http://commons.oreilly.com/wiki/index.php/Network_Security_Tools)
 * [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
-
+* [Computer Networking: Principles, Protocols and Practice (CNP3)](http://inl.info.ucl.ac.be/CNP3) (PDF, EPUB, MOBI + [sources](https://github.com/obonaventure/cnp3/tree/master/book)) - O. Bonaventure
+* [Computer Networking: Principles, Protocols and Practice, 2nd edition (CNP3bis)](http://cnp3bis.info.ucl.ac.be/) (PDF, EPUB + [sources](https://github.com/obonaventure/cnp3/tree/master/book-2nd)) - O. Bonaventure (in progress) 
 
 ####Compiler Design
 * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)

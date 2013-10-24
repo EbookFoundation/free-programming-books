@@ -902,6 +902,8 @@ See also [TeX](#tex)
 * [Try Ruby](http://tryruby.org/)
 * [Ruby Koans](http://www.rubykoans.com/)
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
+* [The Little Book Of Ruby](http://www.sapphiresteel.com/The-Little-Book-Of-Ruby)
+* [Mr. Neighborly's Humble Little Ruby Book](http://humblelittlerubybook.com/book/)
 
 
 ###Ruby on Rails

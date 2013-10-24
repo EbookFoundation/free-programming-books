@@ -11,6 +11,7 @@
     * [Asymptote](#asymptote)
     * [Metapost](#metapost)
     * [PGF/TikZ](#pgftikz)
+* [Lisp](#lisp)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -99,6 +100,10 @@ Voir aussi [TeX](#tex)
 ####PGF/TikZ
 
 * [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/), par Gérard Tisseau et Jacques Duma
+
+###Lisp
+
+* [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) par Robert Strandh et Irène Durand
 
 ###Perl
 

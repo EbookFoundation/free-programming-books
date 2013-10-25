@@ -948,6 +948,7 @@ See also [TeX](#tex)
 ###Scilab
 
 * [Introduction to Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
+* [Writing Scilab Extensions](http://forge.scilab.org/index.php/p/docsciextensions/downloads/)
 
 ###Scratch
 * [Computer Science Concepts in Scratch](http://stwww.weizmann.ac.il/g-cs/scratch/scratch_en.html)

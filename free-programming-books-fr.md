@@ -139,7 +139,7 @@ Voir aussi [TeX](#tex)
 
 ###Scilab
 
-* [Introduction à Scilabl](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/) par Michaël Baudin, Artem Glebov, Jérome Briot
+* [Introduction à Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/) par Michaël Baudin, Artem Glebov, Jérome Briot
 
 ###SPIP
 

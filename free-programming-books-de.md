@@ -5,6 +5,7 @@
 * [Java](#java)
 * [Python](#python)
 * [Ruby on Rails](#ruby-on-rails)
+* [Scilab](#scilab)
 * [Visual Basic](#visual-basic)
 
 ###Android
@@ -44,6 +45,10 @@
 * [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf)
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf)
 * [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
+
+###Scilab
+
+* [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf)
 
 ###Unix
 

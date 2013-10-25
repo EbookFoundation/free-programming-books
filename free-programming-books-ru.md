@@ -9,6 +9,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)
+* [Scilab](#scilab)
 * [SQL](#sql)
 
 ###Bash
@@ -63,6 +64,10 @@
 * [Ruby on Rails Guides](http://rusrails.ru)
 * [Ruby on Rails Tutorial](http://railstutorial.ru/)
 
+###Scilab
+
+* [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
+* [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
 
 ###SQL
 

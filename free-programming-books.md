@@ -96,6 +96,7 @@
 * [Sage](#sage)
 * [Scala](#scala)
 * [Scheme](#scheme)
+* [Scilab](#scilab)
 * [Scratch](#scratch)
 * [Sed](#sed)
 * [Smalltalk](#smalltalk)
@@ -944,6 +945,11 @@ See also [TeX](#tex)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html)
 * [Teach Yourself Scheme in Fixnum Days](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html)
 
+###Scilab
+
+* [Introduction to Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
+* [Programming in Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
+* [Writing Scilab Extensions](http://forge.scilab.org/index.php/p/docsciextensions/downloads/)
 
 ###Scratch
 * [Computer Science Concepts in Scratch](http://stwww.weizmann.ac.il/g-cs/scratch/scratch_en.html)

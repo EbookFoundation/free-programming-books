@@ -17,6 +17,7 @@
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
+* [Scilab](#scilab)
 * [SPIP](#spip)
 * [TeX](#tex)
 
@@ -135,6 +136,10 @@ Voir aussi [TeX](#tex)
 ####Ruby on Rails
 
 * [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning), par Michael Hartl
+
+###Scilab
+
+* [Introduction à Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/) par Michaël Baudin, Artem Glebov, Jérome Briot
 
 ###SPIP
 

@@ -67,6 +67,7 @@
 ###Scilab
 
 * [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
+* [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
 
 ###SQL
 

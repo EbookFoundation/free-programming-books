@@ -852,6 +852,7 @@ See also [TeX](#tex)
 * [Python Module of the Week](http://pymotw.com/2/)
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)

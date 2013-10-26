@@ -490,7 +490,6 @@
 
 ###Git
 * [Pro Git](http://git-scm.com/book)
-* [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) (PDF)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)

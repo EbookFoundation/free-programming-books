@@ -135,6 +135,7 @@
 * [C++入門](http://www.asahi-net.or.jp/~yf8k-kbys/newcpp0.html)
 * [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/)
 * [cpprefjp - C++ Reference Site in Japanese](https://sites.google.com/site/cpprefjp/)
+* [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.com/cpp-book/C++11-Syntax-and-Feature.xhtml)
 
 
 ###CoffeeScript

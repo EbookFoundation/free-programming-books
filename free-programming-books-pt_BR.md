@@ -1,6 +1,7 @@
-###Index
+###Índice
 * [Java](#java)
 * [Ruby](#ruby)
+* [HTML / CSS](#html--css)
 
 
 ###java
@@ -16,3 +17,7 @@
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br)
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 
+
+###HTML / CSS
+
+* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)

@@ -197,6 +197,8 @@
 ####Database
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
 * [Database-backed Web Sites](http://philip.greenspun.com/wtr/dead-trees/)
+* [Foundations of Databases](http://webdam.inria.fr/Alice/)
+* [The Theory of Relational Databases] (http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 
 ####Networking
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
@@ -257,12 +259,16 @@
 
 ####Information Retrieval
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+* [Information Retrieval: A Survey](http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf) (PDF)
 
 ####Datamining
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/DokuWiki/doku.php) (Draft)
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) (Draft)
+* [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
+* [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
+* [Data Mining Algorithms In R](http://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
 
 ####Machine Learning
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
@@ -875,7 +881,7 @@ See also [TeX](#tex)
 * [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
 * [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html)
-
+* [R Programming](http://en.wikibooks.org/wiki/R_Programming)
 
 ###Racket
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)

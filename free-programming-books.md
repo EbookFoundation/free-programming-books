@@ -855,6 +855,7 @@ See also [TeX](#tex)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 
 ####Django
+* [The Django Book](http://www.djangobook.com/en/2.0/index.html)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/)

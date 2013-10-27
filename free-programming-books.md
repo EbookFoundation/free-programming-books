@@ -22,6 +22,7 @@
     * [MOOC](#mooc)
     * [Professional Development](#professional-development)
 * [Ada](#ada)
+* [Agda](#agda)
 * [Android](#android)
 * [APL](#apl)
 * [Autotools](#autotools)
@@ -33,6 +34,7 @@
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
+* [Coq](#coq)
 * [D](#d)
 * [Dart](#dart)
 * [DTrace](#dtrace)
@@ -348,6 +350,10 @@
 * [Ada for Software Engineers](http://pnyf.inf.elte.hu/kto/oktatas/ada/books/ase.pdf) (PDF)
 
 
+###Agda
+* [Agda](https://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
+
+
 ###Android
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
@@ -436,6 +442,11 @@
 ###ColdFusion
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown)
 * [Learn CF in a Week](http://learncfinaweek.com/)
+
+
+###Coq
+* [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
+* [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
 
 
 ###D

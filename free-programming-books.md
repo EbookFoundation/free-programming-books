@@ -592,6 +592,10 @@
 * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
+* [The Java Language Specification](http://java.sun.com/docs/books/jls/) - James Gosling, Bill Joy, Guy Steele, Gilad Bracha
+* [The Java Tutorial 4th Edition](http://download.oracle.com/javase/tutorial/) - Sharon Zakhour, Scott Hommel, Jacob Royal, Isaac Rabinovitch, Tom Risser, Mark Hoeber
+* [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com/) - Marty Hall and Larry Brown
+* [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 
 ####Wicket
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)

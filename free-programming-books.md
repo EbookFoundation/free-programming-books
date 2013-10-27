@@ -351,7 +351,7 @@
 
 
 ###Agda
-* [Agda](https://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
+* [Agda Tutorial](https://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
 
 
 ###Android

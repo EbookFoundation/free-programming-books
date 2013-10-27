@@ -100,7 +100,9 @@
 * [Scheme](#scheme)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
+* [Security](#security)
 * [Sed](#sed)
+* [Silverlight](#silverlight)
 * [Smalltalk](#smalltalk)
 * [Subversion](#subversion)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
@@ -112,6 +114,7 @@
 * [Vim](#vim)
 * [Websphere](#websphere)
 * [Windows Phone](#windows-phone)
+* [Windows 8](#windows8)
 
 
 ###Meta-Lists
@@ -516,6 +519,7 @@
 * [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
 * [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
+* [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
 
 
 ###Go
@@ -977,10 +981,14 @@ See also [TeX](#tex)
 ###Scratch
 * [Computer Science Concepts in Scratch](http://stwww.weizmann.ac.il/g-cs/scratch/scratch_en.html)
 
+###Security
+* [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 
 ###Sed
 * [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
 
+###Silverlight
+* [10 Laps around Silverlight 5](http://www.silverlightshow.net/ebooks/10laps_silverlight5.aspx)
 
 ###Smalltalk
 * [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk) (PDF)
@@ -1062,3 +1070,10 @@ See also [LaTeX](#latex)
 
 ###Windows Phone
 * [Programming Windows Phone 7](http://blogs.msdn.com/b/microsoft_press/archive/2010/10/28/free-ebook-programming-windows-phone-7-by-charles-petzold.aspx)
+* [Windows Phone Toolkit In Depth 3rd Edition](http://www.geekchamp.com/marketplace/components/windows-phone-toolkit-in-depth-3rd-edition)
+* [Windows Phone Programming Blue Book](http://www.geekchamp.com/marketplace/components/windows-phone-toolkit-in-depth-3rd-edition)
+* [Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud](http://coolthingoftheday.blogspot.co.uk/2012/05/free-ebook-guidance-advanced-windows.html)
+
+
+###Windows 8
+* [Programming Windows 8 Apps with HTML, CSS, and JavaScript](http://blogs.msdn.com/b/microsoft_press/archive/2012/06/04/free-ebook-programming-windows-8-apps-with-html-css-and-javascript-first-preview.aspx)

@@ -28,11 +28,11 @@
 ###Non dépendant du langage
 ####Algorithmique
 
-* [France-IOI](http://www.france-ioi.org/)
-* [Prologin](http://www.prologin.org/)
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours), par Michel Quercia
 * [Éléments d'algorithmique](https://www.rocq.inria.fr/secret/Matthieu.Finiasz/teaching/ENSTA/IN101%20-%20poly%20algo.pdf) par Françoise Levy-dit-Vehel et Matthieu Finiasz
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) par D. Beauquier, J. Berstel, et Ph. Chrétienne
+* [France-IOI](http://www.france-ioi.org/)
+* [Prologin](http://www.prologin.org/)
 
 ####Théorie des langages
 
@@ -44,9 +44,9 @@
 
 ####Logiciels libres
 
-* [Produire du logiciel libre](http://framabook.org/8-produire-du-logiciel-libre/), par Karl Fogel
-* [Option libre. Du bon usage des licences libres](http://framabook.org/option-libre-du-bon-usage-des-licences-libres/), par Jean Benjamin
 * [Histoires et cultures du libres](http://framabook.org/histoires-et-cultures-du-libre/)
+* [Option libre. Du bon usage des licences libres](http://framabook.org/option-libre-du-bon-usage-des-licences-libres/), par Jean Benjamin
+* [Produire du logiciel libre](http://framabook.org/8-produire-du-logiciel-libre/), par Karl Fogel
 
 ####Systèmes Informatiques
 
@@ -54,8 +54,8 @@
 
 ###Assembleur
 
-* [Pas à pas vers l'assembleur](ftp://ftp-developpez.com/asm/cours/noteworthy/pas-a-pas-vers-l-assembleur-par-lord-noteworthy.pdf) par Lord Noteworthy
 * [Initiation à la programmation en assembleur 64 bits](http://www.ilv-edition.com/librairie/initiation-programmation-assembleur-bits.html), par Pierre Jourlin
+* [Pas à pas vers l'assembleur](ftp://ftp-developpez.com/asm/cours/noteworthy/pas-a-pas-vers-l-assembleur-par-lord-noteworthy.pdf) par Lord Noteworthy
 
 ###Caml
 
@@ -70,8 +70,9 @@
 
 ###Git
 
-* [Pro Git](http://www.git-scm.com/book/fr) par Scott Chacon
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) par par Alexandre Garel, Paul Gaborit et Nicolas Deram
+* [Pro Git](http://www.git-scm.com/book/fr) par Scott Chacon
+
 
 ###Javascript
 
@@ -84,9 +85,10 @@
 
 ###LaTeX
 
+* [Détecter et résoudreles problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du LaTeX Companion 2006, par Frank Mittelbach et Michel Goossens, mis à disposition par l'éditeur dans l'onglet « Compléments »
+* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander/) par Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) par Maïeul Rouquette
-* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
 
 Voir aussi [TeX](#tex)
 
@@ -105,8 +107,8 @@ Voir aussi [TeX](#tex)
 
 ###Lisp
 
-* [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) par Robert Strandh et Irène Durand
 * [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) par Francis Leboutte
+* [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) par Robert Strandh et Irène Durand
 
 ###Perl
 

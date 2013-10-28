@@ -520,6 +520,7 @@
 * [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
+* [Conversational Git](http://blog.anvard.org/conversational-git/)
 
 
 ###Go

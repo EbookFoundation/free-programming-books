@@ -1,16 +1,13 @@
 ###Index
-* [Assembly Language](#assembly-language)
 * [Metalistas](#metalistas)
 * [Ensamblador](#ensamblador)
-* [Git](#git)
+* [Control de versiones](#Control-de-versiones)
 * [Java](#java)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Haskell](#haskell)
+* [Desarrollo web](#Desarrollo web)
 
-
-###Assembly Language
-* [Machine Code for Beginners](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF) by Lisa Watts and Mike Wharton [Z80 and 6502 CPUs]
 
 ###Metalistas
 
@@ -20,10 +17,11 @@
 
 * [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)
 
-###Git
+###Control de versiones
 
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
 * [Pro Git](http://git-scm.com/book/es)
+* [Pro Git, el libro oficial de Git (Otra traducción)](http://librosweb.es/pro_git/)
 
 ###Java
 
@@ -47,3 +45,12 @@
 ###Haskell
 
 * [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)
+
+###Desarrollo web
+
+* [Introducción a XHTML](http://librosweb.es/xhtml/)
+* [Bootstrap 3, el manual oficial](http://librosweb.es/bootstrap_3/)
+* [Introducción a JavaScript](http://librosweb.es/javascript/)ç
+* [Introducción a AJAX](http://librosweb.es/ajax/)
+* [Introducción a CSS](http://librosweb.es/css/)
+* [CSS avanzado](http://librosweb.es/css_avanzado/)

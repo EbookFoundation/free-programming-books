@@ -6,6 +6,7 @@
 * [Java](#java)
 * [Python](#python)
 * [Ruby](#ruby)
+* [JavaScript](#javascript)
 * [Haskell](#haskell)
 
 
@@ -47,6 +48,10 @@
 
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
+
+###JavaScript
+
+* [JavaScript - The Complete Reference 2nd Edition PDF](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCgQFjAA&url=http%3A%2F%2Ffreecodingtutorial.files.wordpress.com%2F2011%2F10%2Fmcgraw-hill-javascript-the-complete-reference.pdf&ei=TKZuUoOCLcqlrQfu4YDoDQ&usg=AFQjCNFpz_8g2SVBXEWmpwccakQjtag_ww&bvm=bv.55123115,d.bmk)
 
 ###Haskell
 

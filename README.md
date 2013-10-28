@@ -9,20 +9,21 @@ Moved to GitHub for collaborative updating and for the purpose of reSRC.io : [Li
 #### [French : Free programming books](http://resrc.io/list/33/livres-gratuits-sur-la-programmation/) -- free-programming-books-fr.md
 The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-liens>.
 
-#### German : Free programming books -- free-programming-books-de.md
+#### German : Free programming books -- [free-programming-books-de.md]
 
-#### Italian : Free programming books -- free-programming-books-it.md
+#### Italian : Free programming books -- [free-programming-books-it.md]
 
-#### Japanese : Free programming books -- free-programming-books-ja.md
+#### Japanese : Free programming books -- [free-programming-books-ja.md]
 
-#### Russian : Free programming books -- free-programming-books-ru.md
+#### Russian : Free programming books -- [free-programming-books-ru.md]
 
-#### Spanish : Free programming books -- free-programming-books-es.md
+#### Spanish : Free programming books -- [free-programming-books-es.md]
 
-#### Chinese : Free programming books -- free-programming-books-ch.md
+#### Chinese : Free programming books -- [free-programming-books-ch.md]
+
 中文书目可以先发PR到[这个仓库](https://github.com/bingwen/free-programming-books)，bingwen会整理好一起更新到这边
 
-#### Portuguese : Free programming books -- free-programming-books-pt_BR.md
+#### Portuguese : Free programming books -- [free-programming-books-pt_BR.md]
 
 ### [Free JavaScript frameworks resources and tutorials](http://resrc.io/list/18/javascript-frameworks/) -- javascript-frameworks-resources.md
 

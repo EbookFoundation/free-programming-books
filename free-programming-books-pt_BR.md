@@ -2,7 +2,7 @@
 * [Java](#java)
 * [Ruby](#ruby)
 * [HTML / CSS](#html--css)
-
+* [Shell Script](#shell)
 
 ###java
 
@@ -16,8 +16,14 @@
 
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br)
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
+* [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
+
 
 
 ###HTML / CSS
 
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
+
+###shell
+
+* [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf)

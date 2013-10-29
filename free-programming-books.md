@@ -250,7 +250,6 @@
 * [NASA Manager Handbook for Software Development](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-manage.pdf) (PDF)
 * [NASA Software Measurement Handbook](http://www.scribd.com/doc/7181362/NASA-Software-Measurement-Guidebook)
 * [Don't Just Roll the Dice](http://www.neildavidson.com/dontjustrollthedice.html)
-* [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 
 ####Open Source Ecosystem
 * [Data Journalism Handbook](http://datajournalismhandbook.org/)

@@ -18,6 +18,7 @@
 
 * [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
 * [CodeHero](http://codehero.co/)
+* [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
 
 ###Ensamblador
 

@@ -934,6 +934,7 @@ See also [TeX](#tex)
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [The Little Book Of Ruby](http://www.sapphiresteel.com/The-Little-Book-Of-Ruby)
 * [Mr. Neighborly's Humble Little Ruby Book](http://humblelittlerubybook.com/book/)
+* [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
 
 
 ###Ruby on Rails

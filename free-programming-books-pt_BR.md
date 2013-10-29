@@ -3,6 +3,7 @@
 * [Ruby](#ruby)
 * [HTML / CSS](#html--css)
 * [Shell Script](#shell)
+* [Python](#python)
 
 ###java
 
@@ -27,3 +28,9 @@
 ###shell
 
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf)
+
+
+###python
+
+* [Python para Desenvolvedores](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
+

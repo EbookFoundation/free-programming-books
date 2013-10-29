@@ -616,7 +616,7 @@
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)
 
 ###JavaScript
-* [JavaScript - The Complete Reference by Thomas Powell and Fritz Schneider 2nd Edition (PDF)](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCgQFjAA&url=http%3A%2F%2Ffreecodingtutorial.files.wordpress.com%2F2011%2F10%2Fmcgraw-hill-javascript-the-complete-reference.pdf&ei=TKZuUoOCLcqlrQfu4YDoDQ&usg=AFQjCNFpz_8g2SVBXEWmpwccakQjtag_ww&bvm=bv.55123115,d.bmk)
+* [JavaScript - The Complete Reference by Thomas Powell and Fritz Schneider 2nd Edition](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCgQFjAA&url=http%3A%2F%2Ffreecodingtutorial.files.wordpress.com%2F2011%2F10%2Fmcgraw-hill-javascript-the-complete-reference.pdf&ei=TKZuUoOCLcqlrQfu4YDoDQ&usg=AFQjCNFpz_8g2SVBXEWmpwccakQjtag_ww&bvm=bv.55123115,d.bmk)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
 * [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani

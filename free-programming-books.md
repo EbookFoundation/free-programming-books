@@ -32,7 +32,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
-* [COBOL] (#COBOL)
+* [COBOL] (#cobol)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
 * [Coq](#coq)

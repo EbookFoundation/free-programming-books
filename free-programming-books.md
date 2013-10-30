@@ -60,6 +60,7 @@
 * [Java](#java)
     * [Wicket](#wicket)
 * [JavaScript](#javascript)
+    * [Angular.js](#angularjs)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
     * [jQuery](#jquery)
@@ -633,10 +634,13 @@
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [The JavaScript Tutorial](http://javascript.info/)
-* [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
 * [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Dev Docs](http://devdocs.io/)
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com/)  - Noel Rappin
+
+####Angular.js
+
+* [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
 
 ####Backbone.js
 

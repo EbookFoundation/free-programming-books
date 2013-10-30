@@ -261,8 +261,8 @@
 * [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html)
 * [Producing Open Source Software](http://producingoss.com/)
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
-* [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 * [The Future of the Internet](http://futureoftheinternet.org/)
+* [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Performance of Open Source Applications](http://aosabook.org/en/)
 
 ####Information Retrieval
@@ -277,6 +277,7 @@
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
 * [Data Mining Algorithms In R](http://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
+* [Introduction to Data Science](http://jsresearch.net/wiki/projects/teachdatascience/Teach_Data_Science.html)
 
 ####Machine Learning
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
@@ -301,6 +302,7 @@
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke
 * [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 * [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
+* [A First Course in Linear Algebra](http://linear.ups.edu/)
 
 ####Misc
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)

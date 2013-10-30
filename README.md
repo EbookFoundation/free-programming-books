@@ -25,6 +25,8 @@ The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-
 
 #### Spanish : Free programming books -- free-programming-books-es.md
 
+#### Korean : Free programming books -- free-programming-books-ko.md
+
 ### [Free JavaScript frameworks resources and tutorials](http://resrc.io/list/18/javascript-frameworks/) -- javascript-frameworks-resources.md
 
 ###How to contribute

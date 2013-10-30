@@ -32,6 +32,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
+* [COBOL] (#cobol)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
 * [Coq](#coq)
@@ -437,6 +438,10 @@
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [Clojure Koans](http://clojurekoans.com/)
 
+
+###COBOL
+* [COBOL Programming Fundamental] (http://ibmtc.hust.edu.cn/zos-cobol/cobol/resource/COBOL_Programming_Fundamental.pdf) (PDF)
+* [OpenCOBOL 1.1 - Programmer's Guide] (http://opencobol.add1tocobol.com/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
 
 ###CoffeeScript
 * [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)

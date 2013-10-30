@@ -2,6 +2,7 @@
 * [Android](#android)
 * [C](#c)
 * [C#](#c-sharp)
+* [Lisp](#lisp)
 * [PHP](#php)
 * [Python](#python)
 * [Visual Basic](#visual-basic)
@@ -11,6 +12,7 @@
 
 * [Guida programmazione Android 4.2](http://www.sprik.it/guida/Android4_2.pdf)
 
+
 ###C
 
 * [Guida al C di Blacklight](http://blacklight.gotdns.org/guidac.pdf)
@@ -19,6 +21,11 @@
 ###C Sharp
 
 * [AB..C# - Guida alla programmazione](http://www.youblisher.com/files/publications/4/21542/pdf.pdf)
+
+
+###Lisp
+
+* [Introduzione a Lisp](http://www.matteolucarelli.net/lisp/lispintro.pdf)
 
 
 ###PHP

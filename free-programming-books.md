@@ -1084,7 +1084,6 @@ See also [LaTeX](#latex)
 
 ###Windows Phone
 * [Programming Windows Phone 7](http://blogs.msdn.com/b/microsoft_press/archive/2010/10/28/free-ebook-programming-windows-phone-7-by-charles-petzold.aspx)
-* [Windows Phone Toolkit In Depth 3rd Edition](http://www.geekchamp.com/marketplace/components/windows-phone-toolkit-in-depth-3rd-edition)
 * [Windows Phone Programming Blue Book](http://www.robmiles.com/c-yellow-book/)
 * [Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud](http://coolthingoftheday.blogspot.co.uk/2012/05/free-ebook-guidance-advanced-windows.html)
 

@@ -194,6 +194,7 @@
 * [Introduction to Computing](http://www.computingbook.org/)
 * [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
+* [Network Science](http://barabasilab.neu.edu/networksciencebook/index.html)
 
 ####Operating systems
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)

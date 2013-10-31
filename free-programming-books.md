@@ -206,7 +206,7 @@
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
 * [Database-backed Web Sites](http://philip.greenspun.com/wtr/dead-trees/)
 * [Foundations of Databases](http://webdam.inria.fr/Alice/)
-* [The Theory of Relational Databases] (http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+* [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 
 ####Networking
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
@@ -235,7 +235,7 @@
 * [High Performance Computing](http://cnx.org/content/col11136/latest) (PDF, ePUB) - Charles Severance & Kevin Dowd
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
-* [Programming on Parallel Machines; GPU, Multicore, Clusters and More] (http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
+* [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
 
 ####Software Architecture
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
@@ -433,11 +433,11 @@
 * [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-* [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)] (http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip)
+* [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip)
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 * [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Learn C++.] (http://www.learncpp.com/) (PDF, Online)
+* [Learn C++.](http://www.learncpp.com/) (PDF, Online)
 
 
 ###Clojure
@@ -453,8 +453,8 @@
 
 
 ###COBOL
-* [COBOL Programming Fundamental] (http://ibmtc.hust.edu.cn/zos-cobol/cobol/resource/COBOL_Programming_Fundamental.pdf) (PDF)
-* [OpenCOBOL 1.1 - Programmer's Guide] (http://opencobol.add1tocobol.com/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
+* [COBOL Programming Fundamental](http://ibmtc.hust.edu.cn/zos-cobol/cobol/resource/COBOL_Programming_Fundamental.pdf) (PDF)
+* [OpenCOBOL 1.1 - Programmer's Guide](http://opencobol.add1tocobol.com/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
 
 ###CoffeeScript
 * [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
@@ -531,7 +531,7 @@
 ###Git
 * [Pro Git](http://git-scm.com/book)
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
-* [Git Immersion] (http://gitimmersion.com)
+* [Git Immersion](http://gitimmersion.com)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) (PDF)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 * [Git Reference](http://www.gitref.org)
@@ -635,6 +635,7 @@
 ####Wicket
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)
 
+
 ###JavaScript
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
@@ -649,6 +650,7 @@
 * [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Dev Docs](http://devdocs.io/)
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com/)  - Noel Rappin
+* [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
 
 ####Angular.js
 
@@ -833,13 +835,13 @@ See also [TeX](#tex)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
 * [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
 * Laravel Framework
-   * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
+    * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
 * Drupal Framework
-	* Drupal 6
-	* Drupal 7
-		*	[The Tiny Book of Rules](https://drupal.org/files/tiny-book-of-rules.pdf) (PDF)
-		*	[Master Drupal in 7 hours](http://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf) (PDF)
-	* Drupal 8
+    * Drupal 6
+    * Drupal 7
+        * [The Tiny Book of Rules](https://drupal.org/files/tiny-book-of-rules.pdf) (PDF)
+        * [Master Drupal in 7 hours](http://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf) (PDF)
+    * Drupal 8
 * [PHP Internals Book](http://www.phpinternalsbook.com/)
 
 

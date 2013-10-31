@@ -303,6 +303,12 @@
 * [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 * [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
 * [A First Course in Linear Algebra](http://linear.ups.edu/)
+* [Collaborative Statistics](http://cnx.org/content/col10522/latest/)
+* [CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
+* [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
+* [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html)
+* [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
+* [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 
 ####Misc
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)
@@ -916,6 +922,7 @@ See also [TeX](#tex)
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
 * [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html)
 * [R Programming](http://en.wikibooks.org/wiki/R_Programming)
+* [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) (PDF)
 
 ###Racket
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)

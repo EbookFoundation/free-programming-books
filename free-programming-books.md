@@ -279,6 +279,7 @@
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
 * [Data Mining Algorithms In R](http://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
 * [Introduction to Data Science](http://jsresearch.net/wiki/projects/teachdatascience/Teach_Data_Science.html)
+* [School of Data Handbook](http://schoolofdata.org/handbook/)
 
 ####Machine Learning
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
@@ -290,7 +291,9 @@
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
 * [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
-* [Reinforcement Learning: An Introduction] (http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+* [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+* [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) (PDF)
+* [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf) (PDF)
 
 ####Mathematics
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey

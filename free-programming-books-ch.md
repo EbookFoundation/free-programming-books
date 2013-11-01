@@ -16,11 +16,11 @@
     * [信息检索](#信息检索)
     * [数据挖掘](#数据挖掘)
     * [机器学习](#机器学习)
-    * [Mathematics](#mathematics)
-    * [Misc](#misc)
+    * [数学](#数学)
+    * [其他](#其他)
     * [Web性能分析](#web性能分析)
     * [在线教育](#在线教育)
-    * [Professional Development](#professional-development)
+    * [专家级开发](#专家级开发)
 * [Ada](#ada)
 * [Android](#android)
 * [APL](#apl)
@@ -28,7 +28,7 @@
 * [ASP.NET MVC](#aspnet-mvc)
 * [Assembly Language](#assembly-language)
 * [Bash](#bash)
-* [C语言](#c)
+* [C](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
@@ -119,7 +119,7 @@
 * [Microsoft Press: Free E-Books](http://blogs.msdn.com/b/microsoft_press/archive/2011/03/03/ebooks-list-of-our-free-books.aspx)
 * [MindView Inc](http://www.mindviewinc.com/Books/)
 * [O'Reilly's Commons](http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons)
-* [O'Reilly的几个openbook项目](http://oreilly.com/openbook/)
+* [O'Reilly的openbook项目](http://oreilly.com/openbook/)
 * [TechBooksForFree.com](http://www.techbooksforfree.com/)
 * [Theassayer.org](http://theassayer.org/)
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
@@ -201,7 +201,6 @@
 * [Network Security Tools](http://commons.oreilly.com/wiki/index.php/Network_Security_Tools)
 * [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
 
-
 ####编译器设计
 * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
@@ -266,7 +265,7 @@
 * [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 
-####Mathematics
+####数学
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
@@ -278,7 +277,7 @@
 * [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 * [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
 
-####Misc
+####其他
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
 * [A Mathematical Theory of Communication](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html) by Claude E.Shannon
@@ -319,7 +318,7 @@
 * [Udacity](https://www.udacity.com/)
 * [edX](https://www.edx.org/)
 
-####Professional Development
+####专家级开发
 * [Don't Just Roll the Dice](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
 * [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
 
@@ -369,7 +368,7 @@
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
 
 
-###C语言
+###C
 * [A Tutorial on Pointers and Arrays in C](http://home.netcom.com/~tjensen/ptr/pointers.htm)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
@@ -389,9 +388,9 @@
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)] (http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip)
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
-* Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
+* [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 * [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Learn C++.] (http://www.learncpp.com/) (PDF, Online)
+* [Learn C++](http://www.learncpp.com/) (PDF, Online)
 
 
 ###Clojure

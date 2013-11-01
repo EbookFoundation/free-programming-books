@@ -77,7 +77,7 @@
 
 ###Java
 
-* [Initiation à la programmation (en Java)](https://www.coursera.org/course/intro-java-fr), MOOC de l'École Polytechnique Fédérale de l'Université de Lausanne
+* [Initiation à la programmation (en Java)](https://www.coursera.org/course/intro-java-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
 
 ###Javascript
 

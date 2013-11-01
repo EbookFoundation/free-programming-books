@@ -6,6 +6,7 @@
 * [C / C++](#c--c)
 * [Git](#git)
 * [Haskell](#haskell)
+* [Java](#java)
 * [Javascript](#javascript)
 * [LaTeX](#latex)
     * [Asymptote](#asymptote)
@@ -66,6 +67,7 @@
 
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) par Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/6-le-c-en-20-heures/), par Eric Berthomier et Daniel Schang
+* [Initiation à la programmation (en C++)](https://www.coursera.org/course/intro-cpp-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
 * [Programmation en C](https://www.rocq.inria.fr/secret/Matthieu.Finiasz/teaching/ENSTA/IN101%20-%20poly%20C.pdf) par Pierre-Alain Fouque et David Pointcheval
 
 ###Git
@@ -73,6 +75,9 @@
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) par par Alexandre Garel, Paul Gaborit et Nicolas Deram
 * [Pro Git](http://www.git-scm.com/book/fr) par Scott Chacon
 
+###Java
+
+* [Initiation à la programmation (en Java)](https://www.coursera.org/course/intro-java-fr), MOOC de l'École Polytechnique Fédérale de l'Université de Lausanne
 
 ###Javascript
 
@@ -85,7 +90,8 @@
 
 ###LaTeX
 
-* [Détecter et résoudreles problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du LaTeX Companion 2006, par Frank Mittelbach et Michel Goossens, mis à disposition par l'éditeur dans l'onglet « Compléments »
+* [Détecter et résoudre
+les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du LaTeX Companion 2006, par Frank Mittelbach et Michel Goossens, mis à disposition par l'éditeur dans l'onglet « Compléments »
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander/) par Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) par Maïeul Rouquette

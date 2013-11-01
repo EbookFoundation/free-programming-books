@@ -717,6 +717,7 @@ See also [TeX](#tex)
 * [Successful Lisp: How to Understand and Use Common Lisp](http://psg.com/~dlamkins/sl/) - David Lamkins
 * [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
 * [Lisp Koans](https://github.com/google/lisp-koans)
+* [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
 
 
 ###Lua

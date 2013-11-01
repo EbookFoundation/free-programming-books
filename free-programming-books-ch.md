@@ -119,7 +119,7 @@
 * [Microsoft Press: Free E-Books](http://blogs.msdn.com/b/microsoft_press/archive/2011/03/03/ebooks-list-of-our-free-books.aspx)
 * [MindView Inc](http://www.mindviewinc.com/Books/)
 * [O'Reilly's Commons](http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons)
-* [O'Reilly的几个openbook项目](http://oreilly.com/openbook/)
+* [O'Reilly的openbook项目](http://oreilly.com/openbook/)
 * [TechBooksForFree.com](http://www.techbooksforfree.com/)
 * [Theassayer.org](http://theassayer.org/)
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
@@ -200,7 +200,6 @@
 * [ZeroMQ Guide](http://zguide.zeromq.org/page:all)
 * [Network Security Tools](http://commons.oreilly.com/wiki/index.php/Network_Security_Tools)
 * [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
-
 
 ####编译器设计
 * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
@@ -369,7 +368,7 @@
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
 
 
-###C语言
+###C
 * [A Tutorial on Pointers and Arrays in C](http://home.netcom.com/~tjensen/ptr/pointers.htm)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
@@ -389,9 +388,9 @@
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)] (http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip)
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
-* Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
+* [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 * [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Learn C++.] (http://www.learncpp.com/) (PDF, Online)
+* [Learn C++](http://www.learncpp.com/) (PDF, Online)
 
 
 ###Clojure

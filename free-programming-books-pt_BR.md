@@ -33,4 +33,5 @@
 ###python
 
 * [Python para Desenvolvedores](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
+* [A Byte of Python](http://rodrigoamaral.net/a-byte-of-python/)
 

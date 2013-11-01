@@ -845,6 +845,11 @@ See also [TeX](#tex)
         * [Master Drupal in 7 hours](http://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf) (PDF)
     * Drupal 8
 * [PHP Internals Book](http://www.phpinternalsbook.com/)
+* [PHP Best Practices](https://phpbestpractices.org/)
+* [PHP Programming](http://en.wikibooks.org/wiki/PHP_Programming)
+* [PHP with Guru99](http://www.smashwords.com/books/view/324888)
+* [Practical Php Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
+* [Practical PHP Programming](http://www.tuxradar.com/practicalphp)
 
 
 ###PowerShell

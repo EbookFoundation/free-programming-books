@@ -403,6 +403,7 @@
 * [The Art of Assembly Language Programming](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
 * [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
+* [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan
 
 ####Non-X86
 * [Machine Code for Beginners](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF) by Lisa Watts and Mike Wharton [Z80 and 6502 CPUs]
@@ -439,6 +440,7 @@
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 * [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Learn C++.](http://www.learncpp.com/) (PDF, Online)
+* [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
 
 
 ###Clojure
@@ -633,6 +635,11 @@
 * [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com/) - Marty Hall and Larry Brown
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)- Robert Sedgewick and Kevin Wayne
+* [Introduction to Neural Networks with Java](http://www.heatonresearch.com/articles/series/1) - 
+* [Animation/Games in Java](http://www.heatonresearch.com/articles/series/3)
+* [Java for the Beginning Programmer](http://www.heatonresearch.com/articles/series/15)
+* [HTTP Programming Recipes for Java Bots](http://www.heatonresearch.com/articles/series/16)
+* [Tutorial: Java, Maven 2, Eclipse & JSF](http://www.lulu.com/shop/arulkumaran-kumaraswamipillai-and-sivayini-arulkumaran/tutorial-java-maven-2-eclipse-jsf/ebook/product-1603040.html;jsessionid=E57B1E8662500F2ADF96D7B317769B6E) - Arulkumaran Kumaraswamipillai, Sivayini Arulkumaran
 
 ####Wicket
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)
@@ -761,6 +768,7 @@ See also [TeX](#tex)
 * [Under the Hood of .NET Memory Management](http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf) (PDF) *(RedGate, By Chris Farrell and Nick Harrison)*
 * [Practical Performance Profiling: Improving the efficiency of .NET code ](http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/practical-performance-profiling) *(RedGate, By Jean-Philippe Gouigoux)*
 * [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) *(RedGate, By Paul Glavich and Chris Farrell)*
+* [HTTP Programming Recipes for C# Bots](http://www.heatonresearch.com/articles/series/20)
 
 
 ###NoSQL
@@ -912,6 +920,8 @@ See also [TeX](#tex)
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+* [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
+
 
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)

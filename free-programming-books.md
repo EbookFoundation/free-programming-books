@@ -632,6 +632,7 @@
 * [The Java Tutorial 4th Edition](http://download.oracle.com/javase/tutorial/) - Sharon Zakhour, Scott Hommel, Jacob Royal, Isaac Rabinovitch, Tom Risser, Mark Hoeber
 * [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com/) - Marty Hall and Larry Brown
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
+* [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)- Robert Sedgewick and Kevin Wayne
 
 ####Wicket
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)

@@ -162,6 +162,7 @@
 ###Erlang
 
 * [お気楽 Erlang プログラミング入門](http://www.geocities.jp/m_hiroi/func/erlang.html)
+* [Learn you some Erlang for great good!](http://www.ymotongpoo.com/works/lyse-ja/)
 
 
 ###Git

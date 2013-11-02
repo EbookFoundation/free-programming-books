@@ -127,20 +127,20 @@
 
 
 ###图形学相关
-* [DirectX manual -- DirectX手册](http://www.xmission.com/~legalize/book/download/index.html) (draft)
-* [Learning Modern 3D Graphics Programming -- 学习现代3D图像编程](http://www.arcsynthesis.org/gltut/) (draft)
-* [Introduction to Modern OpenGL -- 现代OpenGL导论](http://open.gl/)
-* [GPU Gems -- GPU宝石](http://http.developer.nvidia.com/GPUGems/gpugems_part01.html)
-* [GPU Gems 2 -- GPU宝石2](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html) - [ch 8,14,18,29,30 as pdf](ftp://download.nvidia.com/developer/GPU_Gems_2/)
-* [GPU Gems 3 -- GPU宝石3](http://http.developer.nvidia.com/GPUGems3/gpugems3_part01.html)
-* [Graphics Programming Black Book -- 图形编程黑皮书](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
-* [OpenGL Insights -- OpenGL的见解](http://openglinsights.com) (chapters 22, 23, 28, 33, 39)
-* [ShaderX series -- ShaderX系列](http://tog.acm.org/resources/shaderx/)
-* [Tutorials for modern OpenGL -- 现代OpenGL教程](http://www.opengl-tutorial.org/)
+* [DirectX manual -- 《DirectX手册》](http://www.xmission.com/~legalize/book/download/index.html) (draft)
+* [Learning Modern 3D Graphics Programming -- 《学习现代3D图像编程》](http://www.arcsynthesis.org/gltut/) (draft)
+* [Introduction to Modern OpenGL -- 《现代OpenGL导论》](http://open.gl/)
+* [GPU Gems -- 《GPU宝石》](http://http.developer.nvidia.com/GPUGems/gpugems_part01.html)
+* [GPU Gems 2 -- 《GPU宝石2》](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html) - [ch 8,14,18,29,30 as pdf](ftp://download.nvidia.com/developer/GPU_Gems_2/)
+* [GPU Gems 3 -- 《GPU宝石3》](http://http.developer.nvidia.com/GPUGems3/gpugems3_part01.html)
+* [Graphics Programming Black Book -- 《图形编程黑皮书》](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
+* [OpenGL Insights -- 《OpenGL的见解》](http://openglinsights.com) (chapters 22, 23, 28, 33, 39)
+* [ShaderX series -- 《ShaderX系列》](http://tog.acm.org/resources/shaderx/)
+* [Tutorials for modern OpenGL -- 《现代OpenGL教程》](http://www.opengl-tutorial.org/)
 
 
 ###GUI编程
-* [Programming with gtkmm 3 -- gtkmm3编程](https://developer.gnome.org/gtkmm-tutorial/stable/)
+* [Programming with gtkmm 3 -- 《gtkmm3编程》](https://developer.gnome.org/gtkmm-tutorial/stable/)
 
 
 ###语言无关类

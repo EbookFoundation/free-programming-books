@@ -49,6 +49,10 @@
 * [Option libre. Du bon usage des licences libres](http://framabook.org/option-libre-du-bon-usage-des-licences-libres/), par Jean Benjamin
 * [Produire du logiciel libre](http://framabook.org/8-produire-du-logiciel-libre/), par Karl Fogel
 
+####Makefile
+
+* [Concevoir un Makefile](http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf), par Vincent Loechner d'après Nicolas Zin
+
 ####Systèmes Informatiques
 
 * [Systèmes Informatiques (C, Unix/Linux,...)](http://sinf1252.info.ucl.ac.be/), par Olivier Bonaventure ([sources](https://github.com/obonaventure/SystemesInformatiques))

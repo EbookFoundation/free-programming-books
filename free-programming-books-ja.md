@@ -276,6 +276,8 @@
 
 * [PHP基礎文法最速マスター](http://www.1x1.jp/blog/2010/01/php-basic-syntax.html)
 * [PHP マニュアル](http://www.php.net/manual/ja/)
+* [PHPによるデザインパターン入門](http://www.doyouphp.jp/book/book_phpdp.shtml)
+* [PHP4徹底攻略改訂版](http://net-newbie.com/support/pdf2/)
 
 
 ###PowerShell

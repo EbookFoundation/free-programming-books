@@ -255,27 +255,27 @@
 * [The Elements of Statistical Learning -- 《统计学习的元素》](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 
 ####机器学习
-* [Programming Computer Vision with Python](http://programmingcomputervision.com/)
-* [A Course in Machine Learning](http://hackershelf.com/book/492/a-course-in-machine-learning/)
-* [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
-* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-* [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) (PDF)
-* [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
-* [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
-* [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
-* [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
+* [Programming Computer Vision with Python -- 《计算机视觉与Python编程》](http://programmingcomputervision.com/)
+* [A Course in Machine Learning -- 《机器学习教程》](http://hackershelf.com/book/492/a-course-in-machine-learning/)
+* [Computer Vision: Algorithms and Applications -- 《计算机视觉：算法和应用》](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
+* [Bayesian Reasoning and Machine Learning -- 《贝叶斯推理和机器学习》](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+* [Introduction to Machine Learning -- 《机器学习简介》](http://alex.smola.org/drafts/thebook.pdf) (PDF)
+* [Gaussian Processes for Machine Learning -- 《高斯过程机器学习》](http://www.gaussianprocess.org/gpml/)
+* [Information Theory, Inference, and Learning Algorithms -- 《信息理论，推理和学习算法》](http://www.inference.phy.cam.ac.uk/itila/)
+* [Artificial Intelligence | Machine Learning -- 《人工智能|机器学习》](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
+* [Probabilistic Models in the Study of Language -- 《在语言研究中的概率模型》](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 
 ####数学
-* [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
-* [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
-* [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
-* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-* [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.html)
-* [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
-* [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) (PDF)
-* [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke
-* [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
-* [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
+* [Think Bayes: Bayesian Statistics Made Simple -- 《学习贝叶斯：简单贝叶斯统计》](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
+* [Think Stats: Probability and Statistics for Programmers -- 《学习统计：概率论与统计程序员》](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
+* [Mathematical Logic - an Introduction -- 《数理逻辑 - 介绍》](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
+* [Bayesian Methods for Hackers -- 《黑客的贝叶斯方法》](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Introduction to Statistical Thought -- 《统计思想概论》](http://www.math.umass.edu/~lavine/Book/book.html)
+* [Mathematics for Computer Science -- 《计算机科学中的数学》](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
+* [Category Theory for Computing Science -- 《分类理论计算科学》](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) (PDF)
+* [Essentials of Metaheuristics -- 《元启发式要点》](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke
+* [Advanced Data Analysis from an Elementary Point of View -- 《从初级观点看先进的数据分析》](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
+* [Probability and Statistics Cookbook -- 《概率与统计参考书》](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
 
 ####其他
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)

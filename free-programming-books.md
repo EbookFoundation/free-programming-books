@@ -378,7 +378,7 @@
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
 * [Styling Android](http://www.stylingandroid.com/)
-
+* [TechnoTalkative Android](http://www.technotalkative.com/android/)
 
 ###APL
 * [A Practical Introduction to APL1 & APL2](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)

@@ -207,6 +207,7 @@
 * [Database-backed Web Sites](http://philip.greenspun.com/wtr/dead-trees/)
 * [Foundations of Databases](http://webdam.inria.fr/Alice/)
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+* [Mysql, see #Mysql](#mysql)
 
 ####Networking
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
@@ -754,6 +755,9 @@ See also [TeX](#tex)
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com/)
 
+
+###MySQL
+* [MySQL Tutorial Excerpt](http://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.1-en.pdf)
 
 ###.NET (C# / VB / Nemerle / Visual Studio)
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)

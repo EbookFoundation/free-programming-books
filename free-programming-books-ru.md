@@ -1,5 +1,5 @@
 ###Index
-* [Списки книг](#списки книг)
+* [Списки книг](#meta-lists)
 * [Bash](#bash)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
@@ -14,7 +14,7 @@
 * [Scilab](#scilab)
 * [SQL](#sql)
 
-###Списки книг
+###Meta-lists
 * [Книги со свободной ценой](http://www.books.ru/knigi-so-svobodnoi-tsenoi-3129328/)
 
 

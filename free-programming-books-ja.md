@@ -293,7 +293,7 @@
 ###Perl
 
 * [Perl基礎文法最速マスター](http://d.hatena.ne.jp/perlcodesample/20091226/1264257759) - 木本裕紀
-* [Perlのコアドキュメント](http://perldoc.jp/index/core) - 一般社団法人 Japan Perl Association (JPA) 
+* [Perlのコアドキュメント](http://perldoc.jp/index/core) - 一般社団法人 Japan Perl Association (JPA)
 * [2時間半で学ぶPerl](http://qntm.org/files/perl/perl_jp.html) - Sam Hughes, Kato Atsusi(翻訳)
 * [Perl](http://ja.wikibooks.org/wiki/Perl) - Wikibooks
 
@@ -309,6 +309,8 @@
 
 * [PHP基礎文法最速マスター](http://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
 * [PHP マニュアル](http://www.php.net/manual/ja/) - The PHP Group
+* [PHPによるデザインパターン入門](http://www.doyouphp.jp/book/book_phpdp.shtml)
+* [PHP4徹底攻略改訂版](http://net-newbie.com/support/pdf2/)
 
 
 ###PowerShell

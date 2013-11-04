@@ -1,5 +1,5 @@
 ###Index
-* [Списки книг](#meta-lists)
+* [Списки книг](#списки книг)
 * [Bash](#bash)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)

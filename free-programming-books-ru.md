@@ -1,9 +1,11 @@
 ###Index
+* [Списки книг](#meta-lists)
 * [Bash](#bash)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [Lisp](#lisp)
 * [MetaPost](#metapost)
 * [Perl](#perl)
 * [R](#r)
@@ -11,6 +13,10 @@
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [SQL](#sql)
+
+###Списки книг
+* [Книги со свободной ценой](http://www.books.ru/knigi-so-svobodnoi-tsenoi-3129328/)
+
 
 ###Bash
 
@@ -36,6 +42,11 @@
 ###LaTeX
 
 * [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
+
+
+###Lisp
+
+* [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
 
 
 ###MetaPost

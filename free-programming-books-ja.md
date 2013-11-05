@@ -1,7 +1,6 @@
 ###Index
 * [言語非依存](#%e8%a8%80%e8%aa%9e%e9%9d%9e%e4%be%9d%e5%ad%98)
     * [アクセシビリティ](#%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b7%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3)
-    * [iOS](#ios)
 	* [組み込みシステム](#%e7%b5%84%e3%81%bf%e8%be%bc%e3%81%bf%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
     * [グラフィックスプログラミング](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
     * [グラフィックユーザーインターフェイス](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b9)
@@ -11,6 +10,7 @@
 	* [ソフトウェア品質](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e5%93%81%e8%b3%aa)
     * [その他の話題](#%e3%81%9d%e3%81%ae%e4%bb%96%e3%81%ae%e8%a9%b1%e9%a1%8c)
 * [AppleScript](#applescript)
+* [Android](#android)
 * [AWK](#awk)
 * [Bash](#bash)
 * [C](#c)
@@ -23,6 +23,7 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [Haxe](#haxe)
+* [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Backbone.js](#backbonejs)
@@ -56,13 +57,6 @@
 * [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAccessibility.pdf) (PDF) - Apple Developer
 * [Accessible Rich Internet Applications](https://developer.mozilla.org/ja/docs/ARIA/Accessible_Rich_Internet_Applications) - MDN
 * [アクセシビリティのための設計](http://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
-
-
-####iOS
-
-* [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAppProgrammingGuide.pdf) (PDF) - Apple Developer
-* [初めての iOS アプリケーション](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhone101.pdf) (PDF) - Apple Developer
-* [Cocoa Programming Tips 1001](http://hmdt.jp/tips/cocoa/index.html) - 木下誠
 
 
 ####組み込みシステム
@@ -114,7 +108,6 @@
 
 ####ソフトウェア品質
 
-
 * [組込みソフトウェア開発における品質向上の勧め [ユーザビリティ編] ](http://www.ipa.go.jp/files/000005114.pdf) (PDF) - 独立行政法人 情報処理推進機構(IPA)
 * [組込みソフトウェア開発における品質向上の勧め [設計モデリング編]](http://www.ipa.go.jp/files/000005113.pdf) (PDF) - 独立行政法人 情報処理推進機構(IPA)
 * [組込みソフトウェア開発における品質向上の勧め（コーディング編）](http://www.ipa.go.jp/files/000005106.pdf) (PDF) - 独立行政法人 情報処理推進機構(IPA)
@@ -141,6 +134,11 @@
 * [Applescriptのごく基本的なサンプル](http://www.asahi-net.or.jp/~va5n-okmt/factory/applescript/sample_code/) - Okamoto
 * [Bash でやってることを AppleScript でやろうとするとこうなる](http://qiita.com/mattintosh4/items/353c57ba75eda20af3c4) - id:mattintosh4
 * [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
+
+
+###Android
+
+* [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) (GitHub) - id:nobuoka
 
 
 ###AWK
@@ -202,6 +200,8 @@
 
 * [Pro Git](http://progit-ja.github.io/) (PDF, EPUB, MOBI) - Scott Chacon, 高木正弘 他(翻訳)
 * [Git ユーザマニュアル (バージョン 1.5.3 以降用)](http://cdn8.atwikiimg.com/git_jp/pub/git-manual-jp/Documentation/user-manual.html) - Yasuaki Narita
+* [デザイナのための Git](https://github.com/hatena/Git-for-Designers) (GitHub) - はてな教科書
+
 
 ###Go
 
@@ -219,6 +219,14 @@
 * [Haxe 言語リファレンス](http://haxe.org/ref?lang=jp)
 
 
+###iOS
+
+* [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAppProgrammingGuide.pdf) (PDF) - Apple Developer
+* [初めての iOS アプリケーション](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhone101.pdf) (PDF) - Apple Developer
+* [Cocoa Programming Tips 1001](http://hmdt.jp/tips/cocoa/index.html) - 木下誠
+* [Web API を利用する iOS アプリ作成](https://github.com/hatena/Hatena-Textbook/blob/master/ios-app-development-with-web-api.md) (GitHub) - はてな教科書
+
+
 ###Java
 
 * [Java基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094) - id:nattou_curry
@@ -233,6 +241,7 @@
 * [JavaScript 言語リファレンス](http://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [JavaScript Programming](http://www.geocities.jp/m_hiroi/light/javascript.html) - 広井誠
 * [一撃必殺JavaScript日本語リファレンス](http://www.openspc2.org/JavaScript/) - 古籏一浩
+* [JavaScript によるイベントドリブン](https://github.com/hatena/Hatena-Textbook/blob/master/javascript-event-driven.md) (GitHub) - はてな教科書
 
 
 ####Backbone.js
@@ -262,6 +271,7 @@
 * [TeX入門 TeX Wiki](http://oku.edu.mie-u.ac.jp/~okumura/texwiki/?TeX%E5%85%A5%E9%96%80) - 奥村晴彦(三重大学教育学部)
 * [TeX入門](http://www.comp.tmu.ac.jp/tsakai/lectures/intro_tex.html) - 酒井高司(首都大学東京大学院理工学研究科)
 * [TeX/LaTeX入門](http://ja.wikibooks.org/wiki/TeX/LaTeX%E5%85%A5%E9%96%80) - Wikibooks
+
 
 ###Lua
 
@@ -296,13 +306,10 @@
 * [Perlのコアドキュメント](http://perldoc.jp/index/core) - 一般社団法人 Japan Perl Association (JPA)
 * [2時間半で学ぶPerl](http://qntm.org/files/perl/perl_jp.html) - Sam Hughes, Kato Atsusi(翻訳)
 * [Perl](http://ja.wikibooks.org/wiki/Perl) - Wikibooks
-
-
-###Processing
-
-* [Processingクイックリファレンス](http://www.musashinodenpa.com/p5/) - 株式会社武蔵野電波
-* [Processing 学習ノート](http://www.d-improvement.jp/learning/processing/) - @mathatelle
-* [Processing入門講座](http://ap.kakoku.net/index.html) - maeda
+* [Perl によるオブジェクト指向プログラミング](https://github.com/hatena/Hatena-Textbook/blob/master/oop-for-perl.md) (GitHub) - はてな教科書
+* [Perlでのデータベース操作](https://github.com/hatena/Hatena-Textbook/blob/master/db-control-by-dbi.md) (GitHub) - はてな教科書
+* [MVC によるウェブアプリケーション開発 (Plack を使った開発)](https://github.com/hatena/Hatena-Textbook/blob/master/mvc-web-application-with-plack.md) (GitHub) - はてな教科書
+* [Perlを使ったテストの書き方](https://github.com/hatena/Hatena-Textbook/blob/master/test-for-perl.md) (GitHub) - はてな教科書
 
 
 ###PHP
@@ -317,6 +324,13 @@
 
 * [PowerShell基礎文法最速マスター](http://winscript.jp/powershell/202) - 牟田口大介
 * [Windows PowerShell コア](http://technet.microsoft.com/ja-jp/library/bb978525.aspx) - Microsoft TechNet
+
+
+###Processing
+
+* [Processingクイックリファレンス](http://www.musashinodenpa.com/p5/) - 株式会社武蔵野電波
+* [Processing 学習ノート](http://www.d-improvement.jp/learning/processing/) - @mathatelle
+* [Processing入門講座](http://ap.kakoku.net/index.html) - maeda
 
 
 ###Prolog
@@ -385,6 +399,7 @@
 * [VBA基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100129/1264787849) - id:nattou_curry
 * [Office 2013 Visual Basic for Applications 言語リファレンス](http://msdn.microsoft.com/ja-jp/library/office/gg264383.aspx) - MSDN Library
 * [Excel 2013 で学ぶ Visual Basic for Applications (VBA)](http://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/vba2013/index.html) - 金丸隆志(工学院大学)
+
 
 ###Vim
 

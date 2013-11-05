@@ -942,6 +942,9 @@ See also [TeX](#tex)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 * [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
+* [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
+* [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf)
+* [Text Processing in Python](http://gnosis.cx/TPiP/)
 
 
 ####Django

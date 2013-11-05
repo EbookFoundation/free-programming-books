@@ -1,6 +1,6 @@
 ###目录
 * [一些书目](#一些书目)
-* [GUI编程](#GUI编程)
+* [GUI编程](#gui编程)
 * [图形学相关](#图形学相关)
 * [语言无关类](#语言无关类)
     * [算法和数据结构](#算法和数据结构)
@@ -98,7 +98,7 @@
 * [Sed](#sed)
 * [Smalltalk](#smalltalk)
 * [Subversion](#subversion)
-* [SQL (implementation agnostic)](#sql-implementation-agnostic)
+* [SQL (implementation agnostic 实现无关)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
 * [Teradata](#teradata)
 * [TeX](#tex)
@@ -113,232 +113,232 @@
 * [25本免费的计算机科学电子书](http://www.coderholic.com/25-free-computer-science-books/)
 * [Cheat Sheets (Free)](http://refcardz.dzone.com/)
 * [电子书目录](http://www.e-booksdirectory.com/)
-* [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
-* [Free Tech Books](http://www.freetechbooks.com/)
-* [Hacker Shelf](http://hackershelf.com/browse/)
-* [Microsoft Press: Free E-Books](http://blogs.msdn.com/b/microsoft_press/archive/2011/03/03/ebooks-list-of-our-free-books.aspx)
+* [Free Smalltalk Books，由Stéphane Ducasse收集](http://stephane.ducasse.free.fr/FreeBooks.html)
+* [www.FreeTechBooks.com](http://www.freetechbooks.com/)
+* [HackerShelf.com](http://hackershelf.com/browse/)
+* [微软出版社：免费电子书](http://blogs.msdn.com/b/microsoft_press/archive/2011/03/03/ebooks-list-of-our-free-books.aspx)
 * [MindView Inc](http://www.mindviewinc.com/Books/)
 * [O'Reilly's Commons](http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons)
 * [O'Reilly的openbook项目](http://oreilly.com/openbook/)
 * [TechBooksForFree.com](http://www.techbooksforfree.com/)
 * [Theassayer.org](http://theassayer.org/)
-* [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
-* [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
+* [维基书籍：编程](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
+* [JSBooks - 免费的JavaScript电子书目录](https://github.com/revolunet/JSbooks)
 
 
 ###图形学相关
-* [DirectX manual](http://www.xmission.com/~legalize/book/download/index.html) (draft)
-* [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/) (draft)
-* [Introduction to Modern OpenGL](http://open.gl/)
-* [GPU Gems](http://http.developer.nvidia.com/GPUGems/gpugems_part01.html)
-* [GPU Gems 2](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html) - [ch 8,14,18,29,30 as pdf](ftp://download.nvidia.com/developer/GPU_Gems_2/)
-* [GPU Gems 3](http://http.developer.nvidia.com/GPUGems3/gpugems3_part01.html)
-* [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
-* [OpenGL Insights](http://openglinsights.com) (chapters 22, 23, 28, 33, 39)
-* [ShaderX series](http://tog.acm.org/resources/shaderx/)
-* [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
+* [DirectX manual -- 《DirectX手册》](http://www.xmission.com/~legalize/book/download/index.html) (draft)
+* [Learning Modern 3D Graphics Programming -- 《学习现代3D图像编程》](http://www.arcsynthesis.org/gltut/) (draft)
+* [Introduction to Modern OpenGL -- 《现代OpenGL导论》](http://open.gl/)
+* [GPU Gems -- 《GPU宝石》](http://http.developer.nvidia.com/GPUGems/gpugems_part01.html)
+* [GPU Gems 2 -- 《GPU宝石2》](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html) - [ch 8,14,18,29,30 as pdf](ftp://download.nvidia.com/developer/GPU_Gems_2/)
+* [GPU Gems 3 -- 《GPU宝石3》](http://http.developer.nvidia.com/GPUGems3/gpugems3_part01.html)
+* [Graphics Programming Black Book -- 《图形编程黑皮书》](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
+* [OpenGL Insights -- 《OpenGL的见解》](http://openglinsights.com) (chapters 22, 23, 28, 33, 39)
+* [ShaderX series -- 《ShaderX系列》](http://tog.acm.org/resources/shaderx/)
+* [Tutorials for modern OpenGL -- 《现代OpenGL教程》](http://www.opengl-tutorial.org/)
 
 
 ###GUI编程
-* [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
+* [Programming with gtkmm 3 -- 《gtkmm3编程》](https://developer.gnome.org/gtkmm-tutorial/stable/)
 
 
 ###语言无关类
 
 ####算法和数据结构
-* [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
-* [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms.html) (draft)
-* [Algorithms Course Materials](http://compgeom.cs.uiuc.edu/~jeffe/teaching/algorithms/) - Jeff Erickson
-* [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
-* [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
-* [Computational Geometry: Algorithms and Applications](http://www.cs.uu.nl/geobook/) (chapters 1 and 9, pseudo-code)
-* [Data Structures and Algorithms: Annotated Reference with Examples](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/)
-* [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
-* [Hacker's Delight](http://www.hackersdelight.org) (chapter 2, code)
-* [LEDA: A Platform for Combinatorial and Geometric Computing](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
-* [Planning Algorithms](http://planning.cs.uiuc.edu/)
-* [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
-* [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
-* [Open Data Structures](http://opendatastructures.org/)
-* [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) (PDF)
-* [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
-* [Matters Computational](http://www.jjj.de/fxt/#fxtbook)
-* [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
-* [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
-* [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html)
-* [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/) (fascicles, mostly volume 4)
-* [Programming Pearls](http://cs.bell-labs.com/cm/cs/pearls/)
-* [Algorithms for Programmers: Ideas and Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
-* [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
-* [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
-* [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
-* [Data Structures Succinctly Part 1, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Data Structures Succinctly Part 2, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Algorithms and Data-Structures -- 《算法和数据结构》](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
+* [Algorithms -- 《算法》](http://www.cs.berkeley.edu/~vazirani/algorithms.html) (draft)
+* [Algorithms Course Materials -- 《算法教材》](http://compgeom.cs.uiuc.edu/~jeffe/teaching/algorithms/) - Jeff Erickson
+* [Binary Trees -- 《二叉树》](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
+* [Clever Algorithms -- 《巧妙的算法》](http://www.cleveralgorithms.com/nature-inspired/index.html)
+* [Computational Geometry: Algorithms and Applications -- 《计算几何：算法和应用》](http://www.cs.uu.nl/geobook/) (chapters 1 and 9, pseudo-code)
+* [Data Structures and Algorithms: Annotated Reference with Examples -- 《数据结构与算法：带注释的参考例子》](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/)
+* [The Algorithm Design Manual -- 《算法设计手册》](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
+* [Hacker's Delight -- 《黑客的乐趣》](http://www.hackersdelight.org) (chapter 2, code)
+* [LEDA: A Platform for Combinatorial and Geometric Computing -- 《LEDA：组合和几何运算平台》](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
+* [Planning Algorithms -- 《规划算法》](http://planning.cs.uiuc.edu/)
+* [Linked List Basics -- 《链表基础》](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
+* [Linked List Problems -- 《链表问题》](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
+* [Open Data Structures -- 《开放式数据结构》](http://opendatastructures.org/)
+* [Purely Functional Data Structures -- 《纯粹的功能性数据结构》](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) (PDF)
+* [The Great Tree List Recursion Problem -- 《大规模树列表递归问题》](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
+* [Matters Computational -- 《计算的事项》](http://www.jjj.de/fxt/#fxtbook)
+* [Algorithmic Graph Theory -- 《图论算法》](http://code.google.com/p/graphbook/)
+* [Foundations of Computer Science -- 《计算机科学基础》](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
+* [A Field Guide To Genetic Programming -- 《遗传编程的一个领域指南》](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html)
+* [The Art of Computer Programming -- 《计算机程序设计艺术》](http://www.cs.utsa.edu/~wagner/knuth/) (fascicles, mostly volume 4)
+* [Programming Pearls -- 《编程珠玑》](http://cs.bell-labs.com/cm/cs/pearls/)
+* [Algorithms for Programmers: Ideas and Source Code -- 《程序员：思想和源代码的算法》](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
+* [Sequential and parallel sorting algorithms -- 《顺序和并行排序算法》](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
+* [Text Algorithms -- 《文本算法》](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
+* [Problem Solving with Algorithms and Data Structures -- 《算法和数据结构问题解决》](http://interactivepython.org/courselib/static/pythonds/index.html)
+* [Data Structures Succinctly Part 1, Syncfusion -- 《数据结构精讲》](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Data Structures Succinctly Part 2, Syncfusion -- 《数据结构精讲》](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ####计算理论
-* [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
-* [Programming Languages: Application and Interpretation](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
-* [Introduction to Computing](http://www.computingbook.org/)
-* [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
-* [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
+* [Structure and Interpretation of Computer Programs -- 《计算机程序的构造和解释》](http://mitpress.mit.edu/sicp/)
+* [Programming Languages: Application and Interpretation -- 《编程语言：适用范围及释义》](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
+* [Introduction to Computing -- 《计算概论》](http://www.computingbook.org/)
+* [An Introduction to the Theory of Computation -- 《计算理论简介》](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
+* [Think Complexity -- 《思想复杂性》](http://www.greenteapress.com/compmod/) - Allen B. Downey
 
 ####操作系统
-* [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)
-* [The Little Book of Semaphores](http://greenteapress.com/semaphores/) - Allen B. Downey
-* [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
-* [Practical File System Design:The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf)(PDF) - Dominic Giampaolo
+* [The Art of Unix Programming -- 《Unix编程的艺术》](http://catb.org/esr/writings/taoup/html/)
+* [The Little Book of Semaphores -- 《信号灯的手册》](http://greenteapress.com/semaphores/) - Allen B. Downey
+* [Operating Systems and Middleware -- 《操作系统和中间件》](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
+* [Practical File System Design:The Be File System -- 《实用的文件系统设计：BE文件系统》](http://www.nobius.org/~dbg/practical-file-system-design.pdf)(PDF) - Dominic Giampaolo
 
 ####数据库
-* [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
-* [Database-backed Web Sites](http://philip.greenspun.com/wtr/dead-trees/)
+* [Database Fundamentals -- 《数据库基础》](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
+* [Database-backed Web Sites -- 《数据库支持的Web站点》](http://philip.greenspun.com/wtr/dead-trees/)
 
 ####网络
-* [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
-* [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
-* [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
-* [ZeroMQ Guide](http://zguide.zeromq.org/page:all)
-* [Network Security Tools](http://commons.oreilly.com/wiki/index.php/Network_Security_Tools)
-* [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
+* [High-Performance Browser Networking -- 《高性能浏览器网络》](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+* [The TCP/IP Guide -- 《TCP/ IP协议指南》](http://www.tcpipguide.com/free/t_toc.htm)
+* [Understanding IP Addressing: Everything you ever wanted to know -- 《了解IP寻址：你曾经想知道的一切》](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
+* [ZeroMQ Guide -- 《ZeroMQ指南》](http://zguide.zeromq.org/page:all)
+* [Network Security Tools -- 《网络安全工具》](http://commons.oreilly.com/wiki/index.php/Network_Security_Tools)
+* [HTTP Succinctly, Syncfusion -- 《HTTP精讲》](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
 
 ####编译器设计
-* [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
-* [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
-* [Linkers and loaders](http://www.iecc.com/linker/)
-* [Compiler Design: Theory, Tools, and Examples](http://elvis.rowan.edu/~bergmann/books.html)
-* [Practical and Theoretical Aspects of Compiler Construction](http://www.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
+* [Compiler Construction -- 《编译器构造》](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
+* [Let's Build a Compiler -- 《建立一个编译器》](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
+* [Linkers and loaders -- 《链接器和加载器》](http://www.iecc.com/linker/)
+* [Compiler Design: Theory, Tools, and Examples -- 《编译器设计：理论，工具和范例》](http://elvis.rowan.edu/~bergmann/books.html)
+* [Practical and Theoretical Aspects of Compiler Construction -- 《编译器建设方面的理论与实践》](http://www.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 
 ####编程范式
-* [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)
-* [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+* [Introduction to Functional Programming -- 《功能性编程简介》](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)
+* [Type Theory and Functional Programming -- 《类型理论与函数式编程》](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 
 ####并行化编程
-* [How to Write Parallel Programs](http://www.lindaspaces.com/book/)
-* [High Performance Computing](http://cnx.org/content/col11136/latest) (PDF, ePUB) - Charles Severance & Kevin Dowd
-* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
-* [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
+* [How to Write Parallel Programs -- 《如何编写并行程序》](http://www.lindaspaces.com/book/)
+* [High Performance Computing -- 《高性能计算》](http://cnx.org/content/col11136/latest) (PDF, ePUB) - Charles Severance & Kevin Dowd
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It? -- 《并行编程难吗，而且，如果是这样，你能做些什么呢？》](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+* [Introduction to Parallel Computing -- 《并行计算简介》](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 
 ####软件架构
-* [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
-* [How to write Unmaintainable Code](http://mindprod.com/jgloss/unmain.html)
-* [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/)
-* [Patterns and Practices: Application Architecture Guide 2.0](http://www.codeplex.com/AppArchGuide)
-* [The Definitive Guide to Building Code Quality](http://nexus.realtimepublishers.com/dgbcq.php)
-* [Patterns of Software: Tales from the Software Community](http://www.dreamsongs.com/Files/PatternsOfSoftware.pdf) (PDF)
-* [Best Kept Secrets of Peer Code Review](http://smartbear.com/codecollab-code-review-book.php)
-* [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
-* [Essential Skills for Agile Development](http://elliottback.com/wp/essential-skills-for-agile-development/)
-* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/portal/web/swebok)
-* [Programming Reliable Systems (Joe Armstrong's PhD thesis)](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf) (PDF)
-* [How to Design Programs](http://www.htdp.org/)
-* [NASA Manager Handbook for Software Development](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-manage.pdf) (PDF)
-* [NASA Software Measurement Handbook](http://www.scribd.com/doc/7181362/NASA-Software-Measurement-Guidebook)
-* [Don't Just Roll the Dice](http://www.neildavidson.com/dontjustrollthedice.html)
+* [Seamless Object-Oriented Software Architecture -- 《无缝的面向对象的软件架构》](http://www.bon-method.com/book_print_a4.pdf) (PDF)
+* [How to write Unmaintainable Code -- 《如何写不可维护的代码》](http://mindprod.com/jgloss/unmain.html)
+* [Object-Oriented Reengineering Patterns -- 《面向对象的再造模式》](http://scg.unibe.ch/download/oorp/)
+* [Patterns and Practices: Application Architecture Guide 2.0 -- 《模式与实践：应用架构指南2.0》](http://www.codeplex.com/AppArchGuide)
+* [The Definitive Guide to Building Code Quality -- 《构建高质量代码的权威指南》](http://nexus.realtimepublishers.com/dgbcq.php)
+* [Patterns of Software: Tales from the Software Community -- 《软件模式：从软件社区的故事说起》](http://www.dreamsongs.com/Files/PatternsOfSoftware.pdf) (PDF)
+* [Best Kept Secrets of Peer Code Review -- 《保存最好的同行代码审查的秘密》](http://smartbear.com/codecollab-code-review-book.php)
+* [Domain Driven Design Quickly -- 《领域驱动快速设计》](http://www.infoq.com/minibooks/domain-driven-design-quickly)
+* [Essential Skills for Agile Development -- 《敏捷开发的基本技能》](http://elliottback.com/wp/essential-skills-for-agile-development/)
+* [Guide to the Software Engineering Body of Knowledge -- 《软件工程知识体系指南》](http://www.computer.org/portal/web/swebok)
+* [Programming Reliable Systems (Joe Armstrong's PhD thesis) -- 《可靠的系统编程（乔·阿姆斯特朗的博士论文）》](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf) (PDF)
+* [How to Design Programs -- 《如何设计程序》](http://www.htdp.org/)
+* [NASA Manager Handbook for Software Development -- 《NASA经理软件开发手册》](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-manage.pdf) (PDF)
+* [NASA Software Measurement Handbook -- 《NASA软件测量手册》](http://www.scribd.com/doc/7181362/NASA-Software-Measurement-Guidebook)
+* [Don't Just Roll the Dice -- 《不要只是掷骰子》](http://www.neildavidson.com/dontjustrollthedice.html)
 
 ####开源社区
-* [Data Journalism Handbook](http://datajournalismhandbook.org/)
-* [Free Software, Free Society](http://shop.fsf.org/product/free-software-free-society-2/)
-* [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
-* [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html)
-* [Producing Open Source Software](http://producingoss.com/)
-* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
-* [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
-* [The Future of the Internet](http://futureoftheinternet.org/)
-* [The Performance of Open Source Applications](http://aosabook.org/en/)
+* [Data Journalism Handbook -- 《数据新闻手册》](http://datajournalismhandbook.org/)
+* [Free Software, Free Society -- 《自由软件，自由社会》](http://shop.fsf.org/product/free-software-free-society-2/)
+* [Getting started with Open source development -- 《开源开发入门》](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
+* [Innovation Happens Elsewhere -- 《创新在别处发生》](http://dreamsongs.com/IHE/IHE.html)
+* [Producing Open Source Software -- 《构建开源软件》](http://producingoss.com/)
+* [The Cathedral and the Bazaar -- 《大教堂和市集》](http://www.catb.org/esr/writings/cathedral-bazaar/)
+* [The Architecture of Open Source Applications -- 《开源应用程序的体系结构》](http://www.aosabook.org/en/index.html)
+* [The Future of the Internet -- 《互联网的未来》](http://futureoftheinternet.org/)
+* [The Performance of Open Source Applications -- 《开源应用程序的性能》](http://aosabook.org/en/)
 
 ####信息检索
-* [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+* [Introduction to Information Retrieval -- 《现代信息检索》](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 ####数据挖掘
-* [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/DokuWiki/doku.php) (Draft)
-* [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
-* [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+* [Data Mining and Analysis: Fundamental Concepts and Algorithms -- 《数据挖掘和分析：基本概念和算法》](http://www.dataminingbook.info/DokuWiki/doku.php) (Draft)
+* [Mining of Massive Datasets -- 《海量数据集挖掘》](http://infolab.stanford.edu/~ullman/mmds.html)
+* [The Elements of Statistical Learning -- 《统计学习的元素》](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 
 ####机器学习
-* [Programming Computer Vision with Python](http://programmingcomputervision.com/)
-* [A Course in Machine Learning](http://hackershelf.com/book/492/a-course-in-machine-learning/)
-* [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
-* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-* [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) (PDF)
-* [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
-* [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
-* [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
-* [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
+* [Programming Computer Vision with Python -- 《计算机视觉与Python编程》](http://programmingcomputervision.com/)
+* [A Course in Machine Learning -- 《机器学习教程》](http://hackershelf.com/book/492/a-course-in-machine-learning/)
+* [Computer Vision: Algorithms and Applications -- 《计算机视觉：算法和应用》](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
+* [Bayesian Reasoning and Machine Learning -- 《贝叶斯推理和机器学习》](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+* [Introduction to Machine Learning -- 《机器学习简介》](http://alex.smola.org/drafts/thebook.pdf) (PDF)
+* [Gaussian Processes for Machine Learning -- 《高斯过程机器学习》](http://www.gaussianprocess.org/gpml/)
+* [Information Theory, Inference, and Learning Algorithms -- 《信息理论，推理和学习算法》](http://www.inference.phy.cam.ac.uk/itila/)
+* [Artificial Intelligence | Machine Learning -- 《人工智能|机器学习》](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
+* [Probabilistic Models in the Study of Language -- 《在语言研究中的概率模型》](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 
 ####数学
-* [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
-* [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
-* [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
-* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-* [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.html)
-* [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
-* [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) (PDF)
-* [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke
-* [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
-* [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
+* [Think Bayes: Bayesian Statistics Made Simple -- 《学习贝叶斯：简单贝叶斯统计》](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
+* [Think Stats: Probability and Statistics for Programmers -- 《学习统计：概率论与统计程序员》](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
+* [Mathematical Logic - an Introduction -- 《数理逻辑 - 介绍》](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
+* [Bayesian Methods for Hackers -- 《黑客的贝叶斯方法》](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Introduction to Statistical Thought -- 《统计思想概论》](http://www.math.umass.edu/~lavine/Book/book.html)
+* [Mathematics for Computer Science -- 《计算机科学中的数学》](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
+* [Category Theory for Computing Science -- 《分类理论计算科学》](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) (PDF)
+* [Essentials of Metaheuristics -- 《元启发式要点》](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke
+* [Advanced Data Analysis from an Elementary Point of View -- 《从初级观点看先进的数据分析》](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
+* [Probability and Statistics Cookbook -- 《概率与统计参考书》](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
 
 ####其他
-* [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)
-* [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
-* [A Mathematical Theory of Communication](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html) by Claude E.Shannon
-* [Asterisk™: The Definitive Guide](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
-* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/)
-* [I Am a Bug](http://www.amibug.com/iamabug/p01.html)
-* [Learn to Program](http://pine.fm/LearnToProgram/)
-* [Foundations of Programming](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
-* [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) (PDF) by Tony Hoare
-* [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
-* [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
-* [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html)
-* [Data-Intensive Text Processing with MapReduce](http://www.umiacs.umd.edu/~jimmylin/MapReduce-book-final.pdf) (PDF)
-* [Designing Interfaces](http://designinginterfaces.com) by Jennifer Tidwell
-* [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com/)
-* [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
-* [Flow based Programming](http://jpaulmorrison.com/fbp/#book)
-* [Getting Real](http://gettingreal.37signals.com/)
-* [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) by Bret Victor
-* [Modeling Reactive Systems with Statecharts](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
-* [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
-* [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
-* [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
-* [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
-* [Small Memory Software](http://www.smallmemory.com/book.html)
-* [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
-* [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
-* [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
-* [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
-* [Mother Tongues of Computer Languages](http://www.digibarn.com/collections/posters/tongues/) (PNG)
+* [97 Things Every Programmer Should Know -- 《每个程序员都应该知道的97件事》](http://programmer.97things.oreilly.com/)
+* [97 Things Every Programmer Should Know - Extended -- 《每个程序员都应该知道的97件事-扩展》](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
+* [A Mathematical Theory of Communication -- 《通信的数学理论》](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html) by Claude E.Shannon
+* [Asterisk™: The Definitive Guide -- 《Asterisk™：权威指南》](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
+* [How to Think Like a Computer Scientist -- 《如何像计算机科学家那样思考》](http://openbookproject.net/thinkcs/)
+* [I Am a Bug -- 《我是一个Bug》](http://www.amibug.com/iamabug/p01.html)
+* [Learn to Program -- 《学习编程》](http://pine.fm/LearnToProgram/)
+* [Foundations of Programming -- 《编程基础》](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
+* [Communicating Sequential Processes -- 《通信顺序进程》](http://www.usingcsp.com/cspbook.pdf) (PDF) by Tony Hoare
+* [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts -- 《来吧，让我们玩：基于场景的编程使用即时序列图》](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
+* [Computer Musings -- 《计算机沉思录》](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
+* [How Computers Work -- 《计算机工作原理》](http://www.fastchip.net/howcomputerswork/p1.html)
+* [Data-Intensive Text Processing with MapReduce -- 《MapReduce的数据密集型的文字处理》](http://www.umiacs.umd.edu/~jimmylin/MapReduce-book-final.pdf) (PDF)
+* [Designing Interfaces -- 《接口设计》](http://designinginterfaces.com) by Jennifer Tidwell
+* [Digital Signal Processing For Engineers and Scientists -- 《工程师和科学家的数字信号处理技术》](http://www.dspguide.com/)
+* [Distributed systems for fun and profit -- 《分布式系统的乐趣和利润》](http://book.mixu.net/distsys/single-page.html)
+* [Flow based Programming -- 《基于流的编程》](http://jpaulmorrison.com/fbp/#book)
+* [Getting Real -- 《获得真理》](http://gettingreal.37signals.com/)
+* [Magic Ink: Information Software and The Graphical Interface -- 《魔术的墨水：信息软件和图形界面》](http://worrydream.com/#!/MagicInk) by Bret Victor
+* [Modeling Reactive Systems with Statecharts -- 《反应系统建模与状态图》](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
+* [PNG: The Definitive Guide -- 《PNG：权威指南》](http://www.libpng.org/pub/png/book/)
+* [Pointers And Memory -- 《指针和内存》](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
+* [Project Oberon -- 《项目奥伯伦》](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
+* [Security Engineering -- 《安全工程》](http://www.cl.cam.ac.uk/~rja14/book.html)
+* [Small Memory Software -- 《小型存储软件》](http://www.smallmemory.com/book.html)
+* [SVG Essentials -- 《SVG要点》](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
+* [Introduction to High-Performance Scientific Computing -- 《高性能科学计算简介》](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
+* [Object-Oriented Reengineering Patterns -- 《面向对象的再造模式》](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
+* [High-Performance Scientific Computing -- 《高性能科学计算》](http://bit.ly/hpc12) (class lectures and slides)
+* [Mother Tongues of Computer Languages -- 《计算机语言的母语》](http://www.digibarn.com/collections/posters/tongues/) (PNG)
 
 ####Web性能分析
-* [Book of Speed](http://www.bookofspeed.com/index.html) by Stoyan Stefanov
+* [Book of Speed -- 《速度之书》](http://www.bookofspeed.com/index.html) by Stoyan Stefanov
 
 ####在线教育
-* [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
+* [MIT OCW -- 麻省理工学院“开放式课程网页”](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
 * [Coursera](https://www.coursera.org/)
 * [Udacity](https://www.udacity.com/)
 * [edX](https://www.edx.org/)
 
 ####专家级开发
-* [Don't Just Roll the Dice](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
-* [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
+* [Don't Just Roll the Dice -- 《不要只是掷骰子》](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
+* [Confessions of an IT Manager -- 《IT经理的自白》](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
 
 
 ###Ada
-* [Ada 95: The Craft of Object-Oriented Programming](http://faculty.cs.wwu.edu/reedyc/AdaResources/bookhtml/contents.htm)
-* [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
-* [Ada for Software Engineers](http://pnyf.inf.elte.hu/kto/oktatas/ada/books/ase.pdf) (PDF)
+* [Ada 95: The Craft of Object-Oriented Programming -- 《Ada 95:面向对象编程的工艺》](http://faculty.cs.wwu.edu/reedyc/AdaResources/bookhtml/contents.htm)
+* [Ada Distilled -- 《Ada精华》](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
+* [Ada for Software Engineers -- 《Ada软件工程师》](http://pnyf.inf.elte.hu/kto/oktatas/ada/books/ase.pdf) (PDF)
 
 
 ###Android
-* [Google Android Developer Training](https://developer.android.com/training/index.html)
-* [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
-* [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
+* [Google Android Developer Training -- 《谷歌Android开发培训》](https://developer.android.com/training/index.html)
+* [Coreservlets Android Programming Tutorial -- 《Coreservlets Android编程教程》](http://www.coreservlets.com/android-tutorial/)
+* [Expert Android and Eclipse development knowledge -- 《专家Android和Eclipse开发知识》](http://www.vogella.com/android.html)
 
 
 ###APL
-* [A Practical Introduction to APL1 & APL2](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
-* [A Practical Introduction to APL2 & APL3](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL3_.26_APL4)
-* [Mastering Dyalog APL](http://www.dyalog.com/intro/) (PDF)
+* [A Practical Introduction to APL1 & APL2 -- 《APL1＆APL2实用导论》](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
+* [A Practical Introduction to APL2 & APL3 -- 《APL2＆APL3实用导论》](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL3_.26_APL4)
+* [Mastering Dyalog APL -- 《掌握Dyalog APL》](http://www.dyalog.com/intro/) (PDF)
 
 
 ###Autotools

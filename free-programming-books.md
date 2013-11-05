@@ -161,7 +161,7 @@
 
 ####Algorithms & Datastructures
 * [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
-* [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms.html) (draft)
+* [Algorithms](http://highered.mcgraw-hill.com/sites/0073523402/) (draft)
 * [Algorithms Course Materials](http://compgeom.cs.uiuc.edu/~jeffe/teaching/algorithms/) - Jeff Erickson
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)

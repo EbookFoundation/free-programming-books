@@ -857,6 +857,7 @@ See also [TeX](#tex)
 * [Practical mod\_perl](http://modperlbook.org/)
 * [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
 * [Plack Handbook](http://handbook.plackperl.org/)
+* [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)
 
 
 ###PHP

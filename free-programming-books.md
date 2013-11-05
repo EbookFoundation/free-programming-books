@@ -21,6 +21,7 @@
     * [Web Performance](#web-performance)
     * [MOOC](#mooc)
     * [Professional Development](#professional-development)
+    * [Cryptography](#cryptography)
 * [Ada](#ada)
 * [Agda](#agda)
 * [Android](#android)
@@ -113,6 +114,7 @@
 * [TeX](#tex)
 * [Theory](#theory)
 * [TypeScript](#typescript)
+* [Unix](#unix)
 * [Vim](#vim)
 * [Websphere](#websphere)
 * [Windows Phone](#windows-phone)
@@ -148,6 +150,7 @@
 * [OpenGL Insights](http://openglinsights.com) (chapters 22, 23, 28, 33, 39)
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
+* [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 
 
 ###Graphics User Interfaces
@@ -158,7 +161,7 @@
 
 ####Algorithms & Datastructures
 * [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
-* [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms.html) (draft)
+* [Algorithms](http://highered.mcgraw-hill.com/sites/0073523402/) (draft)
 * [Algorithms Course Materials](http://compgeom.cs.uiuc.edu/~jeffe/teaching/algorithms/) - Jeff Erickson
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
@@ -255,6 +258,7 @@
 * [NASA Software Measurement Handbook](http://www.scribd.com/doc/7181362/NASA-Software-Measurement-Guidebook)
 * [Don't Just Roll the Dice](http://www.neildavidson.com/dontjustrollthedice.html)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
+* [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 
 ####Open Source Ecosystem
 * [Data Journalism Handbook](http://datajournalismhandbook.org/)
@@ -266,6 +270,7 @@
 * [The Future of the Internet](http://futureoftheinternet.org/)
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Performance of Open Source Applications](http://aosabook.org/en/)
+* [The Future of Ideas](http://the-future-of-ideas.com/download/lessig_FOI.pdf)
 
 ####Information Retrieval
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
@@ -363,10 +368,15 @@
 * [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
 
 
+####Cryptography
+* [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
+
+
 ###Ada
 * [Ada 95: The Craft of Object-Oriented Programming](http://faculty.cs.wwu.edu/reedyc/AdaResources/bookhtml/contents.htm)
 * [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
 * [Ada for Software Engineers](http://pnyf.inf.elte.hu/kto/oktatas/ada/books/ase.pdf) (PDF)
+* [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
 
 
 ###Agda
@@ -442,6 +452,8 @@
 * [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Learn C++.](http://www.learncpp.com/) (PDF, Online)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
+* [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
+* [Data Structures and Algorithms with Object-Oriented Design Patterns in C++](http://www.brpreiss.com/books/opus4/index.html)
 
 
 ###Clojure
@@ -716,6 +728,7 @@ See also [TeX](#tex)
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Ubuntu Pocket Guide and Reference](http://www.ubuntupocketguide.com/index_main.html)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
+* [Learning Debian GNU/Linux](http://oreilly.com/openbook/debian/book/index.html)
 
 
 ###Lisp
@@ -742,6 +755,7 @@ See also [TeX](#tex)
 * [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org/)
 * [Stephen Wolfram's The Mathematica Book](http://reference.wolfram.com/legacy/v5_2/)
 * [Wolfram Mathematica Tutorial Collection](http://www.wolfram.com/learningcenter/tutorialcollection/)
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf)
 
 
 ###Maven
@@ -844,6 +858,7 @@ See also [TeX](#tex)
 * [Practical mod\_perl](http://modperlbook.org/)
 * [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
 * [Plack Handbook](http://handbook.plackperl.org/)
+* [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)
 
 
 ###PHP
@@ -928,6 +943,9 @@ See also [TeX](#tex)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 * [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
+* [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
+* [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf)
+* [Text Processing in Python](http://gnosis.cx/TPiP/)
 
 
 ####Django
@@ -936,6 +954,7 @@ See also [TeX](#tex)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
 * [Tango With Django](http://www.tangowithdjango.com/book/)
 * [Deploy Django](http://www.deploydjango.com)
+* [The Django Book](http://www.djangobook.com/en/2.0/index.html)
 
 ####Flask
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -954,6 +973,7 @@ See also [TeX](#tex)
 * [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html)
 * [R Programming](http://en.wikibooks.org/wiki/R_Programming)
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) (PDF)
+* [Data Mining with R](http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/book.html)
 
 ###Racket
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
@@ -1035,6 +1055,7 @@ See also [TeX](#tex)
 
 ###Security
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
+* [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf)
 
 ###Sed
 * [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
@@ -1059,6 +1080,7 @@ See also [TeX](#tex)
 * [Developing Time-Oriented Database Applications in SQL](http://www.cs.arizona.edu/people/rts/publications.html)
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com/)
 * [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
+* [SQL For Web Nerds](http://philip.greenspun.com/sql/)
 
 
 ###SQL Server
@@ -1107,6 +1129,8 @@ See also [LaTeX](#latex)
 ###TypeScript
 * [TypeScript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) *(Just fill the fields with any values)*
 
+###Unix
+* [A User's Guide for GNU AWK](http://www.math.utah.edu/docs/info/gawk_toc.html)
 
 ###Vim
 * [A Byte of Vim](http://www.swaroopch.com/notes/Vim)

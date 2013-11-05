@@ -278,67 +278,67 @@
 * [Probability and Statistics Cookbook -- 《概率与统计参考书》](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
 
 ####其他
-* [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)
-* [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
-* [A Mathematical Theory of Communication](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html) by Claude E.Shannon
-* [Asterisk™: The Definitive Guide](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
-* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/)
-* [I Am a Bug](http://www.amibug.com/iamabug/p01.html)
-* [Learn to Program](http://pine.fm/LearnToProgram/)
-* [Foundations of Programming](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
-* [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) (PDF) by Tony Hoare
-* [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
-* [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
-* [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html)
-* [Data-Intensive Text Processing with MapReduce](http://www.umiacs.umd.edu/~jimmylin/MapReduce-book-final.pdf) (PDF)
-* [Designing Interfaces](http://designinginterfaces.com) by Jennifer Tidwell
-* [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com/)
-* [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
-* [Flow based Programming](http://jpaulmorrison.com/fbp/#book)
-* [Getting Real](http://gettingreal.37signals.com/)
-* [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) by Bret Victor
-* [Modeling Reactive Systems with Statecharts](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
-* [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
-* [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
-* [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
-* [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
-* [Small Memory Software](http://www.smallmemory.com/book.html)
-* [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
-* [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
-* [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
-* [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
-* [Mother Tongues of Computer Languages](http://www.digibarn.com/collections/posters/tongues/) (PNG)
+* [97 Things Every Programmer Should Know -- 《每个程序员都应该知道的97件事》](http://programmer.97things.oreilly.com/)
+* [97 Things Every Programmer Should Know - Extended -- 《每个程序员都应该知道的97件事-扩展》](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
+* [A Mathematical Theory of Communication -- 《通信的数学理论》](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html) by Claude E.Shannon
+* [Asterisk™: The Definitive Guide -- 《Asterisk™：权威指南》](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
+* [How to Think Like a Computer Scientist -- 《如何像计算机科学家那样思考》](http://openbookproject.net/thinkcs/)
+* [I Am a Bug -- 《我是一个Bug》](http://www.amibug.com/iamabug/p01.html)
+* [Learn to Program -- 《学习编程》](http://pine.fm/LearnToProgram/)
+* [Foundations of Programming -- 《编程基础》](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
+* [Communicating Sequential Processes -- 《通信顺序进程》](http://www.usingcsp.com/cspbook.pdf) (PDF) by Tony Hoare
+* [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts -- 《来吧，让我们玩：基于场景的编程使用即时序列图》](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
+* [Computer Musings -- 《计算机沉思录》](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
+* [How Computers Work -- 《计算机工作原理》](http://www.fastchip.net/howcomputerswork/p1.html)
+* [Data-Intensive Text Processing with MapReduce -- 《MapReduce的数据密集型的文字处理》](http://www.umiacs.umd.edu/~jimmylin/MapReduce-book-final.pdf) (PDF)
+* [Designing Interfaces -- 《接口设计》](http://designinginterfaces.com) by Jennifer Tidwell
+* [Digital Signal Processing For Engineers and Scientists -- 《工程师和科学家的数字信号处理技术》](http://www.dspguide.com/)
+* [Distributed systems for fun and profit -- 《分布式系统的乐趣和利润》](http://book.mixu.net/distsys/single-page.html)
+* [Flow based Programming -- 《基于流的编程》](http://jpaulmorrison.com/fbp/#book)
+* [Getting Real -- 《获得真理》](http://gettingreal.37signals.com/)
+* [Magic Ink: Information Software and The Graphical Interface -- 《魔术的墨水：信息软件和图形界面》](http://worrydream.com/#!/MagicInk) by Bret Victor
+* [Modeling Reactive Systems with Statecharts -- 《反应系统建模与状态图》](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
+* [PNG: The Definitive Guide -- 《PNG：权威指南》](http://www.libpng.org/pub/png/book/)
+* [Pointers And Memory -- 《指针和内存》](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
+* [Project Oberon -- 《项目奥伯伦》](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
+* [Security Engineering -- 《安全工程》](http://www.cl.cam.ac.uk/~rja14/book.html)
+* [Small Memory Software -- 《小型存储软件》](http://www.smallmemory.com/book.html)
+* [SVG Essentials -- 《SVG要点》](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
+* [Introduction to High-Performance Scientific Computing -- 《高性能科学计算简介》](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
+* [Object-Oriented Reengineering Patterns -- 《面向对象的再造模式》](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
+* [High-Performance Scientific Computing -- 《高性能科学计算》](http://bit.ly/hpc12) (class lectures and slides)
+* [Mother Tongues of Computer Languages -- 《计算机语言的母语》](http://www.digibarn.com/collections/posters/tongues/) (PNG)
 
 ####Web性能分析
-* [Book of Speed](http://www.bookofspeed.com/index.html) by Stoyan Stefanov
+* [Book of Speed -- 《速度之书》](http://www.bookofspeed.com/index.html) by Stoyan Stefanov
 
 ####在线教育
-* [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
+* [MIT OCW -- 麻省理工学院“开放式课程网页”](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
 * [Coursera](https://www.coursera.org/)
 * [Udacity](https://www.udacity.com/)
 * [edX](https://www.edx.org/)
 
 ####专家级开发
-* [Don't Just Roll the Dice](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
-* [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
+* [Don't Just Roll the Dice -- 《不要只是掷骰子》](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
+* [Confessions of an IT Manager -- 《IT经理的自白》](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
 
 
 ###Ada
-* [Ada 95: The Craft of Object-Oriented Programming](http://faculty.cs.wwu.edu/reedyc/AdaResources/bookhtml/contents.htm)
-* [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
-* [Ada for Software Engineers](http://pnyf.inf.elte.hu/kto/oktatas/ada/books/ase.pdf) (PDF)
+* [Ada 95: The Craft of Object-Oriented Programming -- 《Ada 95:面向对象编程的工艺》](http://faculty.cs.wwu.edu/reedyc/AdaResources/bookhtml/contents.htm)
+* [Ada Distilled -- 《Ada精华》](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
+* [Ada for Software Engineers -- 《Ada软件工程师》](http://pnyf.inf.elte.hu/kto/oktatas/ada/books/ase.pdf) (PDF)
 
 
 ###Android
-* [Google Android Developer Training](https://developer.android.com/training/index.html)
-* [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
-* [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
+* [Google Android Developer Training -- 《谷歌Android开发培训》](https://developer.android.com/training/index.html)
+* [Coreservlets Android Programming Tutorial -- 《Coreservlets Android编程教程》](http://www.coreservlets.com/android-tutorial/)
+* [Expert Android and Eclipse development knowledge -- 《专家Android和Eclipse开发知识》](http://www.vogella.com/android.html)
 
 
 ###APL
-* [A Practical Introduction to APL1 & APL2](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
-* [A Practical Introduction to APL2 & APL3](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL3_.26_APL4)
-* [Mastering Dyalog APL](http://www.dyalog.com/intro/) (PDF)
+* [A Practical Introduction to APL1 & APL2 -- 《APL1＆APL2实用导论》](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
+* [A Practical Introduction to APL2 & APL3 -- 《APL2＆APL3实用导论》](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL3_.26_APL4)
+* [Mastering Dyalog APL -- 《掌握Dyalog APL》](http://www.dyalog.com/intro/) (PDF)
 
 
 ###Autotools

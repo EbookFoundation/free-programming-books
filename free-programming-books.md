@@ -270,6 +270,7 @@
 * [The Future of the Internet](http://futureoftheinternet.org/)
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Performance of Open Source Applications](http://aosabook.org/en/)
+* [The Future of Ideas](http://the-future-of-ideas.com/download/lessig_FOI.pdf)
 
 ####Information Retrieval
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)

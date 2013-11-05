@@ -649,7 +649,7 @@
 * [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com/) - Marty Hall and Larry Brown
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)- Robert Sedgewick and Kevin Wayne
-* [Introduction to Neural Networks with Java](http://www.heatonresearch.com/articles/series/1) - 
+* [Introduction to Neural Networks with Java](http://www.heatonresearch.com/articles/series/1) -
 * [Animation/Games in Java](http://www.heatonresearch.com/articles/series/3)
 * [Java for the Beginning Programmer](http://www.heatonresearch.com/articles/series/15)
 * [HTTP Programming Recipes for Java Bots](http://www.heatonresearch.com/articles/series/16)
@@ -954,7 +954,6 @@ See also [TeX](#tex)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
 * [Tango With Django](http://www.tangowithdjango.com/book/)
 * [Deploy Django](http://www.deploydjango.com)
-* [The Django Book](http://www.djangobook.com/en/2.0/index.html)
 
 ####Flask
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)

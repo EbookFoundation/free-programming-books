@@ -727,6 +727,7 @@ See also [TeX](#tex)
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Ubuntu Pocket Guide and Reference](http://www.ubuntupocketguide.com/index_main.html)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
+* [Learning Debian GNU/Linux](http://oreilly.com/openbook/debian/book/index.html)
 
 
 ###Lisp

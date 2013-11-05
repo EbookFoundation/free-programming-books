@@ -21,6 +21,7 @@
     * [Web Performance](#web-performance)
     * [MOOC](#mooc)
     * [Professional Development](#professional-development)
+    * [Cryptography](#cryptography)
 * [Ada](#ada)
 * [Agda](#agda)
 * [Android](#android)
@@ -361,6 +362,10 @@
 ####Professional Development
 * [Don't Just Roll the Dice](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
 * [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
+
+
+####Cryptography
+* [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
 
 
 ###Ada

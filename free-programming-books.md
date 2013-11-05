@@ -114,6 +114,7 @@
 * [TeX](#tex)
 * [Theory](#theory)
 * [TypeScript](#typescript)
+* [Unix](#unix)
 * [Vim](#vim)
 * [Websphere](#websphere)
 * [Windows Phone](#windows-phone)
@@ -1111,6 +1112,8 @@ See also [LaTeX](#latex)
 ###TypeScript
 * [TypeScript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) *(Just fill the fields with any values)*
 
+###Unix
+* [A User's Guide for GNU AWK](http://www.math.utah.edu/docs/info/gawk_toc.html)
 
 ###Vim
 * [A Byte of Vim](http://www.swaroopch.com/notes/Vim)

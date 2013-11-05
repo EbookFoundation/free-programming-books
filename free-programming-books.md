@@ -319,6 +319,7 @@
 * [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html)
 * [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
+* [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
 
 ####Misc
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)

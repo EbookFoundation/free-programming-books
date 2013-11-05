@@ -150,6 +150,7 @@
 * [OpenGL Insights](http://openglinsights.com) (chapters 22, 23, 28, 33, 39)
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
+* [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 
 
 ###Graphics User Interfaces

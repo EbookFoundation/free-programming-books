@@ -207,6 +207,7 @@
 * [Database-backed Web Sites](http://philip.greenspun.com/wtr/dead-trees/)
 * [Foundations of Databases](http://webdam.inria.fr/Alice/)
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+* [Mysql, see #Mysql](#mysql)
 
 ####Networking
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
@@ -376,7 +377,8 @@
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
-
+* [Styling Android](http://www.stylingandroid.com/)
+* [TechnoTalkative Android](http://www.technotalkative.com/android/)
 
 ###APL
 * [A Practical Introduction to APL1 & APL2](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
@@ -402,6 +404,7 @@
 * [The Art of Assembly Language Programming](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
 * [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
+* [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan
 
 ####Non-X86
 * [Machine Code for Beginners](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF) by Lisa Watts and Mike Wharton [Z80 and 6502 CPUs]
@@ -438,6 +441,7 @@
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 * [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Learn C++.](http://www.learncpp.com/) (PDF, Online)
+* [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
 
 
 ###Clojure
@@ -574,7 +578,7 @@
 * [Speeding Through Haskell](http://www.sthaskell.com/)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
-
+* [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) (PDF)
 
 ###HTML / CSS
 * [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/))
@@ -631,6 +635,12 @@
 * [The Java Tutorial 4th Edition](http://download.oracle.com/javase/tutorial/) - Sharon Zakhour, Scott Hommel, Jacob Royal, Isaac Rabinovitch, Tom Risser, Mark Hoeber
 * [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com/) - Marty Hall and Larry Brown
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
+* [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)- Robert Sedgewick and Kevin Wayne
+* [Introduction to Neural Networks with Java](http://www.heatonresearch.com/articles/series/1) - 
+* [Animation/Games in Java](http://www.heatonresearch.com/articles/series/3)
+* [Java for the Beginning Programmer](http://www.heatonresearch.com/articles/series/15)
+* [HTTP Programming Recipes for Java Bots](http://www.heatonresearch.com/articles/series/16)
+* [Tutorial: Java, Maven 2, Eclipse & JSF](http://www.lulu.com/shop/arulkumaran-kumaraswamipillai-and-sivayini-arulkumaran/tutorial-java-maven-2-eclipse-jsf/ebook/product-1603040.html;jsessionid=E57B1E8662500F2ADF96D7B317769B6E) - Arulkumaran Kumaraswamipillai, Sivayini Arulkumaran
 
 ####Wicket
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)
@@ -666,6 +676,8 @@
 
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
+* [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
+* [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 ####jQuery
 
@@ -716,6 +728,7 @@ See also [TeX](#tex)
 * [Successful Lisp: How to Understand and Use Common Lisp](http://psg.com/~dlamkins/sl/) - David Lamkins
 * [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
 * [Lisp Koans](https://github.com/google/lisp-koans)
+* [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
 
 
 ###Lua
@@ -743,6 +756,9 @@ See also [TeX](#tex)
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com/)
 
 
+###MySQL
+* [MySQL Tutorial Excerpt](http://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.1-en.pdf)
+
 ###.NET (C# / VB / Nemerle / Visual Studio)
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
 * [C# Programming - Wikibook](http://en.wikibooks.org/wiki/C_Sharp_Programming)
@@ -758,6 +774,7 @@ See also [TeX](#tex)
 * [Under the Hood of .NET Memory Management](http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf) (PDF) *(RedGate, By Chris Farrell and Nick Harrison)*
 * [Practical Performance Profiling: Improving the efficiency of .NET code ](http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/practical-performance-profiling) *(RedGate, By Jean-Philippe Gouigoux)*
 * [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) *(RedGate, By Paul Glavich and Chris Farrell)*
+* [HTTP Programming Recipes for C# Bots](http://www.heatonresearch.com/articles/series/20)
 
 
 ###NoSQL
@@ -843,6 +860,11 @@ See also [TeX](#tex)
         * [Master Drupal in 7 hours](http://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf) (PDF)
     * Drupal 8
 * [PHP Internals Book](http://www.phpinternalsbook.com/)
+* [PHP Best Practices](https://phpbestpractices.org/)
+* [PHP Programming](http://en.wikibooks.org/wiki/PHP_Programming)
+* [PHP with Guru99](http://www.smashwords.com/books/view/324888)
+* [Practical Php Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
+* [Practical PHP Programming](http://www.tuxradar.com/practicalphp)
 
 
 ###PowerShell
@@ -904,6 +926,8 @@ See also [TeX](#tex)
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+* [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
+
 
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)

@@ -24,6 +24,9 @@
 ## D3.js
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
+* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
+* [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
+* [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 
 ## Ember.js

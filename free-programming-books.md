@@ -748,6 +748,7 @@ See also [TeX](#tex)
 * [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
 * [Lisp Koans](https://github.com/google/lisp-koans)
 * [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
+* [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 
 
 ###Lua

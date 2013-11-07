@@ -135,6 +135,7 @@ Voir aussi [TeX](#tex)
 ###Python
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) par Gerard Swinnen
+* [Dropbox a des fuites !Un aperçu de la rétro-ingénierie des programmes Python](http://progdupeu.pl/articles/34/dropbox-a-des-fuites)
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) par Guido Van Rossum
 
 ###R

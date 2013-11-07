@@ -47,6 +47,7 @@
 * [Erlang](#erlang)
 * [Flex](#flex)
 * [F#](#f-sharp)
+* [Force.com](#salesforce)
 * [Forth](#forth)
 * [Git](#git)
 * [Go](#go)
@@ -539,6 +540,22 @@
 * [F# Succinctly, SyncFusion](http://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
+###Force.com
+* [Force.com Fundamentals](http://wiki.developerforce.com/page/Force_Platform_Fundamentals) (HTML)
+* [Force.com Workbook](http://www.salesforce.com/us/developer/docs/workbook/index.htm) (HTML)
+* [Force.com Integration Workbook](http://www.salesforce.com/us/developer/docs/integration_workbook/index.htm) (HTML)
+* [Apex Workbook](http://www.salesforce.com/us/developer/docs/apex_workbook/index.htm) (HTML)
+* [Visualforce Workbook](http://www.salesforce.com/us/developer/docs/workbook_vf/index.htm) (HTML)
+* [Database.com Workbook](http://www.salesforce.com/us/developer/docs/workbook_database/index.htm) (HTML)
+* [Analytics Workbook](http://www.salesforce.com/us/developer/docs/workbook_analytics/index.htm) (HTML)
+* [ISVForce Workbook](http://www.salesforce.com/us/developer/docs/workbook_isv/index.htm) (HTML)
+* [Cloud Flow Designer Workbook](http://www.salesforce.com/us/developer/docs/workbook_flow/index.htm) (HTML)
+* [Security Workbook](http://www.salesforce.com/us/developer/docs/workbook_security/index.htm) (HTML)
+* [Service Cloud Workbook](http://www.salesforce.com/us/developer/docs/workbook_service_cloud/index.htm) (HTML)
+* [Site.com Workbook](http://www.salesforce.com/us/developer/docs/workbook_siteforce/index.htm) (HTML)
+* [Heroku Postgres](http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) (PDF)
+* [Apex Design Patterns and Best Practices](http://www.gobookee.org/get_book.php?u=aHR0cDovL3d3dy5zdW5kb2dpbnRlcmFjdGl2ZS5jb20vd2hpdGVwYXBlcnMvU1VOX0NodWNrX0FwZXhkZXNpZ25wYXR0ZXJucy5wZGYKQXBleCBEZXNpZ24gUGF0dGVybnMgYW5kIEJlc3QgUHJhY3RpY2VzIC0gU3VuZG9n)
+
 ###Forth
 * [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
 * [Thinking Forth](http://thinking-forth.sourceforge.net/)
@@ -643,7 +660,6 @@
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf) (PDF)
 * [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
-* [The Java EE7 Tutorial](http://docs.oracle.com/javaee/7/tutorial/doc/javaeetutorial7.pdf)  (PDF)
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
 * [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
 * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)

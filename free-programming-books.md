@@ -261,6 +261,7 @@
 * [Don't Just Roll the Dice](http://www.neildavidson.com/dontjustrollthedice.html)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
+* [Web API Design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)
 
 ####Open Source Ecosystem
 * [Data Journalism Handbook](http://datajournalismhandbook.org/)

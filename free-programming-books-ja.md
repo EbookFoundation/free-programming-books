@@ -36,9 +36,9 @@
 * [Objective-C](#objective_c)
 * [OCaml](#ocaml)
 * [Perl](#perl)
-* [Processing](#processing)
 * [PHP](#php)
 * [PowerShell](#powershell)
+* [Processing](#processing)
 * [Prolog](#prolog)
 * [Python](#python)
 * [R](#r)
@@ -75,7 +75,6 @@
 * [GLUTによる「手抜き」OpenGL入門](http://www.wakayama-u.ac.jp/~tokoi/opengl/libglut.html) - 床井浩平 (和歌山大学システム工学部デザイン情報学科)
 * [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平 (特定非営利活動法人 natural science)
 * [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/OpenGLES_ProgrammingGuide.pdf) (PDF) - Apple Developer
-
 * [DirectX を使った初めての Windows ストア アプリの作成](http://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
 * [CUDA プログラミング入門](http://accc.riken.jp/secure/4467/cuda-programming_main.pdf) (PDF) - 青山幸也(独立行政法人 理化学研究所 情報基盤センター)
 
@@ -350,7 +349,6 @@
 ###R
 
 * [R 入門](http://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) (PDF) - W. N. Venables, D. M. Smith and the R Development Core Team, 間瀬茂(東京工業大学)(翻訳)
-
 * [R 言語定義](http://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) (PDF) - R Development Core Team, 間瀬茂(東京工業大学)(翻訳)
 * [R 基本統計関数マニュアル](http://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) (PDF) - 間瀬茂(東京工業大学)
 * [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男

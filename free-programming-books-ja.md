@@ -31,7 +31,10 @@
     * [jQuery](#jquery)
     * [Node.js](#nodejs)
 * [LaTeX](#latex)
+* [Linux](#linux)
 * [Lua](#lua)
+* [Maven](#maven)
+* [Mercurial](#mercurial)
 * [NoSQL](#nosql)
 * [Objective-C](#objective_c)
 * [OCaml](#ocaml)
@@ -46,8 +49,9 @@
 * [Sather](#sather)
 * [Scheme](#scheme)
 * [sed](#sed)
-* [Standard ML](#standard-ml)
 * [Smalltalk](#smalltalk)
+* [SQL(実装非依存)](#sql%e5%ae%9f%e8%a3%85%e9%9d%9e%e4%be%9d%e5%ad%98)
+* [Standard ML](#standard-ml)
 * [Tcl/Tk](#tcl-ftk)
 * [VBA](#vba)
 * [Vim](#vim)
@@ -105,6 +109,7 @@
 * [ギコ猫とデザインパターン](http://www.hyuki.com/dp/cat_index.html) - 結城浩
 * [サルでもわかる 逆引きデザインパターン](http://www.nulab.co.jp/designPatterns/designPatterns1/designPatterns1-1.html) - Agata Toshitaka
 * [チャートで解るリファクタリング](http://objectclub.jp/technicaldoc/refactoring/u_s_r) - 梅田政利 (株式会社永和システムマネジメント)
+* [デザインパターン](http://www.techscore.com/tech/DesignPattern/) - シナジーマーケティング株式会社
 
 
 ####ソフトウェア品質
@@ -154,6 +159,7 @@
 
 * [Bash基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - id:nattou_curry
 * [UNIX & Linux コマンド・シェルスクリプト リファレンス](http://shellscript.sunone.me/) - SUNONE
+* [BASH Programming - Introduction HOW-TO](http://linuxjf.sourceforge.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - Mike G, 千旦裕司(翻訳)
 
 
 ###C
@@ -207,6 +213,7 @@
 * [Pro Git](http://git-scm.com/book/ja/) ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi)) - Scott Chacon, 高木正弘 他(翻訳)
 * [Git ユーザマニュアル (バージョン 1.5.3 以降用)](http://cdn8.atwikiimg.com/git_jp/pub/git-manual-jp/Documentation/user-manual.html) - Yasuaki Narita
 * [デザイナのための Git](https://github.com/hatena/Git-for-Designers) - はてな教科書
+* [サルでもわかるGit入門](http://www.backlog.jp/git-guide/) - 株式会社ヌーラボ
 
 
 ###Go
@@ -284,17 +291,37 @@
 * [TeX/LaTeX入門](http://ja.wikibooks.org/wiki/TeX/LaTeX%E5%85%A5%E9%96%80) - Wikibooks
 
 
+###Linux
+
+* [Linux Device Driver](http://www.mech.tohoku-gakuin.ac.jp/rde/contents/linux/drivers/indexframe.html) - 熊谷正朗(東北学院大学工学部機械知能工学科)
+* [Secure Programming for Linux and Unix HOWTO](http://linuxjf.sourceforge.jp/JFdocs/Secure-Programs-HOWTO/) - David A. Wheeler, 高橋聡(翻訳)
+* [Linux from Scratch (Version 7.4)](http://lfsbookja.sourceforge.jp/7.4.ja/) - Gerard Beekmans, 松山道夫(翻訳)
+
+
 ###Lua
 
-* [Lua 5.1 リファレンスマニュアル](http://milkpot.sakura.ne.jp/lua/lua51_manual_ja.html) - Lua.org, PUC-Rio.
+* [Lua 5.2 リファレンスマニュアル](http://milkpot.sakura.ne.jp/lua/lua52_manual_ja.html) - Lua.org, PUC-Rio.
 * [Lua Programming](http://www.geocities.jp/m_hiroi/light/lua.html) - 広井誠
 * [Luaプログラミング入門](http://densan-labs.net/tech/lua/) - @nishio_dens
+
+
+###Maven
+
+* [Maven](http://www.techscore.com/tech/Java/ApacheJakarta/Maven/) - シナジーマーケティング株式会社
+* [What is Maven?](https://github.com/eller86/what-is-maven) - Kengo TODA
+
+
+###Mercurial
+
+* [Mercurial: The Definitive Guide](http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, 藤原克則(翻訳)
+* [Mercurial チュートリアル hginit.com の和訳](http://d.hatena.ne.jp/mmitou/20100501/1272680474) - Joel Spolsky, id:mmitou(翻訳)
 
 
 ###NoSQL
 
 * [MongoDBの薄い本](http://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) (PDF) - Karl Seguin, 濱野司(翻訳)
 * [Hibari アプリケーション開発者ガイド](http://hibari.github.io/hibari-doc/hibari-app-developer-guide.ja.html)
+* [The Little Redis Book](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, @craftgear(翻訳)
 
 
 ###Objective-C
@@ -404,16 +431,23 @@
 * [SED 教室](http://www.gcd.org/sengoku/sedlec/) - 仙石浩明
 
 
-###Standard ML
-
-* [プログラミング言語SML#解説](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/1.0/ja/manual.xhtml) - 大堀淳, 上野 雄大(東北大学電気通信研究所)
-* [お気楽 Standard ML of New Jersey 入門](http://www.geocities.jp/m_hiroi/func/index.html#sml) - 広井誠
-
-
 ###Smalltalk
 
 * [自由自在 Squeakプログラミング](http://swikis.ddo.jp/squeak/13) - 梅澤真史
 * [GNU Smalltalk Tutorial](http://gst.plasticheart.info/tutorial-c84) -  @PLHX
+
+
+###SQL(実装非依存)
+
+* [SQL](http://www.techscore.com/tech/sql/) - シナジーマーケティング株式会社
+* [SQLアタマ養成講座](http://www.geocities.jp/mickindex/database/WDP/WDP_44.pdf) (PDF) - ミック WEB+DB Press Vol.44 (2008) p.47-72
+* [SQLプログラミング作法](http://www.geocities.jp/mickindex/database/db_manner.html) - ミック
+
+
+###Standard ML
+
+* [プログラミング言語SML#解説](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/1.0/ja/manual.xhtml) - 大堀淳, 上野 雄大(東北大学電気通信研究所)
+* [お気楽 Standard ML of New Jersey 入門](http://www.geocities.jp/m_hiroi/func/index.html#sml) - 広井誠
 
 
 ###Tcl/Tk

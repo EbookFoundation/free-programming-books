@@ -9,6 +9,7 @@
 * [Python](#python)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
+* [UML](#uml)
 * [Visual Basic](#visual-basic)
 
 ###Android
@@ -68,6 +69,10 @@
 ###Scilab
 
 * [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf)
+
+###UML
+
+* [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml)
 
 ###Unix
 

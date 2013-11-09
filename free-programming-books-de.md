@@ -21,6 +21,7 @@
 
 * [Die Boost C++ Bibliotheken](http://www.highscore.de/cpp/boost/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
+* [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
 
 ###iOS
 

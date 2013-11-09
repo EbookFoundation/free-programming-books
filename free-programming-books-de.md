@@ -5,6 +5,7 @@
 * [C++](#c-1)
 * [iOS](#ios)
 * [Java](#java)
+* [Javascript](#javascript)
 * [Python](#python)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
@@ -45,6 +46,10 @@
 * [JSFAtWork, JSF 2.0 und Apache MyFaces](http://jsfatwork.irian.at/book_de/)
 * [Programmieren Java: Einfürhung](http://www.highscore.de/java/einfuehrung/)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
+
+###Javascript
+
+* [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
 
 ###PHP
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf)

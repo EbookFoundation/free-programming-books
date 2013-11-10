@@ -1,11 +1,15 @@
 ###Index
 * [Android](#android)
 * [C](#c)
+* [C#](#c-sharp)
+* [C++](#c-1)
 * [iOS](#ios)
 * [Java](#java)
+* [Javascript](#javascript)
 * [Python](#python)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
+* [UML](#uml)
 * [Visual Basic](#visual-basic)
 
 ###Android
@@ -15,6 +19,16 @@
 ###C
 
 * [C von A bis Z](http://openbook.galileocomputing.de/c_von_a_bis_z/)
+
+###C++
+
+* [Die Boost C++ Bibliotheken](http://www.highscore.de/cpp/boost/)
+* [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
+* [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
+
+###C Sharp
+
+* [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
 
 ###iOS
 
@@ -31,6 +45,12 @@
 * [Java 7 Mehr als eine Insel](http://openbook.galileocomputing.de/java7/)
 * [Java ist auch eine Insel](http://openbook.galileocomputing.de/javainsel/)
 * [JSFAtWork, JSF 2.0 und Apache MyFaces](http://jsfatwork.irian.at/book_de/)
+* [Programmieren Java: Einfürhung](http://www.highscore.de/java/einfuehrung/)
+* [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
+
+###Javascript
+
+* [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
 
 ###PHP
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf)
@@ -49,6 +69,10 @@
 ###Scilab
 
 * [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf)
+
+###UML
+
+* [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml)
 
 ###Unix
 

@@ -15,6 +15,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C++](#c-1)
+* [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Common Lisp](#common-lisp)
 * [Emacs Lisp](#emacs-lisp)
@@ -146,6 +147,7 @@
 
 * [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - id:nobuoka
 * [コントリビュータのためのAndroidコードスタイルガイドライン 日本語訳](http://www.textdrop.net/android/code-style-ja.html) - Android Open Source Project, Takashi Sasai(翻訳)
+* [Androidアプリのセキュア設計・セキュアコーディングガイド](http://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 
 
 ###AWK
@@ -181,10 +183,17 @@
 
 ###CoffeeScript
 
-* [The Little Book on CoffeeScript](http://minghai.github.io/library/coffeescript/index.html) - Alex MacCaw
+* [The Little Book on CoffeeScript](http://minghai.github.io/library/coffeescript/index.html) - Alex MacCaw, Narumi Katoh(翻訳)
 * [CoffeeScript 言語リファレンス](http://memo.sappari.org/coffeescript/coffeescript-langref)
 * [基本操作逆引きリファレンス（CoffeeScript）](http://kyu-mu.net/coffeescript/revref/) - 飯塚直
 * [正規表現リファレンス（CoffeeScript)](http://kyu-mu.net/coffeescript/regexp/) - 飯塚直
+
+
+###Clojure
+
+* [Clojureスタイルガイド](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
+* [Modern cljs(翻訳中)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
+* [逆引きClojure](http://rd.clojure-users.org/) - Toshiaki Maki
 
 
 ###Common Lisp
@@ -263,7 +272,7 @@
 
 ####Backbone.js
 
-* [Backboneドキュメント日本語訳](https://github.com/enja-oss/Backbone) (GitHub)
+* [Backboneドキュメント日本語訳](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
 
 
 ####D3.js

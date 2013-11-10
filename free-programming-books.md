@@ -525,7 +525,6 @@
 
 ###Erlang
 * [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/)
-* [Programming Erlang](http://www.e-reading.biz/bookreader.php/139986/Programming_Erlang.pdf)
 * [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf)
 
 

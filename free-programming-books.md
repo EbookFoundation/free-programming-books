@@ -407,7 +407,6 @@
 
 ###ASP.NET MVC
 * [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com/)
-* [NerdDinner Walkthrough](http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx)
 
 
 ###Assembly Language
@@ -525,8 +524,6 @@
 
 ###Erlang
 * [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/)
-* [Erlang Programming](http://it-ebooks.info/book/325/)
-* [Programming Erlang](http://www.e-reading.biz/bookreader.php/139986/Programming_Erlang.pdf)
 * [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf)
 
 
@@ -685,6 +682,7 @@
 
 ###JavaScript
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
 * [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)

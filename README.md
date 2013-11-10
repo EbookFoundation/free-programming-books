@@ -19,7 +19,9 @@ The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-
 
 #### [Chinese : Free programming books](/free-programming-books-ch.md) -- free-programming-books-ch.md
 
-#### [Portuguese : Free programming books](/free-programming-books-pt_BR.md) -- free-programming-books-pt_BR.md
+#### [Portuguese (Portugal) : Free Programming books](/free-programming-books-pt_PT.md) -- free-programming-books-pt_PT.md
+
+#### [Portuguese (Brazil) : Free programming books](/free-programming-books-pt_BR.md) -- free-programming-books-pt_BR.md
 
 #### [Persian : Free programming books](/free-programming-books-fa.md) -- free-programming-books-fa.md
 

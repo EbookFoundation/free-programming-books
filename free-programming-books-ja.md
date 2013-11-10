@@ -15,6 +15,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C++](#c-1)
+* [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Common Lisp](#common-lisp)
 * [Emacs Lisp](#emacs-lisp)
@@ -185,6 +186,13 @@
 * [CoffeeScript 言語リファレンス](http://memo.sappari.org/coffeescript/coffeescript-langref)
 * [基本操作逆引きリファレンス（CoffeeScript）](http://kyu-mu.net/coffeescript/revref/) - 飯塚直
 * [正規表現リファレンス（CoffeeScript)](http://kyu-mu.net/coffeescript/regexp/) - 飯塚直
+
+
+###Clojure
+
+* [Clojureスタイルガイド](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
+* [Modern cljs(翻訳中)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
+* [逆引きClojure](http://rd.clojure-users.org/) - Toshiaki Maki
 
 
 ###Common Lisp

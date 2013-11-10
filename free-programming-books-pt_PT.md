@@ -6,6 +6,6 @@
 ## Revistas
 
 ### Revista Programar
-* [1ª Edição - Começar a Programar (Março de 2006)](http://www.portugal-a-programar.pt/revista-programar/edicoes/download.php?e=1&t=site)
+* [1ª Edição - Começar a Programar (Março de 2006)](http://www.revista-programar.info/?action=editions&type=viewmagazine&n=1) (PDF)
 
 ## Livros

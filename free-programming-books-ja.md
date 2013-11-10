@@ -183,7 +183,7 @@
 
 ###CoffeeScript
 
-* [The Little Book on CoffeeScript](http://minghai.github.io/library/coffeescript/index.html) - Alex MacCaw
+* [The Little Book on CoffeeScript](http://minghai.github.io/library/coffeescript/index.html) - Alex MacCaw, Narumi Katoh(翻訳)
 * [CoffeeScript 言語リファレンス](http://memo.sappari.org/coffeescript/coffeescript-langref)
 * [基本操作逆引きリファレンス（CoffeeScript）](http://kyu-mu.net/coffeescript/revref/) - 飯塚直
 * [正規表現リファレンス（CoffeeScript)](http://kyu-mu.net/coffeescript/regexp/) - 飯塚直
@@ -272,7 +272,7 @@
 
 ####Backbone.js
 
-* [Backboneドキュメント日本語訳](https://github.com/enja-oss/Backbone) (GitHub)
+* [Backboneドキュメント日本語訳](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
 
 
 ####D3.js

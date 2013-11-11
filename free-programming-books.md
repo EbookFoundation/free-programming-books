@@ -139,6 +139,7 @@
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
 * [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
 * [Learn X in Y minutes](http://learnxinyminutes.com/)
+* [Messaging as a Programming Model](https://leanpub.com/messaging_as_a_programming_model)
 
 
 ###Graphics Programming

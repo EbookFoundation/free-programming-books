@@ -1,4 +1,7 @@
 ###Index
+* [Agnósticos](#agnostico)
+    * [Algoritmos y Estructuras de Datos](#algoritmos)
+    * [Ciencia Computacional](#ciencia-computacional)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [Metalistas](#metalistas)
@@ -11,6 +14,15 @@
 * [Haskell](#haskell)
 * [CSS](#CSS)
 
+###Agnosticos
+
+###Algoritmos
+* [Temas selectos de estructuras de datos](http://www.matematicas.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
+* [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
+
+###Ciencia Computacional
+* [Breves Notas sobre Teoría de la Computción](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
+* [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
 
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
@@ -36,6 +48,7 @@
 
 ###Java
 
+* [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf), por Jorge L. Ortega Arjona, UNAM (PDF)
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com/)
 * [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf) (PDF)
 * [Tutorial Introducción a Maven 3](http://www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)

@@ -154,7 +154,7 @@
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
-
+* [Graph Theory] (http://diestel-graph-theory.com/index.html)
 
 ###Graphics User Interfaces
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)

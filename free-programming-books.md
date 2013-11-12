@@ -216,6 +216,7 @@
 * [Mysql, see #Mysql](#mysql)
 
 ####Networking
+* [Code Connected vol.1](http://hintjens.com/books)(PDF) (book on ZeroMQ)
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
@@ -337,6 +338,7 @@
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) (PDF) by Tony Hoare
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
+* [Culture \& Empire: Digital Revolution](http://hintjens.com/books) (PDF)
 * [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html)
 * [Data-Intensive Text Processing with MapReduce](http://www.umiacs.umd.edu/~jimmylin/MapReduce-book-final.pdf) (PDF)
 * [Designing Interfaces](http://designinginterfaces.com) by Jennifer Tidwell
@@ -748,6 +750,7 @@ See also [TeX](#tex)
 * [Linux Device Drivers](http://lwn.net/Kernel/LDD3/) by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
+* [Programming and Using Linux Sound - in depth](http://jan.newmarch.name/LinuxSound/index.html)
 * [Secure Programming for Linux and Unix](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Ubuntu Pocket Guide and Reference](http://www.ubuntupocketguide.com/index_main.html)
@@ -855,7 +858,7 @@ See also [TeX](#tex)
 * [Objective Caml for Scientists (first chapter only)](http://www.ffconsultancy.com/products/ocaml_for_scientists/chapter1.html)
 * [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/)
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
-* [Real World OCaml](https://realworldocaml.org/beta3/en/html/)
+* [Real World OCaml](https://realworldocaml.org/v1/en/html/)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey and Nicholas Monje
 
 

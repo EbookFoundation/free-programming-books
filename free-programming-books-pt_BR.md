@@ -29,6 +29,7 @@
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br)
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 * [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
+* [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
 
 
 ###Shell

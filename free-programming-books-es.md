@@ -52,6 +52,7 @@
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com/)
 * [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf) (PDF)
 * [Tutorial Introducción a Maven 3](http://www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)
+* [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
 
 ###Python
 

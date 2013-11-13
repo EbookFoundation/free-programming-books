@@ -76,7 +76,6 @@
 * [MATLAB](#matlab)
 * [Maven](#maven)
 * [Mercurial](#mercurial)
-* [Microsoft Technologies](#Microsoft-Technologies)
 * [.NET (C# / VB / Nemerle / Visual Studio)](#net-c--vb--nemerle--visual-studio)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)
@@ -141,6 +140,8 @@
 * [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
 * [Learn X in Y minutes](http://learnxinyminutes.com/)
 * [Messaging as a Programming Model](https://leanpub.com/messaging_as_a_programming_model)
+* [Microsoft Technologies, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more.aspx)
+* [ More ebook download links on Microsoft Technologies, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more.aspx?wa=wsignin1.0)
 
 
 ###Graphics Programming
@@ -798,6 +799,7 @@ See also [TeX](#tex)
 * [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
 * [MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics)
 * [MATLAB - A Ubiquitous Tool for the Practical Engineer](http://www.intechopen.com/books/matlab-a-ubiquitous-tool-for-the-practical-engineer)
+* [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html)
 
 
 ###Maven
@@ -811,10 +813,6 @@ See also [TeX](#tex)
 ###Mercurial
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com/)
-
-###Microsoft Technologies
-* [Microsoft Technologies, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more.aspx)
-* [ More ebook download links on Microsoft Technologies, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more.aspx?wa=wsignin1.0)
 
 ###MySQL
 * [MySQL Tutorial Excerpt](http://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.1-en.pdf)

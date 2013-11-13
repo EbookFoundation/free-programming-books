@@ -170,6 +170,8 @@
 * [猫でもわかるプログラミング](http://kumei.ne.jp/c_lang/) - 粂井康孝
 * [計算物理のためのC/C++言語入門](http://www-cms.phys.s.u-tokyo.ac.jp/~naoki/CIPINTRO/) - 渡辺尚貴
 * [C言語](http://ja.wikibooks.org/wiki/C%E8%A8%80%E8%AA%9E) - Wikibooks
+* [C言語プログラミング入門](http://densan-labs.net/tech/clang/) - @nishio_dens
+* [ゲーム作りで学ぶ！実践的C言語プログラミング](http://densan-labs.net/tech/game/) - @nishio_dens
 
 
 ###C++
@@ -395,6 +397,8 @@
 * [Python 2.7.2 ドキュメント日本語訳](http://docs.python.jp/2.7/) - Python Software Foundation
 * [Python の学習](http://skitazaki.github.io/python-school-ja/index.html) - KITAZAKI Shigeru
 * [Google Python スタイルガイド](http://works.surgo.jp/translation/pyguide.html) - Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields, Kosei Kitahara(翻訳)
+* [機械学習の Python との出会い (Machine Learning Meets Python)](http://www.kamishima.net/mlmpyja/) ([PDF](http://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](http://www.kamishima.net/archive/mlmpyja.epub))- 神嶌敏弘
+* [The Programming Historian](https://sites.google.com/site/theprogramminghistorianja/) - William J. Turkel, Alan MacEachern, @moroshigeki(翻訳), @historyanddigi(翻訳), @Say\_no(翻訳), @knagasaki(翻訳), @mak\_goto(翻訳)
 
 
 ###R
@@ -433,6 +437,7 @@
 * [もうひとつの Scheme 入門](http://www.shido.info/lisp/idx_scm.html) - 紫藤貴文
 * [入門Scheme](http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html) - 犬飼大
 * [Scheme入門 スーパービギナー編](https://sites.google.com/site/atponslisp/home/scheme/racket/schemenyuumon-1/schemenyuumon)
+* [Gaucheプログラミング(立読み版)](http://karetta.jp/book-cover/gauche-hacks) - 川合史朗(監修), Kahuaプロジェクト
 
 
 ###sed

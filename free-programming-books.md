@@ -365,6 +365,7 @@
 
 ####Web Performance
 * [Book of Speed](http://www.bookofspeed.com/index.html) by Stoyan Stefanov
+* [Mature Optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf) by Carlos Bueno
 
 ####MOOC
 * [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)

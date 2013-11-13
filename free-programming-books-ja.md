@@ -88,7 +88,7 @@
 
 ####グラフィックユーザーインターフェイス
 
-* [Qtプログラミング入門](http://densan-labs.net/tech/qt/) - @nishio_dens
+* [Qtプログラミング入門](http://densan-labs.net/tech/qt/) - @nishio\_dens
 * [入門GTK+ 第3版](http://www.iim.ics.tut.ac.jp/~sugaya/wiki/wiki/index.php?GTK%2FGNOME%A4%CB%A4%E8%A4%EBGUI%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0#s8b2472b) - 菅谷保之 (豊橋技術科学大学情報工学系)
 
 
@@ -159,7 +159,7 @@
 
 ###Bash
 
-* [Bash基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - id:nattou_curry
+* [Bash基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - id:nattou\_curry
 * [UNIX & Linux コマンド・シェルスクリプト リファレンス](http://shellscript.sunone.me/) - SUNONE
 * [BASH Programming - Introduction HOW-TO](http://linuxjf.sourceforge.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - Mike G, 千旦裕司(翻訳)
 
@@ -170,8 +170,8 @@
 * [猫でもわかるプログラミング](http://kumei.ne.jp/c_lang/) - 粂井康孝
 * [計算物理のためのC/C++言語入門](http://www-cms.phys.s.u-tokyo.ac.jp/~naoki/CIPINTRO/) - 渡辺尚貴
 * [C言語](http://ja.wikibooks.org/wiki/C%E8%A8%80%E8%AA%9E) - Wikibooks
-* [C言語プログラミング入門](http://densan-labs.net/tech/clang/) - @nishio_dens
-* [ゲーム作りで学ぶ！実践的C言語プログラミング](http://densan-labs.net/tech/game/) - @nishio_dens
+* [C言語プログラミング入門](http://densan-labs.net/tech/clang/) - @nishio\_dens
+* [ゲーム作りで学ぶ！実践的C言語プログラミング](http://densan-labs.net/tech/game/) - @nishio\_dens
 
 
 ###C++
@@ -254,7 +254,7 @@
 
 ###Java
 
-* [Java基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094) - id:nattou_curry
+* [Java基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094) - id:nattou\_curry
 * [お気楽 Java プログラミング入門](http://www.geocities.jp/m_hiroi/java/index.html) - 広井誠
 * [頑健なJavaプログラムの書き方](http://www.alles.or.jp/~torutk/oojava/codingStandard/writingrobustjavacode.html) - Scott W. Ambler, 高橋徹(翻訳)
 
@@ -313,7 +313,7 @@
 
 * [Lua 5.2 リファレンスマニュアル](http://milkpot.sakura.ne.jp/lua/lua52_manual_ja.html) - Lua.org, PUC-Rio.
 * [Lua Programming](http://www.geocities.jp/m_hiroi/light/lua.html) - 広井誠
-* [Luaプログラミング入門](http://densan-labs.net/tech/lua/) - @nishio_dens
+* [Luaプログラミング入門](http://densan-labs.net/tech/lua/) - @nishio\_dens
 
 
 ###Maven
@@ -473,7 +473,7 @@
 
 ###VBA
 
-* [VBA基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100129/1264787849) - id:nattou_curry
+* [VBA基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100129/1264787849) - id:nattou\_curry
 * [Office 2013 Visual Basic for Applications 言語リファレンス](http://msdn.microsoft.com/ja-jp/library/office/gg264383.aspx) - MSDN Library
 * [Excel 2013 で学ぶ Visual Basic for Applications (VBA)](http://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/vba2013/index.html) - 金丸隆志(工学院大学)
 

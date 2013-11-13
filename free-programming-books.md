@@ -71,6 +71,7 @@
 * [Lisp](#lisp)
 * [Lua](#lua)
 * [Mathematica](#mathematica)
+* [Matlab](#matlab)
 * [Maven](#maven)
 * [Mercurial](#mercurial)
 * [.NET (C# / VB / Nemerle / Visual Studio)](#net-c--vb--nemerle--visual-studio)
@@ -717,6 +718,8 @@ See also [TeX](#tex)
 * [Stephen Wolfram's The Mathematica Book](http://reference.wolfram.com/legacy/v5_2/)
 * [Wolfram Mathematica Tutorial Collection](http://www.wolfram.com/learningcenter/tutorialcollection/)
 
+###Matlab
+* [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html)
 
 ###Maven
 * [Better Builds with Maven](http://www.maestrodev.com/better-build-maven)

@@ -76,6 +76,7 @@
 * [MATLAB](#matlab)
 * [Maven](#maven)
 * [Mercurial](#mercurial)
+* [Microsoft Technologies](#Microsoft-Technologies)
 * [.NET (C# / VB / Nemerle / Visual Studio)](#net-c--vb--nemerle--visual-studio)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)
@@ -811,9 +812,13 @@ See also [TeX](#tex)
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com/)
 
+###Microsoft Technologies
+* [Microsoft Technologies, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more.aspx)
+* [ More ebook download links on Microsoft Technologies, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more.aspx?wa=wsignin1.0)
 
 ###MySQL
 * [MySQL Tutorial Excerpt](http://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.1-en.pdf)
+
 
 ###.NET (C# / VB / Nemerle / Visual Studio)
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)

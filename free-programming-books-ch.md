@@ -865,6 +865,8 @@ See also [TeX](#tex)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 * [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
 * [Ruby Learning](http://rubylearning.com/)
+* [TryRuby by CodeSchool](http://tryruby.org/)
+* [Learn X in Y minutes: Where X=ruby](http://learnxinyminutes.com/docs/ruby/)
 
 
 ###Ruby on Rails
@@ -872,6 +874,8 @@ See also [TeX](#tex)
 * [Objects on Rails](http://objectsonrails.com)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
 * [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
+* [Rails for Zombies](http://railsforzombies.org/)
+* [Learn Ruby On Rails By Creating An App Right In Your Browser](http://www.codelearn.org/)
 
 
 ###Rust

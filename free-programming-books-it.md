@@ -4,6 +4,7 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [Git](#git)
+* [Java](#java)
 * [Lisp](#lisp)
 * [PHP](#php)
 * [Python](#python)
@@ -30,14 +31,19 @@
 * [AB..C# - Guida alla programmazione](http://www.youblisher.com/files/publications/4/21542/pdf.pdf)
 
 
-###Lisp
-
-* [Introduzione a Lisp](http://www.matteolucarelli.net/lisp/lispintro.pdf)
-
-
 ###GIT
 
 * [Comprendere GIT concettualmente](http://www.linuxtrent.it/sites/default/files/Comprendere%20Git%20concettualmente%20-%20Marco%20Ciampa%20-%20r1.pdf)
+
+
+###Java
+
+* [Object Oriented && Java 5 (II Edizione) - Claudio De Sio Cesari](http://www.claudiodesio.com/download/oo_&&_java_5.zip)
+
+
+###Lisp
+
+* [Introduzione a Lisp](http://www.matteolucarelli.net/lisp/lispintro.pdf)
 
 
 ###PHP

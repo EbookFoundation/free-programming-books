@@ -733,8 +733,7 @@
 * [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [The Node Beginner Book](http://nodebeginner.org/)
-* [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
-
+* [Up and Running with Node](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
 
 ###LaTeX
 * [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)

@@ -1,8 +1,9 @@
 ##Índice
 * [Git](#git)
+* [Haskell](#haskell)
 * [HTML / CSS](#html--css)
-* [JavaScript](#javascript)
 * [Java](#java)
+* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -10,7 +11,11 @@
 
 
 ###Git
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Pro Git](http://git-scm.com/book/pt-br)
+
+###Haskell
+* [Aprender o Haskell será um grande bem para você(tradução em andamento)](https://github.com/taylorrf/learnhaskell)
 
 ###HTML / CSS
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
@@ -21,11 +26,12 @@
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/)
 * [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/)
 
+###JavaScript
+* [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
+* [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
+
 ###LaTeX
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
-
-### JavaScript
-* [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
 
 ###Python
 * [A Byte of Python](http://rodrigoamaral.net/a-byte-of-python/)
@@ -33,6 +39,7 @@
 
 ###Ruby
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br)
+* [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com/)
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)

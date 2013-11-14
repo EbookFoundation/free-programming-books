@@ -75,7 +75,6 @@
 
 ###JavaScript
 
-* [JavaScript - The Complete Reference 2nd Edition PDF](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCgQFjAA&url=http%3A%2F%2Ffreecodingtutorial.files.wordpress.com%2F2011%2F10%2Fmcgraw-hill-javascript-the-complete-reference.pdf&ei=TKZuUoOCLcqlrQfu4YDoDQ&usg=AFQjCNFpz_8g2SVBXEWmpwccakQjtag_ww&bvm=bv.55123115,d.bmk)
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
 
 ###Haskell

@@ -1,11 +1,19 @@
 ##Índice
-* [Java](#java)
-* [JavaScript](#javascript)
+* [Git](#git)
 * [HTML / CSS](#html--css)
+* [JavaScript](#javascript)
+* [Java](#java)
+* [LaTeX](#latex)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 
+
+###Git
+* [Pro Git](http://git-scm.com/book/pt-br)
+
+###HTML / CSS
+* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
 
 ###Java
 * [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/)
@@ -13,11 +21,11 @@
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/)
 * [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/)
 
+###LaTeX
+* [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
+
 ### JavaScript
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
-
-###HTML / CSS
-* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
 
 ###Python
 * [A Byte of Python](http://rodrigoamaral.net/a-byte-of-python/)

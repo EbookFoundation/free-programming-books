@@ -5,6 +5,7 @@
 * [C#](#c-sharp)
 * [Git](#git)
 * [Java](#java)
+* [Linux](#linux)
 * [Lisp](#lisp)
 * [PHP](#php)
 * [Python](#python)
@@ -39,6 +40,11 @@
 ###Java
 
 * [Object Oriented && Java 5 (II Edizione) - Claudio De Sio Cesari](http://www.claudiodesio.com/download/oo_&&_java_5.zip)
+
+
+###Linux
+
+* [«a2», ex «Appunti di informatica libera», ex «Appunti Linux»](http://archive.org/download/AppuntiDiInformaticaLibera/)
 
 
 ###Lisp

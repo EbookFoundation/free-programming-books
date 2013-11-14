@@ -19,6 +19,7 @@
 
 ###HTML / CSS
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
+* [Dive Into HTML5](http://diveintohtml5.com.br/)
 
 ###Java
 * [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/)

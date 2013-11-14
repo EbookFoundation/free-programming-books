@@ -178,13 +178,13 @@
 
 ####计算理论
 * [Structure and Interpretation of Computer Programs -- 《计算机程序的构造和解释》](http://mitpress.mit.edu/sicp/)
-* [Programming Languages: Application and Interpretation -- 《编程语言：适用范围及释义》](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
+* [Programming Languages: Application and Interpretation -- 《程序语言：应用及解释》](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Introduction to Computing -- 《计算概论》](http://www.computingbook.org/)
 * [An Introduction to the Theory of Computation -- 《计算理论简介》](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
 * [Think Complexity -- 《思想复杂性》](http://www.greenteapress.com/compmod/) - Allen B. Downey
 
 ####操作系统
-* [The Art of Unix Programming -- 《Unix编程的艺术》](http://catb.org/esr/writings/taoup/html/)
+* [The Art of Unix Programming -- 《Unix编程艺术》](http://catb.org/esr/writings/taoup/html/)
 * [The Little Book of Semaphores -- 《信号灯的手册》](http://greenteapress.com/semaphores/) - Allen B. Downey
 * [Operating Systems and Middleware -- 《操作系统和中间件》](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Practical File System Design:The Be File System -- 《实用的文件系统设计：BE文件系统》](http://www.nobius.org/~dbg/practical-file-system-design.pdf)(PDF) - Dominic Giampaolo
@@ -206,10 +206,10 @@
 * [Let's Build a Compiler -- 《建立一个编译器》](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
 * [Linkers and loaders -- 《链接器和加载器》](http://www.iecc.com/linker/)
 * [Compiler Design: Theory, Tools, and Examples -- 《编译器设计：理论，工具和范例》](http://elvis.rowan.edu/~bergmann/books.html)
-* [Practical and Theoretical Aspects of Compiler Construction -- 《编译器建设方面的理论与实践》](http://www.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
+* [Practical and Theoretical Aspects of Compiler Construction -- 《编译器构造的理论与实践》](http://www.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 
 ####编程范式
-* [Introduction to Functional Programming -- 《功能性编程简介》](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)
+* [Introduction to Functional Programming -- 《函数式编程简介》](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)
 * [Type Theory and Functional Programming -- 《类型理论与函数式编程》](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 
 ####并行化编程
@@ -219,7 +219,7 @@
 * [Introduction to Parallel Computing -- 《并行计算简介》](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 
 ####软件架构
-* [Seamless Object-Oriented Software Architecture -- 《无缝的面向对象的软件架构》](http://www.bon-method.com/book_print_a4.pdf) (PDF)
+* [Seamless Object-Oriented Software Architecture -- 《无缝的面向对象软件架构》](http://www.bon-method.com/book_print_a4.pdf) (PDF)
 * [How to write Unmaintainable Code -- 《如何写不可维护的代码》](http://mindprod.com/jgloss/unmain.html)
 * [Object-Oriented Reengineering Patterns -- 《面向对象的再造模式》](http://scg.unibe.ch/download/oorp/)
 * [Patterns and Practices: Application Architecture Guide 2.0 -- 《模式与实践：应用架构指南2.0》](http://www.codeplex.com/AppArchGuide)
@@ -300,7 +300,7 @@
 * [Modeling Reactive Systems with Statecharts -- 《反应系统建模与状态图》](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
 * [PNG: The Definitive Guide -- 《PNG：权威指南》](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory -- 《指针和内存》](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
-* [Project Oberon -- 《项目奥伯伦》](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
+* [Project Oberon -- 《奥伯伦工程》](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
 * [Security Engineering -- 《安全工程》](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software -- 《小型存储软件》](http://www.smallmemory.com/book.html)
 * [SVG Essentials -- 《SVG要点》](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)

@@ -266,6 +266,7 @@
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [Web API Design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)
+* [OAuth - The Big Picture](http://pages.apigee.com/oauth-big-picture-ebook.html)
 
 ####Open Source Ecosystem
 * [Data Journalism Handbook](http://datajournalismhandbook.org/)

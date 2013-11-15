@@ -1,6 +1,6 @@
 ###Index
 * [Списки книг](#meta-lists)
-* [Language Agnotic](#language-agnostic)
+* [Language Agnostic](#language-agnostic)
 * [Bash](#bash)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)

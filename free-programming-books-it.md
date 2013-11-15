@@ -1,6 +1,6 @@
 ###Index
 * [Agnostico](#agnostico)
-    * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-software)
+    * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
 * [Android](#android)
 * [BASH](#bash)
 * [C](#c)

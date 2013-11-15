@@ -1,8 +1,8 @@
 ###Index
-* [Agnósticos](#agnostico)
+* [Agnósticos](#agnosticos)
     * [Algoritmos y Estructuras de Datos](#algoritmos)
     * [Ciencia Computacional](#ciencia-computacional)
-    * [Metodologías de desarrollo de software](#metodologias-de-desarrollo-de-software)
+    * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [Metalistas](#metalistas)

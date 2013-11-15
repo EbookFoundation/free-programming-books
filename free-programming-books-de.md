@@ -1,5 +1,5 @@
 ###Index
-* [Unabhängig von der Programmiersprache](#unabhangig-von-der-programmiersprache)
+* [Unabhängig von der Programmiersprache](##unabh%C3%A4ngig-von-der-programmiersprache)
 * [Android](#android)
 * [C](#c)
 * [C++](#c-1)

@@ -4,6 +4,7 @@
 * [Assembleur](#assembleur)
 * [Caml](#caml)
 * [C / C++](#c--c)
+* [Coq](#coq)
 * [Git](#git)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -74,6 +75,11 @@
 * [Initiation à la programmation (en C++)](https://www.coursera.org/course/intro-cpp-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
 * [Introduction à la rétro-ingénierie de binaires](http://progdupeu.pl/articles/45/introduction-a-la-retro-ingenierie-de-binaires), à partir de code C compilé pour x86.
 * [Programmation en C](https://www.rocq.inria.fr/secret/Matthieu.Finiasz/teaching/ENSTA/IN101%20-%20poly%20C.pdf) par Pierre-Alain Fouque et David Pointcheval
+
+###Coq
+
+* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt) par Yves Bertot et Pierre Castéran
+* [Preuves de programmes en coq](http://fuscia.inrialpes.fr/cours/coq/) par Yves Bertot
 
 ###Git
 

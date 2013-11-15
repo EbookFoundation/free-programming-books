@@ -58,6 +58,10 @@
 
 * [Systèmes Informatiques (C, Unix/Linux,...)](http://sinf1252.info.ucl.ac.be/), par Olivier Bonaventure ([sources](https://github.com/obonaventure/SystemesInformatiques))
 
+####Méthodes de développement
+
+* [Scrum et XP depuis les tranchées](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf), par Henrik Kniberg
+
 ###Assembleur
 
 * [Initiation à la programmation en assembleur 64 bits](http://www.ilv-edition.com/librairie/initiation-programmation-assembleur-bits.html), par Pierre Jourlin

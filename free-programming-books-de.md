@@ -1,4 +1,5 @@
 ###Index
+* [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Android](#android)
 * [C](#c)
 * [C++](#c-1)
@@ -14,6 +15,10 @@
 * [UML](#uml)
 * [Unix](#unix)
 * [Visual Basic](#visual-basic)
+
+###Unabhängig von der Programmiersprache
+
+* [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf)
 
 ###Android
 

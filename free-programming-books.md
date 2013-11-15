@@ -80,6 +80,7 @@
 * [Vim](#vim)
 * [Websphere](#websphere)
 * [Windows Phone](#windows-phone)
+* [Windows 8 Apps](#windows-8-apps)
 
 
 ###Meta-Lists
@@ -854,3 +855,8 @@
 ###Windows Phone
 
 * [Programming Windows Phone 7](http://blogs.msdn.com/b/microsoft_press/archive/2010/10/28/free-ebook-programming-windows-phone-7-by-charles-petzold.aspx)
+
+
+###Windows 8 Apps
+* [Programming Windows 8 Apps with HTML, CSS, and JavaScript](http://blogs.msdn.com/b/microsoft_press/archive/2012/10/29/free-ebook-programming-windows-8-apps-with-html-css-and-javascript.aspx)
+

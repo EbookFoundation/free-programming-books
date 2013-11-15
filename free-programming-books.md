@@ -265,6 +265,7 @@
 * [Don't Just Roll the Dice](http://www.neildavidson.com/dontjustrollthedice.html)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
+* [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches)
 * [Web API Design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)
 
 ####Open Source Ecosystem

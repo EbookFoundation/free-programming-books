@@ -2,6 +2,7 @@
 * [Agnósticos](#agnostico)
     * [Algoritmos y Estructuras de Datos](#algoritmos)
     * [Ciencia Computacional](#ciencia-computacional)
+    * [Metodologías de desarrollo de software](#metodologias-de-desarrollo-de-software)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [Metalistas](#metalistas)
@@ -23,6 +24,9 @@
 ###Ciencia Computacional
 * [Breves Notas sobre Teoría de la Computción](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 * [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
+
+####Metodologías de desarrollo de software
+* [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf)
 
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver

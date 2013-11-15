@@ -17,11 +17,11 @@
 
 ###Agnosticos
 
-###Algoritmos
+####Algoritmos
 * [Temas selectos de estructuras de datos](http://www.matematicas.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 
-###Ciencia Computacional
+####Ciencia Computacional
 * [Breves Notas sobre Teoría de la Computción](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 * [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
 

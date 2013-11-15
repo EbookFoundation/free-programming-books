@@ -1,4 +1,6 @@
 ###Index
+* [Agnostico](#agnostico)
+    * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-software)
 * [Android](#android)
 * [BASH](#bash)
 * [C](#c)
@@ -11,6 +13,12 @@
 * [Python](#python)
 * [Visual Basic](#visual-basic)
 
+
+###Agnostico
+
+####Metodologie di sviluppo del software
+
+* [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
 
 ###Android
 

@@ -1,5 +1,6 @@
 ###Index
 * [Списки книг](#meta-lists)
+* [Language Agnotic](#language-agnostic)
 * [Bash](#bash)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
@@ -17,6 +18,9 @@
 ###Meta-lists
 * [Книги со свободной ценой](http://www.books.ru/knigi-so-svobodnoi-tsenoi-3129328/)
 
+###Language Agnostic
+
+* [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
 
 ###Bash
 

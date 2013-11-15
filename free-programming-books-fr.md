@@ -21,6 +21,7 @@
 * [Scilab](#scilab)
 * [SPIP](#spip)
 * [TeX](#tex)
+* [iOS](#ios)
 
 ###Méta-listes
 
@@ -80,9 +81,13 @@
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) par par Alexandre Garel, Paul Gaborit et Nicolas Deram
 * [Pro Git](http://www.git-scm.com/book/fr) par Scott Chacon
 
+###iOS
+* [Créez des applications pour iPhone, iPad et iPod Touch](http://uploads.siteduzero.com/pdf/553417-creez-des-applications-pour-iphone-ipad-et-ipod-touch.pdf) par Michel Martin
+
 ###Java
 
 * [Initiation à la programmation (en Java)](https://www.coursera.org/course/intro-java-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
+* [Apprenez à programmer en Java](http://uploads.siteduzero.com/pdf/10601-apprenez-a-programmer-en-java.pdf), par Cyrille Herby
 
 ###Javascript
 
@@ -135,7 +140,7 @@ Voir aussi [TeX](#tex)
 ###Python
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) par Gerard Swinnen
-* [Dropbox a des fuites !Un aperçu de la rétro-ingénierie des programmes Python](http://progdupeu.pl/articles/34/dropbox-a-des-fuites)
+* [Dropbox a des fuites! Un aperçu de la rétro-ingénierie des programmes Python](http://progdupeu.pl/articles/34/dropbox-a-des-fuites)
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) par Guido Van Rossum
 
 ###R

@@ -7,6 +7,7 @@
 * [C#](#c-sharp)
 * [Git](#git)
 * [Java](#java)
+* [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
 * [PHP](#php)
@@ -48,6 +49,11 @@
 ###Java
 
 * [Object Oriented && Java 5 (II Edizione) - Claudio De Sio Cesari](http://www.claudiodesio.com/download/oo_&&_java_5.zip)
+
+
+###LaTeX
+
+* [L'arte di scrivere con LaTeX - L. Pantieri e T. Gordini](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf)
 
 
 ###Linux

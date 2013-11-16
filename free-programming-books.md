@@ -126,7 +126,6 @@
 ###Meta-Lists
 * [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/)
 * [Cheat Sheets (Free)](http://refcardz.dzone.com/)
-* [E-Books Directory](http://www.e-booksdirectory.com/)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com/)
 * [Hacker Shelf](http://hackershelf.com/browse/)
@@ -139,7 +138,6 @@
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
 * [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
 * [Learn X in Y minutes](http://learnxinyminutes.com/)
-* [Messaging as a Programming Model](https://leanpub.com/messaging_as_a_programming_model)
 * [Microsoft Technologies, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more.aspx)
 * [ More ebook download links on Microsoft Technologies, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more.aspx?wa=wsignin1.0)
 
@@ -156,7 +154,6 @@
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
-* [Graph Theory] (http://diestel-graph-theory.com/index.html)
 
 ###Graphics User Interfaces
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
@@ -171,15 +168,12 @@
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
-* [Computational Geometry: Algorithms and Applications](http://www.cs.uu.nl/geobook/) (chapters 1 and 9, pseudo-code)
 * [Data Structures and Algorithms: Annotated Reference with Examples](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/)
 * [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
-* [Hacker's Delight](http://www.hackersdelight.org) (chapter 2, code)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
-* [Open Data Structures](http://opendatastructures.org/)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [Matters Computational](http://www.jjj.de/fxt/#fxtbook)
@@ -201,6 +195,7 @@
 * [Programming Languages: Application and Interpretation](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Introduction to Computing](http://www.computingbook.org/)
 * [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
+* [Introduction to Theory of Computation](http://cg.scs.carleton.ca/~michiel/TheoryOfComputation/) (PDF) - Anil Maheshwari and Michiel Smid
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 * [Network Science](http://barabasilab.neu.edu/networksciencebook/index.html)
 
@@ -208,7 +203,7 @@
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)
 * [The Little Book of Semaphores](http://greenteapress.com/semaphores/) - Allen B. Downey
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
-* [Practical File System Design:The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf)(PDF) - Dominic Giampaolo
+* [Practical File System Design:The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) (PDF) - Dominic Giampaolo
 
 ####Database
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
@@ -316,7 +311,8 @@
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.html)
-* [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
+* [Mathematics for Computer Science (November 2013 Version)](http://courses.csail.mit.edu/6.042/fall13/mcs.pdf) (PDF) - Eric Lehman
+* [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) (PDF) - Silvanus P. Thompson
 * [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) (PDF)
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke
 * [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
@@ -460,6 +456,7 @@
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip)
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
+* [Open Java Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
 * [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Learn C++.](http://www.learncpp.com/) (PDF, Online)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
@@ -674,6 +671,7 @@
 * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
 * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
+* [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) (PDF)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
 * [The Java Language Specification](http://java.sun.com/docs/books/jls/) - James Gosling, Bill Joy, Guy Steele, Gilad Bracha
 * [The Java Tutorial 4th Edition](http://download.oracle.com/javase/tutorial/) - Sharon Zakhour, Scott Hommel, Jacob Royal, Isaac Rabinovitch, Tom Risser, Mark Hoeber

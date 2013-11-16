@@ -186,8 +186,8 @@
 * [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html)
-* [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/) (fascicles, mostly volume 4)
-* [Programming Pearls](http://cs.bell-labs.com/cm/cs/pearls/)
+* [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/) (fascicles, mostly volume 4) - Donald Knuth
+* [Programming Pearls](http://cs.bell-labs.com/cm/cs/pearls/) - Jon Bentley
 * [Algorithms for Programmers: Ideas and Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
@@ -205,7 +205,7 @@
 * [Network Science](http://barabasilab.neu.edu/networksciencebook/index.html)
 
 ####Operating systems
-* [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)
+* [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) - Eric S. Raymond
 * [The Little Book of Semaphores](http://greenteapress.com/semaphores/) - Allen B. Downey
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Practical File System Design:The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf)(PDF) - Dominic Giampaolo
@@ -275,7 +275,7 @@
 * [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
 * [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html)
 * [Producing Open Source Software](http://producingoss.com/)
-* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
+* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
 * [The Future of the Internet](http://futureoftheinternet.org/)
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Performance of Open Source Applications](http://aosabook.org/en/)
@@ -288,12 +288,12 @@
 ####Datamining
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/DokuWiki/doku.php) (Draft)
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
-* [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
-* [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) (Draft)
+* [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+* [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) (Draft) - Ron Zacharski
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
 * [Data Mining Algorithms In R](http://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
-* [Introduction to Data Science](http://jsresearch.net/wiki/projects/teachdatascience/Teach_Data_Science.html)
+* [Introduction to Data Science](http://jsresearch.net/wiki/projects/teachdatascience/Teach_Data_Science.html) - Jeffrey Stanton
 * [School of Data Handbook](http://schoolofdata.org/handbook/)
 
 ####Machine Learning
@@ -314,18 +314,18 @@
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
-* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-* [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.html)
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
+* [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
 * [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
 * [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) (PDF)
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke
 * [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 * [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
-* [A First Course in Linear Algebra](http://linear.ups.edu/)
+* [A First Course in Linear Algebra](http://linear.ups.edu/) - Robert A. Beezer
 * [Collaborative Statistics](http://cnx.org/content/col10522/latest/)
 * [CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
-* [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html)
+* [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead and J. Laurie Snell
 * [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
@@ -335,7 +335,7 @@
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
 * [A Mathematical Theory of Communication](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html) by Claude E.Shannon
 * [Asterisk™: The Definitive Guide](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
-* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/)
+* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) -  Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
 * [I Am a Bug](http://www.amibug.com/iamabug/p01.html)
 * [Learn to Program](http://pine.fm/LearnToProgram/)
 * [Foundations of Programming](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
@@ -457,7 +457,7 @@
 * [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-* [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip)
+* [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 * [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -531,7 +531,7 @@
 
 
 ###Erlang
-* [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/)
+* [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/) - Frederic Trottier-Hebert
 * [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf)
 
 
@@ -573,7 +573,7 @@
 
 
 ###Git
-* [Pro Git](http://git-scm.com/book)
+* [Pro Git](http://git-scm.com/book) - Scott Chacon
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 * [Git Immersion](http://gitimmersion.com)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) (PDF)
@@ -607,7 +607,7 @@
 * [A Haskell School of Music](http://haskell.cs.yale.edu/?post_type=publication&p=112) (PDF) (work in progress)
 * [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
-* [Learn You a Haskell](http://learnyouahaskell.com/)
+* [Learn You a Haskell for Great Good](http://learnyouahaskell.com/) - Miran Lipovača
 * [Natural Language Processing for the Working Programmer](http://nlpwp.org/book/index.xhtml)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929)
 * [Real World Haskell](http://book.realworldhaskell.org/)
@@ -621,7 +621,7 @@
 * [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) (PDF)
 
 ###HTML / CSS
-* [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/))
+* [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/)) - Mark Pilgrim
 * [GA Dash](http://dash.generalassemb.ly)
 * [HTML Dog Tutorials](http://www.htmldog.com/)
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
@@ -720,7 +720,7 @@
 
 ####D3.js
 
-* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
 * [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
@@ -803,7 +803,7 @@ See also [TeX](#tex)
 * [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
 * [MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics)
 * [MATLAB - A Ubiquitous Tool for the Practical Engineer](http://www.intechopen.com/books/matlab-a-ubiquitous-tool-for-the-practical-engineer)
-* [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html)
+* [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
 
 
 ###Maven
@@ -815,7 +815,7 @@ See also [TeX](#tex)
 
 
 ###Mercurial
-* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
+* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/) - 
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com/)
 
 ###MySQL
@@ -959,12 +959,12 @@ See also [TeX](#tex)
 ###Python
 * [Byte of Python](http://www.swaroopch.com/notes/Python)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
-* [Dive into Python](http://www.diveintopython.net/)
-* [Dive into Python 3](http://getpython3.com/diveintopython3/)
+* [Dive into Python](http://www.diveintopython.net/) - Mark Pilgrim
+* [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim
 * [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart
 * [Hitchiker's Guide to Python!](http://docs.python-guide.org/en/latest/)
-* [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
+* [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers
 	* [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Introduction to Programming Using Python](http://python-ebook.blogspot.com) - Cody Jackson
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
@@ -993,7 +993,7 @@ See also [TeX](#tex)
 * [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf)
-* [Text Processing in Python](http://gnosis.cx/TPiP/)
+* [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz
 
 
 ####Django
@@ -1004,23 +1004,22 @@ See also [TeX](#tex)
 * [Deploy Django](http://www.deploydjango.com)
 
 ####Flask
-* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 
 
 ###R
-* [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) (PDF)
+* [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) (PDF) - Patrick Burns
 * [The R Manuals](http://cran.r-project.org/manuals.html)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
-* [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) (PDF)
+* [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) (PDF) - G. Jay Kerns
 * [Advanced R Programming](http://adv-r.had.co.nz/)
 * [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
-* [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
-* [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html)
+* [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
+* [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html) - John D. Cook
 * [R Programming](http://en.wikibooks.org/wiki/R_Programming)
-* [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) (PDF)
-* [Data Mining with R](http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/book.html)
+* [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) (PDF) - Julian J. Faraway
 
 ###Racket
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
@@ -1067,8 +1066,8 @@ See also [TeX](#tex)
 
 ###Sage
 * [The Sage Manuals](http://sagemath.org/doc/)
-* [Sage for Newbies](http://sage.math.washington.edu/home/tkosan/newbies_book/)
-* [Sage for Power Users](http://modular.math.washington.edu/books/sagebook/sagebook.pdf) (PDF)
+* [Sage for Newbies](http://sage.math.washington.edu/home/tkosan/newbies_book/) - Ted Kosan
+* [Sage for Power Users](http://modular.math.washington.edu/books/sagebook/sagebook.pdf) (PDF) - William 
 
 
 ###Scala

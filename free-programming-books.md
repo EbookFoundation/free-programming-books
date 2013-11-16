@@ -706,6 +706,7 @@
 * [Dev Docs](http://devdocs.io/)
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com/)  - Noel Rappin
 * [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ####Angular.js
 

@@ -1,19 +1,25 @@
 ###Index
+* [Metalistas](#metalistas)
 * [Agnósticos](#agnosticos)
     * [Algoritmos y Estructuras de Datos](#algoritmos)
     * [Ciencia Computacional](#ciencia-computacional)
     * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
-* [Metalistas](#metalistas)
+* [CSS](#CSS)
 * [Ensamblador](#ensamblador)
 * [Git](#git)
+* [Haskell](#haskell)
+* [JavaScript](#javascript)
 * [Java](#java)
 * [Python](#python)
 * [Ruby](#ruby)
-* [JavaScript](#javascript)
-* [Haskell](#haskell)
-* [CSS](#CSS)
+
+###Metalistas
+
+* [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
+* [CodeHero](http://codehero.co/)
+* [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
 
 ###Agnosticos
 
@@ -27,6 +33,7 @@
 
 ####Metodologías de desarrollo de software
 * [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf)
+* [Diseño Ágil con TDD](http://www.dirigidoportests.com/el-libro)
 
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
@@ -34,11 +41,10 @@
 ###Assembly Language
 * [Machine Code for Beginners](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF) by Lisa Watts and Mike Wharton [Z80 and 6502 CPUs]
 
-###Metalistas
-
-* [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
-* [CodeHero](http://codehero.co/)
-* [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
+###CSS
+* [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
+* [Introducción a CSS](http://librosweb.es/css/)
+* [CSS avanzado](http://librosweb.es/css_avanzado/)
 
 ###Ensamblador
 
@@ -50,6 +56,10 @@
 * [Pro Git](http://git-scm.com/book/es)
 * [Git Immersion en Español](http://gitimmersion.mx)
 
+###Haskell
+
+* [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)
+
 ###Java
 
 * [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf), por Jorge L. Ortega Arjona, UNAM (PDF)
@@ -58,6 +68,10 @@
 * [Tutorial Introducción a Maven 3](http://www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
+
+###JavaScript
+
+* [Introducción a JavaScript](http://librosweb.es/javascript/)
 
 ###Python
 
@@ -76,16 +90,3 @@
 
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
-
-###JavaScript
-
-* [Introducción a JavaScript](http://librosweb.es/javascript/)
-
-###Haskell
-
-* [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)
-
-###CSS
-* [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
-* [Introducción a CSS](http://librosweb.es/css/)
-* [CSS avanzado](http://librosweb.es/css_avanzado/)

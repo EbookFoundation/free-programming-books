@@ -98,6 +98,7 @@
 * [R](#r)
 * [Racket](#racket)
 * [Ruby](#ruby)
+    * [RSpec](#rspec)
 * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Sage](#sage)
@@ -1052,6 +1053,8 @@ See also [TeX](#tex)
 * [Mr. Neighborly's Humble Little Ruby Book](http://humblelittlerubybook.com/book/)
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
 
+###RSpec
+* [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)
 
 ###Ruby on Rails
 * [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)

@@ -126,7 +126,6 @@
 ###Meta-Lists
 * [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/)
 * [Cheat Sheets (Free)](http://refcardz.dzone.com/)
-* [E-Books Directory](http://www.e-booksdirectory.com/)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com/)
 * [Hacker Shelf](http://hackershelf.com/browse/)
@@ -139,7 +138,6 @@
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
 * [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
 * [Learn X in Y minutes](http://learnxinyminutes.com/)
-* [Messaging as a Programming Model](https://leanpub.com/messaging_as_a_programming_model)
 * [Microsoft Technologies, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more.aspx)
 * [ More ebook download links on Microsoft Technologies, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more.aspx?wa=wsignin1.0)
 

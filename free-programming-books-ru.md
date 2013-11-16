@@ -11,6 +11,7 @@
 * [Perl](#perl)
 * [R](#r)
 * [Ruby](#ruby)
+  * [RSpec](#rspec)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [SQL](#sql)
@@ -37,11 +38,13 @@
 * [Современный учебник JavaScript](http://learn.javascript.ru/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 
+###RSpec
+* [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)
 
 ###Git
 
 * [Pro Git](http://git-scm.com/book/ru)
- 
+
 
 ###LaTeX
 
@@ -73,6 +76,8 @@
 
 * [Круглов А. — Ruby](https://github.com/Krugloff/rus_ruby_book)
 
+###RSpec
+* [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org/ru)
 
 ###Ruby on Rails
 

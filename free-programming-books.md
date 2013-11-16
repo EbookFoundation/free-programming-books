@@ -1020,7 +1020,6 @@ See also [TeX](#tex)
 * [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html) - John D. Cook
 * [R Programming](http://en.wikibooks.org/wiki/R_Programming)
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) (PDF) - Julian J. Faraway
-* [Data Mining with R](http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/book.html)
 
 ###Racket
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)

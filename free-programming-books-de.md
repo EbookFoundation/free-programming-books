@@ -67,6 +67,10 @@
 
 * [Python Das umfassende Handbuch](http://openbook.galileocomputing.de/python/)
 
+###Ruby
+
+* [Programmieren mit Ruby](http://approximity.com/rubybuch2/)
+
 ###Ruby on Rails
 
 * [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)

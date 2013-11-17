@@ -989,6 +989,7 @@ See also [TeX](#tex)
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com/)
+* [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
 * [Python for Fun](http://www.openbookproject.net/py4fun/)

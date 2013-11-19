@@ -2,7 +2,9 @@
 * [Metalistas](#metalistas)
 * [Agnósticos](#agnosticos)
     * [Algoritmos y Estructuras de Datos](#algoritmos)
+    * [Base de Datos](#base-de-datos)
     * [Ciencia Computacional](#ciencia-computacional)
+    * [Sistemas Operativos](#sistemas-operativos)
     * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
@@ -24,12 +26,24 @@
 ###Agnosticos
 
 ####Algoritmos
-* [Temas selectos de estructuras de datos](http://www.matematicas.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
+* [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
+* [Análisis y Diseño de Algoritmos](http://www.aliatuniversidades.com.mx/bibliotecasdigitales/pdf/sistemas/Analisis_y_disenio_de_algoritmos.pdf) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
+* [Técnicas de Diseño de Algoritmos ](http://www.lcc.uma.es/~av/Libro/indice.html) ([PDF](http://www.lcc.uma.es/%7eav/Libro/Libro.zip))
+* [Temas selectos de estructuras de datos](http://www.matematicas.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
+
+####Base de Datos
+* [El modelo relacional y el álgebra relacional](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02148.pdf) (PDF)
+* [Apuntes de Base de Datos 1, Universidad de Alicante](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
+* [Base de Datos, por Mercedes Marqués](http://www.uji.es/bin/publ/edicions/bdatos.pdf) (PDF)
+* [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf) (PDF)
 
 ####Ciencia Computacional
-* [Breves Notas sobre Teoría de la Computción](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
+* [Breves Notas sobre Teoría de la Computación](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 * [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
+
+####Sistemas Operativos
+* [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
 
 ####Metodologías de desarrollo de software
 * [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf)

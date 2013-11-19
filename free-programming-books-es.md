@@ -9,6 +9,7 @@
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [CSS](#CSS)
+* [C++](#c-1)
 * [Ensamblador](#ensamblador)
 * [Git](#git)
 * [Haskell](#haskell)
@@ -59,6 +60,9 @@
 * [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
 * [Introducción a CSS](http://librosweb.es/css/)
 * [CSS avanzado](http://librosweb.es/css_avanzado/)
+
+###C++
+* [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
 
 ###Ensamblador
 

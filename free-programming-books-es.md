@@ -1,4 +1,4 @@
-o###Index
+###Index
 * [Metalistas](#metalistas)
 * [Agnósticos](#agnosticos)
     * [Algoritmos y Estructuras de Datos](#algoritmos)

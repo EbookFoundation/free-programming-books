@@ -38,9 +38,6 @@
 * [Современный учебник JavaScript](http://learn.javascript.ru/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 
-###RSpec
-* [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)
-
 ###Git
 
 * [Pro Git](http://git-scm.com/book/ru)

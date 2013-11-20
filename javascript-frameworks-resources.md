@@ -1,4 +1,5 @@
 ## Angular.js
+* [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
 * [AngularJS Insights](http://pascalprecht.github.com/slides/angularjs-insights/#/)
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)

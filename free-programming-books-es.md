@@ -1,4 +1,4 @@
-###Index
+o###Index
 * [Metalistas](#metalistas)
 * [Agnósticos](#agnosticos)
     * [Algoritmos y Estructuras de Datos](#algoritmos)
@@ -9,6 +9,7 @@
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [CSS](#CSS)
+* [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Git](#git)
 * [Haskell](#haskell)
@@ -41,6 +42,9 @@
 ####Ciencia Computacional
 * [Breves Notas sobre Teoría de la Computación](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 * [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
+
+###Emacs
+* [Emacs: Iniciación a la edición](http://www.rpublica.net/emacs/emacs.html)
 
 ####Sistemas Operativos
 * [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)

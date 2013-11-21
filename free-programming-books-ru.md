@@ -15,6 +15,7 @@
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [SQL](#sql)
+* [Параллельные технологии](#parallel)
 
 ###Meta-lists
 * [Книги со свободной ценой](http://www.books.ru/knigi-so-svobodnoi-tsenoi-3129328/)
@@ -90,3 +91,7 @@
 
 * [Работа с PostgreSQL: настройка и масштабирование](http://postgresql.leopard.in.ua/)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
+
+###Parallel
+
+* [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)

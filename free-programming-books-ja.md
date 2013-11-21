@@ -55,6 +55,7 @@
 * [SQL(実装非依存)](#sql%e5%ae%9f%e8%a3%85%e9%9d%9e%e4%be%9d%e5%ad%98)
 * [Standard ML](#standard-ml)
 * [Tcl/Tk](#tcl-ftk)
+* [TypeScript](#typescript)
 * [VBA](#vba)
 * [Vim](#vim)
 
@@ -431,6 +432,10 @@
 * [Tcl/Tk お気楽 GUI プログラミング](http://www.geocities.jp/m_hiroi/tcl_tk_doc/tcltk_doc.html) - 広井誠
 * [Tcl/TkでWindowsプログラミング](http://homepage3.nifty.com/kaku-chan/tcl_tk/) - KAKU-Chan
 * [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf) (PDF) - 只木進一
+
+
+###TypeScript
+* [TypeScript クイックガイド](http://phyzkit.net/typescript/) - @KDKTN
 
 
 ###VBA

@@ -189,7 +189,7 @@
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
 * [Data Structures Succinctly Part 1, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Data Structures Succinctly Part 2, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
-
+* [Algorithms and Complexity](http://www.math.upenn.edu/~wilf/AlgoComp.pdf) (PDF)
 
 ####Theoretical Computer Science
 * [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)

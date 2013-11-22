@@ -927,6 +927,7 @@ See also [TeX](#tex)
 * [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
 * [Plack Handbook](http://handbook.plackperl.org/)
 * [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)
+* [SDL::Manual Writing Games in Perl](https://github.com/PerlGameDev/SDL_Manual)
 
 
 ###PHP

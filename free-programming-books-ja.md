@@ -134,6 +134,7 @@
 * [ケヴィン・ケリー著作選集　２](http://tatsu-zine.com/books/kk2) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
 * [青木靖 翻訳集](http://www.aoky.net/) - 青木靖
 * [川合史朗 翻訳集](http://practical-scheme.net/index-j.html) - 川合史朗
+* [オープンソースソフトウェアの育て方](http://producingoss.com/ja/index.html) - Fogel Karl, 高木正弘(翻訳), Yoshinari Takaoka(翻訳)
 
 
 ###AppleScript
@@ -371,6 +372,8 @@
 * [pythonで心理実験](http://www.s12600.net/psy/python/) - 十河宏行
 * [Python による日本語自然言語処理](http://nltk.googlecode.com/svn-/trunk/doc/book-jp/ch12.html) - Steven Bird, Ewan Klein, Edward Loper, 萩原正人(翻訳), 中山敬広(翻訳), 水野貴明(翻訳)
 * [Pythonで音声信号処理](http://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
+* [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp/) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
+* [php プログラマのための Python チュートリアル](http://phpy.readthedocs.org/en/latest/) - INADA Naoki
 
 
 ###R

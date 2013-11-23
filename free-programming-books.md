@@ -1097,7 +1097,8 @@ See also [TeX](#tex)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
 * [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
-
+* [Rails Girls Guides](http://guides.railsgirls.com)
+* [Geekcamp Ruby on Rails Guides](http://www.rubyonrails.geekcampbaguio.com)
 
 ###Rust
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)

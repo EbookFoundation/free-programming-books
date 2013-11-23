@@ -485,6 +485,7 @@
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [Clojure Koans](http://clojurekoans.com/)
+* [ClojureScript Koans](http://clojurescriptkoans.com/)
 
 
 ###COBOL

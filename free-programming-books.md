@@ -330,6 +330,9 @@
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
 
+####Cellular Automata
+* [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)
+
 ####Misc
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)

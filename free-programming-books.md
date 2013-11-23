@@ -21,7 +21,7 @@
     * [Web Performance](#web-performance)
     * [MOOC](#mooc)
     * [Professional Development](#professional-development)
-    * [Cryptography](#cryptography)
+    * [Security](#security)
 * [Ada](#ada)
 * [Agda](#agda)
 * [Android](#android)
@@ -108,7 +108,6 @@
 * [Scheme](#scheme)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
-* [Security](#security)
 * [Sed](#sed)
 * [Silverlight](#silverlight)
 * [Smalltalk](#smalltalk)
@@ -385,8 +384,11 @@
 * [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
 * [How to be a Programmer: A Short, Comprehensive, and Personal Summary] (http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) by Robert L. Read
 
-####Cryptography
+####Security
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
+* [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
+* [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf)
+
 
 
 ###Ada
@@ -1134,10 +1136,6 @@ See also [TeX](#tex)
 
 ###Scratch
 * [Computer Science Concepts in Scratch](http://stwww.weizmann.ac.il/g-cs/scratch/scratch_en.html)
-
-###Security
-* [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
-* [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf)
 
 ###Sed
 * [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)

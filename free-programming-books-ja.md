@@ -374,6 +374,7 @@
 * [Pythonで音声信号処理](http://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
 * [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp/) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
 * [php プログラマのための Python チュートリアル](http://phpy.readthedocs.org/en/latest/) - INADA Naoki
+* [みんなのPython Webアプリ編](http://coreblog.org/ats/minpy-web-is-now-free-to-read/) - 柴田淳
 
 
 ###R

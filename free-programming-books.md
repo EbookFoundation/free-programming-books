@@ -992,6 +992,7 @@ See also [TeX](#tex)
 
 
 ###Python
+* [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
 * [Byte of Python](http://www.swaroopch.com/notes/Python)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/) - Mark Pilgrim
@@ -1006,6 +1007,7 @@ See also [TeX](#tex)
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart
+* [Modeling Creativity: Case Studies in Python](http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf) - Tom D. De Smedt
 * [Natural Language Processing with Python](http://www.nltk.org/book)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com/)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)

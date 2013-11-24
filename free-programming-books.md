@@ -101,6 +101,7 @@
 * [Racket](#racket)
 * [Ruby](#ruby)
     * [RSpec](#rspec)
+    * [Sinatra](#sinatra)
 * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Sage](#sage)
@@ -839,7 +840,7 @@ See also [TeX](#tex)
 
 
 ###Mercurial
-* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/) - 
+* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/) -
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com/)
 
 ###MySQL
@@ -1087,13 +1088,17 @@ See also [TeX](#tex)
 ###RSpec
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)
 
+###Sinatra
+* [Sinatra Book](https://github.com/sinatra/sinatra-book)
+
 ###Ruby on Rails
 * [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [Objects on Rails](http://objectsonrails.com)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
 * [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
-
+* [Rails Girls Guides](http://guides.railsgirls.com)
+* [Geekcamp Ruby on Rails Guides](http://www.rubyonrails.geekcampbaguio.com)
 
 ###Rust
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
@@ -1102,7 +1107,7 @@ See also [TeX](#tex)
 ###Sage
 * [The Sage Manuals](http://sagemath.org/doc/)
 * [Sage for Newbies](http://sage.math.washington.edu/home/tkosan/newbies_book/) - Ted Kosan
-* [Sage for Power Users](http://modular.math.washington.edu/books/sagebook/sagebook.pdf) (PDF) - William 
+* [Sage for Power Users](http://modular.math.washington.edu/books/sagebook/sagebook.pdf) (PDF) - William
 
 
 ###Scala

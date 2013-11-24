@@ -195,6 +195,7 @@
 * [Problems on Algorithms (Second Edition)](http://larc.unt.edu/ian/books/free/poa.pdf), University of North Texas (PDF)
 * [Mastering Algorithms with C](http://www.das.ufsc.br/~romulo/discipli/cad-fei/Mastering-Algorithms-with-C-Loudon.pdf) (PDF)
 
+
 ####Theoretical Computer Science
 * [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
 * [Introduction to Computing](http://www.computingbook.org/)
@@ -857,6 +858,7 @@ See also [TeX](#tex)
 * [Charles Petzold's .NET Book Zero](http://www.charlespetzold.com/dotnet/index.html)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
 * [Entity Framework](http://weblogs.asp.net/zeeshanhirani/archive/2008/12/05/my-christmas-present-to-the-entity-framework-community.aspx)
+* [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [Moving to Microsoft Visual Studio 2010](http://blogs.msdn.com/b/microsoft_press/archive/2010/09/13/free-ebook-moving-to-microsoft-visual-studio-2010.aspx)
 * [Nemerle](http://asaha.com/ebook/AMTQ2NjA-/Nemerle.pdf) (PDF)
 * [Threading in C#](http://www.albahari.com/threading/)

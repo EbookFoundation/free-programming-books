@@ -8,6 +8,7 @@
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MetaPost](#metapost)
+* [NoSQL](#nosql)
 * [Perl](#perl)
 * [R](#r)
 * [Ruby](#ruby)
@@ -57,6 +58,12 @@
 ###MetaPost
 
 * [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
+
+
+###NoSQL
+
+* [Маленькая книга о MongoDB](http://jsman.ru/mongo-book/index.html)
+* [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
 
 
 ###Perl

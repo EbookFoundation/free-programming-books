@@ -117,7 +117,6 @@
 * [SQL Server](#sql-server)
 * [Teradata](#teradata)
 * [TeX](#tex)
-* [Theory](#theory)
 * [TypeScript](#typescript)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -198,6 +197,7 @@
 
 ####Theoretical Computer Science
 * [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
+* [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
 * [Introduction to Computing](http://www.computingbook.org/)
 * [Introduction to Theory of Computation](http://cg.scs.carleton.ca/~michiel/TheoryOfComputation/) (PDF) - Anil Maheshwari and Michiel Smid
 * [Network Science](http://barabasilab.neu.edu/networksciencebook/index.html)
@@ -357,6 +357,7 @@
 * [Getting Real](http://gettingreal.37signals.com/)
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) by Bret Victor
 * [Modeling Reactive Systems with Statecharts](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
+* [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
 * [Programmer's Motivation for Beginners](http://programmersmotivation.com/)
@@ -1207,11 +1208,6 @@ See also [TeX](#tex)
 * [The Computer Science of TeX and LaTeX](http://eijkhout.net/texsci/), by Victor Eijkhout
 
 See also [LaTeX](#latex)
-
-
-###Theory
-* [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
-* [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
 
 
 ###TypeScript

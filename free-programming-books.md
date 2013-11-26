@@ -1228,7 +1228,7 @@ See also [LaTeX](#latex)
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
-
+* [Vim Regular Expressions 101](http://vimregex.com/)
 
 ###Websphere
 * [Getting started with WebSphere](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_WASCE_p2.pdf) (PDF)

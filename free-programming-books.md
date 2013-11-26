@@ -947,6 +947,7 @@ See also [TeX](#tex)
 * [Plack Handbook](http://handbook.plackperl.org/)
 * [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)
 * [SDL::Manual Writing Games in Perl](https://github.com/PerlGameDev/SDL_Manual)
+* [The PDL Book](http://sourceforge.net/projects/pdl/files/PDL_2013/PDL-Book/PDL-Book-20130322.pdf/download) (PDF)
 
 
 ###PHP

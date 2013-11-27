@@ -332,6 +332,7 @@
 * [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
+* [Number Theory](http://web.mit.edu/~holden1/www/math/number-theory.pdf) (PDF)
 
 ####Cellular Automata
 * [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)

@@ -1223,6 +1223,7 @@ See also [LaTeX](#latex)
 * [A User's Guide for GNU AWK](http://www.math.utah.edu/docs/info/gawk_toc.html)
 
 ###Vim
+* [A guide to getting started with VIM](http://www.integralist.co.uk/posts/a-guide-to-getting-started-with-vim/)
 * [A Byte of Vim](http://www.swaroopch.com/notes/Vim)
 * [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline

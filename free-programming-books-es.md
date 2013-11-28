@@ -19,6 +19,7 @@
 * [Java](#java)
 * [Python](#python)
 * [Ruby](#ruby)
+* [R](#R)
 
 ###Metalistas
 

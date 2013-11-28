@@ -25,7 +25,7 @@ The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-
 
 #### [Portuguese (Brazil) : Free programming books](/free-programming-books-pt_BR.md) -- free-programming-books-pt_BR.md
 
-#### [Persian : Free programming books](/free-programming-books-fa.md) -- free-programming-books-fa.md
+#### [Persian/Farsi : Free programming books](/free-programming-books-fa.md) -- free-programming-books-fa.md
 
 #### [Spanish : Free programming books](/free-programming-books-es.md) -- free-programming-books-es.md
 
@@ -36,7 +36,7 @@ The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-
 ### [Free JavaScript frameworks resources and tutorials](http://resrc.io/list/18/javascript-frameworks/) -- javascript-frameworks-resources.md
 
 ###How To Contribute
-- Fork
+- [Fork](https://help.github.com/articles/fork-a-repo)
 - Edit
-- Send a PR
+- [Send a PR](https://help.github.com/articles/using-pull-requests  )
 - Who might have guessed? ;)

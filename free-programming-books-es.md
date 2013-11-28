@@ -117,3 +117,13 @@
 
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
+
+###R
+* [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
+* [An Introduction to R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
+* [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf)
+* [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf)
+* [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf)
+* [Generacion automatica de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf)
+* [Metodos Estadisticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf)
+* [Optimización Matemática con R: Volumen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf)

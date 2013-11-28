@@ -411,7 +411,7 @@
 
 ###Android
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
-* [CodePath Android Cliffnotes] (https://github.com/thecodepath/android_guides/wiki)
+* [CodePath Android Cliffnotes](https://github.com/thecodepath/android_guides/wiki)
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
 * [Styling Android](http://www.stylingandroid.com/)

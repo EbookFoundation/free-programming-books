@@ -7,11 +7,14 @@
 * [C#](#c-sharp)
 * [Git](#git)
 * [Java](#java)
+* [Javascript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
+* [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+* [Ruby](#ruby)
 * [Visual Basic](#visual-basic)
 
 
@@ -48,7 +51,13 @@
 
 ###Java
 
+* [Introduzione a Java](http://www.ateneonline.it/hyperbook/j_book/java2.htm)
 * [Object Oriented && Java 5 (II Edizione) - Claudio De Sio Cesari](http://www.claudiodesio.com/download/oo_&&_java_5.zip)
+
+
+###Javascript
+
+*[Guida di riferimento](http://www.econ.uniurb.it/laerte/Reti_Internet_1/materiale/JavaScript.pdf)
 
 
 ###LaTeX
@@ -66,6 +75,12 @@
 * [Introduzione a Lisp](http://www.matteolucarelli.net/lisp/lispintro.pdf)
 
 
+###Perl
+
+* [Corso di Perl](http://www.perl.it/documenti/articoli/mb_corso_perl/mb_corso_perl.pdf)
+* [Perl e Internet](http://www.ateneonline.it/hyperbook/p_book/perl2.htm)
+
+
 ###PHP
 
 * [Guida al PHP di LordHack](http://www.lordhack.altervista.org/brdp.pdf)
@@ -78,6 +93,12 @@
 * [Il tutorial di Python](http://docs.python.it/html/tut/)
 * [La libreria di riferimento di Python](http://docs.python.it/html/lib/)
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
+
+
+###Ruby
+
+*[Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
+*[Ruby User Guide](http://ruby-it.org/rug_it.zip)
 
 
 ###Visual Basic

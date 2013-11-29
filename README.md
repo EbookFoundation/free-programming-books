@@ -51,4 +51,3 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution).
 ### Noticable lists from [reSRC](http://resrc.io/)
 
 + Free JavaScript frameworks resources and tutorials: [github](/javascript-frameworks-resources.md) or [site](http://resrc.io/list/18/javascript-frameworks/)
-

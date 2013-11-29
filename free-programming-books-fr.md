@@ -69,7 +69,7 @@
 * [Initiation à la programmation en assembleur 64 bits](http://www.ilv-edition.com/librairie/initiation-programmation-assembleur-bits.html), par Pierre Jourlin
 * [Pas à pas vers l'assembleur](ftp://ftp-developpez.com/asm/cours/noteworthy/pas-a-pas-vers-l-assembleur-par-lord-noteworthy.pdf) par Lord Noteworthy
 
-###Bash/Shell
+###Bash / Shell
 * [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
 
 ###Caml

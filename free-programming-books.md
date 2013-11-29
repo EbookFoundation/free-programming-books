@@ -200,6 +200,7 @@
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
 * [Introduction to Computing](http://www.computingbook.org/)
 * [Introduction to Theory of Computation](http://cg.scs.carleton.ca/~michiel/TheoryOfComputation/) (PDF) - Anil Maheshwari and Michiel Smid
+* [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
 * [Network Science](http://barabasilab.neu.edu/networksciencebook/index.html)
 * [Programming Languages: Application and Interpretation (2nd Edition)](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
@@ -242,7 +243,7 @@
 ####Parallel Programming
 * [How to Write Parallel Programs](http://www.lindaspaces.com/book/)
 * [High Performance Computing](http://cnx.org/content/col11136/latest) (PDF, ePUB) - Charles Severance & Kevin Dowd
-* [High Perofrmance Computing Training](https://computing.llnl.gov/?set=training&page=index) (LLNL materials)
+* [High Performance Computing Training](https://computing.llnl.gov/?set=training&page=index) (LLNL materials)
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 * [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
@@ -332,6 +333,7 @@
 * [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
+* [Number Theory](http://web.mit.edu/~holden1/www/math/number-theory.pdf) (PDF)
 
 ####Cellular Automata
 * [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)
@@ -410,6 +412,7 @@
 
 ###Android
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
+* [CodePath Android Cliffnotes](https://github.com/thecodepath/android_guides/wiki)
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
 * [Styling Android](http://www.stylingandroid.com/)
@@ -482,6 +485,7 @@
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C++](http://www.brpreiss.com/books/opus4/index.html)
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20(2007).pdf)
+* [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 
 ###Clojure
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)

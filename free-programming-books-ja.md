@@ -19,6 +19,7 @@
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Common Lisp](#common-lisp)
+* [Coq](#coq)
 * [Emacs Lisp](#emacs-lisp)
 * [Erlang](#erlang)
 * [Git](#git)
@@ -202,6 +203,10 @@
 * [マンガで分かるLisp(Manga Guide to Lisp)](http://lambda.bugyo.tk/cdr/mwl/) - λ組
 * [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd/) - Paul Graham, 野田開(翻訳)
 * [Google Common Lisp スタイルガイド 日本語訳](http://google-common-lisp-style-guide-ja.cddddr.org/) -  Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳) 
+
+
+###Coq
+* [ソフトウェアの基礎](http://proofcafe.org/sf/) - Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey, 梅村晃広(翻訳), 片山功士(翻訳), 水野洋樹(翻訳), 大橋台地(翻訳), 増子萌(翻訳), 今井宜洋(翻訳)
 
 
 ###Emacs Lisp

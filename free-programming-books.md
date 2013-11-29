@@ -737,6 +737,7 @@
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655) (PDF)
 * [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Javascript Garden] (http://bonsaiden.github.io/JavaScript-Garden/)
 
 ####Angular.js
 

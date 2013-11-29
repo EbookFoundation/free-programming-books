@@ -51,6 +51,7 @@
 * [Forth](#forth)
 * [Git](#git)
 * [Go](#go)
+* [Gradle](#gradle)
 * [Grails](#grails)
 * [Hadoop](#hadoop)
 * [Haskell](#haskell)
@@ -615,6 +616,8 @@
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
 * [Network programming with Go](http://jan.newmarch.name/go/)
 
+###Gradle
+* [Building and Testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
 
 ###Grails
 * [Getting Started with Grails](http://www.infoq.com/minibooks/grails-getting-started)

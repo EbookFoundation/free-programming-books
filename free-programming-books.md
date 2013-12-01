@@ -1083,7 +1083,6 @@ See also [TeX](#tex)
 ###Ruby
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 * [Learn Ruby the hard way](http://ruby.learncodethehardway.org/book/)
-* [MacRuby: The Definitive Guide](http://macruby.labs.oreilly.com/)
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))

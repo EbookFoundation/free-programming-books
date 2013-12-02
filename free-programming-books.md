@@ -1119,6 +1119,7 @@ See also [TeX](#tex)
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
 * [Rails Girls Guides](http://guides.railsgirls.com)
 * [Geekcamp Ruby on Rails Guides](http://www.rubyonrails.geekcampbaguio.com)
+* [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read)
 
 ###Rust
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)

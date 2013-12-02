@@ -116,6 +116,7 @@
 * [Subversion](#subversion)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
+* [Tcl](#tcl)
 * [Teradata](#teradata)
 * [TeX](#tex)
 * [TypeScript](#typescript)
@@ -1211,6 +1212,10 @@ See also [TeX](#tex)
 * [SQL Server Stumpers Vol.5](http://www.red-gate.com/community/books/sql-server-stumpers-v5.htm) *(RedGate, By SQLServerCentral Authors)*
 * [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler.htm) *(RedGate, By Brad McGehee)*
 
+
+###Tcl
+* [Tcl Programming](http://en.wikibooks.org/wiki/Programming:Tcl), by Richard.Suchenwirth, et. al.
+* [TclWise](http://www.invece.org/tclwise/index.html), by Salvatore Sanfilippo
 
 ###Teradata
 * [Teradata Books](http://www.info.teradata.com/)

@@ -515,6 +515,7 @@
 ###CoffeeScript
 * [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
+* [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read)
 
 
 ###ColdFusion

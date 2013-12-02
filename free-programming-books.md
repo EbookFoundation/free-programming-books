@@ -26,6 +26,7 @@
 * [Agda](#agda)
 * [Android](#android)
 * [APL](#apl)
+* [Arduino](#arduino)
 * [Autotools](#autotools)
 * [ASP.NET MVC](#aspnet-mvc)
 * [Assembly Language](#assembly-language)
@@ -427,6 +428,9 @@
 * [A Practical Introduction to APL2 & APL3](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL3_.26_APL4)
 * [Mastering Dyalog APL](http://www.dyalog.com/intro/) (PDF)
 
+
+###Arduino
+* [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
 
 ###Autotools
 * [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)

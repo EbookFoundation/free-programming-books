@@ -1058,6 +1058,7 @@ See also [TeX](#tex)
 * [Deploy Django](http://www.deploydjango.com)
 
 ####Flask
+* [Explore Flask](http://exploreflask.com/) (PDF)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 
 

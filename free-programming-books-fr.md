@@ -20,6 +20,7 @@
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
+* [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
 * [TeX](#tex)
@@ -166,6 +167,10 @@ Voir aussi [TeX](#tex)
 ####Ruby on Rails
 
 * [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning), par Michael Hartl
+
+###Sage
+
+* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr/), par A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann 
 
 ###Scilab
 

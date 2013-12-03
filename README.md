@@ -16,7 +16,12 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution).
 - [Fork](https://help.github.com/articles/fork-a-repo)
 - Edit
 - [Send a PR](https://help.github.com/articles/using-pull-requests  )
-- be a Part of a job which over 13,000 people considered watching less than 2 month. ;)
+- be a Part of a job which over 13,000 people considered watching in less than 2 months. ;)
+
+
+### How to Share
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://github.com/vhf/free-programming-books" data-size="large">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 
 ### In Other Speaking Languages

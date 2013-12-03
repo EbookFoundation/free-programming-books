@@ -303,7 +303,6 @@
 
 ####Machine Learning
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
-* [A Course in Machine Learning](http://hackershelf.com/book/492/a-course-in-machine-learning/)
 * [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) (PDF)
@@ -422,6 +421,8 @@
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
 * [Styling Android](http://www.stylingandroid.com/)
 * [TechnoTalkative Android](http://www.technotalkative.com/android/)
+* [Android Programming Guide for Beginners](http://eduonix.com/offers/Android_ebook_free_offer.html) (PDF - need email confirmation)
+
 
 ###APL
 * [A Practical Introduction to APL1 & APL2](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
@@ -990,6 +991,8 @@ See also [TeX](#tex)
 
 ###PowerShell
 * [Mastering PowerShell](http://powershell.com/cs/blogs/ebook/)
+* [Layman’s Guide to PowerShell 2.0 remoting](http://www.ravichaganti.com/blog/wp-content/plugins/download-monitor/download.php?id=22) (PDF)
+* [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 
 
 ###Processing

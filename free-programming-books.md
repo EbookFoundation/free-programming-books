@@ -224,11 +224,11 @@
 
 ####Networking
 * [802.11ac: A Survival Guide](http://chimera.labs.oreilly.com/books/1234000001739) - Matthew Gast
-* [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main:files/cc1pe.pdf)(PDF) (book on ZeroMQ)
+* [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf)(PDF) (book on ZeroMQ)
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
-* [ZeroMQ Guide](http://zguide.zeromq.org/page:all)
+* [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
 * [Network Security Tools](http://commons.oreilly.com/wiki/index.php/Network_Security_Tools)
 * [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Computer Networking: Principles, Protocols and Practice, 2nd edition (CNP3bis)](http://cnp3bis.info.ucl.ac.be/) (PDF, EPUB + [sources](https://github.com/obonaventure/cnp3/tree/master/book-2nd)) - O. Bonaventure (in progress)

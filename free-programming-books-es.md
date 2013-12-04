@@ -119,6 +119,10 @@
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
 
+###Ruby on Rails
+
+* [El maldito libro de los Descarrilados](https://yottabi.com/mld.pdf) (PDF)
+
 ###R
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
 * [An Introduction to R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)

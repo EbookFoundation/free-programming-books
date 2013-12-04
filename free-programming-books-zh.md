@@ -62,7 +62,7 @@
 * [Computational Geometry: Algorithms and Applications -- 《计算几何：算法和应用》](http://www.cs.uu.nl/geobook/) (chapters 1 and 9, pseudo-code)
 * [Data Structures and Algorithms: Annotated Reference with Examples -- 《数据结构与算法：带注释的参考例子》](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/)
 * [The Algorithm Design Manual -- 《算法设计手册》](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
-* [Hacker's Delight -- 《黑客的乐趣》](http://www.hackersdelight.org) (chapter 2, code)
+* [Hacker's Delight -- 《高效程序的奥秘》](http://www.hackersdelight.org) (chapter 2, code)
 * [LEDA: A Platform for Combinatorial and Geometric Computing -- 《LEDA：组合和几何运算平台》](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
 * [Planning Algorithms -- 《规划算法》](http://planning.cs.uiuc.edu/)
 * [Linked List Basics -- 《链表基础》](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
@@ -89,11 +89,11 @@
 * [Programming Languages: Application and Interpretation -- 《程序语言：应用及解释》](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Introduction to Computing -- 《计算概论》](http://www.computingbook.org/)
 * [An Introduction to the Theory of Computation -- 《计算理论简介》](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
-* [Think Complexity -- 《思想复杂性》](http://www.greenteapress.com/compmod/) - Allen B. Downey
+* [Think Complexity -- 《复杂性思考》](http://www.greenteapress.com/compmod/) - Allen B. Downey
 
 ####操作系统
 * [The Art of Unix Programming -- 《Unix编程艺术》](http://catb.org/esr/writings/taoup/html/)
-* [The Little Book of Semaphores -- 《信号灯的手册》](http://greenteapress.com/semaphores/) - Allen B. Downey
+* [The Little Book of Semaphores -- 《信号量》](http://greenteapress.com/semaphores/) - Allen B. Downey
 * [Operating Systems and Middleware -- 《操作系统和中间件》](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Practical File System Design:The Be File System -- 《实用的文件系统设计：BE文件系统》](http://www.nobius.org/~dbg/practical-file-system-design.pdf)(PDF) - Dominic Giampaolo
 
@@ -117,18 +117,18 @@
 * [Getting started with Open source development -- 《开源开发入门》](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
 * [Innovation Happens Elsewhere -- 《创新在别处发生》](http://dreamsongs.com/IHE/IHE.html)
 * [Producing Open Source Software -- 《构建开源软件》](http://producingoss.com/)
-* [The Cathedral and the Bazaar -- 《大教堂和市集》](http://www.catb.org/esr/writings/cathedral-bazaar/)
+* [The Cathedral and the Bazaar -- 《黑客与画家》](http://www.catb.org/esr/writings/cathedral-bazaar/)
 * [The Architecture of Open Source Applications -- 《开源应用程序的体系结构》](http://www.aosabook.org/en/index.html)
 * [The Future of the Internet -- 《互联网的未来》](http://futureoftheinternet.org/)
 * [The Performance of Open Source Applications -- 《开源应用程序的性能》](http://aosabook.org/en/)
 
 ####信息检索
-* [Introduction to Information Retrieval -- 《现代信息检索》](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+* [Introduction to Information Retrieval -- 《信息检索导论》](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 ####数据挖掘
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms -- 《数据挖掘和分析：基本概念和算法》](http://www.dataminingbook.info/DokuWiki/doku.php) (Draft)
-* [Mining of Massive Datasets -- 《海量数据集挖掘》](http://infolab.stanford.edu/~ullman/mmds.html)
-* [The Elements of Statistical Learning -- 《统计学习的元素》](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+* [Mining of Massive Datasets -- 《大数据：互联网大规模数据挖掘与分布式处理》](http://infolab.stanford.edu/~ullman/mmds.html)
+* [The Elements of Statistical Learning -- 《统计学习基础》](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 
 ####机器学习
 * [Programming Computer Vision with Python -- 《计算机视觉与Python编程》](http://programmingcomputervision.com/)
@@ -137,13 +137,13 @@
 * [Bayesian Reasoning and Machine Learning -- 《贝叶斯推理和机器学习》](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Introduction to Machine Learning -- 《机器学习简介》](http://alex.smola.org/drafts/thebook.pdf) (PDF)
 * [Gaussian Processes for Machine Learning -- 《高斯过程机器学习》](http://www.gaussianprocess.org/gpml/)
-* [Information Theory, Inference, and Learning Algorithms -- 《信息理论，推理和学习算法》](http://www.inference.phy.cam.ac.uk/itila/)
+* [Information Theory, Inference, and Learning Algorithms -- 《信息论、推理与学习算法》](http://www.inference.phy.cam.ac.uk/itila/)
 * [Artificial Intelligence | Machine Learning -- 《人工智能|机器学习》](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
 * [Probabilistic Models in the Study of Language -- 《在语言研究中的概率模型》](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 
 ####数学
 * [Think Bayes: Bayesian Statistics Made Simple -- 《学习贝叶斯：简单贝叶斯统计》](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
-* [Think Stats: Probability and Statistics for Programmers -- 《学习统计：概率论与统计程序员》](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
+* [Think Stats: Probability and Statistics for Programmers -- 《统计思维：程序员数学之概率统计》](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
 * [Mathematical Logic - an Introduction -- 《数理逻辑 - 介绍》](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Bayesian Methods for Hackers -- 《黑客的贝叶斯方法》](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Introduction to Statistical Thought -- 《统计思想概论》](http://www.math.umass.edu/~lavine/Book/book.html)

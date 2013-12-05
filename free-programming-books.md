@@ -394,7 +394,7 @@
 ####Professional Development
 * [Don't Just Roll the Dice](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
 * [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
-* [How to be a Programmer: A Short, Comprehensive, and Personal Summary] (http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) by Robert L. Read
+* [How to be a Programmer: A Short, Comprehensive, and Personal Summary](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) by Robert L. Read
 
 ####Security
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)

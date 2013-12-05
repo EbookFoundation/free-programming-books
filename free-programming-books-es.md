@@ -8,7 +8,6 @@
     * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
     * [Misceláneos](#miscelaneos)
 * [Android](#android)
-* [Assembly Language](#assembly-language)
 * [CSS](#CSS)
 * [C++](#c-1)
 * [Emacs](#emacs)
@@ -63,9 +62,6 @@
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
 
-###Assembly Language
-* [Machine Code for Beginners](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF) by Lisa Watts and Mike Wharton [Z80 and 6502 CPUs]
-
 ###CSS
 * [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
 * [Introducción a CSS](http://librosweb.es/css/)
@@ -77,6 +73,8 @@
 ###Ensamblador
 
 * [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)
+* [Codigo de Maquina para Principiantes](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF), Lisa Watts y Mike Wharton [Z80 and 6502 CPUs]
+
 
 ###Git
 

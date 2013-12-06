@@ -37,6 +37,7 @@
 * [COBOL](#cobol)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
+* [Cool](#cool)
 * [Coq](#coq)
 * [D](#d)
 * [Dart](#dart)
@@ -524,6 +525,10 @@
 ###ColdFusion
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown)
 * [Learn CF in a Week](http://learncfinaweek.com/)
+
+
+###Cool
+* [CoolAid: The Cool 2013 Reference Manual](http://www.cs.uwm.edu/~cs654/handouts/cool-manual.pdf) (PDF)
 
 
 ###Coq

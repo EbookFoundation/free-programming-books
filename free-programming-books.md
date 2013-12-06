@@ -1,6 +1,6 @@
 ###Index
 * [Meta-Lists](#meta-lists)
-* [Graphics user interfaces](#graphics-user-interfaces)
+* [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
 * [Language Agnostic](#language-agnostic)
     * [Algorithms & Datastructures](#algorithms--datastructures)
@@ -160,7 +160,7 @@
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 
-###Graphics User Interfaces
+###Graphical User Interfaces
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
 
 
@@ -476,6 +476,7 @@
 * [The new C standard - an annotated reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C)
+* [Deep C] (http://www.slideshare.net/olvemaudal/deep-c)
 
 
 ###C++

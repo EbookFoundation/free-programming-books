@@ -24,6 +24,7 @@
 * [Scilab](#scilab)
 * [SPIP](#spip)
 * [TeX](#tex)
+* [Vim](#vim)
 
 ###Méta-listes
 
@@ -185,3 +186,7 @@ Voir aussi [TeX](#tex)
 * [TeX pour l'Impatient](ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
 
 Voir aussi [LaTeX](#latex)
+
+###Vim
+* [A Byte of Vim](http://swaroopch.com/notes/Vim_fr/)
+* [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)

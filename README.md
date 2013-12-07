@@ -37,6 +37,8 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution).
 
 + Russian: [github](/free-programming-books-ru.md)
 
++ Turkish: [github](/free-programming-books-tr.md)
+
 + Chinese: [github](/free-programming-books-zh.md)
 
 + Polish: [github](/free-programming-books-pl.md)

@@ -47,6 +47,7 @@
 * [Processing](#processing)
 * [Prolog](#prolog)
 * [Python](#python)
+    * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
 * [Sather](#sather)
@@ -384,6 +385,13 @@
 * [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp/) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
 * [php プログラマのための Python チュートリアル](http://phpy.readthedocs.org/en/latest/) - INADA Naoki
 * [みんなのPython Webアプリ編](http://coreblog.org/ats/minpy-web-is-now-free-to-read/) - 柴田淳
+* [Pythonヒッチハイク・ガイド](http://python-guide-ja.readthedocs.org/) - Kenneth Reitz, Tsuyoshi Tokuda(翻訳)
+* [Python プログラマーのための gevent チュートリアル](http://methane.github.io/gevent-tutorial-ja/) - Stephen Diehl, Jérémy Bethmont, sww, Bruno Bigras, David Ripton, Travis Cline, Boris Feld, youngsterxyf, Eddie Hebert, Alexis Metaireau, Daniel Velkov, methane(翻訳)
+
+
+####Flask
+* [Flask ドキュメント](http://flask-docs-ja.readthedocs.org/) - Armin Ronacher, Tsuyoshi Tokuda(翻訳)
+* [Flask ハンズオン](http://methane.github.io/flask-handson/) - INADA Naoki
 
 
 ###R

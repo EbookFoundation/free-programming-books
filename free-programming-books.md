@@ -497,7 +497,7 @@
 * [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C++](http://www.brpreiss.com/books/opus4/index.html)
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
-* [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20(2007).pdf)
+* [C++ Cookbook][1] (PDF)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 
 ###Clojure
@@ -1280,3 +1280,5 @@ See also [LaTeX](#latex)
 
 ###Workflow
 * [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms)
+
+[1]: http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20(2007).pdf

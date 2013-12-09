@@ -614,7 +614,6 @@
 
 ###Git
 * [Pro Git](http://git-scm.com/book) - Scott Chacon
-* [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 * [Git Immersion](http://gitimmersion.com)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) (PDF)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
@@ -625,6 +624,7 @@
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
+* <del> [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF) </del> link is broken, if you find a working link submit a pull request
 
 
 ###Go

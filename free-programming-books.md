@@ -8,6 +8,7 @@
 * [Assembly Language](#assembly-language)
 * [Bash](#bash)
 * [C / C++](#c--c)
+* [C#](#c--c)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
@@ -257,6 +258,9 @@
 * [Thinking in C++, Second Edition](http://www.mindview.net/Books/TICPP/ThinkingInCPP2e.html)
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 
+###C#
+
+* [Intro to Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/)
 
 ###Clojure
 

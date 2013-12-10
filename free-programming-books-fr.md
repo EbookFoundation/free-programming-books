@@ -2,6 +2,7 @@
 * [Méta-listes](#méta-listes)
 * [Non dépendant du langage](#non-dépendant-du-langage)
 * [Assembleur](#assembleur)
+* [Bash / Shell](#bash--shell)
 * [Caml](#caml)
 * [C / C++](#c--c)
 * [Coq](#coq)
@@ -19,9 +20,11 @@
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
+* [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
 * [TeX](#tex)
+* [Vim](#vim)
 
 ###Méta-listes
 
@@ -68,6 +71,9 @@
 
 * [Initiation à la programmation en assembleur 64 bits](http://www.ilv-edition.com/librairie/initiation-programmation-assembleur-bits.html), par Pierre Jourlin
 * [Pas à pas vers l'assembleur](ftp://ftp-developpez.com/asm/cours/noteworthy/pas-a-pas-vers-l-assembleur-par-lord-noteworthy.pdf) par Lord Noteworthy
+
+###Bash / Shell
+* [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
 
 ###Caml
 
@@ -163,6 +169,10 @@ Voir aussi [TeX](#tex)
 
 * [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning), par Michael Hartl
 
+###Sage
+
+* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr/), par A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann 
+
 ###Scilab
 
 * [Introduction à Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/) par Michaël Baudin, Artem Glebov, Jérome Briot
@@ -176,3 +186,7 @@ Voir aussi [TeX](#tex)
 * [TeX pour l'Impatient](ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
 
 Voir aussi [LaTeX](#latex)
+
+###Vim
+* [A Byte of Vim](http://swaroopch.com/notes/Vim_fr/)
+* [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)

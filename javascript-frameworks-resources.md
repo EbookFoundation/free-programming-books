@@ -39,6 +39,7 @@
 
 ## Knockout.js
 * [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Knockout.js Starter](http://dl.e-book-free.com/2013/07/knockoutjs_starter.pdf)
 * tech.pro: Knockout.js tutorial video series
     * [Lesson 1 - Introduction](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
     * [Lesson 2 - Initialising the application](http://tech.pro/tutorial/1563/knockoutjs-lesson-2-initialising-the-application)

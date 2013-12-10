@@ -8,7 +8,6 @@
     * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
     * [Misceláneos](#miscelaneos)
 * [Android](#android)
-* [Assembly Language](#assembly-language)
 * [CSS](#CSS)
 * [C++](#c-1)
 * [Emacs](#emacs)
@@ -19,6 +18,7 @@
 * [Java](#java)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Ruby on Rails](#ruby-on-rails)
 * [R](#R)
 
 ###Metalistas
@@ -63,9 +63,6 @@
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
 
-###Assembly Language
-* [Machine Code for Beginners](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF) by Lisa Watts and Mike Wharton [Z80 and 6502 CPUs]
-
 ###CSS
 * [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
 * [Introducción a CSS](http://librosweb.es/css/)
@@ -77,6 +74,8 @@
 ###Ensamblador
 
 * [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)
+* [Codigo de Maquina para Principiantes](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF), Lisa Watts y Mike Wharton [Z80 and 6502 CPUs]
+
 
 ###Git
 
@@ -118,6 +117,10 @@
 
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
+
+###Ruby on Rails
+
+* [El maldito libro de los Descarrilados](https://yottabi.com/mld.pdf) (PDF)
 
 ###R
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)

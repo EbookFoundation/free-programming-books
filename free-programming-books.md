@@ -1,6 +1,6 @@
 ###Index
 * [Meta-Lists](#meta-lists)
-* [Graphics user interfaces](#graphics-user-interfaces)
+* [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
 * [Language Agnostic](#language-agnostic)
     * [Algorithms & Datastructures](#algorithms--datastructures)
@@ -26,6 +26,7 @@
 * [Agda](#agda)
 * [Android](#android)
 * [APL](#apl)
+* [Arduino](#arduino)
 * [Autotools](#autotools)
 * [ASP.NET MVC](#aspnet-mvc)
 * [Assembly Language](#assembly-language)
@@ -36,6 +37,7 @@
 * [COBOL](#cobol)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
+* [Cool](#cool)
 * [Coq](#coq)
 * [D](#d)
 * [Dart](#dart)
@@ -51,6 +53,7 @@
 * [Forth](#forth)
 * [Git](#git)
 * [Go](#go)
+* [Gradle](#gradle)
 * [Grails](#grails)
 * [Hadoop](#hadoop)
 * [Haskell](#haskell)
@@ -115,6 +118,7 @@
 * [Subversion](#subversion)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
+* [Tcl](#tcl)
 * [Teradata](#teradata)
 * [TeX](#tex)
 * [TypeScript](#typescript)
@@ -123,6 +127,7 @@
 * [Websphere](#websphere)
 * [Windows Phone](#windows-phone)
 * [Windows 8](#windows-8)
+* [Worflow](#workflow)
 
 
 ###Meta-Lists
@@ -156,7 +161,7 @@
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 
-###Graphics User Interfaces
+###Graphical User Interfaces
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
 
 
@@ -164,7 +169,7 @@
 
 ####Algorithms & Datastructures
 * [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
-* [Algorithms](http://highered.mcgraw-hill.com/sites/0073523402/) (draft)
+* [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms/) - Dasgupta, Papadimitriou, Vazirani (PDFs)
 * [Algorithms Course Materials](http://compgeom.cs.uiuc.edu/~jeffe/teaching/algorithms/) - Jeff Erickson
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
@@ -220,11 +225,11 @@
 
 ####Networking
 * [802.11ac: A Survival Guide](http://chimera.labs.oreilly.com/books/1234000001739) - Matthew Gast
-* [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main:files/cc1pe.pdf)(PDF) (book on ZeroMQ)
+* [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf)(PDF) (book on ZeroMQ)
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
-* [ZeroMQ Guide](http://zguide.zeromq.org/page:all)
+* [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
 * [Network Security Tools](http://commons.oreilly.com/wiki/index.php/Network_Security_Tools)
 * [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Computer Networking: Principles, Protocols and Practice, 2nd edition (CNP3bis)](http://cnp3bis.info.ucl.ac.be/) (PDF, EPUB + [sources](https://github.com/obonaventure/cnp3/tree/master/book-2nd)) - O. Bonaventure (in progress)
@@ -282,6 +287,7 @@
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Performance of Open Source Applications](http://aosabook.org/en/)
 * [The Future of Ideas](http://the-future-of-ideas.com/download/lessig_FOI.pdf)
+
 ####Information Retrieval
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 * [Information Retrieval: A Survey](http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf) (PDF)
@@ -299,7 +305,6 @@
 
 ####Machine Learning
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
-* [A Course in Machine Learning](http://hackershelf.com/book/492/a-course-in-machine-learning/)
 * [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) (PDF)
@@ -312,6 +317,7 @@
 * [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf) (PDF)
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/whole.pdf) (PDF) or [online version](http://www1.maths.leeds.ac.uk/~charles/statlog/) - This book is based on the EC (ESPRIT) project StatLog.
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+* [A Course in Machine Learning](http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf) (PDF)
 
 ####Mathematics
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
@@ -389,7 +395,7 @@
 ####Professional Development
 * [Don't Just Roll the Dice](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
 * [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
-* [How to be a Programmer: A Short, Comprehensive, and Personal Summary] (http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) by Robert L. Read
+* [How to be a Programmer: A Short, Comprehensive, and Personal Summary](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) by Robert L. Read
 
 ####Security
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
@@ -417,12 +423,18 @@
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
 * [Styling Android](http://www.stylingandroid.com/)
 * [TechnoTalkative Android](http://www.technotalkative.com/android/)
+* [Android Programming Guide for Beginners](http://eduonix.com/offers/Android_ebook_free_offer.html) (PDF - need email confirmation)
+* [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
+
 
 ###APL
 * [A Practical Introduction to APL1 & APL2](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
 * [A Practical Introduction to APL2 & APL3](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL3_.26_APL4)
 * [Mastering Dyalog APL](http://www.dyalog.com/intro/) (PDF)
 
+
+###Arduino
+* [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
 
 ###Autotools
 * [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
@@ -466,6 +478,7 @@
 * [The new C standard - an annotated reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C)
+* [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 
 
 ###C++
@@ -484,7 +497,7 @@
 * [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C++](http://www.brpreiss.com/books/opus4/index.html)
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
-* [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20(2007).pdf)
+* [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 
 ###Clojure
@@ -507,11 +520,16 @@
 ###CoffeeScript
 * [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
+* [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read)
 
 
 ###ColdFusion
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown)
 * [Learn CF in a Week](http://learncfinaweek.com/)
+
+
+###Cool
+* [CoolAid: The Cool 2013 Reference Manual](http://www.cs.uwm.edu/~cs654/handouts/cool-manual.pdf) (PDF)
 
 
 ###Coq
@@ -596,7 +614,6 @@
 
 ###Git
 * [Pro Git](http://git-scm.com/book) - Scott Chacon
-* [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 * [Git Immersion](http://gitimmersion.com)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) (PDF)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
@@ -607,6 +624,7 @@
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
+* <del> [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF) </del> link is broken, if you find a working link submit a pull request
 
 
 ###Go
@@ -616,6 +634,8 @@
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
 * [Network programming with Go](http://jan.newmarch.name/go/)
 
+###Gradle
+* [Building and Testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
 
 ###Grails
 * [Getting Started with Grails](http://www.infoq.com/minibooks/grails-getting-started)
@@ -737,6 +757,7 @@
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655) (PDF)
 * [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf)
 
 ####Angular.js
 
@@ -799,6 +820,8 @@ See also [TeX](#tex)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
 * [Learning Debian GNU/Linux](http://oreilly.com/openbook/debian/book/index.html)
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
+* [Red Hat Enterprise Linux 6 Essentials](http://www.techotopia.com/index.php/Red_Hat_Enterprise_Linux_6_Essentials)
+
 
 ###Lisp
 * [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
@@ -979,6 +1002,8 @@ See also [TeX](#tex)
 
 ###PowerShell
 * [Mastering PowerShell](http://powershell.com/cs/blogs/ebook/)
+* [Layman’s Guide to PowerShell 2.0 remoting](http://www.ravichaganti.com/blog/wp-content/plugins/download-monitor/download.php?id=22) (PDF)
+* [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 
 
 ###Processing
@@ -1012,7 +1037,7 @@ See also [TeX](#tex)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart
 * [Hitchiker's Guide to Python!](http://docs.python-guide.org/en/latest/)
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers
-	* [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
+    * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Introduction to Programming Using Python](http://python-ebook.blogspot.com) - Cody Jackson
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
@@ -1054,6 +1079,7 @@ See also [TeX](#tex)
 * [Deploy Django](http://www.deploydjango.com)
 
 ####Flask
+* [Explore Flask](http://exploreflask.com/) (PDF)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 
 
@@ -1079,7 +1105,6 @@ See also [TeX](#tex)
 ###Ruby
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 * [Learn Ruby the hard way](http://ruby.learncodethehardway.org/book/)
-* [MacRuby: The Definitive Guide](http://macruby.labs.oreilly.com/)
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
@@ -1115,6 +1140,7 @@ See also [TeX](#tex)
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
 * [Rails Girls Guides](http://guides.railsgirls.com)
 * [Geekcamp Ruby on Rails Guides](http://www.rubyonrails.geekcampbaguio.com)
+* [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read)
 
 ###Rust
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
@@ -1207,6 +1233,10 @@ See also [TeX](#tex)
 * [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler.htm) *(RedGate, By Brad McGehee)*
 
 
+###Tcl
+* [Tcl Programming](http://en.wikibooks.org/wiki/Programming:Tcl), by Richard.Suchenwirth, et. al.
+* [TclWise](http://www.invece.org/tclwise/index.html), by Salvatore Sanfilippo
+
 ###Teradata
 * [Teradata Books](http://www.info.teradata.com/)
 
@@ -1247,3 +1277,6 @@ See also [LaTeX](#latex)
 
 ###Windows 8
 * [Programming Windows 8 Apps with HTML, CSS, and JavaScript](http://blogs.msdn.com/b/microsoft_press/archive/2012/06/04/free-ebook-programming-windows-8-apps-with-html-css-and-javascript-first-preview.aspx)
+
+###Workflow
+* [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms)

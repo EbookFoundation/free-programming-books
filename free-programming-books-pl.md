@@ -14,6 +14,7 @@
 * [Git](http://pl.wikibooks.org/wiki/Git)
 * [SVN](http://pl.wikibooks.org/wiki/Subversion)
 * [System kontroli wersji Subversion](http://svnbook.opensys.pl)
+* [Pisanie OS](http://pl.wikibooks.org/wiki/Pisanie_OS)
 
 ###C
 

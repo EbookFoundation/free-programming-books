@@ -387,6 +387,7 @@
 * [みんなのPython Webアプリ編](http://coreblog.org/ats/minpy-web-is-now-free-to-read/) - 柴田淳
 * [Pythonヒッチハイク・ガイド](http://python-guide-ja.readthedocs.org/) - Kenneth Reitz, Tsuyoshi Tokuda(翻訳)
 * [Python プログラマーのための gevent チュートリアル](http://methane.github.io/gevent-tutorial-ja/) - Stephen Diehl, Jérémy Bethmont, sww, Bruno Bigras, David Ripton, Travis Cline, Boris Feld, youngsterxyf, Eddie Hebert, Alexis Metaireau, Daniel Velkov, methane(翻訳)
+* [お気楽 Python プログラミング入門](http://www.geocities.jp/m_hiroi/light/index.html) - 広井誠
 
 
 ####Flask

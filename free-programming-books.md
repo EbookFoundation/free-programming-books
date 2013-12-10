@@ -821,7 +821,7 @@ See also [TeX](#tex)
 * [Learning Debian GNU/Linux](http://oreilly.com/openbook/debian/book/index.html)
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [Red Hat Enterprise Linux 6 Essentials](http://www.techotopia.com/index.php/Red_Hat_Enterprise_Linux_6_Essentials)
-
+* [Ubuntu Server Guide](https://help.ubuntu.com/13.10/serverguide/serverguide.pdf)
 
 ###Lisp
 * [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)

@@ -1,4 +1,5 @@
-###Index
+##Index
+* [misc](#misc)
 * [Meta-Lists](#meta-lists)
 * [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
@@ -129,6 +130,10 @@
 * [Windows 8](#windows-8)
 * [Worflow](#workflow)
 
+##Content
+
+###misc
+* [DevDocs](http://devdocs.io/)
 
 ###Meta-Lists
 * [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/)

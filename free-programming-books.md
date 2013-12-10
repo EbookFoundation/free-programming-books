@@ -1077,6 +1077,7 @@ See also [TeX](#tex)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
 * [Tango With Django](http://www.tangowithdjango.com/book/)
 * [Deploy Django](http://www.deploydjango.com)
+* [The Django book](http://www.djangobook.com/en/2.0/)
 
 ####Flask
 * [Explore Flask](http://exploreflask.com/) (PDF)

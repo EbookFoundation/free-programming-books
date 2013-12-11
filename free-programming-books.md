@@ -33,6 +33,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C++](#c-1)
+* [C#](#c--c)
 * [Clojure](#clojure)
 * [COBOL](#cobol)
 * [CoffeeScript](#coffeescript)
@@ -499,6 +500,11 @@
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
+=======
+
+###C#
+
+* [Intro to Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/)
 
 ###Clojure
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)

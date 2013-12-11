@@ -1,4 +1,6 @@
 ##Índice
+* [Engenharia de software](#engenharia-de-software)
+    * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
@@ -9,6 +11,10 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 
+###Engenharia de Software
+
+####Metodologias de Desenvolvimento de Software
+* [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
 
 ###Git
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)

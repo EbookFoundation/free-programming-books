@@ -16,6 +16,7 @@
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
 * [Java](#java)
+* [LaTeX)(#latex)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)
@@ -99,6 +100,10 @@
 ###JavaScript
 
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
+
+###LaTeX
+
+* [La introducción no-tan-corta a LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/spanish)
 
 ###Python
 

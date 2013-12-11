@@ -4,6 +4,7 @@
 * [C++](#c-1)
 * [Common Lisp](#common-lisp)
 * [Haskell](#haskell)
+* [LaTeX](#latex)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -32,6 +33,10 @@
 ###Haskell
 
 * [Haskell](http://pl.wikibooks.org/wiki/Haskell)
+
+###LaTeX
+
+* [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
 
 ###PHP
 

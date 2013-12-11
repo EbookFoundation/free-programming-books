@@ -4,6 +4,7 @@
 * [Livros e Textos Académicos](#livros)
   * [C/C++](#cc) 
   * [Haskell](#haskell)
+  * [LaTeX](#latex)
   * [Prolog](#prolog)
   * [LaTeX](#latex)
 
@@ -60,6 +61,10 @@
 
 ### Haskell
 * [Programação Funcional CC](http://www3.di.uminho.pt/~mjf/pub/PF-Haskell.pdf) (PDF) - Maria João Frade
+
+### LaTeX
+
+* [Uma não tão pequena introdução ao LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/portuguese)
 
 ### Prolog
 * [Lógica Computacional (com Prolog)](http://www3.di.uminho.pt/~mjf/pub/LC-Prolog.pdf) (PDF) - Maria João Frade

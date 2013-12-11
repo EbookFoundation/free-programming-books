@@ -63,7 +63,7 @@
 ###LaTeX
 
 * [L'arte di scrivere con LaTeX - L. Pantieri e T. Gordini](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf)
-
+* [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
 
 ###Linux
 

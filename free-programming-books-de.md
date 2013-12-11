@@ -10,6 +10,7 @@
 * [HTML & CSS](#html--css)
 * [Java](#java)
 * [Javascript](#javascript)
+* [LaTeX](#latex)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby on Rails](#ruby-on-rails)
@@ -77,6 +78,10 @@
 
 * [JavaScript und AJAX](http://openbook.galileocomputing.de/javascript_ajax/)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
+
+###LaTeX
+
+* [De niet zo korte inleiding tot LaTeX2ε](http://www.ctan.org/tex-archive/info/lshort/dutch)
 
 ###PHP
 

@@ -57,7 +57,7 @@
 ####Makefile
 
 * [Concevoir un Makefile](http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf), par Vincent Loechner d'après Nicolas Zin
-* [Introduction aux MakeFile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf‎)
+* [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf)
 
 ####Systèmes Informatiques
 

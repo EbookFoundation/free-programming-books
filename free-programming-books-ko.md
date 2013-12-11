@@ -3,7 +3,7 @@
 * [HTML5](#html5)
 * [JavaScript](#javascript)
     * [Node.js](#nodejs)
-
+* [LaTeX](#latex)
 
 ###GIT
 * [Pro Git 한글 번역](http://git-scm.com/book/ko/)
@@ -14,6 +14,10 @@
 
 ###JavaScript
 * [Backbone.js API 한글 번역 v0.9.2](http://iwidgets.kr/document/backbonejs.html)
+
+###LaTeX
+
+[The Not So short Introduction to LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/korean)
 
 ####Node.js
 * [Node.js API 한글 번역 by outsideris](http://nodejs.sideeffect.kr/docs/)

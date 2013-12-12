@@ -8,6 +8,7 @@
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MetaPost](#metapost)
+* [Node.js](#node.js)
 * [NoSQL](#nosql)
 * [Perl](#perl)
 * [R](#r)
@@ -17,9 +18,6 @@
 * [Scilab](#scilab)
 * [SQL](#sql)
 * [Параллельные технологии](#parallel)
-
-###Meta-lists
-* [Книги со свободной ценой](http://www.books.ru/knigi-so-svobodnoi-tsenoi-3129328/)
 
 ###Language Agnostic
 
@@ -58,6 +56,11 @@
 ###MetaPost
 
 * [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
+
+
+###Node.js
+
+* [Node.js для начинающих](http://nodebeginner.ru)
 
 
 ###NoSQL

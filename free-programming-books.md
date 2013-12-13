@@ -161,6 +161,7 @@
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
+* [Blender 3D: Noob to Pro] (http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)
 
 ###Graphical User Interfaces
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)

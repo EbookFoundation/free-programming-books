@@ -274,6 +274,7 @@
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches)
+* [Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook)
 * [Web API Design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)
 * [OAuth - The Big Picture](http://pages.apigee.com/oauth-big-picture-ebook.html)
 

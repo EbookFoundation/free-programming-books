@@ -16,7 +16,7 @@
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
 * [Java](#java)
-* [LaTeX)(#latex)
+* [LaTeX](#latex)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)

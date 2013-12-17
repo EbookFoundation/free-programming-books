@@ -31,6 +31,7 @@
 * [ASP.NET MVC](#aspnet-mvc)
 * [Assembly Language](#assembly-language)
 * [Bash](#bash)
+* [Basic](#basic)
 * [C](#c)
 * [C++](#c-1)
 * [C#](#c--c)
@@ -51,6 +52,7 @@
 * [Flex](#flex)
 * [F#](#f-sharp)
 * [Force.com](#forcecom)
+* [Fortran](#fortran)
 * [Forth](#forth)
 * [Git](#git)
 * [Go](#go)
@@ -129,6 +131,7 @@
 * [Windows Phone](#windows-phone)
 * [Windows 8](#windows-8)
 * [Worflow](#workflow)
+* [xBase (dBase / Clipper / Harbour)](#xbase-dbase--clipper--harbour)
 
 
 ###Meta-Lists
@@ -472,6 +475,13 @@
 * [Learning the bash Shell](http://www.redbrick.dcu.ie/~teapott/MECS/Notes/learning_bash.pdf)
 
 
+###Basic
+* [BASIC programming language - Wikibooks](http://en.wikibooks.org/wiki/Category:BASIC_programming_language)
+* [A beginner's guide to Gambas](http://beginnersguidetogambas.com/)
+* [How To Gambas3 Guides](http://howtogambas.org/index.php?page=cedi)
+* [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
+
+
 ###C
 * [A Tutorial on Pointers and Arrays in C](http://home.netcom.com/~tjensen/ptr/pointers.htm)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
@@ -611,6 +621,11 @@
 * [Site.com Workbook](http://www.salesforce.com/us/developer/docs/workbook_siteforce/index.htm) (HTML)
 * [Heroku Postgres](http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) (PDF)
 * [Apex Design Patterns and Best Practices](http://www.gobookee.org/get_book.php?u=aHR0cDovL3d3dy5zdW5kb2dpbnRlcmFjdGl2ZS5jb20vd2hpdGVwYXBlcnMvU1VOX0NodWNrX0FwZXhkZXNpZ25wYXR0ZXJucy5wZGYKQXBleCBEZXNpZ24gUGF0dGVybnMgYW5kIEJlc3QgUHJhY3RpY2VzIC0gU3VuZG9n)
+
+###Fortran
+* [Fortran programming language - Wikibooks](http://en.wikibooks.org/wiki/Category:Fortran_programming_language)
+* [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf)
+
 
 ###Forth
 * [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
@@ -1295,3 +1310,9 @@ See also [LaTeX](#latex)
 
 ###Workflow
 * [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms)
+
+
+###xBase (dBase / Clipper / Harbour)
+* [Application Development with Harbour](http://en.wikibooks.org/wiki/Application_Development_with_Harbour)
+* [CA-Clipper 5.2 Norton Guide](http://www.ousob.com/ng/clguide/)
+* [Clipper Tutorial: a Guide to Open Source Clipper(s)](http://en.wikibooks.org/wiki/Clipper_Tutorial:_a_Guide_to_Open_Source_Clipper(s))

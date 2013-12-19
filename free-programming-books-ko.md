@@ -17,7 +17,7 @@
 
 ###LaTeX
 
-[The Not So short Introduction to LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/korean)
+* [The Not So short Introduction to LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/korean)
 
 ####Node.js
 * [Node.js API 한글 번역 by outsideris](http://nodejs.sideeffect.kr/docs/)

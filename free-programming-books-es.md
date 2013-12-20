@@ -125,7 +125,7 @@
 
 ###Ruby on Rails
 
-* [El maldito libro de los Descarrilados](https://yottabi.com/mld.pdf) (PDF)
+* [El maldito libro de los Descarrilados](http://yottabi.com/mld.pdf) (PDF)
 
 ###R
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)

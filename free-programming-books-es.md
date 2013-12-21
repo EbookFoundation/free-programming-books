@@ -100,6 +100,7 @@
 ###JavaScript
 
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
+* [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
 
 ###LaTeX
 

@@ -6,6 +6,7 @@
 * [C++](#c-1)
 * [C#](#c-sharp)
 * [iOS](#ios)
+* [Git](#git)
 * [Groovy](#groovy)
 * [HTML & CSS](#html--css)
 * [Java](#java)
@@ -56,6 +57,10 @@
 * [Apps programmieren für iPhone und iPad](http://openbook.galileocomputing.de/apps_programmieren_fuer_iphone_und_ipad/)
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
 * [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf)
+
+#Git
+
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
 
 ###Groovy
 

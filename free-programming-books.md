@@ -287,12 +287,15 @@
 * [Free as in Freedom](http://static.fsf.org/nosvn/faif-2.0.pdf) (PDF)
 * [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
 * [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html)
+* [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org/)
 * [Producing Open Source Software](http://producingoss.com/)
+* The Art of Community: Building the New Age of Participation; [First edition](http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf) (PDF), [Second edition](http://ubuntuone.com/0n352YwUjlcFR8PjIELH67) (PDF) - Jono Bacon
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
 * [The Future of the Internet](http://futureoftheinternet.org/)
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Performance of Open Source Applications](http://aosabook.org/en/)
 * [The Future of Ideas](http://the-future-of-ideas.com/download/lessig_FOI.pdf)
+* [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
 
 ####Information Retrieval
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)

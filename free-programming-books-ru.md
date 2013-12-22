@@ -40,6 +40,7 @@
 
 ###Git
 
+* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 * [Pro Git](http://git-scm.com/book/ru)
 
 

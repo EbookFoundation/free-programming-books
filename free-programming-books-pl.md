@@ -4,6 +4,7 @@
 * [C++](#c-1)
 * [Common Lisp](#common-lisp)
 * [Haskell](#haskell)
+* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [PHP](#php)
 * [Python](#python)
@@ -33,6 +34,10 @@
 ###Haskell
 
 * [Haskell](http://pl.wikibooks.org/wiki/Haskell)
+
+###JavaScript
+
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
 
 ###LaTeX
 

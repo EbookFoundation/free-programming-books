@@ -68,6 +68,7 @@
 * [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
 * [Introducción a CSS](http://librosweb.es/css/)
 * [CSS avanzado](http://librosweb.es/css_avanzado/)
+* [Estructura con CSS](http://es.learnlayout.com/)
 
 ###C++
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
@@ -100,6 +101,7 @@
 ###JavaScript
 
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
+* [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
 
 ###LaTeX
 

@@ -14,10 +14,13 @@ Moved to GitHub for collaborative updating and for the purpose of reSRC.io : [Li
 ### How To Contribute
 It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution).
 - [Fork](https://help.github.com/articles/fork-a-repo)
-- Edit
+- Edit (*After every change make a commit*)
 - [Send a PR](https://help.github.com/articles/using-pull-requests  )
-- be a Part of a job which over 13,000 people considered watching in less than 2 months. ;)
+- be a Part of a job which over 13,000 people considered Staring in less than 2 months. ;)
 
+IF YOU MAKE CHANGES IN DIFFERENT FILES AND MAKE ONLY 1 'COMMIT' IT WON'T HAVE AN APPROPRIATE 'COMMIT TITLE'. MAKE SURE YOU COMMIT EVERY MINOR CHANGE.
+
+thanks.
 
 ### How to Share
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://github.com/vhf/free-programming-books" data-size="large">Tweet</a>

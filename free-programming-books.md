@@ -254,6 +254,9 @@
 * [How to Write Parallel Programs](http://www.lindaspaces.com/book/)
 * [High Performance Computing](http://cnx.org/content/col11136/latest) (PDF, ePUB) - Charles Severance & Kevin Dowd
 * [High Performance Computing Training](https://computing.llnl.gov/?set=training&page=index) (LLNL materials)
+* [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
+* [The OpenCL Programming Book](http://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/)
+* [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 * [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
@@ -385,9 +388,7 @@
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
-* [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
-* [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
 * [Mother Tongues of Computer Languages](http://www.digibarn.com/collections/posters/tongues/) (PNG)
 * [Open Government;Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government)
 * [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf)

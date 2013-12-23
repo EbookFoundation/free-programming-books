@@ -86,7 +86,6 @@
 
 ###LaTeX
 
-* [De niet zo korte inleiding tot LaTeX2ε](http://www.ctan.org/tex-archive/info/lshort/dutch)
 
 ###PHP
 

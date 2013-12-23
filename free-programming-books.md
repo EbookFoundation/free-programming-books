@@ -522,6 +522,7 @@
 ###C#
 * [Intro to Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/)
 
+
 ###Clojure
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
@@ -652,7 +653,7 @@
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
-* <del> [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF) </del> link is broken, if you find a working link submit a pull request
+* [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 
 
 ###Go

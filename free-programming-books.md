@@ -517,11 +517,11 @@
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
-=======
+
 
 ###C#
-
 * [Intro to Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/)
+
 
 ###Clojure
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
@@ -653,7 +653,7 @@
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
-* <del> [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF) </del> link is broken, if you find a working link submit a pull request
+* [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 
 
 ###Go

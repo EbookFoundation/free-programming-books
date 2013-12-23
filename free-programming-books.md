@@ -72,7 +72,7 @@
     * [D3.js](#d3js)
     * [Dojo](#dojo)
     * [jQuery](#jquery)
-    * [Knockout.js](#knockout.js)
+    * [Knockout.js](#knockoutjs)
     * [Node.js](#nodejs)
 * [LaTeX](#latex)
 * [Linux](#linux)

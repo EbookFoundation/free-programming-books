@@ -84,6 +84,7 @@
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
 * [Pro Git](http://git-scm.com/book/es)
 * [Git Immersion en Español](http://gitimmersion.mx)
+* [Librosweb Git](http://librosweb.es/pro_git/)
 
 ###Haskell
 

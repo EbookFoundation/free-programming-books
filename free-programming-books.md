@@ -474,6 +474,8 @@
 
 ###Bash
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
+* [BASH Programming- Mike G mikkey ](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+* [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php)
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) by Machtelt Garrels
 * [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)

@@ -468,7 +468,7 @@
 * [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan
 * [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html)
 * [Assembly Language Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Assembly_Language_Succinctly.pdf)
-*[The Second Book Of Machine Language](http://www.atariarchives.org/2bml/)
+* [The Second Book Of Machine Language](http://www.atariarchives.org/2bml/)
 
 ####Non-X86
 * [Machine Code for Beginners](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF) by Lisa Watts and Mike Wharton [Z80 and 6502 CPUs]
@@ -693,7 +693,7 @@
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
 * [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) (PDF)
-* [Haskell :: Funvtional programming with types](http://upload.wikimedia.org/wikipedia/commons/2/26/Haskell.pdf)
+* [Haskell :: Functional programming with types](http://upload.wikimedia.org/wikipedia/commons/2/26/Haskell.pdf)
 
 ###HTML / CSS
 * [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/)) - Mark Pilgrim

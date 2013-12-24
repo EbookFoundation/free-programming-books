@@ -166,6 +166,7 @@
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 * [Blender 3D: Noob to Pro](http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)
+* [Grokking the GIMP](http://gimp-savvy.com/BOOK/index.html)
 
 ###Graphical User Interfaces
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
@@ -223,6 +224,7 @@
 * [The Little Book of Semaphores](http://greenteapress.com/semaphores/) - Allen B. Downey
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Practical File System Design:The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) (PDF) - Dominic Giampaolo
+
 
 ####Database
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
@@ -332,6 +334,7 @@
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/whole.pdf) (PDF) or [online version](http://www1.maths.leeds.ac.uk/~charles/statlog/) - This book is based on the EC (ESPRIT) project StatLog.
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [A Course in Machine Learning](http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf) (PDF)
+* [The Python Game Book](http://thepythongamebook.com/en:start)
 
 ####Mathematics
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
@@ -503,6 +506,7 @@
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
+* [Advanced Linux Programming] (http://www.advancedlinuxprogramming.com/)
 
 
 ###C++
@@ -523,6 +527,7 @@
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 
 
 ###Clojure
@@ -845,7 +850,8 @@ See also [TeX](#tex)
 * [The Debian Administrator's Handbook](http://debian-handbook.info/)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) (PDF)
 * [The Linux Development Platform (PDF)](http://www.informit.com/content/downloads/perens/0130091154.pdf) (PDF)
-* [Linux Device Drivers](http://lwn.net/Kernel/LDD3/) by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
+* [Linux Device Drivers, Third Edition](http://lwn.net/Kernel/LDD3/) by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
+* [Linux Device Drivers, 2nd Edition](http://www.xml.com/ldd/chapter/book/index.html)
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
 * [Programming and Using Linux Sound - in depth](http://jan.newmarch.name/LinuxSound/index.html)
@@ -858,6 +864,13 @@ See also [TeX](#tex)
 * [Red Hat Enterprise Linux 6 Essentials](http://www.techotopia.com/index.php/Red_Hat_Enterprise_Linux_6_Essentials)
 * [Ubuntu Server Guide](https://help.ubuntu.com/13.10/serverguide/serverguide.pdf)
 * [Ad Hoc Data Analysis From The Unix Command Line](http://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
+* [Linux Compute Clusters](http://linuxclusters.com/compute_clusters.html)
+* [Linux Security for Beginners](http://www.linuxtopia.org/LinuxSecurity/index.html)
+* [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
+* [The Linux System Administrator's Guide](http://www.tldp.org/LDP/sag/html/index.html)
+* [Linux Newbie Administrator Guide](http://lnag.sourceforge.net/)
+
+
 
 ###Lisp
 * [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
@@ -936,6 +949,7 @@ See also [TeX](#tex)
 * [Practical Performance Profiling: Improving the efficiency of .NET code ](http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/practical-performance-profiling) *(RedGate, By Jean-Philippe Gouigoux)*
 * [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) *(RedGate, By Paul Glavich and Chris Farrell)*
 * [HTTP Programming Recipes for C# Bots](http://www.heatonresearch.com/articles/series/20)
+* [Game Creation with XNA](http://en.wikibooks.org/wiki/Game_Creation_with_XNA)
 
 
 ###NoSQL
@@ -1035,6 +1049,7 @@ See also [TeX](#tex)
 * [PHP with Guru99](http://www.smashwords.com/books/view/324888)
 * [Practical Php Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp)
+* [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf)
 
 
 ###PowerShell

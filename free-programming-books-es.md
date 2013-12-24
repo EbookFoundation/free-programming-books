@@ -84,6 +84,7 @@
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
 * [Pro Git](http://git-scm.com/book/es)
 * [Git Immersion en Español](http://gitimmersion.mx)
+* [Librosweb Git](http://librosweb.es/pro_git/)
 
 ###Haskell
 
@@ -119,6 +120,7 @@
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 * [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
 * [Doma de Serpientes para Niños](http://code.google.com/p/swfk-es/)
+* [Python para principiantes](http://librosweb.es/libro/python/)
 
 ###Ruby
 

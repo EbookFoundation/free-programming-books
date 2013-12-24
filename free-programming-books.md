@@ -850,7 +850,8 @@ See also [TeX](#tex)
 * [The Debian Administrator's Handbook](http://debian-handbook.info/)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) (PDF)
 * [The Linux Development Platform (PDF)](http://www.informit.com/content/downloads/perens/0130091154.pdf) (PDF)
-* [Linux Device Drivers](http://lwn.net/Kernel/LDD3/) by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
+* [Linux Device Drivers, Third Edition](http://lwn.net/Kernel/LDD3/) by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
+* [Linux Device Drivers, 2nd Edition](http://www.xml.com/ldd/chapter/book/index.html)
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
 * [Programming and Using Linux Sound - in depth](http://jan.newmarch.name/LinuxSound/index.html)

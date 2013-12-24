@@ -224,10 +224,7 @@
 * [The Little Book of Semaphores](http://greenteapress.com/semaphores/) - Allen B. Downey
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Practical File System Design:The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) (PDF) - Dominic Giampaolo
-* [Linux Security for Beginners](http://www.linuxtopia.org/LinuxSecurity/index.html)
-* [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
-* [The Linux System Administrator's Guide](http://www.tldp.org/LDP/sag/html/index.html)
-* [Linux Newbie Administrator Guide](http://lnag.sourceforge.net/)
+
 
 ####Database
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
@@ -509,6 +506,7 @@
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
+* [Advanced Linux Programming] (http://www.advancedlinuxprogramming.com/)
 
 
 ###C++
@@ -865,6 +863,13 @@ See also [TeX](#tex)
 * [Red Hat Enterprise Linux 6 Essentials](http://www.techotopia.com/index.php/Red_Hat_Enterprise_Linux_6_Essentials)
 * [Ubuntu Server Guide](https://help.ubuntu.com/13.10/serverguide/serverguide.pdf)
 * [Ad Hoc Data Analysis From The Unix Command Line](http://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
+* [Linux Compute Clusters](http://linuxclusters.com/compute_clusters.html)
+* [Linux Security for Beginners](http://www.linuxtopia.org/LinuxSecurity/index.html)
+* [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
+* [The Linux System Administrator's Guide](http://www.tldp.org/LDP/sag/html/index.html)
+* [Linux Newbie Administrator Guide](http://lnag.sourceforge.net/)
+
+
 
 ###Lisp
 * [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)

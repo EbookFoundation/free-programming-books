@@ -17,6 +17,7 @@
     * [Datamining](#datamining)
     * [Machine Learning](#machine-learning)
     * [Mathematics](#mathematics)
+    * [Cellular Automata](#cellular-automata)
     * [Misc](#misc)
     * [Web Performance](#web-performance)
     * [MOOC](#mooc)
@@ -30,6 +31,7 @@
 * [Autotools](#autotools)
 * [ASP.NET MVC](#aspnet-mvc)
 * [Assembly Language](#assembly-language)
+    * [Non-X86](#non-x86)
 * [Bash](#bash)
 * [Basic](#basic)
 * [C](#c)
@@ -72,7 +74,7 @@
     * [D3.js](#d3js)
     * [Dojo](#dojo)
     * [jQuery](#jquery)
-    * [Knockout.js](#knockout.js)
+    * [Knockout.js](#knockoutjs)
     * [Node.js](#nodejs)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -107,7 +109,7 @@
 * [Ruby](#ruby)
     * [RSpec](#rspec)
     * [Sinatra](#sinatra)
-* [Ruby on Rails](#ruby-on-rails)
+    * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Sage](#sage)
 * [Scala](#scala)
@@ -1157,13 +1159,13 @@ See also [TeX](#tex)
 * [Mr. Neighborly's Humble Little Ruby Book](http://humblelittlerubybook.com/book/)
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
 
-###RSpec
+####RSpec
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)
 
-###Sinatra
+####Sinatra
 * [Sinatra Book](https://github.com/sinatra/sinatra-book)
 
-###Ruby on Rails
+####Ruby on Rails
 * [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [Objects on Rails](http://objectsonrails.com)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)

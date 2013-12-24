@@ -58,7 +58,7 @@
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
 * [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf)
 
-#Git
+###Git
 
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
 

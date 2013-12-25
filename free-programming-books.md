@@ -29,6 +29,7 @@
 * [APL](#apl)
 * [Arduino](#arduino)
 * [Autotools](#autotools)
+* [Awk](#awk)
 * [ASP.NET MVC](#aspnet-mvc)
 * [Assembly Language](#assembly-language)
     * [Non-X86](#non-x86)
@@ -472,6 +473,10 @@
 * [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html)
 * [Assembly Language Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Assembly_Language_Succinctly.pdf)
 * [The Second Book Of Machine Language](http://www.atariarchives.org/2bml/)
+
+
+###Awk
+* [Awk](http://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
 
 ####Non-X86
 * [Machine Code for Beginners](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF) by Lisa Watts and Mike Wharton [Z80 and 6502 CPUs]

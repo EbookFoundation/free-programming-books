@@ -85,6 +85,7 @@
 * [MATLAB](#matlab)
 * [Maven](#maven)
 * [Mercurial](#mercurial)
+* [MySQL](#mysql)
 * [.NET (C# / VB / Nemerle / Visual Studio)](#net-c--vb--nemerle--visual-studio)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)

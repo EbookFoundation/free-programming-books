@@ -65,7 +65,7 @@
 ###Groovy
 
 * [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf)
- 
+
 ### HTML & CSS
 
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
@@ -86,6 +86,7 @@
 
 ###LaTeX
 
+* [LaTeX Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
 
 ###PHP
 

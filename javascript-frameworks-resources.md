@@ -55,7 +55,7 @@
     * [Lesson 12 - The value binding](http://tech.pro/tutorial/1573/knockoutjs-lesson-12-the-value-binding)
     * [Lesson 13 - Additional Knockout features](http://tech.pro/tutorial/1574/knockoutjs-lesson-13-additional-knockout-features)
     * [Lesson 14 - Adding a lightbox](http://tech.pro/tutorial/1575/knockoutjs-lesson-14-adding-a-lightbox)
-    * Lesson 15: Summary of the series (Comming soon...)
+    * Lesson 15: Summary of the series (Coming soon...)
 
 
 ## Node.js

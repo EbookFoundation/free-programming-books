@@ -12,7 +12,22 @@ TODO
 + ☐ : Getting the word out there.
     + ☐ : Graphic Pack
     + ☐ : Share links of tw,fb,gp,li,...
-
++ ☐ : Alphabetizing the entries in the pages
+    + ☐ : bg
+    + ☐ : de
+    + ☐ : es
+    + ☐ : en
+    + ☐ : fa
+    + ☐ : fr
+    + ☐ : it
+    + ☐ : ja
+    + ☐ : ko
+    + ☐ : pt_BR
+    + ☐ : pt_PT
+    + ☐ : ru
+    + ☐ : tr
+    + ☐ : zh
+    + ☐ : javascript framework
 
 Map:
 ☑ : Done

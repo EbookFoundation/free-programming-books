@@ -1,7 +1,9 @@
 ###Index
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
+* [Assembly](#assembly)
 * [Bash](#bash)
+* [C](#c)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
 * [JavaScript](#javascript)
@@ -12,21 +14,32 @@
 * [NoSQL](#nosql)
 * [Perl](#perl)
 * [R](#r)
+* [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [SQL](#sql)
+* [Unix](#unix)
+* [Vim](#vim)
 * [Параллельные технологии](#parallel)
 
 ###Language Agnostic
 
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
 
+###Assembly
+
+* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
+* [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
+
 ###Bash
 
 * [Advanced Bash-Scripting Guide](http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html)
 
+###C
+
+* [Особенности языка C. Учебное пособие](http://younglinux.info/sites/default/files/programmingC.pdf)
 
 ###CoffeeScript
 
@@ -80,6 +93,9 @@
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
 * [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
 
+###Reverse engineering
+
+* [Введение в reverse engineering для начинающих](https://github.com/dennis714/RE-for-beginners)
 
 ###Ruby
 
@@ -102,6 +118,14 @@
 
 * [Работа с PostgreSQL: настройка и масштабирование](http://postgresql.leopard.in.ua/)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
+
+###Unix
+
+* [Архитектура операционной системы Unix](http://lib.ru/BACH/)
+
+###Vim
+
+* [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
 
 ###Parallel
 

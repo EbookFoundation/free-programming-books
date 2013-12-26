@@ -502,6 +502,7 @@
 
 
 ###Basic
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org/) - Nick Montfort, Patsy Baudoin, John Bell,Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
 * [BASIC programming language - Wikibooks](http://en.wikibooks.org/wiki/Category:BASIC_programming_language)
 * [A beginner's guide to Gambas](http://beginnersguidetogambas.com/)
 * [How To Gambas3 Guides](http://howtogambas.org/index.php?page=cedi)

@@ -518,6 +518,7 @@
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
+* [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
 * [The new C standard - an annotated reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C)

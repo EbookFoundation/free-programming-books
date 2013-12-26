@@ -1086,6 +1086,7 @@ See also [TeX](#tex)
 * [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/)
 * [Prolog Techniques](http://bookboon.com/int/student/it/prolog-techniques-applications-of-prolog)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
+* [The First 10 Prolog Programming Contests](http://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Visual Prolog 7.2 for Tyros](http://download.pdc.dk/vip/72/books/tyros/tyros72.pdf) (PDF)
 
 

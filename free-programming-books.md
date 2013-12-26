@@ -144,6 +144,7 @@
 * [Free Tech Books](http://www.freetechbooks.com/)
 * [Hacker Shelf](http://hackershelf.com/browse/)
 * [IBM Redbooks](http://www.redbooks.ibm.com/)
+* [InfoQ Minibooks](http://www.infoq.com/minibooks/)
 * [InTech: Computer and Information Science](http://www.intechopen.com/subjects/computer-and-information-science)
 * [Microsoft Press: Free E-Books](http://blogs.msdn.com/b/microsoft_press/archive/2011/03/03/ebooks-list-of-our-free-books.aspx)
 * [MindView Inc](http://www.mindviewinc.com/Books/)

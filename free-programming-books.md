@@ -311,6 +311,8 @@
 ####Information Retrieval
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 * [Information Retrieval: A Survey](http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf) (PDF)
+* [Practical Semantic Web and Linked Data Applications: Common Lisp Edition](http://www.markwatson.com/opencontent/book_lisp.pdf) - Mark Watson
+* [Practical Semantic Web and Linked Data Applications: Java, JRuby, Scala, and Clojure Edition](http://www.markwatson.com/opencontent/book_java.pdf) - Mark Watson
 
 ####Datamining
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/DokuWiki/doku.php) (Draft)

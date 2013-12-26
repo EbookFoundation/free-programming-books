@@ -35,6 +35,7 @@
 * [Awk](#awk)
 * [Bash](#bash)
 * [Basic](#basic)
+* [BETA](#beta]
 * [C](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
@@ -511,6 +512,10 @@
 * [A beginner's guide to Gambas](http://beginnersguidetogambas.com/)
 * [How To Gambas3 Guides](http://howtogambas.org/index.php?page=cedi)
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
+
+
+###BETA
+* [Object-Oriented Programming in the BETA Programming Language](http://www.daimi.au.dk/~beta/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
 
 
 ###C

@@ -769,6 +769,7 @@
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
+* [JAAS in Action](http://www.jaasbook.com/)
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf) (PDF)
 * [Practical Artificial Intelligence Programming With Java, Third Edition](http://www.markwatson.com/opencontent/JavaAI3rd.pdf) - Mark Watson
 * [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)

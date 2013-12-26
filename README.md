@@ -14,20 +14,18 @@ Moved to GitHub for collaborative updating and for the site mentioned above.
 ### How To Contribute
 It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution).
 - [Fork](https://help.github.com/articles/fork-a-repo)
-- Edit (we like multiple small commits rather than one large change)
+- Edit (we prefer multiple small commits rather than one large change)
 - [Send a PR](https://help.github.com/articles/using-pull-requests  )
-- be a part of a project that over 13,000 people starred in less than 2 months. ;)
+- be part of a project that over 14,000 people starred in less than 2 months. ;)
 
-**Again, unlike other projects, we like multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**
-
-thanks.
+**Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
 
 ### How to Share
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://github.com/vhf/free-programming-books" data-size="large">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 
-### In Other (non-computer) Languages
+### In Other Speaking Languages
 
 + French: [github](/free-programming-books-fr.md) or [site](http://resrc.io/list/33/livres-gratuits-sur-la-programmation/).
 

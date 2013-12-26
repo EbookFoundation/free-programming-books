@@ -109,6 +109,7 @@
     * [Flask](#flask)
 * [R](#r)
 * [Racket](#racket)
+* [REBOL](#rebol)
 * [Ruby](#ruby)
     * [RSpec](#rspec)
     * [Sinatra](#sinatra)
@@ -1186,6 +1187,10 @@ See also [TeX](#tex)
 ###Racket
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
 * [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
+
+
+###REBOL
+* [Learn REBOL](http://www.lulu.com/shop/nick-antonaccio/learn-rebol/ebook/product-17383182.html) - Nick Antonaccio
 
 
 ###Ruby

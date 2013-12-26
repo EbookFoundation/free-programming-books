@@ -466,6 +466,7 @@
 
 
 ###Arduino
+* [Arduino Programming Notebook](http://www.lulu.com/shop/brian-evans/arduino-programming-notebook/ebook/product-18598708.html) - Brian Evans
 * [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
 
 

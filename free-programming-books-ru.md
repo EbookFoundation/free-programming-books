@@ -18,6 +18,7 @@
 * [Ruby](#ruby)
   * [RSpec](#rspec)
 * [Ruby on Rails](#ruby-on-rails)
+* [Scala](#scala)
 * [Scilab](#scilab)
 * [SQL](#sql)
 * [Unix](#unix)
@@ -109,6 +110,10 @@
 
 * [Ruby on Rails Guides](http://rusrails.ru)
 * [Ruby on Rails Tutorial](http://railstutorial.ru/)
+
+###Scala
+
+* [Scala Школа!](http://twitter.github.io/scala_school/ru/) - Twitter
 
 ###Scilab
 

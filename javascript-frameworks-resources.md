@@ -1,4 +1,5 @@
 ## Angular.js
+* [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
 * [AngularJS Insights](http://pascalprecht.github.com/slides/angularjs-insights/#/)
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
@@ -38,6 +39,7 @@
 
 ## Knockout.js
 * [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Knockout.js Starter](http://dl.e-book-free.com/2013/07/knockoutjs_starter.pdf)
 * tech.pro: Knockout.js tutorial video series
     * [Lesson 1 - Introduction](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
     * [Lesson 2 - Initialising the application](http://tech.pro/tutorial/1563/knockoutjs-lesson-2-initialising-the-application)
@@ -53,7 +55,7 @@
     * [Lesson 12 - The value binding](http://tech.pro/tutorial/1573/knockoutjs-lesson-12-the-value-binding)
     * [Lesson 13 - Additional Knockout features](http://tech.pro/tutorial/1574/knockoutjs-lesson-13-additional-knockout-features)
     * [Lesson 14 - Adding a lightbox](http://tech.pro/tutorial/1575/knockoutjs-lesson-14-adding-a-lightbox)
-    * Lesson 15: Summary of the series (Comming soon...)
+    * Lesson 15: Summary of the series (Coming soon...)
 
 
 ## Node.js

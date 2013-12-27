@@ -1,9 +1,19 @@
 ###Index
 * [Méta-listes](#méta-listes)
 * [Non dépendant du langage](#non-dépendant-du-langage)
+    * [Algorithmique](#algorithmique)
+    * [Bases de données](#bases-de-données)
+    * [Logiciels libres](#logiciels-libres)
+    * [Makefile](#makefile)
+    * [Méthodes de développment](#méthodes-de-développement)
+    * [Systèmes informatiques](#systèmes-informatiques)
+    * [Théorie des langages](#théorie-des-langages)
 * [Assembleur](#assembleur)
+* [Bash / Shell](#bash--shell)
 * [Caml](#caml)
 * [C / C++](#c--c)
+* [Coq](#coq)
+* [CSS](#css)
 * [Git](#git)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -18,15 +28,18 @@
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
+* [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
 * [TeX](#tex)
+* [Vim](#vim)
 
 ###Méta-listes
 
 * [Le SILO: Sciences du numérique &amp; Informatique au Lycée: Oui!](https://wiki.inria.fr/sciencinfolycee/Accueil) 
 
 ###Non dépendant du langage
+
 ####Algorithmique
 
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours), par Michel Quercia
@@ -34,10 +47,6 @@
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) par D. Beauquier, J. Berstel, et Ph. Chrétienne
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
-
-####Théorie des langages
-
-* [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) par Université de Bretagne Occidentale
 
 ####Bases de données
 
@@ -48,19 +57,27 @@
 * [Histoires et cultures du libres](http://framabook.org/histoires-et-cultures-du-libre/)
 * [Option libre. Du bon usage des licences libres](http://framabook.org/option-libre-du-bon-usage-des-licences-libres/), par Jean Benjamin
 * [Produire du logiciel libre](http://framabook.org/8-produire-du-logiciel-libre/), par Karl Fogel
+* [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre/), par R.M. Stallman, S. Williams et C. Masutti
 
 ####Makefile
 
 * [Concevoir un Makefile](http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf), par Vincent Loechner d'après Nicolas Zin
+* [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf)
+
+####Méthodes de développement
+
+* [Scrum et XP depuis les tranchées](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf), par Henrik Kniberg
 
 ####Systèmes Informatiques
 
 * [Systèmes Informatiques (C, Unix/Linux,...)](http://sinf1252.info.ucl.ac.be/), par Olivier Bonaventure ([sources](https://github.com/obonaventure/SystemesInformatiques))
 
-###Assembleur
+####Théorie des langages
 
-* [Initiation à la programmation en assembleur 64 bits](http://www.ilv-edition.com/librairie/initiation-programmation-assembleur-bits.html), par Pierre Jourlin
-* [Pas à pas vers l'assembleur](ftp://ftp-developpez.com/asm/cours/noteworthy/pas-a-pas-vers-l-assembleur-par-lord-noteworthy.pdf) par Lord Noteworthy
+* [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) par Université de Bretagne Occidentale
+
+###Bash / Shell
+* [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
 
 ###Caml
 
@@ -74,6 +91,15 @@
 * [Initiation à la programmation (en C++)](https://www.coursera.org/course/intro-cpp-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
 * [Introduction à la rétro-ingénierie de binaires](http://progdupeu.pl/articles/45/introduction-a-la-retro-ingenierie-de-binaires), à partir de code C compilé pour x86.
 * [Programmation en C](https://www.rocq.inria.fr/secret/Matthieu.Finiasz/teaching/ENSTA/IN101%20-%20poly%20C.pdf) par Pierre-Alain Fouque et David Pointcheval
+
+###Coq
+
+* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt) par Yves Bertot et Pierre Castéran
+* [Preuves de programmes en coq](http://fuscia.inrialpes.fr/cours/coq/) par Yves Bertot
+
+###CSS
+
+* [Apprendre les mises en page CSS](http://fr.learnlayout.com/)
 
 ###Git
 
@@ -151,6 +177,10 @@ Voir aussi [TeX](#tex)
 
 * [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning), par Michael Hartl
 
+###Sage
+
+* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr/), par A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann 
+
 ###Scilab
 
 * [Introduction à Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/) par Michaël Baudin, Artem Glebov, Jérome Briot
@@ -164,3 +194,7 @@ Voir aussi [TeX](#tex)
 * [TeX pour l'Impatient](ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
 
 Voir aussi [LaTeX](#latex)
+
+###Vim
+* [A Byte of Vim](http://swaroopch.com/notes/Vim_fr/)
+* [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)

@@ -11,6 +11,7 @@
     * [Compiler Design](#compiler-design)
     * [Programming Paradigms](#programming-paradigms)
     * [Parallel Programming](#parallel-programming)
+    * [Regular Expressions](#regular-expressions)
     * [Software Architecture](#software-architecture)
     * [Open Source Ecosystem](#open-source-ecosystem)
     * [Information Retrieval](#information-retrieval)
@@ -280,6 +281,10 @@
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 * [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
+
+####Regular Expressions
+* [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/) - Zed. A. Shaw
+
 
 ####Software Architecture
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)

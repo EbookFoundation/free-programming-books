@@ -179,6 +179,7 @@
 
 ###Graphical User Interfaces
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
+* [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
 
 
 ###Language Agnostic

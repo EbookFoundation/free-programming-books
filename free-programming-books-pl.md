@@ -38,6 +38,7 @@
 ###JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
+* [JavaScript. I wszystko jasne](http://www.bt4.pl/kursy/javascript/wszystko-jasne/)
 
 ###LaTeX
 

@@ -153,6 +153,7 @@
 * [MindView Inc](http://www.mindviewinc.com/Books/)
 * [O'Reilly's Commons](http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons)
 * [O'Reilly's Open Books Project](http://oreilly.com/openbook/)
+* [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 * [TechBooksForFree.com](http://www.techbooksforfree.com/)
 * [Theassayer.org](http://theassayer.org/)
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
@@ -178,6 +179,7 @@
 
 ###Graphical User Interfaces
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
+* [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
 
 
 ###Language Agnostic
@@ -236,6 +238,7 @@
 
 
 ####Database
+* [Big Data Now: Current Perspectives from O'Reilly Radar](http://shop.oreilly.com/product/0636920022640.do)
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
 * [Foundations of Databases](http://webdam.inria.fr/Alice/)
 * [Temporal Database Management](http://people.cs.aau.dk/~csj/Thesis/) - Christian S. Jensen
@@ -388,6 +391,8 @@
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) -  Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
 * [I Am a Bug](http://www.amibug.com/iamabug/p01.html)
 * [Learn to Program](http://pine.fm/LearnToProgram/)
+* [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson
+* [The Z Notation: A Reference Manual, Second Edition](http://spivey.oriel.ox.ac.uk/~mike/zrm/zrm.pdf) - J. M. Spivey
 * [Foundations of Programming](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) (PDF) by Tony Hoare
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
@@ -783,6 +788,7 @@
 
 
 ###Java
+* [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/html/page9.html)
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
@@ -1257,6 +1263,7 @@ See also [TeX](#tex)
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)
 * [Programming Scala](http://programming-scala.labs.oreilly.com/index.html)
 * [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) (PDF)
+* [Scala for the Impatient](http://typesafe.com/resources/book/scala-for-the-impatient) - Cay S. Horstmann
 * [Scala School by Twitter](http://twitter.github.io/scala_school/)
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)

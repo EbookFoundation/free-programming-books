@@ -1257,6 +1257,7 @@ See also [TeX](#tex)
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)
 * [Programming Scala](http://programming-scala.labs.oreilly.com/index.html)
 * [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) (PDF)
+* [Scala for the Impatient](http://typesafe.com/resources/book/scala-for-the-impatient) - Cay S. Horstmann
 * [Scala School by Twitter](http://twitter.github.io/scala_school/)
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)

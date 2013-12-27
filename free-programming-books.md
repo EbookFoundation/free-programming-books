@@ -153,6 +153,7 @@
 * [MindView Inc](http://www.mindviewinc.com/Books/)
 * [O'Reilly's Commons](http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons)
 * [O'Reilly's Open Books Project](http://oreilly.com/openbook/)
+* [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 * [TechBooksForFree.com](http://www.techbooksforfree.com/)
 * [Theassayer.org](http://theassayer.org/)
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)

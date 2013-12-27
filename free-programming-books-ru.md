@@ -18,6 +18,7 @@
 * [Ruby](#ruby)
   * [RSpec](#rspec)
 * [Ruby on Rails](#ruby-on-rails)
+* [Scala](#scala)
 * [Scilab](#scilab)
 * [SQL](#sql)
 * [Unix](#unix)
@@ -27,6 +28,7 @@
 ###Language Agnostic
 
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
+* [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
 
 ###Assembly
 
@@ -108,6 +110,10 @@
 
 * [Ruby on Rails Guides](http://rusrails.ru)
 * [Ruby on Rails Tutorial](http://railstutorial.ru/)
+
+###Scala
+
+* [Scala Школа!](http://twitter.github.io/scala_school/ru/) - Twitter
 
 ###Scilab
 

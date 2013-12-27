@@ -56,6 +56,8 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution).
 
 + Bulgarian: [github](/free-programming-books-bg.md)
 
++ Ukrainian: [github](/free-programming-books-ua.md)
+
 ### Noticable lists from [reSRC](http://resrc.io/)
 
 + Free JavaScript frameworks resources and tutorials: [github](/javascript-frameworks-resources.md) or [site](http://resrc.io/list/18/javascript-frameworks/)

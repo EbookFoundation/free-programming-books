@@ -35,7 +35,7 @@
 * [Awk](#awk)
 * [Bash](#bash)
 * [Basic](#basic)
-* [BETA](#beta]
+* [BETA](#beta)
 * [C](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)

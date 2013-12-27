@@ -55,6 +55,7 @@
 * [Erlang](#erlang)
 * [F#](#f-sharp)
 * [Flex](#flex)
+* [Firefox OS](#firefox-os)
 * [Force.com](#forcecom)
 * [Forth](#forth)
 * [Fortran](#fortran)
@@ -658,6 +659,9 @@
 ###Flex
 * [Getting started with Adobe Flex](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_Adobe_Flex_p2.pdf) (PDF)
 * [Adobe Flex 2, Programming Actionscript 3.0](http://download.macromedia.com/pub/documentation/en/flex/2/prog_actionscript30.pdf) (PDF)
+
+###Firefox OS
+* [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment) - Andre Garzia
 
 
 ###Force.com

@@ -392,6 +392,7 @@
 * [I Am a Bug](http://www.amibug.com/iamabug/p01.html)
 * [Learn to Program](http://pine.fm/LearnToProgram/)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson
+* [The Z Notation: A Reference Manual, Second Edition](http://spivey.oriel.ox.ac.uk/~mike/zrm/zrm.pdf) - J. M. Spivey
 * [Foundations of Programming](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) (PDF) by Tony Hoare
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.scribd.com/doc/175241338/Come-Let-s-Play)

@@ -922,6 +922,7 @@ See also [TeX](#tex)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/) - David S. Touretzky
 * [Common Lisp Quick Reference](http://clqr.boundp.org/)
 * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/toc)
+* [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers) - Vsevolod Dyomkin
 * [Natural Language Processing in Lisp](http://www.informatics.susx.ac.uk/research/groups/nlp/gazdar/nlp-in-lisp/index.html)
 * [On Lisp](http://www.paulgraham.com/onlisp.html)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)

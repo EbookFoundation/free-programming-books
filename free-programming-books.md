@@ -11,6 +11,7 @@
     * [Compiler Design](#compiler-design)
     * [Programming Paradigms](#programming-paradigms)
     * [Parallel Programming](#parallel-programming)
+    * [Regular Expressions](#regular-expressions)
     * [Software Architecture](#software-architecture)
     * [Open Source Ecosystem](#open-source-ecosystem)
     * [Information Retrieval](#information-retrieval)
@@ -54,6 +55,7 @@
 * [Erlang](#erlang)
 * [F#](#f-sharp)
 * [Flex](#flex)
+* [Firefox OS](#firefox-os)
 * [Force.com](#forcecom)
 * [Forth](#forth)
 * [Fortran](#fortran)
@@ -141,6 +143,7 @@
 
 ###Meta-Lists
 * [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/)
+* [atariarchives.org](http://www.atariarchives.org/) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 * [Bitsavers.org](http://bitsavers.org/)
 * [Cheat Sheets (Free)](http://refcardz.dzone.com/)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
@@ -225,6 +228,7 @@
 * [Introduction to Theory of Computation](http://cg.scs.carleton.ca/~michiel/TheoryOfComputation/) (PDF) - Anil Maheshwari and Michiel Smid
 * [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
 * [Network Science](http://barabasilab.neu.edu/networksciencebook/index.html)
+* [Practical Foundations for Programming Languages, Preview](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) - Robert Harper
 * [Programming Languages: Application and Interpretation (2nd Edition)](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
@@ -280,6 +284,10 @@
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 * [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
+
+####Regular Expressions
+* [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/) - Zed. A. Shaw
+* [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen
 
 ####Software Architecture
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
@@ -386,7 +394,6 @@
 * [A Mathematical Theory of Communication](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html) by Claude E.Shannon
 * [Asterisk™: The Definitive Guide](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
 * ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](http://www.lulu.com/shop/luis-enríquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21371318.html) - Luis A. Enríquez
-* [Force.com Platform Fundamentals: An Introduction to Custom Application Development in the Cloud](http://www.lulu.com/shop/salesforcecom/forcecom-platform-fundamentals/ebook/product-17381451.html)
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) -  Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
 * [I Am a Bug](http://www.amibug.com/iamabug/p01.html)
@@ -654,9 +661,13 @@
 * [Getting started with Adobe Flex](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_Adobe_Flex_p2.pdf) (PDF)
 * [Adobe Flex 2, Programming Actionscript 3.0](http://download.macromedia.com/pub/documentation/en/flex/2/prog_actionscript30.pdf) (PDF)
 
+###Firefox OS
+* [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment) - Andre Garzia
+
 
 ###Force.com
 * [Force.com Fundamentals](http://wiki.developerforce.com/page/Force_Platform_Fundamentals) (HTML)
+* [Force.com Platform Fundamentals: An Introduction to Custom Application Development in the Cloud](http://www.lulu.com/shop/salesforcecom/forcecom-platform-fundamentals/ebook/product-17381451.html)
 * [Force.com Workbook](http://www.salesforce.com/us/developer/docs/workbook/index.htm) (HTML)
 * [Force.com Integration Workbook](http://www.salesforce.com/us/developer/docs/integration_workbook/index.htm) (HTML)
 * [Apex Workbook](http://www.salesforce.com/us/developer/docs/apex_workbook/index.htm) (HTML)
@@ -688,6 +699,7 @@
 
 ###Git
 * [Pro Git](http://git-scm.com/book) - Scott Chacon
+* [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
 * [Git Immersion](http://gitimmersion.com)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) (PDF)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
@@ -916,6 +928,7 @@ See also [TeX](#tex)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/) - David S. Touretzky
 * [Common Lisp Quick Reference](http://clqr.boundp.org/)
 * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/toc)
+* [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers) - Vsevolod Dyomkin
 * [Natural Language Processing in Lisp](http://www.informatics.susx.ac.uk/research/groups/nlp/gazdar/nlp-in-lisp/index.html)
 * [On Lisp](http://www.paulgraham.com/onlisp.html)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)

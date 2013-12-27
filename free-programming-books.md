@@ -694,6 +694,7 @@
 
 ###Git
 * [Pro Git](http://git-scm.com/book) - Scott Chacon
+* [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
 * [Git Immersion](http://gitimmersion.com)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) (PDF)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)

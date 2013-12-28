@@ -4,6 +4,7 @@
 * [C++](#c-1)
 * [Common Lisp](#common-lisp)
 * [Haskell](#haskell)
+* [Java] (#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [PHP](#php)
@@ -35,6 +36,10 @@
 ###Haskell
 
 * [Haskell](http://pl.wikibooks.org/wiki/Haskell)
+
+###Java
+
+* [Java start](http://javastart.pl/)
 
 ###JavaScript
 

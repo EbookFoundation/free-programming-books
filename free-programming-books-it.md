@@ -2,6 +2,7 @@
 * [Agnostico](#agnostico)
     * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
 * [Android](#android)
+* [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
 * [C#](#c-sharp)
@@ -27,6 +28,11 @@
 ###Android
 
 * [Guida programmazione Android 4.2](http://www.sprik.it/guida/Android4_2.pdf)
+
+
+###Assembly Language
+
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 
 
 ###BASH

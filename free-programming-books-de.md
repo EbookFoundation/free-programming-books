@@ -2,6 +2,7 @@
 * [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Action Script](#action-script)
 * [Android](#android)
+* [Assembly Language](#assembly-language)
 * [C](#c)
 * [C++](#c-1)
 * [C#](#c-sharp)
@@ -34,6 +35,11 @@
 ###Android
 
 * [Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf)
+
+###Assembly Language
+
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+
 
 ###C
 

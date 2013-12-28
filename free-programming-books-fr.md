@@ -76,6 +76,11 @@
 
 * [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) par Université de Bretagne Occidentale
 
+###Assembleur
+
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+
+
 ###Bash / Shell
 * [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
 

@@ -10,7 +10,7 @@
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MetaPost](#metapost)
-* [Node.js](#node.js)
+* [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Perl](#perl)
 * [R](#r)

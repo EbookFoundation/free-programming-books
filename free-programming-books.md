@@ -1299,6 +1299,8 @@ See also [TeX](#tex)
 
 ###Scheme
 * [Concrete Abstractions: An Introduction to Computer Science Using Scheme](https://gustavus.edu/+max/concrete-abstractions.html)
+* [How to Design Programs](http://htdp.org)
+* [Structure and Interpretion of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html)
 * The Scheme Programming Language [Edition 3](http://www.scheme.com/tspl3/), [Edition 4](http://www.scheme.com/tspl4/)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html)
 * [Teach Yourself Scheme in Fixnum Days](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html)

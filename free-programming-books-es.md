@@ -65,6 +65,11 @@
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
 
+###Assembly Language
+
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+
+
 ###CSS
 * [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
 * [Introducción a CSS](http://librosweb.es/css/)

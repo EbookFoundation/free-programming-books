@@ -4,6 +4,7 @@
 * [Graphics Programming](#graphics-programming)
 * [Language Agnostic](#language-agnostic)
     * [Algorithms & Datastructures](#algorithms--datastructures)
+    * [Licensing](#licensing)
     * [Theoretical Computer Science](#theoretical-computer-science)
     * [Operating systems](#operating-systems)
     * [Database](#database)
@@ -220,6 +221,10 @@
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://larc.unt.edu/ian/books/free/lnoa.pdf), University of North Texas (PDF)
 * [Problems on Algorithms (Second Edition)](http://larc.unt.edu/ian/books/free/poa.pdf), University of North Texas (PDF)
 * [Mastering Algorithms with C](http://www.das.ufsc.br/~romulo/discipli/cad-fei/Mastering-Algorithms-with-C-Loudon.pdf) (PDF)
+
+####Licensing
+
+* [Creative Commons: a user guide](http://www.aliprandi.org/cc-user-guide/) - Simone Aliprandi
 
 
 ####Theoretical Computer Science

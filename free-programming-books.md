@@ -181,6 +181,7 @@
 * [Grokking the GIMP](http://gimp-savvy.com/BOOK/index.html)
 
 ###Graphical User Interfaces
+* [Best of Smashing Magazine](http://anniversary.smashingmagazine.com/best-of-smashing-magazine.zip)
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
 * [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
 

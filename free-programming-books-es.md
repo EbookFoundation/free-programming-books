@@ -10,7 +10,7 @@
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [CSS](#CSS)
-* [C++](#c-1)
+* [C++](#c)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Git](#git)
@@ -18,6 +18,7 @@
 * [JavaScript](#javascript)
 * [Java](#java)
 * [LaTeX](#latex)
+* [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)
@@ -113,6 +114,9 @@
 ###LaTeX
 
 * [La introducción no-tan-corta a LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/spanish)
+
+###PHP
+* [Manual de PHP (forosdelweb.com)](http://www.forosdelweb.com/wiki/Manual_de_PHP)
 
 ###Python
 

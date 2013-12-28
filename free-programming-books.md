@@ -1189,6 +1189,7 @@ See also [TeX](#tex)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
+* [Introduction to python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar
 
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)

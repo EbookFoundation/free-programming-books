@@ -67,6 +67,7 @@
 ###Git
 
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
+* [Pro Git](http://git-scm.com/book/de)
 
 ###Groovy
 

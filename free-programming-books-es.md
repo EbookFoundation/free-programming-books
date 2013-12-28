@@ -9,7 +9,7 @@
     * [Misceláneos](#miscelaneos)
 * [Android](#android)
 * [CSS](#CSS)
-* [C++](#c-1)
+* [C++](#c)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Git](#git)
@@ -111,7 +111,6 @@
 
 ###PHP
 * [Manual de PHP (forosdelweb.com)](http://www.forosdelweb.com/wiki/Manual_de_PHP)
-
 
 ###Python
 

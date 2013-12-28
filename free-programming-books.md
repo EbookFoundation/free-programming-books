@@ -4,6 +4,7 @@
 * [Graphics Programming](#graphics-programming)
 * [Language Agnostic](#language-agnostic)
     * [Algorithms & Datastructures](#algorithms--datastructures)
+    * [Licensing](#licensing)
     * [Theoretical Computer Science](#theoretical-computer-science)
     * [Operating systems](#operating-systems)
     * [Database](#database)
@@ -127,6 +128,7 @@
 * [Smalltalk](#smalltalk)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
+* [Standard ML](#standard-ml)
 * [Subversion](#subversion)
 * [Tcl](#tcl)
 * [Teradata](#teradata)
@@ -181,8 +183,10 @@
 * [Grokking the GIMP](http://gimp-savvy.com/BOOK/index.html)
 
 ###Graphical User Interfaces
+* [Best of Smashing Magazine](http://anniversary.smashingmagazine.com/best-of-smashing-magazine.zip)
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
 * [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
+* [Working through Screens](http://www.flashbulbinteraction.com/WTS.html) - Jacob Burghardt
 
 
 ###Language Agnostic
@@ -220,6 +224,10 @@
 * [Problems on Algorithms (Second Edition)](http://larc.unt.edu/ian/books/free/poa.pdf), University of North Texas (PDF)
 * [Mastering Algorithms with C](http://www.das.ufsc.br/~romulo/discipli/cad-fei/Mastering-Algorithms-with-C-Loudon.pdf) (PDF)
 
+####Licensing
+
+* [Creative Commons: a user guide](http://www.aliprandi.org/cc-user-guide/) - Simone Aliprandi
+
 
 ####Theoretical Computer Science
 * [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
@@ -229,6 +237,7 @@
 * [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
 * [Network Science](http://barabasilab.neu.edu/networksciencebook/index.html)
 * [Practical Foundations for Programming Languages, Preview](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) - Robert Harper
+* [Principles of Programming Languages](http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith
 * [Programming Languages: Application and Interpretation (2nd Edition)](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
@@ -490,6 +499,7 @@
 
 ###Assembly Language
 * [Paul Carter's Tutorial on x86 Assembly](http://drpaulcarter.com/pcasm/)
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 * [Professional Assembly Language](http://blog.hit.edu.cn/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
 * [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
@@ -1066,6 +1076,7 @@ See also [TeX](#tex)
 * [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.pdf) (PDF)
 * [Extreme Perl](http://www.extremeperl.org/bk/home)
 * [Higher-Order Perl](http://hop.perl.plover.com/book/)
+* [Practical mod_perl](http://modperlbook.org/) - Stas Bekman, Eric Cholet
 * [The Mason Book](http://www.masonbook.com/book/)
 * [Mastering Perl](http://chimera.labs.oreilly.com/books/1234000001527) - Bryan D Foy
 * [Modern Perl 5](http://www.onyxneon.com/books/modern_perl/index.html)
@@ -1246,6 +1257,7 @@ See also [TeX](#tex)
 * [Sinatra Book](https://github.com/sinatra/sinatra-book)
 
 ####Ruby on Rails
+* [Big Fat Rails](http://www.bigfatrails.com/) - Mitch Guthrie
 * [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [Objects on Rails](http://objectsonrails.com)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
@@ -1345,6 +1357,10 @@ See also [TeX](#tex)
 * [How to Become an Exceptional DBA](http://www.red-gate.com/community/books/exceptional-dba-book) *(RedGate, By Brad McGehee)*
 * [SQL Server Stumpers Vol.5](http://www.red-gate.com/community/books/sql-server-stumpers-v5.htm) *(RedGate, By SQLServerCentral Authors)*
 * [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler.htm) *(RedGate, By Brad McGehee)*
+
+###Standard ML
+
+* [Programming in Standard ML, Draft](http://www.cs.cmu.edu/~rwh/smlbook/) - Robert Harper
 
 
 ###Subversion

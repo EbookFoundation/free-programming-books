@@ -11,6 +11,7 @@
 * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
 * [Udacity](https://www.udacity.com/)
 * [xuetangX](https://www.xuetangx.com/)
+* [Codecademy](http://www.codecademy.com/)
 
 ###软件开发方法
 * [硝烟中的Scrum和XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)

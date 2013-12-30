@@ -8,8 +8,9 @@
     * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
     * [Misceláneos](#miscelaneos)
 * [Android](#android)
+* [Assembly Language](#assembly-language)
 * [CSS](#CSS)
-* [C++](#c-1)
+* [C++](#c)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Git](#git)
@@ -17,6 +18,7 @@
 * [JavaScript](#javascript)
 * [Java](#java)
 * [LaTeX](#latex)
+* [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Ruby on Rails](#ruby-on-rails)
@@ -64,6 +66,11 @@
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
 
+###Assembly Language
+
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+
+
 ###CSS
 * [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
 * [Introducción a CSS](http://librosweb.es/css/)
@@ -107,6 +114,9 @@
 ###LaTeX
 
 * [La introducción no-tan-corta a LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/spanish)
+
+###PHP
+* [Manual de PHP (forosdelweb.com)](http://www.forosdelweb.com/wiki/Manual_de_PHP)
 
 ###Python
 

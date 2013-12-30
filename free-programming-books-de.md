@@ -2,6 +2,7 @@
 * [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Action Script](#action-script)
 * [Android](#android)
+* [Assembly Language](#assembly-language)
 * [C](#c)
 * [C++](#c-1)
 * [C#](#c-sharp)
@@ -35,6 +36,11 @@
 
 * [Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf)
 
+###Assembly Language
+
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+
+
 ###C
 
 * [C von A bis Z](http://openbook.galileocomputing.de/c_von_a_bis_z/)
@@ -61,6 +67,7 @@
 ###Git
 
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
+* [Pro Git](http://git-scm.com/book/de)
 
 ###Groovy
 

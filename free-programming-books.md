@@ -102,6 +102,7 @@
 * [Oracle PL/SQL](#oracle-plsql)
 * [Oracle Server](#oracle-server)
 * [Parrot / Perl 6](#parrot--perl-6)
+* [PC-BSD](#pc-bsd)
 * [Perl](#perl)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
@@ -1074,6 +1075,10 @@ See also [TeX](#tex)
 
 ###Parrot / Perl 6
 * [Using Perl 6](http://github.com/perl6/book/) (work in progress)
+
+
+###PC-BSD
+* [PC-BSD® Users Handbook](http://wiki.pcbsd.org/index.php/PC-BSD%C2%AE_Users_Handbook)
 
 
 ###Perl

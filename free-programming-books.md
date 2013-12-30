@@ -60,6 +60,7 @@
 * [Force.com](#forcecom)
 * [Forth](#forth)
 * [Fortran](#fortran)
+* [FreeBSD](#freebsdf)
 * [Git](#git)
 * [Go](#go)
 * [Gradle](#gradle)
@@ -705,6 +706,11 @@
 ###Fortran
 * [Fortran programming language - Wikibooks](http://en.wikibooks.org/wiki/Category:Fortran_programming_language)
 * [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf)
+
+
+###FreeBSD
+* [Books and Articles from FreeBSD Site](http://www.freebsd.org/docs/books.html)
+* [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
 
 
 ###Git

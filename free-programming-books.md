@@ -138,6 +138,7 @@
 * [TypeScript](#typescript)
 * [Unix](#unix)
 * [Vim](#vim)
+* [Web Services] (#webservices)
 * [Websphere](#websphere)
 * [Windows 8](#windows-8)
 * [Windows Phone](#windows-phone)
@@ -1419,9 +1420,8 @@ See also [LaTeX](#latex)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Vim Regular Expressions 101](http://vimregex.com/)
 
-
-###Websphere
-* [Getting started with WebSphere](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_WASCE_p2.pdf) (PDF)
+###WebServices
+* [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
 
 
 ###Windows 8

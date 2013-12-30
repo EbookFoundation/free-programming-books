@@ -138,8 +138,7 @@
 * [TypeScript](#typescript)
 * [Unix](#unix)
 * [Vim](#vim)
-* [Web Services] (#webservices)
-* [Websphere](#websphere)
+* [Web Services] (#web-services)
 * [Windows 8](#windows-8)
 * [Windows Phone](#windows-phone)
 * [Worflow](#workflow)
@@ -1420,7 +1419,7 @@ See also [LaTeX](#latex)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Vim Regular Expressions 101](http://vimregex.com/)
 
-###WebServices
+###Web Services
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
 
 

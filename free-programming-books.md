@@ -767,7 +767,6 @@
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
 * [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) (PDF)
-* [Haskell :: Functional programming with types](http://upload.wikimedia.org/wikipedia/commons/2/26/Haskell.pdf)
 
 
 ###HTML / CSS

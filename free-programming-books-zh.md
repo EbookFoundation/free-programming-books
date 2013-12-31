@@ -35,7 +35,7 @@
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 * [笨方法学 Ruby](http://lrthw.github.io/)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/)
-* 
+
 ###Javascript
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 

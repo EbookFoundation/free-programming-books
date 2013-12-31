@@ -13,6 +13,7 @@
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Perl](#perl)
+* [PostgreSQL](#postgresql)
 * [R](#r)
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
@@ -88,6 +89,11 @@
 ###Perl
 
 * [Pragmatic Perl (журнал)](http://pragmaticperl.com/)
+
+
+###PostgreSQL
+
+* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua/)
 
 
 ###R

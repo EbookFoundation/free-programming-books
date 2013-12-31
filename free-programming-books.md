@@ -508,14 +508,14 @@
 * [The Art of Assembly Language Programming](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
 * [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
-* [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan
-* [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html)
 * [Assembly Language Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Assembly_Language_Succinctly.pdf)
 * [The Second Book Of Machine Language](http://www.atariarchives.org/2bml/)
 
 ####Non-X86
+* [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan
 * [Machine Code for Beginners](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF) by Lisa Watts and Mike Wharton [Z80 and 6502 CPUs]
 * [Machine Language for Beginners](http://archive.org/details/ataribooks-machine-language-for-beginners) by Richard Mansfield [6502 CPU]
+* [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html)
 
 
 ###Autotools

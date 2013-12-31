@@ -91,7 +91,7 @@
 * [Maven](#maven)
 * [Mercurial](#mercurial)
 * [MySQL](#mysql)
-* [.NET (C# / VB / Nemerle / Visual Studio)](#net-%28c%23--vb--nemerle--visual-studio%29)
+* [.NET (C# / VB / Nemerle / Visual Studio)](#net-c--vb--nemerle--visual-studio)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)
 * [Objective-C](#objective-c)

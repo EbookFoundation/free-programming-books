@@ -33,6 +33,7 @@
 * [ASP.NET MVC](#aspnet-mvc)
 * [Assembly Language](#assembly-language)
     * [Non-X86](#non-x86)
+* [AutoHotkey](#autohotkey)
 * [Autotools](#autotools)
 * [Awk](#awk)
 * [Bash](#bash)
@@ -517,6 +518,8 @@
 * [Machine Language for Beginners](http://archive.org/details/ataribooks-machine-language-for-beginners) by Richard Mansfield [6502 CPU]
 * [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html)
 
+###AutoHotkey
+* [AHKbook - the book for AutoHotkey ](http://maul-esel.github.io/ahkbook/index.html)
 
 ###Autotools
 * [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)

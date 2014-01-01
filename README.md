@@ -16,7 +16,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution).
 - [Fork](https://help.github.com/articles/fork-a-repo)
 - Edit (we prefer multiple small commits rather than one large change)
 - [Send a PR](https://help.github.com/articles/using-pull-requests  )
-- be part of a project that over 14,000 people starred in less than 2 months. ;)
+- be part of a project that over 15,000 people starred in near to 3 months. ;)
 
 **Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
 

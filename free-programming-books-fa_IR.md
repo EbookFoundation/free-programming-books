@@ -7,6 +7,8 @@
 * [LaTeX](#latex)
 * [R](#r)
 
+- - -
+
 ###گنو/لینوکس
 ####آرچ لینوکس
 * [آرچ بوک](http://linuxreview.ir/archbook/ArchBook-2012-1.pdf) (pdf)

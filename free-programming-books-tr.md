@@ -1,11 +1,18 @@
 ###Index
 * [D](#d)
+* [Git](#git)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [Python](#python)
+* [Java](#java)
 
 ###D
 
 * [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
+
+###Git
+
+* [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
 
 ###JavaScript
 

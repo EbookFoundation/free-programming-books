@@ -586,7 +586,7 @@
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
-
+* [Google's C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
 
 ###Clojure
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
@@ -786,6 +786,7 @@
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 * [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
 * [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
+* [Google's HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
 
 ###Icon
@@ -874,6 +875,8 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
+* [Google's Java Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+
 
 ####Angular.js
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
@@ -958,7 +961,7 @@ See also [TeX](#tex)
 * [List Web Tails](https://leanpub.com/lispwebtales/purchases/new)
 * [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
-
+* [Google's Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
 
 ###Lua
 * [Programming In Lua](http://www.lua.org/pil/) (for version 5)
@@ -1043,7 +1046,7 @@ See also [TeX](#tex)
 * [Programming With Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf) (PDF)
 * [Object-Oriented Programming with Objective-C](http://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/OOP_ObjC.pdf) (PDF)
 * [Objective-C Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) *(Just fill the fields with any values)*
-
+* * [Google's Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
 
 ###OCaml
 * [Introduction to Objective Caml](http://courses.cms.caltech.edu/cs134/cs134b/book.pdf) (PDF)
@@ -1206,6 +1209,7 @@ See also [TeX](#tex)
 * [Introduction to python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) - HTML
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](https://dl.dropbox.com/u/18065445/web2py/web2py_manual_5th.pdf) - PDF
+* [Google's Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
@@ -1266,6 +1270,7 @@ See also [TeX](#tex)
 * [The Little Book Of Ruby](http://www.sapphiresteel.com/The-Little-Book-Of-Ruby)
 * [Mr. Neighborly's Humble Little Ruby Book](http://humblelittlerubybook.com/book/)
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
+* [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
 
 ####RSpec
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)

@@ -1,6 +1,7 @@
 ###Index
 * [Agnostico](#agnostico)
     * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
+    * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
@@ -24,6 +25,11 @@
 ####Metodologie di sviluppo del software
 
 * [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
+
+####Algoritmi e Strutture Dati
+
+* [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf)
+* [Algoritmi e Strutture Dati](http://homes.di.unimi.it/~bertoni/Algoritmi%20e%20Strutture%20Dati.pdf)
 
 ###Android
 

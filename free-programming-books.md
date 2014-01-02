@@ -873,6 +873,7 @@
 * [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf)
+* [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
 
 ####Angular.js
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)

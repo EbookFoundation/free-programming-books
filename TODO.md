@@ -1,6 +1,7 @@
 TODO
 ===
 
++ ☐ : Add new books
 + ☑ : Wiki
     + ☑ : How to Contribute
     + ☑ : Link to License

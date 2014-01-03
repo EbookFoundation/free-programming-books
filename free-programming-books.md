@@ -13,6 +13,7 @@
     * [Programming Paradigms](#programming-paradigms)
     * [Parallel Programming](#parallel-programming)
     * [Regular Expressions](#regular-expressions)
+    * [Standards](#standards)
     * [Software Architecture](#software-architecture)
     * [Open Source Ecosystem](#open-source-ecosystem)
     * [Information Retrieval](#information-retrieval)
@@ -454,6 +455,9 @@
 * [Don't Just Roll the Dice](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
 * [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
 * [How to be a Programmer: A Short, Comprehensive, and Personal Summary](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) by Robert L. Read
+
+####Standards
+* [UNIX - The POSIX Standard - IEEE Std 1003.1](https://github.com/g-nix/posix-standard)
 
 ####Security
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)

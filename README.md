@@ -21,8 +21,10 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution).
 **Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
 
 ### How to Share
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://github.com/vhf/free-programming-books" data-size="large">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
++ [Share on Twitter](http://twitter.com/home?status=https://github.com/vhf/free-programming-books%0AFree%20Programming%20Books)
++ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/vhf/free-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
++ [Share on Google Plus](https://plus.google.com/share?url=https://github.com/vhf/free-programming-books)
++ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/vhf/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 
 
 ### In Other Speaking Languages

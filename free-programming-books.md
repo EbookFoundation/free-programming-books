@@ -1275,6 +1275,7 @@ See also [TeX](#tex)
 * [Mr. Neighborly's Humble Little Ruby Book](http://humblelittlerubybook.com/book/)
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
+* [Just Enough Ruby to Get By](http://dmtri.com/posts/65)
 
 ####RSpec
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)

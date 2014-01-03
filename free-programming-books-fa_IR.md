@@ -15,11 +15,11 @@
 
 * [یادگیری پیکربندی با CSS](http://fa.learnlayout.com/)
 
+###LaTeX
+
+* [مقدمه‌ای نه چندان کوتاه بر LaTeXε](http://www.ctan.org/tex-archive/info/lshort/persian)
+
 ###R
 * [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf)
 * [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf)
 * [موضعات ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf)
-
-###LaTeX
-
-* [مقدمه‌ای نه چندان کوتاه بر LaTeXε](http://www.ctan.org/tex-archive/info/lshort/persian)

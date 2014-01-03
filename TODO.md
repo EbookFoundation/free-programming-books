@@ -11,7 +11,7 @@ TODO
     + ☑ : Link to License
 + ☐ : Getting the word out there.
     + ☐ : Graphic Pack
-    + ☐ : Share links of tw,fb,gp,li,...
+    + ☑ : Share links of tw,fb,gp,li,...
 + ☐ : Alphabetizing the entries in the pages
     + ☐ : bg
     + ☐ : de

@@ -17,7 +17,7 @@ TODO
     + ☐ : de
     + ☐ : es
     + ☐ : en
-    + ☐ : fa
+    + ☑ : fa_IR
     + ☐ : fr
     + ☐ : it
     + ☐ : ja

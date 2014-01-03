@@ -195,6 +195,9 @@
 ###Language Agnostic
 
 ####Algorithms & Datastructures
+* [Data Structures And Algorithms In Java 2nd Edition By Robert Lafore](https://www.dropbox.com/s/qtt3ksxazvqdi93/IT205%20Data%20Structures%20And%20Algorithms%20In%20Java%202nd%20Edition%20By%20Robert%20Lafore.pdf) (PDF)
+* [Introduction To Algorithms 2nd Edition By Cormen, Leiserson And Rivest-Solutions](https://www.dropbox.com/s/c2gnbt18glunw1h/IT205%20Introduction%20To%20Algorithms%202nd%20Edition%20By%20Cormen%2C%20Leiserson%20And%20Rivest-Solutions.pdf)(PDF)
+* [Introduction To Algorithms 2nd Edition By Cormen, Leiserson And Rivest](https://www.dropbox.com/s/sgnwx89ae2lbw7v/IT205%20Introduction%20To%20Algorithms%202nd%20Edition%20By%20Cormen%2C%20Leiserson%20And%20Rivest.pdf)(PDF)
 * [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
 * [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms/) - Dasgupta, Papadimitriou, Vazirani (PDFs)
 * [Algorithms Course Materials](http://compgeom.cs.uiuc.edu/~jeffe/teaching/algorithms/) - Jeff Erickson

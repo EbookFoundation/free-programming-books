@@ -20,6 +20,7 @@
 
 ###软件开发方法
 * [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
+* [文章《Functional Programming For The Rest of Us》的中文翻译](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
 
 ###HTML / CSS
 * [学习CSS布局](http://zh.learnlayout.com/)
@@ -53,3 +54,6 @@
 
 ### Shell
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+
+### 数据库
+* [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)

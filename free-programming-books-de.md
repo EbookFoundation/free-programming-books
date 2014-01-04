@@ -93,7 +93,7 @@
 
 ###LaTeX
 
-* [LaTeX Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
+* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
 
 ###PHP
 

@@ -516,6 +516,7 @@
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
 * [Assembly Language Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Assembly_Language_Succinctly.pdf)
 * [The Second Book Of Machine Language](http://www.atariarchives.org/2bml/)
+* [Wizard Code](http://vendu.twodots.nl/wizardcode.html)
 
 ####Non-X86
 * [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan

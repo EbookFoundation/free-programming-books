@@ -855,6 +855,7 @@
 * [Tutorial: Java, Maven 2, Eclipse & JSF](http://www.lulu.com/shop/arulkumaran-kumaraswamipillai-and-sivayini-arulkumaran/tutorial-java-maven-2-eclipse-jsf/ebook/product-1603040.html;jsessionid=E57B1E8662500F2ADF96D7B317769B6E) - Arulkumaran Kumaraswamipillai, Sivayini Arulkumaran
 * [Welcome to Java for Python Programmers](http://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 * [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html)
+* [Google's Java Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 
 ####Wicket
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)
@@ -881,7 +882,6 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
-* [Google's Java Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 
 
 ####Angular.js

@@ -862,6 +862,7 @@
 
 
 ###JavaScript
+* [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 * [Dev Docs](http://devdocs.io/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke

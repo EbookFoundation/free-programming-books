@@ -44,6 +44,7 @@
 ###C
 
 * [C von A bis Z](http://openbook.galileocomputing.de/c_von_a_bis_z/)
+* [Softwareentwicklung in C](http://www.klausschmaranz.com/Downloads/SoftwareentwicklungInC.pdf)
 
 ###C++
 

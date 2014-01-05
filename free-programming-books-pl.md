@@ -4,6 +4,9 @@
 * [C++](#c-1)
 * [Common Lisp](#common-lisp)
 * [Haskell](#haskell)
+* [Java] (#java)
+* [JavaScript](#javascript)
+* [LaTeX](#latex)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -23,6 +26,8 @@
 ###C++
 
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1)
+* [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
+* [OpenGL w C++](http://cpp0x.pl/kursy/Kurs-OpenGL-C++/)
 
 ###Common Lisp
 
@@ -31,6 +36,19 @@
 ###Haskell
 
 * [Haskell](http://pl.wikibooks.org/wiki/Haskell)
+
+###Java
+
+* [Java start](http://javastart.pl/)
+
+###JavaScript
+
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
+* [JavaScript. I wszystko jasne](http://www.bt4.pl/kursy/javascript/wszystko-jasne/)
+
+###LaTeX
+
+* [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
 
 ###PHP
 

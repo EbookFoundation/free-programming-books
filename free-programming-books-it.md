@@ -1,7 +1,9 @@
 ###Index
 * [Agnostico](#agnostico)
     * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
+    * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
 * [Android](#android)
+* [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
 * [C#](#c-sharp)
@@ -24,9 +26,19 @@
 
 * [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
 
+####Algoritmi e Strutture Dati
+
+* [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf)
+* [Algoritmi e Strutture Dati](http://homes.di.unimi.it/~bertoni/Algoritmi%20e%20Strutture%20Dati.pdf)
+
 ###Android
 
 * [Guida programmazione Android 4.2](http://www.sprik.it/guida/Android4_2.pdf)
+
+
+###Assembly Language
+
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 
 
 ###BASH
@@ -63,7 +75,7 @@
 ###LaTeX
 
 * [L'arte di scrivere con LaTeX - L. Pantieri e T. Gordini](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf)
-
+* [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
 
 ###Linux
 

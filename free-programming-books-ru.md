@@ -1,34 +1,48 @@
 ###Index
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
+* [Assembly](#assembly)
 * [Bash](#bash)
+* [C](#c)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MetaPost](#metapost)
+* [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Perl](#perl)
+* [PostgreSQL](#postgresql)
 * [R](#r)
+* [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
 * [Ruby on Rails](#ruby-on-rails)
+* [Scala](#scala)
 * [Scilab](#scilab)
 * [SQL](#sql)
+* [Unix](#unix)
+* [Vim](#vim)
 * [Параллельные технологии](#parallel)
-
-###Meta-lists
-* [Книги со свободной ценой](http://www.books.ru/knigi-so-svobodnoi-tsenoi-3129328/)
 
 ###Language Agnostic
 
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
+* [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
+
+###Assembly
+
+* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
+* [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 
 ###Bash
 
 * [Advanced Bash-Scripting Guide](http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html)
 
+###C
+
+* [Особенности языка C. Учебное пособие](http://younglinux.info/sites/default/files/programmingC.pdf)
 
 ###CoffeeScript
 
@@ -42,6 +56,7 @@
 
 ###Git
 
+* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 * [Pro Git](http://git-scm.com/book/ru)
 
 
@@ -60,6 +75,11 @@
 * [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
 
 
+###Node.js
+
+* [Node.js для начинающих](http://nodebeginner.ru)
+
+
 ###NoSQL
 
 * [Маленькая книга о MongoDB](http://jsman.ru/mongo-book/index.html)
@@ -71,11 +91,19 @@
 * [Pragmatic Perl (журнал)](http://pragmaticperl.com/)
 
 
+###PostgreSQL
+
+* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua/)
+
+
 ###R
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
 * [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
 
+###Reverse engineering
+
+* [Введение в reverse engineering для начинающих](https://github.com/dennis714/RE-for-beginners)
 
 ###Ruby
 
@@ -89,6 +117,10 @@
 * [Ruby on Rails Guides](http://rusrails.ru)
 * [Ruby on Rails Tutorial](http://railstutorial.ru/)
 
+###Scala
+
+* [Scala Школа!](http://twitter.github.io/scala_school/ru/) - Twitter
+
 ###Scilab
 
 * [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
@@ -98,6 +130,14 @@
 
 * [Работа с PostgreSQL: настройка и масштабирование](http://postgresql.leopard.in.ua/)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
+
+###Unix
+
+* [Архитектура операционной системы Unix](http://lib.ru/BACH/)
+
+###Vim
+
+* [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
 
 ###Parallel
 

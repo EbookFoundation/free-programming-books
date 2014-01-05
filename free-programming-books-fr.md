@@ -1,11 +1,19 @@
 ###Index
 * [Méta-listes](#méta-listes)
 * [Non dépendant du langage](#non-dépendant-du-langage)
+    * [Algorithmique](#algorithmique)
+    * [Bases de données](#bases-de-données)
+    * [Logiciels libres](#logiciels-libres)
+    * [Makefile](#makefile)
+    * [Méthodes de développment](#méthodes-de-développement)
+    * [Systèmes informatiques](#systèmes-informatiques)
+    * [Théorie des langages](#théorie-des-langages)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
 * [Caml](#caml)
 * [C / C++](#c--c)
 * [Coq](#coq)
+* [CSS](#css)
 * [Git](#git)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -31,6 +39,7 @@
 * [Le SILO: Sciences du numérique &amp; Informatique au Lycée: Oui!](https://wiki.inria.fr/sciencinfolycee/Accueil) 
 
 ###Non dépendant du langage
+
 ####Algorithmique
 
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours), par Michel Quercia
@@ -38,10 +47,6 @@
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) par D. Beauquier, J. Berstel, et Ph. Chrétienne
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
-
-####Théorie des langages
-
-* [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) par Université de Bretagne Occidentale
 
 ####Bases de données
 
@@ -57,20 +62,24 @@
 ####Makefile
 
 * [Concevoir un Makefile](http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf), par Vincent Loechner d'après Nicolas Zin
-* [Introduction aux MakeFile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf‎)
-
-####Systèmes Informatiques
-
-* [Systèmes Informatiques (C, Unix/Linux,...)](http://sinf1252.info.ucl.ac.be/), par Olivier Bonaventure ([sources](https://github.com/obonaventure/SystemesInformatiques))
+* [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf)
 
 ####Méthodes de développement
 
 * [Scrum et XP depuis les tranchées](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf), par Henrik Kniberg
 
+####Systèmes Informatiques
+
+* [Systèmes Informatiques (C, Unix/Linux,...)](http://sinf1252.info.ucl.ac.be/), par Olivier Bonaventure ([sources](https://github.com/obonaventure/SystemesInformatiques))
+
+####Théorie des langages
+
+* [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) par Université de Bretagne Occidentale
+
 ###Assembleur
 
-* [Initiation à la programmation en assembleur 64 bits](http://www.ilv-edition.com/librairie/initiation-programmation-assembleur-bits.html), par Pierre Jourlin
-* [Pas à pas vers l'assembleur](ftp://ftp-developpez.com/asm/cours/noteworthy/pas-a-pas-vers-l-assembleur-par-lord-noteworthy.pdf) par Lord Noteworthy
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+
 
 ###Bash / Shell
 * [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
@@ -92,6 +101,10 @@
 
 * [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt) par Yves Bertot et Pierre Castéran
 * [Preuves de programmes en coq](http://fuscia.inrialpes.fr/cours/coq/) par Yves Bertot
+
+###CSS
+
+* [Apprendre les mises en page CSS](http://fr.learnlayout.com/)
 
 ###Git
 

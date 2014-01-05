@@ -2,14 +2,17 @@
 * [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Action Script](#action-script)
 * [Android](#android)
+* [Assembly Language](#assembly-language)
 * [C](#c)
 * [C++](#c-1)
 * [C#](#c-sharp)
 * [iOS](#ios)
+* [Git](#git)
 * [Groovy](#groovy)
 * [HTML & CSS](#html--css)
 * [Java](#java)
 * [Javascript](#javascript)
+* [LaTeX](#latex)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby on Rails](#ruby-on-rails)
@@ -32,6 +35,11 @@
 ###Android
 
 * [Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf)
+
+###Assembly Language
+
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+
 
 ###C
 
@@ -56,10 +64,15 @@
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
 * [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf)
 
+###Git
+
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
+* [Pro Git](http://git-scm.com/book/de)
+
 ###Groovy
 
 * [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf)
- 
+
 ### HTML & CSS
 
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
@@ -77,6 +90,10 @@
 
 * [JavaScript und AJAX](http://openbook.galileocomputing.de/javascript_ajax/)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
+
+###LaTeX
+
+* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
 
 ###PHP
 

@@ -866,6 +866,7 @@
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 * [Dev Docs](http://devdocs.io/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
+* [Eloquent JavaScript 2nd edition](https://github.com/marijnh/Eloquent-JavaScript) (work in progress)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) - Cody Lindley

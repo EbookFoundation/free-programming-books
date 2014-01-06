@@ -544,6 +544,7 @@
 * [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
 * [Learning the bash Shell](http://www.redbrick.dcu.ie/~teapott/MECS/Notes/learning_bash.pdf)
+* [Google Shell Style Guide](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 
 
 ###Basic

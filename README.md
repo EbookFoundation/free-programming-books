@@ -28,42 +28,43 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution).
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/vhf/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 
 
-### In Other Speaking Languages
+### In Other Spoken Languages
+
++ Bulgarian: [github](/free-programming-books-bg.md)
+
++ Chinese: [github](/free-programming-books-zh.md)
 
 + French: [github](/free-programming-books-fr.md) or [site](http://resrc.io/list/33/livres-gratuits-sur-la-programmation/).
 
     The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-liens>.
+
 + German: [github](/free-programming-books-de.md)
+
++ Greek: [github](/free-programming-books-gr.md)
+
++ Hungarian: [github](/free-programming-books-hu.md)
 
 + Italian: [github](/free-programming-books-it.md)
 
 + Japanese: [github](/free-programming-books-ja.md)
 
++ Korean: [github](/free-programming-books-ko.md)
+
++ Persian/Farsi (Iran): [github](/free-programming-books-fa_IR.md)
+
++ Polish: [github](/free-programming-books-pl.md)
+
++ Portuguese (Brazil): [github](/free-programming-books-pt_BR.md)
+
++ Portuguese (Portugal): [github](/free-programming-books-pt_PT.md)
+
 + Russian: [github](/free-programming-books-ru.md)
 
 + Turkish: [github](/free-programming-books-tr.md)
 
-+ Chinese: [github](/free-programming-books-zh.md)
-
-+ Polish: [github](/free-programming-books-pl.md)
-
-+ Portuguese (Portugal): [github](/free-programming-books-pt_PT.md)
-
-+ Portuguese (Brazil): [github](/free-programming-books-pt_BR.md)
-
-+ Persian/Farsi (Iran): [github](/free-programming-books-fa_IR.md)
-
 + Spanish: [github](/free-programming-books-es.md)
 
-+ Korean: [github](/free-programming-books-ko.md)
-
-+ Bulgarian: [github](/free-programming-books-bg.md)
-
 + Ukrainian: [github](/free-programming-books-ua.md)
-
-+ Hungarian: [github](/free-programming-books-hu.md)
-
-+ Greek: [github](/free-programming-books-gr.md)
 
 ### Noticable lists from [reSRC](http://resrc.io/)
 

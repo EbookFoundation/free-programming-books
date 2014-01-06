@@ -21,7 +21,6 @@
 * [Ruby on Rails](#ruby-on-rails)
 * [Scala](#scala)
 * [Scilab](#scilab)
-* [SQL](#sql)
 * [Unix](#unix)
 * [Vim](#vim)
 * [Параллельные технологии](#parallel)
@@ -94,6 +93,7 @@
 ###PostgreSQL
 
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua/)
+* [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
 
 
 ###R
@@ -125,11 +125,6 @@
 
 * [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
 * [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
-
-###SQL
-
-* [Работа с PostgreSQL: настройка и масштабирование](http://postgresql.leopard.in.ua/)
-* [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
 
 ###Unix
 

@@ -1,10 +1,15 @@
 ###Index
+* [C](#c)
 * [D](#d)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Python](#python)
 * [Java](#java)
+
+###C
+
+* [C Programlama Diline Giris](http://www1.gantep.edu.tr/~bingul/c/index.php)
 
 ###D
 
@@ -25,7 +30,7 @@
 ####Python
 
 * [Python ile Programlama](http://belgeler.istihza.com/py3/)
- 
+
 ####Java
 
 * [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)

@@ -1290,7 +1290,6 @@ See also [TeX](#tex)
 * [Sinatra Book](https://github.com/sinatra/sinatra-book)
 
 ####Ruby on Rails
-* [Big Fat Rails](http://www.bigfatrails.com/) - Mitch Guthrie
 * [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [Objects on Rails](http://objectsonrails.com)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)

@@ -922,6 +922,7 @@
 ###LaTeX
 * [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
 * [LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX)
+* [Arbirtrary LaTex Reference](http://latex.knobs-dials.com/)
 
 See also [TeX](#tex)
 

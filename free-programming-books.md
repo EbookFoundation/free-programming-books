@@ -736,6 +736,7 @@
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
+* [Try Git](http://try.github.io)
 
 
 ###Go

@@ -1290,14 +1290,14 @@ See also [TeX](#tex)
 * [Sinatra Book](https://github.com/sinatra/sinatra-book)
 
 ####Ruby on Rails
-* [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
-* [Objects on Rails](http://objectsonrails.com)
-* [Ruby on Rails Guides](http://guides.rubyonrails.org)
 * [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
-* [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
-* [Rails Girls Guides](http://guides.railsgirls.com)
 * [Geekcamp Ruby on Rails Guides](http://www.rubyonrails.geekcampbaguio.com)
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read)
+* [Objects on Rails](http://objectsonrails.com)
+* [Rails Girls Guides](http://guides.railsgirls.com)
+* [Ruby on Rails Guides](http://guides.rubyonrails.org)
+* [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+* [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
 
 
 ###Rust
@@ -1363,9 +1363,9 @@ See also [TeX](#tex)
 
 ###SQL (implementation agnostic)
 * [Developing Time-Oriented Database Applications in SQL](http://www.cs.arizona.edu/people/rts/publications.html)
-* [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com/)
 * [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/)
+* [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com/)
 
 
 ###SQL Server
@@ -1412,9 +1412,9 @@ See also [TeX](#tex)
 
 
 ###TeX
-* [TeX for the Impatient](https://www.gnu.org/software/teximpatient/), by Paul Abrahams, Kathryn Hargreaves, and Karl Berry
 * [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) (PDF) by Christian Feursänger
 * [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html), by Victor Eijkhout
+* [TeX for the Impatient](https://www.gnu.org/software/teximpatient/), by Paul Abrahams, Kathryn Hargreaves, and Karl Berry
 * [The Computer Science of TeX and LaTeX](http://eijkhout.net/texsci/), by Victor Eijkhout
 
 See also [LaTeX](#latex)
@@ -1430,12 +1430,12 @@ See also [LaTeX](#latex)
 
 
 ###Vim
-* [A guide to getting started with VIM](http://www.integralist.co.uk/posts/a-guide-to-getting-started-with-vim/)
 * [A Byte of Vim](http://www.swaroopch.com/notes/Vim)
-* [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)
+* [A guide to getting started with VIM](http://www.integralist.co.uk/posts/a-guide-to-getting-started-with-vim/)
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline
-* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+* [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Vim Regular Expressions 101](http://vimregex.com/)
 
 ###Web Services
@@ -1447,9 +1447,9 @@ See also [LaTeX](#latex)
 
 
 ###Windows Phone
+* [Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud](http://coolthingoftheday.blogspot.co.uk/2012/05/free-ebook-guidance-advanced-windows.html)
 * [Programming Windows Phone 7](http://blogs.msdn.com/b/microsoft_press/archive/2010/10/28/free-ebook-programming-windows-phone-7-by-charles-petzold.aspx)
 * [Windows Phone Programming Blue Book](http://www.robmiles.com/c-yellow-book/)
-* [Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud](http://coolthingoftheday.blogspot.co.uk/2012/05/free-ebook-guidance-advanced-windows.html)
 
 
 ###Workflow

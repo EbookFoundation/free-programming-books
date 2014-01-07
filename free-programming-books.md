@@ -889,8 +889,7 @@
 
 ####Angular.js
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
-* [25 days of AngularJS Calendar](http://www.ng-newsletter.com/advent2013)
-The short, juicy guide of AngularJS information, designed to get you up and running without the fluff.
+* [25 days of AngularJS Calendar](http://www.ng-newsletter.com/advent2013) - The short, juicy guide of AngularJS information, designed to get you up and running without the fluff.
 
 ####Backbone.js
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
@@ -1222,7 +1221,7 @@ See also [TeX](#tex)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) - HTML
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](https://dl.dropbox.com/u/18065445/web2py/web2py_manual_5th.pdf) - PDF
 * [Google's Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
-* [10 Free Python Programming Books](http://www.coderholic.com/free-python-programming-books/)
+* [The Pylons Book](http://pylonsbook.com/en/1.0/)
 
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
@@ -1231,6 +1230,7 @@ See also [TeX](#tex)
 * [Effective Django](http://effectivedjango.com/)
 * [Tango With Django](http://www.tangowithdjango.com/book/)
 * [Deploy Django](http://www.deploydjango.com)
+* [The Django Book](http://www.djangobook.com/en/2.0/index.html)
 
 ####Flask
 * [Explore Flask](http://exploreflask.com/) (PDF)

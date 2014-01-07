@@ -19,6 +19,7 @@
 
 ###Go
 * [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
+* [Go Tour 한글 번역](http://go-tour-kr.appspot.com)
 
 ###HTML5
 * [HTML5, CSS and Javascript](http://fromyou.tistory.com/581)

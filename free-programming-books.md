@@ -60,7 +60,7 @@
     * [Knockout.js](#knockoutjs)
     * [Node.js](#nodejs)
 * [Language Agnostic](#language-agnostic)
-    * [Algorithms & Datastructures](#algorithms--datastructures)
+    * [Algorithms & Datastructures](#algorithms--data-structures)
     * [Cellular Automata](#cellular-automata)
     * [Compiler Design](#compiler-design)
     * [Database](#database)

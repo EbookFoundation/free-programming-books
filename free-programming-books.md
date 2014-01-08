@@ -1047,7 +1047,7 @@ See also [TeX](#tex)
 * [The Little Riak Book](http://littleriakbook.com/)
 * [Graph Databases](http://graphdatabases.com/)
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
-
+* [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch
 
 ###Oberon
 * [Programming in Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProgInOberon.pdf) (PDF)

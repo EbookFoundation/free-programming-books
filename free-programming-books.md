@@ -1042,13 +1042,13 @@ See also [TeX](#tex)
 
 ###NoSQL
 * [CouchDB: The Definitive Guide](http://books.couchdb.org/relax/)
-* [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Näsholm
-* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book)
-* [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
-* [The Little Riak Book](http://littleriakbook.com/)
+* [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm
 * [Graph Databases](http://graphdatabases.com/)
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
 * [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch
+* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book)
+* [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
+* [The Little Riak Book](http://littleriakbook.com/)
 
 ###Oberon
 * [Programming in Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProgInOberon.pdf) (PDF)

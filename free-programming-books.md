@@ -1312,11 +1312,12 @@ See also [TeX](#tex)
 
 
 ###Scala
+* [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
 * [Another tour of Scala](http://naildrivin5.com/scalatour)
 * [Effective Scala](http://twitter.github.com/effectivescala/)
 * [Exploring Lift](http://exploring.liftweb.net/) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
-* [Lift](http://github.com/tjweir/liftbook)
 * [Lift Cookbook](http://chimera.labs.oreilly.com/books/1234000000030/index.html) - Richard Dallaway
+* [Lift](http://github.com/tjweir/liftbook)
 * [Pro Scala: Monadic Design Patterns for the Web](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)
 * [Programming Scala](http://programming-scala.labs.oreilly.com/index.html)
@@ -1324,7 +1325,6 @@ See also [TeX](#tex)
 * [Scala for the Impatient](http://typesafe.com/resources/book/scala-for-the-impatient) - Cay S. Horstmann
 * [Scala School by Twitter](http://twitter.github.io/scala_school/)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
-* [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 
 

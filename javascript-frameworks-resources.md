@@ -21,6 +21,7 @@
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/)
+* [Hello Backbone - Hello world examples of increasing complexity](http://arturadib.com/hello-backbonejs/)
 
 
 ## D3.js

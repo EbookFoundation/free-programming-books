@@ -8,21 +8,11 @@
 
 
 ###Git
-* [Git Immersion](http://gitimmersion.com)
 * [Try Git](http://try.github.io)
 
 
 ###Go
 * [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
-* [Go by Example](https://gobyexample.com/)
-
-
-###HTML / CSS
-* [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
-
-
-###JavaScript
-* [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
 
 
 ###Lisp

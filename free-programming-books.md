@@ -1179,6 +1179,7 @@ See also [TeX](#tex)
 * [Dive into Python](http://www.diveintopython.net/) - Mark Pilgrim
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim
 * [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1)
+* [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) - Rafe Kettler
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart
 * [Hitchiker's Guide to Python!](http://docs.python-guide.org/en/latest/)
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers

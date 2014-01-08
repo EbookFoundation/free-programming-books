@@ -151,6 +151,7 @@
 * [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/)
 * [atariarchives.org](http://www.atariarchives.org/) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 * [Bitsavers.org](http://bitsavers.org/)
+* [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks)
 * [Cheat Sheets (Free)](http://refcardz.dzone.com/)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com/)
@@ -1324,7 +1325,7 @@ See also [TeX](#tex)
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)
 * [Programming Scala](http://programming-scala.labs.oreilly.com/index.html)
 * [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) (PDF)
-* [Scala for the Impatient](http://typesafe.com/resources/book/scala-for-the-impatient) - Cay S. Horstmann
+* [Scala for the Impatient (A1 Scala Level chapters)](http://typesafe.com/resources/book/scala-for-the-impatient) - Cay S. Horstmann
 * [Scala School by Twitter](http://twitter.github.io/scala_school/)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)

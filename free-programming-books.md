@@ -962,21 +962,24 @@ See also [TeX](#tex)
 
 
 ###Lisp
+* [Basic Lisp Techniques](http://www.franz.com/resources/educational_resources/cooper.book.pdf) - David J. Cooper, Jr.
+* [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
+* [Common Lisp Quick Reference](http://clqr.boundp.org/)
 * [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/) - David S. Touretzky
-* [Common Lisp Quick Reference](http://clqr.boundp.org/)
+* [Google's Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
+* [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott
 * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/toc)
 * [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers) - Vsevolod Dyomkin
+* [Lisp Koans](https://github.com/google/lisp-koans)
+* [Lisp Web Tales](https://leanpub.com/lispwebtales/purchases/new)
 * [Natural Language Processing in Lisp](http://www.informatics.susx.ac.uk/research/groups/nlp/gazdar/nlp-in-lisp/index.html)
 * [On Lisp](http://www.paulgraham.com/onlisp.html)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
-* [Successful Lisp: How to Understand and Use Common Lisp](http://psg.com/~dlamkins/sl/) - David Lamkins
 * [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
-* [Lisp Koans](https://github.com/google/lisp-koans)
-* [List Web Tails](https://leanpub.com/lispwebtales/purchases/new)
-* [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
-* [Google's Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
+* [Successful Lisp: How to Understand and Use Common Lisp](http://psg.com/~dlamkins/sl/) - David Lamkins
+* [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel
 
 ###Lua
 * [Programming In Lua](http://www.lua.org/pil/) (for version 5)

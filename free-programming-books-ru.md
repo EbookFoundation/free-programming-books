@@ -100,6 +100,7 @@
 ###Python
 
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
+* [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA_Python_2.6)
 
 

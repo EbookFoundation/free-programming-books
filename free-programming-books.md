@@ -969,13 +969,14 @@ See also [TeX](#tex)
 * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/toc)
 * [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers) - Vsevolod Dyomkin
 * [Lisp Koans](https://github.com/google/lisp-koans)
-* [List Web Tails](https://leanpub.com/lispwebtales/purchases/new)
+* [Lisp Web Tales](https://leanpub.com/lispwebtales/purchases/new)
 * [Natural Language Processing in Lisp](http://www.informatics.susx.ac.uk/research/groups/nlp/gazdar/nlp-in-lisp/index.html)
 * [On Lisp](http://www.paulgraham.com/onlisp.html)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 * [Successful Lisp: How to Understand and Use Common Lisp](http://psg.com/~dlamkins/sl/) - David Lamkins
+* [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel
 
 ###Lua
 * [Programming In Lua](http://www.lua.org/pil/) (for version 5)

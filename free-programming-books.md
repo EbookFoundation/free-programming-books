@@ -1172,7 +1172,7 @@ See also [TeX](#tex)
 * [Prolog and Natural-Language Analysis](http://www.mtome.com/Publications/PNLA/pnla-digital.html) - Fernando C. N. Pereira, Stuart M. Shieber
 * [Prolog Experiments in Discrete Mathematics, Logic, and Computability](http://web.cecs.pdx.edu/~jhein/books/PrologLabBook09.pdf) - James L. Hein
 * [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/)
-* [Prolog Programming: A First Curse](http://engronline.ee.memphis.edu/deductiveDB/prolog_book.pdf) - Paul Brna
+* [Prolog Programming: A First Course](http://engronline.ee.memphis.edu/deductiveDB/prolog_book.pdf) - Paul Brna
 * [Prolog Techniques](http://bookboon.com/int/student/it/prolog-techniques-applications-of-prolog)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
 * [The First 10 Prolog Programming Contests](http://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon

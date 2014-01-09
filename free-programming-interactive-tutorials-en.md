@@ -16,6 +16,10 @@
 * [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
 
 
+###Javascript
+* [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+
+
 ###Lisp
 * [Lisp Koans](https://github.com/google/lisp-koans)
 

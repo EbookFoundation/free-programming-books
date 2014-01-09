@@ -605,12 +605,13 @@
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure for the Brave and True](http://www.braveclojure.com/)
+* [Clojure in Small Pieces](http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey
+* [Clojure Koans](http://clojurekoans.com/)
 * [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
-* [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+* [ClojureScript Koans](http://clojurescriptkoans.com/)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
-* [Clojure Koans](http://clojurekoans.com/)
-* [ClojureScript Koans](http://clojurescriptkoans.com/)
+* [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
 
 ###COBOL

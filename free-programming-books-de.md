@@ -98,7 +98,7 @@
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
 
 ###Meta-Lists
-* [Galileo Computing - <openbook>](http://www.galileocomputing.de/katalog/openbook)
+* [Galileo Computing - openbook](http://www.galileocomputing.de/katalog/openbook)
 
 
 ###PHP

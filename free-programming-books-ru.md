@@ -1,6 +1,7 @@
 ###Index
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
+    * [Programming Paradigms](#programming-paradigms)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -30,6 +31,11 @@
 
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
+
+####Programming Paradigms
+* [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison
+* [Практика функционального программирования](http://fprog.ru/) - журнал
+
 
 ###Assembly
 
@@ -94,6 +100,7 @@
 ###Python
 
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
+* [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA_Python_2.6)
 
 

@@ -1462,6 +1462,8 @@ See also [LaTeX](#latex)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Vim Regular Expressions 101](http://vimregex.com/)
+* [Practical Vim](http://bit.ly/1ev5A2H) (PDF) by Drew Neil
+* [Hacking Vim](http://bit.ly/KEWSpB) (PDF) by Kim Schulz
 
 ###Web Services
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)

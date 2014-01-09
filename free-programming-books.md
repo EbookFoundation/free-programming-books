@@ -603,6 +603,7 @@
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure for the Brave and True](http://www.braveclojure.com/)
+* [Clojure in Small Pieces](http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey
 * [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)

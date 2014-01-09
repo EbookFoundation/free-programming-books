@@ -13,6 +13,7 @@
 * [Java](#java)
 * [Javascript](#javascript)
 * [LaTeX](#latex)
+* [Meta-Lists](#meta-lists)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby on Rails](#ruby-on-rails)
@@ -95,6 +96,10 @@
 ###LaTeX
 
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
+
+###Meta-Lists
+* [Galileo Computing - <openbook>](http://www.galileocomputing.de/katalog/openbook)
+
 
 ###PHP
 

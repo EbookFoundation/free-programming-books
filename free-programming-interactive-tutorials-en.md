@@ -27,6 +27,9 @@
 ###NoSQL
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
 
+###Objective-C
+
+* [Try Objective-C](http://tryobjectivec.codeschool.com)
 
 ###Python
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)

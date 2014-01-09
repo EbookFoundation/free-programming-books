@@ -516,6 +516,7 @@
 * [The Second Book Of Machine Language](http://www.atariarchives.org/2bml/)
 * [Wizard Code](http://vendu.twodots.nl/wizardcode.html)
 * [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly)
+* [An introduction to reverse engineering for beginners](https://github.com/dennis714/RE-for-beginners)
 
 ####Non-X86
 * [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan

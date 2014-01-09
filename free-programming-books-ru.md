@@ -33,6 +33,7 @@
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
 
 ####Programming Paradigms
+* [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison
 * [Практика функционального программирования](http://fprog.ru/) - журнал
 
 

@@ -1129,6 +1129,7 @@ See also [TeX](#tex)
 * [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)
 * [SDL::Manual Writing Games in Perl](https://github.com/PerlGameDev/SDL_Manual)
 * [The PDL Book](http://sourceforge.net/projects/pdl/files/PDL_2013/PDL-Book/PDL-Book-20130322.pdf/download) (PDF)
+* [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
 
 
 ###PHP
@@ -1235,6 +1236,8 @@ See also [TeX](#tex)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) - HTML
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](https://dl.dropbox.com/u/18065445/web2py/web2py_manual_5th.pdf) - PDF
 * [Google's Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+* [A Beginner's Python Book](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
+* [Python For Fun](http://openbookproject.net//py4fun/) By Chris Meyers
 
 ####Django
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
@@ -1462,8 +1465,6 @@ See also [LaTeX](#latex)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Vim Regular Expressions 101](http://vimregex.com/)
-* [Practical Vim](http://bit.ly/1ev5A2H) (PDF) by Drew Neil
-* [Hacking Vim](http://bit.ly/KEWSpB) (PDF) by Kim Schulz
 
 ###Web Services
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)

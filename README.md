@@ -73,4 +73,4 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution).
 
 ### Interactive Programming Resources
 
-+ Free interactive programming tutorials: [github](/free-programming-interactive-tutorials-en.md)
++ Free interactive programming tutorials: [github](/free-programming-interactive-tutorials-en.md) or [site](http://resrc.io/list/217/programming-interactive-tutorials/)

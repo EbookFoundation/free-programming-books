@@ -13,6 +13,7 @@
 * [Java](#java)
 * [Javascript](#javascript)
 * [LaTeX](#latex)
+* [Meta-Lists](#meta-lists)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby on Rails](#ruby-on-rails)
@@ -44,6 +45,7 @@
 ###C
 
 * [C von A bis Z](http://openbook.galileocomputing.de/c_von_a_bis_z/)
+* [Softwareentwicklung in C](http://www.klausschmaranz.com/Downloads/SoftwareentwicklungInC.pdf)
 
 ###C++
 
@@ -94,6 +96,10 @@
 ###LaTeX
 
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
+
+###Meta-Lists
+* [Galileo Computing - openbook](http://www.galileocomputing.de/katalog/openbook)
+
 
 ###PHP
 

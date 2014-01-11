@@ -2,6 +2,7 @@
 
 * [Assembly Language](#assembly-language)
 * [GIT](#git)
+* [Go](#go)
 * [HTML5](#html5)
 * [JavaScript](#javascript)
     * [Node.js](#nodejs)
@@ -15,6 +16,10 @@
 ###GIT
 * [Pro Git 한글 번역](http://git-scm.com/book/ko/)
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+
+###Go
+* [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
+* [Go Tour 한글 번역](http://go-tour-kr.appspot.com)
 
 ###HTML5
 * [HTML5, CSS and Javascript](http://fromyou.tistory.com/581)

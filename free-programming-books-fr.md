@@ -114,6 +114,7 @@
 ###Java
 
 * [Initiation à la programmation (en Java)](https://www.coursera.org/course/intro-java-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
+* [Play.Rules!](http://3monkeys.github.io/play.rules/)
 
 ###Javascript
 

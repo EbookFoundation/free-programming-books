@@ -895,7 +895,7 @@
 * [The JavaScript Tutorial](http://javascript.info/)
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655) (PDF)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-
+* [Oh My JS](https://leanpub.com/ohmyjs/read) *(Leanpub, by Azat Mardanov)*
 
 ####Angular.js
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)

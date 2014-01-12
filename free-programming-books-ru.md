@@ -23,6 +23,7 @@
 * [Ruby on Rails](#ruby-on-rails)
 * [Scala](#scala)
 * [Scilab](#scilab)
+* [Smalltalk](#smalltalk)
 * [Unix](#unix)
 * [Vim](#vim)
 * [Параллельные технологии](#parallel)
@@ -139,6 +140,10 @@
 
 * [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
 * [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
+
+###Smalltalk
+
+* [Смолток: Язык и его реализация](https://sites.google.com/site/polyglotsqueak/) - Адэль Голдберг, Дэвид Робсон
 
 ###Unix
 

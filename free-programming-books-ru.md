@@ -7,6 +7,7 @@
 * [C](#c)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
@@ -23,6 +24,7 @@
 * [Ruby on Rails](#ruby-on-rails)
 * [Scala](#scala)
 * [Scilab](#scilab)
+* [Smalltalk](#smalltalk)
 * [Unix](#unix)
 * [Vim](#vim)
 * [Параллельные технологии](#parallel)
@@ -54,6 +56,10 @@
 
 * [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
 
+
+###Java
+
+* [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 
 ###JavaScript
 
@@ -139,6 +145,10 @@
 
 * [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
 * [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
+
+###Smalltalk
+
+* [Смолток: Язык и его реализация](https://sites.google.com/site/polyglotsqueak/) - Адэль Голдберг, Дэвид Робсон
 
 ###Unix
 

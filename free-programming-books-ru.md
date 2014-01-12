@@ -7,6 +7,7 @@
 * [C](#c)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
@@ -55,6 +56,10 @@
 
 * [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
 
+
+###Java
+
+* [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 
 ###JavaScript
 

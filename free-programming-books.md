@@ -451,6 +451,7 @@
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [The Definitive Guide to Building Code Quality](http://nexus.realtimepublishers.com/dgbcq.php)
 * [Web API Design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)
+* [Your API Is Bad](https://leanpub.com/yourapiisbad) *(Leanpub, by Paddy Foran)*
 
 ####Standards
 * [UNIX - The POSIX Standard - IEEE Std 1003.1](https://github.com/g-nix/posix-standard)

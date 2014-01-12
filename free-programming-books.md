@@ -868,6 +868,7 @@
 * [Welcome to Java for Python Programmers](http://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 * [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html)
 * [Google's Java Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+* [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
 
 ####Wicket
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)

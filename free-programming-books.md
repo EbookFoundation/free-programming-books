@@ -903,6 +903,7 @@
 
 ####Angular.js
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
+* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
 
 ####Backbone.js
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)

@@ -1257,6 +1257,7 @@ See also [TeX](#tex)
 * [Tango With Django](http://www.tangowithdjango.com/book/)
 * [Deploy Django](http://www.deploydjango.com)
 * [The Django Book](http://www.djangobook.com)
+* [Tango With Django](http://www.tangowithdjango.com/)
 
 ####Flask
 * [Explore Flask](http://exploreflask.com/) (PDF)

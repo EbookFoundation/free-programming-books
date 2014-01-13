@@ -904,6 +904,7 @@
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
 
 ####Backbone.js
+* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [Backbonejs Tutorials](http://backbonetutorials.com/)

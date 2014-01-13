@@ -448,6 +448,7 @@
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/)
 * [Patterns and Practices: Application Architecture Guide 2.0](http://www.codeplex.com/AppArchGuide)
 * [Patterns of Software: Tales from the Software Community](http://www.dreamsongs.com/Files/PatternsOfSoftware.pdf) (PDF)
+* [Practicing Domain-Driven Design](http://leanpub.com/Practicing-DDD) - Scott Millett
 * [Programming Reliable Systems (Joe Armstrong's PhD thesis)](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf) (PDF)
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)

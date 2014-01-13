@@ -191,6 +191,7 @@
 
 ###Graphical User Interfaces
 * [Best of Smashing Magazine](http://anniversary.smashingmagazine.com/best-of-smashing-magazine.zip)
+* [How to Design Faceted Search: The Complete Guide to Designing Faceted Search User Interface](http://leanpub.com/howtodesignfacetedsearch) - Abhijit Rawool
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
 * [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
 * [Working through Screens](http://www.flashbulbinteraction.com/WTS.html) - Jacob Burghardt
@@ -340,15 +341,18 @@
 * [Learn to Program](http://pine.fm/LearnToProgram/)
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) by Bret Victor
+* [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide)
 * [Modeling Reactive Systems with Statecharts](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
 * [Mother Tongues of Computer Languages](http://www.digibarn.com/collections/posters/tongues/) (PNG)
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 * [Open Government;Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government)
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
+* [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
 * [Programmer's Motivation for Beginners](http://programmersmotivation.com/)
 * [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
+* [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap
 * [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
@@ -445,6 +449,7 @@
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/)
 * [Patterns and Practices: Application Architecture Guide 2.0](http://www.codeplex.com/AppArchGuide)
 * [Patterns of Software: Tales from the Software Community](http://www.dreamsongs.com/Files/PatternsOfSoftware.pdf) (PDF)
+* [Practicing Domain-Driven Design](http://leanpub.com/Practicing-DDD) - Scott Millett
 * [Programming Reliable Systems (Joe Armstrong's PhD thesis)](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf) (PDF)
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
@@ -839,38 +844,42 @@
 
 
 ###Java
+* [Animation/Games in Java](http://www.heatonresearch.com/articles/series/3)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
-* [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/html/page9.html)
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
-* [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
+* [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com/) - Marty Hall and Larry Brown
+* [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/html/page9.html)
+* [Google's Java Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+* [Hibernate 4 Example Programs](https://leanpub.com/hibernate4-example-programs) - L. Mohan Arun
+* [HTTP Programming Recipes for Java Bots](http://www.heatonresearch.com/articles/series/16)
+* [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html)
+* [Introduction to Neural Networks with Java](http://www.heatonresearch.com/articles/series/1) -
+* [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)- Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [JAAS in Action](http://www.jaasbook.com/)
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf) (PDF)
+* [Java for the Beginning Programmer](http://www.heatonresearch.com/articles/series/15)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
-* [Practical Artificial Intelligence Programming With Java, Third Edition](http://www.markwatson.com/opencontent/JavaAI3rd.pdf) - Mark Watson
-* [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
 * [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
-* [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
-* [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
-* [Thinking in Java](http://www.mindview.net/Books/TIJ/)
-* [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) (PDF)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
+* [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) (PDF)
+* [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
+* [Practical Artificial Intelligence Programming With Java, Third Edition](http://www.markwatson.com/opencontent/JavaAI3rd.pdf) - Mark Watson
+* [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
+* [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc)
+* [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [The Java Language Specification](http://java.sun.com/docs/books/jls/) - James Gosling, Bill Joy, Guy Steele, Gilad Bracha
 * [The Java Tutorial 4th Edition](http://download.oracle.com/javase/tutorial/) - Sharon Zakhour, Scott Hommel, Jacob Royal, Isaac Rabinovitch, Tom Risser, Mark Hoeber
-* [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com/) - Marty Hall and Larry Brown
-* [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
-* [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)- Robert Sedgewick and Kevin Wayne
-* [Introduction to Neural Networks with Java](http://www.heatonresearch.com/articles/series/1) -
-* [Animation/Games in Java](http://www.heatonresearch.com/articles/series/3)
-* [Java for the Beginning Programmer](http://www.heatonresearch.com/articles/series/15)
-* [HTTP Programming Recipes for Java Bots](http://www.heatonresearch.com/articles/series/16)
+* [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
+* [Thinking in Java](http://www.mindview.net/Books/TIJ/)
 * [Tutorial: Java, Maven 2, Eclipse & JSF](http://www.lulu.com/shop/arulkumaran-kumaraswamipillai-and-sivayini-arulkumaran/tutorial-java-maven-2-eclipse-jsf/ebook/product-1603040.html;jsessionid=E57B1E8662500F2ADF96D7B317769B6E) - Arulkumaran Kumaraswamipillai, Sivayini Arulkumaran
 * [Welcome to Java for Python Programmers](http://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 * [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html)
 * [Google's Java Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
+
 
 ####Wicket
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)
@@ -891,9 +900,11 @@
 * [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
 * [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf)
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
+* [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks) - Malcolm Maclean
 * [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
 * [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com/)  - Noel Rappin
+* [Marionette Exposé: Learn to write modular Javascript applicatons using Backbone Marionette and RequireJS/AMD](http://leanpub.com/marionetteexpose) - Jack Killilea
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [The JavaScript Tutorial](http://javascript.info/)
@@ -906,6 +917,7 @@
 * [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
 
 ####Backbone.js
+* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [Backbonejs Tutorials](http://backbonetutorials.com/)

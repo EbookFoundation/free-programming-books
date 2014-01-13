@@ -861,6 +861,7 @@
 * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
 * [Practical Artificial Intelligence Programming With Java, Third Edition](http://www.markwatson.com/opencontent/JavaAI3rd.pdf) - Mark Watson
 * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
+* [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc)
 * [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [The Java Language Specification](http://java.sun.com/docs/books/jls/) - James Gosling, Bill Joy, Guy Steele, Gilad Bracha
 * [The Java Tutorial 4th Edition](http://download.oracle.com/javase/tutorial/) - Sharon Zakhour, Scott Hommel, Jacob Royal, Isaac Rabinovitch, Tom Risser, Mark Hoeber

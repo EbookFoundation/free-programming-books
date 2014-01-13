@@ -122,6 +122,9 @@
 
 ###PHP
 * [Manual de PHP (forosdelweb.com)](http://www.forosdelweb.com/wiki/Manual_de_PHP)
+* [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
+* [Silex, el manual oficial](http://librosweb.es/silex/)
+* [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
 
 ###Python
 

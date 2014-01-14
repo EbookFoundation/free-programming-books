@@ -1090,12 +1090,12 @@ See also [TeX](#tex)
 * [Try Objective-C Book](http://rubymaverick.com/try-objectivec-book/)
 
 ###OCaml
+* [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Introduction to Objective Caml](http://courses.cms.caltech.edu/cs134/cs134b/book.pdf) (PDF)
 * [Objective Caml for Scientists (first chapter only)](http://www.ffconsultancy.com/products/ocaml_for_scientists/chapter1.html)
-* [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/)
-* [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Real World OCaml](https://realworldocaml.org/v1/en/html/)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey and Nicholas Monje
+* [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/)
 
 
 ###Octave

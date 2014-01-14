@@ -780,6 +780,7 @@
 
 ###Haskell
 * [A Haskell School of Music](http://haskell.cs.yale.edu/?post_type=publication&p=112) (PDF) (work in progress)
+* [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com/) - Miran Lipovača

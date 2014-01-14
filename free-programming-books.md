@@ -124,6 +124,7 @@
 * [Rust](#rust)
 * [Sage](#sage)
 * [Scala](#scala)
+    * [Play Scala](#play-scala)
 * [Scheme](#scheme)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
@@ -1350,7 +1351,6 @@ See also [TeX](#tex)
 * [Exploring Lift](http://exploring.liftweb.net/) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
 * [Lift](http://github.com/tjweir/liftbook)
 * [Lift Cookbook](http://chimera.labs.oreilly.com/books/1234000000030/index.html) - Richard Dallaway
-* [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook) - Alvin Alexander
 * [Pro Scala: Monadic Design Patterns for the Web](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Program Transformation in Scala](http://homepages.cwi.nl/~ai/MScThesis-A-Izmaylova.pdf) - Anastasia Izmaylova
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)
@@ -1362,9 +1362,12 @@ See also [TeX](#tex)
 * [Scala Tutorial](http://www.tutorialspoint.com/scala/scala_tutorial.pdf)
 * [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
-* [Work with Play: Build web applications using Scala and the Play Framework](http://workwithplay.com/) - Diego Castorina
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 
+
+####Play Scala
+* [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook) - Alvin Alexander
+* [Work with Play: Build web applications using Scala and the Play Framework](http://workwithplay.com/) - Diego Castorina
 
 ###Scheme
 * [Concrete Abstractions: An Introduction to Computer Science Using Scheme](https://gustavus.edu/+max/concrete-abstractions.html)

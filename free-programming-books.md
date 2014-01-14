@@ -1205,7 +1205,7 @@ See also [TeX](#tex)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
 * [The First 10 Prolog Programming Contests](http://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Visual Prolog 7.2 for Tyros](http://download.pdc.dk/vip/72/books/tyros/tyros72.pdf) (PDF)
-
+* [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net/) - Hassan A¨it-Kaci
 
 ###Python
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)

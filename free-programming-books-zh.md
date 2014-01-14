@@ -51,6 +51,7 @@
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
 ### Scala
+* [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html) - Marius Eriksen
 * [Scala 课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
 
 ### Shell

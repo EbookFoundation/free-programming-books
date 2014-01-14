@@ -139,6 +139,7 @@
 
 ###Scala
 
+* [Effective Scala](http://twitter.github.io/effectivescala/index-ru.html) - Marius Eriksen
 * [Scala Школа!](http://twitter.github.io/scala_school/ru/) - Twitter
 
 ###Scilab

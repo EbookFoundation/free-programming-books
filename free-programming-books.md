@@ -1362,6 +1362,7 @@ See also [TeX](#tex)
 * [Scala Tutorial](http://www.tutorialspoint.com/scala/scala_tutorial.pdf)
 * [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
+* [Work with Play: Build web applications using Scala and the Play Framework](http://workwithplay.com/) - Diego Castorina
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 
 

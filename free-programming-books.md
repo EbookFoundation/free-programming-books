@@ -124,6 +124,7 @@
 * [Rust](#rust)
 * [Sage](#sage)
 * [Scala](#scala)
+    * [Lift](#lift)
     * [Play Scala](#play-scala)
 * [Scheme](#scheme)
 * [Scilab](#scilab)
@@ -1348,9 +1349,6 @@ See also [TeX](#tex)
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
 * [Another tour of Scala](http://naildrivin5.com/scalatour)
 * [Effective Scala](http://twitter.github.com/effectivescala/)
-* [Exploring Lift](http://exploring.liftweb.net/) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
-* [Lift](http://github.com/tjweir/liftbook)
-* [Lift Cookbook](http://chimera.labs.oreilly.com/books/1234000000030/index.html) - Richard Dallaway
 * [Pro Scala: Monadic Design Patterns for the Web](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Program Transformation in Scala](http://homepages.cwi.nl/~ai/MScThesis-A-Izmaylova.pdf) - Anastasia Izmaylova
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)
@@ -1360,10 +1358,14 @@ See also [TeX](#tex)
 * [Scala for the Impatient (A1 Scala Level chapters)](http://typesafe.com/resources/book/scala-for-the-impatient) - Cay S. Horstmann
 * [Scala School by Twitter](http://twitter.github.io/scala_school/)
 * [Scala Tutorial](http://www.tutorialspoint.com/scala/scala_tutorial.pdf)
-* [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 
+####Lift
+* [Exploring Lift](http://exploring.liftweb.net/) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
+* [Lift](http://github.com/tjweir/liftbook)
+* [Lift Cookbook](http://chimera.labs.oreilly.com/books/1234000000030/index.html) - Richard Dallaway
+* [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak
 
 ####Play Scala
 * [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook) - Alvin Alexander

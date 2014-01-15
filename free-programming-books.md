@@ -439,6 +439,7 @@
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [Don't Just Roll the Dice](http://www.neildavidson.com/dontjustrollthedice.html)
+* [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org/) - Markus Voelter
 * [Essential Skills for Agile Development](http://elliottback.com/wp/essential-skills-for-agile-development/)
 * [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/portal/web/swebok)
 * [How to Design Programs](http://www.htdp.org/)

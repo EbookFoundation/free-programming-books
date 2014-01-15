@@ -445,6 +445,7 @@
 * [How to Design Programs](http://www.htdp.org/)
 * [How to Write Unmaintainable Code](http://mindprod.com/jgloss/unmain.html)
 * [Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook)
+* [Methods and Techniques for the Design and Implementation of Domain-Specific Languages](http://www.st.ewi.tudelft.nl/~arie/phds/Hemel.pdf) - Zef Hemel
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson
 * [NASA Manager Handbook for Software Development](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-manage.pdf) (PDF)
 * [NASA Software Measurement Handbook](http://www.scribd.com/doc/7181362/NASA-Software-Measurement-Guidebook)

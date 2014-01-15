@@ -40,6 +40,7 @@
 * [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Técnicas de Diseño de Algoritmos ](http://www.lcc.uma.es/~av/Libro/indice.html) ([PDF](http://www.lcc.uma.es/%7eav/Libro/Libro.zip))
 * [Temas selectos de estructuras de datos](http://www.matematicas.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
+* [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos)
 
 ####Base de Datos
 * [El modelo relacional y el álgebra relacional](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02148.pdf) (PDF)
@@ -58,8 +59,9 @@
 * [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
 
 ####Metodologías de desarrollo de software
-* [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf)
+* [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 * [Diseño Ágil con TDD](http://www.dirigidoportests.com/el-libro)
+* [Metodologías Ágiles para el Desarrollo de Software] (http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
 
 ####Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
@@ -125,6 +127,7 @@
 * [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
 * [Silex, el manual oficial](http://librosweb.es/silex/)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
+* [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)
 
 ###Python
 

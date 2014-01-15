@@ -1,4 +1,5 @@
 ##Índice
+* [C](#c)
 * [Engenharia de software](#engenharia-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
@@ -10,6 +11,9 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
+
+###C
+* [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 
 ###Engenharia de Software
 

@@ -1152,6 +1152,7 @@ See also [TeX](#tex)
 
 
 ###PHP
+* [php-video tutorials] (http://thenewboston.org/list.php?cat=11)
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
 * [PHP: The Right Way](http://www.phptherightway.com/)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)

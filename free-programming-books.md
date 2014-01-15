@@ -124,6 +124,8 @@
 * [Rust](#rust)
 * [Sage](#sage)
 * [Scala](#scala)
+    * [Lift](#lift)
+    * [Play Scala](#play-scala)
 * [Scheme](#scheme)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
@@ -273,6 +275,7 @@
 
 ####Licensing
 * [Creative Commons: a user guide](http://www.aliprandi.org/cc-user-guide/) - Simone Aliprandi
+* [The Public Domain: Enclosing the Commons of the Mind](http://www.thepublicdomain.org/download/) - James Boyle
 
 ####Machine Learning
 * [A Course in Machine Learning](http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf) (PDF)
@@ -319,6 +322,7 @@
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
 * [A Mathematical Theory of Communication](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html) by Claude E.Shannon
 * [Asterisk™: The Definitive Guide](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
+* [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) (PDF) by Tony Hoare
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
@@ -430,6 +434,7 @@
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 
 ####Software Architecture
+* [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](http://smartbear.com/codecollab-code-review-book.php)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
@@ -589,6 +594,7 @@
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
+* [Financial Numerical Recipes in C++](http://finance.bi.no/~bernt/gcc_prog/recipes/) - Bernt Arne Ødegaard
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
@@ -775,6 +781,7 @@
 
 ###Haskell
 * [A Haskell School of Music](http://haskell.cs.yale.edu/?post_type=publication&p=112) (PDF) (work in progress)
+* [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com/) - Miran Lipovača
@@ -950,6 +957,7 @@ See also [TeX](#tex)
 * [Getting Started with Ubuntu](http://ubuntu-manual.org/)
 * [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
 * [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/index.html)
+* [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org/)
 * [The Debian Administrator's Handbook](http://debian-handbook.info/)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) (PDF)
 * [The Linux Development Platform (PDF)](http://www.informit.com/content/downloads/perens/0130091154.pdf) (PDF)
@@ -1082,13 +1090,13 @@ See also [TeX](#tex)
 * [Try Objective-C Book](http://rubymaverick.com/try-objectivec-book/)
 
 ###OCaml
+* [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Introduction to Objective Caml](http://courses.cms.caltech.edu/cs134/cs134b/book.pdf) (PDF)
 * [Objective Caml for Scientists (first chapter only)](http://www.ffconsultancy.com/products/ocaml_for_scientists/chapter1.html)
-* [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/)
-* [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Real World OCaml](https://realworldocaml.org/v1/en/html/)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey and Nicholas Monje
-
+* [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/)
+* [Using, Understanding, and Unraveling The OCaml Language:  From Practice to Theory and vice versa](http://pauillac.inria.fr/~remy/cours/appsem/) - Didier R´emy
 
 ###Octave
 * [Octave Programming](http://en.wikibooks.org/wiki/Octave_Programming_Tutorial)
@@ -1197,7 +1205,7 @@ See also [TeX](#tex)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
 * [The First 10 Prolog Programming Contests](http://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Visual Prolog 7.2 for Tyros](http://download.pdc.dk/vip/72/books/tyros/tyros72.pdf) (PDF)
-
+* [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net/) - Hassan A¨it-Kaci
 
 ###Python
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
@@ -1348,10 +1356,6 @@ See also [TeX](#tex)
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
 * [Another tour of Scala](http://naildrivin5.com/scalatour)
 * [Effective Scala](http://twitter.github.com/effectivescala/)
-* [Exploring Lift](http://exploring.liftweb.net/) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
-* [Lift](http://github.com/tjweir/liftbook)
-* [Lift Cookbook](http://chimera.labs.oreilly.com/books/1234000000030/index.html) - Richard Dallaway
-* [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook) - Alvin Alexander
 * [Pro Scala: Monadic Design Patterns for the Web](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Program Transformation in Scala](http://homepages.cwi.nl/~ai/MScThesis-A-Izmaylova.pdf) - Anastasia Izmaylova
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)
@@ -1361,10 +1365,18 @@ See also [TeX](#tex)
 * [Scala for the Impatient (A1 Scala Level chapters)](http://typesafe.com/resources/book/scala-for-the-impatient) - Cay S. Horstmann
 * [Scala School by Twitter](http://twitter.github.io/scala_school/)
 * [Scala Tutorial](http://www.tutorialspoint.com/scala/scala_tutorial.pdf)
-* [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 
+####Lift
+* [Exploring Lift](http://exploring.liftweb.net/) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
+* [Lift](http://github.com/tjweir/liftbook)
+* [Lift Cookbook](http://chimera.labs.oreilly.com/books/1234000000030/index.html) - Richard Dallaway
+* [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak
+
+####Play Scala
+* [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook) - Alvin Alexander
+* [Work with Play: Build web applications using Scala and the Play Framework](http://workwithplay.com/) - Diego Castorina
 
 ###Scheme
 * [Concrete Abstractions: An Introduction to Computer Science Using Scheme](https://gustavus.edu/+max/concrete-abstractions.html)
@@ -1466,8 +1478,9 @@ See also [LaTeX](#latex)
 
 ###Unix
 * [A User's Guide for GNU AWK](http://www.math.utah.edu/docs/info/gawk_toc.html)
+* [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/) - J. Lions
 * [Conquering the Command Line](http://www.conqueringthecommandline.com/)
-
+* [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
 
 ###Vim
 * [A Byte of Vim](http://www.swaroopch.com/notes/Vim)

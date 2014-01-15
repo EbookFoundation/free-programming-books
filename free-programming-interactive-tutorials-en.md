@@ -45,3 +45,6 @@
 * [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
 * [Try Ruby](http://tryruby.org/)
 * [Ruby Koans](http://www.rubykoans.com/)
+
+###Scala
+* [Scala Tour](http://www.scala-tour.com/)

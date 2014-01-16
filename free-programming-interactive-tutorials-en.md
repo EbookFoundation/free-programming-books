@@ -20,6 +20,7 @@
 * [Try Erlang](http://www.tryerlang.org/)
 
 ###Git
+* [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Try Git](http://try.github.io)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 

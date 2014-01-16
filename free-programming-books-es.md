@@ -17,6 +17,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
+    * [node.js](#nodejs)
 * [Java](#java)
 * [LaTeX](#latex)
 * [PHP](#php)
@@ -117,6 +118,10 @@
 
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
+
+####Node.js
+
+* [El Libro para Principiantes en Node.js](http://www.nodebeginner.org/index-es.html)
 
 ###LaTeX
 

@@ -82,6 +82,7 @@
 
 ###Java
 
+* [EJB 3 für Umsteiger: Neuerungen und Änderungen gegenüber dem EJB-2.x-Standard](http://bsd.de/e3fu/umfrage.html) - Heiko W. Rupp
 * [Java 7 Mehr als eine Insel](http://openbook.galileocomputing.de/java7/)
 * [Java ist auch eine Insel](http://openbook.galileocomputing.de/javainsel/)
 * [JSFAtWork, JSF 2.0 und Apache MyFaces](http://jsfatwork.irian.at/book_de/)

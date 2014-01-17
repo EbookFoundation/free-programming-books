@@ -154,6 +154,8 @@
 ###Unix
 
 * [Архитектура операционной системы Unix](http://lib.ru/BACH/)
+* [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
+* [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
 
 ###Vim
 

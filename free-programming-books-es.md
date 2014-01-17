@@ -4,9 +4,10 @@
     * [Algoritmos y Estructuras de Datos](#algoritmos)
     * [Base de Datos](#base-de-datos)
     * [Ciencia Computacional](#ciencia-computacional)
-    * [Sistemas Operativos](#sistemas-operativos)
     * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
-    * [Misceláneos](#miscelaneos)
+    * [Misceláneos](#miscel%C3%A1neos)
+    * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
+    * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [CSS](#CSS)
@@ -56,16 +57,20 @@
 ###Emacs
 * [Emacs: Iniciación a la edición](http://www.rpublica.net/emacs/emacs.html)
 
-####Sistemas Operativos
-* [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
-
 ####Metodologías de desarrollo de software
 * [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 * [Diseño Ágil con TDD](http://www.dirigidoportests.com/el-libro)
-* [Metodologías Ágiles para el Desarrollo de Software] (http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
+* [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
+* [Scrum & Extreme Programming (para programadores)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
 
 ####Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
+
+####Sistemas Operativos
+* [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
+
+####Paradigmas de Programación
+* [Programación Funcional](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
 
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
@@ -146,7 +151,7 @@
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 * [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
 * [Doma de Serpientes para Niños](http://code.google.com/p/swfk-es/)
-* [Python para principiantes](http://librosweb.es/libro/python/)
+* [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
 
 ###Ruby
 

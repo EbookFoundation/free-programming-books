@@ -59,7 +59,7 @@
 ###C
 
 * [Особенности языка C. Учебное пособие](http://younglinux.info/sites/default/files/programmingC.pdf)
-* [Романов Е.Л. - Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/)
+* [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/) - Романов Е.Л.
 
 
 ###CoffeeScript
@@ -164,7 +164,7 @@
 ###Unix
 
 * [Архитектура операционной системы Unix](http://lib.ru/BACH/)
-* [Мошков. М - Введение в системное администрирование UNIX](http://lib.ru/unixhelp/)
+* [Введение в системное администрирование UNIX](http://lib.ru/unixhelp/) - Мошков. М
 
 ###Vim
 

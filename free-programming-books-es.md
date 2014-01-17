@@ -62,7 +62,7 @@
 ####Metodologías de desarrollo de software
 * [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 * [Diseño Ágil con TDD](http://www.dirigidoportests.com/el-libro)
-* [Metodologías Ágiles para el Desarrollo de Software] (http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
+* [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
 
 ####Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
@@ -146,7 +146,7 @@
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 * [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
 * [Doma de Serpientes para Niños](http://code.google.com/p/swfk-es/)
-* [Python para principiantes](http://librosweb.es/libro/python/)
+* [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
 
 ###Ruby
 

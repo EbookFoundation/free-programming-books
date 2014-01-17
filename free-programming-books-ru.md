@@ -8,6 +8,7 @@
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
 * [Erlang](#erlang)
+* [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -76,6 +77,9 @@
 ###Erlang
 * [Программирование на Эрланге](https://github.com/dyp2000/Russian-Armstrong-Erlang) - Джо Армстронг
 
+
+###Haskell
+* [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
 
 ###LaTeX
 

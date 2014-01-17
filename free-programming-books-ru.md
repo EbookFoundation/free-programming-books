@@ -7,6 +7,7 @@
 * [C](#c)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
+* [Erlang](#erlang)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -70,6 +71,10 @@
 
 * [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 * [Pro Git](http://git-scm.com/book/ru)
+
+
+###Erlang
+* [Программирование на Эрланге](https://github.com/dyp2000/Russian-Armstrong-Erlang) - Джо Армстронг
 
 
 ###LaTeX

@@ -795,6 +795,7 @@
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com/) - Miran Lipovaca
 * [Natural Language Processing for the Working Programmer](http://nlpwp.org/book/index.xhtml)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929)
+* [Reactive Objects and Functional Programming](http://staff.www.ltu.se/~nordland/Thesis.pdf) - Johan Nordlander
 * [Real World Haskell](http://book.realworldhaskell.org/)
 * [Speeding Through Haskell](http://www.sthaskell.com/)
 * [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) (PDF)

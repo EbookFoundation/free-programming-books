@@ -1173,6 +1173,8 @@ See also [TeX](#tex)
         * [The Tiny Book of Rules](https://drupal.org/files/tiny-book-of-rules.pdf) (PDF)
         * [Master Drupal in 7 hours](http://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf) (PDF)
     * Drupal 8
+* CakePHP Framework
+    * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf)
 * [PHP Internals Book](http://www.phpinternalsbook.com/)
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [PHP Programming](http://en.wikibooks.org/wiki/PHP_Programming)

@@ -1,6 +1,7 @@
 ###Index
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
+    * [Networking](#networking)
     * [Programming Paradigms](#programming-paradigms)
 * [Assembly](#assembly)
 * [Bash](#bash)
@@ -34,7 +35,13 @@
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
 
+####Networking
+
+* [TCP/IP Крупным планом](http://www.soslan.ru/tcp/)
+
+
 ####Programming Paradigms
+
 * [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison
 * [Практика функционального программирования](http://fprog.ru/) - журнал
 

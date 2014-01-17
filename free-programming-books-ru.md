@@ -59,6 +59,8 @@
 ###C
 
 * [Особенности языка C. Учебное пособие](http://younglinux.info/sites/default/files/programmingC.pdf)
+* [Романов Е.Л. - Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/)
+
 
 ###CoffeeScript
 

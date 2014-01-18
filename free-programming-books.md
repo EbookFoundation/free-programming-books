@@ -161,6 +161,7 @@
 * [IBM Redbooks](http://www.redbooks.ibm.com/)
 * [InfoQ Minibooks](http://www.infoq.com/minibooks/)
 * [InTech: Computer and Information Science](http://www.intechopen.com/subjects/computer-and-information-science)
+* [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
 * [Learn X in Y minutes](http://learnxinyminutes.com/)
 * [Microsoft Press: Free E-Books](http://blogs.msdn.com/b/microsoft_press/archive/2011/03/03/ebooks-list-of-our-free-books.aspx)
 * [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more.aspx)
@@ -173,7 +174,6 @@
 * [Theassayer.org](http://theassayer.org/)
 * [tutorialspoint](http://www.tutorialspoint.com/)
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
-* [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
 
 
 ###Graphics Programming
@@ -217,7 +217,6 @@
 * [Data Structures Succinctly Part 2, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [Open Data Structures: An Introduction](http://www.aupress.ca/index.php/books/120226) - Pat Morin
-* [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://larc.unt.edu/ian/books/free/lnoa.pdf), University of North Texas (PDF)
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
@@ -230,6 +229,7 @@
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) (PDF)
 * [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
+* [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
 * [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/) (fascicles, mostly volume 4) - Donald Knuth
 * [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
@@ -264,9 +264,10 @@
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
 * [Introduction to Data Science](http://jsresearch.net/wiki/projects/teachdatascience/Teach_Data_Science.html) - Jeffrey Stanton
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
+* [School of Data Handbook](http://schoolofdata.org/handbook/)
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
-* [School of Data Handbook](http://schoolofdata.org/handbook/)
+
 
 ####Information Retrieval
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
@@ -601,25 +602,25 @@
 
 ###C++
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
-* [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
-* [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
-* [Financial Numerical Recipes in C++](http://finance.bi.no/~bernt/gcc_prog/recipes/) - Bernt Arne Ødegaard
-* [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
-* [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-* [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
-* [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
-* Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
-* [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
-* [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Learn C++.](http://www.learncpp.com/) (PDF, Online)
-* [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
-* [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
-* [Data Structures and Algorithms with Object-Oriented Design Patterns in C++](http://www.brpreiss.com/books/opus4/index.html)
-* [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
-* [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
+* [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
+* [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
+* [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
+* [Data Structures and Algorithms with Object-Oriented Design Patterns in C++](http://www.brpreiss.com/books/opus4/index.html)
+* [Financial Numerical Recipes in C++](http://finance.bi.no/~bernt/gcc_prog/recipes/) - Bernt Arne Ødegaard
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Google's C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+* [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
+* Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
+* [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
+* [Learn C++.](http://www.learncpp.com/) (PDF, Online)
+* [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
+* [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
+* [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
+* [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
+* [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
+* [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
+* [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 
 ###Clojure
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
@@ -641,9 +642,10 @@
 
 
 ###CoffeeScript
+* [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read)
 * [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
-* [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read)
+
 
 
 ###ColdFusion
@@ -693,10 +695,11 @@
 
 
 ###Erlang
-* [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726/index.html) - J. David Eisenberg
-* [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/) - Frederic Trottier-Hebert
 * [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf)
 * [Erlang Handbook](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
+* [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726/index.html) - J. David Eisenberg
+* [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/) - Frederic Trottier-Hebert
+
 
 
 ###F Sharp

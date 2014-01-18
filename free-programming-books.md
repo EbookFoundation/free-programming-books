@@ -62,6 +62,7 @@
 * [Language Agnostic](#language-agnostic)
     * [Algorithms & Datastructures](#algorithms--data-structures)
     * [Cellular Automata](#cellular-automata)
+    * [Cloud Computing](#cloud-computing)
     * [Compiler Design](#compiler-design)
     * [Database](#database)
     * [Datamining](#datamining)
@@ -235,6 +236,11 @@
 
 ####Cellular Automata
 * [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)
+
+
+####Cloud Computing
+* [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
+
 
 ####Compiler Design
 * [Basics of Compiler Design (Anniversary Edition](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen

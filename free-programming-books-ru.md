@@ -1,6 +1,7 @@
 ###Index
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
+    * [Cloud Computing](#cloud-computing)
     * [Programming Paradigms](#programming-paradigms)
 * [Assembly](#assembly)
 * [Bash](#bash)
@@ -35,6 +36,10 @@
 
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
+
+####Cloud Computing
+* [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
+
 
 ####Programming Paradigms
 * [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison

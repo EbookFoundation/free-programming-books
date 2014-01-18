@@ -1,12 +1,15 @@
 ###Index
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
+    * [Networking](#networking)
     * [Programming Paradigms](#programming-paradigms)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
+* [Erlang](#erlang)
+* [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -33,8 +36,16 @@
 
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
+* [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf)
+* [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В.
+
+####Networking
+
+* [TCP/IP Крупным планом](http://www.soslan.ru/tcp/)
+
 
 ####Programming Paradigms
+
 * [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison
 * [Практика функционального программирования](http://fprog.ru/) - журнал
 
@@ -51,6 +62,8 @@
 ###C
 
 * [Особенности языка C. Учебное пособие](http://younglinux.info/sites/default/files/programmingC.pdf)
+* [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/) - Романов Е.Л.
+
 
 ###CoffeeScript
 
@@ -71,6 +84,13 @@
 * [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 * [Pro Git](http://git-scm.com/book/ru)
 
+
+###Erlang
+* [Программирование на Эрланге](https://github.com/dyp2000/Russian-Armstrong-Erlang) - Джо Армстронг
+
+
+###Haskell
+* [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
 
 ###LaTeX
 
@@ -154,6 +174,7 @@
 ###Unix
 
 * [Архитектура операционной системы Unix](http://lib.ru/BACH/)
+* [Введение в системное администрирование UNIX](http://lib.ru/unixhelp/) - Мошков. М
 
 ###Vim
 

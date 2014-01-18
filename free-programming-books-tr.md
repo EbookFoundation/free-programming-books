@@ -7,30 +7,30 @@
 * [Python](#python)
 * [Java](#java)
 
-###C
 
+###C
 * [C Programlama Diline Giris](http://www1.gantep.edu.tr/~bingul/c/index.php)
 
-###D
 
+###D
 * [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
 
-###Git
 
+###Git
 * [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
 
-###JavaScript
 
+###JavaScript
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
 
-###LaTeX
 
+###LaTeX
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
 
-####Python
 
+####Python
 * [Python ile Programlama](http://belgeler.istihza.com/py3/)
 
-####Java
 
+####Java
 * [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)

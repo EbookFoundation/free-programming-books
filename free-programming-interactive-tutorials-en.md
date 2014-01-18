@@ -31,9 +31,10 @@
 ###NoSQL
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
 
-###Objective-C
 
+###Objective-C
 * [Try Objective-C](http://tryobjectivec.codeschool.com)
+
 
 ###Python
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
@@ -45,6 +46,7 @@
 * [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
 * [Try Ruby](http://tryruby.org/)
 * [Ruby Koans](http://www.rubykoans.com/)
+
 
 ###Scala
 * [Scala Tour](http://www.scala-tour.com/)

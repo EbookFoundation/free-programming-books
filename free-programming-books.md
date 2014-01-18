@@ -1363,6 +1363,7 @@ See also [TeX](#tex)
 * [Another tour of Scala](http://naildrivin5.com/scalatour)
 * [EAI Patterns with Actor Model](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) - Vaughn Vernon
 * [Effective Scala](http://twitter.github.com/effectivescala/)
+* [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Pro Scala: Monadic Design Patterns for the Web](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Program Transformation in Scala](http://homepages.cwi.nl/~ai/MScThesis-A-Izmaylova.pdf) - Anastasia Izmaylova
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)

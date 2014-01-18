@@ -425,6 +425,7 @@
 
 
 ###Scala
+* [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 
 

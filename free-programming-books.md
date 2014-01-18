@@ -398,6 +398,7 @@
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design:The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) (PDF) - Dominic Giampaolo
+* [Xv6, a simple Unix-like teaching operating system](http://pdos.csail.mit.edu/6.828/2012/xv6.html) (PDF)
 
 ####Parallel Programming
 * [High Performance Computing](http://cnx.org/content/col11136/latest) (PDF, ePUB) - Charles Severance & Kevin Dowd

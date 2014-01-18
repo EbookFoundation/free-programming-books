@@ -6,6 +6,7 @@
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
+* [C++](#c-1)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
 * [Erlang](#erlang)
@@ -18,6 +19,7 @@
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Perl](#perl)
+* [PHP](#php)
 * [Python](#python)
 * [PostgreSQL](#postgresql)
 * [R](#r)
@@ -47,22 +49,33 @@
 ####Programming Paradigms
 
 * [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison
-* [Практика функционального программирования](http://fprog.ru/) - журнал
+* [Практика функционального программирования](http://fprog.ru) - журнал
 
 
 ###Assembly
 
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
+* [Ассемблер в Linux для программистов C](http://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
+
 
 ###Bash
 
 * [Advanced Bash-Scripting Guide](http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html)
 
+
 ###C
 
 * [Особенности языка C. Учебное пособие](http://younglinux.info/sites/default/files/programmingC.pdf)
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/) - Романов Е.Л.
+* [Язык Си в примерах](http://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
+
+
+###C++
+
+* [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
+* [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
+* [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
 
 
 ###CoffeeScript
@@ -74,10 +87,13 @@
 
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 
+
 ###JavaScript
 
-* [Современный учебник JavaScript](http://learn.javascript.ru/)
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
+* [Современный учебник JavaScript](http://learn.javascript.ru)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/) - Иво Ветцель
+* [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
+
 
 ###Git
 
@@ -91,6 +107,7 @@
 
 ###Haskell
 * [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
+
 
 ###LaTeX
 
@@ -120,19 +137,24 @@
 
 ###Perl
 
-* [Pragmatic Perl (журнал)](http://pragmaticperl.com/)
+* [Pragmatic Perl (журнал)](http://pragmaticperl.com)
+
+
+###PHP
+* [Руководство по PHP](http://docs.php.net/manual/ru/)
+* [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)
 
 
 ###Python
 
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
-* [Учебник Python 2.6](http://ru.wikibooks.org/wiki/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA_Python_2.6)
+* [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
 
 
 ###PostgreSQL
 
-* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua/)
+* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
 
 
@@ -141,35 +163,44 @@
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
 * [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
 
+
 ###Reverse engineering
 
 * [Введение в reverse engineering для начинающих](https://github.com/dennis714/RE-for-beginners)
 
+
 ###Ruby
 
-* [Круглов А. — Ruby](https://github.com/Krugloff/rus_ruby_book)
+* [Ruby](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
+* [Ruby](http://ru.wikibooks.org/wiki/Ruby) - Викиучебник
+
 
 ###RSpec
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org/ru)
 
+
 ###Ruby on Rails
 
 * [Ruby on Rails Guides](http://rusrails.ru)
-* [Ruby on Rails Tutorial](http://railstutorial.ru/)
+* [Ruby on Rails Tutorial](http://railstutorial.ru)
+
 
 ###Scala
 
 * [Effective Scala](http://twitter.github.io/effectivescala/index-ru.html) - Marius Eriksen
 * [Scala Школа!](http://twitter.github.io/scala_school/ru/) - Twitter
 
+
 ###Scilab
 
 * [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
 * [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
 
+
 ###Smalltalk
 
 * [Смолток: Язык и его реализация](https://sites.google.com/site/polyglotsqueak/) - Адэль Голдберг, Дэвид Робсон
+
 
 ###Unix
 
@@ -178,9 +209,11 @@
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
 * [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
 
+
 ###Vim
 
 * [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
+
 
 ###Parallel
 

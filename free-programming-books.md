@@ -1152,23 +1152,22 @@ See also [TeX](#tex)
 * [Beginning Perl](http://www.perl.org/books/beginning-perl/)
 * [Embedding Perl in HTML with Mason](http://www.masonbook.com/book/)
 * [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.pdf) (PDF)
+* [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)
 * [Extreme Perl](http://www.extremeperl.org/bk/home)
 * [Higher-Order Perl](http://hop.perl.plover.com/book/)
-* [Practical mod_perl](http://modperlbook.org/) - Stas Bekman, Eric Cholet
-* [The Mason Book](http://www.masonbook.com/book/)
+* [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
 * [Mastering Perl](http://chimera.labs.oreilly.com/books/1234000001527) - Bryan D Foy
 * [Modern Perl 5](http://www.onyxneon.com/books/modern_perl/index.html)
+* [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
 * [Perl & LWP](http://lwp.interglacial.com/index.html)
 * [Perl for the Web](http://www.globalspin.com/thebook/)
 * [Perl Free Online EBooks](http://linkmingle.com/list/13-plus-List-of-Free-Great-Perl-Books-available-Online-freebooksandarticles) (meta-list)
-* [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
-* [Practical mod\_perl](http://modperlbook.org/)
-* [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
+* [Practical mod_perl](http://modperlbook.org/) - Stas Bekman, Eric Cholet
 * [Plack Handbook](http://handbook.plackperl.org/)
-* [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)
 * [SDL::Manual Writing Games in Perl](https://github.com/PerlGameDev/SDL_Manual)
+* [The Mason Book](http://www.masonbook.com/book/)
 * [The PDL Book](http://sourceforge.net/projects/pdl/files/PDL_2013/PDL-Book/PDL-Book-20130322.pdf/download) (PDF)
-* [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
+* [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
 
 
 ###PHP

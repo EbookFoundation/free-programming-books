@@ -1360,6 +1360,7 @@ See also [TeX](#tex)
 ###Scala
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
 * [Another tour of Scala](http://naildrivin5.com/scalatour)
+* [EAI Patterns with Actor Model](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) - Vaughn Vernon
 * [Effective Scala](http://twitter.github.com/effectivescala/)
 * [Pro Scala: Monadic Design Patterns for the Web](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Program Transformation in Scala](http://homepages.cwi.nl/~ai/MScThesis-A-Izmaylova.pdf) - Anastasia Izmaylova

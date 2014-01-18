@@ -47,7 +47,7 @@
 ####Programming Paradigms
 
 * [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison
-* [Практика функционального программирования](http://fprog.ru/) - журнал
+* [Практика функционального программирования](http://fprog.ru) - журнал
 
 
 ###Assembly
@@ -76,9 +76,9 @@
 
 ###JavaScript
 
-* [Современный учебник JavaScript](http://learn.javascript.ru/)
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
-* [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru)
+* [Современный учебник JavaScript](http://learn.javascript.ru)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/) - Иво Ветцель
+* [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
 
 ###Git
 
@@ -121,19 +121,19 @@
 
 ###Perl
 
-* [Pragmatic Perl (журнал)](http://pragmaticperl.com/)
+* [Pragmatic Perl (журнал)](http://pragmaticperl.com)
 
 
 ###Python
 
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
-* [Учебник Python 2.6](http://ru.wikibooks.org/wiki/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA_Python_2.6)
+* [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
 
 
 ###PostgreSQL
 
-* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua/)
+* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
 
 
@@ -156,7 +156,7 @@
 ###Ruby on Rails
 
 * [Ruby on Rails Guides](http://rusrails.ru)
-* [Ruby on Rails Tutorial](http://railstutorial.ru/)
+* [Ruby on Rails Tutorial](http://railstutorial.ru)
 
 ###Scala
 

@@ -126,6 +126,7 @@
 
 ####Node.js
 
+* [Introducción a Node.js a través de Koans](http://nodejskoans.com/)
 * [El Libro para Principiantes en Node.js](http://www.nodebeginner.org/index-es.html)
 
 ###LaTeX

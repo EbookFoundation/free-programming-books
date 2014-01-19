@@ -1556,6 +1556,7 @@ See also [LaTeX](#latex)
 * [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/) - J. Lions
 * [Conquering the Command Line](http://www.conqueringthecommandline.com/)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
+* [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/) (HTML)
 
 
 ###Vim

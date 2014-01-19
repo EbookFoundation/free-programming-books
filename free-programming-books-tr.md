@@ -5,6 +5,7 @@
 * [Git](#git)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [Matlab](#matlab)
 * [Python](#python)
 * [Java](#java)
 
@@ -31,6 +32,10 @@
 
 ###LaTeX
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
+ 
+
+###Matlab
+* [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)
 
 
 ####Python

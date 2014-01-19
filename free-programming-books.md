@@ -1340,18 +1340,18 @@ See also [TeX](#tex)
 
 
 ###R
+* [Advanced R Programming](http://adv-r.had.co.nz/)
+* [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) (PDF) - G. Jay Kerns
+* [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
+* [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) (PDF) - Julian J. Faraway
+* [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
+* [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
+* [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
+* [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html) - John D. Cook
+* [R Programming](http://en.wikibooks.org/wiki/R_Programming)
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) (PDF) - Patrick Burns
 * [The R Manuals](http://cran.r-project.org/manuals.html)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
-* [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
-* [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) (PDF) - G. Jay Kerns
-* [Advanced R Programming](http://adv-r.had.co.nz/)
-* [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
-* [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
-* [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
-* [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html) - John D. Cook
-* [R Programming](http://en.wikibooks.org/wiki/R_Programming)
-* [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) (PDF) - Julian J. Faraway
 
 
 ###Racket

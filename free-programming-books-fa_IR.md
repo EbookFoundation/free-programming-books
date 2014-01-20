@@ -3,6 +3,7 @@
   * [آرچ لینوکس](#%D8%A2%D8%B1%DA%86-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3)
 * [CSS](#css)
 * [LaTeX](#latex)
+* [PHP](#php)
 * [R](#r)
 
 
@@ -17,6 +18,10 @@
 
 ###LaTeX
 * [مقدمه‌ای نه چندان کوتاه بر LaTeXε](http://www.ctan.org/tex-archive/info/lshort/persian)
+
+
+###PHP
+* [آموزش فریمورک لاراول](http://laravel.ir/)
 
 
 ###R

@@ -17,7 +17,7 @@
 
 
 ###LaTeX
-* [مقدمه‌ای نه چندان کوتاه بر LaTeXε](http://www.ctan.org/tex-archive/info/lshort/persian)
+* [مقدمه ای نه چندان کوتاه بر LaTeX](http://www.ctan.org/tex-archive/info/lshort/persian)
 
 
 ###PHP

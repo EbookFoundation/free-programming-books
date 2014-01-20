@@ -5,6 +5,7 @@
 * [Git](#git)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [Linux](#linux) 
 * [Matlab](#matlab)
 * [Python](#python)
 * [Java](#java)
@@ -12,6 +13,7 @@
 
 ###C
 * [C Programlama Diline Giris](http://www1.gantep.edu.tr/~bingul/c/index.php)
+* [Sistem Programlama ve İleri C Uygulamaları Kurs Notları](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 
 
 ###D
@@ -33,6 +35,10 @@
 ###LaTeX
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
  
+
+###Linux
+* [UNIX/Linux Sistem Programlama Kurs Notları](http://www.kaanaslan.com/resource/course_note/course_note.php)
+
 
 ###Matlab
 * [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)

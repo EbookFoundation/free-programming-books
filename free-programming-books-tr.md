@@ -40,6 +40,7 @@
 
 ####Python
 * [Python ile Programlama](http://belgeler.istihza.com/py3/)
+* [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf)
 
 
 ####Java

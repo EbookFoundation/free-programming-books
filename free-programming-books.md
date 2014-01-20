@@ -1365,16 +1365,13 @@ See also [TeX](#tex)
 
 ###Ruby
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
-* [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 * [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
 * [How To Think Like a Computer Scientist: Learning With Ruby](http://mysite.verizon.net/hpassel/thinkruby/)
 * [I Love Ruby](http://goo.gl/FW6slH)
 * [Just Enough Ruby to Get By](http://dmtri.com/posts/65)
 * [Learn Ruby the hard way](http://ruby.learncodethehardway.org/book/)
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
-* [The Little Book Of Ruby](http://www.sapphiresteel.com/The-Little-Book-Of-Ruby)
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
-* [Mr. Neighborly's Humble Little Ruby Book](http://humblelittlerubybook.com/book/)
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
 * [Ruby Best Practices](http://majesticseacreature.com/rbp-book/pdfs/rbp_1-0.pdf) (PDF)
 * [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
@@ -1386,8 +1383,10 @@ See also [TeX](#tex)
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [Ruby User's Guide](http://www.linuxtopia.org/online_books/programming_books/ruby_guide/)
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
-* [Try Ruby](http://tryruby.org/)
+* [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
+* [The Little Book Of Ruby](http://www.sapphiresteel.com/The-Little-Book-Of-Ruby)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
+* [Try Ruby](http://tryruby.org/)
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
 
 

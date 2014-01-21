@@ -9,7 +9,6 @@
     * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
     * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
-* [Assembly Language](#assembly-language)
 * [CSS](#CSS)
 * [Coffeescript](#coffeescript)
 * [C++](#c)
@@ -85,10 +84,6 @@
 
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
-
-
-###Assembly Language
-* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 
 
 ###CSS

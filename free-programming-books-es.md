@@ -120,6 +120,7 @@
 
 ###Haskell
 * [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)
+* [Piensa en Haskell (ejercicios de programación funcional con Haskell)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf)
 
 
 ###Java

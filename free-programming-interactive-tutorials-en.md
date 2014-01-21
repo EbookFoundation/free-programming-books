@@ -89,10 +89,10 @@
 
 
 ###Ruby
-* [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
 * [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
-* [Try Ruby](http://tryruby.org/)
 * [Ruby Koans](http://www.rubykoans.com/)
+* [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+* [Try Ruby](http://tryruby.org/)
 
 
 ###Scala

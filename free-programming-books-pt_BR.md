@@ -46,6 +46,8 @@
 ###JavaScript
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
 * [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
+* [Eloquent Javascript PT-BR](https://leanpub.com/eloquentejavascript)
+* [Aprendendo Padrões de Projeto JavaScript PT-BR](https://leanpub.com/aprendendo-padroes-de-projeto-javascript)
 
 
 ###LaTeX

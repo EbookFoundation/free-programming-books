@@ -6,8 +6,8 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
-* [PHP](#php)
 * [Matlab](#matlab)
+* [PHP](#php)
 * [Python](#python)
 * [Java](#java)
 
@@ -40,13 +40,12 @@
 ###Linux
 * [UNIX/Linux Sistem Programlama Kurs Notları](http://www.kaanaslan.com/resource/course_note/course_note.php)
 
-###PHP
-
-* [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
 
 ###Matlab
 * [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)
 
+###PHP
+* [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
 
 ####Python
 * [Python ile Programlama](http://belgeler.istihza.com/py3/)

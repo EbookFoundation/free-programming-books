@@ -2,6 +2,7 @@
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
     * [Networking](#networking)
+    * [Open Source Ecosystem](#open-source-ecosystem)
     * [Programming Paradigms](#programming-paradigms)
 * [Assembly](#assembly)
 * [Bash](#bash)
@@ -44,6 +45,10 @@
 
 ####Networking
 * [TCP/IP Крупным планом](http://www.soslan.ru/tcp/)
+
+
+####Open Source Ecosytem
+* [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
 
 
 ####Programming Paradigms

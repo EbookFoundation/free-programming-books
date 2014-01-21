@@ -26,8 +26,8 @@
 
 ###Git
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
-* [Try Git](http://try.github.io)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+* [Try Git](http://try.github.io)
 
 
 ###Go
@@ -89,10 +89,10 @@
 
 
 ###Ruby
-* [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
 * [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
-* [Try Ruby](http://tryruby.org/)
 * [Ruby Koans](http://www.rubykoans.com/)
+* [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+* [Try Ruby](http://tryruby.org/)
 
 
 ###Scala

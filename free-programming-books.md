@@ -139,6 +139,7 @@
 * [Tcl](#tcl)
 * [Teradata](#teradata)
 * [TeX](#tex)
+* [Tizen](#tizen)
 * [TypeScript](#typescript)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -1544,6 +1545,9 @@ See also [TeX](#tex)
 * [The Computer Science of TeX and LaTeX](http://eijkhout.net/texsci/), by Victor Eijkhout
 
 See also [LaTeX](#latex)
+
+###Tizen
+* [Tizen for Dummies](https://developer.tizen.org/sites/default/files/blogs/tizenfordummiesmainchangelist.pdf) (PDF) by Jon Lansdell, Cheng Luo, Michelle Somersville
 
 
 ###TypeScript

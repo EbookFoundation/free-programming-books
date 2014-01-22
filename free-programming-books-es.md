@@ -4,11 +4,11 @@
     * [Algoritmos y Estructuras de Datos](#algoritmos)
     * [Base de Datos](#base-de-datos)
     * [Ciencia Computacional](#ciencia-computacional)
-    * [Sistemas Operativos](#sistemas-operativos)
     * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
-    * [Misceláneos](#miscelaneos)
+    * [Misceláneos](#miscel%C3%A1neos)
+    * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
+    * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
-* [Assembly Language](#assembly-language)
 * [CSS](#CSS)
 * [Coffeescript](#coffeescript)
 * [C++](#c)
@@ -17,6 +17,8 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
+    * [jQuery] (#jquery) 
+    * [node.js](#nodejs)
 * [Java](#java)
 * [LaTeX](#latex)
 * [PHP](#php)
@@ -25,14 +27,14 @@
 * [Ruby on Rails](#ruby-on-rails)
 * [R](#R)
 
-###Metalistas
 
+###Metalistas
 * [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
 * [CodeHero](http://codehero.co/)
 * [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
 
-###Agnosticos
 
+###Agnosticos
 ####Algoritmos
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Análisis de Algoritmos](http://docencia.izt.uam.mx/pece/pagina_academica/AA/indexa.html)
@@ -40,6 +42,8 @@
 * [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Técnicas de Diseño de Algoritmos ](http://www.lcc.uma.es/~av/Libro/indice.html) ([PDF](http://www.lcc.uma.es/%7eav/Libro/Libro.zip))
 * [Temas selectos de estructuras de datos](http://www.matematicas.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
+* [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos)
+
 
 ####Base de Datos
 * [El modelo relacional y el álgebra relacional](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02148.pdf) (PDF)
@@ -47,29 +51,40 @@
 * [Base de Datos, por Mercedes Marqués](http://www.uji.es/bin/publ/edicions/bdatos.pdf) (PDF)
 * [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf) (PDF)
 
+
 ####Ciencia Computacional
 * [Breves Notas sobre Teoría de la Computación](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 * [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
 
+
 ###Emacs
 * [Emacs: Iniciación a la edición](http://www.rpublica.net/emacs/emacs.html)
+
 
 ####Sistemas Operativos
 * [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
 
+
 ####Metodologías de desarrollo de software
-* [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf)
+* [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 * [Diseño Ágil con TDD](http://www.dirigidoportests.com/el-libro)
+* [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
+* [Scrum & Extreme Programming (para programadores)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
+
 
 ####Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
 
+
+####Sistemas Operativos
+* [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
+
+####Paradigmas de Programación
+* [Programación Funcional](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
+
+
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
-
-###Assembly Language
-
-* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 
 
 ###CSS
@@ -82,28 +97,29 @@
 ###Coffeescript
 * [Coffeescript, un pequeño gran libro – Javi Jiménez](https://leanpub.com/coffeescript)
 
+
 ###C++
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
 
-###Ensamblador
 
+###Ensamblador
 * [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)
 * [Codigo de Maquina para Principiantes](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF), Lisa Watts y Mike Wharton [Z80 and 6502 CPUs]
 
 
 ###Git
-
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
 * [Pro Git](http://git-scm.com/book/es)
 * [Git Immersion en Español](http://gitimmersion.mx)
 * [Librosweb Git](http://librosweb.es/pro_git/)
 
-###Haskell
 
+###Haskell
 * [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)
+* [Piensa en Haskell (ejercicios de programación funcional con Haskell)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf)
+
 
 ###Java
-
 * [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf), por Jorge L. Ortega Arjona, UNAM (PDF)
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com/)
 * [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf) (PDF)
@@ -111,20 +127,35 @@
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
 
-###JavaScript
 
+###JavaScript
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
 
-###LaTeX
 
+####jQuery
+* [Fundamentos de jQuery](http://librojquery.com/)
+
+
+####Node.js
+* [Introducción a Node.js a través de Koans](http://nodejskoans.com/)
+* [El Libro para Principiantes en Node.js](http://www.nodebeginner.org/index-es.html)
+
+
+###LaTeX
 * [La introducción no-tan-corta a LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/spanish)
+
 
 ###PHP
 * [Manual de PHP (forosdelweb.com)](http://www.forosdelweb.com/wiki/Manual_de_PHP)
+* [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
+* [Silex, el manual oficial](http://librosweb.es/silex/)
+* [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
+* [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)
+* [Manual de estudio introductorio al lenguaje PHP procedural](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf)
+
 
 ###Python
-
 * [Aprenda a pensar como un programador (con Python)](http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://www.biblioteca-digital.net.ve/wordpress/wp-content/uploads/2009/09/swfk-es-linux-0.0.2.pdf) (PDF)
 * [El tutorial de Python](http://tutorialpython.com.ar)
@@ -135,16 +166,17 @@
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 * [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
 * [Doma de Serpientes para Niños](http://code.google.com/p/swfk-es/)
-* [Python para principiantes](http://librosweb.es/libro/python/)
+* [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
+
 
 ###Ruby
-
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
 
-###Ruby on Rails
 
+###Ruby on Rails
 * [El maldito libro de los Descarrilados](http://yottabi.com/mld.pdf) (PDF)
+
 
 ###R
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)

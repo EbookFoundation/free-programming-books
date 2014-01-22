@@ -16,7 +16,7 @@ TODO
 + ☐ : Alphabetizing the entries in the pages
     + ☐ : bg
     + ☐ : de
-    + ☐ : es
+    + ☑ : es
     + ☐ : en
     + ☑ : fa_IR
     + ☐ : fr

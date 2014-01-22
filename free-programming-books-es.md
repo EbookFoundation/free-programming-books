@@ -18,6 +18,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
+    * [jQuery] (#jquery) 
     * [node.js](#nodejs)
 * [Java](#java)
 * [LaTeX](#latex)
@@ -120,6 +121,7 @@
 
 ###Haskell
 * [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)
+* [Piensa en Haskell (ejercicios de programación funcional con Haskell)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf)
 
 
 ###Java
@@ -134,6 +136,10 @@
 ###JavaScript
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
+
+
+####jQuery
+* [Fundamentos de jQuery](http://librojquery.com/)
 
 
 ####Node.js
@@ -151,6 +157,7 @@
 * [Silex, el manual oficial](http://librosweb.es/silex/)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)
+* [Manual de estudio introductorio al lenguaje PHP procedural](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf)
 
 
 ###Python

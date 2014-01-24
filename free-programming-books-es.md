@@ -17,7 +17,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
-    * [jQuery] (#jquery) 
+    * [jQuery] (#jquery)
     * [node.js](#nodejs)
 * [Java](#java)
 * [LaTeX](#latex)
@@ -167,6 +167,7 @@
 * [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
 * [Doma de Serpientes para Niños](http://code.google.com/p/swfk-es/)
 * [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
+* [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
 
 
 ###Ruby

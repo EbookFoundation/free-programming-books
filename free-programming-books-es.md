@@ -6,6 +6,7 @@
     * [Ciencia Computacional](#ciencia-computacional)
     * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
     * [Misceláneos](#miscel%C3%A1neos)
+    * [Cursos Masivos en Línea](#cursos-masivos-en-L%C3%ADnea)
     * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
     * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
@@ -17,7 +18,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
-    * [jQuery] (#jquery)
+    * [jQuery](#jquery)
     * [node.js](#nodejs)
 * [Java](#java)
 * [LaTeX](#latex)
@@ -75,6 +76,8 @@
 ####Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
 
+####Cursos Masivos en Línea
+* [MIT Opencourseware en Español](http://mit.ocw.universia.net/)
 
 ####Sistemas Operativos
 * [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)

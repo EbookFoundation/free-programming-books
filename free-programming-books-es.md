@@ -9,7 +9,6 @@
     * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
     * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
-* [Assembly Language](#assembly-language)
 * [CSS](#CSS)
 * [Coffeescript](#coffeescript)
 * [C++](#c)
@@ -18,7 +17,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
-    * [jQuery] (#jquery) 
+    * [jQuery] (#jquery)
     * [node.js](#nodejs)
 * [Java](#java)
 * [LaTeX](#latex)
@@ -86,10 +85,6 @@
 
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
-
-
-###Assembly Language
-* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 
 
 ###CSS
@@ -172,6 +167,7 @@
 * [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
 * [Doma de Serpientes para Niños](http://code.google.com/p/swfk-es/)
 * [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
+* [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
 
 
 ###Ruby

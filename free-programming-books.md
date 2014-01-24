@@ -139,6 +139,7 @@
 * [Tcl](#tcl)
 * [Teradata](#teradata)
 * [TeX](#tex)
+* [Tizen](#tizen)
 * [TypeScript](#typescript)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -1289,6 +1290,7 @@ See also [TeX](#tex)
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers
     * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Introduction to Programming Using Python](http://python-ebook.blogspot.com) - Cody Jackson
+* [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/)
 * [Introduction to python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
@@ -1328,7 +1330,6 @@ See also [TeX](#tex)
 * [Django by Example](http://www.lightbird.net/dbe/)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
 * [Effective Django](http://effectivedjango.com/)
-* [Tango With Django](http://www.tangowithdjango.com/book/)
 * [Deploy Django](http://www.deploydjango.com)
 * [The Django Book](http://www.djangobook.com)
 * [Tango With Django](http://www.tangowithdjango.com/)
@@ -1544,6 +1545,9 @@ See also [TeX](#tex)
 * [The Computer Science of TeX and LaTeX](http://eijkhout.net/texsci/), by Victor Eijkhout
 
 See also [LaTeX](#latex)
+
+###Tizen
+* [Tizen for Dummies](https://developer.tizen.org/sites/default/files/blogs/tizenfordummiesmainchangelist.pdf) (PDF) by Jon Lansdell, Cheng Luo, Michelle Somersville
 
 
 ###TypeScript

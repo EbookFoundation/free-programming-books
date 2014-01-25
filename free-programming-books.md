@@ -303,6 +303,10 @@
 * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The Python Game Book](http://thepythongamebook.com/en:start)
+* [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
+* [Introduction to Machine Learning](http://arxiv.org/abs/0904.3664v1)
+* [Machine Learning](http://www.intechopen.com/books/machine_learning)
+* [Inductive Logic Programming](http://www-ai.ijs.si/SasoDzeroski/ILPBook/)
 
 
 ####Mathematics

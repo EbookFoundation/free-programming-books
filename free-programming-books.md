@@ -269,7 +269,6 @@
 * [Introduction to Data Science](http://jsresearch.net/wiki/projects/teachdatascience/Teach_Data_Science.html) - Jeffrey Stanton
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
 * [School of Data Handbook](http://schoolofdata.org/handbook/)
-* [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
 
 
@@ -289,6 +288,7 @@
 * [A Course in Machine Learning](http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf) (PDF)
 * [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) (PDF)
 * [AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java](http://wps.aw.com/wps/media/objects/5771/5909832/PDF/Luger_0136070477_1.pdf) - George F. Luger, William A Stubblefield
+* [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 * [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
@@ -301,6 +301,7 @@
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+* [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The Python Game Book](http://thepythongamebook.com/en:start)
 
 

@@ -797,11 +797,11 @@
 
 
 ###Go
-* [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
+* [An Introduction to Programming in Go](http://www.golang-book.com/)
 * [Go by Example](https://gobyexample.com/)
 * [Learning Go](http://archive.miek.nl/projects/learninggo/index.html)
-* [An Introduction to Programming in Go](http://www.golang-book.com/)
 * [Network programming with Go](http://jan.newmarch.name/go/)
+* [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
 
 
 ###Gradle

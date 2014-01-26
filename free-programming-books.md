@@ -62,6 +62,7 @@
 * [Language Agnostic](#language-agnostic)
     * [Algorithms & Datastructures](#algorithms--data-structures)
     * [Cellular Automata](#cellular-automata)
+    * [Cloud Computing](#cloud-computing)
     * [Compiler Design](#compiler-design)
     * [Database](#database)
     * [Datamining](#datamining)
@@ -237,6 +238,10 @@
 
 ####Cellular Automata
 * [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)
+
+
+####Cloud Computing
+* [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
 
 
 ####Compiler Design
@@ -1430,6 +1435,7 @@ See also [TeX](#tex)
 * [Another tour of Scala](http://naildrivin5.com/scalatour)
 * [EAI Patterns with Actor Model](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) - Vaughn Vernon
 * [Effective Scala](http://twitter.github.com/effectivescala/)
+* [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Pro Scala: Monadic Design Patterns for the Web](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Program Transformation in Scala](http://homepages.cwi.nl/~ai/MScThesis-A-Izmaylova.pdf) - Anastasia Izmaylova
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)

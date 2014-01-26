@@ -1,6 +1,7 @@
 ###Index
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
+    * [Cloud Computing](#cloud-computing)
     * [Networking](#networking)
     * [Open Source Ecosystem](#open-source-ecosystem)
     * [Programming Paradigms](#programming-paradigms)
@@ -49,6 +50,10 @@
 
 ####Open Source Ecosytem
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
+
+
+####Cloud Computing
+* [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
 
 
 ####Programming Paradigms

@@ -24,6 +24,10 @@
 * [Try Erlang](http://www.tryerlang.org/)
 
 
+###F#
+* [Try F#](http://www.tryfsharp.org/)
+
+
 ###Git
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)

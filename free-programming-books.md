@@ -108,6 +108,7 @@
 * [PC-BSD](#pc-bsd)
 * [Perl](#perl)
 * [PHP](#php)
+* [PicoLisp](#PicoLisp)
 * [PostgreSQL](#postgresql)
 * [PowerShell](#powershell)
 * [Processing](#processing)
@@ -1249,6 +1250,11 @@ See also [TeX](#tex)
 * [Practical Php Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf)
+
+
+###PicoLisp
+* [PicoLisp by Example](http://www.scribd.com/doc/103733857/PicoLisp-by-Example)
+* [PicoLisp Works](http://www.scribd.com/doc/103732688/PicoLisp-Works)
 
 
 ###PostgreSQL

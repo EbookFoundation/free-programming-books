@@ -1196,6 +1196,7 @@ See also [TeX](#tex)
 
 ###Parrot / Perl 6
 * [Using Perl 6](http://github.com/perl6/book/) (work in progress)
+* [Perl 6 Programming] (https://en.wikibooks.org/wiki/Perl_6_Programming)
 
 
 ###PC-BSD

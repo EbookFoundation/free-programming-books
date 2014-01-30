@@ -108,7 +108,7 @@
 * [PC-BSD](#pc-bsd)
 * [Perl](#perl)
 * [PHP](#php)
-* [PicoLisp](#PicoLisp)
+* [PicoLisp](#picolisp)
 * [PostgreSQL](#postgresql)
 * [PowerShell](#powershell)
 * [Processing](#processing)

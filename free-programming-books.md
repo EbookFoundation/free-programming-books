@@ -983,9 +983,9 @@
 
 
 ####D3.js
-* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
 * [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
+* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 
@@ -998,8 +998,8 @@
 
 
 ####jQuery
-* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
+* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ####Knockout.js
@@ -1007,11 +1007,11 @@
 
 
 ####Node.js
+* [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*
 * [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
 * [Mixu's Node Book](http://book.mixu.net/node/)
-* [The Node Beginner Book](http://nodebeginner.org/)
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
-* [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*
+* [The Node Beginner Book](http://nodebeginner.org/)
 
 
 ###LaTeX

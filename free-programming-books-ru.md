@@ -19,6 +19,7 @@
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MetaPost](#metapost)
+* [Misc](#misc)
 * [NoSQL](#nosql)
 * [Perl](#perl)
 * [PHP](#php)
@@ -126,6 +127,9 @@
 ###MetaPost
 * [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
 
+###Misc
+
+* [Не мешайте мне работать!](http://motivateme.ru/book/) - Стас Давыдов
 
 ###NoSQL
 * [Маленькая книга о MongoDB](http://jsman.ru/mongo-book/index.html)

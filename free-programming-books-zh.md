@@ -46,6 +46,7 @@
 
 ###Javascript
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+* [Javascript 原理](http://typeof.net/s/jsmech/), by Belleve Invis. 
 
 
 ###LaTeX

@@ -128,7 +128,6 @@
 * [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
 
 ###Misc
-
 * [Не мешайте мне работать!](http://motivateme.ru/book/) - Стас Давыдов
 
 ###NoSQL

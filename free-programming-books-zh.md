@@ -59,6 +59,7 @@
 
 ### Haskell
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
+* [Haskell 趣学指南](http://learnyouahaskell-zh-tw.csie.org/)
 
 
 ### Scala

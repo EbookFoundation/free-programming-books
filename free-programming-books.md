@@ -975,11 +975,12 @@
 
 
 ####Backbone.js
-* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis
-* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
-* [Backbonejs Tutorials](http://backbonetutorials.com/)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/)
+* [Backbonejs Tutorials](http://backbonetutorials.com/)
+* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis
+* [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com/) (work in progress)
+* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 
 
 ####D3.js

@@ -4,9 +4,9 @@
     * [Algoritmos y Estructuras de Datos](#algoritmos)
     * [Base de Datos](#base-de-datos)
     * [Ciencia Computacional](#ciencia-computacional)
+    * [Cursos Masivos en Línea](#cursos-masivos-en-L%C3%ADnea)
     * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
     * [Misceláneos](#miscel%C3%A1neos)
-    * [Cursos Masivos en Línea](#cursos-masivos-en-L%C3%ADnea)
     * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
     * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
@@ -57,14 +57,8 @@
 * [Breves Notas sobre Teoría de la Computación](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 * [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
 
-
-###Emacs
-* [Emacs: Iniciación a la edición](http://www.rpublica.net/emacs/emacs.html)
-
-
-####Sistemas Operativos
-* [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
-
+####Cursos Masivos en Línea
+* [MIT Opencourseware en Español](http://mit.ocw.universia.net/)
 
 ####Metodologías de desarrollo de software
 * [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
@@ -72,18 +66,15 @@
 * [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
 * [Scrum & Extreme Programming (para programadores)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
 
-
 ####Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
 
-####Cursos Masivos en Línea
-* [MIT Opencourseware en Español](http://mit.ocw.universia.net/)
-
-####Sistemas Operativos
-* [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
 
 ####Paradigmas de Programación
 * [Programación Funcional](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
+
+####Sistemas Operativos
+* [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
 
 
 ###Android
@@ -104,6 +95,8 @@
 ###C++
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
 
+###Emacs
+* [Emacs: Iniciación a la edición](http://www.rpublica.net/emacs/emacs.html)
 
 ###Ensamblador
 * [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)

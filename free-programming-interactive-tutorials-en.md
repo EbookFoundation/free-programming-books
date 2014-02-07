@@ -24,6 +24,10 @@
 * [Try Erlang](http://www.tryerlang.org/)
 
 
+###F#
+* [Try F#](http://www.tryfsharp.org/)
+
+
 ###Git
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
@@ -42,7 +46,7 @@
 * [Learn Java](http://www.learnjavaonline.org/)
 
 
-###Javascript
+###JavaScript
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)

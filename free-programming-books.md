@@ -62,6 +62,7 @@
 * [Language Agnostic](#language-agnostic)
     * [Algorithms & Datastructures](#algorithms--data-structures)
     * [Cellular Automata](#cellular-automata)
+    * [Cloud Computing](#cloud-computing)
     * [Compiler Design](#compiler-design)
     * [Database](#database)
     * [Datamining](#datamining)
@@ -107,6 +108,7 @@
 * [PC-BSD](#pc-bsd)
 * [Perl](#perl)
 * [PHP](#php)
+* [PicoLisp](#picolisp)
 * [PostgreSQL](#postgresql)
 * [PowerShell](#powershell)
 * [Processing](#processing)
@@ -239,6 +241,10 @@
 * [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)
 
 
+####Cloud Computing
+* [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
+
+
 ####Compiler Design
 * [Basics of Compiler Design (Anniversary Edition](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
 * [Compilers and Compiler Generators: An Introduction with C++](http://www.scifac.ru.ac.za/compilers/) - P. D. Terry
@@ -269,7 +275,6 @@
 * [Introduction to Data Science](http://jsresearch.net/wiki/projects/teachdatascience/Teach_Data_Science.html) - Jeffrey Stanton
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
 * [School of Data Handbook](http://schoolofdata.org/handbook/)
-* [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
 
 
@@ -289,6 +294,7 @@
 * [A Course in Machine Learning](http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf) (PDF)
 * [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) (PDF)
 * [AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java](http://wps.aw.com/wps/media/objects/5771/5909832/PDF/Luger_0136070477_1.pdf) - George F. Luger, William A Stubblefield
+* [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 * [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
@@ -301,7 +307,12 @@
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+* [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The Python Game Book](http://thepythongamebook.com/en:start)
+* [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
+* [Introduction to Machine Learning](http://arxiv.org/abs/0904.3664v1)
+* [Machine Learning](http://www.intechopen.com/books/machine_learning)
+* [Inductive Logic Programming](http://www-ai.ijs.si/SasoDzeroski/ILPBook/)
 
 
 ####Mathematics
@@ -797,11 +808,11 @@
 
 
 ###Go
-* [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
-* [Go by Example](https://gobyexample.com/)
-* [Learning Go](http://www.miek.nl/projects/learninggo/)
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
+* [Go by Example](https://gobyexample.com/)
+* [Learning Go](http://archive.miek.nl/projects/learninggo/index.html)
 * [Network programming with Go](http://jan.newmarch.name/go/)
+* [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
 
 
 ###Gradle
@@ -886,6 +897,7 @@
 
 
 ###Java
+* [Agile Java](http://www.langrsoft.com/ftp/agileJava/) - Jeff Langr
 * [Animation/Games in Java](http://www.heatonresearch.com/articles/series/3)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
@@ -940,6 +952,7 @@
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
 * [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Javascript the Right Way](https://github.com/braziljs/js-the-right-way)
 * [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf)
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
 * [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks) - Malcolm Maclean
@@ -970,9 +983,9 @@
 
 
 ####D3.js
-* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
 * [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
+* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 
@@ -985,8 +998,8 @@
 
 
 ####jQuery
-* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
+* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ####Knockout.js
@@ -994,11 +1007,11 @@
 
 
 ####Node.js
+* [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*
 * [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
 * [Mixu's Node Book](http://book.mixu.net/node/)
-* [The Node Beginner Book](http://nodebeginner.org/)
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
-* [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*
+* [The Node Beginner Book](http://nodebeginner.org/)
 
 
 ###LaTeX
@@ -1185,6 +1198,7 @@ See also [TeX](#tex)
 
 ###Parrot / Perl 6
 * [Using Perl 6](http://github.com/perl6/book/) (work in progress)
+* [Perl 6 Programming] (https://en.wikibooks.org/wiki/Perl_6_Programming)
 
 
 ###PC-BSD
@@ -1237,6 +1251,11 @@ See also [TeX](#tex)
 * [Practical Php Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf)
+
+
+###PicoLisp
+* [PicoLisp by Example](http://www.scribd.com/doc/103733857/PicoLisp-by-Example)
+* [PicoLisp Works](http://www.scribd.com/doc/103732688/PicoLisp-Works)
 
 
 ###PostgreSQL
@@ -1330,7 +1349,6 @@ See also [TeX](#tex)
 * [Django by Example](http://www.lightbird.net/dbe/)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
 * [Effective Django](http://effectivedjango.com/)
-* [Tango With Django](http://www.tangowithdjango.com/book/)
 * [Deploy Django](http://www.deploydjango.com)
 * [The Django Book](http://www.djangobook.com)
 * [Tango With Django](http://www.tangowithdjango.com/)
@@ -1426,6 +1444,7 @@ See also [TeX](#tex)
 * [Another tour of Scala](http://naildrivin5.com/scalatour)
 * [EAI Patterns with Actor Model](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) - Vaughn Vernon
 * [Effective Scala](http://twitter.github.com/effectivescala/)
+* [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Pro Scala: Monadic Design Patterns for the Web](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Program Transformation in Scala](http://homepages.cwi.nl/~ai/MScThesis-A-Izmaylova.pdf) - Anastasia Izmaylova
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)

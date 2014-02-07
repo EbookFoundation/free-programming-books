@@ -1,6 +1,7 @@
 ###Index
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
+    * [Cloud Computing](#cloud-computing)
     * [Networking](#networking)
     * [Open Source Ecosystem](#open-source-ecosystem)
     * [Programming Paradigms](#programming-paradigms)
@@ -18,6 +19,7 @@
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MetaPost](#metapost)
+* [Misc](#misc)
 * [NoSQL](#nosql)
 * [Perl](#perl)
 * [PHP](#php)
@@ -49,6 +51,10 @@
 
 ####Open Source Ecosytem
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
+
+
+####Cloud Computing
+* [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
 
 
 ####Programming Paradigms
@@ -121,6 +127,8 @@
 ###MetaPost
 * [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
 
+###Misc
+* [Не мешайте мне работать!](http://motivateme.ru/book/) - Стас Давыдов
 
 ###NoSQL
 * [Маленькая книга о MongoDB](http://jsman.ru/mongo-book/index.html)

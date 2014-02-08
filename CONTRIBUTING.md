@@ -4,7 +4,7 @@ This guide details how to contribute to this repository.
 
 
 ## Contributor license agreement
-By submitting code you agree to the [LICENCE](/LICENSE) of this repository.
+By submitting code you agree to the [LICENSE](/LICENSE) of this repository.
 
 
 ## Everyone is welcome to add a new free book to the list

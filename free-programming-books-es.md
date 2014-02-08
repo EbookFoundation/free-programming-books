@@ -17,7 +17,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
-    * [jQuery] (#jquery)
+    * [jQuery](#jquery)
     * [node.js](#nodejs)
 * [Java](#java)
 * [LaTeX](#latex)
@@ -129,6 +129,7 @@
 
 
 ###JavaScript
+* [Introducción a AJAX](http://librosweb.es/ajax/)
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
 
@@ -138,8 +139,8 @@
 
 
 ####Node.js
-* [Introducción a Node.js a través de Koans](http://nodejskoans.com/)
 * [El Libro para Principiantes en Node.js](http://www.nodebeginner.org/index-es.html)
+* [Introducción a Node.js a través de Koans](http://nodejskoans.com/)
 
 
 ###LaTeX
@@ -147,12 +148,12 @@
 
 
 ###PHP
+* [Manual de estudio introductorio al lenguaje PHP procedural](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf)
 * [Manual de PHP (forosdelweb.com)](http://www.forosdelweb.com/wiki/Manual_de_PHP)
-* [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
+* [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)
 * [Silex, el manual oficial](http://librosweb.es/silex/)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
-* [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)
-* [Manual de estudio introductorio al lenguaje PHP procedural](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf)
+* [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
 
 
 ###Python

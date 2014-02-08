@@ -10,6 +10,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [SQL](#sql)
 
 
 ###Niezależne od języka programowania
@@ -22,12 +23,14 @@
 
 ###C
 * [Programowanie w C](http://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf)
+* [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/more_advanced/programing/c_cpp/)
 
 
 ###C++
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1)
 * [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
 * [OpenGL w C++](http://cpp0x.pl/kursy/Kurs-OpenGL-C++/)
+* [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
 
 
 ###Common Lisp
@@ -58,7 +61,12 @@
 ###Python
 * [Ukąś Pythona](http://python.edu.pl/byteofpython/index.html)
 * [Zanurkuj w Pythonie](http://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
+* [Biblioteka Pythona](http://www.python.rk.edu.pl/)
 
 
 ###Ruby
 * [Ruby](http://pl.wikibooks.org/wiki/Ruby)
+
+
+###SQL
+* [SQL i PL/SQL – podstawy](http://jsystems.pl/storage/sqlplsql1.pdf)

@@ -57,14 +57,17 @@
 * [Breves Notas sobre Teoría de la Computación](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 * [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
 
+
 ####Cursos Masivos en Línea
 * [MIT Opencourseware en Español](http://mit.ocw.universia.net/)
+
 
 ####Metodologías de desarrollo de software
 * [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 * [Diseño Ágil con TDD](http://www.dirigidoportests.com/el-libro)
 * [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
 * [Scrum & Extreme Programming (para programadores)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
+
 
 ####Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
@@ -95,8 +98,10 @@
 ###C++
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
 
+
 ###Emacs
 * [Emacs: Iniciación a la edición](http://www.rpublica.net/emacs/emacs.html)
+
 
 ###Ensamblador
 * [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)

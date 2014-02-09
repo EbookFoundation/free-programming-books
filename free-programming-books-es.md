@@ -4,6 +4,7 @@
     * [Algoritmos y Estructuras de Datos](#algoritmos)
     * [Base de Datos](#base-de-datos)
     * [Ciencia Computacional](#ciencia-computacional)
+    * [Cursos Masivos en Línea](#cursos-masivos-en-L%C3%ADnea)
     * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
     * [Misceláneos](#miscel%C3%A1neos)
     * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
@@ -57,12 +58,8 @@
 * [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
 
 
-###Emacs
-* [Emacs: Iniciación a la edición](http://www.rpublica.net/emacs/emacs.html)
-
-
-####Sistemas Operativos
-* [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
+####Cursos Masivos en Línea
+* [MIT Opencourseware en Español](http://mit.ocw.universia.net/)
 
 
 ####Metodologías de desarrollo de software
@@ -76,11 +73,11 @@
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
 
 
-####Sistemas Operativos
-* [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
-
 ####Paradigmas de Programación
 * [Programación Funcional](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
+
+####Sistemas Operativos
+* [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
 
 
 ###Android
@@ -100,6 +97,10 @@
 
 ###C++
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
+
+
+###Emacs
+* [Emacs: Iniciación a la edición](http://www.rpublica.net/emacs/emacs.html)
 
 
 ###Ensamblador

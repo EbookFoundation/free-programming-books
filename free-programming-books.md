@@ -791,20 +791,20 @@
 
 
 ###Git
-* [Pro Git](http://git-scm.com/book) - Scott Chacon
-* [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
+* [Conversational Git](http://blog.anvard.org/conversational-git/)
+* [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 * [Git Immersion](http://gitimmersion.com)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) (PDF)
+* [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 * [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html) - Richard E. Silverman
 * [Git Reference](http://www.gitref.org)
-* [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
 * [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
+* [Pro Git](http://git-scm.com/book) - Scott Chacon
+* [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
-* [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
-* [Conversational Git](http://blog.anvard.org/conversational-git/)
-* [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
+* [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
 
 
 ###Go

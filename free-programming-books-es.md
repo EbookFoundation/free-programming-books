@@ -13,6 +13,7 @@
 * [CSS](#CSS)
 * [Coffeescript](#coffeescript)
 * [C++](#c)
+* [Django](#django)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Git](#git)
@@ -97,6 +98,10 @@
 
 ###C++
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
+
+
+###Django
+* [El libro de Django 1.0](http://django-book.mkaufmann.com.ar/)
 
 
 ###Emacs

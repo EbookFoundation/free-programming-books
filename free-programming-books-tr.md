@@ -10,7 +10,7 @@
 * [Matlab](#matlab)
 * [PHP](#php)
 * [Python](#python)
-
+* [Rust](#rust)
 
 ###C
 * [C Programlama Diline Giris](http://www1.gantep.edu.tr/~bingul/c/index.php)
@@ -52,3 +52,6 @@
 ###Python
 * [Python ile Programlama](http://belgeler.istihza.com/py3/)
 * [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf)
+
+###Rust
+* [Rust'a Giriş](http://bit.ly/rustagiris)

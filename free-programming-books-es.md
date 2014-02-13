@@ -47,9 +47,9 @@
 
 
 ####Base de Datos
-* [El modelo relacional y el álgebra relacional](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02148.pdf) (PDF)
 * [Apuntes de Base de Datos 1, Universidad de Alicante](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
 * [Base de Datos, por Mercedes Marqués](http://www.uji.es/bin/publ/edicions/bdatos.pdf) (PDF)
+* [El modelo relacional y el álgebra relacional](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02148.pdf) (PDF)
 * [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf) (PDF)
 
 
@@ -105,15 +105,15 @@
 
 
 ###Ensamblador
-* [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)
 * [Codigo de Maquina para Principiantes](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF), Lisa Watts y Mike Wharton [Z80 and 6502 CPUs]
+* [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)
 
 
 ###Git
-* [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
-* [Pro Git](http://git-scm.com/book/es)
 * [Git Immersion en Español](http://gitimmersion.mx)
+* [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
 * [Librosweb Git](http://librosweb.es/pro_git/)
+* [Pro Git](http://git-scm.com/book/es)
 
 
 ###Haskell
@@ -122,13 +122,13 @@
 
 
 ###Java
-* [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf), por Jorge L. Ortega Arjona, UNAM (PDF)
 * [Aprendiendo Java](http://www.compunauta.com/forums/linux/programacion/java/AprendiendoJava.pdf) (PDF)
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com/)
-* [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf) (PDF)
-* [Tutorial Introducción a Maven 3](http://www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)
+* [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf), por Jorge L. Ortega Arjona, UNAM (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
+* [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf) (PDF)
+* [Tutorial Introducción a Maven 3](http://www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)
 
 
 ###JavaScript
@@ -162,16 +162,16 @@
 ###Python
 * [Aprenda a pensar como un programador (con Python)](http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://www.biblioteca-digital.net.ve/wordpress/wp-content/uploads/2009/09/swfk-es-linux-0.0.2.pdf) (PDF)
+* [Doma de Serpientes para Niños](http://code.google.com/p/swfk-es/)
 * [El tutorial de Python](http://tutorialpython.com.ar)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)
+* [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
+* [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
 * [Python instantáneo](http://www.arrakis.es/~rapto/AprendaPython.html)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/python-ingenieria)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
-* [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
-* [Doma de Serpientes para Niños](http://code.google.com/p/swfk-es/)
 * [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
-* [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
 
 
 ###Ruby
@@ -184,11 +184,12 @@
 
 
 ###R
-* [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
 * [An Introduction to R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
-* [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf)
 * [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf)
-* [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf)
 * [Generacion automatica de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf)
+* [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf)
+* [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf)
 * [Metodos Estadisticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf)
 * [Optimización Matemática con R: Volumen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf)
+* [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
+

@@ -161,8 +161,7 @@
 
 ###Python
 * [Aprenda a pensar como un programador (con Python)](http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf) (PDF)
-* [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://www.biblioteca-digital.net.ve/wordpress/wp-content/uploads/2009/09/swfk-es-linux-0.0.2.pdf) (PDF)
-* [Doma de Serpientes para Niños](http://code.google.com/p/swfk-es/)
+* [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
 * [El tutorial de Python](http://tutorialpython.com.ar)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)

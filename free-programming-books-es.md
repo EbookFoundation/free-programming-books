@@ -183,10 +183,10 @@
 
 
 ###R
-* [An Introduction to R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
 * [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf)
 * [Generacion automatica de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf)
 * [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf)
+* [Introducción a R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
 * [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf)
 * [Metodos Estadisticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf)
 * [Optimización Matemática con R: Volumen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf)

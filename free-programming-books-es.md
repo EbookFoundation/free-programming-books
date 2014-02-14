@@ -40,6 +40,7 @@
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Análisis de Algoritmos](http://docencia.izt.uam.mx/pece/pagina_academica/AA/indexa.html)
 * [Análisis y Diseño de Algoritmos](http://www.aliatuniversidades.com.mx/bibliotecasdigitales/pdf/sistemas/Analisis_y_disenio_de_algoritmos.pdf) (PDF)
+* [Aprenda a programar como si estuviera en primero](http://www1.ceit.es/asignaturas/Informat1/ayudainf/aprendainf/Programar/Programar.pdf)
 * [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Técnicas de Diseño de Algoritmos ](http://www.lcc.uma.es/~av/Libro/indice.html) ([PDF](http://www.lcc.uma.es/%7eav/Libro/Libro.zip))
 * [Temas selectos de estructuras de datos](http://www.matematicas.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)

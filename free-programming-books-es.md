@@ -30,9 +30,9 @@
 
 
 ###Metalistas
-* [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
 * [CodeHero](http://codehero.co/)
 * [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
+* [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
 
 
 ###Agnosticos
@@ -40,6 +40,7 @@
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Análisis de Algoritmos](http://docencia.izt.uam.mx/pece/pagina_academica/AA/indexa.html)
 * [Análisis y Diseño de Algoritmos](http://www.aliatuniversidades.com.mx/bibliotecasdigitales/pdf/sistemas/Analisis_y_disenio_de_algoritmos.pdf) (PDF)
+* [Aprenda a programar como si estuviera en primero](http://www1.ceit.es/asignaturas/Informat1/ayudainf/aprendainf/Programar/Programar.pdf)
 * [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Técnicas de Diseño de Algoritmos ](http://www.lcc.uma.es/~av/Libro/indice.html) ([PDF](http://www.lcc.uma.es/%7eav/Libro/Libro.zip))
 * [Temas selectos de estructuras de datos](http://www.matematicas.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
@@ -86,10 +87,10 @@
 
 
 ###CSS
-* [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
-* [Introducción a CSS](http://librosweb.es/css/)
 * [CSS avanzado](http://librosweb.es/css_avanzado/)
 * [Estructura con CSS](http://es.learnlayout.com/)
+* [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
+* [Introducción a CSS](http://librosweb.es/css/)
 
 
 ###Coffeescript

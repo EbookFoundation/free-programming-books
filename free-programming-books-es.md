@@ -30,9 +30,9 @@
 
 
 ###Metalistas
-* [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
 * [CodeHero](http://codehero.co/)
 * [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
+* [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
 
 
 ###Agnosticos
@@ -86,10 +86,10 @@
 
 
 ###CSS
-* [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
-* [Introducción a CSS](http://librosweb.es/css/)
 * [CSS avanzado](http://librosweb.es/css_avanzado/)
 * [Estructura con CSS](http://es.learnlayout.com/)
+* [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
+* [Introducción a CSS](http://librosweb.es/css/)
 
 
 ###Coffeescript

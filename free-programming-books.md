@@ -569,7 +569,7 @@
 * [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-* [The Art of Assembly Language Programming](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
+* [The Art of Assembly Language Programming](http://courses.engr.illinois.edu/ece390/books/artofasm/artofasm.html)
 * [The Second Book Of Machine Language](http://www.atariarchives.org/2bml/)
 * [Wizard Code](http://vendu.twodots.nl/wizardcode.html)
 * [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly)

@@ -22,6 +22,7 @@
     * [node.js](#nodejs)
 * [Java](#java)
 * [LaTeX](#latex)
+* [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -40,7 +41,7 @@
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Análisis de Algoritmos](http://docencia.izt.uam.mx/pece/pagina_academica/AA/indexa.html)
 * [Análisis y Diseño de Algoritmos](http://www.aliatuniversidades.com.mx/bibliotecasdigitales/pdf/sistemas/Analisis_y_disenio_de_algoritmos.pdf) (PDF)
-* [Aprenda a programar como si estuviera en primero](http://www1.ceit.es/asignaturas/Informat1/ayudainf/aprendainf/Programar/Programar.pdf)
+* [Aprenda a programar como si estuviera en primero](http://www1.ceit.es/asignaturas/Informat1/ayudainf/aprendainf/Programar/Programar.pdf) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Técnicas de Diseño de Algoritmos ](http://www.lcc.uma.es/~av/Libro/indice.html) ([PDF](http://www.lcc.uma.es/%7eav/Libro/Libro.zip))
 * [Temas selectos de estructuras de datos](http://www.matematicas.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
@@ -149,6 +150,11 @@
 
 ###LaTeX
 * [La introducción no-tan-corta a LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/spanish)
+
+
+###.NET (C# / Visual Studio)
+* [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) (PDF)
+* [Introducción a C#](http://zarza.usal.es/~fgarcia/docencia/poo/04-05/Trabajos/C_Sharp.pdf) (PDF)
 
 
 ###PHP

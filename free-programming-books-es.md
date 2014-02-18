@@ -78,6 +78,8 @@
 
 ####Paradigmas de Programación
 * [Programación Funcional](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
+* [Programación Concurrente y Tiempo Real](http://www.libropctr.com/)
+
 
 ####Sistemas Operativos
 * [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
@@ -115,7 +117,6 @@
 ###Git
 * [Git Immersion en Español](http://gitimmersion.mx)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
-* [Librosweb Git](http://librosweb.es/pro_git/)
 * [Pro Git](http://git-scm.com/book/es)
 
 

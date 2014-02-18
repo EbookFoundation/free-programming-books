@@ -15,6 +15,7 @@
 * [LaTeX](#latex)
 * [Meta-Lists](#meta-lists)
 * [PHP](#php)
+* [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)

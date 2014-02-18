@@ -645,16 +645,16 @@
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Google's C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
-* Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 * [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
 * [Learn C++.](http://www.learncpp.com/) (PDF, Online)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
-* [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-* [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
+* [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
+* [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
+* Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 
 
 ###Clojure

@@ -106,6 +106,8 @@
 * [PHP PEAR](http://openbook.galileocomputing.de/php_pear/)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf)
 
+###PostgreSQL
+* [PostgreSQL Einführung](http://cybertec.at/pgbook/)
 
 ###Python
 * [Python Das umfassende Handbuch](http://openbook.galileocomputing.de/python/)

@@ -115,7 +115,6 @@
 ###Git
 * [Git Immersion en Español](http://gitimmersion.mx)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
-* [Librosweb Git](http://librosweb.es/pro_git/)
 * [Pro Git](http://git-scm.com/book/es)
 
 

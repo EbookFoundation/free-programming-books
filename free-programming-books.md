@@ -116,6 +116,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+* [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
 * [REBOL](#rebol)
@@ -1360,6 +1361,10 @@ See also [TeX](#tex)
 * [Explore Flask](http://exploreflask.com/) (PDF)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 * [The Flask Blog tutorial](http://pypix.com/python/building-flask-blog-part-1/) - Pypix
+
+
+###QML
+* [Qt5 Cadaques](http://qmlbook.org/) (HTML, PDF, ePub) (work in progress) - Juergen Bocklage-Ryannel and Johan Thelin
 
 
 ###R

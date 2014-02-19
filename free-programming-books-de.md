@@ -45,13 +45,14 @@
 
 ###C
 * [C von A bis Z](http://openbook.galileocomputing.de/c_von_a_bis_z/)
-* [Softwareentwicklung in C](http://www.klausschmaranz.com/Downloads/SoftwareentwicklungInC.pdf)
+* [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf)
 
 
 ###C++
 * [Die Boost C++ Bibliotheken](http://www.highscore.de/cpp/boost/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
+* [Softwareprogrammierung in C++] (http://www.iaik.tugraz.at/content/teaching/bachelor_courses/betriebssysteme/downloads/schmaranz2.pdf)
 
 
 ###C Sharp

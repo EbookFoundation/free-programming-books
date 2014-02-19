@@ -74,11 +74,12 @@
 
 ####Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
+* [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/)
 
 
 ####Paradigmas de Programación
-* [Programación Funcional](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
 * [Programación Concurrente y Tiempo Real](http://www.libropctr.com/)
+* [Programación Funcional](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
 
 
 ####Sistemas Operativos

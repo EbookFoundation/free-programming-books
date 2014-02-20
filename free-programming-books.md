@@ -1162,7 +1162,7 @@ See also [TeX](#tex)
 * [Object-Oriented Programming with Objective-C](http://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/OOP_ObjC.pdf) (PDF)
 * [Objective-C Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) *(Just fill the fields with any values)*
 * * [Google's Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
-* [Try Objective-C Book](http://rubymaverick.com/try-objectivec-book/)
+* [Try Objective-C Book](http://tryobjectivec.codeschool.com/)
 
 
 ###OCaml

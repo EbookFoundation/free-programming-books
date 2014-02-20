@@ -25,8 +25,10 @@
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [PHP](#php)
 * [Python](#python)
+    * [Django](#django)
+    * [Web2py](#web2py)
 * [Ruby](#ruby)
-* [Ruby on Rails](#ruby-on-rails)
+    * [Ruby on Rails](#ruby-on-rails)
 * [R](#R)
 
 
@@ -181,6 +183,14 @@
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/python-ingenieria)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 * [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
+
+
+###Django
+* [El libro de Django 1.0](http://django-book.mkaufmann.com.ar/)
+
+
+###Web2py
+* [Web2py - Manual de Referencia Completo, 5a Edición](http://www.web2py.com/books/default/chapter/41)
 
 
 ###Ruby

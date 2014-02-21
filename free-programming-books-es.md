@@ -10,9 +10,10 @@
     * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
     * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
+* [C](#C)
+* [C++](#c-1)
 * [CSS](#CSS)
 * [Coffeescript](#coffeescript)
-* [C++](#c)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Git](#git)
@@ -92,6 +93,13 @@
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
 
+###C
+* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf)
+
+
+###C++
+* [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
+
 
 ###CSS
 * [CSS avanzado](http://librosweb.es/css_avanzado/)
@@ -102,10 +110,6 @@
 
 ###Coffeescript
 * [Coffeescript, un pequeño gran libro – Javi Jiménez](https://leanpub.com/coffeescript)
-
-
-###C++
-* [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
 
 
 ###Emacs
@@ -177,7 +181,7 @@
 * [El tutorial de Python](http://tutorialpython.com.ar)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)
-* [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
+* [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
 * [Python instantáneo](http://www.arrakis.es/~rapto/AprendaPython.html)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/python-ingenieria)
@@ -185,11 +189,11 @@
 * [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
 
 
-###Django
+####Django
 * [El libro de Django 1.0](http://django-book.mkaufmann.com.ar/)
 
 
-###Web2py
+####Web2py
 * [Web2py - Manual de Referencia Completo, 5a Edición](http://www.web2py.com/books/default/chapter/41)
 
 
@@ -198,7 +202,7 @@
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
 
 
-###Ruby on Rails
+####Ruby on Rails
 * [El maldito libro de los Descarrilados](http://yottabi.com/mld.pdf) (PDF)
 
 

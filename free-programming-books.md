@@ -1213,6 +1213,7 @@ See also [TeX](#tex)
 * [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)
 * [Extreme Perl](http://www.extremeperl.org/bk/home)
 * [Higher-Order Perl](http://hop.perl.plover.com/book/)
+* [Impatient Perl](http://www.perl.org/books/impatient-perl/)
 * [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
 * [Mastering Perl](http://chimera.labs.oreilly.com/books/1234000001527) - Bryan D Foy
 * [Modern Perl 5](http://www.onyxneon.com/books/modern_perl/index.html)
@@ -1225,6 +1226,7 @@ See also [TeX](#tex)
 * [SDL::Manual Writing Games in Perl](https://github.com/PerlGameDev/SDL_Manual)
 * [The Mason Book](http://www.masonbook.com/book/)
 * [The PDL Book](http://sourceforge.net/projects/pdl/files/PDL_2013/PDL-Book/PDL-Book-20130322.pdf/download) (PDF)
+* [Using Perl 6 - a Perl 6 book in development](https://github.com/perl6/book)
 * [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
 
 

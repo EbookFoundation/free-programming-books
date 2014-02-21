@@ -1578,6 +1578,7 @@ See also [LaTeX](#latex)
 
 
 ###TypeScript
+* [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 * [TypeScript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) *(Just fill the fields with any values)*
 
 

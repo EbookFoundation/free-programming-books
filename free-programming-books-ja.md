@@ -381,7 +381,7 @@
 * [Python 2.7.2 ドキュメント日本語訳](http://docs.python.jp/2.7/) - Python Software Foundation
 * [Python の学習](http://skitazaki.github.io/python-school-ja/index.html) - KITAZAKI Shigeru
 * [Google Python スタイルガイド](http://works.surgo.jp/translation/pyguide.html) - Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields, Kosei Kitahara(翻訳)
-* [機械学習の Python との出会い (Machine Learning Meets Python)](http://www.kamishima.net/mlmpyja/) ([PDF](http://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](http://www.kamishima.net/archive/mlmpyja.epub))- 神嶌敏弘
+* [機械学習の Python との出会い (Machine Learning Meets Python)](http://www.kamishima.net/mlmpyja/) [PDF](http://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](http://www.kamishima.net/archive/mlmpyja.epub) - 神嶌敏弘
 * [The Programming Historian](https://sites.google.com/site/theprogramminghistorianja/) - William J. Turkel, Alan MacEachern, @moroshigeki(翻訳), @historyanddigi(翻訳), @Say\_no(翻訳), @knagasaki(翻訳), @mak\_goto(翻訳)
 * [Python Scientific Lecture Notes (一部翻訳)](http://turbare.net/transl/scipy-lecture-notes/) - 打田旭宏(翻訳)
 * [Notes on scientific computing with python](http://japanichaos.appspot.com/) - 花田康高

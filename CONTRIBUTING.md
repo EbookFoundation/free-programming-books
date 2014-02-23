@@ -42,7 +42,13 @@ Like this example:
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
 * [Some Other Book](http://so.me/other/book.html)
 
+BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)(PDF)
+GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) (PDF)
+
+BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)- Robert
+GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) - Robert
 ```
+
 
 And that's it! Simple, easy and lovely...
 

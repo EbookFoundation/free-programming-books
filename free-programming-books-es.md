@@ -184,6 +184,7 @@
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
 * [Python instantáneo](http://www.arrakis.es/~rapto/AprendaPython.html)
+* [Python no muerde](http://nomuerde.netmanagers.com.ar/)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/python-ingenieria)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 * [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)

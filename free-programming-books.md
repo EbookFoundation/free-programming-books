@@ -395,7 +395,7 @@
 
 ####Networking
 * [802.11ac: A Survival Guide](http://chimera.labs.oreilly.com/books/1234000001739) - Matthew Gast
-* [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf)(PDF) (book on ZeroMQ)
+* [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [Computer Networking: Principles, Protocols and Practice, 2nd edition (CNP3bis)](http://cnp3bis.info.ucl.ac.be/) (PDF, EPUB + [sources](https://github.com/obonaventure/cnp3/tree/master/book-2nd)) - O. Bonaventure (in progress)
 * [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
@@ -886,13 +886,13 @@
 * [Learning J by Roger Stokes- online](http://www.rogerstokes.free-online.co.uk/book.htm) || [pdf](http://www.elliscave.com/APL_J/Learning_J.pdf)
 * [J for C Programmers by Henry Rich- online](http://www.jsoftware.com/help/jforc/contents.htm) || [pdf](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20071003.pdf) || [word 2003 file](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20070929.doc)
 * [J Reference Card](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=view&target=J602_RefCard_color_letter_current.pdf) (PDF)
-* [Brief Reference by Chris Burke and Clifford Reiter](http://www.jsoftware.com/books/pdf/brief.pdf)(PDF)
+* [Brief Reference by Chris Burke and Clifford Reiter](http://www.jsoftware.com/books/pdf/brief.pdf) (PDF)
 * [Computers and Mathematical Notation by Kenneth E Iverson](http://www.jsoftware.com/papers/camn.htm)
 * [Easy J by Linda Alvord, Norman Thomson - pdf](http://www.jsoftware.com/books/pdf/easyj.pdf) || [Word DOC](http://www.jsoftware.com/books/doc/easyj_doc.zip)
 * [Math for the Layman by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/mftl.zip) (zipped html+images)
 * [Exploring Math by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/expmath.pdf) (PDF)
 * [Arithmetic by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/arithmetic.pdf) (PDF)
-* [Calculus by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/calculus.pdf)(PDF)
+* [Calculus by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/calculus.pdf) (PDF)
 * [Concrete Math Companion by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/cmc.pdf) (PDF)
 * [J Primer](http://www.jsoftware.com/help/primer/contents.htm)
 
@@ -909,8 +909,8 @@
 * [Hibernate 4 Example Programs](https://leanpub.com/hibernate4-example-programs) - L. Mohan Arun
 * [HTTP Programming Recipes for Java Bots](http://www.heatonresearch.com/articles/series/16)
 * [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html)
-* [Introduction to Neural Networks with Java](http://www.heatonresearch.com/articles/series/1) -
-* [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)- Robert Sedgewick and Kevin Wayne
+* [Introduction to Neural Networks with Java](http://www.heatonresearch.com/articles/series/1) 
+* [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [JAAS in Action](http://www.jaasbook.com/)
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf) (PDF)

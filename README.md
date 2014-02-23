@@ -29,7 +29,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + Bulgarian: [github](/free-programming-books-bg.md)
 + Chinese: [github](/free-programming-books-zh.md)
 + French: [github](/free-programming-books-fr.md) or [site](http://resrc.io/list/33/livres-gratuits-sur-la-programmation/).
-    The French list was based on <http://progdupeu.pl/forums/sujet/43/une-banque-de-liens>.
+    The French list was based on [here](http://progdupeu.pl/forums/sujet/43/une-banque-de-liens).
 + German: [github](/free-programming-books-de.md)
 + Greek: [github](/free-programming-books-gr.md)
 + Hungarian: [github](/free-programming-books-hu.md)

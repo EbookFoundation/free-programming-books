@@ -851,20 +851,20 @@
 
 
 ###HTML / CSS
+* [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
+* [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/)) - Mark Pilgrim
 * [GA Dash](http://dash.generalassemb.ly)
+* [Google's HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 * [HTML Dog Tutorials](http://www.htmldog.com/)
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
 * [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com/) - Jeremy Keith
-* [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn CSS Layout](http://learnlayout.com/)
+* [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Scalable and Modular Architecture for CSS](http://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
-* [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
-* [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
-* [Google's HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
 
 ###Icon

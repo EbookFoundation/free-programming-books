@@ -909,7 +909,7 @@
 * [Hibernate 4 Example Programs](https://leanpub.com/hibernate4-example-programs) - L. Mohan Arun
 * [HTTP Programming Recipes for Java Bots](http://www.heatonresearch.com/articles/series/16)
 * [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html)
-* [Introduction to Neural Networks with Java](http://www.heatonresearch.com/articles/series/1) 
+* [Introduction to Neural Networks with Java](http://www.heatonresearch.com/articles/series/1)
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [JAAS in Action](http://www.jaasbook.com/)
@@ -1199,7 +1199,7 @@ See also [TeX](#tex)
 
 ###Parrot / Perl 6
 * [Using Perl 6](http://github.com/perl6/book/) (work in progress)
-* [Perl 6 Programming] (https://en.wikibooks.org/wiki/Perl_6_Programming)
+* [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)
 
 
 ###PC-BSD
@@ -1221,12 +1221,12 @@ See also [TeX](#tex)
 * [Perl & LWP](http://lwp.interglacial.com/index.html)
 * [Perl for the Web](http://www.globalspin.com/thebook/)
 * [Perl Free Online EBooks](http://linkmingle.com/list/13-plus-List-of-Free-Great-Perl-Books-available-Online-freebooksandarticles) (meta-list)
+* [Perl Training Australia - Course Notes](http://perltraining.com.au/notes.html)
 * [Practical mod_perl](http://modperlbook.org/) - Stas Bekman, Eric Cholet
 * [Plack Handbook](http://handbook.plackperl.org/)
 * [SDL::Manual Writing Games in Perl](https://github.com/PerlGameDev/SDL_Manual)
 * [The Mason Book](http://www.masonbook.com/book/)
 * [The PDL Book](http://sourceforge.net/projects/pdl/files/PDL_2013/PDL-Book/PDL-Book-20130322.pdf/download) (PDF)
-* [Using Perl 6 - a Perl 6 book in development](https://github.com/perl6/book)
 * [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
 
 

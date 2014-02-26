@@ -670,6 +670,7 @@
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+* [Clojure Cheat Sheet](http://clojure.org/cheatsheet)
 
 
 ###COBOL
@@ -1293,6 +1294,8 @@ See also [TeX](#tex)
 * [The First 10 Prolog Programming Contests](http://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Visual Prolog 7.2 for Tyros](http://download.pdc.dk/vip/72/books/tyros/tyros72.pdf) (PDF)
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net/) - Hassan A¨it-Kaci
+* [Prolog Tutorial](https://www.csupomona.edu/~jrfisher/www/prolog_tutorial/pt_framer.html)
+* [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
 
 
 ###Python

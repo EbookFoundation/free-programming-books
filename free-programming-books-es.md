@@ -164,6 +164,7 @@
 ###.NET (C# / Visual Studio)
 * [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) (PDF)
 * [Introducción a C#](http://zarza.usal.es/~fgarcia/docencia/poo/04-05/Trabajos/C_Sharp.pdf) (PDF)
+* [Guía de Arquitectura N-capas Orientadas al Dominio](http://msdn.microsoft.com/es-es/architecture/default.aspx)
 
 
 ###PHP

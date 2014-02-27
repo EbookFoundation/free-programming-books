@@ -31,6 +31,7 @@
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [R](#R)
+* [Scala](#scala)
 
 
 ###Metalistas
@@ -163,8 +164,9 @@
 
 ###.NET (C# / Visual Studio)
 * [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) (PDF)
-* [Introducción a C#](http://zarza.usal.es/~fgarcia/docencia/poo/04-05/Trabajos/C_Sharp.pdf) (PDF)
 * [Guía de Arquitectura N-capas Orientadas al Dominio](http://msdn.microsoft.com/es-es/architecture/default.aspx)
+* [Introducción a C#](http://zarza.usal.es/~fgarcia/docencia/poo/04-05/Trabajos/C_Sharp.pdf) (PDF)
+
 
 
 ###PHP
@@ -218,3 +220,7 @@
 * [Optimización Matemática con R: Volumen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf)
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
 
+
+###Scala
+* [Escala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) (En proceso)
+* [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)

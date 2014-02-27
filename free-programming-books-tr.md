@@ -3,6 +3,7 @@
 * [D](#d)
 * [Fortran](#fortran)
 * [Git](#git)
+* [Go](#go)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -28,6 +29,9 @@
 ###Git
 * [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
 
+###Go
+* [Go Turu](http://tur.a.golang.org.tr)
+
 ###Java
 * [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
 
@@ -37,7 +41,6 @@
 
 ###LaTeX
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
- 
 
 ###Linux
 * [UNIX/Linux Sistem Programlama Kurs Notları](http://www.kaanaslan.com/resource/course_note/course_note.php)

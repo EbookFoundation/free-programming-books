@@ -1354,14 +1354,14 @@ See also [TeX](#tex)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](https://dl.dropbox.com/u/18065445/web2py/web2py_manual_5th.pdf) - PDF
 
 
-####Django
+####Django (Version)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
-* [Django by Example](http://www.lightbird.net/dbe/)
-* [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
-* [Effective Django](http://effectivedjango.com/)
+* [Django by Example](http://www.lightbird.net/dbe/) (1.2)
+* [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
+* [Effective Django](http://effectivedjango.com/) (1.5)
 * [Deploy Django](http://www.deploydjango.com)
-* [The Django Book](http://www.djangobook.com)
-* [Tango With Django](http://www.tangowithdjango.com/)
+* [The Django Book](http://www.djangobook.com) (1.0)
+* [Tango With Django](http://www.tangowithdjango.com/) (1.5)
 
 
 ####Flask

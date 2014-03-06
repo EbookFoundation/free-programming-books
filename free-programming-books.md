@@ -1614,7 +1614,8 @@ See also [LaTeX](#latex)
 
 
 ###Windows 8
-* [Programming Windows 8 Apps with HTML, CSS, and JavaScript](http://blogs.msdn.com/b/microsoft_press/archive/2012/06/04/free-ebook-programming-windows-8-apps-with-html-css-and-javascript-first-preview.aspx)
+* [Programming Windows 8 Apps with HTML, CSS, and JavaScript (v1)](http://blogs.msdn.com/b/microsoft_press/archive/2012/10/29/free-ebook-programming-windows-8-apps-with-html-css-and-javascript.aspx)
+* * [Programming Windows 8 Apps with HTML, CSS, and JavaScript (v2, incomplete)](http://blogs.msdn.com/b/microsoft_press/archive/2013/10/29/free-ebook-programming-windows-store-apps-with-html-css-and-javascript-second-edition-second-preview.aspx)
 
 
 ###Windows Phone

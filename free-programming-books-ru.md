@@ -114,6 +114,7 @@
 
 ###Haskell
 * [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
+* [О Haskell по-человечески](http://ohaskell.ru/) - Денис Шевченко
 
 
 ###LaTeX

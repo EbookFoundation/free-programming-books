@@ -1,4 +1,4 @@
-###Index
+﻿###Index
 * [Ada](#ada)
 * [Agda](#agda)
 * [Android](#android)
@@ -606,6 +606,7 @@
 * [Learning the bash Shell](http://www.redbrick.dcu.ie/~teapott/MECS/Notes/learning_bash.pdf)
 * [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
+* [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter#top) - Mark Bates
 
 
 ###Basic

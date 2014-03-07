@@ -16,6 +16,7 @@
 * [Coffeescript](#coffeescript)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
+* [Erlang](#erlang)
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
@@ -120,6 +121,10 @@
 ###Ensamblador
 * [Codigo de Maquina para Principiantes](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF), Lisa Watts y Mike Wharton [Z80 and 6502 CPUs]
 * [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)
+
+
+###Erlang
+* [Erlang/OTP: Un mundo concurrente](http://erlang-otp.es/)
 
 
 ###Git

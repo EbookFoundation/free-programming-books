@@ -125,6 +125,7 @@
 
 ###Erlang
 * [Erlang/OTP: Un mundo concurrente](http://erlang-otp.es/)
+* [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) en Wikibooks
 
 
 ###Git

@@ -56,6 +56,7 @@
 ###Python
 * [A Byte of Python](http://rodrigoamaral.net/a-byte-of-python/)
 * [Python para Desenvolvedores](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
+* [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 
 
 ###Ruby

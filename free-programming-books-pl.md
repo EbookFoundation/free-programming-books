@@ -16,6 +16,7 @@
 ###Niezależne od języka programowania
 * [W obronie wolności](http://stallman.helion.pl)
 * [Git](http://pl.wikibooks.org/wiki/Git)
+* [Pro Git](http://git-scm.com/book/pl)
 * [SVN](http://pl.wikibooks.org/wiki/Subversion)
 * [System kontroli wersji Subversion](http://svnbook.opensys.pl)
 * [Pisanie OS](http://pl.wikibooks.org/wiki/Pisanie_OS)
@@ -56,6 +57,7 @@
 
 ###PHP
 * [PHP](http://pl.wikibooks.org/wiki/PHP)
+* [PHP: The Right Way](http://pl.phptherightway.com/)
 
 
 ###Python

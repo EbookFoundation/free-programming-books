@@ -56,6 +56,7 @@
 
 ###PHP
 * [PHP](http://pl.wikibooks.org/wiki/PHP)
+* [PHP: The Right Way](http://pl.phptherightway.com/)
 
 
 ###Python

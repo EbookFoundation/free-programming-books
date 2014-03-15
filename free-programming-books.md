@@ -1252,7 +1252,6 @@ See also [TeX](#tex)
     * Drupal 8
 * CakePHP Framework
     * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf)
-    * [
 * [PHP Internals Book](http://www.phpinternalsbook.com/)
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [PHP Programming](http://en.wikibooks.org/wiki/PHP_Programming)

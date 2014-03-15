@@ -114,7 +114,7 @@
 * [Processing](#processing)
 * [Prolog](#prolog)
 * [Python](#python)
-    * [Django](#django)
+    * [Django](#django-version)
     * [Flask](#flask)
 * [QML](#qml)
 * [R](#r)

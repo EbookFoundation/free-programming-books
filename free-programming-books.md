@@ -1246,20 +1246,22 @@ See also [TeX](#tex)
     * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
 * Drupal Framework
     * [High Performance Drupal](http://chimera.labs.oreilly.com/books/1230000000845) - Jeff Sheltren, Narayan Newton, and Nathaniel Catchpole
-
     * Drupal 7
         * [The Tiny Book of Rules](https://drupal.org/files/tiny-book-of-rules.pdf) (PDF)
         * [Master Drupal in 7 hours](http://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf) (PDF)
     * Drupal 8
 * CakePHP Framework
     * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf)
+    * [
 * [PHP Internals Book](http://www.phpinternalsbook.com/)
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [PHP Programming](http://en.wikibooks.org/wiki/PHP_Programming)
 * [PHP with Guru99](http://www.smashwords.com/books/view/324888)
-* [Practical Php Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
+* [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf)
+* [PHP Security Guide](http://phpsec.org/projects/guide/)
+* [PHP Cookbook](http://commons.oreilly.com/wiki/index.php/PHP_Cookbook)
 
 
 ###PicoLisp

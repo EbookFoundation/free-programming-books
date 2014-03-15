@@ -116,6 +116,7 @@
 * [Python](#python)
     * [Django](#django-version)
     * [Flask](#flask)
+    * [Pandas](#pandas)
 * [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
@@ -1370,6 +1371,10 @@ See also [TeX](#tex)
 * [Explore Flask](http://exploreflask.com/) (PDF)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 * [The Flask Blog tutorial](http://pypix.com/python/building-flask-blog-part-1/) - Pypix
+
+
+####Pandas
+* [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas
 
 
 ###QML

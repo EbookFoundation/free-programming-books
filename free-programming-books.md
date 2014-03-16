@@ -315,6 +315,7 @@
 * [Introduction to Machine Learning](http://arxiv.org/abs/0904.3664v1)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
 * [Inductive Logic Programming](http://www-ai.ijs.si/SasoDzeroski/ILPBook/)
+* [Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf) (PDF)
 
 
 ####Mathematics

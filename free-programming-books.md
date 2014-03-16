@@ -315,6 +315,7 @@
 * [Introduction to Machine Learning](http://arxiv.org/abs/0904.3664v1)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
 * [Inductive Logic Programming](http://www-ai.ijs.si/SasoDzeroski/ILPBook/)
+* [Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf) (PDF)
 
 
 ####Mathematics
@@ -430,6 +431,7 @@
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design:The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) (PDF) - Dominic Giampaolo
 * [Xv6, a simple Unix-like teaching operating system](http://pdos.csail.mit.edu/6.828/2012/xv6.html) (PDF)
+* [Operating System Concepts, 8th Edition](http://elajt.info/lit/OS_8th_Edition.pdf) (PDF)
 
 
 ####Parallel Programming

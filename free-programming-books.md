@@ -1125,6 +1125,7 @@ See also [TeX](#tex)
 
 
 ###MySQL
+* [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 * [MySQL Tutorial Excerpt](http://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.1-en.pdf)
 
 

@@ -33,6 +33,7 @@
     * [Ruby on Rails](#ruby-on-rails)
 * [R](#R)
 * [Scala](#scala)
+* [SQL](#sql)
 
 
 ###Metalistas
@@ -231,3 +232,8 @@
 ###Scala
 * [Escala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) (En proceso)
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
+
+
+###SQL
+* [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
+

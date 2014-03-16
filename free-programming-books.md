@@ -430,6 +430,7 @@
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design:The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) (PDF) - Dominic Giampaolo
 * [Xv6, a simple Unix-like teaching operating system](http://pdos.csail.mit.edu/6.828/2012/xv6.html) (PDF)
+* [Operating System Concepts, 8th Edition](http://elajt.info/lit/OS_8th_Edition.pdf) (PDF)
 
 
 ####Parallel Programming

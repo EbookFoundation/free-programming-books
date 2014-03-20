@@ -467,6 +467,7 @@
 
 
 ####Security
+* [Crypto 101 - Crypto for everyone](https://www.crypto101.io/)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
 * [How to deal with Passwords](https://github.com/MHM5000/pass)
 * [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf)
@@ -973,7 +974,7 @@
 * [Oh My JS](https://leanpub.com/ohmyjs/read) *(Leanpub, by Azat Mardanov)*
 * [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
-* [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer 
+* [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [The JavaScript Tutorial](http://javascript.info/)
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655) (PDF)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)

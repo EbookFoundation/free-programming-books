@@ -978,7 +978,6 @@
 * [The JavaScript Tutorial](http://javascript.info/)
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655) (PDF)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-* [Speaking JavaScipt](http://speakingjs.com/es5/)
 
 
 ####Angular.js

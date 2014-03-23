@@ -28,6 +28,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 ### In Other Spoken Languages
 + Bulgarian: [github](/free-programming-books-bg.md)
 + Chinese: [github](/free-programming-books-zh.md)
++ Czech: [github](/free-programming-books-cs.md)
 + French: [github](/free-programming-books-fr.md) or [site](http://resrc.io/list/33/livres-gratuits-sur-la-programmation/).
     The French list was based on [this](http://progdupeu.pl/forums/sujet/43/une-banque-de-liens) page.
 + German: [github](/free-programming-books-de.md)

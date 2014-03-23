@@ -52,7 +52,7 @@
 * [Die Boost C++ Bibliotheken](http://www.highscore.de/cpp/boost/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
-* [Softwareprogrammierung in C++] (http://www.iaik.tugraz.at/content/teaching/bachelor_courses/betriebssysteme/downloads/schmaranz2.pdf)
+* [Softwareprogrammierung in C++](http://www.iaik.tugraz.at/content/teaching/bachelor_courses/betriebssysteme/downloads/schmaranz2.pdf)
 
 
 ###C Sharp

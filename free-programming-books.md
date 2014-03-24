@@ -499,6 +499,7 @@
 * [Programming Reliable Systems (Joe Armstrong's PhD thesis)](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf) (PDF)
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
+* [Software Architecture](http://ftacademy.org/materials/fsm/11) (PDF)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [The Definitive Guide to Building Code Quality](http://nexus.realtimepublishers.com/dgbcq.php)
 * [Web API Design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)

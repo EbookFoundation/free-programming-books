@@ -37,6 +37,7 @@
 ###HTML / CSS
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
 * [Dive Into HTML5](http://diveintohtml5.com.br/)
+* [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
 
 
 ###Java

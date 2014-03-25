@@ -353,6 +353,7 @@
 * [Culture \& Empire: Digital Revolution](http://hintjens.com/books) (PDF)
 * [Data-Intensive Text Processing with MapReduce](http://www.umiacs.umd.edu/~jimmylin/MapReduce-book-final.pdf) (PDF)
 * [Designing Interfaces](http://designinginterfaces.com) by Jennifer Tidwell
+* [DevDocs](http://devdocs.io/) - Documents for Developers in 1 place
 * [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com/)
 * [Digital Signal Processing For Communications](http://www.sp4comm.org/)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
@@ -1322,6 +1323,7 @@ See also [TeX](#tex)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/) - Mark Pilgrim
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim
+* [Full Stack Python](http://www.fullstackpython.com/)
 * [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1)
 * [Google's Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart
@@ -1333,6 +1335,7 @@ See also [TeX](#tex)
 * [Introduction to python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
+* [Learning to Program](http://www.freenetpages.co.uk/hp/alan.gauld/)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart
 * [Modeling Creativity: Case Studies in Python](http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf) - Tom D. De Smedt
@@ -1347,6 +1350,7 @@ See also [TeX](#tex)
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
+* [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) - PDF
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Module of the Week](http://pymotw.com/2/)
@@ -1373,6 +1377,7 @@ See also [TeX](#tex)
 * [Effective Django](http://effectivedjango.com/) (1.5)
 * [Deploy Django](http://www.deploydjango.com)
 * [The Django Book](http://www.djangobook.com) (1.0)
+* [The Django book](http://www.djangobook.com/en/2.0/) (2.0)
 * [Tango With Django](http://www.tangowithdjango.com/) (1.5)
 
 

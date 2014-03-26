@@ -7,7 +7,10 @@
     * [Bezpečnost](#bezpecnost)
     * [Právo](#pravo)
     * [Regulární výrazy](#regularni-vyrazy)
+    * [Sítě](#site)
 * [LaTeX](#latex)
+* [Linux](#linux)
+    * [Distribuce](#distribuce)
 * [OpenSource](#opensource)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -44,8 +47,25 @@
 * [Regulární výrazy](http://www.root.cz/knihy/regularni-vyrazy/) - PDF
 
 
+####Sítě
+* [Internetový protokol IPv6](http://www.root.cz/knihy/internetovy-protokol-ipv6-treti-vydani/) (PDF)
+
+
 ###LaTeX
 * [Ne příliš stručný úvod do systému LaTeX 2e](http://www.root.cz/knihy/ne-prilis-strucny-uvod-do-systemu-latex-2e/) - PDF
+
+
+###Linux
+* [Linux: Dokumentační projekt](http://www.root.cz/knihy/linux-dokumentacni-projekt/) (PDF)
+* [Učebnice ABCLinuxu](http://www.root.cz/knihy/ucebnice-abclinuxu/) (PDF)
+
+
+####Distribuce
+* [Mandriva Linux 2008 CZ](http://www.root.cz/knihy/mandriva-linux-2008-cz/) (PDF)
+* [Gentoo Handbook česky](http://www.root.cz/knihy/gentoo-handbook-cesky/) (PDF)
+* [Instalace a konfigurace Debian Linuxu](http://www.root.cz/knihy/instalace-a-konfigurace-debian-linuxu/) (PDF)
+* [SUSE Linux: uživatelská příručka](http://www.root.cz/knihy/suse-linux-uzivatelska-prirucka/) (PDF)
+* [Příručka uživatele Fedora 17](http://www.root.cz/knihy/prirucka-uzivatele-fedora-17/) (PDF)
 
 
 ###OpenSource

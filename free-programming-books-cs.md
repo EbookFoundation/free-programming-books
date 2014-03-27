@@ -5,6 +5,7 @@
 * [Language Agnostic](#language-agnostic)
     * [Algoritmy a datové struktury](#algoritmy-a-datove-struktury)
     * [Bezpečnost](#bezpecnost)
+    * [Matematika](#matematika)
     * [Právo](#pravo)
     * [Regulární výrazy](#regularni-vyrazy)
     * [Sítě](#site)
@@ -37,6 +38,12 @@
 
 ####Bezpečnost
 * [Báječný svět elektronického podpisu](http://www.root.cz/knihy/bajecny-svet-elektronickeho-podpisu/) (PDF)
+
+
+####Matematika
+* [Diskrétní matematika](http://math.feld.cvut.cz/habala/teaching/dma.htm) - Petr Habala (PDFs)
+* [Lineární algebra](ftp://math.feld.cvut.cz/pub/olsak/linal/linal.pdf) - Petr Olšák (PDF)
+* [Matematika SŠ](http://www.realisticky.cz/ucebnice.php?id=3) - Martin Krynický (PDFs)
 
 
 ####Právo

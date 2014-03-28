@@ -852,7 +852,6 @@
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com/) - Miran Lipovaca
 * [Natural Language Processing for the Working Programmer](http://nlpwp.org/book/index.xhtml)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929)
-* [Reactive Objects and Functional Programming](http://staff.www.ltu.se/~nordland/Thesis.pdf) - Johan Nordlander
 * [Real World Haskell](http://book.realworldhaskell.org/)
 * [Speeding Through Haskell](http://www.sthaskell.com/)
 * [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) (PDF)
@@ -892,7 +891,7 @@
 
 
 ###J
-* [Learning J by Roger Stokes- online](http://www.rogerstokes.free-online.co.uk/book.htm) || [pdf](http://www.elliscave.com/APL_J/Learning_J.pdf)
+* [Learning J by Roger Stokes- online](http://www.rogerstokes.free-online.co.uk/book.htm) 
 * [J for C Programmers by Henry Rich- online](http://www.jsoftware.com/help/jforc/contents.htm) || [pdf](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20071003.pdf) || [word 2003 file](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20070929.doc)
 * [J Reference Card](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=view&target=J602_RefCard_color_letter_current.pdf) (PDF)
 * [Brief Reference by Chris Burke and Clifford Reiter](http://www.jsoftware.com/books/pdf/brief.pdf) (PDF)
@@ -1427,7 +1426,6 @@ See also [TeX](#tex)
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
-* [Ruby Best Practices](http://majesticseacreature.com/rbp-book/pdfs/rbp_1-0.pdf) (PDF)
 * [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)

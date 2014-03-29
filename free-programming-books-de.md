@@ -28,7 +28,7 @@
 ###Unabhängig von der Programmiersprache
 * [IT-Handbuch für Fachinformatiker](http://openbook.galileocomputing.de/it_handbuch/)
 * [Objektorientierte Programmierung](http://openbook.galileocomputing.de/oop/)
-* [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf)
+* [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) [PDF]
 
 
 ###Action Script
@@ -37,7 +37,7 @@
 
 
 ###Android
-* [Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf)
+* [Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf) [PDF]
 
 
 ###Assembly Language
@@ -46,14 +46,14 @@
 
 ###C
 * [C von A bis Z](http://openbook.galileocomputing.de/c_von_a_bis_z/)
-* [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf)
+* [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) [PDF]
 
 
 ###C++
 * [Die Boost C++ Bibliotheken](http://www.highscore.de/cpp/boost/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
-* [Softwareprogrammierung in C++](http://www.iaik.tugraz.at/content/teaching/bachelor_courses/betriebssysteme/downloads/schmaranz2.pdf)
+* [Softwareprogrammierung in C++](http://www.iaik.tugraz.at/content/teaching/bachelor_courses/betriebssysteme/downloads/schmaranz2.pdf) [PDF]
 
 
 ###C Sharp
@@ -66,7 +66,7 @@
 ###iOS
 * [Apps programmieren für iPhone und iPad](http://openbook.galileocomputing.de/apps_programmieren_fuer_iphone_und_ipad/)
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
-* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf)
+* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) [PDF]
 
 
 ###Git
@@ -80,7 +80,7 @@
 
 ### HTML & CSS
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
-* [Self HTML](http://de.selfhtml.org/)
+* [Self HTML](http://de.selfhtml.org)
 * [HTML](http://peterkropff.de/site/html/html.htm) — Peter Kropff [Online, PDF]
 * [CSS](http://peterkropff.de/site/css/css.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 
@@ -133,14 +133,14 @@
 
 
 ###Ruby on Rails
-* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)
-* [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf)
-* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf)
+* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) [PDF]
+* [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) [PDF]
+* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) [PDF]
 * [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
 
 
 ###Scilab
-* [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf)
+* [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf) [PDF]
 
 
 ###UML

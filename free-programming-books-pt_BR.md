@@ -11,6 +11,7 @@
 * [LaTeX](#latex)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Scrum](#scrum)
 * [Shell Script](#shell)
 
 
@@ -70,6 +71,10 @@
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
+
+
+###Scrum
+* [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
 
 
 ###Shell

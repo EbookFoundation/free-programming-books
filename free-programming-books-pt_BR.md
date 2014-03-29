@@ -11,7 +11,6 @@
 * [LaTeX](#latex)
 * [Python](#python)
 * [Ruby](#ruby)
-* [Scrum](#scrum)
 * [Shell Script](#shell)
 
 

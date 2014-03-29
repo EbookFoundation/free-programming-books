@@ -14,6 +14,7 @@
 * [Javascript](#javascript)
 * [LaTeX](#latex)
 * [Meta-Lists](#meta-lists)
+* [MySQL](#mysql)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
@@ -80,6 +81,8 @@
 ### HTML & CSS
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
 * [Self HTML](http://de.selfhtml.org/)
+* [HTML](http://peterkropff.de/site/html/html.htm) — Peter Kropff [Online, PDF]
+* [CSS](http://peterkropff.de/site/css/css.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 
 
 ###Java
@@ -94,6 +97,7 @@
 ###Javascript
 * [JavaScript und AJAX](http://openbook.galileocomputing.de/javascript_ajax/)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
+* [JavaScript](http://peterkropff.de/site/javascript/javascript.htm) — Peter Kropff (Grundlagen, AJAX, DOM, OOP) [Online, PDF]
 
 
 ###LaTeX
@@ -104,12 +108,19 @@
 * [Galileo Computing - openbook](http://www.galileocomputing.de/katalog/openbook)
 
 
+###MySQL
+* [MySQL](http://peterkropff.de/site/mysql/mysql.htm) — Peter Kropff [Online, PDF]
+
+
 ###PHP
 * [PHP PEAR](http://openbook.galileocomputing.de/php_pear/)
-* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf)
+* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) [PDF]
+* [PHP](http://peterkropff.de/site/php/php.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
+
 
 ###PostgreSQL
 * [PostgreSQL Einführung](http://cybertec.at/pgbook/)
+
 
 ###Python
 * [Python Das umfassende Handbuch](http://openbook.galileocomputing.de/python/)

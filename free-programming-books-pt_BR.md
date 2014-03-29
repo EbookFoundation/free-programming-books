@@ -21,6 +21,8 @@
 
 ###Engenharia de Software
 ####Metodologias de Desenvolvimento de Software
+* [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
+* [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg)
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
 
 
@@ -72,9 +74,6 @@
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
 
-
-###Scrum
-* [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
 
 
 ###Shell

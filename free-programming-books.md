@@ -237,6 +237,7 @@
 * [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/) (fascicles, mostly volume 4) - Donald Knuth
 * [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
+* [Think Complexity](http://greenteapress.com/complexity/) (PDF)
 
 
 ####Cellular Automata

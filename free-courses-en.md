@@ -6,6 +6,7 @@
 * [Ruby](#ruby)
 
 ###Databases
+* [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
 * [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford Univesity)
 
 ###HTML / CSS

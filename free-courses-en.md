@@ -1,10 +1,12 @@
 ###Index
+* [Databases](#databases)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Ruby](#ruby)
 
-
+###Databases
+* [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford Univesity)
 
 ###HTML / CSS
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
@@ -17,7 +19,6 @@
 
 ###Oracle PL/SQL
 * [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession.aspx)
-
 
 ###Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)

@@ -6,8 +6,8 @@
 * [Ruby](#ruby)
 
 ###Databases
-* [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
-* [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford Univesity)
+* [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
+* [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 
 ###HTML / CSS
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)

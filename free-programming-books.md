@@ -1,4 +1,32 @@
+<<<<<<< HEAD
+##Index
+* [misc](#misc)
+* [Meta-Lists](#meta-lists)
+* [Graphical user interfaces](#graphical-user-interfaces)
+* [Graphics Programming](#graphics-programming)
+* [Language Agnostic](#language-agnostic)
+    * [Algorithms & Datastructures](#algorithms--datastructures)
+    * [Theoretical Computer Science](#theoretical-computer-science)
+    * [Operating systems](#operating-systems)
+    * [Database](#database)
+    * [Networking](#networking)
+    * [Compiler Design](#compiler-design)
+    * [Programming Paradigms](#programming-paradigms)
+    * [Parallel Programming](#parallel-programming)
+    * [Software Architecture](#software-architecture)
+    * [Open Source Ecosystem](#open-source-ecosystem)
+    * [Information Retrieval](#information-retrieval)
+    * [Datamining](#datamining)
+    * [Machine Learning](#machine-learning)
+    * [Mathematics](#mathematics)
+    * [Misc](#misc)
+    * [Web Performance](#web-performance)
+    * [MOOC](#mooc)
+    * [Professional Development](#professional-development)
+    * [Security](#security)
+=======
 ﻿###Index
+>>>>>>> ec2ca4b2f5d816dc14145e9a3bc75fe0a8d7d420
 * [Ada](#ada)
 * [Agda](#agda)
 * [Android](#android)
@@ -153,6 +181,10 @@
 * [Workflow](#workflow)
 * [xBase (dBase / Clipper / Harbour)](#xbase-dbase--clipper--harbour)
 
+##Content
+
+###misc
+* [DevDocs](http://devdocs.io/)
 
 ###Meta-Lists
 * [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/)
@@ -1350,10 +1382,14 @@ See also [TeX](#tex)
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
+<<<<<<< HEAD
+* [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) - PDF
+=======
 * [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (PDF)
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Module of the Week](http://pymotw.com/2/)
+>>>>>>> ec2ca4b2f5d816dc14145e9a3bc75fe0a8d7d420
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html)
 * [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF)
 * [Python Scientific Lecture Notes](http://scipy-lectures.github.io/)
@@ -1376,10 +1412,14 @@ See also [TeX](#tex)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
 * [Effective Django](http://effectivedjango.com/) (1.5)
 * [Deploy Django](http://www.deploydjango.com)
+<<<<<<< HEAD
+* [The Django book](http://www.djangobook.com/en/2.0/)
+=======
 * [The Django Book](http://www.djangobook.com) (1.0)
 * [The Django book](http://www.djangobook.com/en/2.0/) (2.0)
 * [Tango With Django](http://www.tangowithdjango.com/) (1.5)
 
+>>>>>>> ec2ca4b2f5d816dc14145e9a3bc75fe0a8d7d420
 
 ####Flask
 * [Explore Flask](http://exploreflask.com/) (PDF)

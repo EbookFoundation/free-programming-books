@@ -45,6 +45,7 @@
 * [Hadoop](#hadoop)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
+    * [Bootstrap](#bootstrap)
 * [Icon](#icon)
 * [IDL](#idl)
 * [iOS](#ios)
@@ -861,6 +862,7 @@
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html) -  Simon Marlow
 
+
 ###HTML / CSS
 * [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
 * [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
@@ -876,6 +878,10 @@
 * [Learn CSS Layout](http://learnlayout.com/)
 * [Scalable and Modular Architecture for CSS](http://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
+
+
+####Bootstrap
+* [Twitter Bootstrap Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ###Icon

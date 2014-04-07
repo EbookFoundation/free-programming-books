@@ -21,6 +21,13 @@
 ###Oracle PL/SQL
 * [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession.aspx)
 
+
+###Python
+* [Making Games with Python & Pygame](http://inventwithpython.com/makinggames.pdf)
+* [Invent Your Own Computer Games with Python, 2nd Edition](http://inventwithpython.com/IYOCGwP_book1.pdf)
+* [Hacking Secret Ciphers with Python](http://inventwithpython.com/HackingSecretCiphersWithPython.pdf)
+
+
 ###Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
 

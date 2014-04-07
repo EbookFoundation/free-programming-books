@@ -804,6 +804,7 @@
 
 
 ###Git
+* [The simple guide](http://rogerdudler.github.io/git-guide/)
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 * [Git Immersion](http://gitimmersion.com)

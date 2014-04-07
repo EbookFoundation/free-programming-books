@@ -804,7 +804,6 @@
 
 
 ###Git
-* [The simple guide](http://rogerdudler.github.io/git-guide/)
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 * [Git Immersion](http://gitimmersion.com)
@@ -814,6 +813,7 @@
 * [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html) - Richard E. Silverman
 * [Git Reference](http://www.gitref.org)
 * [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
+* [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [Pro Git](http://git-scm.com/book) - Scott Chacon
 * [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest

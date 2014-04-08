@@ -49,6 +49,7 @@
 * [Icon](#icon)
 * [IDL](#idl)
 * [iOS](#ios)
+* [Isabelle/HOL](#isabelle--hol)
 * [J](#j)
 * [Java](#java)
     * [Wicket](#wicket)
@@ -897,6 +898,10 @@
 ###iOS
 * [iOS Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/RoadMapiOS.pdf) (PDF)
+
+
+###Isabelle/HOL
+* [Isabelle/HOL - A Proof Assistant for Higher-Order Logic by Tobias Nipkow and Lawrence C. Paulson and Markus Wenzel](http://isabelle.in.tum.de/doc/tutorial.pdf) (PDF)
 
 
 ###J

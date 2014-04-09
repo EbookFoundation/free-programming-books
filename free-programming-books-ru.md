@@ -138,7 +138,9 @@
 
 
 ###Perl
-* [Pragmatic Perl (журнал)](http://pragmaticperl.com)
+* [Введение в Perl](http://www.opennet.ru/docs/RUS/perl-maslov/) - Маслов Владимир Викторович
+* [Краткий экскурс в Perl-программирование](http://www.opennet.ru/docs/RUS/perl_help/) - Докучаев Дмитрий
+* [Pragmatic Perl](http://pragmaticperl.com) - журнал
 
 
 ###PHP
@@ -169,6 +171,7 @@
 ###Ruby
 * [Ruby](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
 * [Ruby](http://ru.wikibooks.org/wiki/Ruby) - Викиучебник
+* [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн
 
 
 ###RSpec
@@ -203,7 +206,7 @@
 
 ###Vim
 * [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
-
+* [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook/) - Steve Oualline
 
 ###Parallel
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)

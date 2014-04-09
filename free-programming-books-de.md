@@ -129,7 +129,6 @@
 
 ###Ruby
 * [Programmieren mit Ruby](http://approximity.com/rubybuch2/)
-* [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
 
 
 ###Ruby on Rails

@@ -636,6 +636,7 @@
 * [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
+* [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 * [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)

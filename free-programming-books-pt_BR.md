@@ -17,7 +17,7 @@
 ###C
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
-
+* [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 
 ###Engenharia de Software
 ####Metodologias de Desenvolvimento de Software

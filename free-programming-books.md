@@ -97,6 +97,7 @@
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [.NET (C# / VB / Nemerle / Visual Studio)](#net-c--vb--nemerle--visual-studio)
+* [Neo4J](#neo4j)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)
 * [Objective-C](#objective-c)
@@ -1169,6 +1170,10 @@ See also [TeX](#tex)
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 * [Visual Studio Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
 * [Under the Hood of .NET Memory Management](http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf) (PDF) *(RedGate, By Chris Farrell and Nick Harrison)*
+
+
+###Neo4J
+* [Graph Databases](http://info.neotechnology.com/rs/neotechnology/images/GraphDatabases.pdf)
 
 
 ###NoSQL

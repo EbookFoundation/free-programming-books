@@ -741,6 +741,7 @@
 
 ###Elasticsearch
 * [Exploring Elasticsearch](http://exploringelasticsearch.com/)
+* [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
 
 
 ###Emacs

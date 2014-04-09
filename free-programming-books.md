@@ -404,7 +404,6 @@
 ####Networking
 * [802.11ac: A Survival Guide](http://chimera.labs.oreilly.com/books/1234000001739) - Matthew Gast
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
-* [Computer Networking: Principles, Protocols and Practice, 2nd edition (CNP3bis)](http://cnp3bis.info.ucl.ac.be/) (PDF, EPUB + [sources](https://github.com/obonaventure/cnp3/tree/master/book-2nd)) - O. Bonaventure (in progress)
 * [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 * [Network Security Tools](http://commons.oreilly.com/wiki/index.php/Network_Security_Tools)
@@ -424,7 +423,6 @@
 * The Art of Community: Building the New Age of Participation; [First edition](http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf) (PDF), [Second edition](http://ubuntuone.com/0n352YwUjlcFR8PjIELH67) (PDF) - Jono Bacon
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
-* [The Future of Ideas](http://the-future-of-ideas.com/download/lessig_FOI.pdf)
 * [The Future of the Internet](http://futureoftheinternet.org/)
 * [The Performance of Open Source Applications](http://aosabook.org/en/)
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
@@ -508,7 +506,6 @@
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
 * [Software Architecture](http://ftacademy.org/materials/fsm/11) (PDF)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
-* [The Definitive Guide to Building Code Quality](http://nexus.realtimepublishers.com/dgbcq.php)
 * [Web API Design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)
 * [Your API Is Bad](https://leanpub.com/yourapiisbad) *(Leanpub, by Paddy Foran)*
 * [Kanban for skeptics](https://leanpub.com/kanbanforskeptics) *(Leanpub, by Nick Oostvogels)*
@@ -1329,7 +1326,6 @@ See also [TeX](#tex)
 * [Prolog Techniques](http://bookboon.com/int/student/it/prolog-techniques-applications-of-prolog)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
 * [The First 10 Prolog Programming Contests](http://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
-* [Visual Prolog 7.2 for Tyros](http://download.pdc.dk/vip/72/books/tyros/tyros72.pdf) (PDF)
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net/) - Hassan A¨it-Kaci
 * [Prolog Tutorial](https://www.csupomona.edu/~jrfisher/www/prolog_tutorial/pt_framer.html)
 * [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)

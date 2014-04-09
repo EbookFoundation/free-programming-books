@@ -36,7 +36,7 @@
 
 
 ###Méta-listes
-* [Le SILO: Sciences du numérique &amp; Informatique au Lycée: Oui!](https://wiki.inria.fr/sciencinfolycee/Accueil) 
+* [Le SILO: Sciences du numérique &amp; Informatique au Lycée: Oui!](https://wiki.inria.fr/sciencinfolycee/Accueil)
 
 
 ###Non dépendant du langage
@@ -85,7 +85,6 @@
 
 
 ###Caml
-* [Introduction à Objective Caml](http://form-ocaml.forge.ocamlcore.org/html/index.html), par Maxence Guesdon
 * [Le language Caml](http://caml.inria.fr/)
 
 
@@ -185,7 +184,7 @@ Voir aussi [TeX](#tex)
 
 
 ###Sage
-* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr/), par A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann 
+* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr/), par A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann
 
 
 ###Scilab

@@ -30,7 +30,6 @@
 ###C++
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1)
 * [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
-* [OpenGL w C++](http://cpp0x.pl/kursy/Kurs-OpenGL-C++/)
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
 
 

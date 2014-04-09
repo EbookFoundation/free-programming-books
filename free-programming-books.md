@@ -78,6 +78,7 @@
     * [Open Source Ecosystem](#open-source-ecosystem)
     * [Operating systems](#operating-systems)
     * [Parallel Programming](#parallel-programming)
+    * [Partial Evaluation](#partial-evaluation)
     * [Professional Development](#professional-development)
     * [Programming Paradigms](#programming-paradigms)
     * [Regular Expressions](#regular-expressions)
@@ -450,6 +451,9 @@
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) - Paul E. McKenney
 * [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
 * [The OpenCL Programming Book](http://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/)
+
+####Partial Evaluation
+* [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - (PDF) Jones, Gomard and Sestoft
 
 
 ####Professional Development

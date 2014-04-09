@@ -203,5 +203,4 @@ Voir aussi [LaTeX](#latex)
 
 
 ###Vim
-* [A Byte of Vim](http://swaroopch.com/notes/Vim_fr/)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)

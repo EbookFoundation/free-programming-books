@@ -957,6 +957,7 @@
 * [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html)
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
 * [Welcome to the Java Workshop](http://javaworkshop.sourceforge.net/) - An Apache Project
+* [What's New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
 
 ####Wicket
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)

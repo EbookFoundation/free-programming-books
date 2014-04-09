@@ -19,7 +19,6 @@
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 
-http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html
 ###Engenharia de Software
 ####Metodologias de Desenvolvimento de Software
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)

@@ -11,6 +11,7 @@
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](http://egghead.io)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [Mastering AngularJS Directives](http://pascalprecht.github.com/slides/mastering-angularjs-directives/)
+* [Seven-Part Introduction to Angular](http://ngokevin/blog/angular-1)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 

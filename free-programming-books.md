@@ -1173,7 +1173,7 @@ See also [TeX](#tex)
 
 
 ###Neo4J
-* [Graph Databases](http://info.neotechnology.com/rs/neotechnology/images/GraphDatabases.pdf)
+* [Graph Databases](http://info.neotechnology.com/rs/neotechnology/images/GraphDatabases.pdf) (PDF)
 
 
 ###NoSQL
@@ -1638,7 +1638,7 @@ See also [LaTeX](#latex)
 
 
 ###Vim
-* [A Byte of Vim](http://www.swaroopch.com/notes/Vim)
+* [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 * [A guide to getting started with VIM](http://www.integralist.co.uk/posts/a-guide-to-getting-started-with-vim/)
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline
 * [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)

@@ -129,7 +129,6 @@
 
 ###Ruby
 * [Programmieren mit Ruby](http://approximity.com/rubybuch2/)
-* [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
 
 
 ###Ruby on Rails
@@ -137,6 +136,7 @@
 * [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) [PDF]
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) [PDF]
 * [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
+* [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/)
 
 
 ###Scilab

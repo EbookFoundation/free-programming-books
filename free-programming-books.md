@@ -644,6 +644,7 @@
 * [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
+* [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [The C book](http://publications.gbdirect.co.uk/c_book/)

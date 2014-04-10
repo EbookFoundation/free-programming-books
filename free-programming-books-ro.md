@@ -4,6 +4,7 @@
 * [HTML](#hmtl)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [MySQL](#mysql)
 * [PHP](#php)
 * [XHTML](#xhtml)
 
@@ -26,6 +27,11 @@
 
 ###JavaScript
 * [JavaScript](http://www.tutorialeweb.net/javascript/)
+
+
+###MySQL
+* [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf)
+
 
 ###PHP
 * [PHP](http://www.tutorialeweb.net/php/)

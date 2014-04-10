@@ -16,7 +16,7 @@
 
 
 ###Java
-* [Curs practic de Java](http://web.info.uvt.ro/~iordan/PIII/Cristian_Frasinaru-Curs_practic_de_Java.pdf) - Cristian Fr ̆asinar
+* [Curs practic de Java](http://web.info.uvt.ro/~iordan/PIII/Cristian_Frasinaru-Curs_practic_de_Java.pdf) - Cristian Frasinaru [PDF]
 
 
 ###JavaScript

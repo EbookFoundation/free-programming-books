@@ -3,4 +3,4 @@
 
 
 ###PHP
-* [PHP PEAR](http://www.tutorialeweb.net/php/)
+* [PHP](http://www.tutorialeweb.net/php/)

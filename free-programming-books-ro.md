@@ -1,10 +1,15 @@
 ###Index
+* [Ajaxa](#ajax)
 * [CSS](#css)
 * [HTML](#hmtl)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [XHTML](#xhtml)
+
+
+###Ajax
+* [Ajax](http://etutoriale.ro/articles/1483/1/Tutorial-Ajax/)
 
 
 ###CSS

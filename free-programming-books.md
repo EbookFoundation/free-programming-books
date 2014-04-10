@@ -1116,17 +1116,17 @@ See also [TeX](#tex)
 
 
 ###Lua
+* [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/)
 * [Programming In Lua](http://www.lua.org/pil/) (for version 5)
 * [Programming Gems](http://www.lua.org/gems/)
-* [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/)
 
 
 ###Mathematica
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf)
 * [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org/)
 * [Stephen Wolfram's The Mathematica Book](http://reference.wolfram.com/legacy/v5_2/)
-* [Wolfram Mathematica Tutorial Collection](http://www.wolfram.com/learningcenter/tutorialcollection/)
-* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf)
 * [Vector Math for 3d Computer Graphics](http://chortle.ccsu.edu/VectorLessons/index.html)
+* [Wolfram Mathematica Tutorial Collection](http://www.wolfram.com/learningcenter/tutorialcollection/)
 
 
 ###MATLAB
@@ -1145,15 +1145,15 @@ See also [TeX](#tex)
 
 ###Maven
 * [Better Builds with Maven](http://www.maestrodev.com/better-build-maven)
+* [Developing with Eclipse and Maven](http://www.sonatype.com/books/m2eclipse-book/reference/)
 * [Maven by Example](http://www.sonatype.com/books/mvnex-book/reference/public-book.html)
 * [Maven: The Complete Reference](http://www.sonatype.com/books/mvnref-book/reference/public-book.html)
 * [Repository Management with Nexus](http://www.sonatype.com/books/nexus-book/reference/)
-* [Developing with Eclipse and Maven](http://www.sonatype.com/books/m2eclipse-book/reference/)
 
 
 ###Mercurial
-* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/) -
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com/)
+* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/) -
 
 
 ###MySQL
@@ -1312,8 +1312,8 @@ See also [TeX](#tex)
 
 
 ###PowerShell
-* [Mastering PowerShell](http://powershell.com/cs/blogs/ebook/)
 * [Layman’s Guide to PowerShell 2.0 remoting](http://www.ravichaganti.com/blog/wp-content/plugins/download-monitor/download.php?id=22) (PDF)
+* [Mastering PowerShell](http://powershell.com/cs/blogs/ebook/)
 * [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 
 
@@ -1325,6 +1325,7 @@ See also [TeX](#tex)
 * [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/advfrtop.htm)
 * [Applications of Prolog](http://bookboon.com/int/student/it/applications-of-prolog)
 * [Building Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
+* [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
 * [Introduction to Prolog for Mathematicians](http://www.j-paine.org/prolog/mathnotes/files/pms/pms.html)
 * [Learn Prolog Now!](http://www.learnprolognow.org/)
 * [Logic, Programming and Prolog (2ed)](http://www.ida.liu.se/~ulfni/lpp/)
@@ -1335,11 +1336,10 @@ See also [TeX](#tex)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
 * [Prolog Programming: A First Course](http://engronline.ee.memphis.edu/deductiveDB/prolog_book.pdf) - Paul Brna
 * [Prolog Techniques](http://bookboon.com/int/student/it/prolog-techniques-applications-of-prolog)
+* [Prolog Tutorial](https://www.csupomona.edu/~jrfisher/www/prolog_tutorial/pt_framer.html)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
 * [The First 10 Prolog Programming Contests](http://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net/) - Hassan A¨it-Kaci
-* [Prolog Tutorial](https://www.csupomona.edu/~jrfisher/www/prolog_tutorial/pt_framer.html)
-* [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
 
 
 ###Python

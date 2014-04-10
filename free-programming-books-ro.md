@@ -1,6 +1,7 @@
 ###Index
 * [CSS](#css)
 * [HTML](#hmtl)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [XHTML](#xhtml)
@@ -12,6 +13,10 @@
 
 ###HMTL
 * [HTML](http://tutorialehtml.com/htmlt)
+
+
+###Java
+* [Curs practic de Java](http://web.info.uvt.ro/~iordan/PIII/Cristian_Frasinaru-Curs_practic_de_Java.pdf) - Cristian Fr ̆asinar
 
 
 ###JavaScript

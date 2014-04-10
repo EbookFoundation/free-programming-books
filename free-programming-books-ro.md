@@ -2,6 +2,7 @@
 * [CSS](#css)
 * [JavaScript](#javascript)
 * [PHP](#php)
+* [XHTML](#xhtml)
 
 
 ###CSS
@@ -13,3 +14,7 @@
 
 ###PHP
 * [PHP](http://www.tutorialeweb.net/php/)
+
+
+###XHTML
+* [XHTML](http://www.tutorialeweb.net/xhtml/)

@@ -313,6 +313,7 @@
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/whole.pdf) (PDF) or [online version](http://www1.maths.leeds.ac.uk/~charles/statlog/) - This book is based on the EC (ESPRIT) project StatLog.
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
+* [Programming Collective Intelligence](http://edc.tversu.ru/elib/inf/0251.pdf) (PDF) - Toby Segaran
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman

@@ -179,8 +179,8 @@
 
 
 ###Ruby on Rails
-* [Ruby on Rails Guides](http://rusrails.ru)
-* [Ruby on Rails Tutorial](http://railstutorial.ru)
+* [Ruby on Rails Tutorial. Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning) Майкл Хартл
+* [Ruby on Rails по-русски](http://rusrails.ru)
 
 
 ###Scala

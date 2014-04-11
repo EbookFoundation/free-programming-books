@@ -57,7 +57,8 @@
 * [Eloquent Javascript PT-BR](https://leanpub.com/eloquentejavascript)
 * [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
-
+* [Node.js para Leigos](http://udgwebdev.com/nodejs)
+* [Tudo sobre Meteor](http://udgwebdev.com/meteor)
 
 ###LaTeX
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)

@@ -6,7 +6,6 @@
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
     * [Méthodes de développment](#méthodes-de-développement)
-    * [Systèmes informatiques](#systèmes-informatiques)
     * [Théorie des langages](#théorie-des-langages)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
@@ -66,10 +65,6 @@
 
 ####Méthodes de développement
 * [Scrum et XP depuis les tranchées](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf), par Henrik Kniberg
-
-
-####Systèmes Informatiques
-* [Systèmes Informatiques (C, Unix/Linux,...)](http://sinf1252.info.ucl.ac.be/), par Olivier Bonaventure ([sources](https://github.com/obonaventure/SystemesInformatiques))
 
 
 ####Théorie des langages

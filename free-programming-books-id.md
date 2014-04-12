@@ -1,12 +1,8 @@
 ###Index
 
-* [JAVA](#java)
 * [HTML & CSS](#html-css)
 * [Javascript](#javascript)
 * [PHP](#php)
-
-###java
-* [JENI Programming](http://www.taryo.net/free-e-book-pemrograman-java-edisi-indonesia-lengkap.html)
 
 ###html-css
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)

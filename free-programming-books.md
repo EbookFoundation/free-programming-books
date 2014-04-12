@@ -313,7 +313,6 @@
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/whole.pdf) (PDF) or [online version](http://www1.maths.leeds.ac.uk/~charles/statlog/) - This book is based on the EC (ESPRIT) project StatLog.
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
-* [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The Python Game Book](http://thepythongamebook.com/en:start)
@@ -326,11 +325,9 @@
 
 ####Mathematics
 * [A First Course in Linear Algebra](http://linear.ups.edu/) - Robert A. Beezer
-* [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
 * [CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
 * [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) (PDF) - Silvanus P. Thompson
-* [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) (PDF)
 * [Collaborative Statistics](http://cnx.org/content/col10522/latest/)
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke

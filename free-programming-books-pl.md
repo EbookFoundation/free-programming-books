@@ -8,6 +8,7 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [PHP](#php)
+* [Prolog](#prolog)
 * [Python](#python)
 * [Ruby](#ruby)
 * [SQL](#sql)
@@ -57,6 +58,10 @@
 ###PHP
 * [PHP](http://pl.wikibooks.org/wiki/PHP)
 * [PHP: The Right Way](http://pl.phptherightway.com/)
+
+
+###Prolog
+* [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl/)
 
 
 ###Python

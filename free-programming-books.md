@@ -117,6 +117,7 @@
 * [PowerShell](#powershell)
 * [Processing](#processing)
 * [Prolog](#prolog)
+    * [Constraint Logic Programming](#constraint-logic-programming-extended-prolog)
 * [Python](#python)
     * [Django](#django-version)
     * [Flask](#flask)
@@ -1338,6 +1339,10 @@ See also [TeX](#tex)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
 * [The First 10 Prolog Programming Contests](http://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net/) - Hassan A¨it-Kaci
+
+
+####Constraint Logic Programming (extended Prolog)
+* [A Gentle Guide to Constraint Logic Programming via ECLiPSe](http://anclp.pl/)
 
 
 ###Python

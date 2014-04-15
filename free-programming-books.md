@@ -1280,6 +1280,7 @@ See also [TeX](#tex)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
 * [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
 * Laravel Framework
+    * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/l4) 
     * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
 * Drupal Framework
     * [High Performance Drupal](http://chimera.labs.oreilly.com/books/1230000000845) - Jeff Sheltren, Narayan Newton, and Nathaniel Catchpole

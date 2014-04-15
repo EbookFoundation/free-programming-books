@@ -12,6 +12,8 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [SQL](#sql)
+* [HTML](#html)
+* [CSS](#css)
 
 
 ###Niezależne od języka programowania
@@ -76,3 +78,9 @@
 
 ###SQL
 * [SQL i PL/SQL – podstawy](http://jsystems.pl/storage/sqlplsql1.pdf)
+
+###HTML
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+
+###CSS
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)

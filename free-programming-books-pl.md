@@ -2,8 +2,10 @@
 * [Niezależne od języka programowania](#niezale%C5%BCne-od-j%C4%99zyka-programowania)
 * [C](#c)
 * [C++](#c-1)
+* [CSS](#css)
 * [Common Lisp](#common-lisp)
 * [Haskell](#haskell)
+* [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -12,8 +14,6 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [SQL](#sql)
-* [HTML](#html)
-* [CSS](#css)
 
 
 ###Niezależne od języka programowania
@@ -36,12 +36,20 @@
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
 
 
+###CSS
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+
+
 ###Common Lisp
 * [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php)
 
 
 ###Haskell
 * [Haskell](http://pl.wikibooks.org/wiki/Haskell)
+
+
+###HTML
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
 
 
 ###Java
@@ -78,9 +86,3 @@
 
 ###SQL
 * [SQL i PL/SQL – podstawy](http://jsystems.pl/storage/sqlplsql1.pdf)
-
-###HTML
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
-
-###CSS
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)

@@ -18,6 +18,7 @@
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
+* [O Fantástico Mundo da Linguagem C] (https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
 
 ###Engenharia de Software
 ####Metodologias de Desenvolvimento de Software

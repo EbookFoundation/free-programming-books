@@ -653,6 +653,7 @@
 * [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
 
+
 ###C++
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
@@ -700,7 +701,6 @@
 * [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read)
 * [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
-
 
 
 ###ColdFusion
@@ -755,7 +755,6 @@
 * [Erlang Handbook](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
 * [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726/index.html) - J. David Eisenberg
 * [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/) - Frederic Trottier-Hebert
-
 
 
 ###F Sharp
@@ -1282,7 +1281,7 @@ See also [TeX](#tex)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
 * [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
 * Laravel Framework
-    * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/l4) 
+    * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/l4)
     * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
 * Drupal Framework
     * [High Performance Drupal](http://chimera.labs.oreilly.com/books/1230000000845) - Jeff Sheltren, Narayan Newton, and Nathaniel Catchpole

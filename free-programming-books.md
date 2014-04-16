@@ -1379,6 +1379,7 @@ See also [TeX](#tex)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
+* [Python 2.7 quick reference](http://infohost.nmt.edu/tcc/help/pubs/python/web/) - New Mexico Tech
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
 * [Python for Fun](http://www.openbookproject.net/py4fun/)

@@ -20,7 +20,7 @@
 
 ###iOS
 * [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) (slides and videos) - Stanford University
-
+* [Cocoa Dev Central](http://cocoadevcentral.com/)
 
 ###Oracle PL/SQL
 * [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession.aspx)

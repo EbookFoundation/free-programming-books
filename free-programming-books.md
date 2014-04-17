@@ -255,7 +255,7 @@
 
 
 ####Compiler Design
-* [Basics of Compiler Design (Anniversary Edition](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
+* [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
 * [Compilers and Compiler Generators: An Introduction with C++](http://www.scifac.ru.ac.za/compilers/) - P. D. Terry
 * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
 * [Compiler Design: Theory, Tools, and Examples, C/C++ Edition](http://elvis.rowan.edu/~bergmann/books/c_cpp/) - Seth D. Bergmann

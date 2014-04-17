@@ -1654,6 +1654,7 @@ See also [LaTeX](#latex)
 * [Conquering the Command Line](http://www.conqueringthecommandline.com/)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/) (HTML)
+* [Unix for Poets](https://phaven-prod.s3.amazonaws.com/files/document_part/asset/25053/HYDkIhrS3il3SWCjj-WZ-ScKn2Y/UnixforPoets.pdf) - Kenneth Ward Church (PDF)
 
 
 ###Vim

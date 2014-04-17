@@ -11,6 +11,8 @@
 * [Scala](#scala)
 * [Shell](#shell)
 * [Database](#database)
+* [Golang](#golang)
+* [Python](#python)
 
 
 ###在线教育
@@ -75,3 +77,11 @@
 ### Database
 * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 * [Redis 设计与实现](http://www.redisbook.com)
+
+### Golang
+* [Go Web编程](https://github.com/astaxie/build-web-application-with-golang)
+* [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
+
+### Python
+* [深入Python](http://woodpecker.org.cn/diveintopython/)
+* [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)

@@ -13,6 +13,7 @@
 * [Linux](#linux)
     * [Distribuce](#distribuce)
 * [OpenSource](#opensource)
+* [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
 * [TeX](#tex)
@@ -79,6 +80,8 @@
 * [Tvorba open source softwaru](http://www.root.cz/knihy/tvorba-open-source-softwaru/stahnout/1303/) (PDF)
 * [Katedrála a tržiště](http://www.root.cz/knihy/katedrala-a-trziste/) (PDF)
 
+###PHP
+* [PHP Tvorba interaktivních internetových aplikací](http://www.kosek.cz/php/php-tvorba-interaktivnich-internetovych-aplikaci.pdf)
 
 ###Python
 * [Ponořme se do Pythonu 3](http://www.root.cz/knihy/ponorme-se-do-pythonu-3/stahnout/1025/) (PDF)

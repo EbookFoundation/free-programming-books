@@ -1379,6 +1379,7 @@ See also [TeX](#tex)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
+* [Python 2.7 quick reference](http://infohost.nmt.edu/tcc/help/pubs/python/web/) - New Mexico Tech
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
@@ -1394,11 +1395,11 @@ See also [TeX](#tex)
 * [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+* [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz
 * [The Art and Craft of Programming](http://beastie.cs.ua.edu/cs150/book/index.html)
 * [The Programming Historian](http://niche-canada.org/files/programming-historian-1.pdf) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming)
-* [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) - HTML
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](https://dl.dropbox.com/u/18065445/web2py/web2py_manual_5th.pdf) (PDF)

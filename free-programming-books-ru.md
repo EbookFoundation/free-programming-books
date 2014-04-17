@@ -169,6 +169,7 @@
 
 
 ###Ruby
+* [Ruby за двадцать минут](https://www.ruby-lang.org/ru/documentation/quickstart/)
 * [Ruby](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
 * [Ruby](http://ru.wikibooks.org/wiki/Ruby) - Викиучебник
 * [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн

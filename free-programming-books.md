@@ -95,6 +95,7 @@
 * [MATLAB](#matlab)
 * [Maven](#maven)
 * [Mercurial](#mercurial)
+* [Mercury](#mercury)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [.NET (C# / VB / Nemerle / Visual Studio)](#net-c--vb--nemerle--visual-studio)
@@ -1155,6 +1156,10 @@ See also [TeX](#tex)
 ###Mercurial
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com/)
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/) -
+
+
+###Mercury
+* [The Mercury Users' Guide](http://www.mercurylang.org/information/doc-release/user_guide.pdf) (PDF)
 
 
 ###MySQL

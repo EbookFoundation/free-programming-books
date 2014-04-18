@@ -13,6 +13,7 @@
 * [Database](#database)
 * [Golang](#golang)
 * [Python](#python)
+* [Visual Prolog](#visual-prolog)
 
 
 ###在线教育
@@ -85,3 +86,7 @@
 ### Python
 * [深入Python](http://woodpecker.org.cn/diveintopython/)
 * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)
+
+### Visual Prolog
+* [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
+* [Visual Prolog 7初学指南](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog_in_Chinese)

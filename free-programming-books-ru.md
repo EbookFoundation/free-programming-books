@@ -145,6 +145,7 @@
 
 ###PHP
 * [Руководство по PHP](http://docs.php.net/manual/ru/)
+* [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)
 
 

@@ -83,6 +83,7 @@
 ####Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/)
+* [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
 
 
 ####Paradigmas de Programación

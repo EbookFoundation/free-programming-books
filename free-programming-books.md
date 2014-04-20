@@ -580,6 +580,7 @@
 
 
 ###Assembly Language
+* [An introduction to reverse engineering for beginners](https://github.com/dennis714/RE-for-beginners)
 * [Assembly Language Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Assembly_Language_Succinctly.pdf)
 * [Paul Carter's Tutorial on x86 Assembly](http://drpaulcarter.com/pcasm/)
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
@@ -591,7 +592,6 @@
 * [The Second Book Of Machine Language](http://www.atariarchives.org/2bml/)
 * [Wizard Code](http://vendu.twodots.nl/wizardcode.html)
 * [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly)
-* [An introduction to reverse engineering for beginners](https://github.com/dennis714/RE-for-beginners)
 
 
 ####Non-X86

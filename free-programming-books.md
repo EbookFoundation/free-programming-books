@@ -524,6 +524,7 @@
 ####Theoretical Computer Science
 * [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
 * [Building Blocks for Theoretical Computer Science](http://www.cs.uiuc.edu/~mfleck/building-blocks/index.html) - Margaret M. Fleck
+* [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
 * [Introduction to Computing](http://www.computingbook.org/)
 * [Introduction to Theory of Computation](http://cg.scs.carleton.ca/~michiel/TheoryOfComputation/) (PDF) - Anil Maheshwari and Michiel Smid

@@ -858,6 +858,7 @@
 * [A Haskell School of Music](http://haskell.cs.yale.edu/?post_type=publication&p=112) (PDF) (work in progress)
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
+* [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) (course) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) (course notes and slides) - Bryan O'Sullivan
 * [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres L¨oh
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.2)

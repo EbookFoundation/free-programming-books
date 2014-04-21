@@ -8,6 +8,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [PHP](#php)
 * [LaTeX](#latex)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -60,6 +61,9 @@
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
 * [Node.js para Leigos](http://udgwebdev.com/nodejs)
 * [Tudo sobre Meteor](http://udgwebdev.com/meteor)
+
+###Php
+* [PHP](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
 
 ###LaTeX
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)

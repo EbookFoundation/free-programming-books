@@ -2,6 +2,7 @@
 #### Desenvolvimento
 > Interessado em saber o que é uma ***linguagem de programação*** e para que server? Então [clique aqui](http://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o)
 
+* [Lógica de programação](#lógica-de-programação)
 * [C](#c)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -28,8 +29,11 @@
 
 - - -
 
+####Lógica de Programação
+* [Básico de lógica de programação](http://www.inf.ufsc.br/~vania/teaching/ine5231/Logica.pdf)
+
 ####C
-* [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
+* [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)

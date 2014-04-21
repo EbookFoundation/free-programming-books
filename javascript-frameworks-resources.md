@@ -38,6 +38,8 @@
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [Ember 101](http://ember101.com/)
 * [Let's Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/)
+* [EmberFlare](https://emberflare.com/)
+* [Ember App with RailsApi](http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html)
 
 
 ## Knockout.js

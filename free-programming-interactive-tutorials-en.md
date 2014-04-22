@@ -88,7 +88,6 @@
 
 ###Python
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
-* [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/)
 * [Learn Python](http://www.learnpython.org/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 

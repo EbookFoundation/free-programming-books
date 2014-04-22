@@ -1,6 +1,7 @@
 ###目录
 * [在线教育](#在线教育)
 * [软件开发方法](#%e8%bd%af%e4%bb%b6%e5%bc%80%e5%8f%91%e6%96%b9%e6%b3%95)
+* [操作系统](#操作系统)
 * [HTML / CSS](#html--css)
 * [版本控制](#版本控制)
 * [Ruby](#ruby)
@@ -29,6 +30,8 @@
 * [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
 * [文章《Functional Programming For The Rest of Us》的中文翻译](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
 
+###操作系统
+* [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 
 ###HTML / CSS
 * [学习CSS布局](http://zh.learnlayout.com/)

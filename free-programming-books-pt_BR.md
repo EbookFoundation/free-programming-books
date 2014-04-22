@@ -3,6 +3,7 @@
 > Interessado em saber o que é uma ***linguagem de programação*** e para que server? Então [clique aqui](http://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o)
 
 * [Lógica de programação](#lógica-de-programação)
+* [Orientação a Objetos](#orientação-a-objetos)
 * [C](#c)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -31,6 +32,10 @@
 
 ####Lógica de Programação
 * [Básico de lógica de programação](http://www.inf.ufsc.br/~vania/teaching/ine5231/Logica.pdf)
+
+####Orientação a Objetos
+* [Programação Orientada a Objetos](http://w3.impa.br/~rbs/pdf/oop.pdf)
+* [Programação Orientada a Objetos: Uma abordagem com Java](http://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf)
 
 ####C
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.

@@ -34,9 +34,10 @@
 
 ####C
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
-* [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
-* [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
+* [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
+* [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html)
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
+* [Aprenda a programar programando na linguagem C](http://www.das.ufsc.br/~jomi/das5334/Livro%20Aberto%20Aprendendo%20a%20Programar%20naLinguagem%20C.pdf)
 
 ####Haskell
 * [Aprender o Haskell será um grande bem para você(tradução em andamento)](https://github.com/taylorrf/learnhaskell)

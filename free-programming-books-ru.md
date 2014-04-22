@@ -145,6 +145,7 @@
 
 ###PHP
 * [Руководство по PHP](http://docs.php.net/manual/ru/)
+* [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)
 
 
@@ -169,6 +170,7 @@
 
 
 ###Ruby
+* [Ruby за двадцать минут](https://www.ruby-lang.org/ru/documentation/quickstart/)
 * [Ruby](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
 * [Ruby](http://ru.wikibooks.org/wiki/Ruby) - Викиучебник
 * [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн

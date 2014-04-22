@@ -8,6 +8,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [PHP](#php)
 * [LaTeX](#latex)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -18,6 +19,7 @@
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
+* [O Fantástico Mundo da Linguagem C] (https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
 
 ###Engenharia de Software
 ####Metodologias de Desenvolvimento de Software
@@ -59,6 +61,9 @@
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
 * [Node.js para Leigos](http://udgwebdev.com/nodejs)
 * [Tudo sobre Meteor](http://udgwebdev.com/meteor)
+
+###Php
+* [PHP](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
 
 ###LaTeX
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)

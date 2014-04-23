@@ -1355,6 +1355,7 @@ See also [TeX](#tex)
 * [Deploy Django](http://www.deploydjango.com)
 * [The Django Book](http://www.djangobook.com)
 * [Tango With Django](http://www.tangowithdjango.com/)
+* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) - HTML
 
 
 ####Flask

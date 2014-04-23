@@ -1411,14 +1411,15 @@ See also [TeX](#tex)
 
 
 ####Django (Version)
-* [Djen of Django](http://agiliq.com/books/djenofdjango/)
+* [Deploy Django](http://www.deploydjango.com)
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
+* [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](http://effectivedjango.com/) (1.5)
-* [Deploy Django](http://www.deploydjango.com)
+* [Tango With Django](http://www.tangowithdjango.com/) (1.5)
+* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7) (HTML)
 * [The Django Book](http://www.djangobook.com) (1.0)
 * [The Django book](http://www.djangobook.com/en/2.0/) (2.0)
-* [Tango With Django](http://www.tangowithdjango.com/) (1.5)
 
 
 ####Flask

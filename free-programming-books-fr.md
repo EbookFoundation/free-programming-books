@@ -6,7 +6,6 @@
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
     * [Méthodes de développment](#méthodes-de-développement)
-    * [Systèmes informatiques](#systèmes-informatiques)
     * [Théorie des langages](#théorie-des-langages)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
@@ -36,7 +35,7 @@
 
 
 ###Méta-listes
-* [Le SILO: Sciences du numérique &amp; Informatique au Lycée: Oui!](https://wiki.inria.fr/sciencinfolycee/Accueil) 
+* [Le SILO: Sciences du numérique &amp; Informatique au Lycée: Oui!](https://wiki.inria.fr/sciencinfolycee/Accueil)
 
 
 ###Non dépendant du langage
@@ -68,10 +67,6 @@
 * [Scrum et XP depuis les tranchées](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf), par Henrik Kniberg
 
 
-####Systèmes Informatiques
-* [Systèmes Informatiques (C, Unix/Linux,...)](http://sinf1252.info.ucl.ac.be/), par Olivier Bonaventure ([sources](https://github.com/obonaventure/SystemesInformatiques))
-
-
 ####Théorie des langages
 * [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) par Université de Bretagne Occidentale
 
@@ -85,7 +80,6 @@
 
 
 ###Caml
-* [Introduction à Objective Caml](http://form-ocaml.forge.ocamlcore.org/html/index.html), par Maxence Guesdon
 * [Le language Caml](http://caml.inria.fr/)
 
 
@@ -185,7 +179,7 @@ Voir aussi [TeX](#tex)
 
 
 ###Sage
-* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr/), par A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann 
+* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr/), par A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann
 
 
 ###Scilab
@@ -203,5 +197,4 @@ Voir aussi [LaTeX](#latex)
 
 
 ###Vim
-* [A Byte of Vim](http://swaroopch.com/notes/Vim_fr/)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)

@@ -104,6 +104,7 @@
 
 
 ###Git
+* [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 * [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 * [Pro Git](http://git-scm.com/book/ru)
 
@@ -114,6 +115,7 @@
 
 ###Haskell
 * [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
+* [О Haskell по-человечески](http://ohaskell.ru/) - Денис Шевченко
 
 
 ###LaTeX
@@ -136,11 +138,14 @@
 
 
 ###Perl
-* [Pragmatic Perl (журнал)](http://pragmaticperl.com)
+* [Введение в Perl](http://www.opennet.ru/docs/RUS/perl-maslov/) - Маслов Владимир Викторович
+* [Краткий экскурс в Perl-программирование](http://www.opennet.ru/docs/RUS/perl_help/) - Докучаев Дмитрий
+* [Pragmatic Perl](http://pragmaticperl.com) - журнал
 
 
 ###PHP
 * [Руководство по PHP](http://docs.php.net/manual/ru/)
+* [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)
 
 
@@ -165,8 +170,10 @@
 
 
 ###Ruby
+* [Ruby за двадцать минут](https://www.ruby-lang.org/ru/documentation/quickstart/)
 * [Ruby](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
 * [Ruby](http://ru.wikibooks.org/wiki/Ruby) - Викиучебник
+* [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн
 
 
 ###RSpec
@@ -174,8 +181,8 @@
 
 
 ###Ruby on Rails
-* [Ruby on Rails Guides](http://rusrails.ru)
-* [Ruby on Rails Tutorial](http://railstutorial.ru)
+* [Ruby on Rails Tutorial. Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning) Майкл Хартл
+* [Ruby on Rails по-русски](http://rusrails.ru)
 
 
 ###Scala
@@ -201,7 +208,7 @@
 
 ###Vim
 * [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
-
+* [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook/) - Steve Oualline
 
 ###Parallel
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)

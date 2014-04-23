@@ -10,11 +10,13 @@
     * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
     * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
+* [C](#C)
+* [C++](#c-1)
 * [CSS](#CSS)
 * [Coffeescript](#coffeescript)
-* [C++](#c)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
+* [Erlang](#erlang)
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
@@ -25,9 +27,13 @@
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [PHP](#php)
 * [Python](#python)
+    * [Django](#django)
+    * [Web2py](#web2py)
 * [Ruby](#ruby)
-* [Ruby on Rails](#ruby-on-rails)
+    * [Ruby on Rails](#ruby-on-rails)
 * [R](#R)
+* [Scala](#scala)
+* [SQL](#sql)
 
 
 ###Metalistas
@@ -41,6 +47,7 @@
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Análisis de Algoritmos](http://docencia.izt.uam.mx/pece/pagina_academica/AA/indexa.html)
 * [Análisis y Diseño de Algoritmos](http://www.aliatuniversidades.com.mx/bibliotecasdigitales/pdf/sistemas/Analisis_y_disenio_de_algoritmos.pdf) (PDF)
+* [Apuntes de Algoritmos y Estructuras de Datos](https://sites.google.com/site/prog3unlp/home/exp_algoritmos.pdf?attredirects=0&d=1) (PDF)
 * [Aprenda a programar como si estuviera en primero](http://www1.ceit.es/asignaturas/Informat1/ayudainf/aprendainf/Programar/Programar.pdf) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Técnicas de Diseño de Algoritmos ](http://www.lcc.uma.es/~av/Libro/indice.html) ([PDF](http://www.lcc.uma.es/%7eav/Libro/Libro.zip))
@@ -67,6 +74,7 @@
 ####Metodologías de desarrollo de software
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
 * [Diseño Ágil con TDD](http://www.dirigidoportests.com/el-libro)
+* [Ingeniería de Software: Una Guía para Crear Sistemas de Información](http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
 * [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 * [Scrum & Extreme Programming (para programadores)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
@@ -75,6 +83,7 @@
 ####Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/)
+* [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
 
 
 ####Paradigmas de Programación
@@ -90,6 +99,14 @@
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
 
+###C
+* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf)
+* [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
+
+
+###C++
+* [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
+
 
 ###CSS
 * [CSS avanzado](http://librosweb.es/css_avanzado/)
@@ -102,10 +119,6 @@
 * [Coffeescript, un pequeño gran libro – Javi Jiménez](https://leanpub.com/coffeescript)
 
 
-###C++
-* [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
-
-
 ###Emacs
 * [Emacs: Iniciación a la edición](http://www.rpublica.net/emacs/emacs.html)
 
@@ -113,6 +126,11 @@
 ###Ensamblador
 * [Codigo de Maquina para Principiantes](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF), Lisa Watts y Mike Wharton [Z80 and 6502 CPUs]
 * [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)
+
+
+###Erlang
+* [Erlang/OTP: Un mundo concurrente](http://erlang-otp.es/)
+* [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) en Wikibooks
 
 
 ###Git
@@ -157,7 +175,8 @@
 
 ###.NET (C# / Visual Studio)
 * [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) (PDF)
-* [Introducción a C#](http://zarza.usal.es/~fgarcia/docencia/poo/04-05/Trabajos/C_Sharp.pdf) (PDF)
+* [Guía de Arquitectura N-capas Orientadas al Dominio](http://msdn.microsoft.com/es-es/architecture/default.aspx)
+
 
 
 ###PHP
@@ -175,7 +194,7 @@
 * [El tutorial de Python](http://tutorialpython.com.ar)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)
-* [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
+* [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
 * [Python instantáneo](http://www.arrakis.es/~rapto/AprendaPython.html)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/python-ingenieria)
@@ -183,12 +202,20 @@
 * [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
 
 
+####Django
+* [El libro de Django 1.0](http://django-book.mkaufmann.com.ar/)
+
+
+####Web2py
+* [Web2py - Manual de Referencia Completo, 5a Edición](http://www.web2py.com/books/default/chapter/41)
+
+
 ###Ruby
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubyperu/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
 
 
-###Ruby on Rails
+####Ruby on Rails
 * [El maldito libro de los Descarrilados](http://yottabi.com/mld.pdf) (PDF)
 
 
@@ -201,4 +228,13 @@
 * [Metodos Estadisticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf)
 * [Optimización Matemática con R: Volumen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf)
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
+
+
+###Scala
+* [Escala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) (En proceso)
+* [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
+
+
+###SQL
+* [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
 

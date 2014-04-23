@@ -2,12 +2,15 @@
 * [Niezależne od języka programowania](#niezale%C5%BCne-od-j%C4%99zyka-programowania)
 * [C](#c)
 * [C++](#c-1)
+* [CSS](#css)
 * [Common Lisp](#common-lisp)
 * [Haskell](#haskell)
+* [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [PHP](#php)
+* [Prolog](#prolog)
 * [Python](#python)
 * [Ruby](#ruby)
 * [SQL](#sql)
@@ -16,6 +19,7 @@
 ###Niezależne od języka programowania
 * [W obronie wolności](http://stallman.helion.pl)
 * [Git](http://pl.wikibooks.org/wiki/Git)
+* [Pro Git](http://git-scm.com/book/pl)
 * [SVN](http://pl.wikibooks.org/wiki/Subversion)
 * [System kontroli wersji Subversion](http://svnbook.opensys.pl)
 * [Pisanie OS](http://pl.wikibooks.org/wiki/Pisanie_OS)
@@ -29,8 +33,11 @@
 ###C++
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1)
 * [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
-* [OpenGL w C++](http://cpp0x.pl/kursy/Kurs-OpenGL-C++/)
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
+
+
+###CSS
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
 
 
 ###Common Lisp
@@ -39,6 +46,10 @@
 
 ###Haskell
 * [Haskell](http://pl.wikibooks.org/wiki/Haskell)
+
+
+###HTML
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
 
 
 ###Java
@@ -56,6 +67,11 @@
 
 ###PHP
 * [PHP](http://pl.wikibooks.org/wiki/PHP)
+* [PHP: The Right Way](http://pl.phptherightway.com/)
+
+
+###Prolog
+* [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl/)
 
 
 ###Python

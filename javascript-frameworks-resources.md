@@ -11,6 +11,7 @@
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](http://egghead.io)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [Mastering AngularJS Directives](http://pascalprecht.github.com/slides/mastering-angularjs-directives/)
+* [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 
@@ -37,6 +38,8 @@
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [Ember 101](http://ember101.com/)
 * [Let's Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/)
+* [EmberFlare](https://emberflare.com/)
+* [Ember App with RailsApi](http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html)
 
 
 ## Knockout.js

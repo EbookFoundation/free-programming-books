@@ -27,7 +27,6 @@
 
 ####Algoritmi e Strutture Dati
 * [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf)
-* [Algoritmi e Strutture Dati](http://homes.di.unimi.it/~bertoni/Algoritmi%20e%20Strutture%20Dati.pdf)
 
 
 ###Android

@@ -1348,14 +1348,14 @@ See also [TeX](#tex)
 
 
 ####Django
-* [Djen of Django](http://agiliq.com/books/djenofdjango/)
-* [Django by Example](http://www.lightbird.net/dbe/)
-* [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
-* [Effective Django](http://effectivedjango.com/)
 * [Deploy Django](http://www.deploydjango.com)
-* [The Django Book](http://www.djangobook.com)
+* [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
+* [Django by Example](http://www.lightbird.net/dbe/)
+* [Djen of Django](http://agiliq.com/books/djenofdjango/)
+* [Effective Django](http://effectivedjango.com/)
 * [Tango With Django](http://www.tangowithdjango.com/)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (HTML)
+* [The Django Book](http://www.djangobook.com)
 
 
 ####Flask

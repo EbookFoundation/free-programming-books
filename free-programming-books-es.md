@@ -237,5 +237,7 @@
 
 
 ###SQL
+* [El lenguaje SQL](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02149.pdf)
+* [Manual de gestión de base de datos](http://www.jorgesanchez.net/bd/gbd2012.pdf)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
 

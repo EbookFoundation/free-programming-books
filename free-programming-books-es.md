@@ -147,6 +147,7 @@
 ###Java
 * [Aprendiendo Java](http://www.compunauta.com/forums/linux/programacion/java/AprendiendoJava.pdf) (PDF)
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com/)
+* [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/pdf/libroJavaConTapa.pdf) (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf), por Jorge L. Ortega Arjona, UNAM (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
@@ -236,5 +237,7 @@
 
 
 ###SQL
+* [El lenguaje SQL](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02149.pdf)
+* [Manual de gestión de base de datos](http://www.jorgesanchez.net/bd/gbd2012.pdf)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
 

@@ -218,6 +218,7 @@
 * [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
 * [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms/) - Dasgupta, Papadimitriou, Vazirani (PDFs)
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
+* [Algorithms and Automatic Computing Machines (1963)] (https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](http://www.math.upenn.edu/~wilf/AlgoComp.pdf) (PDF)
 * [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
 * [Algorithms Course Materials](http://compgeom.cs.uiuc.edu/~jeffe/teaching/algorithms/) - Jeff Erickson

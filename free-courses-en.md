@@ -11,8 +11,9 @@
 
 ###C++
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
-* [LearnCpp.com C++ Tutorial] (http://www.learncpp.com/)
 * [Introduction to C++] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
+* [LearnCpp.com C++ Tutorial] (http://www.learncpp.com/)
+
 
 
 ###Databases

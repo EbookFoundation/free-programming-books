@@ -86,5 +86,6 @@
 
 ###Shell
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf)
+
 ###Lua
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)

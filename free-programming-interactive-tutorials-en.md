@@ -78,10 +78,6 @@
 * [Try Ocaml](http://try.ocamlpro.com/)
 
 
-###Perl
-* [Perltuts.com](http://perltuts.com)
-
-
 ###PHP
 * [Learn PHP](http://www.learn-php.org/)
 

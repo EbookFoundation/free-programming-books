@@ -13,7 +13,7 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
-
+* [Lua](#lua)
 
 ###C
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
@@ -86,3 +86,5 @@
 
 ###Shell
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf)
+###Lua
+* [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)

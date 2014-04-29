@@ -799,11 +799,11 @@
 
 
 ###Forth
-* [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
-* [Thinking Forth](http://thinking-forth.sourceforge.net/)
-* [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf) (PDF)
 * [A Beginner's Guide to Forth](http://hackershelf.com/book/482/a-beginners-guide-to-forth/)
 * [And so Forth...](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf) (PDF)
+* [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf) (PDF)
+* [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
+* [Thinking Forth](http://thinking-forth.sourceforge.net/)
 * [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm)
 
 

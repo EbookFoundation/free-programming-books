@@ -533,6 +533,7 @@
 * [Network Science](http://barabasilab.neu.edu/networksciencebook/index.html)
 * [Practical Foundations for Programming Languages, Preview](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) - Robert Harper
 * [Principles of Programming Languages](http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith
+* [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
 * [Programming Languages: Application and Interpretation (2nd Edition)](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey

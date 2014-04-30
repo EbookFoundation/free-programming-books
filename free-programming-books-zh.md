@@ -42,6 +42,7 @@
 * [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git 参考手册](http://gitref.justjavac.com/)
+* [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
 
 
 ### Ruby

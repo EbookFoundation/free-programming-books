@@ -921,18 +921,19 @@
 
 
 ###J
-* [Learning J by Roger Stokes- online](http://www.rogerstokes.free-online.co.uk/book.htm)
-* [J for C Programmers by Henry Rich- online](http://www.jsoftware.com/help/jforc/contents.htm) || [pdf](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20071003.pdf) || [word 2003 file](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20070929.doc)
-* [J Reference Card](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=view&target=J602_RefCard_color_letter_current.pdf) (PDF)
-* [Brief Reference by Chris Burke and Clifford Reiter](http://www.jsoftware.com/books/pdf/brief.pdf) (PDF)
-* [Computers and Mathematical Notation by Kenneth E Iverson](http://www.jsoftware.com/papers/camn.htm)
-* [Easy J by Linda Alvord, Norman Thomson (PDF)](http://www.jsoftware.com/books/pdf/easyj.pdf) || [Word DOC](http://www.jsoftware.com/books/doc/easyj_doc.zip)
-* [Math for the Layman by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/mftl.zip) (zipped html+images)
-* [Exploring Math by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/expmath.pdf) (PDF)
 * [Arithmetic by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/arithmetic.pdf) (PDF)
+* [Brief Reference by Chris Burke and Clifford Reiter](http://www.jsoftware.com/books/pdf/brief.pdf) (PDF)
 * [Calculus by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/calculus.pdf) (PDF)
 * [Concrete Math Companion by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/cmc.pdf) (PDF)
+* [Computers and Mathematical Notation by Kenneth E Iverson](http://www.jsoftware.com/papers/camn.htm)
+* [Easy J by Linda Alvord, Norman Thomson (PDF)](http://www.jsoftware.com/books/pdf/easyj.pdf) || [Word DOC](http://www.jsoftware.com/books/doc/easyj_doc.zip)
+* [Exploring Math by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/expmath.pdf) (PDF)
+* [J for C Programmers by Henry Rich- online](http://www.jsoftware.com/help/jforc/contents.htm) || [pdf](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20071003.pdf) || [word 2003 file](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20070929.doc)
 * [J Primer](http://www.jsoftware.com/help/primer/contents.htm)
+* [J Reference Card](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=view&target=J602_RefCard_color_letter_current.pdf) (PDF)
+* [Learning J by Roger Stokes- online](http://www.rogerstokes.free-online.co.uk/book.htm)
+* [Math for the Layman by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/mftl.zip) (zipped html+images)
+
 
 
 ###Java

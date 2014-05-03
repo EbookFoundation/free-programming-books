@@ -58,6 +58,7 @@
 ####Base de Datos
 * [Apuntes de Base de Datos 1, Universidad de Alicante](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
 * [Base de Datos, por Mercedes Marqués](http://www.uji.es/bin/publ/edicions/bdatos.pdf) (PDF)
+* [Base de Datos Avanzadas, por Aramburu & Sanz Blasco](http://repositori.uji.es/xmlui/bitstream/handle/10234/48034/s73.pdf)
 * [El modelo relacional y el álgebra relacional](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02148.pdf) (PDF)
 * [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf) (PDF)
 
@@ -98,6 +99,7 @@
 
 ###Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
+
 
 ###C
 * [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf)

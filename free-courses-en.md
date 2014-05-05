@@ -4,7 +4,9 @@
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [JS](#js)
+* [Java](#java)
 * [iOS](#ios)
+* [OCaml](#ocaml)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -33,11 +35,23 @@
 
 ###JS
 * [Egghead.io](https://egghead.io/)
+* [Codecademy Walkthrough](http://www.codecademy.com/tracks/javascript)
+* [LearnStreet Walkthrough](https://www.learnstreet.com/lessons/study/javascript)
 
+###Java
+* [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
+* [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
+* [Problem Solving With Java](https://www.udacity.com/course/cs046)
+* [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
+* [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 
 ###iOS
 * [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) (slides and videos) - Stanford University
+* [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
 
+
+###OCaml
+* [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/)
 
 ###Oracle PL/SQL
 * [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession.aspx)
@@ -45,6 +59,7 @@
 
 ###Python
 * [Google's Python Course](https://developers.google.com/edu/python/)
+* [Berkeley's Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/~cs61a/)
 
 
 ###Ruby

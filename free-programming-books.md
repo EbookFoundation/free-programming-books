@@ -235,7 +235,7 @@
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
 * [Mastering Algorithms with C](http://www.das.ufsc.br/~romulo/discipli/cad-fei/Mastering-Algorithms-with-C-Loudon.pdf) (PDF)
-* [Matters Computational](http://www.jjj.de/fxt/#fxtbook)
+* [Matters Computational](http://www.jjj.de/fxt/)
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
 * [Problems on Algorithms (Second Edition)](http://larc.unt.edu/ian/books/free/poa.pdf), University of North Texas (PDF)
 * [Programming Pearls](http://www.cs.bell-labs.com/cm/cs/pearls/) - Jon Bentley
@@ -342,7 +342,7 @@
 * [Mathematics for Computer Science (November 2013 Version)](http://courses.csail.mit.edu/6.042/fall13/mcs.pdf) (PDF) - Eric Lehman
 * [Number Theory](http://web.mit.edu/~holden1/www/math/number-theory.pdf) (PDF)
 * [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
-* [Power Programming with Mathematica](http://mathematica.stackexchange.com/questions/16485/are-you-interested-in-purchasing-david-wagners-power-programming-with-mathemat/22724#22724) - David B. Wagner
+* [Power Programming with Mathematica](http://mathematica.stackexchange.com/questions/16485/are-you-interested-in-purchasing-david-wagners-power-programming-with-mathemat/22724) - David B. Wagner
 * [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
@@ -367,7 +367,7 @@
 * [Digital Signal Processing For Communications](http://www.sp4comm.org/)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](http://www.lulu.com/shop/luis-enriquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21371318.html) - Luis A. Enríquez
-* [Flow based Programming](http://jpaulmorrison.com/fbp/#book)
+* [Flow based Programming](http://jpaulmorrison.com/fbp/)
 * [Foundations of Programming](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
 * [Getting Real](http://gettingreal.37signals.com/)
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
@@ -628,7 +628,7 @@
 * [Learning the bash Shell](http://www.redbrick.dcu.ie/~teapott/MECS/Notes/learning_bash.pdf)
 * [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
-* [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter#top) - Mark Bates
+* [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates
 
 
 ###Basic
@@ -795,7 +795,7 @@
 * [ISVForce Workbook](http://www.salesforce.com/us/developer/docs/workbook_isv/index.htm) (HTML)
 * [Security Workbook](http://www.salesforce.com/us/developer/docs/workbook_security/index.htm) (HTML)
 * [Service Cloud Workbook](http://www.salesforce.com/us/developer/docs/workbook_service_cloud/index.htm) (HTML)
-* [Site.com Workbook](http://www.salesforce.com/us/developer/docs/workbook_siteforce/index.htm) 
+* [Site.com Workbook](http://www.salesforce.com/us/developer/docs/workbook_siteforce/index.htm)
 * [Visualforce Workbook](http://www.salesforce.com/us/developer/docs/workbook_vf/index.htm) (HTML)
 
 
@@ -830,7 +830,7 @@
 * [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
-* [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction#start) - Tobias Günther
+* [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction) - Tobias Günther
 * [Pro Git](http://git-scm.com/book) - Scott Chacon
 * [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
@@ -864,7 +864,7 @@
 * [A Haskell School of Music](http://haskell.cs.yale.edu/?post_type=publication&p=112) (PDF) (work in progress)
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
-* [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres L¨oh
+* [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
 * [Haskell no panic](http://lisperati.com/haskell/)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
@@ -937,6 +937,7 @@
 
 
 ###Java
+* [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman
 * [Agile Java](http://www.langrsoft.com/ftp/agileJava/) - Jeff Langr
 * [Animation/Games in Java](http://www.heatonresearch.com/articles/series/3)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson
@@ -956,6 +957,7 @@
 * [Java for the Beginning Programmer](http://www.heatonresearch.com/articles/series/15)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
+* [Java: A Beginner's Guide](http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf) - Oracle
 * [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) (PDF)
@@ -971,9 +973,11 @@
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
 * [Tutorial: Java, Maven 2, Eclipse & JSF](http://www.lulu.com/shop/arulkumaran-kumaraswamipillai-and-sivayini-arulkumaran/tutorial-java-maven-2-eclipse-jsf/ebook/product-1603040.html;jsessionid=E57B1E8662500F2ADF96D7B317769B6E) - Arulkumaran Kumaraswamipillai, Sivayini Arulkumaran
+* [UML For Java Programmers](http://www.csd.uoc.gr/~hy252/references/UML_for_Java_Programmers-Book.pdf) - Robert Cecil Martin
 * [Welcome to Java for Python Programmers](http://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop](http://javaworkshop.sourceforge.net/) - An Apache Project
 * [What's New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
+
 
 ####Wicket
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)
@@ -1600,29 +1604,29 @@ See also [TeX](#tex)
 
 
 ###SQL Server
-* [Introducing Microsoft SQL Server 2014](http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx)
-* [Introducing Microsoft SQL Server 2008 R2](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#IntroducingMicrosoftSQLServer2008R2)
-* [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#IntroducingMicrosoftSQLServer2012)
-* [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#SQLServer2012Tutorials:ReportingServices)
-* [SQL Server Execution Plans](http://download.red-gate.com/ebooks/SQL/sql-server-execution-plans.pdf) (PDF) *(RedGate, By Grant Fritchey)*
+* [Best of SQLServerCentral.com Vol 7](http://www.red-gate.com/community/books/ssc-7.htm) *(RedGate, By SQLServerCentral Authors)*
+* [Brad's Sure Guide to SQL Server Maintenance Plans](http://www.red-gate.com/community/books/sql-server-maintenance-plans) *(RedGate, By Brad McGehee)*
 * [Defensive Database Programming](http://download.red-gate.com/ebooks/SQL/defensive-database-programming.pdf) (PDF) *(RedGate, By Alex Kuznetsov)*
-* [SQL Server Execution Plans, Second Edition](http://download.red-gate.com/ebooks/SQL/eBOOK_SQLServerExecutionPlans_2Ed_G_Fritchey.pdf) (PDF) *(RedGate, By Grant Fritchey)*
+* [How to Become an Exceptional DBA](http://www.red-gate.com/community/books/exceptional-dba-book) *(RedGate, By Brad McGehee)*
 * [Inside the SQL Server Query Optimizer](http://www.red-gate.com/products/sql-development/sql-prompt/entrypage/sql-query-optimizer-ebook3) *(RedGate, By Benjamin Nevarez)*
-* [SQL Server Transaction Log Management](http://www.red-gate.com/community/books/sql-server-transaction-log-management) *(RedGate, By Tony Davis and Gail Shaw)*
-* [The Art of SQL Server FILESTREAM](http://www.red-gate.com/community/books/art-of-filestream.htm) *(RedGate, By Jacob Sebastian and Sven Aelterman)*
-* [SQL Server Concurrency: Locking, Blocking and Row Versioning](http://www.red-gate.com/community/books/sql-server-concurrency.htm) *(RedGate, By Kalen Delaney)*
+* [Introducing Microsoft SQL Server 2008 R2](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx)
+* [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx)
+* [Introducing Microsoft SQL Server 2014](http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx)
+* [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler.htm) *(RedGate, By Brad McGehee)*
+* [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views.htm) *(RedGate, By Tim Ford and Louis Davidson)*
+* [Protecting SQL Server Data](http://www.red-gate.com/community/books/protecting-data.htm) *(RedGate, By John Magnabosco)*
+* [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx)
 * [SQL Server Backup and Restore](http://www.red-gate.com/community/books/sql-server-backup-and-restore.htm) *(RedGate, By Shawn McGehee)*
-* [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba) *(RedGate, By Jonathan Kehayias and Ted Krueger)*
+* [SQL Server Concurrency: Locking, Blocking and Row Versioning](http://www.red-gate.com/community/books/sql-server-concurrency.htm) *(RedGate, By Kalen Delaney)*
+* [SQL Server Execution Plans](http://download.red-gate.com/ebooks/SQL/sql-server-execution-plans.pdf) (PDF) *(RedGate, By Grant Fritchey)*
+* [SQL Server Execution Plans, Second Edition](http://download.red-gate.com/ebooks/SQL/eBOOK_SQLServerExecutionPlans_2Ed_G_Fritchey.pdf) (PDF) *(RedGate, By Grant Fritchey)*
 * [SQL Server Hardware](http://www.red-gate.com/community/books/sql-server-hardware) *(RedGate, By Glenn Berry)*
 * [SQL Server Statistics](http://www.red-gate.com/community/books/sql-server-statistics.htm) *(RedGate, By Holger Schmeling)*
-* [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views.htm) *(RedGate, By Tim Ford and Louis Davidson)*
-* [Brad's Sure Guide to SQL Server Maintenance Plans](http://www.red-gate.com/community/books/sql-server-maintenance-plans) *(RedGate, By Brad McGehee)*
-* [Best of SQLServerCentral.com Vol 7](http://www.red-gate.com/community/books/ssc-7.htm) *(RedGate, By SQLServerCentral Authors)*
-* [Protecting SQL Server Data](http://www.red-gate.com/community/books/protecting-data.htm) *(RedGate, By John Magnabosco)*
-* [SQL Server Tacklebox](http://www.red-gate.com/community/books/sql-server-tacklebox) *(RedGate, By Rodney Landrum)*
-* [How to Become an Exceptional DBA](http://www.red-gate.com/community/books/exceptional-dba-book) *(RedGate, By Brad McGehee)*
 * [SQL Server Stumpers Vol.5](http://www.red-gate.com/community/books/sql-server-stumpers-v5.htm) *(RedGate, By SQLServerCentral Authors)*
-* [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler.htm) *(RedGate, By Brad McGehee)*
+* [SQL Server Tacklebox](http://www.red-gate.com/community/books/sql-server-tacklebox) *(RedGate, By Rodney Landrum)*
+* [SQL Server Transaction Log Management](http://www.red-gate.com/community/books/sql-server-transaction-log-management) *(RedGate, By Tony Davis and Gail Shaw)*
+* [The Art of SQL Server FILESTREAM](http://www.red-gate.com/community/books/art-of-filestream.htm) *(RedGate, By Jacob Sebastian and Sven Aelterman)*
+* [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba) *(RedGate, By Jonathan Kehayias and Ted Krueger)*
 
 
 ###Standard ML

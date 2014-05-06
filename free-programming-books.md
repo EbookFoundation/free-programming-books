@@ -615,7 +615,9 @@
 
 
 ###Awk
+* [A User's Guide for GNU AWK](http://www.math.utah.edu/docs/info/gawk_toc.html)
 * [Awk](http://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
+
 
 
 ###Bash
@@ -1662,7 +1664,6 @@ See also [LaTeX](#latex)
 
 
 ###Unix
-* [A User's Guide for GNU AWK](http://www.math.utah.edu/docs/info/gawk_toc.html)
 * [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/) - J. Lions
 * [Conquering the Command Line](http://www.conqueringthecommandline.com/)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel

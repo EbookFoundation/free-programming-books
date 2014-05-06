@@ -619,7 +619,6 @@
 * [Awk](http://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
 
 
-
 ###Bash
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) by Machtelt Garrels

@@ -397,7 +397,7 @@
 * [Pythonヒッチハイク・ガイド](http://python-guide-ja.readthedocs.org/) - Kenneth Reitz, Tsuyoshi Tokuda(翻訳)
 * [Python プログラマーのための gevent チュートリアル](http://methane.github.io/gevent-tutorial-ja/) - Stephen Diehl, Jérémy Bethmont, sww, Bruno Bigras, David Ripton, Travis Cline, Boris Feld, youngsterxyf, Eddie Hebert, Alexis Metaireau, Daniel Velkov, methane(翻訳)
 * [お気楽 Python プログラミング入門](http://www.geocities.jp/m_hiroi/light/index.html) - 広井誠
-
+* [Think Python：コンピュータサイエンティストのように考えてみよう](http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf) - Allen Downey, 相川 利樹（翻訳）
 
 ####Flask
 * [Flask ドキュメント](http://flask-docs-ja.readthedocs.org/) - Armin Ronacher, Tsuyoshi Tokuda(翻訳)

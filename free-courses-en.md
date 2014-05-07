@@ -4,6 +4,7 @@
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [JS](#js)
+* [Java](#java)
 * [iOS](#ios)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
@@ -34,6 +35,11 @@
 ###JS
 * [Egghead.io](https://egghead.io/)
 
+###Java
+* [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
+* [Problem Solving With Java](https://www.udacity.com/course/cs046)
+* [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
+* [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 
 ###iOS
 * [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) (slides and videos) - Stanford University

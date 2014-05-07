@@ -958,7 +958,6 @@
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
 * [Java: A Beginner's Guide](http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf) - Oracle
-* [Java Programming Language Handbook](http://portal.aauj.edu/portal_resources/downloads/programming/javap_programming_language_handbook.pdf)
 * [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) (PDF)

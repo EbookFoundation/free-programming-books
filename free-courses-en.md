@@ -35,6 +35,8 @@
 
 ###JS
 * [Egghead.io](https://egghead.io/)
+* [Codecademy Walkthrough](http://www.codecademy.com/tracks/javascript)
+* [LearnStreet Walkthrough](https://www.learnstreet.com/lessons/study/javascript)
 
 ###Java
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
@@ -45,6 +47,7 @@
 
 ###iOS
 * [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) (slides and videos) - Stanford University
+* [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
 
 
 ###OCaml

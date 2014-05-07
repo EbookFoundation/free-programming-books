@@ -6,6 +6,7 @@
 * [JS](#js)
 * [Java](#java)
 * [iOS](#ios)
+* [OCaml](#ocaml)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -45,6 +46,9 @@
 ###iOS
 * [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) (slides and videos) - Stanford University
 
+
+###OCaml
+* [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/)
 
 ###Oracle PL/SQL
 * [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession.aspx)

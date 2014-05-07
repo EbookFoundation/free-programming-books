@@ -59,7 +59,7 @@
 
 
 ###Javascript
-*[Guida di riferimento](http://www.econ.uniurb.it/laerte/Reti_Internet_1/materiale/JavaScript.pdf)
+* [Guida di riferimento](http://www.econ.uniurb.it/laerte/Reti_Internet_1/materiale/JavaScript.pdf)
 
 
 ###LaTeX
@@ -93,8 +93,8 @@
 
 
 ###Ruby
-*[Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
-*[Ruby User Guide](http://ruby-it.org/rug_it.zip)
+* [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
+* [Ruby User Guide](http://ruby-it.org/rug_it.zip)
 
 
 ###Visual Basic

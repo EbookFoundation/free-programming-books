@@ -1287,30 +1287,29 @@ See also [TeX](#tex)
 
 
 ###PHP
-* [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
-* [PHP: The Right Way](http://www.phptherightway.com/)
-* [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
-* [Symfony2](http://symfony.com/doc/current/book/index.html)
-* [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
-* Laravel Framework
-    * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/l4)
-    * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
+* CakePHP Framework
+    * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf)
 * Drupal Framework
     * Drupal 7
         * [The Tiny Book of Rules](https://drupal.org/files/tiny-book-of-rules.pdf) (PDF)
         * [Master Drupal in 7 hours](http://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf) (PDF)
     * Drupal 8
-* CakePHP Framework
-    * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf)
-* [PHP Internals Book](http://www.phpinternalsbook.com/)
-* [PHP Best Practices](https://phpbestpractices.org/)
-* [PHP Programming](http://en.wikibooks.org/wiki/PHP_Programming)
-* [PHP with Guru99](http://www.smashwords.com/books/view/324888)
-* [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-* [Practical PHP Programming](http://www.tuxradar.com/practicalphp)
+* Laravel Framework
+    * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/l4)
+    * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf)
-* [PHP Security Guide](http://phpsec.org/projects/guide/)
+* [PHP Best Practices](https://phpbestpractices.org/)
 * [PHP Cookbook](http://commons.oreilly.com/wiki/index.php/PHP_Cookbook)
+* [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
+* [PHP Internals Book](http://www.phpinternalsbook.com/)
+* [PHP Programming](http://en.wikibooks.org/wiki/PHP_Programming)
+* [PHP Security Guide](http://phpsec.org/projects/guide/)
+* [PHP: The Right Way](http://www.phptherightway.com/)
+* [PHP with Guru99](http://www.smashwords.com/books/view/324888)
+* [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
+* [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
+* [Symfony2](http://symfony.com/doc/current/book/index.html)
+* [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
 
 
 ###PicoLisp

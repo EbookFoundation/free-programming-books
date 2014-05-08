@@ -871,13 +871,12 @@
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way)
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com/) - Miran Lipovaca
 * [Natural Language Processing for the Working Programmer](http://nlpwp.org/book/index.xhtml)
-* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929)
+* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html) -  Simon Marlow
 * [Real World Haskell](http://book.realworldhaskell.org/)
 * [Speeding Through Haskell](http://www.sthaskell.com/)
 * [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) (PDF)
 * [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
-* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html) -  Simon Marlow
 
 
 ###HTML / CSS

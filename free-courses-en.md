@@ -31,6 +31,8 @@
 ###HTML / CSS
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
+* [Learn HTML & CSS interactively](http://www.codecademy.com/tracks/web)
+* [HTML & CSS for absolute beginners](http://www.tn.gov/agriculture/marketing/Agritourism%20pdfs/LearnHTMLandCSS_AnAbsoluteBeginnersGuide.pdf)
 
 
 ###JS
@@ -60,6 +62,10 @@
 ###Python
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/~cs61a/)
+* [Learn Python the hard way](http://learnpythonthehardway.org/book/)
+* [Python for Programmers](http://www.tutorialspoint.com/python/)
+* [Dive into Python - For experienced programmers](http://www.diveintopython.net/)
+* [Python for Web development](https://docs.python.org/2/howto/webservers.html)
 
 
 ###Ruby

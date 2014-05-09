@@ -39,10 +39,10 @@
 
 
 ###Language Agnostic
-* [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
-* [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf)
+* [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В.
+* [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
 
 
 ####Networking
@@ -63,9 +63,9 @@
 
 
 ###Assembly
-* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
-* [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Ассемблер в Linux для программистов C](http://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
+* [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
+* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
 
 
 ###Bash
@@ -81,8 +81,8 @@
 ###C++
 
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
-* [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
 * [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
+* [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
 
 
 ###CoffeeScript
@@ -94,9 +94,9 @@
 
 
 ###JavaScript
-* [Современный учебник JavaScript](http://learn.javascript.ru)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/) - Иво Ветцель
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
+* [Современный учебник JavaScript](http://learn.javascript.ru)
 
 
 ####Node.js
@@ -104,9 +104,9 @@
 
 
 ###Git
-* [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
-* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 * [Pro Git](http://git-scm.com/book/ru)
+* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
+* [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 
 
 ###Erlang
@@ -138,14 +138,14 @@
 
 
 ###Perl
+* [Pragmatic Perl](http://pragmaticperl.com) - журнал
 * [Введение в Perl](http://www.opennet.ru/docs/RUS/perl-maslov/) - Маслов Владимир Викторович
 * [Краткий экскурс в Perl-программирование](http://www.opennet.ru/docs/RUS/perl_help/) - Докучаев Дмитрий
-* [Pragmatic Perl](http://pragmaticperl.com) - журнал
 
 
 ###PHP
-* [Руководство по PHP](http://docs.php.net/manual/ru/)
 * [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way/)
+* [Руководство по PHP](http://docs.php.net/manual/ru/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)
 
 
@@ -156,8 +156,8 @@
 
 
 ###PostgreSQL
-* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
+* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua)
 
 
 ###R
@@ -200,15 +200,15 @@
 
 
 ###Unix
+* [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
+* [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
 * [Архитектура операционной системы Unix](http://lib.ru/BACH/)
 * [Введение в системное администрирование UNIX](http://lib.ru/unixhelp/) - Мошков. М
-* [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
-* [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
 
 
 ###Vim
-* [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
 * [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook/) - Steve Oualline
+* [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)
 
 ###Parallel
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)

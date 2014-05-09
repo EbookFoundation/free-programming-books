@@ -25,11 +25,11 @@ TODO
     + ☐ : ko
     + ☐ : pt_BR
     + ☐ : pt_PT
-    + ☐ : ru
+    + ☑ : ru
     + ☐ : tr
     + ☐ : zh
     + ☐ : javascript framework
 
-Map:
-☑ : Done
+Map:  
+☑ : Done  
 ☐ : In progress

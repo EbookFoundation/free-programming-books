@@ -1279,7 +1279,6 @@ See also [TeX](#tex)
 * [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
 * [Perl & LWP](http://lwp.interglacial.com/index.html)
 * [Perl for the Web](http://www.globalspin.com/thebook/)
-* [Perl Free Online EBooks](http://linkmingle.com/list/13-plus-List-of-Free-Great-Perl-Books-available-Online-freebooksandarticles) (meta-list)
 * [Perl Training Australia - Course Notes](http://perltraining.com.au/notes.html)
 * [Practical mod_perl](http://modperlbook.org/) - Stas Bekman, Eric Cholet
 * [Plack Handbook](http://handbook.plackperl.org/)

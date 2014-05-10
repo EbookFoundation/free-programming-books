@@ -1141,16 +1141,16 @@ See also [TeX](#tex)
 
 
 ###MATLAB
-* [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
-* [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html)
-* [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html)
-* [MATLAB Programming](http://en.wikibooks.org/wiki/MATLAB_Programming)
-* [Freshman Engineering Problem Solving with MATLAB](http://cnx.org/featureContent/mfiles)
 * [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/ftp/na-reports/MatlabNotes.pdf)
-* [MATLAB - A Fundamental Tool for Scientific Computing and Engineering Applications - Volume 1](http://www.intechopen.com/books/matlab-a-fundamental-tool-for-scientific-computing-and-engineering-applications-volume-1)
 * [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
+* [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html)
+* [Freshman Engineering Problem Solving with MATLAB](http://cnx.org/featureContent/mfiles)
+* [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
+* [MATLAB Programming](http://en.wikibooks.org/wiki/MATLAB_Programming)
 * [MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics)
 * [MATLAB - A Ubiquitous Tool for the Practical Engineer](http://www.intechopen.com/books/matlab-a-ubiquitous-tool-for-the-practical-engineer)
+* [MATLAB - A Fundamental Tool for Scientific Computing and Engineering Applications - Volume 1](http://www.intechopen.com/books/matlab-a-fundamental-tool-for-scientific-computing-and-engineering-applications-volume-1)
+* [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html)
 * [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
 
 

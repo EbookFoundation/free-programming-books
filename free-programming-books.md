@@ -1426,7 +1426,6 @@ See also [TeX](#tex)
 * [Effective Django](http://effectivedjango.com/) (1.5)
 * [Tango With Django](http://www.tangowithdjango.com/) (1.5)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7) (HTML)
-* [The Django Book](http://www.djangobook.com) (1.0)
 * [The Django book](http://www.djangobook.com/en/2.0/) (2.0)
 
 

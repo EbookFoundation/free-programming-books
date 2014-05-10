@@ -1513,7 +1513,7 @@ See also [TeX](#tex)
 
 
 ###Rust
-* [Rust by Example](http://rustbyexample.github.io/)
+* [Rust by Example](http://rustbyexample.com/)
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
 
 

@@ -66,7 +66,6 @@
 * [Python tutorial for beginners](http://www.learnpython.org/)
 
 
-
 ###Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
 * [Ruby track on Codecademy](http://www.codecademy.com/tracks/ruby)

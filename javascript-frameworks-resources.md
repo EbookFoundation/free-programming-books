@@ -3,6 +3,8 @@
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Angular.js Guide](http://docs.angularjs.org/guide/)
 * [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book)
+* [AngularJS Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Angular.js Tutorial](http://docs.angularjs.org/tutorial)
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
@@ -11,6 +13,7 @@
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](http://egghead.io)
 * [Mastering AngularJS Directives](http://pascalprecht.github.com/slides/mastering-angularjs-directives/)
+* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
@@ -20,6 +23,9 @@
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/)
 * [Backbone.js + Require.js, Modularization and Just in Time Dependency Loading, part 1](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) [part 2](http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep)
 * [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
+* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis
+* [Backbonejs Tutorials](http://backbonetutorials.com/)
+* [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com/) (work in progress)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
 * [Hello Backbone - Hello world examples of increasing complexity](http://arturadib.com/hello-backbonejs/)
@@ -34,12 +40,26 @@
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 
+##Dojo
+* [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
+
+
 ## Ember.js
 * [Ember 101](http://ember101.com/)
 * [Ember App with RailsApi](http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html)
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [EmberFlare](https://emberflare.com/)
 * [Let's Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/)
+
+
+##Express.js
+* [Express.js Guide](https://leanpub.com/express/read) *(Leanpub, by Azat Mardanov)*
+
+
+##jQuery
+* [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
+* [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
+* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ## Knockout.js
@@ -61,10 +81,3 @@
     * [Lesson 13 - Additional Knockout features](http://tech.pro/tutorial/1574/knockoutjs-lesson-13-additional-knockout-features)
     * [Lesson 14 - Adding a lightbox](http://tech.pro/tutorial/1575/knockoutjs-lesson-14-adding-a-lightbox)
     * Lesson 15: Summary of the series (Coming soon...)
-
-
-## Node.js
-* [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
-* [Mixu's Node Book](http://book.mixu.net/node/)
-* [The Node Beginner Book](http://nodebeginner.org/)
-* [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)

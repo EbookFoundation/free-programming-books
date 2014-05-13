@@ -54,12 +54,7 @@
 * [Java](#java)
     * [Wicket](#wicket)
 * [JavaScript](#javascript)
-    * [Angular.js](#angularjs)
-    * [Backbone.js](#backbonejs)
-    * [D3.js](#d3js)
-    * [Dojo](#dojo)
-    * [jQuery](#jquery)
-    * [Knockout.js](#knockoutjs)
+    * [Javascript frameworks](#javascript-frameworks)
     * [Node.js](#nodejs)
 * [Language Agnostic](#language-agnostic)
     * [Algorithms & Datastructures](#algorithms--data-structures)
@@ -1017,47 +1012,8 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
 
-
-####Angular.js
-* [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
-* [AngularJS Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
-* [Seven Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
-* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book)
-
-
-####Backbone.js
-* [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
-* [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/)
-* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis
-* [Backbonejs Tutorials](http://backbonetutorials.com/)
-* [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com/) (work in progress)
-* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
-
-
-####D3.js
-* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
-* [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
-* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray
-* [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
-
-
-####Dojo
-* [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
-
-
-####Express.js
-* [Express.js Guide](https://leanpub.com/express/read) *(Leanpub, by Azat Mardanov)*
-
-
-####jQuery
-* [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
-* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
-
-
-####Knockout.js
-* [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
-
+####Javascript Frameworks
+For resources on Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQuery, Knockout.js, and any other JS toolkit/framework, please refer to [Javascript Frameworks Resources and Tutorials](http://resrc.io/list/18/javascript-frameworks/), or to its source file `javascript-frameworks-resources.md`.
 
 ####Node.js
 * [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*

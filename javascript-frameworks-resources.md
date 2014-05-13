@@ -25,7 +25,7 @@
 * [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
 * [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis
 * [Backbonejs Tutorials](http://backbonetutorials.com/)
-* [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com/) (work in progress)
+* [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (work in progress)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
 * [Hello Backbone - Hello world examples of increasing complexity](http://arturadib.com/hello-backbonejs/)

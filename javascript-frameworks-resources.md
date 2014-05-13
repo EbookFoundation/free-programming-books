@@ -1,15 +1,15 @@
 ## Angular.js
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
-* [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
-* [AngularJS Insights](http://pascalprecht.github.com/slides/angularjs-insights/#/)
-* [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
-* [Angular.js Tutorial](http://docs.angularjs.org/tutorial)
-* [Angular.js Guide](http://docs.angularjs.org/guide/)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
-* [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
+* [Angular.js Guide](http://docs.angularjs.org/guide/)
+* [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
+* [Angular.js Tutorial](http://docs.angularjs.org/tutorial)
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
-* [egghead.io: Learn AngularJS with Tutorial Videos & Training](http://egghead.io)
+* [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
+* [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
+* [AngularJS Insights](http://pascalprecht.github.com/slides/angularjs-insights/#/)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
+* [egghead.io: Learn AngularJS with Tutorial Videos & Training](http://egghead.io)
 * [Mastering AngularJS Directives](http://pascalprecht.github.com/slides/mastering-angularjs-directives/)
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
@@ -17,34 +17,34 @@
 
 ## Backbone.js
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
-* [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
+* [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/)
 * [Backbone.js + Require.js, Modularization and Just in Time Dependency Loading, part 1](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) [part 2](http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep)
+* [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
-* [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
-* [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/)
 * [Hello Backbone - Hello world examples of increasing complexity](http://arturadib.com/hello-backbonejs/)
+* [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
 
 ## D3.js
-* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
-* [D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
+* [D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
 * [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
+* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 
 ## Ember.js
-* [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [Ember 101](http://ember101.com/)
-* [Let's Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/)
-* [EmberFlare](https://emberflare.com/)
 * [Ember App with RailsApi](http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html)
+* [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
+* [EmberFlare](https://emberflare.com/)
+* [Let's Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/)
 
 
 ## Knockout.js
-* [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Knockout.js Starter](http://dl.e-book-free.com/2013/07/knockoutjs_starter.pdf)
+* [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * tech.pro: Knockout.js tutorial video series
     * [Lesson 1 - Introduction](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
     * [Lesson 2 - Initialising the application](http://tech.pro/tutorial/1563/knockoutjs-lesson-2-initialising-the-application)

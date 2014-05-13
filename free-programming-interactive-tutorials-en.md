@@ -42,6 +42,11 @@
 * [Try Haskell!](http://tryhaskell.org/)
 
 
+###HTML&CSS
+* [Learn HTML & CSS interactively](http://www.codecademy.com/tracks/web)
+* [Prototyping a professional website](http://www.codecademy.com/skills/prototyping)
+
+
 ###Java
 * [Learn Java](http://www.learnjavaonline.org/)
 
@@ -83,6 +88,7 @@
 
 
 ###Python
+* [Codecademy Python course](http://www.codecademy.com/tracks/python)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
@@ -94,6 +100,7 @@
 
 ###Ruby
 * [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
+* [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
 * [Ruby Koans](http://www.rubykoans.com/)
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
 * [Try Ruby](http://tryruby.org/)

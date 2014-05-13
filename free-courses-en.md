@@ -31,8 +31,7 @@
 ###HTML / CSS
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
-* [Learn HTML & CSS interactively](http://www.codecademy.com/tracks/web)
-* [Prototyping a professional website](http://www.codecademy.com/skills/prototyping)
+
 
 
 ###JS
@@ -62,11 +61,9 @@
 ###Python
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/~cs61a/)
-* [Codecademy Python course](http://www.codecademy.com/tracks/python)
-* [Python tutorial for beginners](http://www.learnpython.org/)
+
 
 
 ###Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
-* [Ruby track on Codecademy](http://www.codecademy.com/tracks/ruby)
-* [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
+

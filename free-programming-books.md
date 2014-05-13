@@ -1023,6 +1023,7 @@
 * [AngularJS Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
 * [Seven Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book)
 
 
 ####Backbone.js

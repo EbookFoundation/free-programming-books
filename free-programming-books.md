@@ -1450,13 +1450,13 @@ See also [TeX](#tex)
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) (PDF) - Julian J. Faraway
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
-* [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
 * [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html) - John D. Cook
+* [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R Programming](http://en.wikibooks.org/wiki/R_Programming)
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) (PDF) - Patrick Burns
-* [The R Manuals](http://cran.r-project.org/manuals.html)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
+* [The R Manuals](http://cran.r-project.org/manuals.html)
 
 
 ###Racket
@@ -1674,12 +1674,12 @@ See also [LaTeX](#latex)
 ###Vim
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 * [A guide to getting started with VIM](http://www.integralist.co.uk/posts/a-guide-to-getting-started-with-vim/)
-* [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline
-* [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
-* [Vim Regular Expressions 101](http://vimregex.com/)
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) *(Leanpub, by Tim Ottinger)*
+* [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline
+* [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)
+* [Vim Regular Expressions 101](http://vimregex.com/)
 
 
 ###Visual Prolog

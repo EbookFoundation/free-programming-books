@@ -1450,13 +1450,13 @@ See also [TeX](#tex)
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) (PDF) - Julian J. Faraway
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
-* [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
 * [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html) - John D. Cook
+* [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R Programming](http://en.wikibooks.org/wiki/R_Programming)
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) (PDF) - Patrick Burns
-* [The R Manuals](http://cran.r-project.org/manuals.html)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
+* [The R Manuals](http://cran.r-project.org/manuals.html)
 
 
 ###Racket
@@ -1617,8 +1617,8 @@ See also [TeX](#tex)
 * [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx)
 * [SQL Server Backup and Restore](http://www.red-gate.com/community/books/sql-server-backup-and-restore.htm) *(RedGate, By Shawn McGehee)*
 * [SQL Server Concurrency: Locking, Blocking and Row Versioning](http://www.red-gate.com/community/books/sql-server-concurrency.htm) *(RedGate, By Kalen Delaney)*
-* [SQL Server Execution Plans](http://download.red-gate.com/ebooks/SQL/sql-server-execution-plans.pdf) (PDF) *(RedGate, By Grant Fritchey)*
 * [SQL Server Execution Plans, Second Edition](http://download.red-gate.com/ebooks/SQL/eBOOK_SQLServerExecutionPlans_2Ed_G_Fritchey.pdf) (PDF) *(RedGate, By Grant Fritchey)*
+* [SQL Server Execution Plans](http://download.red-gate.com/ebooks/SQL/sql-server-execution-plans.pdf) (PDF) *(RedGate, By Grant Fritchey)*
 * [SQL Server Hardware](http://www.red-gate.com/community/books/sql-server-hardware) *(RedGate, By Glenn Berry)*
 * [SQL Server Statistics](http://www.red-gate.com/community/books/sql-server-statistics.htm) *(RedGate, By Holger Schmeling)*
 * [SQL Server Stumpers Vol.5](http://www.red-gate.com/community/books/sql-server-stumpers-v5.htm) *(RedGate, By SQLServerCentral Authors)*
@@ -1674,12 +1674,12 @@ See also [LaTeX](#latex)
 ###Vim
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 * [A guide to getting started with VIM](http://www.integralist.co.uk/posts/a-guide-to-getting-started-with-vim/)
-* [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline
-* [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
-* [Vim Regular Expressions 101](http://vimregex.com/)
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) *(Leanpub, by Tim Ottinger)*
+* [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline
+* [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)
+* [Vim Regular Expressions 101](http://vimregex.com/)
 
 
 ###Visual Prolog

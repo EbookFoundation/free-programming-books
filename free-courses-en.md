@@ -32,8 +32,6 @@
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
-
-
 ###JS
 * [Egghead.io](https://egghead.io/)
 * [Codecademy Walkthrough](http://www.codecademy.com/tracks/javascript)
@@ -50,7 +48,6 @@
 * [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) (slides and videos) - Stanford University
 * [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
 
-
 ###OCaml
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/)
 
@@ -62,8 +59,5 @@
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/~cs61a/)
 
-
-
 ###Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
-

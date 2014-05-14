@@ -26,6 +26,7 @@
 ##Go
 * [An Introduction to Programming in Golang](http://www.golang-book.com/) - Caleb Doxsey
 
+
 ###Haskell
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan

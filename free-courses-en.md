@@ -23,7 +23,7 @@
 * [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 
 
-##Go
+###Go
 * [An Introduction to Programming in Golang](http://www.golang-book.com/) - Caleb Doxsey
 
 

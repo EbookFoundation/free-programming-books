@@ -1,6 +1,7 @@
 ###Index
 * [C++](#c)
 * [Databases](#databases)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [JS](#js)
@@ -20,6 +21,10 @@
 ###Databases
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
+
+
+###Go
+* [An Introduction to Programming in Golang](http://www.golang-book.com/) - Caleb Doxsey
 
 
 ###Haskell
@@ -44,6 +49,7 @@
 * [Problem Solving With Java](https://www.udacity.com/course/cs046)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
+* [How to Think like a Computer Scientist (Java)](http://greenteapress.com/thinkapjava/index.html) - Allen B. Downey
 
 
 ###iOS
@@ -62,6 +68,7 @@
 ###Python
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/~cs61a/)
+* [How to Think like a Computer Scientist (Python)](http://greenteapress.com/thinkpython/thinkpython.html) - Allen B. Downey
 
 
 ###Ruby

@@ -1,32 +1,32 @@
 TODO
 ===
 
-- [ ] : Add new books
-- [x] : Wiki
-    - [x] : How to Contribute
-    - [x] : Link to License
-- [x] : Readme.md
-    - [x] : Better symantics
-    - [x] : Links to other Files
-    - [x] : Description
-    - [x] : Link to License
-- [ ] : Getting the word out there.
-    - [ ] : Graphic Pack
-    - [x] : Share links of tw,fb,gp,li,...
-- [ ] : Alphabetizing the entries in the pages
-    - [ ] : bg
-    - [ ] : de
-    - [x] : es
-    - [ ] : en
-    - [x] : fa_IR
-    - [ ] : fr
-    - [ ] : it
-    - [ ] : ja
-    - [ ] : ko
-    - [ ] : pt_BR
-    - [ ] : pt_PT
-    - [x] : ru
-    - [ ] : tr
-    - [ ] : zh
-    - [ ] : javascript framework
-    - [ ] : courses
+- [ ] Add new books
+- [x] Wiki
+    - [x] How to Contribute
+    - [x] Link to License
+- [x] Readme.md
+    - [x] Better symantics
+    - [x] Links to other Files
+    - [x] Description
+    - [x] Link to License
+- [ ] Getting the word out there.
+    - [ ] Graphic Pack
+    - [x] Share links of tw,fb,gp,li,...
+- [ ] Alphabetizing the entries in the pages
+    - [ ] bg
+    - [ ] de
+    - [x] es
+    - [ ] en
+    - [x] fa_IR
+    - [ ] fr
+    - [ ] it
+    - [ ] ja
+    - [ ] ko
+    - [ ] pt_BR
+    - [ ] pt_PT
+    - [x] ru
+    - [ ] tr
+    - [ ] zh
+    - [ ] javascript framework
+    - [ ] courses

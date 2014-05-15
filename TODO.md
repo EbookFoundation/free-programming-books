@@ -16,16 +16,16 @@ TODO
 - [ ] : Alphabetizing the entries in the pages
     - [ ] : bg
     - [ ] : de
-    + ☑ : es
+    - [x] : es
     - [ ] : en
-    + ☑ : fa_IR
+    - [x] : fa_IR
     - [ ] : fr
     - [ ] : it
     - [ ] : ja
     - [ ] : ko
     - [ ] : pt_BR
     - [ ] : pt_PT
-    + ☑ : ru
+    - [x] : ru
     - [ ] : tr
     - [ ] : zh
     - [ ] : javascript framework

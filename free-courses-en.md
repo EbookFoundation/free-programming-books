@@ -37,18 +37,16 @@
 * [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
 
 
-
 ###Java
-* [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
-* [Problem Solving With Java](https://www.udacity.com/course/cs046)
+* [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
+* [Problem Solving With Java](https://www.udacity.com/course/cs046)
 
 
 ###JS
 * [Egghead.io](https://egghead.io/)
-* [Codecademy Walkthrough](http://www.codecademy.com/tracks/javascript)
 * [LearnStreet Walkthrough](https://www.learnstreet.com/lessons/study/javascript)
 
 
@@ -61,8 +59,8 @@
 
 
 ###Python
-* [Google's Python Course](https://developers.google.com/edu/python/)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/~cs61a/)
+* [Google's Python Course](https://developers.google.com/edu/python/)
 
 
 ###Ruby

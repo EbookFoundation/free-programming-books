@@ -839,7 +839,6 @@
 * [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
 
 
-
 ###Go
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
 * [Go by Example](https://gobyexample.com/)

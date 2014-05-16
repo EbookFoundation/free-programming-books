@@ -52,6 +52,8 @@
 
 
 ###JavaScript
+* [Codecademy jquery track](http://www.codecademy.com/tracks/jquery)
+* [Javascript interactive tutorial](http://www.codecademy.com/tracks/javascript)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)

@@ -1392,7 +1392,6 @@ See also [TeX](#tex)
 
 
 ####Flask
-* [Explore Flask](http://exploreflask.com/) (PDF)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 * [The Flask Blog tutorial](http://pypix.com/python/building-flask-blog-part-1/) - Pypix
 

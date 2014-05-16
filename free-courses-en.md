@@ -3,9 +3,9 @@
 * [Databases](#databases)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
-* [JS](#js)
-* [Java](#java)
 * [iOS](#ios)
+* [Java](#java)
+* [JS](#js)
 * [OCaml](#ocaml)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
@@ -32,10 +32,9 @@
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
 
-###JS
-* [Egghead.io](https://egghead.io/)
-* [Codecademy Walkthrough](http://www.codecademy.com/tracks/javascript)
-* [LearnStreet Walkthrough](https://www.learnstreet.com/lessons/study/javascript)
+###iOS
+* [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) (slides and videos) - Stanford University
+* [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
 
 
 ###Java
@@ -46,9 +45,10 @@
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 
 
-###iOS
-* [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) (slides and videos) - Stanford University
-* [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
+###JS
+* [Egghead.io](https://egghead.io/)
+* [Codecademy Walkthrough](http://www.codecademy.com/tracks/javascript)
+* [LearnStreet Walkthrough](https://www.learnstreet.com/lessons/study/javascript)
 
 
 ###OCaml

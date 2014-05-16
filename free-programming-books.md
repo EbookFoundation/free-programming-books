@@ -1392,8 +1392,8 @@ See also [TeX](#tex)
 
 
 ####Flask
-* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 * [The Flask Blog tutorial](http://pypix.com/python/building-flask-blog-part-1/) - Pypix
+* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
 
 
 ####Pandas
@@ -1479,9 +1479,9 @@ See also [TeX](#tex)
 
 
 ###Sage
-* [The Sage Manuals](http://sagemath.org/doc/)
 * [Sage for Newbies](http://sage.math.washington.edu/home/tkosan/newbies_book/) - Ted Kosan
 * [Sage for Power Users](http://modular.math.washington.edu/books/sagebook/sagebook.pdf) (PDF) - William
+* [The Sage Manuals](http://sagemath.org/doc/)
 
 
 ###Scala

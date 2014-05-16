@@ -44,8 +44,8 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + Portuguese (Portugal): [github](/free-programming-books-pt_PT.md)
 + Romanian (Romania): [github](/free-programming-books-ro.md)
 + Russian: [github](/free-programming-books-ru.md)
-+ Turkish: [github](/free-programming-books-tr.md)
 + Spanish: [github](/free-programming-books-es.md)
++ Turkish: [github](/free-programming-books-tr.md)
 + Ukrainian: [github](/free-programming-books-ua.md)
 
 

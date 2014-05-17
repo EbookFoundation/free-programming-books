@@ -12,6 +12,7 @@
 * [AngularJS Insights](http://pascalprecht.github.com/slides/angularjs-insights/#/)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](http://egghead.io)
+* [Learn AngularJS with free interactive lessons](http://www.learn-angular.org/)
 * [Mastering AngularJS Directives](http://pascalprecht.github.com/slides/mastering-angularjs-directives/)
 * [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)

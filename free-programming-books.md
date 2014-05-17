@@ -985,6 +985,7 @@
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
 * [AngularJS Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
+* [Learn AngularJS with free interactive lessons](http://www.learn-angular.org/)
 
 
 ####Backbone.js

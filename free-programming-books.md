@@ -1226,6 +1226,7 @@ See also [TeX](#tex)
 
 ###Perl
 * [Beginning Perl](http://www.perl.org/books/beginning-perl/)
+* [The DBIx-Class Book](https://github.com/castaway/dbix-class-book)
 * [Embedding Perl in HTML with Mason](http://www.masonbook.com/book/)
 * [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.pdf) (PDF)
 * [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)

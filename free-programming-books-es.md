@@ -21,7 +21,7 @@
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
-    * [node.js](#nodejs)
+    * [node.js](#nodejs).
 * [Java](#java)
 * [LaTeX](#latex)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)

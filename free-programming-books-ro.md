@@ -1,5 +1,5 @@
 ###Index
-* [Ajaxa](#ajax)
+* [Ajax](#ajax)
 * [CSS](#css)
 * [HTML](#hmtl)
 * [Java](#java)

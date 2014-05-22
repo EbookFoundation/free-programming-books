@@ -22,18 +22,18 @@ By submitting code you agree to the [LICENSE](https://github.com/vhf/free-progra
 
 
 ### Formatting
-+ All lists are ```.md``` files. Try to learn Github's Markdown syntax. It's simple!
++ All lists are `.md` files. Try to learn Github's Markdown syntax. It's simple!
 + All the lists start with an Index, the idea is to show all of sections and subsections there, so it's important to have an index for each section. Right now it's alphabetized, so please use alphabetic order.
-+ Sections are using level 3 heading (in HTML is ```<h3>```, in Markdown is ```###```), and subsections are using level 4 (in HTML is ```<h4>```, in Markdown is ```####```).
++ Sections are using level 3 heading (in HTML is `<h3>`, in Markdown is `###`), and subsections are using level 4 (in HTML is `<h4>`, in Markdown is `####`).
 
 The idea is to have
-+ ```2``` empty lines between last suggested book & new header
-+ ```0``` empty line between header & first book of that very section.
-+ ```0``` empty line between each book in 1 section.
-+ ```1``` empty line at the end of each ```.md``` file.
++ `2` empty lines between last suggested book & new header
++ `0` empty line between header & first book of that very section.
++ `0` empty line between each book in 1 section.
++ `1` empty line at the end of each `.md` file.
 
 Like this example:
-```
+```markdown
 [...]
 * [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
 

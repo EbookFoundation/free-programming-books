@@ -13,6 +13,7 @@
 * [Python](#python)
 * [Rust](#rust)
 
+
 ###C
 * [C Programlama Diline Giris](http://www1.gantep.edu.tr/~bingul/c/index.php)
 * [Sistem Programlama ve İleri C Uygulamaları Kurs Notları](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)

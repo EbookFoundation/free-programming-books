@@ -10,6 +10,7 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [LISP](#lisp)
+* [Perl](#perl)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Scala](#scala)
@@ -74,6 +75,9 @@
 ### LISP
 * [ANSI Common Lisp 中文翻译版](http://acl.readthedocs.org/en/latest/)
 
+
+### Perl
+* [Master Perl Today](https://github.com/fayland/chinese-perl-book)
 
 ### Python
 * [深入Python](http://woodpecker.org.cn/diveintopython/)

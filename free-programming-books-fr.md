@@ -41,7 +41,6 @@
 ###Non dépendant du langage
 ####Algorithmique
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours), par Michel Quercia
-* [Éléments d'algorithmique](https://www.rocq.inria.fr/secret/Matthieu.Finiasz/teaching/ENSTA/IN101%20-%20poly%20algo.pdf) par Françoise Levy-dit-Vehel et Matthieu Finiasz
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) par D. Beauquier, J. Berstel, et Ph. Chrétienne
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
@@ -88,7 +87,6 @@
 * [Le C en 20 heures](http://framabook.org/6-le-c-en-20-heures/), par Eric Berthomier et Daniel Schang
 * [Initiation à la programmation (en C++)](https://www.coursera.org/course/intro-cpp-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
 * [Introduction à la rétro-ingénierie de binaires](http://progdupeu.pl/articles/45/introduction-a-la-retro-ingenierie-de-binaires), à partir de code C compilé pour x86.
-* [Programmation en C](https://www.rocq.inria.fr/secret/Matthieu.Finiasz/teaching/ENSTA/IN101%20-%20poly%20C.pdf) par Pierre-Alain Fouque et David Pointcheval
 
 
 ###Coq

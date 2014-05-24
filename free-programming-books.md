@@ -1260,6 +1260,7 @@ See also [TeX](#tex)
 * Laravel Framework
     * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/l4)
     * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
+    * [Laravel: Code Bright](http://daylerees.com/codebright)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf)
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [PHP Cookbook](http://commons.oreilly.com/wiki/index.php/PHP_Cookbook)

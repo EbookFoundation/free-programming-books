@@ -1364,6 +1364,7 @@ See also [TeX](#tex)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Module of the Week](http://pymotw.com/2/)
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html)
+* [Python Practice Projects](www.pythonpracticeprojects.com)
 * [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF)
 * [Python Scientific Lecture Notes](http://scipy-lectures.github.io/)
 * [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh

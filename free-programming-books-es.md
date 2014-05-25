@@ -164,6 +164,10 @@
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
 
 
+####D3.js
+* [Tutorial de D3](http://gcoch.github.io/D3-tutorial/index.html)
+
+
 ####jQuery
 * [Fundamentos de jQuery](http://librojquery.com/)
 

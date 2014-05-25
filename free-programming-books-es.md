@@ -20,6 +20,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
+    * [D3](#d3js)
     * [jQuery](#jquery)
     * [node.js](#nodejs)
 * [Java](#java)

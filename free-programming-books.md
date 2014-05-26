@@ -782,22 +782,22 @@
 
 
 ###Force.com
-* [Analytics Workbook](http://www.salesforce.com/us/developer/docs/workbook_analytics/index.htm) (HTML)
+* [Analytics Workbook](http://www.salesforce.com/us/developer/docs/workbook_analytics/index.htm)
 * [Apex Design Patterns and Best Practices](http://www.gobookee.org/get_book.php?u=aHR0cDovL3d3dy5zdW5kb2dpbnRlcmFjdGl2ZS5jb20vd2hpdGVwYXBlcnMvU1VOX0NodWNrX0FwZXhkZXNpZ25wYXR0ZXJucy5wZGYKQXBleCBEZXNpZ24gUGF0dGVybnMgYW5kIEJlc3QgUHJhY3RpY2VzIC0gU3VuZG9n)
-* [Apex Workbook](http://www.salesforce.com/us/developer/docs/apex_workbook/index.htm) (HTML)
-* [Cloud Flow Designer Workbook](http://www.salesforce.com/us/developer/docs/workbook_flow/index.htm) (HTML)
-* [Database.com Workbook](http://www.salesforce.com/us/developer/docs/workbook_database/index.htm) (HTML)
-* [Force.com Fundamentals](http://wiki.developerforce.com/page/Force_Platform_Fundamentals) (HTML)
-* [Force.com Integration Workbook](http://www.salesforce.com/us/developer/docs/integration_workbook/index.htm) (HTML)
+* [Apex Workbook](http://www.salesforce.com/us/developer/docs/apex_workbook/index.htm)
+* [Cloud Flow Designer Workbook](http://www.salesforce.com/us/developer/docs/workbook_flow/index.htm)
+* [Database.com Workbook](http://www.salesforce.com/us/developer/docs/workbook_database/index.htm)
+* [Force.com Fundamentals](http://wiki.developerforce.com/page/Force_Platform_Fundamentals)
+* [Force.com Integration Workbook](http://www.salesforce.com/us/developer/docs/integration_workbook/index.htm)
 * [Force.com Platform Fundamentals: An Introduction to Custom Application Development in the Cloud](http://www.lulu.com/shop/salesforcecom/forcecom-platform-fundamentals/ebook/product-17381451.html)
-* [Force.com Workbook](http://www.salesforce.com/us/developer/docs/workbook/index.htm) (HTML)
-(HTML)
+* [Force.com Workbook](http://www.salesforce.com/us/developer/docs/workbook/index.htm)
+
 * [Heroku Postgres](http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) (PDF)
-* [ISVForce Workbook](http://www.salesforce.com/us/developer/docs/workbook_isv/index.htm) (HTML)
-* [Security Workbook](http://www.salesforce.com/us/developer/docs/workbook_security/index.htm) (HTML)
-* [Service Cloud Workbook](http://www.salesforce.com/us/developer/docs/workbook_service_cloud/index.htm) (HTML)
+* [ISVForce Workbook](http://www.salesforce.com/us/developer/docs/workbook_isv/index.htm)
+* [Security Workbook](http://www.salesforce.com/us/developer/docs/workbook_security/index.htm)
+* [Service Cloud Workbook](http://www.salesforce.com/us/developer/docs/workbook_service_cloud/index.htm)
 * [Site.com Workbook](http://www.salesforce.com/us/developer/docs/workbook_siteforce/index.htm)
-* [Visualforce Workbook](http://www.salesforce.com/us/developer/docs/workbook_vf/index.htm) (HTML)
+* [Visualforce Workbook](http://www.salesforce.com/us/developer/docs/workbook_vf/index.htm)
 
 
 ###Forth
@@ -987,7 +987,7 @@
 
 
 ###JavaScript
-* [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer (HTML)
+* [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 * [Dev Docs](http://devdocs.io/)
@@ -1382,7 +1382,7 @@ See also [TeX](#tex)
 * [The Art and Craft of Programming](http://beastie.cs.ua.edu/cs150/book/index.html)
 * [The Programming Historian](http://niche-canada.org/files/programming-historian-1.pdf) - William J. Turkel, Adam Crymble and Alan MacEachern (PDF)
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
-* [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (HTML)
+* [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](https://dl.dropbox.com/u/18065445/web2py/web2py_manual_5th.pdf) (PDF)
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming)
@@ -1395,7 +1395,7 @@ See also [TeX](#tex)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](http://effectivedjango.com/) (1.5)
 * [Tango With Django](http://www.tangowithdjango.com/) (1.5)
-* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7) (HTML)
+* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
 * [The Django book](http://www.djangobook.com/en/2.0/) (2.0)
 
 
@@ -1633,9 +1633,8 @@ See also [LaTeX](#latex)
 
 ###Unix
 * [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/) - J. Lions
-* [Conquering the Command Line](http://www.conqueringthecommandline.com/)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
-* [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/) (HTML)
+* [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Unix for Poets](http://www.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
 
 

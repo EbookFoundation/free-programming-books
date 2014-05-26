@@ -77,6 +77,7 @@
     * [Professional Development](#professional-development)
     * [Programming Paradigms](#programming-paradigms)
     * [Regular Expressions](#regular-expressions)
+    * [Reverse Engineering](#reverse-engineering)
     * [Security](#security)
     * [Software Architecture](#software-architecture)
     * [Standards](#standards)
@@ -472,6 +473,10 @@
 ####Regular Expressions
 * [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/) - Zed. A. Shaw
 * [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen
+
+
+####Reverse Engineering
+* [Hacking the Xbox: An Introduction to Reverse Engineering](http://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
 
 
 ####Security

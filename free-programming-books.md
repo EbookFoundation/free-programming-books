@@ -116,7 +116,7 @@
 * [Prolog](#prolog)
     * [Constraint Logic Programming](#constraint-logic-programming-extended-prolog)
 * [Python](#python)
-    * [Django](#django-version)
+    * [Django](#django)
     * [Flask](#flask)
     * [Pandas](#pandas)
 * [QML](#qml)
@@ -1389,7 +1389,7 @@ See also [TeX](#tex)
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming)
 
 
-####Django (Version)
+####Django
 * [Deploy Django](http://www.deploydjango.com)
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
@@ -1402,11 +1402,11 @@ See also [TeX](#tex)
 
 ####Flask
 * [The Flask Blog tutorial](http://pypix.com/python/building-flask-blog-part-1/) - Pypix
-* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg
+* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
 
 ####Pandas
-* [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas
+* [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.13.0)
 
 
 ###QML

@@ -1329,64 +1329,64 @@ See also [TeX](#tex)
 
 
 ###Python
-* [A Beginner's Python Book](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
+* [A Beginner's Python Book](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) (2.2 - 2.x)
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) - Rafe Kettler
-* [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF)
-* [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF)
-* [Byte of Python](http://www.swaroopch.com/notes/Python)
+* [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
+* [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
+* [Byte of Python](http://www.swaroopch.com/notes/Python) (2.7.x)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
-* [Dive into Python](http://www.diveintopython.net/) - Mark Pilgrim
-* [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim
+* [Dive into Python](http://www.diveintopython.net/) - Mark Pilgrim (2.3)
+* [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
 * [Full Stack Python](http://www.fullstackpython.com/)
-* [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1)
+* [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1) (2.4 - 2.x)
 * [Google's Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
-* [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart
-* [Hitchiker's Guide to Python!](http://docs.python-guide.org/en/latest/)
-* [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers
-    * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
-* [Introduction to Programming Using Python](http://python-ebook.blogspot.com) - Cody Jackson
-* [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/)
-* [Introduction to python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar
-* [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
-* [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
-* [Learning to Program](http://www.freenetpages.co.uk/hp/alan.gauld/)
-* [Learning to Program with Python](http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF)
-* [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson
-* [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart
+* [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
+* [Hitchiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
+* [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)
+    * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
+* [Introduction to Programming Using Python](http://python-ebook.blogspot.com) - Cody Jackson (1st edition) (2.3)
+* [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
+* [Introduction to python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
+* [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
+* [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) (2.5 - 2.6)
+* [Learning to Program](http://www.freenetpages.co.uk/hp/alan.gauld/) (2.3)
+* [Learning to Program with Python](http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) (3.2)
+* [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
+* [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
 * [Modeling Creativity: Case Studies in Python](http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf) - Tom D. De Smedt (PDF)
-* [Natural Language Processing with Python](http://www.nltk.org/book)
-* [Non-Programmer's Tutorial for Python 2.6](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6)
-* [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
-* [Porting to Python 3: An In-Depth Guide](http://python3porting.com/)
+* [Natural Language Processing with Python](http://www.nltk.org/book) (2.5)
+* [Non-Programmer's Tutorial for Python 2.6](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) (2.6)
+* [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) (3.3)
+* [Porting to Python 3: An In-Depth Guide](http://python3porting.com/) (2.6 - 2.x & 3.1 - 3.x)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
-* [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
-* [Python 2.7 quick reference](http://infohost.nmt.edu/tcc/help/pubs/python/web/) - New Mexico Tech
+* [Program Arcade Games With Python And Pygame](http://programarcadegames.com/) (3.3)
+* [Python 2.7 quick reference](http://infohost.nmt.edu/tcc/help/pubs/python/web/) - New Mexico Tech (2.7)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
-* [Python for Econometrics](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf) - Kevin Sheppard
+* [Python for Econometrics](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf) - Kevin Sheppard (2.7.5)
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
-* [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
-* [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
+* [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) (2.7.5)
+* [Python for you and me](http://pymbook.readthedocs.org/en/latest/) (2.7.3)
 * [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (PDF)
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
-* [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 * [Python Module of the Week](http://pymotw.com/2/)
-* [Python Practice Book](http://anandology.com/python-practice-book/index.html)
+* [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
 * [Python Practice Projects](www.pythonpracticeprojects.com)
-* [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF)
+* [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF) (2.6)
 * [Python Scientific Lecture Notes](http://scipy-lectures.github.io/)
 * [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
-* [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
-* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-* [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz
-* [The Art and Craft of Programming](http://beastie.cs.ua.edu/cs150/book/index.html)
+* [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html) (3.x)
+* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (3.3 - 3.x)
+* [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
+* [The Art and Craft of Programming](http://beastie.cs.ua.edu/cs150/book/index.html) (3.x)
 * [The Programming Historian](http://niche-canada.org/files/programming-historian-1.pdf) - William J. Turkel, Adam Crymble and Alan MacEachern (PDF)
-* [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
-* [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book)
+* [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
+* [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](https://dl.dropbox.com/u/18065445/web2py/web2py_manual_5th.pdf) (PDF)
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum
-* [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming)
+* [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming) (2.7)
 
 
 ####Django

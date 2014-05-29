@@ -48,6 +48,7 @@
 
 
 ###Java
+* [CodingBat code practice](http://codingbat.com/java)
 * [Learn Java](http://www.learnjavaonline.org/)
 
 

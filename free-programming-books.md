@@ -148,6 +148,8 @@
 * [Tizen](#tizen)
 * [TypeScript](#typescript)
 * [Unix](#unix)
+* [Verilog](#verilog)
+* [VHDL](#vhdl)
 * [Vim](#vim)
 * [Visual Prolog](#visual-prolog)
 * [Web Services](#web-services)
@@ -331,13 +333,21 @@
 * [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) (PDF) - Silvanus P. Thompson
 * [Collaborative Statistics](http://cnx.org/content/col10522/latest/)
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
+* [Differential Equations](http://tutorial.math.lamar.edu/pdf/DE/DE_Complete.pdf) - Paul Dawkins 
+* [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke
 * [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead and J. Laurie Snell
 * [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
+* [Linear Algebra, Theory And Applications](http://www.math.byu.edu/klkuttle/linearalgebra.pdf) - Kenneth Kuttler
+* [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW.pdf) - Sergei Treil
+* [Linear Algebra: An Introduction to Mathematical Discourse](http://en.wikibooks.org/wiki/Linear_Algebra) - Jim Hefferon
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematics for Computer Science (November 2013 Version)](http://courses.csail.mit.edu/6.042/fall13/mcs.pdf) (PDF) - Eric Lehman
+* [Notes on Diﬀerential Equations](http://www.math.cornell.edu/~bterrell/dn.pdf) - Robert E. Terrell
 * [Number Theory](http://web.mit.edu/~holden1/www/math/number-theory.pdf) (PDF)
 * [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
+* [Ordinary Differential Equations](http://en.wikibooks.org/wiki/Ordinary_Differential_Equations)
 * [Power Programming with Mathematica](http://mathematica.stackexchange.com/questions/16485/are-you-interested-in-purchasing-david-wagners-power-programming-with-mathemat/22724) - David B. Wagner
 * [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
@@ -1043,9 +1053,13 @@ See also [TeX](#tex)
 ###Linux
 * [Ad Hoc Data Analysis From The Unix Command Line](http://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
 * [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
+* [Automated Linux From Scratch](http://www.linuxfromscratch.org/alfs/download.html)
+* [Beyond Linux From Scratch](http://www.linuxfromscratch.org/blfs/downloads/stable/BLFS-BOOK-7.5-nochunks.html)
+* [Cross Linux From Scratch](http://trac.cross-lfs.org/wiki/download#CurrentStable)
 * [Getting Started with Ubuntu](http://ubuntu-manual.org/)
 * [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
 * [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/index.html)
+* [Hardened Linux From Scratch](http://www.linuxfromscratch.org/hlfs/download.html)
 * [Learning Debian GNU/Linux](http://oreilly.com/openbook/debian/book/index.html)
 * [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org/)
@@ -1637,6 +1651,17 @@ See also [LaTeX](#latex)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Unix for Poets](http://www.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
+
+
+###Verilog
+* [Introduction to Verilog](http://vol.verilog.com/VOL/main.htm)
+* [Verilog Tutorial](http://www.asic-world.com/verilog/veritut.html)
+
+
+###VHDL
+*[VHDL Tutorial](http://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html)
+*[VHDL Tutorial](http://hep.uchicago.edu/~tangjian/SVT_sub/FTK_ATLAS/AUX/vhdl-tutorial.pdf) - Peter J. Ashenden
+*[VHDL Tutorial: Learn By Example](http://esd.cs.ucr.edu/labs/tutorial/)
 
 
 ###Vim

@@ -1,4 +1,5 @@
 ###Index
+* [Assembly](#assembly)
 * [C++](#c)
 * [Databases](#databases)
 * [Haskell](#haskell)
@@ -10,7 +11,12 @@
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
 * [Ruby](#ruby)
-* [Assembly](#assembly)
+
+
+###Assembly
+* [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
+* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
+
 
 ###C++
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
@@ -66,8 +72,3 @@
 
 ###Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
-
-
-###Assembly
-* [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
-* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)

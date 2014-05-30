@@ -14,6 +14,7 @@
 * [Basic](#basic)
 * [BETA](#beta)
 * [C](#c)
+* [C#](#c-sharp)
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [COBOL](#cobol)
@@ -94,7 +95,7 @@
 * [Mercury](#mercury)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
-* [.NET (C# / VB / Nemerle / Visual Studio)](#net-c--vb--nemerle--visual-studio)
+* [.NET Framework](#net-framework)
 * [Neo4J](#neo4j)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)
@@ -151,6 +152,7 @@
 * [Verilog](#verilog)
 * [VHDL](#vhdl)
 * [Vim](#vim)
+* [Visual Basic](#visual-basic)
 * [Visual Prolog](#visual-prolog)
 * [Web Services](#web-services)
 * [Windows 8](#windows-8)
@@ -333,7 +335,7 @@
 * [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) (PDF) - Silvanus P. Thompson
 * [Collaborative Statistics](http://cnx.org/content/col10522/latest/)
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
-* [Differential Equations](http://tutorial.math.lamar.edu/pdf/DE/DE_Complete.pdf) - Paul Dawkins 
+* [Differential Equations](http://tutorial.math.lamar.edu/pdf/DE/DE_Complete.pdf) - Paul Dawkins
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke
 * [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead and J. Laurie Snell
@@ -671,6 +673,16 @@
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
 
 
+###C Sharp
+* [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
+* [C# Programming - Wikibook](http://en.wikibooks.org/wiki/C_Sharp_Programming)
+* [C# Yellow Book](http://www.csharpcourse.com/) (intro to programming)
+* [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
+* [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
+* [HTTP Programming Recipes for C# Bots](http://www.heatonresearch.com/articles/series/20)
+* [Threading in C#](http://www.albahari.com/threading/)
+
+
 ###C++
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
@@ -777,7 +789,7 @@
 
 ###F Sharp
 * [F# Succinctly, SyncFusion](http://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) *(Just fill the fields with any values)*
-* [F Sharp Programming](http://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
+* [F# Programming](http://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
 * [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf) (PDF)
 * [Real World Functional Programming](http://msdn.microsoft.com/en-us/library/hh314518.aspx) (MSDN Chapters)
 
@@ -1156,24 +1168,15 @@ See also [TeX](#tex)
 * [MySQL Tutorial Excerpt](http://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.1-en.pdf)
 
 
-###.NET (C# / VB / Nemerle / Visual Studio)
-* [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
-* [C# Programming - Wikibook](http://en.wikibooks.org/wiki/C_Sharp_Programming)
-* [C# Yellow Book](http://www.csharpcourse.com/) (intro to programming)
+###.NET Framework
 * [Charles Petzold's .NET Book Zero](http://www.charlespetzold.com/dotnet/index.html)
-* [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
 * [Entity Framework](http://weblogs.asp.net/zeeshanhirani/archive/2008/12/05/my-christmas-present-to-the-entity-framework-community.aspx)
-* [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
-* [HTTP Programming Recipes for C# Bots](http://www.heatonresearch.com/articles/series/20)
 * [Game Creation with XNA](http://en.wikibooks.org/wiki/Game_Creation_with_XNA)
 * [Moving to Microsoft Visual Studio 2010](http://blogs.msdn.com/b/microsoft_press/archive/2010/09/13/free-ebook-moving-to-microsoft-visual-studio-2010.aspx)
-* [Nemerle](http://asaha.com/ebook/AMTQ2NjA-/Nemerle.pdf) (PDF)
 * [.NET for Visual FoxPro Developers](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm)
 * [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) *(RedGate, By Paul Glavich and Chris Farrell)*
 * [Practical Performance Profiling: Improving the efficiency of .NET code](http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/practical-performance-profiling) *(RedGate, By Jean-Philippe Gouigoux)*
-* [Threading in C#](http://www.albahari.com/threading/)
-* [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
-* [Visual Studio Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
+* [Visual Studio .NET Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
 * [Under the Hood of .NET Memory Management](http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf) (PDF) *(RedGate, By Chris Farrell and Nick Harrison)*
 
 
@@ -1673,6 +1676,10 @@ See also [LaTeX](#latex)
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline
 * [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)
 * [Vim Regular Expressions 101](http://vimregex.com/)
+
+
+###Visual Basic
+* [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 
 
 ###Visual Prolog

@@ -1640,8 +1640,13 @@ See also [TeX](#tex)
 
 See also [LaTeX](#latex)
 
+
 ###Tizen
 * [Tizen for Dummies](https://developer.tizen.org/sites/default/files/blogs/tizenfordummiesmainchangelist.pdf) (PDF) by Jon Lansdell, Cheng Luo, Michelle Somersville
+
+
+###TLA
+* [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html) (Postscript or PDF) by Leslie Lamport
 
 
 ###TypeScript

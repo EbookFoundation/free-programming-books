@@ -147,6 +147,7 @@
 * [Teradata](#teradata)
 * [TeX](#tex)
 * [Tizen](#tizen)
+* [TLA](#tla)
 * [TypeScript](#typescript)
 * [Unix](#unix)
 * [Verilog](#verilog)

@@ -238,6 +238,17 @@
 ###Go
 * [Goプログラミング言語のチュートリアル](http://golang.jp/go_tutorial)
 
+###Groovy
+* [Groovy入門](http://www.oki-osk.jp/esc/groovy/) - OKIソフトウェア
+* [JGGUG G*Magazine](http://grails.jp/g_mag_jp/) (PDF,EPUB) - JGGUG(日本Grails/Groovyユーザーグループ)
+
+####Gradle
+* [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs/) ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf)) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya
+* [ビルドツールGradleスタートアップガイドの紹介](http://www.ntts.co.jp/publish/column/tec/java_03/) - 鈴木雅貴
+
+####Grails
+* [Grailsフレームワーク 日本語リファレンス](http://grails.jp/doc/latest/) - T.Yamamoto & Japanese Grails Doc Translating Team. Special thanks to NTT Software.
+* [Grailsを用いたファイルアップローダ作成](http://www.ntts.co.jp/publish/column/tec/java_02/) - 須藤悠
 
 ###Haskell
 * [Haskell基礎文法最速マスター](http://d.hatena.ne.jp/ruicc/20100131/1264905896) - id:ruicc

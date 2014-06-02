@@ -999,7 +999,6 @@
 * [The Java Tutorial 4th Edition](http://download.oracle.com/javase/tutorial/) - Sharon Zakhour, Scott Hommel, Jacob Royal, Isaac Rabinovitch, Tom Risser, Mark Hoeber
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
-* [Tutorial: Java, Maven 2, Eclipse & JSF](http://www.lulu.com/shop/arulkumaran-kumaraswamipillai-and-sivayini-arulkumaran/tutorial-java-maven-2-eclipse-jsf/ebook/product-1603040.html;jsessionid=E57B1E8662500F2ADF96D7B317769B6E) - Arulkumaran Kumaraswamipillai, Sivayini Arulkumaran
 * [UML For Java Programmers](http://www.csd.uoc.gr/~hy252/references/UML_for_Java_Programmers-Book.pdf) - Robert Cecil Martin
 * [Welcome to Java for Python Programmers](http://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop](http://javaworkshop.sourceforge.net/) - An Apache Project

@@ -865,12 +865,12 @@
 
 ###Go
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
+* [Build Web Application with Golang](https://docs.google.com/file/d/0B2GBHFyTK2N8TzM4dEtIWjBJdEk/)
 * [Go by Example](https://gobyexample.com/)
 * [Learning Go](http://archive.miek.nl/projects/learninggo/index.html)
 * [Network programming with Go](http://jan.newmarch.name/go/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 * [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
-* [Build Web Application with Golang](https://docs.google.com/file/d/0B2GBHFyTK2N8TzM4dEtIWjBJdEk/)
 
 
 ###Gradle

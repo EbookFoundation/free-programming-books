@@ -1299,7 +1299,6 @@ See also [TeX](#tex)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
-* [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
 
 
 ###PicoLisp
@@ -1420,7 +1419,6 @@ See also [TeX](#tex)
 
 
 ####Flask
-* [The Flask Blog tutorial](http://pypix.com/python/building-flask-blog-part-1/) - Pypix
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
 

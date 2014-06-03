@@ -28,6 +28,7 @@
 * [Groovy](#groovy)
     * [Gradle](#gradle)
     * [Grails](#grails)
+    * [Spock Framework](#spock-framework)
 * [Haskell](#haskell)
 * [Haxe](#haxe)
 * [iOS](#ios)
@@ -252,6 +253,10 @@
 ####Grails
 * [Grailsフレームワーク 日本語リファレンス](http://grails.jp/doc/latest/) - T.Yamamoto & Japanese Grails Doc Translating Team. Special thanks to NTT Software.
 * [Grailsを用いたファイルアップローダ作成](http://www.ntts.co.jp/publish/column/tec/java_02/) - 須藤悠
+
+####Spock Framework
+* [Spock Framework リファレンスドキュメント](http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/) - Peter Niederwieser, Kazuki YAMAMOTO
+* [G*ワークショップZ May 2013 - Spockハンズオンの資料](https://github.com/yamkazu/spock-workshop/tree/master/docs) - Kazuki YAMAMOTO
 
 ###Haskell
 * [Haskell基礎文法最速マスター](http://d.hatena.ne.jp/ruicc/20100131/1264905896) - id:ruicc

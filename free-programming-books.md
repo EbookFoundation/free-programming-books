@@ -141,6 +141,7 @@
 * [Smalltalk](#smalltalk)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
+* [Swift](#swift)
 * [Standard ML](#standard-ml)
 * [Subversion](#subversion)
 * [Tcl](#tcl)
@@ -1622,6 +1623,10 @@ See also [TeX](#tex)
 ###Subversion
 * [Subversion Version Control](http://www.phptr.com/content/images/0131855182/downloads/Nagel_book.pdf) (PDF)
 * [Version Control with Subversion](http://svnbook.red-bean.com/)
+
+
+###Swift
+* [The Swift Programming Language](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) (iBook)
 
 
 ###Tcl

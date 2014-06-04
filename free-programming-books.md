@@ -39,8 +39,10 @@
 * [FreeBSD](#freebsd)
 * [Git](#git)
 * [Go](#go)
-* [Gradle](#gradle)
-* [Grails](#grails)
+* [Groovy](#groovy)
+    * [Gradle](#gradle)
+    * [Grails](#grails)
+    * [Spock Framework](#spock-framework)
 * [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
 * [Hadoop](#hadoop)
@@ -875,12 +877,21 @@
 * [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
 
 
-###Gradle
+###Groovy
+
+####Gradle
+* [Gradle User Guide](http://www.gradle.org/docs/current/userguide/userguide.html)([PDF](http://www.gradle.org/docs/current/userguide/userguide.pdf)) - Hans Dockter, Adam Murdoch
+* [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
 * [Building and Testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
 
-
-###Grails
+####Grails
+* [The Grails Framework - Reference Documentation](http://grails.org/doc/latest/)([PDF](http://grails.org/doc/latest/guide/single.pdf)) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari
+* [Grails Tutorial for Beginners](http://grails.asia/grails-tutorial-for-beginners/) - GRAILS COOKBOOK
 * [Getting Started with Grails](http://www.infoq.com/minibooks/grails-getting-started)
+
+####Spock Framework
+* [Spock Framework Reference Documentation](http://spock-framework.readthedocs.org/en/latest/) - Peter Niederwieser
+* [Spock Intro](http://edgibbs.com/spock-intro-a-bdd-testing-framework-in-groovy/) - Ed Gibbs
 
 
 ###Hadoop

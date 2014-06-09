@@ -170,6 +170,7 @@
 * [atariarchives.org](http://www.atariarchives.org/) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 * [Bitsavers.org](http://bitsavers.org/)
 * [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks)
+* [Codingus](http://codingus.blogspot.in/)
 * [Cheat Sheets (Free)](http://refcardz.dzone.com/)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com/)

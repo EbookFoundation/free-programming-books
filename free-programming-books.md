@@ -1322,13 +1322,14 @@ See also [TeX](#tex)
 
 
 ###Python
-* [A Beginner's Python Book](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
+* [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) - Rafe Kettler
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf)
 * [Byte of Python](http://www.swaroopch.com/notes/Python)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
+* [Design Patterns In Python](http://testingwithpython.appspot.com/notesonpython) - Rahul Verma, Chetan Giridhar 
 * [Dive into Python](http://www.diveintopython.net/) - Mark Pilgrim
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim
 * [Full Stack Python](http://www.fullstackpython.com/)
@@ -1344,6 +1345,7 @@ See also [TeX](#tex)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * [Learning to Program](http://www.freenetpages.co.uk/hp/alan.gauld/)
+* [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart
 * [Modeling Creativity: Case Studies in Python](http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf) - Tom D. De Smedt
@@ -1351,6 +1353,7 @@ See also [TeX](#tex)
 * [Non-Programmer's Tutorial for Python 2.6](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6)
 * [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com/)
+* [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
@@ -1365,6 +1368,7 @@ See also [TeX](#tex)
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html)
 * [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF)
 * [Python Scientific Lecture Notes](http://scipy-lectures.github.io/)
+* [Python Scripting for Computational Science](http://info.baustatik.uni-due.de/Lehre/CM-AOS/Scripts/Abaqus/Python%20Scripting%20for%20Computational%20Science.pdf) - Hans Petter Langtangen
 * [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)

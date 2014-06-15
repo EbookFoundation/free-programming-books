@@ -1696,7 +1696,6 @@ See also [LaTeX](#latex)
 
 
 ###Verilog
-* [Introduction to Verilog](http://vol.verilog.com/VOL/main.htm)
 * [Verilog Tutorial](http://www.asic-world.com/verilog/veritut.html)
 
 

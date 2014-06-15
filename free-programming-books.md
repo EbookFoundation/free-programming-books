@@ -1378,7 +1378,6 @@ See also [TeX](#tex)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
 * [Byte of Python](http://www.swaroopch.com/notes/Python) (2.7.x)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
-* [Design Patterns In Python](http://testingwithpython.appspot.com/notesonpython) - Rahul Verma, Chetan Giridhar
 * [Dive into Python](http://www.diveintopython.net/) - Mark Pilgrim (2.3)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
 * [Full Stack Python](http://www.fullstackpython.com/)

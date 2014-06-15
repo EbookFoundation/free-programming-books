@@ -1429,7 +1429,6 @@ See also [TeX](#tex)
 * [The Programming Historian](http://niche-canada.org/files/programming-historian-1.pdf) - William J. Turkel, Adam Crymble and Alan MacEachern (PDF)
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
-* [Web2py: Complete Reference Manual, 6th Edition (pre-release)](https://dl.dropbox.com/u/18065445/web2py/web2py_manual_5th.pdf) (PDF)
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming) (2.7)
 

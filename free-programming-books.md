@@ -875,6 +875,7 @@
 ###Go
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
 * [Build Web Application with Golang](https://docs.google.com/file/d/0B2GBHFyTK2N8TzM4dEtIWjBJdEk/)
+* [Go Bootcamp](http://www.golangbootcamp.com/book) - Matt Aimonetti
 * [Go by Example](https://gobyexample.com/)
 * [Learning Go](http://archive.miek.nl/projects/learninggo/index.html)
 * [Network programming with Go](http://jan.newmarch.name/go/)

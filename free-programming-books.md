@@ -199,7 +199,7 @@
 
 
 ###Graphics Programming
-* [Blender 3D: Noob to Pro](http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)
+* [Blender 3D: Noob to Pro](http://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro)
 * [DirectX manual](http://www.xmission.com/~legalize/book/download/index.html) (draft)
 * [GPU Gems](http://http.developer.nvidia.com/GPUGems/gpugems_part01.html)
 * [GPU Gems 2](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html) - [ch 8,14,18,29,30 as pdf](ftp://download.nvidia.com/developer/GPU_Gems_2/)
@@ -335,7 +335,7 @@
 * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
-* [The Python Game Book](http://thepythongamebook.com/en:start)
+* [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 
 
 ####Mathematics
@@ -656,7 +656,7 @@
 ###Basic
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org/) - Nick Montfort, Patsy Baudoin, John Bell,Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
 * [A beginner's guide to Gambas](http://beginnersguidetogambas.com/)
-* [BASIC programming language - Wikibooks](http://en.wikibooks.org/wiki/Category:BASIC_programming_language)
+* [BASIC programming language - Wikibooks](http://en.wikibooks.org/wiki/Category%3ABASIC_programming_language)
 * [How To Gambas3 Guides](http://howtogambas.org/index.php?page=cedi)
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 
@@ -671,7 +671,7 @@
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
-* [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C)
+* [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming%3AC)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
@@ -842,7 +842,7 @@
 
 
 ###Fortran
-* [Fortran programming language - Wikibooks](http://en.wikibooks.org/wiki/Category:Fortran_programming_language)
+* [Fortran programming language - Wikibooks](http://en.wikibooks.org/wiki/Category%3AFortran_programming_language)
 * [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf)
 
 
@@ -1630,7 +1630,7 @@ See also [TeX](#tex)
 * [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler.htm) *(RedGate, By Brad McGehee)*
 * [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views.htm) *(RedGate, By Tim Ford and Louis Davidson)*
 * [Protecting SQL Server Data](http://www.red-gate.com/community/books/protecting-data.htm) *(RedGate, By John Magnabosco)*
-* [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#SQLServer2012Tutorials:ReportingServices)
+* [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#SQLServer2012Tutorials%3AReportingServices)
 * [SQL Server Execution Plans](http://download.red-gate.com/ebooks/SQL/sql-server-execution-plans.pdf) (PDF) *(RedGate, By Grant Fritchey)*
 * [SQL Server Execution Plans, Second Edition](http://download.red-gate.com/ebooks/SQL/eBOOK_SQLServerExecutionPlans_2Ed_G_Fritchey.pdf) (PDF) *(RedGate, By Grant Fritchey)*
 * [SQL Server Tacklebox](http://www.red-gate.com/community/books/sql-server-tacklebox) *(RedGate, By Rodney Landrum)*
@@ -1658,7 +1658,7 @@ See also [TeX](#tex)
 
 
 ###Tcl
-* [Tcl Programming](http://en.wikibooks.org/wiki/Programming:Tcl), by Richard.Suchenwirth, et. al.
+* [Tcl Programming](http://en.wikibooks.org/wiki/Programming%3ATcl), by Richard.Suchenwirth, et. al.
 * [TclWise](http://www.invece.org/tclwise/index.html), by Salvatore Sanfilippo
 
 
@@ -1748,4 +1748,4 @@ See also [LaTeX](#latex)
 ###xBase (dBase / Clipper / Harbour)
 * [Application Development with Harbour](http://en.wikibooks.org/wiki/Application_Development_with_Harbour)
 * [CA-Clipper 5.2 Norton Guide](http://www.ousob.com/ng/clguide/)
-* [Clipper Tutorial: a Guide to Open Source Clipper(s)](http://en.wikibooks.org/wiki/Clipper_Tutorial:_a_Guide_to_Open_Source_Clipper(s))
+* [Clipper Tutorial: a Guide to Open Source Clipper(s)](http://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s))

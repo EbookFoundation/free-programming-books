@@ -1419,7 +1419,7 @@ See also [TeX](#tex)
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 * [Python Module of the Week](http://pymotw.com/2/)
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
-* [Python Practice Projects](www.pythonpracticeprojects.com)
+* [Python Practice Projects](http://www.pythonpracticeprojects.com)
 * [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF) (2.6)
 * [Python Scientific Lecture Notes](http://scipy-lectures.github.io/)
 * [Python Scripting for Computational Science](http://info.baustatik.uni-due.de/Lehre/CM-AOS/Scripts/Abaqus/Python%20Scripting%20for%20Computational%20Science.pdf) - Hans Petter Langtangen

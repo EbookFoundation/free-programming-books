@@ -1428,7 +1428,7 @@ See also [TeX](#tex)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (3.3 - 3.x)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
 * [The Art and Craft of Programming](http://beastie.cs.ua.edu/cs150/book/index.html) (3.x)
-* [The Programming Historian](http://niche-canada.org/files/programming-historian-1.pdf) - William J. Turkel, Adam Crymble and Alan MacEachern (PDF)
+* [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum

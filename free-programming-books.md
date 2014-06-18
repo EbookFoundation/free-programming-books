@@ -1175,7 +1175,6 @@ See also [TeX](#tex)
 
 
 ###Maven
-* [Better Builds with Maven](http://www.maestrodev.com/better-build-maven)
 * [Developing with Eclipse and Maven](http://www.sonatype.com/books/m2eclipse-book/reference/)
 * [Maven by Example](http://www.sonatype.com/books/mvnex-book/reference/public-book.html)
 * [Maven: The Complete Reference](http://www.sonatype.com/books/mvnref-book/reference/public-book.html)

@@ -629,7 +629,7 @@
 
 
 ###AutoHotkey
-* [AHKbook - the book for AutoHotkey](http://maul-esel.github.io/ahkbook/index.html)
+* [AHKbook - the book for AutoHotkey](http://ahkscript.github.io/ahkbook/index.html)
 
 
 ###Autotools

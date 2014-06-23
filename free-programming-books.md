@@ -1084,7 +1084,7 @@ For resources on Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQu
 
 
 ###Jenkins
-* [Jenkins: The Definitive Guide](http://it-ebooks.info/book/576/) (PDF)
+* [Jenkins: The Definitive Guide](http://www.wakaleo.com/books/jenkins-the-definitive-guide) (PDF)
 
 
 ###LaTeX

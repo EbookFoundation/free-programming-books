@@ -62,6 +62,7 @@
 * [JavaScript](#javascript)
     * [Javascript frameworks](#javascript-frameworks)
     * [Node.js](#nodejs)
+* [Jenkins](#jenkins)
 * [Language Agnostic](#language-agnostic)
     * [Algorithms & Datastructures](#algorithms--data-structures)
     * [Cellular Automata](#cellular-automata)
@@ -1080,6 +1081,10 @@ For resources on Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQu
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
 * [The Node Beginner Book](http://nodebeginner.org/)
 * [Node.js Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
+
+
+###Jenkins
+* [Jenkins: The Definitive Guide](http://www.wakaleo.com/books/jenkins-the-definitive-guide) (PDF)
 
 
 ###LaTeX

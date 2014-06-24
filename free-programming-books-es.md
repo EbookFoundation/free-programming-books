@@ -124,7 +124,6 @@
 
 
 ###Emacs
-* [Emacs: Iniciación a la edición](http://www.rpublica.net/emacs/emacs.html)
 
 
 ###Ensamblador

@@ -293,7 +293,6 @@
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) (Draft) - Ron Zacharski
 * [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp) *(Just fill the fields with any values)*
 * [Data Mining Algorithms In R](http://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
-* [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/DokuWiki/doku.php) (Draft)
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
@@ -411,7 +410,6 @@
 * [Programming with Unicode](http://unicodebook.readthedocs.org/)
 * [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap
-* [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson
@@ -430,7 +428,6 @@
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
-* [Network Security Tools](http://commons.oreilly.com/wiki/index.php/Network_Security_Tools)
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
@@ -445,7 +442,6 @@
 * [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html)
 * [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org/)
 * [Producing Open Source Software](http://producingoss.com/)
-* The Art of Community: Building the New Age of Participation; [First edition](http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf) (PDF), [Second edition](http://ubuntuone.com/0n352YwUjlcFR8PjIELH67) (PDF) - Jono Bacon
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
 * [The Future of the Internet](http://futureoftheinternet.org/)
@@ -887,12 +883,12 @@
 ###Groovy
 
 ####Gradle
-* [Gradle User Guide](http://www.gradle.org/docs/current/userguide/userguide.html)([PDF](http://www.gradle.org/docs/current/userguide/userguide.pdf)) - Hans Dockter, Adam Murdoch
+* [Gradle User Guide](http://www.gradle.org/docs/current/userguide/userguide.html) ([PDF](http://www.gradle.org/docs/current/userguide/userguide.pdf)) - Hans Dockter, Adam Murdoch
 * [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
 * [Building and Testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
 
 ####Grails
-* [The Grails Framework - Reference Documentation](http://grails.org/doc/latest/)([PDF](http://grails.org/doc/latest/guide/single.pdf)) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari
+* [The Grails Framework - Reference Documentation](http://grails.org/doc/latest/) ([PDF](http://grails.org/doc/latest/guide/single.pdf)) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari
 * [Grails Tutorial for Beginners](http://grails.asia/grails-tutorial-for-beginners/) - GRAILS COOKBOOK
 * [Getting Started with Grails](http://www.infoq.com/minibooks/grails-getting-started)
 
@@ -1319,7 +1315,6 @@ See also [TeX](#tex)
     * [Laravel: Code Bright](http://daylerees.com/codebright)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf)
 * [PHP Best Practices](https://phpbestpractices.org/)
-* [PHP Cookbook](http://commons.oreilly.com/wiki/index.php/PHP_Cookbook)
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
 * [PHP Internals Book](http://www.phpinternalsbook.com/)
 * [PHP Programming](http://en.wikibooks.org/wiki/PHP_Programming)
@@ -1439,7 +1434,6 @@ See also [TeX](#tex)
 
 
 ####Django
-* [Deploy Django](http://www.deploydjango.com)
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
@@ -1538,7 +1532,6 @@ See also [TeX](#tex)
 
 
 ###Sage
-* [Sage for Newbies](http://sage.math.washington.edu/home/tkosan/newbies_book/) - Ted Kosan
 * [Sage for Power Users](http://modular.math.washington.edu/books/sagebook/sagebook.pdf) (PDF) - William
 * [The Sage Manuals](http://sagemath.org/doc/)
 

@@ -14,7 +14,6 @@
 * [C++](#c-1)
 * [CSS](#CSS)
 * [Coffeescript](#coffeescript)
-* [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
 * [Git](#git)
@@ -121,9 +120,6 @@
 
 ###Coffeescript
 * [Coffeescript, un pequeño gran libro – Javi Jiménez](https://leanpub.com/coffeescript)
-
-
-###Emacs
 
 
 ###Ensamblador

@@ -436,6 +436,7 @@
 * [R 基本統計関数マニュアル](http://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) (PDF) - 間瀬茂
 * [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
 * [統計解析フリーソフトRの備忘録](http://cse.naro.affrc.go.jp/takezawa/r-tips.pdf) (PDF) - 竹澤邦夫
+* [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/?page_id=626) (PDF, ePUB) - 小杉考司, 押江隆
 * [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) (PDF) - 中澤港
 * [Rによる統計解析の基礎](http://minato.sip21c.org/statlib/stat.pdf) (PDF) - 中澤港
 * [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之

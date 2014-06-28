@@ -1461,6 +1461,7 @@ See also [TeX](#tex)
 * [Advanced R Programming](http://adv-r.had.co.nz/)
 * [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) (PDF) - G. Jay Kerns
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
+* [learnR](https://github.com/renkun-ken/learnR) - (Work in Progress) - Kun Ren
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) (PDF) - Julian J. Faraway
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
 * [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)

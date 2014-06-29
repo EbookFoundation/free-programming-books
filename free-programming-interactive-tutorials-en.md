@@ -35,6 +35,7 @@
 
 
 ###Go
+* [Go Koans](https://github.com/cdarwin/go-koans)
 * [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
 
 

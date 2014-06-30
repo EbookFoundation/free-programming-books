@@ -1154,6 +1154,10 @@ See also [TeX](#tex)
 * [Programming Gems](http://www.lua.org/gems/)
 
 
+###Markdown
+* [Learn Markdown](https://www.gitbook.io/book/gitbookio/markdown) (PDF) (EPUB) (MOBI) - GitBookIO, Sammy P., Aaron O. 
+
+
 ###Mathematica
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf)
 * [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org/)

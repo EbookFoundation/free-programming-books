@@ -1506,6 +1506,7 @@ See also [TeX](#tex)
 * [The Little Book Of Ruby](http://www.sapphiresteel.com/The-Little-Book-Of-Ruby)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
+* [I Love Ruby](http://goo.gl/1qrMUN)
 
 
 ####RSpec

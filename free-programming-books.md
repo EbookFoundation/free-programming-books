@@ -381,6 +381,7 @@
 * [Data-Intensive Text Processing with MapReduce](http://www.umiacs.umd.edu/~jimmylin/MapReduce-book-final.pdf) (PDF)
 * [Designing Interfaces](http://designinginterfaces.com) by Jennifer Tidwell
 * [DevDocs](http://devdocs.io/) - Documents for Developers in 1 place
+* [DevOps For Dummies (IBM Edition)](http://public.dhe.ibm.com/common/ssi/ecm/en/ram14011usen/RAM14011USEN.PDF) (PDF)
 * [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com/)
 * [Digital Signal Processing For Communications](http://www.sp4comm.org/)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)

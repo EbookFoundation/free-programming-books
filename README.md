@@ -62,6 +62,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 ### Podcast - Screencast
 Free Podcasts and Screencasts:
 
++ Czech: [github](/free-podcasts-screencasts-cs.md)
 + English: [github](/free-podcasts-screencasts-en.md)
 
 

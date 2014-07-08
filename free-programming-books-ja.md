@@ -2,6 +2,7 @@
 * [言語非依存](#%e8%a8%80%e8%aa%9e%e9%9d%9e%e4%be%9d%e5%ad%98)
     * [アクセシビリティ](#%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b7%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3)
 	* [組み込みシステム](#%e7%b5%84%e3%81%bf%e8%be%bc%e3%81%bf%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
+    * [機械学習](#%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)
     * [グラフィックスプログラミング](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
     * [グラフィックユーザーインターフェイス](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b9)
     * [正規表現](#%e6%ad%a3%e8%a6%8f%e8%a1%a8%e7%8f%be)
@@ -25,6 +26,10 @@
 * [Erlang](#erlang)
 * [Git](#git)
 * [Go](#go)
+* [Groovy](#groovy)
+    * [Gradle](#gradle)
+    * [Grails](#grails)
+    * [Spock Framework](#spock-framework)
 * [Haskell](#haskell)
 * [Haxe](#haxe)
 * [iOS](#ios)
@@ -39,6 +44,7 @@
 * [Lua](#lua)
 * [Maven](#maven)
 * [Mercurial](#mercurial)
+* [ML](#ml)
 * [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
@@ -52,6 +58,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Sather](#sather)
+* [Scala](#scala)
 * [Scheme](#scheme)
 * [sed](#sed)
 * [Smalltalk](#smalltalk)
@@ -64,11 +71,16 @@
 
 
 ###言語非依存
-
 ####アクセシビリティ
 * [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAccessibility.pdf) (PDF) - Apple Developer
 * [Accessible Rich Internet Applications](https://developer.mozilla.org/ja/docs/ARIA/Accessible_Rich_Internet_Applications) - MDN
 * [アクセシビリティのための設計](http://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
+
+
+####機械学習
+* [機械学習 はじめよう](http://gihyo.jp/dev/serial/01/machine-learning) - 中谷秀洋，恩田伊織
+* [Mahoutで体感する機械学習の実践](http://gihyo.jp/dev/serial/01/mahout) - やまかつ
+* [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/index.html#table-of-contents) - [Jubatus チーム](http://jubat.us/ja/aboutus.html)
 
 
 ####組み込みシステム
@@ -117,8 +129,10 @@
 * [チャートで解るリファクタリング](http://objectclub.jp/technicaldoc/refactoring/u_s_r) - 梅田政利
 * [デザインパターン](http://www.techscore.com/tech/DesignPattern/) - シナジーマーケティング株式会社
 
+
 ####ソフトウェア開発方法論
 * [塹壕より Scrum と  XP](http://www.infoq.com/jp/minibooks/scrum-xp-from-the-trenches) - Henrik Kniberg
+
 
 ####ソフトウェア品質
 * [組込みソフトウェア開発における品質向上の勧め [ユーザビリティ編] ](http://www.ipa.go.jp/files/000005114.pdf) (PDF) - 独立行政法人 情報処理推進機構(IPA)
@@ -130,11 +144,13 @@
 * [組込みソフトウェア開発における品質向上の勧め [バグ管理手法編]](http://www.ipa.go.jp/files/000027629.pdf) (PDF) - 独立行政法人 情報処理推進機構(IPA)
 * [高信頼化ソフトウェアのための開発手法ガイドブック](http://www.ipa.go.jp/files/000005144.pdf) (PDF) - 独立行政法人 情報処理推進機構(IPA)
 
+
 ####並列プログラミング
 * [並列プログラミング入門MPI版](http://accc.riken.jp/secure/4467/parallel-programming_main.pdf) (PDF) - 青山幸也
 * これからの並列計算のためのGPGPU連載講座([I](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No1/201001gpgpu.pdf)),  ([II](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No2/201003gpgpu.pdf)),  ([III](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No3/201005_gpgpu2.pdf)),  ([VI](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No4/201007_gpgpu.pdf)),  ([V](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No5/201009_gpgpu.pdf)),  ([VI](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No6/201011_gpgpu.pdf)) (PDF) - 大島聡史
 * 連載講座: 高生産並列言語を使いこなす([1](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No1/Rensai201101.pdf)),  ([2](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No3/Rensai201105.pdf)), ([3](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No4/Rensai201107.pdf)), ([4](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No5/Rennsai201109.pdf)), ([5](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No6/Rennsai201111.pdf)) (PDF) - 田浦健次朗
 * [インテル コンパイラー OpenMP 入門](http://jp.xlsoft.com/documents/intel/compiler/525J-001.pdf) (PDF) - 戸室隆彦
+
 
 ####その他の話題
 * [徹底解剖「G1GC」実装編](http://www.narihiro.info/g1gc-impl-book/) - 中村成洋
@@ -206,7 +222,7 @@
 * [LISP and PROLOG](http://home.soka.ac.jp/~unemi/LispProlog/) - 畝見達夫
 * [マンガで分かるLisp(Manga Guide to Lisp)](http://lambda.bugyo.tk/cdr/mwl/) - λ組
 * [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd/) - Paul Graham, 野田開(翻訳)
-* [Google Common Lisp スタイルガイド 日本語訳](http://google-common-lisp-style-guide-ja.cddddr.org/) -  Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳) 
+* [Google Common Lisp スタイルガイド 日本語訳](http://google-common-lisp-style-guide-ja.cddddr.org/) -  Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳)
 
 
 ###Coq
@@ -233,6 +249,21 @@
 ###Go
 * [Goプログラミング言語のチュートリアル](http://golang.jp/go_tutorial)
 
+###Groovy
+* [Groovy入門](http://www.oki-osk.jp/esc/groovy/) - OKIソフトウェア
+* [JGGUG G*Magazine](http://grails.jp/g_mag_jp/) (PDF,EPUB) - JGGUG(日本Grails/Groovyユーザーグループ)
+
+####Gradle
+* [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs/) ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf)) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya
+* [ビルドツールGradleスタートアップガイドの紹介](http://www.ntts.co.jp/publish/column/tec/java_03/) - 鈴木雅貴
+
+####Grails
+* [Grailsフレームワーク 日本語リファレンス](http://grails.jp/doc/latest/) - T.Yamamoto & Japanese Grails Doc Translating Team. Special thanks to NTT Software.
+* [Grailsを用いたファイルアップローダ作成](http://www.ntts.co.jp/publish/column/tec/java_02/) - 須藤悠
+
+####Spock Framework
+* [Spock Framework リファレンスドキュメント](http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/) - Peter Niederwieser, Kazuki YAMAMOTO
+* [G*ワークショップZ May 2013 - Spockハンズオンの資料](https://github.com/yamkazu/spock-workshop/tree/master/docs) - Kazuki YAMAMOTO
 
 ###Haskell
 * [Haskell基礎文法最速マスター](http://d.hatena.ne.jp/ruicc/20100131/1264905896) - id:ruicc
@@ -316,6 +347,8 @@
 * [Mercurial: The Definitive Guide](http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, 藤原克則(翻訳)
 * [Mercurial チュートリアル hginit.com の和訳](http://d.hatena.ne.jp/mmitou/20100501/1272680474) - Joel Spolsky, id:mmitou(翻訳)
 
+###ML
+* [ATSプログラミング入門](http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS/index.html)
 
 ###NoSQL
 * [MongoDBの薄い本](http://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) (PDF) - Karl Seguin, 濱野司(翻訳)
@@ -328,7 +361,7 @@
 * [Objective-Cによるプログラミング](https://developer.apple.com/jp/devcenter/ios/library/documentation/ProgrammingWithObjectiveC.pdf) (PDF) - Apple Developer
 * [Objective-Cプログラミング言語](https://developer.apple.com/jp/devcenter/ios/library/documentation/ObjC.pdf) (PDF) - Apple Developer
 * [Objective-C プログラミングの概念](https://developer.apple.com/jp/devcenter/ios/library/documentation/CocoaEncyclopedia.pdf) (PDF) - Apple Developer
-* [Google Objective-Cスタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳) 
+* [Google Objective-Cスタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳)
 
 
 ###OCaml
@@ -361,7 +394,6 @@
 
 
 ###Processing
-
 * [Processingクイックリファレンス](http://www.musashinodenpa.com/p5/) - 株式会社武蔵野電波
 * [Processing 学習ノート](http://www.d-improvement.jp/learning/processing/) - @mathatelle
 * [Processing入門講座](http://ap.kakoku.net/index.html) - maeda
@@ -378,7 +410,7 @@
 * [Python 2.7.2 ドキュメント日本語訳](http://docs.python.jp/2.7/) - Python Software Foundation
 * [Python の学習](http://skitazaki.github.io/python-school-ja/index.html) - KITAZAKI Shigeru
 * [Google Python スタイルガイド](http://works.surgo.jp/translation/pyguide.html) - Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields, Kosei Kitahara(翻訳)
-* [機械学習の Python との出会い (Machine Learning Meets Python)](http://www.kamishima.net/mlmpyja/) ([PDF](http://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](http://www.kamishima.net/archive/mlmpyja.epub))- 神嶌敏弘
+* [機械学習の Python との出会い (Machine Learning Meets Python)](http://www.kamishima.net/mlmpyja/) [PDF](http://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](http://www.kamishima.net/archive/mlmpyja.epub) - 神嶌敏弘
 * [The Programming Historian](https://sites.google.com/site/theprogramminghistorianja/) - William J. Turkel, Alan MacEachern, @moroshigeki(翻訳), @historyanddigi(翻訳), @Say\_no(翻訳), @knagasaki(翻訳), @mak\_goto(翻訳)
 * [Python Scientific Lecture Notes (一部翻訳)](http://turbare.net/transl/scipy-lecture-notes/) - 打田旭宏(翻訳)
 * [Notes on scientific computing with python](http://japanichaos.appspot.com/) - 花田康高
@@ -391,7 +423,7 @@
 * [Pythonヒッチハイク・ガイド](http://python-guide-ja.readthedocs.org/) - Kenneth Reitz, Tsuyoshi Tokuda(翻訳)
 * [Python プログラマーのための gevent チュートリアル](http://methane.github.io/gevent-tutorial-ja/) - Stephen Diehl, Jérémy Bethmont, sww, Bruno Bigras, David Ripton, Travis Cline, Boris Feld, youngsterxyf, Eddie Hebert, Alexis Metaireau, Daniel Velkov, methane(翻訳)
 * [お気楽 Python プログラミング入門](http://www.geocities.jp/m_hiroi/light/index.html) - 広井誠
-
+* [Think Python：コンピュータサイエンティストのように考えてみよう](http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf) - Allen Downey, 相川 利樹（翻訳）
 
 ####Flask
 * [Flask ドキュメント](http://flask-docs-ja.readthedocs.org/) - Armin Ronacher, Tsuyoshi Tokuda(翻訳)
@@ -404,6 +436,7 @@
 * [R 基本統計関数マニュアル](http://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) (PDF) - 間瀬茂
 * [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
 * [統計解析フリーソフトRの備忘録](http://cse.naro.affrc.go.jp/takezawa/r-tips.pdf) (PDF) - 竹澤邦夫
+* [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/?page_id=626) (PDF, ePUB) - 小杉考司, 押江隆
 * [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) (PDF) - 中澤港
 * [Rによる統計解析の基礎](http://minato.sip21c.org/statlib/stat.pdf) (PDF) - 中澤港
 * [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
@@ -419,8 +452,13 @@
 * [Ruby on Rails チュートリアル](http://railstutorial.jp/) - Michael Hartl, Shozo Hatta(監訳)
 
 
-###Sather 
+###Sather
 * [Sather を試そう](http://www.shido.info/sather/index.html) - 紫藤貴文
+
+
+###Scala
+* [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
+* [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 
 
 ###Scheme

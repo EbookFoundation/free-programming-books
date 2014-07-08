@@ -14,7 +14,9 @@
 * [Javascript](#javascript)
 * [LaTeX](#latex)
 * [Meta-Lists](#meta-lists)
+* [MySQL](#mysql)
 * [PHP](#php)
+* [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
@@ -22,122 +24,135 @@
 * [Unix](#unix)
 * [Visual Basic](#visual-basic)
 
-###Unabhängig von der Programmiersprache
 
+###Unabhängig von der Programmiersprache
 * [IT-Handbuch für Fachinformatiker](http://openbook.galileocomputing.de/it_handbuch/)
 * [Objektorientierte Programmierung](http://openbook.galileocomputing.de/oop/)
-* [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf)
+* [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) [PDF]
+
 
 ###Action Script
-
 * [ActionScript 1 und 2](http://openbook.galileodesign.de/actionscript/)
 * [Einstieg in ActionScript](http://openbook.galileodesign.de/actionscript_einstieg/)
 
-###Android
 
-* [Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf)
+###Android
+* [Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf) [PDF]
+
 
 ###Assembly Language
-
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 
 
 ###C
-
 * [C von A bis Z](http://openbook.galileocomputing.de/c_von_a_bis_z/)
-* [Softwareentwicklung in C](http://www.klausschmaranz.com/Downloads/SoftwareentwicklungInC.pdf)
+* [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) [PDF]
+
 
 ###C++
-
 * [Die Boost C++ Bibliotheken](http://www.highscore.de/cpp/boost/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
+* [Softwareprogrammierung in C++](http://www.iaik.tugraz.at/content/teaching/bachelor_courses/betriebssysteme/downloads/schmaranz2.pdf) [PDF]
+
 
 ###C Sharp
-
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
 * [Visual C# 2012](http://openbook.galileocomputing.de/visual_csharp_2012/)
 * [Visual C# 2010](http://openbook.galileocomputing.de/visual_csharp_2010/)
 * [Visual C# 2008](http://openbook.galileocomputing.de/visual_csharp/)
 
-###iOS
 
+###iOS
 * [Apps programmieren für iPhone und iPad](http://openbook.galileocomputing.de/apps_programmieren_fuer_iphone_und_ipad/)
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
-* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf)
+* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) [PDF]
+
 
 ###Git
-
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
 * [Pro Git](http://git-scm.com/book/de)
 
-###Groovy
 
+###Groovy
 * [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf)
 
-### HTML & CSS
 
+### HTML & CSS
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
-* [Self HTML](http://de.selfhtml.org/)
+* [Self HTML](http://de.selfhtml.org)
+* [HTML](http://peterkropff.de/site/html/html.htm) — Peter Kropff [Online, PDF]
+* [CSS](http://peterkropff.de/site/css/css.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
+
 
 ###Java
-
+* [EJB 3 für Umsteiger: Neuerungen und Änderungen gegenüber dem EJB-2.x-Standard](http://bsd.de/e3fu/umfrage.html) - Heiko W. Rupp
 * [Java 7 Mehr als eine Insel](http://openbook.galileocomputing.de/java7/)
 * [Java ist auch eine Insel](http://openbook.galileocomputing.de/javainsel/)
-* [JSFAtWork, JSF 2.0 und Apache MyFaces](http://jsfatwork.irian.at/book_de/)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung/)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
 
-###Javascript
 
+###Javascript
 * [JavaScript und AJAX](http://openbook.galileocomputing.de/javascript_ajax/)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
+* [JavaScript](http://peterkropff.de/site/javascript/javascript.htm) — Peter Kropff (Grundlagen, AJAX, DOM, OOP) [Online, PDF]
+
 
 ###LaTeX
-
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
+
 
 ###Meta-Lists
 * [Galileo Computing - openbook](http://www.galileocomputing.de/katalog/openbook)
 
 
-###PHP
+###MySQL
+* [MySQL](http://peterkropff.de/site/mysql/mysql.htm) — Peter Kropff [Online, PDF]
 
+
+###PHP
 * [PHP PEAR](http://openbook.galileocomputing.de/php_pear/)
-* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf)
+* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) [PDF]
+* [PHP](http://peterkropff.de/site/php/php.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
+
+
+###PostgreSQL
+* [PostgreSQL Einführung](http://cybertec.at/pgbook/)
+
 
 ###Python
-
 * [Python Das umfassende Handbuch](http://openbook.galileocomputing.de/python/)
+* [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
+
 
 ###Ruby
-
 * [Programmieren mit Ruby](http://approximity.com/rubybuch2/)
-* [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
+
 
 ###Ruby on Rails
-
-* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)
-* [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf)
-* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf)
+* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) [PDF]
+* [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) [PDF]
+* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) [PDF]
 * [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
+* [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/)
+
 
 ###Scilab
+* [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf) [PDF]
 
-* [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf)
 
 ###UML
-
 * [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml)
 
-###Unix
 
+###Unix
 * [Linux-UNIX-Programmierung](http://openbook.galileocomputing.de/linux_unix_programmierung/)
 * [Shell-Programmierung](http://openbook.galileocomputing.de/shell_programmierung/)
 * [Wie werde ich Unix Guru?](http://openbook.galileocomputing.de/unix_guru/)
 
-###Visual Basic
 
+###Visual Basic
 * [Einstieg in Visual Basic 2012](http://openbook.galileocomputing.de/einstieg_vb_2012/)
 * [Einstieg in Visual Basic 2010](http://openbook.galileocomputing.de/einstieg_vb_2010/)
 * [Visual Basic 2008](http://openbook.galileocomputing.de/visualbasic_2008/)

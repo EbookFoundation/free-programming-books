@@ -6,6 +6,7 @@
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
     * [Méthodes de développment](#méthodes-de-développement)
+    * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
     * [Théorie des langages](#théorie-des-langages)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
@@ -41,7 +42,6 @@
 ###Non dépendant du langage
 ####Algorithmique
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours), par Michel Quercia
-* [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole), par Tim Bell, Ian H. Witten et Mike Fellows (traduit)
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) par D. Beauquier, J. Berstel, et Ph. Chrétienne
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
@@ -65,6 +65,10 @@
 
 ####Méthodes de développement
 * [Scrum et XP depuis les tranchées](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf), par Henrik Kniberg
+
+####Pédagogie pour enfants et adolescents
+
+* [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole), par Tim Bell, Ian H. Witten et Mike Fellows (traduit)
 
 
 ####Théorie des langages

@@ -1,6 +1,7 @@
 ﻿###Index
 * [Ada](#ada)
 * [Agda](#agda)
+* [Alef](#alef)
 * [Android](#android)
 * [APL](#apl)
 * [Arduino](#arduino)
@@ -16,6 +17,8 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
+* [Chapel](#chapel)
+* [Cilk](#cilk)
 * [Clojure](#clojure)
 * [COBOL](#cobol)
 * [CoffeeScript](#coffeescript)
@@ -91,6 +94,7 @@
     * [Theoretical Computer Science](#theoretical-computer-science)
     * [Web Performance](#web-performance)
 * [LaTeX](#latex)
+* [Limbo](#limbo)
 * [Linux](#linux)
 * [Lisp](#lisp)
 * [Lua](#lua)
@@ -110,6 +114,7 @@
 * [OCaml](#ocaml)
 * [Octave](#octave)
 * [OpenGL ES](#opengl-es)
+* [OpenMP](#openmp)
 * [OpenSCAD](#openscad)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Oracle Server](#oracle-server)
@@ -575,11 +580,15 @@
 * [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
 * [Ada for Software Engineers](http://pnyf.inf.elte.hu/kto/oktatas/ada/books/ase.pdf) (PDF)
 * [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
+* [Ada Programming](http://en.wikibooks.org/wiki/Ada_Programming)
+* [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
 
 
 ###Agda
 * [Agda Tutorial](https://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
 
+###Alef
+* [Alef Language Reference Manual](http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
 
 ###Android
 * [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
@@ -642,6 +651,7 @@
 ###Awk
 * [A User's Guide for GNU AWK](http://www.math.utah.edu/docs/info/gawk_toc.html)
 * [Awk](http://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
+* [An Awk Primer](https://en.wikibooks.org/wiki/An_Awk_Primer)
 
 
 ###Bash
@@ -717,6 +727,12 @@
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 
+###Chapel
+* [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
+* [Chapel Tutorial for Programmers](http://cs.colby.edu/kgburke/?resource=chapelTutorial)
+
+###Cilk
+* [Cilk 5.4.6 Reference Manual](http://supertech.csail.mit.edu/cilk/manual-5.4.6.pdf) (PDF)
 
 ###Clojure
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
@@ -1096,6 +1112,8 @@ For resources on Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQu
 
 See also [TeX](#tex)
 
+###Limbo
+* [Inferno Programming With Limbo](http://doc.cat-v.org/inferno/books/inferno_programming_with_limbo/)
 
 ###Linux
 * [Ad Hoc Data Analysis From The Unix Command Line](http://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
@@ -1264,6 +1282,9 @@ See also [TeX](#tex)
 ###OpenGL ES
 * [iPhone 3D Programming - Developing Graphical Applications with OpenGL ES](http://chimera.labs.oreilly.com/books/1234000001814/index.html) - Philip Rideout
 
+###OpenMP
+* [A Guide To OpenMP](http://www2.cs.uh.edu/~estrabd/openmp-combined.pdf) (PDF)
+* [OpenMP Application Programming Interface Standard Version 4.0](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) (PDF)
 
 ###OpenSCAD
 * [OpenSCAD User Manual](http://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
@@ -1307,9 +1328,9 @@ See also [TeX](#tex)
 * [Practical mod_perl](http://modperlbook.org/) - Stas Bekman, Eric Cholet
 * [Plack Handbook](http://handbook.plackperl.org/)
 * [SDL::Manual Writing Games in Perl](https://github.com/PerlGameDev/SDL_Manual)
-* [The Mason Book](http://www.masonbook.com/book/)
 * [The PDL Book](http://sourceforge.net/projects/pdl/files/PDL_2013/PDL-Book/PDL-Book-20130322.pdf/download) (PDF)
 * [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
+* [Template Toolkit Documentation](http://template-toolkit.org/docs/index.html)
 
 
 ###PHP
@@ -1376,6 +1397,7 @@ See also [TeX](#tex)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
 * [The First 10 Prolog Programming Contests](http://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net/) - Hassan A¨it-Kaci
+* [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) (PDF)
 
 
 ####Constraint Logic Programming (extended Prolog)

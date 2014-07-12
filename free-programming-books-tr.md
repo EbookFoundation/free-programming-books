@@ -11,6 +11,7 @@
 * [Matlab](#matlab)
 * [PHP](#php)
 * [Python](#python)
+* [Ruby](#ruby)
 * [Rust](#rust)
 
 
@@ -56,6 +57,12 @@
 ###Python
 * [Python ile Programlama](http://belgeler.istihza.com/py3/)
 * [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf)
+
+###Ruby
+* [Ruby](https://www.ruby-lang.org/tr/)
+* [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
+* [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
+* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
 
 ###Rust
 * [Rust'a Giriş](http://bit.ly/rustagiris)

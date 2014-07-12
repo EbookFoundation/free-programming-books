@@ -4,6 +4,7 @@
 * [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
+* [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -33,6 +34,9 @@
 
 ###Go
 * [Go Turu](http://tur.a.golang.org.tr)
+
+###iOS
+* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios/)
 
 ###Java
 * [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)

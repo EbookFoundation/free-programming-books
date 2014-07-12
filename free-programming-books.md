@@ -487,6 +487,7 @@
 
 
 ####Professional Development
+* [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://chimera.labs.oreilly.com/books/1234000001813/index.html) - David H. Hoover and Adewale Oshineye
 * [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
 * [Don't Just Roll the Dice](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
 * [How to be a Programmer: A Short, Comprehensive, and Personal Summary](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html) by Robert L. Read

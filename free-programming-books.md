@@ -1076,6 +1076,7 @@
 * [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks) - Malcolm Maclean
 * [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
 * [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
+* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) - Addy Osmani
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com/) - Noel Rappin
 * [Marionette Exposé: Learn to write modular Javascript applicatons using Backbone Marionette and RequireJS/AMD](http://leanpub.com/marionetteexpose) - Jack Killilea
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)

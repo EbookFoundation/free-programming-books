@@ -28,6 +28,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 
 
 ### In Other Spoken Languages
++ Azerbaijan: [github](/free-programming-books-az.md)
 + Bulgarian: [github](/free-programming-books-bg.md)
 + Chinese: [github](/free-programming-books-zh.md)
 + Czech: [github](/free-programming-books-cs.md)

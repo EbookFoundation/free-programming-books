@@ -800,7 +800,7 @@
 
 ###Elasticsearch
 * [Exploring Elasticsearch](http://exploringelasticsearch.com/)
-* [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
+* [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elasticsearch/elasticsearch-definitive-guide))
 
 
 ###Emacs

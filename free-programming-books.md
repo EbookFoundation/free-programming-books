@@ -900,6 +900,7 @@
 * [Network programming with Go](http://jan.newmarch.name/go/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 * [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
+* [Let's learn Go!](http://go-book.appspot.com)
 
 
 ###Groovy

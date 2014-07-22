@@ -1376,6 +1376,7 @@ See also [TeX](#tex)
 * [Layman’s Guide to PowerShell 2.0 remoting](http://www.ravichaganti.com/blog/wp-content/plugins/download-monitor/download.php?id=22) (PDF)
 * [Mastering PowerShell](http://powershell.com/cs/blogs/ebook/)
 * [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
+* [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ###Processing

@@ -1173,6 +1173,7 @@ See also [TeX](#tex)
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 * [Successful Lisp: How to Understand and Use Common Lisp](http://psg.com/~dlamkins/sl/) - David Lamkins
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel
+* [Learn Lisp The Hard Way](http://learnlispthehardway.org/book/) - Colin J.E. Lupton
 
 
 ###Lua

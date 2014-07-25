@@ -12,3 +12,7 @@
 * [Εισαγωγή στη Java](http://www.ebooks4greeks.gr/wp-content/uploads/2013/03/Java-free-book.pdf)
 * [Σημειώσεις Java](http://www.ebooks4greeks.gr/wp-content/uploads/2013/03/shmeiwseis-Java-eBooks4Greeks.gr_.pdf)
 * [Εισαγωγή στη γλώσσα προγραμματισμού JAVA](http://www.ebooks4greeks.gr/dowloads/Pliroforiki/Glosses.program./Java__Downloaded_from_eBooks4Greeks.gr.pdf)
+
+
+###Python
+* [Ένα byte της Python](https://dl.dropboxusercontent.com/u/54790396/a_byte_of_python-el.pdf)

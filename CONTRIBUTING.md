@@ -38,7 +38,7 @@ Like this example:
 * [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
 
 
-###DTrace
+### DTrace
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
 * [Some Other Book](http://so.me/other/book.html)
 

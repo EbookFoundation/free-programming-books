@@ -680,7 +680,7 @@
 * [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read)
 * [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
-
+* [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md)
 
 
 ###ColdFusion
@@ -966,6 +966,7 @@
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655) (PDF)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Oh My JS](https://leanpub.com/ohmyjs/read) *(Leanpub, by Azat Mardanov)*
+
 
 
 ####Angular.js

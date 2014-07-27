@@ -45,8 +45,9 @@
 
 
 ###Javascript
-* [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
+* [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+
 
 
 ###LaTeX

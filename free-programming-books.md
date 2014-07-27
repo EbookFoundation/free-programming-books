@@ -680,7 +680,7 @@
 * [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read)
 * [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
-* [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md)
+
 
 
 ###ColdFusion

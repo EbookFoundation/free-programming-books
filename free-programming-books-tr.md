@@ -1,4 +1,4 @@
-###Index
+### Index
 * [C](#c)
 * [D](#d)
 * [Fortran](#fortran)
@@ -16,57 +16,57 @@
 * [Rust](#rust)
 
 
-###C
+### C
 * [C Programlama Diline Giris](http://www1.gantep.edu.tr/~bingul/c/index.php)
 * [Sistem Programlama ve İleri C Uygulamaları Kurs Notları](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 
 
-###D
+### D
 * [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
  
 
-###Fortran
+### Fortran
 * [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php)
 
 
-###Git
+### Git
 * [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
 
-###Go
+### Go
 * [Go Turu](http://tur.a.golang.org.tr)
 
-###iOS
+### iOS
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios/)
 
-###Java
+### Java
 * [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
 
-###JavaScript
+### JavaScript
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
 
 
-###LaTeX
+### LaTeX
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
 
-###Linux
+### Linux
 * [UNIX/Linux Sistem Programlama Kurs Notları](http://www.kaanaslan.com/resource/course_note/course_note.php)
 
-###Matlab
+### Matlab
 * [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)
 
-###PHP
+### PHP
 * [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
 
 
-###Python
+### Python
 * [Python ile Programlama](http://belgeler.istihza.com/py3/)
 * [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf)
 
-###Ruby
+### Ruby
 * [Ruby](https://www.ruby-lang.org/tr/)
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
 * [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
 
-###Rust
+### Rust
 * [Rust'a Giriş](http://bit.ly/rustagiris)

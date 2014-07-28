@@ -41,7 +41,7 @@
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 
-##Dojo
+## Dojo
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
 
 
@@ -53,11 +53,11 @@
 * [Let's Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/)
 
 
-##Express.js
+## Express.js
 * [Express.js Guide](https://leanpub.com/express/read) *(Leanpub, by Azat Mardanov)*
 
 
-##jQuery
+## jQuery
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
 * [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*

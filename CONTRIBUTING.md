@@ -28,7 +28,7 @@ By submitting code you agree to the [LICENSE](https://github.com/vhf/free-progra
 
 The idea is to have
 + `2` empty lines between last suggested book & new header
-+ `0` empty line between header & first book of that very section.
++ `1` empty line between header & first book of that very section.
 + `0` empty line between each book in 1 section.
 + `1` empty line at the end of each `.md` file.
 
@@ -39,6 +39,7 @@ Like this example:
 
 
 ### DTrace
+
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
 * [Some Other Book](http://so.me/other/book.html)
 

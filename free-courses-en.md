@@ -35,6 +35,7 @@
 * [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
 
 ### HTML / CSS
+* [Build a SaaS landing page using Skeleton CSS](https://www.bloc.io/build-your-first-website-with-html-and-css)
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
@@ -73,3 +74,6 @@
 
 ### Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+
+### Swift
+* [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift)

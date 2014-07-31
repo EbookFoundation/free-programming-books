@@ -55,7 +55,7 @@
 * [Icon](#icon)
 * [IDL](#idl)
 * [iOS](#ios)
-* [Isabelle/HOL](#isabelle--hol)
+* [Isabelle/HOL](#isabellehol)
 * [J](#j)
 * [Java](#java)
     * [Spring](#spring)

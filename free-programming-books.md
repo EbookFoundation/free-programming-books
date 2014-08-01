@@ -1256,6 +1256,7 @@ See also [TeX](#tex)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
 * [The Little Riak Book](http://littleriakbook.com/)
 * [MongoDB Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Beginning Titan - The distributed graph database](http://www.oplicate.com/books/6104450512)
 
 
 ### Oberon

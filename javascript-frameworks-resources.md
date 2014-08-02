@@ -81,3 +81,6 @@
     * [Lesson 13 - Additional Knockout features](http://tech.pro/tutorial/1574/knockoutjs-lesson-13-additional-knockout-features)
     * [Lesson 14 - Adding a lightbox](http://tech.pro/tutorial/1575/knockoutjs-lesson-14-adding-a-lightbox)
     * Lesson 15: Summary of the series (Coming soon...)
+    
+## Meteor
+    * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)

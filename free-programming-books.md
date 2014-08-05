@@ -1412,7 +1412,7 @@ See also [TeX](#tex)
 * [A Gentle Guide to Constraint Logic Programming via ECLiPSe](http://anclp.pl/)
 
 ### PureScript
-* [PureScript By Example](http://leanpub.com/purescript/)
+* [PureScript By Example](http://leanpub.com/purescript/read) - Phil Freeman
 
 ### Python
 * [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)

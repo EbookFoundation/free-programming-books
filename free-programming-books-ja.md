@@ -151,6 +151,9 @@
 * 連載講座: 高生産並列言語を使いこなす([1](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No1/Rensai201101.pdf)),  ([2](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No3/Rensai201105.pdf)), ([3](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No4/Rensai201107.pdf)), ([4](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No5/Rennsai201109.pdf)), ([5](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No6/Rennsai201111.pdf)) (PDF) - 田浦健次朗
 * [インテル コンパイラー OpenMP 入門](http://jp.xlsoft.com/documents/intel/compiler/525J-001.pdf) (PDF) - 戸室隆彦
 
+#### プログラミングの理論
+* [計算機プログラムの構造と解釈](http://sicp.iijlab.net/fulltext/) - Gerald Jay Sussman et al.
+
 
 #### その他の話題
 * [徹底解剖「G1GC」実装編](http://www.narihiro.info/g1gc-impl-book/) - 中村成洋

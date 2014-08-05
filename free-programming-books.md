@@ -128,6 +128,7 @@
 * [Processing](#processing)
 * [Prolog](#prolog)
     * [Constraint Logic Programming](#constraint-logic-programming-extended-prolog)
+* [PureScript] (#purescript)
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
@@ -1410,6 +1411,8 @@ See also [TeX](#tex)
 #### Constraint Logic Programming (extended Prolog)
 * [A Gentle Guide to Constraint Logic Programming via ECLiPSe](http://anclp.pl/)
 
+### PureScript
+* [PureScript By Example](http://leanpub.com/purescript/read) - Phil Freeman
 
 ### Python
 * [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)

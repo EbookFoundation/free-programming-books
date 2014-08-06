@@ -1562,7 +1562,6 @@ See also [TeX](#tex)
 
 #### Ruby on Rails
 * [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
-* [Geekcamp Ruby on Rails Guides](http://www.rubyonrails.geekcampbaguio.com)
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read)
 * [Objects on Rails](http://objectsonrails.com)
 * [Rails Girls Guides](http://guides.railsgirls.com)

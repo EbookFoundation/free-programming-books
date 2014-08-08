@@ -99,6 +99,7 @@
 * [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/OpenGLES_ProgrammingGuide.pdf) (PDF) - Apple Developer
 * [DirectX を使った初めての Windows ストア アプリの作成](http://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
 * [CUDA プログラミング入門](http://accc.riken.jp/secure/4467/cuda-programming_main.pdf) (PDF) - 青山幸也
+* [OpenGL Programming](http://www.komoto.org/opengl/) - 小本真広
 
 
 #### グラフィックユーザーインターフェイス

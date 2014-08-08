@@ -1065,8 +1065,7 @@
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 * [Dev Docs](http://devdocs.io/)
-* [Eloquent JavaScript 2nd edition](https://github.com/marijnh/Eloquent-JavaScript) (work in progress)
-* [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
+* [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net/) - Marijn Haverbeke
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Human Javascript](http://read.humanjavascript.com/)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)

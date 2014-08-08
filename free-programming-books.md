@@ -132,7 +132,9 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [Kivy](#kivy)
     * [Pandas](#pandas)
+    * [Pyramid](#pyramid)
 * [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
@@ -1418,6 +1420,7 @@ See also [TeX](#tex)
 * [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) - Rafe Kettler
+* [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
 * [Byte of Python](http://www.swaroopch.com/notes/Python) (2.7.x)
@@ -1425,9 +1428,10 @@ See also [TeX](#tex)
 * [Dive into Python](http://www.diveintopython.net/) - Mark Pilgrim (2.3)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
 * [Full Stack Python](http://www.fullstackpython.com/)
-* [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1) (2.4 - 2.x)
+* [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
 * [Google's Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
+* [High Performance Python](http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf)
 * [Hitchiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)
     * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
@@ -1449,6 +1453,7 @@ See also [TeX](#tex)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com/) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/) (3.3)
+* [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf)
 * [Python 2.7 quick reference](http://infohost.nmt.edu/tcc/help/pubs/python/web/) - New Mexico Tech (2.7)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
@@ -1456,6 +1461,7 @@ See also [TeX](#tex)
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) (2.7.5)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) (2.7.3)
+* [Python for you and me](http://pymbook.readthedocs.org/en/py3/) (3.x)
 * [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (PDF)
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
@@ -1483,6 +1489,7 @@ See also [TeX](#tex)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/) (1.5)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](http://effectivedjango.com/) (1.5)
+* [Getting started with Django](http://gettingstartedwithdjango.com/) (video)
 * [Tango With Django](http://www.tangowithdjango.com/) (1.5)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
 * [The Django book](http://www.djangobook.com/en/2.0/) (2.0)
@@ -1490,11 +1497,20 @@ See also [TeX](#tex)
 
 #### Flask
 * [Explore Flask](http://exploreflask.com/) - Robert Picard
+* [Flask Microframework](http://flask.pocoo.org/docs/tutorial/)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
+
+
+#### Kivy
+* [Kivy Programming Guide](http://kivy.org/docs/pdf/Kivy-latest.pdf)
 
 
 #### Pandas
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.13.0)
+
+
+#### Pyramid
+* [Pyramid for humans](http://docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/humans/index.html)
 
 
 ### QML

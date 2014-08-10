@@ -16,7 +16,7 @@
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [Shell](#shell)
-* [vim](#vim)
+* [Vim](#vim)
 * [Visual Prolog](#visual-prolog)
 
 

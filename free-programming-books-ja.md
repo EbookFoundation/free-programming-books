@@ -45,6 +45,7 @@
 * [Maven](#maven)
 * [Mercurial](#mercurial)
 * [ML](#ml)
+* [MySQL](#mysql)
 * [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
@@ -146,14 +147,19 @@
 * [高信頼化ソフトウェアのための開発手法ガイドブック](http://www.ipa.go.jp/files/000005144.pdf) (PDF) - 独立行政法人 情報処理推進機構(IPA)
 
 
+#### データベース
+* [データベース](http://www.ipa.go.jp/files/000018652.pdf) (PDF) - 独立行政法人 情報処理推進機構(IPA)
+
+
+#### プログラミングの理論
+* [計算機プログラムの構造と解釈](http://sicp.iijlab.net/fulltext/) - Gerald Jay Sussman et al.
+
+
 #### 並列プログラミング
 * [並列プログラミング入門MPI版](http://accc.riken.jp/secure/4467/parallel-programming_main.pdf) (PDF) - 青山幸也
 * これからの並列計算のためのGPGPU連載講座([I](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No1/201001gpgpu.pdf)),  ([II](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No2/201003gpgpu.pdf)),  ([III](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No3/201005_gpgpu2.pdf)),  ([VI](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No4/201007_gpgpu.pdf)),  ([V](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No5/201009_gpgpu.pdf)),  ([VI](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No6/201011_gpgpu.pdf)) (PDF) - 大島聡史
 * 連載講座: 高生産並列言語を使いこなす([1](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No1/Rensai201101.pdf)),  ([2](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No3/Rensai201105.pdf)), ([3](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No4/Rensai201107.pdf)), ([4](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No5/Rennsai201109.pdf)), ([5](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No6/Rennsai201111.pdf)) (PDF) - 田浦健次朗
 * [インテル コンパイラー OpenMP 入門](http://jp.xlsoft.com/documents/intel/compiler/525J-001.pdf) (PDF) - 戸室隆彦
-
-#### プログラミングの理論
-* [計算機プログラムの構造と解釈](http://sicp.iijlab.net/fulltext/) - Gerald Jay Sussman et al.
 
 
 #### その他の話題
@@ -353,6 +359,9 @@
 
 ### ML
 * [ATSプログラミング入門](http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS/index.html)
+
+### MySQL
+* [MySQL入門](http://www.ipa.go.jp/files/000018731.pdf) (PDF) - 株式会社 リナックスアカデミー
 
 ### NoSQL
 * [MongoDBの薄い本](http://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) (PDF) - Karl Seguin, 濱野司(翻訳)

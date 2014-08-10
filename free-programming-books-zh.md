@@ -1,9 +1,11 @@
 ### 目录
-* [在线教育](#在线教育)
-* [软件开发方法](#%e8%bd%af%e4%bb%b6%e5%bc%80%e5%8f%91%e6%96%b9%e6%b3%95)
-* [操作系统](#操作系统)
-* [版本控制](#版本控制)
-* [Database](#database)
+* [语言无关](#语言无关)
+	* [在线教育](#在线教育)
+	* [软件开发方法](#软件开发方法)
+	* [操作系统](#操作系统)
+	* [版本控制](#版本控制)
+	* [数据库](#数据库)
+* [Erlang](#erlang)
 * [Golang](#golang)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
@@ -12,31 +14,37 @@
 * [LISP](#lisp)
 * [Perl](#perl)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
 * [Scala](#scala)
+* [Scheme](#scheme)
 * [Shell](#shell)
+* [Vim](#vim)
 * [Visual Prolog](#visual-prolog)
 
 
-### 在线教育
+### 语言无关
+
+#### 在线教育
 * [MIT OCW -- 麻省理工学院“开放式课程网页”](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
 * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
 * [Udacity](https://www.udacity.com/)
 * [xuetangX](https://www.xuetangx.com/)
 * [Codecademy](http://www.codecademy.com/?locale_code=zh)
 * [CodeSchool](https://www.codeschool.com/)
+* [TeamTreeHouse](http://teamtreehouse.com/)
 
 
-### 软件开发方法
+#### 软件开发方法
 * [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
 * [文章《Functional Programming For The Rest of Us》的中文翻译](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
 
 
-### 操作系统
+#### 操作系统
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 
 
-### 版本控制
+#### 版本控制
 * [Pro Git](http://git-scm.com/book/zh)
 * [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -44,14 +52,20 @@
 * [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
 
 
-### Database
+#### 数据库
 * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 * [Redis 设计与实现](http://www.redisbook.com)
+
+
+### Erlang
+* [Erlang并发编程](https://github.com/liancheng/cpie-cn) (《Concurrent Programming in Erlang (Part I)》中文版)
 
 
 ### Golang
 * [Go Web编程](https://github.com/astaxie/build-web-application-with-golang)
 * [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
+* [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
+* [学习 Go 语言](https://github.com/mikespook/Learning-Go-zh-cn)
 
 
 ### Haskell
@@ -65,11 +79,13 @@
 
 ### Javascript
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-* [Javascript 原理](http://typeof.net/s/jsmech/), by Belleve Invis. 
+* [Javascript 原理](http://typeof.net/s/jsmech/)
 
 
 ### LaTeX
 * [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
+* [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)
+* [大家來學 LaTeX](http://web.math.isu.edu.tw/yeh/HowTo/HowToTex/latex123.pdf)
 
 
 ### LISP
@@ -78,10 +94,21 @@
 
 ### Perl
 * [Master Perl Today](https://github.com/fayland/chinese-perl-book)
+* [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
+
 
 ### Python
 * [深入Python](http://woodpecker.org.cn/diveintopython/)
 * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)
+* [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/) (《A Byte of Python》中文版)
+
+
+### R
+* [R 导论](http://cran.r-project.org/doc/contrib/Ding-R-intro_cn.pdf) (《An Introduction to R》中文版)
+* [153分钟学会R ](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf)
+* [《R for beginners》中文版](http://www.biosino.org/R/R-doc/files/R4beg_cn_2.0.pdf)
+* [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf)
+* [用 R 构建 Shiny 应用程序](http://yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版)
 
 
 ### Ruby
@@ -96,8 +123,16 @@
 * [Scala 课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
 
 
+### Scheme
+* [Scheme入门教程](http://deathking.github.io/yast-cn/) (《Yet Another Scheme Tutorial》中文版)
+
+
 ### Shell
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+
+
+### Vim
+* [大家來學VIM](http://www.study-area.org/tips/vim/index.html)
 
 
 ### Visual Prolog

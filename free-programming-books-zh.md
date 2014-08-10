@@ -1,6 +1,6 @@
 ### 目录
 * [在线教育](#在线教育)
-* [软件开发方法](#%e8%bd%af%e4%bb%b6%e5%bc%80%e5%8f%91%e6%96%b9%e6%b3%95)
+* [软件开发方法](#软件开发方法)
 * [操作系统](#操作系统)
 * [版本控制](#版本控制)
 * [Database](#database)
@@ -12,9 +12,11 @@
 * [LISP](#lisp)
 * [Perl](#perl)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [Shell](#shell)
+* [vim](#vim)
 * [Visual Prolog](#visual-prolog)
 
 
@@ -70,6 +72,8 @@
 
 ### LaTeX
 * [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
+* [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm), by 包太雷
+* [大家來學 LaTeX](http://web.math.isu.edu.tw/yeh/HowTo/HowToTex/latex123.pdf), by 李果正
 
 
 ### LISP
@@ -79,9 +83,19 @@
 ### Perl
 * [Master Perl Today](https://github.com/fayland/chinese-perl-book)
 
+
 ### Python
 * [深入Python](http://woodpecker.org.cn/diveintopython/)
 * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)
+* [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/) (《A Byte of Python》中文版)
+
+
+### R
+* [R 导论](http://cran.r-project.org/doc/contrib/Ding-R-intro_cn.pdf) (《An Introduction to R》中文版)
+* [153分钟学会R ](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf), by 刘思喆
+* [《R for beginners》中文版](http://www.biosino.org/R/R-doc/files/R4beg_cn_2.0.pdf)
+* [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf), by 徐俊晓
+* [用 R 构建 Shiny 应用程序](http://yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版)
 
 
 ### Ruby
@@ -98,6 +112,10 @@
 
 ### Shell
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+
+
+### Vim
+* [大家來學VIM](http://www.study-area.org/tips/vim/index.html), by 李果正
 
 
 ### Visual Prolog

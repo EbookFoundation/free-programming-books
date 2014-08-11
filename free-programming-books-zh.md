@@ -33,6 +33,7 @@
 * [Codecademy](http://www.codecademy.com/?locale_code=zh)
 * [CodeSchool](https://www.codeschool.com/)
 * [TeamTreeHouse](http://teamtreehouse.com/)
+* [Learn X in Y minutes](http://learnxinyminutes.com/) (数十种语言快速入门教程)
 
 
 #### 软件开发方法
@@ -50,6 +51,7 @@
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git 参考手册](http://gitref.justjavac.com/)
 * [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
+* [Got GitHub](https://github.com/gotgit/gotgithub)
 
 
 #### 数据库
@@ -90,6 +92,7 @@
 
 ### LISP
 * [ANSI Common Lisp 中文翻译版](http://acl.readthedocs.org/en/latest/)
+* [Common Lisp 高级编程技术](http://www.ituring.com.cn/minibook/862) (《On Lisp》中文版)
 
 
 ### Perl
@@ -119,7 +122,7 @@
 
 
 ### Scala
-* [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html) - Marius Eriksen
+* [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)
 * [Scala 课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
 
 
@@ -129,6 +132,7 @@
 
 ### Shell
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+* [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
 
 
 ### Vim

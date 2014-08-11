@@ -33,7 +33,7 @@
 * [Codecademy](http://www.codecademy.com/?locale_code=zh)
 * [CodeSchool](https://www.codeschool.com/)
 * [TeamTreeHouse](http://teamtreehouse.com/)
-* [Learn X in Y minutes](http://learnxinyminutes.com/) (数十种语言s快速入门教程)
+* [Learn X in Y minutes](http://learnxinyminutes.com/) (数十种语言快速入门教程)
 
 
 #### 软件开发方法

@@ -43,7 +43,7 @@
 
 #### 操作系统
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
-
+* [Linux性能优笔记PDF(http://www.simlinux.com/books/%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf)
 
 #### 版本控制
 * [Pro Git](http://git-scm.com/book/zh)

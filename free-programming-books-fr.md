@@ -104,7 +104,7 @@
 
 
 ### Git
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) par par Alexandre Garel, Paul Gaborit et Nicolas Deram
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) par Alexandre Garel, Paul Gaborit et Nicolas Deram
 * [Pro Git](http://www.git-scm.com/book/fr) par Scott Chacon
 
 

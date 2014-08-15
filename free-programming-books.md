@@ -698,6 +698,7 @@
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
 * [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
+* [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 
 
 ### C Sharp
@@ -1209,6 +1210,7 @@ See also [TeX](#tex)
 * [MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics)
 * [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html)
 * [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
+* [MATLAB Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/matlab) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ### Maven
@@ -1545,7 +1547,6 @@ See also [TeX](#tex)
 ### Ruby
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 * [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
-* [How To Think Like a Computer Scientist: Learning With Ruby](http://mysite.verizon.net/hpassel/thinkruby/)
 * [Just Enough Ruby to Get By](http://dmtri.com/posts/65)
 * [Learn Ruby the hard way](http://ruby.learncodethehardway.org/book/)
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)

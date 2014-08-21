@@ -6,7 +6,7 @@
 ### Javascript
 * [Screencast] - [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript)
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://screencasts.org/topics/javascript)
-* [Screencast] - [Node Tuts - Node.JS Video Tutorials](nodetuts.com)
+* [Screencast] - [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)
 
 ### Python
 * [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)

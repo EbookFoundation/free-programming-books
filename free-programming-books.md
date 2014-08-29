@@ -1561,7 +1561,6 @@ See also [TeX](#tex)
 * [Ruby Learning](http://rubylearning.com/)
 * [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
-* [Ruby User's Guide](http://www.linuxtopia.org/online_books/programming_books/ruby_guide/)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 * [The Little Book Of Ruby](http://www.sapphiresteel.com/The-Little-Book-Of-Ruby)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald

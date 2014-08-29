@@ -11,6 +11,7 @@
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Web Development](#web-development)
 
 
 ### Assembly
@@ -73,3 +74,7 @@
 
 ### Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+
+
+### Web Development
+* [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com/)

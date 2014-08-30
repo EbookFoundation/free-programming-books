@@ -267,6 +267,7 @@
 * [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [Think Complexity](http://greenteapress.com/complexity/) (PDF)
+* [Handbook of Graph Drawing and Visualization] (https://cs.brown.edu/~rt/gdhandbook/)
 
 
 #### Cellular Automata

@@ -50,6 +50,7 @@
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [EmberFlare](https://emberflare.com/)
 * [Let's Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/)
+* [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
 
 ## Express.js

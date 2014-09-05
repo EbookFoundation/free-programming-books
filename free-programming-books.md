@@ -93,7 +93,7 @@
     * [Standards](#standards)
     * [Theoretical Computer Science](#theoretical-computer-science)
     * [Web Performance](#web-performance)
-* [LaTeX](#latex)py
+* [LaTeX](#latex)
 * [Limbo](#limbo)
 * [Linux](#linux)
 * [Lisp](#lisp)

@@ -29,7 +29,7 @@
 
 
 ### Git
-* [Pro Git](http://www.root.cz/knihy/pro-git/stahnout/1001/) (PDF)
+* [Pro Git](https://knihy.nic.cz/) (PDF)
 
 
 ### Language Agnostic
@@ -38,7 +38,7 @@
 
 
 #### Bezpečnost
-* [Báječný svět elektronického podpisu](http://www.root.cz/knihy/bajecny-svet-elektronickeho-podpisu/) (PDF)
+* [Báječný svět elektronického podpisu](https://knihy.nic.cz/) (PDF)
 
 
 #### Matematika
@@ -48,7 +48,7 @@
 
 
 #### Právo
-* [Internet jako objekt práva](http://www.root.cz/knihy/internet-jako-objekt-prava/) (PDF)
+* [Internet jako objekt práva](https://knihy.nic.cz/) (PDF)
 
 
 #### Regulární výrazy
@@ -56,7 +56,7 @@
 
 
 #### Sítě
-* [Internetový protokol IPv6](http://www.root.cz/knihy/internetovy-protokol-ipv6-treti-vydani/) (PDF)
+* [Internetový protokol IPv6](https://knihy.nic.cz/) (PDF)
 
 
 ### LaTeX
@@ -77,14 +77,14 @@
 
 
 ### OpenSource
-* [Tvorba open source softwaru](http://www.root.cz/knihy/tvorba-open-source-softwaru/stahnout/1303/) (PDF)
+* [Tvorba open source softwaru](https://knihy.nic.cz/) (PDF)
 * [Katedrála a tržiště](http://www.root.cz/knihy/katedrala-a-trziste/) (PDF)
 
 ### PHP
 * [PHP Tvorba interaktivních internetových aplikací](http://www.kosek.cz/php/php-tvorba-interaktivnich-internetovych-aplikaci.pdf)
 
 ### Python
-* [Ponořme se do Pythonu 3](http://www.root.cz/knihy/ponorme-se-do-pythonu-3/stahnout/1025/) (PDF)
+* [Ponořme se do Pythonu 3](https://knihy.nic.cz/) (PDF)
 * [Učebnice jazyka Python](http://www.root.cz/knihy/ucebnice-jazyka-python/stahnout/920/) (PDF)
 
 

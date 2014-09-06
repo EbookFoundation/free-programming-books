@@ -39,6 +39,7 @@
 
 #### Bezpečnost
 * [Báječný svět elektronického podpisu](http://www.root.cz/knihy/bajecny-svet-elektronickeho-podpisu/) (PDF)
+* [Buď pánem svého prostoru](https://knihy.nic.cz/) - Linda McCarthy a Denise Weldon-Siviy (PDF)
 
 
 #### Matematika

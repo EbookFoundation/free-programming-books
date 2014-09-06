@@ -29,7 +29,7 @@
 
 
 ### Git
-* [Pro Git](https://knihy.nic.cz/) (PDF)
+* [Pro Git](https://knihy.nic.cz/) - Scott Chacon (PDF)
 
 
 ### Language Agnostic
@@ -38,7 +38,7 @@
 
 
 #### Bezpečnost
-* [Báječný svět elektronického podpisu](https://knihy.nic.cz/) (PDF)
+* [Báječný svět elektronického podpisu](https://knihy.nic.cz/) - Jiří Peterka (PDF)
 
 
 #### Matematika
@@ -48,7 +48,7 @@
 
 
 #### Právo
-* [Internet jako objekt práva](https://knihy.nic.cz/) (PDF)
+* [Internet jako objekt práva](https://knihy.nic.cz/) - Ján Matejka (PDF)
 
 
 #### Regulární výrazy
@@ -56,7 +56,7 @@
 
 
 #### Sítě
-* [Internetový protokol IPv6](https://knihy.nic.cz/) (PDF)
+* [Internetový protokol IPv6](https://knihy.nic.cz/) - Pavel Satrapa (PDF)
 
 
 ### LaTeX
@@ -77,14 +77,14 @@
 
 
 ### OpenSource
-* [Tvorba open source softwaru](https://knihy.nic.cz/) (PDF)
+* [Tvorba open source softwaru](https://knihy.nic.cz/) - Karl Fogel (PDF)
 * [Katedrála a tržiště](http://www.root.cz/knihy/katedrala-a-trziste/) (PDF)
 
 ### PHP
 * [PHP Tvorba interaktivních internetových aplikací](http://www.kosek.cz/php/php-tvorba-interaktivnich-internetovych-aplikaci.pdf)
 
 ### Python
-* [Ponořme se do Pythonu 3](https://knihy.nic.cz/) (PDF)
+* [Ponořme se do Pythonu 3](https://knihy.nic.cz/) - Mark Pilgrim (PDF)
 * [Učebnice jazyka Python](http://www.root.cz/knihy/ucebnice-jazyka-python/stahnout/920/) (PDF)
 
 

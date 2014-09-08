@@ -12,9 +12,11 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [LISP](#lisp)
+* [Markdown](#markdown)
 * [Perl](#perl)
 * [Python](#python)
 * [R](#r)
+* [reStructuredText](#restructuredtext)
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [Scheme](#scheme)
@@ -24,6 +26,7 @@
 
 
 ### 语言无关
+* [一步步搭建物联网系统](https://github.com/gmszone/designiot)
 
 #### 在线教育
 * [MIT OCW -- 麻省理工学院“开放式课程网页”](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
@@ -95,6 +98,13 @@
 * [Common Lisp 高级编程技术](http://www.ituring.com.cn/minibook/862) (《On Lisp》中文版)
 
 
+### Markdown
+* [Markdown 快速入门](http://wowubuntu.com/markdown/basic.html)
+* [Markdown 语法说明](http://wowubuntu.com/markdown/)
+* [Markdown 简明教程](http://jianshu.io/p/7bd23251da0a)
+* [献给写作者的 Markdown 新手指南](http://jianshu.io/p/q81RER)
+
+
 ### Perl
 * [Master Perl Today](https://github.com/fayland/chinese-perl-book)
 * [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
@@ -112,6 +122,11 @@
 * [《R for beginners》中文版](http://www.biosino.org/R/R-doc/files/R4beg_cn_2.0.pdf)
 * [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf)
 * [用 R 构建 Shiny 应用程序](http://yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版)
+
+
+### reStructuredText
+* [reStructuredText 入门](http://www.pythondoc.com/sphinx/rest.html)
+* [reStructuredText 简明教程](http://jwch.sdut.edu.cn/book/rst.html)
 
 
 ### Ruby

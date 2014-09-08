@@ -114,6 +114,7 @@
 * [深入Python](http://woodpecker.org.cn/diveintopython/)
 * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)
 * [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/) (《A Byte of Python》中文版)
+* [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 
 
 ### R

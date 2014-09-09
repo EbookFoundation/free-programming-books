@@ -201,3 +201,4 @@ Voir aussi [LaTeX](#latex)
 
 ### Vim
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)
+* [Vim pour les humains](http://vimebook.com/), par Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)

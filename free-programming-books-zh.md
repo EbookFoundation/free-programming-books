@@ -10,6 +10,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [Erlang](#erlang)
+* [Fortran](#fortran)
 * [Golang](#golang)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)

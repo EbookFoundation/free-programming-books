@@ -6,7 +6,11 @@
 	* [版本控制](#版本控制)
 	* [数据库](#数据库)
     * [智能系统](#智能系统)
+    * [正则表达式](#正则表达式)
+* [C](#c)
+* [C++](#c-1)
 * [Erlang](#erlang)
+* [Fortran](#fortran)
 * [Golang](#golang)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
@@ -22,6 +26,7 @@
 * [Scala](#scala)
 * [Scheme](#scheme)
 * [Shell](#shell)
+* [Swift](#swift)
 * [Vim](#vim)
 * [Visual Prolog](#visual-prolog)
 
@@ -46,6 +51,7 @@
 
 #### 操作系统
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
+* [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
 
 
 #### 版本控制
@@ -63,12 +69,35 @@
 * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 * [Redis 设计与实现](http://www.redisbook.com)
 
+
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
 
 
+#### 正则表达式
+* [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+
+
+
+### C
+* [新概念 C 语言教程](https://github.com/limingth/NCCL)
+* [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
+* [C/C++ 学习教程](http://doc.lellansin.com/)
+
+
+### C++
+* [C++ 基础教程](http://www.prglab.com/cms/)
+* [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
+* [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
+* [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial)
+
+
 ### Erlang
 * [Erlang 并发编程](https://github.com/liancheng/cpie-cn) (《Concurrent Programming in Erlang (Part I)》中文版)
+
+
+### Fortran
+* [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
 
 
 ### Golang
@@ -76,6 +105,7 @@
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
 * [学习 Go 语言](https://github.com/mikespook/Learning-Go-zh-cn)
+* [Go 指南](http://go-tour-zh.appsp0t.com/) (《A Tour of Go》中文版)
 
 
 ### Haskell
@@ -155,6 +185,10 @@
 ### Shell
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+
+
+### Swift
+* [《The Swift Programming Language》中文版](https://www.gitbook.io/book/numbbbbb/-the-swift-programming-language-)
 
 
 ### Vim

@@ -512,6 +512,7 @@
 
 #### Reverse Engineering
 * [Hacking the Xbox: An Introduction to Reverse Engineering](http://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
+* [Reverse Engineering for Beginners](http://beginners.re/) (PDF) - Dennis Yurichev
 
 
 #### Security

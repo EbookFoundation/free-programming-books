@@ -1,4 +1,4 @@
-### Index
+﻿### Index
 * [Ada](#ada)
 * [Agda](#agda)
 * [Alef](#alef)
@@ -1066,6 +1066,7 @@
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
+* [Java Script The Good Parts](http://it-ebooks.info/book/274/) - Douglas Crockford
 * [Dev Docs](http://devdocs.io/)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) - Addy Osmani
 * [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net/) - Marijn Haverbeke

@@ -27,6 +27,7 @@
 * [Scheme](#scheme)
 * [Shell](#shell)
 * [Swift](#swift)
+* [NodeJS](#NodeJS)
 * [Vim](#vim)
 * [Visual Prolog](#visual-prolog)
 
@@ -190,6 +191,9 @@
 ### Swift
 * [《The Swift Programming Language》中文版](https://www.gitbook.io/book/numbbbbb/-the-swift-programming-language-)
 
+
+### NodeJS
+* [The NodeJS中文](https://www.gitbook.io/book/0532/nodejs)
 
 ### Vim
 * [大家來學 VIM](http://www.study-area.org/tips/vim/index.html)

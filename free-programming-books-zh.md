@@ -190,6 +190,8 @@
 ### Swift
 * [《The Swift Programming Language》中文版](https://www.gitbook.io/book/numbbbbb/-the-swift-programming-language-)
 
+### NodeJS
+* [NodeJS](https://www.gitbook.io/book/0532/nodejs)
 
 ### Vim
 * [大家來學 VIM](http://www.study-area.org/tips/vim/index.html)

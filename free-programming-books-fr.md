@@ -90,7 +90,6 @@
 ### C / C++
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) par Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/6-le-c-en-20-heures/), par Eric Berthomier et Daniel Schang
-* [Initiation à la programmation (en C++)](https://www.coursera.org/course/intro-cpp-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
 * [Introduction à la rétro-ingénierie de binaires](http://progdupeu.pl/articles/45/introduction-a-la-retro-ingenierie-de-binaires), à partir de code C compilé pour x86.
 
 

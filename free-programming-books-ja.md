@@ -65,6 +65,7 @@
 * [Smalltalk](#smalltalk)
 * [SQL(実装非依存)](#sql%e5%ae%9f%e8%a3%85%e9%9d%9e%e4%be%9d%e5%ad%98)
 * [Standard ML](#standard-ml)
+* [Swift](#swift)
 * [Tcl/Tk](#tcltk)
 * [TypeScript](#typescript)
 * [VBA](#vba)
@@ -502,6 +503,10 @@
 ### Standard ML
 * [プログラミング言語SML#解説](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/1.0/ja/manual.xhtml) - 大堀淳, 上野 雄大
 * [お気楽 Standard ML of New Jersey 入門](http://www.geocities.jp/m_hiroi/func/index.html#sml) - 広井誠
+
+
+### Swift
+* [逆引きSwift(iOS編)](https://sites.google.com/a/gclue.jp/swift-docs/) - 株式会社GClue
 
 
 ### Tcl/Tk

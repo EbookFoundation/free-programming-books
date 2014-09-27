@@ -184,6 +184,7 @@
 * [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - id:nobuoka
 * [コントリビュータのためのAndroidコードスタイルガイドライン 日本語訳](http://www.textdrop.net/android/code-style-ja.html) - Android Open Source Project, Takashi Sasai(翻訳)
 * [Androidアプリのセキュア設計・セキュアコーディングガイド](http://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
+* [Android Open Text book](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 
 
 ### AWK
@@ -213,6 +214,7 @@
 * [cpprefjp - C++ Reference Site in Japanese](https://sites.google.com/site/cpprefjp/)
 * [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.com/cpp-book/C++11-Syntax-and-Feature.xhtml)
 * [Google C++スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/cppguide.xml) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, Takashi Sasai(翻訳)
+* [Standard Template Library プログラミング](http://episteme.wankuma.com/stlprog/) - επιστημη
 
 
 ### CoffeeScript

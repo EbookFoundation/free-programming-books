@@ -145,6 +145,8 @@
 ### Perl
 * [Master Perl Today](https://github.com/fayland/chinese-perl-book)
 * [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
+* [Perl 5 教程](http://www.cbi.pku.edu.cn/chinese/documents/perl/index.htm)
+* [Perl 教程](http://www.yiibai.com/perl)
 
 
 ### Python

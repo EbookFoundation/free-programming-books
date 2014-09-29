@@ -598,6 +598,7 @@
 * [Alef Language Reference Manual](http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
 
 ### Android
+* [Agile Android Software Development](http://www.agiledroid.com) (PDF, epub, mobi - need email confirmation) by Etienne Savard
 * [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
 * [Android Programming Guide for Beginners](http://eduonix.com/offers/Android_ebook_free_offer.html) (PDF - need email confirmation)
 * [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.pdf), [Kindle](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.mobi)) *(Just fill the fields with any values)*

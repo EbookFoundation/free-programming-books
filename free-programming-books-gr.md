@@ -1,6 +1,7 @@
 ###Index
 * [C++](#c++)
 * [Java](#java)
+* [Python](#python)
 
 
 ###C++

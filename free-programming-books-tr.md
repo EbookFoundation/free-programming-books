@@ -15,6 +15,7 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Html](#html)
 
 
 ### C
@@ -74,3 +75,7 @@
 
 ### Rust
 * [Rust'a Giriş](http://bit.ly/rustagiris)
+
+### Html
+* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
+* [Html'e Giriş](http://www.htmldersleri.org/)

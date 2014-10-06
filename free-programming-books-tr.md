@@ -16,6 +16,7 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Html](#html)
+* [Android](#android)
 
 
 ### C
@@ -79,3 +80,6 @@
 ### Html
 * [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
 * [Html'e Giriş](http://www.htmldersleri.org/)
+
+### Android
+* [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)

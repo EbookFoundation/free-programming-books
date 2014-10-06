@@ -35,7 +35,8 @@
 * [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
 
 ### HTML / CSS
-* [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-beginner-s-guide-to-html-css-skeleton-and-animation-css)
+* [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
+* [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 

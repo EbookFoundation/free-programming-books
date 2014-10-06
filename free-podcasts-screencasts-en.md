@@ -23,3 +23,6 @@
 * [Screencast] - [Ruby Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/ruby)
 * [Screencast] - [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free)
 * [Podcast] - [The Ruby Show](http://rubyshow.com/)
+
+### Vim
+* [Screencast] - [Free screencasts about the text editor Vim](http://vimcasts.org/)

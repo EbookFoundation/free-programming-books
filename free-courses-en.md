@@ -31,9 +31,9 @@
 
 
 ### Haskell
+* [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
-* [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
 
 ### HTML / CSS
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)

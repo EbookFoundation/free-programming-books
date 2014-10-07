@@ -11,6 +11,7 @@
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Swift](#swift)
 * [Web Development](#web-development)
 
 
@@ -36,6 +37,8 @@
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
 
 ### HTML / CSS
+* [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
+* [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
@@ -74,6 +77,10 @@
 
 ### Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+
+
+### Swift
+* [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift)
 
 
 ### Web Development

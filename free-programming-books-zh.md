@@ -183,6 +183,7 @@
 
 ### Scheme
 * [Scheme 入门教程](http://deathking.github.io/yast-cn/) (《Yet Another Scheme Tutorial》中文版)
+* [算法语言Scheme修订<sup>6</sup>报告](http://r6rs.mrliu.org/)（R<sup>6</sup>RS简体中文翻译）
 
 
 ### Shell

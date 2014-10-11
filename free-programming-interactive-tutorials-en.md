@@ -34,6 +34,7 @@
 * [Try Git](http://try.github.io)
 
 
+
 ### Go
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
@@ -97,6 +98,7 @@
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
+
 
 
 ### R

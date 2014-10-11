@@ -32,6 +32,7 @@
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [Try Git](http://try.github.io)
+* [Git-just a simple guide for getting started with git.no deep shit](http://rogerdudler.github.io/git-guide/)
 
 
 ### Go
@@ -97,6 +98,7 @@
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Pyhthon for Informatics](http://www.pythonlearn.com/book_007.pdf)
 
 
 ### R

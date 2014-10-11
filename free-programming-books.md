@@ -1811,6 +1811,7 @@ See also [LaTeX](#latex)
 * [Programming Windows Phone 7](http://blogs.msdn.com/b/microsoft_press/archive/2010/10/28/free-ebook-programming-windows-phone-7-by-charles-petzold.aspx)
 * [Windows Phone Programming Blue Book](http://www.robmiles.com/c-yellow-book/)
 * [Windows Phone 8 Development Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/windowsphone8) (PDF) by Matteo Pagani
+* [Windows Phone 8.1 Development for Absolute Beginners](http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners)
 
 
 ### Workflow

@@ -9,6 +9,7 @@
     * [正则表达式](#正则表达式)
 * [C](#c)
 * [C++](#c-1)
+* [CoffeeScript](#coffeescript)
 * [Erlang](#erlang)
 * [Fortran](#fortran)
 * [Golang](#golang)
@@ -91,6 +92,12 @@
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial)
+
+
+### CoffeeScript
+* [CoffeeScript 中文](http://coffee-script.org/)
+* [CoffeeScript 中文手册](http://island205.github.io/tlboc/) (《The Little Book on CoffeeScript》中文版)
+* [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 
 
 ### Erlang

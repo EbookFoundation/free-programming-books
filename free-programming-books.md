@@ -1691,6 +1691,7 @@ See also [TeX](#tex)
 * [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/)
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com/)
+* [Teach Yourself SQL in 21 Days] (http://web.ing.puc.cl/~jlortiz/Teach_Yourself_SQL_in_21_days_FULL.pdf) (PDF)
 
 
 ### SQL Server

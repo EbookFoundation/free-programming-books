@@ -54,6 +54,7 @@
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/)
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/)
 * [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/)
+* * [Curso Java Básico ao Avançado Universidade XTI - YouTube](https://www.youtube.com/watch?v=dqL7cG4J6gI&list=PLA03DEA5320ECBF85)
 
 
 ### JavaScript

@@ -64,6 +64,7 @@
 
 
 ### Javascript
+* [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [Javascript 原理](http://typeof.net/s/jsmech/), by Belleve Invis. 
 

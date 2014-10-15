@@ -1,5 +1,5 @@
-#List of Free Learning Resources
-##Intro
+# List of Free Learning Resources
+## Intro
 If you want to find a learning resource, you should definitely check out our site, [Free Learning Resources](http://resrc.io).
 And for those who want to learn a computer language, you should check out these books on [reSRC.io](http://resrc.io/list/10/list-of-free-programming-books/) or on [github](/free-programming-books.md).
 This list initially was a clone of [stackoverflow - List of Freely Available Programming Books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926) by George Stocker. Now updated, with dead links gone and new content.
@@ -15,7 +15,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 - Read the [TODO](/TODO.md) file(Adding new books is our #1 priority, but things like Alphabetizing are important, too.)
 - [Edit](https://github.com/vhf/free-programming-books/edit/master/free-programming-books.md) (we prefer multiple small commits rather than one large change)
 - [Send a PR](https://help.github.com/articles/using-pull-requests)
-- be part of a project that over 26,000 people starred in 8 months. ;)
+- be part of a project that over 29,000 people starred in 11 months. ;)
 
 **Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
 
@@ -28,6 +28,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 
 
 ### In Other Spoken Languages
++ Azerbaijan: [github](/free-programming-books-az.md)
 + Bulgarian: [github](/free-programming-books-bg.md)
 + Chinese: [github](/free-programming-books-zh.md)
 + Czech: [github](/free-programming-books-cs.md)
@@ -46,6 +47,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + Portuguese (Portugal): [github](/free-programming-books-pt_PT.md)
 + Romanian (Romania): [github](/free-programming-books-ro.md)
 + Russian: [github](/free-programming-books-ru.md)
++ Slovak: [github](/free-programming-books-sk.md)
 + Spanish: [github](/free-programming-books-es.md)
 + Turkish: [github](/free-programming-books-tr.md)
 + Ukrainian: [github](/free-programming-books-ua.md)
@@ -62,6 +64,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 ### Podcast - Screencast
 Free Podcasts and Screencasts:
 
++ Czech: [github](/free-podcasts-screencasts-cs.md)
 + English: [github](/free-podcasts-screencasts-en.md)
 
 

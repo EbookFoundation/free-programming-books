@@ -35,13 +35,12 @@
 
 ## D3.js
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
-* [D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
-* [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
+* [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 
-##Dojo
+## Dojo
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
 
 
@@ -51,13 +50,14 @@
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [EmberFlare](https://emberflare.com/)
 * [Let's Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/)
+* [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
 
-##Express.js
+## Express.js
 * [Express.js Guide](https://leanpub.com/express/read) *(Leanpub, by Azat Mardanov)*
 
 
-##jQuery
+## jQuery
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
 * [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -82,3 +82,6 @@
     * [Lesson 13 - Additional Knockout features](http://tech.pro/tutorial/1574/knockoutjs-lesson-13-additional-knockout-features)
     * [Lesson 14 - Adding a lightbox](http://tech.pro/tutorial/1575/knockoutjs-lesson-14-adding-a-lightbox)
     * Lesson 15: Summary of the series (Coming soon...)
+    
+## Meteor
+* [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)

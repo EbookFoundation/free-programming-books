@@ -1,4 +1,4 @@
-###Index
+### Index
 * [Bash](#bash)
 * [Git](#git)
 * [Java](#java)
@@ -20,55 +20,56 @@
 * [XML](#xml)
 
 
-###Bash
+### Bash
 * [Bash očima Bohdana Milara](http://www.root.cz/knihy/bash-ocima-bohdana-milara/stahnout/980/) (PDF)
 
 
-###Java
+### Java
 * [Java 5.0, novinky jazyka a upgrade aplikací](http://www.root.cz/knihy/java-5-0-novinky-jazyka-a-upgrade-aplikaci/stahnout/1037/) (PDF)
 
 
-###Git
-* [Pro Git](http://www.root.cz/knihy/pro-git/stahnout/1001/) (PDF)
+### Git
+* [Pro Git](https://knihy.nic.cz/) - Scott Chacon (PDF)
 
 
-###Language Agnostic
-####Algoritmy a datové struktury
+### Language Agnostic
+#### Algoritmy a datové struktury
 * [Základy algoritmizace](http://www.root.cz/knihy/zaklady-algoritmizace/stahnout/950/) (PDF)
 
 
-####Bezpečnost
-* [Báječný svět elektronického podpisu](http://www.root.cz/knihy/bajecny-svet-elektronickeho-podpisu/) (PDF)
+#### Bezpečnost
+* [Báječný svět elektronického podpisu](https://knihy.nic.cz/) - Jiří Peterka (PDF)
+* [Buď pánem svého prostoru](https://knihy.nic.cz/) - Linda McCarthy a Denise Weldon-Siviy (PDF)
 
 
-####Matematika
+#### Matematika
 * [Diskrétní matematika](http://math.feld.cvut.cz/habala/teaching/dma.htm) - Petr Habala (PDFs)
 * [Lineární algebra](ftp://math.feld.cvut.cz/pub/olsak/linal/linal.pdf) - Petr Olšák (PDF)
 * [Matematika SŠ](http://www.realisticky.cz/ucebnice.php?id=3) - Martin Krynický (PDFs)
 
 
-####Právo
-* [Internet jako objekt práva](http://www.root.cz/knihy/internet-jako-objekt-prava/) (PDF)
+#### Právo
+* [Internet jako objekt práva](https://knihy.nic.cz/) - Ján Matejka (PDF)
 
 
-####Regulární výrazy
+#### Regulární výrazy
 * [Regulární výrazy](http://www.root.cz/knihy/regularni-vyrazy/) (PDF)
 
 
-####Sítě
-* [Internetový protokol IPv6](http://www.root.cz/knihy/internetovy-protokol-ipv6-treti-vydani/) (PDF)
+#### Sítě
+* [Internetový protokol IPv6](https://knihy.nic.cz/) - Pavel Satrapa (PDF)
 
 
-###LaTeX
+### LaTeX
 * [Ne příliš stručný úvod do systému LaTeX 2e](http://www.root.cz/knihy/ne-prilis-strucny-uvod-do-systemu-latex-2e/) (PDF)
 
 
-###Linux
+### Linux
 * [Linux: Dokumentační projekt](http://www.root.cz/knihy/linux-dokumentacni-projekt/) (PDF)
 * [Učebnice ABCLinuxu](http://www.root.cz/knihy/ucebnice-abclinuxu/) (PDF)
 
 
-####Distribuce
+#### Distribuce
 * [Mandriva Linux 2008 CZ](http://www.root.cz/knihy/mandriva-linux-2008-cz/) (PDF)
 * [Gentoo Handbook česky](http://www.root.cz/knihy/gentoo-handbook-cesky/) (PDF)
 * [Instalace a konfigurace Debian Linuxu](http://www.root.cz/knihy/instalace-a-konfigurace-debian-linuxu/) (PDF)
@@ -76,26 +77,26 @@
 * [Příručka uživatele Fedora 17](http://www.root.cz/knihy/prirucka-uzivatele-fedora-17/) (PDF)
 
 
-###OpenSource
-* [Tvorba open source softwaru](http://www.root.cz/knihy/tvorba-open-source-softwaru/stahnout/1303/) (PDF)
+### OpenSource
+* [Tvorba open source softwaru](https://knihy.nic.cz/) - Karl Fogel (PDF)
 * [Katedrála a tržiště](http://www.root.cz/knihy/katedrala-a-trziste/) (PDF)
 
-###PHP
+### PHP
 * [PHP Tvorba interaktivních internetových aplikací](http://www.kosek.cz/php/php-tvorba-interaktivnich-internetovych-aplikaci.pdf)
 
-###Python
-* [Ponořme se do Pythonu 3](http://www.root.cz/knihy/ponorme-se-do-pythonu-3/stahnout/1025/) (PDF)
+### Python
+* [Ponořme se do Pythonu 3](https://knihy.nic.cz/) - Mark Pilgrim (PDF)
 * [Učebnice jazyka Python](http://www.root.cz/knihy/ucebnice-jazyka-python/stahnout/920/) (PDF)
 
 
-###Ruby
+### Ruby
 * [Ruby Tutoriál](http://www.root.cz/knihy/ruby-tutorial/stahnout/924/) (PDF)
 
 
-###TeX
+### TeX
 * [TeXbook naruby](http://www.root.cz/knihy/texbook-naruby/) (PDF)
 * [První setkání s TeXem](http://www.root.cz/knihy/prvni-setkani-s-texem/) (PDF)
 
 
-###XML
+### XML
 * [XML pro každého](http://www.root.cz/knihy/xml-pro-kazdeho/) (PDF)

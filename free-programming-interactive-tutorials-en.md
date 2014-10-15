@@ -1,60 +1,61 @@
-###Bash
+### Bash
 * [Learn Shell Programming](http://www.learnshell.org)
 
 
-###C
+### C
 * [Learn C](http://www.learn-c.org/)
 
 
-###C#
+### C#
 * [Learn C#](http://www.learncs.org/)
 
 
-###Clojure
+### Clojure
 * [Clojure Koans](http://clojurekoans.com/)
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
 * [Try Clojure](http://tryclj.com/)
 
 
-###CoffeeScript
+### CoffeeScript
 * [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md)
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 
-###Erlang
+### Erlang
 * [Try Erlang](http://www.tryerlang.org/)
 
 
-###F#
+### F#
 * [Try F#](http://www.tryfsharp.org/)
 
 
-###Git
+### Git
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [Try Git](http://try.github.io)
 
 
-###Go
+
+### Go
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
 
 
-###Haskell
+### Haskell
 * [Try Haskell!](http://tryhaskell.org/)
 
 
-###HTML&CSS
+### HTML&CSS
 * [Learn HTML & CSS interactively](http://www.codecademy.com/tracks/web)
 * [Prototyping a professional website](http://www.codecademy.com/skills/prototyping)
 
 
-###Java
+### Java
 * [CodingBat code practice](http://codingbat.com/java)
 * [Learn Java](http://www.learnjavaonline.org/)
 
 
-###JavaScript
+### JavaScript
 * [Codecademy jquery track](http://www.codecademy.com/tracks/jquery)
 * [Javascript interactive tutorial](http://www.codecademy.com/tracks/javascript)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
@@ -63,48 +64,49 @@
 * [Try jQuery](http://try.jquery.com/)
 
 
-###Lisp
+### Lisp
 * [Lisp Koans](https://github.com/google/lisp-koans)
 
 
-###MATLAB
+### MATLAB
 * [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
 
 
-###Node
+### Node
 * [Node School](http://nodeschool.io/)
 
 
-###NoSQL
+### NoSQL
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
 * [Try Redis](http://try.redis.io/)
 
 
-###Objective-C
+### Objective-C
 * [Try Objective-C](http://tryobjectivec.codeschool.com)
 
 
-###Ocaml
+### Ocaml
 * [Try Ocaml](http://try.ocamlpro.com/)
 
 
-###PHP
+### PHP
 * [CodeCademy PHP](http://www.codecademy.com/tracks/php)
 * [Learn PHP](http://www.learn-php.org/)
 
 
-###Python
+### Python
 * [Codecademy Python course](http://www.codecademy.com/tracks/python)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 
-###R
+
+### R
 * [Try R](http://tryr.codeschool.com)
 
 
-###Ruby
+### Ruby
 * [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
 * [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
 * [Ruby Koans](http://www.rubykoans.com/)
@@ -113,9 +115,9 @@
 * [Try Ruby](http://tryruby.org/)
 
 
-###Scala
+### Scala
 * [Scala Tour](http://www.scala-tour.com/)
 
 
-###Vim
+### Vim
 * [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html)

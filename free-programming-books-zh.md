@@ -98,6 +98,7 @@
 * [CoffeeScript 中文](http://coffee-script.org/)
 * [CoffeeScript 中文手册](http://island205.github.io/tlboc/) (《The Little Book on CoffeeScript》中文版)
 * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
+* [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 
 
 ### Erlang
@@ -127,7 +128,6 @@
 
 
 ### Javascript
-* [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [Javascript 原理](http://typeof.net/s/jsmech/)
 

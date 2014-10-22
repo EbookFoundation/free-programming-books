@@ -2,6 +2,7 @@
 * [Javascript](#javascript)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Vim](#vim)
 
 ### Javascript
 * [Screencast] - [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript)

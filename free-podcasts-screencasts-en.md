@@ -1,7 +1,12 @@
 ### Index
+* [Android](#android)
 * [Javascript](#javascript)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Vim](#vim)
+
+### Android
+* [Screencast] - [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics)
 
 ### Javascript
 * [Screencast] - [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript)

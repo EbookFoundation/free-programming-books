@@ -1499,7 +1499,7 @@ See also [TeX](#tex)
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming) (2.7)
 * [CodeCademy Python](http://www.codecademy.com/tracks/python)
 * [Python for Informatics](http://www.pythonlearn.com/book_007.pdf)
-
+* [Composing Programs] (http://composingprograms.com/) (3.x)
 
 #### Django
 * [Django by Example](http://www.lightbird.net/dbe/) (1.2)

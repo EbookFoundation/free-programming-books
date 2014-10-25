@@ -23,6 +23,7 @@
     * [Metapost](#metapost)
     * [PGF/TikZ](#pgftikz)
 * [Lisp](#lisp)
+* [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -149,6 +150,8 @@ Voir aussi [TeX](#tex)
 * [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) par Francis Leboutte
 * [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) par Robert Strandh et Irène Durand
 
+### Meteor
+* [Apprendre Meteor](http://mquandalle.gitbooks.io/apprendre-meteor/), par Maxime Quandalle
 
 ### Perl
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html), par Sylvain Lhullier

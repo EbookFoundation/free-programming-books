@@ -18,6 +18,7 @@
 * [Haskell](#haskell)
 * [Java](#java)
 * [Javascript](#javascript)
+* [jQuery](#jquery)
 * [LaTeX](#latex)
     * [Asymptote](#asymptote)
     * [Metapost](#metapost)
@@ -116,6 +117,10 @@
 
 ### Javascript
 * [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net/), par Marijn Haverbeke
+
+
+### jQuery
+* [Apprendre jQuery](http://sutterlity.gitbooks.io/apprendre-jquery/), par Sutterlity Laurent
 
 
 ### Haskell

@@ -104,6 +104,10 @@
 
 ### R
 * [Try R](http://tryr.codeschool.com)
+ 
+
+### Racket
+* [Try Racket](http://try-racket.org/)
 
 
 ### Ruby

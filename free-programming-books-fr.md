@@ -2,7 +2,6 @@
 * [Méta-listes](#méta-listes)
 * [Non dépendant du langage](#non-dépendant-du-langage)
     * [Algorithmique](#algorithmique)
-    * [Bases de données](#bases-de-données)
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
     * [Méthodes de développment](#méthodes-de-développement)
@@ -47,10 +46,6 @@
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) par D. Beauquier, J. Berstel, et Ph. Chrétienne
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
-
-
-#### Bases de données
-* [Bases de données I](http://decan.lexpage.net/files/bdd1/bdd1-syllabus.pdf), par Jef Wijsen
 
 
 #### Logiciels libres

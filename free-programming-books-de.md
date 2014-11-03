@@ -122,12 +122,7 @@
 
 
 ### Python
-* [Python Das umfassende Handbuch](http://openbook.galileocomputing.de/python/)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
-
-
-### Ruby
-* [Programmieren mit Ruby](http://approximity.com/rubybuch2/)
 
 
 ### Ruby on Rails

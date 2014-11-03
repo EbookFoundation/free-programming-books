@@ -236,7 +236,6 @@
 #### Algorithms & Data Structures
 * [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html)
 * [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
-* [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms/) - Dasgupta, Papadimitriou, Vazirani (PDFs)
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](http://www.math.upenn.edu/~wilf/AlgoComp.pdf) (PDF)
@@ -317,8 +316,6 @@
 #### Information Retrieval
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 * [Information Retrieval: A Survey](http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf) (PDF)
-* [Practical Semantic Web and Linked Data Applications: Common Lisp Edition](http://www.markwatson.com/opencontent/book_lisp.pdf) - Mark Watson
-* [Practical Semantic Web and Linked Data Applications: Java, JRuby, Scala, and Clojure Edition](http://www.markwatson.com/opencontent/book_java.pdf) - Mark Watson
 
 
 #### Licensing
@@ -366,7 +363,6 @@
 * [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
 * [Linear Algebra: An Introduction to Mathematical Discourse](http://en.wikibooks.org/wiki/Linear_Algebra) - Jim Hefferon
-* [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW.pdf) - Sergei Treil
 * [Linear Algebra, Theory And Applications](http://www.math.byu.edu/klkuttle/linearalgebra.pdf) - Kenneth Kuttler
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematics for Computer Science (November 2013 Version)](https://www.cs.princeton.edu/courses/archive/fall13/cos340/LLM.pdf) (PDF) - Eric Lehman
@@ -431,7 +427,6 @@
 * [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson
 * [The Z Notation: A Reference Manual, Second Edition](http://spivey.oriel.ox.ac.uk/~mike/zrm/zrm.pdf) - J. M. Spivey
-* [Introduction to High-Performance Scientific Computing](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
 
 
 #### MOOC
@@ -536,7 +531,6 @@
 * [Best Kept Secrets of Peer Code Review](http://smartbear.com/codecollab-code-review-book.php)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
-* [Don't Just Roll the Dice](http://www.neildavidson.com/dontjustrollthedice.html)
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org/) - Markus Voelter
 * [Essential Skills for Agile Development](http://elliottback.com/wp/essential-skills-for-agile-development/)
 * [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/portal/web/swebok)
@@ -591,7 +585,6 @@
 ### Ada
 * [A Guide to Ada for C and C++ Programmers](http://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) (PDF)
 * [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
-* [Ada for Software Engineers](http://pnyf.inf.elte.hu/kto/oktatas/ada/books/ase.pdf) (PDF)
 * [Ada Programming](http://en.wikibooks.org/wiki/Ada_Programming)
 * [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
 * [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
@@ -1044,7 +1037,6 @@
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) (PDF)
 * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
-* [Practical Artificial Intelligence Programming With Java, Third Edition](http://www.markwatson.com/opencontent/JavaAI3rd.pdf) - Mark Watson
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
 * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
 * [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc)
@@ -1114,7 +1106,6 @@ For resources on Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQu
 
 #### Node.js
 * [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*
-* [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
 * [Node.js Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -1139,7 +1130,6 @@ See also [TeX](#tex)
 * [Ad Hoc Data Analysis From The Unix Command Line](http://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
 * [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
 * [Automated Linux From Scratch](http://www.linuxfromscratch.org/alfs/download.html)
-* [Beyond Linux From Scratch](http://www.linuxfromscratch.org/blfs/downloads/stable/BLFS-BOOK-7.5-nochunks.html)
 * [Cross Linux From Scratch](http://trac.cross-lfs.org/wiki/download#CurrentStable)
 * [Getting Started with Ubuntu](http://ubuntu-manual.org/)
 * [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
@@ -1264,7 +1254,6 @@ See also [TeX](#tex)
 
 
 ### NoSQL
-* [Beginning Titan - The distributed graph database](http://www.oplicate.com/books/6104450512)
 * [CouchDB: The Definitive Guide](http://books.couchdb.org/relax/)
 * [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm
 * [Graph Databases](http://graphdatabases.com/)

@@ -2,7 +2,6 @@
 * [Ajax](#ajax)
 * [CSS](#css)
 * [HTML](#hmtl)
-* [Java](#java)
 * [JavaScript](#javascript)
 * [MySQL](#mysql)
 * [PHP](#php)
@@ -19,10 +18,6 @@
 
 ### HMTL
 * [HTML](http://tutorialehtml.com/htmlt)
-
-
-### Java
-* [Curs practic de Java](http://web.info.uvt.ro/~iordan/PIII/Cristian_Frasinaru-Curs_practic_de_Java.pdf) - Cristian Frasinaru [PDF]
 
 
 ### JavaScript

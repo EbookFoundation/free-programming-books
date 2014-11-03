@@ -58,7 +58,6 @@
 
 ### JS
 * [Egghead.io](https://egghead.io/)
-* [LearnStreet Walkthrough](https://www.learnstreet.com/lessons/study/javascript)
 
 
 ### OCaml

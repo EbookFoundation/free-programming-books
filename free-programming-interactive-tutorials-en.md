@@ -17,6 +17,7 @@
 
 
 ### CoffeeScript
+* [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md)
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 
@@ -32,6 +33,7 @@
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [Try Git](http://try.github.io)
+
 
 
 ### Go
@@ -50,6 +52,7 @@
 
 ### Java
 * [CodingBat code practice](http://codingbat.com/java)
+* [Learneroo Java tutorial](http://www.learneroo.com/modules/11)
 * [Learn Java](http://www.learnjavaonline.org/)
 
 
@@ -99,8 +102,13 @@
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 
+
 ### R
 * [Try R](http://tryr.codeschool.com)
+ 
+
+### Racket
+* [Try Racket](http://try-racket.org/)
 
 
 ### Ruby

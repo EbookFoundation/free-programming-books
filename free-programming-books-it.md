@@ -12,7 +12,6 @@
 * [Javascript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
-* [Lisp](#lisp)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -69,10 +68,6 @@
 
 ### Linux
 * [«a2», ex «Appunti di informatica libera», ex «Appunti Linux»](http://archive.org/download/AppuntiDiInformaticaLibera/)
-
-
-### Lisp
-* [Introduzione a Lisp](http://www.matteolucarelli.net/lisp/lispintro.pdf)
 
 
 ### Perl

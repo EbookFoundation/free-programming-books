@@ -1,3 +1,31 @@
+### Index
+* [Bash](#bash)
+* [C](#c)
+* [C#](#c-sharp)
+* [Clojure](#clojure)
+* [CoffeeScript](#coffeescript)
+* [Erlang](#erlang)
+* [F#](#f-sharp)
+* [Git](#git)
+* [Go](#go)
+* [Haskell](#haskell)
+* [HTML / CSS](#html--css)
+* [Java](#java)
+* [Javascript](#javascript)
+* [Lisp](#lisp)
+* [MATLAB](#matlab)
+* [Node](#node)
+* [NoSQL](#nosql)
+* [Objective-C](#objective-c)
+* [Ocaml](#ocaml)
+* [PHP](#php)
+* [Python](#python)
+* [R](#r)
+* [Ruby](#ruby)
+* [Scala](#scala)
+* [Vim](#vim)
+
+
 ### Bash
 * [Learn Shell Programming](http://www.learnshell.org)
 
@@ -6,7 +34,7 @@
 * [Learn C](http://www.learn-c.org/)
 
 
-### C#
+### C Sharp
 * [Learn C#](http://www.learncs.org/)
 
 
@@ -25,7 +53,7 @@
 * [Try Erlang](http://www.tryerlang.org/)
 
 
-### F#
+### F Sharp
 * [Try F#](http://www.tryfsharp.org/)
 
 
@@ -45,7 +73,7 @@
 * [Try Haskell!](http://tryhaskell.org/)
 
 
-### HTML&CSS
+### HTML / CSS
 * [Learn HTML & CSS interactively](http://www.codecademy.com/tracks/web)
 * [Prototyping a professional website](http://www.codecademy.com/skills/prototyping)
 

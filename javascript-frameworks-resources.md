@@ -10,6 +10,7 @@
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
 * [AngularJS Insights](http://pascalprecht.github.com/slides/angularjs-insights/#/)
+* [AngularJS with Ruby on Rails](http://angular-rails.com)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](http://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org/)

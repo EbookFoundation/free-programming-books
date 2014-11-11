@@ -431,6 +431,7 @@
 * [Python Scientific Lecture Notes (一部翻訳)](http://turbare.net/transl/scipy-lecture-notes/) - 打田旭宏(翻訳)
 * [Notes on scientific computing with python](http://japanichaos.appspot.com/) - 花田康高
 * [pythonで心理実験](http://www.s12600.net/psy/python/) - 十河宏行
+* [Python による日本語自然言語処理](http://www.nltk.org/book-jp/ch12.html) - Steven Bird, Ewan Klein, Edward Loper, 萩原正人(翻訳), 中山敬広(翻訳), 水野貴明(翻訳)
 * [Pythonで音声信号処理](http://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
 * [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp/) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
 * [php プログラマのための Python チュートリアル](http://phpy.readthedocs.org/en/latest/) - INADA Naoki

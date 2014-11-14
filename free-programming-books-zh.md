@@ -19,6 +19,7 @@
 * [LaTeX](#latex)
 * [LISP](#lisp)
 * [Markdown](#markdown)
+* [Node.js](#nodejs)
 * [Perl](#perl)
 * [Python](#python)
 * [R](#r)
@@ -28,7 +29,6 @@
 * [Scheme](#scheme)
 * [Shell](#shell)
 * [Swift](#swift)
-* [NodeJS](#nodejs)
 * [Vim](#vim)
 * [Visual Prolog](#visual-prolog)
 
@@ -150,6 +150,11 @@
 * [献给写作者的 Markdown 新手指南](http://jianshu.io/p/q81RER)
 
 
+### Node.js
+* [The NodeJS 中文](https://www.gitbook.io/book/0532/nodejs)
+* [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
+
+
 ### Perl
 * [Master Perl Today](https://github.com/fayland/chinese-perl-book)
 * [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
@@ -202,9 +207,6 @@
 ### Swift
 * [《The Swift Programming Language》中文版](https://www.gitbook.io/book/numbbbbb/-the-swift-programming-language-)
 
-
-### NodeJS
-* [The NodeJS中文](https://www.gitbook.io/book/0532/nodejs)
 
 ### Vim
 * [大家來學 VIM](http://www.study-area.org/tips/vim/index.html)

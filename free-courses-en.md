@@ -2,6 +2,7 @@
 * [Assembly](#assembly)
 * [C++](#c)
 * [Databases](#databases)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
@@ -30,6 +31,8 @@
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 
+### Go
+* [Introduction to Go programming](https://www.golang-book.com/assets/pdf/gobook.pdf)
 
 ### Haskell
 * [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer

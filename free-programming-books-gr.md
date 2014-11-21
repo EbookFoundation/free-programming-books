@@ -2,7 +2,7 @@
 * [C++](#c++)
 * [Java](#java)
 * [Python](#python)
-
+* [Bash](#bash)
 
 ### C++
 * [Εισαγωγή στη C++](http://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf)
@@ -17,3 +17,6 @@
 
 ###Python
 * [Ένα byte της Python](https://dl.dropboxusercontent.com/u/54790396/a_byte_of_python-el.pdf)
+
+###Bash
+*[Εισαγωγή στον προγραμματισμό κελύφους](https://www.dropbox.com/s/5so6te983bj5v5w/IEEEUCG.pdf?dl=0)

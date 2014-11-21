@@ -19,4 +19,4 @@
 * [Ένα byte της Python](https://dl.dropboxusercontent.com/u/54790396/a_byte_of_python-el.pdf)
 
 ###Bash
-*[Εισαγωγή στον προγραμματισμό κελύφους](https://www.dropbox.com/s/5so6te983bj5v5w/IEEEUCG.pdf?dl=0)
+* [Εισαγωγή στον προγραμματισμό κελύφους](https://www.dropbox.com/s/5so6te983bj5v5w/IEEEUCG.pdf?dl=0)

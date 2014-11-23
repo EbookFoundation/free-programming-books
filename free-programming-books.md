@@ -283,6 +283,7 @@
 * [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
 * [Compilers and Compiler Generators: An Introduction with C++](http://www.scifac.ru.ac.za/compilers/) - P. D. Terry
 * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
+* [Compiler Design in C](http://www.holub.com/software/compiler.design.in.c.html) - Allen Holub, Prentice Hall, 1990
 * [Compiler Design: Theory, Tools, and Examples, C/C++ Edition](http://elvis.rowan.edu/~bergmann/books/c_cpp/) - Seth D. Bergmann
 * [Compiler Design: Theory, Tools, and Examples, Java Edition](http://elvis.rowan.edu/~bergmann/books/java/) - Seth D. Bergmann
 * [Compiling Scala for the Java Virtual Machine](http://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf) - Michel Schinz

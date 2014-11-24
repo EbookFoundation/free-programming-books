@@ -678,6 +678,7 @@
 * [A beginner's guide to Gambas](http://beginnersguidetogambas.com/)
 * [BASIC programming language - Wikibooks](http://en.wikibooks.org/wiki/Category%3ABASIC_programming_language)
 * [How To Gambas3 Guides](http://howtogambas.org/index.php?page=cedi)
+* [Pick/Basic: A Programmer's Guide](http://www.jes.com/pb/) - Jonathan E. Sisk
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 
 
@@ -1488,7 +1489,7 @@ See also [TeX](#tex)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming) (2.7)
-* [CodeCademy Python](http://www.codecademy.com/tracks/python)
+* [CodeAcademy Python](http://www.codecademy.com/tracks/python)
 * [Python for Informatics](http://www.pythonlearn.com/book_007.pdf)
 * [Composing Programs](http://composingprograms.com/) (3.x)
 

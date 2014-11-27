@@ -1,0 +1,37 @@
+language: python
+
+python:
+  - 2.7
+
+install:
+  - pip install requests markdown beautifulsoup4
+
+script:
+  - python check_urls.py free-courses-en.md
+  - python check_urls.py free-podcasts-screencasts-cs.md
+  - python check_urls.py free-podcasts-screencasts-en.md
+  - python check_urls.py free-programming-books-az.md
+  - python check_urls.py free-programming-books-bg.md
+  - python check_urls.py free-programming-books-cs.md
+  - python check_urls.py free-programming-books-de.md
+  - python check_urls.py free-programming-books-es.md
+  - python check_urls.py free-programming-books-fa_IR.md
+  - python check_urls.py free-programming-books-fr.md
+  - python check_urls.py free-programming-books-gr.md
+  - python check_urls.py free-programming-books-hu.md
+  - python check_urls.py free-programming-books-id.md
+  - python check_urls.py free-programming-books-it.md
+  - python check_urls.py free-programming-books-ja.md
+  - python check_urls.py free-programming-books-ko.md
+  - python check_urls.py free-programming-books-pl.md
+  - python check_urls.py free-programming-books-pt_BR.md
+  - python check_urls.py free-programming-books-pt_PT.md
+  - python check_urls.py free-programming-books-ro.md
+  - python check_urls.py free-programming-books-ru.md
+  - python check_urls.py free-programming-books-sk.md
+  - python check_urls.py free-programming-books-tr.md
+  - python check_urls.py free-programming-books-ua.md
+  - python check_urls.py free-programming-books-zh.md
+  - python check_urls.py free-programming-books.md
+  - python check_urls.py free-programming-interactive-tutorials-en.md
+  - python check_urls.py javascript-frameworks-resources.md

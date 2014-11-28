@@ -23,10 +23,8 @@ def check_urls(filename):
     print 'checking URLs for %s' % (filename,)
     ok = True
     for url in retrieve_urls(filename):
-        #print "DEBUG:", url
         r = "(?:http[s]?://[^)]+)"
         u = re.findall(r, url)
-        #print "DEBUG:", u
         if not u: continue
         msg = 'Checking %s => ' % (u[0],)
         if check_url(u[0]):

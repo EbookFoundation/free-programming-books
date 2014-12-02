@@ -1,5 +1,6 @@
 ### Index
 * [Assembly](#assembly)
+* [Android] (#android)
 * [C++](#c)
 * [Databases](#databases)
 * [Haskell](#haskell)
@@ -19,6 +20,11 @@
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
 
+
+### Android
+* [Programming Mobile Applications for Android Handheld Systems] (https://www.coursera.org/course/android)
+* [Creative, Serious and Playful Science of Android Apps] (https://www.coursera.org/course/androidapps101)
+* [Programming Cloud Services for Android Handheld Systems] (https://www.coursera.org/course/mobilecloud)
 
 ### C++
 * [Google's C++ Course](https://developers.google.com/edu/c++/)

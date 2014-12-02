@@ -12,6 +12,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [Javascript](#javascript)
+* [Language Agnostic](#language-agnostic)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -92,6 +93,10 @@
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Try jQuery](http://try.jquery.com/)
+
+
+### Language Agnostic
+* [Codility](https://codility.com/programmers/)
 
 
 ### Lisp

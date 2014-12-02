@@ -1,6 +1,6 @@
 ### Index
 * [Assembly](#assembly)
-* [Android] (#android)
+* [Android](#android)
 * [C++](#c)
 * [Databases](#databases)
 * [Haskell](#haskell)
@@ -22,9 +22,10 @@
 
 
 ### Android
-* [Programming Mobile Applications for Android Handheld Systems] (https://www.coursera.org/course/android)
-* [Creative, Serious and Playful Science of Android Apps] (https://www.coursera.org/course/androidapps101)
-* [Programming Cloud Services for Android Handheld Systems] (https://www.coursera.org/course/mobilecloud)
+* [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/course/android)
+* [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101)
+* [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloud)
+
 
 ### C++
 * [Google's C++ Course](https://developers.google.com/edu/c++/)

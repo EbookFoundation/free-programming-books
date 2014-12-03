@@ -1162,7 +1162,7 @@ See also [TeX](#tex)
 * [Ubuntu Server Guide](https://help.ubuntu.com/14.04/serverguide/serverguide.pdf)
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
-
+* [Linux Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) *(Just fill the fields with any values)*
 
 ### Lisp
 * [Basic Lisp Techniques](http://www.franz.com/resources/educational_resources/cooper.book.pdf) - David J. Cooper, Jr.

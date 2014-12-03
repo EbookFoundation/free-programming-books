@@ -177,6 +177,8 @@
 ### LaTeX
 * [La introducción no-tan-corta a LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/spanish)
 
+### Linux
+* [Debian GNU/Linux para administradores] (http://debian-handbook.info/browse/es-ES/stable/)
 
 ### .NET (C# / Visual Studio)
 * [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) (PDF)
@@ -196,7 +198,6 @@
 ### Python
 * [Aprenda a pensar como un programador (con Python)](http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
-* [El tutorial de Python](http://tutorialpython.com.ar)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
@@ -245,4 +246,5 @@
 * [El lenguaje SQL](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02149.pdf)
 * [Manual de gestión de base de datos](http://www.jorgesanchez.net/bd/gbd2012.pdf)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
+
 

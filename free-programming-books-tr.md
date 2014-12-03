@@ -1,6 +1,7 @@
 ### Index
 * [C](#c)
 * [D](#d)
+* [Dart](#dart)
 * [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
@@ -14,6 +15,8 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Html](#html)
+* [Android](#android)
 
 
 ### C
@@ -23,7 +26,10 @@
 
 ### D
 * [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
- 
+
+### Dart
+* [Dart - Merhaba Dünya](http://dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
+
 
 ### Fortran
 * [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php)
@@ -67,6 +73,14 @@
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
 * [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
+* [Ruby 101](https://www.gitbook.io/book/vigo/ruby-101)
 
 ### Rust
 * [Rust'a Giriş](http://bit.ly/rustagiris)
+
+### Html
+* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
+* [Html'e Giriş](http://www.htmldersleri.org/)
+
+### Android
+* [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)

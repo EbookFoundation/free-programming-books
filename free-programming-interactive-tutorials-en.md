@@ -1,3 +1,32 @@
+### Index
+* [Bash](#bash)
+* [C](#c)
+* [C#](#c-sharp)
+* [Clojure](#clojure)
+* [CoffeeScript](#coffeescript)
+* [Erlang](#erlang)
+* [F#](#f-sharp)
+* [Git](#git)
+* [Go](#go)
+* [Haskell](#haskell)
+* [HTML / CSS](#html--css)
+* [Java](#java)
+* [Javascript](#javascript)
+* [Language Agnostic](#language-agnostic)
+* [Lisp](#lisp)
+* [MATLAB](#matlab)
+* [Node](#node)
+* [NoSQL](#nosql)
+* [Objective-C](#objective-c)
+* [Ocaml](#ocaml)
+* [PHP](#php)
+* [Python](#python)
+* [R](#r)
+* [Ruby](#ruby)
+* [Scala](#scala)
+* [Vim](#vim)
+
+
 ### Bash
 * [Learn Shell Programming](http://www.learnshell.org)
 
@@ -6,17 +35,19 @@
 * [Learn C](http://www.learn-c.org/)
 
 
-### C#
+### C Sharp
 * [Learn C#](http://www.learncs.org/)
 
 
 ### Clojure
+* [4Clojure - Koans](https://www.4clojure.com/)
 * [Clojure Koans](http://clojurekoans.com/)
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
 * [Try Clojure](http://tryclj.com/)
 
 
 ### CoffeeScript
+* [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md)
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 
@@ -24,7 +55,7 @@
 * [Try Erlang](http://www.tryerlang.org/)
 
 
-### F#
+### F Sharp
 * [Try F#](http://www.tryfsharp.org/)
 
 
@@ -32,6 +63,7 @@
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [Try Git](http://try.github.io)
+
 
 
 ### Go
@@ -43,13 +75,14 @@
 * [Try Haskell!](http://tryhaskell.org/)
 
 
-### HTML&CSS
+### HTML / CSS
 * [Learn HTML & CSS interactively](http://www.codecademy.com/tracks/web)
 * [Prototyping a professional website](http://www.codecademy.com/skills/prototyping)
 
 
 ### Java
 * [CodingBat code practice](http://codingbat.com/java)
+* [Learneroo Java tutorial](http://www.learneroo.com/modules/11)
 * [Learn Java](http://www.learnjavaonline.org/)
 
 
@@ -60,6 +93,10 @@
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Try jQuery](http://try.jquery.com/)
+
+
+### Language Agnostic
+* [Codility](https://codility.com/programmers/)
 
 
 ### Lisp
@@ -99,8 +136,13 @@
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 
+
 ### R
 * [Try R](http://tryr.codeschool.com)
+ 
+
+### Racket
+* [Try Racket](http://try-racket.org/)
 
 
 ### Ruby

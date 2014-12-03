@@ -2,7 +2,6 @@
 * [Méta-listes](#méta-listes)
 * [Non dépendant du langage](#non-dépendant-du-langage)
     * [Algorithmique](#algorithmique)
-    * [Bases de données](#bases-de-données)
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
     * [Méthodes de développment](#méthodes-de-développement)
@@ -18,11 +17,13 @@
 * [Haskell](#haskell)
 * [Java](#java)
 * [Javascript](#javascript)
+* [jQuery](#jquery)
 * [LaTeX](#latex)
     * [Asymptote](#asymptote)
     * [Metapost](#metapost)
     * [PGF/TikZ](#pgftikz)
 * [Lisp](#lisp)
+* [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -45,10 +46,6 @@
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) par D. Beauquier, J. Berstel, et Ph. Chrétienne
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
-
-
-#### Bases de données
-* [Bases de données I](http://decan.lexpage.net/files/bdd1/bdd1-syllabus.pdf), par Jef Wijsen
 
 
 #### Logiciels libres
@@ -90,7 +87,6 @@
 ### C / C++
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) par Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/6-le-c-en-20-heures/), par Eric Berthomier et Daniel Schang
-* [Initiation à la programmation (en C++)](https://www.coursera.org/course/intro-cpp-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
 * [Introduction à la rétro-ingénierie de binaires](http://progdupeu.pl/articles/45/introduction-a-la-retro-ingenierie-de-binaires), à partir de code C compilé pour x86.
 
 
@@ -104,7 +100,7 @@
 
 
 ### Git
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) par par Alexandre Garel, Paul Gaborit et Nicolas Deram
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) par Alexandre Garel, Paul Gaborit et Nicolas Deram
 * [Pro Git](http://www.git-scm.com/book/fr) par Scott Chacon
 
 
@@ -116,6 +112,10 @@
 
 ### Javascript
 * [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net/), par Marijn Haverbeke
+
+
+### jQuery
+* [Apprendre jQuery](http://sutterlity.gitbooks.io/apprendre-jquery/), par Sutterlity Laurent
 
 
 ### Haskell
@@ -150,6 +150,8 @@ Voir aussi [TeX](#tex)
 * [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) par Francis Leboutte
 * [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) par Robert Strandh et Irène Durand
 
+### Meteor
+* [Apprendre Meteor](http://mquandalle.gitbooks.io/apprendre-meteor/), par Maxime Quandalle
 
 ### Perl
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html), par Sylvain Lhullier
@@ -201,3 +203,4 @@ Voir aussi [LaTeX](#latex)
 
 ### Vim
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)
+* [Vim pour les humains](http://vimebook.com/), par Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)

@@ -29,4 +29,5 @@ TODO
     - [ ] tr
     - [ ] zh
     - [ ] javascript framework
-    - [ ] courses
+    - [x] courses
+    - [ ] problem sets

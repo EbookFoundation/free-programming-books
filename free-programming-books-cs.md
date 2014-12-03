@@ -17,6 +17,7 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [TeX](#tex)
+* [Webdesign](#webdesign)
 * [XML](#xml)
 
 
@@ -29,7 +30,7 @@
 
 
 ### Git
-* [Pro Git](http://www.root.cz/knihy/pro-git/stahnout/1001/) (PDF)
+* [Pro Git](https://knihy.nic.cz/) - Scott Chacon (PDF)
 
 
 ### Language Agnostic
@@ -38,7 +39,8 @@
 
 
 #### Bezpečnost
-* [Báječný svět elektronického podpisu](http://www.root.cz/knihy/bajecny-svet-elektronickeho-podpisu/) (PDF)
+* [Báječný svět elektronického podpisu](https://knihy.nic.cz/) - Jiří Peterka (PDF)
+* [Buď pánem svého prostoru](https://knihy.nic.cz/) - Linda McCarthy a Denise Weldon-Siviy (PDF)
 
 
 #### Matematika
@@ -48,7 +50,7 @@
 
 
 #### Právo
-* [Internet jako objekt práva](http://www.root.cz/knihy/internet-jako-objekt-prava/) (PDF)
+* [Internet jako objekt práva](https://knihy.nic.cz/) - Ján Matejka (PDF)
 
 
 #### Regulární výrazy
@@ -56,7 +58,7 @@
 
 
 #### Sítě
-* [Internetový protokol IPv6](http://www.root.cz/knihy/internetovy-protokol-ipv6-treti-vydani/) (PDF)
+* [Internetový protokol IPv6](https://knihy.nic.cz/) - Pavel Satrapa (PDF)
 
 
 ### LaTeX
@@ -77,14 +79,14 @@
 
 
 ### OpenSource
-* [Tvorba open source softwaru](http://www.root.cz/knihy/tvorba-open-source-softwaru/stahnout/1303/) (PDF)
+* [Tvorba open source softwaru](https://knihy.nic.cz/) - Karl Fogel (PDF)
 * [Katedrála a tržiště](http://www.root.cz/knihy/katedrala-a-trziste/) (PDF)
 
 ### PHP
 * [PHP Tvorba interaktivních internetových aplikací](http://www.kosek.cz/php/php-tvorba-interaktivnich-internetovych-aplikaci.pdf)
 
 ### Python
-* [Ponořme se do Pythonu 3](http://www.root.cz/knihy/ponorme-se-do-pythonu-3/stahnout/1025/) (PDF)
+* [Ponořme se do Pythonu 3](https://knihy.nic.cz/) - Mark Pilgrim (PDF)
 * [Učebnice jazyka Python](http://www.root.cz/knihy/ucebnice-jazyka-python/stahnout/920/) (PDF)
 
 
@@ -95,6 +97,10 @@
 ### TeX
 * [TeXbook naruby](http://www.root.cz/knihy/texbook-naruby/) (PDF)
 * [První setkání s TeXem](http://www.root.cz/knihy/prvni-setkani-s-texem/) (PDF)
+
+
+### Webdesign
+* [Webová režie: základy koncepčního myšlení u webových projektů](http://www.root.cz/knihy/webova-rezie-zaklady-koncepcniho-mysleni-u-webovych-projektu/) (PDF)
 
 
 ### XML

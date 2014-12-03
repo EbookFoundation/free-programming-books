@@ -1,5 +1,6 @@
 ### Index
 * [Assembly](#assembly)
+* [Android](#android)
 * [C++](#c)
 * [Databases](#databases)
 * [Haskell](#haskell)
@@ -11,11 +12,19 @@
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Swift](#swift)
+* [Web Development](#web-development)
 
 
 ### Assembly
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
+
+
+### Android
+* [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/course/android)
+* [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101)
+* [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloud)
 
 
 ### C++
@@ -30,11 +39,13 @@
 
 
 ### Haskell
+* [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
-* [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
 
 ### HTML / CSS
+* [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
+* [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
@@ -54,7 +65,6 @@
 
 ### JS
 * [Egghead.io](https://egghead.io/)
-* [LearnStreet Walkthrough](https://www.learnstreet.com/lessons/study/javascript)
 
 
 ### OCaml
@@ -73,3 +83,11 @@
 
 ### Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+
+
+### Swift
+* [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift)
+
+
+### Web Development
+* [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com/)

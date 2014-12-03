@@ -65,6 +65,7 @@
 * [Smalltalk](#smalltalk)
 * [SQL(実装非依存)](#sql%e5%ae%9f%e8%a3%85%e9%9d%9e%e4%be%9d%e5%ad%98)
 * [Standard ML](#standard-ml)
+* [Swift](#swift)
 * [Tcl/Tk](#tcltk)
 * [TypeScript](#typescript)
 * [VBA](#vba)
@@ -100,7 +101,6 @@
 * [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/OpenGLES_ProgrammingGuide.pdf) (PDF) - Apple Developer
 * [DirectX を使った初めての Windows ストア アプリの作成](http://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
 * [CUDA プログラミング入門](http://accc.riken.jp/secure/4467/cuda-programming_main.pdf) (PDF) - 青山幸也
-* [OpenGL Programming](http://www.komoto.org/opengl/) - 小本真広
 
 
 #### グラフィックユーザーインターフェイス
@@ -183,6 +183,7 @@
 * [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - id:nobuoka
 * [コントリビュータのためのAndroidコードスタイルガイドライン 日本語訳](http://www.textdrop.net/android/code-style-ja.html) - Android Open Source Project, Takashi Sasai(翻訳)
 * [Androidアプリのセキュア設計・セキュアコーディングガイド](http://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
+* [Android Open Text book](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 
 
 ### AWK
@@ -212,6 +213,7 @@
 * [cpprefjp - C++ Reference Site in Japanese](https://sites.google.com/site/cpprefjp/)
 * [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.com/cpp-book/C++11-Syntax-and-Feature.xhtml)
 * [Google C++スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/cppguide.xml) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, Takashi Sasai(翻訳)
+* [Standard Template Library プログラミング](http://episteme.wankuma.com/stlprog/) - επιστημη
 
 
 ### CoffeeScript
@@ -290,6 +292,7 @@
 * [初めての iOS アプリケーション](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhone101.pdf) (PDF) - Apple Developer
 * [Cocoa Programming Tips 1001](http://hmdt.jp/tips/cocoa/index.html) - 木下誠
 * [Web API を利用する iOS アプリ作成](https://github.com/hatena/Hatena-Textbook/blob/master/ios-app-development-with-web-api.md) - はてな教科書
+* [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp/) - Clay Allsopp, RubyMotion JP(翻訳)
 
 
 ### Java
@@ -428,7 +431,7 @@
 * [Python Scientific Lecture Notes (一部翻訳)](http://turbare.net/transl/scipy-lecture-notes/) - 打田旭宏(翻訳)
 * [Notes on scientific computing with python](http://japanichaos.appspot.com/) - 花田康高
 * [pythonで心理実験](http://www.s12600.net/psy/python/) - 十河宏行
-* [Python による日本語自然言語処理](http://nltk.googlecode.com/svn-/trunk/doc/book-jp/ch12.html) - Steven Bird, Ewan Klein, Edward Loper, 萩原正人(翻訳), 中山敬広(翻訳), 水野貴明(翻訳)
+* [Python による日本語自然言語処理](http://www.nltk.org/book-jp/ch12.html) - Steven Bird, Ewan Klein, Edward Loper, 萩原正人(翻訳), 中山敬広(翻訳), 水野貴明(翻訳)
 * [Pythonで音声信号処理](http://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
 * [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp/) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
 * [php プログラマのための Python チュートリアル](http://phpy.readthedocs.org/en/latest/) - INADA Naoki
@@ -502,6 +505,10 @@
 ### Standard ML
 * [プログラミング言語SML#解説](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/1.0/ja/manual.xhtml) - 大堀淳, 上野 雄大
 * [お気楽 Standard ML of New Jersey 入門](http://www.geocities.jp/m_hiroi/func/index.html#sml) - 広井誠
+
+
+### Swift
+* [逆引きSwift(iOS編)](https://sites.google.com/a/gclue.jp/swift-docs/) - 株式会社GClue
 
 
 ### Tcl/Tk

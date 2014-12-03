@@ -15,7 +15,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 - Read the [TODO](/TODO.md) file(Adding new books is our #1 priority, but things like Alphabetizing are important, too.)
 - [Edit](https://github.com/vhf/free-programming-books/edit/master/free-programming-books.md) (we prefer multiple small commits rather than one large change)
 - [Send a PR](https://help.github.com/articles/using-pull-requests)
-- be part of a project that over 27,000 people starred in 8 months. ;)
+- Be part of a project that over 31,000 people starred in 13 months. ;)
 
 **Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
 
@@ -47,7 +47,9 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + Portuguese (Portugal): [github](/free-programming-books-pt_PT.md)
 + Romanian (Romania): [github](/free-programming-books-ro.md)
 + Russian: [github](/free-programming-books-ru.md)
++ Slovak: [github](/free-programming-books-sk.md)
 + Spanish: [github](/free-programming-books-es.md)
++ Swedish: [github](/free-programming-books-se.md)
 + Turkish: [github](/free-programming-books-tr.md)
 + Ukrainian: [github](/free-programming-books-ua.md)
 

@@ -15,7 +15,7 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Lua](#lua)
-* [Vim](#Vim)
+* [Vim](#vim)
 
 
 ### C
@@ -100,5 +100,5 @@
 ### Vim
 * [Vim Básico](http://aurelio.net/vim/vim-basico.txt)
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt)
-* [vim Avançado](http://aurelio.net/vim/vim-avancado.txt)
+* [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt)
 * [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html)

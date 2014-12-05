@@ -15,6 +15,7 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Lua](#lua)
+* [Vim](#vim)
 
 
 ### C
@@ -94,3 +95,10 @@
 
 ### Lua
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
+
+
+### Vim
+* [Vim Básico](http://aurelio.net/vim/vim-basico.txt)
+* [Vim Médio](http://aurelio.net/vim/vim-medio.txt)
+* [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt)
+* [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html)

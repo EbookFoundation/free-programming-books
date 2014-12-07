@@ -36,40 +36,40 @@
 ### 语言无关
 
 #### 在线教育
-* [MIT 公开课](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
+* [CodeSchool](https://www.codeschool.com/)
+* [Codecademy](http://www.codecademy.com/?locale_code=zh)
 * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
+* [Learn X in Y minutes](http://learnxinyminutes.com/) (数十种语言快速入门教程)
+* [MIT 公开课](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
+* [TeamTreeHouse](http://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [xuetangX](https://www.xuetangx.com/)
-* [Codecademy](http://www.codecademy.com/?locale_code=zh)
-* [CodeSchool](https://www.codeschool.com/)
-* [TeamTreeHouse](http://teamtreehouse.com/)
-* [Learn X in Y minutes](http://learnxinyminutes.com/) (数十种语言快速入门教程)
 
 
 #### 软件开发方法
-* [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) (《Functional Programming For The Rest of Us》中文版)
+* [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
 
 
 #### 操作系统
-* [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
+* [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 
 
 #### 版本控制
-* [Pro Git](http://git-scm.com/book/zh)
-* [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-* [Git 参考手册](http://gitref.justjavac.com/)
-* [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
-* [Got GitHub](https://github.com/gotgit/gotgithub)
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/)
+* [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+* [Git 参考手册](http://gitref.justjavac.com/)
+* [Got GitHub](https://github.com/gotgit/gotgithub)
+* [Pro Git](http://git-scm.com/book/zh)
 * [学习 Git 分支](http://pcottle.github.io/learnGitBranching/) (点击右下角按钮可切换至简体及正体中文)
+* [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
 
 
 #### 数据库
-* [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 * [Redis 设计与实现](http://www.redisbook.com)
+* [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 
 
 #### 智能系统
@@ -82,22 +82,22 @@
 
 
 ### C
-* [新概念 C 语言教程](https://github.com/limingth/NCCL)
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
 * [C/C++ 学习教程](http://doc.lellansin.com/)
+* [新概念 C 语言教程](https://github.com/limingth/NCCL)
 
 
 ### C++
-* [C++ 基础教程](http://www.prglab.com/cms/)
-* [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
+* [C++ 基础教程](http://www.prglab.com/cms/)
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial)
+* [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 
 
 ### CoffeeScript
+* [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 * [CoffeeScript 中文](http://coffee-script.org/)
 * [CoffeeScript 中文手册](http://island205.github.io/tlboc/) (《The Little Book on CoffeeScript》中文版)
-* [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 * [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 
 
@@ -111,20 +111,20 @@
 
 ### Golang
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
-* [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
-* [学习 Go 语言](https://github.com/mikespook/Learning-Go-zh-cn)
 * [Go 指南](http://go-tour-zh.appsp0t.com/) (《A Tour of Go》中文版)
+* [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
+* [学习 Go 语言](https://github.com/mikespook/Learning-Go-zh-cn)
 
 
 ### Haskell
-* [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 * [Haskell 趣学指南](http://learnyouahaskell-zh-tw.csie.org/)
+* [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
 
 ### HTML / CSS
-* [学习 CSS 布局](http://zh.learnlayout.com/)
 * [HTML5 教程](http://www.w3school.com.cn/html5/)
+* [学习 CSS 布局](http://zh.learnlayout.com/)
 
 
 ### Javascript
@@ -133,8 +133,8 @@
 
 
 ### LaTeX
-* [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
 * [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)
+* [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
 * [大家來學 LaTeX](http://web.math.isu.edu.tw/yeh/HowTo/HowToTex/latex123.pdf)
 
 
@@ -145,36 +145,36 @@
 
 ### Markdown
 * [Markdown 快速入门](http://wowubuntu.com/markdown/basic.html)
-* [Markdown 语法说明](http://wowubuntu.com/markdown/)
 * [Markdown 简明教程](http://jianshu.io/p/7bd23251da0a)
+* [Markdown 语法说明](http://wowubuntu.com/markdown/)
 * [献给写作者的 Markdown 新手指南](http://jianshu.io/p/q81RER)
 
 
 ### Node.js
-* [The NodeJS 中文](https://www.gitbook.io/book/0532/nodejs)
 * [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
+* [The NodeJS 中文](https://www.gitbook.io/book/0532/nodejs)
 
 
 ### Perl
 * [Master Perl Today](https://github.com/fayland/chinese-perl-book)
-* [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
 * [Perl 5 教程](http://www.cbi.pku.edu.cn/chinese/documents/perl/index.htm)
 * [Perl 教程](http://www.yiibai.com/perl)
+* [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
 
 
 ### Python
+* [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [深入 Python](http://woodpecker.org.cn/diveintopython/)
 * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)
 * [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/) (《A Byte of Python》中文版)
-* [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 
 
 ### R
-* [R 导论](http://cran.r-project.org/doc/contrib/Ding-R-intro_cn.pdf) (《An Introduction to R》中文版)
 * [153分钟学会 R ](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf)
+* [R 导论](http://cran.r-project.org/doc/contrib/Ding-R-intro_cn.pdf) (《An Introduction to R》中文版)
 * [《R for beginners》中文版](http://www.biosino.org/R/R-doc/files/R4beg_cn_2.0.pdf)
-* [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf)
 * [用 R 构建 Shiny 应用程序](http://yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版)
+* [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf)
 
 
 ### reStructuredText
@@ -183,10 +183,10 @@
 
 
 ### Ruby
-* [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
-* [笨方法学 Ruby](http://lrthw.github.io/)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/)
+* [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
+* [笨方法学 Ruby](http://lrthw.github.io/)
 
 
 ### Scala
@@ -200,8 +200,8 @@
 
 
 ### Shell
-* [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+* [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 
 
 ### Swift
@@ -213,5 +213,5 @@
 
 
 ### Visual Prolog
-* [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
 * [Visual Prolog 7初学指南](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog_in_Chinese)
+* [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)

@@ -2,6 +2,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
+* [C++](#c-1)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Erlang](#erlang)
@@ -37,6 +38,10 @@
 
 ### C Sharp
 * [Learn C#](http://www.learncs.org/)
+
+
+### C++
+* [CppKoans](https://github.com/torbjoernk/CppKoans)
 
 
 ### Clojure
@@ -140,7 +145,7 @@
 
 ### R
 * [Try R](http://tryr.codeschool.com)
- 
+
 
 ### Racket
 * [Try Racket](http://try-racket.org/)

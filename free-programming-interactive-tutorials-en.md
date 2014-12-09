@@ -96,6 +96,7 @@
 
 
 ### Language Agnostic
+* [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
 
 

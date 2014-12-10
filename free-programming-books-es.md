@@ -16,6 +16,7 @@
 * [Coffeescript](#coffeescript)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
+* [Emacs](#emacs)
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
@@ -132,6 +133,8 @@
 * [Erlang/OTP: Un mundo concurrente](http://erlang-otp.es/)
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) en Wikibooks
 
+### Emacs
+* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/hg/?group=elisp-es)
 
 ### Git
 * [Git Immersion en Español](http://gitimmersion.mx)

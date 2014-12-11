@@ -21,6 +21,7 @@
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [Perl](#perl)
+* [PHP](#php)
 * [Python](#python)
 * [R](#r)
 * [reStructuredText](#restructuredtext)
@@ -54,6 +55,8 @@
 #### 操作系统
 * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
+* [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
+* [鸟哥的 Linux 私房菜 服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)
 
 
 #### 版本控制
@@ -85,6 +88,7 @@
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
 * [C/C++ 学习教程](http://doc.lellansin.com/)
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
+* [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
 
 
 ### C++
@@ -162,6 +166,11 @@
 * [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
 
 
+### PHP
+* [深入理解 PHP 内核](http://www.php-internals.com/book/)
+* [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
+
+
 ### Python
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [深入 Python](http://woodpecker.org.cn/diveintopython/)
@@ -186,6 +195,7 @@
 ### Ruby
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/)
+* [Ruby on Rails 实战圣经](http://ihower.tw/rails4/)
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [笨方法学 Ruby](http://lrthw.github.io/)
 

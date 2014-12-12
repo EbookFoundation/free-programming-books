@@ -53,7 +53,7 @@
 
 
 #### 操作系统
-* [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
+* [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)   
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 * [鸟哥的 Linux 私房菜 服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)

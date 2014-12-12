@@ -57,7 +57,7 @@
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 * [鸟哥的 Linux 私房菜 服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)
-
+* [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 
 #### 版本控制
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -74,6 +74,19 @@
 * [Redis 设计与实现](http://www.redisbook.com)
 * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 
+#### NoSQL
+* [NoSQL数据库笔谈 (PDF)](http://yankaycom-wordpress.stor.sinaapp.com/NoSql_Database_Note.html?q=/wp-content/NoSql_Database_Note.html)
+* [Redis 命令参考](http://www.redisdoc.com/en/latest/)
+* [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
+* [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+* [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
+* [Neo4j.rb 中文資源](http://neo4j.tw/)
+
+#### Web
+* [关于浏览器和网络的20 项须知](http://www.20thingsilearned.com/zh-CN/home)
+* [前端知识体系](http://ecomfe.duapp.com/)
+* [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
+* [Grunt中文文档](http://www.gruntjs.org/)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)

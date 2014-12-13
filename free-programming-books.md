@@ -1589,6 +1589,7 @@ See also [TeX](#tex)
 
 
 #### Ruby on Rails
+* [Railscasts - Ruby on Rails Screencasts](http://railscasts.com/)
 * [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read)
 * [Objects on Rails](http://objectsonrails.com)

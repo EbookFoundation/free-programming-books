@@ -579,6 +579,7 @@
 
 #### Web Performance
 * [Book of Speed](http://www.bookofspeed.com/index.html) by Stoyan Stefanov
+* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) by Ilya Grigorik
 * [Mature Optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf) by Carlos Bueno
 
 

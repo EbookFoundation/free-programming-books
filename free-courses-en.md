@@ -8,6 +8,7 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JS](#js)
+* [Matlab](#matlab)
 * [OCaml](#ocaml)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
@@ -43,6 +44,7 @@
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
 
+
 ### HTML / CSS
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
@@ -65,6 +67,10 @@
 
 ### JS
 * [Egghead.io](https://egghead.io/)
+
+
+### MATLAB
+* [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
 
 
 ### OCaml

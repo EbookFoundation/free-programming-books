@@ -190,6 +190,8 @@
 
 
 ### PHP
+* [Codeigniter 2.2, Documentación](http://www.codeigniter.com/user_guide/)
+* [Laravel 4.2, Documentación](http://laravel.com/docs/4.2)
 * [Manual de estudio introductorio al lenguaje PHP procedural](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf)
 * [Manual de PHP (forosdelweb.com)](http://www.forosdelweb.com/wiki/Manual_de_PHP)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)

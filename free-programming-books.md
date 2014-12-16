@@ -25,6 +25,7 @@
 * [ColdFusion](#coldfusion)
 * [Cool](#cool)
 * [Coq](#coq)
+* [CUDA](#cuda)
 * [D](#d)
 * [Dart](#dart)
 * [DB2](#db2)
@@ -785,6 +786,8 @@
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
 * [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
 
+### CUDA
+* [OpenCL Programming Guide for CUDA Architecture](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf)
 
 ### D
 * [D Templates Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial)

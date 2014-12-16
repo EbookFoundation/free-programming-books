@@ -25,6 +25,7 @@
 * [ColdFusion](#coldfusion)
 * [Cool](#cool)
 * [Coq](#coq)
+* [CUDA](#cuda)
 * [D](#d)
 * [Dart](#dart)
 * [DB2](#db2)
@@ -671,6 +672,7 @@
 * [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php)
 * [Google Shell Style Guide](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 * [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
+* [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
 
 
@@ -783,6 +785,10 @@
 ### Coq
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
 * [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
+
+
+### CUDA
+* [OpenCL Programming Guide for CUDA Architecture](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf)
 
 
 ### D

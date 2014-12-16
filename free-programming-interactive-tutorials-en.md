@@ -49,7 +49,6 @@
 * [Clojure Koans](http://clojurekoans.com/)
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
 * [Try Clojure](http://tryclj.com/)
-* [Functional Programming with Clojure (MOOC)](http://mooc.cs.helsinki.fi/clojure)
 
 
 ### CoffeeScript

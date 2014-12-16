@@ -976,6 +976,7 @@
 
 #### Bootstrap
 * [Twitter Bootstrap Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Twitter Bootstrap 3 Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap3) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ### Icon

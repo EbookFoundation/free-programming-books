@@ -942,7 +942,7 @@
 ### Hadoop
 * [Hadoop Illuminated](http://hadoopilluminated.com/book.php) - Mark Kerzner & Sujee Maniyam
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
-
+* [Hadoop Operations](http://it-ebooks.info/book/1016/) - Eric Sammer
 
 ### Haskell
 * [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/)

@@ -761,7 +761,6 @@
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
-
 ### COBOL
 * [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
 * [OpenCOBOL 1.1 - Programmer's Guide](http://opencobol.add1tocobol.com/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
@@ -940,8 +939,10 @@
 
 
 ### Hadoop
+* [Cloudera Impala](http://www.cloudera.com/content/cloudera/en/resources/library/aboutcloudera/cloudera-impala-ebook.html) - John Russel
 * [Hadoop Illuminated](http://hadoopilluminated.com/book.php) - Mark Kerzner & Sujee Maniyam
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
+
 
 
 ### Haskell

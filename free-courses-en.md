@@ -2,6 +2,7 @@
 * [Assembly](#assembly)
 * [Android](#android)
 * [C++](#c)
+* [Clojure](#clojure)
 * [Databases](#databases)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
@@ -32,6 +33,10 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [LearnCpp.com C++ Tutorial](http://www.learncpp.com/)
+
+
+### Clojure
+* [Functional Programming with Clojure](http://mooc.cs.helsinki.fi/clojure)
 
 
 ### Databases

@@ -210,8 +210,8 @@
 ### C++
 * [C++入門](http://www.asahi-net.or.jp/~yf8k-kbys/newcpp0.html) - 小林健一郎
 * [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/) - ロベール
-* [cpprefjp - C++ Reference Site in Japanese](https://sites.google.com/site/cpprefjp/)
-* [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.com/cpp-book/C++11-Syntax-and-Feature.xhtml)
+* [cpprefjp - C++ Reference Site in Japanese](http://cpprefjp.github.io/)
+* [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.com/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
 * [Google C++スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/cppguide.xml) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, Takashi Sasai(翻訳)
 * [Standard Template Library プログラミング](http://episteme.wankuma.com/stlprog/) - επιστημη
 

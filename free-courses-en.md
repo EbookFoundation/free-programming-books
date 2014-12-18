@@ -14,6 +14,7 @@
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Scala](#scala)
 * [Swift](#swift)
 * [Web Development](#web-development)
 
@@ -94,6 +95,11 @@
 
 ### Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+
+
+### Scala
+* [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
+* [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
 
 
 ### Swift

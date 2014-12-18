@@ -1458,6 +1458,7 @@ See also [TeX](#tex)
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) (2.5 - 2.6)
 * [Learning to Program](http://www.freenetpages.co.uk/hp/alan.gauld/) (2.3)
 * [Learning to Program with Python](http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) (3.2)
+* [Learn Python, Break Python](http://learnpythonbreakpython.com)
 * [Learn Python in Y minutes](http://learnxinyminutes.com/docs/python/)
 * [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)

@@ -706,6 +706,7 @@
 * [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
+* [Programming in C - Bharat Kinariwala & Tep Dobry](http://ee.hawaii.edu/~tep/EE160/Book/PDF/)
 
 
 ### C Sharp

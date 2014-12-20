@@ -32,6 +32,7 @@
 * [Swift](#swift)
 * [Vim](#vim)
 * [Visual Prolog](#visual-prolog)
+* [Web](#web)
 
 
 ### 语言无关
@@ -169,6 +170,7 @@
 ### PHP
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
+* [Symfony2 实例教程](http://wusuopu.gitbooks.io/symfony2_tutorial/content)
 
 
 ### Python
@@ -213,6 +215,7 @@
 ### Shell
 * [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+* [The Linux Command Line 中文版](http://billie66.github.io/TLCL/book/zh)
 
 
 ### Swift
@@ -226,3 +229,7 @@
 ### Visual Prolog
 * [Visual Prolog 7初学指南](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog_in_Chinese)
 * [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
+
+
+### Web
+* [HTTP 下午茶](http://happypeter.github.io/tealeaf-http)

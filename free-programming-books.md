@@ -712,6 +712,7 @@
 ### C Sharp
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
 * [C# Programming - Wikibook](http://en.wikibooks.org/wiki/C_Sharp_Programming)
+* [C# Absolute Beginner - Videos] (http://www.microsoftvirtualacademy.com/training-courses/c-fundamentals-for-absolute-beginners?prid=ch9courselink)
 * [C# Yellow Book](http://www.csharpcourse.com/) (intro to programming)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
@@ -1806,6 +1807,7 @@ See also [LaTeX](#latex)
 
 ### Visual Basic
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
+* [Visual Basic .Net for Absolute Beginners - Videos] (http://channel9.msdn.com/Series/Visual-Basic-Fundamentals-for-Absolute-Beginners)
 
 
 ### Visual Prolog
@@ -1820,6 +1822,9 @@ See also [LaTeX](#latex)
 ### Windows 8
 * [Programming Windows 8 Apps with HTML, CSS, and JavaScript (v1)](http://blogs.msdn.com/b/microsoft_press/archive/2012/10/29/free-ebook-programming-windows-8-apps-with-html-css-and-javascript.aspx)
 * [Programming Windows 8 Apps with HTML, CSS, and JavaScript (v2, incomplete)](http://blogs.msdn.com/b/microsoft_press/archive/2013/10/29/free-ebook-programming-windows-store-apps-with-html-css-and-javascript-second-edition-second-preview.aspx)
+* [Developing for Windows 8 Apps using C# Absolute Beginners - Videos] (http://channel9.msdn.com/Series/Windows-Store-apps-for-Absolute-Beginners-with-C-)
+* 
+* [Developing for Windows 8 Apps using Javascript Absolute Beginners - Videos] (http://channel9.msdn.com/Series/Windows-Store-apps-for-Absolute-Beginners-with-JavaScript)
 
 
 ### Windows Phone

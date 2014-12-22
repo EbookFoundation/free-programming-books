@@ -1,5 +1,6 @@
 ### Index
 * [Android](#android)
+* [Emacs](#emacs)
 * [Javascript](#javascript)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -7,6 +8,9 @@
 
 ### Android
 * [Screencast] - [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics)
+
+### Emacs
+* [Screencast] - [Emacs Rocks!](http://emacsrocks.com/)
 
 ### Javascript
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://screencasts.org/topics/javascript)

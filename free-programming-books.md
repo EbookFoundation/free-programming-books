@@ -943,7 +943,7 @@
 * [Cloudera Impala](http://www.cloudera.com/content/cloudera/en/resources/library/aboutcloudera/cloudera-impala-ebook.html) - John Russel
 * [Hadoop Illuminated](http://hadoopilluminated.com/book.php) - Mark Kerzner & Sujee Maniyam
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
-
+* [Hadoop Definitive Guide](https://github.com/ztianjin/BigData/blob/master/%E4%B9%A6%E7%B1%8D/Hadoop%EF%BC%9AThe%20Definitive%20Guide(3rd,2012.5).pdf) - Tom White
 
 
 ### Haskell

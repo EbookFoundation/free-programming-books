@@ -1143,7 +1143,6 @@ See also [TeX](#tex)
 * [Ad Hoc Data Analysis From The Unix Command Line](http://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
 * [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
 * [Automated Linux From Scratch](http://www.linuxfromscratch.org/alfs/download.html)
-* [Cross Linux From Scratch](http://trac.cross-lfs.org/wiki/download#CurrentStable)
 * [Getting Started with Ubuntu](http://ubuntu-manual.org/)
 * [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
 * [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/index.html)
@@ -1318,8 +1317,6 @@ See also [TeX](#tex)
 
 
 ### Oracle PL/SQL
-* [PL/SQL Language Reference](http://download.oracle.com/docs/cd/E11882_01/appdev.112/e17126/toc.htm)
-* [PL/SQL Packages and Types Reference](http://download.oracle.com/docs/cd/E11882_01/appdev.112/e16760/toc.htm)
 
 
 ### Oracle Server
@@ -1570,11 +1567,7 @@ See also [TeX](#tex)
 
 
 ### Ruby
-* [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-* [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
-* [Ruby Learning](http://rubylearning.com/)
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
-* [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
 * [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read)
 * [I Love Ruby](http://goo.gl/1qrMUN)
@@ -1583,13 +1576,16 @@ See also [TeX](#tex)
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
 * [Practicing Ruby](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts)
+* [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
 * [Read Ruby](http://readruby.io/)
 * [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
+* [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 * [Ruby Koans](http://www.rubykoans.com/)
+* [Ruby Learning](http://rubylearning.com/)
 * [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
+* [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
-* [The Little Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
 
@@ -1795,7 +1791,6 @@ See also [LaTeX](#latex)
 
 ### Vim
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
-* [A guide to getting started with VIM](http://www.integralist.co.uk/posts/a-guide-to-getting-started-with-vim/)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) *(Leanpub, by Tim Ottinger)*

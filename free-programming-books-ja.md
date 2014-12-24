@@ -45,7 +45,6 @@
 * [Maven](#maven)
 * [Mercurial](#mercurial)
 * [ML](#ml)
-* [MySQL](#mysql)
 * [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
@@ -125,10 +124,8 @@
 
 
 #### ソフトウェアアーキテクチャ
-* [Java プログラマのためのデザインパターン入門](http://objectclub.jp/technicaldoc/pattern/DPforJavaProgrammers) - 平鍋健児, 山田健志
 * [ギコ猫とデザインパターン](http://www.hyuki.com/dp/cat_index.html) - 結城浩
 * [サルでもわかる 逆引きデザインパターン](http://www.nulab.co.jp/designPatterns/designPatterns1/designPatterns1-1.html) - Agata Toshitaka
-* [チャートで解るリファクタリング](http://objectclub.jp/technicaldoc/refactoring/u_s_r) - 梅田政利
 * [デザインパターン](http://www.techscore.com/tech/DesignPattern/) - シナジーマーケティング株式会社
 
 
@@ -173,7 +170,6 @@
 
 
 ### AppleScript
-* [AppleScript 最速基本文法マスター](http://mc909j.blogspot.jp/2013/03/applescript.html) - Tsutomu
 * [Applescriptのごく基本的なサンプル](http://www.asahi-net.or.jp/~va5n-okmt/factory/applescript/sample_code/) - Okamoto
 * [Bash でやってることを AppleScript でやろうとするとこうなる](http://qiita.com/mattintosh4/items/353c57ba75eda20af3c4) - id:mattintosh4
 * [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
@@ -277,6 +273,7 @@
 * [Spock Framework リファレンスドキュメント](http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/) - Peter Niederwieser, Kazuki YAMAMOTO
 * [G*ワークショップZ May 2013 - Spockハンズオンの資料](https://github.com/yamkazu/spock-workshop/tree/master/docs) - Kazuki YAMAMOTO
 
+
 ### Haskell
 * [Haskell基礎文法最速マスター](http://d.hatena.ne.jp/ruicc/20100131/1264905896) - id:ruicc
 * [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html) - 広井誠
@@ -360,11 +357,10 @@
 * [Mercurial: The Definitive Guide](http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, 藤原克則(翻訳)
 * [Mercurial チュートリアル hginit.com の和訳](http://d.hatena.ne.jp/mmitou/20100501/1272680474) - Joel Spolsky, id:mmitou(翻訳)
 
+
 ### ML
 * [ATSプログラミング入門](http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS/index.html)
 
-### MySQL
-* [MySQL入門](http://www.ipa.go.jp/files/000018731.pdf) (PDF) - 株式会社 リナックスアカデミー
 
 ### NoSQL
 * [MongoDBの薄い本](http://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) (PDF) - Karl Seguin, 濱野司(翻訳)

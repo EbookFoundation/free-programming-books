@@ -45,7 +45,6 @@
 * [Maven](#maven)
 * [Mercurial](#mercurial)
 * [ML](#ml)
-* [MySQL](#mysql)
 * [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
@@ -65,6 +64,7 @@
 * [Smalltalk](#smalltalk)
 * [SQL(実装非依存)](#sql%e5%ae%9f%e8%a3%85%e9%9d%9e%e4%be%9d%e5%ad%98)
 * [Standard ML](#standard-ml)
+* [Swift](#swift)
 * [Tcl/Tk](#tcltk)
 * [TypeScript](#typescript)
 * [VBA](#vba)
@@ -100,7 +100,6 @@
 * [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/OpenGLES_ProgrammingGuide.pdf) (PDF) - Apple Developer
 * [DirectX を使った初めての Windows ストア アプリの作成](http://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
 * [CUDA プログラミング入門](http://accc.riken.jp/secure/4467/cuda-programming_main.pdf) (PDF) - 青山幸也
-* [OpenGL Programming](http://www.komoto.org/opengl/) - 小本真広
 
 
 #### グラフィックユーザーインターフェイス
@@ -125,10 +124,8 @@
 
 
 #### ソフトウェアアーキテクチャ
-* [Java プログラマのためのデザインパターン入門](http://objectclub.jp/technicaldoc/pattern/DPforJavaProgrammers) - 平鍋健児, 山田健志
 * [ギコ猫とデザインパターン](http://www.hyuki.com/dp/cat_index.html) - 結城浩
 * [サルでもわかる 逆引きデザインパターン](http://www.nulab.co.jp/designPatterns/designPatterns1/designPatterns1-1.html) - Agata Toshitaka
-* [チャートで解るリファクタリング](http://objectclub.jp/technicaldoc/refactoring/u_s_r) - 梅田政利
 * [デザインパターン](http://www.techscore.com/tech/DesignPattern/) - シナジーマーケティング株式会社
 
 
@@ -173,7 +170,6 @@
 
 
 ### AppleScript
-* [AppleScript 最速基本文法マスター](http://mc909j.blogspot.jp/2013/03/applescript.html) - Tsutomu
 * [Applescriptのごく基本的なサンプル](http://www.asahi-net.or.jp/~va5n-okmt/factory/applescript/sample_code/) - Okamoto
 * [Bash でやってることを AppleScript でやろうとするとこうなる](http://qiita.com/mattintosh4/items/353c57ba75eda20af3c4) - id:mattintosh4
 * [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
@@ -183,6 +179,7 @@
 * [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - id:nobuoka
 * [コントリビュータのためのAndroidコードスタイルガイドライン 日本語訳](http://www.textdrop.net/android/code-style-ja.html) - Android Open Source Project, Takashi Sasai(翻訳)
 * [Androidアプリのセキュア設計・セキュアコーディングガイド](http://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
+* [Android Open Text book](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 
 
 ### AWK
@@ -209,9 +206,10 @@
 ### C++
 * [C++入門](http://www.asahi-net.or.jp/~yf8k-kbys/newcpp0.html) - 小林健一郎
 * [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/) - ロベール
-* [cpprefjp - C++ Reference Site in Japanese](https://sites.google.com/site/cpprefjp/)
-* [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.com/cpp-book/C++11-Syntax-and-Feature.xhtml)
+* [cpprefjp - C++ Reference Site in Japanese](http://cpprefjp.github.io/)
+* [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.com/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
 * [Google C++スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/cppguide.xml) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, Takashi Sasai(翻訳)
+* [Standard Template Library プログラミング](http://episteme.wankuma.com/stlprog/) - επιστημη
 
 
 ### CoffeeScript
@@ -275,6 +273,7 @@
 * [Spock Framework リファレンスドキュメント](http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/) - Peter Niederwieser, Kazuki YAMAMOTO
 * [G*ワークショップZ May 2013 - Spockハンズオンの資料](https://github.com/yamkazu/spock-workshop/tree/master/docs) - Kazuki YAMAMOTO
 
+
 ### Haskell
 * [Haskell基礎文法最速マスター](http://d.hatena.ne.jp/ruicc/20100131/1264905896) - id:ruicc
 * [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html) - 広井誠
@@ -290,6 +289,7 @@
 * [初めての iOS アプリケーション](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhone101.pdf) (PDF) - Apple Developer
 * [Cocoa Programming Tips 1001](http://hmdt.jp/tips/cocoa/index.html) - 木下誠
 * [Web API を利用する iOS アプリ作成](https://github.com/hatena/Hatena-Textbook/blob/master/ios-app-development-with-web-api.md) - はてな教科書
+* [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp/) - Clay Allsopp, RubyMotion JP(翻訳)
 
 
 ### Java
@@ -357,11 +357,10 @@
 * [Mercurial: The Definitive Guide](http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, 藤原克則(翻訳)
 * [Mercurial チュートリアル hginit.com の和訳](http://d.hatena.ne.jp/mmitou/20100501/1272680474) - Joel Spolsky, id:mmitou(翻訳)
 
+
 ### ML
 * [ATSプログラミング入門](http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS/index.html)
 
-### MySQL
-* [MySQL入門](http://www.ipa.go.jp/files/000018731.pdf) (PDF) - 株式会社 リナックスアカデミー
 
 ### NoSQL
 * [MongoDBの薄い本](http://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) (PDF) - Karl Seguin, 濱野司(翻訳)
@@ -428,7 +427,7 @@
 * [Python Scientific Lecture Notes (一部翻訳)](http://turbare.net/transl/scipy-lecture-notes/) - 打田旭宏(翻訳)
 * [Notes on scientific computing with python](http://japanichaos.appspot.com/) - 花田康高
 * [pythonで心理実験](http://www.s12600.net/psy/python/) - 十河宏行
-* [Python による日本語自然言語処理](http://nltk.googlecode.com/svn-/trunk/doc/book-jp/ch12.html) - Steven Bird, Ewan Klein, Edward Loper, 萩原正人(翻訳), 中山敬広(翻訳), 水野貴明(翻訳)
+* [Python による日本語自然言語処理](http://www.nltk.org/book-jp/ch12.html) - Steven Bird, Ewan Klein, Edward Loper, 萩原正人(翻訳), 中山敬広(翻訳), 水野貴明(翻訳)
 * [Pythonで音声信号処理](http://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
 * [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp/) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
 * [php プログラマのための Python チュートリアル](http://phpy.readthedocs.org/en/latest/) - INADA Naoki
@@ -502,6 +501,10 @@
 ### Standard ML
 * [プログラミング言語SML#解説](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/1.0/ja/manual.xhtml) - 大堀淳, 上野 雄大
 * [お気楽 Standard ML of New Jersey 入門](http://www.geocities.jp/m_hiroi/func/index.html#sml) - 広井誠
+
+
+### Swift
+* [逆引きSwift(iOS編)](https://sites.google.com/a/gclue.jp/swift-docs/) - 株式会社GClue
 
 
 ### Tcl/Tk

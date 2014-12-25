@@ -12,7 +12,6 @@
 * [Javascript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
-* [Lisp](#lisp)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -63,16 +62,13 @@
 
 
 ### LaTeX
+* [Introduzione all'arte della composizione tipografica con LaTeX - GuIT](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf)
 * [L'arte di scrivere con LaTeX - L. Pantieri e T. Gordini](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf)
 * [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
 
 
 ### Linux
 * [«a2», ex «Appunti di informatica libera», ex «Appunti Linux»](http://archive.org/download/AppuntiDiInformaticaLibera/)
-
-
-### Lisp
-* [Introduzione a Lisp](http://www.matteolucarelli.net/lisp/lispintro.pdf)
 
 
 ### Perl

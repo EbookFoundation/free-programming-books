@@ -16,6 +16,7 @@
 * [Coffeescript](#coffeescript)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
+* [Emacs](#emacs)
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
@@ -132,6 +133,8 @@
 * [Erlang/OTP: Un mundo concurrente](http://erlang-otp.es/)
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) en Wikibooks
 
+### Emacs
+* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/hg/?group=elisp-es)
 
 ### Git
 * [Git Immersion en Español](http://gitimmersion.mx)
@@ -150,6 +153,7 @@
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/pdf/libroJavaConTapa.pdf) (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf), por Jorge L. Ortega Arjona, UNAM (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
+* [PlugIn Tapestry: Desarrollo de aplicaciones y páginas web con Apache Tapestry](http://picodotdev.github.io/blog-bitix/2014/02/libro-sobre-desarrollo-de-aplicaciones-con-apache-tapestry/) ([PDF](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf)) ([EPUB](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub)) ([MOBI](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi))
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
 * [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf) (PDF)
 * [Tutorial Introducción a Maven 3](http://www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)
@@ -177,6 +181,8 @@
 ### LaTeX
 * [La introducción no-tan-corta a LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/spanish)
 
+### Linux
+* [Debian GNU/Linux para administradores] (http://debian-handbook.info/browse/es-ES/stable/)
 
 ### .NET (C# / Visual Studio)
 * [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) (PDF)
@@ -186,7 +192,6 @@
 
 ### PHP
 * [Manual de estudio introductorio al lenguaje PHP procedural](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf)
-* [Manual de PHP (forosdelweb.com)](http://www.forosdelweb.com/wiki/Manual_de_PHP)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)
 * [Silex, el manual oficial](http://librosweb.es/silex/)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
@@ -196,7 +201,6 @@
 ### Python
 * [Aprenda a pensar como un programador (con Python)](http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
-* [El tutorial de Python](http://tutorialpython.com.ar)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
@@ -218,6 +222,7 @@
 ### Ruby
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubysur/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
+* [Ruby tutorial o como pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion)
 
 
 #### Ruby on Rails
@@ -245,4 +250,5 @@
 * [El lenguaje SQL](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02149.pdf)
 * [Manual de gestión de base de datos](http://www.jorgesanchez.net/bd/gbd2012.pdf)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
+
 

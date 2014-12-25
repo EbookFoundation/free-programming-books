@@ -15,6 +15,8 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Html](#html)
+* [Android](#android)
 
 
 ### C
@@ -71,6 +73,14 @@
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
 * [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
+* [Ruby 101](https://www.gitbook.io/book/vigo/ruby-101)
 
 ### Rust
 * [Rust'a Giriş](http://bit.ly/rustagiris)
+
+### Html
+* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
+* [Html'e Giriş](http://www.htmldersleri.org/)
+
+### Android
+* [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)

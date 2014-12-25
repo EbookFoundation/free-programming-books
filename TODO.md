@@ -27,6 +27,7 @@ TODO
     - [ ] pt_PT
     - [x] ru
     - [ ] tr
-    - [ ] zh
+    - [x] zh
     - [ ] javascript framework
-    - [ ] courses
+    - [x] courses
+    - [ ] problem sets

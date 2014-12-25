@@ -92,9 +92,12 @@
 * [Berkeley's Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/~cs61a/)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
+* [Introduction to Computer Science and Programming Using Python (6.00.1x)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0) (MIT via edX)
+* [Introduction to Computational Thinking and Data Science (6.00.2x)](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x) (MIT via edX)
 
 
 ### Ruby
+* [Engineering Software as a Service, Part I](https://www.edx.org/course/engineering-software-service-uc-berkeleyx-cs169-1x) and [Part II](https://www.edx.org/course/engineering-software-service-part-2-uc-berkeleyx-cs169-2x) (UC Berkeley via edX)
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
 
 
@@ -108,4 +111,5 @@
 
 
 ### Web Development
+* [Engineering Software as a Service, Part I](https://www.edx.org/course/engineering-software-service-uc-berkeleyx-cs169-1x) and [Part II](https://www.edx.org/course/engineering-software-service-part-2-uc-berkeleyx-cs169-2x) (Full-stack, Ruby on Rails)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com/)

@@ -46,7 +46,6 @@
 
 #### 操作系统
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
-* [FreeRADIUS新手入门](https://github.com/vhf/free-programming-books/issues/1104)
 
 
 #### 版本控制
@@ -156,7 +155,6 @@
 ### Shell
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
-* [The Linux Command Line Chinese Edition](http://billie66.github.io/TLCL/)
 
 
 ### Vim

@@ -1172,6 +1172,7 @@ See also [TeX](#tex)
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
 * [Linux Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) (PDF) - Ramesh Natarajan
 
 ### Lisp
 * [Basic Lisp Techniques](http://www.franz.com/resources/educational_resources/cooper.book.pdf) - David J. Cooper, Jr.

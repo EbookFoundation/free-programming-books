@@ -10,6 +10,7 @@
 * [Java](#java)
 * [JS](#js)
 * [Matlab](#matlab)
+* [Misc](#misc)
 * [OCaml](#ocaml)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
@@ -55,6 +56,7 @@
 ### HTML / CSS
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
+* [Build Dynamic Websites](http://cs75.tv/2010/fall/)
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
@@ -78,6 +80,24 @@
 
 ### MATLAB
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
+
+
+### Misc
+* [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
+* [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
+* [MIT´s Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+* [Berkeley´s Computer Science 61B](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDXrTvCvDgIkeCWeSIDr4Yh)
+* [Berkeley´s Computer Science  70](https://www.youtube.com/course?list=EC1A2EBAC4283FE3EA)
+* [Berkeley´s Computer Science 162](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCrnl0625nXp4GimjT-cv_1)
+* [Berkeley´s Computer Science 164](https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F&feature=plcp)
+* [Berkeley´s Computer Science 169](https://www.youtube.com/view_play_list?p=-XXv-cvA_iAS_kCeleydK6mDc0kCbdhU)
+* [Berkeley´s Computer Science 194](https://www.youtube.com/view_play_list?p=-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
+* [Berkeley´s Mathematics 10B](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCZ8sTG0pDuBubsDfOFoY2X)
+* [Bits: The Computer Science of Digital Information](http://www.extension.harvard.edu/open-learning-initiative/bits)
+* [Computer Graphics](http://nptel.ac.in/courses/106106090/)
+* [MIT´s Computer Language Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/)
+* [MIT´s Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+* [MIT´s Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 
 ### OCaml

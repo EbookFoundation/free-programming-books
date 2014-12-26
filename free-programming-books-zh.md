@@ -169,12 +169,14 @@
 
 ### PHP
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
+* [PHP5中文手册](http://php.jz123.cn/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [Symfony2 实例教程](http://wusuopu.gitbooks.io/symfony2_tutorial/content)
 
 
 ### Python
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
+* [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
 * [深入 Python](http://woodpecker.org.cn/diveintopython/)
 * [深入 Python 3](http://woodpecker.org.cn/diveintopython3/)
 * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)

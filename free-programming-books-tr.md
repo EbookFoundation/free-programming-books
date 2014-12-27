@@ -13,6 +13,7 @@
 * [Matlab](#matlab)
 * [PHP](#php)
 * [Python](#python)
+* [R] (#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Html](#html)
@@ -63,6 +64,8 @@
 ### PHP
 * [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
 
+### R
+* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk)
 
 ### Python
 * [Python ile Programlama](http://belgeler.istihza.com/py3/)

@@ -520,6 +520,7 @@
 #### Reverse Engineering
 * [Hacking the Xbox: An Introduction to Reverse Engineering](http://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
 * [Reverse Engineering for Beginners](http://beginners.re/) (PDF) - Dennis Yurichev
+* [BIOS Disassembly Ninjutsu Uncovered 1st Edition](http://bioshacking.blogspot.com/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) (PDF) - Darmawan Salihun
 
 
 #### Security

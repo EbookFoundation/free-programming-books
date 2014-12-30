@@ -76,7 +76,7 @@
 
 ### JS
 * [Egghead.io](https://egghead.io/)
-
+* [Eloquent JavaScript - A Modern Introduction to Programming](http://eloquentjavascript.net/)
 
 ### MATLAB
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)

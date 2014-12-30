@@ -1,5 +1,7 @@
 ### Index
 * [Android](#android)
+* [Angular JS](#angularjs)
+* [CSS](#css)
 * [Emacs](#emacs)
 * [Javascript](#javascript)
 * [Python](#python)
@@ -8,6 +10,12 @@
 
 ### Android
 * [Screencast] - [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics)
+
+### AngularJS
+* [Podcast] - [Adventures in Angular - DevChat.tv](http://devchat.tv/adventures-in-angular/)
+
+### CSS
+* [Screencast] - [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)
 
 ### Emacs
 * [Screencast] - [Emacs Rocks!](http://emacsrocks.com/)
@@ -39,3 +47,4 @@
 
 ### Vim
 * [Screencast] - [Free screencasts about the text editor Vim](http://vimcasts.org/)
+

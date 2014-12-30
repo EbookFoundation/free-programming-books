@@ -1,6 +1,7 @@
 ### Index
 * [Assembly](#assembly)
 * [Android](#android)
+* [AngularJS](#angularjs)
 * [C++](#c)
 * [Clojure](#clojure)
 * [Databases](#databases)
@@ -30,6 +31,8 @@
 * [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloud)
 
+### AngularJS
+* [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 ### C++
 * [Google's C++ Course](https://developers.google.com/edu/c++/)

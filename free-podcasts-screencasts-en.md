@@ -1,14 +1,17 @@
 ### Index
 * [Android](#android)
+* [CSS](#css)
 * [Emacs](#emacs)
 * [Javascript](#javascript)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Vim](#vim)
-* [CSS](#css)
 
 ### Android
 * [Screencast] - [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics)
+
+### CSS
+* [Screencast] - [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)
 
 ### Emacs
 * [Screencast] - [Emacs Rocks!](http://emacsrocks.com/)
@@ -41,5 +44,3 @@
 ### Vim
 * [Screencast] - [Free screencasts about the text editor Vim](http://vimcasts.org/)
 
-### CSS
-* [Screencast] - [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)

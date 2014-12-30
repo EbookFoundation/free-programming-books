@@ -1,5 +1,6 @@
 ### Index
 * [Android](#android)
+* [Angular JS](#angular)
 * [CSS](#css)
 * [Emacs](#emacs)
 * [Javascript](#javascript)
@@ -9,6 +10,9 @@
 
 ### Android
 * [Screencast] - [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics)
+
+### Angular JS
+* [Podcast] - [Adventures in Angular - DevChat.tv](http://devchat.tv/adventures-in-angular/)
 
 ### CSS
 * [Screencast] - [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)

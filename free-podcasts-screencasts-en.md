@@ -5,6 +5,7 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Vim](#vim)
+* [CSS](#css)
 
 ### Android
 * [Screencast] - [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics)
@@ -39,3 +40,6 @@
 
 ### Vim
 * [Screencast] - [Free screencasts about the text editor Vim](http://vimcasts.org/)
+
+### CSS
+* [Screencast] - [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)

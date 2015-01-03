@@ -447,6 +447,7 @@
 * [R 言語定義](http://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) (PDF) - R Development Core Team, 間瀬茂(翻訳)
 * [R 基本統計関数マニュアル](http://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) (PDF) - 間瀬茂
 * [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
+* [統計解析ソフトRのスクリプト集](http://psych.educa.nagoya-u.ac.jp/doc/Rscripts_ishii.pdf) (PDF) - 石井秀宗
 * [統計解析フリーソフトRの備忘録](http://cse.naro.affrc.go.jp/takezawa/r-tips.pdf) (PDF) - 竹澤邦夫
 * [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/?page_id=626) (PDF, ePUB) - 小杉考司, 押江隆
 * [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) (PDF) - 中澤港

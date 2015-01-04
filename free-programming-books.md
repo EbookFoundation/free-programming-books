@@ -1546,7 +1546,7 @@ See also [TeX](#tex)
 
 
 ### R
-* [Advanced R Programming](http://adv-r.had.co.nz/)
+* [Advanced R Programming](http://adv-r.had.co.nz/) - Hadley Wickham
 * [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) (PDF) - G. Jay Kerns
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
 * [learnR](https://github.com/renkun-ken/learnR) - (Work in Progress) - Kun Ren
@@ -1554,6 +1554,7 @@ See also [TeX](#tex)
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
 * [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
 * [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html) - John D. Cook
+* [R packages](http://r-pkgs.had.co.nz) - Hadley Wickham
 * [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R Programming](http://en.wikibooks.org/wiki/R_Programming)
 * [R Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) *(Just fill the fields with any values)*

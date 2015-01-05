@@ -98,6 +98,7 @@
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Try jQuery](http://try.jquery.com/)
+* [Functional Programming in Javascript](http://jhusain.github.io/learnrx/)
 
 
 ### Language Agnostic

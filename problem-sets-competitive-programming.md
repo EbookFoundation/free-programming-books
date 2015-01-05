@@ -32,6 +32,7 @@
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
 * [PKU Online Judge](http://poj.org/)
 * [Ponder This!](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/pages/index.html)
+* [ProblemBook.NET](http://problembook.net/content/en/index.html)
 * [Project Euler](https://projecteuler.net/)
 * [Python Practice Projects](http://pythonpracticeprojects.com/)
 * [Sphere Online Judge](http://www.spoj.com/)

@@ -70,6 +70,7 @@
 * [Ассемблер в Linux для программистов C](http://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
+* [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf)
 
 
 ### Bash

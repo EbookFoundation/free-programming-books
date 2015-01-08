@@ -58,7 +58,7 @@
 
 
 ### Project Management
-* [Гибкие методологии разработки](https://dl.dropboxusercontent.com/u/4606839/Гибкие%20методологии%20разработки.pdf)
+* [Гибкие методологии разработки](https://dl.dropboxusercontent.com/u/4606839/Гибкие%20методологии%20разработки.pdf) - Вольфсон Борис
 
 
 #### Programming Paradigms

@@ -1627,6 +1627,7 @@ See also [TeX](#tex)
 ### Rust
 * [Rust by Example](http://rustbyexample.com/)
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
+* [The Rust Programming Language](http://doc.rust-lang.org/book/)
 
 
 ### Sage

@@ -1,5 +1,6 @@
 ## Índice
 * [C](#c)
+* [C#](#CSharp)
 * [Engenharia de software](#engenharia-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
@@ -24,6 +25,10 @@
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
 
+### CSharp
+
+* [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)
+
 ### Engenharia de Software
 #### Metodologias de Desenvolvimento de Software
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
@@ -39,6 +44,7 @@
 
 ### Grunt
 * [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
+* [Grunt - Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 
 ### Haskell
 * [Aprender o Haskell será um grande bem para você(tradução em andamento)](https://github.com/taylorrf/learnhaskell)

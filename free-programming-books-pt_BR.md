@@ -1,6 +1,6 @@
 ## Índice
 * [C](#c)
-* [C#](#CSharp)
+* [C#](#csharp)
 * [Engenharia de software](#engenharia-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)

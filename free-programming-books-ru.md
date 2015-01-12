@@ -57,6 +57,10 @@
 * [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
 
 
+### Project Management
+* [Гибкие методологии разработки](https://dl.dropboxusercontent.com/u/4606839/Гибкие%20методологии%20разработки.pdf) - Вольфсон Борис
+
+
 #### Programming Paradigms
 * [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison
 * [Практика функционального программирования](http://fprog.ru) - журнал
@@ -66,6 +70,7 @@
 * [Ассемблер в Linux для программистов C](http://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
+* [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf)
 
 
 ### Bash

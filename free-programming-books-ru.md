@@ -121,6 +121,7 @@
 ### Haskell
 * [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
 * [О Haskell по-человечески](http://ohaskell.ru/) - Денис Шевченко
+* [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
 
 
 ### LaTeX

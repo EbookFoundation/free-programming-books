@@ -730,7 +730,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [HTTP Programming Recipes for C# Bots](http://www.heatonresearch.com/articles/series/20)
 * [Threading in C#](http://www.albahari.com/threading/)
-
+* [Beginners Guide to C# and the.NET Micro Framework](http://www.ghielectronics.com/downloads/FEZ/Beginners%20guide%20to%20NETMF.pdf)
 
 ### C++
 * [C++ Annotations](http://cppannotations.sourceforge.net/)

@@ -125,6 +125,7 @@
 
 ### LaTeX
 * [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
+* [Компьютерная типография LaTeX](http://www.google.com.ua/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCAQFjAA&url=ftp%3A%2F%2Fftp.tex.ac.uk%2Ftex-archive%2Finfo%2Frussian%2FComputer_Typesetting_Using_LaTeX%2Fctex.pdf&ei=bVO8VLSrDqv5ywOo3oGwDQ&usg=AFQjCNHMHEXDcJmQ-kN2D0DlbRA8upW0ew&sig2=z5sH8zTgdYiQOAE0IyxPCg&bvm=bv.83829542,d.bGQ) - Е. М. Балдин
 
 
 ### Lisp

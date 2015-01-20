@@ -767,6 +767,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [Clojure Cheat Sheet](http://clojure.org/cheatsheet)
 * [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com/)
 * [Clojure in Small Pieces](http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey
 * [Clojure Koans](http://clojurekoans.com/)

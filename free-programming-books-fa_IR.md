@@ -37,3 +37,6 @@
 
 ### مهندسی نرم‌افزار
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
+
+### رایانش ابری
+* [رایانش ابری](http://docs.occc.ir/books/Main%20Book-20110110_2.pdf)

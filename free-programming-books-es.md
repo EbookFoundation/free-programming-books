@@ -242,7 +242,7 @@
 
 
 ### Scala
-* [Escala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) (En proceso)
+* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) (En proceso)
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
 
 

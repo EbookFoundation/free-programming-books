@@ -515,6 +515,7 @@
 #### Regular Expressions
 * [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/) - Zed. A. Shaw
 * [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen
+* [The 30 Minute Regex Tutorial](http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
 
 
 #### Reverse Engineering

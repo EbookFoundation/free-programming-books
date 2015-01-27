@@ -108,7 +108,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Mathematica](#mathematica)
 * [MATLAB](#matlab)
 * [Maven](#maven)
-* [Mercurial](#mercurial)m
+* [Mercurial](#mercurial)
 * [Mercury](#mercury)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)

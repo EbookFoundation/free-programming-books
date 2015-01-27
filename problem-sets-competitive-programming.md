@@ -35,7 +35,7 @@
 * [ProblemBook.NET](http://problembook.net/content/en/index.html)
 * [Project Euler](https://projecteuler.net/)
 * [Python Practice Projects](http://pythonpracticeprojects.com/)
-* [Rosalind](rosalind.info/problems/locations/)
+* [Rosalind](http://rosalind.info/problems/locations/)
 * [Sphere Online Judge](http://www.spoj.com/)
 * [TalentBuddy](http://www.talentbuddy.co/)
 * [Timus Online Judge](http://acm.timus.ru/)

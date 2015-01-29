@@ -695,6 +695,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
+* [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr.
 
 
 ### Basic

@@ -494,6 +494,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Think OS: A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/index.html) (PDF) - Allen B. Downey
 * [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) (PDFs) - Prof. Stewart Weiss
 * [Xv6, a simple Unix-like teaching operating system](http://pdos.csail.mit.edu/6.828/2012/xv6.html) (PDF)
+* [Computer System a Programmer Perspective](http://jarson.asia/resource/CSAPP.pdf) (PDF)
 
 
 #### Parallel Programming

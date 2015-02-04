@@ -18,7 +18,7 @@
 * [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
-
+* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
 
 ## Backbone.js
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
@@ -51,6 +51,7 @@
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [EmberFlare](https://emberflare.com/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
+* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
 
 
 ## Express.js

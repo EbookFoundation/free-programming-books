@@ -1772,7 +1772,7 @@ See also [TeX](#tex)
 ### Swift
 * [The Swift Programming Language](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) (iBook)
 * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) (iBook)
-
+* [Learn Swift](http://www.swift-tutorial.io/learn-swift)
 
 ### Tcl
 * [Tcl Programming](http://en.wikibooks.org/wiki/Programming%3ATcl), by Richard.Suchenwirth, et. al.

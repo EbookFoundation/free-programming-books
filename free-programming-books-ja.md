@@ -164,6 +164,7 @@
 * [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) (PDF) - 遠藤敏夫
 * [ケヴィン・ケリー著作選集　１](http://tatsu-zine.com/books/kk1) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
 * [ケヴィン・ケリー著作選集　２](http://tatsu-zine.com/books/kk2) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
+* [ケヴィン・ケリー著作選集　３](http://tatsu-zine.com/books/kk3) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
 * [青木靖 翻訳集](http://www.aoky.net/) - 青木靖
 * [川合史朗 翻訳集](http://practical-scheme.net/index-j.html) - 川合史朗
 * [オープンソースソフトウェアの育て方](http://producingoss.com/ja/index.html) - Fogel Karl, 高木正弘(翻訳), Yoshinari Takaoka(翻訳)

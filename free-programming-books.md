@@ -144,7 +144,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
-* [Raspberry Pi] (#rpi)
+* [Raspberry Pi] (#raspberry-pi)
 * [REBOL](#rebol)
 * [Ruby](#ruby)
     * [RSpec](#rspec)

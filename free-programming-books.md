@@ -377,7 +377,6 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Linear Algebra: An Introduction to Mathematical Discourse](http://en.wikibooks.org/wiki/Linear_Algebra) - Jim Hefferon
 * [Linear Algebra, Theory And Applications](http://www.math.byu.edu/klkuttle/linearalgebra.pdf) - Kenneth Kuttler
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
-* [Mathematics for Computer Science (November 2013 Version)](https://www.cs.princeton.edu/courses/archive/fall13/cos340/LLM.pdf) (PDF) - Eric Lehman
 * [Notes on Diﬀerential Equations](http://www.math.cornell.edu/~bterrell/dn.pdf) - Robert E. Terrell
 * [Number Theory](http://web.mit.edu/~holden1/www/math/number-theory.pdf) (PDF)
 * [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
@@ -388,6 +387,11 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
+
+#### Mathematics For Computer Science
+
+* [Mathematics for Computer Science (November 2013 Version)](https://www.cs.princeton.edu/courses/archive/fall13/cos340/LLM.pdf) (PDF) - Eric Lehman
+* [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 
 
 #### Misc

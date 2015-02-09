@@ -7,6 +7,7 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Vim](#vim)
+* [Data Mining](#Data Mining)
 
 ### Android
 * [Screencast] - [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics)
@@ -48,3 +49,5 @@
 ### Vim
 * [Screencast] - [Free screencasts about the text editor Vim](http://vimcasts.org/)
 
+### Data Mining
+* [Mining of Massive Datasets] - [Free book and slides](http://www.mmds.org/#book)

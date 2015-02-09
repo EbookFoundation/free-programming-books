@@ -80,6 +80,7 @@
 
 ### JS
 * [Egghead.io](https://egghead.io/)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
 
 
 ### MATLAB

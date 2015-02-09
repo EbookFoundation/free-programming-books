@@ -80,6 +80,8 @@
 
 ### JS
 * [Egghead.io](https://egghead.io/)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Learning Advanced Javascript](http://ejohn.org/apps/learn/)
 
 
 ### MATLAB

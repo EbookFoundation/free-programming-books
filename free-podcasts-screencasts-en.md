@@ -43,8 +43,8 @@
 * [Podcast] - [5by5 - Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
 * [Podcast] - [ENVY LABS - Ruby5](http://ruby5.envylabs.com/)
 * [Podcast] - [Ruby Rogues](http://rubyrogues.com/)
+* [Podcast] - [The Bike Shed](http://bikeshed.fm/)
 * [Podcast] - [The Ruby Show](http://rubyshow.com/)
 
 ### Vim
 * [Screencast] - [Free screencasts about the text editor Vim](http://vimcasts.org/)
-

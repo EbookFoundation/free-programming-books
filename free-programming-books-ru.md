@@ -11,6 +11,7 @@
 * [C++](#c-1)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
+* [Go](#go)
 * [Erlang](#erlang)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -112,6 +113,10 @@
 * [Pro Git](http://git-scm.com/book/ru)
 * [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
+
+
+### Go
+* [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
 
 
 ### Erlang

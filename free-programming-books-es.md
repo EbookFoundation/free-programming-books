@@ -160,6 +160,7 @@
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
 * [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf) (PDF)
 * [Tutorial Introducción a Maven 3](http://www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)
+* [Guía Java para Docentes](http://ignaciolasalvia.com/material/prog1_2013/GuiaJavaparaDocentes2012.pdf) (PDF)
 
 
 ### JavaScript

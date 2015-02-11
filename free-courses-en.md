@@ -30,6 +30,7 @@
 * [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/course/android)
 * [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloud)
+* [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android)
 
 ### AngularJS
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)

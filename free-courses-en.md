@@ -2,7 +2,8 @@
 * [Assembly](#assembly)
 * [Android](#android)
 * [AngularJS](#angularjs)
-* [C++](#c)
+* [C](#c)
+* [C++](#c-1)
 * [Clojure](#clojure)
 * [Databases](#databases)
 * [Haskell](#haskell)
@@ -35,6 +36,9 @@
 ### AngularJS
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
+### C
+* [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
+ 
 ### C++
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)

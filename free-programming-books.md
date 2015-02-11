@@ -646,6 +646,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 ### Arduino
 * [Arduino Programming Notebook](http://www.lulu.com/shop/brian-evans/arduino-programming-notebook/ebook/product-18598708.html) - Brian Evans
 * [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
+* [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
 
 
 ### ASP.NET MVC

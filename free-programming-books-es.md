@@ -231,6 +231,7 @@
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubysur/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
 * [Ruby tutorial o como pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion)
+* [La Guía de Estilos de Ruby](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md)
 
 
 #### Ruby on Rails

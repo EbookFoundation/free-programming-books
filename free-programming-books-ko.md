@@ -6,6 +6,7 @@
 * [JavaScript](#javascript)
     * [Node.js](#nodejs)
 * [LaTeX](#latex)
+* [Ruby](#ruby)
 
 
 ### Assembly Language
@@ -33,6 +34,10 @@
 
 ### LaTeX
 * [The Not So short Introduction to LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/korean)
+
+
+### Ruby
+* [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
 
 
 #### Node.js

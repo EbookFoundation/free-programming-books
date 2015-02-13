@@ -10,7 +10,7 @@ By submitting code you agree to the [LICENSE](https://github.com/vhf/free-progra
 ## All the steps you need
 1. First of all, what you want to add should be actually 'Free'. Don't mistake "An easy link to Download a book" with "Free".
 2. If you don't know how to work with git or github, just simply go to [Wiki: Contribution](https://github.com/vhf/free-programming-books/wiki/Contribution) and read the rest.
-3. We have 3 kinds of lists. Make sure you know where you're adding the link:
+3. We have 5 kinds of lists. Make sure you know where you're adding the link:
     
     + **Books** : PDF, HTML, DJVU, ePub, a gitBook.io based site, a Git repo, etc.
     + **Courses** : A course is a well designed learning material which was made by an organized group and is availabe for a long time where there is no interactive tool embeded in the site. e.g.: [OpenCourseWare](http://ocw.mit.edu/), [PHPAcademy](https://phpacademy.org), etc.

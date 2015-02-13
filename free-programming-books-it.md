@@ -91,6 +91,7 @@
 ### Ruby
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
 * [Ruby User Guide](http://ruby-it.org/rug_it.zip)
+* [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
 
 
 ### Visual Basic

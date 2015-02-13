@@ -23,14 +23,14 @@
 
 
 ### Assembly
-* [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
+* [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 
 
 ### Android
-* [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/course/android)
 * [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloud)
+* [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/course/android)
 * [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android)
 
 ### AngularJS
@@ -63,8 +63,8 @@
 
 ### HTML / CSS
 * [Build a Personal Website with Dash](https://dash.generalassemb.ly/)
-* [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
+* [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
@@ -94,7 +94,6 @@
 ### Misc
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
-* [MIT´s Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 * [Berkeley´s Computer Science 61B](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDXrTvCvDgIkeCWeSIDr4Yh)
 * [Berkeley´s Computer Science  70](https://www.youtube.com/course?list=EC1A2EBAC4283FE3EA)
 * [Berkeley´s Computer Science 162](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCrnl0625nXp4GimjT-cv_1)
@@ -104,9 +103,10 @@
 * [Berkeley´s Mathematics 10B](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCZ8sTG0pDuBubsDfOFoY2X)
 * [Bits: The Computer Science of Digital Information](http://www.extension.harvard.edu/open-learning-initiative/bits)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
+* [MIT´s Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 * [MIT´s Computer Language Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/)
-* [MIT´s Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 * [MIT´s Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [MIT´s Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
 

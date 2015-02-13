@@ -7,6 +7,7 @@
     * [Méthodes de développment](#méthodes-de-développement)
     * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
     * [Théorie des langages](#théorie-des-langages)
+* [Arduino](#arduino)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
 * [Caml](#caml)
@@ -70,6 +71,10 @@
 
 #### Théorie des langages
 * [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) par Université de Bretagne Occidentale
+
+
+### Arduino
+* [Arduino : Premiers pas en informatique embarquée](http://eskimon.fr/ebook-tutoriel-arduino) - Eskimon et olyte
 
 
 ### Assembleur

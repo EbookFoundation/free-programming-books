@@ -23,6 +23,7 @@
     * [Asymptote](#asymptote)
     * [Metapost](#metapost)
     * [PGF/TikZ](#pgftikz)
+* [Lua](#lua)
 * [Lisp](#lisp)
 * [Meteor](#meteor)
 * [Perl](#perl)
@@ -149,6 +150,11 @@ Voir aussi [TeX](#tex)
 
 #### PGF/TikZ
 * [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/), par Gérard Tisseau et Jacques Duma
+
+###Lua
+
+* [Introduction à la programmation Lua](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html)
+* [Lua : le tutoriel](http://wxlua.developpez.com/tutoriels/lua/general/cours-complet/), par Claude Urban
 
 
 ### Lisp

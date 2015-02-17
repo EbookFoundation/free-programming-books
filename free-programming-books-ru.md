@@ -135,6 +135,7 @@
 
 ### Lisp
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
+* [Practical Common Lisp(translation)](http://lisper.ru/pcl)
 
 
 ### MetaPost

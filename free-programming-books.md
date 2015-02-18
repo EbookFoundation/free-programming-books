@@ -516,6 +516,8 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 #### Partial Evaluation
 * [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - (PDF) Jones, Gomard and Sestoft
 
+#### PHP
+* [PHP The Right Way](http://www.phptherightway.com/)
 
 #### Professional Development
 * [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://chimera.labs.oreilly.com/books/1234000001813/index.html) - David H. Hoover and Adewale Oshineye

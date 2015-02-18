@@ -1128,7 +1128,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
-* [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
+* [JavaScript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)
 * [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
 * [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf)

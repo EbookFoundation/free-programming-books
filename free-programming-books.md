@@ -230,6 +230,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
+* [OpenGL](http://www.songho.ca/opengl/index.html): Concepts and illustrations.
 
 
 ### Graphical User Interfaces

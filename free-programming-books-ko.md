@@ -35,6 +35,10 @@
 ### LaTeX
 * [The Not So short Introduction to LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/korean)
 
+### Perl
+* [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
+* [책벌래가 되고픈 어린이 Perl Tutorial](http://eriny.net/p/perl)
+* [Perl : GyparkWiki](http://gypark.pe.kr/wiki/Perl}
 
 ### Ruby
 * [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)

@@ -72,7 +72,8 @@
 * [Tudo sobre Meteor](http://udgwebdev.com/meteor)
 
 ### Php
-* [PHP](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
+* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
+* [PHP Do jeito certo](http://br.phptherightway.com/)
 
 ### LaTeX
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)

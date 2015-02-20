@@ -1,4 +1,4 @@
-Original Contribution by [George Stocker](http://stackoverflow.com/users/16587/george-stocker) on [Stack Overflow](http://stackoverflow.com)
+﻿Original Contribution by [George Stocker](http://stackoverflow.com/users/16587/george-stocker) on [Stack Overflow](http://stackoverflow.com)
 
 Original Source: [Free Programming books](http://stackoverflow.com/revisions/392926/175)
 
@@ -1597,9 +1597,12 @@ See also [TeX](#tex)
 * [How to Design Programs 2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
 * [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
+* [Realm of Racket](http://it-ebooks.info/book/2628/)
+
 
 ### Raspberry Pi
 * [Raspberry Pi Users Guide](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) (PDF) - Eben Upton
+
 
 ### REBOL
 * [Learn REBOL](http://www.lulu.com/shop/nick-antonaccio/learn-rebol/ebook/product-17383182.html) - Nick Antonaccio

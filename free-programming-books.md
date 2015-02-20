@@ -1,4 +1,4 @@
-Original Contribution by [George Stocker](http://stackoverflow.com/users/16587/george-stocker) on [Stack Overflow](http://stackoverflow.com)
+﻿Original Contribution by [George Stocker](http://stackoverflow.com/users/16587/george-stocker) on [Stack Overflow](http://stackoverflow.com)
 
 Original Source: [Free Programming books](http://stackoverflow.com/revisions/392926/175)
 
@@ -636,6 +636,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
 * [Styling Android](http://www.stylingandroid.com/)
 * [TechnoTalkative Android](http://www.technotalkative.com/android/)
+* [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
 
 
 ### APL

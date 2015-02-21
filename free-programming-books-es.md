@@ -230,6 +230,7 @@
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubysur/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
 * [Ruby tutorial o como pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion)
+* [Aprende a Programar con Ruby](http://rubysur.org/aprende.a.programar/)
 
 
 #### Ruby on Rails

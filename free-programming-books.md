@@ -1793,6 +1793,7 @@ See also [LaTeX](#latex)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Unix for Poets](http://www.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
+* [An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/)
 
 
 ### Verilog

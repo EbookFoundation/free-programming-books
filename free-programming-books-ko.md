@@ -37,7 +37,7 @@
 
 ### Perl
 * [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
-* [책벌래가 되고픈 어린이 Perl Tutorial](http://eriny.net/p/perl)
+* [책벌레가 되고픈 어린이 Perl Tutorial](http://eriny.net/p/perl)
 * [Perl : GyparkWiki](http://gypark.pe.kr/wiki/Perl)
 
 ### Ruby

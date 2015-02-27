@@ -39,6 +39,8 @@
 * [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
 * [책벌레가 되고픈 어린이 Perl Tutorial](http://eriny.net/p/perl)
 * [Perl : GyparkWiki](http://gypark.pe.kr/wiki/Perl)
+* [Seoul.pm 펄 크리스마스 달력 #2014 | Seoul.pm Perl Advent Calendar 2014](http://advent.perl.kr/2014/)
+* [Perl 객체지향프로그래밍(OOP)](https://github.com/aero/perl_docs/blob/master/hatena_perl_oop.md) : Hatena-TextBook의 oop-for-perl 문서 한역 by aero
 
 ### Ruby
 * [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)

@@ -25,6 +25,7 @@
     * [node.js](#nodejs)
 * [Java](#java)
 * [LaTeX](#latex)
+* [Linux](#linux)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
     * [MongoDB](#mongodb)

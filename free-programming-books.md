@@ -1820,6 +1820,7 @@ See also [LaTeX](#latex)
 
 
 ### Unix
+* [An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/)
 * [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/) - J. Lions
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)

@@ -1,10 +1,12 @@
 ### Index
+* [Android](#android)
 * [C](#c)
 * [D](#d)
 * [Dart](#dart)
 * [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
+* [Html](#html)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -16,14 +18,15 @@
 * [R] (#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Html](#html)
-* [Android](#android)
+
 
 
 ### C
 * [C Programlama Diline Giris](http://www1.gantep.edu.tr/~bingul/c/index.php)
 * [Sistem Programlama ve İleri C Uygulamaları Kurs Notları](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 
+### Android
+* [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
 
 ### D
 * [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
@@ -31,16 +34,18 @@
 ### Dart
 * [Dart - Merhaba Dünya](http://dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
 
-
 ### Fortran
 * [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php)
-
 
 ### Git
 * [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
 
 ### Go
 * [Go Turu](http://tur.a.golang.org.tr)
+
+### Html
+* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
+* [Html'e Giriş](http://www.htmldersleri.org/)
 
 ### iOS
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios/)
@@ -50,7 +55,6 @@
 
 ### JavaScript
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
-
 
 ### LaTeX
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
@@ -80,10 +84,3 @@
 
 ### Rust
 * [Rust'a Giriş](http://bit.ly/rustagiris)
-
-### Html
-* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
-* [Html'e Giriş](http://www.htmldersleri.org/)
-
-### Android
-* [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)

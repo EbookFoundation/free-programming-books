@@ -19,10 +19,12 @@
 * [Java](#java)
 * [Javascript](#javascript)
 * [jQuery](#jquery)
-* [LaTeX](#latex)
+* [(La)TeX et associés](#latex-et-associés)
+    * [LaTeX](#latex)
     * [Asymptote](#asymptote)
     * [Metapost](#metapost)
     * [PGF/TikZ](#pgftikz)
+    * [TeX](#tex)
 * [Lua](#lua)
 * [Lisp](#lisp)
 * [Meteor](#meteor)
@@ -34,7 +36,6 @@
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
-* [TeX](#tex)
 * [Vim](#vim)
 
 
@@ -129,27 +130,28 @@
 * [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) par Paul Hudak, John Peterson et Joseph Fasel
 
 
-### LaTeX
+### (La)TeX et associés
+
+#### LaTeX
 * [Détecter et résoudre
 les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du LaTeX Companion 2006, par Frank Mittelbach et Michel Goossens, mis à disposition par l'éditeur dans l'onglet « Compléments »
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander/) par Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) par Maïeul Rouquette
 
-Voir aussi [TeX](#tex)
-
-
 #### Asymptote
 * [Asymptote. Démarrage rapide](http://cgmaths.fr/cgFiles/Dem_Rapide.pdf), par Christophe Grospellier
-
 
 #### Metapost
 * [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf), par John D. Hobby
 * [Tracer des graphes avec Metapost](http://melusine.eu.org/syracuse/metapost/f-mpgraph.pdf), par John D. Hobby
 
-
 #### PGF/TikZ
 * [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/), par Gérard Tisseau et Jacques Duma
+
+#### TeX
+
+* [TeX pour l'Impatient](ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
 
 ###Lua
 
@@ -204,13 +206,6 @@ Voir aussi [TeX](#tex)
 
 ### SPIP
 * [Programmer avec SPIP](http://programmer.spip.net/), par Matthieu Marcimat et collectif SPIP
-
-
-### TeX
-* [TeX pour l'Impatient](ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
-
-Voir aussi [LaTeX](#latex)
-
 
 ### Vim
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)

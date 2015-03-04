@@ -534,7 +534,7 @@
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [CryptoParty Handbook](https://www.cryptoparty.in/documentation/handbook)
-
+* [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
 
 #### Software Architecture
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding

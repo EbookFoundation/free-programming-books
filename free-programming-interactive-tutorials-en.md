@@ -93,10 +93,12 @@
 
 ### JavaScript
 * [Codecademy jquery track](http://www.codecademy.com/tracks/jquery)
+* [Javascript Foundations](http://gymnasium.aquent.com/catalog/course/104)
 * [Javascript interactive tutorial](http://www.codecademy.com/tracks/javascript)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)
+* [jQuery Building Blocks](http://gymnasium.aquent.com/catalog/course/102)
 * [Try jQuery](http://try.jquery.com/)
 * [Functional Programming in Javascript](http://jhusain.github.io/learnrx/)
 

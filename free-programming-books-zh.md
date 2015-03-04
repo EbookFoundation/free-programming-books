@@ -173,7 +173,7 @@
 
 ### PHP
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
-* [PHP5中文手册](http://php.jz123.cn/)
+* [PHP5中文手册](http://php.net/manual/zh/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [Symfony2 实例教程](http://wusuopu.gitbooks.io/symfony2_tutorial/content)
 

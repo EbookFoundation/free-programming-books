@@ -1646,6 +1646,7 @@ See also [TeX](#tex)
 
 
 #### Ruby on Rails
+* [Ruby on Rails Guides](http://guides.rubyonrails.org/)
 * [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read)
 * [Learn Ruby on Rails as You Modify a Craigslist Clone](http://www.thinkful.com/learn/ruby-on-rails-tutorial/)

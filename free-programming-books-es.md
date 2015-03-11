@@ -33,7 +33,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Web2py](#web2py)
-* [Perl] (#perl)
+* [Perl](#perl)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [R](#R)

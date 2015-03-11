@@ -33,6 +33,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Web2py](#web2py)
+* [Perl](#perl)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [R](#R)
@@ -222,6 +223,14 @@
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/python-ingenieria)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 * [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
+
+
+### Perl
+* [Tutoriales de Perl](http://perlenespanol.com/tutoriales/)
+* [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) (Universidad de Magallanes, Chile)
+* [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) (TLDP)
+* [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm) (Universidad de Granada, España)
+* [Manual de Perl](http://www6.uniovi.es/perl/tutor/) (Universidad de Oviedo, España)
 
 
 #### Django

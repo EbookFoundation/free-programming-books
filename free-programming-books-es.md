@@ -30,6 +30,7 @@
 * [NoSQL](#nosql)
     * [MongoDB](#mongodb)
 * [PHP](#php)
+* [Perl] (#perl)
 * [Python](#python)
     * [Django](#django)
     * [Web2py](#web2py)
@@ -209,6 +210,14 @@
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
 * [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
 * [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf)
+
+
+### Perl
+* [Tutoriales de Perl](http://perlenespanol.com/tutoriales/)
+* [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf), por Universidad de Magallanes, Chile (PDF)
+* [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf), por TLDP (PDF)
+* [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm), por Universidad de Granada, España
+* [Manual de Perl](http://www6.uniovi.es/perl/tutor/), por Universidad de Oviedo, España
 
 
 ### Python

@@ -10,6 +10,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [CoffeeScript](#coffeescript)
+* [Elasticsearch](#elasticsearch)
 * [Erlang](#erlang)
 * [Fortran](#fortran)
 * [Golang](#golang)
@@ -106,6 +107,8 @@
 * [CoffeeScript 中文手册](http://island205.github.io/tlboc/) (《The Little Book on CoffeeScript》中文版)
 * [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 
+### Elasticsearch
+* [Elasticsearch 权威指南](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
 
 ### Erlang
 * [Erlang 并发编程](https://github.com/liancheng/cpie-cn) (《Concurrent Programming in Erlang (Part I)》中文版)

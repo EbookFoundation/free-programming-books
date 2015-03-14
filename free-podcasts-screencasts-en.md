@@ -29,8 +29,8 @@
 * [Podcast] - [The Javascript Show](http://javascriptshow.com/)
 
 ### PHP
-* [Podcast] - [Voices of the ElePHPant](http://voicesoftheelephpant.com/)
 * [Podcast] - [PHP Town Hall](http://phptownhall.com/)
+* [Podcast] - [Voices of the ElePHPant](http://voicesoftheelephpant.com/)
 
 ### Python
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)

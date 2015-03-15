@@ -4,6 +4,7 @@
 * [CSS](#css)
 * [Emacs](#emacs)
 * [Javascript](#javascript)
+* [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Vim](#vim)
@@ -26,6 +27,10 @@
 * [Screencast] - [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript)
 * [Podcast] - [JavaScript Jabber](http://javascriptjabber.com/)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com/)
+
+### PHP
+* [Podcast] - [PHP Town Hall](http://phptownhall.com/)
+* [Podcast] - [Voices of the ElePHPant](http://voicesoftheelephpant.com/)
 
 ### Python
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)

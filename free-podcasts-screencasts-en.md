@@ -4,7 +4,7 @@
 * [CSS](#css)
 * [Emacs](#emacs)
 * [Javascript](#javascript)
-* [PHP] (#php)
+* [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Vim](#vim)

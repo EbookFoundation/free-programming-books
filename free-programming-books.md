@@ -471,6 +471,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
+* [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
 
 
 #### Open Source Ecosystem

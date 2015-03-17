@@ -47,8 +47,8 @@
 
 
 #### Networking
-* [TCP/IP Крупным планом](http://www.soslan.ru/tcp/)
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) (PDF) - Даниэль Штенберг
+* [TCP/IP Крупным планом](http://www.soslan.ru/tcp/)
 
 
 #### Open Source Ecosytem

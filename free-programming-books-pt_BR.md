@@ -51,10 +51,10 @@
 
 
 ### HTML / CSS
-* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
-* [Dive Into HTML5](http://diveintohtml5.com.br/)
-* [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
 * [Curso de HTML5 em vídeo do Guanabara](http://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
+* [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
+* [Dive Into HTML5](http://diveintohtml5.com.br/)
+* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
 
 
 ### Java
@@ -80,9 +80,9 @@
 
 
 ### Python
-* [Python para Desenvolvedores](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
-* [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 * [Desenvolvimento web com Python e web2py!](https://dl.dropboxusercontent.com/u/830444/apostila_web2py_basico.pdf)
+* [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
+* [Python para Desenvolvedores](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
 
 
 ### RegEx
@@ -91,11 +91,11 @@
 
 ### Ruby
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br)
+* [Conhecendo Ruby](http://howtocode.com.br/ebooks/ruby)
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com/)
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
-* [Conhecendo Ruby](http://howtocode.com.br/ebooks/ruby)
 
 
 

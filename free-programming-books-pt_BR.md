@@ -9,13 +9,13 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [PHP](#php)
 * [LaTeX](#latex)
+* [Lua](#lua)
+* [PHP](#php)
 * [Python](#python)
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
-* [Lua](#lua)
 * [Vim](#vim)
 
 

@@ -71,12 +71,18 @@
 * [Node.js para Leigos](http://udgwebdev.com/nodejs)
 * [Tudo sobre Meteor](http://udgwebdev.com/meteor)
 
-### Php
-* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
-* [PHP Do jeito certo](http://br.phptherightway.com/)
 
 ### LaTeX
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
+
+
+### Lua
+* [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
+
+
+### Php
+* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
+* [PHP Do jeito certo](http://br.phptherightway.com/)
 
 
 ### Python
@@ -101,9 +107,6 @@
 
 ### Shell
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf)
-
-### Lua
-* [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
 
 
 ### Vim

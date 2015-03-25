@@ -100,6 +100,8 @@
 *[Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
 *[Ruby User Guide](http://ruby-it.org/rug_it.zip)
 
+###SuperCollider
+*[Introduzione a SuperCollider](http://maggiolieditore.it/media/ebook/Valle_introSCollider_1068-3.pdf)
 
 ###Visual Basic
 

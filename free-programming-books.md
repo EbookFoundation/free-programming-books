@@ -1084,7 +1084,6 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [JAAS in Action](http://www.jaasbook.com/)
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf) (PDF)
-* [Java for the Beginning Programmer](http://www.heatonresearch.com/articles/series/15)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
 * [Java: A Beginner's Guide](http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf) - Oracle

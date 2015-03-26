@@ -19,6 +19,7 @@
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
+* [Angular Basics](http://www.angularjsbook.com/)
 
 ## Backbone.js
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)

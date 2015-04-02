@@ -1693,7 +1693,6 @@ See also [TeX](#tex)
 * [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
-* [Learning Scala; Jason Swartz; 2014](http://chimera.labs.oreilly.com/books/1234000001798/index.html) + [LearningScalaMaterial](https://github.com/swartzrock/LearningScalaMaterial)
 
 
 #### Lift

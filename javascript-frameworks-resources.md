@@ -1,4 +1,15 @@
-## Angular.js
+### Index
+* [Angular.js](#angularjs)
+* [Backbone.js](#backbonejs)
+* [D3.js](#d3js)
+* [Dojo](#dojo)
+* [Ember.js](#emberjs)
+* [Express.js](#expressjs)
+* [jQuery](#jquery)
+* [Knockout.js](#knockoutjs)
+* [Meteor](#meteor)
+
+### AngularJS
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Angular.js Guide](http://docs.angularjs.org/guide/)
@@ -21,7 +32,7 @@
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
 * [Angular Basics](http://www.angularjsbook.com/)
 
-## Backbone.js
+### BackboneJS
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/)
 * [Backbone.js + Require.js, Modularization and Just in Time Dependency Loading, part 1](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) [part 2](http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep)
@@ -35,18 +46,18 @@
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
 
-## D3.js
+### D3JS
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
 * [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 
-## Dojo
+### Dojo
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
 
 
-## Ember.js
+### EmberJS
 * [Ember 101](http://ember101.com/)
 * [Ember App with RailsApi](http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html)
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
@@ -55,17 +66,17 @@
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
 
 
-## Express.js
+### ExpressJS
 * [Express.js Guide](https://leanpub.com/express/read) *(Leanpub, by Azat Mardanov)*
 
 
-## jQuery
+### jQuery
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
 * [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
-## Knockout.js
+### KnockoutJS
 * [Knockout.js Starter](http://dl.e-book-free.com/2013/07/knockoutjs_starter.pdf)
 * [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * tech.pro: Knockout.js tutorial video series
@@ -85,6 +96,6 @@
     * [Lesson 14 - Adding a lightbox](http://tech.pro/tutorial/1575/knockoutjs-lesson-14-adding-a-lightbox)
     * Lesson 15: Summary of the series (Coming soon...)
 
-## Meteor
+### Meteor
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 * [BulletProof Meteor](https://bulletproofmeteor.com/)

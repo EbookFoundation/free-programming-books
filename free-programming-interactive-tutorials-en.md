@@ -83,6 +83,7 @@
 ### HTML / CSS
 * [Learn HTML & CSS interactively](http://www.codecademy.com/tracks/web)
 * [Prototyping a professional website](http://www.codecademy.com/skills/prototyping)
+* [Learn HTML & CSS by doing beginner projects](https://dash.generalassemb.ly/projects)
 
 
 ### Java

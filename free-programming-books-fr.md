@@ -179,7 +179,7 @@ les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du 
 
 ### Python
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) par Gerard Swinnen
-* [Dropbox a des fuites !Un aperçu de la rétro-ingénierie des programmes Python](http://progdupeu.pl/articles/34/dropbox-a-des-fuites)
+* [Dropbox a des fuites ! Un aperçu de la rétro-ingénierie des programmes Python](http://pdp.microjoe.org/articles/34/dropbox-a-des-fuites)
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) par Guido Van Rossum
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) par Bob Cordeau et Laurent Pointal
 

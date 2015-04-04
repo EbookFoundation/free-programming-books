@@ -458,6 +458,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [edX](https://www.edx.org/)
 * [FutureLearn](https://www.futurelearn.com/)
 * [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
+* [NPTEL](http://nptel.ac.in/courses.php?disciplineId=106)
 * [Udacity](https://www.udacity.com/)
 
 

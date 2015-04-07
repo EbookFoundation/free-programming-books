@@ -1620,6 +1620,7 @@ See also [TeX](#tex)
 ### Ruby
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 * [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
+* [Codewars Ruby](http://www.codewars.com/?language=ruby)
 * [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read)
 * [I Love Ruby](http://goo.gl/1qrMUN)
 * [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by)

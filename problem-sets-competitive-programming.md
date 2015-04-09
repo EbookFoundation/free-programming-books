@@ -32,6 +32,7 @@
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
 * [Hacker.org](http://www.hacker.org/)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
+* [PEG Judge](http://wcipeg.com/)
 * [PKU Online Judge](http://poj.org/)
 * [Ponder This!](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/pages/index.html)
 * [ProblemBook.NET](http://problembook.net/content/en/index.html)

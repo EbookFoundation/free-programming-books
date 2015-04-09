@@ -1,4 +1,5 @@
 ## Índice
+* [AngularJS](#angularjs)
 * [C](#c)
 * [C#](#csharp)
 * [Engenharia de software](#engenharia-de-software)
@@ -18,6 +19,9 @@
 * [Shell Script](#shell)
 * [Vim](#vim)
 
+
+### AngularJS
+* [Curso de AngularJS do Rodrigo Branas](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb).
 
 ### C
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.

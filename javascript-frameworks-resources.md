@@ -21,10 +21,6 @@
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
 * [Angular Basics](http://www.angularjsbook.com/)
 
-## Booty5.js
-* [The Booty5 HTML5 Game Maker Manual](http://booty5.com/booty5-free-html-game-maker-e-book-manual/)
-
-
 ## Backbone.js
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/)

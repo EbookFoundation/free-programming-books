@@ -43,7 +43,7 @@
 
 
 ### Pascal
-* [Tutorial de Pascal](http://www.portugal-a-programar.pt/files/file/6-tutorial-de-pascal/) Portugal a Programar
+* [Tutorial de Pascal](http://www.portugal-a-programar.pt/files/file/6-tutorial-de-pascal/)
 
 ### Prolog
 * [Lógica Computacional (com Prolog)](http://www3.di.uminho.pt/~mjf/pub/LC-Prolog.pdf) (PDF) - Maria João Frade

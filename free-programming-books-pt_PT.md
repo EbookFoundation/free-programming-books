@@ -35,5 +35,5 @@
 * [Lógica Computacional (com Prolog)](http://www3.di.uminho.pt/~mjf/pub/LC-Prolog.pdf) (PDF) - Maria João Frade
  
 
-### SQL/ORACLE
+### SQL ORACLE
 * [Introdução às Bases de Dados Oracle](https://drive.google.com/open?id=0BwhtSmnYpzLdRG9sdTNXVFp4Tzg&authuser=0) (PDF) - Pedro Bizarro, Universidade de Coimbra, 2008

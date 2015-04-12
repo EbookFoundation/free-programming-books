@@ -3,6 +3,7 @@
 * [Angular JS](#angularjs)
 * [CSS](#css)
 * [Emacs](#emacs)
+* [Language Agnostic](#language-agnostic)
 * [Javascript](#javascript)
 * [PHP](#php)
 * [Python](#python)
@@ -27,6 +28,9 @@
 * [Screencast] - [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript)
 * [Podcast] - [JavaScript Jabber](http://javascriptjabber.com/)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com/)
+
+### Language Agnostic
+* [Podcast] - [Full Stack Radio](http://fullstackradio.com/)
 
 ### PHP
 * [Podcast] - [PHP Town Hall](http://phptownhall.com/)

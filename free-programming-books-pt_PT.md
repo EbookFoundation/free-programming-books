@@ -5,6 +5,7 @@
   * [Haskell](#haskell)
   * [Java](#java)
   * [LaTeX](#latex)
+  * [Pascal](#pascal)
   * [Prolog](#prolog)
   * [SQL/ORACLE](#sqloracle)
 
@@ -33,6 +34,9 @@
 * [Uma não tão pequena introdução ao LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/portuguese)
 * [Uma não tão pequena introdução ao LaTeX](http://alfarrabio.di.uminho.pt/~albie/lshort/pt-lshort.pdf) (PDF) - Tradução de Alberto Simões
 
+
+### Pascal
+* [Tutorial de Pascal](http://www.portugal-a-programar.pt/files/file/6-tutorial-de-pascal/) Portugal a Programar
 
 ### Prolog
 * [Lógica Computacional (com Prolog)](http://www3.di.uminho.pt/~mjf/pub/LC-Prolog.pdf) (PDF) - Maria João Frade

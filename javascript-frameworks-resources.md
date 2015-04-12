@@ -35,6 +35,10 @@
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
 
+## Booty5.js
+* [The Booty5 HTML5 Game Maker Manual](http://booty5.com/booty5-free-html-game-maker-e-book-manual/)
+
+
 ## D3.js
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
 * [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)

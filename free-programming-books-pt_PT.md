@@ -8,10 +8,13 @@
   * [Prolog](#prolog)
   * [SQL/ORACLE](#sqloracle)
 
+
 ## Livros
 ### C/C++
 * [Apontamentos de Programação em C/C++](http://www.dei.isep.ipp.pt/~pbsousa/aulas/ano_0/2006_07/c/Sebenta-cpp-03-2006.pdf) (PDF) - Paulo Baltarejo e Jorge Santos
 * [C++ como uma linguagem de programação orientada a objectos](https://drive.google.com/open?id=0BwhtSmnYpzLdMEFrbDJsMDFDRFU&authuser=0) (PDF) - Autor desconhecido
+* [Programação em C](http://www.portugal-a-programar.pt/files/file/22-sebenta-programacao-em-c-ipvc-estg/) 
+ 	* Sebenta de Filipe Marques, ESTG-IPVC
 
 
 ### CSS

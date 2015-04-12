@@ -5,6 +5,7 @@
   * [Haskell](#haskell)
   * [Java](#java)
   * [LaTeX](#latex)
+  * [MATLAB](#matlab)
   * [Pascal](#pascal)
   * [Prolog](#prolog)
   * [SQL/ORACLE](#sqloracle)
@@ -33,6 +34,12 @@
 ### LaTeX
 * [Uma não tão pequena introdução ao LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/portuguese)
 * [Uma não tão pequena introdução ao LaTeX](http://alfarrabio.di.uminho.pt/~albie/lshort/pt-lshort.pdf) (PDF) - Tradução de Alberto Simões
+
+
+### MATLAB
+* [Apontamentos de MATLAB](http://www.portugal-a-programar.pt/files/file/43-apontamentos-de-matlab-feup/)
+* [Iniciação ao MATLAB](http://www.portugal-a-programar.pt/files/file/42-iniciacao-ao-matlab-u-minho/)
+* [MATLAB num Instante](http://www.portugal-a-programar.pt/files/file/41-matlab-num-instante-u-aveiro/)
 
 
 ### Pascal

@@ -1,6 +1,6 @@
 ### Index
 * [Metalistas](#metalistas)
-* [Agnósticos](#agnosticos)
+* [Agnósticos](#agn%C3%B3sticos)
     * [Algoritmos y Estructuras de Datos](#algoritmos)
     * [Base de Datos](#base-de-datos)
     * [Ciencia Computacional](#ciencia-computacional)
@@ -16,6 +16,7 @@
 * [Coffeescript](#coffeescript)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
+* [Emacs](#emacs)
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
@@ -24,8 +25,12 @@
     * [node.js](#nodejs)
 * [Java](#java)
 * [LaTeX](#latex)
+* [Linux](#linux)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
+* [NoSQL](#nosql)
+    * [MongoDB](#mongodb)
 * [PHP](#php)
+* [Perl] (#perl)
 * [Python](#python)
     * [Django](#django)
     * [Web2py](#web2py)
@@ -42,7 +47,7 @@
 * [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
 
 
-### Agnosticos
+### Agnósticos
 #### Algoritmos
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Análisis de Algoritmos](http://docencia.izt.uam.mx/pece/pagina_academica/AA/indexa.html)
@@ -78,7 +83,7 @@
 * [Diseño Ágil con TDD](http://www.dirigidoportests.com/el-libro)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
-* [Scrum y XP desde la trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
+* [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 * [Scrum & Extreme Programming (para programadores)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
 
 
@@ -124,7 +129,7 @@
 
 
 ### Ensamblador
-* [Codigo de Maquina para Principiantes](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF), Lisa Watts y Mike Wharton [Z80 and 6502 CPUs]
+* [Código de Máquina para Principiantes](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF), Lisa Watts y Mike Wharton [Z80 and 6502 CPUs]
 * [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)
 
 
@@ -132,6 +137,8 @@
 * [Erlang/OTP: Un mundo concurrente](http://erlang-otp.es/)
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) en Wikibooks
 
+### Emacs
+* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/hg/?group=elisp-es)
 
 ### Git
 * [Git Immersion en Español](http://gitimmersion.mx)
@@ -149,10 +156,13 @@
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com/)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/pdf/libroJavaConTapa.pdf) (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf), por Jorge L. Ortega Arjona, UNAM (PDF)
+* [OCPJP6 Resumen Español](https://github.com/PabloReyes/ocpjp-resumen-espanol), por Pablo Reyes Almagro (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
+* [PlugIn Tapestry: Desarrollo de aplicaciones y páginas web con Apache Tapestry](http://picodotdev.github.io/blog-bitix/2014/02/libro-sobre-desarrollo-de-aplicaciones-con-apache-tapestry/) ([PDF](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf)) ([EPUB](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub)) ([MOBI](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi))
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
 * [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf) (PDF)
 * [Tutorial Introducción a Maven 3](http://www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)
+* [Guía Java para Docentes](http://ignaciolasalvia.com/material/prog1_2013/GuiaJavaparaDocentes2012.pdf) (PDF)
 
 
 ### JavaScript
@@ -179,26 +189,40 @@
 
 ### Linux
 * [Debian GNU/Linux para administradores] (http://debian-handbook.info/browse/es-ES/stable/)
+* [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html)
+* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) en WikiBooks
+* [BASH Scripting Avanzado: Utilizando declare para definición de tipo](http://library.originalhacker.org/biblioteca/articulo/ver/123)
 
 ### .NET (C# / Visual Studio)
 * [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) (PDF)
 * [Guía de Arquitectura N-capas Orientadas al Dominio](http://msdn.microsoft.com/es-es/architecture/default.aspx)
 
 
+### NoSQL
+* MongoDB
+    * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book)
+
 
 ### PHP
 * [Manual de estudio introductorio al lenguaje PHP procedural](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf)
-* [Manual de PHP (forosdelweb.com)](http://www.forosdelweb.com/wiki/Manual_de_PHP)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)
 * [Silex, el manual oficial](http://librosweb.es/silex/)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
 * [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
+* [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf)
+
+
+### Perl
+* [Tutoriales de Perl](http://perlenespanol.com/tutoriales/)
+* [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf), por Universidad de Magallanes, Chile (PDF)
+* [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf), por TLDP (PDF)
+* [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm), por Universidad de Granada, España
+* [Manual de Perl](http://www6.uniovi.es/perl/tutor/), por Universidad de Oviedo, España
 
 
 ### Python
 * [Aprenda a pensar como un programador (con Python)](http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
-* [El tutorial de Python](http://tutorialpython.com.ar)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
@@ -220,6 +244,8 @@
 ### Ruby
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubysur/aprende.a.programar)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
+* [Ruby tutorial o como pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion)
+* [La Guía de Estilos de Ruby](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md)
 
 
 #### Ruby on Rails
@@ -229,17 +255,17 @@
 
 ### R
 * [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf)
-* [Generacion automatica de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf)
+* [Generacion automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf)
 * [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf)
 * [Introducción a R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
 * [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf)
-* [Metodos Estadisticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf)
-* [Optimización Matemática con R: Volumen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf)
+* [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf)
+* [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf)
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
 
 
 ### Scala
-* [Escala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) (En proceso)
+* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) (En proceso)
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
 
 

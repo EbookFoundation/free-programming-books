@@ -33,3 +33,10 @@
 * [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf)
 * [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf)
 * [موضعات ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf)
+
+
+### مهندسی نرم‌افزار
+* [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
+
+### رایانش ابری
+* [رایانش ابری](http://docs.occc.ir/books/Main%20Book-20110110_2.pdf)

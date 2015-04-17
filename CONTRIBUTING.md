@@ -10,11 +10,13 @@ By submitting code you agree to the [LICENSE](https://github.com/vhf/free-progra
 ## All the steps you need
 1. First of all, what you want to add should be actually 'Free'. Don't mistake "An easy link to Download a book" with "Free".
 2. If you don't know how to work with git or github, just simply go to [Wiki: Contribution](https://github.com/vhf/free-programming-books/wiki/Contribution) and read the rest.
-3. We have 3 kinds of lists. Make sure you know where you're adding the link:
+3. We have 5 kinds of lists. Make sure you know where you're adding the link:
     
     + **Books** : PDF, HTML, DJVU, ePub, a gitBook.io based site, a Git repo, etc.
     + **Courses** : A course is a well designed learning material which was made by an organized group and is availabe for a long time where there is no interactive tool embeded in the site. e.g.: [OpenCourseWare](http://ocw.mit.edu/), [PHPAcademy](https://phpacademy.org), etc.
     + **Interactive Tutorials** : An application which helps you learn, by actually typing syntax. e.g.: [Codecademy](http://www.codecademy.com/), [Try Github](http://try.github.io/), etc.
+    + **Javascript Resources** : Resources for learning a Javascript Framework
+    + **Problem Sets & Competetitive Programming** : Challenges/problems, where you can prove your programming skills for yourself or against others
 
 4. We prefer small commits rather than one large commit in a pull request. If you don't have the time to make small commit, add an issue with all the links included and we'll add them for you.
 5. Use our standard for formatting the .md file. Check it out: [Formatting](#formatting)

@@ -1,3 +1,33 @@
+### Index
+* [Bash](#bash)
+* [C](#c)
+* [C#](#c-sharp)
+* [C++](#c-1)
+* [Clojure](#clojure)
+* [CoffeeScript](#coffeescript)
+* [Erlang](#erlang)
+* [F#](#f-sharp)
+* [Git](#git)
+* [Go](#go)
+* [Haskell](#haskell)
+* [HTML / CSS](#html--css)
+* [Java](#java)
+* [Javascript](#javascript)
+* [Language Agnostic](#language-agnostic)
+* [Lisp](#lisp)
+* [MATLAB](#matlab)
+* [Node](#node)
+* [NoSQL](#nosql)
+* [Objective-C](#objective-c)
+* [Ocaml](#ocaml)
+* [PHP](#php)
+* [Python](#python)
+* [R](#r)
+* [Ruby](#ruby)
+* [Scala](#scala)
+* [Vim](#vim)
+
+
 ### Bash
 * [Learn Shell Programming](http://www.learnshell.org)
 
@@ -6,11 +36,16 @@
 * [Learn C](http://www.learn-c.org/)
 
 
-### C#
+### C Sharp
 * [Learn C#](http://www.learncs.org/)
 
 
+### C++
+* [CppKoans](https://github.com/torbjoernk/CppKoans)
+
+
 ### Clojure
+* [4Clojure - Koans](https://www.4clojure.com/)
 * [Clojure Koans](http://clojurekoans.com/)
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
 * [Try Clojure](http://tryclj.com/)
@@ -25,7 +60,7 @@
 * [Try Erlang](http://www.tryerlang.org/)
 
 
-### F#
+### F Sharp
 * [Try F#](http://www.tryfsharp.org/)
 
 
@@ -45,23 +80,32 @@
 * [Try Haskell!](http://tryhaskell.org/)
 
 
-### HTML&CSS
+### HTML / CSS
+* [Learn by doing beginner projects](https://dash.generalassemb.ly/projects)
 * [Learn HTML & CSS interactively](http://www.codecademy.com/tracks/web)
 * [Prototyping a professional website](http://www.codecademy.com/skills/prototyping)
 
 
 ### Java
 * [CodingBat code practice](http://codingbat.com/java)
+* [Learneroo Java tutorial](http://www.learneroo.com/modules/11)
 * [Learn Java](http://www.learnjavaonline.org/)
 
 
 ### JavaScript
 * [Codecademy jquery track](http://www.codecademy.com/tracks/jquery)
-* [Javascript interactive tutorial](http://www.codecademy.com/tracks/javascript)
+* [Javascript interactive tutorial on CodeCademy](http://www.codecademy.com/tracks/javascript)
+* [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Try jQuery](http://try.jquery.com/)
+* [Functional Programming in Javascript](http://jhusain.github.io/learnrx/)
+
+
+### Language Agnostic
+* [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
+* [Codility](https://codility.com/programmers/)
 
 
 ### Lisp
@@ -78,6 +122,7 @@
 
 ### NoSQL
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
+* [Try MongoDB](http://try.mongodb.org/)
 * [Try Redis](http://try.redis.io/)
 
 
@@ -104,6 +149,10 @@
 
 ### R
 * [Try R](http://tryr.codeschool.com)
+
+
+### Racket
+* [Try Racket](http://try-racket.org/)
 
 
 ### Ruby

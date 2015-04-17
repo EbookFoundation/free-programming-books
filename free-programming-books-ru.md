@@ -11,6 +11,7 @@
 * [C++](#c-1)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
+* [Go](#go)
 * [Erlang](#erlang)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -46,6 +47,7 @@
 
 
 #### Networking
+* [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) (PDF) - Даниэль Штенберг
 * [TCP/IP Крупным планом](http://www.soslan.ru/tcp/)
 
 
@@ -57,6 +59,10 @@
 * [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
 
 
+### Project Management
+* [Гибкие методологии разработки](https://dl.dropboxusercontent.com/u/4606839/Гибкие%20методологии%20разработки.pdf) - Вольфсон Борис
+
+
 #### Programming Paradigms
 * [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison
 * [Практика функционального программирования](http://fprog.ru) - журнал
@@ -66,6 +72,7 @@
 * [Ассемблер в Linux для программистов C](http://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
+* [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf)
 
 
 ### Bash
@@ -109,6 +116,10 @@
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 
 
+### Go
+* [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
+
+
 ### Erlang
 * [Программирование на Эрланге](https://github.com/dyp2000/Russian-Armstrong-Erlang) - Джо Армстронг
 
@@ -116,6 +127,7 @@
 ### Haskell
 * [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
 * [О Haskell по-человечески](http://ohaskell.ru/) - Денис Шевченко
+* [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
 
 
 ### LaTeX
@@ -124,6 +136,7 @@
 
 ### Lisp
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
+* [Practical Common Lisp(translation)](http://lisper.ru/pcl/)
 
 
 ### MetaPost
@@ -153,6 +166,7 @@
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
+* [Problem Solving with Algorithms and Data Structures](http://aliev.me/runestone/)
 
 
 ### PostgreSQL

@@ -592,6 +592,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 
 #### Standards
 * [UNIX - The POSIX Standard - IEEE Std 1003.1](https://github.com/g-nix/posix-standard)
+* [Linux Standard Base](http://refspecs.linuxfoundation.org/lsb.shtml)
 
 
 #### Theoretical Computer Science

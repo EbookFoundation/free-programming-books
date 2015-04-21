@@ -62,6 +62,7 @@
 
 
 ### LaTeX
+* [Appunti di programmazione in LaTeX e TeX - Enrico Gregorio](http://profs.sci.univr.it/~gregorio/introtex.pdf)
 * [Introduzione all'arte della composizione tipografica con LaTeX - GuIT](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf)
 * [L'arte di scrivere con LaTeX - L. Pantieri e T. Gordini](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf)
 * [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
@@ -91,6 +92,7 @@
 ### Ruby
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
 * [Ruby User Guide](http://ruby-it.org/rug_it.zip)
+* [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
 
 
 ### Visual Basic

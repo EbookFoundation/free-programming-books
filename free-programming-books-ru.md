@@ -11,6 +11,7 @@
 * [C++](#c-1)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
+* [Go](#go)
 * [Erlang](#erlang)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -46,6 +47,7 @@
 
 
 #### Networking
+* [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) (PDF) - Даниэль Штенберг
 * [TCP/IP Крупным планом](http://www.soslan.ru/tcp/)
 
 
@@ -114,6 +116,10 @@
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 
 
+### Go
+* [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
+
+
 ### Erlang
 * [Программирование на Эрланге](https://github.com/dyp2000/Russian-Armstrong-Erlang) - Джо Армстронг
 
@@ -130,6 +136,7 @@
 
 ### Lisp
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
+* [Practical Common Lisp(translation)](http://lisper.ru/pcl/)
 
 
 ### MetaPost

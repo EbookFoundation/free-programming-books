@@ -22,6 +22,7 @@
 ### Agnostico
 #### Metodologie di sviluppo del software
 * [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
+* [Programmazione Funzionale] (http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
 
 
 #### Algoritmi e Strutture Dati

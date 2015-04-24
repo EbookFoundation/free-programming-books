@@ -253,6 +253,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
+* [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures and Algorithms: Annotated Reference with Examples](https://drive.google.com/file/d/0B48k2jhdQ5P2aVlmMFB1UUJLczA/edit?usp=sharing)
 * [Data Structures Succinctly Part 1, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Data Structures Succinctly Part 2, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -502,6 +503,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 
 #### Operating systems
 * [How to Make a Computer Operating System (Work in Progress)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+* [Operating Systems](http://www.cse.iitd.ernet.in/~suban/csl373/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) (PDF) - Dominic Giampaolo
@@ -606,6 +608,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Building Blocks for Theoretical Computer Science](http://www.cs.uiuc.edu/~mfleck/building-blocks/index.html) - Margaret M. Fleck
 * [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
+* [Introduction to Computer Science](http://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
 * [Introduction to Computing](http://www.computingbook.org/)
 * [Introduction to Theory of Computation](http://cg.scs.carleton.ca/~michiel/TheoryOfComputation/) (PDF) - Anil Maheshwari and Michiel Smid
 * [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage

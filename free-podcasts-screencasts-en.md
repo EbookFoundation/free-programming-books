@@ -3,7 +3,9 @@
 * [Angular JS](#angularjs)
 * [CSS](#css)
 * [Emacs](#emacs)
+* [Language Agnostic](#language-agnostic)
 * [Javascript](#javascript)
+* [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Vim](#vim)
@@ -27,6 +29,13 @@
 * [Podcast] - [JavaScript Jabber](http://javascriptjabber.com/)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com/)
 
+### Language Agnostic
+* [Podcast] - [Full Stack Radio](http://fullstackradio.com/)
+
+### PHP
+* [Podcast] - [PHP Town Hall](http://phptownhall.com/)
+* [Podcast] - [Voices of the ElePHPant](http://voicesoftheelephpant.com/)
+
 ### Python
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
 * [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
@@ -43,8 +52,8 @@
 * [Podcast] - [5by5 - Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
 * [Podcast] - [ENVY LABS - Ruby5](http://ruby5.envylabs.com/)
 * [Podcast] - [Ruby Rogues](http://rubyrogues.com/)
+* [Podcast] - [The Bike Shed](http://bikeshed.fm/)
 * [Podcast] - [The Ruby Show](http://rubyshow.com/)
 
 ### Vim
 * [Screencast] - [Free screencasts about the text editor Vim](http://vimcasts.org/)
-

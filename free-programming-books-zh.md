@@ -10,6 +10,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [CoffeeScript](#coffeescript)
+* [Elasticsearch](#elasticsearch)
 * [Erlang](#erlang)
 * [Fortran](#fortran)
 * [Golang](#golang)
@@ -46,7 +47,7 @@
 * [TeamTreeHouse](http://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [xuetangX](https://www.xuetangx.com/)
-
+* [慕课网](http://www.imooc.com/course/list)(丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源)
 
 #### 软件开发方法
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) (《Functional Programming For The Rest of Us》中文版)
@@ -58,7 +59,7 @@
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 * [鸟哥的 Linux 私房菜 服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)
-
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 #### 版本控制
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -92,6 +93,7 @@
 * [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
 
 
+
 ### C++
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [C++ 基础教程](http://www.prglab.com/cms/)
@@ -105,6 +107,8 @@
 * [CoffeeScript 中文手册](http://island205.github.io/tlboc/) (《The Little Book on CoffeeScript》中文版)
 * [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 
+### Elasticsearch
+* [Elasticsearch 权威指南](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
 
 ### Erlang
 * [Erlang 并发编程](https://github.com/liancheng/cpie-cn) (《Concurrent Programming in Erlang (Part I)》中文版)
@@ -130,11 +134,14 @@
 ### HTML / CSS
 * [HTML5 教程](http://www.w3school.com.cn/html5/)
 * [学习 CSS 布局](http://zh.learnlayout.com/)
+* [CSS参考手册](http://css.doyoe.com/)
 
 
 ### Javascript
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [Javascript 原理](http://typeof.net/s/jsmech/)
+* [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
+* [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
 
 ### LaTeX
@@ -169,7 +176,7 @@
 
 ### PHP
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
-* [PHP5中文手册](http://php.jz123.cn/)
+* [PHP5中文手册](http://php.net/manual/zh/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [Symfony2 实例教程](http://wusuopu.gitbooks.io/symfony2_tutorial/content)
 

@@ -81,6 +81,7 @@
 
 
 ### HTML / CSS
+* [Learn by doing beginner projects](https://dash.generalassemb.ly/projects)
 * [Learn HTML & CSS interactively](http://www.codecademy.com/tracks/web)
 * [Prototyping a professional website](http://www.codecademy.com/skills/prototyping)
 
@@ -93,7 +94,8 @@
 
 ### JavaScript
 * [Codecademy jquery track](http://www.codecademy.com/tracks/jquery)
-* [Javascript interactive tutorial](http://www.codecademy.com/tracks/javascript)
+* [Javascript interactive tutorial on CodeCademy](http://www.codecademy.com/tracks/javascript)
+* [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)
@@ -120,6 +122,7 @@
 
 ### NoSQL
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
+* [Try MongoDB](http://try.mongodb.org/)
 * [Try Redis](http://try.redis.io/)
 
 

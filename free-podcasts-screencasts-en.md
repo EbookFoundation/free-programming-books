@@ -1,6 +1,7 @@
 ### Index
 * [Android](#android)
 * [Angular JS](#angularjs)
+* [Node.js](#Nodejs)
 * [CSS](#css)
 * [Emacs](#emacs)
 * [Language Agnostic](#language-agnostic)
@@ -15,6 +16,9 @@
 
 ### AngularJS
 * [Podcast] - [Adventures in Angular - DevChat.tv](http://devchat.tv/adventures-in-angular/)
+
+### Node.js
+* [Podcast] - [Node.js Screencast Series - Tutsowl](http://www.tutsowl.com/)
 
 ### CSS
 * [Screencast] - [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)

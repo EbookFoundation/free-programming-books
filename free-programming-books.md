@@ -76,6 +76,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
     * [Algorithms & Datastructures](#algorithms--data-structures)
     * [Cellular Automata](#cellular-automata)
     * [Cloud Computing](#cloud-computing)
+    * [Competitive Programming](#competitive-programming)
     * [Compiler Design](#compiler-design)
     * [Database](#database)
     * [Datamining](#datamining)
@@ -287,6 +288,10 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 #### Cloud Computing
 * [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
 * [OpenStack Operations Guide](http://docs.openstack.org/ops/)
+
+
+#### Competitive Programming
+* [Competitive Programming](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) (PDF)
 
 
 #### Compiler Design

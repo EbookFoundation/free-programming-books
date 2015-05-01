@@ -39,9 +39,9 @@
 ### PHP
 * [Podcast] - [PHP Town Hall](http://phptownhall.com/)
 * [Podcast] - [Voices of the ElePHPant](http://voicesoftheelephpant.com/)
-* [Podcast] - [PHP Roundtable] (https://www.phproundtable.com/)
-* [Podcast] - [Sound of Symfony] (http://www.soundofsymfony.com/)
-* [Podcast] - [MageTalk - A Magento Podcast] (http://magetalk.com/)
+* [Podcast] - [PHP Roundtable](https://www.phproundtable.com/)
+* [Podcast] - [Sound of Symfony](http://www.soundofsymfony.com/)
+* [Podcast] - [MageTalk - A Magento Podcast](http://magetalk.com/)
 
 ### Python
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)

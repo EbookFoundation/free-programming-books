@@ -25,6 +25,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Scala](#scala)
+* [SQL](#sql)
 * [Vim](#vim)
 
 
@@ -166,6 +167,10 @@
 
 ### Scala
 * [Scala Tour](http://www.scala-tour.com/)
+
+
+### SQL
+* [SQLBolt](http://sqlbolt.com/)
 
 
 ### Vim

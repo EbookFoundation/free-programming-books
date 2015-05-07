@@ -279,6 +279,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [Think Complexity](http://greenteapress.com/complexity/) (PDF)
 * [Handbook of Graph Drawing and Visualization] (https://cs.brown.edu/~rt/gdhandbook/)
+* [Animated Algorithm and Data Structure Visualization](http://visualgo.net/)
 
 
 #### Cellular Automata

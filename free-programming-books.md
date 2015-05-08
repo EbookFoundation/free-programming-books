@@ -1,4 +1,4 @@
-﻿Original Contribution by [George Stocker](http://stackoverflow.com/users/16587/george-stocker) on [Stack Overflow](http://stackoverflow.com)
+Original Contribution by [George Stocker](http://stackoverflow.com/users/16587/george-stocker) on [Stack Overflow](http://stackoverflow.com)
 
 Original Source: [Free Programming books](http://stackoverflow.com/revisions/392926/175)
 
@@ -1726,7 +1726,6 @@ See also [TeX](#tex)
 
 #### Play Scala
 * [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook) - Alvin Alexander
-* [Work with Play: Build web applications using Scala and the Play Framework](http://workwithplay.com/) - Diego Castorina
 
 
 ### Scheme

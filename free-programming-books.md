@@ -1505,6 +1505,8 @@ See also [TeX](#tex)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
 * [Byte of Python](http://www.swaroopch.com/notes/Python) (2.7.x)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+* [CodeCademy Python](http://www.codecademy.com/tracks/python)
+* [Composing Programs](http://composingprograms.com/) (3.x)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/) - Mark Pilgrim (2.3)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
@@ -1538,7 +1540,7 @@ See also [TeX](#tex)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/) (3.3)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf)
 * [Python 2.7 quick reference](http://infohost.nmt.edu/tcc/help/pubs/python/web/) - New Mexico Tech (2.7)
-* [Python Algorithms] (http://kysmykseka.net/koti/wizardry/Programming/Python/Apress%20-%20Python%20Algorithms%20Mastering%20Basic%20Algorithms%20in%20the%20Python%20Language.pdf) (PDF)
+* [Python Algorithms](http://kysmykseka.net/koti/wizardry/Programming/Python/Apress%20-%20Python%20Algorithms%20Mastering%20Basic%20Algorithms%20in%20the%20Python%20Language.pdf) (PDF)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
 * [Python for Econometrics](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf) - Kevin Sheppard (2.7.5)
@@ -1567,9 +1569,6 @@ See also [TeX](#tex)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming) (2.7)
-* [CodeCademy Python](http://www.codecademy.com/tracks/python)
-* [Python for Informatics](http://www.pythonlearn.com/book_007.pdf)
-* [Composing Programs](http://composingprograms.com/) (3.x)
 
 
 #### Django

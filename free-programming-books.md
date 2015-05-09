@@ -511,6 +511,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 
 
 #### Operating systems
+* [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
 * [How to Make a Computer Operating System (Work in Progress)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 * [Operating Systems](http://www.cse.iitd.ernet.in/~suban/csl373/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)

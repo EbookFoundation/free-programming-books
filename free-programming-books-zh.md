@@ -59,7 +59,7 @@
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 * [鸟哥的 Linux 私房菜 服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)
-
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 #### 版本控制
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -164,7 +164,7 @@
 
 ### Node.js
 * [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
-* [The NodeJS 中文](https://www.gitbook.io/book/0532/nodejs)
+* [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details)（社区翻译）
 
 
 ### Perl

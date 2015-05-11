@@ -1,8 +1,10 @@
 ### Index
 * [Android](#android)
 * [Angular JS](#angularjs)
+* [Node.js](#Nodejs)
 * [CSS](#css)
 * [Emacs](#emacs)
+* [Language Agnostic](#language-agnostic)
 * [Javascript](#javascript)
 * [PHP](#php)
 * [Python](#python)
@@ -14,6 +16,9 @@
 
 ### AngularJS
 * [Podcast] - [Adventures in Angular - DevChat.tv](http://devchat.tv/adventures-in-angular/)
+
+### Node.js
+* [Podcast] - [Node.js Screencast Series - Tutsowl](http://www.tutsowl.com/)
 
 ### CSS
 * [Screencast] - [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)
@@ -28,13 +33,21 @@
 * [Podcast] - [JavaScript Jabber](http://javascriptjabber.com/)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com/)
 
+### Language Agnostic
+* [Podcast] - [Full Stack Radio](http://fullstackradio.com/)
+
 ### PHP
 * [Podcast] - [PHP Town Hall](http://phptownhall.com/)
 * [Podcast] - [Voices of the ElePHPant](http://voicesoftheelephpant.com/)
+* [Podcast] - [PHP Roundtable](https://www.phproundtable.com/)
+* [Podcast] - [Sound of Symfony](http://www.soundofsymfony.com/)
+* [Podcast] - [MageTalk - A Magento Podcast](http://magetalk.com/)
 
 ### Python
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
+* [Podcast] - [Podcast.__init__](http://podcastinit.com/)
 * [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
+* [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://www.talkpythontome.com/)
 * [Screencast] - [TheNewBoston - Pygame (Python Game Development) Playlist](http://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq)
 * [Screencast] - [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 * [Screencast] - [TheNewBoston - Python GUI with Tkinter Playlist](http://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)

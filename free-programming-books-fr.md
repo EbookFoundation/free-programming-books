@@ -93,7 +93,6 @@
 
 ### C / C++
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) par Christian Casteyde
-* [Introduction à la rétro-ingénierie de binaires](http://progdupeu.pl/articles/45/introduction-a-la-retro-ingenierie-de-binaires), à partir de code C compilé pour x86.
 * [Le C en 20 heures](http://framabook.org/6-le-c-en-20-heures/), par Eric Berthomier et Daniel Schang
 
 
@@ -112,7 +111,6 @@
 
 
 ### Java
-* [Initiation à la programmation (en Java)](https://www.coursera.org/course/intro-java-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Play.Rules!](http://3monkeys.github.io/play.rules/)
 
@@ -163,6 +161,7 @@ les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du 
 
 ### Meteor
 * [Apprendre Meteor](http://mquandalle.gitbooks.io/apprendre-meteor/), par Maxime Quandalle
+* [Discover Meteor](http://fr.discovermeteor.com/), par Tom Coleman et Sacha Greif
 
 ### Perl
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html), par Sylvain Lhullier

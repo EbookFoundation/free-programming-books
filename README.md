@@ -7,7 +7,7 @@ This list initially was a clone of [stackoverflow - List of Freely Available Pro
 Moved to GitHub for collaborative updating and for the site mentioned above.
 
 ### NEW : Search inside free-programming-books.md (and a whole lot more of learning resources)
-[resrc.io/search](http://resrc.io/search/)
+[resrc.io/page/search](http://resrc.io/page/search)
 
 ### How To Contribute
 It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Please read [CONTRIBUTING](/CONTRIBUTING.md).

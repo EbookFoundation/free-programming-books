@@ -55,6 +55,7 @@
 ### Java
 * [Introduzione a Java](http://www.ateneonline.it/hyperbook/j_book/java2.htm)
 * [Object Oriented && Java 5 (II Edizione) - Claudio De Sio Cesari](http://www.claudiodesio.com/download/oo_&&_java_5.zip)
+* [Java mattone dopo mattone](http://www.simoneercoli.it/wp-content/uploads/2012/12/Java_mattone_dopo_mattone.pdf)
 
 
 ### Javascript

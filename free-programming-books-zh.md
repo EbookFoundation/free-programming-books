@@ -214,6 +214,7 @@
 ### Scala
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)
 * [Scala 课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+* [Scala 初学者指南](https://www.gitbook.com/book/windor/beginners-guide-to-scala/details) (The Neophyte's Guide to Scala)
 
 
 ### Scheme

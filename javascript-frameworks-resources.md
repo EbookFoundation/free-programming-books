@@ -57,6 +57,7 @@
 * [EmberFlare](https://emberflare.com/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
+* [DockYard Ember.js Style Guide](https://github.com/dockyard/styleguides/blob/master/ember.md)
 
 
 ## Express.js

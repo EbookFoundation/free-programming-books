@@ -93,3 +93,6 @@
 ## Meteor
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 * [BulletProof Meteor](https://bulletproofmeteor.com/)
+
+## React
+* [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)

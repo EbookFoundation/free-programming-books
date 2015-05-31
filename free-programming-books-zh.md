@@ -165,6 +165,7 @@
 ### Node.js
 * [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details)（社区翻译）
+* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/) 阿里出品，很好的入门资料
 
 
 ### Perl

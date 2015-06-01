@@ -407,6 +407,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
+* [An Introduction to Statistics](http://work.thaslwanter.at/Stats/html/) (with Python) - Thomas Haslwanter
 
 #### Mathematics For Computer Science
 

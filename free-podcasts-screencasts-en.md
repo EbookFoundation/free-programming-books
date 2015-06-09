@@ -48,8 +48,8 @@
 
 ### Language Agnostic
 * [Podcast] - [Full Stack Radio](http://fullstackradio.com/)
-* [Podcast] - [Programming Throwdown](http://http://www.programmingthrowdown.com/)
-* [Podcast] - [Software Engineering Radio](http://http://www.se-radio.net/)
+* [Podcast] - [Programming Throwdown](http://www.programmingthrowdown.com/)
+* [Podcast] - [Software Engineering Radio](http://www.se-radio.net/)
 
 ### PHP
 * [Podcast] - [PHP Town Hall](http://phptownhall.com/)

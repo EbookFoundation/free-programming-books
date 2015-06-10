@@ -28,7 +28,7 @@
 * [Caribbean Online Judge](http://coj.uci.cu/24h/problems.xhtm)
 * [CheckIO](http://www.checkio.org/)
 * [CodeHunt](https://www.codehunt.com/)
-* [Codibility](https://codility.com/programmers/)
+* [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
 * [Exercism](http://exercism.io/)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)

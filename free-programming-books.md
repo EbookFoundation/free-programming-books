@@ -434,6 +434,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Digital Signal Processing For Communications](http://www.sp4comm.org/)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](http://www.lulu.com/shop/luis-enriquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21371318.html) - Luis A. Enríquez
+* [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
 * [Flow based Programming](http://jpaulmorrison.com/fbp/)
 * [Foundations of Programming](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - Bob Nystrom

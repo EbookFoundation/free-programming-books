@@ -20,6 +20,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
+    * [AngularJS](#angularjs)
     * [D3](#d3js)
     * [jQuery](#jquery)
     * [node.js](#nodejs)
@@ -169,6 +170,10 @@
 * [Introducción a AJAX](http://librosweb.es/ajax/)
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
+
+
+#### AngularJS
+* [Cómo aprender AngularJS](http://raulexposito.com/documentos/como-aprender-angularjs/)
 
 
 #### D3.js

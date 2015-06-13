@@ -1197,6 +1197,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) *(Leanpub, by Nicholas C. Zakas)*
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Exploring ES6](https://leanpub.com/exploring-es6/read) - Dr. Axel Rauschmayer
 
 
 #### Javascript Frameworks

@@ -19,6 +19,7 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [LISP](#lisp)
+* [Lua](#lua)
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [Perl](#perl)
@@ -153,6 +154,10 @@
 ### LISP
 * [ANSI Common Lisp 中文翻译版](http://acl.readthedocs.org/en/latest/)
 * [Common Lisp 高级编程技术](http://www.ituring.com.cn/minibook/862) (《On Lisp》中文版)
+
+
+### Lua
+* [Lua 5.3 参考手册](http://www.w3cschool.cc/manual/lua53doc/contents.html)
 
 
 ### Markdown

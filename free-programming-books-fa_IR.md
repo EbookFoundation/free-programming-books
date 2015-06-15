@@ -6,6 +6,7 @@
 * [LaTeX](#latex)
 * [PHP](#php)
 * [R](#r)
+* [C#](#c-sharp)
 
 
 ### گنو/لینوکس
@@ -40,3 +41,6 @@
 
 ### رایانش ابری
 * [رایانش ابری](http://docs.occc.ir/books/Main%20Book-20110110_2.pdf)
+
+### C Sharp
+* [توسعه چابک در C#](http://agiledevelopment.ir/ebook/)

@@ -40,6 +40,7 @@
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Pro Git](http://git-scm.com/book/pt-br)
+* [Git - guia prático] (http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
 
 ### Grunt

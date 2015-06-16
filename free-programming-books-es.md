@@ -107,7 +107,7 @@
 
 ### Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
-
+*[Curso Android: Todo lo que necesitas para empezar](http://www.maestrosdelweb.com/curso-android/) (HTML) by Adrian Catalán
 
 ### C
 * [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf)

@@ -63,6 +63,7 @@
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/)
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/)
 * [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/)
+* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf)
 
 
 ### JavaScript

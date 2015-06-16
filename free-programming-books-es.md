@@ -215,7 +215,7 @@
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
 * [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
 * [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf)
-
+*[PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/)
 
 ### Perl
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/)

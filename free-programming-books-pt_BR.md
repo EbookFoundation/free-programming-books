@@ -27,7 +27,9 @@
 
 ### CSharp
 
-* [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)
+* [C# e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)
+* [C# e Orientação a Objetos - K19](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k31-csharp-e-orientacao-a-objetos)
+* [Desenvolvimento Web com ASP.NET MVC - K19](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k32-desenvolvimento-web-com-aspnet-mvc)
 
 ### Engenharia de Software
 #### Metodologias de Desenvolvimento de Software

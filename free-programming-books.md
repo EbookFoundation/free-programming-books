@@ -766,6 +766,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [Programming in C - Bharat Kinariwala & Tep Dobry](http://ee.hawaii.edu/~tep/EE160/Book/PDF/)
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
+* [The C Programming Language, 2nd Edition](http://www.cs.otago.ac.nz/cosc440/readings/C-Programming-Ebook.pdf)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
 * [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 * [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)

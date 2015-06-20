@@ -1,6 +1,7 @@
 ## Índice
 * [Android](#android)
 * [C](#c)
+* [C++](#cpp)
 * [C#](#csharp)
 * [Engenharia de software](#engenharia-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
@@ -27,6 +28,9 @@
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
+
+### CPP
+* [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf)
 
 ### CSharp
 

@@ -229,6 +229,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
 * [Grokking the GIMP](http://gimp-savvy.com/BOOK/index.html)
 * [Introduction to Modern OpenGL](http://open.gl/)
+* [Learn OpenGL](http://learnopengl.com/) - Joey de Vries
 * [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/) (draft)
 * [OpenGL](http://www.songho.ca/opengl/index.html): Concepts and illustrations.
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)

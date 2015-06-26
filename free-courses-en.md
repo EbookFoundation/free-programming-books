@@ -46,7 +46,7 @@
 
 
 ### Clojure
-* [Functional Programming with Clojure](http://mooc.cs.helsinki.fi/clojure)
+* [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/index.html)
 
 
 ### Databases

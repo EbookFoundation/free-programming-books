@@ -961,6 +961,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 ### Fortran
 * [Fortran programming language - Wikibooks](http://en.wikibooks.org/wiki/Category%3AFortran_programming_language)
 * [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf)
+* [Introduction to Programming with Fortran](http://faculty.mu.edu.sa/public/uploads/1366221449.4904introduction.to.programming.with.fortran.pdf)
 
 
 ### FreeBSD

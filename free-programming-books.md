@@ -1304,6 +1304,7 @@ See also [TeX](#tex)
 
 
 ### MATLAB
+* [An Interactive Introduction to MATLAB](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf)
 * [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/ftp/na-reports/MatlabNotes.pdf)
 * [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
 * [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html)
@@ -1316,7 +1317,6 @@ See also [TeX](#tex)
 * [MATLAB Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/matlab) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html)
 * [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
-* [An Interactive Introduction to MATLAB](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf)
 
 
 ### Maven

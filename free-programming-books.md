@@ -413,7 +413,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 
 #### Mathematics For Computer Science
 
-* [Mathematics for Computer Science (January 2012 Version)](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf) (PDF) - Eric Lehman
+* [Mathematics for Computer Science (May 2015 Version)](https://courses.csail.mit.edu/6.042/spring15/mcs.pdf) (PDF) - Eric Lehman, F Thomson Leighton and Albert R Meyer
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 
 

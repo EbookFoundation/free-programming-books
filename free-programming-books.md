@@ -1521,8 +1521,8 @@ See also [TeX](#tex)
 * [PureScript By Example](http://leanpub.com/purescript/read) - Phil Freeman
 
 ### Python
-* [Python Official Documentation](https://docs.python.org/2.7/download.html) (PDF, HTML, TEXT) (2.7)
-* [Python Official Documentation](https://docs.python.org/3.3/download.html) (PDF, EPUB, HTML, TEXT) (3.3)
+* [Python Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.7)
+* [Python Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.3)
 * [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) - Rafe Kettler

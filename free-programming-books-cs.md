@@ -1,6 +1,7 @@
 ### Index
 * [Bash](#bash)
 * [Git](#git)
+* [HTML](#html)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
     * [Algoritmy a datové struktury](#algoritmy-a-datove-struktury)
@@ -31,6 +32,10 @@
 
 ### Git
 * [Pro Git](https://knihy.nic.cz/) - Scott Chacon (PDF)
+
+
+### HTML
+* [Ponořme se do HTML5](https://knihy.nic.cz/) - Mark Pilgrim (PDF)
 
 
 ### Language Agnostic

@@ -109,6 +109,8 @@
 * [MIT´s Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
+* [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
+
 
 
 ### OCaml

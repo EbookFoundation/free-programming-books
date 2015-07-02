@@ -48,8 +48,8 @@
 
 ### Language Agnostic
 * [Podcast] - [Full Stack Radio](http://fullstackradio.com/)
-* [Podcast] - [Programming Throwdown](http://www.programmingthrowdown.com/)
 * [Podcast] - [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing)
+* [Podcast] - [Programming Throwdown](http://www.programmingthrowdown.com/)
 * [Podcast] - [Software Engineering Radio](http://www.se-radio.net/)
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
 

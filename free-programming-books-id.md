@@ -4,6 +4,7 @@
 * [Javascript](#javascript)
 * [NoSQL](#nosql)
 * [PHP](#php)
+* [Web Framework](#web-framework)
 
 ### Android
 * [Tutorial Membuat Aplikasi Android **Special Edition**](http://www.slideshare.net/creatorb/tutorial-lengkap-cara-membuat-aplikasi-android-sederhana)
@@ -26,3 +27,7 @@
 
 ### php
 * [Tutorial Ebook PHP](http://adf.ly/1847642/http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+
+### Web-Framework
+* [Ebook Laravel 5 Indonesia](https://dikiaap.github.io/2015/06/16/ebook-laravel-5.html)
+* [Docs Laravel 5](https://dikiaap.github.io/2015/07/02/docs-laravel-5.html)

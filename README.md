@@ -6,16 +6,13 @@ This list initially was a clone of [stackoverflow - List of Freely Available Pro
 
 Moved to GitHub for collaborative updating and for the site mentioned above.
 
-### NEW : Search inside free-programming-books.md (and a whole lot more of learning resources)
-[resrc.io/page/search](http://resrc.io/page/search)
-
 ### How To Contribute
 It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Fork](https://help.github.com/articles/fork-a-repo)
 - Read the [TODO](/TODO.md) file(Adding new books is our #1 priority, but things like Alphabetizing are important, too.)
 - [Edit](https://github.com/vhf/free-programming-books/edit/master/free-programming-books.md) (we prefer multiple small commits rather than one large change)
 - [Send a PR](https://help.github.com/articles/using-pull-requests)
-- Be part of a project starred by over 39,000
+- Be part of a project starred by over 41,000
 
 **Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
 

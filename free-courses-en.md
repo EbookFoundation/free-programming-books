@@ -57,7 +57,7 @@
 * [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 
 ### Git
-*[Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
+* [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
 
 ### Haskell
 * [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer

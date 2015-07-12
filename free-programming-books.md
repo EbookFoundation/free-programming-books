@@ -1434,7 +1434,7 @@ See also [TeX](#tex)
 * [Higher-Order Perl](http://hop.perl.plover.com/book/)
 * [Impatient Perl](http://www.perl.org/books/impatient-perl/)
 * [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
-* [Mastering Perl](http://chimera.labs.oreilly.com/books/1234000001527) - Bryan D Foy
+* [Mastering Perl](http://chimera.labs.oreilly.com/books/1234000001527) - brian d foy
 * [Modern Perl 5](http://www.onyxneon.com/books/modern_perl/index.html)
 * [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
 * [Perl & LWP](http://lwp.interglacial.com/index.html)

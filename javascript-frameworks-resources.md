@@ -105,3 +105,4 @@
     * [Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/)
     * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
     * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
+* [SurviveJS - Webpack and React](http://survivejs.com/)

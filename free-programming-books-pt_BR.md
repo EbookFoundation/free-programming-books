@@ -57,7 +57,7 @@
 * [Grunt - Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 
 ### Haskell
-* [Aprender o Haskell será um grande bem para você(tradução em andamento)](https://github.com/taylorrf/learnhaskell)
+* [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
 
 
 ### HTML / CSS

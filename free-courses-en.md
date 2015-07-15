@@ -12,6 +12,7 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JS](#js)
+* [Lua](#lua)
 * [Matlab](#matlab)
 * [Misc](#misc)
 * [OCaml](#ocaml)
@@ -91,6 +92,9 @@
 ### JS
 * [Egghead.io](https://egghead.io/)
 
+### Lua
+* [Lua Tutorial](http://www.tutorialpoint.com/lua/)
+* [Lua org](http://www.lua.org/)
 
 ### MATLAB
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)

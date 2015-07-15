@@ -7,6 +7,7 @@
 * [Clojure](#clojure)
 * [Databases](#databases)
 * [Git](#git)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
@@ -58,6 +59,9 @@
 
 ### Git
 * [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
+
+### Go
+* [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
 
 ### Haskell
 * [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer

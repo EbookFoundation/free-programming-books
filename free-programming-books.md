@@ -218,7 +218,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Theassayer.org](http://theassayer.org/)
 * [tutorialspoint](http://www.tutorialspoint.com/)
 * [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
-
+* [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 
 ### Graphics Programming
 * [Blender 3D: Noob to Pro](http://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro)

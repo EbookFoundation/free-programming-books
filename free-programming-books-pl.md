@@ -13,6 +13,7 @@
 * [Prolog](#prolog)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Scala](#scala)
 * [SQL](#sql)
 
 
@@ -84,6 +85,8 @@
 ### Ruby
 * [Ruby](http://pl.wikibooks.org/wiki/Ruby)
 
+### Scala
+* [Język programowania Scala](http://www.grzegorzbalcerek.net/jps2/index.html)
 
 ### SQL
 * [SQL i PL/SQL – podstawy](http://jsystems.pl/storage/sqlplsql1.pdf)

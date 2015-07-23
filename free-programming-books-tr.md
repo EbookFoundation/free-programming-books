@@ -1,29 +1,35 @@
 ### Index
+* [Android](#android)
 * [C](#c)
 * [D](#d)
 * [Dart](#dart)
 * [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
+* [Html](#html)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Kriptoloji](#kriptoloji)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Matlab](#matlab)
 * [PHP](#php)
 * [Python](#python)
-* [R] (#r)
+* [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Html](#html)
-* [Android](#android)
+* [Swift](#swift)
+* [Windows Phone](#windowsphone)
 
+
+### Android
+* [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
 
 ### C
-* [C Programlama Diline Giris](http://www1.gantep.edu.tr/~bingul/c/index.php)
+* [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
 * [Sistem Programlama ve İleri C Uygulamaları Kurs Notları](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
-
+* [C Programlamaya Giriş](https://www.inonu.edu.tr/uploads/old/16/735/c-programlamaya-giris.pdf)
 
 ### D
 * [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
@@ -31,16 +37,18 @@
 ### Dart
 * [Dart - Merhaba Dünya](http://dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
 
-
 ### Fortran
 * [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php)
-
 
 ### Git
 * [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
 
 ### Go
 * [Go Turu](http://tur.a.golang.org.tr)
+
+### Html
+* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
+* [Html'e Giriş](http://www.htmldersleri.org/)
 
 ### iOS
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios/)
@@ -51,6 +59,8 @@
 ### JavaScript
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
 
+### Kriptoloji
+* [Kriptolojiye Giris](http://iam.metu.edu.tr/sites/iam.metu.edu.tr/files/UYGULAMALI%20MATEMAT_Kriptolojiye%20giris%20ders%20notlar%C4%B1.pdf)
 
 ### LaTeX
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
@@ -81,9 +91,8 @@
 ### Rust
 * [Rust'a Giriş](http://bit.ly/rustagiris)
 
-### Html
-* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
-* [Html'e Giriş](http://www.htmldersleri.org/)
+### Swift
+* [Swift Türkiye](http://www.swiftturkiye.org/)
 
-### Android
-* [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
+### Windows Phone
+* [Windows Phone'a Uygulama Yazmak](https://mehmetakifsonmez.files.wordpress.com/2013/12/windows-phone-a-uygulama-yazmak.pdf)

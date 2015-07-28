@@ -24,12 +24,14 @@
 * [Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
 
 ### C
+* [Apostila Linguagem C - Silvio Lago](http://www.ime.usp.br/~slago/slago-C.pdf)
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
 
 ### CPP
+* [Apostila Linguagem C++ - Silvio Lago](http://www.ime.usp.br/~slago/slago-C++.pdf)
 * [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf)
 
 ### CSharp

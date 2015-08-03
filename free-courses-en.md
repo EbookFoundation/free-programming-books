@@ -122,6 +122,7 @@
 
 ### OCaml
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/)
+* [Introduction to Functional Programming in OCaml](https://www.france-universite-numerique-mooc.fr/courses/parisdiderot/56002/session01/about)
 
 
 ### Oracle PL/SQL

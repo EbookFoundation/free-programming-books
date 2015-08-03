@@ -428,6 +428,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [CS For All](http://www.cs.hmc.edu/csforall/)
 * [Culture \& Empire: Digital Revolution](http://hintjens.com/books) (PDF)
 * [Data-Intensive Text Processing with MapReduce](http://www.umiacs.umd.edu/~jimmylin/MapReduce-book-final.pdf) (PDF)
+* [Designing for Performance](http://designingforperformance.com) by Lara Hogan
 * [Designing Interfaces](http://designinginterfaces.com) by Jennifer Tidwell
 * [DevDocs](http://devdocs.io/) - Documents for Developers in 1 place
 * [DevOps For Dummies (IBM Edition)](http://public.dhe.ibm.com/common/ssi/ecm/en/ram14011usen/RAM14011USEN.PDF) (PDF)

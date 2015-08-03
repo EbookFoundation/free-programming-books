@@ -1121,6 +1121,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Category wise tutorials - J2EE](http://www.mkyong.com/)
 * [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com/) - Marty Hall and Larry Brown
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/html/page9.html)
+* [Data Structures in Java for the Principled Programmer](http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) (PDF)
 * [Google's Java Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 * [Hibernate 4 Example Programs](https://leanpub.com/hibernate4-example-programs) - L. Mohan Arun
 * [HTTP Programming Recipes for Java Bots](http://www.heatonresearch.com/articles/series/16)

@@ -14,7 +14,7 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Lua](#lua)
-
+* [Expressões regulares] (#Expressões-regulares)
 
 ### C
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
@@ -90,3 +90,6 @@
 
 ### Lua
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
+
+### Expressões regulares
+* [Expressões regulares - Guia de consulta rápida] (http://aurelio.net/regex/guia/objetivo.html)

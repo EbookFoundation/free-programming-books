@@ -1,4 +1,4 @@
-# List of Free Learning Resources
+# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ## Intro
 If you want to find a learning resource, you should definitely check out our site, [Free Learning Resources](http://resrc.io).
 And for those who want to learn a computer language, you should check out these books on [reSRC.io](http://resrc.io/list/10/list-of-free-programming-books/) or on [github](/free-programming-books.md).

@@ -57,3 +57,4 @@
 ### Python
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
+* [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) 

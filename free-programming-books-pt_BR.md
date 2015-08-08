@@ -40,6 +40,7 @@
 
 ### Haskell
 * [Aprender o Haskell será um grande bem para você(tradução em andamento)](https://github.com/taylorrf/learnhaskell)
+* [Programação funcional com a linguagem Haskell - André Rauber Du Bois] (http://www.inf.ufpr.br/andrey/ci062/ProgramacaoHaskell.pdf)
 
 
 ### HTML / CSS

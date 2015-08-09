@@ -2,6 +2,7 @@
 * [Assembly](#assembly)
 * [Android](#android)
 * [AngularJS](#angularjs)
+* [Business](#business)
 * [C](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
@@ -39,6 +40,12 @@
 
 ### AngularJS
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
+### Business
+* [Introduction to Startup Finance](https://courses.platzi.com/courses/intro-startup-finance/)
+* [Y Combinator Startup Class](https://courses.platzi.com/courses/startup-class/)
+* [Startup Law 101](https://courses.platzi.com/courses/startup-law-101/)
+* [Learn to hire engineers for your company](https://courses.platzi.com/courses/hire-engineers/)
 
 ### C
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)

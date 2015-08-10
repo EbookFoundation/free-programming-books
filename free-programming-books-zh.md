@@ -241,6 +241,7 @@
 
 ### Vim
 * [大家來學 VIM](http://www.study-area.org/tips/vim/index.html)
+* [Vim Manual(中文版)](http://man.chinaunix.net/newsoft/vi/doc/help.html)
 
 
 ### Visual Prolog

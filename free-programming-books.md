@@ -733,6 +733,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 ### Bash
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) by Machtelt Garrels
+* [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [BASH Programming- Mike G mikkey](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates
 * [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php)
@@ -741,7 +742,6 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr.
-* [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 
 
 ### Basic

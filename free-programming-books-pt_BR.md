@@ -15,6 +15,7 @@
 * [Shell Script](#shell)
 * [Lua](#lua)
 * [Expressões regulares] (#Expressões-regulares)
+* [Unix] (#Unix)
 
 ### C
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
@@ -95,3 +96,6 @@
 
 ### Expressões regulares
 * [Expressões regulares - Guia de consulta rápida] (http://aurelio.net/regex/guia/objetivo.html)
+
+### Unix
+* [Unix - Conceitos e comandos básicos] (http://www.ime.usp.br/~ueda/ldoc/rb.html)

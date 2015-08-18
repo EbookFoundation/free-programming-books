@@ -1893,7 +1893,7 @@ See also [LaTeX](#latex)
 
 
 ### VHDL
-* [Free Range VHDL](http://www.freerangefactory.org/site/pmwiki.php/Main/DownloadBooks) (TeX and PDF) by Bryan Mealy, Fabrizio Tappero
+* [Free Range VHDL](http://github.com/fabriziotappero/Free-Range-VHDL-book) (TeX and PDF) by Bryan Mealy, Fabrizio Tappero
 * [VHDL Tutorial](http://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html)
 * [VHDL Tutorial](http://hep.uchicago.edu/~tangjian/SVT_sub/FTK_ATLAS/AUX/vhdl-tutorial.pdf) - Peter J. Ashenden
 * [VHDL Tutorial: Learn By Example](http://esd.cs.ucr.edu/labs/tutorial/)

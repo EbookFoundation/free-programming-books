@@ -1207,7 +1207,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 
 
 #### Javascript Frameworks
-For resources on Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQuery, Knockout.js, and any other JS toolkit/framework, please refer to [Javascript Frameworks Resources and Tutorials](http://resrc.io/list/18/javascript-frameworks/), or to its source file `javascript-frameworks-resources.md`.
+For resources on Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQuery, Knockout.js, and any other JS toolkit/framework, please refer to [Javascript Frameworks Resources and Tutorials](https://web.archive.org/web/20150317044725/http://resrc.io/list/18/javascript-frameworks/), or to its source file `javascript-frameworks-resources.md`. As of July 2015, resrc.io has been permanently shut down. Consult [hackr.io](http://hackr.io/) instead.
 
 #### Node.js
 * [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*

@@ -4,6 +4,7 @@
 * [AngularJS](#angularjs)
 * [C](#c)
 * [C++](#c-1)
+* [C#](#c-2)
 * [Clojure](#clojure)
 * [Databases](#databases)
 * [Git](#git)
@@ -18,6 +19,7 @@
 * [OCaml](#ocaml)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
+* [R](#r)
 * [RethinkDB](#rethinkdb)
 * [Ruby](#ruby)
 * [Sails.js](#sailsjs)
@@ -34,7 +36,10 @@
 ### Android
 * [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloud)
-* [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/course/android)
+* [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
+* [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
+* [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
+* [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android)
 
 ### AngularJS
@@ -47,6 +52,9 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [LearnCpp.com C++ Tutorial](http://www.learncpp.com/)
+
+### C# #
+* [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 
 
 ### Clojure
@@ -116,6 +124,7 @@
 * [MIT´s Computer Language Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/)
 * [MIT´s Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [MIT´s Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+* [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
 
@@ -134,6 +143,10 @@
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Learn Python](https://pythonspot.com)
+* [Programming for Everybody](https://www.coursera.org/course/pythonlearn)
+
+### R
+* [R Programming](https://www.coursera.org/course/rprog)
 
 ### RethinkDB
 * [RethinkDB: Distributed Databases](https://courses.platzi.com/courses/rethinkdb-databases/)

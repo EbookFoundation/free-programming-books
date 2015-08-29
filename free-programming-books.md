@@ -788,6 +788,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 
 
 ### C++
+* [C++ Programming](https://play.google.com/store/books/details/C_Programming_by_Bjarne_Stroustoup?id=CJw3BAAAQBAJ) - BjarneStroustoup
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)

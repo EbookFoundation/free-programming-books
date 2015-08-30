@@ -194,6 +194,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Bitsavers.org](http://bitsavers.org/)
 * [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks)
 * [Codingus](http://codingus.blogspot.in/)
+* [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 * [Cheat Sheets (Free)](http://refcardz.dzone.com/)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com/)

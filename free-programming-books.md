@@ -1090,6 +1090,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [iOS 8 App Development Essentials](http://www.techotopia.com/index.php/IOS_8_App_Development_Essentials)
 * [iOS Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/RoadMapiOS.pdf) (PDF)
+* [NSHipster](http://nshipster.com/#archive)(Resource)
 
 
 ### Isabelle/HOL

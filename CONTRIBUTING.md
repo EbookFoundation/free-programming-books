@@ -53,6 +53,10 @@ GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) - 
 
 ```
 
+#### What to do about multiple links to the same book ([#1192](https://github.com/vhf/free-programming-books/issues/1192#issuecomment-135969100))
++ if its a different edition, add separate link with a note about its edition
++ if its the same book but in a better format, replace link
++ if one is a webpage and the other is pdf, add separate link with a note about its format
 
 And that's it! Simple, easy and lovely...
 

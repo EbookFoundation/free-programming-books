@@ -160,7 +160,7 @@
 
 
 #### その他の話題
-* [徹底解剖「G1GC」実装編](http://www.narihiro.info/g1gc-impl-book/) - 中村成洋
+* [徹底解剖「G1GC」実装編](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
 * [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) (PDF) - 遠藤敏夫
 * [ケヴィン・ケリー著作選集　１](http://tatsu-zine.com/books/kk1) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
 * [ケヴィン・ケリー著作選集　２](http://tatsu-zine.com/books/kk2) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
@@ -223,7 +223,7 @@
 ### Clojure
 * [Clojureスタイルガイド](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
 * [Modern cljs(翻訳中)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
-* [逆引きClojure](http://rd.clojure-users.org/) - Toshiaki Maki
+* [逆引きClojure](https://github.com/making/rd-clj) - Toshiaki Maki
 
 
 ### Common Lisp
@@ -396,7 +396,7 @@
 ### PHP
 * [PHP基礎文法最速マスター](http://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
 * [PHP マニュアル](http://www.php.net/manual/ja/) - The PHP Group
-* [PHPによるデザインパターン入門](http://www.doyouphp.jp/book/book_phpdp.shtml)
+* [PHPによるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
 * [PHP4徹底攻略改訂版](http://net-newbie.com/support/pdf2/)
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
@@ -480,9 +480,9 @@
 * [お気楽 Scheme プログラミング入門](http://www.geocities.jp/m_hiroi/func/scheme.html) - 広井誠
 * [Scheme](http://ja.wikibooks.org/wiki/Scheme) - Wikibooks
 * [もうひとつの Scheme 入門](http://www.shido.info/lisp/idx_scm.html) - 紫藤貴文
-* [入門Scheme](http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html) - 犬飼大
+* [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html) - 犬飼大
 * [Scheme入門 スーパービギナー編](https://sites.google.com/site/atponslisp/home/scheme/racket/schemenyuumon-1/schemenyuumon)
-* [Gaucheプログラミング(立読み版)](http://karetta.jp/book-cover/gauche-hacks) - 川合史朗(監修), Kahuaプロジェクト
+* [Gaucheプログラミング(立読み版)](https://web.archive.org/web/20140521224625/http://karetta.jp/book-cover/gauche-hacks) - 川合史朗(監修), Kahuaプロジェクト
 
 
 ### sed
@@ -491,7 +491,7 @@
 
 ### Smalltalk
 * [自由自在 Squeakプログラミング](http://swikis.ddo.jp/squeak/13) - 梅澤真史
-* [GNU Smalltalk Tutorial](http://gst.plasticheart.info/tutorial-c84) -  @PLHX
+* [GNU Smalltalk Tutorial](http://gst.plasticheart.info/tutorial-c84.html) -  @PLHX
 
 
 ### SQL(実装非依存)

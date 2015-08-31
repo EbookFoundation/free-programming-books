@@ -17,7 +17,7 @@ TODO
     - [ ] bg
     - [ ] de
     - [x] es
-    - [ ] en
+    - [x] en
     - [x] fa_IR
     - [ ] fr
     - [ ] it

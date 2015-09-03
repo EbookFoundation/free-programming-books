@@ -54,6 +54,7 @@
 
 
 ### Java
+* [Java 8](twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
 * [Introduzione a Java](http://www.ateneonline.it/hyperbook/j_book/java2.htm)
 * [Java - Wikibooks](https://it.wikibooks.org/wiki/Java)
 * [Object Oriented && Java 5 (II Edizione) - Claudio De Sio Cesari](http://www.claudiodesio.com/download/oo_&&_java_5.zip)

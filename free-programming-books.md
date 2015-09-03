@@ -399,7 +399,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematics, MTS 101A](http://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
 * [Notes on Diﬀerential Equations](http://www.math.cornell.edu/~bterrell/dn.pdf) - Robert E. Terrell
-* [Number Theory](http://web.mit.edu/~holden1/www/math/number-theory.pdf) (PDF)
+* [Number Theory](http://www.mit.edu/~pengshi/math149/number-theory.pdf) (PDF)
 * [Numerical Methods](http://www.iitg.ac.in/kartha/CE601-14/CourseSchedule.htm),2014 - Dr. Suresh A. Kartha, IIT, Guwahati
 * [Numerical Methods](ihttp://www.iitg.ac.in/kartha/CE601/LectureSlides.htm),2012 - Dr. Suresh A. Karmtha, IIT, Guwahati
 * [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)

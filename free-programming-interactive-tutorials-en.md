@@ -101,7 +101,7 @@
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Try jQuery](http://try.jquery.com/)
-* [Functional Programming in Javascript](http://jhusain.github.io/learnrx/)
+* [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 
 
 ### Language Agnostic

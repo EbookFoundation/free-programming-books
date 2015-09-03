@@ -28,7 +28,7 @@
 
 ### C
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
-* [Sistem Programlama ve İleri C Uygulamaları Kurs Notları](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
+* [Sistem Programlama ve İleri C Uygulamaları Kurs Notları - Uyarlama 1](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 * [C Programlamaya Giriş](https://www.inonu.edu.tr/uploads/old/16/735/c-programlamaya-giris.pdf)
 
 ### D

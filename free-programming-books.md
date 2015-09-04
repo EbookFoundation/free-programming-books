@@ -1,7 +1,7 @@
 Original Contribution by [George Stocker](http://stackoverflow.com/users/16587/george-stocker) on [Stack Overflow](http://stackoverflow.com)
 
 Original Source: [Free Programming books](http://stackoverflow.com/revisions/392926/175)
-m
+
 
 ### Index
 * [Ada](#ada)

@@ -19,8 +19,10 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+<<<<<<< HEAD
 * [Swift](#swift)
 * [Windows Phone](#windowsphone)
+=======
 
 
 ### Android

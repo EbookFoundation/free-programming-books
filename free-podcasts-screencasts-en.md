@@ -1,6 +1,7 @@
 ### Index
 * [Android](#android)
 * [Angular JS](#angularjs)
+* [C#](#csharp)
 * [CSS](#css)
 * [Elixir](#elixir)
 * [Emacs](#emacs)
@@ -18,6 +19,9 @@
 
 ### AngularJS
 * [Podcast] - [Adventures in Angular - DevChat.tv](http://devchat.tv/adventures-in-angular/)
+
+### C#
+* [Screencast] - [How to program in C# - Beginner Course | Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
 
 ### CSS
 * [Screencast] - [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)

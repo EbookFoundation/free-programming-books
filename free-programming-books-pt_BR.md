@@ -9,6 +9,7 @@
 * [Grunt](#grunt)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
+* [iOS](#iOS)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -22,6 +23,8 @@
 
 ### Android
 * [Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
+* [Google Android - Crie Apps para Celulares e Tablets](http://www.4shared.com/office/X0SYpEtnba/Google_Android_-_crie_aplicaes.html)
+
 
 ### C
 * [Apostila Linguagem C - Silvio Lago](http://www.ime.usp.br/~slago/slago-C.pdf)
@@ -45,6 +48,8 @@
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg)
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
+* [Agile - Desenvolvimento de software](http://www.4shared.com/office/PjtjdpzAce/Agile_Desenvolvimento_de_Softw.html)
+* [Scrum - Gestão agil para Projetos](http://www.4shared.com/office/8yiUwscpba/Scrum_Gesto_gil_para_projetos_.html)
 
 
 ### Git
@@ -67,6 +72,14 @@
 * [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
 * [Dive Into HTML5](http://diveintohtml5.com.br/)
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
+* [HTML 5 e CSS 3](http://www.4shared.com/office/sJA2cze6ba/html5_e_css3_domine_a_web_do_f.html)
+* [Coletânia Front End(Casa do Código)](http://www.4shared.com/office/Mdad-Kh5ce/Coletanea_Front_End_uma_Antolo.html)
+* [A Web Mobile](http://www.4shared.com/office/W2WGNbFdba/A_Web_Mobile_Programe_para_um_.html)
+* [Web Design responsivo](http://www.4shared.com/office/BEugKyOYce/Design_Responsivo_para_Web.html)
+
+
+### iOS
+* [iOS - Programe para iPhone e iPad](http://www.4shared.com/office/QVeLAhaGce/iOS_Programe_para_iPhone_e_iPa.html)
 
 
 ### Java
@@ -75,6 +88,16 @@
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/)
 * [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/)
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf)
+* [Java 8 Prático](http://www.4shared.com/office/cWfmu3PEce/Java_8_Pratico_Lambdas_Streams.html)
+* [JavaFX - Interface com qualidade](http://www.4shared.com/office/YaM-qFMDce/Javafx_Interfaces_Com_Qualidad.html)
+* [JSF e JPA - Aplicações Java](http://www.4shared.com/office/jUhdaONPce/Aplicacoes_Java_para_a_Web_Com.html)
+* [JPA Eficaz](http://www.4shared.com/office/Vcy3KRKIce/Jpa_Eficaz_as_Melhores_Pratica.html)
+* [JSF Eficaz](http://www.4shared.com/office/R8FryfR_ce/JSF_Eficaz_-_As_melhores_prtic.html)
+* [Design Patterns com JAVA](http://www.4shared.com/office/tRDrilRBce/Design_Patterns_com_Java_-_Pro.html)
+* [SOA Aplicado - integrando com Web services](http://www.4shared.com/office/jf_CZ_DMce/SOA_aplicado_-_Integrando_com_.html)
+* [Spring framework](http://www.4shared.com/office/qoTJaRVzce/Vire_o_jogo_com_spring_framewo.html)
+* [VRaptor - Desenvolvimento ágil](http://www.4shared.com/office/YY78D-1qce/Vraptor_Desenvolvimento_Agil_p.html)
+* [Play Framework](http://www.4shared.com/office/9GjGyZUFba/Play_Framework_Java_para_Web_S.html)
 
 
 ### JavaScript
@@ -96,12 +119,13 @@
 ### Php
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
 * [PHP Do jeito certo](http://br.phptherightway.com/)
+* [PHP & MySQL - Desenvolvimento web](http://www.4shared.com/office/Nsn1thuEba/Desenvolvimento_web_com_PHP_e_.html)
 
 
 ### Python
 * [Desenvolvimento web com Python e web2py!](https://dl.dropboxusercontent.com/u/830444/apostila_web2py_basico.pdf)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
-* [Python Orientado a Objetos](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf) 
+* [Python Orientado a Objetos](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf)
 * [Python para Desenvolvedores](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
 
 
@@ -116,7 +140,8 @@
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
-
+* [Ruby - Aprenda a programar na Ling. mais divertida](http://www.4shared.com/office/do7OF_qHce/Ruby_aprenda_a_programar_na_li.html)
+* [Ruby on Rails - sua app web nos trilhos](http://www.4shared.com/office/Bp9BXV9Lce/Ruby_on_Rails_-_coloque_sua_ap.html)
 
 
 ### Shell

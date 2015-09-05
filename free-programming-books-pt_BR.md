@@ -9,7 +9,7 @@
 * [Grunt](#grunt)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
-* [iOS](#iOS)
+* [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)

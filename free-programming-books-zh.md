@@ -7,6 +7,7 @@
 	* [数据库](#数据库)
     * [智能系统](#智能系统)
     * [正则表达式](#正则表达式)
+* [AWK](#awk)
 * [C](#c)
 * [C++](#c-1)
 * [CoffeeScript](#coffeescript)
@@ -89,6 +90,8 @@
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 
 
+### AWK
+* [AWK 程序设计语言](https://github.com/wuzhouhui/awk)
 
 ### C
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)

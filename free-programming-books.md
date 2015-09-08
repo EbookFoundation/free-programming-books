@@ -560,6 +560,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 #### Programming Paradigms
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+* [The Practice of Programming](https://github.com/wuzhouhui/tpop) (PDF) *(by Brian W. Kernighan and Ron Pike)*
 
 
 #### Regular Expressions

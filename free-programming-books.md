@@ -1,6 +1,6 @@
 Original Contribution by [George Stocker](http://stackoverflow.com/users/16587/george-stocker) on [Stack Overflow](http://stackoverflow.com)
 
-Original Source: [Free Programming books](http://stackoverflow.com/revisions/392926/175)
+Original Source: [List of freely available programming books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926)
 
 
 ### Index

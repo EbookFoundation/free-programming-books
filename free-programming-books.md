@@ -1478,6 +1478,7 @@ See also [TeX](#tex)
 * [PHP: The Right Way](http://www.phptherightway.com/)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
+* [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium) - libsodium PHP extension for modern, secure, and fast cryptography
 

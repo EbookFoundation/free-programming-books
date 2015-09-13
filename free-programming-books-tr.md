@@ -67,6 +67,9 @@
 
 ### Linux
 * [UNIX/Linux Sistem Programlama Kurs Notları](http://www.kaanaslan.com/resource/course_note/course_note.php)
+* [Linux Sistem Yöneticisinin Kılavuzu](http://belgeler.org/sag/sag.html)
+* [GNU Bash Başvuru Kılavuzu](http://belgeler.org/bashref/bashref.html)
+* [Linux Belgeleri](http://belgeler.org/howto/howtos.html)
 
 ### Matlab
 * [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)
@@ -96,3 +99,7 @@
 
 ### Windows Phone
 * [Windows Phone'a Uygulama Yazmak](https://mehmetakifsonmez.files.wordpress.com/2013/12/windows-phone-a-uygulama-yazmak.pdf)
+ 
+
+### CSS
+* [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/)

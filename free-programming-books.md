@@ -10,7 +10,7 @@
 * [AutoHotkey](#autohotkey)
 * [Autotools](#autotools)
 * [Awk](#awk)
-* [Bash](#bash)Ru
+* [Bash](#bash)
 * [Basic](#basic)
 * [BETA](#beta)
 * [C](#c)

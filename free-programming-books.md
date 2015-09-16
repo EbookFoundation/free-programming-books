@@ -10,7 +10,7 @@
 * [AutoHotkey](#autohotkey)
 * [Autotools](#autotools)
 * [Awk](#awk)
-* [Bash](#bash)
+* [Bash](#bash)Ru
 * [Basic](#basic)
 * [BETA](#beta)
 * [C](#c)
@@ -1447,6 +1447,7 @@ See also [TeX](#tex)
 
 ###Rust
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
+* [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf)
 
 
 ###Sage

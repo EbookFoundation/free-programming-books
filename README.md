@@ -9,7 +9,7 @@ Moved to GitHub for collaborative updating and for the site mentioned above.
 ### How To Contribute
 It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Fork](https://help.github.com/articles/fork-a-repo)
-- Read the [TODO](/TODO.md) file(Adding new books is our #1 priority, but things like Alphabetizing are important, too.)
+- Read the [TODO](/TODO.md) file (Adding new books is our #1 priority, but things like Alphabetizing are important, too.)
 - [Edit](https://github.com/vhf/free-programming-books/edit/master/free-programming-books.md) (we prefer multiple small commits rather than one large change)
 - [Send a PR](https://help.github.com/articles/using-pull-requests)
 - Be part of a project starred by over 42,000

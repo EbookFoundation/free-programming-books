@@ -2,6 +2,7 @@
 * [Android](#android)
 * [AspectJ](#aspectj)
 * [C](#c)
+* [CSS](#css)
 * [D](#d)
 * [Dart](#dart)
 * [Fortran](#fortran)
@@ -34,6 +35,9 @@
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
 * [Sistem Programlama ve İleri C Uygulamaları Kurs Notları - Uyarlama 1](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 * [C Programlamaya Giriş](https://www.inonu.edu.tr/uploads/old/16/735/c-programlamaya-giris.pdf)
+
+### CSS
+* [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/)
 
 ### D
 * [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
@@ -71,6 +75,9 @@
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
 
 ### Linux
+* [GNU Bash Başvuru Kılavuzu](http://belgeler.org/bashref/bashref.html)
+* [Linux Belgeleri](http://belgeler.org/howto/howtos.html)
+* [Linux Sistem Yöneticisinin Kılavuzu](http://belgeler.org/sag/sag.html)
 * [UNIX/Linux Sistem Programlama Kurs Notları](http://www.kaanaslan.com/resource/course_note/course_note.php)
 
 ### Matlab

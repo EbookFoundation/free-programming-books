@@ -40,6 +40,7 @@
 * [R](#R)
 * [Scala](#scala)
 * [SQL](#sql)
+* [SVG](#svg)
 
 
 ### Metalistas
@@ -281,4 +282,7 @@
 * [Manual de gestión de base de datos](http://www.jorgesanchez.net/bd/gbd2012.pdf)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
 
+
+### SVG
+* [SCALABLE](https://leanpub.com/scalable/) (PDF) (EPUB) (MOBI)
 

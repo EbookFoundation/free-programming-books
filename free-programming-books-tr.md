@@ -1,5 +1,6 @@
 ### Index
 * [Android](#android)
+* [AspectJ](#aspectj)
 * [C](#c)
 * [D](#d)
 * [Dart](#dart)
@@ -25,6 +26,9 @@
 
 ### Android
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
+
+### AspectJ
+* [AspectJ Kitabı](http://kodcu.com/aspectj-ebook/)
 
 ### C
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
@@ -55,6 +59,7 @@
 
 ### Java
 * [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
+* [Java 8 Kitabı](http://kodcu.com/java-8-ebook/)
 
 ### JavaScript
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)

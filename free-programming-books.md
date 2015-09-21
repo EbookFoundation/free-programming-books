@@ -1244,6 +1244,7 @@ See also [TeX](#tex)
 * [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
 * [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/index.html)
 * [Hardened Linux From Scratch](http://www.linuxfromscratch.org/hlfs/download.html)
+* [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line) - Michael Hartl
 * [Learning Debian GNU/Linux](http://oreilly.com/openbook/debian/book/index.html)
 * [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org/)

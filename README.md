@@ -3,9 +3,7 @@
 [View the list](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
 ## Intro
-If you want to find a learning resource, you should definitely check out our site, [Free Learning Resources](http://resrc.io).
-And for those who want to learn a computer language, you should check out these books on [reSRC.io](http://resrc.io/list/10/list-of-free-programming-books/) or on [github](/free-programming-books.md).
-This list initially was a clone of [stackoverflow - List of Freely Available Programming Books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926) by George Stocker. Now updated, with dead links gone and new content.
+This list initially was a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) by George Stocker. Now updated, with dead links gone and new content.
 
 Moved to GitHub for collaborative updating and for the site mentioned above.
 

@@ -104,6 +104,7 @@
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/) - Иво Ветцель
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
 * [Современный учебник JavaScript](http://learn.javascript.ru)
+* [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru)
 
 
 #### Node.js

@@ -141,7 +141,7 @@
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) en Wikibooks
 
 ### Emacs
-* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/hg/?group=elisp-es)
+* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es)
 
 ### Git
 * [Git Immersion en Español](http://gitimmersion.mx)

@@ -58,6 +58,9 @@
 
 
 #### 操作系统
+* [Debian 参考手册 ](http://man.chinaunix.net/linux/debian/reference/reference.zh-cn.html)
+* [Ubuntu 参考手册 ](http://wiki.ubuntu.org.cn/UbuntuManual)
+* [FreeBSD 使用手册](http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/)
 * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)

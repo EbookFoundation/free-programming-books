@@ -463,8 +463,8 @@
 * [Rubyソースコード完全解説](http://i.loveruby.net/ja/rhg/book/) - 青木峰郎
 * [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby/) - why the lucky stiff, 青木靖(翻訳)
 * [お気楽 Ruby プログラミング入門](http://www.geocities.jp/m_hiroi/light/ruby.html) - 広井誠
-* [Ruby on Rails チュートリアル](http://railstutorial.jp/) - Michael Hartl, Shozo Hatta(監訳)
-
+* [Ruby on Rails チュートリアル](http://railstutorial.jp/) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
+* [Ruby on Rails ガイド](http://railsguides.jp/) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
 
 ### Sather
 * [Sather を試そう](http://www.shido.info/sather/index.html) - 紫藤貴文

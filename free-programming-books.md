@@ -39,7 +39,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Elasticsearch](#elasticsearch)
 * [Elixir](#elixir)
 * [Emacs](#emacs)
-* [Embedded Programming](#embedded-programming)
+* [Embedded Systems](#embedded-systems)
 * [Erlang](#erlang)
 * [F#](#f-sharp)
 * [Firefox OS](#firefox-os)
@@ -910,7 +910,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [GNU Emacs Manual, 17th Edition, v. 24.2](http://shop.fsf.org/product/Emacs_Manual_24/)
 
 
-### Embedded Programming
+### Embedded Systems
 * [Control and Embedded Systems](http://www.learn-c.com/) (HTML)
 * [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF)
 * [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)

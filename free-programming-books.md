@@ -1678,6 +1678,8 @@ See also [TeX](#tex)
 ### Raspberry Pi
 * [Raspberry Pi Users Guide](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) (PDF) - Eben Upton
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE)
+* [Experimenting with Raspberry Pi](http://it-ebooks.info/book/5619) - Warren Gay   
+
 
 ### REBOL
 * [Learn REBOL](http://www.lulu.com/shop/nick-antonaccio/learn-rebol/ebook/product-17383182.html) - Nick Antonaccio

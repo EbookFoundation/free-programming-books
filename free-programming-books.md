@@ -793,6 +793,7 @@ Original Source: [List of freely available programming books](http://web.archive
 ### C++
 * [C++ Annotations](http://cppannotations.sourceforge.net/)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
+* [C++ Core Guidelines] (https://github.com/isocpp/CppCoreGuidelines)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [C++ Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
 * [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)

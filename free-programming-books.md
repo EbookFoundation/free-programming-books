@@ -1198,6 +1198,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) - Cody Lindley
 * [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
+* [JavaScript For Cats](http://jsforcats.com/)
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan

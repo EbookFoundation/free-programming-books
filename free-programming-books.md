@@ -718,6 +718,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### AutoHotkey
 * [AHKbook - the book for AutoHotkey](http://ahkscript.github.io/ahkbook/index.html)
+* [AutoHotkey Official Documentation](http://ahkscript.org/docs/AutoHotkey.htm) ([CHM](http://ahkscript.org/download/1.1/AutoHotkeyHelp.zip))
 
 
 ### Autotools

@@ -846,6 +846,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 
 ### CoffeeScript
+* [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io/)
 * [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite
 * [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)

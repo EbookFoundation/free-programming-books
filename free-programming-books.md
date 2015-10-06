@@ -838,7 +838,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
-
+* [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com/)
 
 ### COBOL
 * [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)

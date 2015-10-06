@@ -102,9 +102,9 @@
 
 ### JavaScript
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/) - Иво Ветцель
+* [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
-* [Современный учебник JavaScript](http://learn.javascript.ru)
-* [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru)
+* [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
 
 
 #### Node.js

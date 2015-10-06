@@ -6,10 +6,10 @@
 * [C](#c)
 * [C++](#c-1)
 * [C#](#c-sharp)
-* [iOS](#ios)
 * [Git](#git)
 * [Groovy](#groovy)
 * [HTML & CSS](#html--css)
+* [iOS](#ios)
 * [Java](#java)
 * [Javascript](#javascript)
 * [LaTeX](#latex)
@@ -58,9 +58,10 @@
 
 ### C Sharp
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
-* [Visual C# 2012](http://openbook.galileocomputing.de/visual_csharp_2012/)
-* [Visual C# 2010](http://openbook.galileocomputing.de/visual_csharp_2010/)
 * [Visual C# 2008](http://openbook.galileocomputing.de/visual_csharp/)
+* [Visual C# 2010](http://openbook.galileocomputing.de/visual_csharp_2010/)
+* [Visual C# 2012](http://openbook.galileocomputing.de/visual_csharp_2012/)
+
 
 
 ### iOS
@@ -79,30 +80,30 @@
 
 
 ### HTML & CSS
+* [CSS](http://peterkropff.de/site/css/css.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
+* [HTML](http://peterkropff.de/site/html/html.htm) — Peter Kropff [Online, PDF]
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
 * [Self HTML](http://de.selfhtml.org)
-* [HTML](http://peterkropff.de/site/html/html.htm) — Peter Kropff [Online, PDF]
-* [CSS](http://peterkropff.de/site/css/css.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 
 
 ### Java
 * [EJB 3 für Umsteiger: Neuerungen und Änderungen gegenüber dem EJB-2.x-Standard](http://bsd.de/e3fu/umfrage.html) - Heiko W. Rupp
 * [Java 7 Mehr als eine Insel](http://openbook.galileocomputing.de/java7/)
 * [Java ist auch eine Insel](http://openbook.galileocomputing.de/javainsel/)
-* [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung/)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
+* [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung/)
 
 
 ### Javascript
+* [JavaScript](http://peterkropff.de/site/javascript/javascript.htm) — Peter Kropff (Grundlagen, AJAX, DOM, OOP) [Online, PDF]
 * [JavaScript und AJAX](http://openbook.galileocomputing.de/javascript_ajax/)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
-* [JavaScript](http://peterkropff.de/site/javascript/javascript.htm) — Peter Kropff (Grundlagen, AJAX, DOM, OOP) [Online, PDF]
 
 
 ### LaTeX
-* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
 * [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf)
 * [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf)
+* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
 
 
 ### Meta-Lists
@@ -114,9 +115,9 @@
 
 
 ### PHP
+* [PHP](http://peterkropff.de/site/php/php.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 * [PHP PEAR](http://openbook.galileocomputing.de/php_pear/)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) [PDF]
-* [PHP](http://peterkropff.de/site/php/php.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 
 
 ### PostgreSQL
@@ -150,6 +151,6 @@
 
 
 ### Visual Basic
-* [Einstieg in Visual Basic 2012](http://openbook.galileocomputing.de/einstieg_vb_2012/)
 * [Einstieg in Visual Basic 2010](http://openbook.galileocomputing.de/einstieg_vb_2010/)
+* [Einstieg in Visual Basic 2012](http://openbook.galileocomputing.de/einstieg_vb_2012/)
 * [Visual Basic 2008](http://openbook.galileocomputing.de/visualbasic_2008/)

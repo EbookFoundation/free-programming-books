@@ -1733,6 +1733,7 @@ See also [TeX](#tex)
 * [Rust by Example](http://rustbyexample.com/)
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
 * [The Rust Programming Language](http://doc.rust-lang.org/book/)
+* [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf)
 
 
 ### Sage

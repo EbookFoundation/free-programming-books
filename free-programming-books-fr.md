@@ -52,9 +52,9 @@
 
 
 #### Logiciels libres
-* [Histoires et cultures du libres](http://framabook.org/histoires-et-cultures-du-libre/)
-* [Option libre. Du bon usage des licences libres](http://framabook.org/option-libre-du-bon-usage-des-licences-libres/), par Jean Benjamin
-* [Produire du logiciel libre](http://framabook.org/8-produire-du-logiciel-libre/), par Karl Fogel
+* [Histoires et cultures du libres](http://framabook.org/histoiresetculturesdulibre/)
+* [Option libre. Du bon usage des licences libres](http://framabook.org/optionlibre-dubonusagedeslicenceslibres/), par Jean Benjamin
+* [Produire du logiciel libre](http://framabook.org/produire-du-logiciel-libre-2/), par Karl Fogel
 * [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre/), par R.M. Stallman, S. Williams et C. Masutti
 
 

@@ -7,6 +7,7 @@
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
 * [Grunt](#grunt)
+* [Gulp](#Gulp)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)
@@ -57,6 +58,12 @@
 ### Grunt
 * [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
 * [Grunt - Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
+
+
+### Gulp
+* [GulpJS - Um gole de otimização no seu workflow](http://blog.da2k.com.br/2015/01/24/gulpjs-um-gole-de-otimizacao-no-seu-workflow/)
+* [1 de março de 2015 Gulp connect e livereload](http://blog.da2k.com.br/2015/03/01/gulp-connect-e-livereload/)
+
 
 ### Haskell
 * [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)

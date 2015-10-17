@@ -31,6 +31,7 @@
 * [Ruby](#ruby)
   * [RSpec](#rspec)
 * [Ruby on Rails](#ruby-on-rails)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Scilab](#scilab)
 * [Smalltalk](#smalltalk)
@@ -198,6 +199,10 @@
 ### Ruby on Rails
 * [Ruby on Rails Tutorial. Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning) Майкл Хартл
 * [Ruby on Rails по-русски](http://rusrails.ru)
+
+
+### Rust
+* [Язык программирования Rust](http://kgv.github.io/rust_book_ru/)
 
 
 ### Scala

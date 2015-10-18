@@ -33,9 +33,9 @@
 
 ### C
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
+* [C Programlamaya Giriş](https://www.inonu.edu.tr/uploads/old/16/735/c-programlamaya-giris.pdf)
 * [Programlamaya Giriş Ders Notları, H. Turgut Uyar](http://web.itu.edu.tr/uyar/programlama/)
 * [Sistem Programlama ve İleri C Uygulamaları Kurs Notları - Uyarlama 1](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
-* [C Programlamaya Giriş](https://www.inonu.edu.tr/uploads/old/16/735/c-programlamaya-giris.pdf)
 
 ### CSS
 * [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/)
@@ -91,15 +91,15 @@
 * [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk)
 
 ### Python
-* [Python ile Programlama](http://belgeler.istihza.com/py3/)
 * [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf)
+* [Python ile Programlama](http://belgeler.istihza.com/py3/)
 
 ### Ruby
+* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
 * [Ruby](https://www.ruby-lang.org/tr/)
+* [Ruby 101](https://www.gitbook.io/book/vigo/ruby-101)
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
-* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
-* [Ruby 101](https://www.gitbook.io/book/vigo/ruby-101)
 
 ### Rust
 * [Rust'a Giriş](http://bit.ly/rustagiris)

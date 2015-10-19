@@ -29,6 +29,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + Azerbaijan: [github](/free-programming-books-az.md)
 + Bulgarian: [github](/free-programming-books-bg.md)
 + Chinese: [github](/free-programming-books-zh.md)
++ Traditional Chinese: [github](/free-programming-books-zh_TW.md)
 + Czech: [github](/free-programming-books-cs.md)
 + French: [github](/free-programming-books-fr.md)
 + German: [github](/free-programming-books-de.md)

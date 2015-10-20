@@ -53,6 +53,8 @@
 * [Podcast] - [Programming Throwdown](http://www.programmingthrowdown.com/)
 * [Podcast] - [Software Engineering Radio](http://www.se-radio.net/)
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
+* [Podcast] - [The Changelog Podcast](https://changelog.com/podcast/)
+* [Podcast] - [Shop Talk Show](http://shoptalkshow.com/)
 
 ### Node.js
 * [Podcast] - [Node.js Screencast Series - Tutsowl](http://www.tutsowl.com/)

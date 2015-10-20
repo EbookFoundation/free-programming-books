@@ -1736,7 +1736,7 @@ See also [TeX](#tex)
 * [Ruby on Rails 3.2 - Step by Step](http://www.xyzpub.com/en/ruby-on-rails/3.2/)
 * [Ruby on Rails 4.0 Guide](http://www.xyzpub.com/en/ruby-on-rails/4.0/)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
-* [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+* [Ruby on Rails Tutorial: Learn Rails By Example](https://www.railstutorial.org/book/)
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
 
 

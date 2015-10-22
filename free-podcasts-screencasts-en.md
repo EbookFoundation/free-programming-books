@@ -74,6 +74,8 @@
 * [Screencast] - [TheNewBoston - Python GUI with Tkinter Playlist](http://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)
 * [Screencast] - [TheNewBoston - Python Programming Tutorials - 2.x](http://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA)
 * [Screencast] - [Try Django Tutorial](http://youtu.be/3DccH9AMwFQ?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx)
+* [Screencast] - [Python Fromatting tutorials](https://pyformat.info/)
+
 
 ### Ruby
 * [Screencast] - [Free Ruby on Rails Screencasts](http://railscasts.com/?type=free)

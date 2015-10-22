@@ -814,6 +814,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](http://www.stroustrup.com/JSF-AV-rules.pdf)
 * [Learn C++.](http://www.learncpp.com/) (PDF, Online)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
+* [Optimizing C++](http://www.steveheller.org/opt/) - Steve Heller 
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)

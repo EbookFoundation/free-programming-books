@@ -302,6 +302,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 
 #### Compiler Design
+* [An Introduction to GCC](http://www.network-theory.co.uk/docs/gccintro/) - Brian Gough
 * [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
 * [Compilers and Compiler Generators: An Introduction with C++](http://www.scifac.ru.ac.za/compilers/) - P. D. Terry
 * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)

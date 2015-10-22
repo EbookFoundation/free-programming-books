@@ -5,6 +5,7 @@
 * [CSS](#css)
 * [Elixir](#elixir)
 * [Emacs](#emacs)
+* [Ember.js](#emberjs)
 * [Erlang](#erlang)
 * [Javascript](#javascript)
 * [Language Agnostic](#language-agnostic)
@@ -34,6 +35,9 @@
 
 ### Emacs
 * [Screencast] - [Emacs Rocks!](http://emacsrocks.com/)
+
+### Ember.js
+* [Podcast] - [Ember Weekend](https://emberweekend.com/episodes)
 
 ### Erlang
 * [Screencast] - [Erlang Factory SF Bay 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)

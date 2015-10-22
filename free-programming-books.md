@@ -785,6 +785,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
 * [The little book about OS development - Erik Helin, Adam Renberg] (http://littleosbook.github.io/)
+* [Writing Bug-Free C Code](http://www.duckware.com/bugfreec/index.html) - Jerry Jongerius
 
 ### C Sharp
 * [Beginners Guide to C# and the.NET Micro Framework](http://www.ghielectronics.com/downloads/FEZ/Beginners%20guide%20to%20NETMF.pdf)

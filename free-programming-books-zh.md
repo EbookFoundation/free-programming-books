@@ -116,6 +116,8 @@
 
 ### Elasticsearch
 * [Elasticsearch 权威指南](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
+* [ELKstack 中文指南](http://kibana.logstash.es)
+* [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
 
 ### Erlang
 * [Erlang 并发编程](https://github.com/liancheng/cpie-cn) (《Concurrent Programming in Erlang (Part I)》中文版)

@@ -920,7 +920,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 
 ### Erlang
-* [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf)
+* [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf) (PDF)
 * [Erlang Handbook](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
 * [Erlang Programming](http://en.wikibooks.org/wiki/Erlang_Programming) (HTML)
 * [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726/index.html) - J. David Eisenberg

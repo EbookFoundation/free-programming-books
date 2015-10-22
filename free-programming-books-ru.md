@@ -9,6 +9,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C++](#c-1)
+* [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
 * [Go](#go)
@@ -91,6 +92,8 @@
 * [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
 
+### Clojure
+* [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro/)
 
 ### CoffeeScript
 * [Документация CoffeeScript](http://cidocs.ru/coffeescript/)

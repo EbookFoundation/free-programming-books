@@ -770,6 +770,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming%3AC)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
+* [Introduction to C Programming](www.sis.pitt.edu/~ir/KS/Data/RMiles/contents.html) - Rob Miles
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)

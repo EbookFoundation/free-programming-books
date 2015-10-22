@@ -1223,6 +1223,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Oh My JS](https://leanpub.com/ohmyjs/read) *(Leanpub, by Azat Mardanov)*
 * [O'Reilly Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
+* [Sams Teach Yourself JavaScript in 24 Hours](http://www.informit.com/library/library.aspx?b=STY_JavaScript_24_hours) - Michael Moncur 
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [The JavaScript Tutorial](http://javascript.info/)
 * [The Past, Present and Future of JavaScript](http://www.oreilly.com/programming/free/past-present-future-javascript.csp) - Axel Rauschmayer

@@ -1227,6 +1227,7 @@ Original Source: [List of freely available programming books](http://web.archive
 For resources on Angular.js, Backbone.js, D3.js, Dojo, Ember.js, Express.js, jQuery, Knockout.js, and any other JS toolkit/framework, please refer to [Javascript Frameworks Resources and Tutorials](https://web.archive.org/web/20150317044725/http://resrc.io/list/18/javascript-frameworks/), or to its source file `javascript-frameworks-resources.md`. As of July 2015, resrc.io has been permanently shut down. Consult [hackr.io](http://hackr.io/) instead.
 
 #### Node.js
+* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.pdf), [ePub](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.epub))
 * [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher

@@ -167,7 +167,8 @@
 * [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf) (PDF)
 * [Tutorial Introducción a Maven 3](http://www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)
 * [Guía Java para Docentes](http://ignaciolasalvia.com/material/prog1_2013/GuiaJavaparaDocentes2012.pdf) (PDF)
-
+* [¿Cómo Programar en Java?](https://drive.google.com/file/d/0B7s6ZNveG7r_cVZsNkFHcm1uMWs/view?usp=sharing) (PDF)
+* [Pensando en Java](https://drive.google.com/open?id=0B7s6ZNveG7r_QUt2ZjcweXhVZUE) (PDF)
 
 ### JavaScript
 * [Introducción a AJAX](http://librosweb.es/ajax/)

@@ -1842,7 +1842,7 @@ See also [TeX](#tex)
 * [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
 * [Sams Teach Yourself SQL in 24 Hours](http://www.informit.com/library/library.aspx?b=STY_Sql_24hours) - Ron Plew, Ryan Stephens
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/)
-* [SQL Performance Explained](http://use-the-index-luke.com/sql/table-of-contents)
+* [SQL Performance Explained](http://use-the-index-luke.com/sql/table-of-contents) - Markus Winand
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com/)
 
 

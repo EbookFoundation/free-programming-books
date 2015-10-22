@@ -1520,6 +1520,7 @@ See also [TeX](#tex)
 ### Prolog
 * [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/advfrtop.htm)
 * [Applications of Prolog](http://bookboon.com/int/student/it/applications-of-prolog)
+* [Artifical Intelligence through Prolog](http://faculty.nps.edu/ncrowe/book/book.html) - Neil C. Rowe 
 * [Building Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
 * [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
 * [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) (PDF)

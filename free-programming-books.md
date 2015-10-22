@@ -302,7 +302,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 
 #### Compiler Design
-* [An Introduction to GCC](www.network-theory.co.uk/docs/gccintro/) - Brian Gough
+* [An Introduction to GCC](http://www.network-theory.co.uk/docs/gccintro/) - Brian Gough
 * [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
 * [Compilers and Compiler Generators: An Introduction with C++](http://www.scifac.ru.ac.za/compilers/) - P. D. Terry
 * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
@@ -771,11 +771,10 @@ Original Source: [List of freely available programming books](http://web.archive
 * [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming%3AC)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
-* [Introduction to C Programming](www.sis.pitt.edu/~ir/KS/Data/RMiles/contents.html) - Rob Miles
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
-* [Object-Oriented Programming with ANSI-C](https://www.cs.rit.edu/~ats/books/ooc.pdf) (PDF) - Axel-Tobias Schreiner 
+* [Object-Oriented Programming with ANSI-C](https://www.cs.rit.edu/~ats/books/ooc.pdf) (PDF) - Axel-Tobias Schreiner
 * [Programming in C - Bharat Kinariwala & Tep Dobry](http://ee.hawaii.edu/~tep/EE160/Book/PDF/)
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
@@ -792,7 +791,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [C# Programming - Wikibook](http://en.wikibooks.org/wiki/C_Sharp_Programming)
 * [C# Yellow Book](http://www.csharpcourse.com/) (intro to programming)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
-* [Dissecting a C# Application] (damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger 
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [HTTP Programming Recipes for C# Bots](http://www.heatonresearch.com/articles/series/20)
 * [Sams Teach Yourself C# in 24 Hours](http://www.informit.com/library/library.aspx?b=STY_Csharp_24hours) - James Foxall and Wendy Haro-Chun
@@ -815,7 +813,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](http://www.stroustrup.com/JSF-AV-rules.pdf)
 * [Learn C++.](http://www.learncpp.com/) (PDF, Online)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
-* [Optimizing C++](http://www.steveheller.org/opt/) - Steve Heller 
+* [Optimizing C++](http://www.steveheller.org/opt/) - Steve Heller
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
@@ -1223,7 +1221,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Oh My JS](https://leanpub.com/ohmyjs/read) *(Leanpub, by Azat Mardanov)*
 * [O'Reilly Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
-* [Sams Teach Yourself JavaScript in 24 Hours](http://www.informit.com/library/library.aspx?b=STY_JavaScript_24_hours) - Michael Moncur 
+* [Sams Teach Yourself JavaScript in 24 Hours](http://www.informit.com/library/library.aspx?b=STY_JavaScript_24_hours) - Michael Moncur
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [The JavaScript Tutorial](http://javascript.info/)
 * [The Past, Present and Future of JavaScript](http://www.oreilly.com/programming/free/past-present-future-javascript.csp) - Axel Rauschmayer
@@ -1531,7 +1529,7 @@ See also [TeX](#tex)
 ### Prolog
 * [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/advfrtop.htm)
 * [Applications of Prolog](http://bookboon.com/int/student/it/applications-of-prolog)
-* [Artifical Intelligence through Prolog](http://faculty.nps.edu/ncrowe/book/book.html) - Neil C. Rowe 
+* [Artifical Intelligence through Prolog](http://faculty.nps.edu/ncrowe/book/book.html) - Neil C. Rowe
 * [Building Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
 * [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
 * [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) (PDF)

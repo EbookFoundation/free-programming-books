@@ -1493,6 +1493,7 @@ See also [TeX](#tex)
 * [CodeCademy Python](http://www.codecademy.com/tracks/python)
 * [Python for Informatics](http://www.pythonlearn.com/book_007.pdf)
 * [Composing Programs](http://composingprograms.com/) (3.x)
+* [A Byte of Python](http://www.freecodecamp.com/)
 
 
 #### Django

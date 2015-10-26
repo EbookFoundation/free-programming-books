@@ -6,6 +6,7 @@
 * [Engenharia de software](#engenharia-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
+* [Gulp](#gulp)
 * [Grunt](#grunt)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)

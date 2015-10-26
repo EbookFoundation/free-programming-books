@@ -53,6 +53,9 @@
 * [Pro Git](http://git-scm.com/book/pt-br)
 * [Git - guia prático] (http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
+### Gulp
+* [Gulp - O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
+
 
 ### Grunt
 * [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)

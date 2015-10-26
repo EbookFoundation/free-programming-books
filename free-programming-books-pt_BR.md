@@ -6,6 +6,7 @@
 * [Engenharia de software](#engenharia-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
+* [Gulp](#gulp)
 * [Grunt](#grunt)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
@@ -52,6 +53,9 @@
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Pro Git](http://git-scm.com/book/pt-br)
 * [Git - guia prático] (http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+
+### Gulp
+* [Gulp - O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
 
 
 ### Grunt

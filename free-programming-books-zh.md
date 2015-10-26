@@ -45,6 +45,7 @@
 * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
 * [Learn X in Y minutes](http://learnxinyminutes.com/) (数十种语言快速入门教程)
 * [MIT 公开课](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
+* [shiyanlou](https://www.shiyanlou.com/)
 * [TeamTreeHouse](http://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [xuetangX](https://www.xuetangx.com/)

@@ -1,18 +1,4 @@
-## Índice
-* [AngularJs](#angularjs)
-* [Backbone.js](#backbone.js)
-* [Ember.js](#ember.js)
-* [Express.js](#express.js)
-* [Gulp](#gulp)
-* [Grunt](#grunt)
-* [jQuery](#jquery)
-* [Knockout.js](#knockout.js)
-* [Livros](#livros)
-* [Meteor](#meteor)
-* [Node.js](#node.js)
-* [React](#react)
-
-### AngularJs
+### Angular.js
 * [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
 * [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/)
 * [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/)

@@ -10,7 +10,7 @@
     * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
     * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
-* [C](#C)
+* [C](#c)
 * [C++](#c-1)
 * [CSS](#CSS)
 * [Coffeescript](#coffeescript)

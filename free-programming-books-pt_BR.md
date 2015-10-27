@@ -14,9 +14,9 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [jQuery](#jquery)
-* [Node.js](#node.js)
 * [LaTeX](#latex)
 * [Lua](#lua)
+* [Node.js](#node.js)
 * [PHP](#php)
 * [Python](#python)
 * [RegEx](#regex)
@@ -96,13 +96,6 @@
 * [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
 * [Artigos sobre jQuery](http://tableless.com.br/code/javascript/jquery/)
 
-
-### Node.js
-* [Node.js para Leigos](http://udgwebdev.com/nodejs)
-* [Primeiros passos com Node.js](http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/)
-* [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
-
-
 ### LaTeX
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
 
@@ -110,6 +103,10 @@
 ### Lua
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
 
+### Node.js
+* [Node.js para Leigos](http://udgwebdev.com/nodejs)
+* [Primeiros passos com Node.js](http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/)
+* [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
 
 ### Php
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)

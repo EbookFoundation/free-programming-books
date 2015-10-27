@@ -428,7 +428,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
 * [CS For All](http://www.cs.hmc.edu/csforall/)
 * [Culture \& Empire: Digital Revolution](http://hintjens.com/books) (PDF)
-* [Data-Intensive Text Processing with MapReduce](http://www.umiacs.umd.edu/~jimmylin/MapReduce-book-final.pdf) (PDF)
 * [Designing for Performance](http://designingforperformance.com) by Lara Hogan
 * [Designing Interfaces](http://designinginterfaces.com) by Jennifer Tidwell
 * [DevDocs](http://devdocs.io/) - Documents for Developers in 1 place
@@ -1044,7 +1043,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Cloudera Impala](http://www.cloudera.com/content/cloudera/en/resources/library/aboutcloudera/cloudera-impala-ebook.html) - John Russel
 * [Hadoop Illuminated](http://hadoopilluminated.com/book.php) - Mark Kerzner & Sujee Maniyam
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
-
+* [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (PDF)
 
 
 ### Haskell

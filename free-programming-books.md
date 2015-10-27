@@ -1914,6 +1914,7 @@ See also [LaTeX](#latex)
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Unix for Poets](http://www.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
 * [UNIX Commands and Concepts](http://www.cs.bu.edu/teaching/unix/reference/) - Robert I. Pitts
+* [Unix Power Books] (http://alex.mackow.free.fr/books/Unix2/upt/index.htm)
 
 
 ### Verilog

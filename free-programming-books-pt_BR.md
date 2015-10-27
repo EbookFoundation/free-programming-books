@@ -1,4 +1,5 @@
 ## Índice
+* [AngularJs](#angularjs)
 * [Android](#android)
 * [C](#c)
 * [C++](#cpp)
@@ -12,6 +13,8 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [jQuery](#jquery)
+* [Node.js](#node.js)
 * [LaTeX](#latex)
 * [Lua](#lua)
 * [PHP](#php)
@@ -20,6 +23,11 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
+
+## AngularJs
+* [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
+* [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/)
+* [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/)
 
 ### Android
 * [Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
@@ -65,13 +73,11 @@
 ### Haskell
 * [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
 
-
 ### HTML / CSS
 * [Curso de HTML5 em vídeo do Guanabara](http://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 * [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
 * [Dive Into HTML5](http://diveintohtml5.com.br/)
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
-
 
 ### Java
 * [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/)
@@ -83,10 +89,18 @@
 
 ### JavaScript
 * [Eloquent Javascript PT-BR](https://github.com/braziljs/eloquente-javascript)
-* [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
-* [Node.js para Leigos](http://udgwebdev.com/nodejs)
 * [Tudo sobre Meteor](http://udgwebdev.com/meteor)
+
+### jQuery
+* [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
+* [Artigos sobre jQuery](http://tableless.com.br/code/javascript/jquery/)
+
+
+### Node.js
+* [Node.js para Leigos](http://udgwebdev.com/nodejs)
+* [Primeiros passos com Node.js](http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/)
+* [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
 
 
 ### LaTeX

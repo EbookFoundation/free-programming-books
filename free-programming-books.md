@@ -1020,6 +1020,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Network programming with Go](http://jan.newmarch.name/go/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 * [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
+* [The Little Go Book](https://github.com/karlseguin/the-little-go-book)
 
 
 ### Groovy

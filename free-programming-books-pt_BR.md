@@ -1,5 +1,4 @@
 ## Índice
-* [AngularJs](#angularjs)
 * [Android](#android)
 * [C](#c)
 * [C++](#cpp)
@@ -7,27 +6,18 @@
 * [Engenharia de software](#engenharia-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
-* [Gulp](#gulp)
-* [Grunt](#grunt)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [jQuery](#jquery)
 * [LaTeX](#latex)
 * [Lua](#lua)
-* [Node.js](#node.js)
 * [PHP](#php)
 * [Python](#python)
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
-
-## AngularJs
-* [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
-* [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/)
-* [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/)
 
 ### Android
 * [Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
@@ -62,13 +52,6 @@
 * [Pro Git](http://git-scm.com/book/pt-br)
 * [Git - guia prático] (http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
-### Gulp
-* [Gulp - O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
-
-
-### Grunt
-* [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
-* [Grunt - Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 
 ### Haskell
 * [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
@@ -88,13 +71,8 @@
 
 
 ### JavaScript
-* [Eloquent Javascript PT-BR](https://github.com/braziljs/eloquente-javascript)
-* [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
-* [Tudo sobre Meteor](http://udgwebdev.com/meteor)
+* [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR)
 
-### jQuery
-* [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
-* [Artigos sobre jQuery](http://tableless.com.br/code/javascript/jquery/)
 
 ### LaTeX
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
@@ -102,11 +80,6 @@
 
 ### Lua
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
-
-### Node.js
-* [Node.js para Leigos](http://udgwebdev.com/nodejs)
-* [Primeiros passos com Node.js](http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/)
-* [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
 
 ### Php
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)

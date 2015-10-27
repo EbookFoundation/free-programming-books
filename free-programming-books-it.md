@@ -43,7 +43,7 @@
 
 ### C
 * [Guida al C di Blacklight](http://blacklight.gotdns.org/guidac.pdf)
-
+* [Tricky C](http://www.ba.infn.it/~pierro/ebook/trickyc.pdf)
 
 ### C Sharp
 * [AB..C# - Guida alla programmazione](http://www.youblisher.com/files/publications/4/21542/pdf.pdf)

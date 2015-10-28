@@ -773,6 +773,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
+* [Object-Oriented Programming with ANSI-C](https://www.cs.rit.edu/~ats/books/ooc.pdf) (PDF) - Axel-Tobias Schreiner
 * [Programming in C - Bharat Kinariwala & Tep Dobry](http://ee.hawaii.edu/~tep/EE160/Book/PDF/)
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
@@ -781,6 +782,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
 * [The little book about OS development - Erik Helin, Adam Renberg] (http://littleosbook.github.io/)
+* [Writing Bug-Free C Code](http://www.duckware.com/bugfreec/index.html) - Jerry Jongerius
 
 ### C Sharp
 * [Beginners Guide to C# and the.NET Micro Framework](http://www.ghielectronics.com/downloads/FEZ/Beginners%20guide%20to%20NETMF.pdf)
@@ -791,6 +793,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [HTTP Programming Recipes for C# Bots](http://www.heatonresearch.com/articles/series/20)
+* [Sams Teach Yourself C# in 24 Hours](http://www.informit.com/library/library.aspx?b=STY_Csharp_24hours) - James Foxall and Wendy Haro-Chun
 * [Threading in C#](http://www.albahari.com/threading/)
 
 
@@ -810,6 +813,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](http://www.stroustrup.com/JSF-AV-rules.pdf)
 * [Learn C++.](http://www.learncpp.com/) (PDF, Online)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
+* [Optimizing C++](http://www.steveheller.org/opt/) - Steve Heller
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
@@ -1084,6 +1088,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Learn CSS Layout](http://learnlayout.com/)
 * [Scalable and Modular Architecture for CSS](http://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
+* [What Is HTML5?](http://shop.oreilly.com/product/0636920021049.do) - Brett McLaughlin
 * [Adaptive Web Design] (http://adaptivewebdesign.info/1st-edition/) - Aaron Gustafson
 
 
@@ -1164,7 +1169,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc)
 * [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [The Java EE7 Tutorial](https://docs.oracle.com/javaee/7/JEETT.pdf) (PDF)
-* [The Java Language Specification](http://java.sun.com/docs/books/jls/) - James Gosling, Bill Joy, Guy Steele, Gilad Bracha
+* [The Java Language Specification](http://docs.oracle.com/javase/specs/) - James Gosling, Bill Joy, Guy Steele, Gilad Bracha
 * [The Java Tutorial 4th Edition](http://download.oracle.com/javase/tutorial/) - Sharon Zakhour, Scott Hommel, Jacob Royal, Isaac Rabinovitch, Tom Risser, Mark Hoeber
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
@@ -1218,8 +1223,10 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Oh My JS](https://leanpub.com/ohmyjs/read) *(Leanpub, by Azat Mardanov)*
 * [O'Reilly Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
+* [Sams Teach Yourself JavaScript in 24 Hours](http://www.informit.com/library/library.aspx?b=STY_JavaScript_24_hours) - Michael Moncur
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [The JavaScript Tutorial](http://javascript.info/)
+* [The Past, Present and Future of JavaScript](http://www.oreilly.com/programming/free/past-present-future-javascript.csp) - Axel Rauschmayer
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655) (PDF)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) *(Leanpub, by Nicholas C. Zakas)*
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
@@ -1236,6 +1243,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
 * [Node.js Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [The Node Beginner Book](http://nodebeginner.org/)
+* [What Is Node?](http://shop.oreilly.com/product/0636920021506.do) - Brett McLaughlin
 
 
 ### Jenkins
@@ -1524,6 +1532,7 @@ See also [TeX](#tex)
 ### Prolog
 * [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/advfrtop.htm)
 * [Applications of Prolog](http://bookboon.com/int/student/it/applications-of-prolog)
+* [Artifical Intelligence through Prolog](http://faculty.nps.edu/ncrowe/book/book.html) - Neil C. Rowe
 * [Building Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
 * [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
 * [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
@@ -1719,6 +1728,7 @@ See also [TeX](#tex)
 * [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
+* [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - Huw Collingbourne
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
 
@@ -1832,7 +1842,9 @@ See also [TeX](#tex)
 * [A Primer on SQL, Second Edition](https://leanpub.com/aprimeronsql)
 * [Developing Time-Oriented Database Applications in SQL](http://www.cs.arizona.edu/people/rts/publications.html)
 * [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
+* [Sams Teach Yourself SQL in 24 Hours](http://www.informit.com/library/library.aspx?b=STY_Sql_24hours) - Ron Plew, Ryan Stephens
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/)
+* [SQL Performance Explained](http://use-the-index-luke.com/sql/table-of-contents) - Markus Winand
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com/)
 
 
@@ -1923,6 +1935,7 @@ See also [LaTeX](#latex)
 
 ### VHDL
 * [Free Range VHDL](http://github.com/fabriziotappero/Free-Range-VHDL-book) (TeX and PDF) by Bryan Mealy, Fabrizio Tappero
+* [VHDL: A Starter's Guide, 2nd Edition](http://users.ece.gatech.edu/~sudha/book/starters-guide/) - Sudhakar Yalamanchili
 * [VHDL Tutorial](http://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html)
 * [VHDL Tutorial](http://hep.uchicago.edu/~tangjian/SVT_sub/FTK_ATLAS/AUX/vhdl-tutorial.pdf) - Peter J. Ashenden
 * [VHDL Tutorial: Learn By Example](http://esd.cs.ucr.edu/labs/tutorial/)

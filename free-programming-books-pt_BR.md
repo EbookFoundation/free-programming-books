@@ -79,7 +79,7 @@
 
 
 ### JavaScript
-* [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR)
+* [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
 
 
 ### LaTeX

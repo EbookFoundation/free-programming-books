@@ -28,6 +28,6 @@ TODO
     - [x] ru
     - [ ] tr
     - [x] zh
-    - [ ] javascript framework
+    - [x] javascript framework
     - [x] courses
-    - [ ] problem sets
+    - [x] problem sets

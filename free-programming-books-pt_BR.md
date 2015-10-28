@@ -6,9 +6,6 @@
 * [Engenharia de software](#engenharia-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
-* [Gulp](#gulp)
-* [Grunt](#grunt)
-* [Gulp](#Gulp)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)
@@ -22,8 +19,10 @@
 * [Shell Script](#shell)
 * [Vim](#vim)
 
+
 ### Android
 * [Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
+
 
 ### C
 * [Apostila Linguagem C - Silvio Lago](http://www.ime.usp.br/~slago/slago-C.pdf)
@@ -32,15 +31,17 @@
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
 
+
 ### CPP
 * [Apostila Linguagem C++ - Silvio Lago](http://www.ime.usp.br/~slago/slago-C++.pdf)
 * [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf)
 
-### CSharp
 
+### CSharp
 * [C# e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)
 * [C# e Orientação a Objetos - K19](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k31-csharp-e-orientacao-a-objetos)
 * [Desenvolvimento Web com ASP.NET MVC - K19](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k32-desenvolvimento-web-com-aspnet-mvc)
+
 
 ### Engenharia de Software
 #### Metodologias de Desenvolvimento de Software
@@ -53,20 +54,7 @@
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Pro Git](http://git-scm.com/book/pt-br)
-* [Git - guia prático] (http://rogerdudler.github.io/git-guide/index.pt_BR.html)
-
-### Gulp
-* [Gulp - O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
-
-
-### Grunt
-* [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
-* [Grunt - Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
-
-
-### Gulp
-* [GulpJS - Um gole de otimização no seu workflow](http://blog.da2k.com.br/2015/01/24/gulpjs-um-gole-de-otimizacao-no-seu-workflow/)
-* [1 de março de 2015 Gulp connect e livereload](http://blog.da2k.com.br/2015/03/01/gulp-connect-e-livereload/)
+* [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
 
 ### Haskell
@@ -89,11 +77,7 @@
 
 
 ### JavaScript
-* [Eloquent Javascript PT-BR](https://github.com/braziljs/eloquente-javascript)
-* [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
-* [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
-* [Node.js para Leigos](http://udgwebdev.com/nodejs)
-* [Tudo sobre Meteor](http://udgwebdev.com/meteor)
+* [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR)
 
 
 ### LaTeX
@@ -128,7 +112,6 @@
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
-
 
 
 ### Shell

@@ -290,6 +290,7 @@ Original Source: [List of freely available programming books](http://web.archive
 #### Cellular Automata
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
 * [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)
+* [Introduction to the Theory of Computation] (https://drive.google.com/file/d/0B6KBoZZPA9d8d3E2UElxNl9MRk0/view?usp=sharing)
 
 
 #### Cloud Computing
@@ -377,6 +378,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 #### Mathematics
 * [A First Course in Linear Algebra](http://linear.ups.edu/) - Robert A. Beezer
+* [Algebra by Michael Artin](https://drive.google.com/file/d/0B6KBoZZPA9d8WmJYM29qdlhUSGM/view?usp=sharing)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
 * [CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
 * [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) (PDF) - Silvanus P. Thompson

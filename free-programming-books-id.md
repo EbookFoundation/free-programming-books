@@ -17,6 +17,7 @@
 
 ### javascript
 * [Mengenal Javascript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
+* [Otomatisasi dengan gulp.js](http://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/)
 
 
 ### NoSQL
@@ -24,4 +25,4 @@
 
 
 ### php
-* [Tutorial Ebook PHP](http://adf.ly/1847642/http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+* [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)

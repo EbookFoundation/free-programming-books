@@ -43,7 +43,7 @@
 
 ### C
 * [Guida al C di Blacklight](http://blacklight.gotdns.org/guidac.pdf)
-
+* [Tricky C](http://www.ba.infn.it/~pierro/ebook/trickyc.pdf)
 
 ### C Sharp
 * [AB..C# - Guida alla programmazione](http://www.youblisher.com/files/publications/4/21542/pdf.pdf)
@@ -54,7 +54,9 @@
 
 
 ### Java
+* [Guida a Java 8](http://twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
 * [Introduzione a Java](http://www.ateneonline.it/hyperbook/j_book/java2.htm)
+* [Java - Wikibooks](https://it.wikibooks.org/wiki/Java)
 * [Object Oriented && Java 5 (II Edizione) - Claudio De Sio Cesari](http://www.claudiodesio.com/download/oo_&&_java_5.zip)
 
 

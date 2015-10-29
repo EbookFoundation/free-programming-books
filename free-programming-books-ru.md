@@ -9,6 +9,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C++](#c-1)
+* [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
 * [Go](#go)
@@ -31,6 +32,7 @@
 * [Ruby](#ruby)
   * [RSpec](#rspec)
 * [Ruby on Rails](#ruby-on-rails)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Scilab](#scilab)
 * [Smalltalk](#smalltalk)
@@ -91,6 +93,8 @@
 * [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
 
+### Clojure
+* [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro/)
 
 ### CoffeeScript
 * [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
@@ -102,8 +106,9 @@
 
 ### JavaScript
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/) - Иво Ветцель
+* [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
-* [Современный учебник JavaScript](http://learn.javascript.ru)
+* [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
 
 
 #### Node.js
@@ -197,6 +202,10 @@
 ### Ruby on Rails
 * [Ruby on Rails Tutorial. Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning) Майкл Хартл
 * [Ruby on Rails по-русски](http://rusrails.ru)
+
+
+### Rust
+* [Язык программирования Rust](http://kgv.github.io/rust_book_ru/)
 
 
 ### Scala

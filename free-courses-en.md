@@ -4,19 +4,26 @@
 * [AngularJS](#angularjs)
 * [C](#c)
 * [C++](#c-1)
+* [C#](#c-2)
 * [Clojure](#clojure)
 * [Databases](#databases)
+* [Git](#git)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
 * [JS](#js)
+* [Lua](#lua)
 * [Matlab](#matlab)
 * [Misc](#misc)
 * [OCaml](#ocaml)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Python](#python)
+* [R](#r)
+* [RethinkDB](#rethinkdb)
 * [Ruby](#ruby)
+* [Sails.js](#sailsjs)
 * [Scala](#scala)
 * [Swift](#swift)
 * [Web Development](#web-development)
@@ -30,7 +37,10 @@
 ### Android
 * [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloud)
-* [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/course/android)
+* [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
+* [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
+* [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
+* [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android)
 
 ### AngularJS
@@ -44,21 +54,29 @@
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [LearnCpp.com C++ Tutorial](http://www.learncpp.com/)
 
+### C# #
+* [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
+
 
 ### Clojure
-* [Functional Programming with Clojure](http://mooc.cs.helsinki.fi/clojure)
+* [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/index.html)
 
 
 ### Databases
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 
+### Git
+* [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
+
+### Go
+* [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
 
 ### Haskell
 * [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
-* [edX: Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x) - Erik Meijer
+* [edX: Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Erik Meijer
 
 
 ### HTML / CSS
@@ -78,6 +96,7 @@
 ### Java
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
+* [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/cs046)
@@ -86,6 +105,10 @@
 ### JS
 * [Egghead.io](https://egghead.io/)
 
+### Lua
+* [Lua Interactive Crash Course](http://luatut.com/crash_course.html)
+* [Lua Tutorial](http://www.tutorialpoint.com/lua/)
+* [Lua org](http://www.lua.org/)
 
 ### MATLAB
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
@@ -107,12 +130,16 @@
 * [MIT´s Computer Language Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/)
 * [MIT´s Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [MIT´s Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+* [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
+* [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
+* [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 
 
 ### OCaml
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/)
+* [Introduction to Functional Programming in OCaml](https://www.france-universite-numerique-mooc.fr/courses/parisdiderot/56002/session01/about)
 
 
 ### Oracle PL/SQL
@@ -123,11 +150,20 @@
 * [Berkeley's Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/~cs61a/)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
+* [Learn Python](https://pythonspot.com)
+* [Programming for Everybody](https://www.coursera.org/course/pythonlearn)
 
+### R
+* [R Programming](https://www.coursera.org/course/rprog)
+
+### RethinkDB
+* [RethinkDB: Distributed Databases](https://courses.platzi.com/courses/rethinkdb-databases/)
 
 ### Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
 
+### Sails.Js
+* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
 ### Scala
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
@@ -139,6 +175,6 @@
 
 
 ### Web Development
+* [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com/)
 * [Udacity Web Development Course Catalog](https://www.udacity.com/courses#!/web-development)
-* [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)

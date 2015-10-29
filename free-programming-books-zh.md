@@ -19,6 +19,7 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [LISP](#lisp)
+* [Lua](#lua)
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [Perl](#perl)
@@ -44,10 +45,13 @@
 * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
 * [Learn X in Y minutes](http://learnxinyminutes.com/) (数十种语言快速入门教程)
 * [MIT 公开课](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
+* [shiyanlou](https://www.shiyanlou.com/)
 * [TeamTreeHouse](http://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [xuetangX](https://www.xuetangx.com/)
 * [慕课网](http://www.imooc.com/course/list)(丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源)
+* [极客学院](http://www.jikexueyuan.com/)
+* [51CTO学院](http://edu.51cto.com/)
 
 #### 软件开发方法
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) (《Functional Programming For The Rest of Us》中文版)
@@ -55,11 +59,15 @@
 
 
 #### 操作系统
+* [Debian 参考手册 ](http://man.chinaunix.net/linux/debian/reference/reference.zh-cn.html)
+* [Ubuntu 参考手册 ](http://wiki.ubuntu.org.cn/UbuntuManual)
+* [FreeBSD 使用手册](http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/)
 * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 * [鸟哥的 Linux 私房菜 服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
 
 #### 版本控制
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -109,6 +117,8 @@
 
 ### Elasticsearch
 * [Elasticsearch 权威指南](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
+* [ELKstack 中文指南](http://kibana.logstash.es)
+* [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
 
 ### Erlang
 * [Erlang 并发编程](https://github.com/liancheng/cpie-cn) (《Concurrent Programming in Erlang (Part I)》中文版)
@@ -155,6 +165,10 @@
 * [Common Lisp 高级编程技术](http://www.ituring.com.cn/minibook/862) (《On Lisp》中文版)
 
 
+### Lua
+* [Lua 5.3 参考手册](http://www.w3cschool.cc/manual/lua53doc/contents.html)
+
+
 ### Markdown
 * [Markdown 快速入门](http://wowubuntu.com/markdown/basic.html)
 * [Markdown 简明教程](http://jianshu.io/p/7bd23251da0a)
@@ -180,11 +194,13 @@
 * [PHP5中文手册](http://php.net/manual/zh/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [Symfony2 实例教程](http://wusuopu.gitbooks.io/symfony2_tutorial/content)
+* [PHP 之道](http://wulijun.github.io/php-the-right-way/)
 
 
 ### Python
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
+* [Python 中文学习大本营](http://www.pythondoc.com/)
 * [深入 Python](http://woodpecker.org.cn/diveintopython/)
 * [深入 Python 3](http://woodpecker.org.cn/diveintopython3/)
 * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)
@@ -235,6 +251,7 @@
 
 ### Vim
 * [大家來學 VIM](http://www.study-area.org/tips/vim/index.html)
+* [Vim Manual(中文版)](http://man.chinaunix.net/newsoft/vi/doc/help.html)
 
 
 ### Visual Prolog

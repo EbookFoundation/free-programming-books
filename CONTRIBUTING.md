@@ -20,7 +20,7 @@ By submitting code you agree to the [LICENSE](https://github.com/vhf/free-progra
 
 4. We prefer small commits rather than one large commit in a pull request. If you don't have the time to make small commit, add an issue with all the links included and we'll add them for you.
 5. Use our standard for formatting the .md file. Check it out: [Formatting](#formatting)
-6. Please try to use alphabetic order.
+6. Must use ***alphabetic*** order.
 
 
 ### Formatting
@@ -53,6 +53,10 @@ GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) - 
 
 ```
 
+#### What to do about multiple links to the same book ([#1192](https://github.com/vhf/free-programming-books/issues/1192#issuecomment-135969100))
++ if its a different edition, add separate link with a note about its edition
++ if its the same book but in a better format, replace link
++ if one is a webpage and the other is pdf, add separate link with a note about its format
 
 And that's it! Simple, easy and lovely...
 

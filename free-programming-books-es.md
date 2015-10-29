@@ -10,7 +10,7 @@
     * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
     * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
-* [C](#C)
+* [C](#c)
 * [C++](#c-1)
 * [CSS](#CSS)
 * [Coffeescript](#coffeescript)
@@ -20,6 +20,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
+    * [AngularJS](#angularjs)
     * [D3](#d3js)
     * [jQuery](#jquery)
     * [node.js](#nodejs)
@@ -39,6 +40,7 @@
 * [R](#R)
 * [Scala](#scala)
 * [SQL](#sql)
+* [SVG](#svg)
 
 
 ### Metalistas
@@ -80,7 +82,7 @@
 
 #### Metodologías de desarrollo de software
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
-* [Diseño Ágil con TDD](http://www.dirigidoportests.com/el-libro)
+* [Diseño Ágil con TDD](http://www.carlosble.com/libro-tdd)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
 * [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
@@ -106,7 +108,7 @@
 
 ### Android
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
-
+* [Curso Android: Todo lo que necesitas para empezar](http://www.maestrosdelweb.com/curso-android/) (HTML) by Adrian Catalán
 
 ### C
 * [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf)
@@ -115,6 +117,8 @@
 
 ### C++
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
+* [Aprenda C++ básico como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/ayudainf/aprendainf/Cpp/basico/cppbasico.pdf)
+* [Aprenda C++ avanzado como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf)
 
 
 ### CSS
@@ -138,7 +142,7 @@
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) en Wikibooks
 
 ### Emacs
-* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/hg/?group=elisp-es)
+* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es)
 
 ### Git
 * [Git Immersion en Español](http://gitimmersion.mx)
@@ -169,6 +173,10 @@
 * [Introducción a AJAX](http://librosweb.es/ajax/)
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
+
+
+#### AngularJS
+* [Cómo aprender AngularJS](http://raulexposito.com/documentos/como-aprender-angularjs/)
 
 
 #### D3.js
@@ -210,7 +218,7 @@
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
 * [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
 * [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf)
-
+*[PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/)
 
 ### Perl
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/)
@@ -221,6 +229,8 @@
 
 
 ### Python
+* [Notas sobre el lenguaje Python] (http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/at_download/file) (GNU Free Documentation License) (PDF)
+* [Introducción a la programación con Python] (http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/Introduccion%20a%20la%20programacion%20con%20Python.pdf/at_download/file) © (PDF)
 * [Aprenda a pensar como un programador (con Python)](http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
@@ -275,3 +285,5 @@
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
 
 
+### SVG
+* [SCALABLE](https://leanpub.com/scalable/) (PDF) (EPUB) (MOBI)

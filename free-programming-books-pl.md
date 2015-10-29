@@ -13,6 +13,7 @@
 * [Prolog](#prolog)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Scala](#scala)
 * [SQL](#sql)
 
 
@@ -62,6 +63,7 @@
 
 
 ### LaTeX
+* [LaTeX. Książka kucharska](http://www.ptm.org.pl/latex-ksiazka-kucharska), Marcin Borkowski, Bartłomiej Przybylski
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
 
 
@@ -83,6 +85,8 @@
 ### Ruby
 * [Ruby](http://pl.wikibooks.org/wiki/Ruby)
 
+### Scala
+* [Język programowania Scala](http://www.grzegorzbalcerek.net/jps2/index.html)
 
 ### SQL
 * [SQL i PL/SQL – podstawy](http://jsystems.pl/storage/sqlplsql1.pdf)

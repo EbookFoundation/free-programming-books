@@ -10,8 +10,8 @@
 * [Arduino](#arduino)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
-* [Caml](#caml)
 * [C / C++](#c--c)
+* [Caml](#caml)
 * [Coq](#coq)
 * [CSS](#css)
 * [Git](#git)
@@ -20,8 +20,8 @@
 * [Javascript](#javascript)
 * [jQuery](#jquery)
 * [(La)TeX et associés](#latex-et-associés)
-    * [LaTeX](#latex)
     * [Asymptote](#asymptote)
+    * [LaTeX](#latex)
     * [Metapost](#metapost)
     * [PGF/TikZ](#pgftikz)
     * [TeX](#tex)
@@ -52,9 +52,9 @@
 
 
 #### Logiciels libres
-* [Histoires et cultures du libres](http://framabook.org/histoires-et-cultures-du-libre/)
-* [Option libre. Du bon usage des licences libres](http://framabook.org/option-libre-du-bon-usage-des-licences-libres/), par Jean Benjamin
-* [Produire du logiciel libre](http://framabook.org/8-produire-du-logiciel-libre/), par Karl Fogel
+* [Histoires et cultures du libres](http://framabook.org/histoiresetculturesdulibre/)
+* [Option libre. Du bon usage des licences libres](http://framabook.org/optionlibre-dubonusagedeslicenceslibres/), par Jean Benjamin
+* [Produire du logiciel libre](http://framabook.org/produire-du-logiciel-libre-2/), par Karl Fogel
 * [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre/), par R.M. Stallman, S. Williams et C. Masutti
 
 
@@ -68,6 +68,7 @@
 
 #### Pédagogie pour enfants et adolescents
 
+* [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
 * [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole), par Tim Bell, Ian H. Witten et Mike Fellows (traduit)
 
 
@@ -107,7 +108,7 @@
 
 ### Git
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) par Alexandre Garel, Paul Gaborit et Nicolas Deram
-* [Pro Git](http://www.git-scm.com/book/fr) par Scott Chacon
+* [Pro Git](http://www.git-scm.com/book/fr/v2) par Scott Chacon et Ben Straub
 
 
 ### Java
@@ -148,7 +149,7 @@ les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du 
 
 #### TeX
 
-* [TeX pour l'Impatient](ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
+* [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
 
 ### Lisp
 * [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) par Francis Leboutte

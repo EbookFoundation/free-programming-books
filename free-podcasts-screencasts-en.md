@@ -73,6 +73,8 @@
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
 * [Podcast] - [The Changelog Podcast](https://changelog.com/podcast/)
 * [Podcast] - [Shop Talk Show](http://shoptalkshow.com/)
+* [Podcast] - [Web Security Warriors](https://devchat.tv/web-security-warriors/)
+* [Podcast] - [Frontside the Podcast](https://frontsidethepodcast.simplecast.fm/)
 
 
 ### Node.js

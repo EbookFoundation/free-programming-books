@@ -137,7 +137,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Processing](#processing)
 * [Prolog](#prolog)
     * [Constraint Logic Programming](#constraint-logic-programming-extended-prolog)
-* [PureScript] (#purescript)
+* [PureScript](#purescript)
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
@@ -147,7 +147,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
-* [Raspberry Pi] (#raspberry-pi)
+* [Raspberry Pi](#raspberry-pi)
 * [REBOL](#rebol)
 * [Ruby](#ruby)
     * [RSpec](#rspec)
@@ -233,7 +233,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Introduction to Modern OpenGL](http://open.gl/)
 * [Learn OpenGL](http://learnopengl.com/) - Joey de Vries
 * [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/) (draft)
-* [OpenGL](http://www.songho.ca/opengl/index.html): Concepts and illustrations.
+* [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations.
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
@@ -268,14 +268,14 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/~rt/gdhandbook/)
-* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://larc.unt.edu/ian/books/free/lnoa.pdf), University of North Texas (PDF)
+* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://larc.unt.edu/ian/books/free/lnoa.pdf) - University of North Texas (PDF)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures: An Introduction](http://www.aupress.ca/index.php/books/120226) - Pat Morin
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
-* [Problems on Algorithms (Second Edition)](http://larc.unt.edu/ian/books/free/poa.pdf), University of North Texas (PDF)
+* [Problems on Algorithms (Second Edition)](http://larc.unt.edu/ian/books/free/poa.pdf) - University of North Texas (PDF)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) (PDF)
 * [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
@@ -668,7 +668,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Agile Android Software Development](http://www.agiledroid.com) (PDF, epub, mobi - need email confirmation) by Etienne Savard
 * [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
 * [Android Programming Guide for Beginners](http://eduonix.com/offers/Android_ebook_free_offer.html) (PDF - need email confirmation)
-* [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.pdf), [Kindle](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.mobi)) *(Just fill the fields with any values)*
+* [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.pdf) - [Kindle](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.mobi)) *(Just fill the fields with any values)*
 * [CodePath Android Cliffnotes](https://github.com/thecodepath/android_guides/wiki)
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
@@ -1177,7 +1177,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/) ([PDF](http://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/spring-framework-reference.pdf)) - Rod Johnson, Juergen Hoeller, Keith Donald, Colin Sampaleanu, Rob Harrop, Thomas Risberg, Alef Arendsen, Darren Davison, Dmitriy Kopylenko, Mark Pollack, Thierry Templier, Erwin Vervaet, Portia Tung, Ben Hale, Adrian Colyer, John Lewis, Costin Leau, Mark Fisher, Sam Brannen, Ramnivas Laddad, Arjen Poutsma, Chris Beams, Tareq Abedrabbo, Andy Clement, Dave Syer, Oliver Gierke, Rossen Stoyanchev, Phillip Webb, Rob Winch, Brian Clozel, Stephane Nicoll, Sebastien Deleuze
 
 #### Spring Boot
-* [Spring Boot Reference Guide](http://docs.spring.io/spring-boot/docs/current/reference/html/) ([PDF](http://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf), [EPUB](http://docs.spring.io/spring-boot/docs/current/reference/epub/spring-boot-reference.epub)) - Phillip Webb, Dave Syer, Josh Long, Stéphane Nicoll, Rob Winch, Andy Wilkinson, Marcel Overdijk, Christian Dupuis
+* [Spring Boot Reference Guide](http://docs.spring.io/spring-boot/docs/current/reference/html/) ([PDF](http://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf) - [EPUB](http://docs.spring.io/spring-boot/docs/current/reference/epub/spring-boot-reference.epub)) - Phillip Webb, Dave Syer, Josh Long, Stéphane Nicoll, Rob Winch, Andy Wilkinson, Marcel Overdijk, Christian Dupuis
 
 #### Spring Security
 * [Spring Security Reference](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) - Ben Alex, Luke Taylor, Rob Winch
@@ -1229,7 +1229,7 @@ Original Source: [List of freely available programming books](http://web.archive
 For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, Meteor, React and any other JS toolkit/framework, please refer to [Javascript Frameworks Resources and Tutorials](/javascript-frameworks-resources.md).
 
 #### Node.js
-* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.pdf), [ePub](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.epub))
+* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.epub))
 * [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node.js Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -1797,7 +1797,7 @@ See also [TeX](#tex)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html)
 * [Structure and Interpretion of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html)
 * [Teach Yourself Scheme in Fixnum Days](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html)
-* [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/), [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
+* [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/) - [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
 * [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 
 
@@ -1862,7 +1862,7 @@ See also [TeX](#tex)
 
 
 ### Standard ML
-* [Programming in Standard ML '97](http://www.dcs.ed.ac.uk/home/stg/NOTES/), by Stephen Gilmore, University of Edinburgh
+* [Programming in Standard ML '97](http://www.dcs.ed.ac.uk/home/stg/NOTES/) - by Stephen Gilmore, University of Edinburgh
 * [Programming in Standard ML, Draft](http://www.cs.cmu.edu/~rwh/smlbook/) - Robert Harper
 
 ### Subversion
@@ -1877,8 +1877,8 @@ See also [TeX](#tex)
 * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) (iBook)
 
 ### Tcl
-* [Tcl Programming](http://en.wikibooks.org/wiki/Programming%3ATcl), by Richard.Suchenwirth, et. al.
-* [TclWise](http://www.invece.org/tclwise/index.html), by Salvatore Sanfilippo
+* [Tcl Programming](http://en.wikibooks.org/wiki/Programming%3ATcl) - by Richard.Suchenwirth, et. al.
+* [TclWise](http://www.invece.org/tclwise/index.html) - by Salvatore Sanfilippo
 
 
 ### Teradata
@@ -1887,8 +1887,8 @@ See also [TeX](#tex)
 
 ### TeX
 * [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) (PDF) by Christian Feursänger
-* [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html), by Victor Eijkhout
-* [TeX for the Impatient](https://www.gnu.org/software/teximpatient/), by Paul Abrahams, Kathryn Hargreaves, and Karl Berry
+* [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - by Victor Eijkhout
+* [TeX for the Impatient](https://www.gnu.org/software/teximpatient/) - by Paul Abrahams, Kathryn Hargreaves, and Karl Berry
 
 See also [LaTeX](#latex)
 

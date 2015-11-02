@@ -1,21 +1,21 @@
 ## Contributor license agreement
 By contributing you agree to the [LICENSE](https://github.com/vhf/free-programming-books/blob/master/LICENSE) of this repository.
 
-## Free, Git, and Files
-1. First of all, what you want to add should be free. Don't confuse "an easy link to download a book" with "a free book".
-2. If you don't know how to work with git or github, simply refer to our wiki [Contribution](https://github.com/vhf/free-programming-books/wiki/Contribution).
+## In a nutshell
+1. "An easy link to download a book" is not necessarily a *free* book. Please only contribute free content.
+2. You don't have to know git: if you found something of interest which is *not already in this repo*, please open an issue with your links propositions.
+    - If you know git, please fork the repo and send pull requests.
 3. We have 5 kinds of lists. Choose the right one:
     
-    - **Books** : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
-    - **Courses** : A course is a learning material which is not a book and where there is no interactive tool embeded in the site. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - **Interactive Tutorials** : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
-    - **JavaScript Resources** : Any resources teaching a JavaScript framework or library.
-    - **Problem Sets & Competitive Programming** : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
+    - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
+    - *Courses* : A course is a learning material which is not a book and where there is no interactive tool embeded in the site. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
+    - *Interactive Tutorials* : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
+    - *JavaScript Resources* : Any resources teaching a JavaScript framework or library.
+    - *Problem Sets & Competitive Programming* : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
 
-4. Make sure to correctly [format](#formatting) your modifications.
-5. Read the guidelines below:
+4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files
 
-### Actual guidelines
+### Guidelines
 - make sure a book is free. Double-check if needed.
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)

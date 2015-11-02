@@ -2,7 +2,7 @@
 By contributing you agree to the [LICENSE](https://github.com/vhf/free-programming-books/blob/master/LICENSE) of this repository.
 
 ## In a nutshell
-1. "An easy link to download a book" is not necessarily a *free* book. Please only contribute free content.
+1. "An link to easily download a book" is not alway a link to a *free* book. Please only contribute free content. Make sure it's free.
 2. You don't have to know git: if you found something of interest which is *not already in this repo*, please open an issue with your links propositions.
     - If you know git, please fork the repo and send pull requests.
 3. We have 5 kinds of lists. Choose the right one:

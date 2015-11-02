@@ -655,7 +655,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 
 ### Agda
-* [Agda Tutorial](https://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
+* [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
 
 ### Alef
 * [Alef Language Reference Manual](http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
@@ -1290,7 +1290,7 @@ See also [TeX](#tex)
 
 
 ### Markdown
-* [Learn Markdown](https://www.gitbook.io/book/gitbookio/markdown) (PDF) (EPUB) (MOBI) - GitBookIO, Sammy P., Aaron O.
+* [Learn Markdown](http://www.gitbook.io/book/gitbookio/markdown) (PDF) (EPUB) (MOBI) - GitBookIO, Sammy P., Aaron O.
 
 
 ### Mathematica

@@ -940,10 +940,10 @@ Original Source: [List of freely available programming books](http://web.archive
 
 
 ### Force.com
+* [Developer Workbooks](http://developer.force.com/workbook)
 * [Force.com Fundamentals](http://wiki.developerforce.com/page/Force_Platform_Fundamentals)
 * [Force.com Platform Fundamentals: An Introduction to Custom Application Development in the Cloud](http://www.lulu.com/shop/salesforcecom/forcecom-platform-fundamentals/ebook/product-17381451.html)
 * [Heroku Postgres](http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) (PDF)
-* [Developer Workbooks](http://developer.force.com/workbook)
 
 ### Forth
 * [A Beginner's Guide to Forth](http://hackershelf.com/book/482/a-beginners-guide-to-forth/)

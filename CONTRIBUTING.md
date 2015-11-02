@@ -60,8 +60,8 @@ Example:
 - Don't put spaces between `]` and `(`
 
 ```
-BAD : * [IllumOS Dynamic Tracing Guide] (http://dtrace.org/guide/preface.html)(PDF)
-GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) (PDF)
+BAD : * [IllumOS Dynamic Tracing Guide] (http://dtrace.org/guide/preface.html)
+GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
 ```
 
 - Put a single space between the link and its format

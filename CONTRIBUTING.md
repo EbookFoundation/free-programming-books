@@ -1,63 +1,73 @@
-# Contribute to the lists
-Hello dear friend, welcome!
-This guide details how to contribute to this repository.
-
-
 ## Contributor license agreement
-By submitting code you agree to the [LICENSE](https://github.com/vhf/free-programming-books/blob/master/LICENSE) of this repository.
+By contributing you agree to the [LICENSE](https://github.com/vhf/free-programming-books/blob/master/LICENSE) of this repository.
 
-
-## All the steps you need
-1. First of all, what you want to add should be actually 'Free'. Don't mistake "An easy link to Download a book" with "Free".
-2. If you don't know how to work with git or github, just simply go to [Wiki: Contribution](https://github.com/vhf/free-programming-books/wiki/Contribution) and read the rest.
-3. We have 5 kinds of lists. Make sure you know where you're adding the link:
+## Free, Git, and Files
+1. First of all, what you want to add should be free. Don't confuse "an easy link to download a book" with "a free book".
+2. If you don't know how to work with git or github, simply refer to our wiki [Contribution](https://github.com/vhf/free-programming-books/wiki/Contribution).
+3. We have 5 kinds of lists. Choose the right one:
     
-    + **Books** : PDF, HTML, DJVU, ePub, a gitBook.io based site, a Git repo, etc.
-    + **Courses** : A course is a well designed learning material which was made by an organized group and is availabe for a long time where there is no interactive tool embeded in the site. e.g.: [OpenCourseWare](http://ocw.mit.edu/), [PHPAcademy](https://phpacademy.org), etc.
-    + **Interactive Tutorials** : An application which helps you learn, by actually typing syntax. e.g.: [Codecademy](http://www.codecademy.com/), [Try Github](http://try.github.io/), etc.
-    + **Javascript Resources** : Resources for learning a Javascript Framework
-    + **Problem Sets & Competetitive Programming** : Challenges/problems, where you can prove your programming skills for yourself or against others
+    - **Books** : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
+    - **Courses** : A course is a learning material which is not a book and where there is no interactive tool embeded in the site. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
+    - **Interactive Tutorials** : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
+    - **JavaScript Resources** : Any resources teaching a JavaScript framework or library.
+    - **Problem Sets & Competitive Programming** : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
 
-4. We prefer small commits rather than one large commit in a pull request. If you don't have the time to make small commit, add an issue with all the links included and we'll add them for you.
-5. Use our standard for formatting the .md file. Check it out: [Formatting](#formatting)
-6. Must use ***alphabetic*** order.
+4. Make sure to correctly [format](#formatting) your modifications.
+5. Read the guidelines below:
 
+### Actual guidelines
+- make sure a book is free. Double-check if needed.
+- insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
+- use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
+    + no file hosting services (this includes Dropbox and Google Drive links)
+- always prefer a `https` link over a `http` one -- as long as they are on the same domain and serve the same content
+- on root domains, strip the trailing slash: `http://example.com` instead of `http://example.com/`
+- always prefer the shortest link: `http://example.com/dir/` is better than `http://example.com/dir/index.html`
+    + no URL shortener links
+- usually prefer the "current" link over the "version" one: `http://example.com/dir/book/current/` is better than `http://example.com/dir/book/v1.0.0/index.html`
+- if a link has an expired certificate/self-signed certificate/SSL issue of any other kind:
+  1. *replace it* with its `http` counterpart if possible (because accepting exceptions can be complicated on mobile devices)
+  2. *leave it* if no `http` version but link still accessible through `https` by adding an exception to the browser or ignoring the warning
+  3. *remove it* otherwise
+- if a link exists in multiple format, add a separate link with a note about each format
+- if a resource exists at different places on the Internet
+    + use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
+    + if they link to different editions and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition
+- prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
 
 ### Formatting
-+ All lists are `.md` files. Try to learn Github's Markdown syntax. It's simple!
-+ All the lists start with an Index, the idea is to show all of sections and subsections there, so it's important to have an index for each section. Right now it's alphabetized, so please use alphabetic order.
-+ Sections are using level 3 heading (in HTML is `<h3>`, in Markdown is `###`), and subsections are using level 4 (in HTML is `<h4>`, in Markdown is `####`).
+- All lists are `.md` files. Try to learn Github's Markdown syntax. It's simple!
+- All the lists start with an Index. The idea is to list and link all sections and subsections there. Keep it in alphabetical order.
+- Sections are using level 3 headings (`###`), and subsections are level 4 headings (`####`).
 
 The idea is to have
-+ `2` empty lines between last suggested book & new header
-+ `1` empty line between header & first book of that very section.
-+ `0` empty line between each book in 1 section.
-+ `1` empty line at the end of each `.md` file.
+- `2` empty lines between last link and new section
+- `1` empty line between heading & first link of its section
+- `0` empty line between two links
+- `1` empty line at the end of each `.md` file
 
-Like this example:
-```markdown
-[...]
-* [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
+Example:
+
+    [...]
+    - [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
 
 
-### DTrace
+    ### DTrace
 
-* [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
-* [Some Other Book](http://so.me/other/book.html)
+    - [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
+    - [Some Other Book](http://so.me/other/book.html)
 
-BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)(PDF)
-GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) (PDF)
+- Don't put spaces between `]` and `(`
 
-BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)- Robert
-GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) - Robert
+    BAD : * [IllumOS Dynamic Tracing Guide] (http://dtrace.org/guide/preface.html)(PDF)
+    GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) (PDF)
 
-```
+- Put a single space between the link and its format
 
-#### What to do about multiple links to the same book ([#1192](https://github.com/vhf/free-programming-books/issues/1192#issuecomment-135969100))
-+ if its a different edition, add separate link with a note about its edition
-+ if its the same book but in a better format, replace link
-+ if one is a webpage and the other is pdf, add separate link with a note about its format
+    BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)(PDF)
+    GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) (PDF)
 
-And that's it! Simple, easy and lovely...
+- If you wish to mention the author, use ` - ` (a dash surrounded by single spaces)
 
-We hope you contribute to this great repository. :+1:
+    BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)- Robert
+    GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) - Robert

@@ -406,7 +406,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
 * [Ordinary Differential Equations](http://en.wikibooks.org/wiki/Ordinary_Differential_Equations)
 * [Power Programming with Mathematica](http://mathematica.stackexchange.com/questions/16485/are-you-interested-in-purchasing-david-wagners-power-programming-with-mathemat/22724) - David B. Wagner
-* [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
+* [Probability and Statistics Cookbook](http://statistics.zone/)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
@@ -1552,7 +1552,7 @@ See also [TeX](#tex)
 ### Python
 * [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
-* [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) - Rafe Kettler
+* [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
 * [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)

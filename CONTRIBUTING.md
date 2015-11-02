@@ -59,15 +59,21 @@ Example:
 
 - Don't put spaces between `]` and `(`
 
-    BAD : * [IllumOS Dynamic Tracing Guide] (http://dtrace.org/guide/preface.html)(PDF)
-    GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) (PDF)
+```
+BAD : * [IllumOS Dynamic Tracing Guide] (http://dtrace.org/guide/preface.html)(PDF)
+GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) (PDF)
+```
 
 - Put a single space between the link and its format
 
-    BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)(PDF)
-    GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) (PDF)
+```
+BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)(PDF)
+GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) (PDF)
+```
 
 - If you wish to mention the author, use ` - ` (a dash surrounded by single spaces)
 
-    BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)- Robert
-    GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) - Robert
+```
+BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)- Robert
+GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) - Robert
+```

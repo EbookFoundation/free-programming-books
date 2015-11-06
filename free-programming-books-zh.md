@@ -52,6 +52,7 @@
 * [慕课网](http://www.imooc.com/course/list)(丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源)
 * [极客学院](http://www.jikexueyuan.com/)
 * [51CTO学院](http://edu.51cto.com/)
+* [计蒜客](http://www.jisuanke.com/)
 
 #### 软件开发方法
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) (《Functional Programming For The Rest of Us》中文版)

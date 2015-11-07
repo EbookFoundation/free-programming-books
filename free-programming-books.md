@@ -1284,7 +1284,7 @@ See also [TeX](#tex)
 
 ### Lua
 * [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/)
-* [Programming In Lua](http://www.lua.org/pil/) (for version 5)
+* [Programming In Lua](ftp://ftp.fixme.ch/free_for_all/Ebook/IT%20eBooks/Software%20Engineering/System%20&%20Scientific/Lua/Programming%20in%20Lua.pdf) (for version 5)
 * [Programming Gems](http://www.lua.org/gems/)
 * [Wikibook](http://en.wikibooks.org/wiki/Lua_Programming)
 

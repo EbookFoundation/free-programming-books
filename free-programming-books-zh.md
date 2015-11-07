@@ -308,12 +308,26 @@
 * [C++ 并发编程(基于C++11)](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
 
+### CSS
+
+* [学习CSS布局](http://zh.learnlayout.com/)
+* [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+* [CSS参考手册](http://css.doyoe.com/)
+* [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
+* [前端代码规范](http://alloyteam.github.io/CodeGuide/) (腾讯 AlloyTeam 团队)
+* [HTML和CSS编码规范](http://codeguide.bootcss.com/)
+* [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
+* [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
 
 ### CoffeeScript
 * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 * [CoffeeScript 中文](http://coffee-script.org/)
 * [CoffeeScript 中文手册](http://island205.github.io/tlboc/) (《The Little Book on CoffeeScript》中文版)
 * [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
+
+### Dart
+
+* [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
 
 ### Elasticsearch
 * [Elasticsearch 权威指南](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
@@ -333,19 +347,56 @@
 * [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
 * [Go 指南](http://go-tour-zh.appsp0t.com/) (《A Tour of Go》中文版)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
-* [学习 Go 语言](https://github.com/mikespook/Learning-Go-zh-cn)
+* [学习Go语言](http://mikespook.com/learning-go/) ([PDF](http://xxiyy.qiniudn.com/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80\(Golang\).pdf?download))
+* [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
+* [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
+* [Effective Go](http://www.hellogcc.org/effective_go.html)
+* [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+* [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
+* [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
+* [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
+* [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
+* [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 
+### Groovy
+
+* [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
 
 ### Haskell
 * [Haskell 趣学指南](http://learnyouahaskell-zh-tw.csie.org/)
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
-
-### HTML / CSS
+### HTML
 * [HTML5 教程](http://www.w3school.com.cn/html5/)
-* [学习 CSS 布局](http://zh.learnlayout.com/)
-* [CSS参考手册](http://css.doyoe.com/)
 
+### iOS
+
+* [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+* [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
+* [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
+* [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
+* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
+* [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
+
+### Java
+
+* [Apache Shiro 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
+* [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
+* [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
+* [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
+* [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
+* [用jersey构建REST服务](https://github.com/waylau/RestDemo)
+* [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
+* [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+* [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
+* [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
+* [REST 实战](https://github.com/waylau/rest-in-action)
+* [Java 编码规范](https://github.com/waylau/java-code-conventions)
+* [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
+* [H2 Database 教程](https://github.com/waylau/h2-database-doc)
+* [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
+* [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
 
 ### Javascript
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)

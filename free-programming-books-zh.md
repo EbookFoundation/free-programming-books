@@ -28,13 +28,17 @@
     * [Android](#android)
     * [AWK](#awk)
     * [C/C++](#cc)
+    * [CSS/HTML](#css)
     * [CoffeeScript](#coffeescript)
+    * [Dart](#dart)
     * [Elasticsearch](#elasticsearch)
     * [Erlang](#erlang)
     * [Fortran](#fortran)
     * [Golang](#golang)
     * [Haskell](#haskell)
     * [HTML / CSS](#html--css)
+    * [iOS](#ios)
+    * [Java](#java)
     * [JavaScript](#javascript)
     * [LaTeX](#latex)
     * [LISP](#lisp)
@@ -308,7 +312,7 @@
 * [C++ 并发编程(基于C++11)](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
 
-### CSS
+### CSS / HTML
 
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
@@ -318,6 +322,7 @@
 * [HTML和CSS编码规范](http://codeguide.bootcss.com/)
 * [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
 * [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
+* [HTML5 教程](http://www.w3school.com.cn/html5/)
 
 ### CoffeeScript
 * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
@@ -366,9 +371,6 @@
 * [Haskell 趣学指南](http://learnyouahaskell-zh-tw.csie.org/)
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
-### HTML
-* [HTML5 教程](http://www.w3school.com.cn/html5/)
-
 ### iOS
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
@@ -399,11 +401,71 @@
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
 
 ### Javascript
-* [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [Javascript 原理](http://typeof.net/s/jsmech/)
-* [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
-* [ECMAScript 6入门](http://es6.ruanyifeng.com/)
-
+* [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
+* [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+* [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
+* [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
+* [Javascript编程指南](http://pij.robinqu.me/) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
+* [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
+* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
+* [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) “JavaScript patterns”中译本
+* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
+* [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
+* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
+* [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
+* jQuery
+    * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
+    * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
+    * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
+* Node.js
+    * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+    * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+    * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
+    * [express.js 中文文档](http://expressjs.jser.us/)
+    * [koa 中文文档](https://github.com/turingou/koa-guide)
+    * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
+    * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
+    * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+    * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.org/package/learnyounode-zh-cn)
+    * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
+    * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
+* underscore.js
+    * [Underscore.js中文文档](http://learningcn.com/underscore/)
+* backbone.js
+    * [backbone.js中文文档](http://www.css88.com/doc/backbone/)
+    * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
+    * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
+    * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
+* AngularJS
+    * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
+    * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
+    * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
+    * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
+    * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
+* Zepto.js
+    * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
+* Sea.js
+    * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
+* React.js
+    * [React.js 中文文档](http://reactjs.cn/)
+    * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
+    * [React 入门教程](http://fraserxu.me/intro-to-react/)
+    * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
+* impress.js
+    * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
+* CoffeeScript
+    * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
+    * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
+    * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
+* ExtJS
+    * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
+* Meteor
+    * [Discover Meteor](http://zh.discovermeteor.com/)
+* [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 ### LaTeX
 * [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)

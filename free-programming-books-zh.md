@@ -25,8 +25,9 @@
     * [其它](#其它)
 
 * [语言相关](#语言相关)
-    * [C](#c)
-    * [C++](#c-1)
+    * [Android](#android)
+    * [AWK](#awk)
+    * [C/C++](#cc)
     * [CoffeeScript](#coffeescript)
     * [Elasticsearch](#elasticsearch)
     * [Erlang](#erlang)
@@ -265,19 +266,47 @@
 
 ## 语言相关
 
+### Android
+
+* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
+* Google Material Design 正體中文版 ([译本一](http://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
+* [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
+* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+* [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
+* [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
+* [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
+* [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+### AWK
+
+* [awk程序设计语言](https://github.com/wuzhouhui/awk)
+* [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+
 ### C
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
 * [C/C++ 学习教程](http://doc.lellansin.com/)
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
 * [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
-
-
-
-### C++
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [C++ 基础教程](http://www.prglab.com/cms/)
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial)
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
+* [C 语言编程透视](http://tinylab.gitbooks.io/cbook)
+* [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
+* [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
+* [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
+* [ZMQ 指南](https://github.com/anjuke/zguide-cn)
+* [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf)
+* [GNU make中文手册](http://www.yayu.org/book/gnu_make/)
+* [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+* [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
+* [C/C++ Primer](https://github.com/andycai/cprimer) (by @andycai)
+* [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
+* [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
+* [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
+* [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
+* [C++ 并发编程(基于C++11)](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)
+* [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
 
 
 ### CoffeeScript

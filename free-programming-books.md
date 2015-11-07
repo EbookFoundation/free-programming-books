@@ -137,7 +137,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Processing](#processing)
 * [Prolog](#prolog)
     * [Constraint Logic Programming](#constraint-logic-programming-extended-prolog)
-* [PureScript] (#purescript)
+* [PureScript](#purescript)
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
@@ -147,7 +147,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
-* [Raspberry Pi] (#raspberry-pi)
+* [Raspberry Pi](#raspberry-pi)
 * [REBOL](#rebol)
 * [Ruby](#ruby)
     * [RSpec](#rspec)
@@ -162,7 +162,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [Sed](#sed)
-* [Silverlight](#silverlight)
 * [Smalltalk](#smalltalk)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
@@ -233,7 +232,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Introduction to Modern OpenGL](http://open.gl/)
 * [Learn OpenGL](http://learnopengl.com/) - Joey de Vries
 * [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/) (draft)
-* [OpenGL](http://www.songho.ca/opengl/index.html): Concepts and illustrations.
+* [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations.
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
@@ -268,14 +267,14 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/~rt/gdhandbook/)
-* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://larc.unt.edu/ian/books/free/lnoa.pdf), University of North Texas (PDF)
+* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://larc.unt.edu/ian/books/free/lnoa.pdf) - University of North Texas (PDF)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures: An Introduction](http://www.aupress.ca/index.php/books/120226) - Pat Morin
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
-* [Problems on Algorithms (Second Edition)](http://larc.unt.edu/ian/books/free/poa.pdf), University of North Texas (PDF)
+* [Problems on Algorithms (Second Edition)](http://larc.unt.edu/ian/books/free/poa.pdf) - University of North Texas (PDF)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) (PDF)
 * [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
@@ -308,7 +307,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Compiler Design in C](http://www.holub.com/software/compiler.design.in.c.html) - Allen Holub, Prentice Hall, 1990
 * [Compiler Design: Theory, Tools, and Examples, C/C++ Edition](http://elvis.rowan.edu/~bergmann/books/c_cpp/) - Seth D. Bergmann
 * [Compiler Design: Theory, Tools, and Examples, Java Edition](http://elvis.rowan.edu/~bergmann/books/java/) - Seth D. Bergmann
-* [Compilers and Compiler Generators: An Introduction with C++](http://www.scifac.ru.ac.za/compilers/) - P. D. Terry
 * [Compiling Scala for the Java Virtual Machine](http://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf) - Michel Schinz
 * [Compiling Techniques](http://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm) - F.R.A. Hopgood, Macdonald, 1969
 * [Implementing Functional Languages: A Tutorial](http://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
@@ -360,7 +358,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
-* [Inductive Logic Programming](http://www-ai.ijs.si/SasoDzeroski/ILPBook/)
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
 * [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan (PDF)
 * [Introduction to Machine Learning](http://arxiv.org/abs/0904.3664v1) - Amnon Shashua
@@ -406,7 +403,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
 * [Ordinary Differential Equations](http://en.wikibooks.org/wiki/Ordinary_Differential_Equations)
 * [Power Programming with Mathematica](http://mathematica.stackexchange.com/questions/16485/are-you-interested-in-purchasing-david-wagners-power-programming-with-mathemat/22724) - David B. Wagner
-* [Probability and Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
+* [Probability and Statistics Cookbook](http://statistics.zone/)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
@@ -431,7 +428,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Designing for Performance](http://designingforperformance.com) by Lara Hogan
 * [Designing Interfaces](http://designinginterfaces.com) by Jennifer Tidwell
 * [DevDocs](http://devdocs.io/) - Documents for Developers in 1 place
-* [DevOps For Dummies (IBM Edition)](http://public.dhe.ibm.com/common/ssi/ecm/en/ram14011usen/RAM14011USEN.PDF) (PDF)
+* [DevOps For Dummies (IBM Edition)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/) (PDF)
 * [Digital Signal Processing For Communications](http://www.sp4comm.org/)
 * [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com/)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
@@ -611,7 +608,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Programming Reliable Systems (Joe Armstrong's PhD thesis)](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf) (PDF)
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
-* [Software Architecture](http://ftacademy.org/materials/fsm/11) (PDF)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [Web API Design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)
 * [Your API Is Bad](https://leanpub.com/yourapiisbad) *(Leanpub, by Paddy Foran)*
@@ -645,7 +641,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 
 #### Web Performance
-* [Book of Speed](http://www.bookofspeed.com/index.html) by Stoyan Stefanov
+* [Book of Speed](http://www.bookofspeed.com/) by Stoyan Stefanov
 * [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) by Ilya Grigorik
 * [Mature Optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf) by Carlos Bueno
 
@@ -659,7 +655,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 
 ### Agda
-* [Agda Tutorial](https://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
+* [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
 
 ### Alef
 * [Alef Language Reference Manual](http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
@@ -668,13 +664,12 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Agile Android Software Development](http://www.agiledroid.com) (PDF, epub, mobi - need email confirmation) by Etienne Savard
 * [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
 * [Android Programming Guide for Beginners](http://eduonix.com/offers/Android_ebook_free_offer.html) (PDF - need email confirmation)
-* [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.pdf), [Kindle](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.mobi)) *(Just fill the fields with any values)*
+* [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.pdf) - [Kindle](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.mobi)) *(Just fill the fields with any values)*
 * [CodePath Android Cliffnotes](https://github.com/thecodepath/android_guides/wiki)
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
 * [Styling Android](http://www.stylingandroid.com/)
-* [TechnoTalkative Android](http://www.technotalkative.com/android/)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
 * [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
 
@@ -763,7 +758,6 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### C
 * [A Tutorial on Pointers and Arrays in C](http://home.netcom.com/~tjensen/ptr/pointers.htm)
-* [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
@@ -790,7 +784,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
-* [HTTP Programming Recipes for C# Bots](http://www.heatonresearch.com/articles/series/20)
 * [Threading in C#](http://www.albahari.com/threading/)
 
 
@@ -801,7 +794,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [C++ Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
 * [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
 * [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
-* [Data Structures and Algorithms with Object-Oriented Design Patterns in C++](http://www.brpreiss.com/books/opus4/index.html)
 * [Financial Numerical Recipes in C++](http://finance.bi.no/~bernt/gcc_prog/recipes/) - Bernt Arne Ødegaard
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Google's C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
@@ -948,22 +940,10 @@ Original Source: [List of freely available programming books](http://web.archive
 
 
 ### Force.com
-* [Analytics Workbook](http://www.salesforce.com/us/developer/docs/workbook_analytics/index.htm)
-* [Apex Design Patterns and Best Practices](http://www.gobookee.org/get_book.php?u=aHR0cDovL3d3dy5zdW5kb2dpbnRlcmFjdGl2ZS5jb20vd2hpdGVwYXBlcnMvU1VOX0NodWNrX0FwZXhkZXNpZ25wYXR0ZXJucy5wZGYKQXBleCBEZXNpZ24gUGF0dGVybnMgYW5kIEJlc3QgUHJhY3RpY2VzIC0gU3VuZG9n)
-* [Apex Workbook](http://www.salesforce.com/us/developer/docs/apex_workbook/index.htm)
-* [Cloud Flow Designer Workbook](http://www.salesforce.com/us/developer/docs/workbook_flow/index.htm)
-* [Database.com Workbook](http://www.salesforce.com/us/developer/docs/workbook_database/index.htm)
+* [Developer Workbooks](http://developer.force.com/workbook)
 * [Force.com Fundamentals](http://wiki.developerforce.com/page/Force_Platform_Fundamentals)
-* [Force.com Integration Workbook](http://www.salesforce.com/us/developer/docs/integration_workbook/index.htm)
 * [Force.com Platform Fundamentals: An Introduction to Custom Application Development in the Cloud](http://www.lulu.com/shop/salesforcecom/forcecom-platform-fundamentals/ebook/product-17381451.html)
-* [Force.com Workbook](http://www.salesforce.com/us/developer/docs/workbook/index.htm)
 * [Heroku Postgres](http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) (PDF)
-* [ISVForce Workbook](http://www.salesforce.com/us/developer/docs/workbook_isv/index.htm)
-* [Security Workbook](http://www.salesforce.com/us/developer/docs/workbook_security/index.htm)
-* [Service Cloud Workbook](http://www.salesforce.com/us/developer/docs/workbook_service_cloud/index.htm)
-* [Site.com Workbook](http://www.salesforce.com/us/developer/docs/workbook_siteforce/index.htm)
-* [Visualforce Workbook](http://www.salesforce.com/us/developer/docs/workbook_vf/index.htm)
-
 
 ### Forth
 * [A Beginner's Guide to Forth](http://hackershelf.com/book/482/a-beginners-guide-to-forth/)
@@ -1035,7 +1015,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [The Grails Framework - Reference Documentation](http://grails.org/doc/latest/) ([PDF](http://grails.org/doc/latest/guide/single.pdf)) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari
 
 #### Spock Framework
-* [Spock Framework Reference Documentation](http://spock-framework.readthedocs.org/en/latest/) - Peter Niederwieser
+* [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
 * [Spock Intro](http://edgibbs.com/spock-intro-a-bdd-testing-framework-in-groovy/) - Ed Gibbs
 
 
@@ -1097,7 +1077,6 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### IDL
 * [Getting Started with IDL](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/getting-started-IDL-v7.0.pdf)
-* [Guide to Using IDL for Astronomers](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/IDLguide.html)
 
 
 ### iOS
@@ -1125,13 +1104,12 @@ Original Source: [List of freely available programming books](http://web.archive
 * [J for C Programmers by Henry Rich- online](http://www.jsoftware.com/help/jforc/contents.htm) || [pdf](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20071003.pdf) || [word 2003 file](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20070929.doc)
 * [J Primer](http://www.jsoftware.com/help/primer/contents.htm)
 * [J Reference Card](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=view&target=J602_RefCard_color_letter_current.pdf) (PDF)
-* [Learning J by Roger Stokes- online](http://www.rogerstokes.free-online.co.uk/book.htm)
+* [Learning J by Roger Stokes- online](http://www.jsoftware.com/help/learning/contents.htm)
 * [Math for the Layman by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/mftl.zip) (zipped html+images)
 
 
 ### Java
 * [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman
-* [Animation/Games in Java](http://www.heatonresearch.com/articles/series/3)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
 * [Cadmus: A Primer in Java](http://java.divshot.io) - Hashan Punchihewa, Joseph Bills et al.
@@ -1140,15 +1118,11 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/html/page9.html)
 * [Data Structures in Java for the Principled Programmer](http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) (PDF)
 * [Google's Java Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
-* [Hibernate 4 Example Programs](https://leanpub.com/hibernate4-example-programs) - L. Mohan Arun
-* [HTTP Programming Recipes for Java Bots](http://www.heatonresearch.com/articles/series/16)
 * [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html)
-* [Introduction to Neural Networks with Java](http://www.heatonresearch.com/articles/series/1)
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [JAAS in Action](http://www.jaasbook.com/)
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf) (PDF)
-* [Java for the Beginning Programmer](http://www.heatonresearch.com/articles/series/15)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
 * [Java: A Beginner's Guide](http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf) - Oracle
@@ -1158,7 +1132,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) (PDF)
 * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
-* [Programming with Java - An Algorithmic Introduction](http://www.scifac.ru.ac.za/javabook/) - Pat Terry
 * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
 * [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc)
 * [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
@@ -1177,13 +1150,13 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/) ([PDF](http://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/spring-framework-reference.pdf)) - Rod Johnson, Juergen Hoeller, Keith Donald, Colin Sampaleanu, Rob Harrop, Thomas Risberg, Alef Arendsen, Darren Davison, Dmitriy Kopylenko, Mark Pollack, Thierry Templier, Erwin Vervaet, Portia Tung, Ben Hale, Adrian Colyer, John Lewis, Costin Leau, Mark Fisher, Sam Brannen, Ramnivas Laddad, Arjen Poutsma, Chris Beams, Tareq Abedrabbo, Andy Clement, Dave Syer, Oliver Gierke, Rossen Stoyanchev, Phillip Webb, Rob Winch, Brian Clozel, Stephane Nicoll, Sebastien Deleuze
 
 #### Spring Boot
-* [Spring Boot Reference Guide](http://docs.spring.io/spring-boot/docs/current/reference/html/) ([PDF](http://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf), [EPUB](http://docs.spring.io/spring-boot/docs/current/reference/epub/spring-boot-reference.epub)) - Phillip Webb, Dave Syer, Josh Long, Stéphane Nicoll, Rob Winch, Andy Wilkinson, Marcel Overdijk, Christian Dupuis
+* [Spring Boot Reference Guide](http://docs.spring.io/spring-boot/docs/current/reference/html/) ([PDF](http://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf) - [EPUB](http://docs.spring.io/spring-boot/docs/current/reference/epub/spring-boot-reference.epub)) - Phillip Webb, Dave Syer, Josh Long, Stéphane Nicoll, Rob Winch, Andy Wilkinson, Marcel Overdijk, Christian Dupuis
 
 #### Spring Security
 * [Spring Security Reference](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) - Ben Alex, Luke Taylor, Rob Winch
 
 #### Wicket
-* [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/guide/)
+* [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/learn/#guide)
 
 
 ### JavaScript
@@ -1229,7 +1202,7 @@ Original Source: [List of freely available programming books](http://web.archive
 For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, Meteor, React and any other JS toolkit/framework, please refer to [Javascript Frameworks Resources and Tutorials](/javascript-frameworks-resources.md).
 
 #### Node.js
-* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.pdf), [ePub](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.epub))
+* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.epub))
 * [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) *(Leanpub - by Azat Mardanov)*
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node.js Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -1253,7 +1226,6 @@ See also [TeX](#tex)
 
 ### Linux
 * [Ad Hoc Data Analysis From The Unix Command Line](http://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
-* [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
 * [Automated Linux From Scratch](http://www.linuxfromscratch.org/alfs/download.html)
 * [Getting Started with Ubuntu](http://ubuntu-manual.org/)
 * [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
@@ -1318,7 +1290,7 @@ See also [TeX](#tex)
 
 
 ### Markdown
-* [Learn Markdown](https://www.gitbook.io/book/gitbookio/markdown) (PDF) (EPUB) (MOBI) - GitBookIO, Sammy P., Aaron O.
+* [Learn Markdown](http://www.gitbook.io/book/gitbookio/markdown) (PDF) (EPUB) (MOBI) - GitBookIO, Sammy P., Aaron O.
 
 
 ### Mathematica
@@ -1537,7 +1509,7 @@ See also [TeX](#tex)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
 * [Prolog Programming: A First Course](http://engronline.ee.memphis.edu/deductiveDB/prolog_book.pdf) - Paul Brna
 * [Prolog Techniques](http://bookboon.com/int/student/it/prolog-techniques-applications-of-prolog)
-* [Prolog Tutorial](https://www.csupomona.edu/~jrfisher/www/prolog_tutorial/pt_framer.html)
+* [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
 * [The First 10 Prolog Programming Contests](http://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net/) - Hassan A¨it-Kaci
@@ -1551,8 +1523,7 @@ See also [TeX](#tex)
 
 ### Python
 * [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
-* [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
-* [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) - Rafe Kettler
+* [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
 * [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
@@ -1619,7 +1590,6 @@ See also [TeX](#tex)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html) (3.x)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (3.3 - 3.x)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
-* [The Art and Craft of Programming](http://beastie.cs.ua.edu/cs150/book/index.html) (3.x)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [The Python Ecosystem: An Introduction](http://mirnazim.org/writings/python-ecosystem-introduction/)
@@ -1709,7 +1679,6 @@ See also [TeX](#tex)
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
 * [Practicing Ruby](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts)
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
-* [Read Ruby](http://readruby.io/)
 * [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
@@ -1797,7 +1766,7 @@ See also [TeX](#tex)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html)
 * [Structure and Interpretion of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html)
 * [Teach Yourself Scheme in Fixnum Days](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html)
-* [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/), [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
+* [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/) - [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
 * [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 
 
@@ -1813,10 +1782,6 @@ See also [TeX](#tex)
 
 ### Sed
 * [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
-
-
-### Silverlight
-* [10 Laps around Silverlight 5](http://www.silverlightshow.net/ebooks/10laps_silverlight5.aspx)
 
 
 ### Smalltalk
@@ -1862,7 +1827,7 @@ See also [TeX](#tex)
 
 
 ### Standard ML
-* [Programming in Standard ML '97](http://www.dcs.ed.ac.uk/home/stg/NOTES/), by Stephen Gilmore, University of Edinburgh
+* [Programming in Standard ML '97](http://www.dcs.ed.ac.uk/home/stg/NOTES/) - by Stephen Gilmore, University of Edinburgh
 * [Programming in Standard ML, Draft](http://www.cs.cmu.edu/~rwh/smlbook/) - Robert Harper
 
 ### Subversion
@@ -1877,8 +1842,8 @@ See also [TeX](#tex)
 * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) (iBook)
 
 ### Tcl
-* [Tcl Programming](http://en.wikibooks.org/wiki/Programming%3ATcl), by Richard.Suchenwirth, et. al.
-* [TclWise](http://www.invece.org/tclwise/index.html), by Salvatore Sanfilippo
+* [Tcl Programming](http://en.wikibooks.org/wiki/Programming%3ATcl) - by Richard.Suchenwirth, et. al.
+* [TclWise](http://www.invece.org/tclwise/index.html) - by Salvatore Sanfilippo
 
 
 ### Teradata
@@ -1887,8 +1852,8 @@ See also [TeX](#tex)
 
 ### TeX
 * [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) (PDF) by Christian Feursänger
-* [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html), by Victor Eijkhout
-* [TeX for the Impatient](https://www.gnu.org/software/teximpatient/), by Paul Abrahams, Kathryn Hargreaves, and Karl Berry
+* [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - by Victor Eijkhout
+* [TeX for the Impatient](https://www.gnu.org/software/teximpatient/) - by Paul Abrahams, Kathryn Hargreaves, and Karl Berry
 
 See also [LaTeX](#latex)
 

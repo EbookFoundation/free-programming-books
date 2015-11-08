@@ -104,9 +104,9 @@
 * [jQuery Building Blocks](http://gymnasium.aquent.com/catalog/course/102)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Learn JavaScript](http://www.learn-js.org/)
-* [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Try jQuery](http://try.jquery.com/)
+* [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
 

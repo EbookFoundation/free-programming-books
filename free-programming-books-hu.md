@@ -5,6 +5,7 @@
 * [C++](#c)
 * [HTML / CSS](#html-css)
 * [Java](#java)
+* [Lego Mindstorms](#lego-mindstorms)
 * [LISP](#lisp)
 * [.NET](#net)
 * [PHP](#php)
@@ -45,13 +46,16 @@
 * [CORBA-alapú elosztott alkalmazások](http://mek.oszk.hu/01400/01404/index.phtml) - Csizmazia Balázs (PDF)
 * [Fantasztikus programozás](http://mek.oszk.hu/00800/00889/index.phtml) - Bátfai Mária Erika, Bátfai Norbert (PDF)
 * [Hálózati alkalmazások Java nyelven](http://mek.oszk.hu/01300/01304/index.phtml) - Csizmazia Anikó, Csizmazia Balázs (PDF)
-* [Hálózati alkalmazások készítése: CORBA, Java, WWW](http://mek.oszk.hu/01700/01750/index.phtml) - Csizmazia Balázs (PS) 
+* [Hálózati alkalmazások készítése: CORBA, Java, WWW](http://mek.oszk.hu/01700/01750/index.phtml) - Csizmazia Balázs (PS)
 * [Java alapú webtechnológiák](http://www.ms.sapientia.ro/~manyi/index_java_techn.html) - Antal Margit (PDF)
 * [Java programozás](http://nagygusztav.hu/java-programozas) - Nagy Gusztáv (PDF)
 * [Objektumorientált programozás](http://www.ms.sapientia.ro/~manyi/teaching/oop/oop.pdf) - Antal Margit (PDF)
 * [Programozás III.](http://www.sze.hu/~varjasin/oktat.html) - Varjasi Norbert (PDF)
 * [RMI](http://mek.oszk.hu/01200/01263/index.phtml) - Dékány Dániel (PDF)
 
+### Lego Mindstorms
+* [A MINDSTORMS EV3 robotok programozásának alapjai](http://www.hdidakt.hu/adat/dw_anyagok/dw_74.pdf) - Kiss Róbert (PDF)
+* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](http://www.amcham.hu/download/002/556/Robotkonyv_KR_BZS.pdf) - Kiss Róbert, Badó Zsolt (PDF)
 
 ### LISP
 * [A LISP programozási nyelv](http://mek.oszk.hu/07200/07258/index.phtml) - Zimányi Magdolna, Kálmán László, Fadgyas Tibor (PDF)

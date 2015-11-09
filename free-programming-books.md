@@ -611,6 +611,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [Web API Design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)
 * [Your API Is Bad](https://leanpub.com/yourapiisbad) *(Leanpub, by Paddy Foran)*
+* [Architecture of Open Source Systems](http://aosabook.org/en/index.html)
 
 
 #### Standards

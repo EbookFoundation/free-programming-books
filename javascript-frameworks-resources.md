@@ -21,6 +21,9 @@
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
+## Angular 2
+* [Angular 2 resource compilation](https://github.com/AngularClass/awesome-angular2/blob/gh-pages/README.md)
+
 ## Backbone.js
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/)

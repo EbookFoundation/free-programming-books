@@ -1,4 +1,5 @@
 ## Angular.js
+* [Angular 2 resource compilation](https://github.com/AngularClass/awesome-angular2/blob/gh-pages/README.md)
 * [Angular Basics](http://www.angularjsbook.com/)
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)

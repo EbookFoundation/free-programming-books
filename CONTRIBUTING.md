@@ -19,7 +19,7 @@ By contributing you agree to the [LICENSE](https://github.com/vhf/free-programmi
 - make sure a book is free. Double-check if needed.
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
-    + no file hosting services (this includes Dropbox and Google Drive links)
+    + no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)
 - always prefer a `https` link over a `http` one -- as long as they are on the same domain and serve the same content
 - on root domains, strip the trailing slash: `http://example.com` instead of `http://example.com/`
 - always prefer the shortest link: `http://example.com/dir/` is better than `http://example.com/dir/index.html`
@@ -36,7 +36,7 @@ By contributing you agree to the [LICENSE](https://github.com/vhf/free-programmi
 - prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
 
 ### Formatting
-- All lists are `.md` files. Try to learn Github's Markdown syntax. It's simple!
+- All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!
 - All the lists start with an Index. The idea is to list and link all sections and subsections there. Keep it in alphabetical order.
 - Sections are using level 3 headings (`###`), and subsections are level 4 headings (`####`).
 
@@ -49,31 +49,38 @@ The idea is to have
 Example:
 
     [...]
-    - [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
-
-
-    ### DTrace
-
-    - [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
-    - [Some Other Book](http://so.me/other/book.html)
+    - [An Awesome Book](http://example.com/example.html)
+    
+    
+    ### Example
+    
+    - [Another Awesome Book](http://example.com/book.html)
+    - [Some Other Book](http://example.com/other.html)
 
 - Don't put spaces between `]` and `(`
 
 ```
-BAD : * [IllumOS Dynamic Tracing Guide] (http://dtrace.org/guide/preface.html)
-GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
-```
-
-- Put a single space between the link and its format
-
-```
-BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)(PDF)
-GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) (PDF)
+BAD : * [Another Awesome Book] (http://example.com/book.html)
+GOOD: * [Another Awesome Book](http://example.com/book.html)
 ```
 
 - If you wish to mention the author, use ` - ` (a dash surrounded by single spaces)
 
 ```
-BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)- Robert
-GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) - Robert
+BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
+GOOD: * [Another Awesome Book](http://example.com/book.html) - John Doe
+```
+
+- Put a single space between the link and its format
+
+```
+BAD : * [Another Awesome Book](http://example.com/book.pdf)(PDF)
+GOOD: * [Another Awesome Book](http://example.com/book.pdf) (PDF)
+```
+
+- Author comes before format:
+
+```
+BAD : * [Another Awesome Book](http://example.com/book.pdf)- John Doe
+GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (PDF)
 ```

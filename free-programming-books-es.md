@@ -123,7 +123,7 @@
 
 
 ### HTML5
-* [HTML5 - Arkaitz Garro](http://www.etnassoft.com/biblioteca/html5/)
+* [HTML5 - Arkaitz Garro](http://www.arkaitzgarro.com/html5/)
 
 
 ### CSS

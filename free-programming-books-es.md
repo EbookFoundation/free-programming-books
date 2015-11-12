@@ -209,7 +209,9 @@
 ### NoSQL
 * MongoDB
     * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book)
-    * [MongoDB en español: T1, El principio](http://www.etnassoft.com/biblioteca/mongodb-en-espanol-t1-el-principio/)
+    * [MongoDB en español: T1, El principio](https://github.com/yograterol/ebook-mongodb-basico) por Yohan Graterol
+
+
 ### PHP
 * [Manual de estudio introductorio al lenguaje PHP procedural](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)

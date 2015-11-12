@@ -471,7 +471,8 @@
 
 
 ### Scala
-* [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
+* [Effective Scala](http://twitter.github.io/effectivescala/index-ja.html)
+* [Learning Scalaz](http://eed3si9n.com/learning-scalaz/ja)
 * [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 
 

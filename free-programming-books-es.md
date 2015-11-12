@@ -32,7 +32,7 @@
 * [NoSQL](#nosql)
     * [MongoDB](#mongodb)
 * [PHP](#php)
-* [Perl] (#perl)
+* [Perl](#perl)
 * [Python](#python)
     * [Django](#django)
     * [Web2py](#web2py)
@@ -66,8 +66,8 @@
 
 #### Base de Datos
 * [Apuntes de Base de Datos 1, Universidad de Alicante](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
-* [Base de Datos, por Mercedes Marqués](http://www.uji.es/bin/publ/edicions/bdatos.pdf) (PDF)
-* [Base de Datos Avanzadas, por Aramburu & Sanz Blasco](http://repositori.uji.es/xmlui/bitstream/handle/10234/48034/s73.pdf)
+* [Base de Datos](http://www.uji.es/bin/publ/edicions/bdatos.pdf) por Mercedes Marqués (PDF)
+* [Base de Datos Avanzadas](http://repositori.uji.es/xmlui/bitstream/handle/10234/48034/s73.pdf) por Aramburu & Sanz Blasco (PDF)
 * [El modelo relacional y el álgebra relacional](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02148.pdf) (PDF)
 * [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf) (PDF)
 
@@ -93,8 +93,8 @@
 #### Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/)
-* [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
 * [Programación de videojuegos SDL](http://www.albertogarcia.info/libros/sdl/%5Bebook%5DProgramacion%20de%20videojuegos%20con%20SDL.pdf) (PDF)
+* [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
 
 
 #### Paradigmas de Programación
@@ -103,27 +103,27 @@
 
 
 #### Sistemas Operativos
-* [Sistemas Operativos, por Dr. David Luis la Red](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) (PDF)
-* [Fundamentos de Sistemas Operativos, Gunnar Wolf et al](http://sistop.gwolf.org/pdf/sistemas_operativos.pdf) (PDF)
+* [Fundamentos de Sistemas Operativos](http://sistop.gwolf.org/pdf/sistemas_operativos.pdf) por Gunnar Wolf et al (PDF)
+* [Sistemas Operativos](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) por Dr. David Luis la Red (PDF)
 
 
 ### Android
-* [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) (PDF) by Salvador Gómez Oliver
-* [Curso Android: Todo lo que necesitas para empezar](http://www.maestrosdelweb.com/curso-android/) (HTML) by Adrian Catalán
+* [Curso Android: Todo lo que necesitas para empezar](http://www.maestrosdelweb.com/curso-android/) por Adrian Catalán (HTML)
+* [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) por Salvador Gómez Oliver (PDF)
 
 ### C
-* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf)
 * [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
+* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf)
 
 
 ### C++
-* [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
-* [Aprenda C++ básico como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/ayudainf/aprendainf/Cpp/basico/cppbasico.pdf)
 * [Aprenda C++ avanzado como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf)
+* [Aprenda C++ básico como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/ayudainf/aprendainf/Cpp/basico/cppbasico.pdf)
+* [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
 
 
 ### HTML5
-* [HTML5 - Arkaitz Garro](http://www.arkaitzgarro.com/html5/)
+* [HTML5](http://www.arkaitzgarro.com/html5/) por Arkaitz Garro
 
 
 ### CSS
@@ -134,12 +134,12 @@
 
 
 ### Coffeescript
-* [Coffeescript, un pequeño gran libro – Javi Jiménez](https://leanpub.com/coffeescript)
+* [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript) por Javi Jiménez
 
 
 ### Ensamblador
-* [Código de Máquina para Principiantes](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) (PDF), Lisa Watts y Mike Wharton [Z80 and 6502 CPUs]
-* [Lenguaje Ensamblador para PC - Paul Carter](http://drpaulcarter.com/pcasm/)
+* [Código de Máquina para Principiantes [Z80 and 6502 CPUs]](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) por Lisa Watts y Mike Wharton (PDF)
+* [Lenguaje Ensamblador para PC](http://drpaulcarter.com/pcasm/) por Paul Carter
 
 
 ### Erlang
@@ -164,8 +164,8 @@
 * [Aprendiendo Java](http://www.compunauta.com/forums/linux/programacion/java/AprendiendoJava.pdf) (PDF)
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com/)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/pdf/libroJavaConTapa.pdf) (PDF)
-* [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf), por Jorge L. Ortega Arjona, UNAM (PDF)
-* [OCPJP6 Resumen Español](https://github.com/PabloReyes/ocpjp-resumen-espanol), por Pablo Reyes Almagro (PDF)
+* [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf) por Jorge L. Ortega Arjona, UNAM (PDF)
+* [OCPJP6 Resumen Español](https://github.com/PabloReyes/ocpjp-resumen-espanol) por Pablo Reyes Almagro (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
 * [PlugIn Tapestry: Desarrollo de aplicaciones y páginas web con Apache Tapestry](http://picodotdev.github.io/blog-bitix/2014/02/libro-sobre-desarrollo-de-aplicaciones-con-apache-tapestry/) ([PDF](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf)) ([EPUB](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub)) ([MOBI](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi))
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
@@ -201,7 +201,7 @@
 * [La introducción no-tan-corta a LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/spanish)
 
 ### Linux
-* [Debian GNU/Linux para administradores] (http://debian-handbook.info/browse/es-ES/stable/)
+* [Debian GNU/Linux para administradores](http://debian-handbook.info/browse/es-ES/stable/)
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) en WikiBooks
 * [BASH Scripting Avanzado: Utilizando declare para definición de tipo](http://library.originalhacker.org/biblioteca/articulo/ver/123)
@@ -223,29 +223,29 @@
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
 * [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
 * [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf)
-*[PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/)
+* [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/)
 
 ### Perl
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/)
-* [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf), por Universidad de Magallanes, Chile (PDF)
-* [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf), por TLDP (PDF)
-* [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm), por Universidad de Granada, España
-* [Manual de Perl](http://www6.uniovi.es/perl/tutor/), por Universidad de Oviedo, España
+* [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) por Universidad de Magallanes, Chile (PDF)
+* [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) por TLDP (PDF)
+* [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm) por Universidad de Granada, España
+* [Manual de Perl](http://www6.uniovi.es/perl/tutor/) por Universidad de Oviedo, España
 
 
 ### Python
-* [Notas sobre el lenguaje Python] (http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/at_download/file) (GNU Free Documentation License) (PDF)
-* [Introducción a la programación con Python] (http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/Introduccion%20a%20la%20programacion%20con%20Python.pdf/at_download/file) © (PDF)
 * [Aprenda a pensar como un programador (con Python)](http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)
+* [Introducción a la programación con Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/Introduccion%20a%20la%20programacion%20con%20Python.pdf/at_download/file) (PDF)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
+* [Notas sobre el lenguaje Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/at_download/file) (PDF)
 * [Python instantáneo](http://www.arrakis.es/~rapto/AprendaPython.html)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/python-ingenieria)
+* [Python para principiantes](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) (PDF) [(HTML)](http://librosweb.es/libro/python/)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
-* [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
 
 
 #### Django

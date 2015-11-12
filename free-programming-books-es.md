@@ -214,6 +214,7 @@
 ### NoSQL
 * MongoDB
     * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book)
+    * [MongoDB en español: T1, El principio](https://github.com/yograterol/ebook-mongodb-basico) por Yohan Graterol
 
 
 ### PHP

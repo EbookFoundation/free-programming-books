@@ -66,11 +66,6 @@
 * [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
 
 
-### Project Management
-
-* [Гибкие методологии разработки](https://dl.dropboxusercontent.com/u/4606839/Гибкие%20методологии%20разработки.pdf) - Вольфсон Борис
-
-
 #### Programming Paradigms
 
 * [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison

@@ -17,7 +17,7 @@
 
 #### آرچ لینوکس
 
-* [آرچ بوک](http://linuxreview.ir/archbook/ArchBook-2012-1.pdf) (pdf)
+* [آرچ بوک](http://linuxreview.ir/archbook/ArchBook-2012-1.pdf) (PDF)
 
 
 #### اوبونتو
@@ -47,14 +47,14 @@
 
 ### Python
 
-* [از این پس پایتون](http://www.aviny.com/learning/pdf-learning/92-04-05/from-now-python/from-now-python.pdf)
+* [از این پس پایتون](http://www.aviny.com/learning/pdf-learning/92-04-05/from-now-python/from-now-python.pdf) (PDF)
 
 
 ### R
 
-* [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf)
-* [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf)
-* [موضعات ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf)
+* [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
+* [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf) (PDF)
+* [موضعات ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
 
 
 ### مهندسی نرم‌افزار
@@ -64,4 +64,4 @@
 
 ### رایانش ابری
 
-* [رایانش ابری](http://docs.occc.ir/books/Main%20Book-20110110_2.pdf)
+* [رایانش ابری](http://docs.occc.ir/books/Main%20Book-20110110_2.pdf) (PDF)

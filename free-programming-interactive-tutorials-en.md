@@ -1,4 +1,5 @@
 ### Index
+* [Angular](#angular)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
@@ -27,6 +28,10 @@
 * [Scala](#scala)
 * [SQL](#sql)
 * [Vim](#vim)
+
+
+### Angular
+* [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
 
 
 ### Bash

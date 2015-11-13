@@ -49,13 +49,13 @@ The idea is to have
 Example:
 
     [...]
-    - [An Awesome Book](http://example.com/example.html)
+    * [An Awesome Book](http://example.com/example.html)
     
     
     ### Example
     
-    - [Another Awesome Book](http://example.com/book.html)
-    - [Some Other Book](http://example.com/other.html)
+    * [Another Awesome Book](http://example.com/book.html)
+    * [Some Other Book](http://example.com/other.html)
 
 - Don't put spaces between `]` and `(`
 

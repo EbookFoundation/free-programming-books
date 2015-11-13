@@ -82,7 +82,7 @@
 * [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [Git 参考手册](http://gitref.justjavac.com/)
 * [Got GitHub](https://github.com/gotgit/gotgithub)
-* [Pro Git](http://git-scm.com/book/zh)
+* [Pro Git](https://git-scm.com/book/zh/v2)
 * [学习 Git 分支](http://pcottle.github.io/learnGitBranching/) (点击右下角按钮可切换至简体及正体中文)
 * [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
 

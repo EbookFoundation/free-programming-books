@@ -1,8 +1,10 @@
 ### Index
+
 * [C](#c)
 * [C#](#c-sharp)
 * [Java](#java)
 * [LaTeX](#latex)
+
 
 ### C
 

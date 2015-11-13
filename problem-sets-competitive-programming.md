@@ -1,9 +1,11 @@
 ### Index
+
 * [Competitive Programming](#competitive-programming)
-* [Problem Sets] (#problem-sets)
+* [Problem Sets](#problem-sets)
 
 
 ### Competitive Programming
+
 * [4Clojure](http://www.4clojure.com/)
 * [Codeabbey](http://www.codeabbey.com/)
 * [Codechef](http://www.codechef.com/contests)
@@ -23,6 +25,7 @@
 
 
 ### Problem Sets
+
 * [Anarchy Golf](http://golf.shinh.org/)
 * [CareerCup](http://www.careercup.com/)
 * [Caribbean Online Judge](http://coj.uci.cu/24h/problems.xhtm)

@@ -1,4 +1,5 @@
 ## Angular.js
+
 * [Angular Basics](http://www.angularjsbook.com/)
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
@@ -21,7 +22,9 @@
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
+
 ## Backbone.js
+
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/)
 * [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis
@@ -36,21 +39,25 @@
 
 
 ## Booty5.js
+
 * [The Booty5 HTML5 Game Maker Manual](http://booty5.com/booty5-free-html-game-maker-e-book-manual/)
 
 
 ## D3.js
-* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks) (Leanpub) - Malcolm Maclean
+
+* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks) - Malcolm Maclean (Leanpub)
 * [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 
 ## Dojo
+
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
 
 
 ## Ember.js
+
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
 * [DockYard Ember.js Style Guide](https://github.com/dockyard/styleguides/blob/master/ember.md)
 * [Ember 101](http://ember101.com/)
@@ -61,16 +68,19 @@
 
 
 ## Express.js
-* [Express.js Guide](https://leanpub.com/express/read) *(Leanpub, by Azat Mardanov)*
+
+* [Express.js Guide](https://leanpub.com/express/read) - Azat Mardanov *(Leanpub)*
 
 
 ## jQuery
+
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
 * [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ## Knockout.js
+
 * [Knockout.js Starter](http://dl.e-book-free.com/2013/07/knockoutjs_starter.pdf)
 * [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * tech.pro: Knockout.js tutorial video series
@@ -90,11 +100,15 @@
   * [Lesson 14 - Adding a lightbox](http://tech.pro/tutorial/1575/knockoutjs-lesson-14-adding-a-lightbox)
   * Lesson 15: Summary of the series (Coming soon...)
 
+
 ## Meteor
+
 * [BulletProof Meteor](https://bulletproofmeteor.com/)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
+
 ## React
+
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)

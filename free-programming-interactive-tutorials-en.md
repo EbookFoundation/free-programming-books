@@ -120,6 +120,7 @@
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Try jQuery](http://try.jquery.com/)
+* [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
 ### Language Agnostic

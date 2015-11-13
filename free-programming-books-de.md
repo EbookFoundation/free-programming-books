@@ -30,7 +30,7 @@
 
 * [IT-Handbuch für Fachinformatiker](http://openbook.galileocomputing.de/it_handbuch/)
 * [Objektorientierte Programmierung](http://openbook.galileocomputing.de/oop/)
-* [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) [PDF]
+* [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
 
 
 ### Action Script
@@ -41,7 +41,7 @@
 
 ### Android
 
-* [Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf) [PDF]
+* [Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf) (PDF)
 
 
 ### Assembly Language
@@ -52,7 +52,7 @@
 ### C
 
 * [C von A bis Z](http://openbook.galileocomputing.de/c_von_a_bis_z/)
-* [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) [PDF]
+* [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) (PDF)
 
 
 ### C++
@@ -60,7 +60,7 @@
 * [Die Boost C++ Bibliotheken](http://www.highscore.de/cpp/boost/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
-* [Softwareprogrammierung in C++](http://www.iaik.tugraz.at/content/teaching/bachelor_courses/betriebssysteme/downloads/schmaranz2.pdf) [PDF]
+* [Softwareprogrammierung in C++](http://www.iaik.tugraz.at/content/teaching/bachelor_courses/betriebssysteme/downloads/schmaranz2.pdf) (PDF)
 
 
 ### C Sharp
@@ -75,7 +75,7 @@
 
 * [Apps programmieren für iPhone und iPad](http://openbook.galileocomputing.de/apps_programmieren_fuer_iphone_und_ipad/)
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
-* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) [PDF]
+* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) (PDF)
 
 
 ### Git
@@ -86,7 +86,7 @@
 
 ### Groovy
 
-* [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf)
+* [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) (PDF)
 
 
 ### HTML & CSS
@@ -115,8 +115,8 @@
 
 ### LaTeX
 
-* [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf)
-* [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf)
+* [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) (PDF)
+* [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) (PDF)
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
 
 
@@ -134,7 +134,7 @@
 
 * [PHP](http://peterkropff.de/site/php/php.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 * [PHP PEAR](http://openbook.galileocomputing.de/php_pear/)
-* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) [PDF]
+* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) (PDF)
 
 
 ### PostgreSQL
@@ -149,16 +149,16 @@
 
 ### Ruby on Rails
 
-* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) [PDF]
-* [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) [PDF]
-* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) [PDF]
+* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) (PDF)
+* [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) (PDF)
+* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) (PDF)
 * [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
 * [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/)
 
 
 ### Scilab
 
-* [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf) [PDF]
+* [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf) (PDF)
 
 
 ### UML

@@ -30,12 +30,12 @@
 
 #### Algoritmi e Strutture Dati
 
-* [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf)
+* [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf) (PDF)
 
 
 ### Android
 
-* [Guida programmazione Android 4.2](http://www.sprik.it/guida/Android4_2.pdf)
+* [Guida programmazione Android 4.2](http://www.sprik.it/guida/Android4_2.pdf) (PDF)
 
 
 ### Assembly Language
@@ -45,23 +45,23 @@
 
 ### BASH
 
-* [Guida avanzata per la bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf)
+* [Guida avanzata per la bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) (PDF)
 
 
 ### C
 
-* [Guida al C di Blacklight](http://blacklight.gotdns.org/guidac.pdf)
-* [Tricky C](http://www.ba.infn.it/~pierro/ebook/trickyc.pdf)
+* [Guida al C di Blacklight](http://blacklight.gotdns.org/guidac.pdf) (PDF)
+* [Tricky C](http://www.ba.infn.it/~pierro/ebook/trickyc.pdf) (PDF)
 
 
 ### C Sharp
 
-* [AB..C# - Guida alla programmazione](http://www.youblisher.com/files/publications/4/21542/pdf.pdf)
+* [AB..C# - Guida alla programmazione](http://www.youblisher.com/files/publications/4/21542/pdf.pdf) (PDF)
 
 
 ### GIT
 
-* [Comprendere GIT concettualmente](http://www.linuxtrent.it/sites/default/files/Comprendere%20Git%20concettualmente%20-%20Marco%20Ciampa%20-%20r1.pdf)
+* [Comprendere GIT concettualmente](http://www.linuxtrent.it/sites/default/files/Comprendere%20Git%20concettualmente%20-%20Marco%20Ciampa%20-%20r1.pdf) (PDF)
 
 
 ### Java
@@ -74,16 +74,16 @@
 
 ### Javascript
 
-* [Guida di riferimento](http://www.econ.uniurb.it/laerte/Reti_Internet_1/materiale/JavaScript.pdf)
+* [Guida di riferimento](http://www.econ.uniurb.it/laerte/Reti_Internet_1/materiale/JavaScript.pdf) (PDF)
 
 
 ### LaTeX
 
-* [Appunti di programmazione in LaTeX e TeX - Enrico Gregorio](http://profs.sci.univr.it/~gregorio/introtex.pdf)
-* [Introduzione all'arte della composizione tipografica con LaTeX - GuIT](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf)
-* [L'arte di scrivere con LaTeX - L. Pantieri e T. Gordini](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf)
+* [Appunti di programmazione in LaTeX e TeX - Enrico Gregorio](http://profs.sci.univr.it/~gregorio/introtex.pdf) (PDF)
+* [Introduzione all'arte della composizione tipografica con LaTeX - GuIT](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf) (PDF)
+* [L'arte di scrivere con LaTeX - L. Pantieri e T. Gordini](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf) (PDF)
 * [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
-* [Impara LaTeX! (... e mettilo da parte) - Marc Baudoin](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf)
+* [Impara LaTeX! (... e mettilo da parte) - Marc Baudoin](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf) (PDF)
 
 
 ### Linux
@@ -93,14 +93,14 @@
 
 ### Perl
 
-* [Corso di Perl](http://www.perl.it/documenti/articoli/mb_corso_perl/mb_corso_perl.pdf)
+* [Corso di Perl](http://www.perl.it/documenti/articoli/mb_corso_perl/mb_corso_perl.pdf) (PDF)
 * [Perl e Internet](http://www.ateneonline.it/hyperbook/p_book/perl2.htm)
 
 
 ### PHP
 
-* [Guida al PHP di LordHack](http://www.lordhack.altervista.org/brdp.pdf)
-* [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf)
+* [Guida al PHP di LordHack](http://www.lordhack.altervista.org/brdp.pdf) (PDF)
+* [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf) (PDF)
 
 
 ### Python
@@ -113,11 +113,11 @@
 
 ### Ruby
 
-* [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
+* [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf) (PDF)
 * [Ruby User Guide](http://ruby-it.org/rug_it.zip)
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
 
 
 ### Visual Basic
 
-* [Corso Visual Basic](http://www.webalice.it/kindofapple/corsovb.pdf)
+* [Corso Visual Basic](http://www.webalice.it/kindofapple/corsovb.pdf) (PDF)

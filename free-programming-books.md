@@ -412,7 +412,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Linear Algebra, Theory And Applications](http://www.math.byu.edu/klkuttle/linearalgebra.pdf) - Kenneth Kuttler (PDF)
 * [Linear Algebra: An Introduction to Mathematical Discourse](http://en.wikibooks.org/wiki/Linear_Algebra) - Jim Hefferon
 * [Linear Algebra](http://home.iitk.ac.in/~arlal/book/nptel/pdf/book_linear.pdf) - Dr. Arbind K Lal, IIT Kanpur (PDF)
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) (PDF)
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematics, MTS 101A](http://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
 * [Notes on Diﬀerential Equations](http://www.math.cornell.edu/~bterrell/dn.pdf) - Robert E. Terrell (PDF)
@@ -438,7 +438,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
 * [A Mathematical Theory of Communication](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6773024) - Claude E.Shannon
 * [Asterisk™: The Definitive Guide](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
-* [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf)
+* [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
@@ -460,11 +460,11 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
 * [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
 * [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html)
-* [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf)
+* [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf) (PDF)
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
 * [I Am a Bug](http://www.amibug.com/iamabug/p01.html)
 * [Image Processing in C: Analyzing and Enhancing Digital Images](http://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
-* [Information Technology and the Networked Economy](http://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf)
+* [Information Technology and the Networked Economy](http://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) (PDF)
 * [Learn to Program](http://pine.fm/LearnToProgram/)
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://www.openshift.com/blogs/learning-30-technologies-in-30-days-a-developer-challenge) - Shekhar Gulati
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
@@ -476,10 +476,10 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
 * [Open Government;Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government)
 * [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien
-* [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf)
+* [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
-* [Principles of Computer System Design ](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf)
+* [Principles of Computer System Design ](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)
 * [Programmer's Motivation for Beginners](http://programmersmotivation.com/)
 * [Programming with Unicode](http://unicodebook.readthedocs.org/)
 * [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
@@ -609,7 +609,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io/)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
 * [How to deal with Passwords](https://github.com/MHM5000/pass)
-* [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf)
+* [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
 * [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
@@ -738,7 +738,7 @@ Original Source: [List of freely available programming books](http://web.archive
 ### Assembly Language
 
 * [An introduction to reverse engineering for beginners](https://github.com/dennis714/RE-for-beginners)
-* [Assembly Language Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Assembly_Language_Succinctly.pdf)
+* [Assembly Language Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Assembly_Language_Succinctly.pdf) (PDF)
 * [Introduction to Reverse Engineering Software](http://althing.cs.dartmouth.edu/local/www.acm.uiuc.edu/sigmil/RevEng/)
 * [Paul Carter's Tutorial on x86 Assembly](http://drpaulcarter.com/pcasm/)
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
@@ -824,7 +824,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
-* [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
+* [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) (PDF)
 * [The little book about OS development](http://littleosbook.github.io/) - Erik Helin, Adam Renberg
 * [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
@@ -833,7 +833,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### C Sharp
 
-* [Beginners Guide to C# and the.NET Micro Framework](http://www.ghielectronics.com/downloads/FEZ/Beginners%20guide%20to%20NETMF.pdf)
+* [Beginners Guide to C# and the.NET Micro Framework](http://www.ghielectronics.com/downloads/FEZ/Beginners%20guide%20to%20NETMF.pdf) (PDF)
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
 * [C# Programming - Wikibook](http://en.wikibooks.org/wiki/C_Sharp_Programming)
 * [C# Yellow Book](http://www.csharpcourse.com/) (intro to programming)
@@ -855,8 +855,8 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Google's C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
-* [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
-* [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](http://www.stroustrup.com/JSF-AV-rules.pdf)
+* [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) (PDF)
+* [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](http://www.stroustrup.com/JSF-AV-rules.pdf) (PDF)
 * [Learn C++.](http://www.learncpp.com/) (PDF, Online)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
@@ -930,7 +930,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### CUDA
 
-* [OpenCL Programming Guide for CUDA Architecture](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf)
+* [OpenCL Programming Guide for CUDA Architecture](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf) (PDF)
 
 
 ### D
@@ -1041,8 +1041,8 @@ Original Source: [List of freely available programming books](http://web.archive
 ### Fortran
 
 * [Fortran programming language - Wikibooks](http://en.wikibooks.org/wiki/Category%3AFortran_programming_language)
-* [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf)
-* [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf)
+* [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf) (PDF)
+* [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) (PDF)
 
 
 ### FreeBSD
@@ -1175,7 +1175,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### IDL
 
-* [Getting Started with IDL](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/getting-started-IDL-v7.0.pdf)
+* [Getting Started with IDL](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/getting-started-IDL-v7.0.pdf) (PDF)
 
 
 ### iOS
@@ -1230,7 +1230,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
 * [Java: A Beginner's Guide](http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf) - Oracle (PDF)
 * [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
-* [NIO Framework](http://nioframework.sourceforge.net/NIO_Paper.pdf)
+* [NIO Framework](http://nioframework.sourceforge.net/NIO_Paper.pdf) (PDF)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) (PDF)
 * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
@@ -1291,7 +1291,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)
 * [jQuery Fundamentals](http://jqfundamentals.com/) (starts with JavaScript basics)
-* [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf)
+* [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) (PDF)
 * [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks) - Malcolm Maclean
 * [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
 * [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
@@ -1375,7 +1375,7 @@ See also [TeX](#tex)
 * [The Linux System Administrator's Guide](http://www.tldp.org/LDP/sag/html/index.html)
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
 * [Ubuntu Pocket Guide and Reference](http://www.ubuntupocketguide.com/index_main.html)
-* [Ubuntu Server Guide](https://help.ubuntu.com/14.04/serverguide/serverguide.pdf)
+* [Ubuntu Server Guide](https://help.ubuntu.com/14.04/serverguide/serverguide.pdf) (PDF)
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
 
@@ -1419,7 +1419,7 @@ See also [TeX](#tex)
 
 ### Mathematica
 
-* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf)
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
 * [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org/)
 * [Stephen Wolfram's The Mathematica Book](http://reference.wolfram.com/legacy/v5_2/)
 * [Vector Math for 3d Computer Graphics](http://chortle.ccsu.edu/VectorLessons/index.html)
@@ -1428,8 +1428,8 @@ See also [TeX](#tex)
 
 ### MATLAB
 
-* [An Interactive Introduction to MATLAB](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf)
-* [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/ftp/na-reports/MatlabNotes.pdf)
+* [An Interactive Introduction to MATLAB](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf) (PDF)
+* [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/ftp/na-reports/MatlabNotes.pdf) (PDF)
 * [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
 * [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html)
 * [Freshman Engineering Problem Solving with MATLAB](http://cnx.org/featureContent/mfiles)
@@ -1465,7 +1465,7 @@ See also [TeX](#tex)
 ### MySQL
 
 * [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
-* [MySQL Tutorial Excerpt](http://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.1-en.pdf)
+* [MySQL Tutorial Excerpt](http://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.1-en.pdf) (PDF)
 
 
 ### .NET Framework
@@ -1599,7 +1599,7 @@ See also [TeX](#tex)
   * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/l4)
   * [Laravel: Code Bright](http://daylerees.com/codebright)
   * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
-* [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf)
+* [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org/)
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
 * [PHP Internals Book](http://www.phpinternalsbook.com/)
@@ -1677,7 +1677,7 @@ See also [TeX](#tex)
 * [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 * [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
 * [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
-* [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
+* [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
 * [Byte of Python](http://www.swaroopch.com/notes/Python) (2.7.x)
@@ -1691,7 +1691,7 @@ See also [TeX](#tex)
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
 * [Google's Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
-* [High Performance Python](http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf)
+* [High Performance Python](http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf) (PDF)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)
   * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
@@ -1716,7 +1716,7 @@ See also [TeX](#tex)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
 * [Problem Solving with Algorithms and Data Structure using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/) (3.3)
-* [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf)
+* [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
 * [Python 2.7 quick reference](http://infohost.nmt.edu/tcc/help/pubs/python/web/) - New Mexico Tech (2.7)
 * [Python Algorithms](http://kysmykseka.net/koti/wizardry/Programming/Python/Apress%20-%20Python%20Algorithms%20Mastering%20Basic%20Algorithms%20in%20the%20Python%20Language.pdf) (PDF)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
@@ -1774,7 +1774,7 @@ See also [TeX](#tex)
 
 #### Kivy
 
-* [Kivy Programming Guide](http://kivy.org/docs/pdf/Kivy-latest.pdf)
+* [Kivy Programming Guide](http://kivy.org/docs/pdf/Kivy-latest.pdf) (PDF)
 
 
 #### Pandas
@@ -1885,7 +1885,7 @@ See also [TeX](#tex)
 * [Rust by Example](http://rustbyexample.com/)
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
 * [The Rust Programming Language](http://doc.rust-lang.org/book/)
-* [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf)
+* [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) (PDF)
 
 
 ### Sage
@@ -1911,7 +1911,7 @@ See also [TeX](#tex)
 * [Scala for Perl 5 Programmers](https://github.com/garu/scala-for-perl5-programmers) - Breno G. de Oliveira
 * [Scala for the Impatient (A1 Scala Level chapters)](http://typesafe.com/resources/book/scala-for-the-impatient) - Cay S. Horstmann
 * [Scala School by Twitter](http://twitter.github.io/scala_school/)
-* [Scala Tutorial](http://www.tutorialspoint.com/scala/scala_tutorial.pdf)
+* [Scala Tutorial](http://www.tutorialspoint.com/scala/scala_tutorial.pdf) (PDF)
 * [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
 * [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)

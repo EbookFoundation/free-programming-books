@@ -31,7 +31,7 @@
 
 ### MySQL
 
-* [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf)
+* [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf) (PDF)
 
 
 ### PHP

@@ -107,7 +107,7 @@
 
 ### PHP
 
-* [PHP Tvorba interaktivních internetových aplikací](http://www.kosek.cz/php/php-tvorba-interaktivnich-internetovych-aplikaci.pdf)
+* [PHP Tvorba interaktivních internetových aplikací](http://www.kosek.cz/php/php-tvorba-interaktivnich-internetovych-aplikaci.pdf) (PDF)
 
 
 ### Python

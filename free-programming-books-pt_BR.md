@@ -28,7 +28,7 @@
 
 ### C
 
-* [Apostila Linguagem C - Silvio Lago](http://www.ime.usp.br/~slago/slago-C.pdf)
+* [Apostila Linguagem C - Silvio Lago](http://www.ime.usp.br/~slago/slago-C.pdf) (PDF)
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
@@ -37,8 +37,8 @@
 
 ### CPP
 
-* [Apostila Linguagem C++ - Silvio Lago](http://www.ime.usp.br/~slago/slago-C++.pdf)
-* [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf)
+* [Apostila Linguagem C++ - Silvio Lago](http://www.ime.usp.br/~slago/slago-C++.pdf) (PDF)
+* [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf) (PDF)
 
 
 ### CSharp
@@ -82,7 +82,7 @@
 ### Java
 
 * [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/)
-* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf)
+* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf) (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/)
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/)
 * [Lab. Java com Testes, JSF e Design Patterns](https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/)
@@ -107,16 +107,16 @@
 
 ### Php
 
-* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
+* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com/)
 
 
 ### Python
 
-* [Desenvolvimento web com Python e web2py!](https://dl.dropboxusercontent.com/u/830444/apostila_web2py_basico.pdf)
+* [Desenvolvimento web com Python e web2py!](https://dl.dropboxusercontent.com/u/830444/apostila_web2py_basico.pdf) (PDF)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
-* [Python Orientado a Objetos](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf)
-* [Python para Desenvolvedores](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
+* [Python Orientado a Objetos](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf) (PDF)
+* [Python para Desenvolvedores](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 
 
 ### RegEx
@@ -132,13 +132,12 @@
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com/)
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
-* [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
 
 
 ### Shell
 
-* [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf)
-* [Pequena introdução ao linux e ao Shell Script ](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf)
+* [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) (PDF)
+* [Pequena introdução ao linux e ao Shell Script ](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 
 
 ### Vim

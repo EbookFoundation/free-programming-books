@@ -127,13 +127,13 @@
 ### C
 
 * [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
-* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf)
+* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf) (PDF)
 
 
 ### C++
 
-* [Aprenda C++ avanzado como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf)
-* [Aprenda C++ básico como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/ayudainf/aprendainf/Cpp/basico/cppbasico.pdf)
+* [Aprenda C++ avanzado como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
+* [Aprenda C++ básico como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/ayudainf/aprendainf/Cpp/basico/cppbasico.pdf) (PDF)
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
 
 
@@ -182,7 +182,7 @@
 ### Haskell
 
 * [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)
-* [Piensa en Haskell (ejercicios de programación funcional con Haskell)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf)
+* [Piensa en Haskell (ejercicios de programación funcional con Haskell)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf) (PDF)
 
 
 ### Java
@@ -257,12 +257,12 @@
 
 ### PHP
 
-* [Manual de estudio introductorio al lenguaje PHP procedural](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf)
+* [Manual de estudio introductorio al lenguaje PHP procedural](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) (PDF)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)
 * [Silex, el manual oficial](http://librosweb.es/silex/)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
 * [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
-* [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf)
+* [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) (PDF)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/)
 
 
@@ -317,14 +317,14 @@
 
 ### R
 
-* [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf)
-* [Generacion automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf)
-* [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf)
-* [Introducción a R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
-* [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf)
-* [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf)
-* [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf)
-* [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
+* [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf) (PDF)
+* [Generacion automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf) (PDF)
+* [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf) (PDF)
+* [Introducción a R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf) (PDF)
+* [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf) (PDF)
+* [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf) (PDF)
+* [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) (PDF)
+* [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf) (PDF)
 
 
 ### Scala
@@ -335,8 +335,8 @@
 
 ### SQL
 
-* [El lenguaje SQL](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02149.pdf)
-* [Manual de gestión de base de datos](http://www.jorgesanchez.net/bd/gbd2012.pdf)
+* [El lenguaje SQL](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02149.pdf) (PDF)
+* [Manual de gestión de base de datos](http://www.jorgesanchez.net/bd/gbd2012.pdf) (PDF)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
 
 

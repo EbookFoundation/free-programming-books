@@ -39,7 +39,7 @@
 ### C
 
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
-* [C Programlamaya Giriş](https://www.inonu.edu.tr/uploads/old/16/735/c-programlamaya-giris.pdf)
+* [C Programlamaya Giriş](https://www.inonu.edu.tr/uploads/old/16/735/c-programlamaya-giris.pdf) (PDF)
 * [Programlamaya Giriş Ders Notları, H. Turgut Uyar](http://web.itu.edu.tr/uyar/programlama/)
 * [Sistem Programlama ve İleri C Uygulamaları Kurs Notları - Uyarlama 1](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 
@@ -51,7 +51,7 @@
 
 ### D
 
-* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
+* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf) (PDF)
 
 
 ### Dart
@@ -98,7 +98,7 @@
 
 ### Kriptoloji
 
-* [Kriptolojiye Giris](http://iam.metu.edu.tr/sites/iam.metu.edu.tr/files/UYGULAMALI%20MATEMAT_Kriptolojiye%20giris%20ders%20notlar%C4%B1.pdf)
+* [Kriptolojiye Giris](http://iam.metu.edu.tr/sites/iam.metu.edu.tr/files/UYGULAMALI%20MATEMAT_Kriptolojiye%20giris%20ders%20notlar%C4%B1.pdf) (PDF)
 
 
 ### LaTeX
@@ -131,7 +131,7 @@
 
 ### Python
 
-* [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf)
+* [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf) (PDF)
 * [Python ile Programlama](http://belgeler.istihza.com/py3/)
 
 
@@ -156,4 +156,4 @@
 
 ### Windows Phone
 
-* [Windows Phone'a Uygulama Yazmak](https://mehmetakifsonmez.files.wordpress.com/2013/12/windows-phone-a-uygulama-yazmak.pdf)
+* [Windows Phone'a Uygulama Yazmak](https://mehmetakifsonmez.files.wordpress.com/2013/12/windows-phone-a-uygulama-yazmak.pdf) (PDF)

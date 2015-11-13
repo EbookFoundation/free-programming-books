@@ -31,7 +31,7 @@
 
 ### C
 
-* [Programowanie w C](http://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf)
+* [Programowanie w C](http://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
 * [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/more_advanced/programing/c_cpp/)
 
 
@@ -78,8 +78,11 @@
 * [LaTeX. Książka kucharska](http://www.ptm.org.pl/latex-ksiazka-kucharska), Marcin Borkowski, Bartłomiej Przybylski
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
 
+
 ### Perl
+
 * [Wikibooks Perl](https://pl.wikibooks.org/wiki/Perl)
+
 
 ### PHP
 
@@ -112,6 +115,6 @@
 
 ### SQL
 
-* [SQL i PL/SQL – podstawy](http://jsystems.pl/storage/sqlplsql1.pdf)
+* [SQL i PL/SQL – podstawy](http://jsystems.pl/storage/sqlplsql1.pdf) (PDF)
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

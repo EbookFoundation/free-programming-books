@@ -77,7 +77,7 @@
 ### Html
 
 * [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
-* [Html'e Giriş](http://www.htmldersleri.org/)
+* [Html'e Giriş](http://www.htmldersleri.org)
 
 
 ### iOS
@@ -151,7 +151,7 @@
 
 ### Swift
 
-* [Swift Türkiye](http://www.swiftturkiye.org/)
+* [Swift Türkiye](http://www.swiftturkiye.org)
 
 
 ### Windows Phone

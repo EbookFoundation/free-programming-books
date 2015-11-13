@@ -63,19 +63,19 @@
 
 ### 在线教育
 
-* [CodeSchool](https://www.codeschool.com/)
+* [CodeSchool](https://www.codeschool.com)
 * [Codecademy](http://www.codecademy.com/?locale_code=zh)
 * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
-* [Learn X in Y minutes](http://learnxinyminutes.com/) (数十种语言快速入门教程)
+* [Learn X in Y minutes](http://learnxinyminutes.com) (数十种语言快速入门教程)
 * [MIT 公开课](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
-* [shiyanlou](https://www.shiyanlou.com/)
-* [TeamTreeHouse](http://teamtreehouse.com/)
-* [Udacity](https://www.udacity.com/)
-* [xuetangX](https://www.xuetangx.com/)
+* [shiyanlou](https://www.shiyanlou.com)
+* [TeamTreeHouse](http://teamtreehouse.com)
+* [Udacity](https://www.udacity.com)
+* [xuetangX](https://www.xuetangx.com)
 * [慕课网](http://www.imooc.com/course/list) (丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源)
-* [极客学院](http://www.jikexueyuan.com/)
-* [51CTO学院](http://edu.51cto.com/)
-* [计蒜客](http://www.jisuanke.com/)
+* [极客学院](http://www.jikexueyuan.com)
+* [51CTO学院](http://edu.51cto.com)
+* [计蒜客](http://www.jisuanke.com)
 
 
 ### 软件开发方法
@@ -116,9 +116,9 @@
 ### 版本控制
 
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-* [Git Community Book 中文版](http://gitbook.liuhui998.com/)
+* [Git Community Book 中文版](http://gitbook.liuhui998.com)
 * [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
-* [Git 参考手册](http://gitref.justjavac.com/)
+* [Git 参考手册](http://gitref.justjavac.com)
 * [Got GitHub](https://github.com/gotgit/gotgithub)
 * [Pro Git](https://git-scm.com/book/zh/v2)
 * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
@@ -183,7 +183,7 @@
 ### 编辑器
 
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
-* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
+* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com)
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 * [tmux:高效的全键盘开发工具](https://github.com/aqua7regia/tmux-Productive-Mouse-Free-Development_zh)
@@ -192,14 +192,14 @@
 ### NoSQL
 
 * [NoSQL数据库笔谈](http://www.yankay.com/wp-content/NoSql_Database_Note.html) ([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
-* [Redis 设计与实现](http://redisbook.com/)
-* [Redis 命令参考](http://www.redisdoc.com/)
+* [Redis 设计与实现](http://redisbook.com)
+* [Redis 命令参考](http://www.redisdoc.com)
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
-* [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
-* [Neo4j .rb 中文資源](http://neo4j.tw/)
+* [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn)
+* [Neo4j .rb 中文資源](http://neo4j.tw)
 * [Disque 使用教程](http://disquebook.com)
 
 
@@ -253,10 +253,10 @@
 * [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
 * [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
-* [Grunt中文文档](http://www.gruntjs.net/)
+* [Grunt中文文档](http://www.gruntjs.net)
 * [gulp中文文档](http://www.gulpjs.com.cn/docs/)
 * [Gulp 入门指南](https://github.com/nimojs/gulp-book)
-* [Yeoman中文文档](http://yeomanjs.org/)
+* [Yeoman中文文档](http://yeomanjs.org)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
@@ -324,7 +324,7 @@
 ### C
 
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
-* [C/C++ 学习教程](http://doc.lellansin.com/)
+* [C/C++ 学习教程](http://doc.lellansin.com)
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
 * [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
 
@@ -356,7 +356,7 @@
 ### CoffeeScript
 
 * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
-* [CoffeeScript 中文](http://coffee-script.org/)
+* [CoffeeScript 中文](http://coffee-script.org)
 * [CoffeeScript 中文手册](http://island205.github.io/tlboc/) (《The Little Book on CoffeeScript》中文版)
 * [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 
@@ -387,7 +387,7 @@
 
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
 * [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
-* [Go 指南](http://go-tour-zh.appsp0t.com/) (《A Tour of Go》中文版)
+* [Go 指南](http://go-tour-zh.appsp0t.com) (《A Tour of Go》中文版)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [学习Go语言](http://mikespook.com/learning-go/) ([PDF](http://xxiyy.qiniudn.com/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80\(Golang\).pdf?download))
 * [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
@@ -408,19 +408,19 @@
 
 ### Haskell
 
-* [Haskell 趣学指南](http://learnyouahaskell-zh-tw.csie.org/)
+* [Haskell 趣学指南](http://learnyouahaskell-zh-tw.csie.org)
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
 
 ### HTML / CSS
 
-* [学习CSS布局](http://zh.learnlayout.com/)
+* [学习CSS布局](http://zh.learnlayout.com)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
-* [CSS参考手册](http://css.doyoe.com/)
+* [CSS参考手册](http://css.doyoe.com)
 * [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 * [前端代码规范](http://alloyteam.github.io/CodeGuide/) (腾讯 AlloyTeam 团队)
-* [HTML和CSS编码规范](http://codeguide.bootcss.com/)
+* [HTML和CSS编码规范](http://codeguide.bootcss.com)
 * [HTML5 教程](http://www.w3school.com.cn/html5/)
 * [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
 
@@ -467,8 +467,8 @@
 * [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
 * [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
-* [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
-* [Javascript编程指南](http://pij.robinqu.me/) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
+* [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
+* [Javascript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
@@ -476,7 +476,7 @@
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
-* [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com) (作者：阮一峰)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * jQuery
@@ -487,7 +487,7 @@
   * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
   * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
   * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
-  * [express.js 中文文档](http://expressjs.jser.us/)
+  * [express.js 中文文档](http://expressjs.jser.us)
   * [koa 中文文档](https://github.com/turingou/koa-guide)
   * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
   * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
@@ -513,7 +513,7 @@
 * Sea.js
   * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * React.js
-  * [React.js 中文文档](http://reactjs.cn/)
+  * [React.js 中文文档](http://reactjs.cn)
   * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
   * [React 入门教程](http://fraserxu.me/intro-to-react/)
   * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
@@ -526,7 +526,7 @@
 * ExtJS
   * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 * Meteor
-  * [Discover Meteor](http://zh.discovermeteor.com/)
+  * [Discover Meteor](http://zh.discovermeteor.com)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 
@@ -584,7 +584,7 @@
 
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
-* [Python 中文学习大本营](http://www.pythondoc.com/)
+* [Python 中文学习大本营](http://www.pythondoc.com)
 * [深入 Python](http://woodpecker.org.cn/diveintopython/)
 * [深入 Python 3](http://woodpecker.org.cn/diveintopython3/)
 * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)
@@ -609,10 +609,10 @@
 ### Ruby
 
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
-* [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/)
+* [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org)
 * [Ruby on Rails 实战圣经](http://ihower.tw/rails4/)
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
-* [笨方法学 Ruby](http://lrthw.github.io/)
+* [笨方法学 Ruby](http://lrthw.github.io)
 
 
 ### Scala
@@ -625,7 +625,7 @@
 ### Scheme
 
 * [Scheme 入门教程](http://deathking.github.io/yast-cn/) (《Yet Another Scheme Tutorial》中文版)
-* [算法语言Scheme修订<sup>6</sup>报告](http://r6rs.mrliu.org/)（R<sup>6</sup>RS简体中文翻译）
+* [算法语言Scheme修订<sup>6</sup>报告](http://r6rs.mrliu.org)（R<sup>6</sup>RS简体中文翻译）
 
 
 ### Shell

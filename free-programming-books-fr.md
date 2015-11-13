@@ -52,8 +52,8 @@
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours) - Michel Quercia
 * [Complexité algorithmique](http://www.liafa.univ-paris-diderot.fr/~sperifel/livre_complexite.html) - Sylvain Perifel
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) - D. Beauquier, J. Berstel, et Ph. Chrétienne (PDF)
-* [France-IOI](http://www.france-ioi.org/)
-* [Prologin](http://www.prologin.org/)
+* [France-IOI](http://www.france-ioi.org)
+* [Prologin](http://www.prologin.org)
 
 
 #### Logiciels libres
@@ -103,7 +103,7 @@
 
 ### Caml
 
-* [Le language Caml](http://caml.inria.fr/)
+* [Le language Caml](http://caml.inria.fr)
 
 
 ### C / C++
@@ -120,7 +120,7 @@
 
 ### CSS
 
-* [Apprendre les mises en page CSS](http://fr.learnlayout.com/)
+* [Apprendre les mises en page CSS](http://fr.learnlayout.com)
 
 
 ### Git
@@ -137,7 +137,7 @@
 
 ### Javascript
 
-* [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net/) - Marijn Haverbeke
+* [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
 
 
 ### jQuery
@@ -148,7 +148,7 @@
 ### Haskell
 
 * [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson et Joseph Fasel
-* [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr/)
+* [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr)
 
 
 ### (La)TeX et associés
@@ -198,7 +198,7 @@ les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du 
 ### Meteor
 
 * [Apprendre Meteor](http://mquandalle.gitbooks.io/apprendre-meteor/) - Maxime Quandalle
-* [Discover Meteor](http://fr.discovermeteor.com/) - Tom Coleman et Sacha Greif
+* [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
 
 
 ### Perl
@@ -240,7 +240,7 @@ les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du 
 
 ### Sage
 
-* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr/) - A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann
+* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr) - A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann
 
 
 ### Scilab
@@ -250,10 +250,10 @@ les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du 
 
 ### SPIP
 
-* [Programmer avec SPIP](http://programmer.spip.net/) - Matthieu Marcimat et collectif SPIP
+* [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat et collectif SPIP
 
 
 ### Vim
 
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)
-* [Vim pour les humains](http://vimebook.com/) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)
+* [Vim pour les humains](http://vimebook.com) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)

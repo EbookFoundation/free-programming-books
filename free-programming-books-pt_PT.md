@@ -17,7 +17,7 @@
 
 ### CSS
 
-* [Aprenda o layout de CSS](http://pt-pt.learnlayout.com/)
+* [Aprenda o layout de CSS](http://pt-pt.learnlayout.com)
 
 
 ### Haskell

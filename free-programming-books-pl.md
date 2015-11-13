@@ -64,7 +64,7 @@
 
 ### Java
 
-* [Java start](http://javastart.pl/)
+* [Java start](http://javastart.pl)
 
 
 ### JavaScript
@@ -87,20 +87,20 @@
 ### PHP
 
 * [PHP](http://pl.wikibooks.org/wiki/PHP)
-* [PHP: The Right Way](http://pl.phptherightway.com/)
-* [Kurs PHP](http://phpkurs.pl/)
+* [PHP: The Right Way](http://pl.phptherightway.com)
+* [Kurs PHP](http://phpkurs.pl)
 
 
 ### Prolog
 
-* [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl/)
+* [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl)
 
 
 ### Python
 
 * [Ukąś Pythona](http://python.edu.pl/byteofpython/index.html)
 * [Zanurkuj w Pythonie](http://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
-* [Biblioteka Pythona](http://www.python.rk.edu.pl/)
+* [Biblioteka Pythona](http://www.python.rk.edu.pl)
 
 
 ### Ruby

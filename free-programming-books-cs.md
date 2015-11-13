@@ -35,12 +35,12 @@
 
 ### Git
 
-* [Pro Git](https://knihy.nic.cz/) - Scott Chacon (PDF)
+* [Pro Git](https://knihy.nic.cz) - Scott Chacon (PDF)
 
 
 ### HTML
 
-* [Ponořme se do HTML5](https://knihy.nic.cz/) - Mark Pilgrim (PDF)
+* [Ponořme se do HTML5](https://knihy.nic.cz) - Mark Pilgrim (PDF)
 
 
 ### Language Agnostic
@@ -52,8 +52,8 @@
 
 #### Bezpečnost
 
-* [Báječný svět elektronického podpisu](https://knihy.nic.cz/) - Jiří Peterka (PDF)
-* [Buď pánem svého prostoru](https://knihy.nic.cz/) - Linda McCarthy a Denise Weldon-Siviy (PDF)
+* [Báječný svět elektronického podpisu](https://knihy.nic.cz) - Jiří Peterka (PDF)
+* [Buď pánem svého prostoru](https://knihy.nic.cz) - Linda McCarthy a Denise Weldon-Siviy (PDF)
 
 
 #### Matematika
@@ -66,7 +66,7 @@
 
 #### Právo
 
-* [Internet jako objekt práva](https://knihy.nic.cz/) - Ján Matejka (PDF)
+* [Internet jako objekt práva](https://knihy.nic.cz) - Ján Matejka (PDF)
 
 
 #### Regulární výrazy
@@ -76,7 +76,7 @@
 
 #### Sítě
 
-* [Internetový protokol IPv6](https://knihy.nic.cz/) - Pavel Satrapa (PDF)
+* [Internetový protokol IPv6](https://knihy.nic.cz) - Pavel Satrapa (PDF)
 
 
 ### LaTeX
@@ -101,7 +101,7 @@
 
 ### OpenSource
 
-* [Tvorba open source softwaru](https://knihy.nic.cz/) - Karl Fogel (PDF)
+* [Tvorba open source softwaru](https://knihy.nic.cz) - Karl Fogel (PDF)
 * [Katedrála a tržiště](http://www.root.cz/knihy/katedrala-a-trziste/) (PDF)
 
 
@@ -112,7 +112,7 @@
 
 ### Python
 
-* [Ponořme se do Pythonu 3](https://knihy.nic.cz/) - Mark Pilgrim (PDF)
+* [Ponořme se do Pythonu 3](https://knihy.nic.cz) - Mark Pilgrim (PDF)
 * [Učebnice jazyka Python](http://www.root.cz/knihy/ucebnice-jazyka-python/stahnout/920/) (PDF)
 
 

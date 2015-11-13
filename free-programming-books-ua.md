@@ -7,7 +7,7 @@
 
 ### Language Agnostic
 
-* [Дизайн патерни - просто, як двері](http://designpatterns.andriybuday.com/) - А. Будай
+* [Дизайн патерни - просто, як двері](http://designpatterns.andriybuday.com) - А. Будай
 
 
 ### Haskell

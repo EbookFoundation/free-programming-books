@@ -1,6 +1,6 @@
 ## Angular.js
 
-* [Angular Basics](http://www.angularjsbook.com/)
+* [Angular Basics](http://www.angularjsbook.com)
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Angular.js Guide](http://docs.angularjs.org/guide/)
@@ -12,11 +12,11 @@
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
 * [AngularJS Insights](http://pascalprecht.github.com/slides/angularjs-insights/#/)
 * [AngularJS Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
-* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
+* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [AngularJS with Ruby on Rails](http://angular-rails.com)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](http://egghead.io)
-* [Learn AngularJS with free interactive lessons](http://www.learn-angular.org/)
+* [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 * [Mastering AngularJS Directives](http://pascalprecht.github.com/slides/mastering-angularjs-directives/)
 * [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
@@ -26,11 +26,11 @@
 ## Backbone.js
 
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
-* [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/)
+* [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
 * [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis
 * [Backbone.js + Require.js, Modularization and Just in Time Dependency Loading, part 1](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) [part 2](http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep)
 * [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
-* [Backbonejs Tutorials](http://backbonetutorials.com/)
+* [Backbonejs Tutorials](http://backbonetutorials.com)
 * [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (work in progress)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
@@ -58,12 +58,12 @@
 
 ## Ember.js
 
-* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
+* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [DockYard Ember.js Style Guide](https://github.com/dockyard/styleguides/blob/master/ember.md)
-* [Ember 101](http://ember101.com/)
+* [Ember 101](http://ember101.com)
 * [Ember App with RailsApi](http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html)
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
-* [EmberFlare](https://emberflare.com/)
+* [EmberFlare](https://emberflare.com)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
 
@@ -103,7 +103,7 @@
 
 ## Meteor
 
-* [BulletProof Meteor](https://bulletproofmeteor.com/)
+* [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
 
@@ -119,4 +119,4 @@
   * [Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/)
   * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
-* [SurviveJS - Webpack and React](http://survivejs.com/)
+* [SurviveJS - Webpack and React](http://survivejs.com)

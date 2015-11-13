@@ -47,7 +47,7 @@
 
 ### Metalistas
 
-* [CodeHero](http://codehero.co/)
+* [CodeHero](http://codehero.co)
 * [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
 * [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
 
@@ -85,7 +85,7 @@
 
 #### Cursos Masivos en Línea
 
-* [MIT Opencourseware en Español](http://mit.ocw.universia.net/)
+* [MIT Opencourseware en Español](http://mit.ocw.universia.net)
 
 
 #### Metodologías de desarrollo de software
@@ -103,12 +103,12 @@
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/)
 * [Programación de videojuegos SDL](http://www.albertogarcia.info/libros/sdl/%5Bebook%5DProgramacion%20de%20videojuegos%20con%20SDL.pdf) (PDF)
-* [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
+* [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com)
 
 
 #### Paradigmas de Programación
 
-* [Programación Concurrente y Tiempo Real](http://www.libropctr.com/)
+* [Programación Concurrente y Tiempo Real](http://www.libropctr.com)
 * [Programación Funcional](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
 
 
@@ -145,7 +145,7 @@
 ### CSS
 
 * [CSS avanzado](http://librosweb.es/css_avanzado/)
-* [Estructura con CSS](http://es.learnlayout.com/)
+* [Estructura con CSS](http://es.learnlayout.com)
 * [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
 * [Introducción a CSS](http://librosweb.es/css/)
 
@@ -163,7 +163,7 @@
 
 ### Erlang
 
-* [Erlang/OTP: Un mundo concurrente](http://erlang-otp.es/)
+* [Erlang/OTP: Un mundo concurrente](http://erlang-otp.es)
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) en Wikibooks
 
 
@@ -188,7 +188,7 @@
 ### Java
 
 * [Aprendiendo Java](http://www.compunauta.com/forums/linux/programacion/java/AprendiendoJava.pdf) (PDF)
-* [Arquitectura Java Sólida](http://www.arquitecturajava.com/)
+* [Arquitectura Java Sólida](http://www.arquitecturajava.com)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/pdf/libroJavaConTapa.pdf) (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona, UNAM (PDF)
 * [OCPJP6 Resumen Español](https://github.com/PabloReyes/ocpjp-resumen-espanol) - Pablo Reyes Almagro (PDF)
@@ -219,13 +219,13 @@
 
 #### jQuery
 
-* [Fundamentos de jQuery](http://librojquery.com/)
+* [Fundamentos de jQuery](http://librojquery.com)
 
 
 #### Node.js
 
 * [El Libro para Principiantes en Node.js](http://www.nodebeginner.org/index-es.html)
-* [Introducción a Node.js a través de Koans](http://nodejskoans.com/)
+* [Introducción a Node.js a través de Koans](http://nodejskoans.com)
 
 
 ### LaTeX
@@ -293,7 +293,7 @@
 
 #### Django
 
-* [El libro de Django 1.0](http://django-book.mkaufmann.com.ar/)
+* [El libro de Django 1.0](http://django-book.mkaufmann.com.ar)
 
 
 #### Web2py

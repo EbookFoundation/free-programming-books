@@ -61,7 +61,7 @@
 
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
-* [LearnCpp.com C++ Tutorial](http://www.learncpp.com/)
+* [LearnCpp.com C++ Tutorial](http://www.learncpp.com)
 
 
 ### C# #
@@ -100,7 +100,7 @@
 
 ### HTML / CSS
 
-* [Build a Personal Website with Dash](https://dash.generalassemb.ly/)
+* [Build a Personal Website with Dash](https://dash.generalassemb.ly)
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
@@ -126,14 +126,14 @@
 
 ### JS
 
-* [Egghead.io](https://egghead.io/)
+* [Egghead.io](https://egghead.io)
 
 
 ### Lua
 
 * [Lua Interactive Crash Course](http://luatut.com/crash_course.html)
 * [Lua Tutorial](http://www.tutorialpoint.com/lua/)
-* [Lua org](http://www.lua.org/)
+* [Lua org](http://www.lua.org)
 
 
 ### MATLAB
@@ -219,5 +219,5 @@
 ### Web Development
 
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
-* [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com/)
+* [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Udacity Web Development Course Catalog](https://www.udacity.com/courses#!/web-development)

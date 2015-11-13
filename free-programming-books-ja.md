@@ -181,7 +181,7 @@
 * [ケヴィン・ケリー著作選集　１](http://tatsu-zine.com/books/kk1) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
 * [ケヴィン・ケリー著作選集　２](http://tatsu-zine.com/books/kk2) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
 * [ケヴィン・ケリー著作選集　３](http://tatsu-zine.com/books/kk3) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
-* [青木靖 翻訳集](http://www.aoky.net/) - 青木靖
+* [青木靖 翻訳集](http://www.aoky.net) - 青木靖
 * [川合史朗 翻訳集](http://practical-scheme.net/index-j.html) - 川合史朗
 * [オープンソースソフトウェアの育て方](http://producingoss.com/ja/index.html) - Fogel Karl, 高木正弘(翻訳), Yoshinari Takaoka(翻訳)
 
@@ -211,7 +211,7 @@
 ### Bash
 
 * [Bash基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - id:nattou\_curry
-* [UNIX & Linux コマンド・シェルスクリプト リファレンス](http://shellscript.sunone.me/) - SUNONE
+* [UNIX & Linux コマンド・シェルスクリプト リファレンス](http://shellscript.sunone.me) - SUNONE
 * [BASH Programming - Introduction HOW-TO](http://linuxjf.sourceforge.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - Mike G, 千旦裕司(翻訳)
 
 
@@ -229,7 +229,7 @@
 
 * [C++入門](http://www.asahi-net.or.jp/~yf8k-kbys/newcpp0.html) - 小林健一郎
 * [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/) - ロベール
-* [cpprefjp - C++ Reference Site in Japanese](http://cpprefjp.github.io/)
+* [cpprefjp - C++ Reference Site in Japanese](http://cpprefjp.github.io)
 * [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.com/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
 * [Google C++スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/cppguide.xml) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, Takashi Sasai(翻訳)
 * [Standard Template Library プログラミング](http://episteme.wankuma.com/stlprog/) - επιστημη
@@ -256,7 +256,7 @@
 * [LISP and PROLOG](http://home.soka.ac.jp/~unemi/LispProlog/) - 畝見達夫
 * [マンガで分かるLisp(Manga Guide to Lisp)](http://lambda.bugyo.tk/cdr/mwl/) - λ組
 * [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd/) - Paul Graham, 野田開(翻訳)
-* [Google Common Lisp スタイルガイド 日本語訳](http://google-common-lisp-style-guide-ja.cddddr.org/) -  Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳)
+* [Google Common Lisp スタイルガイド 日本語訳](http://google-common-lisp-style-guide-ja.cddddr.org) -  Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳)
 
 
 ### Coq
@@ -331,7 +331,7 @@
 * [初めての iOS アプリケーション](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhone101.pdf) - Apple Developer (PDF)
 * [Cocoa Programming Tips 1001](http://hmdt.jp/tips/cocoa/index.html) - 木下誠
 * [Web API を利用する iOS アプリ作成](https://github.com/hatena/Hatena-Textbook/blob/master/ios-app-development-with-web-api.md) - はてな教科書
-* [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp/) - Clay Allsopp, RubyMotion JP(翻訳)
+* [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp) - Clay Allsopp, RubyMotion JP(翻訳)
 
 
 ### Java
@@ -488,14 +488,14 @@
 * [機械学習の Python との出会い (Machine Learning Meets Python)](http://www.kamishima.net/mlmpyja/) - 神嶌敏弘 [PDF](http://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](http://www.kamishima.net/archive/mlmpyja.epub)
 * [The Programming Historian](https://sites.google.com/site/theprogramminghistorianja/) - William J. Turkel, Alan MacEachern, @moroshigeki(翻訳), @historyanddigi(翻訳), @Say\_no(翻訳), @knagasaki(翻訳), @mak\_goto(翻訳)
 * [Python Scientific Lecture Notes (一部翻訳)](http://turbare.net/transl/scipy-lecture-notes/) - 打田旭宏(翻訳)
-* [Notes on scientific computing with python](http://japanichaos.appspot.com/) - 花田康高
+* [Notes on scientific computing with python](http://japanichaos.appspot.com) - 花田康高
 * [pythonで心理実験](http://www.s12600.net/psy/python/) - 十河宏行
 * [Python による日本語自然言語処理](http://www.nltk.org/book-jp/ch12.html) - Steven Bird, Ewan Klein, Edward Loper, 萩原正人(翻訳), 中山敬広(翻訳), 水野貴明(翻訳)
 * [Pythonで音声信号処理](http://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
-* [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp/) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
+* [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
 * [php プログラマのための Python チュートリアル](http://phpy.readthedocs.org/en/latest/) - INADA Naoki
 * [みんなのPython Webアプリ編](http://coreblog.org/ats/minpy-web-is-now-free-to-read/) - 柴田淳
-* [Pythonヒッチハイク・ガイド](http://python-guide-ja.readthedocs.org/) - Kenneth Reitz, Tsuyoshi Tokuda(翻訳)
+* [Pythonヒッチハイク・ガイド](http://python-guide-ja.readthedocs.org) - Kenneth Reitz, Tsuyoshi Tokuda(翻訳)
 * [Python プログラマーのための gevent チュートリアル](http://methane.github.io/gevent-tutorial-ja/) - Stephen Diehl, Jérémy Bethmont, sww, Bruno Bigras, David Ripton, Travis Cline, Boris Feld, youngsterxyf, Eddie Hebert, Alexis Metaireau, Daniel Velkov, methane(翻訳)
 * [お気楽 Python プログラミング入門](http://www.geocities.jp/m_hiroi/light/index.html) - 広井誠
 * [Think Python：コンピュータサイエンティストのように考えてみよう](http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf) - Allen Downey, 相川 利樹（翻訳）(PDF)
@@ -503,7 +503,7 @@
 
 #### Flask
 
-* [Flask ドキュメント](http://flask-docs-ja.readthedocs.org/) - Armin Ronacher, Tsuyoshi Tokuda(翻訳)
+* [Flask ドキュメント](http://flask-docs-ja.readthedocs.org) - Armin Ronacher, Tsuyoshi Tokuda(翻訳)
 * [Flask ハンズオン](http://methane.github.io/flask-handson/) - INADA Naoki
 
 
@@ -529,8 +529,8 @@
 * [Rubyソースコード完全解説](http://i.loveruby.net/ja/rhg/book/) - 青木峰郎
 * [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby/) - why the lucky stiff, 青木靖(翻訳)
 * [お気楽 Ruby プログラミング入門](http://www.geocities.jp/m_hiroi/light/ruby.html) - 広井誠
-* [Ruby on Rails チュートリアル](http://railstutorial.jp/) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
-* [Ruby on Rails ガイド](http://railsguides.jp/) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
+* [Ruby on Rails チュートリアル](http://railstutorial.jp) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
+* [Ruby on Rails ガイド](http://railsguides.jp) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
 
 
 ### Sather

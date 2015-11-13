@@ -33,7 +33,7 @@
 
 ### Arduino
 
-* [Arduino programozási kézikönyv](http://avr.tavir.hu/) - Brian W. Evans írása alapján fordította, kiegészítette és frissítette Cseh Róbert (PDF - regisztráció szükséges)
+* [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans írása alapján fordította, kiegészítette és frissítette Cseh Róbert (PDF - regisztráció szükséges)
 
 
 ### C++

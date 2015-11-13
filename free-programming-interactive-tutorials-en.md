@@ -37,12 +37,12 @@
 
 ### C
 
-* [Learn C](http://www.learn-c.org/)
+* [Learn C](http://www.learn-c.org)
 
 
 ### C Sharp
 
-* [Learn C#](http://www.learncs.org/)
+* [Learn C#](http://www.learncs.org)
 
 
 ### C++
@@ -52,10 +52,10 @@
 
 ### Clojure
 
-* [4Clojure - Koans](https://www.4clojure.com/)
-* [Clojure Koans](http://clojurekoans.com/)
-* [ClojureScript Koans](http://clojurescriptkoans.com/)
-* [Try Clojure](http://tryclj.com/)
+* [4Clojure - Koans](https://www.4clojure.com)
+* [Clojure Koans](http://clojurekoans.com)
+* [ClojureScript Koans](http://clojurescriptkoans.com)
+* [Try Clojure](http://tryclj.com)
 
 
 ### CoffeeScript
@@ -66,12 +66,12 @@
 
 ### Erlang
 
-* [Try Erlang](http://www.tryerlang.org/)
+* [Try Erlang](http://www.tryerlang.org)
 
 
 ### F Sharp
 
-* [Try F#](http://www.tryfsharp.org/)
+* [Try F#](http://www.tryfsharp.org)
 
 
 ### Git
@@ -89,7 +89,7 @@
 
 ### Haskell
 
-* [Try Haskell!](http://tryhaskell.org/)
+* [Try Haskell!](http://tryhaskell.org)
 
 
 ### HTML / CSS
@@ -103,7 +103,7 @@
 
 * [CodingBat code practice](http://codingbat.com/java)
 * [Learneroo Java tutorial](http://www.learneroo.com/modules/11)
-* [Learn Java](http://www.learnjavaonline.org/)
+* [Learn Java](http://www.learnjavaonline.org)
 
 
 ### JavaScript
@@ -117,9 +117,9 @@
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [jQuery Building Blocks](http://gymnasium.aquent.com/catalog/course/102)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
-* [Learn JavaScript](http://www.learn-js.org/)
+* [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
-* [Try jQuery](http://try.jquery.com/)
+* [Try jQuery](http://try.jquery.com)
 
 
 ### Language Agnostic
@@ -140,14 +140,14 @@
 
 ### Node
 
-* [Node School](http://nodeschool.io/)
+* [Node School](http://nodeschool.io)
 
 
 ### NoSQL
 
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
-* [Try MongoDB](http://try.mongodb.org/)
-* [Try Redis](http://try.redis.io/)
+* [Try MongoDB](http://try.mongodb.org)
+* [Try Redis](http://try.redis.io)
 
 
 ### Objective-C
@@ -157,20 +157,20 @@
 
 ### Ocaml
 
-* [Try Ocaml](http://try.ocamlpro.com/)
+* [Try Ocaml](http://try.ocamlpro.com)
 
 
 ### PHP
 
 * [CodeCademy PHP](http://www.codecademy.com/tracks/php)
-* [Learn PHP](http://www.learn-php.org/)
+* [Learn PHP](http://www.learn-php.org)
 
 
 ### Python
 
 * [Codecademy Python course](http://www.codecademy.com/tracks/python)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
-* [Learn Python](http://www.learnpython.org/)
+* [Learn Python](http://www.learnpython.org)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 
@@ -181,27 +181,27 @@
 
 ### Racket
 
-* [Try Racket](http://try-racket.org/)
+* [Try Racket](http://try-racket.org)
 
 
 ### Ruby
 
 * [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
 * [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
-* [Ruby Koans](http://www.rubykoans.com/)
+* [Ruby Koans](http://www.rubykoans.com)
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
-* [The Odin Project](http://www.theodinproject.com/)
-* [Try Ruby](http://tryruby.org/)
+* [The Odin Project](http://www.theodinproject.com)
+* [Try Ruby](http://tryruby.org)
 
 
 ### Scala
 
-* [Scala Tour](http://www.scala-tour.com/)
+* [Scala Tour](http://www.scala-tour.com)
 
 
 ### SQL
 
-* [SQLBolt](http://sqlbolt.com/)
+* [SQLBolt](http://sqlbolt.com)
 
 
 ### Vim

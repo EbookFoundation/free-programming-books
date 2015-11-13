@@ -22,7 +22,7 @@
 
 #### اوبونتو
 
-* [اوبونتو برای تازه واردها](http://ubuntu-book.org/)
+* [اوبونتو برای تازه واردها](http://ubuntu-book.org)
 
 
 ### C Sharp
@@ -32,7 +32,7 @@
 
 ### CSS
 
-* [یادگیری پیکربندی با CSS](http://fa.learnlayout.com/)
+* [یادگیری پیکربندی با CSS](http://fa.learnlayout.com)
 
 
 ### LaTeX
@@ -42,7 +42,7 @@
 
 ### PHP
 
-* [آموزش فریمورک لاراول](http://laravel.ir/)
+* [آموزش فریمورک لاراول](http://laravel.ir)
 
 
 ### Python

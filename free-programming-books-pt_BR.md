@@ -75,8 +75,8 @@
 * [Curso de HTML5 em vídeo do Guanabara](http://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 * [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/)
-* [Dive Into HTML5](http://diveintohtml5.com.br/)
-* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
+* [Dive Into HTML5](http://diveintohtml5.com.br)
+* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
 
 
 ### Java
@@ -108,7 +108,7 @@
 ### Php
 
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
-* [PHP Do jeito certo](http://br.phptherightway.com/)
+* [PHP Do jeito certo](http://br.phptherightway.com)
 
 
 ### Python
@@ -129,7 +129,7 @@
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br)
 * [Conhecendo Ruby](http://howtocode.com.br/ebooks/ruby)
 * [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
-* [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com/)
+* [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
 

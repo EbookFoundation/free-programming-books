@@ -10,6 +10,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [Perl](#perl)
 * [PHP](#php)
 * [Prolog](#prolog)
 * [Python](#python)
@@ -77,11 +78,14 @@
 * [LaTeX. Książka kucharska](http://www.ptm.org.pl/latex-ksiazka-kucharska), Marcin Borkowski, Bartłomiej Przybylski
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
 
+### Perl
+* [Wikibooks Perl](https://pl.wikibooks.org/wiki/Perl)
 
 ### PHP
 
 * [PHP](http://pl.wikibooks.org/wiki/PHP)
 * [PHP: The Right Way](http://pl.phptherightway.com/)
+* [Kurs PHP](http://phpkurs.pl/)
 
 
 ### Prolog
@@ -109,3 +113,5 @@
 ### SQL
 
 * [SQL i PL/SQL – podstawy](http://jsystems.pl/storage/sqlplsql1.pdf)
+* [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
+* [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

@@ -1334,8 +1334,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Arbirtrary LaTex Reference](http://latex.knobs-dials.com/)
 * [LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX)
 * [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
-
-See also [TeX](#tex)
+* See also [TeX](#tex)
 
 
 ### Limbo
@@ -2041,8 +2040,7 @@ See also [TeX](#tex)
 * [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) - Christian Feursänger (PDF)
 * [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - Victor Eijkhout
 * [TeX for the Impatient](https://www.gnu.org/software/teximpatient/) - Paul Abrahams, Kathryn Hargreaves, and Karl Berry
-
-See also [LaTeX](#latex)
+* See also [LaTeX](#latex)
 
 
 ### Tizen

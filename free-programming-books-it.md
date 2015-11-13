@@ -1,7 +1,7 @@
 ### Index
 * [Agnostico](#agnostico)
-    * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
-    * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
+  * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
+  * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)

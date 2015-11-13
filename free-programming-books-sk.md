@@ -1,6 +1,6 @@
 ### Index
 * [Language Agnostic](#language-agnostic)
-    * [Právo](#pravo)
+  * [Právo](#pravo)
 
 
 ### Language Agnostic

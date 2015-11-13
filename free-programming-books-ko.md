@@ -4,7 +4,7 @@
 * [Go](#go)
 * [HTML5](#html5)
 * [JavaScript](#javascript)
-    * [Node.js](#nodejs)
+  * [Node.js](#nodejs)
 * [LaTeX](#latex)
 * [Ruby](#ruby)
 * [Python](#python)

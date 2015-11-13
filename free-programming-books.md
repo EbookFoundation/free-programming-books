@@ -85,6 +85,7 @@ Original Source: [List of freely available programming books](http://web.archive
     * [Information Retrieval](#information-retrieval)
     * [Licensing](#licensing)
     * [Machine Learning](#machine-learning)
+    * [Management](#management)
     * [Mathematics](#mathematics)
     * [Misc](#misc)
     * [MOOC](#mooc)
@@ -372,6 +373,10 @@ Original Source: [List of freely available programming books](http://web.archive
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 
+#### Management
+* [Management 3.0](http://www.management30.com/)  (PDF)
+* [Influence And Lead - Fundamentals for Personal and Professional Growth](http://www.infoq.com/minibooks/fundamentals-for-growth) 
+* [Dependency-Oriented Thinking: Volume 1 – Analysis and Design](http://www.infoq.com/minibooks/dependency-oriented-thinking-1)
 
 #### Mathematics
 * [A First Course in Linear Algebra](http://linear.ups.edu/) - Robert A. Beezer

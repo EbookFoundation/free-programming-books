@@ -357,7 +357,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) (PDF)
 * [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) (PDF)
 * [AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java](http://wps.aw.com/wps/media/objects/5771/5909832/PDF/Luger_0136070477_1.pdf) - George F. Luger, William A Stubblefield
-* [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [Inductive Logic Programming](http://www-ai.ijs.si/SasoDzeroski/ILPBook/)
@@ -370,7 +370,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
-* [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+* [The Elements of Statistical Learning, Data Mining, Inference, and Prediction](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 

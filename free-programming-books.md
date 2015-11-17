@@ -1620,6 +1620,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### PostgreSQL
 
+* [Postgres Official Documentation](http://www.postgresql.org/docs/)
 * [Postgres Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Practical PostgreSQL](http://www.commandprompt.com/ppbook/)
 

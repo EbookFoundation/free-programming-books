@@ -40,7 +40,6 @@
 ### jQuery
 
 * [Artigos sobre jQuery](http://tableless.com.br/code/javascript/jquery/)
-* [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
 
 
 ### Knockout.js

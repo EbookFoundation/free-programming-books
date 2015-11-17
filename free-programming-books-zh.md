@@ -67,7 +67,6 @@
 * [Codecademy](http://www.codecademy.com/?locale_code=zh)
 * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
 * [Learn X in Y minutes](http://learnxinyminutes.com) (数十种语言快速入门教程)
-* [MIT 公开课](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
 * [shiyanlou](https://www.shiyanlou.com)
 * [TeamTreeHouse](http://teamtreehouse.com)
 * [Udacity](https://www.udacity.com)
@@ -231,14 +230,13 @@
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
-* [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+* [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_(Simplified))
 * [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
 * [编码规范](https://github.com/ecomfe/spec)
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
-* [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
 
 
 ### 设计模式
@@ -266,7 +264,6 @@
 * [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
 * [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
-* [w3school教程整理](http://www.flygon.net/archives/427)
 * [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
 * [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/)
@@ -341,7 +338,6 @@
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf) (PDF)
-* [GNU make中文手册](http://www.yayu.org/book/gnu_make/)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 * [C/C++ Primer](https://github.com/andycai/cprimer) (by @andycai)
@@ -355,9 +351,7 @@
 
 ### CoffeeScript
 
-* [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 * [CoffeeScript 中文](http://coffee-script.org)
-* [CoffeeScript 中文手册](http://island205.github.io/tlboc/) (《The Little Book on CoffeeScript》中文版)
 * [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 
 
@@ -389,7 +383,7 @@
 * [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
 * [Go 指南](http://go-tour-zh.appsp0t.com) (《A Tour of Go》中文版)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
-* [学习Go语言](http://mikespook.com/learning-go/) ([PDF](http://xxiyy.qiniudn.com/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80\(Golang\).pdf?download))
+* [学习Go语言](http://mikespook.com/learning-go/)
 * [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
 * [Effective Go](http://www.hellogcc.org/effective_go.html)
@@ -480,7 +474,6 @@
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * jQuery
-  * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
   * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
   * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
 * Node.js
@@ -510,8 +503,6 @@
   * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
 * Zepto.js
   * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
-* Sea.js
-  * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * React.js
   * [React.js 中文文档](http://reactjs.cn)
   * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
@@ -520,8 +511,6 @@
 * impress.js
   * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
-  * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
-  * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
   * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * ExtJS
   * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)

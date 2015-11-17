@@ -57,8 +57,6 @@
 #### Algoritmos
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
-* [Análisis de Algoritmos](http://docencia.izt.uam.mx/pece/pagina_academica/AA/indexa.html)
-* [Análisis y Diseño de Algoritmos](http://www.aliatuniversidades.com.mx/bibliotecasdigitales/pdf/sistemas/Analisis_y_disenio_de_algoritmos.pdf) (PDF)
 * [Apuntes de Algoritmos y Estructuras de Datos](https://sites.google.com/site/prog3unlp/home/exp_algoritmos.pdf?attredirects=0&d=1) (PDF)
 * [Aprenda a programar como si estuviera en primero](http://www1.ceit.es/asignaturas/Informat1/ayudainf/aprendainf/Programar/Programar.pdf) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)

@@ -115,6 +115,5 @@
 
 ### SQL
 
-* [SQL i PL/SQL – podstawy](http://jsystems.pl/storage/sqlplsql1.pdf) (PDF)
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

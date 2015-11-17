@@ -62,7 +62,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [HTML / CSS](#html--css)
   * [Bootstrap](#bootstrap)
 * [Icon](#icon)
-* [IDL](#idl)
 * [iOS](#ios)
 * [Isabelle/HOL](#isabellehol)
 * [J](#j)
@@ -918,7 +917,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### Cool
 
-* [CoolAid: The Cool 2013 Reference Manual](http://www.cs.uwm.edu/~cs654/handouts/cool-manual.pdf) (PDF)
+* [CoolAid: The Cool 2013 Reference Manual](https://www.eecis.udel.edu/~cavazos/cisc672/docs/cool-manual.pdf) (PDF)
 
 
 ### Coq
@@ -1170,11 +1169,6 @@ Original Source: [List of freely available programming books](http://web.archive
 ### Icon
 
 * [The Implementation of the Icon Programming Language](http://www.cs.arizona.edu/icon/ibsale.htm)
-
-
-### IDL
-
-* [Getting Started with IDL](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/getting-started-IDL-v7.0.pdf) (PDF)
 
 
 ### iOS
@@ -1888,7 +1882,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Sage
 
-* [Sage for Power Users](http://modular.math.washington.edu/books/sagebook/sagebook.pdf) - William (PDF)
+* [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf) - William Stein (PDF)
 * [The Sage Manuals](http://sagemath.org/doc/)
 
 

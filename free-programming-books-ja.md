@@ -105,7 +105,6 @@
 * [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
 * [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/OpenGLES_ProgrammingGuide.pdf) - Apple Developer (PDF)
 * [DirectX を使った初めての Windows ストア アプリの作成](http://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
-* [CUDA プログラミング入門](http://accc.riken.jp/secure/4467/cuda-programming_main.pdf) - 青山幸也 (PDF)
 
 
 #### グラフィックユーザーインターフェイス
@@ -168,7 +167,6 @@
 
 #### 並列プログラミング
 
-* [並列プログラミング入門MPI版](http://accc.riken.jp/secure/4467/parallel-programming_main.pdf) - 青山幸也 (PDF)
 * [これからの並列計算のためのGPGPU連載講座 [I]](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No1/201001gpgpu.pdf) - 大島聡史 ([II](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No2/201003gpgpu.pdf)),  ([III](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No3/201005_gpgpu2.pdf)),  ([VI](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No4/201007_gpgpu.pdf)),  ([V](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No5/201009_gpgpu.pdf)),  ([VI](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No6/201011_gpgpu.pdf)) (PDF)
 * [連載講座: 高生産並列言語を使いこなす [1]](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No1/Rensai201101.pdf) - 田浦健次朗 ([2](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No3/Rensai201105.pdf)), ([3](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No4/Rensai201107.pdf)), ([4](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No5/Rennsai201109.pdf)), ([5](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No6/Rennsai201111.pdf)) (PDF)
 * [インテル コンパイラー OpenMP 入門](http://jp.xlsoft.com/documents/intel/compiler/525J-001.pdf) - 戸室隆彦 (PDF)

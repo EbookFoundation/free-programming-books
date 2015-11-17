@@ -53,7 +53,6 @@
 #### Networking
 
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
-* [TCP/IP Крупным планом](http://www.soslan.ru/tcp/)
 
 
 #### Open Source Ecosytem

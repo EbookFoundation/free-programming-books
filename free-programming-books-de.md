@@ -17,7 +17,6 @@
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [PHP](#php)
-* [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
@@ -60,7 +59,6 @@
 * [Die Boost C++ Bibliotheken](http://www.highscore.de/cpp/boost/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
-* [Softwareprogrammierung in C++](http://www.iaik.tugraz.at/content/teaching/bachelor_courses/betriebssysteme/downloads/schmaranz2.pdf) (PDF)
 
 
 ### C Sharp
@@ -135,11 +133,6 @@
 * [PHP](http://peterkropff.de/site/php/php.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 * [PHP PEAR](http://openbook.galileocomputing.de/php_pear/)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) (PDF)
-
-
-### PostgreSQL
-
-* [PostgreSQL Einführung](http://cybertec.at/pgbook/)
 
 
 ### Python

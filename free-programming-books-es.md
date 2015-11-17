@@ -277,7 +277,7 @@
 
 ### Python
 
-* [Aprenda a pensar como un programador (con Python)](http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf) (PDF)
+* [Aprenda a pensar como un programador (con Python)](http://arawako.com/wp-content/uploads/2010/03/thinkCSpy.es_.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)

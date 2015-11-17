@@ -38,6 +38,8 @@
 
 * [Backbone.js API 한글 번역 v0.9.2](http://iwidgets.kr/document/backbonejs.html)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ko)
+* Meteor
+  * [Discover Meteor](http://kr.discovermeteor.com)
 
 
 ### LaTeX

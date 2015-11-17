@@ -1,6 +1,7 @@
 ### Index
 
 * [Niezależne od języka programowania](#niezale%C5%BCne-od-j%C4%99zyka-programowania)
+* [Android](#android)
 * [C](#c)
 * [C++](#c-1)
 * [CSS](#css)
@@ -28,6 +29,9 @@
 * [System kontroli wersji Subversion](http://svnbook.opensys.pl)
 * [Pisanie OS](http://pl.wikibooks.org/wiki/Pisanie_OS)
 
+### Android
+
+* [O Androidzie ludzkim głosem] (http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf)
 
 ### C
 

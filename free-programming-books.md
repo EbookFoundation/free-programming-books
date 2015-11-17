@@ -540,7 +540,6 @@ Original Source: [List of freely available programming books](http://web.archive
 
 * [Computer Science from the Bottom Up](http://www.bottomupcs.com)
 * [How to Make a Computer Operating System (Work in Progress)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
-* [Operating Systems](http://www.cse.iitd.ernet.in/~suban/csl373/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) - Dominic Giampaolo (PDF)

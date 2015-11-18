@@ -29,9 +29,11 @@
 * [System kontroli wersji Subversion](http://svnbook.opensys.pl)
 * [Pisanie OS](http://pl.wikibooks.org/wiki/Pisanie_OS)
 
+
 ### Android
 
-* [O Androidzie ludzkim głosem] (http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf)
+* [O Androidzie ludzkim głosem](http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf)(PDF)
+
 
 ### C
 

@@ -60,9 +60,12 @@
 * [Programozás III.](http://www.sze.hu/~varjasin/oktat.html) - Varjasi Norbert (PDF)
 * [RMI](http://mek.oszk.hu/01200/01263/index.phtml) - Dékány Dániel (PDF)
 
+
 ### Lego Mindstorms
+
 * [A MINDSTORMS EV3 robotok programozásának alapjai](http://www.hdidakt.hu/adat/dw_anyagok/dw_74.pdf) - Kiss Róbert (PDF)
 * [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](http://www.amcham.hu/download/002/556/Robotkonyv_KR_BZS.pdf) - Kiss Róbert, Badó Zsolt (PDF)
+
 
 ### LISP
 

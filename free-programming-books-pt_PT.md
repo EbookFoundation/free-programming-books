@@ -13,6 +13,7 @@
 
 * [Apontamentos de Programação em C/C++](http://www.dei.isep.ipp.pt/~pbsousa/aulas/ano_0/2006_07/c/Sebenta-cpp-03-2006.pdf) - Paulo Baltarejo e Jorge Santos (PDF)
 * [C++ como uma linguagem de programação orientada a objectos](https://drive.google.com/open?id=0BwhtSmnYpzLdMEFrbDJsMDFDRFU&authuser=0) - Autor desconhecido (PDF)
+* [Aprenda a Programar - Uma Breve Introdução](https://henriquedias.com/downloads/aprenda_a_programar.pdf) - Henrique Dias, 2015 (PDF)
 
 
 ### CSS

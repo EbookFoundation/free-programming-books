@@ -59,6 +59,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Graphics Programming](#graphics-programming)
 * [Hadoop](#hadoop)
 * [Haskell](#haskell)
+* [Haxe](#haxe)
 * [HTML / CSS](#html--css)
   * [Bootstrap](#bootstrap)
 * [Icon](#icon)
@@ -1139,6 +1140,15 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
 
+
+### Haxe
+
+* [Haxe Manual](http://haxe.org/documentation/introduction/) (PDF, web) - Haxe Foundation
+* [Haxe and JavaScript](https://matthijskamstra.github.io/haxejs/) (wikibook) - Matthijs Kamstra
+* [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/) (web) 
+* [OpenFL Handbook](https://www.gitbook.com/book/openfl/openfl-documentation/details) (wikibook) 
+* [Flambe Handbook](https://github.com/markknol/flambe-guide/wiki) (wiki)
+* [Kha Handbook](http://wiki.ktxsoftware.com/wiki/Home) (wiki)
 
 ### HTML / CSS
 

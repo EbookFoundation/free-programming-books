@@ -91,9 +91,9 @@
 
 ### JavaScript
 
+* [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
 * [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
-* [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
 
 
 ### LaTeX

@@ -20,6 +20,6 @@
 
 ### Python
 
-* [Ένα byte της Python](https://dl.dropboxusercontent.com/u/54790396/a_byte_of_python-el.pdf) (PDF)
+* [Ένα byte της Python](https://archive.org/details/AByteOfPythonEl)
 
 

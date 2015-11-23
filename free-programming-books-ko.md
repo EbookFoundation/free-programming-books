@@ -7,6 +7,7 @@
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
+* [R](#r)
 * [Ruby](#ruby)
 * [Python](#python)
 
@@ -21,6 +22,7 @@
 * [Pro Git 한글 번역](http://git-scm.com/book/ko/)
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
 * [Git - 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
+* [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
 
 
 ### Go
@@ -54,6 +56,11 @@
 * [Perl : GyparkWiki](http://gypark.pe.kr/wiki/Perl)
 * [Seoul.pm 펄 크리스마스 달력 #2014 | Seoul.pm Perl Advent Calendar 2014](http://advent.perl.kr/2014/)
 * [Perl 객체지향프로그래밍(OOP)](https://github.com/aero/perl_docs/blob/master/hatena_perl_oop.md) : Hatena-TextBook의 oop-for-perl 문서 한역 by aero
+
+
+### R
+
+* [R을 이용한 데이터 처리 & 분석 실무](http://r4pda.co.kr) - 서민구 (HTML, PDF - 이전 버젼)
 
 
 ### Ruby

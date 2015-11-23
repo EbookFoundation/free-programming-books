@@ -1143,12 +1143,13 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### Haxe
 
-* [Haxe Manual](http://haxe.org/documentation/introduction/) - Haxe Foundation (PDF, HTML)
+* [Flambe Handbook](https://github.com/markknol/flambe-guide/wiki)
 * [Haxe and JavaScript](https://matthijskamstra.github.io/haxejs/) - Matthijs Kamstra (wikibook)
 * [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/) (HTML)
-* [OpenFL Handbook](https://www.gitbook.com/book/openfl/openfl-documentation/details) 
-* [Flambe Handbook](https://github.com/markknol/flambe-guide/wiki)
+* [Haxe Manual](http://haxe.org/documentation/introduction/) - Haxe Foundation (PDF, HTML)
 * [Kha Handbook](http://wiki.ktxsoftware.com/wiki/Home)
+* [OpenFL Handbook](https://www.gitbook.com/book/openfl/openfl-documentation/details) 
+
 
 ### HTML / CSS
 

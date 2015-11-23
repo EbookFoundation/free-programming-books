@@ -1,12 +1,12 @@
 ### Index
 
-* [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
+* [0 - Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Action Script](#action-script)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [C](#c)
-* [C++](#c-1)
-* [C#](#c-sharp)
+* [C#](#c-1)
+* [C++](#c-2)
 * [Git](#git)
 * [Groovy](#groovy)
 * [HTML & CSS](#html--css)
@@ -57,8 +57,8 @@
 ### C++
 
 * [Die Boost C++ Bibliotheken](http://www.highscore.de/cpp/boost/)
-* [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
+* [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 
 
 ### C Sharp

@@ -13,12 +13,12 @@
 * [Android](#android)
 * [C](#c)
 * [C++](#c-1)
-* [HTML5](#HTML5)
 * [CSS](#CSS)
+* [HTML5](#HTML5)
 * [Coffeescript](#coffeescript)
+* [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
-* [Emacs](#emacs)
 * [Git](#git)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
@@ -32,14 +32,14 @@
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
   * [MongoDB](#mongodb)
-* [PHP](#php)
 * [Perl](#perl)
+* [PHP](#php)
 * [Python](#python)
   * [Django](#django)
   * [Web2py](#web2py)
+* [R](#R)
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
-* [R](#R)
 * [Scala](#scala)
 * [SQL](#sql)
 * [SVG](#svg)
@@ -47,9 +47,9 @@
 
 ### Metalistas
 
+* [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
 * [CodeHero](http://codehero.co)
 * [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
-* [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
 
 
 ### Agnósticos
@@ -57,8 +57,8 @@
 #### Algoritmos
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
-* [Apuntes de Algoritmos y Estructuras de Datos](https://sites.google.com/site/prog3unlp/home/exp_algoritmos.pdf?attredirects=0&d=1) (PDF)
 * [Aprenda a programar como si estuviera en primero](http://www1.ceit.es/asignaturas/Informat1/ayudainf/aprendainf/Programar/Programar.pdf) (PDF)
+* [Apuntes de Algoritmos y Estructuras de Datos](https://sites.google.com/site/prog3unlp/home/exp_algoritmos.pdf?attredirects=0&d=1) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html)
 * [Técnicas de Diseño de Algoritmos ](http://www.lcc.uma.es/~av/Libro/indice.html) ([PDF](http://www.lcc.uma.es/%7eav/Libro/Libro.zip))
@@ -77,8 +77,8 @@
 
 #### Ciencia Computacional
 
-* [Breves Notas sobre Teoría de la Computación](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 * [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
+* [Breves Notas sobre Teoría de la Computación](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 
 
 #### Cursos Masivos en Línea
@@ -92,8 +92,8 @@
 * [Diseño Ágil con TDD](http://www.carlosble.com/libro-tdd)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
-* [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 * [Scrum & Extreme Programming (para programadores)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
+* [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 
 
 #### Misceláneos
@@ -188,6 +188,7 @@
 * [Aprendiendo Java](http://www.compunauta.com/forums/linux/programacion/java/AprendiendoJava.pdf) (PDF)
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/pdf/libroJavaConTapa.pdf) (PDF)
+* [Guía Java para Docentes](http://ignaciolasalvia.com/material/prog1_2013/GuiaJavaparaDocentes2012.pdf) (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona, UNAM (PDF)
 * [OCPJP6 Resumen Español](https://github.com/PabloReyes/ocpjp-resumen-espanol) - Pablo Reyes Almagro (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
@@ -195,7 +196,6 @@
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
 * [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf) (PDF)
 * [Tutorial Introducción a Maven 3](http://www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)
-* [Guía Java para Docentes](http://ignaciolasalvia.com/material/prog1_2013/GuiaJavaparaDocentes2012.pdf) (PDF)
 
 
 ### JavaScript
@@ -233,10 +233,10 @@
 
 ### Linux
 
-* [Debian GNU/Linux para administradores](http://debian-handbook.info/browse/es-ES/stable/)
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html)
-* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) en WikiBooks
 * [BASH Scripting Avanzado: Utilizando declare para definición de tipo](http://library.originalhacker.org/biblioteca/articulo/ver/123)
+* [Debian GNU/Linux para administradores](http://debian-handbook.info/browse/es-ES/stable/)
+* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) en WikiBooks
 
 
 ### .NET (C# / Visual Studio)
@@ -256,21 +256,21 @@
 ### PHP
 
 * [Manual de estudio introductorio al lenguaje PHP procedural](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) (PDF)
+* [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) (PDF)
+* [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)
 * [Silex, el manual oficial](http://librosweb.es/silex/)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
 * [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
-* [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) (PDF)
-* [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/)
 
 
 ### Perl
 
-* [Tutoriales de Perl](http://perlenespanol.com/tutoriales/)
-* [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) - Universidad de Magallanes, Chile (PDF)
-* [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) - TLDP (PDF)
-* [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm) - Universidad de Granada, España
 * [Manual de Perl](http://www6.uniovi.es/perl/tutor/) - Universidad de Oviedo, España
+* [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) - TLDP (PDF)
+* [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) - Universidad de Magallanes, Chile (PDF)
+* [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm) - Universidad de Granada, España
+* [Tutoriales de Perl](http://perlenespanol.com/tutoriales/)
 
 
 ### Python
@@ -279,8 +279,8 @@
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)
-* [Introducción a la programación con Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/Introduccion%20a%20la%20programacion%20con%20Python.pdf/at_download/file) (PDF)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
+* [Introducción a la programación con Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/Introduccion%20a%20la%20programacion%20con%20Python.pdf/at_download/file) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
 * [Notas sobre el lenguaje Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/at_download/file) (PDF)
 * [Python instantáneo](http://www.arrakis.es/~rapto/AprendaPython.html)
@@ -302,9 +302,9 @@
 ### Ruby
 
 * [Guía para aprender a programar con Ruby. Adaptación al español del libro "Learn to Program" de Chris Pine](https://github.com/rubysur/aprende.a.programar)
+* [La Guía de Estilos de Ruby](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart/)
 * [Ruby tutorial o como pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion)
-* [La Guía de Estilos de Ruby](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md)
 
 
 #### Ruby on Rails
@@ -327,8 +327,8 @@
 
 ### Scala
 
-* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) (En proceso)
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
+* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) (En proceso)
 
 
 ### SQL

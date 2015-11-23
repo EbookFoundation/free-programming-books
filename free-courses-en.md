@@ -56,7 +56,7 @@
 
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
 
- 
+
 ### C++
 
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
@@ -64,7 +64,7 @@
 * [LearnCpp.com C++ Tutorial](http://www.learncpp.com)
 
 
-### C# #
+### C#
 
 * [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 
@@ -144,8 +144,8 @@
 
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
-* [Berkeley's CS 61B: Data Structures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDXrTvCvDgIkeCWeSIDr4Yh)
-* [Berkeley's CS 70: Discrete Mathematics and Probability Theory](https://www.youtube.com/course?list=EC1A2EBAC4283FE3EA)
+* [Berkeley's CS  61B: Data Structures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDXrTvCvDgIkeCWeSIDr4Yh)
+* [Berkeley's CS  70: Discrete Mathematics and Probability Theory](https://www.youtube.com/course?list=EC1A2EBAC4283FE3EA)
 * [Berkeley's CS 162: Operating Systems and Systems Programming](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCrnl0625nXp4GimjT-cv_1)
 * [Berkeley's CS 164: Programming Languages and Compilers](https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F&feature=plcp)
 * [Berkeley's CS 169: Software Engineering](https://www.youtube.com/view_play_list?p=-XXv-cvA_iAS_kCeleydK6mDc0kCbdhU)

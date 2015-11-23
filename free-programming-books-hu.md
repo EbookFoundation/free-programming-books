@@ -17,14 +17,14 @@
 
 ### Programozási nyelv független
 
-* [Adatmodellezés](http://mek.oszk.hu/11100/11144/index.phtml) - Halassy Béla (Word, PDF)
 * [A hitelesítés-szolgáltatókkal szembeni bizalom erősítése](http://mek.oszk.hu/03900/03943/index.phtml) - Várnai Róbert (PDF)
+* [Adatmodellezés](http://mek.oszk.hu/11100/11144/index.phtml) - Halassy Béla (Word, PDF)
 * [Az adatbázistervezés alapjai és titkai](http://mek.oszk.hu/11100/11123/index.phtml) - Halassy Béla (Word, PDF)
 * [Ember, információ, rendszer](http://mek.oszk.hu/11100/11122/index.phtml) - Halassy Béla (Word, PDF)
 * [Formális nyelvek](http://mek.oszk.hu/05000/05099/index.phtml) - Bach Iván (PDF)
 * [Kanban és Scrum mindkettőből a legjobbat](http://www.adaptiveconsulting.hu/dokumentumok) - Henrik Kniberg, Mattias Skarin, ford.: Csutorás Zoltán és Marhefka István (PDF)
-* [Prognyelvek portál](http://nyelvek.inf.elte.hu/index.php) - Felelős oktató: Nyékyné Gaizler Judit (HTML)
 * [Mese a felhasználó központú tervezőről](http://mek.oszk.hu/11700/11748/index.phtml) - David Travis, ford.: Favorit Fordító Iroda (PDF)
+* [Prognyelvek portál](http://nyelvek.inf.elte.hu/index.php) - Felelős oktató: Nyékyné Gaizler Judit (HTML)
 
 
 ### Ada
@@ -88,10 +88,10 @@
 
 ### PHP
 
-* [Drupal 7 alapismeretek](http://nagygusztav.hu/drupal-7-alapismeretek) - Nagy Gusztáv (PDF)
 * [Drupal 6 alapismeretek](http://nagygusztav.hu/drupal-6-alapismeretek) - Nagy Gusztáv (PDF)
-* [Webadatbázis-programozás](http://ade.web.elte.hu/wabp/index.html) - Horváth Győző, Tarcsi Ádám (HTML)
+* [Drupal 7 alapismeretek](http://nagygusztav.hu/drupal-7-alapismeretek) - Nagy Gusztáv (PDF)
 * [Web programozás alapismeretek](http://nagygusztav.hu/web-programozas) - Nagy Gusztáv (PDF)
+* [Webadatbázis-programozás](http://ade.web.elte.hu/wabp/index.html) - Horváth Győző, Tarcsi Ádám (HTML)
 
 
 ### PowerShell

@@ -92,17 +92,17 @@
 
 #### Distribuce
 
-* [Mandriva Linux 2008 CZ](http://www.root.cz/knihy/mandriva-linux-2008-cz/) (PDF)
 * [Gentoo Handbook česky](http://www.root.cz/knihy/gentoo-handbook-cesky/) (PDF)
 * [Instalace a konfigurace Debian Linuxu](http://www.root.cz/knihy/instalace-a-konfigurace-debian-linuxu/) (PDF)
-* [SUSE Linux: uživatelská příručka](http://www.root.cz/knihy/suse-linux-uzivatelska-prirucka/) (PDF)
+* [Mandriva Linux 2008 CZ](http://www.root.cz/knihy/mandriva-linux-2008-cz/) (PDF)
 * [Příručka uživatele Fedora 17](http://www.root.cz/knihy/prirucka-uzivatele-fedora-17/) (PDF)
+* [SUSE Linux: uživatelská příručka](http://www.root.cz/knihy/suse-linux-uzivatelska-prirucka/) (PDF)
 
 
 ### OpenSource
 
-* [Tvorba open source softwaru](https://knihy.nic.cz) - Karl Fogel (PDF)
 * [Katedrála a tržiště](http://www.root.cz/knihy/katedrala-a-trziste/) (PDF)
+* [Tvorba open source softwaru](https://knihy.nic.cz) - Karl Fogel (PDF)
 
 
 ### PHP
@@ -123,8 +123,8 @@
 
 ### TeX
 
-* [TeXbook naruby](http://www.root.cz/knihy/texbook-naruby/) (PDF)
 * [První setkání s TeXem](http://www.root.cz/knihy/prvni-setkani-s-texem/) (PDF)
+* [TeXbook naruby](http://www.root.cz/knihy/texbook-naruby/) (PDF)
 
 
 ### Webdesign

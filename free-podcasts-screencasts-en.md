@@ -78,15 +78,15 @@
 
 ### Language Agnostic
 
+* [Podcast] - [Frontside the Podcast](https://frontsidethepodcast.simplecast.fm)
 * [Podcast] - [Full Stack Radio](http://fullstackradio.com)
 * [Podcast] - [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing)
 * [Podcast] - [Programming Throwdown](http://www.programmingthrowdown.com)
-* [Podcast] - [Software Engineering Radio](http://www.se-radio.net)
-* [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
-* [Podcast] - [The Changelog Podcast](https://changelog.com/podcast/)
 * [Podcast] - [Shop Talk Show](http://shoptalkshow.com)
+* [Podcast] - [Software Engineering Radio](http://www.se-radio.net)
+* [Podcast] - [The Changelog Podcast](https://changelog.com/podcast/)
+* [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
 * [Podcast] - [Web Security Warriors](https://devchat.tv/web-security-warriors/)
-* [Podcast] - [Frontside the Podcast](https://frontsidethepodcast.simplecast.fm)
 
 
 ### Node.js
@@ -97,8 +97,8 @@
 ### PHP
 
 * [Podcast] - [MageTalk - A Magento Podcast](http://magetalk.com)
-* [Podcast] - [PHP Town Hall](http://phptownhall.com)
 * [Podcast] - [PHP Roundtable](https://www.phproundtable.com)
+* [Podcast] - [PHP Town Hall](http://phptownhall.com)
 * [Podcast] - [Sound of Symfony](http://www.soundofsymfony.com)
 * [Podcast] - [Voices of the ElePHPant](http://voicesoftheelephpant.com)
 
@@ -106,9 +106,9 @@
 ### Python
 
 * [Podcast] - [Podcast.__init__](http://podcastinit.com)
+* [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://www.talkpythontome.com)
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
 * [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
-* [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://www.talkpythontome.com)
 * [Screencast] - [TheNewBoston - Pygame (Python Game Development) Playlist](http://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq)
 * [Screencast] - [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 * [Screencast] - [TheNewBoston - Python GUI with Tkinter Playlist](http://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)

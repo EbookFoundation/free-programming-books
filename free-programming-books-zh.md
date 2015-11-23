@@ -520,8 +520,8 @@
   * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
   * [pkuwwt的D3教程](http://www.pkuwwt.tk/d3-tutorial-cn/about.html)
   * [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
-  * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)(翻译自[Dashing D3.js](https://www.dashingd3js.com/table-of-contents))
-  * [D3.js 入门系列](http://www.ourd3js.com/wordpress/?cat=2)(还有进阶、高级等系列)
+  * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
+  * [D3.js 入门系列](http://www.ourd3js.com/wordpress/?cat=2) (还有进阶、高级等系列)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 

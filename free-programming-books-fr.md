@@ -38,6 +38,7 @@
 * [Scilab](#scilab)
 * [SPIP](#spip)
 * [Vim](#vim)
+* [TEI](#TEI)
 
 
 ### Méta-listes
@@ -256,3 +257,6 @@
 
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)
 * [Vim pour les humains](http://vimebook.com) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)
+
+###TEI
+* [Qu’est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237), par Lou Burnard, trad. par Marjorie Burghart

@@ -37,6 +37,7 @@
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
+* [TEI](#TEI)
 * [Vim](#vim)
 
 
@@ -250,6 +251,11 @@
 ### SPIP
 
 * [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat et collectif SPIP
+
+
+### TEI
+
+* [Qu'est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237) - Lou Burnard, trad. par Marjorie Burghart
 
 
 ### Vim

@@ -196,6 +196,7 @@
 
 ### Ruby
 
+* [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/index.html)
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
 
 

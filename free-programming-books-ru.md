@@ -2,10 +2,10 @@
 
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
-  * [Cloud Computing](#cloud-computing)
-  * [Networking](#networking)
+  * [Облачные вычисления](#cloud-computing)
+  * [Работа с сетью](#networking)
   * [Open Source Ecosystem](#open-source-ecosystem)
-  * [Programming Paradigms](#programming-paradigms)
+  * [Парадигмы программирования](#programming-paradigms)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)

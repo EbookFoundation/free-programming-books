@@ -1077,6 +1077,7 @@ Original Source: [List of freely available programming books](http://web.archive
 ### Go
 
 * [An Introduction to Programming in Go](http://www.golang-book.com)
+* [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 * [Building Web Apps with Go](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Go Bootcamp](http://www.golangbootcamp.com/book) - Matt Aimonetti

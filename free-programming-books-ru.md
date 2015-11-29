@@ -180,9 +180,10 @@
 
 ### Objective-C
 
-* [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf)
+* [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf) (PDF)
 * [Become an XCoder](https://yadi.sk/d/ugz7jW4RXLGTN)
 * [Цикл статей разработки под Apple iOS](http://habrahabr.ru/post/149090/)
+
 
 ### Perl
 

@@ -2,10 +2,10 @@
 
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
-  * [Облачные Вычисления](#облачные-вычисления)
-  * [Работа C Cетью](#работа-с-сетью)
+  * [Облачные Вычисления](#Облачные-вычисления)
+  * [Работа c cетью](#Работа-с-сетью)
   * [Open Source Ecosystem](#open-source-ecosystem)
-  * [Парадигмы Программирования](#парадигмы-программирования)
+  * [Парадигмы Программирования](#Парадигмы-программирования)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -56,7 +56,7 @@
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 
 
-#### Open Source Ecosytem
+#### Open Source Ecosystem
 
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
 

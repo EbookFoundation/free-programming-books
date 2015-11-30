@@ -61,6 +61,7 @@
 ### R
 
 * [R을 이용한 데이터 처리 & 분석 실무](http://r4pda.co.kr) - 서민구 (HTML, PDF - 이전 버젼)
+* [The R Manuals (translated in Korean)](http://www.openstatistics.net)
 
 
 ### Ruby

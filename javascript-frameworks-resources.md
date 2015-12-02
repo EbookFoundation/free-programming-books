@@ -110,6 +110,7 @@
 
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+* [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/tutorial.html)
 * [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)

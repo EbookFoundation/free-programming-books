@@ -2,10 +2,10 @@
 
 * [Списки книг](#meta-lists)
 * [Language Agnostic](#language-agnostic)
-  * [Cloud Computing](#cloud-computing)
-  * [Networking](#networking)
+  * [Облачные Вычисления](#Облачные-вычисления)
+  * [Работа c cетью](#Работа-с-сетью)
   * [Open Source Ecosystem](#open-source-ecosystem)
-  * [Programming Paradigms](#programming-paradigms)
+  * [Парадигмы Программирования](#Парадигмы-программирования)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -24,6 +24,7 @@
 * [MetaPost](#metapost)
 * [Misc](#misc)
 * [NoSQL](#nosql)
+* [Objective-C](#objective-c)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -50,22 +51,22 @@
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
 
 
-#### Networking
+#### Работа с сетью
 
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 
 
-#### Open Source Ecosytem
+#### Open Source Ecosystem
 
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
 
 
-#### Cloud Computing
+#### Облачные вычисления
 
 * [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
 
 
-#### Programming Paradigms
+#### Парадигмы программирования
 
 * [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison
 * [Практика функционального программирования](http://fprog.ru) - журнал
@@ -175,6 +176,13 @@
 
 * [Маленькая книга о MongoDB](http://jsman.ru/mongo-book/index.html)
 * [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
+
+
+### Objective-C
+
+* [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf) (PDF)
+* [Become an XCoder](https://yadi.sk/d/ugz7jW4RXLGTN)
+* [Цикл статей разработки под Apple iOS](http://habrahabr.ru/post/149090/)
 
 
 ### Perl

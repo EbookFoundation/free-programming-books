@@ -150,7 +150,7 @@
 * [Berkeley's CS 164: Programming Languages and Compilers](https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F&feature=plcp)
 * [Berkeley's CS 169: Software Engineering](https://www.youtube.com/view_play_list?p=-XXv-cvA_iAS_kCeleydK6mDc0kCbdhU)
 * [Berkeley's CS 194: What is an Operating System?](https://www.youtube.com/view_play_list?p=-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
-* [Berkeley's Math 10B: Methods of Mathematics: Calculus, Statistics, and COmbinatorics](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCZ8sTG0pDuBubsDfOFoY2X)
+* [Berkeley's Math 10B: Methods of Mathematics: Calculus, Statistics, and Combinatorics](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCZ8sTG0pDuBubsDfOFoY2X)
 * [Bits: The Computer Science of Digital Information](http://www.extension.harvard.edu/open-learning-initiative/bits)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
 * [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)

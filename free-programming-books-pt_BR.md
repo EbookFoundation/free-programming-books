@@ -60,6 +60,7 @@
 ### Git
 
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
+* [Conhecendo os super poderes do Git](http://pt.slideshare.net/theandersonn/conhecendo-os-super-poderes-do-git)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Pro Git](http://git-scm.com/book/pt-br)
 * [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)

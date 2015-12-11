@@ -1600,8 +1600,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * Laravel Framework
   * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/l4)
   * [Laravel: Code Bright](http://daylerees.com/codebright)
-  * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
   * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled)
+  * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)

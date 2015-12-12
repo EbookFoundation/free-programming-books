@@ -182,6 +182,7 @@
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Learn Python](https://pythonspot.com)
 * [Programming for Everybody](https://www.coursera.org/course/pythonlearn)
+* [Learn to program in Python](https://www.codecademy.com/learn/python)
 
 
 ### R
@@ -218,5 +219,6 @@
 ### Web Development
 
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
+* [Flask Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Udacity Web Development Course Catalog](https://www.udacity.com/courses#!/web-development)

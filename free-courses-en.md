@@ -219,6 +219,6 @@
 ### Web Development
 
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
-* [Flask Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Udacity Web Development Course Catalog](https://www.udacity.com/courses#!/web-development)

@@ -112,7 +112,7 @@
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
-* [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/tutorial.html)
+* [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/aspnet5.html)
 * [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial)
 * React Tutorial by Josh Finnie

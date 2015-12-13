@@ -35,7 +35,7 @@
 
 ### Android
 
-* [Guida programmazione Android 4.2](http://www.sprik.it/download/guida-programmazione-android-4-2/) (PDF)
+* [Guida programmazione Android 4.2](http://www.sprik.it/download/guida-programmazione-android-4-2/)
 
 
 ### Assembly Language

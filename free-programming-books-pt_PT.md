@@ -20,7 +20,7 @@
 
 ### Haskell
 
-* [Programação Funcional CC](http://www3.di.uminho.pt/~mjf/pub/PF-Haskell.pdf) - Maria João Frade (PDF)
+* [Programação Funcional CC](http://www4.di.uminho.pt/~mjf/pub/PF-Haskell.pdf) - Maria João Frade (PDF)
 
 
 ### LaTeX
@@ -31,4 +31,4 @@
 
 ### Prolog
 
-* [Lógica Computacional (com Prolog)](http://www3.di.uminho.pt/~mjf/pub/LC-Prolog.pdf) - Maria João Frade (PDF)
+* [Lógica Computacional (com Prolog)](http://www4.di.uminho.pt/~mjf/pub/LC-Prolog.pdf) - Maria João Frade (PDF)

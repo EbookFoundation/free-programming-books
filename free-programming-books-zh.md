@@ -64,11 +64,11 @@
 ### 在线教育
 
 * [CodeSchool](https://www.codeschool.com)
-* [Codecademy](http://www.codecademy.com/?locale_code=zh)
+* [Codecademy](https://www.codecademy.com/?locale_code=zh)
 * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
-* [Learn X in Y minutes](http://learnxinyminutes.com) (数十种语言快速入门教程)
+* [Learn X in Y minutes](https://learnxinyminutes.com/) (数十种语言快速入门教程)
 * [shiyanlou](https://www.shiyanlou.com)
-* [TeamTreeHouse](http://teamtreehouse.com)
+* [TeamTreeHouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com)
 * [xuetangX](https://www.xuetangx.com)
 * [慕课网](http://www.imooc.com/course/list) (丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源)
@@ -93,14 +93,14 @@
 * [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 * [鸟哥的 Linux 私房菜 服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
-* [Linux 系统高级编程](http://sourceforge.net/apps/trac/elpi/wiki/ALP)
+* [Linux 系统高级编程](http://sourceforge.net/projects/elpi/)
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
 * [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
 * [深入分析Linux内核源码](http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
-* [Linux Documentation (中文版)](http://tinylab.gitbooks.io/linux-doc)
-* [嵌入式 Linux 知识库 (eLinux.org 中文版)](http://tinylab.gitbooks.io/elinux)
+* [Linux Documentation (中文版)](https://www.gitbook.com/book/tinylab/linux-doc/details)
+* [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://www.gitbook.com/book/tinylab/elinux/details)
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
@@ -108,7 +108,7 @@
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 * [FreeRADIUS新手入门](http://freeradius.akagi201.org)
-* [Mac 开发配置手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
+* [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
 
@@ -127,10 +127,10 @@
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
-* [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
+* [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
-* [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+* [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 * [Github帮助文档](https://github.com/waylau/github-help)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
@@ -138,7 +138,7 @@
 
 ### 数据库
 
-* [Redis 设计与实现](http://www.redisbook.com)
+* [Redis 设计与实现](http://redisbook.com/)
 * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 
 
@@ -149,7 +149,7 @@
 
 ### 智能系统
 
-* [一步步搭建物联网系统](https://github.com/gmszone/designiot)
+* [一步步搭建物联网系统](https://github.com/phodal/designiot)
 
 
 ### 分布式系统
@@ -190,9 +190,9 @@
 
 ### NoSQL
 
-* [NoSQL数据库笔谈](http://www.yankay.com/wp-content/NoSql_Database_Note.html) ([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
+* [NoSQL数据库笔谈](http://yankaycom-wordpress.stor.sinaapp.com/NoSql_Database_Note.html?q=/wp-content/NoSql_Database_Note.html) ([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
 * [Redis 设计与实现](http://redisbook.com)
-* [Redis 命令参考](http://www.redisdoc.com)
+* [Redis 命令参考](http://redisdoc.com/)
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
@@ -287,12 +287,12 @@
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
-* [编程技巧总汇](http://xiaobeicn.gitbooks.io/programming-skills-summary/)
+* [编程技巧总汇](https://xiaobeicn.gitbooks.io/programming-skills-summary//)
 
 
 ### 其它
 
-* [OpenWrt智能、自动、透明翻墙路由器教程](http://softwaredownload.gitbooks.io/openwrt-fanqiang/)
+* [OpenWrt智能、自动、透明翻墙路由器教程](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
 * [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
 * [深入理解并行编程](http://ifeve.com/perfbook/)
@@ -303,7 +303,7 @@
 ### Android
 
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
-* Google Material Design 正體中文版 ([译本一](http://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
+* Google Material Design 正體中文版 ([译本一](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
@@ -330,9 +330,9 @@
 
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [C++ 基础教程](http://www.prglab.com/cms/)
-* [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial)
+* [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
-* [C 语言编程透视](http://tinylab.gitbooks.io/cbook)
+* [C 语言编程透视](https://www.gitbook.com/book/tinylab/cbook/details)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
@@ -345,7 +345,7 @@
 * [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
-* [C++ 并发编程(基于C++11)](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)
+* [C++ 并发编程(基于C++11)](https://www.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
 
 
@@ -402,7 +402,7 @@
 
 ### Haskell
 
-* [Haskell 趣学指南](http://learnyouahaskell-zh-tw.csie.org)
+* [Haskell 趣学指南](http://learnyoua.haskell.sg/)
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
 
@@ -481,11 +481,11 @@
   * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
   * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
   * [express.js 中文文档](http://expressjs.jser.us)
-  * [koa 中文文档](https://github.com/turingou/koa-guide)
+  * [koa 中文文档](https://github.com/guo-yu/koa-guide)
   * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
   * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
   * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
-  * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.org/package/learnyounode-zh-cn)
+  * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
   * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
   * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
 * underscore.js
@@ -546,9 +546,9 @@
 ### Markdown
 
 * [Markdown 快速入门](http://wowubuntu.com/markdown/basic.html)
-* [Markdown 简明教程](http://jianshu.io/p/7bd23251da0a)
+* [Markdown 简明教程](http://www.jianshu.com/p/7bd23251da0a)
 * [Markdown 语法说明](http://wowubuntu.com/markdown/)
-* [献给写作者的 Markdown 新手指南](http://jianshu.io/p/q81RER)
+* [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
 
 
 ### Node.js
@@ -571,7 +571,7 @@
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
 * [PHP5中文手册](http://php.net/manual/zh/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
-* [Symfony2 实例教程](http://wusuopu.gitbooks.io/symfony2_tutorial/content)
+* [Symfony2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
 * [PHP 之道](http://wulijun.github.io/php-the-right-way/)
 
 
@@ -582,7 +582,7 @@
 * [Python 中文学习大本营](http://www.pythondoc.com)
 * [深入 Python](http://woodpecker.org.cn/diveintopython/)
 * [深入 Python 3](http://woodpecker.org.cn/diveintopython3/)
-* [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)
+* [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
 * [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/) (《A Byte of Python》中文版)
 
 
@@ -605,7 +605,7 @@
 
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org)
-* [Ruby on Rails 实战圣经](http://ihower.tw/rails4/)
+* [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [笨方法学 Ruby](http://lrthw.github.io)
 
@@ -620,7 +620,7 @@
 ### Scheme
 
 * [Scheme 入门教程](http://deathking.github.io/yast-cn/) (《Yet Another Scheme Tutorial》中文版)
-* [算法语言Scheme修订<sup>6</sup>报告](http://r6rs.mrliu.org)（R<sup>6</sup>RS简体中文翻译）
+* [算法语言Scheme修订<sup>6</sup>报告](https://r6rs.mrliu.org/)（R<sup>6</sup>RS简体中文翻译）
 
 
 ### Shell

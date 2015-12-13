@@ -192,10 +192,10 @@ Original Source: [List of freely available programming books](http://web.archive
 
 * [25 Free Computer Science Ebooks](http://www.coderholic.com/25-free-computer-science-books/)
 * [atariarchives.org](http://www.atariarchives.org) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
-* [Bento](http://bentobox.io)
-* [Bitsavers.org](http://bitsavers.org)
+* [Bento](https://www.bento.io/)
+* [Bitsavers.org](http://bitsavers.trailing-edge.com/)
 * [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks)
-* [Cheat Sheets (Free)](http://refcardz.dzone.com)
+* [Cheat Sheets (Free)](https://dzone.com/refcardz)
 * [Codingus](http://codingus.blogspot.in)
 * [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
@@ -205,39 +205,39 @@ Original Source: [List of freely available programming books](http://web.archive
 * [InfoQ Minibooks](http://www.infoq.com/minibooks/)
 * [InTech: Computer and Information Science](http://www.intechopen.com/subjects/computer-and-information-science)
 * [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
-* [Learn X in Y minutes](http://learnxinyminutes.com)
+* [Learn X in Y minutes](https://learnxinyminutes.com/)
 * [Learneroo Resources to Learn Programming](https://www.learneroo.com/modules/12/nodes/96)
-* [Microsoft Guides to Software](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
+* [Microsoft Guides to Software](https://blogs.msdn.microsoft.com/mssmallbiz/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2/)
 * [Microsoft Press: Free E-Books](http://blogs.msdn.com/b/microsoft_press/archive/2011/03/03/ebooks-list-of-our-free-books.aspx)
-* [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more.aspx)
-* [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](http://blogs.msdn.com/b/mssmallbiz/archive/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more.aspx?wa=wsignin1.0)
+* [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
+* [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
 * [MindView Inc](http://www.mindviewinc.com/Books/)
 * [O'Reilly's Commons](http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons)
-* [O'Reilly's Open Books Project](http://oreilly.com/openbook/)
+* [O'Reilly's Open Books Project](http://www.oreilly.com/openbook/)
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
 * [Red Gate Books](http://www.red-gate.com/community/books/index)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 * [TechBooksForFree.com](http://www.techbooksforfree.com)
 * [Theassayer.org](http://theassayer.org)
 * [tutorialspoint](http://www.tutorialspoint.com)
-* [Wikibooks: Programming](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
+* [Wikibooks: Programming](https://en.wikibooks.org/wiki/Category%3aComputer_programming)
 
 
 ### Graphics Programming
 
-* [Blender 3D: Noob to Pro](http://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro)
-* [DirectX manual](http://www.xmission.com/~legalize/book/download/index.html) (draft)
+* [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro)
+* [DirectX manual](http://user.xmission.com/~legalize/book/download/index.html) (draft)
 * [GPU Gems](http://http.developer.nvidia.com/GPUGems/gpugems_part01.html)
 * [GPU Gems 2](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html) - [ch 8,14,18,29,30 as pdf](ftp://download.nvidia.com/developer/GPU_Gems_2/)
 * [GPU Gems 3](http://http.developer.nvidia.com/GPUGems3/gpugems3_part01.html)
 * [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
 * [Grokking the GIMP](http://gimp-savvy.com/BOOK/index.html)
-* [Introduction to Modern OpenGL](http://open.gl)
+* [Introduction to Modern OpenGL](https://open.gl/)
 * [Learn OpenGL](http://learnopengl.com) - Joey de Vries
-* [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/) (draft)
+* [Learning Modern 3D Graphics Programming](http://ww2.arcsynthesis.org) (draft)
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations.
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
-* [ShaderX series](http://tog.acm.org/resources/shaderx/)
+* [ShaderX series](http://www.realtimerendering.com/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
 
 
@@ -258,9 +258,9 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Algorithms](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) (PDF)
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
-* [Algorithms and Complexity](http://www.math.upenn.edu/~wilf/AlgoComp.pdf) (PDF)
+* [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) (PDF)
 * [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
-* [Algorithms Course Materials](http://compgeom.cs.uiuc.edu/~jeffe/teaching/algorithms/) - Jeff Erickson
+* [Algorithms Course Materials](http://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [Analysis and Design of Algorithms](http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html) - Sandeep Sen, IIT Delhi
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
@@ -268,13 +268,13 @@ Original Source: [List of freely available programming books](http://web.archive
 * [CS Unplugged: Computer Science without a computer](http://csunplugged.org/books/)
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures and Algorithms: Annotated Reference with Examples](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/)
-* [Data Structures Succinctly Part 1, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Data Structures Succinctly Part 2, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/~rt/gdhandbook/)
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://larc.unt.edu/ian/books/free/lnoa.pdf) - University of North Texas (PDF)
-* [LEDA: A Platform for Combinatorial and Geometric Computing](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
+* [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
@@ -321,7 +321,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Implementing Functional Languages: A Tutorial](http://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
 * [Linkers and Loaders](http://www.iecc.com/linker/) - John R. Levine
-* [Practical and Theoretical Aspects of Compiler Construction](http://www.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
+* [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 
 
 #### Computer Vision
@@ -345,7 +345,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com) - Ron Zacharski (Draft)
 * [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp) *(Just fill the fields with any values)*
-* [Data Mining Algorithms In R](http://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
+* [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
@@ -395,7 +395,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
 * [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
 * [CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
-* [Collaborative Statistics](http://cnx.org/content/col10522/latest/)
+* [Collaborative Statistics](http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
 * [Differential Equations](http://tutorial.math.lamar.edu/pdf/DE/DE_Complete.pdf) - Paul Dawkins (PDF)
@@ -405,24 +405,24 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 * [Introduction to Probability and Statistics Spring 2014](http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 * [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead and J. Laurie Snell
-* [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
+* [Introduction to Statistical Thought](http://people.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
 * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 * [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello and Paolo Toth
 * [Lecture Notes of Linear Algebra](http://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Dr. P. Shunmugaraj, IIT Kanpur (PDF)
-* [Linear Algebra, Theory And Applications](http://www.math.byu.edu/klkuttle/linearalgebra.pdf) - Kenneth Kuttler (PDF)
-* [Linear Algebra: An Introduction to Mathematical Discourse](http://en.wikibooks.org/wiki/Linear_Algebra) - Jim Hefferon
+* [Linear Algebra, Theory And Applications](https://www.math.byu.edu/klkuttle/linearalgebra.pdf) - Kenneth Kuttler (PDF)
+* [Linear Algebra: An Introduction to Mathematical Discourse](https://en.wikibooks.org/wiki/Linear_Algebra) - Jim Hefferon
 * [Linear Algebra](http://home.iitk.ac.in/~arlal/book/nptel/pdf/book_linear.pdf) - Dr. Arbind K Lal, IIT Kanpur (PDF)
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) (PDF)
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematics, MTS 101A](http://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
 * [Notes on Diﬀerential Equations](http://www.math.cornell.edu/~bterrell/dn.pdf) - Robert E. Terrell (PDF)
 * [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee MIT
-* [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
-* [Ordinary Differential Equations](http://en.wikibooks.org/wiki/Ordinary_Differential_Equations)
+* [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
+* [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations)
 * [Power Programming with Mathematica](http://mathematica.stackexchange.com/questions/16485/are-you-interested-in-purchasing-david-wagners-power-programming-with-mathemat/22724) - David B. Wagner
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
-* [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
+* [Statistics Done Wrong](http://www.statisticsdonewrong.com/) - Alex Reinhart
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
 
@@ -436,13 +436,13 @@ Original Source: [List of freely available programming books](http://web.archive
 #### Misc
 
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
-* [A Mathematical Theory of Communication](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6773024) - Claude E.Shannon
+* [A Mathematical Theory of Communication](http://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&arnumber=6773024&tp=) - Claude E.Shannon
 * [Asterisk™: The Definitive Guide](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
 * [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/~playbook/)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
-* [CS For All](http://www.cs.hmc.edu/csforall/)
+* [CS For All](https://www.cs.hmc.edu/csforall/)
 * [Culture \& Empire: Digital Revolution](http://hintjens.com/books) (PDF)
 * [Designing for Performance](http://designingforperformance.com) - Lara Hogan
 * [Designing Interfaces](http://designinginterfaces.com) - Jennifer Tidwell
@@ -452,9 +452,9 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
-* ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](http://www.lulu.com/shop/luis-enriquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21371318.html) - Luis A. Enríquez
+* ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](http://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html) - Luis A. Enríquez
 * [Flow based Programming](http://jpaulmorrison.com/fbp/)
-* [Foundations of Programming](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
+* [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com) - Bob Nystrom
 * [Getting Real](http://gettingreal.37signals.com)
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
@@ -465,8 +465,8 @@ Original Source: [List of freely available programming books](http://web.archive
 * [I Am a Bug](http://www.amibug.com/iamabug/p01.html)
 * [Image Processing in C: Analyzing and Enhancing Digital Images](http://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
 * [Information Technology and the Networked Economy](http://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) (PDF)
-* [Learn to Program](http://pine.fm/LearnToProgram/)
-* [Learning 30 Technologies in 30 Days: A Developer Challenge](https://www.openshift.com/blogs/learning-30-technologies-in-30-days-a-developer-challenge) - Shekhar Gulati
+* [Learn to Program](https://pine.fm/LearnToProgram/)
+* [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
 * [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide)
@@ -482,7 +482,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Principles of Computer System Design ](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)
 * [Programmer's Motivation for Beginners](http://programmersmotivation.com)
 * [Programming with Unicode](http://unicodebook.readthedocs.org)
-* [Project Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
+* [Project Oberon](http://www.ethoberon.ethz.ch/) (PDF)
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
@@ -496,7 +496,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Coursera](https://www.coursera.org)
 * [edX](https://www.edx.org)
 * [FutureLearn](https://www.futurelearn.com)
-* [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
+* [MIT OCW](http://ocw.mit.edu/index.htm)
 * [NPTEL](http://nptel.ac.in/courses.php?disciplineId=106)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
@@ -510,7 +510,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
-* [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
+* [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
 * [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.di.unipi.it/~ricci/501302.pdf) (PDF)
@@ -523,7 +523,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Free as in Freedom](http://static.fsf.org/nosvn/faif-2.0.pdf) (PDF)
 * [Free Software, Free Society](http://shop.fsf.org/product/free-software-free-society-2/)
 * [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
-* [How to get started with open source](https://opensource.com/resources/how-get-started-open-source) (ePub & ODT)
+* [How to get started with open source](https://opensource.com/resources/ebook/how-get-started-open-source) (ePub & ODT)
 * [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html)
 * [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org)
 * [Producing Open Source Software](http://producingoss.com)
@@ -549,20 +549,20 @@ Original Source: [List of freely available programming books](http://web.archive
 * [The Little Book of Semaphores](http://greenteapress.com/semaphores/) - Allen B. Downey
 * [Think OS: A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/index.html) - Allen B. Downey (PDF)
 * [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Prof. Stewart Weiss (PDF)
-* [Xv6, a simple Unix-like teaching operating system](http://pdos.csail.mit.edu/6.828/2012/xv6.html)
+* [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
 
 
 #### Parallel Programming
 
-* [High Performance Computing](http://cnx.org/content/col11136/latest) - Charles Severance & Kevin Dowd (PDF, ePUB)
+* [High Performance Computing](http://cnx.org/contents/bb821554-7f76-44b1-89e7-8a2a759d1347%405.2) - Charles Severance & Kevin Dowd (PDF, ePUB)
 * [High Performance Computing Training](https://computing.llnl.gov/?set=training&page=index) (LLNL materials)
 * [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
 * [How to Write Parallel Programs](http://www.lindaspaces.com/book/)
-* [Introduction to High-Performance Scientific Computing](http://www.tacc.utexas.edu/~eijkhout/istc/istc.html) - Victor Eijkhout
+* [Introduction to High-Performance Scientific Computing](http://pages.tacc.utexas.edu/~eijkhout/istc/istc.html) - Victor Eijkhout
 * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) - Paul E. McKenney
 * [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
-* [The OpenCL Programming Book](http://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/)
+* [The OpenCL Programming Book](https://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/)
 
 
 #### Partial Evaluation
@@ -597,9 +597,9 @@ Original Source: [List of freely available programming books](http://web.archive
 
 #### Reverse Engineering
 
-* [Hacking the Xbox: An Introduction to Reverse Engineering](http://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
+* [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
 * [Reverse Engineering for Beginners](http://beginners.re) - Dennis Yurichev (PDF)
-* [BIOS Disassembly Ninjutsu Uncovered 1st Edition](http://bioshacking.blogspot.com/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) - Darmawan Salihun (PDF)
+* [BIOS Disassembly Ninjutsu Uncovered 1st Edition](http://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) - Darmawan Salihun (PDF)
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) (PDF)
 
 
@@ -618,7 +618,7 @@ Original Source: [List of freely available programming books](http://web.archive
 #### Software Architecture
 
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
-* [Best Kept Secrets of Peer Code Review](http://smartbear.com/codecollab-code-review-book.php)
+* [Best Kept Secrets of Peer Code Review](http://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org) - Markus Voelter
@@ -632,43 +632,43 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)
 * [NASA Manager Handbook for Software Development](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-manage.pdf) (PDF)
 * [NASA Software Measurement Handbook](http://www.scribd.com/doc/7181362/NASA-Software-Measurement-Guidebook)
-* [OAuth - The Big Picture](http://pages.apigee.com/oauth-big-picture-ebook.html)
+* [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html)
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/)
 * [Patterns and Practices: Application Architecture Guide 2.0](http://www.codeplex.com/AppArchGuide)
 * [Patterns of Software: Tales from the Software Community](http://www.dreamsongs.com/Files/PatternsOfSoftware.pdf) (PDF)
-* [Practicing Domain-Driven Design](http://leanpub.com/Practicing-DDD) - Scott Millett
-* [Programming Reliable Systems (Joe Armstrong's PhD thesis)](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf) (PDF)
-* [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches)
+* [Practicing Domain-Driven Design](https://leanpub.com/Practicing-DDD) - Scott Millett
+* [Programming Reliable Systems (Joe Armstrong's PhD thesis)](https://www.sics.se/%7ejoe/thesis/armstrong_thesis_2003.pdf) (PDF)
+* [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
-* [Web API Design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design)
+* [Web API Design](http://apigee.com/about/blog/technology/announcement-free-ebook-web-api-design)
 * [Your API Is Bad](https://leanpub.com/yourapiisbad) *(Leanpub, by Paddy Foran)*
 
 
 #### Standards
 
 * [Linux Standard Base](http://refspecs.linuxfoundation.org/lsb.shtml)
-* [UNIX - The POSIX Standard - IEEE Std 1003.1](https://github.com/g-nix/posix-standard)
+* [UNIX - The POSIX Standard - IEEE Std 1003.1](https://github.com/geoff-codes/posix-standard)
 
 
 #### Theoretical Computer Science
 
-* [An Introduction to the Theory of Computation](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
-* [Building Blocks for Theoretical Computer Science](http://www.cs.uiuc.edu/~mfleck/building-blocks/index.html) - Margaret M. Fleck
+* [An Introduction to the Theory of Computation](http://web.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
+* [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
 * [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
 * [Introduction to Computer Science](http://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
 * [Introduction to Computing](http://www.computingbook.org)
-* [Introduction to Theory of Computation](http://cg.scs.carleton.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari and Michiel Smid (PDF)
+* [Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari and Michiel Smid (PDF)
 * [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
 * [Network Science](http://barabasilab.neu.edu/networksciencebook/index.html)
 * [Practical Foundations for Programming Languages, Preview](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) - Robert Harper (PDF)
 * [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/index.html) - Shriram Krishnamurthi
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
-* [Programming Languages: Application and Interpretation (2nd Edition)](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
+* [Programming Languages: Application and Interpretation (2nd Edition)](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/)
 * [Semantics with Applications: A Formal Introduction](http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.html) - Hanne Riis Nielson, Flemming Nielson
-* [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 * [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/html/index.xhtml)
 * [Theory of Computation](http://www.cse.iitd.ernet.in/~ssen/csl705/admin705.html) - Sandeep Sen, IIT Delhi
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
@@ -685,7 +685,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 * [A Guide to Ada for C and C++ Programmers](http://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) (PDF)
 * [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
-* [Ada Programming](http://en.wikibooks.org/wiki/Ada_Programming)
+* [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming)
 * [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
 * [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
 
@@ -702,15 +702,15 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### Android
 
-* [Agile Android Software Development](http://www.agiledroid.com) - Etienne Savard (PDF, epub, mobi - need email confirmation)
+* [Agile Android Software Development](https://www.agiledroid.com/) - Etienne Savard (PDF, epub, mobi - need email confirmation)
 * [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
 * [Android Programming Guide for Beginners](http://eduonix.com/offers/Android_ebook_free_offer.html) (PDF - need email confirmation)
-* [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.pdf), [Kindle](https://www.syncfusion.com/content/downloads/ebook/Android_Programming_Succinctly.mobi)) *(Just fill the fields with any values)*
-* [CodePath Android Cliffnotes](https://github.com/thecodepath/android_guides/wiki)
+* [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) *(Just fill the fields with any values)*
+* [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
-* [Expert Android and Eclipse development knowledge](http://www.vogella.com/android.html)
+* [Expert Android and Eclipse development knowledge](http://www.vogella.com/tutorials/android.html)
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
-* [Styling Android](http://www.stylingandroid.com)
+* [Styling Android](https://blog.stylingandroid.com/)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
 * [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
 
@@ -719,7 +719,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 * [A Practical Introduction to APL1 & APL2](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
 * [A Practical Introduction to APL3 & APL4](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL3_.26_APL4)
-* [Mastering Dyalog APL](http://www.dyalog.com/intro/) (PDF)
+* [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm) (PDF)
 
 
 ### Arduino
@@ -737,37 +737,37 @@ Original Source: [List of freely available programming books](http://web.archive
 ### Assembly Language
 
 * [An introduction to reverse engineering for beginners](https://github.com/dennis714/RE-for-beginners)
-* [Assembly Language Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Assembly_Language_Succinctly.pdf) (PDF)
+* [Assembly Language Succinctly](https://www.syncfusion.com/Account/Logon?ReturnUrl=/resources/techportal/ebooks/assemblylanguage) (PDF)
 * [Introduction to Reverse Engineering Software](http://althing.cs.dartmouth.edu/local/www.acm.uiuc.edu/sigmil/RevEng/)
 * [Paul Carter's Tutorial on x86 Assembly](http://drpaulcarter.com/pcasm/)
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 * [Professional Assembly Language](http://blog.hit.edu.cn/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
-* [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
+* [Programming from the Ground Up](http://mirror.unicorncloud.org/savannah-nongnu//pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-* [The Art of Assembly Language Programming](http://courses.engr.illinois.edu/ece390/books/artofasm/artofasm.html)
+* [The Art of Assembly Language Programming](https://courses.engr.illinois.edu/ece390/books/artofasm/artofasm.html)
 * [The Second Book Of Machine Language](http://www.atariarchives.org/2bml/)
 * [Wizard Code](http://vendu.twodots.nl/wizardcode.html)
-* [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly)
+* [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)
 
 
 #### Non-X86
 
 * [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan
 * [Machine Code for Beginners [Z80 and 6502 CPUs]](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227) - Lisa Watts and Mike Wharton (PDF)
-* [Machine Language for Beginners](http://archive.org/details/ataribooks-machine-language-for-beginners) - Richard Mansfield [6502 CPU]
+* [Machine Language for Beginners](https://archive.org/details/ataribooks-machine-language-for-beginners) - Richard Mansfield [6502 CPU]
 * [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html)
 
 
 ### AutoHotkey
 
 * [AHKbook - the book for AutoHotkey](http://ahkscript.github.io/ahkbook/index.html)
-* [AutoHotkey Official Documentation](http://ahkscript.org/docs/AutoHotkey.htm) ([CHM](http://ahkscript.org/download/1.1/AutoHotkeyHelp.zip))
+* [AutoHotkey Official Documentation](https://autohotkey.com/docs/AutoHotkey.htm) ([CHM](https://autohotkey.com/download/1.1/AutoHotkeyHelp.zip))
 
 
 ### Autotools
 
-* [Autotools Mythbuster](https://www.flameeyes.eu/autotools-mythbuster/)
+* [Autotools Mythbuster](https://autotools.io/index.html)
 * [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
 
 
@@ -797,7 +797,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org) - Nick Montfort, Patsy Baudoin, John Bell,Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
 * [A beginner's guide to Gambas](http://beginnersguidetogambas.com)
-* [BASIC programming language - Wikibooks](http://en.wikibooks.org/wiki/Category%3ABASIC_programming_language)
+* [BASIC programming language - Wikibooks](https://en.wikibooks.org/wiki/Category%3ABASIC_programming_language)
 * [How To Gambas3 Guides](http://howtogambas.org/index.php?page=cedi)
 * [Pick/Basic: A Programmer's Guide](http://www.jes.com/pb/) - Jonathan E. Sisk
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
@@ -814,7 +814,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com)
-* [C Programming](http://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
+* [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
@@ -834,7 +834,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 * [Beginners Guide to C# and the.NET Micro Framework](http://www.ghielectronics.com/downloads/FEZ/Beginners%20guide%20to%20NETMF.pdf) (PDF)
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
-* [C# Programming - Wikibook](http://en.wikibooks.org/wiki/C_Sharp_Programming)
+* [C# Programming - Wikibook](https://en.wikibooks.org/wiki/C_Sharp_Programming)
 * [C# Yellow Book](http://www.csharpcourse.com) (intro to programming)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
@@ -847,9 +847,9 @@ Original Source: [List of freely available programming books](http://web.archive
 * [C++ Annotations](http://cppannotations.sourceforge.net)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
-* [C++ Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
+* [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
 * [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
-* [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
+* [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
 * [Financial Numerical Recipes in C++](http://finance.bi.no/~bernt/gcc_prog/recipes/) - Bernt Arne Ødegaard
 * [Game Programming Patterns](http://gameprogrammingpatterns.com)
 * [Google's C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
@@ -861,10 +861,10 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-* [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
+* [The Boost C++ libraries](http://theboostcpplibraries.com/)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) - Bruce Eckel [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) (ZIP)
-* Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
+* Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 
 ### Chapel
@@ -888,7 +888,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Clojure for the Brave and True](http://www.braveclojure.com)
 * [Clojure in Small Pieces](http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey (PDF)
 * [Clojure Koans](http://clojurekoans.com)
-* [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
+* [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming)
 * [ClojureScript Koans](http://clojurescriptkoans.com)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
@@ -906,8 +906,8 @@ Original Source: [List of freely available programming books](http://web.archive
 
 * [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io)
 * [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite
-* [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
-* [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
+* [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html)
+* [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
 
 
 ### ColdFusion
@@ -962,7 +962,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### Elasticsearch
 
-* [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elasticsearch/elasticsearch-definitive-guide))
+* [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elastic/elasticsearch-definitive-guide))
 * [Exploring Elasticsearch](http://exploringelasticsearch.com)
 
 
@@ -992,7 +992,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 * [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf) (PDF)
 * [Erlang Handbook](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
-* [Erlang Programming](http://en.wikibooks.org/wiki/Erlang_Programming) (HTML)
+* [Erlang Programming](https://en.wikibooks.org/wiki/Erlang_Programming) (HTML)
 * [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726/index.html) - J. David Eisenberg
 * [Getting Started with Erlang User's Guide](http://www.erlang.org/doc/getting_started/users_guide.html) (HTML)
 * [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com) - Frederic Trottier-Hebert
@@ -1002,10 +1002,10 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### F Sharp
 
-* [F# Programming](http://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
-* [F# Succinctly, SyncFusion](http://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) *(Just fill the fields with any values)*
+* [F# Programming](https://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
+* [F# Succinctly, SyncFusion](https://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf) (PDF)
-* [Real World Functional Programming](http://msdn.microsoft.com/en-us/library/hh314518.aspx) (MSDN Chapters)
+* [Real World Functional Programming](https://msdn.microsoft.com/en-us/library/hh314518.aspx) (MSDN Chapters)
 
 
 ### Flex
@@ -1022,7 +1022,7 @@ Original Source: [List of freely available programming books](http://web.archive
 ### Force.com
 
 * [Developer Workbooks](http://developer.force.com/workbook)
-* [Force.com Fundamentals](http://wiki.developerforce.com/page/Force_Platform_Fundamentals)
+* [Force.com Fundamentals](https://developer.salesforce.com/page/Force_Platform_Fundamentals)
 * [Force.com Platform Fundamentals: An Introduction to Custom Application Development in the Cloud](http://www.lulu.com/shop/salesforcecom/forcecom-platform-fundamentals/ebook/product-17381451.html)
 * [Heroku Postgres](http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) (PDF)
 
@@ -1039,7 +1039,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### Fortran
 
-* [Fortran programming language - Wikibooks](http://en.wikibooks.org/wiki/Category%3AFortran_programming_language)
+* [Fortran programming language - Wikibooks](https://en.wikibooks.org/wiki/Category%3AFortran_programming_language)
 * [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf) (PDF)
 * [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) (PDF)
 
@@ -1052,7 +1052,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### Git
 
-* [A practical git introduction](http://mrchlblng.me/2014/09/practical-git-introduction/)
+* [A practical git introduction](http://marc.helbling.fr/2014/09/practical-git-introduction/)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
 * [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
@@ -1062,31 +1062,31 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 * [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html) - Richard E. Silverman
-* [Git Reference](http://www.gitref.org)
-* [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Git Reference](http://gitref.org/)
+* [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
-* [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction) - Tobias Günther
-* [Pro Git](http://git-scm.com/book) - Scott Chacon
+* [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
+* [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon
 * [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
-* [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
+* [Version Control by Example (Mercurial, Subversion, Verasity)](http://ericsink.com/vcbe/)
 
 
 ### Go
 
 * [An Introduction to Programming in Go](http://www.golang-book.com)
 * [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
-* [Building Web Apps with Go](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
+* [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Go Bootcamp](http://www.golangbootcamp.com/book) - Matt Aimonetti
 * [Go by Example](https://gobyexample.com)
-* [Learning Go](http://archive.miek.nl/projects/learninggo/index.html)
+* [Learning Go](https://archive.miek.nl/projects/learninggo/index.html)
 * [Let's learn Go!](http://go-book.appspot.com)
-* [Network programming with Go](http://jan.newmarch.name/go/)
+* [Network programming with Go](https://jan.newmarch.name/go/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
-* [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
+* [The Go Tutorial](http://tour.golang.org/)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book)
 
 
@@ -1094,16 +1094,16 @@ Original Source: [List of freely available programming books](http://web.archive
 
 #### Gradle
 
-* [Building and Testing with Gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)
+* [Building and Testing with Gradle](https://gradle.org/servicesregistered-access?content=books%2Fbuilding-and-testing%2F)
 * [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
-* [Gradle User Guide](http://www.gradle.org/docs/current/userguide/userguide.html) - Hans Dockter, Adam Murdoch ([PDF](http://www.gradle.org/docs/current/userguide/userguide.pdf))
+* [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) - Hans Dockter, Adam Murdoch ([PDF](https://docs.gradle.org/current/userguide/userguide.pdf))
 
 
 #### Grails
 
 * [Getting Started with Grails](http://www.infoq.com/minibooks/grails-getting-started)
 * [Grails Tutorial for Beginners](http://grails.asia/grails-tutorial-for-beginners/)
-* [The Grails Framework - Reference Documentation](http://grails.org/doc/latest/) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari ([PDF](http://grails.org/doc/latest/guide/single.pdf))
+* [The Grails Framework - Reference Documentation](http://grails.github.io/grails-doc/latest/) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari ([PDF](http://grails.github.io/grails-doc/latest/guide/single.pdf))
 
 
 #### Spock Framework
@@ -1114,15 +1114,15 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### Hadoop
 
-* [Cloudera Impala](http://www.cloudera.com/content/cloudera/en/resources/library/aboutcloudera/cloudera-impala-ebook.html) - John Russel
+* [Cloudera Impala](http://www.cloudera.com/content/www/en-us/resources/aboutcloudera/cloudera-impala-ebook.html) - John Russel
 * [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
-* [Hadoop Illuminated](http://hadoopilluminated.com/book.php) - Mark Kerzner & Sujee Maniyam
+* [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner & Sujee Maniyam
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
 
 
 ### Haskell
 
-* [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/)
+* [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/)
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
 * [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh (PDF)
@@ -1130,15 +1130,15 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Haskell no panic](http://lisperati.com/haskell/)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
 * [Introduction to Haskell](http://www.seas.upenn.edu/~cis194/spring13/) - Brent Yorgey
-* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way)
+* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovaca
 * [Natural Language Processing for the Working Programmer](http://nlpwp.org/book/)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html) -  Simon Marlow
 * [Real World Haskell](http://book.realworldhaskell.org)
 * [Speeding Through Haskell](http://www.sthaskell.com)
-* [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) (PDF)
+* [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) (PDF)
 * [The Haskell School of Music](http://haskell.cs.yale.edu/?post_type=publication&p=112) (PDF) (work in progress)
-* [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
+* [Wikibook Haskell](https://en.wikibooks.org/wiki/Haskell)
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
 
 
@@ -1159,8 +1159,8 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/) - Aaron Gustafson
 * [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) - Mark Otto
-* [Dive Into HTML5](http://diveintohtml5.info) - Mark Pilgrim ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/))
-* [GA Dash](http://dash.generalassemb.ly)
+* [Dive Into HTML5](http://diveintohtml5.info) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
+* [GA Dash](https://dash.generalassemb.ly/)
 * [Google's HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 * [HTML Dog Tutorials](http://www.htmldog.com)
@@ -1168,14 +1168,14 @@ Original Source: [List of freely available programming books](http://web.archive
 * [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
 * [Learn CSS Layout](http://learnlayout.com)
-* [Scalable and Modular Architecture for CSS](http://smacss.com) - Jonathan Snook
+* [Scalable and Modular Architecture for CSS](https://smacss.com/) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 
 
 #### Bootstrap
 
-* [Twitter Bootstrap Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Twitter Bootstrap 3 Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap3) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap3) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ### Icon
@@ -1187,7 +1187,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 * [Cocoa Dev Central](http://cocoadevcentral.com)
 * [iOS 8 App Development Essentials](http://www.techotopia.com/index.php/IOS_8_App_Development_Essentials)
-* [iOS Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) *(Just fill the fields with any values)*
+* [iOS Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) *(Just fill the fields with any values)*
 * [NSHipster](http://nshipster.com/#archive) (Resource)
 * [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
 * [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html) (HTML)
@@ -1230,7 +1230,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [JAAS in Action](http://www.jaasbook.com)
-* [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf) (PDF)
+* [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) (PDF)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
 * [Java: A Beginner's Guide](http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf) - Oracle (PDF)
@@ -1240,11 +1240,11 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) (PDF)
 * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
-* [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
+* [Sun's Java Tutorials](http://docs.oracle.com/javase/tutorial/)
 * [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc)
-* [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
+* [The Java EE6 Tutorial](http://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [The Java EE7 Tutorial](https://docs.oracle.com/javaee/7/JEETT.pdf) (PDF)
-* [The Java Language Specification](http://java.sun.com/docs/books/jls/) - James Gosling, Bill Joy, Guy Steele, Gilad Bracha
+* [The Java Language Specification](http://docs.oracle.com/javase/specs/) - James Gosling, Bill Joy, Guy Steele, Gilad Bracha
 * [The Java Tutorial 4th Edition](http://download.oracle.com/javase/tutorial/) - Sharon Zakhour, Scott Hommel, Jacob Royal, Isaac Rabinovitch, Tom Risser, Mark Hoeber
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
@@ -1290,19 +1290,19 @@ Original Source: [List of freely available programming books](http://web.archive
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com) - Cody Lindley
 * [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
 * [JavaScript For Cats](http://jsforcats.com)
-* [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
+* [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
-* [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Javascript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)
 * [jQuery Fundamentals](http://jqfundamentals.com) (starts with JavaScript basics)
 * [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) (PDF)
 * [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks) - Malcolm Maclean
 * [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
-* [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com) - Noel Rappin
-* [Marionette Exposé: Learn to write modular Javascript applicatons using Backbone Marionette and RequireJS/AMD](http://leanpub.com/marionetteexpose) - Jack Killilea
-* [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
+* [Marionette Exposé: Learn to write modular Javascript applicatons using Backbone Marionette and RequireJS/AMD](https://leanpub.com/marionetteexpose) - Jack Killilea
+* [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [Oh My JS](https://leanpub.com/ohmyjs/read) *(Leanpub, by Azat Mardanov)*
 * [O'Reilly Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
@@ -1321,10 +1321,10 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 #### Node.js
 
-* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.com/uvbook/An%20Introduction%20to%20libuv.epub))
+* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
 * [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun/read) - Azat Mardanov *(Leanpub)*
 * [Mixu's Node Book](http://book.mixu.net/node/)
-* [Node.js Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
 * [The Node Beginner Book](http://nodebeginner.org)
 
@@ -1337,8 +1337,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### LaTeX
 
 * [Arbirtrary LaTex Reference](http://latex.knobs-dials.com)
-* [LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX)
-* [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
+* [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX)
+* [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
 * See also [TeX](#tex)
 
 
@@ -1349,14 +1349,14 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Linux
 
-* [Ad Hoc Data Analysis From The Unix Command Line](http://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
+* [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
 * [Automated Linux From Scratch](http://www.linuxfromscratch.org/alfs/download.html)
 * [Getting Started with Ubuntu](http://ubuntu-manual.org)
-* [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
+* [GNU Autoconf, Automake and Libtool](http://www.sourceware.org/autobook/download.html)
 * [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/index.html)
 * [Hardened Linux From Scratch](http://www.linuxfromscratch.org/hlfs/download.html)
-* [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line) - Michael Hartl
-* [Learning Debian GNU/Linux](http://oreilly.com/openbook/debian/book/index.html)
+* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) - Michael Hartl
+* [Learning Debian GNU/Linux](http://www.oreilly.com/openbook/debian/book/index.html)
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
 * [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
@@ -1367,14 +1367,14 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
 * [Linux Security for Beginners](http://www.linuxtopia.org/LinuxSecurity/index.html)
-* [Linux Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) *(Just fill the fields with any values)*
 * [OpenVZ Linux virtualization](http://download.openvz.org/doc/OpenVZ-Users-Guide.pdf) (PDF)
-* [Programming and Using Linux Sound - in depth](http://jan.newmarch.name/LinuxSound/index.html)
+* [Programming and Using Linux Sound - in depth](https://jan.newmarch.name/LinuxSound/index.html)
 * [Red Hat Enterprise Linux 6 Essentials](http://www.techotopia.com/index.php/Red_Hat_Enterprise_Linux_6_Essentials)
 * [Secure Programming for Linux and Unix](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
-* [The Debian Administrator's Handbook](http://debian-handbook.info)
+* [The Debian Administrator's Handbook](https://debian-handbook.info/)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) (PDF)
-* [The Linux Development Platform](http://www.informit.com/content/downloads/perens/0130091154.pdf) (PDF)
+* [The Linux Development Platform](http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/perens/0130091154.pdf) (PDF)
 * [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
 * [The Linux System Administrator's Guide](http://www.tldp.org/LDP/sag/html/index.html)
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
@@ -1386,7 +1386,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Lisp
 
-* [Basic Lisp Techniques](http://www.franz.com/resources/educational_resources/cooper.book.pdf) - David J. Cooper, Jr. (PDF)
+* [Basic Lisp Techniques](http://franz.com/resources/educational_resources/cooper.book.pdf) - David J. Cooper, Jr. (PDF)
 * [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
 * [Common Lisp Quick Reference](http://clqr.boundp.org)
 * [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
@@ -1398,13 +1398,13 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/toc)
 * [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers) - Vsevolod Dyomkin
 * [Lisp Koans](https://github.com/google/lisp-koans)
-* [Lisp Web Tales](https://leanpub.com/lispwebtales/purchases/new)
-* [Natural Language Processing in Lisp](http://www.informatics.susx.ac.uk/research/groups/nlp/gazdar/nlp-in-lisp/index.html)
+* [Lisp Web Tales](https://leanpub.com/lispwebtales)
+* [Natural Language Processing in Lisp](http://www.sussex.ac.uk/informatics/)
 * [On Lisp](http://www.paulgraham.com/onlisp.html)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
-* [Successful Lisp: How to Understand and Use Common Lisp](http://psg.com/~dlamkins/sl/) - David Lamkins
+* [Successful Lisp: How to Understand and Use Common Lisp](https://psg.com/~dlamkins/sl/) - David Lamkins
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
 
 
@@ -1412,12 +1412,12 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/)
 * [Programming Gems](http://www.lua.org/gems/)
-* [Wikibook](http://en.wikibooks.org/wiki/Lua_Programming)
+* [Wikibook](https://en.wikibooks.org/wiki/Lua_Programming)
 
 
 ### Markdown
 
-* [Learn Markdown](http://www.gitbook.io/book/gitbookio/markdown) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
+* [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
 
 
 ### Mathematica
@@ -1432,26 +1432,26 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### MATLAB
 
 * [An Interactive Introduction to MATLAB](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf) (PDF)
-* [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/ftp/na-reports/MatlabNotes.pdf) (PDF)
+* [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/software/MatlabNotes.pdf) (PDF)
 * [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
-* [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html)
+* [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html?requestedDomain=www.mathworks.com&nocookie=true)
 * [Freshman Engineering Problem Solving with MATLAB](http://cnx.org/featureContent/mfiles)
 * [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
 * [MATLAB - A Fundamental Tool for Scientific Computing and Engineering Applications - Volume 1](http://www.intechopen.com/books/matlab-a-fundamental-tool-for-scientific-computing-and-engineering-applications-volume-1)
 * [MATLAB - A Ubiquitous Tool for the Practical Engineer](http://www.intechopen.com/books/matlab-a-ubiquitous-tool-for-the-practical-engineer)
 * [MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics)
-* [MATLAB Programming](http://en.wikibooks.org/wiki/MATLAB_Programming)
-* [MATLAB Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/matlab) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html)
+* [MATLAB Programming](https://en.wikibooks.org/wiki/MATLAB_Programming)
+* [MATLAB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/matlab) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html?requestedDomain=www.mathworks.com&nocookie=true)
 * [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
 
 
 ### Maven
 
-* [Developing with Eclipse and Maven](http://www.sonatype.com/books/m2eclipse-book/reference/)
-* [Maven by Example](http://www.sonatype.com/books/mvnex-book/reference/public-book.html)
-* [Maven: The Complete Reference](http://www.sonatype.com/books/mvnref-book/reference/public-book.html)
-* [Repository Management with Nexus](http://www.sonatype.com/books/nexus-book/reference/)
+* [Developing with Eclipse and Maven](http://books.sonatype.com/m2eclipse-book/reference/)
+* [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
+* [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
+* [Repository Management with Nexus](http://books.sonatype.com/nexus-book/reference/)
 
 
 ### Mercurial
@@ -1474,8 +1474,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### .NET Framework
 
 * [Charles Petzold's .NET Book Zero](http://www.charlespetzold.com/dotnet/index.html)
-* [Entity Framework](http://weblogs.asp.net/zeeshanhirani/archive/2008/12/05/my-christmas-present-to-the-entity-framework-community.aspx)
-* [Game Creation with XNA](http://en.wikibooks.org/wiki/Game_Creation_with_XNA)
+* [Entity Framework](http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community)
+* [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA)
 * [Moving to Microsoft Visual Studio 2010](http://blogs.msdn.com/b/microsoft_press/archive/2010/09/13/free-ebook-moving-to-microsoft-visual-studio-2010.aspx)
 * [.NET for Visual FoxPro Developers](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm)
 * [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) *(RedGate, By Paul Glavich and Chris Farrell)*
@@ -1491,13 +1491,13 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### NoSQL
 
-* [CouchDB: The Definitive Guide](http://books.couchdb.org/relax/)
+* [CouchDB: The Definitive Guide](http://guide.couchdb.org/)
 * [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
 * [Graph Databases](http://graphdatabases.com)
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
-* [MongoDB Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) *(Just fill the fields with any values)*
+* [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) *(Just fill the fields with any values)*
 * [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
-* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book)
+* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
 * [The Little Riak Book](http://littleriakbook.com)
 
@@ -1505,14 +1505,14 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Oberon
 
 * [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf) (PDF)
-* [Programming in Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProgInOberon.pdf) (PDF)
+* [Programming in Oberon](http://www.ethoberon.ethz.ch/) (PDF)
 
 
 ### Objective-C
 
 * [Google's Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
-* [Object-Oriented Programming with Objective-C](http://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/OOP_ObjC.pdf) (PDF)
-* [Objective-C Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/OOP_ObjC.pdf) (PDF)
+* [Objective-C Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Programming With Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf) (PDF)
 * [Try Objective-C Book](http://tryobjectivec.codeschool.com)
 
@@ -1524,13 +1524,13 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Objective Caml for Scientists (first chapter only)](http://www.ffconsultancy.com/products/ocaml_for_scientists/chapter1.html)
 * [Real World OCaml](https://realworldocaml.org/v1/en/html/)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey and Nicholas Monje
-* [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org)
+* [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/)
 * [Using, Understanding, and Unraveling The OCaml Language: From Practice to Theory and vice versa](http://pauillac.inria.fr/~remy/cours/appsem/) - Didier Rémy
 
 
 ### Octave
 
-* [Octave Programming](http://en.wikibooks.org/wiki/Octave_Programming_Tutorial)
+* [Octave Programming](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial)
 
 
 ### OpenGL ES
@@ -1546,7 +1546,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### OpenSCAD
 
-* [OpenSCAD User Manual](http://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
+* [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 
 ### Oracle Server
@@ -1567,14 +1567,14 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Perl
 
-* [Beginning Perl](http://www.perl.org/books/beginning-perl/)
+* [Beginning Perl](https://www.perl.org/books/beginning-perl/)
 * [Data Munging with Perl](http://perlhacks.com/dmp.pdf) (PDF)
 * [Embedding Perl in HTML with Mason](http://www.masonbook.com/book/)
 * [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.pdf) (PDF)
 * [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)
 * [Extreme Perl](http://www.extremeperl.org/bk/home)
 * [Higher-Order Perl](http://hop.perl.plover.com/book/)
-* [Impatient Perl](http://www.perl.org/books/impatient-perl/)
+* [Impatient Perl](https://www.perl.org/books/impatient-perl/)
 * [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
 * [Mastering Perl](http://chimera.labs.oreilly.com/books/1234000001527) - brian d foy
 * [Modern Perl 5](http://www.onyxneon.com/books/modern_perl/index.html)
@@ -1588,7 +1588,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Template Toolkit Documentation](http://template-toolkit.org/docs/index.html)
 * [The DBIx-Class Book](https://github.com/castaway/dbix-class-book)
 * [The PDL Book](http://sourceforge.net/projects/pdl/files/PDL_2013/PDL-Book/PDL-Book-20130322.pdf/download) (PDF)
-* [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
+* [Web Client Programming with Perl](http://www.oreilly.com/openbook/webclient/)
 
 
 ### PHP
@@ -1597,19 +1597,19 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
   * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
 * Drupal Framework
   * Drupal 7
-    * [The Tiny Book of Rules](https://drupal.org/files/tiny-book-of-rules.pdf) (PDF)
+    * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
 * Laravel Framework
-  * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/l4)
+  * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/laravel-5)
   * [Laravel: Code Bright](http://daylerees.com/codebright)
-  * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
-* [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
+  * [Official Documentation (Offline Version)](https://leanpub.com/laravel-4_2-docs)
+* [PHP 5 Power Programming](http://ptgmedia.pearsoncmg.com/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
 * [PHP Internals Book](http://www.phpinternalsbook.com)
-* [PHP Programming](http://en.wikibooks.org/wiki/PHP_Programming)
+* [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming)
 * [PHP Security Guide](http://phpsec.org/projects/guide/)
 * [PHP: The Right Way](http://www.phptherightway.com)
-* [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
+* [Practical PHP Programming](http://www.hackingwithphp.com) (wiki containing O'Reilly's *PHP In a Nutshell*)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
@@ -1625,14 +1625,14 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### PostgreSQL
 
 * [Postgres Official Documentation](http://www.postgresql.org/docs/)
-* [Postgres Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Practical PostgreSQL](http://www.commandprompt.com/ppbook/)
+* [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Practical PostgreSQL](https://www.commandprompt.com/ppbook/)
 
 
 ### PowerShell
 
-* [Layman’s Guide to PowerShell 2.0 remoting](http://www.ravichaganti.com/blog/wp-content/plugins/download-monitor/download.php?id=22) (PDF)
-* [Mastering PowerShell](http://powershell.com/cs/blogs/ebook/)
+* [Layman’s Guide to PowerShell 2.0 remoting](http://www.ravichaganti.com//blog/wp-content/uploads/2010/12/A%20layman's%20guide%20to%20PowerShell%202.0%20remoting-v2.pdf) (PDF)
+* [Mastering PowerShell](http://powershell.com/cs/login.aspx?ReturnUrl=%2fcs%2fblogs%2febook%2fdefault.aspx)
 * [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 * [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) *(Just fill the fields with any values)*
 
@@ -1645,24 +1645,24 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Prolog
 
 * [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/advfrtop.htm)
-* [Applications of Prolog](http://bookboon.com/int/student/it/applications-of-prolog)
+* [Applications of Prolog](http://bookboon.com/en/applications-of-prolog-ebook)
 * [Building Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
 * [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
 * [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
 * [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) (PDF)
 * [Introduction to Prolog for Mathematicians](http://www.j-paine.org/prolog/mathnotes/files/pms/pms.html)
 * [Learn Prolog Now!](http://www.learnprolognow.org)
-* [Logic, Programming and Prolog (2ed)](http://www.ida.liu.se/~ulfni/lpp/)
+* [Logic, Programming and Prolog (2ed)](http://www.ida.liu.se/~ulfni53/lpp/)
 * [Natural Language Processing Techniques in Prolog](http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/)
 * [Prolog and Natural-Language Analysis](http://www.mtome.com/Publications/PNLA/pnla-digital.html) - Fernando C. N. Pereira, Stuart M. Shieber
 * [Prolog Experiments in Discrete Mathematics, Logic, and Computability](http://web.cecs.pdx.edu/~jhein/books/PrologLabBook09.pdf) - James L. Hein (PDF)
 * [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
 * [Prolog Programming: A First Course](http://engronline.ee.memphis.edu/deductiveDB/prolog_book.pdf) - Paul Brna (PDF)
-* [Prolog Techniques](http://bookboon.com/int/student/it/prolog-techniques-applications-of-prolog)
+* [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook)
 * [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
-* [The First 10 Prolog Programming Contests](http://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
+* [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci
 
 
@@ -1673,20 +1673,20 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### PureScript
 
-* [PureScript By Example](http://leanpub.com/purescript/read) - Phil Freeman
+* [PureScript By Example](https://leanpub.com/purescript/read) - Phil Freeman
 
 
 ### Python
 
-* [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
+* [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 * [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
 * [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
-* [Byte of Python](http://www.swaroopch.com/notes/Python) (2.7.x)
+* [Byte of Python](http://www.swaroopch.com/notes/python/) (2.7.x)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
-* [CodeCademy Python](http://www.codecademy.com/tracks/python)
+* [CodeCademy Python](https://www.codecademy.com/learn/python)
 * [Composing Programs](http://composingprograms.com) (3.x)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
@@ -1700,11 +1700,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)
   * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html#) - Muhammad Yasoob Ullah Khalid (1st edition)
-* [Introduction to Programming Using Python](http://python-ebook.blogspot.com) - Cody Jackson (1st edition) (2.3)
+* [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk/) - Cody Jackson (1st edition) (2.3)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
 * [Introduction to python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
-* [Learn Python in Y minutes](http://learnxinyminutes.com/docs/python/)
+* [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) (2.5 - 2.6)
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
 * [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF)
@@ -1713,9 +1713,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
 * [Modeling Creativity: Case Studies in Python](http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf) - Tom D. De Smedt (PDF)
-* [Natural Language Processing with Python](http://www.nltk.org/book) (2.5)
-* [Non-Programmer's Tutorial for Python 2.6](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) (2.6)
-* [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) (3.3)
+* [Natural Language Processing with Python](http://www.nltk.org/book/) (2.5)
+* [Non-Programmer's Tutorial for Python 2.6](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) (2.6)
+* [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) (3.3)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
 * [Problem Solving with Algorithms and Data Structure using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
@@ -1734,12 +1734,12 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (PDF)
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
-* [Python Module of the Week](http://pymotw.com/2/)
+* [Python Module of the Week](https://pymotw.com/2/)
 * [Python Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
 * [Python Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
-* [Python Practice Projects](http://www.pythonpracticeprojects.com)
-* [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF) (2.6)
+* [Python Practice Projects](http://pythonpracticeprojects.com/)
+* [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF) (2.6)
 * [Python Scientific Lecture Notes](http://scipy-lectures.github.io)
 * [Python Scripting for Computational Science](http://info.baustatik.uni-due.de/Lehre/CM-AOS/Scripts/Abaqus/Python%20Scripting%20for%20Computational%20Science.pdf) - Hans Petter Langtangen (PDF)
 * [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
@@ -1752,7 +1752,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum
-* [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming) (2.7)
+* [Wikibooks: Python Programming](https://en.wikibooks.org/wiki/Python_Programming) (2.7)
 
 
 #### Django
@@ -1762,7 +1762,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
-* [Effective Django](http://effectivedjango.com) (1.5)
+* [Effective Django](http://www.effectivedjango.com/) (1.5)
 * [Getting started with Django](http://gettingstartedwithdjango.com) (video)
 * [Tango With Django](http://www.tangowithdjango.com) (1.5)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.8)
@@ -1771,8 +1771,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 #### Flask
 
-* [Explore Flask](http://exploreflask.com) - Robert Picard
-* [Flask Microframework](http://flask.pocoo.org/docs/tutorial/)
+* [Explore Flask](https://exploreflask.com/) - Robert Picard
+* [Flask Microframework](http://flask.pocoo.org/docs/0.10/tutorial/)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
 
@@ -1788,12 +1788,12 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 #### Pyramid
 
-* [Pyramid for humans](http://docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/humans/index.html)
+* [Pyramid for humans](http://docs.pylonsproject.org/projects/pyramid-tutorials/en/latest/humans/index.html)
 
 
 ### QML
 
-* [Qt5 Cadaques](http://qmlbook.org) - Juergen Bocklage-Ryannel and Johan Thelin (HTML, PDF, ePub) (work in progress)
+* [Qt5 Cadaques](http://qmlbook.github.io/) - Juergen Bocklage-Ryannel and Johan Thelin (HTML, PDF, ePub) (work in progress)
 
 
 ### R
@@ -1805,12 +1805,12 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
 * [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
-* [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html) - John D. Cook
+* [R language for Programmers](http://www.johndcook.com/blog/r_language_for_programmers/) - John D. Cook
 * [R packages](http://r-pkgs.had.co.nz) - Hadley Wickham
 * [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
-* [R Programming](http://en.wikibooks.org/wiki/R_Programming)
+* [R Programming](https://en.wikibooks.org/wiki/R_Programming)
 * [R Programming for Data Science](https://leanpub.com/rprogramming) (Needs valid email)
-* [R Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) *(Just fill the fields with any values)*
+* [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) *(Just fill the fields with any values)*
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
 * [The R Manuals](http://cran.r-project.org/manuals.html)
@@ -1838,15 +1838,15 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Ruby
 
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
-* [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
+* [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read)
 * [I Love Ruby](http://goo.gl/1qrMUN)
-* [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by)
-* [Learn Ruby the hard way](http://ruby.learncodethehardway.org/book/)
+* [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/)
+* [Learn Ruby the hard way](http://learnrubythehardway.org/book/)
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com)
 * [Practicing Ruby](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts)
-* [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
+* [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
 * [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
@@ -1856,7 +1856,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
-* [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
+* [Why's (Poignant) Guide to Ruby](http://poignant.guide/) ([mirror](http://www.scribd.com/doc/2236084/Why-s-Poignant-Guide-to-Ruby))
 
 
 #### RSpec
@@ -1895,15 +1895,15 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Sage
 
 * [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf) - William Stein (PDF)
-* [The Sage Manuals](http://sagemath.org/doc/)
+* [The Sage Manuals](http://www.sagemath.org/doc/)
 
 
 ### Scala
 
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
-* [Another tour of Scala](http://naildrivin5.com/scalatour)
+* [Another tour of Scala](http://naildrivin5.com/scalatour/)
 * [EAI Patterns with Actor Model](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) - Vaughn Vernon
-* [Effective Scala](https://twitter.github.com/effectivescala/)
+* [Effective Scala](https://twitter.github.io/effectivescala/)
 * [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
 * [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Pro Scala: Monadic Design Patterns for the Web](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
@@ -1914,7 +1914,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) (PDF)
 * [Scala Cookbook: Bonus Chapters](http://examples.oreilly.com/9781449339616-files/Scala_Cookbook_bonus_chapters.pdf) - Alvin Alexander (PDF)
 * [Scala for Perl 5 Programmers](https://github.com/garu/scala-for-perl5-programmers) - Breno G. de Oliveira
-* [Scala for the Impatient (A1 Scala Level chapters)](http://typesafe.com/resources/book/scala-for-the-impatient) - Cay S. Horstmann
+* [Scala for the Impatient (A1 Scala Level chapters)](http://www.typesafe.com/resources/e-books) - Cay S. Horstmann
 * [Scala School by Twitter](http://twitter.github.io/scala_school/)
 * [Scala Tutorial](http://www.tutorialspoint.com/scala/scala_tutorial.pdf) (PDF)
 * [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
@@ -1942,10 +1942,10 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [How to Design Programs](http://htdp.org)
 * [Scheme Tutorial](http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html)
-* [Structure and Interpretion of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html)
+* [Structure and Interpretion of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 * [Teach Yourself Scheme in Fixnum Days](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html)
 * [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/) - [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
-* [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+* [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 
 
 ### Scilab
@@ -1967,7 +1967,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Smalltalk
 
-* [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk) (PDF)
+* [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/) (PDF)
 * [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents)
 * [Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 * [Pharo by Example](http://pharobyexample.org) (Smalltalk DE)
@@ -1985,46 +1985,46 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### SQL Server
 
-* [Best of SQLServerCentral.com Vol 7](http://www.red-gate.com/community/books/ssc-7.htm) *(RedGate, By SQLServerCentral Authors)
+* [Best of SQLServerCentral.com Vol 7](http://www.red-gate.com/community/books/ssc-7) *(RedGate, By SQLServerCentral Authors)
 * [Brad's Sure Guide to SQL Server Maintenance Plans](http://www.red-gate.com/community/books/sql-server-maintenance-plans) *(RedGate, By Brad McGehee)*
 * [Defensive Database Programming](http://download.red-gate.com/ebooks/SQL/defensive-database-programming.pdf) (PDF) *(RedGate, By Alex Kuznetsov)*
 * [How to Become an Exceptional DBA](http://www.red-gate.com/community/books/exceptional-dba-book) *(RedGate, By Brad McGehee)*
 * [Inside the SQL Server Query Optimizer](http://www.red-gate.com/products/sql-development/sql-prompt/entrypage/sql-query-optimizer-ebook3) *(RedGate, By Benjamin Nevarez)*
-* [Introducing Microsoft SQL Server 2008 R2](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#IntroducingMicrosoftSQLServer2008R2)
-* [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#IntroducingMicrosoftSQLServer2012)
+* [Introducing Microsoft SQL Server 2008 R2](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2008R2)
+* [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2012)
 * [Introducing Microsoft SQL Server 2014](http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx)
-* [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler.htm) *(RedGate, By Brad McGehee)*
-* [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views.htm) *(RedGate, By Tim Ford and Louis Davidson)*
-* [Protecting SQL Server Data](http://www.red-gate.com/community/books/protecting-data.htm) *(RedGate, By John Magnabosco)*
-* [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#SQLServer2012Tutorials%3AReportingServices)
-* [SQL Server Backup and Restore](http://www.red-gate.com/community/books/sql-server-backup-and-restore.htm) *(RedGate, By Shawn McGehee)*
-* [SQL Server Concurrency: Locking, Blocking and Row Versioning](http://www.red-gate.com/community/books/sql-server-concurrency.htm) *(RedGate, By Kalen Delaney)*
+* [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler) *(RedGate, By Brad McGehee)*
+* [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views) *(RedGate, By Tim Ford and Louis Davidson)*
+* [Protecting SQL Server Data](http://www.red-gate.com/community/books/protecting-data) *(RedGate, By John Magnabosco)*
+* [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#SQLServer2012Tutorials%3AReportingServices)
+* [SQL Server Backup and Restore](http://www.red-gate.com/community/books/sql-server-backup-and-restore) *(RedGate, By Shawn McGehee)*
+* [SQL Server Concurrency: Locking, Blocking and Row Versioning](http://www.red-gate.com/community/books/sql-server-concurrency) *(RedGate, By Kalen Delaney)*
 * [SQL Server Execution Plans](http://download.red-gate.com/ebooks/SQL/sql-server-execution-plans.pdf) (PDF) *(RedGate, By Grant Fritchey)*
 * [SQL Server Execution Plans, Second Edition](http://download.red-gate.com/ebooks/SQL/eBOOK_SQLServerExecutionPlans_2Ed_G_Fritchey.pdf) (PDF) *(RedGate, By Grant Fritchey)*
 * [SQL Server Hardware](http://www.red-gate.com/community/books/sql-server-hardware) *(RedGate, By Glenn Berry)*
-* [SQL Server Statistics](http://www.red-gate.com/community/books/sql-server-statistics.htm) *(RedGate, By Holger Schmeling)*
-* [SQL Server Stumpers Vol.5](http://www.red-gate.com/community/books/sql-server-stumpers-v5.htm) *(RedGate, By SQLServerCentral Authors)*
+* [SQL Server Statistics](http://www.red-gate.com/community/books/sql-server-statistics) *(RedGate, By Holger Schmeling)*
+* [SQL Server Stumpers Vol.5](http://www.red-gate.com/community/books/sql-server-stumpers-v5) *(RedGate, By SQLServerCentral Authors)*
 * [SQL Server Tacklebox](http://www.red-gate.com/community/books/sql-server-tacklebox) *(RedGate, By Rodney Landrum)*
 * [SQL Server Transaction Log Management](http://www.red-gate.com/community/books/sql-server-transaction-log-management) *(RedGate, By Tony Davis and Gail Shaw)*
-* [The Art of SQL Server FILESTREAM](http://www.red-gate.com/community/books/art-of-filestream.htm) *(RedGate, By Jacob Sebastian and Sven Aelterman)*
+* [The Art of SQL Server FILESTREAM](http://www.red-gate.com/community/books/art-of-filestream) *(RedGate, By Jacob Sebastian and Sven Aelterman)*
 * [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba) *(RedGate, By Jonathan Kehayias and Ted Krueger)*
 
 
 ### Standard ML
 
-* [Programming in Standard ML '97](http://www.dcs.ed.ac.uk/home/stg/NOTES/) - Stephen Gilmore, University of Edinburgh
+* [Programming in Standard ML '97](http://homepages.inf.ed.ac.uk/stg/NOTES/) - Stephen Gilmore, University of Edinburgh
 * [Programming in Standard ML, Draft](http://www.cs.cmu.edu/~rwh/smlbook/) - Robert Harper
 
 
 ### Subversion
 
-* [Subversion Version Control](http://www.phptr.com/content/images/0131855182/downloads/Nagel_book.pdf) (PDF)
+* [Subversion Version Control](http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) (PDF)
 * [Version Control with Subversion](http://svnbook.red-bean.com)
 
 
 ### Swift
 
-* [Learn Swift](http://www.swift-tutorial.io/learn-swift)
+* [Learn Swift](http://books.aidanf.net/learn-swift)
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML)
 * [The Swift Programming Language](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) (iBook)
 * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) (iBook)
@@ -2032,7 +2032,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Tcl
 
-* [Tcl Programming](http://en.wikibooks.org/wiki/Programming%3ATcl) - Richard.Suchenwirth, et. al.
+* [Tcl Programming](https://en.wikibooks.org/wiki/Programming%3ATcl) - Richard.Suchenwirth, et. al.
 * [TclWise](http://www.invece.org/tclwise/index.html) - Salvatore Sanfilippo
 
 
@@ -2063,7 +2063,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
-* [TypeScript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) *(Just fill the fields with any values)*
+* [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ### Unix
@@ -2071,7 +2071,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/)
 * [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/) - J. Lions
 * [UNIX Commands and Concepts](http://www.cs.bu.edu/teaching/unix/reference/) - Robert I. Pitts
-* [Unix for Poets](http://www.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
+* [Unix for Poets](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
@@ -2096,7 +2096,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) *(Leanpub, by Tim Ottinger)*
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
-* [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)
+* [Vim Recipes](http://ebooksgo.org) (PDF)
 * [Vim Regular Expressions 101](http://vimregex.com)
 
 
@@ -2126,7 +2126,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud](http://coolthingoftheday.blogspot.co.uk/2012/05/free-ebook-guidance-advanced-windows.html)
 * [Programming Windows Phone 7](http://blogs.msdn.com/b/microsoft_press/archive/2010/10/28/free-ebook-programming-windows-phone-7-by-charles-petzold.aspx)
-* [Windows Phone 8 Development Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/windowsphone8) - Matteo Pagani (PDF)
+* [Windows Phone 8 Development Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/windowsphone8) - Matteo Pagani (PDF)
 * [Windows Phone 8.1 Development for Absolute Beginners](http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners)
 * [Windows Phone Programming Blue Book](http://www.robmiles.com/c-yellow-book/)
 
@@ -2138,6 +2138,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### xBase (dBase / Clipper / Harbour)
 
-* [Application Development with Harbour](http://en.wikibooks.org/wiki/Application_Development_with_Harbour)
+* [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour)
 * [CA-Clipper 5.2 Norton Guide](http://www.ousob.com/ng/clguide/)
-* [Clipper Tutorial: a Guide to Open Source Clipper(s)](http://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s))
+* [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s))

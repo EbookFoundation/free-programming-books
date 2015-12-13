@@ -35,7 +35,7 @@
 
 ### Android
 
-* [Guida programmazione Android 4.2](http://www.sprik.it/guida/Android4_2.pdf) (PDF)
+* [Guida programmazione Android 4.2](http://www.sprik.it/download/guida-programmazione-android-4-2/) (PDF)
 
 
 ### Assembly Language
@@ -56,7 +56,7 @@
 
 ### C Sharp
 
-* [AB..C# - Guida alla programmazione](http://www.youblisher.com/files/publications/4/21542/pdf.pdf) (PDF)
+* [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/) (PDF)
 
 
 ### GIT

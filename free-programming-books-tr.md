@@ -82,7 +82,7 @@
 
 ### iOS
 
-* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios/)
+* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
 
 ### Java

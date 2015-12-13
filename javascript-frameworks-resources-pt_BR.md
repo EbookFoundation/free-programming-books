@@ -55,12 +55,12 @@
 
 ### Meteor
 
-* [Tudo sobre Meteor](http://udgwebdev.com/meteor)
+* [Tudo sobre Meteor](http://udgwebdev.com/meteor/)
 
 
 ### Node.js
 
-* [Node.js para Leigos](http://udgwebdev.com/nodejs)
+* [Node.js para Leigos](http://udgwebdev.com/nodejs/)
 * [Primeiros passos com Node.js](http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
 

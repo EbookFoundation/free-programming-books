@@ -47,7 +47,7 @@
 
 ### Metalistas
 
-* [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/AprendiendoPython)
+* [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/wiki/AprendiendoPython)
 * [CodeHero](http://codehero.co)
 * [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
 
@@ -58,11 +58,11 @@
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Aprenda a programar como si estuviera en primero](http://www1.ceit.es/asignaturas/Informat1/ayudainf/aprendainf/Programar/Programar.pdf) (PDF)
-* [Apuntes de Algoritmos y Estructuras de Datos](https://sites.google.com/site/prog3unlp/home/exp_algoritmos.pdf?attredirects=0&d=1) (PDF)
-* [Breves Notas sobre Análisis de Algoritmos](http://www.matematicas.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
+* [Apuntes de Algoritmos y Estructuras de Datos](https://146fd953-a-62cb3a1a-s-sites.googlegroups.com/site/prog3unlp/home/exp_algoritmos.pdf) (PDF)
+* [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html)
 * [Técnicas de Diseño de Algoritmos ](http://www.lcc.uma.es/~av/Libro/indice.html) ([PDF](http://www.lcc.uma.es/%7eav/Libro/Libro.zip))
-* [Temas selectos de estructuras de datos](http://www.matematicas.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
+* [Temas selectos de estructuras de datos](http://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
 * [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos)
 
 
@@ -77,8 +77,8 @@
 
 #### Ciencia Computacional
 
-* [Breves Notas sobre Autómatas y Lenguajes](http://www.matematicas.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
-* [Breves Notas sobre Teoría de la Computación](http://www.matematicas.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
+* [Breves Notas sobre Autómatas y Lenguajes](http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
+* [Breves Notas sobre Teoría de la Computación](http://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 
 
 #### Cursos Masivos en Línea
@@ -89,7 +89,7 @@
 #### Metodologías de desarrollo de software
 
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
-* [Diseño Ágil con TDD](http://www.carlosble.com/libro-tdd)
+* [Diseño Ágil con TDD](http://www.carlosble.com/libro-tdd/?lang=es)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
 * [Scrum & Extreme Programming (para programadores)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
@@ -98,7 +98,7 @@
 
 #### Misceláneos
 
-* [97 cosas que todo programador debería saber](http://97cosas.com/programador)
+* [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/)
 * [Programación de videojuegos SDL](http://www.albertogarcia.info/libros/sdl/%5Bebook%5DProgramacion%20de%20videojuegos%20con%20SDL.pdf) (PDF)
 * [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com)
@@ -130,8 +130,8 @@
 
 ### C++
 
-* [Aprenda C++ avanzado como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
-* [Aprenda C++ básico como si estuviera en primero](http://www.tecnun.es/asignaturas/Informat1/ayudainf/aprendainf/Cpp/basico/cppbasico.pdf) (PDF)
+* [Aprenda C++ avanzado como si estuviera en primero](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
+* [Aprenda C++ básico como si estuviera en primero](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) (PDF)
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/)
 
 
@@ -142,10 +142,10 @@
 
 ### CSS
 
-* [CSS avanzado](http://librosweb.es/css_avanzado/)
+* [CSS avanzado](http://librosweb.es/libro/css_avanzado/)
 * [Estructura con CSS](http://es.learnlayout.com)
 * [Guía Completa de CSS3](http://www.etnassoft.com/biblioteca/guia-completa-de-css3/)
-* [Introducción a CSS](http://librosweb.es/css/)
+* [Introducción a CSS](http://librosweb.es/libro/css/)
 
 
 ### Coffeescript
@@ -174,7 +174,7 @@
 
 * [Git Immersion en Español](http://gitimmersion.mx)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
-* [Pro Git](http://git-scm.com/book/es)
+* [Pro Git](http://git-scm.com/book/es/v1)
 
 
 ### Haskell
@@ -189,19 +189,19 @@
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/pdf/libroJavaConTapa.pdf) (PDF)
 * [Guía Java para Docentes](http://ignaciolasalvia.com/material/prog1_2013/GuiaJavaparaDocentes2012.pdf) (PDF)
-* [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona, UNAM (PDF)
+* [Notas de Introducción al Lenguaje de Programación Java](http://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona, UNAM (PDF)
 * [OCPJP6 Resumen Español](https://github.com/PabloReyes/ocpjp-resumen-espanol) - Pablo Reyes Almagro (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
 * [PlugIn Tapestry: Desarrollo de aplicaciones y páginas web con Apache Tapestry](http://picodotdev.github.io/blog-bitix/2014/02/libro-sobre-desarrollo-de-aplicaciones-con-apache-tapestry/) ([PDF](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf)) ([EPUB](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub)) ([MOBI](http://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi))
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
-* [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf) (PDF)
-* [Tutorial Introducción a Maven 3](http://www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)
+* [Tutorial básico de Java EE](http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) (PDF)
+* [Tutorial Introducción a Maven 3](http://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) (PDF)
 
 
 ### JavaScript
 
-* [Introducción a AJAX](http://librosweb.es/ajax/)
-* [Introducción a JavaScript](http://librosweb.es/javascript/)
+* [Introducción a AJAX](http://librosweb.es/libro/ajax/)
+* [Introducción a JavaScript](http://librosweb.es/libro/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
 
 
@@ -235,14 +235,14 @@
 
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html)
 * [BASH Scripting Avanzado: Utilizando declare para definición de tipo](http://library.originalhacker.org/biblioteca/articulo/ver/123)
-* [Debian GNU/Linux para administradores](http://debian-handbook.info/browse/es-ES/stable/)
+* [Debian GNU/Linux para administradores](https://debian-handbook.info/browse/es-ES/stable/)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) en WikiBooks
 
 
 ### .NET (C# / Visual Studio)
 
 * [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) (PDF)
-* [Guía de Arquitectura N-capas Orientadas al Dominio](http://msdn.microsoft.com/es-es/architecture/default.aspx)
+* [Guía de Arquitectura N-capas Orientadas al Dominio](https://msdn.microsoft.com/architects-overview-msdn)
 
 
 ### NoSQL
@@ -259,9 +259,9 @@
 * [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) (PDF)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP)
-* [Silex, el manual oficial](http://librosweb.es/silex/)
-* [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
-* [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
+* [Silex, el manual oficial](http://librosweb.es/libro/silex/)
+* [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4/)
+* [Symfony 2.3, el libro oficial](http://librosweb.es/libro/symfony_2_3/)
 
 
 ### Perl
@@ -284,7 +284,7 @@
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
 * [Notas sobre el lenguaje Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/at_download/file) (PDF)
 * [Python instantáneo](http://www.arrakis.es/~rapto/AprendaPython.html)
-* [Python para ciencia e ingeniería](https://github.com/mgaitan/python-ingenieria)
+* [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico)
 * [Python para principiantes](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) (PDF) [(HTML)](http://librosweb.es/libro/python/)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 

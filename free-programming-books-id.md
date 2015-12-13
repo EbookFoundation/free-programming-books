@@ -3,7 +3,6 @@
 * [Android](#android)
 * [HTML & CSS](#html-css)
 * [Javascript](#javascript)
-* [NoSQL](#nosql)
 * [PHP](#php)
 
 
@@ -22,12 +21,12 @@
 ### javascript
 
 * [Mengenal Javascript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
-* [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js//)
+* [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 
 
 ### NoSQL
 
-* [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/mongodb-untuk-indonesia//)
+* [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/mongodb-untuk-indonesia/content/)
 
 
 ### php

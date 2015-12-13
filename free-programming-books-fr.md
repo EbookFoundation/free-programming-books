@@ -143,7 +143,7 @@
 
 ### jQuery
 
-* [Apprendre jQuery](https://www.gitbook.com/book/sutterlity/apprendre-jquery/details) - Sutterlity Laurent
+* [Apprendre jQuery](https://sutterlity.gitbooks.io/apprendre-jquery/content/) - Sutterlity Laurent
 
 
 ### Haskell
@@ -197,7 +197,7 @@
 
 ### Meteor
 
-* [Apprendre Meteor](https://www.gitbook.com/book/mquandalle/apprendre-meteor/details) - Maxime Quandalle
+* [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
 * [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
 
 

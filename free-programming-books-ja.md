@@ -296,13 +296,13 @@
 ### Gradle
 
 * [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs/) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf))
-* [ビルドツールGradleスタートアップガイドの紹介](https://www.ntts.co.jp/column/tec/java_03/index2.html) - 鈴木雅貴
+* [ビルドツールGradleスタートアップガイドの紹介](https://www.ntts.co.jp/column/tec/java_03/) - 鈴木雅貴
 
 
 ### Grails
 
 * [Grailsフレームワーク 日本語リファレンス](http://grails.jp/doc/latest/) - T.Yamamoto & Japanese Grails Doc Translating Team. Special thanks to NTT Software.
-* [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/index2.html) - 須藤悠
+* [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/) - 須藤悠
 
 
 ### Spock Framework

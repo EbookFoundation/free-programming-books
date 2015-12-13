@@ -181,8 +181,8 @@
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Learn Python](https://pythonspot.com)
-* [Programming for Everybody](https://www.coursera.org/course/pythonlearn)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
+* [Programming for Everybody](https://www.coursera.org/course/pythonlearn)
 
 
 ### R

@@ -56,7 +56,7 @@
 
 ### C Sharp
 
-* [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/) (PDF)
+* [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/)
 
 
 ### GIT

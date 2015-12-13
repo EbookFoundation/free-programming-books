@@ -3,6 +3,7 @@
 * [Android](#android)
 * [Angular JS](#angularjs)
 * [C#](#csharp)
+* [C++](#c++)
 * [CSS](#css)
 * [Elixir](#elixir)
 * [Emacs](#emacs)
@@ -30,6 +31,12 @@
 ### C#
 
 * [Screencast] - [How to program in C# - Beginner Course | Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
+
+
+### C++
+
+* [Screencast] - [C++ Programming Video Lectures](https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr)
+* [Screencast] - [C++ STL ](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb)
 
 
 ### CSS

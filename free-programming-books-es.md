@@ -174,7 +174,7 @@
 
 * [Git Immersion en Español](http://gitimmersion.mx)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/)
-* [Pro Git](http://git-scm.com/book/es/v1)
+* [Pro Git](http://git-scm.com/book/es/)
 
 
 ### Haskell

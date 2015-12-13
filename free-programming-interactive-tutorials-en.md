@@ -196,6 +196,7 @@
 
 ### Scala
 
+* [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
 * [Scala Tour](http://www.scala-tour.com)
 
 

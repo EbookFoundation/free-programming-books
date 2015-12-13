@@ -1901,7 +1901,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Scala
 
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
-* [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
 * [Another tour of Scala](http://naildrivin5.com/scalatour)
 * [EAI Patterns with Actor Model](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) - Vaughn Vernon
 * [Effective Scala](https://twitter.github.com/effectivescala/)

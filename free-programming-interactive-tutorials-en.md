@@ -84,7 +84,7 @@
 ### Go
 
 * [Go Koans](https://github.com/cdarwin/go-koans)
-* [The Go Tutorial](http://tour.golang.org/)
+* [The Go Tutorial](http://tour.golang.org)
 
 
 ### Haskell
@@ -96,7 +96,7 @@
 
 * [CSS Diner](http://flukeout.github.io)
 * [Flexbox Froggy](http://flexboxfroggy.com)
-* [Learn by doing beginner projects](https://dash.generalassemb.ly/)
+* [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/skills/make-a-website)
 
@@ -146,7 +146,7 @@
 ### NoSQL
 
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
-* [Try MongoDB](https://university.mongodb.com/)
+* [Try MongoDB](https://university.mongodb.com)
 * [Try Redis](http://try.redis.io)
 
 
@@ -189,7 +189,7 @@
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
-* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
+* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
 

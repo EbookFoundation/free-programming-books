@@ -79,7 +79,7 @@
 ### Language Agnostic
 
 * [Podcast] - [Frontside the Podcast](https://frontsidethepodcast.simplecast.fm)
-* [Podcast] - [Full Stack Radio](http://www.fullstackradio.com/)
+* [Podcast] - [Full Stack Radio](http://www.fullstackradio.com)
 * [Podcast] - [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing)
 * [Podcast] - [Programming Throwdown](http://www.programmingthrowdown.com)
 * [Podcast] - [Shop Talk Show](http://shoptalkshow.com)
@@ -100,14 +100,14 @@
 * [Podcast] - [PHP Roundtable](https://www.phproundtable.com)
 * [Podcast] - [PHP Town Hall](http://phptownhall.com)
 * [Podcast] - [Sound of Symfony](http://www.soundofsymfony.com)
-* [Podcast] - [Voices of the ElePHPant](https://voicesoftheelephpant.com/)
+* [Podcast] - [Voices of the ElePHPant](https://voicesoftheelephpant.com)
 
 
 ### Python
 
 * [Podcast] - [Podcast.__init__](http://podcastinit.com)
 * [Podcast] - [Python Test Podcast](http://pythontesting.net/test-podcast)
-* [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm/)
+* [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm)
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
 * [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Screencast] - [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq)
@@ -120,7 +120,7 @@
 ### Ruby
 
 * [Podcast] - [5by5 - Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
-* [Podcast] - [ENVY LABS - Ruby5](https://ruby5.codeschool.com/)
+* [Podcast] - [ENVY LABS - Ruby5](https://ruby5.codeschool.com)
 * [Podcast] - [Ruby Rogues](https://devchat.tv/ruby-rogues/)
 * [Podcast] - [The Bike Shed](http://bikeshed.fm)
 * [Podcast] - [The Ruby Show](http://rubyshow.com)

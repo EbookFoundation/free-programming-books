@@ -56,7 +56,7 @@
 
 ### C++
 
-* [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de/)
+* [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 

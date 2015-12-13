@@ -66,9 +66,9 @@
 * [CodeSchool](https://www.codeschool.com)
 * [Codecademy](https://www.codecademy.com/?locale_code=zh)
 * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
-* [Learn X in Y minutes](https://learnxinyminutes.com/) (数十种语言快速入门教程)
+* [Learn X in Y minutes](https://learnxinyminutes.com) (数十种语言快速入门教程)
 * [shiyanlou](https://www.shiyanlou.com)
-* [TeamTreeHouse](https://teamtreehouse.com/)
+* [TeamTreeHouse](https://teamtreehouse.com)
 * [Udacity](https://www.udacity.com)
 * [xuetangX](https://www.xuetangx.com)
 * [慕课网](http://www.imooc.com/course/list) (丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源)
@@ -138,7 +138,7 @@
 
 ### 数据库
 
-* [Redis 设计与实现](http://redisbook.com/)
+* [Redis 设计与实现](http://redisbook.com)
 * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 
 
@@ -192,7 +192,7 @@
 
 * [NoSQL数据库笔谈](http://yankaycom-wordpress.stor.sinaapp.com/NoSql_Database_Note.html?q=/wp-content/NoSql_Database_Note.html) ([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
 * [Redis 设计与实现](http://redisbook.com)
-* [Redis 命令参考](http://redisdoc.com/)
+* [Redis 命令参考](http://redisdoc.com)
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
@@ -402,7 +402,7 @@
 
 ### Haskell
 
-* [Haskell 趣学指南](http://learnyoua.haskell.sg/)
+* [Haskell 趣学指南](http://learnyoua.haskell.sg)
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
 
@@ -620,7 +620,7 @@
 ### Scheme
 
 * [Scheme 入门教程](http://deathking.github.io/yast-cn/) (《Yet Another Scheme Tutorial》中文版)
-* [算法语言Scheme修订<sup>6</sup>报告](https://r6rs.mrliu.org/)（R<sup>6</sup>RS简体中文翻译）
+* [算法语言Scheme修订<sup>6</sup>报告](https://r6rs.mrliu.org)（R<sup>6</sup>RS简体中文翻译）
 
 
 ### Shell

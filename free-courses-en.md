@@ -196,7 +196,7 @@
 
 ### Ruby
 
-* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
+* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 
 ### Sails.Js

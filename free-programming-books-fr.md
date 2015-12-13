@@ -54,7 +54,7 @@
 * [Complexité algorithmique](http://www.liafa.univ-paris-diderot.fr/~sperifel/livre_complexite.html) - Sylvain Perifel
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) - D. Beauquier, J. Berstel, et Ph. Chrétienne (PDF)
 * [France-IOI](http://www.france-ioi.org)
-* [Prologin](https://prologin.org/)
+* [Prologin](https://prologin.org)
 
 
 #### Logiciels libres

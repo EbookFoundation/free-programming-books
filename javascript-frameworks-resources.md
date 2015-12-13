@@ -15,7 +15,7 @@
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [AngularJS with Ruby on Rails](http://angular-rails.com)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
-* [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io/)
+* [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 * [Mastering AngularJS Directives](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
 * [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*

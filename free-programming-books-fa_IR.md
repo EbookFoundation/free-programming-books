@@ -42,7 +42,7 @@
 
 ### PHP
 
-* [آموزش فریمورک لاراول](http://www.laravel.ir/)
+* [آموزش فریمورک لاراول](http://www.laravel.ir)
 
 
 ### Python

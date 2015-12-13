@@ -146,7 +146,6 @@
 ### NoSQL
 
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
-* [Try MongoDB](https://university.mongodb.com)
 * [Try Redis](http://try.redis.io)
 
 

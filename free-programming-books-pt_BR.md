@@ -82,10 +82,17 @@
 ### Java
 
 * [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/)
+* [Desenvolvimento Web Avançado com JSF 2, EJB 3.1 e CDI - k19](http://www.k19.com.br/downloads/apostilas/java/k19-k22-desenvolvimento-web-avancado-com-jsf2-ejb3.1-e-cdi)
+* [Desenvolvimento Web com JSF 2 e JPA 2 - K19](http://www.k19.com.br/downloads/apostilas/java/k19-k12-desenvolvimento-web-com-jsf2-e-jpa2)
+* [Desenvolvimento Web com Struts - K19](http://www.k19.com.br/downloads/apostilas/java/k19-k52-desenvolvimento-web-com-struts)
+* [Design Patterns em Java - K19](http://www.k19.com.br/downloads/apostilas/java/k19-k51-design-patterns-em-java)
+* [Integração de Sistemas com Webservices, JMS e EJB - K19](http://www.k19.com.br/downloads/apostilas/java/k19-k23-integracao-de-sistemas-com-webservices-jms-e-ejb)
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf) (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/)
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/)
 * [Lab. Java com Testes, JSF e Design Patterns](https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/)
+* [Orientação a objetos em Java - K19](http://www.k19.com.br/downloads/apostilas/java/k19-k11-orientacao-a-objetos-em-java)
+* [Persistência com JPA 2 e Hibernate - k19](http://www.k19.com.br/downloads/apostilas/java/k19-k21-persistencia-com-jpa2-e-hibernate)
 * [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/)
 
 

@@ -3,7 +3,7 @@
 * [Android](#android)
 * [Angular JS](#angularjs)
 * [C#](#csharp)
-* [C++](#c++)
+* [C++](#c-1)
 * [CSS](#css)
 * [Elixir](#elixir)
 * [Emacs](#emacs)

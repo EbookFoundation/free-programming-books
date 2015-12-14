@@ -4,6 +4,8 @@
 * [C](#c)
 * [C++](#cpp)
 * [C#](#csharp)
+* [Engenharia de software](#engenharia-de-software)
+  * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
@@ -17,13 +19,11 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
-* [Account Required (Necessário ter conta)](#account-required)
-  * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 
 
 ### Android
 
-* [Desenvolvimento Mobile com Android - K19](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
+* [Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android) - K19
 
 
 ### C
@@ -46,6 +46,15 @@
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 * [C# e Orientação a Objetos](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k31-csharp-e-orientacao-a-objetos) - K19
 * [Desenvolvimento Web com ASP.NET MVC](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k32-desenvolvimento-web-com-aspnet-mvc) - K19
+
+
+### Engenharia de Software
+
+#### Metodologias de Desenvolvimento de Software
+
+* [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
+* [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
+* [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
 
 
 ### Git
@@ -146,12 +155,3 @@
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 * [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
 * [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
-
-
-### Account required
-
-#### Metodologias de Desenvolvimento de Software
-
-* [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
-* [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg)
-* [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)

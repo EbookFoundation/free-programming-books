@@ -23,11 +23,11 @@
 ### Niezależne od języka programowania
 
 * [W obronie wolności](http://stallman.helion.pl)
-* [Git](http://pl.wikibooks.org/wiki/Git)
-* [Pro Git](http://git-scm.com/book/pl)
-* [SVN](http://pl.wikibooks.org/wiki/Subversion)
+* [Git](https://pl.wikibooks.org/wiki/Git)
+* [Pro Git](http://git-scm.com/book/pl/)
+* [SVN](https://pl.wikibooks.org/wiki/Subversion)
 * [System kontroli wersji Subversion](http://svnbook.opensys.pl)
-* [Pisanie OS](http://pl.wikibooks.org/wiki/Pisanie_OS)
+* [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS)
 
 
 ### Android
@@ -38,8 +38,8 @@
 
 ### C
 
-* [Programowanie w C](http://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
-* [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/more_advanced/programing/c_cpp/)
+* [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
+* [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
 
 
 ### C++
@@ -61,7 +61,7 @@
 
 ### Haskell
 
-* [Haskell](http://pl.wikibooks.org/wiki/Haskell)
+* [Haskell](https://pl.wikibooks.org/wiki/Haskell)
 
 
 ### HTML
@@ -77,7 +77,7 @@
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
-* [JavaScript. I wszystko jasne](http://www.bt4.pl/kursy/javascript/wszystko-jasne/)
+* [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/)
 
 
 ### LaTeX
@@ -93,7 +93,7 @@
 
 ### PHP
 
-* [PHP](http://pl.wikibooks.org/wiki/PHP)
+* [PHP](https://pl.wikibooks.org/wiki/PHP)
 * [PHP: The Right Way](http://pl.phptherightway.com)
 * [Kurs PHP](http://phpkurs.pl)
 
@@ -106,13 +106,13 @@
 ### Python
 
 * [Ukąś Pythona](http://python.edu.pl/byteofpython/index.html)
-* [Zanurkuj w Pythonie](http://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
+* [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 * [Biblioteka Pythona](http://www.python.rk.edu.pl)
 
 
 ### Ruby
 
-* [Ruby](http://pl.wikibooks.org/wiki/Ruby)
+* [Ruby](https://pl.wikibooks.org/wiki/Ruby)
 
 
 ### Scala

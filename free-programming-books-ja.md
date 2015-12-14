@@ -78,7 +78,7 @@
 
 * [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAccessibility.pdf) - Apple Developer (PDF)
 * [Accessible Rich Internet Applications](https://developer.mozilla.org/ja/docs/ARIA/Accessible_Rich_Internet_Applications) - MDN
-* [アクセシビリティのための設計](http://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
+* [アクセシビリティのための設計](https://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
 
 
 #### 機械学習
@@ -104,7 +104,7 @@
 * [GLUTによる「手抜き」OpenGL入門](http://www.wakayama-u.ac.jp/~tokoi/opengl/libglut.html) - 床井浩平
 * [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
 * [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/OpenGLES_ProgrammingGuide.pdf) - Apple Developer (PDF)
-* [DirectX を使った初めての Windows ストア アプリの作成](http://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
+* [DirectX を使った初めての Windows ストア アプリの作成](https://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
 
 
 #### グラフィックユーザーインターフェイス
@@ -116,7 +116,7 @@
 #### 正規表現
 
 * [正規表現メモ](http://www.kt.rim.or.jp/~kbk/regex/regex.html) - 木村浩一
-* [.NET Framework の正規表現](http://msdn.microsoft.com/ja-jp/library/vstudio/hs600312.aspx) - MSDN Library
+* [.NET Framework の正規表現](https://msdn.microsoft.com/library/hs600312.aspx) - MSDN Library
 
 
 #### セキュリティ
@@ -195,7 +195,7 @@
 
 * [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - id:nobuoka
 * [コントリビュータのためのAndroidコードスタイルガイドライン 日本語訳](http://www.textdrop.net/android/code-style-ja.html) - Android Open Source Project, Takashi Sasai(翻訳)
-* [Androidアプリのセキュア設計・セキュアコーディングガイド](http://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
+* [Androidアプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 * [Android Open Text book](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 
 
@@ -210,7 +210,7 @@
 
 * [Bash基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - id:nattou\_curry
 * [UNIX & Linux コマンド・シェルスクリプト リファレンス](http://shellscript.sunone.me) - SUNONE
-* [BASH Programming - Introduction HOW-TO](http://linuxjf.sourceforge.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - Mike G, 千旦裕司(翻訳)
+* [BASH Programming - Introduction HOW-TO](http://linuxjf.osdn.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - Mike G, 千旦裕司(翻訳)
 
 
 ### C
@@ -218,7 +218,7 @@
 * [Ｃプログラミング診断室](http://www.pro.or.jp/~fuji/mybooks/cdiag/index.html) - 藤原博文
 * [猫でもわかるプログラミング](http://kumei.ne.jp/c_lang/) - 粂井康孝
 * [計算物理のためのC/C++言語入門](http://www-cms.phys.s.u-tokyo.ac.jp/~naoki/CIPINTRO/) - 渡辺尚貴
-* [C言語](http://ja.wikibooks.org/wiki/C%E8%A8%80%E8%AA%9E) - Wikibooks
+* [C言語](https://ja.wikibooks.org/wiki/C%E8%A8%80%E8%AA%9E) - Wikibooks
 * [C言語プログラミング入門](http://densan-labs.net/tech/clang/) - @nishio\_dens
 * [ゲーム作りで学ぶ！実践的C言語プログラミング](http://densan-labs.net/tech/game/) - @nishio\_dens
 
@@ -227,8 +227,8 @@
 
 * [C++入門](http://www.asahi-net.or.jp/~yf8k-kbys/newcpp0.html) - 小林健一郎
 * [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/) - ロベール
-* [cpprefjp - C++ Reference Site in Japanese](http://cpprefjp.github.io)
-* [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.com/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
+* [cpprefjp - C++ Reference Site in Japanese](https://cpprefjp.github.io)
+* [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
 * [Google C++スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/cppguide.xml) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, Takashi Sasai(翻訳)
 * [Standard Template Library プログラミング](http://episteme.wankuma.com/stlprog/) - επιστημη
 
@@ -296,13 +296,13 @@
 ### Gradle
 
 * [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs/) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf))
-* [ビルドツールGradleスタートアップガイドの紹介](http://www.ntts.co.jp/publish/column/tec/java_03/) - 鈴木雅貴
+* [ビルドツールGradleスタートアップガイドの紹介](https://www.ntts.co.jp/column/tec/java_03/) - 鈴木雅貴
 
 
 ### Grails
 
 * [Grailsフレームワーク 日本語リファレンス](http://grails.jp/doc/latest/) - T.Yamamoto & Japanese Grails Doc Translating Team. Special thanks to NTT Software.
-* [Grailsを用いたファイルアップローダ作成](http://www.ntts.co.jp/publish/column/tec/java_02/) - 須藤悠
+* [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/) - 須藤悠
 
 
 ### Spock Framework
@@ -343,7 +343,7 @@
 
 * [JavaScript基礎文法最速マスター](http://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
-* [JavaScript 言語リファレンス](http://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
+* [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [JavaScript Programming](http://www.geocities.jp/m_hiroi/light/javascript.html) - 広井誠
 * [一撃必殺JavaScript日本語リファレンス](http://www.openspc2.org/JavaScript/) - 古籏一浩
 * [JavaScript によるイベントドリブン](https://github.com/hatena/Hatena-Textbook/blob/master/javascript-event-driven.md) - はてな教科書
@@ -380,14 +380,14 @@
 
 * [TeX入門 TeX Wiki](http://oku.edu.mie-u.ac.jp/~okumura/texwiki/?TeX%E5%85%A5%E9%96%80) - 奥村晴彦
 * [TeX入門](http://www.comp.tmu.ac.jp/tsakai/lectures/intro_tex.html) - 酒井高司
-* [TeX/LaTeX入門](http://ja.wikibooks.org/wiki/TeX/LaTeX%E5%85%A5%E9%96%80) - Wikibooks
+* [TeX/LaTeX入門](https://ja.wikibooks.org/wiki/TeX/LaTeX%E5%85%A5%E9%96%80) - Wikibooks
 
 
 ### Linux
 
 * [Linux Device Driver](http://www.mech.tohoku-gakuin.ac.jp/rde/contents/linux/drivers/indexframe.html) - 熊谷正朗
-* [Secure Programming for Linux and Unix HOWTO](http://linuxjf.sourceforge.jp/JFdocs/Secure-Programs-HOWTO/) - David A. Wheeler, 高橋聡(翻訳)
-* [Linux from Scratch (Version 7.4)](http://lfsbookja.sourceforge.jp/7.4.ja/) - Gerard Beekmans, 松山道夫(翻訳)
+* [Secure Programming for Linux and Unix HOWTO](http://linuxjf.osdn.jp/JFdocs/Secure-Programs-HOWTO/) - David A. Wheeler, 高橋聡(翻訳)
+* [Linux from Scratch (Version 7.4)](http://lfsbookja.osdn.jp/7.4.ja/) - Gerard Beekmans, 松山道夫(翻訳)
 
 
 ### Lua
@@ -400,7 +400,7 @@
 ### Maven
 
 * [Maven](http://www.techscore.com/tech/Java/ApacheJakarta/Maven/) - シナジーマーケティング株式会社
-* [What is Maven?](https://github.com/eller86/what-is-maven) - Kengo TODA
+* [What is Maven?](https://github.com/KengoTODA/what-is-maven) - Kengo TODA
 
 
 ### Mercurial
@@ -441,7 +441,7 @@
 * [Perl基礎文法最速マスター](http://d.hatena.ne.jp/perlcodesample/20091226/1264257759) - 木本裕紀
 * [Perlのコアドキュメント](http://perldoc.jp/index/core) - 一般社団法人 Japan Perl Association (JPA)
 * [2時間半で学ぶPerl](http://qntm.org/files/perl/perl_jp.html) - Sam Hughes, Kato Atsusi(翻訳)
-* [Perl](http://ja.wikibooks.org/wiki/Perl) - Wikibooks
+* [Perl](https://ja.wikibooks.org/wiki/Perl) - Wikibooks
 * [Perl によるオブジェクト指向プログラミング](https://github.com/hatena/Hatena-Textbook/blob/master/oop-for-perl.md) - はてな教科書
 * [Perlでのデータベース操作](https://github.com/hatena/Hatena-Textbook/blob/master/db-control-by-dbi.md) - はてな教科書
 * [MVC によるウェブアプリケーション開発 (Plack を使った開発)](https://github.com/hatena/Hatena-Textbook/blob/master/mvc-web-application-with-plack.md) - はてな教科書
@@ -460,7 +460,7 @@
 ### PowerShell
 
 * [PowerShell基礎文法最速マスター](http://winscript.jp/powershell/202) - 牟田口大介
-* [Windows PowerShell コア](http://technet.microsoft.com/ja-jp/library/bb978525.aspx) - Microsoft TechNet
+* [Windows PowerShell コア](https://technet.microsoft.com/ja-jp/library/bb978525.aspx) - Microsoft TechNet
 
 
 ### Processing
@@ -539,7 +539,7 @@
 ### Scala
 
 * [Effective Scala](http://twitter.github.io/effectivescala/index-ja.html)
-* [Learning Scalaz](http://eed3si9n.com/learning-scalaz/ja)
+* [Learning Scalaz](http://eed3si9n.com/learning-scalaz/ja/)
 * [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 
 
@@ -547,7 +547,7 @@
 
 * [Gauche ユーザリファレンス](http://practical-scheme.net/gauche/man/gauche-refj.html) - 川合史朗
 * [お気楽 Scheme プログラミング入門](http://www.geocities.jp/m_hiroi/func/scheme.html) - 広井誠
-* [Scheme](http://ja.wikibooks.org/wiki/Scheme) - Wikibooks
+* [Scheme](https://ja.wikibooks.org/wiki/Scheme) - Wikibooks
 * [もうひとつの Scheme 入門](http://www.shido.info/lisp/idx_scm.html) - 紫藤貴文
 * [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html) - 犬飼大
 * [Scheme入門 スーパービギナー編](https://sites.google.com/site/atponslisp/home/scheme/racket/schemenyuumon-1/schemenyuumon)
@@ -598,7 +598,7 @@
 ### VBA
 
 * [VBA基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100129/1264787849) - id:nattou\_curry
-* [Office 2013 Visual Basic for Applications 言語リファレンス](http://msdn.microsoft.com/ja-jp/library/office/gg264383.aspx) - MSDN Library
+* [Office 2013 Visual Basic for Applications 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/office/gg264383.aspx) - MSDN Library
 * [Excel 2013 で学ぶ Visual Basic for Applications (VBA)](http://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/vba2013/index.html) - 金丸隆志
 
 

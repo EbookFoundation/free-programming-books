@@ -25,12 +25,12 @@
 
 ### Bash
 
-* [Bash očima Bohdana Milara](http://www.root.cz/knihy/bash-ocima-bohdana-milara/stahnout/980/) (PDF)
+* [Bash očima Bohdana Milara](http://i.iinfo.cz/files/root/k/bash_ocima_bohdana_milara.pdf) (PDF)
 
 
 ### Java
 
-* [Java 5.0, novinky jazyka a upgrade aplikací](http://www.root.cz/knihy/java-5-0-novinky-jazyka-a-upgrade-aplikaci/stahnout/1037/) (PDF)
+* [Java 5.0, novinky jazyka a upgrade aplikací](http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf) (PDF)
 
 
 ### Git
@@ -47,7 +47,7 @@
 
 #### Algoritmy a datové struktury
 
-* [Základy algoritmizace](http://www.root.cz/knihy/zaklady-algoritmizace/stahnout/950/) (PDF)
+* [Základy algoritmizace](http://i.iinfo.cz/files/root/k/Zaklady_algorimizace.pdf) (PDF)
 
 
 #### Bezpečnost
@@ -113,12 +113,12 @@
 ### Python
 
 * [Ponořme se do Pythonu 3](https://knihy.nic.cz) - Mark Pilgrim (PDF)
-* [Učebnice jazyka Python](http://www.root.cz/knihy/ucebnice-jazyka-python/stahnout/920/) (PDF)
+* [Učebnice jazyka Python](http://i.iinfo.cz/files/root/k/Ucebnice_jazyka_Python.pdf) (PDF)
 
 
 ### Ruby
 
-* [Ruby Tutoriál](http://www.root.cz/knihy/ruby-tutorial/stahnout/924/) (PDF)
+* [Ruby Tutoriál](http://i.iinfo.cz/files/root/k/Ruby_tutorial.pdf) (PDF)
 
 
 ### TeX

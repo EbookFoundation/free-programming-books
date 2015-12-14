@@ -20,7 +20,6 @@
 ### GIT
 
 * [Pro Git 한글 번역](http://git-scm.com/book/ko/)
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
 * [Git - 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
 * [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
 

@@ -74,7 +74,7 @@
 
 ### Assembly
 
-* [Ассемблер в Linux для программистов C](http://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
+* [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) (PDF)
 * [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
@@ -129,7 +129,7 @@
 
 ### Git
 
-* [Pro Git](http://git-scm.com/book/ru)
+* [Pro Git](http://git-scm.com/book/ru/)
 * [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 
@@ -228,7 +228,7 @@
 
 * [Ruby за двадцать минут](https://www.ruby-lang.org/ru/documentation/quickstart/)
 * [Ruby](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
-* [Ruby](http://ru.wikibooks.org/wiki/Ruby) - Викиучебник
+* [Ruby](https://ru.wikibooks.org/wiki/Ruby) - Викиучебник
 * [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн
 
 

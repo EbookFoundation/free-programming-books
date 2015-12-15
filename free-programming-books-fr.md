@@ -1,7 +1,7 @@
 ### Index
 
-* [Méta-listes](#méta-listes)
-* [Non dépendant du langage](#non-dépendant-du-langage)
+* [0 - Méta-listes](#0-méta-listes)
+* [1 - Non dépendant du langage](#1-non-dépendant-du-langage)
   * [Algorithmique](#algorithmique)
   * [Logiciels libres](#logiciels-libres)
   * [Makefile](#makefile)
@@ -41,12 +41,12 @@
 * [Vim](#vim)
 
 
-### Méta-listes
+### 0 - Méta-listes
 
 * [Le SILO: Sciences du numérique &amp; Informatique au Lycée: Oui!](https://wiki.inria.fr/sciencinfolycee/Accueil)
 
 
-### Non dépendant du langage
+### 1 - Non dépendant du langage
 
 #### Algorithmique
 
@@ -156,10 +156,10 @@
 
 #### LaTeX
 
-* [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
 * [Détecter et résoudre les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du LaTeX Companion 2006, par Frank Mittelbach et Michel Goossens, mis à disposition par l'éditeur dans l'onglet « Compléments »
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
+* [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
 
 
 #### Asymptote

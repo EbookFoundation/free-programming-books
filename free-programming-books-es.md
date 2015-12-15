@@ -1,7 +1,7 @@
 ### Index
 
-* [Metalistas](#metalistas)
-* [Agnósticos](#agn%C3%B3sticos)
+* [0 - Metalistas](#0-metalistas)
+* [1 - Agnósticos](#1-agn%C3%B3sticos)
   * [Algoritmos y Estructuras de Datos](#algoritmos)
   * [Base de Datos](#base-de-datos)
   * [Ciencia Computacional](#ciencia-computacional)
@@ -13,20 +13,20 @@
 * [Android](#android)
 * [C](#c)
 * [C++](#c-1)
-* [CSS](#CSS)
-* [HTML5](#HTML5)
 * [Coffeescript](#coffeescript)
+* [CSS](#CSS)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
 * [Git](#git)
 * [Haskell](#haskell)
+* [HTML5](#HTML5)
+* [Java](#java)
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
   * [D3](#d3js)
   * [jQuery](#jquery)
   * [node.js](#nodejs)
-* [Java](#java)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
@@ -45,14 +45,14 @@
 * [SVG](#svg)
 
 
-### Metalistas
+### 0 - Metalistas
 
 * [¡Quiero Aprender Python! - Python Argentina](http://python.org.ar/wiki/AprendiendoPython)
 * [CodeHero](http://codehero.co)
 * [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
 
 
-### Agnósticos
+### 1 - Agnósticos
 
 #### Algoritmos
 
@@ -267,9 +267,9 @@
 ### Perl
 
 * [Manual de Perl](http://www6.uniovi.es/perl/tutor/) - Universidad de Oviedo, España
+* [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm) - Universidad de Granada, España
 * [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) - TLDP (PDF)
 * [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) - Universidad de Magallanes, Chile (PDF)
-* [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm) - Universidad de Granada, España
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/)
 
 

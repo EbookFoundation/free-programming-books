@@ -104,8 +104,8 @@
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
-* [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 * [Learn Java](http://www.learnjavaonline.org)
+* [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
 
 ### JavaScript
@@ -116,9 +116,9 @@
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [Javascripting](https://github.com/sethvincent/javascripting)
-* [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
+* [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
 
 

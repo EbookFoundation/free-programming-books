@@ -23,38 +23,38 @@
 
 ### Android
 
-* [Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
+* [Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android) - K19
 
 
 ### C
 
-* [Apostila Linguagem C - Silvio Lago](http://www.ime.usp.br/~slago/slago-C.pdf) (PDF)
+* [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
-* [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
+* [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
 
 
 ### CPP
 
-* [Apostila Linguagem C++ - Silvio Lago](http://www.ime.usp.br/~slago/slago-C++.pdf) (PDF)
+* [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf) (PDF)
 
 
 ### CSharp
 
-* [C# e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)
-* [C# e Orientação a Objetos - K19](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k31-csharp-e-orientacao-a-objetos)
-* [Desenvolvimento Web com ASP.NET MVC - K19](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k32-desenvolvimento-web-com-aspnet-mvc)
+* [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
+* [C# e Orientação a Objetos](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k31-csharp-e-orientacao-a-objetos) - K19
+* [Desenvolvimento Web com ASP.NET MVC](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k32-desenvolvimento-web-com-aspnet-mvc) - K19
 
 
 ### Engenharia de Software
 
 #### Metodologias de Desenvolvimento de Software
 
-* [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
-* [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg)
-* [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
+* [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
+* [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
+* [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
 
 
 ### Git
@@ -74,26 +74,26 @@
 
 * [Curso de HTML5 em vídeo do Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 * [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
-* [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/)
+* [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br)
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
 
 
 ### Java
 
-* [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/)
-* [Desenvolvimento Web Avançado com JSF 2, EJB 3.1 e CDI - k19](http://www.k19.com.br/downloads/apostilas/java/k19-k22-desenvolvimento-web-avancado-com-jsf2-ejb3.1-e-cdi)
-* [Desenvolvimento Web com JSF 2 e JPA 2 - K19](http://www.k19.com.br/downloads/apostilas/java/k19-k12-desenvolvimento-web-com-jsf2-e-jpa2)
-* [Desenvolvimento Web com Struts - K19](http://www.k19.com.br/downloads/apostilas/java/k19-k52-desenvolvimento-web-com-struts)
-* [Design Patterns em Java - K19](http://www.k19.com.br/downloads/apostilas/java/k19-k51-design-patterns-em-java)
-* [Integração de Sistemas com Webservices, JMS e EJB - K19](http://www.k19.com.br/downloads/apostilas/java/k19-k23-integracao-de-sistemas-com-webservices-jms-e-ejb)
+* [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/) - Caelum
+* [Desenvolvimento Web Avançado com JSF 2, EJB 3.1 e CDI](http://www.k19.com.br/downloads/apostilas/java/k19-k22-desenvolvimento-web-avancado-com-jsf2-ejb3.1-e-cdi) - k19
+* [Desenvolvimento Web com JSF 2 e JPA 2](http://www.k19.com.br/downloads/apostilas/java/k19-k12-desenvolvimento-web-com-jsf2-e-jpa2) - K19
+* [Desenvolvimento Web com Struts](http://www.k19.com.br/downloads/apostilas/java/k19-k52-desenvolvimento-web-com-struts) - K19
+* [Design Patterns em Java](http://www.k19.com.br/downloads/apostilas/java/k19-k51-design-patterns-em-java) - K19
+* [Integração de Sistemas com Webservices, JMS e EJB](http://www.k19.com.br/downloads/apostilas/java/k19-k23-integracao-de-sistemas-com-webservices-jms-e-ejb) - K19
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf) (PDF)
-* [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/)
-* [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/)
-* [Lab. Java com Testes, JSF e Design Patterns](https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/)
-* [Orientação a objetos em Java - K19](http://www.k19.com.br/downloads/apostilas/java/k19-k11-orientacao-a-objetos-em-java)
-* [Persistência com JPA 2 e Hibernate - k19](http://www.k19.com.br/downloads/apostilas/java/k19-k21-persistencia-com-jpa2-e-hibernate)
-* [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/)
+* [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
+* [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
+* [Lab. Java com Testes, JSF e Design Patterns](https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/) - Caelum
+* [Orientação a objetos em Java](http://www.k19.com.br/downloads/apostilas/java/k19-k11-orientacao-a-objetos-em-java) - K19
+* [Persistência com JPA 2 e Hibernate](http://www.k19.com.br/downloads/apostilas/java/k19-k21-persistencia-com-jpa2-e-hibernate) - K19
+* [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/) - Caelum
 
 
 ### JavaScript
@@ -140,18 +140,18 @@
 * [Conhecendo Ruby](http://howtocode.com.br/ebooks/ruby)
 * [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
-* [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
+* [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/) - Caelum
 
 
 ### Shell
 
-* [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) (PDF)
+* [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script ](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 
 
 ### Vim
 
-* [Vim Básico](http://aurelio.net/vim/vim-basico.txt)
-* [Vim Médio](http://aurelio.net/vim/vim-medio.txt)
-* [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt)
-* [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html)
+* [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
+* [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
+* [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
+* [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas

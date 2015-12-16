@@ -62,6 +62,7 @@
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
 * [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
+* [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
 * [Pro Git](http://git-scm.com/book/pt-br/)
 
 

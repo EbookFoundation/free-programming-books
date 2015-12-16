@@ -1,6 +1,6 @@
 ### Index
 
-* [Programozási nyelv független](#programozasi-nyelv-fuggetlen)
+* [0 - Programozási nyelv független](#0---programozasi-nyelv-fuggetlen)
 * [Ada](#ada)
 * [Arduino](#arduino)
 * [C++](#c)
@@ -15,7 +15,7 @@
 * [Windows Phone](#windows-phone)
 
 
-### Programozási nyelv független
+### 0 - Programozási nyelv független
 
 * [A hitelesítés-szolgáltatókkal szembeni bizalom erősítése](http://mek.oszk.hu/03900/03943/index.phtml) - Várnai Róbert (PDF)
 * [Adatmodellezés](http://mek.oszk.hu/11100/11144/index.phtml) - Halassy Béla (Word, PDF)

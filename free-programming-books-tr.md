@@ -76,8 +76,8 @@
 
 ### Html
 
-* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
 * [Html'e Giriş](http://www.htmldersleri.org)
+* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
 
 
 ### iOS
@@ -87,8 +87,8 @@
 
 ### Java
 
-* [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
 * [Java 8 Kitabı](http://kodcu.com/java-8-ebook/)
+* [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
 
 
 ### JavaScript

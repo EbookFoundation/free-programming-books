@@ -1,6 +1,6 @@
 ### Index
 
-* [0 - Niezależne od języka programowania](#0-niezale%C5%BCne-od-j%C4%99zyka-programowania)
+* [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
 * [Android](#android)
 * [C](#c)
 * [C++](#c-1)

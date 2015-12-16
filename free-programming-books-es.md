@@ -1,7 +1,7 @@
 ### Index
 
-* [0 - Metalistas](#0-metalistas)
-* [1 - Agnósticos](#1-agn%C3%B3sticos)
+* [0 - Metalistas](#0---metalistas)
+* [1 - Agnósticos](#1---agn%C3%B3sticos)
   * [Algoritmos y Estructuras de Datos](#algoritmos)
   * [Base de Datos](#base-de-datos)
   * [Ciencia Computacional](#ciencia-computacional)

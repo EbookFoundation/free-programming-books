@@ -1,6 +1,6 @@
 ### Index
 
-* [0 - Agnostico](#0-agnostico)
+* [0 - Agnostico](#0---agnostico)
   * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
   * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
 * [Android](#android)

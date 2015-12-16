@@ -1,6 +1,6 @@
 ### Index
 
-* [0 - Programozási nyelv független](#0-programozasi-nyelv-fuggetlen)
+* [0 - Programozási nyelv független](#0---programozasi-nyelv-fuggetlen)
 * [Ada](#ada)
 * [Arduino](#arduino)
 * [C++](#c)

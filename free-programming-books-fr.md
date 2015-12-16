@@ -1,7 +1,7 @@
 ### Index
 
-* [0 - Méta-listes](#0-méta-listes)
-* [1 - Non dépendant du langage](#1-non-dépendant-du-langage)
+* [0 - Méta-listes](#0---méta-listes)
+* [1 - Non dépendant du langage](#1---non-dépendant-du-langage)
   * [Algorithmique](#algorithmique)
   * [Logiciels libres](#logiciels-libres)
   * [Makefile](#makefile)

@@ -1468,7 +1468,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Mercurial
 
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com)
-* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) -
+* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)
 
 
 ### Mercury
@@ -1484,8 +1484,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Neo4J
 
-* [Graph Databases](http://info.neotechnology.com/rs/neotechnology/images/GraphDatabases.pdf) (v.1 - PDF)
-* [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) (v.2 - just require to send some personnal data)
+* [Graph Databases](http://info.neotechnology.com/rs/neotechnology/images/GraphDatabases.pdf) (PDF)
+* [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) *(account required)*
 
 
 ### .NET Framework

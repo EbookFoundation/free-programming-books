@@ -1613,19 +1613,20 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * Laravel Framework
   * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/laravel-5)
   * [Laravel: Code Bright](http://daylerees.com/codebright)
-  * [Official Documentation (Offline Version)](https://leanpub.com/laravel-4_2-docs)
-* [PHP 5 Power Programming](http://ptgmedia.pearsoncmg.com/images/013147149X/downloads/013147149X_book.pdf) (PDF)
+  * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled)
+  * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
+* [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
 * [PHP Internals Book](http://www.phpinternalsbook.com)
 * [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming)
 * [PHP Security Guide](http://phpsec.org/projects/guide/)
 * [PHP: The Right Way](http://www.phptherightway.com)
-* [Practical PHP Programming](http://www.hackingwithphp.com) (wiki containing O'Reilly's *PHP In a Nutshell*)
+* [Practical PHP Programming](http://www.hackingwithphp.com)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
-* [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium) - libsodium PHP extension for modern, secure, and fast cryptography
+* [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
 
 ### PicoLisp

@@ -35,6 +35,7 @@
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
 
+
 ### CPP
 
 * [Apostila Linguagem C++ - Silvio Lago](http://www.ime.usp.br/~slago/slago-C++.pdf) (PDF)
@@ -111,6 +112,7 @@
 * [A semana PHP](http://asemanaphp.com.br).
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
+
 
 ### Python
 

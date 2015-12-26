@@ -1,20 +1,19 @@
 ### Index
 
-* [Списки книг](#meta-lists)
-* [Language Agnostic](#language-agnostic)
-  * [Облачные Вычисления](#Облачные-вычисления)
-  * [Работа c cетью](#Работа-с-сетью)
+* [0 - Language Agnostic](#1-language-agnostic)
   * [Open Source Ecosystem](#open-source-ecosystem)
+  * [Облачные Вычисления](#Облачные-вычисления)
   * [Парадигмы Программирования](#Парадигмы-программирования)
+  * [Работа c cетью](#Работа-с-сетью)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
+* [Erlang](#erlang)
 * [Git](#git)
 * [Go](#go)
-* [Erlang](#erlang)
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -27,8 +26,8 @@
 * [Objective-C](#objective-c)
 * [Perl](#perl)
 * [PHP](#php)
-* [Python](#python)
 * [PostgreSQL](#postgresql)
+* [Python](#python)
 * [R](#r)
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
@@ -43,7 +42,7 @@
 * [Параллельные технологии](#parallel)
 
 
-### Language Agnostic
+### 0 - Language Agnostic
 
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF)
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
@@ -68,16 +67,16 @@
 
 #### Парадигмы программирования
 
-* [Введение в функциональное программирование](https://code.google.com/p/funprog-ru/) - John Harrison
+* [Введение в функциональное программирование](http://funprog-ru.github.io) - John Harrison
 * [Практика функционального программирования](http://fprog.ru) - журнал
 
 
 ### Assembly
 
-* [Ассемблер в Linux для программистов C](http://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
+* [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
-* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) (PDF)
 * [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
+* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) (PDF)
 
 
 ### Bash
@@ -129,7 +128,7 @@
 
 ### Git
 
-* [Pro Git](http://git-scm.com/book/ru)
+* [Pro Git](http://git-scm.com/book/ru/)
 * [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 
@@ -180,8 +179,8 @@
 
 ### Objective-C
 
-* [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf) (PDF)
 * [Become an XCoder](https://yadi.sk/d/ugz7jW4RXLGTN)
+* [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf) (PDF)
 * [Цикл статей разработки под Apple iOS](http://habrahabr.ru/post/149090/)
 
 
@@ -201,10 +200,10 @@
 
 ### Python
 
+* [Problem Solving with Algorithms and Data Structures](http://aliev.me/runestone/)
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
-* [Problem Solving with Algorithms and Data Structures](http://aliev.me/runestone/)
 
 
 ### PostgreSQL
@@ -226,9 +225,9 @@
 
 ### Ruby
 
+* [Ruby](https://ru.wikibooks.org/wiki/Ruby) - Викиучебник
+* [Ruby Book](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
 * [Ruby за двадцать минут](https://www.ruby-lang.org/ru/documentation/quickstart/)
-* [Ruby](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
-* [Ruby](http://ru.wikibooks.org/wiki/Ruby) - Викиучебник
 * [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн
 
 

@@ -3,34 +3,34 @@
 * [Angular Basics](http://www.angularjsbook.com)
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
-* [Angular.js Guide](http://docs.angularjs.org/guide/)
+* [Angular.js Guide](https://docs.angularjs.org/guide/)
 * [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
-* [Angular.js Tutorial](http://docs.angularjs.org/tutorial)
+* [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
-* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
-* [AngularJS Insights](http://pascalprecht.github.com/slides/angularjs-insights/#/)
-* [AngularJS Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
+* [AngularJS Insights](http://pascalprecht.github.io/slides/angularjs-insights/#/)
+* [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [AngularJS with Ruby on Rails](http://angular-rails.com)
+* [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
-* [egghead.io: Learn AngularJS with Tutorial Videos & Training](http://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
-* [Mastering AngularJS Directives](http://pascalprecht.github.com/slides/mastering-angularjs-directives/)
+* [Mastering AngularJS Directives](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
 * [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
-* [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
+* [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 
 ## Backbone.js
 
-* [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
+* [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
 * [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis
 * [Backbone.js + Require.js, Modularization and Just in Time Dependency Loading, part 1](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) [part 2](http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep)
 * [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
-* [Backbonejs Tutorials](http://backbonetutorials.com)
+* [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
 * [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (work in progress)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
@@ -61,7 +61,7 @@
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [DockYard Ember.js Style Guide](https://github.com/dockyard/styleguides/blob/master/ember.md)
 * [Ember 101](http://ember101.com)
-* [Ember App with RailsApi](http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html)
+* [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [EmberFlare](https://emberflare.com)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
@@ -74,24 +74,24 @@
 
 ## jQuery
 
-* [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
+* [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
-* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
+* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 ## Knockout.js
 
-* [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Knockout.js Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * tech.pro: Knockout.js tutorial video series
-  * [Lesson 1 - Introduction](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
-  * [Lesson 2 - Initialising the application](http://tech.pro/tutorial/1563/knockoutjs-lesson-2-initialising-the-application)
-  * [Lesson 3 - Adding a viewModel](http://tech.pro/tutorial/1564/knockoutjs-lesson-3-adding-a-viewmodel)
-  * [Lesson 4 - Basic bindings](http://tech.pro/tutorial/1565/knockoutjs-lesson-4-basic-bindings)
-  * [Lesson 5 - Observable arrays](http://tech.pro/tutorial/1566/knockoutjs-lesson-5-observable-arrays)
-  * [Lesson 6 - The foreach binding](http://tech.pro/tutorial/1567/knockoutjs-lesson-6-the-foreach-binding)
-  * [Lesson 7 - The event binding](http://tech.pro/tutorial/1568/knockoutjs-lesson-7-the-event-binding)
-  * [Lesson 8 - The click binding](http://tech.pro/tutorial/1569/knockoutjs-lesson-8-the-click-binding)
-  * [Lesson 9 - Custom bindings](http://tech.pro/tutorial/1570/knockoutjs-lesson-9-custom-bindings)
+  * [Lesson  1 - Introduction](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
+  * [Lesson  2 - Initialising the application](http://tech.pro/tutorial/1563/knockoutjs-lesson-2-initialising-the-application)
+  * [Lesson  3 - Adding a viewModel](http://tech.pro/tutorial/1564/knockoutjs-lesson-3-adding-a-viewmodel)
+  * [Lesson  4 - Basic bindings](http://tech.pro/tutorial/1565/knockoutjs-lesson-4-basic-bindings)
+  * [Lesson  5 - Observable arrays](http://tech.pro/tutorial/1566/knockoutjs-lesson-5-observable-arrays)
+  * [Lesson  6 - The foreach binding](http://tech.pro/tutorial/1567/knockoutjs-lesson-6-the-foreach-binding)
+  * [Lesson  7 - The event binding](http://tech.pro/tutorial/1568/knockoutjs-lesson-7-the-event-binding)
+  * [Lesson  8 - The click binding](http://tech.pro/tutorial/1569/knockoutjs-lesson-8-the-click-binding)
+  * [Lesson  9 - Custom bindings](http://tech.pro/tutorial/1570/knockoutjs-lesson-9-custom-bindings)
   * [Lesson 10 - Computed Observables](http://tech.pro/tutorial/1571/knockoutjs-lesson-10-computed-observables)
   * [Lesson 11 - The visible binding](http://tech.pro/tutorial/1572/knockoutjs-lesson-11-the-visible-binding)
   * [Lesson 12 - The value binding](http://tech.pro/tutorial/1573/knockoutjs-lesson-12-the-value-binding)
@@ -106,17 +106,22 @@
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
 
+## Om
+
+* [Om Tutorial](http://awkay.github.io/om-tutorial/)
+
+
 ## React
 
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
-* [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/tutorial.html)
-* [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
-* [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial)
 * React Tutorial by Josh Finnie
   * [Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/)
   * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
+* [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/aspnet5.html)
+* [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
+* [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)

@@ -1827,9 +1827,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
 * [The R Manuals](http://cran.r-project.org/manuals.html)
-* [R in Action, Second Edition](http://file.allitebooks.com/20150911/R%20in%20Action,%20Second%20Edition.pdf)
-* [Hands-On Programming with R](http://file.allitebooks.com/20151128/Hands-On%20Programming%20with%20R.pdf)
-* [Statistical Computing in C++ and R](http://file.allitebooks.com/20150721/Statistical%20Computing%20in%20C++%20and%20R.pdf)
+* [R in Action, Second Edition](http://www.allitebooks.com/r-in-action-second-edition/)
+* [Hands-On Programming with R](http://www.allitebooks.com/hands-on-programming-with-r/)
+* [Statistical Computing in C++ and R](http://www.allitebooks.com/statistical-computing-in-c-and-r/)
 
 ### Racket
 

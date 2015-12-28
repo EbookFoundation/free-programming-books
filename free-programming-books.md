@@ -1812,6 +1812,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### R
 
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
+* [Hands-On Programming with R](http://www.allitebooks.com/hands-on-programming-with-r/) - Garrett Grolemund, Hadley Wickham
 * [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
 * [learnR](https://github.com/renkun-ken/learnR) - (Work in Progress) - Kun Ren
@@ -1819,17 +1820,16 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
 * [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
 * [R language for Programmers](http://www.johndcook.com/blog/r_language_for_programmers/) - John D. Cook
+* [R in Action, Second Edition](http://www.allitebooks.com/r-in-action-second-edition/) - Robert Kabacoff
 * [R packages](http://r-pkgs.had.co.nz) - Hadley Wickham
 * [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R Programming](https://en.wikibooks.org/wiki/R_Programming)
 * [R Programming for Data Science](https://leanpub.com/rprogramming) (Needs valid email)
 * [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Statistical Computing in C++ and R](http://www.allitebooks.com/statistical-computing-in-c-and-r/) - Ana Kupresanin, Randall L. Eubank
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
 * [The R Manuals](http://cran.r-project.org/manuals.html)
-* [R in Action, Second Edition](http://www.allitebooks.com/r-in-action-second-edition/)
-* [Hands-On Programming with R](http://www.allitebooks.com/hands-on-programming-with-r/)
-* [Statistical Computing in C++ and R](http://www.allitebooks.com/statistical-computing-in-c-and-r/)
 
 ### Racket
 

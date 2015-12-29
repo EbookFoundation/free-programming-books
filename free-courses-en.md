@@ -4,7 +4,7 @@
 * [AngularJS](#angularjs)
 * [Assembly](#assembly)
 * [C](#c)
-* [C#](#c-1)
+* [C#](#c-sharp)
 * [C++](#c-2)
 * [Clojure](#clojure)
 * [Databases](#databases)
@@ -57,7 +57,7 @@
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
 
 
-### C#
+### C Sharp
 
 * [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 

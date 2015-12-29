@@ -128,7 +128,7 @@
 
 ### Git
 
-* [Pro Git](http://git-scm.com/book/ru/)
+* [Pro Git](http://git-scm.com/book/ru/v2)
 * [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 

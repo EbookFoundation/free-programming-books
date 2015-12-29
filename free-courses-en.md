@@ -57,7 +57,7 @@
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
 
 
-### C\#
+### C#
 
 * [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 

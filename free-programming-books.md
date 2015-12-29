@@ -236,7 +236,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Grokking the GIMP](http://gimp-savvy.com/BOOK/index.html)
 * [Introduction to Modern OpenGL](https://open.gl)
 * [Learn OpenGL](http://learnopengl.com) - Joey de Vries
-* [Learning Modern 3D Graphics Programming](http://ww2.arcsynthesis.org) (draft)
+* [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) (draft)
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations.
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 * [ShaderX series](http://www.realtimerendering.com/resources/shaderx/)

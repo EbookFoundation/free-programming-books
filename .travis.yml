@@ -3,5 +3,5 @@ sudo: false
 node_js:
   - "4.1"
 before_script:
-  - npm install -g https://github.com/vhf/free-programming-books-lint.git
+  - npm install -g free-programming-books-lint
 script: fpb-lint .

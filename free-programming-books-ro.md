@@ -21,7 +21,7 @@
 
 ### HMTL
 
-* [HTML](http://tutorialehtml.com/htmlt)
+* [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
 
 
 ### JavaScript

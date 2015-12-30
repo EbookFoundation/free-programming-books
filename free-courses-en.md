@@ -4,7 +4,7 @@
 * [AngularJS](#angularjs)
 * [Assembly](#assembly)
 * [C](#c)
-* [C#](#c-1)
+* [C#](#c-sharp)
 * [C++](#c-2)
 * [Clojure](#clojure)
 * [Databases](#databases)
@@ -38,13 +38,13 @@
 
 ### Android
 
-* [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101)
-* [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloud)
+* [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidpart1apps101)
+* [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
-* [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android)
+* [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android#!/android)
 
 
 ### AngularJS
@@ -57,16 +57,16 @@
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
 
 
+### C Sharp
+
+* [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
+
+
 ### C++
 
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [LearnCpp.com C++ Tutorial](http://www.learncpp.com)
-
-
-### C#
-
-* [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 
 
 ### Clojure
@@ -77,7 +77,7 @@
 ### Databases
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
-* [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
+* [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 
 
 ### Git
@@ -121,7 +121,7 @@
 * [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
-* [Problem Solving With Java](https://www.udacity.com/course/cs046)
+* [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
 
 
 ### JS
@@ -150,7 +150,7 @@
 * [Berkeley's CS 164: Programming Languages and Compilers](https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F&feature=plcp)
 * [Berkeley's CS 169: Software Engineering](https://www.youtube.com/view_play_list?p=-XXv-cvA_iAS_kCeleydK6mDc0kCbdhU)
 * [Berkeley's CS 194: What is an Operating System?](https://www.youtube.com/view_play_list?p=-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
-* [Berkeley's Math 10B: Methods of Mathematics: Calculus, Statistics, and COmbinatorics](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCZ8sTG0pDuBubsDfOFoY2X)
+* [Berkeley's Math 10B: Methods of Mathematics: Calculus, Statistics, and Combinatorics](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCZ8sTG0pDuBubsDfOFoY2X)
 * [Bits: The Computer Science of Digital Information](http://www.extension.harvard.edu/open-learning-initiative/bits)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
 * [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
@@ -166,22 +166,23 @@
 
 ### OCaml
 
-* [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/)
+* [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
 * [Introduction to Functional Programming in OCaml](https://www.france-universite-numerique-mooc.fr/courses/parisdiderot/56002/session01/about)
 
 
 ### Oracle PL/SQL
 
-* [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession.aspx)
+* [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession)
 
 
 ### Python
 
-* [Berkeley's Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/~cs61a/)
+* [Berkeley's Structure and Interpretation of Computer Programs](http://cs61a.org)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Learn Python](https://pythonspot.com)
-* [Programming for Everybody](https://www.coursera.org/course/pythonlearn)
+* [Learn to program in Python](https://www.codecademy.com/learn/python)
+* [Programming for Everybody](https://www.coursera.org/learn/python)
 
 
 ### R
@@ -196,7 +197,7 @@
 
 ### Ruby
 
-* [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 
 ### Sails.Js
@@ -212,11 +213,12 @@
 
 ### Swift
 
-* [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift)
+* [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
 
 
 ### Web Development
 
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
+* [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
-* [Udacity Web Development Course Catalog](https://www.udacity.com/courses#!/web-development)
+* [Udacity Web Development Course Catalog](https://www.udacity.com/courses#!/web-development#!/web-development)

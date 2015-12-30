@@ -1,11 +1,11 @@
 ### Index
 
-* [Niezależne od języka programowania](#niezale%C5%BCne-od-j%C4%99zyka-programowania)
+* [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
 * [Android](#android)
 * [C](#c)
 * [C++](#c-1)
-* [CSS](#css)
 * [Common Lisp](#common-lisp)
+* [CSS](#css)
 * [Haskell](#haskell)
 * [HTML](#html)
 * [Java](#java)
@@ -20,14 +20,14 @@
 * [SQL](#sql)
 
 
-### Niezależne od języka programowania
+### 0 - Niezależne od języka programowania
 
-* [W obronie wolności](http://stallman.helion.pl)
-* [Git](http://pl.wikibooks.org/wiki/Git)
-* [Pro Git](http://git-scm.com/book/pl)
-* [SVN](http://pl.wikibooks.org/wiki/Subversion)
+* [Git](https://pl.wikibooks.org/wiki/Git)
+* [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS)
+* [Pro Git](http://git-scm.com/book/pl/)
+* [SVN](https://pl.wikibooks.org/wiki/Subversion)
 * [System kontroli wersji Subversion](http://svnbook.opensys.pl)
-* [Pisanie OS](http://pl.wikibooks.org/wiki/Pisanie_OS)
+* [W obronie wolności](http://stallman.helion.pl)
 
 
 ### Android
@@ -38,20 +38,15 @@
 
 ### C
 
-* [Programowanie w C](http://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
-* [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/more_advanced/programing/c_cpp/)
+* [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
+* [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
 
 
 ### C++
 
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1)
-* [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
-
-
-### CSS
-
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+* [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
 
 
 ### Common Lisp
@@ -59,9 +54,14 @@
 * [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php)
 
 
+### CSS
+
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+
+
 ### Haskell
 
-* [Haskell](http://pl.wikibooks.org/wiki/Haskell)
+* [Haskell](https://pl.wikibooks.org/wiki/Haskell)
 
 
 ### HTML
@@ -77,7 +77,7 @@
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
-* [JavaScript. I wszystko jasne](http://www.bt4.pl/kursy/javascript/wszystko-jasne/)
+* [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/)
 
 
 ### LaTeX
@@ -93,9 +93,9 @@
 
 ### PHP
 
-* [PHP](http://pl.wikibooks.org/wiki/PHP)
-* [PHP: The Right Way](http://pl.phptherightway.com)
 * [Kurs PHP](http://phpkurs.pl)
+* [PHP](https://pl.wikibooks.org/wiki/PHP)
+* [PHP: The Right Way](http://pl.phptherightway.com)
 
 
 ### Prolog
@@ -105,14 +105,14 @@
 
 ### Python
 
-* [Ukąś Pythona](http://python.edu.pl/byteofpython/index.html)
-* [Zanurkuj w Pythonie](http://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 * [Biblioteka Pythona](http://www.python.rk.edu.pl)
+* [Ukąś Pythona](http://python.edu.pl/byteofpython/index.html)
+* [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 
 ### Ruby
 
-* [Ruby](http://pl.wikibooks.org/wiki/Ruby)
+* [Ruby](https://pl.wikibooks.org/wiki/Ruby)
 
 
 ### Scala

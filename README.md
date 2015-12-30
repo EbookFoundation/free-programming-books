@@ -44,7 +44,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + Ukrainian: [github](/free-programming-books-ua.md)
 
 
-### Noticeable lists
+### Notable lists
 + [Free JavaScript frameworks resources and tutorials](/javascript-frameworks-resources.md)
 
 

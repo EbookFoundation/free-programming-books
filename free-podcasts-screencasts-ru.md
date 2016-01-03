@@ -1,8 +1,9 @@
 ### Index
 
 * [Javascript](#javascript)
-* [Node.js](#Nodejs)
-* [Webpack](#Webpack)
+* [Node.js](#nodejs)
+* [Ruby](#ruby)
+* [Webpack](#webpack)
 
 
 ### Javascript
@@ -14,6 +15,12 @@
 ### Node.js
 
 * [Screencast] - [Скринкаст Node.JS - Илья Кантор](https://learn.javascript.ru/nodejs-screencast/)
+
+
+### Ruby
+
+* [Podcast] - [RWPod Podcast](http://rwpod.com)
+* [Podcast] - [RubyNoName Podcast](http://rubynoname.ru)
 
 
 ### Webpack

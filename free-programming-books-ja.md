@@ -49,6 +49,7 @@
 * [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
+* [openFrameworks](#openframeworks)
 * [Perl](#perl)
 * [PHP](#php)
 * [PowerShell](#powershell)
@@ -435,6 +436,9 @@
 * [Objective Caml 入門](http://www.fos.kuis.kyoto-u.ac.jp/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
 * [お気楽 OCaml プログラミング入門](http://www.geocities.jp/m_hiroi/func/ocaml.html) - 広井誠
 
+### openFrameworks
+
+* [Beyond Interaction - メディアアートのためのopenFrameworksプログラミング入門]("http://download.bnn.co.jp/download/beyond_interaction/BNN_BeyondInteraction.pdf") - 田所淳・比嘉了・久保田晃弘 (※書籍を作者がCCライセンスで公開)
 
 ### Perl
 

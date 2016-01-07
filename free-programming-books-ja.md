@@ -439,7 +439,7 @@
 
 ### openFrameworks
 
-* [Beyond Interaction - メディアアートのためのopenFrameworksプログラミング入門]("http://download.bnn.co.jp/download/beyond_interaction/BNN_BeyondInteraction.pdf") - 田所淳・比嘉了・久保田晃弘 (PDF) (※書籍を作者がCCライセンスで公開)
+* [Beyond Interaction - メディアアートのためのopenFrameworksプログラミング入門](http://download.bnn.co.jp/download/beyond_interaction/BNN_BeyondInteraction.pdf) - 田所淳・比嘉了・久保田晃弘 (PDF) (※書籍を作者がCCライセンスで公開)
 
 
 ### Perl

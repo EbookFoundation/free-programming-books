@@ -29,7 +29,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [COBOL](#cobol)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
-* [Common Lisp](#commonlisp)
+* [Common Lisp](#common-lisp)
 * [Cool](#cool)
 * [Coq](#coq)
 * [CUDA](#cuda)

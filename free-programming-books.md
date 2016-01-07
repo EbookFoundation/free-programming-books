@@ -29,6 +29,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [COBOL](#cobol)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
+* [Common Lisp](#commonlisp)
 * [Cool](#cool)
 * [Coq](#coq)
 * [CUDA](#cuda)
@@ -913,6 +914,26 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
 
+### Common Lisp
+
+* [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
+* [Basic Lisp Techniques](http://franz.com/resources/educational_resources/cooper.book.pdf) - David J. Cooper, Jr. (PDF)
+* [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/) - David S. Touretzky
+* [Common Lisp: An Interactive Approach](http://www.cse.buffalo.edu/~shapiro/Commonlisp/) - Stuart C. Shapiro
+* [Common Lisp Quick Reference](http://clqr.boundp.org)
+* [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
+* [Google's Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
+* [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
+* [Learn Lisp The Hard Way](http://learnlispthehardway.org/book/) - Colin J.E. Lupton
+* [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/toc)
+* [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers) - Vsevolod Dyomkin
+* [Lisp Koans](https://github.com/google/lisp-koans)
+* [Lisp Web Tales](https://leanpub.com/lispwebtales)
+* [On Lisp](http://www.paulgraham.com/onlisp.html)
+* [Practical Common Lisp](http://www.gigamonkeys.com/book/)
+* [Successful Lisp: How to Understand and Use Common Lisp](https://psg.com/~dlamkins/sl/) - David Lamkins
+
+
 
 ### ColdFusion
 
@@ -1400,25 +1421,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Lisp
 
-* [Basic Lisp Techniques](http://franz.com/resources/educational_resources/cooper.book.pdf) - David J. Cooper, Jr. (PDF)
-* [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
-* [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/) - David S. Touretzky
-* [Common Lisp: An Interactive Approach](http://www.cse.buffalo.edu/~shapiro/Commonlisp/) - Stuart C. Shapiro
-* [Common Lisp Quick Reference](http://clqr.boundp.org)
-* [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
-* [Google's Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
-* [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
-* [Learn Lisp The Hard Way](http://learnlispthehardway.org/book/) - Colin J.E. Lupton
-* [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/toc)
-* [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers) - Vsevolod Dyomkin
-* [Lisp Koans](https://github.com/google/lisp-koans)
-* [Lisp Web Tales](https://leanpub.com/lispwebtales)
+*See: [Common Lisp](#commonlisp), [Scheme](#scheme)*
+
 * [Natural Language Processing in Lisp](http://www.sussex.ac.uk/informatics/)
-* [On Lisp](http://www.paulgraham.com/onlisp.html)
-* [Practical Common Lisp](http://www.gigamonkeys.com/book/)
-* [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
-* [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
-* [Successful Lisp: How to Understand and Use Common Lisp](https://psg.com/~dlamkins/sl/) - David Lamkins
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
 
 
@@ -1958,6 +1963,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [How to Design Programs](http://htdp.org)
 * [Scheme Tutorial](http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html)
+* [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
 * [Structure and Interpretion of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 * [Teach Yourself Scheme in Fixnum Days](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html)
 * [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/) - [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)

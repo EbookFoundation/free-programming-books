@@ -1421,7 +1421,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Lisp
 
-*See: [Common Lisp](#commonlisp), [Scheme](#scheme)*
+*See: [Common Lisp](#common-lisp), [Scheme](#scheme)*
 
 * [Natural Language Processing in Lisp](http://www.sussex.ac.uk/informatics/)
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)

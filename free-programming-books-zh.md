@@ -385,7 +385,7 @@
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
-* [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
+* [Go实战开发](https://github.com/astaxie/Go-in-Action)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
@@ -527,7 +527,7 @@
 
 * [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)
 * [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
-* [大家來學 LaTeX](http://web.math.isu.edu.tw/yeh/HowTo/HowToTex/latex123.pdf) (PDF)
+* [大家來學 LaTeX](https://github.com/49951331/graduate-project-102pj/blob/master/docs/latex123.pdf) (PDF)
 
 
 ### LISP
@@ -578,8 +578,6 @@
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
 * [Python 中文学习大本营](http://www.pythondoc.com)
-* [深入 Python](http://woodpecker.org.cn/diveintopython/)
-* [深入 Python 3](http://woodpecker.org.cn/diveintopython3/)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
 * [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/) (《A Byte of Python》中文版)
 
@@ -630,7 +628,7 @@
 
 ### Swift
 
-* [《The Swift Programming Language》中文版](https://www.gitbook.io/book/numbbbbb/-the-swift-programming-language-)
+* [《The Swift Programming Language》中文版](https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/)
 
 
 ### Vim

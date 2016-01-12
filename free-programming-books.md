@@ -621,6 +621,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 #### Software Architecture
 
+* [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](http://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)

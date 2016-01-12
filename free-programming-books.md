@@ -793,6 +793,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates
 * [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php)
 * [Google Shell Style Guide](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
+* [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School
 * [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)

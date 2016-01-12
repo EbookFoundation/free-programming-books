@@ -1181,14 +1181,16 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Scalable and Modular Architecture for CSS](https://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 
-#### HTTP
-
-* [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
 
 #### Bootstrap
 
 * [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap3) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap) (PDF, Kindle) *(Just fill the fields with any values)*
+
+
+#### HTTP
+
+* [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
 
 
 ### Icon

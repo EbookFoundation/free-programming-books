@@ -62,6 +62,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Haxe](#haxe)
 * [HTML / CSS](#html--css)
   * [Bootstrap](#bootstrap)
+* [HTTP](#http)
 * [Icon](#icon)
 * [iOS](#ios)
 * [Isabelle/HOL](#isabellehol)
@@ -1176,6 +1177,9 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Scalable and Modular Architecture for CSS](https://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 
+#### HTTP
+
+* [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
 
 #### Bootstrap
 

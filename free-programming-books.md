@@ -647,6 +647,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [Web API Design](http://apigee.com/about/blog/technology/announcement-free-ebook-web-api-design)
+* [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad) *(Leanpub, by Paddy Foran)*
 
 

@@ -139,7 +139,7 @@
 
 * [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
 * [Ruby](https://www.ruby-lang.org/tr/)
-* [Ruby 101](https://www.gitbook.io/book/vigo/ruby-101)
+* [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
 

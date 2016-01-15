@@ -629,7 +629,7 @@
 
 ### Swift
 
-* [《The Swift Programming Language》中文版](https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/)
+* [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
 
 
 ### Vim

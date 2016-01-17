@@ -380,7 +380,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Introduction to Machine Learning](http://arxiv.org/abs/0904.3664v1) - Amnon Shashua
 * [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf) (PDF)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
-* [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/whole.pdf) - This book is based on the EC (ESPRIT) project StatLog (PDF) or [online version](http://www1.maths.leeds.ac.uk/~charles/statlog/)
+* [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
@@ -399,7 +399,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Collaborative Statistics](http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
-* [Differential Equations](http://tutorial.math.lamar.edu/pdf/DE/DE_Complete.pdf) - Paul Dawkins (PDF)
+* [Differential Equations](http://tutorial.math.lamar.edu/download.aspx) - Paul Dawkins (PDF, use form to download)
 * [Discrete Mathematics](http://home.iitk.ac.in/%7Earlal/book/mth202.pdf) - Dr. Arbind K Lal, IIT Kanpur (PDF)
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench (PDF)
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) - Sean Luke
@@ -638,7 +638,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Patterns and Practices: Application Architecture Guide 2.0](http://www.codeplex.com/AppArchGuide)
 * [Patterns of Software: Tales from the Software Community](http://www.dreamsongs.com/Files/PatternsOfSoftware.pdf) (PDF)
 * [Practicing Domain-Driven Design](https://leanpub.com/Practicing-DDD) - Scott Millett
-* [Programming Reliable Systems (Joe Armstrong's PhD thesis)](https://www.sics.se/%7ejoe/thesis/armstrong_thesis_2003.pdf) (PDF)
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)

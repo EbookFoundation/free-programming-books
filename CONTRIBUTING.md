@@ -19,7 +19,8 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/vh
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files
 
 ### Guidelines
-- make sure a book is free. Double-check if needed.
+- make sure a book is free. Double-check if needed
+- we don't accept files hosted on google drive, dropbox, mega, scribd, issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
     + no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)

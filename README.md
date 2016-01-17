@@ -23,6 +23,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + Bulgarian: [github](/free-programming-books-bg.md)
 + Chinese: [github](/free-programming-books-zh.md)
 + Czech: [github](/free-programming-books-cs.md)
++ English: [github](/free-programming-books.md)
 + French: [github](/free-programming-books-fr.md)
 + German: [github](/free-programming-books-de.md)
 + Greek: [github](/free-programming-books-gr.md)
@@ -44,12 +45,21 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + Ukrainian: [github](/free-programming-books-ua.md)
 
 
-### Notable lists
-+ [Free JavaScript frameworks resources and tutorials](/javascript-frameworks-resources.md)
+### Free Online Courses
++ [Free Online Courses](/free-courses-en.md)
 
 
 ### Interactive Programming Resources
 + [Free interactive programming tutorials](/free-programming-interactive-tutorials-en.md)
+ 
+
+### JavaScript Frameworks and Resources
++ [Free JavaScript frameworks resources and tutorials](/javascript-frameworks-resources.md)
++ [Free interactive programming tutorials](/javascript-frameworks-resources-pt_BR.md)
+
+
+### Problem Sets and Competitive Programming
++ [Problem Sets](/problem-sets-competitive-programming.md)
 
 
 ### Podcast - Screencast

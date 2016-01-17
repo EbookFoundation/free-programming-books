@@ -635,7 +635,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Methods and Techniques for the Design and Implementation of Domain-Specific Languages](http://www.st.ewi.tudelft.nl/~arie/phds/Hemel.pdf) - Zef Hemel (PDF)
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)
 * [NASA Manager Handbook for Software Development](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-manage.pdf) (PDF)
-* [NASA Software Measurement Handbook](http://www.scribd.com/doc/7181362/NASA-Software-Measurement-Guidebook)
 * [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html)
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/)
 * [Patterns and Practices: Application Architecture Guide 2.0](http://www.codeplex.com/AppArchGuide)
@@ -1888,7 +1887,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
-* [Why's (Poignant) Guide to Ruby](http://poignant.guide) ([mirror](http://www.scribd.com/doc/2236084/Why-s-Poignant-Guide-to-Ruby))
+* [Why's (Poignant) Guide to Ruby](http://poignant.guide)
 
 
 #### RSpec

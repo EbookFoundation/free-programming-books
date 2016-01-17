@@ -9,7 +9,6 @@
 ### Android
 
 * [Tutorial Membuat Aplikasi Android **Special Edition**](http://www.slideshare.net/creatorb/tutorial-lengkap-cara-membuat-aplikasi-android-sederhana)
-* [Tutorial Membuat Aplikasi Audioplayer Android](http://www.scribd.com/doc/258469346/Android-Tutorial-Audioplayer-Murottal-Pondokprogrammer-Mobile)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
 
 

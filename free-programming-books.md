@@ -307,7 +307,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 #### Competitive Programming
 
-* [Competitive Programming](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) (PDF)
+* [Competitive Programming, 1st Edition](https://sites.google.com/site/stevenhalim/) (PDF)
 
 
 #### Compiler Design
@@ -373,12 +373,10 @@ Original Source: [List of freely available programming books](http://web.archive
 * [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
 * [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) (PDF)
 * [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) (PDF)
-* [AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java](http://wps.aw.com/wps/media/objects/5771/5909832/PDF/Luger_0136070477_1.pdf) - George F. Luger, William A Stubblefield (PDF)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
-* [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan (PDF)
 * [Introduction to Machine Learning](http://arxiv.org/abs/0904.3664v1) - Amnon Shashua
 * [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf) (PDF)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)

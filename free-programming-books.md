@@ -1156,7 +1156,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Haxe Manual](http://haxe.org/documentation/introduction/) - Haxe Foundation (PDF, HTML)
 * [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/) (HTML)
 * [Kha Handbook](http://wiki.ktxsoftware.com/wiki/Home)
-* [OpenFL Handbook](https://www.gitbook.com/book/openfl/openfl-documentation/details) 
+* [OpenFL Handbook](https://www.gitbook.com/book/openfl/openfl-documentation/details)
 
 
 ### HTML / CSS
@@ -1654,10 +1654,17 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### PowerShell
 
+* [Creating HTML Reports in PowerShell](https://www.penflip.com/powershellorg/creating-html-reports-in-powershell) (PDF,ePub,HTML)
+* [Introduction to PowerShell for Unix People](https://www.penflip.com/powershellorg/a-unix-persons-guide-to-powershell)(PDF,ePub,HTML)
 * [Layman’s Guide to PowerShell 2.0 remoting](http://www.ravichaganti.com//blog/wp-content/uploads/2010/12/A%20layman's%20guide%20to%20PowerShell%202.0%20remoting-v2.pdf) (PDF)
 * [Mastering PowerShell](http://powershell.com/cs/login.aspx?ReturnUrl=%2fcs%2fblogs%2febook%2fdefault.aspx)
 * [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 * [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) *(Just fill the fields with any values)*
+* [The Big Book of PowerShell Error Handling](https://www.penflip.com/powershellorg/the-big-book-of-powershell-error-handling)(PDF,ePub,HTML)
+* [The Big Book of PowerShell Gotchas](https://www.penflip.com/powershellorg/the-big-book-of-powershell-gotchas)(PDF,ePub,HTML)
+* [The Community Book of PowerShell Best Practices](https://www.penflip.com/powershellorg/the-community-book-of-powershell-practices)(PDF,ePub,HTML)
+* [The DSC Book](https://www.penflip.com/powershellorg/the-dsc-book)(PDF,ePub,HTML)
+* [The Monad Manifesto - Annotated](https://www.penflip.com/powershellorg/monad-manifesto-annotated)(PDF,ePub,HTML)
 
 
 ### Processing

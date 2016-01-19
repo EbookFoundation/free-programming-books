@@ -23,6 +23,11 @@
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 
 
+### Node.js
+
+* [Belajar Node.js](http://idjs.github.io/belajar-nodejs/) 
+
+
 ### NoSQL
 
 * [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/mongodb-untuk-indonesia/content/)

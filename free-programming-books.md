@@ -109,7 +109,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Limbo](#limbo)
 * [Linux](#linux)
 * [Lisp](#lisp)
-* [Livecode] (#livecode)
+* [Livecode](#livecode)
 * [Lua](#lua)
 * [MarkDown](#markdown)
 * [Mathematica](#mathematica)
@@ -1422,7 +1422,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Livecode
 
-* [LiveCode userguide] (http://www.scribd.com/doc/216789127/LiveCode-userguide) (PDF)
+* [LiveCode userguide](http://www.scribd.com/doc/216789127/LiveCode-userguide) (PDF)
 
 
 ### Lua

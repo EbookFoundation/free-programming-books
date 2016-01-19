@@ -13,7 +13,7 @@
 * [Javascript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
-* [Livecode] (#livecode)
+* [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)

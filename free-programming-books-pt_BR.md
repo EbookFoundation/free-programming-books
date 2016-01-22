@@ -4,6 +4,7 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
+* [Ciência da computação] (#ciencia-da-computacao)
 * [Engenharia de software](#engenharia-de-software)
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
@@ -48,6 +49,9 @@
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf) (PDF)
 
+### Ciência da Computação
+* [Uma Introdução à Teoria da Computação] (http://yeeba.me/uploads/yeeba_1401161452793684_uma-introducao-a-teoria-da-computacao-michael-sipser-pdf.pdf) (PDF)
+* [Fundamentos da Programação de Computadores] (http://yeeba.me/uploads/yeeba_1401161452792075_livro-fundamentos-da-programa-o-de-computadores-pdf.pdf) (PDF)
 
 ### Engenharia de Software
 

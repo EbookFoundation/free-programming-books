@@ -5,7 +5,7 @@
 * [Node.js](#nodejs)
 * [Ruby](#ruby)
 * [Webpack](#webpack)
-
+* [Golang](#golang)
 
 ### Java
 
@@ -32,3 +32,7 @@
 ### Webpack
 
 * [Screencast] - [Скринкаст Webpack - Илья Кантор](https://learn.javascript.ru/webpack-screencast/)
+
+### Golang
+
+* [Podcast] - [GolangShow](https://golangshow.com)

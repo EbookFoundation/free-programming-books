@@ -128,6 +128,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Octave](#octave)
 * [OpenGL ES](#opengl-es)
 * [OpenMP](#openmp)
+* [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
 * [Oracle PL/SQL](#oracle-plsql)
 * [Oracle Server](#oracle-server)
@@ -1560,6 +1561,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [A Guide To OpenMP](http://www2.cs.uh.edu/~estrabd/openmp-combined.pdf) (PDF)
 * [OpenMP Application Programming Interface Standard Version 4.0](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) (PDF)
+
+
+### OpenResty
+
+* [Programming OpenResty](https://www.gitbook.com/book/openresty/programming-openresty/details)
 
 
 ### OpenSCAD

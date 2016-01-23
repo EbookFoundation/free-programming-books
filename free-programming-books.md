@@ -1704,8 +1704,8 @@ See also [TeX](#tex)
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
-* [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 * [Best Ruby Practices](https://github.com/franzejr/best-ruby)
+* [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 * ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
 
 

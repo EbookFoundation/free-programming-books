@@ -841,7 +841,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [Threading in C#](http://www.albahari.com/threading/)
-
+* [Introduction to Rx](http://www.introtorx.com/)
 
 ### C++
 

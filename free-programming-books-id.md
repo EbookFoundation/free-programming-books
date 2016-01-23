@@ -30,7 +30,7 @@
 
 ### NoSQL
 
-* [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/mongodb-untuk-indonesia/content/)
+* [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/pengantar-mongodb/content/)
 
 
 ### php

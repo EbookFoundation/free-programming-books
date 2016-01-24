@@ -516,7 +516,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
 * [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
-* [Understanding IP Addressing: Everything you ever wanted to know](http://www.di.unipi.it/~ricci/501302.pdf) (PDF)
+* [Understanding IP Addressing: Everything you ever wanted to know](https://web.archive.org/web/20080401000000*/http://www.3com.com/other/pdfs/infra/corpinfo/en_US/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
 
 

@@ -1627,6 +1627,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
   * [Laravel: Code Bright](http://daylerees.com/codebright)
   * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled)
   * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
+* [Hacking with PHP](http://www.hackingwithphp.com) 
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
@@ -2057,6 +2058,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Swift
 
+* [Hacking with Swift](https://www.hackingwithswift.com)
 * [Learn Swift](http://books.aidanf.net/learn-swift)
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML)
 * [The Swift Programming Language](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) (iBook)

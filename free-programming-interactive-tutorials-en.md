@@ -39,7 +39,6 @@
 
 * [Learn C](http://www.learn-c.org)
 
-
 ### C Sharp
 
 * [Learn C#](http://www.learncs.org)
@@ -104,6 +103,7 @@
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
+* [Python Tutor (Link for Java)](http://pythontutor.com/java.html#mode=edit)
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -119,6 +119,7 @@
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+* [Python Tutor (Link for Javascript)](http://pythontutor.com/javascript.html#mode=edit)
 * [Try jQuery](http://try.jquery.com)
 
 
@@ -171,6 +172,7 @@
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Python Tutor (Link for Python)](http://pythontutor.com/visualize.html#mode=edit)
 
 
 ### R
@@ -187,6 +189,7 @@
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
+* [Python Tutor (Link for Ruby)](http://pythontutor.com/ruby.html#mode=edit)
 * [Ruby Koans](http://www.rubykoans.com)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [The Odin Project](http://www.theodinproject.com)
@@ -202,6 +205,10 @@
 ### SQL
 
 * [SQLBolt](http://sqlbolt.com)
+
+
+### TypeScript
+* [Python Tutor (Link for TypeScript)](http://pythontutor.com/typescript.html#mode=edit)
 
 
 ### Vim

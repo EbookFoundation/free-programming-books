@@ -298,6 +298,7 @@
 
 
 ### 程序员杂谈
+
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 
 ## 语言相关

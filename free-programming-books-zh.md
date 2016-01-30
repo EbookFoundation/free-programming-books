@@ -24,6 +24,7 @@
   * [设计模式](#设计模式)
   * [软件开发方法](#软件开发方法)
   * [项目相关](#项目相关)
+  * [程序员杂谈](#程序员杂谈)
 * [语言相关](#语言相关)
   * [Android](#android)
   * [AWK](#awk)
@@ -295,6 +296,9 @@
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
 
+
+### 程序员杂谈
+* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 
 ## 语言相关
 

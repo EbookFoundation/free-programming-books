@@ -39,15 +39,15 @@
 
 ### Ruby
 
-* [Screencast] - [Ruby hasBrains](http://ruby.hasbrains.org/)
 * [Podcast] - [RWPod Podcast](http://rwpod.com)
 * [Podcast] - [RubyNoName Podcast](http://rubynoname.ru)
-* [Screencast] - [RubySchool (Ruby, Rails)](http://rubyschool.us/)
+* [Screencast] - [Ruby hasBrains](http://ruby.hasbrains.org)
+* [Screencast] - [RubySchool (Ruby, Rails)](http://rubyschool.us)
 
 
 #### Rails
 
-* [Screencast] - [Rails hasBrains](http://rails.hasbrains.org/)
+* [Screencast] - [Rails hasBrains](http://rails.hasbrains.org)
 
 
 ### Webpack

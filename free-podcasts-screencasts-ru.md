@@ -14,12 +14,12 @@
 
 ### C
 
-* [Screencast] - [Введение в Си - Hexlet](https://ru.hexlet.io/courses/introduction_to_c)
+* [Screencast] - [Введение в Си](https://ru.hexlet.io/courses/introduction_to_c) - Hexlet
 
 
 ### Bash
 
-* [Screencast] - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash)
+* [Screencast] - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash) - Hexlet
 
 
 ### Golang
@@ -42,7 +42,7 @@
 
 #### Node.js
 
-* [Screencast] - [Скринкаст Node.JS - Илья Кантор](https://learn.javascript.ru/screencast/nodejs)
+* [Screencast] - [Скринкаст Node.JS](https://learn.javascript.ru/screencast/nodejs) - Илья Кантор
 
 
 ### Python
@@ -54,15 +54,15 @@
 
 * [Podcast] - [RWPod Podcast](http://rwpod.com)
 * [Podcast] - [RubyNoName Podcast](http://rubynoname.ru)
-* [Screencast] - [Ruby hasBrains](http://ruby.hasbrains.org)
-* [Screencast] - [RubySchool (Ruby, Rails)](http://rubyschool.us)
+* [Screencast] - [Ruby](http://ruby.hasbrains.org) - hasBrains
+* [Screencast] - [RubySchool (Ruby, Rails)](http://rubyschool.us) - Роман Пушкин
 
 
 #### Rails
 
-* [Screencast] - [Rails hasBrains](http://rails.hasbrains.org)
+* [Screencast] - [Rails](http://rails.hasbrains.org) - hasBrains
 
 
 ### Webpack
 
-* [Screencast] - [Скринкаст Webpack - Илья Кантор](https://learn.javascript.ru/screencast/webpack)
+* [Screencast] - [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор

@@ -3,8 +3,9 @@
 * [Golang](#golang)
 * [Java](#java)
 * [Javascript](#javascript)
-* [Node.js](#nodejs)
+  * [Node.js](#nodejs)
 * [Ruby](#ruby)
+  * [Rails](#rails)
 * [Webpack](#webpack)
 
 
@@ -24,15 +25,22 @@
 * [Podcast] - [RadioJS Podcast](http://radiojs.ru)
 
 
-### Node.js
+#### Node.js
 
 * [Screencast] - [Скринкаст Node.JS - Илья Кантор](https://learn.javascript.ru/screencast/nodejs)
 
 
 ### Ruby
 
+* [Screencast] - [Ruby hasBrains](http://ruby.hasbrains.org/)
 * [Podcast] - [RWPod Podcast](http://rwpod.com)
 * [Podcast] - [RubyNoName Podcast](http://rubynoname.ru)
+* [Screencast] - [RubySchool (Ruby, Rails)](http://rubyschool.us/)
+
+
+#### Rails
+
+* [Screencast] - [Rails hasBrains](http://rails.hasbrains.org/)
 
 
 ### Webpack

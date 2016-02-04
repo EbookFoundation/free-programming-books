@@ -13,6 +13,7 @@
 
 
 ### C
+
 * [Screencast] - [Введение в Си - Hexlet](https://ru.hexlet.io/courses/introduction_to_c)
 
 
@@ -29,6 +30,7 @@
 ### Java
 
 * [Screencast] - [Введение в программирование на языке Java и с Java EE](https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW) - Yakov Fain
+* [Screencast] - [Java. Базовый курс - Stepic](https://stepic.org/course/Java-%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%83%D1%80%D1%81-187)
 
 
 ### Javascript

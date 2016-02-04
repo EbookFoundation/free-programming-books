@@ -1,5 +1,6 @@
 ### Index
 
+* [Bash](#bash)
 * [Golang](#golang)
 * [Java](#java)
 * [Javascript](#javascript)
@@ -7,6 +8,11 @@
 * [Ruby](#ruby)
   * [Rails](#rails)
 * [Webpack](#webpack)
+
+
+### Bash
+
+* [Screencast] - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash)
 
 
 ### Golang

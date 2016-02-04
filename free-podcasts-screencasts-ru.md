@@ -6,13 +6,14 @@
 * [Java](#java)
 * [Javascript](#javascript)
   * [Node.js](#nodejs)
+* [Python](#python)
 * [Ruby](#ruby)
   * [Rails](#rails)
 * [Webpack](#webpack)
 
 
 ### C
-* [Screencast] - [Введение в Си](https://ru.hexlet.io/courses/introduction_to_c)
+* [Screencast] - [Введение в Си - Hexlet](https://ru.hexlet.io/courses/introduction_to_c)
 
 
 ### Bash
@@ -40,6 +41,11 @@
 #### Node.js
 
 * [Screencast] - [Скринкаст Node.JS - Илья Кантор](https://learn.javascript.ru/screencast/nodejs)
+
+
+### Python
+
+* [Screencast] - [Программирование на Python - Stepic](https://stepic.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67)
 
 
 ### Ruby

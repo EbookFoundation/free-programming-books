@@ -29,6 +29,7 @@
 
 * [Podcast] - [Frontflip Podcast](http://frontflip.me)
 * [Podcast] - [RadioJS Podcast](http://radiojs.ru)
+* [Screencast] - [Javascript для начинающих](http://www.magisters.org/education/course/js-for-beginners)
 
 
 #### Node.js

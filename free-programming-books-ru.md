@@ -106,6 +106,7 @@
 
 ### CoffeeScript
 
+* [The Little Book on CoffeeScript](https://github.com/andrew--r/the-little-book-on-coffeescript) - перевод Андрея Романова
 * [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
 
 

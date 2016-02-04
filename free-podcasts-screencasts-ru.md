@@ -1,6 +1,7 @@
 ### Index
 
 * [Bash](#bash)
+* [C](#c)
 * [Golang](#golang)
 * [Java](#java)
 * [Javascript](#javascript)
@@ -8,6 +9,10 @@
 * [Ruby](#ruby)
   * [Rails](#rails)
 * [Webpack](#webpack)
+
+
+### C
+* [Screencast] - [Введение в Си](https://ru.hexlet.io/courses/introduction_to_c)
 
 
 ### Bash

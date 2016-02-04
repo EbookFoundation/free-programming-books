@@ -33,7 +33,7 @@
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
-* [Ruby on Rails](#ruby-on-rails)
+  * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Scala](#scala)
 * [Scilab](#scilab)
@@ -237,12 +237,12 @@
 * [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн
 
 
-### RSpec
+#### RSpec
 
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org/ru)
 
 
-### Ruby on Rails
+#### Ruby on Rails
 
 * [Ruby on Rails Tutorial. Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning) Майкл Хартл
 * [Ruby on Rails по-русски](http://rusrails.ru)

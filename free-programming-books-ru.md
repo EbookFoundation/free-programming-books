@@ -121,9 +121,11 @@
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
 * [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
 
+
 #### jQuery
 
 * [jQuery для начинающих](http://anton.shevchuk.name/jquery-book/) - Антон Шевчук
+
 
 #### Node.js
 

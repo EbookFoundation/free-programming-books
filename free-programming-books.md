@@ -492,6 +492,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
+* [Varoius:  A different free book every day](http://www.packtpub.com) - Various authors (PDF, ePub, Mobi, Kindle)
 * [The Z Notation: A Reference Manual, Second Edition](http://spivey.oriel.ox.ac.uk/~mike/zrm/zrm.pdf) - J. M. Spivey (PDF)
 
 

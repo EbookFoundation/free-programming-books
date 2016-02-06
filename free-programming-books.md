@@ -479,7 +479,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
 * [Open Government;Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government)
-* [Packt Publishing:  A free book every day](https://www.packtpub.com/packt/offers/free-learning) - (PDF, ePub, Mobi, Kindle)
+* [Packt Publishing:  A free book every day](https://www.packtpub.com/packt/offers/free-learning) - (PDF, ePub, Mobi, Kindle) *(account required)*
 * [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien
 * [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)

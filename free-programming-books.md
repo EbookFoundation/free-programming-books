@@ -479,6 +479,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
 * [Open Government;Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government)
+* [Packt Publishing:  A free book every day](https://www.packtpub.com/packt/offers/free-learning) - (PDF, ePub, Mobi, Kindle)
 * [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien
 * [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
@@ -493,7 +494,6 @@ Original Source: [List of freely available programming books](http://web.archive
 * [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 * [The Z Notation: A Reference Manual, Second Edition](http://spivey.oriel.ox.ac.uk/~mike/zrm/zrm.pdf) - J. M. Spivey (PDF)
-* [Varoius:  A different free book every day](http://www.packtpub.com) - Various authors (PDF, ePub, Mobi, Kindle)
 
 
 #### MOOC

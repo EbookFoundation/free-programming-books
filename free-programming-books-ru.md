@@ -244,7 +244,7 @@
 
 ### Rust
 
-* [Язык программирования Rust](http://kgv.github.io/rust_book_ru/)
+* [Язык программирования Rust](http://rurust.github.io/rust_book_ru/)
 
 
 ### Scala

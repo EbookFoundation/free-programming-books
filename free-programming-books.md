@@ -1088,7 +1088,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Go Bootcamp](http://www.golangbootcamp.com/book) - Matt Aimonetti
 * [Go by Example](https://gobyexample.com)
-* [Learning Go](https://archive.miek.nl/projects/learninggo/index.html)
+* [Learning Go](https://miek.nl/go/)
 * [Let's learn Go!](http://go-book.appspot.com)
 * [Network programming with Go](https://jan.newmarch.name/go/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)

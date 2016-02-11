@@ -213,6 +213,8 @@
 
 * [BASH Programming - Introduction HOW-TO](http://linuxjf.osdn.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - Mike G, 千旦裕司(翻訳)
 * [Bash 基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - id:nattou\_curry
+* [Bashのよくある間違い](https://yakst.com/ja/posts/2929) -  GreyCat, @yakstcom(翻訳)
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, Hayato Matsuura(翻訳)
 * [UNIX & Linux コマンド・シェルスクリプト リファレンス](http://shellscript.sunone.me) - SUNONE
 
 
@@ -290,10 +292,13 @@
 
 ### Git
 
+* [git - 簡単ガイド](http://rogerdudler.github.io/git-guide/index.ja.html) - Roger Dudler, @nacho4d(翻訳)
 * [Git ユーザマニュアル (バージョン 1.5.3 以降用)](http://cdn8.atwikiimg.com/git_jp/pub/git-manual-jp/Documentation/user-manual.html) - Yasuaki Narita
+* [GitHubカンニング・ペーパー](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, marocchino(翻訳)
 * [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, 高木正弘 他(翻訳) ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
 * [サルでもわかるGit入門](http://www.backlog.jp/git-guide/) - 株式会社ヌーラボ
 * [デザイナのための Git](https://github.com/hatena/Git-for-Designers) - はてな教科書
+* [図解 Git](http://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, Kazu Yamamoto(翻訳)
 
 
 ### Go
@@ -359,6 +364,7 @@
 * [Airbnb JavaScript スタイルガイド](http://mitsuruog.github.io/javacript-style-guide/) - Airbnb, 小川充(翻訳)
 * [Google JavaScript スタイルガイド](http://www38.atwiki.jp/aias-jsstyleguide2/) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker, aiaswood(翻訳)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ja/) - Ivo Wetzel, HIRAKI Satoru(翻訳)
+* [JavaScript Plugin Architecture](https://www.gitbook.com/book/azu/javascript-plugin-architecture/details) - azu
 * [JavaScript Programming](http://www.geocities.jp/m_hiroi/light/javascript.html) - 広井誠
 * [JavaScript Promiseの本](http://azu.github.io/promises-book/) - azu
 * [JavaScript style guide](https://developer.mozilla.org/ja/docs/JavaScript_style_guide) - MDN
@@ -366,6 +372,7 @@
 * [JavaScript 基礎文法最速マスター](http://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
 * [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
+* [The little book of Buster.JS](http://the-little-book-of-busterjs.readthedocs.org) - azu
 * [一撃必殺JavaScript日本語リファレンス](http://www.openspc2.org/JavaScript/) - 古籏一浩
 
 
@@ -440,6 +447,7 @@
 ### Objective-C
 
 * [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳)
+* [Objective-C 2.0 基礎文法最速マスター](http://marycore.jp/prog/objective-c/basic-syntax/) - @_marycore
 * [Objective-C によるプログラミング](https://developer.apple.com/jp/devcenter/ios/library/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
 * [Objective-C プログラミングの概念](https://developer.apple.com/jp/devcenter/ios/library/documentation/CocoaEncyclopedia.pdf) - Apple Developer (PDF)
 * [Objective-C プログラミング言語](https://developer.apple.com/jp/devcenter/ios/library/documentation/ObjC.pdf) - Apple Developer (PDF)

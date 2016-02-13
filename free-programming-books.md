@@ -784,6 +784,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### Bash
 
+* [The Bash Academy](http://www.bash.academy/)
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - Machtelt Garrels
 * [BASH Programming- Mike G mikkey](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)

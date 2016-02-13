@@ -309,7 +309,7 @@ Original Source: [List of freely available programming books](http://web.archive
 #### Competitive Programming
 
 * [Competitive Programming, 1st Edition](https://sites.google.com/site/stevenhalim/) (PDF)
-* [ Art of Programming Contest UVA](https://www.ahmedshamsularefin.id.au/acm-icpc/) - Ahmed Shamsul Arefin
+* [ Art of Programming Contest UVA](http://www.ahmedshamsularefin.id.au/acm-icpc/) - Ahmed Shamsul Arefin
 
 #### Compiler Design
 

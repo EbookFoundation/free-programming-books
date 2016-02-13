@@ -26,6 +26,7 @@
 
 ### Problem Sets
 
+* [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)

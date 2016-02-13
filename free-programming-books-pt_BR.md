@@ -6,6 +6,7 @@
 * [C++](#c-1)
 * [Engenharia de software](#engenharia-de-software)
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
+  * [Outros](#outros)
 * [Git](#git)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
@@ -57,6 +58,9 @@
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
 
+#### Outros
+
+* [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
 ### Git
 

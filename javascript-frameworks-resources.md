@@ -67,11 +67,6 @@
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
 
-## Express.js
-
-* [Express.js Guide](https://leanpub.com/express/read) - Azat Mardanov *(Leanpub)*
-
-
 ## jQuery
 
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)

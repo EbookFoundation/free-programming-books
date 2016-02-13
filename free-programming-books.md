@@ -110,6 +110,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Limbo](#limbo)
 * [Linux](#linux)
 * [Lisp](#lisp)
+* [Livecode](#livecode)
 * [Lua](#lua)
 * [MarkDown](#markdown)
 * [Mathematica](#mathematica)
@@ -1426,6 +1427,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 * [Successful Lisp: How to Understand and Use Common Lisp](https://psg.com/~dlamkins/sl/) - David Lamkins
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
+
+
+### Livecode
+
+* [LiveCode userguide](http://www.scribd.com/doc/216789127/LiveCode-userguide) (PDF)
 
 
 ### Lua

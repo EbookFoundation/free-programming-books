@@ -9,6 +9,7 @@
 * [Bash](#bash)
 * [C / C++](#c-c)
 * [Clojure](#clojure)
+* [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
 * [DB2](#db2)
@@ -220,6 +221,9 @@
 * [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 
+###Cloud Computing
+
+* [OpenStack Operations Guide](http://docs.openstack.org/ops/)
 
 ###CoffeeScript
 

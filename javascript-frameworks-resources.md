@@ -113,6 +113,7 @@
 
 ## React
 
+* [Hacking with React](http://www.hackingwithreact.com/)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
@@ -125,4 +126,3 @@
 * [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
-* [Hacking with React](http://www.hackingwithreact.com/)

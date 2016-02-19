@@ -307,8 +307,11 @@
 
 ### Go
 
-* [Goプログラミング言語のチュートリアル](http://golang.jp/go_tutorial)
+* [Goプログラミング言語のチュートリアル](http://golang.jp/go_tutorial) - 株式会社エイベル
 * [Tour of Go 日本語版](http://go-tour-jp.appspot.com/welcome/1) - atotto
+* [お気楽 Go 言語プログラミング入門](http://www.geocities.jp/m_hiroi/golang/index.html) - 広井誠
+* [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/) - 株式会社ユニリタ
+* [実践Go言語](http://golang.jp/effective_go) - 株式会社エイベル
 
 
 ### Groovy

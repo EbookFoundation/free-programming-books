@@ -64,6 +64,7 @@
 * [Sather](#sather)
 * [Scala](#scala)
 * [Scheme](#scheme)
+* [Scratch](#scratch)
 * [sed](#sed)
 * [Smalltalk](#smalltalk)
 * [SQL(実装非依存)](#sql%e5%ae%9f%e8%a3%85%e9%9d%9e%e4%be%9d%e5%ad%98)
@@ -89,6 +90,7 @@
 * [DirectX を使った初めての Windows ストア アプリの作成](https://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
 * [GLUTによる「手抜き」OpenGL入門](http://www.wakayama-u.ac.jp/~tokoi/opengl/libglut.html) - 床井浩平
 * [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/OpenGLES_ProgrammingGuide.pdf) - Apple Developer (PDF)
+* [はじめてのBlenderアドオン開発](https://nutti.gitbooks.io/introduction-to-add-on-development-in-blender/) - nutti
 * [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
 
 
@@ -153,6 +155,7 @@
 
 #### プログラミングの理論
 
+* [Programming on SAT](https://ledyba.gitbooks.io/programming-on-sat/) - ψ（プサイ）
 * [計算機プログラムの構造と解釈](http://sicp.iijlab.net/fulltext/) - Gerald Jay Sussman et al.
 
 
@@ -296,6 +299,7 @@
 * [Git ユーザマニュアル (バージョン 1.5.3 以降用)](http://cdn8.atwikiimg.com/git_jp/pub/git-manual-jp/Documentation/user-manual.html) - Yasuaki Narita
 * [GitHubカンニング・ペーパー](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, marocchino(翻訳)
 * [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, 高木正弘 他(翻訳) ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
+* [Steins;Git 第二版](http://o2project.github.io/steins-git/) - Shota Kubota
 * [サルでもわかるGit入門](http://www.backlog.jp/git-guide/) - 株式会社ヌーラボ
 * [デザイナのための Git](https://github.com/hatena/Git-for-Designers) - はてな教科書
 * [図解 Git](http://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, Kazu Yamamoto(翻訳)
@@ -303,8 +307,11 @@
 
 ### Go
 
-* [Goプログラミング言語のチュートリアル](http://golang.jp/go_tutorial)
+* [Goプログラミング言語のチュートリアル](http://golang.jp/go_tutorial) - 株式会社エイベル
 * [Tour of Go 日本語版](http://go-tour-jp.appspot.com/welcome/1) - atotto
+* [お気楽 Go 言語プログラミング入門](http://www.geocities.jp/m_hiroi/golang/index.html) - 広井誠
+* [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/) - 株式会社ユニリタ
+* [実践Go言語](http://golang.jp/effective_go) - 株式会社エイベル
 
 
 ### Groovy
@@ -335,6 +342,7 @@
 
 * [Haskell のお勉強](http://www.shido.info/hs/index.html) - 紫藤貴文
 * [Haskell 基礎文法最速マスター](http://d.hatena.ne.jp/ruicc/20100131/1264905896) - id:ruicc
+* [Haskellでわかる代数的構造](https://aiya000.gitbooks.io/haskell_de_groupstructure/) - aiya000
 * [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html) - 広井誠
 
 
@@ -374,6 +382,7 @@
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
 * [The little book of Buster.JS](http://the-little-book-of-busterjs.readthedocs.org) - azu
 * [一撃必殺JavaScript日本語リファレンス](http://www.openspc2.org/JavaScript/) - 古籏一浩
+* [中上級者になるためのJavaScript](https://kenju.gitbooks.io/js_step-up-to-intermediate/) - Kenju
 
 
 #### Backbone.js
@@ -582,6 +591,11 @@
 * [お気楽 Scheme プログラミング入門](http://www.geocities.jp/m_hiroi/func/scheme.html) - 広井誠
 * [もうひとつの Scheme 入門](http://www.shido.info/lisp/idx_scm.html) - 紫藤貴文
 * [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html) - 犬飼大
+
+
+### Scratch
+
+* [炎の型 With Scratch (ゲームプログラム入門) ](https://kyorohiro.gitbooks.io/doc_scratch/) - kyorohiro
 
 
 ### sed

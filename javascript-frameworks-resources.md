@@ -113,7 +113,7 @@
 
 ## React
 
-* [Hacking with React](http://www.hackingwithreact.com/)
+* [Hacking with React](http://www.hackingwithreact.com)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)

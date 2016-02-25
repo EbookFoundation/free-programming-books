@@ -203,7 +203,7 @@
 * [Introducción a AJAX](http://librosweb.es/libro/ajax/)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
-* [JavaScript Para Gatos](https://jsparagatos.com/)
+* [JavaScript Para Gatos](https://jsparagatos.com)
 
 
 #### AngularJS

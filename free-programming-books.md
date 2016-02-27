@@ -76,6 +76,7 @@ Original Source: [List of freely available programming books](http://web.archive
   * [Javascript frameworks](#javascript-frameworks)
   * [Node.js](#nodejs)
 * [Jenkins](#jenkins)
+* [Julia](#julia)
 * [Language Agnostic](#language-agnostic)
   * [Algorithms & Datastructures](#algorithms--data-structures)
   * [Cellular Automata](#cellular-automata)
@@ -1349,6 +1350,15 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Jenkins
 
 * [Jenkins: The Definitive Guide](http://www.wakaleo.com/books/jenkins-the-definitive-guide) (PDF)
+
+
+### Julia
+
+* [Introducing Julia wikibook](https://en.wikibooks.org/wiki/Introducing_Julia)
+* [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
+* [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
+* [Programming in Julia](http://quant-econ.net/jl/learning_julia.html) - Thomas J. Sargent and John Stachurski
+* [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogomił Kamiński (PDF)
 
 
 ### LaTeX / TeX

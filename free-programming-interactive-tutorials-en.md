@@ -95,6 +95,7 @@
 ### HTML / CSS
 
 * [CSS Diner](http://flukeout.github.io)
+* [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)

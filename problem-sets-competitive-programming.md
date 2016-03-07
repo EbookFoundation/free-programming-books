@@ -34,6 +34,7 @@
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
 * [Exercism](http://exercism.io)
+* [Geeks For Geeks](https://www.geeksforgeeks.org)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
@@ -52,4 +53,3 @@
 * [Timus Online Judge](http://acm.timus.ru)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
-* [Geeks For Geeks](https://www.geeksforgeeks.org)

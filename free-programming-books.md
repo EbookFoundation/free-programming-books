@@ -612,6 +612,7 @@ Original Source: [List of freely available programming books](http://web.archive
 #### Security
 
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
+* [Cryptography - An Introduction](http://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf) (PDF)
 * [CryptoParty Handbook](https://www.cryptoparty.in/documentation/handbook)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
 * [How to deal with Passwords](https://github.com/MHM5000/pass)

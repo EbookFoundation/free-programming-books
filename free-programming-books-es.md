@@ -37,7 +37,7 @@
 * [Python](#python)
   * [Django](#django)
   * [Web2py](#web2py)
-* [R](#R)
+* [R](#r)
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
 * [Scala](#scala)

@@ -207,7 +207,7 @@
 
 ### Python
 
-* [Problem Solving with Algorithms and Data Structures](http://aliev.me/runestone/)
+* [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone/)
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)

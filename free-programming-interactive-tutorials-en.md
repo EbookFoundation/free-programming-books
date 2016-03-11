@@ -77,6 +77,7 @@
 ### Git
 
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
+* [Git-it](https://github.com/jlord/git-it) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [Try Git](http://try.github.io)
 
@@ -97,6 +98,7 @@
 * [CSS Diner](http://flukeout.github.io)
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
+* [Free Code Camp](http://freecodecamp.com/map)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/skills/make-a-website)
@@ -113,6 +115,7 @@
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
+* [Free Code Camp](http://freecodecamp.com/map)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
@@ -204,6 +207,7 @@
 ### SQL
 
 * [SQLBolt](http://sqlbolt.com)
+* [SQLZoo](http://sqlzoo.net)
 
 
 ### Vim

@@ -34,7 +34,7 @@
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
 * [Exercism](http://exercism.io)
-* [Geeks For Geeks](https://www.geeksforgeeks.org)
+* [Geeks For Geeks](http://www.geeksforgeeks.org)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)

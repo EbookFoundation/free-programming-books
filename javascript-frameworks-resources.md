@@ -123,6 +123,7 @@
   * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
 * [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/aspnet5.html)
+* [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 * [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)

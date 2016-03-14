@@ -28,7 +28,7 @@
 * [Podcast] - [Adventures in Angular - DevChat.tv](https://devchat.tv/adventures-in-angular/)
 
 
-### C#
+### C&#x23;
 
 * [Screencast] - [How to program in C# - Beginner Course | Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
 

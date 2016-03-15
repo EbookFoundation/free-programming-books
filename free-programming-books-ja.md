@@ -38,10 +38,12 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [Angular.js](#angularjs)
   * [Backbone.js](#backbonejs)
   * [D3.js](#d3js)
   * [jQuery](#jquery)
   * [Node.js](#nodejs)
+  * [React](#react)
 * [Julia](#julia)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -388,6 +390,15 @@
 * [中上級者になるためのJavaScript](https://kenju.gitbooks.io/js_step-up-to-intermediate/) - Kenju
 
 
+#### Angular.js
+
+* [AngularJS 1.2 日本語リファレンス](http://js.studio-kingdom.com/angularjs) - @tomof(翻訳)
+* [AngularJS 日本語マニュアル](http://angular-js.net)
+* [AngularJS's tutorial - あなたとともにAngularJS](http://lab.hisasann.com/AngularJSTutorial/) - @hisasann
+* [AngularJSスタイルガイド](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md)
+* [すぐできる AngularJS](http://8th713.github.io/LearnAngularJS) - @8th713
+
+
 #### Backbone.js
 
 * [Backboneドキュメント日本語訳](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
@@ -409,6 +420,12 @@
 * [Felix's Node.js Style Guide](http://popkirby.github.io/contents/nodeguide/style.html) - Debuggable Limited., @popkirby(翻訳)
 * [node.js 怒濤の50サンプル!! – socket.io編](https://github.com/omatoro/NodeSample) - omatoro
 * [Nodeビギナーズブック](http://www.nodebeginner.org/index-jp.html) - Manuel Kiessling, Yuki Kawashima(翻訳)
+
+
+#### React
+
+* [React 0.13 日本語リファレンス](http://js.studio-kingdom.com/react) - @tomof(翻訳)
+* [React チュートリアル](https://facebook.github.io/react/docs/tutorial-ja-JP.html) - Facebook Inc.
 
 
 ### Julia

@@ -14,6 +14,7 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Lua](#lua)
+* [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
 * [RegEx](#regex)
@@ -120,6 +121,11 @@
 ### Lua
 
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
+
+
+### Perl
+
+* [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf) - Heitor Gouvea (PDF) 
 
 
 ### Php

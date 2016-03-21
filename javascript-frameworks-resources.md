@@ -132,3 +132,4 @@
 ### Redux
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+* [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)

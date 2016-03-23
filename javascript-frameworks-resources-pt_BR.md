@@ -61,10 +61,10 @@
 
 ### Node.js
 
+* [Corrigindo as permissões de usuário para o NPM no Linux](http://woliveiras.com.br/posts/corrigindo-permissoes-de-usuario-linux-npm/)
 * [Node.js para Leigos](http://udgwebdev.com/nodejs/)
 * [Primeiros passos com Node.js](http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
-* [Corrigindo as permissões de usuário para o NPM no Linux](http://woliveiras.com.br/posts/corrigindo-permissoes-de-usuario-linux-npm/)
 * [Utilizando versões antigas do Nodejs - Funciona no Windows](http://woliveiras.com.br/posts/utilizando-versoes-antigas-do-nodejs/)
 
 

@@ -5,6 +5,7 @@
 * [Série de vídeos sobre Vue.js](http://www.vedcasts.com.br/series/vuejs)
 * [VueJS: Filtro para criar URL’s amigáveis](http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
 
+
 ### Angular.js
 
 * [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)

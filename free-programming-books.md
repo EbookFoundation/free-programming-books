@@ -1521,6 +1521,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### .NET Framework
 
+* [25 Secrets for Faster ASP.NET Applications](http://download.red-gate.com/ebooks/DotNet/25-secrets-for-faster-asp.net-applications.pdf) (PDF) *(RedGate)*
+* [50 Ways to Avoid Find and Fix ASP.NET Performance  Issues](http://www.red-gate.com/assets/offerings/50-ways-avoid-find-fix-aspnet-issues.zip) *(RedGate)*
+* [52 Tips & Tricks to Boost .NET Performance](http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/52-net-performance-tips) *(RedGate)*
 * [Charles Petzold's .NET Book Zero](http://www.charlespetzold.com/dotnet/index.html)
 * [Entity Framework](http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community)
 * [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA)

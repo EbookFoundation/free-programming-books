@@ -772,8 +772,8 @@
 
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels
-* [BashGuide](http://mywiki.wooledge.org/BashGuide)
 * [BASH Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+* [BashGuide](http://mywiki.wooledge.org/BashGuide)
 * [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates
 * [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php)
@@ -1940,7 +1940,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/) - by M. Odersky, L. Spoon, B. Venners
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/) - Phil! Gold
 * [Scala & Design Patterns: Exploring Language Expressivity](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) - Fredrik Skeel Løkke (PDF)
-* [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) (PDF) - M. Odersky
+* [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) - M. Odersky (PDF)
 * [Scala Cookbook: Bonus Chapters](http://examples.oreilly.com/9781449339616-files/Scala_Cookbook_bonus_chapters.pdf) - Alvin Alexander (PDF)
 * [Scala for Perl 5 Programmers](https://github.com/garu/scala-for-perl5-programmers) - Breno G. de Oliveira
 * [Scala for the Impatient (A1 Scala Level chapters)](http://www.typesafe.com/resources/e-books) - Cay S. Horstmann

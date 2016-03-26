@@ -87,6 +87,8 @@
 
 ### Language Agnostic
 
+* [Podcast] - [.NET Rocks!](https://www.dotnetrocks.com)
+* [Podcast] - [Developer Tea](https://developertea.com)
 * [Podcast] - [Frontside the Podcast](https://frontsidethepodcast.simplecast.fm)
 * [Podcast] - [Full Stack Radio](http://www.fullstackradio.com)
 * [Podcast] - [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing)

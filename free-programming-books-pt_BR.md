@@ -14,6 +14,7 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Lua](#lua)
+* [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
 * [RegEx](#regex)
@@ -85,6 +86,7 @@
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br)
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
+* [Performance WEB](http://www.webperf.com.br)
 
 
 ### Java
@@ -119,6 +121,11 @@
 ### Lua
 
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
+
+
+### Perl
+
+* [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf) - Heitor Gouvea (PDF) 
 
 
 ### Php
@@ -164,3 +171,4 @@
 * [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
 * [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
+* [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza

@@ -10,6 +10,7 @@
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
 * [Codeeval](https://www.codeeval.com)
+* [CodeFights](https://codefights.com)
 * [Codeforces](http://codeforces.com)
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)

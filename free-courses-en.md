@@ -7,6 +7,7 @@
 * [C#](#c-sharp)
 * [C++](#c-2)
 * [Clojure](#clojure)
+* [Algorithmic Complexity](#algorithms)
 * [Databases](#databases)
 * [Git](#git)
 * [Go](#go)
@@ -73,6 +74,10 @@
 
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/index.html)
 
+### Algorithms
+* [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
+
+* [Stanford University Algorithms:Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
 
 ### Databases
 

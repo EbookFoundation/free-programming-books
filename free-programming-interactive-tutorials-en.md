@@ -100,6 +100,7 @@
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/skills/make-a-website)
+* [W3schools.com](http://www.w3schools.com/html/default.asp)
 
 
 ### Java
@@ -122,6 +123,7 @@
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
+* [W3schools.com](http://www.w3schools.com/js/default.asp)
 
 
 ### Language Agnostic

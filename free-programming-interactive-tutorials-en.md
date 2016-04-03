@@ -168,6 +168,7 @@
 
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
+* [W3schools.com](http://www.w3schools.com/php/default.asp)
 
 
 ### Python
@@ -207,6 +208,7 @@
 ### SQL
 
 * [SQLBolt](http://sqlbolt.com)
+* [W3schools.com](http://www.w3schools.com/sql/)
 
 
 ### Vim

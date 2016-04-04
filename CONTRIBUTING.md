@@ -5,13 +5,13 @@ By contributing you agree to the [LICENSE](https://github.com/vhf/free-programmi
 By contributing you agree to respect the [Code of Conduct](https://github.com/vhf/free-programming-books/blob/master/CODE_OF_CONDUCT.md) of this repository.
 
 ## In a nutshell
-1. "An link to easily download a book" is not alway a link to a *free* book. Please only contribute free content. Make sure it's free.
+1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free.
 2. You don't have to know git: if you found something of interest which is *not already in this repo*, please open an issue with your links propositions.
     - If you know git, please fork the repo and send pull requests.
 3. We have 5 kinds of lists. Choose the right one:
     
     - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
-    - *Courses* : A course is a learning material which is not a book and where there is no interactive tool embeded in the site. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
+    - *Courses* : A course is a learning material which is not a book and where there is no interactive tool embedded in the site. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Interactive Tutorials* : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
     - *JavaScript Resources* : Any resources teaching a JavaScript framework or library.
     - *Problem Sets & Competitive Programming* : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
@@ -19,7 +19,8 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/vh
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files
 
 ### Guidelines
-- make sure a book is free. Double-check if needed.
+- make sure a book is free. Double-check if needed
+- we don't accept files hosted on google drive, dropbox, mega, scribd, issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
     + no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)
@@ -53,10 +54,10 @@ Example:
 
     [...]
     * [An Awesome Book](http://example.com/example.html)
-    
-    
+                                    (blank line)
+                                    (blank line)
     ### Example
-    
+                                    (blank line)
     * [Another Awesome Book](http://example.com/book.html)
     * [Some Other Book](http://example.com/other.html)
 

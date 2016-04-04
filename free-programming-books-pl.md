@@ -40,6 +40,7 @@
 
 * [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
+* [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
 
 
 ### C++

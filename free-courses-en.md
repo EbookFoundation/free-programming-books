@@ -4,7 +4,7 @@
 * [AngularJS](#angularjs)
 * [Assembly](#assembly)
 * [C](#c)
-* [C#](#c-1)
+* [C#](#c-sharp)
 * [C++](#c-2)
 * [Clojure](#clojure)
 * [Databases](#databases)
@@ -38,7 +38,7 @@
 
 ### Android
 
-* [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidpart1apps101)
+* [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101/)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
@@ -57,16 +57,16 @@
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
 
 
+### C Sharp
+
+* [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
+
+
 ### C++
 
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [LearnCpp.com C++ Tutorial](http://www.learncpp.com)
-
-
-### C#
-
-* [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 
 
 ### Clojure

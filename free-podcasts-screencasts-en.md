@@ -2,7 +2,7 @@
 
 * [Android](#android)
 * [Angular JS](#angularjs)
-* [C#](#csharp)
+* [C#](#c)
 * [C++](#c-1)
 * [CSS](#css)
 * [Elixir](#elixir)
@@ -20,6 +20,7 @@
 
 ### Android
 
+* [Podcast] - [Fragmented Podcast](http://fragmentedpodcast.com)
 * [Screencast] - [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics/)
 
 
@@ -28,7 +29,7 @@
 * [Podcast] - [Adventures in Angular - DevChat.tv](https://devchat.tv/adventures-in-angular/)
 
 
-### C#
+### C&#x23;
 
 * [Screencast] - [How to program in C# - Beginner Course | Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
 
@@ -76,6 +77,7 @@
 
 ### Javascript
 
+* [Podcast] - [5 Minutes of JavaScript](https://fivejs.codeschool.com)
 * [Podcast] - [JavaScript Jabber](https://devchat.tv/js-jabber/)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com)
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript)
@@ -85,6 +87,8 @@
 
 ### Language Agnostic
 
+* [Podcast] - [.NET Rocks!](https://www.dotnetrocks.com)
+* [Podcast] - [Developer Tea](https://developertea.com)
 * [Podcast] - [Frontside the Podcast](https://frontsidethepodcast.simplecast.fm)
 * [Podcast] - [Full Stack Radio](http://www.fullstackradio.com)
 * [Podcast] - [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing)

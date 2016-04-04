@@ -16,6 +16,7 @@
   * [智能系统](#智能系统)
   * [正则表达式](#正则表达式)
   * [版本控制](#版本控制)
+  * [程序员杂谈](#程序员杂谈)
   * [管理和监控](#管理和监控)
   * [编程艺术](#编程艺术)
   * [编译原理](#编译原理)
@@ -232,6 +233,11 @@
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 
 
+### 程序员杂谈
+
+* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
+
+
 ### 管理和监控
 
 * [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
@@ -247,7 +253,7 @@
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
-* [编程入门指南](http://huyuefeng.me/intro-to-prog/)
+* [编程入门指南](http://www.kancloud.cn/kancloud/intro-to-prog/52592)
 
 
 ### 编译原理
@@ -301,6 +307,7 @@
 ### Android
 
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
+* [Android Note(开发过程中积累的知识点)](https://github.com/CharonChui/AndroidNote)
 * [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
@@ -385,7 +392,7 @@
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
-* [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
+* [Go实战开发](https://github.com/astaxie/Go-in-Action)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
@@ -430,7 +437,6 @@
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
-* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
 
 
 ### Java
@@ -527,7 +533,7 @@
 
 * [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)
 * [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
-* [大家來學 LaTeX](http://web.math.isu.edu.tw/yeh/HowTo/HowToTex/latex123.pdf) (PDF)
+* [大家來學 LaTeX](https://github.com/49951331/graduate-project-102pj/blob/master/docs/latex123.pdf) (PDF)
 
 
 ### LISP
@@ -578,8 +584,7 @@
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
 * [Python 中文学习大本营](http://www.pythondoc.com)
-* [深入 Python](http://woodpecker.org.cn/diveintopython/)
-* [深入 Python 3](http://woodpecker.org.cn/diveintopython3/)
+* [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
 * [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/) (《A Byte of Python》中文版)
 
@@ -630,7 +635,7 @@
 
 ### Swift
 
-* [《The Swift Programming Language》中文版](https://www.gitbook.io/book/numbbbbb/-the-swift-programming-language-)
+* [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
 
 
 ### Vim

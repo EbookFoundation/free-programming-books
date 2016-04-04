@@ -1,20 +1,36 @@
 ### Index
 
+* [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
+* [Docker](#docker)
 * [GIT](#git)
 * [Go](#go)
 * [HTML5](#html5)
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
+* [Perl](#perl)
+* [PHP](#php)
+  * [Laravel](#laravel)
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
+* [Swift](#swift)
+
+
+### Amazon Web Service
+
+* [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
 
 
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+
+
+### Docker
+
+* [가장 빨리 만나는 Docker](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
 
 
 ### GIT
@@ -28,6 +44,7 @@
 
 * [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
 * [Go Tour 한글 번역](http://go-tour-kr.appspot.com)
+* [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 
 
 ### HTML5
@@ -41,6 +58,11 @@
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ko)
 * Meteor
   * [Discover Meteor](http://kr.discovermeteor.com)
+
+
+#### Node.js
+
+* [Node.js API 한글 번역 by outsideris](http://nodejs.sideeffect.kr/docs/)
 
 
 ### LaTeX
@@ -57,9 +79,15 @@
 * [책벌레가 되고픈 어린이 Perl Tutorial](http://eriny.net/p/perl)
 
 
-### Node.js
+### PHP
 
-* [Node.js API 한글 번역 by outsideris](http://nodejs.sideeffect.kr/docs/)
+* [PHP5 의 주요 기능](https://www.lesstif.com/pages/viewpage.action?pageId=24445740)
+
+
+#### Laravel
+
+* [라라벨 (Laravel) 5 입문 및 실전 강좌](http://l5.appkr.kr/lessons)
+* [쉽게 배우는 라라벨 5 프로그래밍](https://www.lesstif.com/display/laravelprog)
 
 
 ### Python
@@ -78,3 +106,8 @@
 ### Ruby
 
 * [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
+
+
+### Swift
+
+* [Swift 언어 개발문서](http://swift.leantra.kr) - 이전 버젼

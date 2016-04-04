@@ -37,6 +37,7 @@
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
+* [Systèmes d'exploitation](#systemes-d-exploitation)
 * [TEI](#TEI)
 * [Vim](#vim)
 
@@ -251,6 +252,11 @@
 ### SPIP
 
 * [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat et collectif SPIP
+
+
+### Systèmes d'exploitation
+
+* [Simple OS (SOS)](http://sos.enix.org/fr/SOSDownload) - David Decotigny et Thomas Petazzoni
 
 
 ### TEI

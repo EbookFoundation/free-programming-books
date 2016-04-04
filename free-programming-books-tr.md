@@ -152,8 +152,3 @@
 ### Swift
 
 * [Swift Türkiye](http://www.swiftturkiye.org)
-
-
-### Windows Phone
-
-* [Windows Phone'a Uygulama Yazmak](https://mehmetakifsonmez.files.wordpress.com/2013/12/windows-phone-a-uygulama-yazmak.pdf) (PDF)

@@ -351,17 +351,11 @@
 * [お気楽 Haskell プログラミング入門](http://www.geocities.jp/m_hiroi/func/haskell.html) - 広井誠
 
 
-### Haxe
-
-* [Haxe 言語リファレンス](http://haxe.org/ref?lang=jp)
-
-
 ### iOS
 
 * [Cocoa Programming Tips 1001](http://hmdt.jp/tips/cocoa/index.html) - 木下誠
 * [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAppProgrammingGuide.pdf) - Apple Developer (PDF)
 * [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp) - Clay Allsopp, RubyMotion JP(翻訳)
-* [Web API を利用する iOS アプリ作成](https://github.com/hatena/Hatena-Textbook/blob/master/ios-app-development-with-web-api.md) - はてな教科書
 * [初めての iOS アプリケーション](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhone101.pdf) - Apple Developer (PDF)
 
 
@@ -504,12 +498,9 @@
 ### Perl
 
 * [2時間半で学ぶPerl](http://qntm.org/files/perl/perl_jp.html) - Sam Hughes, Kato Atsusi(翻訳)
-* [MVC によるウェブアプリケーション開発 (Plack を使った開発)](https://github.com/hatena/Hatena-Textbook/blob/master/mvc-web-application-with-plack.md) - はてな教科書
 * [Perl](https://ja.wikibooks.org/wiki/Perl) - Wikibooks
-* [Perl でのデータベース操作](https://github.com/hatena/Hatena-Textbook/blob/master/db-control-by-dbi.md) - はてな教科書
-* [Perl によるオブジェクト指向プログラミング](https://github.com/hatena/Hatena-Textbook/blob/master/oop-for-perl.md) - はてな教科書
+* [Perl でのデータベース操作](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md) - はてな教科書
 * [Perl のコアドキュメント](http://perldoc.jp/index/core) - 一般社団法人 Japan Perl Association (JPA)
-* [Perl を使ったテストの書き方](https://github.com/hatena/Hatena-Textbook/blob/master/test-for-perl.md) - はてな教科書
 * [Perl 基礎文法最速マスター](http://d.hatena.ne.jp/perlcodesample/20091226/1264257759) - 木本裕紀
 * [お気楽 Perl プログラミング超入門](http://www.geocities.jp/m_hiroi/linux/perl.html) - 広井誠
 
@@ -574,7 +565,6 @@
 
 ### R
 
-* [Google's R Style Guide](http://www.okada.jp.org/RWiki/?Google%27s%20R%20Style%20Guide) - Google, 岡田昌史(翻訳)
 * [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
 * [R グラフィックス](http://stat.biopapyrus.net/graph/) - 孫建強
 * [R プログラミング](http://stat.biopapyrus.net/r/) - 孫建強

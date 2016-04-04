@@ -28,11 +28,6 @@
 * [مقدمه ای نه چندان کوتاه بر LaTeX](http://www.ctan.org/tex-archive/info/lshort/persian)
 
 
-### PHP
-
-* [آموزش فریمورک لاراول](http://www.laravel.ir)
-
-
 ### Python
 
 * [از این پس پایتون](http://www.aviny.com/learning/pdf-learning/92-04-05/from-now-python/from-now-python.pdf) (PDF)

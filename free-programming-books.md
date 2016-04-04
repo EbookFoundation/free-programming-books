@@ -425,7 +425,6 @@
 #### Mathematics For Computer Science
 
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
-* [Mathematics for Computer Science (May 2015 Version)](https://courses.csail.mit.edu/6.042/spring15/mcs.pdf) - Eric Lehman, F Thomson Leighton and Albert R Meyer (PDF)
 
 
 #### Misc
@@ -484,7 +483,6 @@
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
-* [The Z Notation: A Reference Manual, Second Edition](http://spivey.oriel.ox.ac.uk/~mike/zrm/zrm.pdf) - J. M. Spivey (PDF)
 
 
 #### MOOC
@@ -493,7 +491,6 @@
 * [edX](https://www.edx.org)
 * [FutureLearn](https://www.futurelearn.com)
 * [MIT OCW](http://ocw.mit.edu/index.htm)
-* [NPTEL](http://nptel.ac.in/courses.php?disciplineId=106)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
 
@@ -645,7 +642,6 @@
 
 #### Theoretical Computer Science
 
-* [An Introduction to the Theory of Computation](http://web.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
 * [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
 * [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
@@ -662,7 +658,6 @@
 * [Semantics with Applications: A Formal Introduction](http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.html) - Hanne Riis Nielson, Flemming Nielson
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 * [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/html/index.xhtml)
-* [Theory of Computation](http://www.cse.iitd.ernet.in/~ssen/csl705/admin705.html) - Sandeep Sen, IIT Delhi
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 
 
@@ -1041,7 +1036,7 @@
 
 ### Git
 
-* [A practical git introduction](http://marc.helbling.fr/2014/09/practical-git-introduction/)
+* [A practical git introduction](http://marc.helbling.fr/2014/09/practical-git-introduction)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
@@ -1085,7 +1080,6 @@
 
 #### Gradle
 
-* [Building and Testing with Gradle](https://gradle.org/servicesregistered-access?content=books%2Fbuilding-and-testing%2F)
 * [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
 * [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) - Hans Dockter, Adam Murdoch ([PDF](https://docs.gradle.org/current/userguide/userguide.pdf))
 
@@ -1207,9 +1201,8 @@
 * [Concrete Math Companion by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/cmc.pdf) (PDF)
 * [Easy J by Linda Alvord, Norman Thomson](http://www.jsoftware.com/books/pdf/easyj.pdf) (PDF, [Word DOC](http://www.jsoftware.com/books/doc/easyj_doc.zip))
 * [Exploring Math by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/expmath.pdf) (PDF)
-* [J for C Programmers by Henry Rich](http://www.jsoftware.com/help/jforc/contents.htm) ([PDF](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20071003.pdf), [Word 2003](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20070929.doc))
+* [J for C Programmers by Henry Rich](http://www.jsoftware.com/help/jforc/contents.htm)
 * [J Primer](http://www.jsoftware.com/help/primer/contents.htm)
-* [J Reference Card](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=view&target=J602_RefCard_color_letter_current.pdf) (PDF)
 * [Learning J by Roger Stokes- online](http://www.jsoftware.com/help/learning/contents.htm)
 * [Math for the Layman by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/mftl.zip) (zipped html+images)
 
@@ -1219,7 +1212,6 @@
 * [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman (PDF)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson (PDF)
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
-* [Cadmus: A Primer in Java](http://java.divshot.io) - Hashan Punchihewa, Joseph Bills et al.
 * [Category wise tutorials - J2EE](http://www.mkyong.com)
 * [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com) - Marty Hall and Larry Brown
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/html/page9.html)
@@ -1687,10 +1679,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Logic, Programming and Prolog (2ed)](http://www.ida.liu.se/~ulfni53/lpp/)
 * [Natural Language Processing Techniques in Prolog](http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/) - P. Blackburn, K. Striegnitz
 * [Prolog and Natural - Language Analysis](http://www.mtome.com/Publications/PNLA/pnla-digital.html) - Fernando C. N. Pereira, Stuart M. Shieber
-* [Prolog Experiments in Discrete Mathematics, Logic, and Computability](http://web.cecs.pdx.edu/~jhein/books/PrologLabBook09.pdf) - James L. Hein (PDF)
 * [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
-* [Prolog Programming: A First Course](http://engronline.ee.memphis.edu/deductiveDB/prolog_book.pdf) - Paul Brna (PDF)
 * [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook)
 * [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html) - P. Flach (HTML, PDF)

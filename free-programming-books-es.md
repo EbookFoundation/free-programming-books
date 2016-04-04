@@ -290,11 +290,6 @@
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 
 
-#### Django
-
-* [El libro de Django 1.0](http://django-book.mkaufmann.com.ar)
-
-
 #### Web2py
 
 * [Web2py - Manual de Referencia Completo, 5a Edición](http://www.web2py.com/books/default/chapter/41)

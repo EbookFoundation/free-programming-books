@@ -392,7 +392,7 @@
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
 * [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
 * [学习Go语言](http://mikespook.com/learning-go/)
-
+* [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) (《[The Little Go Book](https://github.com/karlseguin/the-little-go-book)》中文版)
 
 ### Groovy
 

@@ -129,8 +129,14 @@
 * [SurviveJS - Webpack and React](http://survivejs.com)
 
 
-### Redux
+## Redux
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+
+## Elm
+
+* [Elm Tutorial](http://www.elm-tutorial.org/)
+* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
+* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 

@@ -80,6 +80,7 @@
 * [Podcast] - [5 Minutes of JavaScript](https://fivejs.codeschool.com)
 * [Podcast] - [JavaScript Jabber](https://devchat.tv/js-jabber/)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com)
+* [Podcast] - [JavaScript Air](https://javascriptair.com)
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript)
 * [Screencast] - [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)
 * [Screencast] - [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript)

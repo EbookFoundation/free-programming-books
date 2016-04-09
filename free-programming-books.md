@@ -483,7 +483,7 @@
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
-* [The Docker Book](http://books.linuxfocus.net/files/books/James.Turnbull.The.Docker.Book.Containerization.is.the.new.virtualization.B00LRROTI4.pdf)
+* [The Docker Book](http://books.linuxfocus.net/files/books/James.Turnbull.The.Docker.Book.Containerization.is.the.new.virtualization.B00LRROTI4.pdf) (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 * [The Z Notation: A Reference Manual, Second Edition](http://spivey.oriel.ox.ac.uk/~mike/zrm/zrm.pdf) - J. M. Spivey (PDF)
 

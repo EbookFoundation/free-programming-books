@@ -164,6 +164,7 @@
 * [Scratch](#scratch)
 * [Sed](#sed)
 * [Smalltalk](#smalltalk)
+* [Spark](#spark)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
 * [Standard ML](#standard-ml)
@@ -261,7 +262,7 @@
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/)
 * [CS Unplugged: Computer Science without a computer](http://csunplugged.org/books/)
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
-* [Data Structures and Algorithms: Annotated Reference with Examples](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/) - G. Barnett and L. Del Tongo 
+* [Data Structures and Algorithms: Annotated Reference with Examples](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/) - G. Barnett and L. Del Tongo
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
@@ -1622,7 +1623,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * Drupal Framework
   * Drupal 7
     * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
-* [Hacking with PHP](http://www.hackingwithphp.com) 
+* [Hacking with PHP](http://www.hackingwithphp.com)
 * Laravel Framework
   * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/laravel-5)
   * [Laravel: Code Bright](http://daylerees.com/codebright)
@@ -2000,10 +2001,17 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Smalltalk
 
 * [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/) (PDF)
-* [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) -  S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone 
+* [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) -  S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
 * [Pharo by Example](http://pharobyexample.org) (Smalltalk DE)
 * [Squeak By Example](http://www.squeakbyexample.org) (Smalltalk IDE)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
+
+
+### Spark
+
+* [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
+* [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
+* [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 
 
 ### SQL (implementation agnostic)

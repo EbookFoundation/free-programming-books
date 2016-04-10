@@ -95,13 +95,11 @@
 * [Grunt中文文档](http://www.gruntjs.net)
 * [Gulp 入门指南](https://github.com/nimojs/gulp-book)
 * [gulp中文文档](http://www.gulpjs.com.cn/docs/)
-* [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/)
 * [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
 * [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 * [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
-* [Yeoman中文文档](http://yeomanjs.org)
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
@@ -161,7 +159,6 @@
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
-* [面向程序员的数据挖掘指南](https://github.com/jizhang/guidetodatamining)
 
 
 ### 操作系统
@@ -176,7 +173,6 @@
 * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux 系统高级编程](http://sourceforge.net/projects/elpi/)
-* [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
@@ -264,7 +260,6 @@
 ### 编辑器
 
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
-* [tmux:高效的全键盘开发工具](https://github.com/aqua7regia/tmux-Productive-Mouse-Free-Development_zh)
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com)
@@ -424,11 +419,6 @@
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 
 
-### HTTP
-
-* [HTTP 下午茶](http://happypeter.github.io/tealeaf-http)
-
-
 ### iOS
 
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
@@ -478,7 +468,6 @@
   * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * D3.js
   * [D3.js 入门系列](http://www.ourd3js.com/wordpress/?cat=2) (还有进阶、高级等系列)
-  * [pkuwwt的D3教程](http://www.pkuwwt.tk/d3-tutorial-cn/about.html)
   * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
   * [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
   * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
@@ -524,7 +513,7 @@
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * Zepto.js
   * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
-* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
+* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com) 翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 
@@ -586,7 +575,6 @@
 * [Python 中文学习大本营](http://www.pythondoc.com)
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
-* [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/) (《A Byte of Python》中文版)
 
 
 ### R
@@ -623,7 +611,6 @@
 ### Scheme
 
 * [Scheme 入门教程](http://deathking.github.io/yast-cn/) (《Yet Another Scheme Tutorial》中文版)
-* [算法语言Scheme修订<sup>6</sup>报告](https://r6rs.mrliu.org)（R<sup>6</sup>RS简体中文翻译）
 
 
 ### Shell

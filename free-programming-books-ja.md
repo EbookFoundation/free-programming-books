@@ -34,7 +34,6 @@
   * [Grails](#grails)
   * [Spock Framework](#spock-framework)
 * [Haskell](#haskell)
-* [Haxe](#haxe)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)

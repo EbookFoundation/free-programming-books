@@ -93,6 +93,11 @@
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 
 
+### Bash / Shell
+
+* [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
+
+
 ### Caml
 
 * [Le language Caml](http://caml.inria.fr)

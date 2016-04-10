@@ -1619,6 +1619,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
     * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
 * [Hacking with PHP](http://www.hackingwithphp.com)
 * Laravel Framework
+  * Laravel 3
+    * [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
   * Laravel 4
     * [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
   * Laravel 5

@@ -1619,10 +1619,13 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
     * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
 * [Hacking with PHP](http://www.hackingwithphp.com)
 * Laravel Framework
-  * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/laravel-5)
-  * [Laravel: Code Bright](http://daylerees.com/codebright)
-  * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled)
-  * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
+  * Laravel 3
+    * [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
+  * Laravel 4
+    * [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
+  * Laravel 5
+    * [Laravel 5.x Official Documentation. Synced Daily](https://leanpub.com/laravel-5)
+    * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Internals Book](http://www.phpinternalsbook.com)

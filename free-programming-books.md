@@ -99,7 +99,7 @@
   * [Standards](#standards)
   * [Theoretical Computer Science](#theoretical-computer-science)
   * [Web Performance](#web-performance)
-* [LaTeX / TeX](#latex-tex)
+* [LaTeX / TeX](#latex--tex)
   * [LaTeX](#latex)
   * [TeX](#tex)
 * [Limbo](#limbo)

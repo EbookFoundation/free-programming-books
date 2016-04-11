@@ -602,12 +602,14 @@
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [笨方法学 Ruby](http://lrthw.github.io)
 
+
 ### Rust
 
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
 * [通过例子学习 Rust](http://rust.cc/rust-by-example/)
+
 
 ### Scala
 

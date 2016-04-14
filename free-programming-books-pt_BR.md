@@ -84,6 +84,8 @@
 ### Php
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
 * [PHP Do jeito certo](http://br.phptherightway.com/)
+* [Laravel - O Framework PHP para os Artesãos da Web](http://laravel.artesaos.org/)
+* [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 
 
 ### Python

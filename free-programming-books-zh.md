@@ -92,6 +92,7 @@
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 * [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
+* [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 * [Grunt中文文档](http://www.gruntjs.net)
 * [Gulp 入门指南](https://github.com/nimojs/gulp-book)
 * [gulp中文文档](http://www.gulpjs.com.cn/docs/)
@@ -110,7 +111,6 @@
 * [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
-* [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 
 
 ### WEB服务器

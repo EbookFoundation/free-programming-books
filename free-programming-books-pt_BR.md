@@ -128,13 +128,12 @@
 * [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf) - Heitor Gouvea (PDF)
 
 
-### Php
-* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
-* [PHP Do jeito certo](http://br.phptherightway.com/)
-* [Laravel - O Framework PHP para os Artesãos da Web](http://laravel.artesaos.org/)
+### PHP
+
+* [A semana PHP](http://asemanaphp.com.br)
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
-* [A semana PHP](http://asemanaphp.com.br).
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
+* [Laravel - O Framework PHP para os Artesãos da Web](http://laravel.artesaos.org)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 
 

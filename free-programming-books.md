@@ -833,6 +833,7 @@
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [Threading in C#](http://www.albahari.com/threading/)
+* [Creating Mobile Apps with Xamarin.Forms C#](http://aka.ms/xamebook)
 
 
 ### C++

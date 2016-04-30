@@ -511,6 +511,7 @@
   * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
   * [React 入门教程](http://fraserxu.me/intro-to-react/)
   * [React.js 中文文档](http://reactjs.cn)
+  * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
 * underscore.js
   * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)

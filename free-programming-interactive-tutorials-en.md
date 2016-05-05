@@ -107,6 +107,7 @@
 * [CodingBat code practice](http://codingbat.com/java)
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
+* [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 
 
 ### JavaScript
@@ -200,6 +201,7 @@
 ### SQL
 
 * [SQLBolt](http://sqlbolt.com)
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 
 
 ### Vim

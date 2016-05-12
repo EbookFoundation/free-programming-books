@@ -1,7 +1,6 @@
 # Summary
 
 * [介绍](README.md)
-* [CONTRIBUTING](CONTRIBUTING.md)
 * [free-courses-en](free-courses-en.md)
 * [free-podcasts-screencasts-cs](free-podcasts-screencasts-cs.md)
 * [free-podcasts-screencasts-en](free-podcasts-screencasts-en.md)
@@ -34,6 +33,6 @@
 * [free-programming-interactive-tutorials-pt_PT](free-programming-interactive-tutorials-pt_PT.md)
 * [javascript-frameworks-resources](javascript-frameworks-resources.md)
 * [problem-sets-competitive-programming](problem-sets-competitive-programming.md)
-* [README](README.md)
+* [CONTRIBUTING](CONTRIBUTING.md)
 * [TODO](TODO.md)
 

@@ -13,6 +13,7 @@
 * [Javascript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -89,6 +90,11 @@
 ### Linux
 
 * [«a2», ex «Appunti di informatica libera», ex «Appunti Linux»](http://archive.org/download/AppuntiDiInformaticaLibera/)
+
+
+### Livecode
+
+* [Guida a livecode](http://www.maxvessi.net/pmwiki/pmwiki.php?n=Main.GuidaALivecode)
 
 
 ### Perl

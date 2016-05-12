@@ -54,10 +54,10 @@ Example:
 
     [...]
     * [An Awesome Book](http://example.com/example.html)
-    
-    
+                                    (blank line)
+                                    (blank line)
     ### Example
-    
+                                    (blank line)
     * [Another Awesome Book](http://example.com/book.html)
     * [Some Other Book](http://example.com/other.html)
 

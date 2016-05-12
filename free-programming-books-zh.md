@@ -16,6 +16,7 @@
   * [智能系统](#智能系统)
   * [正则表达式](#正则表达式)
   * [版本控制](#版本控制)
+  * [程序员杂谈](#程序员杂谈)
   * [管理和监控](#管理和监控)
   * [编程艺术](#编程艺术)
   * [编译原理](#编译原理)
@@ -232,6 +233,11 @@
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 
 
+### 程序员杂谈
+
+* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
+
+
 ### 管理和监控
 
 * [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
@@ -431,7 +437,6 @@
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
-* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
 
 
 ### Java

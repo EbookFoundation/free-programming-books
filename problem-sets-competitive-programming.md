@@ -10,6 +10,7 @@
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
 * [Codeeval](https://www.codeeval.com)
+* [CodeFights](https://codefights.com)
 * [Codeforces](http://codeforces.com)
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
@@ -26,6 +27,7 @@
 
 ### Problem Sets
 
+* [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
@@ -33,6 +35,7 @@
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
 * [Exercism](http://exercism.io)
+* [Geeks For Geeks](http://www.geeksforgeeks.org)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)

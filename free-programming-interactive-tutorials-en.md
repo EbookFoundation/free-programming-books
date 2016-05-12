@@ -95,6 +95,7 @@
 ### HTML / CSS
 
 * [CSS Diner](http://flukeout.github.io)
+* [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
@@ -112,6 +113,7 @@
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
+* [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
@@ -126,6 +128,7 @@
 
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
+* [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 
 
 ### Lisp

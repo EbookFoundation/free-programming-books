@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [free-programming-books](free-programming-books.md)
 * [free-programming-books-az](free-programming-books-az.md)
 * [free-programming-books-bg](free-programming-books-bg.md)
 * [free-programming-books-cs](free-programming-books-cs.md)
@@ -24,7 +25,6 @@
 * [free-programming-books-tr](free-programming-books-tr.md)
 * [free-programming-books-ua](free-programming-books-ua.md)
 * [free-programming-books-zh](free-programming-books-zh.md)
-* [free-programming-books](free-programming-books.md)
 * [free-programming-interactive-tutorials-en](free-programming-interactive-tutorials-en.md)
 * [free-programming-interactive-tutorials-pt_BR](free-programming-interactive-tutorials-pt_BR.md)
 * [free-programming-interactive-tutorials-pt_PT](free-programming-interactive-tutorials-pt_PT.md)

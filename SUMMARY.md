@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [free-podcasts-screencasts-cs](free-podcasts-screencasts-cs.md)
 * [free-podcasts-screencasts-en](free-podcasts-screencasts-en.md)
 * [free-programming-books-az](free-programming-books-az.md)
 * [free-programming-books-bg](free-programming-books-bg.md)
@@ -33,6 +32,7 @@
 * [javascript-frameworks-resources](javascript-frameworks-resources.md)
 * [problem-sets-competitive-programming](problem-sets-competitive-programming.md)
 * [free-courses-en](free-courses-en.md)
+* [free-podcasts-screencasts-cs](free-podcasts-screencasts-cs.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
 * [TODO](TODO.md)
 

@@ -211,7 +211,9 @@
 ### Ruby
 
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
-
+* [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
+* [RubyMonk](https://rubymonk.com/)
+* [RubyKoans](http://rubykoans.com/)
 
 ### Sails.Js
 

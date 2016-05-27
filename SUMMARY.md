@@ -34,5 +34,4 @@
 * [free-podcasts-screencasts-cs](free-podcasts-screencasts-cs.md)
 * [free-podcasts-screencasts-en](free-podcasts-screencasts-en.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
-* [TODO](TODO.md)
 

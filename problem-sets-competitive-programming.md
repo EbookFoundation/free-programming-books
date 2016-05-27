@@ -1,8 +1,8 @@
 ### Index
 
 * [Competitive Programming](#competitive-programming)
-* [Problem Sets](#problem-sets)
 * [Data science](#data-science)
+* [Problem Sets](#problem-sets)
 
 
 ### Competitive Programming
@@ -24,6 +24,11 @@
 * [Microcorruption](https://microcorruption.com/login)
 * [Saratov State University](http://acm.sgu.ru/index.php)
 * [Topcoder](https://www.topcoder.com)
+
+
+### Data science
+
+* [Kaggle](https://www.kaggle.com)
 
 
 ### Problem Sets
@@ -55,8 +60,3 @@
 * [Timus Online Judge](http://acm.timus.ru)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
-
-
-### Data science
-
-* [Kaggle](https://www.kaggle.com/)

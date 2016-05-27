@@ -2,6 +2,7 @@
 
 * [Competitive Programming](#competitive-programming)
 * [Problem Sets](#problem-sets)
+* [Data science](#data-science)
 
 
 ### Competitive Programming
@@ -54,3 +55,8 @@
 * [Timus Online Judge](http://acm.timus.ru)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
+
+
+### Data science
+
+* [Kaggle](https://www.kaggle.com/)

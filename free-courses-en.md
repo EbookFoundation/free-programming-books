@@ -29,6 +29,7 @@
 * [Ruby](#ruby)
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
+* [SQL](#sql)
 * [Swift](#swift)
 * [Web Development](#web-development)
 
@@ -229,6 +230,11 @@
 
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
+
+
+### SQL
+
+* [Code School - Try SQL](https://www.codeschool.com/courses/try-sql)
 
 
 ### Swift

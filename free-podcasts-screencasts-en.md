@@ -90,6 +90,7 @@
 ### Language Agnostic
 
 * [Podcast] - [.NET Rocks!](https://www.dotnetrocks.com)
+* [Podcast] - [CodeNewbie](http://www.codenewbie.org/podcast)
 * [Podcast] - [Developer Tea](https://developertea.com)
 * [Podcast] - [Frontside the Podcast](https://frontsidethepodcast.simplecast.fm)
 * [Podcast] - [Full Stack Radio](http://www.fullstackradio.com)

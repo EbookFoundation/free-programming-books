@@ -1078,6 +1078,7 @@
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 * [The Go Tutorial](http://tour.golang.org)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book)
+* [Test-driven development with Go](https://leanpub.com/golang-tdd)
 
 
 ### Groovy

@@ -1076,9 +1076,9 @@
 * [Let's learn Go!](http://go-book.appspot.com)
 * [Network programming with Go](https://jan.newmarch.name/go/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
+* [Test-driven development with Go](https://leanpub.com/golang-tdd)
 * [The Go Tutorial](http://tour.golang.org)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book)
-* [Test-driven development with Go](https://leanpub.com/golang-tdd)
 
 
 ### Groovy

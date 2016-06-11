@@ -1,6 +1,7 @@
 ### Index
 
 * [Competitive Programming](#competitive-programming)
+* [Data science](#data-science)
 * [Problem Sets](#problem-sets)
 
 
@@ -23,6 +24,11 @@
 * [Microcorruption](https://microcorruption.com/login)
 * [Saratov State University](http://acm.sgu.ru/index.php)
 * [Topcoder](https://www.topcoder.com)
+
+
+### Data science
+
+* [Kaggle](https://www.kaggle.com)
 
 
 ### Problem Sets

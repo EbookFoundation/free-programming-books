@@ -5,6 +5,7 @@
 * [HTML & CSS](#html-css)
 * [JavaScript](#javascript)
 * [PHP](#php)
+* [Python](#python)
 
 
 ### Android
@@ -42,3 +43,8 @@
 ### PHP
 
 * [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+
+
+### Python
+
+* [Workshop Python 101](http://sakti.github.io/python101/)

@@ -43,6 +43,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + Swedish: [github](/free-programming-books-se.md)
 + Turkish: [github](/free-programming-books-tr.md)
 + Ukrainian: [github](/free-programming-books-ua.md)
++ Vietnamese: [github](/free-programming-books-vi.md)
 
 
 ### Free Online Courses

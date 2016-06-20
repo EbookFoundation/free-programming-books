@@ -16,8 +16,8 @@
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
-* [JS](#js)
 * [jQuery](#jquery)
+* [JS](#js)
 * [Lua](#lua)
 * [Matlab](#matlab)
 * [Misc](#misc)
@@ -139,13 +139,14 @@
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
 
 
+### jQuery
+
+* [CodeSchool - Try jQuery](https://www.codeschool.com/courses/try-jquery)
+
+
 ### JS
 
 * [Egghead.io](https://egghead.io)
-
-
-### jQuery
-* [CodeSchool - Try jQuery](https://www.codeschool.com/courses/try-jquery)
 
 
 ### Lua
@@ -218,7 +219,6 @@
 
 * [CodeSchool - Getting Started With Ruby on Rails](https://www.codeschool.com/learn/ruby)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
-
 
 
 ### Sails.Js

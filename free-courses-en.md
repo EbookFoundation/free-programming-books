@@ -59,7 +59,6 @@
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
-
 ### C
 
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
@@ -84,12 +83,10 @@
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/index.html)
 
 
-
 ### Cuda
 
 * [Intro to parallel computing with cuda](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
-
 
 
 ### Databases
@@ -209,7 +206,6 @@
 * [R Programming](https://www.coursera.org/course/rprog)
 
 
-
 ### RethinkDB
 
 * [RethinkDB: Distributed Databases](https://courses.platzi.com/courses/rethinkdb-databases/)
@@ -219,7 +215,6 @@
 
 * [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
-
 
 
 ### Sails.Js

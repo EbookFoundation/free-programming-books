@@ -46,8 +46,6 @@
 
 ### Android
 
-
-
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
@@ -57,8 +55,9 @@
 
 ### AngularJS
 
+* [AngularJS](http://www.angularjsbook.com)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
-* [AngularJS](http://www.angularjsbook.com/)
+
 
 
 ### C
@@ -81,14 +80,16 @@
 
 ### Clojure
 
+* [BraveClojure](http://www.braveclojure.com)
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/index.html)
-* [BraveClojure](http://www.braveclojure.com/)
+
 
 
 ### Cuda
 
-* [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 * [Intro to parallel computing with cuda](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+* [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+
 
 
 ### Databases
@@ -204,8 +205,9 @@
 
 ### R
 
-* [R Programming](https://www.coursera.org/course/rprog)
 * [Introduction to R for data science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0)
+* [R Programming](https://www.coursera.org/course/rprog)
+
 
 
 ### RethinkDB
@@ -215,8 +217,9 @@
 
 ### Ruby
 
-* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
+* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
+
 
 
 ### Sails.Js

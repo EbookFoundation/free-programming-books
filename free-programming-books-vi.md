@@ -4,12 +4,11 @@
 * [Lập trình C#] (#csharp-programming)
 * [Lập trình PHP](#php-programming)
 * [Lập trinh C++] (#c-and-cplus-programming)
-
 * [Lập trình Windows phone] (#windows-phone-programming)
 * [Lập trình iOs] (#ios-programming) 
 * [Android programming] (#android-programming)
-### Java programming
 
+### Java programming
 * [Lập trình java - Trung tâm tin học KHTN] (https://drive.google.com/open?id=0B1D6gK4VrGVPZHlpR05WeDdnTFk)
 
 ### Csharp programming

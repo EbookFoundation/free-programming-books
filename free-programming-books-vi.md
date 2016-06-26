@@ -1,12 +1,12 @@
 ### Sách miễn phí lập trình cho người Việt
 
-* [Lập trình Java](#java)
-* [Lập trình C#] (#csharp)
-* [Lập trình PHP](#php)
-* [Lập trinh C++] (#c++)
-* [Android programming] (#android)
-* [Lập trình Windows phone] (#windowsphone)
-* [Lập trình iOs] (#ios) 
+* [Lập trình Java](#Java)
+* [Lập trình C#] (#lap-trinh-c#)
+* [Lập trình PHP](#lap-trinh-php)
+* [Lập trinh C++] (#lap-trinh-c-c++)
+* [Android programming] (#lap-trinh-android)
+* [Lập trình Windows phone] (#lap-trinh-windows-phone)
+* [Lập trình iOs] (#lap-trinh-ios) 
 	
 ### Java
 

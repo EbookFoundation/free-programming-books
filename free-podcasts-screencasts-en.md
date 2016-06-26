@@ -13,6 +13,7 @@
 * [Language Agnostic](#language-agnostic)
 * [Node.js](#Nodejs)
 * [PHP](#php)
+* [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Vim](#vim)
@@ -115,6 +116,11 @@
 * [Podcast] - [PHP Town Hall](http://phptownhall.com)
 * [Podcast] - [Sound of Symfony](http://www.soundofsymfony.com)
 * [Podcast] - [Voices of the ElePHPant](https://voicesoftheelephpant.com)
+
+
+### PostgreSQL
+
+* [Screencast] - [PG Casts](https://www.pgcasts.com)
 
 
 ### Python

@@ -1,18 +1,19 @@
 ### Sách miễn phí lập trình cho người Việt
 
-* [Lập trình Java](#java)
+* [Lập trình Java](#java-programming)
+* [Android programming] (#android-programming)
 * [Lập trình C#] (#lap-trinh-c#)
 * [Lập trình PHP](#lap-trinh-php)
 * [Lập trinh C++] (#lap-trinh-c-c++)
-* [Android programming] (#lap-trinh-android)
+
 * [Lập trình Windows phone] (#lap-trinh-windows-phone)
 * [Lập trình iOs] (#lap-trinh-ios) 
 	
-### Java
+### Java programming
 
 * [Lập trình java - Trung tâm tin học KHTN] (https://drive.google.com/open?id=0B1D6gK4VrGVPZHlpR05WeDdnTFk)
 
-### Lap Trinh Android
+### Android programming
 * [Lập trình Android tiếng Việt](http://www.mediafire.com/download/yedc2kt6qgw0vka/SinhVienIT.Net---Lap+trinh+tren+di+dong+tren+Android+Tieng+Viet.zip)
 * [Sách lập trình Android - Trung tâm tin học KHTN] (https://drive.google.com/open?id=0B1D6gK4VrGVPQ3pwc3ZNeG1CV1E)
 

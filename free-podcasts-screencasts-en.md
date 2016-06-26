@@ -98,6 +98,7 @@
 * [Podcast] - [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing)
 * [Podcast] - [Programming Throwdown](http://www.programmingthrowdown.com)
 * [Podcast] - [Shop Talk Show](http://shoptalkshow.com)
+* [Podcast] - [Software Engineering Daily](http://softwareengineeringdaily.com)
 * [Podcast] - [Software Engineering Radio](http://www.se-radio.net)
 * [Podcast] - [The Changelog Podcast](https://changelog.com/podcast/)
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)

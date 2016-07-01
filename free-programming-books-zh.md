@@ -29,6 +29,7 @@
   * [Android](#android)
   * [AWK](#awk)
   * [C/C++](#cc)
+  * [C#](#C#)
   * [CoffeeScript](#coffeescript)
   * [Dart](#dart)
   * [Elasticsearch](#elasticsearch)
@@ -349,6 +350,11 @@
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
 * [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf) (PDF)
+
+
+### C#
+
+* [精通C#(第6版) ](http://book.douban.com/subject/24827879/)
 
 
 ### CoffeeScript

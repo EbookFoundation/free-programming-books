@@ -104,6 +104,7 @@
 * [Podcast] - [The Changelog Podcast](https://changelog.com/podcast/)
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
 * [Podcast] - [Web Security Warriors](https://devchat.tv/web-security-warriors/)
+* [Blog] - [Infocodify/](http://www.infocodify.com/)
 
 
 ### Node.js

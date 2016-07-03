@@ -79,9 +79,10 @@
 ### Javascript
 
 * [Podcast] - [5 Minutes of JavaScript](https://fivejs.codeschool.com)
-* [Podcast] - [JavaScript Jabber](https://devchat.tv/js-jabber/)
+* [Podcast] - [JavaScript Jabber](https://devchat.tv/js-jabber)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com)
 * [Podcast] - [JavaScript Air](https://javascriptair.com)
+* [Podcast] - [Frontend Five](https://frontendfive.codeschool.com)
 * [Podcast] - [Front End Happy Hour](http://frontendhappyhour.com)
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript)
 * [Screencast] - [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)

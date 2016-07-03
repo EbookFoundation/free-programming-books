@@ -1504,7 +1504,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA)
 * [.NET for Visual FoxPro Developers](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm)
 * [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) *(RedGate, By Paul Glavich and Chris Farrell)*
-* [Practical Performance Profiling: Improving the efficiency of .NET code](http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/practical-performance-profiling) *(RedGate, By Jean-Philippe Gouigoux)*
 * [Under the Hood of .NET Memory Management](http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf) (PDF) *(RedGate, By Chris Farrell and Nick Harrison)*
 * [Visual Studio .NET Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
 

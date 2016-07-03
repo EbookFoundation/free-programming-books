@@ -393,6 +393,7 @@
 * [Basic Algebra](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
 * [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
+* [Category Theory for the Sciences](http://category-theory.mitpress.mit.edu)
 * [CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
 * [Collaborative Statistics](http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
@@ -829,6 +830,7 @@
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
+* [Introduction to Rx](http://www.introtorx.com)
 * [Threading in C#](http://www.albahari.com/threading/)
 
 
@@ -1502,7 +1504,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA)
 * [.NET for Visual FoxPro Developers](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm)
 * [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) *(RedGate, By Paul Glavich and Chris Farrell)*
-* [Practical Performance Profiling: Improving the efficiency of .NET code](http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/practical-performance-profiling) *(RedGate, By Jean-Philippe Gouigoux)*
 * [Under the Hood of .NET Memory Management](http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf) (PDF) *(RedGate, By Chris Farrell and Nick Harrison)*
 * [Visual Studio .NET Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
 

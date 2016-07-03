@@ -28,7 +28,9 @@
 * [语言相关](#语言相关)
   * [Android](#android)
   * [AWK](#awk)
-  * [C/C++](#cc)
+  * [C](#c)
+  * [C#](#c-sharp)
+  * [C++](#c-1)
   * [CoffeeScript](#coffeescript)
   * [Dart](#dart)
   * [Elasticsearch](#elasticsearch)
@@ -326,6 +328,11 @@
 * [C/C++ 学习教程](http://doc.lellansin.com)
 * [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
+
+
+### C Sharp
+
+* [精通C#(第6版) ](http://book.douban.com/subject/24827879/)
 
 
 ### C++

@@ -28,8 +28,9 @@
 * [语言相关](#语言相关)
   * [Android](#android)
   * [AWK](#awk)
-  * [C/C++](#cc)
-  * [C#](#C#)
+  * [C](#c)
+  * [C++](#c-1)
+  * [C#](#c-sharp)
   * [CoffeeScript](#coffeescript)
   * [Dart](#dart)
   * [Elasticsearch](#elasticsearch)
@@ -352,7 +353,7 @@
 * [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf) (PDF)
 
 
-### C#
+### C Sharp
 
 * [精通C#(第6版) ](http://book.douban.com/subject/24827879/)
 

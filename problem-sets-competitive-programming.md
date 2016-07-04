@@ -8,6 +8,7 @@
 ### Competitive Programming
 
 * [4Clojure](http://www.4clojure.com)
+* [AIZU Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
 * [Codeeval](https://www.codeeval.com)
@@ -33,6 +34,7 @@
 
 ### Problem Sets
 
+* [A2 Online Judge](https://a2oj.com)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
 * [CareerCup](http://www.careercup.com)
@@ -45,6 +47,7 @@
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
+* [HDU Online Judge](http://acm.hdu.edu.cn)
 * [InterviewBit](https://www.interviewbit.com)
 * [Leetcode](https://leetcode.com)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)

@@ -64,7 +64,7 @@
 
 ### Bash
 
-* [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf)
+* [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
 
 
 ### C

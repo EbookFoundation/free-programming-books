@@ -155,7 +155,7 @@
 
 ### Rust
 
-* [Podcast] - [New Rustacean](http://www.newrustacean.com/)
+* [Podcast] - [New Rustacean](http://www.newrustacean.com)
 
 
 ### Vim

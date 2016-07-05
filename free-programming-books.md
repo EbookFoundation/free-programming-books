@@ -499,6 +499,7 @@
 * [MIT OCW](http://ocw.mit.edu/index.htm)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
+* [openHPI](https://open.hpi.de)
 
 
 #### Networking

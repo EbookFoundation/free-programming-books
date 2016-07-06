@@ -16,7 +16,6 @@
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
-* [jQuery](#jquery)
 * [JS](#js)
 * [Lua](#lua)
 * [Matlab](#matlab)
@@ -29,7 +28,6 @@
 * [Ruby](#ruby)
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
-* [SQL](#sql)
 * [Swift](#swift)
 * [Web Development](#web-development)
 
@@ -59,6 +57,7 @@
 
 ### AngularJS
 
+* [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
@@ -111,6 +110,7 @@
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
 * [edX: Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Erik Meijer
+* [RWTH Aachen University: Functional Programming](https://videoag.fsmpi.rwth-aachen.de/?course=12ss-funkprog) - Jürgen Giesl
 
 
 ### HTML / CSS
@@ -137,11 +137,6 @@
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
-
-
-### jQuery
-
-* [CodeSchool - Try jQuery](https://www.codeschool.com/courses/try-jquery)
 
 
 ### JS
@@ -217,7 +212,6 @@
 
 ### Ruby
 
-* [CodeSchool - Getting Started With Ruby on Rails](https://www.codeschool.com/learn/ruby)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 
@@ -230,11 +224,6 @@
 
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
-
-
-### SQL
-
-* [Code School - Try SQL](https://www.codeschool.com/courses/try-sql)
 
 
 ### Swift

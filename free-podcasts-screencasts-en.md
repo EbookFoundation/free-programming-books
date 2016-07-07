@@ -9,6 +9,8 @@
 * [Emacs](#emacs)
 * [Ember.js](#emberjs)
 * [Erlang](#erlang)
+* [Golang](#golang)
+* [Gulp](#gulp)
 * [Javascript](#javascript)
 * [Language Agnostic](#language-agnostic)
 * [Node.js](#Nodejs)
@@ -70,6 +72,12 @@
 * [Screencast] - [Erlang Factory SF Bay 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [Screencast] - [Functions + Messages + Concurrency = Erlang](http://www.infoq.com/presentations/joe-armstrong-erlang-qcon08)
 * [Screencast] - [Thinking like an Erlanger](https://www.youtube.com/watch?v=6sBL1kHoMoo)
+
+
+### Golang
+
+* [Screencast] - [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY)
+* [Screencast] - [Hacking with Andrew and Brad: an HTTP/2 client](https://www.youtube.com/watch?v=yG-UaBJXZ80)
 
 
 ### Gulp

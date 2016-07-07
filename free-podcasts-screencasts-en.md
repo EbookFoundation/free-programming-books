@@ -72,6 +72,7 @@
 * [Screencast] - [Functions + Messages + Concurrency = Erlang](http://www.infoq.com/presentations/joe-armstrong-erlang-qcon08)
 * [Screencast] - [Thinking like an Erlanger](https://www.youtube.com/watch?v=6sBL1kHoMoo)
 
+
 ### Golang
 
 * [Screencast] - [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY)

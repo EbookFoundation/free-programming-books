@@ -16,6 +16,7 @@
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Vim](#vim)
 
 
@@ -150,6 +151,11 @@
 * [Screencast] - [Free Ruby on Rails Screencasts](http://railscasts.com/?type=free)
 * [Screencast] - [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free)
 * [Screencast] - [Ruby Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/ruby)
+
+
+### Rust
+
+* [Podcast] - [New Rustacean](http://www.newrustacean.com)
 
 
 ### Vim

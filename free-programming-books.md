@@ -2005,8 +2005,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Smalltalk
 
 * [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/) (PDF)
+* [Deep into Pharo](http://files.pharo.org/books/deep-into-pharo/)
 * [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) -  S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
+* [Numerical Methods with Pharo](http://files.pharo.org/books/numerical-methods/)
 * [Pharo by Example](http://pharobyexample.org) (Smalltalk DE)
+* [Pharo Enterprise: a Web Perspective](http://files.pharo.org/books/enterprise-pharo/)
 * [Squeak By Example](http://www.squeakbyexample.org) (Smalltalk IDE)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 

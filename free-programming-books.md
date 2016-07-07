@@ -1741,7 +1741,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
 * [Full Stack Python](http://www.fullstackpython.com)
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
-* [Google's Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+* [Google's Python Style Guide](https://github.com/google/styleguide)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
 * [High Performance Python](http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf) (PDF)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)

@@ -1662,7 +1662,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [Postgres Official Documentation](http://www.postgresql.org/docs/)
 * [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Practical PostgreSQL](https://www.commandprompt.com/ppbook/)
+* [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
 
 
 ### PowerShell

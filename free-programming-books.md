@@ -59,7 +59,7 @@
 * [HTTP](#http)
 * [Icon](#icon)
 * [iOS](#ios)
-* [IoT](#IoT)
+* [IoT](#iot)
 * [Isabelle/HOL](#isabellehol)
 * [J](#j)
 * [Java](#java)

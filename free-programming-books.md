@@ -780,8 +780,8 @@
 * [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php)
 * [Google Shell Style Guide](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 * [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School
-* [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
 * [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
+* [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
 * [The Bash Academy](http://www.bash.academy)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) Z. A. Shaw
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr.

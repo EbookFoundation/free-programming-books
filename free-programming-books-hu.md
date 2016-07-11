@@ -45,6 +45,8 @@
 
 * [CSS alapjai](http://weblabor.hu/cikkek/cssalapjai1) - Bártházi András (HTML)
 * [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok) - Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan és Mike West, ford.: Nagy Gusztáv (PDF)
+* [Web programozás alapismeretek](http://nagygusztav.hu/sites/default/files/csatol/web_programozas_-_szines.pdf) Nagy Gusztáv (PDF)
+* [standardsmode.hu](http://www.standardsmode.hu/) HTML, XHTML és CSS magyar nyelven
 
 
 ### Java

@@ -31,8 +31,9 @@
 
 ###BASH
 
+* [Guida per principianti bash] (http://codex.altervista.org/guidabash/guidabash_1_11.pdf)
 * [Guida avanzata per la bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf)
-
+* [Programmazione della shell Bash] (http://www.aquilante.net/doc/bash_programming.pdf)
 
 ###C
 
@@ -64,10 +65,19 @@
 
 * [L'arte di scrivere con LaTeX - L. Pantieri e T. Gordini](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf)
 * [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
+* [LaTeX Facile] (http://www.guit.sssup.it/downloads/LaTeX-facile.pdf)
+* [Imparare LaTeX] (https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf)
+* [Cosa si può fare con LaTeX] (http://www.batmath.it/latex/pdfs/guida_st.pdf)
+* [Breve guida ai pacchetti LaTeX] (http://profs.sci.univr.it/~gregorio/breveguida.pdf)
+* [Layout di pagina LaTeX] (http://tug.ctan.org/tex-archive/info/italian/fancyhdr/itfancyhdr.pdf)
+
 
 ###Linux
 
 * [«a2», ex «Appunti di informatica libera», ex «Appunti Linux»](http://archive.org/download/AppuntiDiInformaticaLibera/)
+* [Amministrare GNU/Linux] (https://labs.truelite.it/attachments/download/821/corso.pdf)
+* [La gestione della sicurezza GNU/Linux] (https://labs.truelite.it/attachments/download/820/sicurezza.pdf)
+* [GAPIL Guida alla Programmazione in Linux] (http://gapil.gnulinux.it/files/2011/12/gapil.pdf)
 
 
 ###Lisp

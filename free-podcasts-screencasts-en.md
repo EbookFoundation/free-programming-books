@@ -25,7 +25,7 @@
 ### Android
 
 * [Podcast] - [Fragmented Podcast](http://fragmentedpodcast.com)
-* [Screencast] - [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics/)
+* [Screencast] - [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics)
 
 
 ### AngularJS
@@ -112,7 +112,8 @@
 * [Podcast] - [Software Engineering Radio](http://www.se-radio.net)
 * [Podcast] - [The Changelog Podcast](https://changelog.com/podcast/)
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
-* [Podcast] - [Web Security Warriors](https://devchat.tv/web-security-warriors/)
+* [Podcast] - [Web Security Warriors](https://devchat.tv/web-security-warriors)
+* [Blog] - [Infocodify/](http://www.infocodify.com)
 
 
 ### Node.js

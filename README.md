@@ -67,4 +67,5 @@ Free Podcasts and Screencasts:
 
 + Czech: [github](/free-podcasts-screencasts-cs.md)
 + English: [github](/free-podcasts-screencasts-en.md)
++ Portuguese (Brazil): [github](/free-podcasts-screencasts-pt_BR.md)
 + Russian: [github](/free-podcasts-screencasts-ru.md)

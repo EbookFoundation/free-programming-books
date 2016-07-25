@@ -191,6 +191,7 @@
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 * [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 * [鸟哥的 Linux 私房菜 服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)
+* [FreeRADIUS新手入门](https://github.com/vhf/free-programming-books/issues/1104)
 
 
 ### 数据库

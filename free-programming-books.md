@@ -639,6 +639,7 @@
 * [Web API Design](http://apigee.com/about/blog/technology/announcement-free-ebook-web-api-design)
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad) *(Leanpub, by Paddy Foran)*
+* [Architecture of Open Source Systems](http://aosabook.org/en/index.html)
 
 
 #### Standards

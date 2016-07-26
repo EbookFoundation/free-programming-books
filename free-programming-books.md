@@ -130,7 +130,6 @@
 * [Oracle PL/SQL](#oracle-plsql)
 * [Oracle Server](#oracle-server)
 * [Parrot / Perl 6](#parrot--perl-6)
-* [PC-BSD](#pc-bsd)
 * [Perl](#perl)
 * [PHP](#php)
 * [PicoLisp](#picolisp)
@@ -1589,12 +1588,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)
 * [Using Perl 6](https://github.com/perl6/book/) (work in progress)
-
-
-### PC-BSD
-
-* [PC-BSD® Users Handbook](http://wiki.pcbsd.org/index.php/PC-BSD%C2%AE_Users_Handbook)
-
 
 ### Perl
 

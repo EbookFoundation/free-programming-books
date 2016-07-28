@@ -7,8 +7,8 @@
 
 ### Competitive Programming
 
-* [A2 Online Judge](https://a2oj.com)
 * [4Clojure](http://www.4clojure.com)
+* [A2 Online Judge](https://a2oj.com)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
 * [Codeeval](https://www.codeeval.com)
@@ -24,7 +24,7 @@
 * [Just another Golf Coding](http://jagc.org)
 * [Microcorruption](https://microcorruption.com/login)
 * [Saratov State University](http://acm.sgu.ru/index.php)
-* [Sphere Online Judge](https://www.spoj.com/contests)
+* [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
 
 

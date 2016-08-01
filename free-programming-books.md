@@ -1657,8 +1657,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Practical PHP Programming](http://www.hackingwithphp.com)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
-* [Symfony 2.0](http://symfony.com/doc/2.0/book/)
-* [Symfony 3.0](http://symfony.com/doc/3.0/book/)
+* Symfony Framework
+  * [The Symfony Book 2.x](http://symfony.com/doc/2.8/book/)
+  * [The Symfony Book 3.x](http://symfony.com/doc/master/book/)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
 

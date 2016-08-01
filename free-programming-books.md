@@ -59,6 +59,7 @@
 * [HTTP](#http)
 * [Icon](#icon)
 * [iOS](#ios)
+* [IoT](#iot)
 * [Isabelle/HOL](#isabellehol)
 * [J](#j)
 * [Java](#java)
@@ -1196,6 +1197,11 @@
 * [NSHipster](http://nshipster.com/#archive) (Resource)
 * [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html) (HTML)
 * [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
+
+
+### IoT
+
+* [IoT in five days- V1.1](https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases) (PDF, EPUB)
 
 
 ### Isabelle/HOL

@@ -1,6 +1,6 @@
 # List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[View the English list](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+[View the English list](/free-programming-books.md)
 
 ## Intro
 This list initially was a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) by George Stocker. Now updated, with dead links gone and new content.

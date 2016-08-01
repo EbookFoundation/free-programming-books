@@ -4,6 +4,7 @@
 * [Android](#android)
 * [AngularJS](#angularjs)
 * [Assembly](#assembly)
+* [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-2)
@@ -57,7 +58,13 @@
 
 ### AngularJS
 
+* [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
+
+### Bash
+
+* [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
 
 
 ### C
@@ -109,6 +116,7 @@
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
 * [edX: Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Erik Meijer
+* [RWTH Aachen University: Functional Programming](https://videoag.fsmpi.rwth-aachen.de/?course=12ss-funkprog) - Jürgen Giesl
 
 
 ### HTML / CSS
@@ -180,7 +188,7 @@
 ### OCaml
 
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
-* [Introduction to Functional Programming in OCaml](https://www.france-universite-numerique-mooc.fr/courses/parisdiderot/56002/session01/about)
+* [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about)
 
 
 ### Oracle PL/SQL

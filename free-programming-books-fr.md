@@ -168,6 +168,11 @@
 * [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf) - John D. Hobby (PDF)
 
 
+#### Pharo
+
+* [Pharo par l'Exemple](http://pharobyexample.org/fr/)
+
+
 #### PGF/TikZ
 
 * [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/) - Gérard Tisseau et Jacques Duma

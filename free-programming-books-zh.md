@@ -28,7 +28,9 @@
 * [语言相关](#语言相关)
   * [Android](#android)
   * [AWK](#awk)
-  * [C/C++](#cc)
+  * [C](#c)
+  * [C#](#c-sharp)
+  * [C++](#c-1)
   * [CoffeeScript](#coffeescript)
   * [Dart](#dart)
   * [Elasticsearch](#elasticsearch)
@@ -328,6 +330,11 @@
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
 
 
+### C Sharp
+
+* [精通C#(第6版) ](http://book.douban.com/subject/24827879/)
+
+
 ### C++
 
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
@@ -406,7 +413,7 @@
 ### Haskell
 
 * [Haskell 趣学指南](http://learnyoua.haskell.sg)
-* [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
+* [Real World Haskell 中文版](http://cnhaskell.com)
 
 
 ### HTML / CSS
@@ -610,7 +617,7 @@
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
-* [通过例子学习 Rust](http://rust.cc/rust-by-example/)
+* [通过例子学习 Rust](https://github.com/rustcc/rust-by-example/)
 
 
 ### Scala

@@ -9,20 +9,24 @@
 * [Emacs](#emacs)
 * [Ember.js](#emberjs)
 * [Erlang](#erlang)
+* [Golang](#golang)
+* [Gulp](#gulp)
 * [Javascript](#javascript)
 * [Language Agnostic](#language-agnostic)
 * [Node.js](#Nodejs)
 * [PHP](#php)
+* [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Vim](#vim)
 
 
 ### Android
 
+* [Podcast] - [Android Developers Backstage](http://androidbackstage.blogspot.com)
 * [Podcast] - [Fragmented Podcast](http://fragmentedpodcast.com)
 * [Screencast] - [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics/)
-
 
 ### AngularJS
 
@@ -70,6 +74,12 @@
 * [Screencast] - [Thinking like an Erlanger](https://www.youtube.com/watch?v=6sBL1kHoMoo)
 
 
+### Golang
+
+* [Screencast] - [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY)
+* [Screencast] - [Hacking with Andrew and Brad: an HTTP/2 client](https://www.youtube.com/watch?v=yG-UaBJXZ80)
+
+
 ### Gulp
 
 * [Screencast] - [Learning Gulp](http://leveluptuts.com/tutorials/learning-gulp)
@@ -78,9 +88,10 @@
 ### Javascript
 
 * [Podcast] - [5 Minutes of JavaScript](https://fivejs.codeschool.com)
-* [Podcast] - [JavaScript Jabber](https://devchat.tv/js-jabber/)
+* [Podcast] - [JavaScript Jabber](https://devchat.tv/js-jabber)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com)
 * [Podcast] - [JavaScript Air](https://javascriptair.com)
+* [Podcast] - [Frontend Five](https://frontendfive.codeschool.com)
 * [Podcast] - [Front End Happy Hour](http://frontendhappyhour.com)
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript)
 * [Screencast] - [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)
@@ -90,12 +101,14 @@
 ### Language Agnostic
 
 * [Podcast] - [.NET Rocks!](https://www.dotnetrocks.com)
+* [Podcast] - [CodeNewbie](http://www.codenewbie.org/podcast)
 * [Podcast] - [Developer Tea](https://developertea.com)
 * [Podcast] - [Frontside the Podcast](https://frontsidethepodcast.simplecast.fm)
 * [Podcast] - [Full Stack Radio](http://www.fullstackradio.com)
 * [Podcast] - [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing)
 * [Podcast] - [Programming Throwdown](http://www.programmingthrowdown.com)
 * [Podcast] - [Shop Talk Show](http://shoptalkshow.com)
+* [Podcast] - [Software Engineering Daily](http://softwareengineeringdaily.com)
 * [Podcast] - [Software Engineering Radio](http://www.se-radio.net)
 * [Podcast] - [The Changelog Podcast](https://changelog.com/podcast/)
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
@@ -114,6 +127,11 @@
 * [Podcast] - [PHP Town Hall](http://phptownhall.com)
 * [Podcast] - [Sound of Symfony](http://www.soundofsymfony.com)
 * [Podcast] - [Voices of the ElePHPant](https://voicesoftheelephpant.com)
+
+
+### PostgreSQL
+
+* [Screencast] - [PG Casts](https://www.pgcasts.com)
 
 
 ### Python
@@ -141,6 +159,11 @@
 * [Screencast] - [Free Ruby on Rails Screencasts](http://railscasts.com/?type=free)
 * [Screencast] - [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free)
 * [Screencast] - [Ruby Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/ruby)
+
+
+### Rust
+
+* [Podcast] - [New Rustacean](http://www.newrustacean.com)
 
 
 ### Vim

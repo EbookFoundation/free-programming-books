@@ -71,7 +71,7 @@
 
 ### Go
 
-* [Go Turu](http://tur.a.golang.org.tr)
+* [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
 
 
 ### Html

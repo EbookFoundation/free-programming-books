@@ -413,7 +413,7 @@
 ### Haskell
 
 * [Haskell 趣学指南](http://learnyoua.haskell.sg)
-* [Real World Haskell 中文版](http://cnhaskell.com/)
+* [Real World Haskell 中文版](http://cnhaskell.com)
 
 
 ### HTML / CSS

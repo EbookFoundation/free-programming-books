@@ -639,10 +639,10 @@
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
+* [Test Driven Development , Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) *(Leanpub, by Daniel Żołopa)
 * [Web API Design](http://apigee.com/about/blog/technology/announcement-free-ebook-web-api-design)
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad) *(Leanpub, by Paddy Foran)*
-* [Test Driven Development , Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) *(Leanpub, by Daniel Żołopa)
 
 
 #### Standards

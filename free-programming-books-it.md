@@ -84,15 +84,9 @@
 ### LaTeX
 
 * [Appunti di programmazione in LaTeX e TeX](http://profs.sci.univr.it/~gregorio/introtex.pdf) - Enrico Gregorio (PDF)
-* [Breve guida ai pacchetti LaTeX](http://profs.sci.univr.it/~gregorio/breveguida.pdf) (PDF)
-* [Cosa si può fare con LaTeX](http://www.batmath.it/latex/pdfs/guida_st.pdf) (PDF)
 * [Impara LaTeX! (... e mettilo da parte)](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf) - Marc Baudoin (PDF)
-* [Imparare LaTeX](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf) (PDF)
 * [Introduzione all'arte della composizione tipografica con LaTeX](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf) - GuIT (PDF)
 * [L'arte di scrivere con LaTeX](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf) - L. Pantieri e T. Gordini (PDF)
-* [LaTeX Facile](http://www.guit.sssup.it/downloads/LaTeX-facile.pdf) (PDF)
-* [Layout di pagina LaTeX](http://tug.ctan.org/tex-archive/info/italian/fancyhdr/itfancyhdr.pdf) (PDF)
-(PDF)
 * [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
 
 

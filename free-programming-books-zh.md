@@ -1,6 +1,7 @@
 ## 目录
 
 * [语言无关](#语言无关)
+  * [IDE](#IDE)
   * [MySQL](#mysql)
   * [NoSQL](#nosql)
   * [PostgreSQL](#postgresql)
@@ -64,6 +65,11 @@
 
 
 ## 语言无关
+
+### IDE
+
+* [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+
 
 ### MySQL
 

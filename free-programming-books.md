@@ -1155,6 +1155,7 @@
 
 * [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
 * [A free guide to learn HTML and CSS](http://marksheet.io)
+* [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)
 * [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/) - Aaron Gustafson
 * [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Canvassing](http://learnjs.io/canvassing/read)

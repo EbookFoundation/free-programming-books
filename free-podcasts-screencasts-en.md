@@ -92,7 +92,7 @@
 
 ### Git
 
-* [Podcast] - [GitMinutes](http://www.gitminutes.com/)
+* [Podcast] - [GitMinutes](http://www.gitminutes.com)
 
 
 ### Golang
@@ -123,12 +123,12 @@
 ### Language Agnostic
 
 * [Podcast] - [.NET Rocks!](https://www.dotnetrocks.com)
-* [Podcast] - [/dev/hell](http://devhell.info/)
+* [Podcast] - [/dev/hell](http://devhell.info)
 * [Podcast] - [AppMasters](http://www.appmasters.co/podcast-home/)
 * [Podcast] - [Arrested DevOps](https://www.arresteddevops.com)
-* [Podcast] - [Beats, Rye & Types](http://beatsryetypes.com/)
+* [Podcast] - [Beats, Rye & Types](http://beatsryetypes.com)
 * [Podcast] - [Between | Screens Podcast](https://soundcloud.com/between-screens)
-* [Podcast] - [BSDTalk](http://bsdtalk.blogspot.com/)
+* [Podcast] - [BSDTalk](http://bsdtalk.blogspot.com)
 * [Podcast] - [CodeNewbie](http://www.codenewbie.org/podcast)
 * [Podcast] - [CodePen Radio](https://blog.codepen.io/radio/)
 * [Podcast] - [Coding Blocks](http://www.codingblocks.net)
@@ -158,11 +158,11 @@
 * [Podcast] - [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/)
 * [Podcast] - [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Podcast] - [The Changelog Podcast](https://changelog.com/podcast/)
-* [Podcast] - [The Cloudcast](http://www.thecloudcast.net/)
+* [Podcast] - [The Cloudcast](http://www.thecloudcast.net)
 * [Podcast] - [The Cognicast](http://blog.cognitect.com/cognicast)
 * [Podcast] - [The Creative Coding Podcast](http://creativecodingpodcast.com)
 * [Podcast] - [The Debug Log](http://thedebuglog.com)
-* [Podcast] - [The Hanselminutes podcast](http://hanselminutes.com/)
+* [Podcast] - [The Hanselminutes podcast](http://hanselminutes.com)
 * [Podcast] - [The Path to Performance](https://pathtoperf.com)
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
 * [Podcast] - [The Web Ahead](http://5by5.tv/webahead)
@@ -212,7 +212,7 @@
 
 ### React JS
 
-* [Podcast] - [React Podcast](http://reactpodcast.com/)
+* [Podcast] - [React Podcast](http://reactpodcast.com)
 
 
 ### Ruby

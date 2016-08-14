@@ -105,8 +105,10 @@
 
 ### C / C++
 
+* [Apprenez à programmer en C !](http://user.oc-static.com/pdf/14189-apprenez-a-programmer-en-c.pdf) - Mathieu Nebra (PDF)
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
+* [Programmez avec le langage C++](http://user.oc-static.com/pdf/11406-programmez-avec-le-langage-c.pdf) - Mathieu Nebra (PDF)
 
 
 ### Coq
@@ -128,18 +130,21 @@
 
 ### Java
 
+* [Apprenez à programmer en Java](http://user.oc-static.com/pdf/10601-apprenez-a-programmer-en-java.pdf) - Cyrille Herby (PDF)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Play.Rules!](http://3monkeys.github.io/play.rules/)
 
 
 ### Javascript
 
+* [Dynamisez vos sites Web avec JavaScript !](http://user.oc-static.com/pdf/309961-dynamisez-vos-sites-web-avec-javascript.pdf) - Sébastien de la Marck, Johann Pardanaud (PDF)
 * [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
 
 
 ### jQuery
 
 * [Apprendre jQuery](https://sutterlity.gitbooks.io/apprendre-jquery/content/) - Sutterlity Laurent
+* [Simplifiez vos développements JavaScript avec jQuery](http://user.oc-static.com/pdf/689034-simplifiez-vos-developpements-javascript-avec-jquery.pdf) - Michel Martin (PDF)
 
 
 ### Haskell
@@ -152,7 +157,9 @@
 
 #### LaTeX
 
+* [Créez vos diaporamas en LaTeX avec Beamer !](http://user.oc-static.com/pdf/652805-creez-vos-diaporamas-en-latex-avec-beamer.pdf) - Rudy De Visscher (PDF)
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) - Arnaud Gazagnes (PDF)
+* [Rédigez des documents de qualité avec LaTeX](http://user.oc-static.com/pdf/258577-redigez-des-documents-de-qualite-avec-latex.pdf) - Noël-Arnaud Maguis (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
 
@@ -209,6 +216,7 @@
 
 ### PHP
 
+* [Concevez votre site web avec PHP et MySQL](http://user.oc-static.com/pdf/14668-concevez-votre-site-web-avec-php-et-mysql.pdf) - Mathieu Nebra (PDF)
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
 * [Initiation au PHP](http://framasoft.net/IMG/pdf/initiation_php.pdf) - David Ducrocq (PDF)
 * [Programmer en PHP](http://www.lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF)
@@ -217,6 +225,7 @@
 ### Python
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
+* [Apprenez à programmer en Python](http://user.oc-static.com/pdf/223267-apprenez-a-programmer-en-python.pdf) - Vincent Le Goff (PDF)
 * [Dropbox a des fuites ! Un aperçu de la rétro-ingénierie des programmes Python](http://pdp.microjoe.org/tutoriels/280/dropbox-a-des-fuites/)
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau et Laurent Pointal
@@ -255,6 +264,8 @@
 
 ### Systèmes d'exploitation
 
+* [A la découverte d'UNIX (FreeBSD)](http://user.oc-static.com/pdf/273305-a-la-decouverte-d-unix-freebsd.pdf) - Brice Errandonea (PDF)
+* [Reprenez le contrôle à l'aide de Linux !](http://user.oc-static.com/pdf/12827-reprenez-le-controle-a-l-aide-de-linux.pdf) - Mathieu Nebra (PDF)
 * [Simple OS (SOS)](http://sos.enix.org/fr/SOSDownload) - David Decotigny et Thomas Petazzoni
 
 

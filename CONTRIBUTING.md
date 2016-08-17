@@ -92,7 +92,7 @@ GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (PDF)
 - Multiple formats:
 
 ```
-BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe (HTML)
+BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
 BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
-GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
 ```

@@ -789,6 +789,7 @@
 * [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School
 * [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
+* [Slackbook](http://slackbook.org)
 * [The Bash Academy](http://www.bash.academy)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) Z. A. Shaw
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr.

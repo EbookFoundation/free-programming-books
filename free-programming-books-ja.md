@@ -197,6 +197,7 @@
 * [Android Open Text book](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 * [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 * [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - id:nobuoka
+* [AndroidTraining](https://mixi-inc.github.io/AndroidTraining/) - mixi, Inc.
 * [コントリビュータのためのAndroidコードスタイルガイドライン 日本語訳](http://www.textdrop.net/android/code-style-ja.html) - Android Open Source Project, Takashi Sasai(翻訳)
 
 

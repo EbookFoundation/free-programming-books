@@ -974,8 +974,7 @@
 * [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - Tim Morgan (HTML)
 * [Elixir School](https://elixirschool.com) (HTML)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) (HTML)
-* [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML)
-* [Getting Started Guide](https://github.com/potatogopher/elixir-getting-started) (PDF, MOBI, EPUB)
+* [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB)](https://github.com/potatogopher/elixir-getting-started)
 * [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
 
 

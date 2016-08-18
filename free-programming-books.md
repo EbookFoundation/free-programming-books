@@ -34,6 +34,7 @@
 * [DTrace](#dtrace)
 * [Elasticsearch](#elasticsearch)
 * [Elixir](#elixir)
+  * [Phoenix](#phoenix)
 * [Emacs](#emacs)
 * [Embedded Systems](#embedded-systems)
 * [Erlang](#erlang)
@@ -480,7 +481,7 @@
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
 * [Open Government;Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government)
-* [Packt Publishing: A free book every day](https://www.packtpub.com/packt/offers/free-learning) - (PDF, ePub, Mobi, Kindle) *(account required)*
+* [Packt Publishing: A free book every day](https://www.packtpub.com/packt/offers/free-learning) (PDF, ePub, Mobi, Kindle) *(account required)*
 * [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien
 * [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
@@ -978,6 +979,11 @@
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) (HTML)
 * [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB)](https://github.com/potatogopher/elixir-getting-started)
 * [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
+
+
+#### Phoenix
+
+* [Versioned APIs with Phoenix](http://elviovicosa.com/books/versioned-apis-with-phoenix) - Elvio Vicosa (PDF) *(account required)*
 
 
 ### Emacs

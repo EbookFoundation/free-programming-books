@@ -577,10 +577,10 @@
 * [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://chimera.labs.oreilly.com/books/1234000001813/index.html) - David H. Hoover and Adewale Oshineye
 * [Confessions of an IT Manager](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
 * [Don't Just Roll the Dice](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
-* [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) *(Leanpub, By Reginald Braithwaite)*
+* [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 * [Professional Software Development For Students](http://mixmastamyk.bitbucket.org/pro_soft_dev/) - Mike G. Miller
-* [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) *(Leanpub, By Reginald Braithwaite)*
-* [Why programmers work at night](https://leanpub.com/nightowls/read) *(Leanpub, By Swizec Teller)*
+* [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
+* [Why programmers work at night](https://leanpub.com/nightowls/read) Swizec Teller
 
 
 #### Programming Paradigms
@@ -631,7 +631,7 @@
 * [How to Design Programs](http://www.htdp.org)
 * [How to Write Unmaintainable Code](http://mindprod.com/jgloss/unmain.html)
 * [Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook)
-* [Kanban for skeptics](https://leanpub.com/kanbanforskeptics) (Leanpub, by Nick Oostvogels)
+* [Kanban for skeptics](https://leanpub.com/kanbanforskeptics) - Nick Oostvogels
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)
 * [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html)
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse and O. Nierstrasz
@@ -639,10 +639,10 @@
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
-* [Test Driven Development , Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) *(Leanpub, by Daniel Żołopa)
+* [Test Driven Development, Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Daniel Żołopa
 * [Web API Design](http://apigee.com/about/blog/technology/announcement-free-ebook-web-api-design)
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
-* [Your API Is Bad](https://leanpub.com/yourapiisbad) *(Leanpub, by Paddy Foran)*
+* [Your API Is Bad](https://leanpub.com/yourapiisbad) - Paddy Foran
 
 
 #### Standards
@@ -1320,12 +1320,12 @@
 * [Marionette Exposé: Learn to write modular Javascript applicatons using Backbone Marionette and RequireJS/AMD](https://leanpub.com/marionetteexpose) - Jack Killilea
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [O'Reilly Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
-* [Oh My JS](https://leanpub.com/ohmyjs/read) *(Leanpub, by Azat Mardanov)*
+* [Oh My JS](https://leanpub.com/ohmyjs/read) - Azat Mardanov
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [The JavaScript Tutorial](http://javascript.info)
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655) (PDF)
-* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) *(Leanpub, by Nicholas C. Zakas)*
+* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
@@ -1338,7 +1338,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 #### Node.js
 
 * [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
-* [JavaScript and Node FUNdamentals](https://web.archive.org/web/20150327025334/https://leanpub.com/jsfun/read) - Azat Mardanov *(Leanpub)*
+* [JavaScript and Node FUNdamentals](https://web.archive.org/web/20150327025334/https://leanpub.com/jsfun/read) - Azat Mardanov
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -2160,7 +2160,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
-* [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) *(Leanpub, by Tim Ottinger)*
+* [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) - Tim Ottinger
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
 * [Vim Recipes](http://ebooksgo.org) (PDF)
 * [Vim Regular Expressions 101](http://vimregex.com)

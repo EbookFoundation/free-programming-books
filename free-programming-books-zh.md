@@ -1,7 +1,7 @@
 ## 目录
 
 * [语言无关](#语言无关)
-  * [IDE](#IDE)
+  * [IDE](#ide)
   * [MySQL](#mysql)
   * [NoSQL](#nosql)
   * [PostgreSQL](#postgresql)

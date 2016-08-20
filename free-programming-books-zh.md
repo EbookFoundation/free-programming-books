@@ -35,6 +35,7 @@
   * [CoffeeScript](#coffeescript)
   * [Dart](#dart)
   * [Elasticsearch](#elasticsearch)
+  * [Elixir](#elixir)
   * [Erlang](#erlang)
   * [Fortran](#fortran)
   * [Golang](#golang)
@@ -380,6 +381,14 @@
 * [Elasticsearch 权威指南](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
 * [ELKstack 中文指南](http://kibana.logstash.es)
 * [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+
+
+### Elixir
+
+* [Elixir 编程语言教程](https://elixirschool.com/cn/) (Elixir School)
+* [Elixir Getting Started 中文翻译](https://github.com/Ljzn/ElixrGettingStartedChinese)
+* [Elixir元编程与DSL 中文翻译](https://github.com/Ljzn/MetaProgrammingInElixirChinese)
+* [Phoenix 框架中文文档](https://mydearxym.gitbooks.io/phoenix-doc-in-chinese/content/)
 
 
 ### Erlang

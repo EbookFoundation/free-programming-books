@@ -819,7 +819,6 @@
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
-* [Learn C The Hard Way](http://c.learncodethehardway.org/book/)
 * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry

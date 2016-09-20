@@ -251,6 +251,8 @@
 
 ### Rust
 
+* [Rust на примерах](https://gordon-f.github.io/rust-by-example-ru/)
+* [Растономикон](https://github.com/ruRust/rustonomicon)
 * [Язык программирования Rust](http://rurust.github.io/rust_book_ru/)
 
 

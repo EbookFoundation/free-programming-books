@@ -1508,7 +1508,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com)
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)
-* [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org/) *(in progress)* [BB repo](https://bitbucket.org/hgbook/hgbook)
+* [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org/) *(in progress)* ([source  repository](https://bitbucket.org/hgbook/hgbook))
 
 
 ### Mercury

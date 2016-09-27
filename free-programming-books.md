@@ -832,6 +832,7 @@
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
 
+
 ### C Sharp
 
 * [Beginners Guide to C# and the.NET Micro Framework](http://www.ghielectronics.com/downloads/FEZ/Beginners%20guide%20to%20NETMF.pdf) (PDF)
@@ -845,6 +846,7 @@
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [Introduction to Rx](http://www.introtorx.com)
 * [Threading in C#](http://www.albahari.com/threading/)
+
 
 ### C++
 
@@ -870,6 +872,7 @@
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) - Bruce Eckel [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) (ZIP)
+
 
 ### Chapel
 
@@ -962,6 +965,7 @@
 * [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/) - M. Cantù
 * [Free Pascal: Reference](http://ctp.mkprog.com/en/free_pascal/)
 * [Free Pascal: Reference guide](http://ftp.icm.edu.pl/packages/fpc/docs-pdf/ref.pdf) (PDF)
+
 
 ### DTrace
 
@@ -1276,6 +1280,7 @@
 * [Welcome to the Java Workshop](http://javaworkshop.sourceforge.net) - An Apache Project
 * [What's New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
 
+
 #### JasperReports
 
 * [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
@@ -1340,6 +1345,7 @@
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
 
 #### Javascript Frameworks
 
@@ -1676,6 +1682,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
   * [The Symfony Book 2.x](http://symfony.com/doc/2.8/book/)
   * [The Symfony Book 3.x](http://symfony.com/doc/master/book/)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
+
 
 ### PicoLisp
 
@@ -2181,6 +2188,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 * [Visual Basic language reference](http://ctp.mkprog.com/en/visual_basic_net/)
+
 
 ### Visual Prolog
 

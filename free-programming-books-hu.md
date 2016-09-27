@@ -24,6 +24,7 @@
 * [Formális nyelvek](http://mek.oszk.hu/05000/05099/index.phtml) - Bach Iván (PDF)
 * [Mese a felhasználó központú tervezőről](http://mek.oszk.hu/11700/11748/index.phtml) - David Travis, ford.: Favorit Fordító Iroda (PDF)
 * [Prognyelvek portál](http://nyelvek.inf.elte.hu/index.php) - Felelős oktató: Nyékyné Gaizler Judit (HTML)
+* [Programozási nyelvek](http://ctp.mkprog.eu/hu/) - Legismertebb programozási nyelvek alap parancsai egy helyen, egyedi összehasonlítás, példaprogramok.
 
 
 ### Ada

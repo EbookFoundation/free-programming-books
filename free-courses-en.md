@@ -31,6 +31,7 @@
 * [Scala](#scala)
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
+* [Theory](#theory)
 * [Web Development](#web-development)
 
 

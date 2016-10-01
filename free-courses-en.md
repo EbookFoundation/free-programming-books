@@ -29,6 +29,7 @@
 * [Ruby](#ruby)
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
+* [Software Engineering](#software-engineering)
 * [Swift](#swift)
 * [Web Development](#web-development)
 
@@ -144,8 +145,6 @@
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
-* [MITx Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
-* [MITx Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x#!)
 
 
 ### JS
@@ -235,6 +234,14 @@
 
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
+
+
+### Software Engineering
+
+* [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
+* [Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x#!)
+* [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!)
+* [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x#!)
 
 
 ### Swift

@@ -1,6 +1,6 @@
 ### Index
 
-* [Algorithmic](#algorithms)
+* [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
 * [AngularJS](#angularjs)
 * [Assembly](#assembly)
@@ -33,7 +33,7 @@
 * [Web Development](#web-development)
 
 
-### Algorithms
+### Algorithms & Data Structures
 
 * [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms:Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)

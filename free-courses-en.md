@@ -244,10 +244,15 @@
 * [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
 
 
-
 ### Swift
 
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
+
+
+### Theory
+
+*[Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
+*[Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 
 
 ### Web Development

@@ -145,6 +145,7 @@
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
 * [MITx Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
+* [MITx Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x#!)
 
 
 ### JS

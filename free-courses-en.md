@@ -238,10 +238,11 @@
 
 ### Software Engineering
 
-* [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
 * [Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x#!)
-* [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!)
 * [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x#!)
+* [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!)
+* [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
+
 
 
 ### Swift

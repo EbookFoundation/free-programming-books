@@ -1519,6 +1519,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 * [MySQL Tutorial Excerpt](http://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.1-en.pdf) (PDF)
+* [Head First SQL](http://web-algarve.com/books/MySQL%20&%20PHP/Head%20First%20SQL.pdf) (PDF)
 
 
 ### Neo4J

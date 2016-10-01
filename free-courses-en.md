@@ -9,6 +9,7 @@
 * [C#](#c-sharp)
 * [C++](#c-2)
 * [Clojure](#clojure)
+* [Compilers](#compilers)
 * [CUDA](#cuda)
 * [Databases](#databases)
 * [Git](#git)
@@ -90,6 +91,11 @@
 ### Clojure
 
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/index.html)
+
+
+### Compilers
+
+* [Stanford's Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 
 
 ### Cuda

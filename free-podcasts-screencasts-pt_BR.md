@@ -7,4 +7,4 @@
 
 * [Podcast] - [DevNaEstrada](http://devnaestrada.com.br)
 * [Podcast] - [hipsters.tech](http://hipsters.tech)
-* [Podcast] - [PODebug](http://www.podebug.com/)
+* [Podcast] - [PODebug](http://www.podebug.com)

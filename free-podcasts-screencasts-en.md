@@ -35,6 +35,7 @@
 ### AngularJS
 
 * [Podcast] - [Adventures in Angular - DevChat.tv](https://devchat.tv/adventures-in-angular/)
+* [Podcast] - [Angular Air](https://angularair.com)
 
 
 ### C&#x23;

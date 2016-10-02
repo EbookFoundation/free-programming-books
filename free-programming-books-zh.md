@@ -169,7 +169,8 @@
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
-* [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com/)
+* [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
+
 
 ### 操作系统
 

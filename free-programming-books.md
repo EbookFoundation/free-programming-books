@@ -1674,7 +1674,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
 * Symfony Framework
-  * [The Symfony Book 2.x](https://symfony.com/pdf/Symfony_book_2.8.pdf)
+  * [The Symfony Book 2.x](https://symfony.com/pdf/Symfony_book_2.8.pdf) (PDF)
   * [The Symfony Book 3.x](http://symfony.com/doc/current/index.html)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
@@ -1780,7 +1780,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) (2.5 - 2.6)
 * [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF)
-* [Learning to Program](http://www.alan-g.me.uk/)
+* [Learning to Program](http://www.alan-g.me.uk)
 * [Learning to Program with Python](http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) (3.2)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
@@ -2098,7 +2098,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Standard ML
 
 * [Programming in Standard ML '97](http://homepages.inf.ed.ac.uk/stg/NOTES/) - Stephen Gilmore, University of Edinburgh
-* [Programming in Standard ML, DRAFT](http://www.cs.cmu.edu/~rwh/isml/book.pdf) - Robert Harper
+* [Programming in Standard ML, DRAFT](http://www.cs.cmu.edu/~rwh/isml/book.pdf) - Robert Harper (PDF)
 
 
 ### Subversion

@@ -78,7 +78,7 @@
 
 ### Git
 
-* [Das Git-Buch](http://gitbu.ch/) [PDF, EPUB]
+* [Das Git-Buch](http://gitbu.ch) [PDF, EPUB]
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
 * [Pro Git](http://git-scm.com/book/de/v1)
 

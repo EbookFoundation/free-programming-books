@@ -385,8 +385,8 @@
 
 ### Elixir
 
-* [Elixir 编程语言教程](https://elixirschool.com/cn/) (Elixir School)
 * [Elixir Getting Started 中文翻译](https://github.com/Ljzn/ElixrGettingStartedChinese)
+* [Elixir 编程语言教程](https://elixirschool.com/cn/) (Elixir School)
 * [Elixir元编程与DSL 中文翻译](https://github.com/Ljzn/MetaProgrammingInElixirChinese)
 * [Phoenix 框架中文文档](https://mydearxym.gitbooks.io/phoenix-doc-in-chinese/content/)
 

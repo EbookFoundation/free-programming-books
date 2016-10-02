@@ -44,6 +44,7 @@
 ### PHP
 
 * [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+* [Ebook Tinju Cepat PHP - OOP - PDO] (https://github.com/PUSRISTEK/OOPPHPPDO/blob/master/TinjuCepatOOPdenganPHP.pdf)
 
 
 ### Python

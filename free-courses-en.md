@@ -153,7 +153,7 @@
 ### Lua
 
 * [Lua Interactive Crash Course](http://luatut.com/crash_course.html)
-* [Lua Tutorial](http://www.tutorialpoint.com/lua/)
+* [Lua Tutorial](http://www.tutorialspoint.com/lua/)
 
 
 ### MATLAB

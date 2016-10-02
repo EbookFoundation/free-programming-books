@@ -213,6 +213,7 @@
 
 ### React JS
 
+* [Podcast] - [React Native Podcast](https://devchat.tv/react-native-radio)
 * [Podcast] - [React Podcast](http://reactpodcast.com)
 
 

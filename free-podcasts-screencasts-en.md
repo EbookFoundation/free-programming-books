@@ -164,6 +164,7 @@
 * [Podcast] - [The Debug Log](http://thedebuglog.com)
 * [Podcast] - [The Hanselminutes podcast](http://hanselminutes.com)
 * [Podcast] - [The Path to Performance](https://pathtoperf.com)
+* [Podcast] - [The Podcast from DZone.com: "For Developers, by Developers"](https://dzone.com/podcast)
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
 * [Podcast] - [The Web Ahead](http://5by5.tv/webahead)
 * [Podcast] - [The Web Platform](http://thewebplatform.libsyn.com)

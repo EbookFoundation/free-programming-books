@@ -1,24 +1,19 @@
 ### قائمة
 
-* [PHP](#php)
-* [Python](#python)
-* [لينكس](#linux)
+* [أمن المعلومات](#)
+* [هندسةالبرمجيات](#)
+* [الذكاء الاصطناعي](#)
 
+### أمن المعلومات
 
-### PHP
+* [أمن تقنية المعلومات](http://publications.kacst.edu.sa/page/BookDetails.aspx?b=244&c=36)
+* [أمن المعلومات](http://publications.kacst.edu.sa/page/BookDetails.aspx?b=681&c=15)
 
-* [php تعلم البرمجة بلغة](http://www.linuxac.org/forum/attachment.php?attachmentid=20125&d=1369825680)
+### هندسةالبرمجيات
 
+* [دليل تطوير البرمجيات الشامل](http://publications.kacst.edu.sa/page/BookDetails.aspx?b=247&c=36)
+* [المنهجيات والتقنيات وإدارة العمليات الحديثة في هندسة البرمجيات](http://publications.kacst.edu.sa/page/BookDetails.aspx?b=241&c=36)
 
+### الذكاء الاصطناعي
 
-### Python
-
-* [تعلم البرمجة مع بيثون 3](http://www.linuxac.org/forum/attachment.php?attachmentid=19898&stc=1&d=1368025811)
-
-
-### لينكس
-
-* [سطر أوامر لينكس](http://www.linuxac.org/forum/attachment.php?attachmentid=22233&d=1406109271)
-* [دليل إدارة خواديم أوبنتو](http://www.linuxac.org/forum/attachment.php?attachmentid=24283&d=1455629958)
-* [دفتر مدير دبيان](http://www.linuxac.org/forum/attachment.php?attachmentid=24363&d=1457280630)
-* [االإدارة المتقدمة لجنو/لينكس](http://www.linuxac.org/forum/attachment.php?attachmentid=19617&d=136410820)
+* [مدخل إلى عالم الذكاء الاصطناعي](http://publications.kacst.edu.sa/page/BookDetails.aspx?b=269&c=15)

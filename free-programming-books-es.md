@@ -306,7 +306,6 @@
 
 #### Ruby on Rails
 
-* [El maldito libro de los Descarrilados](http://yottabi.com/mld.pdf) (PDF)
 * [Introducción a Rails](http://rubysur.org/introduccion.a.rails/)
 
 

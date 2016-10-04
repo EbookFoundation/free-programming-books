@@ -135,6 +135,7 @@
 * [PC-BSD](#pc-bsd)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Hack](#hack)
 * [PicoLisp](#picolisp)
 * [PostgreSQL](#postgresql)
 * [PowerShell](#powershell)
@@ -1677,6 +1678,10 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
   * [The Symfony Book 2.x](https://symfony.com/pdf/Symfony_book_2.8.pdf) (PDF)
   * [The Symfony Book 3.x](http://symfony.com/doc/current/index.html)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
+
+#### Hack
+
+* [Hack Documentation](https://docs.hhvm.com/hack/)
 
 
 ### PicoLisp

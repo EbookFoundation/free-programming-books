@@ -280,7 +280,7 @@
 * [Aprenda a pensar como un programador (con Python)](http://arawako.com/wp-content/uploads/2010/03/thinkCSpy.es_.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
-* [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)
+* [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (PDF)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a la programación con Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/Introduccion%20a%20la%20programacion%20con%20Python.pdf/at_download/file) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)

@@ -100,7 +100,7 @@
 
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/)
-* [Programación de videojuegos SDL](http://www.albertogarcia.info/libros/sdl/%5Bebook%5DProgramacion%20de%20videojuegos%20con%20SDL.pdf) (PDF)
+* [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) (PDF)
 * [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com)
 
 

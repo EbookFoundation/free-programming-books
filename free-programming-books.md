@@ -2152,6 +2152,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Unix for Poets](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+* [Unix as IDE](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
 
 
 ### Verilog

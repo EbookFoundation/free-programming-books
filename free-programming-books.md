@@ -1833,7 +1833,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Effective Django](http://www.effectivedjango.com) (1.5)
 * [Mastering Django](http://masteringdjango.com) (1.8)
 * [Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
-* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.8)
+* [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc) (1.8)
 
 
 #### Flask

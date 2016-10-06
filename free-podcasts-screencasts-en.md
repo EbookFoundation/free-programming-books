@@ -19,7 +19,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
-* [React JS](#reactjs)
+* [React JS](#react-js)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Vim](#vim)

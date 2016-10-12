@@ -116,8 +116,8 @@
 
 ### Go
 
-* [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
 * [Go by Example](https://gobyexample.com)
+* [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
 
 
 ### Haskell

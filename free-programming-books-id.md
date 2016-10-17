@@ -44,6 +44,7 @@
 ### PHP
 
 * [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+* [CodeIgniter](https://id.wikipedia.org/wiki/CodeIgniter)
 
 
 ### Python

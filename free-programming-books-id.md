@@ -44,7 +44,7 @@
 ### PHP
 
 * [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
-* [CodeIgniter](https://id.wikipedia.org/wiki/CodeIgniter)
+* [codeigniter-1.7-professional-development](https://www.ccr.ro/files/products/codeigniter-1.7-professional-development_.pdf) - Adam Griffiths (PDF)
 
 
 ### Python

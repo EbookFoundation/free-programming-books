@@ -3,6 +3,7 @@
 * [Android](#android)
 * [Git](#git)
 * [HTML & CSS](#html-css)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
@@ -23,6 +24,12 @@
 ### HTML CSS
 
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
+
+
+### Java
+
+* [Membuat Laporan di Java dengan Menggunakan IReport](https://app.box.com/s/xwxuw0jhe205mbyea2k5)
+* [Pemrograman Java oleh Rosihan Ari Yuana](https://app.box.com/s/mlw1pymsj9azm8trq8wwqwnk2m1asndi)
 
 
 ### JavaScript

@@ -9,6 +9,7 @@
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
+* [Linux](#linux)
 * [Perl](#perl)
 * [PHP](#php)
   * [Laravel](#laravel)
@@ -45,6 +46,7 @@
 * [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
 * [Go Tour 한글 번역](http://go-tour-kr.appspot.com)
 * [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
+* [Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
 
 
 ### HTML5
@@ -68,6 +70,10 @@
 ### LaTeX
 
 * [The Not So short Introduction to LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/korean)
+
+### Linux
+
+* [리눅스 서버를 다루는 기술](https://thebook.io/006718/)
 
 
 ### Perl
@@ -95,6 +101,7 @@
 * [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+* [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/006855/)
 
 
 ### R

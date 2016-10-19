@@ -112,9 +112,9 @@
 
 ### Deep Learning
 
-* [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+* [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
-* [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial/)
+* [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 
 

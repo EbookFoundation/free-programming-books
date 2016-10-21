@@ -25,4 +25,4 @@
 
 ### SQL
 
-* [Συστήματα Βάσεων Δεδομένων - Θεωρία και πρακτική εφαρμογή](http://studentguru.gr/cfs-file/__key/telligent-evolution-components-attachments/13-1200-00-00-00-13-46-27/vaseis_5F00_dedomenwn.pdf)
+* [Συστήματα Βάσεων Δεδομένων - Θεωρία και πρακτική εφαρμογή](http://studentguru.gr/cfs-file/__key/telligent-evolution-components-attachments/13-1200-00-00-00-13-46-27/vaseis_5F00_dedomenwn.pdf) (PDF)

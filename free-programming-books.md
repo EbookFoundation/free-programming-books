@@ -1128,11 +1128,10 @@
 * [Cloudera Impala](http://www.cloudera.com/content/www/en-us/resources/aboutcloudera/cloudera-impala-ebook.html) - John Russel
 * [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
 * [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner & Sujee Maniyam
-* [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
 * [Hadoop Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/hadoopsuccinctly)
-* [Hive Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/Hive-Succinctly)
 * [HBase Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/hbase)
-
+* [Hive Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/Hive-Succinctly)
+* [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
 
 
 ### Haskell

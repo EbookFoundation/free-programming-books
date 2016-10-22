@@ -157,7 +157,7 @@
 ### JS
 
 * [Egghead.io](https://egghead.io)
-* [learn:query](https://learnquery.infinum.co/)
+* [learn:query](https://learnquery.infinum.co)
 
 
 ### Lua

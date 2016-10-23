@@ -2158,7 +2158,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Verilog
 
 * [Verilog Tutorial](http://www.asic-world.com/verilog/veritut.html)
-
+* [Verilog Quick Reference](http://web.stanford.edu/class/ee183/handouts_win2003/VerilogQuickRef.pdf)
 
 ### VHDL
 

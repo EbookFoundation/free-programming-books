@@ -44,9 +44,8 @@
 * [الحريات الرقمية - المفاهيم الرئيسية ](http://librebooks.org/digital-freedoms-main-concepts/)
 * [المصادر المفتوحة خيارات بلا حدود ](http://librebooks.org/opensource-ultimate-options/)
 * [تعرف على البرمجيات الحرة ](http://librebooks.org/know-free-software/)
-* [نبذة عن رخص البرمجيات الحرة ](http://librebooks.org/bref-about-foss-licenses/)
 * [دليل البرمجيات الحرة مفتوحة ](http://librebooks.org/free-opensource-guide/)
-
+* [نبذة عن رخص البرمجيات الحرة ](http://librebooks.org/bref-about-foss-licenses/)
 
 
 ### Operating Systems

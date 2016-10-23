@@ -8,10 +8,10 @@
 * [Operating system](#os)
 * [PHP](#php)
 * [Programming in Scratch](#scratch)
-* [SECURITY](#security)
-* [SEO](#seo)
 * [Raspberry Pi](#raspberry-pi)
 * [RUBY](#ruby)
+* [SECURITY](#security)
+* [SEO](#seo)
 
 
 ### Arduino
@@ -63,6 +63,16 @@
 * [كتاب احترف سكراتش](http://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
 
 
+### raspberry-pi
+
+* [راسبيري باي ببساطة ](http://librebooks.org/simply-raspberry-pi/)
+
+
+### ruby
+
+* [مقدمة في روبي ](http://librebooks.org/intro-to-ruby/)
+
+
 ### Security
 
 * [عُدَّة الأمان الرقمي ](http://librebooks.org/security-in-a-box/)
@@ -73,13 +83,3 @@
 ### seo
 
 * [تحسين محركات البحث SEO - دليل المبتدئين](http://librebooks.org/search-engine-optimization-seo-starter-guide-ar/)
-
-
-### raspberry-pi
-
-* [راسبيري باي ببساطة ](http://librebooks.org/simply-raspberry-pi/)
-
-
-### ruby
-
-* [مقدمة في روبي ](http://librebooks.org/intro-to-ruby/)

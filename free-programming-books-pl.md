@@ -2,6 +2,7 @@
 
 * [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
 * [Android](#android)
+* [Bash](#bash)
 * [C](#c)
 * [C++](#c-1)
 * [Common Lisp](#common-lisp)
@@ -35,6 +36,8 @@
 * [O Androidzie ludzkim głosem](http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF)
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
 
+## Bash
+* [Kurs Bash'a](http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
 
 ### C
 
@@ -58,6 +61,7 @@
 ### CSS
 
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+* [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html)
 
 
 ### Haskell
@@ -68,7 +72,7 @@
 ### HTML
 
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
-
+* [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html)
 
 ### Java
 
@@ -79,13 +83,13 @@
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
 * [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/)
-
+* [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html)
 
 ### LaTeX
 
 * [LaTeX. Książka kucharska](http://www.ptm.org.pl/latex-ksiazka-kucharska), Marcin Borkowski, Bartłomiej Przybylski
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
-
+* [LaTeX kurs](http://www.latex-kurs.x25.pl)
 
 ### Perl
 

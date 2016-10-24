@@ -1,7 +1,7 @@
 ## 目录
 
 * [语言无关](#语言无关)
-  * [IDE](#IDE)
+  * [IDE](#ide)
   * [MySQL](#mysql)
   * [NoSQL](#nosql)
   * [PostgreSQL](#postgresql)
@@ -35,6 +35,7 @@
   * [CoffeeScript](#coffeescript)
   * [Dart](#dart)
   * [Elasticsearch](#elasticsearch)
+  * [Elixir](#elixir)
   * [Erlang](#erlang)
   * [Fortran](#fortran)
   * [Golang](#golang)
@@ -169,6 +170,7 @@
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
+* [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
 
 
 ### 操作系统
@@ -380,6 +382,14 @@
 * [Elasticsearch 权威指南](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
 * [ELKstack 中文指南](http://kibana.logstash.es)
 * [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+
+
+### Elixir
+
+* [Elixir Getting Started 中文翻译](https://github.com/Ljzn/ElixrGettingStartedChinese)
+* [Elixir 编程语言教程](https://elixirschool.com/cn/) (Elixir School)
+* [Elixir元编程与DSL 中文翻译](https://github.com/Ljzn/MetaProgrammingInElixirChinese)
+* [Phoenix 框架中文文档](https://mydearxym.gitbooks.io/phoenix-doc-in-chinese/content/)
 
 
 ### Erlang

@@ -363,7 +363,7 @@
 
 * [Java基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094) - id:nattou\_curry
 * [お気楽 Java プログラミング入門](http://www.geocities.jp/m_hiroi/java/index.html) - 広井誠
-* [頑健なJavaプログラムの書き方](http://www.alles.or.jp/~torutk/oojava/codingStandard/writingrobustjavacode.html) - Scott W. Ambler, 高橋徹(翻訳)
+* [頑健なJavaプログラムの書き方](http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, 高橋徹(翻訳) (PDF)
 
 
 ### JavaScript

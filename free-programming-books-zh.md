@@ -529,6 +529,7 @@
   * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
   * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
   * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
+  * [Node.js Fullstack《從零到一的進撃》](https://github.com/jollen/nodejs-fullstack-lessons)
 * React.js
   * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
   * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)

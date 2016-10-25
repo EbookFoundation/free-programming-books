@@ -44,8 +44,22 @@
 ### PHP
 
 * [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+* [Kumpulan Lengkap Ebook PHP](https://github.com/MuhammadiyahDeveloperClub/E-Library/tree/master/Programming/PHP)
 
 
 ### Python
 
 * [Workshop Python 101](http://sakti.github.io/python101/)
+* [Kumpulan Lengkap Ebook Python](https://github.com/MuhammadiyahDeveloperClub/E-Library/tree/master/Programming/Python)
+
+
+### Java
+
+* [Kumpulan Lengkap Ebook Java](https://github.com/MuhammadiyahDeveloperClub/E-Library/tree/master/Programming/Java)
+
+
+### C
+
+* [Kumpulan Lengkap Ebook C](https://github.com/MuhammadiyahDeveloperClub/E-Library/tree/master/Programming/C)
+* [Kumpulan Lengkap Ebook C#](https://github.com/MuhammadiyahDeveloperClub/E-Library/tree/master/Programming/C-Sharp)
+* [Kumpulan Lengkap Ebook C++](https://github.com/MuhammadiyahDeveloperClub/E-Library/tree/master/Programming/C-Plus-Plus)

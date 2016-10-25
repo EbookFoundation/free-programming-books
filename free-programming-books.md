@@ -1081,9 +1081,9 @@
 * [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
 * [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon
 * [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
+* [Ry's Git Tutorial](http://rypress.com/tutorials/git/index) (HTML, Kindle)
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Version Control by Example (Mercurial, Subversion, Verasity)](http://ericsink.com/vcbe/)
-* [Ry's Git Tutorial](http://rypress.com/tutorials/git/index) (HTML, Kindle)
 
 
 ### Go

@@ -1083,6 +1083,7 @@
 * [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Version Control by Example (Mercurial, Subversion, Verasity)](http://ericsink.com/vcbe/)
+* [Ry's Git Tutorial](http://rypress.com/tutorials/git/index) (HTML, Kindle)
 
 
 ### Go

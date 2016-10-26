@@ -1256,10 +1256,14 @@
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [JAAS in Action](http://www.jaasbook.com)
 * [Java: A Beginner's Guide](http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf) - Oracle (PDF)
+* [Java: The Legend](http://www.oreilly.com/programming/free/java-the-legend.csp?intcmp=il-prog-free-product-lgen_java_legend)
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) (PDF)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
+* [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp)
+* [Modern Java EE Design Patterns](http://www.oreilly.com/programming/free/modern-java-ee-design-patterns.csp)
 * [NIO Framework](http://nioframework.sourceforge.net/NIO_Paper.pdf) (PDF)
+* [Object-Oriented vs. Functional Programming](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp?intcmp=il-prog-free-product-lgen_oo_v_fp)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) (PDF)
 * [OSGi in Practice](http://njbartlett.name/osgibook.html) - N. Bartlett (PDF)

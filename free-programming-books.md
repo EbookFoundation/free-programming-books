@@ -491,11 +491,13 @@
 * [Principles of Computer System Design ](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)
 * [Programming with Unicode](http://unicodebook.readthedocs.org)
 * [Project Oberon](http://www.ethoberon.ethz.ch) (PDF)
+* [Real-World Maintainable Software](http://www.oreilly.com/programming/free/real-world-maintainable-software.csp)
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
+* [Trends Shaping the London Tech Scene](http://www.oreilly.com/programming/free/trends-shaping-the-london-tech-scene.csp?intcmp=il-prog-free-product-trends_shaping_the_london_tech_scene)
 
 
 #### MOOC
@@ -527,6 +529,7 @@
 #### Open Source Ecosystem
 
 * [Data Journalism Handbook](http://datajournalismhandbook.org)
+* [Fintech, Open Source, and Emerging Markets Digital Banking for Everyone](http://www.oreilly.com/programming/free/fintech-open-source-and-emerging-tech.csp)
 * [Free as in Freedom](https://archive.org/details/faif-2.0) (PDF)
 * [Free Software, Free Society](http://shop.fsf.org/product/free-software-free-society-2/)
 * [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
@@ -863,6 +866,7 @@
 * [Learn C++.](http://www.learncpp.com) (PDF, Online)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
+* [Practical C++ Metaprogramming](http://www.oreilly.com/programming/free/practical-c-plus-plus-metaprogramming.csp)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [The Boost C++ libraries](http://theboostcpplibraries.com)

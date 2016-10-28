@@ -8,11 +8,12 @@
 ### Competitive Programming
 
 * [4Clojure](http://www.4clojure.com)
+* [A2 Online Judge](https://a2oj.com)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
 * [Codeeval](https://www.codeeval.com)
 * [CodeFights](https://codefights.com)
-* [Codeforces](http://codeforces.com)
+* [Codeforces](http://codeforces.com/contests)
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
@@ -23,6 +24,7 @@
 * [Just another Golf Coding](http://jagc.org)
 * [Microcorruption](https://microcorruption.com/login)
 * [Saratov State University](http://acm.sgu.ru/index.php)
+* [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
 
 
@@ -33,10 +35,12 @@
 
 ### Problem Sets
 
+* [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
+* [Codeforces](https://www.codeforces.com/problemset)
 * [CodeHunt](https://www.codehunt.com)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
@@ -45,6 +49,7 @@
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
+* [HDU Online Judge](http://acm.hdu.edu.cn)
 * [InterviewBit](https://www.interviewbit.com)
 * [Leetcode](https://leetcode.com)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
@@ -55,7 +60,7 @@
 * [Project Euler](https://projecteuler.net)
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Rosalind](http://rosalind.info/problems/locations/)
-* [Sphere Online Judge](http://www.spoj.com)
+* [Sphere Online Judge](http://www.spoj.com/problems/classical)
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
 * [Timus Online Judge](http://acm.timus.ru)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)

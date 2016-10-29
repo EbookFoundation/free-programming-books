@@ -69,7 +69,7 @@
 #### Base de Datos
 
 * [Apuntes de Base de Datos 1, Universidad de Alicante](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
-* [Base de Datos](http://www.uji.es/bin/publ/edicions/bdatos.pdf) - Mercedes Marqués (PDF)
+* [Base de Datos](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Mercedes Marqués (PDF)
 * [Base de Datos Avanzadas](http://repositori.uji.es/xmlui/bitstream/handle/10234/48034/s73.pdf) - Aramburu & Sanz Blasco (PDF)
 * [El modelo relacional y el álgebra relacional](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02148.pdf) (PDF)
 * [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf) (PDF)
@@ -100,7 +100,7 @@
 
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/)
-* [Programación de videojuegos SDL](http://www.albertogarcia.info/libros/sdl/%5Bebook%5DProgramacion%20de%20videojuegos%20con%20SDL.pdf) (PDF)
+* [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) (PDF)
 * [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com)
 
 
@@ -120,6 +120,7 @@
 
 * [Curso Android: Todo lo que necesitas para empezar](http://www.maestrosdelweb.com/curso-android/) - Adrian Catalán (HTML)
 * [Curso de Programación Android](http://www.sgoliver.net/blog/wp-content/uploads/2011/11/Manual-Programacion-Android-SgoliverNet-v3-muestra.zip) - Salvador Gómez Oliver (PDF)
+* [Curso Gratis Android](http://www.hermosaprogramacion.com/android/)
 
 
 ### C
@@ -279,7 +280,7 @@
 * [Aprenda a pensar como un programador (con Python)](http://arawako.com/wp-content/uploads/2010/03/thinkCSpy.es_.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
-* [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)
+* [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (PDF)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a la programación con Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/Introduccion%20a%20la%20programacion%20con%20Python.pdf/at_download/file) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
@@ -288,11 +289,6 @@
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico)
 * [Python para principiantes](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) (PDF) [(HTML)](http://librosweb.es/libro/python/)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
-
-
-#### Django
-
-* [El libro de Django 1.0](http://django-book.mkaufmann.com.ar)
 
 
 #### Web2py
@@ -310,7 +306,6 @@
 
 #### Ruby on Rails
 
-* [El maldito libro de los Descarrilados](http://yottabi.com/mld.pdf) (PDF)
 * [Introducción a Rails](http://rubysur.org/introduccion.a.rails/)
 
 

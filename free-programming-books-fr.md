@@ -83,11 +83,6 @@
 * [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole) - Tim Bell, Ian H. Witten et Mike Fellows (traduit)
 
 
-#### Théorie des langages
-
-* [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) - Université de Bretagne Occidentale (PDF)
-
-
 ### Arduino
 
 * [Arduino : Premiers pas en informatique embarquée](http://eskimon.fr/ebook-tutoriel-arduino) - Eskimon et olyte
@@ -157,8 +152,7 @@
 
 #### LaTeX
 
-* [Détecter et résoudre les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du LaTeX Companion 2006, par Frank Mittelbach et Michel Goossens, mis à disposition par l'éditeur dans l'onglet « Compléments »
-* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) - Arnaud Gazagnes (PDF)
+* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths3.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
 
@@ -172,6 +166,11 @@
 
 * [Tracer des graphes avec Metapost](http://melusine.eu.org/syracuse/metapost/f-mpgraph.pdf) - John D. Hobby (PDF)
 * [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf) - John D. Hobby (PDF)
+
+
+#### Pharo
+
+* [Pharo par l'Exemple](http://pharobyexample.org/fr/)
 
 
 #### PGF/TikZ

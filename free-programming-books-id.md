@@ -1,9 +1,11 @@
 ### Index
 
 * [Android](#android)
+* [Git](#git)
 * [HTML & CSS](#html-css)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [PHP](#php)
+* [Python](#python)
 
 
 ### Android
@@ -12,14 +14,20 @@
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
 
 
-### html-css
+### Git
+
+* [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
+* [Pro Git 1st Edition](https://git-scm.com/book/id/v1)
+
+
+### HTML CSS
 
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 
 
-### javascript
+### JavaScript
 
-* [Mengenal Javascript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
+* [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 
 
@@ -33,6 +41,11 @@
 * [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/pengantar-mongodb/content/)
 
 
-### php
+### PHP
 
 * [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+
+
+### Python
+
+* [Workshop Python 101](http://sakti.github.io/python101/)

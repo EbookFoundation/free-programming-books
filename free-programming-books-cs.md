@@ -59,7 +59,6 @@
 #### Matematika
 
 * [Diskrétní matematika](http://math.feld.cvut.cz/habala/teaching/dma.htm) - Petr Habala (PDFs)
-* [Lineární algebra](ftp://math.feld.cvut.cz/pub/olsak/linal/linal.pdf) - Petr Olšák (PDF)
 * [Matematika SŠ](http://www.realisticky.cz/ucebnice.php?id=3) - Martin Krynický (PDFs)
 * [Think Stats: Pravděpodobnost a statistika pro programátory](http://eknihy.knihovna.cz/kniha/think-stats-pravdepodobnost-a-statistika-pro-programatory) - Allen B. Downey (PDF)
 

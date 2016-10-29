@@ -7,6 +7,7 @@
 * [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
+* [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)

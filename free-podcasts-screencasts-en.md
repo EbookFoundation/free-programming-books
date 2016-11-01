@@ -98,6 +98,7 @@
 
 ### Golang
 
+* [Podcast] - [Go Time](https://changelog.com/gotime)
 * [Screencast] - [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY)
 * [Screencast] - [Hacking with Andrew and Brad: an HTTP/2 client](https://www.youtube.com/watch?v=yG-UaBJXZ80)
 

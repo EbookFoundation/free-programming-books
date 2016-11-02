@@ -1100,6 +1100,13 @@
 * [The Go Tutorial](http://tour.golang.org)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book)
 * [Web apps in Go, the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+* [Learn Go in Y Minutes](https://learnxinyminutes.com/docs/go/)
+* [Build a RESTful API Server with Golang and MySQL](http://blog.narenarya.in/build-rest-api-go-mysql.html)
+* [Simple, Easy, Fast – Building a Go (golang) REST Service with Gorilla](http://www.giantflyingsaucer.com/blog/?p=5635)
+* [BUILDING PYTHON MODULES WITH GO 1.5](https://blog.filippo.io/building-python-modules-with-go-1-5/)
+* [Building Go Web Applications and Microservices Using Gin](http://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
+
+
 
 
 ### Groovy

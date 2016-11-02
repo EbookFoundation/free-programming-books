@@ -1101,13 +1101,10 @@
 * [Let's learn Go!](http://go-book.appspot.com)
 * [Network programming with Go](https://jan.newmarch.name/go/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
+* [Simple, Easy, Fast – Building a Go (golang) REST Service with Gorilla](http://www.giantflyingsaucer.com/blog/?p=5635)
 * [The Go Tutorial](http://tour.golang.org)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book)
 * [Web apps in Go, the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
-* [Simple, Easy, Fast – Building a Go (golang) REST Service with Gorilla](http://www.giantflyingsaucer.com/blog/?p=5635)
-
-
-
 
 
 ### Groovy

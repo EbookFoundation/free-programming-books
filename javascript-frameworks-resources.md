@@ -4,6 +4,7 @@
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
+* [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
@@ -104,6 +105,11 @@
 
 * [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
+
+
+## Node.js
+
+* [Node Documentation](https://nodejs.org/en/docs/)
 
 
 ## Om

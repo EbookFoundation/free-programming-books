@@ -21,6 +21,7 @@
 * [Java](#java)
 * [JS](#js)
 * [Lua](#lua)
+* [Machine Learning](#machine-learning)
 * [Matlab](#matlab)
 * [Misc](#misc)
 * [OCaml](#ocaml)
@@ -174,6 +175,11 @@
 
 * [Lua Interactive Crash Course](http://luatut.com/crash_course.html)
 * [Lua Tutorial](http://www.tutorialspoint.com/lua/)
+
+
+### Machine Learning
+
+* [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
 ### MATLAB

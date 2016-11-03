@@ -7,7 +7,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-2)
+* [C++](#c-1)
 * [Clojure](#clojure)
 * [Compilers](#compilers)
 * [CUDA](#cuda)

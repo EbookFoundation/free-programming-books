@@ -1368,7 +1368,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Jenkins
 
-* [Jenkins: The Definitive Guide](http://www.wakaleo.com/books/jenkins-the-definitive-guide) (PDF)
+* [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
 
 
 ### Julia

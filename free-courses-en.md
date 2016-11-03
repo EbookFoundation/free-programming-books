@@ -12,6 +12,7 @@
 * [Compilers](#compilers)
 * [CUDA](#cuda)
 * [Databases](#databases)
+* [Deep Learning](#deep-learning)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -107,6 +108,15 @@
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
+
+
+### Deep Learning
+
+* [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
+* [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
+* [Self-Paced Courses for Deep Learning ](https://developer.nvidia.com/deep-learning-courses)
+* [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
+* [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 
 
 ### Git

@@ -226,6 +226,7 @@
 * [Learn Python](https://pythonspot.com)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
 * [Programming for Everybody](https://www.coursera.org/learn/python)
+* [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 
 
 ### R

@@ -2111,9 +2111,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [Hacking with Swift](https://www.hackingwithswift.com)
 * [Learn Swift](http://books.aidanf.net/learn-swift)
-* [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML)
-* [The Swift Programming Language](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) (iBook)
-* [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) (iBook)
+* [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
+* [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 
 
 ### Tcl

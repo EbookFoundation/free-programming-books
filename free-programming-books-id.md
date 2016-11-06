@@ -49,3 +49,4 @@
 ### Python
 
 * [Workshop Python 101](http://sakti.github.io/python101/)
+* [belajarPython](http://www.belajarpython.com)

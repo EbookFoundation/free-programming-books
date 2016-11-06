@@ -7,11 +7,12 @@
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-2)
+* [C++](#c-1)
 * [Clojure](#clojure)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
 * [Databases](#databases)
+* [Deep Learning](#deep-learning)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -20,6 +21,7 @@
 * [Java](#java)
 * [JS](#js)
 * [Lua](#lua)
+* [Machine Learning](#machine-learning)
 * [Matlab](#matlab)
 * [Misc](#misc)
 * [OCaml](#ocaml)
@@ -109,6 +111,15 @@
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 
 
+### Deep Learning
+
+* [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
+* [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
+* [Self-Paced Courses for Deep Learning ](https://developer.nvidia.com/deep-learning-courses)
+* [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
+* [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+
+
 ### Git
 
 * [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
@@ -157,12 +168,18 @@
 ### JS
 
 * [Egghead.io](https://egghead.io)
+* [learn:query](https://learnquery.infinum.co)
 
 
 ### Lua
 
 * [Lua Interactive Crash Course](http://luatut.com/crash_course.html)
 * [Lua Tutorial](http://www.tutorialspoint.com/lua/)
+
+
+### Machine Learning
+
+* [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
 ### MATLAB
@@ -215,6 +232,7 @@
 * [Learn Python](https://pythonspot.com)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
 * [Programming for Everybody](https://www.coursera.org/learn/python)
+* [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 
 
 ### R

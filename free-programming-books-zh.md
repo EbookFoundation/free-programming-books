@@ -523,6 +523,7 @@
   * [koa 中文文档](https://github.com/guo-yu/koa-guide)
   * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
   * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
+  * [Node.js Fullstack《從零到一的進撃》](https://github.com/jollen/nodejs-fullstack-lessons)
   * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
   * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
   * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)

@@ -44,7 +44,10 @@
 ### PHP
 
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
+<<<<<<< HEAD
 * [Tutorial PHP](http://www.codingku.com/php/)
+=======
+>>>>>>> upstream/master
 
 
 ### Python

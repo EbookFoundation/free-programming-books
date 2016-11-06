@@ -3,7 +3,6 @@
 * [Android](#android)
 * [Git](#git)
 * [HTML & CSS](#html-css)
-* [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
@@ -26,12 +25,6 @@
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 
 
-### Java
-
-* [Membuat Laporan di Java dengan Menggunakan IReport](https://app.box.com/s/xwxuw0jhe205mbyea2k5)
-* [Pemrograman Java oleh Rosihan Ari Yuana](https://app.box.com/s/mlw1pymsj9azm8trq8wwqwnk2m1asndi)
-
-
 ### JavaScript
 
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
@@ -50,9 +43,12 @@
 
 ### PHP
 
-* [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+* [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
+* [Tutorial PHP](http://www.codingku.com/php/)
 
 
 ### Python
 
+* [Belajar Python](http://www.belajarpython.com)
+* [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz)
 * [Workshop Python 101](http://sakti.github.io/python101/)

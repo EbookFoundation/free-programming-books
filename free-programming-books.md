@@ -1860,7 +1860,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Pyramid for humans](http://docs.pylonsproject.org/projects/pyramid-tutorials/en/latest/humans/index.html)
 
 #### Tornado
-
 * [Learn Web Programming](https://bitbucket.org/hrojas/learn-web-programming)
 
 

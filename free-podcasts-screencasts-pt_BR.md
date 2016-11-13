@@ -8,6 +8,7 @@
 
 * [Podcast] - [DatabaseCast](http://databasecast.com.br)
 
+
 ### Language Agnostic
 
 * [Podcast] - [DevNaEstrada](http://devnaestrada.com.br)

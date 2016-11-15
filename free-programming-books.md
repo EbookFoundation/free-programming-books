@@ -1863,7 +1863,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 #### Tornado
 * [Learn Web Programming](https://bitbucket.org/hrojas/learn-web-programming)
 
-
 ### QML
 
 * [Qt5 Cadaques](http://qmlbook.github.io) - Juergen Bocklage-Ryannel and Johan Thelin (HTML, PDF, ePub) (work in progress)

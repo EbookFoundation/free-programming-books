@@ -19,7 +19,8 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/vh
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files
 
 ### Guidelines
-- make sure a book is free. Double-check if needed.
+- make sure a book is free. Double-check if needed
+- we don't accept files hosted on google drive, dropbox, mega, scribd, issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
     + no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)
@@ -53,10 +54,10 @@ Example:
 
     [...]
     * [An Awesome Book](http://example.com/example.html)
-    
-    
+                                    (blank line)
+                                    (blank line)
     ### Example
-    
+                                    (blank line)
     * [Another Awesome Book](http://example.com/book.html)
     * [Some Other Book](http://example.com/other.html)
 
@@ -86,4 +87,12 @@ GOOD: * [Another Awesome Book](http://example.com/book.pdf) (PDF)
 ```
 BAD : * [Another Awesome Book](http://example.com/book.pdf)- John Doe
 GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (PDF)
+```
+
+- Multiple formats:
+
+```
+BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
+BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
+GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
 ```

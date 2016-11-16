@@ -13,6 +13,7 @@
 * [Javascript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -51,7 +52,7 @@
 ### C
 
 * [Guida al C di Blacklight](http://blacklight.gotdns.org/guidac.pdf) (PDF)
-* [Tricky C](http://www.ba.infn.it/~pierro/ebook/trickyc.pdf) (PDF)
+* [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
 
 
 ### C Sharp
@@ -74,7 +75,7 @@
 
 ### Javascript
 
-* [Guida di riferimento](http://www.econ.uniurb.it/laerte/Reti_Internet_1/materiale/JavaScript.pdf) (PDF)
+* [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
 
 
 ### LaTeX
@@ -89,6 +90,11 @@
 ### Linux
 
 * [«a2», ex «Appunti di informatica libera», ex «Appunti Linux»](http://archive.org/download/AppuntiDiInformaticaLibera/)
+
+
+### Livecode
+
+* [Guida a livecode](http://www.maxvessi.net/pmwiki/pmwiki.php?n=Main.GuidaALivecode)
 
 
 ### Perl

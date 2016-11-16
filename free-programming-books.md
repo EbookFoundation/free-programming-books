@@ -1384,10 +1384,10 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 #### LaTeX
 
-* [Arbirtrary LaTex Reference](http://latex.knobs-dials.com)
+* [Arbitrary LaTex Reference](http://latex.knobs-dials.com)
 * [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX)
 * [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
-* [Begin LaTeX in minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
+* [Begin Latex in minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
 
 #### TeX
 

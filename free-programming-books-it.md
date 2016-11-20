@@ -8,7 +8,9 @@
 * [BASH](#bash)
 * [C](#c)
 * [C#](#c-sharp)
+* [CSS 2/3](#css-2/3)
 * [Git](#git)
+* [HTML](#html)
 * [Java](#java)
 * [Javascript](#javascript)
 * [LaTeX](#latex)
@@ -59,6 +61,14 @@
 
 * [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/)
 
+### CSS 2/3
+* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf)(PDF)
+
+### HTML
+
+* [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf) (PDF)
+* [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf) (PDF)
+* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 
 ### GIT
 
@@ -76,7 +86,7 @@
 ### Javascript
 
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
-
+* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 
 ### LaTeX
 

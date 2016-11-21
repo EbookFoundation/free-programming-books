@@ -74,9 +74,9 @@
 
 ### HTML
 
+* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 * [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf) (PDF)
 * [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf) (PDF)
-* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 
 
 ### Java

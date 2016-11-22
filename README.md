@@ -70,3 +70,7 @@ Free Podcasts and Screencasts:
 + English: [github](/free-podcasts-screencasts-en.md)
 + Portuguese (Brazil): [github](/free-podcasts-screencasts-pt_BR.md)
 + Russian: [github](/free-podcasts-screencasts-ru.md)
+
+
+### Programming Playgrounds
++ [Free Programming Playgrounds](/free-programming-playgrounds.md)

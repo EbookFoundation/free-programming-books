@@ -1097,15 +1097,20 @@
 ### Go
 
 * [An Introduction to Programming in Go](http://www.golang-book.com)
+* [Build a RESTful API Server with Golang and MySQL](http://blog.narenarya.in/build-rest-api-go-mysql.html)
 * [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+* [Building Go Web Applications and Microservices Using Gin](http://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
+* [BUILDING PYTHON MODULES WITH GO 1.5](https://blog.filippo.io/building-python-modules-with-go-1-5/)
 * [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Go Bootcamp](http://www.golangbootcamp.com/book) - Matt Aimonetti
 * [Go by Example](https://gobyexample.com)
+* [Learn Go in Y Minutes](https://learnxinyminutes.com/docs/go/)
 * [Learning Go](https://miek.nl/go/)
 * [Let's learn Go!](http://go-book.appspot.com)
 * [Network programming with Go](https://jan.newmarch.name/go/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
+* [Simple, Easy, Fast – Building a Go (golang) REST Service with Gorilla](http://www.giantflyingsaucer.com/blog/?p=5635)
 * [The Go Tutorial](http://tour.golang.org)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book)
 * [Web apps in Go, the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)

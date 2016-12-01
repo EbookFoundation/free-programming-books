@@ -54,10 +54,10 @@ Example:
 
     [...]
     * [An Awesome Book](http://example.com/example.html)
-    
-    
+                                    (blank line)
+                                    (blank line)
     ### Example
-    
+                                    (blank line)
     * [Another Awesome Book](http://example.com/book.html)
     * [Some Other Book](http://example.com/other.html)
 
@@ -87,4 +87,12 @@ GOOD: * [Another Awesome Book](http://example.com/book.pdf) (PDF)
 ```
 BAD : * [Another Awesome Book](http://example.com/book.pdf)- John Doe
 GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (PDF)
+```
+
+- Multiple formats:
+
+```
+BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
+BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
+GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
 ```

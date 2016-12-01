@@ -4,6 +4,7 @@
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
+* [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
@@ -59,7 +60,7 @@
 ## Ember.js
 
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
-* [DockYard Ember.js Style Guide](https://github.com/dockyard/styleguides/blob/master/ember.md)
+* [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
 * [Ember 101](http://ember101.com)
 * [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
@@ -106,9 +107,20 @@
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
 
+## Node.js
+
+* [Node Documentation](https://nodejs.org/en/docs/)
+
+
 ## Om
 
 * [Om Tutorial](http://awkay.github.io/om-tutorial/)
+
+
+## Redux
+
+* [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 
 
 ## React
@@ -116,6 +128,8 @@
 * [Hacking with React](http://www.hackingwithreact.com)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+* [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
+* [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * React Tutorial by Josh Finnie
@@ -127,3 +141,10 @@
 * [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
+
+
+## Elm
+
+* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* [Elm Tutorial](http://www.elm-tutorial.org)
+* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)

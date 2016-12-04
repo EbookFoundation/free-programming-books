@@ -2,12 +2,13 @@
 
 * [Angular](#angular)
 * [CSS](#css)
+* [FlexBox](#flexbox)
 * [JavaScript](#javascript)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
-* [sql](#sql)
+* [SQL](#sql)
 
 
 ### Angular
@@ -21,6 +22,11 @@
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
+
+
+### FlexBox
+
+* [Echoplex](http://the-echoplex.net/flexyboxes/)
 
 
 ### JavaScript

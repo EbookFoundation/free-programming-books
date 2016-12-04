@@ -205,6 +205,7 @@
 * [Podcast] - [Python Bytes](https://pythonbytes.fm)
 * [Podcast] - [Python Test Podcast](http://pythontesting.net/test-podcast)
 * [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm)
+* [Podcast] - [The Python Experience](http://python.madewithopinion.com)
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
 * [Screencast] - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 * [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)

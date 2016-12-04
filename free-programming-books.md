@@ -1689,6 +1689,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
   * [The Symfony Book 2.x](https://symfony.com/pdf/Symfony_book_2.8.pdf) (PDF)
   * [The Symfony Book 3.x](http://symfony.com/doc/current/index.html)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
+* Zend Framework
+  * [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
 
 
 ### PicoLisp

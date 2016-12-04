@@ -8,17 +8,12 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
-* [sql](#sql)
+* [SQL](#sql)
 
 
 ### Angular
 
 * [Plunker](http://plnkr.co)
-
-
-### FlexBox
-
-* [Echoplex](http://the-echoplex.net/flexyboxes/)
 
 
 ### CSS
@@ -27,6 +22,11 @@
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
+
+
+### FlexBox
+
+* [Echoplex](http://the-echoplex.net/flexyboxes/)
 
 
 ### JavaScript

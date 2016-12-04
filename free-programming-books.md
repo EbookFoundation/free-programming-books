@@ -1944,6 +1944,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Ruby Learning](http://rubylearning.com)
 * [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
+* [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
 * [Why's (Poignant) Guide to Ruby](http://poignant.guide)

@@ -19,6 +19,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 
 ### In Other Spoken Languages
++ Arabic: [github](/free-programming-books-ar.md)
 + Azerbaijan: [github](/free-programming-books-az.md)
 + Bulgarian: [github](/free-programming-books-bg.md)
 + Chinese: [github](/free-programming-books-zh.md)
@@ -51,7 +52,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Interactive Programming Resources
 + [Free interactive programming tutorials](/free-programming-interactive-tutorials-en.md)
- 
+
 
 ### JavaScript Frameworks and Resources
 + [Free JavaScript frameworks resources and tutorials - English](/javascript-frameworks-resources.md)
@@ -69,3 +70,7 @@ Free Podcasts and Screencasts:
 + English: [github](/free-podcasts-screencasts-en.md)
 + Portuguese (Brazil): [github](/free-podcasts-screencasts-pt_BR.md)
 + Russian: [github](/free-podcasts-screencasts-ru.md)
+
+
+### Programming Playgrounds
++ [Free Programming Playgrounds](/free-programming-playgrounds.md)

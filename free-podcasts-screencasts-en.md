@@ -200,11 +200,15 @@
 
 ### Python
 
+* [Podcast] - [Import this](https://soundcloud.com/import-this)
 * [Podcast] - [Podcast.__init__](http://podcastinit.com)
+* [Podcast] - [Python Bytes](https://pythonbytes.fm)
 * [Podcast] - [Python Test Podcast](http://pythontesting.net/test-podcast)
 * [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm)
+* [Podcast] - [The Python Experience](http://python.madewithopinion.com)
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
 * [Screencast] - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
+* [Screencast] - [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i)
 * [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Screencast] - [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq)
 * [Screencast] - [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)

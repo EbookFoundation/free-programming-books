@@ -11,8 +11,8 @@
 * [Clojure](#clojure)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
-* [Databases](#databases)
 * [Data Science](#datascience)
+* [Databases](#databases)
 * [Deep Learning](#deep-learning)
 * [Git](#git)
 * [Go](#go)
@@ -106,15 +106,15 @@
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 
 
+### Data Science
+
+* [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
+
+
 ### Databases
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
-
-
-### Data Science
-
-* [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
 
 
 ### Deep Learning

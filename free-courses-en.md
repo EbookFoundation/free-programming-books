@@ -129,6 +129,7 @@
 ### Git
 
 * [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
+* [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 
 
 ### Go

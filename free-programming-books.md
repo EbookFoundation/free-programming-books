@@ -354,7 +354,6 @@
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
-* [Introduction to Evolutionary Computing](http://cs.vu.nl/~gusz/ecbook/ecbook.html) - A.E. Eiben, J.E. Smith
 * [Mining of Massive Datasets](http://www.mmds.org)
 * [School of Data Handbook](http://schoolofdata.org/handbook/)
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)

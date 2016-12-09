@@ -1665,7 +1665,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
   * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
 * Drupal Framework
   * Drupal 7
+    * [Master Drupal 7 in 7 hours](https://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf) (PDF)
     * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
+  * Drupal 8
+    * [Drupal 8 User Guide](https://www.drupal.org/project/user_guide) (Download zip to get on HTML, PDF, MOBI, EPUB formats)
+    * [Build it with Drupal 8](https://leanpub.com/drupal-8-book) (PDF, MODI, EPUB)
 * [Hacking with PHP](http://www.hackingwithphp.com)
 * Laravel Framework
   * Laravel 3

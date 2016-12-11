@@ -29,14 +29,14 @@
 * [SVN](https://pl.wikibooks.org/wiki/Subversion)
 * [System kontroli wersji Subversion](http://svnbook.opensys.pl)
 * [W obronie wolności](http://stallman.helion.pl)
-
+* [Interaktywna platforma do nauki programowania](http://apki.org/)
 
 ### Android
 
 * [O Androidzie ludzkim głosem](http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF)
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
 
-## Bash
+### Bash
 * [Kurs Bash'a](http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
 
 ### C

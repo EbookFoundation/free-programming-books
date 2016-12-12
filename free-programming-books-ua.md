@@ -1,8 +1,14 @@
 ### Index
 
+* [C](#c)
 * [Haskell](#haskell)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
+
+
+### C
+
+* [Мова програмування C](http://programming.in.ua/programming/c-language/227-book-programming-c-kernighan.html) - Браян В. Кернiган, Денiс М. Рiчi
 
 
 ### Haskell

@@ -69,10 +69,13 @@
 * [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010/)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
 
+
 ### Go
+
 * [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html)
 * [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
 * [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/)
+
 
 ### Git
 
@@ -93,11 +96,13 @@
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
 * [Self HTML](https://wiki.selfhtml.org/wiki/Startseite)
 
+
 ### iOS
 
 * [Apps programmieren für iPhone und iPad](http://openbook.rheinwerk-verlag.de/apps_programmieren_fuer_iphone_und_ipad/)
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
 * [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) (PDF)
+
 
 ### Java
 

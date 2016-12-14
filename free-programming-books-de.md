@@ -70,9 +70,9 @@
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
 
 ### Go
-* [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/)
 * [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html)
 * [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
+* [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/)
 
 ### Git
 

@@ -8,6 +8,7 @@
 * [C#](#c-sharp)
 * [C++](#c-1)
 * [Git](#git)
+* [Go](#go)
 * [Groovy](#groovy)
 * [HTML & CSS](#html--css)
 * [iOS](#ios)
@@ -67,6 +68,11 @@
 * [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp/)
 * [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010/)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
+
+### Go
+* [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/)
+* [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html)
+* [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
 
 ### Git
 

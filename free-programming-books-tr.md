@@ -23,7 +23,6 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Swift](#swift)
-* [Windows Phone](#windowsphone)
 
 
 ### Android
@@ -124,15 +123,15 @@
 * [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
 
 
-### R
-
-* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk)
-
-
 ### Python
 
 * [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf) (PDF)
 * [Python ile Programlama](http://belgeler.istihza.com/py3/)
+
+
+### R
+
+* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk)
 
 
 ### Ruby

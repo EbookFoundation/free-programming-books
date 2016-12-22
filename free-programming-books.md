@@ -1623,6 +1623,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 
 ### Parrot / Perl 6
+
 * [Learn perl6 in Y Minutes](https://learnxinyminutes.com/docs/perl6/)
 * [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)
 * [Using Perl 6](https://github.com/perl6/book/) (work in progress)

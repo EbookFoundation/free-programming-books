@@ -435,7 +435,7 @@
 * [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
-* [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com/)
+* [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com)
 
 
 #### Mathematics For Computer Science

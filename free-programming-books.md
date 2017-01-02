@@ -1391,9 +1391,10 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 #### LaTeX
 
 * [Arbitrary LaTex Reference](http://latex.knobs-dials.com)
+* [Begin Latex in minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
 * [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX)
 * [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
-* [Begin Latex in minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
+
 
 #### TeX
 
@@ -1910,7 +1911,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
 * [The R Manuals](http://cran.r-project.org/manuals.html)
-* [Tidy Text Mining with R](http://tidytextmining.com/) - Julia Silge and David Robinson
+* [Tidy Text Mining with R](http://tidytextmining.com) - Julia Silge and David Robinson
 
 
 ### Racket

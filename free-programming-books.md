@@ -819,9 +819,12 @@
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - B. Hall
 * [Beej's Guide to Network Programming - Using Internet Sockets](http://beej.us/guide/bgnet/) - B. Hall
 * [Build Your Own Lisp](http://www.buildyourownlisp.com)
+* [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
+* [C Programming Boot Camp - Paul Gribble](http://gribblelab.org/cbootcamp/)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
+* [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
 * [Learn to Code With C - The MagPi Essentials](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf) (PDF)
 * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)

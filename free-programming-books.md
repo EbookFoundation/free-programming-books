@@ -1786,6 +1786,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
 * [High Performance Python](http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf) (PDF)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
+* [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
 * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html#) - Muhammad Yasoob Ullah Khalid (1st edition)
@@ -1838,6 +1839,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [The Python Ecosystem: An Introduction](http://mirnazim.org/writings/python-ecosystem-introduction/)
+* [Think Complexity](http://greenteapress.com/complexity/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum

@@ -68,6 +68,7 @@
 ### HTML
 
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+* [KURS HTML](http://www.kurshtml.edu.pl/)
 
 
 ### Java

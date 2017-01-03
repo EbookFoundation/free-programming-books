@@ -88,7 +88,6 @@
 ### Java
 
 * [Java 8 Kitabı](http://kodcu.com/java-8-ebook/)
-* [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
 
 
 ### JavaScript

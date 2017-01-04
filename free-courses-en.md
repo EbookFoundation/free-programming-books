@@ -235,8 +235,8 @@
 
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
-* [Codesdope](https://www.codesdope.com/python-introduction)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://cs61a.org)
+* [Codesdope](https://www.codesdope.com/python-introduction)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Learn Python](https://pythonspot.com)

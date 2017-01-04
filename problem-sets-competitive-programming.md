@@ -67,6 +67,7 @@
 * [Sphere Online Judge](http://www.spoj.com/problems/classical)
 * [The Python Challenge](http://www.pythonchallenge.com)
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
+* [The Python Challenge](http://www.pythonchallenge.com)
 * [Timus Online Judge](http://acm.timus.ru)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)

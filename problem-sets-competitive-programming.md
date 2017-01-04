@@ -65,7 +65,6 @@
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Rosalind](http://rosalind.info/problems/locations/)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical)
-* [The Python Challenge](http://www.pythonchallenge.com)
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
 * [Timus Online Judge](http://acm.timus.ru)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)

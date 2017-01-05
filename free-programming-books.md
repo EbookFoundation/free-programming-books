@@ -130,7 +130,6 @@
 * [OpenMP](#openmp)
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
-* [Oracle PL/SQL](#oracle-plsql)
 * [Oracle Server](#oracle-server)
 * [Parrot / Perl 6](#parrot--perl-6)
 * [PC-BSD](#pc-bsd)

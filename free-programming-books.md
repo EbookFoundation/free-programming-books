@@ -1622,7 +1622,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Oracle Server
 
-* [Oracle's Guides and Manuals](http://docs.oracle.com)
+* [Oracle's Guides and Manuals](https://docs.oracle.com)
 
 
 ### Parrot / Perl 6

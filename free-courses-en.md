@@ -238,7 +238,7 @@
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Learn Python](https://pythonspot.com)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
-* [Programming for Everybody](https://www.coursera.org/learn/python)
+* [Programming for Everybody: Getting Started with Python](https://www.coursera.org/learn/python) (Coursera)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 
 

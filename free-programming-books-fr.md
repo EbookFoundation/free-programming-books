@@ -86,6 +86,7 @@
 
 ### Ada
 
+* [Cours Ada](http://libre.adacore.com/tools/more-resources/ada-course-in-french/) (IUT Aix-en-Provence) - Daniel Feneuille
 * [Cours Ada 95 pour le programmeur C++](http://d.feneuille.free.fr/c++%20to%20ada%201.0a.pdf) - Quentin Ochem
 
 ### Arduino

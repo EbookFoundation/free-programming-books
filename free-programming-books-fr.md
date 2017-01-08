@@ -8,6 +8,7 @@
   * [Méthodes de développment](#méthodes-de-développement)
   * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
   * [Théorie des langages](#théorie-des-langages)
+* [Ada](#ada)
 * [Arduino](#arduino)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
@@ -82,6 +83,10 @@
 * [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
 * [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole) - Tim Bell, Ian H. Witten et Mike Fellows (traduit)
 
+
+### Ada
+
+* [Cours Ada 95 pour le programmeur C++](http://d.feneuille.free.fr/c++%20to%20ada%201.0a.pdf) - Quentin Ochem
 
 ### Arduino
 

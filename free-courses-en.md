@@ -254,6 +254,8 @@
 
 ### Ruby
 
+* [Learn Ruby the Hard Way](http://learnrubythehardway.org/book)
+* [RubyKoans](http://rubykoans.com)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 

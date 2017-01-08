@@ -14,6 +14,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [Javascript](#javascript)
+* [JQuery](#jquery)
 * [Language Agnostic](#language-agnostic)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
@@ -125,6 +126,11 @@
 * [Try jQuery](http://try.jquery.com)
 
 
+### jQuery
+
+* [CodeSchool - Try jQuery](https://www.codeschool.com/courses/try-jquery)
+
+
 ### Language Agnostic
 
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
@@ -196,6 +202,7 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
+* [CodeSchool - Try SQL](https://www.codeschool.com/courses/try-sql)
 * [Scala Tour](http://www.scala-tour.com)
 
 

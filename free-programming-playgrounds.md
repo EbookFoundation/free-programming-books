@@ -47,7 +47,7 @@
 
 * [Codepad](http://codepad.org)
 * [PHPFiddle](http://phpfiddle.org)
-* [PHPTester](http://phptester.net/)
+* [PHPTester](http://phptester.net)
 
 
 ### Python
@@ -63,7 +63,7 @@
 
 ### Rust
 
-* [Rust Playground](http://play.integer32.com/)
+* [Rust Playground](http://play.integer32.com)
 
 
 ### SQL

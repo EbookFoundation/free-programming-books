@@ -1,7 +1,7 @@
 ### Index
 
 * [Databases](#databases)
-* [iOS](#iOS)
+* [iOS](#ios)
 * [Language Agnostic](#language-agnostic)
 
 

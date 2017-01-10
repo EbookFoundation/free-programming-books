@@ -47,6 +47,7 @@
 
 * [Codepad](http://codepad.org)
 * [PHPFiddle](http://phpfiddle.org)
+* [PHPTester](http://phptester.net/)
 
 
 ### Python
@@ -59,6 +60,9 @@
 * [Codepad](http://codepad.org)
 * [Runnable](http://code.runnable.com)
 
+### Rust
+
+* [Rust Playground](http://play.integer32.com/)
 
 ### SQL
 

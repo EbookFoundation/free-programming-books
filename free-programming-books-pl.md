@@ -22,6 +22,7 @@
 
 ### 0 - Niezależne od języka programowania
 
+* [Podstawy algorytmiki](https://mbronek7.github.io/algolandia.github.io)
 * [Git](https://pl.wikibooks.org/wiki/Git)
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS)
 * [Pro Git](http://git-scm.com/book/pl/)

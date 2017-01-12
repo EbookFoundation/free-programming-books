@@ -24,6 +24,7 @@
 
 * [Git](https://pl.wikibooks.org/wiki/Git)
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS)
+* [Podstawy algorytmiki](https://mbronek7.github.io/algolandia.github.io)
 * [Pro Git](http://git-scm.com/book/pl/)
 * [SVN](https://pl.wikibooks.org/wiki/Subversion)
 * [System kontroli wersji Subversion](http://svnbook.opensys.pl)

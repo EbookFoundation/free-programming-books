@@ -245,7 +245,8 @@
 * [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) (Coursera)
 * [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x) (edX)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360)
-* [Programming for Everybody](https://www.coursera.org/learn/python)
+* [Programming for Everybody](https://www.coursera.org/learn/python) (Coursera)
+* [Programming for Everybody: Getting Started with Python](https://www.coursera.org/learn/python) (Coursera)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python Course](http://www.python-course.eu)
 

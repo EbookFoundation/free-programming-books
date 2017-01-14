@@ -233,13 +233,22 @@
 
 ### Python
 
+* [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
+* [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://cs61a.org)
+* [Codesdope](https://www.codesdope.com/python-introduction)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Learn Python](https://pythonspot.com)
+* [Learn Python - Free Interactive Python Tutorial](http://www.learnpython.org)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
+* [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) (Coursera)
+* [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x) (edX)
+* [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360)
+* [Programming for Everybody](https://www.coursera.org/learn/python) (Coursera)
 * [Programming for Everybody: Getting Started with Python](https://www.coursera.org/learn/python) (Coursera)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
+* [Python Course](http://www.python-course.eu)
 
 
 ### R

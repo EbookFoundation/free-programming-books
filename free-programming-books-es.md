@@ -90,7 +90,7 @@
 
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
 * [Diseño Ágil con TDD](http://www.carlosble.com/libro-tdd/?lang=es)
-* [Ingeniería de Software: Una Guía para Crear Sistemas de Información](http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
+* [Ingeniería de Software: Una Guía para Crear Sistemas de Información](http://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
 * [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
@@ -268,7 +268,6 @@
 
 ### Perl
 
-* [Manual de Perl](http://www6.uniovi.es/perl/tutor/) - Universidad de Oviedo, España
 * [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm) - Universidad de Granada, España
 * [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) - TLDP (PDF)
 * [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) - Universidad de Magallanes, Chile (PDF)

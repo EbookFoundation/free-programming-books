@@ -130,8 +130,6 @@
 * [OpenMP](#openmp)
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
-* [Oracle PL/SQL](#oracle-plsql)
-* [Oracle Server](#oracle-server)
 * [Parrot / Perl 6](#parrot--perl-6)
 * [PC-BSD](#pc-bsd)
 * [Perl](#perl)
@@ -1621,11 +1619,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### OpenSCAD
 
 * [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
-
-
-### Oracle Server
-
-* [Oracle's Guides and Manuals](http://tahiti.oracle.com)
 
 
 ### Parrot / Perl 6

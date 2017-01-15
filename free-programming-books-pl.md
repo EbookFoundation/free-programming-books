@@ -26,6 +26,7 @@
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS)
 * [Pro Git](http://git-scm.com/book/pl/)
 * [SVN](https://pl.wikibooks.org/wiki/Subversion)
+* [System kontroli wersji Subversion](http://www.gajdaw.pl/varia/subversion-system-kontroli-wersji-tutorial/)
 
 
 ### Android

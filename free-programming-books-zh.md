@@ -196,6 +196,8 @@
 * [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://tinylab.gitbooks.io/elinux/content/zh/)
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
+* [鸟哥的 Linux 私房菜 基础学习篇](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
+* [鸟哥的 Linux 私房菜 服务器架设篇](http://cn.linux.vbird.org/linux_server/)
 
 
 ### 数据库
@@ -228,6 +230,7 @@
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) （本文由 [@廖雪峰](http://weibo.com/liaoxuefeng) 创作，如果觉得本教程对您有帮助，可以去 [iTunes](https://itunes.apple.com/cn/app/git-jiao-cheng/id876420437) 购买）
 * [Got GitHub](https://github.com/gotgit/gotgithub)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+* [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/)
 * [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
 * [Pro Git](https://git-scm.com/book/zh/v2)
 * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
@@ -249,7 +252,7 @@
 * [ELKstack 中文指南](http://kibana.logstash.es)
 * [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
 * [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
-
+* [Puppet 2.7 Cookbook 中文版](https://www.gitbook.com/book/wizardforcel/puppet-27-cookbook/details)
 
 ### 编程艺术
 
@@ -310,6 +313,7 @@
 
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
 * [Android Note(开发过程中积累的知识点)](https://github.com/CharonChui/AndroidNote)
+* [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
@@ -401,6 +405,7 @@
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
 * [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
+* [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
 * [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) (《 [The Little Go Book](https://github.com/karlseguin/the-little-go-book) 》中文版)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
@@ -577,6 +582,7 @@
 
 * [Master Perl Today](https://github.com/fayland/chinese-perl-book)
 * [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
+* [Perl 5 教程](http://net.pku.edu.cn/~yhf/tutorial/perl/perl.html)
 * [Perl 教程](http://www.yiibai.com/perl)
 
 

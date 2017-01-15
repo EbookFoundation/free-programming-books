@@ -34,6 +34,7 @@
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
+* [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
@@ -234,6 +235,11 @@
 #### Ruby on Rails
 
 * [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning) - Michael Hartl
+
+
+### Sage
+
+* [Calcul mathématique avec Sage](https://hal.inria.fr/inria-00540485/file/sagebook-web-20130530.pdf) - A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann
 
 
 ### Scilab

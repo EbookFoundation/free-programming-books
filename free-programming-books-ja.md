@@ -169,6 +169,7 @@
 
 #### 機械学習
 
+* [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/index.html#table-of-contents)
 * [Mahoutで体感する機械学習の実践](http://gihyo.jp/dev/serial/01/mahout) - やまかつ
 * [機械学習 はじめよう](http://gihyo.jp/dev/serial/01/machine-learning) - 中谷秀洋，恩田伊織
 
@@ -208,6 +209,7 @@
 
 ### AWK
 
+* [AWK の第一歩](http://lagendra.w3.kanazawa-u.ac.jp/ogurisu/manuals/awk/index.html) - 小栗栖修
 * [AWK リファレンス](http://shellscript.sunone.me/awk.html) - SUNONE
 * [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
 

@@ -131,6 +131,7 @@
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
 * [Parrot / Perl 6](#parrot--perl-6)
+* [PC-BSD](#pc-bsd)
 * [Perl](#perl)
 * [PHP](#php)
 * [PicoLisp](#picolisp)
@@ -143,9 +144,10 @@
 * [Python](#python)
   * [Django](#django)
   * [Flask](#flask)
+  * [Kivy](#kivy)
   * [Pandas](#pandas)
   * [Pyramid](#pyramid)
-  * [Tornado](#tornado)  
+  * [Tornado](#tornado)
 * [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
@@ -162,6 +164,7 @@
   * [Play Scala](#play-scala)
 * [Scheme](#scheme)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [Sed](#sed)
 * [Self](#self)
 * [Smalltalk](#smalltalk)
@@ -234,6 +237,7 @@
 * [Learn OpenGL](http://learnopengl.com) - Joey de Vries
 * [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) (draft)
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations.
+* [OpenGL Programming Guide (The Red Book)](https://www.ics.uci.edu/~gopi/CS211B/opengl_programming_guide_8th_edition.pdf)
 * [ShaderX series](http://www.realtimerendering.com/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
 
@@ -262,6 +266,7 @@
 * [CS Unplugged: Computer Science without a computer](http://csunplugged.org/books/)
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures (Into Java) - Paul N. Hilfinger](http://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) (PDF)
+* [Data Structures and Algorithms: Annotated Reference with Examples](http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf) - G. Barnett and L. Del Tongo
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
@@ -412,6 +417,7 @@
 * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 * [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello and Paolo Toth
 * [Lecture Notes of Linear Algebra](http://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Dr. P. Shunmugaraj, IIT Kanpur (PDF)
+* [Linear Algebra](http://home.iitk.ac.in/~arlal/book/nptel/pdf/booklinear.html) - Dr. Arbind K Lal, IIT Kanpur (PDF)
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) (PDF)
 * [Linear Algebra: An Introduction to Mathematical Discourse](https://en.wikibooks.org/wiki/Linear_Algebra) - Jim Hefferon
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
@@ -834,6 +840,7 @@
 * [C# Programming - Wikibook](https://en.wikibooks.org/wiki/C_Sharp_Programming)
 * [C# Yellow Book](http://www.csharpcourse.com) (intro to programming)
 * [Creating Mobile Apps with Xamarin.Forms C#](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/)
+* [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [Introduction to Rx](http://www.introtorx.com)
@@ -1247,6 +1254,7 @@
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
 * [Category wise tutorials - J2EE](http://www.mkyong.com)
 * [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com) - Marty Hall and Larry Brown
+* [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/html/page9.html)
 * [Data Structures in Java for the Principled Programmer](http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) (PDF)
 * [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html)
@@ -1449,7 +1457,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
 * [Sketchy LISP](hhttp://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/sketchy-lisp.zip) - Nils Holm (ZIP)
-* [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
+* [Successful Lisp: How to Understand and Use Common Lisp](https://github.com/clojurians-org/lisp-ebook/blob/master/Successful%20Lisp%20How%20to%20Understand%20and%20Use%20Common%20Lisp%20-%20David%20B.%20Lamkins.pdf) - David Lamkins (PDF)
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
 
 
@@ -1588,6 +1596,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### OpenMP
 
+* [A Guide To OpenMP](http://bisqwit.iki.fi/story/howto/openmp/)
 * [OpenMP Application Programming Interface Standard Version 4.0](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) (PDF)
 
 
@@ -1606,11 +1615,15 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)
 * [Using Perl 6](https://github.com/perl6/book/) (work in progress)
 
+### PC-BSD
+
+* [PC-BSD® Users Handbook](http://web.pcbsd.org/docs/)
 
 ### Perl
 
 * [Beginning Perl](https://www.perl.org/books/beginning-perl/)
 * [Data Munging with Perl](http://perlhacks.com/dmp.pdf) (PDF)
+* [Embedding Perl in HTML with Mason](http://masonbook.houseabsolute.com/book/) - D. Rolsky, K. Williams
 * [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.pdf) (PDF)
 * [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)
 * [Extreme Perl](http://www.extremeperl.org/bk/home) - R. Nagier (HTML, PDF)
@@ -1749,6 +1762,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 * [CodeCademy Python](https://www.codecademy.com/learn/python)
 * [Composing Programs](http://composingprograms.com) (3.x)
+* [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss
 * [Dive into Python](http://www.diveintopython.net) - Mark Pilgrim (2.3)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
 * [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
@@ -1835,6 +1849,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Explore Flask](https://exploreflask.com) - Robert Picard
 * [Flask Microframework](http://flask.pocoo.org/docs/0.10/tutorial/)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
+
+
+#### Kivy
+
+* [Kivy Programming Guide](https://kivy.org/docs/guide-index.html)
 
 
 #### Pandas
@@ -2022,6 +2041,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Introduction to Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
 * [Programming in Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
 * [Writing Scilab Extensions](http://forge.scilab.org/index.php/p/docsciextensions/downloads/)
+
+
+### Scratch
+
+* [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
 
 
 ### Sed

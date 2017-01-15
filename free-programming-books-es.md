@@ -90,6 +90,7 @@
 
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
 * [Diseño Ágil con TDD](http://www.carlosble.com/libro-tdd/?lang=es)
+* [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
 * [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
@@ -272,6 +273,7 @@
 
 ### Python
 
+* [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (PDF)

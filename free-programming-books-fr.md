@@ -34,7 +34,6 @@
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
-* [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
@@ -217,7 +216,6 @@
 ### Python
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
-* [Dropbox a des fuites ! Un aperçu de la rétro-ingénierie des programmes Python](http://pdp.microjoe.org/tutoriels/280/dropbox-a-des-fuites/)
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau et Laurent Pointal
 
@@ -236,11 +234,6 @@
 #### Ruby on Rails
 
 * [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning) - Michael Hartl
-
-
-### Sage
-
-* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr) - A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann
 
 
 ### Scilab

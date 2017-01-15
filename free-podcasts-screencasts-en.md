@@ -119,7 +119,6 @@
 * [Podcast] - [The Javascript Show](http://javascriptshow.com)
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript)
 * [Screencast] - [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)
-* [Screencast] - [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript)
 
 
 ### Language Agnostic
@@ -209,7 +208,6 @@
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
 * [Screencast] - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 * [Screencast] - [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i)
-* [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Screencast] - [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq)
 * [Screencast] - [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 * [Screencast] - [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)
@@ -233,7 +231,6 @@
 * [Podcast] - [The Ruby Show](http://rubyshow.com)
 * [Screencast] - [Free Ruby on Rails Screencasts](http://railscasts.com/?type=free)
 * [Screencast] - [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free)
-* [Screencast] - [Ruby Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/ruby)
 
 
 ### Rust

@@ -49,7 +49,6 @@
 ### C++
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
-* [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf) (PDF)
 
 
 ### Engenharia de Software

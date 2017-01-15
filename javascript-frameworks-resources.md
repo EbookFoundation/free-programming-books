@@ -80,27 +80,6 @@
 * [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
-## Knockout.js
-
-* [Knockout.js Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
-* tech.pro: Knockout.js tutorial video series
-  * [Lesson  1 - Introduction](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
-  * [Lesson  2 - Initialising the application](http://tech.pro/tutorial/1563/knockoutjs-lesson-2-initialising-the-application)
-  * [Lesson  3 - Adding a viewModel](http://tech.pro/tutorial/1564/knockoutjs-lesson-3-adding-a-viewmodel)
-  * [Lesson  4 - Basic bindings](http://tech.pro/tutorial/1565/knockoutjs-lesson-4-basic-bindings)
-  * [Lesson  5 - Observable arrays](http://tech.pro/tutorial/1566/knockoutjs-lesson-5-observable-arrays)
-  * [Lesson  6 - The foreach binding](http://tech.pro/tutorial/1567/knockoutjs-lesson-6-the-foreach-binding)
-  * [Lesson  7 - The event binding](http://tech.pro/tutorial/1568/knockoutjs-lesson-7-the-event-binding)
-  * [Lesson  8 - The click binding](http://tech.pro/tutorial/1569/knockoutjs-lesson-8-the-click-binding)
-  * [Lesson  9 - Custom bindings](http://tech.pro/tutorial/1570/knockoutjs-lesson-9-custom-bindings)
-  * [Lesson 10 - Computed Observables](http://tech.pro/tutorial/1571/knockoutjs-lesson-10-computed-observables)
-  * [Lesson 11 - The visible binding](http://tech.pro/tutorial/1572/knockoutjs-lesson-11-the-visible-binding)
-  * [Lesson 12 - The value binding](http://tech.pro/tutorial/1573/knockoutjs-lesson-12-the-value-binding)
-  * [Lesson 13 - Additional Knockout features](http://tech.pro/tutorial/1574/knockoutjs-lesson-13-additional-knockout-features)
-  * [Lesson 14 - Adding a lightbox](http://tech.pro/tutorial/1575/knockoutjs-lesson-14-adding-a-lightbox)
-  * Lesson 15: Summary of the series (Coming soon...)
-
-
 ## Meteor
 
 * [BulletProof Meteor](https://bulletproofmeteor.com)

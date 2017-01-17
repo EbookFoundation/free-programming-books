@@ -26,6 +26,7 @@
 * [ColdFusion](#coldfusion)
 * [Cool](#cool)
 * [Coq](#coq)
+* [Crystal](#crystal)
 * [CUDA](#cuda)
 * [D](#d)
 * [Dart](#dart)
@@ -935,6 +936,10 @@
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
 * [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
 
+
+### Crystal
+
+*[Crystal for Rubyists.](http://www.crystalforrubyists.com)
 
 ### CUDA
 

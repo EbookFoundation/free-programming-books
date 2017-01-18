@@ -26,6 +26,7 @@
   * [设计模式](#设计模式)
   * [软件开发方法](#软件开发方法)
   * [项目相关](#项目相关)
+  * [深度学习](#深度学习)
 * [语言相关](#语言相关)
   * [Android](#android)
   * [AWK](#awk)
@@ -306,6 +307,11 @@
 * [编码规范](https://github.com/ecomfe/spec)
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
+
+
+### 深度学习
+
+* [Deep Learning中文翻译](https://github.com/exacity/deeplearningbook-chinese)
 
 
 ## 语言相关

@@ -33,7 +33,7 @@
 
 ### Node.js
 
-* [Belajar Node.js](http://idjs.github.io/belajar-nodejs/) 
+* [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
 
 
 ### NoSQL

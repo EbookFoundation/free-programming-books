@@ -11,6 +11,7 @@
 * [Clojure](#clojure)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
+* [Data Science](#datascience)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
 * [Git](#git)
@@ -29,7 +30,6 @@
 * [Python](#python)
 * [R](#r)
 * [RethinkDB](#rethinkdb)
-* [Ruby](#ruby)
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
 * [Software Engineering](#software-engineering)
@@ -105,6 +105,11 @@
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 
 
+### Data Science
+
+* [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
+
+
 ### Databases
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
@@ -123,6 +128,7 @@
 ### Git
 
 * [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
+* [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 
 
 ### Go
@@ -226,13 +232,21 @@
 
 ### Python
 
+* [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
+* [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://cs61a.org)
+* [Codesdope](https://www.codesdope.com/python-introduction)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Learn Python](https://pythonspot.com)
+* [Learn Python - Free Interactive Python Tutorial](http://www.learnpython.org)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
+* [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) (Coursera)
+* [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x) (edX)
+* [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360)
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
+* [Python Course](http://www.python-course.eu)
 
 
 ### R
@@ -243,11 +257,6 @@
 ### RethinkDB
 
 * [RethinkDB: Distributed Databases](https://courses.platzi.com/courses/rethinkdb-databases/)
-
-
-### Ruby
-
-* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 
 ### Sails.Js

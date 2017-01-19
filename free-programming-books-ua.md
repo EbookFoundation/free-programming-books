@@ -3,6 +3,7 @@
 * [Haskell](#haskell)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
+* [Python](#python)
 
 
 ### Haskell
@@ -18,3 +19,8 @@
 ### Language Agnostic
 
 * [Дизайн патерни - просто, як двері](http://designpatterns.andriybuday.com) - А. Будай
+
+
+### Python
+
+* [Пориньте у Python 3](https://uk.wikibooks.org/wiki/Пориньте_у_Python_3) - Марк Пілігрим

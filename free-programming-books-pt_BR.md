@@ -136,6 +136,7 @@
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [Laravel - O Framework PHP para os Artesãos da Web](http://laravel.artesaos.org)
 * [PHP Do jeito certo](http://br.phptherightway.com)
+* [Api REST Com Silex no GAE](http://bit.ly/ebook-silex)
 
 
 ### Python

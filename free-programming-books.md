@@ -939,7 +939,7 @@
 
 ### Crystal
 
-*[Crystal for Rubyists.](http://www.crystalforrubyists.com)
+* [Crystal for Rubyists.](http://www.crystalforrubyists.com)
 
 ### CUDA
 

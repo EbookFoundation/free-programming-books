@@ -34,8 +34,8 @@
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
 * [Software Engineering](#software-engineering)
-* [SystemVerilog](#systemverilog)
 * [Swift](#swift)
+* [SystemVerilog](#systemverilog)
 * [Theory](#theory)
 * [Web Development](#web-development)
 
@@ -277,15 +277,15 @@
 * [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
 
 
+### Swift
+
+* [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
+
+
 ### SystemVerilog
 
 * [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
 * [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
-
-
-### Swift
-
-* [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
 
 
 ### Theory

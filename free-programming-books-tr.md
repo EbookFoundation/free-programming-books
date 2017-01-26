@@ -23,7 +23,6 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Swift](#swift)
-* [Windows Phone](#windowsphone)
 
 
 ### Android

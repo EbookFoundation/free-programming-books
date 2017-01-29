@@ -127,9 +127,10 @@
 
 
 ### Java
+
 * [Apprenez à programmer en Java](https://openclassrooms.com/courses/apprenez-a-programmer-en-java) -  Cyrille Herby
-* [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Java et la programmation réseau](https://openclassrooms.com/courses/java-et-la-programmation-reseau) - Cyrille Herby
+* [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Play.Rules!](http://3monkeys.github.io/play.rules/) 
 
 

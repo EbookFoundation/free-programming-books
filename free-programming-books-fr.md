@@ -134,7 +134,6 @@
 * [Play.Rules!](http://3monkeys.github.io/play.rules/) 
 
 
-
 ### Javascript
 
 * [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke

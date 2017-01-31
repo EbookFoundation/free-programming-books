@@ -86,7 +86,7 @@
 
 ### Ada
 
-* [Cours Ada](http://d.feneuille.free.fr/cours-ada-iut.zip) - Daniel Feneuille (Support d'un cours enseigné à l'IUT d'Aix-en-Provence)
+* [Cours Ada](http://d.feneuille.free.fr/cours-ada-iut.zip) - Daniel Feneuille (Support d'un cours enseigné à l'IUT d'Aix-en-Provence) (ZIP)
 * [Cours Ada 95 pour le programmeur C++](http://d.feneuille.free.fr/c++%20to%20ada%201.0a.pdf) - Quentin Ochem (PDF)
 
 

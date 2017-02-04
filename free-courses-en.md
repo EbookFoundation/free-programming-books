@@ -54,6 +54,7 @@
 ### Android
 
 * [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101/)
+* [Material design](https://material.io/guidelines/)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)

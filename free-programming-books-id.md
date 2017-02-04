@@ -5,6 +5,7 @@
 * [HTML & CSS](#html-css)
 * [JavaScript](#javascript)
 * [PHP](#php)
+* [Python](#python)
 
 
 ### Android
@@ -15,6 +16,7 @@
 
 ### Git
 
+* [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
 * [Pro Git 1st Edition](https://git-scm.com/book/id/v1)
 
 
@@ -31,7 +33,7 @@
 
 ### Node.js
 
-* [Belajar Node.js](http://idjs.github.io/belajar-nodejs/) 
+* [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
 
 
 ### NoSQL
@@ -41,4 +43,9 @@
 
 ### PHP
 
-* [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+* [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
+
+
+### Python
+
+* [Workshop Python 101](http://sakti.github.io/python101/)

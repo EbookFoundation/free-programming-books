@@ -1,6 +1,6 @@
 # List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[View the English list](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+[View the English list](/free-programming-books.md)
 
 ## Intro
 This list initially was a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) by George Stocker. Now updated, with dead links gone and new content.
@@ -19,6 +19,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 
 ### In Other Spoken Languages
++ Arabic: [github](/free-programming-books-ar.md)
 + Azerbaijan: [github](/free-programming-books-az.md)
 + Bulgarian: [github](/free-programming-books-bg.md)
 + Chinese: [github](/free-programming-books-zh.md)
@@ -51,7 +52,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Interactive Programming Resources
 + [Free interactive programming tutorials](/free-programming-interactive-tutorials-en.md)
- 
+
 
 ### JavaScript Frameworks and Resources
 + [Free JavaScript frameworks resources and tutorials - English](/javascript-frameworks-resources.md)
@@ -67,4 +68,9 @@ Free Podcasts and Screencasts:
 
 + Czech: [github](/free-podcasts-screencasts-cs.md)
 + English: [github](/free-podcasts-screencasts-en.md)
++ Portuguese (Brazil): [github](/free-podcasts-screencasts-pt_BR.md)
 + Russian: [github](/free-podcasts-screencasts-ru.md)
+
+
+### Programming Playgrounds
++ [Free Programming Playgrounds](/free-programming-playgrounds.md)

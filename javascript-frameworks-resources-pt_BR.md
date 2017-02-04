@@ -1,9 +1,7 @@
 ### Vue.js
 
 * [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
-* [Documentação pt-BR](http://vuejs-br.github.io/vuejs.org/)
-* [Série de vídeos sobre Vue.js](http://www.vedcasts.com.br/series/vuejs)
-* [VueJS: Filtro para criar URL’s amigáveis](http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
+* [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
 
 
 ### Angular.js
@@ -20,13 +18,13 @@
 
 ### Ember.js
 
-* [Conceitos basicos do Ember.js ](http://fabriciotav.org/blog/2013/02/19/conceitos-basicos-do-emberjs.html)
+* [Conceitos basicos do Ember.js ](http://fabriciotav.org/blog/2013/02/20/conceitos-basicos-do-emberjs.html)
 * [Desmistificando um pouco do ember.js](https://medium.com/@marciojunior_me/desmistificando-um-pouco-do-ember-js-71b92f9ab9f0#.axkvq1se3)
 * [Ember JS … Actions e Controllers](https://medium.com/@andersondecastro/ember-js-actions-e-controllers-1b12b588d1f3#.trfmw9iz2)
 * [Ember JS … Carregando conteúdo no Template](https://medium.com/@andersondecastro/ember-carregando-conteudo-no-template-63652962fc5#.eks92v6kq)
 * [Ember JS … Do Zero!](https://medium.com/@andersondecastro/ember-js-do-zero-9150ec2fc22c#.jdlrdp4iw)
 * [Ember JS … Roteando](https://medium.com/@andersondecastro/ember-js-roteando-8a7469e3c88c#.urpjya430)
-* [Handlebars Helpers com Ember.js](http://fabriciotav.org/blog/2013/02/19/handlebars-helpers-com-emberjs.html)
+* [Handlebars Helpers com Ember.js](http://fabriciotav.org/blog/2013/02/20/handlebars-helpers-com-emberjs.html)
 
 
 ### Express.js
@@ -53,7 +51,7 @@
 
 ### Knockout.js
 
-* [Documentação](http://knockoutjs-brasil.com.br/documentation/introduction.html)
+* [Documentação](https://github.com/alexhiroshi/knockoutjs-brasil)
 
 
 ### Livros

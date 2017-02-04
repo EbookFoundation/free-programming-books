@@ -9,7 +9,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/vh
 2. You don't have to know git: if you found something of interest which is *not already in this repo*, please open an issue with your links propositions.
     - If you know git, please fork the repo and send pull requests.
 3. We have 5 kinds of lists. Choose the right one:
-    
+
     - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
     - *Courses* : A course is a learning material which is not a book and where there is no interactive tool embedded in the site. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Interactive Tutorials* : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
@@ -87,4 +87,12 @@ GOOD: * [Another Awesome Book](http://example.com/book.pdf) (PDF)
 ```
 BAD : * [Another Awesome Book](http://example.com/book.pdf)- John Doe
 GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (PDF)
+```
+
+- Multiple formats:
+
+```
+BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
+BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
+GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
 ```

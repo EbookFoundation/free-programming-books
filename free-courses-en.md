@@ -34,6 +34,7 @@
 * [Scala](#scala)
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
+* [SystemVerilog](#systemverilog)
 * [Theory](#theory)
 * [Web Development](#web-development)
 
@@ -282,6 +283,12 @@
 ### Swift
 
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
+
+
+### SystemVerilog
+
+* [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
+* [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
 
 
 ### Theory

@@ -219,7 +219,7 @@
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
-
+* [FindLectures.com](https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic
 
 ### OCaml
 

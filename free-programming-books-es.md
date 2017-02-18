@@ -186,7 +186,7 @@
 
 * [Aprendiendo Java](http://www.decom-uv.cl/~roberto/apuntes/java/AprendiendoJava.pdf) (PDF)
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com)
-* [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/pdf/libroJavaConTapa.pdf) (PDF)
+* [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java](http://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona, UNAM (PDF)
 * [OCPJP6 Resumen Español](https://github.com/PabloReyes/ocpjp-resumen-espanol) - Pablo Reyes Almagro (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)

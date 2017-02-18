@@ -1209,6 +1209,7 @@
 * [Pro HTML5 Programming]( http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
 * [Scalable and Modular Architecture for CSS](https://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
+* [Understanding Flexbox: Everything you need to know] (https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 
 
 #### Bootstrap

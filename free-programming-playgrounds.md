@@ -2,6 +2,7 @@
 
 * [Angular](#angular)
 * [CSS](#css)
+* [Crystal](#crystal)
 * [FlexBox](#flexbox)
 * [JavaScript](#javascript)
 * [Node.js](#nodejs)
@@ -22,6 +23,11 @@
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
+
+
+### Crystal
+
+* [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
 
 
 ### FlexBox

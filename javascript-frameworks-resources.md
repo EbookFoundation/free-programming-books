@@ -61,10 +61,8 @@
 
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
-* [Ember 101](http://ember101.com)
 * [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
-* [EmberFlare](https://emberflare.com)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
 
@@ -117,7 +115,6 @@
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
 * [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/aspnet5.html)
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
-* [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
 

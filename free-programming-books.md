@@ -445,7 +445,7 @@
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
 * [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
 * [Ansible Up & Running (first three chapters)](https://www.ansible.com/blog/free-ansible-book) *(account required)*
-* [Asterisk™: The Definitive Guide](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
+* [Asterisk™: The Definitive Guide](http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8)
 * [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/~playbook/)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
@@ -631,7 +631,6 @@
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org) - Markus Voelter
-* [Essential Skills for Agile Development](http://elliottback.com/wp/essential-skills-for-agile-development/)
 * [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/portal/web/swebok)
 * [How to Design Programs](http://www.htdp.org)
 * [How to Write Unmaintainable Code](http://mindprod.com/jgloss/unmain.html)
@@ -793,6 +792,7 @@
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
 * [Slackbook](http://slackbook.org)
 * [The Bash Academy](http://www.bash.academy)
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts, Jr. (PDF)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr.
 
 
@@ -939,7 +939,8 @@
 
 ### Crystal
 
-*[Crystal for Rubyists.](http://www.crystalforrubyists.com)
+* [Crystal for Rubyists](http://www.crystalforrubyists.com)
+
 
 ### CUDA
 
@@ -1281,6 +1282,7 @@
 * [The Java EE7 Tutorial](https://docs.oracle.com/javaee/7/JEETT.pdf) (PDF)
 * [The Java Language Specification](http://docs.oracle.com/javase/specs/) - James Gosling, Bill Joy, Guy Steele, Gilad Bracha
 * [The Java Tutorial 4th Edition](http://download.oracle.com/javase/tutorial/) - Sharon Zakhour, Scott Hommel, Jacob Royal, Isaac Rabinovitch, Tom Risser, Mark Hoeber
+* [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
 * [Welcome to Java for Python Programmers](http://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
@@ -1323,7 +1325,6 @@
 * [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net) - Marijn Haverbeke
 * [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
-* [Human Javascript](http://read.humanjavascript.com)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com) - Cody Lindley
@@ -1698,6 +1699,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Postgres Official Documentation](http://www.postgresql.org/docs/)
 * [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
+* [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
 
 
 ### PowerShell
@@ -1808,6 +1810,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Python 2.7 quick reference](http://infohost.nmt.edu/tcc/help/pubs/python/web/) - New Mexico Tech (2.7)
 * [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Python for Econometrics](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf) - Kevin Sheppard (PDF) (2.7.5)
 * [Python for Everybody](http://py4e.com/book.php) - Charles Severance (PDF, EPUB, HTML)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) (2.7.5)
@@ -1889,7 +1892,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr) - Daniel Navarro
-* [learnR](https://github.com/yuanlisky/learnR) - (Work in Progress) - Kun Ren
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
 * [R for Data Science](http://r4ds.had.co.nz) - Garrett Grolemund and Hadley Wickham
 * [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
@@ -2003,6 +2005,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Pro Scala: Monadic Design Patterns for the Web](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Program Transformation in Scala](http://homepages.cwi.nl/~ai/MScThesis-A-Izmaylova.pdf) - Anastasia Izmaylova (PDF)
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/) - by M. Odersky, L. Spoon, B. Venners
+* [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content/) - Rob Story
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/) - Phil! Gold
 * [Scala & Design Patterns: Exploring Language Expressivity](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) - Fredrik Skeel Løkke (PDF)
 * [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) - M. Odersky (PDF)

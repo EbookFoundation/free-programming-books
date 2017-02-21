@@ -34,6 +34,7 @@
 * [Scala](#scala)
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
+* [SystemVerilog](#systemverilog)
 * [Theory](#theory)
 * [Web Development](#web-development)
 
@@ -54,6 +55,7 @@
 ### Android
 
 * [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101/)
+* [Material design](https://material.io/guidelines/)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
@@ -281,6 +283,12 @@
 ### Swift
 
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
+
+
+### SystemVerilog
+
+* [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
+* [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
 
 
 ### Theory

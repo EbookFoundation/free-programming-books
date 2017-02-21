@@ -132,6 +132,7 @@
 ### PHP
 
 * [A semana PHP](http://asemanaphp.com.br)
+* [Api REST Com Silex no GAE](http://bit.ly/ebook-silex) - Nanderson Castro (PDF, EPUB, MOBI)
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [Laravel - O Framework PHP para os Artesãos da Web](http://laravel.artesaos.org)
@@ -144,7 +145,7 @@
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
-* [Python Orientado a Objetos](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf) (PDF)
+* [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF)
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
 

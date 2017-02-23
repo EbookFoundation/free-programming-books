@@ -5,6 +5,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [Common Lisp](#common-lisp)
+* [Coq](#coq)
 * [CSS](#css)
 * [Haskell](#haskell)
 * [HTML](#html)
@@ -54,6 +55,9 @@
 
 * [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php)
 
+### Coq
+
+* [zeimer.github.io (Programowanie Funkcyjne)](https://zeimer.github.io/)
 
 ### CSS
 

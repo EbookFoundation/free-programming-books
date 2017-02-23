@@ -57,7 +57,7 @@
 
 ### Coq
 
-* [zeimer.github.io (Programowanie Funkcyjne)](https://zeimer.github.io/)
+* [zeimer.github.io (Programowanie Funkcyjne)](https://zeimer.github.io)
 
 
 ### CSS

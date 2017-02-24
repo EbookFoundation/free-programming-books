@@ -201,6 +201,7 @@
 * [Introducción a AJAX](http://librosweb.es/libro/ajax/)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
+* [JavaScript, ¡Inspírate!](https://github.com/UlisesGascon/javascript-inspirate)
 * [JavaScript Para Gatos](https://jsparagatos.com)
 
 

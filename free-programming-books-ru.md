@@ -1,6 +1,6 @@
 ### Index
 
-* [0 - Language Agnostic](#1-language-agnostic)
+* [0 - Language Agnostic](#0---language-agnostic)
   * [Open Source Ecosystem](#open-source-ecosystem)
   * [Облачные Вычисления](#Облачные-вычисления)
   * [Парадигмы Программирования](#Парадигмы-программирования)

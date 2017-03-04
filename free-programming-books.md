@@ -1600,7 +1600,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Real World OCaml](https://realworldocaml.org/v1/en/html/)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey and Nicholas Monje
-* [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/)
+* [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) [Github Repo](https://github.com/ocaml/ocamlunix/)
 * [Using, Understanding, and Unraveling The OCaml Language: From Practice to Theory and vice versa](http://pauillac.inria.fr/~remy/cours/appsem/) - Didier Rémy
 
 
@@ -1926,7 +1926,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [How to Design Programs 2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
-* [Realm of Racket](http://it-ebooks.info/book/2628/)
 * [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
 
 

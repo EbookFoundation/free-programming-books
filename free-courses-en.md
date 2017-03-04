@@ -30,6 +30,7 @@
 * [Python](#python)
 * [R](#r)
 * [RethinkDB](#rethinkdb)
+* [Ruby](#ruby)
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
 * [Software Engineering](#software-engineering)
@@ -259,6 +260,11 @@
 ### RethinkDB
 
 * [RethinkDB: Distributed Databases](https://courses.platzi.com/courses/rethinkdb-databases/)
+
+
+### Ruby
+
+* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 
 ### Sails.Js

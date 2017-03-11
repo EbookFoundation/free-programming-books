@@ -80,7 +80,7 @@
 
 ### NoSQL
 
-* [Disque 使用教程](http://disquebook.com)
+* [Disque 使用教程](http://disque.huangz.me)
 * [Neo4j .rb 中文資源](http://neo4j.tw)
 * [Redis 命令参考](http://redisdoc.com)
 * [Redis 设计与实现](http://redisbook.com)

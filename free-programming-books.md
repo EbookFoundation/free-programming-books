@@ -1631,7 +1631,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 
-### Perl 6 / Rakudo
+### Parrot / Rakudo / Perl 6
 
 * [Perl 6 Introduction](http://perl6intro.com/)
 * [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)

@@ -1631,10 +1631,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 
-### Parrot / Perl 6
+### Parrot / Rakudo / Perl 6
 
 * [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)
 * [Using Perl 6](https://github.com/perl6/book/) (work in progress)
+* [Perl 6 intro](http://perl6intro.com/)
 
 
 ### PC-BSD

@@ -98,6 +98,7 @@
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+* [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 
 
 ## React

@@ -1633,7 +1633,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Parrot / Rakudo / Perl 6
 
-* [Perl 6 Introduction](http://perl6intro.com/)
+* [Perl 6 Introduction](http://perl6intro.com)
 * [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)
 * [Using Perl 6](https://github.com/perl6/book/) (work in progress)
 

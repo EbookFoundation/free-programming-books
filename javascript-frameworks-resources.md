@@ -130,3 +130,10 @@
 ## Aurelia
 
 * [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)
+
+
+## React Native
+
+* [Programming React Native](https://leanpub.com/programming-react-native)
+* [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
+* [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)

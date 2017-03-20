@@ -117,7 +117,6 @@
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
 
 
-
 ### Coq
 
 * [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot et Pierre Castéran

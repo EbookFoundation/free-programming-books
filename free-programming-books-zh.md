@@ -80,7 +80,7 @@
 
 ### NoSQL
 
-* [Disque 使用教程](http://disquebook.com)
+* [Disque 使用教程](http://disque.huangz.me)
 * [Neo4j .rb 中文資源](http://neo4j.tw)
 * [Redis 命令参考](http://redisdoc.com)
 * [Redis 设计与实现](http://redisbook.com)
@@ -355,7 +355,7 @@
 * [C++ 并发编程(基于C++11)](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/content/)
 * [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
-* [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
+* [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)

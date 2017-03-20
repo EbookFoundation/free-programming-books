@@ -718,6 +718,8 @@
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/tutorials/android.html)
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
+* [Android Developer Fundamentals Course – Concepts](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/)
+* [Android Developer Fundamentals Course – Practicals](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-practicals/content/en/)
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
 * [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)

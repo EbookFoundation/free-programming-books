@@ -132,9 +132,9 @@
 * [OpenMP](#openmp)
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
-* [Parrot / Perl 6](#parrot--perl-6)
 * [PC-BSD](#pc-bsd)
 * [Perl](#perl)
+* [Perl 6 / Rakudo](#perl-6--rakudo)
 * [PHP](#php)
 * [PicoLisp](#picolisp)
 * [PostgreSQL](#postgresql)
@@ -1631,12 +1631,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 
-### Parrot / Perl 6
-
-* [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)
-* [Using Perl 6](https://github.com/perl6/book/) (work in progress)
-
-
 ### PC-BSD
 
 * [PC-BSD® Users Handbook](http://web.pcbsd.org/docs/)
@@ -1665,6 +1659,13 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [The DBIx-Class Book](https://github.com/castaway/dbix-class-book)
 * [The PDL Book](http://sourceforge.net/projects/pdl/files/PDL_2013/PDL-Book/PDL-Book-20130322.pdf/download) (PDF)
 * [Web Client Programming with Perl](http://www.oreilly.com/openbook/webclient/)
+
+
+### Perl 6 / Rakudo
+
+* [Perl 6 Introduction](http://perl6intro.com)
+* [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)
+* [Using Perl 6](https://github.com/perl6/book/) (work in progress)
 
 
 ### PHP

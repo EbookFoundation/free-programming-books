@@ -93,6 +93,7 @@
 ### Java
 
 * [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/) - Caelum
+* [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
 * [Desenvolvimento Web Avançado com JSF 2, EJB 3.1 e CDI](http://www.k19.com.br/downloads/apostilas/java/k19-k22-desenvolvimento-web-avancado-com-jsf2-ejb3.1-e-cdi) - k19
 * [Desenvolvimento Web com JSF 2 e JPA 2](http://www.k19.com.br/downloads/apostilas/java/k19-k12-desenvolvimento-web-com-jsf2-e-jpa2) - K19
 * [Desenvolvimento Web com Struts](http://www.k19.com.br/downloads/apostilas/java/k19-k52-desenvolvimento-web-com-struts) - K19

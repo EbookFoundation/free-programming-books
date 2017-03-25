@@ -2107,7 +2107,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [A Primer on SQL, Second Edition](https://leanpub.com/aprimeronsql)
 * [Developing Time-Oriented Database Applications in SQL](http://www.cs.arizona.edu/people/rts/publications.html)
-* [Learn SQL The Hard Way](http://sql.learncodethehardway.org)
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/)
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com)
 

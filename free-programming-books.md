@@ -302,6 +302,7 @@
 
 * [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
 * [OpenStack Operations Guide](http://docs.openstack.org/ops/)
+* [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/)
 
 
 #### Competitive Programming

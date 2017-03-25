@@ -4,6 +4,7 @@
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
+* [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
@@ -60,10 +61,8 @@
 
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
-* [Ember 101](http://ember101.com)
 * [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
-* [EmberFlare](https://emberflare.com)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
 
@@ -79,31 +78,15 @@
 * [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
-## Knockout.js
-
-* [Knockout.js Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
-* tech.pro: Knockout.js tutorial video series
-  * [Lesson  1 - Introduction](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
-  * [Lesson  2 - Initialising the application](http://tech.pro/tutorial/1563/knockoutjs-lesson-2-initialising-the-application)
-  * [Lesson  3 - Adding a viewModel](http://tech.pro/tutorial/1564/knockoutjs-lesson-3-adding-a-viewmodel)
-  * [Lesson  4 - Basic bindings](http://tech.pro/tutorial/1565/knockoutjs-lesson-4-basic-bindings)
-  * [Lesson  5 - Observable arrays](http://tech.pro/tutorial/1566/knockoutjs-lesson-5-observable-arrays)
-  * [Lesson  6 - The foreach binding](http://tech.pro/tutorial/1567/knockoutjs-lesson-6-the-foreach-binding)
-  * [Lesson  7 - The event binding](http://tech.pro/tutorial/1568/knockoutjs-lesson-7-the-event-binding)
-  * [Lesson  8 - The click binding](http://tech.pro/tutorial/1569/knockoutjs-lesson-8-the-click-binding)
-  * [Lesson  9 - Custom bindings](http://tech.pro/tutorial/1570/knockoutjs-lesson-9-custom-bindings)
-  * [Lesson 10 - Computed Observables](http://tech.pro/tutorial/1571/knockoutjs-lesson-10-computed-observables)
-  * [Lesson 11 - The visible binding](http://tech.pro/tutorial/1572/knockoutjs-lesson-11-the-visible-binding)
-  * [Lesson 12 - The value binding](http://tech.pro/tutorial/1573/knockoutjs-lesson-12-the-value-binding)
-  * [Lesson 13 - Additional Knockout features](http://tech.pro/tutorial/1574/knockoutjs-lesson-13-additional-knockout-features)
-  * [Lesson 14 - Adding a lightbox](http://tech.pro/tutorial/1575/knockoutjs-lesson-14-adding-a-lightbox)
-  * Lesson 15: Summary of the series (Coming soon...)
-
-
 ## Meteor
 
 * [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
+
+
+## Node.js
+
+* [Node Documentation](https://nodejs.org/en/docs/)
 
 
 ## Om
@@ -115,6 +98,7 @@
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+* [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 
 
 ## React
@@ -122,6 +106,8 @@
 * [Hacking with React](http://www.hackingwithreact.com)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+* [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
+* [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * React Tutorial by Josh Finnie
@@ -130,7 +116,6 @@
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
 * [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/aspnet5.html)
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
-* [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
 
@@ -140,3 +125,8 @@
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Tutorial](http://www.elm-tutorial.org)
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
+
+
+## Aurelia
+
+* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)

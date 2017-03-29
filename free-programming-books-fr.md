@@ -120,7 +120,6 @@
 ### Coq
 
 * [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot et Pierre Castéran
-* [Preuves de programmes en coq](http://fuscia.inrialpes.fr/cours/coq/) - Yves Bertot
 
 
 ### CSS

@@ -487,7 +487,6 @@
   * [backbone.js中文文档](http://www.css88.com/doc/backbone/)
   * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
   * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
-  * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 * CoffeeScript
   * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)

@@ -1,7 +1,7 @@
 ### Index
 
-* [Meta List](#meta-list)
 * [Linux](#linux)
+* [Meta Lists](#meta-lists)
 * [Web Development](#web-development)
 
 

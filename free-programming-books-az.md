@@ -1,6 +1,5 @@
 ### Index
 
-* [C](#c)
 * [CSS](#css)
 * [HTML](#html)
 * [JavaScript](#javascript)

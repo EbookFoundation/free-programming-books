@@ -306,7 +306,7 @@
 
 #### Competitive Programming
 
-* [Competitive Programming, 1st Edition](https://sites.google.com/site/stevenhalim/) (PDF)
+* [Competitive Programming, 1st Edition](http://cpbook.net/) (PDF)
 
 
 #### Compiler Design

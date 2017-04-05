@@ -25,8 +25,10 @@
 * [Machine Learning](#machine-learning)
 * [Matlab](#matlab)
 * [Misc](#misc)
+* [.NET](#net)
 * [OCaml](#ocaml)
 * [Oracle PL/SQL](#oracle-plsql)
+* [PHP](#php)
 * [Python](#python)
 * [R](#r)
 * [RethinkDB](#rethinkdb)
@@ -63,6 +65,7 @@
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
 * [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android#!/android)
+* [Epicodus Inc.: Learn how to program: Android](https://www.learnhowtoprogram.com/android)
 
 
 ### AngularJS
@@ -84,7 +87,7 @@
 ### C Sharp
 
 * [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
-
+* [Epicodus Inc.: Learn how to program: C#](https://www.learnhowtoprogram.com/c)
 
 ### C++
 
@@ -156,6 +159,7 @@
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
+* [Epicodus Inc.: Learn how to program: CSS](https://www.learnhowtoprogram.com/css)
 
 
 ### iOS
@@ -172,12 +176,14 @@
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
+* [Epicodus Inc.: Learn how to program: Java](https://www.learnhowtoprogram.com/java)
 
 
 ### JS
 
 * [Egghead.io](https://egghead.io)
 * [learn:query](https://learnquery.infinum.co)
+* [Epicodus Inc.: Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript)
 
 
 ### Lua
@@ -223,6 +229,11 @@
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 
 
+### .NET
+
+* [Epicodus Inc.: Learn how to program: .NET](https://www.learnhowtoprogram.com/net)
+
+
 ### OCaml
 
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
@@ -232,6 +243,11 @@
 ### Oracle PL/SQL
 
 * [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession)
+
+
+### PHP
+
+* [Epicodus Inc.: Learn how to program: PHP](https://www.learnhowtoprogram.com/php)
 
 
 ### Python
@@ -266,6 +282,7 @@
 ### Ruby
 
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
+* [Epicodus Inc.: Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby)
 
 
 ### Sails.Js

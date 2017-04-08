@@ -5,8 +5,8 @@
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [C](#c)
-* [C#](#c-1)
-* [C++](#c-2)
+* [C#](#c-sharp)
+* [C++](#c-1)
 * [Git](#git)
 * [Groovy](#groovy)
 * [HTML & CSS](#html--css)
@@ -78,6 +78,7 @@
 
 ### Git
 
+* [Das Git-Buch](http://gitbu.ch) [PDF, EPUB]
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
 * [Pro Git](http://git-scm.com/book/de/v1)
 

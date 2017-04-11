@@ -58,7 +58,7 @@
 ### Android
 
 * [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101/)
-* [Epicodus Inc.: Learn how to program: Android](https://www.learnhowtoprogram.com/android)
+* [Learn how to program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
 * [Material design](https://material.io/guidelines/)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
@@ -87,7 +87,7 @@
 ### C Sharp
 
 * [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
-* [Epicodus Inc.: Learn how to program: C#](https://www.learnhowtoprogram.com/c)
+* [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
 
 
 ### C++
@@ -159,7 +159,7 @@
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
-* [Epicodus Inc.: Learn how to program: CSS](https://www.learnhowtoprogram.com/css)
+* [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
 
@@ -172,7 +172,7 @@
 ### Java
 
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
-* [Epicodus Inc.: Learn how to program: Java](https://www.learnhowtoprogram.com/java)
+* [Learn how to program: Java](https://www.learnhowtoprogram.com/java) - Epicodus Inc.
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
@@ -183,7 +183,7 @@
 ### JS
 
 * [Egghead.io](https://egghead.io)
-* [Epicodus Inc.: Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript)
+* [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
 
 
@@ -232,7 +232,7 @@
 
 ### .NET
 
-* [Epicodus Inc.: Learn how to program: .NET](https://www.learnhowtoprogram.com/net)
+* [Learn how to program: .NET](https://www.learnhowtoprogram.com/net) - Epicodus Inc.
 
 
 ### OCaml
@@ -248,7 +248,7 @@
 
 ### PHP
 
-* [Epicodus Inc.: Learn how to program: PHP](https://www.learnhowtoprogram.com/php)
+* [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
 
 
 ### Python
@@ -282,7 +282,7 @@
 
 ### Ruby
 
-* [Epicodus Inc.: Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby)
+* [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 

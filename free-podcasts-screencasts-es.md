@@ -4,4 +4,4 @@
 
 ### Frontend
 
-* [Podcast] - [WeCodeSign Podcast](http://wecodesignpodcast.com/)
+* [Podcast] - [WeCodeSign Podcast](http://wecodesignpodcast.com)

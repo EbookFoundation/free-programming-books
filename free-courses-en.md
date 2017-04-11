@@ -159,8 +159,8 @@
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
-* [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Epicodus Inc.: Learn how to program: CSS](https://www.learnhowtoprogram.com/css)
+* [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
 
 ### iOS
@@ -172,19 +172,19 @@
 ### Java
 
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
+* [Epicodus Inc.: Learn how to program: Java](https://www.learnhowtoprogram.com/java)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
-* [Epicodus Inc.: Learn how to program: Java](https://www.learnhowtoprogram.com/java)
 
 
 ### JS
 
 * [Egghead.io](https://egghead.io)
-* [learn:query](https://learnquery.infinum.co)
 * [Epicodus Inc.: Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript)
+* [learn:query](https://learnquery.infinum.co)
 
 
 ### Lua
@@ -282,8 +282,8 @@
 
 ### Ruby
 
-* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [Epicodus Inc.: Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby)
+* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 
 ### Sails.Js

@@ -26,6 +26,7 @@
 
 * [Пориньте у Python 3](https://uk.wikibooks.org/wiki/Пориньте_у_Python_3) - Марк Пілігрим
 
+
 ### Ruby
 
 * [Маленька книга про Ruby](https://github.com/LambdaBooks/thelittlebookofruby) - Сергій Гіба

@@ -800,6 +800,7 @@
 * [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School
 * [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
+* [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
 * [Slackbook](http://slackbook.org)
 * [The Bash Academy](http://www.bash.academy)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts, Jr. (PDF)

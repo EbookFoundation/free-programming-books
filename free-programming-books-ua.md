@@ -23,7 +23,7 @@
 
 ### JavaScript
 
-* [Розуміння ECMAScript 6](http://understandinges6.denysdovhan.com/) — Денис Довгань (LambdaBooks)
+* [Розуміння ECMAScript 6](http://understandinges6.denysdovhan.com) — Денис Довгань (LambdaBooks)
 
 
 ### Language Agnostic
@@ -38,4 +38,4 @@
 
 ### Ruby
 
-* [Маленька книга про Ruby](https://lambdabooks.github.io/thelittlebookofruby/) — Сергій Гіба (LambdaBooks)
+* [Маленька книга про Ruby](https://lambdabooks.github.io/thelittlebookofruby) — Сергій Гіба (LambdaBooks)

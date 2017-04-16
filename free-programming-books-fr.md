@@ -38,6 +38,7 @@
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
+* [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
 * [TEI](#TEI)
 * [Vim](#vim)
@@ -120,7 +121,6 @@
 ### Coq
 
 * [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot et Pierre Castéran
-* [Preuves de programmes en coq](http://fuscia.inrialpes.fr/cours/coq/) - Yves Bertot
 
 
 ### CSS
@@ -258,6 +258,11 @@
 ### SPIP
 
 * [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat et collectif SPIP
+
+
+### SQL
+
+* [Cours complet pour apprendre les différents types de bases de données et le langage SQL](https://sgbd.developpez.com/tutoriels/cours-complet-bdd-sql/) - Jacques Le Maitre
 
 
 ### Systèmes d'exploitation

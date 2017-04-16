@@ -21,7 +21,6 @@
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
-* [Hello World Open](https://helloworldopen.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)

@@ -278,8 +278,8 @@
 
 ### 计算机图形学
 
-* [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 * [LearnOpenGL CN](https://learnopengl-cn.github.io)
+* [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 
 
 ### 设计模式

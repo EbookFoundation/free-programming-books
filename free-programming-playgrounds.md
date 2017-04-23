@@ -1,8 +1,8 @@
 ### Index
 
 * [Angular](#angular)
-* [CSS](#css)
 * [Crystal](#crystal)
+* [CSS](#css)
 * [FlexBox](#flexbox)
 * [JavaScript](#javascript)
 * [Node.js](#nodejs)
@@ -17,17 +17,17 @@
 * [Plunker](http://plnkr.co)
 
 
+### Crystal
+
+* [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
+
+
 ### CSS
 
 * [CodePen](http://codepen.io)
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
-
-
-### Crystal
-
-* [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
 
 
 ### FlexBox

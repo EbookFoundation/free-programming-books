@@ -9,6 +9,7 @@
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
 * [Python](#python)
+* [Ruby](#ruby)
 
 
 ### Haskell

@@ -1,3 +1,8 @@
+### ClojureScript
+
+* [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled) — Роман Лютіков (LambdaBooks)
+
+
 ### Index
 
 * [Haskell](#haskell)
@@ -17,6 +22,11 @@
 * [Програмування мовою Java для дітей, батьків, дідусів та бабусь](http://myflex.org/books/java4kids/java4kids.htm) - Яків Файн
 
 
+### JavaScript
+
+* [Розуміння ECMAScript 6](http://understandinges6.denysdovhan.com) — Денис Довгань (LambdaBooks)
+
+
 ### Language Agnostic
 
 * [Дизайн патерни - просто, як двері](http://designpatterns.andriybuday.com) - А. Будай
@@ -29,4 +39,4 @@
 
 ### Ruby
 
-* [Маленька книга про Ruby](https://github.com/LambdaBooks/thelittlebookofruby) - Сергій Гіба
+* [Маленька книга про Ruby](https://lambdabooks.github.io/thelittlebookofruby) — Сергій Гіба (LambdaBooks)

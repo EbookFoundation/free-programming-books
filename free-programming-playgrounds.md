@@ -46,7 +46,7 @@
 
 ### .NET
 
-* [.NET Fiddle](https://dotnetfiddle.net/)
+* [.NET Fiddle](https://dotnetfiddle.net)
 
 
 ### NodeJS

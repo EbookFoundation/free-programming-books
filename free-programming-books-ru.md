@@ -1,6 +1,6 @@
 ### Index
 
-* [0 - Language Agnostic](#1-language-agnostic)
+* [0 - Language Agnostic](#0---language-agnostic)
   * [Open Source Ecosystem](#open-source-ecosystem)
   * [Облачные Вычисления](#Облачные-вычисления)
   * [Парадигмы Программирования](#Парадигмы-программирования)
@@ -17,6 +17,7 @@
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [jQuery](#jquery)
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
@@ -32,7 +33,7 @@
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
-* [Ruby on Rails](#ruby-on-rails)
+  * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Scala](#scala)
 * [Scilab](#scilab)
@@ -105,6 +106,7 @@
 
 ### CoffeeScript
 
+* [The Little Book on CoffeeScript](https://github.com/andrew--r/the-little-book-on-coffeescript) - перевод Андрея Романова
 * [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
 
 
@@ -119,6 +121,11 @@
 * [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
 * [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
+
+
+#### jQuery
+
+* [jQuery для начинающих](http://anton.shevchuk.name/jquery-book/) - Антон Шевчук
 
 
 #### Node.js
@@ -146,7 +153,7 @@
 ### Haskell
 
 * [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
-* [О Haskell по-человечески](http://ohaskell.dshevchenko.biz/ru/index.html) - Денис Шевченко
+* [О Haskell по-человечески](https://www.ohaskell.guide) - Денис Шевченко
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
 
 
@@ -158,7 +165,6 @@
 ### Lisp
 
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
-* [Practical Common Lisp(translation)](http://lisper.ru/pcl/)
 
 
 ### MetaPost
@@ -173,7 +179,7 @@
 
 ### NoSQL
 
-* [Маленькая книга о MongoDB](http://jsman.ru/mongo-book/index.html)
+* [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) (PDF)
 * [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
 
 
@@ -200,7 +206,7 @@
 
 ### Python
 
-* [Problem Solving with Algorithms and Data Structures](http://aliev.me/runestone/)
+* [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone/)
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
@@ -231,12 +237,12 @@
 * [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн
 
 
-### RSpec
+#### RSpec
 
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org/ru)
 
 
-### Ruby on Rails
+#### Ruby on Rails
 
 * [Ruby on Rails Tutorial. Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning) Майкл Хартл
 * [Ruby on Rails по-русски](http://rusrails.ru)
@@ -244,7 +250,9 @@
 
 ### Rust
 
-* [Язык программирования Rust](http://kgv.github.io/rust_book_ru/)
+* [Rust на примерах](https://rurust.github.io/rust-by-example-ru/)
+* [Растономикон](https://github.com/ruRust/rustonomicon)
+* [Язык программирования Rust](http://rurust.github.io/rust_book_ru/)
 
 
 ### Scala

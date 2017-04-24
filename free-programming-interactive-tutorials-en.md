@@ -95,6 +95,7 @@
 ### HTML / CSS
 
 * [CSS Diner](http://flukeout.github.io)
+* [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
@@ -104,6 +105,7 @@
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
+* [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -112,6 +114,7 @@
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
+* [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
@@ -126,6 +129,7 @@
 
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
+* [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 
 
 ### Lisp
@@ -178,17 +182,11 @@
 * [Try R](http://tryr.codeschool.com)
 
 
-### Racket
-
-* [Try Racket](http://try-racket.org)
-
-
 ### Ruby
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
-* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
 
@@ -196,11 +194,12 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
-* [Scala Tour](http://www.scala-tour.com)
+* [Scala Exercises](https://www.scala-exercises.org) 
 
 
 ### SQL
 
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
 
 

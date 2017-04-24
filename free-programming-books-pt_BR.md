@@ -6,6 +6,7 @@
 * [C++](#c-1)
 * [Engenharia de software](#engenharia-de-software)
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
+  * [Outros](#outros)
 * [Git](#git)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
@@ -13,6 +14,7 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Lua](#lua)
+* [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
 * [RegEx](#regex)
@@ -29,6 +31,7 @@
 ### C
 
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
+* [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 * [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/).
@@ -46,7 +49,7 @@
 ### C++
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
-* [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf) (PDF)
+* [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
 
 ### Engenharia de Software
@@ -56,6 +59,11 @@
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
+
+
+#### Outros
+
+* [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
 
 ### Git
@@ -79,11 +87,13 @@
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br)
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
+* [Performance WEB](http://www.webperf.com.br)
 
 
 ### Java
 
 * [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/) - Caelum
+* [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
 * [Desenvolvimento Web Avançado com JSF 2, EJB 3.1 e CDI](http://www.k19.com.br/downloads/apostilas/java/k19-k22-desenvolvimento-web-avancado-com-jsf2-ejb3.1-e-cdi) - k19
 * [Desenvolvimento Web com JSF 2 e JPA 2](http://www.k19.com.br/downloads/apostilas/java/k19-k12-desenvolvimento-web-com-jsf2-e-jpa2) - K19
 * [Desenvolvimento Web com Struts](http://www.k19.com.br/downloads/apostilas/java/k19-k52-desenvolvimento-web-com-struts) - K19
@@ -101,6 +111,7 @@
 ### JavaScript
 
 * [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
+* [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 
@@ -115,9 +126,16 @@
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
 
 
-### Php
+### Perl
 
-* [A semana PHP](http://asemanaphp.com.br).
+* [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf) - Heitor Gouvea (PDF)
+
+
+### PHP
+
+* [A semana PHP](http://asemanaphp.com.br)
+* [Api REST Com Silex no GAE](http://bit.ly/ebook-silex) - Nanderson Castro (PDF, EPUB, MOBI)
+* [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 
@@ -125,9 +143,11 @@
 ### Python
 
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
+* [Aprenda Python Básico - Rápido e Fácil de entender](http://felipegalvao.com.br/livros) (PDF / Epub)
+* [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
-* [Python Orientado a Objetos](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf) (PDF)
+* [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF)
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
 
@@ -155,6 +175,8 @@
 ### Vim
 
 * [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
+* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
 * [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
 * [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
+* [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza

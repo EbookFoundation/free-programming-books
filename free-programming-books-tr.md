@@ -23,7 +23,6 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Swift](#swift)
-* [Windows Phone](#windowsphone)
 
 
 ### Android
@@ -71,7 +70,7 @@
 
 ### Go
 
-* [Go Turu](http://tur.a.golang.org.tr)
+* [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
 
 
 ### Html
@@ -88,7 +87,6 @@
 ### Java
 
 * [Java 8 Kitabı](http://kodcu.com/java-8-ebook/)
-* [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
 
 
 ### JavaScript
@@ -124,22 +122,21 @@
 * [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
 
 
+### Python
+
+* [Python ile Programlama](http://belgeler.istihza.com/py3/)
+
+
 ### R
 
 * [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk)
-
-
-### Python
-
-* [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf) (PDF)
-* [Python ile Programlama](http://belgeler.istihza.com/py3/)
 
 
 ### Ruby
 
 * [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
 * [Ruby](https://www.ruby-lang.org/tr/)
-* [Ruby 101](https://www.gitbook.io/book/vigo/ruby-101)
+* [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
 
@@ -152,8 +149,3 @@
 ### Swift
 
 * [Swift Türkiye](http://www.swiftturkiye.org)
-
-
-### Windows Phone
-
-* [Windows Phone'a Uygulama Yazmak](https://mehmetakifsonmez.files.wordpress.com/2013/12/windows-phone-a-uygulama-yazmak.pdf) (PDF)

@@ -7,6 +7,7 @@
 * [JavaScript](#javascript)
 * [.Net] (#dotnet)
 * [Node.js](#nodejs)
+* [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -53,6 +54,11 @@
 
 * [Ideone](http://ideone.com)
 * [Runnable](http://code.runnable.com)
+
+
+### Perl
+
+* [Perl](http://tryperl.pl)
 
 
 ### PHP

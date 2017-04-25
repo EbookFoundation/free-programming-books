@@ -278,6 +278,7 @@
 
 ### 计算机图形学
 
+* [LearnOpenGL CN](https://learnopengl-cn.github.io)
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 
 

@@ -300,6 +300,7 @@
 
 #### Cloud Computing
 
+* [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
 * [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
 * [OpenStack Operations Guide](https://docs.openstack.org/ops-guide/index.html)
 
@@ -799,6 +800,7 @@
 * [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School
 * [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
+* [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
 * [Slackbook](http://slackbook.org)
 * [The Bash Academy](http://www.bash.academy)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts, Jr. (PDF)
@@ -1208,6 +1210,7 @@
 * [MaintainableCSS](http://maintainablecss.com)
 * [Pro HTML5 Programming]( http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
 * [Scalable and Modular Architecture for CSS](https://smacss.com) - Jonathan Snook
+* [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 
 

@@ -35,6 +35,9 @@
 
 * [Echoplex](http://the-echoplex.net/flexyboxes/)
 
+### Haskell
+
+* [Try Haskell] (https://www.tryhaskell.org/)
 
 ### JavaScript
 

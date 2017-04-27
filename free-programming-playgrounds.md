@@ -1,10 +1,12 @@
 ### Index
 
 * [Angular](#angular)
+* [Crystal](#crystal)
 * [CSS](#css)
 * [Crystal](#crystal)
 * [FlexBox](#flexbox)
 * [JavaScript](#javascript)
+* [.Net] (#dotnet)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
@@ -15,6 +17,11 @@
 ### Angular
 
 * [Plunker](http://plnkr.co)
+
+
+### Crystal
+
+* [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
 
 
 ### CSS
@@ -41,6 +48,11 @@
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
 * [Sololearn](https://code.sololearn.com/#html)
+
+
+### .NET
+
+* [.NET Fiddle](https://dotnetfiddle.net)
 
 
 ### NodeJS

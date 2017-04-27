@@ -179,7 +179,7 @@
 
 ### NoSQL
 
-* [Маленькая книга о MongoDB](http://jsman.ru/mongo-book/index.html)
+* [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) (PDF)
 * [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
 
 

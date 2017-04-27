@@ -93,6 +93,7 @@
 ### Java
 
 * [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/) - Caelum
+* [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
 * [Desenvolvimento Web Avançado com JSF 2, EJB 3.1 e CDI](http://www.k19.com.br/downloads/apostilas/java/k19-k22-desenvolvimento-web-avancado-com-jsf2-ejb3.1-e-cdi) - k19
 * [Desenvolvimento Web com JSF 2 e JPA 2](http://www.k19.com.br/downloads/apostilas/java/k19-k12-desenvolvimento-web-com-jsf2-e-jpa2) - K19
 * [Desenvolvimento Web com Struts](http://www.k19.com.br/downloads/apostilas/java/k19-k52-desenvolvimento-web-com-struts) - K19
@@ -110,6 +111,7 @@
 ### JavaScript
 
 * [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
+* [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 
@@ -135,7 +137,6 @@
 * [Api REST Com Silex no GAE](http://bit.ly/ebook-silex) - Nanderson Castro (PDF, EPUB, MOBI)
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
-* [Laravel - O Framework PHP para os Artesãos da Web](http://laravel.artesaos.org)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 
 

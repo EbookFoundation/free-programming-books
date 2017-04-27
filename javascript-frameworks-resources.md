@@ -10,7 +10,7 @@
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
-* [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
+* [AngularJS in 60 Minutes](http://sd.blackball.lv/library/AngularJS_in_60_minutes_Dan_Wahlin_May_2013.pdf) (PDF)
 * [AngularJS Insights](http://pascalprecht.github.io/slides/angularjs-insights/#/)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
@@ -130,3 +130,10 @@
 ## Aurelia
 
 * [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)
+
+
+## React Native
+
+* [Programming React Native](https://leanpub.com/programming-react-native)
+* [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
+* [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)

@@ -20,8 +20,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### In Other Spoken Languages
 + Arabic: [github](/free-programming-books-ar.md)
-+ Azerbaijan: [github](/free-programming-books-az.md)
++ Azerbaijani: [github](/free-programming-books-az.md)
 + Bulgarian: [github](/free-programming-books-bg.md)
++ Burmese: [github](/free-programming-books-mm.md)
 + Chinese: [github](/free-programming-books-zh.md)
 + Czech: [github](/free-programming-books-cs.md)
 + English: [github](/free-programming-books.md)

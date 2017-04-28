@@ -4,7 +4,7 @@
 
 ## Intro
 This list initially was a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) by George Stocker. Now updated, with dead links gone and new content.
-
+  
 Moved to GitHub for collaborative updating.
 
 ### How To Contribute
@@ -45,6 +45,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + Swedish: [github](/free-programming-books-se.md)
 + Turkish: [github](/free-programming-books-tr.md)
 + Ukrainian: [github](/free-programming-books-ua.md)
++ Vietnamese: [github](/free-programming-books-vi.md)
 
 
 ### Free Online Courses

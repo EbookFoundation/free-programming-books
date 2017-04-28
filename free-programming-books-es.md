@@ -94,6 +94,9 @@
 * [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
 * [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
+* [Curso de Desarrollo Ágil](https://openlibra.com/download/curso-de-desarrollo-agil) (PDF)
+* [Información básica de scrum](https://openlibra.com/download/informacion-basica-de-scrum-the-scrum-primer) (PDF)
+
 
 
 #### Misceláneos

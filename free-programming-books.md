@@ -308,7 +308,7 @@
 #### Competitive Programming
 
 * [Competitive Programming, 1st Edition](https://sites.google.com/site/stevenhalim/) (PDF)
-
+* [ Art of Programming Contest UVA](http://www.ahmedshamsularefin.id.au/acm-icpc/) - Ahmed Shamsul Arefin
 
 #### Compiler Design
 

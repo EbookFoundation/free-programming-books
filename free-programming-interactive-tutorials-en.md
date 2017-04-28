@@ -83,6 +83,7 @@
 
 ### Go
 
+* [Go by Example](https://gobyexample.com)
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [The Go Tutorial](http://tour.golang.org)
 

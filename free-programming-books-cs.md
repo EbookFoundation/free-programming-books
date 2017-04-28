@@ -31,6 +31,7 @@
 ### Java
 
 * [Java 5.0, novinky jazyka a upgrade aplikací](http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf) (PDF)
+* [Java popis](http://ctp.mkprog.eu/cz/java/)
 
 
 ### Git
@@ -106,6 +107,7 @@
 
 ### PHP
 
+* [PHP popis](http://ctp.mkprog.eu/cz/php/)
 * [PHP Tvorba interaktivních internetových aplikací](http://www.kosek.cz/php/php-tvorba-interaktivnich-internetovych-aplikaci.pdf) (PDF)
 
 

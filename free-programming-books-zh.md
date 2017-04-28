@@ -589,6 +589,7 @@
 
 ### PHP
 
+* [PHP-FIG标准规范](https://www.gitbook.com/book/jifei/php-fig-standards/details)
 * [PHP 之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP5中文手册](http://php.net/manual/zh/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)

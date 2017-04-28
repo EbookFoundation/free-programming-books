@@ -297,6 +297,7 @@
 ### 项目相关
 
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+* [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf) (PDF)
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
 * [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_(Simplified))

@@ -100,6 +100,7 @@
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/skills/make-a-website)
+* [W3schools.com](http://www.w3schools.com/html/default.asp)
 
 
 ### Java
@@ -123,6 +124,7 @@
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
+* [W3schools.com](http://www.w3schools.com/js/default.asp)
 
 
 ### Language Agnostic
@@ -167,6 +169,7 @@
 
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
+* [W3schools.com](http://www.w3schools.com/php/default.asp)
 
 
 ### Python
@@ -201,6 +204,7 @@
 
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
+* [W3schools.com](http://www.w3schools.com/sql/)
 
 
 ### Vim

@@ -122,6 +122,7 @@
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+* [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide) - Dr. Boolean
 * [Try jQuery](http://try.jquery.com)
 
 

@@ -594,6 +594,7 @@
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [Symfony2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
+* [PHP-FIG标准规范](https://www.gitbook.com/book/jifei/php-fig-standards/details)
 
 
 ### Python

@@ -501,6 +501,7 @@
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
+* [The Pragmatic Programmer, from Journeyman to Master](http://ricardogeek.com/docs/pragmatic_programmer.pdf) - Addison-Wesley 
 
 
 #### MOOC

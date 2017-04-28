@@ -328,3 +328,4 @@
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Udacity Web Development Course Catalog](https://www.udacity.com/courses#!/web-development#!/web-development)
+* [Ruby on Rails Tutorial (Rails 5)](https://www.railstutorial.org/book)

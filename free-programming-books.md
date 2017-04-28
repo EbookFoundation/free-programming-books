@@ -1691,6 +1691,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
     * [Laravel Best Practices](http://www.laravelbestpractices.com)
     * [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
     * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled)
+* [Laravel Best Practices](http://www.laravelbestpractices.com)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Internals Book](http://www.phpinternalsbook.com)

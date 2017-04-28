@@ -57,6 +57,7 @@
 * [Hadoop](#hadoop)
 * [Haskell](#haskell)
 * [Haxe](#haxe)
+* [HBase](#hbase)
 * [HTML / CSS](#html--css)
   * [Bootstrap](#bootstrap)
 * [HTTP](#http)
@@ -221,6 +222,7 @@
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
 * [Red Gate Books](http://www.red-gate.com/community/books/index)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
+* [Syncfusion 'Succinctly' Series](https://www.syncfusion.com/resources/techportal/ebooks)
 * [TechBooksForFree.com](http://www.techbooksforfree.com)
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [Theassayer.org](http://theassayer.org)
@@ -1186,6 +1188,10 @@
 * [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/) (HTML)
 * [Kha Handbook](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
 
+
+### HBase
+
+* [HBase Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/hbase) (PDF, Kindle) *(Just fill the fields with any values)*
 
 ### HTML / CSS
 

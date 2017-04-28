@@ -49,6 +49,9 @@
 ### BASH
 
 * [Guida avanzata per la bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) (PDF)
+* [Guida per principianti bash](http://codex.altervista.org/guidabash/guidabash_1_11.pdf) (PDF)
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+* [Programmazione della shell Bash](http://www.aquilante.net/doc/bash_programming.pdf) (PDF)
 
 
 ### C
@@ -105,6 +108,9 @@
 ### Linux
 
 * [«a2», ex «Appunti di informatica libera», ex «Appunti Linux»](http://archive.org/download/AppuntiDiInformaticaLibera/)
+* [Amministrare GNU/Linux](https://labs.truelite.it/attachments/download/821/corso.pdf) (PDF)
+* [GAPIL Guida alla Programmazione in Linux](http://gapil.gnulinux.it/files/2011/12/gapil.pdf) (PDF)
+* [La gestione della sicurezza GNU/Linux](https://labs.truelite.it/attachments/download/820/sicurezza.pdf) (PDF)
 
 
 ### Livecode

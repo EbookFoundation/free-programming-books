@@ -155,6 +155,7 @@
 ### RegEx
 
 * [Expressões Regulares - Guia de Consulta Rápida](http://aurelio.net/regex/guia/)
+* [Mini Tutorial Regex - Turing](http://turing.com.br/material/regex/introducao.html)
 
 
 ### Ruby

@@ -909,6 +909,7 @@
 * [Clojure Koans](http://clojurekoans.com)
 * [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming)
 * [ClojureScript Koans](http://clojurescriptkoans.com)
+* [ClojureScript Syntax in 15 Minutes](https://github.com/shaunlebron/ClojureScript-Syntax-in-15-minutes)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)

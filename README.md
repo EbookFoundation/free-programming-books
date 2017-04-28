@@ -24,6 +24,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + Bulgarian: [github](/free-programming-books-bg.md)
 + Burmese: [github](/free-programming-books-mm.md)
 + Chinese: [github](/free-programming-books-zh.md)
++ Traditional Chinese: [github](/free-programming-books-zh_TW.md)
 + Czech: [github](/free-programming-books-cs.md)
 + English: [github](/free-programming-books.md)
 + French: [github](/free-programming-books-fr.md)

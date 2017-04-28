@@ -1002,6 +1002,8 @@
 * [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB)](https://github.com/potatogopher/elixir-getting-started)
 * [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
 
+#### Phoenix
+* [Versioned APIs with Phoenix](http://elviovicosa.com/books/versioned-apis-with-phoenix) - Elvio Vicosa (PDF)
 
 #### Phoenix
 

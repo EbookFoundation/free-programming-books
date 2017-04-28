@@ -81,6 +81,7 @@
 
 ### C
 
+* [Handmade Hero is an ongoing project to create a complete, professional-quality game](https://handmadehero.org/)
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
 
 

@@ -583,6 +583,8 @@
 
 * [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - (PDF) Jones, Gomard and Sestoft
 
+#### PHP
+* [PHP The Right Way](http://www.phptherightway.com/)
 
 #### Professional Development
 

@@ -178,6 +178,9 @@
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
+* [Head First Java](https://drive.google.com/file/d/0B08VBZolKmIJNWtneUdlQW9Kd2c/view)
+* [Apress.Oracle.Certified.Professional.Java.SE.7.Programmer.Exams.pdf](https://www.ibm.com/developerworks/community/files/basic/anonymous/api/library/ea668ff3-015f-4ae9-a1fa-478605150423/document/6d5777a7-8d07-4a66-87d5-dd5c33b12300/media/Apress.Oracle.Certified.Professional.Java.SE.7.Programmer.Exams.pdf)
+* [SCJP Sun Certified Programmer for Java 6 Study Guide : Exam (310-065)](http://firozstar.tripod.com/_darksiderg.pdf)
 
 
 ### JS

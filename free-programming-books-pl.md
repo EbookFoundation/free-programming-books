@@ -125,6 +125,9 @@
 
 * [Język programowania Scala](http://www.grzegorzbalcerek.net/jps2/index.html)
 
+### Scala
+* [Programming Scala](http://www.artima.com/pins1ed/)
+* [Scala for Java refugees](http://www.codecommit.com/blog/scala/scala-for-java-refugees-part-1)
 
 ### SQL
 

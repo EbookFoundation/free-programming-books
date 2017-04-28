@@ -49,6 +49,9 @@
 ### BASH
 
 * [Guida avanzata per la bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) (PDF)
+* [Guida per principianti bash] (http://codex.altervista.org/guidabash/guidabash_1_11.pdf) (PDF)
+* [Programmazione della shell Bash] (http://www.aquilante.net/doc/bash_programming.pdf) (PDF)
+* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 
 
 ### C
@@ -100,11 +103,19 @@
 * [Introduzione all'arte della composizione tipografica con LaTeX](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf) - GuIT (PDF)
 * [L'arte di scrivere con LaTeX](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf) - L. Pantieri e T. Gordini (PDF)
 * [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
+* [LaTeX Facile] (http://www.guit.sssup.it/downloads/LaTeX-facile.pdf) (PDF)
+* [Imparare LaTeX] (https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf) (PDF)
+* [Cosa si può fare con LaTeX] (http://www.batmath.it/latex/pdfs/guida_st.pdf) (PDF)
+* [Breve guida ai pacchetti LaTeX] (http://profs.sci.univr.it/~gregorio/breveguida.pdf) (PDF)
+* [Layout di pagina LaTeX] (http://tug.ctan.org/tex-archive/info/italian/fancyhdr/itfancyhdr.pdf) (PDF)
 
 
 ### Linux
 
 * [«a2», ex «Appunti di informatica libera», ex «Appunti Linux»](http://archive.org/download/AppuntiDiInformaticaLibera/)
+* [Amministrare GNU/Linux] (https://labs.truelite.it/attachments/download/821/corso.pdf) (PDF)
+* [La gestione della sicurezza GNU/Linux] (https://labs.truelite.it/attachments/download/820/sicurezza.pdf) (PDF)
+* [GAPIL Guida alla Programmazione in Linux] (http://gapil.gnulinux.it/files/2011/12/gapil.pdf) (PDF)
 
 
 ### Livecode

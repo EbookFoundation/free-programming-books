@@ -1840,9 +1840,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF) (2.6)
-* [Python Scientific Lecture Notes](http://scipy-lectures.github.io)
 * [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
 * [The Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
+* [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html) (3.x)
 * [Suporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)

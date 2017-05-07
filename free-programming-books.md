@@ -1474,7 +1474,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers) - Vsevolod Dyomkin
 * [Lisp Koans](https://github.com/google/lisp-koans)
 * [Lisp Web Tales](https://leanpub.com/lispwebtales)
-* [Natural Language Processing in Lisp](http://www.sussex.ac.uk/informatics/)
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
 * [Sketchy LISP](hhttp://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/sketchy-lisp.zip) - Nils Holm (ZIP)

@@ -1442,7 +1442,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Linux Security for Beginners](http://www.linuxtopia.org/LinuxSecurity/index.html)
 * [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) *(Just fill the fields with any values)*
 * [OpenVZ Linux virtualization](http://download.openvz.org/doc/OpenVZ-Users-Guide.pdf) (PDF)
-* [Programming and Using Linux Sound - in depth](https://jan.newmarch.name/LinuxSound/index.html)
 * [Red Hat Enterprise Linux 6 Essentials](http://www.techotopia.com/index.php/Red_Hat_Enterprise_Linux_6_Essentials)
 * [Secure Programming HOWTO - Creating Secure Software](http://www.dwheeler.com/secure-programs/) - D. A. Wheeler (HTML, PDF)
 * [Ten Steps to Linux Survival: Bash for Windows People](http://dullroar.com/book/TenStepsToLinuxSurvival.html) - Jim Lehmer

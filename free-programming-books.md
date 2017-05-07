@@ -1819,7 +1819,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Natural Language Processing with Python](http://www.nltk.org/book/) (2.5)
 * [Non-Programmer's Tutorial for Python 2.6](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) (2.6)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) (3.3)
-* [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
 * [Problem Solving with Algorithms and Data Structure using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
@@ -1847,6 +1846,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html) (3.x)
+* [Suporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (3.3 - 3.x)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
 * [The Definitive Guide to Jython, Python for the Java Platform](http://www.jython.org/jythonbook/en/1.0) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)

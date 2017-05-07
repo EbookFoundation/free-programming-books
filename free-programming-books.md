@@ -1789,7 +1789,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 * [CodeCademy Python](https://www.codecademy.com/learn/python)
 * [Composing Programs](http://composingprograms.com) (3.x)
-* [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss
+* [Data Structures and Algorithms in Python](http://multimedia.ucc.ie/Public/training/cycle1/algorithms-in-python.pdf) - B. R. Preiss
 * [Dive into Python](http://www.diveintopython.net) - Mark Pilgrim (2.3)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
 * [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)

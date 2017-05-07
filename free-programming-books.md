@@ -1890,8 +1890,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 #### Pyramid
 
-* [Pyramid for humans](http://docs.pylonsproject.org/projects/pyramid-tutorials/en/latest/humans/index.html)
-
+* [Quick Tutorial for Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html#quick-tutorial)
 
 #### Tornado
 

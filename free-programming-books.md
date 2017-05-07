@@ -1840,7 +1840,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF) (2.6)
-* [Python Standard Library](http://effbot.org/librarybook/) - Fredrik Lundh
 * [The Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
@@ -1850,6 +1849,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
 * [The Definitive Guide to Jython, Python for the Java Platform](http://www.jython.org/jythonbook/en/1.0) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
+* [The Standard Python Library](http://effbot.org/librarybook/) - Fredrik Lundh
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [The Python Ecosystem: An Introduction](http://mirnazim.org/writings/python-ecosystem-introduction/)
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)

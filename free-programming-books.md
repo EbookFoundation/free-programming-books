@@ -205,7 +205,6 @@
 * [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com)
-* [Hacker Shelf](http://hackershelf.com/browse/)
 * [IBM Redbooks](http://www.redbooks.ibm.com)
 * [InfoQ Minibooks](http://www.infoq.com/minibooks/)
 * [InTech: Computer and Information Science](http://www.intechopen.com/subjects/computer-and-information-science)
@@ -1273,13 +1272,11 @@
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
 * [Category wise tutorials - J2EE](http://www.mkyong.com)
 * [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com) - Marty Hall and Larry Brown
-* [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/html/page9.html)
 * [Data Structures in Java for the Principled Programmer](http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) (PDF)
 * [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html)
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
-* [JAAS in Action](http://www.jaasbook.com)
 * [Java: A Beginner's Guide](http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf) - Oracle (PDF)
 * [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) (PDF)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain

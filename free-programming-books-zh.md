@@ -626,7 +626,7 @@
 * [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [笨方法学 Ruby](http://lrthw.github.io)
-
+* [Ruby on Rails 指南](http://guides.ruby-china.org/)
 
 ### Rust
 

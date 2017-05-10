@@ -1280,6 +1280,7 @@
 * [Java: A Beginner's Guide](http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf) - Oracle (PDF)
 * [Java Application Development on Linux](http://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing and Michael Schwarz (PDF)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
+* [Java Language and Virtual Machine Specifications](http://docs.oracle.com/javase/specs/) - James Gosling, Bill Joy, Guy Steele, Gilad Bracha
 * [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
 * [NIO Framework](http://nioframework.sourceforge.net/NIO_Paper.pdf) (PDF)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
@@ -1290,7 +1291,6 @@
 * [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc)
 * [The Java EE6 Tutorial](http://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [The Java EE7 Tutorial](https://docs.oracle.com/javaee/7/JEETT.pdf) (PDF)
-* [Java Language and Virtual Machine Specifications](http://docs.oracle.com/javase/specs/) - James Gosling, Bill Joy, Guy Steele, Gilad Bracha
 * [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/)

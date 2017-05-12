@@ -1212,11 +1212,13 @@
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 
-
 #### Bootstrap
 
 * [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap3) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap) (PDF, Kindle) *(Just fill the fields with any values)*
+
+#### FlexBox
+* [Understanding Flexbox: Everything you need to know] (https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 
 
 #### HTTP

@@ -93,13 +93,6 @@
 * [Om Tutorial](http://awkay.github.io/om-tutorial/)
 
 
-## Redux
-
-* [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-* [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
-
-
 ## React
 
 * [Hacking with React](http://www.hackingwithreact.com)
@@ -117,6 +110,13 @@
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
+
+
+## Redux
+
+* [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+* [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 
 
 ## Elm

@@ -35,7 +35,6 @@
 * [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (work in progress)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
-* [Hello Backbone - Hello world examples of increasing complexity](http://arturadib.com/hello-backbonejs/)
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
 

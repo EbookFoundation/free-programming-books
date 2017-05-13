@@ -24,6 +24,11 @@
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 
+## Aurelia
+
+* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)
+
+
 ## Backbone.js
 
 * [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
@@ -54,6 +59,13 @@
 ## Dojo
 
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
+
+
+## Elm
+
+* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* [Elm Tutorial](http://www.elm-tutorial.org)
+* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
 
 ## Ember.js
@@ -107,6 +119,13 @@
 * [SurviveJS - Webpack and React](http://survivejs.com)
 
 
+## React Native
+
+* [Programming React Native](https://leanpub.com/programming-react-native)
+* [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
+* [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
+
+
 ## Redux
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
@@ -114,20 +133,3 @@
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 
 
-## Elm
-
-* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
-* [Elm Tutorial](http://www.elm-tutorial.org)
-* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
-
-
-## Aurelia
-
-* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)
-
-
-## React Native
-
-* [Programming React Native](https://leanpub.com/programming-react-native)
-* [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
-* [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)

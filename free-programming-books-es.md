@@ -203,6 +203,7 @@
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
 * [JavaScript, ¡Inspírate!](https://github.com/UlisesGascon/javascript-inspirate)
 * [JavaScript Para Gatos](https://jsparagatos.com)
+* [JavaScript, ¡!Inspírate](https://leanpub.com/javascript-inspirate)
 
 
 #### AngularJS

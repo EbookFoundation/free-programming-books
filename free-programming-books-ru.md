@@ -21,6 +21,7 @@
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
+* [Markdown](#markdown)
 * [MetaPost](#metapost)
 * [Misc](#misc)
 * [NoSQL](#nosql)
@@ -165,6 +166,11 @@
 ### Lisp
 
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
+
+
+### Markdown
+
+* [Краткое руководство по Маркдауну](http://paulradzkov.com/2014/markdown_cheatsheet/)
 
 
 ### MetaPost

@@ -857,6 +857,7 @@
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [Introduction to Rx](http://www.introtorx.com)
 * [Threading in C#](http://www.albahari.com/threading/)
+* [Programming C# 4th Edition](https://magliveli.files.wordpress.com/2010/11/1-8-programming-c.pdf) (PDF)
 
 
 ### C++

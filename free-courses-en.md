@@ -155,8 +155,8 @@
 
 ### HTML / CSS
 
-* [Bento HTML Learning Track](https://bento.io/topic/html) (Bento)
 * [Bento CSS Learning Track](https://bento.io/topic/css) (Bento)
+* [Bento HTML Learning Track](https://bento.io/topic/html) (Bento)
 * [Build a Personal Website with Dash](https://dash.generalassemb.ly)
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)

@@ -349,12 +349,15 @@
 #### Datamining
 
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com) - Ron Zacharski (Draft)
+* [An introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp) *(Just fill the fields with any values)*
+* [Data Mining : Conceps and Techniques](https://archive.org/details/DataMiningConceptAndTechniques2ndEdition)
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
 * [Mining of Massive Datasets](http://www.mmds.org)
 * [School of Data Handbook](http://schoolofdata.org/handbook/)
+* [The elements of statistical learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
 
 
@@ -2263,3 +2266,4 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour)
 * [CA-Clipper 5.2 Norton Guide](http://www.ousob.com/ng/clguide/)
 * [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s))
+

@@ -1,5 +1,4 @@
-# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 [View the English list](/free-programming-books.md)
 
 ## Intro
@@ -75,3 +74,6 @@ Free Podcasts and Screencasts:
 
 ### Programming Playgrounds
 + [Free Programming Playgrounds](/free-programming-playgrounds.md)
+
+### Convert a web page to an ebook
++ Convert a web page to a book : [dotepub](https://dotepub.com/converter/?lang=en)

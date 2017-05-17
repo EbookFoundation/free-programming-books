@@ -20,8 +20,8 @@
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
-* [JQuery](#jquery)
-* [JS](#js)
+* [JavaScript](#javascript)
+  * [JQuery](#jquery)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Matlab](#matlab)
@@ -186,17 +186,16 @@
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
 
 
-### JQuery
-
-* [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
-
-
-### JS
+### JavaScript
 
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
 * [Egghead.io](https://egghead.io)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
+
+#### JQuery
+
+* [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 
 
 ### Lua

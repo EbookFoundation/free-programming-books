@@ -4,7 +4,7 @@
 * [Android](#android)
 * [AngularJS](#angularjs)
 * [Assembly](#assembly)
-* [Bash](#bash)
+* [Bash / Shell](#bash--shell)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -14,12 +14,13 @@
 * [Data Science](#datascience)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
-* [Git](#git)
+* [Git / GitHub](#git--github)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
+* [JQuery](#jquery)
 * [JS](#js)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
@@ -74,8 +75,9 @@
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
-### Bash
+### Bash / Shell
 
+* [Bento Shell Track](https://bento.io/topic/shell) (Bento)
 * [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
 
 
@@ -132,9 +134,10 @@
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 
 
-### Git
+### Git / GitHub
 
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
+* [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
 * [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 
@@ -181,6 +184,10 @@
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
+
+
+### JQuery
+* [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 
 
 ### JS

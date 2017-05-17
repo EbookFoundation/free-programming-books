@@ -14,7 +14,7 @@
 * [Data Science](#datascience)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
-* [Git / GitHub](#git--github)
+* [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
@@ -134,7 +134,7 @@
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 
 
-### Git / GitHub
+### Git
 
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)

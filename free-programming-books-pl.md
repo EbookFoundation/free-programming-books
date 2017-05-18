@@ -6,6 +6,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [Common Lisp](#common-lisp)
+* [Coq](#coq)
 * [CSS](#css)
 * [Haskell](#haskell)
 * [HTML](#html)
@@ -24,13 +25,14 @@
 ### 0 - Niezależne od języka programowania
 
 * [Git](https://pl.wikibooks.org/wiki/Git)
+* [Interaktywna platforma do nauki programowania](http://apki.org/)
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS)
 * [Pro Git](http://git-scm.com/book/pl/)
-* [SVN](https://pl.wikibooks.org/wiki/Subversion)
-* [System kontroli wersji Subversion](http://svnbook.opensys.pl)
-* [W obronie wolności](http://stallman.helion.pl)
-* [Interaktywna platforma do nauki programowania](http://apki.org/)
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
+* [SVN](https://pl.wikibooks.org/wiki/Subversion)
+* [System kontroli wersji Subversion](http://www.gajdaw.pl/varia/subversion-system-kontroli-wersji-tutorial/)
+* [W obronie wolności](http://stallman.helion.pl)
+
 
 ### Android
 
@@ -61,6 +63,11 @@
 * [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php)
 
 
+### Coq
+
+* [zeimer.github.io (Programowanie Funkcyjne)](https://zeimer.github.io)
+
+
 ### CSS
 
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
@@ -77,6 +84,7 @@
 
 ### HTML
 
+* [KURS HTML](http://www.kurshtml.edu.pl)
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
 * [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html)
 
@@ -119,7 +127,6 @@
 ### Python
 
 * [Biblioteka Pythona](http://www.python.rk.edu.pl)
-* [Ukąś Pythona](http://python.edu.pl/byteofpython/index.html)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 

@@ -98,8 +98,16 @@
 
 ### Golang
 
+* [Podcast] - [Go Time](https://changelog.com/gotime)
+* [Screencast] - [Go An Introduction](https://www.youtube.com/watch?v=SI-okTfauyw)
+* [Screencast] - Go and AngularJS  
+    * [Part 1 - Hello World](https://www.youtube.com/watch?v=U80k7fTEqNw)
+    * [Part 2 - Websockets](https://www.youtube.com/watch?v=ysAZ_oqPOo0)
+    * [Part 3 - REST and ngResource](https://www.youtube.com/watch?v=QHIMygADPPc)
+* [Screencast] - [Go Programming Tutorial](https://www.youtube.com/watch?v=CF9S4QZuV30)
 * [Screencast] - [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY)
 * [Screencast] - [Hacking with Andrew and Brad: an HTTP/2 client](https://www.youtube.com/watch?v=yG-UaBJXZ80)
+* [Screencast] - [Build webapp without using a framework](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4)
 
 
 ### Gulp
@@ -118,7 +126,6 @@
 * [Podcast] - [The Javascript Show](http://javascriptshow.com)
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript)
 * [Screencast] - [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)
-* [Screencast] - [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript)
 
 
 ### Language Agnostic
@@ -199,12 +206,16 @@
 
 ### Python
 
+* [Podcast] - [Import this](https://soundcloud.com/import-this)
 * [Podcast] - [Podcast.__init__](http://podcastinit.com)
+* [Podcast] - [Python Bytes](https://pythonbytes.fm)
 * [Podcast] - [Python Test Podcast](http://pythontesting.net/test-podcast)
 * [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm)
+* [Podcast] - [The Python Experience](http://python.madewithopinion.com)
+* [Screencast] - [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy)
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
 * [Screencast] - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
-* [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
+* [Screencast] - [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i)
 * [Screencast] - [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq)
 * [Screencast] - [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 * [Screencast] - [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)
@@ -216,6 +227,7 @@
 
 * [Podcast] - [React Native Podcast](https://devchat.tv/react-native-radio)
 * [Podcast] - [React Podcast](http://reactpodcast.com)
+* [Screencast] - [ReactCasts](https://www.youtube.com/c/reactcasts)
 
 
 ### Ruby
@@ -227,7 +239,6 @@
 * [Podcast] - [The Ruby Show](http://rubyshow.com)
 * [Screencast] - [Free Ruby on Rails Screencasts](http://railscasts.com/?type=free)
 * [Screencast] - [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free)
-* [Screencast] - [Ruby Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/ruby)
 
 
 ### Rust

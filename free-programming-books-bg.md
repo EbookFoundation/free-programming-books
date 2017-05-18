@@ -19,7 +19,7 @@
 
 ### Java
 
-* [Въведение в програмирането с Java](http://www.introprogramming.info/intro-java-book/read-online/) - Светлин Наков 
+* [Въведение в програмирането с Java](http://www.introprogramming.info/intro-java-book/read-online/) - Светлин Наков
 * [Интернет програмиране с Java](http://www.nakov.com/books/inetjava/index.html) - Светлин Наков
 
 

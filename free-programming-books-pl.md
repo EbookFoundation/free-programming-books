@@ -13,6 +13,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [MySQL](#mysql)
 * [Perl](#perl)
 * [PHP](#php)
 * [Prolog](#prolog)
@@ -39,8 +40,11 @@
 * [O Androidzie ludzkim głosem](http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF)
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
 
+
 ### Bash
+
 * [Kurs Bash'a](http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
+
 
 ### C
 
@@ -70,13 +74,9 @@
 
 ### CSS
 
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
 * [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html)
 * [Kurs CSS. Wygląd strony www - kaskadowe arkusze stylów - Pasja informatyki (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv)
-
-
-### MySQL
-* [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ)
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
 
 
 ### Haskell
@@ -89,6 +89,7 @@
 * [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html)
 * [KURS HTML](http://www.kurshtml.edu.pl)
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+
 
 ### Java
 
@@ -108,6 +109,11 @@
 * [LaTeX kurs](http://www.latex-kurs.x25.pl)
 * [LaTeX. Książka kucharska](http://www.ptm.org.pl/latex-ksiazka-kucharska), Marcin Borkowski, Bartłomiej Przybylski
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
+
+
+### MySQL
+
+* [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ)
 
 
 ### Perl

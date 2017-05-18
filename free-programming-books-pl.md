@@ -30,6 +30,7 @@
 * [System kontroli wersji Subversion](http://svnbook.opensys.pl)
 * [W obronie wolności](http://stallman.helion.pl)
 * [Interaktywna platforma do nauki programowania](http://apki.org/)
+* [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
 
 ### Android
 
@@ -51,6 +52,8 @@
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1)
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
 * [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
+* [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo)
+* [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/watch?v=aDXjubGK0jU&list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB)
 
 
 ### Common Lisp
@@ -62,7 +65,10 @@
 
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
 * [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html)
+* [Kurs CSS. Wygląd strony www - kaskadowe arkusze stylów - Pasja informatyki (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv)
 
+### MySQL
+* [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ)
 
 ### Haskell
 
@@ -84,6 +90,7 @@
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
 * [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/)
 * [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html)
+* [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC)
 
 ### LaTeX
 
@@ -101,6 +108,7 @@
 * [Kurs PHP](http://phpkurs.pl)
 * [PHP](https://pl.wikibooks.org/wiki/PHP)
 * [PHP: The Right Way](http://pl.phptherightway.com)
+* [Kurs PHP. Programowanie backendowe](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh)
 
 
 ### Prolog

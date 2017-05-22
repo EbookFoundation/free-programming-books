@@ -726,6 +726,8 @@
 
 ### Android
 
+* [Android 5 Programming by Example](https://www.packtpub.com/packt/free-ebook/android-by-example) *(Packt Publishing)*
+* [Android NDK Beginner's Guide - Second Edition](https://www.packtpub.com/packt/free-ebook/android-ndk-beginners-guide) *(Packt Publishing)*
 * [Agile Android Software Development](https://www.agiledroid.com) - Etienne Savard (PDF, epub, mobi)
 * [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
 * [Android Developer Fundamentals Course – Concepts](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/)
@@ -751,6 +753,7 @@
 
 ### Arduino
 
+* [C Programming for Arduino](https://www.packtpub.com/packt/free-ebook/arduino-c-programming) *(Packt Publishing)*
 * [Arduino Programming Notebook](http://www.lulu.com/shop/brian-evans/arduino-programming-notebook/ebook/product-18598708.html) - Brian Evans
 * [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
 * [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
@@ -1250,6 +1253,7 @@
 
 ### iOS
 
+* [Mastering iOS Game Development](https://www.packtpub.com/packt/free-ebook/mastering-ios-gamedev) *(Packt Publishing)*
 * [Cocoa Dev Central](http://cocoadevcentral.com)
 * [iOS 8 App Development Essentials](http://www.techotopia.com/index.php/IOS_8_App_Development_Essentials)
 * [iOS Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -1286,6 +1290,7 @@
 
 ### Java
 
+* [Neural Network Development with Java](https://www.packtpub.com/packt/free-ebook/neural-networks-java) *(Packt Publishing)*
 * [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman (PDF)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson (PDF)
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
@@ -1350,6 +1355,7 @@
 
 ### JavaScript
 
+* [Mastering JavaScript High Performance](https://www.packtpub.com/packt/free-ebook/javascript-high-performance) *(Packt Publishing)*
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
@@ -1590,6 +1596,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### NoSQL
 
+* [Instant MongoDB](https://www.packtpub.com/packt/free-ebook/mongoDB-starter-guide) *(Packt Publishing)*
 * [CouchDB: The Definitive Guide](http://guide.couchdb.org)
 * [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
 * [Graph Databases](http://graphdatabases.com)
@@ -1797,6 +1804,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Python
 
+* [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python) *(Packt Publishing)*
+* [Building Machine Learning Systems with Python](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms) *(Packt Publishing)*
 * [20 Python Libraries You Aren't Using (But Should)](http://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp) *(Just fill the fields with any values)*
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 * [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
@@ -1931,6 +1940,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### R
 
+* [Machine Learning with R](https://www.packtpub.com/packt/free-ebook/r-machine-learning) *(Packt Publishing)*
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - G. Jay Kerns (PDF)
@@ -1961,6 +1971,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Raspberry Pi
 
+* [Raspberry Pi Cookbook for Python Programmers](https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook) *(Packt Publishing)*
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE)
 * [Raspberry Pi Users Guide](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
 
@@ -2183,6 +2194,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Swift
 
+* [Test-driven iOS Development with Swift](https://www.packtpub.com/packt/free-ebook/TDD-Swift) *(Packt Publishing)*
+* [Swift Essentials - Second Edition](https://www.packtpub.com/packt/free-ebook/swift-essentials) *(Packt Publishing)*
 * [Hacking with Swift](https://www.hackingwithswift.com)
 * [Learn Swift](http://books.aidanf.net/learn-swift)
 * [Swift Pocket Reference](http://www.oreilly.com/programming/free/swift-pocket-reference.csp) *(Just fill the fields with any values)*

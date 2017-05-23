@@ -1839,11 +1839,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
 * [Introduction to Python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
-* [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python) - Fabrizio Romano, Packt. *(Just fill the fields with any values)*
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) (2.5 - 2.6)
 * [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF)
+* [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python) - Fabrizio Romano, Packt. *(Just fill the fields with any values)*
 * [Learning to Program](http://www.alan-g.me.uk)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
@@ -2196,8 +2196,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [Hacking with Swift](https://www.hackingwithswift.com)
 * [Learn Swift](http://books.aidanf.net/learn-swift)
-* [Swift Pocket Reference](http://www.oreilly.com/programming/free/swift-pocket-reference.csp) *(Just fill the fields with any values)*
 * [Swift Essentials - Second Edition](https://www.packtpub.com/packt/free-ebook/swift-essentials) - Dr. Alex Blewitt, Packt *(Just fill the fields with any values)*
+* [Swift Pocket Reference](http://www.oreilly.com/programming/free/swift-pocket-reference.csp) *(Just fill the fields with any values)*
 * [Test-driven iOS Development with Swift](https://www.packtpub.com/packt/free-ebook/TDD-Swift) - Dr. Dominik Hauser, Packt. *(Just fill the fields with any values)*
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)

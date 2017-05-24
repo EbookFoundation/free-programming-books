@@ -458,6 +458,7 @@
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
 * [CS For All](https://www.cs.hmc.edu/csforall/)
 * [Culture \& Empire: Digital Revolution](http://hintjens.com/books) (PDF)
+* [Dependency Injection: A Practical Introduction](http://www.jeremybytes.com/downloads/dependencyinjection.pdf) (PDF)
 * [Designing for Performance](http://designingforperformance.com) - Lara Hogan
 * [Designing Interfaces](http://designinginterfaces.com) - Jennifer Tidwell
 * [DevDocs](http://devdocs.io) - Documents for Developers in 1 place
@@ -877,8 +878,8 @@
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [Introduction to Rx](http://www.introtorx.com)
+* [The SOLID Principles](http://www.c-sharpcorner.com/ebooks/the-solid-principles) - Gaurav Kumar Arora (C# Corner)
 * [Threading in C#](http://www.albahari.com/threading/)
-
 
 ### C++
 

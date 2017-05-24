@@ -79,10 +79,6 @@
 
 * [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
-* [Linux Shell Scripting Tutorial v1.05r3](http://www.freeos.com/guides/lsst/) 
-* [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
-* [Shell Scripting Tutorial](https://www.shellscript.sh/)
-
 
 ### C
 

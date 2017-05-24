@@ -2,8 +2,8 @@
 
 * [Angular Basics](http://www.angularjsbook.com)
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
-* [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt *(Just fill the fields with any values)*
+* [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
 * [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)

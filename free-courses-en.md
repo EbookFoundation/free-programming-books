@@ -79,7 +79,6 @@
 
 * [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
-* [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
 
 
 ### C

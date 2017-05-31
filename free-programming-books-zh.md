@@ -594,6 +594,7 @@
 
 * [PHP 之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP5中文手册](http://php.net/manual/zh/)
+* [PHP优化杂烩](http://huoding.com/2014/12/25/398)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [Symfony2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)

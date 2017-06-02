@@ -2153,7 +2153,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Solidity
 
-* [A 101 Noob Intro to Programming Smart Contracts on Ethereum] (https://consensys.github.io/developers/articles/101-noob-intro/)
+* [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://consensys.github.io/developers/articles/101-noob-intro/)
 
 
 ### Spark

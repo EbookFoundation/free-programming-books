@@ -171,6 +171,7 @@
 * [Sed](#sed)
 * [Self](#self)
 * [Smalltalk](#smalltalk)
+* [Solidity](#solidity)
 * [Spark](#spark)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
@@ -488,6 +489,7 @@
 * [Learning Docker](https://www.packtpub.com/packt/free-ebook/learning-docker) - Pethuru Raj, Jeeva S. Chelladhurai & Vinod Singh, Packt. (Just fill the fields with any values) 
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
+* [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
 * [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide)
 * [Modeling Reactive Systems with Statecharts](http://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html)
 * [Mother Tongues of Computer Languages](http://www.digibarn.com/collections/posters/tongues/) (PNG)
@@ -2149,6 +2151,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Pharo Enterprise: a Web Perspective](http://files.pharo.org/books/enterprise-pharo/)
 * [Squeak By Example](http://www.squeakbyexample.org) (Smalltalk IDE)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
+
+
+### Solidity
+
+* [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://consensys.github.io/developers/articles/101-noob-intro/) - Eva Shon
 
 
 ### Spark

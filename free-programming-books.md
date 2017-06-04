@@ -454,7 +454,6 @@
 * [Ansible Up & Running (first three chapters)](https://www.ansible.com/blog/free-ansible-book) *(account required)*
 * [Asterisk™: The Definitive Guide](http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8)
 * [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
-* [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/~playbook/)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
@@ -490,6 +489,7 @@
 * [Learning Docker](https://www.packtpub.com/packt/free-ebook/learning-docker) - Pethuru Raj, Jeeva S. Chelladhurai & Vinod Singh, Packt. (Just fill the fields with any values) 
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
+* [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook)
 * [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide)
 * [Modeling Reactive Systems with Statecharts](http://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html)
 * [Mother Tongues of Computer Languages](http://www.digibarn.com/collections/posters/tongues/) (PNG)

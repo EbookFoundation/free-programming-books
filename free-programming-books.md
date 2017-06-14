@@ -1462,7 +1462,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 
 ### Linux
-
+* [A Practical Guide to Linux Commands,
+Editors, and Shell Programming](http://www.aem.umn.edu/~aem3100/spring2013/Prentice_Hall_A_Practical_Guide_to_Linux_Commands_Editors_and_Shell_Programming_2nd.pdf) - Mark G. Sobell (PDF)
 * [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
 * [Advanced Linux Programming](http://advancedlinuxprogramming.com)
 * [Automated Linux From Scratch](http://www.linuxfromscratch.org/alfs/download.html)

@@ -11,6 +11,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [SQL](#sql)
 
 

@@ -105,6 +105,7 @@
   * [Standards](#standards)
   * [Theoretical Computer Science](#theoretical-computer-science)
   * [Web Performance](#web-performance)
+  * [Web Development](#web-development)
 * [LaTeX / TeX](#latex--tex)
   * [LaTeX](#latex)
   * [TeX](#tex)
@@ -714,6 +715,11 @@
 * [Book of Speed](http://www.bookofspeed.com) - Stoyan Stefanov
 * [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) - Ilya Grigorik
 * [Mature Optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf) - Carlos Bueno (PDF)
+
+
+#### Web Development
+
+* [Confessions of an Unintentional CTO](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
 
 
 ### Ada

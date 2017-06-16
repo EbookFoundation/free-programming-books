@@ -18,8 +18,10 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files
 
+5. Travis CI will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
+
 ### Guidelines
-- make sure a book is free. Double-check if needed
+- make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
 - we don't accept files hosted on google drive, dropbox, mega, scribd, issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
@@ -38,6 +40,8 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
     + use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
     + if they link to different editions and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition
 - prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
+- if the book is older, include the publication date with the title. 
+- include the author name or names where appropriate. You can shorten author lists with "et al."
 
 ### Formatting
 - All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!
@@ -68,7 +72,7 @@ BAD : * [Another Awesome Book] (http://example.com/book.html)
 GOOD: * [Another Awesome Book](http://example.com/book.html)
 ```
 
-- If you wish to mention the author, use ` - ` (a dash surrounded by single spaces)
+- If you include the author, use ` - ` (a dash surrounded by single spaces)
 
 ```
 BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
@@ -95,4 +99,11 @@ GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (PDF)
 BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
 BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
 GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+```
+
+- Include publication year in title for older books:
+
+```
+BAD: * [Another Awesome Book](http://example.com/book.html) - John Doe - 1970
+GOOD: * [Another Awesome Book (1970)](http://example.com/book.html) - John Doe
 ```

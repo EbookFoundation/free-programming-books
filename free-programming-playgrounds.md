@@ -5,7 +5,7 @@
 * [CSS](#css)
 * [FlexBox](#flexbox)
 * [JavaScript](#javascript)
-* [.Net] (#dotnet)
+* [.Net](#dotnet)
 * [Node.js](#nodejs)
 * [Perl](#perl)
 * [PHP](#php)
@@ -40,18 +40,19 @@
 
 ### Haskell
 
-* [Try Haskell] (https://www.tryhaskell.org)
+* [Try Haskell](https://www.tryhaskell.org)
 
 
 ### JavaScript
 
 * [CodePen](http://codepen.io)
+* [CodeSandbox.io](https://codesandbox.io) (_React_)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
 * [Sololearn](https://code.sololearn.com/#html)
 
 
-### .NET
+### <a name="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
 

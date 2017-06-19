@@ -10,7 +10,8 @@
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
-* [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
+* [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt *(Just fill the fields with any values)*
+* [AngularJS in 60 Minutes](http://sd.blackball.lv/library/AngularJS_in_60_minutes_Dan_Wahlin_May_2013.pdf) (PDF)
 * [AngularJS Insights](http://pascalprecht.github.io/slides/angularjs-insights/#/)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
@@ -61,10 +62,8 @@
 
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
-* [Ember 101](http://ember101.com)
 * [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
-* [EmberFlare](https://emberflare.com)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
 
@@ -89,6 +88,7 @@
 ## Node.js
 
 * [Node Documentation](https://nodejs.org/en/docs/)
+* [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt *(Just fill the fields with any values)*
 
 
 ## Om
@@ -100,6 +100,7 @@
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+* [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 
 
 ## React
@@ -117,7 +118,6 @@
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
 * [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/aspnet5.html)
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
-* [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
 
@@ -127,3 +127,15 @@
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Tutorial](http://www.elm-tutorial.org)
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
+
+
+## Aurelia
+
+* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)
+
+
+## React Native
+
+* [Programming React Native](https://leanpub.com/programming-react-native)
+* [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
+* [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)

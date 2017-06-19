@@ -99,8 +99,15 @@
 ### Golang
 
 * [Podcast] - [Go Time](https://changelog.com/gotime)
+* [Screencast] - [Go An Introduction](https://www.youtube.com/watch?v=SI-okTfauyw)
+* [Screencast] - Go and AngularJS  
+    * [Part 1 - Hello World](https://www.youtube.com/watch?v=U80k7fTEqNw)
+    * [Part 2 - Websockets](https://www.youtube.com/watch?v=ysAZ_oqPOo0)
+    * [Part 3 - REST and ngResource](https://www.youtube.com/watch?v=QHIMygADPPc)
+* [Screencast] - [Go Programming Tutorial](https://www.youtube.com/watch?v=CF9S4QZuV30)
 * [Screencast] - [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY)
 * [Screencast] - [Hacking with Andrew and Brad: an HTTP/2 client](https://www.youtube.com/watch?v=yG-UaBJXZ80)
+* [Screencast] - [Build webapp without using a framework](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4)
 
 
 ### Gulp
@@ -205,6 +212,7 @@
 * [Podcast] - [Python Test Podcast](http://pythontesting.net/test-podcast)
 * [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm)
 * [Podcast] - [The Python Experience](http://python.madewithopinion.com)
+* [Screencast] - [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy)
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
 * [Screencast] - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 * [Screencast] - [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i)

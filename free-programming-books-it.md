@@ -64,7 +64,7 @@
 
 ### CSS
 
-* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf)(PDF)
+* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 
 
 ### GIT
@@ -83,7 +83,7 @@
 
 * [Guida a Java 8](http://twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
 * [Introduzione a Java](http://www.ateneonline.it/hyperbook/j_book/java2.htm)
-* [Java](https://it.wikibooks.org/wiki/Java) - Wikibooks
+* [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 
 

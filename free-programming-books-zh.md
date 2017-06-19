@@ -80,7 +80,7 @@
 
 ### NoSQL
 
-* [Disque 使用教程](http://disquebook.com)
+* [Disque 使用教程](http://disque.huangz.me)
 * [Neo4j .rb 中文資源](http://neo4j.tw)
 * [Redis 命令参考](http://redisdoc.com)
 * [Redis 设计与实现](http://redisbook.com)
@@ -94,6 +94,9 @@
 
 * [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
 * [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
+* [PostgreSQL 9.4.4 中文文档](http://www.postgres.cn/docs/9.4/index.html)
+* [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
+* [PostgreSQL 9.6.0 中文文档](http://www.postgres.cn/docs/9.6/index.html)
 
 
 ### Web
@@ -278,6 +281,7 @@
 
 ### 计算机图形学
 
+* [LearnOpenGL CN](https://learnopengl-cn.github.io)
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 
 
@@ -355,7 +359,7 @@
 * [C++ 并发编程(基于C++11)](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/content/)
 * [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
-* [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
+* [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
@@ -487,7 +491,6 @@
   * [backbone.js中文文档](http://www.css88.com/doc/backbone/)
   * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
   * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
-  * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 * CoffeeScript
   * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
@@ -540,7 +543,7 @@
   * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * Zepto.js
-  * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
+  * [Zepto.js 中文文档](http://css88.com/doc/zeptojs_api)
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com) 翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
@@ -601,6 +604,7 @@
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
 * [Python 中文学习大本营](http://www.pythondoc.com)
+* [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
 
@@ -624,7 +628,9 @@
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org)
 * [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
+* [Ruby on Rails 指南](http://guides.ruby-china.org)
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
+* [Sinatra](http://www.sinatrarb.com/intro-zh.html)
 * [笨方法学 Ruby](http://lrthw.github.io)
 
 
@@ -650,6 +656,7 @@
 
 ### Shell
 
+* [shell-book](http://me.52fhy.com/shell-book/)
 * [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [The Linux Command Line 中文版](http://billie66.github.io/TLCL/book/zh)

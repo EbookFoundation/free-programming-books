@@ -4,7 +4,7 @@
 * [Android](#android)
 * [AngularJS](#angularjs)
 * [Assembly](#assembly)
-* [Bash](#bash)
+* [Bash / Shell](#bash--shell)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -20,20 +20,25 @@
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
-* [JS](#js)
+* [JavaScript](#javascript)
+  * [JQuery](#jquery)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Matlab](#matlab)
 * [Misc](#misc)
+* [.NET](#net)
 * [OCaml](#ocaml)
 * [Oracle PL/SQL](#oracle-plsql)
+* [PHP](#php)
 * [Python](#python)
 * [R](#r)
 * [RethinkDB](#rethinkdb)
+* [Ruby](#ruby)
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
+* [SystemVerilog](#systemverilog)
 * [Theory](#theory)
 * [Web Development](#web-development)
 
@@ -54,6 +59,8 @@
 ### Android
 
 * [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101/)
+* [Learn how to program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
+* [Material design](https://material.io/guidelines/)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
@@ -68,9 +75,10 @@
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
-### Bash
+### Bash / Shell
 
 * [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
+* [Bento Shell Track](https://bento.io/topic/shell) (Bento)
 
 
 ### C
@@ -81,6 +89,7 @@
 ### C Sharp
 
 * [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
+* [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
 
 
 ### C++
@@ -127,6 +136,8 @@
 
 ### Git
 
+* [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
+* [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
 * [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 
@@ -147,11 +158,14 @@
 
 ### HTML / CSS
 
+* [Bento CSS Learning Track](https://bento.io/topic/css) (Bento)
+* [Bento HTML Learning Track](https://bento.io/topic/html) (Bento)
 * [Build a Personal Website with Dash](https://dash.generalassemb.ly)
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
 * [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
+* [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
 
@@ -166,15 +180,23 @@
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
+* [Learn how to program: Java](https://www.learnhowtoprogram.com/java) - Epicodus Inc.
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
 
 
-### JS
+### JavaScript
 
+* [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
 * [Egghead.io](https://egghead.io)
+* [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
+
+
+#### JQuery
+
+* [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 
 
 ### Lua
@@ -206,6 +228,7 @@
 * [Berkeley's Math 10B: Methods of Mathematics: Calculus, Statistics, and Combinatorics](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCZ8sTG0pDuBubsDfOFoY2X)
 * [Bits: The Computer Science of Digital Information](http://www.extension.harvard.edu/open-learning-initiative/bits)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
+* [FindLectures.com](https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals ](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
 * [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
@@ -219,6 +242,11 @@
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 
 
+### .NET
+
+* [Learn how to program: .NET](https://www.learnhowtoprogram.com/net) - Epicodus Inc.
+
+
 ### OCaml
 
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
@@ -230,10 +258,16 @@
 * [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession)
 
 
+### PHP
+
+* [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
+
+
 ### Python
 
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
+* [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://cs61a.org)
 * [Codesdope](https://www.codesdope.com/python-introduction)
 * [Google's Python Course](https://developers.google.com/edu/python/)
@@ -259,6 +293,12 @@
 * [RethinkDB: Distributed Databases](https://courses.platzi.com/courses/rethinkdb-databases/)
 
 
+### Ruby
+
+* [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
+* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
+
+
 ### Sails.Js
 
 * [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
@@ -281,6 +321,12 @@
 ### Swift
 
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
+
+
+### SystemVerilog
+
+* [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
+* [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
 
 
 ### Theory

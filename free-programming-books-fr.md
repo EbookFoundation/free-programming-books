@@ -8,6 +8,7 @@
   * [Méthodes de développment](#méthodes-de-développement)
   * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
   * [Théorie des langages](#théorie-des-langages)
+* [Ada](#ada)
 * [Arduino](#arduino)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
@@ -37,6 +38,7 @@
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
+* [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
 * [TEI](#TEI)
 * [Vim](#vim)
@@ -83,6 +85,12 @@
 * [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole) - Tim Bell, Ian H. Witten et Mike Fellows (traduit)
 
 
+### Ada
+
+* [Cours Ada](http://d.feneuille.free.fr/cours-ada-iut.zip) - Daniel Feneuille (Support d'un cours enseigné à l'IUT d'Aix-en-Provence) (ZIP)
+* [Cours Ada 95 pour le programmeur C++](http://d.feneuille.free.fr/c++%20to%20ada%201.0a.pdf) - Quentin Ochem (PDF)
+
+
 ### Arduino
 
 * [Arduino : Premiers pas en informatique embarquée](http://eskimon.fr/ebook-tutoriel-arduino) - Eskimon et olyte
@@ -105,14 +113,15 @@
 
 ### C / C++
 
+* [C++ moderne](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c) - Guillaume Belz
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
+* [Le langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - Informaticienzero, Taure, Paraze et Lucas-84
 
 
 ### Coq
 
 * [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot et Pierre Castéran
-* [Preuves de programmes en coq](http://fuscia.inrialpes.fr/cours/coq/) - Yves Bertot
 
 
 ### CSS
@@ -250,6 +259,11 @@
 ### SPIP
 
 * [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat et collectif SPIP
+
+
+### SQL
+
+* [Cours complet pour apprendre les différents types de bases de données et le langage SQL](https://sgbd.developpez.com/tutoriels/cours-complet-bdd-sql/) - Jacques Le Maitre
 
 
 ### Systèmes d'exploitation

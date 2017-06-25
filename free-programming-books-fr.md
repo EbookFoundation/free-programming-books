@@ -116,6 +116,7 @@
 * [C++ moderne](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c) - Guillaume Belz
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
+* [Le langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - Informaticienzero, Taure, Paraze et Lucas-84
 
 
 ### Coq

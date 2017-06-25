@@ -4,7 +4,7 @@
 * [Android](#android)
 * [AngularJS](#angularjs)
 * [Assembly](#assembly)
-* [Bash](#bash)
+* [Bash / Shell](#bash--shell)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -20,7 +20,8 @@
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
-* [JS](#js)
+* [JavaScript](#javascript)
+  * [JQuery](#jquery)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Matlab](#matlab)
@@ -74,9 +75,10 @@
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
-### Bash
+### Bash / Shell
 
 * [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
+* [Bento Shell Track](https://bento.io/topic/shell) (Bento)
 
 
 ### C
@@ -134,6 +136,8 @@
 
 ### Git
 
+* [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
+* [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
 * [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 
@@ -154,6 +158,8 @@
 
 ### HTML / CSS
 
+* [Bento CSS Learning Track](https://bento.io/topic/css) (Bento)
+* [Bento HTML Learning Track](https://bento.io/topic/html) (Bento)
 * [Build a Personal Website with Dash](https://dash.generalassemb.ly)
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
@@ -180,11 +186,17 @@
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
 
 
-### JS
+### JavaScript
 
+* [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
 * [Egghead.io](https://egghead.io)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
+
+
+#### JQuery
+
+* [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 
 
 ### Lua
@@ -255,6 +267,7 @@
 
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
+* [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://cs61a.org)
 * [Codesdope](https://www.codesdope.com/python-introduction)
 * [Google's Python Course](https://developers.google.com/edu/python/)

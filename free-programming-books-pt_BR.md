@@ -13,6 +13,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [LISP](#lisp)
 * [Lua](#lua)
 * [Perl](#perl)
 * [PHP](#php)
@@ -119,6 +120,11 @@
 ### LaTeX
 
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
+
+
+### LISP
+
+* [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
 
 
 ### Lua

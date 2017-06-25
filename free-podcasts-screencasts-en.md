@@ -99,6 +99,12 @@
 ### Golang
 
 * [Podcast] - [Go Time](https://changelog.com/gotime)
+* [Screencast] - [Go An Introduction](https://www.youtube.com/watch?v=SI-okTfauyw)
+* [Screencast] - Go and AngularJS  
+    * [Part 1 - Hello World](https://www.youtube.com/watch?v=U80k7fTEqNw)
+    * [Part 2 - Websockets](https://www.youtube.com/watch?v=ysAZ_oqPOo0)
+    * [Part 3 - REST and ngResource](https://www.youtube.com/watch?v=QHIMygADPPc)
+* [Screencast] - [Go Programming Tutorial](https://www.youtube.com/watch?v=CF9S4QZuV30)
 * [Screencast] - [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY)
 * [Screencast] - [Hacking with Andrew and Brad: an HTTP/2 client](https://www.youtube.com/watch?v=yG-UaBJXZ80)
 * [Screencast] - [Build webapp without using a framework](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4)

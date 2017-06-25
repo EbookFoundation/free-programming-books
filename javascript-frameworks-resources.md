@@ -10,6 +10,7 @@
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt *(Just fill the fields with any values)*
 * [AngularJS in 60 Minutes](http://sd.blackball.lv/library/AngularJS_in_60_minutes_Dan_Wahlin_May_2013.pdf) (PDF)
 * [AngularJS Insights](http://pascalprecht.github.io/slides/angularjs-insights/#/)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -87,6 +88,7 @@
 ## Node.js
 
 * [Node Documentation](https://nodejs.org/en/docs/)
+* [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt *(Just fill the fields with any values)*
 
 
 ## Om

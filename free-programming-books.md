@@ -2010,8 +2010,8 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [I Love Ruby](https://mindaslab.github.io/I-Love-Ruby/)
 * [Introduction to Programming with Ruby](https://launchschool.com/books/ruby) - Launch School
 * [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/)
-* [Learn Ruby the hard way](http://learnrubythehardway.org/book/)
-* [Learn Ruby Today](https://www.learnruby.today)
+* [Learn Ruby the Hard Way, by Zed Shaw](http://learnrubythehardway.org/book/)
+* [Learn Ruby Today, by Frederick John](https://www.learnruby.today)
 * [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)
 * [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com)
 * [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby) - Launch School

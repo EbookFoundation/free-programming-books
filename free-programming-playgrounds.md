@@ -47,9 +47,11 @@
 
 * [CodePen](http://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io) (_React_)
+* [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
 * [Sololearn](https://code.sololearn.com/#html)
+* [WebpackBin](https://www.webpackbin.com)
 
 
 ### <a name="dotnet"></a>.NET

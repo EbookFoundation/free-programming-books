@@ -1,8 +1,11 @@
 ### Index
+
 * [Language Agnostic](#language-agnostic)
-    * [Právo](#pravo)
+  * [Právo](#pravo)
 
 
 ### Language Agnostic
+
 #### Právo
-* [Zodpovednosť na internete](https://knihy.nic.cz/) - Zodpovednosť na internete (PDF)
+
+* [Zodpovednosť na internete](https://knihy.nic.cz) - Zodpovednosť na internete (PDF)

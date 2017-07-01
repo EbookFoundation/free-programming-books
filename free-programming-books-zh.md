@@ -76,6 +76,7 @@
 
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+* [MySQL必知必会](https://github.com/anxiaokai/FileResource/blob/master/PDF/mysql%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A.pdf)
 
 
 ### NoSQL

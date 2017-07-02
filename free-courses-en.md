@@ -117,6 +117,7 @@
 ### Data Science
 
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
+*[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 
 
 ### Databases

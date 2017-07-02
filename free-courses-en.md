@@ -77,7 +77,7 @@
 
 ### Bash / Shell
 
-* [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
+
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
 
 

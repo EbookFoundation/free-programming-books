@@ -138,4 +138,5 @@
 
 * [Programming React Native](https://leanpub.com/programming-react-native)
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
+* [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)

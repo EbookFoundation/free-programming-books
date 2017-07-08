@@ -48,6 +48,8 @@
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 * [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms:Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
+* [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
+* [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 
 ### Assembly

@@ -826,6 +826,7 @@
 * [BASH Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 * [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [BashGuide](http://mywiki.wooledge.org/BashGuide)
+* [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates
 * [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php)
 * [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)

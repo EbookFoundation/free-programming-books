@@ -105,6 +105,7 @@
 
 ## React
 
+* [Free React on Rails course](https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course)
 * [Hacking with React](http://www.hackingwithreact.com)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)

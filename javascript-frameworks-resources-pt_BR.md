@@ -1,8 +1,9 @@
 ### Vue.js
 
 * [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
-* [Documentação pt-BR](http://vuejs-br.github.io/vuejs.org/)
-* [Série de vídeos sobre Vue.js](http://www.vedcasts.com.br/series/vuejs)
+* [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
+* [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - [Origem: Vedcasts](http://www.vedcasts.com.br/hibernando)
+* [Vue.js Brasil - Artigos em Português sobre Vue.js](http://www.vuejs-brasil.com.br)
 * [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
 
 
@@ -59,6 +60,7 @@
 ### Livros
 
 * [Eloquent Javascript PT-BR](https://github.com/braziljs/eloquente-javascript)
+* [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos)
 
 

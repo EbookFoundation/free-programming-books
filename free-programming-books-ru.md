@@ -1,6 +1,6 @@
 ### Index
 
-* [0 - Language Agnostic](#1-language-agnostic)
+* [0 - Language Agnostic](#0---language-agnostic)
   * [Open Source Ecosystem](#open-source-ecosystem)
   * [Облачные Вычисления](#Облачные-вычисления)
   * [Парадигмы Программирования](#Парадигмы-программирования)
@@ -153,7 +153,7 @@
 ### Haskell
 
 * [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
-* [О Haskell по-человечески](http://ohaskell.dshevchenko.biz/ru/index.html) - Денис Шевченко
+* [О Haskell по-человечески](https://www.ohaskell.guide) - Денис Шевченко
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
 
 
@@ -165,7 +165,6 @@
 ### Lisp
 
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
-* [Practical Common Lisp(translation)](http://lisper.ru/pcl/)
 
 
 ### MetaPost
@@ -180,7 +179,7 @@
 
 ### NoSQL
 
-* [Маленькая книга о MongoDB](http://jsman.ru/mongo-book/index.html)
+* [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) (PDF)
 * [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
 
 
@@ -251,7 +250,7 @@
 
 ### Rust
 
-* [Rust на примерах](https://gordon-f.github.io/rust-by-example-ru/)
+* [Rust на примерах](https://rurust.github.io/rust-by-example-ru/)
 * [Растономикон](https://github.com/ruRust/rustonomicon)
 * [Язык программирования Rust](http://rurust.github.io/rust_book_ru/)
 

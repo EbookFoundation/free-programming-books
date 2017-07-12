@@ -39,7 +39,6 @@
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [Backbone.js](#backbonejs)
-  * [D3.js](#d3js)
   * [jQuery](#jquery)
   * [Node.js](#nodejs)
   * [React](#react)
@@ -170,7 +169,7 @@
 
 #### 機械学習
 
-* [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/index.html#table-of-contents) - [Jubatus チーム](http://jubat.us/ja/aboutus.html)
+* [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/index.html#table-of-contents)
 * [Mahoutで体感する機械学習の実践](http://gihyo.jp/dev/serial/01/mahout) - やまかつ
 * [機械学習 はじめよう](http://gihyo.jp/dev/serial/01/machine-learning) - 中谷秀洋，恩田伊織
 
@@ -210,7 +209,7 @@
 
 ### AWK
 
-* [AWK の第一歩](http://lagendra.s.kanazawa-u.ac.jp/ogurisu/manuals/awk/intro/index.html) - 小栗栖修
+* [AWK の第一歩](http://lagendra.w3.kanazawa-u.ac.jp/ogurisu/manuals/awk/index.html) - 小栗栖修
 * [AWK リファレンス](http://shellscript.sunone.me/awk.html) - SUNONE
 * [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
 
@@ -294,7 +293,6 @@
 
 ### Erlang
 
-* [Learn you some Erlang for great good!](http://www.ymotongpoo.com/works/lyse-ja/)
 * [お気楽 Erlang プログラミング入門](http://www.geocities.jp/m_hiroi/func/erlang.html) - 広井誠
 
 
@@ -354,9 +352,8 @@
 ### iOS
 
 * [Cocoa Programming Tips 1001](http://hmdt.jp/tips/cocoa/index.html) - 木下誠
-* [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAppProgrammingGuide.pdf) - Apple Developer (PDF)
+* [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF)
 * [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp) - Clay Allsopp, RubyMotion JP(翻訳)
-* [初めての iOS アプリケーション](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhone101.pdf) - Apple Developer (PDF)
 
 
 ### Java
@@ -375,7 +372,6 @@
 * [JavaScript Programming](http://www.geocities.jp/m_hiroi/light/javascript.html) - 広井誠
 * [JavaScript Promiseの本](http://azu.github.io/promises-book/) - azu
 * [JavaScript style guide](https://developer.mozilla.org/ja/docs/JavaScript_style_guide) - MDN
-* [JavaScript によるイベントドリブン](https://github.com/hatena/Hatena-Textbook/blob/master/javascript-event-driven.md) - はてな教科書
 * [JavaScript 基礎文法最速マスター](http://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
 * [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
@@ -396,11 +392,6 @@
 #### Backbone.js
 
 * [Backboneドキュメント日本語訳](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
-
-
-#### D3.js
-
-* [D3 チュートリアル](http://ja.d3js.info/alignedleft/tutorials/d3/) - Scott Murray, h.sakai(翻訳)
 
 
 #### jQuery
@@ -480,7 +471,7 @@
 * [Objective-C 2.0 基礎文法最速マスター](http://marycore.jp/prog/objective-c/basic-syntax/) - @_marycore
 * [Objective-C によるプログラミング](https://developer.apple.com/jp/devcenter/ios/library/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
 * [Objective-C プログラミングの概念](https://developer.apple.com/jp/devcenter/ios/library/documentation/CocoaEncyclopedia.pdf) - Apple Developer (PDF)
-* [Objective-C プログラミング言語](https://developer.apple.com/jp/devcenter/ios/library/documentation/ObjC.pdf) - Apple Developer (PDF)
+* [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
 * [Objective-C 最速基礎文法マスター](http://d.hatena.ne.jp/fn7/20100203/1265207098) -id:fn7
 
 
@@ -628,7 +619,6 @@
 
 ### Smalltalk
 
-* [GNU Smalltalk Tutorial](http://gst.plasticheart.info/tutorial-c84.html) -  @PLHX
 * [自由自在 Squeakプログラミング](http://swikis.ddo.jp/squeak/13) - 梅澤真史
 
 
@@ -642,7 +632,8 @@
 ### Standard ML
 
 * [お気楽 Standard ML of New Jersey 入門](http://www.geocities.jp/m_hiroi/func/index.html#sml) - 広井誠
-* [プログラミング言語SML#解説](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/1.0/ja/manual.xhtml) - 大堀淳, 上野 雄大
+* [プログラミング言語SML#解説](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/ja/manual.xhtml) - 大堀淳, 上野 雄大
+* [プログラミング言語Standard ML入門](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf) - 大堀淳 (PDF)
 
 
 ### Swift
@@ -653,7 +644,6 @@
 ### Tcl/Tk
 
 * [Tcl/Tk お気楽 GUI プログラミング](http://www.geocities.jp/m_hiroi/tcl_tk_doc/tcltk_doc.html) - 広井誠
-* [Tcl/TkでWindowsプログラミング](http://homepage3.nifty.com/kaku-chan/tcl_tk/) - KAKU-Chan
 * [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf) - 只木進一 (PDF)
 
 

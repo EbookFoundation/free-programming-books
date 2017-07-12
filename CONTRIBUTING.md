@@ -1,15 +1,15 @@
 ## Contributor License Agreement
-By contributing you agree to the [LICENSE](https://github.com/vhf/free-programming-books/blob/master/LICENSE) of this repository.
+By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) of this repository.
 
 ## Contributor Code of Conduct
-By contributing you agree to respect the [Code of Conduct](https://github.com/vhf/free-programming-books/blob/master/CODE_OF_CONDUCT.md) of this repository.
+By contributing you agree to respect the [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) of this repository.
 
 ## In a nutshell
 1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free.
 2. You don't have to know git: if you found something of interest which is *not already in this repo*, please open an issue with your links propositions.
     - If you know git, please fork the repo and send pull requests.
 3. We have 5 kinds of lists. Choose the right one:
-    
+
     - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
     - *Courses* : A course is a learning material which is not a book and where there is no interactive tool embedded in the site. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Interactive Tutorials* : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
@@ -18,8 +18,10 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/vh
 
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files
 
+5. Travis CI will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
+
 ### Guidelines
-- make sure a book is free. Double-check if needed
+- make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
 - we don't accept files hosted on google drive, dropbox, mega, scribd, issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
@@ -38,6 +40,8 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/vh
     + use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
     + if they link to different editions and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition
 - prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
+- if the book is older, include the publication date with the title. 
+- include the author name or names where appropriate. You can shorten author lists with "et al."
 
 ### Formatting
 - All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!
@@ -68,7 +72,7 @@ BAD : * [Another Awesome Book] (http://example.com/book.html)
 GOOD: * [Another Awesome Book](http://example.com/book.html)
 ```
 
-- If you wish to mention the author, use ` - ` (a dash surrounded by single spaces)
+- If you include the author, use ` - ` (a dash surrounded by single spaces)
 
 ```
 BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
@@ -95,4 +99,11 @@ GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (PDF)
 BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
 BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
 GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+```
+
+- Include publication year in title for older books:
+
+```
+BAD: * [Another Awesome Book](http://example.com/book.html) - John Doe - 1970
+GOOD: * [Another Awesome Book (1970)](http://example.com/book.html) - John Doe
 ```

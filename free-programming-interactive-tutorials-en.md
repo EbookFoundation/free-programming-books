@@ -186,9 +186,7 @@
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
-* [Hackety Hack](http://www.hackety.com)
 * [Ruby Koans](http://www.rubykoans.com)
-* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
 
@@ -196,7 +194,7 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
-* [Scala Tour](http://www.scala-tour.com)
+* [Scala Exercises](https://www.scala-exercises.org) 
 
 
 ### SQL

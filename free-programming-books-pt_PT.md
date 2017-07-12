@@ -10,7 +10,7 @@
 ### C/C++
 
 * [Apontamentos de Programação em C/C++](http://www.dei.isep.ipp.pt/~pbsousa/aulas/ano_0/2006_07/c/Sebenta-cpp-03-2006.pdf) - Paulo Baltarejo e Jorge Santos (PDF)
-* [Aprenda a Programar - Uma Breve Introdução](https://henriquedias.com/downloads/aprenda_a_programar.pdf) - Henrique Dias, 2015 (PDF)
+* [Aprenda a Programar - Uma Breve Introdução (2015)](https://henriquedias.com/downloads/aprenda_a_programar.pdf) - Henrique Dias (PDF)
 
 
 ### CSS

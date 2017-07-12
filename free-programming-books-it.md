@@ -8,9 +8,11 @@
 * [BASH](#bash)
 * [C](#c)
 * [C#](#c-sharp)
+* [CSS](#css)
 * [Git](#git)
+* [HTML](#html)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Livecode](#livecode)
@@ -60,21 +62,34 @@
 * [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/)
 
 
+### CSS
+
+* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
+
+
 ### GIT
 
 * [Comprendere GIT concettualmente](http://www.linuxtrent.it/sites/default/files/Comprendere%20Git%20concettualmente%20-%20Marco%20Ciampa%20-%20r1.pdf) (PDF)
+
+
+### HTML
+
+* [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf) (PDF)
+* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
+* [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf) (PDF)
 
 
 ### Java
 
 * [Guida a Java 8](http://twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
 * [Introduzione a Java](http://www.ateneonline.it/hyperbook/j_book/java2.htm)
-* [Java](https://it.wikibooks.org/wiki/Java) - Wikibooks
+* [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 
 
-### Javascript
+### JavaScript
 
+* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
 
 

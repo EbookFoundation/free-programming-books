@@ -25,6 +25,11 @@
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 
+## Aurelia
+
+* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)
+
+
 ## Backbone.js
 
 * [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
@@ -36,7 +41,6 @@
 * [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (work in progress)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
-* [Hello Backbone - Hello world examples of increasing complexity](http://arturadib.com/hello-backbonejs/)
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
 
@@ -56,6 +60,13 @@
 ## Dojo
 
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
+
+
+## Elm
+
+* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* [Elm Tutorial](http://www.elm-tutorial.org)
+* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
 
 ## Ember.js
@@ -96,13 +107,6 @@
 * [Om Tutorial](http://awkay.github.io/om-tutorial/)
 
 
-## Redux
-
-* [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-* [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
-
-
 ## React
 
 * [Free React on Rails course](https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course)
@@ -123,21 +127,17 @@
 * [SurviveJS - Webpack and React](http://survivejs.com)
 
 
-## Elm
-
-* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
-* [Elm Tutorial](http://www.elm-tutorial.org)
-* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
-
-
-## Aurelia
-
-* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)
-
-
 ## React Native
 
 * [Programming React Native](https://leanpub.com/programming-react-native)
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
+
+
+## Redux
+
+* [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+* [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
+

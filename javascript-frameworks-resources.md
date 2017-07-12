@@ -134,8 +134,8 @@
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 * [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
-* [SurviveJS - Webpack and React](http://survivejs.com)
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
+* [SurviveJS - Webpack and React](http://survivejs.com)
 
 ## Elm
 

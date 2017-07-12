@@ -44,8 +44,11 @@
 ### PHP
 
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
+* [Tutorial PHP](http://www.codingku.com/php/)
 
 
 ### Python
 
+* [Belajar Python](http://www.belajarpython.com)
+* [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) - (PDF)
 * [Workshop Python 101](http://sakti.github.io/python101/)

@@ -5,11 +5,13 @@
 * [CSS](#css)
 * [FlexBox](#flexbox)
 * [JavaScript](#javascript)
-* [.Net] (#dotnet)
+* [.Net](#dotnet)
 * [Node.js](#nodejs)
+* [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [SQL](#sql)
 
 
@@ -36,15 +38,23 @@
 * [Echoplex](http://the-echoplex.net/flexyboxes/)
 
 
+### Haskell
+
+* [Try Haskell](https://www.tryhaskell.org)
+
+
 ### JavaScript
 
 * [CodePen](http://codepen.io)
+* [CodeSandbox.io](https://codesandbox.io) (_React_)
+* [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
 * [Sololearn](https://code.sololearn.com/#html)
+* [WebpackBin](https://www.webpackbin.com)
 
 
-### .NET
+### <a name="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
 
@@ -53,6 +63,11 @@
 
 * [Ideone](http://ideone.com)
 * [Runnable](http://code.runnable.com)
+
+
+### Perl
+
+* [Perl](http://tryperl.pl)
 
 
 ### PHP

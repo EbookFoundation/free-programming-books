@@ -604,6 +604,7 @@
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
 * [Python 中文学习大本营](http://www.pythondoc.com)
+* [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
 
@@ -655,6 +656,7 @@
 
 ### Shell
 
+* [shell-book](http://me.52fhy.com/shell-book/)
 * [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [The Linux Command Line 中文版](http://billie66.github.io/TLCL/book/zh)

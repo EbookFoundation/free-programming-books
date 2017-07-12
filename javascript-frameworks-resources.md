@@ -10,7 +10,8 @@
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
-* [AngularJS in 60 Minutes](https://inspirit.net.in/books/html,%20css%20and%20javascript/AngularJS%20In%2060%20Minutes.pdf) (PDF)
+* [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt *(Just fill the fields with any values)*
+* [AngularJS in 60 Minutes](http://sd.blackball.lv/library/AngularJS_in_60_minutes_Dan_Wahlin_May_2013.pdf) (PDF)
 * [AngularJS Insights](http://pascalprecht.github.io/slides/angularjs-insights/#/)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
@@ -95,6 +96,12 @@
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
 
+## Node.js
+
+* [Node Documentation](https://nodejs.org/en/docs/)
+* [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt *(Just fill the fields with any values)*
+
+
 ## Om
 
 * [Om Tutorial](http://awkay.github.io/om-tutorial/)
@@ -102,6 +109,7 @@
 
 ## React
 
+* [Free React on Rails course](https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course)
 * [Hacking with React](http://www.hackingwithreact.com)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
@@ -123,6 +131,7 @@
 
 * [Programming React Native](https://leanpub.com/programming-react-native)
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
+* [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 
@@ -131,5 +140,4 @@
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
-
 

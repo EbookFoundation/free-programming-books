@@ -114,7 +114,7 @@
 * [Livecode](#livecode)
 * [Lua](#lua)
 * [MarkDown](#markdown)
-* [Mathematica / Wolfram)](#mathematica--wolfram)
+* [Mathematica / Wolfram](#mathematica--wolfram)
 * [MATLAB](#matlab)
 * [Maven](#maven)
 * [Mercurial](#mercurial)

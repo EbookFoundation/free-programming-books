@@ -114,7 +114,7 @@
 * [Livecode](#livecode)
 * [Lua](#lua)
 * [MarkDown](#markdown)
-* [Mathematica](#mathematica)
+* [Mathematica / Wolfram)](#mathematica--wolfram)
 * [MATLAB](#matlab)
 * [Maven](#maven)
 * [Mercurial](#mercurial)
@@ -1541,14 +1541,14 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
 
 
-### Mathematica
+### Mathematica / Wolfram
 
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
 * [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org)
 * [Stephen Wolfram's The Mathematica Book](http://reference.wolfram.com/legacy/v5_2/)
 * [Vector Math for 3d Computer Graphics](http://chortle.ccsu.edu/VectorLessons/index.html)
 * [Wolfram Mathematica Tutorial Collection](http://www.wolfram.com/learningcenter/tutorialcollection/)
-
+* [An Elementary Introduction to the Wolfram Language by Stephen Wolfram](https://www.wolfram.com/language/elementary-introduction/2nd-ed/)
 
 ### MATLAB
 
@@ -2338,3 +2338,4 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour)
 * [CA-Clipper 5.2 Norton Guide](http://www.ousob.com/ng/clguide/)
 * [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s))
+

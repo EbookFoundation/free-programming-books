@@ -1,4 +1,4 @@
-### Index
+﻿### Index
 
 * [Ada](#ada)
 * [Agda](#agda)
@@ -114,7 +114,7 @@
 * [Livecode](#livecode)
 * [Lua](#lua)
 * [MarkDown](#markdown)
-* [Mathematica](#mathematica)
+* [Mathematica / Wolfram](#mathematica--wolfram)
 * [MATLAB](#matlab)
 * [Maven](#maven)
 * [Mercurial](#mercurial)
@@ -1541,8 +1541,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
 
 
-### Mathematica
+### Mathematica / Wolfram
 
+* [An Elementary Introduction to the Wolfram Language by Stephen Wolfram](https://www.wolfram.com/language/elementary-introduction/2nd-ed/)
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
 * [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org)
 * [Stephen Wolfram's The Mathematica Book](http://reference.wolfram.com/legacy/v5_2/)

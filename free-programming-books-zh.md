@@ -601,6 +601,9 @@
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
 * [Composer中文文档](http://docs.phpcomposer.com/)
 * [Laravel5.4中文文档](http://d.laravel-china.org/docs/5.4)
+* [PHP标准规范中文版](https://psr.phphub.org/)
+* [Yii2中文文档](http://www.yiichina.com/doc/guide/2.0)
+* [Phalcon7中文文档](http://www.myleftstudio.com/)
 
 
 ### Python

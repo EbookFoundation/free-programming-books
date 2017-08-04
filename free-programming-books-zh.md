@@ -541,6 +541,8 @@
   * [React.js 中文文档](http://reactjs.cn)
 * underscore.js
   * [Underscore.js中文文档](http://learningcn.com/underscore/)
+* Vue.js
+  * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * Zepto.js
   * [Zepto.js 中文文档](http://css88.com/doc/zeptojs_api)

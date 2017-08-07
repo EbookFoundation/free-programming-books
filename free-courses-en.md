@@ -289,7 +289,6 @@
 * [Game Programming with QB64](http://qb64sourcecode.com) -- Terry Ritchie
 
 
-
 ### R
 
 * [R Programming](https://www.coursera.org/course/rprog)

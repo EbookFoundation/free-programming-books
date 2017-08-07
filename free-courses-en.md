@@ -31,6 +31,7 @@
 * [Oracle PL/SQL](#oracle-plsql)
 * [PHP](#php)
 * [Python](#python)
+* [QB64](#QB64)
 * [R](#r)
 * [RethinkDB](#rethinkdb)
 * [Ruby](#ruby)
@@ -116,7 +117,7 @@
 ### Data Science
 
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
-*[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
+  *[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 
 
 ### Databases
@@ -282,6 +283,10 @@
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python Course](http://www.python-course.eu)
 
+
+### QB64
+
+- http://qb64sourcecode.com/
 
 ### R
 

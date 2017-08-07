@@ -286,7 +286,9 @@
 
 ### QB64
 
-* [Game Programming with QB64](http://qb64sourcecode.com/) -- Terry Ritchie
+* [Game Programming with QB64](http://qb64sourcecode.com) -- Terry Ritchie
+
+
 
 ### R
 

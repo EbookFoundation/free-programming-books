@@ -541,6 +541,8 @@
   * [React.js 中文文档](http://reactjs.cn)
 * underscore.js
   * [Underscore.js中文文档](http://learningcn.com/underscore/)
+* Vue.js
+  * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * Zepto.js
   * [Zepto.js 中文文档](http://css88.com/doc/zeptojs_api)
@@ -592,10 +594,15 @@
 
 ### PHP
 
+* [Composer中文文档](http://docs.phpcomposer.com)
+* [Laravel5.4中文文档](http://d.laravel-china.org/docs/5.4)
+* [Phalcon7中文文档](http://www.myleftstudio.com)
 * [PHP 之道](http://wulijun.github.io/php-the-right-way/)
-* [PHP5中文手册](http://php.net/manual/zh/)
+* [PHP中文手册](http://php.net/manual/zh/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
+* [PHP标准规范中文版](https://psr.phphub.org)
 * [Symfony2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
+* [Yii2中文文档](http://www.yiichina.com/doc/guide/2.0)
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
 
 

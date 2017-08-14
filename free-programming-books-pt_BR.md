@@ -119,6 +119,7 @@
 
 ### LaTeX
 
+* [Breve Introduçao ao LaTeX2e](http://www.if.ufrj.br/~sandra/MetComp/doc/latex.pdf) (PDF)
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
 
 

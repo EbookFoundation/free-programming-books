@@ -44,7 +44,7 @@
 * [O Androidzie ludzkim głosem](http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF)
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
 
-### Assembly
+### asembler
 * [Wikibooks](http://pl.wikibooks.org/wiki/Asembler_x86/Preprocesor/NASM )
 * [assembler.ryszki](http://assembler.ryszki.prv.pl/)
 
@@ -74,7 +74,6 @@
 * [si-szarp.pl](http://web.archive.org/web/20141218062749/http://si-szarp.pl/) - Prosty kurs dla początkujących.
 * [Cezary Walenciuk](http://cezarywalenciuk.pl/blog/programing/category/c%23) - Blog i kurs C# w jednym.
 * [4programmers tutorial](http://4programmers.net/C_sharp) - kurs z lukami, zawiera łatwe do zrozumienia treści.
-* [C# Reference](https://msdn.microsoft.com/en-us/library/618ayhy6.aspx) - C# odniesienia. Czyli słowa kluczowe, operatory i tak dalej
 
 ### Common Lisp
 

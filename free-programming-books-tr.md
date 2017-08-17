@@ -123,7 +123,7 @@
 
 ### Python
 
-* [Python ile Programlama](http://belgeler.istihza.com/py3/)
+* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
 
 
 ### R

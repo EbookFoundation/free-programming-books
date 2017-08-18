@@ -490,7 +490,7 @@
 * [IRPF90 Fortran code generator](https://www.gitbook.com/book/scemama/irpf90/details) - Anthony Scemama
 * [Learn to Program](https://pine.fm/LearnToProgram/)
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
-* [Learning Docker](https://www.packtpub.com/packt/free-ebook/learning-docker) - Pethuru Raj, Jeeva S. Chelladhurai & Vinod Singh, Packt. (Just fill the fields with any values) 
+* [Learning Docker](https://www.packtpub.com/packt/free-ebook/learning-docker) - Pethuru Raj, Jeeva S. Chelladhurai & Vinod Singh, Packt. (Just fill the fields with any values)
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
 * [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
@@ -1322,10 +1322,10 @@
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
 * [Java: The Legend](https://www.oreilly.com/programming/free/java-the-legend.csp) - Ben Evans *(Just fill the fields with any values)*
-* [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer and Daniel Leuck 
-* [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) - Christian Posta *(Just fill the fields with any values)* 
+* [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer and Daniel Leuck
+* [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) - Christian Posta *(Just fill the fields with any values)*
 * [Modern Java EE Design Patterns](http://www.oreilly.com/programming/free/modern-java-ee-design-patterns.csp) - Markus Eisele *(Just fill the fields with any values)*
-* [Neural Network Development with Java](https://www.packtpub.com/packt/free-ebook/neural-networks-java) - Alan M. F. Souza and Fabio M. Soares *(Just fill the fields with any values)* 
+* [Neural Network Development with Java](https://www.packtpub.com/packt/free-ebook/neural-networks-java) - Alan M. F. Souza and Fabio M. Soares *(Just fill the fields with any values)*
 * [NIO Framework](http://nioframework.sourceforge.net/NIO_Paper.pdf) (PDF)
 * [Object-Oriented vs. Functional Programming](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp) - Richard Warburton *(Just fill the fields with any values)*
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
@@ -1998,6 +1998,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Raspberry Pi Cookbook for Python Programmers](https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook) - Tim Cox, Packt. *(Just fill the fields with any values)*
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE)
 * [Raspberry Pi Users Guide](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
+* [The Official Raspberry Pi Project Book](https://www.raspberrypi.org/magpi-issues/Projects_Book_v1.pdf) (PDF)
 
 
 ### REBOL

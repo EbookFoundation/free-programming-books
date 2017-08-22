@@ -610,8 +610,10 @@
 
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
+* [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) (作者：David Beazley, Brian K.Jones 翻译：熊能)
 * [Python 中文学习大本营](http://www.pythondoc.com)
 * [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+* [像计算机科学家一样思考Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) (中英对照版 作者：Allen B. Downey 翻译：大胖哥)
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
 

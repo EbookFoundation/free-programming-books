@@ -6,12 +6,12 @@
 * [Bash](#bash)
 * [C](#c)
 * [C++](#c-1)
-* [CSharp](#CSharp)
 * [Common Lisp](#common-lisp)
 * [Coq](#coq)
+* [CSharp](#CSharp)
 * [CSS](#css)
-* [Haskell](#haskell)
 * [GameDev](#GameDev)
+* [Haskell](#haskell)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -24,7 +24,7 @@
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [SQL](#sql)
-* [Inne](#inne)
+* […Inne](#inne)
 
 
 ### 0 - Niezależne od języka programowania
@@ -44,9 +44,11 @@
 * [O Androidzie ludzkim głosem](http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF)
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
 
+
 ### asembler
-* [assembler.ryszki](http://assembler.ryszki.prv.pl/)
+* [assembler.ryszki](http://assembler.ryszki.prv.pl)
 * [Wikibooks](http://pl.wikibooks.org/wiki/Asembler_x86/Preprocesor/NASM )
+
 
 ### Bash
 
@@ -69,11 +71,6 @@
 * [xion.org.pl](http://www.xion.org.pl) - Blog z wieloma artykułami po angielsku i jednym z najpopularniejszych polskich kursów programowania w C++
 * [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
 
-### CSharp
-
-* [4programmers tutorial](http://4programmers.net/C_sharp) - kurs z lukami, zawiera łatwe do zrozumienia treści.
-* [Cezary Walenciuk](http://cezarywalenciuk.pl/blog/programing/category/c%23) - Blog i kurs C# w jednym.
-* [si-szarp.pl](http://web.archive.org/web/20141218062749/http://si-szarp.pl/) - Prosty kurs dla początkujących.
 
 ### Common Lisp
 
@@ -83,6 +80,13 @@
 ### Coq
 
 * [zeimer.github.io (Programowanie Funkcyjne)](https://zeimer.github.io)
+
+
+### CSharp
+
+* [4programmers tutorial](http://4programmers.net/C_sharp) - kurs z lukami, zawiera łatwe do zrozumienia treści.
+* [Cezary Walenciuk](http://cezarywalenciuk.pl/blog/programing/category/c%23) - Blog i kurs C# w jednym.
+* [si-szarp.pl](http://web.archive.org/web/20141218062749/http://si-szarp.pl/) - Prosty kurs dla początkujących.
 
 
 ### CSS
@@ -101,7 +105,8 @@
 *Linki związane z szeroko pojętym tworzeniem gier.*
 
 * [tworzenie platformówek](http://informatyka.wroc.pl/gry) - bardzo fajne poradniki z tworzenia gier 2D
-* [warsztat.gd](http://warsztat.gd/) - wiele artykułów o tworzeniu gier, można dodać swój projekt, który zostanie oceniony przez społaczność zajmującą się na co dzień gamedevem
+* [warsztat.gd](http://warsztat.gd) - wiele artykułów o tworzeniu gier, można dodać swój projekt, który zostanie oceniony przez społaczność zajmującą się na co dzień gamedevem
+
 
 ### HTML
 
@@ -176,5 +181,7 @@
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)
 
+
 ### Inne
-* [Online Regex Tester](https://regex101.com/) - Świetna stronka do testowania / budowania regexów.
+* [Online Regex Tester](https://regex101.com) - Świetna stronka do testowania / budowania regexów.
+

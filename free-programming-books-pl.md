@@ -45,8 +45,8 @@
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
 
 ### asembler
-* [Wikibooks](http://pl.wikibooks.org/wiki/Asembler_x86/Preprocesor/NASM )
 * [assembler.ryszki](http://assembler.ryszki.prv.pl/)
+* [Wikibooks](http://pl.wikibooks.org/wiki/Asembler_x86/Preprocesor/NASM )
 
 ### Bash
 
@@ -66,14 +66,14 @@
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/watch?v=aDXjubGK0jU&list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB)
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo)
-* [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
 * [xion.org.pl](http://www.xion.org.pl) - Blog z wieloma artykułami po angielsku i jednym z najpopularniejszych polskich kursów programowania w C++
+* [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
 
 ### CSharp
 
-* [si-szarp.pl](http://web.archive.org/web/20141218062749/http://si-szarp.pl/) - Prosty kurs dla początkujących.
-* [Cezary Walenciuk](http://cezarywalenciuk.pl/blog/programing/category/c%23) - Blog i kurs C# w jednym.
 * [4programmers tutorial](http://4programmers.net/C_sharp) - kurs z lukami, zawiera łatwe do zrozumienia treści.
+* [Cezary Walenciuk](http://cezarywalenciuk.pl/blog/programing/category/c%23) - Blog i kurs C# w jednym.
+* [si-szarp.pl](http://web.archive.org/web/20141218062749/http://si-szarp.pl/) - Prosty kurs dla początkujących.
 
 ### Common Lisp
 
@@ -100,8 +100,8 @@
 ### GameDev
 *Linki związane z szeroko pojętym tworzeniem gier.*
 
-* [warsztat.gd](http://warsztat.gd/) - wiele artykułów o tworzeniu gier, można dodać swój projekt, który zostanie oceniony przez społaczność zajmującą się na co dzień gamedevem
 * [tworzenie platformówek](http://informatyka.wroc.pl/gry) - bardzo fajne poradniki z tworzenia gier 2D
+* [warsztat.gd](http://warsztat.gd/) - wiele artykułów o tworzeniu gier, można dodać swój projekt, który zostanie oceniony przez społaczność zajmującą się na co dzień gamedevem
 
 ### HTML
 
@@ -142,12 +142,12 @@
 
 ### PHP
 
+* [Blog Majstra](http://phpmajster.blogspot.com/search/label/PHP) - B. Ciekawy blog związany z PHP i nie tylko :+1:
+* [Composer](http://webhelp.pl/blog/co-to-jest-composer-jak-i-do-czego-mozna-go-uzywac/) - Artykuł omawiający czym jest Composer w PHP
 * [Kurs PHP](http://phpkurs.pl)
 * [Kurs PHP. Programowanie backendowe](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh)
 * [PHP](https://pl.wikibooks.org/wiki/PHP)
 * [PHP: The Right Way](http://pl.phptherightway.com)
-* [Blog Majstra](http://phpmajster.blogspot.com/search/label/PHP) - B. Ciekawy blog związany z PHP i nie tylko :+1:
-* [Composer](http://webhelp.pl/blog/co-to-jest-composer-jak-i-do-czego-mozna-go-uzywac/) - Artykuł omawiający czym jest Composer w PHP
 
 
 ### Prolog

@@ -24,7 +24,7 @@
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [SQL](#sql)
-* […Inne](#inne)
+* [~ Inne](#inne)
 
 
 ### 0 - Niezależne od języka programowania
@@ -46,6 +46,7 @@
 
 
 ### asembler
+
 * [assembler.ryszki](http://assembler.ryszki.prv.pl)
 * [Wikibooks](http://pl.wikibooks.org/wiki/Asembler_x86/Preprocesor/NASM )
 
@@ -102,6 +103,7 @@
 
 
 ### GameDev
+
 *Linki związane z szeroko pojętym tworzeniem gier.*
 
 * [tworzenie platformówek](http://informatyka.wroc.pl/gry) - bardzo fajne poradniki z tworzenia gier 2D
@@ -183,5 +185,6 @@
 
 
 ### Inne
+
 * [Online Regex Tester](https://regex101.com) - Świetna stronka do testowania / budowania regexów.
 

@@ -1,6 +1,5 @@
 ### Índice
 
-* [Android](#android)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -22,9 +21,6 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
-
-
-### Android
 
 
 ### C

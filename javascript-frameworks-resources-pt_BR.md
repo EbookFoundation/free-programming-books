@@ -49,7 +49,7 @@
 
 ### jQuery
 
-* [Artigos sobre jQuery](http://tableless.com.br/code/javascript/jquery/)
+* [Artigos sobre jQuery](https://tableless.com.br/categories/jquery/)
 
 
 ### Knockout.js

@@ -1,4 +1,4 @@
-## 目录
+﻿## 目录
 
 * [语言无关](#语言无关)
   * [IDE](#ide)
@@ -537,8 +537,8 @@
   * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
   * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
   * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
-  * [React 入门教程](http://fraserxu.me/intro-to-react/)
-  * [React.js 中文文档](http://reactjs.cn)
+  * [React.js 中文文档](https://discountry.github.io/react/)
+  * [React.js 入门教程](http://fraserxu.me/intro-to-react/)
 * underscore.js
   * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * Vue.js

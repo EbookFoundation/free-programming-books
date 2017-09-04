@@ -124,6 +124,7 @@
 ### Python
 
 * [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
+* [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](http://ofenerci.github.io/thinkcspy-tr)
 
 
 ### R

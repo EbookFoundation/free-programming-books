@@ -146,5 +146,3 @@
 
 
 ### Swift
-
-* [Swift Türkiye](http://www.swiftturkiye.org)

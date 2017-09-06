@@ -245,6 +245,7 @@
 
 * [Podcast] - [New Rustacean](http://www.newrustacean.com)
 * [Podcast] - [Rusty Radio](https://soundcloud.com/posix4e)
+* [Tutorial] - [Rust By Example](https://rustbyexample.com/)
 
 
 ### Vim

@@ -22,7 +22,6 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Swift](#swift)
 
 
 ### Android
@@ -144,5 +143,3 @@
 
 * [Rust'a Giriş](http://bit.ly/rustagiris)
 
-
-### Swift

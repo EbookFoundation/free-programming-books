@@ -4,6 +4,8 @@
 * [Crystal](#crystal)
 * [CSS](#css)
 * [FlexBox](#flexbox)
+* [Go](#go)
+* [Haskell](#haskell)
 * [JavaScript](#javascript)
 * [.Net](#dotnet)
 * [Node.js](#nodejs)
@@ -36,6 +38,11 @@
 ### FlexBox
 
 * [Echoplex](http://the-echoplex.net/flexyboxes/)
+
+
+### Go
+
+* [Go Playground](https://play.golang.org)
 
 
 ### Haskell

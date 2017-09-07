@@ -42,7 +42,8 @@
 
 ### Go
 
-- [Go Playground](https://play.golang.org/)
+* [Go Playground](https://play.golang.org)
+
 
 ### Haskell
 

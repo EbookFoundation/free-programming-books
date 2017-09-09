@@ -3,7 +3,7 @@
 [View the English list](/free-programming-books.md)
 
 ## Intro
-This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) by George Stocker. 
+This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) by Karan Bhangui. 
 
 The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It grew to become one of the [most popular repositories on Github](https://octoverse.github.com/), with over 80,000 stars, over 4000 commits, over 800 contributors, and over 20,000 forks.
 

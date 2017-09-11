@@ -309,6 +309,7 @@
 
 #### Competitive Programming
 
+* [Competitive Programmer's Handbook](https://cses.fi/book.html) - Antti Laaksonen (PDF)
 * [Competitive Programming, 1st Edition](https://cpbook.net/#CP1details) (PDF)
 
 

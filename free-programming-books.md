@@ -1037,6 +1037,7 @@
 * [Elixir School](https://elixirschool.com) (HTML)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) (HTML)
 * [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB)](https://github.com/potatogopher/elixir-getting-started)
+* [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg *(in progress)* (HTML) - [Source](https://github.com/radar/joyofelixir)
 * [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
 
 

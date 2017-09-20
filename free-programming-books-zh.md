@@ -216,6 +216,7 @@
 
 ### 正则表达式
 
+* [正则表达式-菜鸟教程](http://www.runoob.com/regexp/regexp-tutorial.html)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 
 

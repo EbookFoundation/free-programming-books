@@ -1907,6 +1907,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Suporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (3.3 - 3.x)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
+* [The Coder's Apprentice: Learning Programming with Python 3] - Pieter Spronck (http://www.spronck.net/pythonbook/) (PDF) (3.x)
 * [The Definitive Guide to Jython, Python for the Java Platform](http://www.jython.org/jythonbook/en/1.0) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
@@ -1916,7 +1917,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Think Complexity](http://greenteapress.com/complexity/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 * [Wikibooks: Python Programming](https://en.wikibooks.org/wiki/Python_Programming) (2.7)
-* [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) (3.x)
 
 
 #### Django

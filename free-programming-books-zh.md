@@ -156,17 +156,17 @@
 * [Codecademy](https://www.codecademy.com/?locale_code=zh)
 * [CodeSchool](https://www.codeschool.com)
 * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
+* [IT技术博客大学习](http://blogread.cn/it/) (收录IT领域的优秀技术博客，在这里你可以找到Web开发、系统架构、数据库、前端技术、用户体验等领域的前沿文章)
 * [Learn X in Y minutes](https://learnxinyminutes.com) (数十种语言快速入门教程)
 * [shiyanlou](https://www.shiyanlou.com)
 * [TeamTreeHouse](https://teamtreehouse.com)
 * [Udacity](https://www.udacity.com)
 * [xuetangX](https://www.xuetangx.com)
 * [慕课网](http://www.imooc.com/course/list) (丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源)
-* [菜鸟教程](http://www.runoob.com) (致力于推广各种编程语言技术，所有资源完全免费，并会根据当前互联网的变化实时更新)
 * [极客学院](http://www.jikexueyuan.com)
 * [汇智网](http://www.hubwiz.com)
 * [计蒜客](http://www.jisuanke.com)
-* [IT技术博客大学习](http://blogread.cn/it/) (收录IT领域的优秀技术博客，在这里你可以找到Web开发、系统架构、数据库、前端技术、用户体验等领域的前沿文章)
+* [菜鸟教程](http://www.runoob.com) (致力于推广各种编程语言技术，所有资源完全免费，并会根据当前互联网的变化实时更新)
 
 
 ### 大数据

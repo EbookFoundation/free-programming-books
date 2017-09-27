@@ -1158,7 +1158,7 @@
 * [Go by Example](https://gobyexample.com)
 * [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers)
 * [Learning Go](https://miek.nl/go/)
-* [Let's learn Go!](http://go-book.appspot.com)
+* [Let's learn Go!](http://go-book.readthedocs.io/en/latest/)
 * [Network programming with Go](https://jan.newmarch.name/go/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 * [The Go Tutorial](http://tour.golang.org)

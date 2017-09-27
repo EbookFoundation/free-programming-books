@@ -405,6 +405,7 @@
 * [Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser (PDF)
 * [Basic Algebra](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
 * [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammack (PDF)
 * [Calculus](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) - Gilbert Strang (PDF)
@@ -1547,7 +1548,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Mathematica
 
-* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
 * [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org)
 * [Stephen Wolfram's The Mathematica Book](http://reference.wolfram.com/legacy/v5_2/)
 * [Vector Math for 3d Computer Graphics](http://chortle.ccsu.edu/VectorLessons/index.html)

@@ -1084,7 +1084,7 @@
 * [F# Programming](https://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
 * [F# Succinctly, SyncFusion](https://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf) (PDF)
-* [Real World Functional Programming](https://msdn.microsoft.com/en-us/library/hh314518.aspx) (MSDN Chapters)
+* [Real World Functional Programming](https://github.com/agurha/books/raw/master/Functional%20Programming%20for%20the%20Real%20World%20With%20Examples%20in%20F%23%20and%20C%23%20Nov%202009%20(1).pdf) (PDF)
 
 
 ### Firefox OS
@@ -1683,9 +1683,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 
-### PC-BSD
+### TrueOS
 
-* [PC-BSD® Users Handbook](http://web.pcbsd.org/docs/)
+* [TrueOS® Users Handbook](https://www.trueos.org/handbook/trueos.html)
 
 
 ### Perl
@@ -2163,9 +2163,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Deep into Pharo](http://files.pharo.org/books/deep-into-pharo/)
 * [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) -  S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
 * [Numerical Methods with Pharo](http://files.pharo.org/books/numerical-methods/)
-* [Pharo by Example](http://pharobyexample.org) (Smalltalk DE)
+* [Pharo by Example](http://pharobyexample.org) (Smalltalk Implementation and IDE)
 * [Pharo Enterprise: a Web Perspective](http://files.pharo.org/books/enterprise-pharo/)
-* [Squeak By Example](http://www.squeakbyexample.org) (Smalltalk IDE)
+* [Squeak By Example](http://www.squeakbyexample.org) (Smalltalk Implementation and IDE)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 
 

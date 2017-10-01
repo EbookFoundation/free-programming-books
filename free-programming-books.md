@@ -1725,6 +1725,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * CakePHP Framework
   * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
+* CodeIgniter Framework
+  * [CodeIgniter 2.2.6](https://codeigniter.com/userguide2/)
+  * [CodeIgniter 3.1.6](https://www.codeigniter.com/user_guide/)
 * Drupal Framework
   * Drupal 7
     * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)

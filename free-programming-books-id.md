@@ -2,6 +2,7 @@
 
 * [Android](#android)
 * [Git](#git)
+* [Go](#go)
 * [HTML & CSS](#html-css)
 * [JavaScript](#javascript)
 * [PHP](#php)
@@ -18,6 +19,11 @@
 
 * [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
 * [Pro Git 1st Edition](https://git-scm.com/book/id/v1)
+
+
+### Go
+
+* [Dasar Pemrograman Golang](https://www.gitbook.com/book/novalagung/dasarpemrogramangolang)
 
 
 ### HTML CSS

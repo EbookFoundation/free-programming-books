@@ -194,6 +194,8 @@
 
 ### PHP
 
+* CodeIgniter Framework
+  * [CodeIgniter 2.1.3](http://php5.kiev.ua/codeigniter/)
 * [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way/)
 * [Руководство по PHP](http://docs.php.net/manual/ru/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)

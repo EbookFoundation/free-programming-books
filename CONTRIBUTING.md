@@ -42,6 +42,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
 - if the book is older, include the publication date with the title. 
 - include the author name or names where appropriate. You can shorten author lists with "et al."
+- if the book is not finished, and is still being worked on, add the "in process" notation, as described [below.](#in_process)
 
 ### Formatting
 - All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!
@@ -82,15 +83,15 @@ GOOD: * [Another Awesome Book](http://example.com/book.html) - John Doe
 - Put a single space between the link and its format
 
 ```
-BAD : * [Another Awesome Book](http://example.com/book.pdf)(PDF)
-GOOD: * [Another Awesome Book](http://example.com/book.pdf) (PDF)
+BAD : * [A Very Awesome Book](https://example.org/book.pdf)(PDF)
+GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
 ```
 
 - Author comes before format:
 
 ```
-BAD : * [Another Awesome Book](http://example.com/book.pdf)- John Doe
-GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (PDF)
+BAD : * [A Very Awesome Book](https://example.org/book.pdf)- Jane Roe
+GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
 ```
 
 - Multiple formats:
@@ -104,6 +105,13 @@ GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPU
 - Include publication year in title for older books:
 
 ```
-BAD: * [Another Awesome Book](http://example.com/book.html) - John Doe - 1970
-GOOD: * [Another Awesome Book (1970)](http://example.com/book.html) - John Doe
+BAD: * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
+GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
+```
+
+<a name="in_process"></a>
+- In-process books 
+
+```
+GOOD: * [Will Be Awesome Soon Book](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
 ```

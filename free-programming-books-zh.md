@@ -496,7 +496,7 @@
 * CoffeeScript
   * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * D3.js
-  * [D3.js 入门系列](http://www.ourd3js.com/wordpress/?cat=2) (还有进阶、高级等系列)
+  * [Learning D3.JS](http://d3.decembercafe.org) (Created by 十二月咖啡馆)
   * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
   * [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
   * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)

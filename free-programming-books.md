@@ -265,6 +265,7 @@
 * [Algorithms Course Materials](http://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [Analysis and Design of Algorithms](http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html) - Sandeep Sen, IIT Delhi
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
+* [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/)
 * [CS Unplugged: Computer Science without a computer](http://csunplugged.org/books/)

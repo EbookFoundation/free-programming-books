@@ -49,7 +49,7 @@
 
 ### PHP
 
-* [Pemrograman Web dengan PHP dan MySQL](https://drive.google.com/file/d/0B1m6WDCkR1OIYVFZVnpBNzFfdDg/view)
+* [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 * [Tutorial PHP](http://www.codingku.com/php/)
 

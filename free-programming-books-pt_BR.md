@@ -98,6 +98,7 @@
 
 * [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
+* [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 * [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 

@@ -11,7 +11,6 @@
 
 ### Android
 
-* [Tutorial Membuat Aplikasi Android **Special Edition**](http://www.slideshare.net/creatorb/tutorial-lengkap-cara-membuat-aplikasi-android-sederhana)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
 
 
@@ -51,7 +50,6 @@
 
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
-* [Tutorial PHP](http://www.codingku.com/php/)
 
 
 ### Python

@@ -143,7 +143,6 @@
 * [Podcast] - [Coding Blocks](http://www.codingblocks.net)
 * [Podcast] - [CTRL+CLICK CAST](http://ctrlclickcast.com)
 * [Podcast] - [Descriptive](http://descriptive.audio)
-* [Podcast] - [Dev Discussions](http://www.devdiscussions.com)
 * [Podcast] - [Developer On Fire](http://developeronfire.com)
 * [Podcast] - [Developer Tea](https://developertea.com)
 * [Podcast] - [DevelopersHangout](http://www.developershangout.io)
@@ -187,7 +186,6 @@
 
 ### Node.js
 
-* [Podcast] - [Node.js Screencast Series - Tutsowl](http://www.tutsowl.com)
 * [Podcast] - [Nodeup](http://nodeup.com)
 
 
@@ -228,7 +226,6 @@
 ### React JS
 
 * [Podcast] - [React Native Podcast](https://devchat.tv/react-native-radio)
-* [Podcast] - [React Podcast](http://reactpodcast.com)
 * [Screencast] - [ReactCasts](https://www.youtube.com/c/reactcasts)
 
 

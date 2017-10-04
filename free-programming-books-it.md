@@ -53,7 +53,6 @@
 
 ### C
 
-* [Guida al C di Blacklight](http://blacklight.gotdns.org/guidac.pdf) (PDF)
 * [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
 
 

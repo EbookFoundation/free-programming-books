@@ -116,7 +116,7 @@
 * [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
 * [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
-* [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+* [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 * React Tutorial by Josh Finnie
   * [Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/)
   * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)

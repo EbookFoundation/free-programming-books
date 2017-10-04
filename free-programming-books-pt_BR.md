@@ -100,6 +100,7 @@
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
+* [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 
 
 ### LaTeX

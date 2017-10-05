@@ -889,6 +889,7 @@
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [High level asynchronous programming with Reactive Extensions](https://github.com/petroemil/Rx.Book) - Emil Petro
 * [Introduction to Rx](http://www.introtorx.com)
+* [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (Just fill the fields with any values)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin Cross-Platform Development Cookbook](https://www.packtpub.com/free-eBook/xamarin-cross-platform-development-cookbook) - George Taskos, Packt. (Just fill the fields with any values)
 
@@ -1246,6 +1247,7 @@
 * [MaintainableCSS](http://maintainablecss.com)
 * [Pro HTML5 Programming]( http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
 * [Scalable and Modular Architecture for CSS](https://smacss.com) - Jonathan Snook
+* [Thinking in HTML](https://www.packtpub.com/packt/free-ebook/thinking-in-html) - Aravind Shenoy (free eBook)
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 

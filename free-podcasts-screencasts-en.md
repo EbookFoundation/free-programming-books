@@ -14,6 +14,7 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Javascript](#javascript)
+* [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
 * [Node.js](#Nodejs)
 * [PHP](#php)
@@ -127,6 +128,12 @@
 * [Podcast] - [The Javascript Show](http://javascriptshow.com)
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript)
 * [Screencast] - [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)
+
+
+### Kotlin
+
+* [Podcast] - [Talking Kotlin](http://talkingkotlin.com)
+* [Screencast] - [Kotlin Beginners Tutorials](https://www.youtube.com/playlist?list=PLpg00ti3ApRweIhdOI4VCFFStx4uXC__u)
 
 
 ### Language Agnostic

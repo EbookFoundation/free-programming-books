@@ -894,7 +894,7 @@
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [High level asynchronous programming with Reactive Extensions](https://github.com/petroemil/Rx.Book) - Emil Petro
 * [Introduction to Rx](http://www.introtorx.com)
-* [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal
+* [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (Just fill the fields with any values)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin Cross-Platform Development Cookbook](https://www.packtpub.com/free-eBook/xamarin-cross-platform-development-cookbook) - George Taskos, Packt. (Just fill the fields with any values)
 

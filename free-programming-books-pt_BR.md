@@ -130,6 +130,7 @@
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
+* [PHP 7](http://www.tutorialspoint.com/php7/php7_tutorial.pdf) (PDF)
 
 
 ### Python

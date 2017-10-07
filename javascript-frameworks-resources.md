@@ -25,6 +25,11 @@
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 
+## Angular.io
+
+* [Angular 2 From Theory To Practice](https://codecraft.tv/courses/angular) - Asim Hussain (PDF)
+
+
 ## Aurelia
 
 * [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)

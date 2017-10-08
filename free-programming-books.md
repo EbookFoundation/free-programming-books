@@ -1082,7 +1082,6 @@
 * [F# Programming](https://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
 * [F# Succinctly, SyncFusion](https://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf) (PDF)
-* [Real World Functional Programming](https://github.com/agurha/books/raw/master/Functional%20Programming%20for%20the%20Real%20World%20With%20Examples%20in%20F%23%20and%20C%23%20Nov%202009%20(1).pdf) (PDF)
 
 
 ### Firefox OS

@@ -1537,7 +1537,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Lua
 
 * [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/)
-* [Programming Gems](http://www.lua.org/gems/)
+* [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 * [Wikibook](https://en.wikibooks.org/wiki/Lua_Programming)
 
 

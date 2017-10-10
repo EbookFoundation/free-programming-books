@@ -261,6 +261,7 @@
 * [Silex, el manual oficial](http://librosweb.es/libro/silex/)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4/)
 * [Symfony 2.3, el libro oficial](http://librosweb.es/libro/symfony_2_3/)
+* [PHP 7](http://www.tutorialspoint.com/php7/php7_tutorial.pdf) (PDF)
 
 
 ### Perl

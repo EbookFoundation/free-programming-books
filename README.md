@@ -51,6 +51,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Free Online Courses
 + [Free Online Courses](/free-courses-en.md)
++ [Free Online Courses - Russian](/free-courses-en.md)
 
 
 ### Interactive Programming Resources

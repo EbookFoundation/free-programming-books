@@ -201,7 +201,7 @@
 * [atariarchives.org](http://www.atariarchives.org) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 * [Bento](https://www.bento.io)
 * [Bitsavers.org](http://bitsavers.trailing-edge.com)
-* [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks)
+* [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks) Cookie required. (Just fill the fields with any values)
 * [Cheat Sheets (Free)](https://dzone.com/refcardz)
 * [Codingus](http://codingus.blogspot.in)
 * [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
@@ -1802,7 +1802,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Prolog
 
 * [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/)
-* [Applications of Prolog](http://bookboon.com/en/applications-of-prolog-ebook)
+* [Applications of Prolog](http://bookboon.com/en/applications-of-prolog-ebook) - Attila Csenki, Bookboon. (Just fill the fields with any values)
 * [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
 * [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
 * [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
@@ -1814,7 +1814,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Prolog and Natural - Language Analysis](http://www.mtome.com/Publications/PNLA/pnla-digital.html) - Fernando C. N. Pereira, Stuart M. Shieber
 * [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
-* [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook)
+* [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook) - Attila Csenki, Bookboon. (Just fill the fields with any values)
 * [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html) - P. Flach (HTML, PDF)
 * [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon

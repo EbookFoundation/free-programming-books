@@ -54,6 +54,7 @@
   * [Gradle](#gradle)
   * [Grails](#grails)
   * [Spock Framework](#spock-framework)
+* [Hack](#hack)
 * [Hadoop](#hadoop)
 * [Haskell](#haskell)
 * [Haxe](#haxe)
@@ -1185,6 +1186,11 @@
 
 * [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
 * [Spock Intro](http://edgibbs.com/spock-intro-a-bdd-testing-framework-in-groovy/) - Ed Gibbs
+
+
+### Hack
+
+* [Hack Documentation](https://docs.hhvm.com/hack/)
 
 
 ### Hadoop

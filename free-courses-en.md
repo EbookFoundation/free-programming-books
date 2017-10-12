@@ -16,6 +16,7 @@
 * [Deep Learning](#deep-learning)
 * [Git](#git)
 * [Go](#go)
+* [Hack](#hack)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
@@ -149,6 +150,11 @@
 ### Go
 
 * [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
+
+
+### Hack
+
+* [Hack Documentation](https://docs.hhvm.com/hack/)
 
 
 ### Haskell

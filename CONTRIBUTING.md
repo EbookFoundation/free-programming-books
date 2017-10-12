@@ -1,8 +1,8 @@
 ## Contributor License Agreement
-By contributing you agree to the [LICENSE](https://github.com/vhf/free-programming-books/blob/master/LICENSE) of this repository.
+By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) of this repository.
 
 ## Contributor Code of Conduct
-By contributing you agree to respect the [Code of Conduct](https://github.com/vhf/free-programming-books/blob/master/CODE_OF_CONDUCT.md) of this repository.
+By contributing you agree to respect the [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) of this repository.
 
 ## In a nutshell
 1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free.
@@ -18,8 +18,10 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/vh
 
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files
 
+5. Travis CI will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
+
 ### Guidelines
-- make sure a book is free. Double-check if needed
+- make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
 - we don't accept files hosted on google drive, dropbox, mega, scribd, issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
@@ -36,8 +38,11 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/vh
 - if a link exists in multiple format, add a separate link with a note about each format
 - if a resource exists at different places on the Internet
     + use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
-    + if they link to different editions and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition
+    + if they link to different editions and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) to contribute to the discussion on formatting.)
 - prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
+- if the book is older, include the publication date with the title. 
+- include the author name or names where appropriate. You can shorten author lists with "et al."
+- if the book is not finished, and is still being worked on, add the "in process" notation, as described [below.](#in_process)
 
 ### Formatting
 - All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!
@@ -68,7 +73,7 @@ BAD : * [Another Awesome Book] (http://example.com/book.html)
 GOOD: * [Another Awesome Book](http://example.com/book.html)
 ```
 
-- If you wish to mention the author, use ` - ` (a dash surrounded by single spaces)
+- If you include the author, use ` - ` (a dash surrounded by single spaces)
 
 ```
 BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
@@ -78,15 +83,15 @@ GOOD: * [Another Awesome Book](http://example.com/book.html) - John Doe
 - Put a single space between the link and its format
 
 ```
-BAD : * [Another Awesome Book](http://example.com/book.pdf)(PDF)
-GOOD: * [Another Awesome Book](http://example.com/book.pdf) (PDF)
+BAD : * [A Very Awesome Book](https://example.org/book.pdf)(PDF)
+GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
 ```
 
 - Author comes before format:
 
 ```
-BAD : * [Another Awesome Book](http://example.com/book.pdf)- John Doe
-GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (PDF)
+BAD : * [A Very Awesome Book](https://example.org/book.pdf)- Jane Roe
+GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
 ```
 
 - Multiple formats:
@@ -95,4 +100,18 @@ GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (PDF)
 BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
 BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
 GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+```
+
+- Include publication year in title for older books:
+
+```
+BAD: * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
+GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
+```
+
+<a name="in_process"></a>
+- In-process books 
+
+```
+GOOD: * [Will Be Awesome Soon Book](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
 ```

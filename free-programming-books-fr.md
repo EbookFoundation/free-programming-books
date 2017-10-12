@@ -38,6 +38,7 @@
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
+* [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
 * [TEI](#TEI)
 * [Vim](#vim)
@@ -115,12 +116,12 @@
 * [C++ moderne](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c) - Guillaume Belz
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
+* [Le langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - Informaticienzero, Taure, Paraze et Lucas-84
 
 
 ### Coq
 
 * [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot et Pierre Castéran
-* [Preuves de programmes en coq](http://fuscia.inrialpes.fr/cours/coq/) - Yves Bertot
 
 
 ### CSS
@@ -160,7 +161,7 @@
 
 #### LaTeX
 
-* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths3.pdf) - Arnaud Gazagnes (PDF)
+* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
 
@@ -258,6 +259,11 @@
 ### SPIP
 
 * [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat et collectif SPIP
+
+
+### SQL
+
+* [Cours complet pour apprendre les différents types de bases de données et le langage SQL](https://sgbd.developpez.com/tutoriels/cours-complet-bdd-sql/) - Jacques Le Maitre
 
 
 ### Systèmes d'exploitation

@@ -11,9 +11,7 @@
 * [Go](#go)
 * [Html](#html)
 * [iOS](#ios)
-* [Java](#java)
 * [JavaScript](#javascript)
-* [Kriptoloji](#kriptoloji)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Matlab](#matlab)
@@ -22,7 +20,6 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Swift](#swift)
 
 
 ### Android
@@ -38,7 +35,6 @@
 ### C
 
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
-* [C Programlamaya Giriş](https://www.inonu.edu.tr/uploads/old/16/735/c-programlamaya-giris.pdf) (PDF)
 * [Programlamaya Giriş Ders Notları, H. Turgut Uyar](http://web.itu.edu.tr/uyar/programlama/)
 * [Sistem Programlama ve İleri C Uygulamaları Kurs Notları - Uyarlama 1](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 
@@ -84,19 +80,9 @@
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
 
-### Java
-
-* [Java 8 Kitabı](http://kodcu.com/java-8-ebook/)
-
-
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
-
-
-### Kriptoloji
-
-* [Kriptolojiye Giris](http://iam.metu.edu.tr/sites/iam.metu.edu.tr/files/UYGULAMALI%20MATEMAT_Kriptolojiye%20giris%20ders%20notlar%C4%B1.pdf) (PDF)
 
 
 ### LaTeX
@@ -122,14 +108,14 @@
 * [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
 
 
+### Python
+
+* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
+
+
 ### R
 
 * [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk)
-
-
-### Python
-
-* [Python ile Programlama](http://belgeler.istihza.com/py3/)
 
 
 ### Ruby
@@ -145,7 +131,3 @@
 
 * [Rust'a Giriş](http://bit.ly/rustagiris)
 
-
-### Swift
-
-* [Swift Türkiye](http://www.swiftturkiye.org)

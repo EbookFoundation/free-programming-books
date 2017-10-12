@@ -71,7 +71,6 @@
 * [Apuntes de Base de Datos 1, Universidad de Alicante](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
 * [Base de Datos](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Mercedes Marqués (PDF)
 * [Base de Datos Avanzadas](http://repositori.uji.es/xmlui/bitstream/handle/10234/48034/s73.pdf) - Aramburu & Sanz Blasco (PDF)
-* [El modelo relacional y el álgebra relacional](http://www.colegiodrriodelaloza.edu.mx/informatica/Analisis%20Diseno%20e%20Implementacion%20de%20Algoritmos/17470106-BASES-de-DATOS-3-El-Modelo-Relacional-y-Algebra-Relacional.pdf) (PDF)
 * [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf) (PDF)
 
 

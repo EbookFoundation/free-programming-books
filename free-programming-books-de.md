@@ -8,6 +8,7 @@
 * [C#](#c-sharp)
 * [C++](#c-1)
 * [Git](#git)
+* [Go](#go)
 * [Groovy](#groovy)
 * [HTML & CSS](#html--css)
 * [iOS](#ios)
@@ -27,6 +28,7 @@
 
 ### Unabhängig von der Programmiersprache
 
+* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
 * [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
@@ -69,11 +71,11 @@
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
 
 
-### iOS
+### Go
 
-* [Apps programmieren für iPhone und iPad](http://openbook.rheinwerk-verlag.de/apps_programmieren_fuer_iphone_und_ipad/)
-* [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
-* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) (PDF)
+* [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html)
+* [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
+* [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/)
 
 
 ### Git
@@ -94,6 +96,13 @@
 * [HTML](http://www.peterkropff.de/site/html/html.htm) — Peter Kropff [Online, PDF]
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
 * [Self HTML](https://wiki.selfhtml.org/wiki/Startseite)
+
+
+### iOS
+
+* [Apps programmieren für iPhone und iPad](http://openbook.rheinwerk-verlag.de/apps_programmieren_fuer_iphone_und_ipad/)
+* [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
+* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) (PDF)
 
 
 ### Java

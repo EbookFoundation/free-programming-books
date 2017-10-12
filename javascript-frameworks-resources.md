@@ -10,7 +10,8 @@
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
-* [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
+* [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt *(Just fill the fields with any values)*
+* [AngularJS in 60 Minutes](http://sd.blackball.lv/library/AngularJS_in_60_minutes_Dan_Wahlin_May_2013.pdf) (PDF)
 * [AngularJS Insights](http://pascalprecht.github.io/slides/angularjs-insights/#/)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
@@ -24,6 +25,11 @@
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 
+## Aurelia
+
+* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)
+
+
 ## Backbone.js
 
 * [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
@@ -35,7 +41,6 @@
 * [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (work in progress)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
-* [Hello Backbone - Hello world examples of increasing complexity](http://arturadib.com/hello-backbonejs/)
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
 
@@ -55,6 +60,13 @@
 ## Dojo
 
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
+
+
+## Elm
+
+* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* [Elm Tutorial](http://www.elm-tutorial.org)
+* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
 
 ## Ember.js
@@ -87,11 +99,41 @@
 ## Node.js
 
 * [Node Documentation](https://nodejs.org/en/docs/)
+* [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt *(Just fill the fields with any values)*
 
 
 ## Om
 
 * [Om Tutorial](http://awkay.github.io/om-tutorial/)
+
+
+## React
+
+* [Free React on Rails course](https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course)
+* [Hacking with React](http://www.hackingwithreact.com)
+* [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
+* [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+* [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
+* [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details)
+* [React Primer Draft](https://github.com/mikechau/react-primer-draft)
+* [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+* React Tutorial by Josh Finnie
+  * [Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/)
+  * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
+  * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
+* [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/aspnet5.html)
+* [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+* [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
+* [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
+* [SurviveJS - Webpack and React](http://survivejs.com)
+
+
+## React Native
+
+* [Programming React Native](https://leanpub.com/programming-react-native)
+* [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
+* [React Native Express](http://www.reactnativeexpress.com)
+* [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 
 ## Redux
@@ -100,40 +142,3 @@
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 
-
-## React
-
-* [Hacking with React](http://www.hackingwithreact.com)
-* [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
-* [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
-* [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
-* [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details)
-* [React Primer Draft](https://github.com/mikechau/react-primer-draft)
-* [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
-* React Tutorial by Josh Finnie
-  * [Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/)
-  * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
-  * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
-* [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/aspnet5.html)
-* [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
-* [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
-* [SurviveJS - Webpack and React](http://survivejs.com)
-
-
-## Elm
-
-* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
-* [Elm Tutorial](http://www.elm-tutorial.org)
-* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
-
-
-## Aurelia
-
-* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)
-
-
-## React Native
-
-* [Programming React Native](https://leanpub.com/programming-react-native)
-* [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
-* [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)

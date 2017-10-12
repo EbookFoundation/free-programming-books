@@ -137,6 +137,7 @@
 * [Perl](#perl)
 * [Perl 6 / Rakudo](#perl-6--rakudo)
 * [PHP](#php)
+  * [Hack](#hack)
 * [PicoLisp](#picolisp)
 * [PostgreSQL](#postgresql)
 * [PowerShell](#powershell)
@@ -1759,6 +1760,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 * Zend Framework
   * [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
+
+
+#### Hack
+
+* [Hack Documentation](https://docs.hhvm.com/hack/)
 
 
 ### PicoLisp

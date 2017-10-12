@@ -25,6 +25,7 @@
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Matlab](#matlab)
+* [Mercurial](#mercurial)
 * [Misc](#misc)
 * [.NET](#net)
 * [OCaml](#ocaml)
@@ -216,6 +217,11 @@
 ### MATLAB
 
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
+
+
+### Mercurial
+
+* [Hg Init: a Mercurial Tutorial](http://hginit.com) - Joel Spolsky
 
 
 ### Misc

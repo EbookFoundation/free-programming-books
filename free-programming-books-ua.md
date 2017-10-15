@@ -19,12 +19,12 @@
 * [Вивчить собі Хаскела на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
 
 
-### HTML/CSS
+### HTML / CSS
 
 
 #### Bootstrap
 
-* [Ознайомлення Bootstrap](http://twbs.docs.org.ua/)
+* [Ознайомлення Bootstrap 3.3.2](http://twbs.docs.org.ua)
 
 
 ### Java

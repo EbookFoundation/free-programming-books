@@ -1978,6 +1978,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### R
 
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
+* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (PDF)
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr) - Daniel Navarro

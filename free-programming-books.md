@@ -170,7 +170,6 @@
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [Sed](#sed)
-* [Self](#self)
 * [Smalltalk](#smalltalk)
 * [Solidity](#solidity)
 * [Spark](#spark)
@@ -2162,11 +2161,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Sed
 
 * [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
-
-
-### Self
-
-* [The Self Handbook](http://handbook.selflanguage.org/current/)
 
 
 ### Smalltalk

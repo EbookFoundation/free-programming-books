@@ -72,7 +72,7 @@
 * [Screencast] - [Elixir Sips](http://elixirsips.com) - Some free
 * [Screencast] - [ElixirConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT)
 * [Screencast] - [ElixirConf 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
-* [Screencast] = [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
+* [Screencast] - [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
 
 
 ### Emacs
@@ -113,12 +113,11 @@
 
 ### Gulp
 
-* [Screencast] - [Learning Gulp](http://leveluptuts.com/tutorials/learning-gulp)
+* [Screencast] - [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp)
 
 
 ### Javascript
 
-* [Podcast] - [5 Minutes of JavaScript](https://fivejs.codeschool.com)
 * [Podcast] - [FiveJS](https://fivejs.codeschool.com)
 * [Podcast] - [Front End Happy Hour](http://frontendhappyhour.com)
 * [Podcast] - [Frontend Five](https://frontendfive.codeschool.com)
@@ -149,7 +148,6 @@
 * [Podcast] - [CodePen Radio](https://blog.codepen.io/radio/)
 * [Podcast] - [Coding Blocks](http://www.codingblocks.net)
 * [Podcast] - [CTRL+CLICK CAST](http://ctrlclickcast.com)
-* [Podcast] - [Descriptive](http://descriptive.audio)
 * [Podcast] - [Developer On Fire](http://developeronfire.com)
 * [Podcast] - [Developer Tea](https://developertea.com)
 * [Podcast] - [DevelopersHangout](http://www.developershangout.io)

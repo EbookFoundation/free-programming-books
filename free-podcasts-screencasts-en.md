@@ -148,7 +148,6 @@
 * [Podcast] - [CodePen Radio](https://blog.codepen.io/radio/)
 * [Podcast] - [Coding Blocks](http://www.codingblocks.net)
 * [Podcast] - [CTRL+CLICK CAST](http://ctrlclickcast.com)
-* [Podcast] - [Descriptive](http://descriptive.audio)
 * [Podcast] - [Developer On Fire](http://developeronfire.com)
 * [Podcast] - [Developer Tea](https://developertea.com)
 * [Podcast] - [DevelopersHangout](http://www.developershangout.io)

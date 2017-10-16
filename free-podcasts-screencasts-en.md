@@ -113,7 +113,7 @@
 
 ### Gulp
 
-* [Screencast] - [Learning Gulp](http://leveluptuts.com/tutorials/learning-gulp)
+* [Screencast] - [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp)
 
 
 ### Javascript

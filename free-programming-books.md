@@ -2166,7 +2166,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Self
 
-* [The Self Handbook](http://handbook.selflanguage.org/current/)
+* [The Self Handbook](http://handbook.selflanguage.org)
 
 
 ### Smalltalk

@@ -54,13 +54,7 @@
 
 * [Podcast] - [RWPod Podcast](http://rwpod.com)
 * [Podcast] - [RubyNoName Podcast](http://rubynoname.ru)
-* [Screencast] - [Ruby](http://ruby.hasbrains.org) - hasBrains
 * [Screencast] - [RubySchool (Ruby, Rails)](http://rubyschool.us) - Роман Пушкин
-
-
-#### Rails
-
-* [Screencast] - [Rails](http://rails.hasbrains.org) - hasBrains
 
 
 ### Webpack

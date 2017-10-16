@@ -6,6 +6,8 @@
 ### Index
 
 * [Haskell](#haskell)
+* [HTML / CSS](#html--css)
+  * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
 * [Python](#python)
@@ -15,6 +17,13 @@
 ### Haskell
 
 * [Вивчить собі Хаскела на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
+
+
+### HTML / CSS
+
+#### Bootstrap
+
+* [Ознайомлення Bootstrap 3.3.2](http://twbs.docs.org.ua)
 
 
 ### Java

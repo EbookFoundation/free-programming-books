@@ -28,6 +28,7 @@
 
 ### Unabhängig von der Programmiersprache
 
+* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
 * [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)

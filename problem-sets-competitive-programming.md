@@ -25,7 +25,6 @@
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
 * [Microcorruption](https://microcorruption.com/login)
-* [Saratov State University](http://acm.sgu.ru/index.php)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
 

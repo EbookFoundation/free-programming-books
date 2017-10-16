@@ -61,7 +61,6 @@
 
 ### Git
 
-* [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
 * [Apostila Git - UFPR](http://www.pet.est.ufpr.br/apostila/apostila_git.pdf)
 * [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
@@ -99,6 +98,7 @@
 
 * [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
+* [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 * [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 
@@ -131,6 +131,7 @@
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
+* [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
 
 
 ### Python

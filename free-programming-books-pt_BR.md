@@ -62,6 +62,7 @@
 ### Git
 
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
+* [Apostila Git - UFPR](http://www.pet.est.ufpr.br/apostila/apostila_git.pdf)
 * [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP

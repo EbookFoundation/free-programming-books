@@ -118,7 +118,6 @@
 
 ### Javascript
 
-* [Podcast] - [5 Minutes of JavaScript](https://fivejs.codeschool.com)
 * [Podcast] - [FiveJS](https://fivejs.codeschool.com)
 * [Podcast] - [Front End Happy Hour](http://frontendhappyhour.com)
 * [Podcast] - [Frontend Five](https://frontendfive.codeschool.com)

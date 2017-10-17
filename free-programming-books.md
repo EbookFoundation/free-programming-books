@@ -35,6 +35,7 @@
 * [DTrace](#dtrace)
 * [Elasticsearch](#elasticsearch)
 * [Elixir](#elixir)
+  * [Ecto](#ecto)
   * [Phoenix](#phoenix)
 * [Emacs](#emacs)
 * [Embedded Systems](#embedded-systems)
@@ -1042,6 +1043,11 @@
 * [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB)](https://github.com/potatogopher/elixir-getting-started)
 * [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg *(in progress)* (HTML) - [Source](https://github.com/radar/joyofelixir)
 * [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
+
+
+#### Ecto
+
+* [Ecto Getting Started Guide](https://hexdocs.pm/ecto/getting-started.html#content) (HTML)
 
 
 #### Phoenix

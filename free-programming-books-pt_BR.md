@@ -164,6 +164,7 @@
 
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script ](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
+* [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
 
 
 ### Vim

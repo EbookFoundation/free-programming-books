@@ -21,37 +21,37 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 
 ### In Other Spoken Languages
-+ Arabic: [github](/free-programming-books-ar.md)
-+ Azerbaijani: [github](/free-programming-books-az.md)
-+ Bulgarian: [github](/free-programming-books-bg.md)
-+ Burmese: [github](/free-programming-books-mm.md)
-+ Chinese: [github](/free-programming-books-zh.md)
-+ Czech: [github](/free-programming-books-cs.md)
-+ English: [github](/free-programming-books.md)
-+ French: [github](/free-programming-books-fr.md)
-+ German: [github](/free-programming-books-de.md)
-+ Greek: [github](/free-programming-books-gr.md)
-+ Hungarian: [github](/free-programming-books-hu.md)
-+ Indonesian: [github](/free-programming-books-id.md)
-+ Italian: [github](/free-programming-books-it.md)
-+ Japanese: [github](/free-programming-books-ja.md)
-+ Korean: [github](/free-programming-books-ko.md)
-+ Persian/Farsi (Iran): [github](/free-programming-books-fa_IR.md)
-+ Polish: [github](/free-programming-books-pl.md)
-+ Portuguese (Brazil): [github](/free-programming-books-pt_BR.md)
-+ Portuguese (Portugal): [github](/free-programming-books-pt_PT.md)
-+ Romanian (Romania): [github](/free-programming-books-ro.md)
-+ Russian: [github](/free-programming-books-ru.md)
-+ Slovak: [github](/free-programming-books-sk.md)
-+ Spanish: [github](/free-programming-books-es.md)
-+ Swedish: [github](/free-programming-books-se.md)
-+ Turkish: [github](/free-programming-books-tr.md)
-+ Ukrainian: [github](/free-programming-books-ua.md)
++ [Arabic](/free-programming-books-ar.md)
++ [Azerbaijani](/free-programming-books-az.md)
++ [Bulgarian](/free-programming-books-bg.md)
++ [Burmese](/free-programming-books-mm.md)
++ [Chinese](/free-programming-books-zh.md)
++ [Czech](/free-programming-books-cs.md)
++ [English](/free-programming-books.md)
++ [French](/free-programming-books-fr.md)
++ [German](/free-programming-books-de.md)
++ [Greek](/free-programming-books-gr.md)
++ [Hungarian](/free-programming-books-hu.md)
++ [Indonesian](/free-programming-books-id.md)
++ [Italian](/free-programming-books-it.md)
++ [Japanese](/free-programming-books-ja.md)
++ [Korean](/free-programming-books-ko.md)
++ [Persian/Farsi (Iran)](/free-programming-books-fa_IR.md)
++ [Polish](/free-programming-books-pl.md)
++ [Portuguese (Brazil)](/free-programming-books-pt_BR.md)
++ [Portuguese (Portugal)](/free-programming-books-pt_PT.md)
++ [Romanian (Romania)](/free-programming-books-ro.md)
++ [Russian](/free-programming-books-ru.md)
++ [Slovak](/free-programming-books-sk.md)
++ [Spanish](/free-programming-books-es.md)
++ [Swedish](/free-programming-books-se.md)
++ [Turkish](/free-programming-books-tr.md)
++ [Ukrainian](/free-programming-books-ua.md)
 
 
 ### Free Online Courses
-+ [Free Online Courses](/free-courses-en.md)
-+ [Free Online Courses - Russian](/free-courses-en.md)
++ [English](/free-courses-en.md)
++ [Russian](/free-courses-ru.md)
 
 
 ### Interactive Programming Resources
@@ -59,8 +59,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 
 ### JavaScript Frameworks and Resources
-+ [Free JavaScript frameworks resources and tutorials - English](/javascript-frameworks-resources.md)
-+ [Free JavaScript frameworks resources and tutorials - Portuguese (Brazil)](/javascript-frameworks-resources-pt_BR.md)
++ [English](/javascript-frameworks-resources.md)
++ [Portuguese (Brazil)](/javascript-frameworks-resources-pt_BR.md)
 
 
 ### Problem Sets and Competitive Programming
@@ -70,10 +70,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### Podcast - Screencast
 Free Podcasts and Screencasts:
 
-+ Czech: [github](/free-podcasts-screencasts-cs.md)
-+ English: [github](/free-podcasts-screencasts-en.md)
-+ Portuguese (Brazil): [github](/free-podcasts-screencasts-pt_BR.md)
-+ Russian: [github](/free-podcasts-screencasts-ru.md)
++ [Czech](/free-podcasts-screencasts-cs.md)
++ [English](/free-podcasts-screencasts-en.md)
++ [Portuguese (Brazil)](/free-podcasts-screencasts-pt_BR.md)
++ [Russian](/free-podcasts-screencasts-ru.md)
 
 
 ### Programming Playgrounds

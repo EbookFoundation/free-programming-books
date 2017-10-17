@@ -1045,6 +1045,7 @@
 
 #### Phoenix
 
+* [Phoenix v1.3.0 Guide](https://hexdocs.pm/phoenix/overview.html) (HTML)
 * [Versioned APIs with Phoenix](http://elviovicosa.com/books/versioned-apis-with-phoenix) - Elvio Vicosa (PDF) *(account required)*
 
 

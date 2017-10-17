@@ -36,6 +36,7 @@
 * [Elasticsearch](#elasticsearch)
 * [Elixir](#elixir)
   * [Phoenix](#phoenix)
+  * [Ecto](#ecto)
 * [Emacs](#emacs)
 * [Embedded Systems](#embedded-systems)
 * [Erlang](#erlang)
@@ -1047,6 +1048,11 @@
 
 * [Phoenix v1.3.0 Guide](https://hexdocs.pm/phoenix/overview.html) (HTML)
 * [Versioned APIs with Phoenix](http://elviovicosa.com/books/versioned-apis-with-phoenix) - Elvio Vicosa (PDF) *(account required)*
+
+
+#### Ecto
+
+* [Ecto Getting Started Guide](https://hexdocs.pm/ecto/getting-started.html#content) (HTML)
 
 
 ### Emacs

@@ -20,7 +20,7 @@
 
 ### HTML
 
-* [HTML](http://ilkaddimlar.com/ders/html)
+* [HTML](https://web.archive.org/web/20170606111135/http://ilkaddimlar.com/ders/html)
 
 
 ### JavaScript

@@ -56,6 +56,7 @@
 
 #### Outros
 
+* [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
 

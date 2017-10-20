@@ -71,7 +71,7 @@
 
 ### Node.js
 
-* [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/read_full)
+* [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/read)
 * [Corrigindo as permissões de usuário para o NPM no Linux](http://woliveiras.com.br/posts/corrigindo-permissoes-de-usuario-linux-npm/)
 * [Node.js para Leigos](http://udgwebdev.com/nodejs/)
 * [Primeiros passos com Node.js](http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/)

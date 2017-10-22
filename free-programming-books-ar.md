@@ -45,7 +45,7 @@
 * [يوميات لينكساوي - الجزء الثاني](http://librebooks.org/linuxawy-diaries-2/)
 
 
-### open source software
+### Open Source Software
 
 * [الأبعاد الاستراتيجية للبرمجيات الحرة مفتوحة المصدر ](http://librebooks.org/strategic-dimensions-of-free-and-open-source-software/)
 * [الحريات الرقمية - المفاهيم الرئيسية ](http://librebooks.org/digital-freedoms-main-concepts/)
@@ -60,6 +60,8 @@
 ### Operating Systems
 
 * [المقدمة في تحليل وتصميم أنظمة ](http://librebooks.org/intro-to-os-analysis-and-design/)
+* [مفاهيم نظم التشغيل](https://www.kutub.info/library/book/12880)
+* [برمجة أنظمة التشغيل](https://www.kutub.info/library/book/10357)
 
 
 ### PHP
@@ -80,12 +82,12 @@
 * [تعلّم البرمجة مع القط سكراتش](http://librebooks.org/learn-programming-with-scratch-cat/)
 
 
-### raspberry-pi
+### Raspberry-pi
 
 * [راسبيري باي ببساطة ](http://librebooks.org/simply-raspberry-pi/)
 
 
-### ruby
+### Ruby
 
 * [مقدمة في روبي ](http://librebooks.org/intro-to-ruby/)
 
@@ -100,7 +102,7 @@
 * [التحليل الجنائي الرقمي](https://www.kutub.info/library/book/19856)
 
 
-### seo
+### SEO
 
 * [تحسين محركات البحث SEO - دليل المبتدئين](http://librebooks.org/search-engine-optimization-seo-starter-guide-ar/)
 

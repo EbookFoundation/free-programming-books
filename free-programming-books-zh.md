@@ -635,7 +635,6 @@
 ### Ruby
 
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
-* [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org)
 * [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
 * [Ruby on Rails 指南](http://guides.ruby-china.org)
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)

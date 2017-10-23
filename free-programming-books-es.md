@@ -233,7 +233,7 @@
 ### Linux
 
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html)
-* [BASH Scripting Avanzado: Utilizando declare para definición de tipo](http://library.originalhacker.org/biblioteca/articulo/ver/123)
+* [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123)
 * [Debian GNU/Linux para administradores](https://debian-handbook.info/browse/es-ES/stable/)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) en WikiBooks
 

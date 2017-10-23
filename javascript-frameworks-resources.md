@@ -121,7 +121,7 @@
   * [Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/)
   * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
-* [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/aspnet5.html)
+* [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)

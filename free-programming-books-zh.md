@@ -81,7 +81,6 @@
 ### NoSQL
 
 * [Disque 使用教程](http://disque.huangz.me)
-* [Neo4j .rb 中文資源](http://neo4j.tw)
 * [Redis 命令参考](http://redisdoc.com)
 * [Redis 设计与实现](http://redisbook.com)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
@@ -171,7 +170,6 @@
 
 * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
-* [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 * [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
 
@@ -217,7 +215,7 @@
 ### 正则表达式
 
 * [正则表达式-菜鸟教程](http://www.runoob.com/regexp/regexp-tutorial.html)
-* [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+* [正则表达式30分钟入门教程](https://web.archive.org/web/20161119141236/http://deerchao.net:80/tutorials/regex/regex.htm)
 
 
 ### 版本控制
@@ -303,11 +301,11 @@
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
-* [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_(Simplified))
+* [Joel谈软件](https://web.archive.org/web/20170616013024/http://local.joelonsoftware.com/wiki/Chinese_(Simplified))
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
 * [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
-* [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
+* [約耳談軟體(Joel on Software)](https://web.archive.org/web/20170615232349/http://local.joelonsoftware.com/wiki/首頁)
 * [编码规范](https://github.com/ecomfe/spec)
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
@@ -360,7 +358,7 @@
 * [C++ 并发编程(基于C++11)](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/content/)
 * [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
-* [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
+* [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
@@ -508,7 +506,7 @@
 * impress.js
   * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
-* [Javascript 原理](http://typeof.net/s/jsmech/)
+* [Javascript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
 * [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) “JavaScript patterns”中译本
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
@@ -540,8 +538,6 @@
   * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
   * [React.js 中文文档](https://discountry.github.io/react/)
   * [React.js 入门教程](http://fraserxu.me/intro-to-react/)
-* underscore.js
-  * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * Vue.js
   * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN) (深入JavaScript语言核心机制的系列图书)
@@ -589,7 +585,7 @@
 
 * [Master Perl Today](https://github.com/fayland/chinese-perl-book)
 * [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
-* [Perl 5 教程](http://net.pku.edu.cn/~yhf/tutorial/perl/perl.html)
+* [Perl 5 教程](https://web.archive.org/web/20150326073235/http://net.pku.edu.cn/~yhf/tutorial/perl/perl.html)
 * [Perl 教程](http://www.yiibai.com/perl)
 
 
@@ -633,7 +629,7 @@
 ### reStructuredText
 
 * [reStructuredText 入门](http://www.pythondoc.com/sphinx/rest.html)
-* [reStructuredText 简明教程](http://jwch.sdut.edu.cn/book/rst.html)
+* [reStructuredText 简明教程](http://jwch.sdut.edu.cn/book/rst.htm://web.archive.org/web/20170122080708/http://jwch.sdut.edu.cn/book/rst.html)
 
 
 ### Ruby

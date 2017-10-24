@@ -16,7 +16,8 @@
 
 ### Backbone.js
 
-* [Série Backbone.js](http://blog.fernandomantoan.com/serie-backbone-js-parte-1-introducao/)
+* [Série Backbone.js (blog.fernandomantoan.com)](http://blog.fernandomantoan.com/serie-backbone-js-parte-1-introducao/)
+* [Série Backbone.js (devfuria.com.br)](http://www.devfuria.com.br/javascript/backbone/)
 
 
 ### Ember.js

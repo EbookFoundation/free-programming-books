@@ -25,6 +25,7 @@
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
 * [Microcorruption](https://microcorruption.com/login)
+* [Project Euler](https://projecteuler.net/)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
 

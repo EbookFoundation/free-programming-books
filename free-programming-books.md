@@ -869,6 +869,7 @@
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
+* [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
 * [Learn to Code With C - The MagPi Essentials](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf) (PDF)
 * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)

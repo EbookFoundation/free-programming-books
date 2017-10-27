@@ -229,13 +229,10 @@
 
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
-* [Berkeley's CS  61B: Data Structures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDXrTvCvDgIkeCWeSIDr4Yh)
-* [Berkeley's CS  70: Discrete Mathematics and Probability Theory](https://www.youtube.com/course?list=EC1A2EBAC4283FE3EA)
-* [Berkeley's CS 162: Operating Systems and Systems Programming](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCrnl0625nXp4GimjT-cv_1)
-* [Berkeley's CS 164: Programming Languages and Compilers](https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F&feature=plcp)
-* [Berkeley's CS 169: Software Engineering](https://www.youtube.com/view_play_list?p=-XXv-cvA_iAS_kCeleydK6mDc0kCbdhU)
-* [Berkeley's CS 194: What is an Operating System?](https://www.youtube.com/view_play_list?p=-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE)
-* [Berkeley's Math 10B: Methods of Mathematics: Calculus, Statistics, and Combinatorics](https://www.youtube.com/view_play_list?p=-XXv-cvA_iCZ8sTG0pDuBubsDfOFoY2X)
+* [Berkeley's CS  61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
+* [Berkeley's CS 162: Operating Systems and Systems Programming](https://www.youtube.com/watch?v=feAOZuID1HM)
+* [Berkeley's CS 169: Software Engineering](https://www.youtube.com/watch?v=fXokQpWsszU)
+* [Berkeley's CS 194: What is an Operating System?](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html)
 * [Bits: The Computer Science of Digital Information](http://www.extension.harvard.edu/open-learning-initiative/bits)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
 * [FindLectures.com](https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic

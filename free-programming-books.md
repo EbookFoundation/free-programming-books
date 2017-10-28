@@ -1136,8 +1136,8 @@
 
 * [A practical git introduction](http://marc.helbling.fr/2014/09/practical-git-introduction)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
-* [DZone Refcard: Git Patterns and Anti-Patterns](https://dzone.com/asset/download/140) - Luca Milanesio
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
+* [DZone Refcard: Git Patterns and Anti-Patterns](https://dzone.com/asset/download/140) - Luca Milanesio
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
 * [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley

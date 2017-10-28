@@ -511,6 +511,7 @@
 * [Practical Data Analysis](https://www.packtpub.com/packt/free-ebook/practical-data-analysis) - Hector Cuesta, Packt. (Just fill the fields with any values)
 * [Practical Responsive Typography](https://www.packtpub.com/packt/free-ebook/practical-responsive-typography) - Dario Calonaci, Packt. (Just fill the fields with any values)
 * [Principles of Computer System Design ](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)
+* [Procedural Content Generation in Games](http://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
 * [Programming with Unicode](http://unicodebook.readthedocs.org)
 * [Project Oberon](http://www.ethoberon.ethz.ch) (PDF)
 * [Real-World Maintainable Software](http://www.oreilly.com/programming/free/real-world-maintainable-software.csp) *(Just fill the fields with any values)*

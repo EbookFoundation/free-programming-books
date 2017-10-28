@@ -1157,6 +1157,7 @@
 * [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Version Control by Example (Mercurial, Subversion, Verasity)](http://ericsink.com/vcbe/)
+* [DZone Refcard: Git Patterns and Anti-Patterns](https://dzone.com/asset/download/140) - Luca Milanesio
 
 
 ### Go

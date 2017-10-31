@@ -1,989 +1,687 @@
-###目录
-* [一些书目](#一些书目)
-* [GUI编程](#gui编程)
-* [图形学相关](#图形学相关)
-* [语言无关类](#语言无关类)
-    * [算法和数据结构](#算法和数据结构)
-    * [计算理论](#计算理论)
-    * [操作系统](#操作系统)
-    * [数据库](#数据库)
-    * [网络](#网络)
-    * [编译器设计](#编译器设计)
-    * [编程范式](#编程范式)
-    * [并行化编程](#并行化编程)
-    * [软件架构](#软件架构)
-    * [开源社区](#开源社区)
-    * [信息检索](#信息检索)
-    * [数据挖掘](#数据挖掘)
-    * [机器学习](#机器学习)
-    * [数学](#数学)
-    * [其他](#其他)
-    * [Web性能分析](#web性能分析)
-    * [在线教育](#在线教育)
-    * [专家级开发](#专家级开发)
-* [Ada](#ada)
-* [Android](#android)
-* [APL](#apl)
-* [Autotools](#autotools)
-* [ASP.NET MVC](#aspnet-mvc)
-* [Assembly Language](#assembly-language)
-* [Bash](#bash)
-* [C](#c)
-* [C++](#c-1)
-* [Clojure](#clojure)
-* [CoffeeScript](#coffeescript)
-* [ColdFusion](#coldfusion)
-* [D](#d)
-* [Dart](#dart)
-* [DTrace](#dtrace)
-* [DB2](#db2)
-* [Delphi / Pascal](#delphi--pascal)
-* [Elasticsearch](#elasticsearch)
-* [Emacs](#emacs)
-* [Erlang](#erlang)
-* [Flex](#flex)
-* [F#](#f-sharp)
-* [Forth](#forth)
-* [Git](#git)
-* [Go](#go)
-* [Grails](#grails)
-* [Hadoop](#hadoop)
-* [Haskell](#haskell)
-* [HTML / CSS](#html--css)
-* [Icon](#icon)
-* [IDL](#idl)
-* [iOS](#ios)
-* [J](#j)
-* [Java](#java)
-* [JavaScript](#javascript)
-    * [Backbone.js](#backbonejs)
-    * [D3.js](#d3js)
-    * [jQuery](#jquery)
-    * [Knockout.js](#knockout.js)
-    * [Node.js](#nodejs)
-* [LaTeX](#latex)
-* [Linux](#linux)
-* [Lisp](#lisp)
-* [Lua](#lua)
-* [Mathematica](#mathematica)
-* [Maven](#maven)
-* [Mercurial](#mercurial)
-* [.NET (C# / VB / Nemerle / Visual Studio)](#net-c--vb--nemerle--visual-studio)
-* [NoSQL](#nosql)
-* [Oberon](#oberon)
-* [Objective-C](#objective-c)
-* [OCaml](#ocaml)
-* [Octave](#octave)
-* [OpenSCAD](#openscad)
-* [Oracle Server](#oracle-server)
-* [Oracle PL/SQL](#oracle-plsql)
-* [Parrot / Perl 6](#parrot--perl-6)
-* [Perl](#perl)
-* [PHP](#php)
-* [PowerShell](#powershell)
-* [Processing](#processing)
-* [Prolog](#prolog)
-* [PostgreSQL](#postgresql)
-* [Python](#python)
-    * [Django](#django)
-    * [Flask](#flask)
-* [R](#r)
-* [Racket](#racket)
-* [Ruby](#ruby)
-* [Ruby on Rails](#ruby-on-rails)
-* [Rust](#rust)
-* [Sage](#sage)
-* [Scala](#scala)
-* [Scheme](#scheme)
-* [Sed](#sed)
-* [Smalltalk](#smalltalk)
-* [Subversion](#subversion)
-* [SQL (implementation agnostic 实现无关)](#sql-implementation-agnostic)
-* [SQL Server](#sql-server)
-* [Teradata](#teradata)
-* [TeX](#tex)
-* [Theory](#theory)
-* [TypeScript](#typescript)
-* [Vim](#vim)
-* [Websphere](#websphere)
-* [Windows Phone](#windows-phone)
-
-
-###一些书目
-* [25本免费的计算机科学电子书](http://www.coderholic.com/25-free-computer-science-books/)
-* [Cheat Sheets (Free)](http://refcardz.dzone.com/)
-* [电子书目录](http://www.e-booksdirectory.com/)
-* [Free Smalltalk Books，由Stéphane Ducasse收集](http://stephane.ducasse.free.fr/FreeBooks.html)
-* [www.FreeTechBooks.com](http://www.freetechbooks.com/)
-* [HackerShelf.com](http://hackershelf.com/browse/)
-* [微软出版社：免费电子书](http://blogs.msdn.com/b/microsoft_press/archive/2011/03/03/ebooks-list-of-our-free-books.aspx)
-* [MindView Inc](http://www.mindviewinc.com/Books/)
-* [O'Reilly's Commons](http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons)
-* [O'Reilly的openbook项目](http://oreilly.com/openbook/)
-* [TechBooksForFree.com](http://www.techbooksforfree.com/)
-* [Theassayer.org](http://theassayer.org/)
-* [维基书籍：编程](http://en.wikibooks.org/wiki/Category%3aComputer_programming)
-* [JSBooks - 免费的JavaScript电子书目录](https://github.com/revolunet/JSbooks)
-
-
-###图形学相关
-* [DirectX manual -- 《DirectX手册》](http://www.xmission.com/~legalize/book/download/index.html) (draft)
-* [Learning Modern 3D Graphics Programming -- 《学习现代3D图像编程》](http://www.arcsynthesis.org/gltut/) (draft)
-* [Introduction to Modern OpenGL -- 《现代OpenGL导论》](http://open.gl/)
-* [GPU Gems -- 《GPU宝石》](http://http.developer.nvidia.com/GPUGems/gpugems_part01.html)
-* [GPU Gems 2 -- 《GPU宝石2》](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html) - [ch 8,14,18,29,30 as pdf](ftp://download.nvidia.com/developer/GPU_Gems_2/)
-* [GPU Gems 3 -- 《GPU宝石3》](http://http.developer.nvidia.com/GPUGems3/gpugems3_part01.html)
-* [Graphics Programming Black Book -- 《图形编程黑皮书》](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
-* [OpenGL Insights -- 《OpenGL的见解》](http://openglinsights.com) (chapters 22, 23, 28, 33, 39)
-* [ShaderX series -- 《ShaderX系列》](http://tog.acm.org/resources/shaderx/)
-* [Tutorials for modern OpenGL -- 《现代OpenGL教程》](http://www.opengl-tutorial.org/)
-
-
-###GUI编程
-* [Programming with gtkmm 3 -- 《gtkmm3编程》](https://developer.gnome.org/gtkmm-tutorial/stable/)
-
-
-###语言无关类
-
-####算法和数据结构
-* [Algorithms and Data-Structures -- 《算法和数据结构》](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
-* [Algorithms -- 《算法》](http://www.cs.berkeley.edu/~vazirani/algorithms.html) (draft)
-* [Algorithms Course Materials -- 《算法教材》](http://compgeom.cs.uiuc.edu/~jeffe/teaching/algorithms/) - Jeff Erickson
-* [Binary Trees -- 《二叉树》](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
-* [Clever Algorithms -- 《巧妙的算法》](http://www.cleveralgorithms.com/nature-inspired/index.html)
-* [Computational Geometry: Algorithms and Applications -- 《计算几何：算法和应用》](http://www.cs.uu.nl/geobook/) (chapters 1 and 9, pseudo-code)
-* [Data Structures and Algorithms: Annotated Reference with Examples -- 《数据结构与算法：带注释的参考例子》](http://dotnetslackers.com/projects/Data-Structures-And-Algorithms/)
-* [The Algorithm Design Manual -- 《算法设计手册》](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
-* [Hacker's Delight -- 《黑客的乐趣》](http://www.hackersdelight.org) (chapter 2, code)
-* [LEDA: A Platform for Combinatorial and Geometric Computing -- 《LEDA：组合和几何运算平台》](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
-* [Planning Algorithms -- 《规划算法》](http://planning.cs.uiuc.edu/)
-* [Linked List Basics -- 《链表基础》](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
-* [Linked List Problems -- 《链表问题》](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
-* [Open Data Structures -- 《开放式数据结构》](http://opendatastructures.org/)
-* [Purely Functional Data Structures -- 《纯粹的功能性数据结构》](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) (PDF)
-* [The Great Tree List Recursion Problem -- 《大规模树列表递归问题》](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
-* [Matters Computational -- 《计算的事项》](http://www.jjj.de/fxt/#fxtbook)
-* [Algorithmic Graph Theory -- 《图论算法》](http://code.google.com/p/graphbook/)
-* [Foundations of Computer Science -- 《计算机科学基础》](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
-* [A Field Guide To Genetic Programming -- 《遗传编程的一个领域指南》](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html)
-* [The Art of Computer Programming -- 《计算机程序设计艺术》](http://www.cs.utsa.edu/~wagner/knuth/) (fascicles, mostly volume 4)
-* [Programming Pearls -- 《编程珠玑》](http://cs.bell-labs.com/cm/cs/pearls/)
-* [Algorithms for Programmers: Ideas and Source Code -- 《程序员：思想和源代码的算法》](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
-* [Sequential and parallel sorting algorithms -- 《顺序和并行排序算法》](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
-* [Text Algorithms -- 《文本算法》](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
-* [Problem Solving with Algorithms and Data Structures -- 《算法和数据结构问题解决》](http://interactivepython.org/courselib/static/pythonds/index.html)
-* [Data Structures Succinctly Part 1, Syncfusion -- 《数据结构精讲》](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Data Structures Succinctly Part 2, Syncfusion -- 《数据结构精讲》](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
-
-
-####计算理论
-* [Structure and Interpretation of Computer Programs -- 《计算机程序的构造和解释》](http://mitpress.mit.edu/sicp/)
-* [Programming Languages: Application and Interpretation -- 《程序语言：应用及解释》](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
-* [Introduction to Computing -- 《计算概论》](http://www.computingbook.org/)
-* [An Introduction to the Theory of Computation -- 《计算理论简介》](http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html)
-* [Think Complexity -- 《思想复杂性》](http://www.greenteapress.com/compmod/) - Allen B. Downey
-
-####操作系统
-* [The Art of Unix Programming -- 《Unix编程艺术》](http://catb.org/esr/writings/taoup/html/)
-* [The Little Book of Semaphores -- 《信号灯的手册》](http://greenteapress.com/semaphores/) - Allen B. Downey
-* [Operating Systems and Middleware -- 《操作系统和中间件》](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
-* [Practical File System Design:The Be File System -- 《实用的文件系统设计：BE文件系统》](http://www.nobius.org/~dbg/practical-file-system-design.pdf)(PDF) - Dominic Giampaolo
-
-####数据库
-* [Database Fundamentals -- 《数据库基础》](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
-* [Database-backed Web Sites -- 《数据库支持的Web站点》](http://philip.greenspun.com/wtr/dead-trees/)
-
-####网络
-* [High-Performance Browser Networking -- 《高性能浏览器网络》](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
-* [The TCP/IP Guide -- 《TCP/ IP协议指南》](http://www.tcpipguide.com/free/t_toc.htm)
-* [Understanding IP Addressing: Everything you ever wanted to know -- 《了解IP寻址：你曾经想知道的一切》](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
-* [ZeroMQ Guide -- 《ZeroMQ指南》](http://zguide.zeromq.org/page:all)
-* [Network Security Tools -- 《网络安全工具》](http://commons.oreilly.com/wiki/index.php/Network_Security_Tools)
-* [HTTP Succinctly, Syncfusion -- 《HTTP精讲》](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
-
-####编译器设计
-* [Compiler Construction -- 《编译器构造》](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
-* [Let's Build a Compiler -- 《建立一个编译器》](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
-* [Linkers and loaders -- 《链接器和加载器》](http://www.iecc.com/linker/)
-* [Compiler Design: Theory, Tools, and Examples -- 《编译器设计：理论，工具和范例》](http://elvis.rowan.edu/~bergmann/books.html)
-* [Practical and Theoretical Aspects of Compiler Construction -- 《编译器构造的理论与实践》](http://www.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
-
-####编程范式
-* [Introduction to Functional Programming -- 《函数式编程简介》](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)
-* [Type Theory and Functional Programming -- 《类型理论与函数式编程》](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
-
-####并行化编程
-* [How to Write Parallel Programs -- 《如何编写并行程序》](http://www.lindaspaces.com/book/)
-* [High Performance Computing -- 《高性能计算》](http://cnx.org/content/col11136/latest) (PDF, ePUB) - Charles Severance & Kevin Dowd
-* [Is Parallel Programming Hard, And, If So, What Can You Do About It? -- 《并行编程难吗，而且，如果是这样，你能做些什么呢？》](http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
-* [Introduction to Parallel Computing -- 《并行计算简介》](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
-
-####软件架构
-* [Seamless Object-Oriented Software Architecture -- 《无缝的面向对象软件架构》](http://www.bon-method.com/book_print_a4.pdf) (PDF)
-* [How to write Unmaintainable Code -- 《如何写不可维护的代码》](http://mindprod.com/jgloss/unmain.html)
-* [Object-Oriented Reengineering Patterns -- 《面向对象的再造模式》](http://scg.unibe.ch/download/oorp/)
-* [Patterns and Practices: Application Architecture Guide 2.0 -- 《模式与实践：应用架构指南2.0》](http://www.codeplex.com/AppArchGuide)
-* [The Definitive Guide to Building Code Quality -- 《构建高质量代码的权威指南》](http://nexus.realtimepublishers.com/dgbcq.php)
-* [Patterns of Software: Tales from the Software Community -- 《软件模式：从软件社区的故事说起》](http://www.dreamsongs.com/Files/PatternsOfSoftware.pdf) (PDF)
-* [Best Kept Secrets of Peer Code Review -- 《保存最好的同行代码审查的秘密》](http://smartbear.com/codecollab-code-review-book.php)
-* [Domain Driven Design Quickly -- 《领域驱动快速设计》](http://www.infoq.com/minibooks/domain-driven-design-quickly)
-* [Essential Skills for Agile Development -- 《敏捷开发的基本技能》](http://elliottback.com/wp/essential-skills-for-agile-development/)
-* [Guide to the Software Engineering Body of Knowledge -- 《软件工程知识体系指南》](http://www.computer.org/portal/web/swebok)
-* [Programming Reliable Systems (Joe Armstrong's PhD thesis) -- 《可靠的系统编程（乔·阿姆斯特朗的博士论文）》](http://www.sics.se/~joe/thesis/armstrong_thesis_2003.pdf) (PDF)
-* [How to Design Programs -- 《如何设计程序》](http://www.htdp.org/)
-* [NASA Manager Handbook for Software Development -- 《NASA经理软件开发手册》](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-manage.pdf) (PDF)
-* [NASA Software Measurement Handbook -- 《NASA软件测量手册》](http://www.scribd.com/doc/7181362/NASA-Software-Measurement-Guidebook)
-* [Don't Just Roll the Dice -- 《不要只是掷骰子》](http://www.neildavidson.com/dontjustrollthedice.html)
-
-####开源社区
-* [Data Journalism Handbook -- 《数据新闻手册》](http://datajournalismhandbook.org/)
-* [Free Software, Free Society -- 《自由软件，自由社会》](http://shop.fsf.org/product/free-software-free-society-2/)
-* [Getting started with Open source development -- 《开源开发入门》](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
-* [Innovation Happens Elsewhere -- 《创新在别处发生》](http://dreamsongs.com/IHE/IHE.html)
-* [Producing Open Source Software -- 《构建开源软件》](http://producingoss.com/)
-* [The Cathedral and the Bazaar -- 《大教堂和市集》](http://www.catb.org/esr/writings/cathedral-bazaar/)
-* [The Architecture of Open Source Applications -- 《开源应用程序的体系结构》](http://www.aosabook.org/en/index.html)
-* [The Future of the Internet -- 《互联网的未来》](http://futureoftheinternet.org/)
-* [The Performance of Open Source Applications -- 《开源应用程序的性能》](http://aosabook.org/en/)
-
-####信息检索
-* [Introduction to Information Retrieval -- 《现代信息检索》](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
-
-####数据挖掘
-* [Data Mining and Analysis: Fundamental Concepts and Algorithms -- 《数据挖掘和分析：基本概念和算法》](http://www.dataminingbook.info/DokuWiki/doku.php) (Draft)
-* [Mining of Massive Datasets -- 《海量数据集挖掘》](http://infolab.stanford.edu/~ullman/mmds.html)
-* [The Elements of Statistical Learning -- 《统计学习的元素》](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
-
-####机器学习
-* [Programming Computer Vision with Python -- 《计算机视觉与Python编程》](http://programmingcomputervision.com/)
-* [A Course in Machine Learning -- 《机器学习教程》](http://hackershelf.com/book/492/a-course-in-machine-learning/)
-* [Computer Vision: Algorithms and Applications -- 《计算机视觉：算法和应用》](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
-* [Bayesian Reasoning and Machine Learning -- 《贝叶斯推理和机器学习》](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-* [Introduction to Machine Learning -- 《机器学习简介》](http://alex.smola.org/drafts/thebook.pdf) (PDF)
-* [Gaussian Processes for Machine Learning -- 《高斯过程机器学习》](http://www.gaussianprocess.org/gpml/)
-* [Information Theory, Inference, and Learning Algorithms -- 《信息理论，推理和学习算法》](http://www.inference.phy.cam.ac.uk/itila/)
-* [Artificial Intelligence | Machine Learning -- 《人工智能|机器学习》](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
-* [Probabilistic Models in the Study of Language -- 《在语言研究中的概率模型》](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
-
-####数学
-* [Think Bayes: Bayesian Statistics Made Simple -- 《学习贝叶斯：简单贝叶斯统计》](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
-* [Think Stats: Probability and Statistics for Programmers -- 《学习统计：概率论与统计程序员》](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
-* [Mathematical Logic - an Introduction -- 《数理逻辑 - 介绍》](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
-* [Bayesian Methods for Hackers -- 《黑客的贝叶斯方法》](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-* [Introduction to Statistical Thought -- 《统计思想概论》](http://www.math.umass.edu/~lavine/Book/book.html)
-* [Mathematics for Computer Science -- 《计算机科学中的数学》](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
-* [Category Theory for Computing Science -- 《分类理论计算科学》](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) (PDF)
-* [Essentials of Metaheuristics -- 《元启发式要点》](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke
-* [Advanced Data Analysis from an Elementary Point of View -- 《从初级观点看先进的数据分析》](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
-* [Probability and Statistics Cookbook -- 《概率与统计参考书》](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
-
-####其他
-* [97 Things Every Programmer Should Know -- 《每个程序员都应该知道的97件事》](http://programmer.97things.oreilly.com/)
-* [97 Things Every Programmer Should Know - Extended -- 《每个程序员都应该知道的97件事-扩展》](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
-* [A Mathematical Theory of Communication -- 《通信的数学理论》](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html) by Claude E.Shannon
-* [Asterisk™: The Definitive Guide -- 《Asterisk™：权威指南》](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
-* [How to Think Like a Computer Scientist -- 《如何像计算机科学家那样思考》](http://openbookproject.net/thinkcs/)
-* [I Am a Bug -- 《我是一个Bug》](http://www.amibug.com/iamabug/p01.html)
-* [Learn to Program -- 《学习编程》](http://pine.fm/LearnToProgram/)
-* [Foundations of Programming -- 《编程基础》](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
-* [Communicating Sequential Processes -- 《通信顺序进程》](http://www.usingcsp.com/cspbook.pdf) (PDF) by Tony Hoare
-* [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts -- 《来吧，让我们玩：基于场景的编程使用即时序列图》](http://www.scribd.com/doc/175241338/Come-Let-s-Play)
-* [Computer Musings -- 《计算机沉思录》](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
-* [How Computers Work -- 《计算机工作原理》](http://www.fastchip.net/howcomputerswork/p1.html)
-* [Data-Intensive Text Processing with MapReduce -- 《MapReduce的数据密集型的文字处理》](http://www.umiacs.umd.edu/~jimmylin/MapReduce-book-final.pdf) (PDF)
-* [Designing Interfaces -- 《接口设计》](http://designinginterfaces.com) by Jennifer Tidwell
-* [Digital Signal Processing For Engineers and Scientists -- 《工程师和科学家的数字信号处理技术》](http://www.dspguide.com/)
-* [Distributed systems for fun and profit -- 《分布式系统的乐趣和利润》](http://book.mixu.net/distsys/single-page.html)
-* [Flow based Programming -- 《基于流的编程》](http://jpaulmorrison.com/fbp/#book)
-* [Getting Real -- 《获得真理》](http://gettingreal.37signals.com/)
-* [Magic Ink: Information Software and The Graphical Interface -- 《魔术的墨水：信息软件和图形界面》](http://worrydream.com/#!/MagicInk) by Bret Victor
-* [Modeling Reactive Systems with Statecharts -- 《反应系统建模与状态图》](http://www.scribd.com/doc/167971960/Modeling-Reactive-Systems-With-Statecharts)
-* [PNG: The Definitive Guide -- 《PNG：权威指南》](http://www.libpng.org/pub/png/book/)
-* [Pointers And Memory -- 《指针和内存》](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
-* [Project Oberon -- 《奥伯伦工程》](http://www-old.oberon.ethz.ch/WirthPubl/ProjectOberon.pdf) (PDF)
-* [Security Engineering -- 《安全工程》](http://www.cl.cam.ac.uk/~rja14/book.html)
-* [Small Memory Software -- 《小型存储软件》](http://www.smallmemory.com/book.html)
-* [SVG Essentials -- 《SVG要点》](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
-* [Introduction to High-Performance Scientific Computing -- 《高性能科学计算简介》](http://tacc-web.austin.utexas.edu/veijkhout/public_html/istc/istc.html) - Victor Eijkhout
-* [Object-Oriented Reengineering Patterns -- 《面向对象的再造模式》](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
-* [High-Performance Scientific Computing -- 《高性能科学计算》](http://bit.ly/hpc12) (class lectures and slides)
-* [Mother Tongues of Computer Languages -- 《计算机语言的母语》](http://www.digibarn.com/collections/posters/tongues/) (PNG)
-
-####Web性能分析
-* [Book of Speed -- 《速度之书》](http://www.bookofspeed.com/index.html) by Stoyan Stefanov
-
-####在线教育
-* [MIT OCW -- 麻省理工学院“开放式课程网页”](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
-* [Coursera](https://www.coursera.org/)
-* [Udacity](https://www.udacity.com/)
-* [edX](https://www.edx.org/)
-
-####专家级开发
-* [Don't Just Roll the Dice -- 《不要只是掷骰子》](http://download.red-gate.com/ebooks/DJRTD_eBook.pdf) (PDF) *(RedGate, By Neil Davidson)*
-* [Confessions of an IT Manager -- 《IT经理的自白》](http://download.red-gate.com/ebooks/DotNet/Confessions_IT_Manager.zip) *(RedGate, By Phil Factor)*
-
-
-###Ada
-* [Ada 95: The Craft of Object-Oriented Programming -- 《Ada 95:面向对象编程的工艺》](http://faculty.cs.wwu.edu/reedyc/AdaResources/bookhtml/contents.htm)
-* [Ada Distilled -- 《Ada精华》](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
-* [Ada for Software Engineers -- 《Ada软件工程师》](http://pnyf.inf.elte.hu/kto/oktatas/ada/books/ase.pdf) (PDF)
-
-
-###Android
-* [Google Android Developer Training -- 《谷歌Android开发培训》](https://developer.android.com/training/index.html)
-* [Coreservlets Android Programming Tutorial -- 《Coreservlets Android编程教程》](http://www.coreservlets.com/android-tutorial/)
-* [Expert Android and Eclipse development knowledge -- 《专家Android和Eclipse开发知识》](http://www.vogella.com/android.html)
-
-
-###APL
-* [A Practical Introduction to APL1 & APL2 -- 《APL1＆APL2实用导论》](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
-* [A Practical Introduction to APL2 & APL3 -- 《APL2＆APL3实用导论》](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL3_.26_APL4)
-* [Mastering Dyalog APL -- 《掌握Dyalog APL》](http://www.dyalog.com/intro/) (PDF)
-
-
-###Autotools
-* [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
-* [Autotools Mythbuster](https://www.flameeyes.eu/autotools-mythbuster/)
-
-
-###ASP.NET MVC
-* [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com/)
-* [NerdDinner Walkthrough](http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx)
-
-
-###Assembly Language
-* [Paul Carter's Tutorial on x86 Assembly](http://drpaulcarter.com/pcasm/)
-* [Professional Assembly Language](http://blog.hit.edu.cn/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
-* [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
-* [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-* [The Art of Assembly Language Programming](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
-* [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly)
-* [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
-
-
-###Bash
-* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
-* [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) by Machtelt Garrels
-* [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
-* [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
-
-
-###C
-* [A Tutorial on Pointers and Arrays in C](http://home.netcom.com/~tjensen/ptr/pointers.htm)
-* [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
-* [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
-* [The C book](http://publications.gbdirect.co.uk/c_book/)
-* [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
-* [Learn C the hard way](http://c.learncodethehardway.org/book/)
-* [The new C standard - an annotated reference](http://www.knosof.co.uk/cbook/cbook.html)
-* [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
-* [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C)
-
-
-###C++
-* [C++ Annotations](http://cppannotations.sourceforge.net/)
-* [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
-* [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
-* [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
-* [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-* [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)] (http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip)
-* [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
-* [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
-* [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Learn C++](http://www.learncpp.com/) (PDF, Online)
-
-
-###Clojure
-* [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
-* [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
-* [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
-* [Clojure for the Brave and True](http://www.braveclojure.com/)
-* [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
-* [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
-* [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
-* [Modern cljs](https://github.com/magomimmo/modern-cljs)
-
-
-###CoffeeScript
-* [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
-* [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
-
-
-###ColdFusion
-* [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown)
-* [Learn CF in a Week](http://learncfinaweek.com/)
-
-
-###D
-* [Programming in D](http://ddili.org/ders/d.en/)
-
-
-###Dart
-* [What is Dart?](http://shop.oreilly.com/product/0636920025887.do)
-
-
-###DTrace
-* [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
-
-
-###DB2
-* [Getting started with DB2 Express-C](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_Express_v9.7_p4.pdf) (PDF)
-* [Getting started with IBM Data Studio for DB2](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_IBM_Data_Studio_for_DB2_p3.pdf) (PDF)
-* [Getting started with IBM DB2 development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf) (PDF)
-
-
-###Delphi / Pascal
-* [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
-
-
-###Elasticsearch
-* [Exploring Elasticsearch](http://exploringelasticsearch.com/)
-
-
-###Emacs
-* [GNU Emacs Manual, 17th Edition, v. 24.2](http://shop.fsf.org/product/Emacs_Manual_24/)
-* [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
-
-
-###Erlang
-* [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/)
-
-
-###Flex
-* [Getting started with Adobe Flex](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_Adobe_Flex_p2.pdf) (PDF)
-* [Adobe Flex 2, Programming Actionscript 3.0](http://download.macromedia.com/pub/documentation/en/flex/2/prog_actionscript30.pdf) (PDF)
-
-
-###F Sharp
-* [F Sharp Programming](http://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
-* [Real World Functional Programming](http://msdn.microsoft.com/en-us/library/hh314518.aspx) (MSDN Chapters)
-* [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf) (PDF)
-* [F# Succinctly, SyncFusion](http://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) *(Just fill the fields with any values)*
-
-
-###Forth
-* [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
-* [Thinking Forth](http://thinking-forth.sourceforge.net/)
-* [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf) (PDF)
-* [A Beginner's Guide to Forth](http://hackershelf.com/book/482/a-beginners-guide-to-forth/)
-* [And so Forth...](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf) (PDF)
-* [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm)
-
-
-###Git
-* [Pro Git](http://git-scm.com/book)
-* [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)
-* [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
-* [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) (PDF)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
-* [Git Reference](http://www.gitref.org)
-* [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
-* [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
-
-
-###Go
-* [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
-* [Go by Example](https://gobyexample.com/)
-* [Learning Go](http://www.miek.nl/projects/learninggo/)
-* [An Introduction to Programming in Go](http://www.golang-book.com/)
-* [Network programming with Go](http://jan.newmarch.name/go/)
-
-
-###Grails
-* [Getting Started with Grails](http://www.infoq.com/minibooks/grails-getting-started)
-
-
-###Hadoop
-* [Hadoop Illuminated](http://hadoopilluminated.com/book.php) - Mark Kerzner & Sujee Maniyam
-* [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
-
-
-###Haskell
-* [A Haskell School of Music](http://haskell.cs.yale.edu/?post_type=publication&p=112) (PDF) (work in progress)
-* [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
-* [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
-* [Learn You a Haskell](http://learnyouahaskell.com/)
-* [Natural Language Processing for the Working Programmer](http://nlpwp.org/book/index.xhtml)
-* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929)
-* [Real World Haskell](http://book.realworldhaskell.org/)
-* [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
-* [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
-* [Haskell no panic](http://lisperati.com/haskell/)
-* [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/)
-* [Speeding Through Haskell](http://www.sthaskell.com/)
-
-
-###HTML / CSS
-* [Dive Into HTML5](http://diveintohtml5.info/) ([PDF](http://mislav.uniqpath.com/2011/10/dive-into-html5/))
-* [GA Dash](http://dash.generalassemb.ly)
-* [HTML Dog Tutorials](http://www.htmldog.com/)
-* [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
-* [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
-* [Learn CSS Layout](http://learnlayout.com/)
-
-
-###Icon
-* [The Implementation of the Icon Programming Language](http://www.cs.arizona.edu/icon/ibsale.htm)
-
-
-###IDL
-* [Getting Started with IDL](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/getting-started-IDL-v7.0.pdf)
-* [Guide to Using IDL for Astronomers](http://www.astro.virginia.edu/class/oconnell/astr511/IDLresources/IDLguide.html)
-
-
-###iOS
-* [iOS Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) *(Just fill the fields with any values)*
-
-
-###J
-* [Learning J by Roger Stokes- online](http://www.rogerstokes.free-online.co.uk/book.htm) || [pdf](http://www.elliscave.com/APL_J/Learning_J.pdf)
-* [J for C Programmers by Henry Rich- online](http://www.jsoftware.com/help/jforc/contents.htm) || [pdf](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20071003.pdf) || [word 2003 file](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=get&target=JforC20070929.doc)
-* [J Reference Card](http://www.jsoftware.com/jwiki/HenryRich?action=AttachFile&do=view&target=J602_RefCard_color_letter_current.pdf) (PDF)
-* [Brief Reference by Chris Burke and Clifford Reiter ](http://www.jsoftware.com/books/pdf/brief.pdf)(PDF)
-* [Computers and Mathematical Notation by Kenneth E Iverson](http://www.jsoftware.com/papers/camn.htm)
-* [Easy J by Linda Alvord, Norman Thomson - pdf](http://www.jsoftware.com/books/pdf/easyj.pdf) || [Word DOC](http://www.jsoftware.com/books/doc/easyj_doc.zip)
-* [Math for the Layman by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/mftl.zip) (zipped html+images)
-* [Exploring Math by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/expmath.pdf) (PDF)
-* [Arithmetic by Kenneth E Iverson ](http://www.jsoftware.com/books/pdf/arithmetic.pdf) (PDF)
-* [Calculus by Kenneth E Iverson ](http://www.jsoftware.com/books/pdf/calculus.pdf)(PDF)
-* [Concrete Math Companion  by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/cmc.pdf) (PDF)
-* [J Primer](http://www.jsoftware.com/help/primer/contents.htm)
-
-
-###Java
-* [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
-* [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/html/page9.html)
-* [Category wise tutorials - J2EE](http://www.mkyong.com/)
-* [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey
-* [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
-* [Java Application Development on Linux by Carl Albing and Michael Schwarz (PDF)](http://www.phptr.com/content/images/013143697X/downloads/013143697X_book.pdf) (PDF)
-* [The Java EE6 Tutorial](http://download.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
-* [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
-* [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer
-* [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
-* [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
-* [Thinking in Java](http://www.mindview.net/Books/TIJ/)
-
-
-###JavaScript
-* [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
-* [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
-* [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
-* [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
-* [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
-* [jQuery Fundamentals](http://jqfundamentals.com/book/) (starts with JavaScript basics)
-* [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
-* [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
-* [O'Reilly Programming JavaScript Applications - Early Release](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
-* [The JavaScript Tutorial](http://javascript.info/)
-* [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
-* [Javascript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Dev Docs](http://devdocs.io/)
-* [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com/)  - Noel Rappin
-
-####Backbone.js
-
-* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
-
-####D3.js
-
-* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
-
-####jQuery
-
-* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
-
-####Knockout.js
-* [Knockout.js Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs) (PDF, Kindle) *(Just fill the fields with any values)*
-
-####Node.js
-* [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
-* [Mixu's Node Book](http://book.mixu.net/node/)
-* [The Node Beginner Book](http://nodebeginner.org/)
-* [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
-
-
-###LaTeX
-* [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
-* [LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX)
-
-See also [TeX](#tex)
-
-
-###Linux
-* [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
-* [Getting Started with Ubuntu](http://ubuntu-manual.org/)
-* [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
-* [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/index.html)
-* [The Debian Administrator's Handbook](http://debian-handbook.info/)
-* [The Linux Command Line](http://linuxcommand.org/tlcl.php) (PDF)
-* [The Linux Development Platform (PDF)](http://www.informit.com/content/downloads/perens/0130091154.pdf) (PDF)
-* [Linux Device Drivers](http://lwn.net/Kernel/LDD3/) by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
-* [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
-* [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
-* [Secure Programming for Linux and Unix](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
-* [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
-* [Ubuntu Pocket Guide and Reference](http://www.ubuntupocketguide.com/index_main.html)
-* [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
-
-
-###Lisp
-* [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
-* [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/) - David S. Touretzky
-* [Common Lisp Quick Reference](http://clqr.boundp.org/)
-* [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/toc)
-* [Natural Language Processing in Lisp](http://www.informatics.susx.ac.uk/research/groups/nlp/gazdar/nlp-in-lisp/index.html)
-* [On Lisp](http://www.paulgraham.com/onlisp.html)
-* [Practical Common Lisp](http://www.gigamonkeys.com/book/)
-* [Successful Lisp: How to Understand and Use Common Lisp](http://psg.com/~dlamkins/sl/) - David Lamkins
-* [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
-
-
-###Lua
-* [Programming In Lua](http://www.lua.org/pil/) (for version 5)
-* [Programming Gems](http://www.lua.org/gems/)
-* [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/)
-
-
-###Mathematica
-* [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org/)
-* [Stephen Wolfram's The Mathematica Book](http://reference.wolfram.com/legacy/v5_2/)
-* [Wolfram Mathematica Tutorial Collection](http://www.wolfram.com/learningcenter/tutorialcollection/)
-
-
-###Maven
-* [Better Builds with Maven](http://www.maestrodev.com/better-build-maven)
-* [Maven by Example](http://www.sonatype.com/books/mvnex-book/reference/public-book.html)
-* [Maven: The Complete Reference](http://www.sonatype.com/books/mvnref-book/reference/public-book.html)
-* [Repository Management with Nexus](http://www.sonatype.com/books/nexus-book/reference/)
-* [Developing with Eclipse and Maven](http://www.sonatype.com/books/m2eclipse-book/reference/)
-
-
-###Mercurial
-* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
-* [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com/)
-
-
-###.NET (C# / VB / Nemerle / Visual Studio)
-* [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
-* [C# Programming - Wikibook](http://en.wikibooks.org/wiki/C_Sharp_Programming)
-* [C# Yellow Book](http://www.csharpcourse.com/) (intro to programming)
-* [Charles Petzold's .NET Book Zero](http://www.charlespetzold.com/dotnet/index.html)
-* [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
-* [Entity Framework](http://weblogs.asp.net/zeeshanhirani/archive/2008/12/05/my-christmas-present-to-the-entity-framework-community.aspx)
-* [Moving to Microsoft Visual Studio 2010](http://blogs.msdn.com/b/microsoft_press/archive/2010/09/13/free-ebook-moving-to-microsoft-visual-studio-2010.aspx)
-* [Nemerle](http://asaha.com/ebook/AMTQ2NjA-/Nemerle.pdf) (PDF)
-* [Threading in C#](http://www.albahari.com/threading/)
-* [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
-* [Visual Studio Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
-* [Under the Hood of .NET Memory Management](http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf) (PDF) *(RedGate, By Chris Farrell and Nick Harrison)*
-* [Practical Performance Profiling: Improving the efficiency of .NET code ](http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/practical-performance-profiling) *(RedGate, By Jean-Philippe Gouigoux)*
-* [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) *(RedGate, By Paul Glavich and Chris Farrell)*
-
-
-###NoSQL
-* [CouchDB: The Definitive Guide](http://books.couchdb.org/relax/)
-* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book)
-* [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
-* [The Little Riak Book](http://littleriakbook.com/)
-* [Graph Databases](http://graphdatabases.com/)
-
-
-###Oberon
-* [Programming in Oberon](http://www-old.oberon.ethz.ch/WirthPubl/ProgInOberon.pdf) (PDF)
-* [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf) (PDF)
-
-
-###Objective-C
-* [Programming With Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf) (PDF)
-* [Object-Oriented Programming with Objective-C](http://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/OOP_ObjC.pdf) (PDF)
-* [Objective-C Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) *(Just fill the fields with any values)*
-
-
-###OCaml
-* [Introduction to Objective Caml](http://courses.cms.caltech.edu/cs134/cs134b/book.pdf) (PDF)
-* [Objective Caml for Scientists (first chapter only)](http://www.ffconsultancy.com/products/ocaml_for_scientists/chapter1.html)
-* [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/)
-* [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
-* [Real World OCaml](https://realworldocaml.org/beta3/en/html/)
-* [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey and Nicholas Monje
-
-
-###Octave
-* [Octave Programming](http://en.wikibooks.org/wiki/Octave_Programming_Tutorial)
-
-
-###OpenSCAD
-* [OpenSCAD User Manual](http://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
-
-
-###Oracle Server
-* [Oracle's Guides and Manuals](http://tahiti.oracle.com/)
-
-
-###Oracle PL/SQL
-* [PL/SQL Language Reference](http://download.oracle.com/docs/cd/E11882_01/appdev.112/e17126/toc.htm)
-* [PL/SQL Packages and Types Reference](http://download.oracle.com/docs/cd/E11882_01/appdev.112/e16760/toc.htm)
-* [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession.aspx)
-
-
-###Parrot / Perl 6
-* [Using Perl 6](http://github.com/perl6/book/) (work in progress)
-
-
-###Perl
-* [Beginning Perl](http://www.perl.org/books/beginning-perl/)
-* [Embedding Perl in HTML with Mason](http://www.masonbook.com/book/)
-* [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.pdf) (PDF)
-* [Extreme Perl](http://www.extremeperl.org/bk/home)
-* [Higher-Order Perl](http://hop.perl.plover.com/book/)
-* [The Mason Book](http://www.masonbook.com/book/)
-* [Modern Perl 5](http://www.onyxneon.com/books/modern_perl/index.html)
-* [Perl & LWP](http://lwp.interglacial.com/index.html)
-* [Perl for the Web](http://www.globalspin.com/thebook/)
-* [Perl Free Online EBooks](http://linkmingle.com/list/13-plus-List-of-Free-Great-Perl-Books-available-Online-freebooksandarticles) (meta-list)
-* [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
-* [Practical mod\_perl](http://modperlbook.org/)
-* [Web Client Programming with Perl](http://oreilly.com/openbook/webclient/)
-
-
-###PHP
-* [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
-* [PHP: The Right Way](http://www.phptherightway.com/)
-* [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
-* [Symfony2](http://symfony.com/doc/current/book/index.html)
-* [Zend Framework: Survive the Deep End](http://www.survivethedeepend.com/)
-* Laravel Framework
-   * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
-   * [Code Happy](http://codehappy.daylerees.com/) (Laravel 3 Starter Book)
-   * [Code Bright](http://codebright.daylerees.com/) (Laravel 4 Starter Book)
-* Drupal Framework
-	* Drupal 6
-	* Drupal 7
-		*	[The Tiny Book of Rules](https://drupal.org/files/tiny-book-of-rules.pdf) (PDF)
-		*	[Master Drupal in 7 hours](http://dl.dropboxusercontent.com/u/54624702/Master%20Drupal%20in%207%20hours_v1.1.pdf) (PDF)
-	* Drupal 8
-* [PHP Internals Book](http://www.phpinternalsbook.com/)
-
-
-###PowerShell
-* [Mastering PowerShell](http://powershell.com/cs/blogs/ebook/)
-
-
-###Processing
-* [The Nature of Code: Simulating Natural Systems with Processing](http://natureofcode.com/book/)
-
-
-###Prolog
-* [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/advfrtop.htm)
-* [Applications of Prolog](http://bookboon.com/int/student/it/applications-of-prolog)
-* [Building Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
-* [Introduction to Prolog for Mathematicians](http://www.j-paine.org/prolog/mathnotes/files/pms/pms.html)
-* [Learn Prolog Now!](http://www.learnprolognow.org/)
-* [Logic, Programming and Prolog (2ed)](http://www.ida.liu.se/~ulfni/lpp/)
-* [Natural Language Processing Techniques in Prolog](http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/)
-* [Prolog Techniques](http://bookboon.com/int/student/it/prolog-techniques-applications-of-prolog)
-* [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html)
-* [Visual Prolog 7.2 for Tyros](http://download.pdc.dk/vip/72/books/tyros/tyros72.pdf) (PDF)
-
-
-###PostgreSQL
-* [Practical PostgreSQL](http://www.commandprompt.com/ppbook/)
-
-
-###Python
-* [Byte of Python](http://www.swaroopch.com/notes/Python)
-* [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
-* [Dive into Python](http://www.diveintopython.net/)
-* [Dive into Python 3](http://getpython3.com/diveintopython3/)
-* [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1)
-* [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart
-* [Hitchiker's Guide to Python!](http://docs.python-guide.org/en/latest/)
-* [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
-* [Introduction to Programming Using Python](http://python-ebook.blogspot.com) - Cody Jackson
-* [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart
-* [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
-* [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson
-* [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart
-* [Natural Language Processing with Python](http://www.nltk.org/book)
-* [Porting to Python 3: An In-Depth Guide](http://python3porting.com/)
-* [Python Bibliotheca](http://openbookproject.net/pybiblio/)
-* [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
-* [Python for Fun](http://www.openbookproject.net/py4fun/)
-* [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php)
-* [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
-* [Python Practice Book](http://anandology.com/python-practice-book/index.html)
-* [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - PDF
-* [Python Scientific Lecture Notes](http://scipy-lectures.github.io/)
-* [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
-* [The Art and Craft of Programming](http://beastie.cs.ua.edu/cs150/book/index.html)
-* [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey
-* [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
-
-####Django
-* [Djen of Django](http://agiliq.com/books/djenofdjango/)
-* [Django by Example](http://www.lightbird.net/dbe/)
-* [Tango With Django](http://www.tangowithdjango.com/book/)
-* [Deploy Django](http://www.deploydjango.com)
-
-####Flask
-* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-
-
-###R
-* [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) (PDF)
-* [The R Manuals](http://cran.r-project.org/manuals.html)
-* [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html/)
-* [R by example](http://www.mayin.org/ajayshah/KB/R/index.html)
-* [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) (PDF)
-* [Advanced R Programming](http://adv-r.had.co.nz/)
-* [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
-* [R for spatial analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
-* [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
-* [R language for Programmers](http://www.johndcook.com/R_language_for_programmers.html)
-
-
-###Racket
-* [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
-* [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
-
-
-###Ruby
-* [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
-* [Learn Ruby the hard way](http://ruby.learncodethehardway.org/book/)
-* [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
-* [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
-* [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
-* [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
-* [Ruby Best Practices](http://majesticseacreature.com/rbp-book/pdfs/rbp_1-0.pdf) (PDF)
-* [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
-* [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
-* [Code Academy Ruby](http://www.codecademy.com/tracks/ruby)
-* [How To Think Like a Computer Scientist: Learning With Ruby](http://mysite.verizon.net/hpassel/thinkruby/)
-* [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-* [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
-* [Ruby Learning](http://rubylearning.com/)
-* [TryRuby by CodeSchool](http://tryruby.org/)
-* [Learn X in Y minutes: Where X=ruby](http://learnxinyminutes.com/docs/ruby/)
-
-
-###Ruby on Rails
-* [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
-* [Objects on Rails](http://objectsonrails.com)
-* [Ruby on Rails Guides](http://guides.rubyonrails.org)
-* [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
-* [Rails for Zombies](http://railsforzombies.org/)
-* [Learn Ruby On Rails By Creating An App Right In Your Browser](http://www.codelearn.org/)
-
-
-###Rust
-* [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
-
-
-###Sage
-* [The Sage Manuals](http://sagemath.org/doc/)
-* [Sage for Newbies](http://sage.math.washington.edu/home/tkosan/newbies_book/)
-* [Sage for Power Users](http://modular.math.washington.edu/books/sagebook/sagebook.pdf) (PDF)
-
-
-###Scala
-* [Another tour of Scala](http://naildrivin5.com/scalatour)
-* [Effective Scala](http://twitter.github.com/effectivescala/)
-* [Exploring Lift](http://exploring.liftweb.net/) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
-* [Lift](http://github.com/tjweir/liftbook)
-* [Pro Scala: Monadic Design Patterns for the Web](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
-* [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)
-* [Programming Scala](http://programming-scala.labs.oreilly.com/index.html)
-* [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) (PDF)
-* [Scala School by Twitter](http://twitter.github.io/scala_school/)
-* [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
-* [Xtrace](http://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
-
-
-###Scheme
-* [Concrete Abstractions: An Introduction to Computer Science Using Scheme](https://gustavus.edu/+max/concrete-abstractions.html)
-* The Scheme Programming Language [Edition 3](http://www.scheme.com/tspl3/), [Edition 4](http://www.scheme.com/tspl4/)
-* [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html)
-* [Teach Yourself Scheme in Fixnum Days](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html)
-
-
-###Sed
-* [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
-
-
-###Smalltalk
-* [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk) (PDF)
-* [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents)
-* [Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
-* [Pharo by Example](http://pharobyexample.org/) (Smalltalk DE)
-* [Squeak By Example](http://www.squeakbyexample.org/) (Smalltalk IDE)
-
-
-###Subversion
-* [Subversion Version Control](http://www.phptr.com/content/images/0131855182/downloads/Nagel_book.pdf) (PDF)
-* [Version Control with Subversion](http://svnbook.red-bean.com/)
-
-
-###SQL (implementation agnostic)
-* [Developing Time-Oriented Database Applications in SQL](http://www.cs.arizona.edu/people/rts/publications.html)
-* [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com/)
-* [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
-
-###SQL Server
-* [Introducing Microsoft SQL Server 2008 R2](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#IntroducingMicrosoftSQLServer2008R2)
-* [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#IntroducingMicrosoftSQLServer2012)
-* [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#SQLServer2012Tutorials:ReportingServices)
-* [SQL Server Execution Plans](http://download.red-gate.com/ebooks/SQL/sql-server-execution-plans.pdf) (PDF) *(RedGate, By Grant Fritchey)*
-* [Defensive Database Programming ](http://download.red-gate.com/ebooks/SQL/defensive-database-programming.pdf) (PDF) *(RedGate, By Alex Kuznetsov)*
-* [SQL Server Execution Plans, Second Edition](http://download.red-gate.com/ebooks/SQL/eBOOK_SQLServerExecutionPlans_2Ed_G_Fritchey.pdf) (PDF) *(RedGate, By Grant Fritchey)*
-* [Inside the SQL Server Query Optimizer](http://www.red-gate.com/products/sql-development/sql-prompt/entrypage/sql-query-optimizer-ebook3) *(RedGate, By Benjamin Nevarez)*
-* [SQL Server Transaction Log Management](http://www.red-gate.com/community/books/sql-server-transaction-log-management) *(RedGate, By Tony Davis and Gail Shaw)*
-* [The Art of SQL Server FILESTREAM](http://www.red-gate.com/community/books/art-of-filestream.htm) *(RedGate, By Jacob Sebastian and Sven Aelterman)*
-* [SQL Server Concurrency: Locking, Blocking and Row Versioning](http://www.red-gate.com/community/books/sql-server-concurrency.htm) *(RedGate, By Kalen Delaney)*
-* [SQL Server Backup and Restore](http://www.red-gate.com/community/books/sql-server-backup-and-restore.htm) *(RedGate, By Shawn McGehee)*
-* [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba) *(RedGate, By Jonathan Kehayias and Ted Krueger)*
-* [SQL Server Hardware](http://www.red-gate.com/community/books/sql-server-hardware) *(RedGate, By Glenn Berry)*
-* [SQL Server Statistics](http://www.red-gate.com/community/books/sql-server-statistics.htm) *(RedGate, By Holger Schmeling)*
-* [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views.htm) *(RedGate, By Tim Ford and Louis Davidson)*
-* [Brad's Sure Guide to SQL Server Maintenance Plans](http://www.red-gate.com/community/books/sql-server-maintenance-plans) *(RedGate, By Brad McGehee)*
-* [Best of SQLServerCentral.com Vol 7](http://www.red-gate.com/community/books/ssc-7.htm) *(RedGate, By SQLServerCentral Authors)*
-* [Protecting SQL Server Data](http://www.red-gate.com/community/books/protecting-data.htm) *(RedGate, By John Magnabosco)*
-* [SQL Server Tacklebox](http://www.red-gate.com/community/books/sql-server-tacklebox) *(RedGate, By Rodney Landrum)*
-* [How to Become an Exceptional DBA](http://www.red-gate.com/community/books/exceptional-dba-book) *(RedGate, By Brad McGehee)*
-* [SQL Server Stumpers Vol.5](http://www.red-gate.com/community/books/sql-server-stumpers-v5.htm) *(RedGate, By SQLServerCentral Authors)*
-* [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler.htm) *(RedGate, By Brad McGehee)*
-
-
-###Teradata
-* [Teradata Books](http://www.info.teradata.com/)
-
-
-###TeX
-* [TeX for the Impatient](https://www.gnu.org/software/teximpatient/), by Paul Abrahams, Kathryn Hargreaves, and Karl Berry
-* [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) (PDF) by Christian Feursänger
-
-See also [LaTeX](#latex)
-
-###Theory
-* [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
-* [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
-
-
-###TypeScript
-* [TypeScript Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) *(Just fill the fields with any values)*
-
-
-###Vim
-* [A Byte of Vim](http://www.swaroopch.com/notes/Vim)
-* [Vim Recipes](http://ebooksgo.org/computer/vim-recipes.pdf) (PDF)
-* [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) (PDF) by Steve Oualline
-* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
-
-
-###Websphere
-* [Getting started with WebSphere](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_WASCE_p2.pdf) (PDF)
-
-
-###Windows Phone
-* [Programming Windows Phone 7](http://blogs.msdn.com/b/microsoft_press/archive/2010/10/28/free-ebook-programming-windows-phone-7-by-charles-petzold.aspx)
+﻿## 目录
+
+* [语言无关](#语言无关)
+  * [IDE](#ide)
+  * [MySQL](#mysql)
+  * [NoSQL](#nosql)
+  * [PostgreSQL](#postgresql)
+  * [Web](#web)
+  * [WEB服务器](#web服务器)
+  * [其它](#其它)
+  * [函数式概念](#函数式概念)
+  * [分布式系统](#分布式系统)
+  * [在线教育](#在线教育)
+  * [大数据](#大数据)
+  * [操作系统](#操作系统)
+  * [数据库](#数据库)
+  * [智能系统](#智能系统)
+  * [正则表达式](#正则表达式)
+  * [版本控制](#版本控制)
+  * [程序员杂谈](#程序员杂谈)
+  * [管理和监控](#管理和监控)
+  * [编程艺术](#编程艺术)
+  * [编译原理](#编译原理)
+  * [编辑器](#编辑器)
+  * [计算机图形学](#计算机图形学)
+  * [设计模式](#设计模式)
+  * [软件开发方法](#软件开发方法)
+  * [项目相关](#项目相关)
+* [语言相关](#语言相关)
+  * [Android](#android)
+  * [AWK](#awk)
+  * [C](#c)
+  * [C#](#c-sharp)
+  * [C++](#c-1)
+  * [CoffeeScript](#coffeescript)
+  * [Dart](#dart)
+  * [Elasticsearch](#elasticsearch)
+  * [Elixir](#elixir)
+  * [Erlang](#erlang)
+  * [Fortran](#fortran)
+  * [Golang](#golang)
+  * [Haskell](#haskell)
+  * [HTML / CSS](#html--css)
+  * [HTTP](#http)
+  * [iOS](#ios)
+  * [Java](#java)
+  * [JavaScript](#javascript)
+  * [LaTeX](#latex)
+  * [LISP](#lisp)
+  * [Lua](#lua)
+  * [Markdown](#markdown)
+  * [Node.js](#nodejs)
+  * [Perl](#perl)
+  * [PHP](#php)
+  * [Python](#python)
+  * [R](#r)
+  * [reStructuredText](#restructuredtext)
+  * [Ruby](#ruby)
+  * [Rust](#rust)
+  * [Scala](#scala)
+  * [Scheme](#scheme)
+  * [Shell](#shell)
+  * [Swift](#swift)
+  * [Vim](#vim)
+  * [Visual Prolog](#visual-prolog)
+
+
+## 语言无关
+
+### IDE
+
+* [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+
+
+### MySQL
+
+* [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+
+
+### NoSQL
+
+* [Disque 使用教程](http://disque.huangz.me)
+* [Redis 命令参考](http://redisdoc.com)
+* [Redis 设计与实现](http://redisbook.com)
+* [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
+* [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+* [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
+* [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
+
+
+### PostgreSQL
+
+* [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
+* [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
+* [PostgreSQL 9.4.4 中文文档](http://www.postgres.cn/docs/9.4/index.html)
+* [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
+* [PostgreSQL 9.6.0 中文文档](http://www.postgres.cn/docs/9.6/index.html)
+
+
+### Web
+
+* [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
+* [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
+* [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
+* [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
+* [Grunt中文文档](http://www.gruntjs.net)
+* [Gulp 入门指南](https://github.com/nimojs/gulp-book)
+* [gulp中文文档](http://www.gulpjs.com.cn/docs/)
+* [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
+* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
+* [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
+* [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+* [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
+* [一站式学习Wireshark](https://community.emc.com/thread/194901)
+* [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
+* [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
+* [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
+* [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
+* [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
+* [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+* [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
+* [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
+* [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
+
+
+### WEB服务器
+
+* [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
+* [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
+* [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/) (PDF版本，运维生存时间出品)
+
+
+### 其它
+
+* [OpenWrt智能、自动、透明翻墙路由器教程](https://softwaredownload.gitbooks.io/openwrt-fanqiang/content/)
+* [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
+* [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
+* [深入理解并行编程](http://ifeve.com/perfbook/)
+
+
+### 函数式概念
+
+* [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
+
+
+### 分布式系统
+
+* [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf) (PDF)
+
+
+### 在线教育
+
+* [51CTO学院](http://edu.51cto.com)
+* [Codecademy](https://www.codecademy.com/?locale_code=zh)
+* [CodeSchool](https://www.codeschool.com)
+* [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
+* [Learn X in Y minutes](https://learnxinyminutes.com) (数十种语言快速入门教程)
+* [shiyanlou](https://www.shiyanlou.com)
+* [TeamTreeHouse](https://teamtreehouse.com)
+* [Udacity](https://www.udacity.com)
+* [xuetangX](https://www.xuetangx.com)
+* [慕课网](http://www.imooc.com/course/list) (丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源)
+* [极客学院](http://www.jikexueyuan.com)
+* [汇智网](http://www.hubwiz.com)
+* [计蒜客](http://www.jisuanke.com)
+
+
+### 大数据
+
+* [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
+* [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
+* [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
+* [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
+
+
+### 操作系统
+
+* [Debian 参考手册 ](http://man.chinaunix.net/linux/debian/reference/reference.zh-cn.html)
+* [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
+* [Docker中文指南](https://github.com/widuu/chinese_docker)
+* [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
+* [FreeBSD 使用手册](http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/)
+* [FreeRADIUS新手入门](http://freeradius.akagi201.org)
+* [Linux Documentation (中文版)](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
+* [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
+* [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
+* [Linux 系统高级编程](http://sourceforge.net/projects/elpi/)
+* [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+* [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
+* [Ubuntu 参考手册 ](http://wiki.ubuntu.org.cn/UbuntuManual)
+* [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
+* [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
+* [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+* [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://tinylab.gitbooks.io/elinux/content/zh/)
+* [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
+* [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
+* [鸟哥的 Linux 私房菜 基础学习篇](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
+* [鸟哥的 Linux 私房菜 服务器架设篇](http://cn.linux.vbird.org/linux_server/)
+
+
+### 数据库
+
+* [Redis 设计与实现](http://redisbook.com)
+* [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
+
+
+### 智能系统
+
+* [一步步搭建物联网系统](https://github.com/phodal/designiot)
+
+
+### 正则表达式
+
+* [正则表达式-菜鸟教程](http://www.runoob.com/regexp/regexp-tutorial.html)
+* [正则表达式30分钟入门教程](https://web.archive.org/web/20161119141236/http://deerchao.net:80/tutorials/regex/regex.htm)
+
+
+### 版本控制
+
+* [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+* [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
+* [Git Community Book 中文版](http://gitbook.liuhui998.com)
+* [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+* [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+* [Git 参考手册](http://gitref.justjavac.com)
+* [Github帮助文档](https://github.com/waylau/github-help)
+* [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/)
+* [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) （本文由 [@廖雪峰](http://weibo.com/liaoxuefeng) 创作，如果觉得本教程对您有帮助，可以去 [iTunes](https://itunes.apple.com/cn/app/git-jiao-cheng/id876420437) 购买）
+* [Got GitHub](https://github.com/gotgit/gotgithub)
+* [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+* [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/)
+* [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
+* [Pro Git](https://git-scm.com/book/zh/v2)
+* [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
+* [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
+* [学习 Git 分支](http://pcottle.github.io/learnGitBranching/) (点击右下角按钮可切换至简体及正体中文)
+* [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
+* [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
+
+
+### 程序员杂谈
+
+* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
+
+
+### 管理和监控
+
+* [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
+* [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
+* [ELKstack 中文指南](http://kibana.logstash.es)
+* [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
+* [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+* [Puppet 2.7 Cookbook 中文版](https://www.gitbook.com/book/wizardforcel/puppet-27-cookbook/details)
+
+
+### 编程艺术
+
+* [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+* [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
+* [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
+* [编程入门指南](http://www.kancloud.cn/kancloud/intro-to-prog/52592)
+
+
+### 编译原理
+
+* [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+
+
+### 编辑器
+
+* [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
+* [Vim中文文档](https://github.com/vimcn/vimcdoc)
+* [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
+* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com)
+
+
+### 计算机图形学
+
+* [LearnOpenGL CN](https://learnopengl-cn.github.io)
+* [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
+
+
+### 设计模式
+
+* [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
+* [图说设计模式](https://github.com/me115/design_patterns)
+
+
+### 软件开发方法
+
+* [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) (《Functional Programming For The Rest of Us》中文版)
+* [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
+
+
+### 项目相关
+
+* [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+* [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
+* [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
+* [Joel谈软件](https://web.archive.org/web/20170616013024/http://local.joelonsoftware.com/wiki/Chinese_(Simplified))
+* [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
+* [开源软件架构](http://www.ituring.com.cn/book/1143)
+* [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
+* [約耳談軟體(Joel on Software)](https://web.archive.org/web/20170615232349/http://local.joelonsoftware.com/wiki/首頁)
+* [编码规范](https://github.com/ecomfe/spec)
+* [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
+* [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
+
+
+## 语言相关
+
+### Android
+
+* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
+* [Android Note(开发过程中积累的知识点)](https://github.com/CharonChui/AndroidNote)
+* [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298)
+* [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
+* [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
+* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+* Google Material Design 正體中文版 ([译本一](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
+* [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
+* [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
+
+
+### AWK
+
+* [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+* [awk程序设计语言](https://github.com/wuzhouhui/awk)
+
+
+### C
+
+* [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
+* [C/C++ 学习教程](http://doc.lellansin.com)
+* [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
+* [新概念 C 语言教程](https://github.com/limingth/NCCL)
+
+
+### C Sharp
+
+* [精通C#(第6版) ](http://book.douban.com/subject/24827879/)
+
+
+### C++
+
+* [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
+* [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
+* [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
+* [C/C++ Primer](https://github.com/andycai/cprimer) - @andycai
+* [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
+* [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
+* [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
+* [C++ 基础教程](http://www.prglab.com/cms/)
+* [C++ 并发编程(基于C++11)](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/content/)
+* [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
+* [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
+* [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
+* [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+* [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
+* [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
+* [ZMQ 指南](https://github.com/anjuke/zguide-cn)
+* [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
+* [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
+* [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf) (PDF)
+
+
+### CoffeeScript
+
+* [CoffeeScript 中文](http://coffee-script.org)
+* [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
+
+
+### Dart
+
+* [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
+
+
+### Elasticsearch
+
+* [Elasticsearch 权威指南](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
+* [ELKstack 中文指南](http://kibana.logstash.es)
+* [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+
+
+### Elixir
+
+* [Elixir Getting Started 中文翻译](https://github.com/Ljzn/ElixrGettingStartedChinese)
+* [Elixir 编程语言教程](https://elixirschool.com/cn/) (Elixir School)
+* [Elixir元编程与DSL 中文翻译](https://github.com/Ljzn/MetaProgrammingInElixirChinese)
+* [Phoenix 框架中文文档](https://mydearxym.gitbooks.io/phoenix-doc-in-chinese/content/)
+
+
+### Erlang
+
+* [Erlang 并发编程](https://github.com/liancheng/cpie-cn) (《Concurrent Programming in Erlang (Part I)》中文版)
+
+
+### Fortran
+
+* [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
+
+
+### Golang
+
+* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
+* [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
+* [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
+* [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
+* [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) (《 [The Little Go Book](https://github.com/karlseguin/the-little-go-book) 》中文版)
+* [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
+* [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+* [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
+* [Go实战开发](https://github.com/astaxie/Go-in-Action)
+* [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
+* [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
+* [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
+* [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
+* [学习Go语言](http://mikespook.com/learning-go/)
+* [神奇的 Go 语言](http://go.ctolib.com/docs/read/magical-go-c-index.html)
+
+
+### Groovy
+
+* [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
+
+
+### Haskell
+
+* [Haskell 趣学指南](http://learnyoua.haskell.sg)
+* [Real World Haskell 中文版](http://cnhaskell.com)
+
+
+### HTML / CSS
+
+* [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
+* [CSS参考手册](http://css.doyoe.com)
+* [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
+* [HTML5 教程](http://www.w3school.com.cn/html5/)
+* [HTML和CSS编码规范](http://codeguide.bootcss.com)
+* [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
+* [前端代码规范](http://alloyteam.github.io/CodeGuide/) (腾讯 AlloyTeam 团队)
+* [学习CSS布局](http://zh.learnlayout.com)
+* [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+
+
+### iOS
+
+* [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
+* [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
+* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+* [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+* [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
+* [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
+
+
+### Java
+
+* [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
+* [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
+* [Apache Shiro 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
+* [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+* [H2 Database 教程](https://github.com/waylau/h2-database-doc)
+* [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
+* [Java 编码规范](https://github.com/waylau/java-code-conventions)
+* [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
+* [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
+* [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
+* [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
+* [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
+* [REST 实战](https://github.com/waylau/rest-in-action)
+* [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
+* [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
+* [用jersey构建REST服务](https://github.com/waylau/RestDemo)
+
+
+### Javascript
+
+* [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
+* AngularJS
+  * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
+  * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
+  * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
+  * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
+  * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
+* backbone.js
+  * [backbone.js中文文档](http://www.css88.com/doc/backbone/)
+  * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
+  * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
+* [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+* CoffeeScript
+  * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
+* D3.js
+  * [Learning D3.JS](http://d3.decembercafe.org) (Created by 十二月咖啡馆)
+  * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
+  * [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
+  * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com) (作者：阮一峰)
+* ExtJS
+  * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
+* [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
+* [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+* impress.js
+  * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
+* [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
+* [Javascript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
+* [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
+* [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) “JavaScript patterns”中译本
+* [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
+* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
+* [Javascript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
+* jQuery
+  * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
+  * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
+* Meteor
+  * [Discover Meteor](http://zh.discovermeteor.com)
+* Node.js
+  * [express.js 中文文档](http://expressjs.jser.us)
+  * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
+  * [koa 中文文档](https://github.com/guo-yu/koa-guide)
+  * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
+  * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
+  * [Node.js Fullstack《從零到一的進撃》](https://github.com/jollen/nodejs-fullstack-lessons)
+  * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+  * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
+  * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
+  * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+  * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+  * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
+  * [JavaScript全栈工程师培训材料](http://nodejs.ctolib.com/docs/sfile/jstraining/engineering.html)
+* React.js
+  * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
+  * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
+  * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
+  * [React.js 中文文档](https://discountry.github.io/react/)
+  * [React.js 入门教程](http://fraserxu.me/intro-to-react/)
+* Vue.js
+  * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN) (深入JavaScript语言核心机制的系列图书)
+* Zepto.js
+  * [Zepto.js 中文文档](http://css88.com/doc/zeptojs_api)
+* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com) 翻译，原始地址无法打开，所以此处地址为我博客上的备份)
+* [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
+* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+
+
+### LaTeX
+
+* [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)
+* [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
+* [大家來學 LaTeX](https://github.com/49951331/graduate-project-102pj/blob/master/docs/latex123.pdf) (PDF)
+
+
+### LISP
+
+* [ANSI Common Lisp 中文翻译版](http://acl.readthedocs.org/en/latest/)
+* [Common Lisp 高级编程技术](http://www.ituring.com.cn/minibook/862) (《On Lisp》中文版)
+
+
+### Lua
+
+* [Lua 5.3 参考手册](http://www.w3cschool.cc/manual/lua53doc/contents.html)
+
+
+### Markdown
+
+* [Markdown 快速入门](http://wowubuntu.com/markdown/basic.html)
+* [Markdown 简明教程](http://www.jianshu.com/p/7bd23251da0a)
+* [Markdown 语法说明](http://wowubuntu.com/markdown/)
+* [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
+
+
+### Node.js
+
+* [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
+* [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details) （社区翻译）
+* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/) 阿里出品，很好的入门资料
+
+
+### Perl
+
+* [Master Perl Today](https://github.com/fayland/chinese-perl-book)
+* [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
+* [Perl 5 教程](https://web.archive.org/web/20150326073235/http://net.pku.edu.cn/~yhf/tutorial/perl/perl.html)
+* [Perl 教程](http://www.yiibai.com/perl)
+
+
+### PHP
+
+* [Composer中文文档](http://docs.phpcomposer.com)
+* [Laravel5.4中文文档](http://d.laravel-china.org/docs/5.4)
+* [Phalcon7中文文档](http://www.myleftstudio.com)
+* [PHP 之道](http://wulijun.github.io/php-the-right-way/)
+* [PHP中文手册](http://php.net/manual/zh/)
+* [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
+* [PHP标准规范中文版](https://psr.phphub.org)
+* [Symfony2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
+* [Yii2中文文档](http://www.yiichina.com/doc/guide/2.0)
+* [深入理解 PHP 内核](http://www.php-internals.com/book/)
+
+
+### Python
+
+* [Django 1.8 中文文档](http://python.usyiyi.cn/documents/django_182/index.html)
+* [Django book 2.0](http://djangobook.py3k.cn/2.0/)
+* [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
+* [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) (作者：David Beazley, Brian K.Jones 翻译：熊能)
+* [Python 中文学习大本营](http://www.pythondoc.com)
+* [Python之旅](http://funhacks.net/explore-python) (作者：Ethan)
+* [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+* [像计算机科学家一样思考Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) (中英对照版 作者：Allen B. Downey 翻译：大胖哥)
+* [深入 Python 3](https://github.com/jiechic/diveintopython3)
+* [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
+* [简明 Python 教程](https://bop.molun.net) (作者：Swaroop C H 译者：沈洁元、漠伦)
+
+
+### R
+
+* [153分钟学会 R](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf) (PDF)
+* [R 导论](http://cran.r-project.org/doc/contrib/Ding-R-intro_cn.pdf) (《An Introduction to R》中文版) (PDF)
+* [用 R 构建 Shiny 应用程序](http://yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版)
+* [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf) (PDF)
+
+
+### reStructuredText
+
+* [reStructuredText 入门](http://www.pythondoc.com/sphinx/rest.html)
+* [reStructuredText 简明教程](http://jwch.sdut.edu.cn/book/rst.htm://web.archive.org/web/20170122080708/http://jwch.sdut.edu.cn/book/rst.html)
+
+
+### Ruby
+
+* [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
+* [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
+* [Ruby on Rails 指南](http://guides.ruby-china.org)
+* [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
+* [Sinatra](http://www.sinatrarb.com/intro-zh.html)
+* [笨方法学 Ruby](http://lrthw.github.io)
+
+
+### Rust
+
+* [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
+* [Rust 语言学习笔记](https://github.com/photino/rust-notes)
+* [RustPrimer](https://github.com/rustcc/RustPrimer)
+* [通过例子学习 Rust](https://github.com/rustcc/rust-by-example/)
+
+
+### Scala
+
+* [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)
+* [Scala 初学者指南](https://www.gitbook.com/book/windor/beginners-guide-to-scala/details) (The Neophyte's Guide to Scala)
+* [Scala 课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+
+
+### Scheme
+
+* [Scheme 入门教程](http://deathking.github.io/yast-cn/) (《Yet Another Scheme Tutorial》中文版)
+
+
+### Shell
+
+* [shell-book](http://me.52fhy.com/shell-book/)
+* [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+* [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+* [The Linux Command Line 中文版](http://billie66.github.io/TLCL/book/zh)
+
+
+### Swift
+
+* [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
+
+
+### Vim
+
+* [Vim Manual(中文版)](http://man.chinaunix.net/newsoft/vi/doc/help.html)
+* [大家來學 VIM](http://www.study-area.org/tips/vim/index.html)
+
+
+### Visual Prolog
+
+* [Visual Prolog 7初学指南](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog_in_Chinese)
+* [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)

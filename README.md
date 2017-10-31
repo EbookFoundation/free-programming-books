@@ -51,6 +51,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Free Online Courses
 + [English](/free-courses-en.md)
++ [German](/free-courses-de.md)
 + [Russian](/free-courses-ru.md)
 
 

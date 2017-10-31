@@ -148,9 +148,6 @@
 ### Python
 
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
-* [Python-Kurs (Python 2)](https://www.python-kurs.eu/kurs.php)
-* [Python-Kurs (Python 3)](https://www.python-kurs.eu/python3_kurs.php)
-
 
 
 ### Ruby on Rails

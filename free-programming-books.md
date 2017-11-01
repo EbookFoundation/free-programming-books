@@ -1408,6 +1408,7 @@
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Directory of free Javascript ebooks](https://github.com/revolunet/JSbooks)
 
 
 #### Javascript Frameworks

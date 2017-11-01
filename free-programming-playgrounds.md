@@ -13,6 +13,7 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [SQL](#sql)
@@ -93,6 +94,11 @@
 
 * [Codepad](http://codepad.org)
 * [Pyfiddle](https://pyfiddle.io)
+
+
+### R
+
+* [R-Fiddle](http://www.r-fiddle.org)
 
 
 ### Ruby

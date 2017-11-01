@@ -513,7 +513,6 @@
 * [Principles of Computer System Design ](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)
 * [Procedural Content Generation in Games](http://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
 * [Programming with Unicode](http://unicodebook.readthedocs.org)
-* [Project Oberon](http://www.ethoberon.ethz.ch) (PDF)
 * [Real-World Maintainable Software](http://www.oreilly.com/programming/free/real-world-maintainable-software.csp) *(Just fill the fields with any values)*
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
@@ -1652,9 +1651,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Oberon
 
-* [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/)
-* [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf) (PDF)
-* [Programming in Oberon](http://www.ethoberon.ethz.ch) (PDF)
+* [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) - Niklaus Wirth (PDF)
+* [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf) - Hanspeter Mössenböck (PDF)
+* [Programming in Oberon](http://www.ethoberon.ethz.ch/WirthPubl/ProgInOberon.pdf) - Niklaus Wirth (PDF)
 
 
 ### Objective-C

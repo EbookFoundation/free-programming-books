@@ -74,6 +74,7 @@ Free Podcasts and Screencasts:
 + [English](/free-podcasts-screencasts-en.md)
 + [Portuguese (Brazil)](/free-podcasts-screencasts-pt_BR.md)
 + [Russian](/free-podcasts-screencasts-ru.md)
++ [Swedish](/free-podcasts-screencasts-se.md)
 
 
 ### Programming Playgrounds

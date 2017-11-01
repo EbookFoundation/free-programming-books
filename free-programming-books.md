@@ -1651,9 +1651,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### Oberon
 
-* [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/)
-* [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf) (PDF)
-* [Programming in Oberon](http://www.ethoberon.ethz.ch/WirthPubl/) (PDF)
+* [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) - Niklaus Wirth (PDF)
+* [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf) - Hanspeter Mössenböck (PDF)
+* [Programming in Oberon](http://www.ethoberon.ethz.ch/WirthPubl/ProgInOberon.pdf) - Niklaus Wirth (PDF)
 
 
 ### Objective-C

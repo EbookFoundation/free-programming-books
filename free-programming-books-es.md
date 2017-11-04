@@ -48,11 +48,11 @@
 ### 0 - Meta-Listas
 
 * [Aprender Python](http://python.org.ar/wiki/AprendiendoPython) - Python Argentina
-* [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net/) - Jorge Sánchez
+* [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (Github)
-* [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es/) - Javier García Escobedo
+* [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
 * [Gitbook - Libros útiles en español](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--) (Github)
-* [Múltiples Cursos y Enlaces de Tecnología Informática](http://elvex.ugr.es/) - Fernando Berzal
+* [Múltiples Cursos y Enlaces de Tecnología Informática](http://elvex.ugr.es) - Fernando Berzal
 * [OpenLibra - Biblioteca recopilatorio de libros libres](https://openlibra.com/es/collection)
 * [Universidad Autónoma de Mexico - Plan (2016)](http://fcasua.contad.unam.mx/apuntes/interiores/plan2016_1.php)
 
@@ -72,10 +72,10 @@
 
 #### Base de Datos
 
-* [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) - Univ. Alicante (PDF)
-* [Apuntes Básicas de SQL](https://openlibra.com/es/book/download/apuntes-basicos-de-sql) - Unai Estébanez (PDF)
 * [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2) - Mercedes Marqués (PDF)
+* [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) - Univ. Alicante (PDF)
 * [Base de Datos (2005)](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Mercedes Marqués (PDF)
+* [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2) - Mercedes Marqués (PDF)
 * [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - Aramburu & Sanz Blasco (descarga directa)
 * [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos) (PDF)
 
@@ -123,14 +123,14 @@
 
 ### Android
 
-* [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
 * [Curso Android](http://www.hermosaprogramacion.com/android) (HTML)
+* [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
 
 
 ### C
 
 * [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
-* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf) (descarga directa)
+* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf) (PDF) (descarga directa)
 
 
 ### C++
@@ -199,8 +199,8 @@
 * [Notas de Introducción al Lenguaje de Programación Java (2004)](http://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona (PDF)
 * [Prácticas d Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) (PDF)
 * [Preparando JavaSun 6 - OCPJP6](https://github.com/PabloReyes/ocpjp-resumen-espanol#ocpjp6-resumen-español) - Pablo Reyes Almagro (Github) [(PDF)](https://github.com/PabloReyes/ocpjp-resumen-espanol/blob/master/OCPJP6%20Resumen.pdf)
-* [Programación en Java](http://elvex.ugr.es/decsai/java/) (HTML)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/cm/uploaded_files/publicaciones/476_cid03-Pensar%20la%20computacion.pdf) (PDF)
+* [Programación en Java](http://elvex.ugr.es/decsai/java/) (HTML)
 * [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) (PDF) [(ePub, Mobi, HTML)](https://picodotdev.github.io/blog-bitix/2014/02/libro-sobre-desarrollo-de-aplicaciones-con-apache-tapestry/)
 * [Tutorial básico de Java EE](http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) (PDF)
 * [Tutorial introducción a Maven 3](http://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) - Erick Camacho (PDF)
@@ -239,7 +239,6 @@
 * [Tutorial para Principiantes en Node.js](http://www.nodebeginner.org/index-es.html)
 
 
-
 ### LaTeX
 
 * [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf) (PDF)
@@ -249,8 +248,8 @@
 
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
 * [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) (descarga directa)
-* [El manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now/)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) (WikiLibros)
+* [El manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now/)
 
 
 ### .NET (C# / Visual Studio)
@@ -290,7 +289,7 @@
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/) (HTML)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html) (HTML)
-* [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (descarga directa)
+* [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (PDF) (descarga directa)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) (HTML)
 * [Notas sobre el lenguaje Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/at_download/file) (descarga directa)

@@ -50,7 +50,7 @@
 * [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-) - Univ. de Cataluña
 
 
-### Ciencias de la Computación - POR ORGANIZAR ALFABETICAMENTE - 
+### Ciencias de la Computación
   
 * [Arquitéctura e ingeniería de computadores](https://ocw.unican.es/course/view.php?id=162) - Univ. de Cantabria
 * [Arquitecturas Distribuidas (2012)](http://ocw.bib.upct.es/course/view.php?id=137) - Univ. Politécnica de Cartagena
@@ -203,7 +203,7 @@
 * [Introducción a Xampp y MySql (2012)](https://ocw.ua.es/es/ingenieria-y-arquitectura/introduccion-a-xampp-y-mysql-2012.html) - Univ. de Alicante
 
 
-### Sistemas de gestión de contenidos "cms"
+### Sistemas de gestión de contenidos 'CMS' 
 
 * [Aprende Wordpress de forma sencilla](https://miriadax.net/web/aprende-wordpress-de-forma-sencilla-2-edicion-) - Telefónica Universitas
 * [Gestión de contenidos web a través del CMS Drupal (2009)](http://ocw.um.es/transversales/gestion-de-contenidos-web-a-traves-del-cms-drupal) - Univ. de Murcia

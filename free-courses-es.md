@@ -36,8 +36,8 @@
 
 * [Almacenamiento de datos No Relacionales](https://ocw.unican.es/course/view.php?id=231) - Univ. de Cantabria
 * [Bases de Datos - Curso Completo (2014)](http://ocw.uji.es/curso/317342) - Univ. Castellón
-* [Bases de Datos (2012)](http://ocw.uji.es/curso/4858) - Univ. de Castellón
 * [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163) - Univ. de Cantabria
+* [Bases de Datos (2012)](http://ocw.uji.es/curso/4858) - Univ. de Castellón
 * [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html) - Univ. de Alicante
 
 
@@ -112,8 +112,8 @@
 * [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949) - Univ. de Castellón (Jaime I)
 * [Procesadores de lenguaje (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/procesadores-de-lenguaje-2006.html) - Univ. de Alicante
 * [Procesadores de Lenguaje (2012)](http://ocw.uji.es/curso/5180) - Univ. de Castellón (Jaime I)
-* [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56) - Univ. de Cádiz
 * [Procesadores de lenguajes -enfocado en Perl- ](https://campusvirtual.ull.es/ocw/course/view.php?id=45) - Univ. de La Laguna
+* [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56) - Univ. de Cádiz
 
 
 ### Programación
@@ -121,8 +121,8 @@
 * [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31) - Univ. de Cádiz
 * [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74) - Univ. de Cádiz
 * [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java) - Univ. de los Andes
-* [Introducción a la programación. Descubre el lenguaje de la era digital](https://miriadax.net/web/introduccion-a-la-programacion-descubre-el-lenguaje-de-la-era-digital-5-edicion-/) - Telefónica Universitas
 * [Introducción a la programación para ciencias e ingieniería](https://miriadax.net/web/introduccion-programacion-ciencias-ingenieria-2edicion) - Univ. Politécnica de Madrid
+* [Introducción a la programación. Descubre el lenguaje de la era digital](https://miriadax.net/web/introduccion-a-la-programacion-descubre-el-lenguaje-de-la-era-digital-5-edicion-/) - Telefónica Universitas
 * [Introducción a la programación, Python I](https://www.coursera.org/learn/aprendiendo-programar-python) - Univ. Católica de Chile
 * [Introducción a Perl] (2012(https://campusvirtual.ull.es/ocw/course/view.php?id=43) - Univ. de La Laguna
 * [Introducción al desarrollo web - iDesWeb](https://miriadax.net/web/introduccion_desarrollo_web) - Univ. de Alicante
@@ -132,11 +132,10 @@
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html) - Univ. de Alicante
 * [Programación en lenguaje ADA (2010)](https://ocw.unican.es/course/view.php?id=185) - Univ. de Cantabria
 * [Programación en lenguaje Java](http://ocw.uc3m.es/historico/programacion-java) - Univ. Carlos III
-* [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=26) - Univ. de Cantabria
 * [Programación en lenguaje Java (2009)](https://ocw.unican.es/course/view.php?id=217) - Univ. de Cantabria
-* [Programación orientada a objetos](https://www.edx.org/es/course/programacion-orientada-objetos-mexicox-upevipn02x) - Ministerio de Educación de México
+* [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=26) - Univ. de Cantabria
 * [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44) - Univ. de La Laguna
-
+* [Programación orientada a objetos](https://www.edx.org/es/course/programacion-orientada-objetos-mexicox-upevipn02x) - Ministerio de Educación de México
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html) - Univ. de Alicante
 * [Tecnologías de la Programación (2009)](http://ocw.um.es/ingenierias/tecnologia-de-la-programacion) - Univ. de Murcia
 
@@ -191,7 +190,6 @@
 * [Garantía y seguridad en sistemas y redes (2016)](https://ocw.unican.es/course/view.php?id=16) - Univ. de Cantabria
 * [Seguridad en Redes de Comunicación (2015)](https://ocw.unican.es/course/view.php?id=28) - Univ. de Cantabria
 * [Seguridad en Redes de Comunicaciones (2011)](http://ocw.bib.upct.es/course/view.php?id=102) - Univ. de Cartagena 
-* [Seguridad en Redes (2008)](http://ocw.bib.upct.es/course/view.php?id=85) - Univ. de Cartagena
 * [Seguridad en Sistemas Informáticos (2009)](http://ocw.uv.es/ingenieria-y-arquitectura/seguridad/Course_listing) - Univ. de Valencia
 * [Seguridad informática práctica](sis://miriadax.net/web/seguridad-informatica-practica) - Univ. de Valencia
 * [Seguridad informática y competencias profesionales](https://ocw.uca.es/course/view.php?id=55) - Univ. de Cádiz

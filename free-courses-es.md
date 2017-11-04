@@ -122,8 +122,8 @@
 * [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74) - Univ. de Cádiz
 * [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java) - Univ. de los Andes
 * [Introducción a la programación para ciencias e ingieniería](https://miriadax.net/web/introduccion-programacion-ciencias-ingenieria-2edicion) - Univ. Politécnica de Madrid
-* [Introducción a la programación. Descubre el lenguaje de la era digital](https://miriadax.net/web/introduccion-a-la-programacion-descubre-el-lenguaje-de-la-era-digital-5-edicion-/) - Telefónica Universitas
 * [Introducción a la programación, Python I](https://www.coursera.org/learn/aprendiendo-programar-python) - Univ. Católica de Chile
+* [Introducción a la programación. Descubre el lenguaje de la era digital](https://miriadax.net/web/introduccion-a-la-programacion-descubre-el-lenguaje-de-la-era-digital-5-edicion-/) - Telefónica Universitas
 * [Introducción a Perl] (2012(https://campusvirtual.ull.es/ocw/course/view.php?id=43) - Univ. de La Laguna
 * [Introducción al desarrollo web - iDesWeb](https://miriadax.net/web/introduccion_desarrollo_web) - Univ. de Alicante
 * [Introducción al tratamiento de datos con R y Rstudio](https://miriadax.net/web/aprende-r-rstudio) - Univ. de las Islas Baleares
@@ -177,15 +177,15 @@
 * [Domótica (2009)](http://ocw.um.es/ingenierias/domotica) - Univ. de Murcia
 * [Inteligencia artificial: Clips (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=112) - Univ. de La Laguna
 * [Inteligencia artificial: Prolog (2011)](https://campusvirtual.ull.es/ocw/course/view.php?id=104) - Univ. de La Laguna
-* [Internet de las Cosas.Desarrollar soluciones en 'FIWARE'](https://miriadax.net/web/internet-de-las-cosas-como-desarrollar-soluciones-en-fiware) - Univ. Tecnológica de Chile*
-* [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-2-edicion-) *Telefónica Universitas*
+* [Internet de las Cosas.Desarrollar soluciones en 'FIWARE'](https://miriadax.net/web/internet-de-las-cosas-como-desarrollar-soluciones-en-fiware) - Univ. Tecnológica de Chile
+* [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-2-edicion-) - Telefónica Universitas
 * [Ondas Electromagnéticas (2014)](http://ocw.bib.upct.es/course/view.php?id=136) - Univ. de Cartagena
 * [Robots autónomos (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/robots-autonomos-2006.html) - Univ. de Alicante
 
 
 ### Seguridad
 
-* [Ciberseguridad. Entender ataques para desplegar contramedidas](https://miriadax.net/web/ciberseguridad-entender-los-ataques-para-desplegar-contramedidas-2-edicion-) - Univ. Rey Juan Carlos*
+* [Ciberseguridad. Entender ataques para desplegar contramedidas](https://miriadax.net/web/ciberseguridad-entender-los-ataques-para-desplegar-contramedidas-2-edicion-) - Univ. Rey Juan Carlos
 * [Derecho e Internet (2011)](http://ocw.uv.es/ciencias-sociales-y-juridicas/plant/Course_listing) - Univ. de Valencia
 * [Garantía y seguridad en sistemas y redes (2016)](https://ocw.unican.es/course/view.php?id=16) - Univ. de Cantabria
 * [Seguridad en Redes de Comunicación (2015)](https://ocw.unican.es/course/view.php?id=28) - Univ. de Cantabria
@@ -209,9 +209,9 @@
 
 ### Técnico de Software & Hardware
 
-* [Codificación de audio: más allá del MP3](https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3-upvalenciax-mp3201x-0) - Univ. Politécnica de Valencia*
+* [Codificación de audio: más allá del MP3](https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3-upvalenciax-mp3201x-0) - Univ. Politécnica de Valencia
 * [Compresión de vídeo (2017)](https://ocw.unican.es/course/view.php?id=13) - Univ. de Cantabria
-* [Conectando el futuro con fibra óptica](https://miriadax.net/web/conectando-el-futuro-con-fibra-optica-5-edicion-_prueba) *Telefónica Universitas*
+* [Conectando el futuro con fibra óptica](https://miriadax.net/web/conectando-el-futuro-con-fibra-optica-5-edicion-_prueba) - Telefónica Universitas
 * [Desarrollo de sistemas de información (2013)](https://ocw.unican.es/course/view.php?id=99) - Univ. de Cantabria
 * [Sistemas de Información y ordenadores, Parte 1: Sistemas de información para la empresa](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-1x) - Univ. de Valencia
 * [Sistemas de Información y ordenadores, Parte 2: Hardware](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-2x) - Univ. de Valencia
@@ -219,8 +219,8 @@
 * [Sistemas de Información y ordenadores, Parte 4: Programación](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-4x) - Univ. de Valencia
 * [Sistemas Embebidos (2009)](http://ocw.um.es/ingenierias/sistemas-embebidos) - Univ. de Murcia
 * [Sistemas Multimedia (2009)](https://poliformat.upv.es/portal/tool/f682ea53-3e5c-411c-0097-a0a16d5fb6a9?panel=Main) [Inf.](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=H&p_idioma=c&p_vista=MSE&p_asi=3297&p_caca=2009) - Univ. Politécnica de Valencia
-* [Sistemas Operativos (2016)](http://ocw.uji.es/curso/1514152) - Univ. Castellón
 * [Sistemas Operativos - 'chmod - bash' (2014)](https://campusvirtual.ull.es/ocw/course/view.php?id=105) - Univ. de La Laguna
+* [Sistemas Operativos (2016)](http://ocw.uji.es/curso/1514152) - Univ. Castellón
 * [Técnicas informáticas -para estudios de gestión y administración pública- (2012)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-informaticas-para-estudios-de-gestion-y-administracion-publica-2012.html) - Univ. de Alicante
 
 
@@ -228,7 +228,7 @@
 
 * [Desarrollo de Apps sin saber programación](https://campusvirtual.ull.es/ocw/course/view.php?id=128) - Univ. de La Laguna
 * [Diseño, organización y evaluación de videojuegos y gamificación](https://miriadax.net/web/diseno-organizacion-y-evaluacion-de-videojuegos-y-gamificacion-3-edicion-_201604220800) - Univ. Europea
-* [Introducción a la gamificación sobre casos prácticos] (https://miriadax.net/web/introduccion-a-la-gamificacion-a-traves-de-casos-practicos) - Univ. Abierta de Cataluña
+* [Introducción a la gamificación sobre casos prácticos](https://miriadax.net/web/introduccion-a-la-gamificacion-a-traves-de-casos-practicos) - Univ. Abierta de Cataluña
 * [Introducción al desarrollo de videojuegos con Unity](https://www.edx.org/course/introduccion-al-desarrollo-de-upvalenciax-uny201-x-1) - Univ. de Valencia
 * [Introducción al desarrollo de videojuegos con Unity3D (2016)](http://ocw.uji.es/curso/1434149) - Univ. Castellón
 * [Introducción al diseño de videojuegos](https://miriadax.net/web/introduccion-al-diseno-de-videojuegos-2-edicion-) - Teléfonica Universitas

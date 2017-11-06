@@ -264,7 +264,7 @@
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) (PDF)
 * [Algorithms Course Materials](http://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
-* [Algorithms Unlocked](https://book-store.github.io/cse/thirdyear/%5BThomas_H._Cormen%5D_Algorithms_unlocked(BookZZ.org).pdf) (PDF) - Thomas H. Cormen
+* [Algorithms Unlocked](https://book-store.github.io/cse/thirdyear/%5BThomas_H._Cormen%5D_Algorithms_unlocked(BookZZ.org).pdf) - Thomas H. Cormen (PDF)
 * [Analysis and Design of Algorithms](http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html) - Sandeep Sen, IIT Delhi
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro

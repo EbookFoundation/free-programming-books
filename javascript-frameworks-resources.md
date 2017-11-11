@@ -28,6 +28,7 @@
 
 * [Developing with Angular](https://leanpub.com/developing-with-angular/) *(Leanpub, by Denys Vuika, work in progress)*
 
+
 ## Aurelia
 
 * [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)

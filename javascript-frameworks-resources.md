@@ -24,6 +24,7 @@
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
+
 ## Angular
 
 * [Developing with Angular](https://leanpub.com/developing-with-angular/) *(Leanpub, by Denys Vuika, work in progress)*

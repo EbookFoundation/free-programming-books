@@ -17,6 +17,7 @@
 * [Matlab](#matlab)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -111,6 +112,11 @@
 ### Python
 
 * [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
+
+
+#### Django
+
+* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### R

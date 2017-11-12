@@ -11,6 +11,7 @@
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby](#ruby)
 
 
@@ -44,6 +45,11 @@
 ### Python
 
 * [Пориньте у Python 3](https://uk.wikibooks.org/wiki/Пориньте_у_Python_3) - Марк Пілігрим
+
+
+#### Django
+
+* [Навчальний посібник Django Girls](https://tutorial.djangogirls.org/uk/) (1.11) (HTML)
 
 
 ### Ruby

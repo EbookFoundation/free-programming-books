@@ -19,6 +19,7 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby](#ruby)
 * [Visual Basic](#visual-basic)
 
@@ -129,6 +130,11 @@
 * [Il tutorial di Python](http://docs.python.it/html/tut/)
 * [La libreria di riferimento di Python](http://docs.python.it/html/lib/)
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
+
+
+#### Django
+
+* [Il tutorial di Django Girls](https://tutorial.djangogirls.org/it/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Ruby

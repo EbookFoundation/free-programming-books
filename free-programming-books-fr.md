@@ -33,6 +33,7 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Sage](#sage)
@@ -228,6 +229,11 @@
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau et Laurent Pointal
+
+
+#### Django
+
+* [Tutoriel de Django Girls](https://tutorial.djangogirls.org/fr/) (1.11) (HTML)
 
 
 ### R

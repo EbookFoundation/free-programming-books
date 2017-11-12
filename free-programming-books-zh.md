@@ -53,6 +53,7 @@
   * [Perl](#perl)
   * [PHP](#php)
   * [Python](#python)
+    * [Django](#django)
   * [R](#r)
   * [reStructuredText](#restructuredtext)
   * [Ruby](#ruby)
@@ -616,6 +617,11 @@
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
 * [简明 Python 教程](https://bop.molun.net) (作者：Swaroop C H 译者：沈洁元、漠伦)
+
+
+#### Django
+
+* [Django Girls 教程](https://tutorial.djangogirls.org/zh/) (1.11) (HTML)
 
 
 ### R

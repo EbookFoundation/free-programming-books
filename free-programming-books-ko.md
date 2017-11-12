@@ -14,6 +14,7 @@
 * [PHP](#php)
   * [Laravel](#laravel)
 * [Python](#python)
+  * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Swift](#swift)
@@ -102,6 +103,11 @@
 * [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/006855/)
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+
+
+#### Django
+
+* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### R

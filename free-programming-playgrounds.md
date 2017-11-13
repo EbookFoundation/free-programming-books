@@ -7,11 +7,13 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [JavaScript](#javascript)
+* [Kotlin](#kotlin)
 * [.Net](#dotnet)
 * [Node.js](#nodejs)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [SQL](#sql)
@@ -61,6 +63,11 @@
 * [WebpackBin](https://www.webpackbin.com)
 
 
+### Kotlin
+
+* [Kotlin](https://try.kotlinlang.org)
+
+
 ### <a name="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
@@ -69,7 +76,6 @@
 ### NodeJS
 
 * [Ideone](http://ideone.com)
-* [Runnable](http://code.runnable.com)
 
 
 ### Perl
@@ -90,10 +96,14 @@
 * [Pyfiddle](https://pyfiddle.io)
 
 
+### R
+
+* [R-Fiddle](http://www.r-fiddle.org)
+
+
 ### Ruby
 
 * [Codepad](http://codepad.org)
-* [Runnable](http://code.runnable.com)
 
 
 ### Rust

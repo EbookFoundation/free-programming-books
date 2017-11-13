@@ -14,6 +14,7 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Javascript](#javascript)
+* [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
 * [Node.js](#Nodejs)
 * [PHP](#php)
@@ -71,7 +72,7 @@
 * [Screencast] - [Elixir Sips](http://elixirsips.com) - Some free
 * [Screencast] - [ElixirConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT)
 * [Screencast] - [ElixirConf 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
-* [Screencast] = [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
+* [Screencast] - [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
 
 
 ### Emacs
@@ -112,20 +113,26 @@
 
 ### Gulp
 
-* [Screencast] - [Learning Gulp](http://leveluptuts.com/tutorials/learning-gulp)
+* [Screencast] - [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp)
 
 
 ### Javascript
 
-* [Podcast] - [5 Minutes of JavaScript](https://fivejs.codeschool.com)
 * [Podcast] - [FiveJS](https://fivejs.codeschool.com)
 * [Podcast] - [Front End Happy Hour](http://frontendhappyhour.com)
 * [Podcast] - [Frontend Five](https://frontendfive.codeschool.com)
 * [Podcast] - [JavaScript Air](https://javascriptair.com)
 * [Podcast] - [JavaScript Jabber](https://devchat.tv/js-jabber)
+* [Podcast] - [Syntax](https://syntax.fm)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com)
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript)
 * [Screencast] - [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)
+
+
+### Kotlin
+
+* [Podcast] - [Talking Kotlin](http://talkingkotlin.com)
+* [Screencast] - [Kotlin Beginners Tutorials](https://www.youtube.com/playlist?list=PLpg00ti3ApRweIhdOI4VCFFStx4uXC__u)
 
 
 ### Language Agnostic
@@ -141,8 +148,6 @@
 * [Podcast] - [CodePen Radio](https://blog.codepen.io/radio/)
 * [Podcast] - [Coding Blocks](http://www.codingblocks.net)
 * [Podcast] - [CTRL+CLICK CAST](http://ctrlclickcast.com)
-* [Podcast] - [Descriptive](http://descriptive.audio)
-* [Podcast] - [Dev Discussions](http://www.devdiscussions.com)
 * [Podcast] - [Developer On Fire](http://developeronfire.com)
 * [Podcast] - [Developer Tea](https://developertea.com)
 * [Podcast] - [DevelopersHangout](http://www.developershangout.io)
@@ -176,6 +181,7 @@
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
 * [Podcast] - [The Web Ahead](http://5by5.tv/webahead)
 * [Podcast] - [The Web Platform](http://thewebplatform.libsyn.com)
+* [Podcast] - [This Developer's Life](http://thisdeveloperslife.com)
 * [Podcast] - [ThoughtWorks](https://soundcloud.com/thoughtworks)
 * [Podcast] - [Three Devs and a Maybe](http://threedevsandamaybe.com)
 * [Podcast] - [Toolsday](http://toolsday.io)
@@ -185,7 +191,6 @@
 
 ### Node.js
 
-* [Podcast] - [Node.js Screencast Series - Tutsowl](http://www.tutsowl.com)
 * [Podcast] - [Nodeup](http://nodeup.com)
 
 
@@ -226,7 +231,6 @@
 ### React JS
 
 * [Podcast] - [React Native Podcast](https://devchat.tv/react-native-radio)
-* [Podcast] - [React Podcast](http://reactpodcast.com)
 * [Screencast] - [ReactCasts](https://www.youtube.com/c/reactcasts)
 
 

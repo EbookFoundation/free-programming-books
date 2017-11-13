@@ -25,7 +25,6 @@
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
 * [Microcorruption](https://microcorruption.com/login)
-* [Saratov State University](http://acm.sgu.ru/index.php)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
 
@@ -61,7 +60,7 @@
 * [PEG Judge](http://wcipeg.com)
 * [PKU Online Judge](http://poj.org)
 * [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
-* [ProblemBook.NET](http://problembook.net/content/en/index.html)
+* [ProblemBook.NET](https://github.com/AndreyAkinshin/ProblemBook.NET)
 * [Project Euler](https://projecteuler.net)
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Rosalind](http://rosalind.info/problems/locations/)

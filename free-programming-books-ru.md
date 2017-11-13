@@ -29,6 +29,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+  * [Django](#django)
 * [R](#r)
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
@@ -78,6 +79,7 @@
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) (PDF)
+* [Цифровая схемотехника и архитектура компьютера](https://community.imgtec.com/downloads/digital-design-and-computer-architecture-russian-edition-second-edition) - Дэвид Харрис, Сара Харрис *(требуется учетная запись)*
 
 
 ### Bash
@@ -194,6 +196,8 @@
 
 ### PHP
 
+* CodeIgniter Framework
+  * [CodeIgniter 2.1.3](http://php5.kiev.ua/codeigniter/)
 * [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way/)
 * [Руководство по PHP](http://docs.php.net/manual/ru/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)
@@ -205,6 +209,11 @@
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
+
+
+#### Django
+
+* [Руководство Django Girls](https://tutorial.djangogirls.org/ru/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### PostgreSQL

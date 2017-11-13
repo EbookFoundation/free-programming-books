@@ -19,6 +19,7 @@
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [UML](#uml)
@@ -28,6 +29,7 @@
 
 ### Unabhängig von der Programmiersprache
 
+* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
 * [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
@@ -147,6 +149,11 @@
 ### Python
 
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
+
+
+#### Django
+
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/es/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Ruby on Rails

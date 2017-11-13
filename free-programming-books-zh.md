@@ -53,6 +53,7 @@
   * [Perl](#perl)
   * [PHP](#php)
   * [Python](#python)
+    * [Django](#django)
   * [R](#r)
   * [reStructuredText](#restructuredtext)
   * [Ruby](#ruby)
@@ -81,7 +82,6 @@
 ### NoSQL
 
 * [Disque 使用教程](http://disque.huangz.me)
-* [Neo4j .rb 中文資源](http://neo4j.tw)
 * [Redis 命令参考](http://redisdoc.com)
 * [Redis 设计与实现](http://redisbook.com)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
@@ -171,7 +171,6 @@
 
 * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
-* [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 * [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
 
@@ -217,7 +216,7 @@
 ### 正则表达式
 
 * [正则表达式-菜鸟教程](http://www.runoob.com/regexp/regexp-tutorial.html)
-* [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+* [正则表达式30分钟入门教程](https://web.archive.org/web/20161119141236/http://deerchao.net:80/tutorials/regex/regex.htm)
 
 
 ### 版本控制
@@ -303,11 +302,11 @@
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
-* [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_(Simplified))
+* [Joel谈软件](https://web.archive.org/web/20170616013024/http://local.joelonsoftware.com/wiki/Chinese_(Simplified))
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
 * [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
-* [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
+* [約耳談軟體(Joel on Software)](https://web.archive.org/web/20170615232349/http://local.joelonsoftware.com/wiki/首頁)
 * [编码规范](https://github.com/ecomfe/spec)
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
@@ -360,7 +359,7 @@
 * [C++ 并发编程(基于C++11)](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/content/)
 * [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
-* [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
+* [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
@@ -496,7 +495,7 @@
 * CoffeeScript
   * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * D3.js
-  * [D3.js 入门系列](http://www.ourd3js.com/wordpress/?cat=2) (还有进阶、高级等系列)
+  * [Learning D3.JS](http://d3.decembercafe.org) (Created by 十二月咖啡馆)
   * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
   * [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
   * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
@@ -508,7 +507,7 @@
 * impress.js
   * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
-* [Javascript 原理](http://typeof.net/s/jsmech/)
+* [Javascript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
 * [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) “JavaScript patterns”中译本
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
@@ -540,8 +539,6 @@
   * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
   * [React.js 中文文档](https://discountry.github.io/react/)
   * [React.js 入门教程](http://fraserxu.me/intro-to-react/)
-* underscore.js
-  * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * Vue.js
   * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN) (深入JavaScript语言核心机制的系列图书)
@@ -589,7 +586,7 @@
 
 * [Master Perl Today](https://github.com/fayland/chinese-perl-book)
 * [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
-* [Perl 5 教程](http://net.pku.edu.cn/~yhf/tutorial/perl/perl.html)
+* [Perl 5 教程](https://web.archive.org/web/20150326073235/http://net.pku.edu.cn/~yhf/tutorial/perl/perl.html)
 * [Perl 教程](http://www.yiibai.com/perl)
 
 
@@ -609,14 +606,22 @@
 
 ### Python
 
+* [Django 1.8 中文文档](http://python.usyiyi.cn/documents/django_182/index.html)
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
 * [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) (作者：David Beazley, Brian K.Jones 翻译：熊能)
 * [Python 中文学习大本营](http://www.pythondoc.com)
+* [Python之旅](http://funhacks.net/explore-python) (作者：Ethan)
 * [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [像计算机科学家一样思考Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) (中英对照版 作者：Allen B. Downey 翻译：大胖哥)
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
+* [简明 Python 教程](https://bop.molun.net) (作者：Swaroop C H 译者：沈洁元、漠伦)
+
+
+#### Django
+
+* [Django Girls 教程](https://tutorial.djangogirls.org/zh/) (1.11) (HTML)
 
 
 ### R
@@ -630,13 +635,12 @@
 ### reStructuredText
 
 * [reStructuredText 入门](http://www.pythondoc.com/sphinx/rest.html)
-* [reStructuredText 简明教程](http://jwch.sdut.edu.cn/book/rst.html)
+* [reStructuredText 简明教程](http://jwch.sdut.edu.cn/book/rst.htm://web.archive.org/web/20170122080708/http://jwch.sdut.edu.cn/book/rst.html)
 
 
 ### Ruby
 
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
-* [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org)
 * [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
 * [Ruby on Rails 指南](http://guides.ruby-china.org)
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)

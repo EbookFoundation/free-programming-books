@@ -71,7 +71,6 @@
 * [Apuntes de Base de Datos 1, Universidad de Alicante](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
 * [Base de Datos](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Mercedes Marqués (PDF)
 * [Base de Datos Avanzadas](http://repositori.uji.es/xmlui/bitstream/handle/10234/48034/s73.pdf) - Aramburu & Sanz Blasco (PDF)
-* [El modelo relacional y el álgebra relacional](http://www.colegiodrriodelaloza.edu.mx/informatica/Analisis%20Diseno%20e%20Implementacion%20de%20Algoritmos/17470106-BASES-de-DATOS-3-El-Modelo-Relacional-y-Algebra-Relacional.pdf) (PDF)
 * [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf) (PDF)
 
 
@@ -234,7 +233,7 @@
 ### Linux
 
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html)
-* [BASH Scripting Avanzado: Utilizando declare para definición de tipo](http://library.originalhacker.org/biblioteca/articulo/ver/123)
+* [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123)
 * [Debian GNU/Linux para administradores](https://debian-handbook.info/browse/es-ES/stable/)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) en WikiBooks
 
@@ -286,6 +285,11 @@
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico)
 * [Python para principiantes](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) (PDF) [(HTML)](http://librosweb.es/libro/python/)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
+
+
+#### Django
+
+* [Tutorial de Django Girls](https://tutorial.djangogirls.org/de/) (1.11) (HTML) (:construction: *in process*)
 
 
 #### Web2py

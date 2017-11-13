@@ -325,7 +325,7 @@
 ### Scala
 
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
-* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) (En proceso)
+* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) *(:construction: En proceso)*
 
 
 ### SQL

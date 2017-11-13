@@ -1265,7 +1265,7 @@
 * [MaintainableCSS](http://maintainablecss.com)
 * [Pro HTML5 Programming]( http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
 * [Scalable and Modular Architecture for CSS](https://smacss.com) - Jonathan Snook
-* [Thinking in HTML](https://www.packtpub.com/packt/free-ebook/thinking-in-html) - Aravind Shenoy (free eBook)
+* [Thinking in HTML](https://www.packtpub.com/packt/free-ebook/thinking-in-html) - Aravind Shenoy
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 

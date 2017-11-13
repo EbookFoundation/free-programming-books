@@ -20,7 +20,7 @@
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 * [Mastering AngularJS Directives](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
-* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
+* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) - Frederik Dietz *(Leanpub)*
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 

@@ -879,7 +879,7 @@
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
 * [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) (PDF)
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
-* [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)
+* [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
 

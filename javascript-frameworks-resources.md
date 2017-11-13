@@ -27,7 +27,7 @@
 
 ## Angular
 
-* [Developing with Angular](https://leanpub.com/developing-with-angular/) *(Leanpub, by Denys Vuika, work in progress)*
+* [Developing with Angular](https://leanpub.com/developing-with-angular/) - Denys Vuika (Leanpub, work in progress)
 
 
 ## Aurelia

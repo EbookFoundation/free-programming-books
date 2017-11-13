@@ -18,6 +18,7 @@
 * [PHP](#php)
 * [Prolog](#prolog)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [SQL](#sql)
@@ -137,6 +138,11 @@
 
 * [Biblioteka Pythona](http://www.python.rk.edu.pl)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
+
+
+#### Django
+
+* [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 
 
 ### Ruby

@@ -29,6 +29,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+  * [Django](#django)
 * [R](#r)
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
@@ -208,6 +209,11 @@
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
+
+
+#### Django
+
+* [Руководство Django Girls](https://tutorial.djangogirls.org/ru/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### PostgreSQL

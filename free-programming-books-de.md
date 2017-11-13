@@ -19,6 +19,7 @@
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [UML](#uml)
@@ -148,6 +149,11 @@
 ### Python
 
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
+
+
+#### Django
+
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/es/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Ruby on Rails

@@ -25,6 +25,11 @@
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 
+## Angular
+
+* [Developing with Angular](https://leanpub.com/developing-with-angular/) - Denys Vuika *(Leanpub account required)* (:construction: *in process*)
+
+
 ## Aurelia
 
 * [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)

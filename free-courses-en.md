@@ -82,7 +82,6 @@
 
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
 
-
 ### C
 
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
@@ -288,6 +287,7 @@
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python Course](http://www.python-course.eu)
+* [Python Programming](https://pythonprogramming.net/)
 
 
 ### QB64

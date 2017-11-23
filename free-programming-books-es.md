@@ -296,6 +296,11 @@
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 
 
+#### Django
+
+* [Tutorial de Django Girls](https://tutorial.djangogirls.org/de/) (1.11) (HTML) (:construction: *in process*)
+
+
 #### Web2py
 
 * [Web2py - Manual de Referencia Completo, 5a Edición](http://www.web2py.com/books/default/chapter/41) (HTML)
@@ -329,7 +334,7 @@
 ### Scala
 
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
-* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es#traducción-del-libro-scala-by-example-al-español) (Github) (:construction: *en proceso*)
+* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) *(:construction: En proceso)*
 
 
 ### SQL

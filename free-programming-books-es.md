@@ -1,14 +1,14 @@
 ### Index
 
 * [0 - Meta-Listas](#0---meta-listas)
-* [1 - Agnósticos](#1---agn%C3%B3sticos)
+* [1 - Agnósticos](#1---agn&#x00F3;sticos)
   * [Algoritmos y Estructuras de Datos](#algoritmos)
   * [Base de Datos](#base-de-datos)
   * [Ciencia Computacional](#ciencia-computacional)
-  * [Cursos Masivos en Línea](#cursos-masivos-en-L%C3%ADnea)
-  * [Metodologías de desarrollo de software](#metodolog%C3%ADas-de-desarrollo-de-software)
-  * [Misceláneos](#miscel%C3%A1neos)
-  * [Paradigmas de Programación](#paradigmas-de-programaci%C3%B3n)
+  * [Cursos Masivos en Línea](#cursos-masivos-en-L&#x00ED;nea)
+  * [Metodologías de desarrollo de software](#metodolog&#x00ED;as-de-desarrollo-de-software)
+  * [Misceláneos](#miscel&#x00ED;neos)
+  * [Paradigmas de Programación](#paradigmas-de-programaci&#x00F3;n)
   * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
 * [C](#c)
@@ -20,7 +20,7 @@
 * [Git](#git)
 * [Github](#github)
 * [Haskell](#haskell)
-* [HTML / CSS](#html-css)
+* [HTML & CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
@@ -63,7 +63,7 @@
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Aprenda a programar como si estuviera en primero](http://www1.ceit.es/asignaturas/Informat1/ayudainf/aprendainf/Programar/Programar.pdf) (PDF)
-* [Apuntes de Algoritmos y Estructuras de Datos](https://146fd953-a-62cb3a1a-s-sites.googlegroups.com/site/prog3unlp/home/exp_algoritmos.pdf?attachauth=ANoY7cpP-tS9_7vAio7Zm7sr3kuK_rfKNFRjLCLT99k8BTxN1ZNUtYwkeTHPmCXHGmk3ruFmw6gXJxFI7eUElxP-6__Z28cUtYQDYg0HzZ104WMkc1i3TbQ2NMyQejkUvw1Xj5jY4tig4ghNyQhesMV2yogm33JkaNyVIQsKFu7J6mn__taPYsCcgzb5GwdhQECVJYrA3RBakA9jTXXWx6gA9p7i8hb_je8g9W3r35eN9AE0I9uGb8U%3D&attredirects=0) (PDF)
+* [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html) (HTML)
 * [Temas selectos de estructuras de datos](http://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
@@ -72,10 +72,10 @@
 
 #### Base de Datos
 
-* [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) - Univ. Alicante (PDF)
+* [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
 * [Base de Datos (2005)](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Mercedes Marqués (PDF)
 * [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2) - Mercedes Marqués (PDF)
-* [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - Aramburu & Sanz Blasco (descarga directa)
+* [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - Aramburu & Sanz Blasco (PDF)
 * [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos) (PDF)
 
 
@@ -141,7 +141,7 @@
 
 ### Coffeescript
 
-* [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript) - Javi Jiménez (LeanPub)
+* [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript) - Javi Jiménez (Leanpub cuenta requerida)
 
 
 ### Ensamblador
@@ -178,7 +178,7 @@
 * [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf) (PDF)
 
 
-### HTML / CSS
+### HTML & CSS
 
 * [CSS avanzado](http://librosweb.es/libro/css_avanzado) Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
 * [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado) (PDF)
@@ -191,7 +191,7 @@
 
 ### Java
 
-* [Aprendiendo Java y POO (2008)](http://www.decom-uv.cl/~roberto/apuntes/java/AprendiendoJava.pdf) (PDF)
+* [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) (PDF)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) (PDF)
 * [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - F.M. Pérez Montes (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java (2004)](http://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona (PDF)
@@ -210,7 +210,7 @@
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es) (HTML)
-* [JavaScript, ¡Inspírate!](https://leanpub.com/javascript-inspirate) (LeanPub)
+* [JavaScript, ¡Inspírate!](https://leanpub.com/javascript-inspirate) (Leanpub cuenta requerida)
 * [JavaScript Para Gatos](https://jsparagatos.com) (HTML)
 * [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20) (HTML)
 
@@ -234,7 +234,6 @@
 #### Node.js
 
 * [Introducción a Node.js a través de Koans](http://nodejskoans.com)
-* [Tutorial para Principiantes en Node.js](http://www.nodebeginner.org/index-es.html)
 
 
 ### LaTeX
@@ -290,7 +289,7 @@
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (PDF) (descarga directa)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) (HTML)
-* [Notas sobre el lenguaje Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/at_download/file) (descarga directa)
+* [Notas sobre el lenguaje Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/view) (PDF)
 * [Python instantáneo (1999)](http://www.arrakis.es/~rapto/AprendaPython.html) (HTML)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) (Github)
 * [Python para principiantes](http://librosweb.es/libro/python) (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
@@ -341,4 +340,4 @@
 
 ### SVG
 
-* [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (LeanPub)
+* [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (Leanpub cuenta requerida)

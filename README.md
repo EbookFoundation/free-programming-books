@@ -55,6 +55,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + [German](/free-courses-de.md)
 + [Russian](/free-courses-ru.md)
 + [Spanish](/free-courses-es.md)
++ [Vietnamese](/free-courses-vi.md)
+
 
 ### Interactive Programming Resources
 + [Free interactive programming tutorials](/free-programming-interactive-tutorials-en.md)

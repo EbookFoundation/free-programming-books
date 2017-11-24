@@ -832,6 +832,7 @@
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels
 * [BASH Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 * [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
+* [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
 * [BashGuide](http://mywiki.wooledge.org/BashGuide)
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates
 * [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php)

@@ -9,6 +9,7 @@
 * [Erlang](#erlang)
 * [F#](#f-sharp)
 * [Git](#git)
+* [GLSL](#glsl)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
@@ -79,6 +80,10 @@
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [Try Git](http://try.github.io)
+
+
+### GLSL
+* [The Book of Shaders](https://thebookofshaders.com/)
 
 
 ### Go

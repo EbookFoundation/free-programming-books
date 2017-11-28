@@ -135,6 +135,7 @@
 * [OpenMP](#openmp)
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
+* [Pawn](#pawn)
 * [PC-BSD](#pc-bsd)
 * [Perl](#perl)
 * [Perl 6 / Rakudo](#perl-6--rakudo)
@@ -1707,8 +1708,12 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [TrueOS® Users Handbook](https://www.trueos.org/handbook/trueos.html)
 
+### Pawn
 
-### Perl
+* [Pawn Language Guide](https://github.com/compuphase/pawn/blob/master/doc/Pawn_Language_Guide.pdf)
+
+
+### PERL
 
 * [Beginning Perl](https://www.perl.org/books/beginning-perl/)
 * [Data Munging with Perl](http://perlhacks.com/dmp.pdf) (PDF)
@@ -1733,7 +1738,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Web Client Programming with Perl](http://www.oreilly.com/openbook/webclient/)
 
 
-### Perl 6 / Rakudo
+### PERL 6 / Rakudo
 
 * [Perl 6 Introduction](http://perl6intro.com)
 * [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)

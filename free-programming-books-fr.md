@@ -96,7 +96,6 @@
 
 * [Arduino : Premiers pas en informatique embarquée](http://eskimon.fr/ebook-tutoriel-arduino) - Eskimon et olyte
 
-
 ### Assembleur
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
@@ -166,6 +165,10 @@
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
 
+
+##### KOMA-Script
+
+* [KOMA-Script, Typographie universelle avec XƎLaTeX](https://framabook.org/koma-script/) - Raymond Rochedieu (trad.) et Markus Kohm
 
 #### Asymptote
 

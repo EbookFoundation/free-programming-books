@@ -111,6 +111,7 @@
 
 ### Python
 
+* [Bilgisayar Bilimcisi gibi Düşünmek Python ile Öğrenme 2. Baskı](https://tekrei.github.io/other/bbgd_p/) - Allen B. Downey, Jeff Elkner and Chris Meyers
 * [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
 
 

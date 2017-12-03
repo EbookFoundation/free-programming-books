@@ -111,8 +111,8 @@
 
 ### Python
 
-* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
 * [Bilgisayar Bilimcisi gibi Düşünmek Python ile Öğrenme 2. Baskı](https://tekrei.github.io/other/bbgd_p/)
+* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
 
 
 #### Django

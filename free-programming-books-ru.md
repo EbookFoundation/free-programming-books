@@ -48,8 +48,9 @@
 
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF)
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
-* [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В.
-* [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
+* [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
+* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
+* [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
 
 
 #### Работа с сетью
@@ -103,13 +104,13 @@
 
 ### Clojure
 
-* [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro/)
+* [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro/) - Алексей Отт
 
 
 ### CoffeeScript
 
 * [The Little Book on CoffeeScript](https://github.com/andrew--r/the-little-book-on-coffeescript) - перевод Андрея Романова
-* [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
+* [Документация CoffeeScript](http://cidocs.ru/coffeescript/) - Jeremy Ashkenas
 
 
 ### Java
@@ -132,13 +133,13 @@
 
 #### Node.js
 
-* [Node.js для начинающих](http://nodebeginner.ru)
+* [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
 
 
 ### Git
 
 * [Pro Git](http://git-scm.com/book/ru/v2)
-* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
+* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/) - Ben Lynn
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 
 
@@ -177,7 +178,7 @@
 ### NoSQL
 
 * [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) (PDF)
-* [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
+* [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md) - Карл Сегуин
 
 
 ### Objective-C
@@ -280,8 +281,8 @@
 
 * [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
-* [Архитектура операционной системы Unix](http://lib.ru/BACH/)
-* [Введение в системное администрирование UNIX](http://lib.ru/unixhelp/) - Мошков. М
+* [Архитектура операционной системы Unix](http://lib.ru/BACH/) - Maurice J. Bach
+* [Введение в системное администрирование UNIX](http://lib.ru/unixhelp/) - Мошков Максим Евгеньевич
 
 
 ### Vim

@@ -289,6 +289,7 @@
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python Course](http://www.python-course.eu)
+* [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 
 
 ### QB64

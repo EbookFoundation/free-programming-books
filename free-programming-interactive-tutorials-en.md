@@ -174,6 +174,7 @@
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
+* [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 
@@ -195,6 +196,11 @@
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
 * [Scala Exercises](https://www.scala-exercises.org) 
+
+
+### Selenium
+
+* [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
 
 
 ### SQL

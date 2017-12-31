@@ -24,6 +24,7 @@
 * [COBOL](#cobol)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
+* [Component Pascal](#component-pascal)
 * [Cool](#cool)
 * [Coq](#coq)
 * [Crystal](#crystal)
@@ -983,6 +984,11 @@
 
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown) - J. Casimir
 * [Learn CF in a Week](http://learncfinaweek.com)
+
+
+### Component Pascal
+
+* [Computing Fundamentals](http://www.cslab.pepperdine.edu/warford/ComputingFundamentals/) - Stan Warford (PDF)
 
 
 ### Cool

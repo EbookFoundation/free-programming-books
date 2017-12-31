@@ -1958,6 +1958,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
 * [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc) (1.8)
 * [The Django Book](https://djangobook.com/the-django-book/) (1.8 & 1.11)
+* [The Definitive guide to Django](http://www.moreware.org/books/The%20Definitive%20Guide%20to%20Django.pdf)
 
 
 #### Flask

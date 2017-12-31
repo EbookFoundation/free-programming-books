@@ -113,6 +113,7 @@
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung/)
+* [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
 
 
 ### Javascript

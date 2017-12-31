@@ -7,6 +7,7 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
+* [Component Pascal](#component-pascal)
 * [Git](#git)
 * [Go](#go)
 * [Groovy](#groovy)
@@ -62,6 +63,11 @@
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
+
+
+### Component Pascal
+
+* [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
 
 
 ### C Sharp

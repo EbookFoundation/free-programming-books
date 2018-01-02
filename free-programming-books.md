@@ -253,9 +253,9 @@
 ### Graphical User Interfaces
 
 * [Best of Smashing Magazine](http://anniversary.smashingmagazine.com/best-of-smashing-magazine.zip)
-* [The GLib/GTK+ Development Platform](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf) - Sébastien Wilmet
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
 * [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
+* [The GLib/GTK+ Development Platform](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf) - Sébastien Wilmet
 
 
 ### Language Agnostic

@@ -35,10 +35,10 @@
 
 ### Javascript
 
-* [Podcast] - [Webstandards Podcast](https://soundcloud.com/web-standards)
 * [Podcast] - [Devschacht Podcast](https://soundcloud.com/devschacht)
 * [Podcast] - [Frontflip Podcast](http://frontflip.me)
 * [Podcast] - [RadioJS Podcast](http://radiojs.ru)
+* [Podcast] - [Webstandards Podcast](https://soundcloud.com/web-standards)
 * [Screencast] - [Javascript для начинающих](http://www.magisters.org/education/course/js-for-beginners)
 
 

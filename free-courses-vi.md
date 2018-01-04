@@ -9,7 +9,12 @@
 * [jQuery](#jquery)
 * [PHP](#php)
 * [SQL](#sql)
-
+* [Ruby](#ruby)
+* [Python](#python)
+* [XML](#xml)
+* [Objective-C](#objective-c)
+* [Xcode](#xcode)
+* [NodeJS](#nodejs)
 
 ### AJAX
 
@@ -54,4 +59,28 @@
 ### SQL
 
 * [SQL Cơ Bản](http://www.hoclaptrinh.org/SQL-Co-Ban)
+
+### Ruby
+
+* [Ruby Cơ Bản](https://www.hoclaptrinh.org/Ruby-Co-Ban)
+
+### Python
+
+* [Python Cơ Bản](https://www.hoclaptrinh.org/Python-Co-Ban)
+
+### XML
+
+* [XML Cơ Bản](https://www.hoclaptrinh.org/XML-Co-Ban)
+
+### Objective-C
+
+* [Objective-C Cơ Bản](https://www.hoclaptrinh.org/Objective-C-Co-Ban)
+
+### Xcode
+
+* [Xcode Cơ Bản](https://www.hoclaptrinh.org/Xcode-Co-Ban)
+
+### NodeJS
+
+* [NodeJS Cơ Bản](https://www.hoclaptrinh.org/Node-js-Co-Ban)
 

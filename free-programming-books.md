@@ -1929,6 +1929,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 * [Python Module of the Week](https://pymotw.com/3/) (3.x)
   * [Python Module of the Week](https://pymotw.com/2/) (2.x)
+* [Python Notes for Professionals](http://books.goalkicker.com/PythonBook/) (3.x) - Compiled from StackOverflow documentation
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF) (2.6)
@@ -1948,7 +1949,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Think Complexity](http://greenteapress.com/complexity/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 * [Wikibooks: Python Programming](https://en.wikibooks.org/wiki/Python_Programming) (2.7)
-* [Python Notes for Professionals book]( http://books.goalkicker.com/PythonBook/) (3.x) - Compiled from StackOverflow documentation
 
 
 #### Django

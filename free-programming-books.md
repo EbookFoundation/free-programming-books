@@ -1929,6 +1929,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 * [Python Module of the Week](https://pymotw.com/3/) (3.x)
   * [Python Module of the Week](https://pymotw.com/2/) (2.x)
+* [Python Notes for Professionals](http://books.goalkicker.com/PythonBook/) - Compiled from StackOverflow documentation (3.x)
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) (PDF) (2.6)

@@ -78,6 +78,7 @@
   * [Javascript frameworks](#javascript-frameworks)
   * [Node.js](#nodejs)
   * [React.js](#reactjs)
+  * [Redux](#redux)
 * [Jenkins](#jenkins)
 * [Julia](#julia)
 * [Language Agnostic](#language-agnostic)
@@ -1456,6 +1457,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [The Road to learn React - Build a Hacker News App along the Way](https://leanpub.com/the-road-to-learn-react), [Open Source](https://github.com/rwieruch/the-road-to-learn-react)
 
+#### Redux
+
+* [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman
 
 ### Jenkins
 

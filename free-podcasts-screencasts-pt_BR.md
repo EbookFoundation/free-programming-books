@@ -1,8 +1,15 @@
 ### Index
 
+* [Angular](#angular)
 * [Databases](#databases)
 * [iOS](#ios)
+* [Java](#java)
 * [Language Agnostic](#language-agnostic)
+
+
+### Angular
+
+* [Screencast] - [Loiane - Angular 4](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
 
 
 ### Databases
@@ -13,6 +20,12 @@
 ### iOS
 
 * [Podcast] - [CocoaHeads](http://www.cocoaheads.com.br/podcasts)
+
+
+### Java
+
+* [Screencast] - [Loiane - Basic Java](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+* [Screencast] - [Loiane - Intermediate Java](https://www.youtube.com/watch?v=EdEKx24xHGc&list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI)
 
 
 ### Language Agnostic

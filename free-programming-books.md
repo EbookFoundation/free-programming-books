@@ -835,6 +835,7 @@
 
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels
+* [Bash Notes for Professionals](http://books.goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (3.x)
 * [BASH Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 * [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
@@ -894,6 +895,7 @@
 ### C Sharp
 
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
+* [C# Notes for Professionals](http://books.goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (3.x)
 * [C# Programming - Wikibook](https://en.wikibooks.org/wiki/C_Sharp_Programming)
 * [C# Yellow Book](http://www.csharpcourse.com) (intro to programming)
 * [Creating Mobile Apps with Xamarin.Forms C#](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/)
@@ -1271,6 +1273,7 @@
 * [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
 * [HTML5 Graphing and Data Visualization Cookbook](https://www.packtpub.com/packt/free-ebook/html5-data-visualization-cookbook) - Ben Fhala, Packt. (Just fill the fields with any values)
+* [HTML5 Notes for Professionals](http://books.goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (3.x)
 * [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat
 * [Learn CSS Layout](http://learnlayout.com)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
@@ -1350,6 +1353,7 @@
 * [JAAS in Action](https://www.gitbook.com/book/benoit74/jaas-in-action/details)
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing and Michael Schwarz (PDF)
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
+* [Java Notes for Professionals](http://books.goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (3.x)
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
 * [Java: The Legend](https://www.oreilly.com/programming/free/java-the-legend.csp) - Ben Evans *(Just fill the fields with any values)*
 * [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer and Daniel Leuck
@@ -1817,6 +1821,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Layman’s Guide to PowerShell 2.0 remoting](http://www.ravichaganti.com//blog/wp-content/uploads/2010/12/A%20layman's%20guide%20to%20PowerShell%202.0%20remoting-v2.pdf) (PDF)
 * [Mastering PowerShell v2](http://community.idera.com/powershell/powertips/b/ebookv2#pi619PostSortOrder=Ascending)
 * [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
+* [PowerShell Notes for Professionals](http://books.goalkicker.com/PowerShellBook/) - Compiled from StackOverflow documentation (3.x)
 * [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Secrets of PowerShell Remoting](https://www.gitbook.com/book/devopscollective/secrets-of-powershell-remoting/details) (PDF, ePub, MOBI)
 * [The Big Book of PowerShell Error Handling](https://www.gitbook.com/book/devopscollective/the-big-book-of-powershell-error-handling/details) (PDF, ePub, MOBI)
@@ -2223,6 +2228,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [A Primer on SQL, Second Edition](https://leanpub.com/aprimeronsql)
 * [Developing Time-Oriented Database Applications in SQL](http://www.cs.arizona.edu/people/rts/publications.html)
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/)
+* [SQL Notes for Professionals](http://books.goalkicker.com/SQLBook/)
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com)
 
 
@@ -2237,6 +2243,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2012)
 * [Introducing Microsoft SQL Server 2014](http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx)
 * [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler) *(RedGate, By Brad McGehee)*
+* [Microsoft SQL Server Notes for Professionals](http://books.goalkicker.com/MicrosoftSQLServerBook/) (Compiled from StackOverflow documentation)
 * [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views) *(RedGate, By Tim Ford and Louis Davidson)*
 * [Protecting SQL Server Data](http://www.red-gate.com/community/books/protecting-data) *(RedGate, By John Magnabosco)*
 * [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#SQLServer2012Tutorials%3AReportingServices)

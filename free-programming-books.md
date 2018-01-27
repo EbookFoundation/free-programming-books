@@ -97,7 +97,7 @@
   * [MOOC](#mooc)
   * [Networking](#networking)
   * [Open Source Ecosystem](#open-source-ecosystem)
-  * [Operating systems](#operating-systems)
+  * [Operating Systems](#operating-systems)
   * [Parallel Programming](#parallel-programming)
   * [Partial Evaluation](#partial-evaluation)
   * [Professional Development](#professional-development)
@@ -117,7 +117,7 @@
 * [Lisp](#lisp)
 * [Livecode](#livecode)
 * [Lua](#lua)
-* [MarkDown](#markdown)
+* [Markdown](#markdown)
 * [Mathematica](#mathematica)
 * [MATLAB](#matlab)
 * [Maven](#maven)
@@ -604,7 +604,10 @@
 * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) - Paul E. McKenney
 * [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
+Kerridge (PDF) (Just fill the fields with any values)
 * [The OpenCL Programming Book](https://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/)
+* [Using Concurrency and Parallelism Effectively – I](http://bookboon.com/en/using-concurrency-and-parallelism-effectively-i-ebook) - Jon Kerridge (PDF) (Just fill the fields with any values)
+* [Using Concurrency and Parallelism Effectively – II](http://bookboon.com/en/using-concurrency-and-parallelism-effectively-ii-ebook) - Jon 
 
 
 #### Partial Evaluation

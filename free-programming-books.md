@@ -1346,7 +1346,6 @@
 * [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html) - Bradley Kjell
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
-* [JAAS in Action](https://www.gitbook.com/book/benoit74/jaas-in-action/details)
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing and Michael Schwarz (PDF)
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain

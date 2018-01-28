@@ -1374,7 +1374,6 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/) - Bruce Eckel
 * [Welcome to Java for Python Programmers](https://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
-* [What's New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
 
 
 #### JasperReports

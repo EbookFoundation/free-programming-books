@@ -20,26 +20,26 @@
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 * [Mastering AngularJS Directives](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
-* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) - Frederik Dietz *(Leanpub)*
+* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) - Frederik Dietz
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 
 ## Angular
 
-* [Developing with Angular](https://leanpub.com/developing-with-angular/) - Denys Vuika *(Leanpub account required)* (:construction: *in process*)
+* [Developing with Angular](https://leanpub.com/developing-with-angular/) - Denys Vuika   *(Leanpub account or valid email requested)* (:construction: *in process*)
 
 
 ## Aurelia
 
-* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia)
+* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) - behzad  *(Leanpub account or valid email requested)*
 
 
 ## Backbone.js
 
 * [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
-* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis
+* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis   *(Leanpub account or valid email requested)*
 * [Backbone.js + Require.js, Modularization and Just in Time Dependency Loading, part 1](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) [part 2](http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep)
 * [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
 * [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
@@ -56,7 +56,7 @@
 
 ## D3.js
 
-* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks) - Malcolm Maclean (Leanpub)
+* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Malcolm Maclean
 * [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
@@ -85,7 +85,7 @@
 
 ## Express.js
 
-* [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov *(Leanpub)*
+* [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
 
 
 ## jQuery
@@ -135,7 +135,7 @@
 
 ## React Native
 
-* [Programming React Native](https://leanpub.com/programming-react-native)
+* [Programming React Native](https://leanpub.com/programming-react-native)   *(Leanpub account or valid email requested)*
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)

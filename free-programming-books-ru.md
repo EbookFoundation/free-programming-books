@@ -51,6 +51,7 @@
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
+* [Введение в структуры и алгоритмы обработки данных](http://dsabook.mkurnosov.net/) (PDF)
 
 
 #### Работа с сетью
@@ -93,6 +94,7 @@
 * [Особенности языка C. Учебное пособие](http://younglinux.info/sites/default/files/programmingC.pdf) (PDF)
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/) - Романов Е.Л.
 * [Язык Си в примерах](http://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
+* [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
 
 
 ### C++
@@ -168,6 +170,7 @@
 ### Lisp
 
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
+* [Practical Common Lisp (перевод)](http://lisper.ru/pcl/) (PDF)
 
 
 ### MetaPost
@@ -221,6 +224,7 @@
 
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua)
+* [PostgreSQL: Документация](https://postgrespro.ru/docs/postgresql) (PDF)
 
 
 ### R

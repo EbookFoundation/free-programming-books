@@ -48,6 +48,7 @@
 
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF)
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
+* [Введение в структуры и алгоритмы обработки данных](http://dsabook.mkurnosov.net/) (PDF)
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
@@ -91,12 +92,14 @@
 ### C
 
 * [Особенности языка C. Учебное пособие](http://younglinux.info/sites/default/files/programmingC.pdf) (PDF)
+* [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/) - Романов Е.Л.
 * [Язык Си в примерах](http://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
 
 
 ### C++
 
+* [Введение в язык Си++](http://www.stolyarov.info/books/pdf/cppintro3.pdf)
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
 * [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
@@ -163,11 +166,13 @@
 ### LaTeX
 
 * [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
+* [Latex за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf) (PDF)
 
 
 ### Lisp
 
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
+* [Practical Common Lisp (перевод)](http://lisper.ru/pcl/) (PDF)
 
 
 ### MetaPost
@@ -219,6 +224,7 @@
 
 ### PostgreSQL
 
+* [PostgreSQL: Документация](https://postgrespro.ru/docs/postgresql) (PDF)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua)
 

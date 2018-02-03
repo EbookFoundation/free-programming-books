@@ -12,14 +12,18 @@
 * [Webpack](#webpack)
 
 
+### Bash
+
+* [Screencast] - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash) - Hexlet
+
+
 ### C
 
 * [Screencast] - [Введение в Си](https://ru.hexlet.io/courses/introduction_to_c) - Hexlet
 
 
-### Bash
-
-* [Screencast] - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash) - Hexlet
+### Clojure
+* [Screencast] - [Курс Clojure] - (https://clojurecourse.by/)
 
 
 ### Golang

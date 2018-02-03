@@ -166,7 +166,7 @@
 ### LaTeX
 
 * [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
-* [Latex за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf) (PDF)
+* [LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf) (PDF)
 
 
 ### Lisp

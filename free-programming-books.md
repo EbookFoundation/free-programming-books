@@ -1079,8 +1079,8 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 ### Elm
 
-* [An Introduction to Elm](https://guide.elm-lang.org/) (HTML)
-* [Beginning Elm](http://elmprogramming.com/) (HTML)
+* [An Introduction to Elm](https://guide.elm-lang.org) (HTML)
+* [Beginning Elm](http://elmprogramming.com) (HTML)
 
 
 ### Emacs

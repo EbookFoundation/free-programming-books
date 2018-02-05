@@ -23,6 +23,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### In Other Spoken Languages
 + [Arabic](/free-programming-books-ar.md)
 + [Azerbaijani](/free-programming-books-az.md)
++ [Bengali](/free-programming-books-bl.md)
 + [Bulgarian](/free-programming-books-bg.md)
 + [Burmese](/free-programming-books-mm.md)
 + [Chinese](/free-programming-books-zh.md)

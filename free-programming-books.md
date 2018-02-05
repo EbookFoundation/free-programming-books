@@ -38,6 +38,7 @@
 * [Elixir](#elixir)
   * [Ecto](#ecto)
   * [Phoenix](#phoenix)
+* [Elm](#elm)
 * [Emacs](#emacs)
 * [Embedded Systems](#embedded-systems)
 * [Erlang](#erlang)
@@ -1074,6 +1075,12 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [Phoenix v1.3.0 Guide](https://hexdocs.pm/phoenix/overview.html) (HTML)
 * [Versioned APIs with Phoenix](http://elviovicosa.com/books/versioned-apis-with-phoenix) - Elvio Vicosa (PDF) *(account required)*
+
+
+### Elm
+
+* [An Introduction to Elm](https://guide.elm-lang.org/) (HTML)
+* [Beginning Elm](http://elmprogramming.com/) (HTML)
 
 
 ### Emacs

@@ -49,7 +49,7 @@
 
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF)
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
-* [Введение в структуры и алгоритмы обработки данных](http://dsabook.mkurnosov.net/) (PDF)
+* [Введение в структуры и алгоритмы обработки данных](http://dsabook.mkurnosov.net) (PDF)
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
@@ -100,8 +100,8 @@
 
 ### C++
 
-* [Введение в язык Си++](http://www.stolyarov.info/books/pdf/cppintro3.pdf) (PDF)
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
+* [Введение в язык Си++](http://www.stolyarov.info/books/pdf/cppintro3.pdf) (PDF)
 * [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
 
@@ -149,7 +149,7 @@
 
 ### Go
 
-* [Go в примерах](https://gobyexample.ru/)
+* [Go в примерах](https://gobyexample.ru)
 * [The Little Go Book (перевод)](https://sefus.ru/little-go-book/)
 * [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
 * [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)

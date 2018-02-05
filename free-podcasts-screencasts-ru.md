@@ -2,6 +2,7 @@
 
 * [Bash](#bash)
 * [C](#c)
+* [Clojure](#closure)
 * [Golang](#golang)
 * [Java](#java)
 * [Javascript](#javascript)
@@ -12,14 +13,19 @@
 * [Webpack](#webpack)
 
 
+### Bash
+
+* [Screencast] - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash) - Hexlet
+
+
 ### C
 
 * [Screencast] - [Введение в Си](https://ru.hexlet.io/courses/introduction_to_c) - Hexlet
 
 
-### Bash
+### Clojure
 
-* [Screencast] - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash) - Hexlet
+* [Screencast] - [Курс Clojure](https://clojurecourse.by)
 
 
 ### Golang

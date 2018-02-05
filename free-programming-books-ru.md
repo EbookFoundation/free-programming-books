@@ -31,6 +31,7 @@
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
+* [Redis](#redis)
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
@@ -233,6 +234,11 @@
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
 * [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
+
+
+### Redis
+
+* [The Little Redis Book (перевод)](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis-ru.pdf) (PDF)
 
 
 ### Reverse engineering

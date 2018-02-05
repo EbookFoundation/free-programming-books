@@ -2,6 +2,7 @@
 
 * [Bash](#bash)
 * [C](#c)
+* [Clojure](#closure)
 * [Golang](#golang)
 * [Java](#java)
 * [Javascript](#javascript)
@@ -23,6 +24,7 @@
 
 
 ### Clojure
+
 * [Screencast] - [Курс Clojure](https://clojurecourse.by/)
 
 

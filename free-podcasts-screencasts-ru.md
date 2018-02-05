@@ -25,7 +25,7 @@
 
 ### Clojure
 
-* [Screencast] - [Курс Clojure](https://clojurecourse.by/)
+* [Screencast] - [Курс Clojure](https://clojurecourse.by)
 
 
 ### Golang

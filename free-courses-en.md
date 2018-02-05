@@ -216,6 +216,7 @@
 * [Principles of Machine Learning By Microsoft](https://courses.edx.org/courses/course-v1:Microsoft+DAT203.2x+1T2018/course/)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
+
 ### MATLAB
 
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)

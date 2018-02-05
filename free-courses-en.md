@@ -213,9 +213,8 @@
 
 ### Machine Learning
 
-* [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Principles of Machine Learning By Microsoft](https://courses.edx.org/courses/course-v1:Microsoft+DAT203.2x+1T2018/course/)
-
+* [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 ### MATLAB
 

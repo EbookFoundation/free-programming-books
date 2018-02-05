@@ -100,7 +100,7 @@
 
 ### C++
 
-* [Введение в язык Си++](http://www.stolyarov.info/books/pdf/cppintro3.pdf)
+* [Введение в язык Си++](http://www.stolyarov.info/books/pdf/cppintro3.pdf) (PDF)
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
 * [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп

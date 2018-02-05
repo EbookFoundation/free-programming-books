@@ -263,17 +263,17 @@
 
 #### Algorithms & Data Structures
 
-* [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html)
+* [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html) - Riccardo Poli et al.
 * [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
-* [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) (PDF)
+* [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
 * [Algorithms Course Materials](http://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [Analysis and Design of Algorithms](http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html) - Sandeep Sen, IIT Delhi
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
-* [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/)
+* [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/) - Jason Brownlee
 * [CS Unplugged: Computer Science without a computer](http://csunplugged.org/books/)
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures (Into Java) - Paul N. Hilfinger](http://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) (PDF)
@@ -284,14 +284,14 @@
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/~rt/gdhandbook/)
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://larc.unt.edu/ian/books/free/license.html) - Ian Parberry (use form at bottom of license)
-* [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
+* [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn et al.
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures: An Introduction](http://opendatastructures.org) - Pat Morin
 * [Planning Algorithms](http://planning.cs.uiuc.edu)
 * [Problems on Algorithms (Second Edition)](https://larc.unt.edu/ian/books/free/license.html) - Ian Parberry (use form at bottom of license)
-* [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) (PDF)
+* [Purely Functional Data Structures (1996)](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF)
 * [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
 * [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)

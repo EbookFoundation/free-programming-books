@@ -149,7 +149,10 @@
 
 ### Go
 
+* [Go в примерах](https://gobyexample.ru/)
+* [The Little Go Book (перевод)](https://sefus.ru/little-go-book/)
 * [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
+* [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
 
 
 ### Erlang

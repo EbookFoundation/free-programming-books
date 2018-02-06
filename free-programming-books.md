@@ -659,6 +659,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [How to deal with Passwords](https://github.com/MHM5000/pass)
 * [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
 * [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
+* [OWASP Cheat Sheets Book](https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf)
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 
@@ -804,6 +805,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Software optimization resources](http://www.agner.org/optimize/) A. Fog
 * [Wizard Code](http://vendu.twodots.nl/wizardcode.html)
 * [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)
+* [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
 
 
 #### Non-X86
@@ -2078,6 +2080,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
+* [RubyFu](https://www.gitbook.com/book/rubyfu/rubyfu/details)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
 * [Why's (Poignant) Guide to Ruby](http://poignant.guide)

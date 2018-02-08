@@ -33,6 +33,11 @@
 * [Podcast] - [GolangShow](https://golangshow.com)
 
 
+## Gulp
+
+* [Screencast] - [Скринкаст по Gulp](http://learn.javascript.ru/screencast/gulp) - Илья Кантор
+
+
 ### Java
 
 * [Screencast] - [Введение в программирование на языке Java и с Java EE](https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW) - Yakov Fain
@@ -56,6 +61,11 @@
 ### Python
 
 * [Screencast] - [Программирование на Python - Stepic](https://stepic.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67)
+
+
+### React.js
+
+* [Screencast] - [Основы React.js](http://learn.javascript.ru/screencast/react) - Роман Якобчук
 
 
 ### Ruby

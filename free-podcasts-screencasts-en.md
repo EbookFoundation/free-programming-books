@@ -241,6 +241,7 @@
 * [Podcast] - [Ruby Rogues](https://devchat.tv/ruby-rogues/)
 * [Podcast] - [The Bike Shed](http://bikeshed.fm)
 * [Podcast] - [The Ruby Show](http://rubyshow.com)
+* [Screencast] - [Drifting Ruby](https://www.driftingruby.com)
 * [Screencast] - [Railscasts](http://railscasts.com)
 * [Screencast] - [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free)
 

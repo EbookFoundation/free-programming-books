@@ -2095,6 +2095,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
 * [Learn Ruby on Rails as You Modify a Craigslist Clone](http://www.thinkful.com/learn/ruby-on-rails-tutorial/)
 * [Objects on Rails](http://objectsonrails.com)
+* [Rails Beginner Cheat Sheet](http://www.pragtob.info/rails-beginner-cheatsheet) - Tobias Pfeiffer
 * [Rails Girls Guides](http://guides.railsgirls.com)
 * [Ruby on Rails 3.2 - Step by Step](http://www.xyzpub.com/en/ruby-on-rails/3.2/)
 * [Ruby on Rails 4.0 Guide](http://www.xyzpub.com/en/ruby-on-rails/4.0/)

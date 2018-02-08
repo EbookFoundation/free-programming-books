@@ -2,14 +2,15 @@
 
 * [Bash](#bash)
 * [C](#c)
-* [Clojure](#closure)
+* [Clojure](#clojure)
 * [Golang](#golang)
+* [Gulp](#gulp)
 * [Java](#java)
 * [Javascript](#javascript)
   * [Node.js](#nodejs)
 * [Python](#python)
+* [React.js](#reactjs)
 * [Ruby](#ruby)
-  * [Rails](#rails)
 * [Webpack](#webpack)
 
 
@@ -33,7 +34,7 @@
 * [Podcast] - [GolangShow](https://golangshow.com)
 
 
-## Gulp
+### Gulp
 
 * [Screencast] - [Скринкаст по Gulp](http://learn.javascript.ru/screencast/gulp) - Илья Кантор
 

@@ -1192,6 +1192,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [The Go Tutorial](http://tour.golang.org)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book)
 * [Web apps in Go, the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+* [Go in action notes](https://github.com/rujews/go-in-action-notes)
 
 
 ### Groovy

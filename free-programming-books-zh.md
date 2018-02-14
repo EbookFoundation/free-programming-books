@@ -422,6 +422,7 @@
 * [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
 * [学习Go语言](http://mikespook.com/learning-go/)
 * [神奇的 Go 语言](http://go.ctolib.com/docs/read/magical-go-c-index.html)
+* [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 
 
 ### Groovy

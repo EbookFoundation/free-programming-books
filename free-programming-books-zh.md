@@ -413,6 +413,7 @@
 * [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
 * [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) (《 [The Little Go Book](https://github.com/karlseguin/the-little-go-book) 》中文版)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
+* [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go实战开发](https://github.com/astaxie/Go-in-Action)

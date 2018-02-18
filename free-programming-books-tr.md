@@ -63,6 +63,7 @@
 ### Git
 
 * [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
+* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details)
 
 
 ### Go

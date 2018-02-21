@@ -1346,6 +1346,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman (PDF)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson (PDF)
 * [Artificial Intelligence - Foundation of Computational Agents (2010)](http://artint.info/html/ArtInt.html) - David Poole and Alan Mackworth
+* [Building Back-End Web Apps with Java, JPA and JSF](http://web-engineering.info/tech/JavaJpaJsf/book/index.html) - Mircea Diaconescu and Gerd Wagner
 * [Category wise tutorials - J2EE](https://www.mkyong.com/all-tutorials-on-mkyong-com/) - Yong Mook Kim
 * [Core Servlets and JavaServer Pages, 2nd Ed. (2003)](http://pdf.coreservlets.com) - Marty Hall and Larry Brown
 * [Data Structures in Java for the Principled Programmer (2007)](http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) - Duane A. Bailey (PDF)

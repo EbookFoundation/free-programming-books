@@ -623,8 +623,6 @@
 #### Django
 
 * [Django Girls 教程](https://tutorial.djangogirls.org/zh/) (1.11) (HTML)
-* [Django by example pdf(密码 78i6)](https://pan.baidu.com/s/1gfXXiXP)
-* [How To Tange With Django](http://www.tangowithdjango.com/book/)
 
 
 ### R

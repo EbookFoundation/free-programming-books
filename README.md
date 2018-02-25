@@ -60,7 +60,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 
 ### Interactive Programming Resources
-+ [Free interactive programming tutorials](/free-programming-interactive-tutorials-en.md)
++ [English](/free-programming-interactive-tutorials-en.md)
++ [Russian](/free-programming-interactive-tutorials-ru.md)
 
 
 ### JavaScript Frameworks and Resources

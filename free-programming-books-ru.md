@@ -176,6 +176,7 @@
 
 ### Lisp
 
+* [Common Lisp Cookbook (перевод)](http://lisper.ru/wiki/Cookbook)
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
 * [Practical Common Lisp (перевод)](http://lisper.ru/pcl/) (PDF)
 

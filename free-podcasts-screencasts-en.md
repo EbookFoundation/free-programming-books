@@ -4,6 +4,7 @@
 * [Angular JS](#angularjs)
 * [C#](#c)
 * [C++](#c-1)
+* [Clojure](#clojure)
 * [CSS](#css)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
@@ -49,6 +50,11 @@
 * [Podcast] - [CppCast](http://cppcast.com)
 * [Screencast] - [C++ Programming Video Lectures](https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr)
 * [Screencast] - [C++ STL ](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb)
+
+
+## Clojure
+
+* [Screencast] - [Parens of the Dead](http://www.parens-of-the-dead.com)
 
 
 ### CSS

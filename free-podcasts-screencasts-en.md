@@ -5,6 +5,7 @@
 * [C#](#c)
 * [C++](#c-1)
 * [CSS](#css)
+* [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
 * [Emacs](#emacs)
@@ -54,6 +55,11 @@
 ### CSS
 
 * [Screencast] - [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/)
+
+
+### Clojure
+
+* [Screencast] - [Parens of the Dead](http://www.parens-of-the-dead.com)
 
 
 ### Data Science

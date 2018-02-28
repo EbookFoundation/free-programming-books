@@ -301,6 +301,7 @@
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
 * [Архитектура операционной системы Unix](http://lib.ru/BACH/) - Maurice J. Bach
 * [Введение в системное администрирование UNIX](http://lib.ru/unixhelp/) - Мошков Максим Евгеньевич
+* [Перевод Linux kernel and C library.](http://man-pages-ru.sourceforge.net)
 
 
 ### Vim

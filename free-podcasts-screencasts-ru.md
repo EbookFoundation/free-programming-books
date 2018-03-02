@@ -17,12 +17,12 @@
 
 ### Bash
 
-* [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash) (Screencast) - Hexlet
+* [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash) - Hexlet (Screencast)
 
 
 ### C
 
-* [Введение в Си](https://ru.hexlet.io/courses/introduction_to_c) (Screencast) - Hexlet
+* [Введение в Си](https://ru.hexlet.io/courses/introduction_to_c) - Hexlet (Screencast)
 
 
 ### Clojure

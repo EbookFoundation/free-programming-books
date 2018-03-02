@@ -37,13 +37,13 @@
 
 ### Gulp
 
-* [Скринкаст по Gulp](http://learn.javascript.ru/screencast/gulp) (Screencast) - Илья Кантор
+* [Скринкаст по Gulp](http://learn.javascript.ru/screencast/gulp) - Илья Кантор (Screencast)
 
 
 ### Java
 
-* [Java. Базовый курс](https://stepic.org/course/Java-%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%83%D1%80%D1%81-187) (Screencast) - Stepic
-* [Введение в программирование на языке Java и с Java EE](https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW) (Screencast) - Yakov Fain
+* [Java. Базовый курс](https://stepic.org/course/Java-%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%83%D1%80%D1%81-187) - Stepic (Screencast)
+* [Введение в программирование на языке Java и с Java EE](https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW)  -Yakov Fain (Screencast)
 
 
 ### Javascript
@@ -57,29 +57,29 @@
 
 ### Node.js
 
-* [Скринкаст Node.JS](https://learn.javascript.ru/screencast/nodejs) (Screencast) - Илья Кантор
+* [Скринкаст Node.JS](https://learn.javascript.ru/screencast/nodejs) - Илья Кантор (Screencast)
 
 
 ### Python
 
-* [Программирование на Python](https://stepic.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67) (Screencast) - Stepic
+* [Программирование на Python](https://stepic.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67) - Stepic (Screencast)
 
 
 ### React.js
 
-* [Основы React.js](http://learn.javascript.ru/screencast/react) (Screencast) - Роман Якобчук
+* [Основы React.js](http://learn.javascript.ru/screencast/react) - Роман Якобчук (Screencast)
 
 
 ### Ruby
 
 * [RubyNoName Podcast](http://rubynoname.ru) (Podcast)
-* [RubySchool (Ruby, Rails)](http://rubyschool.us) (Screencast) - Роман Пушкин
+* [RubySchool (Ruby, Rails)](http://rubyschool.us) - Роман Пушкин (Screencast)
 * [RWPod Podcast](http://rwpod.com) (Podcast)
 
 
 ### Webpack
 
-* [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) (Screencast) - Илья Кантор
+* [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)
 
 
 ### Веб-дизайн

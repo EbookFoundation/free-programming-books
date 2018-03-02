@@ -72,9 +72,9 @@
 
 ### Ruby
 
-* [RWPod Podcast](http://rwpod.com) (Podcast)
 * [RubyNoName Podcast](http://rubynoname.ru) (Podcast)
 * [RubySchool (Ruby, Rails)](http://rubyschool.us) (Screencast) - Роман Пушкин
+* [RWPod Podcast](http://rwpod.com) (Podcast)
 
 
 ### Webpack

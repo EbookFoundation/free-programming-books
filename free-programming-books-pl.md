@@ -18,6 +18,7 @@
 * [PHP](#php)
 * [Prolog](#prolog)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [SQL](#sql)
@@ -32,7 +33,6 @@
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
 * [SVN](https://pl.wikibooks.org/wiki/Subversion)
 * [System kontroli wersji Subversion](http://www.gajdaw.pl/varia/subversion-system-kontroli-wersji-tutorial/)
-* [W obronie wolności](http://stallman.helion.pl)
 
 
 ### Android
@@ -138,6 +138,11 @@
 
 * [Biblioteka Pythona](http://www.python.rk.edu.pl)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
+
+
+#### Django
+
+* [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 
 
 ### Ruby

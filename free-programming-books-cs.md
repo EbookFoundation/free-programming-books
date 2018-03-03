@@ -17,6 +17,7 @@
 * [OpenSource](#opensource)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby](#ruby)
 * [TeX](#tex)
 * [Webdesign](#webdesign)
@@ -113,6 +114,11 @@
 
 * [Ponořme se do Pythonu 3](https://knihy.nic.cz) - Mark Pilgrim (PDF)
 * [Učebnice jazyka Python](http://i.iinfo.cz/files/root/k/Ucebnice_jazyka_Python.pdf) (PDF)
+
+
+#### Django
+
+* [Django Girls Tutoriál](https://tutorial.djangogirls.org/cs/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Ruby

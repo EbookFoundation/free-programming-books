@@ -143,6 +143,7 @@
 
 ### Language Agnostic
 
+* [/dev/hell](http://devhell.info) (podcast)
 * [AppMasters](http://www.appmasters.co/podcast-home/) (podcast)
 * [Arrested DevOps](https://www.arresteddevops.com) (podcast)
 * [Beats, Rye & Types](http://beatsryetypes.com) (podcast)
@@ -152,7 +153,6 @@
 * [CodePen Radio](https://blog.codepen.io/radio/) (podcast)
 * [Coding Blocks](http://www.codingblocks.net) (podcast)
 * [CTRL+CLICK CAST](http://ctrlclickcast.com) (podcast)
-* [/dev/hell](http://devhell.info) (podcast)
 * [Developer On Fire](http://developeronfire.com) (podcast)
 * [Developer Tea](https://developertea.com) (podcast)
 * [DevelopersHangout](http://www.developershangout.io) (podcast)

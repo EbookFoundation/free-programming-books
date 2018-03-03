@@ -67,6 +67,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### JavaScript Frameworks and Resources
 + [English](/javascript-frameworks-resources.md)
 + [Portuguese (Brazil)](/javascript-frameworks-resources-pt_BR.md)
++ [Russian](/javascript-frameworks-resources-ru.md)
 
 
 ### Problem Sets and Competitive Programming

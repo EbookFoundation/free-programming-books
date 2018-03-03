@@ -22,7 +22,6 @@
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MetaPost](#metapost)
-* [Misc](#misc)
 * [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [Perl](#perl)
@@ -42,7 +41,6 @@
 * [Smalltalk](#smalltalk)
 * [Unix](#unix)
 * [Vim](#vim)
-* [Параллельные технологии](#parallel)
 
 
 ### 0 - Language Agnostic
@@ -52,6 +50,7 @@
 * [Введение в структуры и алгоритмы обработки данных](http://dsabook.mkurnosov.net) (PDF)
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
+* [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
 
@@ -82,7 +81,7 @@
 * [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
-* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) (PDF)
+* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) - Андрей Столяров (PDF)
 * [Цифровая схемотехника и архитектура компьютера](https://community.imgtec.com/downloads/digital-design-and-computer-architecture-russian-edition-second-edition) - Дэвид Харрис, Сара Харрис *(требуется учетная запись)*
 
 
@@ -93,7 +92,7 @@
 
 ### C
 
-* [Особенности языка C. Учебное пособие](http://younglinux.info/sites/default/files/programmingC.pdf) (PDF)
+* [Особенности языка C. Учебное пособие](http://younglinux.info/с) - C. Шапошникова (PDF)
 * [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/) - Романов Е.Л.
 * [Язык Си в примерах](http://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
@@ -102,7 +101,7 @@
 ### C++
 
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
-* [Введение в язык Си++](http://www.stolyarov.info/books/pdf/cppintro3.pdf) (PDF)
+* [Введение в язык Си++](http://www.stolyarov.info/books/pdf/cppintro3.pdf) - Андрей Столяров (PDF)
 * [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
 
@@ -116,6 +115,33 @@
 
 * [The Little Book on CoffeeScript](https://github.com/andrew--r/the-little-book-on-coffeescript) - перевод Андрея Романова
 * [Документация CoffeeScript](http://cidocs.ru/coffeescript/) - Jeremy Ashkenas
+
+
+### Erlang
+
+* [Программирование на Эрланге](https://github.com/dyp2000/Russian-Armstrong-Erlang) - Джо Армстронг
+
+
+### Git
+
+* [Pro Git](http://git-scm.com/book/ru/v2)
+* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/) - Ben Lynn
+* [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
+
+
+### Go
+
+* [Go в примерах](https://gobyexample.ru)
+* [The Little Go Book (перевод)](https://sefus.ru/little-go-book/)
+* [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
+* [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
+
+
+### Haskell
+
+* [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
+* [О Haskell по-человечески](https://www.ohaskell.guide) - Денис Шевченко
+* [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
 
 
 ### Java
@@ -142,37 +168,10 @@
 * [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
 
 
-### Git
-
-* [Pro Git](http://git-scm.com/book/ru/v2)
-* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/) - Ben Lynn
-* [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
-
-
-### Go
-
-* [Go в примерах](https://gobyexample.ru)
-* [The Little Go Book (перевод)](https://sefus.ru/little-go-book/)
-* [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
-* [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
-
-
-### Erlang
-
-* [Программирование на Эрланге](https://github.com/dyp2000/Russian-Armstrong-Erlang) - Джо Армстронг
-
-
-### Haskell
-
-* [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
-* [О Haskell по-человечески](https://www.ohaskell.guide) - Денис Шевченко
-* [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
-
-
 ### LaTeX
 
 * [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
-* [LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf) (PDF)
+* [LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf) - Андрей Столяров (PDF)
 
 
 ### Lisp
@@ -189,7 +188,7 @@
 
 ### NoSQL
 
-* [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) (PDF)
+* [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) - Карл Сегуин (PDF)
 * [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md) - Карл Сегуин
 
 
@@ -232,8 +231,8 @@
 ### PostgreSQL
 
 * [PostgreSQL: Документация](https://postgrespro.ru/docs/postgresql) (PDF)
-* [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)
-* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua)
+* [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
+* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
 
 
 ### R
@@ -309,7 +308,3 @@
 * [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook/) - Steve Oualline
 * [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) (PDF)
 
-
-### Parallel
-
-* [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)

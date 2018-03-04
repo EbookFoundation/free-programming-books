@@ -27,7 +27,7 @@
 
 ### ClojureScript
 
-* [Web REPL](http://clojurescript.net/)
+* [Web REPL](http://clojurescript.net)
 
 
 ### Crystal

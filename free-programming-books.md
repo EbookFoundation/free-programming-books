@@ -839,13 +839,13 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 ### Bash
 
-* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper
-* [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels
-* [Bash Notes for Professionals](http://books.goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (3.x)
-* [BASH Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
-* [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
-* [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
-* [BashGuide](http://mywiki.wooledge.org/BashGuide)
+* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
+* [Bash Guide for Beginners (2008)](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
+* [Bash Notes for Professionals](http://books.goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (3.x) (PDF)
+* [BASH Programming (2000)](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - Mike G. (HTML)
+* [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html) (HTML)
+* [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) - Anthony Scemama (PDF)
+* [BashGuide](http://mywiki.wooledge.org/BashGuide) - Maarten Billemont (HTML) [(PDF)](http://s.ntnu.no/bashguide.pdf)
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates
 * [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php)
 * [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)

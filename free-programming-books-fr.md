@@ -33,6 +33,7 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Sage](#sage)
@@ -166,6 +167,11 @@
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
 
 
+##### KOMA-Script
+
+* [KOMA-Script, Typographie universelle avec XƎLaTeX](https://framabook.org/koma-script/) - Raymond Rochedieu (trad.) et Markus Kohm
+
+
 #### Asymptote
 
 * [Asymptote. Démarrage rapide](http://cgmaths.fr/cgFiles/Dem_Rapide.pdf) - Christophe Grospellier (PDF)
@@ -228,6 +234,11 @@
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau et Laurent Pointal
+
+
+#### Django
+
+* [Tutoriel de Django Girls](https://tutorial.djangogirls.org/fr/) (1.11) (HTML)
 
 
 ### R

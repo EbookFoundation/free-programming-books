@@ -17,6 +17,7 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
@@ -146,6 +147,11 @@
 * [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF)
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
+
+
+#### Django
+
+* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### RegEx

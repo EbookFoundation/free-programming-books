@@ -53,6 +53,7 @@
   * [Perl](#perl)
   * [PHP](#php)
   * [Python](#python)
+    * [Django](#django)
   * [R](#r)
   * [reStructuredText](#restructuredtext)
   * [Ruby](#ruby)
@@ -412,6 +413,7 @@
 * [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
 * [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) (《 [The Little Go Book](https://github.com/karlseguin/the-little-go-book) 》中文版)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
+* [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go实战开发](https://github.com/astaxie/Go-in-Action)
@@ -494,7 +496,7 @@
 * CoffeeScript
   * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * D3.js
-  * [Learning D3.JS](http://d3.decembercafe.org) (Created by 十二月咖啡馆)
+  * [Learning D3.JS](http://d3.decembercafe.org) (Created by 十二月咖啡馆)
   * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
   * [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
   * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
@@ -616,6 +618,11 @@
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
 * [简明 Python 教程](https://bop.molun.net) (作者：Swaroop C H 译者：沈洁元、漠伦)
+
+
+#### Django
+
+* [Django Girls 教程](https://tutorial.djangogirls.org/zh/) (1.11) (HTML)
 
 
 ### R

@@ -559,20 +559,21 @@
 
 * [Data Journalism Handbook](http://datajournalismhandbook.org)
 * [Fintech, Open Source, and Emerging Markets Digital Banking for Everyone](http://www.oreilly.com/programming/free/fintech-open-source-and-emerging-tech.csp) *(Just fill the fields with any values)*
-* [Free as in Freedom](https://archive.org/details/faif-2.0) (PDF)
-* [Free Software, Free Society](http://shop.fsf.org/product/free-software-free-society-2/)
+* [Free as in Freedom: Richard Stallman and the free software revolution](https://archive.org/details/faif-2.0) - Sam Williams (PDF)
+* [Free for All](https://unglue.it/work/136445/) - Peter Wayner
+* [Free Software, Free Society: Selected Essays of Richard M. Stallman](http://shop.fsf.org/product/free-software-free-society-2/)
 * [Getting Started with InnerSource](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp) *(Just fill the fields with any values)*
 * [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
 * [How to get started with open source](https://opensource.com/resources/ebook/how-get-started-open-source) (ePub & ODT)
-* [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html)
+* [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html) - Ron Goldman, Richard P. Gabriel
 * [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org)
 * [Open by Design](http://www.oreilly.com/programming/free/open-by-design.csp) *(Just fill the fields with any values)*
 * [Open Source in Brazil](http://www.oreilly.com/programming/free/open-source-in-brazil.csp) *(Just fill the fields with any values)*
-* [Producing Open Source Software](http://producingoss.com)
+* [Producing Open Source Software](http://producingoss.com) - Karl Fogel
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Art of Community](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf) - Jono Bacon (PDF)
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
-* [The Future of the Internet](http://futureoftheinternet.org)
+* [The Future of the Internet](http://futureoftheinternet.org) - Jonathan Zittrain
 * [The Open Source Way](http://www.theopensourceway.org/book/)
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
 
@@ -838,24 +839,24 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 ### Bash
 
-* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper
-* [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels
-* [Bash Notes for Professionals](http://books.goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (3.x)
-* [BASH Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
-* [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
-* [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
-* [BashGuide](http://mywiki.wooledge.org/BashGuide)
-* [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates
-* [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php)
-* [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
-* [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School
+* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
+* [Bash Guide for Beginners (2008)](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
+* [Bash Notes for Professionals](http://books.goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (3.x) (PDF)
+* [BASH Programming (2000)](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - Mike G. (HTML)
+* [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html) (HTML)
+* [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) - Anthony Scemama (PDF)
+* [BashGuide](http://mywiki.wooledge.org/BashGuide) - Maarten Billemont (HTML) [(PDF)](http://s.ntnu.no/bashguide.pdf)
+* [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates (HTML)
+* [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php) (HTML)
+* [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml) - Paul Armstrong (HTML)
+* [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School (HTML)
 * [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
-* [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
-* [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
-* [Slackbook](http://slackbook.org)
-* [The Bash Academy](http://www.bash.academy)
+* [Linux Shell Scripting Tutorial - A Beginner's Handbook (2002)](http://www.freeos.com/guides/lsst/) - Vivek G. Gite (HTML)
+* [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page) - Vivek Gite (HTML)
+* [Slackbook (2005)](http://slackbook.org) - Alan Hicks, Chris Lumens, David Cantrell and Logan Johnson (HTML, DocBook, Postscript, PDF) 
+* [The Bash Academy](http://guide.bash.academy) - Maarten Billemont (HTML)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts, Jr. (PDF)
-* [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr.
+* [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr. (HTML)
 
 
 ### Basic

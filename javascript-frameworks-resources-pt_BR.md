@@ -1,3 +1,5 @@
+We've decided to move these resources back into books, courses, casts, and playgrounds pages. We could use help on this. - The management
+
 ### Vue.js
 
 * [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)

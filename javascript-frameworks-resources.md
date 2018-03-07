@@ -1,3 +1,7 @@
+We've decided to move these resources back into books, courses, casts, and playgrounds pages. We could use help on this. - The management
+
+
+
 ## Angular.js
 
 * [Angular Basics](http://www.angularjsbook.com)

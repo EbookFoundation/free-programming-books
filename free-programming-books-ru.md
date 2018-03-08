@@ -19,6 +19,7 @@
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
   * [Node.js](#nodejs)
+* [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MetaPost](#metapost)
@@ -166,6 +167,11 @@
 #### Node.js
 
 * [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
+
+
+### Kotlin
+
+* [Руководство по языку Kotlin](http://kotlinlang.ru)
 
 
 ### LaTeX

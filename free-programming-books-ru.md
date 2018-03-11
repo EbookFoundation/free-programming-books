@@ -11,6 +11,7 @@
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
+* [Elasticsearch](#elasticsearch)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
 * [Git](#git)
@@ -18,8 +19,12 @@
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [AngularJS](#angularjs)
   * [jQuery](#jquery)
   * [Node.js](#nodejs)
+  * [nuxt.js](#nuxtjs)
+  * [React](#react)
+  * [vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
@@ -28,11 +33,13 @@
 * [Objective-C](#objective-c)
 * [Perl](#perl)
 * [PHP](#php)
+  * [CakePHP](#cakephp)
+  * [CodeIgniter](#codeigniter)
+  * [Laravel](#laravel)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
-* [Redis](#redis)
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
@@ -119,6 +126,11 @@
 * [Документация CoffeeScript](http://cidocs.ru/coffeescript) - Jeremy Ashkenas
 
 
+### Elasticsearch
+
+* [Уроки по Elasticsearch](https://codedzen.ru/category/uroki/elasticsearch)
+
+
 ### Elixir
 
 * [Уроки программирования на языке Elixir](http://elixirschool.com/ru)
@@ -165,14 +177,35 @@
 * [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
 
 
+#### AngularJS
+
+* [Перевод документации](http://angular-doc.herokuapp.com)
+
+
 #### jQuery
 
 * [jQuery для начинающих](http://anton.shevchuk.name/jquery-book) - Антон Шевчук
+* [Русская документация по API jQuery](https://jquery-docs.ru)
 
 
 #### Node.js
 
 * [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
+
+
+#### Nuxt.js
+
+* [Перевод документации](https://ru.nuxtjs.org)
+
+
+#### React
+
+* [Уроки по React](https://codedzen.ru/category/uroki/react)
+
+
+#### Vue.js
+
+* [Перевод документации](https://ru.vuejs.org)
 
 
 ### Kotlin
@@ -220,17 +253,32 @@
 
 ### PHP
 
-* CodeIgniter Framework
-  * [CodeIgniter 2.1.3](http://php5.kiev.ua/codeigniter/)
-* [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way/)
-* [Руководство по PHP](http://docs.php.net/manual/ru/)
-* [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)
+* [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way)
+* [Руководство по PHP](http://docs.php.net/manual/ru)
+* [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher)
+
+
+#### CakePHP
+
+* [Руководство](https://book.cakephp.org/3.0/ru/index.html)
+
+
+#### CodeIgniter
+
+* [CodeIgniter](http://codeigniter3.info) - Игорь Букша
+
+
+#### Laravel
+
+* [Документация 5.x](https://laravel.ru/docs/v5)
+* [Перевод документации](http://laravel.su/docs)
 
 
 ### Python
 
-* [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone/)
+* [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
+* [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
 
@@ -251,11 +299,6 @@
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
 * [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
-
-
-### Redis
-
-* [The Little Redis Book (перевод)](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis-ru.pdf) (PDF)
 
 
 ### Reverse engineering

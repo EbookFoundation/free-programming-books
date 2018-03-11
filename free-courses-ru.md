@@ -2,6 +2,7 @@
 
 * [Java](#java)
 * [Python](#python)
+* [React](#react)
 
 
 ### Уровни
@@ -23,3 +24,11 @@ ADV - продвинутый. Тонкости.
 * [Python: основы и применение](https://stepik.org/course/512/) - Stepik (INT).
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG). Упор на практику, включено множество задач на написание кода.
 * [Программирование на Python](https://stepik.org/course/67/) - Stepik (BEG).
+
+
+### React
+
+* [React.js курс для начинающих](https://www.gitbook.com/book/maxfarseer/react-course-ru/details) (BEG)
+* [Роутинг в react-приложениях](https://www.gitbook.com/book/maxfarseer/react-router-course-ru/details) (INT)
+* [Туториал по Redux](https://www.gitbook.com/book/maxfarseer/redux-course-ru/details) (INT)
+

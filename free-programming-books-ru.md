@@ -11,6 +11,7 @@
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
+* [Elixir](#elixir)
 * [Erlang](#erlang)
 * [Git](#git)
 * [Go](#go)
@@ -48,7 +49,7 @@
 
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF)
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
-* [Введение в структуры и алгоритмы обработки данных](http://dsabook.mkurnosov.net) (PDF)
+* [Введение в структуры и алгоритмы обработки данных](http://dsabook.mkurnosov.net) - Михаил Курносов (PDF)
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
@@ -83,7 +84,6 @@
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) - Андрей Столяров (PDF)
-* [Цифровая схемотехника и архитектура компьютера](https://community.imgtec.com/downloads/digital-design-and-computer-architecture-russian-edition-second-edition) - Дэвид Харрис, Сара Харрис *(требуется учетная запись)*
 
 
 ### Bash
@@ -93,9 +93,10 @@
 
 ### C
 
+* [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf) - Денис Юричев (PDF)
 * [Особенности языка C. Учебное пособие](http://younglinux.info/с) - C. Шапошникова (PDF)
 * [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
-* [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html/) - Романов Е.Л.
+* [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html) - Романов Е.Л.
 * [Язык Си в примерах](http://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
 
 
@@ -109,13 +110,18 @@
 
 ### Clojure
 
-* [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro/) - Алексей Отт
+* [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro) - Алексей Отт
 
 
 ### CoffeeScript
 
 * [The Little Book on CoffeeScript](https://github.com/andrew--r/the-little-book-on-coffeescript) - перевод Андрея Романова
-* [Документация CoffeeScript](http://cidocs.ru/coffeescript/) - Jeremy Ashkenas
+* [Документация CoffeeScript](http://cidocs.ru/coffeescript) - Jeremy Ashkenas
+
+
+### Elixir
+
+* [Уроки программирования на языке Elixir](http://elixirschool.com/ru)
 
 
 ### Erlang
@@ -126,14 +132,14 @@
 ### Git
 
 * [Pro Git](http://git-scm.com/book/ru/v2)
-* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/) - Ben Lynn
+* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) - Ben Lynn
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 
 
 ### Go
 
 * [Go в примерах](https://gobyexample.ru)
-* [The Little Go Book (перевод)](https://sefus.ru/little-go-book/)
+* [The Little Go Book (перевод)](https://sefus.ru/little-go-book)
 * [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
 * [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
 
@@ -153,7 +159,7 @@
 
 ### JavaScript
 
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/) - Иво Ветцель
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
 * [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
 * [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
@@ -161,7 +167,7 @@
 
 #### jQuery
 
-* [jQuery для начинающих](http://anton.shevchuk.name/jquery-book/) - Антон Шевчук
+* [jQuery для начинающих](http://anton.shevchuk.name/jquery-book) - Антон Шевчук
 
 
 #### Node.js
@@ -184,7 +190,7 @@
 
 * [Common Lisp Cookbook (перевод)](http://lisper.ru/wiki/Cookbook)
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
-* [Practical Common Lisp (перевод)](http://lisper.ru/pcl/) (PDF)
+* [Practical Common Lisp (перевод)](http://lisper.ru/pcl) (PDF)
 
 
 ### MetaPost
@@ -254,7 +260,7 @@
 
 ### Reverse engineering
 
-* [Введение в reverse engineering для начинающих](https://github.com/dennis714/RE-for-beginners)
+* [Введение в reverse engineering для начинающих](https://beginners.re/RE4B-RU.pdf) - Денис Юричев (PDF)
 
 
 ### Ruby
@@ -287,6 +293,7 @@
 
 * [Effective Scala](http://twitter.github.io/effectivescala/index-ru.html) - Marius Eriksen
 * [Scala Школа!](http://twitter.github.io/scala_school/ru/) - Twitter
+* [Путеводитель неофита по Scala (перевод серии статей Даниеля Вестсайда)](https://github.com/anton-k/ru-neophyte-guide-to-scala) - Антон Холомьёв
 
 
 ### Scilab

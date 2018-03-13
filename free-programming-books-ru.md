@@ -5,9 +5,11 @@
   * [Облачные Вычисления](#Облачные-вычисления)
   * [Парадигмы Программирования](#Парадигмы-программирования)
   * [Работа c cетью](#Работа-с-сетью)
+* [ASP.NET](#aspnet)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
+* [C#](#c-sharp)
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
@@ -18,6 +20,9 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [Java](#java)
+  * [Hibernate](#hibernate)
+  * [Maven](#maven)
+  * [Spring](#spring)
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
   * [jQuery](#jquery)
@@ -36,7 +41,6 @@
   * [CakePHP](#cakephp)
   * [CodeIgniter](#codeigniter)
   * [Laravel](#laravel)
-* [PostgreSQL](#postgresql)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
@@ -48,6 +52,9 @@
 * [Scala](#scala)
 * [Scilab](#scilab)
 * [Smalltalk](#smalltalk)
+* [SQL](#sql)
+  * [PostgreSQL](#postgresql)
+* [TypeScript](#typescript)
 * [Unix](#unix)
 * [Vim](#vim)
 
@@ -61,6 +68,9 @@
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
+* [Руководство по HTML5 и CSS3](https://metanit.com/web/html5) - Евгений Попов
+* [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
+* [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
 
 
@@ -85,6 +95,20 @@
 * [Практика функционального программирования](http://fprog.ru) - журнал
 
 
+### ADO.NET
+
+* [Руководство по ADO.NET и работе с базами данных](https://metanit.com/sharp/adonet) - Евгений Попов
+* [Руководство по EF Core](https://metanit.com/sharp/entityframeworkcore) - Евгений Попов
+* [Руководство по Entity Framework](https://metanit.com/sharp/entityframework) - Евгений Попов
+
+
+### ASP.NET
+
+* [Руководство по ASP.NET Core 2.0](https://metanit.com/sharp/aspnet5) - Евгений Попов
+* [Руководство по ASP.NET MVC 5](https://metanit.com/sharp/mvc5) - Евгений Попов
+* [Руководство по ASP.NET Web API 2](https://metanit.com/sharp/aspnet_webapi) - Евгений Попов
+
+
 ### Assembly
 
 * [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
@@ -103,8 +127,16 @@
 * [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf) - Денис Юричев (PDF)
 * [Особенности языка C. Учебное пособие](http://younglinux.info/с) - C. Шапошникова (PDF)
 * [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
+* [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html) - Романов Е.Л.
 * [Язык Си в примерах](http://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
+
+
+### C Sharp
+
+* [Паттерны проектирования в C# и .NET](https://metanit.com/sharp/patterns) - Евгений Попов
+* [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7](https://metanit.com/sharp/tutorial) - Евгений Попов
+* [Сетевое программирование в С# и .NET](https://metanit.com/sharp/net) - Евгений Попов
 
 
 ### C++
@@ -112,6 +144,7 @@
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
 * [Введение в язык Си++](http://www.stolyarov.info/books/pdf/cppintro3.pdf) - Андрей Столяров (PDF)
 * [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
+* [Руководство по языку программирования C++](https://metanit.com/cpp/tutorial) - Евгений Попов
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
 
 
@@ -146,6 +179,7 @@
 * [Pro Git](http://git-scm.com/book/ru/v2)
 * [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) - Ben Lynn
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
+* [Руководство по Git](http://proselyte.net/tutorials/git) - Евгений Сулейманов
 
 
 ### Go
@@ -166,31 +200,69 @@
 ### Java
 
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
+* [Руководство по Java Core](http://proselyte.net/tutorials/java-core) - Евгений Сулейманов
+* [Руководство по Servlets](http://proselyte.net/tutorials/servlets) - Евгений Сулейманов
+* [Руководство по языку программирования Java](https://metanit.com/java/tutorial) - Евгений Попов
 * [Учебник Java 8](https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8) - Фёдор Урванов
+
+
+#### Android
+
+* [Программирование под ОС Андроид](https://metanit.com/java/android) - Евгений Попов
+
+
+#### Hibernate
+
+* [Руководство по Hibernate](http://proselyte.net/tutorials/hibernate-tutorial) - Евгений Сулейманов
+
+
+#### JDBC
+
+* [Руководство по JDBC](http://proselyte.net/tutorials/jdbc) - Евгений Сулейманов
+
+
+#### JUnit
+
+* [Руководство по JUnit](http://proselyte.net/tutorials/junit) - Евгений Сулейманов
+
+
+#### Maven
+
+* [Руководство по Maven](http://proselyte.net/tutorials/maven) - Евгений Сулейманов
+
+
+#### Spring
+
+* [Руководство по Spring](http://proselyte.net/tutorials/spring-tutorial-full-version) - Евгений Сулейманов
 
 
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
 * [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
+* [Онлайн-книга по WebGL](https://metanit.com/web/webgl) - Евгений Попов
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
+* [Руководство по JavaScript](https://metanit.com/web/javascript) - Евгений Попов
 * [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
 
 
 #### AngularJS
 
+* [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)
 
 
 #### jQuery
 
 * [jQuery для начинающих](http://anton.shevchuk.name/jquery-book) - Антон Шевчук
+* [Онлайн-книга "Изучаем jQuery"](https://metanit.com/web/jquery) - Евгений Попов
 * [Русская документация по API jQuery](https://jquery-docs.ru)
 
 
 #### Node.js
 
 * [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
+* [Руководство по Node.js](https://metanit.com/web/nodejs) - Евгений Попов
 
 
 #### Nuxt.js
@@ -200,17 +272,20 @@
 
 #### React
 
+* [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
 
 
 #### Vue.js
 
 * [Перевод документации](https://ru.vuejs.org)
+* [Руководство по Vue.js](https://metanit.com/web/vuejs) - Евгений Попов
 
 
 ### Kotlin
 
 * [Руководство по языку Kotlin](http://kotlinlang.ru)
+* [Руководство по языку Kotlin](https://metanit.com/java/kotlin) - Евгений Попов
 
 
 ### LaTeX
@@ -235,6 +310,7 @@
 
 * [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) - Карл Сегуин (PDF)
 * [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md) - Карл Сегуин
+* [Руководство по MongoDB](http://proselyte.net/tutorials/mongodb) - Евгений Сулейманов
 
 
 ### Objective-C
@@ -279,20 +355,15 @@
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
-* [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
+* [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
+* [Укус Питона](http://wombat.org.ua/AByteOfPython) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
 
 
 #### Django
 
 * [Руководство Django Girls](https://tutorial.djangogirls.org/ru/) (1.11) (HTML) (:construction: *in process*)
-
-
-### PostgreSQL
-
-* [PostgreSQL: Документация](https://postgrespro.ru/docs/postgresql) (PDF)
-* [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
-* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
+* [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
 
 
 ### R
@@ -337,6 +408,7 @@
 * [Effective Scala](http://twitter.github.io/effectivescala/index-ru.html) - Marius Eriksen
 * [Scala Школа!](http://twitter.github.io/scala_school/ru/) - Twitter
 * [Путеводитель неофита по Scala (перевод серии статей Даниеля Вестсайда)](https://github.com/anton-k/ru-neophyte-guide-to-scala) - Антон Холомьёв
+* [Руководство по Scala](http://proselyte.net/tutorials/scala) - Евгений Сулейманов
 
 
 ### Scilab
@@ -348,6 +420,25 @@
 ### Smalltalk
 
 * [Смолток: Язык и его реализация](https://sites.google.com/site/polyglotsqueak/) - Адэль Голдберг, Дэвид Робсон
+
+
+### SQL
+
+* [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver) - Евгений Попов
+* [Руководство по SQL](http://proselyte.net/tutorials/sql) - Евгений Сулейманов
+
+
+#### PostgreSQL
+
+* [PostgreSQL: Документация](https://postgrespro.ru/docs/postgresql) (PDF)
+* [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
+* [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
+
+
+### TypeScript
+
+* [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
+* [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
 
 
 ### Unix

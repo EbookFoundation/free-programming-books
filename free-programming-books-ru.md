@@ -5,6 +5,7 @@
   * [Облачные Вычисления](#Облачные-вычисления)
   * [Парадигмы Программирования](#Парадигмы-программирования)
   * [Работа c cетью](#Работа-с-сетью)
+* [ADO.NET](#adonet)
 * [ASP.NET](#aspnet)
 * [Assembly](#assembly)
 * [Bash](#bash)
@@ -187,6 +188,7 @@
 * [Go в примерах](https://gobyexample.ru)
 * [The Little Go Book (перевод)](https://sefus.ru/little-go-book)
 * [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
+* [Руководство по языку Go](https://metanit.com/go/tutorial) - Евгений Попов
 * [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
 
 
@@ -203,12 +205,15 @@
 * [Руководство по Java Core](http://proselyte.net/tutorials/java-core) - Евгений Сулейманов
 * [Руководство по Servlets](http://proselyte.net/tutorials/servlets) - Евгений Сулейманов
 * [Руководство по языку программирования Java](https://metanit.com/java/tutorial) - Евгений Попов
+* [Собеседование по Java Core](http://javastudy.ru/interview/list-of-question-java-interview)
+* [Собеседование по Java EE](http://javastudy.ru/interview/list-of-questions-javaee-interview)
 * [Учебник Java 8](https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8) - Фёдор Урванов
 
 
 #### Android
 
-* [Программирование под ОС Андроид](https://metanit.com/java/android) - Евгений Попов
+* [Программирование под Android](https://metanit.com/java/android) - Евгений Попов
+* [Уроки по Android](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 
 
 #### Hibernate

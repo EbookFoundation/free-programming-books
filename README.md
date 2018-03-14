@@ -5,7 +5,7 @@
 ## Intro
 This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker. 
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of the [most popular repositories on Github](https://octoverse.github.com/), with over 97,000 stars, over 4500 commits, over 950 contributors, and over 24,000 forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of the [most popular repositories on Github](https://octoverse.github.com/), with over 100,000 stars, over 4500 commits, over 950 contributors, and over 25,000 forks.
 
 The repo is now administered by the [Free Ebook Foundation](https://ebookfoundation.org), a not-for-profit organization devoted to promoting the creation, distribution, archiving and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
@@ -23,6 +23,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### In Other Spoken Languages
 + [Arabic](/free-programming-books-ar.md)
 + [Azerbaijani](/free-programming-books-az.md)
++ [Bengali](/free-programming-books-bl.md)
 + [Bulgarian](/free-programming-books-bg.md)
 + [Burmese](/free-programming-books-mm.md)
 + [Chinese](/free-programming-books-zh.md)
@@ -59,7 +60,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 
 ### Interactive Programming Resources
-+ [Free interactive programming tutorials](/free-programming-interactive-tutorials-en.md)
++ [English](/free-programming-interactive-tutorials-en.md)
++ [Russian](/free-programming-interactive-tutorials-ru.md)
 
 
 ### JavaScript Frameworks and Resources

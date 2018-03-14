@@ -7,6 +7,7 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
+* [Component Pascal](#component-pascal)
 * [Git](#git)
 * [Go](#go)
 * [Groovy](#groovy)
@@ -64,6 +65,11 @@
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 
 
+### Component Pascal
+
+* [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
+
+
 ### C Sharp
 
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
@@ -113,6 +119,7 @@
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung/)
+* [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
 
 
 ### Javascript

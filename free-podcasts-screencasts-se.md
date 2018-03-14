@@ -5,7 +5,7 @@
 
 ### Language Agnostic
 
-* [Podcast] - [Kodsnack](http://kodsnack.se)
-* [Podcast] - [Still in beta](http://stillinbeta.se)
-* [Podcast] - [Under utveckling](https://underutveckling.libsyn.com)
-* [Podcast] - [Väg 74](https://www.agical.se/pod)
+* [Kodsnack](http://kodsnack.se) (podcast)
+* [Still in beta](http://stillinbeta.se) (podcast)
+* [Under utveckling](https://underutveckling.libsyn.com) (podcast)
+* [Väg 74](https://www.agical.se/pod) (podcast)

@@ -215,6 +215,7 @@
 
 ### Machine Learning
 
+* [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 

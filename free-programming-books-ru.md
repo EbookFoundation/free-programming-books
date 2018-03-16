@@ -20,6 +20,8 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
+* [HTML / CSS](#html--css)
+  * [Bootstrap](#bootstrap)
 * [Java](#java)
   * [Hibernate](#hibernate)
   * [Maven](#maven)
@@ -69,7 +71,6 @@
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
-* [Руководство по HTML5 и CSS3](https://metanit.com/web/html5) - Евгений Попов
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
@@ -197,6 +198,18 @@
 * [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
 * [О Haskell по-человечески](https://www.ohaskell.guide) - Денис Шевченко
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
+
+
+### HTML / CSS
+
+* [Руководство по HTML5 и CSS3](https://metanit.com/web/html5) - Евгений Попов
+* [Справочник CSS](http://htmlbook.ru/css) - Влад Мержевич
+* [Справочник по HTML](http://htmlbook.ru/html) - Влад Мержевич
+
+
+#### Bootstrap
+
+* [Bootstrap 4](http://getbootstrap.ru/docs/v4-alpha)
 
 
 ### Java

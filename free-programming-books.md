@@ -1438,6 +1438,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Marionette Exposé: Learn to write modular Javascript applicatons using Backbone Marionette and RequireJS/AMD](https://leanpub.com/marionetteexpose) - Jack Killilea  *(Leanpub account or valid email requested)*
 * [Mastering JavaScript High Performance](https://www.packtpub.com/packt/free-ebook/javascript-high-performance) - Chad R. Adams, Packt. *(Just fill the fields with any values)*
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* [Object-Oriented JavaScript](https://www.packtpub.com/packt/free-ebook/object-oriented-javascript-pdf-ebook) - Stoyan Stefanov, Kumar Chetan Sharma
 * [O'Reilly Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 * [Oh My JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani

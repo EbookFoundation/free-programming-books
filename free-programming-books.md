@@ -1417,6 +1417,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net) - Marijn Haverbeke
 * [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
+* [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
 * [JavaScript Challenges Book](https://github.com/tcorral/javascript-challenges-book)

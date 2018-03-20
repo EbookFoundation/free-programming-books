@@ -15,11 +15,6 @@ We've decided to move these resources back into books, courses, casts, and playg
 * [AngularJS Insights](http://pascalprecht.github.io/slides/angularjs-insights/#/)
 * [Mastering AngularJS Directives](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
 
-## Aurelia
-
-* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) - behzad  *(Leanpub account or valid email requested)*
-
-
 ## Backbone.js
 
 * [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
@@ -33,24 +28,12 @@ We've decided to move these resources back into books, courses, casts, and playg
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
-
-## Booty5.js
-
-* [The Booty5 HTML5 Game Maker Manual](http://booty5.com/booty5-free-html-game-maker-e-book-manual/)
-
-
 ## D3.js
 
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Malcolm Maclean
 * [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
-
-
-## Dojo
-
-* [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
-
 
 ## Elm
 
@@ -67,20 +50,10 @@ We've decided to move these resources back into books, courses, casts, and playg
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
-
-## Express.js
-
-* [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
-
 ## Meteor
 
 * [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
-
-## Om
-
-* [Om Tutorial](http://awkay.github.io/om-tutorial/)
-
 
 ## React
 
@@ -116,4 +89,3 @@ We've decided to move these resources back into books, courses, casts, and playg
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
-

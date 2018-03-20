@@ -1528,6 +1528,12 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [The Road to learn React - Build a Hacker News App along the Way](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch *(Leanpub account or valid email requested)* [markdown](https://github.com/the-road-to-learn-react/the-road-to-learn-react/tree/master/manuscript)  
 
+#### React Native
+
+* [Programming React Native](https://leanpub.com/programming-react-native)   *(Leanpub account or valid email requested)*
+* [React Native Express](http://www.reactnativeexpress.com)
+* [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
+
 #### Redux
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)

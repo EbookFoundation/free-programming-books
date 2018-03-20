@@ -1469,6 +1469,12 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [The Booty5 HTML5 Game Maker Manual](http://booty5.com/booty5-free-html-game-maker-e-book-manual/)
 
+#### D3.js
+
+* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Malcolm Maclean
+* [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
+* [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
+
 #### Dojo
 
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
@@ -1522,7 +1528,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [The Road to learn React - Build a Hacker News App along the Way](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch *(Leanpub account or valid email requested)* [markdown](https://github.com/the-road-to-learn-react/the-road-to-learn-react/tree/master/manuscript)  
 
-
 #### Redux
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
@@ -1532,7 +1537,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Jenkins
 
 * [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
-
 
 ### Julia
 

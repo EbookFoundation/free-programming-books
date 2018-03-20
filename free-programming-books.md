@@ -1473,6 +1473,10 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
 
+#### Elm
+* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* [Elm Tutorial](http://www.elm-tutorial.org)
+
 #### Express.js
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov

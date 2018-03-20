@@ -96,13 +96,6 @@ We've decided to move these resources back into books, courses, casts, and playg
 * [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
-
-## Node.js
-
-* [Node Documentation](https://nodejs.org/en/docs/)
-* [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt *(Just fill the fields with any values)*
-
-
 ## Om
 
 * [Om Tutorial](http://awkay.github.io/om-tutorial/)

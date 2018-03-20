@@ -2,7 +2,6 @@
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
-* [AngularJS](#angularjs)
 * [Assembly](#assembly)
 * [Bash / Shell](#bash--shell)
 * [C](#c)
@@ -76,12 +75,6 @@
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
 * [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android#!/android)
-
-
-### AngularJS
-
-* [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
-* [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
 ### Bash / Shell
@@ -208,8 +201,9 @@
 #### Angular.js
 
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
+* [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
-
+* [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 #### jQuery
 

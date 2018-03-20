@@ -1447,6 +1447,19 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+#### Angular.js
+
+* [Angular.js Guide](https://docs.angularjs.org/guide/)
+* [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
+* [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt *(Just fill the fields with any values)*
+* [AngularJS in 60 Minutes](http://sd.blackball.lv/library/AngularJS_in_60_minutes_Dan_Wahlin_May_2013
+* [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
+* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
+* [AngularJS with Ruby on Rails](http://angular-rails.com)
+* [Developing with Angular](https://leanpub.com/developing-with-angular/) - Denys Vuika *(Leanpub account or valid email requested)* (:construction: *in process*)
+* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) - Frederik Dietz
+* [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
+* [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 #### Javascript Frameworks
 

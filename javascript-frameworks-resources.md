@@ -29,10 +29,7 @@ We've decided to move these resources back into books, courses, casts, and playg
 
 ## D3.js
 
-* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Malcolm Maclean
-* [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
-* [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 ## Elm
 

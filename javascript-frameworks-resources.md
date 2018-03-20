@@ -14,19 +14,6 @@ We've decided to move these resources back into books, courses, casts, and playg
 * [AngularJS Insights](http://pascalprecht.github.io/slides/angularjs-insights/#/)
 * [Mastering AngularJS Directives](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
 
-## Backbone.js
-
-* [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
-* [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
-* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis   *(Leanpub account or valid email requested)*
-* [Backbone.js + Require.js, Modularization and Just in Time Dependency Loading, part 1](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) [part 2](http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep)
-* [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
-* [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
-* [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (:construction: *in process*)
-* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
-* [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
-* [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
-
 ## D3.js
 
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)

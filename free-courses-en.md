@@ -204,22 +204,27 @@
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
 
+
 #### Angular.js
 
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 
+
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
+
 
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 
+
 #### Redux
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+
 
 ### Lua
 

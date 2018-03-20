@@ -1459,6 +1459,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+
 #### Angular.js
 
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
@@ -1476,9 +1477,11 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
+
 #### Aurelia
 
 * [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) - behzad  *(Leanpub account or valid email requested)*
+
 
 #### Backbone.js
 
@@ -1498,6 +1501,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [The Booty5 HTML5 Game Maker Manual](http://booty5.com/booty5-free-html-game-maker-e-book-manual/)
 
+
 #### D3.js
 
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Malcolm Maclean
@@ -1505,15 +1509,18 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
+
 #### Dojo
 
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
+
 
 #### Elm
 
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Tutorial](http://www.elm-tutorial.org)
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
+
 
 #### Ember.js
 
@@ -1523,9 +1530,11 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
+
 #### Express.js
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
+
 
 #### jQuery
 
@@ -1533,10 +1542,12 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
 * [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
 
+
 #### Meteor
 
 * [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
+
 
 #### Node.js
 
@@ -1548,9 +1559,11 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [The Node Beginner Book](http://nodebeginner.org)
 * [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt *(Just fill the fields with any values)*
 
+
 #### Om
 
 * [Om Tutorial](http://awkay.github.io/om-tutorial/)
+
 
 #### React
 
@@ -1569,8 +1582,9 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
-* [SurviveJS - Webpack and React](http://survivejs.com)
 * [The Road to learn React - Build a Hacker News App along the Way](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch *(Leanpub account or valid email requested)* [markdown](https://github.com/the-road-to-learn-react/the-road-to-learn-react/tree/master/manuscript)  
+* [SurviveJS - Webpack and React](http://survivejs.com)
+
 
 #### React Native
 
@@ -1579,15 +1593,18 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
 
+
 #### Redux
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman  *(Leanpub account or valid email requested)*
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 
+
 ### Jenkins
 
 * [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
+
 
 ### Julia
 

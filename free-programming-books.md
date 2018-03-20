@@ -1461,6 +1461,22 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
+#### Aurelia
+
+* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) - behzad  *(Leanpub account or valid email requested)*
+
+#### Booty5.js
+
+* [The Booty5 HTML5 Game Maker Manual](http://booty5.com/booty5-free-html-game-maker-e-book-manual/)
+
+#### Dojo
+
+* [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
+
+#### Express.js
+
+* [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
+
 #### Javascript Frameworks
 
 For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, Meteor, React and any other JS toolkit/framework, please refer to [Javascript Frameworks Resources and Tutorials](/javascript-frameworks-resources.md).
@@ -1480,6 +1496,10 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [The Node Beginner Book](http://nodebeginner.org)
 * [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt *(Just fill the fields with any values)*
+
+#### Om
+
+* [Om Tutorial](http://awkay.github.io/om-tutorial/)
 
 #### React.js
 

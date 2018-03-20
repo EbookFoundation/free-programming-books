@@ -1449,8 +1449,11 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 #### Angular.js
 
+* [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
+* [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt *(Just fill the fields with any values)*
 * [AngularJS in 60 Minutes](http://sd.blackball.lv/library/AngularJS_in_60_minutes_Dan_Wahlin_May_2013
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -1487,6 +1490,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Malcolm Maclean
 * [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
+* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 #### Dojo
@@ -1497,6 +1501,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Tutorial](http://www.elm-tutorial.org)
+* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
 #### Ember.js
 
@@ -1504,6 +1509,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
 * [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
+* [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
 #### Express.js
 
@@ -1561,6 +1567,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 #### React Native
 
 * [Programming React Native](https://leanpub.com/programming-react-native)   *(Leanpub account or valid email requested)*
+* [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
 

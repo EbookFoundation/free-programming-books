@@ -134,6 +134,10 @@
 * [Syntax](https://syntax.fm) (podcast)
 * [The Javascript Show](http://javascriptshow.com) (podcast)
 
+#### Angular.js
+
+* [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
+* [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 
 ### Kotlin
 

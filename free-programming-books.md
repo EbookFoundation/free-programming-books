@@ -1474,8 +1474,16 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
 
 #### Elm
+
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Tutorial](http://www.elm-tutorial.org)
+
+#### Ember.js
+
+* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
+* [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
+* [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
+* [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 
 #### Express.js
 

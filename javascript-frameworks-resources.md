@@ -1,10 +1,9 @@
 We've decided to move these resources back into books, courses, casts, and playgrounds pages. We could use help on this. - The management
 
-
+(all remaning need clarification)
 
 ## Angular.js
 
-(all remaning need clarification)
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
@@ -37,8 +36,6 @@ We've decided to move these resources back into books, courses, casts, and playg
 
 ## Elm
 
-* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
-* [Elm Tutorial](http://www.elm-tutorial.org)
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
 

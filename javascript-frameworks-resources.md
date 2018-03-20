@@ -43,11 +43,6 @@ We've decided to move these resources back into books, courses, casts, and playg
 
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
-## Meteor
-
-* [BulletProof Meteor](https://bulletproofmeteor.com)
-* [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
-
 ## React
 
 * [Free React on Rails course](https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course)

@@ -15,12 +15,6 @@ We've decided to move these resources back into books, courses, casts, and playg
 * [AngularJS Insights](http://pascalprecht.github.io/slides/angularjs-insights/#/)
 * [Mastering AngularJS Directives](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
 
-
-## Angular
-
-* [Developing with Angular](https://leanpub.com/developing-with-angular/) - Denys Vuika   *(Leanpub account or valid email requested)* (:construction: *in process*)
-
-
 ## Aurelia
 
 * [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) - behzad  *(Leanpub account or valid email requested)*

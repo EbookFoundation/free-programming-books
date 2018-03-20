@@ -4,29 +4,16 @@ We've decided to move these resources back into books, courses, casts, and playg
 
 ## Angular.js
 
-* [Angular Basics](http://www.angularjsbook.com)
+(all remaning need clarification)
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
 * [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
-* [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
-* [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
-* [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt *(Just fill the fields with any values)*
-* [AngularJS in 60 Minutes](http://sd.blackball.lv/library/AngularJS_in_60_minutes_Dan_Wahlin_May_2013.pdf) (PDF)
 * [AngularJS Insights](http://pascalprecht.github.io/slides/angularjs-insights/#/)
-* [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
-* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
-* [AngularJS with Ruby on Rails](http://angular-rails.com)
-* [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
-* [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
-* [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 * [Mastering AngularJS Directives](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
-* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) - Frederik Dietz
-* [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
-* [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 
 ## Angular

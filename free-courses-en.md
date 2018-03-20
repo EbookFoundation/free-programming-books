@@ -24,6 +24,7 @@
   * [jQuery](#jquery)
   * [React](#react)
   * [Redux](#redux)
+  * [Sails.js](#sailsjs)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Matlab](#matlab)
@@ -205,6 +206,7 @@
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
+
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
@@ -218,6 +220,11 @@
 #### Redux
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+
+
+### Sails.Js
+
+* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
 
 ### Lua
@@ -326,11 +333,6 @@
 
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
-
-
-### Sails.Js
-
-* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
 
 ### Scala

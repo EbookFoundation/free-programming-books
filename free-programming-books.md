@@ -75,9 +75,21 @@
   * [Spring Security](#spring-security)
   * [Wicket](#wicket)
 * [JavaScript](#javascript)
-  * [Javascript frameworks](#javascript-frameworks)
+  * [Angular.js](#angularjs)
+  * [Aurelia](#aurelia)
+  * [Backbone.js](#backbonejs)
+  * [Booty5.js](#booty5js)
+  * [D3.js](#d3js)
+  * [Dojo](#dojo)
+  * [Elm](#elm)
+  * [Ember.js](#emberjs)
+  * [Express.js](#expressjs)
+  * [jQuery](#jquery)
+  * [meteor](#meteor)
   * [Node.js](#nodejs)
-  * [React.js](#reactjs)
+  * [Om](#om)
+  * [React](#react)
+  * [React Native](#reactnative)
   * [Redux](#redux)
 * [Jenkins](#jenkins)
 * [Julia](#julia)
@@ -1514,10 +1526,6 @@ Kerridge (PDF) (Just fill the fields with any values)
 #### Express.js
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
-
-#### Javascript Frameworks
-
-For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, Meteor, React and any other JS toolkit/framework, please refer to [Javascript Frameworks Resources and Tutorials](/javascript-frameworks-resources.md).
 
 #### jQuery
 

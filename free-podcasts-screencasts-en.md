@@ -1,7 +1,6 @@
 ### Index
 
 * [Android](#android)
-* [Angular JS](#angularjs)
 * [C#](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
@@ -9,19 +8,20 @@
 * [Data Science](#data-science)
 * [Elixir](#elixir)
 * [Emacs](#emacs)
-* [Ember.js](#emberjs)
 * [Erlang](#erlang)
 * [Git](#git)
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Javascript](#javascript)
+  * [Angular.js](#angularjs)
+  * [Ember.js](#emberjs)
+  * [Node.js](#nodejs)
+  * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
-* [Node.js](#Nodejs)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
-* [React JS](#react-js)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Vim](#vim)
@@ -32,12 +32,6 @@
 * [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics/) (screencast)
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) (podcast)
-
-
-### AngularJS
-
-* [Adventures in Angular - DevChat.tv](https://devchat.tv/adventures-in-angular/) (podcast)
-* [Angular Air](https://angularair.com) (podcast)
 
 
 ### C&#x23;
@@ -86,11 +80,6 @@
 * [Emacs Rocks!](http://emacsrocks.com) (screencast)
 
 
-### Ember.js
-
-* [Ember Weekend](https://emberweekend.com/episodes) (podcast)
-
-
 ### Erlang
 
 * [Erlang Factory SF Bay 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ) (screencast)
@@ -133,6 +122,28 @@
 * [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) (screencast)
 * [Syntax](https://syntax.fm) (podcast)
 * [The Javascript Show](http://javascriptshow.com) (podcast)
+
+
+#### Angular.js
+
+* [Adventures in Angular - DevChat.tv](https://devchat.tv/adventures-in-angular/) (podcast)
+* [Angular Air](https://angularair.com) (podcast)
+
+
+#### Ember.js
+
+* [Ember Weekend](https://emberweekend.com/episodes) (podcast)
+
+
+#### React.js
+
+* [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
+* [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
+
+
+#### Node.js
+
+* [Nodeup](http://nodeup.com) (podcast)
 
 
 ### Kotlin
@@ -195,11 +206,6 @@
 * [Web Security Warriors](https://devchat.tv/web-security-warriors/) (podcast)
 
 
-### Node.js
-
-* [Nodeup](http://nodeup.com) (podcast)
-
-
 ### PHP
 
 * [Laravel News Podcast](http://podcast.laravel-news.com) (podcast)
@@ -232,12 +238,6 @@
 * [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d) (screencast)
 * [TheNewBoston - Python Programming Tutorials - 2.x](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA) (screencast)
 * [Try Django Tutorial](http://youtu.be/3DccH9AMwFQ?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx) (screencast)
-
-
-### React JS
-
-* [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
-* [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
 
 
 ### Ruby

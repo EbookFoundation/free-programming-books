@@ -14,6 +14,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [Javascript](#javascript)
+  * [Angular.js](#angularjs)
 * [Language Agnostic](#language-agnostic)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
@@ -124,6 +125,14 @@
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
+
+
+#### Angular.js
+
+* [Angular Basics](http://www.angularjsbook.com)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
+* [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 
 
 ### Language Agnostic

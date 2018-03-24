@@ -2,7 +2,6 @@
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
-* [AngularJS](#angularjs)
 * [Assembly](#assembly)
 * [Bash / Shell](#bash--shell)
 * [C](#c)
@@ -21,7 +20,11 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [JQuery](#jquery)
+  * [Angular.js](#angularjs)
+  * [jQuery](#jquery)
+  * [React](#react)
+  * [Redux](#redux)
+  * [Sails.js](#sailsjs)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Matlab](#matlab)
@@ -73,12 +76,6 @@
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
 * [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android#!/android)
-
-
-### AngularJS
-
-* [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
-* [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
 ### Bash / Shell
@@ -202,9 +199,32 @@
 * [learn:query](https://learnquery.infinum.co)
 
 
-#### JQuery
+#### Angular.js
+
+* [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
+* [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
+* [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
+* [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
+
+#### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
+
+
+#### React
+
+* [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
+
+
+#### Redux
+
+* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+
+
+### Sails.Js
+
+* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
 
 ### Lua
@@ -215,6 +235,7 @@
 
 ### Machine Learning
 
+* [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
@@ -312,11 +333,6 @@
 
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
-
-
-### Sails.Js
-
-* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
 
 ### Scala

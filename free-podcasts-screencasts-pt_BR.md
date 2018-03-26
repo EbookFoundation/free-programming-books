@@ -2,9 +2,11 @@
 
 * [Angular](#angular)
 * [Databases](#databases)
+* [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
+* [Vue.js](#vuejs)
 
 
 ### Angular
@@ -15,6 +17,11 @@
 ### Databases
 
 * [DatabaseCast](http://databasecast.com.br) (podcast)
+
+
+### HTML / CSS
+
+* [Curso de HTML5 em vídeo do Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) (screencast)
 
 
 ### iOS
@@ -38,3 +45,10 @@
  * [NerdTech](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
  * [PODebug](http://www.podebug.com) (podcast)
  * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
+
+
+#### Vue.js
+
+* [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - [Origem: Vedovelli](http://www.vedovelli.com.br/screencasts/)  (screencast)
+
+

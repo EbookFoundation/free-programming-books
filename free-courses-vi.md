@@ -5,8 +5,8 @@
 * [Angular](#angular)
 * [AngularJS](#angularjs)
 * [Bootstrap](#bootstrap)
-* [C#](#c-sharp)
 * [CSS](#css)
+* [C#](#c-sharp)
 * [HTML](#html)
 * [Javascript](#javascript)
 * [jQuery](#jquery)
@@ -46,16 +46,16 @@
 * [Twitter Bootstrap](http://www.hoclaptrinh.org/Twitter-Bootstrap)
 
 
+### CSS
+
+* [CSS Cơ Bản](http://www.hoclaptrinh.org/CSS-Co-Ban)
+
+
 ### C Sharp
 
 * [C# Căn Bản](https://www.youtube.com/watch?v=9kohr6pMwag&list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK)
 * [C# Căn Bản](https://www.youtube.com/watch?v=YgtY0RRM7WQ&list=PLRhlTlpDUWsyOEc-S8ovGVG5L92mZEjVu&index=1) - TEDU
 * [C# Nâng Cao](https://www.youtube.com/watch?v=j-UpmHdqV5Q&list=PLRhlTlpDUWszTdteJzP68F8Q6gRYvhohk&index=1) - TEDU
-
-
-### CSS
-
-* [CSS Cơ Bản](http://www.hoclaptrinh.org/CSS-Co-Ban)
 
 
 ### HTML
@@ -110,11 +110,11 @@
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU
 
 
-### XML
-
-* [XML Cơ Bản](https://www.hoclaptrinh.org/XML-Co-Ban)
-
-
 ### Xcode
 
 * [Xcode Cơ Bản](https://www.hoclaptrinh.org/Xcode-Co-Ban)
+
+
+### XML
+
+* [XML Cơ Bản](https://www.hoclaptrinh.org/XML-Co-Ban)

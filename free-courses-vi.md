@@ -1,8 +1,11 @@
 ### Index
 
 * [AJAX](#ajax)
+* [ASP.NET](#asp-dot-net)
 * [AngularJS](#angularjs)
+* [Angular](#angular)
 * [Bootstrap](#bootstrap)
+* [C#](#c-sharp)
 * [CSS](#css)
 * [HTML](#html)
 * [Javascript](#javascript)
@@ -13,6 +16,7 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [SQL](#sql)
+* [TypeScript](#typescript)
 * [Xcode](#xcode)
 * [XML](#xml)
 
@@ -20,6 +24,15 @@
 ### AJAX
 
 * [Học AJAX](http://www.hoclaptrinh.org/Hoc-AJAX)
+
+### ASP DOT NET
+
+* [Khóa học ASP.NET Core cơ bản (TEDU)](https://tedu.com.vn/khoa-hoc/khoa-hoc-aspnet-core-co-ban-14.html)
+
+
+### Angular
+
+* [Angular 2 Cơ Bản (TEDU)](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html)
 
 
 ### AngularJS
@@ -30,6 +43,13 @@
 ### Bootstrap
 
 * [Twitter Bootstrap](http://www.hoclaptrinh.org/Twitter-Bootstrap)
+
+
+### C Sharp
+
+* [C# Căn Bản](https://www.youtube.com/watch?v=9kohr6pMwag&list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK)
+* [C# Căn Bản (TEDU)](https://www.youtube.com/watch?v=YgtY0RRM7WQ&list=PLRhlTlpDUWsyOEc-S8ovGVG5L92mZEjVu&index=1)
+* [C# Nâng Cao (TEDU)](https://www.youtube.com/watch?v=j-UpmHdqV5Q&list=PLRhlTlpDUWszTdteJzP68F8Q6gRYvhohk&index=1)
 
 
 ### CSS
@@ -45,11 +65,13 @@
 ### Javascript
 
 * [Javascript Cơ Bản](http://www.hoclaptrinh.org/JavaScript-Co-Ban)
+* [Javascript Cơ Bản (TEDU)](https://tedu.com.vn/khoa-hoc/khoa-hoc-java-script-can-ban-12.html)
 
 
 ### jQuery
 
 * [jQuery Cơ Bản](http://www.hoclaptrinh.org/jQuery-Co-Ban)
+* [jQuery Cơ bản (TEDU)](https://www.youtube.com/watch?v=AEMXXWrJmHU&index=1&list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm)
 
 
 ### NodeJS
@@ -80,6 +102,11 @@
 ### SQL
 
 * [SQL Cơ Bản](http://www.hoclaptrinh.org/SQL-Co-Ban)
+
+
+### TypeScript
+
+* [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html)
 
 
 ### XML

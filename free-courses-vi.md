@@ -1,8 +1,8 @@
 ### Index
 
 * [AJAX](#ajax)
-* [AngularJS](#angularjs)
 * [Angular](#angular)
+* [AngularJS](#angularjs)
 * [ASP.NET](#asp)
 * [Bootstrap](#bootstrap)
 * [C#](#c-sharp)
@@ -26,14 +26,14 @@
 * [Học AJAX](http://www.hoclaptrinh.org/Hoc-AJAX)
 
 
-### AngularJS
-
-* [AngularJS Cơ Bản](http://www.hoclaptrinh.org/Angular-JS-Co-Ban)
-
-
 ### Angular
 
 * [Angular 2 Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html) - TEDU
+
+
+### AngularJS
+
+* [AngularJS Cơ Bản](http://www.hoclaptrinh.org/Angular-JS-Co-Ban)
 
 
 ### ASP 

@@ -1,12 +1,12 @@
 ### Index
 
 * [AJAX](#ajax)
-* [ASP.NET](#asp-dot-net)
-* [Angular](#angular)
 * [AngularJS](#angularjs)
+* [Angular](#angular)
+* [ASP.NET](#asp)
 * [Bootstrap](#bootstrap)
-* [CSS](#css)
 * [C#](#c-sharp)
+* [CSS](#css)
 * [HTML](#html)
 * [Javascript](#javascript)
 * [jQuery](#jquery)
@@ -26,9 +26,9 @@
 * [Học AJAX](http://www.hoclaptrinh.org/Hoc-AJAX)
 
 
-### ASP DOT NET
+### AngularJS
 
-* [Khóa học ASP.NET Core cơ bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-aspnet-core-co-ban-14.html) - TEDU
+* [AngularJS Cơ Bản](http://www.hoclaptrinh.org/Angular-JS-Co-Ban)
 
 
 ### Angular
@@ -36,9 +36,9 @@
 * [Angular 2 Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html) - TEDU
 
 
-### AngularJS
+### ASP 
 
-* [AngularJS Cơ Bản](http://www.hoclaptrinh.org/Angular-JS-Co-Ban)
+* [Khóa học ASP.NET Core cơ bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-aspnet-core-co-ban-14.html) - TEDU
 
 
 ### Bootstrap
@@ -46,16 +46,16 @@
 * [Twitter Bootstrap](http://www.hoclaptrinh.org/Twitter-Bootstrap)
 
 
-### CSS
-
-* [CSS Cơ Bản](http://www.hoclaptrinh.org/CSS-Co-Ban)
-
-
-### C Sharp
+### C-Sharp
 
 * [C# Căn Bản](https://www.youtube.com/watch?v=9kohr6pMwag&list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK)
 * [C# Căn Bản](https://www.youtube.com/watch?v=YgtY0RRM7WQ&list=PLRhlTlpDUWsyOEc-S8ovGVG5L92mZEjVu&index=1) - TEDU
 * [C# Nâng Cao](https://www.youtube.com/watch?v=j-UpmHdqV5Q&list=PLRhlTlpDUWszTdteJzP68F8Q6gRYvhohk&index=1) - TEDU
+
+
+### CSS
+
+* [CSS Cơ Bản](http://www.hoclaptrinh.org/CSS-Co-Ban)
 
 
 ### HTML

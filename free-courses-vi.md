@@ -139,8 +139,8 @@
 
 * [PHP Cơ Bản](http://www.hoclaptrinh.org/PHP-Co-Ban)
 * [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/watch?v=qoZpJjc2amo&list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
-* [Tự học PHP - Làm việc với ASNT](https://www.youtube.com/watch?v=P5Xc6b47ICo&list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28) - ZendVN
 * [Tự học PHP - Căn Bản](https://www.youtube.com/watch?v=3yJeeub-6RY&list=PLv6GftO355AulVlaWLp41kieNB9dTG1_l) - ZendVN
+* [Tự học PHP - Làm việc với ASNT](https://www.youtube.com/watch?v=P5Xc6b47ICo&list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28) - ZendVN
 
 
 ### Python

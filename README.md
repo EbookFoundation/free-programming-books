@@ -11,7 +11,7 @@ The repo is now administered by the [Free Ebook Foundation](https://ebookfoundat
 
 ### How To Contribute
 
-Please read [CONTRIBUTING](/CONTRIBUTING.md).
+Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome](/HOWTO.md)!
 
 ### How to Share
 + [Share on Twitter](http://twitter.com/home?status=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
@@ -20,7 +20,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 
 
-### In Other Spoken Languages
+### In Other Written Languages
 + [Arabic](/free-programming-books-ar.md)
 + [Azerbaijani](/free-programming-books-az.md)
 + [Bengali](/free-programming-books-bl.md)

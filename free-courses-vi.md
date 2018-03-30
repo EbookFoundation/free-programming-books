@@ -36,11 +36,11 @@
 
 ### Android
 
-* [Lập trình Android cơ bản](https://www.youtube.com/watch?v=rcH4NbngPEk&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh) - Kteam
-* [Lập trình Android với Kotlin](https://www.youtube.com/watch?v=2CKuiSp_uOQ&list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - KhoaPham
 * [Lập trình Android - Android Widgets - Các điều khiển](https://www.youtube.com/watch?v=2xDWeWllzWg&list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb) - ZendVN
 * [Lập trình Android - Menu - Context Menu - Dialog](https://www.youtube.com/watch?v=vS_InAnGUFA&list=PLv6GftO355Avjf5iuNbEUsIZbltzDEuIU) - ZendVN
 * [Lập trình Android - Xây dựng bố cục giao diện với Android Layout](https://www.youtube.com/watch?v=oxWDjizEN6g&list=PLv6GftO355AtfPQx7M3dkWgi9KPUB9S0V) - ZendVN
+* [Lập trình Android cơ bản](https://www.youtube.com/watch?v=rcH4NbngPEk&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh) - Kteam
+* [Lập trình Android với Kotlin](https://www.youtube.com/watch?v=2CKuiSp_uOQ&list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - KhoaPham
 
 
 ### Angular
@@ -138,17 +138,17 @@
 ### PHP
 
 * [PHP Cơ Bản](http://www.hoclaptrinh.org/PHP-Co-Ban)
-* [Tự học PHP - Căn Bản](https://www.youtube.com/watch?v=3yJeeub-6RY&list=PLv6GftO355AulVlaWLp41kieNB9dTG1_l) - ZendVN
 * [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/watch?v=qoZpJjc2amo&list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
 * [Tự học PHP - Làm việc với ASNT](https://www.youtube.com/watch?v=P5Xc6b47ICo&list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28) - ZendVN
+* [Tự học PHP - Căn Bản](https://www.youtube.com/watch?v=3yJeeub-6RY&list=PLv6GftO355AulVlaWLp41kieNB9dTG1_l) - ZendVN
 
 
 ### Python
 
+* [Lập trình website với Python Django](https://www.youtube.com/watch?v=VF0oC9mkkno&list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P) - Kteam
 * [Python Cơ Bản](https://www.hoclaptrinh.org/Python-Co-Ban)
 * [Python Cơ Bản](https://www.youtube.com/watch?v=NZj6LI5a9vc&list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
 * [Python Cơ Bản](https://www.youtube.com/watch?v=FgN-mHwHLyg&list=PLyiioioEJSxEh_S_XFvG0d2xKRMSWLfN_) - DayNhauHoc
-* [Lập trình website với Python Django](https://www.youtube.com/watch?v=VF0oC9mkkno&list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P) - Kteam
 
 
 ### React
@@ -185,7 +185,7 @@
 
 ### TypeScript
 
-* [TypeScript căn bản)](https://www.youtube.com/watch?v=L5mM4KWVyXE&list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb) - ZendVN 
+* [TypeScript căn bản](https://www.youtube.com/watch?v=L5mM4KWVyXE&list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb) - ZendVN 
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU
 
 

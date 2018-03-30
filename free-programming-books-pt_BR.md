@@ -11,6 +11,18 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [Angular.js](#angularjs)
+  * [Backbone.js](#backbonejs)
+  * [Ember.js](emberjs)
+  * [Express.js](#expressjs)
+  * [Grunt](#grunt)
+  * [Gulp](#gulp)
+  * [jQuery](#jquery)
+  * [Knockout.js](#knockoutjs)
+  * [Meteor](#meteor)
+  * [Node.js](#nodejs)
+  * [React](#react)
+  * [Vue.js](#vuejs)
 * [LaTeX](#latex)
 * [LISP](#lisp)
 * [Lua](#lua)
@@ -78,7 +90,6 @@
 
 ### HTML / CSS
 
-* [Curso de HTML5 em vídeo do Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 * [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br)
@@ -102,8 +113,79 @@
 * [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
-* [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
+* [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
+
+
+#### Angular.js
+
+* [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
+* [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/)
+* [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/)
+
+
+#### Backbone.js
+
+* [Série Backbone.js (blog.fernandomantoan.com)](http://blog.fernandomantoan.com/serie-backbone-js-parte-1-introducao/)
+* [Série Backbone.js (devfuria.com.br)](http://www.devfuria.com.br/javascript/backbone/)
+
+
+#### Ember.js
+
+* [Conceitos basicos do Ember.js ](http://fabriciotav.org/blog/2013/02/20/conceitos-basicos-do-emberjs.html)
+* [Handlebars Helpers com Ember.js](http://fabriciotav.org/blog/2013/02/20/handlebars-helpers-com-emberjs.html)
+
+
+#### Express.js
+
+* [Primeiros passos com Express em Node.js](http://nodebr.com/primeiros-passos-com-express-em-node-js/)
+
+
+#### Grunt
+
+* [Grunt - Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
+* [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
+* [Grunt | Automatizando tarefas](http://woliveiras.com.br/posts/grunt-automatizando-tarefas/)
+
+
+#### Gulp
+
+* [Gulp - O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
+
+
+#### jQuery
+
+* [Artigos sobre jQuery](https://tableless.com.br/categories/jquery/)
+
+
+#### Knockout.js
+
+* [Documentação](https://github.com/alexhiroshi/knockoutjs-brasil)
+
+
+#### Meteor
+
+* [Tudo sobre Meteor](http://udgwebdev.com/meteor/)
+
+
+#### Node.js
+
+* [Node.js para Leigos](http://udgwebdev.com/nodejs/)
+* [Primeiros passos com Node.js](http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/)
+* [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
+
+
+#### React
+
+* [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
+
+
+#### Vue.js
+
+* [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
+* [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
+* [Vue.js Brasil - Artigos em Português sobre Vue.js](http://www.vuejs-brasil.com.br)
+* [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
 
 
 ### LaTeX

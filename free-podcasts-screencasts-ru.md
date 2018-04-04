@@ -15,6 +15,11 @@
 * [Веб-дизайн](#Веб-дизайн)
 
 
+## Android
+
+* [Android Dev Подкаст](https://androiddev.apptractor.ru) (Podcast)
+
+
 ### Bash
 
 * [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash) - Hexlet (Screencast)
@@ -85,3 +90,11 @@
 ### Веб-дизайн
 
 * [Подкасты про IT и web разработку](https://uwebdesign.ru) (Podcast)
+
+
+### Разработка ПО
+
+* [DevZen Podcast](https://devzen.ru) (Podcast)
+* [Software Development podCAST](https://sdcast.ksdaemon.ru) (Podcast)
+* [Радио-Т](https://radio-t.com) (Podcast)
+* [Разбор полётов](http://razbor-poletov.com) (Podcast)

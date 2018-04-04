@@ -371,6 +371,8 @@
 ### Python
 
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
+* [Python. unittest](https://devpractice.ru/book-python-unittest) - Абдрахманов М.И
+* [Python. Уроки](https://devpractice.ru/book-python-lessons) - Абдрахманов М.И.
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов

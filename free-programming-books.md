@@ -638,7 +638,6 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 * [Professional Software Development For Students](http://mixmastamyk.bitbucket.org/pro_soft_dev/) - Mike G. Miller
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
-* [Why programmers work at night](https://leanpub.com/nightowls/read) Swizec Teller
 
 
 #### Programming Paradigms
@@ -702,7 +701,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)
 * [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html)
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse and O. Nierstrasz
-* [Practicing Domain-Driven Design](https://leanpub.com/Practicing-DDD) - Scott Millett  *(Leanpub account or valid email requested)*
+* [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett  *(Leanpub account or valid email requested)*
 * [Reactive Microservices Architecture](http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp) *(Just fill the fields with any values)*
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)

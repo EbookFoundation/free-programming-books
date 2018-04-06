@@ -144,7 +144,7 @@
 ### C++
 
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
-* [Введение в язык Си++](http://www.stolyarov.info/books/pdf/cppintro3.pdf) - Андрей Столяров (PDF)
+* [Введение в язык Си++](http://stolyarov.info/books/cppintro) - Андрей Столяров (PDF)
 * [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
 * [Руководство по языку программирования C++](https://metanit.com/cpp/tutorial) - Евгений Попов
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
@@ -382,7 +382,7 @@
 
 #### Django
 
-* [Руководство Django Girls](https://tutorial.djangogirls.org/ru/) (1.11) (HTML) (:construction: *in process*)
+* [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *in process*)
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
 
 
@@ -401,7 +401,7 @@
 
 * [Ruby](https://ru.wikibooks.org/wiki/Ruby) - Викиучебник
 * [Ruby Book](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
-* [Ruby за двадцать минут](https://www.ruby-lang.org/ru/documentation/quickstart/)
+* [Ruby за двадцать минут](https://www.ruby-lang.org/ru/documentation/quickstart)
 * [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн
 
 
@@ -418,28 +418,28 @@
 
 ### Rust
 
-* [Rust на примерах](https://rurust.github.io/rust-by-example-ru/)
+* [Rust на примерах](https://rurust.github.io/rust-by-example-ru)
 * [Растономикон](https://github.com/ruRust/rustonomicon)
-* [Язык программирования Rust](http://rurust.github.io/rust_book_ru/)
+* [Язык программирования Rust](http://rurust.github.io/rust_book_ru)
 
 
 ### Scala
 
 * [Effective Scala](http://twitter.github.io/effectivescala/index-ru.html) - Marius Eriksen
-* [Scala Школа!](http://twitter.github.io/scala_school/ru/) - Twitter
+* [Scala Школа!](http://twitter.github.io/scala_school/ru) - Twitter
 * [Путеводитель неофита по Scala (перевод серии статей Даниеля Вестсайда)](https://github.com/anton-k/ru-neophyte-guide-to-scala) - Антон Холомьёв
 * [Руководство по Scala](http://proselyte.net/tutorials/scala) - Евгений Сулейманов
 
 
 ### Scilab
 
-* [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
-* [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
+* [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads)
+* [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads)
 
 
 ### Smalltalk
 
-* [Смолток: Язык и его реализация](https://sites.google.com/site/polyglotsqueak/) - Адэль Голдберг, Дэвид Робсон
+* [Смолток: Язык и его реализация](https://sites.google.com/site/polyglotsqueak) - Адэль Голдберг, Дэвид Робсон
 
 
 ### SQL
@@ -457,6 +457,7 @@
 
 ### TypeScript
 
+* [Перевод официальной документации Typescript](http://typescript-lang.ru/docs/index.html)
 * [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
 
@@ -465,13 +466,13 @@
 
 * [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
-* [Архитектура операционной системы Unix](http://lib.ru/BACH/) - Maurice J. Bach
-* [Введение в системное администрирование UNIX](http://lib.ru/unixhelp/) - Мошков Максим Евгеньевич
+* [Архитектура операционной системы Unix](http://lib.ru/BACH) - Maurice J. Bach
+* [Введение в системное администрирование UNIX](http://lib.ru/unixhelp) - Мошков Максим Евгеньевич
 * [Перевод Linux kernel and C library.](http://man-pages-ru.sourceforge.net)
 
 
 ### Vim
 
-* [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook/) - Steve Oualline
+* [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook) - Steve Oualline
 * [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) (PDF)
 

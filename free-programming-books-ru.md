@@ -64,6 +64,7 @@
 
 ### 0 - Language Agnostic
 
+* [3D-моделирование в Blender](https://younglinux.info/blender.php) - C. Шапошникова
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF)
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
 * [Введение в структуры и алгоритмы обработки данных](http://dsabook.mkurnosov.net) - Михаил Курносов (PDF)
@@ -127,7 +128,7 @@
 ### C
 
 * [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf) - Денис Юричев (PDF)
-* [Особенности языка C. Учебное пособие](http://younglinux.info/с) - C. Шапошникова (PDF)
+* [Особенности языка C. Учебное пособие](https://younglinux.info/с) - C. Шапошникова (PDF)
 * [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
 * [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html) - Романов Е.Л.
@@ -372,10 +373,14 @@
 
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 * [Python. unittest](https://devpractice.ru/book-python-unittest) - Абдрахманов М.И
+* [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php) - C. Шапошникова
+* [Python. Введение в программирование](https://younglinux.info/python.php) - C. Шапошникова
 * [Python. Уроки](https://devpractice.ru/book-python-lessons) - Абдрахманов М.И.
+* [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php) - C. Шапошникова
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
+* [Самоучитель Python](https://pythonworld.ru/samouchitel-python) (PDF)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
 
@@ -467,6 +472,7 @@
 * [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
 * [Архитектура операционной системы Unix](http://lib.ru/BACH) - Maurice J. Bach
+* [Введение в Linux. Руководство по работе](https://younglinux.info/linuxintro) - Machtelt Garrels
 * [Введение в системное администрирование UNIX](http://lib.ru/unixhelp) - Мошков Максим Евгеньевич
 * [Перевод Linux kernel and C library.](http://man-pages-ru.sourceforge.net)
 

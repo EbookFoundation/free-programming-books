@@ -6,8 +6,7 @@
   * [Парадигмы Программирования](#Парадигмы-программирования)
   * [Работа c cетью](#Работа-с-сетью)
   * [Управление конфигурациями](#Управление-конфигурациями)
-* [ADO.NET](#adonet)
-* [ASP.NET](#aspnet)
+* [Angular](#angular)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -38,6 +37,7 @@
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MetaPost](#metapost)
+* [.NET](#net)
 * [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [Perl](#perl)
@@ -104,18 +104,10 @@
 * [Пособие по Ansible](https://github.com/freetonik/ansible-tuto-rus) - Michel Blanc
 
 
-### ADO.NET
+#### Angular
 
-* [Руководство по ADO.NET и работе с базами данных](https://metanit.com/sharp/adonet) - Евгений Попов
-* [Руководство по EF Core](https://metanit.com/sharp/entityframeworkcore) - Евгений Попов
-* [Руководство по Entity Framework](https://metanit.com/sharp/entityframework) - Евгений Попов
-
-
-### ASP.NET
-
-* [Руководство по ASP.NET Core 2.0](https://metanit.com/sharp/aspnet5) - Евгений Попов
-* [Руководство по ASP.NET MVC 5](https://metanit.com/sharp/mvc5) - Евгений Попов
-* [Руководство по ASP.NET Web API 2](https://metanit.com/sharp/aspnet_webapi) - Евгений Попов
+* [Angular 5. Полное руководство](https://bxnotes.ru/conspect/angular-5-the-complete-guide) - Maximilian Schwarzmüller
+* [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
 
 
 ### Assembly
@@ -209,6 +201,8 @@
 
 ### HTML / CSS
 
+* [CSS и CSS3](https://html5book.ru/css-css3) - Елена Назарова
+* [HTML и HTML5](https://html5book.ru/html-html5) - Елена Назарова
 * [Руководство по HTML5 и CSS3](https://metanit.com/web/html5) - Евгений Попов
 * [Справочник CSS](http://htmlbook.ru/css) - Влад Мержевич
 * [Справочник по HTML](http://htmlbook.ru/html) - Влад Мержевич
@@ -264,7 +258,9 @@
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
+* [JavaScript и jQuery](https://html5book.ru/javascript-jquery) - Елена Назарова
 * [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
+* [Курс современного JavaScript](https://bxnotes.ru/conspect/kurs-sovremennogo-javascript) - bxnotes
 * [Онлайн-книга по WebGL](https://metanit.com/web/webgl) - Евгений Попов
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
 * [Руководство по JavaScript](https://metanit.com/web/javascript) - Евгений Попов
@@ -329,6 +325,16 @@
 ### MetaPost
 
 * [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
+
+
+### .NET
+
+* [Руководство по ADO.NET и работе с базами данных](https://metanit.com/sharp/adonet) - Евгений Попов
+* [Руководство по ASP.NET Core 2.0](https://metanit.com/sharp/aspnet5) - Евгений Попов
+* [Руководство по ASP.NET MVC 5](https://metanit.com/sharp/mvc5) - Евгений Попов
+* [Руководство по ASP.NET Web API 2](https://metanit.com/sharp/aspnet_webapi) - Евгений Попов
+* [Руководство по EF Core](https://metanit.com/sharp/entityframeworkcore) - Евгений Попов
+* [Руководство по Entity Framework](https://metanit.com/sharp/entityframework) - Евгений Попов
 
 
 ### NoSQL
@@ -470,7 +476,6 @@
 ### TypeScript
 
 * [Перевод официальной документации Typescript](http://typescript-lang.ru/docs/index.html)
-* [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
 
 

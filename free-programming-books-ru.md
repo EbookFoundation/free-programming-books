@@ -106,7 +106,7 @@
 
 #### Angular
 
-* [Angular 5. Полное руководство](https://bxnotes.ru/conspect/angular-5-the-complete-guide) - Maximilian Schwarzmüller
+* [Angular 5. Полное руководство](https://bxnotes.ru/conspect/angular-5-the-complete-guide/) - Maximilian Schwarzmüller
 * [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
 
 

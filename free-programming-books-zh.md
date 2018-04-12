@@ -674,7 +674,7 @@
 * [shell-book](http://me.52fhy.com/shell-book/)
 * [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-* [The Linux Command Line 中文版](http://billie66.github.io/TLCL/book/zh)
+* [The Linux Command Line 中文版](http://billie66.github.io/TLCL/book/)
 
 
 ### Swift

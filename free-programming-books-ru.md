@@ -75,6 +75,7 @@
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
+* [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) - Святослав Куликов (PDF)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
 
 
@@ -220,9 +221,12 @@
 * [Руководство по Java Core](http://proselyte.net/tutorials/java-core) - Евгений Сулейманов
 * [Руководство по Servlets](http://proselyte.net/tutorials/servlets) - Евгений Сулейманов
 * [Руководство по языку программирования Java](https://metanit.com/java/tutorial) - Евгений Попов
+* [Самоучитель по Java с нуля](https://vertex-academy.com/tutorials/ru/samouchitel-po-java-s-nulya/) - Vertex Academy
 * [Собеседование по Java Core](http://javastudy.ru/interview/list-of-question-java-interview)
 * [Собеседование по Java EE](http://javastudy.ru/interview/list-of-questions-javaee-interview)
 * [Учебник Java 8](https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8) - Фёдор Урванов
+* [Учебник по Java 8](https://vertex-academy.com/tutorials/ru/java-8-uchebnik/) - Vertex Academy
+* [Учебник по Java 9](https://vertex-academy.com/tutorials/ru/java-9-uchebnik-teoriya-primery/) - Vertex Academy
 
 
 #### Android
@@ -463,6 +467,7 @@
 
 ### SQL
 
+* [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) - Святослав Куликов (PDF)
 * [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver) - Евгений Попов
 * [Руководство по SQL](http://proselyte.net/tutorials/sql) - Евгений Сулейманов
 

@@ -2340,11 +2340,11 @@ Kerridge (PDF) (Just fill the fields with any values)
 ### Smalltalk
 
 * [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/) (PDF)
-* [Deep into Pharo](http://www.deepintopharo.com)
+* [Deep into Pharo](http://books.pharo.org/deep-into-pharo/)
 * [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) -  S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
-* [Numerical Methods with Pharo](http://files.pharo.org/books/numerical-methods/)
-* [Pharo by Example](http://pharobyexample.org) (Smalltalk Implementation and IDE)
-* [Pharo Enterprise: a Web Perspective](http://files.pharo.org/books/enterprise-pharo/)
+* [Enterprise Pharo: a Web Perspective](http://books.pharo.org/enterprise-pharo/)
+* [Numerical Methods with Pharo](http://books.pharo.org/numerical-methods/)
+* [Pharo by Example](http://books.pharo.org/pharo-by-example/) (Smalltalk Implementation and IDE)
 * [Squeak By Example](http://www.squeakbyexample.org) (Smalltalk Implementation and IDE)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 

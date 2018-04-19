@@ -638,7 +638,6 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 * [Professional Software Development For Students](http://mixmastamyk.bitbucket.org/pro_soft_dev/) - Mike G. Miller
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
-* [Why programmers work at night](https://leanpub.com/nightowls/read) Swizec Teller
 
 
 #### Programming Paradigms
@@ -702,10 +701,11 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)
 * [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html)
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse and O. Nierstrasz
-* [Practicing Domain-Driven Design](https://leanpub.com/Practicing-DDD) - Scott Millett  *(Leanpub account or valid email requested)*
+* [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett  *(Leanpub account or valid email requested)*
 * [Reactive Microservices Architecture](http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp) *(Just fill the fields with any values)*
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
+* [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 * [Software Architecture Patterns](http://www.oreilly.com/programming/free/software-architecture-patterns.csp) *(Just fill the fields with any values)*
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [Test Driven Development, Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Daniel Żołopa
@@ -2340,11 +2340,11 @@ Kerridge (PDF) (Just fill the fields with any values)
 ### Smalltalk
 
 * [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/) (PDF)
-* [Deep into Pharo](http://www.deepintopharo.com)
+* [Deep into Pharo](http://books.pharo.org/deep-into-pharo/)
 * [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) -  S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
-* [Numerical Methods with Pharo](http://files.pharo.org/books/numerical-methods/)
-* [Pharo by Example](http://pharobyexample.org) (Smalltalk Implementation and IDE)
-* [Pharo Enterprise: a Web Perspective](http://files.pharo.org/books/enterprise-pharo/)
+* [Enterprise Pharo: a Web Perspective](http://books.pharo.org/enterprise-pharo/)
+* [Numerical Methods with Pharo](http://books.pharo.org/numerical-methods/)
+* [Pharo by Example](http://books.pharo.org/pharo-by-example/) (Smalltalk Implementation and IDE)
 * [Squeak By Example](http://www.squeakbyexample.org) (Smalltalk Implementation and IDE)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 

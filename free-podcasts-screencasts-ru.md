@@ -99,3 +99,4 @@
 * [Разбор полётов](http://razbor-poletov.com) (Podcast)
 * [Развлекательный IT подкаст](http://radioma.org) (Podcast)
 * [Слава + Паша](https://it.asm0dey.ru) (Podcast)
+* [Две Столицы - Уютный подкаст IT панков](http://www.2capitals.space) (Podcast)

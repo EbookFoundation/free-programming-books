@@ -47,6 +47,7 @@
   * [Laravel](#laravel)
 * [Python](#python)
   * [Django](#django)
+  * [Flask](#flask)
 * [R](#r)
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
@@ -404,8 +405,15 @@
 
 #### Django
 
+* [Документация Django 1.9](https://djbook.ru/rel1.9/)
 * [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *in process*)
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
+
+
+### Flask
+
+* [Мега-Учебник Flask (Python 2.7)](https://habr.com/post/193242/) - Miguel Grinberg
+* [Перевод документации](https://media.readthedocs.org/pdf/flask-russian-docs/latest/flask-russian-docs.pdf)
 
 
 ### R

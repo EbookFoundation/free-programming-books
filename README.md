@@ -66,10 +66,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 + [Russian](/free-programming-interactive-tutorials-ru.md)
 
 
-### JavaScript Frameworks and Resources (list should be merged)
-+ [Portuguese (Brazil)](/javascript-frameworks-resources-pt_BR.md) 
-
-
 ### Problem Sets and Competitive Programming
 + [Problem Sets](/problem-sets-competitive-programming.md)
 

@@ -32,7 +32,6 @@
 * [Misc](#misc)
 * [.NET](#net)
 * [OCaml](#ocaml)
-* [Oracle PL/SQL](#oracle-plsql)
 * [PHP](#php)
 * [Python](#python)
 * [QB64](#QB64)
@@ -144,7 +143,6 @@
 
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
-* [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 
 
@@ -170,7 +168,6 @@
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
-* [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
@@ -285,11 +282,6 @@
 
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
 * [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about)
-
-
-### Oracle PL/SQL
-
-* [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession)
 
 
 ### PHP

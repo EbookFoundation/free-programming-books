@@ -15,7 +15,6 @@
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
   * [Ember.js](#emberjs)
-  * [Node.js](#nodejs)
   * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
@@ -29,7 +28,6 @@
 
 ### Android
 
-* [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics/) (screencast)
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) (podcast)
 
@@ -141,11 +139,6 @@
 * [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
 
 
-#### Node.js
-
-* [Nodeup](http://nodeup.com) (podcast)
-
-
 ### Kotlin
 
 * [Kotlin Beginners Tutorials](https://www.youtube.com/playlist?list=PLpg00ti3ApRweIhdOI4VCFFStx4uXC__u) (screencast)
@@ -155,7 +148,6 @@
 ### Language Agnostic
 
 * [/dev/hell](http://devhell.info) (podcast)
-* [AppMasters](http://www.appmasters.co/podcast-home/) (podcast)
 * [Arrested DevOps](https://www.arresteddevops.com) (podcast)
 * [Beats, Rye & Types](http://beatsryetypes.com) (podcast)
 * [Between | Screens Podcast](https://soundcloud.com/between-screens) (podcast)
@@ -232,7 +224,6 @@
 * [Python Test Podcast](http://pythontesting.net/test-podcast) (podcast)
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) (screencast)
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm) (podcast)
-* [The Python Experience](http://python.madewithopinion.com) (podcast)
 * [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq) (screencast)
 * [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) (screencast)
 * [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d) (screencast)

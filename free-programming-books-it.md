@@ -114,7 +114,6 @@
 
 ### Perl
 
-* [Corso di Perl](http://www.perl.it/documenti/articoli/mb_corso_perl/mb_corso_perl.pdf) (PDF)
 * [Perl e Internet](http://www.ateneonline.it/hyperbook/p_book/perl2.htm)
 
 

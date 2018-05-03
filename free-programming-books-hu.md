@@ -103,7 +103,6 @@
 
 * [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, ford.: Daróczy Péter (PDF)
 * [Bevezetés a wxPythonba](http://mek.oszk.hu/08400/08446/index.phtml) - Jeremy Berthet, Gilles Doge, ford.: Daróczy Péter (PDF)
-* [Python-programozás](http://molnardenes.hu/blog/python-programozas-1-alapfogalmak.html) - Molnár Dénes (HTML)
 * [Tanuljunk meg programozni Python nyelven](http://mek.oszk.hu/08400/08435/index.phtml) - Gérard Swinnen, ford.: Daróczy Péter (PDF, ODT)
 
 

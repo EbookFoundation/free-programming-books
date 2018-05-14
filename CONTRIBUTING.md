@@ -5,7 +5,7 @@ By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/fr
 By contributing you agree to respect the [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) of this repository.
 
 ## In a nutshell
-1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free.
+1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free. We do not accept links to pages that *require* working email addresses to obtain books, but we welcome listings that request them.
 2. You don't have to know git: if you found something of interest which is *not already in this repo*, please open an issue with your links propositions.
     - If you know git, please fork the repo and send pull requests.
 3. We have 5 kinds of lists. Choose the right one:
@@ -43,6 +43,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - if the book is older, include the publication date with the title. 
 - include the author name or names where appropriate. You can shorten author lists with "et al."
 - if the book is not finished, and is still being worked on, add the "in process" notation, as described [below.](#in_process)
+- if an email address or account setup is requested before download is enabled, add language-appropriate notes in parentheses, e.g.: `(email address *requested*, not required)`
 
 ### Formatting
 - All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!

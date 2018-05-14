@@ -217,7 +217,7 @@
 * [atariarchives.org](http://www.atariarchives.org) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 * [Bento](https://www.bento.io)
 * [Bitsavers.org](http://bitsavers.trailing-edge.com)
-* [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks) Cookie required. (Just fill the fields with any values)
+* [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks) Cookie required. (email address *requested*, not required)
 * [Cheat Sheets (Free)](https://dzone.com/refcardz)
 * [Codingus](http://codingus.blogspot.in)
 * [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
@@ -290,8 +290,8 @@
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures (Into Java) - Paul N. Hilfinger](http://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) (PDF)
 * [Data Structures and Algorithms: Annotated Reference with Examples](http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf) - G. Barnett and L. Del Tongo (PDF)
-* [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) (email address *requested*, not required)
+* [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) (email address *requested*, not required)
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [Geometry Algorithms](http://geomalgorithms.com) - Dan Sunday
@@ -374,7 +374,7 @@
 #### Datamining
 
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com) - Ron Zacharski (Draft)
-* [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp) *(Just fill the fields with any values)*
+* [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp) (email address *requested*, not required)
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
@@ -472,8 +472,8 @@
 
 #### Misc
 
-* [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/2016-european-software-development-salary-survey.csp) *(Just fill the fields with any values)*
-* [2016 Software Development Salary Survey](http://www.oreilly.com/programming/free/2016-software-development-salary-survey-report.csp) *(Just fill the fields with any values)*
+* [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/2016-european-software-development-salary-survey.csp) (email address *requested*, not required)
+* [2016 Software Development Salary Survey](http://www.oreilly.com/programming/free/2016-software-development-salary-survey-report.csp) (email address *requested*, not required)
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended) *(Leanpub account or valid email requested)*
 * [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
 * [Ansible Up & Running (first three chapters)](https://www.ansible.com/ebooks) *(account required)*
@@ -484,7 +484,7 @@
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
 * [Confessions of an Unintentional CTO: Lessons in Growing a Web App](http://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
-* [Continuous Delivery and DevOps: A Quickstart guide](https://www.packtpub.com/packt/free-ebook/devops-quickstart) - Paul Swartout, Packt. (Just fill the fields with any values)
+* [Continuous Delivery and DevOps: A Quickstart guide](https://www.packtpub.com/packt/free-ebook/devops-quickstart) - Paul Swartout, Packt. (email address *requested*, not required)
 * [CS For All](https://www.cs.hmc.edu/csforall/)
 * [Culture \& Empire: Digital Revolution](http://hintjens.com/books) (PDF)
 * [Design With FontForge](http://designwithfontforge.com/en-US/index.html)
@@ -502,7 +502,7 @@
 * [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) (PDF)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com) - Bob Nystrom
 * [Getting Real](http://gettingreal.37signals.com)
-* [Getting Started with Unity 5](https://www.packtpub.com/packt/free-ebook/getting-started-with-unity) - Dr. Edward Lavieri, Packt. (Just fill the fields with any values)
+* [Getting Started with Unity 5](https://www.packtpub.com/packt/free-ebook/getting-started-with-unity) - Dr. Edward Lavieri, Packt. (email address *requested*, not required)
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
 * [High-Performance Scientific Computing](https://andreask.cs.illinois.edu/Teaching/HPCFall2012) (class lectures and slides)
 * [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html) - R. Young
@@ -513,7 +513,7 @@
 * [IRPF90 Fortran code generator](https://www.gitbook.com/book/scemama/irpf90/details) - Anthony Scemama
 * [Learn to Program](https://pine.fm/LearnToProgram/)
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
-* [Learning Docker](https://www.packtpub.com/packt/free-ebook/learning-docker) - Pethuru Raj, Jeeva S. Chelladhurai & Vinod Singh, Packt. (Just fill the fields with any values)
+* [Learning Docker](https://www.packtpub.com/packt/free-ebook/learning-docker) - Pethuru Raj, Jeeva S. Chelladhurai & Vinod Singh, Packt. (email address *requested*, not required)
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
 * [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
@@ -528,18 +528,18 @@
 * [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
-* [Practical Data Analysis](https://www.packtpub.com/packt/free-ebook/practical-data-analysis) - Hector Cuesta, Packt. (Just fill the fields with any values)
-* [Practical Responsive Typography](https://www.packtpub.com/packt/free-ebook/practical-responsive-typography) - Dario Calonaci, Packt. (Just fill the fields with any values)
+* [Practical Data Analysis](https://www.packtpub.com/packt/free-ebook/practical-data-analysis) - Hector Cuesta, Packt. (email address *requested*, not required)
+* [Practical Responsive Typography](https://www.packtpub.com/packt/free-ebook/practical-responsive-typography) - Dario Calonaci, Packt. (email address *requested*, not required)
 * [Principles of Computer System Design ](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)
 * [Procedural Content Generation in Games](http://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
 * [Programming with Unicode](http://unicodebook.readthedocs.org)
-* [Real-World Maintainable Software](http://www.oreilly.com/programming/free/real-world-maintainable-software.csp) *(Just fill the fields with any values)*
+* [Real-World Maintainable Software](http://www.oreilly.com/programming/free/real-world-maintainable-software.csp) (email address *requested*, not required)
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap  *(Leanpub account or valid email requested)*
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
-* [Trends Shaping the London Tech Scene](http://www.oreilly.com/programming/free/trends-shaping-the-london-tech-scene.csp) *(Just fill the fields with any values)*
+* [Trends Shaping the London Tech Scene](http://www.oreilly.com/programming/free/trends-shaping-the-london-tech-scene.csp) (email address *requested*, not required)
 
 
 #### MOOC
@@ -561,7 +561,7 @@
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
 * [High-Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
-* [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
+* [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) (email address *requested*, not required)
 * [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (PDF)
@@ -571,17 +571,17 @@
 #### Open Source Ecosystem
 
 * [Data Journalism Handbook](http://datajournalismhandbook.org)
-* [Fintech, Open Source, and Emerging Markets Digital Banking for Everyone](http://www.oreilly.com/programming/free/fintech-open-source-and-emerging-tech.csp) *(Just fill the fields with any values)*
+* [Fintech, Open Source, and Emerging Markets Digital Banking for Everyone](http://www.oreilly.com/programming/free/fintech-open-source-and-emerging-tech.csp) (email address *requested*, not required)
 * [Free as in Freedom: Richard Stallman and the free software revolution](https://archive.org/details/faif-2.0) - Sam Williams (PDF)
 * [Free for All](https://unglue.it/work/136445/) - Peter Wayner
 * [Free Software, Free Society: Selected Essays of Richard M. Stallman](http://shop.fsf.org/product/free-software-free-society-2/)
-* [Getting Started with InnerSource](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp) *(Just fill the fields with any values)*
+* [Getting Started with InnerSource](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp) (email address *requested*, not required)
 * [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
 * [How to get started with open source](https://opensource.com/resources/ebook/how-get-started-open-source) (ePub & ODT)
 * [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html) - Ron Goldman, Richard P. Gabriel
 * [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org)
-* [Open by Design](http://www.oreilly.com/programming/free/open-by-design.csp) *(Just fill the fields with any values)*
-* [Open Source in Brazil](http://www.oreilly.com/programming/free/open-source-in-brazil.csp) *(Just fill the fields with any values)*
+* [Open by Design](http://www.oreilly.com/programming/free/open-by-design.csp) (email address *requested*, not required)
+* [Open Source in Brazil](http://www.oreilly.com/programming/free/open-source-in-brazil.csp) (email address *requested*, not required)
 * [Producing Open Source Software](http://producingoss.com) - Karl Fogel
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Art of Community](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf) - Jono Bacon (PDF)
@@ -619,9 +619,9 @@
 * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) - Paul E. McKenney
 * [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
-Kerridge (PDF) (Just fill the fields with any values)
+Kerridge (PDF) (email address *requested*, not required)
 * [The OpenCL Programming Book](https://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/)
-* [Using Concurrency and Parallelism Effectively – I](http://bookboon.com/en/using-concurrency-and-parallelism-effectively-i-ebook) - Jon Kerridge (PDF) (Just fill the fields with any values)
+* [Using Concurrency and Parallelism Effectively – I](http://bookboon.com/en/using-concurrency-and-parallelism-effectively-i-ebook) - Jon Kerridge (PDF) (email address *requested*, not required)
 * [Using Concurrency and Parallelism Effectively – II](http://bookboon.com/en/using-concurrency-and-parallelism-effectively-ii-ebook) - Jon 
 
 
@@ -684,30 +684,30 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](http://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
-* [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) *(Just fill the fields with any values)*
+* [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) (email address *requested*, not required)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org) - Markus Voelter
-* [Evolving Architectures of FinTech](http://www.oreilly.com/programming/free/evolving-architectures-of-fintech.csp) *(Just fill the fields with any values)*
+* [Evolving Architectures of FinTech](http://www.oreilly.com/programming/free/evolving-architectures-of-fintech.csp) (email address *requested*, not required)
 * [Exploring CQRS and Event Sourcing](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - (EPUB, PDF)
 * [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/portal/web/swebok)
 * [How to Design Programs](http://www.htdp.org)
 * [How to Write Unmaintainable Code](http://mindprod.com/jgloss/unmain.html)
 * [Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook)
 * [Kanban for skeptics](https://leanpub.com/kanbanforskeptics) - Nick Oostvogels  *(Leanpub account or valid email requested)*
-* [Microservice Databases: Migrating from Relational Monolith to Distributed Data](http://www.oreilly.com/programming/free/migrating-to-microservice-databases.csp) *(Just fill the fields with any values)*
-* [Microservices AntiPatterns and Pitfalls](http://www.oreilly.com/programming/free/microservices-antipatterns-and-pitfalls.csp) *(Just fill the fields with any values)*
-* [Microservices in Production](http://www.oreilly.com/programming/free/microservices-in-production.csp) *(Just fill the fields with any values)*
-* [Microservices vs. Service-Oriented Architecture](http://www.oreilly.com/programming/free/microservices-vs-service-oriented-architecture.csp) *(Just fill the fields with any values)*
-* [Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp) *(Just fill the fields with any values)*
+* [Microservice Databases: Migrating from Relational Monolith to Distributed Data](http://www.oreilly.com/programming/free/migrating-to-microservice-databases.csp) (email address *requested*, not required)
+* [Microservices AntiPatterns and Pitfalls](http://www.oreilly.com/programming/free/microservices-antipatterns-and-pitfalls.csp) (email address *requested*, not required)
+* [Microservices in Production](http://www.oreilly.com/programming/free/microservices-in-production.csp) (email address *requested*, not required)
+* [Microservices vs. Service-Oriented Architecture](http://www.oreilly.com/programming/free/microservices-vs-service-oriented-architecture.csp) (email address *requested*, not required)
+* [Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp) (email address *requested*, not required)
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)
 * [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html)
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse and O. Nierstrasz
 * [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett  *(Leanpub account or valid email requested)*
-* [Reactive Microservices Architecture](http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp) *(Just fill the fields with any values)*
+* [Reactive Microservices Architecture](http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp) (email address *requested*, not required)
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 * [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
 * [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
-* [Software Architecture Patterns](http://www.oreilly.com/programming/free/software-architecture-patterns.csp) *(Just fill the fields with any values)*
+* [Software Architecture Patterns](http://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [Test Driven Development, Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Daniel Żołopa
 * [Web API Design](http://apigee.com/about/blog/technology/announcement-free-ebook-web-api-design)
@@ -772,18 +772,18 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [Agile Android Software Development](https://www.agiledroid.com) - Etienne Savard (PDF, epub, mobi)
 * [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
-* [Android 5 Programming by Example](https://www.packtpub.com/packt/free-ebook/android-by-example) - Kyle Mew, Packt. *(Just fill the fields with any values)*
+* [Android 5 Programming by Example](https://www.packtpub.com/packt/free-ebook/android-by-example) - Kyle Mew, Packt. (email address *requested*, not required)
 * [Android Developer Fundamentals Course – Concepts](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/)
 * [Android Developer Fundamentals Course – Practicals](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-practicals/content/en/)
-* [Android NDK Beginner's Guide - Second Edition](https://www.packtpub.com/packt/free-ebook/android-ndk-beginners-guide) - Sylvain Ratabouil, Packt. *(Just fill the fields with any values)*
-* [Android NDK Game Development Cookbook](https://www.packtpub.com/packt/free-ebook/android-ndk-game-development) - Sergey Kosarevsky & Viktor Latypov, Packt. *(Just fill the fields with any values)*
+* [Android NDK Beginner's Guide - Second Edition](https://www.packtpub.com/packt/free-ebook/android-ndk-beginners-guide) - Sylvain Ratabouil, Packt. (email address *requested*, not required)
+* [Android NDK Game Development Cookbook](https://www.packtpub.com/packt/free-ebook/android-ndk-game-development) - Sergey Kosarevsky & Viktor Latypov, Packt. (email address *requested*, not required)
 * [Android Programming Guide for Beginners](http://eduonix.com/offers/Android_ebook_free_offer.html) (PDF - need email confirmation)
-* [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) *(Just fill the fields with any values)*
+* [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) (email address *requested*, not required)
 * [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
 * [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/tutorials/android.html)
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
-* [RxJava for Android App Development](http://www.oreilly.com/programming/free/rxjava-for-android-app-development.csp) *(Just fill the fields with any values)*
+* [RxJava for Android App Development](http://www.oreilly.com/programming/free/rxjava-for-android-app-development.csp) (email address *requested*, not required)
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
 * [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
@@ -799,7 +799,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 ### Arduino
 
 * [Arduino Programming Notebook](http://www.lulu.com/shop/brian-evans/arduino-programming-notebook/ebook/product-18598708.html) - Brian Evans
-* [C Programming for Arduino](https://www.packtpub.com/packt/free-ebook/arduino-c-programming) - Julien Bayle, Packt. *(Just fill the fields with any values)*
+* [C Programming for Arduino](https://www.packtpub.com/packt/free-ebook/arduino-c-programming) - Julien Bayle, Packt. (email address *requested*, not required)
 * [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
 * [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
 
@@ -925,9 +925,9 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
 * [High level asynchronous programming with Reactive Extensions](https://github.com/petroemil/Rx.Book) - Emil Petro
 * [Introduction to Rx](http://www.introtorx.com)
-* [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (Just fill the fields with any values)
+* [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (email address *requested*, not required)
 * [Threading in C#](http://www.albahari.com/threading/)
-* [Xamarin Cross-Platform Development Cookbook](https://www.packtpub.com/free-eBook/xamarin-cross-platform-development-cookbook) - George Taskos, Packt. (Just fill the fields with any values)
+* [Xamarin Cross-Platform Development Cookbook](https://www.packtpub.com/free-eBook/xamarin-cross-platform-development-cookbook) - George Taskos, Packt. (email address *requested*, not required)
 
 
 ### C++
@@ -935,8 +935,8 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [C++ Annotations](https://fbb-git.github.io/cppannotations/)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - Editors: Bjarne Stroustrup, Herb Sutter
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
-* [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
-* [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) *(Just fill the fields with any values)*
+* [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) (email address *requested*, not required)
+* [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (email address *requested*, not required)
 * [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
 * [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
 * [Financial Numerical Recipes in C++](http://finance.bi.no/~bernt/gcc_prog/recipes/) - Bernt Arne Ødegaard
@@ -949,7 +949,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Learn C++.](http://www.learncpp.com) (PDF, Online)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
-* [Practical C++ Metaprogramming](http://www.oreilly.com/programming/free/practical-c-plus-plus-metaprogramming.csp) *(Just fill the fields with any values)*
+* [Practical C++ Metaprogramming](http://www.oreilly.com/programming/free/practical-c-plus-plus-metaprogramming.csp) (email address *requested*, not required)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [The Boost C++ libraries](http://theboostcpplibraries.com)
@@ -1128,7 +1128,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [F# for fun and profit](https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details) (ePub)
 * [F# Programming](https://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
-* [F# Succinctly, SyncFusion](https://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) *(Just fill the fields with any values)*
+* [F# Succinctly, SyncFusion](https://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) (email address *requested*, not required)
 * [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf) (PDF)
 
 
@@ -1181,7 +1181,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 * [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html) - Richard E. Silverman
 * [Git Reference](http://gitref.org)
-* [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 * [Intoduction to Git and Github](https://launchschool.com/books/git) - Launch School
@@ -1291,7 +1291,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
 * [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
-* [HTML5 Graphing and Data Visualization Cookbook](https://www.packtpub.com/packt/free-ebook/html5-data-visualization-cookbook) - Ben Fhala, Packt. (Just fill the fields with any values)
+* [HTML5 Graphing and Data Visualization Cookbook](https://www.packtpub.com/packt/free-ebook/html5-data-visualization-cookbook) - Ben Fhala, Packt. (email address *requested*, not required)
 * [HTML5 Notes for Professionals](http://books.goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (3.x)
 * [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat
 * [Learn CSS Layout](http://learnlayout.com)
@@ -1306,8 +1306,8 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 #### Bootstrap
 
-* [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap3) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap3) (PDF, Kindle) (email address *requested*, not required)
+* [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) (PDF, Kindle) (email address *requested*, not required)
 
 
 #### HTTP
@@ -1324,8 +1324,8 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [Cocoa Dev Central](http://cocoadevcentral.com)
 * [iOS 8 App Development Essentials](http://www.techotopia.com/index.php/IOS_8_App_Development_Essentials)
-* [iOS Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Mastering iOS Game Development](https://www.packtpub.com/packt/free-ebook/mastering-ios-gamedev) - Miguel DeQuadros, Packt *(Just fill the fields with any values)*
+* [iOS Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) (email address *requested*, not required)
+* [Mastering iOS Game Development](https://www.packtpub.com/packt/free-ebook/mastering-ios-gamedev) - Miguel DeQuadros, Packt (email address *requested*, not required)
 * [NSHipster](http://nshipster.com/#archive) (Resource)
 * [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html) (HTML)
 * [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
@@ -1374,12 +1374,12 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Notes for Professionals](http://books.goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (3.x)
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
-* [Java: The Legend](https://www.oreilly.com/programming/free/java-the-legend.csp) - Ben Evans *(Just fill the fields with any values)*
+* [Java: The Legend](https://www.oreilly.com/programming/free/java-the-legend.csp) - Ben Evans (email address *requested*, not required)
 * [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer and Daniel Leuck
-* [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) - Christian Posta *(Just fill the fields with any values)*
-* [Modern Java EE Design Patterns](http://www.oreilly.com/programming/free/modern-java-ee-design-patterns.csp) - Markus Eisele *(Just fill the fields with any values)*
-* [Neural Network Development with Java](https://www.packtpub.com/packt/free-ebook/neural-networks-java) - Alan M. F. Souza and Fabio M. Soares *(Just fill the fields with any values)*
-* [Object-Oriented vs. Functional Programming](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp) - Richard Warburton *(Just fill the fields with any values)*
+* [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) - Christian Posta (email address *requested*, not required)
+* [Modern Java EE Design Patterns](http://www.oreilly.com/programming/free/modern-java-ee-design-patterns.csp) - Markus Eisele (email address *requested*, not required)
+* [Neural Network Development with Java](https://www.packtpub.com/packt/free-ebook/neural-networks-java) - Alan M. F. Souza and Fabio M. Soares (email address *requested*, not required)
+* [Object-Oriented vs. Functional Programming](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp) - Richard Warburton (email address *requested*, not required)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
 * [OSGi in Practice](http://njbartlett.name/osgibook.html) - N. Bartlett (PDF)
@@ -1438,7 +1438,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
 * [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite
-* [Javascript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Javascript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) (email address *requested*, not required)
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)
 * [jQuery Fundamentals](http://jqfundamentals.com) (starts with JavaScript basics)
 * [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) (PDF)
@@ -1447,7 +1447,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com) - Noel Rappin
 * [Marionette Exposé: Learn to write modular Javascript applicatons using Backbone Marionette and RequireJS/AMD](https://leanpub.com/marionetteexpose) - Jack Killilea  *(Leanpub account or valid email requested)*
-* [Mastering JavaScript High Performance](https://www.packtpub.com/packt/free-ebook/javascript-high-performance) - Chad R. Adams, Packt. *(Just fill the fields with any values)*
+* [Mastering JavaScript High Performance](https://www.packtpub.com/packt/free-ebook/javascript-high-performance) - Chad R. Adams, Packt. (email address *requested*, not required)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [O'Reilly Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 * [Oh My JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov
@@ -1468,9 +1468,9 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
-* [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt *(Just fill the fields with any values)*
+* [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt (email address *requested*, not required)
 * [AngularJS in 60 Minutes](http://sd.blackball.lv/library/AngularJS_in_60_minutes_Dan_Wahlin_May_2013)
-* [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) *(Just fill the fields with any values)*
+* [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) (email address *requested*, not required)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [AngularJS with Ruby on Rails](http://angular-rails.com)
 * [Developing with Angular](https://leanpub.com/developing-with-angular/) - Denys Vuika *(Leanpub account or valid email requested)* (:construction: *in process*)
@@ -1541,7 +1541,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
-* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
+* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) (email address *requested*, not required)
 
 
 #### Meteor
@@ -1556,9 +1556,9 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node Documentation](https://nodejs.org/en/docs/)
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
-* [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [The Node Beginner Book](http://nodebeginner.org)
-* [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt *(Just fill the fields with any values)*
+* [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt (email address *requested*, not required)
 
 
 #### Om
@@ -1661,7 +1661,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
 * [Linux Security for Beginners](http://www.linuxtopia.org/LinuxSecurity/index.html)
-* [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) (email address *requested*, not required)
 * [OpenVZ Linux virtualization](http://download.openvz.org/doc/OpenVZ-Users-Guide.pdf) (PDF)
 * [Red Hat Enterprise Linux 6 Essentials](http://www.techotopia.com/index.php/Red_Hat_Enterprise_Linux_6_Essentials)
 * [Secure Programming HOWTO - Creating Secure Software](http://www.dwheeler.com/secure-programs/) - D. A. Wheeler (HTML, PDF)
@@ -1736,7 +1736,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [MATLAB - A Ubiquitous Tool for the Practical Engineer](http://www.intechopen.com/books/matlab-a-ubiquitous-tool-for-the-practical-engineer)
 * [MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics)
 * [MATLAB Programming](https://en.wikibooks.org/wiki/MATLAB_Programming)
-* [MATLAB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/matlab) (PDF, Kindle) *(Just fill the fields with any values)*
+* [MATLAB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/matlab) (PDF, Kindle) (email address *requested*, not required)
 * [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html?requestedDomain=www.mathworks.com&nocookie=true)
 * [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
 
@@ -1793,9 +1793,9 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [CouchDB: The Definitive Guide](http://guide.couchdb.org)
 * [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
 * [Graph Databases](http://graphdatabases.com)
-* [Instant MongoDB](https://www.packtpub.com/packt/free-ebook/mongoDB-starter-guide) - Amol Nayak, Packt. *(Just fill the fields with any values)*
+* [Instant MongoDB](https://www.packtpub.com/packt/free-ebook/mongoDB-starter-guide) - Amol Nayak, Packt. (email address *requested*, not required)
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
-* [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) *(Just fill the fields with any values)*
+* [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
 * [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) - K. Seguin (PDF, Epub)
@@ -1813,7 +1813,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [Google's Objective-C Style Guide](https://github.com/google/styleguide/blob/gh-pages/objcguide.md)
 * [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005149)
-* [Objective-C Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Objective-C Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) (email address *requested*, not required)
 * [Programming With Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 * [Try Objective-C Book](http://tryobjectivec.codeschool.com)
 
@@ -1941,7 +1941,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 ### PostgreSQL
 
 * [Postgres Official Documentation](http://www.postgresql.org/docs/)
-* [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) (email address *requested*, not required)
 * [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
 * [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
 
@@ -1956,7 +1956,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Mastering PowerShell v2](http://community.idera.com/powershell/powertips/b/ebookv2#pi619PostSortOrder=Ascending)
 * [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 * [PowerShell Notes for Professionals](http://books.goalkicker.com/PowerShellBook/) - Compiled from StackOverflow documentation (3.x)
-* [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) *(Just fill the fields with any values)*
+* [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) (email address *requested*, not required)
 * [Secrets of PowerShell Remoting](https://www.gitbook.com/book/devopscollective/secrets-of-powershell-remoting/details) (PDF, ePub, MOBI)
 * [The Big Book of PowerShell Error Handling](https://www.gitbook.com/book/devopscollective/the-big-book-of-powershell-error-handling/details) (PDF, ePub, MOBI)
 * [The Big Book of PowerShell Gotchas](https://www.gitbook.com/book/devopscollective/the-big-book-of-powershell-gotchas/details) (PDF, ePub, MOBI)
@@ -1974,7 +1974,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 ### Prolog
 
 * [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/)
-* [Applications of Prolog](http://bookboon.com/en/applications-of-prolog-ebook) - Attila Csenki, Bookboon. (Just fill the fields with any values)
+* [Applications of Prolog](http://bookboon.com/en/applications-of-prolog-ebook) - Attila Csenki, Bookboon. (email address *requested*, not required)
 * [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
 * [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
 * [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
@@ -1986,7 +1986,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Prolog and Natural - Language Analysis](http://www.mtome.com/Publications/PNLA/pnla-digital.html) - Fernando C. N. Pereira, Stuart M. Shieber
 * [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
-* [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook) - Attila Csenki, Bookboon. (Just fill the fields with any values)
+* [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook) - Attila Csenki, Bookboon. (email address *requested*, not required)
 * [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
 * [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html) - P. Flach (HTML, PDF)
 * [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
@@ -2005,7 +2005,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 ### Python
 
-* [20 Python Libraries You Aren't Using (But Should)](http://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp) *(Just fill the fields with any values)*
+* [20 Python Libraries You Aren't Using (But Should)](http://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp) (email address *requested*, not required)
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 * [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
 * [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
@@ -2013,7 +2013,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
 * [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
-* [Building Machine Learning Systems with Python](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms) - Willi Richert & Luis Pedro Coelho, Packt. *(Just fill the fields with any values)*
+* [Building Machine Learning Systems with Python](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms) - Willi Richert & Luis Pedro Coelho, Packt. (email address *requested*, not required)
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
@@ -2024,12 +2024,12 @@ Kerridge (PDF) (Just fill the fields with any values)
   * [Dive into Python](http://www.diveintopython.net) - Mark Pilgrim (2.3)
 * [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * [Full Stack Python](http://www.fullstackpython.com)
-* [Functional Programming in Python](http://www.oreilly.com/programming/free/functional-programming-python.csp) *(Just fill the fields with any values)*
+* [Functional Programming in Python](http://www.oreilly.com/programming/free/functional-programming-python.csp) (email address *requested*, not required)
 * [Fundamentals of  Python Programming](http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) (3.2)
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
-* [Hadoop with Python](http://www.oreilly.com/programming/free/hadoop-with-python.csp) *(Just fill the fields with any values)*
+* [Hadoop with Python](http://www.oreilly.com/programming/free/hadoop-with-python.csp) (email address *requested*, not required)
 * [High Performance Python](http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf) (PDF)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 * [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
@@ -2045,7 +2045,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) (2.5 - 2.6)
 * [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF)
-* [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python) - Fabrizio Romano, Packt. *(Just fill the fields with any values)*
+* [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python) - Fabrizio Romano, Packt. (email address *requested*, not required)
 * [Learning to Program](http://www.alan-g.me.uk)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
@@ -2053,7 +2053,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) (3.3)
   * [Non-Programmer's Tutorial for Python 2.6](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) (2.6)
-* [Picking a Python Version: A Manifesto](http://www.oreilly.com/programming/free/from-future-import-python.csp) *(Just fill the fields with any values)*
+* [Picking a Python Version: A Manifesto](http://www.oreilly.com/programming/free/from-future-import-python.csp) (email address *requested*, not required)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
@@ -2070,7 +2070,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) (2.7.3)
 * [Python for you and me](http://pymbook.readthedocs.org/en/py3/) (3.x)
 * [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (PDF)
-* [Python in Education](http://www.oreilly.com/programming/free/python-in-education.csp) *(Just fill the fields with any values)*
+* [Python in Education](http://www.oreilly.com/programming/free/python-in-education.csp) (email address *requested*, not required)
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 * [Python Module of the Week](https://pymotw.com/3/) (3.x)
@@ -2151,7 +2151,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](https://web.archive.org/web/20170625184412/http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
-* [Machine Learning with R](https://www.packtpub.com/packt/free-ebook/r-machine-learning) - Brett Lantz, Packt. *(Just fill the fields with any values)*
+* [Machine Learning with R](https://www.packtpub.com/packt/free-ebook/r-machine-learning) - Brett Lantz, Packt. (email address *requested*, not required)
 * [ModernDive](https://ismayc.github.io/moderndiver-book/) - Chester Ismay and Albert Y. Kim
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
 * [R for Data Science](http://r4ds.had.co.nz) - Garrett Grolemund and Hadley Wickham
@@ -2161,7 +2161,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [R Practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R Programming](https://en.wikibooks.org/wiki/R_Programming)
 * [R Programming for Data Science](https://leanpub.com/rprogramming) - Roger D. Peng  *(Leanpub account or valid email requested)*
-* [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) *(Just fill the fields with any values)*
+* [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) (email address *requested*, not required)
 * [The caret Package](http://topepo.github.io/caret/index.html) - Max Kuhn
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
@@ -2178,7 +2178,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 ### Raspberry Pi
 
-* [Raspberry Pi Cookbook for Python Programmers](https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook) - Tim Cox, Packt. (PDF) *(Just fill the fields with any values)*
+* [Raspberry Pi Cookbook for Python Programmers](https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook) - Tim Cox, Packt. (PDF) (email address *requested*, not required)
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read) - Malcolm Maclean (HTML)
 * [Raspberry Pi Users Guide - (2012)](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
 * [The Official Raspberry Pi Project Book](https://www.raspberrypi.org/magpi-issues/Projects_Book_v1.pdf) (PDF)
@@ -2260,12 +2260,12 @@ Kerridge (PDF) (Just fill the fields with any values)
 ### Scala
 
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
-* [Advanced Scala with Cats](http://underscore.io/books/advanced-scala/) - Noel Welsh and Dave Gurnell (PDF, HTML, EPUB) *(Just fill the fields with any values)*
+* [Advanced Scala with Cats](http://underscore.io/books/advanced-scala/) - Noel Welsh and Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Another tour of Scala](http://naildrivin5.com/scalatour/)
-* [Creative Scala](http://underscore.io/books/creative-scala/) - Noel Welsh and Dave Gurnell (PDF, HTML, EPUB) *(Just fill the fields with any values)*
+* [Creative Scala](http://underscore.io/books/creative-scala/) - Noel Welsh and Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [EAI Patterns with Actor Model](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) - Vaughn Vernon
 * [Effective Scala](https://twitter.github.io/effectivescala/)
-* [Essential Scala](http://underscore.io/books/essential-scala/) - Noel Welsh and Dave Gurnell (PDF, HTML, EPUB) *(Just fill the fields with any values)*
+* [Essential Scala](http://underscore.io/books/essential-scala/) - Noel Welsh and Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - Sam Halliday
 * [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
 * [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
@@ -2283,7 +2283,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 * [Scala Tutorial](http://www.tutorialspoint.com/scala/scala_tutorial.pdf) (PDF)
 * [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
-* [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) *(Just fill the fields with any values)*
+* [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Xtrace](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 
 
@@ -2297,7 +2297,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 #### Play Scala
 
-* [Essential Play](http://underscore.io/books/essential-play/) - Dave Gurnell (PDF, HTML, EPUB) *(Just fill the fields with any values)*
+* [Essential Play](http://underscore.io/books/essential-play/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook) - Alvin Alexander
 
 
@@ -2413,9 +2413,9 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [Hacking with Swift](https://www.hackingwithswift.com)
 * [Learn Swift](http://books.aidanf.net/learn-swift)
-* [Swift Essentials - Second Edition](https://www.packtpub.com/packt/free-ebook/swift-essentials) - Dr. Alex Blewitt, Packt *(Just fill the fields with any values)*
-* [Swift Pocket Reference](http://www.oreilly.com/programming/free/swift-pocket-reference.csp) *(Just fill the fields with any values)*
-* [Test-driven iOS Development with Swift](https://www.packtpub.com/packt/free-ebook/TDD-Swift) - Dr. Dominik Hauser, Packt. *(Just fill the fields with any values)*
+* [Swift Essentials - Second Edition](https://www.packtpub.com/packt/free-ebook/swift-essentials) - Dr. Alex Blewitt, Packt (email address *requested*, not required)
+* [Swift Pocket Reference](http://www.oreilly.com/programming/free/swift-pocket-reference.csp) (email address *requested*, not required)
+* [Test-driven iOS Development with Swift](https://www.packtpub.com/packt/free-ebook/TDD-Swift) - Dr. Dominik Hauser, Packt. (email address *requested*, not required)
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 
@@ -2445,7 +2445,7 @@ Kerridge (PDF) (Just fill the fields with any values)
 
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
-* [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) *(Just fill the fields with any values)*
+* [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
 
 
 ### Unix

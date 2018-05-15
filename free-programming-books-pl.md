@@ -136,6 +136,7 @@
 
 ### Python
 
+* [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/)
 * [Biblioteka Pythona](http://www.python.rk.edu.pl)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 

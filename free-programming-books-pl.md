@@ -134,15 +134,15 @@
 
 ### Python
 
-* [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/)
 * [Biblioteka Pythona](http://www.python.rk.edu.pl)
+* [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 
 #### Django
 
-* [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 * [Kurs Django](http://www.python.rk.edu.pl/w/p/djangoindex/)
+* [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 
 
 ### Ruby

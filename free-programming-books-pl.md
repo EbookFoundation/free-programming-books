@@ -20,7 +20,6 @@
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
-* [Scala](#scala)
 * [SQL](#sql)
 
 
@@ -59,7 +58,6 @@
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/watch?v=aDXjubGK0jU&list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB)
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo)
-* [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
 
 
 ### Common Lisp
@@ -137,22 +135,19 @@
 ### Python
 
 * [Biblioteka Pythona](http://www.python.rk.edu.pl)
+* [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 
 #### Django
 
+* [Kurs Django](http://www.python.rk.edu.pl/w/p/djangoindex/)
 * [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 
 
 ### Ruby
 
 * [Ruby](https://pl.wikibooks.org/wiki/Ruby)
-
-
-### Scala
-
-* [Język programowania Scala](http://www.grzegorzbalcerek.net/jps2/index.html)
 
 
 ### SQL

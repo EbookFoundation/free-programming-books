@@ -142,6 +142,7 @@
 #### Django
 
 * [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
+* [Kurs Django](http://www.python.rk.edu.pl/w/p/djangoindex/)
 
 
 ### Ruby

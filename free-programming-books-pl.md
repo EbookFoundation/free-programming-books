@@ -152,8 +152,6 @@
 
 ### Scala
 
-* [Język programowania Scala](http://www.grzegorzbalcerek.net/jps2/index.html)
-
 
 ### SQL
 

@@ -57,7 +57,6 @@
 
 ### JavaScript
 
-* [Backbone.js API 한글 번역 v0.9.2](http://iwidgets.kr/document/backbonejs.html)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ko)
 * Meteor
   * [Discover Meteor](http://kr.discovermeteor.com)
@@ -81,7 +80,6 @@
 ### Perl
 
 * [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
-* [Perl : GyparkWiki](http://gypark.pe.kr/wiki/Perl)
 * [Perl 객체지향프로그래밍(OOP)](https://github.com/aero/perl_docs/blob/master/hatena_perl_oop.md) : Hatena-TextBook의 oop-for-perl 문서 한역 by aero
 * [Seoul.pm 펄 크리스마스 달력 #2014 | Seoul.pm Perl Advent Calendar 2014](http://advent.perl.kr/2014/)
 

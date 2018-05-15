@@ -44,7 +44,6 @@
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
 * [Codeforces](http://codeforces.com/problemset)
-* [CodeHunt](https://www.codehunt.com)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
 * [Exercism](http://exercism.io)

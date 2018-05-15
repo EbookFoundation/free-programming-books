@@ -258,14 +258,12 @@
 * [Learn OpenGL](http://learnopengl.com) - Joey de Vries
 * [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) - Jason L. McKesson (draft)
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations.
-* [OpenGL Programming Guide (The Red Book)](https://www.ics.uci.edu/~gopi/CS211B/opengl_programming_guide_8th_edition.pdf) - Dave Shreiner, Graham Sellers, John Kessenich and Bill Licea-Kane (PDF)
 * [ShaderX series](http://www.realtimerendering.com/resources/shaderx/) - Wolfgang Engel
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
 
 
 ### Graphical User Interfaces
 
-* [Best of Smashing Magazine](http://anniversary.smashingmagazine.com/best-of-smashing-magazine.zip)
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
 * [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
 * [The GLib/GTK+ Development Platform](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf) - Sébastien Wilmet (PDF)
@@ -414,7 +412,6 @@
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/the-book.html)
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
@@ -438,7 +435,6 @@
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
 * [Differential Equations](http://tutorial.math.lamar.edu/download.aspx) - Paul Dawkins (PDF, use form to download)
-* [Discrete Mathematics](http://home.iitk.ac.in/%7Earlal/book/mth202.pdf) - Dr. Arbind K Lal, IIT Kanpur (PDF)
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench (PDF)
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) - Sean Luke
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
@@ -705,7 +701,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett  *(Leanpub account or valid email requested)*
 * [Reactive Microservices Architecture](http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp) (email address *requested*, not required)
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
-* [Seamless Object-Oriented Software Architecture](http://www.bon-method.com/book_print_a4.pdf) (PDF)
 * [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 * [Software Architecture Patterns](http://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
@@ -1058,7 +1053,6 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Delphi / Pascal
 
 * [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/) - M. Cantù
-* [Free Pascal: Reference guide](http://ftp.icm.edu.pl/packages/fpc/docs-pdf/ref.pdf) (PDF)
 
 
 ### DTrace
@@ -1169,7 +1163,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Git
 
-* [A practical git introduction](http://marc.helbling.fr/2014/09/practical-git-introduction)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
@@ -1229,7 +1222,6 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Spock Framework
 
 * [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
-* [Spock Intro](http://edgibbs.com/spock-intro-a-bdd-testing-framework-in-groovy/) - Ed Gibbs
 
 
 ### Hack
@@ -1362,7 +1354,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman (PDF)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson (PDF)
 * [Artificial Intelligence - Foundation of Computational Agents (2010)](http://artint.info/html/ArtInt.html) - David Poole and Alan Mackworth
-* [Building Back-End Web Apps with Java, JPA and JSF](http://web-engineering.info/tech/JavaJpaJsf/book/index.html) - Mircea Diaconescu and Gerd Wagner
 * [Category wise tutorials - J2EE](https://www.mkyong.com/all-tutorials-on-mkyong-com/) - Yong Mook Kim
 * [Core Servlets and JavaServer Pages, 2nd Ed. (2003)](http://pdf.coreservlets.com) - Marty Hall and Larry Brown
 * [Data Structures in Java for the Principled Programmer (2007)](http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) - Duane A. Bailey (PDF)
@@ -1382,14 +1373,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Object-Oriented vs. Functional Programming](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp) - Richard Warburton (email address *requested*, not required)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
-* [OSGi in Practice](http://njbartlett.name/osgibook.html) - N. Bartlett (PDF)
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX) (2002)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
 * [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc) - Bruno Lowagie  *(Leanpub account or valid email requested)*
 * [The Java EE6 Tutorial](https://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [The Java EE7 Tutorial](https://docs.oracle.com/javaee/7/JEETT.pdf) - Eric Jendrock, et al (PDF)
 * [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey and Chris Mayfield
-* [Thinking in Java](http://www.mindview.net/Books/TIJ/) - Bruce Eckel
 * [Welcome to Java for Python Programmers](https://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
 
@@ -1469,7 +1458,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt (email address *requested*, not required)
-* [AngularJS in 60 Minutes](http://sd.blackball.lv/library/AngularJS_in_60_minutes_Dan_Wahlin_May_2013)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) (email address *requested*, not required)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [AngularJS with Ruby on Rails](http://angular-rails.com)
@@ -1613,7 +1601,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
 * [Julia language: a concise tutorial](https://www.gitbook.com/book/sylvaticus/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
 * [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
-* [Programming in Julia](http://quant-econ.net/jl/learning_julia.html) - Thomas J. Sargent and John Stachurski
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogomił Kamiński (PDF)
 
 
@@ -1654,7 +1641,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
 * [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
-* [Linux Compute Clusters](http://linuxclusters.com/compute_clusters.html)
 * [Linux Device Drivers, Third Edition](http://lwn.net/Kernel/LDD3/) - Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Linux Inside](https://www.gitbook.com/book/0xax/linux-insides/details)
@@ -1799,7 +1785,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) - K. Seguin (PDF, Epub)
-* [The Little Riak Book](http://littleriakbook.com)
 
 
 ### Oberon
@@ -1919,7 +1904,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming)
 * [PHP Security Guide](http://phpsec.org/projects/guide/)
 * [PHP: The Right Way](http://www.phptherightway.com)
-* [PHPUnit Best Practices](https://talks.thephp.cc/assets/2013-sunshinephp-phpunit-best-practices.pdf) - Sebastian Bergmann (PDF)
 * [PHPUnit Manual](https://phpunit.de/manual/current/en/phpunit-book.pdf) - Sebastian Bergmann (PDF)
 * [Practical PHP Programming](http://www.hackingwithphp.com)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
@@ -1988,7 +1972,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
 * [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook) - Attila Csenki, Bookboon. (email address *requested*, not required)
 * [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
-* [Simply Logical](http://www.cs.bris.ac.uk/~flach/SimplyLogical.html) - P. Flach (HTML, PDF)
 * [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci
 
@@ -2115,7 +2098,6 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Flask
 
 * [Explore Flask](https://exploreflask.com) - Robert Picard
-* [Flask Microframework](http://flask.pocoo.org/docs/0.10/tutorial/)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
 
@@ -2149,7 +2131,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (PDF)
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
-* [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - G. Jay Kerns (PDF)
+* [Introduction to Probability and Statistics Using R](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](https://web.archive.org/web/20170625184412/http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
 * [Machine Learning with R](https://www.packtpub.com/packt/free-ebook/r-machine-learning) - Brett Lantz, Packt. (email address *requested*, not required)
 * [ModernDive](https://ismayc.github.io/moderndiver-book/) - Chester Ismay and Albert Y. Kim
@@ -2270,7 +2252,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
 * [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Pro Scala: Monadic Design Patterns for the Web](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
-* [Program Transformation in Scala](http://homepages.cwi.nl/~ai/MScThesis-A-Izmaylova.pdf) - Anastasia Izmaylova (PDF)
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/) - by M. Odersky, L. Spoon, B. Venners
 * [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content/) - Rob Story
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/) - Phil! Gold
@@ -2310,7 +2291,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Scheme Tutorial](http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html) - B. Harvey, M. Wright
 * [Sketchy LISP: An Introduction to Functional Programming in Scheme](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/sketchy-lisp-3rd-ed-pdf.zip) - Nils Holm (ZIP)
-* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 * [Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index-Z-H-1.html)
 * [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/) - [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
 * [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
@@ -2340,7 +2320,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Smalltalk
 
-* [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/) (PDF)
 * [Deep into Pharo](http://books.pharo.org/deep-into-pharo/)
 * [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) -  S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
 * [Enterprise Pharo: a Web Perspective](http://books.pharo.org/enterprise-pharo/)
@@ -2469,7 +2448,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Free Range VHDL](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
 * [VHDL Tutorial](http://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html)
-* [VHDL Tutorial](http://hep.uchicago.edu/~tangjian/SVT_sub/FTK_ATLAS/AUX/vhdl-tutorial.pdf) - Peter J. Ashenden (PDF)
 * [VHDL Tutorial: Learn By Example](http://esd.cs.ucr.edu/labs/tutorial/)
 
 

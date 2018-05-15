@@ -31,7 +31,6 @@
 * [Pro Git](http://git-scm.com/book/pl/)
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
 * [SVN](https://pl.wikibooks.org/wiki/Subversion)
-* [System kontroli wersji Subversion](http://www.gajdaw.pl/varia/subversion-system-kontroli-wersji-tutorial/)
 
 
 ### Android

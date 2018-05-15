@@ -182,7 +182,6 @@
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
 * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 * [FreeBSD 使用手册](http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/)
-* [FreeRADIUS新手入门](http://freeradius.akagi201.org)
 * [Linux Documentation (中文版)](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
 * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
@@ -483,7 +482,6 @@
 
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
 * AngularJS
-  * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
   * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
   * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
   * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
@@ -518,8 +516,6 @@
 * jQuery
   * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
   * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
-* Meteor
-  * [Discover Meteor](http://zh.discovermeteor.com)
 * Node.js
   * [express.js 中文文档](http://expressjs.jser.us)
   * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
@@ -586,7 +582,6 @@
 ### Perl
 
 * [Master Perl Today](https://github.com/fayland/chinese-perl-book)
-* [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
 * [Perl 5 教程](https://web.archive.org/web/20150326073235/http://net.pku.edu.cn/~yhf/tutorial/perl/perl.html)
 * [Perl 教程](http://www.yiibai.com/perl)
 
@@ -598,7 +593,6 @@
 * [Phalcon7中文文档](http://www.myleftstudio.com)
 * [PHP 之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP中文手册](http://php.net/manual/zh/)
-* [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [PHP标准规范中文版](https://psr.phphub.org)
 * [Symfony2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
 * [Yii2中文文档](http://www.yiichina.com/doc/guide/2.0)
@@ -636,7 +630,6 @@
 ### reStructuredText
 
 * [reStructuredText 入门](http://www.pythondoc.com/sphinx/rest.html)
-* [reStructuredText 简明教程](http://jwch.sdut.edu.cn/book/rst.htm://web.archive.org/web/20170122080708/http://jwch.sdut.edu.cn/book/rst.html)
 
 
 ### Ruby

@@ -59,7 +59,6 @@
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/watch?v=aDXjubGK0jU&list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB)
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo)
-* [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
 
 
 ### Common Lisp

@@ -20,7 +20,6 @@
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
-* [Scala](#scala)
 * [SQL](#sql)
 
 
@@ -148,9 +147,6 @@
 ### Ruby
 
 * [Ruby](https://pl.wikibooks.org/wiki/Ruby)
-
-
-### Scala
 
 
 ### SQL

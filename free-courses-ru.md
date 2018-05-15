@@ -1,6 +1,7 @@
 ### Index
 
 * [Java](#java)
+* [PostgreSQL] (#postgresql)
 * [Python](#python)
 * [React](#react)
 
@@ -17,6 +18,14 @@ ADV - продвинутый. Тонкости.
 * [Java. Путь от ученика до эксперта.](http://www.job4j.ru/courses/java_way_from_student_to_master.html) - Пётр Арсентьев (INT)
 * [Вводный курс. Java в аналогиях.](http://www.job4j.ru/courses/java_beginner.html) - Пётр Арсентьев (BEG)
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
+
+
+### PostgreSQL
+
+* [DBA1. Администрирование PostgreSQL](https://postgrespro.ru/education/courses/DBA1) (BEG)
+* [DBA2. Администрирование PostgreSQL. Расширенный курс](https://postgrespro.ru/education/courses/DBA2) (INT)
+* [DEV1. Разработка серверной части приложений PostgreSQL](https://postgrespro.ru/education/courses/DEV1) (ADV)
+* [Hacking PostgreSQL](https://postgrespro.ru/education/courses/hacking) (INT)
 
 
 ### Python

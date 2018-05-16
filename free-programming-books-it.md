@@ -9,6 +9,7 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [CSS](#css)
+* [Espressioni regolari](#espressioni-regolari)
 * [Git](#git)
 * [HTML](#html)
 * [Java](#java)
@@ -66,6 +67,9 @@
 
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 
+### Espressioni regolari
+
+* [Introduzione alle Espressioni regolari](http://www.marianospadaccini.it/repository/espressioni_regolari.pdf) - M. Spadaccini (PDF)
 
 ### GIT
 

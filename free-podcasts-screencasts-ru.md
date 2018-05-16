@@ -11,8 +11,8 @@
 * [React.js](#reactjs)
 * [Ruby](#ruby)
 * [Webpack](#webpack)
-* [Веб-дизайн](#Веб-дизайн)
 * [Новости и Разработка ПО](#Новости-и-Разработка-ПО)
+* [Информационные технологии и безопасность](#Информационные-технологии-и-безопасность)
 
 
 ### Android
@@ -83,11 +83,6 @@
 * [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)
 
 
-### Веб-дизайн
-
-* [Подкасты про IT и web разработку](https://uwebdesign.ru) (Podcast)
-
-
 ### Новости и Разработка ПО
 
 * [CTOcast](http://ctocast.com) (Podcast)
@@ -100,4 +95,12 @@
 * [Разбор полётов](http://razbor-poletov.com) (Podcast)
 * [Развлекательный IT подкаст](http://radioma.org) (Podcast)
 * [Слава + Паша](https://it.asm0dey.ru) (Podcast)
+
+
+### Информационные технологии и безопасность
+
+* [LinkMeUp](http://linkmeup.ru) (Podcast)
+* [Noise Security Bit](https://noisebit.podster.fm) (Podcast)
+* [uWebDesign](https://uwebdesign.ru) (Podcast)
+* [Квант безопасности](https://soundcloud.com/nikita-remezov) (Podcast)
 

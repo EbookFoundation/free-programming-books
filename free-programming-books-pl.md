@@ -46,8 +46,10 @@
 
 ### C
 
+* [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
 * [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
+* [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
 
 

@@ -55,7 +55,7 @@
 
 ### C++
 
-* [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1)
+* [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/watch?v=aDXjubGK0jU&list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB)
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo)
@@ -93,6 +93,8 @@
 ### Java
 
 * [Java start](http://javastart.pl)
+* [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/)
+* [Praktyczny kurs Javy](https://kobietydokodu.pl/kurs-javy/) - Jakub Derda
 
 
 ### JavaScript
@@ -106,7 +108,7 @@
 ### LaTeX
 
 * [LaTeX kurs](http://www.latex-kurs.x25.pl)
-* [LaTeX. Książka kucharska](http://www.ptm.org.pl/latex-ksiazka-kucharska), Marcin Borkowski, Bartłomiej Przybylski
+* [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
 
 

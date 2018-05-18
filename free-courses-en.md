@@ -252,6 +252,7 @@
 
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
+* [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) (F. Corno - L. De Russis - A. Monge Roffarello)
 * [Berkeley's CS  61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
 * [Berkeley's CS 162: Operating Systems and Systems Programming](https://www.youtube.com/watch?v=feAOZuID1HM)
 * [Berkeley's CS 169: Software Engineering](https://www.youtube.com/watch?v=fXokQpWsszU)

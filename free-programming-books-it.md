@@ -22,6 +22,7 @@
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
+* [UML](#uml)
 * [Visual Basic](#visual-basic)
 
 
@@ -151,6 +152,13 @@
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf) (PDF)
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
 * [Ruby User Guide](http://ruby-it.org/rug_it.zip)
+
+
+### UML
+
+* [Appunti di UML](http://liuct.altervista.org/download/repository/ingsof/Appunti_UML.pdf) (PDF)
+* [Introduzione alla gestione del progetto software con UML](http://areaprofessional.com/documenti/D03_IntroGestioneProgettoSW.pdf) - G. Destri (PDF)
+* [Modellazione e progettazione con UML](http://www.ricercasit.it/public/documenti/clamSiTel/Materiali/Moduli%20Didattici%20I%20anno/Modelli%20e%20strutture%20dei%20dati%20spaziali/05-uml.pdf) - E. Roccatello (PDF)
 
 
 ### Visual Basic

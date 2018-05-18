@@ -56,6 +56,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 ### Free Online Courses
 + [English](/free-courses-en.md)
 + [German](/free-courses-de.md)
++ [Italian](/free-courses-it.md)
 + [Russian](/free-courses-ru.md)
 + [Spanish](/free-courses-es.md)
 + [Vietnamese](/free-courses-vi.md)

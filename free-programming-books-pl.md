@@ -108,7 +108,7 @@
 ### LaTeX
 
 * [LaTeX kurs](http://www.latex-kurs.x25.pl)
-* [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) (PDF) - Marcin Borkowski, Bartłomiej Przybylski
+* [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
 
 

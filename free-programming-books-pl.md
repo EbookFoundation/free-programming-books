@@ -93,6 +93,7 @@
 ### Java
 
 * [Java start](http://javastart.pl)
+* [Kurs programowania java](http://www.samouczekprogramisty.pl/kurs-programowania-java/)
 
 
 ### JavaScript

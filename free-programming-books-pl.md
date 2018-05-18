@@ -93,7 +93,8 @@
 ### Java
 
 * [Java start](http://javastart.pl)
-* [Kurs programowania java](http://www.samouczekprogramisty.pl/kurs-programowania-java/)
+* [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/)
+* [Praktyczny kurs Javy](https://kobietydokodu.pl/kurs-javy/) - Jakub Derda
 
 
 ### JavaScript

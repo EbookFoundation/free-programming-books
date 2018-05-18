@@ -29,6 +29,7 @@
 
 #### Metodologie di sviluppo del software
 
+* [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia e A. Schaerf (PDF)
 * [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
 * [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
 

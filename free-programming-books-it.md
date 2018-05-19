@@ -158,7 +158,6 @@
 
 * [Appunti di UML](http://liuct.altervista.org/download/repository/ingsof/Appunti_UML.pdf) (PDF)
 * [Introduzione alla gestione del progetto software con UML](http://areaprofessional.com/documenti/D03_IntroGestioneProgettoSW.pdf) - G. Destri (PDF)
-* [Modellazione e progettazione con UML](http://www.ricercasit.it/public/documenti/clamSiTel/Materiali/Moduli%20Didattici%20I%20anno/Modelli%20e%20strutture%20dei%20dati%20spaziali/05-uml.pdf) - E. Roccatello (PDF)
 
 
 ### Visual Basic

@@ -92,8 +92,8 @@
 
 ### Java
 
-* [Java start](http://javastart.pl)
-* [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/)
+* [Darmowy kurs Java](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - Sławek Ludwiczak
+* [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/) - Marcin Pietraszek
 * [Praktyczny kurs Javy](https://kobietydokodu.pl/kurs-javy/) - Jakub Derda
 
 

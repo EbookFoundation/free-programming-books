@@ -8,6 +8,8 @@
 ### Generale
 
 * [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - M. Mezzalama (Politecnico di Torino)
+* [Informatica I - Modelli dell'Informatica](https://www.youtube.com/playlist?list=PLAQopGWlIcyalkb2baN9mnotsdBm5Vbkc) - A. Marchetti Spaccamela (Università La Sapienza Università di Roma)
+* [Sistemi di Calcolo](https://www.youtube.com/playlist?list=PLAQopGWlIcybT12h7fjVvlGAeSqOKDnTA) - C. Demetrescu (Università La Sapienza di Roma)
 
 
 ### Programmazione

@@ -20,7 +20,6 @@
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
-* [Scala](#scala)
 * [SQL](#sql)
 
 
@@ -32,7 +31,6 @@
 * [Pro Git](http://git-scm.com/book/pl/)
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
 * [SVN](https://pl.wikibooks.org/wiki/Subversion)
-* [System kontroli wersji Subversion](http://www.gajdaw.pl/varia/subversion-system-kontroli-wersji-tutorial/)
 
 
 ### Android
@@ -48,18 +46,19 @@
 
 ### C
 
+* [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
 * [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
+* [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
 
 
 ### C++
 
-* [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1)
+* [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/watch?v=aDXjubGK0jU&list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB)
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo)
-* [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
 
 
 ### Common Lisp
@@ -94,6 +93,8 @@
 ### Java
 
 * [Java start](http://javastart.pl)
+* [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/)
+* [Praktyczny kurs Javy](https://kobietydokodu.pl/kurs-javy/) - Jakub Derda
 
 
 ### JavaScript
@@ -107,7 +108,7 @@
 ### LaTeX
 
 * [LaTeX kurs](http://www.latex-kurs.x25.pl)
-* [LaTeX. Książka kucharska](http://www.ptm.org.pl/latex-ksiazka-kucharska), Marcin Borkowski, Bartłomiej Przybylski
+* [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
 
 
@@ -137,22 +138,19 @@
 ### Python
 
 * [Biblioteka Pythona](http://www.python.rk.edu.pl)
+* [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 
 #### Django
 
+* [Kurs Django](http://www.python.rk.edu.pl/w/p/djangoindex/)
 * [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 
 
 ### Ruby
 
 * [Ruby](https://pl.wikibooks.org/wiki/Ruby)
-
-
-### Scala
-
-* [Język programowania Scala](http://www.grzegorzbalcerek.net/jps2/index.html)
 
 
 ### SQL

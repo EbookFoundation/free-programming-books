@@ -66,7 +66,6 @@
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
 * [Sololearn](https://code.sololearn.com/#html)
-* [WebpackBin](https://www.webpackbin.com)
 
 
 ### Kotlin

@@ -9,6 +9,7 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [CSS](#css)
+* [Espressioni regolari](#espressioni-regolari)
 * [Git](#git)
 * [HTML](#html)
 * [Java](#java)
@@ -34,7 +35,10 @@
 
 #### Algoritmi e Strutture Dati
 
+* [Algoritmi e Strutture Dati - Astrazione, Progetto e Realizzazione](http://www.astromoodle.altervista.org/download/libro-asd.pdf) - M. Vento e P. Foggia (PDF)
+* [Appunti di Analisi e Progettazione di Algoritmi](https://www.sci.unich.it/~acciaro/corsoASD.pdf) - V. Acciaro T. Roselli e V. Marengo (PDF)
 * [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf) (PDF)
+* [Progetto e Analisi di Algoritmi](http://bertoni.di.unimi.it/Algoritmi_e_Strutture_Dati.pdf) - A. Bertoni e M. Goldwurm (PDF)
 
 
 ### Android
@@ -65,6 +69,11 @@
 ### CSS
 
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
+
+
+### Espressioni regolari
+
+* [Introduzione alle Espressioni regolari](http://www.marianospadaccini.it/repository/espressioni_regolari.pdf) - M. Spadaccini (PDF)
 
 
 ### GIT
@@ -114,7 +123,6 @@
 
 ### Perl
 
-* [Corso di Perl](http://www.perl.it/documenti/articoli/mb_corso_perl/mb_corso_perl.pdf) (PDF)
 * [Perl e Internet](http://www.ateneonline.it/hyperbook/p_book/perl2.htm)
 
 

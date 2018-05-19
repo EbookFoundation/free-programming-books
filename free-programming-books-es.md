@@ -62,7 +62,6 @@
 #### Algoritmos
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
-* [Aprenda a programar como si estuviera en primero](http://www1.ceit.es/asignaturas/Informat1/ayudainf/aprendainf/Programar/Programar.pdf) (PDF)
 * [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html) (HTML)
@@ -88,7 +87,6 @@
 #### Cursos Masivos en Línea
 
 * [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice) (Github)
-* [MIT Opencourseware en Español](http://mit.ocw.universia.net)
 
 
 #### Metodologías de desarrollo de software
@@ -185,7 +183,6 @@
 * [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) (HTML)
 * [Estructura con CSS](http://es.learnlayout.com) (HTML)
 * [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas (PDF)
-* [HTML5](http://www.arkaitzgarro.com/html5) - Arkaitz Garro (HTML) [(PDF)](https://openlibra.com/es/book/download/html5)
 * [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-css)
 
 
@@ -289,7 +286,6 @@
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (PDF) (descarga directa)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) (HTML)
-* [Notas sobre el lenguaje Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/view) (PDF)
 * [Python instantáneo (1999)](http://www.arrakis.es/~rapto/AprendaPython.html) (HTML)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) (Github)
 * [Python para principiantes](http://librosweb.es/libro/python) (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)

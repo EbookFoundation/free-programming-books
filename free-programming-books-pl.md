@@ -92,7 +92,7 @@
 
 ### Java
 
-* [Java start](http://javastart.pl)
+* [Darmowy kurs Java](https://javastart.pl/baza-wiedzy/darmowy-kurs-java)
 * [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/)
 * [Praktyczny kurs Javy](https://kobietydokodu.pl/kurs-javy/) - Jakub Derda
 

@@ -56,7 +56,7 @@
 ### C++
 
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
-* [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
+* [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/) - Karol Kuczmarski
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/watch?v=aDXjubGK0jU&list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB)
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo)
 
@@ -85,9 +85,9 @@
 
 ### HTML
 
-* [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html)
-* [KURS HTML](http://www.kurshtml.edu.pl)
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+* [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html) - Sławomir Kokłowski
+* [KURS HTML](http://www.kurshtml.edu.pl) - Sławomir Kokłowski
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/) - Damian Wielgosik
 
 
 ### Java
@@ -100,21 +100,21 @@
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
-* [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/)
-* [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC)
-* [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html)
+* [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/) - Marijn Haverbeke, Łukasz Piwko
+* [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC) - Mirosław Zelent, Damian Stelmach
+* [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html) - Sławomir Kokłowski
 
 
 ### LaTeX
 
-* [LaTeX kurs](http://www.latex-kurs.x25.pl)
+* [LaTeX kurs](http://www.latex-kurs.x25.pl) - Przemysław Spurek
 * [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
-* [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
+* [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish) - Janusz Goldasz, Ryszard Ku­biak, To­masz Przech­lewski
 
 
 ### MySQL
 
-* [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ)
+* [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ) - Mirosław Zelent, Damian Stelmach
 
 
 ### Perl

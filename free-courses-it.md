@@ -34,7 +34,6 @@
 
 ### Strumenti di sviluppo
 
-
 #### Maven
 
 * [Tutorial su Maven](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-f71M9YyNSk4RpLE5jobe7y) (S. Zorba)

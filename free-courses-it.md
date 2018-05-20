@@ -1,8 +1,11 @@
 ### Indice
 
 * [Generale](#generale)
+* [Java](#Java)
 * [Programmazione](#programmazione)
 * [Sistemi Informativi](#sistemi-informativi)
+* [Strumenti di sviluppo](#strumenti-di-sviluppo)
+  * [Maven](#maven)
 
 
 ### Generale
@@ -10,6 +13,11 @@
 * [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - M. Mezzalama (Politecnico di Torino)
 * [Informatica I - Modelli dell'Informatica](https://www.youtube.com/playlist?list=PLAQopGWlIcyalkb2baN9mnotsdBm5Vbkc) - A. Marchetti Spaccamela (Università La Sapienza Università di Roma)
 * [Sistemi di Calcolo](https://www.youtube.com/playlist?list=PLAQopGWlIcybT12h7fjVvlGAeSqOKDnTA) - C. Demetrescu (Università La Sapienza di Roma)
+
+
+### Java
+
+* [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) (S. Zorba)
 
 
 ### Programmazione
@@ -22,3 +30,10 @@
 ### Sistemi Informativi
 
 * [Sistemi Informativi Aziendali](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=233) - F. Corno (Politecnico di Torino)
+
+
+### Strumenti di sviluppo
+
+#### Maven
+
+* [Tutorial su Maven](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-f71M9YyNSk4RpLE5jobe7y) (S. Zorba)

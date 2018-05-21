@@ -54,8 +54,11 @@
 * [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
 
+
 ### C Sharp
 
+* [Kurs podstawy C#](http://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-csharpa) - Cezary Walenciuk
+* [Programowanie w języku C#](https://4programmers.net/C_sharp)
 
 ### C++
 

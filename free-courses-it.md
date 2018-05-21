@@ -1,11 +1,23 @@
 ### Indice
 
+* [Embedded](#embedded)
+  * [Arduino](#arduino)
 * [Generale](#generale)
 * [Java](#Java)
 * [Programmazione](#programmazione)
+* [Python](#python)
 * [Sistemi Informativi](#sistemi-informativi)
 * [Strumenti di sviluppo](#strumenti-di-sviluppo)
+  * [Git](#git)
   * [Maven](#maven)
+* [Workshop](#workshop)  
+
+
+### Embedded
+
+#### Arduino
+
+* [Corso Arduino 2014](https://www.youtube.com/watch?v=WuqS4C4u42E&list=PLA27EZBY5vePO9T6YP3rH8LTTdylz69VE) (POuLpolimi Politecnico di Milano)
 
 
 ### Generale
@@ -18,6 +30,11 @@
 ### Java
 
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) (S. Zorba)
+
+
+### Python
+
+* [Corso Python 2016](https://www.youtube.com/playlist?list=PLA27EZBY5veOa-dbNIetJvyrAuoVy4zDD) (POuLpolimi Politecnico di Milano)
 
 
 ### Programmazione
@@ -34,6 +51,18 @@
 
 ### Strumenti di sviluppo
 
+#### Git
+
+* [Corso Git 2017](https://www.youtube.com/playlist?list=PLA27EZBY5veN02RzEr6Ecm7KcjWadthBh) (POuLpolimi Politecnico di Milano)
+
+
 #### Maven
 
 * [Tutorial su Maven](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-f71M9YyNSk4RpLE5jobe7y) (S. Zorba)
+
+
+### Workshop
+
+* [Workshop 3D Printing 2015](https://www.youtube.com/watch?v=7AJzR94ACZs&list=PLA27EZBY5veNgfDUNft5kju0QAvLPPw2j) (POuLpolimi Politecnico di Milano)
+* [Workshop Calcolo Numerico 2014](https://www.youtube.com/watch?v=FVzt6TX0CiY&list=PLA27EZBY5veNyyBiZxkjFE2KwAIKLkITL) (POuLpolimi Politecnico di Milano)
+* [Workshop Python 2014](https://www.youtube.com/watch?v=lz6uKGmrQoU&list=PLA27EZBY5veOFh1PdRdf7dc3DdBg-XctF) (POuLpolimi Politecnico di Milano)

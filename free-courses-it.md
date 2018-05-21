@@ -1,7 +1,7 @@
 ### Indice
 
-* [Architettura degli Elaboratori](#architettura-degli-elaboratori)
 * [Algoritmi e Strutture Dati](#algoritmi-e-struture-dati)
+* [Architettura degli Elaboratori](#architettura-degli-elaboratori)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
 * [Generale](#generale)
@@ -15,15 +15,15 @@
 * [Workshop](#workshop)  
 
 
-### Architettura degli Elaboratori
-
-* [Architettura degli Elaboratori](https://www.youtube.com/playlist?list=PLjTV6y5YWc5H2fefaz78qCeSKWj-k_-pY) - A. Bogliolo (Università di Urbino)
-
-
 ### Algoritmi e Strutture Dati
 
 * [AlgoMOOC - Algoritmi quotidiani](https://www.youtube.com/watch?v=opHFKVuDiYM&list=PLjTV6y5YWc5HNnLyXkzUe9IlkG2n6guxU) - A. Bogliolo
 * [Algoritmi e Strutture Dati](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2TViOKbk-NjDBvL4RXDwYY) - R. Grossi (Università di Pisa)
+
+
+### Architettura degli Elaboratori
+
+* [Architettura degli Elaboratori](https://www.youtube.com/playlist?list=PLjTV6y5YWc5H2fefaz78qCeSKWj-k_-pY) - A. Bogliolo (Università di Urbino)
 
 
 ### Embedded

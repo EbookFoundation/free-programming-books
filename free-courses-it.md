@@ -1,5 +1,7 @@
 ### Indice
 
+* [Algoritmi e Strutture Dati](#algoritmi-e-struture-dati)
+* [Architettura degli Elaboratori](#architettura-degli-elaboratori)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
 * [Generale](#generale)
@@ -13,6 +15,17 @@
 * [Workshop](#workshop)  
 
 
+### Algoritmi e Strutture Dati
+
+* [AlgoMOOC - Algoritmi quotidiani](https://www.youtube.com/watch?v=opHFKVuDiYM&list=PLjTV6y5YWc5HNnLyXkzUe9IlkG2n6guxU) - A. Bogliolo
+* [Algoritmi e Strutture Dati](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2TViOKbk-NjDBvL4RXDwYY) - R. Grossi (Università di Pisa)
+
+
+### Architettura degli Elaboratori
+
+* [Architettura degli Elaboratori](https://www.youtube.com/playlist?list=PLjTV6y5YWc5H2fefaz78qCeSKWj-k_-pY) - A. Bogliolo (Università di Urbino)
+
+
 ### Embedded
 
 #### Arduino
@@ -22,6 +35,7 @@
 
 ### Generale
 
+* [Automi e Linguaggi Formali](https://www.youtube.com/playlist?list=PLhEwqlL10MqNz1pA7R5jnB_gsMIhDOe5X) - Bresolin e Filè (Università di Padova)
 * [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - M. Mezzalama (Politecnico di Torino)
 * [Informatica I - Modelli dell'Informatica](https://www.youtube.com/playlist?list=PLAQopGWlIcyalkb2baN9mnotsdBm5Vbkc) - A. Marchetti Spaccamela (Università La Sapienza Università di Roma)
 * [Sistemi di Calcolo](https://www.youtube.com/playlist?list=PLAQopGWlIcybT12h7fjVvlGAeSqOKDnTA) - C. Demetrescu (Università La Sapienza di Roma)

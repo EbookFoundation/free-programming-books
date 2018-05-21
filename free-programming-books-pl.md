@@ -60,6 +60,7 @@
 * [Kurs podstawy C#](http://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-csharpa) - Cezary Walenciuk
 * [Programowanie w języku C#](https://4programmers.net/C_sharp)
 
+
 ### C++
 
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński

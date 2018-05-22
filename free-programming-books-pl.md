@@ -57,6 +57,8 @@
 
 ### C Sharp
 
+* [Darmowy kurs C#](http://kurs.aspnetmvc.pl/Csharp)
+* [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając
 * [Kurs podstawy C#](http://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-csharpa) - Cezary Walenciuk
 * [Programowanie w języku C#](https://4programmers.net/C_sharp)
 

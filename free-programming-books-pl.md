@@ -4,6 +4,7 @@
 * [Android](#android)
 * [Bash](#bash)
 * [C](#c)
+* [C#](#c-sharp)
 * [C++](#c-1)
 * [Common Lisp](#common-lisp)
 * [Coq](#coq)
@@ -47,10 +48,17 @@
 ### C
 
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
+* [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
 * [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
 * [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
+
+
+### C Sharp
+
+* [Kurs podstawy C#](http://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-csharpa) - Cezary Walenciuk
+* [Programowanie w języku C#](https://4programmers.net/C_sharp)
 
 
 ### C++

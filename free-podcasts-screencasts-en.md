@@ -12,6 +12,7 @@
 * [Git](#git)
 * [Golang](#golang)
 * [Gulp](#gulp)
+* [Haskell](#haskell)
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
   * [Ember.js](#emberjs)
@@ -107,6 +108,11 @@
 ### Gulp
 
 * [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp) (screencast)
+
+
+### Haskell
+
+* [The Haskell Cast](http://www.haskellcast.com) (podcast)
 
 
 ### Javascript

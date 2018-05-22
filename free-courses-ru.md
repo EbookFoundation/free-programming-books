@@ -1,7 +1,7 @@
 ### Index
 
 * [Java](#java)
-* [PostgreSQL] (#postgresql)
+* [PostgreSQL](#postgresql)
 * [Python](#python)
 * [React](#react)
 

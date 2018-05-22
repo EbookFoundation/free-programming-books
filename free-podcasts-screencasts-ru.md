@@ -4,6 +4,7 @@
 * [Clojure](#clojure)
 * [Golang](#golang)
 * [Gulp](#gulp)
+* [Haskell](#haskell)
 * [Javascript](#javascript)
 * [Node.js](#nodejs)
 * [PHP](#php)
@@ -33,6 +34,11 @@
 ### Gulp
 
 * [Скринкаст по Gulp](http://learn.javascript.ru/screencast/gulp) - Илья Кантор (Screencast)
+
+
+### Haskell
+
+* [Бананы и Линзы](https://bananasandlenses.net)
 
 
 ### Javascript

@@ -2,10 +2,13 @@
 
 * [Algoritmi e Strutture Dati](#algoritmi-e-struture-dati)
 * [Architettura degli Elaboratori](#architettura-degli-elaboratori)
+* [Assembly](#assembly)
+* [C++](#c++)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
 * [Generale](#generale)
 * [Java](#Java)
+* [Networking](#networking)
 * [Programmazione](#programmazione)
 * [Python](#python)
 * [Sistemi Informativi](#sistemi-informativi)
@@ -24,6 +27,17 @@
 ### Architettura degli Elaboratori
 
 * [Architettura degli Elaboratori](https://www.youtube.com/playlist?list=PLjTV6y5YWc5H2fefaz78qCeSKWj-k_-pY) - A. Bogliolo (Università di Urbino)
+
+
+### Assembly
+
+* [Assembler x86](https://www.youtube.com/playlist?list=PLUJjY3hQLJ3NHQ9315KVvgiZ3v2FLtcbs)
+
+
+### C++
+
+* [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) (F. Camuso)
+* [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) (F. Camuso)
 
 
 ### Embedded
@@ -46,9 +60,15 @@
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) (S. Zorba)
 
 
+### Networking
+
+* [Advanced Networking 2016](https://www.youtube.com/playlist?list=PLkbnRIR2azkIXO-ndOz7qBvVC38_wbOW8) (Hacklab Cosenza) 
+
+
 ### Python
 
 * [Corso Python 2016](https://www.youtube.com/playlist?list=PLA27EZBY5veOa-dbNIetJvyrAuoVy4zDD) (POuLpolimi Politecnico di Milano)
+* [Corso rapido Python per principianti e per esempi](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9) (F. Camuso)
 
 
 ### Programmazione

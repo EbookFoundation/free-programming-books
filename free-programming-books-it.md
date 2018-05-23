@@ -9,6 +9,9 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [CSS](#css)
+* [Database](#database)
+  * [NoSQL](#nosql)
+  * [Relazionali](#relazionali)
 * [Espressioni regolari](#espressioni-regolari)
 * [Git](#git)
 * [HTML](#html)
@@ -73,6 +76,20 @@
 
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 
+
+### Database
+
+* [La progettazione dei database relazionali](http://www.crescenziogallo.it/unifg/medicina/TSRM/master_bioimmagini/db/Teoria_pratica_progettazione_db_relazionali.pdf) - C. Gallo (PDF)
+* [Manuale pratico di disegno e progettazione dei database](http://www.brunasti.eu/unimib/bdsi/manuale-pratico-progettazione-ER-100914.pdf) - P. Brunasti (PDF)
+* [Progettare database](https://www.istitutomichelangelo.info/images/sampledata/FilesCaricati/bmorigi/classe%20V/Esercitazioni_schema_concettuale/PROGETTAZIONE%20DATABASE.pdf) (PDF)
+
+
+#### NoSQL
+
+* [Il piccolo libro di MongoDB](https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf) - Traduzione di N. Iarocci dall'originale di K. Seguin (PDF)
+
+
+#### Relazionali
 
 ### Espressioni regolari
 

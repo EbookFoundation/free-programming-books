@@ -108,7 +108,7 @@
 ### Java
 
 * [Darmowy kurs Java](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - Sławek Ludwiczak
-* [Język Java](http://www.dz5.pl/ti/java/java_skladnia.pdf) - Jacek Rumiński
+* [Język Java](http://www.dz5.pl/ti/java/java_skladnia.pdf) - Jacek Rumiński (PDF)
 * [Kurs Java](https://stormit.pl/kurs-java/) - Tomasz Woliński
 * [Kurs JAVA](http://cyberpunk.e-spin.pl/86,44,5/KOD/KURSY-PROGRAMOWANIA/Kurs-JAVA)
 * [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/) - Marcin Pietraszek
@@ -147,8 +147,8 @@
 ### PHP
 
 * [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
-* [Kurs PHP. Programowanie backendowe](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh) - Mirosław Zelent, Damian Stelmach
 * [Kurs PHP OOP](http://cyberpunk.e-spin.pl/86,37,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PHP-OOP)
+* [Kurs PHP. Programowanie backendowe](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh) - Mirosław Zelent, Damian Stelmach
 * [PHP](https://pl.wikibooks.org/wiki/PHP)
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 

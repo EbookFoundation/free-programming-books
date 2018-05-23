@@ -4,6 +4,7 @@
 * [Android](#android)
 * [Bash](#bash)
 * [C](#c)
+* [C#](#c-sharp)
 * [C++](#c-1)
 * [Common Lisp](#common-lisp)
 * [Coq](#coq)
@@ -47,23 +48,33 @@
 ### C
 
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
+* [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
 * [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
 * [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
 
 
+### C Sharp
+
+* [Darmowy kurs C#](http://kurs.aspnetmvc.pl/Csharp)
+* [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając
+* [Kurs podstawy C#](http://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-csharpa) - Cezary Walenciuk
+* [Programowanie w języku C#](https://4programmers.net/C_sharp)
+* [Wstęp do programowania w C#](http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF)
+
+
 ### C++
 
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
-* [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
-* [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/watch?v=aDXjubGK0jU&list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB)
-* [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo)
+* [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/) - Karol Kuczmarski
+* [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB) - Mirosław Zelent, Damian Stelmach
+* [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) - Mirosław Zelent, Damian Stelmach
 
 
 ### Common Lisp
 
-* [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php)
+* [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php) - Jakub Jankiewicz
 
 
 ### Coq
@@ -73,9 +84,9 @@
 
 ### CSS
 
-* [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html)
-* [Kurs CSS. Wygląd strony www - kaskadowe arkusze stylów - Pasja informatyki (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv)
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+* [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
+* [Kurs CSS. Wygląd strony www - kaskadowe arkusze stylów - Pasja informatyki (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv) - Mirosław Zelent, Damian Stelmach
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/) - Damian Wielgosik
 
 
 ### Haskell
@@ -85,36 +96,36 @@
 
 ### HTML
 
-* [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html)
-* [KURS HTML](http://www.kurshtml.edu.pl)
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+* [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html) - Sławomir Kokłowski
+* [KURS HTML](http://www.kurshtml.edu.pl) - Sławomir Kokłowski
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/) - Damian Wielgosik
 
 
 ### Java
 
-* [Java start](http://javastart.pl)
-* [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/)
+* [Darmowy kurs Java](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - Sławek Ludwiczak
+* [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/) - Marcin Pietraszek
 * [Praktyczny kurs Javy](https://kobietydokodu.pl/kurs-javy/) - Jakub Derda
 
 
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
-* [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/)
-* [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC)
-* [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html)
+* [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/) - Marijn Haverbeke, Łukasz Piwko
+* [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC) - Mirosław Zelent, Damian Stelmach
+* [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html) - Sławomir Kokłowski
 
 
 ### LaTeX
 
-* [LaTeX kurs](http://www.latex-kurs.x25.pl)
+* [LaTeX kurs](http://www.latex-kurs.x25.pl) - Przemysław Spurek
 * [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
-* [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
+* [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish) - Janusz Goldasz, Ryszard Ku­biak, To­masz Przech­lewski
 
 
 ### MySQL
 
-* [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ)
+* [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ) - Mirosław Zelent, Damian Stelmach
 
 
 ### Perl
@@ -124,21 +135,21 @@
 
 ### PHP
 
-* [Kurs PHP](http://phpkurs.pl)
-* [Kurs PHP. Programowanie backendowe](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh)
+* [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
+* [Kurs PHP. Programowanie backendowe](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh) - Mirosław Zelent, Damian Stelmach
 * [PHP](https://pl.wikibooks.org/wiki/PHP)
-* [PHP: The Right Way](http://pl.phptherightway.com)
+* [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 
 
 ### Prolog
 
-* [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl)
+* [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl) - Antoni Niederliński
 
 
 ### Python
 
-* [Biblioteka Pythona](http://www.python.rk.edu.pl)
-* [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/)
+* [Biblioteka Pythona](http://www.python.rk.edu.pl) - Piotr Maliński
+* [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/) - Piotr Maliński
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 

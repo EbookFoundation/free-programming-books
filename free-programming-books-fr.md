@@ -126,6 +126,7 @@
 
 ### Java
 
+* [Développons en Java](http://www.jmdoudoux.fr/accueil_java.htm#dej) - Jean-Michel DOUDOUX (3400 pages!)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Play.Rules!](http://3monkeys.github.io/play.rules/)
 
@@ -197,6 +198,11 @@
 
 * [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
 * [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
+
+
+### OCaml
+
+* [Apprendre à programmer avec OCaml](http://programmer-avec-ocaml.lri.fr)
 
 
 ### Perl

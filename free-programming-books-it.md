@@ -22,6 +22,7 @@
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
+* [UML](#uml)
 * [Visual Basic](#visual-basic)
 
 
@@ -29,6 +30,7 @@
 
 #### Metodologie di sviluppo del software
 
+* [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia e A. Schaerf (PDF)
 * [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
 * [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
 
@@ -43,6 +45,7 @@
 
 ### Android
 
+* [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
 * [Guida programmazione Android 4.2](http://www.sprik.it/download/guida-programmazione-android-4-2/)
 
 
@@ -91,6 +94,7 @@
 ### Java
 
 * [Guida a Java 8](http://twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
+* [Guida Java](http://www.html.it/guide/guida-java/?cref=development) (HTML)
 * [Introduzione a Java](http://www.ateneonline.it/hyperbook/j_book/java2.htm)
 * [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
@@ -129,6 +133,7 @@
 ### PHP
 
 * [Guida al PHP di LordHack](http://www.lordhack.altervista.org/brdp.pdf) (PDF)
+* [Guida PHP](http://www.html.it/guide/guida-php-di-base/?cref=development) (HTML)
 * [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf) (PDF)
 
 
@@ -150,6 +155,12 @@
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf) (PDF)
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
 * [Ruby User Guide](http://ruby-it.org/rug_it.zip)
+
+
+### UML
+
+* [Appunti di UML](http://liuct.altervista.org/download/repository/ingsof/Appunti_UML.pdf) (PDF)
+* [Introduzione alla gestione del progetto software con UML](http://areaprofessional.com/documenti/D03_IntroGestioneProgettoSW.pdf) - G. Destri (PDF)
 
 
 ### Visual Basic

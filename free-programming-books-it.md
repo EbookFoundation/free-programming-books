@@ -91,7 +91,6 @@
 
 #### Relazionali
 
-
 ### Espressioni regolari
 
 * [Introduzione alle Espressioni regolari](http://www.marianospadaccini.it/repository/espressioni_regolari.pdf) - M. Spadaccini (PDF)

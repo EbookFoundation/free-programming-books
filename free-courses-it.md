@@ -15,6 +15,7 @@
 * [Pascal](#pascal)
 * [Programmazione](#programmazione)
 * [Python](#python)
+* [Ruby](#ruby)
 * [Sistemi Informativi](#sistemi-informativi)
 * [Sistemi Operativi](#sistemi-operativi)
   * [Linux](#linux)
@@ -91,6 +92,7 @@
 
 ### Pascal
 
+* [Corso di programmazione in Pascal](https://www.youtube.com/watch?v=DYy2IbteC2U&list=PLO4y9a8lTpK1DS45Wljy0l5rMtVNIesRJ) - R. Rizzi (Università di Verona)
 * [Videocorso Pascal (Turbo e FPC)](https://www.youtube.com/watch?v=C1ttJju1RKc&list=PLC98ABC853EAEFD7F) (F. Camuso)
 
 
@@ -108,6 +110,11 @@
 * [Tecniche di Programmazione (Java)](https://elearning.polito.it/main/videolezioni/index.php?cidReq=2017_03FYZPL_0214659&id_session=0&gidReq=0&origin=&lp=1) - F. Corno (Politecnico di Torino) 
 
 
+### Ruby
+
+* [Corso Ruby 2013](https://www.youtube.com/watch?v=IQFY6HaXkfM&list=PLA27EZBY5veNwghiX1buwSBziKV765N2t) (POuLpolimi Politecnico di Milano)
+
+
 ### Sistemi Informativi
 
 * [Sistemi Informativi Aziendali](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=233) - F. Corno (Politecnico di Torino)
@@ -118,6 +125,8 @@
 #### Linux
 
 * [Certificazione Linux LPI](https://www.youtube.com/playlist?list=PL4L8OWDC99_d46jXlR02dCWzTwNISywwU)
+* [Corsi GNU/Linux Avanzati 2017](https://www.youtube.com/watch?v=lRbkk_NT6nk&list=PLA27EZBY5veMZYKkqS2sQNPJSCGI1QniD) (POuLpolimi Politecnico di Milano)
+* [Corsi GNU/Linux Base 2017](https://www.youtube.com/watch?v=SsNiFtDRxRM&list=PLA27EZBY5veNNqkeuFwjJFWserz6QLzS_) (POuLpolimi Politecnico di Milano)
 
 
 ### Strumenti di sviluppo

@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 [View the English list](/free-programming-books.md)
 
 ## Intro
-This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker. 
+This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker.
 
 The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of the [most popular repositories on Github](https://octoverse.github.com/), with over 100,000 stars, over 4500 commits, over 950 contributors, and over 25,000 forks.
 
@@ -57,6 +57,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 + [English](/free-courses-en.md)
 + [German](/free-courses-de.md)
 + [Italian](/free-courses-it.md)
++ [Polish](/free-courses-pl.md)
 + [Russian](/free-courses-ru.md)
 + [Spanish](/free-courses-es.md)
 + [Vietnamese](/free-courses-vi.md)

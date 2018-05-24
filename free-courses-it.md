@@ -3,12 +3,16 @@
 * [Algoritmi e Strutture Dati](#algoritmi-e-struture-dati)
 * [Architettura degli Elaboratori](#architettura-degli-elaboratori)
 * [Assembly](#assembly)
+* [C](#c)
 * [C++](#c++)
+* [Delphi](#delphi)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
 * [Generale](#generale)
 * [Java](#Java)
+* [Javascript](#javascript)
 * [Networking](#networking)
+* [Pascal](#pascal)
 * [Programmazione](#programmazione)
 * [Python](#python)
 * [Sistemi Informativi](#sistemi-informativi)
@@ -37,10 +41,20 @@
 * [Assembler x86](https://www.youtube.com/playlist?list=PLUJjY3hQLJ3NHQ9315KVvgiZ3v2FLtcbs)
 
 
+### C
+
+* [Corso di programmazione in C](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2ugwPRLN_1oOrlzX9Zc9It) - R. Rizzi (Università di Verona)
+
+
 ### C++
 
 * [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) (F. Camuso)
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) (F. Camuso)
+
+
+### Delphi
+
+* [Videocorso Delphi/Lazarus](https://www.youtube.com/watch?v=JxE1nUqriV0&list=PLF75FB30719A09FA2) (F. Camuso)
 
 
 ### Embedded
@@ -57,6 +71,7 @@
 * [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - M. Mezzalama (Politecnico di Torino)
 * [Informatica I - Modelli dell'Informatica](https://www.youtube.com/playlist?list=PLAQopGWlIcyalkb2baN9mnotsdBm5Vbkc) - A. Marchetti Spaccamela (Università La Sapienza Università di Roma)
 * [Sistemi di Calcolo](https://www.youtube.com/playlist?list=PLAQopGWlIcybT12h7fjVvlGAeSqOKDnTA) - C. Demetrescu (Università La Sapienza di Roma)
+* [Teoria dell'informazione](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeGo5g4Esi7tm6kHPRivkvb) (F. Camuso)
 
 
 ### Java
@@ -64,9 +79,19 @@
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) (S. Zorba)
 
 
+### Javascript
+
+* [Corso Javascript (ES6)](https://www.youtube.com/watch?v=dDekOIgzxPA&list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) (F. Camuso)
+
+
 ### Networking
 
 * [Advanced Networking 2016](https://www.youtube.com/playlist?list=PLkbnRIR2azkIXO-ndOz7qBvVC38_wbOW8) (Hacklab Cosenza) 
+
+
+### Pascal
+
+* [Videocorso Pascal (Turbo e FPC)](https://www.youtube.com/watch?v=C1ttJju1RKc&list=PLC98ABC853EAEFD7F) (F. Camuso)
 
 
 ### Python

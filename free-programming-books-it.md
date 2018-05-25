@@ -97,6 +97,9 @@
 
 #### Relazionali
 
+* [Guida a MySQL](http://www.crescenziogallo.it/unifg/agraria/ISLA/SEI1/2016-2017/UD5/Guida%20MySql.pdf) - C. Gallo (PDF)
+
+
 #### SQL
 
 * [Guida linguaggio SQL](http://www.html.it/guide/guida-linguaggio-sql/?cref=system) (HTML)

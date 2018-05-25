@@ -6,6 +6,7 @@
 * [MySQL](#mysql)
 * [PHP](#php)
 
+
 ### C++
 
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB) - Mirosław Zelent, Damian Stelmach

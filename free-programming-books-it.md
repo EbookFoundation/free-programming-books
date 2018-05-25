@@ -12,6 +12,7 @@
 * [Database](#database)
   * [NoSQL](#nosql)
   * [Relazionali](#relazionali)
+  * [SQL](#sql)
 * [Espressioni regolari](#espressioni-regolari)
 * [Git](#git)
 * [HTML](#html)
@@ -79,17 +80,30 @@
 
 ### Database
 
+* [Basi di Dati](http://dbdmg.polito.it/wordpress/teaching/basi-di-dati/) - Apiletti e Cagliero (Politecnico di Torino)
 * [La progettazione dei database relazionali](http://www.crescenziogallo.it/unifg/medicina/TSRM/master_bioimmagini/db/Teoria_pratica_progettazione_db_relazionali.pdf) - C. Gallo (PDF)
 * [Manuale pratico di disegno e progettazione dei database](http://www.brunasti.eu/unimib/bdsi/manuale-pratico-progettazione-ER-100914.pdf) - P. Brunasti (PDF)
 * [Progettare database](https://www.istitutomichelangelo.info/images/sampledata/FilesCaricati/bmorigi/classe%20V/Esercitazioni_schema_concettuale/PROGETTAZIONE%20DATABASE.pdf) (PDF)
+* [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) (HTML)
 
 
 #### NoSQL
 
+* [Guida MongoDB](http://www.html.it/guide/guida-mongodb/?cref=system) (HTML)
+* [Guida OrientDB](http://www.html.it/guide/guida-orientdb/?cref=system) (HTML)
 * [Il piccolo libro di MongoDB](https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf) - Traduzione di N. Iarocci dall'originale di K. Seguin (PDF)
+* [Redis: la guida](http://www.html.it/guide/redis-la-guida/?cref=system) (HTML)
 
 
 #### Relazionali
+
+* [Guida a MySQL](http://www.crescenziogallo.it/unifg/agraria/ISLA/SEI1/2016-2017/UD5/Guida%20MySql.pdf) - C. Gallo (PDF)
+
+
+#### SQL
+
+* [Guida linguaggio SQL](http://www.html.it/guide/guida-linguaggio-sql/?cref=system) (HTML)
+
 
 ### Espressioni regolari
 

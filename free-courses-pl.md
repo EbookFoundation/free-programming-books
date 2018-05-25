@@ -1,5 +1,7 @@
 ### Index
 
+* [C](#c)
+* [C#](#c-sharp)
 * [C++](#c-1)
 * [CSS](#css)
 * [JavaScript](#javascript)
@@ -7,8 +9,19 @@
 * [PHP](#php)
 
 
+### C
+
+* [Kurs Programowania w C](https://www.youtube.com/playlist?list=PLgeFsJ0yZyikV_e8YDl5rixXu-H6wFIIZ)
+
+
+### C Sharp
+
+* [Podstawy programowania w języku C#](https://www.youtube.com/playlist?list=PLk5dbESAmUZh1cLITav0ZmDEqRujsPa93)
+
+
 ### C++
 
+* [Kurs C++](https://www.youtube.com/playlist?list=PLE84826ABF088F7E8)
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB) - Mirosław Zelent, Damian Stelmach
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) - Mirosław Zelent, Damian Stelmach
 

@@ -84,7 +84,6 @@
 
 * [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
 * [Kurs CSS](http://cyberpunk.e-spin.pl/86,36,5/KOD/KURSY-PROGRAMOWANIA/Kurs-CSS)
-* [Kurs CSS. Wygląd strony www - kaskadowe arkusze stylów - Pasja informatyki (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv) - Mirosław Zelent, Damian Stelmach
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/) - Damian Wielgosik
 
 
@@ -117,7 +116,6 @@
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
 * [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/) - Marijn Haverbeke, Łukasz Piwko
-* [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC) - Mirosław Zelent, Damian Stelmach
 * [Kurs jQuery](http://cyberpunk.e-spin.pl/86,39,5/KOD/KURSY-PROGRAMOWANIA/Kurs-jQuery)
 * [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html) - Sławomir Kokłowski
 
@@ -132,7 +130,6 @@
 ### MySQL
 
 * [Kurs MySQL](http://cyberpunk.e-spin.pl/86,38,5/KOD/KURSY-PROGRAMOWANIA/Kurs-MySQL)
-* [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ) - Mirosław Zelent, Damian Stelmach
 
 
 ### Perl
@@ -146,7 +143,6 @@
 
 * [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
 * [Kurs PHP OOP](http://cyberpunk.e-spin.pl/86,37,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PHP-OOP)
-* [Kurs PHP. Programowanie backendowe](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh) - Mirosław Zelent, Damian Stelmach
 * [PHP](https://pl.wikibooks.org/wiki/PHP)
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 

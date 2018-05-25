@@ -1,9 +1,33 @@
 ### Index
 
 * [C++](#c-1)
+* [CSS](#css)
+* [JavaScript](#javascript)
+* [MySQL](#mysql)
+* [PHP](#php)
 
 
 ### C++
 
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB) - Mirosław Zelent, Damian Stelmach
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) - Mirosław Zelent, Damian Stelmach
+
+
+### CSS
+
+* [Kurs CSS. Wygląd strony www - kaskadowe arkusze stylów - Pasja informatyki (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv) - Mirosław Zelent, Damian Stelmach
+
+
+### JavaScript
+
+* [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC) - Mirosław Zelent, Damian Stelmach
+
+
+### MySQL
+
+* [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ) - Mirosław Zelent, Damian Stelmach
+
+
+### PHP
+
+* [Kurs PHP. Programowanie backendowe](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh) - Mirosław Zelent, Damian Stelmach

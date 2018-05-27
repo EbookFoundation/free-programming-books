@@ -3,6 +3,7 @@
 * [0 - Agnostico](#0---agnostico)
   * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
   * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
+  * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
@@ -32,6 +33,14 @@
 
 ### 0 - Agnostico
 
+#### Algoritmi e Strutture Dati
+
+* [Algoritmi e Strutture Dati - Astrazione, Progetto e Realizzazione](http://www.astromoodle.altervista.org/download/libro-asd.pdf) - M. Vento e P. Foggia (PDF)
+* [Appunti di Analisi e Progettazione di Algoritmi](https://www.sci.unich.it/~acciaro/corsoASD.pdf) - V. Acciaro T. Roselli e V. Marengo (PDF)
+* [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf) (PDF)
+* [Progetto e Analisi di Algoritmi](http://bertoni.di.unimi.it/Algoritmi_e_Strutture_Dati.pdf) - A. Bertoni e M. Goldwurm (PDF)
+
+
 #### Metodologie di sviluppo del software
 
 * [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia e A. Schaerf (PDF)
@@ -39,12 +48,13 @@
 * [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
 
 
-#### Algoritmi e Strutture Dati
+#### Storia dell'informatica
 
-* [Algoritmi e Strutture Dati - Astrazione, Progetto e Realizzazione](http://www.astromoodle.altervista.org/download/libro-asd.pdf) - M. Vento e P. Foggia (PDF)
-* [Appunti di Analisi e Progettazione di Algoritmi](https://www.sci.unich.it/~acciaro/corsoASD.pdf) - V. Acciaro T. Roselli e V. Marengo (PDF)
-* [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf) (PDF)
-* [Progetto e Analisi di Algoritmi](http://bertoni.di.unimi.it/Algoritmi_e_Strutture_Dati.pdf) - A. Bertoni e M. Goldwurm (PDF)
+* [Breve storia dell'informatica](http://apav.it/informatica_file1.pdf) - F. Eugeni (PDF)
+* [Corso di storia dell'informatica](http://nid.dimi.uniud.it/computing_history/computing_history.html) - C. Bonfanti e P. Giangrandi (PDF)
+* [La storia dell'informatica in Mondo Digitale](http://www.aicanet.it/storia-informatica/storia-dell-informatica-in-mondo-digitale) (PDF)
+* [STI: il corso di storia dell'Informatica](https://www.progettohmr.it/Corso/) - G.A. Cignoni (PDF)
+* [Storia dell'informatica](http://www.dsi.unive.it/~pelillo/Didattica/Storia%20dell'informatica/) - M. Pelillo (PDF)
 
 
 ### Android

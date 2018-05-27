@@ -82,8 +82,8 @@
 
 ### Javascript
 
+* [Corso di Javascript (base)](https://www.youtube.com/watch?v=JUBhi8O3wn0&list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) [(Lacerba.io)](https://lacerba.io)
 * [Corso Javascript (ES6)](https://www.youtube.com/watch?v=dDekOIgzxPA&list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) (F. Camuso)
-* [Corso di Javascript base](https://www.youtube.com/watch?v=JUBhi8O3wn0&list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) [Lacerba.io](https://lacerba.io/)
 
 
 ### Networking

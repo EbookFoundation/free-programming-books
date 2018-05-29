@@ -133,7 +133,7 @@
 
 ### JavaScript
 
-* [Corso completo Javascript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) (PDF)
+* [Corso completo Javascript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) (_Year of pubblication of the PDF_ 2005)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
 

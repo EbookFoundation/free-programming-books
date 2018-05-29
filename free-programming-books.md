@@ -89,7 +89,7 @@
   * [Node.js](#nodejs)
   * [Om](#om)
   * [React](#react)
-  * [React Native](#reactnative)
+  * [React Native](#react-native)
   * [Redux](#redux)
 * [Jenkins](#jenkins)
 * [Julia](#julia)
@@ -149,7 +149,6 @@
 * [OpenMP](#openmp)
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
-* [PC-BSD](#pc-bsd)
 * [Perl](#perl)
 * [Perl 6 / Rakudo](#perl-6--rakudo)
 * [PHP](#php)
@@ -187,7 +186,6 @@
 * [Sed](#sed)
 * [Self](#self)
 * [Smalltalk](#smalltalk)
-* [Solidity](#solidity)
 * [Spark](#spark)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
@@ -812,8 +810,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Professional Assembly Language](https://web.archive.org/web/20170329045538/http://blog.hit.edu.cn:80/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
 * [Programming from the Ground Up](http://mirror.unicorncloud.org/savannah-nongnu//pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
-* [Software optimization resources](http://www.agner.org/optimize/) A. Fog
+* [Software optimization resources](http://www.agner.org/optimize/) - A. Fog
 * [Wizard Code](http://vendu.twodots.nl/wizardcode.html)
+* [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) - Ed Jorgensen (PDF)
 * [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)
 
 
@@ -970,6 +969,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html) - R. Mark Volkmann
 * [Clojure by Example](https://kimh.github.io/clojure-by-example/) - Hirokuni Kim
 * [Clojure Cheat Sheet](http://clojure.org/cheatsheet)
+* [Clojure community-driven documentation](http://clojure-doc.org)
 * [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com)
@@ -1873,7 +1873,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Perl 6 Introduction](http://perl6intro.com)
 * [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)
-* [Think Perl 6](http://greenteapress.com/thinkperl6/thinkperl6.pdf) - Allen Downey (PDF)
+* [Think Perl 6](http://greenteapress.com/thinkperl6/thinkperl6.pdf) - Laurent Rosenfeld, with Allen B. Downey (PDF)
 * [Using Perl 6](https://github.com/perl6/book/) (:construction: *in process*)
 
 
@@ -2033,6 +2033,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Learning to Program](http://www.alan-g.me.uk)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
+* [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)
 * [Modeling Creativity: Case Studies in Python](http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf) - Tom D. De Smedt (PDF)
 * [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) (3.3)
@@ -2046,6 +2047,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
 * [Python 2.7 quick reference](http://infohost.nmt.edu/tcc/help/pubs/python/web/) - New Mexico Tech (2.7)
 * [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
+* [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Python for Econometrics](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf) - Kevin Sheppard (PDF) (2.7.5)

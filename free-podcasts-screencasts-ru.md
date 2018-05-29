@@ -1,7 +1,6 @@
 ### Index
 
 * [Android](#android)
-* [Clojure](#clojure)
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
@@ -19,11 +18,6 @@
 ### Android
 
 * [Android Dev](http://apptractor.ru/AndroidDev) (Podcast)
-
-
-### Clojure
-
-* [Курс Clojure](https://clojurecourse.by) (Screencast)
 
 
 ### Golang

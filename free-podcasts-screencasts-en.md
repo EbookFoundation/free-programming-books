@@ -4,6 +4,7 @@
 * [C#](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
+* [Common Lisp](#common-lisp)
 * [CSS](#css)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
@@ -45,9 +46,14 @@
 * [CppCast](http://cppcast.com) (podcast)
 
 
-## Clojure
+### Clojure
 
 * [Parens of the Dead](http://www.parens-of-the-dead.com) (screencast)
+
+
+### Common Lisp
+
+* [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) (screencast)
 
 
 ### CSS
@@ -69,6 +75,7 @@
 ### Elixir
 
 * [Elixir Sips](http://elixirsips.com) - Some free (screencast)
+* [ElixirCasts](https://elixircasts.io) (screencast)
 * [ElixirConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT) (screencast)
 * [ElixirConf 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) (screencast)
 * [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt) (screencast)

@@ -87,5 +87,5 @@ Free Podcasts and Screencasts:
 + [Free Programming Playgrounds](/free-programming-playgrounds.md)
 
 ## Licence
-Each file included in this repository is licenced under the Apache License 2.0.
-[Visit the official website of the licence](http://www.apache.org/licenses/) to know more about it.
+Each file included in this repository is licenced under the CC BY License.
+[Visit the official website of the licence](https://creativecommons.org/licenses/by/4.0) to know more about it.

@@ -137,7 +137,6 @@
 * [Esercizi del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_java9-esercizi.pdf) - C. De Sio Cesari (PDF)
 * [Guida a Java 8](http://twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
 * [Guida Java](http://www.html.it/guide/guida-java/?cref=development) (HTML)
-* [Introduzione a Java](http://www.ateneonline.it/hyperbook/j_book/java2.htm)
 * [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 
@@ -170,12 +169,12 @@
 
 ### Perl
 
-* [Perl e Internet](http://www.ateneonline.it/hyperbook/p_book/perl2.htm)
+* [Corso di Perl](http://www.webprog.net/public/corso_perl.pdf) - M. Beltrame (PDF)
+* [Introduzione al Perl](http://www.aquilante.net/perl/perl.pdf) - M. Liverani - _Anno di pubblicazione_ 1996 (PDF)
 
 
 ### PHP
 
-* [Guida al PHP di LordHack](http://www.lordhack.altervista.org/brdp.pdf) (PDF)
 * [Guida PHP](http://www.html.it/guide/guida-php-di-base/?cref=development) (HTML)
 * [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf) (PDF)
 

@@ -169,7 +169,7 @@
 ### Perl
 
 * [Corso di Perl](http://www.webprog.net/public/corso_perl.pdf) - M. Beltrame (PDF)
-* [Introduzione al Perl](http://www.aquilante.net/perl/perl.pdf) - M. liverani (PDF)
+* [Introduzione al Perl](http://www.aquilante.net/perl/perl.pdf) - M. Liverani - _Anno di pubblicazione_ 1996 (PDF)
 
 
 ### PHP

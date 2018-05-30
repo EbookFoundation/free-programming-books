@@ -168,6 +168,10 @@
 
 ### Perl
 
+* [Corso di Perl](http://www.webprog.net/public/corso_perl.pdf) - M. Beltrame (PDF)
+* [Introduzione al Perl](http://www.aquilante.net/perl/perl.pdf) - M. liverani (PDF)
+
+
 ### PHP
 
 * [Guida PHP](http://www.html.it/guide/guida-php-di-base/?cref=development) (HTML)

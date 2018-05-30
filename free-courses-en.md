@@ -239,6 +239,7 @@
 
 * [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 
 ### MATLAB

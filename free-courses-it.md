@@ -22,6 +22,7 @@
 * [Strumenti di sviluppo](#strumenti-di-sviluppo)
   * [Git](#git)
   * [Maven](#maven)
+* [Web](#web)
 * [Workshop](#workshop)  
 
 
@@ -140,6 +141,11 @@
 #### Maven
 
 * [Tutorial su Maven](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-f71M9YyNSk4RpLE5jobe7y) (S. Zorba)
+
+
+### Web
+
+* [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - F. Corno e S. Di Carlo (Politecnico di Torino)
 
 
 ### Workshop

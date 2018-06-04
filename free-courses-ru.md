@@ -1,5 +1,6 @@
 ### Index
 
+* [Clojure](#clojure)
 * [Java](#java)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
@@ -11,6 +12,11 @@
 BEG - новичок. Основы.  
 INT - средний. Расширенные возможности.  
 ADV - продвинутый. Тонкости.
+
+
+### Clojure
+
+* [Курс Clojure](https://clojurecourse.by) (BEG)
 
 
 ### Java

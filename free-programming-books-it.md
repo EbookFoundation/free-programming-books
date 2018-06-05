@@ -3,12 +3,14 @@
 * [0 - Agnostico](#0---agnostico)
   * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
   * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
+  * [Sistemi](#sistemi)
   * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
 * [C#](#c-sharp)
+* [C++](#c-plus-plus)
 * [CSS](#css)
 * [Database](#database)
   * [NoSQL](#nosql)
@@ -48,6 +50,11 @@
 * [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
 
 
+#### Sistemi
+
+* [Programmazione di Sistema in Linguaggio C - Esempi ed esercizi](https://www.disi.unige.it/person/DelzannoG/BIOMED/Programmazione-C/dispense_avanzate_C.pdf) - V. Gervasi, S. Pelagatti, S. Ruggieri, F. Scozzari, A. Sperduti (PDF)
+
+
 #### Storia dell'informatica
 
 * [Breve storia dell'informatica](http://apav.it/informatica_file1.pdf) - F. Eugeni (PDF)
@@ -75,12 +82,21 @@
 
 ### C
 
+* [Il linguaggio C - Guida pratica alla programmazione](https://eineki.files.wordpress.com/2010/02/guidac.pdf) - (PDF)
+* [Linguaggio C - ANSI C](http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf) - B.W. Kernighan e D.M. Ritchie (PDF)
+* [Linguaggio C - Guida alla programmazione](http://www.cbmc.it/~marchettil/Tandem2016/Bellini.pdf) - A. Bellini e A. Guidi _Anno di pubblicazione_ 1999 (PDF)
 * [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
 
 
 ### C Sharp
 
 * [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/)
+
+
+### C Plus Plus
+
+* [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) - (PDF)
+* [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) - (PDF)
 
 
 ### CSS

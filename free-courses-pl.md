@@ -1,5 +1,7 @@
 ### Index
 
+* [Assembly Language](#assembly-language)
+* [Brainfuck](#brainfuck)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -7,6 +9,16 @@
 * [JavaScript](#javascript)
 * [MySQL](#mysql)
 * [PHP](#php)
+
+
+### Assembly Language
+
+* [Gynvael's Asm (PL)](https://www.youtube.com/playlist?list=PL7CA8FE35B665D4DD) - Gynvael Coldwind
+
+
+### Brainfuck
+
+* [Programowanie w Brainfucku](https://www.youtube.com/watch?v=dzFgY4JsZe8)
 
 
 ### C
@@ -38,6 +50,7 @@
 
 ### MySQL
 
+* [Kurs MySQL](https://www.youtube.com/playlist?list=PL748D0ACBEC371708)
 * [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ) - Mirosław Zelent, Damian Stelmach
 
 

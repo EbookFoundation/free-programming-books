@@ -9,8 +9,8 @@
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
-* [C++](#c-plus-plus)
 * [C#](#c-sharp)
+* [C++](#c-plus-plus)
 * [CSS](#css)
 * [Database](#database)
   * [NoSQL](#nosql)
@@ -88,15 +88,15 @@
 * [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
 
 
+### C Sharp
+
+* [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/)
+
+
 ### C Plus Plus
 
 * [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) - (PDF)
 * [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) - (PDF)
-
-
-### C Sharp
-
-* [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/)
 
 
 ### CSS

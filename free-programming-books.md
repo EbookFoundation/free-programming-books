@@ -702,7 +702,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 * [Software Architecture Patterns](http://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
-* [Test Driven Development, Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Daniel Żołopa
+* [Test Driven Development, Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 * [Web API Design](http://apigee.com/about/blog/technology/announcement-free-ebook-web-api-design)
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
@@ -1604,7 +1604,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
 * [Julia language: a concise tutorial](https://www.gitbook.com/book/sylvaticus/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
 * [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
-* [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogomił Kamiński (PDF)
+* [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
 
 
 ### LaTeX / TeX

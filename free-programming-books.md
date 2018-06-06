@@ -616,7 +616,7 @@
 Kerridge (PDF) (email address *requested*, not required)
 * [The OpenCL Programming Book](https://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/)
 * [Using Concurrency and Parallelism Effectively – I](http://bookboon.com/en/using-concurrency-and-parallelism-effectively-i-ebook) - Jon Kerridge (PDF) (email address *requested*, not required)
-* [Using Concurrency and Parallelism Effectively – II](http://bookboon.com/en/using-concurrency-and-parallelism-effectively-ii-ebook) - Jon 
+* [Using Concurrency and Parallelism Effectively – II](http://bookboon.com/en/using-concurrency-and-parallelism-effectively-ii-ebook) - Jon
 
 
 #### Partial Evaluation
@@ -860,7 +860,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook (2002)](http://www.freeos.com/guides/lsst/) - Vivek G. Gite (HTML)
 * [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page) - Vivek Gite (HTML)
-* [Slackbook (2005)](http://slackbook.org) - Alan Hicks, Chris Lumens, David Cantrell and Logan Johnson (HTML, DocBook, Postscript, PDF) 
+* [Slackbook (2005)](http://slackbook.org) - Alan Hicks, Chris Lumens, David Cantrell and Logan Johnson (HTML, DocBook, Postscript, PDF)
 * [The Bash Academy](http://guide.bash.academy) - Maarten Billemont (HTML)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts, Jr. (PDF)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr. (HTML)
@@ -1128,7 +1128,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Firefox OS
 
-* [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia 
+* [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia
 
 
 ### Force.com
@@ -1632,7 +1632,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Linux
 
 * [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
-* [Advanced Linux Programming](http://advancedlinuxprogramming.com)
+* [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/) (PDF)
 * [Automated Linux From Scratch](http://www.linuxfromscratch.org/alfs/download.html)
 * [Getting Started with Ubuntu](http://ubuntu-manual.org)
 * [GNU Autoconf, Automake and Libtool](http://www.sourceware.org/autobook/download.html)

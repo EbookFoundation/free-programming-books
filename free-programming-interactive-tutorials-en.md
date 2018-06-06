@@ -24,7 +24,6 @@
 * [Ocaml](#ocaml)
 * [PHP](#php)
 * [Python](#python)
-* [R](#r)
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [SQL](#sql)
@@ -184,11 +183,6 @@
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
-
-
-### R
-
-* [Try R](http://tryr.codeschool.com)
 
 
 ### Ruby

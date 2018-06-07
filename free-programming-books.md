@@ -94,7 +94,7 @@
 * [Jenkins](#jenkins)
 * [Julia](#julia)
 * [Language Agnostic](#language-agnostic)
-  * [Algorithms & Datastructures](#algorithms--data-structures)
+  * [Algorithms & Data Structures](#algorithms--data-structures)
   * [Cellular Automata](#cellular-automata)
   * [Cloud Computing](#cloud-computing)
   * [Competitive Programming](#competitive-programming)

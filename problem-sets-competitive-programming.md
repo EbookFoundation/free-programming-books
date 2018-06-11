@@ -25,6 +25,7 @@
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
+* [LeetCode](https://leetcode.com)
 * [Microcorruption](https://microcorruption.com/login)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)

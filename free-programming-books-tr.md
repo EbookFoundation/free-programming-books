@@ -15,7 +15,7 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Matlab](#matlab)
-* [.NET Core](#netcore)
+* [.NET Framework](#net-framework)
 * [PHP](#php)
 * [Python](#python)
   * [Django](#django)
@@ -105,8 +105,10 @@
 
 * [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)
 
-### .NET CORE
+
+### .NET Framework
 * [ASP.NET Core El Kitabı](https://sahin.gitbook.io/asp-net-core-el-kitab)
+
 
 ### PHP
 

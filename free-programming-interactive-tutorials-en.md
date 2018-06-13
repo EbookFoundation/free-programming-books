@@ -16,6 +16,7 @@
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
 * [Language Agnostic](#language-agnostic)
+  * [Operating Systems](#operating-systems)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -138,6 +139,11 @@
 * [Codility](https://codility.com/programmers/)
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+
+
+#### Operating systems
+
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
 
 
 ### Lisp

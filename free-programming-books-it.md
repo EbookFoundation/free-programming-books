@@ -3,6 +3,7 @@
 * [0 - Agnostico](#0---agnostico)
   * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
   * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
+  * [Open source](#open-source)
   * [Sistemi](#sistemi)
   * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
@@ -48,6 +49,11 @@
 * [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia e A. Schaerf (PDF)
 * [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
 * [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
+
+
+#### Open source
+
+* [Open Source - Analisi di un movimento](http://www.apogeonline.com/2002/libri/88-503-1065-X/ebook/pdf/OpenSource.pdf) - N. Bassi (PDF)
 
 
 #### Sistemi

@@ -45,7 +45,9 @@
 
 ### JavaScript
 
+* [Kurs JavaScript](https://www.youtube.com/playlist?list=PLGjoxB-1BV8IKoG_fb934nZXSVi_v-4yg) - Jakub Jurkian
 * [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC) - Mirosław Zelent, Damian Stelmach
+* [Programowanie w JavaScript od podstaw w 1 miesiąc](https://www.youtube.com/playlist?list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS)
 
 
 ### MySQL

@@ -16,6 +16,7 @@
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
 * [Language Agnostic](#language-agnostic)
+  * [Operating Systems](#operating-systems)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -24,7 +25,6 @@
 * [Ocaml](#ocaml)
 * [PHP](#php)
 * [Python](#python)
-* [R](#r)
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [SQL](#sql)
@@ -138,6 +138,12 @@
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
+* [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+
+
+#### Operating systems
+
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
 
 
 ### Lisp
@@ -184,11 +190,6 @@
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
-
-
-### R
-
-* [Try R](http://tryr.codeschool.com)
 
 
 ### Ruby

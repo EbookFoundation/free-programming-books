@@ -74,6 +74,6 @@
 ### Python
 
 * [Kurs Python](https://www.youtube.com/playlist?list=PL3yDCQ6GKeEyBOF0gZyBvihDv6n0GNsdm)
-* [Kurs Python 3](https://www.youtube.com/playlist?list=PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH)
 * [Kurs Python - Darmowy Po Polsku](https://www.youtube.com/playlist?list=PL_dDQ_G9rdI6dQsDkwqSQyAeXY3uUrWzp)
+* [Kurs Python 3](https://www.youtube.com/playlist?list=PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH)
 * [Python 3 - Kurs wideo](https://www.youtube.com/playlist?list=PLbOPmSDkHx2pCboufcEKkinpUuramshmr)

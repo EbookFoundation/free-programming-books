@@ -1,6 +1,8 @@
 ### Index
 
+* [Clojure](#clojure)
 * [Java](#java)
+* [PostgreSQL](#postgresql)
 * [Python](#python)
 * [React](#react)
 
@@ -12,6 +14,11 @@ INT - средний. Расширенные возможности.
 ADV - продвинутый. Тонкости.
 
 
+### Clojure
+
+* [Курс Clojure](https://clojurecourse.by) (BEG)
+
+
 ### Java
 
 * [Java. Путь от ученика до эксперта.](http://www.job4j.ru/courses/java_way_from_student_to_master.html) - Пётр Арсентьев (INT)
@@ -19,11 +26,20 @@ ADV - продвинутый. Тонкости.
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
 
 
+### PostgreSQL
+
+* [DBA1. Администрирование PostgreSQL](https://postgrespro.ru/education/courses/DBA1) (BEG)
+* [DBA2. Администрирование PostgreSQL. Расширенный курс](https://postgrespro.ru/education/courses/DBA2) (INT)
+* [DEV1. Разработка серверной части приложений PostgreSQL](https://postgrespro.ru/education/courses/DEV1) (ADV)
+* [Hacking PostgreSQL](https://postgrespro.ru/education/courses/hacking) (INT)
+
+
 ### Python
 
-* [Python: основы и применение](https://stepik.org/course/512/) - Stepik (INT).
-* [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG). Упор на практику, включено множество задач на написание кода.
-* [Программирование на Python](https://stepik.org/course/67/) - Stepik (BEG).
+* [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG) 
+* [Python: основы и применение](https://stepik.org/course/512) - Stepik (INT)
+* [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
+* [Программирование на Python](https://stepik.org/course/67) - Stepik (BEG)
 
 
 ### React

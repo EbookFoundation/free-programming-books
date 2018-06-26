@@ -4,6 +4,7 @@
 * [C#](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
+* [Common Lisp](#common-lisp)
 * [CSS](#css)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
@@ -12,10 +13,10 @@
 * [Git](#git)
 * [Golang](#golang)
 * [Gulp](#gulp)
+* [Haskell](#haskell)
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
   * [Ember.js](#emberjs)
-  * [Node.js](#nodejs)
   * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
@@ -29,7 +30,6 @@
 
 ### Android
 
-* [Android Basics Archives - mybringback](http://www.mybringback.com/series/android-basics/) (screencast)
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) (podcast)
 
@@ -46,9 +46,14 @@
 * [CppCast](http://cppcast.com) (podcast)
 
 
-## Clojure
+### Clojure
 
 * [Parens of the Dead](http://www.parens-of-the-dead.com) (screencast)
+
+
+### Common Lisp
+
+* [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) (screencast)
 
 
 ### CSS
@@ -70,6 +75,7 @@
 ### Elixir
 
 * [Elixir Sips](http://elixirsips.com) - Some free (screencast)
+* [ElixirCasts](https://elixircasts.io) (screencast)
 * [ElixirConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT) (screencast)
 * [ElixirConf 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) (screencast)
 * [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt) (screencast)
@@ -111,6 +117,11 @@
 * [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp) (screencast)
 
 
+### Haskell
+
+* [The Haskell Cast](http://www.haskellcast.com) (podcast)
+
+
 ### Javascript
 
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
@@ -141,11 +152,6 @@
 * [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
 
 
-#### Node.js
-
-* [Nodeup](http://nodeup.com) (podcast)
-
-
 ### Kotlin
 
 * [Kotlin Beginners Tutorials](https://www.youtube.com/playlist?list=PLpg00ti3ApRweIhdOI4VCFFStx4uXC__u) (screencast)
@@ -155,7 +161,6 @@
 ### Language Agnostic
 
 * [/dev/hell](http://devhell.info) (podcast)
-* [AppMasters](http://www.appmasters.co/podcast-home/) (podcast)
 * [Arrested DevOps](https://www.arresteddevops.com) (podcast)
 * [Beats, Rye & Types](http://beatsryetypes.com) (podcast)
 * [Between | Screens Podcast](https://soundcloud.com/between-screens) (podcast)
@@ -232,7 +237,6 @@
 * [Python Test Podcast](http://pythontesting.net/test-podcast) (podcast)
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) (screencast)
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm) (podcast)
-* [The Python Experience](http://python.madewithopinion.com) (podcast)
 * [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq) (screencast)
 * [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) (screencast)
 * [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d) (screencast)

@@ -1238,7 +1238,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Cloudera Impala](http://www.cloudera.com/content/www/en-us/resources/aboutcloudera/cloudera-impala-ebook.html) - John Russel
 * [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
-* [Hadoop Explained](https://www.packtpub.com/packt/free-ebook/hadoop-explained) - Aravind Shenoy, Packt. 
+* [Hadoop Explained](https://www.packtpub.com/packt/free-ebook/hadoop-explained) - Aravind Shenoy, Packt. (email address *requested*, not required)
 * [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner & Sujee Maniyam
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
 
@@ -1297,8 +1297,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [MaintainableCSS](http://maintainablecss.com)
 * [Pro HTML5 Programming]( http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
 * [Scalable and Modular Architecture for CSS](https://smacss.com) - Jonathan Snook
-* [Thinking in CSS](https://www.packtpub.com/packt/free-ebook/thinking-in-css) - Aravind Shenoy, Packt. 
-* [Thinking in HTML](https://www.packtpub.com/packt/free-ebook/thinking-in-html) - Aravind Shenoy
+* [Thinking in CSS](https://www.packtpub.com/packt/free-ebook/thinking-in-css) - Aravind Shenoy, Packt. (email address *requested*, not required)
+* [Thinking in HTML](https://www.packtpub.com/packt/free-ebook/thinking-in-html) - Aravind Shenoy, Packt. (email address *requested*, not required)
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 
@@ -1454,7 +1454,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The JavaScript Tutorial](http://javascript.info)
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655/index.html)
-* [Thinking in JavaScript](https://www.packtpub.com/packt/free-ebook/thinking-in-javascript) - Aravind Shenoy, Packt. 
+* [Thinking in JavaScript](https://www.packtpub.com/packt/free-ebook/thinking-in-javascript) - Aravind Shenoy, Packt. (email address *requested*, not required)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)

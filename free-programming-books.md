@@ -545,6 +545,7 @@
 * [openHPI](https://open.hpi.de)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
+* [NPTEL](https://onlinecourses.nptel.ac.in)
 
 
 #### Networking

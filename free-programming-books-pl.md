@@ -29,6 +29,7 @@
 * [Git](https://pl.wikibooks.org/wiki/Git)
 * [Interaktywna platforma do nauki programowania](http://apki.org)
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS)
+* [Poradnik początkującego programisty](http://www.eioba.pl/a/2eu1/poradnik-poczatkujacego-programisty)
 * [Pro Git](http://git-scm.com/book/pl/)
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
 * [SVN](https://pl.wikibooks.org/wiki/Subversion)

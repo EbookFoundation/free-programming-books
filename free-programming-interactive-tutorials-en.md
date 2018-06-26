@@ -84,7 +84,7 @@
 
 ### GLSL
 
-* [The Book of Shaders](https://thebookofshaders.com/)
+* [The Book of Shaders](https://thebookofshaders.com)
 
 
 ### Go

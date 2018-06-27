@@ -542,10 +542,11 @@
 * [edX](https://www.edx.org)
 * [FutureLearn](https://www.futurelearn.com)
 * [MIT OCW](http://ocw.mit.edu)
+* [NPTEL](https://onlinecourses.nptel.ac.in)
 * [openHPI](https://open.hpi.de)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
-* [NPTEL](https://onlinecourses.nptel.ac.in)
+
 
 
 #### Networking

@@ -75,6 +75,7 @@
 * [PHP dla początkujących - cały kurs](https://www.youtube.com/playlist?list=PL3pH4hKPTCS2XfwSI1VTRvP8xNtzY3gpi)
 * [Programowanie obiektowe w języku PHP5 (Szkolenie wideo)](https://www.youtube.com/playlist?list=PL_nu3rOfoPo4HIKGae-kSrJL-ebG7vyQ6)
 
+
 ### Python
 
 * [Kurs Python](https://www.youtube.com/playlist?list=PL3yDCQ6GKeEyBOF0gZyBvihDv6n0GNsdm)

@@ -1540,6 +1540,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
 
 
+#### GraphQL
+
+* [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
+
+
 #### jQuery
 
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
@@ -2495,7 +2500,6 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Web Services
 
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
-* [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
 
 
 ### Windows 8

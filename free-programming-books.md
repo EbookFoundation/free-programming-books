@@ -2495,6 +2495,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Web Services
 
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
+* [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
 
 
 ### Windows 8

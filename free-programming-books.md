@@ -1924,6 +1924,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [PHPUnit Manual](https://phpunit.de/manual/current/en/phpunit-book.pdf) - Sebastian Bergmann (PDF)
 * [Practical PHP Programming](http://www.hackingwithphp.com)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
+* [Programming PHP](web-algarve.com/books/MySQL%20&%20PHP/Programming%20PHP,%203rd%20Edition.pdf) (PDF)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
 * Symfony Framework
   * [The Symfony Book 2.x](https://symfony.com/pdf/Symfony_book_2.8.pdf) (PDF)

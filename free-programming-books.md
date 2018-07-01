@@ -52,6 +52,7 @@
 * [Go](#go)
 * [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
+* [GraphQL](#graphql)
 * [Groovy](#groovy)
   * [Gradle](#gradle)
   * [Grails](#grails)
@@ -265,6 +266,11 @@
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
 * [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
 * [The GLib/GTK+ Development Platform](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf) - Sébastien Wilmet (PDF)
+
+
+### GraphQL
+
+* [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
 
 
 ### Language Agnostic

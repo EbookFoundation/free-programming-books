@@ -209,6 +209,7 @@
 * [Toolsday](http://toolsday.io) (podcast)
 * [TTL Podcast](http://ttlpodcast.com) (podcast)
 * [Web Security Warriors](https://devchat.tv/web-security-warriors/) (podcast)
+* [The Cynical Developer: Weekly Technology and Software Developer Podcast](https://cynicaldeveloper.com/podcast) (podcast)
 
 
 ### PHP

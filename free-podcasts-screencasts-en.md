@@ -196,6 +196,7 @@
 * [The Cloudcast](http://www.thecloudcast.net) (podcast)
 * [The Cognicast](http://blog.cognitect.com/cognicast) (podcast)
 * [The Creative Coding Podcast](http://creativecodingpodcast.com) (podcast)
+* [The Cynical Developer: Weekly Technology and Software Developer Podcast](https://cynicaldeveloper.com/podcast) (podcast)
 * [The Debug Log](http://thedebuglog.com) (podcast)
 * [The Hanselminutes podcast](http://hanselminutes.com) (podcast)
 * [The Path to Performance](https://pathtoperf.com) (podcast)
@@ -209,7 +210,6 @@
 * [Toolsday](http://toolsday.io) (podcast)
 * [TTL Podcast](http://ttlpodcast.com) (podcast)
 * [Web Security Warriors](https://devchat.tv/web-security-warriors/) (podcast)
-* [The Cynical Developer: Weekly Technology and Software Developer Podcast](https://cynicaldeveloper.com/podcast) (podcast)
 
 
 ### PHP

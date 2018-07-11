@@ -1932,8 +1932,17 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
 * Symfony Framework
-  * [The Symfony Book 2.x](https://symfony.com/pdf/Symfony_book_2.8.pdf) (PDF)
-  * [The Symfony Book 3.x](http://symfony.com/doc/current/index.html)
+  * Symfony 2.8
+    * [The Symfony Book 2.8.x](https://symfony.com/pdf/Symfony_book_2.8.pdf) (PDF)
+  * Symfony 3.4
+    * [The Symfony Best practices 3.4.x](https://symfony.com/pdf/Symfony_best_practices_3.4.pdf) (PDF)
+    * [The Symfony Book 3.4.x](https://symfony.com/doc/3.4/index.html)
+    * [The Symfony Getting started 3.4.x](https://symfony.com/pdf/Symfony_getting_started_3.4.pdf) (PDF)    
+  * Symfony 4.1
+    * [The Symfony Best practices 4.1.x](https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF)
+    * [The Symfony Book 4.1.x](https://symfony.com/doc/4.1/index.html)
+    * [The Symfony Getting started 4.1.x](https://symfony.com/pdf/Symfony_getting_started_4.1.pdf) (PDF)
+    
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 * Zend Framework
   * [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)

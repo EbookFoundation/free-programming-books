@@ -747,7 +747,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Web Performance
 
 * [Book of Speed](http://www.bookofspeed.com) - Stoyan Stefanov
-* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) - Ilya Grigorik
+* [High Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
 * [Mature Optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf) - Carlos Bueno (PDF)
 
 

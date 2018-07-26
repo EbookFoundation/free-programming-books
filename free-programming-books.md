@@ -70,6 +70,7 @@
 * [Isabelle/HOL](#isabellehol)
 * [J](#j)
 * [Java](#java)
+  * [Codename One](#codename-one)
   * [JasperReports](#jasperreports)
   * [Spring](#spring)
   * [Spring Boot](#spring-boot)
@@ -1399,10 +1400,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Welcome to Java for Python Programmers](https://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
 
+
 #### Codename One
 
 * [Codename One Developer Guide](https://www.codenameone.com/files/developer-guide.pdf) (PDF)
-* [Create an Uber Clone in 7 Days](http://uber.cn1.co/) (PDF) - Shai Almog (first two chapters are free)
+* [Create an Uber Clone in 7 Days](http://uber.cn1.co) (PDF) - Shai Almog
 
 
 #### JasperReports

@@ -1404,7 +1404,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Codename One
 
 * [Codename One Developer Guide](https://www.codenameone.com/files/developer-guide.pdf) (PDF)
-* [Create an Uber Clone in 7 Days](http://uber.cn1.co) (PDF) - Shai Almog
+* [Create an Uber Clone in 7 Days](http://uber.cn1.co) - Shai Almog (PDF)
 
 
 #### JasperReports

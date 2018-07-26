@@ -1399,6 +1399,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Welcome to Java for Python Programmers](https://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
 
+#### Codename One
+
+* [Codename One Developer Guide](https://www.codenameone.com/files/developer-guide.pdf) (PDF)
+* [Creating an Uber Clone in 7 Days](http://uber.cn1.co/) (PDF) - first two chapters are free
+
 
 #### JasperReports
 

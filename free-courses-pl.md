@@ -1,6 +1,7 @@
 ### Index
 
 * [Assembly Language](#assembly-language)
+* [Bash](#bash)
 * [Brainfuck](#brainfuck)
 * [C](#c)
 * [C#](#c-sharp)
@@ -17,6 +18,12 @@
 ### Assembly Language
 
 * [Gynvael's Asm (PL)](https://www.youtube.com/playlist?list=PL7CA8FE35B665D4DD) - Gynvael Coldwind
+
+
+### Bash
+
+* [Bash - Skrypty powłoki](https://www.youtube.com/playlist?list=PLh6V3IQZSBSbls0j9DdkCpbbqQsBUzh4-) - Piotr Kośka
+* [Kurs BASH](https://www.youtube.com/playlist?list=PLHYqnLVqlfpyHMKNUkkdFQfueRcsssEj0)
 
 
 ### Brainfuck

@@ -2349,6 +2349,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Scratch
 
+* [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html)
 * [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
 
 

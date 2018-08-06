@@ -41,6 +41,7 @@
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
 * [Scala](#scala)
+* [Scratch](#scratch)
 * [SQL](#sql)
 * [SVG](#svg)
 
@@ -331,6 +332,11 @@
 
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
 * [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) *(:construction: En proceso)*
+
+
+### Scratch
+
+* [Informática Creativa](https://github.com/programamos/GuiaScratch) (PDF)
 
 
 ### SQL

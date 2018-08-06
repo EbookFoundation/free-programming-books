@@ -59,6 +59,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [Smalltalk](#smalltalk)
 * [SQL](#sql)
   * [PostgreSQL](#postgresql)
@@ -477,6 +478,11 @@
 
 * [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads)
 * [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads)
+
+
+### Scratch
+
+* [Креативное программирование](https://www.dropbox.com/s/qsthpk5r6gqmi6u/CreativeComputing_RUS_june2016.pdf?dl=0) (PDF)
 
 
 ### Smalltalk

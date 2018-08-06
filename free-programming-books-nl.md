@@ -11,4 +11,4 @@
 
 ### Scratch
 
-* [Creatief Computergebruik Handleiding](http://www.digi-lab.org/scratch/CreatiefComputingHandleidingNL.pdf) [Creatief Computeren Werkboek](http://www.digi-lab.org/scratch/CreatiefComputingWerkboek.pdf)
+* [Creatief Computergebruik](http://scratched.gse.harvard.edu/resources/creatief-computergebruik)

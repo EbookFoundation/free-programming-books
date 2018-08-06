@@ -29,4 +29,4 @@
 
 ### Scratch
 
-* [Informatica Creativa - Manualul Profesorului](http://digitaliada.ro/Informatica-Creativa-Harvard-Graduate-School-of-Education-a1545736596708594) [Informatica Creativa - Caietul Cursantului](http://digitaliada.ro/materiale-concurs/documente/194-Caietul%20Cursantului_Informatica%20Creativa.pdf)
+* [Informatica Creativa](http://scratched.gse.harvard.edu/resources/informatica-creativa-0)

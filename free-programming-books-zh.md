@@ -665,7 +665,7 @@
 
 ### Scratch
 
-* [创意计算课程指南](http://cccgchinese.strikingly.com/)
+* [创意计算课程指南](http://cccgchinese.strikingly.com)
 
 
 ### Shell

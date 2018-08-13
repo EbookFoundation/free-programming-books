@@ -225,7 +225,7 @@
 
 #### React
 
-* [React-Bits](https://github.com/vasanthk/react-bits)
+* [React-Bits](https://github.com/vasanthk/react-bits) ([vasanthk](https://github.com/vasanthk))
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 
 

@@ -225,6 +225,7 @@
 
 #### React
 
+* [React-Bits](https://github.com/vasanthk/react-bits)
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 
 

@@ -2,7 +2,6 @@
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
-* [AngularJS](#angularjs)
 * [Assembly](#assembly)
 * [Bash / Shell](#bash--shell)
 * [C](#c)
@@ -21,7 +20,11 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [JQuery](#jquery)
+  * [Angular.js](#angularjs)
+  * [jQuery](#jquery)
+  * [React](#react)
+  * [Redux](#redux)
+  * [Sails.js](#sailsjs)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Matlab](#matlab)
@@ -29,7 +32,7 @@
 * [Misc](#misc)
 * [.NET](#net)
 * [OCaml](#ocaml)
-* [Oracle PL/SQL](#oracle-plsql)
+* [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
 * [QB64](#QB64)
@@ -39,6 +42,7 @@
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
 * [Software Engineering](#software-engineering)
+* [SQL](#sql)
 * [Swift](#swift)
 * [Theory](#theory)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
@@ -49,7 +53,11 @@
 
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
-* [Introduction to Algorithms (SMA 5503)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005) - Charles Leiserson
+* [MIT's Design and Analysis of Algorithms (Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012) - Dana Moshkovitz, Bruce Tidor
+* [MIT's Design and Analysis of Algorithms (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015) - Erik Demaine, Srini Devadas, Nancy Lynch
+* [MIT's Introduction to Algorithms (SMA 5503) (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005) - Charles Leiserson, Erik Demaine
+* [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
+* [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 * [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
 
@@ -73,19 +81,15 @@
 * [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android#!/android)
 
 
-### AngularJS
-
-* [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
-* [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
-
-
 ### Bash / Shell
 
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
+* [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
 
 
 ### C
 
+* [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
 
 
@@ -97,6 +101,7 @@
 
 ### C++
 
+* [C++ Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM)
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [LearnCpp.com C++ Tutorial](http://www.learncpp.com)
@@ -119,7 +124,10 @@
 
 ### Data Science
 
+* [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
+* [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
+* [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 
 
@@ -133,6 +141,7 @@
 
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
+* [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Self-Paced Courses for Deep Learning ](https://developer.nvidia.com/deep-learning-courses)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
@@ -143,7 +152,6 @@
 
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
-* [Git and Gitlab Live Workshop](https://courses.platzi.com/courses/git-gitlab/)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 
 
@@ -169,7 +177,8 @@
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
-* [Code a personal splash page in 1 hour: A Hands-on Intro to HTML & CSS](http://www.thefirehoseproject.com/lessons/splash-page)
+* [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
+* [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
@@ -186,6 +195,7 @@
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
+* [Java for Mobile Devices - Introducing Codename One](https://codenameone.teachable.com/p/java-for-mobile-devices-introducing-codename-one)
 * [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
@@ -200,9 +210,32 @@
 * [learn:query](https://learnquery.infinum.co)
 
 
-#### JQuery
+#### Angular.js
+
+* [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
+* [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
+* [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
+* [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
+
+#### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
+
+
+#### React
+
+* [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
+
+
+#### Redux
+
+* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+
+
+### Sails.Js
+
+* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
 
 ### Lua
@@ -213,8 +246,11 @@
 
 ### Machine Learning
 
-* [Principles of Machine Learning By Microsoft](https://courses.edx.org/courses/course-v1:Microsoft+DAT203.2x+1T2018/course/)
-* [Stanford University Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
+* [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+* [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
+* [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
+* [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+
 
 
 ### MATLAB
@@ -231,21 +267,26 @@
 
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
+* [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) (F. Corno - L. De Russis - A. Monge Roffarello)
 * [Berkeley's CS  61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
 * [Berkeley's CS 162: Operating Systems and Systems Programming](https://www.youtube.com/watch?v=feAOZuID1HM)
 * [Berkeley's CS 169: Software Engineering](https://www.youtube.com/watch?v=fXokQpWsszU)
 * [Berkeley's CS 194: What is an Operating System?](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html)
 * [Bits: The Computer Science of Digital Information](http://www.extension.harvard.edu/open-learning-initiative/bits)
+* [Caltech's Learning From data](https://work.caltech.edu/telecourse.html)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
+* [Embedded Software Safety](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) (P. Koopman)
 * [FindLectures.com](https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals ](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
+* [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
 * [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 * [MIT's Computer Language Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/)
 * [MIT's Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [MIT's Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
+* [Robotics I](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) - (A. De Luca)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
@@ -262,14 +303,15 @@
 * [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about)
 
 
-### Oracle PL/SQL
+### Perl
 
-* [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession)
+* [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
 
 
 ### PHP
 
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
+* [PHP & MySQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b)
 
 
 ### Python
@@ -281,6 +323,7 @@
 * [Codesdope](https://www.codesdope.com/python-introduction)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
+* [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (Udacity)
 * [Learn Python](https://pythonspot.com)
 * [Learn Python - Free Interactive Python Tutorial](http://www.learnpython.org)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
@@ -290,6 +333,7 @@
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python Course](http://www.python-course.eu)
+* [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 
 
 ### QB64
@@ -313,11 +357,6 @@
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 
-### Sails.Js
-
-* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
-
-
 ### Scala
 
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
@@ -330,6 +369,11 @@
 * [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x#!)
 * [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!)
 * [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
+
+
+### SQL
+
+* [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 
 
 ### Swift

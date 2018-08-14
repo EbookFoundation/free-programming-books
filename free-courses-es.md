@@ -62,7 +62,6 @@
 * [Fundamentos de Computación (2010)](https://ocw.unican.es/course/view.php?id=194)
 * [Fundamentos de Comunicaciones Ópticas](https://www.edx.org/course/fundamentos-de-comunicaciones-opticas-upvalenciax-fco201x-1)
 * [Fundamentos de Informática (2008)](http://ocw.bib.upct.es/course/view.php?id=112)
-* [Fundamentos de Ingeniería del Software](http://ocw.um.es/ingenierias/fundamentos-de-ingenieria-del-software)
 * [Fundamentos Físicos de la Informática (2010)](http://ocw.uv.es/ingenieria-y-arquitectura/1-4/Course_listing)
 * [Informática - algoritmos y aritmética- (2012)](http://ocw.uv.es/ciencias/informatica-1/Course_listing)
 * [Ingieniería Electrónica y Automática - PLC (2014)](http://isa.uniovi.es/docencia/iea/)
@@ -71,11 +70,9 @@
 * [Lenguajes unificado de modelado: UML (2016)](https://campusvirtual.ull.es/ocw/course/view.php?id=132)
 * [Matlab y Octave para ingenieros y científicos](https://miriadax.net/web/matlab-y-octave-para-ingenieros-y-cientificos)
 * [Metodología y Tecnología de la Programación (2006)](http://ocw.uji.es/curso/5126)
-* [Metodología y Tecnología de la Programación (2008)](http://ocw.um.es/ingenierias/metodologia-y-tecnologia-de-la-programacion)
 * [Pensamiento Computacional en la Escuela](https://miriadax.net/web/pensamiento-computacional-en-la-escuela-2ed)
 * [Programación Estadística, Programación en R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r)
 * [Programación Multimedia (2013)](http://ocw.uv.es/ingenieria-y-arquitectura/programacionmultimedia/Course_listing)
-* [Sistemas de Ayuda a la Decisión (2008)](http://ocw.um.es/ingenierias/sistemas-de-ayuda-a-la-decision)
 * [Sistemas de Telecomunicación (2011)](http://ocw.bib.upct.es/course/view.php?id=99&topic=1)
 * [Sistemas Electrónicos para el Tratamiento de la Información (2011)](http://ocw.uv.es/ingenieria-y-arquitectura/1-4/Course_listing)
 * [Telemática (2011)](http://ocw.bib.upct.es/course/view.php?id=101)
@@ -85,7 +82,6 @@
  
 * [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
-* [Creación y Desarrollo de Redes Sociales](http://ocw.um.es/cc.-sociales/creacion-y-desarrollo-de-redes-sociales)
 * [Gestión de proyectos con metodologías ágiles y enfoques Lean](https://miriadax.net/web/gestion-de-proyectos-con-metodologias-agiles-y-enfoques-lean-3-edicion-)
 * [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23)
 * [Gestión Participativa](https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0)
@@ -129,7 +125,6 @@
 * [Introducción a Perl(2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=43)
 * [Introducción al desarrollo web - iDesWeb](https://miriadax.net/web/introduccion_desarrollo_web)
 * [Introducción al tratamiento de datos con R y Rstudio](https://miriadax.net/web/aprende-r-rstudio)
-* [Material de Prácticas de Sistemas Inteligentes (2015)](http://ocw.um.es/ingenierias/material-de-practicas-de-sistemas-inteligentes)
 * [Programación en C/C++ y Aplicaciones Matemáticas (2011)](http://ocw.um.es/ciencias/programacion-en-c-c-y-aplicaciones-matematicas)
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)
 * [Programación en lenguaje ADA (2010)](https://ocw.unican.es/course/view.php?id=185)
@@ -139,7 +134,6 @@
 * [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44)
 * [Programación orientada a objetos](https://www.edx.org/es/course/programacion-orientada-objetos-mexicox-upevipn02x)
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
-* [Tecnologías de la Programación (2009)](http://ocw.um.es/ingenierias/tecnologia-de-la-programacion)
 
 
 ### Programación Web & Móvil
@@ -157,7 +151,6 @@
 ### Redes
 
 * [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=32)
-* [Arquitectura de Redes(2012)](http://ocw.um.es/ingenierias/arquitectura-de-redes)
 * [Conmutación (2012)](http://ocw.bib.upct.es/course/view.php?id=129)
 * [Dimensionamiento y planificación de redes (2015)](https://ocw.unican.es/course/view.php?id=19)
 * [Diseño y operación de redes telemáticas (2015)](https://ocw.unican.es/course/view.php?id=22)
@@ -176,7 +169,6 @@
 
 * [Comunicaciones Espaciales (2010)](http://ocw.bib.upct.es/course/view.php?id=94)
 * [Diseña, fabrica y programa tu propio robot](https://www.edx.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x)
-* [Domótica (2009)](http://ocw.um.es/ingenierias/domotica)
 * [Inteligencia artificial: Clips (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=112)
 * [Inteligencia artificial: Prolog (2011)](https://campusvirtual.ull.es/ocw/course/view.php?id=104)
 * [Internet de las Cosas.Desarrollar soluciones en 'FIWARE'](https://miriadax.net/web/internet-de-las-cosas-como-desarrollar-soluciones-en-fiware)
@@ -206,7 +198,6 @@
 ### Sistemas de gestión de contenidos / CMS
 
 * [Aprende Wordpress de forma sencilla](https://miriadax.net/web/aprende-wordpress-de-forma-sencilla-2-edicion-)
-* [Gestión de contenidos web a través del CMS Drupal (2009)](http://ocw.um.es/transversales/gestion-de-contenidos-web-a-traves-del-cms-drupal)
 
 
 ### Técnico de Software & Hardware
@@ -219,7 +210,6 @@
 * [Sistemas de Información y ordenadores, Parte 2: Hardware](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-2x)
 * [Sistemas de Información y ordenadores, Parte 3: Desarrollo de software](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-3x)
 * [Sistemas de Información y ordenadores, Parte 4: Programación](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-4x)
-* [Sistemas Embebidos (2009)](http://ocw.um.es/ingenierias/sistemas-embebidos)
 * [Sistemas Multimedia (2009)](https://poliformat.upv.es/portal/tool/f682ea53-3e5c-411c-0097-a0a16d5fb6a9?panel=Main)
 * [Sistemas Operativos 'chmod - bash' (2014)](https://campusvirtual.ull.es/ocw/course/view.php?id=105)
 * [Sistemas Operativos (2016)](http://ocw.uji.es/curso/1514152)
@@ -240,7 +230,6 @@
 
 ### Web & Webmaster
 
-* [Accesibilidad TIC en compras públicas](https://iedra.uned.es/courses/UNED-ONCE/AccTIC/2017/about)
 * [Búsqueda y Gestión de la Información en la Web](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion-en-la-web-3-edicion-)
 * [Encontrando tesoros en la red](https://miriadax.net/web/encontrando-tesoros-en-la-red-4-edicion-)
 * [La Web Semántica](https://www.coursera.org/learn/web-semantica)

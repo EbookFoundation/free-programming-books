@@ -60,6 +60,7 @@
   * [Rust](#rust)
   * [Scala](#scala)
   * [Scheme](#scheme)
+  * [Scratch](#scratch)
   * [Shell](#shell)
   * [Swift](#swift)
   * [Vim](#vim)
@@ -182,7 +183,6 @@
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
 * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 * [FreeBSD 使用手册](http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/)
-* [FreeRADIUS新手入门](http://freeradius.akagi201.org)
 * [Linux Documentation (中文版)](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
 * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
@@ -413,6 +413,7 @@
 * [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
 * [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) (《 [The Little Go Book](https://github.com/karlseguin/the-little-go-book) 》中文版)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
+* [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go实战开发](https://github.com/astaxie/Go-in-Action)
@@ -482,7 +483,6 @@
 
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
 * AngularJS
-  * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
   * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
   * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
   * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
@@ -517,8 +517,6 @@
 * jQuery
   * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
   * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
-* Meteor
-  * [Discover Meteor](http://zh.discovermeteor.com)
 * Node.js
   * [express.js 中文文档](http://expressjs.jser.us)
   * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
@@ -535,15 +533,16 @@
   * [JavaScript全栈工程师培训材料](http://nodejs.ctolib.com/docs/sfile/jstraining/engineering.html)
 * React.js
   * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
+  * [React-Bits 中文文档](https://github.com/hateonion/react-bits-CN)
   * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
   * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
   * [React.js 中文文档](https://discountry.github.io/react/)
   * [React.js 入门教程](http://fraserxu.me/intro-to-react/)
 * Vue.js
   * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
-* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN) (深入JavaScript语言核心机制的系列图书)
 * Zepto.js
   * [Zepto.js 中文文档](http://css88.com/doc/zeptojs_api)
+* [你不知道的Javascript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN) (深入JavaScript语言核心机制的系列图书)
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com) 翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
@@ -585,7 +584,6 @@
 ### Perl
 
 * [Master Perl Today](https://github.com/fayland/chinese-perl-book)
-* [《Modern Perl》中文版](https://github.com/horus/modern_perl_book)
 * [Perl 5 教程](https://web.archive.org/web/20150326073235/http://net.pku.edu.cn/~yhf/tutorial/perl/perl.html)
 * [Perl 教程](http://www.yiibai.com/perl)
 
@@ -597,7 +595,6 @@
 * [Phalcon7中文文档](http://www.myleftstudio.com)
 * [PHP 之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP中文手册](http://php.net/manual/zh/)
-* [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [PHP标准规范中文版](https://psr.phphub.org)
 * [Symfony2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
 * [Yii2中文文档](http://www.yiichina.com/doc/guide/2.0)
@@ -606,7 +603,7 @@
 
 ### Python
 
-* [Django 1.8 中文文档](http://python.usyiyi.cn/documents/django_182/index.html)
+* [Django 1.11.6 中文文档](https://www.yiyibooks.cn/xx/Django_1.11.6/index.html)
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
 * [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) (作者：David Beazley, Brian K.Jones 翻译：熊能)
@@ -635,7 +632,6 @@
 ### reStructuredText
 
 * [reStructuredText 入门](http://www.pythondoc.com/sphinx/rest.html)
-* [reStructuredText 简明教程](http://jwch.sdut.edu.cn/book/rst.htm://web.archive.org/web/20170122080708/http://jwch.sdut.edu.cn/book/rst.html)
 
 
 ### Ruby
@@ -668,12 +664,17 @@
 * [Scheme 入门教程](http://deathking.github.io/yast-cn/) (《Yet Another Scheme Tutorial》中文版)
 
 
+### Scratch
+
+* [创意计算课程指南](http://cccgchinese.strikingly.com)
+
+
 ### Shell
 
 * [shell-book](http://me.52fhy.com/shell-book/)
 * [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-* [The Linux Command Line 中文版](http://billie66.github.io/TLCL/book/zh)
+* [The Linux Command Line 中文版](http://billie66.github.io/TLCL/book/)
 
 
 ### Swift

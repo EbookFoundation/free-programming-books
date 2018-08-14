@@ -5,11 +5,9 @@
   * [Algorithmique](#algorithmique)
   * [Logiciels libres](#logiciels-libres)
   * [Makefile](#makefile)
-  * [Méthodes de développment](#méthodes-de-développement)
   * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
   * [Théorie des langages](#théorie-des-langages)
 * [Ada](#ada)
-* [Arduino](#arduino)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
 * [C / C++](#c--c)
@@ -32,12 +30,14 @@
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
+* [Processing](#processing)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Sage](#sage)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [SPIP](#spip)
 * [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
@@ -75,26 +75,16 @@
 * [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf) (PDF)
 
 
-#### Méthodes de développement
-
-* [Scrum et XP depuis les tranchées](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf) - Henrik Kniberg (PDF)
-
-
 #### Pédagogie pour enfants et adolescents
 
 * [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
-* [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole) - Tim Bell, Ian H. Witten et Mike Fellows (traduit)
+* [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten et Mike Fellows (traduit)
 
 
 ### Ada
 
 * [Cours Ada](http://d.feneuille.free.fr/cours-ada-iut.zip) - Daniel Feneuille (Support d'un cours enseigné à l'IUT d'Aix-en-Provence) (ZIP)
 * [Cours Ada 95 pour le programmeur C++](http://d.feneuille.free.fr/c++%20to%20ada%201.0a.pdf) - Quentin Ochem (PDF)
-
-
-### Arduino
-
-* [Arduino : Premiers pas en informatique embarquée](http://eskimon.fr/ebook-tutoriel-arduino) - Eskimon et olyte
 
 
 ### Assembleur
@@ -138,6 +128,7 @@
 
 ### Java
 
+* [Développons en Java](http://www.jmdoudoux.fr/accueil_java.htm#dej) - Jean-Michel DOUDOUX (3400 pages!)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Play.Rules!](http://3monkeys.github.io/play.rules/)
 
@@ -183,11 +174,6 @@
 * [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf) - John D. Hobby (PDF)
 
 
-#### Pharo
-
-* [Pharo par l'Exemple](http://pharobyexample.org/fr/)
-
-
 #### PGF/TikZ
 
 * [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/) - Gérard Tisseau et Jacques Duma
@@ -216,6 +202,11 @@
 * [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
 
 
+### OCaml
+
+* [Apprendre à programmer avec OCaml](http://programmer-avec-ocaml.lri.fr)
+
+
 ### Perl
 
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html) - Sylvain Lhullier
@@ -227,6 +218,11 @@
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
 * [Initiation au PHP](http://framasoft.net/IMG/pdf/initiation_php.pdf) - David Ducrocq (PDF)
 * [Programmer en PHP](http://www.lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF)
+
+
+### Processing
+
+* [Processing](https://fr.flossmanuals.net/processing/) - Œuvre collective (HTML)
 
 
 ### Python
@@ -265,6 +261,11 @@
 ### Scilab
 
 * [Introduction à Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/) - Michaël Baudin, Artem Glebov, Jérome Briot
+
+
+### Scratch
+
+* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/)
 
 
 ### SPIP

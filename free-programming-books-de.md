@@ -23,6 +23,7 @@
   * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [UML](#uml)
 * [Unix](#unix)
 * [Visual Basic](#visual-basic)
@@ -33,7 +34,6 @@
 * [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
-* [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
 
 
 ### Action Script
@@ -175,6 +175,11 @@
 ### Scilab
 
 * [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf) (PDF)
+
+
+### Scratch
+
+* [Kreative Informatik mit Scratch](http://eis.ph-noe.ac.at/kreativeinformatik/)
 
 
 ### UML

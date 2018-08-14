@@ -41,6 +41,7 @@
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
 * [Scala](#scala)
+* [Scratch](#scratch)
 * [SQL](#sql)
 * [SVG](#svg)
 
@@ -62,7 +63,6 @@
 #### Algoritmos
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
-* [Aprenda a programar como si estuviera en primero](http://www1.ceit.es/asignaturas/Informat1/ayudainf/aprendainf/Programar/Programar.pdf) (PDF)
 * [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html) (HTML)
@@ -88,7 +88,6 @@
 #### Cursos Masivos en Línea
 
 * [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice) (Github)
-* [MIT Opencourseware en Español](http://mit.ocw.universia.net)
 
 
 #### Metodologías de desarrollo de software
@@ -151,7 +150,7 @@
 
 ### Erlang
 
-* [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) (WikiLibros)
+* [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) - WikiLibros
 
 
 ### Emacs
@@ -185,7 +184,6 @@
 * [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) (HTML)
 * [Estructura con CSS](http://es.learnlayout.com) (HTML)
 * [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas (PDF)
-* [HTML5](http://www.arkaitzgarro.com/html5) - Arkaitz Garro (HTML) [(PDF)](https://openlibra.com/es/book/download/html5)
 * [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-css)
 
 
@@ -245,7 +243,7 @@
 
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
 * [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) (descarga directa)
-* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) (WikiLibros)
+* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
 * [El manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now/)
 
 
@@ -289,7 +287,6 @@
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (PDF) (descarga directa)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) (HTML)
-* [Notas sobre el lenguaje Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/view) (PDF)
 * [Python instantáneo (1999)](http://www.arrakis.es/~rapto/AprendaPython.html) (HTML)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) (Github)
 * [Python para principiantes](http://librosweb.es/libro/python) (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
@@ -335,6 +332,11 @@
 
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
 * [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) *(:construction: En proceso)*
+
+
+### Scratch
+
+* [Informática Creativa](https://github.com/programamos/GuiaScratch) (PDF)
 
 
 ### SQL

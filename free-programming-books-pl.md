@@ -26,13 +26,13 @@
 
 ### 0 - Niezależne od języka programowania
 
-* [Git](https://pl.wikibooks.org/wiki/Git)
+* [Git](https://pl.wikibooks.org/wiki/Git) - Wikibooks
 * [Interaktywna platforma do nauki programowania](http://apki.org)
-* [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS)
+* [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS) - Wikibooks
 * [Poradnik początkującego programisty](http://www.eioba.pl/a/2eu1/poradnik-poczatkujacego-programisty)
 * [Pro Git](http://git-scm.com/book/pl/)
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
-* [SVN](https://pl.wikibooks.org/wiki/Subversion)
+* [SVN](https://pl.wikibooks.org/wiki/Subversion) - Wikibooks
 
 
 ### Android
@@ -51,7 +51,7 @@
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
 * [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
 * [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
-* [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
+* [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) - Wikibooks (PDF)
 * [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
 
@@ -90,7 +90,7 @@
 
 ### Haskell
 
-* [Haskell](https://pl.wikibooks.org/wiki/Haskell)
+* [Haskell](https://pl.wikibooks.org/wiki/Haskell) - Wikibooks
 
 
 ### HTML
@@ -137,14 +137,14 @@
 
 * [Kurs Perl](http://zajacmarek.com/2014/10/kurs-perl-cz-1/) - Marek Zając
 * [Kurs PERL](cyberpunk.e-spin.pl/86,41,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PERL)
-* [Wikibooks Perl](https://pl.wikibooks.org/wiki/Perl)
+* [Perl](https://pl.wikibooks.org/wiki/Perl) - Wikibooks
 
 
 ### PHP
 
 * [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
 * [Kurs PHP OOP](http://cyberpunk.e-spin.pl/86,37,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PHP-OOP)
-* [PHP](https://pl.wikibooks.org/wiki/PHP)
+* [PHP](https://pl.wikibooks.org/wiki/PHP) - Wikibooks
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 
 

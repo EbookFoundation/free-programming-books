@@ -252,7 +252,6 @@
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
-
 ### MATLAB
 
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)

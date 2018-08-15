@@ -408,6 +408,7 @@
 ### Golang
 
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
+* [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 * [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 * [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)

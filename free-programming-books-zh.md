@@ -415,6 +415,7 @@
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+* [Go 语言高级编程（Advanced Go Programming）](https://github.com/chai2010/advanced-go-programming-book)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go实战开发](https://github.com/astaxie/Go-in-Action)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)

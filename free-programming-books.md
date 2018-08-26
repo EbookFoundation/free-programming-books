@@ -2233,6 +2233,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby) - Launch School
 * [Practicing Ruby](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts)
 * [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
+* [RubyFu](https://rubyfu.net) 
 * [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)

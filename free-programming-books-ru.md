@@ -206,6 +206,7 @@
 * [О Haskell по-человечески](https://www.ohaskell.guide) - Денис Шевченко
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
 * [Язык и библиотеки Haskell 98](http://www.haskell.ru) - Simon Peyton Jones
+* [Язык программирования Haskell: Учимся быть ленивыми](https://github.com/Number571/Haskell/tree/master/Book) - Г. Коваленко
 
 
 ### HTML / CSS

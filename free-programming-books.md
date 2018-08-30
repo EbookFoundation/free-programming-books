@@ -2298,6 +2298,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Effective Scala](https://twitter.github.io/effectivescala/)
 * [Essential Scala](http://underscore.io/books/essential-scala/) - Noel Welsh and Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - Sam Halliday
+* [Functional Programming, Simplified (Scala edition)](https://alvinalexander.com/photos/functional-programming-simplied-free-pdf-preview) - Alvin Alexander (free preview (400 pages from 595), PDF)
+* [Hello, Scala](https://alvinalexander.com/photos/hello-scala-free-pdf-preview) - Alvin Alexander (free preview (120 pages from 257), PDF)
 * [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
 * [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Pro Scala: Monadic Design Patterns for the Web](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)

@@ -12,6 +12,7 @@
 * [Generale](#generale)
 * [Java](#Java)
 * [Javascript](#javascript)
+* [Machine Learning](#machine-learning)
 * [Networking](#networking)
 * [Pascal](#pascal)
 * [Programmazione](#programmazione)
@@ -92,6 +93,11 @@
 
 * [Corso di Javascript (base)](https://www.youtube.com/watch?v=JUBhi8O3wn0&list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) [(Lacerba.io)](https://lacerba.io)
 * [Corso Javascript (ES6)](https://www.youtube.com/watch?v=dDekOIgzxPA&list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) (F. Camuso)
+
+
+### Machine Learning
+
+* [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) (P. Savastano) 
 
 
 ### Networking

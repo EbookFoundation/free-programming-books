@@ -1309,6 +1309,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat
 * [Learn CSS Layout](http://learnlayout.com)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com) - Shay Howe
 * [MaintainableCSS](http://maintainablecss.com)
 * [Pro HTML5 Programming]( http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
 * [Scalable and Modular Architecture for CSS](https://smacss.com) - Jonathan Snook

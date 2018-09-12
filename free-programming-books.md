@@ -1926,7 +1926,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * Drupal Framework
   * Drupal 7
     * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
-* [Hacking with PHP](http://www.hackingwithphp.com)
 * Laravel Framework
   * Laravel 3
     * [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees

@@ -185,7 +185,7 @@
 ### iOS
 
 * [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
-* [Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
+* [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
 
 

@@ -1543,6 +1543,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Elm
 
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [Elm Tutorial](http://www.elm-tutorial.org)
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
@@ -2475,6 +2476,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### TypeScript
 
+* [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)

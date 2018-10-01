@@ -2,7 +2,7 @@
 
 * [0 - Meta-Listas](#0---meta-listas)
 * [1 - Agnósticos](#1---agn&#x00F3;sticos)
-  * [Algoritmos y Estructuras de Datos](#algoritmos)
+  * [Algoritmos y Estructuras de Datos](#algoritmos-y-estructuras-de-datos)
   * [Base de Datos](#base-de-datos)
   * [Ciencia Computacional](#ciencia-computacional)
   * [Cursos Masivos en Línea](#cursos-masivos-en-L&#x00ED;nea)
@@ -60,7 +60,7 @@
 
 ### 1 - Agnósticos
 
-#### Algoritmos
+#### Algoritmos y Estructuras de Datos
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) (PDF)

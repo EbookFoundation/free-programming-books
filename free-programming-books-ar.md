@@ -3,6 +3,7 @@
 * [Arduino](#arduino)
 * [GIT](#git)
 * [Introduction to programming in Arabic](#introduction)
+* [Java](#java)
 * [Linux](#linux)
 * [Open source software](#oss)
 * [Operating system](#os)
@@ -24,6 +25,11 @@
 ### Introduction to programming in Arabic
 
 * [مختصر دليل لغات البرمجة ](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (PDF)
+
+
+### Java
+
+* [الشامل بغلة JAVA كامل ](https://www.alarabimag.com/books/9505-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%BA%D9%84%D8%A9-JAVA-%D9%83%D8%A7%D9%85%D9%84.html) (PDF)
 
 
 ### Linux

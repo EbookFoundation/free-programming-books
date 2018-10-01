@@ -164,6 +164,7 @@
 * [Guida a Java 8](http://twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
 * [Guida Java](http://www.html.it/guide/guida-java/?cref=development) (HTML)
 * [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
+* [Java 9 e 10, la guida](https://www.html.it/guide/java-9-la-guida/) (HTML)
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 
 

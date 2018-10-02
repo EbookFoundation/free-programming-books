@@ -12,6 +12,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [Angular](#angular)
   * [Backbone.js](#backbonejs)
   * [Ember.js](emberjs)
   * [Express.js](#expressjs)

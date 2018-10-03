@@ -241,11 +241,12 @@
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/) - Caelum
 
+
 ### Rust
 
 * [Aprenda Rust em minutos](https://learnxinyminutes.com/docs/pt-br/rust-pt/) Paulo Henrique Rodrigues Pinheiro
 * [Estrutura de Dados e um pouco de Ownership](https://github.com/bltavares/presentations/blob/gh-pages/rust-tipos-e-ownership/rust-tipos-e-ownership.org)
-* [Livro (Parcialmente traduzido)](https://livro.rustbr.org/)
+* [Livro - Parcialmente traduzido](https://livro.rustbr.org)
 * [Nunca Ouvi falar de Rust](https://presentations.bltavares.com/nunca-ouvi-falar-de-rust) Bruno Tavares
 
 

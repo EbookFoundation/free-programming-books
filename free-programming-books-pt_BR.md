@@ -114,6 +114,11 @@
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 
 
+#### Angular
+
+* [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/index.html)
+
+
 #### Angular.js
 
 * [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)

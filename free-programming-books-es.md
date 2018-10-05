@@ -234,9 +234,11 @@
 
 * [Introducción a Node.js a través de Koans](http://nodejskoans.com)
 
+
 #### React
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) (PDF, EPUB, MOBI)
+
 
 ### LaTeX
 

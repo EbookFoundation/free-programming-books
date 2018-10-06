@@ -350,6 +350,8 @@
 * [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html) (HTML)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/) (HTML)
 
+### Subversion
+* [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) (HTML)
 
 ### SVG
 

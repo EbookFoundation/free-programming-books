@@ -27,6 +27,7 @@
   * [D3](#d3js)
   * [jQuery](#jquery)
   * [node.js](#nodejs)
+  * [React](#react)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
@@ -232,6 +233,11 @@
 #### Node.js
 
 * [Introducción a Node.js a través de Koans](http://nodejskoans.com)
+
+
+#### React
+
+* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) (PDF, EPUB, MOBI)
 
 
 ### LaTeX

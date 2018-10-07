@@ -19,6 +19,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [SQL](#sql)
+* [Swift](#swift)
 
 
 ### Angular
@@ -127,3 +128,8 @@
 ### SQL
 
 * [SQLFiddle](http://sqlfiddle.com)
+
+
+### Swift
+
+* [Online Swift Playground](http://online.swiftplayground.run)

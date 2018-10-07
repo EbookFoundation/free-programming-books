@@ -26,3 +26,7 @@
 ### LaTeX
 
 * [Кратко въведение в LaTeX2ε](http://www.ctan.org/tex-archive/info/lshort/bulgarian) - Стефка Караколева
+
+
+### PHP
+* [Обектно ориентирано програмиране с PHP](https://www.youtube.com/playlist?list=PL1zMmEDXa_Z8uHtKAl-zSrBFDRNq8JDFG) - Иван Ванков

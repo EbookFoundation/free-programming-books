@@ -116,14 +116,13 @@
 * [Rust Playground](http://play.integer32.com)
 
 
-### SQL
-
-* [SQLFiddle](http://sqlfiddle.com)
-
-
 ### Scala
 
 * [ScalaFiddle.io](https://scalafiddle.io)
 * [ScalaFiddle.net](http://scalafiddle.net)
 * [Scastie](https://scastie.scala-lang.org)
 
+
+### SQL
+
+* [SQLFiddle](http://sqlfiddle.com)

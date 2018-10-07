@@ -2457,8 +2457,8 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Vapor
 
-* [Vapor Official Docs](https://docs.vapor.codes)
 * [Vapor 3 Tutorial For Beginners](https://theswiftdev.com/2018/04/09/vapor-3-tutorial-for-beginners)
+* [Vapor Official Docs](https://docs.vapor.codes)
 * [Vapor University](https://vapor.university)
 
 

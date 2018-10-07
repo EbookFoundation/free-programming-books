@@ -17,6 +17,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Scala](#scala)
 * [SQL](#sql)
 
 

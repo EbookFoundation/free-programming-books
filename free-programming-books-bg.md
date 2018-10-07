@@ -22,6 +22,7 @@
 
 * [Въведение в програмирането с Java](http://www.introprogramming.info/intro-java-book/read-online/) - Светлин Наков
 * [Интернет програмиране с Java](http://www.nakov.com/books/inetjava/index.html) - Светлин Наков
+* [Въведение в Андроид](https://www.youtube.com/playlist?list=PLjsqymUqgpSTXtlngZCXRHEp8-FmDHHfL) - Иван Ванков
 
 
 ### LaTeX

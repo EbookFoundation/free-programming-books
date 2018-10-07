@@ -194,6 +194,7 @@
 * [Standard ML](#standard-ml)
 * [Subversion](#subversion)
 * [Swift](#swift)
+  * [Vapor](#vapor)
 * [Tcl](#tcl)
 * [Teradata](#teradata)
 * [Tizen](#tizen)
@@ -2452,6 +2453,13 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Test-driven iOS Development with Swift](https://www.packtpub.com/packt/free-ebook/TDD-Swift) - Dr. Dominik Hauser, Packt. (email address *requested*, not required)
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
+
+
+#### Vapor
+
+* [Vapor Official Docs](https://docs.vapor.codes)
+* [Vapor 3 Tutorial For Beginners](https://theswiftdev.com/2018/04/09/vapor-3-tutorial-for-beginners)
+* [Vapor University](https://vapor.university)
 
 
 ### Tcl

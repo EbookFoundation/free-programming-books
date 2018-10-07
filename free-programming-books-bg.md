@@ -4,7 +4,7 @@
 * [C#](#c-sharp)
 * [Java](#java)
 * [LaTeX](#latex)
-* [Php](#PHP)
+* [PHP](#PHP)
 
 
 ### C

@@ -69,6 +69,7 @@
 * [Linear Digressions](http://www.lineardigressions.com) (podcast)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast) (podcast)
 * [Partially Derivative](http://partiallyderivative.com) (podcast)
+* [Super Data Science](https://www.superdatascience.com/podcast/) (podcast) 
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
 
 

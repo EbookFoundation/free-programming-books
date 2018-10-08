@@ -44,6 +44,7 @@
 * [Scala](#scala)
 * [Scratch](#scratch)
 * [SQL](#sql)
+* [Subversion](#subversion)
 * [SVG](#svg)
 
 
@@ -273,7 +274,7 @@
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) (HTML)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP) (Bubok)
 * [Programación web avanzada: ajax y google maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) (PDF)
-* [Silex, el manual oficial](http://librosweb.es/libro/silex) (HTML) 
+* [Silex, el manual oficial](http://librosweb.es/libro/silex) (HTML)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
 * [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
 
@@ -349,6 +350,11 @@
 
 * [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html) (HTML)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/) (HTML)
+
+
+### Subversion
+
+* [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) (HTML)
 
 
 ### SVG

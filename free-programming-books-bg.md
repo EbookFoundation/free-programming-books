@@ -4,6 +4,7 @@
 * [C#](#c-sharp)
 * [Java](#java)
 * [LaTeX](#latex)
+* [PHP](#php)
 
 
 ### C
@@ -21,8 +22,13 @@
 
 * [Въведение в програмирането с Java](http://www.introprogramming.info/intro-java-book/read-online/) - Светлин Наков
 * [Интернет програмиране с Java](http://www.nakov.com/books/inetjava/index.html) - Светлин Наков
+* [Въведение в Андроид](https://www.youtube.com/playlist?list=PLjsqymUqgpSTXtlngZCXRHEp8-FmDHHfL) - Иван Ванков
 
 
 ### LaTeX
 
 * [Кратко въведение в LaTeX2ε](http://www.ctan.org/tex-archive/info/lshort/bulgarian) - Стефка Караколева
+
+
+### PHP
+* [Обектно ориентирано програмиране с PHP](https://www.youtube.com/playlist?list=PL1zMmEDXa_Z8uHtKAl-zSrBFDRNq8JDFG) - Иван Ванков

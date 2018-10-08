@@ -17,7 +17,9 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Scala](#scala)
 * [SQL](#sql)
+* [Swift](#swift)
 
 
 ### Angular
@@ -116,14 +118,18 @@
 * [Rust Playground](http://play.integer32.com)
 
 
-### SQL
-
-* [SQLFiddle](http://sqlfiddle.com)
-
-
 ### Scala
 
 * [ScalaFiddle.io](https://scalafiddle.io)
 * [ScalaFiddle.net](http://scalafiddle.net)
 * [Scastie](https://scastie.scala-lang.org)
 
+
+### SQL
+
+* [SQLFiddle](http://sqlfiddle.com)
+
+
+### Swift
+
+* [Online Swift Playground](http://online.swiftplayground.run)

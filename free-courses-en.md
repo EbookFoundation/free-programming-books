@@ -44,6 +44,7 @@
 * [Software Engineering](#software-engineering)
 * [SQL](#sql)
 * [Swift](#swift)
+  * [Vapor](#vapor)
 * [Theory](#theory)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
@@ -382,6 +383,11 @@
 ### Swift
 
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
+
+
+#### Vapor
+
+* [Vapor University](https://vapor.university)
 
 
 ### Theory

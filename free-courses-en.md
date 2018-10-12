@@ -92,6 +92,7 @@
 
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
+* [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 
 
 ### C Sharp

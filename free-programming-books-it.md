@@ -115,7 +115,6 @@
 * [Basi di Dati](http://dbdmg.polito.it/wordpress/teaching/basi-di-dati/) - Apiletti e Cagliero (Politecnico di Torino)
 * [La progettazione dei database relazionali](http://www.crescenziogallo.it/unifg/medicina/TSRM/master_bioimmagini/db/Teoria_pratica_progettazione_db_relazionali.pdf) - C. Gallo (PDF)
 * [Manuale pratico di disegno e progettazione dei database](http://www.brunasti.eu/unimib/bdsi/manuale-pratico-progettazione-ER-100914.pdf) - P. Brunasti (PDF)
-* [Progettare database](https://www.istitutomichelangelo.info/images/sampledata/FilesCaricati/bmorigi/classe%20V/Esercitazioni_schema_concettuale/PROGETTAZIONE%20DATABASE.pdf) (PDF)
 * [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) (HTML)
 
 
@@ -135,16 +134,6 @@
 #### SQL
 
 * [Guida linguaggio SQL](http://www.html.it/guide/guida-linguaggio-sql/?cref=system) (HTML)
-
-
-### Espressioni regolari
-
-* [Introduzione alle Espressioni regolari](http://www.marianospadaccini.it/repository/espressioni_regolari.pdf) - M. Spadaccini (PDF)
-
-
-### GIT
-
-* [Comprendere GIT concettualmente](http://www.linuxtrent.it/sites/default/files/Comprendere%20Git%20concettualmente%20-%20Marco%20Ciampa%20-%20r1.pdf) (PDF)
 
 
 ### HTML
@@ -173,7 +162,6 @@
 * [Corso completo Javascript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
-* [Programmazione in Javascript](http://pages.di.unipi.it/ambriola/PW/2017_05_17Programmazione_7.4.pdf) - V. Ambriola - (PDF)
 
 
 ### LaTeX

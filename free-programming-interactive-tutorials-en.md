@@ -201,7 +201,6 @@
 ### Ruby
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
-* [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)

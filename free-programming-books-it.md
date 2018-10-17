@@ -17,8 +17,6 @@
   * [NoSQL](#nosql)
   * [Relazionali](#relazionali)
   * [SQL](#sql)
-* [Espressioni regolari](#espressioni-regolari)
-* [Git](#git)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)

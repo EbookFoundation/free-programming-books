@@ -1401,7 +1401,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing and Michael Schwarz (PDF)
-* [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli and R.Walde
+* [Java, Java, Java Object-Oriented Problem Solving] (https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli and R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Notes for Professionals](http://books.goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (3.x)
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
@@ -1980,6 +1980,10 @@ Kerridge (PDF) (email address *requested*, not required)
     * [The Symfony Best practices 4.1.x](https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF)
     * [The Symfony Book 4.1.x](https://symfony.com/doc/4.1/index.html)
     * [The Symfony Getting started 4.1.x](https://symfony.com/pdf/Symfony_getting_started_4.1.pdf) (PDF)
+<<<<<<< HEAD
+=======
+
+>>>>>>> issue #3011 Java, Java, Java Object-Oriented Problem Solving by R. Morelli and R.Walde
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 * Zend Framework
   * [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)

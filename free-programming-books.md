@@ -787,6 +787,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Android Developer Fundamentals Course – Practicals](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-practicals/content/en/)
 * [Android NDK Beginner's Guide - Second Edition](https://www.packtpub.com/packt/free-ebook/android-ndk-beginners-guide) - Sylvain Ratabouil, Packt. (email address *requested*, not required)
 * [Android NDK Game Development Cookbook](https://www.packtpub.com/packt/free-ebook/android-ndk-game-development) - Sergey Kosarevsky & Viktor Latypov, Packt. (email address *requested*, not required)
+* [Android Notes](https://goalkicker.com/AndroidBook) (PDF)
 * [Android Programming Guide for Beginners](http://eduonix.com/offers/Android_ebook_free_offer.html) (PDF - need email confirmation)
 * [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) (email address *requested*, not required)
 * [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
@@ -797,7 +798,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
 * [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
-* [Android Notes](https://goalkicker.com/AndroidBook) (PDF)
 
 
 ### APL
@@ -866,6 +866,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
 * [Bash Guide for Beginners (2008)](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
+* [Bash Notes](https://goalkicker.com/BashBook) (PDF)
 * [Bash Notes for Professionals](http://books.goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (3.x) (PDF)
 * [BASH Programming (2000)](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - Mike G. (HTML)
 * [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html) (HTML)
@@ -882,7 +883,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Bash Academy](http://guide.bash.academy) - Maarten Billemont (HTML)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts, Jr. (PDF)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr. (HTML)
-* [Bash Notes](https://goalkicker.com/BashBook) (PDF)
 
 
 ### Basic
@@ -907,6 +907,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com)
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
 * [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)
+* [C Notes](https://goalkicker.com/CBook) (PDF)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
 * [C Programming Boot Camp - Paul Gribble](http://www.gribblelab.org/CBootCamp/)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
@@ -923,12 +924,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
-* [C Notes](https://goalkicker.com/CBook) (PDF)
 
 
 ### C Sharp
 
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
+* [C# Notes](https://goalkicker.com/CSharpBook) (PDF)
 * [C# Notes for Professionals](http://books.goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (3.x)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
 * [C# Yellow Book](http://www.csharpcourse.com) (intro to programming)
@@ -942,7 +943,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (email address *requested*, not required)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin Cross-Platform Development Cookbook](https://www.packtpub.com/free-eBook/xamarin-cross-platform-development-cookbook) - George Taskos, Packt. (email address *requested*, not required)
-* [C# Notes](https://goalkicker.com/CSharpBook) (PDF)
 
 
 ### C++
@@ -951,6 +951,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - Editors: Bjarne Stroustrup, Herb Sutter
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [C++ Language](http://www.cplusplus.com/doc/tutorial/)
+* [C++ Notes](https://goalkicker.com/CPlusPlusBook) (PDF)
 * [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) (email address *requested*, not required)
 * [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (email address *requested*, not required)
 * [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
@@ -972,7 +973,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
 * [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
-* [C++ Notes](https://goalkicker.com/CPlusPlusBook) (PDF)
 
 
 ### Chapel

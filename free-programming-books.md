@@ -1390,6 +1390,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing and Michael Schwarz (PDF)
+* [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli and R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Notes for Professionals](http://books.goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (3.x)
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain

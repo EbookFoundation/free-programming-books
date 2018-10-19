@@ -1401,7 +1401,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing and Michael Schwarz (PDF)
-* [Java, Java, Java Object-Oriented Problem Solving] (https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli and R.Walde
+* [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli and R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Notes for Professionals](http://books.goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (3.x)
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
@@ -1414,6 +1414,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
 * [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook) - Simon Kendal (PDF) , Bookboon. (email address *requested*, not required)
 * [Object-Oriented vs. Functional Programming](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp) - Richard Warburton (email address *requested*, not required)
+* [Object-oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX) (2002)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold

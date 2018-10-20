@@ -25,6 +25,9 @@ ADV - продвинутый. Тонкости.
 * [Вводный курс. Java в аналогиях.](http://www.job4j.ru/courses/java_beginner.html) - Пётр Арсентьев (BEG)
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
 
+### PHP
+
+* [Основы программирования на PHP] (https://code-basics.ru/languages/php) (BEG) (:construction: *in process*)
 
 ### PostgreSQL
 

@@ -392,7 +392,6 @@
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher)
 
 
-
 #### CakePHP
 
 * [Руководство](https://book.cakephp.org/3.0/ru/index.html)

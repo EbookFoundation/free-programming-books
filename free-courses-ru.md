@@ -2,6 +2,7 @@
 
 * [Clojure](#clojure)
 * [Java](#java)
+* [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [React](#react)

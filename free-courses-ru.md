@@ -27,7 +27,7 @@ ADV - продвинутый. Тонкости.
 
 ### PHP
 
-* [Основы программирования на PHP] (https://code-basics.ru/languages/php) (BEG) (:construction: *in process*)
+* [Основы программирования на PHP](https://code-basics.ru/languages/php) (BEG) (:construction: *in process*)
 
 ### PostgreSQL
 

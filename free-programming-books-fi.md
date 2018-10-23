@@ -24,6 +24,11 @@
 * [JavaScript](https://fi.wikibooks.org/wiki/JavaScript) - Wikikirjasto
 
 
+### Other
+
+* [Outoa ohjelmointia - Esoteeriset ohjelmointikielet](https://payhip.com/b/Rd4b) - Esoteeriset ohjelmointikielet ovat kokoelma erikoisia, epätavallisia tai vain ja ainoastaan huvin vuoksi luotuja ohjelmointikieliä.
+
+
 ### PHP
 
 * [PHP](https://fi.wikibooks.org/wiki/PHP) - Wikikirjasto

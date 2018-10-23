@@ -13,7 +13,7 @@
 ### Other
 
 * [Koodaustunti](http://koodaustunti.fi/miten-aloitan-koodaamaan/) - Opi koodaamaan verkossa
-* [Mooc](https://mooc.fi/) - Laadukkaita, avoimia ja ilmaisia verkkokursseja kaikille
+* [Mooc](https://mooc.fi) - Laadukkaita, avoimia ja ilmaisia verkkokursseja kaikille
 
 
 ### Python

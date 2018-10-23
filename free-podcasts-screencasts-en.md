@@ -17,6 +17,7 @@
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
   * [Ember.js](#emberjs)
+  * [Node.js](#nodejs)
   * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
@@ -145,6 +146,11 @@
 #### Ember.js
 
 * [Ember Weekend](https://emberweekend.com/episodes) (podcast)
+
+
+#### Node.js
+
+* [Nodeup](http://nodeup.com) (podcast)
 
 
 #### React.js

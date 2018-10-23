@@ -6,15 +6,25 @@
 ### Index
 
 * [Haskell](#haskell)
+* [HTML / CSS](#html--css)
+  * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby](#ruby)
 
 
 ### Haskell
 
 * [Вивчить собі Хаскела на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
+
+
+### HTML / CSS
+
+#### Bootstrap
+
+* [Ознайомлення Bootstrap 3.3.2](http://twbs.docs.org.ua)
 
 
 ### Java
@@ -35,6 +45,11 @@
 ### Python
 
 * [Пориньте у Python 3](https://uk.wikibooks.org/wiki/Пориньте_у_Python_3) - Марк Пілігрим
+
+
+#### Django
+
+* [Навчальний посібник Django Girls](https://tutorial.djangogirls.org/uk/) (1.11) (HTML)
 
 
 ### Ruby

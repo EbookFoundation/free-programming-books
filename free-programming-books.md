@@ -37,6 +37,7 @@
 * [Eiffel](#eiffel)
 * [Elasticsearch](#elasticsearch)
 * [Eiffel](#eiffel)
+* [Elasticsearch](#elasticsearch)
 * [Elixir](#elixir)
   * [Ecto](#ecto)
   * [Phoenix](#phoenix)
@@ -1415,8 +1416,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
 * [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook) - Simon Kendal (PDF) , Bookboon. (email address *requested*, not required)
 * [Object-Oriented vs. Functional Programming](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp) - Richard Warburton (email address *requested*, not required)
-* [Object-oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
-* [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook) - Simon Kendal (PDF)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX) (2002)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
@@ -1983,10 +1982,6 @@ Kerridge (PDF) (email address *requested*, not required)
     * [The Symfony Best practices 4.1.x](https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF)
     * [The Symfony Book 4.1.x](https://symfony.com/doc/4.1/index.html)
     * [The Symfony Getting started 4.1.x](https://symfony.com/pdf/Symfony_getting_started_4.1.pdf) (PDF)
-<<<<<<< HEAD
-=======
-
->>>>>>> issue #3011 Java, Java, Java Object-Oriented Problem Solving by R. Morelli and R.Walde
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 * Zend Framework
   * [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)

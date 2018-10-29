@@ -17,6 +17,7 @@
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
   * [Ember.js](#emberjs)
+  * [Node.js](#nodejs)
   * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
@@ -147,9 +148,15 @@
 * [Ember Weekend](https://emberweekend.com/episodes) (podcast)
 
 
+#### Node.js
+
+* [Nodeup](http://nodeup.com) (podcast)
+
+
 #### React.js
 
 * [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
+* [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
 * [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
 
 
@@ -163,12 +170,14 @@
 
 * [/dev/hell](http://devhell.info) (podcast)
 * [Arrested DevOps](https://www.arresteddevops.com) (podcast)
+* [baseCS](https://www.codenewbie.org/basecs) (podcast based on [a series of posts on medium](https://medium.com/basecs))
 * [Beats, Rye & Types](http://beatsryetypes.com) (podcast)
 * [Between | Screens Podcast](https://soundcloud.com/between-screens) (podcast)
 * [BSDTalk](http://bsdtalk.blogspot.com) (podcast)
 * [CodeNewbie](http://www.codenewbie.org/podcast) (podcast)
 * [CodePen Radio](https://blog.codepen.io/radio/) (podcast)
 * [Coding Blocks](http://www.codingblocks.net) (podcast)
+* [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) (podcast)
 * [CTRL+CLICK CAST](http://ctrlclickcast.com) (podcast)
 * [Developer On Fire](http://developeronfire.com) (podcast)
 * [Developer Tea](https://developertea.com) (podcast)

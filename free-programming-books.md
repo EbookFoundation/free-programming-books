@@ -361,6 +361,15 @@
 * [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 
 
+####Computer Science
+
+* [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb9b39be3221dc02c1b5d0712f9b9f03260e46/ComputerScienceOne.pdf) - Dr. Chris Bourke (PDF)
+* [Computer Science II - Draft](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Dr. Chris Bourke (PDF)
+* [Computer Science III  - Lecture notes](http://cse.unl.edu/~cbourke/ComputerScienceThree.pdf) - Dr. Chris Bourke (PDF)
+* [Trees - Lecture notes](http://cse.unl.edu/~cbourke/Lecture-Trees.pdf) - Dr. Chris Bourke (PDF)
+* [Searching & Sorting - Lecture notes](http://cse.unl.edu/~cbourke/searchingSorting.pdf) - Dr. Chris Bourke (PDF)
+
+
 #### Computer Vision
 
 * [Computer Vision](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown
@@ -686,6 +695,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 * [CryptoParty Handbook](https://unglue.it/work/141611/)
+* [Cryptography & Security - Lecture notes](http://cse.unl.edu/~cbourke/cryptoNotes.pdf) - Dr. Chris Bourke (PDF)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
 * [How to deal with Passwords](https://github.com/MHM5000/pass)
 * [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
@@ -1217,6 +1227,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 * [Intoduction to Git and Github](https://launchschool.com/books/git) - Launch School
+* [Intoduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
 * [Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial) - Michael Hartl
 * [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
 * [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon

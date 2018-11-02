@@ -487,6 +487,7 @@
 * [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/2016-european-software-development-salary-survey.csp) (email address *requested*, not required)
 * [2016 Software Development Salary Survey](http://www.oreilly.com/programming/free/2016-software-development-salary-survey-report.csp) (email address *requested*, not required)
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended) *(Leanpub account or valid email requested)*
+* [A MACHINE MADE THIS BOOK ten sketches of computer science](http://ocaml-book.com/s/popbook.pdf) - JOHN WHITINGTON (PDF)
 * [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
 * [Ansible Up & Running (first three chapters)](https://www.ansible.com/ebooks) *(account required)*
 * [Asterisk™: The Definitive Guide](http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8)

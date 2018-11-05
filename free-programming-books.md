@@ -1331,6 +1331,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Thinking in HTML](https://www.packtpub.com/packt/free-ebook/thinking-in-html) - Aravind Shenoy, Packt. (email address *requested*, not required)
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
+* [Web Development 101](https://www.theodinproject.com/courses/web-development-101)
 
 
 #### Bootstrap
@@ -1476,6 +1477,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [JavaScript For Cats](http://jsforcats.com)
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
+* [JavaScript Odin Project](https://www.theodinproject.com/courses/javascript)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
 * [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite
 * [Javascript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) (email address *requested*, not required)
@@ -2257,6 +2259,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Ruby Koans](http://www.rubykoans.com)
 * [Ruby Learning](http://rubylearning.com)
 * [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
+* [Ruby Programming Odin Project](https://www.theodinproject.com/courses/ruby-programming)
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
 * [Rubyfu](https://rubyfu.net)
@@ -2281,6 +2284,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Ruby on Rails 3.2 - Step by Step](http://www.xyzpub.com/en/ruby-on-rails/3.2/)
 * [Ruby on Rails 4.0 Guide](http://www.xyzpub.com/en/ruby-on-rails/4.0/)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
+* [Ruby on Rails Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 * [Ruby on Rails Tutorial (Rails 5): Learn Web Development with Rails](https://www.railstutorial.org/book) - [Michael Hartl](http://www.michaelhartl.com)
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
 

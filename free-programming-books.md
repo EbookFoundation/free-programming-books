@@ -1313,6 +1313,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [GA Dash](https://dash.generalassemb.ly)
 * [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com)
+* [HTML and CSS Odin Project](https://www.theodinproject.com/courses/html5-and-css3)
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 * [HTML Dog Tutorials](http://www.htmldog.com)
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
@@ -1331,7 +1332,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Thinking in HTML](https://www.packtpub.com/packt/free-ebook/thinking-in-html) - Aravind Shenoy, Packt. (email address *requested*, not required)
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
-* [Web Development 101](https://www.theodinproject.com/courses/web-development-101)
 
 
 #### Bootstrap

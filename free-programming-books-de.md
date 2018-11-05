@@ -7,6 +7,7 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
+* [Component Pascal](#component-pascal)
 * [Git](#git)
 * [Go](#go)
 * [Groovy](#groovy)
@@ -19,8 +20,10 @@
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [UML](#uml)
 * [Unix](#unix)
 * [Visual Basic](#visual-basic)
@@ -28,9 +31,10 @@
 
 ### Unabhängig von der Programmiersprache
 
+* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
-* [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
+* [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
 
 
 ### Action Script
@@ -60,6 +64,11 @@
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
+
+
+### Component Pascal
+
+* [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
 
 
 ### C Sharp
@@ -111,6 +120,7 @@
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung/)
+* [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
 
 
 ### Javascript
@@ -149,6 +159,11 @@
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
 
 
+#### Django
+
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/es/) (1.11) (HTML) (:construction: *in process*)
+
+
 ### Ruby on Rails
 
 * [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) (PDF)
@@ -161,6 +176,11 @@
 ### Scilab
 
 * [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf) (PDF)
+
+
+### Scratch
+
+* [Kreative Informatik mit Scratch](http://eis.ph-noe.ac.at/kreativeinformatik/)
 
 
 ### UML

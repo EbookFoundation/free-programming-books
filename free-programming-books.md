@@ -1561,7 +1561,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Elm
 
 * [An Introduction to Elm](https://guide.elm-lang.org/) (HTML)
-* [Beginning Elm](https://elmprogramming.com/) (HTML) - Pawan Poudel
+* [Beginning Elm](https://elmprogramming.com/) - Pawan Poudel  (HTML)
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [Elm Programming Language](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)

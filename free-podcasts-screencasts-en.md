@@ -16,8 +16,8 @@
 * [Haskell](#haskell)
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
-  * [Ember.js](#emberjs)
   * [Elm](#elm)
+  * [Ember.js](#emberjs)
   * [Node.js](#nodejs)
   * [React.js](#reactjs)
 * [Kotlin](#kotlin)
@@ -144,14 +144,14 @@
 * [Angular Air](https://angularair.com) (podcast)
 
 
-#### Ember.js
-
-* [Ember Weekend](https://emberweekend.com/episodes) (podcast)
-
-
 #### Elm
 
 * [Elm Town](https://elmtown.audio) (podcast)
+
+
+#### Ember.js
+
+* [Ember Weekend](https://emberweekend.com/episodes) (podcast)
 
 
 #### Node.js

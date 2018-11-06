@@ -8,7 +8,6 @@
 * [CSS](#css)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
-* [Elm](#elm)
 * [Emacs](#emacs)
 * [Erlang](#erlang)
 * [Git](#git)
@@ -18,6 +17,7 @@
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
   * [Ember.js](#emberjs)
+  * [Elm](#elm)
   * [Node.js](#nodejs)
   * [React.js](#reactjs)
 * [Kotlin](#kotlin)
@@ -84,11 +84,6 @@
 * [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt) (screencast)
 
 
-### Elm
-
-* [Elm Town](https://elmtown.audio/) (podcast)
-
-
 ### Emacs
 
 * [Emacs Rocks!](http://emacsrocks.com) (screencast)
@@ -152,6 +147,11 @@
 #### Ember.js
 
 * [Ember Weekend](https://emberweekend.com/episodes) (podcast)
+
+
+#### Elm
+
+* [Elm Town](https://elmtown.audio/) (podcast)
 
 
 #### Node.js

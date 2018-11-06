@@ -1120,14 +1120,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Versioned APIs with Phoenix](http://elviovicosa.com/books/versioned-apis-with-phoenix) - Elvio Vicosa (PDF) *(account required)*
 
 
-### Elm
-
-* [An Introduction to Elm](https://guide.elm-lang.org/) (HTML)
-* [Beginning Elm](https://elmprogramming.com/) (HTML)
-* [Elm Programming Language](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)
-* [Learn You an Elm](https://learnyouanelm.github.io/) (HTML)
-
-
 ### Emacs
 
 * [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
@@ -1568,9 +1560,13 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Elm
 
+* [An Introduction to Elm](https://guide.elm-lang.org/) (HTML)
+* [Beginning Elm](https://elmprogramming.com/) (HTML) - Pawan Poudel
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
+* [Elm Programming Language](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)
 * [Elm Tutorial](http://www.elm-tutorial.org)
+* [Learn You an Elm](https://learnyouanelm.github.io/) (HTML)
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
 

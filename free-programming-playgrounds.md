@@ -48,7 +48,7 @@
 
 ### Elm
 
-* [Ellie](https://ellie-app.com/)
+* [Ellie](https://ellie-app.com)
 
 
 ### FlexBox

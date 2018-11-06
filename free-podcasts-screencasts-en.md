@@ -151,7 +151,7 @@
 
 #### Elm
 
-* [Elm Town](https://elmtown.audio/) (podcast)
+* [Elm Town](https://elmtown.audio) (podcast)
 
 
 #### Node.js

@@ -4,6 +4,7 @@
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
 * [CSS](#css)
+* [Elm](#elm)
 * [FlexBox](#flexbox)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -43,6 +44,11 @@
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
+
+
+### Elm
+
+* [Ellie](https://ellie-app.com)
 
 
 ### FlexBox

@@ -39,6 +39,7 @@
 * [Elixir](#elixir)
   * [Ecto](#ecto)
   * [Phoenix](#phoenix)
+* [Elm](#elm)  
 * [Emacs](#emacs)
 * [Embedded Systems](#embedded-systems)
 * [Erlang](#erlang)
@@ -1559,9 +1560,13 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Elm
 
+* [An Introduction to Elm](https://guide.elm-lang.org) (HTML)
+* [Beginning Elm](https://elmprogramming.com) - Pawan Poudel  (HTML)
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
+* [Elm Programming Language](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)
 * [Elm Tutorial](http://www.elm-tutorial.org)
+* [Learn You an Elm](https://learnyouanelm.github.io) (HTML)
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
 

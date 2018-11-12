@@ -90,7 +90,7 @@
 
 * [DirectX を使った初めての Windows ストア アプリの作成](https://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
 * [GLUTによる「手抜き」OpenGL入門](http://www.wakayama-u.ac.jp/~tokoi/opengl/libglut.html) - 床井浩平
-* [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/OpenGLES_ProgrammingGuide.pdf) - Apple Developer (PDF)
+* [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html) - Apple Developer (HTML)
 * [はじめてのBlenderアドオン開発](https://nutti.gitbooks.io/introduction-to-add-on-development-in-blender/) - nutti
 * [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
 
@@ -319,7 +319,6 @@
 
 ### Groovy
 
-* [Groovy入門](http://www.oki-osk.jp/esc/groovy/) - OKIソフトウェア
 * [JGGUG G*Magazine](http://grails.jp/g_mag_jp/) - JGGUG(日本Grails/Groovyユーザーグループ) (PDF, EPUB)
 
 
@@ -477,13 +476,8 @@
 
 ### OCaml
 
-* [Objective Caml 入門](http://www.fos.kuis.kyoto-u.ac.jp/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
+* [Objective Caml 入門](https://web.archive.org/web/20161128072705/http://www.fos.kuis.kyoto-u.ac.jp:80/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
 * [お気楽 OCaml プログラミング入門](http://www.geocities.jp/m_hiroi/func/ocaml.html) - 広井誠
-
-
-### openFrameworks
-
-* [Beyond Interaction - メディアアートのためのopenFrameworksプログラミング入門](http://download.bnn.co.jp/download/beyond_interaction/BNN_BeyondInteraction.pdf) - 田所淳・比嘉了・久保田晃弘 (PDF) (※書籍を作者がCCライセンスで公開)
 
 
 ### Perl

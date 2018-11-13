@@ -290,6 +290,7 @@
 
 * [Piensa en Perl 6](https://uzluisf.gitlab.io/piensaperl6/) (PDF)
 
+
 ### Python
 
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) (PDF)

@@ -479,6 +479,8 @@
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
+* [Nutz文档](https://nutzam.com/core/nutz_preface.html)
+* [Nutz-book Nutz烹调向导](http://nutzbook.wendal.net)
 
 
 ### Javascript

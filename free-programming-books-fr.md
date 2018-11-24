@@ -202,11 +202,6 @@
 * [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
 
 
-### OCaml
-
-* [Apprendre à programmer avec OCaml](http://programmer-avec-ocaml.lri.fr)
-
-
 ### Perl
 
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html) - Sylvain Lhullier

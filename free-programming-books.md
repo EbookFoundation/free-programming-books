@@ -133,6 +133,7 @@
 * [Lisp](#lisp)
 * [Livecode](#livecode)
 * [Lua](#lua)
+* [Make](#make)
 * [Markdown](#markdown)
 * [Mathematica](#mathematica)
 * [MATLAB](#matlab)
@@ -1766,6 +1767,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Lua 5.3 Reference Manual](http://www.lua.org/manual/5.3/)
 * [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
 * [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
+
+
+### Make
+
+* [Managing Projects with GNU Make](https://www.oreilly.com/openbook/make3/book/index.html) - Robert Mecklenburg
 
 
 ### Markdown

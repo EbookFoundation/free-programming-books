@@ -202,7 +202,7 @@
 * [Programación en Java](http://elvex.ugr.es/decsai/java/) (HTML)
 * [Tutorial básico de Java EE](http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) (PDF)
 * [Tutorial introducción a Maven 3](http://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) - Erick Camacho (PDF)
-
+* [Desarrollando con Java 8: Poker](http://static1.1.sqspcdn.com/static/f/923743/25913511/1422811438480/Desarrollando+con+Java+8_+Poker.pdf) - David Pérez (PDF)
 
 ### JavaScript
 

@@ -2169,7 +2169,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Django
 
-* [Django 2.0 Tutorial for Beginners](https://djangoforbeginners.com) (2.0)
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)

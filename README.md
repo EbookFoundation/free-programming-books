@@ -89,4 +89,4 @@ Free Podcasts and Screencasts:
 + [Free Programming Playgrounds](/free-programming-playgrounds.md)
 
 ## License
-Each file included in this repository is licensed under the [CC BY License](/LICENSE.md).
+Each file included in this repository is licensed under the [CC BY License](/LICENSE).

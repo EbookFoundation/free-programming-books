@@ -63,7 +63,7 @@
   * [Scratch](#scratch)
   * [Shell](#shell)
   * [Swift](#swift)
-  * [VBA](#Excel-vba)
+  * [VBA](#vba-microsoft-visual-basic-applications)
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
   * [WebAssembly](#webassembly)

@@ -63,6 +63,7 @@
   * [Scratch](#scratch)
   * [Shell](#shell)
   * [Swift](#swift)
+  * [VBA](#Excel-vba)
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
   * [WebAssembly](#webassembly)
@@ -683,6 +684,10 @@
 
 * [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
 
+
+### VBA (Microsoft Visual Basic Applications)
+
+* [简明Excel VBA](https://github.com/Youchien/concise-excel-vba)
 
 ### Vim
 

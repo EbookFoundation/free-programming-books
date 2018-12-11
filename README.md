@@ -55,7 +55,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 
 
 ### Free Online Courses
++ [Bulgarian](/free-courses-bg.md)
 + [English](/free-courses-en.md)
++ [Finnish](/free-courses-fi.md)
 + [German](/free-courses-de.md)
 + [Italian](/free-courses-it.md)
 + [Polish](/free-courses-pl.md)
@@ -87,4 +89,4 @@ Free Podcasts and Screencasts:
 + [Free Programming Playgrounds](/free-programming-playgrounds.md)
 
 ## License
-Each file included in this repository is licensed under the [CC BY License](/LICENSE.md).
+Each file included in this repository is licensed under the [CC BY License](/LICENSE).

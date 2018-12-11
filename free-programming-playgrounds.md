@@ -4,6 +4,7 @@
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
 * [CSS](#css)
+* [Elm](#elm)
 * [FlexBox](#flexbox)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -17,7 +18,9 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Scala](#scala)
 * [SQL](#sql)
+* [Swift](#swift)
 
 
 ### Angular
@@ -41,6 +44,11 @@
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
+
+
+### Elm
+
+* [Ellie](https://ellie-app.com)
 
 
 ### FlexBox
@@ -116,14 +124,18 @@
 * [Rust Playground](http://play.integer32.com)
 
 
-### SQL
-
-* [SQLFiddle](http://sqlfiddle.com)
-
-
 ### Scala
 
 * [ScalaFiddle.io](https://scalafiddle.io)
 * [ScalaFiddle.net](http://scalafiddle.net)
 * [Scastie](https://scastie.scala-lang.org)
 
+
+### SQL
+
+* [SQLFiddle](http://sqlfiddle.com)
+
+
+### Swift
+
+* [Online Swift Playground](http://online.swiftplayground.run)

@@ -86,15 +86,6 @@
 * [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 
 
-### PostgreSQL
-
-* [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
-* [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
-* [PostgreSQL 9.4.4 中文文档](http://www.postgres.cn/docs/9.4/index.html)
-* [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
-* [PostgreSQL 9.6.0 中文文档](http://www.postgres.cn/docs/9.6/index.html)
-
-
 ### Web
 
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
@@ -639,6 +630,15 @@
 * [Symfony2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
 * [Yii2中文文档](http://www.yiichina.com/doc/guide/2.0)
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
+
+
+### PostgreSQL
+
+* [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
+* [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
+* [PostgreSQL 9.4.4 中文文档](http://www.postgres.cn/docs/9.4/index.html)
+* [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
+* [PostgreSQL 9.6.0 中文文档](http://www.postgres.cn/docs/9.6/index.html)
 
 
 ### Python

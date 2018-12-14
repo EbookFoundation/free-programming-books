@@ -44,7 +44,6 @@
   * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
     * [Backbone.js](#backbonejs)
-    * [CoffeeScript](#coffeeScript)
     * [D3.js](#d3js)
     * [ExtJS](#extjs)
     * [impress.js](#impressjs)
@@ -90,8 +89,8 @@
 
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 * [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
-* [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+* [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 * [Grunt中文文档](http://www.gruntjs.net)
 * [Gulp 入门指南](https://github.com/nimojs/gulp-book)
@@ -359,6 +358,7 @@
 
 * [CoffeeScript 中文](http://coffee-script.org)
 * [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
+* [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 
 
 ### Dart
@@ -500,11 +500,6 @@
   * [Backbone.js中文文档](http://www.css88.com/doc/backbone/)
   * [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
   * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
-
-
-#### CoffeeScript
-
-  * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 
 
 #### D3.js

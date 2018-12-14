@@ -357,8 +357,8 @@
 ### CoffeeScript
 
 * [CoffeeScript 中文](http://coffee-script.org)
-* [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
+* [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 
 
 ### Dart

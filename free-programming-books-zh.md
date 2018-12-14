@@ -201,8 +201,7 @@
 
 ### 数据库
 
-* [Redis 设计与实现](http://redisbook.com)
-* [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
+<!-- Waiting to add in -->
 
 
 ### 智能系统

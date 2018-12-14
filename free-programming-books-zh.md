@@ -476,6 +476,8 @@
 * [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
 * [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
 * [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
+* [Nutz-book Nutz烹调向导](http://nutzbook.wendal.net)
+* [Nutz文档](https://nutzam.com/core/nutz_preface.html)
 * [REST 实战](https://github.com/waylau/rest-in-action)
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)

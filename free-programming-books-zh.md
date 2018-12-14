@@ -58,7 +58,6 @@
   * [Lua](#lua)
   * [Markdown](#markdown)
   * [MySQL](#mysql)
-  * [Node.js](#nodejs)
   * [NoSQL](#nosql)
   * [Perl](#perl)
   * [PHP](#php)
@@ -551,7 +550,8 @@
   * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
   * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
   * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
-  * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+  * [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details) （社区翻译）
+  * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/) 阿里出品，很好的入门资料
   * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
   * [JavaScript全栈工程师培训材料](http://nodejs.ctolib.com/docs/sfile/jstraining/engineering.html)
 
@@ -606,13 +606,6 @@
 
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
-
-
-### Node.js
-
-* [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
-* [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details) （社区翻译）
-* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/) 阿里出品，很好的入门资料
 
 
 ### NoSQL

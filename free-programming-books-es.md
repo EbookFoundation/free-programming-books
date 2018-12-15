@@ -286,6 +286,7 @@
 * [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) (PDF)
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/) (HTML)
 
+
 ### Perl 6 / Raku
 
 * [Piensa en Perl 6](https://uzluisf.gitlab.io/piensaperl6/) (PDF)

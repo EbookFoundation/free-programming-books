@@ -7,7 +7,6 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
-* [Clojure](#clojure)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
 * [Data Science](#datascience)
@@ -112,10 +111,6 @@
     * [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
    
 
-
-### Clojure
-
-* [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/index.html)
 
 
 ### Compilers

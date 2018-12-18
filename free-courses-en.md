@@ -115,7 +115,7 @@
 
 ### Clojure
 
-* [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/index.html)
+* [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 
 
 ### Compilers

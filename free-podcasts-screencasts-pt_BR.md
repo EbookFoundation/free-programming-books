@@ -50,7 +50,7 @@
 
 ### PHP
 
-* [Gustavo Guanabara - PHP Para Iniciantes](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) (screencast)
+* [Gustavo Guanabara - PHP Iniciante](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) (screencast)
 * [Gustavo Guanabara - PHP Orientado a Objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) (screencast)
 
 

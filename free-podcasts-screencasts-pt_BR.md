@@ -6,6 +6,7 @@
 * [iOS](#ios)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
+* [PHP](#php)
 * [Vue.js](#vuejs)
 
 
@@ -45,6 +46,12 @@
  * [NerdTech](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
  * [PODebug](http://www.podebug.com) (podcast)
  * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
+
+
+### PHP
+
+* [Gustavo Guanabara - PHP Iniciante](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) (screencast)
+* [Gustavo Guanabara - PHP Orientado a Objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) (screencast)
 
 
 #### Vue.js

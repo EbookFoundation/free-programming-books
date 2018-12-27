@@ -34,6 +34,7 @@
 * [NoSQL](#nosql)
   * [MongoDB](#mongodb)
 * [Perl](#perl)
+* [Perl 6 / Raku](#perl-6--raku)
 * [PHP](#php)
 * [Python](#python)
   * [Django](#django)
@@ -285,6 +286,11 @@
 * [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) (PDF)
 * [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) (PDF)
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/) (HTML)
+
+
+### Perl 6 / Raku
+
+* [Piensa en Perl 6](https://uzluisf.gitlab.io/piensaperl6/) (PDF)
 
 
 ### Python

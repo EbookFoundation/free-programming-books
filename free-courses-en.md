@@ -258,6 +258,7 @@
 
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 

@@ -2,6 +2,7 @@
 
 * [Angular](#angular)
 * [Databases](#databases)
+* [DataScience](#datascience)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
@@ -18,6 +19,11 @@
 ### Databases
 
 * [DatabaseCast](http://databasecast.com.br) (podcast)
+
+
+### DataScience
+
+* [Pizza de Dados](https://pizzadedados.com) (podcast)
 
 
 ### HTML / CSS

@@ -1323,6 +1323,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Canvassing](http://learnjs.io/canvassing/read)
 * [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) - Mark Otto
+* [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
 * [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
 * [GA Dash](https://dash.generalassemb.ly)
 * [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)

@@ -2282,6 +2282,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Ruby Koans](http://www.rubykoans.com)
 * [Ruby Learning](http://rubylearning.com)
 * [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
+* [Ruby Tutorial For Complete Beginners](https://www.rubyguides.com/ruby-tutorial/) - Jesus Castello
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
 * [Rubyfu](https://rubyfu.net)

@@ -62,6 +62,7 @@
 
 
 ### Python
+
 * [Gustavo Guanabara - Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) (screencast)
 * [Gustavo Guanabara - Python Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) (screencast)
 * [Gustavo Guanabara - Python Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) (screencast)

@@ -2286,6 +2286,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
 * [Rubyfu](https://rubyfu.net)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
+* [The Definitive Ruby Tutorial For Complete Beginners](https://www.rubyguides.com/ruby-tutorial/) - Jesus Castello
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
 * [Why's (Poignant) Guide to Ruby](http://poignant.guide)
 

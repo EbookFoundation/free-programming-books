@@ -8,6 +8,7 @@
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
 * [PHP](#php)
+* [Python](#python)
 * [Vue.js](#vuejs)
 
 
@@ -58,6 +59,13 @@
 
 * [Gustavo Guanabara - PHP Iniciante](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) (screencast)
 * [Gustavo Guanabara - PHP Orientado a Objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) (screencast)
+
+
+### Python
+
+* [Gustavo Guanabara - Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) (screencast)
+* [Gustavo Guanabara - Python Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) (screencast)
+* [Gustavo Guanabara - Python Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) (screencast)
 
 
 #### Vue.js

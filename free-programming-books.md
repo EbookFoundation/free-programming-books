@@ -2318,7 +2318,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Rust
 
-* [Rust by Example](http://rustbyexample.com)
+* [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
 * [The Rust Programming Language](http://doc.rust-lang.org/book/)
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon/)

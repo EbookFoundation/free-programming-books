@@ -355,7 +355,6 @@
 * [Crafting Interpreters (:construction:)](http://www.craftinginterpreters.com) - Bob Nystrom (HTML)
 * [Implementing Functional Languages: A Tutorial](http://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
-* [Linkers and Loaders](http://www.iecc.com/linker/) - John R. Levine
 * [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 
 
@@ -2116,7 +2115,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
-* [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) (2.5 - 2.6)
 * [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF)
 * [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python) - Fabrizio Romano, Packt. (email address *requested*, not required)
 * [Learning to Program](http://www.alan-g.me.uk)

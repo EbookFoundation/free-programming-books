@@ -1421,7 +1421,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Notes for Professionals](http://books.goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (3.x)
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
-* [Java: The Legend](https://www.oreilly.com/programming/free/java-the-legend.csp) - Ben Evans (email address *requested*, not required)
+* [Java: The Legend](http://pepa.holla.cz/wp-content/uploads/2016/10/java-the-legend.pdf) - Ben Evans (PDF)
 * [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer and Daniel Leuck
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
 * [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) - Christian Posta (email address *requested*, not required)

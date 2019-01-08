@@ -90,3 +90,12 @@ Free Podcasts and Screencasts:
 
 ## License
 Each file included in this repository is licensed under the [CC BY License](/LICENSE).
+
+### Code Visualization:
+
+Here is a cool visualization of the code evolution
+
+ [![Watch the video](https://img.youtube.com/vi/-bjsatiEggs/0.jpg)](https://www.youtube.com/watch?v=-bjsatiEggs)
+
+ [https://www.youtube.com/watch?v=-bjsatiEggs](https://www.youtube.com/watch?v=-bjsatiEggs)
+

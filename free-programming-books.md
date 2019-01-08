@@ -362,6 +362,7 @@
 
 * [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/src) - Dr. Chris Bourke (PDF) (:construction: *in process*)
 * [Computer Science II - Draft](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Dr. Chris Bourke (PDF) (:construction: *in process*)
+* [Foundations of Computer Science](http://www.cl.cam.ac.uk/teaching/2000/FoundsCS/Founds-FP.pdf) - Lawrence C Paulson (PDF)
 
 
 #### Computer Vision

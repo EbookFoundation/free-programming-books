@@ -231,7 +231,7 @@
 
 #### Django
 
-* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/) (1.11) (HTML) (:construction: *in process*)
+* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
 
 ### RegEx

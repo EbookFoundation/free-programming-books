@@ -414,7 +414,7 @@
 
 ### Julia
 
-* [Julia 0.3.8](http://stat.biopapyrus.net/julia/) - 孫建強
+* [Julia 0.3.8](https://stats.biopapyrus.jp/julia) - 孫建強
 * [Julia Language Programming](http://www.geocities.jp/m_hiroi/light/julia.html) - 広井誠
 * [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
 
@@ -526,7 +526,7 @@
 * [Notes on scientific computing with python](http://japanichaos.appspot.com) - 花田康高
 * [php プログラマのための Python チュートリアル](http://phpy.readthedocs.org/en/latest/) - INADA Naoki
 * [Python 2.7.2 ドキュメント日本語訳](http://docs.python.jp/2.7/) - Python Software Foundation
-* [Python 3.4 / NumPy / SciPy](http://stat.biopapyrus.net/python/) - 孫建強
+* [Python 3.4](https://stats.biopapyrus.jp/python) - 孫建強
 * [Python Scientific Lecture Notes](http://turbare.net/transl/scipy-lecture-notes/) - 打田旭宏(翻訳)
 * [python で心理実験](http://www.s12600.net/psy/python/) - 十河宏行
 * [Python で音声信号処理](http://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
@@ -550,10 +550,8 @@
 
 ### R
 
+* [R](https://stats.biopapyrus.jp/r) - 孫建強
 * [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
-* [R グラフィックス](http://stat.biopapyrus.net/graph/) - 孫建強
-* [R プログラミング](http://stat.biopapyrus.net/r/) - 孫建強
-* [R プログラミング / 発展編](http://stat.biopapyrus.net/dev/) - 孫建強
 * [R 入門](http://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith and the R Development Core Team, 間瀬茂(翻訳) (PDF)
 * [R 基本統計関数マニュアル](http://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) - 間瀬茂 (PDF)
 * [R 言語定義](http://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) - R Development Core Team, 間瀬茂(翻訳) (PDF)

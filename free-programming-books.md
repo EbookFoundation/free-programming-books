@@ -265,6 +265,7 @@
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations.
 * [ShaderX series](http://www.realtimerendering.com/resources/shaderx/) - Wolfgang Engel
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
+* [WebGL Insights](http://webglinsights.com) - Patrick Cozzi and Contributors
 
 
 ### Graphical User Interfaces

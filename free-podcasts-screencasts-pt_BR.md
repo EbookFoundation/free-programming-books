@@ -2,10 +2,13 @@
 
 * [Angular](#angular)
 * [Databases](#databases)
+* [DataScience](#datascience)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
+* [PHP](#php)
+* [Python](#python)
 * [Vue.js](#vuejs)
 
 
@@ -17,6 +20,11 @@
 ### Databases
 
 * [DatabaseCast](http://databasecast.com.br) (podcast)
+
+
+### DataScience
+
+* [Pizza de Dados](https://pizzadedados.com) (podcast)
 
 
 ### HTML / CSS
@@ -47,8 +55,21 @@
  * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
 
 
+### PHP
+
+* [Curso em Vídeo - PHP Iniciante](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) (screencast)
+* [Curso em Vídeo - PHP Orientado a Objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) (screencast)
+
+
+### Python
+
+* [Curso em Vídeo - Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) (screencast)
+* [Curso em Vídeo - Python Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) (screencast)
+* [Curso em Vídeo - Python Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) (screencast)
+
+
 #### Vue.js
 
-* [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - [Origem: Vedovelli](http://www.vedovelli.com.br/screencasts/)  (screencast)
+* [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli  (screencast)
 
 

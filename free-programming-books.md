@@ -2182,7 +2182,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](http://www.effectivedjango.com) (1.5)
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
-* [The Django Book](https://djangobook.com/the-django-book/) (1.8 & 1.11)
 
 
 #### Flask

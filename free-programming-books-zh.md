@@ -164,7 +164,7 @@
 
 ### 操作系统
 
-* [Debian 参考手册 ](http://man.chinaunix.net/linux/debian/reference/reference.zh-cn.html)
+* [Debian 参考手册](http://man.chinaunix.net/linux/debian/reference/reference.zh-cn.html)
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
 * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
@@ -177,7 +177,7 @@
 * [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
-* [Ubuntu 参考手册 ](http://wiki.ubuntu.org.cn/UbuntuManual)
+* [Ubuntu 参考手册](http://wiki.ubuntu.org.cn/UbuntuManual)
 * [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
@@ -329,7 +329,7 @@
 
 ### C Sharp
 
-* [精通C#(第6版) ](http://book.douban.com/subject/24827879/)
+* [精通C#(第6版)](http://book.douban.com/subject/24827879/)
 
 
 ### C++

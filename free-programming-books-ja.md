@@ -142,7 +142,7 @@
 * [組込みシステムの安全性向上の勧め（機能安全編）](http://www.ipa.go.jp/files/000005118.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発におけるプロジェクトマネジメント導入の勧め](http://www.ipa.go.jp/files/000005105.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め [バグ管理手法編]](http://www.ipa.go.jp/files/000027629.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア開発における品質向上の勧め [ユーザビリティ編] ](http://www.ipa.go.jp/files/000005114.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [組込みソフトウェア開発における品質向上の勧め [ユーザビリティ編]](http://www.ipa.go.jp/files/000005114.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め [設計モデリング編]](http://www.ipa.go.jp/files/000005113.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め（コーディング編）](http://www.ipa.go.jp/files/000005106.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め［テスト編～事例集～］](http://www.ipa.go.jp/files/000005149.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
@@ -601,7 +601,7 @@
 
 ### Scratch
 
-* [炎の型 With Scratch (ゲームプログラム入門) ](https://kyorohiro.gitbooks.io/doc_scratch/) - kyorohiro
+* [炎の型 With Scratch (ゲームプログラム入門)](https://kyorohiro.gitbooks.io/doc_scratch/) - kyorohiro
 
 
 ### sed

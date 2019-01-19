@@ -168,8 +168,9 @@
 
 ### Kotlin
 
-* [Kotlin Beginners Tutorials](https://www.youtube.com/playlist?list=PLpg00ti3ApRweIhdOI4VCFFStx4uXC__u) (screencast)
 * [Talking Kotlin](http://talkingkotlin.com) (podcast)
+* [Most popular presentation videos on Kotlin on YouTube](https://www.youtube.com/results?search_query=kotlin&sp=CAMSAhgC) (videos)
+* [Most popular kotlin tutorials on YouTube](https://www.youtube.com/results?sp=CAMSAhgC&search_query=kotlin+tutorial) (videos)
 
 
 ### Language Agnostic

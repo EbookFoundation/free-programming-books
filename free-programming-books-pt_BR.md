@@ -180,6 +180,7 @@
 #### React
 
 * [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
+* [The Road to Learn React](https://leanpub.com/the-road-to-learn-react-portuguese)
 
 
 #### Vue.js

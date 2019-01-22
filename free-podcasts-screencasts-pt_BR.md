@@ -70,6 +70,7 @@
 
 
 ### TypeScript
+
 * [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) (screencast)
 
 

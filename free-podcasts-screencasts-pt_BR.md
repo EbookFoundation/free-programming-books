@@ -9,6 +9,7 @@
 * [Language Agnostic](#language-agnostic)
 * [PHP](#php)
 * [Python](#python)
+* [TypeScript](#typescript)
 * [Vue.js](#vuejs)
 
 
@@ -66,6 +67,11 @@
 * [Curso em Vídeo - Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) (screencast)
 * [Curso em Vídeo - Python Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) (screencast)
 * [Curso em Vídeo - Python Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) (screencast)
+
+
+### TypeScript
+
+* [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) (screencast)
 
 
 #### Vue.js

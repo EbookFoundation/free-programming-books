@@ -4,6 +4,7 @@
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
 * [CSS](#css)
+* [Elm](#elm)
 * [FlexBox](#flexbox)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -11,13 +12,16 @@
 * [Kotlin](#kotlin)
 * [.Net](#dotnet)
 * [Node.js](#nodejs)
+* [OCaml](#ocaml)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Scala](#scala)
 * [SQL](#sql)
+* [Swift](#swift)
 
 
 ### Angular
@@ -41,6 +45,11 @@
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
+
+
+### Elm
+
+* [Ellie](https://ellie-app.com)
 
 
 ### FlexBox
@@ -83,6 +92,11 @@
 * [Ideone](http://ideone.com)
 
 
+### OCaml
+
+* [Try OCaml](https://try.ocamlpro.com)
+
+
 ### Perl
 
 * [Perl](http://tryperl.pl)
@@ -116,14 +130,19 @@
 * [Rust Playground](http://play.integer32.com)
 
 
-### SQL
-
-* [SQLFiddle](http://sqlfiddle.com)
-
-
 ### Scala
 
 * [ScalaFiddle.io](https://scalafiddle.io)
 * [ScalaFiddle.net](http://scalafiddle.net)
 * [Scastie](https://scastie.scala-lang.org)
 
+
+### SQL
+
+* [Extends Class](https://extendsclass.com/sqlite-browser.html)
+* [SQLFiddle](http://sqlfiddle.com)
+
+
+### Swift
+
+* [Online Swift Playground](http://online.swiftplayground.run)

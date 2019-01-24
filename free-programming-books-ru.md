@@ -59,6 +59,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [Smalltalk](#smalltalk)
 * [SQL](#sql)
   * [PostgreSQL](#postgresql)
@@ -79,6 +80,7 @@
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
+* [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp-ru-screen.pdf) - Гарольд Абельсон, Джералд Джей Сассман (PDF)
 * [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) - Святослав Куликов (PDF)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
 
@@ -117,7 +119,7 @@
 
 ### Assembly
 
-* [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
+* [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C) - Викиучебник
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) - Андрей Столяров (PDF)
@@ -135,7 +137,7 @@
 * [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
 * [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html) - Романов Е.Л.
-* [Язык Си в примерах](http://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
+* [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах) - Викиучебник
 
 
 ### C Sharp
@@ -149,7 +151,7 @@
 
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
 * [Введение в язык Си++](http://stolyarov.info/books/cppintro) - Андрей Столяров (PDF)
-* [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
+* [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс) - Викиучебник
 * [Руководство по языку программирования C++](https://metanit.com/cpp/tutorial) - Евгений Попов
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
 * [Уроки по OpenGL 3](https://code.google.com/archive/p/gl33lessons/) - Гуревич Артём
@@ -205,6 +207,7 @@
 * [О Haskell по-человечески](https://www.ohaskell.guide) - Денис Шевченко
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
 * [Язык и библиотеки Haskell 98](http://www.haskell.ru) - Simon Peyton Jones
+* [Язык программирования Haskell: Учимся быть ленивыми](https://github.com/Number571/Haskell/tree/master/Book) - Г. Коваленко
 
 
 ### HTML / CSS
@@ -386,6 +389,7 @@
 
 * [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way)
 * [Руководство по PHP](http://docs.php.net/manual/ru)
+* [Руководство по PHPUnit](https://phpunit.readthedocs.io/ru/latest/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher)
 
 
@@ -418,7 +422,7 @@
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
 * [Самоучитель Python](https://pythonworld.ru/samouchitel-python) (PDF)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython) - Swaroop C H
-* [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
+* [Учебник Python 2.6](https://ru.wikibooks.org/wiki/Учебник_Python_2.6) - Викиучебник
 
 
 #### Django
@@ -477,6 +481,11 @@
 
 * [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads)
 * [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads)
+
+
+### Scratch
+
+* [Креативное программирование](https://www.dropbox.com/s/qsthpk5r6gqmi6u/CreativeComputing_RUS_june2016.pdf?dl=0) (PDF)
 
 
 ### Smalltalk

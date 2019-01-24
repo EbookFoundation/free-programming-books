@@ -37,6 +37,7 @@
 * [Ruby](#ruby)
 * [Sage](#sage)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [SPIP](#spip)
 * [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
@@ -201,11 +202,6 @@
 * [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
 
 
-### OCaml
-
-* [Apprendre à programmer avec OCaml](http://programmer-avec-ocaml.lri.fr)
-
-
 ### Perl
 
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html) - Sylvain Lhullier
@@ -260,6 +256,11 @@
 ### Scilab
 
 * [Introduction à Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/) - Michaël Baudin, Artem Glebov, Jérome Briot
+
+
+### Scratch
+
+* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/)
 
 
 ### SPIP

@@ -2,12 +2,12 @@
 
 * [0 - Meta-Listas](#0---meta-listas)
 * [1 - Agnósticos](#1---agn&#x00F3;sticos)
-  * [Algoritmos y Estructuras de Datos](#algoritmos)
+  * [Algoritmos y Estructuras de Datos](#algoritmos-y-estructuras-de-datos)
   * [Base de Datos](#base-de-datos)
   * [Ciencia Computacional](#ciencia-computacional)
-  * [Cursos Masivos en Línea](#cursos-masivos-en-L&#x00ED;nea)
+  * [Cursos Masivos en Línea](#cursos-masivos-en-l&#x00ED;nea)
   * [Metodologías de desarrollo de software](#metodolog&#x00ED;as-de-desarrollo-de-software)
-  * [Misceláneos](#miscel&#x00ED;neos)
+  * [Misceláneos](#miscel&#x00E1;neos)
   * [Paradigmas de Programación](#paradigmas-de-programaci&#x00F3;n)
   * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
@@ -27,12 +27,14 @@
   * [D3](#d3js)
   * [jQuery](#jquery)
   * [node.js](#nodejs)
+  * [React](#react)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
   * [MongoDB](#mongodb)
 * [Perl](#perl)
+* [Perl 6 / Raku](#perl-6--raku)
 * [PHP](#php)
 * [Python](#python)
   * [Django](#django)
@@ -41,7 +43,9 @@
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
 * [Scala](#scala)
+* [Scratch](#scratch)
 * [SQL](#sql)
+* [Subversion](#subversion)
 * [SVG](#svg)
 
 
@@ -59,7 +63,7 @@
 
 ### 1 - Agnósticos
 
-#### Algoritmos
+#### Algoritmos y Estructuras de Datos
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) (PDF)
@@ -149,7 +153,7 @@
 
 ### Erlang
 
-* [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) (WikiLibros)
+* [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) - WikiLibros
 
 
 ### Emacs
@@ -189,6 +193,7 @@
 ### Java
 
 * [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) (PDF)
+* [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) -David Pérez Cabrera (PDF)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) (PDF)
 * [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - F.M. Pérez Montes (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java (2004)](http://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona (PDF)
@@ -233,6 +238,11 @@
 * [Introducción a Node.js a través de Koans](http://nodejskoans.com)
 
 
+#### React
+
+* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) (PDF, EPUB, MOBI)
+
+
 ### LaTeX
 
 * [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf) (PDF)
@@ -242,7 +252,7 @@
 
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
 * [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) (descarga directa)
-* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) (WikiLibros)
+* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
 * [El manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now/)
 
 
@@ -266,7 +276,7 @@
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) (HTML)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP) (Bubok)
 * [Programación web avanzada: ajax y google maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) (PDF)
-* [Silex, el manual oficial](http://librosweb.es/libro/silex) (HTML) 
+* [Silex, el manual oficial](http://librosweb.es/libro/silex) (HTML)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
 * [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
 
@@ -276,6 +286,11 @@
 * [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) (PDF)
 * [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) (PDF)
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/) (HTML)
+
+
+### Perl 6 / Raku
+
+* [Piensa en Perl 6](https://uzluisf.gitlab.io/piensaperl6/) (PDF)
 
 
 ### Python
@@ -333,10 +348,20 @@
 * [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) *(:construction: En proceso)*
 
 
+### Scratch
+
+* [Informática Creativa](https://github.com/programamos/GuiaScratch) (PDF)
+
+
 ### SQL
 
 * [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html) (HTML)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/) (HTML)
+
+
+### Subversion
+
+* [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) (HTML)
 
 
 ### SVG

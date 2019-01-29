@@ -14,6 +14,7 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
+* [Java](#java)
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
   * [Elm](#elm)
@@ -123,6 +124,11 @@
 ### Haskell
 
 * [The Haskell Cast](http://www.haskellcast.com) (podcast)
+
+
+### Java
+
+* [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
 
 
 ### Javascript

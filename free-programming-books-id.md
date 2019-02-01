@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [Emacs](#emacs)
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)
@@ -12,6 +13,11 @@
 ### Android
 
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
+
+
+### Emacs
+
+* [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
 
 
 ### Git

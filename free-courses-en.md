@@ -10,7 +10,7 @@
 * [Clojure](#clojure)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
-* [Data Science](#datascience)
+* [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
 * [Git](#git)

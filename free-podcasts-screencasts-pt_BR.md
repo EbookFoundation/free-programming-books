@@ -1,5 +1,6 @@
 ### Index
 
+* [Algoritmos](#algoritmos)
 * [Angular](#angular)
 * [Databases](#databases)
 * [DataScience](#datascience)
@@ -11,6 +12,11 @@
 * [Python](#python)
 * [TypeScript](#typescript)
 * [Vue.js](#vuejs)
+
+
+### Algoritmos
+
+* [Curso em Vídeo - Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) (screencast)
 
 
 ### Angular

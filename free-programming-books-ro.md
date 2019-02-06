@@ -12,7 +12,7 @@
 * [Ajax](http://etutoriale.ro/articles/1483/1/Tutorial-Ajax/)
 
 
-### HMTL
+### HTML
 
 * [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
 

@@ -630,6 +630,7 @@
 * [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Prof. Stewart Weiss (PDF)
 * [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
+* [Operating system Concepts](http://materias.fi.uba.ar/7508/OSC9/Abraham%20Silberschatz-Operating%20System%20Concepts%20%289th,2012.12%29.pdf)
 
 
 #### Parallel Programming

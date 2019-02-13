@@ -41,7 +41,7 @@
 
 ### CSS
 
-* [CodePen](http://codepen.io)
+* [CodePen](https://codepen.io)
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
@@ -69,7 +69,7 @@
 
 ### JavaScript
 
-* [CodePen](http://codepen.io)
+* [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io) (_React_)
 * [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)

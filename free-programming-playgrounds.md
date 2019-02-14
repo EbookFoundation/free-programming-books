@@ -79,7 +79,7 @@
 
 ### Kotlin
 
-* [Try Kotlin](https://try.kotlinlang.org)
+* [Kotlin](https://try.kotlinlang.org)
 
 
 ### <a name="dotnet"></a>.NET

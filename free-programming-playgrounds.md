@@ -22,6 +22,7 @@
 * [Scala](#scala)
 * [SQL](#sql)
 * [Swift](#swift)
+* [TypeScript](#typescript)
 
 
 ### Angular
@@ -146,3 +147,8 @@
 ### Swift
 
 * [Online Swift Playground](http://online.swiftplayground.run)
+
+
+### TypeScript
+
+* [Playground](https://www.typescriptlang.org/play/index.html)

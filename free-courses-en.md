@@ -233,6 +233,11 @@
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 
 
+#### p5.js
+
+* [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
+
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)

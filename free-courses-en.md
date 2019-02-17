@@ -22,7 +22,7 @@
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [jQuery](#jquery)
-  * [p5.js](#p5.js)
+  * [p5.js](#p5js)
   * [React](#react)
   * [Redux](#redux)
   * [Sails.js](#sailsjs)

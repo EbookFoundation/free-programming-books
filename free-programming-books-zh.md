@@ -72,11 +72,11 @@
   * [Scratch](#scratch)
   * [Shell](#shell)
   * [Swift](#swift)
+  * [TypeScript](#typescript)
   * [VBA](#vba-microsoft-visual-basic-applications)
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
   * [WebAssembly](#webassembly)
-  * [TypeScript](#typescript)
 
 
 ## 语言无关
@@ -721,6 +721,14 @@
 * [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
 
 
+### TypeScript
+
+* [TypeScript 英文官网](https://www.typescriptlang.org)
+* [TypeScript 中文网](https://www.tslang.cn)
+* [TypeScript 入门教程](https://www.runoob.com/w3cnote/getting-started-with-typescript.html)
+* [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese)
+
+
 ### VBA (Microsoft Visual Basic Applications)
 
 * [简明Excel VBA](https://github.com/Youchien/concise-excel-vba)
@@ -741,11 +749,3 @@
 ### WebAssembly
 
 * [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book)
-
-
-### TypeScript
-
-* [TypeScript 英文官网](https://www.typescriptlang.org)
-* [TypeScript 中文网](https://www.tslang.cn)
-* [TypeScript 入门教程](http://www.runoob.com/w3cnote/getting-started-with-typescript.html)
-* [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese)

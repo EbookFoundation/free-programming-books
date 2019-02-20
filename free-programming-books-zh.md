@@ -724,8 +724,8 @@
 ### TypeScript
 
 * [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese)
-* [TypeScript 入门教程](https://www.runoob.com/w3cnote/getting-started-with-typescript.html)
 * [TypeScript 中文网](https://www.tslang.cn)
+* [TypeScript 入门教程](https://www.runoob.com/w3cnote/getting-started-with-typescript.html)
 * [TypeScript 英文官网](https://www.typescriptlang.org)
 
 

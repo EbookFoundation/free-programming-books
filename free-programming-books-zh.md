@@ -164,7 +164,7 @@
 
 ### 操作系统
 
-* [Debian 参考手册 ](http://man.chinaunix.net/linux/debian/reference/reference.zh-cn.html)
+* [Debian 参考手册](http://man.chinaunix.net/linux/debian/reference/reference.zh-cn.html)
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
 * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
@@ -177,7 +177,7 @@
 * [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
-* [Ubuntu 参考手册 ](http://wiki.ubuntu.org.cn/UbuntuManual)
+* [Ubuntu 参考手册](http://wiki.ubuntu.org.cn/UbuntuManual)
 * [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
@@ -222,6 +222,7 @@
 * [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
 * [Pro Git](https://git-scm.com/book/zh/v2)
 * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
+* [Pro Git 第二版 中文版](https://bingohuang.gitbooks.io/progit2/content) - Bingo Huang
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 * [学习 Git 分支](http://pcottle.github.io/learnGitBranching/) (点击右下角按钮可切换至简体及正体中文)
 * [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
@@ -328,7 +329,7 @@
 
 ### C Sharp
 
-* [精通C#(第6版) ](http://book.douban.com/subject/24827879/)
+* [精通C#(第6版)](http://book.douban.com/subject/24827879/)
 
 
 ### C++
@@ -455,6 +456,7 @@
 * [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 * [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
 * [Java 编码规范](https://github.com/waylau/java-code-conventions)
+* [Java 编程思想](https://java.quanke.name) - quanke
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
 * [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
@@ -708,6 +710,7 @@
 
 * [shell-book](http://me.52fhy.com/shell-book/)
 * [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+* [Shell 编程范例](https://tinylab.gitbooks.io/shellbook/content) - 泰晓科技
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [The Linux Command Line 中文版](http://billie66.github.io/TLCL/book/)
 

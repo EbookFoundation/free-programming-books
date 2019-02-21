@@ -1,7 +1,7 @@
 ### Index
 
 * [Ajax](#ajax)
-* [HTML](#hmtl)
+* [HTML](#html)
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Scratch](#scratch)

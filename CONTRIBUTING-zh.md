@@ -6,8 +6,8 @@
 
 ## 概要
 1. "轻易可以下载一本书的链接" 通常都不是 *免费* 书籍的链接。 请只提供免费内容。 确信你所提供的书籍是免费的。我们不接受指向*需要*工作电子邮件地址才能获取书籍的页面的链接，但我们欢迎有需求它们的列表。
-2. 如果你不够了解git：当你发现了一些有趣的东西 *尚未出现在本仓库* 中，请开一个issue主题讨论。
-    - 如果了解git，请Fork本仓库并提交PR。
+2. 如果你不够了解Git：当你发现了一些有趣的东西 *尚未出现在本仓库* 中，请开一个[Issue](https://github.com/EbookFoundation/free-programming-books/issues)主题讨论。
+    - 如果你了解Git，请Fork本仓库并提交PR。
 3. 这里有5种列表，请选择正确的一个:
 
     - *Books* : PDF、HTML、ePub、基于一个 gitbook.io的站点、一个Git仓库等等。
@@ -59,60 +59,61 @@
 举例：
 
     [...]
-    * [An Awesome Book](http://example.com/example.html)
-                                    (blank line)
-                                    (blank line)
+    * [一本很有用的书](http://example.com/example.html)
+                                    (空行)
+                                    (空行)
     ### Example
-                                    (blank line)
-    * [Another Awesome Book](http://example.com/book.html)
-    * [Some Other Book](http://example.com/other.html)
+                                    (空行)
+    * [Another 很有用的书](http://example.com/book.html)
+    * [Other 有用的书](http://example.com/other.html)
 
-- Don't put spaces between `]` and `(`
-
-```
-BAD : * [Another Awesome Book] (http://example.com/book.html)
-GOOD: * [Another Awesome Book](http://example.com/book.html)
-```
-
-- If you include the author, use ` - ` (a dash surrounded by single spaces)
+- 在 `]` 和 `(` 之间不要留有空格：
 
 ```
-BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
-GOOD: * [Another Awesome Book](http://example.com/book.html) - John Doe
+错误：* [一本很有用的书] (http://example.com/book.html)
+正确：* [一本很有用的书](http://example.com/book.html)
 ```
 
-- Put a single space between the link and its format
+- 如果包括作者，请使用' - '(由单个空格包围的破折号)：
 
 ```
-BAD : * [A Very Awesome Book](https://example.org/book.pdf)(PDF)
-GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
+错误：* [一本很有用的书](http://example.com/book.html)- 陶渊明
+正确：* [一本很有用的书](http://example.com/book.html) - 陶渊明
 ```
 
-- Author comes before format:
+- 在链接和电子书格式之间放一个空格：
 
 ```
-BAD : * [A Very Awesome Book](https://example.org/book.pdf)- Jane Roe
-GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
+错误：* [一本很有用的书](https://example.org/book.pdf)(PDF)
+正确：* [一本很有用的书](https://example.org/book.pdf) (PDF)
 ```
 
-- Multiple formats:
+- 作者在电子书格式之前：
 
 ```
-BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
-BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
-GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+错误：* [一本很有用的书](https://example.org/book.pdf)- (PDF) 陶渊明
+正确：* [一本很有用的书](https://example.org/book.pdf) - 陶渊明 (PDF)
 ```
 
-- Include publication year in title for older books:
+- 多重格式：
 
 ```
-BAD: * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
-GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
+错误：* [一本很有用的书](http://example.com/)- 陶渊明 (HTML)
+错误：* [一本很有用的书](https://downloads.example.org/book.html)- 陶渊明 (download site)
+正确：* [一本很有用的书](http://example.com/) - 陶渊明 (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+```
+
+- 在旧书的标题中包括出版年份：
+
+```
+错误：* [一本很有用的书](https://example.org/book.html) - 陶渊明 - 1970
+正确：* [一本很有用的书 (1970)](https://example.org/book.html) - 陶渊明
 ```
 
 <a name="in_process"></a>
-- In-process books
+- 编写(翻译)中的书籍
 
 ```
-GOOD: * [Will Be Awesome Soon Book](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+正确：* [马上出版的一本书](http://example.com/book2.html) - 陶渊明 (HTML) (:编著状态: *编写中*)
+正确：* [马上出版的一本书](http://example.com/book2.html) - 陶渊明 (HTML) (:编著状态: *翻译中*)
 ```

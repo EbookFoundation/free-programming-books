@@ -79,8 +79,8 @@
 - 如果包括作者，请使用' - '(由单个空格包围的破折号)：
 
 ```
-错误：* [一本很有用的书](http://example.com/book.html)- 陶渊明
-正确：* [一本很有用的书](http://example.com/book.html) - 陶渊明
+错误：* [一本很有用的书](http://example.com/book.html)- 张显宗
+正确：* [一本很有用的书](http://example.com/book.html) - 张显宗
 ```
 
 - 在链接和电子书格式之间放一个空格：
@@ -93,29 +93,29 @@
 - 作者在电子书格式之前：
 
 ```
-错误：* [一本很有用的书](https://example.org/book.pdf)- (PDF) 陶渊明
-正确：* [一本很有用的书](https://example.org/book.pdf) - 陶渊明 (PDF)
+错误：* [一本很有用的书](https://example.org/book.pdf)- (PDF) 张显宗
+正确：* [一本很有用的书](https://example.org/book.pdf) - 张显宗 (PDF)
 ```
 
 - 多重格式：
 
 ```
-错误：* [一本很有用的书](http://example.com/)- 陶渊明 (HTML)
-错误：* [一本很有用的书](https://downloads.example.org/book.html)- 陶渊明 (download site)
-正确：* [一本很有用的书](http://example.com/) - 陶渊明 (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+错误：* [一本很有用的书](http://example.com/)- 张显宗 (HTML)
+错误：* [一本很有用的书](https://downloads.example.org/book.html)- 张显宗 (download site)
+正确：* [一本很有用的书](http://example.com/) - 张显宗 (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
 ```
 
 - 在旧书的标题中包括出版年份：
 
 ```
-错误：* [一本很有用的书](https://example.org/book.html) - 陶渊明 - 1970
-正确：* [一本很有用的书 (1970)](https://example.org/book.html) - 陶渊明
+错误：* [一本很有用的书](https://example.org/book.html) - 张显宗 - 1970
+正确：* [一本很有用的书 (1970)](https://example.org/book.html) - 张显宗
 ```
 
 <a name="in_process"></a>
 - 编写(翻译)中的书籍
 
 ```
-正确：* [马上出版的一本书](http://example.com/book2.html) - 陶渊明 (HTML) (:编著状态: *编写中*)
-正确：* [马上出版的一本书](http://example.com/book2.html) - 陶渊明 (HTML) (:编著状态: *翻译中*)
+正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:编著状态: *编写中*)
+正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:编著状态: *翻译中*)
 ```

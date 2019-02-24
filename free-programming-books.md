@@ -585,6 +585,7 @@
 * [High-Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
 * [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) (email address *requested*, not required)
 * [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
+* [IPv6 for IPv4 Experts](https://sites.google.com/site/yartikhiy/home/ipv6book) - Yar Tikhiy (PDF)
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)

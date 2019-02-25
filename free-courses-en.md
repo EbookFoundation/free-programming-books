@@ -10,7 +10,7 @@
 * [Clojure](#clojure)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
-* [Data Science](#datascience)
+* [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
 * [Git](#git)
@@ -149,7 +149,7 @@
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
-* [Self-Paced Courses for Deep Learning ](https://developer.nvidia.com/deep-learning-courses)
+* [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 
@@ -258,6 +258,8 @@
 
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
+* [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
@@ -286,7 +288,7 @@
 * [Embedded Software Safety](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) (P. Koopman)
 * [FindLectures.com](https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
-* [LouvainX Paradigms of Computer Programming – Fundamentals ](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
+* [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
 * [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)

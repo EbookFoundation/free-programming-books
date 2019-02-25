@@ -1,7 +1,7 @@
 ### Index
 
 * [Ajax](#ajax)
-* [HTML](#hmtl)
+* [HTML](#html)
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Scratch](#scratch)
@@ -12,7 +12,7 @@
 * [Ajax](http://etutoriale.ro/articles/1483/1/Tutorial-Ajax/)
 
 
-### HMTL
+### HTML
 
 * [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
 

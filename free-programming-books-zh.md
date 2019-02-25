@@ -72,6 +72,7 @@
   * [Scratch](#scratch)
   * [Shell](#shell)
   * [Swift](#swift)
+  * [TypeScript](#typescript)
   * [VBA](#vba-microsoft-visual-basic-applications)
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
@@ -718,6 +719,13 @@
 ### Swift
 
 * [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
+
+
+### TypeScript
+
+* [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese)
+* [TypeScript 中文网](https://www.tslang.cn)
+* [TypeScript 入门教程](https://www.runoob.com/w3cnote/getting-started-with-typescript.html)
 
 
 ### VBA (Microsoft Visual Basic Applications)

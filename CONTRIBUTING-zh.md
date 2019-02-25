@@ -68,14 +68,16 @@
 * `1` ：每个`.md`文件末尾必须留有`1`个空行
 举例：
 
-    [...]
-    * [一本很有用的书](http://example.com/example.html)
-                                    (空行)
-                                    (空行)
-    ### Example
-                                    (空行)
-    * [Another 很有用的书](http://example.com/book.html)
-    * [Other 有用的书](http://example.com/other.html)
+```md
+[...]
+* [一本很有用的书](http://example.com/example.html)
+                                (空行)
+                                (空行)
+### Example
+                                (空行)
+* [Another 很有用的书](http://example.com/book.html)
+* [Other 有用的书](http://example.com/other.html)
+```
 
 * 在 `]` 和 `(` 之间不要留有空格：
 

@@ -7,7 +7,6 @@
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Erlang](#erlang)
-* [F#](#f-sharp)
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
@@ -70,11 +69,6 @@
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)
-
-
-### F Sharp
-
-* [Try F#](http://www.tryfsharp.org)
 
 
 ### Git

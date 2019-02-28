@@ -128,6 +128,7 @@
 错误：* [一本很有用的书](https://example.org/book.pdf) - 张显宗，岳绮罗
 正确：* [一本很有用的书](https://example.org/book.pdf) - 张显宗、岳绮罗(翻译)
 正确：* [一本很有用的书](https://example.org/book.pdf) - 张显宗、岳绮罗、顾玄武、出尘子 等
+```
 
 * 在旧书的标题中包括出版年份：
 

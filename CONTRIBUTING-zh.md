@@ -14,8 +14,8 @@
 ## 概要
 
 1. "轻易可以下载一本书的链接" 通常都不是 *免费* 书籍的链接。 请只提供免费内容。 确信你所提供的书籍是免费的。我们不接受指向*需要*工作电子邮件地址才能获取书籍的页面的链接，但我们欢迎有需求它们的列表。
-2. 如果你不够了解Git：当你发现了一些有趣的东西 *尚未出现在本仓库* 中，请开一个[Issue](https://github.com/EbookFoundation/free-programming-books/issues)主题讨论。
-    * 如果你了解Git，请Fork本仓库并提交PR。
+2. 当你在不够了解Git的时候发现了一些有趣的东西 *尚未出现在本仓库* 中，请开一个[Issue](https://github.com/EbookFoundation/free-programming-books/issues)进行主题讨论。
+    * 如果你已经知晓Git，请Fork本仓库并提交PR。
 3. 这里有5种列表，请选择正确的一个：
 
     * *Books* ：PDF、HTML、ePub、基于一个 gitbook.io的站点、一个Git仓库等等。
@@ -53,7 +53,7 @@
 * 如果一本书比较旧，请在书名中注明出版日期。
 * 包含作者的名字或适当的名字。中文版本可以用 “等” 缩短作者列表。
 * 如果一本书还没有完成，并且仍在编写中，则需添加 “编写中” 符号，参见[下文](#in_process)所述。
-* 如果在开始下载之前需要电子邮件地址或帐户设置，请在括号中添加合适的语言描述，例如：`(email address *requested*, not required)`。
+* 如果在开始下载之前需要电子邮件地址或帐户设置，请在括号中添加合适的语言描述，例如：`(*需要*电子邮件，但不是必须的)`。
 
 
 ### 规定格式
@@ -78,7 +78,7 @@
 * [一本很有用的书](http://example.com/example.html)
                                 (空行)
                                 (空行)
-### Example
+### 电子书种类标题
                                 (空行)
 * [Another 很有用的书](http://example.com/book.html)
 * [Other 有用的书](http://example.com/other.html)

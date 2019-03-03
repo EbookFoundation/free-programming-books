@@ -63,7 +63,7 @@
  * [Grok Podcast](http://www.grokpodcast.com) (podcast)
  * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
  * [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
- * [NerdTech](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
+ * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
  * [PODebug](http://www.podebug.com) (podcast)
  * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
 

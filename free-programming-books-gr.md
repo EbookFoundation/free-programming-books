@@ -3,6 +3,7 @@
 * [C++](#c++)
 * [Java](#java)
 * [Python](#python)
+* [Scala](#scala)
 * [SQL](#sql)
 
 
@@ -22,6 +23,11 @@
 ### Python
 
 * [Ένα byte της Python](https://archive.org/details/AByteOfPythonEl)
+
+
+### Scala
+
+* [Creative Scala](https://github.com/mrdimosthenis/creative-scala) (EPUB, HTML, PDF)
 
 
 ### SQL

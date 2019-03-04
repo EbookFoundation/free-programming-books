@@ -88,7 +88,6 @@
 
 ### HTML / CSS
 
-* [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br)
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
@@ -134,7 +133,7 @@
 
 #### Ember.js
 
-* [Conceitos basicos do Ember.js ](http://fabriciotav.org/blog/2013/02/20/conceitos-basicos-do-emberjs.html)
+* [Conceitos basicos do Ember.js](http://fabriciotav.org/blog/2013/02/20/conceitos-basicos-do-emberjs.html)
 * [Handlebars Helpers com Ember.js](http://fabriciotav.org/blog/2013/02/20/handlebars-helpers-com-emberjs.html)
 
 
@@ -145,7 +144,6 @@
 
 #### Grunt
 
-* [Grunt - Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 * [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
 * [Grunt | Automatizando tarefas](http://woliveiras.com.br/posts/grunt-automatizando-tarefas/)
 
@@ -180,6 +178,7 @@
 #### React
 
 * [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
+* [The Road to Learn React](https://leanpub.com/the-road-to-learn-react-portuguese) *(necessário conta no Leanpub ou e-mail válido)*
 
 
 #### Vue.js
@@ -231,7 +230,7 @@
 
 #### Django
 
-* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/) (1.11) (HTML) (:construction: *in process*)
+* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
 
 ### RegEx
@@ -251,7 +250,7 @@
 ### Shell
 
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
-* [Pequena introdução ao linux e ao Shell Script ](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
+* [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
 
 

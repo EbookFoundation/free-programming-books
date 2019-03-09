@@ -66,6 +66,7 @@
  * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
  * [PODebug](http://www.podebug.com) (podcast)
  * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
+ * [Screencasts - Andre Baltieri](https://www.youtube.com/playlist?list=PLTMuY7ptzFISwigIWpZQtp6b0TuEEvqLC) (screencast)
 
 
 ### PHP

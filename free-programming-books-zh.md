@@ -225,7 +225,7 @@
 * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
 * [Pro Git 第二版 中文版](https://bingohuang.gitbooks.io/progit2/content) - Bingo Huang
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
-* [学习 Git 分支](http://pcottle.github.io/learnGitBranching/)
+* [学习 Git 分支](https://learngitbranching.js.org)
 * [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 
@@ -248,7 +248,7 @@
 ### 编程艺术
 
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)<!--死链，等待删除-->
-* [每个程序员都应该了解的内存知识 (第一部分)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)
+* [每个程序员都应该了解的内存知识 (第一部分)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [编程入门指南](http://www.kancloud.cn/kancloud/intro-to-prog/52592)
 
@@ -466,7 +466,7 @@
 * [Nutz-book Nutz烹调向导](http://nutzbook.wendal.net)
 * [Nutz文档](https://nutzam.com/core/nutz_preface.html)
 * [REST 实战](https://github.com/waylau/rest-in-action)
-* [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (:编著状态: *翻译中*)
+* [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (:construction: *翻译中*)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 
@@ -482,7 +482,7 @@
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) (《JavaScript patterns》译本)
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已出版发行，但作者依然提供免费PDF版本，希望开发者们去购买，支持作者)
+* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
 * [Javascript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
 * [你不知道的Javascript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、[为之漫笔](http://www.cn-cuckoo.com)(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)

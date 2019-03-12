@@ -30,7 +30,6 @@
 
 ### Python
 
-* [از این پس پایتون](http://www.aviny.com/learning/pdf-learning/92-04-05/from-now-python/from-now-python.pdf) (PDF)
 * [کتاب آزاد آموزش پایتون](http://python.coderz.ir)
 
 

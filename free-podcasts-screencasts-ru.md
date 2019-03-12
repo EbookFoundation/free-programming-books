@@ -1,62 +1,106 @@
 ### Index
 
-* [Bash](#bash)
-* [C](#c)
+* [Android](#android)
 * [Golang](#golang)
-* [Java](#java)
+* [Gulp](#gulp)
+* [Haskell](#haskell)
 * [Javascript](#javascript)
-  * [Node.js](#nodejs)
-* [Python](#python)
+* [Node.js](#nodejs)
+* [PHP](#php)
+* [QA](#qa)
+* [React.js](#reactjs)
 * [Ruby](#ruby)
-  * [Rails](#rails)
 * [Webpack](#webpack)
+* [Информационные технологии и безопасность](#Информационные-технологии-и-безопасность)
+* [Новости и Разработка ПО](#Новости-и-Разработка-ПО)
 
 
-### C
+### Android
 
-* [Screencast] - [Введение в Си](https://ru.hexlet.io/courses/introduction_to_c) - Hexlet
-
-
-### Bash
-
-* [Screencast] - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash) - Hexlet
+* [Android Dev](http://apptractor.ru/AndroidDev) (Podcast)
 
 
 ### Golang
 
-* [Podcast] - [GolangShow](https://golangshow.com)
+* [GolangShow](https://golangshow.com) (Podcast)
 
 
-### Java
+### Gulp
 
-* [Screencast] - [Введение в программирование на языке Java и с Java EE](https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW) - Yakov Fain
-* [Screencast] - [Java. Базовый курс - Stepic](https://stepic.org/course/Java-%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%83%D1%80%D1%81-187)
+* [Скринкаст по Gulp](http://learn.javascript.ru/screencast/gulp) - Илья Кантор (Screencast)
+
+
+### Haskell
+
+* [Бананы и Линзы](https://bananasandlenses.net)
 
 
 ### Javascript
 
-* [Podcast] - [Frontflip Podcast](http://frontflip.me)
-* [Podcast] - [RadioJS Podcast](http://radiojs.ru)
-* [Screencast] - [Javascript для начинающих](http://www.magisters.org/education/course/js-for-beginners)
+* [Devschacht](https://soundcloud.com/devschacht) (Podcast)
+* [Frontflip](http://frontflip.me) (Podcast)
+* [Javascript для начинающих](http://www.magisters.org/education/course/js-for-beginners) (Screencast)
+* [RadioJS](http://radiojs.ru) (Podcast)
+* [Webstandards](https://soundcloud.com/web-standards) (Podcast)
 
 
-#### Node.js
+### Node.js
 
-* [Screencast] - [Скринкаст Node.JS](https://learn.javascript.ru/screencast/nodejs) - Илья Кантор
+* [Скринкаст Node.JS](https://learn.javascript.ru/screencast/nodejs) - Илья Кантор (Screencast)
 
 
-### Python
+### PHP
 
-* [Screencast] - [Программирование на Python - Stepic](https://stepic.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67)
+* [Пятиминутка PHP](http://5minphp.ru) (Podcast)
+
+
+### QA
+
+* [QAGuild](http://automation-remarks.com/podcast) (Podcast)
+* [Подкаст тестировщиков](http://radio-qa.com) (Podcast)
+
+
+### React.js
+
+* [Основы React.js](http://learn.javascript.ru/screencast/react) - Роман Якобчук (Screencast)
+* [Пятиминутка React](http://5minreact.ru) (Podcast)
 
 
 ### Ruby
 
-* [Podcast] - [RWPod Podcast](http://rwpod.com)
-* [Podcast] - [RubyNoName Podcast](http://rubynoname.ru)
-* [Screencast] - [RubySchool (Ruby, Rails)](http://rubyschool.us) - Роман Пушкин
+* [RubyNoName Podcast](http://rubynoname.ru) (Podcast)
+* [RubySchool (Ruby, Rails)](http://rubyschool.us) - Роман Пушкин (Screencast)
+* [RWPod Podcast](http://rwpod.com) (Podcast)
+
+
+### Scala
+
+* [Русскоязычный подкаст о Scala](https://scalalaz.ru) (Podcast)
 
 
 ### Webpack
 
-* [Screencast] - [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор
+* [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)
+
+
+### Информационные технологии и безопасность
+
+* [LinkMeUp](http://linkmeup.ru) (Podcast)
+* [Noise Security Bit](https://noisebit.podster.fm) (Podcast)
+* [uWebDesign](https://uwebdesign.ru) (Podcast)
+* [Квант безопасности](https://soundcloud.com/nikita-remezov) (Podcast)
+
+
+### Новости и Разработка ПО
+
+* [CTOcast](http://ctocast.com) (Podcast)
+* [DevZen Podcast](https://devzen.ru) (Podcast)
+* [Software Development podCAST](https://sdcast.ksdaemon.ru) (Podcast)
+* [The Art Of Programming](https://theartofprogramming.podbean.com) (Podcast)
+* [Две Столицы - Уютный подкаст IT панков](http://www.2capitals.space) (Podcast)
+* [Как делают игры](https://kdicast.com) (Podcast)
+* [Радио-Т](https://radio-t.com) (Podcast)
+* [Разбор полётов](http://razbor-poletov.com) (Podcast)
+* [Развлекательный IT подкаст](http://radioma.org) (Podcast)
+* [Слава + Паша](https://it.asm0dey.ru) (Podcast)
+

@@ -1,9 +1,10 @@
 ### Index
 
 * [Ajax](#ajax)
-* [HTML](#hmtl)
+* [HTML](#html)
 * [MySQL](#mysql)
 * [PHP](#php)
+* [Scratch](#scratch)
 
 
 ### Ajax
@@ -11,7 +12,7 @@
 * [Ajax](http://etutoriale.ro/articles/1483/1/Tutorial-Ajax/)
 
 
-### HMTL
+### HTML
 
 * [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
 
@@ -24,3 +25,8 @@
 ### PHP
 
 * [PHP](http://php.punctsivirgula.ro)
+
+
+### Scratch
+
+* [Informatica Creativa](http://scratched.gse.harvard.edu/resources/informatica-creativa-0)

@@ -37,7 +37,7 @@
 
 ### HTML / CSS
 
-* [Curso de HTML5 em vídeo do Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) (screencast)
+* [Curso em Vídeo - HTML5, CSS3 e JavaScript](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) (screencast)
 
 
 ### iOS
@@ -63,9 +63,10 @@
  * [Grok Podcast](http://www.grokpodcast.com) (podcast)
  * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
  * [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
- * [NerdTech](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
+ * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
  * [PODebug](http://www.podebug.com) (podcast)
  * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
+ * [Screencasts - Andre Baltieri](https://www.youtube.com/playlist?list=PLTMuY7ptzFISwigIWpZQtp6b0TuEEvqLC) (screencast)
 
 
 ### PHP

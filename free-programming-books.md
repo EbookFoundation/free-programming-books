@@ -1307,6 +1307,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html) -  Simon Marlow
 * [Real World Haskell](http://book.realworldhaskell.org)
 * [Speeding Through Haskell](http://www.sthaskell.com)
+* [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) (PDF, online) - Stephen Diehl
 * [Wise Man's Haskell](https://anchpop.github.io/wise_mans_haskell/) - Andre Popovitch
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
 

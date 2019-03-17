@@ -247,7 +247,6 @@
 
 ### 编程艺术
 
-* [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)<!--死链，等待删除-->
 * [每个程序员都应该了解的内存知识 (第一部分)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [编程入门指南](http://www.kancloud.cn/kancloud/intro-to-prog/52592)
@@ -292,7 +291,6 @@
 * [Joel谈软件](https://web.archive.org/web/20170616013024/http://local.joelonsoftware.com/wiki/Chinese_(Simplified))
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
-* [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)<!--需要必要电子邮件和微博账号，等待删除-->
 * [約耳談軟體(Joel on Software)](https://web.archive.org/web/20170615232349/http://local.joelonsoftware.com/wiki/首頁) (繁体中文)
 * [编码规范](https://github.com/ecomfe/spec)
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
@@ -485,7 +483,7 @@
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
 * [Javascript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
 * [你不知道的Javascript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
-* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、[为之漫笔](http://www.cn-cuckoo.com)(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)
+* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、为之漫笔(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) - 开源中国
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 

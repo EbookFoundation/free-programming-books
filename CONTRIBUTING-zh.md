@@ -146,6 +146,6 @@
 * 编写(翻译)中的书籍：
 
 ```
-正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:编著状态: *编写中*)
-正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:编著状态: *翻译中*)
+正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *编写中*)
+正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *翻译中*)
 ```

@@ -7,6 +7,7 @@
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
   * [Outros](#outros)
 * [Git](#git)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)
@@ -79,6 +80,11 @@
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
 * [Pro Git](http://git-scm.com/book/pt-br/)
+
+
+### GO
+
+* [Go - hands on](https://github.com/go-br/estudos)
 
 
 ### Haskell

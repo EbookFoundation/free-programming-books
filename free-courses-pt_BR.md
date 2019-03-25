@@ -2,6 +2,7 @@
 
 * [Git](#git)
 * [Go](#go)
+* [Python](#python)
 * [Ruby](#ruby)
 
 
@@ -13,6 +14,11 @@
 ### Go
 
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
+
+
+### Python
+
+* [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
 
 
 ### Ruby

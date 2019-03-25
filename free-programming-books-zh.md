@@ -655,6 +655,7 @@
 #### Django
 
 * [Django Girls 教程 (1.11)](https://tutorial.djangogirls.org/zh/) (HTML)
+* [Django 搭建个人博客教程 (2.1)](https://www.dusaiphoto.com/article/detail/2) - (杜赛) (HTML)
 
 
 ### R

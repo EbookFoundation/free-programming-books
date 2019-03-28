@@ -3,6 +3,7 @@
 * [Android](#android)
 * [Git](#git)
 * [Go](#go)
+* [Haskell](#haskell)
 * [Python](#python)
 * [Ruby](#ruby)
 
@@ -20,6 +21,11 @@
 ### Go
 
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
+
+
+### Haskell
+
+* [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro (Udemy)
 
 
 ### Python

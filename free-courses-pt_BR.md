@@ -22,6 +22,7 @@
 ### Git
 
 * [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - Willian Justen de Vasconcellos (Udemy)
+* [Git para iniciantes](https://www.udemy.com/git-para-iniciantes/) - Ricardo Netto (Udemy)
 
 
 ### Go

@@ -5,6 +5,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
+* [Kotlin](#kotlin)
 * [Python](#python)
 * [Ruby](#ruby)
 
@@ -33,6 +34,11 @@
 ### Haskell
 
 * [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro (Udemy)
+
+
+### Kotlin
+
+* [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
 
 
 ### Python

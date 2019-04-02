@@ -5,6 +5,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
+* [Java](#java)
 * [Kotlin](#kotlin)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -34,6 +35,11 @@
 ### Haskell
 
 * [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro (Udemy)
+
+
+### Java
+
+* [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
 
 
 ### Kotlin

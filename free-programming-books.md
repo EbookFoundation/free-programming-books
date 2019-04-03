@@ -1682,9 +1682,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
 
+
 ### Kotlin
+
 * [Kotlin Notes for Professionals book](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
+
 
 ### LaTeX / TeX
 

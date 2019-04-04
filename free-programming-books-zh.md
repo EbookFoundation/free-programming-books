@@ -639,6 +639,11 @@
 
 ### Python
 
+* [Python 3.8.0a3中文文档](http://www.osgeo.cn/cpython/) - (目前在线最全的中文文档了，Online)
+* [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) - (Online)
+* [Matplotlib 3.0.3 中文文档](http://www.osgeo.cn/matplotlib/) - (Online)
+* [Django 2.2.1 中文文档](http://www.osgeo.cn/django/) - (这个很新，也很全，Online)
+* [Tonado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
 * [Django 1.11.6 中文文档](https://www.yiyibooks.cn/xx/Django_1.11.6/index.html)
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)

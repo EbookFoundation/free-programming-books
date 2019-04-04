@@ -7,6 +7,7 @@
 * [Haskell](#haskell)
 * [Java](#java)
 * [Kotlin](#kotlin)
+* [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
 
@@ -46,6 +47,11 @@
 ### Kotlin
 
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+
+
+### PHP
+
+* [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
 
 
 ### Python

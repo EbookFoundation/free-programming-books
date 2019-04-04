@@ -650,7 +650,7 @@
 * [Python 中文学习大本营](http://www.pythondoc.com)
 * [Python之旅](http://funhacks.net/explore-python) - Ethan
 * [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
-* [Tonado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
+* [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
 * [像计算机科学家一样思考Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) - Allen B. Downey、大胖哥(翻译)
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)

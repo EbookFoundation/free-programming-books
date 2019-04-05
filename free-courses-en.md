@@ -221,7 +221,6 @@
 * [learn:query](https://learnquery.infinum.co)
 
 
-
 #### Angular.js
 
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)

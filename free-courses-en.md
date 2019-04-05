@@ -218,6 +218,7 @@
 * [Egghead.io](https://egghead.io)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
+* [Intro to JavaScript ES6 programming](https://www.youtube.com/watch?v=muFql8Z4sCg&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 
 
 #### Angular.js

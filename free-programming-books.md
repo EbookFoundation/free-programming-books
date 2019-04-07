@@ -1768,6 +1768,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig (PDF, epub, markdown)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
+* [SOLID Design Principles in Common Lisp](https://common-lisp-reserve.github.io/solid-design-principles-in-common-lisp/solid-design-principles-in-common-lisp.pdf) - Momozor (PDF)
 * [Successful Lisp: How to Understand and Use Common Lisp](https://github.com/clojurians-org/lisp-ebook/blob/master/Successful%20Lisp%20How%20to%20Understand%20and%20Use%20Common%20Lisp%20-%20David%20B.%20Lamkins.pdf) - David Lamkins (PDF)
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)

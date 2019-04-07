@@ -5,6 +5,7 @@
 * [C++](#c-1)
 * [Engenharia de software](#engenharia-de-software)
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
+  * [Ciência de Dados](#ciencia-de-dados)
   * [Outros](#outros)
 * [Git](#git)
 * [Go](#go)
@@ -67,6 +68,9 @@
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
 
+#### Ciência de Dados
+
+* [Guia de introdução à Cultura de Data Analytics](https://mautic.aquare.la/guia-de-introducao-a-cultura-de-data-analytics)
 
 #### Outros
 

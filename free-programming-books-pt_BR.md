@@ -4,8 +4,8 @@
 * [C#](#c-sharp)
 * [C++](#c-1)
 * [Engenharia de software](#engenharia-de-software)
-  * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
   * [Ciência de Dados](#ciencia-de-dados)
+  * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
   * [Outros](#outros)
 * [Git](#git)
 * [Go](#go)
@@ -62,15 +62,15 @@
 
 ### Engenharia de Software
 
+#### Ciência de Dados
+
+* [Guia de introdução à Cultura de Data Analytics](https://mautic.aquare.la/guia-de-introducao-a-cultura-de-data-analytics) *(account required)*
+
 #### Metodologias de Desenvolvimento de Software
 
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
-
-#### Ciência de Dados
-
-* [Guia de introdução à Cultura de Data Analytics](https://mautic.aquare.la/guia-de-introducao-a-cultura-de-data-analytics)
 
 #### Outros
 

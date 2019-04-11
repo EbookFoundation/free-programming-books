@@ -6,7 +6,6 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [Java](#java)
-* [JavaScript](#javascript)
 * [Kotlin](#kotlin)
 * [PHP](#php)
 * [Python](#python)
@@ -44,11 +43,6 @@
 
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
 * [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
-
-
-### JavaScript
-
-* [Introdução à linguagem JavaScript](https://www.udemy.com/introducao-a-linguagem-javascript/) - Diego Mariano (Udemy)
 
 
 ### Kotlin

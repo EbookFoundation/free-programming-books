@@ -5,6 +5,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
+* [HTML](#html)
 * [Java](#java)
 * [Kotlin](#kotlin)
 * [PHP](#php)
@@ -37,6 +38,11 @@
 ### Haskell
 
 * [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro (Udemy)
+
+
+### HTML
+
+* [HTML5 para quem não sabe nada de HTML5](https://www.udemy.com/aprendahtml/) - Paulo Andrade (Udemy)
 
 
 ### Java

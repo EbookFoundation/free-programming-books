@@ -60,6 +60,7 @@
 
 * [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
+* [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
 
 
 ### Python

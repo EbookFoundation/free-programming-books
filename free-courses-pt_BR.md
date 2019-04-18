@@ -43,6 +43,7 @@
 ### HTML
 
 * [HTML5 para quem não sabe nada de HTML5](https://www.udemy.com/aprendahtml/) - Paulo Andrade (Udemy)
+* [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
 
 
 ### Java

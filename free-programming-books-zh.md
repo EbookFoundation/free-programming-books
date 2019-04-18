@@ -1,4 +1,4 @@
-﻿## 目录
+## 目录
 
 * [语言无关](#语言无关)
   * [IDE](#ide)
@@ -352,6 +352,7 @@
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
 * [跟我一起写Makefile](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf) (PDF)
+*  [Optimizing Software in C++](https://github.com/Reid-Zheng/OptimizingSeriesTranslation/blob/master/pdf/OptimizingSoftwareInC%2B%2BAnOptimizationGuideForWindowsLinuxAndMac.pdf) (PDF)
 
 
 ### CoffeeScript
@@ -542,7 +543,7 @@
   * [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details) - 社区翻译
   * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/) - 阿里团队
   * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
-  * [JavaScript全栈工程师培训材料](http://nodejs.ctolib.com/docs/sfile/jstraining/engineering.html)
+  * [JavaScript全栈工程师培训材料](http://nodejs.ctolib.com/docs/sfile/jstraining/engineering.html)
 
 
 #### React.js

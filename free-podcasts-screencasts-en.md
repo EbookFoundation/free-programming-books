@@ -279,7 +279,6 @@
 
 * [5by5 - Ruby on Rails Podcast](http://5by5.tv/rubyonrails) (podcast)
 * [Drifting Ruby](https://www.driftingruby.com) (screencast)
-* [ENVY LABS - Ruby5](https://ruby5.codeschool.com) (podcast)
 * [Railscasts](http://railscasts.com) (screencast)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) (podcast)
 * [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free) (screencast)

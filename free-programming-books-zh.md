@@ -247,7 +247,6 @@
 
 ### 编程艺术
 
-* [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)<!--死链，等待删除-->
 * [每个程序员都应该了解的内存知识 (第一部分)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [编程入门指南](http://www.kancloud.cn/kancloud/intro-to-prog/52592)
@@ -292,7 +291,6 @@
 * [Joel谈软件](https://web.archive.org/web/20170616013024/http://local.joelonsoftware.com/wiki/Chinese_(Simplified))
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
-* [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)<!--需要必要电子邮件和微博账号，等待删除-->
 * [約耳談軟體(Joel on Software)](https://web.archive.org/web/20170615232349/http://local.joelonsoftware.com/wiki/首頁) (繁体中文)
 * [编码规范](https://github.com/ecomfe/spec)
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
@@ -485,7 +483,7 @@
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
 * [Javascript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
 * [你不知道的Javascript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
-* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、[为之漫笔](http://www.cn-cuckoo.com)(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)
+* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、为之漫笔(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) - 开源中国
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 
@@ -642,12 +640,17 @@
 ### Python
 
 * [Django 1.11.6 中文文档](https://www.yiyibooks.cn/xx/Django_1.11.6/index.html)
+* [Django 2.2.1 中文文档](http://www.osgeo.cn/django/) - (这个很新，也很全，Online)
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
+* [Matplotlib 3.0.3 中文文档](http://www.osgeo.cn/matplotlib/) - (Online)
+* [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) - (Online)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
+* [Python 3.8.0a3中文文档](http://www.osgeo.cn/cpython/) - (目前在线最全的中文文档了，Online)
 * [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 * [Python 中文学习大本营](http://www.pythondoc.com)
 * [Python之旅](http://funhacks.net/explore-python) - Ethan
 * [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+* [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
 * [像计算机科学家一样思考Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) - Allen B. Downey、大胖哥(翻译)
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
@@ -657,6 +660,7 @@
 #### Django
 
 * [Django Girls 教程 (1.11)](https://tutorial.djangogirls.org/zh/) (HTML)
+* [Django 搭建个人博客教程 (2.1)](https://www.dusaiphoto.com/article/detail/2) - (杜赛) (HTML)
 
 
 ### R

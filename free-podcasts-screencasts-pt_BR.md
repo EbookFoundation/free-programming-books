@@ -37,7 +37,7 @@
 
 ### HTML / CSS
 
-* [Curso de HTML5 em vídeo do Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) (screencast)
+* [Curso em Vídeo - HTML5, CSS3 e JavaScript](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) (screencast)
 
 
 ### iOS
@@ -48,8 +48,9 @@
 ### Java
 
 * [Curso em Vídeo - Java Iniciante](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) (screencast)
-* [Loiane - Basic Java](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) (screencast)
-* [Loiane - Intermediate Java](https://www.youtube.com/watch?v=EdEKx24xHGc&list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI) (screencast)
+* [Curso em Vídeo - Java Orientado a Objetos](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) (screencast)
+* [Loiane - Java Básico](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) (screencast)
+* [Loiane - Java Intermediario](https://www.youtube.com/watch?v=EdEKx24xHGc&list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI) (screencast)
 * [Maratona Java - O maior curso Java em português](https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL) (screencast)
 * [Maratona JSF - O maior curso JSF do Brasil](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J) (screencast)
 * [Spring Boot essentials: O essencial do Spring Boot](https://www.youtube.com/playlist?list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1) (screencast)
@@ -62,9 +63,11 @@
  * [Grok Podcast](http://www.grokpodcast.com) (podcast)
  * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
  * [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
- * [NerdTech](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
+ * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
  * [PODebug](http://www.podebug.com) (podcast)
  * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
+ * [Screencast DevMedia - Lazy Load](https://www.youtube.com/playlist?list=PLi75dzoFwEbo89TG5IaD4ODYPeJK9uxA5) (screencast)
+ * [Screencasts - Andre Baltieri](https://www.youtube.com/playlist?list=PLTMuY7ptzFISwigIWpZQtp6b0TuEEvqLC) (screencast)
 
 
 ### PHP

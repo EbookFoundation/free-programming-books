@@ -19,6 +19,7 @@
   * [Angular.js](#angularjs)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
+  * [ml5.js](#ml5js)
   * [Node.js](#nodejs)
   * [p5.js](#p5js)
   * [React.js](#reactjs)
@@ -160,6 +161,9 @@
 #### Ember.js
 
 * [Ember Weekend](https://emberweekend.com/episodes) (podcast)
+
+#### ml5.js
+* [Beginners Guide to Machine Learning in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) (screencast)
 
 
 #### Node.js

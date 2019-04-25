@@ -1,5 +1,6 @@
 ### Index
 
+* [Ada](#ada)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
@@ -30,6 +31,10 @@
 * [SQL](#sql)
 * [Vim](#vim)
 
+
+### Ada
+
+* [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
 
 ### Bash
 

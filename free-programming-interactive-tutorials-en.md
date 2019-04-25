@@ -36,6 +36,7 @@
 
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
 
+
 ### Bash
 
 * [Help messages will explain everything](https://explainshell.com)

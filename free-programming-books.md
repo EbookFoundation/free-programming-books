@@ -97,6 +97,7 @@
   * [Redux](#redux)
 * [Jenkins](#jenkins)
 * [Julia](#julia)
+* [Kotlin](#Kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Algorithms & Data Structures](#algorithms--data-structures)
   * [Cellular Automata](#cellular-automata)
@@ -434,7 +435,7 @@
 * [Reinforcement Learning: An Introduction (Draft)](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) - Richard S. Sutton, Andrew G. Barto (PDF)
 * [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
-* [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
+* [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 
 
@@ -780,6 +781,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [A Guide to Ada for C and C++ Programmers](http://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) (PDF)
 * [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
+* [Ada for the C++ or Java Developer](https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf) - Quentin Ochem (PDF)
 * [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks
 * [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
 * [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
@@ -1682,6 +1684,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
 
 
+### Kotlin
+
+* [Kotlin Notes for Professionals book](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation
+* [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
+
+
 ### LaTeX / TeX
 
 #### LaTeX
@@ -1761,6 +1769,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig (PDF, epub, markdown)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
+* [SOLID Design Principles in Common Lisp](https://common-lisp-reserve.github.io/solid-design-principles-in-common-lisp/solid-design-principles-in-common-lisp.pdf) - Momozor (PDF)
 * [Successful Lisp: How to Understand and Use Common Lisp](https://github.com/clojurians-org/lisp-ebook/blob/master/Successful%20Lisp%20How%20to%20Understand%20and%20Use%20Common%20Lisp%20-%20David%20B.%20Lamkins.pdf) - David Lamkins (PDF)
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)

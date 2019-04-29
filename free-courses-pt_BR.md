@@ -8,6 +8,8 @@
 * [Haskell](#haskell)
 * [HTML](#html)
 * [Java](#java)
+* [JavaScript](#javascript)
+  * [Node.js](#nodejs)
 * [Kotlin](#kotlin)
 * [PHP](#php)
 * [Python](#python)
@@ -59,9 +61,19 @@
 * [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
 
 
+### Javascript
+* [Fast & Furious](https://www.youtube.com/watch?v=yRr8Wo4XfYY&list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts (Youtube)
+
+
 ### Kotlin
 
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+
+### Node.js
+
+* [Criando APIs com NodeJs ](https://www.youtube.com/watch?v=wDWdqlYxfcw&list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (Youtube)
+
+* [RESTful com Node.js e Restify](https://www.youtube.com/watch?v=xJp_Zhxh5YU&list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) -  Codecasts (Youtube)
 
 
 ### PHP

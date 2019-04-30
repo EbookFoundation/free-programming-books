@@ -72,7 +72,6 @@
 ### Node.js
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/watch?v=wDWdqlYxfcw&list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (Youtube)
-
 * [RESTful com Node.js e Restify](https://www.youtube.com/watch?v=xJp_Zhxh5YU&list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) -  Codecasts (Youtube)
 
 

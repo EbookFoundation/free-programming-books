@@ -62,12 +62,14 @@
 
 
 ### Javascript
+
 * [Fast & Furious](https://www.youtube.com/watch?v=yRr8Wo4XfYY&list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts (Youtube)
 
 
 ### Kotlin
 
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+
 
 ### Node.js
 

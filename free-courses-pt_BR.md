@@ -9,7 +9,9 @@
 * [HTML](#html)
 * [Ionic](#ionic)
 * [Java](#java)
+* [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -65,9 +67,20 @@
 * [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
 
 
+### Javascript
+
+* [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts (Youtube)
+
+
 ### Kotlin
 
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+
+
+### Node.js
+
+* [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (Youtube)
+* [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) -  Codecasts (Youtube)
 
 
 ### PHP

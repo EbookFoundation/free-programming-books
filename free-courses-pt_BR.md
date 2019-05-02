@@ -9,8 +9,8 @@
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Node.js](#nodejs)
 * [Kotlin](#kotlin)
+* [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -63,7 +63,7 @@
 
 ### Javascript
 
-* [Fast & Furious](https://www.youtube.com/watch?v=yRr8Wo4XfYY&list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts (Youtube)
+* [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts (Youtube)
 
 
 ### Kotlin
@@ -73,8 +73,8 @@
 
 ### Node.js
 
-* [Criando APIs com NodeJs ](https://www.youtube.com/watch?v=wDWdqlYxfcw&list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (Youtube)
-* [RESTful com Node.js e Restify](https://www.youtube.com/watch?v=xJp_Zhxh5YU&list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) -  Codecasts (Youtube)
+* [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (Youtube)
+* [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) -  Codecasts (Youtube)
 
 
 ### PHP

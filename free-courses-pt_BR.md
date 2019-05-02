@@ -7,6 +7,7 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML](#html)
+* [Ionic](#ionic)
 * [Java](#java)
 * [Kotlin](#kotlin)
 * [PHP](#php)
@@ -50,6 +51,11 @@
 
 * [HTML5 para quem não sabe nada de HTML5](https://www.udemy.com/aprendahtml/) - Paulo Andrade (Udemy)
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
+
+
+### Ionic
+
+* [Ionic 3 para iniciantes](https://www.udemy.com/ionic-3-para-iniciantes/) - Charles dos Santos França (Udemy)
 
 
 ### Java

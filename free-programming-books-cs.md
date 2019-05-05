@@ -65,7 +65,7 @@
 
 #### Algoritmy a datové struktury
 
-* [Průvodce labyrintem algoritmů](http://pruvodce.ucw.cz/) - Martin Mareš, Tomáš Valla
+* [Průvodce labyrintem algoritmů](http://pruvodce.ucw.cz) - Martin Mareš, Tomáš Valla
 * [Základy algoritmizace](http://i.iinfo.cz/files/root/k/Zaklady_algorimizace.pdf) (PDF)
 
 

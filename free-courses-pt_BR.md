@@ -114,4 +114,5 @@
 
 ### Swift
 
+* [Aprenda a fazer apps para iPhone - Swift e Firebase](https://www.udemy.com/aprenda-a-fazer-apps-para-iphone/) - Claudio Zani Silva (Udemy)
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)

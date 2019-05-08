@@ -108,6 +108,7 @@
 ### Ruby
 
 * [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) - Jackson Pires (YouTube)
+* [Curso de Testes para Ruby on Rails com RSpec](https://www.udemy.com/curso-de-testes-ruby-com-rspec/) - Leonardo Scorza (Udemy)
 * [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/) - Bruno Paulino (Udemy)
 * [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
 

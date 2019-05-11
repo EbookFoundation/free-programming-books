@@ -65,6 +65,7 @@
 
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
 * [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
+* [Intellij IDE para Desenvolvedores Java](https://www.udemy.com/intellij-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
 * [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
 * [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
 * [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias (Udemy)

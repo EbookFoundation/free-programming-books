@@ -147,6 +147,9 @@
 
 ### Strumenti di sviluppo
 
+* [Visual Studio 2019](https://www.youtube.com/playlist?list=PLgaOrAQwrg9J04dWnY-FF4SXUFt-TEQkE) (Mario De Ghetto)
+
+
 #### Git
 
 * [Corso Git 2017](https://www.youtube.com/playlist?list=PLA27EZBY5veN02RzEr6Ecm7KcjWadthBh) (POuLpolimi Politecnico di Milano)

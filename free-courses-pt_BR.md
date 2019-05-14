@@ -92,6 +92,7 @@
 
 * [Boas práticas em PHP](https://www.udemy.com/boas-praticas-em-php/) - Diego Mariano (Udemy)
 * [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
+* [Introdução ao PHP orientado a objetos](https://www.udemy.com/php-orientado-a-objetos/) - Diego Mariano (Udemy)
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
 * [PHP básico](https://www.udemy.com/php-com-banco-de-dados-mysql-server/) - Danilo Filitto (Udemy)
 * [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)

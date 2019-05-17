@@ -38,7 +38,6 @@
 
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
 * [Programlamaya Giriş Ders Notları, H. Turgut Uyar](http://web.itu.edu.tr/uyar/programlama/)
-* [Sistem Programlama ve İleri C Uygulamaları Kurs Notları - Uyarlama 1](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 
 
 ### CSS
@@ -98,7 +97,6 @@
 * [GNU Bash Başvuru Kılavuzu](http://belgeler.org/bashref/bashref.html)
 * [Linux Belgeleri](http://belgeler.org/howto/howtos.html)
 * [Linux Sistem Yöneticisinin Kılavuzu](http://belgeler.org/sag/sag.html)
-* [UNIX/Linux Sistem Programlama Kurs Notları](http://www.kaanaslan.com/resource/course_note/course_note.php)
 
 
 ### Matlab

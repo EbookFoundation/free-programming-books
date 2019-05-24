@@ -589,6 +589,7 @@
 * [Markdown 简明教程](http://www.jianshu.com/p/7bd23251da0a)
 * [Markdown 语法说明](http://wowubuntu.com/markdown/)
 * [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
+* [Markdown数学符号、公式使用](<https://zergzerg.cn/notes/webnotes/material/latex_use_1.html>)
 
 
 ### MySQL

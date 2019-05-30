@@ -6,6 +6,7 @@
 * [Dart](#dart)
 * [Git](#git)
 * [Go](#go)
+* [Gulp](#gulp)
 * [Haskell](#haskell)
 * [HTML](#html)
 * [Ionic](#ionic)
@@ -49,6 +50,11 @@
 ### Go
 
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
+
+
+### Gulp
+
+* [Curso de Gulp](https://www.udemy.com/curso-de-gulp/) - Fabio Ewerton (Udemy)
 
 
 ### Haskell

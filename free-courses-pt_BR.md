@@ -17,6 +17,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Shell](#shell)
 * [Swift](#swift)
 
 
@@ -136,6 +137,11 @@
 * [Curso de Testes para Ruby on Rails com RSpec](https://www.udemy.com/curso-de-testes-ruby-com-rspec/) - Leonardo Scorza (Udemy)
 * [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/) - Bruno Paulino (Udemy)
 * [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
+
+
+### Shell
+
+* [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
 
 
 ### Swift

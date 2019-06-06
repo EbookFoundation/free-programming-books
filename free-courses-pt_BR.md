@@ -4,6 +4,7 @@
 * [C](#c)
 * [CSS](#css)
 * [Dart](#dart)
+* [Delphi](#delphi)
 * [Git](#git)
 * [Go](#go)
 * [Gulp](#gulp)
@@ -41,6 +42,11 @@
 ### Dart
 
 * [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy)
+
+
+### Delphi
+
+* [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
 
 
 ### Git

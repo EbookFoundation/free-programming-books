@@ -1,10 +1,13 @@
 ### Index
 
 * [Android](#android)
+* [C](#c)
 * [CSS](#css)
 * [Dart](#dart)
+* [Delphi](#delphi)
 * [Git](#git)
 * [Go](#go)
+* [Gulp](#gulp)
 * [Haskell](#haskell)
 * [HTML](#html)
 * [Ionic](#ionic)
@@ -15,6 +18,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Shell](#shell)
 * [Swift](#swift)
 
 
@@ -22,6 +26,12 @@
 
 * [Android Start - Curso Android - Java Kotlin e Flutter](https://www.udemy.com/android-start-curso-android-basico-java-kotlin-e-flutter/) - Buno de Libero Ferreira (Udemy)
 * [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+* [Recriando o Status do Whatsapp para Android (Snapchat app)](https://www.udemy.com/status-whatsapp/) - ByLearn Cursos, Alisson Turini Fiorini Bolsoni (Udemy)
+
+
+### C
+
+* [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
 
 
 ### CSS
@@ -32,6 +42,11 @@
 ### Dart
 
 * [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy)
+
+
+### Delphi
+
+* [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
 
 
 ### Git
@@ -45,6 +60,11 @@
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
 
 
+### Gulp
+
+* [Curso de Gulp](https://www.udemy.com/curso-de-gulp/) - Fabio Ewerton (Udemy)
+
+
 ### Haskell
 
 * [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro (Udemy)
@@ -52,12 +72,14 @@
 
 ### HTML
 
+* [Headers Dinâmicos e Responsivos com HTML, CSS e Javascript](https://www.udemy.com/web-dev-headers/) - Lucas Alves Costa (Udemy)
 * [HTML5 para quem não sabe nada de HTML5](https://www.udemy.com/aprendahtml/) - Paulo Andrade (Udemy)
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
 
 
 ### Ionic
 
+* [Desenvolvimento com Ionic 3 + WebComponents com StencilJS](https://www.udemy.com/ionic-3-e-webcomponents-com-stenciljs/) - Gabriel Barreto (Udemy)
 * [Ionic 3 para iniciantes](https://www.udemy.com/ionic-3-para-iniciantes/) - Charles dos Santos França (Udemy)
 
 
@@ -79,6 +101,7 @@
 
 ### Kotlin
 
+* [Aprenda Kotlin do zero - Módulo Básico](https://www.udemy.com/kotlin-aprenda-do-zero-modulo-basico/) - Pedro Massango (Udemy)
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
 
 
@@ -93,7 +116,9 @@
 
 * [Boas práticas em PHP](https://www.udemy.com/boas-praticas-em-php/) - Diego Mariano (Udemy)
 * [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
+* [Introdução ao Laravel (5.3)](https://www.udemy.com/introducao-ao-laravel-53/) - Guilherme Ferreira (Udemy)
 * [Introdução ao PHP orientado a objetos](https://www.udemy.com/php-orientado-a-objetos/) - Diego Mariano (Udemy)
+* [Login com validação e flash messages (PHP)](https://www.udemy.com/login-com-validacao-e-flash-messages-php/) - Alexandre Cardoso (Udemy)
 * [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
 * [PHP básico](https://www.udemy.com/php-com-banco-de-dados-mysql-server/) - Danilo Filitto (Udemy)
@@ -105,6 +130,7 @@
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
 * [Django 2.0 para iniciantes](https://www.udemy.com/django-2-para-iniciantes/) - Luiz Maciel (Udemy)
+* [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)
 * [Introdução à linguagem Python](https://www.udemy.com/intro_python/) - Diego Mariano (Udemy)
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
@@ -117,6 +143,11 @@
 * [Curso de Testes para Ruby on Rails com RSpec](https://www.udemy.com/curso-de-testes-ruby-com-rspec/) - Leonardo Scorza (Udemy)
 * [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/) - Bruno Paulino (Udemy)
 * [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
+
+
+### Shell
+
+* [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
 
 
 ### Swift

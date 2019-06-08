@@ -28,7 +28,7 @@
 
 ### Go
 
-* [Dasar Pemrograman Golang](https://www.gitbook.com/book/novalagung/dasarpemrogramangolang)
+* [Dasar Pemrograman Golang](https://github.com/novalagung/dasarpemrogramangolang)
 
 
 ### HTML CSS

@@ -195,6 +195,7 @@
 * [Subversion](#subversion)
 * [Swift](#swift)
 * [Tcl](#tcl)
+* [TEI](#tei)
 * [Teradata](#teradata)
 * [Tizen](#tizen)
 * [TLA](#tla)
@@ -2450,6 +2451,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [TclWise](http://www.invece.org/tclwise/index.html) - Salvatore Sanfilippo
 
 
+### TEI
+
+* [What is the Text Encoding Initiative?](https://books.openedition.org/oep/426) - Lou Bernard
 ### Teradata
 
 * [Teradata Books](http://www.info.teradata.com)

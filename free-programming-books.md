@@ -200,6 +200,7 @@
 * [Swift](#swift)
   * [Vapor](#vapor)
 * [Tcl](#tcl)
+* [TEI](#tei)
 * [Teradata](#teradata)
 * [Tizen](#tizen)
 * [TLA](#tla)
@@ -2515,6 +2516,11 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Tcl Programming](https://en.wikibooks.org/wiki/Programming%3ATcl) - Richard.Suchenwirth, et. al.
 * [TclWise](http://www.invece.org/tclwise/index.html) - Salvatore Sanfilippo
+
+
+### TEI
+
+* [What is the Text Encoding Initiative?](https://books.openedition.org/oep/426) - Lou Bernard
 
 
 ### Teradata

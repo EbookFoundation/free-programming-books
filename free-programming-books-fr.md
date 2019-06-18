@@ -181,6 +181,7 @@
 
 #### TeX
 
+* [Apprendre à programmer en TeX](https://ctan.org/pkg/apprendre-a-programmer-en-tex) - Christian Tellechea
 * [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf) - Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche (PDF)
 
 

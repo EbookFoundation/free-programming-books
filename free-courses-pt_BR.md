@@ -4,6 +4,7 @@
 * [C](#c)
 * [CSS](#css)
 * [Dart](#dart)
+* [Database](#database)
 * [Delphi](#delphi)
 * [Git](#git)
 * [Go](#go)
@@ -17,6 +18,7 @@
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
+* [React](#react)
 * [Ruby](#ruby)
 * [Shell](#shell)
 * [Swift](#swift)
@@ -42,6 +44,11 @@
 ### Dart
 
 * [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy)
+
+
+### Database
+
+* [Introdução ao MySQL e phpMyAdmin](https://www.udemy.com/mysql-phpmyadmin/) - Fernando Carmo, Mestres BI (Udemy)
 
 
 ### Delphi
@@ -109,6 +116,7 @@
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
 * [Curso básico de APIs com Nodejs + Express + Mongodb](https://www.udemy.com/curso-basico-de-apis-com-nodejs-express-mongodb/) - Diego Penteado (Udemy)
+* [Nanosserviços Serverless Orientados a Eventos](https://www.udemy.com/nanosservicos-serverless-orientados-a-eventos/) - Thales Minussi (Udemy)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
 
 
@@ -135,6 +143,11 @@
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
+
+
+### React
+
+* [React, Redux e integração de APIs](https://www.udemy.com/react-redux-e-integracao-de-apis/) - Nataniel Paiva (Udemy)
 
 
 ### Ruby

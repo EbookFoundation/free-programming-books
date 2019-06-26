@@ -2,7 +2,7 @@
 
 * [Android](#android)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#c-1)
 * [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)

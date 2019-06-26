@@ -2,7 +2,7 @@
 
 * [Android](#android)
 * [C](#c)
-* [C sharp](#c-sharp)
+* [C Sharp](#c-sharp)
 * [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)
@@ -37,7 +37,7 @@
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
 
 
-### C sharp
+### C Sharp
 
 * [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
 

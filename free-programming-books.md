@@ -2540,6 +2540,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### TypeScript
 
+* [Making games with TypeScript](https://makinggameswithtypescript.com) - Øyvind (HTML) (:construction: *in process*)
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)

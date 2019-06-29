@@ -49,10 +49,10 @@
 * [Do it! 안드로이드 앱 프로그래밍](https://www.youtube.com/playlist?list=PLG7te9eYUi7sq701GghpoSKe-jbkx9NIF)
 * [안드로이드 스튜디오 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdB6sCgj_jubp8KPb1ni0VOC)
 * [안드로이드 스튜디오 실전 프로젝트](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD862e43ADbvDeGPUZKDuqL)
-* [안드로이드 프로그래밍 초급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcAHpIweCixdDrPoXv5bXGx) (T 아카데미)
-* [안드로이드 프로그래밍 중급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhc7o2HHixQi0PU2sQVerRW2) (T 아카데미)
 * [안드로이드 프로그래밍 고급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcXoTW9RwEf_7UTMcAJaink) (T 아카데미)
 * [안드로이드 프로그래밍 응용](https://www.youtube.com/playlist?list=PL9mhQYIlKEhd0NndsEQc0in36Oegm3ldE) (T 아카데미)
+* [안드로이드 프로그래밍 중급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhc7o2HHixQi0PU2sQVerRW2) (T 아카데미)
+* [안드로이드 프로그래밍 초급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcAHpIweCixdDrPoXv5bXGx) (T 아카데미)
 
 
 ### Arduino
@@ -67,10 +67,10 @@
 
 ### C/C++
 
-* [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [C++ 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLJRimEWvctNAfE5JrkwswQv6Yy4abqDl2)
-* [박정민의 C 언어본색](https://www.youtube.com/playlist?list=PL7mmuO705dG3Z4iSqwzztuPHF3YE8mlbw)
+* [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [두들낙서의 C/C++ 강좌](https://www.youtube.com/playlist?list=PLlJhQXcLQBJqywc5dweQ75GBRubzPxhAk)
+* [박정민의 C 언어본색](https://www.youtube.com/playlist?list=PL7mmuO705dG3Z4iSqwzztuPHF3YE8mlbw)
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
 
 
@@ -108,8 +108,8 @@
 
 ### Introduction
 
-* [컴퓨터공학 입문](http://www.kocw.net/home/search/kemView.do?kemId=1323143)
 * [컴퓨터 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1322410)
+* [컴퓨터공학 입문](http://www.kocw.net/home/search/kemView.do?kemId=1323143)
 
 
 ### iOS
@@ -208,8 +208,8 @@
 
 ### Ruby
 
-* [Ruby coin](https://www.youtube.com/playlist?list=PLEBQPmkNcLCIE9ERi4k_nUkGgJoBizx6s)
 * [Python & Ruby](https://www.opentutorials.org/course/1750) (생활코딩)
+* [Ruby coin](https://www.youtube.com/playlist?list=PLEBQPmkNcLCIE9ERi4k_nUkGgJoBizx6s)
 
 
 ### Security
@@ -240,13 +240,13 @@
 * [HTML5&CSS3 기초](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTdvqzohqVs3RTVHzWPu79) (T 아카데미)
 * [Web1-HTML](https://www.opentutorials.org/course/3084) (생활코딩)
 * [Web2-CSS](https://www.opentutorials.org/course/3086) (생활코딩)
+* [Web2-Domain name system](https://www.opentutorials.org/course/3276) (생활코딩)
+* [Web2-Home server](https://www.opentutorials.org/course/3265) (생활코딩)
 * [Web2-javascript](https://www.opentutorials.org/course/3085) (생활코딩)
 * [Web2-nodejs](https://www.opentutorials.org/course/3332) (생활코딩)
-* [Web2-Home server](https://www.opentutorials.org/course/3265) (생활코딩)
-* [Web2-Domain name system](https://www.opentutorials.org/course/3276) (생활코딩)
-* [Web2-Python](https://www.opentutorials.org/course/3256) (생활코딩)
 * [Web2-PHP](https://www.opentutorials.org/course/3130) (생활코딩)
 * [Web3-PHP & MySQL](https://www.youtube.com/playlist?list=PLuHgQVnccGMA5836CvWfieEQy0T0ov6Jh) (생활코딩)
+* [Web2-Python](https://www.opentutorials.org/course/3256) (생활코딩)
 * [웹 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1323070)
 
 

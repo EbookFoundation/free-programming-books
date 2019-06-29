@@ -244,8 +244,8 @@
 * [Web2-Home server](https://www.opentutorials.org/course/3265) (생활코딩)
 * [Web2-javascript](https://www.opentutorials.org/course/3085) (생활코딩)
 * [Web2-nodejs](https://www.opentutorials.org/course/3332) (생활코딩)
-* [Web2-Python](https://www.opentutorials.org/course/3256) (생활코딩)
 * [Web2-PHP](https://www.opentutorials.org/course/3130) (생활코딩)
+* [Web2-Python](https://www.opentutorials.org/course/3256) (생활코딩)
 * [Web3-PHP & MySQL](https://www.youtube.com/playlist?list=PLuHgQVnccGMA5836CvWfieEQy0T0ov6Jh) (생활코딩)
 * [웹 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1323070)
 

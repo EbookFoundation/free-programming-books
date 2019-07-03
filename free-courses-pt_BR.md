@@ -2,6 +2,7 @@
 
 * [Android](#android)
 * [C](#c)
+* [C Sharp](#c-sharp)
 * [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)
@@ -34,6 +35,12 @@
 ### C
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
+
+
+### C Sharp
+
+* [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
+* [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
 
 
 ### CSS

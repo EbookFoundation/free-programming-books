@@ -41,6 +41,7 @@
 
 * [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
+* [Testes unitários em C# com NUnit e Moq](https://www.udemy.com/testes-unitarios-em-csharp-com-nunit-e-moq/) - Leonardo Baraúna (Udemy)
 
 
 ### CSS

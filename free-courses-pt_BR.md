@@ -102,6 +102,7 @@
 
 ### Java
 
+* [Curso Desenvolvedor Java com Jdbc,Jpa,Spring,Swing](https://www.udemy.com/curso-desenvolvedor-java-com-jdbc/) - Allan Almeida de Araujo (Udemy)
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
 * [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
 * [Intellij IDE para Desenvolvedores Java](https://www.udemy.com/intellij-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)

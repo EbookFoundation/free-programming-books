@@ -46,6 +46,7 @@
 * [Swift](#swift)
   * [Vapor](#vapor)
 * [Theory](#theory)
+* [TypeScript](#typescript)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
 
@@ -403,6 +404,11 @@
 
 * [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
 * [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+
+
+### TypeScript
+
+* [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 
 
 ### Verilog / VHDL / SystemVerilog

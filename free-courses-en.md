@@ -2,6 +2,7 @@
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
+* [Angular](#angular)
 * [Assembly](#assembly)
 * [Bash / Shell](#bash--shell)
 * [C](#c)
@@ -82,6 +83,11 @@
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
 * [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android#!/android)
+
+
+### Angular
+
+* [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 
 
 ### Bash / Shell

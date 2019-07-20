@@ -246,7 +246,11 @@
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
+* [The Road to learn React.js](https://roadtoreact.com/)
 
+
+#### GraphQL
+* [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
 
 #### Redux
 

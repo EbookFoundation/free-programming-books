@@ -153,6 +153,7 @@
 * [极客学院](http://www.jikexueyuan.com)
 * [汇智网](http://www.hubwiz.com)
 * [计蒜客](http://www.jisuanke.com)
+* [黑马程序员](http://yun.itheima.com/)
 
 
 ### 大数据
@@ -654,6 +655,7 @@
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
 * [简明 Python 教程](https://bop.molun.net) - Swaroop C H、沈洁元(翻译)、漠伦(翻译)
+* [python个人博客](https://www.cnblogs.com/derek1184405959/p/8579428.html) - (内含丰富的笔记以及各类教程)
 
 
 #### Django

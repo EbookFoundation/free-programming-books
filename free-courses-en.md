@@ -332,6 +332,7 @@
 
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
 * [PHP & MySQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b)
+* [Ultimate PHP Basics for Absolute Beginners](https://www.udemy.com/ultimate-php-course-for-absolute-beginners/) - PHPTraining DotCom (Udemy)
 
 
 ### Python

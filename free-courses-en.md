@@ -22,6 +22,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [GraphQL](#graphql)
   * [jQuery](#jquery)
   * [React](#react)
   * [Redux](#redux)
@@ -239,6 +240,11 @@
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
+#### GraphQL
+
+* [The Road to GraphQL The Bare Essential Package](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
+
+
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
@@ -247,6 +253,7 @@
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
+* [The Road to learn React.js The Bare Essentials Packaage](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)
 
 
 #### Redux

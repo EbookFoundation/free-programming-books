@@ -67,6 +67,7 @@
   * [Bootstrap](#bootstrap)
 * [HTTP](#http)
 * [Icon](#icon)
+* [Idris](#idris)
 * [iOS](#ios)
 * [IoT](#iot)
 * [Isabelle/HOL](#isabellehol)
@@ -1367,6 +1368,11 @@ Kerridge (PDF) (email address *requested*, not required)
 #### HTTP
 
 * [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
+
+
+### Idris
+
+* [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti) - Boro Sitnikovski  *(Leanpub account or valid email requested)*
 
 
 ### Icon

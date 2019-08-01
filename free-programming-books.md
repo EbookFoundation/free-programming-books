@@ -1373,7 +1373,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Idris
 
-* [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti) *(Leanpub account or valid email requested)*
+* [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti) - Boro Sitnikovski  *(Leanpub account or valid email requested)*
 
 
 ### Icon

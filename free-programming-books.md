@@ -969,6 +969,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (email address *requested*, not required)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin Cross-Platform Development Cookbook](https://www.packtpub.com/free-eBook/xamarin-cross-platform-development-cookbook) - George Taskos, Packt. (email address *requested*, not required)
+* [Xamarin.Forms Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) (PDF, Kindle) (email address requested, not required)
 
 
 ### C++

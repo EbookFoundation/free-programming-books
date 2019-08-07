@@ -6,6 +6,7 @@
 * [C](#c)
 * [C Sharp](#c-sharp)
 * [C++](#c++)
+* [Database](#database)
 * [Delphi](#delphi)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
@@ -59,6 +60,11 @@
 
 * [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) (F. Camuso)
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) (F. Camuso)
+
+
+### Database
+
+* [Basi di dati](https://www.youtube.com/playlist?list=PLgaOrAQwrg9JZs6dbDolNlShHFgpJSChj) (M. De Ghetto)
 
 
 ### Delphi
@@ -146,6 +152,9 @@
 
 
 ### Strumenti di sviluppo
+
+* [Visual Studio 2019](https://www.youtube.com/playlist?list=PLgaOrAQwrg9J04dWnY-FF4SXUFt-TEQkE) (Mario De Ghetto)
+
 
 #### Git
 

@@ -340,9 +340,10 @@
 
 ### PHP
 
+* [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape  (2019)
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
-* [PHP & MySQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b)
-* [Ultimate PHP Basics for Absolute Beginners](https://www.udemy.com/ultimate-php-course-for-absolute-beginners/) - PHPTraining DotCom (Udemy)
+* [PHP & MySQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b) - The Bad Tutorials (2015)
+* [PHP Programming Language Tutorial - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c) - freeCodeCamp.org (2018)
 
 
 ### Python

@@ -1196,7 +1196,9 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Flutter
 
+* [Cookbook](https://flutter.dev/docs/cookbook)
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
+* [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter/)
 
 
 ### Force.com

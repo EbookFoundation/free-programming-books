@@ -46,6 +46,7 @@
 * [ESP8266](#esp8266)
 * [F#](#f-sharp)
 * [Firefox OS](#firefox-os)
+* [Flutter](#flutter)
 * [Force.com](#forcecom)
 * [Forth](#forth)
 * [Fortran](#fortran)
@@ -334,6 +335,7 @@
 
 #### Cloud Computing
 
+* [Azure Functions Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly) (PDF, Kindle) (email address requested, not required)
 * [Cloud Design Patterns](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
 * [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf) - Iain Foulds (PDF)
@@ -1127,6 +1129,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - Tim Morgan (HTML)
 * [Elixir School](https://elixirschool.com) (HTML)
+* [Elixir Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/elixir-succinctly) (PDF, Kindle) (email address requested, not required)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) (HTML)
 * [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB)](https://github.com/potatogopher/elixir-getting-started)
 * [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source](https://github.com/radar/joyofelixir) (:construction: *in process*)
@@ -1189,6 +1192,13 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Firefox OS
 
 * [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia
+
+
+### Flutter
+
+* [Cookbook](https://flutter.dev/docs/cookbook)
+* [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
+* [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter/)
 
 
 ### Force.com
@@ -1662,6 +1672,7 @@ Kerridge (PDF) (email address *requested*, not required)
   * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
+* [React.js Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/reactjs_succinctly) (PDF, Kindle) (email address requested, not required)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
 * [The Road to learn React - Build a Hacker News App along the Way](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch *(Leanpub account or valid email requested)* [markdown](https://github.com/the-road-to-learn-react/the-road-to-learn-react/tree/master/manuscript)

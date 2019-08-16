@@ -134,6 +134,7 @@
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
 * [Curso básico de APIs com Nodejs + Express + Mongodb](https://www.udemy.com/curso-basico-de-apis-com-nodejs-express-mongodb/) - Diego Penteado (Udemy)
+* [Domine o sublime text](https://www.udemy.com/course/domine-o-sublime-text/) - Alexandre Cardoso (Udemy)
 * [Nanosserviços Serverless Orientados a Eventos](https://www.udemy.com/nanosservicos-serverless-orientados-a-eventos/) - Thales Minussi (Udemy)
 * [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/) - Diego Martins de Pinho (Udemy)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)

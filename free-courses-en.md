@@ -27,6 +27,7 @@
   * [React](#react)
   * [Redux](#redux)
   * [Sails.js](#sailsjs)
+* [Linux](#linux)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Matlab](#matlab)
@@ -267,6 +268,11 @@
 ### Sails.Js
 
 * [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
+
+
+### Linux
+
+* [Ubuntu Web Development Setup](https://www.udemy.com/course/ubuntu-web-development-setup/) - Ciprian Munteanu (Udemy)
 
 
 ### Lua

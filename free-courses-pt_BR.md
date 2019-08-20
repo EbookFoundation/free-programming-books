@@ -16,6 +16,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Linux](#linux)
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [PHP](#php)
@@ -123,6 +124,11 @@
 
 * [Aprenda Kotlin do zero - Módulo Básico](https://www.udemy.com/kotlin-aprenda-do-zero-modulo-basico/) - Pedro Massango (Udemy)
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+
+
+### Linux
+
+* [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
 
 
 ### Markdown

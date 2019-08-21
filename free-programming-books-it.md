@@ -17,6 +17,7 @@
   * [NoSQL](#nosql)
   * [Relazionali](#relazionali)
   * [SQL](#sql)
+* [Golang](#golang)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -138,6 +139,11 @@
 * [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf) (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 * [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf) (PDF)
+
+
+### Golang
+
+* [Golang](http://www.vittal.it/wp-content/uploads/2019/01/golang.pdf) - V.Albertoni (PDF)
 
 
 ### Java

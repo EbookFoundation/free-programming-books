@@ -12,6 +12,7 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [HTML](#html)
+* [IDE](#ide)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -96,6 +97,14 @@
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
 
 
+### IDE
+
+* [Domine o sublime text](https://www.udemy.com/course/domine-o-sublime-text/) - Alexandre Cardoso (Udemy)
+* [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
+* [Intellij IDE para Desenvolvedores Java](https://www.udemy.com/intellij-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
+* [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/) - Diego Martins de Pinho (Udemy)
+
+
 ### Ionic
 
 * [Desenvolvimento com Ionic 3 + WebComponents com StencilJS](https://www.udemy.com/ionic-3-e-webcomponents-com-stenciljs/) - Gabriel Barreto (Udemy)
@@ -106,8 +115,6 @@
 
 * [Curso Desenvolvedor Java com Jdbc,Jpa,Spring,Swing](https://www.udemy.com/curso-desenvolvedor-java-com-jdbc/) - Allan Almeida de Araujo (Udemy)
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
-* [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
-* [Intellij IDE para Desenvolvedores Java](https://www.udemy.com/intellij-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
 * [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
 * [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
 * [Java SE - Polimorfismo](https://www.udemy.com/java-se-polimorfismo/) - Fernando Franzini (Udemy)
@@ -141,9 +148,7 @@
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
 * [Curso básico de APIs com Nodejs + Express + Mongodb](https://www.udemy.com/curso-basico-de-apis-com-nodejs-express-mongodb/) - Diego Penteado (Udemy)
-* [Domine o sublime text](https://www.udemy.com/course/domine-o-sublime-text/) - Alexandre Cardoso (Udemy)
 * [Nanosserviços Serverless Orientados a Eventos](https://www.udemy.com/nanosservicos-serverless-orientados-a-eventos/) - Thales Minussi (Udemy)
-* [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/) - Diego Martins de Pinho (Udemy)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
 
 

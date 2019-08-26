@@ -27,6 +27,7 @@
   * [Git](#git)
   * [Maven](#maven)
 * [Web](#web)
+  * [Vue](#vue)
 * [Workshop](#workshop)  
 
 
@@ -175,6 +176,11 @@
 ### Web
 
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - F. Corno e S. Di Carlo (Politecnico di Torino)
+
+
+#### Vue
+
+* [Vue 2.x (corso base)](https://www.youtube.com/watch?v=MdvBAgAeIZQ&list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) (F. Camuso)
 
 
 ### Workshop

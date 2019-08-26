@@ -14,6 +14,7 @@
 * [Java](#Java)
 * [Javascript](#javascript)
 * [Machine Learning](#machine-learning)
+* [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
 * [Programmazione](#programmazione)
@@ -105,6 +106,11 @@
 ### Machine Learning
 
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) (P. Savastano) 
+
+
+### Mobile
+
+* [DART & FLUTTER (per il mobile)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x) (F. Camuso)
 
 
 ### Networking

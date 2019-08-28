@@ -180,7 +180,7 @@
 
 #### Vue
 
-* [Vue 2.x (corso base)](https://www.youtube.com/watch?v=MdvBAgAeIZQ&list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) (F. Camuso)
+* [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) (F. Camuso)
 
 
 ### Workshop

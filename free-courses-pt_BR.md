@@ -32,7 +32,6 @@
 
 * [Android Start - Curso Android - Java Kotlin e Flutter](https://www.udemy.com/android-start-curso-android-basico-java-kotlin-e-flutter/) - Buno de Libero Ferreira (Udemy)
 * [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
-* [Recriando o Status do Whatsapp para Android (Snapchat app)](https://www.udemy.com/status-whatsapp/) - ByLearn Cursos, Alisson Turini Fiorini Bolsoni (Udemy)
 
 
 ### C

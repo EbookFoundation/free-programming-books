@@ -14,6 +14,7 @@
 * [Java](#Java)
 * [Javascript](#javascript)
 * [Machine Learning](#machine-learning)
+* [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
 * [Programmazione](#programmazione)
@@ -26,6 +27,7 @@
   * [Git](#git)
   * [Maven](#maven)
 * [Web](#web)
+  * [Vue](#vue)
 * [Workshop](#workshop)  
 
 
@@ -107,6 +109,11 @@
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) (P. Savastano) 
 
 
+### Mobile
+
+* [DART & FLUTTER (per il mobile)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x) (F. Camuso)
+
+
 ### Networking
 
 * [Advanced Networking 2016](https://www.youtube.com/playlist?list=PLkbnRIR2azkIXO-ndOz7qBvVC38_wbOW8) (Hacklab Cosenza) 
@@ -169,6 +176,11 @@
 ### Web
 
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - F. Corno e S. Di Carlo (Politecnico di Torino)
+
+
+#### Vue
+
+* [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) (F. Camuso)
 
 
 ### Workshop

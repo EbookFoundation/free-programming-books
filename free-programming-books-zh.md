@@ -192,7 +192,7 @@
 ### 数据库
 
 <!-- Waiting to add in -->
-
+* [《Designing Data-Intensive Application》DDIA中文翻译](https://github.com/Vonng/ddia)
 
 ### 智能系统
 

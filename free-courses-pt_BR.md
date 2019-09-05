@@ -24,6 +24,7 @@
 * [Python](#python)
 * [React](#react)
 * [Ruby](#ruby)
+* [Sass](#sass)
 * [Shell](#shell)
 * [Swift](#swift)
 
@@ -187,6 +188,11 @@
 * [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) - Jackson Pires (YouTube)
 * [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/) - Bruno Paulino (Udemy)
 * [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
+
+
+### Sass
+
+* [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
 
 
 ### Shell

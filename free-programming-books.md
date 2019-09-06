@@ -722,7 +722,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org) - Markus Voelter
 * [Evolving Architectures of FinTech](http://www.oreilly.com/programming/free/evolving-architectures-of-fintech.csp) (email address *requested*, not required)
 * [Exploring CQRS and Event Sourcing](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - (EPUB, PDF)
-* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/portal/web/swebok)
+* [Guide to the Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 * [How to Design Programs](http://www.htdp.org)
 * [How to Write Unmaintainable Code](http://mindprod.com/jgloss/unmain.html)
 * [Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook)

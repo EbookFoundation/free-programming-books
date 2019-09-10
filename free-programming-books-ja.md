@@ -176,7 +176,7 @@
 
 #### 正規表現
 
-* [.NET Framework の正規表現](https://msdn.microsoft.com/library/hs600312.aspx) - MSDN Library
+* [.NET の正規表現](https://docs.microsoft.com/ja-jp/dotnet/standard/base-types/regular-expressions) - Microsoft Docs
 * [正規表現メモ](http://www.kt.rim.or.jp/~kbk/regex/regex.html) - 木村浩一
 
 

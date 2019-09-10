@@ -293,7 +293,7 @@
 
 ### Erlang
 
-* [お気楽 Erlang プログラミング入門](http://www.geocities.jp/m_hiroi/func/erlang.html) - 広井誠
+* [お気楽 Erlang プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/erlang.html) - 広井誠
 
 
 ### Git

@@ -88,7 +88,7 @@
 
 #### グラフィックスプログラミング
 
-* [DirectX を使った初めての Windows ストア アプリの作成](https://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
+* [DirectX プログラミング](https://docs.microsoft.com/ja-jp/windows/uwp/gaming/directx-programming) - Microsoft Docs
 * [GLUTによる「手抜き」OpenGL入門](http://www.wakayama-u.ac.jp/~tokoi/opengl/libglut.html) - 床井浩平
 * [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html) - Apple Developer (HTML)
 * [はじめてのBlenderアドオン開発](https://nutti.gitbooks.io/introduction-to-add-on-development-in-blender/) - nutti

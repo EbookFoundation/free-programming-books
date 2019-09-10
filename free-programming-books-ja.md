@@ -91,7 +91,7 @@
 * [DirectX プログラミング](https://docs.microsoft.com/ja-jp/windows/uwp/gaming/directx-programming) - Microsoft Docs
 * [GLUTによる「手抜き」OpenGL入門](http://www.wakayama-u.ac.jp/~tokoi/opengl/libglut.html) - 床井浩平
 * [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html) - Apple Developer (HTML)
-* [はじめてのBlenderアドオン開発](https://nutti.gitbooks.io/introduction-to-add-on-development-in-blender/) - nutti
+* [はじめてのBlenderアドオン開発 (Blender 2.7版)](https://colorful-pico.net/introduction-to-addon-development-in-blender/2.7/) - nutti
 * [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
 
 

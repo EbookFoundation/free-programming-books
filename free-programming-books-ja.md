@@ -263,7 +263,7 @@
 
 ### Common Lisp
 
-* [Common Lisp 入門](http://www.geocities.jp/m_hiroi/xyzzy_lisp.html) - 広井誠
+* [Common Lisp 入門](http://www.nct9.ne.jp/m_hiroi/xyzzy_lisp.html#abclisp) - 広井誠
 * [Google Common Lisp スタイルガイド 日本語訳](http://google-common-lisp-style-guide-ja.cddddr.org) -  Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳)
 * [LISP and PROLOG](http://home.soka.ac.jp/~unemi/LispProlog/) - 畝見達夫
 * [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd/) - Paul Graham, 野田開(翻訳)

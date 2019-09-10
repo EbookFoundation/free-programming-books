@@ -98,7 +98,7 @@
 #### グラフィックユーザーインターフェイス
 
 * [Qtプログラミング入門](http://densan-labs.net/tech/qt/) - @nishio_dens
-* [入門GTK+ 第3版](http://www.iim.ics.tut.ac.jp/~sugaya/wiki/wiki/index.php?GTK%2FGNOME%A4%CB%A4%E8%A4%EBGUI%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0#s8b2472b) - 菅谷保之
+* [入門GTK+ 第3版](http://www.iim.cs.tut.ac.jp/~sugaya/wiki/wiki/index.php?GTK%2FGNOME%A4%CB%A4%E8%A4%EBGUI%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0) - 菅谷保之
 
 
 #### セキュリティ

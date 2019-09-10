@@ -239,7 +239,7 @@
 * [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
 * [C++入門](http://www.asahi-net.or.jp/~yf8k-kbys/newcpp0.html) - 小林健一郎
 * [cpprefjp - C++ Reference Site in Japanese](https://cpprefjp.github.io)
-* [Google C++スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/cppguide.xml) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, Takashi Sasai(翻訳)
+* [Google C++ スタイルガイド 日本語全訳](https://ttsuki.github.io/styleguide/cppguide.ja.html) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, ttsuki(翻訳)
 * [Standard Template Library プログラミング](http://episteme.wankuma.com/stlprog/) - επιστημη
 * [お気楽Ｃ++プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/cpp.html) - 広井誠
 * [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/) - ロベール

@@ -231,7 +231,7 @@
 * [お気楽Ｃ言語プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/clang.html) - 広井誠
 * [ゲーム作りで学ぶ！実践的C言語プログラミング](http://densan-labs.net/tech/game/) - @nishio_dens
 * [猫でもわかるプログラミング](http://kumei.ne.jp/c_lang/) - 粂井康孝
-* [計算物理のためのC/C++言語入門](http://www-cms.phys.s.u-tokyo.ac.jp/~naoki/CIPINTRO/) - 渡辺尚貴
+* [計算物理のためのC/C++言語入門](http://cms.phys.s.u-tokyo.ac.jp/~naoki/CIPINTRO/) - 渡辺尚貴
 
 
 ### C++

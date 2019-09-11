@@ -403,7 +403,7 @@
 
 * [Felix's Node.js Style Guide](http://popkirby.github.io/contents/nodeguide/style.html) - Debuggable Limited., @popkirby(翻訳)
 * [node.js 怒濤の50サンプル!! – socket.io編](https://github.com/omatoro/NodeSample) - omatoro
-* [Nodeビギナーズブック](http://www.nodebeginner.org/index-jp.html) - Manuel Kiessling, Yuki Kawashima(翻訳)
+* [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html) - Manuel Kiessling, Yuki Kawashima(翻訳)
 
 
 #### React

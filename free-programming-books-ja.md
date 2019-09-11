@@ -442,7 +442,7 @@
 
 ### Maven
 
-* [Maven](http://www.techscore.com/tech/Java/ApacheJakarta/Maven/) - シナジーマーケティング株式会社
+* [Maven](https://www.techscore.com/tech/Java/ApacheJakarta/Maven/index/) - シナジーマーケティング株式会社
 * [What is Maven?](https://github.com/KengoTODA/what-is-maven) - Kengo TODA
 
 

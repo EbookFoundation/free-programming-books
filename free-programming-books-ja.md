@@ -486,7 +486,7 @@
 * [Perl](https://ja.wikibooks.org/wiki/Perl) - Wikibooks
 * [Perl でのデータベース操作](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md) - はてな教科書
 * [Perl のコアドキュメント](http://perldoc.jp/index/core) - 一般社団法人 Japan Perl Association (JPA)
-* [Perl 基礎文法最速マスター](http://d.hatena.ne.jp/perlcodesample/20091226/1264257759) - 木本裕紀
+* [Perl 基礎文法最速マスター](https://tutorial.perlzemi.com/blog/20091226126425.html) - 木本裕紀
 * [お気楽 Perl プログラミング超入門](http://www.geocities.jp/m_hiroi/linux/perl.html) - 広井誠
 
 

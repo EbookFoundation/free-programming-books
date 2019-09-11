@@ -467,7 +467,7 @@
 ### Objective-C
 
 * [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳)
-* [Objective-C 2.0 基礎文法最速マスター](http://marycore.jp/prog/objective-c/basic-syntax/) - @_marycore
+* [Objective-C 2.0 基礎文法最速マスター](https://marycore.jp/prog/objective-c/basic-syntax/) - @_marycore
 * [Objective-C によるプログラミング](https://developer.apple.com/jp/devcenter/ios/library/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
 * [Objective-C プログラミングの概念](https://developer.apple.com/jp/devcenter/ios/library/documentation/CocoaEncyclopedia.pdf) - Apple Developer (PDF)
 * [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)

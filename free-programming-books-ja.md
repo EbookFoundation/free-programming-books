@@ -364,7 +364,7 @@
 
 ### JavaScript
 
-* [Airbnb JavaScript スタイルガイド](http://mitsuruog.github.io/javacript-style-guide/) - Airbnb, 小川充(翻訳)
+* [Airbnb JavaScript スタイルガイド](https://mitsuruog.github.io/javascript-style-guide/) - Airbnb, 小川充(翻訳)
 * [Google JavaScript スタイルガイド](http://www38.atwiki.jp/aias-jsstyleguide2/) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker, aiaswood(翻訳)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ja/) - Ivo Wetzel, HIRAKI Satoru(翻訳)
 * [JavaScript Plugin Architecture](https://www.gitbook.com/book/azu/javascript-plugin-architecture/details) - azu

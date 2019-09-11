@@ -415,7 +415,7 @@
 ### Julia
 
 * [Julia 0.3.8](https://stats.biopapyrus.jp/julia) - 孫建強
-* [Julia Language Programming](http://www.geocities.jp/m_hiroi/light/julia.html) - 広井誠
+* [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
 * [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
 
 

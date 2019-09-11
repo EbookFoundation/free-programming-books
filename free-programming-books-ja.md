@@ -303,7 +303,7 @@
 * [GitHubカンニング・ペーパー](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, marocchino(翻訳)
 * [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, 高木正弘 他(翻訳) ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
 * [Steins;Git 第二版](http://o2project.github.io/steins-git/) - Shota Kubota
-* [サルでもわかるGit入門](http://www.backlog.jp/git-guide/) - 株式会社ヌーラボ
+* [サルでもわかるGit入門](https://backlog.com/ja/git-tutorial/) - 株式会社ヌーラボ
 * [デザイナのための Git](https://github.com/hatena/Git-for-Designers) - はてな教科書
 * [図解 Git](http://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, Kazu Yamamoto(翻訳)
 

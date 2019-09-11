@@ -534,7 +534,7 @@
 * [Python の学習](http://skitazaki.github.io/python-school-ja/index.html) - KITAZAKI Shigeru
 * [Python ヒッチハイク・ガイド](https://python-guide-ja.readthedocs.io/en/latest/) - Kenneth Reitz, Tsuyoshi Tokuda(翻訳)
 * [Python プログラマーのための gevent チュートリアル](http://methane.github.io/gevent-tutorial-ja/) - Stephen Diehl, Jérémy Bethmont, sww, Bruno Bigras, David Ripton, Travis Cline, Boris Feld, youngsterxyf, Eddie Hebert, Alexis Metaireau, Daniel Velkov, methane(翻訳)
-* [Python 基礎文法最速マスター](http://d.hatena.ne.jp/dplusplus/20100126/p1) - id:dplusplus
+* [Python 基礎文法最速マスター](https://dplusplus.hatenablog.com/entry/20100126/p1) - id:dplusplus
 * [The Programming Historian](https://sites.google.com/site/theprogramminghistorianja/) - William J. Turkel, Alan MacEachern, @moroshigeki(翻訳), @historyanddigi(翻訳), @Say\_no(翻訳), @knagasaki(翻訳), @mak\_goto(翻訳)
 * [Think Python：コンピュータサイエンティストのように考えてみよう](http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf) - Allen Downey, 相川 利樹（翻訳）(PDF)
 * [お気楽 Python プログラミング入門](http://www.geocities.jp/m_hiroi/light/index.html) - 広井誠

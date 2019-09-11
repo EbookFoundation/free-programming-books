@@ -131,7 +131,7 @@
 
 ### Jekyll
 
-* [Criando sites estáticos com Jekyll](https://www.udemy.com/course/criando-sites-estaticos-com-jekyll/)
+* [Criando sites estáticos com Jekyll](https://www.udemy.com/course/criando-sites-estaticos-com-jekyll/) - Willian Justen de Vasconcellos (Udemy)
 
 
 ### Kotlin

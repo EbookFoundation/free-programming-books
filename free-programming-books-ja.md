@@ -369,7 +369,7 @@
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ja/) - Ivo Wetzel, HIRAKI Satoru(翻訳)
 * [JavaScript Plugin Architecture](https://azu.gitbooks.io/javascript-plugin-architecture/content/) - azu
 * [お気楽 JavaScript プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/light/javascript.html) - 広井誠
-* [JavaScript Promiseの本](http://azu.github.io/promises-book/) - azu
+* [JavaScript Promiseの本](https://azu.github.io/promises-book/) - azu
 * [JavaScript style guide](https://developer.mozilla.org/ja/docs/JavaScript_style_guide) - MDN
 * [JavaScript 基礎文法最速マスター](http://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
 * [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library

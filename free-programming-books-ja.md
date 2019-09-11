@@ -544,7 +544,7 @@
 
 #### Flask
 
-* [Flask ドキュメント](http://flask-docs-ja.readthedocs.org) - Armin Ronacher, Tsuyoshi Tokuda(翻訳)
+* [Flask ドキュメント](https://flask-docs-ja.readthedocs.io/en/latest/) - Armin Ronacher, Tsuyoshi Tokuda(翻訳)
 * [Flask ハンズオン](http://methane.github.io/flask-handson/) - INADA Naoki
 
 

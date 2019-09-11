@@ -423,7 +423,7 @@
 
 * [TeX/LaTeX入門](https://ja.wikibooks.org/wiki/TeX/LaTeX%E5%85%A5%E9%96%80) - Wikibooks
 * [TeX入門](http://www.comp.tmu.ac.jp/tsakai/lectures/intro_tex.html) - 酒井高司
-* [TeX入門 TeX Wiki](http://oku.edu.mie-u.ac.jp/~okumura/texwiki/?TeX%E5%85%A5%E9%96%80) - 奥村晴彦
+* [TeX入門 TeX Wiki](https://texwiki.texjp.org/?TeX%E5%85%A5%E9%96%80) - 奥村晴彦
 
 
 ### Linux

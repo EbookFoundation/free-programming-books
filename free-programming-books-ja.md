@@ -437,7 +437,7 @@
 
 * [Lua 5.2 リファレンスマニュアル](http://milkpot.sakura.ne.jp/lua/lua52_manual_ja.html) - Lua.org, PUC-Rio.
 * [Lua Programming](http://www.nct9.ne.jp/m_hiroi/light/lua.html) - 広井誠
-* [Luaプログラミング入門](http://densan-labs.net/tech/lua/) - @nishio_dens
+* [Luaプログラミング入門](https://densan-labs.net/tech/lua/) - @nishio_dens
 
 
 ### Maven

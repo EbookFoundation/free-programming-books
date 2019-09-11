@@ -477,7 +477,7 @@
 ### OCaml
 
 * [Objective Caml 入門](https://web.archive.org/web/20161128072705/http://www.fos.kuis.kyoto-u.ac.jp:80/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
-* [お気楽 OCaml プログラミング入門](http://www.geocities.jp/m_hiroi/func/ocaml.html) - 広井誠
+* [お気楽 OCaml プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/ocaml.html) - 広井誠
 
 
 ### Perl

@@ -104,7 +104,7 @@
 #### セキュリティ
 
 * [RSA暗号体験入門](http://www.cybersyndrome.net/rsa/) - CyberSyndrome
-* [ウェブ健康診断仕様](http://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [ウェブ健康診断仕様](https://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programmingv2/) - 独立行政法人情報処理推進機構(IPA)
 * [ネットワークプログラミングの基礎知識](http://x68000.q-e-d.net/~68user/net/) - 68user
 * [はやわかり RSA](http://www.mew.org/~kazu/doc/rsa.html) - 山本和彦

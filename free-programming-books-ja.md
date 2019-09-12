@@ -578,7 +578,7 @@
 
 ### Sather
 
-* [Sather を試そう](http://www.shido.info/sather/index.html) - 紫藤貴文
+* [Sather を試そう](http://www.shido.info/sather/) - 紫藤貴文
 
 
 ### Scala

@@ -342,7 +342,7 @@
 
 ### Haskell
 
-* [Haskell のお勉強](http://www.shido.info/hs/index.html) - 紫藤貴文
+* [Haskell のお勉強](http://www.shido.info/hs/) - 紫藤貴文
 * [Haskell 基礎文法最速マスター](https://ruicc.hatenablog.jp/entry/20100131/1264905896) - id:ruicc
 * [Haskellでわかる代数的構造](https://aiya000.gitbooks.io/haskell_de_groupstructure/) - aiya000
 * [お気楽 Haskell プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/haskell.html) - 広井誠

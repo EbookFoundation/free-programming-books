@@ -630,7 +630,7 @@
 
 ### Swift
 
-* [逆引きSwift(iOS編)](https://sites.google.com/a/gclue.jp/swift-docs/) - 株式会社GClue
+* [逆引きSwift](http://docs.fabo.io/swift/) - FaBo
 
 
 ### Tcl/Tk

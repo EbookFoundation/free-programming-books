@@ -559,7 +559,7 @@
 * [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
 * [Rによる統計解析の基礎](http://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF)
 * [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
-* [統計解析ソフトRのスクリプト集](http://psych.educa.nagoya-u.ac.jp/doc/Rscripts_ishii.pdf) - 石井秀宗 (PDF)
+* [統計解析ソフトRのスクリプト集](https://nuss.nagoya-u.ac.jp/index.php/s/kN6ZxsyReNzRPlM) - 石井秀宗 (PDF)
 * [統計解析フリーソフトRの備忘録](http://cse.naro.affrc.go.jp/takezawa/r-tips.pdf) - 竹澤邦夫 (PDF)
 
 

@@ -516,7 +516,7 @@
 
 * [LISP and PROLOG](http://home.soka.ac.jp/~unemi/LispProlog/) - 畝見達夫
 * [Prolog プログラミング入門](http://bach.istc.kobe-u.ac.jp/prolog/intro/) - 田村直之
-* [お気楽 Prolog プログラミング入門](http://www.nct9.ne.jp/m_hiroi/prolog/index.html) - 広井誠
+* [お気楽 Prolog プログラミング入門](http://www.nct9.ne.jp/m_hiroi/prolog/) - 広井誠
 
 
 ### Python

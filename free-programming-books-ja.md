@@ -225,7 +225,7 @@
 
 ### C
 
-* [Ｃプログラミング診断室](http://www.pro.or.jp/~fuji/mybooks/cdiag/index.html) - 藤原博文
+* [Ｃプログラミング診断室](http://www.pro.or.jp/~fuji/mybooks/cdiag/) - 藤原博文
 * [C言語](https://ja.wikibooks.org/wiki/C%E8%A8%80%E8%AA%9E) - Wikibooks
 * [C言語プログラミング入門](http://densan-labs.net/tech/clang/) - @nishio_dens
 * [お気楽Ｃ言語プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/clang.html) - 広井誠

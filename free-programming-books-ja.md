@@ -594,7 +594,7 @@
 * [Gauche ユーザリファレンス](http://practical-scheme.net/gauche/man/gauche-refj.html) - 川合史朗
 * [Scheme](https://ja.wikibooks.org/wiki/Scheme) - Wikibooks
 * [Scheme 入門 スーパービギナー編](https://sites.google.com/site/atponslisp/home/scheme/racket/schemenyuumon-1/schemenyuumon)
-* [お気楽 Scheme プログラミング入門](http://www.geocities.jp/m_hiroi/func/scheme.html) - 広井誠
+* [お気楽 Scheme プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/scheme.html) - 広井誠
 * [もうひとつの Scheme 入門](http://www.shido.info/lisp/idx_scm.html) - 紫藤貴文
 * [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html) - 犬飼大
 

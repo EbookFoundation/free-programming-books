@@ -646,7 +646,7 @@
 
 ### VBA
 
-* [Excel 2013 で学ぶ Visual Basic for Applications (VBA)](http://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/vba2013/index.html) - 金丸隆志
+* [Excel 2013 で学ぶ Visual Basic for Applications (VBA)](https://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/vba2013/) - 金丸隆志
 * [Office 2013 Visual Basic for Applications 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/office/gg264383.aspx) - MSDN Library
 * [VBA基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100129/1264787849) - id:nattou\_curry
 

@@ -381,8 +381,8 @@
 
 #### Angular.js
 
-* [AngularJS 1.2 日本語リファレンス](http://js.studio-kingdom.com/angularjs) - @tomof(翻訳)
 * [Angular Docs](https://angular.jp/docs)
+* [AngularJS 1.2 日本語リファレンス](http://js.studio-kingdom.com/angularjs) - @tomof(翻訳)
 * [AngularJS's tutorial - あなたとともにAngularJS](http://lab.hisasann.com/AngularJSTutorial/) - @hisasann
 * [AngularJSスタイルガイド](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md)
 * [すぐできる AngularJS](http://8th713.github.io/LearnAngularJS) - @8th713

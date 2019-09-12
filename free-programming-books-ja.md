@@ -655,4 +655,4 @@
 
 * [Vim スクリプトリファレンス](http://nanasi.jp/code.html) - 小見拓
 * [Vim スクリプト基礎文法最速マスター](https://thinca.hatenablog.com/entry/20100201/1265009821) - id:thinca
-* [Vim スクリプト書法](http://vim-jp.org/vimdoc-ja/usr_41.html) - Bram Moolenaar, vimdoc-ja プロジェクト(翻訳)
+* [Vim スクリプト書法](https://vim-jp.org/vimdoc-ja/usr_41.html) - Bram Moolenaar, vimdoc-ja プロジェクト(翻訳)

@@ -454,7 +454,7 @@
 
 ### ML
 
-* [ATSプログラミング入門](http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS/index.html)
+* [ATSプログラミング入門](http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS/)
 
 
 ### NoSQL

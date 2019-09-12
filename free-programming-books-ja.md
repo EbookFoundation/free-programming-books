@@ -169,7 +169,7 @@
 
 #### 機械学習
 
-* [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/index.html#table-of-contents)
+* [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/)
 * [Mahoutで体感する機械学習の実践](http://gihyo.jp/dev/serial/01/mahout) - やまかつ
 * [機械学習 はじめよう](http://gihyo.jp/dev/serial/01/machine-learning) - 中谷秀洋，恩田伊織
 

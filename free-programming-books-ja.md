@@ -368,13 +368,13 @@
 * [Google JavaScript スタイルガイド](https://w.atwiki.jp/aias-jsstyleguide2/) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker, aiaswood(翻訳)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ja/) - Ivo Wetzel, HIRAKI Satoru(翻訳)
 * [JavaScript Plugin Architecture](https://azu.gitbooks.io/javascript-plugin-architecture/content/) - azu
-* [お気楽 JavaScript プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/light/javascript.html) - 広井誠
 * [JavaScript Promiseの本](https://azu.github.io/promises-book/) - azu
 * [JavaScript style guide](https://developer.mozilla.org/ja/docs/JavaScript_style_guide) - MDN
 * [JavaScript 基礎文法最速マスター](http://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
 * [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
 * [The little book of Buster.JS](https://the-little-book-of-busterjs.readthedocs.io/en/latest/) - azu
+* [お気楽 JavaScript プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/light/javascript.html) - 広井誠
 * [一撃必殺JavaScript日本語リファレンス](http://www.openspc2.org/JavaScript/) - 古籏一浩
 * [中上級者になるためのJavaScript](https://kenju.gitbooks.io/js_step-up-to-intermediate/) - Kenju
 

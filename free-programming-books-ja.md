@@ -552,7 +552,7 @@
 
 * [R](https://stats.biopapyrus.jp/r) - 孫建強
 * [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
-* [R 入門](http://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith and the R Development Core Team, 間瀬茂(翻訳) (PDF)
+* [R 入門](https://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith and the R Development Core Team, 間瀬茂(翻訳) (PDF)
 * [R 基本統計関数マニュアル](http://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) - 間瀬茂 (PDF)
 * [R 言語定義](http://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) - R Development Core Team, 間瀬茂(翻訳) (PDF)
 * [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/?page_id=626) - 小杉考司, 押江隆 (PDF, ePUB)

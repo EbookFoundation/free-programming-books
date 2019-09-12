@@ -616,7 +616,7 @@
 
 ### SQL(実装非依存)
 
-* [SQL](http://www.techscore.com/tech/sql/) - シナジーマーケティング株式会社
+* [SQL](https://www.techscore.com/tech/sql/) - シナジーマーケティング株式会社
 * [SQLアタマ養成講座](http://www.geocities.jp/mickindex/database/WDP/WDP_44.pdf) - ミック WEB+DB Press Vol.44 (2008) p.47-72 (PDF)
 * [SQLプログラミング作法](http://www.geocities.jp/mickindex/database/db_manner.html) - ミック
 

@@ -569,7 +569,7 @@
 * [Ruby on Rails チュートリアル](https://railstutorial.jp/) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
 * [Ruby ソースコード完全解説](http://i.loveruby.net/ja/rhg/book/) - 青木峰郎
 * [Ruby リファレンスマニュアル](https://www.ruby-lang.org/ja/documentation/) - まつもとゆきひろ
-* [Ruby 基礎文法最速マスター](http://route477.net/d/?date=20100125)
+* [Ruby 基礎文法最速マスター](https://route477.net/d/?date=20100125)
 * [TremaでOpenFlowプログラミング](http://yasuhito.github.io/trema-book/) - 高宮安仁, 鈴木一哉, 松井暢之, 村木暢哉, 山崎泰宏
 * [お気楽 Ruby プログラミング入門](http://www.geocities.jp/m_hiroi/light/ruby.html) - 広井誠
 * [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](http://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛

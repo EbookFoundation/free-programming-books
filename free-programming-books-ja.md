@@ -565,8 +565,8 @@
 
 ### Ruby
 
-* [Ruby on Rails ガイド](https://railsguides.jp/) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
-* [Ruby on Rails チュートリアル](https://railstutorial.jp/) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
+* [Ruby on Rails ガイド](https://railsguides.jp) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
+* [Ruby on Rails チュートリアル](https://railstutorial.jp) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
 * [Ruby ソースコード完全解説](http://i.loveruby.net/ja/rhg/book/) - 青木峰郎
 * [Ruby リファレンスマニュアル](https://www.ruby-lang.org/ja/documentation/) - まつもとゆきひろ
 * [Ruby 基礎文法最速マスター](https://route477.net/d/?date=20100125)
@@ -618,7 +618,7 @@
 
 * [SQL](https://www.techscore.com/tech/sql/) - シナジーマーケティング株式会社
 * [SQLアタマ養成講座](http://mickindex.sakura.ne.jp/database/WDP/WDP_44.pdf) - ミック WEB+DB Press Vol.44 (2008) p.47-72 (PDF)
-* [SQLプログラミング作法](http://mickindex.sakura.ne.jp/) - ミック
+* [SQLプログラミング作法](http://mickindex.sakura.ne.jp) - ミック
 
 
 ### Standard ML
@@ -647,8 +647,8 @@
 ### VBA
 
 * [Excel 2013 で学ぶ Visual Basic for Applications (VBA)](https://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/vba2013/) - 金丸隆志
-* [Visual Basic for Applications (VBA) の言語リファレンス](https://docs.microsoft.com/ja-jp/office/vba/api/overview/language-reference) - Microsoft Docs
 * [VBA基礎文法最速マスター](https://nattou-curry-2.hatenadiary.org/entry/20100129/1264787849) - id:nattou\_curry
+* [Visual Basic for Applications (VBA) の言語リファレンス](https://docs.microsoft.com/ja-jp/office/vba/api/overview/language-reference) - Microsoft Docs
 
 
 ### Vim

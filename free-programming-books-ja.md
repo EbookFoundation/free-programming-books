@@ -108,7 +108,7 @@
 * [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programmingv2/) - 独立行政法人情報処理推進機構(IPA)
 * [ネットワークプログラミングの基礎知識](http://x68000.q-e-d.net/~68user/net/) - 68user
 * [はやわかり RSA](http://www.mew.org/~kazu/doc/rsa.html) - 山本和彦
-* [安全なSQLの呼び出し方](http://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [安全なウェブサイトの作り方](http://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [暗号化アルゴリズム ([1])](http://fussy.web.fc2.com/algo/algo9-1.htm) - Fussy ([2](http://fussy.web.fc2.com/algo/algo9-2.htm)),  ([3](http://fussy.web.fc2.com/algo/algo9-3.htm)), ([4](http://fussy.web.fc2.com/algo/cipher4_elgamal.htm))
 

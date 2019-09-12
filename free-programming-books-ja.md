@@ -531,7 +531,7 @@
 * [python で心理実験](http://www.s12600.net/psy/python/) - 十河宏行
 * [Python で音声信号処理](http://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
 * [Python による日本語自然言語処理](http://www.nltk.org/book-jp/ch12.html) - Steven Bird, Ewan Klein, Edward Loper, 萩原正人(翻訳), 中山敬広(翻訳), 水野貴明(翻訳)
-* [Python の学習](http://skitazaki.github.io/python-school-ja/index.html) - KITAZAKI Shigeru
+* [Python の学習](http://skitazaki.github.io/python-school-ja/) - KITAZAKI Shigeru
 * [Python ヒッチハイク・ガイド](https://python-guide-ja.readthedocs.io/en/latest/) - Kenneth Reitz, Tsuyoshi Tokuda(翻訳)
 * [Python プログラマーのための gevent チュートリアル](http://methane.github.io/gevent-tutorial-ja/) - Stephen Diehl, Jérémy Bethmont, sww, Bruno Bigras, David Ripton, Travis Cline, Boris Feld, youngsterxyf, Eddie Hebert, Alexis Metaireau, Daniel Velkov, methane(翻訳)
 * [Python 基礎文法最速マスター](https://dplusplus.hatenablog.com/entry/20100126/p1) - id:dplusplus

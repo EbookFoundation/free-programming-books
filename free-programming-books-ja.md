@@ -611,7 +611,7 @@
 
 ### Smalltalk
 
-* [自由自在 Squeakプログラミング](http://swikis.ddo.jp/squeak/13) - 梅澤真史
+* [自由自在 Squeakプログラミング](https://swikis.ddo.jp/squeak/13) - 梅澤真史
 
 
 ### SQL(実装非依存)

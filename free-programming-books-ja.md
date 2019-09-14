@@ -288,7 +288,7 @@
 ### Emacs Lisp
 
 * [Emacs Lisp基礎文法最速マスター](http://d.hatena.ne.jp/rubikitch/20100201/elispsyntax) - id:rubikitch
-* [GNU Emacs Lispリファレンスマニュアル](http://www.bookshelf.jp/texi/elisp-manual/21-2-8/jp/elisp.html)
+* [GNU Emacs Lispリファレンスマニュアル](http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html)
 
 
 ### Erlang

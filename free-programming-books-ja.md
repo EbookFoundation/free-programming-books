@@ -524,7 +524,7 @@
 * [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
 * [Google Python スタイルガイド](http://works.surgo.jp/translation/pyguide.html) - Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields, Kosei Kitahara(翻訳)
 * [Notes on scientific computing with python](http://japanichaos.appspot.com) - 花田康高
-* [php プログラマのための Python チュートリアル](http://phpy.readthedocs.org/en/latest/) - INADA Naoki
+* [php プログラマのための Python チュートリアル](https://web.archive.org/web/20160813152046/http://phpy.readthedocs.io/en/latest/) - INADA Naoki
 * [Python 2.7.16 ドキュメント日本語訳](https://docs.python.org/ja/2.7/) - Python Software Foundation
 * [Python 3.4](https://stats.biopapyrus.jp/python) - 孫建強
 * [Python Scientific Lecture Notes](http://turbare.net/transl/scipy-lecture-notes/) - 打田旭宏(翻訳)

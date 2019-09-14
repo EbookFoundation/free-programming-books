@@ -240,7 +240,7 @@
 * [C++入門](http://www.asahi-net.or.jp/~yf8k-kbys/newcpp0.html) - 小林健一郎
 * [cpprefjp - C++ Reference Site in Japanese](https://cpprefjp.github.io)
 * [Google C++ スタイルガイド 日本語全訳](https://ttsuki.github.io/styleguide/cppguide.ja.html) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, ttsuki(翻訳)
-* [Standard Template Library プログラミング](http://episteme.wankuma.com/stlprog/) - επιστημη
+* [Standard Template Library プログラミング](https://web.archive.org/web/20170607163002/http://episteme.wankuma.com/stlprog/) - επιστημη
 * [お気楽Ｃ++プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/cpp.html) - 広井誠
 * [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/) - ロベール
 

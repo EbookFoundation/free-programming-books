@@ -265,7 +265,7 @@
 
 * [Common Lisp 入門](http://www.nct9.ne.jp/m_hiroi/xyzzy_lisp.html#abclisp) - 広井誠
 * [Google Common Lisp スタイルガイド 日本語訳](https://lisphub.jp/doc/google-common-lisp-style-guide/lispguide.xml) -  Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳)
-* [LISP and PROLOG](http://home.soka.ac.jp/~unemi/LispProlog/) - 畝見達夫
+* [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog/) - 畝見達夫
 * [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd/) - Paul Graham, 野田開(翻訳)
 * [マンガで分かるLisp(Manga Guide to Lisp)](http://lambda.bugyo.tk/cdr/mwl/) - λ組
 
@@ -514,7 +514,7 @@
 
 ### Prolog
 
-* [LISP and PROLOG](http://home.soka.ac.jp/~unemi/LispProlog/) - 畝見達夫
+* [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog/) - 畝見達夫
 * [Prolog プログラミング入門](http://bach.istc.kobe-u.ac.jp/prolog/intro/) - 田村直之
 * [お気楽 Prolog プログラミング入門](http://www.nct9.ne.jp/m_hiroi/prolog/) - 広井誠
 

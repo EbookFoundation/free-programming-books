@@ -209,7 +209,7 @@
 
 ### AWK
 
-* [AWK の第一歩](http://lagendra.w3.kanazawa-u.ac.jp/ogurisu/manuals/awk/index.html) - 小栗栖修
+* [AWK の第一歩](https://www.magata.net/memo/index.php?plugin=attach&pcmd=open&file=awk%A5%DE%A5%CB%A5%E5%A5%A2%A5%EB.pdf&refer=%A5%B7%A5%A7%A5%EB%A5%B3%A5%DE%A5%F3%A5%C9) - 小栗栖修 (PDF)
 * [AWK リファレンス](http://shellscript.sunone.me/awk.html) - SUNONE
 * [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
 

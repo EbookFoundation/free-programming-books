@@ -501,8 +501,8 @@
 
 ### PowerShell
 
+* [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
 * [PowerShell基礎文法最速マスター](http://winscript.jp/powershell/202) - 牟田口大介
-* [Windows PowerShell コア](https://technet.microsoft.com/ja-jp/library/bb978525.aspx) - Microsoft TechNet
 
 
 ### Processing

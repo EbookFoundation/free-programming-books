@@ -731,7 +731,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Microservices AntiPatterns and Pitfalls](https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) (PDF)
 * [Microservices in Production](http://www.oreilly.com/programming/free/microservices-in-production.csp) (email address *requested*, not required)
 * [Microservices vs. Service-Oriented Architecture](https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf) (PDF)
-* [Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp) (email address *requested*, not required)
+* [Migrating to Cloud-Native Application Architectures](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data/) (email address *requested*) (PDF)
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)
 * [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html)
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse and O. Nierstrasz

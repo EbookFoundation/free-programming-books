@@ -17,9 +17,11 @@
   * [NoSQL](#nosql)
   * [Relazionali](#relazionali)
   * [SQL](#sql)
+* [Golang](#golang)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Livecode](#livecode)
@@ -140,6 +142,11 @@
 * [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf) (PDF)
 
 
+### Golang
+
+* [Golang](http://www.vittal.it/wp-content/uploads/2019/01/golang.pdf) - V.Albertoni (PDF)
+
+
 ### Java
 
 * [Appendici del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_Java9-Appendici.pdf) - C. De Sio Cesari (PDF)
@@ -159,6 +166,11 @@
 * [Corso completo Javascript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
+
+
+### Kotlin
+
+* [Kotlin](http://www.vittal.it/wp-content/uploads/2019/07/kotlin.pdf) - V. Albertoni (PDF)
 
 
 ### LaTeX

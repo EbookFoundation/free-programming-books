@@ -45,6 +45,7 @@
 ### Node.js
 
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
+* [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua, Google Play Books (*account required*)
 
 
 ### NoSQL

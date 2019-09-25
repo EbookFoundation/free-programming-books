@@ -43,6 +43,7 @@
 
 ### C Sharp
 
+* [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Utilizando Formulários MDI Parent](https://www.udemy.com/formularios-mdi/) - Gilseone Moraes, Training4All Cursos (Udemy)

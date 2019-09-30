@@ -642,7 +642,7 @@
 
 ### TypeScript
 
-* [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - yohamta, basarat
+* [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - basarat, yohamta(翻訳)
 * [TypeScriptの為のクリーンコード](https://msakamaki.github.io/clean-code-typescript/) - labs42io, 酒巻 瑞穂(翻訳)
 
 

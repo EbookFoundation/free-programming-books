@@ -642,7 +642,8 @@
 
 ### TypeScript
 
-* [TypeScript クイックガイド](http://phyzkit.net/typescript/) - @KDKTN
+* [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - basarat, yohamta(翻訳)
+* [TypeScriptの為のクリーンコード](https://msakamaki.github.io/clean-code-typescript/) - labs42io, 酒巻 瑞穂(翻訳)
 
 
 ### VBA

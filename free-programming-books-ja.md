@@ -643,7 +643,6 @@
 ### TypeScript
 
 * [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - yohamta, basarat
-* [TypeScript クイックガイド](http://phyzkit.net/typescript/) - @KDKTN
 
 
 ### VBA

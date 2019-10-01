@@ -580,6 +580,7 @@
 * [openHPI](https://open.hpi.de)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
+* [Udemy](https://www.udemy.com)
 
 
 #### Networking
@@ -1341,6 +1342,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### HTML / CSS
 
 * [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
+* [A beginner's tutorial to HTML](http://https://www.w3schools.com/html/default.asp)
 * [A free guide to learn HTML and CSS](http://marksheet.io)
 * [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/) - Aaron Gustafson
 * [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)

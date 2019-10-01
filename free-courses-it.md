@@ -67,6 +67,7 @@
 ### Database
 
 * [Basi di dati](https://www.youtube.com/playlist?list=PLgaOrAQwrg9JZs6dbDolNlShHFgpJSChj) (M. De Ghetto)
+* [Basi di Dati](https://www.youtube.com/playlist?list=PLAQopGWlIcyZ7CN1sefdnCusfoodLP931) (T. Catarci)
 
 
 ### Delphi

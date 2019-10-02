@@ -72,7 +72,6 @@
 ### Android
 
 * [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
-* [Guida programmazione Android 4.2](http://www.sprik.it/download/guida-programmazione-android-4-2/)
 
 
 ### Assembly Language
@@ -95,7 +94,7 @@
 
 ### C Sharp
 
-* [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/)
+* [ABC# - Guida alla programmazione](http://antoniopelleriti.it/wp-content/uploads/2019/04/ABCsharp-guida-alla-programmazione-in-csharp.pdf) - A. Pelleriti (PDF)
 
 
 ### C Plus Plus
@@ -180,10 +179,10 @@
 * [Impara LaTeX! (... e mettilo da parte)](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf) - Marc Baudoin (PDF)
 * [Introduzione all'arte della composizione tipografica con LaTeX](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf) - GuIT (PDF)
 * [L'arte di scrivere con LaTeX](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf) - L. Pantieri e T. Gordini (PDF)
-* [LaTeX facile](http://www.guit.sssup.it/downloads/LaTeX-facile.pdf) - N. Garbellini (PDF)
+* [LaTeX facile](https://web.archive.org/web/20180712171427/http://www.guit.sssup.it/downloads/LaTeX-facile.pdf) - N. Garbellini (PDF)
 * [LaTeX, naturalmente!](http://www.batmath.it/latex/pdfs/guida_st.pdf) - L .Battaia (PDF)
 * [LaTeX per l'impaziente](http://www.lorenzopantieri.net/LaTeX_files/LaTeXimpaziente.pdf) - L. Pantieri (PDF)
-* [Scrivere la tesi di laurea con LaTeX](http://www.guit.sssup.it/guitmeeting/2005/articoli/mori.pdf) - L.F. Mori (PDF)
+* [Scrivere la tesi di laurea con LaTeX](https://web.archive.org/web/20180417083215/http://www.guit.sssup.it/guitmeeting/2005/articoli/mori.pdf) - L.F. Mori (PDF)
 * [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
 
 
@@ -226,7 +225,7 @@
 
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf) (PDF)
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
-* [Ruby User Guide](http://ruby-it.org/rug_it.zip)
+* [Ruby User Guide](https://web.archive.org/web/20161102011319/http://ruby-it.org/rug_it.zip)
 
 
 ### UML

@@ -362,7 +362,7 @@
 * [Codesdope](https://www.codesdope.com/python-introduction)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
-* [Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/?WT.mc_id=python-c9-niner)(Microsoft Docs)
+* [Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)(Microsoft Docs)
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (Udacity)
 * [Learn Python](https://pythonspot.com)
 * [Learn Python - Free Interactive Python Tutorial](http://www.learnpython.org)

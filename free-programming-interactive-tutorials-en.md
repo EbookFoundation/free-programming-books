@@ -107,7 +107,7 @@
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
-* [Prototyping a professional website](https://www.codecademy.com/skills/make-a-website)
+* [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
 
 ### Java
@@ -201,7 +201,6 @@
 ### Ruby
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
-* [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
@@ -210,7 +209,7 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
-* [Scala Exercises](https://www.scala-exercises.org) 
+* [Scala Exercises](https://www.scala-exercises.org)
 
 
 ### Selenium

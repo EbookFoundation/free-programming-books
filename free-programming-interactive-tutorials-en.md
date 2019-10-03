@@ -108,7 +108,7 @@
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
-* [Prototyping a professional website](https://www.codecademy.com/skills/make-a-website)
+* [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
 
 ### Java
@@ -212,7 +212,7 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
-* [Scala Exercises](https://www.scala-exercises.org) 
+* [Scala Exercises](https://www.scala-exercises.org)
 
 
 ### Selenium

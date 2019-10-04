@@ -81,6 +81,7 @@
 
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+* [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
 
 
@@ -107,7 +108,7 @@
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
-* [Prototyping a professional website](https://www.codecademy.com/skills/make-a-website)
+* [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
 
 ### Java
@@ -211,7 +212,7 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
-* [Scala Exercises](https://www.scala-exercises.org) 
+* [Scala Exercises](https://www.scala-exercises.org)
 
 
 ### Selenium

@@ -69,6 +69,12 @@
 * [Try Haskell](https://www.tryhaskell.org)
 
 
+### Java
+
+* [Online Java IDE](https://www.compilejava.net)
+* [Sololearn](https://code.sololearn.com/cVRUy2BwauK8#java)
+
+
 ### JavaScript
 
 * [CodePen](https://codepen.io)
@@ -122,6 +128,11 @@
 * [R-Fiddle](http://www.r-fiddle.org)
 
 
+### React
+
+* [jscomplete](https://jscomplete.com/playground)
+
+
 ### Ruby
 
 * [Codepad](http://codepad.org)
@@ -154,11 +165,3 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 
-### React
-
-* [jscomplete](https://jscomplete.com/playground)
-
-### Java
-
-* [Online Java IDE](https://www.compilejava.net/)
-* [Sololearn](https://code.sololearn.com/cVRUy2BwauK8#java)

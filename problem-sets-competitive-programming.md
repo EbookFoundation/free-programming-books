@@ -32,7 +32,6 @@
 * [Topcoder](https://www.topcoder.com)
 
 
-
 ### Data science
 
 * [Kaggle](https://www.kaggle.com)

@@ -160,5 +160,5 @@
 
 ### Java
 
-* [Online Java IDE] (https://www.compilejava.net/)
+* [Online Java IDE](https://www.compilejava.net/)
 * [Sololearn](https://code.sololearn.com/cVRUy2BwauK8#java)

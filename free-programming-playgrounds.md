@@ -23,7 +23,8 @@
 * [SQL](#sql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-
+* [React](#react)
+* [Java](#java)
 
 ### Angular
 
@@ -152,3 +153,12 @@
 ### TypeScript
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
+
+### React
+
+* [jscomplete](https://jscomplete.com/playground)
+
+### Java
+
+* [Online Java IDE] (https://www.compilejava.net/)
+* [Sololearn](https://code.sololearn.com/cVRUy2BwauK8#java)

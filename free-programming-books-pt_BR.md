@@ -1,5 +1,6 @@
 ### Índice
 
+* [Android](#android)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -35,6 +36,11 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
+
+
+### Android
+
+* [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 
 
 ### C

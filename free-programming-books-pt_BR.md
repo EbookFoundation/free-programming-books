@@ -128,6 +128,7 @@
 
 #### Angular
 
+* [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm)
 * [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/index.html)
 
 

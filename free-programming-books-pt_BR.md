@@ -1,5 +1,6 @@
 ### Índice
 
+* [Android](#android)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -35,6 +36,11 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
+
+
+### Android
+
+* [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 
 
 ### C
@@ -122,6 +128,7 @@
 
 #### Angular
 
+* [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm)
 * [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/index.html)
 
 

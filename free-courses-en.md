@@ -288,6 +288,7 @@
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Intro to Machine Learning Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
 
 ### MATLAB

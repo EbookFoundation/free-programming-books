@@ -7,6 +7,7 @@
   * [Sistemi](#sistemi)
   * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
+* [Angular](#angular)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
@@ -72,6 +73,11 @@
 ### Android
 
 * [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
+
+
+### Angular
+
+* [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
 
 
 ### Assembly Language

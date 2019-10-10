@@ -1,19 +1,9 @@
 ### Index
 
-* [HTML](#HTML)
-* [Javascript](#Javascript)
 * [Big Data](#BigData)
 * [Database](#Database)
-
-
-### HTML
-
-* [எளிய தமிழில் HTML](http://www.kaniyam.com/learn-html-in-tamil/)
-* [எளிய தமிழில் CSS](http://www.kaniyam.com/learn-css-in-tamil-ebook/)
-
-### Javascript
-
-* [எளிய தமிழில் JavaScript](http://www.kaniyam.com/learn-javascript-in-tamil/)
+* [HTML](#HTML)
+* [Javascript](#Javascript)
 
 ### BigData
 
@@ -22,3 +12,15 @@
 ### Database
 
 * [எளிய தமிழில் MySQL ](http://www.kaniyam.com/mysql-book-in-tamil/)
+
+### HTML
+
+* [எளிய தமிழில் CSS](http://www.kaniyam.com/learn-css-in-tamil-ebook/)
+* [எளிய தமிழில் HTML](http://www.kaniyam.com/learn-html-in-tamil/)
+
+
+### Javascript
+
+* [எளிய தமிழில் JavaScript](http://www.kaniyam.com/learn-javascript-in-tamil/)
+
+

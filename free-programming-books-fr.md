@@ -200,7 +200,6 @@
 ### Meteor
 
 * [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
-* [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
 
 
 ### Perl

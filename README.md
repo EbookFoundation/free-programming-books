@@ -50,6 +50,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 + [Slovak](/free-programming-books-sk.md)
 + [Spanish](/free-programming-books-es.md)
 + [Swedish](/free-programming-books-se.md)
++ [Tamil](/free-programming-books-ta.md)
 + [Turkish](/free-programming-books-tr.md)
 + [Ukrainian](/free-programming-books-ua.md)
 

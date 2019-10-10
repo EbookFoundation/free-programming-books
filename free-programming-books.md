@@ -1960,7 +1960,6 @@ Kerridge (PDF) (email address *requested*, not required)
     * [The Symfony Best practices 4.1.x](https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF)
     * [The Symfony Book 4.1.x](https://symfony.com/doc/4.1/index.html)
     * [The Symfony Getting started 4.1.x](https://symfony.com/pdf/Symfony_getting_started_4.1.pdf) (PDF)
-
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 * Zend Framework
   * [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)

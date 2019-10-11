@@ -51,7 +51,7 @@
 * [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
-
+* [C para seres humanos](https://github.com/RoboCopGay/C_para_seres_humanos.book/releases/download/v0.1/C_para_seres_humanos.pdf)
 
 ### C Sharp
 

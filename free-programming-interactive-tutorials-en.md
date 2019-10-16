@@ -6,6 +6,7 @@
 * [C#](#c-sharp)
 * [C++](#c-1)
 * [Clojure](#clojure)
+* [Cloud Computing](#cloud computing)
 * [CoffeeScript](#coffeescript)
 * [Erlang](#erlang)
 * [Git](#git)
@@ -64,6 +65,14 @@
 * [Clojure Koans](http://clojurekoans.com)
 * [ClojureScript Koans](http://clojurescriptkoans.com)
 * [Try Clojure](http://www.tryclj.com)
+
+
+### Cloud Computing 
+
+* [AWS Elastic Compute Cloud (EC2)](https://run.qwiklab.com/searches/lab?keywords=introduction%20to%20amazon%20elastic%20compute%20cloud&qlcampaign=intro-labs-sm)
+* [AWS Relational Database Service](https://run.qwiklab.com/searches/lab?keywords=introduction%20to%20amazon%20relational%20database%20service&qlcampaign=intro-labs-sm)
+* [AWS Simple Storage Service (S3)](https://run.qwiklabs.com/catalog?keywords=introduction%20to%20amazon%20simple%20storage%20service&qlcampaign=intro-labs-sm&ransack=true)
+* [Google Cloud Platform](https://cloud.google.com/training/free-labs/)
 
 
 ### CoffeeScript

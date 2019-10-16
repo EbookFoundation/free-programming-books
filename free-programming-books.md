@@ -1549,7 +1549,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Angular.js
 
-* [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
+* [Angular for the jQuery developer](http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
 * [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)

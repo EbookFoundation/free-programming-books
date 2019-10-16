@@ -227,7 +227,6 @@
 * [Bitsavers.org](http://bitsavers.trailing-edge.com)
 * [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks) Cookie required. (email address *requested*, not required)
 * [Cheat Sheets (Free)](https://dzone.com/refcardz)
-* [Codingus](http://codingus.blogspot.in)
 * [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com)
@@ -683,7 +682,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Regular Expressions
 
-* [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/) - Zed. A. Shaw
 * [RexEgg](http://www.rexegg.com)
 * [The 30 Minute Regex Tutorial](http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
 * [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen  *(Leanpub account or valid email requested)*
@@ -774,6 +772,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 * [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/html/index.xhtml)
 * [The Black Art of Programming](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) - Mark McIlroy
+* [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 
 
@@ -1248,6 +1247,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
+* [How to Collaborate on Github](https://github.com/eonist/How-to-collaborate-on-github) - André J
 * [Intoduction to Git and Github](https://launchschool.com/books/git) - Launch School
 * [Intoduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
 * [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
@@ -1549,7 +1549,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Angular.js
 
-* [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
+* [Angular for the jQuery developer](http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
 * [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)

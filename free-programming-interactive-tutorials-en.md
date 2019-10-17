@@ -6,7 +6,7 @@
 * [C#](#c-sharp)
 * [C++](#c-1)
 * [Clojure](#clojure)
-* [Cloud Computing](#cloud_computing)
+* [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Erlang](#erlang)
 * [Git](#git)

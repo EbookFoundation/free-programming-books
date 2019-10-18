@@ -148,6 +148,7 @@
 * [MySQL](#mysql)
 * [Neo4J](#neo4j)
 * [.NET Framework](#net-framework)
+* [Nim](#nim)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)
 * [Objective-C](#objective-c)
@@ -1890,6 +1891,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Under the Hood of .NET Memory Management](http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf) (PDF) *(RedGate, By Chris Farrell and Nick Harrison)*
 * [Visual Studio .NET Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
 
+### Nim
+
+* [Nim Basics](https://narimiran.github.io/nim-basics/)
 
 ### NoSQL
 

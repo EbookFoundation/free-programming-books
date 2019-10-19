@@ -136,8 +136,8 @@
 
 ### C++
 
-* [Aprenda C++ avanzado como si estuviera en primero](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
-* [Aprenda C++ básico como si estuviera en primero](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) (PDF)
+* [Aprenda C++ avanzado como si estuviera en primero](http://decsai.ugr.es/mp2/docs/cppavan.pdf) (PDF)
+* [Aprenda C++ básico como si estuviera en primero](ftp://www.cc.uah.es/pub/Alumnos/G_Ing_Informatica/Estructuras_de_Datos/Lab-JoseLuis/ManualC++.pdf) (PDF)
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) (HTML)
 
 

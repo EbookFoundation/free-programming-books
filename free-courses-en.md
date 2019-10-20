@@ -5,6 +5,7 @@
 * [Angular](#angular)
 * [Assembly](#assembly)
 * [Bash / Shell](#bash--shell)
+* [BlockChain](#blockchain)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -97,7 +98,9 @@
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
 
-
+### BlockChain
+* [Bitcoin and Cryptocurrency Technologies](https://www.lopp.net/pdf/princeton_bitcoin_book.pdf) - Bitcoin and Cryptocurrency Technologies
+* [Official BlockChain guide](https://bitcoin.org/en/blockchain-guide)
 ### C
 
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)

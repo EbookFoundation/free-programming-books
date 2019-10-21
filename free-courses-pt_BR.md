@@ -43,7 +43,6 @@
 
 ### C Sharp
 
-*[Crie um JOGO simples na Unity 2019 e C#!](https://www.udemy.com/course/crie-um-jogo-simples-na-unity-2019-curso-gratuito/)  Gabriel Chiarelli (Udemy)
 * [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Utilizando Formulários MDI Parent](https://www.udemy.com/formularios-mdi/) - Gilseone Moraes, Training4All Cursos (Udemy)

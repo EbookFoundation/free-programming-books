@@ -1,10 +1,16 @@
 ### Index
 
+* [C](#c)
 * [C++](#c++)
 * [Java](#java)
 * [Python](#python)
 * [Scala](#scala)
 * [SQL](#sql)
+
+
+### C
+
+* [Διαδικαστικός προγραμματισμός](https://repository.kallipos.gr/bitstream/11419/1346/1/00_master%20document_KOY.pdf) - Μαστοροκώστας Πάρις (PDF)
 
 
 ### C++

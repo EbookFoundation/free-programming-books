@@ -6,6 +6,8 @@
 * [C](#c)
 * [C Sharp](#c-sharp)
 * [C++](#c++)
+* [Database](#database)
+  * [SQL](#sql)
 * [Delphi](#delphi)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
@@ -13,6 +15,7 @@
 * [Java](#Java)
 * [Javascript](#javascript)
 * [Machine Learning](#machine-learning)
+* [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
 * [Programmazione](#programmazione)
@@ -25,6 +28,7 @@
   * [Git](#git)
   * [Maven](#maven)
 * [Web](#web)
+  * [Vue](#vue)
 * [Workshop](#workshop)  
 
 
@@ -61,6 +65,17 @@
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) (F. Camuso)
 
 
+### Database
+
+* [Basi di dati](https://www.youtube.com/playlist?list=PLgaOrAQwrg9JZs6dbDolNlShHFgpJSChj) (M. De Ghetto)
+* [Basi di Dati](https://www.youtube.com/playlist?list=PLAQopGWlIcyZ7CN1sefdnCusfoodLP931) (T. Catarci)
+
+
+#### SQL
+
+* [Corso SQL](https://www.youtube.com/playlist?list=PLE555DB6188C967AC) (F. Camuso)
+
+
 ### Delphi
 
 * [Videocorso Delphi/Lazarus](https://www.youtube.com/watch?v=JxE1nUqriV0&list=PLF75FB30719A09FA2) (F. Camuso)
@@ -70,6 +85,7 @@
 
 #### Arduino
 
+* [Arduino Cookbook - Corso di Arduino in 150 video](https://www.youtube.com/playlist?list=PL9_01HM23dGEDNNfR6BtlDWD8DDoAcLOT) (P. Aliverti)
 * [Corso Arduino 2014](https://www.youtube.com/watch?v=WuqS4C4u42E&list=PLA27EZBY5vePO9T6YP3rH8LTTdylz69VE) (POuLpolimi Politecnico di Milano)
 
 
@@ -98,6 +114,11 @@
 ### Machine Learning
 
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) (P. Savastano) 
+
+
+### Mobile
+
+* [DART & FLUTTER (per il mobile)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x) (F. Camuso)
 
 
 ### Networking
@@ -146,6 +167,9 @@
 
 ### Strumenti di sviluppo
 
+* [Visual Studio 2019](https://www.youtube.com/playlist?list=PLgaOrAQwrg9J04dWnY-FF4SXUFt-TEQkE) (Mario De Ghetto)
+
+
 #### Git
 
 * [Corso Git 2017](https://www.youtube.com/playlist?list=PLA27EZBY5veN02RzEr6Ecm7KcjWadthBh) (POuLpolimi Politecnico di Milano)
@@ -159,6 +183,11 @@
 ### Web
 
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - F. Corno e S. Di Carlo (Politecnico di Torino)
+
+
+#### Vue
+
+* [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) (F. Camuso)
 
 
 ### Workshop

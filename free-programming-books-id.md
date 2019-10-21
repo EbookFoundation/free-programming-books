@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [Emacs](#emacs)
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)
@@ -14,6 +15,11 @@
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
 
 
+### Emacs
+
+* [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
+
+
 ### Git
 
 * [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
@@ -22,7 +28,7 @@
 
 ### Go
 
-* [Dasar Pemrograman Golang](https://www.gitbook.com/book/novalagung/dasarpemrogramangolang)
+* [Dasar Pemrograman Golang](https://github.com/novalagung/dasarpemrogramangolang)
 
 
 ### HTML CSS
@@ -39,6 +45,7 @@
 ### Node.js
 
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
+* [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua, Google Play Books (*account required*)
 
 
 ### NoSQL

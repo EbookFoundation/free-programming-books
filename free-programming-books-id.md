@@ -13,6 +13,7 @@
 ### Android
 
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
+* [Ebook dan Video Pemrograman Android Gratis dari Google](https://www.petanikode.com/ebook-android/)
 
 
 ### Emacs

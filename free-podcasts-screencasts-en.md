@@ -127,6 +127,7 @@
 
 * [The Haskell Cast](http://www.haskellcast.com) (podcast)
 * [HaskellRank](https://www.youtube.com/playlist?list=PLguYJK7ydFE4aS8fq4D6DqjF6qsysxTnx) — Tsoding (screencast)
+* [Haskell Tutorial](https://www.youtube.com/watch?v=02_H3LjqMr8) (screencast)
 
 
 ### Java
@@ -295,3 +296,4 @@
 ### Vim
 
 * [Free screencasts about the text editor Vim](http://vimcasts.org) (screencast)
+* [vim Hacking](https://www.youtube.com/playlist?list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7) (screencast)

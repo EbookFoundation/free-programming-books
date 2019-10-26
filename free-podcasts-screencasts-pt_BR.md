@@ -4,6 +4,7 @@
 * [Angular](#angular)
 * [Databases](#databases)
 * [DataScience](#datascience)
+* [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
@@ -12,7 +13,6 @@
 * [Python](#python)
 * [TypeScript](#typescript)
 * [Vue.js](#vuejs)
-* [Haskell](#haskell)
 
 
 ### Algoritmos
@@ -34,6 +34,10 @@
 ### DataScience
 
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
+
+
+### Haskell
+* [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) (screencast)
 
 
 ### HTML / CSS
@@ -93,7 +97,5 @@
 
 * [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli  (screencast)
 
-### Haskell
-* [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) (screencast)
 
 

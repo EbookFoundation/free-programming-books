@@ -931,7 +931,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - B. Hall
 * [Beej's Guide to Network Programming - Using Internet Sockets](http://beej.us/guide/bgnet/) - B. Hall
-* [Build Your Own Lisp](http://www.buildyourownlisp.com)
+* [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
 * [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)
 * [C Notes](https://goalkicker.com/CBook) (PDF)
@@ -942,6 +942,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
 * [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
 * [Learn to Code With C - The MagPi Essentials](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf) (PDF)
+* [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
 * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
@@ -952,8 +953,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
-* [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
-* [Build Your Own Lisp](http://www.buildyourownlisp.com/contents) - Daniel Holden
 
 
 ### C Sharp
@@ -1704,12 +1703,12 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Julia
 
-* [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens and Allen Downey (GitBook)
 * [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
 * [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
 * [Julia language: a concise tutorial](https://www.gitbook.com/book/sylvaticus/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
 * [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
+* [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens and Allen Downey (GitBook)
 
 
 ### Kotlin

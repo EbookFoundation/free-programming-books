@@ -37,6 +37,7 @@
 
 
 ### Haskell
+
 * [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) (screencast)
 
 
@@ -96,6 +97,3 @@
 #### Vue.js
 
 * [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli  (screencast)
-
-
-

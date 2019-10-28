@@ -272,8 +272,8 @@
 
 ### Linux
 
-* [Ubuntu Web Development Setup](https://www.udemy.com/course/ubuntu-web-development-setup/) - Ciprian Munteanu (Udemy)
 * [The Linux Basics: Beginner to Sysadmin, Step by Step](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
+* [Ubuntu Web Development Setup](https://www.udemy.com/course/ubuntu-web-development-setup/) - Ciprian Munteanu (Udemy)
 
 
 ### Lua

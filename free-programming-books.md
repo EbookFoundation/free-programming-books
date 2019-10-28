@@ -952,6 +952,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
+* [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
+* [Build Your Own Lisp](http://www.buildyourownlisp.com/contents) - Daniel Holden
 
 
 ### C Sharp
@@ -1702,6 +1704,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Julia
 
+* [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens and Allen Downey (GitBook)
 * [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
 * [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
 * [Julia language: a concise tutorial](https://www.gitbook.com/book/sylvaticus/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)

@@ -31,13 +31,13 @@
 
 ### AspectJ
 
-* [AspectJ Kitabı](http://kodcu.com/aspectj-ebook/) - [Hakan Özler](https://kodcu.com/author/hakan-ozler/)
+* [AspectJ Kitabı](http://kodcu.com/aspectj-ebook) - [Hakan Özler](https://kodcu.com/author/hakan-ozler)
 
 
 ### C
 
-* [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul/)
-* [Programlamaya Giriş Ders Notları](http://web.itu.edu.tr/uyar/programlama/) - [H.Turgut Uyar](http://web.itu.edu.tr/uyar)
+* [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
+* [Programlamaya Giriş Ders Notları](http://web.itu.edu.tr/uyar/programlama) - [H.Turgut Uyar](http://web.itu.edu.tr/uyar)
 
 
 ### CSS
@@ -47,7 +47,7 @@
 
 ### D
 
-* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf) (PDF) - Ali Çehreli
+* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf) - Ali Çehreli (PDF)
 
 
 ### Dart
@@ -57,7 +57,7 @@
 
 ### Fortran
 
-* [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul/)
+* [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
 
 
 ### Git
@@ -101,7 +101,7 @@
 
 ### Matlab
 
-* [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/) - İsmail Arı
+* [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris) - İsmail Arı
 
 
 ### .NET Framework
@@ -117,12 +117,12 @@
 ### Python
 
 * [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](http://ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
-* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
+* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza)
 
 
 ### Django
 
-* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (1.11) (HTML) (:construction: *in process*)
+* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
 
 
 ### R
@@ -132,11 +132,11 @@
 
 ### Ruby
 
-* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md) - [Leyla Kapı](http://www.leylakapi.com/)
-* [Ruby](https://www.ruby-lang.org/tr/)
+* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md) - [Leyla Kapı](http://www.leylakapi.com)
+* [Ruby](https://www.ruby-lang.org/tr)
 * [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html) - Mark Slagell
-* [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
+* [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart)
 
 
 ### Rust

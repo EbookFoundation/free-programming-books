@@ -47,7 +47,7 @@
 
 ### D
 
-* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf) (PDF)
+* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf) (PDF) - Ali Çehreli
 
 
 ### Dart
@@ -57,7 +57,7 @@
 
 ### Fortran
 
-* [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php)
+* [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul/)
 
 
 ### Git

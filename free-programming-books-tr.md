@@ -31,7 +31,7 @@
 
 ### AspectJ
 
-* [AspectJ Kitabı](http://kodcu.com/aspectj-ebook/)
+* [AspectJ Kitabı](http://kodcu.com/aspectj-ebook/) by [Hakan Özler](https://kodcu.com/author/hakan-ozler/)
 
 
 ### C

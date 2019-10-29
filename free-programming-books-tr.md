@@ -31,13 +31,13 @@
 
 ### AspectJ
 
-* [AspectJ Kitabı](http://kodcu.com/aspectj-ebook/) by [Hakan Özler](https://kodcu.com/author/hakan-ozler/)
+* [AspectJ Kitabı](http://kodcu.com/aspectj-ebook/) - [Hakan Özler](https://kodcu.com/author/hakan-ozler/)
 
 
 ### C
 
-* [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
-* [Programlamaya Giriş Ders Notları, H. Turgut Uyar](http://web.itu.edu.tr/uyar/programlama/)
+* [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul/)
+* [Programlamaya Giriş Ders Notları](http://web.itu.edu.tr/uyar/programlama/) - [H.Turgut Uyar](http://web.itu.edu.tr/uyar)
 
 
 ### CSS

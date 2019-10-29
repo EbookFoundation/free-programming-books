@@ -62,8 +62,8 @@
 
 ### Git
 
-* [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
-* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) by [Ali Özgür](https://github.com/aliozgur)
+* [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler
+* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) - [Ali Özgür](https://github.com/aliozgur)
 
 
 ### Go
@@ -101,7 +101,7 @@
 
 ### Matlab
 
-* [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)
+* [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/) - İsmail Arı
 
 
 ### .NET Framework
@@ -127,19 +127,19 @@
 
 ### R
 
-* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk)
+* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk) - Emrah Er
 
 
 ### Ruby
 
-* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
+* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md) - [Leyla Kapı](http://www.leylakapi.com/)
 * [Ruby](https://www.ruby-lang.org/tr/)
 * [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
-* [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
+* [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html) - Mark Slagell
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
 
 
 ### Rust
 
-* [Rust'a Giriş](http://bit.ly/rustagiris)
+* [Rust'a Giriş](http://bit.ly/rustagiris) - Mahmut Bulut
 

@@ -76,6 +76,7 @@
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
 * [Sololearn](https://code.sololearn.com/#html)
+* [GeeksForGeeks](https://ide.geeksforgeeks.org/)
 
 
 ### Kotlin
@@ -101,6 +102,8 @@
 ### Perl
 
 * [Perl](http://tryperl.pl)
+* [Codepad](http://codepad.org/)
+* [GeeksForGeeks](https://ide.geeksforgeeks.org/)
 
 
 ### PHP
@@ -108,13 +111,15 @@
 * [Codepad](http://codepad.org)
 * [PHPFiddle](http://phpfiddle.org)
 * [PHPTester](http://phptester.net)
+* [GeeksForGeeks](https://ide.geeksforgeeks.org/)
 
 
 ### Python
 
 * [Codepad](http://codepad.org)
 * [Pyfiddle](https://pyfiddle.io)
-
+* [Online GDB](https://www.onlinegdb.com/online_python_compiler)
+* [GeeksForGeeks](https://ide.geeksforgeeks.org/)
 
 ### R
 
@@ -136,6 +141,7 @@
 * [ScalaFiddle.io](https://scalafiddle.io)
 * [ScalaFiddle.net](http://scalafiddle.net)
 * [Scastie](https://scastie.scala-lang.org)
+* [GeeksForGeeks](https://ide.geeksforgeeks.org/)
 
 
 ### SQL

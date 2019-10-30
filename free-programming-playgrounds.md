@@ -76,7 +76,7 @@
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
 * [Sololearn](https://code.sololearn.com/#html)
-* [GeeksForGeeks](https://ide.geeksforgeeks.org/)
+* [JS.do](https://js.do/)
 
 
 ### Kotlin

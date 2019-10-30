@@ -735,6 +735,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html)
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse and O. Nierstrasz
 * [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett  *(Leanpub account or valid email requested)*
+* [Reactive Microsystems: The Evolution of Microservices at Scale](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly) (email address *requested*)
 * [Reactive Microservices Architecture](https://www.lightbend.com/ebooks/reactive-microservices-architecture-design-principles-for-distributed-systems-oreilly) (email address *requested*)
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 * [Serverless apps: Architecture, patterns, and Azure implementation](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/)

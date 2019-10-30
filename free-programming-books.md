@@ -1188,7 +1188,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [F# Programming](https://en.wikibooks.org/wiki/F_Sharp_Programming) - Wikibooks
 * [F# Succinctly, SyncFusion](https://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) (email address *requested*, not required)
 * [Functional Programming Textbook](https://www.overleaf.com/read/hcwwdfxvftfp) - Yusuf M Motara (PDF)
-* [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf) (PDF)
+* [Programming Language Concepts for Software Developers](https://archive.org/details/B-001-003-622)
 
 
 ### Firefox OS

@@ -1188,7 +1188,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [F# Programming](https://en.wikibooks.org/wiki/F_Sharp_Programming) - Wikibooks
 * [F# Succinctly, SyncFusion](https://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) (email address *requested*, not required)
 * [Functional Programming Textbook](https://www.overleaf.com/read/hcwwdfxvftfp) - Yusuf M Motara (PDF)
-* [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf) (PDF)
+* [Programming Language Concepts for Software Developers](https://archive.org/details/B-001-003-622)
 
 
 ### Firefox OS
@@ -2000,6 +2000,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Perl 6 at a Glance](https://perl6.online/perl6-at-a-glance/) - Andrew Shitov (HTML) (PDF)
 * [Perl 6 Introduction](http://perl6intro.com)
 * [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming) - Wikibooks
+* [Raku One-Liners](https://deeptext.media/raku-oneliners) - Andrew Shitov (PDF)
 * [Think Perl 6](http://greenteapress.com/thinkperl6/thinkperl6.pdf) - Laurent Rosenfeld, with Allen B. Downey (PDF)
 * [Using Perl 6](https://github.com/perl6/book/) (:construction: *project is dead*)
 

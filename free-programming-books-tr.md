@@ -11,6 +11,7 @@
 * [Go](#go)
 * [Html](#html)
 * [iOS](#ios)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -80,6 +81,11 @@
 ### iOS
 
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
+
+
+### Java
+
+* [Java ile 24 Kahve Molası](https://www.buraksenyurt.com/pics/2014%2f2%2fJavaile24KahveMolasi.docx) - [Burak Selim Şenyurt]
 
 
 ### JavaScript

@@ -196,6 +196,7 @@
 * [Sed](#sed)
 * [Self](#self)
 * [Smalltalk](#smalltalk)
+* [Snap](#snap)
 * [Spark](#spark)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
@@ -2476,6 +2477,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Pharo by Example](http://books.pharo.org/pharo-by-example/) (Smalltalk Implementation and IDE)
 * [Squeak By Example](http://www.squeakbyexample.org) (Smalltalk Implementation and IDE)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
+
+
+### Snap
+
+* [Snap! Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) - B. Harvey, J. Mönig (PDF)
 
 
 ### Spark

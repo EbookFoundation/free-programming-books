@@ -196,7 +196,7 @@
 * [Sed](#sed)
 * [Self](#self)
 * [Smalltalk](#smalltalk)
-* [Snap&#33;](#snap)
+* [Snap](#snap)
 * [Spark](#spark)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
@@ -2479,7 +2479,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 
 
-### Snap&#33;
+### Snap
 
 * [Snap! Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) - B. Harvey, J. Mönig (PDF)
 

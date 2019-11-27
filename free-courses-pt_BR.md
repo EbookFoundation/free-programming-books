@@ -47,7 +47,6 @@
 * [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Utilizando Formulários MDI Parent](https://www.udemy.com/formularios-mdi/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
-* [Testes unitários em C# com NUnit e Moq](https://www.udemy.com/testes-unitarios-em-csharp-com-nunit-e-moq/) - Leonardo Baraúna (Udemy)
 
 
 ### CSS

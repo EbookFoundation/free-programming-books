@@ -56,7 +56,7 @@
 ### C
 
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z/)
-* [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) (PDF)
+* [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
 ### C++
@@ -176,7 +176,7 @@
 
 ### Scilab
 
-* [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf) (PDF)
+* [Einführung in Scilab/Xcos 5.4](https://web.archive.org/web/20161204131517/http://buech-gifhorn.de/scilab/Einfuehrung.pdf) - Helmut Büch (PDF)
 
 
 ### Scratch

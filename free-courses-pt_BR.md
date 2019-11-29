@@ -23,7 +23,6 @@
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
-* [React](#react)
 * [Ruby](#ruby)
 * [Sass](#sass)
 * [Shell](#shell)
@@ -48,7 +47,6 @@
 * [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Utilizando Formulários MDI Parent](https://www.udemy.com/formularios-mdi/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
-* [Testes unitários em C# com NUnit e Moq](https://www.udemy.com/testes-unitarios-em-csharp-com-nunit-e-moq/) - Leonardo Baraúna (Udemy)
 
 
 ### CSS
@@ -184,11 +182,6 @@
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
-
-
-### React
-
-* [React, Redux e integração de APIs](https://www.udemy.com/react-redux-e-integracao-de-apis/) - Nataniel Paiva (Udemy)
 
 
 ### Ruby

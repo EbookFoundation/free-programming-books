@@ -293,8 +293,8 @@
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
 * [約耳談軟體(Joel on Software)](https://web.archive.org/web/20170615232349/http://local.joelonsoftware.com/wiki/首頁) (繁体中文)
 * [编码规范](https://github.com/ecomfe/spec)
-* [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
-* [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
+* [让开发自动化系列专栏](https://wizardforcel.gitbooks.io/ibm-j-ap)
+* [追求代码质量](https://wizardforcel.gitbooks.io/ibm-j-cq)
 
 
 ## 语言相关

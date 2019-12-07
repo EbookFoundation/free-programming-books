@@ -92,7 +92,6 @@
 ### HTML
 
 * [Headers Dinâmicos e Responsivos com HTML, CSS e Javascript](https://www.udemy.com/web-dev-headers/) - Lucas Alves Costa (Udemy)
-* [HTML5 para quem não sabe nada de HTML5](https://www.udemy.com/aprendahtml/) - Paulo Andrade (Udemy)
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
 
 

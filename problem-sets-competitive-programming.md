@@ -35,6 +35,9 @@
 
 * [Kaggle](https://www.kaggle.com)
 
+### Information security
+
+* [CTFtime](https://ctftime.org)
 
 ### Problem Sets
 

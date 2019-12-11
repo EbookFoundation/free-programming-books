@@ -2,6 +2,7 @@
 
 * [Competitive Programming](#competitive-programming)
 * [Data science](#data-science)
+* [Information security](#information-security)
 * [Problem Sets](#problem-sets)
 
 
@@ -34,6 +35,11 @@
 ### Data science
 
 * [Kaggle](https://www.kaggle.com)
+
+
+### Information security
+
+* [CTFtime](https://ctftime.org)
 
 
 ### Problem Sets

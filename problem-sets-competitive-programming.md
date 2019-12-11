@@ -2,6 +2,7 @@
 
 * [Competitive Programming](#competitive-programming)
 * [Data science](#data-science)
+* [Information security](#information-security)
 * [Problem Sets](#problem-sets)
 
 

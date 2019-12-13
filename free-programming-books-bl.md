@@ -1,7 +1,8 @@
 ### Index
 
 * [C](#c)
-
+* [Python](#python)
+* [Machine Learning](#machine-learning)
 
 ### C
 

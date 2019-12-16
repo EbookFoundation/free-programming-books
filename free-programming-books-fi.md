@@ -24,9 +24,11 @@
 
 * [JavaScript](https://fi.wikibooks.org/wiki/JavaScript) - Wikikirjasto
 
+
 ### OpenGL
 
-* [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto (:construction: *in process*)
+* [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto (:construction: *keskeneräinen*)
+
 
 ### PHP
 

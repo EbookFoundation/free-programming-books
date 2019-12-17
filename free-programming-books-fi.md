@@ -3,6 +3,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [JavaScript](#javascript)
+* [OpenGL](#opengl)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -22,6 +23,11 @@
 ### JavaScript
 
 * [JavaScript](https://fi.wikibooks.org/wiki/JavaScript) - Wikikirjasto
+
+
+### OpenGL
+
+* [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto (:construction: *keskeneräinen*)
 
 
 ### PHP

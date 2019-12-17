@@ -77,7 +77,7 @@
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
-* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
+* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction: *в процессе написания*) (PDF)
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
 * [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp-ru-screen.pdf) - Гарольд Абельсон, Джералд Джей Сассман (PDF)
@@ -428,7 +428,7 @@
 
 #### Django
 
-* [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *in process*)
+* [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *в процессе написания*)
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
 
 

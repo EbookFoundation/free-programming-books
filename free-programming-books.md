@@ -245,7 +245,6 @@
 * [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 * [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
 * [Microsoft Technologies 3, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/)
-* [O'Reilly's Commons](http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons)
 * [O'Reilly's Open Books Project](http://www.oreilly.com/openbook/)
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
 * [Programming](https://en.wikibooks.org/wiki/Category%3aComputer_programming) - Wikibooks
@@ -2545,7 +2544,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Hacking with Swift](https://www.hackingwithswift.com)
 * [Learn Swift](http://books.aidanf.net/learn-swift)
-* [Swift Essentials - Second Edition](https://www.packtpub.com/packt/free-ebook/swift-essentials) - Dr. Alex Blewitt, Packt (email address *requested*, not required)
 * [Swift Pocket Reference](http://www.oreilly.com/programming/free/swift-pocket-reference.csp) (email address *requested*, not required)
 * [Test-driven iOS Development with Swift](https://www.packtpub.com/packt/free-ebook/TDD-Swift) - Dr. Dominik Hauser, Packt. (email address *requested*, not required)
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
@@ -2666,5 +2664,5 @@ Kerridge (PDF) (email address *requested*, not required)
 ### xBase (dBase / Clipper / Harbour)
 
 * [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour) - Wikibooks
-* [CA-Clipper 5.2 Norton Guide](http://www.ousob.com/ng/clguide/)
+* [CA-Clipper 5.2 Norton Guide](https://web.archive.org/web/20190516192814/http://www.ousob.com/ng/clguide/)
 * [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s)) - Wikibooks

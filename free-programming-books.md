@@ -1334,7 +1334,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovaca
-* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html) -  Simon Marlow
+* [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/) -  Simon Marlow
 * [Real World Haskell](http://book.realworldhaskell.org)
 * [Speeding Through Haskell](http://www.sthaskell.com)
 * [Wise Man's Haskell](https://anchpop.github.io/wise_mans_haskell/) - Andre Popovitch

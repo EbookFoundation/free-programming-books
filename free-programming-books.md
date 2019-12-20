@@ -304,20 +304,20 @@
 * [CS Unplugged: Computer Science without a computer](http://csunplugged.org/books/)
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures (Into Java) - Paul N. Hilfinger](http://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) (PDF)
-* [Data Structures and Algorithms: Annotated Reference with Examples](http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf) - G. Barnett and L. Del Tongo (PDF)
+* [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett and L. Del Tongo
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) (email address *requested*, not required)
 * [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) (email address *requested*, not required)
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [Geometry Algorithms](http://geomalgorithms.com) - Dan Sunday
-* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://larc.unt.edu/ian/books/free/license.html) - Ian Parberry (use form at bottom of license)
+* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn et al.
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures: An Introduction](http://opendatastructures.org) - Pat Morin
 * [Planning Algorithms](http://planning.cs.uiuc.edu)
-* [Problems on Algorithms (Second Edition)](https://larc.unt.edu/ian/books/free/license.html) - Ian Parberry (use form at bottom of license)
+* [Problems on Algorithms (Second Edition)](http://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [Purely Functional Data Structures (1996)](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF)
 * [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
@@ -331,7 +331,7 @@
 #### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
-* [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)
+* [Cellular Automata Books](http://www.comunidad.escom.ipn.mx/genaro/Cellular_Automata_Repository/Books.html)
 
 
 #### Cloud Computing
@@ -1334,7 +1334,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovaca
-* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html) -  Simon Marlow
+* [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/) -  Simon Marlow
 * [Real World Haskell](http://book.realworldhaskell.org)
 * [Speeding Through Haskell](http://www.sthaskell.com)
 * [Wise Man's Haskell](https://anchpop.github.io/wise_mans_haskell/) - Andre Popovitch

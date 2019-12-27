@@ -168,6 +168,7 @@
 
 ### Python
 
+* [Aprenda Python 3 em 6 horas](https://www.udemy.com/course/aprenda-python-3-em-6h/) - Alcimar A. Costa (Udemy)
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
 * [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)

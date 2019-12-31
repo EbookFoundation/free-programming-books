@@ -98,6 +98,7 @@
   * [React](#react)
   * [React Native](#react-native)
   * [Redux](#redux)
+  * [Vue.js](#vuejs)
 * [Jenkins](#jenkins)
 * [Julia](#julia)
 * [Kotlin](#Kotlin)
@@ -461,7 +462,7 @@
 * [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
-* [Differential Equations](http://tutorial.math.lamar.edu/download.aspx) - Paul Dawkins (PDF, use form to download)
+* [Differential Equations](http://tutorial.math.lamar.edu/Classes/DE/DE.aspx) - Paul Dawkins (PDF, use download menu to download)
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench (PDF)
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) - Sean Luke
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
@@ -510,7 +511,6 @@
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
 * [Confessions of an Unintentional CTO: Lessons in Growing a Web App](http://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
-* [Continuous Delivery and DevOps: A Quickstart guide](https://www.packtpub.com/packt/free-ebook/devops-quickstart) - Paul Swartout, Packt. (email address *requested*, not required)
 * [CS For All](https://www.cs.hmc.edu/csforall/)
 * [Culture \& Empire: Digital Revolution](http://hintjens.com/books) (PDF)
 * [Design With FontForge](http://designwithfontforge.com/en-US/index.html)
@@ -521,14 +521,15 @@
 * [Digital Signal Processing For Communications](http://www.sp4comm.org)
 * [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+* [Docker Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/docker-cookbook-second-edition) - Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare (Packt account *required*)
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
 * ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](http://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html) - Luis A. Enríquez
+* [Effective DevOps with AWS, Second Edition](https://www.packtpub.com/free-ebooks/effective-devops-aws-second-edition) - Yogesh Raheja, Giuseppe Borgese, Nathaniel Felsen (Packt account *required*)
 * [Essential Image Optimization](https://images.guide) - Addy Osmani
 * [Flow based Programming](http://jpaulmorrison.com/fbp/)
 * [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) (PDF)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com) - Bob Nystrom
 * [Getting Real](http://gettingreal.37signals.com)
-* [Getting Started with Unity 5](https://www.packtpub.com/packt/free-ebook/getting-started-with-unity) - Dr. Edward Lavieri, Packt. (email address *requested*, not required)
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
 * [High-Performance Scientific Computing](https://andreask.cs.illinois.edu/Teaching/HPCFall2012) (class lectures and slides)
 * [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html) - R. Young
@@ -540,7 +541,6 @@
 * [Learn Programming](https://progbook.org) - Antti Salonen
 * [Learn to Program](https://pine.fm/LearnToProgram/)
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
-* [Learning Docker](https://www.packtpub.com/packt/free-ebook/learning-docker) - Pethuru Raj, Jeeva S. Chelladhurai & Vinod Singh, Packt. (email address *requested*, not required)
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
 * [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
@@ -555,8 +555,6 @@
 * [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
-* [Practical Data Analysis](https://www.packtpub.com/packt/free-ebook/practical-data-analysis) - Hector Cuesta, Packt. (email address *requested*, not required)
-* [Practical Responsive Typography](https://www.packtpub.com/packt/free-ebook/practical-responsive-typography) - Dario Calonaci, Packt. (email address *requested*, not required)
 * [Principles of Computer System Design](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)
 * [Procedural Content Generation in Games](http://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
 * [Programming with Unicode](http://unicodebook.readthedocs.org)
@@ -564,7 +562,6 @@
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap  *(Leanpub account or valid email requested)*
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
-* [SVG Essentials](http://commons.oreilly.com/wiki/index.php/SVG_Essentials)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 * [Trends Shaping the London Tech Scene](http://www.oreilly.com/programming/free/trends-shaping-the-london-tech-scene.csp) (email address *requested*, not required)
 
@@ -1668,6 +1665,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### React
 
 * [Free React on Rails course](https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course)
+* [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/full-stack-react-projects) - Shama Hoque (Packt account *required*)
 * [Hacking with React](http://www.hackingwithreact.com)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
@@ -1700,6 +1698,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 * [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman  *(Leanpub account or valid email requested)*
+
+
+#### Vue.js
+
+* [Vue.js 2 Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/vuejs-design-patterns-and-best-practices/) - Paul Halliday (Packt account *required*)
 
 
 ### Jenkins
@@ -2141,7 +2144,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
 * [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
-* [Building Machine Learning Systems with Python](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms) - Willi Richert & Luis Pedro Coelho, Packt. (email address *requested*, not required)
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
@@ -2170,8 +2172,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
+* [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
 * [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF)
-* [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python) - Fabrizio Romano, Packt. (email address *requested*, not required)
 * [Learning to Program](http://www.alan-g.me.uk)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
@@ -2199,6 +2201,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Python in Education](http://www.oreilly.com/programming/free/python-in-education.csp) (email address *requested*, not required)
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
+* [Python Machine Learning By Example](https://www.packtpub.com/free-ebooks/python-machine-learning-example) - Yuxi (Hayden) Liu (Packt account *required*)
 * [Python Module of the Week](https://pymotw.com/3/) (3.x)
   * [Python Module of the Week](https://pymotw.com/2/) (2.x)
 * [Python Notes for Professionals](http://books.goalkicker.com/PythonBook/) - Compiled from StackOverflow documentation (3.x)

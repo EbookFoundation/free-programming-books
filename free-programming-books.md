@@ -104,6 +104,7 @@
 * [Kotlin](#Kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Algorithms & Data Structures](#algorithms--data-structures)
+  * [Artificial Intelligence](#artificial-intelligence)
   * [Cellular Automata](#cellular-automata)
   * [Cloud Computing](#cloud-computing)
   * [Competitive Programming](#competitive-programming)
@@ -329,6 +330,11 @@
 * [Think Complexity](http://greenteapress.com/complexity/) (PDF)
 
 
+#### Artificial Intelligence
+
+* [Artificial Intelligence for Big Data](https://www.packtpub.com/free-ebooks/artificial-intelligence-big-data) - Anand Deshpande, Manish Kumar (Packt account *required*)
+
+
 #### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
@@ -340,6 +346,7 @@
 * [Azure Functions Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly) (PDF, Kindle) (email address requested, not required)
 * [Cloud Design Patterns](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
+* [Hands-On Cloud Administration in Azure](https://www.packtpub.com/free-ebooks/hands-cloud-administration-azure) - Mustafa Toroman (Packt account *required*)
 * [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf) - Iain Foulds (PDF)
 * [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
 * [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
@@ -507,6 +514,7 @@
 * [Asterisk™: The Definitive Guide](http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8)
 * [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
 * [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) -  Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder (PDF)
+* [Blockchain By Example](https://www.packtpub.com/free-ebooks/blockchain-example) - Bellaj Badr, Richard Horrocks, Xun (Brian) Wu (Packt account *required*)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/~playbook/)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
@@ -538,6 +546,7 @@
 * [Image Processing in C: Analyzing and Enhancing Digital Images](http://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
 * [Information Technology and the Networked Economy](http://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) (PDF)
 * [IRPF90 Fortran code generator](https://www.gitbook.com/book/scemama/irpf90/details) - Anthony Scemama
+* [Kubernetes Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition) - Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (Packt account *required*)
 * [Learn Programming](https://progbook.org) - Antti Salonen
 * [Learn to Program](https://pine.fm/LearnToProgram/)
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
@@ -994,6 +1003,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Financial Numerical Recipes in C++](http://finance.bi.no/~bernt/gcc_prog/recipes/) - Bernt Arne Ødegaard
 * [Game Programming Patterns](http://gameprogrammingpatterns.com)
 * [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+* [Hands-On System Programming with C++](https://www.packtpub.com/free-ebooks/hands-system-programming-c) - Dr. Rian Quinn (Packt account *required*)
 * [How to make an Operating System](https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details) - Samy Pesse
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
 * [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) (PDF)
@@ -1454,6 +1464,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Notes for Professionals](http://books.goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (3.x)
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
+* [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
 * [Java: The Legend](https://www.oreilly.com/programming/free/java-the-legend.csp) - Ben Evans (email address *requested*, not required)
 * [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer and Daniel Leuck
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)

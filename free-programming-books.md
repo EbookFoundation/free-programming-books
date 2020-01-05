@@ -388,6 +388,7 @@
 * [Computer Vision](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) - Richard Szeliski
 * [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com) - Simon J.D. Prince
+* [Mastering OpenCV 4,Third Edition](https://www.packtpub.com/free-ebooks/mastering-opencv-4-third-edition) - Roy Shilkrot, David Millán Escrivá (Packt account *required*)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
 
 
@@ -1319,6 +1320,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Hadoop
 
+* [Big Data Analytics with Hadoop 3](https://www.packtpub.com/free-ebooks/big-data-analytics-hadoop-3) - Sridhar Alla (Packt account *required*)
 * [Cloudera Impala](http://www.cloudera.com/content/www/en-us/resources/aboutcloudera/cloudera-impala-ebook.html) - John Russel
 * [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
 * [Hadoop Explained](https://www.packtpub.com/packt/free-ebook/hadoop-explained) - Aravind Shenoy, Packt. (email address *requested*, not required)
@@ -1423,6 +1425,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### IoT
 
 * [IoT in five days- V1.1](https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases) (PDF, EPUB)
+* [Mastering Internet of Things](https://www.packtpub.com/free-ebooks/mastering-internet-things) - Peter Waher (Packt account *required*)
 
 
 ### Isabelle/HOL
@@ -1499,6 +1502,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Spring
 
+* [Software Architecture with Spring 5.0](https://www.packtpub.com/free-ebooks/software-architecture-spring-50) - René Enríquez, Alberto Salazar (Packt account *required*)
 * [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/) - Rod Johnson, Juergen Hoeller, Keith Donald, Colin Sampaleanu, Rob Harrop, Thomas Risberg, Alef Arendsen, Darren Davison, Dmitriy Kopylenko, Mark Pollack, Thierry Templier, Erwin Vervaet, Portia Tung, Ben Hale, Adrian Colyer, John Lewis, Costin Leau, Mark Fisher, Sam Brannen, Ramnivas Laddad, Arjen Poutsma, Chris Beams, Tareq Abedrabbo, Andy Clement, Dave Syer, Oliver Gierke, Rossen Stoyanchev, Phillip Webb, Rob Winch, Brian Clozel, Stephane Nicoll, Sebastien Deleuze ([PDF](https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/index.pdf))
 
 
@@ -1770,6 +1774,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/)
 * [Hardened Linux From Scratch](http://www.linuxfromscratch.org/hlfs/download.html)
 * [Kali Linux: Professional Penetration-Testing Distribution](http://docs.kali.org)
+* [Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition](https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition) - Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali (Packt account *required*)
 * [Learning Debian GNU/Linux](http://www.oreilly.com/openbook/debian/book/index.html)
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
 * [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
@@ -2171,6 +2176,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
 * [Hadoop with Python](http://www.oreilly.com/programming/free/hadoop-with-python.csp) (email address *requested*, not required)
+* [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebooks/hands-natural-language-processing-python) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 * [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)

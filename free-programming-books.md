@@ -482,7 +482,7 @@
 * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 * [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello and Paolo Toth
 * [Lecture Notes of Linear Algebra](http://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Dr. P. Shunmugaraj, IIT Kanpur (PDF)
-* [Linear Algebra](http://home.iitk.ac.in/~arlal/book/nptel/pdf/booklinear.html) - Dr. Arbind K Lal, IIT Kanpur (PDF)
+* [Linear Algebra](http://home.iitk.ac.in/~arlal/book/la.pdf) - Dr. Arbind K Lal, Sukant Pati (PDF) (:construction: *in process*)
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) (PDF)
 * [Linear Algebra by Jim Hefferon](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)

@@ -200,6 +200,7 @@
 * [Smalltalk](#smalltalk)
 * [Snap](#snap)
 * [Spark](#spark)
+* [Splunk](#splunk)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
 * [Standard ML](#standard-ml)
@@ -2517,6 +2518,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Splunk
 
 * [Splunk 7.x Quick Start Guide](https://www.packtpub.com/free-ebooks/splunk-7x-quick-start-guide) - James H. Baxter (Packt account *required*)
+
 
 ### SQL (implementation agnostic)
 

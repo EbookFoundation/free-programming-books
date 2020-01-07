@@ -1,12 +1,24 @@
 ### Index
 
 * [C](#c)
+* [C Sharp](#c-sharp)
 * [C++](#c-1)
 * [JavaScript](#javascript)
+* [MySQL](#mysql)
 * [OpenGL](#opengl)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+
+
+### Kieliagnostinen
+
+* [Kisakoodarin käsikirja](https://www.cs.helsinki.fi/u/ahslaaks/kkkk.pdf) - Antti Laaksonen (PDF)
+* [Ohjelmoinnin peruskurssi Y1 - Opetusmoniste syksy 2017](https://grader.cs.hut.fi/static/y1/) - Kerttu Pollari-Malmi
+* [Ohjelmointi 2](https://jyx.jyu.fi/bitstream/handle/123456789/47415/978-951-39-4624-1.pdf) - Vesa Lappalainen, Santtu Viitanen (PDF)
+* [Olio-ohjelmointi käytännössä käyttäen hyväksi avointa tietoa, graafista käyttöliittymää ja karttaviitekehystä](http://urn.fi/URN:ISBN:978-952-265-756-5) - Antti Herala, Erno Vanhala, Uolevi Nikula (PDF)
+* [Oliosuuntautunut analyysi ja suunnittelu](https://jyx.jyu.fi/bitstream/handle/123456789/49293/oasmoniste.pdf) - Mauri Leppänen, Timo Käkölä, Miika Nurminen (PDF)
+* [Tietorakenteet ja algoritmit](https://www.cs.helsinki.fi/u/ahslaaks/tirakirja/) - Antti Laaksonen (PDF)
 
 
 ### C
@@ -15,14 +27,30 @@
 * [C-ohjelmointi](http://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=c_esittaja)
 
 
+### C Sharp
+
+* [Ohjelmointi 1: C#](https://jyx.jyu.fi/bitstream/handle/123456789/47417/978-951-39-4859-7.pdf) - Martti Hyvönen, Vesa Lappalainen, Antti-Jussi Lakanen (PDF)
+
+
 ### C++
 
 * [C++](https://fi.wikibooks.org/wiki/C%2B%2B) - Wikikirjasto
+* [C++-ohjelmointi](https://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=cpp_ohj_01)
+
+
+### Java
+
+* [Olio-ohjelmointi Javalla](http://urn.fi/URN:ISBN:978-952-265-754-1) - Antti Herala, Erno Vanhala, Uolevi Nikula (PDF)
 
 
 ### JavaScript
 
 * [JavaScript](https://fi.wikibooks.org/wiki/JavaScript) - Wikikirjasto
+
+
+### MySQL
+
+* [MySQL ja PHP](https://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=mysqlphp01)
 
 
 ### OpenGL
@@ -40,6 +68,7 @@
 
 * [Python 2](https://fi.wikibooks.org/wiki/Python_2) - Wikikirjasto
 * [Python 3](https://fi.wikibooks.org/wiki/Python_3) - Wikikirjasto
+* [Python 3 – ohjelmointiopas](http://urn.fi/URN:ISBN:978-952-214-970-1) - Erno Vanhala, Uolevi Nikula (PDF)
 * [Python-ohjelmointi](http://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=python3_01)
 
 

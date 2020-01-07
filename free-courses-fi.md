@@ -12,6 +12,7 @@
 
 ### Other
 
+* [Elements of AI](https://www.elementsofai.com/fi/) - Tekoälykurssi
 * [Koodaustunti](http://koodaustunti.fi/miten-aloitan-koodaamaan/) - Opi koodaamaan verkossa
 * [Mooc](https://mooc.fi) - Laadukkaita, avoimia ja ilmaisia verkkokursseja kaikille
 

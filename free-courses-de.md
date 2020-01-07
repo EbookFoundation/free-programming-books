@@ -6,7 +6,7 @@
 
 ### Künstliche Intelligenz
 
-* [Elements of AI](https://www.elementsofai.de/)
+* [Elements of AI](https://www.elementsofai.de)
 
 
 ### Python

@@ -82,6 +82,7 @@
 * [Ohjelmointi ja tilastolliset menetelmät](https://users.syk.fi/~jhurri/otm/) - Jarmo Hurri (PDF)
 * [R: Opas ekologeille](http://cc.oulu.fi/~jarioksa/opetus/rekola/Rekola.pdf) - Jari Oksanen (PDF)
 
+
 ### Ruby
 
 * [Ruby](https://fi.wikibooks.org/wiki/Ruby) - Wikikirjasto

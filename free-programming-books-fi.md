@@ -45,7 +45,7 @@
 ### Java
 
 * [Olio-ohjelmointi Javalla](http://urn.fi/URN:ISBN:978-952-265-754-1) - Antti Herala, Erno Vanhala, Uolevi Nikula (PDF)
-* [Sopimuspohjainen olio-ohjelmointi Java-kielellä](https://www.researchgate.net/publication/31597198_Sopimuspohjainen_olio-ohjelmointi_Java-kielella) - Jouni Smed, Harri Hakonen, Timo Raita (PDF)
+* [Sopimuspohjainen olio-ohjelmointi Java-kielellä](staff.cs.utu.fi/staff/jouni.smed/SHR07-SPOO.pdf) - Jouni Smed, Harri Hakonen, Timo Raita (PDF)
 
 
 ### JavaScript

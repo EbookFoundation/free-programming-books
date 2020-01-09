@@ -1372,12 +1372,14 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Canvassing](http://learnjs.io/canvassing/read)
 * [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) - Mark Otto
 * [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
+* [CSS Handbook](https://flaviocopes.com/) - Flavio Copes (PDF, EPUB, MOBI/Kindle, email required)
 * [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
 * [GA Dash](https://dash.generalassemb.ly)
 * [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com)
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 * [HTML Dog Tutorials](http://www.htmldog.com)
+* [HTML Handbook](https://flaviocopes.com/) - Flavio Copes (PDF, EPUB, MOBI/Kindle, email required)
 * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton & Jeff Fulton
 * [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
@@ -1536,6 +1538,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Dev Docs](http://devdocs.io)
 * [Directory of free Javascript ebooks](http://jsbooks.revolunet.com)
 * [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net) - Marijn Haverbeke
+* [ES5 to ESNext](https://flaviocopes.com/) - Flavio Copes (PDF, EPUB, MOBI/Kindle, email required)
 * [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 * [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
@@ -1552,6 +1555,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Javascript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) (email address *requested*, not required)
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)
 * [jQuery Fundamentals](http://jqfundamentals.com) (starts with JavaScript basics)
+* [JS Handbook](https://flaviocopes.com/) - Flavio Copes (PDF, EPUB, MOBI/Kindle, email required)
 * [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) (PDF)
 * [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks/read) - Malcolm Maclean
 * [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
@@ -1561,11 +1565,13 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Marionette Exposé: Learn to write modular Javascript applications using Backbone Marionette and RequireJS/AMD](https://leanpub.com/marionetteexpose) - Jack Killilea  *(Leanpub account or valid email requested)*
 * [Mastering JavaScript High Performance](https://www.packtpub.com/packt/free-ebook/javascript-high-performance) - Chad R. Adams, Packt. (email address *requested*, not required)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* [Next.js Handbook](https://flaviocopes.com/) - Flavio Copes (PDF, EPUB, MOBI/Kindle, email required)
 * [O'Reilly Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
 * [Object-Oriented JavaScript](https://www.packtpub.com/packt/free-ebook/object-oriented-javascript-pdf-ebook) - Stoyan Stefanov, Kumar Chetan Sharma (email address *requested*, not required)
 * [Oh My JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
+* [Svelte Handbook](https://flaviocopes.com/) - Flavio Copes (PDF, EPUB, MOBI/Kindle, email required)
 * [The JavaScript Tutorial](http://javascript.info)
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655/index.html)
@@ -1653,6 +1659,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Express.js
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
+* [Express.js Handbook](https://flaviocopes.com/) - Flavio Copes (PDF, EPUB, MOBI/Kindle, email required)
 
 
 #### jQuery
@@ -1673,6 +1680,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node Documentation](https://nodejs.org/en/docs/)
+* [Node.js Handbook](https://flaviocopes.com/) - Flavio Copes (PDF, EPUB, MOBI/Kindle, email required)
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [The Node Beginner Book](http://nodebeginner.org)
@@ -1701,6 +1709,7 @@ Kerridge (PDF) (email address *requested*, not required)
   * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
+* [React.js Handbook](https://flaviocopes.com/) - Flavio Copes (PDF, EPUB, MOBI/Kindle, email required)
 * [React.js Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/reactjs_succinctly) (PDF, Kindle) (email address requested, not required)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
@@ -1725,6 +1734,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Vue.js
 
 * [Vue.js 2 Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/vuejs-design-patterns-and-best-practices/) - Paul Halliday (Packt account *required*)
+* [Vue.js Handbook](https://flaviocopes.com/) - Flavio Copes (PDF, EPUB, MOBI/Kindle, email required)
 
 
 ### Jenkins

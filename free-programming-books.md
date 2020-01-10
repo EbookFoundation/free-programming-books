@@ -164,6 +164,12 @@
 * [Perl](#perl)
 * [Perl 6 / Raku](#perl-6--raku)
 * [PHP](#php)
+  * [CakePHP](#cakephp)
+  * [CodeIgniter](#codeigniter)
+  * [Drupal](#drupal)
+  * [Laravel](#laravel)
+  * [Symfony](#symfony)
+  * [Zend](#zend)
 * [PicoLisp](#picolisp)
 * [PostgreSQL](#postgresql)
 * [PowerShell](#powershell)
@@ -2043,24 +2049,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### PHP
 
-* CakePHP Framework
-  * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
-* CodeIgniter Framework
-  * [CodeIgniter 2.2.6](https://codeigniter.com/userguide2/)
-  * [CodeIgniter 3.1.6](https://www.codeigniter.com/user_guide/)
-* Drupal Framework
-  * Drupal 7
-    * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
-* Laravel Framework
-  * Laravel 3
-    * [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
-  * Laravel 4
-    * [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
-  * Laravel 5
-    * [Laravel 5.x Official Documentation. Synced Daily](https://leanpub.com/laravel-5)  *(Leanpub account or valid email requested)*
-    * [Laravel Best Practices](http://www.laravelbestpractices.com)
-    * [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
-    * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) - Jeffrey Madsen  *(Leanpub account or valid email requested)*
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Internals Book](http://www.phpinternalsbook.com)
@@ -2072,20 +2060,46 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Practical PHP Programming](http://www.hackingwithphp.com)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
-* Symfony Framework
-  * Symfony 2.8
-    * [The Symfony Book 2.8.x](https://symfony.com/pdf/Symfony_book_2.8.pdf) (PDF)
-  * Symfony 3.4
-    * [The Symfony Best practices 3.4.x](https://symfony.com/pdf/Symfony_best_practices_3.4.pdf) (PDF)
-    * [The Symfony Book 3.4.x](https://symfony.com/doc/3.4/index.html)
-    * [The Symfony Getting started 3.4.x](https://symfony.com/pdf/Symfony_getting_started_3.4.pdf) (PDF)
-  * Symfony 4.1
-    * [The Symfony Best practices 4.1.x](https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF)
-    * [The Symfony Book 4.1.x](https://symfony.com/doc/4.1/index.html)
-    * [The Symfony Getting started 4.1.x](https://symfony.com/pdf/Symfony_getting_started_4.1.pdf) (PDF)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
-* Zend Framework
-  * [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
+
+
+#### CakePHP
+
+* [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
+
+
+#### CodeIgniter
+
+* [CodeIgniter 3 User Guide](https://codeigniter.com/user_guide/index.html)
+* [CodeIgniter 4 User Guide](https://codeigniter4.github.io/userguide/)
+
+
+#### Drupal
+
+* [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
+
+
+#### Laravel
+
+* [Laravel 5.x Official Documentation. Synced Daily](https://leanpub.com/laravel-5)  *(Leanpub account or valid email requested)*
+* [Laravel Best Practices](http://www.laravelbestpractices.com)
+* [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
+* [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
+* [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
+* [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) - Jeffrey Madsen  *(Leanpub account or valid email requested)*
+
+
+#### Symfony
+
+* [The Symfony Best practices 4.1.x](https://web.archive.org/web/20181017123206/https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF)
+* [The Symfony Book 2.8.x](https://symfony.com/doc/2.8/index.html)
+* [The Symfony Book 3.4.x](https://symfony.com/doc/3.4/index.html)
+* [The Symfony Book 4.4.x](https://symfony.com/doc/4.4/index.html)
+
+
+#### Zend
+
+* [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
 
 
 ### PicoLisp

@@ -79,6 +79,7 @@
   * [JasperReports](#jasperreports)
   * [Spring](#spring)
   * [Spring Boot](#spring-boot)
+  * [Spring Data](#spring-data)
   * [Spring Security](#spring-security)
   * [Wicket](#wicket)
 * [JavaScript](#javascript)
@@ -1525,6 +1526,11 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Spring Boot
 
 * [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/html/) - Phillip Webb et al. ([PDF](https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf))
+
+
+#### Spring Data
+
+* [Spring Data Reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html) - Oliver Gierke, Thomas Darimont, Christoph Strobl, Mark Paluch, Jay Bryant
 
 
 #### Spring Security

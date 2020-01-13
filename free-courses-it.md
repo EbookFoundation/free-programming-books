@@ -1,11 +1,11 @@
 ### Indice
 
-* [Algoritmi e Strutture Dati](#algoritmi-e-struture-dati)
+* [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
 * [Architettura degli Elaboratori](#architettura-degli-elaboratori)
 * [Assembly](#assembly)
 * [C](#c)
 * [C Sharp](#c-sharp)
-* [C++](#c++)
+* [C++](#c-1)
 * [Database](#database)
   * [SQL](#sql)
 * [Delphi](#delphi)
@@ -35,6 +35,7 @@
 ### Algoritmi e Strutture Dati
 
 * [AlgoMOOC - Algoritmi quotidiani](https://www.youtube.com/watch?v=opHFKVuDiYM&list=PLjTV6y5YWc5HNnLyXkzUe9IlkG2n6guxU) - A. Bogliolo
+* [Algoritmi e Programmazione (C)](https://www.youtube.com/playlist?list=PLUFFnpJdi99nqESTPaxlPMOF7yEEb8_sS) - P. Camurati (Politecnico di Torino)
 * [Algoritmi e Strutture Dati](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2TViOKbk-NjDBvL4RXDwYY) - R. Grossi (Università di Pisa)
 
 
@@ -103,6 +104,7 @@
 ### Java
 
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) (S. Zorba)
+* [Programmazione a Oggetti (Java)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kewGZIHpCDgarZER_-J1am) (M. Torchiano)
 
 
 ### Javascript
@@ -143,7 +145,6 @@
 * [Programmazione](https://www.youtube.com/playlist?list=PLhEwqlL10MqN2eB3b4avX_DU3FK0EOYFa) - G. Filè (Università di Padova)
 * [Programmazione 2 (Java/C++)](http://latemar.science.unitn.it/segue/index.php?&amp;site=2008Programmazione2&amp;section=86&amp;action=site) - M. Ronchetti (Università di Trento)
 * [Tecniche di Programmazione (C/C++)](https://www.youtube.com/playlist?list=PLAQopGWlIcybv3YLRHGS4yZR00X3RvSBm) - L. Iocchi D. Nardi e A. Pretto (Università La Sapienza di Roma)
-* [Tecniche di Programmazione (Java)](https://elearning.polito.it/main/videolezioni/index.php?cidReq=2017_03FYZPL_0214659&id_session=0&gidReq=0&origin=&lp=1) - F. Corno (Politecnico di Torino) 
 
 
 ### Ruby
@@ -182,6 +183,7 @@
 
 ### Web
 
+* [Interfacce grafiche (HTML/CSS/Bootstrap)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kXjntQ0LNPnLbRLjKzmQaC) - A. Bottino (Politecnico di Torino)
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - F. Corno e S. Di Carlo (Politecnico di Torino)
 
 

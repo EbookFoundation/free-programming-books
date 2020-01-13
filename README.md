@@ -33,6 +33,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 + [Czech](/free-programming-books-cs.md)
 + [Dutch](/free-programming-books-nl.md)
 + [English](/free-programming-books.md)
++ [Finnish](/free-programming-books-fi.md)
 + [French](/free-programming-books-fr.md)
 + [German](/free-programming-books-de.md)
 + [Greek](/free-programming-books-gr.md)
@@ -50,6 +51,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 + [Slovak](/free-programming-books-sk.md)
 + [Spanish](/free-programming-books-es.md)
 + [Swedish](/free-programming-books-se.md)
++ [Tamil](/free-programming-books-ta.md)
 + [Turkish](/free-programming-books-tr.md)
 + [Ukrainian](/free-programming-books-ua.md)
 

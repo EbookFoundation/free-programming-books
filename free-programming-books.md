@@ -78,8 +78,8 @@
   * [JasperReports](#jasperreports)
   * [Spring](#spring)
   * [Spring Boot](#spring-boot)
-  * [Spring Security](#spring-security)
   * [Spring Data](#spring-data)
+  * [Spring Security](#spring-security)
   * [Wicket](#wicket)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
@@ -1490,14 +1490,14 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Spring Boot Reference Guide](http://docs.spring.io/spring-boot/docs/current/reference/html/) - Phillip Webb, Dave Syer, Josh Long, Stéphane Nicoll, Rob Winch, Andy Wilkinson, Marcel Overdijk, Christian Dupuis ([PDF](http://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf), [EPUB](http://docs.spring.io/spring-boot/docs/current/reference/epub/spring-boot-reference.epub))
 
 
-#### Spring Security
-
-* [Spring Security Reference](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) - Ben Alex, Luke Taylor, Rob Winch
-
-
 #### Spring Data
 
 * [Spring Data Reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html) - Oliver Gierke, Thomas Darimont, Christoph Strobl, Mark Paluch, Jay Bryant
+
+
+#### Spring Security
+
+* [Spring Security Reference](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) - Ben Alex, Luke Taylor, Rob Winch
 
 
 #### Wicket

@@ -9,6 +9,7 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [Ionic](#ionic)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
 * [.Net](#dotnet)
@@ -26,8 +27,7 @@
 * [Svelte](#svelte)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-* [React](#react)
-* [Java](#java)
+
 
 ### Angular
 

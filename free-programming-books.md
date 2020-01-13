@@ -1455,7 +1455,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Neural Network Development with Java](https://www.packtpub.com/packt/free-ebook/neural-networks-java) - Alan M. F. Souza and Fabio M. Soares (email address *requested*, not required)
 * [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
 * [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook) - Simon Kendal (PDF) , Bookboon. (email address *requested*, not required)
-* [Object-Oriented vs. Functional Programming](https://pepa.holla.cz/wp-content/uploads/2016/10/object-oriented-vs-functional-programming.pdf) - Richard Warburton (PDF) (email address *requested*, not required)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky (PDF)
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX) (2002)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold

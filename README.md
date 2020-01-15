@@ -31,6 +31,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 + [Burmese](/free-programming-books-mm.md)
 + [Chinese](/free-programming-books-zh.md)
 + [Czech](/free-programming-books-cs.md)
++ [Danish](/free-programming-books-dk.md)
 + [Dutch](/free-programming-books-nl.md)
 + [English](/free-programming-books.md)
 + [Finnish](/free-programming-books-fi.md)

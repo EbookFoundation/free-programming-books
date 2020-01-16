@@ -62,8 +62,8 @@
 
 ### Python
 
-* [إحترف بايثون الآن](https://docs.google.com/viewerng/viewer?url=https://books-library.online/files/download-pdf-ebooks.org-1521324052-896.pdf) (PDF)
 * [أتعلم بايثون](https://docs.google.com/viewerng/viewer?url=https://books-library.online/files/books-library.online_noo72561738871c402b720af1-6336.pdf) - أرض وينو (PDF)
+* [احترف بايثون الآن](https://docs.google.com/viewerng/viewer?url=https://books-library.online/files/download-pdf-ebooks.org-1521324052-896.pdf) (PDF)
 * [البرمجة بلغة بايثون - الجزء الاول](https://docs.google.com/viewerng/viewer?url=https://books-library.online/files/books-library.online_noo80cddaee19cbc1b6e69952-21117.pdf) - [الجزء الثاني](https://docs.google.com/viewerng/viewer?url=http://books-library.online/files/download-pdf-ebooks.org-ku-19115.pdf) - [الجزء الثالث](https://docs.google.com/viewerng/viewer?url=http://274axt0y9o.download2.org/dl2.php?id%3D200739715%26h%3Da88a6874133f9942bc5b20b164ab608b%26ext%3Dpdf%26u%3Dcache&292) - مصطفى صادق لطيف (PDF)
 * [القوائم في بايثون](https://docs.google.com/viewerng/viewer?url=http://books-library.online/files/download-pdf-ebooks.org-ku-17006.pdf) - سامر جبل (PDF)
 * [الملفات والمجلدات في بايثون 3](https://docs.google.com/viewerng/viewer?url=http://4bgkhs2xus.download2.org/dl2.php?id%3D200739722%26h%3De37ffa58f20e6d9dfe1ae319a95032a0%26ext%3Dpdf%26u%3Dcache&685) - حمزة جميل إبراهيم (PDF)

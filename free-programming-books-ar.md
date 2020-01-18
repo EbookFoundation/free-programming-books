@@ -25,8 +25,8 @@
 
 ### C
 
-* [كتاب لغة سي ببساطة](https://librebooks.org/simply-c-language/) - محمود البربري
 * [كتاب لغة C الشامل - الإصدار الثاني](https://mutati0n.files.wordpress.com/2008/07/cbse.pdf) - خليل أونيس (PDF)
+* [كتاب لغة سي ببساطة](https://librebooks.org/simply-c-language/) - محمود البربري
 
 
 ### Introduction to programming in Arabic

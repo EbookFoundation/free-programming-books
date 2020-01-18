@@ -1,6 +1,7 @@
 ### Index
 
 * [Arduino](#arduino)
+* [C](#c)
 * [GIT](#git)
 * [Introduction to programming in Arabic](#introduction)
 * [Linux](#linux)
@@ -10,7 +11,7 @@
 * [Programming in Scratch](#scratch)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
-* [RUBY](#ruby)
+* [Ruby](#ruby)
 * [SECURITY](#security)
 * [SEO](#seo)
 * [UI/UX](#ui-ux)
@@ -20,6 +21,12 @@
 
 * [أردوينو السهل](http://librebooks.org/simply-arduino/)
 * [كتاب احترف الأردوينو](http://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) (PDF)
+
+
+### C
+
+* [كتاب لغة سي ببساطة](https://librebooks.org/simply-c-language/) - محمود البربري
+* [كتاب لغة C الشامل - الإصدار الثاني](https://mutati0n.files.wordpress.com/2008/07/cbse.pdf) - خليل أونيس (PDF)
 
 
 ### Introduction to programming in Arabic
@@ -63,28 +70,30 @@
 
 ### Python
 
-* [أتعلم بايثون](https://drive.google.com/open?id=1h3HhBpTZSM2ik2IIdiHntUNn6b_2M9C_) - أرض وينو (PDF)
-* [إحترف بايثون الآن](https://drive.google.com/file/d/1yqxxJeL4g7v7hAElFIiqKlN3GSRYblL1) (PDF)
-* [البرمجة بلغة بايثون - الجزء الاول](https://drive.google.com/file/d/1CY127F7f-Eghxb12ce4q573pEtvzOOUW) - [الجزء الثاني](https://drive.google.com/file/d/1V-aS1hKsX5iXGu3GeC01TPZoDL075gaz) - [الجزء الثالث](https://drive.google.com/file/d/1S7enq5AYs0MINpfkBWOIfoiFIOEohO_J) - مصطفى صادق لطيف (PDF)
-* [القوائم في بايثون](https://drive.google.com/file/d/12rLqRg786pVNoUPXYS44PdrDsx2GEiMn) - سامر جبل (PDF)
-* [الملفات والمجلدات في بايثون 3](https://drive.google.com/file/d/1Nu2V1R1kElR8jMaLdS6OlFZoPAxJtAvU) - حمزة جميل إبراهيم (PDF)
-* [بايثون بلمسة للمبتدئين](https://drive.google.com/file/d/10dOymtsmo5N1TczA49FNCVCZon6V5PTM) - مصطفى فرحات (PDF)
+* [أتعلم بايثون](http://www.kutub.info/library/book/19092) - أرض وينو
+* [إحترف بايثون الآن](http://www.kutub.info/library/book/575)
+* [البرمجة بلغة بايثون - الجزء الاول](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A8%D9%84%D8%BA%D8%A9-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%A7%D9%88%D9%84-pdf) - [الجزء الثاني](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A8%D9%84%D8%BA%D8%A9-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-pdf) - [الجزء الثالث](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A8%D9%84%D8%BA%D8%A9-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-pdf) - مصطفى صادق لطيف
+* [القوائم في بايثون](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D9%81%D9%8A-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-pdf) - سامر جبل
+* [الملفات والمجلدات في بايثون 3](https://www.kutub.info/library/book/21576) - حمزة جميل إبراهيم
+* [بايثون بلمسة للمبتدئين](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D8%A8%D9%84%D9%85%D8%B3%D8%A9-%D9%84%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D8%A6%D9%8A%D9%86-pdf) - مصطفى فرحات
 * [بناء التطبيقات مع Python بالإعتماد على GTK و SQLite (الطبعة الثانية)](http://www.maastaar.com/books/pygtk-2nd-edition/Building-Applications-With-PyGTK-and-SQLite-2nd-Edition.pdf) - محمد قاسم حسين (PDF)
-* [تعلم البرمجة مع بايثون 3](https://drive.google.com/file/d/1Pv2hk1BVAzxBVMWX77qSgqrQa_qPTQZv) - ترجمة هشام رزق الله (PDF)
-* [تعلم بايثون بكل سهولة](https://drive.google.com/file/d/1OLbJ4lZwy78LRjallXRXT--7j8t59xqA) - فهد بن عامر السعيدي (PDF)
-* [خطوة على طريق بايثون](https://drive.google.com/file/d/1vjYcyFArWdOB_teSaOSUVwpJQIHXQZVf) - ترجمة أشرف علي خلف (PDF)
+* [تعلم البرمجة مع بايثون 3](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%85%D8%B9-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-3-pdf) - ترجمة هشام رزق الله
+* [تعلم بايثون بكل سهولة](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D8%B9%D9%84%D9%85-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-%D8%A8%D9%83%D9%84-%D8%B3%D9%87%D9%88%D9%84%D8%A9-pdf) - فهد بن عامر السعيدي
+* [خطوة على طريق بايثون](http://www.kutub.info/library/book/3998) - ترجمة أشرف علي خلف
 * [صخرة الأساس ملخص لغة Python](https://www.hassouna-academy.com/books) - Hassouna Academy
-* [فك الشيفرات السرية بلغة البايثون](https://drive.google.com/file/d/15rjDLZBm49aDifvXZrqo_ykjJy94tq0u) - جميل حسين طويله (PDF)
-* [فكر بايثون](https://drive.google.com/file/d/1xP0h2AQYxWpLWS4BKSXy9WezPK_VANmf) - ترجمة طارق زيد الكيلاني (PDF)
+* [فك الشيفرات السرية بلغة البايثون](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%81%D9%83-%D8%A7%D9%84%D8%B4%D9%8A%D9%81%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A9-%D8%A8%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86-pdf) - جميل حسين طويله
+* [فكر بايثون](https://www.kutub.info/library/book/19881) - ترجمة طارق زيد الكيلاني
 * [كتاب البرمجة بلغة البايثون Pink Python](https://github.com/Ma7moud3ly/pink-python/releases) - Mahmoud Aly AbdEllah
 
 
-### raspberry-pi
+### Raspberry Pi
 
-* [راسبيري باي السهل](http://librebooks.org/simply-raspberry-pi/)
+* [احترف الرازبيري باي](https://www.ev-center.com/uploads/2/1/2/6/21261678/%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D8%AD%D8%AA%D8%B1%D9%81_%D8%A7%D9%84%D8%B1%D8%A7%D8%B2%D8%A8%D9%8A%D8%B1%D9%8A_%D8%A8%D8%A7%D9%8A.pdf) - القرية
+الهندسية (PDF)
+* [راسبيري باي ببساطة](http://librebooks.org/simply-raspberry-pi/) - عبد الله علي عبد الله
 
 
-### ruby
+### Ruby
 
 * [مقدمة في روبي](http://librebooks.org/intro-to-ruby/)
 
@@ -96,7 +105,7 @@
 * [عُدَّة الأمان الرقمي](http://librebooks.org/security-in-a-box/)
 
 
-### seo
+### SEO
 
 * [تحسين محركات البحث SEO - دليل المبتدئين](http://librebooks.org/search-engine-optimization-seo-starter-guide-ar/)
 

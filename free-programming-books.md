@@ -522,8 +522,8 @@
 
 #### Misc
 
-* [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/2016-european-software-development-salary-survey.csp) (email address *requested*, not required)
-* [2016 Software Development Salary Survey](http://www.oreilly.com/programming/free/2016-software-development-salary-survey-report.csp) (email address *requested*, not required)
+* [2016 European Software Development Salary Survey](https://www.oreilly.com/radar/2016-european-software-development-salary-survey/)
+* [2016 Software Development Salary Survey](https://www.oreilly.com/radar/2016-software-development-salary-survey-report/)
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended) *(Leanpub account or valid email requested)*
 * [A MACHINE MADE THIS BOOK ten sketches of computer science](http://ocaml-book.com/s/popbook.pdf) - JOHN WHITINGTON (PDF)
 * [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
@@ -587,13 +587,12 @@
 * [Principles of Computer System Design](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)
 * [Procedural Content Generation in Games](http://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
 * [Programming with Unicode](http://unicodebook.readthedocs.org)
-* [Real-World Maintainable Software](http://www.oreilly.com/programming/free/real-world-maintainable-software.csp) (email address *requested*, not required)
+* [Real-World Maintainable Software](https://www.oreilly.com/ideas/real-world-maintainable-software) - Abraham Marin-Perez
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap  *(Leanpub account or valid email requested)*
 * [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
-* [Trends Shaping the London Tech Scene](http://www.oreilly.com/programming/free/trends-shaping-the-london-tech-scene.csp) (email address *requested*, not required)
 
 
 #### MOOC
@@ -612,7 +611,6 @@
 
 #### Networking
 
-* [802.11ac: A Survival Guide](http://chimera.labs.oreilly.com/books/1234000001739) - Matthew Gast
 * [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)
 * [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
@@ -630,7 +628,6 @@
 #### Open Source Ecosystem
 
 * [Data Journalism Handbook](http://datajournalismhandbook.org)
-* [Fintech, Open Source, and Emerging Markets Digital Banking for Everyone](http://www.oreilly.com/programming/free/fintech-open-source-and-emerging-tech.csp) (email address *requested*, not required)
 * [Free as in Freedom: Richard Stallman and the free software revolution](https://archive.org/details/faif-2.0) - Sam Williams (PDF)
 * [Free for All](https://unglue.it/work/136445/) - Peter Wayner
 * [Free Software, Free Society: Selected Essays of Richard M. Stallman](http://shop.fsf.org/product/free-software-free-society-2/)
@@ -640,8 +637,7 @@
 * [How to get started with open source](https://opensource.com/resources/ebook/how-get-started-open-source) (ePub & ODT)
 * [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html) - Ron Goldman, Richard P. Gabriel
 * [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org)
-* [Open by Design](http://www.oreilly.com/programming/free/open-by-design.csp) (email address *requested*, not required)
-* [Open Source in Brazil](http://www.oreilly.com/programming/free/open-source-in-brazil.csp) (email address *requested*, not required)
+* [Open source in Brazil](https://www.oreilly.com/ideas/open-source-in-brazil) - Andy Oram
 * [Producing Open Source Software](http://producingoss.com) - Karl Fogel
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Art of Community](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf) - Jono Bacon (PDF)
@@ -693,7 +689,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Professional Development
 
-* [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://chimera.labs.oreilly.com/books/1234000001813/index.html) - David H. Hoover and Adewale Oshineye
 * [Clean Code Developer: An initiative for more professionalism in software development](https://www.gitbook.com/book/ccd_school/clean-code-developer-com/details) (:construction: *in process*)
 * [Confessions of an IT Manager](https://www.red-gate.com/library/confessions-of-an-it-manager) - Phil Factor (PDF)
 * [Don't Just Roll the Dice](https://www.red-gate.com/library/dont-just-roll-the-dice) - Neil Davidson (PDF)
@@ -1011,7 +1006,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [C++ Language](http://www.cplusplus.com/doc/tutorial/)
 * [C++ Notes](https://goalkicker.com/CPlusPlusBook) (PDF)
 * [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) (email address *requested*, not required)
-* [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (email address *requested*, not required)
+* [C++ Today](https://www.oreilly.com/ideas/c++-today) - Jon Kalb, Gašper Ažman
 * [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
 * [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
 * [Elements of Programming](http://elementsofprogramming.com) - Alexander Stepanov and Paul McJones - (PDF)
@@ -1026,7 +1021,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Learn C++.](http://www.learncpp.com) (PDF, Online)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
-* [Practical C++ Metaprogramming](http://www.oreilly.com/programming/free/practical-c-plus-plus-metaprogramming.csp) (email address *requested*, not required)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [The Boost C++ libraries](http://theboostcpplibraries.com)
@@ -1125,7 +1119,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Dart
 
-* [What is Dart?](http://shop.oreilly.com/product/0636920025887.do)
+* [Learning Dart](https://riptutorial.com/Download/dart.pdf) (PDF)
 
 
 ### DB2

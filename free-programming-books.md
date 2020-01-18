@@ -1119,7 +1119,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Dart
 
-* [Learning Dart](https://riptutorial.com/Download/dart.pdf)
+* [Learning Dart](https://riptutorial.com/Download/dart.pdf) (PDF)
 
 
 ### DB2

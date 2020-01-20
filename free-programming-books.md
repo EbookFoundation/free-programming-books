@@ -941,7 +941,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### BETA
 
-* [Object-Oriented Programming in the BETA Programming Language](http://www.daimi.au.dk/~beta/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
+* [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
 
 
 ### C
@@ -994,13 +994,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebooks/mastering-xamarin-ui-development-second-edition) - Steven F. Daniel (Packt account *required*)
 * [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (email address *requested*, not required)
 * [Threading in C#](http://www.albahari.com/threading/)
-* [Xamarin Cross-Platform Development Cookbook](https://www.packtpub.com/free-eBook/xamarin-cross-platform-development-cookbook) - George Taskos, Packt. (email address *requested*, not required)
 * [Xamarin.Forms Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) (PDF, Kindle) (email address requested, not required)
 
 
 ### C++
 
-* [C++ Annotations](https://fbb-git.github.io/cppannotations/)
+* [C++ Annotations](https://fbb-git.gitlab.io/cppannotations/)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - Editors: Bjarne Stroustrup, Herb Sutter
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [C++ Language](http://www.cplusplus.com/doc/tutorial/)
@@ -1065,7 +1064,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
 * [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
-* [Introduction to the COBOL Language](http://www-03.ibm.com/systems/z/education/skills_coursematerials.html#COBOL)
+* [Introduction to the COBOL Language](https://supportline.microfocus.com/documentation/books/oc41books/lrintr.htm)
 * [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
 
 
@@ -1156,7 +1155,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - Tim Morgan (HTML)
 * [Elixir School](https://elixirschool.com) (HTML)
 * [Elixir Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/elixir-succinctly) (PDF, Kindle) (email address requested, not required)
-* [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) (HTML)
 * [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB)](https://github.com/potatogopher/elixir-getting-started)
 * [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source](https://github.com/radar/joyofelixir) (:construction: *in process*)
 * [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
@@ -1194,7 +1192,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf) (PDF)
 * [Erlang Handbook](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
 * [Erlang Programming](https://en.wikibooks.org/wiki/Erlang_Programming) - Wikibooks (HTML)
-* [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726/index.html) - J. David Eisenberg
 * [Getting Started with Erlang User's Guide](http://www.erlang.org/doc/getting_started/users_guide.html) (HTML)
 * [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com) - Frederic Trottier-Hebert
 * [Making reliable distributed systems in the presence of software errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) - Joe Armstrong (PDF)
@@ -1230,10 +1227,16 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Force.com
 
+* [Apex Workbook](https://web.archive.org/web/20170102233924/https://resources.docs.salesforce.com/sfdc/pdf/apex_workbook.pdf) (PDF)
 * [Developer Workbooks](http://developer.force.com/workbook)
-* [Force.com Fundamentals](https://developer.salesforce.com/page/Force_Platform_Fundamentals)
+* [Force.com Fundamentals](http://developerforce.s3.amazonaws.com/books/Force.com_Fundamentals.pdf) (PDF)
 * [Force.com Platform Fundamentals: An Introduction to Custom Application Development in the Cloud](http://www.lulu.com/shop/salesforcecom/forcecom-platform-fundamentals/ebook/product-17381451.html)
+* [Force.com Workbook](https://web.archive.org/web/20160804055738/http://resources.docs.salesforce.com:80/sfdc/pdf/forcecom_workbook.pdf) (PDF)
 * [Heroku Postgres](https://web.archive.org/web/20131209081736/http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) (PDF)
+* [Heroku Workbook](https://res.cloudinary.com/hy4kyit2a/image/upload/workbook_text_Heroku.pdf) (PDF)
+* [Integration Workbook](https://web.archive.org/web/20150919023850/https://resources.docs.salesforce.com/sfdc/pdf/integration_workbook.pdf) (PDF)
+* [Salesforce1 Mobile App Workbook](https://res.cloudinary.com/hy4kyit2a/image/upload/s1_mobile_woorkbook_v3-21.pdf) (PDF)
+* [Visualforce Workbook](https://web.archive.org/web/20150921195528/https://resources.docs.salesforce.com/sfdc/pdf/workbook_vf.pdf) (PDF)
 
 
 ### Forth
@@ -1270,8 +1273,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
-* [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html) - Richard E. Silverman
-* [Git Reference](http://gitref.org)
+* [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
+* [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/)
 * [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
@@ -1331,11 +1334,9 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Hadoop
 
 * [Big Data Analytics with Hadoop 3](https://www.packtpub.com/free-ebooks/big-data-analytics-hadoop-3) - Sridhar Alla (Packt account *required*)
-* [Cloudera Impala](http://www.cloudera.com/content/www/en-us/resources/aboutcloudera/cloudera-impala-ebook.html) - John Russel
+* [Cloudera Impala](https://docs.cloudera.com/documentation/enterprise/latest/PDF/cloudera-impala.pdf) - John Russel (PDF)
 * [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
-* [Hadoop Explained](https://www.packtpub.com/packt/free-ebook/hadoop-explained) - Aravind Shenoy, Packt. (email address *requested*, not required)
 * [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner & Sujee Maniyam
-* [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
 
 
 ### Haskell

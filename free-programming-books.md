@@ -102,7 +102,7 @@
   * [Vue.js](#vuejs)
 * [Jenkins](#jenkins)
 * [Julia](#julia)
-* [Kotlin](#Kotlin)
+* [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Algorithms & Data Structures](#algorithms--data-structures)
   * [Artificial Intelligence](#artificial-intelligence)

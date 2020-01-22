@@ -1560,16 +1560,14 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Let's Learn ES6](https://bubblin.io/cover/let-s-learn-es6-by-ryan-christiani#frontmatter) - Ryan Christiani (Superbook format)
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com) - Noel Rappin
 * [Marionette Exposé: Learn to write modular Javascript applications using Backbone Marionette and RequireJS/AMD](https://leanpub.com/marionetteexpose) - Jack Killilea  *(Leanpub account or valid email requested)*
-* [Mastering JavaScript High Performance](https://www.packtpub.com/packt/free-ebook/javascript-high-performance) - Chad R. Adams, Packt. (email address *requested*, not required)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-* [O'Reilly Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
-* [Object-Oriented JavaScript](https://www.packtpub.com/packt/free-ebook/object-oriented-javascript-pdf-ebook) - Stoyan Stefanov, Kumar Chetan Sharma (email address *requested*, not required)
 * [Oh My JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
+* [Programming JavaScript Applications](https://www.oreilly.com/library/view/programming-javascript-applications/9781491950289/)
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [The JavaScript Tutorial](http://javascript.info)
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
-* [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655/index.html)
+* [The Problem with Native JavaScript APIs](https://www.oreilly.com/programming/free/native-javascript-apis.csp) (email address *requested*)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -1582,13 +1580,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
-* [AngularJS Essentials](https://www.packtpub.com/packt/free-ebook/angularjs-essentials) - Rodrigo Branas, Packt (email address *requested*, not required)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) (email address *requested*, not required)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
-* [AngularJS with Ruby on Rails](http://angular-rails.com)
-* [Developing with Angular](https://leanpub.com/developing-with-angular/) - Denys Vuika *(Leanpub account or valid email requested)*
 * [Practical Angular: Build your first web apps with Angular 8](https://leanpub.com/practical-angular) - Ahmed Bouchefra *(Leanpub account or valid email requested)*
-* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) - Frederik Dietz
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
@@ -1603,8 +1597,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
 * [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis   *(Leanpub account or valid email requested)*
-* [Backbone.js + Require.js, Modularization and Just in Time Dependency Loading, part 1](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) [part 2](http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep)
-* [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
 * [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
 * [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (:construction: *in process*)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
@@ -1621,13 +1613,12 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Malcolm Maclean
 * [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
-* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 
 #### Dojo
 
-* [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
+* [Dojo: The Definitive Guide](https://www.oreilly.com/library/view/dojo-the-definitive/9780596516482/) - Matthew A. Russell
 
 
 #### Elm
@@ -1637,7 +1628,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [Elm Programming Language](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)
-* [Elm Tutorial](http://www.elm-tutorial.org)
+* [Elm Tutorial](https://legacy.gitbook.com/book/sporto/elm-tutorial/details)
 * [Learn You an Elm](https://learnyouanelm.github.io) (HTML)
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
@@ -1674,10 +1665,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node Documentation](https://nodejs.org/en/docs/)
-* [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
+* [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [The Node Beginner Book](http://nodebeginner.org)
-* [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt (email address *requested*, not required)
 
 
 #### Om
@@ -1692,7 +1682,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Hacking with React](http://www.hackingwithreact.com)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
-* [React-Bits](https://github.com/vasanthk/react-bits) ([vasanthk](https://github.com/vasanthk))
+* [React-Bits](https://github.com/vasanthk/react-bits)
 * [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
 * [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
@@ -1705,7 +1695,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [React.js Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/reactjs_succinctly) (PDF, Kindle) (email address requested, not required)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
-* [The Road to learn React - Build a Hacker News App along the Way](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch *(Leanpub account or valid email requested)* [markdown](https://github.com/the-road-to-learn-react/the-road-to-learn-react/tree/master/manuscript)
 
 
 #### React Native
@@ -1725,7 +1714,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Vue.js
 
-* [Vue.js 2 Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/vuejs-design-patterns-and-best-practices/) - Paul Halliday (Packt account *required*)
+* [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) (PDF)
 
 
 ### Jenkins

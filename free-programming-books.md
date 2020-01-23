@@ -158,7 +158,6 @@
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
 * [Octave](#octave)
-* [OpenGL ES](#opengl-es)
 * [OpenMP](#openmp)
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
@@ -1929,7 +1928,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [CouchDB: The Definitive Guide](http://guide.couchdb.org)
 * [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
 * [Graph Databases](http://graphdatabases.com)
-* [Instant MongoDB](https://www.packtpub.com/packt/free-ebook/mongoDB-starter-guide) - Amol Nayak, Packt. (email address *requested*, not required)
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
 * [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
 * [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
@@ -1950,7 +1948,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005149)
 * [Objective-C Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) (email address *requested*, not required)
 * [Programming With Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-* [Try Objective-C Book](http://tryobjectivec.codeschool.com)
 
 
 ### OCaml
@@ -1965,11 +1962,6 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Octave
 
 * [Octave Programming](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial) - Wikibooks
-
-
-### OpenGL ES
-
-* [iPhone 3D Programming - Developing Graphical Applications with OpenGL ES](http://chimera.labs.oreilly.com/books/1234000001814/index.html) - Philip Rideout
 
 
 ### OpenMP
@@ -2005,7 +1997,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Higher-Order Perl](http://hop.perl.plover.com/book/) - M. J. Dominus (PDF)
 * [Impatient Perl](https://www.perl.org/books/impatient-perl/)
 * [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
-* [Mastering Perl](http://chimera.labs.oreilly.com/books/1234000001527) - brian d foy
 * [Modern Perl 5](http://www.onyxneon.com/books/modern_perl/)
 * [Perl & LWP](http://lwp.interglacial.com/index.html)
 * [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
@@ -2024,7 +2015,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Perl 6 at a Glance](https://perl6.online/perl6-at-a-glance/) - Andrew Shitov (HTML) (PDF)
 * [Perl 6 Introduction](http://perl6intro.com)
 * [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming) - Wikibooks
-* [Raku One-Liners](https://deeptext.media/raku-oneliners) - Andrew Shitov (PDF)
+* [Raku One-Liners](https://web.archive.org/web/20191101151545/https://deeptext.media/i/raku-oneliners/RakuOneLiners.pdf) - Andrew Shitov (PDF)
 * [Think Perl 6](http://greenteapress.com/thinkperl6/thinkperl6.pdf) - Laurent Rosenfeld, with Allen B. Downey (PDF)
 * [Using Perl 6](https://github.com/perl6/book/) (:construction: *project is dead*)
 

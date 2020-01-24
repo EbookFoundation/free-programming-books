@@ -2150,7 +2150,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Python
 
-* [20 Python Libraries You Aren't Using (But Should)](http://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp) (email address *requested*, not required)
+* [20 Python Libraries You Aren't Using (But Should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should) - Caleb Hattingh
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
 * [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
 * [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
@@ -2163,17 +2163,17 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Code Like a Pythonista: Idiomatic Python](https://web.archive.org/web/20180411011411/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) - David Goodger
 * [CodeCademy Python](https://www.codecademy.com/learn/python)
 * [Composing Programs](http://composingprograms.com) (3.x)
+* [Cracking Codes with Python](http://inventwithpython.com/cracking/) - Al Sweigart
 * [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF)
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
   * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
 * [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * [Full Stack Python](http://www.fullstackpython.com)
-* [Functional Programming in Python](http://www.oreilly.com/programming/free/functional-programming-python.csp) (email address *requested*, not required)
+* [Functional Programming in Python](https://www.oreilly.com/ideas/functional-programming-in-python) - David Mertz
 * [Fundamentals of  Python Programming](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) (:construction: *in process*)
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
-* [Hadoop with Python](http://www.oreilly.com/programming/free/hadoop-with-python.csp) (email address *requested*, not required)
+* [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) -  Zachary Radtka, Donald Miner
 * [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebooks/hands-natural-language-processing-python) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 * [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
@@ -2197,7 +2197,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - Wikibooks (3.3)
   * [Non-Programmer's Tutorial for Python 2.6](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) - Wikibooks (2.6)
-* [Picking a Python Version: A Manifesto](http://www.oreilly.com/programming/free/from-future-import-python.csp) (email address *requested*, not required)
+* [Picking a Python Version: A Manifesto](https://www.oreilly.com/ideas/picking-a-python-version) - David Mertz
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
@@ -2213,7 +2213,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) (2.7.3)
 * [Python for you and me](http://pymbook.readthedocs.org/en/py3/) (3.x)
 * [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (PDF)
-* [Python in Education](http://www.oreilly.com/programming/free/python-in-education.csp) (email address *requested*, not required)
+* [Python in Education](https://www.oreilly.com/ideas/python-in-education) - Nicholas Tollervey
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 * [Python Machine Learning By Example](https://www.packtpub.com/free-ebooks/python-machine-learning-example) - Yuxi (Hayden) Liu (Packt account *required*)
@@ -2233,7 +2233,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Definitive Guide to Jython, Python for the Java Platform](https://jython.readthedocs.io/en/latest/) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
-* [The Python Ecosystem: An Introduction](http://mirnazim.org/writings/python-ecosystem-introduction/)
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
 * [The Standard Python Library](http://effbot.org/librarybook/) - Fredrik Lundh
 * [Think Complexity](http://greenteapress.com/complexity/) - Allen B. Downey (2nd Edition) (PDF, HTML)
@@ -2251,7 +2250,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) (PDF) (2.2)
 * [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
-* [Effective Django](http://www.effectivedjango.com) (1.5)
+* [Effective Django](https://web.archive.org/web/20181130092020/http://www.effectivedjango.com/) (1.5)
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
 
 

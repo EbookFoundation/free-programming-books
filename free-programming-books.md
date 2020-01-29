@@ -7,7 +7,7 @@
 * [Android](#android)
 * [APL](#apl)
 * [Arduino](#arduino)
-* [ASP.NET MVC](#aspnet-mvc)
+* [ASP.NET](#aspnet)
 * [Assembly Language](#assembly-language)
   * [Non-X86](#non-x86)
 * [AutoHotkey](#autohotkey)
@@ -863,8 +863,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
 
 
-### ASP.NET MVC
+### ASP.NET
 
+* [ASP.NET Core 2 Succinctly](https://www.syncfusion.com/ebooks/aspnet-core-2-succinctly) - Simone Chiaretta, Ugo Lattanzi
 * [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com)
 
 
@@ -1921,6 +1922,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Clean Code .NET](https://github.com/thangchung/clean-code-dotnet)
 * [Entity Framework](http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community)
 * [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA) - Wikibooks
+* [Getting the Most from LINQPad Succinctly](https://www.syncfusion.com/ebooks/getting-the-most-from-linqpad-succinctly) - José Roberto Olivas Mendoza
+* [MonoGame Succinctly](https://www.syncfusion.com/ebooks/monogame_succinctly) - Jim Perry
 * [.NET for Visual FoxPro Developers](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm)
 * [.NET Performance Testing and Optimization - The Complete Guide](https://www.red-gate.com/library/net-performance-testing-and-optimization-the-complete-guide) - Paul Glavich, Chris Farrell (PDF)
 * [NuGet In-House Succinctly](https://www.syncfusion.com/ebooks/nuget-in-house-succinctly) - José Roberto Olivas Mendoza

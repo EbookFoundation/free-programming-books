@@ -269,6 +269,7 @@
 
 ### Graphics Programming
 
+* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - David Lettier (Git) [(HTML)](https://lettier.github.io/3d-game-shaders-for-beginners)
 * [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro) - Wikibooks
 * [Computer Graphics from scratch](http://gabrielgambetta.com/computer-graphics-from-scratch) - Gabriel Gambetta (:construction: *in process*)
 * [DirectX manual](http://user.xmission.com/~legalize/book/download/index.html) (draft)

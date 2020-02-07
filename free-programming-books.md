@@ -456,6 +456,7 @@
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
 * [Introduction to Machine Learning](http://arxiv.org/abs/0904.3664v1) - Amnon Shashua
+* [Keras Succinctly](https://www.syncfusion.com/ebooks/keras-succinctly) - James McCaffrey
 * [Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) - Jupyter Notebooks
 * [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) (PDF)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
@@ -518,6 +519,7 @@
 
 #### Mathematics For Computer Science
 
+* [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 
 
@@ -527,7 +529,6 @@
 * [2016 Software Development Salary Survey](https://www.oreilly.com/radar/2016-software-development-salary-survey-report/)
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended) *(Leanpub account or valid email requested)*
 * [A MACHINE MADE THIS BOOK ten sketches of computer science](http://ocaml-book.com/s/popbook.pdf) - JOHN WHITINGTON (PDF)
-* [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
 * [Ansible Up & Running (first three chapters)](https://www.ansible.com/ebooks) *(account required)*
 * [Asterisk™: The Definitive Guide](http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8)
 * [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
@@ -553,10 +554,10 @@
 * ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](http://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html) - Luis A. Enríquez
 * [Effective DevOps with AWS, Second Edition](https://www.packtpub.com/free-ebooks/effective-devops-aws-second-edition) - Yogesh Raheja, Giuseppe Borgese, Nathaniel Felsen (Packt account *required*)
 * [Essential Image Optimization](https://images.guide) - Addy Osmani
-* [Flow based Programming](http://jpaulmorrison.com/fbp/)
 * [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) (PDF)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com) - Bob Nystrom
 * [Getting Real](http://gettingreal.37signals.com)
+* [Google Maps API Succinctly](https://www.syncfusion.com/ebooks/google_maps_api_succinctly) - Mark Lewin
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
 * [High-Performance Scientific Computing](https://andreask.cs.illinois.edu/Teaching/HPCFall2012) (class lectures and slides)
 * [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html) - R. Young
@@ -595,6 +596,7 @@
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
+* [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
 
 
 #### MOOC
@@ -701,6 +703,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Programming Paradigms
 
+* [Flow based Programming](http://jpaulmorrison.com/fbp/) - J Paul Morrison
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
 * [Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
@@ -1404,8 +1407,9 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Bootstrap
 
-* [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap3) (PDF, Kindle) (email address *requested*, not required)
-* [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) (PDF, Kindle) (email address *requested*, not required)
+* [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap3) - Peter Shaw
+* [Twitter Bootstrap 4 Succinctly](https://www.syncfusion.com/ebooks/twitterbootstrap4-succinctly) - Peter Shaw
+* [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) - Peter Shaw
 
 
 #### HTTP
@@ -1928,6 +1932,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [.NET for Visual FoxPro Developers](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm)
 * [.NET Performance Testing and Optimization - The Complete Guide](https://www.red-gate.com/library/net-performance-testing-and-optimization-the-complete-guide) - Paul Glavich, Chris Farrell (PDF)
 * [NuGet In-House Succinctly](https://www.syncfusion.com/ebooks/nuget-in-house-succinctly) - José Roberto Olivas Mendoza
+* [Rider Succinctly](https://www.syncfusion.com/ebooks/rider-succinctly) - Dmitri Nesteruk
 * [Under the Hood of .NET Memory Management](https://assets.red-gate.com/community/books/under-the-hood-of-net-memory-management.pdf) - Chris Farrell, Nick Harrison (PDF)
 * [Using .NET Core, Docker, and Kubernetes Succinctly](https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly) - Michele Aponte
 * [Visual Studio .NET Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)

@@ -414,7 +414,7 @@
 #### Containers
 
 * [Docker Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/docker-cookbook-second-edition) - Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare (Packt account *required*)
-* [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)* [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
+* [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Kubernetes Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition) - Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (Packt account *required*)
 
 

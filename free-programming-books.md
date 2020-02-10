@@ -111,12 +111,16 @@
   * [Cloud Computing](#cloud-computing)
   * [Competitive Programming](#competitive-programming)
   * [Compiler Design](#compiler-design)
+  * [Computer Science](#computer-science)
+  * [Computer Vision](#computer-vision)
+  * [Containers](#containers)
   * [Database](#database)
   * [Datamining](#datamining)
   * [Information Retrieval](#information-retrieval)
   * [Licensing](#licensing)
   * [Machine Learning](#machine-learning)
   * [Mathematics](#mathematics)
+  * [Mathematics For Computer Science](#mathematics-for-computer-science)
   * [Misc](#misc)
   * [MOOC](#mooc)
   * [Networking](#networking)
@@ -344,6 +348,7 @@
 #### Artificial Intelligence
 
 * [Artificial Intelligence for Big Data](https://www.packtpub.com/free-ebooks/artificial-intelligence-big-data) - Anand Deshpande, Manish Kumar (Packt account *required*)
+* [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
 
 #### Cellular Automata
@@ -403,6 +408,13 @@
 * [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com) - Simon J.D. Prince
 * [Mastering OpenCV 4,Third Edition](https://www.packtpub.com/free-ebooks/mastering-opencv-4-third-edition) - Roy Shilkrot, David Millán Escrivá (Packt account *required*)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
+
+
+#### Containers
+
+* [Docker Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/docker-cookbook-second-edition) - Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare (Packt account *required*)
+* [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
+* [Kubernetes Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition) - Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (Packt account *required*)
 
 
 #### Database
@@ -484,7 +496,7 @@
 * [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammack (PDF)
 * [Calculus](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) - Gilbert Strang (PDF)
 * [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
-* [Category Theory for the Sciences](http://category-theory.mitpress.mit.edu)
+* [Category Theory for the Sciences](https://mitpress.ublish.com/ereader/77/?preview#page/Cover) - David I. Spivak
 * [CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
 * [Collaborative Statistics](http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
 * [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com)
@@ -536,23 +548,17 @@
 * [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
 * [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) -  Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder (PDF)
 * [Blockchain By Example](https://www.packtpub.com/free-ebooks/blockchain-example) - Bellaj Badr, Richard Horrocks, Xun (Brian) Wu (Packt account *required*)
-* [Category Theory for the Sciences](https://mitpress.ublish.com/ereader/77/?preview#page/Cover) - David I. Spivak
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/~playbook/)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
 * [Confessions of an Unintentional CTO: Lessons in Growing a Web App](http://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
-* [CS For All](https://www.cs.hmc.edu/csforall/)
 * [Culture \& Empire: Digital Revolution](http://hintjens.com/books) (PDF)
 * [Design With FontForge](http://designwithfontforge.com/en-US/index.html)
-* [Designing for Performance](http://designingforperformance.com) - Lara Hogan
 * [Designing Interfaces](http://designinginterfaces.com) - Jennifer Tidwell
 * [DevDocs](http://devdocs.io) - Documents for Developers in 1 place
 * [DevOps For Dummies (IBM Edition)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/) (PDF)
 * [Digital Signal Processing For Communications](http://www.sp4comm.org)
 * [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com)
-* [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
-* [Docker Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/docker-cookbook-second-edition) - Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare (Packt account *required*)
-* [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
 * ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](http://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html) - Luis A. Enríquez
 * [Effective DevOps with AWS, Second Edition](https://www.packtpub.com/free-ebooks/effective-devops-aws-second-edition) - Yogesh Raheja, Giuseppe Borgese, Nathaniel Felsen (Packt account *required*)
 * [Essential Image Optimization](https://images.guide) - Addy Osmani
@@ -570,7 +576,6 @@
 * [Industrial Cybersecurity](https://www.packtpub.com/free-ebooks/industrial-cybersecurity) - Pascal Ackerman (Packt account *required*)
 * [Information Technology and the Networked Economy](http://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) (PDF)
 * [IRPF90 Fortran code generator](https://www.gitbook.com/book/scemama/irpf90/details) - Anthony Scemama
-* [Kubernetes Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition) - Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (Packt account *required*)
 * [Learn Programming](https://progbook.org) - Antti Salonen
 * [Learn to Program](https://pine.fm/LearnToProgram/)
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
@@ -580,11 +585,10 @@
 * [Mastering ROS for Robotics Programming, Second Edition](https://www.packtpub.com/free-ebooks/mastering-ros-robotics-programming-second-edition) - Lentin Joseph, Jonathan Cacace (Packt account *required*)
 * [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide) *(Leanpub account or valid email requested)*
 * [Modeling Reactive Systems with Statecharts](http://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html)
-* [Mother Tongues of Computer Languages](http://www.digibarn.com/collections/posters/tongues/) (PNG)
 * [MSIX Succinctly](https://www.syncfusion.com/ebooks/msix-succinctly) - Matteo Pagani
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
-* [Open Government;Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government)
+* [Open Government; Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government) - Daniel Lathrop, Laurel Ruma
 * [Packt Publishing: A free book every day](https://www.packtpub.com/packt/offers/free-learning) (PDF, ePub, Mobi, Kindle) *(account required)*
 * [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien  *(Leanpub account or valid email requested)*
 * [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
@@ -596,9 +600,7 @@
 * [Real-World Maintainable Software](https://www.oreilly.com/ideas/real-world-maintainable-software) - Abraham Marin-Perez
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap  *(Leanpub account or valid email requested)*
 * [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
-* [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
-* [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 * [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
 
 
@@ -623,6 +625,7 @@
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson and Bruce Davie (HTML, epub, mobi, PDF)
+* [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [High-Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
 * [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) (email address *requested*, not required)
 * [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
@@ -654,7 +657,7 @@
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
 
 
-#### Operating systems
+#### Operating Systems
 
 * [A short introduction to operating systems (2001)](http://markburgess.org/os/os.pdf) - Mark Burgess (PDF)
 * [Computer Science from the Bottom Up](http://www.bottomupcs.com)
@@ -811,6 +814,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Web Performance
 
 * [Book of Speed](http://www.bookofspeed.com) - Stoyan Stefanov
+* [Designing for Performance](http://designingforperformance.com) - Lara Hogan
 * [High Performance Accelerated Websites](https://thisisyuu.github.io/ebook) - Anshul (HTML) (:construction: *in process*)
 * [High Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
 * [Mature Optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf) - Carlos Bueno (PDF)

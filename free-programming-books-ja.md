@@ -539,6 +539,7 @@
 * [The Programming Historian](https://sites.google.com/site/theprogramminghistorianja/) - William J. Turkel, Alan MacEachern, @moroshigeki(翻訳), @historyanddigi(翻訳), @Say\_no(翻訳), @knagasaki(翻訳), @mak\_goto(翻訳)
 * [Think Python：コンピュータサイエンティストのように考えてみよう](http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf) - Allen Downey, 相川 利樹（翻訳）(PDF)
 * [お気楽 Python プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light/) - 広井誠
+* [プログラミング演習 Python 2019](http://hdl.handle.net/2433/245698) - 喜多一 (PDF)
 * [みんなのPython Webアプリ編](https://coreblog.org/ats/stuff/minpy_web/) - 柴田淳
 * [機械学習の Python との出会い (Machine Learning Meets Python)](http://www.kamishima.net/mlmpyja/) - 神嶌敏弘 [PDF](http://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](http://www.kamishima.net/archive/mlmpyja.epub)
 

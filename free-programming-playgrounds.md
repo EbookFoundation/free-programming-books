@@ -9,6 +9,7 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [Ionic](#ionic)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
 * [.Net](#dotnet)
@@ -77,10 +78,15 @@
 * [StackBlitz](https://stackblitz.com/fork/ionic)
 
 
+### Java
+
+* [repl.it](https://repl.it) (_including a separate Java/Swing_)
+
+
 ### JavaScript
 
 * [CodePen](https://codepen.io)
-* [CodeSandbox.io](https://codesandbox.io) (_React_)
+* [CodeSandbox.io](https://codesandbox.io)
 * [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
@@ -132,6 +138,7 @@
 
 ### React
 
+* [CodeSandbox.io](https://codesandbox.io)
 * [StackBlitz](https://stackblitz.com/fork/react)
 
 
@@ -177,3 +184,4 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
+

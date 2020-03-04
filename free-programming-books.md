@@ -920,6 +920,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A User's Guide for GNU AWK](http://www.math.utah.edu/docs/info/gawk_toc.html)
 * [An Awk Primer](https://en.wikibooks.org/wiki/An_Awk_Primer) - Wikibooks
 * [Awk](http://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
+* [Learn Awk by example] (https://github.com/awk-anti-textbook)
 
 
 ### Bash

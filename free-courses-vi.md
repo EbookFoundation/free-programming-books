@@ -6,7 +6,7 @@
 * [AngularJS](#angularjs)
 * [ASP.NET](#asp)
 * [Bootstrap](#bootstrap)
-* [C](#c)
+* [C/C++](#c)
 * [C#](#c-sharp)
 * [CSS](#css)
 * [HTML](#html)
@@ -21,6 +21,7 @@
 * [React](#react)
 * [Ruby](#ruby)
 * [Sass](#sass)
+* [Selenium](#selenium)
 * [SQL](#sql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
@@ -68,8 +69,12 @@
 ### C
 
 * [Bài toán kinh điển trong lập trình C++](https://www.youtube.com/watch?v=2SsyOv0koNE&list=PL33lvabfss1zRuwxONgKLc_BBsZ-Y2B6b) - Kteam
+* [Khóa học lập trình C](https://nguyenvanhieu.vn/khoa-hoc-lap-trinh-c/) - Lập Trình Không Khó
+* [Khóa học hướng đối tượng](https://nguyenvanhieu.vn/series/huong-doi-tuong-cpp/) - Lập Trình Không Khó
 * [Học Lập Trình C++](https://www.youtube.com/watch?v=jrn6bXC6sTU&list=PLyiioioEJSxHVTaeL-ELYy6Io-I8diIVZ) - DayNhauHoc
-* [Học Lập Trình C++ - Cấu trúc dữ liệu](https://www.youtube.com/watch?v=pxwP0b77Kl0&list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F) - DayNhauHoc
+* [Học Lập Trình C++ - Cấu trúc dữ liệu](https://www.youtube.com/watch?v=pxwP0b77Kl0&list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F) - 
+* [Series Con trỏ trong C](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - CongdongCViet
+DayNhauHoc
 * [Lập trình C++ cơ bản](https://www.youtube.com/watch?v=WS05AU6YYm4&list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - Kteam
 * [Ngôn Ngữ Lập Trình C](https://www.youtube.com/watch?v=bv4wVWi-Fjc&list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - DayNhauHoc
 
@@ -165,7 +170,6 @@
 
 * [Sass Cơ Bản](https://www.youtube.com/watch?v=zjW8LpCHasE&list=PLzrVYRai0riSWPPRE6Ib99zd5fV4YYH0Q) - KhoaPham
 * [Tự Học Sass](https://www.youtube.com/watch?v=pXbA0Nab9UE&list=PLv6GftO355AtWld1EE7SBAH-OkKKt23Bb) - ZendVN
-
 
 ### SQL
 

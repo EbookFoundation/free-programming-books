@@ -1,3 +1,5 @@
 [Python](#python)
 
-https://progeopik.cs.ut.ee/01_sissejuhatus.html
+### Python
+
+[Programmeerimise õpik] https://progeopik.cs.ut.ee/01_sissejuhatus.html

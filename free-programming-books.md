@@ -858,6 +858,10 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
 * [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
+* [Head First Android Development](http://libtips.org/main/1771B3748B7504F7FCF5DD7FB5FD9EBD) (PDF)
+
+
+
 
 
 ### APL

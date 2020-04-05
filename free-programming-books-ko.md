@@ -115,6 +115,9 @@
 
 * [Flask의 세계에 오신것을 환영합니다.](http://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
 
+#### PyTorch
+
+* [파이토치(PyTorch) 한국어 튜토리얼(번역)](https://tutorials.pytorch.kr/) (HTML) (:construction: *in process*)
 
 ### R
 

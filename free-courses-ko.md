@@ -159,6 +159,7 @@
 
 * [Python tensorflow & 머신러닝 기초 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO)
 * [머신러닝/딥러닝 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
+* [파이토치(PyTorch) 튜토리얼 한국어 번역](https://tutorials.pytorch.kr) (HTML) (:construction: *in process* - *번역 진행 중*)
 
 
 ### Mathematics

@@ -120,7 +120,6 @@
     * [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
     * [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
     * [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
-   
 
 
 ### Clojure
@@ -289,6 +288,7 @@
 * [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
+* [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 

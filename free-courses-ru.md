@@ -20,6 +20,7 @@ ADV - продвинутый. Тонкости.
 
 * [Курс Clojure](https://clojurecourse.by) (BEG)
 
+
 ### Haskell
 
 * [Функциональное программирование на языке Haskell](https://stepik.org/course/75) (INT)

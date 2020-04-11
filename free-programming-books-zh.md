@@ -652,7 +652,7 @@
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
 * [简明 Python 教程](https://bop.molun.net) - Swaroop C H、沈洁元(翻译)、漠伦(翻译)
-
+* [Python进阶](https://github.com/eastlakeside/interpy-zh) - 是《Intermediate Python》的中文译本
 
 #### Django
 

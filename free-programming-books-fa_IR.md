@@ -24,7 +24,7 @@
 
 ### Javascript
 
-* [یادگیری اصولی جاواسکریپت](https://book.sayjeyhi.com/HTML/?page=1)
+* [یادگیری اصولی جاواسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 
 ### LaTeX
 

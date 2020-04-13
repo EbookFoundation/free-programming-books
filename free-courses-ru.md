@@ -1,6 +1,7 @@
 ### Index
 
 * [Clojure](#clojure)
+* [Haskell](#haskell)
 * [Java](#java)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
@@ -18,6 +19,12 @@ ADV - продвинутый. Тонкости.
 ### Clojure
 
 * [Курс Clojure](https://clojurecourse.by) (BEG)
+
+
+### Haskell
+
+* [Функциональное программирование на языке Haskell](https://stepik.org/course/75) (INT)
+* [Функциональное программирование на языке Haskell (часть 2)](https://stepik.org/course/693) (ADV)
 
 
 ### Java

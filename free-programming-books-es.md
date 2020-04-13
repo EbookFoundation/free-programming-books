@@ -309,7 +309,7 @@
 
 #### Django
 
-* [Tutorial de Django Girls](https://tutorial.djangogirls.org/de/) (1.11) (HTML) (:construction: *in process*)
+* [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/) (1.11) (HTML) (:construction: *in process*)
 
 
 #### Web2py

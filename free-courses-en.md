@@ -91,9 +91,6 @@
 * [Udacity Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 
 
-
-
-
 ### Angular
 
 * [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)

@@ -45,7 +45,7 @@
 
 ### R
 
-* [Statistiline andmeteadus ja visualiseerimine R keele abil](https://andmeteadus.github.io/2015/rakendustarkvara_R/) - Mait Raag ja Raivo Kolde 
+* [Statistiline andmeteadus ja visualiseerimine R keele abil](https://andmeteadus.github.io/2015/rakendustarkvara_R/) - Mait Raag, Raivo Kolde
 
 
 ### SQL

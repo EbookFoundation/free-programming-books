@@ -2,6 +2,7 @@
 
 * [C#](#c-sharp)
 * [CSS](#css)
+* [Javascript](#javascript)
 * [LaTeX](#latex)
 * [PHP](#php)
 * [Python](#python)
@@ -20,6 +21,11 @@
 ### CSS
 
 * [یادگیری پیکربندی با CSS](http://fa.learnlayout.com)
+
+
+### Javascript
+
+* [یادگیری اصولی جاواسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 
 
 ### LaTeX

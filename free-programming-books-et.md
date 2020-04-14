@@ -23,8 +23,8 @@
 
 ### Java
 
-* [Programmeerimiskeel Java](https://et.wikibooks.org/wiki/Programmeerimiskeel_Java) - Vikiõpikud
 * [Java õppematerjalid](https://ained.ttu.ee/javadoc/index.html) - TTÜ õppematerjalid
+* [Programmeerimiskeel Java](https://et.wikibooks.org/wiki/Programmeerimiskeel_Java) - Wikiõpikud
 
 
 ### JavaScript

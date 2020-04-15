@@ -139,6 +139,7 @@
 * [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html) - Романов Е.Л.
 * [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах) - Викиучебник
+* [Заметки по C, Ассемблеру, безопасности и пр.](http://web.archive.org/web/20170421104522/https://www.evilfingers.com/publications/research_RU.php) - К. Касперски (PDF, DOC)
 
 
 ### C Sharp

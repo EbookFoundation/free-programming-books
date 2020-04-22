@@ -97,6 +97,7 @@
 * [DevZen Podcast](https://devzen.ru) (Podcast)
 * [Software Development podCAST](https://sdcast.ksdaemon.ru) (Podcast)
 * [The Art Of Programming](https://theartofprogramming.podbean.com) (Podcast)
+* [Mobile People Talks](https://soundcloud.com/mobilepeopletalks) (Podcast)
 * [Две Столицы - Уютный подкаст IT панков](http://www.2capitals.space) (Podcast)
 * [Как делают игры](https://kdicast.com) (Podcast)
 * [Радио-Т](https://radio-t.com) (Podcast)

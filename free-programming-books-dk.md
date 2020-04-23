@@ -10,6 +10,14 @@
 * [C - Programmering](http://synkro.dk/bog/c-programmering.pdf) - Henrik Kressner (PDF)
 * [Programmering i C](http://people.cs.aau.dk/~normark/c-prog-06/pdf/all.pdf) - Kurt Nørmark (PDF)
 
+### C#
+
+* [Object-oriented Programming in C#](http://people.cs.aau.dk/~normark/oop-csharp/pdf/all.pdf) - Kurt Nørmark (PDF)
+### C++
+
+* [Notes about C++](http://people.cs.aau.dk/~normark/ap/index.html) - Kurt Nørmark (HTML)
+
+
 
 ### Java
 

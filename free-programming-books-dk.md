@@ -1,6 +1,8 @@
 ### Index
 
 * [C](#c)
+* [C#](#c#)
+* [C++](#c++)
 * [Java](#java)
 * [Pascal](#pascal)
 

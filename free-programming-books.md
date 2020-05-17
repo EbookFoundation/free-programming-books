@@ -833,8 +833,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Ada for the C++ or Java Developer](https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf) - Quentin Ochem (PDF)
 * [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks
 * [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
-* [Introduction To Ada](https://learn.adacore.com/pdf_books/courses/intro-to-ada.pdf) - Raphaël Amiard and Gustavo A. Hoffmann (PDF)
-* [Introduction To SPARK](https://learn.adacore.com/pdf_books/courses/intro-to-spark.pdf) - Claire Dross and Yannick Moy (PDF)
+* [Introduction To Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+* [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html)
 * [SPARK for the MISRA-C Developer](https://learn.adacore.com/pdf_books/courses/SPARK_for_the_MISRA_C_Developer.pdf) - Yannick Moy (PDF)
 * [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
 

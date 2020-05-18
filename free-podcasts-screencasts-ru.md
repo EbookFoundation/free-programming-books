@@ -57,7 +57,7 @@
 
 ### QA
 
-* [QAGuild](http://automation-remarks.com/podcast) (Podcast)
+* [QAGuild](https://automation-remarks.com/tags/QAGuild.html) (Podcast)
 * [Подкаст тестировщиков](http://radio-qa.com) (Podcast)
 
 

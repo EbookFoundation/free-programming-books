@@ -66,6 +66,7 @@
  * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
  * [PODebug](http://www.podebug.com) (podcast)
  * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
+ * [podTag](https://podtag.com.br) (podcast)
  * [Screencast DevMedia - Lazy Load](https://www.youtube.com/playlist?list=PLi75dzoFwEbo89TG5IaD4ODYPeJK9uxA5) (screencast)
  * [Screencasts - Andre Baltieri](https://www.youtube.com/playlist?list=PLTMuY7ptzFISwigIWpZQtp6b0TuEEvqLC) (screencast)
 

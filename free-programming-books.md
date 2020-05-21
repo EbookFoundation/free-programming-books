@@ -2540,12 +2540,16 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Snap! Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) - B. Harvey, J. Mönig (PDF)
 
 
+### SNOBOL4
+
+* [SNOBOL4.ORG -- SNOBOL4 Resources](http://www.snobol4.org/)
+
+
 ### Spark
 
 * [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
 * [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
 * [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
-
 
 ### Splunk
 

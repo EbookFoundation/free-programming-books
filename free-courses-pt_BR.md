@@ -7,6 +7,7 @@
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [Gulp](#gulp)
@@ -68,6 +69,9 @@
 
 * [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
 
+### Flutter
+* [Criando seu primeiro App com Flutter](https://balta.io/cursos/criando-seu-primeiro-app-com-flutter) - Plataforma Balta.io
+* [Flutter - Desenvolva um Cadastro Completo [2020]](https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo) - Plataforma Cod3r
 
 ### Git
 
@@ -153,6 +157,7 @@
 ### Node.js
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
+* [Node.js para iniciantes](https://treinamento.nodebr.org) - NodeBr
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
 
 

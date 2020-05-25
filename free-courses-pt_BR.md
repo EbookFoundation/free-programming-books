@@ -69,9 +69,12 @@
 
 * [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
 
+
 ### Flutter
+
 * [Criando seu primeiro App com Flutter](https://balta.io/cursos/criando-seu-primeiro-app-com-flutter) - Plataforma Balta.io - Andrté Baltieri
 * [Flutter - Desenvolva um Cadastro Completo [2020]](https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo) - Plataforma Cod3r - Leornado Leitão
+
 
 ### Git
 

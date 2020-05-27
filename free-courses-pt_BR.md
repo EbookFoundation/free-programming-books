@@ -71,6 +71,7 @@
 
 ### Git
 
+* [Git e contribuições para projetos Open Source](https://www.udemy.com/course/git-e-github/) - Bruno Orlandi (Udemy)
 * [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - Willian Justen de Vasconcellos (Udemy)
 * [Git para iniciantes](https://www.udemy.com/git-para-iniciantes/) - Ricardo Netto (Udemy)
 

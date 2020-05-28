@@ -112,6 +112,7 @@
 ### C Sharp
 
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
+* [Programming in C# Jump Start](https://channel9.msdn.com/Series/Programming-in-CSharp-Jump-Start) - Microsoft Virtual Academy
 
 
 ### C++

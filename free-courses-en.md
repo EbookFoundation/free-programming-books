@@ -112,6 +112,7 @@
 ### C Sharp
 
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
+* [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
 
 
 ### C++

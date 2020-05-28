@@ -58,7 +58,7 @@
 ### C Sharp
 
 * [Programmazione ad oggetti in C#](https://www.youtube.com/watch?v=aSgikNnGEKM&list=PLktbfd3yXeH8yQpHM3O468k8l-aTC6Hl6) - G. Pellegrini Parisi 
-
+* [Programming in C# Jump Start](https://channel9.msdn.com/Series/Programming-in-CSharp-Jump-Start?l=j0iuozSfB_6900115888) - Microsoft Virtual Academy
 
 ### C++
 

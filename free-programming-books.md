@@ -1710,6 +1710,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Free React on Rails course](https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course)
 * [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/full-stack-react-projects) - Shama Hoque (Packt account *required*)
+* [Getting Started With React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 * [Hacking with React](http://www.hackingwithreact.com)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
@@ -1726,7 +1727,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
-* [Getting Started With React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 
 
 

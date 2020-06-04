@@ -718,6 +718,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Regular Expressions
 
+* [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me) - Shreyas Minocha
 * [RexEgg](http://www.rexegg.com)
 * [The 30 Minute Regex Tutorial](http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
 * [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen  *(Leanpub account or valid email requested)*

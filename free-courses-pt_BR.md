@@ -189,7 +189,6 @@
 * [Introdução à linguagem Python](https://www.udemy.com/intro_python/) - Diego Mariano (Udemy)
 * [Padrões de projeto](https://www.youtube.com/watch?v=hVOP_XR9gEw&list=PLOQgLBuj2-3IPHFlBmqhtbM4vLJg9tob4) - Eduardo Mendes (YouTube)
 * [Paralelismo e concorrência](https://www.youtube.com/watch?v=FjJ1bClIa-o&list=PLOQgLBuj2-3KU6TnzJQJVfL5aiaOQuZ4o) - Eduardo Mendes (YouTube)
-* [Pense em Python (2ª ed.)](https://penseallen.github.io/PensePython2e/) - Allen B. Downey
 * [Programação orientada a objetos](https://www.youtube.com/watch?v=BALM_oJcJL4&list=PLOQgLBuj2-3L_L6ahsBVA_SzuGtKre3OK) - Eduardo Mendes (YouTube)
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)

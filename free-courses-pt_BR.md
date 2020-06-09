@@ -61,6 +61,7 @@
 
 ### Database
 
+* [Curso de MySQL](https://www.cursoemvideo.com/course/mysql/) - Gustavo Guanabara (Curso em Vídeo)
 * [Introdução ao MySQL e phpMyAdmin](https://www.udemy.com/mysql-phpmyadmin/) - Fernando Carmo, Mestres BI (Udemy)
 
 
@@ -115,9 +116,11 @@
 
 ### Java
 
+* [Curso de Java Básico](https://www.cursoemvideo.com/course/java-basico/) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso de Java POO](https://www.cursoemvideo.com/course/java-poo/) - Gustavo Guanabara (Curso em Vídeo)
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
-* [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
 * [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
+* [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
 * [Java SE - Polimorfismo](https://www.udemy.com/java-se-polimorfismo/) - Fernando Franzini (Udemy)
 * [Produtos Java - Especificações versus Proprietários](https://www.udemy.com/produtos-java-especificacoes-versus-proprietarios/) - Fernando Franzini (Udemy)
 * [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias (Udemy)
@@ -161,9 +164,11 @@
 
 * [Boas práticas em PHP](https://www.udemy.com/boas-praticas-em-php/) - Diego Mariano (Udemy)
 * [Curso Básico de Bootstrap 4 , PHP e MySQL](https://www.udemy.com/curso-basico-de-bootstrap-4-php-e-mysql-gratis/) - Ricardo Milbrath Gonçalves (Udemy)
-* [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
+* [Curso PHP Básico](https://www.cursoemvideo.com/course/php-basico/) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso PHP POO](https://www.cursoemvideo.com/course/php-poo/) - Gustavo Guanabara (Curso em Vídeo)
 * [Introdução ao Laravel (5.3)](https://www.udemy.com/introducao-ao-laravel-53/) - Guilherme Ferreira (Udemy)
 * [Introdução ao PHP orientado a objetos](https://www.udemy.com/php-orientado-a-objetos/) - Diego Mariano (Udemy)
+* [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
 * [Login com validação e flash messages (PHP)](https://www.udemy.com/login-com-validacao-e-flash-messages-php/) - Alexandre Cardoso (Udemy)
 * [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
@@ -174,13 +179,22 @@
 
 * [Algoritmos em Python](https://algoritmosempython.com.br) - Douglas do Couto
 * [Aprenda Python 3 em 6 horas](https://www.udemy.com/course/aprenda-python-3-em-6h/) - Alcimar A. Costa (Udemy)
+* [Curso Selenium com Python](https://www.youtube.com/watch?v=PHHXksljGNA&list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)
+* [Curso de Python 3 – Mundo 1](https://www.cursoemvideo.com/course/python-3-mundo-1/) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso de Python 3 – Mundo 2](https://www.cursoemvideo.com/course/python-3-mundo-2/) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso de Python 3 – Mundo 3](https://www.cursoemvideo.com/course/python-3-mundo-3/) - Gustavo Guanabara (Curso em Vídeo)
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
 * [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)
 * [Introdução à linguagem Python](https://www.udemy.com/intro_python/) - Diego Mariano (Udemy)
+* [Padrões de projeto](https://www.youtube.com/watch?v=hVOP_XR9gEw&list=PLOQgLBuj2-3IPHFlBmqhtbM4vLJg9tob4) - Eduardo Mendes (YouTube)
+* [Paralelismo e concorrência](https://www.youtube.com/watch?v=FjJ1bClIa-o&list=PLOQgLBuj2-3KU6TnzJQJVfL5aiaOQuZ4o) - Eduardo Mendes (YouTube)
+* [Pense em Python (2ª ed.)](https://penseallen.github.io/PensePython2e/) - Allen B. Downey
+* [Programação orientada a objetos](https://www.youtube.com/watch?v=BALM_oJcJL4&list=PLOQgLBuj2-3L_L6ahsBVA_SzuGtKre3OK) - Eduardo Mendes (YouTube)
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
+* [Tutorial Python](https://www.youtube.com/watch?v=VvE1F6Bu-A0&list=PLc-O0bhHdRmgp-CxB_eMHHM9LjefTZBTB&index=2&t=0s) - Abel Separovich (YouTube)
 
 
 ### Ruby

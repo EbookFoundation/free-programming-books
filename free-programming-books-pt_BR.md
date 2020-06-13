@@ -45,6 +45,7 @@
 #### Sistemas Operacionais
 
 * [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (:construction: *em contínuo desenvolvimento*)
+* [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF) 
 
 
 ### Android

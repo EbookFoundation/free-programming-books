@@ -4,6 +4,7 @@
 * [CSS](#css)
 * [Haskell](#haskell)
 * [LaTeX](#latex)
+* [Linux](#linux)
 * [Prolog](#prolog)
 
 
@@ -27,6 +28,11 @@
 
 * [Uma não tão pequena introdução ao LaTeX](http://alfarrabio.di.uminho.pt/~albie/lshort/pt-lshort.pdf) - Tradução de Alberto Simões (PDF)
 * [Uma não tão pequena introdução ao LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/portuguese)
+
+
+### Linux
+
+* [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
 
 
 ### Prolog

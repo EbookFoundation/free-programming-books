@@ -243,6 +243,7 @@
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) (PDF, EPUB, MOBI)
 * [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish) (PDF, EPUB, MOBI)
 
+
 ### LaTeX
 
 * [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf) (PDF)
@@ -352,6 +353,7 @@
 
 * [Informática Creativa](https://github.com/programamos/GuiaScratch) (PDF)
 * [Manual de Scratch 2](https://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf) (PDF)
+
 
 ### SQL
 

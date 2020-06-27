@@ -8,7 +8,6 @@
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
-* [Deno](#Deno)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)

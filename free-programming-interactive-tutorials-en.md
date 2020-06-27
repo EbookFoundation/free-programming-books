@@ -83,12 +83,6 @@
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 
-### Deno
-
-* [Deno Manual](https://deno.land/manual)
-* [FlavioCopes Deno Handbook](https://flaviocopes.com/deno) - *free PDF with registration*
-
-
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)

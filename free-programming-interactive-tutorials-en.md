@@ -8,6 +8,7 @@
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
+* [Deno](#Deno)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -80,6 +81,12 @@
 
 * [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md)
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
+
+
+### Deno
+
+* [Deno Manual](https://deno.land/manual)
+* [FlavioCopes Deno Handbook](https://flaviocopes.com/deno) - *free PDF with registration*
 
 
 ### Erlang

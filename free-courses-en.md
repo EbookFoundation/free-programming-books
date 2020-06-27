@@ -14,6 +14,7 @@
 * [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
+* [Deno](#deno)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)

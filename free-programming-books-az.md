@@ -10,29 +10,29 @@
 
 ### C
 
-* [C Proqramlaşdırma Dilinə Giriş](http://ilkaddimlar.com/C-Proqramlasdirma-dili/428/Giris)
+* [C Proqramlaşdırma Dili](http://ilkaddimlar.com/ders/c-proqramlasdirma-dili)
 
 
 ### CSS
 
-* [CSS](http://ilkaddimlar.com/kateqoriya12/CSS)
+* [CSS](http://ilkaddimlar.com/ders/css)
 
 
 ### HTML
 
-* [HTML](http://ilkaddimlar.com/HTML/36/Esas-aletler-El-ile-islemeyi-oyrenirik)
+* [HTML](http://ilkaddimlar.com/ders/html)
 
 
 ### JavaScript
 
-* [JavaScript Garden](http://ilkaddimlar.com/JavaScript/182/Obyekt-anlayisi)
+* [JavaScript](http://ilkaddimlar.com/ders/javascript)
 
 
 ### Linux
 
-* [Linux](http://ilkaddimlar.com/Linux/Linux/18/Linux)
+* [Linux](http://ilkaddimlar.com/ders/linux)
 
 
 ### PHP
 
-* [PHP](http://ilkaddimlar.com/PHP/PHP/17/PHP)
+* [PHP](http://ilkaddimlar.com/ders/php)

@@ -1,6 +1,6 @@
 ### Index
 
-* [Programozási nyelv független](#programozasi-nyelv-fuggetlen)
+* [0 - Programozási nyelv független](#0---programozasi-nyelv-fuggetlen)
 * [Ada](#ada)
 * [Arduino](#arduino)
 * [C++](#c)
@@ -12,17 +12,17 @@
 * [PHP](#php)
 * [PowerShell](#powershell)
 * [Python](#python)
+  * [Django](#django)
 * [Windows Phone](#windows-phone)
 
 
-### Programozási nyelv független
+### 0 - Programozási nyelv független
 
 * [A hitelesítés-szolgáltatókkal szembeni bizalom erősítése](http://mek.oszk.hu/03900/03943/index.phtml) - Várnai Róbert (PDF)
 * [Adatmodellezés](http://mek.oszk.hu/11100/11144/index.phtml) - Halassy Béla (Word, PDF)
 * [Az adatbázistervezés alapjai és titkai](http://mek.oszk.hu/11100/11123/index.phtml) - Halassy Béla (Word, PDF)
 * [Ember, információ, rendszer](http://mek.oszk.hu/11100/11122/index.phtml) - Halassy Béla (Word, PDF)
 * [Formális nyelvek](http://mek.oszk.hu/05000/05099/index.phtml) - Bach Iván (PDF)
-* [Kanban és Scrum mindkettőből a legjobbat](http://www.adaptiveconsulting.hu/dokumentumok) - Henrik Kniberg, Mattias Skarin, ford.: Csutorás Zoltán és Marhefka István (PDF)
 * [Mese a felhasználó központú tervezőről](http://mek.oszk.hu/11700/11748/index.phtml) - David Travis, ford.: Favorit Fordító Iroda (PDF)
 * [Prognyelvek portál](http://nyelvek.inf.elte.hu/index.php) - Felelős oktató: Nyékyné Gaizler Judit (HTML)
 
@@ -103,10 +103,14 @@
 
 * [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, ford.: Daróczy Péter (PDF)
 * [Bevezetés a wxPythonba](http://mek.oszk.hu/08400/08446/index.phtml) - Jeremy Berthet, Gilles Doge, ford.: Daróczy Péter (PDF)
-* [Python-programozás](http://blog.molnardenes.hu/python-programozas-1-alapfogalmak/) - Molnár Dénes (HTML)
 * [Tanuljunk meg programozni Python nyelven](http://mek.oszk.hu/08400/08435/index.phtml) - Gérard Swinnen, ford.: Daróczy Péter (PDF, ODT)
+
+
+#### Django
+
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/hu/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Windows Phone
 
-* [Windows Phone fejlesztés lépésről lépésre](http://mek.oszk.hu/10300/10393) - Árvai Zoltán, Fár Attila Gergő, Farkas Bálint, Fülöp Dávid, Komjáthy Szabolcs, Turóczi Attila, Velvárt András (PDF)
+* [Windows Phone fejlesztés lépésről lépésre](http://mek.oszk.hu/10300/10393/) - Árvai Zoltán, Fár Attila Gergő, Farkas Bálint, Fülöp Dávid, Komjáthy Szabolcs, Turóczi Attila, Velvárt András (PDF)

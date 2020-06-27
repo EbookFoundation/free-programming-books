@@ -5,9 +5,11 @@
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [C](#c)
-* [C#](#c-1)
-* [C++](#c-2)
+* [C#](#c-sharp)
+* [C++](#c-1)
+* [Component Pascal](#component-pascal)
 * [Git](#git)
+* [Go](#go)
 * [Groovy](#groovy)
 * [HTML & CSS](#html--css)
 * [iOS](#ios)
@@ -18,8 +20,10 @@
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [UML](#uml)
 * [Unix](#unix)
 * [Visual Basic](#visual-basic)
@@ -27,15 +31,16 @@
 
 ### Unabhängig von der Programmiersprache
 
-* [IT-Handbuch für Fachinformatiker](http://openbook.galileocomputing.de/it_handbuch/)
-* [Objektorientierte Programmierung](http://openbook.galileocomputing.de/oop/)
-* [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
+* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
+* [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
+* [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
+* [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
 
 
 ### Action Script
 
-* [ActionScript 1 und 2](http://openbook.galileodesign.de/actionscript/)
-* [Einstieg in ActionScript](http://openbook.galileodesign.de/actionscript_einstieg/)
+* [ActionScript 1 und 2](http://openbook.rheinwerk-verlag.de/actionscript/)
+* [Einstieg in ActionScript](http://openbook.rheinwerk-verlag.de/actionscript_einstieg/)
 
 
 ### Android
@@ -50,36 +55,43 @@
 
 ### C
 
-* [C von A bis Z](http://openbook.galileocomputing.de/c_von_a_bis_z/)
-* [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) (PDF)
+* [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z/)
+* [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
 ### C++
 
-* [Die Boost C++ Bibliotheken](http://www.highscore.de/cpp/boost/)
+* [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
+
+
+### Component Pascal
+
+* [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
 
 
 ### C Sharp
 
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
-* [Visual C# 2008](http://openbook.galileocomputing.de/visual_csharp/)
-* [Visual C# 2010](http://openbook.galileocomputing.de/visual_csharp_2010/)
-* [Visual C# 2012](http://openbook.galileocomputing.de/visual_csharp_2012/)
+* [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp/)
+* [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010/)
+* [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
 
 
-### iOS
+### Go
 
-* [Apps programmieren für iPhone und iPad](http://openbook.galileocomputing.de/apps_programmieren_fuer_iphone_und_ipad/)
-* [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
-* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) (PDF)
+* [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html)
+* [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
+* [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/)
 
 
 ### Git
 
+* [Das Git-Buch](http://gitbu.ch) [PDF, EPUB]
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
-* [Pro Git](http://git-scm.com/book/de)
+* [Pro Git (2009)](http://git-scm.com/book/de/v1)
+* [Pro Git (neue Version)](http://git-scm.com/book/de/current) (:construction: *in process*)
 
 
 ### Groovy
@@ -89,25 +101,33 @@
 
 ### HTML & CSS
 
-* [CSS](http://peterkropff.de/site/css/css.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
-* [HTML](http://peterkropff.de/site/html/html.htm) — Peter Kropff [Online, PDF]
+* [CSS](http://www.peterkropff.de/site/css/css.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
+* [HTML](http://www.peterkropff.de/site/html/html.htm) — Peter Kropff [Online, PDF]
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
-* [Self HTML](http://de.selfhtml.org)
+* [Self HTML](https://wiki.selfhtml.org/wiki/Startseite)
+
+
+### iOS
+
+* [Apps programmieren für iPhone und iPad](http://openbook.rheinwerk-verlag.de/apps_programmieren_fuer_iphone_und_ipad/)
+* [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
+* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) (PDF)
 
 
 ### Java
 
 * [EJB 3 für Umsteiger: Neuerungen und Änderungen gegenüber dem EJB-2.x-Standard](http://bsd.de/e3fu/umfrage.html) - Heiko W. Rupp
-* [Java 7 Mehr als eine Insel](http://openbook.galileocomputing.de/java7/)
-* [Java ist auch eine Insel](http://openbook.galileocomputing.de/javainsel/)
+* [Java 7 Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7/)
+* [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung/)
+* [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
 
 
 ### Javascript
 
-* [JavaScript](http://peterkropff.de/site/javascript/javascript.htm) — Peter Kropff (Grundlagen, AJAX, DOM, OOP) [Online, PDF]
-* [JavaScript und AJAX](http://openbook.galileocomputing.de/javascript_ajax/)
+* [JavaScript](http://www.peterkropff.de/site/javascript/javascript.htm) — Peter Kropff (Grundlagen, AJAX, DOM, OOP) [Online, PDF]
+* [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax/)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
 
 
@@ -115,23 +135,23 @@
 
 * [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) (PDF)
 * [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) (PDF)
-* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz/)
+* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz)
 
 
 ### Meta-Lists
 
-* [Galileo Computing - openbook](http://www.galileocomputing.de/katalog/openbook)
+* [Galileo Computing - openbook](https://www.rheinwerk-verlag.de/openbook/)
 
 
 ### MySQL
 
-* [MySQL](http://peterkropff.de/site/mysql/mysql.htm) — Peter Kropff [Online, PDF]
+* [MySQL](http://www.peterkropff.de/site/mysql/mysql.htm) — Peter Kropff [Online, PDF]
 
 
 ### PHP
 
-* [PHP](http://peterkropff.de/site/php/php.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
-* [PHP PEAR](http://openbook.galileocomputing.de/php_pear/)
+* [PHP](http://www.peterkropff.de/site/php/php.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
+* [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear/)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) (PDF)
 
 
@@ -140,34 +160,44 @@
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
 
 
+#### Django
+
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/es/) (1.11) (HTML) (:construction: *in process*)
+
+
 ### Ruby on Rails
 
 * [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) (PDF)
 * [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) (PDF)
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) (PDF)
-* [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
+* [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/)
 * [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/)
 
 
 ### Scilab
 
-* [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf) (PDF)
+* [Einführung in Scilab/Xcos 5.4](https://web.archive.org/web/20161204131517/http://buech-gifhorn.de/scilab/Einfuehrung.pdf) - Helmut Büch (PDF)
+
+
+### Scratch
+
+* [Kreative Informatik mit Scratch](http://eis.ph-noe.ac.at/kreativeinformatik/)
 
 
 ### UML
 
-* [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml)
+* [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml/)
 
 
 ### Unix
 
-* [Linux-UNIX-Programmierung](http://openbook.galileocomputing.de/linux_unix_programmierung/)
-* [Shell-Programmierung](http://openbook.galileocomputing.de/shell_programmierung/)
-* [Wie werde ich Unix Guru?](http://openbook.galileocomputing.de/unix_guru/)
+* [Linux-UNIX-Programmierung](http://openbook.rheinwerk-verlag.de/linux_unix_programmierung/)
+* [Shell-Programmierung](http://openbook.rheinwerk-verlag.de/shell_programmierung/)
+* [Wie werde ich Unix Guru?](http://openbook.rheinwerk-verlag.de/unix_guru/)
 
 
 ### Visual Basic
 
-* [Einstieg in Visual Basic 2010](http://openbook.galileocomputing.de/einstieg_vb_2010/)
-* [Einstieg in Visual Basic 2012](http://openbook.galileocomputing.de/einstieg_vb_2012/)
-* [Visual Basic 2008](http://openbook.galileocomputing.de/visualbasic_2008/)
+* [Einstieg in Visual Basic 2010](http://openbook.rheinwerk-verlag.de/einstieg_vb_2010/)
+* [Einstieg in Visual Basic 2012](http://openbook.rheinwerk-verlag.de/einstieg_vb_2012/)
+* [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008/)

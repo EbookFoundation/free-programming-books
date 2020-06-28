@@ -224,6 +224,7 @@
 * [Tizen](#tizen)
 * [TLA](#tla)
 * [TypeScript](#typescript)
+  * [Deno](#deno)
 * [Unix](#unix)
 * [Verilog](#verilog)
 * [VHDL](#vhdl)
@@ -2661,6 +2662,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
+
+
+### Deno
+
+* [Deno Manual](https://deno.land/manual)
+* [FlavioCopes Deno Handbook](https://flaviocopes.com/deno) - *free PDF with registration*
 
 
 ### Unix

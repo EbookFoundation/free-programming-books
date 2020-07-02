@@ -17,6 +17,7 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+* [R](#R)
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
@@ -144,6 +145,13 @@
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
 
+
+### R
+* [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/)
+* [Fundamentos Estatisticos de Ciência dos Dados](https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf)
+* [Visualização de dados com o software R](https://pt.scribd.com/document/360895136/Visualizando-Dados-Luciane-Ariel)
+* [Análise Exploratória de Dados usando o R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf)
+* [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf)
 
 ### RegEx
 

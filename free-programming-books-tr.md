@@ -68,8 +68,8 @@
 
 ### Go
 
+* [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - [Umut Işık](https://github.com/umutphp) tarafından çevirildi. PDF ve ePub halleri [Release](https://github.com/umutphp/the-little-go-book/releases) sayfasından indirilebilir.
 * [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
-* [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - [Umut Işık](https://github.com/umutphp)
 
 
 ### Html

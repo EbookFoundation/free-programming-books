@@ -69,6 +69,7 @@
 ### Go
 
 * [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
+* [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - [Umut Işık](https://github.com/umutphp)
 
 
 ### Html

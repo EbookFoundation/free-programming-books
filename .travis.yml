@@ -1,4 +1,6 @@
-language: minimal
+language: shell
+dist: xenial
+os: linux
 
 jobs:
   include:

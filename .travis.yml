@@ -20,4 +20,4 @@ jobs:
       before_script:
         - gem install awesome_bot
       script:
-        - awesome_bot free-programming-books.md --allow-redirect --allow-dupe --white-list web.archive.org,makinggameswithtypescript.com
+        - awesome_bot free-programming-books.md --allow-redirect --allow-dupe --skip-save-results

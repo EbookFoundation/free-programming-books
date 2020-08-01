@@ -391,7 +391,6 @@
 * [Compiling Techniques (1969)](http://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm) - F.R.A. Hopgood, Macdonald
 * [Crafting Interpreters (:construction:)](http://www.craftinginterpreters.com) - Bob Nystrom (HTML)
 * [Implementing Functional Languages: A Tutorial](http://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
-* [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
 * [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
 
@@ -439,7 +438,6 @@
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
 * [Introduction to Data Science](https://leanpub.com/datasciencebook) - Rafael A Irizarry *(Leanpub account or valid email requested)*
 * [Mining of Massive Datasets](http://www.mmds.org)
-* [School of Data Handbook](http://schoolofdata.org/handbook/)
 * [Statistical inference for data science](https://leanpub.com/LittleInferenceBook/read) - Brian Caffo
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
 
@@ -484,7 +482,6 @@
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) - Richard S. Sutton, Andrew G. Barto (PDF)
 * [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
-* [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 
 
@@ -517,7 +514,6 @@
 * [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello and Paolo Toth
 * [Lecture Notes of Linear Algebra](http://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Dr. P. Shunmugaraj, IIT Kanpur (PDF)
 * [Linear Algebra](http://home.iitk.ac.in/~arlal/book/la.pdf) - Dr. Arbind K Lal, Sukant Pati (PDF) (:construction: *in process*)
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) (PDF)
 * [Linear Algebra by Jim Hefferon](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematics, MTH101A](http://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
@@ -759,7 +755,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) (email address *requested*, not required)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org) - Markus Voelter
-* [Exploring CQRS and Event Sourcing](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - (EPUB, PDF)
 * [Guide to the Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3) (email adddress *requested*)
 * [How to Design Programs](http://www.htdp.org)
 * [How to Write Unmaintainable Code](http://mindprod.com/jgloss/unmain.html)
@@ -975,7 +970,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - B. Hall
 * [Beej's Guide to Network Programming - Using Internet Sockets](http://beej.us/guide/bgnet/) - B. Hall
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
-* [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
 * [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)
 * [C Notes](https://goalkicker.com/CBook) (PDF)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
@@ -1072,7 +1066,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com)
 * [Clojure in Small Pieces](http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey (PDF)
-* [Clojure Koans](http://clojurekoans.com)
 * [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming) - Wikibooks
 * [ClojureScript Koans](http://clojurescriptkoans.com)
 * [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/) (HTML)
@@ -1623,7 +1616,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Backbone.js
 
-* [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
 * [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis   *(Leanpub account or valid email requested)*
 * [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
@@ -1690,7 +1682,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Meteor
 
-* [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
 
@@ -1852,8 +1843,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig (PDF, epub, markdown)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
-* [SOLID Design Principles in Common Lisp](https://common-lisp-reserve.github.io/solid-design-principles-in-common-lisp/solid-design-principles-in-common-lisp.pdf) - Momozor (PDF)
-* [Successful Lisp: How to Understand and Use Common Lisp](https://github.com/clojurians-org/lisp-ebook/blob/master/Successful%20Lisp%20How%20to%20Understand%20and%20Use%20Common%20Lisp%20-%20David%20B.%20Lamkins.pdf) - David Lamkins (PDF)
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
 
@@ -2151,7 +2140,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Secrets of PowerShell Remoting](https://www.gitbook.com/book/devopscollective/secrets-of-powershell-remoting/details) (PDF, ePub, MOBI)
 * [The Big Book of PowerShell Error Handling](https://www.gitbook.com/book/devopscollective/the-big-book-of-powershell-error-handling/details) (PDF, ePub, MOBI)
 * [The Big Book of PowerShell Gotchas](https://www.gitbook.com/book/devopscollective/the-big-book-of-powershell-gotchas/details) (PDF, ePub, MOBI)
-* [The DSC Book](https://www.penflip.com/powershellorg/the-dsc-book) (PDF, ePub, HTML)
 * [The Monad Manifesto - Annotated](https://www.gitbook.com/book/devopscollective/the-monad-manifesto-annotated/details) (PDF, ePub, MOBI)
 * [Why PowerShell?](https://www.gitbook.com/book/devopscollective/why-powershell-/details) (PDF, ePub, MOBI)
 * [Windows PowerShell Networking Guide](https://www.gitbook.com/book/devopscollective/windows-powershell-networking-guide/details) (PDF, ePub, MOBI)
@@ -2231,7 +2219,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
   * [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
 * [Introduction to Python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
-* [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
@@ -2620,7 +2607,6 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Swift
 
 * [Hacking with Swift](https://www.hackingwithswift.com)
-* [Learn Swift](http://books.aidanf.net/learn-swift)
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 
@@ -2634,7 +2620,6 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Tcl
 
 * [Tcl Programming](https://en.wikibooks.org/wiki/Programming%3ATcl) - Richard.Suchenwirth, et. al.
-* [TclWise](http://www.invece.org/tclwise/index.html) - Salvatore Sanfilippo
 
 
 ### TEI
@@ -2659,7 +2644,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### TypeScript
 
-* [Making games with TypeScript](https://makinggameswithtypescript.com) - Øyvind (HTML) (:construction: *in process*)
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)

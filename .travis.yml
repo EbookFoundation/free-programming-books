@@ -20,4 +20,4 @@ jobs:
       before_script:
         - gem install awesome_bot
       script:
-        - awesome_bot free-programming-books.md --allow-redirect --allow-dupe --skip-save-results
+        - awesome_bot free-programming-books.md --allow-redirect --allow-dupe --skip-save-results --allow-timeout --set-timeout 10

@@ -1,14 +1,17 @@
-language: node_js
-sudo: false
-node_js:
-  - 6
-before_script:
-  - npm install -g free-programming-books-lint
-script:
-  - fpb-lint .
+language: minimal
 
 jobs:
   include:
+    -
+      language: node_js
+      sudo: false
+      node_js:
+        - 6
+      before_script:
+        - npm install -g free-programming-books-lint
+      script:
+        - fpb-lint .
+
     -
       if: commit_message =~ /check urls/
       rvm:

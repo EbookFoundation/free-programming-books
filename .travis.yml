@@ -9,4 +9,4 @@ before_script:
   - gem install awesome_bot
 script:
   - fpb-lint .
-  - awesome_bot free-programming-books.md --allow-redirect
+  - awesome_bot free-programming-books.md --allow-redirect --allow-dupe

@@ -14,7 +14,7 @@ jobs:
 
     -
       language: ruby
-      if: commit_message =~ /check urls/
+      if: commit_message =~ /check url/
       rvm: 2.4.1
       before_script:
         - gem install awesome_bot

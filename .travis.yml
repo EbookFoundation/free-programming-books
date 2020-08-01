@@ -13,9 +13,9 @@ jobs:
         - fpb-lint .
 
     -
+      language: ruby
       if: commit_message =~ /check urls/
-      rvm:
-        - 2.2
+      rvm: 2.4.1
       before_script:
         - gem install awesome_bot
       script:

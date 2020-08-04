@@ -52,7 +52,7 @@
 
 ### شبکه
 
-* [علم شبکه](http://networksciencebook.com) - آلبرت لازلو باراباسی
+* آلبرت لازلو باراباسی -  [علم شبکه](http://networksciencebook.com)
 
 
 ### گنو/لینوکس

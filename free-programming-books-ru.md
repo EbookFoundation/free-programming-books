@@ -88,6 +88,7 @@
 #### Работа с сетью
 
 * [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)
+* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 
 

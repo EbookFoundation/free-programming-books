@@ -50,6 +50,11 @@
 * [رایانش ابری](http://docs.occc.ir/books/Main%20Book-20110110_2.pdf) (PDF)
 
 
+### شبکه
+
+* آلبرت لازلو باراباسی -  [علم شبکه](http://networksciencebook.com)
+
+
 ### گنو/لینوکس
 
 #### اوبونتو

@@ -494,9 +494,9 @@
 
 * [A First Course in Linear Algebra](http://linear.ups.edu) - Robert A. Beezer
 * [Abstract Algebra: Theory and Applications](http://abstract.ups.edu) - Thomas W. Judson
+* [Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [Algebra: An Elementary Text-Book, Part I (1904)](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. Chrystal (PDF)
 * [Algebra: An Elementary Text-Book, Part II (1900)](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. Chrystal (PDF)
-* [Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser (PDF)
 * [Analytic Geometry (1922)](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - Lewis Parker Siceloff, George Wentworth, David Eugene Smith (PDF)
 * [Basic Algebra](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)

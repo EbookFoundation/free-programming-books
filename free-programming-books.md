@@ -2064,7 +2064,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Perl
 
 * [Beginning Perl](https://www.perl.org/books/beginning-perl/)
-* [Data Munging with Perl](http://perlhacks.com/dmp.pdf) (PDF)
+* [Data Munging with Perl](https://datamungingwithperl.com) (PDF)
 * [Embedding Perl in HTML with Mason](http://masonbook.houseabsolute.com/book/) - D. Rolsky, K. Williams
 * [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.pdf) (PDF)
 * [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)

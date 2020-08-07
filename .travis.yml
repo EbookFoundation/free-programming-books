@@ -15,9 +15,11 @@ jobs:
 
     -
       language: ruby
-      if: commit_message =~ /check url/
+      if: commit_message =~ /check_urls:/
       rvm: 2.4.1
       before_script:
         - gem install awesome_bot
       script:
-        - awesome_bot free-programming-books.md --allow-redirect --allow-dupe --skip-save-results
+        - echo $TRAVIS_COMMIT_MESSAGE
+        - echo $(echo $TRAVIS_COMMIT_MESSAGE | cut -d: -f2)
+        - awesome_bot $(echo $TRAVIS_COMMIT_MESSAGE | cut -d: -f2) --allow-redirect --allow-dupe --skip-save-results

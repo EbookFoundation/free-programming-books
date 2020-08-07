@@ -20,6 +20,4 @@ jobs:
       before_script:
         - gem install awesome_bot
       script:
-        - echo $TRAVIS_COMMIT_MESSAGE
-        - echo $(echo $TRAVIS_COMMIT_MESSAGE | cut -d: -f2)
-        - awesome_bot $(echo $TRAVIS_COMMIT_MESSAGE | cut -d: -f2) --allow-redirect --allow-dupe --skip-save-results
+        - awesome_bot $(echo $TRAVIS_COMMIT_MESSAGE | awk -F: '{print $2}') --allow-redirect --allow-dupe --skip-save-results

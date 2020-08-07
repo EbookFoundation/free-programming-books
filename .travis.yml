@@ -21,5 +21,4 @@ jobs:
         - gem install awesome_bot
       script:
         - INPUT=$(echo $TRAVIS_COMMIT_MESSAGE | awk -F= '{print $2}')
-        - echo $INPUT
-        - awesome_bot --allow-redirect --allow-dupe --skip-save-results | xargs $INPUT
+        - for i in $INPUT; do echo "processing $i"; awesome_bot $i --allow-redirect --allow-dupe --skip-save-results; done

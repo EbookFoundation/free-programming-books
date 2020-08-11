@@ -1015,6 +1015,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Modern C](https://web.archive.org/web/20190818210107/http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) - Jens Gustedt (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
+* [The C Beginner's Handbook](http://flaviocopes.com/page/c-handbook) - Flavio Copes (PDF, ePub, Mobi) (email address *requested*)
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
 * [The Current C Programming Language Standard – ISO/IEC 9899:202x (C2x)](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf) - Open Standards Org - www.open-std.org (PDF)
@@ -1446,6 +1447,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [MaintainableCSS](http://maintainablecss.com)
 * [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html) - Jen Simmons, Chris O'Connor, Dylan Wooters, Peter Lubbers
 * [Scalable and Modular Architecture for CSS](https://web.archive.org/web/20191116073929/http://smacss.com/) - Jonathan Snook
+* [The CSS Handook](https://flaviocopes.com/page/css-handbook) - Flavio Copes (PDF, ePub, Mobi) (email address *requested*)
+* [The HTML Handook](http://flaviocopes.com/page/html-handbook) - Flavio Copes (PDF, ePub, Mobi) (email address *requested*)
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 * [W3.CSS Succinctly](https://www.syncfusion.com/ebooks/w3_css_succinctly) - Joseph D. Booth
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
@@ -1623,6 +1626,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
 * [Programming JavaScript Applications](https://www.oreilly.com/library/view/programming-javascript-applications/9781491950289/)
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
+* [The JavaScript Beginner's Handbook](http://flaviocopes.com/page/javascript-handbook) - Flavio Copes (PDF, ePub, Mobi) (email address *requested*)
+* [The JavaScript from ES5 to ESNext Book](https://flaviocopes.com/page/es5-to-esnext) - Flavio Copes (PDF, ePub, Mobi) (email address *requested*)
 * [The JavaScript Tutorial](http://javascript.info)
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
 * [The Problem with Native JavaScript APIs](https://www.oreilly.com/programming/free/native-javascript-apis.csp) (email address *requested*)
@@ -1703,6 +1708,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Express.js
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
+* [The Express Handook](http://flaviocopes.com/page/express-handbook) - Flavio Copes (PDF, ePub, Mobi) (email address *requested*)
 
 
 #### Ionic
@@ -1731,6 +1737,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [The Node Beginner Book](http://nodebeginner.org)
+* [The Node Handook](https://flaviocopes.com/page/node-handbook) - Flavio Copes (PDF, ePub, Mobi) (email address *requested*)
 
 
 #### Om
@@ -1758,6 +1765,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
+* [The React Handook](https://flaviocopes.com/page/react-handbook) - Flavio Copes (PDF, ePub, Mobi) (email address *requested*)
 
 
 #### React Native
@@ -1778,6 +1786,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Vue.js
 
 * [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) (PDF)
+* [The Vue.js Handook](http://flaviocopes.com/page/vuejs-handbook) - Flavio Copes (PDF, ePub, Mobi) (email address *requested*)
 
 
 ### Jenkins

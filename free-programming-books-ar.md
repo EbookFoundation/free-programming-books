@@ -95,4 +95,4 @@
 
 ### UI/UX
 
-* [مدخل إلى تجربة المستخدم](https://sourceforge.net/projects/omlx/files/open%20books/1.0/Intro-to-UX-Arabic-v1.0.pdf/download) (PDF)
+* [مدخل إلى تجربة المستخدم](https://academy.hsoub.com/files/11-مدخل-إلى-تجربة-المستخدم-user-experience-ux/)

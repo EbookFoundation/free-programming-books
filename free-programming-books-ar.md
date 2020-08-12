@@ -7,6 +7,7 @@
 * [Operating System](#operating-systems)
 * [PHP](#php)
 * [Programming in Scratch](#programming-in-scratch)
+* [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Security](#security)
@@ -56,6 +57,11 @@
 ### Programming in Scratch
 
 * [كتاب احترف سكراتش](http://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
+
+
+### Python
+
+* [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)
 
 
 ### Raspberry Pi

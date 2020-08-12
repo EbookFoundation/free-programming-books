@@ -1,18 +1,17 @@
 ### Index
 
 * [Arduino](#arduino)
-* [GIT](#git)
-* [Introduction to programming in Arabic](#introduction)
+* [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [Linux](#linux)
-* [Open source software](#oss)
-* [Operating system](#os)
+* [Open Source Software](#open-source-software)
+* [Operating System](#operating-systems)
 * [PHP](#php)
-* [Programming in Scratch](#scratch)
+* [Programming in Scratch](#programming-in-scratch)
 * [Raspberry Pi](#raspberry-pi)
-* [RUBY](#ruby)
-* [SECURITY](#security)
+* [Ruby](#ruby)
+* [Security](#security)
 * [SEO](#seo)
-* [UI/UX](#ui-ux)
+* [UI/UX](#uiux)
 
 
 ### Arduino
@@ -21,7 +20,7 @@
 * [كتاب احترف الأردوينو](http://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) (PDF)
 
 
-### Introduction to programming in Arabic
+### Introduction to Programming in Arabic
 
 * [مختصر دليل لغات البرمجة ](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (PDF)
 
@@ -34,7 +33,7 @@
 * [دليل إدارة خواديم أوبنتو ](http://librebooks.org/ubuntu-server-guide-arabic/)
 
 
-### open source software
+### Open Source Software
 
 * [الأبعاد الاستراتيجية للبرمجيات الحرة مفتوحة المصدر](http://librebooks.org/strategic-dimensions-of-free-and-open-source-software/)
 * [الحريات الرقمية - المفاهيم الرئيسية](http://librebooks.org/digital-freedoms-main-concepts/)
@@ -49,7 +48,7 @@
 * [المقدمة في تحليل وتصميم أنظمة](http://librebooks.org/intro-to-os-analysis-and-design/)
 
 
-### php
+### PHP
 
 * [تعلم البرمجة بلغة PHP](http://librebooks.org/learn-programming-with-php/)
 
@@ -59,12 +58,12 @@
 * [كتاب احترف سكراتش](http://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
 
 
-### raspberry-pi
+### Raspberry Pi
 
 * [راسبيري باي السهل](http://librebooks.org/simply-raspberry-pi/)
 
 
-### ruby
+### Ruby
 
 * [مقدمة في روبي](http://librebooks.org/intro-to-ruby/)
 
@@ -73,14 +72,14 @@
 
 * [تأمين الشبكات اللاسلكية للمستخدم المنزلي](http://librebooks.org/secure-wireless-networks-for-home-users/)
 * [تقنيات الاختراق المادي](http://librebooks.org/physical-hacking-techniques/)
-* [عُدَّة الأمان الرقمي](http://librebooks.org/security-in-a-box/)
+* [عُدَّة الأمان الرقمي](http://librebooks.org/security-in-a-box/)
 
 
-### seo
+### SEO
 
 * [تحسين محركات البحث SEO - دليل المبتدئين](http://librebooks.org/search-engine-optimization-seo-starter-guide-ar/)
 
 
 ### UI/UX
 
-* [مدخل إلى تجربة المستخدم](https://sourceforge.net/projects/omlx/files/open%20books/1.0/Intro-to-UX-Arabic-v1.0.pdf/download) (PDF)
+* [مدخل إلى تجربة المستخدم](https://sourceforge.net/projects/omlx/files/open%20books/1.0/Intro-to-UX-Arabic-v1.0.pdf/download) (PDF)

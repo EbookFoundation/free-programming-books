@@ -25,6 +25,7 @@
 ### HTML/CSS
 
 * [التحريك عبر CSS](https://academy.hsoub.com/files/14-التحريك-عبر-css/)
+* [نحو فهم أعمق لتقنيات HTML5](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/)
 
 
 ### Introduction to Programming in Arabic

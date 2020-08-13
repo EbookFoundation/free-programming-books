@@ -1,18 +1,19 @@
 ### Index
 
 * [Arduino](#arduino)
-* [GIT](#git)
-* [Introduction to programming in Arabic](#introduction)
+* [HTML/CSS](#htmlcss)
+* [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [Linux](#linux)
-* [Open source software](#oss)
-* [Operating system](#os)
+* [Open Source Software](#open-source-software)
+* [Operating System](#operating-systems)
 * [PHP](#php)
-* [Programming in Scratch](#scratch)
+* [Programming in Scratch](#programming-in-scratch)
+* [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
-* [RUBY](#ruby)
-* [SECURITY](#security)
+* [Ruby](#ruby)
+* [Security](#security)
 * [SEO](#seo)
-* [UI/UX](#ui-ux)
+* [UI/UX](#uiux)
 
 
 ### Arduino
@@ -21,7 +22,13 @@
 * [كتاب احترف الأردوينو](http://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) (PDF)
 
 
-### Introduction to programming in Arabic
+### HTML/CSS
+
+* [التحريك عبر CSS](https://academy.hsoub.com/files/14-التحريك-عبر-css/)
+* [نحو فهم أعمق لتقنيات HTML5](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/)
+
+
+### Introduction to Programming in Arabic
 
 * [مختصر دليل لغات البرمجة ](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (PDF)
 
@@ -31,10 +38,10 @@
 * [أوبنتو السهل](http://librebooks.org/simply-ubuntu/)
 * [الإدارة المتقدمة لجنو/لينكس ](http://librebooks.org/gnu-linux-advanced-administration/)
 * [دفتر مدير دبيان](http://librebooks.org/debian-handbook-arabic/)
-* [دليل إدارة خواديم أوبنتو ](http://librebooks.org/ubuntu-server-guide-arabic/)
+* [دليل إدارة خواديم أوبنتو](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/)
 
 
-### open source software
+### Open Source Software
 
 * [الأبعاد الاستراتيجية للبرمجيات الحرة مفتوحة المصدر](http://librebooks.org/strategic-dimensions-of-free-and-open-source-software/)
 * [الحريات الرقمية - المفاهيم الرئيسية](http://librebooks.org/digital-freedoms-main-concepts/)
@@ -49,7 +56,7 @@
 * [المقدمة في تحليل وتصميم أنظمة](http://librebooks.org/intro-to-os-analysis-and-design/)
 
 
-### php
+### PHP
 
 * [تعلم البرمجة بلغة PHP](http://librebooks.org/learn-programming-with-php/)
 
@@ -59,12 +66,17 @@
 * [كتاب احترف سكراتش](http://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
 
 
-### raspberry-pi
+### Python
+
+* [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)
+
+
+### Raspberry Pi
 
 * [راسبيري باي السهل](http://librebooks.org/simply-raspberry-pi/)
 
 
-### ruby
+### Ruby
 
 * [مقدمة في روبي](http://librebooks.org/intro-to-ruby/)
 
@@ -73,14 +85,14 @@
 
 * [تأمين الشبكات اللاسلكية للمستخدم المنزلي](http://librebooks.org/secure-wireless-networks-for-home-users/)
 * [تقنيات الاختراق المادي](http://librebooks.org/physical-hacking-techniques/)
-* [عُدَّة الأمان الرقمي](http://librebooks.org/security-in-a-box/)
+* [عُدَّة الأمان الرقمي](http://librebooks.org/security-in-a-box/)
 
 
-### seo
+### SEO
 
 * [تحسين محركات البحث SEO - دليل المبتدئين](http://librebooks.org/search-engine-optimization-seo-starter-guide-ar/)
 
 
 ### UI/UX
 
-* [مدخل إلى تجربة المستخدم](https://sourceforge.net/projects/omlx/files/open%20books/1.0/Intro-to-UX-Arabic-v1.0.pdf/download) (PDF)
+* [مدخل إلى تجربة المستخدم](https://academy.hsoub.com/files/11-مدخل-إلى-تجربة-المستخدم-user-experience-ux/)

@@ -1,4 +1,4 @@
-### Index
+﻿### Index
 
 * [ABAP](#abap)
 * [Ada](#ada)
@@ -1637,6 +1637,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
 * [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
+* [AngularJS Notes for Professionals](https://books.goalkicker.com/AngularJSBook) (PDF)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) (email address *requested*, not required)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)

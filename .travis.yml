@@ -12,13 +12,3 @@ jobs:
         - npm install -g free-programming-books-lint
       script:
         - fpb-lint .
-
-    -
-      language: ruby
-      if: commit_message =~ /check_urls=/
-      rvm: 2.4.1
-      before_script:
-        - gem install awesome_bot
-      script:
-        - INPUT=$(echo $TRAVIS_COMMIT_MESSAGE | awk -F= '{print $2}')
-        - for i in $INPUT; do echo "processing $i"; awesome_bot $i --allow-redirect --allow-dupe --skip-save-results; done

@@ -306,7 +306,7 @@
 
 #### Algorithms & Data Structures
 
-* [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html) - Riccardo Poli et al.
+* [A Field Guide To Genetic Programming](https://b-ok.cc/book/861921/18f698) - Riccardo Poli et al. (PDF)
 * [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne

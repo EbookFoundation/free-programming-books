@@ -1,0 +1,16 @@
+name: check_urls
+on: [push]
+jobs:
+  job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: trilom/file-changes-action@v1.2.4
+        id: file_changes
+        with:
+          output: ''
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.4.1
+      - run: gem install awesome_bot
+      - run: for i in ${{ steps.file_changes.outputs.files_modified }}; do echo; echo "processing $i"; awesome_bot $i --allow-redirect --allow-dupe --skip-save-results; done

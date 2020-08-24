@@ -1,5 +1,5 @@
 name: check_urls
-on: [push]
+on: [push, pull_request]
 jobs:
   job:
     runs-on: ubuntu-latest

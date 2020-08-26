@@ -1,5 +1,5 @@
 name: check_urls
-on: [push]
+on: [push, pull_request]
 jobs:
   job:
     runs-on: ubuntu-latest
@@ -13,4 +13,4 @@ jobs:
         with:
           ruby-version: 2.4.1
       - run: gem install awesome_bot
-      - run: for i in ${{ steps.file_changes.outputs.files_modified }}; do echo; echo "processing $i"; awesome_bot $i --allow-redirect --allow-dupe --skip-save-results; done
+      - run: for i in ${{ steps.file_changes.outputs.files_modified }}; do echo; echo "processing $i"; awesome_bot $i --allow-redirect --allow-dupe --skip-save-results --allow-ssl; done

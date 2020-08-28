@@ -1318,6 +1318,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+* [Git Notes](http://books.goalkicker.com/GitBook) (PDF)
 * [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
 * [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/)
 * [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)
@@ -1726,6 +1727,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node Documentation](https://nodejs.org/en/docs/)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
+* [Node.js Notes](http://books.goalkicker.com/NodeJSBook) (PDF)
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [The Node Beginner Book](http://nodebeginner.org)
 

@@ -7,13 +7,13 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 ## Intro
 This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of the [most popular repositories on Github](https://octoverse.github.com/), with over 100,000 stars, over 4500 commits, over 950 contributors, and over 25,000 forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of the [most popular repositories on Github](https://octoverse.github.com/), with over 150,000 stars, over 5000 commits, over 1200 contributors, and over 37,000 forks.
 
 The repo is now administered by the [Free Ebook Foundation](https://ebookfoundation.org), a not-for-profit organization devoted to promoting the creation, distribution, archiving and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 ### How To Contribute
 
-Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome](/HOWTO.md)!
+Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome](/HOWTO.md)!
 
 ### How to Share
 + [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)

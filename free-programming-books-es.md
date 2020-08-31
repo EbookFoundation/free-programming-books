@@ -6,7 +6,7 @@
   * [Base de Datos](#base-de-datos)
   * [Ciencia Computacional](#ciencia-computacional)
   * [Cursos Masivos en Línea](#cursos-masivos-en-l&#x00ED;nea)
-  * [Metodologías de desarrollo de software](#metodolog&#x00ED;as-de-desarrollo-de-software)
+  * [Metodologías de Desarrollo de Software](#metodolog&#x00ED;as-de-desarrollo-de-software)
   * [Misceláneos](#miscel&#x00E1;neos)
   * [Paradigmas de Programación](#paradigmas-de-programaci&#x00F3;n)
   * [Sistemas Operativos](#sistemas-operativos)
@@ -58,7 +58,7 @@
 * [Gitbook - Libros útiles en español](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--) (Github)
 * [Múltiples Cursos y Enlaces de Tecnología Informática](http://elvex.ugr.es) - Fernando Berzal
 * [OpenLibra - Biblioteca recopilatorio de libros libres](https://openlibra.com/es/collection)
-* [Universidad Autónoma de Mexico - Plan (2016)](http://fcasua.contad.unam.mx/apuntes/interiores/plan2016_1.php)
+* [Universidad Autónoma de México - Plan (2016)](http://fcasua.contad.unam.mx/apuntes/interiores/plan2016_1.php)
 
 
 ### 1 - Agnósticos
@@ -163,7 +163,7 @@
 
 ### Git
 
-* [Git Immersion en Español](https://esparta.github.io/gitimmersion-spanish)
+* [Git Immersión en Español](https://esparta.github.io/gitimmersion-spanish)
 * [Git. La guía simple](http://rogerdudler.github.io/git-guide) (HTML)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es)
 * [Pro Git](http://git-scm.com/book/es/)
@@ -208,7 +208,7 @@
 
 ### JavaScript
 
-* [Guía de Javascript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
+* [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es) (HTML)
@@ -219,7 +219,7 @@
 
 #### AngularJS
 
-* [Cómo aprender AngularJS](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
+* [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
 
 
 #### D3.js
@@ -250,10 +250,10 @@
 
 ### Linux
 
-* [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
-* [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) (descarga directa)
+* [Bases de la Programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
+* [BASH Scripting Avanzado: Utilizando Declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) (descarga directa)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
-* [El manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now/)
+* [El Manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now/)
 
 
 ### .NET (C# / Visual Studio)
@@ -275,7 +275,7 @@
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) (PDF)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) (HTML)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP) (Bubok)
-* [Programación web avanzada: ajax y google maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) (PDF)
+* [Programación web avanzada: Ajax y Google Maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) (PDF)
 * [Silex, el manual oficial](http://librosweb.es/libro/silex) (HTML)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
 * [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
@@ -322,7 +322,7 @@
 * [Aprende a programar con Ruby](http://rubysur.org/aprende.a.programar) (Gitbook)
 * [La Guía de Estilos de Ruby](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio) (Github)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart) (HTML)
-* [Ruby tutorial o como pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion) (HTML)
+* [Ruby tutorial o cómo pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion) (HTML)
 
 
 #### Ruby on Rails

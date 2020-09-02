@@ -1,8 +1,14 @@
 ### Index
-
+* [PROGRAMMING FUNDAMENTALS](#programming-fundamentals)
 * [C](#c)
 * [Machine Learning](#machine-learning)
 * [Python](#python)
+* [JavaScript](#JavaScript)
+
+
+### PROGRAMMING FUNDAMENTALS
+
+* [SL3 Framework - Code For Brain](https://sl3.app/) - Stack Learners
 
 
 ### C
@@ -19,3 +25,8 @@
 ### Python
 
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
+
+
+### JavaScript
+
+* [হাতেকলমে জাভাস্ক্রিপ্ট](https://zonayed.js.org/) - Zonayed Ahmed

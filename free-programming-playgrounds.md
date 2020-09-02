@@ -5,7 +5,6 @@
 * [Crystal](#crystal)
 * [CSS](#css)
 * [Elm](#elm)
-* [FlexBox](#flexbox)
 * [Go](#go)
 * [Haskell](#haskell)
 * [Ionic](#ionic)
@@ -51,16 +50,12 @@
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
+* [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
 
 
 ### Elm
 
 * [Ellie](https://ellie-app.com)
-
-
-### FlexBox
-
-* [Echoplex](http://the-echoplex.net/flexyboxes/)
 
 
 ### Go
@@ -184,4 +179,3 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
-

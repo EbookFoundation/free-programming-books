@@ -8,7 +8,7 @@
 
 ### PROGRAMMING FUNDAMENTALS
 
-* [SL3 Framework - Code For Brain](https://sl3.app/) - Stack Learners
+* [SL3 Framework - Code For Brain](https://sl3.app) - Stack Learners
 
 
 ### C
@@ -29,4 +29,4 @@
 
 ### JavaScript
 
-* [হাতেকলমে জাভাস্ক্রিপ্ট](https://zonayed.js.org/) - Zonayed Ahmed
+* [হাতেকলমে জাভাস্ক্রিপ্ট](https://zonayed.js.org) - Zonayed Ahmed

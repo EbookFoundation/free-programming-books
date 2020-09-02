@@ -20,6 +20,7 @@
 * [R](#r)
 * [React](#react)
 * [Ruby](#ruby)
+* [RxJS](#rxjs)
 * [Rust](#rust)
 * [Scala](#scala)
 * [SQL](#sql)

@@ -20,8 +20,8 @@
 * [R](#r)
 * [React](#react)
 * [Ruby](#ruby)
-* [RxJS](#rxjs)
 * [Rust](#rust)
+* [RxJS](#rxjs)
 * [Scala](#scala)
 * [SQL](#sql)
 * [Svelte](#svelte)
@@ -143,14 +143,14 @@
 * [Codepad](http://codepad.org)
 
 
-### RxJS
-
-* [StackBlitz](https://stackblitz.com/fork/rxjs)
-
-
 ### Rust
 
 * [Rust Playground](http://play.integer32.com)
+
+
+### RxJS
+
+* [StackBlitz](https://stackblitz.com/fork/rxjs)
 
 
 ### Scala

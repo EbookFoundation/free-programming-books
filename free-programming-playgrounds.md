@@ -5,7 +5,6 @@
 * [Crystal](#crystal)
 * [CSS](#css)
 * [Elm](#elm)
-* [FlexBox](#flexbox)
 * [Go](#go)
 * [Haskell](#haskell)
 * [Ionic](#ionic)
@@ -22,6 +21,7 @@
 * [React](#react)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [RxJS](#rxjs)
 * [Scala](#scala)
 * [SQL](#sql)
 * [Svelte](#svelte)
@@ -51,16 +51,12 @@
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
+* [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
 
 
 ### Elm
 
 * [Ellie](https://ellie-app.com)
-
-
-### FlexBox
-
-* [Echoplex](http://the-echoplex.net/flexyboxes/)
 
 
 ### Go
@@ -128,7 +124,6 @@
 ### Python
 
 * [Codepad](http://codepad.org)
-* [Pyfiddle](https://pyfiddle.io)
 
 
 ### R
@@ -147,14 +142,14 @@
 * [Codepad](http://codepad.org)
 
 
-### RxJS
-
-* [StackBlitz](https://stackblitz.com/fork/rxjs)
-
-
 ### Rust
 
 * [Rust Playground](http://play.integer32.com)
+
+
+### RxJS
+
+* [StackBlitz](https://stackblitz.com/fork/rxjs)
 
 
 ### Scala
@@ -184,4 +179,3 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
-

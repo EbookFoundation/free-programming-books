@@ -278,7 +278,7 @@
 
 ### Linux
 
-* [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) -The Linux Foundation (edx)
+* [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
 
 
 ### Lua

@@ -278,7 +278,7 @@
 
 ### Linux
 
-* [Ubuntu Web Development Setup](https://www.udemy.com/course/ubuntu-web-development-setup/) - Ciprian Munteanu (Udemy)
+* [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
 
 
 ### Lua

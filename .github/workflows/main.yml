@@ -16,5 +16,4 @@ jobs:
       - run: for i in ${{ steps.file_changes.outputs.files_modified }}; do echo; echo "processing $i"; awesome_bot $i --allow-redirect --allow-dupe --allow-ssl || true; done
       - uses: actions/upload-artifact@v2
         with:
-          name: results
-          path: *.json
+          path: ${{ github.workspace }}/*.json

@@ -167,7 +167,6 @@
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
 * [Perl](#perl)
-* [Perl 6 / Raku](#perl-6--raku)
 * [PHP](#php)
   * [CakePHP](#cakephp)
   * [CodeIgniter](#codeigniter)
@@ -192,6 +191,7 @@
 * [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
+* [Raku](#raku)
 * [Raspberry Pi](#raspberry-pi)
 * [REBOL](#rebol)
 * [Ruby](#ruby)
@@ -2084,16 +2084,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Web Client Programming with Perl](http://www.oreilly.com/openbook/webclient/)
 
 
-### Perl 6 / Raku
-
-* [Perl 6 at a Glance](https://perl6.online/perl6-at-a-glance/) - Andrew Shitov (HTML) (PDF)
-* [Perl 6 Introduction](http://perl6intro.com)
-* [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming) - Wikibooks
-* [Raku One-Liners](https://web.archive.org/web/20191101151545/https://deeptext.media/i/raku-oneliners/RakuOneLiners.pdf) - Andrew Shitov (PDF)
-* [Think Perl 6](http://greenteapress.com/thinkperl6/thinkperl6.pdf) - Laurent Rosenfeld, with Allen B. Downey (PDF)
-* [Using Perl 6](https://github.com/perl6/book/) (:construction: *project is dead*)
-
-
 ### PHP
 
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
@@ -2391,6 +2381,18 @@ Kerridge (PDF) (email address *requested*, not required)
 * [How to Design Programs](https://htdp.org/2019-02-24/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
 * [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
+
+
+### Raku
+
+* [Metagenomics](https://legacy.gitbook.com/download/pdf/book/kyclark/metagenomics) - Ken Youens-Clark (PDF)
+* [Perl 6 at a Glance](https://andrewshitov.com/wp-content/uploads/2020/01/Perl-6-at-a-Glance.pdf) - Andrew Shitov (PDF)
+* [Raku Guide](https://raku.guide) (HTML) [(PDF)](https://github.com/hankache/rakuguide)
+* [Raku One-Liners](https://andrewshitov.com/wp-content/uploads/2020/01/Raku-One-Liners.pdf) - Andrew Shitov (PDF)
+* [Raku Programming](https://en.wikibooks.org/wiki/Raku_Programming) - Wikibooks (HTML)
+* [Think Raku](https://github.com/LaurentRosenfeld/think_raku/raw/master/PDF/think_raku.pdf) - Laurent Rosenfeld, with Allen B. Downey (PDF)
+* [Using Perl 6](https://github.com/perl6/book/) (:construction: *project is dead*)
+* [X=Raku](https://learnxinyminutes.com/docs/raku/) - Learn X in Y minutes (HTML)
 
 
 ### Raspberry Pi

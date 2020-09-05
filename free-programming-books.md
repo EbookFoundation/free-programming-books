@@ -194,6 +194,7 @@
 * [Raku](#raku)
 * [Raspberry Pi](#raspberry-pi)
 * [REBOL](#rebol)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
   * [Ruby on Rails](#ruby-on-rails)
@@ -2405,6 +2406,11 @@ Kerridge (PDF) (email address *requested*, not required)
 ### REBOL
 
 * [Learn REBOL](http://www.lulu.com/shop/nick-antonaccio/learn-rebol/ebook/product-17383182.html) - Nick Antonaccio
+
+
+### Regular Expressions
+
+* [Regular-Expressions.info - Regex Tutorial, Examples and Reference - Regexp Patterns](https://regular-expressions.info) - Jan Goyvaerts (HTML)
 
 
 ### Ruby

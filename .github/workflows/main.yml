@@ -1,4 +1,4 @@
-name: check_urls
+name: Check URLs from changed files
 on: [push, pull_request]
 jobs:
   job:
@@ -13,4 +13,7 @@ jobs:
         with:
           ruby-version: 2.4.1
       - run: gem install awesome_bot
-      - run: for i in ${{ steps.file_changes.outputs.files_modified }}; do echo; echo "processing $i"; awesome_bot $i --allow-redirect --allow-dupe --skip-save-results --allow-ssl; done
+      - run: for i in ${{ steps.file_changes.outputs.files_modified }}; do echo; echo "processing $i"; awesome_bot $i --allow-redirect --allow-dupe --allow-ssl || true; done
+      - uses: actions/upload-artifact@v2
+        with:
+          path: ${{ github.workspace }}/*.json

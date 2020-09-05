@@ -10,7 +10,7 @@
 
 ### C
 
-* [C Proqramlaşdırma Dili](http://iilkaddimlar.com/ders/c-proqramlasdirma-dili)
+* [C Proqramlaşdırma Dili](http://ilkaddimlar.com/ders/c-proqramlasdirma-dili)
 
 
 ### CSS

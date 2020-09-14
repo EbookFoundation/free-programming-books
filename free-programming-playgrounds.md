@@ -91,7 +91,7 @@
 
 ### Kotlin
 
-* [Kotlin](https://play.kotlinlang.org/)
+* [Kotlin](https://play.kotlinlang.org)
 
 
 ### <a name="dotnet"></a>.NET

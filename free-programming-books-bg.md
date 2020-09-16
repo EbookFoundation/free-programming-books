@@ -28,8 +28,8 @@
 
 ### Java
 
-* [Въведение в програмирането с Java](https://introprogramming.info/intro-java-book/) - Светлин Наков и колектив
 * [Java за цифрово подписване на документи в уеб](https://nakov.com/books/signatures/) - Светлин Наков
+* [Въведение в програмирането с Java](https://introprogramming.info/intro-java-book/) - Светлин Наков и колектив
 * [Интернет програмиране с Java](https://nakov.com/books/inetjava/) - Светлин Наков
 * [Основи на програмирането с Java](https://java-book.softuni.bg) - Светлин Наков и колектив
 

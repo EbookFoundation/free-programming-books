@@ -1,8 +1,8 @@
 ### Index
 
 * [C](#c)
-* [C++](#c-plus-plus)
 * [C#](#c-sharp)
+* [C++](#c-plus-plus)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -13,24 +13,21 @@
 
 * [Програмиране = ++Алгоритми;](https://programirane.org/download-now/) - Преслав Наков и Панайот Добриков
 
-
-### C Plus Plus
-
-* [Основи на програмирането със C++](https://cpp-book.softuni.bg) - Светлин Наков и колектив
-
-
 ### C Sharp
 
 * [Основи на програмирането със C#](https://csharp-book.softuni.bg) - Светлин Наков и колектив
 * [Принципи на програмирането със C#](https://introprogramming.info/intro-csharp-book/) - Светлин Наков, Веселин Колев и колектив
 * [Програмиране за .NET Framework](http://www.devbg.org/dotnetbook/) - Светлин Наков и колектив
 
+### C Plus Plus
+
+* [Основи на програмирането със C++](https://cpp-book.softuni.bg) - Светлин Наков и колектив
 
 ### Java
 
 * [Въведение в програмирането с Java](https://introprogramming.info/intro-java-book/) - Светлин Наков и колектив
-* [Основи на програмирането с Java](https://java-book.softuni.bg) - Светлин Наков и колектив
 * [Интернет програмиране с Java](https://nakov.com/books/inetjava/) - Светлин Наков
+* [Основи на програмирането с Java](https://java-book.softuni.bg) - Светлин Наков и колектив
 * [Java за цифрово подписване на документи в уеб](https://nakov.com/books/signatures/) - Светлин Наков
 
 

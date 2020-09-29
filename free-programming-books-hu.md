@@ -63,7 +63,7 @@
 
 ### Lego Mindstorms
 
-* [A MINDSTORMS EV3 robotok programozásának alapjai](http://www.hdidakt.hu/adat/dw_anyagok/dw_74.pdf) - Kiss Róbert (PDF)
+* [A MINDSTORMS EV3 robotok programozásának alapjai](https://hdidakt.hu/wp-content/uploads/2016/01/dw_74.pdf) - Kiss Róbert (PDF)
 * [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](http://www.amcham.hu/download/002/556/Robotkonyv_KR_BZS.pdf) - Kiss Róbert, Badó Zsolt (PDF)
 
 

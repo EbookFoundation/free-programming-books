@@ -69,4 +69,4 @@
 
 ### Vue
 
-* [Belajar Vue](https://github.com/vuejs-id/docs)
+* [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)

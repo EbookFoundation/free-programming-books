@@ -240,6 +240,8 @@
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
+* [Javascript30](https://javascript30.com/)
+
 
 
 #### Angular.js
@@ -252,7 +254,7 @@
 
 #### GraphQL
 
-* [The Road to GraphQL The Bare Essential Package](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
+* [The Road to GraphQL The Bare Essential Package](https://www.roadtographql.com/)
 
 
 #### jQuery
@@ -263,12 +265,13 @@
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
-* [The Road to learn React.js The Bare Essentials Packaage](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)
+* [The Road to learn React.js The Bare Essentials Packaage](https://www.roadtoreact.com/)
 
 
 #### Redux
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+* [Learn Redux](https://learnredux.com/)
 
 
 ### Sails.Js

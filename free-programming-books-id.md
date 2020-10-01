@@ -7,6 +7,7 @@
 * [HTML & CSS](#html-css)
 * [Hacking](#hacking)
 * [JavaScript](#javascript)
+* [Laravel](#laravel)
 * [PHP](#php)
 * [Python](#python)
 * [Vue](#vue)
@@ -48,6 +49,9 @@
 
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
+
+### Laravel
+* [Belajar Laravel Framework PHP Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf)
 
 
 ### Node.js

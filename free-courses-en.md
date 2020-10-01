@@ -240,7 +240,6 @@
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
-* [Javascript30](https://javascript30.com/)
 
 
 
@@ -271,7 +270,6 @@
 #### Redux
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-* [Learn Redux](https://learnredux.com/)
 
 
 ### Sails.Js

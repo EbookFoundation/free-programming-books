@@ -9,6 +9,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Vue](#vue)
+* [Hacking] (#hacking)
 
 
 ### Android
@@ -70,3 +71,7 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
+
+## Hacking
+
+* [Artikel Tentang Web Security Application] (https://infosec.zerobyte.id/)

@@ -75,4 +75,4 @@
 
 ### C++
 * [Belajar Dasar C++](https://github.com/kelasterbuka/CPP_dasar-dasar-programming)
-* [Modul Ebook C++](http://www.ucarecdn.com/ed382018-faf5-46a8-aabb-d325f4ce0a96/)
+* [Modul Fundamental C++](http://www.ucarecdn.com/ed382018-faf5-46a8-aabb-d325f4ce0a96/)

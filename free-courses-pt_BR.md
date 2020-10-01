@@ -18,6 +18,7 @@
 * [JavaScript](#javascript)
 * [Jekyll](#jekyll)
 * [Kotlin](#kotlin)
+* [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
@@ -138,6 +139,11 @@
 
 * [Aprenda Kotlin do zero - Módulo Básico](https://www.udemy.com/kotlin-aprenda-do-zero-modulo-basico/) - Pedro Massango (Udemy)
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+
+
+### Kubernetes
+
+* [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil(Youtube)
 
 
 ### Linux

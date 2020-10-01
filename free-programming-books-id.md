@@ -5,7 +5,6 @@
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)
-* [Hacking](#hacking)
 * [JavaScript](#javascript)
 * [Laravel](#laravel)
 * [PHP](#php)
@@ -39,10 +38,6 @@
 
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 
-
-## Hacking
-
-* [Artikel Tentang Web Security Application](https://infosec.zerobyte.id/)
 
 
 ### JavaScript

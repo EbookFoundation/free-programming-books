@@ -9,7 +9,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Vue](#vue)
-* [Hacking] (#hacking)
+* [Hacking](#hacking)
 
 
 ### Android
@@ -74,4 +74,4 @@
 
 ## Hacking
 
-* [Artikel Tentang Web Security Application] (https://infosec.zerobyte.id/)
+* [Artikel Tentang Web Security Application](https://infosec.zerobyte.id/)

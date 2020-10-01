@@ -1548,6 +1548,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey and Chris Mayfield
 * [Welcome to Java for Python Programmers](https://runestone.academy/runestone/books/published/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
+* [Java Tutorial: Learn Java Programming with examples](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/) - Chaitanya Singh
 
 
 #### Codename One

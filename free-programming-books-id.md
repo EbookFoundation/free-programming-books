@@ -8,6 +8,7 @@
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
+* [R](#r)
 * [Vue](#vue)
 
 
@@ -65,6 +66,10 @@
 * [Belajar Python](http://www.belajarpython.com)
 * [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) - (PDF)
 * [Workshop Python 101](http://sakti.github.io/python101/)
+
+
+### R
+* [Metode Numerik Menggunakan R](https://bookdown.org/moh_rosidi2610/Metode_Numerik/)
 
 
 ### Vue

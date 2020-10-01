@@ -9,6 +9,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Vue](#vue)
+* [C++](#c++)
 
 
 ### Android
@@ -70,3 +71,8 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
+
+
+### C++
+* [Belajar Dasar C++](https://github.com/kelasterbuka/CPP_dasar-dasar-programming)
+* [Modul Ebook C++](http://www.ucarecdn.com/ed382018-faf5-46a8-aabb-d325f4ce0a96/)

@@ -12,7 +12,7 @@
 
 ### Android
 
--   [Tutorial Membuat Aplikasi Android Special Edition](https://www.slideshare.net/creatorb/tutorial-lengkap-cara-membuat-aplikasi-android-sederhana)
+-   [Tutorial Kelas Android Developer Fundamental](https://drive.google.com/file/d/1IaF9mqj5lEJPeyHOwhr-Yu72KifSZhDX/view)
 -   [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
 
 ### Emacs

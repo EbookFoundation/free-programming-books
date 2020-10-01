@@ -5,6 +5,7 @@
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
@@ -35,6 +36,11 @@
 ### HTML CSS
 
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
+
+
+### Java
+
+* [Java Fundamental](https://bukanpenggunawindows.blogspot.com/2012/10/download-ebook-belajar-java-berbahasa.html)
 
 
 ### JavaScript

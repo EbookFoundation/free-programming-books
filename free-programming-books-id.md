@@ -68,7 +68,6 @@
 * [Workshop Python 101](http://sakti.github.io/python101/)
 
 
-
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)

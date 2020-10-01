@@ -24,6 +24,7 @@
 ### Git
 
 * [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git)
+* [Buku Git](https://github.com/endymuhardin/buku-git)
 * [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
 * [Pro Git 1st Edition](https://git-scm.com/book/id/v1)
 

@@ -463,3 +463,8 @@
 * [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
+
+
+## 10-keys-to-great-landing-pages-eBook
+
+* [English](/https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf)

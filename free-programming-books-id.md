@@ -63,9 +63,9 @@
 ### Python
 
 * [Belajar Python](http://www.belajarpython.com)
+* [Dasar Pemrograman Python](https://www.pythonindo.com/tutorial-python-dasar/)
 * [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) - (PDF)
 * [Workshop Python 101](http://sakti.github.io/python101/)
-* [Dasar Pemrograman Python](https://github.com/purwnt/Belajarpython.git)
 
 
 ### Vue

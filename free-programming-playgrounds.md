@@ -55,10 +55,12 @@
 * [Dabblet](http://dabblet.com)
 * [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
 
+
 ### Docker
 
-* [Play with Docker](https://labs.play-with-docker.com/)
 * [Katakoda](https://www.katacoda.com/courses/docker/playground)
+* [Play with Docker](https://labs.play-with-docker.com/)
+
 
 ### Elm
 
@@ -102,8 +104,8 @@
 
 ### Kubernetes
 
-* [Play with Kubernetes](https://labs.play-with-k8s.com/)
 * [Katakoda](https://www.katacoda.com/courses/kubernetes/playground)
+* [Play with Kubernetes](https://labs.play-with-k8s.com/)
 
 
 ### <a name="dotnet"></a>.NET

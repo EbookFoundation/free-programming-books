@@ -2306,6 +2306,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Standard Python Library](http://effbot.org/librarybook/) - Fredrik Lundh
 * [Think Complexity](http://greenteapress.com/complexity/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
+* [Python Notes for Professionals](https://drive.google.com/file/d/1YFx1xg3KCkXUBpkYz9gTvqZSz1q8HFvH/view?usp=sharing)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 
 
@@ -2357,6 +2358,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### R
 
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
+* [R Notes for Professionals](https://drive.google.com/file/d/1DureH8nSon0kYf8EWNSqtOeI5yAnvLbS/view?usp=sharing) - goalkicker.com
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (PDF)
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences) - Rafael A Irizarry, Michael I Love *(Leanpub account or valid email requested)*
@@ -2430,6 +2432,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 * [Ruby Koans](http://www.rubykoans.com)
+* [Ruby Notes for Professionals](https://drive.google.com/file/d/1xT1SQPhEXGOh46y70A3WlnoNmUUFrZc-/view?usp=sharing)
 * [Ruby Learning](http://rubylearning.com)
 * [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
 * [Ruby User's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/index.html)

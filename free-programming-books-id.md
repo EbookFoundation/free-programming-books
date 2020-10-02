@@ -60,6 +60,8 @@
 
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
+* [Pemrograman Berorientasi Objek Dengan PHP5](https://drive.google.com/file/d/1ng2kDsWdFFztiO-3tnn-bo-O7Y_sEMmD/view?usp=sharing)
+
 
 
 ### Python
@@ -69,6 +71,11 @@
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
+
+
+### Sistem Operasi
+
+* [Belajar Sistem Operasi](https://drive.google.com/file/d/10i9ESIMMjh5zxlp8pVK6ambANCM0AkZr/view?usp=sharing)
 
 
 ### Vue

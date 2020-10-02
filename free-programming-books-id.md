@@ -14,6 +14,7 @@
 ### Android
 
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
+* [Tutorial Lengkap Cara Membuat Aplikasi Android Sederhana](https://www.slideshare.net/creatorb/tutorial-lengkap-cara-membuat-aplikasi-android-sederhana)
 
 
 ### Emacs

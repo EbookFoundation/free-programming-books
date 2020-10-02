@@ -6,6 +6,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Kotlin](#kotlin)
+* [Go](#go)
 
 
 ### HTML / CSS
@@ -54,3 +55,8 @@
 * [Belajar Kotlin Generic](https://www.youtube.com/playlist?list=PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR) - Programmer Zaman Now
 * [Belajar Kotlin Collection](https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr) - Programmer Zaman Now
 * [Belajar Kotlin Unit Test](https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up) - Programmer Zaman Now
+
+
+### Go
+
+* [Belajar Go-Lang untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw) - Programmer Zaman Now

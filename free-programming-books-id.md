@@ -2,6 +2,7 @@
 
 * [Android](#android)
 * [Emacs](#emacs)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)
@@ -19,6 +20,13 @@
 ### Emacs
 
 * [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
+
+
+### Flutter
+
+* [Membuat Aplikasi Android dan iOS dengan MUDAH menggunakan Flutter](https://www.udacoding.com/buku-happy-flutter-membuat-aplikasi-android-dan-ios-dengan-mudah-menggunakan-flutter/)
+* [BELAJAR FLUTTER by PETANI KODE](https://flutter.id/blog/belajar-flutter-dari-seorang-petani-kode/)
+* [BELAJAR FLUTTER by DAENG WEB](https://flutter.id/blog/tutorial-flutter-dari-daeng-web/)
 
 
 ### Git

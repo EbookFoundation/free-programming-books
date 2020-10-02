@@ -69,7 +69,7 @@
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
-* [Membuat BOT Telegram Covid19 menggunakan Python](https://github.com/jagadyudha/Bot-Telegram-Covid19)
+* [Panduan Ringkas Pemrograman Python](https://komputasi.files.wordpress.com/2019/03/husni-panduan-ringkas-dasar-pemrograman-python.pdf)
 
 
 ### Vue

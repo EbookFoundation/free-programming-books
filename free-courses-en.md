@@ -252,7 +252,7 @@
 
 #### GraphQL
 
-* [The Road to GraphQL The Bare Essential Package](https://www.roadtographql.com/)
+* [The Road to GraphQL The Bare Essential Package](https://www.roadtographql.com)
 
 
 #### jQuery
@@ -263,7 +263,7 @@
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
-* [The Road to learn React.js The Bare Essentials Packaage](https://www.roadtoreact.com/)
+* [The Road to learn React.js The Bare Essentials Packaage](https://www.roadtoreact.com)
 
 
 #### Redux

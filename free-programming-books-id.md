@@ -13,6 +13,8 @@
 
 ### Android
 
+* [Kursus Dasar-Dasar Developer Android - Konsep](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts/idn/)
+* [Kursus Dasar-Dasar Developer Android — Praktik](https://google-developer-training.github.io/android-developer-fundamentals-course-practicals/idn/index.html)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
 
 

@@ -1,14 +1,18 @@
 ### Index
 
-* [Android](#android)
-* [Emacs](#emacs)
-* [Git](#git)
-* [Go](#go)
-* [HTML & CSS](#html-css)
-* [JavaScript](#javascript)
-* [PHP](#php)
-* [Python](#python)
-* [Vue](#vue)
+- [Index](#index)
+- [Android](#android)
+- [Emacs](#emacs)
+- [Git](#git)
+- [Linux](#linux)
+- [Go](#go)
+- [HTML CSS](#html-css)
+- [JavaScript](#javascript)
+- [Node.js](#nodejs)
+- [NoSQL](#nosql)
+- [PHP](#php)
+- [Python](#python)
+- [Vue](#vue)
 
 
 ### Android
@@ -27,6 +31,8 @@
 * [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
 * [Pro Git 1st Edition](https://git-scm.com/book/id/v1)
 
+### Linux
+* [Belajar Linux Hacking](https://drive.google.com/file/d/1g9i2Esb6izPWVB80GOsQbtsljGjJBurt/view?usp=sharing)
 
 ### Go
 
@@ -69,7 +75,7 @@
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
-
+* [Proyek Python Mingguan](https://drive.google.com/file/d/1_fE5VkMBM3vvf0onaml8rbRdrFaiNGlX/view?usp=sharing)
 
 ### Vue
 

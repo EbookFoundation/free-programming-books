@@ -5,6 +5,7 @@
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
+* [Kotlin](#kotlin)
 
 
 ### HTML / CSS
@@ -44,3 +45,12 @@
 * [Belajar Pemrograman Python untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H) - Programmer Zaman Now
 * [Belajar Python 3.x Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
 * [Belajar Python Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
+
+
+### Kotlin
+
+* [Belajar Kotlin Dasar untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa) - Programmer Zaman Now
+* [Belajar Kotlin Object Oriented Programming](https://www.youtube.com/playlist?list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog) - Programmer Zaman Now
+* [Belajar Kotlin Generic](https://www.youtube.com/playlist?list=PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR) - Programmer Zaman Now
+* [Belajar Kotlin Collection](https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr) - Programmer Zaman Now
+* [Belajar Kotlin Unit Test](https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up) - Programmer Zaman Now

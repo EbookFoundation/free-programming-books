@@ -62,7 +62,7 @@
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
-* [Pemrograman Berorientasi Objek Dengan PHP5](https://drive.google.com/file/d/1ng2kDsWdFFztiO-3tnn-bo-O7Y_sEMmD/view?usp=sharing)
+* [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf)
 
 
 
@@ -78,7 +78,7 @@
 
 ### Sistem Operasi
 
-* [Belajar Sistem Operasi](https://drive.google.com/file/d/10i9ESIMMjh5zxlp8pVK6ambANCM0AkZr/view?usp=sharing)
+* [Belajar Sistem Operasi](http://onnocenter.or.id/pustaka/)
 
 
 ### Vue

@@ -9,7 +9,7 @@
 * [Python](#python)
 
 
-### GO
+### Go
 
 * [Belajar Go-Lang untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw) - Programmer Zaman Now
 

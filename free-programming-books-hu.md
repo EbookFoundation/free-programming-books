@@ -12,6 +12,7 @@
 * [PHP](#php)
 * [PowerShell](#powershell)
 * [Python](#python)
+  * [Django](#django)
 * [Windows Phone](#windows-phone)
 
 
@@ -62,7 +63,7 @@
 
 ### Lego Mindstorms
 
-* [A MINDSTORMS EV3 robotok programozásának alapjai](http://www.hdidakt.hu/adat/dw_anyagok/dw_74.pdf) - Kiss Róbert (PDF)
+* [A MINDSTORMS EV3 robotok programozásának alapjai](https://hdidakt.hu/wp-content/uploads/2016/01/dw_74.pdf) - Kiss Róbert (PDF)
 * [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](http://www.amcham.hu/download/002/556/Robotkonyv_KR_BZS.pdf) - Kiss Róbert, Badó Zsolt (PDF)
 
 
@@ -102,8 +103,12 @@
 
 * [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, ford.: Daróczy Péter (PDF)
 * [Bevezetés a wxPythonba](http://mek.oszk.hu/08400/08446/index.phtml) - Jeremy Berthet, Gilles Doge, ford.: Daróczy Péter (PDF)
-* [Python-programozás](http://blog.molnardenes.hu/python-programozas-1-alapfogalmak/) - Molnár Dénes (HTML)
 * [Tanuljunk meg programozni Python nyelven](http://mek.oszk.hu/08400/08435/index.phtml) - Gérard Swinnen, ford.: Daróczy Péter (PDF, ODT)
+
+
+#### Django
+
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/hu/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Windows Phone

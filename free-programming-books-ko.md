@@ -9,12 +9,17 @@
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
+* [Linux](#linux)
 * [Perl](#perl)
 * [PHP](#php)
   * [Laravel](#laravel)
 * [Python](#python)
+  * [Django](#django)
+  * [Flask](#flask)
 * [R](#r)
+* [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
+* [Scratch](#scratch)
 * [Swift](#swift)
 
 
@@ -44,6 +49,7 @@
 
 * [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
 * [Go Tour 한글 번역](http://go-tour-kr.appspot.com)
+* [Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
 * [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 
 
@@ -54,7 +60,6 @@
 
 ### JavaScript
 
-* [Backbone.js API 한글 번역 v0.9.2](http://iwidgets.kr/document/backbonejs.html)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ko)
 * Meteor
   * [Discover Meteor](http://kr.discovermeteor.com)
@@ -70,13 +75,16 @@
 * [The Not So short Introduction to LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/korean)
 
 
+### Linux
+
+* [리눅스 서버를 다루는 기술](https://thebook.io/006718/)
+
+
 ### Perl
 
 * [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
-* [Perl : GyparkWiki](http://gypark.pe.kr/wiki/Perl)
 * [Perl 객체지향프로그래밍(OOP)](https://github.com/aero/perl_docs/blob/master/hatena_perl_oop.md) : Hatena-TextBook의 oop-for-perl 문서 한역 by aero
 * [Seoul.pm 펄 크리스마스 달력 #2014 | Seoul.pm Perl Advent Calendar 2014](http://advent.perl.kr/2014/)
-* [책벌레가 되고픈 어린이 Perl Tutorial](http://eriny.net/p/perl)
 
 
 ### PHP
@@ -86,15 +94,27 @@
 
 #### Laravel
 
-* [라라벨 (Laravel) 5 입문 및 실전 강좌](http://l5.appkr.kr/lessons)
+* [라라벨 (Laravel) 5 입문 및 실전 강좌](https://github.com/appkr/l5essential)
 * [쉽게 배우는 라라벨 5 프로그래밍](https://www.lesstif.com/display/laravelprog)
 
 
 ### Python
 
 * [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
+* [내가 파이썬을 배우는 방법](https://wikidocs.net/7839)
+* [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+
+
+#### Django
+
+* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)
+
+
+#### Flask
+
+* [Flask의 세계에 오신것을 환영합니다.](http://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
 
 
 ### R
@@ -103,9 +123,19 @@
 * [The R Manuals (translated in Korean)](http://www.openstatistics.net)
 
 
+### Raspberry Pi
+
+* [라즈베리 파이 문서](https://wikidocs.net/book/483)
+
+
 ### Ruby
 
 * [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
+
+
+### Scratch
+
+* [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
 
 
 ### Swift

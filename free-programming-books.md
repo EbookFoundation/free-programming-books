@@ -587,6 +587,7 @@
 * [DevOps For Dummies (IBM Edition)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/) (PDF)
 * [Digital Signal Processing For Communications](http://www.sp4comm.org)
 * [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com)
+* [Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp) - Allen B. Downey
 * ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](http://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html) - Luis A. Enríquez
 * [Effective DevOps with AWS, Second Edition](https://www.packtpub.com/free-ebooks/effective-devops-aws-second-edition) - Yogesh Raheja, Giuseppe Borgese, Nathaniel Felsen (Packt account *required*)
 * [Essential Image Optimization](https://images.guide) - Addy Osmani

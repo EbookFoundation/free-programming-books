@@ -69,6 +69,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Italian / italiano](free-courses-it.md)
 + [Korean / 한국어 [韓國語]](free-courses-ko.md)
 + [Polish / polski / język polski / polszczyzna](free-courses-pl.md)
++ [Indonesian / Bahasa Indonesia](free-courses-id.md)
 + [Portuguese (Brazil)](free-courses-pt_BR.md)
 + [Russian / Русский язык](free-courses-ru.md)
 + [Spanish / español / castellano](free-courses-es.md)

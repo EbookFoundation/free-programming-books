@@ -31,7 +31,7 @@
 
 ### Go
 
-* [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com)
+* [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com) - Noval Agung Prayogo
 
 
 ### HTML CSS

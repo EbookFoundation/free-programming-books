@@ -130,3 +130,6 @@ check_urls=free-programming-books.md free-programming-books-en.md
 
 - You may specify more than one file to check, using a single space to separate each entry.
 - If you specify more than one file, results of the build is based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the pull request by clicking on "Show all checks" -> "Details".
+
+
+ Name | Alfiessa Widya

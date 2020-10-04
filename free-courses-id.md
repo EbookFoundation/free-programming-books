@@ -69,7 +69,7 @@
 
 ### NodeJS
 * [Chat Sederhana dengan Nodejs dan Socket.io](https://www.youtube.com/watch?v=mzVzw6A93pU&t=42s) - Tensai NSTech
-* [Chat Sederhana dengan Nodejs dan Socket.io (Part 2)](https://www.youtube.com/watch?v=xC245lfl2Uo) - Tensai NSTech
+* [Chat Sederhana dengan Nodejs dan Socket.io (Part-2)](https://www.youtube.com/watch?v=xC245lfl2Uo) - Tensai NSTech
 
 ### PHP
 

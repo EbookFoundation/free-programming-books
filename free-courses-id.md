@@ -1,7 +1,7 @@
 ### Index
 
 * [Android](#android)
-* [C / C++](#c--c++)
+* [C / C++](#c--c)
 * [Dart](#dart)
 * [Flutter](#flutter)
 * [Go](#go)
@@ -9,8 +9,10 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Linux](#Linux)
 * [PHP](#php)
 * [Python](#python)
+
 
 
 ### Android
@@ -20,6 +22,7 @@
 
 
 ### C / C++
+* [Bahasa C dengan Dev-C++](https://www.youtube.com/playlist?list=PLZNiz_sFO6tdZ_DcLhtbxLboLlpuqpzLC) - H.I Edukasi
 * [Belajar C++ - Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7-RC_-hkL9gu0_ofABw862) - Kelas Terbuka
 * [Belajar C++ Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI) - Kelas Terbuka
 
@@ -32,6 +35,7 @@
 ### Flutter
 
 * [Flutter Tutorial (Flutter Fundamentals)](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV) - Erico Darmawan Handoyo
+* [Tutorial Flutter](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teRqkuBusUEcVrP6OlYpD9w) - idr corner
 
 
 ### Go
@@ -54,6 +58,7 @@
 
 * [Belajar Java - Object Oriented Programming Bahasa Indonesia (Lanjut)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6V4_vk1s1NcM2HoW5KFG7i) - Kelas Terbuka
 * [Belajar Java Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) - Kelas Terbuka
+* [Belajar Java Untuk Pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDUvrO3Bc_VUvIjWKnYIRJ1) - Sekolah Koding
 
 
 ### JavaScript
@@ -71,6 +76,11 @@
 * [Belajar Kotlin Generic](https://www.youtube.com/playlist?list=PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR) - Programmer Zaman Now
 * [Belajar Kotlin Object Oriented Programming](https://www.youtube.com/playlist?list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog) - Programmer Zaman Now
 * [Belajar Kotlin Unit Test](https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up) - Programmer Zaman Now
+
+
+### Linux
+* [Linux Pemula](https://www.youtube.com/playlist?list=PLACzo3mGgHK_D2wkGu4AvUAQiqLC30PTz) - LINUXcare
+* [Tutorial Terminal Linux Bahasa Indonesia](https://www.youtube.com/playlist?list=PLy1BHEa_Wr-cpjWY5uOqsMxQwiQrRnC8B) - ArtAway
 
 
 ### PHP

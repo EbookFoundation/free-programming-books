@@ -57,7 +57,7 @@ ADV - продвинутый. Тонкости.
 
 ### React
 
-* [React.js курс для начинающих](https://www.gitbook.com/book/maxfarseer/react-course-ru/details) (BEG)
-* [Роутинг в react-приложениях](https://www.gitbook.com/book/maxfarseer/react-router-course-ru/details) (INT)
-* [Туториал по Redux](https://www.gitbook.com/book/maxfarseer/redux-course-ru/details) (INT)
+* [React.js курс для начинающих](https://max-frontend.gitbook.io/react-course-ru-v2/) (BEG)
+* [Роутинг в react-приложениях](https://max-frontend.gitbook.io/react-router-course-ru/) (INT)
+* [Туториал по Redux](https://max-frontend.gitbook.io/redux-course-ru-v2/) (INT)
 

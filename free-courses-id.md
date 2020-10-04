@@ -8,6 +8,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [NodeJS](#nodejs)
 * [PHP](#php)
 * [Python](#python)
 
@@ -66,6 +67,9 @@
 * [Belajar Kotlin Object Oriented Programming](https://www.youtube.com/playlist?list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog) - Programmer Zaman Now
 * [Belajar Kotlin Unit Test](https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up) - Programmer Zaman Now
 
+### NodeJS
+* [Chat Sederhana dengan Nodejs dan Socket.io](https://www.youtube.com/watch?v=mzVzw6A93pU&t=42s) - Tensai NSTech
+* [Chat Sederhana dengan Nodejs dan Socket.io (Part 2)](https://www.youtube.com/watch?v=xC245lfl2Uo) - Tensai NSTech
 
 ### PHP
 

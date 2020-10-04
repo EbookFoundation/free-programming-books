@@ -24,13 +24,14 @@
 
 ### Git
 
+* [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git)
 * [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
-* [Pro Git 1st Edition](https://git-scm.com/book/id/v1)
+* [Pro Git 2nd Edition](https://git-scm.com/book/id/v2)
 
 
 ### Go
 
-* [Dasar Pemrograman Golang](https://github.com/novalagung/dasarpemrogramangolang)
+* [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com) - Noval Agung Prayogo
 
 
 ### HTML CSS
@@ -59,16 +60,21 @@
 ### PHP
 
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
+* [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 
 
 ### Python
 
 * [Belajar Python](http://www.belajarpython.com)
+* [Dasar Pemrograman Python](https://www.pythonindo.com/tutorial-python-dasar/)
 * [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) - (PDF)
+* [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
+* [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
 
 
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
+

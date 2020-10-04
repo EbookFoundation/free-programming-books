@@ -4,6 +4,7 @@
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
 * [CSS](#css)
+* [Docker](#docker)
 * [Elm](#elm)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -11,6 +12,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
@@ -54,6 +56,12 @@
 * [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
 
 
+### Docker
+
+* [Katakoda](https://www.katacoda.com/courses/docker/playground)
+* [Play with Docker](https://labs.play-with-docker.com)
+
+
 ### Elm
 
 * [Ellie](https://ellie-app.com)
@@ -92,6 +100,12 @@
 ### Kotlin
 
 * [Kotlin](https://play.kotlinlang.org)
+
+
+### Kubernetes
+
+* [Katakoda](https://www.katacoda.com/courses/kubernetes/playground)
+* [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
 ### <a name="dotnet"></a>.NET

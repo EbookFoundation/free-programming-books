@@ -30,6 +30,8 @@
 * [Microcorruption](https://microcorruption.com/login)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
+* [Toph](https://toph.co)
+* [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
 
 ### Data science

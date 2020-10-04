@@ -1,10 +1,17 @@
 ### Index
 
+* [Go](#go)
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Kotlin](#kotlin)
 * [PHP](#php)
 * [Python](#python)
+
+
+### Go
+
+* [Belajar Go-Lang untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw) - Programmer Zaman Now
 
 
 ### HTML / CSS
@@ -29,6 +36,15 @@
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
+
+
+### Kotlin
+
+* [Belajar Kotlin Collection](https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr) - Programmer Zaman Now
+* [Belajar Kotlin Dasar untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa) - Programmer Zaman Now
+* [Belajar Kotlin Generic](https://www.youtube.com/playlist?list=PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR) - Programmer Zaman Now
+* [Belajar Kotlin Object Oriented Programming](https://www.youtube.com/playlist?list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog) - Programmer Zaman Now
+* [Belajar Kotlin Unit Test](https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up) - Programmer Zaman Now
 
 
 ### PHP

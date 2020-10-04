@@ -68,8 +68,7 @@
 * [Belajar Kotlin Unit Test](https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up) - Programmer Zaman Now
 
 ### NodeJS
-* [Chat Sederhana dengan Nodejs dan Socket.io](https://www.youtube.com/watch?v=mzVzw6A93pU&t=42s) - Tensai NSTech
-* [Chat Sederhana dengan Nodejs dan Socket.io (Part2)](https://www.youtube.com/watch?v=xC245lfl2Uo) - Tensai NSTech
+* [Chat Sederhana dengan Nodejs dan Socket.io](https://www.youtube.com/playlist?list=PLM4Qh7PEStOlMbL5yiDSsQPp4sFK0FXiL) - Tensai NSTech
 
 ### PHP
 

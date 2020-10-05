@@ -9,6 +9,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Vue](#vue)
+*[Laravel](#laravel)
 
 
 ### Android
@@ -78,3 +79,6 @@
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
 
+### Laravel
+
+*[Ebook Gratis Laravel Berbahasa Indonesia](https://kodingbagus.blogspot.com/2019/05/download-ebook-laravel-5-untuk-pemula.html)

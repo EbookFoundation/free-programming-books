@@ -60,7 +60,7 @@
 
 ### Dart
 
-* [DartPad](https://dartpad.dev/)
+* [DartPad](https://dartpad.dev)
 
 ### Docker
 

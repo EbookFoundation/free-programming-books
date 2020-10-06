@@ -15,6 +15,7 @@
 * [Kubernetes](#kubernetes)
 * [Linux](#Linux)
 * [MongoDB](#mongodb)
+* [MySQL](#mysql)
 * [PHP](#php)
   * [Laravel](#laravel)
 * [Python](#python)
@@ -122,6 +123,11 @@
 * [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Programmer Zaman Now
 
 
+### MySQL
+
+* [Belajar MySQL Pemula](https://www.youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF) - Guntur Budi
+
+
 ### PHP
 
 * [Belajar PHP untuk PEMULA](https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6) - Web Programming UNPAS
@@ -150,5 +156,5 @@
 
 ### TypeScript
 
-* [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ)
-* [TypeScript OOP](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y)
+* [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nursendra.com
+* [TypeScript OOP](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nursendra.com

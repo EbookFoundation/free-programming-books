@@ -1767,8 +1767,8 @@ Kerridge (PDF) (email address *requested*, not required)
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
-* [SurviveJS - Webpack and React](http://survivejs.com)
 * [React JS notes for professionals book](https://goalkicker.com/ReactJSBook/) (PDF)
+* [SurviveJS - Webpack and React](http://survivejs.com)
 
 
 #### React Native

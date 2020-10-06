@@ -40,7 +40,7 @@
 
 ### Java
 
-* [Java Fundamental](https://bukanpenggunawindows.blogspot.com/2012/10/download-ebook-belajar-java-berbahasa.html)
+* [Pemrograman Java](http://umardanny.com/tutorial-java-lengkap-pdf/)
 
 
 ### JavaScript

@@ -1448,6 +1448,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
 * [HTML5 Notes for Professionals](http://books.goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (3.x)
 * [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat
+* [HTML5 & CSS3 For The Real World](https://github.com/JaredClayborn/book/blob/master/htmlcss2.pdf) - By Alexis Goldstein, Louis Lazaris, and Estelle Weyl
 * [Interneting is Hard (But it Doesn't Have to Be)](https://www.internetingishard.com) - Oliver James
 * [Learn CSS Layout](http://learnlayout.com)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)

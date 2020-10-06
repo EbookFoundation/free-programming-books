@@ -19,6 +19,7 @@
   * [Laravel](#laravel)
 * [Python](#python)
 * [Redis](#redis)
+* [TypeScript](#typescript)
 
 
 ### Android
@@ -145,3 +146,9 @@
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Programmer Zaman Now
+
+
+### TypeScript
+
+* [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ)
+* [TypeScript OOP](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y)

@@ -11,7 +11,7 @@
 * [JavaScript](#javascript)
   * [React](#react)
   * [Vue](#vue)
-  * [React Native](#reactnative)
+  * [React Native](#react-native)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#Linux)

@@ -32,6 +32,7 @@
 ### C / C++
 
 * [Bahasa C dengan Dev-C++](https://www.youtube.com/playlist?list=PLZNiz_sFO6tdZ_DcLhtbxLboLlpuqpzLC) - H.I Edukasi
+* [Belajar Bahasa Pemrograman C++ Lengkap dari Awal untuk Pemula ](https://kodedasar.com/belajar-cpp/) - DAMASDEV
 * [Belajar C++](https://www.youtube.com/playlist?list=PLF82-I80PwDNKmeyYBe4CkEj7excOdy7f) - Guntur Budi
 * [Belajar C++ - Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7-RC_-hkL9gu0_ofABw862) - Kelas Terbuka
 * [Belajar C++ Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI) - Kelas Terbuka
@@ -145,6 +146,7 @@
 * [Belajar Pemrograman Python untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H) - Programmer Zaman Now
 * [Belajar Python 3.x Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
 * [Belajar Python Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
+* [Belajarpython](https://belajarpython.com/tutorial)
 * [Tutorial Python Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m) - Sekolah Koding
 
 

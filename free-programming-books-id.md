@@ -40,7 +40,7 @@
 
 ### Java
 
-* [Pemrograman Java](http://umardanny.com/tutorial-java-lengkap-pdf/)
+* [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/)
 
 
 ### JavaScript

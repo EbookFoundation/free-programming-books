@@ -40,7 +40,7 @@
 
 ### Java
 
-* [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/)
+* [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
 
 
 ### JavaScript

@@ -108,8 +108,8 @@
 * [The Art Of Programming](https://theartofprogramming.podbean.com) (Podcast)
 * [Две Столицы - Уютный подкаст IT панков](http://www.2capitals.space) (Podcast)
 * [Как делают игры](https://kdicast.com) (Podcast)
+* [Новый подкаст (2)_после правок.final.doc](https://newpodcast2.live) (Podcast)
 * [Радио-Т](https://radio-t.com) (Podcast)
 * [Разбор полётов](http://razbor-poletov.com) (Podcast)
 * [Развлекательный IT подкаст](http://radioma.org) (Podcast)
 * [Слава + Паша](https://it.asm0dey.ru) (Podcast)
-

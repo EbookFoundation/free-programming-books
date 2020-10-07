@@ -222,7 +222,7 @@
 * [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
 * [Vue.js Brasil - Artigos em Português sobre Vue.js](http://www.vuejs-brasil.com.br)
 * [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
-
+* [Vue.js na prática](https://leanpub.com/livro-vue)
 
 ### LaTeX
 

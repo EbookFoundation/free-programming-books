@@ -290,6 +290,7 @@
 
 * [Lua Interactive Crash Course](http://luatut.com/crash_course.html)
 * [Lua Tutorial](http://www.tutorialspoint.com/lua/)
+* [Learn Lua in 15 Minutes] (http://tylerneylon.com/a/learn-lua/)
 
 
 ### Machine Learning
@@ -301,11 +302,15 @@
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 * [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [How to Start Learning Machine Learning?](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/)
 
 
 ### MATLAB
 
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
+* [Matlab Learning](https://matlabacademy.mathworks.com)
+* [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab)
+* [Matlab Tutorial](https://www.tutorialspoint.com/matlab/index.htm)
 
 
 ### Mercurial
@@ -357,6 +362,7 @@
 ### Perl
 
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
+* [Perl Tutorial and Introduction](https://www.tutorialspoint.com/perl/index.htm)
 
 
 ### PHP

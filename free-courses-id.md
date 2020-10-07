@@ -96,16 +96,20 @@
 * [React Js Tutorial Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBgdQJJK_f_dYSrQXCb-23hJ) - Ipung Dev
 * [Basic Reactjs](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwXT8zMPbezhDnTM3cTA5cZ) - Parsinta
 
+
 ### Vue
 
 * [Tutorial Vue JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ) - Sekolah Koding
 * [Tutorial Vuejs Bahasa Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-Z6Gt8uO1XMp4oyMlE3gml) - Baledemy
 * [Vuejs For Beginer Bahasa Indonesia](https://www.youtube.com/playlist?list=PL1aMeb5UP_PHsDV00mn6RDHvSVVA-Q5kA) - IDStack
 
+
 ### React Native
+
 * [Tutorial React Native Indonesia](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ3SP3PpRb870UoT_0_rjLpV) - Prawito Hudoro
 * [Tutorial React Native Indonesia](https://www.youtube.com/playlist?list=PLjq42-S9KIezIzF92Uqd12vCcBbN5tz3H) - Arif Rachman
 * [react Native Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-Ra8U0JXtVWmizDdKf7WPubFkpdHv6vS) - Julfikra 96
+
 
 ### Kotlin
 
@@ -132,7 +136,8 @@
 ### MongoDB
 
 * [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Programmer Zaman Now
-* [Tutorial MonggoDB Bahasa Indonesia](https://www.youtube.com/playlist?list=PL_IjXn0_FZpnEGReatfR6dSoNUsD2nYML) - D.Koding
+* [Tutorial MonggoDB Bahasa Indonesia](https://www.youtube.com/playlist?list=PL_IjXn0_FZpnEGReatfR6dSoNUsD2nYML) - DKoding
+
 
 ### PHP
 

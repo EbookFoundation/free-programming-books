@@ -147,6 +147,7 @@
 * [Паттерны проектирования в C# и .NET](https://metanit.com/sharp/patterns) - Евгений Попов
 * [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7](https://metanit.com/sharp/tutorial) - Евгений Попов
 * [Сетевое программирование в С# и .NET](https://metanit.com/sharp/net) - Евгений Попов
+* [Design Patterns via C#](https://itvdn.com/ru/maildeliveries/details/635b19f5-95b4-44ef-827d-831c9965b83e) - Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов
 
 
 ### C++

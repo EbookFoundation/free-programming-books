@@ -1654,7 +1654,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Practical Angular: Build your first web apps with Angular 8](https://leanpub.com/practical-angular) - Ahmed Bouchefra *(Leanpub account or valid email requested)*
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
-
+* [Learn Angular 2 step by step](http://www.learnangularjs.net/angular-ebook.pdf) (PDF)
+* [Angular 7](https://www.tutorialspoint.com/angular7/angular7_tutorial.pdf) (PDF)
 
 #### Aurelia
 
@@ -2015,7 +2016,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) - K. Seguin (PDF, Epub)
-
+* [Mastering MongoDB 3.x](http://www.rgonzo.us/shiny/books/Mastering%20MongoDB%203.pdf) - Alex Giamas (PDF)
+* [MongoDB Architecture Guide](https://jira.mongodb.org/secure/attachment/112939/MongoDB_Architecture_Guide.pdf) - MongoDB White Paper (PDF)
+* [The Definitive Guide - MongoDB](http://usuaris.tinet.cat/bertolin/pdfs/mongodb_%20the%20definitive%20guide%20-%20kristina%20chodorow_1401.pdf) - Kristina Chodorow (PDF)
 
 ### Oberon
 

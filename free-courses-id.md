@@ -18,6 +18,8 @@
 * [PHP](#php)
   * [Laravel](#laravel)
 * [Python](#python)
+  * [Django](#django)
+  * [Flask](#flask)
 * [Redis](#redis)
 
 
@@ -30,12 +32,16 @@
 ### C / C++
 
 * [Bahasa C dengan Dev-C++](https://www.youtube.com/playlist?list=PLZNiz_sFO6tdZ_DcLhtbxLboLlpuqpzLC) - H.I Edukasi
+* [Belajar Bahasa Pemrograman C++ Lengkap dari Awal untuk Pemula ](https://kodedasar.com/belajar-cpp/) - DAMASDEV
+* [Belajar C++](https://www.youtube.com/playlist?list=PLF82-I80PwDNKmeyYBe4CkEj7excOdy7f) - Guntur Budi
 * [Belajar C++ - Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7-RC_-hkL9gu0_ofABw862) - Kelas Terbuka
 * [Belajar C++ Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI) - Kelas Terbuka
 
 
 ### Dart
 
+* [Belajar Bahasa Pemgrograman Dart](https://www.youtube.com/playlist?list=PLsvN_QZnFWRBQRFBo46R9hAYcnmvLSIvF) - Kenari Studio
+* [Dart Indonesia](https://www.youtube.com/playlist?list=PLoNv-2zK-dzEbZSFeGgSnpdp5i_Lwto-8) -  CodeWithIhwan
 * [Pemrograman Berorientasi Objek - Dart](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Erico Darmawan Handoyo
 
 
@@ -131,6 +137,7 @@
 
 ### Laravel
 
+* [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Parsinta
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
 
 
@@ -140,6 +147,18 @@
 * [Belajar Python 3.x Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
 * [Belajar Python Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
 * [Tutorial Python Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m) - Sekolah Koding
+
+
+### Django
+
+* [Belajar Django 2.2](https://www.youtube.com/playlist?list=PLSCLBARdXrOz4SM3GKyKuqQp7eXWAH1u1) - Zul Himli
+* [Tutorial Django 1.11 LTS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6p_RwsWntxMO5QAqIHHHld) - Kelas Terbuka
+
+
+### Flask
+
+* [Membuat website dengan Flask](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZwaY3F4bHikozOBzrFD_R) - Sekolah Koding
+* [Tutorial web dengan flask sampai mahir](https://www.youtube.com/playlist?list=PL5vG7_Y90KtxXH4YhDcb5m4n82ShAPnPc) - Toufan RA
 
 
 ### Redis

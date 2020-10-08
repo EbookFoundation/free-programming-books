@@ -1,4 +1,4 @@
-*Read this in other languages: [中文](CONTRIBUTING-zh.md).*
+*Read this in other languages: [ID](CONTRIBUTING-id.md), [中文](CONTRIBUTING-zh.md).*
 
 ## Contributor License Agreement
 By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) of this repository.

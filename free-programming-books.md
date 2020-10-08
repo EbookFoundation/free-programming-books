@@ -2661,6 +2661,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Hacking with Swift](https://www.hackingwithswift.com)
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
+* [Essential Swift](https://essential-swift.programming-books.io/) - Krzysztof Kowalczyk
 
 
 #### Vapor

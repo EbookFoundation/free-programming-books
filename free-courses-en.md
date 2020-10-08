@@ -129,6 +129,8 @@
     * [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
     * [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
     * [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
+* [Programming Knowledge's Full C++ Tutorial](https://www.youtube.com/watch?v=MhYECGUzdA4)
+* [Udacity's C++ Tutorial](https://www.udacity.com/course/c-for-programmers--ud210)
 
 
 ### Clojure

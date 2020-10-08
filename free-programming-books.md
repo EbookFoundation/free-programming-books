@@ -1768,7 +1768,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
-
+* [React JS Notes](https://goalkicker.com/ReactJSBook/)
 
 #### React Native
 
@@ -1776,6 +1776,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
+* [React Native Notes](https://goalkicker.com/ReactNativeBook/)
 
 
 #### Redux

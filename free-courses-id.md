@@ -60,6 +60,7 @@
 
 * [Belajar Go-Lang untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw) - Programmer Zaman Now
 * [Belajar Golang Basic Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm) - Sekolah Koding
+* [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) - Noval Agung
 
 
 ### HTML / CSS

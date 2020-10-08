@@ -1758,6 +1758,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [React-Bits](https://github.com/vasanthk/react-bits)
 * [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
 * [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details)
+* [React JS Notes](https://goalkicker.com/ReactJSBook/) (PDF)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 * [React Succinctly](https://www.syncfusion.com/ebooks/react-succinctly) - Samer Buna
 * [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
@@ -1768,15 +1769,14 @@ Kerridge (PDF) (email address *requested*, not required)
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
-* [React JS Notes](https://goalkicker.com/ReactJSBook/)
 
 #### React Native
 
 * [Programming React Native](https://leanpub.com/programming-react-native)   *(Leanpub account or valid email requested)*
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 * [React Native Express](http://www.reactnativeexpress.com)
+* [React Native Notes](https://goalkicker.com/ReactNativeBook/) (PDF)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
-* [React Native Notes](https://goalkicker.com/ReactNativeBook/)
 
 
 #### Redux

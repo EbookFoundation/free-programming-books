@@ -11,7 +11,6 @@
 * [JavaScript](#javascript)
   * [React](#react)
   * [Vue](#vue)
-  * [React Native](#react-native)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#Linux)
@@ -104,13 +103,6 @@
 * [Vuejs For Beginer Bahasa Indonesia](https://www.youtube.com/playlist?list=PL1aMeb5UP_PHsDV00mn6RDHvSVVA-Q5kA) - IDStack
 
 
-### React Native
-
-* [Tutorial React Native Indonesia](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ3SP3PpRb870UoT_0_rjLpV) - Prawito Hudoro
-* [Tutorial React Native Indonesia](https://www.youtube.com/playlist?list=PLjq42-S9KIezIzF92Uqd12vCcBbN5tz3H) - Arif Rachman
-* [react Native Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-Ra8U0JXtVWmizDdKf7WPubFkpdHv6vS) - Julfikra 96
-
-
 ### Kotlin
 
 * [Belajar Kotlin Collection](https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr) - Programmer Zaman Now
@@ -164,7 +156,7 @@
 * [Belajar Python Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
 * [Tutorial Python Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m) - Sekolah Koding
 * [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
-* [Belajar Pemrograman dengan python 3](https://www.youtube.com/playlist?list=PLFvS2LpKlyrCirkcpy3ahiV7rRJUFGEzP) - Qaisha
+* [Belajar Pemrograman Dengan Python 3](https://www.youtube.com/playlist?list=PLFvS2LpKlyrCirkcpy3ahiV7rRJUFGEzP) - Qaisha
 
 
 ### Redis

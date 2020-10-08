@@ -1,4 +1,3 @@
-*Read this in other languages: [中文](CONTRIBUTING-zh.md).*
 *Baca dengan bahasa lain: [English](CONTRIBUTING.md), [中文](CONTRIBUTING-zh.md).*
 
 ## Persetujuan Lisensi Kontributor

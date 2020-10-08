@@ -271,6 +271,7 @@
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [Theassayer.org](http://theassayer.org)
 * [tutorialspoint](http://www.tutorialspoint.com)
+* [Six Free eBooks: Introduction to Python and Data Science](https://medium.com/@Cambridge_Spark/six-free-ebooks-introduction-to-python-and-data-science-f35b5a9223b9)
 
 
 ### Graphics Programming

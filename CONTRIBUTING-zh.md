@@ -1,4 +1,4 @@
-*阅读本文的其他语言版本：[English](CONTRIBUTING.md)。*
+*阅读本文的其他语言版本：[English](CONTRIBUTING.md), [Indonesia](CONTRIBUTING-id.md)。*
 
 
 ## 贡献者许可协议

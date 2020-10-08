@@ -265,13 +265,13 @@
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
 * [Programming](https://en.wikibooks.org/wiki/Category%3aComputer_programming) - Wikibooks
 * [Red Gate Books](http://www.red-gate.com/community/books/index)
+* [Six Free eBooks: Introduction to Python and Data Science](https://medium.com/@Cambridge_Spark/six-free-ebooks-introduction-to-python-and-data-science-f35b5a9223b9)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 * [TechBeamers.com](http://www.techbeamers.com)
 * [TechBooksForFree.com](http://www.techbooksforfree.com)
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [Theassayer.org](http://theassayer.org)
 * [tutorialspoint](http://www.tutorialspoint.com)
-* [Six Free eBooks: Introduction to Python and Data Science](https://medium.com/@Cambridge_Spark/six-free-ebooks-introduction-to-python-and-data-science-f35b5a9223b9)
 
 
 ### Graphics Programming

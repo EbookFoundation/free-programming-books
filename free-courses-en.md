@@ -245,6 +245,8 @@
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
+* [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution
+* [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=2s) - freeCodeCamp.org
 
 
 #### Angular.js
@@ -269,6 +271,7 @@
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 * [The Road to learn React.js The Bare Essentials Packaage](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)
+* [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) 
 
 
 #### Redux

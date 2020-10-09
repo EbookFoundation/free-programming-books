@@ -1032,6 +1032,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 
 
+
 ### C Sharp
 
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
@@ -1082,6 +1083,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
 * [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
+* [C++ Cookbook](https://drive.google.com/file/d/10MlTMqhpw07uDcT5HRb1qZioyXzaeBUP/view?usp=sharing)
 
 
 ### Chapel

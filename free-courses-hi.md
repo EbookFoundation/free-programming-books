@@ -2,8 +2,7 @@
 
 * [C](#C)
 * [C++](#C++)
-* [Python](#Python)
-* [Javascript](#Javascript)
+
 
 
 ### C

@@ -81,7 +81,7 @@
 
 ### TypeScript
 * [E-Book TypeScript](https://masputih.com/2016/05/e-book-belajar-typescript)
-* [Mengenal TypeScrip](https://medium.com/@musliadi/memulai-belajar-typescript-763f37727b31)
+* [Mengenal TypeScript](https://medium.com/@musliadi/memulai-belajar-typescript-763f37727b31)
 
 ### JavaScript
 

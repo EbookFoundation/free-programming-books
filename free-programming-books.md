@@ -1777,6 +1777,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
+* [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook)
 
 
 #### Redux

@@ -80,7 +80,7 @@
 * [Belajar Java Lambda Expression](https://www.youtube.com/playlist?list=PL-CtdCApEFH_71iT2klDSWIC0MScpLheN) - Programmer Zaman Now
 
 ### TypeScript
-* [E-Book TypeScript](https://informaticslibrary.com/wp-content/uploads/2019/03/belajar-typescript.pdf&ved=2ahUKEwjzuefE2qfsAhUObn0KHQ0sDYYQFjAOegQIBxAB&usg=AOvVaw0iDUQIUqG1nHaB7kEkOAW6&cshid=1602253338681)
+* [E-Book TypeScript](https://masputih.com/2016/05/e-book-belajar-typescript)
 * [Mengenal TypeScrip](https://medium.com/@musliadi/memulai-belajar-typescript-763f37727b31)
 
 ### JavaScript

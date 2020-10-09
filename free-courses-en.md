@@ -212,6 +212,7 @@
 * [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
+* [HTML5 Cookbook](https://www.pdfdrive.com/html5-cookbook-oreilly-cookbooks-e162234171.html) - Christopher Schmitt & Kyle Simpson
 
 
 ### iOS
@@ -245,6 +246,7 @@
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
+* [Secrets of the JavaScript Ninja, Second Edition](https://www.pdfdrive.com/secrets-of-the-javascript-ninja-second-edition-e44753452.html) - John Resig 
 
 
 #### Angular.js

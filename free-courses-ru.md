@@ -4,8 +4,8 @@
 * [Haskell](#haskell)
 * [Java](#java)
 * [Javascript](#javascript)
-  * [React](#react)
   * [Node.js](#nodejs)
+  * [React](#react)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
@@ -40,16 +40,16 @@ ADV - продвинутый. Тонкости.
 * [Основы программирования](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0) - Тимур Шемсединов (INT)
 
 
+#### Node.js
+
+* [Node.js введение в технологию](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ) - Тимур Шемсединов (INT)
+
+
 #### React
 
 * [React.js курс для начинающих](https://max-frontend.gitbook.io/react-course-ru-v2/) (BEG)
 * [Роутинг в react-приложениях](https://max-frontend.gitbook.io/react-router-course-ru/) (INT)
 * [Туториал по Redux](https://max-frontend.gitbook.io/redux-course-ru-v2/) (INT)
-
-
-#### Node.js
-
-* [Node.js введение в технологию](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ) - Тимур Шемсединов (INT)
 
 
 ### PHP

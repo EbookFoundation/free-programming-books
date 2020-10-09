@@ -12,6 +12,16 @@ This program is powered by edx and It is 12 week long program.
 * How to develop and present a final programming project to your peers
 
 
+### Instructors
+* David J. Malan
+> Gordon McKay Professor of the Practice of Computer Science. Harvard University
+* Doug Lloyd
+> Senior Preceptor in Computer Science. Harvard University
+* Brian Yu
+> Senior Preceptor in Computer Science. Harvard University
+
+
+
 ### link
 
 [course By edx](https://www.edx.org/course/cs50s-introduction-to-computer-science)

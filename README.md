@@ -66,6 +66,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [English](free-courses-en.md)
 + [Finnish](free-courses-fi.md)
 + [German / Deutsch](free-courses-de.md)
++ [Hindi / हिंदी](free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](free-courses-id.md)
 + [Italian / italiano](free-courses-it.md)
 + [Korean / 한국어 [韓國語]](free-courses-ko.md)

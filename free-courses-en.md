@@ -241,12 +241,12 @@
 
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
 * [Egghead.io](https://egghead.io)
+* [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
-* [learn:query](https://learnquery.infinum.co)
-* [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution
 * [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=2s) - freeCodeCamp.org
+* [learn:query](https://learnquery.infinum.co)
 
 
 #### Angular.js
@@ -269,10 +269,10 @@
 
 #### React
 
+* [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 * [The Road to learn React.js The Bare Essentials Packaage](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)
-* [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) 
-
+ 
 
 #### Redux
 

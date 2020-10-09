@@ -22,7 +22,6 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
-  * [GraphQL](#graphql)
   * [jQuery](#jquery)
   * [React](#react)
   * [Redux](#redux)

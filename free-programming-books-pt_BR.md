@@ -9,6 +9,7 @@
 * [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
+  * [Arquitetura de Software](#arquitetura-de-software)
   * [Outros](#outros)
 * [Git](#git)
 * [Go](#go)
@@ -89,6 +90,11 @@
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
 
+
+#### Arquitetura de Software
+ * [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/)   
+ * [Microservices architecture](https://docs.microsoft.com/dotnet/architecture/microservices/)   
+ * [Modernizing existing .NET apps](https://docs.microsoft.com/dotnet/architecture/modernize-with-azure-containers/)   
 
 #### Outros
 

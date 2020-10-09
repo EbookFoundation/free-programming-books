@@ -1,8 +1,7 @@
 ### Index
 
-* [Frontend](#frontend)
-
+-   [Frontend](#frontend)
 
 ### Frontend
 
-* [WeCodeSign Podcast](http://wecodesignpodcast.com) (podcast)
+-   [WeCodeSign Podcast](http://wecodesignpodcast.com) (podcast)

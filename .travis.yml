@@ -3,12 +3,11 @@ dist: xenial
 os: linux
 
 jobs:
-  include:
-    -
-      language: node_js
-      node_js:
-        - 6
-      before_script:
-        - npm install -g free-programming-books-lint
-      script:
-        - fpb-lint .
+    include:
+        - language: node_js
+          node_js:
+              - 6
+          before_script:
+              - npm install -g free-programming-books-lint
+          script:
+              - fpb-lint .

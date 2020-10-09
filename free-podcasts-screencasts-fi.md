@@ -1,4 +1,4 @@
 # Podcastit
 
-* [Prochat](https://podtail.com/fi/podcast/prochat)
+* [Prochat - Identio](https://podtail.com/fi/podcast/prochat)
 * [Webbidevaus](https://webbidevaus.fi)

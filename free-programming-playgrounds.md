@@ -15,6 +15,7 @@
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
+* [Misc](#misc)
 * [.Net](#dotnet)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
@@ -119,6 +120,10 @@
 * [Katakoda](https://www.katacoda.com/courses/kubernetes/playground)
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
 
+
+### Misc
+
+* [Repl.it](https://repl.it/)
 
 ### <a name="dotnet"></a>.NET
 

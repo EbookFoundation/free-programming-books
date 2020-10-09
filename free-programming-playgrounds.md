@@ -151,7 +151,7 @@
 
 * [Codepad](http://codepad.org)
 * [Python.org Shell](https://www.python.org/shell)
-
+* [Python Trinket](https://trinket.io/python)
 
 ### R
 

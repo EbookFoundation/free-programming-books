@@ -20,6 +20,7 @@
 * [Python](#python)
   * [Django](#django)
   * [Flask](#flask)
+  * [PyTorch](#pytorch)
 * [Redis](#redis)
 
 
@@ -60,7 +61,6 @@
 
 * [Belajar Go-Lang untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw) - Programmer Zaman Now
 * [Belajar Golang Basic Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm) - Sekolah Koding
-* [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com) - Noval Agung
 
 
 ### HTML / CSS
@@ -160,6 +160,11 @@
 
 * [Membuat website dengan Flask](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZwaY3F4bHikozOBzrFD_R) - Sekolah Koding
 * [Tutorial web dengan flask sampai mahir](https://www.youtube.com/playlist?list=PL5vG7_Y90KtxXH4YhDcb5m4n82ShAPnPc) - Toufan RA
+
+
+### PyTorch
+
+* [PyTorch untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwvMCvaX_4POywGiw4TFuHp1) - NgodingPython
 
 
 ### Redis

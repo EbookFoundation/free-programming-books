@@ -7,6 +7,7 @@
 * [HTML & CSS](#html-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [TypeScript](#typescript)
 * [PHP](#php)
 * [Python](#python)
 * [Vue](#vue)
@@ -51,6 +52,9 @@
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 
+### TypeScript
+* [Mengenal TypeScript](https://medium.com/@musliadi/memulai-belajar-typescript-763f37727b31)
+* [Ebook TypeScript](https://www.google.com/url?sa=t&source=web&rct=j&url=https://informaticslibrary.com/wp-content/uploads/2019/03/belajar-typescript.pdf&ved=2ahUKEwjzuefE2qfsAhUObn0KHQ0sDYYQFjAOegQIBxAB&usg=AOvVaw0iDUQIUqG1nHaB7kEkOAW6&cshid=1602253338681)
 
 ### Node.js
 

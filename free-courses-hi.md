@@ -6,12 +6,12 @@
 
 ### C
 
-* [All C Concepts | Hindi](https://www.youtube.com/watch?v=08vc8DQZWz4&list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
+* [C Language Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - Harry
 
 
 ### C++
 
-* [The Complete C++ Course | Hindi](https://www.youtube.com/watch?v=Iuo9PpGE04Y&list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+* [C++ Tutorial For Beginners: Learn C Plus Plus In Hindi](https://www.youtube.com/watch?v=yGB9jhsEsr8) - Harry
 
 
 ### Python

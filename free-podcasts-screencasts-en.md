@@ -267,10 +267,10 @@
 * [Python Test Podcast](http://pythontesting.net/test-podcast) (podcast)
 * [Python Test Podcast](http://pythontesting.net/test-podcast) (podcast)
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) (screencast)
+* [The Real Python Podcast](https://realpython.com/podcasts/rpp/) (podcast)
 * [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq) (screencast)
 * [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) (screencast)
 * [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d) (screencast)
-* [The Real Python Podcast](https://realpython.com/podcasts/rpp/) (podcast)
 * [TheNewBoston - Python Programming Tutorials - 2.x](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA) (screencast)
 * [Try Django Tutorial](http://youtu.be/3DccH9AMwFQ?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx) (screencast)
 

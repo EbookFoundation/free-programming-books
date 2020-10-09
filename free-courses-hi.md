@@ -1,8 +1,7 @@
 ### Index
 * [C](#C)
 * [C++](#C++)
-* [Python](#Python)
-* [Javascript](#Javascript)
+
 ### C
 * [All C Concepts | Hindi](https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
 ### C++

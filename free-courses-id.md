@@ -8,6 +8,7 @@
 * [Go](#go)
 * [HTML / CSS](#html--css)
 * [Java](#java)
+* [TypeScript](#typescript)
 * [JavaScript](#javascript)
   * [React](#react)
   * [Vue](#vue)
@@ -78,6 +79,9 @@
 * [Belajar Java Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) - Kelas Terbuka
 * [Belajar Java Lambda Expression](https://www.youtube.com/playlist?list=PL-CtdCApEFH_71iT2klDSWIC0MScpLheN) - Programmer Zaman Now
 
+### TypeScript
+* [E-Book TypeScript](https://informaticslibrary.com/wp-content/uploads/2019/03/belajar-typescript.pdf&ved=2ahUKEwjzuefE2qfsAhUObn0KHQ0sDYYQFjAOegQIBxAB&usg=AOvVaw0iDUQIUqG1nHaB7kEkOAW6&cshid=1602253338681)
+* [Mengenal TypeScrip](https://medium.com/@musliadi/memulai-belajar-typescript-763f37727b31)
 
 ### JavaScript
 

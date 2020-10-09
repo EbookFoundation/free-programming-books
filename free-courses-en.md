@@ -177,7 +177,6 @@
 ### Game Development
 
 * [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)
-* [Roblox Quick Start](https://developer.roblox.com/en-us/quick-start)(Roblox Developer Hub)
 
 
 ### Git

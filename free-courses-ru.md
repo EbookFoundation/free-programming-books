@@ -3,16 +3,18 @@
 * [Clojure](#clojure)
 * [Haskell](#haskell)
 * [Java](#java)
+* [Javascript](#javascript)
+  * [Node.js](#nodejs)
+  * [React](#react)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
-* [React](#react)
 
 
 ### Уровни
 
-BEG - новичок. Основы.  
-INT - средний. Расширенные возможности.  
+BEG - новичок. Основы.
+INT - средний. Расширенные возможности.
 ADV - продвинутый. Тонкости.
 
 
@@ -34,6 +36,23 @@ ADV - продвинутый. Тонкости.
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
 
 
+### Javascript
+
+* [Основы программирования](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0) - Тимур Шемсединов (INT)
+
+
+#### Node.js
+
+* [Node.js введение в технологию](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ) - Тимур Шемсединов (INT)
+
+
+#### React
+
+* [React.js курс для начинающих](https://max-frontend.gitbook.io/react-course-ru-v2/) (BEG)
+* [Роутинг в react-приложениях](https://max-frontend.gitbook.io/react-router-course-ru/) (INT)
+* [Туториал по Redux](https://max-frontend.gitbook.io/redux-course-ru-v2/) (INT)
+
+
 ### PHP
 
 * [Основы программирования на PHP](https://code-basics.ru/languages/php) (BEG) (:construction: *in process*)
@@ -49,15 +68,8 @@ ADV - продвинутый. Тонкости.
 
 ### Python
 
-* [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG) 
+* [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG)
 * [Python: основы и применение](https://stepik.org/course/512) - Stepik (INT)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
 * [Программирование на Python](https://stepik.org/course/67) - Stepik (BEG)
-
-
-### React
-
-* [React.js курс для начинающих](https://max-frontend.gitbook.io/react-course-ru-v2/) (BEG)
-* [Роутинг в react-приложениях](https://max-frontend.gitbook.io/react-router-course-ru/) (INT)
-* [Туториал по Redux](https://max-frontend.gitbook.io/redux-course-ru-v2/) (INT)
 

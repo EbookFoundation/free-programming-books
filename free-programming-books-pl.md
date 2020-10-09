@@ -129,7 +129,6 @@
 
 ### Perl
 
-* [Kurs PERL](cyberpunk.e-spin.pl/86,41,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PERL)
 * [Perl](https://pl.wikibooks.org/wiki/Perl) - Wikibooks
 
 

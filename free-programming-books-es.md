@@ -310,6 +310,7 @@
 #### Django
 
 * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/) (1.11) (HTML) (:construction: *in process*)
+* [Tutorial de introducción a Django: Escribe tu primera aplicación Web usando Django](https://www.academia.edu/14337010/Tutorial_de_introducci%C3%B3n_a_Django_Escribe_tu_primera_aplicaci%C3%B3n_Web_usando)(HTML)
 
 
 #### Web2py

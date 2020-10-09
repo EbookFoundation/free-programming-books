@@ -134,6 +134,7 @@
 * [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44)
 * [Programación orientada a objetos](https://www.edx.org/es/course/programacion-orientada-objetos-mexicox-upevipn02x)
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
+* [Programación para principiantes - primeros pasos](https://www.udemy.com/course/programacion-para-principiantes)
 
 
 ### Programación Web & Móvil

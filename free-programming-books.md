@@ -8,6 +8,7 @@
 * [APL](#apl)
 * [Arduino](#arduino)
 * [ASP.NET](#aspnet)
+* [ASP.NET Core](#aspnetcore)
 * [Assembly Language](#assembly-language)
   * [Non-X86](#non-x86)
 * [AutoHotkey](#autohotkey)
@@ -919,6 +920,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [ASP.NET Core 2 Succinctly](https://www.syncfusion.com/ebooks/aspnet-core-2-succinctly) - Simone Chiaretta, Ugo Lattanzi
 * [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com)
 * [ASP.NET WebHooks Succinctly](https://www.syncfusion.com/ebooks/aspnet_webhooks_succinctly) - Gaurav Arora
+
+
+### ASP.NET Core
+
+* [ASP .NET Core A-Z](https://github.com/shahedc/NetLearnerApp/blob/main/experimental/DocMaker/chapters/_combined-ebook.pdf) - Shahed C
 
 
 ### Assembly Language

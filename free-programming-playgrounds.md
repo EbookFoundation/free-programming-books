@@ -150,6 +150,7 @@
 ### Python
 
 * [Codepad](http://codepad.org)
+* [Python.org Shell](https://www.python.org/shell)
 
 
 ### R

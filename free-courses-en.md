@@ -210,9 +210,9 @@
 * [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
 * [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
+* [HTML5 Cookbook](https://www.pdfdrive.com/html5-cookbook-oreilly-cookbooks-e162234171.html) - Christopher Schmitt & Kyle Simpson
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
-* [HTML5 Cookbook](https://www.pdfdrive.com/html5-cookbook-oreilly-cookbooks-e162234171.html) - Christopher Schmitt & Kyle Simpson
 
 
 ### iOS

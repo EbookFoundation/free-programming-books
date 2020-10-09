@@ -217,6 +217,7 @@
 ### iOS
 
 * [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
+* [CS193p Developing Apps for IOS](https://cs193p.sites.stanford.edu) - Stanford
 * [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
 

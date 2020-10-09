@@ -6,9 +6,10 @@
 
 ### Android
 
-* [Въведение в Андроид](https://www.youtube.com/playlist?list=PLjsqymUqgpSTXtlngZCXRHEp8-FmDHHfL) - Иван Ванков
+* [Introduction to Android](https://www.youtube.com/playlist?list=PLjsqymUqgpSTXtlngZCXRHEp8-FmDHHfL) - Ivan Vankov
 
 
 ### PHP
 
-* [Обектно ориентирано програмиране с PHP](https://www.youtube.com/playlist?list=PL1zMmEDXa_Z8uHtKAl-zSrBFDRNq8JDFG) - Иван Ванков
+* 
+[Object oriented programming with PHP](https://www.youtube.com/playlist?list=PL1zMmEDXa_Z8uHtKAl-zSrBFDRNq8JDFG) - Ivan Vankov

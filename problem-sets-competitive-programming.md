@@ -2,6 +2,7 @@
 
 * [Competitive Programming](#competitive-programming)
 * [Data science](#data-science)
+* [Information security](#information-security)
 * [Problem Sets](#problem-sets)
 
 
@@ -29,11 +30,19 @@
 * [Microcorruption](https://microcorruption.com/login)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
+* [Toph](https://toph.co)
+* [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
 
 ### Data science
 
 * [Kaggle](https://www.kaggle.com)
+
+
+### Information security
+
+* [ångstromCTF](https://angstromctf.com)
+* [CTFtime](https://ctftime.org)
 
 
 ### Problem Sets

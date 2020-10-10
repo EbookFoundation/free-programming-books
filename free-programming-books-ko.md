@@ -17,6 +17,7 @@
   * [Django](#django)
   * [Flask](#flask)
 * [R](#r)
+* [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Scratch](#scratch)
 * [Swift](#swift)
@@ -93,14 +94,15 @@
 
 #### Laravel
 
-* [라라벨 (Laravel) 5 입문 및 실전 강좌](http://l5.appkr.kr)
+* [라라벨 (Laravel) 5 입문 및 실전 강좌](https://github.com/appkr/l5essential)
 * [쉽게 배우는 라라벨 5 프로그래밍](https://www.lesstif.com/display/laravelprog)
 
 
 ### Python
 
 * [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
-* [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/006855/)
+* [내가 파이썬을 배우는 방법](https://wikidocs.net/7839)
+* [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
 
@@ -119,6 +121,11 @@
 
 * [R을 이용한 데이터 처리 & 분석 실무](http://r4pda.co.kr) - 서민구 (HTML, PDF - 이전 버젼)
 * [The R Manuals (translated in Korean)](http://www.openstatistics.net)
+
+
+### Raspberry Pi
+
+* [라즈베리 파이 문서](https://wikidocs.net/book/483)
 
 
 ### Ruby

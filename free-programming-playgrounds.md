@@ -4,12 +4,17 @@
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
 * [CSS](#css)
+* [Dart](#dart)
+* [Docker](#docker)
 * [Elm](#elm)
-* [FlexBox](#flexbox)
+* [Flutter](#flutter)
 * [Go](#go)
 * [Haskell](#haskell)
+* [Ionic](#ionic)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
@@ -17,16 +22,22 @@
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
+* [React](#react)
+* [Redis](#redis)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [RxJS](#rxjs)
 * [Scala](#scala)
 * [SQL](#sql)
+* [Svelte](#svelte)
 * [Swift](#swift)
+* [TypeScript](#typescript)
 
 
 ### Angular
 
 * [Plunker](http://plnkr.co)
+* [StackBlitz](https://stackblitz.com/fork/angular)
 
 
 ### ClojureScript
@@ -41,10 +52,22 @@
 
 ### CSS
 
-* [CodePen](http://codepen.io)
+* [CodePen](https://codepen.io)
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
+* [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
+
+
+### Dart
+
+* [DartPad](https://dartpad.dev)
+
+
+### Docker
+
+* [Katakoda](https://www.katacoda.com/courses/docker/playground)
+* [Play with Docker](https://labs.play-with-docker.com)
 
 
 ### Elm
@@ -52,9 +75,9 @@
 * [Ellie](https://ellie-app.com)
 
 
-### FlexBox
+### Flutter
 
-* [Echoplex](http://the-echoplex.net/flexyboxes/)
+* [Codepen](https://codepen.io/topic/flutter/templates)
 
 
 ### Go
@@ -67,10 +90,20 @@
 * [Try Haskell](https://www.tryhaskell.org)
 
 
+### Ionic
+
+* [StackBlitz](https://stackblitz.com/fork/ionic)
+
+
+### Java
+
+* [repl.it](https://repl.it) (_including a separate Java/Swing_)
+
+
 ### JavaScript
 
-* [CodePen](http://codepen.io)
-* [CodeSandbox.io](https://codesandbox.io) (_React_)
+* [CodePen](https://codepen.io)
+* [CodeSandbox.io](https://codesandbox.io)
 * [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
@@ -79,7 +112,13 @@
 
 ### Kotlin
 
-* [Kotlin](https://try.kotlinlang.org)
+* [Kotlin](https://play.kotlinlang.org)
+
+
+### Kubernetes
+
+* [Katakoda](https://www.katacoda.com/courses/kubernetes/playground)
+* [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
 ### <a name="dotnet"></a>.NET
@@ -112,12 +151,24 @@
 ### Python
 
 * [Codepad](http://codepad.org)
-* [Pyfiddle](https://pyfiddle.io)
+* [Python Trinket](https://trinket.io/python)
+* [Python.org Shell](https://www.python.org/shell)
 
 
 ### R
 
 * [R-Fiddle](http://www.r-fiddle.org)
+
+
+### React
+
+* [CodeSandbox.io](https://codesandbox.io)
+* [StackBlitz](https://stackblitz.com/fork/react)
+
+
+### Redis
+
+* [Try Redis](https://try.redis.io)
 
 
 ### Ruby
@@ -130,6 +181,11 @@
 * [Rust Playground](http://play.integer32.com)
 
 
+### RxJS
+
+* [StackBlitz](https://stackblitz.com/fork/rxjs)
+
+
 ### Scala
 
 * [ScalaFiddle.io](https://scalafiddle.io)
@@ -139,9 +195,22 @@
 
 ### SQL
 
+* [Extends Class](https://extendsclass.com/sqlite-browser.html)
 * [SQLFiddle](http://sqlfiddle.com)
+
+
+### Svelte
+
+* [StackBlitz](https://stackblitz.com/fork/svelte)
+* [Svelte REPL](https://svelte.dev/repl)
 
 
 ### Swift
 
 * [Online Swift Playground](http://online.swiftplayground.run)
+
+
+### TypeScript
+
+* [Playground](https://www.typescriptlang.org/play/index.html)
+* [StackBlitz](https://stackblitz.com/fork/typescript)

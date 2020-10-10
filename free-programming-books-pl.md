@@ -43,7 +43,7 @@
 
 ### Bash
 
-* [Kurs Bash'a](http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
+* [Kurs Bash'a](http://web.archive.org/web/20180129013729/http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
 
 
 ### C

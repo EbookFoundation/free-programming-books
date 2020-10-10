@@ -47,7 +47,7 @@
 * [Software Engineering](#software-engineering)
 * [SQL](#sql)
 * [Swift](#swift)
-  * [Vapor](#vapor)
+* [Vapor](#vapor)
 * [Theory](#theory)
 * [TypeScript](#typescript)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)

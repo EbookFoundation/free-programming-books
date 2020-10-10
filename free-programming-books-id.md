@@ -1,17 +1,27 @@
 ### Index
 
-* [Android](#android)
-* [Git](#git)
-* [Go](#go)
-* [HTML & CSS](#html-css)
-* [JavaScript](#javascript)
-* [PHP](#php)
-* [Python](#python)
+- [Index](#index)
+- [Android](#android)
+- [C++](#c)
+- [Git](#git)
+- [Go](#go)
+- [HTML CSS](#html-css)
+- [JavaScript](#javascript)
+- [Node.js](#nodejs)
+- [NoSQL](#nosql)
+- [Pemrograman Fungsional](#pemrograman-fungsional)
+- [PHP](#php)
+- [Python](#python)
 
 
 ### Android
 
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
+
+
+### C++
+
+* [Koding C++ Dengan Qt](https://leanpub.com/koding-cpp-qt)
 
 
 ### Git
@@ -28,12 +38,14 @@
 ### HTML CSS
 
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
+* [HTML & CSS: Buat Websitemu Sendiri ](https://leanpub.com/html-css--buat-webistemu-sendiri)
 
 
 ### JavaScript
 
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
+* [Belajar TypeScript](https://leanpub.com/belajar-typescript)
 
 
 ### Node.js
@@ -44,6 +56,11 @@
 ### NoSQL
 
 * [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/pengantar-mongodb/content/)
+
+
+### Pemrograman Fungsional
+
+* [Pemrograman Fungsional untuk Rakyat Jelata dengan Scalaz](https://leanpub.com/fpmortals-id)
 
 
 ### PHP

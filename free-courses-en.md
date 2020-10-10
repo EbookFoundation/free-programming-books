@@ -231,7 +231,6 @@
 * [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
 * [Java for Mobile Devices - Introducing Codename One](https://codenameone.teachable.com/p/java-for-mobile-devices-introducing-codename-one)
 * [Java Online Training | Edureka](https://www.youtube.com/watch?v=hBh_CC5y8-s) - (Edureka)
-* [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
 * [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/)
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)

@@ -166,7 +166,7 @@
 #### mongoDB
 
 * [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb/index.htm) 
-* [MongoDB University](https://university.mongodb.com/)
+* [MongoDB University](https://university.mongodb.com)
 
 
 #### mySql

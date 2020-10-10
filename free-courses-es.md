@@ -109,8 +109,8 @@
 * [Presentaciones eficaces (2012)](https://ocw.unican.es/course/view.php?id=188)
 * [Presentaciones eficaces con PowerPoint](https://www.edx.org/es/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0)
 * [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-)
-* [VBA Access - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/vba-access/)
-* [VBA Excel - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/vba-excel/)
+* [VBA Access - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/vba-access)
+* [VBA Excel - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/vba-excel)
 * [Word Avanzado 2010 - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/word-avanzado-2010)
 
 

@@ -138,7 +138,7 @@
 
 ### Compilers
 
-* [Stanford's Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+* [Stanford's Compilers](https://www.edx.org/course/compilers)
 
 
 ### Cuda

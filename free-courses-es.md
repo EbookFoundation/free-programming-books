@@ -118,6 +118,7 @@
 
 * [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31)
 * [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74)
+* [Introducción a la programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=11663)
 * [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java)
 * [Introducción a la programación para ciencias e ingieniería](https://miriadax.net/web/introduccion-programacion-ciencias-ingenieria-2edicion)
 * [Introducción a la programación, Python I](https://www.coursera.org/learn/aprendiendo-programar-python)
@@ -125,7 +126,9 @@
 * [Introducción a Perl(2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=43)
 * [Introducción al desarrollo web - iDesWeb](https://miriadax.net/web/introduccion_desarrollo_web)
 * [Introducción al tratamiento de datos con R y Rstudio](https://miriadax.net/web/aprende-r-rstudio)
+* [Lógica de programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929)
 * [Programación en C/C++ y Aplicaciones Matemáticas (2011)](http://ocw.um.es/ciencias/programacion-en-c-c-y-aplicaciones-matematicas)
+* [Programador en C#](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=12989)
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)
 * [Programación en lenguaje ADA (2010)](https://ocw.unican.es/course/view.php?id=185)
 * [Programación en lenguaje Java](http://ocw.uc3m.es/historico/programacion-java)
@@ -133,6 +136,7 @@
 * [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=26)
 * [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44)
 * [Programación orientada a objetos](https://www.edx.org/es/course/programacion-orientada-objetos-mexicox-upevipn02x)
+* [Programador orientado a objetos](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4244)
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
 
 
@@ -219,6 +223,7 @@
 ### Videojuegos
 
 * [Desarrollo de Apps sin saber programación](https://campusvirtual.ull.es/ocw/course/view.php?id=128)
+* [Desarrollador de videojuegos - Capacitate para el empleo](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=6226)
 * [Diseño, organización y evaluación de videojuegos y gamificación](https://miriadax.net/web/diseno-organizacion-y-evaluacion-de-videojuegos-y-gamificacion-3-edicion-_201604220800)
 * [Introducción a la gamificación sobre casos prácticos](https://miriadax.net/web/introduccion-a-la-gamificacion-a-traves-de-casos-practicos)
 * [Introducción al desarrollo de videojuegos con Unity](https://www.edx.org/course/introduccion-al-desarrollo-de-upvalenciax-uny201-x-1)

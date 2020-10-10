@@ -26,6 +26,7 @@
 
 ### Databases
 
+* [Bóson Treinamentos - Curso de Modelagem de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD) (screencast)
 * [Curso em Vídeo - Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r) (screencast)
 * [DatabaseCast](http://databasecast.com.br) (podcast)
 

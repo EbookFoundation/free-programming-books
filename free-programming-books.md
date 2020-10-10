@@ -1324,6 +1324,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
+* [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Jenny Bryan
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
 * [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley

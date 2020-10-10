@@ -231,6 +231,7 @@
 ### Web & Webmaster
 
 * [Búsqueda y Gestión de la Información en la Web](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion-en-la-web-3-edicion-)
+* [Como crear y administrar un curso en MOODLE - TecNMx](https://mooc.tecnm.mx/courses/course-v1:TecNMx+CCACM-2+2020_T2/about)
 * [Encontrando tesoros en la red](https://miriadax.net/web/encontrando-tesoros-en-la-red-4-edicion-)
 * [La Web Semántica](https://www.coursera.org/learn/web-semantica)
 * [Publicidad en línea. Campañas en Facebook y Adwords](https://miriadax.net/web/publicidad-en-linea-campanas-en-facebook-y-adwords-2-edicion-)

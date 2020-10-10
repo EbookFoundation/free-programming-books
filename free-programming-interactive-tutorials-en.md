@@ -51,7 +51,7 @@
 
 ### C Sharp
 
-* [Codeasy](https://codeasy.net/)
+* [Codeasy](https://codeasy.net/course/csharp_elementary)
 * [Learn C#](http://www.learncs.org)
 
 

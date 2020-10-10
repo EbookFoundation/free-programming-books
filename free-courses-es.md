@@ -15,7 +15,7 @@
 * [Robótica](#rob&#x00F3;tica)
 * [Seguridad](#seguridad)
 * [Servidores](#servidores)
-* [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos-cms)
+* [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos--cms)
 * [Técnico de Software & Hardware](#t&#x00E9;cnico-de-software--hardware)
 * [Videojuegos](#videojuegos)
 * [Web & Webmaster](#web--webmaster)
@@ -51,7 +51,7 @@
 
 
 ### Ciencias de la Computación
-  
+
 * [Arquitéctura e ingeniería de computadores](https://ocw.unican.es/course/view.php?id=162)
 * [Arquitecturas Distribuidas (2012)](http://ocw.bib.upct.es/course/view.php?id=137)
 * [Bases Matemáticas: Álgebra](https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2)
@@ -79,7 +79,7 @@
 
 
 ### Flujos de Trabajo
- 
+
 * [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
 * [Gestión de proyectos con metodologías ágiles y enfoques Lean](https://miriadax.net/web/gestion-de-proyectos-con-metodologias-agiles-y-enfoques-lean-3-edicion-)

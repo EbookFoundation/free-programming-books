@@ -130,9 +130,9 @@
 * [Programación en C/C++ y Aplicaciones Matemáticas (2011)](http://ocw.um.es/ciencias/programacion-en-c-c-y-aplicaciones-matematicas)
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)
 * [Programación en lenguaje ADA (2010)](https://ocw.unican.es/course/view.php?id=185)
-* [Programación en lenguaje Java](http://ocw.uc3m.es/historico/programacion-java)
 * [Programación en lenguaje Java (2009)](https://ocw.unican.es/course/view.php?id=217)
 * [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=26)
+* [Programación en lenguaje Java](http://ocw.uc3m.es/historico/programacion-java)
 * [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44)
 * [Programación orientada a objetos](https://www.edx.org/es/course/programacion-orientada-objetos-mexicox-upevipn02x)
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
@@ -163,7 +163,7 @@
 * [Protocolos de interconexión de redes (2012)](https://ocw.unican.es/course/view.php?id=159)
 
 
-### Redes de telefonía
+### Redes de Telefonía
 
 * [Redes de comunicaciones (2015)](https://ocw.unican.es/course/view.php?id=27)
 * [Redes telefónicas (2009)](https://ocw.unican.es/course/view.php?id=211)

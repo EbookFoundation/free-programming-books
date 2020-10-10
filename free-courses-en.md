@@ -11,10 +11,10 @@
 * [Clojure](#clojure)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
-* [Cyber Security](#cyber-security)
 * [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
+* [Ethical Hacking](#ethical-hacking)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -147,11 +147,6 @@
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
 
-### Cyber Security
-
-* [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
-
-
 ### Data Science
 
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
@@ -165,6 +160,11 @@
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
+
+
+### Ethical Hacking
+
+* [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
 
 
 ### Deep Learning

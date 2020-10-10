@@ -1059,6 +1059,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### C++
 
 * [C++ Annotations](https://fbb-git.gitlab.io/cppannotations/)
+* [C++ Cookbook](https://archive.org/details/TICPP2ndEdVolTwo)(PDF)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - Editors: Bjarne Stroustrup, Herb Sutter
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [C++ Language](http://www.cplusplus.com/doc/tutorial/)

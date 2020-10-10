@@ -1247,6 +1247,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Erlang
 
+* [BEAM Wisdoms](http://beam-wisdoms.clau.se/en/latest/) (HTML)
 * [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf) (PDF)
 * [Erlang Handbook](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
 * [Erlang Programming](https://en.wikibooks.org/wiki/Erlang_Programming) - Wikibooks (HTML)

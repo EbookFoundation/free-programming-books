@@ -11,6 +11,7 @@
 * [Clojure](#clojure)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
+* [Cyber Security](#cyber-security)
 * [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
@@ -144,6 +145,11 @@
 ### Cuda
 
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
+
+
+### Cyber Security
+
+* [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
 
 
 ### Data Science

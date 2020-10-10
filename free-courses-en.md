@@ -13,10 +13,8 @@
 * [CUDA](#cuda)
 * [Data Science](#data-science)
 * [Databases](#databases)
-  * [Relational Databases](#relational--databases)
-    * [mySql](#mySql)
-  * [Non Relational Databases](#non--relational--databases)
-    * [mongoDB](#mongoDB)
+  * [mySql](#mySql)
+  * [mongoDB](#mongoDB)
 * [Deep Learning](#deep-learning)
 * [Git](#git)
 * [Go](#go)
@@ -164,17 +162,13 @@
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 
-#### Relational Databases
-
-##### mySql
+#### mySql
 
 * [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) (Udemy)
 * [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) (Udemy)
 * [SQL Tutorial](https://www.w3schools.com/sql/)
 
-#### Non Relational Databases
-
-##### mongoDB
+#### mongoDB
 
 * [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb/index.htm) 
 * [MongoDB University](https://university.mongodb.com/)

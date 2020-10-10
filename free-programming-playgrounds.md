@@ -150,6 +150,8 @@
 ### Python
 
 * [Codepad](http://codepad.org)
+* [Python Trinket](https://trinket.io/python)
+* [Python.org Shell](https://www.python.org/shell)
 
 
 ### R
@@ -194,6 +196,7 @@
 ### Svelte
 
 * [StackBlitz](https://stackblitz.com/fork/svelte)
+* [Svelte REPL](https://svelte.dev/repl)
 
 
 ### Swift

@@ -20,4 +20,4 @@
 
 ### Python
 
-* [Helsingin yliopiston Python-ohjelmointikurssi](https://linkki.github.io/python2017/) - Ilmainen verkkokurssi
+* [Helsingin yliopiston Python-ohjelmointikurssi](https://linkki.github.io/python2017) - Ilmainen verkkokurssi

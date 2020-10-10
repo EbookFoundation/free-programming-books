@@ -23,6 +23,7 @@
 * [Python](#python)
 * [R](#r)
 * [React](#react)
+* [Redis](#redis)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [RxJS](#rxjs)
@@ -161,6 +162,11 @@
 
 * [CodeSandbox.io](https://codesandbox.io)
 * [StackBlitz](https://stackblitz.com/fork/react)
+
+
+### Redis
+
+* [Try Redis](https://try.redis.io)
 
 
 ### Ruby

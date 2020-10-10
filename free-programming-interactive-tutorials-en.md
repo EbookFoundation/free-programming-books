@@ -27,7 +27,6 @@
 * [Ocaml](#ocaml)
 * [PHP](#php)
 * [Python](#python)
-* [Redis](#redis)
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [SQL](#sql)
@@ -210,11 +209,6 @@
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
-
-
-### Redis
-
-* [Try Redis](https://try.redis.io)
 
 
 ### Ruby

@@ -1,6 +1,7 @@
 ### Index
 
 * [Competitive Programming](#competitive-programming)
+* [Competitive Programming book](#competitive-programming-book)
 * [Data science](#data-science)
 * [Information security](#information-security)
 * [Problem Sets](#problem-sets)
@@ -31,7 +32,11 @@
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
-* [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
+* [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)p
+
+### Competitive Programming book
+
+* [Competitive Programmer's Handbook for beginner]( https://cses.fi/book/book.pdf) - Antti Laaksonen (PDF)
 
 
 ### Data science
@@ -79,3 +84,4 @@
 * [Timus Online Judge](http://acm.timus.ru)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
+* [ problems from beginner level to advance level]( https://goo.gl/unDETI)

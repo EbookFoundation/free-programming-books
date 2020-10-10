@@ -268,7 +268,7 @@
 
 #### NodeJS
 
-* [Node.js Basics](https://www.youtube.com/watch?v=hQd4TCGB_nE&list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
+* [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
 
 
 #### React

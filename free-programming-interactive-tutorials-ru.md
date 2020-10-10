@@ -2,6 +2,7 @@
 
 * [Git](#git)
 * [Веб-разработка](#Веб-разработка)
+* [Python](#Python)
 
 
 ### Git
@@ -13,3 +14,8 @@
 
 * [Open source воркшопы](https://nodeschool.io/ru)
 * [Учитесь веб-разработке бесплатно!](http://codenamecrud.ru)
+
+
+### Python
+
+* [Pythontutor](https://pythontutor.ru/)

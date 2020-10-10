@@ -23,6 +23,7 @@
 
 ### Android
 
+* [Android Módulo 2 - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/android-modulo-2)
 * [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4)
 * [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1)
 * [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130)
@@ -185,7 +186,7 @@
 * [Seguridad en Redes de Comunicación (2015)](https://ocw.unican.es/course/view.php?id=28)
 * [Seguridad en Redes de Comunicaciones (2011)](http://ocw.bib.upct.es/course/view.php?id=102)
 * [Seguridad en Sistemas Informáticos (2009)](http://ocw.uv.es/ingenieria-y-arquitectura/seguridad/Course_listing)
-* [Seguridad informática práctica](sis://miriadax.net/web/seguridad-informatica-practica)
+* [Seguridad informática práctica](https://miriadax.net/web/seguridad-informatica-practica)
 * [Seguridad informática y competencias profesionales](https://ocw.uca.es/course/view.php?id=55)
 * [Seguridad, privacidad y protección de datos I (2012)](http://ocw.uv.es/ciencias-sociales-y-juridicas/seguridad-privacidad-y-proteccion-de-datos-i/Course_listing)
 

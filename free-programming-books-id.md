@@ -1,6 +1,5 @@
 ### Index
 
-* [Index](#index)
 * [Android](#android)
 * [C++](#cplusplus)
 * [Emacs](#emacs)

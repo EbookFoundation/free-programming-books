@@ -95,23 +95,23 @@
 
 ### Ofimática
 
-* [Access Básico 2010 - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/curso-access-2010-basico)
-* [Access Avanzado 2010 - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/access-2010-avanzado)
+* [Access Básico (2010)](https://www.pildorasinformaticas.es/course/curso-access-2010-basico) - Juan Díaz
+* [Access Avanzado (2010)](https://www.pildorasinformaticas.es/course/access-2010-avanzado) - Juan Díaz
 * [Creación y retoque de imágenes con software libre](https://miriadax.net/web/creacion-y-retoque-2-ed)
-* [Excel Básico 2010 - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/excel-basico)
+* [Excel Básico (2010)](https://www.pildorasinformaticas.es/course/excel-basico) - Juan Díaz
 * [Excel 1 - Básico](https://www.edx.org/course/excel-upvalenciax-xls101x-1)
-* [Excel Avanzado 2010 - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/excel-avanzado-2010)
+* [Excel Avanzado (2010)](https://www.pildorasinformaticas.es/course/excel-avanzado-2010) - Juan Díaz
 * [Excel 2 - Gestión de Datos](https://www.edx.org/course/excel-2-gestion-de-datos-upvalenciax-xls201x)
-* [Excel 2019 (Básico a Avanzado) - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/excel-2019-basico-medio-avanzado)
+* [Excel Básico a Avanzado (2019)](https://www.pildorasinformaticas.es/course/excel-2019-basico-medio-avanzado) - Juan Díaz
 * [OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice)
 * [OpenOffice Calc. Gestión de datos sobre hojas de cálculo (2014)](https://ocw.unican.es/course/view.php?id=61)
-* [PowerPoint 2013 - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/powerpoint-2013)
+* [PowerPoint (2013)](https://www.pildorasinformaticas.es/course/powerpoint-2013) - Juan Díaz
 * [Presentaciones eficaces (2012)](https://ocw.unican.es/course/view.php?id=188)
 * [Presentaciones eficaces con PowerPoint](https://www.edx.org/es/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0)
 * [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-)
-* [VBA Access - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/vba-access)
-* [VBA Excel - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/vba-excel)
-* [Word Avanzado 2010 - Píldoras Informáticas](https://www.pildorasinformaticas.es/course/word-avanzado-2010)
+* [VBA Access](https://www.pildorasinformaticas.es/course/vba-access) - Juan Díaz
+* [VBA Excel](https://www.pildorasinformaticas.es/course/vba-excel) - Juan Díaz
+* [Word Avanzado (2010)](https://www.pildorasinformaticas.es/course/word-avanzado-2010) - Juan Díaz
 
 
 ### Procesadores de lenguaje

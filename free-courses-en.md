@@ -172,7 +172,7 @@
 * [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) (Udemy)
 * [SQL Tutorial](https://www.w3schools.com/sql/)
 
-#### Relational Databases
+#### Non Relational Databases
 
 ##### mongoDB
 

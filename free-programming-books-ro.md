@@ -20,7 +20,7 @@
 ### MySQL
 
 * [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf) (PDF)
-* [PHP, MySQL, Javascript and HTML5 All-in-One for Dummies](https://khmerbamboo.files.wordpress.com/2014/09/php-mysql-javascript-html5-all-in-one-for-dummies.pdf) - Steven Suehring, Janet Valade - 2014 (PDF)
+* [PHP, MySQL, Javascript and HTML5 All-in-One for Dummies (2014)](https://khmerbamboo.files.wordpress.com/2014/09/php-mysql-javascript-html5-all-in-one-for-dummies.pdf) - Steven Suehring, Janet Valade  (PDF)
 
 
 ### PHP

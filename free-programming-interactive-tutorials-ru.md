@@ -18,4 +18,4 @@
 
 ### Python
 
-* [Pythontutor](https://pythontutor.ru/)
+* [Pythontutor](https://pythontutor.ru)

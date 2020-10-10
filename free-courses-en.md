@@ -181,7 +181,7 @@
 * [GitHowTo](https://githowto.com)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 * [Github Crash Course In English}(https://www.youtube.com/watch?v=RGOj5yH7evk)(Youtube)
-
+* [Github in 20 Minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s)(Youtube)
 
 ### Go
 

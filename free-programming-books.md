@@ -2316,6 +2316,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Think Complexity](http://greenteapress.com/complexity/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
+* [A Brain-Friendly Guide](https://www.pdfdrive.com/head-first-python-a-brain-friendly-guide-e183836129.html) - Paul Barry
 
 
 #### Django

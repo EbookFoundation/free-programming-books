@@ -47,6 +47,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Italian / italiano](free-programming-books-it.md)
 + [Japanese / 日本語](free-programming-books-ja.md)
 + [Korean / 한국어 [韓國語]](free-programming-books-ko.md)
++ [Norwegian / Norsk](free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](free-programming-books-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](free-programming-books-pl.md)
 + [Portuguese (Brazil)](free-programming-books-pt_BR.md)

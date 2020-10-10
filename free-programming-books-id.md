@@ -44,6 +44,7 @@
 ### Java
 
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
+* [Java Desktop](https://github.com/ifnu/buku-java-desktop) - Ifnu Bima
 
 
 ### JavaScript

@@ -74,7 +74,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Portuguese (Brazil)](free-courses-pt_BR.md)
 + [Russian / Русский язык](free-courses-ru.md)
 + [Spanish / español / castellano](free-courses-es.md)
-+ [Vietnamese / tiếng việt (㗂越)](free-courses-vi.md)
++ [Vietnamese / Tiếng Việt](free-courses-vi.md)
 
 
 ### Interactive Programming Resources
@@ -92,6 +92,7 @@ Free Podcasts and Screencasts:
 
 + [Czech / čeština / český jazyk](free-podcasts-screencasts-cs.md)
 + [English](free-podcasts-screencasts-en.md)
++ [Finnish / Suomi](free-podcasts-screencasts-fi.md)
 + [Portuguese (Brazil)](free-podcasts-screencasts-pt_BR.md)
 + [Russian / Русский язык](free-podcasts-screencasts-ru.md)
 + [Swedish / Svenska](free-podcasts-screencasts-se.md)

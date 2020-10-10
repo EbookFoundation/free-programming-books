@@ -23,6 +23,7 @@
 * [Python](#python)
 * [R](#r)
 * [React](#react)
+* [Redis](#redis)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [RxJS](#rxjs)
@@ -150,6 +151,7 @@
 ### Python
 
 * [Codepad](http://codepad.org)
+* [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
 
 
@@ -162,6 +164,11 @@
 
 * [CodeSandbox.io](https://codesandbox.io)
 * [StackBlitz](https://stackblitz.com/fork/react)
+
+
+### Redis
+
+* [Try Redis](https://try.redis.io)
 
 
 ### Ruby
@@ -195,6 +202,7 @@
 ### Svelte
 
 * [StackBlitz](https://stackblitz.com/fork/svelte)
+* [Svelte REPL](https://svelte.dev/repl)
 
 
 ### Swift

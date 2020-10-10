@@ -9,6 +9,8 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [CSS](#css)
+* [ES6](#es6)
+* [Go](#go)
 * [HTML](#html)
 * [Java](#java)
 * [Javascript](#javascript)
@@ -31,7 +33,7 @@
 
 ### AJAX
 
-* [Học AJAX](http://www.hoclaptrinh.org/Hoc-AJAX)
+* [Học AJAX](https://www.codehub.com.vn/Hoc-AJAX)
 
 
 ### Android
@@ -51,7 +53,7 @@
 
 ### AngularJS
 
-* [AngularJS Cơ Bản](http://www.hoclaptrinh.org/Angular-JS-Co-Ban)
+* [AngularJS Cơ Bản](https://www.codehub.com.vn/AngularJS-Co-Ban)
 * [AngularJS Cơ Bản](https://www.youtube.com/watch?v=1MOFT2_-NII&list=PLRhlTlpDUWsw70vZAkJgALJ1yhgYsqDGx) - TEDU
 
 
@@ -62,7 +64,7 @@
 
 ### Bootstrap
 
-* [Twitter Bootstrap](http://www.hoclaptrinh.org/Twitter-Bootstrap)
+* [Twitter Bootstrap](https://www.codehub.com.vn/Twitter-Bootstrap)
 
 
 ### C
@@ -92,13 +94,23 @@
 
 ### CSS
 
-* [CSS Cơ Bản](http://www.hoclaptrinh.org/CSS-Co-Ban)
+* [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban)
 * [CSS Cơ Bản](https://www.youtube.com/watch?v=_JT3jPzuqmY&list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - ThachPham
+
+
+### ES6
+
+* [ES6 Cơ Bản](https://www.codehub.com.vn/ES6-Co-Ban)
+
+
+### Go
+
+* [Golang Cơ Bản](https://www.codehub.com.vn/Golang-Co-Ban)
 
 
 ### HTML
 
-* [HTML Cơ Bản](http://www.hoclaptrinh.org/HTML-Co-Ban)
+* [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban)
 * [HTML Cơ Bản](https://www.youtube.com/watch?v=_7uda2DyR3E&list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - ThachPham
 
 
@@ -109,13 +121,13 @@
 
 ### Javascript
 
-* [Javascript Cơ Bản](http://www.hoclaptrinh.org/JavaScript-Co-Ban)
+* [Javascript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban)
 * [Javascript Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-java-script-can-ban-12.html) - TEDU
 
 
 ### jQuery
 
-* [jQuery Cơ Bản](http://www.hoclaptrinh.org/jQuery-Co-Ban)
+* [jQuery Cơ Bản](https://www.codehub.com.vn/jQuery-Co-Ban)
 * [jQuery Cơ bản](https://www.youtube.com/watch?v=AEMXXWrJmHU&index=1&list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm) - TEDU
 
 
@@ -126,18 +138,18 @@
 
 ### NodeJS
 
-* [NodeJS Cơ Bản](https://www.hoclaptrinh.org/Node-js-Co-Ban)
+* [NodeJS Cơ Bản](https://www.codehub.com.vn/Node-js-Co-Ban)
 * [NodeJS Cơ Bản](https://www.youtube.com/watch?v=3W8jskQUjnk&list=PL4VEtQ6PTTQEZp2kLIC7OE0E8OsObv0k8) - Ide Academy
 
 
 ### Objective-C
 
-* [Objective-C Cơ Bản](https://www.hoclaptrinh.org/Objective-C-Co-Ban)
+* [Objective-C Cơ Bản](https://www.codehub.com.vn/Objective-C-Co-Ban)
 
 
 ### PHP
 
-* [PHP Cơ Bản](http://www.hoclaptrinh.org/PHP-Co-Ban)
+* [PHP Cơ Bản](https://www.codehub.com.vn/PHP-Co-Ban)
 * [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/watch?v=qoZpJjc2amo&list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
 * [Tự học PHP - Căn Bản](https://www.youtube.com/watch?v=3yJeeub-6RY&list=PLv6GftO355AulVlaWLp41kieNB9dTG1_l) - ZendVN
 * [Tự học PHP - Làm việc với ASNT](https://www.youtube.com/watch?v=P5Xc6b47ICo&list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28) - ZendVN
@@ -146,7 +158,7 @@
 ### Python
 
 * [Lập trình website với Python Django](https://www.youtube.com/watch?v=VF0oC9mkkno&list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P) - Kteam
-* [Python Cơ Bản](https://www.hoclaptrinh.org/Python-Co-Ban)
+* [Python Cơ Bản](https://www.codehub.com.vn/Python-Co-Ban)
 * [Python Cơ Bản](https://www.youtube.com/watch?v=NZj6LI5a9vc&list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
 * [Python Cơ Bản](https://www.youtube.com/watch?v=FgN-mHwHLyg&list=PLyiioioEJSxEh_S_XFvG0d2xKRMSWLfN_) - DayNhauHoc
 
@@ -158,7 +170,7 @@
 
 ### Ruby
 
-* [Ruby Cơ Bản](https://www.hoclaptrinh.org/Ruby-Co-Ban)
+* [Ruby Cơ Bản](https://www.codehub.com.vn/Ruby-Co-Ban)
 
 
 ### Sass
@@ -169,7 +181,7 @@
 
 ### SQL
 
-* [SQL Cơ Bản](http://www.hoclaptrinh.org/SQL-Co-Ban)
+* [SQL Cơ Bản](https://www.codehub.com.vn/SQL-Co-Ban)
 * [SQL Cơ Bản](https://www.youtube.com/watch?v=2fanjSYVElY&list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
 
 
@@ -197,9 +209,9 @@
 
 ### Xcode
 
-* [Xcode Cơ Bản](https://www.hoclaptrinh.org/Xcode-Co-Ban)
+* [Xcode Cơ Bản](https://www.codehub.com.vn/Xcode-Co-Ban)
 
 
 ### XML
 
-* [XML Cơ Bản](https://www.hoclaptrinh.org/XML-Co-Ban)
+* [XML Cơ Bản](https://www.codehub.com.vn/XML-Co-Ban)

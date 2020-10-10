@@ -28,6 +28,7 @@
   * [Redux](#redux)
   * [Sails.js](#sailsjs)
   * [Vue.js](#vuejs)
+* [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
@@ -286,6 +287,11 @@
 ### Vue.js
 
 * [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
+
+
+### Kubernetes
+
+* [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes)
 
 
 ### Linux

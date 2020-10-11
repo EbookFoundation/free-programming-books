@@ -1034,7 +1034,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
-
+* [GNU C programming tutorial ](https://www.pdfdrive.com/the-gnu-c-programming-tutorial-c-programming-language-e25424382.html)
+* [Learn to program with C](https://www.pdfdrive.com/learn-to-program-with-c-learn-to-program-using-the-popular-c-programming-language-e166650744.html)
 
 ### C Sharp
 
@@ -1563,6 +1564,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey and Chris Mayfield
 * [Welcome to Java for Python Programmers](https://runestone.academy/runestone/books/published/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
+* [Intro to Java](https://www.pdfdrive.com/java-for-absolute-beginners-learn-to-program-the-fundamentals-the-java-9-way-e185771881.html)
+* [Android Programming with Java](https://www.pdfdrive.com/android-programming-for-beginners-learn-all-the-java-and-android-skills-you-need-to-start-making-powerful-mobile-applications-e182719860.html)
 
 
 #### Codename One
@@ -1648,7 +1651,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-
+* [Java script for beginners](https://www.pdfdrive.com/javascript-javascript-for-beginners-learn-javascript-programming-with-ease-in-half-the-time-everything-about-the-language-coding-programming-and-web-pages-you-need-to-know-e158299863.html)
 
 #### Angular.js
 
@@ -2323,8 +2326,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Think Complexity](http://greenteapress.com/complexity/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
-
-
+* [Python programming](https://www.pdfdrive.com/python-programming-an-introduction-to-computer-science-e941324.html)
+* [Python Data analysis](https://www.pdfdrive.com/python-data-analytics-data-analysis-and-science-using-pandas-matplotlib-and-the-python-programming-language-e158003322.html)
 #### Django
 
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
@@ -2730,7 +2733,13 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Unix for Poets](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+* [Linux , Unix hand book](https://www.pdfdrive.com/the-linux-programming-interface-a-linux-and-unix-system-programming-handbook-e175275640.html)
 
+
+### Game Dvelopment
+* [Unity for Beginner](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
+* [2D Game with Unity](https://www.pdfdrive.com/developing-2d-games-with-unity-independent-game-programming-with-c-e185877714.html)
+* [C# for Unity](https://www.pdfdrive.com/c-game-programming-cookbook-for-unity-3d-e51568305.html)
 
 ### Verilog
 

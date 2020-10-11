@@ -14,7 +14,6 @@
 * [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
-* [Ethical Hacking](#ethical-hacking)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -45,6 +44,7 @@
 * [Ruby](#ruby)
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
+* [Security](#security)
 * [Software Engineering](#software-engineering)
 * [SQL](#sql)
 * [Swift](#swift)
@@ -162,11 +162,6 @@
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 
 
-### Ethical Hacking
-
-* [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
-
-
 ### Deep Learning
 
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
@@ -280,6 +275,8 @@
 ### Sails.Js
 
 * [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
+
+
 
 
 ### Vue.js
@@ -423,6 +420,11 @@
 
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
+
+
+### Security
+
+* [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
 
 
 ### Software Engineering

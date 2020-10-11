@@ -15,7 +15,7 @@
 * [Robótica](#rob&#x00F3;tica)
 * [Seguridad](#seguridad)
 * [Servidores](#servidores)
-* [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos-cms)
+* [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos--cms)
 * [Técnico de Software & Hardware](#t&#x00E9;cnico-de-software--hardware)
 * [Videojuegos](#videojuegos)
 * [Web & Webmaster](#web--webmaster)
@@ -51,7 +51,7 @@
 
 
 ### Ciencias de la Computación
-  
+
 * [Arquitéctura e ingeniería de computadores](https://ocw.unican.es/course/view.php?id=162)
 * [Arquitecturas Distribuidas (2012)](http://ocw.bib.upct.es/course/view.php?id=137)
 * [Bases Matemáticas: Álgebra](https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2)
@@ -79,7 +79,7 @@
 
 
 ### Flujos de Trabajo
- 
+
 * [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
 * [Gestión de proyectos con metodologías ágiles y enfoques Lean](https://miriadax.net/web/gestion-de-proyectos-con-metodologias-agiles-y-enfoques-lean-3-edicion-)
@@ -95,14 +95,23 @@
 
 ### Ofimática
 
+* [Access Avanzado (2010)](https://www.pildorasinformaticas.es/course/access-2010-avanzado) - Juan Díaz (Píldoras Informáticas)
+* [Access Básico (2010)](https://www.pildorasinformaticas.es/course/curso-access-2010-basico) - Juan Díaz (Píldoras Informáticas)
 * [Creación y retoque de imágenes con software libre](https://miriadax.net/web/creacion-y-retoque-2-ed)
 * [Excel 1 - Básico](https://www.edx.org/course/excel-upvalenciax-xls101x-1)
 * [Excel 2 - Gestión de Datos](https://www.edx.org/course/excel-2-gestion-de-datos-upvalenciax-xls201x)
+* [Excel Avanzado (2010)](https://www.pildorasinformaticas.es/course/excel-avanzado-2010) - Juan Díaz (Píldoras Informáticas)
+* [Excel Básico (2010)](https://www.pildorasinformaticas.es/course/excel-basico) - Juan Díaz (Píldoras Informáticas)
+* [Excel Básico a Avanzado (2019)](https://www.pildorasinformaticas.es/course/excel-2019-basico-medio-avanzado) - Juan Díaz (Píldoras Informáticas)
 * [OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice)
 * [OpenOffice Calc. Gestión de datos sobre hojas de cálculo (2014)](https://ocw.unican.es/course/view.php?id=61)
+* [PowerPoint (2013)](https://www.pildorasinformaticas.es/course/powerpoint-2013) - Juan Díaz (Píldoras Informáticas)
 * [Presentaciones eficaces (2012)](https://ocw.unican.es/course/view.php?id=188)
 * [Presentaciones eficaces con PowerPoint](https://www.edx.org/es/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0)
 * [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-)
+* [VBA Access](https://www.pildorasinformaticas.es/course/vba-access) - Juan Díaz (Píldoras Informáticas)
+* [VBA Excel](https://www.pildorasinformaticas.es/course/vba-excel) - Juan Díaz (Píldoras Informáticas)
+* [Word Avanzado (2010)](https://www.pildorasinformaticas.es/course/word-avanzado-2010) - Juan Díaz (Píldoras Informáticas)
 
 
 ### Procesadores de lenguaje

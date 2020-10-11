@@ -43,6 +43,8 @@
 
 * [ångstromCTF](https://angstromctf.com)
 * [CTFtime](https://ctftime.org)
+* [inCTF](https://inctf.in/)
+* [Hacker101](https://ctf.hacker101.com/)
 
 
 ### Problem Sets

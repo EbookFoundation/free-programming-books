@@ -16,6 +16,7 @@
 * [Linux](#Linux)
 * [MongoDB](#mongodb)
 * [PHP](#php)
+	* [CodeIgniter](#codeigniter)
   * [Laravel](#laravel)
 * [Python](#python)
   * [Django](#django)
@@ -134,6 +135,12 @@
 * [Membuat Aplikasi MVC dengan PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx) - Web Programming UNPAS
 * [OOP Dasar pada PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p) - Web Programming UNPAS
 * [PHP The Right Way](https://www.youtube.com/playlist?list=PLFIM0718LjIVcKOrB2tFKi4eWYXHvS3CU) - Web Programming UNPAS
+
+
+### CodeIgniter
+
+* [Tutorial CodeIgniter 4](https://www.youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) - Web Programming UNPAS
+* [Tutorial CodeIgniter untuk pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCYh65VSFR2yzC7CuPBcAjt) - Sekolah Koding
 
 
 ### Laravel

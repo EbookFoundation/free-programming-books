@@ -1,18 +1,15 @@
 ### Index
 
-* [Algorithmes & Data Structures](#algorithms--data-structures)
+* [Algorithmes & Structures des données](#algorithmes)
 * [Android](#android)
 * [Bash / Shell](#bash--shell)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
 * [Git](#git)
-* [Go](#go)
 * [HTML / CSS](#html--css)
-* [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
   * [jQuery](#jquery)
   * [React](#react)
   * [Redux](#redux)
@@ -22,19 +19,17 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
-* [Software Engineering](#software-engineering)
 * [SQL](#sql)
 * [Swift](#swift)
-* [TypeScript](#typescript)
-* [Web Development](#web-development)
+* [SysAdmin](#sysadmin)
 
-### Algorithmes & Structures des données
+### Algorithmes
 * [Cours d'Algorithmie](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) (Formation Video)
 * [Découvrez le fonctionnement des algorithmes](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes) (OpenClassrooms, inscription nécessaire pour accéder à toutes les fonctionnalités du cours.)
 
 ### Android
 * [Développez votre première application Android](https://openclassrooms.com/fr/courses/4517166-developpez-votre-premiere-application-android) (OpenClassrooms, inscription nécessaire pour accéder à toutes les fonctionnalités du cours.)
-### Bash Shell 
+### Bash / Shell 
 * [Apprendre à utiliser le shell Bash](https://www.pierre-giraud.com/shell-bash/) (Pierre Giraud)
 
 ### C
@@ -59,7 +54,7 @@
 * [Utilisez Git et GitHub pour vos projets de développement](https://openclassrooms.com/fr/courses/5641721-utilisez-git-pour-vos-projets-de-developpement) (OpenClassrooms, inscription nécessaire pour accéder à toutes les fonctionnalités du cours.)
 * [Apprenez à utiliser la ligne de commande dans un terminal](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-terminal) (OpenClassrooms, inscription nécessaire pour accéder à toutes les fonctionnalités du cours.)
 
-### HTML - CSS
+### HTML / CSS
 * [Apprendre à coder en HTML et CSS | Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) (Pierre Giraud)
 * [Apprendre l'HTML](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX) (Grafikart)
 * [Découvrir CSS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVjTZQocrMwKicV5wsZlRpj) (Grafikart)
@@ -76,7 +71,7 @@
 * [Créez des sites web responsive avec Bootstrap 4](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-reactifs-avec-bootstrap-4) (OpenClassrooms, inscription nécessaire pour accéder à toutes les fonctionnalités du cours.)
 * [Créez des animations CSS modernes](https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes) (OpenClassrooms, inscription nécessaire pour accéder à toutes les fonctionnalités du cours.)
 * [TUTOS HTML et CSS](https://www.youtube.com/playlist?list=PLEagTQfI6nPObScwsDmTCbLuZXRYfiUM-) (PrimFX)
-
+* [Documentation du MDN](https://developer.mozilla.org/fr/) (MDN Mozilla)
 
 ### Java
 * [Cours Java](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) (Formation Video)
@@ -145,7 +140,5 @@
 * [Apprenez les fondamentaux de Swift](https://openclassrooms.com/fr/courses/4287521-apprenez-les-fondamentaux-de-swift) (OpenClassrooms, inscription nécessaire pour accéder à toutes les fonctionnalités du cours.)
 * [Faites persister vos données dans votre application iOS](https://openclassrooms.com/fr/courses/4871481-faites-persistez-vos-donnees-dans-votre-application-ios) (OpenClassrooms, inscription nécessaire pour accéder à toutes les fonctionnalités du cours.)
 
-### Web 
+### SysAdmin
 * [Développement Web - Administration Réseau](https://www.tutoriels-video.fr/category/webdev/) (Tutoriels Videos)
-* [Documentation du MDN](https://developer.mozilla.org/fr/) (MDN Mozilla)
-

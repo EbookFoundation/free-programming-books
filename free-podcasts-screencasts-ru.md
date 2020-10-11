@@ -5,6 +5,7 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
+* [Java](#java)
 * [Javascript](#javascript)
 * [Node.js](#nodejs)
 * [PHP](#php)
@@ -40,6 +41,16 @@
 ### Haskell
 
 * [Бананы и Линзы](https://bananasandlenses.net)
+
+
+### Java
+
+* [Плейлист видео по Java для новичков](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
+
+
+#### Spring
+
+* [Плейлист видео по Spring framework](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)
 
 
 ### Javascript

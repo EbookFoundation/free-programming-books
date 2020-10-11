@@ -16,7 +16,7 @@
 * [Linux](#Linux)
 * [MongoDB](#mongodb)
 * [PHP](#php)
-	* [CodeIgniter](#codeigniter)
+  * [CodeIgniter](#codeigniter)
   * [Laravel](#laravel)
 * [Python](#python)
   * [Django](#django)

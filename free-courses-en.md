@@ -301,13 +301,13 @@
 
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [Intro to Machine Learning Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) (Udacity)
+* [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) - Daniel Friedman
 * [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 * [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
-* [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
-* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David
 
 
 ### MATLAB

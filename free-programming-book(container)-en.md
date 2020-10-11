@@ -11,4 +11,4 @@
 
 ### Kubernetes
 
-* [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/) - Farhan Hasin Chowdhury (HTML)
+* [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook) - Farhan Hasin Chowdhury (HTML)

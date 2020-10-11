@@ -4,14 +4,17 @@
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
 * [CSS](#css)
+* [Dart](#dart)
+* [Docker](#docker)
 * [Elm](#elm)
-* [FlexBox](#flexbox)
+* [Flutter](#flutter)
 * [Go](#go)
 * [Haskell](#haskell)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
@@ -20,8 +23,10 @@
 * [Python](#python)
 * [R](#r)
 * [React](#react)
+* [Redis](#redis)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [RxJS](#rxjs)
 * [Scala](#scala)
 * [SQL](#sql)
 * [Svelte](#svelte)
@@ -51,6 +56,18 @@
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
+* [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
+
+
+### Dart
+
+* [DartPad](https://dartpad.dev)
+
+
+### Docker
+
+* [Katakoda](https://www.katacoda.com/courses/docker/playground)
+* [Play with Docker](https://labs.play-with-docker.com)
 
 
 ### Elm
@@ -58,9 +75,9 @@
 * [Ellie](https://ellie-app.com)
 
 
-### FlexBox
+### Flutter
 
-* [Echoplex](http://the-echoplex.net/flexyboxes/)
+* [Codepen](https://codepen.io/topic/flutter/templates)
 
 
 ### Go
@@ -95,7 +112,13 @@
 
 ### Kotlin
 
-* [Kotlin](https://try.kotlinlang.org)
+* [Kotlin](https://play.kotlinlang.org)
+
+
+### Kubernetes
+
+* [Katakoda](https://www.katacoda.com/courses/kubernetes/playground)
+* [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
 ### <a name="dotnet"></a>.NET
@@ -128,7 +151,8 @@
 ### Python
 
 * [Codepad](http://codepad.org)
-* [Pyfiddle](https://pyfiddle.io)
+* [Python Trinket](https://trinket.io/python)
+* [Python.org Shell](https://www.python.org/shell)
 
 
 ### R
@@ -142,19 +166,24 @@
 * [StackBlitz](https://stackblitz.com/fork/react)
 
 
+### Redis
+
+* [Try Redis](https://try.redis.io)
+
+
 ### Ruby
 
 * [Codepad](http://codepad.org)
 
 
-### RxJS
-
-* [StackBlitz](https://stackblitz.com/fork/rxjs)
-
-
 ### Rust
 
 * [Rust Playground](http://play.integer32.com)
+
+
+### RxJS
+
+* [StackBlitz](https://stackblitz.com/fork/rxjs)
 
 
 ### Scala
@@ -173,6 +202,7 @@
 ### Svelte
 
 * [StackBlitz](https://stackblitz.com/fork/svelte)
+* [Svelte REPL](https://svelte.dev/repl)
 
 
 ### Swift
@@ -184,4 +214,3 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
-

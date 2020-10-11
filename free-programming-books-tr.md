@@ -68,6 +68,7 @@
 
 ### Go
 
+* [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
 * [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
 
 

@@ -251,6 +251,8 @@
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
+* [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web)
+* [Watch and Code](https://watchandcode.com)
 
 
 #### Angular.js

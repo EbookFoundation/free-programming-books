@@ -1287,6 +1287,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Cookbook](https://flutter.dev/docs/cookbook)
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter/)
+* []
 
 
 ### Force.com
@@ -1531,6 +1532,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Java
 
+
 * [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman (PDF)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson (PDF)
 * [Artificial Intelligence - Foundations of Computational Agents, Second Edition](https://artint.info/2e/html/ArtInt2e.html) - David L. Poole and Alan K. Mackworth
@@ -1546,6 +1548,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli and R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Notes for Professionals](http://books.goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (3.x)
+* [Java Programming For Beginners](https://www.pdfdrive.com/download.pdf?id=186416077&h=870b9b3fe701f2691dc900d98f855276&u=cache&ext=pdf) - By Scott Sanderson (PDF)
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
 * [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
@@ -2672,6 +2675,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Hacking with Swift](https://www.hackingwithswift.com)
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
+* [Mastering Swift](https://www.pdfdrive.com/download.pdf?id=176365036&h=a02e0565156484ad7c3817e73fd87b94&u=cache&ext=pdf) (PDF)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 
 

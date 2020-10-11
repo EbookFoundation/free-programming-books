@@ -177,7 +177,7 @@
 
 ### Docker
 
-* [Learn Docker, Container Runtimes, Builders and Registries](https://www.katacoda.com/courses/container-runtimes)
+* [Learn Docker, Container Runtimes, Builders and Registries](https://www.katacoda.com/courses/container-runtimes) - Katacoda
 
 
 ### Git
@@ -291,7 +291,7 @@
 
 ### Kubernetes
 
-* [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes)
+* [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
 
 
 ### Linux

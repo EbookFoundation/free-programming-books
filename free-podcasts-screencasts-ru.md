@@ -6,6 +6,7 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [Java](#java)
+  * [Spring](#spring)
 * [Javascript](#javascript)
 * [Node.js](#nodejs)
 * [PHP](#php)

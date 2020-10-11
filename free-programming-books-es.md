@@ -272,6 +272,9 @@
 
 ### PHP
 
+* [Apuntes de Desarrollo Web centrado en PHP](https://diego.com.es/desarrollo-web) - Diego Lázaro (HTML)
+* [Apuntes para el Certificado de PHP de Zend](https://diego.com.es/certificacion-php) - Diego Lázaro (HTML)
+* [Apuntes para el Certificado de Symfony Oficial](https://diego.com.es/certificacion-symfony) - Diego Lázaro (HTML)
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) (PDF)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) (HTML)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP) (Bubok)

@@ -141,6 +141,7 @@
 * [Frontend Five](https://frontendfive.codeschool.com) (podcast)
 * [JavaScript Air](https://javascriptair.com) (podcast)
 * [JavaScript Jabber](https://devchat.tv/js-jabber) (podcast)
+* [Modern Web](https://www.thisdot.co/modern-web) (podcast)
 * [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) (screencast)
 * [Real Talk JavaScript](https://realtalkjavascript.simplecast.com) (podcast)
 * [Syntax](https://syntax.fm) (podcast)

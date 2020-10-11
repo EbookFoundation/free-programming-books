@@ -116,6 +116,8 @@
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
+* [C# Smorgasbord](https://www.filipekberg.se/2018/04/02/csharp-smorgasbord-free/) - Filip Ekberg
+* [C# Programming Yellow Book](http://www.csharpcourse.com/) - Rob Miles
 
 
 ### C++

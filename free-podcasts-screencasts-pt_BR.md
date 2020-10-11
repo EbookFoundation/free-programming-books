@@ -34,7 +34,7 @@
 ### DataScience
 
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
-* [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
+* [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
 
 
 ### HTML / CSS
@@ -85,7 +85,7 @@
 * [Curso em Vídeo - Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) (screencast)
 * [Curso em Vídeo - Python Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) (screencast)
 * [Curso em Vídeo - Python Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) (screencast)
-* [Programação Dinâmica - Introdução à Python por Projetos](https://www.youtube.com/watch?v=gDDGq7Q_YFE&list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) (screencast)
+* [Programação Dinâmica - Introdução à Python por Projetos](https://www.youtube.com/playlist?list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) (screencast)
 
 
 ### TypeScript

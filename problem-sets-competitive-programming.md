@@ -43,7 +43,7 @@
 
 * [ångstromCTF](https://angstromctf.com)
 * [CTFtime](https://ctftime.org)
-* [inCTF](https://inctf.in/)
+* [InCTF](https://inctf.in/)
 * [Hacker101](https://ctf.hacker101.com/)
 
 

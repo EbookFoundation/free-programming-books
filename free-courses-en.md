@@ -70,6 +70,7 @@
 
 ### Assembly
 
+* [Assembly Ebooks Collection](http://index-of.es/Programming/Assembly/)
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
 
@@ -293,6 +294,7 @@
 
 ### Lua
 
+* [Lua Ebooks Collection](http://index-of.es/Programming/Lua/)
 * [Lua Interactive Crash Course](http://luatut.com/crash_course.html)
 * [Lua Tutorial](http://www.tutorialspoint.com/lua/)
 
@@ -320,6 +322,7 @@
 
 ### Misc
 
+* [\*](http://index-of.es/)
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) (F. Corno - L. De Russis - A. Monge Roffarello)
@@ -361,6 +364,7 @@
 
 ### Perl
 
+* [Perl Ebooks Collection](http://index-of.es/Perl/)
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
 
 
@@ -369,6 +373,7 @@
 * [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape  (2019)
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
 * [PHP & MySQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b) - The Bad Tutorials (2015)
+* [PHP Ebooks Collection](http://index-of.es/PHP/)
 * [PHP Programming Language Tutorial - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c) - freeCodeCamp.org (2018)
 
 
@@ -418,6 +423,7 @@
 ### Ruby
 
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
+* [Ruby Ebooks Collection](http://index-of.es/Ruby/)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 

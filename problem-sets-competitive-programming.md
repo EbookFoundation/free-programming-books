@@ -32,11 +32,11 @@
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
-* [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)p
+* [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
 ### Competitive Programming book
 
-* [Competitive Programmer's Handbook for beginner]( https://cses.fi/book/book.pdf) - Antti Laaksonen (PDF)
+* [Competitive Programmers Handbook for beginner]( https://cses.fi/book/book.pdf) - Antti Laaksonen (PDF)
 
 
 ### Data science
@@ -84,4 +84,4 @@
 * [Timus Online Judge](http://acm.timus.ru)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
-* [ problems from beginner level to advance level]( https://goo.gl/unDETI)
+* [Problems from beginner level to advance level]( https://goo.gl/unDETI)  - Dr Mostafa Saad Ibrahim (Sheet)

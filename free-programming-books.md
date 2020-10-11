@@ -227,6 +227,7 @@
 * [TypeScript](#typescript)
   * [Deno](#deno)
 * [Unix](#unix)
+* [Unity](#unity)
 * [Verilog](#verilog)
 * [VHDL](#vhdl)
 * [Vim](#vim)

@@ -14,6 +14,7 @@
 * [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
+* [Game Development](#game-development)
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
@@ -24,6 +25,7 @@
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [jQuery](#jquery)
+  * [NodeJS](#nodejs)
   * [React](#react)
   * [Redux](#redux)
   * [Sails.js](#sailsjs)
@@ -46,6 +48,7 @@
 * [Ruby](#ruby)
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
+* [Security](#security)
 * [Software Engineering](#software-engineering)
 * [SQL](#sql)
 * [Swift](#swift)
@@ -140,7 +143,7 @@
 
 ### Compilers
 
-* [Stanford's Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+* [Stanford's Compilers](https://www.edx.org/course/compilers)
 
 
 ### Cuda
@@ -175,6 +178,11 @@
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
 
 
+### Game Development
+
+* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)
+
+
 ### Docker
 
 * [Learn Docker, Container Runtimes, Builders and Registries](https://www.katacoda.com/courses/container-runtimes) - Katacoda
@@ -193,6 +201,8 @@
 
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
 * [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
+* [Golang | Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) -  Pragmatic Reviews
+* [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) - FreeCodeCamp
 
 
 ### Haskell
@@ -213,6 +223,7 @@
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
 * [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/) - Chris DeLeon (Udemy)
+* [Complete HTML/CSS BootCamp](https://frontendmasters.com/bootcamp/) - FrontEnd Masters
 * [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) - Vishwas Gopinath (Udemy)
 * [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
@@ -238,6 +249,8 @@
 * [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
 * [Java for Mobile Devices - Introducing Codename One](https://codenameone.teachable.com/p/java-for-mobile-devices-introducing-codename-one)
 * [Java Online Training | Edureka](https://www.youtube.com/watch?v=hBh_CC5y8-s) - (Edureka)
+* [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
+* [My Free Java Course - Automation, Development](https://angiejones.tech/free-java-course-test-automation/) - Angie Jones
 * [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/)
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
@@ -269,6 +282,11 @@
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 
 
+#### NodeJS
+
+* [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
+
+
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
@@ -281,7 +299,7 @@
 
 #### Sails.Js
 
-* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
+* [Develop web apps in free-programming-playgrounds.md.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
 
 #### Vue.js
@@ -399,7 +417,11 @@
 * [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x) (edX)
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
+* [Python Beginners-Intermediate Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [Python Course](http://www.python-course.eu)
+* [Python Django Basics Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
+* [Python Flask Framework Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
+* [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 
@@ -433,6 +455,11 @@
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
 
 
+### Security
+
+* [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
+
+
 ### Software Engineering
 
 * [Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x#!)
@@ -449,6 +476,7 @@
 
 ### Swift
 
+* [100 days of Swift](https://www.hackingwithswift.com/100) - Hacking With Swift
 * [How To Make An App For Beginners (iOS/Swift - 2019)](https://www.udemy.com/how-to-make-an-app-for-beginners-iosswift-2019/) - Chris Ching (Udemy)
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
 

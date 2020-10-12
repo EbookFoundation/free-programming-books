@@ -5,7 +5,9 @@
 * [Bases de Datos](#bases-de-datos)
 * [Big Data](#big-data)
 * [Ciencias de la Computación](#ciencias-de-la-computaci&#x00F3;n)
+* [Control de Versiones](#control-de-versiones)
 * [Flujos de trabajo](#flujos-de-trabajo)
+* [Frameworks](#frameworks)
 * [Ofimática](#ofim&#x00E1;tica)
 * [Procesadores de lenguaje](#procesadores-de-lenguaje)
 * [Programación](#programaci&#x00F3;n)
@@ -15,7 +17,7 @@
 * [Robótica](#rob&#x00F3;tica)
 * [Seguridad](#seguridad)
 * [Servidores](#servidores)
-* [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos-cms)
+* [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos--cms)
 * [Técnico de Software & Hardware](#t&#x00E9;cnico-de-software--hardware)
 * [Videojuegos](#videojuegos)
 * [Web & Webmaster](#web--webmaster)
@@ -23,6 +25,9 @@
 
 ### Android
 
+* [Android Módulo 1](https://www.pildorasinformaticas.es/course/android-con-android-studio) - Juan Díaz (Píldoras Informáticas)
+* [Android Módulo 2](https://www.pildorasinformaticas.es/course/android-modulo-2) - Juan Díaz (Píldoras Informáticas)
+* [Android Módulo 3](https://www.pildorasinformaticas.es/course/android-modulo-3) - Juan Díaz (Píldoras Informáticas)
 * [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4)
 * [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1)
 * [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130)
@@ -39,6 +44,7 @@
 * [Bases de Datos - Curso Completo (2014)](http://ocw.uji.es/curso/317342)
 * [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163)
 * [Bases de Datos (2012)](http://ocw.uji.es/curso/4858)
+* [Curso SQL](https://www.pildorasinformaticas.es/course/curso-sql) - Juan Díaz (Píldoras Informáticas)
 * [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html)
 
 
@@ -51,7 +57,7 @@
 
 
 ### Ciencias de la Computación
-  
+
 * [Arquitéctura e ingeniería de computadores](https://ocw.unican.es/course/view.php?id=162)
 * [Arquitecturas Distribuidas (2012)](http://ocw.bib.upct.es/course/view.php?id=137)
 * [Bases Matemáticas: Álgebra](https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2)
@@ -78,8 +84,13 @@
 * [Telemática (2011)](http://ocw.bib.upct.es/course/view.php?id=101)
 
 
+### Control de Versiones
+
+* [Git & GitHub](https://www.pildorasinformaticas.es/course/curso-de-git-github) - Juan Díaz (Píldoras Informáticas)
+
+
 ### Flujos de Trabajo
- 
+
 * [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
 * [Gestión de proyectos con metodologías ágiles y enfoques Lean](https://miriadax.net/web/gestion-de-proyectos-con-metodologias-agiles-y-enfoques-lean-3-edicion-)
@@ -93,16 +104,32 @@
 * [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119)
 
 
+### Frameworks
+
+* [Curso Django](https://www.pildorasinformaticas.es/course/django) - Juan Díaz (Píldoras Informáticas)
+* [Curso Spring](https://www.pildorasinformaticas.es/course/curso-spring) - Juan Díaz (Píldoras Informáticas)
+* [Laravel](https://www.pildorasinformaticas.es/course/laravel) - Juan Díaz (Píldoras Informáticas)
+
+
 ### Ofimática
 
+* [Access Avanzado (2010)](https://www.pildorasinformaticas.es/course/access-2010-avanzado) - Juan Díaz (Píldoras Informáticas)
+* [Access Básico (2010)](https://www.pildorasinformaticas.es/course/curso-access-2010-basico) - Juan Díaz (Píldoras Informáticas)
 * [Creación y retoque de imágenes con software libre](https://miriadax.net/web/creacion-y-retoque-2-ed)
 * [Excel 1 - Básico](https://www.edx.org/course/excel-upvalenciax-xls101x-1)
 * [Excel 2 - Gestión de Datos](https://www.edx.org/course/excel-2-gestion-de-datos-upvalenciax-xls201x)
+* [Excel Avanzado (2010)](https://www.pildorasinformaticas.es/course/excel-avanzado-2010) - Juan Díaz (Píldoras Informáticas)
+* [Excel Básico (2010)](https://www.pildorasinformaticas.es/course/excel-basico) - Juan Díaz (Píldoras Informáticas)
+* [Excel Básico a Avanzado (2019)](https://www.pildorasinformaticas.es/course/excel-2019-basico-medio-avanzado) - Juan Díaz (Píldoras Informáticas)
 * [OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice)
 * [OpenOffice Calc. Gestión de datos sobre hojas de cálculo (2014)](https://ocw.unican.es/course/view.php?id=61)
+* [PowerPoint (2013)](https://www.pildorasinformaticas.es/course/powerpoint-2013) - Juan Díaz (Píldoras Informáticas)
 * [Presentaciones eficaces (2012)](https://ocw.unican.es/course/view.php?id=188)
 * [Presentaciones eficaces con PowerPoint](https://www.edx.org/es/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0)
 * [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-)
+* [VBA Access](https://www.pildorasinformaticas.es/course/vba-access) - Juan Díaz (Píldoras Informáticas)
+* [VBA Excel](https://www.pildorasinformaticas.es/course/vba-excel) - Juan Díaz (Píldoras Informáticas)
+* [Word Avanzado (2010)](https://www.pildorasinformaticas.es/course/word-avanzado-2010) - Juan Díaz (Píldoras Informáticas)
 
 
 ### Procesadores de lenguaje
@@ -116,6 +143,7 @@
 
 ### Programación
 
+* [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
 * [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31)
 * [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74)
 * [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java)
@@ -125,6 +153,13 @@
 * [Introducción a Perl(2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=43)
 * [Introducción al desarrollo web - iDesWeb](https://miriadax.net/web/introduccion_desarrollo_web)
 * [Introducción al tratamiento de datos con R y Rstudio](https://miriadax.net/web/aprende-r-rstudio)
+* [Java EE Módulo 1](https://www.pildorasinformaticas.es/course/java-ee-modulo-1) - Juan Díaz (Píldoras Informáticas)
+* [Java EE Módulo 2](https://www.pildorasinformaticas.es/course/java-ee-modulo-1/java-ee-modulo-2) - Juan Díaz (Píldoras Informáticas)
+* [Java SE Módulo 1](https://www.pildorasinformaticas.es/course/java-desde-0) - Juan Díaz (Píldoras Informáticas)
+* [Java SE Módulo 2](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-2) - Juan Díaz (Píldoras Informáticas)
+* [Java SE Módulo 3](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-3) - Juan Díaz (Píldoras Informáticas)
+* [Java SE Módulo 4](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-4) - Juan Díaz (Píldoras Informáticas)
+* [JavaScript Básico a Avanzado](https://www.pildorasinformaticas.es/course/javascript-desde-0) - Juan Díaz (Píldoras Informáticas)
 * [Programación en C/C++ y Aplicaciones Matemáticas (2011)](http://ocw.um.es/ciencias/programacion-en-c-c-y-aplicaciones-matematicas)
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)
 * [Programación en lenguaje ADA (2010)](https://ocw.unican.es/course/view.php?id=185)
@@ -134,15 +169,21 @@
 * [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44)
 * [Programación orientada a objetos](https://www.edx.org/es/course/programacion-orientada-objetos-mexicox-upevipn02x)
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
+* [Python Módulo 1](https://www.pildorasinformaticas.es/course/curso-python) - Juan Díaz (Píldoras Informáticas)
+* [Python Módulo 2](https://www.pildorasinformaticas.es/course/curso-python/curso-python-modulo-2) - Juan Díaz (Píldoras Informáticas)
 
 
 ### Programación Web & Móvil
 
 * [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing)
 * [Aprende a programar aplicaciones móviles](https://miriadax.net/web/creando-apps-aprende-a-programar-aplicaciones-moviles-4-edicion-)
+* [CSS Básico a Avanzado](https://www.pildorasinformaticas.es/course/css-avanzado-desde-0) - Juan Díaz (Píldoras Informáticas)
 * [Desarrollo de servicios en la nube con HTML5, JavaScript y node.js](https://miriadax.net/web/desarrollo-de-servicios-en-la-nube-con-html5-javascript-y-nodejs-2-edicion-)
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 * [Diseño web con HTML5+CSS](https://miriadax.net/web/diseno-web-con-html5-css-2-edicion-)
+* [HTML 5](https://www.pildorasinformaticas.es/course/html-5) - Juan Díaz (Píldoras Informáticas)
+* [PHP MySql Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql) - Juan Díaz (Píldoras Informáticas)
+* [PHP MySql Módulo 2](https://www.pildorasinformaticas.es/course/php-mysql/php-mysql-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html)
 * [Windows Phone. Introducción al desarrollo de aplicaciones móviles](https://miriadax.net/web/introduccion-al-desarrollo-de-aplicaciones-moviles-con-windows-phone-2-edicion-)
 * [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html)
@@ -185,7 +226,7 @@
 * [Seguridad en Redes de Comunicación (2015)](https://ocw.unican.es/course/view.php?id=28)
 * [Seguridad en Redes de Comunicaciones (2011)](http://ocw.bib.upct.es/course/view.php?id=102)
 * [Seguridad en Sistemas Informáticos (2009)](http://ocw.uv.es/ingenieria-y-arquitectura/seguridad/Course_listing)
-* [Seguridad informática práctica](sis://miriadax.net/web/seguridad-informatica-practica)
+* [Seguridad informática práctica](https://miriadax.net/web/seguridad-informatica-practica)
 * [Seguridad informática y competencias profesionales](https://ocw.uca.es/course/view.php?id=55)
 * [Seguridad, privacidad y protección de datos I (2012)](http://ocw.uv.es/ciencias-sociales-y-juridicas/seguridad-privacidad-y-proteccion-de-datos-i/Course_listing)
 
@@ -231,6 +272,7 @@
 ### Web & Webmaster
 
 * [Búsqueda y Gestión de la Información en la Web](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion-en-la-web-3-edicion-)
+* [Como crear y administrar un curso en MOODLE - TecNMx](https://mooc.tecnm.mx/courses/course-v1:TecNMx+CCACM-2+2020_T2/about)
 * [Encontrando tesoros en la red](https://miriadax.net/web/encontrando-tesoros-en-la-red-4-edicion-)
 * [La Web Semántica](https://www.coursera.org/learn/web-semantica)
 * [Publicidad en línea. Campañas en Facebook y Adwords](https://miriadax.net/web/publicidad-en-linea-campanas-en-facebook-y-adwords-2-edicion-)

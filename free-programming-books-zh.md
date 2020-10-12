@@ -122,7 +122,6 @@
 
 ### 其它
 
-* [OpenWrt智能、自动、透明翻墙路由器教程](https://softwaredownload.gitbooks.io/openwrt-fanqiang/content/)
 * [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
 * [深入理解并行编程](http://ifeve.com/perfbook/)
@@ -158,14 +157,12 @@
 ### 大数据
 
 * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
-* [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 * [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
 
 
 ### 操作系统
 
-* [Debian 参考手册](http://man.chinaunix.net/linux/debian/reference/reference.zh-cn.html)
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
 * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
@@ -291,7 +288,6 @@
 * [Joel谈软件](https://web.archive.org/web/20170616013024/http://local.joelonsoftware.com/wiki/Chinese_(Simplified))
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
-* [約耳談軟體(Joel on Software)](https://web.archive.org/web/20170615232349/http://local.joelonsoftware.com/wiki/首頁) (繁体中文)
 * [编码规范](https://github.com/ecomfe/spec)
 * [让开发自动化系列专栏](https://wizardforcel.gitbooks.io/ibm-j-ap)
 * [追求代码质量](https://wizardforcel.gitbooks.io/ibm-j-cq)
@@ -304,7 +300,6 @@
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
 * [Android Note(开发过程中积累的知识点)](https://github.com/CharonChui/AndroidNote)
 * [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298)
-* [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * Google Material Design 正體中文版 ([译本一](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html)，[译本二](https://github.com/1sters/material_design_zh))
@@ -321,7 +316,6 @@
 ### C
 
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
-* [C/C++ 学习教程](http://doc.lellansin.com)
 * [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
 
@@ -340,18 +334,14 @@
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
-* [C++ 基础教程](http://www.prglab.com/cms/)
-* [C++ 并发编程(基于C++11)](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/content/)
 * [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
-* [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
-* [跟我一起写Makefile](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf) (PDF)
 
 
 ### CoffeeScript
@@ -451,7 +441,7 @@
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 * [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
 * [Apache Shiro 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
-* [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+* [Google Java编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
 * [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 * [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
 * [Java 编码规范](https://github.com/waylau/java-code-conventions)
@@ -585,7 +575,7 @@
 
 ### Markdown
 
-* [Markdown 简明教程](http://www.jianshu.com/p/7bd23251da0a)
+* [Markdown 語法說明](https://markdown.tw)
 * [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
 
 
@@ -651,7 +641,6 @@
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
 * [像计算机科学家一样思考Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) - Allen B. Downey、大胖哥(翻译)
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
-* [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
 * [简明 Python 教程](https://bop.molun.net) - Swaroop C H、沈洁元(翻译)、漠伦(翻译)
 
 
@@ -737,7 +726,6 @@
 
 ### Vim
 
-* [Vim Manual(中文版)](http://man.chinaunix.net/newsoft/vi/doc/help.html)
 * [大家來學 VIM](http://www.study-area.org/tips/vim/index.html)
 
 

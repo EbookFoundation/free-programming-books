@@ -34,6 +34,7 @@
 * [LISP](#lisp)
 * [Lua](#lua)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [RegEx](#regex)
@@ -257,6 +258,11 @@
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
+
+
+#### Symfony
+
+* [Symfony 5: A Trilha Rápida](https://symfony.com/doc/5.0/the-fast-track/pt_BR/index.html)
 
 
 ### Python

@@ -412,6 +412,7 @@
 * [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
+* [Python 101 by Michael Driscoll](https://python101.pythonlibrary.org/) (Read the Docs)
 
 
 ### QB64

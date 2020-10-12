@@ -8,7 +8,6 @@
 
 ### PHP
 
-
 #### Symfony
 
 * [Symfony 5: Snel van start](https://symfony.com/doc/5.0/the-fast-track/nl/index.html)

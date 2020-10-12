@@ -152,7 +152,7 @@
 * [Web Exploitation picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-3-Web-Exploitation.pdf)
 * [Forensics picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-4-Forensics.pdf)
 * [Binary Exploitation picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-5-Binary-Exploitation.pdf)
-* [Binary Exploitation picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-6-Reversing.pdf)
+* [Reversing picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-6-Reversing.pdf)
 * [Google Ctf](https://capturetheflag.withgoogle.com)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit/)
 

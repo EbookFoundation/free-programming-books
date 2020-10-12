@@ -237,6 +237,7 @@
 * [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet) (podcast)
 * [The Web Ahead](http://5by5.tv/webahead) (podcast)
 * [The Web Platform](http://thewebplatform.libsyn.com) (podcast)
+* [Thinking with Tanay](https://anchor.fm/tanaypratap) (podcast)
 * [This Developer's Life](http://thisdeveloperslife.com) (podcast)
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) (podcast)
 * [Three Devs and a Maybe](http://threedevsandamaybe.com) (podcast)

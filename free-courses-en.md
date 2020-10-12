@@ -23,6 +23,7 @@
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [jQuery](#jquery)
+  * [NodeJS](#nodejs)
   * [React](#react)
   * [Redux](#redux)
   * [Sails.js](#sailsjs)
@@ -267,6 +268,11 @@
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 
 
+#### NodeJS
+
+* [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
+
+
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
@@ -279,7 +285,7 @@
 
 ### Sails.Js
 
-* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
+* [Develop web apps in free-programming-playgrounds.md.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
 
 ### Vue.js

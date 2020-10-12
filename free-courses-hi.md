@@ -2,9 +2,9 @@
 
 * [C](#C)
 * [C++](#C++)
-* [Python](#Python)
-* [Javascript](#Javascript)
 * [DevOps](#DevOps)
+* [Javascript](#Javascript)
+* [Python](#Python)
 
 ### C
 
@@ -16,16 +16,17 @@
 * [The Complete C++ Course | Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
 
 
-### Python
+### DevOps
 
-* [Python Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=gfDE2a7MKjA) - Harry
-* [Python Tutorial for beginners](https://www.youtube.com/watch?v=RbThHoqms3o&ab_channel=edureka%21Hindi)
+* [DevOps tutorial for beginners in Hindi](https://www.youtube.com/watch?v=7Imi2mVkpAg&ab_channel=edureka%21Hindi)
 
 
 ### Javascript
 
 * [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry
 
-### DevOps
 
-* [DevOps tutorial for beginners in Hindi](https://www.youtube.com/watch?v=7Imi2mVkpAg&ab_channel=edureka%21Hindi)
+### Python
+
+* [Python Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=gfDE2a7MKjA) - Harry
+* [Python Tutorial for beginners](https://www.youtube.com/watch?v=RbThHoqms3o&ab_channel=edureka%21Hindi)

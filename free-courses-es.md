@@ -75,7 +75,7 @@
 * [Programación Estadística, Programación en R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r)
 * [Programación Multimedia (2013)](http://ocw.uv.es/ingenieria-y-arquitectura/programacionmultimedia/Course_listing)
 * [Sistemas de Telecomunicación (2011)](http://ocw.bib.upct.es/course/view.php?id=99&topic=1)
-* [Fundamentos físicos de la informática (201 )](http://ocw.uv.es/ingenieria-y-arquitectura/1-4/Course_listing)
+* [Fundamentos físicos de la informática (2011)](http://ocw.uv.es/ingenieria-y-arquitectura/1-4/Course_listing)
 * [Telemática (2011)](http://ocw.bib.upct.es/course/view.php?id=101)
 
 

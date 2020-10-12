@@ -147,14 +147,15 @@
 
 ### Capture The Flags
 
-* [Introduction to CTF and video tutorials to various events](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-* [Cryptography picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-2-Cryptography.pdf)
-* [Web Exploitation picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-3-Web-Exploitation.pdf)
-* [Forensics picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-4-Forensics.pdf)
-* [Binary Exploitation picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-5-Binary-Exploitation.pdf)
-* [Reversing picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-6-Reversing.pdf)
-* [Google Ctf](https://capturetheflag.withgoogle.com)
-* [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit/)
+* [Binary Exploitation picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-5-Binary-Exploitation.pdf) (PDF)
+* [Capture the flags introduction and video tutorials to various events](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) (PDF)
+* [Cryptography picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-2-Cryptography.pdf) (PDF)
+* [Forensics picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-4-Forensics.pdf) (PDF)
+* [Google Ctf](https://capturetheflag.withgoogle.com) (email adress *requested*)
+* [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
+* [Reversing picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-6-Reversing.pdf) (PDF)
+* [TryHackMe](https://tryhackme.com) (email adress *requested*)
+* [Web Exploitation picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-3-Web-Exploitation.pdf) (PDF)
 
 
 ### Cuda

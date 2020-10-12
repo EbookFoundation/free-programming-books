@@ -346,6 +346,7 @@
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 * [Think Complexity](http://greenteapress.com/complexity/) (PDF)
+* [Introduction to Algorithms, Second Edition](https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf) - Thomas H. Cormen et al. (PDF)
 
 
 #### Artificial Intelligence

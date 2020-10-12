@@ -15,6 +15,7 @@
 * [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
+* [Docker](#docker)
 * [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
@@ -166,7 +167,9 @@
 ### Data Science
 
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
+* [Data Cleaning by Rachael Tatman at Kaggle](https://www.kaggle.com/learn/data-cleaning)
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
+* [Data Visualization by Alexis Cook at Kaggle](https://www.kaggle.com/learn/data-visualization)
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
@@ -188,6 +191,12 @@
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
+
+
+### Docker
+
+* [Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm) - TutorialsPoint
+* [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - FreeCodeCamp
 
 
 ### Game Development

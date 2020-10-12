@@ -14,6 +14,7 @@
 * [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
+* [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -172,6 +173,11 @@
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
+
+
+### Game Development
+
+* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)
 
 
 ### Git

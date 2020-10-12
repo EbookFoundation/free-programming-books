@@ -46,6 +46,7 @@
 * [Ruby](#ruby)
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
+* [Security](#security)
 * [Software Engineering](#software-engineering)
 * [SQL](#sql)
 * [Swift](#swift)
@@ -438,6 +439,11 @@
 
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
+
+
+### Security
+
+* [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
 
 
 ### Software Engineering

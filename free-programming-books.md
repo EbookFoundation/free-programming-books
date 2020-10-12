@@ -1059,7 +1059,6 @@ Kerridge (PDF) (email address *requested*, not required)
 ### C++
 
 * [C++ Annotations](https://fbb-git.gitlab.io/cppannotations/)
-* [C++ Cookbook](https://archive.org/details/TICPP2ndEdVolTwo)(PDF)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - Editors: Bjarne Stroustrup, Herb Sutter
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [C++ Language](http://www.cplusplus.com/doc/tutorial/)
@@ -1084,7 +1083,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Boost C++ libraries](http://theboostcpplibraries.com)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
-* [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
+* [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel - (PDF)
+* [Thinking in C++, 2nd Edition, Volume 2](https://archive.org/details/TICPP2ndEdVolTwo) - Bruce Eckel and Chuck Allison - (PDF)
 
 
 ### Chapel

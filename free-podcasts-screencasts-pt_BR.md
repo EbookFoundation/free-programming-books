@@ -1,17 +1,18 @@
 ### Index
 
-* [Algoritmos](#algoritmos)
-* [Angular](#angular)
-* [Databases](#databases)
-* [DataScience](#datascience)
-* [HTML / CSS](#html--css)
-* [iOS](#ios)
-* [Java](#java)
-* [Language Agnostic](#language-agnostic)
-* [PHP](#php)
-* [Python](#python)
-* [TypeScript](#typescript)
-* [Vue.js](#vuejs)
+- [Index](#index)
+- [Algoritmos](#algoritmos)
+- [Angular](#angular)
+- [Databases](#databases)
+- [DataScience](#datascience)
+- [HTML / CSS](#html--css)
+- [iOS](#ios)
+- [Java](#java)
+- [Language Agnostic](#language-agnostic)
+- [PHP](#php)
+- [Python](#python)
+- [TypeScript](#typescript)
+  - [Vue.js](#vuejs)
 
 
 ### Algoritmos
@@ -68,6 +69,7 @@
  * [PODebug](http://www.podebug.com) (podcast)
  * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
  * [podTag](https://podtag.com.br) (podcast)
+ * [2Devs - Desmistificando o mundo da programação](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS90TDVEdkhQRA?sa=X&ved=0CFgQjs4CKAFqFwoTCJD9_LXxruwCFQAAAAAdAAAAABAD) (podcast)
  * [Screencast DevMedia - Lazy Load](https://www.youtube.com/playlist?list=PLi75dzoFwEbo89TG5IaD4ODYPeJK9uxA5) (screencast)
  * [Screencasts - Andre Baltieri](https://www.youtube.com/playlist?list=PLTMuY7ptzFISwigIWpZQtp6b0TuEEvqLC) (screencast)
 

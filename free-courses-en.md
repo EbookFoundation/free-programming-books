@@ -10,6 +10,7 @@
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [Compilers](#compilers)
+* [Computer Vision](#computer-vision)
 * [CUDA](#cuda)
 * [Data Science](#data-science)
 * [Databases](#databases)
@@ -145,6 +146,10 @@
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
 
 
+### Computer Vision
+
+* [Computer Vision Course](https://www.pyimagesearch.com/)
+
 ### Cuda
 
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
@@ -177,11 +182,6 @@
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
-
-
-### Computer Vision
-
-* [Computer Vision Course](https://www.pyimagesearch.com/)
 
 
 ### Docker

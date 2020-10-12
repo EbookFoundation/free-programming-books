@@ -20,6 +20,7 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
+* [Competitive Programmers Handbook for beginner]( https://cses.fi/book/book.pdf) - Antti Laaksonen (PDF)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)

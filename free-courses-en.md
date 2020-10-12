@@ -179,6 +179,11 @@
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
 
 
+### Computer Vision
+
+* [Computer Vision Course](https://www.pyimagesearch.com/)
+
+
 ### Docker
 
 * [Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm) - TutorialsPoint

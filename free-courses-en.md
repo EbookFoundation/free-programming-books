@@ -443,6 +443,7 @@
 ### Ruby
 
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
+* [Ruby on Rails: An Introduction](https://www.coursera.org/learn/ruby-on-rails-intro)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 

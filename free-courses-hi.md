@@ -4,7 +4,7 @@
 * [C++](#C++)
 * [Python](#Python)
 * [Javascript](#Javascript)
-
+* [DevOps](#DevOps)
 
 ### C
 
@@ -19,8 +19,13 @@
 ### Python
 
 * [Python Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=gfDE2a7MKjA) - Harry
+* [Python Tutorial for beginners](https://www.youtube.com/watch?v=RbThHoqms3o&ab_channel=edureka%21Hindi)
 
 
 ### Javascript
 
 * [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry
+
+### DevOps
+
+* [DevOps tutorial for beginners in Hindi](https://www.youtube.com/watch?v=7Imi2mVkpAg&ab_channel=edureka%21Hindi)

@@ -379,6 +379,7 @@
 
 * [Competitive Programmer's Handbook](https://cses.fi/book.html) - Antti Laaksonen (PDF)
 * [Competitive Programming, 1st Edition](https://cpbook.net/#CP1details) (PDF)
+* [Competitive Programming, 2nd Edition](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf) - S Halim, F Halim (PDF)
 
 
 #### Compiler Design

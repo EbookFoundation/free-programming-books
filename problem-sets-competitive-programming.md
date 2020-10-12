@@ -1,6 +1,7 @@
 ### Index
 
 * [Competitive Programming](#competitive-programming)
+* [CTF Capture the Flag](#ctf)
 * [Data science](#data-science)
 * [Information security](#information-security)
 * [Problem Sets](#problem-sets)
@@ -34,6 +35,12 @@
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
 
+### ctf
+
+* [Google Ctf](https://capturetheflag.withgoogle.com) (email adress *requested*)
+* [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
+
+
 ### Data science
 
 * [Kaggle](https://www.kaggle.com)
@@ -42,7 +49,8 @@
 ### Information security
 
 * [ångstromCTF](https://angstromctf.com)
-* [CTFtime](https://ctftime.org)
+* [CTFtime](https://ctftime.org) 
+* [TryHackMe](https://tryhackme.com) (email adress *requested*)
 
 
 ### Problem Sets

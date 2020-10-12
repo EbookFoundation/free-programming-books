@@ -29,6 +29,7 @@
 * [Cool](#cool)
 * [Coq](#coq)
 * [Crystal](#crystal)
+* [CTF capture the flag](#ctf)
 * [CUDA](#cuda)
 * [D](#d)
 * [Dart](#dart)
@@ -1167,6 +1168,16 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Crystal
 
 * [Crystal for Rubyists](http://www.crystalforrubyists.com)
+
+
+### ctf
+
+* [Binary Exploitation picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-5-Binary-Exploitation.pdf) (PDF)
+* [Capture the flags introduction and video tutorials to various events](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) (PDF)
+* [Cryptography picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-2-Cryptography.pdf) (PDF)
+* [Forensics picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-4-Forensics.pdf) (PDF)
+* [Reversing picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-6-Reversing.pdf) (PDF
+* [Web Exploitation picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-3-Web-Exploitation.pdf) (PDF)
 
 
 ### CUDA

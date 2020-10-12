@@ -10,7 +10,6 @@
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [Compilers](#compilers)
-* [CTF](#capture-the-flags)
 * [CUDA](#cuda)
 * [Data Science](#data-science)
 * [Databases](#databases)
@@ -144,19 +143,6 @@
 ### Compilers
 
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
-
-
-### Capture The Flags
-
-* [Binary Exploitation picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-5-Binary-Exploitation.pdf) (PDF)
-* [Capture the flags introduction and video tutorials to various events](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) (PDF)
-* [Cryptography picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-2-Cryptography.pdf) (PDF)
-* [Forensics picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-4-Forensics.pdf) (PDF)
-* [Google Ctf](https://capturetheflag.withgoogle.com) (email adress *requested*)
-* [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
-* [Reversing picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-6-Reversing.pdf) (PDF)
-* [TryHackMe](https://tryhackme.com) (email adress *requested*)
-* [Web Exploitation picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-3-Web-Exploitation.pdf) (PDF)
 
 
 ### Cuda

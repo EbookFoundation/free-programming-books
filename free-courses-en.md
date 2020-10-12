@@ -145,7 +145,7 @@
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
 
 
-### CTF
+### Capture The Flags
 
 * [Introduction to CTF and video tutorials to various events](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 * [Cryptography picoctf by Carnegie Mellon University](https://picoctf.org/learning_guides/Book-2-Cryptography.pdf)

@@ -14,8 +14,8 @@
 * [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
-* [Game Development](#game-development)
 * [Docker](#docker)
+* [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -178,14 +178,14 @@
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
 
 
-### Game Development
-
-* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)
-
-
 ### Docker
 
 * [Learn Docker, Container Runtimes, Builders and Registries](https://www.katacoda.com/courses/container-runtimes) - Katacoda
+
+
+### Game Development
+
+* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)
 
 
 ### Git

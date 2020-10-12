@@ -148,7 +148,7 @@
 
 ### Computer Vision
 
-* [Computer Vision Course](https://www.pyimagesearch.com/)
+* [OpenCV Courses](https://www.pyimagesearch.com/category/opencv/)
 
 ### Cuda
 

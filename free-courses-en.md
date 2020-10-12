@@ -444,6 +444,7 @@
 
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
+* [Ruby on Rails: An Introduction](https://www.coursera.org/learn/ruby-on-rails-intro)
 
 
 ### Scala

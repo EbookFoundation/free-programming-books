@@ -20,6 +20,7 @@
 * [Python](#python)
   * [Django](#django)
   * [Flask](#flask)
+  * [OpenCV](#opencv)
   * [PyTorch](#pytorch)
 * [Redis](#redis)
 
@@ -162,6 +163,11 @@
 
 * [Membuat website dengan Flask](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZwaY3F4bHikozOBzrFD_R) - Sekolah Koding
 * [Tutorial web dengan flask sampai mahir](https://www.youtube.com/playlist?list=PL5vG7_Y90KtxXH4YhDcb5m4n82ShAPnPc) - Toufan RA
+
+
+### OpenCV
+
+* [OpenCV untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwt4cBsBy_Ej7gNlXdQ7blCB) - NgodingPython
 
 
 ### PyTorch

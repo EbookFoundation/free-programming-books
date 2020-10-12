@@ -1333,7 +1333,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Front-End
 
-* [Atomic Design](https://atomicdesign.bradfrost.com/) - Brad Frost
+* [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
 
 
 ### Git

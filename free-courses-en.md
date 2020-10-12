@@ -431,8 +431,11 @@
 
 ### SQL
 
+* [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - (Udemy)
+* [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - (Udemy)
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - (Mike Dane) - (freeCodeCamp)
+* [SQL Tutorial](https://www.w3schools.com/sql/)
 
 
 ### Swift

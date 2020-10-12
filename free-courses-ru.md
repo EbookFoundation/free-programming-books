@@ -38,7 +38,16 @@ ADV - продвинутый. Тонкости.
 
 ### Javascript
 
+* [Алгоритмы и структуры данных](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/AlgAndData.md) - Тимур Шемсединов (INT)
+* [Асинхронное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md) - Тимур Шемсединов (INT)
+* [Метапрограммирование и мультипарадигменное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Metaprogramming.md) - Тимур Шемсединов (INT)
+* [Объектно ориентированное](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md) - Тимур Шемсединов (INT)
 * [Основы программирования](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0) - Тимур Шемсединов (INT)
+* [Парадигмы программирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md) - Тимур Шемсединов (INT)
+* [Параллельное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Parallel.md) - Тимур Шемсединов (INT)
+* [Технологический стек NodeJS](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md) - Тимур Шемсединов (INT)
+* [Функциональное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md) - Тимур Шемсединов (INT)
+* [Шаблоны проектирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md) - Тимур Шемсединов (INT)
 
 
 #### Node.js

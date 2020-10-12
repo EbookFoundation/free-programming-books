@@ -52,6 +52,7 @@
 * [Forth](#forth)
 * [Fortran](#fortran)
 * [FreeBSD](#freebsd)
+* [Front-End](#front-end)
 * [Git](#git)
 * [Go](#go)
 * [Graphical user interfaces](#graphical-user-interfaces)
@@ -1289,6 +1290,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Cookbook](https://flutter.dev/docs/cookbook)
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter/)
+* [Flutter Complete Reference](https://fluttercompletereference.com/preview) - Alberto Miola (PDF) (Free only introduction & first chapter)
+* [Flutter Libraries We Love](https://codemagic.io/flutter-libraries-ebook/) - CodeMagic.io (email address *requested*)
 
 
 ### Force.com
@@ -1326,6 +1329,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Books and Articles from FreeBSD Site](http://www.freebsd.org/docs/books.html)
 * [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
+
+
+### Front-End
+
+* [Atomic Design](https://atomicdesign.bradfrost.com/) - Brad Frost
 
 
 ### Git

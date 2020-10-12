@@ -139,6 +139,7 @@
 * [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript) (screencast)
 * [Front End Happy Hour](http://frontendhappyhour.com) (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) (podcast)
+* [Frontend First](https://frontendfirst.fm/) (podcast)
 * [JavaScript Air](https://javascriptair.com) (podcast)
 * [JavaScript Jabber](https://devchat.tv/js-jabber) (podcast)
 * [Modern Web](https://www.thisdot.co/modern-web) (podcast)

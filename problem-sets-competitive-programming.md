@@ -1,6 +1,5 @@
 ### Index
 
-* [Competitive Programming](#competitive-programming)
 * [Competitive Programming book](#competitive-programming-book)
 * [Data science](#data-science)
 * [Information security](#information-security)
@@ -21,6 +20,7 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
+* [Competitive Programmers Handbook for beginner]( https://cses.fi/book/book.pdf) - Antti Laaksonen (PDF)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
@@ -33,11 +33,6 @@
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
-
-
-### Competitive Programming book
-
-* [Competitive Programmers Handbook for beginner]( https://cses.fi/book/book.pdf) - Antti Laaksonen (PDF)
 
 
 ### Data science

@@ -95,8 +95,6 @@
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
 * [Belajar javascript untuk pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXAiH1acKFPx8EtpJAq44gjP) - Sekolah Koding
-* [Apa itu VueJS ?](https://www.youtube.com/watch?v=zuyzYikWLYA&list=PLuGFxya63u24aXkT45NNY2br4r2rDY7Z4) - Galih Pratama
-* [Apa itu Vuex di VueJS](https://www.youtube.com/watch?v=iFm-f8lFcf8&list=PLuGFxya63u24aXkT45NNY2br4r2rDY7Z4) - Galih Pratama
 
 
 ### React
@@ -110,6 +108,8 @@
 * [Tutorial Vue JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ) - Sekolah Koding
 * [Tutorial Vuejs Bahasa Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-Z6Gt8uO1XMp4oyMlE3gml) - Baledemy
 * [Tutorial VueJs dengan API Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj3a7oLHb2a8pw8IHBq45WYu) - Wahidev Academy
+* [Apa itu VueJS ?](https://www.youtube.com/watch?v=zuyzYikWLYA&list=PLuGFxya63u24aXkT45NNY2br4r2rDY7Z4) - Galih Pratama
+* [Apa itu Vuex di VueJS](https://www.youtube.com/watch?v=iFm-f8lFcf8&list=PLuGFxya63u24aXkT45NNY2br4r2rDY7Z4) - Galih Pratama
 
 
 ### Kotlin
@@ -145,6 +145,9 @@
 * [Membuat Aplikasi MVC dengan PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx) - Web Programming UNPAS
 * [OOP Dasar pada PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p) - Web Programming UNPAS
 * [PHP The Right Way](https://www.youtube.com/playlist?list=PLFIM0718LjIVcKOrB2tFKi4eWYXHvS3CU) - Web Programming UNPAS
+
+
+### Codeigniter
 * [Tutorial CodeIgniter 4](https://www.youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) - Web Programming UNPAS
 * [Tutorial CodeIgniter untuk pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCYh65VSFR2yzC7CuPBcAjt) - Sekolah Koding
 

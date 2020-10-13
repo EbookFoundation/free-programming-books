@@ -4,6 +4,8 @@
 * [C++](#C++)
 * [Java DataStructures Algorithms](#JavaDSAlgo)
 * [Angular 10](#Angular10)
+* [Python](#Python)
+* [Javascript](#Javascript)
 
 ### C
 

@@ -21,6 +21,7 @@
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
+* [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)

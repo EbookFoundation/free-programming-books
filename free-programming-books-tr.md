@@ -11,6 +11,7 @@
 * [Go](#go)
 * [Html](#html)
 * [iOS](#ios)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -82,6 +83,9 @@
 
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
+### Java
+
+* [Java Bilgisayar Diliyle Programlama](http://www.turhancoban.com/kitap/JAVA%20BİLGİSAYAR%20DİLİYLE%20PROGRAMLAMA.pdf) - Turhan Coban (PDF)
 
 ### JavaScript
 

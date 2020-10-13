@@ -3,7 +3,7 @@
 * [Android](#android)
 * [C++](#cplusplus)
 * [Emacs](#emacs)
-* [C#](#c#)
+* [C#](#c)
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)

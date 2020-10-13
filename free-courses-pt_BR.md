@@ -24,6 +24,7 @@
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
+* [React Native](#react-native)
 * [Ruby](#ruby)
 * [Sass](#sass)
 * [Shell](#shell)
@@ -191,6 +192,10 @@
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)
 
+### React Native
+
+* [Aprenda React Native](https://www.youtube.com/watch?v=DmUUsTC2YkA&list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) -  Canal Geek Dev (YouTube)
+* [Curso do React Native implementando CRUD](https://app.rocketseat.com.br/node/curso-react-native) - *registration required*
 
 ### Ruby
 

@@ -199,6 +199,7 @@
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 * [GitHowTo](https://githowto.com)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
+* [How to Use markdown syntax  ](https://youtu.be/bpdvNwvEeSE) -Hitesh Choudhary (lecture) (Youtube)
 
 
 ### Go
@@ -319,6 +320,7 @@
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
+* [Getting started with Linux command line](https://www.youtube.com/watch?v=v_1zB2WNN14) (Edureka) (course)
 
 
 ### Lua

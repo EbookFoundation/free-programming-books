@@ -140,6 +140,11 @@
 
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 
+### Cloud
+
+* [Matering AWS security](http://rmstechconsulting.com/wp-content/uploads/2019/09/9781788293723-MASTERING_AWS_SECURITY.pdf)
+
+
 
 ### Compilers
 

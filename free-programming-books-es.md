@@ -242,6 +242,7 @@
 #### React
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) (PDF, EPUB, MOBI)
+* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com/) (HTML, PDF)
 
 
 ### LaTeX

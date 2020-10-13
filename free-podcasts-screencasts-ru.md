@@ -60,7 +60,9 @@
 * [Frontflip](http://frontflip.me) (Podcast)
 * [Javascript для начинающих](http://www.magisters.org/education/course/js-for-beginners) (Screencast)
 * [RadioJS](http://radiojs.ru) (Podcast)
+* [UnderJS podcast](https://underjs.ru) (Podcast)
 * [Webstandards](https://soundcloud.com/web-standards) (Podcast)
+* [Фронтенд юность](https://soundcloud.com/frontend_u) (Podcast)
 
 
 ### Node.js

@@ -17,7 +17,7 @@
 
 ### JavaDSAlgo
 
-* [The Complete Course of Java, Data Strucures and Algorithms | Hindi](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Aman Dhattarwal
+* [The Complete Java Data Strucures & Algorithms Course  | Hindi](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Aman Dhattarwal
 
 
 ### Angular10

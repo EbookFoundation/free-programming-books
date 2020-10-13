@@ -49,6 +49,7 @@
   * [CakePHP](#cakephp)
   * [CodeIgniter](#codeigniter)
   * [Laravel](#laravel)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
@@ -410,6 +411,11 @@
 
 * [Документация 5.x](https://laravel.ru/docs/v5)
 * [Перевод документации](http://laravel.su/docs)
+
+
+#### Symfony
+
+* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
 
 
 ### Python

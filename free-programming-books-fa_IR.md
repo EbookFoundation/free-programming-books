@@ -5,6 +5,7 @@
 * [Javascript](#javascript)
 * [LaTeX](#latex)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Python](#python)
 * [R](#r)
 * [رایانش ابری](#%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D8%B4-%D8%A7%D8%A8%D8%B1%DB%8C)
@@ -31,6 +32,13 @@
 ### LaTeX
 
 * [مقدمه ای نه چندان کوتاه بر LaTeX](http://www.ctan.org/tex-archive/info/lshort/persian)
+
+
+### PHP
+
+#### Symfony
+
+* [سیمفونی ۵: سریع‌ترین مسیر](https://symfony.com/doc/5.0/the-fast-track/fa/index.html)
 
 
 ### Python

@@ -28,6 +28,7 @@
 * [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
@@ -214,6 +215,11 @@
 
 * [Guida PHP](http://www.html.it/guide/guida-php-di-base/?cref=development) (HTML)
 * [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf) (PDF)
+
+
+#### Symfony
+
+* [Symfony 5: guida rapida](https://symfony.com/doc/5.0/the-fast-track/it/index.html)
 
 
 ### Python

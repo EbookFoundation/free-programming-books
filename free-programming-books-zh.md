@@ -60,6 +60,7 @@
   * [NoSQL](#nosql)
   * [Perl](#perl)
   * [PHP](#php)
+    * [Symfony](#symfony)
   * [PostgreSQL](#postgresql)
   * [Python](#python)
     * [Django](#django)
@@ -614,6 +615,11 @@
 * [Symfony2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
 * [Yii2中文文档](http://www.yiichina.com/doc/guide/2.0)
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
+
+
+#### Symfony
+
+* [Symfony 5 快速开发](https://symfony.com/doc/5.0/the-fast-track/zh_CN/index.html)
 
 
 ### PostgreSQL

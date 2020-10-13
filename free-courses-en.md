@@ -289,6 +289,7 @@
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
+* [Getting started with Linux command line](https://www.youtube.com/watch?v=v_1zB2WNN14) (Edureka) (course)
 
 
 ### Lua

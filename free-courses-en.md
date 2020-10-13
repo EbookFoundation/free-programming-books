@@ -319,6 +319,7 @@
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
+* [The Ultimate Linux Newbie Guide](https://linuxnewbieguide.org/ulngebook2017/) - Alistair J. Ross
 
 
 ### Lua

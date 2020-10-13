@@ -43,7 +43,7 @@
 
 * [ångstromCTF](https://angstromctf.com)
 * [CTFtime](https://ctftime.org)
-
+* [CTF Orang Siber Indonesia](https://t.me/osictf_bot)
 
 ### Problem Sets
 

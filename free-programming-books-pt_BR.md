@@ -1,4 +1,4 @@
-﻿### Índice
+### Índice
 
 * [Agnósticos](#agnosticos)
   * [Sistemas Operacionais](#sistemas-operacionais)
@@ -68,6 +68,7 @@
 
 ### C Sharp
 
+* [Aprenda a Programar com C#](https://www.researchgate.net/publication/322626352_Aprenda_a_programar_com_C/) - (PDF)
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 
 

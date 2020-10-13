@@ -319,7 +319,7 @@
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
-* [A complete Guide To Linux](https://tldp.org/LDP/intro-linux/intro-linux.pdf) - Machtelt Garrels (PDF)
+* [Linux Operating System Fundamentals](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-3IVoXKZljumLZG56aWJkkA&utm_medium=udemyads&utm_source=aff-campaign) - Linux Academy (Udemy)
 
 
 ### Lua

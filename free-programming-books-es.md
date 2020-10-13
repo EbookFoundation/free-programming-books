@@ -179,7 +179,7 @@
 
 ### Go
 
-* [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) (HTML, PDF, EPUB)
+* [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
 
 
 ### Haskell
@@ -249,7 +249,7 @@
 #### React
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) (PDF, EPUB, MOBI)
-* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) (HTML, PDF)
+* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
 
 
 ### LaTeX
@@ -281,7 +281,7 @@
 
 #### Redis
 
-* [El pequeño libro Redis](https://raulexposito.com/the-little-redis-book-en-castellano.html) (HTML, PDF, EPUB)
+* [El pequeño libro Redis](https://raulexposito.com/the-little-redis-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
 
 
 ### PHP

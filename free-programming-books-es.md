@@ -33,6 +33,7 @@
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
   * [MongoDB](#mongodb)
+  * [Redis](#redis)
 * [Perl](#perl)
 * [Perl 6 / Raku](#perl-6--raku)
 * [PHP](#php)
@@ -268,6 +269,10 @@
 
 * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book)
 * [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan Graterol (Gitbook) (:construction: *en proceso*)
+
+#### Redis
+
+* [El pequeño libro Redis](https://raulexposito.com/the-little-redis-book-en-castellano.html) (HTML, PDF, EPUB)
 
 
 ### PHP

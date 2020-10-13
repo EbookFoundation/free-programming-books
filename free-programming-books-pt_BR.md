@@ -87,6 +87,7 @@
 
 #### Metodologias de Desenvolvimento de Software
 
+* [Engenharia de Software - 9ª ed.](https://docero.com.br/doc/ens0vn) - Ian Sommerville (PDF)
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*

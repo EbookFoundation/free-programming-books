@@ -319,6 +319,7 @@
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
+* [Working Fast in Linux](https://hackernoon.com/10-basic-tips-on-working-fast-in-unix-or-linux-terminal-5746ae42d277?source=---------46------------------) - Javin Paul
 
 
 ### Lua

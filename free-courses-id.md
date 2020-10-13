@@ -2,6 +2,7 @@
 
 * [Android](#android)
 * [C / C++](#c--c)
+* [C#](#c#)
 * [Dart](#dart)
 * [Docker](#docker)
 * [Flutter](#flutter)
@@ -17,6 +18,7 @@
 * [MongoDB](#mongodb)
 * [PHP](#php)
   * [Laravel](#laravel)
+  * [Codeigniter](#codeigniter)
 * [Python](#python)
   * [Django](#django)
   * [Flask](#flask)
@@ -28,7 +30,7 @@
 
 * [Tutorial Android (Java)](https://www.youtube.com/playlist?list=PLKPnl-eD7EA4rAzNeXikfCq5yiMuFI1zo) - Kopianan
 * [Tutorial Android (Kotlin)](https://www.youtube.com/playlist?list=PLaoF-xhnnrRUEbF6cvk4-CeBAEOSbp8sS) - EDMT Dev
-
+* [Belajar Pemrograman Android](https://www.youtube.com/playlist?list=PLuGFxya63u26W8S6MYjiZq3GC2g4DWj9L) - Galih Pratama
 
 ### C / C++
 
@@ -38,6 +40,10 @@
 * [Belajar C++ - Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7-RC_-hkL9gu0_ofABw862) - Kelas Terbuka
 * [Belajar C++ Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI) - Kelas Terbuka
 
+
+### C#
+
+* [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
 
 ### Dart
 
@@ -78,15 +84,19 @@
 * [Belajar Java - Object Oriented Programming Bahasa Indonesia (Lanjut)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6V4_vk1s1NcM2HoW5KFG7i) - Kelas Terbuka
 * [Belajar Java Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) - Kelas Terbuka
 * [Belajar Java Lambda Expression](https://www.youtube.com/playlist?list=PL-CtdCApEFH_71iT2klDSWIC0MScpLheN) - Programmer Zaman Now
+* [Belajar Pemrograman Java](https://www.youtube.com/playlist?list=PLuGFxya63u2432_3eWeNmwCHru65kIeBY) - Galih Pratama
 
 
 ### JavaScript
 
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Programmer Zaman Now
-* [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
+* [Dasar Pemrograman dengan JavaScript](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
+* [Belajar javascript untuk pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXAiH1acKFPx8EtpJAq44gjP) - Sekolah Koding
+* [Apa itu VueJS ?](https://www.youtube.com/watch?v=zuyzYikWLYA&list=PLuGFxya63u24aXkT45NNY2br4r2rDY7Z4) - Galih Pratama
+* [Apa itu Vuex di VueJS](https://www.youtube.com/watch?v=iFm-f8lFcf8&list=PLuGFxya63u24aXkT45NNY2br4r2rDY7Z4) - Galih Pratama
 
 
 ### React
@@ -153,7 +163,8 @@
 * [Belajar Python Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
 * [OpenCV untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwt4cBsBy_Ej7gNlXdQ7blCB) - NgodingPython
 * [Tutorial Python Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m) - Sekolah Koding
-
+* [Belajar Python Dengan Mudah & Asik di Progate Part 1 (String, Integer, Perhitungan)](https://www.youtube.com/watch?v=BCVQ2wwrr2o) - Orang Siber Indonesia
+* [Belajar Python di Progate (Kupas Tuntas Variabel) Part 2](https://www.youtube.com/watch?v=datx4Wb2gxo) - Orang Siber Indonesia
 
 ### Django
 

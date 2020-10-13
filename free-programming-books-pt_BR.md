@@ -58,8 +58,8 @@
 
 ### C
 
-* [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [Algoritmos em linguagem C](https://www.ime.usp.br/~pf/algoritmos-livro/) - Paulo Feofiloff (PDF)
+* [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/).

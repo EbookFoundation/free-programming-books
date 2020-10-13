@@ -33,6 +33,9 @@
 
 * [مختصر دليل لغات البرمجة ](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (PDF)
 
+### C#
+
+* [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html)
 
 ### Linux
 

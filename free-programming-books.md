@@ -2182,10 +2182,10 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### PowerShell
 
-* [Creating HTML Reports in PowerShell](https://www.gitbook.com/book/devopscollective/creating-html-reports-in-powershell/details) (PDF,ePub,HTML)
-* [DevOps: The Ops Perspective](https://www.gitbook.com/book/devopscollective/devops-the-ops-perspective/details) (PDF, ePub, MOBI)
-* [Ditch Excel: Making Historical & Trend Reports in PowerShell](https://www.gitbook.com/book/devopscollective/ditch-excel-making-historical-trend-reports-in-po/details) (PDF, ePub, MOBI)
-* [Introduction to PowerShell for Unix People](https://www.gitbook.com/book/devopscollective/a-unix-person-s-guide-to-powershell/details) (PDF, ePub, HTML)
+* [Creating HTML Reports in PowerShell](https://leanpub.com/creatinghtmlreportsinwindowspowershell) (PDF, ePub, MOBI, HTML)
+* [DevOps: The Ops Perspective](https://leanpub.com/devopstheopsperspective) (PDF,ePub,MOBI,HTML)
+* [Ditch Excel: Making Historical & Trend Reports in PowerShell](https://leanpub.com/ditchexcelmakinghistoricalandtrendreportsinpowershell) (PDF,ePub,MOBI,HTML)
+* [A Unix Person's Guide to PowerShell](https://leanpub.com/aunixpersonsguidetopowershell) (PDF, ePub, MOBI, HTML)
 * [Layman’s Guide to PowerShell 2.0 remoting](http://www.ravichaganti.com//blog/wp-content/uploads/2010/12/A%20layman's%20guide%20to%20PowerShell%202.0%20remoting-v2.pdf) (PDF)
 * [Learn PowerShell Core 6.0](https://www.packtpub.com/free-ebooks/learn-powershell-core-60) - David das Neves, Jan-Hendrik Peters (Packt account *required*)
 * [Learn PowerShell in Y Minutes](https://learnxinyminutes.com/docs/powershell/)
@@ -2194,12 +2194,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [PowerShell Notes for Professionals](http://books.goalkicker.com/PowerShellBook/) - Compiled from StackOverflow documentation (3.x)
 * [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) (email address *requested*, not required)
 * [PowerShell Tips to Write By](https://leanpub.com/powershelltips) - Adam Bertram *(Leanpub account or valid email requested)* (:construction: *in process*)
-* [Secrets of PowerShell Remoting](https://www.gitbook.com/book/devopscollective/secrets-of-powershell-remoting/details) (PDF, ePub, MOBI)
-* [The Big Book of PowerShell Error Handling](https://www.gitbook.com/book/devopscollective/the-big-book-of-powershell-error-handling/details) (PDF, ePub, MOBI)
-* [The Big Book of PowerShell Gotchas](https://www.gitbook.com/book/devopscollective/the-big-book-of-powershell-gotchas/details) (PDF, ePub, MOBI)
-* [The Monad Manifesto - Annotated](https://www.gitbook.com/book/devopscollective/the-monad-manifesto-annotated/details) (PDF, ePub, MOBI)
-* [Why PowerShell?](https://www.gitbook.com/book/devopscollective/why-powershell-/details) (PDF, ePub, MOBI)
-* [Windows PowerShell Networking Guide](https://www.gitbook.com/book/devopscollective/windows-powershell-networking-guide/details) (PDF, ePub, MOBI)
+* [Secrets of PowerShell Remoting](https://leanpub.com/secretsofpowershellremoting) (PDF, ePub, MOBI, HTML)
+* [The Big Book of PowerShell Error Handling](https://leanpub.com/thebigbookofpowershellerrorhandling) (PDF, ePub, MOBI, HTML)
+* [The Big Book of PowerShell Gotchas](https://leanpub.com/thebigbookofpowershellgotchas) (PDF, ePub, MOBI, HTML)
+* [The Monad Manifesto - Annotated](https://leanpub.com/themonadmanifestoannotated) (PDF, ePub, MOBI, HTML)
+* [Why PowerShell?](https://leanpub.com/whypowershell) (PDF, ePub, MOBI, HTML)
+* [Windows PowerShell Networking Guide](https://leanpub.com/windowspowershellnetworkingguide) (PDF, ePub, MOBI, HTML)
 
 
 ### Processing

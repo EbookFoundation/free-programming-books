@@ -1804,8 +1804,8 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Vue.js
 
 * [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) (PDF)
-* [Vue Essential Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf) (PDF)
 * [The Vue.js Handbook](https://flaviocopes.nyc3.digitaloceanspaces.com/vue-handbook/vue-handbook.pdf) (PDF)
+* [Vue Essential Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf) (PDF)
 
 
 ### Jenkins

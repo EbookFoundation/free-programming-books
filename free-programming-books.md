@@ -52,7 +52,6 @@
 * [Forth](#forth)
 * [Fortran](#fortran)
 * [FreeBSD](#freebsd)
-* [Front-End](#front-end)
 * [Git](#git)
 * [Go](#go)
 * [Graphical user interfaces](#graphical-user-interfaces)
@@ -1288,9 +1287,8 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Flutter
 
 * [Cookbook](https://flutter.dev/docs/cookbook)
-* [Flutter Complete Reference](https://fluttercompletereference.com/preview) - Alberto Miola (PDF) (Free only introduction & first chapter)
-* [Flutter Libraries We Love](https://codemagic.io/flutter-libraries-ebook) - CodeMagic.io (email address *requested*)
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
+* [Flutter Tutorial] (https://www.tutorialspoint.com/flutter/flutter_tutorial.pdf) (PDF)
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)
 
 
@@ -1329,11 +1327,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Books and Articles from FreeBSD Site](http://www.freebsd.org/docs/books.html)
 * [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
-
-
-### Front-End
-
-* [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
 
 
 ### Git
@@ -1452,6 +1445,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A free guide to learn HTML and CSS](http://marksheet.io)
 * [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/) - Aaron Gustafson
 * [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
+* [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
 * [Canvassing](https://web.archive.org/web/20160505010319/http://learnjs.io/canvassing/read/)
 * [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) - Mark Otto
 * [CSS Animation 101](https://github.com/cssanimation/css-animation-101)

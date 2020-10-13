@@ -19,6 +19,7 @@
 * [Erlang](#erlang)
 * [Git](#git)
 * [Github](#github)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML & CSS](#html--css)
 * [Java](#java)
@@ -173,6 +174,11 @@
 ### Github
 
 * [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple) (Github)
+
+
+### Go
+
+* [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) (HTML, PDF, EPUB)
 
 
 ### Haskell

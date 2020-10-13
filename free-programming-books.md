@@ -1663,6 +1663,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Practical Angular: Build your first web apps with Angular 8](https://leanpub.com/practical-angular) - Ahmed Bouchefra *(Leanpub account or valid email requested)*
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+* [Angular favorite resources from Hacktoberfest 2019](https://timdeschryver.github.io/hacktoberfest-2019-angular/)
 
 
 #### Aurelia

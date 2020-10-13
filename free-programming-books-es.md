@@ -248,7 +248,7 @@
 #### React
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) (PDF, EPUB, MOBI)
-* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com/) (HTML, PDF)
+* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) (HTML, PDF)
 
 
 ### LaTeX
@@ -276,6 +276,7 @@
 
 * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book)
 * [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan Graterol (Gitbook) (:construction: *en proceso*)
+
 
 #### Redis
 

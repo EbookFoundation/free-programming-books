@@ -114,6 +114,7 @@
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
+* [250+ C Programs for Practice with solutions.](https://docs.google.com/document/d/1jFAATUSQdrrqmppvStE9X2vw5wJc-HUEaUa-paw3Ulg/edit?usp=sharing) -Ghanendra Ydav
 
 
 ### C Sharp

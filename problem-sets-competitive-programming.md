@@ -38,7 +38,7 @@
 ### Capture the flag
 
 * [Google Ctf](https://capturetheflag.withgoogle.com) (email adress *requested*)
-* [Hackthebox](https://www.hackthebox.eu/) (email adress *requested*)
+* [Hackthebox](https://www.hackthebox.eu) (email adress *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources) (email adress *requested*)
 * [TryHackMe](https://tryhackme.com) (email adress *requested*)

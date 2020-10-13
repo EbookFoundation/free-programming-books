@@ -19,6 +19,7 @@
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
@@ -153,6 +154,11 @@
 * [PHP](http://www.peterkropff.de/site/php/php.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 * [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear/)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) (PDF)
+
+
+#### Symfony
+
+* [Symfony 5: Auf der Überholspur](https://symfony.com/doc/5.0/the-fast-track/de/index.html)
 
 
 ### Python

@@ -10,6 +10,8 @@
 
 * [4Clojure](http://www.4clojure.com)
 * [A2 Online Judge](https://a2oj.com)
+* [AtCoder](https://atcoder.jp)
+* [Binary Search](https://binarysearch.com)
 * [Caribbean Online Judge](http://coj.uci.cu)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
@@ -21,6 +23,7 @@
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
+* [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)

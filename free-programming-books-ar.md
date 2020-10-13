@@ -7,6 +7,7 @@
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Programming in Scratch](#programming-in-scratch)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
@@ -59,6 +60,11 @@
 ### PHP
 
 * [تعلم البرمجة بلغة PHP](http://librebooks.org/learn-programming-with-php/)
+
+
+#### Symfony
+
+* [سيمفوني 5 : المسار السريع](https://symfony.com/doc/5.0/the-fast-track/ar/index.html)
 
 
 ### Programming in Scratch

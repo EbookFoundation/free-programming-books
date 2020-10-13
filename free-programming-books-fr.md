@@ -30,6 +30,7 @@
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Processing](#processing)
 * [Python](#python)
   * [Django](#django)
@@ -213,6 +214,11 @@
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
 * [Initiation au PHP](http://framasoft.net/IMG/pdf/initiation_php.pdf) - David Ducrocq (PDF)
 * [Programmer en PHP](http://www.lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF)
+
+
+#### Symfony
+
+* [En route pour Symfony 5](https://symfony.com/doc/5.0/the-fast-track/fr/index.html)
 
 
 ### Processing

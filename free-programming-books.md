@@ -908,6 +908,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
 * [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
+* [Android Fundamental Codelabs](https://codelabs.developers.google.com/android-training)
+* [Android Advance Development Codelabs](https://codelabs.developers.google.com/advanced-android-training)
+* [Android Developer Roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap)
 
 
 ### APL
@@ -1296,6 +1299,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Flutter Tutorial](https://www.tutorialspoint.com/flutter/flutter_tutorial.pdf) (PDF)
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)
+* [Flutter App Development Codelabs](https://codelabs.developers.google.com/flutterlive)
 
 
 ### Force.com

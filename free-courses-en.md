@@ -319,7 +319,7 @@
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
-* [Learn The Linux Command Line: Basic Commands](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
+* [Learn The Linux Command Line: Basic Commands](https://www.udemy.com/course/command-line) - Adam Eubankas (Udemy)
 
 ### Lua
 

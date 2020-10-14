@@ -2025,7 +2025,9 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Nim
 
-* [Nim Basics](https://narimiran.github.io/nim-basics/)
+* [Nim Basic (for beginner, PDF available)](https://narimiran.github.io/nim-basics/) - narimiran
+* [Nim by Example](https://nim-by-example.github.io/) - Flaviu Tamas
+* [Nim Days - Book teach to create several Nim app](https://xmonader.github.io/nimdays/) - Ahmed Thabet
 
 
 ### NoSQL

@@ -41,6 +41,7 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
+* [Machine Learning](#machine-learning)
 
 
 ### Agnósticos
@@ -313,3 +314,11 @@
 * [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 * [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza
+
+### Machine Learning
+
+* [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr
+* [Neural Networks e Deep Learning para Leigos: Sem Mistérios!](https://www.udemy.com/course/neural-networks-e-deep-learnig-para-leigos/) - Fernando Amaral
+
+
+

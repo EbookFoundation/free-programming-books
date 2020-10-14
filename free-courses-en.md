@@ -110,6 +110,7 @@
 
 ### C
 
+* [Best c problems with solutions](https://recruitmentindia.in/wp-content/uploads/2020/03/cprogrammingquestion.pdf) - S. Murgan (PDF)
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)

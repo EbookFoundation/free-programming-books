@@ -14,6 +14,7 @@
 * [AtCoder](https://atcoder.jp)
 * [Binary Search](https://binarysearch.com)
 * [Caribbean Online Judge](http://coj.uci.cu)
+* [COCI](https://hsin.hr/coci/)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
 * [Codecombat](https://codecombat.com)
@@ -23,7 +24,6 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
-* [COCI](https://hsin.hr/coci/)
 * [E-olymp](https://www.e-olymp.com/en/)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
 * [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
@@ -57,7 +57,7 @@
 ### Information security
 
 * [ångstromCTF](https://angstromctf.com)
-* [CTFtime](https://ctftime.org) 
+* [CTFtime](https://ctftime.org)
 
 
 ### Problem Sets

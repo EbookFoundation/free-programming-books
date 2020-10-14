@@ -521,6 +521,7 @@
 
 ### Swift
 
+* [Documentation](https://swift.org/documentation)
 * [Документация и туториалы](https://swiftbook.ru)
 
 

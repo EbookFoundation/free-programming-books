@@ -22,8 +22,8 @@
 * [Codeforces](http://codeforces.com/contests)
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
-* [Codingame](https://www.codingame.com/start)
 * [COCI](https://hsin.hr/coci/)
+* [Codingame](https://www.codingame.com/start)
 * [E-olymp](https://www.e-olymp.com/en/)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
 * [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
@@ -57,7 +57,7 @@
 ### Information security
 
 * [ångstromCTF](https://angstromctf.com)
-* [CTFtime](https://ctftime.org) 
+* [CTFtime](https://ctftime.org)
 
 
 ### Problem Sets

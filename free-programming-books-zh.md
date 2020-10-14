@@ -153,6 +153,7 @@
 * [极客学院](http://www.jikexueyuan.com)
 * [汇智网](http://www.hubwiz.com)
 * [计蒜客](http://www.jisuanke.com)
+* [黑马程序员](http://yun.itheima.com)
 
 
 ### 大数据
@@ -645,6 +646,7 @@
 * [Python之旅](http://funhacks.net/explore-python) - Ethan
 * [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
+* [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - (内含丰富的笔记以及各类教程)
 * [像计算机科学家一样思考Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) - Allen B. Downey、大胖哥(翻译)
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [简明 Python 教程](https://bop.molun.net) - Swaroop C H、沈洁元(翻译)、漠伦(翻译)

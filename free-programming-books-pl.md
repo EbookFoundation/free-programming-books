@@ -51,7 +51,6 @@
 
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
 * [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
-* [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) - Wikibooks (PDF)
 * [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
@@ -79,16 +78,10 @@
 * [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php) - Jakub Jankiewicz
 
 
-### Coq
-
-* [zeimer.github.io (Programowanie Funkcyjne)](https://zeimer.github.io)
-
-
 ### CSS
 
 * [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
-* [Kurs CSS](http://cyberpunk.e-spin.pl/86,36,5/KOD/KURSY-PROGRAMOWANIA/Kurs-CSS)
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/) - Damian Wielgosik
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 
 ### Haskell
@@ -99,11 +92,8 @@
 ### HTML
 
 * [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html) - Sławomir Kokłowski
-* [Kurs HTML](http://cyberpunk.e-spin.pl/86,33,5/KOD/KURSY-PROGRAMOWANIA/Kurs-HTML)
 * [KURS HTML](http://www.kurshtml.edu.pl) - Sławomir Kokłowski
-* [Kurs HTML5](http://cyberpunk.e-spin.pl/86,34,5/KOD/KURSY-PROGRAMOWANIA/Kurs-HTML5)
-* [Kurs XHTML](http://cyberpunk.e-spin.pl/86,35,5/KOD/KURSY-PROGRAMOWANIA/Kurs-XHTML)
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/) - Damian Wielgosik
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 
 ### Java
@@ -111,7 +101,6 @@
 * [Darmowy kurs Java](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - Sławek Ludwiczak
 * [Język Java](http://www.dz5.pl/ti/java/java_skladnia.pdf) - Jacek Rumiński (PDF)
 * [Kurs Java](https://stormit.pl/kurs-java/) - Tomasz Woliński
-* [Kurs JAVA](http://cyberpunk.e-spin.pl/86,44,5/KOD/KURSY-PROGRAMOWANIA/Kurs-JAVA)
 * [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/) - Marcin Pietraszek
 * [Praktyczny kurs Javy](https://kobietydokodu.pl/kurs-javy/) - Jakub Derda
 
@@ -120,7 +109,6 @@
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
 * [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/) - Marijn Haverbeke, Łukasz Piwko
-* [Kurs jQuery](http://cyberpunk.e-spin.pl/86,39,5/KOD/KURSY-PROGRAMOWANIA/Kurs-jQuery)
 * [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html) - Sławomir Kokłowski
 
 
@@ -133,20 +121,17 @@
 
 ### MySQL
 
-* [Kurs MySQL](http://cyberpunk.e-spin.pl/86,38,5/KOD/KURSY-PROGRAMOWANIA/Kurs-MySQL)
+* [Bazy Danych MYSQL](https://miroslawzelent.pl/kurs-mysql/)
 
 
 ### Perl
 
-* [Kurs Perl](http://zajacmarek.com/2014/10/kurs-perl-cz-1/) - Marek Zając
-* [Kurs PERL](cyberpunk.e-spin.pl/86,41,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PERL)
 * [Perl](https://pl.wikibooks.org/wiki/Perl) - Wikibooks
 
 
 ### PHP
 
 * [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
-* [Kurs PHP OOP](http://cyberpunk.e-spin.pl/86,37,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PHP-OOP)
 * [PHP](https://pl.wikibooks.org/wiki/PHP) - Wikibooks
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 

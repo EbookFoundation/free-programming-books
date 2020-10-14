@@ -40,7 +40,7 @@
 
 ### Game development
 
-* [Podquest](http://www.podquest.com.br/) (podcast)
+* [Podquest](http://www.podquest.com.br) (podcast)
 
 
 ### HTML / CSS

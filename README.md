@@ -59,6 +59,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Tamil / தமிழ்](free-programming-books-ta.md)
 + [Turkish / Türkçe](free-programming-books-tr.md)
 + [Ukrainian / Українська](free-programming-books-ua.md)
++ [Malayalam / മലയാളം](free-programming-books-ml.md)
 
 ### Free Online Courses
 

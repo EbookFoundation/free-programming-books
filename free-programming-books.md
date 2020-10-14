@@ -347,6 +347,7 @@
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 * [Think Complexity](http://greenteapress.com/complexity/) (PDF)
+* [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) (PDF) - Thomas H. Cormen
 
 
 #### Artificial Intelligence
@@ -497,6 +498,7 @@
 * [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) - Shai Shalev-Shwartz, Shai Ben-David
+* [Neural Networks and Deeplearning](https://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf) - Michael Nielsen
 
 
 #### Mathematics
@@ -1041,6 +1043,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
+* [Let Us C](https://docs.google.com/viewer?a=v&pid=sites&srcid=cXVlc3QuZWR1LnBrfHZpZ2hpb3xneDoxNDAxZDBlZDIwMTgyMmQw) - Yashwant Knitkar
 
 
 ### C Sharp
@@ -1095,6 +1098,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
 * [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
+* [Object Oriented Programming with C++](http://www.mktechnocratcampuspatan.com/uploads/development/facility_560099.pdf) - E. Balagurusamy
 
 
 ### Chapel

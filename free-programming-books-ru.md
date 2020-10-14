@@ -236,6 +236,7 @@
 * [Руководство по Servlets](http://proselyte.net/tutorials/servlets) - Евгений Сулейманов
 * [Руководство по языку программирования Java](https://metanit.com/java/tutorial) - Евгений Попов
 * [Самоучитель по Java с нуля](https://vertex-academy.com/tutorials/ru/samouchitel-po-java-s-nulya/) - Vertex Academy
+* [Самоучитель по Java в игровой форме](https://javarush.ru/)
 * [Собеседование по Java Core](http://javastudy.ru/interview/list-of-question-java-interview)
 * [Собеседование по Java EE](http://javastudy.ru/interview/list-of-questions-javaee-interview)
 * [Учебник Java 8](https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8) - Фёдор Урванов

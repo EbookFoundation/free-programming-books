@@ -323,9 +323,9 @@
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
+* [Linux Command Line Basic Commands](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
 * [Linux Operating System Fundamentals](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/) - Linux Academy (Udemy)
 * [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat, Inc. (Udemy)
-* [Linux Command Line Basic Commands](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
 
 
 ### Lua

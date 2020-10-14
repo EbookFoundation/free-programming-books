@@ -294,6 +294,7 @@
 
 #### React
 
+* [Everything about react](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 
 

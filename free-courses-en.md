@@ -319,7 +319,7 @@
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
-* [Linux Tutorials and Projects] (https://www.udemy.com/course/linux-tutorials/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-SNDlJZaFfdmIyglEuDBWGw&utm_medium=udemyads&utm_source=aff-campaign) - Jason Cannon (Udemy)
+* [Linux Tutorials and Projects] (https://www.udemy.com/course/linux-tutorials) - Jason Cannon (Udemy)
 
 
 ### Lua

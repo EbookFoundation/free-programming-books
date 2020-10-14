@@ -382,6 +382,7 @@
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
+* [Getting started with windows powershell](https://docs.microsoft.com/en-us/previous-versions/tn-archive/cc875839(v=technet.10)?redirectedfrom=MSDN) (microsoft)
 
 
 ### .NET

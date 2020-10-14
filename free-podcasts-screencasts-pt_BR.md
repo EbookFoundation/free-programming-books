@@ -4,6 +4,7 @@
 * [Angular](#angular)
 * [Databases](#databases)
 * [DataScience](#datascience)
+* [Game development](#game-development)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
@@ -12,7 +13,6 @@
 * [Python](#python)
 * [TypeScript](#typescript)
 * [Vue.js](#vuejs)
-* [Game development](#game-development)
 
 
 ### Algoritmos
@@ -36,6 +36,11 @@
 
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
 * [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
+
+
+### Game development
+
+* [Podquest](http://www.podquest.com.br/) (podcast)
 
 
 ### HTML / CSS
@@ -97,8 +102,3 @@
 #### Vue.js
 
 * [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli  (screencast)
-
-
-### Game development
-
-* [Podquest](http://www.podquest.com.br/) (podcast)

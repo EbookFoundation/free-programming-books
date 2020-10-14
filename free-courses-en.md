@@ -319,9 +319,7 @@
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
-* [Learn The Linux Command Line: Basic Commands](https://www.udemy.com/course/command-line/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-0EX60tKVlIGSdRrs9QlrZA&utm_medium=udemyads&utm_source=aff-campaign) - Adam Eubankas (Udemy)
-* [Linux Tutorials and Projects] (https://www.udemy.com/course/linux-tutorials/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-SNDlJZaFfdmIyglEuDBWGw&utm_medium=udemyads&utm_source=aff-campaign) - Jason Cannon (Udemy)
-
+* [Learn The Linux Command Line: Basic Commands](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
 
 ### Lua
 

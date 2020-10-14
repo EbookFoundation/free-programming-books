@@ -1033,6 +1033,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Modern C](https://modernc.gforge.inria.fr) - Jens Gustedt (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
+* [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
 * [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
@@ -2278,6 +2279,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) -  Zachary Radtka, Donald Miner
 * [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebooks/hands-natural-language-processing-python) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
+* [How to code in Python 3](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf)
 * [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
   * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)

@@ -12,6 +12,7 @@
 * [Python](#python)
 * [TypeScript](#typescript)
 * [Vue.js](#vuejs)
+* [Game development](#game-development)
 
 
 ### Algoritmos
@@ -98,3 +99,6 @@
 * [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli  (screencast)
 
 
+### Game development
+
+* [Podquest](http://www.podquest.com.br/) (podcast)

@@ -315,6 +315,7 @@
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
 * [Algorithms Course Materials](http://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
+* [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (3.x) (PDF)
 * [Analysis and Design of Algorithms](http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html) - Sandeep Sen, IIT Delhi
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
@@ -379,6 +380,7 @@
 
 * [Competitive Programmer's Handbook](https://cses.fi/book.html) - Antti Laaksonen (PDF)
 * [Competitive Programming, 1st Edition](https://cpbook.net/#CP1details) (PDF)
+* [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf) - Johan Sannemo (PDF)
 
 
 #### Compiler Design
@@ -471,6 +473,7 @@
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) - Eli Stevens, Luca Antiga, Thomas Viehmann (PDF)
+* [Dive into Deep Learning](http://d2l.ai)
 * [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 * [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ereader/7093/?preview=#page/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
@@ -1291,7 +1294,8 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Cookbook](https://flutter.dev/docs/cookbook)
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
-* [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter/)
+* [Flutter Tutorial](https://www.tutorialspoint.com/flutter/flutter_tutorial.pdf) (PDF)
+* [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)
 
 
 ### Force.com
@@ -1428,6 +1432,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/) -  Simon Marlow
 * [Real World Haskell](http://book.realworldhaskell.org)
 * [Speeding Through Haskell](http://www.sthaskell.com)
+* [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - Stephen Diehl (PDF)
 * [Wise Man's Haskell](https://anchpop.github.io/wise_mans_haskell/) - Andre Popovitch
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
 
@@ -1447,6 +1452,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A free guide to learn HTML and CSS](http://marksheet.io)
 * [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/) - Aaron Gustafson
 * [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
+* [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
 * [Canvassing](https://web.archive.org/web/20160505010319/http://learnjs.io/canvassing/read/)
 * [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) - Mark Otto
 * [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
@@ -1466,6 +1472,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Learn CSS Layout](http://learnlayout.com)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com) - Shay Howe
+* [Magic of CSS](https://adamschwartz.co/magic-of-css/) - Adam Schwartz (HTML) (:construction: *in process*)
 * [MaintainableCSS](http://maintainablecss.com)
 * [Pocket Guide to Writing SVG](https://svgpocketguide.com) - Joni Trythall
 * [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html) - Jen Simmons, Chris O'Connor, Dylan Wooters, Peter Lubbers
@@ -1791,6 +1798,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Programming React Native](https://leanpub.com/programming-react-native)   *(Leanpub account or valid email requested)*
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 * [React Native Express](http://www.reactnativeexpress.com)
+* [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 
@@ -1804,6 +1812,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Vue.js
 
 * [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) (PDF)
+* [The Vue.js Handbook](https://flaviocopes.nyc3.digitaloceanspaces.com/vue-handbook/vue-handbook.pdf) - Flavio Copes (PDF)
 * [Vue Essential Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf) (PDF)
 
 
@@ -2112,6 +2121,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### PHP
 
+* [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Internals Book](http://www.phpinternalsbook.com)
@@ -2295,6 +2305,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
+* [Python 101](https://python101.pythonlibrary.org) - Michael Driscoll (HTML, TEXT)
 * [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
 * [Python 2.7 quick reference](https://web.archive.org/web/20171013204449/http://infohost.nmt.edu/tcc/help/pubs/python27/python27.pdf) - John W. Shipman (PDF) (2.7)
 * [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
@@ -2770,6 +2781,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Visual Basic
 
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
+* [Visual Basic Official Docs](https://docs.microsoft.com/en-us/dotnet/visual-basic)
 
 
 ### Visual Prolog

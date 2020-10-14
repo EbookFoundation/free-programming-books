@@ -1,6 +1,7 @@
 ### Index
 
 * [Competitive Programming](#competitive-programming)
+* [CTF Capture the Flag](#capture-the-flag)
 * [Data science](#data-science)
 * [Information security](#information-security)
 * [Problem Sets](#problem-sets)
@@ -10,6 +11,8 @@
 
 * [4Clojure](http://www.4clojure.com)
 * [A2 Online Judge](https://a2oj.com)
+* [AtCoder](https://atcoder.jp)
+* [Binary Search](https://binarysearch.com)
 * [Caribbean Online Judge](http://coj.uci.cu)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
@@ -20,7 +23,10 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
+* [COCI](https://hsin.hr/coci/)
+* [E-olymp](https://www.e-olymp.com/en/)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
+* [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
@@ -34,6 +40,15 @@
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
 
+### Capture the flag
+
+* [Google Ctf](https://capturetheflag.withgoogle.com) (email adress *requested*)
+* [Hackthebox](https://www.hackthebox.eu) (email adress *requested*)
+* [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
+* [Picoctf](https://picoctf.org/resources) (email adress *requested*)
+* [TryHackMe](https://tryhackme.com) (email adress *requested*)
+
+
 ### Data science
 
 * [Kaggle](https://www.kaggle.com)
@@ -42,7 +57,7 @@
 ### Information security
 
 * [ångstromCTF](https://angstromctf.com)
-* [CTFtime](https://ctftime.org)
+* [CTFtime](https://ctftime.org) 
 
 
 ### Problem Sets
@@ -56,6 +71,7 @@
 * [Codeforces](http://codeforces.com/problemset)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
+* [CSES Problem Set](https://cses.fi/problemset/)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](http://www.geeksforgeeks.org)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)

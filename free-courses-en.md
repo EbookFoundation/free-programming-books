@@ -172,6 +172,7 @@
 
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
+* [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) - Ryan Holbrook
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
@@ -308,7 +309,10 @@
 
 #### Vue.js
 
+* [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
 * [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
+* [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
+* [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
 
 
 ### Kubernetes
@@ -319,7 +323,9 @@
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
-* [Linux Tutorials and Projects] (https://www.udemy.com/course/linux-tutorials) - Jason Cannon (Udemy)
+* [Linux Operating System Fundamentals](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/) - Linux Academy (Udemy)
+* [Linux Tutorials and Projects](https://www.udemy.com/course/linux-tutorials) - Jason Cannon (Udemy)
+* [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat, Inc. (Udemy)
 
 
 ### Lua

@@ -28,6 +28,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scala](#scala)
 * [SQL](#sql)
 * [Vim](#vim)
@@ -219,6 +220,11 @@
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
+
+
+### Rust
+
+* [Rustlings](https://github.com/rust-lang/rustlings)
 
 
 ### Scala

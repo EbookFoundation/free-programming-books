@@ -34,6 +34,7 @@ ADV - продвинутый. Тонкости.
 * [Java. Путь от ученика до эксперта.](http://www.job4j.ru/courses/java_way_from_student_to_master.html) - Пётр Арсентьев (INT)
 * [Вводный курс. Java в аналогиях.](http://www.job4j.ru/courses/java_beginner.html) - Пётр Арсентьев (BEG)
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
+* [Java. Базовый курс](https://stepik.org/course/187) - Stepik (BEG)
 
 
 ### Javascript
@@ -48,6 +49,7 @@ ADV - продвинутый. Тонкости.
 * [Технологический стек NodeJS](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md) - Тимур Шемсединов (INT)
 * [Функциональное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md) - Тимур Шемсединов (INT)
 * [Шаблоны проектирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md) - Тимур Шемсединов (INT)
+* [Hexlet: Введение в программирование (JavaScript ES6)](https://stepik.org/course/13929/) - Stepik (BEG)
 
 
 #### Node.js
@@ -73,6 +75,7 @@ ADV - продвинутый. Тонкости.
 * [DBA2. Администрирование PostgreSQL. Расширенный курс](https://postgrespro.ru/education/courses/DBA2) (INT)
 * [DEV1. Разработка серверной части приложений PostgreSQL](https://postgrespro.ru/education/courses/DEV1) (ADV)
 * [Hacking PostgreSQL](https://postgrespro.ru/education/courses/hacking) (INT)
+* [Свободное погружение в СУБД(PostgreSQL)](https://stepik.org/course/70710) - Stepik (BEG)
 
 
 ### Python

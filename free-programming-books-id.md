@@ -85,6 +85,9 @@
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
+* [Ebook Pemrograman Web dengan PHP dan MySQL](https://www.academia.edu/29380509/Ebook_Pemrograman_Web_dengan_PHP_dan_MySQL)
+
+Ebook Pemrograman Web dengan PHP dan MySQL
 
 
 ### Python

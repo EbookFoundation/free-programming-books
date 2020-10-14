@@ -60,6 +60,7 @@
 
 * [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
+* [Mengenal Pemrograman ReactJS](https://s3.amazonaws.com/elexmedia/preview/9786020448800.pdf) - (PDF)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 
 

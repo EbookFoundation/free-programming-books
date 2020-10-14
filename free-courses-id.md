@@ -2,7 +2,7 @@
 
 * [Android](#android)
 * [C / C++](#c--c)
-* [C#](#c#)
+* [C#](#c)
 * [Dart](#dart)
 * [Docker](#docker)
 * [Flutter](#flutter)

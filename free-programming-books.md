@@ -798,6 +798,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](http://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
+* [Designing Event-Driven Systems](http://www.benstopford.com/2018/04/27/book-designing-event-driven-systems/) - Ben Stopford (EPUB, MOBI, PDF)
 * [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) (email address *requested*, not required)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org) - Markus Voelter

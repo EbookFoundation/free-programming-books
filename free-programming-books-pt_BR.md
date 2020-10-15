@@ -41,6 +41,8 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
+* [Machine_Learning](#machine_learning)
+* [Six_Sigma](#sigma)
 
 
 ### Agnósticos
@@ -313,4 +315,12 @@
 * [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 * [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza
+
+### Machine Learning
+
+* [The hundred page machine learning book](https://github.com/Soumyajit2411/Machine-Learning-Book) -Andriy brukov
+
+### Six Sigma
+
+* [Six Sigma Books](https://github.com/Soumyajit2411/Six-sigma)
 

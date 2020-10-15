@@ -2593,6 +2593,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html)
 * [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
+* [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart
 
 
 ### Sed
@@ -2612,7 +2613,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Enterprise Pharo: a Web Perspective](http://books.pharo.org/enterprise-pharo/)
 * [Numerical Methods with Pharo](http://books.pharo.org/numerical-methods/) - Didier Besset, Stéphane Ducasse, Serge Stinckwich
 * [Pharo by Example](http://books.pharo.org/pharo-by-example/) - Andrew P. Black et al. (Smalltalk Implementation and IDE)
-* [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 
 

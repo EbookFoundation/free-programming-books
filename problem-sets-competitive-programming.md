@@ -47,7 +47,7 @@
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources) (email adress *requested*)
 * [TryHackMe](https://tryhackme.com) (email adress *requested*)
-* [HackTheBox](http://ctf.hacktivitycon.com/)
+* [HackTheBox](http://ctf.hacktivitycon.com)
 * [Hacker101](https://ctf.hacker101.com)
 
 

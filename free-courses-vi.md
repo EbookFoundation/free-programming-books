@@ -140,6 +140,7 @@
 
 * [NodeJS Cơ Bản](https://www.codehub.com.vn/Node-js-Co-Ban)
 * [NodeJS Cơ Bản](https://www.youtube.com/watch?v=3W8jskQUjnk&list=PL4VEtQ6PTTQEZp2kLIC7OE0E8OsObv0k8) - Ide Academy
+* [NodeJS Cơ Bản - Khoa Pham](https://www.youtube.com/watch?v=FHyAwXbPMVs&list=PLzrVYRai0riQXAXJL9rg62tBvwD0ltJn-&ab_channel=TrungT%C3%A2m%C4%90%C3%A0oT%E1%BA%A1oTinH%E1%BB%8DcKhoaPh%E1%BA%A1m)
 
 
 ### Objective-C

@@ -652,7 +652,7 @@
 
 ### Theoretical Computer Science
 
-* [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext/xcont.html) - Alan J. Perlis
+* [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext/xcont.html) - Alan J. Perlis 
 
 
 ### TypeScript

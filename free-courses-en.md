@@ -343,6 +343,7 @@
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 * [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
+* [Real World python machine learning tutorial with python(sklearn basics, NLP and classifires)](https://www.youtube.com/watch?v=M9Itm95JzL0&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=6&t=1149s) - Keith Galli
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 

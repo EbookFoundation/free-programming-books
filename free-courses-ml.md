@@ -1,3 +1,48 @@
-#### NodeJS
+#### സി ട്യൂട്ടോറിയൽ (C Tutorial)
 
-* [Node.js അടിസ്ഥാനങ്ങൾ](https://www.youtube.com/watch?v=_-akf828R8U&list=PLY-ecO2csVHd8R8sg-4vhN2BzZQLxIZO9&index=20) - ക്രോസ്റോഡ്സ്  (Youtube)
+യുണിക്സ് ഓപ്പറേറ്റിംഗ് സിസ്റ്റം വികസിപ്പിക്കുന്നതിനായി 1972 ൽ ബെൽ ടെലിഫോൺ ലബോറട്ടറികളിൽ ഡെന്നിസ് എം. റിച്ചി വികസിപ്പിച്ചെടുത്ത പൊതു-ഉദ്ദേശ്യ, നടപടിക്രമ, അനിവാര്യമായ കമ്പ്യൂട്ടർ പ്രോഗ്രാമിംഗ് ഭാഷയാണ് സി പ്രോഗ്രാമിംഗ്. ഏറ്റവും വ്യാപകമായി ഉപയോഗിക്കുന്ന കമ്പ്യൂട്ടർ ഭാഷയാണ് സി. ജാവ പ്രോഗ്രാമിംഗ് ഭാഷയ്‌ക്കൊപ്പം ഇത് ജനപ്രീതിയിൽ ഒന്നാം സ്ഥാനത്ത് തുടരുന്നു, ഇത് ആധുനിക സോഫ്റ്റ്‌വെയർ പ്രോഗ്രാമർമാർക്കിടയിൽ ഒരുപോലെ പ്രചാരമുള്ളതും വ്യാപകമായി ഉപയോഗിക്കപ്പെടുന്നതുമാണ്.
+
+### സൂചിക ()
+1. Home
+2. Overview
+3. Environment Setup
+4. Program Structure
+5. Basic Syntax
+6. Data Types
+7. Variables
+C - Constants
+C - Storage Classes
+C - Operators
+C - Decision Making
+C - Loops
+C - Functions
+C - Scope Rules
+C - Arrays
+C - Pointers
+C - Strings
+C - Structures
+C - Unions
+C - Bit Fields
+C - Typedef
+C - Input & Output
+C - File I/O
+C - Preprocessors
+C - Header Files
+C - Type Casting
+C - Error Handling
+C - Recursion
+C - Variable Arguments
+C - Memory Management
+C - Command Line Arguments
+
+1.Why to Learn C Programming?
+
+സി പ്രോഗ്രാമിംഗ് ഭാഷ വിദ്യാർത്ഥികൾക്കും ജോലി ചെയ്യുന്ന പ്രൊഫഷണലുകൾക്കും സോഫ്റ്റ്വെയർ ഡെവലപ്മെൻറ് ഡൊമെയ്‌നിൽ പ്രത്യേകിച്ചും ഒരു മികച്ച സോഫ്റ്റ്വെയർ എഞ്ചിനീയറാകാൻ നിർബന്ധമാണ്. സി പ്രോഗ്രാമിംഗ് പഠിക്കുന്നതിന്റെ ചില പ്രധാന ഗുണങ്ങൾ ഞാൻ പട്ടികപ്പെടുത്തും:
+ 
+ 1.പഠിക്കാൻ എളുപ്പമാണ്
+ 2.ഘടനാപരമായ ഭാഷ
+ 3.ഇത് കാര്യക്ഷമമായ പ്രോഗ്രാമുകൾ നിർമ്മിക്കുന്നു
+ 4.ഇതിന് താഴ്ന്ന നിലയിലുള്ള പ്രവർത്തനങ്ങൾ കൈകാര്യം ചെയ്യാൻ കഴിയും
+ 5.വിവിധതരം കമ്പ്യൂട്ടർ പ്ലാറ്റ്‌ഫോമുകളിൽ ഇത് സമാഹരിക്കാനാകും
+
+2.

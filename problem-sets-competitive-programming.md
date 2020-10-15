@@ -57,7 +57,7 @@
 ### Information security
 
 * [ångstromCTF](https://angstromctf.com)
-* [CTFtime](https://ctftime.org) 
+* [CTFtime](https://ctftime.org)
 
 
 ### Problem Sets

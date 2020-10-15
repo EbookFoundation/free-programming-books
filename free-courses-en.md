@@ -148,6 +148,7 @@
 
 ### Cuda
 
+* [CUDA - Parallel Computing](http://www.hds.bme.hu/~fhegedus/C++/Shane%20Cook%20-%20CUDA%20Programming%20-olvasOM.pdf) - Shane Cook (PDF)
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
 

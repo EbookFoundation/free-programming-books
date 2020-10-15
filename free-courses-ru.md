@@ -1,5 +1,6 @@
 ### Index
 
+* [C++](#cpp)
 * [Clojure](#clojure)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -16,6 +17,20 @@
 BEG - новичок. Основы.
 INT - средний. Расширенные возможности.
 ADV - продвинутый. Тонкости.
+
+
+### C++
+
+* [Курс от Яндекса на Stepik](https://stepik.org/course/363) (BEG)
+* [Курс "Основы разработки на C++: белый пояс" на Coursera](https://www.coursera.org/programs/itmo-university-al-mvhbz/browse?productId=Pl4ufpPXEeaNFwpTUaS5fQ&productType=course&query=с%2B%2B+белый+пояс&showMiniModal=true) (BEG)
+* [Курс "Основы разработки на C++: жёлтый пояс" на Coursera](https://www.coursera.org/programs/itmo-university-al-mvhbz/browse?productId=wNYswUxHEeelTA5rVsWkbg&productType=course&query=с%2B%2B+желтый+пояс&showMiniModal=true) (BEG)
+* Курс от CSC на Stepik ([часть 1](https://stepik.org/course/7) и [часть 2](https://stepik.org/course/3206)) (INT)
+* [Курс "Основы разработки на C++: красный пояс" на Coursera](https://www.coursera.org/programs/itmo-university-al-mvhbz/browse?productId=vHqyWKloEee4dQ4f4OrUMg&productType=course&query=с%2B%2B+красный+пояс&showMiniModal=true) (INT)
+* [Курс "Основы разработки на C++: коричневый пояс" на Coursera](https://www.coursera.org/programs/itmo-university-al-mvhbz/browse?productId=0jkatqloEeecJQoI0GzQzg&productType=course&query=с%2B%2B+коричневый+пояс&showMiniModal=true) (INT)
+* [Курс "Основы разработки на C++: чёрный пояс" на Coursera](https://www.coursera.org/programs/itmo-university-al-mvhbz/browse?productId=4AfNP6loEeevAAqY8Yp9-A&productType=course&query=с%2B%2B+черный+пояс&showMiniModal=true) (INT)
+* [Курс "Углубленное программирование на C/C++" на Stepik](https://stepik.org/course/153) (ADV)
+* [Курс по программированию для Linux на Stepik (Embedded разработка)](https://stepik.org/course/548) (ADV)
+* [Курс по сетевому и многопоточному программированию на Stepik](https://stepik.org/course/149)
 
 
 ### Clojure

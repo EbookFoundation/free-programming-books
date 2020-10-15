@@ -1765,6 +1765,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Node.js Notes](http://books.goalkicker.com/NodeJSBook) (PDF)
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [The Node Beginner Book](http://nodebeginner.org)
+* [Scaling Your Node.js Apps](http://www.allitebooks.com/scaling-your-node-js-apps/)
+* [Reactive Programming With Node.js](http://www.allitebooks.com/reactive-programming-with-node-js/)
 
 
 #### Om

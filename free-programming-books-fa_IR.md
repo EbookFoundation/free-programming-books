@@ -32,7 +32,7 @@
 
 #### Symfony
 
-* [سیمفونی ۵: سریع‌ترین مسیر](https://symfony.com/doc/5.0/the-fast-track/fa/index.html)
+* [سیمفونی ۵: سریع‌ترین مسیر](https://symfony.com/doc/current/the-fast-track/fa/index.html)
 
 
 ### Python

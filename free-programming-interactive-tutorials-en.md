@@ -19,6 +19,7 @@
   * [Angular.js](#angularjs)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)
+* [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -27,6 +28,7 @@
 * [Ocaml](#ocaml)
 * [PHP](#php)
 * [Python](#python)
+* [React](#react)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
@@ -167,6 +169,8 @@
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
 
+### LaTeX
+* [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 ### Lisp
 
@@ -213,6 +217,8 @@
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
+### React
+* [React Tutorial](https://react-tutorial.app)
 
 ### Ruby
 

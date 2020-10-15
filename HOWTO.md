@@ -4,6 +4,8 @@ Welcome to Free-Programming-Books! We welcome new contributors; even those makin
 * [Github Hello World](https://guides.github.com/activities/hello-world/)
 * [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
 * [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+* [Youtube - How to use Markdown in Github](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [coursear - Using Git commands](https://www.coursera.org/learn/introduction-git-github)
 
 
 Don't hesitate to ask questions; every contributor started with a first PR. You could be our thousandth!

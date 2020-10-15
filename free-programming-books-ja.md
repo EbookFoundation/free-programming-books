@@ -73,6 +73,7 @@
 * [Standard ML](#standard-ml)
 * [Swift](#swift)
 * [Tcl/Tk](#tcltk)
+* [Theoretical Computer Science](#theoretical-computer-science)
 * [TypeScript](#typescript)
 * [VBA](#vba)
 * [Vim](#vim)
@@ -647,6 +648,11 @@
 
 * [Tcl/Tk お気楽 GUI プログラミング](http://www.nct9.ne.jp/m_hiroi/tcl_tk.html) - 広井誠
 * [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf) - 只木進一 (PDF)
+
+
+### Theoretical Computer Science
+
+* [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext/xcont.html) - Alan J. Perlis 
 
 
 ### TypeScript

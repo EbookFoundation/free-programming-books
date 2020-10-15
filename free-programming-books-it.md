@@ -40,9 +40,7 @@
 
 #### Algoritmi e Strutture Dati
 
-* [Algoritmi e Strutture Dati - Astrazione, Progetto e Realizzazione](http://www.astromoodle.altervista.org/download/libro-asd.pdf) - M. Vento e P. Foggia (PDF)
 * [Appunti di Analisi e Progettazione di Algoritmi](https://www.sci.unich.it/~acciaro/corsoASD.pdf) - V. Acciaro T. Roselli e V. Marengo (PDF)
-* [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf) (PDF)
 * [Progetto e Analisi di Algoritmi](http://bertoni.di.unimi.it/Algoritmi_e_Strutture_Dati.pdf) - A. Bertoni e M. Goldwurm (PDF)
 
 

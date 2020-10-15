@@ -1041,7 +1041,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
-
+* [Learn C The Hard Way - Zed A. Shaw](https://users.elis.ugent.be/~jrvdnbro/learn_c_the_hard_way.pdf) - Zed A. Shaw (PDF)
 
 ### C Sharp
 

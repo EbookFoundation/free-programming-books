@@ -2002,8 +2002,10 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Neo4J
 
-* [Graph Databases](http://info.neotechnology.com/rs/neotechnology/images/GraphDatabases.pdf) (PDF)
-* [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) *(account required)*
+* [Fullstack GraphQL Applications with GRANDStack – Essential Excerpts](https://neo4j.com/fullstack-graphql-applications-with-grandstack/) *(email requested)*
+* [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) *(email requested)*
+* [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) *(email requested)*
+* [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) *(email requested)*
 
 
 ### .NET Framework

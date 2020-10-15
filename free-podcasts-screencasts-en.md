@@ -145,7 +145,7 @@
 * [Modern Web](https://www.thisdot.co/modern-web) (podcast)
 * [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) (screencast)
 * [Real Talk JavaScript](https://realtalkjavascript.simplecast.com) (podcast)
-* [Syntax](https://syntax.fm) (podcast)
+* [Syntax](https://syntax.fm) - Wes Bos and Scott Tolinski (podcast)
 * [The Javascript Show](http://javascriptshow.com) (podcast)
 
 
@@ -167,12 +167,12 @@
 #### Node.js
 
 * [Nodeup](http://nodeup.com) (podcast)
-* [Twitter Bot Tutorial - Node.js and Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) (screencast)
+* [Twitter Bot Tutorial - Node.js and Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) - The Coding Train (screencast)
 
 
 #### p5.js
 
-* [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (screencast)
+* [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) - The Coding Train (screencast)
 
 
 #### React.js
@@ -263,7 +263,7 @@
 * [PG Casts](https://www.pgcasts.com) (screencast)
 
 ### Processing 
-* [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) (screencast)
+* [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) - The Coding Train (screencast)
 
 
 ### Python

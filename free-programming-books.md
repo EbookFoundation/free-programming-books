@@ -1620,6 +1620,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 * [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Dr. Axel Rauschmayer
 * [Dev Docs](http://devdocs.io)

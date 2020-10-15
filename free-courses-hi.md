@@ -25,4 +25,4 @@
 
 
 ### Machine Learning 
-* [Machine Learning Free Course] (https://www.greatlearning.in/academy?referrer_code=GL9Y0VSXG9KJM) -Great Learning
+* [Machine Learning Free Course](https://www.greatlearning.in/academy?referrer_code=GL9Y0VSXG9KJM) -Great Learning

@@ -315,6 +315,7 @@
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
 * [Algorithms Course Materials](http://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
+* [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (3.x) (PDF)
 * [Analysis and Design of Algorithms](http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html) - Sandeep Sen, IIT Delhi
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
@@ -379,6 +380,7 @@
 
 * [Competitive Programmer's Handbook](https://cses.fi/book.html) - Antti Laaksonen (PDF)
 * [Competitive Programming, 1st Edition](https://cpbook.net/#CP1details) (PDF)
+* [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf) - Johan Sannemo (PDF)
 
 
 #### Compiler Design
@@ -1618,6 +1620,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 * [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Dr. Axel Rauschmayer
 * [Dev Docs](http://devdocs.io)
@@ -1796,6 +1799,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Programming React Native](https://leanpub.com/programming-react-native)   *(Leanpub account or valid email requested)*
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 * [React Native Express](http://www.reactnativeexpress.com)
+* [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 
@@ -2778,6 +2782,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Visual Basic
 
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
+* [Visual Basic Official Docs](https://docs.microsoft.com/en-us/dotnet/visual-basic)
 
 
 ### Visual Prolog

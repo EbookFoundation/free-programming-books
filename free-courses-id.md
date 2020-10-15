@@ -2,6 +2,7 @@
 
 * [Android](#android)
 * [C / C++](#c--c)
+* [C#](#c)
 * [Dart](#dart)
 * [Docker](#docker)
 * [Flutter](#flutter)
@@ -37,6 +38,11 @@
 * [Belajar C++](https://www.youtube.com/playlist?list=PLF82-I80PwDNKmeyYBe4CkEj7excOdy7f) - Guntur Budi
 * [Belajar C++ - Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7-RC_-hkL9gu0_ofABw862) - Kelas Terbuka
 * [Belajar C++ Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI) - Kelas Terbuka
+
+
+### C#
+
+* [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
 
 
 ### Dart

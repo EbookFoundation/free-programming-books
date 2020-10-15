@@ -172,6 +172,7 @@
 
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
+* [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) - Ryan Holbrook
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
@@ -294,6 +295,8 @@
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
+* [React Crash Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) - freecodecamp
+* [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - WebDevSimplified
 
 
 #### Redux
@@ -322,6 +325,8 @@
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
+* [Linux Operating System Fundamentals](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/) - Linux Academy (Udemy)
+* [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat, Inc. (Udemy)
 
 
 ### Lua

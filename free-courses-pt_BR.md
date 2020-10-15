@@ -30,6 +30,7 @@
 * [Sass](#sass)
 * [Shell](#shell)
 * [Swift](#swift)
+* [Six Sigma](#six sigma)
 
 
 ### Android
@@ -160,6 +161,7 @@
 
 * [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr
 * [Neural Networks e Deep Learning para Leigos: Sem Mistérios!](https://www.udemy.com/course/neural-networks-e-deep-learnig-para-leigos/) - Fernando Amaral
+* [The hundred page machine learning book](https://github.com/Soumyajit2411/Machine-Learning-Book) - Andriy Burkov
 
 
 ### Markdown
@@ -234,3 +236,7 @@
 ### WordPress
 
 * [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Curso em vídeo (YouTube)
+
+### Six Sigma
+
+* [Sig Sigma books](https://github.com/Soumyajit2411/Six-sigma)-Github

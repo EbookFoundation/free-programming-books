@@ -87,6 +87,7 @@
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
 * [Go – Aprenda a Programar (Curso)](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Ellen Körbes (YouTube)
 * [Programar em Go](https://www.youtube.com/playlist?list=PLV5KfEYwFC1G3r7XlgVCE5HVdVKj-UdRa) - Caffeine Algorithm (YouTube)
+* [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes/) - Chris James (GitHub)
 
 
 ### Gulp

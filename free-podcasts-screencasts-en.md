@@ -262,6 +262,9 @@
 
 * [PG Casts](https://www.pgcasts.com) (screencast)
 
+### Processing 
+* [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) (screencast)
+
 
 ### Python
 

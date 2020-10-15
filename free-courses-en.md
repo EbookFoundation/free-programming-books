@@ -239,6 +239,7 @@
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
+* [Learning JavaScript Design Patterns](https://github.com/EbookFoundation/free-programming-books.git) - Addy Osmani
 * [learn:query](https://learnquery.infinum.co)
 
 

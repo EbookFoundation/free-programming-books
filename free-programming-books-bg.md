@@ -11,9 +11,9 @@
 
 ### C
 
-* [Програмиране = ++Алгоритми;](https://programirane.org/download-now/) - Преслав Наков и Панайот Добриков
 * [ANSI C - Курс за начинаещи](http://www.progstarter.com/index.php?option=com_content&view=article&id=8&Itemid=121&lang=bg) - Димо Петков
 * [ANSI C - Пълен справочник](http://progstarter.com/index.php?option=com_content&view=article&id=9&Itemid=122&lang=bg) - Димо Петков
+* [Програмиране = ++Алгоритми;](https://programirane.org/download-now/) - Преслав Наков и Панайот Добриков
 
 
 ### C Sharp

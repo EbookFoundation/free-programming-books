@@ -144,6 +144,7 @@
 ### Compilers
 
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
+* [Compilers: Theory and Practice](https://www.udacity.com/course/compilers-theory-and-practice--ud168) (udacity)
 
 
 ### Cuda

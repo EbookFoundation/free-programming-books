@@ -22,3 +22,7 @@
 ### Javascript
 
 * [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry
+
+
+### Machine Learning 
+* [Machine Learning Free Course] (https://www.greatlearning.in/academy?referrer_code=GL9Y0VSXG9KJM) -Great Learning

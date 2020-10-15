@@ -99,6 +99,23 @@
 
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
 * [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb) - Prawito Hudoro
+* [ReactJS Dasar Bahasa Indonesia](https://www.youtube.com/watch?v=AYb7l6XDlPo&list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY) - Wahidev Academy
+* [Tutorial React JS dengan API](https://www.youtube.com/watch?v=JmGlw-69ktg&list=PLIan8aHxsPj1ugN7lJ6zdibcetnzpaeVm) - Wahidev Academy
+* [React.js Fundamental](https://www.youtube.com/watch?v=mDNj800bjWQ&list=PLx4zY98IACXiMJTmFk_hyBOg6P1lEWHso) - Tahu Coding
+* [Tutorial ReactJS Bahasa Indonesia](https://www.youtube.com/watch?v=b8dV7DPAQ6U&list=PLG7DzMHYnPgSkNfiA_nz5VnYxPxjzWYol) - Rifki Fauzi
+* [Belajar React JS (bahasa sunda)](https://www.youtube.com/watch?v=5NlzEpd2Q2k&list=PLG7DzMHYnPgTi9ud-k7nc0CuhySOmP5Hk) - Rifki Fauzi
+* [React Tutorial](https://www.youtube.com/watch?v=EBRz-Cf25vE&list=PLH1gH0TmFBBgdQJJK_f_dYSrQXCb-23hJ) - Ipung Dev
+* [Tutorial Belajar React.js Dalam Bahasa Indonesia](https://www.youtube.com/watch?v=9Xt0fkLXgkM&list=PL4CA5HoqIyrqCfKyqN1dE60kmzv5Iu5QR) - YouGo Belajar Teknologi
+* [Tutorial React dari Dasar](https://www.youtube.com/watch?v=cEC2l0miZcc&list=PL0-7Xi0GB3te-yQh_th102-9CR1V8_2vQ) - idr corner
+* [Tutorial React.js Bahasa Indonesia](https://www.youtube.com/watch?v=3M4dFZL5NRs&list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - LampungDev
+* [Tutorial ReactJS Bahasa Indonesia](https://www.youtube.com/watch?v=0cWKQLWcVr4&list=PLMrwI6jIZn-3CQm1-6CFs4AJClegE2zVP) - Musobar Media
+
+* [Tutorial React Native Indonesia](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ3SP3PpRb870UoT_0_rjLpV) - Prawito Hudoro
+* [Tutorial React Native Dasar](https://www.youtube.com/watch?v=iZ1iMR6_Mb8&list=PLIan8aHxsPj33EE-3KqsvkAeQxHyQ4DVt) - Wahidev Academy
+* [React Native Tutorial Dasar Indonesia](https://www.youtube.com/watch?v=Nytr55m21eM&list=PLH1gH0TmFBBhiuNOV2hPKU1Ig27rmf7Lm) - Ipung Dev
+* [Tutorial React Native Indonesia](https://www.youtube.com/watch?v=F3VxW0GFZ3M&list=PLjq42-S9KIezIzF92Uqd12vCcBbN5tz3H) - Arif rachman
+* [React Native](https://www.youtube.com/watch?v=nL11FMIrhrA&list=PLHwKRT_Kb3rwc3gVCdruwrbHYnT2-eHEd) - CahBagus Official
+* [React native](https://www.youtube.com/watch?v=OgLaGWBI3Mw&list=PLunwFPJ94O1b9M0Hi-hHmsIB6Tq1SucFc) - chaidar izet
 
 
 ### Vue

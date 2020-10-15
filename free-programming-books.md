@@ -1426,7 +1426,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Haskell](https://en.wikibooks.org/wiki/Haskell) - Wikibooks
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.4)
 * [Haskell no panic](http://lisperati.com/haskell/)
-* [Haskell Notes for Professionals](https://goalkicker.com/HaskellBook/) (PDF) - Compiled from StackOverflow documentation
+* [Haskell Notes for Professionals](https://goalkicker.com/HaskellBook/) (PDF) - Compiled from StackOverflow documentation (3.x)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovaca
@@ -1639,7 +1639,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js) - Dr. Axel Rauschmayer
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
-* [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) (PDF) - Compiled from StackOverflow documentation
+* [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) (PDF) - Compiled from StackOverflow documentation (3.x)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
 * [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite
 * [Javascript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) (email address *requested*, not required)
@@ -1878,7 +1878,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
 * [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
-* [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) (PDF) - Compiled from StackOverflow documentation
+* [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) (PDF) - Compiled from StackOverflow documentation (3.x)
 * [Linux Device Drivers, Third Edition](http://lwn.net/Kernel/LDD3/) - Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)

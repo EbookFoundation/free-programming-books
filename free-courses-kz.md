@@ -30,4 +30,3 @@ ADV - дамытушы. Детальді кодты үйрену.
 ### Javascript
 
 * [Javascript. Java курсының негізі](https://bilgen.academy/course/view.php?id=506) (BEG)
-

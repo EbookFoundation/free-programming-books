@@ -30,7 +30,7 @@
 * [Sass](#sass)
 * [Shell](#shell)
 * [Swift](#swift)
-* [Six Sigma](#six sigma)
+* [Six_Sigma](#six sigma)
 
 
 ### Android

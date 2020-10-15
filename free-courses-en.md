@@ -308,6 +308,9 @@
 
 * [Develop web apps in free-programming-playgrounds.md.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
+#### Software Testing
+
+* [Software Testing](https://fall14se.files.wordpress.com/2017/12/software-testing-yogesh-singh.pdf) : A complete guide on software testing for beginners 
 
 #### Vue.js
 

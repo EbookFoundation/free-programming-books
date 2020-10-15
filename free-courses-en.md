@@ -294,9 +294,9 @@
 
 #### React
 
-* [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 * [React Crash Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) - freecodecamp
 * [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - WebDevSimplified
+* [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 
 
 #### Redux

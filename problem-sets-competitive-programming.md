@@ -52,6 +52,7 @@
 ### Data science
 
 * [Kaggle](https://www.kaggle.com)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu)
 
 
 ### Information security

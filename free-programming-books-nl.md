@@ -1,17 +1,6 @@
 ### Index
-
-* [PHP](#php)
-  * [Symfony](#symfony)
 * [Python](#python)
 * [Scratch](#scratch)
-
-
-### PHP
-
-#### Symfony
-
-* [Symfony 5: Snel van start](https://symfony.com/doc/current/the-fast-track/nl/index.html)
-
 
 ### Python
 

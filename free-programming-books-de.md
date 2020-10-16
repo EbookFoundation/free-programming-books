@@ -1,6 +1,5 @@
 ### Index
 
-* [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [ABAP](#abap)
 * [Action Script](#action-script)
 * [Android](#android)
@@ -27,16 +26,9 @@
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [UML](#uml)
+* [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Unix](#unix)
 * [Visual Basic](#visual-basic)
-
-
-### Unabhängig von der Programmiersprache
-
-* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
-* [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
-* [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
-* [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
 
 
 ### ABAP
@@ -199,6 +191,14 @@
 ### UML
 
 * [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml/)
+
+
+### Unabhängig von der Programmiersprache
+
+* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
+* [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
+* [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
+* [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
 
 
 ### Unix

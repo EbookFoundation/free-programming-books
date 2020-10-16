@@ -743,7 +743,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Professional Development
 
 * [Clean Code Developer: An initiative for more professionalism in software development](https://www.gitbook.com/book/ccd_school/clean-code-developer-com/details) (:construction: *in process*)
-* [Code CompleteL A practical handbook of software construction](https://github.com/xianshenglu/document/raw/master/Code%20Complete%202nd%20Edition.pdf)
+* [Code Complete: A practical handbook of software construction](https://github.com/xianshenglu/document/raw/master/Code%20Complete%202nd%20Edition.pdf) - Steve McConnell (PDF)
 * [Confessions of an IT Manager](https://www.red-gate.com/library/confessions-of-an-it-manager) - Phil Factor (PDF)
 * [Don't Just Roll the Dice](https://www.red-gate.com/library/dont-just-roll-the-dice) - Neil Davidson (PDF)
 * [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite

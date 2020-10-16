@@ -94,7 +94,7 @@
 
 * [Flutter 입문](https://www.youtube.com/playlist?list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv)
 * [Flutter 중급](https://www.youtube.com/playlist?list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe)
-* [Flutter Dart 문법 정리](https://youtu.be/J_cQyPGyHRI)
+* [Flutter Dart 문법 정리](https://youtu.be/J_cQyPGyHRI/)
 
 
 ### Git

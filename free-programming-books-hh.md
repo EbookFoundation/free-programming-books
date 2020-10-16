@@ -2,7 +2,7 @@
 
 -   [HTML css](#html)
 
-### HTML css
+### html
 
 -   [HTML5 and CSS3 Fundamentals by Stone River eLearning](https://www.udemy.com/course/html5-fundamentals-for-beginners/) (PDF)
 

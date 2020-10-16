@@ -52,6 +52,7 @@
   * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
+  * [Flask](#flask)
 * [R](#r)
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
@@ -249,6 +250,14 @@
 
 * [Программирование под Android](https://metanit.com/java/android) - Евгений Попов
 * [Уроки по Android](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
+* [Освой программирование играючи Android](http://developer.alexanderklimov.ru/android/) - Александр Климов
+* [Уроки по разработке андроид-приложений](https://www.fandroid.info/)
+* [Большая подборка ресурсов для изучения Android-разработки](https://tproger.ru/digest/master-android-development/)
+* [20 Open Source проектов для Android, которые могут научить вас новому](https://clck.ru/RRmp6)
+* [План изучения Android-разработки](https://apptractor.ru/learn/plan-izucheniya-android-razrabotki-dlya-nachinayushhih.html)
+* [Цикл статей по подготовке к собеседованию по Android](https://clck.ru/Hz2zM) - Веселина Зацепина
+* [Ресурсы, о которых должен знать каждый Android-разработчик](https://habr.com/ru/post/175825/)
+* [Как работает Android](https://habr.com/ru/company/solarsecurity/blog/334796/)
 
 
 #### EasyMock
@@ -439,6 +448,12 @@
 
 * [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *в процессе написания*)
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
+
+
+#### Flask
+
+* [Мега-учебник по Flask](https://habr.com/ru/post/346306/)
+* [Flask](https://ru.wikibooks.org/wiki/Flask) - Викиучебник
 
 
 ### R

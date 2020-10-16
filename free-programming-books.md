@@ -589,6 +589,7 @@
 * [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
 * [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) -  Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder (PDF)
 * [Blockchain By Example](https://www.packtpub.com/free-ebooks/blockchain-example) - Bellaj Badr, Richard Horrocks, Xun (Brian) Wu (Packt account *required*)
+* [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/~playbook/)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
@@ -1035,6 +1036,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Modern C](https://modernc.gforge.inria.fr) - Jens Gustedt (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
+* [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
 * [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
@@ -2599,6 +2601,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html)
 * [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
+* [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart
 
 
 ### Sed

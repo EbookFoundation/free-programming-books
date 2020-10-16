@@ -95,6 +95,7 @@
 * [Udacity Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 * [Udacity Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 * [Udacity Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
+* [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
 
 ### Angular

@@ -1,6 +1,6 @@
 ### Index
 
-* [0 - Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
+* [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [ABAP](#abap)
 * [Action Script](#action-script)
 * [Android](#android)

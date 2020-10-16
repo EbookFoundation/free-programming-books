@@ -109,6 +109,11 @@
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
 
 
+### Berkeley Software Distribution
+
+* [FreeBSD Handbook](http://ftp.freebsd.org/pub/FreeBSD/doc/handbook/book.pdf) - (freebsd.org)
+
+
 ### C
 
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)

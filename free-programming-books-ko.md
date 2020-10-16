@@ -56,12 +56,12 @@
 
 ### HTML5
 
-* [HTML5, CSS and Javascript](https://github.com/keesun/study/tree/master/book)
+* [HTML5, CSS and Javascript](http://fromyou.tistory.com/581)
 
 
 ### Java
 
-* [쉽게 따라하는 자바 웹개발](https://opentutorials.org/course/2518)
+* [쉽게 따라하는 자바 웹개발](https://github.com/keesun/study/tree/master/book)
 
 
 ### JavaScript

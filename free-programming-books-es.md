@@ -4,6 +4,7 @@
 * [1 - Agnósticos](#1---agn&#x00F3;sticos)
   * [Algoritmos y Estructuras de Datos](#algoritmos-y-estructuras-de-datos)
   * [Base de Datos](#base-de-datos)
+  * [Blockchain](#blockchain)
   * [Ciencia Computacional](#ciencia-computacional)
   * [Cursos Masivos en Línea](#cursos-masivos-en-l&#x00ED;nea)
   * [Metodologías de Desarrollo de Software](#metodolog&#x00ED;as-de-desarrollo-de-software)
@@ -83,6 +84,11 @@
 * [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2) - Mercedes Marqués (PDF)
 * [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - Aramburu & Sanz Blasco (PDF)
 * [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos) (PDF)
+
+
+#### Blockchain
+
+* [Mastering Bitcoin](https://bitcoinbook.info/wp-content/translations/es/book.pdf) - Andreas M. Antonopoulos (PDF)
 
 
 #### Ciencia Computacional

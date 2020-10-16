@@ -6,6 +6,7 @@
 * [GIT](#git)
 * [Go](#go)
 * [HTML5](#html5)
+* [Java](#java)
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
@@ -57,6 +58,9 @@
 
 * [HTML5, CSS and Javascript](http://fromyou.tistory.com/581)
 
+
+### Java
+* [생활코딩 자바 입문 유튜브 강의](https://www.youtube.com/watch?v=jdTsJzXmgU0&list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck&ab_channel=%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)
 
 ### JavaScript
 

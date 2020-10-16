@@ -352,6 +352,8 @@
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 * [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Intel AI Developer Program Machine Learning](https://software.intel.com/content/www/us/en/develop/training/course-machine-learning.html)
+
 
 
 ### MATLAB

@@ -284,7 +284,7 @@
 * [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698) - Michael Abrash
 * [Introduction to Modern OpenGL](https://open.gl)
 * [Introduction to TouchDesigner 099](https://leanpub.com/introductiontotouchdesigner/) *(Leanpub account or valid email requested)*
-* [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com/) - Scratchapixel
+* [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com) - Scratchapixel
 * [Learn OpenGL](http://learnopengl.com) - Joey de Vries
 * [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) - Jason L. McKesson (draft)
 * [Notes for a Computer Graphics Programming Course](https://www.cs.csustan.edu/~rsc/CS3600F00/Notes.pdf) - Dr. Steve Cunningham (PDF)

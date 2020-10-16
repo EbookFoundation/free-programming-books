@@ -61,7 +61,7 @@
 
 ### Java
 
-* [쉽게 배우는 자바 웹기술](https://github.com/keesun/study/tree/master/book)
+* [쉽게 따라하는 자바 웹기술](https://github.com/keesun/study/tree/master/book/)
 
 
 ### JavaScript

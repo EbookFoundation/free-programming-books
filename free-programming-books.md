@@ -940,7 +940,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) - Jonathan Bartlett (PDF)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
 * [Software optimization resources](http://www.agner.org/optimize/) - A. Fog
-* [The Art of Assembly Language Programming](https://web.archive.org/web/20120525102637/http://maven.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
+* [The Art of Assembly Language (2003)](https://web.archive.org/web/20120525102637/http://maven.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html) - Randall Hyde (PDF)
 * [Wizard Code, A View on Low-Level Programming](https://web.archive.org/web/20170712195930/http://vendu.twodots.nl/files/wizardcode4.pdf) - Tuomo Tuomo Venäläinen (PDF)
 * [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) - Ed Jorgensen (PDF)
 * [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - Wikibooks
@@ -1245,6 +1245,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Emacs
 
 * [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
+* [Emacs for the Modern World](https://www.finseth.com/craft/) (HTML)
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 * [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf) (PDF)
 
@@ -1560,6 +1561,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli and R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Notes for Professionals](http://books.goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (3.x)
+* [Java Programming](https://en.wikibooks.org/wiki/Java_Programming/) - Wikibooks
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
 * [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
@@ -1621,6 +1623,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 * [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Dr. Axel Rauschmayer
 * [Dev Docs](http://devdocs.io)
@@ -1654,6 +1657,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Neural Networks with JavaScript Succinctly](https://www.syncfusion.com/ebooks/neural-networks-with-javascript-succinctly) - James McCaffrey
 * [Oh My JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
+* [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Brian Lonsdorf
 * [Programming JavaScript Applications](https://www.oreilly.com/library/view/programming-javascript-applications/9781491950289/)
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [The JavaScript Tutorial](http://javascript.info)
@@ -2002,8 +2006,10 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Neo4J
 
-* [Graph Databases](http://info.neotechnology.com/rs/neotechnology/images/GraphDatabases.pdf) (PDF)
-* [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) *(account required)*
+* [Fullstack GraphQL Applications with GRANDStack – Essential Excerpts](https://neo4j.com/fullstack-graphql-applications-with-grandstack/) - William Lyon (PDF) *(email requested)*
+* [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) - Mark Needham and Amy E. Hodler (PDF, EPUB, MOBI) *(email requested)*
+* [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) - Ian Robinson, Jim Webber and Emil Eifrém (PDF, EPUB, MOBI) *(email requested)*
+* [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Dr. Jim Webber and Rik Van Bruggen (PDF) *(email requested)*
 
 
 ### .NET Framework
@@ -2279,7 +2285,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) -  Zachary Radtka, Donald Miner
 * [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebooks/hands-natural-language-processing-python) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
-* [How to code in Python 3](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf)
+* [How to Code in Python 3](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) - Lisa Tagliaferri (PDF)
 * [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
   * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)

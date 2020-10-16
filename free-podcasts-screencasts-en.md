@@ -138,7 +138,7 @@
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
 * [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript) (screencast)
 * [Front End Happy Hour](http://frontendhappyhour.com) (podcast)
-* [Frontend First](https://frontendfirst.fm) (Podcast by Sam Selikoff and Ryan Toronto)
+* [Frontend First](https://frontendfirst.fm) - Sam Selikoff and Ryan Toronto (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) (podcast)
 * [JavaScript Air](https://javascriptair.com) (podcast)
 * [JavaScript Jabber](https://devchat.tv/js-jabber) (podcast)
@@ -179,6 +179,7 @@
 
 * [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
 * [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
+* [React Round Up](https://devchat.tv/podcasts/react-round-up) - DevChat.tv (podcast)
 * [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
 
 

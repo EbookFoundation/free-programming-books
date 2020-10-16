@@ -20,6 +20,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
+* [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [PHP](#php)
@@ -47,6 +48,8 @@
 * [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Utilizando Formulários MDI Parent](https://www.udemy.com/formularios-mdi/) - Gilseone Moraes, Training4All Cursos (Udemy)
+* [Iniciando com ASP.NET Core](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core) - Eduardo Pires (Desenvolvedor.io)
+* [Introdução ao Entity Framework Core](https://desenvolvedor.io/curso-online-introducao-entity-framework-core) - Rafael Almeida (Desenvolvedor.io)
 * [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
 
 
@@ -151,6 +154,12 @@
 
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
 * [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
+
+
+### Machine Learning
+
+* [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr
+* [Neural Networks e Deep Learning para Leigos: Sem Mistérios!](https://www.udemy.com/course/neural-networks-e-deep-learnig-para-leigos/) - Fernando Amaral
 
 
 ### Markdown

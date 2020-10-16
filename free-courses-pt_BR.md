@@ -126,7 +126,11 @@
 * [Java SE - Polimorfismo](https://www.udemy.com/java-se-polimorfismo/) - Fernando Franzini (Udemy)
 * [Produtos Java - Especificações versus Proprietários](https://www.udemy.com/produtos-java-especificacoes-versus-proprietarios/) - Fernando Franzini (Udemy)
 * [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias (Udemy)
-
+* [Orientação a Objetos com Java](https://www.coursera.org/learn/orientacao-a-objetos-com-java)
+* [Princípios de Desenvolvimento Ágil de Software](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software)
+* [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto)
+* [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado)
+* [TDD – Desenvolvimento de software guiado por testes](https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes)
 
 ### Javascript
 

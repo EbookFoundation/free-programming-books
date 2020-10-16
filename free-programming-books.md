@@ -1630,7 +1630,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Dr. Axel Rauschmayer
 * [Dev Docs](http://devdocs.io)
 * [Directory of free Javascript ebooks](http://jsbooks.revolunet.com)
-* [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net) - Marijn Haverbeke
+* [Eloquent JavaScript 3rd edition](http://eloquentjavascript.net) - Marijn Haverbeke
 * [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 * [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)

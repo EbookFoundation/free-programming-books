@@ -107,6 +107,7 @@
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Algorithms & Data Structures](#algorithms--data-structures)
+  * [Competitive Programming Handbook](https://cses.fi/book/book.pdf) --Antti Laaksonen
   * [Artificial Intelligence](#artificial-intelligence)
   * [Cellular Automata](#cellular-automata)
   * [Cloud Computing](#cloud-computing)

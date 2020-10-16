@@ -1248,6 +1248,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf) (PDF)
 * [Emacs for the Modern World](https://www.finseth.com/craft/) (HTML)
 
+
 ### Embedded Systems
 
 * [Control and Embedded Systems](http://www.learn-c.com) (HTML)

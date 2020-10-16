@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MarkdownEnhProjectSettings">
+    <AnnotatorSettings targetHasSpaces="true" linkCaseMismatch="true" wikiCaseMismatch="true" wikiLinkHasDashes="true" notUnderWikiHome="true" targetNotWikiPageExt="true" notUnderSourceWikiHome="true" targetNameHasAnchor="true" targetPathHasAnchor="true" wikiLinkHasSlash="true" wikiLinkHasSubdir="true" wikiLinkHasOnlyAnchor="true" linkTargetsWikiHasExt="true" linkTargetsWikiHasBadExt="true" notUnderSameRepo="true" targetNotUnderVcs="false" linkNeedsExt="true" linkHasBadExt="true" linkTargetNeedsExt="true" linkTargetHasBadExt="true" wikiLinkNotInWiki="true" imageTargetNotInRaw="true" repoRelativeAcrossVcsRoots="true" multipleWikiTargetsMatch="true" unresolvedLinkReference="true" linkIsIgnored="true" anchorIsIgnored="true" anchorIsUnresolved="true" anchorLineReferenceIsUnresolved="true" anchorLineReferenceFormat="true" anchorHasDuplicates="true" abbreviationDuplicates="true" abbreviationNotUsed="true" attributeIdDuplicateDefinition="true" attributeIdNotUsed="true" footnoteDuplicateDefinition="true" footnoteUnresolved="true" footnoteDuplicates="true" footnoteNotUsed="true" macroDuplicateDefinition="true" macroUnresolved="true" macroDuplicates="true" macroNotUsed="true" referenceDuplicateDefinition="true" referenceUnresolved="true" referenceDuplicates="true" referenceNotUsed="true" referenceUnresolvedNumericId="true" enumRefDuplicateDefinition="true" enumRefUnresolved="true" enumRefDuplicates="true" enumRefNotUsed="true" enumRefLinkUnresolved="true" enumRefLinkDuplicates="true" simTocUpdateNeeded="true" simTocTitleSpaceNeeded="true" />
+    <HtmlExportSettings updateOnSave="false" parentDir="" targetDir="" cssDir="css" scriptDir="js" plainHtml="false" imageDir="" copyLinkedImages="false" imagePathType="0" targetPathType="2" targetExt="" useTargetExt="false" noCssNoScripts="false" useElementStyleAttribute="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
+    <LinkMapSettings>
+      <textMaps />
+    </LinkMapSettings>
+  </component>
+  <component name="MarkdownNavigatorHistory">
+    <PasteImageHistory checkeredTransparentBackground="false" filename="image" directory="" onPasteImageTargetRef="3" onPasteLinkText="0" onPasteImageElement="1" onPasteLinkElement="1" onPasteReferenceElement="2" cornerRadius="20" borderColor="0" transparentColor="16777215" borderWidth="1" trimTop="0" trimBottom="0" trimLeft="0" trimRight="0" transparent="false" roundCorners="false" showPreview="true" bordered="false" scaled="false" cropped="false" hideInapplicableOperations="false" preserveLinkFormat="false" scale="50" scalingInterpolation="1" transparentTolerance="0" saveAsDefaultOnOK="false" linkFormat="0" addHighlights="false" showHighlightCoordinates="true" showHighlights="false" mouseSelectionAddsHighlight="false" outerFilled="false" outerFillColor="0" outerFillTransparent="true" outerFillAlpha="30">
+      <highlightList />
+      <directories />
+      <filenames />
+    </PasteImageHistory>
+    <CopyImageHistory checkeredTransparentBackground="false" filename="image" directory="" onPasteImageTargetRef="3" onPasteLinkText="0" onPasteImageElement="1" onPasteLinkElement="1" onPasteReferenceElement="2" cornerRadius="20" borderColor="0" transparentColor="16777215" borderWidth="1" trimTop="0" trimBottom="0" trimLeft="0" trimRight="0" transparent="false" roundCorners="false" showPreview="true" bordered="false" scaled="false" cropped="false" hideInapplicableOperations="false" preserveLinkFormat="false" scale="50" scalingInterpolation="1" transparentTolerance="0" saveAsDefaultOnOK="false" linkFormat="0" addHighlights="false" showHighlightCoordinates="true" showHighlights="false" mouseSelectionAddsHighlight="false" outerFilled="false" outerFillColor="0" outerFillTransparent="true" outerFillAlpha="30">
+      <highlightList />
+      <directories />
+      <filenames />
+    </CopyImageHistory>
+    <PasteLinkHistory onPasteImageTargetRef="3" onPasteTargetRef="1" onPasteLinkText="0" onPasteImageElement="1" onPasteLinkElement="1" onPasteWikiElement="2" onPasteReferenceElement="2" hideInapplicableOperations="false" preserveLinkFormat="false" useHeadingForLinkText="false" linkFormat="0" saveAsDefaultOnOK="false" />
+    <TableToJsonHistory>
+      <entries />
+    </TableToJsonHistory>
+    <TableSortHistory>
+      <entries />
+    </TableSortHistory>
+  </component>
+</project>

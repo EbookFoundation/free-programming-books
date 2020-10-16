@@ -83,6 +83,7 @@
 
 * [Android Developer Fundamentals (Version 2) — Codelab](https://developer.android.com/courses/fundamentals-training/toc-v2)
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
+* [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
 * [Learn how to program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
 * [Material design](https://material.io/guidelines/)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
@@ -95,7 +96,7 @@
 * [Udacity Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 * [Udacity Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 * [Udacity Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
-* [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+
 
 
 ### Angular

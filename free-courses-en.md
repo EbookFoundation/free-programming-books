@@ -144,6 +144,7 @@
 ### Compilers
 
 * [Compilers: Theory and Practice](https://www.udacity.com/course/compilers-theory-and-practice--ud168) (udacity)
+* [Compilers: Theory and Practice](https://www.udacity.com/course/compilers-theory-and-practice--ud168) (udacity)
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
 
 
@@ -172,6 +173,7 @@
 ### Deep Learning
 
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (coursera)
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 * [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) - Ryan Holbrook
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
@@ -325,6 +327,7 @@
 
 ### Linux
 
+* [Linux Command Line](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
 * [Linux Operating System Fundamentals](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/) - Linux Academy (Udemy)
 * [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat, Inc. (Udemy)

@@ -265,6 +265,7 @@
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
+* [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) - Stanford
 
 
 ### JavaScript

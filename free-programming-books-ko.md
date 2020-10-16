@@ -61,7 +61,7 @@
 
 ### Java
 
-* [쉽게 따라하는 자바 웹개발](https://github.com/keesun/study/tree/master/book)
+* [쉽게 따라하는 자바 웹개발](https://github.com/keesun/study/blob/master/book/%EC%9E%90%EB%B0%94%EC%9B%B9%EA%B0%9C%EB%B0%9C%20%EC%9D%B8%EC%87%84_2%EC%87%84.pdf)
 
 
 ### JavaScript

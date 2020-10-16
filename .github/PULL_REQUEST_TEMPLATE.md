@@ -1,9 +1,9 @@
 ## Hacktoberfest notes:
 
-- due to volume of submissions, we may not be able to review PRs that do not pass tests and do not have informative titles.
-- please read our [contributing guidelines](/CONTRIBUTING.md)
-- be sure to check the output of Travis-CI for linter errors
-- if this is your first open source contribution, make sure it's not your last!
+- Due to volume of submissions, we may not be able to review PRs that do not pass tests and do not have informative titles.
+- Please read our [contributing guidelines](/CONTRIBUTING.md)
+- Be sure to check the output of Travis-CI for linter errors
+- If this is your first open source contribution, make sure it's not your last! Good Luck!
 
 ## What does this PR do?
 Add Resource(s) | Remove Resource(s) | Add info | Improve Repo

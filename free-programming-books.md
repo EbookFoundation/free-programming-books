@@ -1655,6 +1655,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Neural Networks with JavaScript Succinctly](https://www.syncfusion.com/ebooks/neural-networks-with-javascript-succinctly) - James McCaffrey
 * [Oh My JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
+* [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Brian Lonsdorf
 * [Programming JavaScript Applications](https://www.oreilly.com/library/view/programming-javascript-applications/9781491950289/)
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [The JavaScript Tutorial](http://javascript.info)

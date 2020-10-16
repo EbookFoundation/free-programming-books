@@ -352,12 +352,15 @@
 #### Artificial Intelligence
 
 * [Artificial Intelligence for Big Data](https://www.packtpub.com/free-ebooks/artificial-intelligence-big-data) - Anand Deshpande, Manish Kumar (Packt account *required*)
+* [Artificial Intelligence a guide to Intelligent Systems](https://www.pdfdrive.com/artificial-intelligence-e11895991.html) - Michael Negnevitsky
+* [Artificial Intelligence Illuminated](https://www.pdfdrive.com/artificial-intelligence-illuminated-e1083124.html) - Coppin, Ben
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
 
 #### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
+* [Theory and Applications of Cellular Automata](https://www.pdfdrive.com/automata-2008-theory-and-applications-of-cellular-automata-e185120916.html) - A Adamatzky
 
 
 #### Cloud Computing
@@ -427,6 +430,7 @@
 * [Database Design, 2nd Ed.](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/?uuid=5b6f010a-0563-44d4-94c5-67caa515d2c5) - Adrienne Watt, Nelson Eng (HTML, PDF, EPUB, Kindle)
 * [Database Explorations](http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) (PDF)
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
+* [Database Systems: Design, Implementation, and Management](https://www.pdfdrive.com/database-systems-design-implementation-and-management-with-e6663225.html) - Carlos Coronel
 * [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) (PDF)
 * [Foundations of Databases](http://webdam.inria.fr/Alice/)
 * [Readings in Database Systems, 5th Ed.](http://www.redbook.io)
@@ -782,6 +786,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 * [CryptoParty Handbook](https://unglue.it/work/141611/)
+* [Hacking Web Intelligence: Open Source Intelligence and Web Reconnaissance Concepts and Techniques](https://www.pdfdrive.com/hacking-web-intelligence-open-source-intelligence-and-web-reconnaissance-concepts-and-techniques-e176004718.html)- Sudhanshu Chauhan & Nutan Kumar Panda
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
 * [How to deal with Passwords](https://github.com/MHM5000/pass)
 * [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
@@ -789,7 +794,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [OWASP Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/) - Bernhard Mueller et al.
 * [OWASP Testing Guide 4.0](https://www.owasp.org/images/1/19/OTGv4.pdf) (PDF)
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
+* [Python Web Penetration Testing Cookbook](https://www.pdfdrive.com/python-web-penetration-testing-cookbook-e58854601.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
+* [Web Application Penetration Testing With Burp Suite](https://www.pdfdrive.com/web-application-penetration-testing-with-burp-suite-e51230272.html)
+* [WEB FOR PENTESTER - PentesterLab Learn Penetration Testing](https://www.pdfdrive.com/web-for-pentester-pentesterlab-learn-penetration-testing-e6591178.html)
+* [Web Penetration Testing with Kali Linux, 2nd Edition](https://www.pdfdrive.com/web-penetration-testing-with-kali-linux-2nd-edition-build-your-defense-against-web-attacks with-kali-linux-20-e188097841.html)- Juned Ahmed Ansari
 
 
 #### Software Architecture

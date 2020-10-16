@@ -304,6 +304,7 @@
 #### Redux
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+* [Learn Redux from Scratch](https://www.youtube.com/watch?v=poQXNp9ItL4) (youtube)
 
 
 #### Sails.Js

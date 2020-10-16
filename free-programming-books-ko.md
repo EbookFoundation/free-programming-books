@@ -60,7 +60,7 @@
 
 
 ### Java
-* [생활코딩 자바 입문 유튜브 강의](https://www.youtube.com/watch?v=jdTsJzXmgU0&list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck&ab_channel=%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)
+* [생활코딩 자바 입문](https://opentutorials.org/course/2518)
 
 ### JavaScript
 

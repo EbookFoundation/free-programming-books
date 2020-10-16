@@ -9,7 +9,6 @@
 * [PHP](#PHP)
 
 
-
 ### BigData
 
 * [எளிய தமிழில் Big Data](http://www.kaniyam.com/learn-bigdata-in-tamil-ebooks/)
@@ -17,7 +16,7 @@
 
 ### CSS
 
-* [எளிய தமிழில் CSS](http://www.kaniyam.com/download/learn-css-in-tamil.pdf)
+* [எளிய தமிழில் CSS](http://www.kaniyam.com/download/learn-css-in-tamil.pdf) (PDF)
 
 
 ### Database

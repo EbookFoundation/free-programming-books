@@ -1033,6 +1033,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Modern C](https://modernc.gforge.inria.fr) - Jens Gustedt (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
+* [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
 * [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth

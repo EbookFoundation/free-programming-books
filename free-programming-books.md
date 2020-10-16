@@ -2282,6 +2282,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) -  Zachary Radtka, Donald Miner
 * [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebooks/hands-natural-language-processing-python) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
+* [How to Code in Python 3](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) - Lisa Tagliaferri (PDF)
 * [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
   * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)

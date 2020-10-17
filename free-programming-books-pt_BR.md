@@ -30,6 +30,7 @@
   * [Node.js](#nodejs)
   * [React](#react)
   * [Vue.js](#vuejs)
+* [Kubernetes](#kubernetes)
 * [LaTeX](#latex)
 * [LISP](#lisp)
 * [Lua](#lua)
@@ -232,6 +233,11 @@
 * [Vue.js Brasil - Artigos em Português sobre Vue.js](http://www.vuejs-brasil.com.br)
 * [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz and Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 * [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
+
+
+### Kubernetes
+
+* [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 
 ### LaTeX

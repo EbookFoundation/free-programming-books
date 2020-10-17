@@ -1634,6 +1634,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 * [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
+* [JavaScript and JQuery: Interactive Front-End Web Development](https://www.pdfdrive.com/download.pdf?id=184606066&h=26c303a8f1e8881a7a6bd59d57a76aef&u=cache&ext=pdf) - John Duckett (PDF)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
 * [JavaScript Challenges Book](https://tcorral.github.io/javascript-challenges-book/)

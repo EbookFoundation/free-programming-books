@@ -154,6 +154,7 @@
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Parsinta
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
 * [Fitur Baru Laravel 8](https://kawankoding.com/kelas/fitur-baru-laravel-8) - Kawan Koding
+* [Membuat Role Users dengan Laravel 7](https://www.wahyunanangwidodo.com/2020/04/membuat-role-users-dengan-laravel.html) - Wahyu Nanang Widodo
 
 
 ### Python

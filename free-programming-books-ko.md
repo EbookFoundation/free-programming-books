@@ -2,6 +2,7 @@
 
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
+* [Deep Learning](#deep-learning)
 * [Docker](#docker)
 * [GIT](#git)
 * [Go](#go)
@@ -31,6 +32,11 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+
+
+### Deep Learning
+
+* [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
 
 
 ### Docker

@@ -38,6 +38,7 @@
 * [Mercurial](#mercurial)
 * [Misc](#misc)
 * [.NET](#net)
+* [NoSQL](#nosql)
 * [OCaml](#ocaml)
 * [Perl](#perl)
 * [PHP](#php)
@@ -400,6 +401,10 @@
 ### .NET
 
 * [Learn how to program: .NET](https://www.learnhowtoprogram.com/net) - Epicodus Inc.
+
+### NoSQL
+
+* [MongoDB University](https://university.mongodb.com/)
 
 
 ### OCaml

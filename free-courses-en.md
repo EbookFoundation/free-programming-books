@@ -447,6 +447,7 @@
 * [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
+* [Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) Scott Rixner (Coursera)
 
 
 ### QB64

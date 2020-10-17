@@ -150,6 +150,10 @@
 * [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Parsinta
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Parsinta
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
+* [Belajar CRUD Laravel 8 Livewire Mempersiapkan Proyek](https://www.youtube.com/watch?v=Upfv3gB2YFM&list=PLEgI20pG1DqzAa8npy9C_NDUvYwhslUb4&ab_channel=KawanKoding) - Kawan Koding
+* [Laravel Bahasa Indonesia Upload Project Laravel ke Shared Hosting dengan cPanel](https://www.youtube.com/watch?v=bANLmwXov-g&list=PLx4zY98IACXh_O8VRfv-UDShf7oAJ2APB&ab_channel=TahuCoding) - Tahu Coding
+
+
 
 
 ### Python

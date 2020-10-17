@@ -105,7 +105,7 @@
 ### Bash / Shell
 
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
-* [Shell Scripting for Beginners](https://www.youtube.com/watch?v=nVt3Rst-2H8&list=PL7B7FA4E693D8E790) - The Bad Tutorials 
+* [Shell Scripting for Beginners](https://www.youtube.com/watch?v=nVt3Rst-2H8&list=PL7B7FA4E693D8E790) - The Bad Tutorials (youtube) 
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
 
 

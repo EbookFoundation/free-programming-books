@@ -352,6 +352,7 @@
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 * [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
+* [SoloLearn](https://www.sololearn.com/Course/machine-learning/)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
@@ -369,6 +370,7 @@
 ### Misc
 
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
+* [Advanced Natural Language Processing using spaCy](https://course.spacy.io/en)
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) (F. Corno - L. De Russis - A. Monge Roffarello)
 * [Berkeley's CS  61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)

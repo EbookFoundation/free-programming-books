@@ -67,6 +67,7 @@
 * [Haxe](#haxe)
 * [HTML / CSS](#html--css)
   * [Bootstrap](#bootstrap)
+  * [HTML & CSS: Design and Build Websites](https://wtf.tw/ref/duckett.pdf) - John Duckett (PDF)
   * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
 * [HTTP](#http)
 * [Icon](#icon)

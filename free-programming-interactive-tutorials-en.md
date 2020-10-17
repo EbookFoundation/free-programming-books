@@ -127,6 +127,7 @@
 * [Grid Garden](https://cssgridgarden.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
+* [Responsive Website Course](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)- freeCodeCamp 
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
 
@@ -144,6 +145,7 @@
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
 * [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
+* [Jacascript Data Structures and Algorithms 300 hour course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) - freeCodeCamp
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [Javascripting](https://github.com/sethvincent/javascripting)

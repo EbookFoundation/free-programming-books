@@ -468,8 +468,8 @@
 
 ### Ruby
 
-* [Learn Ruby](https://www.learnrubyonline.org)
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
+* [Learn Ruby](https://www.learnrubyonline.org)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 

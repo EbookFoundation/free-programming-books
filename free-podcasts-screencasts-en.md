@@ -267,6 +267,7 @@
 ### Python
 
 * [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy) (screencast)
+* [Codecasts](https://www.youtube.com/playlist?list=PL_qGav8csvade05RSAYtnxvCfQKTJcZR4) (screencast)
 * [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969) (screencast)
 * [Import this](https://soundcloud.com/import-this) (podcast)
 * [Podcast.__init__](http://podcastinit.com) (podcast)
@@ -280,7 +281,6 @@
 * [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d) (screencast)
 * [TheNewBoston - Python Programming Tutorials - 2.x](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA) (screencast)
 * [Try Django Tutorial](http://youtu.be/3DccH9AMwFQ?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx) (screencast)
-* [Codecasts](https://www.youtube.com/playlist?list=PL_qGav8csvade05RSAYtnxvCfQKTJcZR4) (screencast)
 
 
 ### Ruby

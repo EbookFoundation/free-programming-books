@@ -17,6 +17,7 @@
 ### Python
 
 * [Python Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=gfDE2a7MKjA) - Harry
+* [Python 3.4.3 Tutorial in Hindi by IIT Bombay](https://spoken-tutorial.org/watch/Python+3.4.3/Getting+started+with+IPython/Hindi/)
 
 
 ### Javascript

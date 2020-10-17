@@ -418,6 +418,7 @@
 
 ### HTML / CSS
 
+* [Bootstrap 4 繁體中文手冊](https://bootstrap.hexschool.com) - 六角學院
 * [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
 * [CSS参考手册](http://css.doyoe.com)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
@@ -427,7 +428,6 @@
 * [前端代码规范](http://alloyteam.github.io/CodeGuide/) - 腾讯AlloyTeam团队
 * [学习CSS布局](http://zh.learnlayout.com)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
-* [Bootstrap 4 繁體中文手冊](https://bootstrap.hexschool.com) - 六角學院
 
 
 ### iOS

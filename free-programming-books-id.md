@@ -14,7 +14,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Vue](#vue)
-
+* [Laravel](#laravel)
 
 ### Android
 
@@ -101,3 +101,5 @@
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
 
+
+### Laravel

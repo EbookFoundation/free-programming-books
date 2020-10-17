@@ -470,7 +470,7 @@
 
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
-
+* [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 
 ### Scala
 

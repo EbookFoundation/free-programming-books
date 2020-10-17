@@ -480,6 +480,7 @@
 ### Security
 
 * [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
+* [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) -(Insec Techs- EH Academy)
 
 
 ### Software Engineering

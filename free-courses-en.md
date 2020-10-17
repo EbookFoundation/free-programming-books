@@ -472,11 +472,9 @@
 ### Ruby
 
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
-patch-9
+* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 * [Ruby Tutorial](https://www.w3resource.com/ruby/)
-master
-* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 
 ### Scala

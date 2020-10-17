@@ -427,7 +427,7 @@
 * [前端代码规范](http://alloyteam.github.io/CodeGuide/) - 腾讯AlloyTeam团队
 * [学习CSS布局](http://zh.learnlayout.com)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
-* [Bootstrap 4 繁體中文手冊](https://bootstrap.hexschool.com)
+* [Bootstrap 4 繁體中文手冊](https://bootstrap.hexschool.com) - 六角學院
 
 
 ### iOS

@@ -99,6 +99,9 @@
 
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
 * [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb) - Prawito Hudoro
+* [Tutorial React js Indonesia](https://www.youtube.com/watch?v=mDNj800bjWQ&list=PLx4zY98IACXiMJTmFk_hyBOg6P1lEWHso&ab_channel=TahuCoding) - Tahu Coding
+
+
 
 
 ### Vue
@@ -150,6 +153,7 @@
 * [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Parsinta
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Parsinta
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
+* [Fitur Baru Laravel 8](https://kawankoding.com/kelas/fitur-baru-laravel-8) - Kawan Koding
 
 
 ### Python

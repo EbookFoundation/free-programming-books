@@ -49,6 +49,7 @@
   * [CakePHP](#cakephp)
   * [CodeIgniter](#codeigniter)
   * [Laravel](#laravel)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
@@ -63,6 +64,7 @@
 * [Smalltalk](#smalltalk)
 * [SQL](#sql)
   * [PostgreSQL](#postgresql)
+* [Swift](#swift)
 * [TypeScript](#typescript)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -412,6 +414,11 @@
 * [Перевод документации](http://laravel.su/docs)
 
 
+#### Symfony
+
+* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
+
+
 ### Python
 
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
@@ -510,6 +517,12 @@
 * [Документация](https://postgrespro.ru/docs/postgresql) (PDF)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
+
+
+### Swift
+
+* [Documentation](https://swift.org/documentation)
+* [Документация и туториалы](https://swiftbook.ru)
 
 
 ### TypeScript

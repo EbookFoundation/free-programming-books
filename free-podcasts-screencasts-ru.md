@@ -5,6 +5,8 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
+* [Java](#java)
+  * [Spring](#spring)
 * [Javascript](#javascript)
 * [Node.js](#nodejs)
 * [PHP](#php)
@@ -42,13 +44,25 @@
 * [Бананы и Линзы](https://bananasandlenses.net)
 
 
+### Java
+
+* [Плейлист видео по Java для новичков](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
+
+
+#### Spring
+
+* [Плейлист видео по Spring framework](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)
+
+
 ### Javascript
 
 * [Devschacht](https://soundcloud.com/devschacht) (Podcast)
 * [Frontflip](http://frontflip.me) (Podcast)
 * [Javascript для начинающих](http://www.magisters.org/education/course/js-for-beginners) (Screencast)
 * [RadioJS](http://radiojs.ru) (Podcast)
+* [UnderJS podcast](https://underjs.ru) (Podcast)
 * [Webstandards](https://soundcloud.com/web-standards) (Podcast)
+* [Фронтенд юность](https://soundcloud.com/frontend_u) (Podcast)
 
 
 ### Node.js

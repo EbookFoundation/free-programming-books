@@ -19,6 +19,7 @@
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
@@ -119,6 +120,7 @@
 * [EJB 3 für Umsteiger: Neuerungen und Änderungen gegenüber dem EJB-2.x-Standard](http://bsd.de/e3fu/umfrage.html) - Heiko W. Rupp
 * [Java 7 Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7/)
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
+* [Java SE 8 Standard-Bibliothek](http://openbook.rheinwerk-verlag.de/java8/) - Christian Ullenboom
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung/)
 * [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
@@ -153,6 +155,11 @@
 * [PHP](http://www.peterkropff.de/site/php/php.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 * [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear/)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) (PDF)
+
+
+#### Symfony
+
+* [Symfony 5: Auf der Überholspur](https://symfony.com/doc/5.0/the-fast-track/de/index.html)
 
 
 ### Python

@@ -1,6 +1,6 @@
 This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
-# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [View the English list](free-programming-books.md)
 
@@ -20,7 +20,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 
 + [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
 + [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
-+ [Share on Google Plus](https://plus.google.com/share?url=https://github.com/EbookFoundation/free-programming-books)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 + [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
 
@@ -94,6 +93,7 @@ Free Podcasts and Screencasts:
 + [Czech / čeština / český jazyk](free-podcasts-screencasts-cs.md)
 + [English](free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](free-podcasts-screencasts-fi.md)
++ [Polish / polski / język polski / polszczyzna](free-podcasts-screencasts-pl.md)
 + [Portuguese (Brazil)](free-podcasts-screencasts-pt_BR.md)
 + [Russian / Русский язык](free-podcasts-screencasts-ru.md)
 + [Swedish / Svenska](free-podcasts-screencasts-se.md)

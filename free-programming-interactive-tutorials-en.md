@@ -1,6 +1,7 @@
 ### Index
 
 * [Ada](#ada)
+* [Android](#android)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
@@ -28,6 +29,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scala](#scala)
 * [SQL](#sql)
 * [Vim](#vim)
@@ -36,6 +38,11 @@
 ### Ada
 
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+
+
+### Android
+
+* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial)
 
 
 ### Bash
@@ -219,6 +226,11 @@
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
+
+
+### Rust
+
+* [Rustlings](https://github.com/rust-lang/rustlings)
 
 
 ### Scala

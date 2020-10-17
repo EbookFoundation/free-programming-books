@@ -19,6 +19,7 @@
 * [Erlang](#erlang)
 * [Git](#git)
 * [Github](#github)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML & CSS](#html--css)
 * [Java](#java)
@@ -33,9 +34,11 @@
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
   * [MongoDB](#mongodb)
+  * [Redis](#redis)
 * [Perl](#perl)
 * [Perl 6 / Raku](#perl-6--raku)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
   * [Web2py](#web2py)
@@ -174,6 +177,11 @@
 * [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple) (Github)
 
 
+### Go
+
+* [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
+
+
 ### Haskell
 
 * [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html) (HTML)
@@ -241,6 +249,7 @@
 #### React
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) (PDF, EPUB, MOBI)
+* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
 
 
 ### LaTeX
@@ -270,6 +279,11 @@
 * [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan Graterol (Gitbook) (:construction: *en proceso*)
 
 
+#### Redis
+
+* [El pequeño libro Redis](https://raulexposito.com/the-little-redis-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
+
+
 ### PHP
 
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) (PDF)
@@ -279,6 +293,11 @@
 * [Silex, el manual oficial](http://librosweb.es/libro/silex) (HTML)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
 * [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
+
+
+#### Symfony
+
+* [Symfony 5: La Vía Rápida](https://symfony.com/doc/5.0/the-fast-track/es/index.html)
 
 
 ### Perl

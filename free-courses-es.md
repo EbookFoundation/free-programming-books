@@ -177,13 +177,9 @@
 
 * [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing)
 * [Aprende a programar aplicaciones móviles](https://miriadax.net/web/creando-apps-aprende-a-programar-aplicaciones-moviles-4-edicion-)
-* [CSS Básico a Avanzado](https://www.pildorasinformaticas.es/course/css-avanzado-desde-0) - Juan Díaz (Píldoras Informáticas)
 * [Desarrollo de servicios en la nube con HTML5, JavaScript y node.js](https://miriadax.net/web/desarrollo-de-servicios-en-la-nube-con-html5-javascript-y-nodejs-2-edicion-)
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 * [Diseño web con HTML5+CSS](https://miriadax.net/web/diseno-web-con-html5-css-2-edicion-)
-* [HTML 5](https://www.pildorasinformaticas.es/course/html-5) - Juan Díaz (Píldoras Informáticas)
-* [PHP MySql Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql) - Juan Díaz (Píldoras Informáticas)
-* [PHP MySql Módulo 2](https://www.pildorasinformaticas.es/course/php-mysql/php-mysql-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html)
 * [Windows Phone. Introducción al desarrollo de aplicaciones móviles](https://miriadax.net/web/introduccion-al-desarrollo-de-aplicaciones-moviles-con-windows-phone-2-edicion-)
 * [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html)

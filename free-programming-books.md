@@ -67,7 +67,6 @@
 * [Haxe](#haxe)
 * [HTML / CSS](#html--css)
   * [Bootstrap](#bootstrap)
-  * [HTML & CSS: Design and Build Websites](https://wtf.tw/ref/duckett.pdf) - John Duckett (PDF)
   * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
 * [HTTP](#http)
 * [Icon](#icon)
@@ -1465,6 +1464,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
 * [GA Dash](https://dash.generalassemb.ly)
 * [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+* [HTML & CSS: Design and Build Websites](https://wtf.tw/ref/duckett.pdf) - Jon Duckett (PDF)
 * [How to Code in HTML5 and CSS3](https://web.archive.org/web/20180816174417/http://howtocodeinhtml.com/HowToCodeInHTML5AndCSS3.pdf) - Damian Wielgosik (PDF)
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 * [HTML Dog Tutorials](http://www.htmldog.com)

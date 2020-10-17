@@ -189,9 +189,9 @@
 * [Learn Docker, Container Runtimes, Builders and Registries](https://www.katacoda.com/courses/container-runtimes) - Katacoda
 
 ### Flutter
-* [Flutter Tutorial](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Udacity
-* [Flutter Tutorial for Beginners](https://www.udemy.com/course/learn-flutter-beginners-course/) - Udemy
-* [Flutter Crash Course](https://fluttercrashcourse.com/courses/basics/lessons/materialapp-scaffold-appbar-text) - Flutter CrashCourse
+* [Flutter Tutorial](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Udacity<br/><br/>
+* [Flutter Tutorial for Beginners](https://www.udemy.com/course/learn-flutter-beginners-course/) - Udemy<br/><br/>
+* [Flutter Crash Course](https://fluttercrashcourse.com/courses/basics/lessons/materialapp-scaffold-appbar-text) - Flutter CrashCourse<br/><br/>
 ### Game Development
 
 * [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)

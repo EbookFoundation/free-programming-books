@@ -1,4 +1,4 @@
-Read this in other languages:[中文](HOWTO-zh.md)
+Read this in other languages:[中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md)
 
 Welcome to Free-Programming-Books! We welcome new contributors; even those making their very first pull request on Github. If you're one of those, here are some resources that might help:
 

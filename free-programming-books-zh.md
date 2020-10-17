@@ -38,6 +38,7 @@
   * [Golang](#golang)
   * [Haskell](#haskell)
   * [HTML / CSS](#html--css)
+    * [Bootstrap](#bootstrap)
   * [HTTP](#http)
   * [iOS](#ios)
   * [Java](#java)
@@ -60,6 +61,7 @@
   * [NoSQL](#nosql)
   * [Perl](#perl)
   * [PHP](#php)
+    * [Laravel](#laravel)
     * [Symfony](#symfony)
   * [PostgreSQL](#postgresql)
   * [Python](#python)
@@ -428,6 +430,11 @@
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 
 
+#### Bootstrap
+
+* [Bootstrap 4 繁體中文手冊](https://bootstrap.hexschool.com)
+
+
 ### iOS
 
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
@@ -608,18 +615,25 @@
 ### PHP
 
 * [Composer中文文档](http://docs.phpcomposer.com)
-* [Laravel5.4中文文档](http://d.laravel-china.org/docs/5.4)
 * [Phalcon7中文文档](http://www.myleftstudio.com)
 * [PHP 之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP中文手册](http://php.net/manual/zh/)
 * [PHP标准规范中文版](https://psr.phphub.org)
-* [Symfony2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
 * [Yii2中文文档](http://www.yiichina.com/doc/guide/2.0)
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
 
 
+#### Laravel
+
+* [Laravel 5.4 中文文档](http://d.laravel-china.org/docs/5.4)
+* [Laravel 6 中文文档](https://learnku.com/docs/laravel/6.x)
+* [Laravel 7 中文文档](https://learnku.com/docs/laravel/7.x)
+* [Laravel 8 中文文档](https://learnku.com/docs/laravel/8.x)
+
+
 #### Symfony
 
+* [Symfony 2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
 * [Symfony 5 快速开发](https://symfony.com/doc/5.0/the-fast-track/zh_CN/index.html)
 
 

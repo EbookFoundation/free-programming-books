@@ -240,6 +240,7 @@
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+* [Responsive Web Design Course with HTML and CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)- freeCodeCamp (HTML WEBPAGE)
 * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 

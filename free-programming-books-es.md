@@ -31,6 +31,7 @@
   * [React](#react)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [MySQL](#mysql)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
   * [MongoDB](#mongodb)
@@ -264,6 +265,9 @@
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
 * [El Manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now/)
 
+### MySQL
+
+* [MySQL Redundante sobre RAID 1 en Debian 8](https://www.researchgate.net/publication/333971453_MySQL_Redundante_sobre_RAID_1_en_Debian_8) (DESCARGA)
 
 ### .NET (C# / Visual Studio)
 

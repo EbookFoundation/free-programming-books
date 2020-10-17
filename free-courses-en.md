@@ -419,6 +419,7 @@
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
 * [PHP & MySQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b) - The Bad Tutorials (2015)
 * [PHP Programming Language Tutorial - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c) - freeCodeCamp.org (2018)
+* [PHP Tutorial](https://www.w3schools.com/php) - W3Schools
 
 
 ### Python
@@ -446,7 +447,9 @@
 * [Python Flask Framework Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
 * [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
+* [Python Tutorial](https://www.w3schools.com/python/) - W3Schools
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
+* [The Python Tutorial](https://docs.python.org/3/tutorial/)
 
 
 ### QB64
@@ -469,7 +472,10 @@
 ### Ruby
 
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
+patch-9
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+* [Ruby Tutorial](https://www.w3resource.com/ruby/)
+master
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 

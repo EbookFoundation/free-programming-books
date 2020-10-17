@@ -302,6 +302,7 @@
 * [Перевод документации](http://angular-doc.herokuapp.com)
 * [Русская версия документация Angular 10](https://angular24.ru/start) - Алексей Охрименко
 
+
 #### jQuery
 
 * [jQuery для начинающих](http://anton.shevchuk.name/jquery-book) - Антон Шевчук

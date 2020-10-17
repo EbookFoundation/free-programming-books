@@ -12,6 +12,7 @@
 ### C++
 
 * [The Complete C++ Course | Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+* [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi)
 
 
 ### Python

@@ -757,7 +757,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 * [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
-* [Building Real-Time Data Pipelines](https://www.memsql.com/resources/ebook-oreilly_data_pipelines) - Conor Doherty, Garay Orenstein, Steven Camina & Kevin White (PDF) *(Submit form required)*
+* [Building Real-Time Data Pipelines](https://www.memsql.com/resources/ebook-oreilly_data_pipelines) - Conor Doherty, Garay Orenstein, Steven Camina, Kevin White (PDF)
 
 
 #### Regular Expressions

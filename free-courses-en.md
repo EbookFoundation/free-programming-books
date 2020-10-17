@@ -472,6 +472,7 @@
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 
+
 ### Scala
 
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)

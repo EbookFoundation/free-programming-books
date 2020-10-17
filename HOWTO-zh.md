@@ -1,4 +1,5 @@
-阅读本文的其他语言版本：[English](HOWTO.md)
+阅读本文的其他语言版本：[English](HOWTO.md), [हिन्दी](HOWTO-hi.md)
+
 欢迎使用免费编程书籍！我们欢迎新的贡献者；即使是在Github上首次提出拉取请求的人。如果您是其中之一，那么以下资源可能会有所帮助：
 
 * [关于拉取请求](https://help.github.com/articles/about-pull-requests/)

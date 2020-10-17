@@ -49,6 +49,7 @@
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
 * [HTML & CSS: Buat Websitemu Sendiri ](https://leanpub.com/html-css--buat-webistemu-sendiri) *(Membutuhkan akun Leanpub atau email yang valid)*
+* [HTML Dasar Untuk Pemula Lengkap](https://kodingbagus.blogspot.com/2018/07/ebook-html-dasar-untuk-pemula-lengkap.html)
 
 
 ### Java
@@ -61,6 +62,7 @@
 * [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
+* [Javascript Guide](https://gilacoding.com/ebook)
 
 
 ### Node.js

@@ -17,13 +17,13 @@
 * [Linux](#Linux)
 * [MongoDB](#mongodb)
 * [PHP](#php)
+  * [Codeigniter](#codeigniter)
   * [Laravel](#laravel)
 * [Python](#python)
   * [Django](#django)
   * [Flask](#flask)
   * [PyTorch](#pytorch)
 * [Redis](#redis)
-
 
 ### Android
 
@@ -67,6 +67,7 @@
 
 * [Belajar Go-Lang untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw) - Programmer Zaman Now
 * [Belajar Golang Basic Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm) - Sekolah Koding
+
 
 
 ### HTML / CSS
@@ -145,11 +146,20 @@
 * [Tutorial CodeIgniter untuk pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCYh65VSFR2yzC7CuPBcAjt) - Sekolah Koding
 
 
+### Codeigniter
+
+* [Tutorial Codeigniter](https://www.youtube.com/watch?v=r2ONZZrYk8c&list=PLce3Eyp7oY9_5lzhkUtrV6ygriYcttMlg) - Framework Indonesia
+* [Tutorial Sistem Informasi Akademik dengan Codeigniter](https://www.youtube.com/watch?v=VaA_dmqs5so&list=PLce3Eyp7oY9_hXzGACf988F1ojvQlYmB0) - Framework Indonesia
+
+
+
 ### Laravel
 
 * [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Parsinta
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Parsinta
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
+
+
 
 
 ### Python

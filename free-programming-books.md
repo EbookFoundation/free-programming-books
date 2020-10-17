@@ -1037,6 +1037,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
 * [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
 * [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
+* [The C Beginner's Handbook - Flavio Copes](https://flaviocopes.com/page/c-handbook/) 
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
 * [The Current C Programming Language Standard – ISO/IEC 9899:202x (C2x)](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf) - Open Standards Org - www.open-std.org (PDF)
@@ -1662,6 +1663,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Brian Lonsdorf
 * [Programming JavaScript Applications](https://www.oreilly.com/library/view/programming-javascript-applications/9781491950289/)
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
+* [The JavaScript Beginner's Handbook - Flavio Copes](https://flaviocopes.com/page/javascript-handbook/)
 * [The JavaScript Tutorial](http://javascript.info)
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
 * [The Problem with Native JavaScript APIs](https://www.oreilly.com/programming/free/native-javascript-apis.csp) (email address *requested*)
@@ -1771,6 +1773,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Node.js Notes](http://books.goalkicker.com/NodeJSBook) (PDF)
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [The Node Beginner Book](http://nodebeginner.org)
+* [The Node Handbook - Flavio Copes](https://flaviocopes.com/page/node-handbook/)
 
 
 #### Om
@@ -1798,7 +1801,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
-
+* [The React Handbook - Flavio Copes](https://flaviocopes.com/page/react-handbook/)
 
 #### React Native
 

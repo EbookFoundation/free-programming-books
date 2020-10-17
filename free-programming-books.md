@@ -94,6 +94,7 @@
   * [Ember.js](#emberjs)
   * [Express.js](#expressjs)
   * [Ionic](#ionic)
+  * [JavaScript and JQuery: Interactive Front-End Web Development](https://www.pdfdrive.com/download.pdf?id=184606066&h=26c303a8f1e8881a7a6bd59d57a76aef&u=cache&ext=pdf) - John Duckett (PDF)
   * [jQuery](#jquery)
   * [meteor](#meteor)
   * [Node.js](#nodejs)

@@ -2489,7 +2489,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Definitive Ruby Tutorial For Complete Beginners](https://www.rubyguides.com/ruby-tutorial/) - Jesus Castello
 * [The Ruby Reference](https://rubyreferences.github.io/rubyref/) - Victor Shepelev
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
-* [Using Blocks in Ruby](https://www.oreilly.com/programming/free/using-blocks-in-ruby.csp) - Jay McGavren (email address *requested*)
+* [Using Blocks in Ruby](https://www.oreilly.com/programming/free/files/using-blocks-in-ruby.pdf) - Jay McGavren (PDF)
 * [Why's (Poignant) Guide to Ruby](http://poignant.guide)
 
 

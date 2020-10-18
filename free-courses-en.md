@@ -310,6 +310,7 @@
 
 * [React Native for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) - The Net Ninja
 
+
 #### Redux
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)

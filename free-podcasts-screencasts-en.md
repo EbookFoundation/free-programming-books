@@ -101,8 +101,8 @@
 
 ### Git
 
-* [GitMinutes](http://www.gitminutes.com) (podcast)
 * [Git and Github Tutorial](https://www.youtube.com/watch?v=NPRUsCcZwJ4) (screencast)
+* [GitMinutes](http://www.gitminutes.com) (podcast)
 * [The Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (screencast)
 
 

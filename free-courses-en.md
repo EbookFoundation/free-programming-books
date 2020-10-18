@@ -299,10 +299,13 @@
 
 #### React
 
+* [Build a Discord Clone with REACT JS for Beginners](https://youtu.be/zc1loX80TX8) - Clever Programmer
+* [Build a YouTube Clone with REACT JS for Beginners](https://youtu.be/NT299zIk2JY) - Clever Programmer
 * [React basic in just 1 hour](https://www.udemy.com/course/react-basic-in-just-1-hour/) (Udemy)
 * [React Crash Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) - freecodecamp
 * [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - WebDevSimplified
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
+* [The 5-Day React JavaScript Challenge](https://www.youtube.com/playlist?list=PL-J2q3Ga50oNQP__onO64kAHX_z0BdLv6) - Clever Programmer
 
 
 #### Redux

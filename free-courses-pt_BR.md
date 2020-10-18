@@ -160,6 +160,7 @@
 
 * [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr
 * [Neural Networks e Deep Learning para Leigos: Sem Mistérios!](https://www.udemy.com/course/neural-networks-e-deep-learnig-para-leigos/) - Fernando Amaral
+* [Machine learning book](https://github.com/dexter006/Machine-Learning-Ebook) - Andriy Burkov
 
 
 ### Markdown

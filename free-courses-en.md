@@ -290,7 +290,6 @@
 #### D3.js
 
 * [Data Visualization with D3.js: Full Tutorial Course 2019](https://www.youtube.com/watch?v=_8V5o2UHG0E&t=23737s) - freecodecamp (Youtube)
-* [Learn the basics of data visualization with D3](https://www.codecademy.com/learn/learn-d3) - Codecademy
 
 
 #### jQuery

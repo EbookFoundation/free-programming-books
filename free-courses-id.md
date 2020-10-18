@@ -89,14 +89,15 @@
 ### JavaScript
 
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Programmer Zaman Now
+* [Belajar Javacript Untuk Pemula Full Course 8 jam](https://youtu.be/Qqx_wzMmFeA) - Clever Programmer
+* [Belajar Pemrograman berbasis Objek Javascript](https://youtu.be/PFmuCDHHpwk) - Programming With Mosh
 * [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
-* [Belajar Javacript Untuk Pemula Full Course 8 jam](https://youtu.be/Qqx_wzMmFeA) - Clever Programmer
 * [Membuat 15 Projek Javacript  menggunakan Vanila Javascript](https://youtu.be/3PHXvlpOkf4) - freecodecamp.org
-* [Belajar Pemrograman berbasis Objek Javascript](https://youtu.be/PFmuCDHHpwk) - Programming With Mosh
+
 
 ### React
 

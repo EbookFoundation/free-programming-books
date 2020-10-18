@@ -207,6 +207,7 @@
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson (YouTube)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)
+* [Aprenda Python 3 em 6 horas](https://www.udemy.com/course/aprenda-python-3-em-6h/) - Alcimar A. Costa (Udemy)
 
 
 ### React Native

@@ -41,6 +41,7 @@
 
 ### Angular
 
+* [Curso Angular 9](https://www.youtube.com/watch?v=NCrWXZtlc7Q&list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 
 

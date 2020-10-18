@@ -64,6 +64,7 @@
 
 * [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) (F. Camuso)
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) (F. Camuso)
+* [C++ free online course on Coursera by University of California](https://www.coursera.org/specializations/coding-for-everyone) (Era Pohl)
 
 
 ### Database

@@ -24,6 +24,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [D3.js](#d3js)
   * [jQuery](#jquery)
   * [NodeJS](#nodejs)
   * [React](#react)
@@ -284,6 +285,11 @@
 * [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
+
+#### D3.js
+
+* [Data Visualization with D3.js: Full Tutorial Course 2019](https://www.youtube.com/watch?v=_8V5o2UHG0E) - freecodecamp (Youtube)
 
 
 #### jQuery

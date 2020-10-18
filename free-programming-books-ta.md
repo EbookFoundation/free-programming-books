@@ -16,7 +16,7 @@
 
 ### CSS
 
-* [எளிய தமிழில் CSS](http://www.kaniyam.com/download/learn-css-in-tamil.pdf) (PDF)
+* [எளிய தமிழில் CSS](http://www.kaniyam.com/download/learn-css-in-tamil.pdf) - Kaniyam Foundation (PDF)
 
 
 ### Database

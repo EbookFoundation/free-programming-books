@@ -935,6 +935,8 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Assembly Language
 
 * [An introduction to reverse engineering for beginners](https://beginners.re/RE4B-EN.pdf) - Dennis Yurichev (PDF)
+* [ARM Assembly Language Programming](http://www.rigwit.co.uk/ARMBook/ARMBook.pdf) - Peter Knaggs (PDF) (:construction: *in process*)
+* [Assemblers And Loaders (1993)](http://www.davidsalomon.name/assem.advertis/asl.pdf) - David Salomon (PDF)
 * [Assembly Language Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage) (PDF)
 * [PC Assembly Language](http://pacman128.github.io/pcasm/) - P. A. Carter
 * [Professional Assembly Language](https://web.archive.org/web/20170329045538/http://blog.hit.edu.cn:80/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
@@ -945,6 +947,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Wizard Code, A View on Low-Level Programming](https://web.archive.org/web/20170712195930/http://vendu.twodots.nl/files/wizardcode4.pdf) - Tuomo Tuomo Venäläinen (PDF)
 * [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) - Ed Jorgensen (PDF)
 * [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - Wikibooks
+* [x86 Disassembly](https://en.wikibooks.org/wiki/X86_Disassembly) - Wikibooks
+* [Zen of Assembly Language: Volume I, Knowledge (1990)](http://www.jagregory.com/abrash-zen-of-asm/) - Michael Abrash
 
 
 #### Non-X86

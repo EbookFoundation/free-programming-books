@@ -2041,8 +2041,8 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### NoSQL
 
+* [Cassandra: The Definitive Guide - 3rd Edition](https://www.datastax.com/resources/ebook/oreilly-cassandra-definitive-guide) - Jeff Carpenter & Eben Hewitt (email address *requested*)
 * [CouchDB: The Definitive Guide](http://guide.couchdb.org)
-* [Cassandra: The Definitive Guide - 3rd Edition](https://www.datastax.com/resources/ebook/oreilly-cassandra-definitive-guide) (email address *requested*)
 * [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
 * [Graph Databases](http://graphdatabases.com)
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)

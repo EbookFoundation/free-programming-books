@@ -449,6 +449,7 @@
 * [Python Tutorial](https://www.w3schools.com/python/) - W3Schools
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
+* [Python for Everybody](https://www.py4e.com/book)
 
 
 ### QB64

@@ -98,7 +98,7 @@
 ### Git
 
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
-* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+* [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
 

@@ -1,6 +1,6 @@
 ### Index
 
-* [0 - Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
+* [ABAP](#abap)
 * [Action Script](#action-script)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
@@ -26,16 +26,14 @@
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [UML](#uml)
+* [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Unix](#unix)
 * [Visual Basic](#visual-basic)
 
 
-### Unabhängig von der Programmiersprache
+### ABAP
 
-* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
-* [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
-* [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
-* [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
+* [SAP Code Style Guides - Clean ABAP](https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP_de.md)
 
 
 ### Action Script
@@ -60,6 +58,14 @@
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
+### C Sharp
+
+* [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
+* [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp/)
+* [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010/)
+* [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
+
+
 ### C++
 
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de)
@@ -72,12 +78,12 @@
 * [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
 
 
-### C Sharp
+### Git
 
-* [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
-* [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp/)
-* [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010/)
-* [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
+* [Das Git-Buch](http://gitbu.ch) [PDF, EPUB]
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
+* [Pro Git (2009)](http://git-scm.com/book/de/v1)
+* [Pro Git (neue Version)](http://git-scm.com/book/de/current) (:construction: *in process*)
 
 
 ### Go
@@ -85,14 +91,6 @@
 * [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html)
 * [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
 * [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/)
-
-
-### Git
-
-* [Das Git-Buch](http://gitbu.ch) [PDF, EPUB]
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
-* [Pro Git (2009)](http://git-scm.com/book/de/v1)
-* [Pro Git (neue Version)](http://git-scm.com/book/de/current) (:construction: *in process*)
 
 
 ### Groovy
@@ -194,6 +192,14 @@
 ### UML
 
 * [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml/)
+
+
+### Unabhängig von der Programmiersprache
+
+* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
+* [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
+* [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
+* [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
 
 
 ### Unix

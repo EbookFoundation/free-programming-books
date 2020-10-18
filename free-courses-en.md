@@ -158,11 +158,10 @@
 * [Data Cleaning by Rachael Tatman at Kaggle](https://www.kaggle.com/learn/data-cleaning)
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
 * [Data Visualization by Alexis Cook at Kaggle](https://www.kaggle.com/learn/data-visualization)
-* [Deep Learning by Josh Patterson and Adam Gibson](https://www.getabook.ml/pdfs/DeepLearningPractitionersApproach.pdf)
-* [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron](https://www.getabook.ml/pdfs/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
+
 
 ### Databases
 

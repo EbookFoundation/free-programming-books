@@ -222,9 +222,9 @@
 
 #### React
 
+* [O Guia Completo do React e o seu Ecossistema](https://medium.com/tableless/o-guia-completo-do-react-e-o-seu-ecossistema-b31a10ecd84f) - Matheus Lima (HTML)
 * [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
 * [The Road to Learn React](https://leanpub.com/the-road-to-learn-react-portuguese) *(necessário conta no Leanpub ou e-mail válido)*
-* [O Guia Completo do React e o seu Ecossistema](https://medium.com/tableless/o-guia-completo-do-react-e-o-seu-ecossistema-b31a10ecd84f) - Matheus Lima (HTML)
 
 
 #### Vue.js

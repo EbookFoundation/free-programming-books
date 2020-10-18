@@ -9,7 +9,7 @@
 * [Go](#go)
 * [HTML / CSS](#html--css)
 * [Java](#java)
-  * [Spring Framework](#spring-framework)
+  * [Spring](#spring)
 * [JavaScript](#javascript)
   * [React](#react)
   * [Vue](#vue)
@@ -89,7 +89,8 @@
 * [Belajar Java - Object Oriented Programming](https://www.youtube.com/playlist?list=PLFfUPa9IV8LpbRH5-TzphcZj6tpoxdr-p) - Mastahcode
 
 
-### Spring Framework
+### Spring
+
 * [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Mastahcode
 
 

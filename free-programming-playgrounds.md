@@ -83,7 +83,7 @@
 
 ### GDScript
 
-* [GDScript](https://gdscript-online.github.io/)
+* [GDScript](https://gdscript-online.github.io)
 
 
 ### Go

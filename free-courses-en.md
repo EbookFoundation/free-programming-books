@@ -451,7 +451,6 @@
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 
 
-
 ### QB64
 
 * [Game Programming with QB64](http://qb64sourcecode.com) - Terry Ritchie

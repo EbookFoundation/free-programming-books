@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [Angular](#angular)
 * [C](#c)
 * [C Sharp](#c-sharp)
 * [CSS](#css)
@@ -36,6 +37,11 @@
 
 * [Android Start - Curso Android - Java Kotlin e Flutter](https://www.udemy.com/android-start-curso-android-basico-java-kotlin-e-flutter/) - Buno de Libero Ferreira (Udemy)
 * [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+
+
+### Angular
+
+* [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 
 
 ### C

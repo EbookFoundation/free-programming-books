@@ -2,10 +2,8 @@
 
 * [C](#C)
 * [C++](#C++)
-
 * [Python](#Python)
 * [Javascript](#Javascript)
-
 * [Javadsalgo](#Javadsalgo)
 * [Angular](#Angular)
 

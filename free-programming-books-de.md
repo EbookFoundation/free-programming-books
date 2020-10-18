@@ -18,6 +18,7 @@
 * [LaTeX](#latex)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
+* [Neo4j](#neo4j)
 * [PHP](#php)
   * [Symfony](#symfony)
 * [Python](#python)
@@ -146,6 +147,11 @@
 ### MySQL
 
 * [MySQL](http://www.peterkropff.de/site/mysql/mysql.htm) — Peter Kropff [Online, PDF]
+
+
+### Neo4j
+
+* [Neo4j 2.0 – Eine Graphdatenbank für alle](https://neo4j.com/neo4j-graphdatenbank-book/) - Michael Hunger (PDF) *(email requested)*
 
 
 ### PHP

@@ -1842,6 +1842,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Kotlin Notes for Professionals book](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
+* [Kotlin Programming: The Big Nerd Ranch Guide](https://b-ok.cc/book/5264492/1b4314) - Josh Skeen & David Greenhalgh (Epub)
 
 
 ### LaTeX / TeX

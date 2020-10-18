@@ -1,8 +1,7 @@
 ### Index
 
-* [Index](#index)
 * [Android](#android)
-* [C&#x23;](#c)
+* [C#](#c)
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [Common Lisp](#common-lisp)

@@ -264,6 +264,11 @@
 * [PG Casts](https://www.pgcasts.com) (screencast)
 
 
+### Processing
+
+* [Learning Processing](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) (screencast)
+
+
 ### Python
 
 * [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy) (screencast)

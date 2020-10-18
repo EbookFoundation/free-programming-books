@@ -2,6 +2,12 @@
 
 * [C](#C)
 * [C++](#C++)
+* [Python](#Python)
+* [Javascript](#Javascript)
+* [Java](#Java)
+* [ReactJs](#ReactJs)
+* [C#](#C#)
+
 
 
 ### C
@@ -22,3 +28,20 @@
 ### Javascript
 
 * [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry
+
+
+### Java
+
+* [Java Tutorial | Hindi ](https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - Harry
+
+
+### ReactJs
+
+* [ReactJs Tutorial | Hindi ](https://www.youtube.com/watch?v=tiLWCNFzThE&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Thapa Technical
+
+
+### C#
+
+* [C# Tutorial | Hindi ](https://www.youtube.com/watch?v=SuLiu5AK9Ps) - Harry
+
+

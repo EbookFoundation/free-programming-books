@@ -218,6 +218,7 @@
 
 * [Node.js para Leigos](http://udgwebdev.com/nodejs/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
+* [Aplicações Web real time] (https://github.com/caio-ribeiro-pereira/livro-nodejs)
 
 
 #### React

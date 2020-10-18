@@ -1,35 +1,34 @@
 ### Index
 
-- [Index](#index)
-- [ABAP](#abap)
-- [Action Script](#action-script)
-- [Android](#android)
-- [Assembly Language](#assembly-language)
-- [C](#c)
-- [C++](#c-1)
-- [Component Pascal](#component-pascal)
-- [C Sharp](#c-sharp)
-- [Go](#go)
-- [Git](#git)
-- [Groovy](#groovy)
-- [HTML & CSS](#html--css)
-- [iOS](#ios)
-- [Java](#java)
-- [Javascript](#javascript)
-- [LaTeX](#latex)
-- [Meta-Lists](#meta-lists)
-- [MySQL](#mysql)
-- [PHP](#php)
-  - [Symfony](#symfony)
-- [Python](#python)
-  - [Django](#django)
-- [Ruby on Rails](#ruby-on-rails)
-- [Scilab](#scilab)
-- [Scratch](#scratch)
-- [UML](#uml)
-- [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
-- [Unix](#unix)
-- [Visual Basic](#visual-basic)
+* [ABAP](#abap)
+* [Action Script](#action-script)
+* [Android](#android)
+* [Assembly Language](#assembly-language)
+* [C](#c)
+* [C#](#c-sharp)
+* [C++](#c-1)
+* [Component Pascal](#component-pascal)
+* [Git](#git)
+* [Go](#go)
+* [Groovy](#groovy)
+* [HTML & CSS](#html--css)
+* [iOS](#ios)
+* [Java](#java)
+* [Javascript](#javascript)
+* [LaTeX](#latex)
+* [Meta-Lists](#meta-lists)
+* [MySQL](#mysql)
+* [PHP](#php)
+  * [Symfony](#symfony)
+* [Python](#python)
+  * [Django](#django)
+* [Ruby on Rails](#ruby-on-rails)
+* [Scilab](#scilab)
+* [Scratch](#scratch)
+* [UML](#uml)
+* [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
+* [Unix](#unix)
+* [Visual Basic](#visual-basic)
 
 
 ### ABAP
@@ -59,6 +58,14 @@
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
+### C Sharp
+
+* [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
+* [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp/)
+* [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010/)
+* [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
+
+
 ### C++
 
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de)
@@ -71,12 +78,12 @@
 * [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
 
 
-### C Sharp
+### Git
 
-* [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
-* [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp/)
-* [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010/)
-* [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
+* [Das Git-Buch](http://gitbu.ch) [PDF, EPUB]
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
+* [Pro Git (2009)](http://git-scm.com/book/de/v1)
+* [Pro Git (neue Version)](http://git-scm.com/book/de/current) (:construction: *in process*)
 
 
 ### Go
@@ -84,14 +91,6 @@
 * [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html)
 * [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
 * [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/)
-
-
-### Git
-
-* [Das Git-Buch](http://gitbu.ch) [PDF, EPUB]
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
-* [Pro Git (2009)](http://git-scm.com/book/de/v1)
-* [Pro Git (neue Version)](http://git-scm.com/book/de/current) (:construction: *in process*)
 
 
 ### Groovy

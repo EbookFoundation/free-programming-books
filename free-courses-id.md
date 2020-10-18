@@ -89,7 +89,7 @@
 ### JavaScript
 
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Programmer Zaman Now
-* [Belajar Javacript Untuk Pemula Full Course 8 jam](https://youtu.be/Qqx_wzMmFeA) - Clever Programmer
+* [Belajar Javascript Untuk Pemula Full Course 8 jam](https://youtu.be/Qqx_wzMmFeA) - Clever Programmer
 * [Belajar Pemrograman berbasis Objek Javascript](https://youtu.be/PFmuCDHHpwk) - Programming With Mosh
 * [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS

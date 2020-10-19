@@ -1,9 +1,10 @@
 ## Hacktoberfest notes:
 
-- due to volume of submissions, we may not be able to review PRs that do not pass tests and do not have informative titles.
-- please read our [contributing guidelines](/CONTRIBUTING.md)
-- be sure to check the output of Travis-CI for linter errors
-- if this is your first open source contribution, make sure it's not your last!
+- Due to volume of submissions, we may not be able to review PRs that do not pass tests and do not have informative titles.
+- Please read our [contributing guidelines](/CONTRIBUTING.md).
+- Be sure to check the output of Travis CI for linter errors.
+- If this is your first open source contribution, make sure it's not your last!
+- Please note that users that do many PRs marked as invalid/spam, may now get [banned from **all** Hacktoberfests](https://hacktoberfest.digitalocean.com/hacktoberfest-update), not just this one.
 
 ## What does this PR do?
 Add Resource(s) | Remove Resource(s) | Add info | Improve Repo

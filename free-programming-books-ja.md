@@ -55,6 +55,7 @@
 * [openFrameworks](#openframeworks)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [PowerShell](#powershell)
 * [Processing](#processing)
 * [Prolog](#prolog)
@@ -72,6 +73,7 @@
 * [Standard ML](#standard-ml)
 * [Swift](#swift)
 * [Tcl/Tk](#tcltk)
+* [Theoretical Computer Science](#theoretical-computer-science)
 * [TypeScript](#typescript)
 * [VBA](#vba)
 * [Vim](#vim)
@@ -502,6 +504,11 @@
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 
+#### Symfony
+
+* [Symfony 5: ファストトラック](https://symfony.com/doc/5.0/the-fast-track/ja/index.html)
+
+
 ### PowerShell
 
 * [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
@@ -641,6 +648,11 @@
 
 * [Tcl/Tk お気楽 GUI プログラミング](http://www.nct9.ne.jp/m_hiroi/tcl_tk.html) - 広井誠
 * [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf) - 只木進一 (PDF)
+
+
+### Theoretical Computer Science
+
+* [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext/xcont.html) - Alan J. Perlis 
 
 
 ### TypeScript

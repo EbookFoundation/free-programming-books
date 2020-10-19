@@ -1,11 +1,11 @@
 ### Index
 
-* [C/C++](#C/C++)
+* [Java](#Java)
 * [Python](#python)
 
-### C/C++
+### Java
 
-* [การเขียนโปรแกรมคอมพิวเตอร์](http://www.ce.kmitl.ac.th/download.php?DOWNLOAD_ID=3429&database=subject_download) - KMITL, Department of Computer Engineering (PDF)
+* [โครงสร้างข้อมูล: ฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/books/ds-vjjv/) - สมชาย ประสิทธิ์จูตระกูล
 
 ### Python
 

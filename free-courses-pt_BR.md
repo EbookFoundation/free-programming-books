@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [Angular](#angular)
 * [C](#c)
 * [C Sharp](#c-sharp)
 * [CSS](#css)
@@ -38,6 +39,11 @@
 * [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
 
 
+### Angular
+
+* [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
+
+
 ### C
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
@@ -66,6 +72,7 @@
 
 ### Database
 
+* [Curso de Modelagem de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD) - Bosón Treinamentos (YouTube)
 * [Introdução ao MySQL e phpMyAdmin](https://www.udemy.com/mysql-phpmyadmin/) - Fernando Carmo, Mestres BI (Udemy)
 
 

@@ -564,6 +564,7 @@
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) - Brendan Fong and David I. Spivak (PDF)
 * [Statistical Thinking for the 21st Century](https://statsthinking21.org) - Russell A. Poldrack
 * [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
+* [The Joy of Cryptography (2020)](https://web.engr.oregonstate.edu/~rosulekm/crypto/) - Mike Rosulek (PDF) (:construction: *in process*)
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
 
@@ -927,14 +928,22 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### ASP.NET
 
+* [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure (2020)](https://aka.ms/webappebook) - Steve "ardalis" Smith (PDF) (:construction: *in process*)
 * [ASP.NET Core 2 Succinctly](https://www.syncfusion.com/ebooks/aspnet-core-2-succinctly) - Simone Chiaretta, Ugo Lattanzi
 * [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com)
 * [ASP.NET WebHooks Succinctly](https://www.syncfusion.com/ebooks/aspnet_webhooks_succinctly) - Gaurav Arora
+* [ASP.NET with C# (2008)](http://www.vijaymukhi.com/documents/books/vsnet/content.htm) - Vijay Mukhi, Sonal Mukhi, Neha Kotecha
+* [Diving into ASP.NET WebAPI (2016)](https://github.com/akhilmittal/FreeBooks/) - Akhil Mittal (PDF)
+* [Intro to ASPNET MVC 4 with Visual Studio 2011 Beta (2012)](http://download.microsoft.com/download/0/f/b/0fbfaa46-2bfd-478f-8e56-7bf3c672df9d/intro%20to%20asp.net%20mvc%204%20with%20visual%20studio%20-%20beta.pdf) - Rick Anderson and Scott Hanselman (PDF)
+* [Introducing ASP.NET Web Pages 2 (2012)](https://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Introducing%20ASP.NET%20Web%20Pages%202.pdf) - Mike Pope (PDF)
+* [The Little ASP.NET Core Book (2018)](https://s3.amazonaws.com/recaffeinate-files/LittleAspNetCoreBook.pdf) - Nate Barbettini (PDF)
 
 
 ### Assembly Language
 
 * [An introduction to reverse engineering for beginners](https://beginners.re/RE4B-EN.pdf) - Dennis Yurichev (PDF)
+* [ARM Assembly Language Programming](http://www.rigwit.co.uk/ARMBook/ARMBook.pdf) - Peter Knaggs (PDF) (:construction: *in process*)
+* [Assemblers And Loaders (1993)](http://www.davidsalomon.name/assem.advertis/asl.pdf) - David Salomon (PDF)
 * [Assembly Language Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage) (PDF)
 * [PC Assembly Language](http://pacman128.github.io/pcasm/) - P. A. Carter
 * [Professional Assembly Language](https://web.archive.org/web/20170329045538/http://blog.hit.edu.cn:80/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
@@ -945,6 +954,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Wizard Code, A View on Low-Level Programming](https://web.archive.org/web/20170712195930/http://vendu.twodots.nl/files/wizardcode4.pdf) - Tuomo Tuomo Venäläinen (PDF)
 * [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) - Ed Jorgensen (PDF)
 * [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - Wikibooks
+* [x86 Disassembly](https://en.wikibooks.org/wiki/X86_Disassembly) - Wikibooks
+* [Zen of Assembly Language: Volume I, Knowledge (1990)](http://www.jagregory.com/abrash-zen-of-asm/) - Michael Abrash
 
 
 #### Non-X86
@@ -1429,6 +1440,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Haskell](https://en.wikibooks.org/wiki/Haskell) - Wikibooks
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.4)
 * [Haskell no panic](http://lisperati.com/haskell/)
+* [Haskell Notes for Professionals](https://goalkicker.com/HaskellBook/) - Compiled from StackOverflow documentation (PDF)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovaca
@@ -1642,6 +1654,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js) - Dr. Axel Rauschmayer
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
+* [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF) 
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
 * [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite
 * [Javascript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) (email address *requested*, not required)
@@ -1881,6 +1894,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
 * [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
+* [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) - Compiled from StackOverflow documentation (PDF)
 * [Linux Device Drivers, Third Edition](http://lwn.net/Kernel/LDD3/) - Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
@@ -2485,7 +2499,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Definitive Ruby Tutorial For Complete Beginners](https://www.rubyguides.com/ruby-tutorial/) - Jesus Castello
 * [The Ruby Reference](https://rubyreferences.github.io/rubyref/) - Victor Shepelev
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
-* [Using Blocks in Ruby](https://www.oreilly.com/programming/free/using-blocks-in-ruby.csp) - Jay McGavren (email address *requested*)
+* [Using Blocks in Ruby](https://www.oreilly.com/programming/free/files/using-blocks-in-ruby.pdf) - Jay McGavren (PDF)
 * [Why's (Poignant) Guide to Ruby](http://poignant.guide)
 
 

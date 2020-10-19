@@ -8,6 +8,8 @@
 * [Control de Versiones](#control-de-versiones)
 * [Flujos de trabajo](#flujos-de-trabajo)
 * [Frameworks](#frameworks)
+* [LaTeX](#latex)
+* [Markdown](#markdown)
 * [Ofimática](#ofim&#x00E1;tica)
 * [Procesadores de lenguaje](#procesadores-de-lenguaje)
 * [Programación](#programaci&#x00F3;n)
@@ -103,6 +105,16 @@
 * [Curso Django](https://www.pildorasinformaticas.es/course/django) - Juan Díaz (Píldoras Informáticas)
 * [Curso Spring](https://www.pildorasinformaticas.es/course/curso-spring) - Juan Díaz (Píldoras Informáticas)
 * [Laravel](https://www.pildorasinformaticas.es/course/laravel) - Juan Díaz (Píldoras Informáticas)
+
+
+### LaTeX
+
+* [Curso no convencional de LaTeX](https://ondiz.github.io/cursoLatex/)
+
+
+### Markdown
+
+* [Tutorial de Markdown](https://www.markdowntutorial.com/es/)
 
 
 ### Machine Learning (ML) e Inteligencia Artificial (AI)

@@ -88,20 +88,22 @@
 
 ### JavaScript
 
+* [Belajar ES6 Javascript Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR) - Sekolah Koding
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Programmer Zaman Now
-* [Belajar Javascript Untuk Pemula Full Course 8 jam](https://youtu.be/Qqx_wzMmFeA) - Clever Programmer
-* [Belajar Pemrograman berbasis Objek Javascript](https://youtu.be/PFmuCDHHpwk) - Programming With Mosh
 * [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
+* [Efek Animasi Dengan Javascript](https://www.youtube.com/playlist?list=PLaiL-dW1ZK53w_8qaGCsv4fASU1wAO0tX) - zsolt madarász
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
-* [Membuat 15 Projek Javacript  menggunakan Vanila Javascript](https://youtu.be/3PHXvlpOkf4) - freecodecamp.org
+
 
 
 ### React
 
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
+* [Challenge 5 hari ngoding REACT JS](https://www.youtube.com/playlist?list=PL-J2q3Ga50oNQP__onO64kAHX_z0BdLv6) - Clever Programmer
+* [Membuat Clone Aplikasi Terkenal dengan REACT JS](https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP) - Clever Programmer
 * [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb) - Prawito Hudoro
 * [Tutorial React JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - Lampung JS
 
@@ -169,6 +171,7 @@
 ### Django
 
 * [Belajar Django 2.2](https://www.youtube.com/playlist?list=PLSCLBARdXrOz4SM3GKyKuqQp7eXWAH1u1) - Zul Himli
+* [Django Untuk Pemula](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD) - Clever Programmer
 * [Tutorial Django 1.11 LTS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6p_RwsWntxMO5QAqIHHHld) - Kelas Terbuka
 
 

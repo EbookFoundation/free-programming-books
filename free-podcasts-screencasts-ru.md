@@ -13,6 +13,7 @@
 * [QA](#qa)
 * [React.js](#reactjs)
 * [Ruby](#ruby)
+* [Web](#web)
 * [Webpack](#webpack)
 * [Информационные технологии и безопасность](#Информационные-технологии-и-безопасность)
 * [Новости и Разработка ПО](#Новости-и-Разработка-ПО)
@@ -97,6 +98,11 @@
 ### Scala
 
 * [Русскоязычный подкаст о Scala](https://scalalaz.ru) (Podcast)
+
+
+### Web
+
+* [Frontend Weekend](https://soundcloud.com/frontend-weekend)
 
 
 ### Webpack

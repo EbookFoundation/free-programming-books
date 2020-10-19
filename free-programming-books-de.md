@@ -2,7 +2,6 @@
 
 * [ABAP](#abap)
 * [Action Script](#action-script)
-* [Android](#android)
 * [Assembly Language](#assembly-language)
 * [C](#c)
 * [C#](#c-sharp)
@@ -42,11 +41,6 @@
 
 * [ActionScript 1 und 2](http://openbook.rheinwerk-verlag.de/actionscript/)
 * [Einstieg in ActionScript](http://openbook.rheinwerk-verlag.de/actionscript_einstieg/)
-
-
-### Android
-
-* [Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf) (PDF)
 
 
 ### Assembly Language

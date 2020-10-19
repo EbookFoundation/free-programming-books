@@ -302,6 +302,7 @@
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)
+* [Русская версия документация Angular 10](https://angular24.ru/start) - Алексей Охрименко
 
 
 #### jQuery
@@ -324,9 +325,11 @@
 
 #### React
 
+* [Перевод документации](https://learn-reactjs.ru/home)
 * [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian) - Алексей Пыльцын (PDF, ePub, MOBI) *(Требуется аккаунт на Leanpub или действительный адрес электронной почты)*
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
+* [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/) 
 
 
 #### Vue.js

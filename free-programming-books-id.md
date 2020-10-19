@@ -1,12 +1,17 @@
 ### Index
 
 * [Android](#android)
+* [C++](#cplusplus)
+* [CodeIgniter](#codeigniter)
 * [Emacs](#emacs)
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Node.js](#nodejs)
+* [NoSQL](#nosql)
+* [Pemrograman Fungsional](#pemrograman-fungsional)
 * [PHP](#php)
 * [Python](#python)
 * [Vue](#vue)
@@ -16,6 +21,16 @@
 
 * [Android Developers Fundamental Course Concepts and Practicals (Bahasa Indonesia)](https://yukcoding.id/download-ebook-android-gratis/)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
+
+
+### <a id="cplusplus"></a> C++
+
+* [Koding C++ Dengan Qt](https://leanpub.com/koding-cpp-qt) *(Membutuhkan akun Leanpub atau email yang valid)*
+
+
+### CodeIgniter
+
+* [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 
 
 ### Emacs
@@ -39,6 +54,7 @@
 
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
+* [HTML & CSS: Buat Websitemu Sendiri ](https://leanpub.com/html-css--buat-webistemu-sendiri) *(Membutuhkan akun Leanpub atau email yang valid)*
 
 
 ### Java
@@ -48,8 +64,15 @@
 
 ### JavaScript
 
+* [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
+* [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
+
+
+### MySQL
+
+* [Tutorial MySQL untuk Pemula Hingga Mahir](https://umardanny.com/tutorial-mysql-untuk-pemula-hingga-mahir-ebook-download-pdf/)
 
 
 ### Node.js
@@ -63,8 +86,14 @@
 * [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/pengantar-mongodb/content/)
 
 
+### Pemrograman Fungsional
+
+* [Pemrograman Fungsional untuk Rakyat Jelata dengan Scalaz](https://leanpub.com/fpmortals-id)
+
+
 ### PHP
 
+* [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat - (PDF)
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
@@ -83,4 +112,3 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
-

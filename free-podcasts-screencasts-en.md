@@ -101,6 +101,7 @@
 ### Git
 
 * [GitMinutes](http://www.gitminutes.com) (podcast)
+* [Jhan Carlos Silva - Git and Github Tutorial](https://www.youtube.com/watch?v=NPRUsCcZwJ4) (screencast)
 * [The Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (screencast)
 
 
@@ -131,6 +132,7 @@
 ### Java
 
 * [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
+* [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime and Bob Paulin (podcast)
 
 
 ### Javascript
@@ -138,9 +140,11 @@
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
 * [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript) (screencast)
 * [Front End Happy Hour](http://frontendhappyhour.com) (podcast)
+* [Frontend First](https://frontendfirst.fm) - Sam Selikoff and Ryan Toronto (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) (podcast)
 * [JavaScript Air](https://javascriptair.com) (podcast)
 * [JavaScript Jabber](https://devchat.tv/js-jabber) (podcast)
+* [Modern Web](https://www.thisdot.co/modern-web) (podcast)
 * [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) (screencast)
 * [Real Talk JavaScript](https://realtalkjavascript.simplecast.com) (podcast)
 * [Syntax](https://syntax.fm) (podcast)
@@ -177,6 +181,7 @@
 
 * [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
 * [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
+* [React Round Up](https://devchat.tv/podcasts/react-round-up) - DevChat.tv (podcast)
 * [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
 
 
@@ -208,6 +213,7 @@
 * [Full Stack Radio](http://www.fullstackradio.com) (podcast)
 * [Functional Geekery](https://www.functionalgeekery.com) (podcast)
 * [Garbage](http://garbage.fm) (podcast)
+* [Hacker Culture](https://anchor.fm/hackerculture) (podcast)
 * [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing) (podcast)
 * [Ladybug Podcast](https://www.ladybug.dev) (podcast)
 * [Learn to Code with Me](http://learntocodewith.me/podcast/) (podcast)
@@ -236,6 +242,7 @@
 * [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet) (podcast)
 * [The Web Ahead](http://5by5.tv/webahead) (podcast)
 * [The Web Platform](http://thewebplatform.libsyn.com) (podcast)
+* [Thinking with Tanay](https://anchor.fm/tanaypratap) (podcast)
 * [This Developer's Life](http://thisdeveloperslife.com) (podcast)
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) (podcast)
 * [Three Devs and a Maybe](http://threedevsandamaybe.com) (podcast)
@@ -270,6 +277,7 @@
 * [Python Test Podcast](http://pythontesting.net/test-podcast) (podcast)
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) (screencast)
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm) (podcast)
+* [Teaching Python](https://www.teachingpython.fm) (podcast)
 * [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq) (screencast)
 * [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) (screencast)
 * [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d) (screencast)

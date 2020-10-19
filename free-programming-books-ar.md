@@ -62,7 +62,7 @@
 
 
 ### Programming in Scratch
-
+*[An awesome book for C programming](https://www.pdfdrive.com/reema-thareja-books.html) - Reema Thareja (PDF)
 * [كتاب احترف سكراتش](http://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
 
 

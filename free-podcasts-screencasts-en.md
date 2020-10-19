@@ -305,3 +305,4 @@
 ### Vim
 
 * [Free screencasts about the text editor Vim](http://vimcasts.org) (screencast)
+* [The Vim Blog](https://thevimblog.com/podcast) (podcast)

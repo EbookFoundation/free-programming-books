@@ -2,7 +2,7 @@
 
 
 ## 贡献者许可协议
-
+sneha
 请遵循此[许可协议](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE)参与贡献。
 
 

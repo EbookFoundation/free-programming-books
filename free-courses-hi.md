@@ -19,6 +19,10 @@
 * [HTML In Hindi](https://masterprograming.com/html-in-hindi/)
 
 
+### Javascript
+
+* [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry
+
 
 ### Python
 
@@ -30,7 +34,3 @@
 * [PHP Full Course In Hindi | PHP Complete Tutorial In Hindi](https://masterprograming.com/php-full-course-in-hindi-php-tutorial-complete-in-hindi/)
 
 
-
-### Javascript
-
-* [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry

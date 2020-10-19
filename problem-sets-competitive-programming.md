@@ -54,6 +54,7 @@
 * [AIcrowd](https://www.aicrowd.com)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
+* [CodaLab](https://competitions.codalab.org)
 
 
 ### Information security

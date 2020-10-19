@@ -132,6 +132,7 @@
 ### Java
 
 * [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
+* [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime and Bob Paulin (podcast)
 
 
 ### Javascript

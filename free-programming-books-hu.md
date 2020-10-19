@@ -37,8 +37,11 @@
 
 * [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans írása alapján fordította, kiegészítette és frissítette Cseh Róbert (PDF - regisztráció szükséges)
 
-###Bootstrap
-* [#bootstrap free course](https://www.udemy.com/course/bootstrap-4/)-Brad Hussey(Online learning course- free of cost)
+
+### Bootstarp
+
+* [Bootstrap learning book](Sams Teach Yourself Bootstrap in 24 Hours) 
+
 
 ### C++
 

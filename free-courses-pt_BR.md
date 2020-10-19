@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [Angular](#angular)
 * [C](#c)
 * [C Sharp](#c-sharp)
 * [CSS](#css)
@@ -36,6 +37,11 @@
 
 * [Android Start - Curso Android - Java Kotlin e Flutter](https://www.udemy.com/android-start-curso-android-basico-java-kotlin-e-flutter/) - Buno de Libero Ferreira (Udemy)
 * [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+
+
+### Angular
+
+* [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 
 
 ### C
@@ -198,6 +204,7 @@
 * [Introdução à linguagem Python](https://www.udemy.com/intro_python/) - Diego Mariano (Udemy)
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
+* [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson (YouTube)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)
 

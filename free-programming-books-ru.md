@@ -302,6 +302,7 @@
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)
+* [Русская версия документация Angular 10](https://angular24.ru/start) - Алексей Охрименко
 
 
 #### jQuery

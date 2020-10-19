@@ -465,7 +465,7 @@
 
 #### Django
 
-* [Django for Everybody](https://dj4e.com/) (Coursera Reading Materials with YouTube Videos)
+* [Django for Everybody](https://dj4e.sites.uofmhosting.net/lessons) (Coursera Reading Materials with YouTube Videos)
 * [Python Django Basics Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
 
 

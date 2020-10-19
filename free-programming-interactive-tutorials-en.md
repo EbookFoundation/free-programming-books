@@ -32,6 +32,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [SQL](#sql)
+* [MySQL](#mysql)
 * [Vim](#vim)
 
 
@@ -249,6 +250,10 @@
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
 
+### MySQL
+
+* [MySQL at Udemy](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert)
+* [MySQL at Udemy for data analytics] (https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence)
 
 ### Vim
 

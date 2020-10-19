@@ -5,7 +5,7 @@
 
 ### C/C++
 
-* [การเขียนโปรแกรมคอมพิวเตอร์(PDF)](http://www.ce.kmitl.ac.th/download.php?DOWNLOAD_ID=3429&database=subject_download) - KMITL Department of Computer Engineering
+* [การเขียนโปรแกรมคอมพิวเตอร์](http://www.ce.kmitl.ac.th/download.php?DOWNLOAD_ID=3429&database=subject_download) - KMITL, Department of Computer Engineering (PDF)
 
 ### Python
 

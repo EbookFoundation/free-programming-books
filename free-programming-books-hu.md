@@ -38,9 +38,9 @@
 * [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans írása alapján fordította, kiegészítette és frissítette Cseh Róbert (PDF - regisztráció szükséges)
 
 
-### Bootstarp
+### Bootstrap
 
-* [Bootstrap learning book](Sams Teach Yourself Bootstrap in 24 Hours) 
+* [Bootstrap learning book](https://bbooks.info/b/w/3f8b7a0972d93ce2b79951037be89ab7842f8408/learning-bootstrap-4-second-edition.pdf) (PDF - Matt Lambert)
 
 
 ### C++

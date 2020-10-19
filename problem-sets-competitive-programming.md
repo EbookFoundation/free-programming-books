@@ -51,6 +51,8 @@
 
 ### Data science
 
+* [AIcrowd](https://www.aicrowd.com)
+* [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
 
 

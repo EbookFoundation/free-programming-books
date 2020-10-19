@@ -1,6 +1,6 @@
 ### Index
 
-* [Java](#Java)
+* [Java](#java)
 * [Python](#python)
 
 ### Java

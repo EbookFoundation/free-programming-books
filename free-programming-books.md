@@ -2038,6 +2038,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA) - Wikibooks
 * [Getting the Most from LINQPad Succinctly](https://www.syncfusion.com/ebooks/getting-the-most-from-linqpad-succinctly) - José Roberto Olivas Mendoza
 * [MonoGame Succinctly](https://www.syncfusion.com/ebooks/monogame_succinctly) - Jim Perry
+* [.NET Core Succinctly](https://www.syncfusion.com/ebooks/net_core_succinctly) - Giancarlo Lelli *free PDF with registration*
 * [.NET for Visual FoxPro Developers](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm)
 * [.NET Performance Testing and Optimization - The Complete Guide](https://www.red-gate.com/library/net-performance-testing-and-optimization-the-complete-guide) - Paul Glavich, Chris Farrell (PDF)
 * [NuGet In-House Succinctly](https://www.syncfusion.com/ebooks/nuget-in-house-succinctly) - José Roberto Olivas Mendoza

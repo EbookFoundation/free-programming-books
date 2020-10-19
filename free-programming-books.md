@@ -1061,7 +1061,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Asynchronous Programming Succinctly](https://www.syncfusion.com/ebooks/asynchronous_programming_succinctly) - Dirk Strauss *free PDF with registration*
 * [C# Code Contracts Succinctly](https://www.syncfusion.com/ebooks/csharpcontracts) - Dirk Strauss *free PDF with registration*
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
-* [Data Capture and Extraction with C# Succinctly](https://www.syncfusion.com/ebooks/data_capture_and_extraction_with_c_sharp_succinctly) - Ed Freitas *free PDF with registration*
 * [C# Notes](https://goalkicker.com/CSharpBook) (PDF)
 * [C# Notes for Professionals](http://books.goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (3.x)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
@@ -1072,6 +1071,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Creating Mobile Apps with Xamarin.Forms C#](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/)
 * [Customer Success for C# Developers Succinctly](https://www.syncfusion.com/ebooks/customer_success_for_c_sharp_developers) - Ed Freitas *free PDF with registration*
 * [Daily Design Patterns](https://web.archive.org/web/20170930132000/https://www.exceptionnotfound.net/downloads/dailydesignpattern.pdf) - Matthew P Jones (PDF)
+* [Data Capture and Extraction with C# Succinctly](https://www.syncfusion.com/ebooks/data_capture_and_extraction_with_c_sharp_succinctly) - Ed Freitas *free PDF with registration*
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov

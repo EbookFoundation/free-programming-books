@@ -28,6 +28,7 @@
 * [Ocaml](#ocaml)
 * [PHP](#php)
 * [Python](#python)
+* [React](#react)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
@@ -218,6 +219,11 @@
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
+
+
+### React
+
+* [React|Progate lessons](https://progate.com/languages/react)
 
 
 ### Ruby

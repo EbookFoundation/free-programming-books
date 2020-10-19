@@ -22,3 +22,8 @@
 ### Javascript
 
 * [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry
+
+
+### Core Java
+
+* [Placement Course Java + DS + Algo](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Anuj

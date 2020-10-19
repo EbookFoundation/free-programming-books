@@ -19,7 +19,7 @@
 
 ### Java
 
-* [Introduction to Java for beginners in Hindi](https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)  -  Harry
+* [Introduction to Java for beginners in Hindi](https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - Harry
 
 
 ### Javascript

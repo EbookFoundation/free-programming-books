@@ -1060,8 +1060,8 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Asynchronous Programming Succinctly](https://www.syncfusion.com/ebooks/asynchronous_programming_succinctly) - Dirk Strauss *free PDF with registration*
 * [C# Code Contracts Succinctly](https://www.syncfusion.com/ebooks/csharpcontracts) - Dirk Strauss *free PDF with registration*
-* [Data Capture and Extraction with C# Succinctly](https://www.syncfusion.com/ebooks/data_capture_and_extraction_with_c_sharp_succinctly) - Ed Freitas *free PDF with registration*
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
+* [Data Capture and Extraction with C# Succinctly](https://www.syncfusion.com/ebooks/data_capture_and_extraction_with_c_sharp_succinctly) - Ed Freitas *free PDF with registration*
 * [C# Notes](https://goalkicker.com/CSharpBook) (PDF)
 * [C# Notes for Professionals](http://books.goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (3.x)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
@@ -1082,8 +1082,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebooks/mastering-xamarin-ui-development-second-edition) - Steven F. Daniel (Packt account *required*)
 * [Neural Networks Using C# Succinctly](https://www.syncfusion.com/ebooks/neuralnetworks) - James McCaffrey *free PDF with registration*
 * [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (email address *requested*, not required)
-* [Threading in C#](http://www.albahari.com/threading/)
 * [SQL Server for C# Developers Succinctly](https://www.syncfusion.com/ebooks/sql_server_for_c_sharp_developers_succinctly) - Sander Rossel *free PDF with registration*
+* [Threading in C#](http://www.albahari.com/threading/)
 * [Twilio with C# Succinctly](https://www.syncfusion.com/ebooks/twilio_with_c_sharp_succinctly) - Ed Freitas *free PDF with registration*
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole

@@ -439,6 +439,7 @@
 * [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
 * [Berkeley's Structure and Interpretation of Computer Programs](http://cs61a.org)
 * [Codesdope](https://www.codesdope.com/python-introduction)
+* [Django for Everybody](https://dj4e.com/) (Coursera Reading Materials with YouTube Videos)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)(Microsoft Docs)

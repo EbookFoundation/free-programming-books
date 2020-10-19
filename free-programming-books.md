@@ -1340,6 +1340,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf) (PDF)
 * [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) (PDF)
+* [Object-oriented programming via Fortran 90-95](http://87.120.36.5/main/1000/2d996a202fdd840e79a791a4eb854432/Ed%20Akin%20-%20Object-oriented%20programming%20via%20Fortran%2090-95-Cambridge%20University%20Press%20%282003%29.pdf) (PDF)
 
 
 ### FreeBSD

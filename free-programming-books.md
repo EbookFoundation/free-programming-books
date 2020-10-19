@@ -937,7 +937,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Intro to ASPNET MVC 4 with Visual Studio 2011 Beta (2012)](http://download.microsoft.com/download/0/f/b/0fbfaa46-2bfd-478f-8e56-7bf3c672df9d/intro%20to%20asp.net%20mvc%204%20with%20visual%20studio%20-%20beta.pdf) - Rick Anderson and Scott Hanselman (PDF)
 * [Introducing ASP.NET Web Pages 2 (2012)](https://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Introducing%20ASP.NET%20Web%20Pages%202.pdf) - Mike Pope (PDF)
 * [The Little ASP.NET Core Book (2018)](https://s3.amazonaws.com/recaffeinate-files/LittleAspNetCoreBook.pdf) - Nate Barbettini (PDF)
-
+* [Blazor for ASP.NET Web Forms Developers](https://aka.ms/blazor-ebook) - Daniel Roth,Jeff Fritz, Taylor Southwick
+* [DevOps with ASP.NET Core and Azure](https://aka.ms/devopsbook) - Cam Soper, Scott Addie
+* [Azure Quick Start Guide for .NET Developers](https://dotnet.microsoft.com/download/e-book/azure-quick-start/pdf) - Microsoft
 
 ### Assembly Language
 
@@ -1078,6 +1080,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
+
+
 
 
 ### C++
@@ -2438,7 +2442,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
 * [The R Manuals](http://cran.r-project.org/manuals.html)
 * [Tidy Text Mining with R](http://tidytextmining.com) - Julia Silge and David Robinson
-
+* [Tidyverse Style Guide](https://style.tidyverse.org/) - Hadley Wickham
 
 ### Racket
 

@@ -12,7 +12,7 @@
 
 ### BootStrap
 
-* [bootstrap free course](https://www.udemy.com/course/bootstrap-4/)- Brad Hussey
+* [bootstrap free course](https://www.udemy.com/course/bootstrap-4/) - Brad Hussey
 
 
 ### PHP

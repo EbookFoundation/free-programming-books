@@ -52,8 +52,8 @@
 ### Data science
 
 * [AIcrowd](https://www.aicrowd.com)
-* [Kaggle](https://www.kaggle.com)
 * [DrivenData](https://www.drivendata.org)
+* [Kaggle](https://www.kaggle.com)
 
 
 ### Information security

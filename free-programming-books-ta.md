@@ -9,7 +9,7 @@
 * [MySQL](#MySQL)
 * [PHP](#PHP)
 * [Selenium](#Selenium)
-
+* [Ruby](#Ruby)
 
 ### BigData
 
@@ -55,3 +55,8 @@
 ### Selenium
 
 * [எளிய தமிழில் Selenium](http://www.kaniyam.com/download/learn-selenium-in-tamil.pdf)
+
+
+### Ruby
+
+* [எளிய தமிழில் Ruby](http://www.kaniyam.com/download/learn-ruby-in-tamil.pdf)

@@ -57,6 +57,7 @@
 * [Codalab - open source community to collab](https://competitions.codalab.org)
 * [KDD Cup - annual data mining and knowledge discovery competition](https://www.kdd.org/kdd2019/kdd-cup)
 
+
 ### Information security
 
 * [ångstromCTF](https://angstromctf.com)

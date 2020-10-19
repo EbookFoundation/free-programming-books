@@ -15,7 +15,7 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
@@ -135,10 +135,10 @@
 * [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime and Bob Paulin (podcast)
 
 
-### Javascript
+### JavaScript
 
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
-* [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript) (screencast)
+* [Free Quality JavaScript video tutorials and screencasts](http://www.screencasts.org/topics/javascript) (screencast)
 * [Front End Happy Hour](http://frontendhappyhour.com) (podcast)
 * [Frontend First](https://frontendfirst.fm) - Sam Selikoff and Ryan Toronto (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) (podcast)
@@ -148,7 +148,7 @@
 * [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) (screencast)
 * [Real Talk JavaScript](https://realtalkjavascript.simplecast.com) (podcast)
 * [Syntax](https://syntax.fm) (podcast)
-* [The Javascript Show](http://javascriptshow.com) (podcast)
+* [The JavaScript Show](http://javascriptshow.com) (podcast)
 
 
 #### Angular.js

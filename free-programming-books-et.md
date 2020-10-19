@@ -32,7 +32,7 @@
 ### JavaScript
 
 * [JavaScript](http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF)
-* [Javascript](http://lepo.it.da.ut.ee/~epuman/javascript.html) - Ella Puman, Tartu ÜLikooli õppematerjal
+* [JavaScript](http://lepo.it.da.ut.ee/~epuman/javascript.html) - Ella Puman, Tartu ÜLikooli õppematerjal
 
 
 ##### Angular

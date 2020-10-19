@@ -457,6 +457,7 @@
 * [Python Flask Framework Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
 * [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 * [Python for Everybody](https://www.py4e.com/lessons) (Coursera Reading Materials with YouTube Videos)
+* [Python Learn Course](https://www.kaggle.com/learn/python) - Colin Morris (Kaggle)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [Python Tutorial](https://www.w3schools.com/python/) - W3Schools
 * [SoloLearn](https://www.sololearn.com/Course/Python/)

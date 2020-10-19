@@ -2,6 +2,7 @@
 
 * [Android](#android)
 * [C++](#cplusplus)
+* [CodeIgniter](#codeigniter)
 * [Emacs](#emacs)
 * [Git](#git)
 * [Go](#go)
@@ -25,6 +26,11 @@
 ### <a id="cplusplus"></a> C++
 
 * [Koding C++ Dengan Qt](https://leanpub.com/koding-cpp-qt) *(Membutuhkan akun Leanpub atau email yang valid)*
+
+
+### CodeIgniter
+
+* [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 
 
 ### Emacs
@@ -61,6 +67,7 @@
 * [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
+* [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
 
 
 ### Node.js
@@ -100,4 +107,3 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
-

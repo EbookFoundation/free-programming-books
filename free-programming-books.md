@@ -929,8 +929,10 @@ Kerridge (PDF) (email address *requested*, not required)
 ### ASP.NET
 
 * [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure (2020)](https://aka.ms/webappebook) - Steve "ardalis" Smith (PDF) (:construction: *in process*)
+* [ASP.NET Core Succinctly](https://www.syncfusion.com/ebooks/asp_net_core_succinctly) - Simone Chiaretta and Ugo Lattanzi
 * [ASP.NET Core 2 Succinctly](https://www.syncfusion.com/ebooks/aspnet-core-2-succinctly) - Simone Chiaretta, Ugo Lattanzi
 * [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com)
+* [ASP.NET MVC Succinctly](https://www.syncfusion.com/ebooks/aspnet_mvc_succinctly) - Nick Harrison *free PDF with registration*
 * [ASP.NET WebHooks Succinctly](https://www.syncfusion.com/ebooks/aspnet_webhooks_succinctly) - Gaurav Arora
 * [ASP.NET with C# (2008)](http://www.vijaymukhi.com/documents/books/vsnet/content.htm) - Vijay Mukhi, Sonal Mukhi, Neha Kotecha
 * [Diving into ASP.NET WebAPI (2016)](https://github.com/akhilmittal/FreeBooks/) - Akhil Mittal (PDF)

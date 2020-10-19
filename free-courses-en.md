@@ -391,6 +391,7 @@
 * [Elements of AI](https://www.elementsofai.com)
 * [Embedded Software Safety](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) (P. Koopman)
 * [FindLectures.com](https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic
+* [Google Codelabs](https://codelabs.developers.google.com/)
 * [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) - David Silver
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)

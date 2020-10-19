@@ -13,7 +13,6 @@
 * [QA](#qa)
 * [React.js](#reactjs)
 * [Ruby](#ruby)
-* [Web](#web)
 * [Webpack](#webpack)
 * [Информационные технологии и безопасность](#Информационные-технологии-и-безопасность)
 * [Новости и Разработка ПО](#Новости-и-Разработка-ПО)
@@ -100,11 +99,6 @@
 * [Русскоязычный подкаст о Scala](https://scalalaz.ru) (Podcast)
 
 
-### Web
-
-* [Frontend Weekend](https://soundcloud.com/frontend-weekend)
-
-
 ### Webpack
 
 * [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)
@@ -122,6 +116,7 @@
 
 * [CTOcast](http://ctocast.com) (Podcast)
 * [DevZen Podcast](https://devzen.ru) (Podcast)
+* [Frontend Weekend](https://podcasts.apple.com/podcast/id1233996390)
 * [Mobile People Talks](https://soundcloud.com/mobilepeopletalks) (Podcast)
 * [Podlodka](https://podlodka.io) (Podcast)
 * [Software Development podCAST](https://sdcast.ksdaemon.ru) (Podcast)

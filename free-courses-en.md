@@ -168,6 +168,7 @@
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [DML Server Administration](https://alison.com/course/databases-dml-statements-and-sql-server-administration-revised) - (Alison)
+* [Full stack open](https://fullstackopen.com/en/) - University of Helsinki
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 * [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)
 
@@ -295,12 +296,14 @@
 
 #### NodeJS
 
+* [Full stack open](https://fullstackopen.com/en/) - University of Helsinki
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
 
 
 #### React
 
+* [Full stack open](https://fullstackopen.com/en/) - University of Helsinki
 * [React basic in just 1 hour](https://www.udemy.com/course/react-basic-in-just-1-hour/) (Udemy)
 * [React Crash Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) - freecodecamp
 * [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - WebDevSimplified
@@ -314,6 +317,7 @@
 
 #### Redux
 
+* [Full stack open](https://fullstackopen.com/en/) - University of Helsinki
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 
 
@@ -530,6 +534,7 @@
 
 ### TypeScript
 
+* [Full stack open](https://fullstackopen.com/en/) - University of Helsinki
 * [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
 * [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 
@@ -546,6 +551,7 @@
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Free Code Camp](https://www.freecodecamp.org)
+* [Full stack open](https://fullstackopen.com/en/) - University of Helsinki
 * [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)

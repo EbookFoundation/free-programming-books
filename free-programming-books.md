@@ -1060,19 +1060,14 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### C Sharp
 
-* [Asynchronous Programming Succinctly](https://www.syncfusion.com/ebooks/asynchronous_programming_succinctly) - Dirk Strauss *free PDF with registration*
-* [C# Code Contracts Succinctly](https://www.syncfusion.com/ebooks/csharpcontracts) - Dirk Strauss *free PDF with registration*
-* [Data Capture and Extraction with C# Succinctly](https://www.syncfusion.com/ebooks/data_capture_and_extraction_with_c_sharp_succinctly) - Ed Freitas *free PDF with registration*
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
 * [C# Notes](https://goalkicker.com/CSharpBook) (PDF)
 * [C# Notes for Professionals](http://books.goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (3.x)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
 * [C# Programming Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - Rob Miles (PDF)(2019)
 * [C# Smorgasbord](https://www.filipekberg.se) - Filip Ekberg (HTML) [(PDF, EPUB, MOBI)](https://www.filipekberg.se/2018/04/02/csharp-smorgasbord-free/) (2018)
-* [C# Succinctly](https://www.syncfusion.com/ebooks/csharp) - Joe Mayo *free PDF with registration*
 * [C# Tips](https://leanpub.com/cstips) - Jason Roberts *(Leanpub account or valid email requested)*
 * [Creating Mobile Apps with Xamarin.Forms C#](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/)
-* [Customer Success for C# Developers Succinctly](https://www.syncfusion.com/ebooks/customer_success_for_c_sharp_developers) - Ed Freitas *free PDF with registration*
 * [Daily Design Patterns](https://web.archive.org/web/20170930132000/https://www.exceptionnotfound.net/downloads/dailydesignpattern.pdf) - Matthew P Jones (PDF)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
@@ -1080,13 +1075,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [High level asynchronous programming with Reactive Extensions](https://github.com/petroemil/Rx.Book) - Emil Petro
 * [Introduction to Rx](http://www.introtorx.com)
 * [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
-* [Machine Learning Using C# Succinctly](https://www.syncfusion.com/ebooks/machine) - James McCaffrey *free PDF with registration*
 * [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebooks/mastering-xamarin-ui-development-second-edition) - Steven F. Daniel (Packt account *required*)
-* [Neural Networks Using C# Succinctly](https://www.syncfusion.com/ebooks/neuralnetworks) - James McCaffrey *free PDF with registration*
 * [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (email address *requested*, not required)
 * [Threading in C#](http://www.albahari.com/threading/)
-* [SQL Server for C# Developers Succinctly](https://www.syncfusion.com/ebooks/sql_server_for_c_sharp_developers_succinctly) - Sander Rossel *free PDF with registration*
-* [Twilio with C# Succinctly](https://www.syncfusion.com/ebooks/twilio_with_c_sharp_succinctly) - Ed Freitas *free PDF with registration*
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
 

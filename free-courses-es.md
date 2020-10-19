@@ -106,13 +106,16 @@
 * [Curso Spring](https://www.pildorasinformaticas.es/course/curso-spring) - Juan Díaz (Píldoras Informáticas)
 * [Laravel](https://www.pildorasinformaticas.es/course/laravel) - Juan Díaz (Píldoras Informáticas)
 
+
 ### LaTeX
 
 * [Curso no convencional de LaTeX](https://ondiz.github.io/cursoLatex/)
 
-### MarkDown
 
-* [Tutorial de MarkDown](https://www.markdowntutorial.com/es/)
+### Markdown
+
+* [Tutorial de Markdown](https://www.markdowntutorial.com/es/)
+
 
 ### Machine Learning (ML) e Inteligencia Artificial (AI)
 

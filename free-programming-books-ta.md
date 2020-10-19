@@ -8,6 +8,7 @@
 * [Machine Learning](#MachineLearning)
 * [MySQL](#MySQL)
 * [PHP](#PHP)
+* [Selenium](#Selenium)
 
 
 ### BigData
@@ -49,3 +50,8 @@
 ### PHP
 
 * [எளிய தமிழில் PHP](https://freetamilebooks.com/ebooks/learn-php-in-tamil/)
+
+
+### Selenium
+
+* [எளிய தமிழில் Selenium](http://www.kaniyam.com/download/learn-selenium-in-tamil.pdf)

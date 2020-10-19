@@ -1,12 +1,21 @@
 ### Index
 
+* [Java](#java)
 * [PHP](#php)
   * [Symfony](#symfony)
 * [Python](#python)
 * [Scratch](#scratch)
 
 
+### Java
+
+* [Programmeren in Java](https://nl.wikibooks.org/wiki/Programmeren_in_Java) (Wikibooks)
+
+
 ### PHP
+
+* [Programmeren in PHP](https://nl.wikibooks.org/wiki/Programmeren_in_PHP) (Wikibooks)
+
 
 #### Symfony
 

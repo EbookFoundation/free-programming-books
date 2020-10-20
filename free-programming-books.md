@@ -1213,7 +1213,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### DBMS
 
-* [Awesome Summary Of All DBMS Concepts](www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
+* [Awesome Summary Of All DBMS Concepts](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
 * [Short Summary of all DBMS concepts](https://www.tutorialspoint.com/dbms/dbms_tutorial.pdf) (PDF)
 
 

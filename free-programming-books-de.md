@@ -13,7 +13,7 @@
 * [HTML & CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
@@ -120,7 +120,7 @@
 * [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
 
 
-### Javascript
+### JavaScript
 
 * [JavaScript](http://www.peterkropff.de/site/javascript/javascript.htm) — Peter Kropff (Grundlagen, AJAX, DOM, OOP) [Online, PDF]
 * [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax/)

@@ -148,8 +148,8 @@
 
 ### Codeigniter
 
-* [Tutorial Codeigniter](https://www.youtube.com/watch?v=r2ONZZrYk8c&list=PLce3Eyp7oY9_5lzhkUtrV6ygriYcttMlg) - Framework Indonesia
-* [Tutorial Sistem Informasi Akademik dengan Codeigniter](https://www.youtube.com/watch?v=VaA_dmqs5so&list=PLce3Eyp7oY9_hXzGACf988F1ojvQlYmB0) - Framework Indonesia
+* [Tutorial Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_5lzhkUtrV6ygriYcttMlg) - Framework Indonesia
+* [Tutorial Sistem Informasi Akademik dengan Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_hXzGACf988F1ojvQlYmB0) - Framework Indonesia
 
 
 ### Laravel

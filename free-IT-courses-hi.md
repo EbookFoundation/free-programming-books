@@ -4,8 +4,8 @@
 * [CCNA](#CCNA)
 * [CCNA CYBER OPS](#CCNACYBEROPS)
 * [CCNA SECURITY](#CCNASECURITY)
-* [CCNP R&S](#CCNPR&S)
 * [CCNA VOICE](#CCNAVOICE)
+* [CCNP R&S](#CCNPR&S)
 * [MIKROTIK (MTCNA)](#MIKROTIK(MTCNA))
 
 
@@ -17,8 +17,8 @@
 ### CCNA
 
 * [CCNA: 640-816 ICND2 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/5) - Kashif Iqbal
-* [CCNA: 640-822 ICND1 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/4) - Kashif Iqbal
 * [CCNA: 100-101 ICND1 V2 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/18) - Kashif Iqbal
+* [CCNA: 640-822 ICND1 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/4) - Kashif Iqbal
 * [CCNA: 200-101 ICND2 V2 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/20) - Kashif Iqbal
 * [CCNA: 200-125 CCNA V3 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/32) - Kashif Iqbal
 * [CCNA: 200-301 CCNA All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/57) - Kashif Iqbal
@@ -28,7 +28,6 @@
 
 * [CCNA Cyber Ops: 210-250 SECFND All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/44) - Kashif Iqbal
 * [CCNA Cyber Ops: 210-255 SECOPS All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/51) - Kashif Iqbal
-
 
 
 ### CCNA SECURITY
@@ -45,10 +44,10 @@
 ### CCNP R&S
 
 * [CCNP R&S: 642-902 ROUTE Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/24) - Mr Usman
-* [CCNP R&S: 300-115 SWITCH Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/27) - Mr Usman
 * [CCNP R&S: 642-813 Switch All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/21) - Mr Usman
-* [CCNP R&S: 300-101 ROUTE All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/30) - Mr Usman
+* [CCNP R&S: 300-115 SWITCH Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/27) - Mr Usman
 * [CCNP R&S: TSHOOT 300-135 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/36) - Mr Usman
+* [CCNP R&S: 300-101 ROUTE All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/30) - Mr Usman
 
 
 ### MIKROTIK (MTCNA)

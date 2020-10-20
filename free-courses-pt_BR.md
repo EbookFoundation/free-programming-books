@@ -196,6 +196,8 @@
 * [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
 * [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
+* [Curso de PHP para Iniciantes - Gratuito e com certificado](https://www.portalgsti.com.br/2016/11/curso-de-php-para-iniciantes-gratuito-e-com-certificado.html) - Gustavo Guanabara
+
 
 
 ### Python

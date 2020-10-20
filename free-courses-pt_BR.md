@@ -181,6 +181,7 @@
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
 * [Curso do Básico ao CRUD Node.js](https://app.rocketseat.com.br/node/curso-node-js) - *registration required*
+* [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (Youtube)
 * [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - NodeBR (EW)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
 

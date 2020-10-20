@@ -1,9 +1,8 @@
 ### Index
 
-
-* [C](#C)
-* [C#](#C-Sharp)
-* [C++](#CPP)
+* [C](#c)
+* [C#](#c-sharp)
+* [C++](#cpp)
 * [Git](#git)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
@@ -18,11 +17,9 @@
 * [บทเรียนภาษา C](http://marcuscode.com/lang/c) (MarcusCode)
 
 
-
 ### C-Sharp
 
 * [บทเรียนภาษา C#](http://marcuscode.com/lang/csharp) (MarcusCode)
-
 
 
 ### CPP
@@ -30,13 +27,11 @@
 * [บทเรียนภาษา C++](http://marcuscode.com/lang/cpp) (MarcusCode)
 
 
-
 ### Git
 
 * [มาเรียนรู้ Git แบบง่ายๆกันเถอะ](https://blog.nextzy.me/มาเรียนรู้-git-แบบง่ายๆกันเถอะ-427398e62f82)  (Ake Exorcist)
 * [สอน git และ github เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)  (prasertcbs)
 * [สอนใช้ Git - Version Control System](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBrgVPZySWHZwxXSxdgOKhQ-)  (CMDev)
-
 
 
 ### JavaScript
@@ -62,7 +57,6 @@
 
 #### Vue.js
 * [สอนเขียน VueJS](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBry3sJDNrbqor5ikjwGDJ_7)  (CMDev)
-
 
 
 ### Python

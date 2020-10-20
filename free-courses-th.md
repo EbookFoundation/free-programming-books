@@ -14,17 +14,17 @@
 
 ### C
 
-* [บทเรียนภาษา C](http://marcuscode.com/lang/c) (MarcusCode)
+* [ภาษา C](http://marcuscode.com/lang/c) (MarcusCode)
 
 
 ### C-Sharp
 
-* [บทเรียนภาษา C#](http://marcuscode.com/lang/csharp) (MarcusCode)
+* [ภาษา C#](http://marcuscode.com/lang/csharp) (MarcusCode)
 
 
 ### CPP
 
-* [บทเรียนภาษา C++](http://marcuscode.com/lang/cpp) (MarcusCode)
+* [ภาษา C++](http://marcuscode.com/lang/cpp) (MarcusCode)
 
 
 ### Git
@@ -38,7 +38,7 @@
 
 * [จาวาสคริปต์เบื้องต้น](https://phyblas.hinaboshi.com/saraban/javascript) (Phyblas)
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM)  (Zinglecode)
-* [บทเรียนภาษา Javascript](http://marcuscode.com/lang/javascript) (MarcusCode)
+* [ภาษา Javascript](http://marcuscode.com/lang/javascript) (MarcusCode)
 
 
 #### Angular.js
@@ -47,19 +47,22 @@
 
 
 #### NodeJS
+
 * [สอน Node.js เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GERtEdsPHK5Q-cdor5ADnyM)  (pracertcbs)
 * [สอน Nodejs เบื้องต้น สำหรับผู้เริ่มต้นศึกษา Nodejs](https://www.youtube.com/playlist?list=PLEE74DyIkwEkWkVWy3TbjrTICVF_eUdyc)  (Kong Ruksiam)
 
 
 #### React
+
 * [สอน React.JS Tutorial](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBo5SmWJXwv4oKDfeTXA7xgw)  (CMDev)
 
 
 #### Vue.js
+
 * [สอนเขียน VueJS](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBry3sJDNrbqor5ikjwGDJ_7)  (CMDev)
 
 
 ### Python
 
 * [ชีวิตคนช่างแสนสั้น เราไม่หวั่นใช้ python](https://phyblas.hinaboshi.com/saraban/python) (Phyblas)
-* [บทเรียนภาษา Python](http://marcuscode.com/lang/python) (MarcusCode)
+* [ภาษา Python](http://marcuscode.com/lang/python) (MarcusCode)

@@ -15,6 +15,10 @@
 * [Ubuntu Linux for You](http://eimaung.com/ubuntu-for-you) - Ei Maung
 
 
+### Python
+
+* [Programming Basic](http://books.saturngod.net/programming_basic/index.html) - Saturngod
+
 ### Web Development
 
 * [Professional Web Developer](http://eimaung.com/professional-web-developer) - Ei Maung

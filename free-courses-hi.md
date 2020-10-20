@@ -19,9 +19,9 @@
 
 ### Data Structures
 
-* [All Data Structure Concepts | Hindi](https://www.youtube.com/watch?v=5uTQz43k4gg&list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
-* [All Sorting algorithms and Programs | Hindi](https://www.youtube.com/watch?v=jpK5TwdIfSs&list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
-* [Data Structure Programs | Hindi](https://www.youtube.com/watch?v=gnkidh0SD2g&list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
+* [All Data Structure Concepts | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
+* [All Sorting algorithms and Programs | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
+* [Data Structure Programs | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
 
 
 ### Java

@@ -116,7 +116,6 @@
 * [Java 7 Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7/)
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
 * [Java SE 8 Standard-Bibliothek](http://openbook.rheinwerk-verlag.de/java8/) - Christian Ullenboom
-* [Nebenläufige Programmierung mit Java (2017)](https://www.assets.dpunkt.de/openbooks/Hettel_Nebenlaeufige%20Programmierung%20mit%20Java_Broschuere.pdf) - Jörg Hettel, Manh Tien Tran (PDF)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung/)
 * [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)

@@ -164,7 +164,7 @@
 
 ### Kotlin
 
-* [Kotlin tutorial - Tutorialspoint](https://www.tutorialspoint.com/kotlin/index.htm)
+* [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
 
 
 ### Language Agnostic

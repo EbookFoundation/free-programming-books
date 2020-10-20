@@ -116,6 +116,7 @@
 
 * [CTOcast](http://ctocast.com) (Podcast)
 * [DevZen Podcast](https://devzen.ru) (Podcast)
+* [Frontend Weekend](https://podcasts.apple.com/podcast/id1233996390)
 * [Mobile People Talks](https://soundcloud.com/mobilepeopletalks) (Podcast)
 * [Podlodka](https://podlodka.io) (Podcast)
 * [Software Development podCAST](https://sdcast.ksdaemon.ru) (Podcast)

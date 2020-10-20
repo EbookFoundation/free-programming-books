@@ -93,8 +93,8 @@
 
 ### Erlang
 
-* [Erlang/OTP](http://www.khaldi.it/art/erlang/erl01/E01.html) - (Jilani KHALDI)
-* [Iniziare con Erlang Language](https://riptutorial.com/it/erlang) - [(riptutorial.com)](https://riptutorial.com)
+* [Erlang/OTP](http://www.khaldi.it/art/erlang/erl01/E01.html) - Jilani KHALDI
+* [Iniziare con Erlang Language](https://riptutorial.com/it/erlang)
 
 
 ### Generale

@@ -18,6 +18,7 @@
 * [Java](#java)
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
+* [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)
 * [Lisp](#lisp)
@@ -152,6 +153,11 @@
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
 
+
+#### Kotlin
+
+* [Kotlin tutorial - Tutorialspoint](https://www.tutorialspoint.com/kotlin/index.htm)
+ 
 
 #### Angular.js
 

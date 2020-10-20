@@ -18,6 +18,7 @@
 * [Java](#java)
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
+  * [React.js](#reactjs)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)
 * [Lisp](#lisp)
@@ -159,6 +160,11 @@
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
+
+
+### React.js
+
+* [React-The Complete Guide by Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux) - Maximilian Schwarzmüller
 
 
 ### Language Agnostic

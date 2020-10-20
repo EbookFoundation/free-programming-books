@@ -1645,7 +1645,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Directory of free Javascript ebooks](http://jsbooks.revolunet.com)
 * [Eloquent JavaScript 3rd edition](http://eloquentjavascript.net) - Marijn Haverbeke
 * [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer
-* [Exploring JavaScript Array Methods](https://ultimatecourses.com/ebooks/exploring-javascript-array-methods) (email address *requested*)
+* [Exploring JavaScript Array Methods](https://ultimatecourses.com/ebooks/exploring-javascript-array-methods) - Todd Motto (email address *requested*)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 * [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite

@@ -1919,6 +1919,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [UNIX Systems Programming for SVR4](http://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
+* [Unix Shell Programming - Third Edition](https://libgen.lc/ads.php?md5=5A2E14F2F943AAEDC43D209AD46FA3A0) - Stephen Kochan, Patrick Wood (HTML)
 
 
 ### Lisp

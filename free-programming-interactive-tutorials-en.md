@@ -154,17 +154,17 @@
 * [Try jQuery](http://try.jquery.com)
 
 
-#### Kotlin
-
-* [Kotlin tutorial - Tutorialspoint](https://www.tutorialspoint.com/kotlin/index.htm)
- 
-
 #### Angular.js
 
 * [Angular Basics](http://www.angularjsbook.com)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
+
+
+### Kotlin
+
+* [Kotlin tutorial - Tutorialspoint](https://www.tutorialspoint.com/kotlin/index.htm)
 
 
 ### Language Agnostic

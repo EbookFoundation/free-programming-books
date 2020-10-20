@@ -100,7 +100,6 @@
 
 ### React
 
-* [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
 * [Challenge 5 hari ngoding REACT JS](https://www.youtube.com/playlist?list=PL-J2q3Ga50oNQP__onO64kAHX_z0BdLv6) - Clever Programmer
 * [Membuat Clone Aplikasi Terkenal dengan REACT JS](https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP) - Clever Programmer
 * [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb) - Prawito Hudoro

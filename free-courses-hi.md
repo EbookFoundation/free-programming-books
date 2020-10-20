@@ -3,6 +3,9 @@
 * [C](#C)
 * [C++](#C++)
 * [Java](#Java)
+* [Javascript](#Javascript)
+* [Python](#Python)
+* [ReactJs](#ReactJs)
 
 
 ### C
@@ -17,7 +20,12 @@
 
 ### Java
 
-* [The complete Java tutorial | Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - Harry
+* [Java Tutorial | Hindi ](https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - Harry
+
+
+### Javascript
+
+* [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry
 
 
 ### Python
@@ -25,6 +33,6 @@
 * [Python Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=gfDE2a7MKjA) - Harry
 
 
-### Javascript
+### ReactJs
 
-* [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry
+* [ReactJs Tutorial | Hindi ](https://www.youtube.com/watch?v=tiLWCNFzThE&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Thapa Technical

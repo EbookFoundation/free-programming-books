@@ -16,11 +16,11 @@
 
 ### CCNA
 
-* [CCNA: 640-822 ICND1 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/4) - Kashif Iqbal
-* [CCNA: 640-816 ICND2 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/5) - Kashif Iqbal
-* [CCNA: 200-101 ICND2 V2 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/20) - Kashif Iqbal
-* [CCNA: 200-125 CCNA V3 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/32) - Kashif Iqbal
-* [CCNA: 200-301 CCNA All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/57) - Kashif Iqbal
+* [CCNA All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/57) - Kashif Iqbal
+* [CCNA V3 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/32) - Kashif Iqbal
+* [ICND1 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/4) - Kashif Iqbal
+* [ICND2 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/5) - Kashif Iqbal
+* [ICND2 V2 All Concepts | Hindi/Urdu](https://www.urduitacademy.com/courses/videos/20) - Kashif Iqbal
 
 
 ### CCNA CYBER OPS

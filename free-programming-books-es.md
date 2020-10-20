@@ -54,7 +54,7 @@
 
 ### 0 - Meta-Listas
 
-* [Aprender Python](http://python.org.ar/wiki/AprendiendoPython) - Python Argentina
+* [Aprender Python](https://wiki.python.org.ar/aprendiendopython/) - Python Argentina
 * [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (Github)
 * [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
@@ -104,6 +104,8 @@
 * [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf) (PDF)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
+* [Scrum Level](https://scrumlevel.com/files/scrumlevel.pdf) - Scrum Manager (PDF) [(EPUB)](https://scrumlevel.com/files/scrumlevel.epub)
+* [Scrum Master - Temario troncal 1](https://scrummanager.net/files/scrum_master.pdf) - Scrum Manager (PDF) [(EPUB)](https://scrummanager.net/files/scrum_master.epub)
 * [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 
 
@@ -172,11 +174,6 @@
 * [Git. La guía simple](http://rogerdudler.github.io/git-guide) (HTML)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es)
 * [Pro Git](http://git-scm.com/book/es/)
-
-
-### Github
-
-* [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple) (Github)
 
 
 ### Go

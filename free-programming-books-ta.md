@@ -4,7 +4,7 @@
 * [CSS](#CSS)
 * [Database](#Database)
 * [HTML](#HTML)
-* [Javascript](#Javascript)
+* [JavaScript](#Javascript)
 * [Machine Learning](#MachineLearning)
 * [PHP](#PHP)
 
@@ -30,7 +30,7 @@
 * [எளிய தமிழில் HTML](http://www.kaniyam.com/learn-html-in-tamil/)
 
 
-### Javascript
+### JavaScript
 
 * [எளிய தமிழில் JavaScript](http://www.kaniyam.com/learn-javascript-in-tamil/)
 

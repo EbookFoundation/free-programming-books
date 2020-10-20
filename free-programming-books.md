@@ -1200,7 +1200,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Dart
 
-* [Dart Official Codelabs](https://dart.dev/codelabs)
+* [Dart Official Tutorial](https://dart.dev/codelabs)
 * [Learning Dart](https://riptutorial.com/Download/dart.pdf) (PDF)
 
 

@@ -2327,7 +2327,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Picking a Python Version: A Manifesto](https://www.oreilly.com/ideas/picking-a-python-version) - David Mertz
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
-* [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html) - Bradley N. Miller and David L. Ranum (3.x)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
 * [Python 101](https://python101.pythonlibrary.org) - Michael Driscoll (HTML, TEXT)

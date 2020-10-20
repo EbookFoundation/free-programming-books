@@ -31,9 +31,9 @@
 
 ### Python
 
-* [Python Tutorial For Beginners | Hindi (With Notes)](https://www.youtube.com/watch?v=gfDE2a7MKjA) - Harry
+* [Python Tutorial For Beginners | Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - Harry
 
 
 ### Javascript
 
-* [JavaScript Tutorial | Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry
+* [JavaScript Tutorial | Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - Harry

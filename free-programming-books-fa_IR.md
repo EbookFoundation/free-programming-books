@@ -1,7 +1,7 @@
 ### فهرست
 
 * [CSS](#css)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [PHP](#php)
   * [Symfony](#symfony)
@@ -18,7 +18,7 @@
 * [یادگیری پیکربندی با CSS](http://fa.learnlayout.com)
 
 
-### Javascript
+### JavaScript
 
 * [یادگیری اصولی جاواسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 

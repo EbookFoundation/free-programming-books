@@ -4,10 +4,9 @@
 * [CSS](#CSS)
 * [Database](#Database)
 * [HTML](#HTML)
-* [Javascript](#Javascript)
+* [JavaScript](#Javascript)
 * [Machine Learning](#MachineLearning)
 * [PHP](#PHP)
-
 
 
 ### BigData
@@ -17,7 +16,7 @@
 
 ### CSS
 
-* [எளிய தமிழில் CSS](http://www.kaniyam.com/download/learn-css-in-tamil.pdf)
+* [எளிய தமிழில் CSS](http://www.kaniyam.com/download/learn-css-in-tamil.pdf) - Kaniyam Foundation (PDF)
 
 
 ### Database
@@ -31,7 +30,7 @@
 * [எளிய தமிழில் HTML](http://www.kaniyam.com/learn-html-in-tamil/)
 
 
-### Javascript
+### JavaScript
 
 * [எளிய தமிழில் JavaScript](http://www.kaniyam.com/learn-javascript-in-tamil/)
 
@@ -44,4 +43,3 @@
 ### PHP
 
 * [எளிய தமிழில் PHP](https://freetamilebooks.com/ebooks/learn-php-in-tamil/)
-

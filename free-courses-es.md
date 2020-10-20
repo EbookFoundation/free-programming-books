@@ -8,6 +8,8 @@
 * [Control de Versiones](#control-de-versiones)
 * [Flujos de trabajo](#flujos-de-trabajo)
 * [Frameworks](#frameworks)
+* [LaTeX](#latex)
+* [Markdown](#markdown)
 * [Ofimática](#ofim&#x00E1;tica)
 * [Procesadores de lenguaje](#procesadores-de-lenguaje)
 * [Programación](#programaci&#x00F3;n)
@@ -105,6 +107,16 @@
 * [Laravel](https://www.pildorasinformaticas.es/course/laravel) - Juan Díaz (Píldoras Informáticas)
 
 
+### LaTeX
+
+* [Curso no convencional de LaTeX](https://ondiz.github.io/cursoLatex/)
+
+
+### Markdown
+
+* [Tutorial de Markdown](https://www.markdowntutorial.com/es/)
+
+
 ### Machine Learning (ML) e Inteligencia Artificial (AI)
 
 * [Inteligencia artificial: Clips (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=112)
@@ -162,6 +174,7 @@
 * [Java SE Módulo 3](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-3) - Juan Díaz (Píldoras Informáticas)
 * [Java SE Módulo 4](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-4) - Juan Díaz (Píldoras Informáticas)
 * [JavaScript Básico a Avanzado](https://www.pildorasinformaticas.es/course/javascript-desde-0) - Juan Díaz (Píldoras Informáticas)
+* [Programación de computadoras](https://es.khanacademy.org/computing/computer-programming#programming) - Khan Academy
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)
 * [Programación en lenguaje ADA (2010)](https://ocw.unican.es/course/view.php?id=185)
 * [Programación en lenguaje Java (2008)](http://ocw.uc3m.es/historico/programacion-java)
@@ -182,6 +195,7 @@
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 * [Diseño web con HTML5+CSS](https://miriadax.net/web/diseno-web-con-html5-css-2-edicion-)
 * [HTML 5](https://www.pildorasinformaticas.es/course/html-5) - Juan Díaz (Píldoras Informáticas)
+* [Introducción a HTML & CSS](https://www.aulaclic.es/html/index.htm) (HTML)
 * [PHP MySql Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql) - Juan Díaz (Píldoras Informáticas)
 * [PHP MySql Módulo 2](https://www.pildorasinformaticas.es/course/php-mysql/php-mysql-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html)

@@ -1,7 +1,6 @@
 ### Index
 
 * [Android](#android)
-* [AspectJ](#aspectj)
 * [C](#c)
 * [CSS](#css)
 * [D](#d)
@@ -27,11 +26,6 @@
 ### Android
 
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
-
-
-### AspectJ
-
-* [AspectJ Kitabı](http://kodcu.com/aspectj-ebook) - [Hakan Özler](https://kodcu.com/author/hakan-ozler)
 
 
 ### C
@@ -69,7 +63,6 @@
 ### Go
 
 * [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
-* [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
 
 
 ### Html

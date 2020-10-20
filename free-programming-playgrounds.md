@@ -8,6 +8,8 @@
 * [Docker](#docker)
 * [Elm](#elm)
 * [Flutter](#flutter)
+* [GDScript](#gdscript)
+* [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
 * [Ionic](#ionic)
@@ -80,6 +82,16 @@
 * [Codepen](https://codepen.io/topic/flutter/templates)
 
 
+### GDScript
+
+* [GDScript](https://gdscript-online.github.io)
+
+
+### Git
+
+* [Git](https://learngitbranching.js.org/?NODEMO)
+
+
 ### Go
 
 * [Go Playground](https://play.golang.org)
@@ -104,6 +116,7 @@
 
 * [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io)
+* [Esfiddle](https://esfiddle.net)
 * [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)

@@ -110,6 +110,7 @@
 ### Java
 
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
+* [SOLOLEARN](https://code.sololearn.com/#java)
 
 
 ### JavaScript
@@ -167,7 +168,7 @@
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
-
+* [SOLOLEARN](https://code.sololearn.com/#py)
 
 ### R
 

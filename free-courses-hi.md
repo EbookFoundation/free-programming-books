@@ -3,6 +3,8 @@
 * [C](#C)
 * [C++](#C++)
 * [Java](#Java)
+* [Python](#Python)
+* [Javascript](#Javascript)
 
 
 ### C

@@ -51,6 +51,9 @@
 
 ### Data science
 
+* [AIcrowd](https://www.aicrowd.com)
+* [CodaLab](https://competitions.codalab.org)
+* [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
 
 

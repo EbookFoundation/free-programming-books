@@ -9,6 +9,7 @@
 * [Go](#go)
 * [HTML / CSS](#html--css)
 * [Java](#java)
+  * [Spring](#spring)
 * [JavaScript](#javascript)
   * [React](#react)
   * [Vue](#vue)
@@ -81,14 +82,22 @@
 
 ### Java
 
+* [Belajar Java - Dasar Java](https://www.youtube.com/playlist?list=PLFfUPa9IV8LrtXVMBVcqpjxYeya1j-yiq) - Mastahcode
+* [Belajar Java - Object Oriented Programming](https://www.youtube.com/playlist?list=PLFfUPa9IV8LpbRH5-TzphcZj6tpoxdr-p) - Mastahcode
 * [Belajar Java - Object Oriented Programming Bahasa Indonesia (Lanjut)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6V4_vk1s1NcM2HoW5KFG7i) - Kelas Terbuka
 * [Belajar Java Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) - Kelas Terbuka
 * [Belajar Java Lambda Expression](https://www.youtube.com/playlist?list=PL-CtdCApEFH_71iT2klDSWIC0MScpLheN) - Programmer Zaman Now
 
 
+### Spring
+
+* [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Mastahcode
+
+
 ### JavaScript
 
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Programmer Zaman Now
+* [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
@@ -99,6 +108,7 @@
 
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
 * [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb) - Prawito Hudoro
+* [Tutorial React JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - Lampung JS
 
 
 ### Vue

@@ -54,7 +54,7 @@
 
 ### 0 - Meta-Listas
 
-* [Aprender Python](http://python.org.ar/wiki/AprendiendoPython) - Python Argentina
+* [Aprender Python](https://wiki.python.org.ar/aprendiendopython/) - Python Argentina
 * [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (Github)
 * [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
@@ -72,6 +72,8 @@
 * [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
 * [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html) (HTML)
+* [Fundamentos de programación](https://es.wikibooks.org/wiki/Fundamentos_de_programaci%C3%B3n) - WikiLibros
+* [Introducción a la programación](https://es.wikibooks.org/wiki/Introducci%C3%B3n_a_la_Programaci%C3%B3n) - WikiLibros
 * [Temas selectos de estructuras de datos](http://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
 * [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos) (Bubok)
 
@@ -170,11 +172,6 @@
 * [Git. La guía simple](http://rogerdudler.github.io/git-guide) (HTML)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es)
 * [Pro Git](http://git-scm.com/book/es/)
-
-
-### Github
-
-* [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple) (Github)
 
 
 ### Go

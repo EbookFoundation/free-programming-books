@@ -174,11 +174,6 @@
 * [Pro Git](http://git-scm.com/book/es/)
 
 
-### Github
-
-* [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple) (Github)
-
-
 ### Go
 
 * [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)

@@ -302,7 +302,6 @@
 * [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/) - Caelum
-* [Tutorial Rails Girls](http://guides.railsgirls.com/guides-ptbr/)
 
 
 ### Shell

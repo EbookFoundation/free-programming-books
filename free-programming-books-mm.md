@@ -10,6 +10,11 @@
 * [Saturngod's Books](http://books.saturngod.net)
 
 
+### Python
+
+* [Programming Basic](http://books.saturngod.net/programming_basic/index.html) - Saturngod
+
+
 ### Linux
 
 * [Ubuntu Linux for You](http://eimaung.com/ubuntu-for-you) - Ei Maung

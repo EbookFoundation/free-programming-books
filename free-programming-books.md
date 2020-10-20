@@ -1963,6 +1963,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Markdown
 
 * [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
+* [Markdown Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Adam Pritchard
 
 
 ### Mathematica

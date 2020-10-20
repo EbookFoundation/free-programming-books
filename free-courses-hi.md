@@ -3,8 +3,8 @@
 * [C](#C)
 * [C++](#C++)
 * [Java](#Java)
-* [Python](#Python)
 * [Javascript](#Javascript)
+* [Python](#Python)
 
 
 ### C
@@ -22,11 +22,12 @@
 * [The complete Java tutorial | Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - Harry
 
 
+### Javascript
+
+* [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry
+
+
 ### Python
 
 * [Python Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=gfDE2a7MKjA) - Harry
 
-
-### Javascript
-
-* [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry

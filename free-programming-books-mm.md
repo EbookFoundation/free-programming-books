@@ -12,7 +12,7 @@
 
 ### Python
 
-* [Programming Basic](http://books.saturngod.net/programming_basic/index.html) - Saturngod
+* [Programming For Beginner](http://books.saturngod.net/programming_basic/) - Saturngod
 
 
 ### Linux

@@ -262,6 +262,7 @@
 * [Api REST Com Silex no GAE](http://bit.ly/ebook-silex) - Nanderson Castro (PDF, EPUB, MOBI)
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
+* [Laravel](https://laravel.com/docs/8.x)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
 

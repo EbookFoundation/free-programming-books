@@ -311,7 +311,7 @@
 
 #### Next.js
 
-* [Mastering Next.js](https://masteringnextjs.com/)
+* [Mastering Next.js](https://masteringnextjs.com)
 
 
 #### NodeJS

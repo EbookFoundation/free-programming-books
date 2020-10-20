@@ -3,6 +3,7 @@
 * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
 * [Architettura degli Elaboratori](#architettura-degli-elaboratori)
 * [Assembly](#assembly)
+* [Android]
 * [C](#c)
 * [C Sharp](#c-sharp)
 * [C++](#c-1)
@@ -49,6 +50,8 @@
 
 * [Assembler x86](https://www.youtube.com/playlist?list=PLUJjY3hQLJ3NHQ9315KVvgiZ3v2FLtcbs)
 
+### Android
+* [User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 
 ### C
 

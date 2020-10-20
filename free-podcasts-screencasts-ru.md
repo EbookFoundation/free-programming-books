@@ -7,7 +7,7 @@
 * [Haskell](#haskell)
 * [Java](#java)
   * [Spring](#spring)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [QA](#qa)
@@ -54,11 +54,11 @@
 * [Плейлист видео по Spring framework](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)
 
 
-### Javascript
+### JavaScript
 
 * [Devschacht](https://soundcloud.com/devschacht) (Podcast)
 * [Frontflip](http://frontflip.me) (Podcast)
-* [Javascript для начинающих](http://www.magisters.org/education/course/js-for-beginners) (Screencast)
+* [JavaScript для начинающих](http://www.magisters.org/education/course/js-for-beginners) (Screencast)
 * [RadioJS](http://radiojs.ru) (Podcast)
 * [UnderJS podcast](https://underjs.ru) (Podcast)
 * [Webstandards](https://soundcloud.com/web-standards) (Podcast)

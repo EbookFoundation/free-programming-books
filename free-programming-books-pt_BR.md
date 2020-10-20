@@ -145,7 +145,7 @@
 
 ### JavaScript
 
-* [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
+* [Eloquente JavaScript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 * [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos)

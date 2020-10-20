@@ -1642,7 +1642,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 * [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Dr. Axel Rauschmayer
 * [Dev Docs](http://devdocs.io)
-* [Directory of free Javascript ebooks](http://jsbooks.revolunet.com)
+* [Directory of free JavaScript ebooks](http://jsbooks.revolunet.com)
 * [Eloquent JavaScript 3rd edition](http://eloquentjavascript.net) - Marijn Haverbeke
 * [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
@@ -1659,7 +1659,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF) 
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
 * [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite
-* [Javascript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) (email address *requested*, not required)
+* [JavaScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) (email address *requested*, not required)
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)
 * [jQuery Fundamentals](http://jqfundamentals.com) (starts with JavaScript basics)
 * [JS Robots](http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) (PDF)

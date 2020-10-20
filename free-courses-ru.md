@@ -3,7 +3,7 @@
 * [Clojure](#clojure)
 * [Haskell](#haskell)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
   * [Node.js](#nodejs)
   * [React](#react)
 * [PHP](#php)
@@ -36,7 +36,7 @@ ADV - продвинутый. Тонкости.
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
 
 
-### Javascript
+### JavaScript
 
 * [Алгоритмы и структуры данных](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/AlgAndData.md) - Тимур Шемсединов (INT)
 * [Асинхронное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md) - Тимур Шемсединов (INT)

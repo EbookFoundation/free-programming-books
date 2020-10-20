@@ -30,7 +30,7 @@
 
 #### Symfony
 
-* [Symfony 5: Curs rapid](https://symfony.com/doc/5.0/the-fast-track/ro/index.html)
+* [Symfony 5: Curs rapid](https://symfony.com/doc/current/the-fast-track/ro/index.html)
 
 
 ### Scratch

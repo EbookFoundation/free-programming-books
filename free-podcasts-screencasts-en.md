@@ -15,7 +15,7 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
@@ -100,6 +100,7 @@
 
 ### Git
 
+* [All Things Git](https://www.allthingsgit.com) - Edward Thomson and Martin Woodward (podcast)
 * [GitMinutes](http://www.gitminutes.com) (podcast)
 * [Jhan Carlos Silva - Git and Github Tutorial](https://www.youtube.com/watch?v=NPRUsCcZwJ4) (screencast)
 * [The Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (screencast)
@@ -136,7 +137,7 @@
 * [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime and Bob Paulin (podcast)
 
 
-### Javascript
+### JavaScript
 
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
 * [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript) (screencast)

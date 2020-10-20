@@ -17,7 +17,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [jQuery](#jquery)
 * [(La)TeX et associés](#latex-et-associés)
   * [Asymptote](#asymptote)
@@ -133,9 +133,9 @@
 * [Play.Rules!](http://3monkeys.github.io/play.rules/)
 
 
-### Javascript
+### JavaScript
 
-* [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [JavaScript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
 * [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot 
 
 

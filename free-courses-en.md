@@ -11,6 +11,7 @@
 * [Clojure](#clojure)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
+* [Dart](#dart)
 * [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
@@ -35,6 +36,7 @@
 * [Linux](#linux)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
+* [Markdown](#markdown)
 * [Matlab](#matlab)
 * [Mercurial](#mercurial)
 * [Misc](#misc)
@@ -155,6 +157,13 @@
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
 
+### Dart
+
+* [Dart Course for Beginners](https://www.udemy.com/course/dartlang) (Udemy)
+* [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) - FreeCodeCamp
+* [Dart Programming Tutorial | Learn the Dart for Flutter](https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter) (Udemy)
+
+
 ### Data Science
 
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
@@ -241,6 +250,7 @@
 * [CSS Grid](https://cssgrid.io) - Wesbos
 * [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
+* [HTML and CSS Crash Course](https://scrimba.com/learn/htmlcss) - Kevin Powell (scrimba)
 * [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
@@ -277,6 +287,7 @@
 
 ### JavaScript
 
+* [Beginner's Series to: JavaScript](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer (YouTube)
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
 * [Egghead.io](https://egghead.io)
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
@@ -302,6 +313,7 @@
 
 #### NodeJS
 
+* [Beginner's Series to: Node.js](https://youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer (YouTube)
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
 
@@ -369,6 +381,11 @@
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 * [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+
+### Markdown
+
+* [MasteringMarkdown](https://masteringmarkdown.com) - Wesbos
 
 
 ### MATLAB
@@ -459,6 +476,7 @@
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python Beginners-Intermediate Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [Python Course](http://www.python-course.eu)
+* [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
 * [Python Django Basics Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
 * [Python Flask Framework Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
 * [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)

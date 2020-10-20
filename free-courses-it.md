@@ -13,7 +13,7 @@
   * [Arduino](#arduino)
 * [Generale](#generale)
 * [Java](#Java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
 * [Mobile](#mobile)
 * [Networking](#networking)
@@ -107,9 +107,9 @@
 * [Programmazione a Oggetti (Java)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kewGZIHpCDgarZER_-J1am) (M. Torchiano)
 
 
-### Javascript
+### JavaScript
 
-* [Corso di Javascript (base)](https://www.youtube.com/watch?v=JUBhi8O3wn0&list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) [(Lacerba.io)](https://lacerba.io)
+* [Corso di JavaScript (base)](https://www.youtube.com/watch?v=JUBhi8O3wn0&list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) [(Lacerba.io)](https://lacerba.io)
 * [Corso Javascript (ES6)](https://www.youtube.com/watch?v=dDekOIgzxPA&list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) (F. Camuso)
 
 

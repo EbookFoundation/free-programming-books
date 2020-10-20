@@ -145,7 +145,7 @@
 
 ### JavaScript
 
-* [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
+* [Eloquente JavaScript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 * [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos)
@@ -244,6 +244,7 @@
 
 * [Breve Introdução ao LaTeX2e](http://www.if.ufrj.br/~sandra/MetComp/doc/latex.pdf) - Lenimar Nunes de Andrade (PDF)
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
+* [Latexação](https://www.ime.usp.br/~tassio/arquivo/latex/apostila.pdf) - Tássio Naia dos Santos (PDF)
 
 
 ### LISP

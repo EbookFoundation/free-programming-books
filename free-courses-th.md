@@ -38,7 +38,7 @@
 
 * [จาวาสคริปต์เบื้องต้น](https://phyblas.hinaboshi.com/saraban/javascript) - Phyblas
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) - Zinglecode
-* [ภาษา Javascript](http://marcuscode.com/lang/javascript) - MarcusCode
+* [ภาษา JavaScript](http://marcuscode.com/lang/javascript) - MarcusCode
 
 
 #### Angular.js

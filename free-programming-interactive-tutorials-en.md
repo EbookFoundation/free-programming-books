@@ -60,7 +60,7 @@
 
 * [Codeasy](https://codeasy.net/course/csharp_elementary)
 * [Learn C#](http://www.learncs.org)
-
+* [C Programming for Absolute Beginners (SECOND EDITION)](http://index-of.es/Programming/C/Vine,_Michael_-_C_Programming_for_the_Absolute_Beginner_-_2nd_Edition.pdf)
 
 ### C++
 

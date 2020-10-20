@@ -1770,8 +1770,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
 * [Node.js Notes](http://books.goalkicker.com/NodeJSBook) (PDF)
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
-* [The Node Beginner Book](http://nodebeginner.org)
 * [Reactive Programming with Node.js](http://www.allitebooks.com/reactive-programming-with-node-js/) - Fernando Doglio (PDF)
+* [The Node Beginner Book](http://nodebeginner.org)
 
 
 #### Om

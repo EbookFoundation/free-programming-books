@@ -73,6 +73,7 @@
 * [Standard ML](#standard-ml)
 * [Swift](#swift)
 * [Tcl/Tk](#tcltk)
+* [Theoretical Computer Science](#theoretical-computer-science)
 * [TypeScript](#typescript)
 * [VBA](#vba)
 * [Vim](#vim)
@@ -99,7 +100,6 @@
 #### グラフィックユーザーインターフェイス
 
 * [Qtプログラミング入門](http://densan-labs.net/tech/qt/) - @nishio_dens
-* [入門GTK+ 第3版](http://www.iim.cs.tut.ac.jp/~sugaya/wiki/wiki/index.php?GTK%2FGNOME%A4%CB%A4%E8%A4%EBGUI%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0) - 菅谷保之
 
 
 #### セキュリティ
@@ -129,7 +129,6 @@
 #### ソフトウェアアーキテクチャ
 
 * [ギコ猫とデザインパターン](http://www.hyuki.com/dp/cat_index.html) - 結城浩
-* [サルでもわかる 逆引きデザインパターン](http://www.nulab.co.jp/designPatterns/designPatterns1/designPatterns1-1.html) - Agata Toshitaka
 * [デザインパターン](http://www.techscore.com/tech/DesignPattern/) - シナジーマーケティング株式会社
 
 
@@ -157,7 +156,6 @@
 
 #### プログラミングの理論
 
-* [Programming on SAT](https://ledyba.gitbooks.io/programming-on-sat/) - ψ（プサイ）
 * [計算機プログラムの構造と解釈](http://sicp.iijlab.net/fulltext/) - Gerald Jay Sussman et al.
 
 
@@ -205,7 +203,6 @@
 
 * [Applescript のごく基本的なサンプル](http://www.asahi-net.or.jp/~va5n-okmt/factory/applescript/sample_code/) - Okamoto
 * [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
-* [Bash でやってることを AppleScript でやろうとするとこうなる](http://qiita.com/mattintosh4/items/353c57ba75eda20af3c4) - id:mattintosh4
 
 
 ### AWK
@@ -647,6 +644,11 @@
 
 * [Tcl/Tk お気楽 GUI プログラミング](http://www.nct9.ne.jp/m_hiroi/tcl_tk.html) - 広井誠
 * [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf) - 只木進一 (PDF)
+
+
+### Theoretical Computer Science
+
+* [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext/xcont.html) - Alan J. Perlis 
 
 
 ### TypeScript

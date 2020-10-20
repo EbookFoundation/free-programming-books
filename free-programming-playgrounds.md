@@ -8,6 +8,8 @@
 * [Docker](#docker)
 * [Elm](#elm)
 * [Flutter](#flutter)
+* [GDScript](#gdscript)
+* [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
 * [Ionic](#ionic)
@@ -78,6 +80,16 @@
 ### Flutter
 
 * [Codepen](https://codepen.io/topic/flutter/templates)
+
+
+### GDScript
+
+* [GDScript](https://gdscript-online.github.io)
+
+
+### Git
+
+* [Git](https://learngitbranching.js.org/?NODEMO)
 
 
 ### Go
@@ -153,6 +165,7 @@
 * [Codepad](http://codepad.org)
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
+* [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
 
 
 ### R
@@ -163,6 +176,7 @@
 ### React
 
 * [CodeSandbox.io](https://codesandbox.io)
+* [jscomplete](https://jscomplete.com/playground)
 * [StackBlitz](https://stackblitz.com/fork/react)
 
 

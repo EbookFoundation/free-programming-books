@@ -2,6 +2,7 @@
 
 * [C](#C)
 * [C++](#C++)
+* [Java](#Java)
 
 
 ### C
@@ -12,6 +13,11 @@
 ### C++
 
 * [The Complete C++ Course | Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+
+
+### Java
+
+* [The complete Java tutorial | Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - Harry
 
 
 ### Python

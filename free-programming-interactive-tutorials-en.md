@@ -1,6 +1,7 @@
 ### Index
 
 * [Ada](#ada)
+* [Android](#android)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
@@ -28,6 +29,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scala](#scala)
 * [SQL](#sql)
 * [Vim](#vim)
@@ -36,6 +38,11 @@
 ### Ada
 
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+
+
+### Android
+
+* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial)
 
 
 ### Bash
@@ -91,7 +98,7 @@
 ### Git
 
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
-* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+* [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
 
@@ -210,6 +217,7 @@
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
+* [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 
@@ -219,6 +227,11 @@
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
+
+
+### Rust
+
+* [Rustlings](https://github.com/rust-lang/rustlings)
 
 
 ### Scala

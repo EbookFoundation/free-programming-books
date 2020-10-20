@@ -16,7 +16,6 @@
 * [Bash](#bash)
 * [Basic](#basic)
 * [BETA](#beta)
-* [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -1021,11 +1020,6 @@ Kerridge (PDF) (email address *requested*, not required)
 ### BETA
 
 * [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
-
-
-### Blockchain
-
-* [Solidity Programming Essentials](https://www.packtpub.com/product/solidity-programming-essentials/9781788831383) - Ritesh Modi (PDF)
 
 
 ### C

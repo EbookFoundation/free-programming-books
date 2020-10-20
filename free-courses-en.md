@@ -281,6 +281,7 @@
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
+* [Java 3 Month Program](https://www.youtube.com/watch?v=4hwmRUup7BE&list=PL7LtGuh_nbfphuB58q2SQ7C9k52THkRoN) - Bright Boost (Youtube)
 
 
 ### JavaScript

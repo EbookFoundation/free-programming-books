@@ -28,3 +28,8 @@
 ### JavaScript
 
 * [JavaScript Tutorial In Hindi](https://www.youtube.com/watch?v=hKB-YGF14SY) - Harry
+
+### DJANGO 
+*[DJANGO Tutorial In English]
+https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau
+-Telusko

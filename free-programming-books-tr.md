@@ -26,18 +26,22 @@
 ### Android
 
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
+* [Android Dersleri] (http://umiitkose.com/android/)
 
 
 ### C
 
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
 * [Programlamaya Giriş Ders Notları](http://web.itu.edu.tr/uyar/programlama) - [H.Turgut Uyar](http://web.itu.edu.tr/uyar)
+* [C Programlama Dersleri](https://www.youtube.com/watch?v=FtaKEn2f2qI&list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i&index=1)
+* [GNU C Kütüphanesi Basvuru Klavuzu] (http://www.belgeler.org/glibc/glibc.html)
 
 
 ### CSS
 
 * [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/) - Fatih Hayrioğlu
-
+* [CSS Egitim Serisi] (https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-RyFL8mkfjYjEVCmJhWDQ3) 
+* [Bootstrap 4 ile Responsive Web Tasarimi](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-xwLUQ0-OIA46mKwYeaxXR)
 
 ### D
 
@@ -69,6 +73,7 @@
 
 * [Html'e Giriş](http://www.htmldersleri.org)
 * [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
+* [Html Egitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Qro_C0ixzMWpCiogfXxKE)
 
 
 ### iOS
@@ -117,6 +122,7 @@
 ### Django
 
 * [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
+* [Django 101](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh)
 
 
 ### R

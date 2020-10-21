@@ -6,6 +6,7 @@
 * [HTML](#HTML)
 * [JavaScript](#Javascript)
 * [Machine Learning](#MachineLearning)
+* [MySQL](#MySQL)
 * [PHP](#PHP)
 
 
@@ -38,6 +39,11 @@
 ### MachineLearning
 
 * [எளிய தமிழில் ML](http://www.kaniyam.com/download/e0ae8ee0aeb3e0aebfe0aeaf-e0aea4e0aeaee0aebfe0aeb4e0aebfe0aeb2e0af8d-machine-learning-a4-pdf.html)
+
+
+### MySQL
+
+* [எளிய தமிழில் MySQL](http://www.kaniyam.com/mysql-book-in-tamil/)
 
 
 ### PHP

@@ -111,6 +111,7 @@
 ### Java
 
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
+* [SoloLearn](https://code.sololearn.com/#java)
 
 
 ### JavaScript
@@ -121,7 +122,7 @@
 * [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
-* [Sololearn](https://code.sololearn.com/#html)
+* [SoloLearn](https://code.sololearn.com/#html)
 
 
 ### Kotlin
@@ -169,6 +170,7 @@
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
+* [SoloLearn](https://code.sololearn.com/#py)
 
 
 ### R

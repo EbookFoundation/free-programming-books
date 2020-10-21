@@ -21,6 +21,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
+* [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
@@ -164,6 +165,11 @@
 
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
 * [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
+
+
+### Lua
+
+* [Introdução a Programação com Lua](https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA) - Alfred R. Baudisch (Youtube)
 
 
 ### Machine Learning

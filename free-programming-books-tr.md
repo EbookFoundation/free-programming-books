@@ -30,50 +30,50 @@
 
 ### C
 
-* [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
-* [Programlamaya Giriş Ders Notları](http://web.itu.edu.tr/uyar/programlama) - [H.Turgut Uyar](http://web.itu.edu.tr/uyar)
+* [C Programlama Diline Giriş](https://www.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](https://www.gantep.edu.tr/~bingul)
+* [Programlamaya Giriş Ders Notları](https://www.itu.edu.tr/uyar/programlama) - [H.Turgut Uyar](https://www.itu.edu.tr/uyar)
 
 
 ### CSS
 
-* [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/) - Fatih Hayrioğlu
+* [CSS Dersleri](https://www.fatihhayrioglu.com/css-dersleri/) - Fatih Hayrioğlu
 
 
 ### D
 
-* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf) - Ali Çehreli (PDF)
+* [D Programlama Dili](https://www.ddili.org/ders/d/D_Programlama_Dili.pdf) - Ali Çehreli (PDF)
 
 
 ### Dart
 
-* [Dart - Merhaba Dünya](http://dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
+* [Dart - Merhaba Dünya](https://www.dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
 
 
 ### Fortran
 
-* [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
+* [Fortran Programlama Dili](http://www.gantep.edu.tr/~bingul/f95/index.php) - [Ahmet Bingül](http://www.gantep.edu.tr/~bingul)
 
 
 ### Git
 
-* [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler
-* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) - [Ali Özgür](https://github.com/aliozgur)
+* [git - basit rehber](https://www.rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler
+* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) - [Ali Özgür](https://www.github.com/aliozgur)
 
 
 ### Go
 
-* [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
+* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
 
 
 ### Html
 
 * [Html'e Giriş](http://www.htmldersleri.org)
-* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
+* [Html'e Yolculuk](https://www.github.com/paufsc/journey-to-html)
 
 
 ### iOS
 
-* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
+* [iOS Geleceği Yazanlar](https://www.gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
 
 ### JavaScript
@@ -88,29 +88,29 @@
 
 ### Linux
 
-* [GNU Bash Başvuru Kılavuzu](http://belgeler.org/bashref/bashref.html)
-* [Linux Belgeleri](http://belgeler.org/howto/howtos.html)
-* [Linux Sistem Yöneticisinin Kılavuzu](http://belgeler.org/sag/sag.html)
+* [GNU Bash Başvuru Kılavuzu](https://www.belgeler.org/bashref/bashref.html)
+* [Linux Belgeleri](https://www.belgeler.org/howto/howtos.html)
+* [Linux Sistem Yöneticisinin Kılavuzu](https://www.belgeler.org/sag/sag.html)
 
 
 ### Matlab
 
-* [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris) - İsmail Arı
+* [Matlab Programlamaya Giris](https://www.ismailari.com/blog/matlab-programlamaya-giris) - İsmail Arı
 
 
 ### .NET Framework
 
-* [ASP.NET Core El Kitabı](https://sahin.gitbook.io/asp-net-core-el-kitab)
+* [ASP.NET Core El Kitabı](https://www.sahin.gitbook.io/asp-net-core-el-kitab)
 
 
 ### PHP
 
-* [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
+* [PHP - Laravel 4 Türkçe Dokumantasyon](https://www.leanpub.com/laravel4-tr)
 
 
 ### Python
 
-* [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](http://ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
+* [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](https://www.ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
 * [Python ile Programlama](https://belgeler.yazbel.com/python-istihza)
 
 
@@ -121,7 +121,7 @@
 
 ### R
 
-* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk) - Emrah Er
+* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://www.github.com/emraher/eybkbrk) - Emrah Er
 
 
 ### Ruby

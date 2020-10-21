@@ -5,6 +5,7 @@
 * [Haskell](#haskell)
 * [LaTeX](#latex)
 * [Prolog](#prolog)
+* [Python](#python)
 
 
 ### C/C++
@@ -32,3 +33,8 @@
 ### Prolog
 
 * [Lógica Computacional (com Prolog)](http://www4.di.uminho.pt/~mjf/pub/LC-Prolog.pdf) - Maria João Frade (PDF)
+
+
+### Python
+
+* [Python Para Todos: Explorando Dados com Python 3](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.epub)

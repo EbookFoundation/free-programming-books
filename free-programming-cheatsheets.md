@@ -1,0 +1,52 @@
+### Index
+
+* [Clojure](#clojure)
+* [Data Science](#data-science)
+* [Git](#git)
+* [HTML / CSS](#html--css)
+* [JavaScript](#javascript)
+  * [Vue.js](#vuejs)
+* [Markdown](#markdown)
+* [Python](#python)
+
+
+### Clojure
+
+* [Clojure Cheatsheet](http://clojure.org/cheatsheet)
+
+
+### Data Science
+
+* [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
+
+
+### Git
+
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
+
+
+### HTML / CSS
+
+* [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
+* [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
+
+
+### JavaScript
+
+* [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
+
+
+#### Vue.js
+
+* [Vue Essential Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf) - Vue Mastery (PDF)
+
+
+### Markdown
+
+* [Markdown Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Adam Pritchard
+
+
+### Python
+
+* [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
+

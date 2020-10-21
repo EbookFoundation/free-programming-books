@@ -30,6 +30,7 @@
   * [Flask](#flask)
   * [PyTorch](#pytorch)
 * [Redis](#redis)
+* [Typescript](#typescript)
 
 
 ### Android
@@ -231,3 +232,9 @@
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Programmer Zaman Now
+
+
+### Typescript
+
+* [Typescript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra
+* [Belajar Typescript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now

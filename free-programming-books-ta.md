@@ -52,11 +52,11 @@
 * [எளிய தமிழில் PHP](https://freetamilebooks.com/ebooks/learn-php-in-tamil/)
 
 
-### Selenium
-
-* [எளிய தமிழில் Selenium](http://www.kaniyam.com/download/learn-selenium-in-tamil.pdf)
-
-
 ### Ruby
 
 * [எளிய தமிழில் Ruby](http://www.kaniyam.com/download/learn-ruby-in-tamil.pdf)
+
+
+### Selenium
+
+* [எளிய தமிழில் Selenium](http://www.kaniyam.com/download/learn-selenium-in-tamil.pdf)

@@ -111,6 +111,7 @@
 
 * [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas
 
+
 ### Git
 
 * [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)

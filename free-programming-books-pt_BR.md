@@ -42,6 +42,7 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
+* [Fundamentos Matemáticos Computacionais](#fmc)
 
 
 ### Agnósticos
@@ -322,3 +323,8 @@
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 * [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza
 
+<a id="fmc"></a>
+### Fundamentos Matemáticos Computacionais
+>
+
+* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas

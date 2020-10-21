@@ -4,6 +4,7 @@
 * [C++](#C++)
 * [Data Structures](#DataStructures)
 * [Java](#Java)
+* [Javascript](#Javascript)
 * [Python](#Python)
 
 
@@ -29,11 +30,12 @@
 * [The complete Java tutorial | Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - Harry
 
 
+### Javascript
+
+* [JavaScript Tutorial | Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - Harry
+
+
 ### Python
 
 * [Python Tutorial For Beginners | Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - Harry
 
-
-### JavaScript
-
-* [JavaScript Tutorial | Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - Harry

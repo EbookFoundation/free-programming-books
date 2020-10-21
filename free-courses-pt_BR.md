@@ -21,6 +21,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
+* [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
@@ -31,6 +32,7 @@
 * [Sass](#sass)
 * [Shell](#shell)
 * [Swift](#swift)
+* [Vue.js](#vuejs)
 
 
 ### Android
@@ -166,6 +168,11 @@
 * [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
 
 
+### Lua
+
+* [Introdução a Programação com Lua](https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA) - Alfred R. Baudisch (Youtube)
+
+
 ### Machine Learning
 
 * [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr
@@ -243,6 +250,11 @@
 ### Swift
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
+
+
+### Vue.js
+
+* [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
 
 
 ### WordPress

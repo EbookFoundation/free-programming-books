@@ -1588,8 +1588,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Java EE7 Tutorial](https://docs.oracle.com/javaee/7/JEETT.pdf) - Eric Jendrock, et al (PDF)
 * [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 * [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book) - Kevin Sahin (PDF, HTML)
-* [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey and Chris Mayfield
 * [Think Data Structures: Algorithms and Information Retrieval in Java](https://greenteapress.com/wp/think-data-structures/) - Allen B. Downey (PDF, HTML)
+* [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey and Chris Mayfield
 * [Welcome to Java for Python Programmers](https://runestone.academy/runestone/books/published/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
 
@@ -2364,8 +2364,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
 * [The Standard Python Library](http://effbot.org/librarybook/) - Fredrik Lundh
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
-* [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)
+* [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 
 

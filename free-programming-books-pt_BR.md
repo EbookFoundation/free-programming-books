@@ -11,6 +11,7 @@
   * [Arquitetura de Software](#arquitetura-de-software)
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
   * [Outros](#outros)
+* [Fundamentos Matemáticos Computacionais](#fundamentos-matematicos-computacionais)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -42,7 +43,6 @@
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
-* [Fundamentos Matemáticos Computacionais](#fmc)
 
 
 ### Agnósticos
@@ -106,6 +106,10 @@
 * [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
+
+### Fundamentos Matemáticos Computacionais
+
+* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas
 
 ### Git
 
@@ -322,9 +326,3 @@
 * [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 * [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza
-
-<a id="fmc"></a>
-### Fundamentos Matemáticos Computacionais
->
-
-* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas

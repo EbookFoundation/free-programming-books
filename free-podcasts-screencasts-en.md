@@ -15,7 +15,7 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
@@ -100,6 +100,7 @@
 
 ### Git
 
+* [All Things Git](https://www.allthingsgit.com) - Edward Thomson and Martin Woodward (podcast)
 * [GitMinutes](http://www.gitminutes.com) (podcast)
 * [Jhan Carlos Silva - Git and Github Tutorial](https://www.youtube.com/watch?v=NPRUsCcZwJ4) (screencast)
 * [The Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (screencast)
@@ -132,10 +133,11 @@
 ### Java
 
 * [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
+* [How to Program with Java Podcast](https://www.podbean.com/podcast-detail/6mxhc-344f7/How-to-Program-with-Java-Podcast) - Trevor Page (podcast)
 * [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime and Bob Paulin (podcast)
 
 
-### Javascript
+### JavaScript
 
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
 * [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript) (screencast)
@@ -164,10 +166,12 @@
 #### Ember.js
 
 * [Ember Weekend](https://emberweekend.com/episodes) (podcast)
+* [The EmberMap Podcast](https://embermap.com/podcast) - Sam Selikoff and Ryan Toronto (podcast)
 
 
 #### Node.js
 
+* [Node University](https://nodeuniversity.simplecast.fm) - Azat Mardan (podcast)
 * [Nodeup](http://nodeup.com) (podcast)
 * [Twitter Bot Tutorial - Node.js and Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) (screencast)
 
@@ -264,6 +268,7 @@
 ### PostgreSQL
 
 * [PG Casts](https://www.pgcasts.com) (screencast)
+* [Scaling Postgres](https://player.fm/series/scaling-postgres) - Ruby Tree Software Inc and Creston Jamison (podcast)
 
 
 ### Python
@@ -300,8 +305,10 @@
 
 * [New Rustacean](http://www.newrustacean.com) (podcast)
 * [Rusty Radio](https://soundcloud.com/posix4e) (podcast)
+* [The Rustacean Station Podcast](https://rustacean-station.org) (podcast)
 
 
 ### Vim
 
 * [Free screencasts about the text editor Vim](http://vimcasts.org) (screencast)
+* [The Vim Blog](https://thevimblog.com/podcast) (podcast)

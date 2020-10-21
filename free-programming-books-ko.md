@@ -54,7 +54,7 @@
 
 ### HTML5
 
-* [HTML5, CSS and Javascript](http://fromyou.tistory.com/581)
+* [HTML5, CSS and JavaScript](http://fromyou.tistory.com/581)
 
 
 ### JavaScript

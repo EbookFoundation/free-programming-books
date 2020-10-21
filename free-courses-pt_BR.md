@@ -41,6 +41,7 @@
 
 ### Angular
 
+* [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 
 
@@ -110,6 +111,7 @@
 ### HTML
 
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
+* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Curso em Vídeo (Youtube)
 
 
 ### IDE
@@ -136,7 +138,7 @@
 * [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias (Udemy)
 
 
-### Javascript
+### JavaScript
 
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo (YouTube)
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts (YouTube)
@@ -179,6 +181,7 @@
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
 * [Curso do Básico ao CRUD Node.js](https://app.rocketseat.com.br/node/curso-node-js) - *registration required*
+* [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (Youtube)
 * [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - NodeBR (EW)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
 
@@ -204,6 +207,7 @@
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
 * [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)
 * [Introdução à linguagem Python](https://www.udemy.com/intro_python/) - Diego Mariano (Udemy)
+* [Programação em Python: O Guia para Iniciantes](https://www.udemy.com/course/programacao-python-guia-para-iniciantes/) - Jones Granatyr (Udemy)
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson (YouTube)
@@ -223,6 +227,7 @@
 * [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/) - Bruno Paulino (Udemy)
 * [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
 * [Ruby Puro](https://onebitcode.com/course/ruby-puro/) - One Bit Code (Site One Bit Code)
+* [Tutorial Rails Girls](http://guides.railsgirls.com/guides-ptbr/)
 
 
 ### Sass

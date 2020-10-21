@@ -16,7 +16,6 @@
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [Vue.js](#vue.js)
 * [Jekyll](#jekyll)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
@@ -29,6 +28,7 @@
 * [Sass](#sass)
 * [Shell](#shell)
 * [Swift](#swift)
+* [Vue.js](#vuejs)
 
 
 ### Android
@@ -131,11 +131,6 @@
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts (YouTube)
 
 
-### Vue.js
-
-* [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
-
-
 ### Jekyll
 
 * [Criando sites estáticos com Jekyll](https://www.udemy.com/course/criando-sites-estaticos-com-jekyll/) - Willian Justen de Vasconcellos (Udemy)
@@ -217,6 +212,11 @@
 ### Swift
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
+
+
+### Vue.js
+
+* [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
 
 
 ### WordPress

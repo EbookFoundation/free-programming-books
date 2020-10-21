@@ -2658,6 +2658,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### SQL (implementation agnostic)
 
+* [A Primer on SQL, 3rd Edition](https://freecomputerbooks.com/A-Primer-on-SQL-by-Rahul-Batra.html) - Rahul Batra
 * [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/)
 * [SQL Notes for Professionals](http://books.goalkicker.com/SQLBook/)

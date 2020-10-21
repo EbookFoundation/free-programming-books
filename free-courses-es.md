@@ -46,6 +46,7 @@
 * [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163)
 * [Curso SQL](https://www.pildorasinformaticas.es/course/curso-sql) - Juan Díaz (Píldoras Informáticas)
 * [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html)
+* [Manual práctico de SQL](https://www.lawebdelprogramador.com/cursos/archivos/ManualPracticoSQL.pdf) - Álvaro E. García (PDF)
 
 
 ### Big Data

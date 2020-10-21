@@ -110,21 +110,24 @@
 ### Java
 
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
+* [SoloLearn](https://code.sololearn.com/#java)
 
 
 ### JavaScript
 
 * [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io)
+* [Esfiddle](https://esfiddle.net)
 * [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
-* [Sololearn](https://code.sololearn.com/#html)
+* [SoloLearn](https://code.sololearn.com/#html)
 
 
 ### Kotlin
 
 * [Kotlin](https://play.kotlinlang.org)
+* [Kotlin Playground](https://developer.android.com/training/kotlinplayground)
 
 
 ### Kubernetes
@@ -166,6 +169,7 @@
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
+* [SoloLearn](https://code.sololearn.com/#py)
 
 
 ### R

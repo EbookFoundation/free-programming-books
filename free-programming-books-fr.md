@@ -17,7 +17,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [jQuery](#jquery)
 * [(La)TeX et associés](#latex-et-associés)
   * [Asymptote](#asymptote)
@@ -36,6 +36,7 @@
   * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
@@ -133,9 +134,9 @@
 * [Play.Rules!](http://3monkeys.github.io/play.rules/)
 
 
-### Javascript
+### JavaScript
 
-* [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [JavaScript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
 * [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot 
 
 
@@ -252,6 +253,12 @@
 #### Ruby on Rails
 
 * [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning) - Michael Hartl
+
+
+### Rust
+
+* [Traduction du Rust book en français](https://jimskapt.github.io/rust-book-fr/) par Thomas Ramirez
+* [Tutoriel rust](https://blog.guillaume-gomez.fr/Rust/) par Guillaume Gomez
 
 
 ### Sage

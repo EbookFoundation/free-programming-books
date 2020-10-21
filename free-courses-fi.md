@@ -25,4 +25,4 @@
 
 ### Web Development
 
-* [Full stack open](https://fullstackopen.com/) - University of Helsinki
+* [Full stack open](https://fullstackopen.com) - University of Helsinki

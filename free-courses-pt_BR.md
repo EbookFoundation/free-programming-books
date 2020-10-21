@@ -169,7 +169,7 @@
 
 ### Lua
 
-* [Introdução a Programação com Lua](https://www.youtube.com/watch?v=_EyRsqA_tKA&list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA) - Cria Jogo (Youtube)
+* [Introdução a Programação com Lua](https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA) - Alfred R. Baudisch (Youtube)
 
 
 ### Machine Learning

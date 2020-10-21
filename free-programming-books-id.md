@@ -15,6 +15,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Vue](#vue)
+* [Redis](#redis)
 
 
 ### Android
@@ -112,3 +113,7 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
+
+### Redis
+
+* [Belajar Redis](https://docs.google.com/presentation/d/10Ux3S0xJmrqlzffOmi63nQp3qntgfjqr6oI16XY1rtE/edit#slide=id.p) - Eko K

@@ -463,7 +463,7 @@
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 
 
-### Javascript
+### JavaScript
 
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com) - 阮一峰

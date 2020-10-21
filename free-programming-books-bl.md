@@ -10,6 +10,7 @@
 ### C
 
 * [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen 
+* [প্রোগ্রামিং এর শুরু](https://allfreebd.com/programming-er-shuru-by-mijanur-rahman/) - Mizanur Rahman
 
 
 ### JavaScript

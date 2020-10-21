@@ -26,6 +26,7 @@
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [jQuery](#jquery)
+  * [Next.js](#nextjs)
   * [NodeJS](#nodejs)
   * [React](#react)
   * [React Native](#react-native)
@@ -309,6 +310,11 @@
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 * [Introduction to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245) (Udacity)
+
+
+#### Next.js
+
+* [Mastering Next.js](https://masteringnextjs.com)
 
 
 #### NodeJS

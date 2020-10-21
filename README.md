@@ -61,6 +61,11 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Turkish / Türkçe](free-programming-books-tr.md)
 + [Ukrainian / Українська](free-programming-books-ua.md)
 
+### Cheat Sheets
+
++ [All Languages](free-programming-cheatsheets.md)
+
+
 ### Free Online Courses
 
 + [Bulgarian / български](free-courses-bg.md)

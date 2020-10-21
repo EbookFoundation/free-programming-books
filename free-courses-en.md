@@ -328,6 +328,9 @@
 * [Beginner's Series to: Node.js](https://youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer (YouTube)
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
+* [Node.js Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) - The Net Ninja (Youtube)
+* [Node.js Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk) - freeCodeCamp.org (Youtube)
+* [Node.js Videos](https://www.youtube.com/playlist?list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu) - Traversy Media (Youtube)
 
 
 #### React

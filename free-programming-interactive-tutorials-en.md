@@ -18,6 +18,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+* [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)
 * [Lisp](#lisp)
@@ -159,6 +160,11 @@
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
+
+
+### Kotlin
+
+* [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
 
 
 ### Language Agnostic

@@ -33,3 +33,10 @@
 *[DJANGO Tutorial In English]
 https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau
 -Telusko
+
+
+### DataStructures
+
+* [Data Structures and Algo In Hindi](
+https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
+- Harry

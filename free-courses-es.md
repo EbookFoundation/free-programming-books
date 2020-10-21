@@ -105,6 +105,7 @@
 * [Curso Django](https://www.pildorasinformaticas.es/course/django) - Juan Díaz (Píldoras Informáticas)
 * [Curso Spring](https://www.pildorasinformaticas.es/course/curso-spring) - Juan Díaz (Píldoras Informáticas)
 * [Laravel](https://www.pildorasinformaticas.es/course/laravel) - Juan Díaz (Píldoras Informáticas)
+* [Vue](https://manual-informatica.com/desarrollo-web/21-descargar-vuejs-tutorial-gratis.html) - Creative Commons BY-SA (Manual Informatica)
 
 
 ### LaTeX

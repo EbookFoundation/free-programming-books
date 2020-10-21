@@ -11,6 +11,7 @@
 * [Delphi](#delphi)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
+* [Erlang](#erlang)
 * [Generale](#generale)
 * [Java](#Java)
 * [JavaScript](#javascript)
@@ -88,6 +89,12 @@
 
 * [Arduino Cookbook - Corso di Arduino in 150 video](https://www.youtube.com/playlist?list=PL9_01HM23dGEDNNfR6BtlDWD8DDoAcLOT) (P. Aliverti)
 * [Corso Arduino 2014](https://www.youtube.com/watch?v=WuqS4C4u42E&list=PLA27EZBY5vePO9T6YP3rH8LTTdylz69VE) (POuLpolimi Politecnico di Milano)
+
+
+### Erlang
+
+* [Erlang/OTP](http://www.khaldi.it/art/erlang/erl01/E01.html) - Jilani KHALDI
+* [Iniziare con Erlang Language](https://riptutorial.com/it/erlang)
 
 
 ### Generale

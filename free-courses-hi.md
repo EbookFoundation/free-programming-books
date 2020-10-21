@@ -34,3 +34,9 @@
 * [Data Structures and Algo In Hindi](
 https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
 - CodewithHarry
+
+
+### Flask 
+
+* [Flask Tutorial In Hindi](
+https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer

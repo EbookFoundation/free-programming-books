@@ -51,7 +51,7 @@ Week - 6
 
 <li>Chapter 17-<a href="https://onlinecourses.nptel.ac.in/noc20_cs48/unit?unit=49&lesson=52"> Design of Hbase</li></a></ul>
 
-Week- 7
+Week - 7
 <ul>
 <li>Chapter 18-<a href="https://onlinecourses.nptel.ac.in/noc20_cs48/unit?unit=53&lesson=56"> Peer to peer sys</li></a>
 

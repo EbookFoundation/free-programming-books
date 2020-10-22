@@ -1,7 +1,7 @@
 ### Index
 ### Cloud Computing with Distributed Systems 
 
-* [Cloud Computing and Distributed Systems ](https://drive.google.com/drive/folders/1-LqmeA9HaZtyqGQK0ntSsm1bBKvsV6Jq?usp=sharing)
+* [Cloud Computing and Distributed Systems ](https://onlinecourses.nptel.ac.in/noc20_cs48/preview)
 
 ### Chapterswise Lecture Materials in PDF's
 Week 1
@@ -62,6 +62,7 @@ Week - 8
 
 <li>Chapter 21-<a href="https://onlinecourses.nptel.ac.in/noc20_cs48/unit?unit=57&lesson=60">Introduction to Kafka</li></a>
 </ul>
+
 
 Course Link (https://onlinecourses.nptel.ac.in/noc20_cs48/preview)
 

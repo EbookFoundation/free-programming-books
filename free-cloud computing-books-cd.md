@@ -1,49 +1,49 @@
 ### Index
 Cloud Computing with Distributed Systems
  [Cloud Computing]
+<ul>
+<li>Chapter 1 - Introduction to Cloud Computing</li>
 
-*[Chapter 1 - Introduction to Cloud Computing]
+<li>Chapter 2 - Virtualization</li>
 
-*[Chapter 2 - Virtualization]
+<li>Chapter 3 - Hotspot Mitigation for Virtual Machine Migration</li>
 
-Chapter 3 - Hotspot Mitigation for Virtual Machine Migration
+<li>Chapter 4 - Server Virtualization</li>
 
-Chapter 4 - Server Virtualization
+<li>Chapter 5 - SDN</li>
 
-Chapter 5 - SDN
+<li>Chapter 6 - Geo-Distributed Cloud Data Center</li>
 
-Chapter 6 - Geo-Distributed Cloud Data Center
+<li>Chapter 7 - Leader Election in Rings Classical Distributed Algorithms</li>
 
-Chapter 7 - Leader Election in Rings Classical Distributed Algorithms
+<li>Chapter 8 - Ring LE and Bully LE</li>
 
-Chapter 8 - Ring LE and Bully LE
+<li>Chapter 9 - Design of Zookeeper</li>
 
-Chapter 9 - Design of Zookeeper
+<li>Chapter 10 - Time and Clock Synchronization </li>
 
-Chapter 10 - Time and Clock Synchronization 
+<li>Chapter 11- Global State and Snapshot Recording Algorithms</li>
 
-Chapter 11- Global State and Snapshot Recording Algorithms
+<li>Chapter 12- Mutual Exclusion</li>
 
-Chapter 12- Mutual Exclusion
+<li>Chapter 13- Consensus and Paxos</li>
 
-Chapter 13- Consensus and Paxos
+<li>Chapter 14- Byzantine Agreement</li>
 
-Chapter 14- Byzantine Agreement
+<li>Chapter 15- Failure and Recovery </li>
 
-Chapter 15- Failure and Recovery 
+<li>Chapter 16- Key values stores</li>
 
-Chapter 16- Key values stores
+<li>Chapter 17- Design of Hbase</li>
 
-Chapter 17- Design of Hbase
+<li>Chapter 18- Peer to peer sys</li>
 
-Chapter 18- Peer to peer sys
+<li>Chapter 19- Map Reduce</li>
 
-Chapter 19- Map Reduce
+<li>Chapter 20- Introduction to Spark</li>
 
-Chapter 20- Introduction to Spark
-
-Chapter 21- Introduction to Kafka
-
+<li>Chapter 21- Introduction to Kafka</li>
+</ul>
 
 ### Cloud Computing with Distributed Systems 
 

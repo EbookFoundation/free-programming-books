@@ -1,0 +1,31 @@
+### Index
+Cloud Computing with Distributed Systems
+* [Cloud](#Cloud Computing)
+
+Chapter 1 - Introduction to Cloud Computing
+Chapter 2 - Virtualization
+Chapter 3 - Hotspot Mitigation for Virtual Machine Migration
+Chapter 4 - Server Virtualization
+Chapter 5 - SDN
+Chapter 6 - Geo-Distributed Cloud Data Center
+Chapter 7 - Leader Election in Rings Classical Distributed Algorithms
+Chapter 8 - Ring LE and Bully LE
+Chapter 9 - Design of Zookeeper
+Chapter 10 - Time and Clock Synchronization 
+Chapter 11- Global State and Snapshot Recording Algorithms
+Chapter 12- Mutual Exclusion
+Chapter 13- Consensus and Paxos
+Chapter 14- Byzantine Agreement
+Chapter 15- Failure and Recovery 
+Chapter 16- Key values stores
+Chapter 17- Design of Hbase
+Chapter 18- Peer to peer sys
+Chapter 19- Map Reduce
+Chapter 20- Introduction to Spark
+Chapter 21- Introduction to Kafka
+
+
+### Cloud Computing with Distributed Systems 
+
+* [Cloud Computing and Distributed Systems ](https://drive.google.com/file/d/1Sa1W2ObhEFXbgDRbMuk3waY1lUo6Pwp2/view?usp=sharing) 
+

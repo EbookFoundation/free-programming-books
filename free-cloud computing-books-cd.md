@@ -2,9 +2,9 @@
 Cloud Computing with Distributed Systems
  [Cloud Computing]
 
-*Chapter 1 - Introduction to Cloud Computing
+*[Chapter 1 - Introduction to Cloud Computing]
 
-Chapter 2 - Virtualization
+*[Chapter 2 - Virtualization]
 
 Chapter 3 - Hotspot Mitigation for Virtual Machine Migration
 

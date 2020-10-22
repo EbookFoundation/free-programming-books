@@ -72,8 +72,8 @@
 
 ### MySQL
 
-* [Tutorial MySQL untuk Pemula Hingga Mahir](https://umardanny.com/tutorial-mysql-untuk-pemula-hingga-mahir-ebook-download-pdf/)
 * [Mysql For Your Application: Mysql Untuk Pemula](https://play.google.com/store/books/details/Onesinus_Saut_Parulian_3_Days_With_Mysql_For_Your?id=MbdTDwAAQBAJ) - Onesinus Saut Parulian, Google Play Books
+* [Tutorial MySQL untuk Pemula Hingga Mahir](https://umardanny.com/tutorial-mysql-untuk-pemula-hingga-mahir-ebook-download-pdf/)
 
 ### Node.js
 

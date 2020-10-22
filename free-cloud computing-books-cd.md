@@ -23,7 +23,7 @@
 
 <li>Chapter 9 -<a href="https://drive.google.com/file/d/1kOTZ1-nAujQ6xoYnl5UIdepj1dfs4Hem/view?usp=sharing"> Design of Zookeeper</li></a>
 
-<li>Chapter 10 - <a href="https://drive.google.com/file/d/1JlYmBdtvs1wT1pUWiBgLR_Aln1zcBd_Y/view?usp=sharing">Time and Clock Synchronization </li>
+<li>Chapter 10 - <a href="https://drive.google.com/file/d/1JlYmBdtvs1wT1pUWiBgLR_Aln1zcBd_Y/view?usp=sharing">Time and Clock Synchronization </li></a>
 
 <li>Chapter 11-<a href="https://drive.google.com/file/d/1JlYmBdtvs1wT1pUWiBgLR_Aln1zcBd_Y/view?usp=sharing"> Global State and Snapshot Recording Algorithms</li></a>
 

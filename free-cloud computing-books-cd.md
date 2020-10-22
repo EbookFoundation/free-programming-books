@@ -1,8 +1,8 @@
 ### Index
 Cloud Computing with Distributed Systems
-* [Cloud Computing]
+ [Cloud Computing]
 
-Chapter 1 - Introduction to Cloud Computing
+*Chapter 1 - Introduction to Cloud Computing
 
 Chapter 2 - Virtualization
 

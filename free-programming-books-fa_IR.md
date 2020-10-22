@@ -2,13 +2,13 @@
 
 * [C, C++](#c)
 * [CSS](#css)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [PHP](#php)
-  * [Symfony](#symfony)
   * [Laravel](#laravel)
+  * [Symfony](#symfony)
 * [Python](#python)
-* [Java](#java)
 * [R](#r)
 * [رایانش ابری](#%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D8%B4-%D8%A7%D8%A8%D8%B1%DB%8C)
 * [مهندسی نرم‌افزار](#%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1)
@@ -16,12 +16,20 @@
 
 
 ### C
-* [درس اصول برنامه‌نویسی سی و سی پلاس پلاس از دانشگاه صنعتی اصفهان](https://maktabkhooneh.org/course/%D8%A7%D8%B5%D9%88%D9%84-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-C-%D9%88-C-mk68/)
+
 * [آموزش زبان C](https://toplearn.com/courses/3255/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B2%D8%A8%D8%A7%D9%86-c)
+* [درس اصول برنامه‌نویسی سی و سی پلاس پلاس از دانشگاه صنعتی اصفهان](https://maktabkhooneh.org/course/%D8%A7%D8%B5%D9%88%D9%84-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-C-%D9%88-C-mk68/)
+
 
 ### CSS
 
 * [یادگیری پیکربندی با CSS](http://fa.learnlayout.com)
+
+
+### Java
+
+* [آموزش  برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos/)
+* [آموزش جاوا از صفر](https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1)
 
 
 ### JavaScript
@@ -40,17 +48,17 @@
 
 * [سیمفونی ۵: سریع‌ترین مسیر](https://symfony.com/doc/current/the-fast-track/fa/index.html)
 
+
 #### Laravel
+
 * [آموزش لاراول](https://roocket.ir/series/learn-laravel)
 * [آموزش لاراول](http://www.alefyar.com/laravel-tutorial)
+
 
 ### Python
 
 * [کتاب آزاد آموزش پایتون](http://python.coderz.ir)
 
-### Java
-* [آموزش  برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos/)
-* [آموزش جاوا از صفر](https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1)
 
 ### R
 
@@ -73,6 +81,9 @@
 
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
 
+
 ### یادگیری ماشین
-* [درس یادگیری ماشین دانشگاه صنعتی شریف](https://maktabkhooneh.org/course/273-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk273/)
+
 * [درس یادگیری ماشین دانشگاه استنفورد](https://maktabkhooneh.org/course/35-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk35/)
+* [درس یادگیری ماشین دانشگاه صنعتی شریف](https://maktabkhooneh.org/course/273-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk273/)
+

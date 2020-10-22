@@ -127,6 +127,7 @@
 * [CSS Diner](http://flukeout.github.io)
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
+* [FreeCodeCamp: Responsive Web Design Course](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 * [Grid Garden](https://cssgridgarden.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)

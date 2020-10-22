@@ -147,6 +147,7 @@
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
 * [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
+* [Freecodecamp:  Javascript algorithms and  data structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript) - Freecodecamp
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)

@@ -1,6 +1,7 @@
 ### Index
-Cloud Computing with Distributed Systems
- [Cloud Computing]
+### Cloud Computing with Distributed Systems 
+
+* [Cloud Computing and Distributed Systems ](https://drive.google.com/file/d/1Sa1W2ObhEFXbgDRbMuk3waY1lUo6Pwp2/view?usp=sharing) 
 <ul>
 <li>Chapter 1 - Introduction to Cloud Computing</li>
 
@@ -45,8 +46,6 @@ Cloud Computing with Distributed Systems
 <li>Chapter 21- Introduction to Kafka</li>
 </ul>
 
-### Cloud Computing with Distributed Systems 
 
-* [Cloud Computing and Distributed Systems ](https://drive.google.com/file/d/1Sa1W2ObhEFXbgDRbMuk3waY1lUo6Pwp2/view?usp=sharing) 
 
 

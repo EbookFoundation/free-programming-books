@@ -266,7 +266,18 @@
 
 ### Processing
 
-* [Learning Processing](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) (screencast)
+* [The Coding Train - Learning Processing - Introduction](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi) (screencast)
+* [The Coding Train - Learning Processing - Pixels](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bsRnSEJ9tRn4V_XCGXovs4) (screencast)
+* [The Coding Train - Learning Processing - Processing Environment](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9) (screencast)
+* [The Coding Train - Learning Processing - Interaction](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6by61pbhdvyEpIeymlmnXzD) (screencast)
+* [The Coding Train - Learning Processing - Loops](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ) (screencast)
+* [The Coding Train - Learning Processing - Functions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) (screencast)
+* [The Coding Train - Learning Processing - Object-Oriented Programming](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i) (screencast)
+* [The Coding Train - Learning Processing - Arrays](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bO9RKxHObluh-aPgrrvb4a) (screencast)
+* [The Coding Train - Learning Processing - Images and Pixels](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9) (screencast)
+* [The Coding Train - Learning Processing - Video](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8) (screencast)
+* [The Coding Train - Learning Processing - Kinect and Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf) (screencast)
+* [The Coding Train - Learning Processing - Text and Data](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Y4F21kqaFLk6oGW2I5o7FY) (screencast)
 
 
 ### Python

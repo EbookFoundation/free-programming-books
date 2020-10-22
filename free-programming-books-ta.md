@@ -55,9 +55,9 @@
 
 ### Ruby
 
-* [எளிய தமிழில் Ruby](http://www.kaniyam.com/download/learn-ruby-in-tamil.pdf)
+* [எளிய தமிழில் Ruby](http://www.kaniyam.com/download/learn-ruby-in-tamil.pdf) (PDF)
 
 
 ### Selenium
 
-* [எளிய தமிழில் Selenium](http://www.kaniyam.com/download/learn-selenium-in-tamil.pdf)
+* [எளிய தமிழில் Selenium](http://www.kaniyam.com/download/learn-selenium-in-tamil.pdf) (PDF)

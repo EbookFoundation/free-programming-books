@@ -2156,6 +2156,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [PHP Internals Book](http://www.phpinternalsbook.com)
 * [PHP Pandas](http://daylerees.com/php-pandas/) - Dayle Rees
 * [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks
+* [PHP Reference: Beginner to Intermediate PHP5](https://phpreferencebook.com/pdf/download/) - Mario Lurig (PDF)
 * [PHP Security Guide](http://phpsec.org/projects/guide/)
 * [PHP: The Right Way](http://www.phptherightway.com)
 * [PHPUnit Manual](https://phpunit.de/manual/current/en/phpunit-book.pdf) - Sebastian Bergmann (PDF)

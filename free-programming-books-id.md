@@ -109,6 +109,8 @@
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
 
+
+
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)

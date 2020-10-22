@@ -14,6 +14,7 @@
 * [Java](#java)
   * [Spring](#spring)
 * [JavaScript](#javascript)
+  * [Angular](#angular)
   * [React](#react)
   * [Vue](#vue)
 * [Kotlin](#kotlin)
@@ -29,6 +30,7 @@
   * [Flask](#flask)
   * [PyTorch](#pytorch)
 * [Redis](#redis)
+* [Typescript](#typescript)
 
 
 ### Android
@@ -82,6 +84,7 @@
 
 ### Git
 
+* [Belajar Git](https://www.youtube.com/playlist?list=PLuGFxya63u24bmP-ILRaiGeMwZh3PGxW4) - Galih Pratama
 * [Source Code Management untuk Pemula](https://www.dicoding.com/academies/116) - Dicoding, membutuhkan registrasi
 
 
@@ -124,6 +127,11 @@
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
+
+
+### Angular
+
+* [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo
 
 
 ### React
@@ -224,3 +232,10 @@
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Programmer Zaman Now
+
+
+### Typescript
+
+* [Belajar Typescript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
+* [Typescript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra
+

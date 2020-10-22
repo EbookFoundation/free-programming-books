@@ -18,6 +18,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+* [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)
 * [Lisp](#lisp)
@@ -97,6 +98,8 @@
 
 ### Git
 
+* [git-game](https://github.com/git-game/git-game)
+* [git-game-v2](https://github.com/git-game/git-game-v2)
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
@@ -159,6 +162,11 @@
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
+
+
+### Kotlin
+
+* [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
 
 
 ### Language Agnostic

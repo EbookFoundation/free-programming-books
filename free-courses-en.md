@@ -5,6 +5,7 @@
 * [Angular](#angular)
 * [Assembly](#assembly)
 * [Bash / Shell](#bash--shell)
+* [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -26,6 +27,7 @@
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [jQuery](#jquery)
+  * [Next.js](#nextjs)
   * [NodeJS](#nodejs)
   * [React](#react)
   * [React Native](#react-native)
@@ -45,6 +47,8 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
+  * [Flask](#flask)
 * [QB64](#QB64)
 * [R](#r)
 * [RethinkDB](#rethinkdb)
@@ -87,6 +91,7 @@
 
 * [Android Developer Fundamentals (Version 2) — Codelab](https://developer.android.com/courses/fundamentals-training/toc-v2)
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
+* [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
 * [Learn how to program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
 * [Material design](https://material.io/guidelines/)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
@@ -112,6 +117,12 @@
 
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
+
+
+### Bootstrap
+
+* [Bootstrap 4 Quick Start: Code Modern Responsive Websites](https://www.udemy.com/share/101qsw/) - Brad Hussey (Udemy)
+* [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
 
 
 ### C
@@ -311,6 +322,11 @@
 * [Introduction to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245) (Udacity)
 
 
+#### Next.js
+
+* [Mastering Next.js](https://masteringnextjs.com)
+
+
 #### NodeJS
 
 * [Beginner's Series to: Node.js](https://youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer (YouTube)
@@ -475,17 +491,27 @@
 * [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x) (edX)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python Beginners-Intermediate Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
+* [Python Built in Functions A to Z Tutorial and Examples](https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X) - Brainy Things
 * [Python Course](http://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
-* [Python Django Basics Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
-* [Python Flask Framework Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
-* [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 * [Python for Everybody](https://www.py4e.com/lessons) (Coursera Reading Materials with YouTube Videos)
 * [Python Learn Course](https://www.kaggle.com/learn/python) - Colin Morris (Kaggle)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [Python Tutorial](https://www.w3schools.com/python/) - W3Schools
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
+
+
+#### Django
+
+* [Django for Everybody](https://dj4e.sites.uofmhosting.net/lessons) (Coursera Reading Materials with YouTube Videos)
+* [Python Django Basics Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
+
+
+#### Flask
+
+* [Python Flask Framework Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
+* [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 
 
 ### QB64
@@ -572,9 +598,12 @@
 
 ### Web Development
 
+* [ASP.NET Core Tutorial For Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - Venkat (Pragim Technologies)
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Free Code Camp](https://www.freecodecamp.org)
+* [Full stack open](https://fullstackopen.com/en/) - University of Helsinki
 * [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
+

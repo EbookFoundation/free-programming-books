@@ -216,6 +216,7 @@
 
 #### Node.js
 
+* [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/) - Waldemar Neto *(necessário conta no Leanpub ou e-mail válido)*
 * [Node.js para Leigos](http://udgwebdev.com/nodejs/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
 

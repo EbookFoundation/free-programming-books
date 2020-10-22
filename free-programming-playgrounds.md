@@ -80,6 +80,7 @@
 ### Flutter
 
 * [Codepen](https://codepen.io/topic/flutter/templates)
+* [Flutter Studio](https://flutterstudio.app)
 
 
 ### GDScript
@@ -127,6 +128,7 @@
 ### Kotlin
 
 * [Kotlin](https://play.kotlinlang.org)
+* [Kotlin Playground](https://developer.android.com/training/kotlinplayground)
 
 
 ### Kubernetes

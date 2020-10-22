@@ -245,8 +245,6 @@
 * [Bento](https://www.bento.io)
 * [Bitsavers.org](http://bitsavers.trailing-edge.com)
 * [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks) Cookie required. (email address *requested*, not required)
-* [Cheat Sheets (Free)](https://dzone.com/refcardz)
-* [Cheat Sheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
 * [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com)
@@ -345,7 +343,7 @@
 * [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
-* [Think Complexity](http://greenteapress.com/complexity/) (PDF)
+* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 
 
 #### Artificial Intelligence
@@ -403,6 +401,7 @@
 * [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) - Jeannette Wing, Carnegie-Mellon University (PDF)
 * [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/src) - Dr. Chris Bourke (PDF) (:construction: *in process*)
 * [Computer Science II - Draft](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Dr. Chris Bourke (PDF) (:construction: *in process*)
+* [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial and Barbara Ericson (HTML)
 
 
 #### Computer Vision
@@ -859,7 +858,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/html/index.xhtml)
 * [The Black Art of Programming](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) - Mark McIlroy
 * [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
-* [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
+* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
 
 
 #### Web Performance
@@ -1108,6 +1107,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Boost C++ libraries](http://theboostcpplibraries.com)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
+* [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) - Allen B. Downey (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
 
 
@@ -1127,7 +1127,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html) - R. Mark Volkmann
 * [Clojure by Example](https://kimh.github.io/clojure-by-example/) - Hirokuni Kim
-* [Clojure Cheat Sheet](http://clojure.org/cheatsheet)
 * [Clojure community-driven documentation](http://clojure-doc.org)
 * [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
@@ -1366,7 +1365,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/)
 * [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
-* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 * [How to Collaborate on Github](https://github.com/eonist/How-to-collaborate-on-github) - André J
 * [Intoduction to Git and Github](https://launchschool.com/books/git) - Launch School
 * [Intoduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
@@ -1590,6 +1588,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Java EE7 Tutorial](https://docs.oracle.com/javaee/7/JEETT.pdf) - Eric Jendrock, et al (PDF)
 * [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 * [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book) - Kevin Sahin (PDF, HTML)
+* [Think Data Structures: Algorithms and Information Retrieval in Java](https://greenteapress.com/wp/think-data-structures/) - Allen B. Downey (PDF, HTML)
 * [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkapjava/) - Allen B. Downey and Chris Mayfield
 * [Welcome to Java for Python Programmers](https://runestone.academy/runestone/books/published/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
@@ -1616,6 +1615,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Spring Boot
 
+* [Building modern Web Apps with Spring Boot and Vaadin](https://v.vaadin.com/hubfs/Pdfs/Building%20Modern%20Web%20Apps%20with%20Spring%20Boot%20and%20Vaadin.pdf) (PDF)
 * [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/html/) - Phillip Webb et al. ([PDF](https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf))
 
 
@@ -1656,7 +1656,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js) - Dr. Axel Rauschmayer
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
-* [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF) 
+* [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
 * [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite
 * [JavaScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) (email address *requested*, not required)
@@ -1694,7 +1694,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [AngularJS Notes for Professionals](https://books.goalkicker.com/AngularJSBook) (PDF)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) (email address *requested*, not required)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma 
+* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma
 * [Practical Angular: Build your first web apps with Angular 8](https://leanpub.com/practical-angular) - Ahmed Bouchefra *(Leanpub account or valid email requested)*
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
@@ -1834,7 +1834,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) (PDF)
 * [The Vue.js Handbook](https://flaviocopes.nyc3.digitaloceanspaces.com/vue-handbook/vue-handbook.pdf) - Flavio Copes (PDF)
-* [Vue Essential Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf) (PDF)
 
 
 ### Jenkins
@@ -2288,7 +2287,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Code Like a Pythonista: Idiomatic Python](https://web.archive.org/web/20180411011411/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) - David Goodger
 * [CodeCademy Python](https://www.codecademy.com/learn/python)
 * [Composing Programs](http://composingprograms.com) (3.x)
-* [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML) (3.7)
 * [Cracking Codes with Python](http://inventwithpython.com/cracking/) - Al Sweigart
 * [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF)
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
@@ -2306,7 +2304,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
   * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)
-  * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
+  * [Think Python 2e](https://greenteapress.com/wp/think-python-2e/) - Allen B. Downey (2.x & 3.0)
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html#) - Muhammad Yasoob Ullah Khalid (1st edition)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
   * [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
@@ -2320,6 +2318,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
 * [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)
+* [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/) - Allen B. Downey (PDF)
 * [Modeling Creativity: Case Studies in Python](http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf) - Tom D. De Smedt (PDF)
 * [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - Wikibooks (3.3)
@@ -2364,7 +2363,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
 * [The Standard Python Library](http://effbot.org/librarybook/) - Fredrik Lundh
-* [Think Complexity](http://greenteapress.com/complexity/) - Allen B. Downey (2nd Edition) (PDF, HTML)
+* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
+* [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 

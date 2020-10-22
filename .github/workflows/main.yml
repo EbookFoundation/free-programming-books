@@ -1,4 +1,4 @@
-name: Check URLs from changed files
+name: Check all URLs from changed files
 on: [push, pull_request]
 jobs:
   job:

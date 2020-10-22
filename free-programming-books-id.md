@@ -76,7 +76,6 @@
 * [Tutorial MySQL untuk Pemula Hingga Mahir](https://umardanny.com/tutorial-mysql-untuk-pemula-hingga-mahir-ebook-download-pdf/)
 
 
-
 ### Node.js
 
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
@@ -110,7 +109,6 @@
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
-
 
 
 ### Vue

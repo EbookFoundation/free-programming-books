@@ -25,7 +25,7 @@
 
 ### Android
 
-* [Android Dersleri] (httpS://umiitkose.com/android/)
+* [Android Dersleri] (httpS://umiitkose.com/android)
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
 
 
@@ -119,7 +119,7 @@
 
 ### Django
 
-* [Django Egitimi](https://gokmengorgen.net/django-notes/)
+* [Django Egitimi](https://gokmengorgen.net/django-notes)
 * [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
 
 

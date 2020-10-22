@@ -25,14 +25,14 @@
 
 ### Android
 
-* [Android Dersleri] (httpS://umiitkose.com/android)
+* [Android Dersleri](https://umiitkose.com/android)
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
 
 
 ### C
 
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
-* [GNU C Kütüphanesi Basvuru Klavuzu] (http://www.belgeler.org/glibc/glibc.html)
+* [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
 * [Programlamaya Giriş Ders Notları](http://web.itu.edu.tr/uyar/programlama) - [H.Turgut Uyar](http://web.itu.edu.tr/uyar)
 
 
@@ -91,7 +91,7 @@
 ### Linux
 
 * [GNU Bash Başvuru Kılavuzu](http://belgeler.org/bashref/bashref.html)
-* [Gnu Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf)(PDF)
+* [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
 * [Linux Belgeleri](http://belgeler.org/howto/howtos.html)
 * [Linux Sistem Yöneticisinin Kılavuzu](http://belgeler.org/sag/sag.html)
 

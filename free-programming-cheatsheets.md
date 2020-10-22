@@ -5,11 +5,11 @@
 * [Git](#git)
 * [HTML / CSS](#html--css)
 * [JavaScript](#javascript)
-  * [Vue.js](#vuejs)
+* [Vue.js](#vuejs)
+* [Kubernetes](#Kubernetes)
 * [Markdown](#markdown)
 * [MongoDB](#mongodb)
 * [Python](#python)
-* [Kubernetes](#Kubernetes)
 
 ### Clojure
 
@@ -36,6 +36,9 @@
 
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
 
+### Kubernetes
+
+* [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet
 
 #### Vue.js
 
@@ -55,8 +58,3 @@
 ### Python
 
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
-
-### Kubernetes
-
-* [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet
-

@@ -159,7 +159,7 @@
 
 ### Kubernetes
 
-* [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil(Youtube)
+* [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil (Youtube)
 
 
 ### Linux
@@ -175,8 +175,8 @@
 
 ### Machine Learning
 
-* [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr
-* [Neural Networks e Deep Learning para Leigos: Sem Mistérios!](https://www.udemy.com/course/neural-networks-e-deep-learnig-para-leigos/) - Fernando Amaral
+* [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr (Udemy)
+* [Neural Networks e Deep Learning para Leigos: Sem Mistérios!](https://www.udemy.com/course/neural-networks-e-deep-learnig-para-leigos/) - Fernando Amaral (Udemy)
 
 
 ### Markdown
@@ -189,7 +189,7 @@
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
 * [Curso do Básico ao CRUD Node.js](https://app.rocketseat.com.br/node/curso-node-js) - *registration required*
 * [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (Youtube)
-* [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - NodeBR (EW)
+* [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - Erick Wendel (Teachable)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
 
 
@@ -225,7 +225,7 @@
 ### React Native
 
 * [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) -  Canal Geek Dev (YouTube)
-* [Curso do React Native implementando CRUD](https://app.rocketseat.com.br/node/curso-react-native) - *registration required*
+* [Curso do React Native implementando CRUD](https://app.rocketseat.com.br/node/curso-react-native) - *registration required* (Rocketseat)
 
 
 ### Ruby

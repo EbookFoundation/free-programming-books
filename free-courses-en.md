@@ -278,6 +278,7 @@
 
 ### Java
 
+* [Java Design Patterns and Architecture](https://www.udemy.com/course/java-design-patterns-tutorial/) - John Purcell (Udemy)
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
 * [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) - (Stanford)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
@@ -292,7 +293,7 @@
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
-* [Java Design Patterns and Architecture](https://www.udemy.com/course/java-design-patterns-tutorial/)-  John Purcell (Udemy)
+
 
 ### JavaScript
 

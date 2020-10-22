@@ -73,7 +73,6 @@
 * [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
 
 
-
 ### iOS
 
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)

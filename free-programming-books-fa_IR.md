@@ -65,4 +65,3 @@
 ### مهندسی نرم‌افزار
 
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
-

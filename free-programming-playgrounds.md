@@ -194,6 +194,7 @@
 ### Ruby
 
 * [Codepad](http://codepad.org)
+* [TryRuby](https://try.ruby-lang.org)
 
 
 ### Rust
@@ -234,3 +235,4 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
+

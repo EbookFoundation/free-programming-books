@@ -75,6 +75,7 @@
 * [Codeforces](http://codeforces.com/problemset)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
+* [Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms)
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](http://www.geeksforgeeks.org)

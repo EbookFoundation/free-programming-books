@@ -71,6 +71,7 @@
 * [Data Stories](http://datastori.es) (podcast)
 * [Learning Machines 101](http://www.learningmachines101.com) (podcast)
 * [Linear Digressions](http://www.lineardigressions.com) (podcast)
+* [Not So Standard Deviations](https://nssdeviations.com) (podcast)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast) (podcast)
 * [Partially Derivative](http://partiallyderivative.com) (podcast)
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)

@@ -80,6 +80,7 @@
 ### Flutter
 
 * [Codepen](https://codepen.io/topic/flutter/templates)
+* [Flutter Studio](https://flutterstudio.app)
 
 
 ### GDScript
@@ -175,6 +176,7 @@
 ### R
 
 * [R-Fiddle](http://www.r-fiddle.org)
+* [Rextester](https://rextester.com/l/r_online_compiler)
 
 
 ### React

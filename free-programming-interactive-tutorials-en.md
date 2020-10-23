@@ -167,14 +167,17 @@
 
 
 #### Bootstrap
+
 * [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
 
 #### jQuery
+
 * [Front End Libraries: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery)
 
 
 #### React.js
+
 * [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
 
 

@@ -84,7 +84,7 @@
 #### アクセシビリティ
 
 * [Accessible Rich Internet Applications](https://developer.mozilla.org/ja/docs/ARIA/Accessible_Rich_Internet_Applications) - MDN
-* [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAccessibility.pdf) - Apple Developer (PDF)
+* [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/accessibility/ios) - Apple Developer
 * [アクセシビリティのための設計](https://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
 
 

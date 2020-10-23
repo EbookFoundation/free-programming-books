@@ -22,6 +22,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 + [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
++ [Share on Tumblr](http://www.tumblr.com/share/link?url=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&name=Free%20Programming%20Books)
++ [Share on Pinterest](https://pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&description=Free%20Programming%20Books)
 
 
 ### In Other Written Languages

@@ -42,6 +42,7 @@
 
 ### Capture the flag
 
+* [CTFlearn](https://ctflearn.com) (email adress *requested*)
 * [Google Ctf](https://capturetheflag.withgoogle.com) (email adress *requested*)
 * [Hackthebox](https://www.hackthebox.eu) (email adress *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
@@ -51,6 +52,9 @@
 
 ### Data science
 
+* [AIcrowd](https://www.aicrowd.com)
+* [CodaLab](https://competitions.codalab.org)
+* [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
 
 

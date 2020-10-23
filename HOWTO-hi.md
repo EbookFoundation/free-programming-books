@@ -1,4 +1,4 @@
-इस लेख को अन्य भाषाओं में पढ़ें：[English](HOWTO.md), [简体中文](HOWTO-zh.md), [繁體中文](HOWTO-zh-TW.md)
+इस लेख को अन्य भाषाओं में पढ़ें：[English](HOWTO.md), [简体中文](HOWTO-zh.md), [繁體中文](HOWTO-zh-TW.md), [Português (BR)](HOWTO.pt_BR.md)
 
 फ्री-प्रोग्रामिंग-पुस्तकों में आपका स्वागत है! हम नए योगदानकर्ताओं का स्वागत करते हैं; यहां तक ​​कि उन लोगों के लिए जो गिथब पर अपना पहला पुल अनुरोध करते हैं। यदि आप उनमें से एक हैं, तो यहां कुछ संसाधन हैं जो मदद कर सकते हैं:
 * [About Pull Requests](https://help.github.com/articles/about-pull-requests/)

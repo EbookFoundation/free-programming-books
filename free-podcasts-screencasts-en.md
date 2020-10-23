@@ -15,7 +15,7 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
@@ -71,6 +71,7 @@
 * [Data Stories](http://datastori.es) (podcast)
 * [Learning Machines 101](http://www.learningmachines101.com) (podcast)
 * [Linear Digressions](http://www.lineardigressions.com) (podcast)
+* [Not So Standard Deviations](https://nssdeviations.com) (podcast)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast) (podcast)
 * [Partially Derivative](http://partiallyderivative.com) (podcast)
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
@@ -100,7 +101,9 @@
 
 ### Git
 
+* [All Things Git](https://www.allthingsgit.com) - Edward Thomson and Martin Woodward (podcast)
 * [GitMinutes](http://www.gitminutes.com) (podcast)
+* [Jhan Carlos Silva - Git and Github Tutorial](https://www.youtube.com/watch?v=NPRUsCcZwJ4) (screencast)
 * [The Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (screencast)
 
 
@@ -131,9 +134,11 @@
 ### Java
 
 * [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
+* [How to Program with Java Podcast](https://www.podbean.com/podcast-detail/6mxhc-344f7/How-to-Program-with-Java-Podcast) - Trevor Page (podcast)
+* [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime and Bob Paulin (podcast)
 
 
-### Javascript
+### JavaScript
 
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
 * [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript) (screencast)
@@ -162,10 +167,12 @@
 #### Ember.js
 
 * [Ember Weekend](https://emberweekend.com/episodes) (podcast)
+* [The EmberMap Podcast](https://embermap.com/podcast) - Sam Selikoff and Ryan Toronto (podcast)
 
 
 #### Node.js
 
+* [Node University](https://nodeuniversity.simplecast.fm) - Azat Mardan (podcast)
 * [Nodeup](http://nodeup.com) (podcast)
 * [Twitter Bot Tutorial - Node.js and Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) (screencast)
 
@@ -262,6 +269,7 @@
 ### PostgreSQL
 
 * [PG Casts](https://www.pgcasts.com) (screencast)
+* [Scaling Postgres](https://player.fm/series/scaling-postgres) - Ruby Tree Software Inc and Creston Jamison (podcast)
 
 
 ### Python
@@ -275,6 +283,7 @@
 * [Python Test Podcast](http://pythontesting.net/test-podcast) (podcast)
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) (screencast)
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm) (podcast)
+* [Teaching Python](https://www.teachingpython.fm) (podcast)
 * [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq) (screencast)
 * [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) (screencast)
 * [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d) (screencast)
@@ -297,8 +306,10 @@
 
 * [New Rustacean](http://www.newrustacean.com) (podcast)
 * [Rusty Radio](https://soundcloud.com/posix4e) (podcast)
+* [The Rustacean Station Podcast](https://rustacean-station.org) (podcast)
 
 
 ### Vim
 
 * [Free screencasts about the text editor Vim](http://vimcasts.org) (screencast)
+* [The Vim Blog](https://thevimblog.com/podcast) (podcast)

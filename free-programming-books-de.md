@@ -1,8 +1,7 @@
 ### Index
 
-* [0 - Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
+* [ABAP](#abap)
 * [Action Script](#action-script)
-* [Android](#android)
 * [Assembly Language](#assembly-language)
 * [C](#c)
 * [C#](#c-sharp)
@@ -14,10 +13,11 @@
 * [HTML & CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
+* [Neo4j](#neo4j)
 * [PHP](#php)
   * [Symfony](#symfony)
 * [Python](#python)
@@ -26,27 +26,21 @@
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [UML](#uml)
+* [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Unix](#unix)
 * [Visual Basic](#visual-basic)
 
 
-### Unabhängig von der Programmiersprache
+### ABAP
 
-* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
-* [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
-* [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
-* [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
+* [Einstieg in ABAP](http://openbook.rheinwerk-verlag.de/einstieg_in_abap/) - Karl-Heinz Kühnhauser, Thorsten Franz
+* [SAP Code Style Guides - Clean ABAP](https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP_de.md)
 
 
 ### Action Script
 
 * [ActionScript 1 und 2](http://openbook.rheinwerk-verlag.de/actionscript/)
 * [Einstieg in ActionScript](http://openbook.rheinwerk-verlag.de/actionscript_einstieg/)
-
-
-### Android
-
-* [Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf) (PDF)
 
 
 ### Assembly Language
@@ -60,9 +54,18 @@
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
+### C Sharp
+
+* [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
+* [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp/)
+* [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010/)
+* [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
+
+
 ### C++
 
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de)
+* [Lean Testing für C++-Programmierer (2018)](https://www.assets.dpunkt.de/openbooks/Openbook_Lean_Testing.pdf) - Andreas Spillner, Ulrich Breymann (PDF)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 
@@ -72,12 +75,12 @@
 * [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
 
 
-### C Sharp
+### Git
 
-* [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/)
-* [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp/)
-* [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010/)
-* [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
+* [Das Git-Buch](http://gitbu.ch) [PDF, EPUB]
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
+* [Pro Git (2009)](http://git-scm.com/book/de/v1)
+* [Pro Git (neue Version)](http://git-scm.com/book/de/current) (:construction: *in process*)
 
 
 ### Go
@@ -85,14 +88,6 @@
 * [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html)
 * [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
 * [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/)
-
-
-### Git
-
-* [Das Git-Buch](http://gitbu.ch) [PDF, EPUB]
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
-* [Pro Git (2009)](http://git-scm.com/book/de/v1)
-* [Pro Git (neue Version)](http://git-scm.com/book/de/current) (:construction: *in process*)
 
 
 ### Groovy
@@ -126,7 +121,7 @@
 * [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
 
 
-### Javascript
+### JavaScript
 
 * [JavaScript](http://www.peterkropff.de/site/javascript/javascript.htm) — Peter Kropff (Grundlagen, AJAX, DOM, OOP) [Online, PDF]
 * [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax/)
@@ -150,6 +145,11 @@
 * [MySQL](http://www.peterkropff.de/site/mysql/mysql.htm) — Peter Kropff [Online, PDF]
 
 
+### Neo4j
+
+* [Neo4j 2.0 – Eine Graphdatenbank für alle](https://neo4j.com/neo4j-graphdatenbank-book/) - Michael Hunger (PDF) *(email requested)*
+
+
 ### PHP
 
 * [PHP](http://www.peterkropff.de/site/php/php.htm) — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
@@ -165,6 +165,7 @@
 ### Python
 
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
+* [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python/) - Johannes Ernesti, Peter Kaiser (Online)
 
 
 #### Django
@@ -194,6 +195,14 @@
 ### UML
 
 * [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml/)
+
+
+### Unabhängig von der Programmiersprache
+
+* [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de)
+* [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
+* [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
+* [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) (PDF)
 
 
 ### Unix

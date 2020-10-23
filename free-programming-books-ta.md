@@ -4,8 +4,9 @@
 * [CSS](#CSS)
 * [Database](#Database)
 * [HTML](#HTML)
-* [Javascript](#Javascript)
+* [JavaScript](#Javascript)
 * [Machine Learning](#MachineLearning)
+* [MySQL](#MySQL)
 * [PHP](#PHP)
 
 
@@ -30,7 +31,7 @@
 * [எளிய தமிழில் HTML](http://www.kaniyam.com/learn-html-in-tamil/)
 
 
-### Javascript
+### JavaScript
 
 * [எளிய தமிழில் JavaScript](http://www.kaniyam.com/learn-javascript-in-tamil/)
 
@@ -38,6 +39,11 @@
 ### MachineLearning
 
 * [எளிய தமிழில் ML](http://www.kaniyam.com/download/e0ae8ee0aeb3e0aebfe0aeaf-e0aea4e0aeaee0aebfe0aeb4e0aebfe0aeb2e0af8d-machine-learning-a4-pdf.html)
+
+
+### MySQL
+
+* [எளிய தமிழில் MySQL](http://www.kaniyam.com/mysql-book-in-tamil/)
 
 
 ### PHP

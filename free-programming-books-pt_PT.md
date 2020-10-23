@@ -4,7 +4,7 @@
 * [CSS](#css)
 * [Haskell](#haskell)
 * [LaTeX](#latex)
-* [Laravel](#larave)
+* [Laravel](#laravel)
 * [Prolog](#prolog)
 * [Python](#python)
 

@@ -90,7 +90,7 @@
 
 ### Android
 
-* [Android Course Track - Harvard](https://cs50.harvard.edu/x/2020/tracks/mobile/android/)
+* [Android Course Track - Harvard](https://cs50.harvard.edu/x/2020/tracks/mobile/android/) - David J. Malan (Harvard OpenCourseWare)
 * [Android Developer Fundamentals (Version 2) — Codelab](https://developer.android.com/courses/fundamentals-training/toc-v2)
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
 * [Learn how to program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.

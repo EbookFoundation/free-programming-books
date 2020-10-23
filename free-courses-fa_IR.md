@@ -5,6 +5,7 @@
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
+  * [Laravel](#laravel)
 * [Python](#python)
 
 
@@ -33,6 +34,8 @@
 
 
 ### PHP
+
+#### Laravel
 
 * [آموزش لاراول](https://roocket.ir/series/learn-laravel) - Hesam Mousavi
 * [آموزش لاراول](http://www.alefyar.com/laravel-tutorial) - Abolfazl Talebi

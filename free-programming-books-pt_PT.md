@@ -4,8 +4,10 @@
 * [CSS](#css)
 * [Haskell](#haskell)
 * [LaTeX](#latex)
+* [Laravel](#larave)
 * [Prolog](#prolog)
 * [Python](#python)
+
 
 
 ### C/C++
@@ -29,6 +31,10 @@
 * [Uma não tão pequena introdução ao LaTeX](http://alfarrabio.di.uminho.pt/~albie/lshort/pt-lshort.pdf) - Tradução de Alberto Simões (PDF)
 * [Uma não tão pequena introdução ao LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/portuguese)
 
+
+### Laravel
+
+* [Laravel Portugal Live (podcast)](https://laravelportugal.simplecast.fm/) - @joselaborges
 
 ### Prolog
 

@@ -48,6 +48,7 @@ ADV - продвинутый. Тонкости.
 * [Технологический стек NodeJS](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md) - Тимур Шемсединов (INT)
 * [Функциональное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md) - Тимур Шемсединов (INT)
 * [Шаблоны проектирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md) - Тимур Шемсединов (INT)
+* [Вы не знаете JS (серия книг)] (https://github.com/azat-io/you-dont-know-js-ru)
 
 
 #### Node.js

@@ -59,14 +59,14 @@
 
 ### C Sharp
 
-* [C# Tutorial](https://www.w3schools.com/cs)
+* [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
 * [Codeasy](https://codeasy.net/course/csharp_elementary)
 * [Learn C#](http://www.learncs.org)
 
 
 ### C++
 
-* [C++ Tutorial](https://www.w3schools.com/cpp)
+* [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
 
 
@@ -140,7 +140,7 @@
 
 * [CodingBat code practice](http://codingbat.com/java)
 * [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
-* [Java Tutorial by w3schools](https://www.w3schools.com/java/default.asp)
+* [Java Tutorial](https://www.w3schools.com/java) - W3Schools 
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -153,7 +153,7 @@
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
-* [Javascript Tutorial](https://www.w3schools.com/js/default.asp) - w3schools
+* [Javascript Tutorial](https://www.w3schools.com/js/default.asp) - W3Schools
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
@@ -200,7 +200,7 @@
 ### Node
 
 * [Node School](http://nodeschool.io)
-* [Node.js Tutorial by w3schools](https://www.w3schools.com/nodejs/default.asp)
+* [Node.js Tutorial](https://www.w3schools.com/nodejs) - W3Schools
 
 
 ### NoSQL
@@ -223,7 +223,7 @@
 
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
-* [PHP tutorial by w3schools](https://www.w3schools.com/php/default.asp)
+* [PHP tutorial](https://www.w3schools.com/php) - W3Schools
 
 
 ### Python
@@ -234,7 +234,7 @@
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
-* [Python Tutorial](https://www.w3schools.com/python/default.asp) - w3schools
+* [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 
 ### Ruby

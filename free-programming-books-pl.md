@@ -60,7 +60,7 @@
 
 * [Darmowy kurs C#](http://kurs.aspnetmvc.pl/Csharp)
 * [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając
-* [Kurs podstawy C#](http://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-csharpa) - Cezary Walenciuk
+* [Kurs podstawy C#](https://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-c-sharp) - Cezary Walenciuk
 * [Programowanie w języku C#](https://4programmers.net/C_sharp)
 * [Wstęp do programowania w C#](http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF)
 

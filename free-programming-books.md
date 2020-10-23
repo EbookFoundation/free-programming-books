@@ -763,6 +763,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/) - Sundeep Agarwal
 * [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/) - Sundeep Agarwal
+* [Regular Expressions Cookbook](https://karczmarczuk.users.greyc.fr/TEACH/TAL/Doc/Regular%20Expressions.pdf) - Jan Goyvaerts and Steven Levithan (PDF)
 * [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me) - Shreyas Minocha
 * [RexEgg](http://www.rexegg.com)
 * [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/) - Sundeep Agarwal

@@ -153,8 +153,8 @@
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
-* [Javascripting](https://github.com/sethvincent/javascripting)
 * [Javascript Tutorial](https://www.w3schools.com/js/default.asp) - w3schools
+* [Javascripting](https://github.com/sethvincent/javascripting)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
@@ -222,8 +222,8 @@
 ### PHP
 
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
-* [PHP tutorial by w3schools](https://www.w3schools.com/php/default.asp)
 * [Learn PHP](http://www.learn-php.org)
+* [PHP tutorial by w3schools](https://www.w3schools.com/php/default.asp)
 
 
 ### Python

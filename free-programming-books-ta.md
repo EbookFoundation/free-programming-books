@@ -54,4 +54,4 @@
 
 ### Ruby
 
-* [எளிய இனிய கணினி மமமொழ Ruby](http://www.kaniyam.com/download/learn-ruby-in-tamil.pdf) - பிரியா சுந்தரமூர்த்தி (PDF)
+* [எளிய இனிய கணினி மொழி Ruby](http://www.kaniyam.com/download/learn-ruby-in-tamil.pdf) - பிரியா சுந்தரமூர்த்தி (PDF)

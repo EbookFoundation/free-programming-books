@@ -44,3 +44,11 @@
 ### Python
 
 * [Python Tutorial For Beginners | Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - Harry
+
+### HTML & HTML5
+
+* [HTML and HTML5 (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhihSr4HroBBQt_quHL42JLif) - Geeky Shows
+
+### CSS and CSS3
+
+* [CSS and CSS 3 (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhiisW-k9eEON2vxGABv-PafB) - Geeky Shows

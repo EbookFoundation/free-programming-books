@@ -323,19 +323,19 @@
 * [JGGUG G*Magazine](http://grails.jp/g_mag_jp/) - JGGUG(日本Grails/Groovyユーザーグループ) (PDF, EPUB)
 
 
-### Gradle
+#### Gradle
 
 * [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs/) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf))
 * [ビルドツールGradleスタートアップガイドの紹介](https://www.ntts.co.jp/column/tec/java_03/) - 鈴木雅貴
 
 
-### Grails
+#### Grails
 
 * [Grailsフレームワーク 日本語リファレンス](http://grails.jp/doc/latest/) - T.Yamamoto & Japanese Grails Doc Translating Team. Special thanks to NTT Software.
 * [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/) - 須藤悠
 
 
-### Spock Framework
+#### Spock Framework
 
 * [G*ワークショップZ May 2013 - Spockハンズオンの資料](https://github.com/yamkazu/spock-workshop/tree/master/docs) - Kazuki YAMAMOTO
 * [Spock Framework リファレンスドキュメント](http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/) - Peter Niederwieser, Kazuki YAMAMOTO

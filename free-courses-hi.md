@@ -16,12 +16,14 @@
 
 ### C
 
+* [All C Concepts with Free Handwritten Notes | Hindi] (https://youtu.be/ZSPZob_1TOk) - Harry
 * [All C Concepts | Hindi](https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
 
 
 ### C++
 
 * [The Complete C++ Course | Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+* [C++ Tutorials In Hindi | Hindi] (https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - Harry
 
 
 ### Data Structures
@@ -29,6 +31,7 @@
 * [All Data Structure Concepts | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
 * [All Sorting algorithms and Programs | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
 * [Data Structure Programs | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
+* [Data Structures and Algorithms Course in Hindi | Hindi] (https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - Harry
 
 
 ### Java

@@ -176,7 +176,7 @@
 * [Front End Libraries: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery)
 
 
-#### React.js
+#### React
 
 * [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
 

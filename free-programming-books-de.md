@@ -131,7 +131,7 @@
 
 #### React
 
-* [React lernen und verstehen](https://lernen.react-js.dev/) - Manuel Bieh (HTML)
+* [React lernen und verstehen](https://lernen.react-js.dev) - Manuel Bieh (HTML)
 
 
 ### LaTeX

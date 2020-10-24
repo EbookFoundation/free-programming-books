@@ -14,6 +14,7 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [React](#react)
 * [LaTeX](#latex)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
@@ -128,6 +129,11 @@
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
 
 
+#### React
+
+* [React lernen und verstehen](https://lernen.react-js.dev/) - Manuel Bieh (HTML)
+
+
 ### LaTeX
 
 * [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) (PDF)
@@ -164,6 +170,7 @@
 
 ### Python
 
+* [Einführung in Python](http://www.mschimmels.de/eigeneDateien/Python-Kurs.pdf) - Martin Schimmels (PDF)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python/) - Johannes Ernesti, Peter Kaiser (Online)
 

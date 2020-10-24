@@ -11,6 +11,7 @@
   * [Arquitetura de Software](#arquitetura-de-software)
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
   * [Outros](#outros)
+* [Fundamentos Matemáticos Computacionais](#fundamentos-matematicos-computacionais)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -104,6 +105,11 @@
 
 * [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
+
+
+### Fundamentos Matemáticos Computacionais
+
+* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas (:construction: *in process*)
 
 
 ### Git
@@ -280,8 +286,10 @@
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
 * [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
+* [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 * [Pense em Python](https://penseallen.github.io/PensePython2e)
+* [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/)
 * [Python Funcional](https://dunossauro.github.io/python-funcional/) - Eduardo Mendes
 * [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF)
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
@@ -321,4 +329,3 @@
 * [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 * [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza
-

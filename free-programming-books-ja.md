@@ -246,6 +246,13 @@
 * [江添亮のC++入門](https://ezoeryou.github.io/cpp-intro/) - 江添亮
 
 
+### Clojure
+
+* [Clojureスタイルガイド](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
+* [Modern cljs(翻訳中)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
+* [逆引きClojure](https://github.com/making/rd-clj) - Toshiaki Maki
+
+
 ### CoffeeScript
 
 * [CoffeeScript 言語リファレンス](http://memo.sappari.org/coffeescript/coffeescript-langref)
@@ -253,13 +260,6 @@
 * [The Little Book on CoffeeScript](http://minghai.github.io/library/coffeescript/) - Alex MacCaw, Narumi Katoh(翻訳)
 * [基本操作逆引きリファレンス（CoffeeScript）](http://kyu-mu.net/coffeescript/revref/) - 飯塚直
 * [正規表現リファレンス（CoffeeScript)](http://kyu-mu.net/coffeescript/regexp/) - 飯塚直
-
-
-### Clojure
-
-* [Clojureスタイルガイド](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
-* [Modern cljs(翻訳中)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
-* [逆引きClojure](https://github.com/making/rd-clj) - Toshiaki Maki
 
 
 ### Common Lisp

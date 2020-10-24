@@ -26,6 +26,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [DenoJS](#denojs)
   * [jQuery](#jquery)
   * [Next.js](#nextjs)
   * [NodeJS](#nodejs)
@@ -34,7 +35,6 @@
   * [Redux](#redux)
   * [Sails.js](#sailsjs)
   * [Vue.js](#vuejs)
-  * [DenoJS](#denojs)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Lua](#lua)
@@ -320,6 +320,11 @@
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
+#### DenoJS
+
+* [Deno Beginner](https://denobeginner.com/)
+
+
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
@@ -367,10 +372,6 @@
 * [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
-
-#### DenoJS
-
-* [Deno Beginner](https://denobeginner.com/)
 
 
 ### Kubernetes

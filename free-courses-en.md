@@ -219,7 +219,7 @@
 
 ### Game Development
 
-* [Games Track - Harvard](https://cs50.harvard.edu/x/2020/tracks/games/) - David J. Malan (Harvard OpenCourseWare)
+* [CS50 2019 - Games Track](https://www.youtube.com/playlist?list=PLhQjrBD2T382mHvZB-hSYWvoLzYQzT_Pb) - David J. Malan (Harvard OpenCourseWare)
 * [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)
 
 

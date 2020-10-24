@@ -87,3 +87,4 @@
 * [درس یادگیری ماشین دانشگاه استنفورد](https://maktabkhooneh.org/course/35-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk35/)
 * [درس یادگیری ماشین دانشگاه صنعتی شریف](https://maktabkhooneh.org/course/273-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk273/)
 
+

@@ -194,8 +194,8 @@
 ### Ruby
 
 * [Codepad](http://codepad.org)
-* [TryRuby](https://try.ruby-lang.org)
 * [Sololearn](https://code.sololearn.com/#rb)
+* [TryRuby](https://try.ruby-lang.org)
 
 
 ### Rust

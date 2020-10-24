@@ -30,6 +30,7 @@
   * [Flask](#flask)
   * [PyTorch](#pytorch)
 * [Redis](#redis)
+* [Solidity](#solidity)
 * [Typescript](#typescript)
 
 
@@ -52,11 +53,6 @@
 * [Belajar C++ - Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7-RC_-hkL9gu0_ofABw862) - Kelas Terbuka
 * [Belajar C++ Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI) - Kelas Terbuka
 * [Memulai Pemrograman dengan C](https://www.dicoding.com/academies/120) - Dicoding, membutuhkan registrasi
-
-
-### C#
-
-* [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
 
 
 ### C#
@@ -238,6 +234,11 @@
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Programmer Zaman Now
+
+
+### Solidity
+
+* [Ethereum Blockchain Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLNl8QwXqW_lvWSc3n3geFSbBtmJvEl4nz) - Odoo Indonesia vITraining
 
 
 ### Typescript

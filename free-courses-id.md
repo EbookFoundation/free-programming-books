@@ -11,6 +11,7 @@
 * [JavaScript](#javascript)
   * [React](#react)
   * [Vue](#vue)
+  * [Node.js](#node.js)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#Linux)
@@ -172,3 +173,7 @@
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Programmer Zaman Now
+
+### Node.js
+
+* [Pelajaran Node.js Sederhana](https://easy-to-learn5.teachable.com/p/nodejs) - Easy To Learn

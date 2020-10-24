@@ -1,12 +1,20 @@
 ### Index
 
+* [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#Android)
 * [C](#C)
 * [C++](#C++)
-* [Data Structures](#DataStructures)
+* [HTML/CSS](#html--css)
 * [Java](#Java)
 * [Javascript](#Javascript)
 * [Python](#Python)
+
+
+### Algorithms & Data Structures
+
+* [All Data Structure Concepts | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
+* [All Sorting algorithms and Programs | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
+* [Data Structure Programs | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
 
 
 ### Android
@@ -23,12 +31,10 @@
 
 * [The Complete C++ Course | Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
 
+### HTML / CSS
 
-### Data Structures
-
-* [All Data Structure Concepts | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
-* [All Sorting algorithms and Programs | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
-* [Data Structure Programs | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
+* [HTML and HTML5 (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhihSr4HroBBQt_quHL42JLif) - Geeky Shows
+* [CSS and CSS 3 (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhiisW-k9eEON2vxGABv-PafB) - Geeky Shows
 
 
 ### Java

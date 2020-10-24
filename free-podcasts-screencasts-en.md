@@ -294,6 +294,7 @@
 ### Ruby
 
 * [5by5 - Ruby on Rails Podcast](http://5by5.tv/rubyonrails) (podcast)
+* [Code with Jason](https://www.codewithjason.com/rails-with-jason-podcast/) (podcast)
 * [Drifting Ruby](https://www.driftingruby.com) (screencast)
 * [Railscasts](http://railscasts.com) (screencast)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) (podcast)

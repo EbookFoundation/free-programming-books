@@ -14,6 +14,7 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [React](#react)
 * [LaTeX](#latex)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
@@ -126,6 +127,11 @@
 * [JavaScript](http://www.peterkropff.de/site/javascript/javascript.htm) — Peter Kropff (Grundlagen, AJAX, DOM, OOP) [Online, PDF]
 * [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax/)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
+
+
+#### React
+
+* [React lernen und verstehen](https://lernen.react-js.dev) - Manuel Bieh (HTML)
 
 
 ### LaTeX

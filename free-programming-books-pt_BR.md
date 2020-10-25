@@ -1,6 +1,7 @@
-﻿### Índice
+### Índice
 
 * [Agnósticos](#agnosticos)
+  * [Programação](#programação)
   * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
 * [C](#c)
@@ -47,9 +48,14 @@
 
 ### Agnósticos
 
+#### Programação
+
+* [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
+
+
 #### Sistemas Operacionais
 
-* [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF) 
+* [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
 * [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (:construction: *em contínuo desenvolvimento*)
 
 
@@ -96,9 +102,9 @@
 
 #### Arquitetura de Software
 
- * [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/) (PDF)   
- * [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)    
- * [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)  
+ * [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/) (PDF)
+ * [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)
+ * [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)
 
 
 #### Outros

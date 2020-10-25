@@ -6,9 +6,9 @@
 
 ### Laravel
 
-* [Laravel Portugal Live (Video podcast)](https://laravelportugal.simplecast.fm) - Segunda época do Live stream quinzenal no Youtube dos membros do Laravel Portugal, onde são convidadps diversos programadores da cena laravel nacional, e apresentados os seus projetos, em amena conversa de café, onde não poderia faltar a nêspera :) Apresentado por @caneco. Sempre no bom português de Portugal, onde já estiveram convidados como: @joselaborges, @jpatricio, @brunocfalcao, @enunomaduro, @quetzyg, @a_fsardo entre outros.
+* [Laravel Portugal Live (Audio/Video podcast)](https://laravelportugal.simplecast.fm) - Segunda época do Live stream quinzenal no Youtube dos membros do Laravel Portugal, onde são convidadps diversos programadores da cena laravel nacional, e apresentados os seus projetos, em amena conversa de café, onde não poderia faltar a nêspera :) Apresentado por @caneco. Sempre no bom português de Portugal, onde já estiveram convidados como: @joselaborges, @jpatricio, @brunocfalcao, @enunomaduro, @quetzyg, @a_fsardo entre outros.
 
 
-### Ubuntu Portugal
+### Ubuntu
 
 * [Ubuntu Portugal (Audio podcast)](https://podcastubuntuportugal.org) - Este é um podcast português sobre a comunicade Ubuntu Portugal, mas concretamente um podcast audio, gravado sensivelmente todas as semanas, apresentado por Diogo Constantino e Tiago Carrondo, editado por Alexandre Carrapiço. Aqui só se falar de Ubuntu em português.

@@ -14,7 +14,9 @@ The [Free Ebook Foundation](https://ebookfoundation.org) now administers the rep
 
 ### How To Contribute
 
-Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome](/HOWTO.md)!
+If you would like to contribute, please read [CONTRIBUTING](/CONTRIBUTING.md) before doing so. 
+
+If you're new to GitHub, [welcome](/HOWTO.md)!
 
 ### How to Share
 

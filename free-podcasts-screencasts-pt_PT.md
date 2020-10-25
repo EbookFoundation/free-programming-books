@@ -6,7 +6,7 @@
 
 ### Laravel
 
-* [Laravel Portugal Live (podcast)](https://laravelportugal.simplecast.fm/) - @joselaborges
+* [Laravel Portugal Live (podcast)](https://laravelportugal.simplecast.fm/) - Os membros do Laravel Portugal reunem-se para falar sobre Laravel, PHP, a comunidade Portuguesa, ideias e muito mais. @joselaborges
 
 
 ### Ubuntu Portugal

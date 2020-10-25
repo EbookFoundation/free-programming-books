@@ -6,7 +6,7 @@
 
 ### Laravel
 
-* [Laravel Portugal Live - @caneco](https://laravelportugal.simplecast.fm) (podcast)
+* [Laravel Portugal Live - @caneco](https://laravelportugal.simplecast.fm) (screencast)0
 
 
 ### Ubuntu

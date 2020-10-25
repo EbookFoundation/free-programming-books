@@ -1517,7 +1517,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### HTTPS
 
-* [HOW HTTPS WORKS](https://howhttps.works/) - Launch School
+* [HOW HTTPS WORKS](https://howhttps.works/) - dnsimple
 
 
 ### Idris

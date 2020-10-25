@@ -79,6 +79,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Persian / Farsi (Iran) / فارسى](free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](free-courses-pl.md)
 + [Portuguese (Brazil)](free-courses-pt_BR.md)
++ [Portuguese (Portugal)](free-courses-pt_PT.md)
 + [Russian / Русский язык](free-courses-ru.md)
 + [Spanish / español / castellano](free-courses-es.md)
 + [Thai / ภาษาไทย](free-courses-th.md)

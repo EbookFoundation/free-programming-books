@@ -200,7 +200,6 @@
 
 
 
-
 ### Python
 
 * [Algoritmos em Python](https://algoritmosempython.com.br) - Douglas do Couto

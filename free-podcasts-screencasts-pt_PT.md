@@ -11,4 +11,4 @@
 
 ### Ubuntu
 
-* [Ubuntu Portugal (Audio podcast)](https://podcastubuntuportugal.org) - Este é um podcast português sobre a comunicade Ubuntu Portugal, mas concretamente um podcast audio, gravado sensivelmente todas as semanas, apresentado por Diogo Constantino e Tiago Carrondo, editado por Alexandre Carrapiço. Aqui só se falar de Ubuntu em português.
+* [Ubuntu Portugal (Audio podcast)](https://podcastubuntuportugal.org) - Este é um podcast português sobre a comunicade Ubuntu Portugal, mais concretamente um podcast audio, gravado sensivelmente todas as semanas, apresentado por Diogo Constantino e Tiago Carrondo, editado por Alexandre Carrapiço. Aqui só se falar de Ubuntu em português.

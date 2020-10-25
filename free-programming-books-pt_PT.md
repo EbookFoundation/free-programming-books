@@ -32,10 +32,6 @@
 * [Uma não tão pequena introdução ao LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/portuguese)
 
 
-### Laravel
-
-* [Laravel Portugal Live (podcast)](https://laravelportugal.simplecast.fm/) - @joselaborges
-
 ### Prolog
 
 * [Lógica Computacional (com Prolog)](http://www4.di.uminho.pt/~mjf/pub/LC-Prolog.pdf) - Maria João Frade (PDF)

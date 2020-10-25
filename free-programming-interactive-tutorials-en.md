@@ -279,6 +279,7 @@
 
 ### SQL
 
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
 

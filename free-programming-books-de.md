@@ -2,6 +2,7 @@
 
 * [ABAP](#abap)
 * [Action Script](#action-script)
+* [Android](#android)
 * [Assembly Language](#assembly-language)
 * [C](#c)
 * [C#](#c-sharp)
@@ -14,6 +15,7 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [React](#react)
 * [LaTeX](#latex)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
@@ -41,6 +43,11 @@
 
 * [ActionScript 1 und 2](http://openbook.rheinwerk-verlag.de/actionscript/)
 * [Einstieg in ActionScript](http://openbook.rheinwerk-verlag.de/actionscript_einstieg/)
+
+
+### Android
+
+* [Einführung in die Entwicklung von Apps für Android 8](https://www.uni-trier.de/fileadmin/urt/doku/android/android.pdf) - Bernhard Baltes-Götz (PDF)
 
 
 ### Assembly Language
@@ -126,6 +133,11 @@
 * [JavaScript](http://www.peterkropff.de/site/javascript/javascript.htm) — Peter Kropff (Grundlagen, AJAX, DOM, OOP) [Online, PDF]
 * [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax/)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
+
+
+#### React
+
+* [React lernen und verstehen](https://lernen.react-js.dev) - Manuel Bieh (HTML)
 
 
 ### LaTeX

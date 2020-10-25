@@ -75,6 +75,7 @@
 ### Elm
 
 * [Ellie](https://ellie-app.com)
+* [Try Elm!](https://elm-lang.org/try)
 
 
 ### Flutter
@@ -194,6 +195,7 @@
 ### Ruby
 
 * [Codepad](http://codepad.org)
+* [Sololearn](https://code.sololearn.com/#rb)
 * [TryRuby](https://try.ruby-lang.org)
 
 
@@ -235,4 +237,6 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
+
+
 

@@ -1,12 +1,18 @@
 ### Index
 
++ [Desenvolvimento Web](#desenvolvimentoweb)
 * [Laravel](#laravel)
 * [Ubuntu](#ubuntu)
 
 
+### Desenvolvimento Web
+
+* [10web - Ricardo Correia, Vitor Silva e Ana Sampaio](https://10web.pt/acerca) (podcast)
+
+
 ### Laravel
 
-* [Laravel Portugal Live - @caneco](https://laravelportugal.simplecast.fm) (screencast)0
+* [Laravel Portugal Live - @caneco](https://laravelportugal.simplecast.fm) (screencast)
 
 
 ### Ubuntu

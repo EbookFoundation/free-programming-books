@@ -25,12 +25,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Share on Tumblr](http://www.tumblr.com/share/link?url=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&name=Free%20Programming%20Books)
 + [Share on Pinterest](https://pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&description=Free%20Programming%20Books)
 
-
-
-
-
-
-
 ### In Other Written Languages
 
 + [Arabic / al arabiya / العربية](free-programming-books-ar.md)

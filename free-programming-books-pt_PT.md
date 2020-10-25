@@ -4,10 +4,8 @@
 * [CSS](#css)
 * [Haskell](#haskell)
 * [LaTeX](#latex)
-* [Laravel](#laravel)
 * [Prolog](#prolog)
 * [Python](#python)
-
 
 
 ### C/C++

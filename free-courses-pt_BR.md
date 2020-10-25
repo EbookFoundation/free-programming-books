@@ -199,7 +199,6 @@
 * [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
 
 
-
 ### Python
 
 * [Algoritmos em Python](https://algoritmosempython.com.br) - Douglas do Couto

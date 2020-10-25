@@ -194,6 +194,7 @@
 * [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) (HTML)
 * [Estructura con CSS](http://es.learnlayout.com) (HTML)
 * [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas (PDF)
+* [HTML5](https://openlibra.com/es/book/html5) - Arkaitz Garro (PDF)
 * [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-css)
 
 

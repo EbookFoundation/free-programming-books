@@ -142,6 +142,7 @@
 * [Tutorial React JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - Lampung JS
 
 
+
 ### Vue
 
 * [Tutorial Vue JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ) - Sekolah Koding
@@ -203,6 +204,7 @@
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Parsinta
 * [Membuat Tabel Post Tampilan](https://youtu.be/sYTin40_Ukw) - Kawan Koding
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
+* [Belajar Laravel Pemula](https://www.youtube.com/watch?v=XDSz_J0UTXw&list=PLIan8aHxsPj2c9ZA7Rrnciir2OydWTdbn&ab_channel=WahidevAcademy) - Wahidev Academy
 
 
 ### Python

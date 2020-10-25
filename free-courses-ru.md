@@ -1,5 +1,5 @@
 ### Index
-
+* [C++](#C++)
 * [Clojure](#clojure)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -16,6 +16,11 @@
 BEG - новичок. Основы.  
 INT - средний. Расширенные возможности.  
 ADV - продвинутый. Тонкости.
+
+
+### C++
+
+* [Введение в программирование (C++)](https://stepik.org/course/363) - Stepik (BEG)
 
 
 ### Clojure

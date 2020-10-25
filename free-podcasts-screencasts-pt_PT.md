@@ -6,9 +6,9 @@
 
 ### Laravel
 
-* [Podcast Laravel Portugal Live](https://laravelportugal.simplecast.fm) - @caneco
+* [Laravel Portugal Live - @caneco](https://laravelportugal.simplecast.fm) (podcast)
 
 
 ### Ubuntu
 
-* [Podcast Ubuntu Portugal](https://podcastubuntuportugal.org) - Diogo Constantino e Tiago Carrondo.
+* [Ubuntu Portugal - Diogo Constantino e Tiago Carrondo](https://podcastubuntuportugal.org) (podcast)

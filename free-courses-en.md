@@ -34,6 +34,7 @@
   * [Redux](#redux)
   * [Sails.js](#sailsjs)
   * [Vue.js](#vuejs)
+* [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Lua](#lua)
@@ -369,6 +370,12 @@
 * [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
+
+
+### Kotlin
+
+* [Android Kotlin Tutorial: Create Android Apps using Kotlin](https://www.youtube.com/watch?v=e7WIPwRd2s8&list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) (Smartherd)
+* [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) (Udacity)
 
 
 ### Kubernetes

@@ -1,0 +1,9 @@
+body{
+    background-color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(bash.jpg);
+    background-size:cover;
+}
+.link{
+	text-decoration:none;
+}

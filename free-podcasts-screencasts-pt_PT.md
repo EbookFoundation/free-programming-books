@@ -6,9 +6,9 @@
 
 ### Laravel
 
-* [Laravel Portugal Live (podcast)](https://laravelportugal.simplecast.fm/) - Os membros do Laravel Portugal reunem-se para falar sobre Laravel, PHP, a comunidade Portuguesa, ideias e muito mais. @joselaborges
+* [Laravel Portugal Live (Video podcast)](https://laravelportugal.simplecast.fm) - Segunda época do Live stream quinzenal no Youtube dos membros do Laravel Portugal, onde são convidadps diversos programadores da cena laravel nacional, e apresentados os seus projetos, em amena conversa de café, onde não poderia faltar a nêspera :) Apresentado por @caneco. Sempre no bom português de Portugal, onde já estiveram convidados como: @joselaborges, @jpatricio, @brunocfalcao, @enunomaduro, @quetzyg, @a_fsardo entre outros.
 
 
 ### Ubuntu Portugal
 
-* [Ubuntu Portugal (podcast)](https://ubuntu-pt.org/) - A comunidade Ubuntu Portugal (Ubuntu-PT) é a comunidade Portuguesa de suporte à distribuição de GNU/Linux, Ubuntu. Esta comunidade consiste num grupo de pessoas que voluntariamente se dedica não só a promover a utilização do sistema operativo Ubuntu e do software livre em geral, mas também a dar suporte aos utilizadores portugueses desta distribuição de GNU/Linux.
+* [Ubuntu Portugal (Audio podcast)](https://podcastubuntuportugal.org) - Este é um podcast português sobre a comunicade Ubuntu Portugal, mas concretamente um podcast audio, gravado sensivelmente todas as semanas, apresentado por Diogo Constantino e Tiago Carrondo, editado por Alexandre Carrapiço. Aqui só se falar de Ubuntu em português.

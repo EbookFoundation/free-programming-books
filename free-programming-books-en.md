@@ -1,8 +1,4 @@
 ### Index
 
-* [All](#all)
-
-
-### All
-
-* [English](/free-programming-books.md) (The list of books in English is here for historical reasons.)
+* [Programming book (English Version)](/free-programming-books.md)
+* [Back](https://github.com/EbookFoundation/free-programming-books)

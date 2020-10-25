@@ -4,6 +4,7 @@
 * [AR / VR](#ar--vr)
 * [C / C++](#c--c)
 * [C#](#c)
+* [Construct](#construct)
 * [Dart](#dart)
 * [Desain dan Arsitektur](#desain-dan-arsitektur)
 * [Docker](#docker)
@@ -58,6 +59,11 @@
 ### C#
 
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
+
+
+### Construct
+
+* [Belajar Membuat Game dengan Construct 2](https://www.dicoding.com/academies/65) - Dicoding, membutuhkan registrasi
 
 
 ### Dart

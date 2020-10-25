@@ -10,4 +10,4 @@
 
 ### Ubuntu
 
-* [Podcast Ubuntu Portugal](https://podcastubuntuportugal.org) - Diogo Constantino e Tiago Carrondo, editado por Alexandre Carrapiço.
+* [Podcast Ubuntu Portugal](https://podcastubuntuportugal.org) - Diogo Constantino e Tiago Carrondo.

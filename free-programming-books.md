@@ -69,6 +69,7 @@
   * [Bootstrap](#bootstrap)
   * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
 * [HTTP](#http)
+* [HTTPS](#https)
 * [Icon](#icon)
 * [Idris](#idris)
 * [iOS](#ios)
@@ -1513,6 +1514,10 @@ Kerridge (PDF) (email address *requested*, not required)
 #### HTTP
 
 * [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
+
+#### HTTPS
+
+* [HOW HTTPS WORKS](https://howhttps.works/) - Launch School
 
 
 ### Idris

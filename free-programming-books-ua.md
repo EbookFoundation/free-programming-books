@@ -1,18 +1,20 @@
-### ClojureScript
-
-* [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled) — Роман Лютіков (LambdaBooks)
-
-
 ### Index
 
+* [ClosureScript](#clojurescript)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
   * [Bootstrap](#bootstrap)
 * [Java](#java)
+* [JavaScript](#javascript)
 * [Language Agnostic](#language-agnostic)
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
+
+
+### ClojureScript
+
+* [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled) - Роман Лютіков (LambdaBooks)
 
 
 ### Haskell
@@ -34,7 +36,7 @@
 
 ### JavaScript
 
-* [Розуміння ECMAScript 6](http://understandinges6.denysdovhan.com) — Денис Довгань (LambdaBooks)
+* [Розуміння ECMAScript 6](http://understandinges6.denysdovhan.com) - Денис Довгань (LambdaBooks)
 
 
 ### Language Agnostic
@@ -54,4 +56,4 @@
 
 ### Ruby
 
-* [Маленька книга про Ruby](https://lambdabooks.github.io/thelittlebookofruby) — Сергій Гіба (LambdaBooks)
+* [Маленька книга про Ruby](https://lambdabooks.github.io/thelittlebookofruby) - Сергій Гіба (LambdaBooks)

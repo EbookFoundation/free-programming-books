@@ -84,7 +84,7 @@
 #### アクセシビリティ
 
 * [Accessible Rich Internet Applications](https://developer.mozilla.org/ja/docs/ARIA/Accessible_Rich_Internet_Applications) - MDN
-* [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAccessibility.pdf) - Apple Developer (PDF)
+* [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/accessibility/ios) - Apple Developer
 * [アクセシビリティのための設計](https://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
 
 
@@ -100,7 +100,6 @@
 #### グラフィックユーザーインターフェイス
 
 * [Qtプログラミング入門](http://densan-labs.net/tech/qt/) - @nishio_dens
-* [入門GTK+ 第3版](http://www.iim.cs.tut.ac.jp/~sugaya/wiki/wiki/index.php?GTK%2FGNOME%A4%CB%A4%E8%A4%EBGUI%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0) - 菅谷保之
 
 
 #### セキュリティ
@@ -130,7 +129,6 @@
 #### ソフトウェアアーキテクチャ
 
 * [ギコ猫とデザインパターン](http://www.hyuki.com/dp/cat_index.html) - 結城浩
-* [サルでもわかる 逆引きデザインパターン](http://www.nulab.co.jp/designPatterns/designPatterns1/designPatterns1-1.html) - Agata Toshitaka
 * [デザインパターン](http://www.techscore.com/tech/DesignPattern/) - シナジーマーケティング株式会社
 
 
@@ -158,7 +156,6 @@
 
 #### プログラミングの理論
 
-* [Programming on SAT](https://ledyba.gitbooks.io/programming-on-sat/) - ψ（プサイ）
 * [計算機プログラムの構造と解釈](http://sicp.iijlab.net/fulltext/) - Gerald Jay Sussman et al.
 
 
@@ -173,6 +170,7 @@
 
 * [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/)
 * [Mahoutで体感する機械学習の実践](http://gihyo.jp/dev/serial/01/mahout) - やまかつ
+* [強化学習入門](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF)
 * [機械学習 はじめよう](http://gihyo.jp/dev/serial/01/machine-learning) - 中谷秀洋，恩田伊織
 
 
@@ -206,7 +204,6 @@
 
 * [Applescript のごく基本的なサンプル](http://www.asahi-net.or.jp/~va5n-okmt/factory/applescript/sample_code/) - Okamoto
 * [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
-* [Bash でやってることを AppleScript でやろうとするとこうなる](http://qiita.com/mattintosh4/items/353c57ba75eda20af3c4) - id:mattintosh4
 
 
 ### AWK

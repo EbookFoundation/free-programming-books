@@ -26,6 +26,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [DenoJS](#denojs)
   * [jQuery](#jquery)
   * [Next.js](#nextjs)
   * [NodeJS](#nodejs)
@@ -320,6 +321,11 @@
 * [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
+
+#### DenoJS
+
+* [Deno Beginner](https://denobeginner.com) - Ahmad Awais - _Email required_
 
 
 #### jQuery

@@ -8,6 +8,7 @@
 * [Dart](#dart)
 * [Desain dan Arsitektur](#desain-dan-arsitektur)
 * [Docker](#docker)
+* [Elasticsearch](#elasticsearch)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -40,6 +41,7 @@
 
 * [Tutorial Android (Java)](https://www.youtube.com/playlist?list=PLKPnl-eD7EA4rAzNeXikfCq5yiMuFI1zo) - Kopianan
 * [Tutorial Android (Kotlin)](https://www.youtube.com/playlist?list=PLaoF-xhnnrRUEbF6cvk4-CeBAEOSbp8sS) - EDMT Dev
+* [Tutorial Dasar Android Studio Bahasa Indonesia](https://www.udemy.com/course/tutorial-dasar-android-studio-bahasa-indonesia-gratis) - Udemy
 
 
 ### AR / VR
@@ -82,6 +84,11 @@
 ### Docker
 
 * [Tutorial Docker untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) - Programmer Zaman Now
+
+
+### Elasticsearch
+
+* [Belajar Elasticsearch untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_tVTwrxVt0K5LmtVT2u8fh) - Programmer Zaman Now
 
 
 ### Flutter
@@ -145,8 +152,10 @@
 ### React
 
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
+* [React JS Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY) - Wahidev Academy
 * [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb) - Prawito Hudoro
 * [Tutorial React JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - Lampung JS
+* [Tutorial React Native Bahasa Indonesia (Futsal App)](https://www.youtube.com/playlist?list=PLIan8aHxsPj2NeWJew3o86bSptVPXOppa) - Wahidev Academy
 
 
 ### Vue
@@ -230,6 +239,7 @@
 ### Django
 
 * [Belajar Django 2.2](https://www.youtube.com/playlist?list=PLSCLBARdXrOz4SM3GKyKuqQp7eXWAH1u1) - Zul Himli
+* [Pengenalan Django Web Framework Python untuk Pemula](https://www.udemy.com/course/django-web-framework-python/) - Udemy
 * [Tutorial Django 1.11 LTS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6p_RwsWntxMO5QAqIHHHld) - Kelas Terbuka
 
 

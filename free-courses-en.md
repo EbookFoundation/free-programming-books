@@ -322,7 +322,7 @@
 
 #### DenoJS
 
-* [Deno Beginner](https://denobeginner.com)
+* [Deno Beginner](https://denobeginner.com) - Ahmad Awais (Email required)
 
 
 #### jQuery

@@ -36,6 +36,7 @@
 ### JavaScript
 
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
+* [Javascript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 
 
 #### Vue.js

@@ -16,6 +16,7 @@
 * [Bash](#bash)
 * [Basic](#basic)
 * [BETA](#beta)
+* [Blazor](#blazor)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -1022,6 +1023,11 @@ Kerridge (PDF) (email address *requested*, not required)
 ### BETA
 
 * [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
+
+
+### Blazor
+
+* [Blazor for ASP.NET Web Forms Developers](https://dotnet.microsoft.com/download/e-book/blazor-for-web-forms-devs/pdf) - Daniel Roth, Jeff Fritz, Taylor Southwick (PDF)
 
 
 ### C

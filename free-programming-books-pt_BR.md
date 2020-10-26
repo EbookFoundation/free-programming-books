@@ -303,8 +303,8 @@
 
 #### Django
 
+* [Documentação do Django](https://docs.djangoproject.com/pt-br)
 * [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
-* [Documentação do Django (version 3.1)](https://docs.djangoproject.com/pt-br/3.1/)
 
 
 ### RegEx

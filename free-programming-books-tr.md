@@ -37,6 +37,7 @@
 ### CSS
 
 * [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/) - Fatih Hayrioğlu
+* [CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem İlter
 
 
 ### D

@@ -37,6 +37,8 @@
 
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
+* [JavaScript WorldWide Cheatsheet](https://cheatography.com/tag/javascript/) - Cheatography (JavaScript)
+* [JavaScript Community](https://stackoverflow.com/) - Stackoverflow (JavaScript)
 
 
 #### Vue.js
@@ -62,3 +64,4 @@
 ### Python
 
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
+* [Python WorldWide Cheatsheet](https://cheatography.com/tag/python/) - Cheatography (Python)

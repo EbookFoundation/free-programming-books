@@ -82,6 +82,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Russian / Русский язык](free-courses-ru.md)
 + [Spanish / español / castellano](free-courses-es.md)
 + [Thai / ภาษาไทย](free-courses-th.md)
++ [Turkish / Türkçe](free-courses-tr.md)
 + [Ukrainian / Українська](free-courses-ua.md)
 + [Vietnamese / Tiếng Việt](free-courses-vi.md)
 

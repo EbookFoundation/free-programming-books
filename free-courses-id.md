@@ -4,6 +4,7 @@
 * [AR / VR](#ar--vr)
 * [C / C++](#c--c)
 * [C#](#c)
+* [Construct](#construct)
 * [Dart](#dart)
 * [Desain dan Arsitektur](#desain-dan-arsitektur)
 * [Docker](#docker)
@@ -21,6 +22,7 @@
 * [Kubernetes](#kubernetes)
 * [Linux](#Linux)
 * [Machine Learning](#machine-learning)
+* [Microservices](#microservices)
 * [MongoDB](#mongodb)
 * [PHP](#php)
   * [Codeigniter](#codeigniter)
@@ -58,6 +60,11 @@
 ### C#
 
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
+
+
+### Construct
+
+* [Belajar Membuat Game dengan Construct 2](https://www.dicoding.com/academies/65) - Dicoding, membutuhkan registrasi
 
 
 ### Dart
@@ -176,6 +183,11 @@
 * [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177) - Dicoding, membutuhkan registrasi
 
 
+### Microservices
+
+* [Training Microservices 2020](https://www.youtube.com/playlist?list=PL9oC_cq7OYbywbzkB_2tSr3DQqNfXiM7R) - Artivisi
+
+
 ### MongoDB
 
 * [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Programmer Zaman Now
@@ -200,6 +212,7 @@
 ### Laravel
 
 * [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Parsinta
+* [Belajar Laravel Pemula](https://www.youtube.com/playlist?list=PLIan8aHxsPj2c9ZA7Rrnciir2OydWTdbn) - Wahidev Academy
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Parsinta
 * [Membuat Tabel Post Tampilan](https://youtu.be/sYTin40_Ukw) - Kawan Koding
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding

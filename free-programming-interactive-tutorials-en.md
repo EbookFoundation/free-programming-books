@@ -62,6 +62,7 @@
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
 * [Codeasy](https://codeasy.net/course/csharp_elementary)
 * [Learn C#](http://www.learncs.org)
+* [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
 ### C++
@@ -279,6 +280,7 @@
 
 ### SQL
 
+* [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
 

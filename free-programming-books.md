@@ -2390,6 +2390,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
+* [Winning at Python: Learn Python Like A Professional](https://www.udemy.com/course/winning-at-python-start-learning-python-for-free/)
 
 
 #### Django

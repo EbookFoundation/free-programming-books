@@ -17,8 +17,8 @@
 
 * [All Data Structure Concepts | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla (Youtube)
 * [All Sorting algorithms and Programs | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla (Youtube)
-* [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - Harry (Youtube)
 * [Data Structure Programs | Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla (Youtube)
+* [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - Harry (Youtube)
 
 
 ### Android
@@ -34,8 +34,8 @@
 
 ### C++
 
-* [The Complete C++ Course | Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla (Youtube)
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - Harry (Youtube)
+* [The Complete C++ Course | Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla (Youtube)
 
 
 ### Git
@@ -46,8 +46,8 @@
 
 ### HTML / CSS
 
-* [HTML and HTML5 (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhihSr4HroBBQt_quHL42JLif) - Geeky Shows (Youtube)
 * [CSS and CSS 3 (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhiisW-k9eEON2vxGABv-PafB) - Geeky Shows  (Youtube)
+* [HTML and HTML5 (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhihSr4HroBBQt_quHL42JLif) - Geeky Shows (Youtube)
 
 
 ### Java
@@ -67,10 +67,10 @@
 
 ### Python
 
-* [Python Tutorial For Beginners | Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - Harry (Youtube)
 * [Intermediate/Advanced python Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiJWQ7VhY712fuimEpQZYp4) - Harry (Youtube)
+* [Python Tutorial For Beginners | Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - Harry (Youtube)
 
 
-### Django
+#### Django
 
 * [Django (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6) - Geeky Shows (Youtube)

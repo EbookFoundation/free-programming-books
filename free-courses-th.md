@@ -59,9 +59,9 @@
 
 #### Vue.js
 
-* [สอนเขียน VueJS](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBry3sJDNrbqor5ikjwGDJ_7) - CMDev
 * [CodeTraveler](https://www.youtube.com/channel/UCJZ1ohaM_NkBv08Y6ZCcHBQ)
 * [สอน VueJS + NuxtJS ตั้งแต่ 0~99 by Geekstart](https://www.youtube.com/playlist?list=PLXm-UJjVcJCMd24NIQTPcqHhfnK-QbPmD)
+* [สอนเขียน VueJS](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBry3sJDNrbqor5ikjwGDJ_7) - CMDev
 
 
 ### Python

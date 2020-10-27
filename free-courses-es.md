@@ -104,7 +104,7 @@
 ### Frameworks
 
 * [Curso Django](https://www.pildorasinformaticas.es/course/django) - Juan Díaz (Píldoras Informáticas)
-* [Curso Django Udemy](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python)- Justin Mitchel, Karlita K
+* [Curso Django Udemy](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python) - Justin Mitchel, Karlita K
  (Udemy)
 * [Curso Spring](https://www.pildorasinformaticas.es/course/curso-spring) - Juan Díaz (Píldoras Informáticas)
 * [Laravel](https://www.pildorasinformaticas.es/course/laravel) - Juan Díaz (Píldoras Informáticas)

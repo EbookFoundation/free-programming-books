@@ -10,6 +10,7 @@
 * [Markdown](#markdown)
 * [MongoDB](#mongodb)
 * [Python](#python)
+* [Swift and C#](#swift--csharp)
 
 
 ### Clojure
@@ -64,3 +65,7 @@
 
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
+
+### Swift and C#
+
+* [Swift and C# Quick Reference - Language Equivalents and Code Examples](http://www.globalnerdy.com/wordpress/wp-content/uploads/2015/03/SwiftCSharpPoster.pdf) - Globalnerdy (PDF)

@@ -9,6 +9,7 @@
 * [Kubernetes](#Kubernetes)
 * [Markdown](#markdown)
 * [MongoDB](#mongodb)
+* [SQL](#sql)
 * [Python](#python)
 
 

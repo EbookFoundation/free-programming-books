@@ -1,4 +1,4 @@
-### Índice
+﻿### Índice
 
 * [Agnósticos](#agnosticos)
   * [Programação](#programação)
@@ -304,6 +304,7 @@
 
 #### Django
 
+* [Documentação do Django](https://docs.djangoproject.com/pt-br)
 * [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
 

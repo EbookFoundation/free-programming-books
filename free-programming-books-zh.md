@@ -508,7 +508,7 @@
 
 #### Electron.js
 
-  * [Electron docs](https://wizardforcel.gitbooks.io/electron-doc/content)
+  * [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
   * [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
 
 

@@ -1798,6 +1798,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Node.js
 
 * [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
+* [Mastering Node.js](https://github.com/gungunfebrianza/Mastering-Node.js) - Gun Gun Febrianza
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node Documentation](https://nodejs.org/en/docs/)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher

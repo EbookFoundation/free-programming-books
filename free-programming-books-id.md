@@ -12,6 +12,7 @@
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Pemrograman Fungsional](#pemrograman-fungsional)
+* [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
 * [Python](#python)
 * [Vue](#vue)
@@ -93,6 +94,8 @@
 
 * [Pemrograman Fungsional untuk Rakyat Jelata dengan Scalaz](https://leanpub.com/fpmortals-id)
 
+### Pemrograman Kompetitif
+* [Pemrograman Kompetitif Dasar](https://osn.toki.id/arsip/pemrograman-kompetitif-dasar.pdf) - OSN Toki Indonesia
 
 ### PHP
 

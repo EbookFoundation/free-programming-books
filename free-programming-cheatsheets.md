@@ -30,23 +30,23 @@
 
 ### HTML / CSS
 
-* [CSS CheatSheet](https://htmlcheatsheet.com/css/) - (HTML)
+* [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
-* [HTML CheatSheet](https://htmlcheatsheet.com/) - (HTML)
+* [HTML CheatSheet](https://htmlcheatsheet.com/) (HTML)
 
 
 ### JavaScript
 
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
-* [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) - (HTML)
+* [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) (HTML)
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
 
 
 ### jQuery
 
-* [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) - (HTML)
+* [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 
 
 #### Vue.js

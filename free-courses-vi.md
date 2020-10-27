@@ -5,6 +5,7 @@
 * [Angular](#angular)
 * [AngularJS](#angularjs)
 * [ASP.NET](#asp)
+* [Bash](#bash)
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#c-sharp)
@@ -60,6 +61,11 @@
 ### ASP 
 
 * [Khóa học ASP.NET Core cơ bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-aspnet-core-co-ban-14.html) - TEDU
+
+
+### Bash
+
+* [Khóa học Bash Shell cơ bản cho người mới](https://nguyenvanhieu.vn/hoc-bash-shell-co-ban)
 
 
 ### Bootstrap

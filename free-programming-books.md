@@ -1486,6 +1486,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
 * [CSS Notes for Professionals](http://goalkicker.com/CSSBook) (PDF)
 * [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
+* [DOM Enlightenment](http://domenlightenment.com/) - Cody Lindley (HTML)
 * [GA Dash](https://dash.generalassemb.ly)
 * [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [How to Code in HTML5 and CSS3](https://web.archive.org/web/20180816174417/http://howtocodeinhtml.com/HowToCodeInHTML5AndCSS3.pdf) - Damian Wielgosik (PDF)
@@ -1495,7 +1496,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [HTML5 for Publishers](https://www.oreilly.com/library/view/html5-for-publishers/9781449320065/pr02.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
 * [HTML5 Notes for Professionals](http://books.goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (3.x)
-* [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat
+* [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat (HTML)
+* [HTML5 Quick Learning Guide](https://www.ossblog.org/wp-content/uploads/2017/06/html5-quick-learning-quide.pdf) - HTML5Templates (PDF)
 * [Interneting is Hard (But it Doesn't Have to Be)](https://www.internetingishard.com) - Oliver James
 * [Learn CSS Layout](http://learnlayout.com)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)

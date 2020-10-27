@@ -507,7 +507,7 @@
 
 #### Deno
 
-  * [Deno 钻研之术](https://deno-tutorial.js.org/)
+  * [Deno 钻研之术](https://deno-tutorial.js.org)
 
 
 #### ExtJS

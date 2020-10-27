@@ -1,0 +1,36 @@
+Force HTTPS
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+Force www
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^htmlg\.com [NC]
+RewriteRule ^(.*)$ http://www.htmlg.com/$1 [L,R=301,NC]
+Force non-www
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.htmlg\.com [NC]
+RewriteRule ^(.*)$ http://htmlg.com/$1 [L,R=301]
+Custom Error Pages
+ErrorDocument 500 "Sorry, something went wrong!"
+ErrorDocument 401 https://htmlg.com/404/
+ErrorDocument 404 404error.html
+Redirect Entire Site
+Redirect 301 / https://htmlg.com/
+Permanent Page Redirect
+Redirect 301 /oldlink.html https://htmlg.com/help/
+Redirect 301 /oldlink https://htmlg.com/about/
+Alias Directory
+RewriteEngine On
+RewriteRule ^source_directory/(.*) target_directory/$1
+Remove .php Extension
+RewriteEngine On
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^([^.]+)$ $1.php [NC,L]
+Block IP Address
+Order deny,allow
+Allow from all
+Deny from 123.123.123.123
+Deny from 123.123.123.123
+Allow Access From Only One IP
+# Require all denied
+# Require ip 123.123.123.123

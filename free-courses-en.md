@@ -5,6 +5,7 @@
 * [Angular](#angular)
 * [Assembly](#assembly)
 * [Bash / Shell](#bash--shell)
+* [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -25,13 +26,16 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [DenoJS](#denojs)
   * [jQuery](#jquery)
+  * [Next.js](#nextjs)
   * [NodeJS](#nodejs)
   * [React](#react)
   * [React Native](#react-native)
   * [Redux](#redux)
   * [Sails.js](#sailsjs)
   * [Vue.js](#vuejs)
+* [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Lua](#lua)
@@ -45,11 +49,11 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
+  * [Flask](#flask)
 * [QB64](#QB64)
 * [R](#r)
-* [RethinkDB](#rethinkdb)
 * [Ruby](#ruby)
-* [Sails.js](#sailsjs)
 * [Scala](#scala)
 * [Security](#security)
 * [Software Engineering](#software-engineering)
@@ -64,6 +68,7 @@
 
 ### Algorithms & Data Structures
 
+* [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 * [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset - (freeCodeCamp)
@@ -75,18 +80,14 @@
 * [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 * [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
-
-
-### Assembly
-
-* [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
-* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
+* [This is CS50x](https://cs50.harvard.edu/x/2020/) - David J. Malan (Harvard OpenCourseWare)
 
 
 ### Android
 
 * [Android Developer Fundamentals (Version 2) — Codelab](https://developer.android.com/courses/fundamentals-training/toc-v2)
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
+* [CS50 2019 - Android Track](https://www.youtube.com/playlist?list=PLhQjrBD2T381qULidYDKP55-4u1piASC1) - David J. Malan (Harvard OpenCourseWare)
 * [Learn how to program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
 * [Material design](https://material.io/guidelines/)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
@@ -103,9 +104,16 @@
 
 ### Angular
 
+* [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) - codedamn (YouTube)
 * [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 * [Angular for Beginners](https://www.udemy.com/course/angular-for-beginners-course/) - Angular University (Udemy)
 * [Angular Tutorial For Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) - Codevolution (YouTube)
+
+
+### Assembly
+
+* [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
+* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
 
 
 ### Bash / Shell
@@ -114,11 +122,17 @@
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
 
 
+### Bootstrap
+
+* [Bootstrap 4 Quick Start: Code Modern Responsive Websites](https://www.udemy.com/share/101qsw/) - Brad Hussey (Udemy)
+* [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
+
+
 ### C
 
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
-* [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
+* [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 
 
@@ -200,13 +214,16 @@
 
 ### Docker
 
+* [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal 
 * [Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm) - TutorialsPoint
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - FreeCodeCamp
+* [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
 * [Learn Docker, Container Runtimes, Builders and Registries](https://www.katacoda.com/courses/container-runtimes) - Katacoda
 
 
 ### Game Development
 
+* [CS50 2019 - Games Track](https://www.youtube.com/playlist?list=PLhQjrBD2T382mHvZB-hSYWvoLzYQzT_Pb) - David J. Malan (Harvard OpenCourseWare)
 * [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)
 
 
@@ -249,13 +266,16 @@
 * [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) - Vishwas Gopinath (Udemy)
 * [CSS Grid](https://cssgrid.io) - Wesbos
 * [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
+* [CSS3 tutorial for beginners | Learn CSS3](https://www.udemy.com/course/css3-tutorial-for-beginners-learn-css3/) - Udemy
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
 * [HTML and CSS Crash Course](https://scrimba.com/learn/htmlcss) - Kevin Powell (scrimba)
 * [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+* [Responsive Web Design with HTML5 and CSS3 - Advanced](https://www.udemy.com/course/responsive-web-design-with-html5-and-css3-advanced/) - Udemy
 * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+* [Web Development By Doing: HTML / CSS From Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/) - Udemy
 * [What the Flexbox](https://flexbox.io) - Wesbos
 
 
@@ -263,6 +283,7 @@
 
 * [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
 * [CS193p Developing Apps for IOS](https://cs193p.sites.stanford.edu) - Stanford
+* [CS50 2019 - iOS Track](https://www.youtube.com/playlist?list=PLhQjrBD2T3810ZX79Xrgj8X382QaWbk_J) - David J. Malan (Harvard OpenCourseWare)
 * [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
 
@@ -305,10 +326,20 @@
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
+#### DenoJS
+
+* [Deno Beginner](https://denobeginner.com) - Ahmad Awais - _Email required_
+
+
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 * [Introduction to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245) (Udacity)
+
+
+#### Next.js
+
+* [Mastering Next.js](https://masteringnextjs.com)
 
 
 #### NodeJS
@@ -347,6 +378,13 @@
 * [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
+
+
+### Kotlin
+
+* [Android Kotlin Tutorial: Create Android Apps using Kotlin](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) - Sriyank Siddhartha (YouTube)
+* [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
+* [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) - Aleks Haecky, Asser Samak, Sean McQuillan (Udacity)
 
 
 ### Kubernetes
@@ -455,6 +493,11 @@
 * [PHP Tutorial](https://www.w3schools.com/php) - W3Schools
 
 
+### Processing
+
+* [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) - The Coding Train
+
+
 ### Python
 
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
@@ -474,18 +517,30 @@
 * [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) (Coursera)
 * [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x) (edX)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
+* [Python 3](https://www.sololearn.com/Course/Python/) (SoloLearn)
 * [Python Beginners-Intermediate Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
+* [Python Built in Functions A to Z Tutorial and Examples](https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X) - Brainy Things
 * [Python Course](http://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
-* [Python Django Basics Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
-* [Python Flask Framework Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
-* [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 * [Python for Everybody](https://www.py4e.com/lessons) (Coursera Reading Materials with YouTube Videos)
 * [Python Learn Course](https://www.kaggle.com/learn/python) - Colin Morris (Kaggle)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [Python Tutorial](https://www.w3schools.com/python/) - W3Schools
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
+* [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
+
+
+#### Django
+
+* [Django for Everybody](https://dj4e.sites.uofmhosting.net/lessons) (Coursera Reading Materials with YouTube Videos)
+* [Python Django Basics Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
+
+
+#### Flask
+
+* [Python Flask Framework Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
+* [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 
 
 ### QB64
@@ -500,15 +555,11 @@
 * [R Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU) - (Edureka)
 
 
-### RethinkDB
-
-* [RethinkDB: Distributed Databases](https://courses.platzi.com/courses/rethinkdb-databases/)
-
-
 ### Ruby
 
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [Learn Ruby](https://www.learnrubyonline.org)
+* [RESTful API with Ruby On Rails 5](https://www.udemy.com/course/restful-api-with-ruby-on-rails-5/) - Udemy
 * [Ruby Tutorial](https://www.w3resource.com/ruby/)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
@@ -523,6 +574,7 @@
 
 * [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) -(Insec Techs- EH Academy)
+* [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
 
 
 ### Software Engineering
@@ -535,6 +587,7 @@
 
 ### SQL
 
+* [Introduction to Database Queries](https://www.edx.org/course/introduction-to-database-queries) - (edX New York University) - (Aspen Olmsted)
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - (Mike Dane) - (freeCodeCamp)
 
@@ -572,9 +625,12 @@
 
 ### Web Development
 
+* [ASP.NET Core Tutorial For Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - Venkat (Pragim Technologies)
+* [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) - Brian Yu,David J. Milan (edX Harvard CS50)
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Free Code Camp](https://www.freecodecamp.org)
+* [Full stack open](https://fullstackopen.com/en/) - University of Helsinki
 * [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)

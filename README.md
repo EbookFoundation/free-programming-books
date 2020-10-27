@@ -61,6 +61,11 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Turkish / Türkçe](free-programming-books-tr.md)
 + [Ukrainian / Українська](free-programming-books-ua.md)
 
+### Cheat Sheets
+
++ [All Languages](free-programming-cheatsheets.md)
+
+
 ### Free Online Courses
 
 + [Bulgarian / български](free-courses-bg.md)
@@ -71,10 +76,14 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Indonesian / Bahasa Indonesia](free-courses-id.md)
 + [Italian / italiano](free-courses-it.md)
 + [Korean / 한국어 [韓國語]](free-courses-ko.md)
++ [Persian / Farsi (Iran) / فارسى](free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](free-courses-pl.md)
 + [Portuguese (Brazil)](free-courses-pt_BR.md)
++ [Portuguese (Portugal)](free-courses-pt_PT.md)
 + [Russian / Русский язык](free-courses-ru.md)
 + [Spanish / español / castellano](free-courses-es.md)
++ [Thai / ภาษาไทย](free-courses-th.md)
++ [Turkish / Türkçe](free-courses-tr.md)
 + [Ukrainian / Українська](free-courses-ua.md)
 + [Vietnamese / Tiếng Việt](free-courses-vi.md)
 

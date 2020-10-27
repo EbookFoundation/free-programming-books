@@ -71,6 +71,7 @@
 * [Data Stories](http://datastori.es) (podcast)
 * [Learning Machines 101](http://www.learningmachines101.com) (podcast)
 * [Linear Digressions](http://www.lineardigressions.com) (podcast)
+* [Not So Standard Deviations](https://nssdeviations.com) (podcast)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast) (podcast)
 * [Partially Derivative](http://partiallyderivative.com) (podcast)
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
@@ -191,6 +192,7 @@
 
 ### Kotlin
 
+* [freeCodeCamp - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU) - Nate Ebel (screencast)
 * [Kotlin Beginners Tutorials](https://www.youtube.com/playlist?list=PLpg00ti3ApRweIhdOI4VCFFStx4uXC__u) (screencast)
 * [Talking Kotlin](http://talkingkotlin.com) (podcast)
 
@@ -293,6 +295,7 @@
 ### Ruby
 
 * [5by5 - Ruby on Rails Podcast](http://5by5.tv/rubyonrails) (podcast)
+* [Code with Jason](https://www.codewithjason.com/rails-with-jason-podcast/) (podcast)
 * [Drifting Ruby](https://www.driftingruby.com) (screencast)
 * [Railscasts](http://railscasts.com) (screencast)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) (podcast)

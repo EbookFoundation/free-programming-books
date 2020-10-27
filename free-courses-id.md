@@ -4,9 +4,11 @@
 * [AR / VR](#ar--vr)
 * [C / C++](#c--c)
 * [C#](#c)
+* [Construct](#construct)
 * [Dart](#dart)
 * [Desain dan Arsitektur](#desain-dan-arsitektur)
 * [Docker](#docker)
+* [Elasticsearch](#elasticsearch)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -14,12 +16,14 @@
 * [Java](#java)
   * [Spring](#spring)
 * [JavaScript](#javascript)
+  * [Angular](#angular)
   * [React](#react)
   * [Vue](#vue)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#Linux)
 * [Machine Learning](#machine-learning)
+* [Microservices](#microservices)
 * [MongoDB](#mongodb)
 * [PHP](#php)
   * [Codeigniter](#codeigniter)
@@ -29,12 +33,15 @@
   * [Flask](#flask)
   * [PyTorch](#pytorch)
 * [Redis](#redis)
+* [Solidity](#solidity)
+* [Typescript](#typescript)
 
 
 ### Android
 
 * [Tutorial Android (Java)](https://www.youtube.com/playlist?list=PLKPnl-eD7EA4rAzNeXikfCq5yiMuFI1zo) - Kopianan
 * [Tutorial Android (Kotlin)](https://www.youtube.com/playlist?list=PLaoF-xhnnrRUEbF6cvk4-CeBAEOSbp8sS) - EDMT Dev
+* [Tutorial Dasar Android Studio Bahasa Indonesia](https://www.udemy.com/course/tutorial-dasar-android-studio-bahasa-indonesia-gratis) - Udemy
 
 
 ### AR / VR
@@ -57,6 +64,11 @@
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
 
 
+### Construct
+
+* [Belajar Membuat Game dengan Construct 2](https://www.dicoding.com/academies/65) - Dicoding, membutuhkan registrasi
+
+
 ### Dart
 
 * [Belajar Bahasa Pemgrograman Dart](https://www.youtube.com/playlist?list=PLsvN_QZnFWRBQRFBo46R9hAYcnmvLSIvF) - Kenari Studio
@@ -74,6 +86,11 @@
 * [Tutorial Docker untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) - Programmer Zaman Now
 
 
+### Elasticsearch
+
+* [Belajar Elasticsearch untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_tVTwrxVt0K5LmtVT2u8fh) - Programmer Zaman Now
+
+
 ### Flutter
 
 * [Flutter Tutorial (Flutter Fundamentals)](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV) - Erico Darmawan Handoyo
@@ -82,6 +99,7 @@
 
 ### Git
 
+* [Belajar Git](https://www.youtube.com/playlist?list=PLuGFxya63u24bmP-ILRaiGeMwZh3PGxW4) - Galih Pratama
 * [Source Code Management untuk Pemula](https://www.dicoding.com/academies/116) - Dicoding, membutuhkan registrasi
 
 
@@ -126,11 +144,18 @@
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
 
 
+### Angular
+
+* [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo
+
+
 ### React
 
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
+* [React JS Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY) - Wahidev Academy
 * [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb) - Prawito Hudoro
 * [Tutorial React JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - Lampung JS
+* [Tutorial React Native Bahasa Indonesia (Futsal App)](https://www.youtube.com/playlist?list=PLIan8aHxsPj2NeWJew3o86bSptVPXOppa) - Wahidev Academy
 
 
 ### Vue
@@ -167,6 +192,11 @@
 * [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177) - Dicoding, membutuhkan registrasi
 
 
+### Microservices
+
+* [Training Microservices 2020](https://www.youtube.com/playlist?list=PL9oC_cq7OYbywbzkB_2tSr3DQqNfXiM7R) - Artivisi
+
+
 ### MongoDB
 
 * [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Programmer Zaman Now
@@ -191,7 +221,9 @@
 ### Laravel
 
 * [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Parsinta
+* [Belajar Laravel Pemula](https://www.youtube.com/playlist?list=PLIan8aHxsPj2c9ZA7Rrnciir2OydWTdbn) - Wahidev Academy
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Parsinta
+* [Membuat Tabel Post Tampilan](https://youtu.be/sYTin40_Ukw) - Kawan Koding
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
 
 
@@ -207,6 +239,7 @@
 ### Django
 
 * [Belajar Django 2.2](https://www.youtube.com/playlist?list=PLSCLBARdXrOz4SM3GKyKuqQp7eXWAH1u1) - Zul Himli
+* [Pengenalan Django Web Framework Python untuk Pemula](https://www.udemy.com/course/django-web-framework-python/) - Udemy
 * [Tutorial Django 1.11 LTS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6p_RwsWntxMO5QAqIHHHld) - Kelas Terbuka
 
 
@@ -224,3 +257,15 @@
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Programmer Zaman Now
+
+
+### Solidity
+
+* [Ethereum Blockchain Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLNl8QwXqW_lvWSc3n3geFSbBtmJvEl4nz) - Odoo Indonesia vITraining
+
+
+### Typescript
+
+* [Belajar Typescript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
+* [Typescript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra
+

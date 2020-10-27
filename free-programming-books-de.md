@@ -2,6 +2,7 @@
 
 * [ABAP](#abap)
 * [Action Script](#action-script)
+* [Android](#android)
 * [Assembly Language](#assembly-language)
 * [C](#c)
 * [C#](#c-sharp)
@@ -14,6 +15,7 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [React](#react)
 * [LaTeX](#latex)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
@@ -43,6 +45,11 @@
 * [Einstieg in ActionScript](http://openbook.rheinwerk-verlag.de/actionscript_einstieg/)
 
 
+### Android
+
+* [Einführung in die Entwicklung von Apps für Android 8](https://www.uni-trier.de/fileadmin/urt/doku/android/android.pdf) - Bernhard Baltes-Götz (PDF)
+
+
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
@@ -65,6 +72,7 @@
 ### C++
 
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de)
+* [Lean Testing für C++-Programmierer (2018)](https://www.assets.dpunkt.de/openbooks/Openbook_Lean_Testing.pdf) - Andreas Spillner, Ulrich Breymann (PDF)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 
@@ -127,6 +135,11 @@
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/)
 
 
+#### React
+
+* [React lernen und verstehen](https://lernen.react-js.dev) - Manuel Bieh (HTML)
+
+
 ### LaTeX
 
 * [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) (PDF)
@@ -163,6 +176,7 @@
 
 ### Python
 
+* [Einführung in Python](http://www.mschimmels.de/eigeneDateien/Python-Kurs.pdf) - Martin Schimmels (PDF)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python/) - Johannes Ernesti, Peter Kaiser (Online)
 

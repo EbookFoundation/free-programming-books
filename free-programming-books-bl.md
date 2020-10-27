@@ -1,6 +1,7 @@
 ### Index
 
 * [C](#c)
+* [Developer Cheatsheet](#developer-cheatsheet)
 * [JavaScript](#JavaScript)
 * [Machine Learning](#machine-learning)
 * [PROGRAMMING FUNDAMENTALS](#programming-fundamentals)
@@ -10,6 +11,11 @@
 ### C
 
 * [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen 
+
+
+### Developer Cheatsheet
+
+* [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
 
 
 ### JavaScript

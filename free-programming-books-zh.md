@@ -45,6 +45,7 @@
     * [AngularJS](#angularjs)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
+    * [Electron.js](#electronjs)
     * [ExtJS](#extjs)
     * [impress.js](#impressjs)
     * [jQuery](#jquery)
@@ -508,6 +509,12 @@
 #### Deno
 
   * [Deno 钻研之术](https://deno-tutorial.js.org)
+
+
+#### Electron.js
+
+  * [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
+  * [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
 
 
 #### ExtJS

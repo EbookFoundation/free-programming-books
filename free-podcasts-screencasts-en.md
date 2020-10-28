@@ -195,6 +195,7 @@
 
 * [freeCodeCamp - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU) - Nate Ebel (screencast)
 * [Kotlin Beginners Tutorials](https://www.youtube.com/playlist?list=PLpg00ti3ApRweIhdOI4VCFFStx4uXC__u) (screencast)
+* [Kotlin Podcast](https://www.raywenderlich.com/5795-kotlin-podcast-s01-e01) - Dru Freeman (podcast)
 * [Talking Kotlin](http://talkingkotlin.com) (podcast)
 
 

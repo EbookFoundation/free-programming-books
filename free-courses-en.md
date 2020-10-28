@@ -200,7 +200,7 @@
 
 ### Deep Learning
 
-* [Complete Deep Learning processing](https://www.youtube.com/watch?v=9jA0KjS7V_c&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) - Krish Naik - (Krish Naik)
+* [Complete Deep Learning](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) - Krish Naik
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (coursera)

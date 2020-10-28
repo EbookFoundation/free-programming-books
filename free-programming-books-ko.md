@@ -6,6 +6,7 @@
 * [GIT](#git)
 * [Go](#go)
 * [HTML5](#html5)
+* [Java](#java)
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
@@ -41,28 +42,30 @@
 ### GIT
 
 * [Git - 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
-* [Pro Git 한글 번역](http://git-scm.com/book/ko/)
+* [Pro Git 한글 번역](https://git-scm.com/book/ko/v2) - 최신 버전
 * [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
 
 
 ### Go
 
 * [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
-* [Go Tour 한글 번역](http://go-tour-kr.appspot.com)
 * [Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
 * [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 
 
 ### HTML5
 
-* [HTML5, CSS and Javascript](http://fromyou.tistory.com/581)
+* [HTML5, CSS and JavaScript](http://fromyou.tistory.com/581)
+
+
+### Java
+
+* [점프 투 자바](https://wikidocs.net/book/31) - 박응용
 
 
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ko)
-* Meteor
-  * [Discover Meteor](http://kr.discovermeteor.com)
 
 
 #### Node.js
@@ -72,7 +75,7 @@
 
 ### LaTeX
 
-* [The Not So short Introduction to LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/korean)
+* [The Not So short Introduction to LaTeX 2ε](https://ctan.org/tex-archive/info/lshort/korean)
 
 
 ### Linux
@@ -105,6 +108,7 @@
 * [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+* [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 
 
 #### Django
@@ -114,7 +118,7 @@
 
 #### Flask
 
-* [Flask의 세계에 오신것을 환영합니다.](http://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
+* [Flask의 세계에 오신것을 환영합니다.](https://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
 
 
 ### R
@@ -138,6 +142,3 @@
 * [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
 
 
-### Swift
-
-* [Swift 언어 개발문서](http://swift.leantra.kr) - 이전 버젼

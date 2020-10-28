@@ -63,6 +63,7 @@
 
 ### Java
 
+* [Darmowe kursy z Javy dla początkujących](http://programowaniejava.pl/edukacja/darmowe-szkolenia.html)
 * [JAVA FX-wprowadzenie](https://www.youtube.com/playlist?list=PL-ikpm9wGd1HkA9PvGTYWZHtO-Xq_i_Mw)
 * [Java GUI: programowanie Graficznego Interfejsu Użytkownika](https://www.youtube.com/playlist?list=PL3298E3EB8CFDE9BA)
 * [Kurs JavaFX od podstaw](https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU)

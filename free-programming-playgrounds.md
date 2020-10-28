@@ -8,6 +8,8 @@
 * [Docker](#docker)
 * [Elm](#elm)
 * [Flutter](#flutter)
+* [GDScript](#gdscript)
+* [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
 * [Ionic](#ionic)
@@ -23,6 +25,7 @@
 * [Python](#python)
 * [R](#r)
 * [React](#react)
+* [Redis](#redis)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [RxJS](#rxjs)
@@ -72,11 +75,23 @@
 ### Elm
 
 * [Ellie](https://ellie-app.com)
+* [Try Elm!](https://elm-lang.org/try)
 
 
 ### Flutter
 
 * [Codepen](https://codepen.io/topic/flutter/templates)
+* [Flutter Studio](https://flutterstudio.app)
+
+
+### GDScript
+
+* [GDScript](https://gdscript-online.github.io)
+
+
+### Git
+
+* [Git](https://learngitbranching.js.org/?NODEMO)
 
 
 ### Go
@@ -97,21 +112,24 @@
 ### Java
 
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
+* [SoloLearn](https://code.sololearn.com/#java)
 
 
 ### JavaScript
 
 * [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io)
+* [Esfiddle](https://esfiddle.net)
 * [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
-* [Sololearn](https://code.sololearn.com/#html)
+* [SoloLearn](https://code.sololearn.com/#html)
 
 
 ### Kotlin
 
 * [Kotlin](https://play.kotlinlang.org)
+* [Kotlin Playground](https://developer.android.com/training/kotlinplayground)
 
 
 ### Kubernetes
@@ -150,23 +168,35 @@
 ### Python
 
 * [Codepad](http://codepad.org)
+* [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
+* [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
+* [SoloLearn](https://code.sololearn.com/#py)
 
 
 ### R
 
 * [R-Fiddle](http://www.r-fiddle.org)
+* [Rextester](https://rextester.com/l/r_online_compiler)
 
 
 ### React
 
 * [CodeSandbox.io](https://codesandbox.io)
+* [jscomplete](https://jscomplete.com/playground)
 * [StackBlitz](https://stackblitz.com/fork/react)
+
+
+### Redis
+
+* [Try Redis](https://try.redis.io)
 
 
 ### Ruby
 
 * [Codepad](http://codepad.org)
+* [Sololearn](https://code.sololearn.com/#rb)
+* [TryRuby](https://try.ruby-lang.org)
 
 
 ### Rust
@@ -195,6 +225,7 @@
 ### Svelte
 
 * [StackBlitz](https://stackblitz.com/fork/svelte)
+* [Svelte REPL](https://svelte.dev/repl)
 
 
 ### Swift
@@ -206,3 +237,6 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
+
+
+

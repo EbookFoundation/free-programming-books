@@ -30,6 +30,7 @@
 * [UML](#uml)
 * [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Unix](#unix)
+* [VHDL](#vhdl)
 * [Visual Basic](#visual-basic)
 
 
@@ -225,6 +226,11 @@
 * [Linux-UNIX-Programmierung](http://openbook.rheinwerk-verlag.de/linux_unix_programmierung/)
 * [Shell-Programmierung](http://openbook.rheinwerk-verlag.de/shell_programmierung/)
 * [Wie werde ich Unix Guru?](http://openbook.rheinwerk-verlag.de/unix_guru/)
+
+
+### VHDL
+
+* [VHDL-Tutorium](https://de.wikibooks.org/wiki/VHDL-Tutorium) - Wikibooks (HTML)
 
 
 ### Visual Basic

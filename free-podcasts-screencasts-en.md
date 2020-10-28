@@ -76,7 +76,7 @@
 * [Partially Derivative](http://partiallyderivative.com) (podcast)
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
-* [The Banana Data Podcast](http://banana-data.buzzsprout.com) - Triveni Gandhi and Christopher Peter Makris (podcast)
+* [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi and Christopher Peter Makris (podcast)
 
 
 ### Elixir

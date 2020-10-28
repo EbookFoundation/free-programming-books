@@ -1,5 +1,6 @@
 ### Index
 
+* [Bash](#bash)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
@@ -14,6 +15,11 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [SQL](#sql)
+
+
+### Bash
+
+* [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
 
 
 ### Clojure

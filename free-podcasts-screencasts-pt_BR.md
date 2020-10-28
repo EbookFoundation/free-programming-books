@@ -45,7 +45,7 @@
 
 ### Go
 
-* [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) (screencast)
+* [Aprenda Go :brazil:](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) (screencast)
 
 ### HTML / CSS
 

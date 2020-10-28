@@ -122,6 +122,7 @@
     * [Part 3 - REST and ngResource](https://www.youtube.com/watch?v=QHIMygADPPc)
 * [Go Programming Tutorial](https://www.youtube.com/watch?v=CF9S4QZuV30) (screencast)
 * [Go Time](https://changelog.com/gotime) (podcast)
+* [GolangShow](https://golangshow.com) (podcast)
 * [Hacking with Andrew and Brad: an HTTP/2 client](https://www.youtube.com/watch?v=yG-UaBJXZ80) (screencast)
 * [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY) (screencast)
 

@@ -296,7 +296,7 @@
 
 #### Vulkan
 
-* [Vulkan Tutorial](https://vulkan-tutorial.com/Introduction) - Alexander Overvoorde (EPUB, HTML, PDF) (C++)
+* [Vulkan Tutorial](https://vulkan-tutorial.com) - Alexander Overvoorde (EPUB, HTML, PDF) (C++)
 
 
 ### Graphical User Interfaces

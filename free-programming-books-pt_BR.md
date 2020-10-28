@@ -51,8 +51,9 @@
 #### Programação
 
 * [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari e Cristian Cechinel (PDF)
-* [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
 * [Introdução à Programação - 500 Algoritmos Resolvidos](http://joeldasilva.com.br/ambiental_2019/aula_02/500algoritmosresolvidos-161004183520.pdf) - Anita Lopes e Guto Garcia (PDF)
+* [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
+
 
 #### Sistemas Operacionais
 

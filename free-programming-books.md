@@ -57,7 +57,7 @@
 * [Go](#go)
 * [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
-  *[Vulkan](#vulkan)
+  * [Vulkan](#vulkan)
 * [GraphQL](#graphql)
 * [Groovy](#groovy)
   * [Gradle](#gradle)

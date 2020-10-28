@@ -3,6 +3,7 @@
 * [Android](#android)
 * [C++](#cplusplus)
 * [CodeIgniter](#codeigniter)
+* [Laravel](#laravel)
 * [Emacs](#emacs)
 * [Git](#git)
 * [Go](#go)
@@ -35,6 +36,9 @@
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
 
+### Laravel
+
+* [Laravel untuk Pemula](https://kodingbagus.blogspot.com/2019/05/download-ebook-laravel-5-untuk-pemula.html)
 
 ### Emacs
 

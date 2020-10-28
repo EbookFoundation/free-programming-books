@@ -43,9 +43,11 @@
 
 * [Podquest](http://www.podquest.com.br) (podcast)
 
+
 ### Go
 
 * [Aprenda Go :brazil:](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) (screencast)
+
 
 ### HTML / CSS
 

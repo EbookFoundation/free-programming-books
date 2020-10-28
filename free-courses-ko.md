@@ -27,8 +27,8 @@
 * [PHP](#php)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
-* [Reinforced Learning](#reinforced-learning)
 * [Regular Expression](#regular-expression)
+* [Reinforced Learning](#reinforced-learning)
 * [Ruby](#ruby)
 * [Security](#security)
 * [Spring](#spring)
@@ -202,9 +202,11 @@
 
 * [라즈베리 파이](https://www.youtube.com/playlist?list=PL0Vl139pNHbc0ypjIuxUJuK-IPld0YmLO)
 
+
 ### Regular Expression
 
 * [정규 표현식이란?(생활코딩)](https://www.opentutorials.org/course/909/5142)
+
 
 ### Reinforced Learning
 

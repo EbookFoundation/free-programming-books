@@ -5,6 +5,7 @@
 * [Git](#git)
 * [HTML / CSS](#html--css)
 * [JavaScript](#javascript)
+  * [jQuery](#jquery)
   * [Vue.js](#vuejs)
 * [Kubernetes](#Kubernetes)
 * [Markdown](#markdown)
@@ -34,7 +35,7 @@
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
-* [HTML CheatSheet](https://htmlcheatsheet.com/) (HTML)
+* [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
 
 
 ### JavaScript
@@ -45,7 +46,7 @@
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
 
 
-### jQuery
+#### jQuery
 
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 

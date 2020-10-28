@@ -10,6 +10,7 @@
 * [C#](#c-sharp)
 * [C++](#c-1)
 * [Clojure](#clojure)
+* [Cloud Computing and Development](#Cloud-Computing-and-Development)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
 * [Dart](#dart)
@@ -160,6 +161,11 @@
 ### Clojure
 
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
+
+
+### Cloud Computing and Development
+
+* [Cloud Computing and Development tutorial](https://uaceit.com/courses/cloud-computing-and-development/) - AshwinKumarramaswamy
 
 
 ### Compilers

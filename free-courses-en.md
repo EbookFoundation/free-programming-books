@@ -10,10 +10,12 @@
 * [C#](#c-sharp)
 * [C++](#c-1)
 * [Clojure](#clojure)
+* [Cloud Computing and Development](#Cloud-Computing-and-Development)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
 * [Dart](#dart)
 * [Data Science](#data-science)
+* [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
 * [Docker](#docker)
@@ -160,6 +162,12 @@
 ### Clojure
 
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
+
+
+### Cloud Computing and Development
+
+* [Introduction to Cloud Computing](https://www.youtube.com/watch?v=Fgk6Jn00s2k)
+* [Cloud Development tutorial](https://uaceit.com/courses/cloud-computing-and-development/) 
 
 
 ### Compilers

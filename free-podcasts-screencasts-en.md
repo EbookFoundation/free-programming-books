@@ -185,6 +185,7 @@
 
 #### React.js
 
+* [React 30](https://react30.com) (podcast)
 * [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
 * [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
 * [React Round Up](https://devchat.tv/podcasts/react-round-up) - DevChat.tv (podcast)

@@ -5,6 +5,7 @@
 * [Git](#git)
 * [HTML / CSS](#html--css)
 * [JavaScript](#javascript)
+  * [jQuery](#jquery)
   * [Vue.js](#vuejs)
 * [Kubernetes](#Kubernetes)
 * [Language Translations](#language-translations)
@@ -26,20 +27,29 @@
 
 ### Git
 
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 
 ### HTML / CSS
 
+* [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
+* [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
 
 
 ### JavaScript
 
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
+* [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) (HTML)
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
+
+
+#### jQuery
+
+* [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 
 
 #### Vue.js

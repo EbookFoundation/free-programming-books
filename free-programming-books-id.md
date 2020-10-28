@@ -63,6 +63,10 @@
 ### Java
 
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
+* [Java Fundamental](https://bukanpenggunawindows.blogspot.com/2012/10/download-ebook-belajar-java-berbahasa.html) - Endy Muhardin
+* [Java untuk Pemula](https://www.barubagus.com/2020/04/download-ebook-pemrograman-java-lengkap_23.html) - Aswian Editri Sutriandi
+* [Pengenalan Pemrograman Java](https://www.barubagus.com/2020/04/download-ebook-pemrograman-java-lengkap_23.html) - Hendro Steven Tampake
+* [Java Desktop](https://www.barubagus.com/2020/04/download-ebook-pemrograman-java-lengkap_23.html) - Ifnu Bima
 
 
 ### JavaScript

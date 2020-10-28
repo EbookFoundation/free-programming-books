@@ -12,6 +12,7 @@
 * [Markdown](#markdown)
 * [MongoDB](#mongodb)
 * [Python](#python)
+* [Ruby](#ruby)
 * [SQL](#sql)
 
 
@@ -82,6 +83,11 @@
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
+
+
+### Ruby
+
+* [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
 
 
 ### SQL

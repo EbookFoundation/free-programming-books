@@ -68,3 +68,4 @@
 
 * [ชีวิตคนช่างแสนสั้น เราไม่หวั่นใช้ python](https://phyblas.hinaboshi.com/saraban/python) - Phyblas
 * [ภาษา Python](http://marcuscode.com/lang/python) - MarcusCode
+* [สอน Python](https://www.youtube.com/playlist?list=PL_xSQKvnccpk1xciZgtt6xEstU7A6fcAp) - Zinglecode

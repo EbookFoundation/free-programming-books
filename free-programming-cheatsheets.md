@@ -1,17 +1,25 @@
 ### Index
 
+* [Bash](#bash)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
 * [HTML / CSS](#html--css)
 * [JavaScript](#javascript)
+  * [jQuery](#jquery)
   * [Vue.js](#vuejs)
 * [Kubernetes](#Kubernetes)
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
 * [MongoDB](#mongodb)
 * [Python](#python)
+* [Ruby](#ruby)
 * [SQL](#sql)
+
+
+### Bash
+
+* [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
 
 
 ### Clojure
@@ -26,20 +34,29 @@
 
 ### Git
 
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 
 ### HTML / CSS
 
+* [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
+* [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
 
 
 ### JavaScript
 
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
+* [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) (HTML)
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
+
+
+#### jQuery
+
+* [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 
 
 #### Vue.js
@@ -70,8 +87,14 @@
 ### Python
 
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
+* [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
+
+
+### Ruby
+
+* [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
 
 
 ### SQL

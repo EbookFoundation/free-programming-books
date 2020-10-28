@@ -509,7 +509,7 @@
 #### Deno
 
   * [Deno 钻研之术](https://deno-tutorial.js.org)
-  * [Deno进阶开发笔记](https://chenshenhai.com/deno_note)
+  * [Deno进阶开发笔记](https://chenshenhai.com/deno_note) - 大深海
 
 
 #### Electron.js

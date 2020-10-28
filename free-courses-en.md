@@ -165,7 +165,7 @@
 
 ### Cloud computing and development
 
-* [Cloud computing and development](https://uaceit.com/courses/cloud-computing-and-development/) (UAceIT)
+* [Cloud computing and development tutorial ](https://uaceit.com/courses/cloud-computing-and-development/)
 
 
 ### Compilers

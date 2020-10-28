@@ -7,7 +7,7 @@
 * [Java](#Java)
 * [Javascript](#Javascript)
 * [Python](#Python)
-* [SpringBoot](#SpringBoot)
+* [Spring Boot](#spring-boot)
 
 
 ### Android
@@ -49,4 +49,4 @@
 
 ### Spring Boot
 
-* [Spring Boot Tutorial | Hindi](https://www.youtube.com/watch?v=tRBVD8UE2cQ) - ProgRank
+* [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank

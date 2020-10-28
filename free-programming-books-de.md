@@ -176,7 +176,7 @@
 
 ### Python
 
-* [A Byte of Python - Einführung in Python](https://open.umn.edu/opentextbooks/textbooks/581) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
+* [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files/) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
 * [Einführung in Python](http://www.mschimmels.de/eigeneDateien/Python-Kurs.pdf) - Martin Schimmels (PDF)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python/) - Johannes Ernesti, Peter Kaiser (Online)

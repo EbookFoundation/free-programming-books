@@ -45,6 +45,7 @@
     * [AngularJS](#angularjs)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
+    * [Electron.js](#electronjs)
     * [ExtJS](#extjs)
     * [impress.js](#impressjs)
     * [jQuery](#jquery)
@@ -503,6 +504,17 @@
   * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
   * [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
   * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
+
+
+#### Deno
+
+  * [Deno 钻研之术](https://deno-tutorial.js.org)
+
+
+#### Electron.js
+
+  * [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
+  * [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
 
 
 #### ExtJS

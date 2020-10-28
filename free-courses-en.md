@@ -120,6 +120,7 @@
 
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
+* [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) (ProgrammingKnowledge)
 
 
 ### Bootstrap
@@ -204,6 +205,7 @@
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (coursera)
 * [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) - Sergey Levine
 * [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) - Ryan Holbrook
+* [Introduction to Reinforcement learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) - David Silver
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
@@ -231,6 +233,7 @@
 
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
+* [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (The Net Ninja)
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 * [GitHowTo](https://githowto.com)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
@@ -518,6 +521,7 @@
 * [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x) (edX)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python 3](https://www.sololearn.com/Course/Python/) (SoloLearn)
+* [Python And Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/course/coinmarketcap/) Ian Annase (Udemy)
 * [Python Beginners-Intermediate Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [Python Built in Functions A to Z Tutorial and Examples](https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X) - Brainy Things
 * [Python Course](http://www.python-course.eu)

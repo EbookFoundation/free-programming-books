@@ -157,6 +157,7 @@
 
 #### Angular.js
 
+* [Adventures In Angular](https://player.fm/series/adventures-in-angular-1446390) - Charles Max Wood (podcast)
 * [Angular Air](https://angularair.com) (podcast)
 
 

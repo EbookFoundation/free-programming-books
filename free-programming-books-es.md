@@ -117,12 +117,6 @@
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf) (PDF)
 * [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) (PDF)
 
-
-#### Paradigmas de Programación
-
-* [Programación Funcional (1996)](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
-
-
 #### Sistemas Operativos
 
 * [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf et al (PDF)

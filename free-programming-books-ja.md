@@ -7,12 +7,14 @@
   * [セキュリティ](#%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3)
   * [その他の話題](#%e3%81%9d%e3%81%ae%e4%bb%96%e3%81%ae%e8%a9%b1%e9%a1%8c)
   * [ソフトウェアアーキテクチャ](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%a2%e3%83%bc%e3%82%ad%e3%83%86%e3%82%af%e3%83%81%e3%83%a3)
-  * [ソフトウェア品質](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e5%93%81%e8%b3%aa)
   * [ソフトウェア開発方法論](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e9%96%8b%e7%99%ba%e6%96%b9%e6%b3%95%e8%ab%96)
+  * [ソフトウェア品質](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e5%93%81%e8%b3%aa)
+  * [データベース](#%e3%83%87%e3%83%bc%e3%82%bf%e3%83%99%e3%83%bc%e3%82%b9)
   * [並列プログラミング](#%e4%b8%a6%e5%88%97%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
-  * [機械学習](#%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)
+  * [機械学習](#%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92)
   * [正規表現](#%e6%ad%a3%e8%a6%8f%e8%a1%a8%e7%8f%be)
   * [組み込みシステム](#%e7%b5%84%e3%81%bf%e8%be%bc%e3%81%bf%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
+  * [理論計算機科学](#%e7%90%86%e8%ab%96%e8%a8%88%e7%ae%97%e6%a9%9f%e7%a7%91%e5%ad%a6)
 * [Android](#android)
 * [AppleScript](#applescript)
 * [AWK](#awk)
@@ -52,7 +54,6 @@
 * [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
-* [openFrameworks](#openframeworks)
 * [Perl](#perl)
 * [PHP](#php)
   * [Symfony](#symfony)
@@ -73,7 +74,6 @@
 * [Standard ML](#standard-ml)
 * [Swift](#swift)
 * [Tcl/Tk](#tcltk)
-* [Theoretical Computer Science](#theoretical-computer-science)
 * [TypeScript](#typescript)
 * [VBA](#vba)
 * [Vim](#vim)
@@ -154,11 +154,6 @@
 * [データベース](http://www.ipa.go.jp/files/000018652.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 
 
-#### プログラミングの理論
-
-* [計算機プログラムの構造と解釈](http://sicp.iijlab.net/fulltext/) - Gerald Jay Sussman et al.
-
-
 #### 並列プログラミング
 
 * [インテル コンパイラー OpenMP 入門](http://jp.xlsoft.com/documents/intel/compiler/525J-001.pdf) - 戸室隆彦 (PDF)
@@ -189,6 +184,11 @@
 * [組込みソフトウェア向け プロジェクト計画立案トレーニングガイド](http://www.ipa.go.jp/files/000005145.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア向け 設計ガイド ESDR［事例編］](http://www.ipa.go.jp/files/000005148.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発向け コーディング作法ガイド［C++言語版］](http://www.ipa.go.jp/files/000005142.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+
+
+#### 理論計算機科学
+
+* [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext/) - Gerald Jay Sussman et al.
 
 
 ### Android
@@ -246,6 +246,13 @@
 * [江添亮のC++入門](https://ezoeryou.github.io/cpp-intro/) - 江添亮
 
 
+### Clojure
+
+* [Clojureスタイルガイド](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
+* [Modern cljs(翻訳中)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
+* [逆引きClojure](https://github.com/making/rd-clj) - Toshiaki Maki
+
+
 ### CoffeeScript
 
 * [CoffeeScript 言語リファレンス](http://memo.sappari.org/coffeescript/coffeescript-langref)
@@ -253,13 +260,6 @@
 * [The Little Book on CoffeeScript](http://minghai.github.io/library/coffeescript/) - Alex MacCaw, Narumi Katoh(翻訳)
 * [基本操作逆引きリファレンス（CoffeeScript）](http://kyu-mu.net/coffeescript/revref/) - 飯塚直
 * [正規表現リファレンス（CoffeeScript)](http://kyu-mu.net/coffeescript/regexp/) - 飯塚直
-
-
-### Clojure
-
-* [Clojureスタイルガイド](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
-* [Modern cljs(翻訳中)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
-* [逆引きClojure](https://github.com/making/rd-clj) - Toshiaki Maki
 
 
 ### Common Lisp
@@ -323,19 +323,19 @@
 * [JGGUG G*Magazine](http://grails.jp/g_mag_jp/) - JGGUG(日本Grails/Groovyユーザーグループ) (PDF, EPUB)
 
 
-### Gradle
+#### Gradle
 
 * [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs/) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf))
 * [ビルドツールGradleスタートアップガイドの紹介](https://www.ntts.co.jp/column/tec/java_03/) - 鈴木雅貴
 
 
-### Grails
+#### Grails
 
 * [Grailsフレームワーク 日本語リファレンス](http://grails.jp/doc/latest/) - T.Yamamoto & Japanese Grails Doc Translating Team. Special thanks to NTT Software.
 * [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/) - 須藤悠
 
 
-### Spock Framework
+#### Spock Framework
 
 * [G*ワークショップZ May 2013 - Spockハンズオンの資料](https://github.com/yamkazu/spock-workshop/tree/master/docs) - Kazuki YAMAMOTO
 * [Spock Framework リファレンスドキュメント](http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/) - Peter Niederwieser, Kazuki YAMAMOTO
@@ -645,11 +645,6 @@
 
 * [Tcl/Tk お気楽 GUI プログラミング](http://www.nct9.ne.jp/m_hiroi/tcl_tk.html) - 広井誠
 * [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf) - 只木進一 (PDF)
-
-
-### Theoretical Computer Science
-
-* [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext/xcont.html) - Alan J. Perlis 
 
 
 ### TypeScript

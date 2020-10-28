@@ -52,6 +52,7 @@
 
 ### Clojure
 
+* [ClojureScript Podcast](https://clojurescriptpodcast.com) - Jacek Schae (podcast)
 * [Parens of the Dead](http://www.parens-of-the-dead.com) (screencast)
 
 
@@ -63,6 +64,7 @@
 ### CSS
 
 * [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) (screencast)
+* [The Css Podcast](https://thecsspodcast.libsyn.com) - Una Kravets and Adam Argyle (podcast)
 
 
 ### Data Science
@@ -76,6 +78,7 @@
 * [Partially Derivative](http://partiallyderivative.com) (podcast)
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
+* [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi and Christopher Peter Makris (podcast)
 
 
 ### Elixir
@@ -85,10 +88,12 @@
 * [ElixirConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT) (screencast)
 * [ElixirConf 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) (screencast)
 * [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt) (screencast)
+* [The Thinking Elixir Podcast](https://thinkingelixir.com/the-podcast) (podcast)
 
 
 ### Emacs
 
+* [Emacs Cast](https://emacscast.org) - Rakhim Davletkaliyev (podcast)
 * [Emacs Rocks!](http://emacsrocks.com) (screencast)
 
 
@@ -117,6 +122,7 @@
     * [Part 3 - REST and ngResource](https://www.youtube.com/watch?v=QHIMygADPPc)
 * [Go Programming Tutorial](https://www.youtube.com/watch?v=CF9S4QZuV30) (screencast)
 * [Go Time](https://changelog.com/gotime) (podcast)
+* [GolangShow](https://golangshow.com) (podcast)
 * [Hacking with Andrew and Brad: an HTTP/2 client](https://www.youtube.com/watch?v=yG-UaBJXZ80) (screencast)
 * [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY) (screencast)
 
@@ -145,8 +151,10 @@
 * [Front End Happy Hour](http://frontendhappyhour.com) (podcast)
 * [Frontend First](https://frontendfirst.fm) - Sam Selikoff and Ryan Toronto (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) (podcast)
+* [HTML All The Things](https://www.htmlallthethings.com) (podcast)
 * [JavaScript Air](https://javascriptair.com) (podcast)
 * [JavaScript Jabber](https://devchat.tv/js-jabber) (podcast)
+* [JS Party](https://changelog.com/jsparty) (podcast)
 * [Modern Web](https://www.thisdot.co/modern-web) (podcast)
 * [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) (screencast)
 * [Real Talk JavaScript](https://realtalkjavascript.simplecast.com) (podcast)
@@ -161,6 +169,7 @@
 
 #### Elm
 
+* [Elm Radio](https://elm-radio.com) - Dillon Kearns and Jeroen Engels (podcast)
 * [Elm Town](https://elmtown.audio) (podcast)
 
 
@@ -261,6 +270,7 @@
 
 * [Laravel News Podcast](http://podcast.laravel-news.com) (podcast)
 * [MageTalk - A Magento Podcast](http://magetalk.com) (podcast)
+* [PHP Podcasts](https://www.phppodcasts.com) (podcast)
 * [PHP Roundtable](https://www.phproundtable.com) (podcast)
 * [PHP Town Hall](http://phptownhall.com) (podcast)
 * [Sound of Symfony](http://www.soundofsymfony.com) (podcast)
@@ -285,6 +295,7 @@
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) (screencast)
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm) (podcast)
 * [Teaching Python](https://www.teachingpython.fm) (podcast)
+* [The Real Python Podcast](https://realpython.com/podcasts/rpp) - Christopher Bailey (podcast)
 * [TheNewBoston - Pygame (Python Game Development) Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq) (screencast)
 * [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) (screencast)
 * [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d) (screencast)
@@ -298,6 +309,7 @@
 * [Code with Jason](https://www.codewithjason.com/rails-with-jason-podcast/) (podcast)
 * [Drifting Ruby](https://www.driftingruby.com) (screencast)
 * [Railscasts](http://railscasts.com) (screencast)
+* [Ruby on Rails Podcast](https://5by5.tv/rubyonrails) - Brittany Martin (podcast)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) (podcast)
 * [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free) (screencast)
 * [The Bike Shed](http://bikeshed.fm) (podcast)

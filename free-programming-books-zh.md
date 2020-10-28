@@ -506,6 +506,12 @@
   * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
 
 
+#### Deno
+
+  * [Deno 钻研之术](https://deno-tutorial.js.org)
+  * [Deno进阶开发笔记](https://chenshenhai.com/deno_note) - 大深海
+
+
 #### Electron.js
 
   * [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel

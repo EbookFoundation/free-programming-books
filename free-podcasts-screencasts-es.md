@@ -7,7 +7,6 @@
 
 * [BigDateame](https://bigdateame.com) (podcast)
 * [DataLatam](http://www.datalatam.com) (podcast)
-* [DataFuturologyEspanol](https://www.datafuturology.com/data-futurology-espanol) (podcasts)
 * [SoyData](https://us.ivoox.com/es/podcast-soydata-ciencia-datos-a-tu_sq_f1414925_1.html) (podcast)
 
 ### Frontend

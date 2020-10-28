@@ -50,6 +50,7 @@
 
 ### Go
 
+* [Belajar Dengan Jenius Golang](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang) - Gun Gun Febrianza
 * [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com) - Noval Agung Prayogo
 
 

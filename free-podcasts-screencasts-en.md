@@ -128,6 +128,7 @@
 
 ### Haskell
 
+* [Haskell Weekly](https://haskellweekly.news) (podcast)
 * [The Haskell Cast](http://www.haskellcast.com) (podcast)
 
 

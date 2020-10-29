@@ -233,6 +233,7 @@
 * [Vim](#vim)
 * [Visual Basic](#visual-basic)
 * [Visual Prolog](#visual-prolog)
+* [Web Development](#web-development)
 * [Web Services](#web-services)
 * [Windows 8](#windows-8)
 * [Windows Phone](#windows-phone)
@@ -2851,6 +2852,11 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [A Beginners' Guide to Visual Prolog](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog)
 * [Visual Prolog for Tyros](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros)
+
+
+### Web Development
+
+* [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
 
 
 ### Web Services

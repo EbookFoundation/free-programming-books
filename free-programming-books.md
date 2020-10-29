@@ -1048,6 +1048,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - B. Hall (HTML, PDF)
 * [Beej's Guide to Network Programming - Using Internet Sockets](http://beej.us/guide/bgnet/) - B. Hall
+* [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) - B. Hall (HTML)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
 * [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)

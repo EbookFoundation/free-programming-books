@@ -5,10 +5,8 @@
   * [Algoritmos y Estructuras de Datos](#algoritmos-y-estructuras-de-datos)
   * [Base de Datos](#base-de-datos)
   * [Ciencia Computacional](#ciencia-computacional)
-  * [Cursos Masivos en Línea](#cursos-masivos-en-l&#x00ED;nea)
   * [Metodologías de Desarrollo de Software](#metodolog&#x00ED;as-de-desarrollo-de-software)
   * [Misceláneos](#miscel&#x00E1;neos)
-  * [Paradigmas de Programación](#paradigmas-de-programaci&#x00F3;n)
   * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
 * [C](#c)
@@ -18,7 +16,6 @@
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
 * [Git](#git)
-* [Github](#github)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML & CSS](#html--css)
@@ -93,15 +90,9 @@
 * [Breves Notas sobre Teoría de la Computación](http://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 
 
-#### Cursos Masivos en Línea
-
-* [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice) (Github)
-
-
 #### Metodologías de desarrollo de software
 
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
-* [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf) (PDF)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
 * [Scrum Level](https://scrumlevel.com/files/scrumlevel.pdf) - Scrum Manager (PDF) [(EPUB)](https://scrumlevel.com/files/scrumlevel.epub)
@@ -116,11 +107,6 @@
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf) (PDF)
 * [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) (PDF)
-
-
-#### Paradigmas de Programación
-
-* [Programación Funcional (1996)](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
 
 
 #### Sistemas Operativos
@@ -321,7 +307,6 @@
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (PDF) (descarga directa)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) (HTML)
-* [Python instantáneo (1999)](http://www.arrakis.es/~rapto/AprendaPython.html) (HTML)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) (Github)
 * [Python para principiantes](http://librosweb.es/libro/python) (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)

@@ -26,6 +26,7 @@
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [PHP](#php)
+    * [CodeIgniter](#codeIgniter)
 * [Python](#python)
 * [React Native](#react-native)
 * [Ruby](#ruby)
@@ -212,6 +213,9 @@
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
 * [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
 
+#### CodeIgniter
+
+* [CodeIgniter para Iniciantes](https://www.cursou.com.br/informatica/codeigniter/) - RBtech (Cursou)
 
 ### Python
 

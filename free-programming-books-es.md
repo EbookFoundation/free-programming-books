@@ -54,7 +54,7 @@
 
 ### 0 - Meta-Listas
 
-* [Aprender Python](http://python.org.ar/wiki/AprendiendoPython) - Python Argentina
+* [Aprender Python](https://wiki.python.org.ar/aprendiendopython/) - Python Argentina
 * [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (Github)
 * [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
@@ -71,7 +71,7 @@
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
-* [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html) (HTML)
+* [Fundamentos de Informática y Programación](http://informatica.uv.es/docencia/fguia/TI/Libro/Libro_Fundamentos_Inform_Program.htm) (HTML)
 * [Fundamentos de programación](https://es.wikibooks.org/wiki/Fundamentos_de_programaci%C3%B3n) - WikiLibros
 * [Introducción a la programación](https://es.wikibooks.org/wiki/Introducci%C3%B3n_a_la_Programaci%C3%B3n) - WikiLibros
 * [Temas selectos de estructuras de datos](http://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
@@ -104,6 +104,8 @@
 * [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf) (PDF)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
+* [Scrum Level](https://scrumlevel.com/files/scrumlevel.pdf) - Scrum Manager (PDF) [(EPUB)](https://scrumlevel.com/files/scrumlevel.epub)
+* [Scrum Master - Temario troncal 1](https://scrummanager.net/files/scrum_master.pdf) - Scrum Manager (PDF) [(EPUB)](https://scrummanager.net/files/scrum_master.epub)
 * [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 
 
@@ -174,11 +176,6 @@
 * [Pro Git](http://git-scm.com/book/es/)
 
 
-### Github
-
-* [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple) (Github)
-
-
 ### Go
 
 * [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
@@ -197,6 +194,7 @@
 * [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) (HTML)
 * [Estructura con CSS](http://es.learnlayout.com) (HTML)
 * [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas (PDF)
+* [HTML5](https://openlibra.com/es/book/html5) - Arkaitz Garro (PDF)
 * [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-css)
 
 
@@ -218,6 +216,7 @@
 
 ### JavaScript
 
+* [El Tutorial de JavaScript Moderno](https://es.javascript.info) (HTML)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)

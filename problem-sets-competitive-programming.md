@@ -42,6 +42,7 @@
 
 ### Capture the flag
 
+* [CTFlearn](https://ctflearn.com) (email adress *requested*)
 * [Google Ctf](https://capturetheflag.withgoogle.com) (email adress *requested*)
 * [Hackthebox](https://www.hackthebox.eu) (email adress *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
@@ -52,6 +53,7 @@
 ### Data science
 
 * [AIcrowd](https://www.aicrowd.com)
+* [CodaLab](https://competitions.codalab.org)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
 
@@ -88,6 +90,7 @@
 * [PEG Judge](http://wcipeg.com)
 * [PKU Online Judge](http://poj.org)
 * [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
+* [Practice Python](https://www.practicepython.org)
 * [ProblemBook.NET](https://github.com/AndreyAkinshin/ProblemBook.NET)
 * [Project Euler](https://projecteuler.net)
 * [Python Practice Projects](http://pythonpracticeprojects.com)

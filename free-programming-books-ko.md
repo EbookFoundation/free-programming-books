@@ -6,6 +6,7 @@
 * [GIT](#git)
 * [Go](#go)
 * [HTML5](#html5)
+* [Java](#java)
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
@@ -54,7 +55,12 @@
 
 ### HTML5
 
-* [HTML5, CSS and Javascript](http://fromyou.tistory.com/581)
+* [HTML5, CSS and JavaScript](http://fromyou.tistory.com/581)
+
+
+### Java
+
+* [점프 투 자바](https://wikidocs.net/book/31) - 박응용
 
 
 ### JavaScript
@@ -102,6 +108,7 @@
 * [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+* [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 
 
 #### Django

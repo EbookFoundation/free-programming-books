@@ -1,9 +1,10 @@
 ### Index
 
+* [C++](#C++)
 * [Clojure](#clojure)
 * [Haskell](#haskell)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
   * [Node.js](#nodejs)
   * [React](#react)
 * [PHP](#php)
@@ -13,9 +14,14 @@
 
 ### Уровни
 
-BEG - новичок. Основы.
-INT - средний. Расширенные возможности.
+BEG - новичок. Основы.  
+INT - средний. Расширенные возможности.  
 ADV - продвинутый. Тонкости.
+
+
+### C++
+
+* [Введение в программирование (C++)](https://stepik.org/course/363) - Stepik (BEG)
 
 
 ### Clojure
@@ -36,10 +42,11 @@ ADV - продвинутый. Тонкости.
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
 
 
-### Javascript
+### JavaScript
 
 * [Алгоритмы и структуры данных](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/AlgAndData.md) - Тимур Шемсединов (INT)
 * [Асинхронное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md) - Тимур Шемсединов (INT)
+* [Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru)
 * [Метапрограммирование и мультипарадигменное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Metaprogramming.md) - Тимур Шемсединов (INT)
 * [Объектно ориентированное](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md) - Тимур Шемсединов (INT)
 * [Основы программирования](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0) - Тимур Шемсединов (INT)
@@ -81,4 +88,3 @@ ADV - продвинутый. Тонкости.
 * [Python: основы и применение](https://stepik.org/course/512) - Stepik (INT)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
 * [Программирование на Python](https://stepik.org/course/67) - Stepik (BEG)
-

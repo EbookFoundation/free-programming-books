@@ -12,6 +12,7 @@
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Pemrograman Fungsional](#pemrograman-fungsional)
+* [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
 * [Python](#python)
 * [Vue](#vue)
@@ -30,7 +31,9 @@
 
 ### CodeIgniter
 
+* [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
+* [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
 
 
 ### Emacs
@@ -72,6 +75,7 @@
 
 ### MySQL
 
+* [3 Days With Mysql For Your Application: Mysql Untuk Pemula](https://play.google.com/store/books/details/Onesinus_Saut_Parulian_3_Days_With_Mysql_For_Your?id=MbdTDwAAQBAJ) - Onesinus Saut Parulian, Google Play Books
 * [Tutorial MySQL untuk Pemula Hingga Mahir](https://umardanny.com/tutorial-mysql-untuk-pemula-hingga-mahir-ebook-download-pdf/)
 
 
@@ -91,6 +95,11 @@
 * [Pemrograman Fungsional untuk Rakyat Jelata dengan Scalaz](https://leanpub.com/fpmortals-id)
 
 
+### Pemrograman Kompetitif
+
+* [Pemrograman Kompetitif Dasar](https://osn.toki.id/#materi-algo) - William Gozali & Alham Fikri Aji (PDF)
+
+
 ### PHP
 
 * [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat - (PDF)
@@ -103,6 +112,7 @@
 
 * [Belajar Python](http://www.belajarpython.com)
 * [Dasar Pemrograman Python](https://www.pythonindo.com/tutorial-python-dasar/)
+* [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan, Google Play Books (account required)
 * [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) - (PDF)
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)

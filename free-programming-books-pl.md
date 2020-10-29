@@ -38,6 +38,7 @@
 
 ### Android
 
+* [O Androidzie ludzkim głosem](http://andrzejklusiewicz-android.blogspot.com/p/bezpatny-kurs-programowania-android-java.html) - Andrzej Klusiewicz
 * [O Androidzie ludzkim głosem](http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF)
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
 
@@ -50,6 +51,7 @@
 ### C
 
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
+* [Kurs języka C](http://kurs-c.manifo.com/konfiguracja-srodowiska-298-547) - Mateusz Piaszczak
 * [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) - Wikibooks (PDF)
 * [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
@@ -81,6 +83,7 @@
 ### CSS
 
 * [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
+* [Kurs CSS](http://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 
@@ -128,6 +131,7 @@
 ### Perl
 
 * [Perl](https://pl.wikibooks.org/wiki/Perl) - Wikibooks
+* [Samouczek Perl](http://www.w3big.com/pl/perl/default.html)
 
 
 ### PHP

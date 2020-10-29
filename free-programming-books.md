@@ -2814,6 +2814,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Unix
 
 * [An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/)
+* [Beej's Guide to Unix Interprocess Communication](http://beej.us/guide/bgipc/) - B. Hall (HTML,PDF)
 * [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/) - J. Lions
 * [INTRODUCTION TO UNIX](https://homepages.uc.edu/~thomam/Intro_Unix_Text/TOC.html) - Mark A. Thomas
 * [Unix as IDE](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)

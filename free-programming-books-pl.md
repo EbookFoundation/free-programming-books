@@ -81,6 +81,7 @@
 ### CSS
 
 * [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
+* [Kurs CSS](http://www.kurshtmlcss.pl/kurs-css/) 
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 
@@ -93,6 +94,7 @@
 
 * [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html) - Sławomir Kokłowski
 * [KURS HTML](http://www.kurshtml.edu.pl) - Sławomir Kokłowski
+* [KURS HTML/CSS](http://www.kurshtmlcss.pl/kurs-html/) 
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 
@@ -123,6 +125,7 @@
 ### MySQL
 
 * [Bazy Danych MYSQL](https://miroslawzelent.pl/kurs-mysql/)
+* [Kurs MYSQL](http://webmade.org/kursy-online/kurs-mysql.php)
 
 
 ### Perl
@@ -167,5 +170,6 @@
 
 ### SQL
 
+* [Kurs SQL](https://www.sqlpedia.pl/kurs-sql/) - Jakub Kasprzak
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

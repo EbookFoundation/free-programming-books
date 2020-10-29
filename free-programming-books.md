@@ -1046,7 +1046,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf) - Ted Jensen (PDF)
 * [An Introduction to C & GUI Programming](https://www.raspberrypi.org/magpi-issues/C_GUI_Programming.pdf) - Simon Long (PDF)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
-* [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - B. Hall
+* [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - B. Hall (HTML, PDF)
 * [Beej's Guide to Network Programming - Using Internet Sockets](http://beej.us/guide/bgnet/) - B. Hall
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline

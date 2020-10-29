@@ -2,6 +2,7 @@
 
 * [Android](#android)
 * [C](#c)
+* [C++](#c++)
 * [CSS](#css)
 * [D](#d)
 * [Dart](#dart)
@@ -10,6 +11,7 @@
 * [Go](#go)
 * [Html](#html)
 * [iOS](#ios)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -33,6 +35,9 @@
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
 * [Programlamaya Giriş Ders Notları](http://web.itu.edu.tr/uyar/programlama) - [H.Turgut Uyar](http://web.itu.edu.tr/uyar)
 
+### C++
+
+* [C++ Dersleri](https://www.yusufsezer.com.tr/cpp-dersleri/) - [Yusuf Sezer](https://www.yusufsezer.com)
 
 ### CSS
 
@@ -75,10 +80,14 @@
 
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
+### Java
+
+* [Başkent Üniversitesi Java Dersleri](http://www.baskent.edu.tr/~tkaracay/etudio/ders/prg/java/java_ndx.html)
 
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
+* [JavaScript Dersleri](https://javascript.sitesi.web.tr)
 
 
 ### LaTeX

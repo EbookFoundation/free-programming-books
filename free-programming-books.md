@@ -235,6 +235,7 @@
 * [Visual Prolog](#visual-prolog)
 * [Web Services](#web-services)
 * [Windows 8](#windows-8)
+* [Windows 10](#Windows-10)
 * [Windows Phone](#windows-phone)
 * [Workflow](#workflow)
 * [xBase (dBase / Clipper / Harbour)](#xbase-dbase--clipper--harbour)
@@ -2664,6 +2665,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Self Handbook](http://handbook.selflanguage.org)
 
 
+### Shell Programming
+
+* [Shell Programming]()
 ### Smalltalk
 
 * [Deep into Pharo](http://books.pharo.org/deep-into-pharo/) - Alexandre Bergel, Damien Cassou, Stéphane Ducasse, Jannik Laval
@@ -2861,6 +2865,11 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Windows 8
 
 * [Programming Windows Store Apps with HTML, CSS, and JavaScript, Second Edition](https://web.archive.org/web/20150624142410/http://download.microsoft.com/download/6/6/5/665AF7A6-2184-45DC-B9DA-C89185B01937/Microsoft_Press_eBook_Programming_Windows_8_Apps_HTML_CSS_JavaScript_2E_PDF.pdf) - Kraig Brockschmidt (PDF)
+
+
+### Windows 10
+
+* [Windows 10 step by step learning](https://ptgmedia.pearsoncmg.com/images/9780735697959/samplepages/9780735697959.pdf) (PDF)
 
 
 ### Windows Phone

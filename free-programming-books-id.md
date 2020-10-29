@@ -3,6 +3,7 @@
 * [Android](#android)
 * [C++](#cplusplus)
 * [CodeIgniter](#codeigniter)
+* [Deno](#deno)
 * [Emacs](#emacs)
 * [Git](#git)
 * [Go](#go)
@@ -34,6 +35,11 @@
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
+
+
+### Deno
+
+* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
 
 
 ### Emacs

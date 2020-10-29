@@ -69,6 +69,7 @@
 
 ### Data Science
 
+* [Data Futurology](https://www.datafuturology.com/episodes-1) (podcast)
 * [Data Skeptic](http://dataskeptic.com/episodes.php) (podcast)
 * [Data Stories](http://datastori.es) (podcast)
 * [Learning Machines 101](http://www.learningmachines101.com) (podcast)

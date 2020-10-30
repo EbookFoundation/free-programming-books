@@ -70,7 +70,7 @@
 ### Java
 
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
-* [Memulai Java Enterprise dengan Spring Boot](https://github.com/teten777/free-ebook-springboot-basic/blob/master/Memulai%20Java%20Enterprise%20dengan%20Spring%20Boot.pdf) - Teten Nugraha
+* [Memulai Java Enterprise dengan Spring Boot](https://raw.githubusercontent.com/teten777/free-ebook-springboot-basic/master/Memulai%20Java%20Enterprise%20dengan%20Spring%20Boot.pdf) - Teten Nugraha
 
 
 ### JavaScript

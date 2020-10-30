@@ -102,6 +102,7 @@
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
+* [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/) - Learn X in Y minutes (Python)
 
 
 ### Ruby

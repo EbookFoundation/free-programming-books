@@ -2,6 +2,7 @@
 
 * [Bash](#bash)
 * [C](#C)
+* [C++](#C++)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
@@ -27,6 +28,11 @@
 ### C
 
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
+
+
+### C++
+
+* [C++ Quick Reference](https://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) (PDF)
 
 
 ### Clojure

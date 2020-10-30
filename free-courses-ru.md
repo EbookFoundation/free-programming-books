@@ -1,8 +1,8 @@
-### Index
+### Cодержание
 
 * [C++](#C++)
 * [Clojure](#clojure)
-* [Design and Architecture](#design-and-architecture)
+* [Design and Architecture-Дизайн и Aрхитектура](#design-and-architecture)
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -15,9 +15,9 @@
 
 ### Уровни
 
-BEG - новичок. Основы.  
-INT - средний. Расширенные возможности.  
-ADV - продвинутый. Тонкости.
+BEG - Hовичок. Основы.  
+INT - Cредний. Расширенные возможности.  
+ADV - Продвинутый. Тонкости.
 
 
 ### C++
@@ -30,7 +30,7 @@ ADV - продвинутый. Тонкости.
 * [Курс Clojure](https://clojurecourse.by) (BEG)
 
 
-### Design and Architecture
+### Дизайн и Aрхитектура
 
 * [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
 

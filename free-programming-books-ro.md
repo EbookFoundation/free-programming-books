@@ -13,6 +13,11 @@
 * [Ajax](http://etutoriale.ro/articles/1483/1/Tutorial-Ajax/)
 
 
+### C++
+
+* [Noțiuni de programare în limbajul C++ - Adrian Runceanu](https://docplayer.es/65970256-Notiuni-de-programare-in-limbajul-c.html)
+
+
 ### HTML
 
 * [HTML](http://tutorialehtml.com/ro/introducere-in-html/)

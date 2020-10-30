@@ -335,6 +335,7 @@
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [Geometry Algorithms](http://geomalgorithms.com) - Dan Sunday
+* [Introduction to Algorithms, Third Edition](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) - Thomas H. Cormen
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn et al.
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)

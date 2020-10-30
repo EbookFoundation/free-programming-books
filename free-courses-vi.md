@@ -172,7 +172,7 @@
 ### React
 
 * [React.js Cơ Bản](https://www.youtube.com/watch?v=zrdXI6uZuW4&list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd)
-* [Đồ án React cơ bản](https://www.youtube.com/watch?v=yYM1edV0j4I&list=PLv6GftO355Av08p6Zi1I67VYw47nMS8xO) - ZendVN
+
 
 ### Ruby
 

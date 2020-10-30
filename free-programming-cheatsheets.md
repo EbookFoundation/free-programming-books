@@ -1,6 +1,7 @@
 ### Index
 
 * [Bash](#bash)
+* [C++](#c-1)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
@@ -21,6 +22,11 @@
 ### Bash
 
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+
+
+### C++
+
+* [C++ Quick Reference](https://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) (PDF)
 
 
 ### Clojure

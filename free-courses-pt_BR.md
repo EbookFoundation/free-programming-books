@@ -226,6 +226,7 @@
 * [Introdução à Ciência da Computação com Python - Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) - USP (Coursera)
 * [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)
 * [Introdução à linguagem Python](https://www.udemy.com/intro_python/) - Diego Mariano (Udemy)
+* [Programação em Python](https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) - Bóson Treinamentos
 * [Programação em Python: O Guia para Iniciantes](https://www.udemy.com/course/programacao-python-guia-para-iniciantes/) - Jones Granatyr (Udemy)
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)

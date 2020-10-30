@@ -34,6 +34,7 @@
 
 ### DataScience
 
+* [Data Hackers](https://datahackers.com.br/podcast) (podcast)
 * [Data Science Academy](http://datascienceacademy.com.br/blog/podcast-dsa/) (podcast)
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
 * [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
@@ -42,6 +43,11 @@
 ### Game development
 
 * [Podquest](http://www.podquest.com.br) (podcast)
+
+
+### Go
+
+* [Aprenda Go :brazil:](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) (screencast)
 
 
 ### HTML / CSS

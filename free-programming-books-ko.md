@@ -113,7 +113,8 @@
 
 #### Django
 
-* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)
+* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)  
+* [점프 투 장고](https://wikidocs.net/book/4223) - 박응용
 
 
 #### Flask

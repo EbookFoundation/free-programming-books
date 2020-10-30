@@ -1,15 +1,15 @@
-### Index
+### İçindekiler
 
 * [Algoritmalar](#algoritmalar)
 * [Temel programlama](#temel-programlama)
 
 
-### Algoritmalar
+### Algoritmalar ve Algoritmalara giriş
 
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 
 
-### Temel programlama
+### Temel programlama kaynakları
 
 * [Bilgisayar programlama I](https://acikders.ankara.edu.tr/course/view.php?id=8750) - Semra Gündüç
 * [Bilgisayar programlama II](https://acikders.ankara.edu.tr/course/view.php?id=8756) - Semra Gündüç

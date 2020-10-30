@@ -1,6 +1,7 @@
 ### Index
 
 * [Bash](#bash)
+* [C](#C)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
@@ -21,6 +22,11 @@
 ### Bash
 
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+
+
+### C
+
+* [C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) (PDF)
 
 
 ### Clojure

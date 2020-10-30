@@ -45,8 +45,8 @@
 ### C++
 
 * [Kurs C++](https://www.youtube.com/playlist?list=PLE84826ABF088F7E8)
-* [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB) - Mirosław Zelent, Damian Stelmach
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) - Mirosław Zelent, Damian Stelmach
+* [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB) - Mirosław Zelent, Damian Stelmach
 
 
 ### CSS
@@ -69,9 +69,9 @@
 * [JAVA FX-wprowadzenie](https://www.youtube.com/playlist?list=PL-ikpm9wGd1HkA9PvGTYWZHtO-Xq_i_Mw)
 * [Java GUI: programowanie Graficznego Interfejsu Użytkownika](https://www.youtube.com/playlist?list=PL3298E3EB8CFDE9BA)
 * [Kurs JavaFX od podstaw](https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU)
-* [Kurs: Podstawy programowania w Javie](https://www.youtube.com/playlist?list=PL-ikpm9wGd1HzpzIatXOGQeElJmqVUbl8)
 * [Kurs programowania Java](https://www.youtube.com/playlist?list=PLED70A92187B1406A)
 * [Kurs programowania w języku Java (od podstaw!)](https://www.youtube.com/playlist?list=PLTs20Q-BTEMMJHb4GWFT34PAWxYyzndIY)
+* [Kurs: Podstawy programowania w Javie](https://www.youtube.com/playlist?list=PL-ikpm9wGd1HzpzIatXOGQeElJmqVUbl8)
 
 
 ### JavaScript

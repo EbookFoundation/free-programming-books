@@ -2850,8 +2850,8 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Visual Basic
 
-* [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 * [Visual Basic .NET Notes for Professionals](https://books.goalkicker.com/VisualBasic_NETBook/) - Goalkicker.com (PDF)
+* [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 * [Visual Basic Official Docs](https://docs.microsoft.com/en-us/dotnet/visual-basic)
 
 

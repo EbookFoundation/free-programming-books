@@ -13,6 +13,7 @@
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Python](#python)
+* [SQL](#sql)
 
 
 ### Assembly Language
@@ -61,7 +62,6 @@
 * [Kurs dla początkujących HTML/CSS](http://www.kurshtmlcss.pl/kurs-html/) 
 * [Kurs html i css](https://www.youtube.com/playlist?list=PLs8Otihb6zvfosmWesJ_lkJS_HzL58gSS)
 * [Kurs HTML. Tworzenie zawartości stron internetowych](https://www.youtube.com/playlist?list=PLOYHgt8dIdox9Qq3X9iAdSVekS_5Vcp5r) - Mirosław Zelent, Damian Stelmach
-
 
 
 ### Java

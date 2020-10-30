@@ -83,7 +83,7 @@
 ### CSS
 
 * [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
-* [Kurs CSS](http://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
+* [Kurs CSS](https://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 

@@ -165,6 +165,7 @@
 
 #### Angular.js
 
+* [Angular Tutorial](https://www.w3schools.com/angular/) - W3Schools
 * [Angular Basics](http://www.angularjsbook.com)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)

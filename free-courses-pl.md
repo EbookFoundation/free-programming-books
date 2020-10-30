@@ -58,7 +58,6 @@
 ### HTML
 
 * [Kurs HTML](https://www.youtube.com/playlist?list=PLpwxuvBp359NntV2cLO5LaH6tmd6efmHH)
-* [Kurs HTML - od zera do Webmastera](https://www.youtube.com/playlist?list=PL0zYPqHK5yJWsIn3PIproSyxO3nchPd99)
 * [Kurs dla początkujących HTML/CSS](http://www.kurshtmlcss.pl/kurs-html/) 
 * [Kurs html i css](https://www.youtube.com/playlist?list=PLs8Otihb6zvfosmWesJ_lkJS_HzL58gSS)
 * [Kurs HTML. Tworzenie zawartości stron internetowych](https://www.youtube.com/playlist?list=PLOYHgt8dIdox9Qq3X9iAdSVekS_5Vcp5r) - Mirosław Zelent, Damian Stelmach

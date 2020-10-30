@@ -5,6 +5,7 @@
 * [Data Science](#data-science)
 * [Git](#git)
 * [HTML / CSS](#html--css)
+* [Java](#Java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
   * [Vue.js](#vuejs)
@@ -44,6 +45,11 @@
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
 * [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
+
+
+### Java
+
+* [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) (PDF)
 
 
 ### JavaScript

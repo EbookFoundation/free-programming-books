@@ -92,7 +92,6 @@
 
 ### Python
 
-* [Conditions & Loops](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_if_while.pdf) - ehmatthes.github.io (PDF)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Fundamentals](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - ehmatthes (HTML)

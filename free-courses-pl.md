@@ -50,11 +50,13 @@
 
 ### CSS
 
+* [Dobry kurs CSS](http://www.kurshtmlcss.pl/kurs-css/) 
 * [Kurs CSS. Wygląd strony www - kaskadowe arkusze stylów - Pasja informatyki (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv) - Mirosław Zelent, Damian Stelmach
 
 
 ### HTML
 
+* [Kurs dla początkujących HTML/CSS](http://www.kurshtmlcss.pl/kurs-html/) 
 * [Kurs HTML](https://www.youtube.com/playlist?list=PLpwxuvBp359NntV2cLO5LaH6tmd6efmHH)
 * [Kurs HTML - od zera do Webmastera](https://www.youtube.com/playlist?list=PL0zYPqHK5yJWsIn3PIproSyxO3nchPd99)
 * [Kurs html i css](https://www.youtube.com/playlist?list=PLs8Otihb6zvfosmWesJ_lkJS_HzL58gSS)
@@ -82,6 +84,7 @@
 ### MySQL
 
 * [Kurs MySQL](https://www.youtube.com/playlist?list=PL748D0ACBEC371708)
+* [Darmowy kurs MYSQL](http://webmade.org/kursy-online/kurs-mysql.php)
 * [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ) - Mirosław Zelent, Damian Stelmach
 
 
@@ -101,3 +104,8 @@
 * [Kurs Python - Darmowy Po Polsku](https://www.youtube.com/playlist?list=PL_dDQ_G9rdI6dQsDkwqSQyAeXY3uUrWzp)
 * [Kurs Python 3](https://www.youtube.com/playlist?list=PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH)
 * [Python 3 - Kurs wideo](https://www.youtube.com/playlist?list=PLbOPmSDkHx2pCboufcEKkinpUuramshmr)
+
+
+### SQL
+
+* [Kurs SQL](https://www.sqlpedia.pl/kurs-sql/) - Jakub Kasprzak

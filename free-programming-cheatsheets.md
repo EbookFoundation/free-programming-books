@@ -1,6 +1,7 @@
 ### Index
 
 * [Bash](#bash)
+* [C](#C)
 * [C++](#c-1)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
@@ -22,6 +23,11 @@
 ### Bash
 
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+
+
+### C
+
+* [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
 
 
 ### C++

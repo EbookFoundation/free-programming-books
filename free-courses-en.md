@@ -345,6 +345,7 @@
 #### React Native
 
 * [React Native for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) - The Net Ninja
+* [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) - edX
 
 
 #### Redux

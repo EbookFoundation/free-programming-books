@@ -131,7 +131,7 @@
 ### Perl
 
 * [Perl](https://pl.wikibooks.org/wiki/Perl) - Wikibooks
-* [Samouczek Perl](http://www.w3big.com/pl/perl/default.html)
+* [Samouczek Perl](https://www.w3big.com/pl/perl/default.html)
 
 
 ### PHP

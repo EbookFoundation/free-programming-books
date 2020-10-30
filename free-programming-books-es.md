@@ -166,7 +166,7 @@
 
 * [Aprende-GO](https://github.com/JJ/aprende-go)
 * [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
-* [Go con Ejemplos](https://nachopacheco.gitbooks.io/go-es/content/doc/index.html)
+* [Go con Ejemplos](https://nachopacheco.gitbooks.io/go-es/content/doc)
 
 
 ### Haskell

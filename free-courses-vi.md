@@ -172,7 +172,7 @@
 ### React
 
 * [React.js Cơ Bản](https://www.youtube.com/watch?v=zrdXI6uZuW4&list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd)
-* [Đồ án React cơ bản](https://www.youtube.com/watch?v=yYM1edV0j4I&list=PLv6GftO355Av08p6Zi1I67VYw47nMS8xO) - ZendVN
+* [ReactJS - Demo các project trong khóa học](https://www.youtube.com/playlist?list=PLv6GftO355Av08p6Zi1I67VYw47nMS8xO) - ZendVN - Học Lập Trình Online
 
 
 ### Ruby

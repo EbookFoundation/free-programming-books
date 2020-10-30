@@ -2,6 +2,7 @@
 
 * [Bash](#bash)
 * [Clojure](#clojure)
+* [Dart](#Dart)
 * [Data Science](#data-science)
 * [Git](#git)
 * [HTML / CSS](#html--css)
@@ -31,6 +32,10 @@
 ### Data Science
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
+
+
+### Dart
+* [Dart Cheat Sheet](https://bs-uploads.toptal.io/blackfish-uploads/gated_content_article_page/content/attachment_file/attachment/28693/DartLanguageCheatSheet-e60b3291e2dbe9ffe2a53ebdf0cd7442.pdf) (PDF)
 
 
 ### Git

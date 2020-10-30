@@ -123,7 +123,7 @@
 ### Java
 
 * [Khóa học lập trình JavaFX](https://www.youtube.com/watch?v=zAq7Lmv46PE&list=PL33lvabfss1yRgFCgFXjtYaGAuDJjjH-j) - Kteam
-
+* [Khóa học lập trình Java cơ bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaB4DMiP4wYbLjfszqKg89lL) - thân triệu
 
 ### JavaScript
 

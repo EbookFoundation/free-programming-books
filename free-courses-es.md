@@ -187,6 +187,9 @@
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
 * [Python Módulo 1](https://www.pildorasinformaticas.es/course/curso-python) - Juan Díaz (Píldoras Informáticas)
 * [Python Módulo 2](https://www.pildorasinformaticas.es/course/curso-python/curso-python-modulo-2) - Juan Díaz (Píldoras Informáticas)
+* [Aprende-GO](https://github.com/JJ/aprende-go)
+* [El pequeño libro de GO](https://github.com/raulexposito/the-little-go-book/) - Raúl Expósito
+* [Go con Ejemplos](https://nachopacheco.gitbooks.io/go-es/content/doc/index.html)
 
 
 ### Programación Web & Móvil

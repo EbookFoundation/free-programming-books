@@ -3,6 +3,7 @@
 * [Bash](#bash)
 * [C](#C)
 * [Clojure](#clojure)
+* [Cpp](#Cpp)
 * [Data Science](#data-science)
 * [Git](#git)
 * [HTML / CSS](#html--css)
@@ -32,6 +33,11 @@
 ### Clojure
 
 * [Clojure Cheatsheet](http://clojure.org/cheatsheet)
+
+
+### Cpp
+
+* [Cpp](https://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) (PDF)
 
 
 ### Data Science

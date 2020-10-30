@@ -121,6 +121,11 @@
 * [Flask의 세계에 오신것을 환영합니다.](https://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
 
 
+#### PyQt5
+
+* [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165)
+
+
 ### R
 
 * [R을 이용한 데이터 처리 & 분석 실무](http://r4pda.co.kr) - 서민구 (HTML, PDF - 이전 버젼)

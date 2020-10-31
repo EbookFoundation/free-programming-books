@@ -1,4 +1,4 @@
-﻿### Index
+### Index
 
 * [ABAP](#abap)
 * [Ada](#ada)
@@ -621,6 +621,7 @@
 * [Getting Real](http://gettingreal.37signals.com)
 * [Google Maps API Succinctly](https://www.syncfusion.com/ebooks/google_maps_api_succinctly) - Mark Lewin
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
+* [Hello SDL](https://lazyfoo.net/tutorials/SDL) - Lazy Foo' Productions
 * [High-Performance Scientific Computing](https://andreask.cs.illinois.edu/Teaching/HPCFall2012) (class lectures and slides)
 * [HoloLens Succinctly](https://www.syncfusion.com/ebooks/hololens_succinctly) - Lars Klint
 * [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html) - R. Young

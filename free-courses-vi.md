@@ -115,6 +115,7 @@
 ### Go
 
 * [Golang Cơ Bản](https://www.codehub.com.vn/Golang-Co-Ban)
+* [Lập trình Golang](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
 
 
 ### HTML

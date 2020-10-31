@@ -752,6 +752,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Professional Development
 
 * [Clean Code Developer: An initiative for more professionalism in software development](https://www.gitbook.com/book/ccd_school/clean-code-developer-com/details) (:construction: *in process*)
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.itfseafarers.org/sites/default/files/node/resources/files/Clean_Code-Robert.C.Martin.pdf) - Robert C. Martin (PDF)
 * [Confessions of an IT Manager](https://www.red-gate.com/library/confessions-of-an-it-manager) - Phil Factor (PDF)
 * [Don't Just Roll the Dice](https://www.red-gate.com/library/dont-just-roll-the-dice) - Neil Davidson (PDF)
 * [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
@@ -1638,7 +1639,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Spring Framework Cookbook: Hot Recipes for Spring Framework](https://www.javacodegeeks.com/wp-content/uploads/2017/01/Spring-Framework-Cookbook.pdf) - JCGs (Java Code Geeks) (PDF)
 * [Spring Framework Notes for Professionals](https://books.goalkicker.com/SpringFrameworkBook) - Compiled from StackOverflow documentation
 * [Spring Framework Reference Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/) - Rod Johnson et al.
-* [Spring Microservices in Action](http://mocom.xmu.edu.cn/home/project/soft/Spring/Spring.Microservices.in.Action2017.pdf) - John Carnell (PDF)
 
 
 #### Spring Boot

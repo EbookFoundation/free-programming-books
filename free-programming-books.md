@@ -1002,9 +1002,9 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Awk
 
-* [A User's Guide for GNU AWK](http://www.math.utah.edu/docs/info/gawk_toc.html)
 * [An Awk Primer](https://en.wikibooks.org/wiki/An_Awk_Primer) - Wikibooks
 * [Awk](http://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
+* [Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual) - Arnold D. Robbins (HTML, PDF)
 
 
 ### Bash

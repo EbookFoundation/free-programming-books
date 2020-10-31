@@ -202,6 +202,8 @@
 
 ### JavaScript
 
+* [Apuntes de Javascript II](https://leanpub.com/apuntes-javascript-intermedio) - JuanMa Garrido (HTML, PDF, MOBI, EPUB; Leanpub cuenta requerida)
+* [Apuntes de Javascript III](https://leanpub.com/apuntes-javascript-avanzado) - JuanMa Garrido (HTML, PDF, MOBI, EPUB; Leanpub cuenta requerida)
 * [El Tutorial de JavaScript Moderno](https://es.javascript.info) (HTML)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)

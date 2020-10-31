@@ -286,6 +286,7 @@
 * [Introduction to TouchDesigner 099](https://leanpub.com/introductiontotouchdesigner/) *(Leanpub account or valid email requested)*
 * [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com) - Scratchapixel (:construction: *in process*)
 * [Learn OpenGL](http://learnopengl.com) - Joey de Vries
+* [Learn OpenGL RS](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty et al. (:construction: *in process*) (Rust)
 * [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) - Jason L. McKesson (draft)
 * [Notes for a Computer Graphics Programming Course](https://www.cs.csustan.edu/~rsc/CS3600F00/Notes.pdf) - Dr. Steve Cunningham (PDF)
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations.

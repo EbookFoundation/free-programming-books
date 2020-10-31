@@ -45,6 +45,7 @@
     * [AngularJS](#angularjs)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
+    * [Electron.js](#electronjs)
     * [ExtJS](#extjs)
     * [impress.js](#impressjs)
     * [jQuery](#jquery)
@@ -505,6 +506,18 @@
   * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
 
 
+#### Deno
+
+  * [Deno 钻研之术](https://deno-tutorial.js.org)
+  * [Deno进阶开发笔记](https://chenshenhai.com/deno_note) - 大深海
+
+
+#### Electron.js
+
+  * [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
+  * [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
+
+
 #### ExtJS
 
   * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
@@ -643,15 +656,13 @@
 
 ### Python
 
-* [Django 1.11.6 中文文档](https://www.yiyibooks.cn/xx/Django_1.11.6/index.html)
-* [Django 2.2.1 中文文档](http://www.osgeo.cn/django/) - (这个很新，也很全，Online)
-* [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Matplotlib 3.0.3 中文文档](http://www.osgeo.cn/matplotlib/) - (Online)
 * [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) - (Online)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
 * [Python 3.8.0a3中文文档](http://www.osgeo.cn/cpython/) - (目前在线最全的中文文档了，Online)
 * [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 * [Python 中文学习大本营](http://www.pythondoc.com)
+* [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python之旅](http://funhacks.net/explore-python) - Ethan
 * [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
@@ -663,6 +674,9 @@
 
 #### Django
 
+* [Django 1.11.6 中文文档](https://www.yiyibooks.cn/xx/Django_1.11.6/index.html)
+* [Django 2.2.1 中文文档](http://www.osgeo.cn/django/) - (这个很新，也很全，Online)
+* [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Django Girls 教程 (1.11)](https://tutorial.djangogirls.org/zh/) (HTML)
 * [Django 搭建个人博客教程 (2.1)](https://www.dusaiphoto.com/article/detail/2) - (杜赛) (HTML)
 

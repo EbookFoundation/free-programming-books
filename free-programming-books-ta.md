@@ -8,6 +8,7 @@
 * [Machine Learning](#MachineLearning)
 * [MySQL](#MySQL)
 * [PHP](#PHP)
+* [Ruby](#Ruby)
 
 
 ### BigData
@@ -49,3 +50,8 @@
 ### PHP
 
 * [எளிய தமிழில் PHP](https://freetamilebooks.com/ebooks/learn-php-in-tamil/)
+
+
+### Ruby
+
+* [எளிய இனிய கணினி மொழி Ruby](http://www.kaniyam.com/download/learn-ruby-in-tamil.pdf) - பிரியா சுந்தரமூர்த்தி (PDF)

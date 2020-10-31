@@ -1,6 +1,8 @@
 ### Index
 
+* [C++](#C++)
 * [Clojure](#clojure)
+* [Design and Architecture](#design-and-architecture)
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -13,14 +15,24 @@
 
 ### Уровни
 
-BEG - новичок. Основы.
-INT - средний. Расширенные возможности.
+BEG - новичок. Основы.  
+INT - средний. Расширенные возможности.  
 ADV - продвинутый. Тонкости.
+
+
+### C++
+
+* [Введение в программирование (C++)](https://stepik.org/course/363) - Stepik (BEG)
 
 
 ### Clojure
 
 * [Курс Clojure](https://clojurecourse.by) (BEG)
+
+
+### Design and Architecture
+
+* [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
 
 
 ### Haskell
@@ -40,11 +52,13 @@ ADV - продвинутый. Тонкости.
 
 * [Алгоритмы и структуры данных](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/AlgAndData.md) - Тимур Шемсединов (INT)
 * [Асинхронное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md) - Тимур Шемсединов (INT)
+* [Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru)
 * [Метапрограммирование и мультипарадигменное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Metaprogramming.md) - Тимур Шемсединов (INT)
 * [Объектно ориентированное](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md) - Тимур Шемсединов (INT)
 * [Основы программирования](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0) - Тимур Шемсединов (INT)
 * [Парадигмы программирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md) - Тимур Шемсединов (INT)
 * [Параллельное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Parallel.md) - Тимур Шемсединов (INT)
+* [Современный учебник JavaScript](https://learn.javascript.ru) - Илья Кантор (INT)
 * [Технологический стек NodeJS](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md) - Тимур Шемсединов (INT)
 * [Функциональное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md) - Тимур Шемсединов (INT)
 * [Шаблоны проектирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md) - Тимур Шемсединов (INT)
@@ -81,4 +95,3 @@ ADV - продвинутый. Тонкости.
 * [Python: основы и применение](https://stepik.org/course/512) - Stepik (INT)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
 * [Программирование на Python](https://stepik.org/course/67) - Stepik (BEG)
-

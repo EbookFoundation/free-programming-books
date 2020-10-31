@@ -1,4 +1,4 @@
-### Index
+### İçindekiler
 
 * [Android](#android)
 * [C](#c)

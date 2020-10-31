@@ -1,11 +1,11 @@
 阅读本文的其他语言版本：[English](HOWTO.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh-TW.md), [Português (BR)](HOWTO.pt_BR.md), [فارسی](HOWTO-fa_IR.md)
 
-欢迎使用免费编程书籍！我们欢迎新的贡献者；即使是在Github上首次提出拉取请求的人。如果您是其中之一，那么以下资源可能会有所帮助：
+欢迎使用免费编程书籍！我们欢迎新的贡献者；即使是在GitHub上首次提出拉取请求的人。如果您是其中之一，那么以下资源可能会有所帮助：
 
 * [关于拉取请求](https://help.github.com/articles/about-pull-requests/)
-* [Github你好世界](https://guides.github.com/activities/hello-world/)
-* [Youtube-Github初学者教程](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [Youtube-如何分叉GitHub存储库并提交请求请求](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+* [GitHub你好世界](https://guides.github.com/activities/hello-world/)
+* [YouTube-GitHub初学者教程](https://www.youtube.com/watch?v=0fKg7e37bQE)
+* [YouTube-如何分叉GitHub存储库并提交请求请求](https://www.youtube.com/watch?v=G1I3HF4YWEw)
 
 
 不要犹豫，提问题。每个贡献者都从第一个PR开始。你可能是我们的千分之一！

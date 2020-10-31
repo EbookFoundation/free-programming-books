@@ -1,11 +1,11 @@
 閱讀本文的其他語言版本：[English](HOWTO.md), [हिन्दी](HOWTO-hi.md), [简体中文](HOWTO-zh.md), [Português (BR)](HOWTO.pt_BR.md), [فارسی](HOWTO-fa_IR.md)
 
-歡迎使用 Free-Programming-Books！我们歡迎新的貢獻者；即使是在Github上首次提出 pull request 的人。如果您是其中之一，那麼以下資源可能會對你有所幫助：
+歡迎使用 Free-Programming-Books！我们歡迎新的貢獻者；即使是在GitHub上首次提出 pull request 的人。如果您是其中之一，那麼以下資源可能會對你有所幫助：
 
 * [關於 pull request](https://help.github.com/articles/about-pull-requests/)
-* [Github Hello World](https://guides.github.com/activities/hello-world/)
-* [Youtube-Github 初學者課程](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+* [GitHub Hello World](https://guides.github.com/activities/hello-world/)
+* [YouTube-GitHub 初學者課程](https://www.youtube.com/watch?v=0fKg7e37bQE)
+* [YouTube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
 
 
 不要猶豫，儘管提問。每個貢獻者都是從第一個PR開始。你可能是我們的千分之一！

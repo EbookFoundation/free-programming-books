@@ -26,7 +26,7 @@
 ### JavaScript
 
 * [یادگیری اصولی جاواسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
-* مارین هاوربک -  [جاوااسکریپت شیوا](http://eloquentjs.ir/) (HTML)
+* مارین هاوربک -  [جاوااسکریپت شیوا](http://eloquentjs.ir) (HTML)
 
 
 ### LaTeX

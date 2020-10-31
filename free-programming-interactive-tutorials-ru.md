@@ -18,7 +18,7 @@
 
 ### SQL
 
-* [SQL упражнения](https://www.sql-ex.ru/)
+* [SQL упражнения](https://www.sql-ex.ru)
 
 
 ### Веб-разработка

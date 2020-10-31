@@ -63,6 +63,7 @@
 * [UnderJS podcast](https://underjs.ru) (Podcast)
 * [Webstandards](https://soundcloud.com/web-standards) (Podcast)
 * [Фронтенд юность](https://soundcloud.com/frontend_u) (Podcast)
+* [CSSSR](https://soundcloud.com/csssr) (Podcast)
 
 
 ### Node.js

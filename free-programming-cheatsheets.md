@@ -1,6 +1,8 @@
 ### Index
 
 * [Bash](#bash)
+* [C](#C)
+* [C++](#c-1)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
@@ -21,6 +23,16 @@
 ### Bash
 
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+
+
+### C
+
+* [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
+
+
+### C++
+
+* [C++ Quick Reference](https://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) (PDF)
 
 
 ### Clojure
@@ -93,6 +105,7 @@
 ### Python
 
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
+* [Python Crach Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)

@@ -9,6 +9,7 @@
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
+* [Dart](#Dart)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -97,6 +98,11 @@
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)
+
+
+### Dart
+
+* [Dart tutorials and course](https://hackr.io/tutorials/learn-dart) - Hackr.io
 
 
 ### Git

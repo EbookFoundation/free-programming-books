@@ -623,6 +623,7 @@
 
 ### PHP
 
+* [CodeIgniter 使用手冊](https://codeigniter.org.tw/userguide3)
 * [Composer中文文档](http://docs.phpcomposer.com)
 * [Phalcon7中文文档](http://www.myleftstudio.com)
 * [PHP 之道](http://wulijun.github.io/php-the-right-way/)

@@ -215,7 +215,7 @@
 
 #### CodeIgniter
 
-* [CodeIgniter para Iniciantes](https://www.cursou.com.br/informatica/codeigniter/) - RBtech (Cursou)
+* [Curso de CodeIgniter para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV) - RBtech
 
 
 #### Laravel

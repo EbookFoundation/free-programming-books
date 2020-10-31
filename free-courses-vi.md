@@ -190,6 +190,7 @@
 
 * [SQL Cơ Bản](https://www.codehub.com.vn/SQL-Co-Ban)
 * [SQL Cơ Bản](https://www.youtube.com/watch?v=2fanjSYVElY&list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
+* [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - thân triệu
 
 
 ### Swift

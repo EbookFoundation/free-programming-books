@@ -1,6 +1,7 @@
 ### Index
 
 * [Angular](#angular)
+* [C++](#C-1)
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
 * [CSS](#css)
@@ -40,6 +41,11 @@
 
 * [Plunker](http://plnkr.co)
 * [StackBlitz](https://stackblitz.com/fork/angular)
+
+
+### C++
+
+* [Repl.it](https://repl.it/@jturnerallen/C-Playground)
 
 
 ### ClojureScript

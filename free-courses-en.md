@@ -78,6 +78,7 @@
 * [MIT's Introduction to Algorithms (SMA 5503) (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005) - Charles Leiserson, Erik Demaine
 * [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 * [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+* [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 * [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
 * [This is CS50x](https://cs50.harvard.edu/x/2020/) - David J. Malan (Harvard OpenCourseWare)

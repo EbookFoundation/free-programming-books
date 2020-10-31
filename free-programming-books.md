@@ -1972,6 +1972,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
+* [The FUNARG Problem](http://www.softwarepreservation.net/projects/LISP/MIT/Weizenbaum-FUNARG_Problem_Explained-1968.pdf) - Joseph Weizenbaum - 1968
 
 
 ### Livecode

@@ -15,7 +15,7 @@
 
 ### C++
 
-* [Noțiuni de programare în limbajul C++ - Adrian Runceanu](https://docplayer.es/65970256-Notiuni-de-programare-in-limbajul-c.html)
+* [Noțiuni de programare în limbajul C++](https://docplayer.es/65970256-Notiuni-de-programare-in-limbajul-c.html) - Adrian Runceanu
 
 
 ### HTML

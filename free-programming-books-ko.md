@@ -116,6 +116,7 @@
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
+* [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
 
 
 #### Django

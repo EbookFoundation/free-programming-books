@@ -112,7 +112,7 @@
 ### Go
 
 * [Golang Cơ Bản](https://www.codehub.com.vn/Golang-Co-Ban)
-* [Golang cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
+* [Lập trình Golang](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
 
 
 ### HTML

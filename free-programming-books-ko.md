@@ -21,6 +21,7 @@
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Scratch](#scratch)
+* [SQL](#sql)
 * [Swift](#swift)
 
 
@@ -142,4 +143,8 @@
 
 * [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
 
+
+### SQL
+
+* [모두의 SQL](https://thebook.io/006977/)
 

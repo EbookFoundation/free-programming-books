@@ -152,6 +152,7 @@
 ### Objective-C
 
 * [Objective-C Cơ Bản](https://www.codehub.com.vn/Objective-C-Co-Ban)
+* [học lập trình objective-c miễn phí](https://www.youtube.com/playlist?list=PLgT92sqeoAUC6gHyrbdZTbulFF8qwxGSK) - Kênh học miễn phí qua video trên youtube
 
 
 ### PHP

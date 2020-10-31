@@ -79,8 +79,8 @@
 
 ### Java
 
-* [24 Saatte Java](https://drive.google.com/file/d/1RIfAV6CgTZt9tuu3Ua37AXacGWuRXA2F/view?usp=sharing)
-* [Java ile Nesneye Yönelik Programlama](https://drive.google.com/file/d/1QhjyieMy0Bq-vU2jr3jV3IZ3mhhJsVDx/view?usp=sharing)
+* [24 Saatte Java](https://ia601505.us.archive.org/23/items/24-saatte-java/24-saatte-java-turkce.pdf)
+* [Java ile Nesneye Yönelik Programlama](https://ia801507.us.archive.org/12/items/java-ile-nesneye-yonelik-programlama/Java%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf)
 * [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf)
 
 

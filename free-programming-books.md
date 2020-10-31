@@ -1638,6 +1638,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Spring Framework Cookbook: Hot Recipes for Spring Framework](https://www.javacodegeeks.com/wp-content/uploads/2017/01/Spring-Framework-Cookbook.pdf) - JCGs (Java Code Geeks) (PDF)
 * [Spring Framework Notes for Professionals](https://books.goalkicker.com/SpringFrameworkBook) - Compiled from StackOverflow documentation
 * [Spring Framework Reference Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/) - Rod Johnson et al.
+* [Spring Microservices in Action](http://mocom.xmu.edu.cn/home/project/soft/Spring/Spring.Microservices.in.Action2017.pdf) - John Carnell (PDF)
 
 
 #### Spring Boot

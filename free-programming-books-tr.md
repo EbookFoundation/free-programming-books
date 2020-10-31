@@ -28,7 +28,7 @@
 
 * [Algoritmalar ve Programlama](https://drive.google.com/file/d/1LBAJNYPX8d-zYCI34nQEi5Gpl9nRG44f/view)
 * [Algoritma ve Programlamaya Giriş Ders Notları](https://drive.google.com/file/d/1JEouRnOuwbEdlS4aCfNxRBjZDr-5FEgr/view) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr/)
-* []()
+* [Algoritma ve Programlama Soru Bankası](https://ia601404.us.archive.org/34/items/algoritma-ve-programlama-soru-bankasi/algoritma-ve-programlama-soru-bankas%C4%B1.pdf)
 * [Bilgisayar Teriminde Algoritma](https://medium.com/yaz%C4%B1l%C4%B1m-de%C4%9Firmeni/bilgisayar-teriminde-algoritma-5d2fdfae0050) - [Agah Emir](https://medium.com/@agahemir986)
 
 ### Android

@@ -80,6 +80,7 @@
 * [Học Lập Trình C++ - Cấu trúc dữ liệu](https://www.youtube.com/watch?v=pxwP0b77Kl0&list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F) - DayNhauHoc
 * [Lập trình C++ cơ bản](https://www.youtube.com/watch?v=WS05AU6YYm4&list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - Kteam
 * [Ngôn Ngữ Lập Trình C](https://www.youtube.com/watch?v=bv4wVWi-Fjc&list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - DayNhauHoc
+* [Học lập trình C cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpAEl0D3W17WDS3ZtGbHIxF3) - Son Nguyen
 
 
 ### C-Sharp

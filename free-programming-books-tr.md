@@ -10,6 +10,7 @@
 * [Go](#go)
 * [Html](#html)
 * [iOS](#ios)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -74,6 +75,13 @@
 ### iOS
 
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
+
+
+### Java
+
+* [24 Saatte Java](https://drive.google.com/file/d/1RIfAV6CgTZt9tuu3Ua37AXacGWuRXA2F/view?usp=sharing)
+* [Java ile Nesneye Yönelik Programlama](https://drive.google.com/file/d/1QhjyieMy0Bq-vU2jr3jV3IZ3mhhJsVDx/view?usp=sharing)
+* [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf)
 
 
 ### JavaScript

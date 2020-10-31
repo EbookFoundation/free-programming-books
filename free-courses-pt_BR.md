@@ -27,7 +27,7 @@
 * [Node.js](#nodejs)
 * [PHP](#php)
     * [CodeIgniter](#codeIgniter)
-    * [Laravel](#laravel)
+  * [Laravel](#laravel)
 * [Python](#python)
 * [React Native](#react-native)
 * [Ruby](#ruby)

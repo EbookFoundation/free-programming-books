@@ -26,7 +26,7 @@
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [PHP](#php)
-    * [CodeIgniter](#codeIgniter)
+  * [CodeIgniter](#codeIgniter)
   * [Laravel](#laravel)
 * [Python](#python)
 * [React Native](#react-native)

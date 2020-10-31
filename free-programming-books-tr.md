@@ -26,10 +26,11 @@
 
 ### Algoritma ve Veri Yapıları
 
-* [Algoritmalar ve Programlama](https://drive.google.com/file/d/1LBAJNYPX8d-zYCI34nQEi5Gpl9nRG44f/view)
-* [Algoritma ve Programlamaya Giriş Ders Notları](https://drive.google.com/file/d/1JEouRnOuwbEdlS4aCfNxRBjZDr-5FEgr/view) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr/)
+* [Algoritmalar ve Programlama](https://ia601408.us.archive.org/31/items/algoritmalar-ve-programlama/Algoritmalar%20ve%20Programlama.pdf)
+* [Algoritma ve Programlamaya Giriş Ders Notları](https://ia601404.us.archive.org/12/items/algoritma-ve-programlamaya-giris-ders-notlari/Algoritma%20ve%20Programlamaya%20Giri%C5%9F%20Ders%20Notlar%C4%B1.pdf) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr/)
 * [Algoritma ve Programlama Soru Bankası](https://ia601404.us.archive.org/34/items/algoritma-ve-programlama-soru-bankasi/algoritma-ve-programlama-soru-bankas%C4%B1.pdf)
 * [Bilgisayar Teriminde Algoritma](https://medium.com/yaz%C4%B1l%C4%B1m-de%C4%9Firmeni/bilgisayar-teriminde-algoritma-5d2fdfae0050) - [Agah Emir](https://medium.com/@agahemir986)
+
 
 ### Android
 
@@ -143,4 +144,6 @@
 ### Rust
 
 * [Rust'a Giriş](http://bit.ly/rustagiris) - Mahmut Bulut
+
+
 

@@ -11,9 +11,10 @@
 * [Delphi](#delphi)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
+* [Erlang](#erlang)
 * [Generale](#generale)
 * [Java](#Java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
 * [Mobile](#mobile)
 * [Networking](#networking)
@@ -90,6 +91,12 @@
 * [Corso Arduino 2014](https://www.youtube.com/watch?v=WuqS4C4u42E&list=PLA27EZBY5vePO9T6YP3rH8LTTdylz69VE) (POuLpolimi Politecnico di Milano)
 
 
+### Erlang
+
+* [Erlang/OTP](http://www.khaldi.it/art/erlang/erl01/E01.html) - Jilani KHALDI
+* [Iniziare con Erlang Language](https://riptutorial.com/it/erlang)
+
+
 ### Generale
 
 * [Automi e Linguaggi Formali](https://www.youtube.com/playlist?list=PLhEwqlL10MqNz1pA7R5jnB_gsMIhDOe5X) - Bresolin e Filè (Università di Padova)
@@ -107,9 +114,9 @@
 * [Programmazione a Oggetti (Java)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kewGZIHpCDgarZER_-J1am) (M. Torchiano)
 
 
-### Javascript
+### JavaScript
 
-* [Corso di Javascript (base)](https://www.youtube.com/watch?v=JUBhi8O3wn0&list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) [(Lacerba.io)](https://lacerba.io)
+* [Corso di JavaScript (base)](https://www.youtube.com/watch?v=JUBhi8O3wn0&list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) [(Lacerba.io)](https://lacerba.io)
 * [Corso Javascript (ES6)](https://www.youtube.com/watch?v=dDekOIgzxPA&list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) (F. Camuso)
 
 

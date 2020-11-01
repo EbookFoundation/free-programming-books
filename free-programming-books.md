@@ -2334,6 +2334,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) - Jake VanderPlas (PDF) [(EPUB, MOBI)](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp?download=yes)
 * [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
 * [Beej's Guide to Python Programming - For Beginners](http://beej.us/guide/bgpython/) - B. Hall (HTML,PDF)
+* [Beginner's Python Cheatsheet](https://websitesetup.org/wp-content/uploads/2020/04/Python-Cheat-Sheet.pdf) (PDF)
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
 * [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
 * [Building Skills in Object-Oriented Design (Python)](https://web.archive.org/web/20190914230227/http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) - Steven F. Lott (PDF) (2.1.1)

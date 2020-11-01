@@ -361,6 +361,7 @@
 #### Artificial Intelligence
 
 * [Artificial Intelligence for Big Data](https://www.packtpub.com/free-ebooks/artificial-intelligence-big-data) - Anand Deshpande, Manish Kumar (Packt account *required*)
+* [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
 

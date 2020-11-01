@@ -4,6 +4,8 @@
 * [Angular](#angular)
 * [Databases](#databases)
 * [DataScience](#datascience)
+* [Game development](#game-development)
+* [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
@@ -33,7 +35,25 @@
 
 ### DataScience
 
+* [Data Hackers](https://datahackers.com.br/podcast) (podcast)
+* [Data Science Academy](http://datascienceacademy.com.br/blog/podcast-dsa/) (podcast)
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
+* [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
+
+
+### Game development
+
+* [Podquest](http://www.podquest.com.br) (podcast)
+
+
+### Go
+
+* [Aprenda Go :brazil:](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) (screencast)
+
+
+### Haskell
+
+* [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) (screencast)
 
 
 ### HTML / CSS
@@ -84,6 +104,7 @@
 * [Curso em Vídeo - Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) (screencast)
 * [Curso em Vídeo - Python Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) (screencast)
 * [Curso em Vídeo - Python Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) (screencast)
+* [Programação Dinâmica - Introdução à Python por Projetos](https://www.youtube.com/playlist?list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) (screencast)
 
 
 ### TypeScript
@@ -94,5 +115,3 @@
 #### Vue.js
 
 * [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli  (screencast)
-
-

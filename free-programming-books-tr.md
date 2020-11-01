@@ -10,6 +10,7 @@
 * [Go](#go)
 * [Html](#html)
 * [iOS](#ios)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -77,6 +78,13 @@
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
 
+### Java
+
+* [24 Saatte Java](https://ia601505.us.archive.org/23/items/24-saatte-java/24-saatte-java-turkce.pdf) (PDF)
+* [Java ile Nesneye Yönelik Programlama](https://ia801507.us.archive.org/12/items/java-ile-nesneye-yonelik-programlama/Java%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf) - Oğuz Aslantürk (PDF)
+* [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF)
+
+
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
@@ -137,4 +145,3 @@
 ### Rust
 
 * [Rust'a Giriş](http://bit.ly/rustagiris) - Mahmut Bulut
-

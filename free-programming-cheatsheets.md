@@ -4,6 +4,7 @@
 * [C](#C)
 * [C++](#c-1)
 * [Clojure](#clojure)
+* [Dart](#Dart)
 * [Data Science](#data-science)
 * [Git](#git)
 * [HTML / CSS](#html--css)
@@ -38,6 +39,11 @@
 ### Clojure
 
 * [Clojure Cheatsheet](http://clojure.org/cheatsheet)
+
+
+### Dart
+
+* [Dart Cheat Sheet](https://bs-uploads.toptal.io/blackfish-uploads/gated_content_article_page/content/attachment_file/attachment/28693/DartLanguageCheatSheet-e60b3291e2dbe9ffe2a53ebdf0cd7442.pdf) (PDF)
 
 
 ### Data Science

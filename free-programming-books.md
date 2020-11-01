@@ -2408,6 +2408,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) - Wikibooks (2.7)
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
+* [Python Tutorial](https://www.tutorialspoint.com/python) - Tutorials Point
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
 * [Slither into Python: An introduction to Python for beginners](https://www.slitherintopython.com) (3.7)

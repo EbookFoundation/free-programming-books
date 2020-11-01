@@ -2194,6 +2194,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### PHP
 
+* [Beginner's PHP Cheatsheet](https://websitesetup.org/wp-content/uploads/2020/09/PHP-Cheat-Sheet.pdf) (PDF)
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)

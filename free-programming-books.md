@@ -1673,6 +1673,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### JavaScript
 
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer (HTML)
+* [Beginner's Essential Javascript Cheat Sheet](https://websitesetup.org/wp-content/uploads/2020/09/Javascript-Cheat-Sheet.pdf) - NICK SCHÄFERHOFF (PDF)
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
 * [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book) - Gerd Wagner (HTML,PDF)
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott (HTML)

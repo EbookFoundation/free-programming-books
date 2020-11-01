@@ -72,6 +72,7 @@
 * [두들낙서의 C/C++ 강좌](https://www.youtube.com/playlist?list=PLlJhQXcLQBJqywc5dweQ75GBRubzPxhAk)
 * [박정민의 C 언어본색](https://www.youtube.com/playlist?list=PL7mmuO705dG3Z4iSqwzztuPHF3YE8mlbw)
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
+* [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
 
 
 ### C Sharp
@@ -86,8 +87,9 @@
 
 ### Deep Learning
 
-* [모두를 위한 딥러닝 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-* [모두를 위한 딥러닝 시즌 2](https://www.youtube.com/playlist?list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C)
+* [C++로 배우는 딥러닝](https://www.youtube.com/playlist?v=nHt7BHyJGko&list=PLNfg4W25Tapy5hIBmFZgT5coii1HUX6BD) - 홍성모
+* [모두를 위한 딥러닝 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) - Sung Kim
+* [모두를 위한 딥러닝 시즌 2](https://www.youtube.com/playlist?list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C) - Sung Kim
 
 
 ### Flutter
@@ -129,9 +131,9 @@
 
 ### JavaScript
 
-* [Javascript for Web Browser](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX) (생활코딩)
-* [Javascript 입문 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) (생활코딩)
-* [모던 웹을 위한 Javascript + jQuery](https://www.youtube.com/playlist?list=PLBXuLgInP-5kLy13XLuK8iBWVFDBJygYr)
+* [JavaScript for Web Browser](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX) (생활코딩)
+* [JavaScript 입문 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) (생활코딩)
+* [모던 웹을 위한 JavaScript + jQuery](https://www.youtube.com/playlist?list=PLBXuLgInP-5kLy13XLuK8iBWVFDBJygYr)
 
 
 #### Angular.js
@@ -224,6 +226,7 @@
 ### Spring
 
 * [Spring 강좌](https://www.youtube.com/playlist?list=PLY9pe3iUjRrRiJeg0jw22yW1G5yzAdiqC)
+* [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) (김영한)
 
 
 ### Swift

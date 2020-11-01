@@ -1,4 +1,4 @@
-*Read this in other languages: [中文](CONTRIBUTING-zh.md).*
+*Read this in other languages: [简体中文](CONTRIBUTING-zh.md)、[繁體中文](CONTRIBUTING-zh-TW.md)、[فارسی](CONTRIBUTING-fa_IR.md).*
 
 ## Contributor License Agreement
 By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) of this repository.
@@ -118,3 +118,15 @@ GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
 ```
 GOOD: * [Will Be Awesome Soon Book](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
 ```
+
+### Automation
+- Formatting rules enforcement is automated via [Travis CI](https://travis-ci.com) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [.travis.yml](.travis.yml))
+- URL validation uses [awesome_bot](https://github.com/dkhamsing/awesome_bot)
+- To trigger URL validation, push a commit that includes a commit message containing `check_urls=file_to_check`:
+
+```
+check_urls=free-programming-books.md free-programming-books-en.md
+```
+
+- You may specify more than one file to check, using a single space to separate each entry.
+- If you specify more than one file, results of the build is based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the pull request by clicking on "Show all checks" -> "Details".

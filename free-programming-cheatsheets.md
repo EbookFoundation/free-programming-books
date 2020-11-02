@@ -15,6 +15,7 @@
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
 * [MongoDB](#mongodb)
+* [Perl](#Perl)
 * [Python](#python)
 * [Ruby](#ruby)
 * [SQL](#sql)
@@ -100,6 +101,11 @@
 ### MongoDB
 
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet
+
+
+### Perl
+
+* [Perl Reference card](https://michaelgoerz.net/refcards/perl_refcard.pdf) (PDF)
 
 
 ### Python

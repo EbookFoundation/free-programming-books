@@ -78,11 +78,14 @@
 ### C
 
 * [Bài toán kinh điển trong lập trình C++](https://www.youtube.com/watch?v=2SsyOv0koNE&list=PL33lvabfss1zRuwxONgKLc_BBsZ-Y2B6b) - Kteam
-* [Học Lập Trình C++](https://www.youtube.com/watch?v=jrn6bXC6sTU&list=PLyiioioEJSxHVTaeL-ELYy6Io-I8diIVZ) - DayNhauHoc
-* [Học Lập Trình C++ - Cấu trúc dữ liệu](https://www.youtube.com/watch?v=pxwP0b77Kl0&list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F) - DayNhauHoc
-* [Lập trình C++ cơ bản](https://www.youtube.com/watch?v=WS05AU6YYm4&list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - Kteam
-* [Ngôn Ngữ Lập Trình C](https://www.youtube.com/watch?v=bv4wVWi-Fjc&list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - DayNhauHoc
+* [C++ Cấu trúc dữ liệu](https://www.youtube.com/playlist?list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F) - Dạy Nhau Học
+* [Học lập trình C cho người mới bắt đầu (2019)](https://www.youtube.com/playlist?list=PLh91SaQgRYnpj1GqVmVMq4acSAHtSKKwR) - Lập Trình Không Khó
 * [Học lập trình C cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpAEl0D3W17WDS3ZtGbHIxF3) - Son Nguyen
+* [Học Lập Trình C++](https://www.youtube.com/watch?v=jrn6bXC6sTU&list=PLyiioioEJSxHVTaeL-ELYy6Io-I8diIVZ) - Dạy Nhau Học
+* [Học lập trình C++ cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr) - Lập Trình Không Khó
+* [Lập trình C++ cơ bản](https://www.youtube.com/watch?v=WS05AU6YYm4&list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - Kteam
+* [Ngôn Ngữ Lập Trình C](https://www.youtube.com/watch?v=bv4wVWi-Fjc&list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - Dạy Nhau Học
+* [Series Con trỏ trong C](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - Cộng đồng C Việt
 
 
 ### C-Sharp

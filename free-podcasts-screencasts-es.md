@@ -21,7 +21,6 @@
 ### Frontend
 
 * [Diseño Web](https://pampua.es/podcast/) (podcast)
-* [WeCodeSign Podcast](http://wecodesignpodcast.com) (podcast)
 * [Midu Dev](https://midu.dev/podcast) (podcast) (Última Actualización, Marzo 2020)
 
 ### Programación

@@ -1,7 +1,9 @@
 ### Index
 
 * [Ciencia de Datos](#ciencia-de-datos)
+* [Desarrollo Web](#desarrollo-web)
 * [Frontend](#frontend)
+* [Juegos](#juegos)
 * [Programación](#programación)
 * [Software Libre](#software-libre)
 * [Variados](#variados)

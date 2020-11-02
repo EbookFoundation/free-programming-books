@@ -22,15 +22,16 @@
 * [Web Reactiva](https://www.danielprimo.io/podcast) (podcast)
 
 
-### Juegos
-
-* [Aquelarre of Games](http://aquelarreofgames.com.ar/podcast) (podcast)
-* [Diógenes Digital](https://diogenesdigital.es/podcasts/) (pdocast) (Última Actualziación, Octubre, 2019)
-
 ### Frontend
 
 * [Diseño Web](https://pampua.es/podcast) (podcast)
 * [Midu Dev](https://midu.dev/podcast) (podcast) (Última Actualización, Marzo 2020)
+
+
+### Juegos
+
+* [Aquelarre of Games](http://aquelarreofgames.com.ar/podcast) (podcast)
+* [Diógenes Digital](https://diogenesdigital.es/podcasts/) (pdocast) (Última Actualziación, Octubre, 2019)
 
 
 ### Programación

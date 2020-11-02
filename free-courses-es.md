@@ -33,6 +33,7 @@
 * [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4)
 * [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1)
 * [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130)
+* [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) - Jesús Conde (Youtube)
 
 
 ### Arduino

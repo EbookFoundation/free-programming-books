@@ -57,7 +57,7 @@
 * [Doomling & Chill](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNGM2ZjE5MC9wb2RjYXN0L3Jzcw==) (podcast)
 * [Educando Geek](https://educandogeek.github.io) (podcast)
 * [Frikismo Puro](https://www.ivoox.com/podcast-frikismo-puro_sq_f1268809_1.html) (podcast)
-* [Hijos de la Web](https://www.hijosdelaweb.com) (Última Actualización, Marzo 2020) (podcast)
+* [Hijos de la Web](https://www.hijosdelaweb.com) (podcast) (Última Actualización, Marzo 2020)
 * [iCharlas](http://icharlas.es/) (podcast)
 * [La Tecnologería](https://tecnologeria.com) (podcast)
 * [Más allá de la innovación](https://masalladelainnovacion.com/todos-los-podcasts/) (podcast)

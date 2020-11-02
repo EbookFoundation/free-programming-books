@@ -5,4 +5,4 @@
 
 ### Dart
 
-* [DartPad](https://dartpad.zh)
+* [DartPad](https://dartpad.cn)

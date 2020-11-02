@@ -585,6 +585,7 @@
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 ### Rust
+
 * [Intro to Rust](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW) - Tensor Programming (YouTube)
 * [Rust Basics](https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS) - Engineer Man (YouTube)
 * [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw) - Traversy Media (YouTube 1.5hr)

@@ -102,6 +102,10 @@
 * [Udacity Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 * [Udacity Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 * [Udacity Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
+* [Udacity Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+* [Udacity Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
+* [Udacity Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
+* [Udacity Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 
 
 ### Angular

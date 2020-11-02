@@ -5,7 +5,9 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
-* [Javascript](#javascript)
+* [Java](#java)
+  * [Spring](#spring)
+* [JavaScript](#javascript)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [QA](#qa)
@@ -42,13 +44,26 @@
 * [Бананы и Линзы](https://bananasandlenses.net)
 
 
-### Javascript
+### Java
+
+* [Плейлист видео по Java для новичков](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
+
+
+#### Spring
+
+* [Плейлист видео по Spring framework](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)
+
+
+### JavaScript
 
 * [Devschacht](https://soundcloud.com/devschacht) (Podcast)
 * [Frontflip](http://frontflip.me) (Podcast)
-* [Javascript для начинающих](http://www.magisters.org/education/course/js-for-beginners) (Screencast)
+* [JavaScript для начинающих](http://www.magisters.org/education/course/js-for-beginners) (Screencast)
 * [RadioJS](http://radiojs.ru) (Podcast)
+* [UnderJS podcast](https://underjs.ru) (Podcast)
 * [Webstandards](https://soundcloud.com/web-standards) (Podcast)
+* [Фронтенд юность](https://soundcloud.com/frontend_u) (Podcast)
+* [CSSSR](https://soundcloud.com/csssr) (Podcast)
 
 
 ### Node.js
@@ -102,6 +117,7 @@
 
 * [CTOcast](http://ctocast.com) (Podcast)
 * [DevZen Podcast](https://devzen.ru) (Podcast)
+* [Frontend Weekend](https://podcasts.apple.com/podcast/id1233996390)
 * [Mobile People Talks](https://soundcloud.com/mobilepeopletalks) (Podcast)
 * [Podlodka](https://podlodka.io) (Podcast)
 * [Software Development podCAST](https://sdcast.ksdaemon.ru) (Podcast)

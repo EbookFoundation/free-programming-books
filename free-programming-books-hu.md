@@ -64,7 +64,7 @@
 ### Lego Mindstorms
 
 * [A MINDSTORMS EV3 robotok programozásának alapjai](https://hdidakt.hu/wp-content/uploads/2016/01/dw_74.pdf) - Kiss Róbert (PDF)
-* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](http://www.amcham.hu/download/002/556/Robotkonyv_KR_BZS.pdf) - Kiss Róbert, Badó Zsolt (PDF)
+* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF)
 
 
 ### LISP
@@ -103,6 +103,7 @@
 
 * [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, ford.: Daróczy Péter (PDF)
 * [Bevezetés a wxPythonba](http://mek.oszk.hu/08400/08446/index.phtml) - Jeremy Berthet, Gilles Doge, ford.: Daróczy Péter (PDF)
+* [Hogyan gondolkozz úgy, mint egy informatikus:Tanulás Python 3 segítségével](https://mtmi.unideb.hu/pluginfile.php/554/mod_resource/content/3/thinkcspy3.pdf) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey és Chris Meyers, ford.: Biró Piroska, Szeghalmy Szilvia és Varga Imre (PDF)
 * [Tanuljunk meg programozni Python nyelven](http://mek.oszk.hu/08400/08435/index.phtml) - Gérard Swinnen, ford.: Daróczy Péter (PDF, ODT)
 
 

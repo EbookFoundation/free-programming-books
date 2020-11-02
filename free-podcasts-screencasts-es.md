@@ -37,7 +37,7 @@
 * [Doomling & Chill](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNGM2ZjE5MC9wb2RjYXN0L3Jzcw==) (podcast)
 * [Educando Geek](https://educandogeek.github.io) (podcast)
 * [Hijos de la Web](https://www.hijosdelaweb.com) (Última Actualización, Marzo 2020)
-* [La Tecnologería](https://tecnologeria.com/) (podcast)
+* [La Tecnologería](https://tecnologeria.com) (podcast)
 * [Mixx.io](https://mixx.io/podcasts) (podcast)
 * [Reescribiendo el Código](https://open.spotify.com/show/6efO7Lp5LENT3jqR0sYIG5) (podcast)
 * [UGeek](https://ugeek.github.io) (podcast)

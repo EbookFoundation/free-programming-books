@@ -1,4 +1,4 @@
-﻿### Index
+### Index
 
 * [ABAP](#abap)
 * [Ada](#ada)

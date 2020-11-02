@@ -56,6 +56,7 @@
 * [Pythoni algteadmised](https://courses.cs.ut.ee/MTAT.03.100/2012_fall/uploads/opik/00_eessona.html) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni wikiraamat](https://et.wikibooks.org/wiki/Python) - Wikiõpikud
 
+
 ### R
 
 * [Statistiline andmeteadus ja visualiseerimine R keele abil](https://andmeteadus.github.io/2015/rakendustarkvara_R/) - Mait Raag, Raivo Kolde

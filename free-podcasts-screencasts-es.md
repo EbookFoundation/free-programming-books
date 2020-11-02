@@ -18,9 +18,9 @@
 
 ### Desarrollo Web
 
-* [Codalot Podcast](https://codalot.dev/) (podcast)
+* [Codalot Podcast](https://codalot.dev) (podcast)
 * [La Web es la Plataforma](https://anchor.fm/the-web-is-the-platform) (podcast)
-* [República Web](https://republicaweb.es/) (podcast)
+* [República Web](https://republicaweb.es) (podcast)
 * [Web Reactiva](https://www.danielprimo.io/podcast) (podcast)
 
 
@@ -48,7 +48,7 @@
 ### Software Libre
 
 * [Compilando Podcast](https://compilando.audio) (podcast)
-* [Podcast Linux](https://podcastlinux.com/) (podcast)
+* [Podcast Linux](https://podcastlinux.com) (podcast)
 
 
 ### Variados
@@ -58,7 +58,7 @@
 * [Educando Geek](https://educandogeek.github.io) (podcast)
 * [Frikismo Puro](https://www.ivoox.com/podcast-frikismo-puro_sq_f1268809_1.html) (podcast)
 * [Hijos de la Web](https://www.hijosdelaweb.com) (podcast) (Última Actualización, Marzo 2020)
-* [iCharlas](http://icharlas.es/) (podcast)
+* [iCharlas](http://icharlas.es) (podcast)
 * [La Tecnologería](https://tecnologeria.com) (podcast)
 * [Más allá de la innovación](https://masalladelainnovacion.com/todos-los-podcasts/) (podcast)
 * [Mixx.io](https://mixx.io/podcasts) (podcast)

@@ -406,6 +406,7 @@
 * [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
 * [Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals)
 * [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone)
+* [Vue.js Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
 

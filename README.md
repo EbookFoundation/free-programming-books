@@ -4,6 +4,7 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 
 [View the English list](free-programming-books.md)
 
+
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker.
@@ -12,9 +13,11 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
+
 ### How To Contribute
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome](/HOWTO.md)!
+
 
 ### How to Share
 
@@ -30,7 +33,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](free-programming-books-az.md)
 + [Bengali / বাংলা](free-programming-books-bl.md)
 + [Bulgarian / български](free-programming-books-bg.md)
-+ [Burmese / မြန်မာဘာသာ](free-programming-books-mm.md)
++ [Burmese / မြန်မာဘာသာ](free-programming-books-my.md)
 + [Chinese / 中文](free-programming-books-zh.md)
 + [Czech / čeština / český jazyk](free-programming-books-cs.md)
 + [Danish / dansk](free-programming-books-dk.md)
@@ -60,6 +63,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Thai / ไทย](free-programming-books-th.md)
 + [Turkish / Türkçe](free-programming-books-tr.md)
 + [Ukrainian / Українська](free-programming-books-ua.md)
+
 
 ### Cheat Sheets
 
@@ -93,9 +97,11 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [English](free-programming-interactive-tutorials-en.md)
 + [Russian / Русский язык](free-programming-interactive-tutorials-ru.md)
 
+
 ### Problem Sets and Competitive Programming
 
 + [Problem Sets](problem-sets-competitive-programming.md)
+
 
 ### Podcast - Screencast
 
@@ -107,6 +113,7 @@ Free Podcasts and Screencasts:
 + [Polish / polski / język polski / polszczyzna](free-podcasts-screencasts-pl.md)
 + [Portuguese (Brazil)](free-podcasts-screencasts-pt_BR.md)
 + [Russian / Русский язык](free-podcasts-screencasts-ru.md)
++ [Spanish / español / castellano](free-podcasts-screencasts-es.md)
 + [Swedish / Svenska](free-podcasts-screencasts-se.md)
 
 
@@ -114,6 +121,7 @@ Free Podcasts and Screencasts:
 
 + [Chinese / 中文](free-programming-playgrounds-zh.md)
 + [English](free-programming-playgrounds.md)
+
 
 ## License
 

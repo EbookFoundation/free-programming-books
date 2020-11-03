@@ -2601,6 +2601,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
 * [Ruby on Rails Notes for Professionals](https://goalkicker.com/RubyOnRailsBook/) - Compiled from StackOverflow Documentation (PDF)
 * [Ruby on Rails Tutorial (Rails 5): Learn Web Development with Rails](https://www.railstutorial.org/book) - [Michael Hartl](http://www.michaelhartl.com)
+* [Ruby Notes for Professionals](https://books.goalkicker.com/RubyBook/) - Compiled from StackOverflow Documentation (PDF)
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
 
 

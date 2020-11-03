@@ -112,7 +112,8 @@ Free Podcasts and Screencasts:
 
 ### Programming Playgrounds
 
-+ [Free Programming Playgrounds](free-programming-playgrounds.md)
++ [Chinese / 中文](free-programming-playgrounds-zh.md)
++ [English](free-programming-playgrounds.md)
 
 ## License
 

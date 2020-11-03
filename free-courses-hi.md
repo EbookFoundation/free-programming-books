@@ -22,6 +22,7 @@
 ### C++
 
 * [The Complete C++ Course | Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+* [C++ Full Course | C++ Tutorial | Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 
 
 ### Data Structures
@@ -34,6 +35,7 @@
 ### Java
 
 * [The complete Java tutorial | Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - Harry
+* [Java + DS + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha (Anuj)
 
 
 ### Javascript

@@ -49,6 +49,6 @@
 
 ### Dynamic Programming
 
-* [Dynamic Programming in Hindi| Detailed Analysis from recursive equation to Bottom Up] https://www.youtube.com/playlist?list=PLeF0b8iqbx4mogykbd82-HY9Y1-JS9MDr Shashank Jha
+* [Dynamic Programming in Hindi| Detailed Analysis from recursive equation to Bottom Up]  (https://www.youtube.com/playlist?list=PLeF0b8iqbx4mogykbd82-HY9Y1-JS9MDr) Shashank Jha
 
 

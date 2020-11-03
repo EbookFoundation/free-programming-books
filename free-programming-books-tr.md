@@ -62,12 +62,15 @@
 
 
 ### Go
+### Go
 
 * [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
 
+
 ### Güvenlik ve Gizlilik
 
-* [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr/)
+* [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin et al.
+
 
 ### Html
 
@@ -140,4 +143,3 @@
 ### Rust
 
 * [Rust'a Giriş](http://bit.ly/rustagiris) - Mahmut Bulut
-

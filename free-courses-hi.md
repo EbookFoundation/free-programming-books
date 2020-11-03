@@ -48,7 +48,4 @@
 * [Python Tutorial For Beginners | Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - Harry
 
 
-### Dynamic Programming
-
-* [Dynamic Programming in Hindi](https://www.youtube.com/playlist?list=PLeF0b8iqbx4mogykbd82-HY9Y1-JS9MDr) - Shashank Jha
 

@@ -66,20 +66,26 @@
 ### Bash
 
 * [Khóa học Bash Shell cơ bản cho người mới](https://nguyenvanhieu.vn/hoc-bash-shell-co-ban)
+* [Những cú pháp bash shell cơ bản](https://www.youtube.com/watch?v=xilRaF5BkKI) - Thai Minh Tuan
 
 
 ### Bootstrap
 
 * [Twitter Bootstrap](https://www.codehub.com.vn/Twitter-Bootstrap)
+* [Tự học Bootstrap 4 cơ bản](https://www.youtube.com/playlist?list=PLQi-dJ8Gqv2i1NHD8f-E2w-zrrr9G7HUJ) - VIETPRO
 
 
 ### C
 
-* [Bài toán kinh điển trong lập trình C++](https://www.youtube.com/watch?v=2SsyOv0koNE&list=PL33lvabfss1zRuwxONgKLc_BBsZ-Y2B6b) - Kteam
-* [Học Lập Trình C++](https://www.youtube.com/watch?v=jrn6bXC6sTU&list=PLyiioioEJSxHVTaeL-ELYy6Io-I8diIVZ) - DayNhauHoc
-* [Học Lập Trình C++ - Cấu trúc dữ liệu](https://www.youtube.com/watch?v=pxwP0b77Kl0&list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F) - DayNhauHoc
-* [Lập trình C++ cơ bản](https://www.youtube.com/watch?v=WS05AU6YYm4&list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - Kteam
-* [Ngôn Ngữ Lập Trình C](https://www.youtube.com/watch?v=bv4wVWi-Fjc&list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - DayNhauHoc
+* [Bài toán kinh điển trong lập trình C++](https://www.youtube.com/playlist?list=PL33lvabfss1zRuwxONgKLc_BBsZ-Y2B6b) - K team
+* [C++](https://www.youtube.com/playlist?list=PLyiioioEJSxHVTaeL-ELYy6Io-I8diIVZ) - Dạy Nhau Học
+* [C++ Cấu trúc dữ liệu](https://www.youtube.com/playlist?list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F) - Dạy Nhau Học
+* [Học lập trình C cho người mới bắt đầu (2019)](https://www.youtube.com/playlist?list=PLh91SaQgRYnpj1GqVmVMq4acSAHtSKKwR) - Lập Trình Không Khó
+* [Học lập trình C cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpAEl0D3W17WDS3ZtGbHIxF3) - Son Nguyen
+* [Học lập trình C++ cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr) - Lập Trình Không Khó
+* [Lập trình C++ cơ bản - HowKteam](https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - K team
+* [Ngôn Ngữ Lập Trình C](https://www.youtube.com/playlist?list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - Dạy Nhau Học
+* [Series Con trỏ trong C](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - Cộng đồng C Việt
 
 
 ### C-Sharp
@@ -112,6 +118,7 @@
 ### Go
 
 * [Golang Cơ Bản](https://www.codehub.com.vn/Golang-Co-Ban)
+* [Lập trình Golang](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
 
 
 ### HTML
@@ -123,6 +130,7 @@
 ### Java
 
 * [Khóa học lập trình JavaFX](https://www.youtube.com/watch?v=zAq7Lmv46PE&list=PL33lvabfss1yRgFCgFXjtYaGAuDJjjH-j) - Kteam
+* [Học Lập Trình Java Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaB4DMiP4wYbLjfszqKg89lL) - thân triệu
 
 
 ### JavaScript
@@ -151,6 +159,7 @@
 ### Objective-C
 
 * [Objective-C Cơ Bản](https://www.codehub.com.vn/Objective-C-Co-Ban)
+* [học lập trình objective-c miễn phí](https://www.youtube.com/playlist?list=PLgT92sqeoAUC6gHyrbdZTbulFF8qwxGSK) - Kênh học miễn phí qua video trên youtube
 
 
 ### PHP
@@ -189,6 +198,7 @@
 
 * [SQL Cơ Bản](https://www.codehub.com.vn/SQL-Co-Ban)
 * [SQL Cơ Bản](https://www.youtube.com/watch?v=2fanjSYVElY&list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
+* [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - thân triệu
 
 
 ### Swift

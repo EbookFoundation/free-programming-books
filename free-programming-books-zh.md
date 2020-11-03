@@ -319,6 +319,7 @@
 
 ### C
 
+* [Beej's Guide to Network Programming 簡體中文版](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-ME5zR-03ZEHgp2kv7bW%2F-MF9EIY-s19_w19_Unae%2F-MF9F-HCs1nLOkY1mLVi%2FBeej-cn-20140429.zip?alt=media&token=de27f96b-2aed-4c97-8879-649638c7559f) - B. Hall, 廖亚伦译 (PDF)
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
 * [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
@@ -622,6 +623,7 @@
 
 ### PHP
 
+* [CodeIgniter 使用手冊](https://codeigniter.org.tw/userguide3)
 * [Composer中文文档](http://docs.phpcomposer.com)
 * [Phalcon7中文文档](http://www.myleftstudio.com)
 * [PHP 之道](http://wulijun.github.io/php-the-right-way/)
@@ -665,6 +667,7 @@
 * [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python之旅](http://funhacks.net/explore-python) - Ethan
 * [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+* [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
 * [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - (内含丰富的笔记以及各类教程)
 * [像计算机科学家一样思考Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) - Allen B. Downey、大胖哥(翻译)

@@ -109,8 +109,8 @@
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
-* [Python Cheat Sheet] (https://websitesetup.org/python-cheat-sheet/)
-* [Comprehensive Python Cheat Sheet for Beginners] (https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2)
+* [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/)
+* [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2)
 
 ### Ruby
 

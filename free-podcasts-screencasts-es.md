@@ -43,6 +43,7 @@
 * [La Buhardilla Geek](https://www.ivoox.com/podcast-buhardilla-geek_sq_f1465450_1.html) (podcast)
 * [Maestría JS](https://anchor.fm/maestriajs) (podcast) (Última Actualización, Mayo 2020)
 * [Programar es una Mierda](https://www.programaresunamierda.com) (podcast)
+* [The Dojo MX](https://www.youtube.com/channel/UCMAMBNg2JIJznIWATvDXiKg?view_as=subscriber)(screencast)
 
 
 ### Software Libre

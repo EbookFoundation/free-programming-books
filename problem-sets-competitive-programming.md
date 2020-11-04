@@ -66,7 +66,7 @@
 
 ### Problem Sets
 
-* [500 Data structures and algorithms interview questions and their solutions in C++](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions-in-C%2B%2B)
+* [500 Data structures and algorithms interview questions and their solutions in C++](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)

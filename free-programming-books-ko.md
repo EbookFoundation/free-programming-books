@@ -21,6 +21,7 @@
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scratch](#scratch)
 * [Swift](#swift)
 
@@ -144,6 +145,10 @@
 ### Ruby
 
 * [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
+
+
+### Rust
+* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) (:construction: *in process*)
 
 
 ### Scratch

@@ -149,7 +149,7 @@
 
 ### Rust
 
-* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) (:construction: *in process*)
+* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (:construction: *in process*)
 
 
 ### Scratch

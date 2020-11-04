@@ -156,6 +156,14 @@
 * [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb) - Prawito Hudoro
 * [Tutorial React JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - Lampung JS
 * [Tutorial React Native Bahasa Indonesia (Futsal App)](https://www.youtube.com/playlist?list=PLIan8aHxsPj2NeWJew3o86bSptVPXOppa) - Wahidev Academy
+* [Tutorial React.js Bahasa Indonesia](https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - LampungDev
+
+
+#### React Native
+
+* [react native bahasa indonesia](https://www.youtube.com/playlist?list=PL-Ra8U0JXtVWmizDdKf7WPubFkpdHv6vS) - Julfikra 96
+* [Tutorial React Native Indonesia](https://www.youtube.com/playlist?list=PLjq42-S9KIezIzF92Uqd12vCcBbN5tz3H) - Arif Rachman
+* [Tutorial React Native Indonesia](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ3SP3PpRb870UoT_0_rjLpV) - Prawito Hudoro
 
 
 ### Vue

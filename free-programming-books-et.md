@@ -4,6 +4,8 @@
 * [C Sharp](#c-sharp)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Angular](#angular)
+    * [Vue](#vue)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
@@ -30,6 +32,17 @@
 ### JavaScript
 
 * [JavaScript](http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF)
+* [Javascript](http://lepo.it.da.ut.ee/~epuman/javascript.html) - Ella Puman, Tartu ÜLikooli õppematerjal
+
+
+##### Angular
+
+* [Angular](http://www.cs.tlu.ee/teemad/get_file.php?id=400) - Tallinna Ülikooli õppematerjal
+
+
+##### Vue 
+
+* [Vue](http://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Tallinna ülikooli õppematerjal
 
 
 ### PHP
@@ -39,6 +52,7 @@
 
 ### Python
 
+* [Programmeerimise õpik](https://progeopik.cs.ut.ee) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni algteadmised](https://courses.cs.ut.ee/MTAT.03.100/2012_fall/uploads/opik/00_eessona.html) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni wikiraamat](https://et.wikibooks.org/wiki/Python) - Wikiõpikud
 

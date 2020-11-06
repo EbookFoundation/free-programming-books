@@ -11,6 +11,8 @@
 
 ### C
 
+* [ANSI C - Курс за начинаещи](http://www.progstarter.com/index.php?option=com_content&view=article&id=8&Itemid=121&lang=bg) - Димо Петков
+* [ANSI C - Пълен справочник](http://progstarter.com/index.php?option=com_content&view=article&id=9&Itemid=122&lang=bg) - Димо Петков
 * [Програмиране = ++Алгоритми;](https://programirane.org/download-now/) - Преслав Наков и Панайот Добриков
 
 
@@ -36,6 +38,7 @@
 
 ### JavaScript
 
+* [Eloquent JavaScript](https://to6esko.github.io) - Marijn Haverbeke (HTML)
 * [Основи на програмирането с JavaScript](https://js-book.softuni.bg) - Светлин Наков и колектив
 
 

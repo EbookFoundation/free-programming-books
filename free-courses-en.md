@@ -466,7 +466,6 @@
 
 ### Markdown
 
-* [Markdown syntax Cheat sheet](https://www.youtube.com/watch?v=bpdvNwvEeSE) - Hitesh Choudhary
 * [MasteringMarkdown](https://masteringmarkdown.com) - Wesbos
 
 

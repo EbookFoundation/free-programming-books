@@ -49,6 +49,7 @@
 
 ### C
 
+* [Beej’s Guide to Network Programming - U˙zywanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - B. Hall, Przełożył Bartosz Zapałowski (PDF)
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
 * [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) - Wikibooks (PDF)
@@ -60,7 +61,7 @@
 
 * [Darmowy kurs C#](http://kurs.aspnetmvc.pl/Csharp)
 * [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając
-* [Kurs podstawy C#](http://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-csharpa) - Cezary Walenciuk
+* [Kurs podstawy C#](https://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-c-sharp) - Cezary Walenciuk
 * [Programowanie w języku C#](https://4programmers.net/C_sharp)
 * [Wstęp do programowania w C#](http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF)
 
@@ -107,6 +108,7 @@
 
 ### JavaScript
 
+* [JavaScript](https://pl.wikibooks.org/wiki/JavaScript) - Wikibooks
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
 * [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/) - Marijn Haverbeke, Łukasz Piwko
 * [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html) - Sławomir Kokłowski

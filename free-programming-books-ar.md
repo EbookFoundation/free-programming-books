@@ -3,6 +3,7 @@
 * [Arduino](#arduino)
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
+* [JavaScript](#javascript)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
@@ -32,6 +33,11 @@
 ### Introduction to Programming in Arabic
 
 * [مختصر دليل لغات البرمجة ](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (PDF)
+
+
+### JavaScript
+
+* [Eloquent Javascript](https://rabahboudia.gitbooks.io/arabic-eloquent-js/content/index.html) - Marijn Haverbeke (HTML)
 
 
 ### Linux
@@ -79,6 +85,7 @@
 
 ### Raspberry Pi
 
+* [احترف الرازبيري باي](https://www.ev-center.com/uploads/2/1/2/6/21261678/كتاب_احترف_الرازبيري_باي.pdf)  (PDF)
 * [راسبيري باي السهل](http://librebooks.org/simply-raspberry-pi/)
 
 

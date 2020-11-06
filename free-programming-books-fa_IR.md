@@ -1,22 +1,15 @@
 ### فهرست
 
-* [C#](#c-sharp)
 * [CSS](#css)
-* [Javascript](#javascript)
+* [Java](#java)
+* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [PHP](#php)
   * [Symfony](#symfony)
 * [Python](#python)
 * [R](#r)
 * [رایانش ابری](#%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D8%B4-%D8%A7%D8%A8%D8%B1%DB%8C)
-* [گنو/لینوکس](#%DA%AF%D9%86%D9%88%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3)
-  * [اوبونتو](#%D8%A7%D9%88%D8%A8%D9%88%D9%86%D8%AA%D9%88)
 * [مهندسی نرم‌افزار](#%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1)
-
-
-### C Sharp
-
-* [توسعه چابک در C#](http://agiledevelopment.ir/ebook/)
 
 
 ### CSS
@@ -24,9 +17,16 @@
 * [یادگیری پیکربندی با CSS](http://fa.learnlayout.com)
 
 
-### Javascript
+### Java
+
+* [آموزش  برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos/)
+* [آموزش جاوا از صفر](https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1)
+
+
+### JavaScript
 
 * [یادگیری اصولی جاواسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
+* مارین هاوربک -  [جاوااسکریپت شیوا](http://eloquentjs.ir) (HTML)
 
 
 ### LaTeX
@@ -38,7 +38,7 @@
 
 #### Symfony
 
-* [سیمفونی ۵: سریع‌ترین مسیر](https://symfony.com/doc/5.0/the-fast-track/fa/index.html)
+* [سیمفونی ۵: سریع‌ترین مسیر](https://symfony.com/doc/current/the-fast-track/fa/index.html)
 
 
 ### Python
@@ -61,13 +61,6 @@
 ### شبکه
 
 * آلبرت لازلو باراباسی -  [علم شبکه](http://networksciencebook.com)
-
-
-### گنو/لینوکس
-
-#### اوبونتو
-
-* [اوبونتو برای تازه واردها](http://ubuntu-book.org)
 
 
 ### مهندسی نرم‌افزار

@@ -14,6 +14,7 @@
 * [AtCoder](https://atcoder.jp)
 * [Binary Search](https://binarysearch.com)
 * [Caribbean Online Judge](http://coj.uci.cu)
+* [COCI](https://hsin.hr/coci/)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
 * [Codecombat](https://codecombat.com)
@@ -23,7 +24,6 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
-* [COCI](https://hsin.hr/coci/)
 * [E-olymp](https://www.e-olymp.com/en/)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
 * [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
@@ -42,6 +42,7 @@
 
 ### Capture the flag
 
+* [CTFlearn](https://ctflearn.com) (email adress *requested*)
 * [Google Ctf](https://capturetheflag.withgoogle.com) (email adress *requested*)
 * [Hackthebox](https://www.hackthebox.eu) (email adress *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
@@ -51,18 +52,23 @@
 
 ### Data science
 
+* [AIcrowd](https://www.aicrowd.com)
+* [CodaLab](https://competitions.codalab.org)
+* [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
 
 
 ### Information security
 
 * [ångstromCTF](https://angstromctf.com)
-* [CTFtime](https://ctftime.org) 
+* [CTFtime](https://ctftime.org)
+* [Hacker101](https://ctf.hacker101.com)
+* [InCTF](https://inctf.in)
 
 
 ### Problem Sets
 
-* [500 Data structures and algorithms interview questions and their solutions in C++](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions-in-C%2B%2B)
+* [500 Data structures and algorithms interview questions and their solutions in C++](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
@@ -86,6 +92,7 @@
 * [PEG Judge](http://wcipeg.com)
 * [PKU Online Judge](http://poj.org)
 * [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
+* [Practice Python](https://www.practicepython.org)
 * [ProblemBook.NET](https://github.com/AndreyAkinshin/ProblemBook.NET)
 * [Project Euler](https://projecteuler.net)
 * [Python Practice Projects](http://pythonpracticeprojects.com)

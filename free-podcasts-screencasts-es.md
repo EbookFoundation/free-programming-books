@@ -38,12 +38,12 @@
 
 ### Programación
 
+* [Aprende de los expertos en The Dojo MX](https://www.youtube.com/playlist?list=PLfeFnTZNTVDO5UwcIvWherSLxuBuK6ve4)(screencast)
 * [Commit.fm](https://anchor.fm/khriztianmoreno) (podcast) (Última Actualización, Julio 2020)
 * [Descargas de mi mente](https://www.ivoox.com/podcast-descargas-mi-mente_sq_f1584288_1.html) (podcast)
 * [La Buhardilla Geek](https://www.ivoox.com/podcast-buhardilla-geek_sq_f1465450_1.html) (podcast)
 * [Maestría JS](https://anchor.fm/maestriajs) (podcast) (Última Actualización, Mayo 2020)
 * [Programar es una Mierda](https://www.programaresunamierda.com) (podcast)
-* [Aprende de los expertos en The Dojo MX](https://www.youtube.com/playlist?list=PLfeFnTZNTVDO5UwcIvWherSLxuBuK6ve4)(screencast)
 
 ### Software Libre
 

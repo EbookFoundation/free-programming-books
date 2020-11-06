@@ -39,6 +39,7 @@
 ### CSS
 
 * [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/) - Fatih Hayrioğlu
+* [CSS Giriş](http://sercaneraslan.com/css/) - Sercan Eraslan
 
 
 ### D
@@ -125,6 +126,7 @@
 
 ### Django
 
+* [Django](https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri
 * [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
 
 

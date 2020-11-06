@@ -233,7 +233,6 @@
 * [Vim](#vim)
 * [Visual Basic](#visual-basic)
 * [Visual Prolog](#visual-prolog)
-* [Web Development](#web-development)
 * [Web Services](#web-services)
 * [Windows 8](#windows-8)
 * [Windows Phone](#windows-phone)
@@ -645,6 +644,7 @@
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap  *(Leanpub account or valid email requested)*
 * [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
 * [Small Memory Software](http://www.smallmemory.com/book.html)
+* [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
 * [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
 
 
@@ -2852,11 +2852,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [A Beginners' Guide to Visual Prolog](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog)
 * [Visual Prolog for Tyros](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros)
-
-
-### Web Development
-
-* [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
 
 
 ### Web Services

@@ -7,7 +7,8 @@
 * [Java](#Java)
 * [Javascript](#Javascript)
 * [Python](#Python)
-
+* [Ruby](#ruby)
+  * [Ruby on Rails](#ruby-on-rails)
 
 ### Android
 
@@ -46,3 +47,10 @@
 ### Python
 
 * [Python Tutorial For Beginners | Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - Harry
+
+
+### Ruby
+
+#### Ruby on Rails
+
+* [Ruby on Rails 5 Tutorial(Hindi)](https://www.youtube.com/watch?v=Wfd4ZIBMg7w&list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb) - CS Geeks

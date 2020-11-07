@@ -15,6 +15,8 @@
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [Databases](#databases)
+  * [NoSQL](#nosql)
+  * [SQL](#sql)
 * [Deep Learning](#deep-learning)
 * [Docker](#docker)
 * [Game Development](#game-development)
@@ -58,7 +60,6 @@
 * [Scala](#scala)
 * [Security](#security)
 * [Software Engineering](#software-engineering)
-* [SQL](#sql)
 * [Swift](#swift)
   * [Vapor](#vapor)
 * [Theory](#theory)
@@ -219,6 +220,20 @@
 * [DML Server Administration](https://alison.com/course/databases-dml-statements-and-sql-server-administration-revised) - (Alison)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 * [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)
+
+
+#### NoSQL
+
+* [MongoDB University](https://university.mongodb.com) - MongoDB, Inc. (email address *required*)
+
+
+#### SQL
+
+* [Introduction to Database Queries](https://www.edx.org/course/introduction-to-database-queries) - (edX New York University) - (Aspen Olmsted)
+* [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - Rakesh Gopalakrishnan (Udemy)
+* [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri (Udemy)
+* [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
+* [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - (Mike Dane) - (freeCodeCamp)
 
 
 ### Deep Learning
@@ -642,15 +657,6 @@
 * [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x#!)
 * [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!)
 * [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
-
-
-### SQL
-
-* [Introduction to Database Queries](https://www.edx.org/course/introduction-to-database-queries) - (edX New York University) - (Aspen Olmsted)
-* [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - Rakesh Gopalakrishnan (Udemy)
-* [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri (Udemy)
-* [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
-* [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - (Mike Dane) - (freeCodeCamp)
 
 
 ### Swift

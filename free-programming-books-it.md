@@ -91,6 +91,7 @@
 
 ### C
 
+* [Guida di Beej alla Programmazione di Rete - Usando Socket Internet](http://linguaggioc.altervista.org/dl/GuidaDiBeejAllaProgrammazioneDiRete.pdf) - B. Hall, Tradotto da Fabrizio Pani (PDF)
 * [Il linguaggio C - Guida pratica alla programmazione](https://eineki.files.wordpress.com/2010/02/guidac.pdf) - (PDF)
 * [Linguaggio C - ANSI C](http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf) - B.W. Kernighan e D.M. Ritchie (PDF)
 * [Linguaggio C - Guida alla programmazione](http://www.cbmc.it/~marchettil/Tandem2016/Bellini.pdf) - A. Bellini e A. Guidi _Anno di pubblicazione_ 1999 (PDF)
@@ -227,6 +228,7 @@
 * [Immersione in Python 3](http://gpiancastelli.altervista.org/dip3-it/) - Mark Pilgrim, _traduzione di: Giulio Piancastelli_ (HTML) [(PDF)](http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip)
 * [La libreria di riferimento di Python](http://docs.python.it/html/lib/)
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
+* [Python per tutti: Esplorare dati con Python3](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub)
 
 
 #### Django

@@ -42,8 +42,8 @@
 
 ### ClojureScript
 
-* [Web REPL](http://clojurescript.net)
 * [Replumb REPL](https://clojurescript.io)
+* [Web REPL](http://clojurescript.net)
 
 
 ### Crystal

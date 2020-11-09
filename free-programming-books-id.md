@@ -1,7 +1,8 @@
 ### Index
 
 * [Android](#android)
-* [C++](#cplusplus)
+* [C#](#c-sharp)
+* [C++](#c-1)
 * [CodeIgniter](#codeigniter)
 * [Deno](#deno)
 * [Emacs](#emacs)
@@ -26,7 +27,12 @@
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
 
 
-### <a id="cplusplus"></a> C++
+### C Sharp
+
+* [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf) - Dian Nandiwardhana *(Membutuhkan email yang valid)* (PDF)
+
+
+### C++
 
 * [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
 * [Koding C++ Dengan Qt](https://leanpub.com/koding-cpp-qt) *(Membutuhkan akun Leanpub atau email yang valid)*

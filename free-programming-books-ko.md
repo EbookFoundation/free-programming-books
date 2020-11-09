@@ -3,7 +3,7 @@
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
 * [C](#c)
-* [C++](#c++)
+* [C++](#c-1)
 * [Docker](#docker)
 * [GIT](#git)
 * [Go](#go)

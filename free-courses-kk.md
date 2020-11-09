@@ -4,7 +4,8 @@
 * [HTML/CSS](#html/css)
 * [Javascript](#javascript)
 * [PHP](#php)
-  
+
+
 ### Деңгейлер
 
 BEGINNER - бастаушы. Түбір базалық кодты үйрену.
@@ -30,3 +31,4 @@ ADVANCED - дамытушы. Детальді кодты үйрену.
 ### PHP
 
 * [PHP. Веб-дизайнның динамикалық базасының құрылуы.](https://bilgen.academy/course/view.php?id=508)  (BEGINNER)
+

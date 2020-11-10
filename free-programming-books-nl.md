@@ -1,12 +1,39 @@
 ### Index
 
+* [C](#c)
+* [C#](#c-sharp)
+* [COBOL](#cobol)
+* [Java](#java)
 * [PHP](#php)
   * [Symfony](#symfony)
 * [Python](#python)
 * [Scratch](#scratch)
 
 
+### C
+
+* [Programmeren in C](https://nl.wikibooks.org/wiki/Programmeren_in_C) - Wikibooks
+
+
+### C Sharp
+
+* [Programmeren in C Sharp](https://nl.wikibooks.org/wiki/Programmeren_in_C_Sharp) - Wikibooks
+
+
+### COBOL
+
+* [Programmeren in COBOL](https://nl.wikibooks.org/wiki/Programmeren_in_COBOL) - Wikibooks
+
+
+### Java
+
+* [Programmeren in Java](https://nl.wikibooks.org/wiki/Programmeren_in_Java) - Wikibooks
+
+
 ### PHP
+
+* [Programmeren in PHP](https://nl.wikibooks.org/wiki/Programmeren_in_PHP) - Wikibooks
+
 
 #### Symfony
 
@@ -16,6 +43,7 @@
 ### Python
 
 * [De Programmeursleerling: Leren coderen met Python 3](http://www.spronck.net/pythonbook/dutchindex.xhtml) - Pieter Spronck (PDF) (3.x)
+* [Programmeren in Python](https://nl.wikibooks.org/wiki/Programmeren_in_Python) - Wikibooks
 
 
 ### Scratch

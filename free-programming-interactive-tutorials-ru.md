@@ -2,6 +2,7 @@
 
 * [Git](#git)
 * [Python](#Python)
+* [SQL](#SQL)
 * [Веб-разработка](#Веб-разработка)
 
 
@@ -13,6 +14,11 @@
 ### Python
 
 * [Pythontutor](https://pythontutor.ru)
+
+
+### SQL
+
+* [SQL упражнения](https://www.sql-ex.ru/?Lang=0)
 
 
 ### Веб-разработка

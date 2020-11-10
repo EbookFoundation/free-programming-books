@@ -1,0 +1,16 @@
+閱讀本文的其他語言版本：[English](HOWTO.md), [हिन्दी](HOWTO-hi.md), [简体中文](HOWTO-zh.md), [Português (BR)](HOWTO.pt_BR.md), [فارسی](HOWTO-fa_IR.md)
+
+歡迎使用 Free-Programming-Books！我们歡迎新的貢獻者；即使是在Github上首次提出 pull request 的人。如果您是其中之一，那麼以下資源可能會對你有所幫助：
+
+* [關於 pull request](https://help.github.com/articles/about-pull-requests/)
+* [Github Hello World](https://guides.github.com/activities/hello-world/)
+* [Youtube-Github 初學者課程](https://www.youtube.com/watch?v=0fKg7e37bQE)
+* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+
+
+不要猶豫，儘管提問。每個貢獻者都是從第一個PR開始。你可能是我們的千分之一！
+
+即使您是經驗豐富的開源貢獻者，也有一些事情可能會讓您遭受失敗。提交您的PR後，Travis-CI會運行程式碼品質分析工具，有時會發現間距或字母顺序方面的問題。如果您獲得綠色按钮，則說明一切準備就緒，但如果没有，請點擊travis連結以查找程式碼品質分析工具不滿意的地方。 修正此問題並新增 commit 到你的 PR。
+
+
+最後，如果不確定要添加的資源是否適合 Free-Programming-Books，請閱讀[CONTRIBUTING](CONTRIBUTING.md)中的指南。

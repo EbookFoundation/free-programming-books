@@ -173,7 +173,6 @@
 * [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - Mike Dane - (freeCodeCamp)
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
-* [LearnCpp.com C++ Tutorial](http://www.learncpp.com)
 * Microsoft edX Courses:
     * [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
     * [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)

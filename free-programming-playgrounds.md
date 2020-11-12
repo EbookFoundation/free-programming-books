@@ -44,6 +44,7 @@
 
 ### ClojureScript
 
+* [Replumb REPL](https://clojurescript.io)
 * [Web REPL](http://clojurescript.net)
 
 
@@ -75,11 +76,13 @@
 ### Elm
 
 * [Ellie](https://ellie-app.com)
+* [Try Elm!](https://elm-lang.org/try)
 
 
 ### Flutter
 
 * [Codepen](https://codepen.io/topic/flutter/templates)
+* [Flutter Studio](https://flutterstudio.app)
 
 
 ### GDScript
@@ -110,21 +113,24 @@
 ### Java
 
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
+* [SoloLearn](https://code.sololearn.com/#java)
 
 
 ### JavaScript
 
 * [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io)
+* [Esfiddle](https://esfiddle.net)
 * [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
-* [Sololearn](https://code.sololearn.com/#html)
+* [SoloLearn](https://code.sololearn.com/#html)
 
 
 ### Kotlin
 
 * [Kotlin](https://play.kotlinlang.org)
+* [Kotlin Playground](https://developer.android.com/training/kotlinplayground)
 
 
 ### Kubernetes
@@ -156,6 +162,7 @@
 ### PHP
 
 * [Codepad](http://codepad.org)
+* [ExtendsClass](https://extendsclass.com/php.html)
 * [PHPFiddle](http://phpfiddle.org)
 * [PHPTester](http://phptester.net)
 
@@ -166,11 +173,13 @@
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
+* [SoloLearn](https://code.sololearn.com/#py)
 
 
 ### R
 
 * [R-Fiddle](http://www.r-fiddle.org)
+* [Rextester](https://rextester.com/l/r_online_compiler)
 
 
 ### React
@@ -188,6 +197,8 @@
 ### Ruby
 
 * [Codepad](http://codepad.org)
+* [Sololearn](https://code.sololearn.com/#rb)
+* [TryRuby](https://try.ruby-lang.org)
 
 
 ### Rust
@@ -228,3 +239,6 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
+
+
+

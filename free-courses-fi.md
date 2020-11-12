@@ -3,6 +3,7 @@
 * [C#](#C#)
 * [Other](#other)
 * [Python](#python)
+* [Web Development](#web-development)
 
 
 ### C#
@@ -20,3 +21,8 @@
 ### Python
 
 * [Helsingin yliopiston Python-ohjelmointikurssi](https://linkki.github.io/python2017) - Ilmainen verkkokurssi
+
+
+### Web Development
+
+* [Full stack open](https://fullstackopen.com) - University of Helsinki

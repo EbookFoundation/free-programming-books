@@ -5,10 +5,8 @@
   * [Algoritmos y Estructuras de Datos](#algoritmos-y-estructuras-de-datos)
   * [Base de Datos](#base-de-datos)
   * [Ciencia Computacional](#ciencia-computacional)
-  * [Cursos Masivos en Línea](#cursos-masivos-en-l&#x00ED;nea)
   * [Metodologías de Desarrollo de Software](#metodolog&#x00ED;as-de-desarrollo-de-software)
   * [Misceláneos](#miscel&#x00E1;neos)
-  * [Paradigmas de Programación](#paradigmas-de-programaci&#x00F3;n)
   * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
 * [C](#c)
@@ -18,7 +16,6 @@
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
 * [Git](#git)
-* [Github](#github)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML & CSS](#html--css)
@@ -54,7 +51,7 @@
 
 ### 0 - Meta-Listas
 
-* [Aprender Python](http://python.org.ar/wiki/AprendiendoPython) - Python Argentina
+* [Aprender Python](https://wiki.python.org.ar/aprendiendopython/) - Python Argentina
 * [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (Github)
 * [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
@@ -71,7 +68,7 @@
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
-* [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html) (HTML)
+* [Fundamentos de Informática y Programación](http://informatica.uv.es/docencia/fguia/TI/Libro/Libro_Fundamentos_Inform_Program.htm) (HTML)
 * [Fundamentos de programación](https://es.wikibooks.org/wiki/Fundamentos_de_programaci%C3%B3n) - WikiLibros
 * [Introducción a la programación](https://es.wikibooks.org/wiki/Introducci%C3%B3n_a_la_Programaci%C3%B3n) - WikiLibros
 * [Temas selectos de estructuras de datos](http://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
@@ -93,17 +90,13 @@
 * [Breves Notas sobre Teoría de la Computación](http://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 
 
-#### Cursos Masivos en Línea
-
-* [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice) (Github)
-
-
 #### Metodologías de desarrollo de software
 
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
-* [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf) (PDF)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
+* [Scrum Level](https://scrumlevel.com/files/scrumlevel.pdf) - Scrum Manager (PDF) [(EPUB)](https://scrumlevel.com/files/scrumlevel.epub)
+* [Scrum Master - Temario troncal 1](https://scrummanager.net/files/scrum_master.pdf) - Scrum Manager (PDF) [(EPUB)](https://scrummanager.net/files/scrum_master.epub)
 * [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 
 
@@ -114,11 +107,6 @@
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf) (PDF)
 * [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) (PDF)
-
-
-#### Paradigmas de Programación
-
-* [Programación Funcional (1996)](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
 
 
 #### Sistemas Operativos
@@ -141,8 +129,8 @@
 
 ### C++
 
-* [Aprenda C++ avanzado como si estuviera en primero](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
-* [Aprenda C++ básico como si estuviera en primero](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) (PDF)
+* [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
+* [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) (PDF)
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) (HTML)
 
 
@@ -174,14 +162,10 @@
 * [Pro Git](http://git-scm.com/book/es/)
 
 
-### Github
-
-* [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple) (Github)
-
-
 ### Go
 
 * [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
+* [Go en Español](https://nachopacheco.gitbooks.io/go-es/content/doc) - Nacho Pacheco (HTML)
 
 
 ### Haskell
@@ -197,6 +181,7 @@
 * [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) (HTML)
 * [Estructura con CSS](http://es.learnlayout.com) (HTML)
 * [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas (PDF)
+* [HTML5](https://openlibra.com/es/book/html5) - Arkaitz Garro (PDF)
 * [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-css)
 
 
@@ -218,6 +203,7 @@
 
 ### JavaScript
 
+* [El Tutorial de JavaScript Moderno](https://es.javascript.info) (HTML)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
@@ -250,7 +236,9 @@
 
 #### React
 
-* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) (PDF, EPUB, MOBI)
+* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) - Sergio Xalambrí (PDF, EPUB, MOBI; Leanpub cuenta requerida)
+* [Descubre React](https://leanpub.com/descubre-react) - Javi Jiménez (HTML, PDF, EPUB, MOBI; Leanpub cuenta requerida)
+* [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish) (PDF, EPUB, MOBI; Leanpub cuenta requerida)
 * [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
 
 
@@ -322,7 +310,6 @@
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (PDF) (descarga directa)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) (HTML)
-* [Python instantáneo (1999)](http://www.arrakis.es/~rapto/AprendaPython.html) (HTML)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) (Github)
 * [Python para principiantes](http://librosweb.es/libro/python) (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
@@ -372,6 +359,7 @@
 ### Scratch
 
 * [Informática Creativa](https://github.com/programamos/GuiaScratch) (PDF)
+* [Manual de Scratch 2](https://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf) (PDF)
 
 
 ### SQL

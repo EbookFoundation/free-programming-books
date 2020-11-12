@@ -51,11 +51,11 @@
 
 ### Data science
 
-* [Kaggle](https://www.kaggle.com)
+* [Codalab](https://competitions.codalab.org)
+* [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
-* [CrowdANALYTIX - converts business challenges and problems into competitions](https://www.crowdanalytix.com/community)
-* [Codalab - open source community to collab](https://competitions.codalab.org)
-* [KDD Cup - annual data mining and knowledge discovery competition](https://www.kdd.org/kdd2019/kdd-cup)
+* [Kaggle](https://www.kaggle.com)
+* [KDD Cup](https://www.kdd.org/kdd2019/kdd-cup)
 
 
 ### Information security

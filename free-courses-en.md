@@ -581,7 +581,7 @@
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Introduction to Programming Using Python](https://www.edx.org/course/introduction-to-programming-using-python) (edX)
-* [Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)(Microsoft Docs)
+* [Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python) (Microsoft Docs)
 * [Introduction to Python Basics for Data Science](https://dphi.tech/learn/introduction-to-python-basics-for-data-science) (DPhi)
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (Udacity)
 * [Learn Python](https://pythonspot.com)

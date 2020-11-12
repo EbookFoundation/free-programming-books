@@ -137,6 +137,8 @@
 ### C
 
 * [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf) - Денис Юричев (PDF)
+* [Сетевое программирование от Биджа - Использование Интернет Сокетов](http://beej.us/guide/bgnet/translations/bgnet_A4_rus.pdf) - B. Hall, Перевод Андрея Косенко (PDF)
+* [Краткое руководство Beej к GDB](https://paintingvalley.com/ru-bggdb) - (HTML)
 * [Особенности языка C. Учебное пособие](https://younglinux.info/с) - C. Шапошникова (PDF)
 * [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
 * [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов
@@ -302,6 +304,7 @@
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)
+* [Русская версия документация Angular 10](https://angular24.ru/start) - Алексей Охрименко
 
 
 #### jQuery
@@ -324,9 +327,11 @@
 
 #### React
 
+* [Перевод документации](https://learn-reactjs.ru/home)
 * [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian) - Алексей Пыльцын (PDF, ePub, MOBI) *(Требуется аккаунт на Leanpub или действительный адрес электронной почты)*
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
+* [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/) 
 
 
 #### Vue.js

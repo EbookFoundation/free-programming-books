@@ -7,14 +7,14 @@
 
 ### Desenvolvimento Web
 
-* [10web - Ricardo Correia, Vitor Silva e Ana Sampaio](https://10web.pt/acerca) (podcast)
+* [10webPodcast sobre web e desenvolvimento em português](https://10web.pt/acerca) - Ricardo Correia, Vitor Silva e Ana Sampaio (podcast)
 
 
 ### Laravel
 
-* [Laravel Portugal Live - @caneco](https://laravelportugal.simplecast.fm) (screencast)
+* [Laravel Portugal Live](https://laravelportugal.simplecast.fm) (screencast)
 
 
 ### Ubuntu
 
-* [Ubuntu Portugal - Diogo Constantino e Tiago Carrondo](https://podcastubuntuportugal.org) (podcast)
+* [O Podcast Ubuntu Portugal](https://podcastubuntuportugal.org) (podcast)

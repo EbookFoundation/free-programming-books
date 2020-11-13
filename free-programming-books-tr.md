@@ -62,7 +62,6 @@
 
 
 ### Go
-### Go
 
 * [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
 

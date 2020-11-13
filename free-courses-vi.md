@@ -152,6 +152,7 @@
 
 ### NodeJS
 
+* [Lập Trình Nodejs Cơ Bản Tại Khoa Phạm](https://www.youtube.com/playlist?list=PLzrVYRai0riQXAXJL9rg62tBvwD0ltJn-) - Trung Tâm Đào Tạo Tin Học Khoa Phạm
 * [NodeJS Cơ Bản](https://www.codehub.com.vn/Node-js-Co-Ban)
 * [NodeJS Cơ Bản](https://www.youtube.com/watch?v=3W8jskQUjnk&list=PL4VEtQ6PTTQEZp2kLIC7OE0E8OsObv0k8) - Ide Academy
 

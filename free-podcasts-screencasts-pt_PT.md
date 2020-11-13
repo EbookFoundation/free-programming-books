@@ -1,6 +1,6 @@
 ### Index
 
-+ [Desenvolvimento Web](#desenvolvimento-web)
+* [Desenvolvimento Web](#desenvolvimento-web)
 * [Laravel](#laravel)
 * [Ubuntu](#ubuntu)
 

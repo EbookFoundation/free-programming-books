@@ -16,6 +16,7 @@
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
 * [Python](#python)
+* [React](#react)
 * [Vue](#vue)
 
 
@@ -27,6 +28,7 @@
 
 ### <a id="cplusplus"></a> C++
 
+* [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
 * [Koding C++ Dengan Qt](https://leanpub.com/koding-cpp-qt) *(Membutuhkan akun Leanpub atau email yang valid)*
 
 
@@ -69,6 +71,7 @@
 
 ### Java
 
+* [Java Desktop](https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf) - Ifnu Bima (PDF)
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
 
 
@@ -111,6 +114,7 @@
 
 * [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat - (PDF)
 * [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF)
+* [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF)
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
@@ -125,6 +129,11 @@
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
+
+
+### React
+
+* [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 
 
 ### Vue

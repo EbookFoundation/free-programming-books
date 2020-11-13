@@ -2,6 +2,8 @@
 
 * [0 - 言語非依存](#0---%e8%a8%80%e8%aa%9e%e9%9d%9e%e4%be%9d%e5%ad%98)
   * [アクセシビリティ](#%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b7%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3)
+  * [オープンソースエコシステム](#%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%a8%e3%82%b3%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
+  * [ガベージコレクション](#%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3)
   * [グラフィックスプログラミング](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
   * [グラフィックユーザーインターフェイス](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b9)
   * [セキュリティ](#%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3)
@@ -10,6 +12,7 @@
   * [ソフトウェア品質](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e5%93%81%e8%b3%aa)
   * [ソフトウェア開発方法論](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e9%96%8b%e7%99%ba%e6%96%b9%e6%b3%95%e8%ab%96)
   * [データベース](#%e3%83%87%e3%83%bc%e3%82%bf%e3%83%99%e3%83%bc%e3%82%b9)
+  * [ネットワーキング](#%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0)
   * [並列プログラミング](#%e4%b8%a6%e5%88%97%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
   * [機械学習](#%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92)
   * [正規表現](#%e6%ad%a3%e8%a6%8f%e8%a1%a8%e7%8f%be)
@@ -88,6 +91,19 @@
 * [アクセシビリティのための設計](https://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
 
 
+#### オープンソースエコシステム
+
+* [オープンソースガイドライン](https://opensource.guide/ja/) - GitHub
+* [オープンソースソフトウェアの育て方](https://producingoss.com/ja/) - Fogel Karl, 高木正弘(翻訳), Yoshinari Takaoka(翻訳)
+* [これでできる！ はじめてのOSSフィードバックガイド ～ #駆け出しエンジニアと繋がりたい と言ってた私が野生のつよいエンジニアとつながるのに必要だったこと～](https://github.com/oss-gate/first-feedback-guidebook) - OSS Gate, 結城洋志 / Piro
+
+
+#### ガベージコレクション
+
+* [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) - 遠藤敏夫 (PDF)
+* [徹底解剖「G1GC」実装編](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
+
+
 #### グラフィックスプログラミング
 
 * [DirectX プログラミング](https://docs.microsoft.com/ja-jp/windows/uwp/gaming/directx-programming) - Microsoft Docs
@@ -106,8 +122,8 @@
 
 * [RSA暗号体験入門](http://www.cybersyndrome.net/rsa/) - CyberSyndrome
 * [ウェブ健康診断仕様](https://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [クラウドを支えるこれからの暗号技術](https://herumi.github.io/ango/) - 光成滋生 (PDF)
 * [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programmingv2/) - 独立行政法人情報処理推進機構(IPA)
-* [ネットワークプログラミングの基礎知識](http://x68000.q-e-d.net/~68user/net/) - 68user
 * [はやわかり RSA](http://www.mew.org/~kazu/doc/rsa.html) - 山本和彦
 * [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [安全なウェブサイトの作り方](https://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
@@ -116,13 +132,10 @@
 
 #### その他の話題
 
-* [オープンソースソフトウェアの育て方](https://producingoss.com/ja/) - Fogel Karl, 高木正弘(翻訳), Yoshinari Takaoka(翻訳)
 * [ケヴィン・ケリー著作選集　１](http://tatsu-zine.com/books/kk1) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
 * [ケヴィン・ケリー著作選集　２](http://tatsu-zine.com/books/kk2) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
 * [ケヴィン・ケリー著作選集　３](http://tatsu-zine.com/books/kk3) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
-* [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) - 遠藤敏夫 (PDF)
 * [川合史朗 翻訳集](http://practical-scheme.net/index-j.html) - 川合史朗
-* [徹底解剖「G1GC」実装編](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
 * [青木靖 翻訳集](http://www.aoky.net) - 青木靖
 
 
@@ -152,6 +165,13 @@
 #### データベース
 
 * [データベース](http://www.ipa.go.jp/files/000018652.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+
+
+#### ネットワーキング
+
+* [http2 explained](https://http2-explained.haxx.se/ja) - Daniel Stenberg
+* [HTTP/3 explained](https://http3-explained.haxx.se/ja/) - Daniel Stenberg
+* [ネットワークプログラミングの基礎知識](http://x68000.q-e-d.net/~68user/net/) - 68user
 
 
 #### 並列プログラミング

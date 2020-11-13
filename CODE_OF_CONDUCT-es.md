@@ -13,6 +13,7 @@ Ejemplos de comportamiento inaceptables por parte de los participantes incluyen:
 * Publicar información privada de otros, como direcciones físicas o electrónicas, sin permiso explícito
 * Otras conductas poco éticas o poco profesionales
 
+
 Los encargados del mantenimiento del proyecto tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, confirmaciones de cambio, código, ediciones wiki, problemas y otras contribuciones que no están alineadas con este Código de Conducta, o para prohibir temporalmente o de forma permanente cualquier colaborador por otros comportamientos que considere inapropiados, amenazante, ofensivo o dañino.
 
 Al adoptar este Código de Conducta, los encargados del mantenimiento del proyecto se comprometen a aplicar de manera justa y coherente estos principios a todos los aspectos de la gestión este proyecto. Los mantenedores de proyectos que no siguen o hacen cumplir el Código de La conducta puede eliminarse permanentemente del equipo del proyecto.

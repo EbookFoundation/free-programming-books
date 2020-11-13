@@ -3,6 +3,7 @@ Read this in other languages:[简体中文](HOWTO-zh.md), [हिन्दी](H
 Welcome to Free-Programming-Books! We welcome new contributors; even those making their very first pull request on Github. If you're one of those, here are some resources that might help:
 
 * [About Pull Requests](https://help.github.com/articles/about-pull-requests/)
+* [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 * [Github Hello World](https://guides.github.com/activities/hello-world/)
 * [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
 * [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)

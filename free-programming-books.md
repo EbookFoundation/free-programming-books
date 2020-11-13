@@ -812,6 +812,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 * [CryptoParty Handbook](https://unglue.it/work/141611/)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
+* [How HTTPS works](https://howhttps.works) - dnsimple
 * [How to deal with Passwords](https://github.com/MHM5000/pass)
 * [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
 * [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)

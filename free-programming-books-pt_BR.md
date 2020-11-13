@@ -22,7 +22,7 @@
   * [Angular](#angular)
   * [Angular.js](#angularjs)
   * [Backbone.js](#backbonejs)
-  * [Ember.js](emberjs)
+  * [Ember.js](#emberjs)
   * [Express.js](#expressjs)
   * [Grunt](#grunt)
   * [Gulp](#gulp)
@@ -132,6 +132,7 @@
 
 ### GO
 
+* [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
 * [Go - hands on](https://github.com/go-br/estudos)
 
 
@@ -231,6 +232,7 @@
 
 #### Node.js
 
+* [Aplicações web real-time com Node.js](https://github.com/caio-ribeiro-pereira/livro-nodejs) - Caio Ribeiro Pereira
 * [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/) - Waldemar Neto *(necessário conta no Leanpub ou e-mail válido)*
 * [Node.js para Leigos](http://udgwebdev.com/nodejs/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)

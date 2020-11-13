@@ -112,6 +112,7 @@ Free Podcasts and Screencasts:
 + [Finnish / Suomi](free-podcasts-screencasts-fi.md)
 + [Polish / polski / język polski / polszczyzna](free-podcasts-screencasts-pl.md)
 + [Portuguese (Brazil)](free-podcasts-screencasts-pt_BR.md)
++ [Portuguese (Portugal)](free-podcasts-screencasts-pt_PT.md)
 + [Russian / Русский язык](free-podcasts-screencasts-ru.md)
 + [Spanish / español / castellano](free-podcasts-screencasts-es.md)
 + [Swedish / Svenska](free-podcasts-screencasts-se.md)

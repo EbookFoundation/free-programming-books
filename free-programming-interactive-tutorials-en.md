@@ -9,6 +9,7 @@
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
+* [Dart](#dart)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -94,6 +95,11 @@
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 
+### Dart
+
+* [Dart Official Codelabs](https://dart.dev/codelabs)
+
+
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)
@@ -161,6 +167,7 @@
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
+* [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
 

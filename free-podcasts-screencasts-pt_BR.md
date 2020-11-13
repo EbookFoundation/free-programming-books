@@ -5,6 +5,7 @@
 * [Databases](#databases)
 * [DataScience](#datascience)
 * [Game development](#game-development)
+* [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
@@ -18,6 +19,7 @@
 ### Algoritmos
 
 * [Curso em Vídeo - Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) (screencast)
+* [Portugol Studio](https://www.youtube.com/playlist?list=PLJ4lbwalqv3Eaiay2pCeU_QU6vb-Hz989) (screencast)
 
 
 ### Angular
@@ -34,6 +36,7 @@
 
 ### DataScience
 
+* [Data Hackers](https://datahackers.com.br/podcast) (podcast)
 * [Data Science Academy](http://datascienceacademy.com.br/blog/podcast-dsa/) (podcast)
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
 * [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
@@ -42,6 +45,16 @@
 ### Game development
 
 * [Podquest](http://www.podquest.com.br) (podcast)
+
+
+### Go
+
+* [Aprenda Go :brazil:](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) (screencast)
+
+
+### Haskell
+
+* [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) (screencast)
 
 
 ### HTML / CSS

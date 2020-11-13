@@ -10,6 +10,7 @@
   * [React](#react)
   * [Vue.js](#vuejs)
 * [Python](#python)
+* [Ruby](#Ruby)
 
 
 ### C
@@ -59,6 +60,8 @@
 
 #### Vue.js
 
+* [เมื่อได้รับภารกิจสร้างระบบเข้าร่วม Event ผ่าน Line Liff](https://www.youtube.com/playlist?list=PLSy2hExy-WZN_fJSBbX7bsrAWsm3sbQg-) - CodeTraveler
+* [สอน VueJS + NuxtJS ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCMd24NIQTPcqHhfnK-QbPmD) - Geekstart
 * [สอนเขียน VueJS](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBry3sJDNrbqor5ikjwGDJ_7) - CMDev
 
 
@@ -66,3 +69,9 @@
 
 * [ชีวิตคนช่างแสนสั้น เราไม่หวั่นใช้ python](https://phyblas.hinaboshi.com/saraban/python) - Phyblas
 * [ภาษา Python](http://marcuscode.com/lang/python) - MarcusCode
+* [สอน Python](https://www.youtube.com/playlist?list=PL_xSQKvnccpk1xciZgtt6xEstU7A6fcAp) - Zinglecode
+
+
+### Ruby
+
+* [สอน Ruby on Rails ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCPxawSeVSYP1bsP_0_iMpQJ) - Geekstart

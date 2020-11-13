@@ -6,7 +6,10 @@
 * [HTML](#HTML)
 * [JavaScript](#Javascript)
 * [Machine Learning](#MachineLearning)
+* [MySQL](#MySQL)
 * [PHP](#PHP)
+* [Ruby](#Ruby)
+* [Selenium](#Selenium)
 
 
 ### BigData
@@ -40,6 +43,21 @@
 * [எளிய தமிழில் ML](http://www.kaniyam.com/download/e0ae8ee0aeb3e0aebfe0aeaf-e0aea4e0aeaee0aebfe0aeb4e0aebfe0aeb2e0af8d-machine-learning-a4-pdf.html)
 
 
+### MySQL
+
+* [எளிய தமிழில் MySQL](http://www.kaniyam.com/mysql-book-in-tamil/)
+
+
 ### PHP
 
 * [எளிய தமிழில் PHP](https://freetamilebooks.com/ebooks/learn-php-in-tamil/)
+
+
+### Ruby
+
+* [எளிய இனிய கணினி மொழி Ruby](http://www.kaniyam.com/download/learn-ruby-in-tamil.pdf) - பிரியா சுந்தரமூர்த்தி (PDF)
+
+
+### Selenium
+
+* [எளிய தமிழில் Selenium](http://www.kaniyam.com/download/learn-selenium-in-tamil.pdf) - Nithya Durai (PDF)

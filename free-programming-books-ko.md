@@ -2,10 +2,13 @@
 
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
+* [C](#c)
+* [C++](#c-1)
 * [Docker](#docker)
 * [GIT](#git)
 * [Go](#go)
 * [HTML5](#html5)
+* [Java](#java)
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
@@ -19,6 +22,7 @@
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scratch](#scratch)
 * [Swift](#swift)
 
@@ -31,6 +35,17 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+
+
+### C
+
+* [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
+* [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)
+
+
+### C++
+
+* [씹어먹는 C++](https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf) - 이재범 (PDF)
 
 
 ### Docker
@@ -55,6 +70,11 @@
 ### HTML5
 
 * [HTML5, CSS and JavaScript](http://fromyou.tistory.com/581)
+
+
+### Java
+
+* [점프 투 자바](https://wikidocs.net/book/31) - 박응용
 
 
 ### JavaScript
@@ -98,15 +118,19 @@
 ### Python
 
 * [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
+* [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
 * [내가 파이썬을 배우는 방법](https://wikidocs.net/7839)
 * [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+* [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
+* [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
 
 
 #### Django
 
-* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)
+* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)  
+* [점프 투 장고](https://wikidocs.net/book/4223) - 박응용
 
 
 #### Flask
@@ -128,6 +152,11 @@
 ### Ruby
 
 * [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
+
+
+### Rust
+
+* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) (:construction: *in process*)
 
 
 ### Scratch

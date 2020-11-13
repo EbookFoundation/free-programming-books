@@ -27,7 +27,6 @@
 * [Node.js](#nodejs)
 * [PHP](#php)
   * [CodeIgniter](#codeIgniter)
-  * [Laravel](#laravel)
 * [Python](#python)
 * [React Native](#react-native)
 * [Ruby](#ruby)
@@ -217,11 +216,6 @@
 #### CodeIgniter
 
 * [Curso de CodeIgniter para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV) - RBtech
-
-
-#### Laravel
-
-* [Introdução ao Laravel (5.3)](https://www.udemy.com/introducao-ao-laravel-53/) - Guilherme Ferreira (Udemy)
 
 
 ### Python

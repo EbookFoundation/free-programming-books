@@ -17,9 +17,9 @@
   * [Spring](#spring)
 * [JavaScript](#javascript)
   * [Angular](#angular)
+  * [Node](#node)
   * [React](#react)
   * [Vue](#vue)
-  * [Node](#node)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#Linux)
@@ -146,12 +146,17 @@
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
 
 
-### Angular
+#### Angular
 
 * [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo
 
 
-### React
+#### Node
+
+* [Pelajaran Node.js Sederhana](https://easy-to-learn5.teachable.com/p/nodejs) - Easy To Learn 5
+
+
+#### React
 
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
 * [React JS Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY) - Wahidev Academy
@@ -160,7 +165,7 @@
 * [Tutorial React Native Bahasa Indonesia (Futsal App)](https://www.youtube.com/playlist?list=PLIan8aHxsPj2NeWJew3o86bSptVPXOppa) - Wahidev Academy
 
 
-### Vue
+#### Vue
 
 * [Tutorial Vue JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ) - Sekolah Koding
 * [Tutorial Vuejs Bahasa Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-Z6Gt8uO1XMp4oyMlE3gml) - Baledemy
@@ -265,11 +270,6 @@
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Programmer Zaman Now
-
-
-### Node
-
-* [Pelajaran Node.js Sederhana](https://easy-to-learn5.teachable.com/p/nodejs) - Easy To Learn 5
 
 
 ### Solidity

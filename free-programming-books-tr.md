@@ -1,4 +1,4 @@
-### Index
+### İçindekiler
 
 * [Android](#android)
 * [C](#c)
@@ -10,6 +10,7 @@
 * [Go](#go)
 * [Html](#html)
 * [iOS](#ios)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -25,18 +26,22 @@
 
 ### Android
 
+* [Android Dersleri](https://umiitkose.com/android)
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
 
 
 ### C
 
+* [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - B. Hall, Çeviren Emre "FZ" Sevinç (HTML)
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
+* [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
 * [Programlamaya Giriş Ders Notları](http://web.itu.edu.tr/uyar/programlama) - [H.Turgut Uyar](http://web.itu.edu.tr/uyar)
 
 
 ### CSS
 
 * [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/) - Fatih Hayrioğlu
+* [CSS Giriş](http://sercaneraslan.com/css/) - Sercan Eraslan
 
 
 ### D
@@ -76,6 +81,13 @@
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
 
+### Java
+
+* [24 Saatte Java](https://ia601505.us.archive.org/23/items/24-saatte-java/24-saatte-java-turkce.pdf) (PDF)
+* [Java ile Nesneye Yönelik Programlama](https://ia801507.us.archive.org/12/items/java-ile-nesneye-yonelik-programlama/Java%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf) - Oğuz Aslantürk (PDF)
+* [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF)
+
+
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
@@ -89,6 +101,7 @@
 ### Linux
 
 * [GNU Bash Başvuru Kılavuzu](http://belgeler.org/bashref/bashref.html)
+* [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
 * [Linux Belgeleri](http://belgeler.org/howto/howtos.html)
 * [Linux Sistem Yöneticisinin Kılavuzu](http://belgeler.org/sag/sag.html)
 
@@ -116,6 +129,8 @@
 
 ### Django
 
+* [Django](https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri
+* [Django Egitimi](https://gokmengorgen.net/django-notes)
 * [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
 
 
@@ -136,4 +151,3 @@
 ### Rust
 
 * [Rust'a Giriş](http://bit.ly/rustagiris) - Mahmut Bulut
-

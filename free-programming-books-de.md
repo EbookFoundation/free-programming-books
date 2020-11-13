@@ -30,6 +30,7 @@
 * [UML](#uml)
 * [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Unix](#unix)
+* [VHDL](#vhdl)
 * [Visual Basic](#visual-basic)
 
 
@@ -57,7 +58,9 @@
 
 ### C
 
+* [C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung) - Wikibooks (HTML)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z/)
+* [Socket Programmierung in C](http://www.tobscore.com/socket-programmierung-in-c/) - B. Hall, Übersetzt von Tobias Kerst (HTML)
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
@@ -176,6 +179,7 @@
 
 ### Python
 
+* [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files/) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
 * [Einführung in Python](http://www.mschimmels.de/eigeneDateien/Python-Kurs.pdf) - Martin Schimmels (PDF)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de/)
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python/) - Johannes Ernesti, Peter Kaiser (Online)
@@ -223,6 +227,11 @@
 * [Linux-UNIX-Programmierung](http://openbook.rheinwerk-verlag.de/linux_unix_programmierung/)
 * [Shell-Programmierung](http://openbook.rheinwerk-verlag.de/shell_programmierung/)
 * [Wie werde ich Unix Guru?](http://openbook.rheinwerk-verlag.de/unix_guru/)
+
+
+### VHDL
+
+* [VHDL-Tutorium](https://de.wikibooks.org/wiki/VHDL-Tutorium) - Wikibooks (HTML)
 
 
 ### Visual Basic

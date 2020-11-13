@@ -9,6 +9,7 @@
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
+* [Dart](#dart)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -94,6 +95,11 @@
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 
+### Dart
+
+* [Dart Official Codelabs](https://dart.dev/codelabs)
+
+
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)
@@ -128,10 +134,12 @@
 ### HTML / CSS
 
 * [CSS Diner](http://flukeout.github.io)
+* [CSS Tutorial](https://www.w3schools.com/css/) - W3Schools
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [FreeCodeCamp: Responsive Web Design Course](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 * [Grid Garden](https://cssgridgarden.com)
+* [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
@@ -282,6 +290,7 @@
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
+* [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQLBolt](http://sqlbolt.com)
 
 

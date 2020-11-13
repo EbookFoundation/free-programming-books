@@ -21,9 +21,11 @@
 * [Codeeval](https://www.codeeval.com)
 * [CodeFights](https://codefights.com)
 * [Codeforces](http://codeforces.com/contests)
+* [Codeground](https://www.codeground.org)
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
+* [DMOJ](https://dmoj.ca)
 * [E-olymp](https://www.e-olymp.com/en/)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
 * [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
@@ -34,6 +36,7 @@
 * [Kattis](https://open.kattis.com)
 * [LeetCode](https://leetcode.com)
 * [Microcorruption](https://microcorruption.com/login)
+* [oj.uz](https://oj.uz)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
@@ -54,19 +57,23 @@
 
 * [AIcrowd](https://www.aicrowd.com)
 * [CodaLab](https://competitions.codalab.org)
+* [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
+* [KDD Cup](https://www.kdd.org/kdd2019/kdd-cup)
 
 
 ### Information security
 
 * [ångstromCTF](https://angstromctf.com)
 * [CTFtime](https://ctftime.org)
+* [Hacker101](https://ctf.hacker101.com)
+* [InCTF](https://inctf.in)
 
 
 ### Problem Sets
 
-* [500 Data structures and algorithms interview questions and their solutions in C++](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions-in-C%2B%2B)
+* [500 Data structures and algorithms interview questions and their solutions in C++](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
@@ -90,6 +97,7 @@
 * [PEG Judge](http://wcipeg.com)
 * [PKU Online Judge](http://poj.org)
 * [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
+* [Practice Python](https://www.practicepython.org)
 * [ProblemBook.NET](https://github.com/AndreyAkinshin/ProblemBook.NET)
 * [Project Euler](https://projecteuler.net)
 * [Python Practice Projects](http://pythonpracticeprojects.com)

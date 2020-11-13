@@ -133,13 +133,20 @@
 
 ### Java
 
+* [Curso de Java Básico](https://loiane.training/curso/java-basico) - Loiane Groner
+* [Curso de Java Intermediário](https://loiane.training/curso/java-intermediario) - Loiane Groner
 * [Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara (YouTube)
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
+* [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
+* [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
+* [Estrutura de Dados com Java](https://loiane.training/curso/estrutura-de-dados) - Loiane Groner
 * [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
 * [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
 * [Java SE - Polimorfismo](https://www.udemy.com/java-se-polimorfismo/) - Fernando Franzini (Udemy)
-* [Orientação a Objeto com Java](https://pt.coursera.org/learn/orientacao-a-objetos-com-java) - ITA (Coursera)
+* [Orientação a Objetos com Java](https://www.coursera.org/learn/orientacao-a-objetos-com-java) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
+* [Princípios de Desenvolvimento Ágil de Software](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
 * [Produtos Java - Especificações versus Proprietários](https://www.udemy.com/produtos-java-especificacoes-versus-proprietarios/) - Fernando Franzini (Udemy)
+* [TDD – Desenvolvimento de software guiado por testes](https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
 * [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias (Udemy)
 
 
@@ -214,15 +221,20 @@
 
 * [Algoritmos em Python](https://algoritmosempython.com.br) - Douglas do Couto
 * [Aprenda Python 3 em 6 horas](https://www.udemy.com/course/aprenda-python-3-em-6h/) - Alcimar A. Costa (Udemy)
+* [Curso de Programação em Python](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK) - Prime Cursos do Brasil
+* [Curso de Python](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) - eXcript (YouTube)
+* [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Joao Pedro Araujo
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
 * [Introdução à Ciência da Computação com Python - Parte 1](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos) - USP (Coursera)
 * [Introdução à Ciência da Computação com Python - Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) - USP (Coursera)
 * [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)
 * [Introdução à linguagem Python](https://www.udemy.com/intro_python/) - Diego Mariano (Udemy)
+* [Programação em Python](https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) - Bóson Treinamentos
 * [Programação em Python: O Guia para Iniciantes](https://www.udemy.com/course/programacao-python-guia-para-iniciantes/) - Jones Granatyr (Udemy)
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
+* [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - Data Science Academy
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson (YouTube)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)

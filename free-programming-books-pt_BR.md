@@ -1,4 +1,4 @@
-### Índice
+﻿### Índice
 
 * [Agnósticos](#agnosticos)
   * [Programação](#programação)
@@ -22,7 +22,7 @@
   * [Angular](#angular)
   * [Angular.js](#angularjs)
   * [Backbone.js](#backbonejs)
-  * [Ember.js](emberjs)
+  * [Ember.js](#emberjs)
   * [Express.js](#expressjs)
   * [Grunt](#grunt)
   * [Gulp](#gulp)
@@ -40,6 +40,7 @@
   * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
+* [R](#r)
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
@@ -50,6 +51,7 @@
 
 #### Programação
 
+* [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari e Cristian Cechinel (PDF)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
 
 
@@ -68,6 +70,7 @@
 
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
+* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - B. Hall, Traduzido por cv8minix3 (HTML)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
@@ -147,14 +150,12 @@
 
 ### Java
 
-* [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/) - Caelum
 * [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
+* [Imergindo na JVM](https://leanpub.com/imergindo-jvm) - Otavio Santana *(Leanpub account or valid email requested)*
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
-* [Lab. Java com Testes, JSF e Design Patterns](https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/) - Caelum
 * [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) (PDF)
-* [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/) - Caelum
 
 
 ### JavaScript
@@ -230,6 +231,7 @@
 
 #### Node.js
 
+* [Aplicações web real-time com Node.js](https://github.com/caio-ribeiro-pereira/livro-nodejs) - Caio Ribeiro Pereira
 * [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/) - Waldemar Neto *(necessário conta no Leanpub ou e-mail válido)*
 * [Node.js para Leigos](http://udgwebdev.com/nodejs/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
@@ -306,7 +308,16 @@
 
 #### Django
 
+* [Documentação do Django](https://docs.djangoproject.com/pt-br)
 * [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
+
+
+### R
+
+* [Análise Exploratória de Dados usando o R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf) - Enio Jelihovschi (PDF)
+* [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/) - Paulo Oliveira, Saulo Guerra, and Robert McDonnell (email address *requested*, not required)
+* [Fundamentos Estatísticos de Ciência dos Dados](https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) - Renato Assunção (PDF)
+* [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf) - Jakson Alves de Aquino (PDF)
 
 
 ### RegEx

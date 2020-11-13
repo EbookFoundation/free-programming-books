@@ -8,6 +8,7 @@
 * [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
+* [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
 * [Html](#html)
 * [iOS](#ios)
 * [Java](#java)
@@ -68,6 +69,11 @@
 ### Go
 
 * [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
+
+
+### Güvenlik ve Gizlilik
+
+* [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin et al.
 
 
 ### Html

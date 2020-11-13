@@ -165,6 +165,7 @@
 ### Go
 
 * [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
+* [Go en Español](https://nachopacheco.gitbooks.io/go-es/content/doc) - Nacho Pacheco (HTML)
 
 
 ### Haskell
@@ -235,7 +236,9 @@
 
 #### React
 
-* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) (PDF, EPUB, MOBI)
+* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) - Sergio Xalambrí (PDF, EPUB, MOBI; Leanpub cuenta requerida)
+* [Descubre React](https://leanpub.com/descubre-react) - Javi Jiménez (HTML, PDF, EPUB, MOBI; Leanpub cuenta requerida)
+* [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish) (PDF, EPUB, MOBI; Leanpub cuenta requerida)
 * [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
 
 
@@ -356,6 +359,7 @@
 ### Scratch
 
 * [Informática Creativa](https://github.com/programamos/GuiaScratch) (PDF)
+* [Manual de Scratch 2](https://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf) (PDF)
 
 
 ### SQL

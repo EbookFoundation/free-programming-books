@@ -6,12 +6,12 @@ Estamos comprometidos a hacer de la participación en este proyecto una experien
 
 Ejemplos de comportamiento inaceptables por parte de los participantes incluyen:
 
-* El uso de lenguaje o imágenes sexuales
+* Acoso público o privado
 * Ataques personales
 * Comentarios insultantes o despectivos
-* Acoso público o privado
-* Publicar información privada de otros, como direcciones físicas o electrónicas, sin permiso explícito
+* El uso de lenguaje o imágenes sexuales
 * Otras conductas poco éticas o poco profesionales
+* Publicar información privada de otros, como direcciones físicas o electrónicas, sin permiso explícito
 
 
 Los encargados del mantenimiento del proyecto tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, confirmaciones de cambio, código, ediciones wiki, problemas y otras contribuciones que no están alineadas con este Código de Conducta, o para prohibir temporalmente o de forma permanente cualquier colaborador por otros comportamientos que considere inapropiados, amenazante, ofensivo o dañino.

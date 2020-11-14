@@ -116,6 +116,7 @@ Free Podcasts and Screencasts:
 + [Russian / Русский язык](free-podcasts-screencasts-ru.md)
 + [Spanish / español / castellano](free-podcasts-screencasts-es.md)
 + [Swedish / Svenska](free-podcasts-screencasts-se.md)
++ [Turkish / Türkçe](free-podcasts-screencasts-tr.md)
 
 
 ### Programming Playgrounds

@@ -2,6 +2,7 @@
 
 * [C++](#C++)
 * [Clojure](#clojure)
+* [Design and Architecture](#design-and-architecture)
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -29,6 +30,11 @@ ADV - продвинутый. Тонкости.
 * [Курс Clojure](https://clojurecourse.by) (BEG)
 
 
+### Design and Architecture
+
+* [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
+
+
 ### Haskell
 
 * [Функциональное программирование на языке Haskell](https://stepik.org/course/75) (INT)
@@ -52,6 +58,7 @@ ADV - продвинутый. Тонкости.
 * [Основы программирования](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0) - Тимур Шемсединов (INT)
 * [Парадигмы программирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md) - Тимур Шемсединов (INT)
 * [Параллельное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Parallel.md) - Тимур Шемсединов (INT)
+* [Современный учебник JavaScript](https://learn.javascript.ru) - Илья Кантор (INT)
 * [Технологический стек NodeJS](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md) - Тимур Шемсединов (INT)
 * [Функциональное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md) - Тимур Шемсединов (INT)
 * [Шаблоны проектирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md) - Тимур Шемсединов (INT)

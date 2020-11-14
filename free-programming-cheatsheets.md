@@ -1,10 +1,13 @@
 ### Index
 
 * [Bash](#bash)
+* [C](#C)
+* [C++](#c-1)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
 * [HTML / CSS](#html--css)
+* [Java](#Java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
   * [Vue.js](#vuejs)
@@ -12,6 +15,7 @@
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
 * [MongoDB](#mongodb)
+* [Perl](#Perl)
 * [Python](#python)
 * [Ruby](#ruby)
 * [SQL](#sql)
@@ -20,6 +24,16 @@
 ### Bash
 
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+
+
+### C
+
+* [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
+
+
+### C++
+
+* [C++ Quick Reference](https://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) (PDF)
 
 
 ### Clojure
@@ -44,6 +58,11 @@
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
 * [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
+
+
+### Java
+
+* [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) (PDF)
 
 
 ### JavaScript
@@ -84,9 +103,16 @@
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet
 
 
+### Perl
+
+* [Perl Reference card](https://michaelgoerz.net/refcards/perl_refcard.pdf) (PDF)
+
+
 ### Python
 
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
+* [Python Cheatsheet for beginners](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet) - Codeacademy (HTML)
+* [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)

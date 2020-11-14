@@ -26,6 +26,7 @@
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [PHP](#php)
+  * [CodeIgniter](#codeIgniter)
 * [Python](#python)
 * [React Native](#react-native)
 * [Ruby](#ruby)
@@ -137,12 +138,16 @@
 * [Curso de Java Intermediário](https://loiane.training/curso/java-intermediario) - Loiane Groner
 * [Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara (YouTube)
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
+* [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
+* [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
 * [Estrutura de Dados com Java](https://loiane.training/curso/estrutura-de-dados) - Loiane Groner
 * [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
 * [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
 * [Java SE - Polimorfismo](https://www.udemy.com/java-se-polimorfismo/) - Fernando Franzini (Udemy)
-* [Orientação a Objeto com Java](https://pt.coursera.org/learn/orientacao-a-objetos-com-java) - ITA (Coursera)
+* [Orientação a Objetos com Java](https://www.coursera.org/learn/orientacao-a-objetos-com-java) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
+* [Princípios de Desenvolvimento Ágil de Software](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
 * [Produtos Java - Especificações versus Proprietários](https://www.udemy.com/produtos-java-especificacoes-versus-proprietarios/) - Fernando Franzini (Udemy)
+* [TDD – Desenvolvimento de software guiado por testes](https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
 * [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias (Udemy)
 
 
@@ -204,13 +209,17 @@
 * [Boas práticas em PHP](https://www.udemy.com/boas-praticas-em-php/) - Diego Mariano (Udemy)
 * [Curso Básico de Bootstrap 4 , PHP e MySQL](https://www.udemy.com/curso-basico-de-bootstrap-4-php-e-mysql-gratis/) - Ricardo Milbrath Gonçalves (Udemy)
 * [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
-* [Introdução ao Laravel (5.3)](https://www.udemy.com/introducao-ao-laravel-53/) - Guilherme Ferreira (Udemy)
 * [Introdução ao PHP orientado a objetos](https://www.udemy.com/php-orientado-a-objetos/) - Diego Mariano (Udemy)
 * [Lógica de Programação com PHP](https://www.youtube.com/playlist?list=PLhTDLccA9vgHHwGZArcUqIZ5AUGwrbZ_A) - Curso Zend Framework (YouTube)
 * [Login com validação e flash messages (PHP)](https://www.udemy.com/login-com-validacao-e-flash-messages-php/) - Alexandre Cardoso (Udemy)
 * [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
 * [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
+
+
+#### CodeIgniter
+
+* [Curso de CodeIgniter para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV) - RBtech
 
 
 ### Python

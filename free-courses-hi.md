@@ -7,6 +7,8 @@
 * [Java](#Java)
 * [Javascript](#Javascript)
 * [Python](#Python)
+* [Ruby](#ruby)
+  * [Ruby on Rails](#ruby-on-rails)
 
 
 ### Android
@@ -22,6 +24,7 @@
 ### C++
 
 * [The Complete C++ Course | Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+* [C++ Full Course | C++ Tutorial | Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 
 
 ### Data Structures
@@ -34,6 +37,7 @@
 ### Java
 
 * [The complete Java tutorial | Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - Harry
+* [Java + DS + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha (Anuj)
 
 
 ### Javascript
@@ -43,4 +47,12 @@
 
 ### Python
 
+* [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi) (Great Learning) *(account required)*
 * [Python Tutorial For Beginners | Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - Harry
+
+
+### Ruby
+
+#### Ruby on Rails
+
+* [Ruby on Rails 5 Tutorial(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb) - CS Geeks

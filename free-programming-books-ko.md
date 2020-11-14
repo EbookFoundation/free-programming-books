@@ -3,6 +3,7 @@
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
 * [C](#c)
+* [C++](#c-1)
 * [Docker](#docker)
 * [GIT](#git)
 * [Go](#go)
@@ -21,6 +22,7 @@
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scratch](#scratch)
 * [Swift](#swift)
 
@@ -38,6 +40,12 @@
 ### C
 
 * [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
+* [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)
+
+
+### C++
+
+* [씹어먹는 C++](https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf) - 이재범 (PDF)
 
 
 ### Docker
@@ -144,6 +152,11 @@
 ### Ruby
 
 * [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
+
+
+### Rust
+
+* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) (:construction: *in process*)
 
 
 ### Scratch

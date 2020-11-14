@@ -267,6 +267,7 @@
 * [Toolsday](http://toolsday.io) (podcast)
 * [TTL Podcast](http://ttlpodcast.com) (podcast)
 * [Web Security Warriors](https://devchat.tv/web-security-warriors/) (podcast)
+* [Women in TECH with Ariana](https://podcasts.apple.com/us/podcast/women-in-tech-with-ariana/id1338917627) (podcast)
 
 
 ### PHP
@@ -289,6 +290,7 @@
 ### Python
 
 * [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy) (screencast)
+* [Codecasts](https://www.youtube.com/playlist?list=PL_qGav8csvade05RSAYtnxvCfQKTJcZR4) - Daniel Feldroy (screencast)
 * [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969) (screencast)
 * [Import this](https://soundcloud.com/import-this) (podcast)
 * [Podcast.__init__](http://podcastinit.com) (podcast)

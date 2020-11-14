@@ -667,6 +667,7 @@
 * [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python之旅](http://funhacks.net/explore-python) - Ethan
 * [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+* [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
 * [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - (内含丰富的笔记以及各类教程)
 * [像计算机科学家一样思考Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) - Allen B. Downey、大胖哥(翻译)

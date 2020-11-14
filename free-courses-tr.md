@@ -1,12 +1,18 @@
 ### Index
 
 * [Algoritmalar](#algoritmalar)
+* [CSS](#css)
 * [Temel programlama](#temel-programlama)
 
 
 ### Algoritmalar
 
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
+
+
+### CSS
+
+* [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
 
 
 ### Temel programlama

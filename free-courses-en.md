@@ -390,7 +390,7 @@
 
 #### DenoJS
 
-* [Deno Beginner](https://denobeginner.com) - Ahmad Awais - _Email required_
+* [Deno Beginner](https://denobeginner.com) - Ahmad Awais - *(email required)*
 
 
 #### jQuery

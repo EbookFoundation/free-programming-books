@@ -28,6 +28,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [D3.js](#d3js)
   * [DenoJS](#denojs)
   * [jQuery](#jquery)
   * [Next.js](#nextjs)
@@ -381,9 +382,15 @@
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
+### D3.js
+
+* [D3 101](https://www.youtube.com/playlist?list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb) - Curran Kelleher
+* [Learn D3](https://www.codecademy.com/learn/learn-d3) - Codecademy *(account required)*
+
+
 #### DenoJS
 
-* [Deno Beginner](https://denobeginner.com) - Ahmad Awais - _Email required_
+* [Deno Beginner](https://denobeginner.com) - Ahmad Awais - *(email required)*
 
 
 #### jQuery

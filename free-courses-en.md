@@ -19,6 +19,7 @@
   * [SQL](#sql)
 * [Deep Learning](#deep-learning)
 * [Docker](#docker)
+* [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
@@ -266,6 +267,13 @@
 * [Docker Tutorial Videos | DevOps Tool](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) - edureka!
 * [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
 * [Learn Docker, Container Runtimes, Builders and Registries](https://www.katacoda.com/courses/container-runtimes) - Katacoda
+
+
+### Flutter
+
+* [Flutter Crash Course](https://fluttercrashcourse.com/courses/basics/lessons/materialapp-scaffold-appbar-text) - Nick Manning *(account required)*
+* [Flutter Tutorial](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Matt Sullivan, James Williams, Mary Xia (Udacity)
+* [Flutter Tutorial for Beginners](https://www.udemy.com/course/learn-flutter-beginners-course) - Mayuresh Wankhede (Udemy)
 
 
 ### Game Development

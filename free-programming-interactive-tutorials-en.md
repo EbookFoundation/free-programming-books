@@ -29,7 +29,9 @@
 * [Objective-C](#objective-c)
 * [Ocaml](#ocaml)
 * [PHP](#php)
+  * [CodeIgniter](#codeigniter)
 * [Python](#python)
+  * [Flask](#flask)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
@@ -80,7 +82,7 @@
 * [Try Clojure](http://www.tryclj.com)
 
 
-### Cloud Computing 
+### Cloud Computing
 
 * [AWS API Gateway](https://run.qwiklabs.com/focuses/269?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605949) - *registration required*
 * [AWS Identity and Access Management (IAM)](https://run.qwiklabs.com/focuses/7782?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605942) - *registration required*
@@ -149,7 +151,7 @@
 
 * [CodingBat code practice](http://codingbat.com/java)
 * [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
-* [Java Tutorial](https://www.w3schools.com/java) - W3Schools 
+* [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -252,6 +254,11 @@
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
 
 
+#### CodeIgniter
+
+* [CodeIgniter 4 User Guide](https://codeigniter.com/user_guide/index.html)
+
+
 ### Python
 
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
@@ -261,6 +268,11 @@
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
+
+
+#### Falsk
+
+* [Flask Tutorial](https://flask.palletsprojects.com/en/1.1.x/tutorial/)  - Pallets Projects
 
 
 ### Ruby

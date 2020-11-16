@@ -36,6 +36,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [SQL](#sql)
+* [PostgreSQL](#postgresql)
 * [Vim](#vim)
 
 
@@ -270,7 +271,7 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 
-#### Falsk
+#### Flask
 
 * [Flask Tutorial](https://flask.palletsprojects.com/en/1.1.x/tutorial/)  - Pallets Projects
 
@@ -305,6 +306,12 @@
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQLBolt](http://sqlbolt.com)
+
+
+### PostgresSQL
+
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+* [Learn PostgreSQL](https://www.tutorialspoint.com/postgresql/index.htm)
 
 
 ### Vim

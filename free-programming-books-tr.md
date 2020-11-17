@@ -8,6 +8,7 @@
 * [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
+* [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
 * [Html](#html)
 * [iOS](#ios)
 * [Java](#java)
@@ -26,8 +27,9 @@
 
 ### Android
 
-* [Android Dersleri](https://umiitkose.com/android)
+* [Android Dersleri](https://umiitkose.com/android) - Ümit Köse
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
+* [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - Ümit Köse (PDF)
 
 
 ### C
@@ -68,6 +70,11 @@
 ### Go
 
 * [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
+
+
+### Güvenlik ve Gizlilik
+
+* [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin et al.
 
 
 ### Html

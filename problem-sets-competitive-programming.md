@@ -38,6 +38,7 @@
 * [Microcorruption](https://microcorruption.com/login)
 * [oj.uz](https://oj.uz)
 * [Sphere Online Judge](http://www.spoj.com/contests)
+* [Techgig](https://www.techgig.com)
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
@@ -47,6 +48,7 @@
 
 * [CTFlearn](https://ctflearn.com) (email adress *requested*)
 * [Google Ctf](https://capturetheflag.withgoogle.com) (email adress *requested*)
+* [Hacker101](https://ctf.hacker101.com) (email adress *requested*)
 * [Hackthebox](https://www.hackthebox.eu) (email adress *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources) (email adress *requested*)

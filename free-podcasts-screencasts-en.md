@@ -290,6 +290,7 @@
 ### Python
 
 * [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy) (screencast)
+* [Codecasts](https://www.youtube.com/playlist?list=PL_qGav8csvade05RSAYtnxvCfQKTJcZR4) - Daniel Feldroy (screencast)
 * [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969) (screencast)
 * [Import this](https://soundcloud.com/import-this) (podcast)
 * [Podcast.__init__](http://podcastinit.com) (podcast)

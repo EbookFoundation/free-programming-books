@@ -129,14 +129,14 @@
 
 ### Java
 
-* [Khóa học lập trình JavaFX](https://www.youtube.com/watch?v=zAq7Lmv46PE&list=PL33lvabfss1yRgFCgFXjtYaGAuDJjjH-j) - Kteam
 * [Học Lập Trình Java Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaB4DMiP4wYbLjfszqKg89lL) - thân triệu
+* [Khóa học lập trình JavaFX](https://www.youtube.com/watch?v=zAq7Lmv46PE&list=PL33lvabfss1yRgFCgFXjtYaGAuDJjjH-j) - Kteam
 
 
 ### JavaScript
 
-* [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban)
 * [JavaScript Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-java-script-can-ban-12.html) - TEDU
+* [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban)
 
 
 ### jQuery
@@ -159,8 +159,8 @@
 
 ### Objective-C
 
-* [Objective-C Cơ Bản](https://www.codehub.com.vn/Objective-C-Co-Ban)
 * [học lập trình objective-c miễn phí](https://www.youtube.com/playlist?list=PLgT92sqeoAUC6gHyrbdZTbulFF8qwxGSK) - Kênh học miễn phí qua video trên youtube
+* [Objective-C Cơ Bản](https://www.codehub.com.vn/Objective-C-Co-Ban)
 
 
 ### PHP
@@ -175,8 +175,8 @@
 
 * [Lập trình website với Python Django](https://www.youtube.com/watch?v=VF0oC9mkkno&list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P) - Kteam
 * [Python Cơ Bản](https://www.codehub.com.vn/Python-Co-Ban)
-* [Python Cơ Bản](https://www.youtube.com/watch?v=NZj6LI5a9vc&list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
 * [Python Cơ Bản](https://www.youtube.com/watch?v=FgN-mHwHLyg&list=PLyiioioEJSxEh_S_XFvG0d2xKRMSWLfN_) - DayNhauHoc
+* [Python Cơ Bản](https://www.youtube.com/watch?v=NZj6LI5a9vc&list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
 
 
 ### React
@@ -197,9 +197,9 @@
 
 ### SQL
 
+* [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - thân triệu
 * [SQL Cơ Bản](https://www.codehub.com.vn/SQL-Co-Ban)
 * [SQL Cơ Bản](https://www.youtube.com/watch?v=2fanjSYVElY&list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
-* [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - thân triệu
 
 
 ### Swift

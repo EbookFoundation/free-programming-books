@@ -4,8 +4,8 @@ Bienvenue à Free-Programming-Books! Nous souhaitons la bienvenue aux nouveaux c
 
 * [A propos des Pull Requests](https://help.github.com/articles/about-pull-requests/)
 * [Github Bonjour le monde](https://guides.github.com/activities/hello-world/)
-* [Youtube - Tutoriel Github pour debutant](https://www.youtube.com/watch?v=0fKg7e37bQE)
 * [Youtube - Comment Fork un Repo GitHub et Soumettre un Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+* [Youtube - Tutoriel Github pour debutant](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
 N'hésitez pas à poser des questions; chaque contributeur a commencé par un premier PR. Vous pourriez être notre millième!
 

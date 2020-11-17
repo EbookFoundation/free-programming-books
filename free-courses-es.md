@@ -8,6 +8,8 @@
 * [Control de Versiones](#control-de-versiones)
 * [Flujos de trabajo](#flujos-de-trabajo)
 * [Frameworks](#frameworks)
+* [LaTeX](#latex)
+* [Markdown](#markdown)
 * [Ofimática](#ofim&#x00E1;tica)
 * [Procesadores de lenguaje](#procesadores-de-lenguaje)
 * [Programación](#programaci&#x00F3;n)
@@ -31,6 +33,7 @@
 * [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4)
 * [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1)
 * [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130)
+* [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) - Jesús Conde (Youtube)
 
 
 ### Arduino
@@ -44,6 +47,7 @@
 * [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163)
 * [Curso SQL](https://www.pildorasinformaticas.es/course/curso-sql) - Juan Díaz (Píldoras Informáticas)
 * [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html)
+* [Manual práctico de SQL](https://www.lawebdelprogramador.com/cursos/archivos/ManualPracticoSQL.pdf) - Álvaro E. García (PDF)
 
 
 ### Big Data
@@ -103,6 +107,17 @@
 * [Curso Django](https://www.pildorasinformaticas.es/course/django) - Juan Díaz (Píldoras Informáticas)
 * [Curso Spring](https://www.pildorasinformaticas.es/course/curso-spring) - Juan Díaz (Píldoras Informáticas)
 * [Laravel](https://www.pildorasinformaticas.es/course/laravel) - Juan Díaz (Píldoras Informáticas)
+* [Probar Django | Crear una Aplicación Web](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python) - Justin Mitchel, Karlita K (Udemy)
+
+
+### LaTeX
+
+* [Curso no convencional de LaTeX](https://ondiz.github.io/cursoLatex/)
+
+
+### Markdown
+
+* [Tutorial de Markdown](https://www.markdowntutorial.com/es/)
 
 
 ### Machine Learning (ML) e Inteligencia Artificial (AI)
@@ -145,9 +160,11 @@
 ### Programación
 
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
+* [Curso de Python gratis y con certificación](https://edutin.com/curso-de-python-4276) - Edutin
 * [Curso Gratis de Programación Básica](https://platzi.com/clases/programacion-basica/) - Platzi
 * [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31)
 * [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74)
+* [Introducción a la programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=11663) - Carlos Slim Foundation (cuenta requerida)
 * [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java)
 * [Introducción a la programación para ciencias e ingieniería](https://miriadax.net/web/introduccion-programacion-ciencias-ingenieria-2edicion)
 * [Introducción a la programación, Python I](https://www.coursera.org/learn/aprendiendo-programar-python)
@@ -162,13 +179,19 @@
 * [Java SE Módulo 3](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-3) - Juan Díaz (Píldoras Informáticas)
 * [Java SE Módulo 4](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-4) - Juan Díaz (Píldoras Informáticas)
 * [JavaScript Básico a Avanzado](https://www.pildorasinformaticas.es/course/javascript-desde-0) - Juan Díaz (Píldoras Informáticas)
+* [Linux y Bash](https://aprendeaprogramar.com/course/view.php?id=10) - Javier Hernandez (Aprendeaprogramar.com)
+* [Lógica de programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929) - Carlos Slim Foundation (cuenta requerida)
+* [Programación de computadoras](https://es.khanacademy.org/computing/computer-programming#programming) - Khan Academy
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)
 * [Programación en lenguaje ADA (2010)](https://ocw.unican.es/course/view.php?id=185)
 * [Programación en lenguaje Java (2008)](http://ocw.uc3m.es/historico/programacion-java)
 * [Programación en lenguaje Java (2009)](https://ocw.unican.es/course/view.php?id=217)
 * [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=26)
 * [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44)
+* [Programación para principiantes - primeros pasos](https://www.udemy.com/course/programacion-para-principiantes) - Fernando Herrera (Udemy)
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
+* [Programador en C#](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=12989) - Carlos Slim Foundation (cuenta requerida)
+* [Programador orientado a objetos](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4244) - Carlos Slim Foundation (cuenta requerida)
 * [Python Módulo 1](https://www.pildorasinformaticas.es/course/curso-python) - Juan Díaz (Píldoras Informáticas)
 * [Python Módulo 2](https://www.pildorasinformaticas.es/course/curso-python/curso-python-modulo-2) - Juan Díaz (Píldoras Informáticas)
 
@@ -182,6 +205,7 @@
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 * [Diseño web con HTML5+CSS](https://miriadax.net/web/diseno-web-con-html5-css-2-edicion-)
 * [HTML 5](https://www.pildorasinformaticas.es/course/html-5) - Juan Díaz (Píldoras Informáticas)
+* [Introducción a HTML & CSS](https://www.aulaclic.es/html/index.htm) (HTML)
 * [PHP MySql Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql) - Juan Díaz (Píldoras Informáticas)
 * [PHP MySql Módulo 2](https://www.pildorasinformaticas.es/course/php-mysql/php-mysql-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html)
@@ -255,6 +279,7 @@
 
 ### Videojuegos
 
+* [Desarrollador de videojuegos - Capacitate para el empleo](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=6226) - Carlos Slim Foundation (cuenta requerida)
 * [Desarrollo de Apps sin saber programación](https://campusvirtual.ull.es/ocw/course/view.php?id=128)
 * [Diseño, organización y evaluación de videojuegos y gamificación](https://miriadax.net/web/diseno-organizacion-y-evaluacion-de-videojuegos-y-gamificacion-3-edicion-_201604220800)
 * [Introducción a la gamificación sobre casos prácticos](https://miriadax.net/web/introduccion-a-la-gamificacion-a-traves-de-casos-practicos)

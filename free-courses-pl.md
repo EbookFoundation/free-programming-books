@@ -13,6 +13,7 @@
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Python](#python)
+* [Swift](#swift)
 
 
 ### Assembly Language
@@ -63,6 +64,7 @@
 
 ### Java
 
+* [Darmowe kursy z Javy dla początkujących](http://programowaniejava.pl/edukacja/darmowe-szkolenia.html)
 * [JAVA FX-wprowadzenie](https://www.youtube.com/playlist?list=PL-ikpm9wGd1HkA9PvGTYWZHtO-Xq_i_Mw)
 * [Java GUI: programowanie Graficznego Interfejsu Użytkownika](https://www.youtube.com/playlist?list=PL3298E3EB8CFDE9BA)
 * [Kurs JavaFX od podstaw](https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU)
@@ -100,3 +102,10 @@
 * [Kurs Python - Darmowy Po Polsku](https://www.youtube.com/playlist?list=PL_dDQ_G9rdI6dQsDkwqSQyAeXY3uUrWzp)
 * [Kurs Python 3](https://www.youtube.com/playlist?list=PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH)
 * [Python 3 - Kurs wideo](https://www.youtube.com/playlist?list=PLbOPmSDkHx2pCboufcEKkinpUuramshmr)
+
+
+### Swift
+
+* [Kurs Swift - Lekcja 0: Zakładamy konto deweloperskie i pobieramy Xcode](https://myapple.pl/posts/8599-kurs-swift-lekcja-0-zakladamy-konto-deweloperskie-i-pobieramy-xcode) - Michał Lipiński
+* [Kurs Swift - Lekcja 1: Podstawy języka](https://myapple.pl/posts/8600-kurs-swift-lekcja-1-podstawy-jezyka) - Michał Lipiński
+* [Kurs Swift - Lekcja 2: Jak zbudowane są aplikacje](https://myapple.pl/posts/8601-kurs-swift-lekcja-2-jak-zbudowane-sa-aplikacje) - Michał Lipiński

@@ -297,7 +297,8 @@
 * [Git](https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR) - Gwendolyn Faraday
 * [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (The Net Ninja)
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-* [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE&list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud&index=13) (Programming with Mosh)* [GitHowTo](https://githowto.com)
+* [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE&list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud&index=13) - Programming with Mosh
+* [GitHowTo](https://githowto.com)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 

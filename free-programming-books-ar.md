@@ -1,12 +1,15 @@
 ### Index
 
 * [Arduino](#arduino)
+* [C#](#c-sharp)
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
+* [JavaScript](#javascript)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Programming in Scratch](#programming-in-scratch)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
@@ -22,6 +25,11 @@
 * [كتاب احترف الأردوينو](http://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) (PDF)
 
 
+### C Sharp
+
+* [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy)
+
+
 ### HTML/CSS
 
 * [التحريك عبر CSS](https://academy.hsoub.com/files/14-التحريك-عبر-css/)
@@ -31,6 +39,11 @@
 ### Introduction to Programming in Arabic
 
 * [مختصر دليل لغات البرمجة ](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (PDF)
+
+
+### JavaScript
+
+* [Eloquent Javascript](https://rabahboudia.gitbooks.io/arabic-eloquent-js/content/index.html) - Marijn Haverbeke (HTML)
 
 
 ### Linux
@@ -61,6 +74,11 @@
 * [تعلم البرمجة بلغة PHP](http://librebooks.org/learn-programming-with-php/)
 
 
+#### Symfony
+
+* [سيمفوني 5 : المسار السريع](https://symfony.com/doc/5.0/the-fast-track/ar/index.html)
+
+
 ### Programming in Scratch
 
 * [كتاب احترف سكراتش](http://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
@@ -73,6 +91,7 @@
 
 ### Raspberry Pi
 
+* [احترف الرازبيري باي](https://www.ev-center.com/uploads/2/1/2/6/21261678/كتاب_احترف_الرازبيري_باي.pdf)  (PDF)
 * [راسبيري باي السهل](http://librebooks.org/simply-raspberry-pi/)
 
 

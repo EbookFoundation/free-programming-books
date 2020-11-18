@@ -16,12 +16,16 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
+  * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [jQuery](#jquery)
+  * [React](#react)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)
+* [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -145,6 +149,11 @@
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
 
+#### Bootstrap
+
+* [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
+
+
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
@@ -180,11 +189,6 @@
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 
 
-#### Bootstrap
-
-* [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
-
-
 #### jQuery
 
 * [Front End Libraries: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery)
@@ -193,6 +197,7 @@
 #### React
 
 * [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
+* [React Tutorial](https://react-tutorial.app)
 
 
 ### Kotlin
@@ -211,6 +216,11 @@
 #### Operating systems
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+
+
+### LaTeX
+
+* [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 
 ### Lisp

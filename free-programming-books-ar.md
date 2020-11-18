@@ -1,6 +1,7 @@
 ### Index
 
 * [Arduino](#arduino)
+* [C#](#c-sharp)
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
@@ -22,6 +23,11 @@
 
 * [أردوينو السهل](http://librebooks.org/simply-arduino/)
 * [كتاب احترف الأردوينو](http://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) (PDF)
+
+
+### C Sharp
+
+* [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy)
 
 
 ### HTML/CSS

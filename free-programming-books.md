@@ -29,6 +29,7 @@
 * [Component Pascal](#component-pascal)
 * [Cool](#cool)
 * [Coq](#coq)
+* [Crypto](#crypto)
 * [Crystal](#crystal)
 * [CUDA](#cuda)
 * [D](#d)
@@ -1228,6 +1229,11 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
 * [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
+
+
+###Crypto
+
+* [Crypto101](https://archive.parrotsec.org/parrot/misc/openbooks/crypto/Crypto101.pdf)
 
 
 ### Crystal
@@ -2956,3 +2962,4 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour) - Wikibooks
 * [CA-Clipper 5.2 Norton Guide](https://web.archive.org/web/20190516192814/http://www.ousob.com/ng/clguide/)
 * [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s)) - Wikibooks
+

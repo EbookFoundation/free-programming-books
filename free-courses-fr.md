@@ -31,8 +31,8 @@
 
 ### C
 
-* [Apprendre le langage C - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) (Formation Video)
 * [Apprendre le langage C](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) (Formation Video)
+* [Apprendre le langage C - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) (Formation Video)
 * [TUTOS C](https://www.youtube.com/playlist?list=PLEagTQfI6nPOWS4JPnxW5pRVgeyLuS5oC) (PrimFX)
 
 
@@ -106,8 +106,8 @@
 ### PHP
 
 * [Apprendre Laravel 5.0.X](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUCpXVEehCHs99N7IWByS3i) (Grafikart)
-* [Apprendre PHP - Cours Complet + POO](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDv-ceONHM_C19dPW1MAMD) (Grafikart)
 * [Apprendre PHP](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc) (Formation Video)
+* [Apprendre PHP - Cours Complet + POO](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDv-ceONHM_C19dPW1MAMD) (Grafikart)
 * [Apprendre Symfony 4 par l'exemple](https://www.youtube.com/playlist?list=PLjwdMgw5TTLX7wmorGgfrqI9TcA8nMb29) (Grafikart)
 * [Cours complet de Pierre Giraud sur le développement PHP avec MySQL](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/) (Pierre Giraud)
 * [Tester sur Symfony](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWtWmdMzPaoc45Iztu7tVQ8) (Grafikart)

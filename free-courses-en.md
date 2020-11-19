@@ -159,7 +159,6 @@
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
-* [Data Science Full Course](https://youtu.be/-ETQ97mXXF0) -edureka!
 
 
 ### Databases
@@ -178,7 +177,6 @@
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
-* [Deep Learning Full Course](https://youtu.be/DooxDIRAkPA) -edureka!
 
 
 ### Docker
@@ -235,7 +233,6 @@
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-* [Learn HTML5 and CSS3 From Scratch](https://youtu.be/mU6anWqZJcc) -freeCodeCamp.org
 
 
 ### iOS
@@ -454,7 +451,6 @@
 ### Security
 
 * [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
-* [Ethical Hacking from scratch](https://youtu.be/dz7Ntp7KQGA) -(edureka!)
 
 
 ### Software Engineering

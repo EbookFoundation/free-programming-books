@@ -1,6 +1,7 @@
 ### Index
 
 * [Ada](#ada)
+* [Android](#android)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
@@ -8,17 +9,23 @@
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
+* [Dart](#dart)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
+  * [Bootstrap](#bootstrap)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [jQuery](#jquery)
+  * [React](#react)
+* [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)
+* [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -28,6 +35,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scala](#scala)
 * [SQL](#sql)
 * [Vim](#vim)
@@ -36,6 +44,11 @@
 ### Ada
 
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+
+
+### Android
+
+* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial)
 
 
 ### Bash
@@ -51,12 +64,15 @@
 
 ### C Sharp
 
+* [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
 * [Codeasy](https://codeasy.net/course/csharp_elementary)
 * [Learn C#](http://www.learncs.org)
+* [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
 ### C++
 
+* [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
 
 
@@ -83,6 +99,11 @@
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 
+### Dart
+
+* [Dart Official Codelabs](https://dart.dev/codelabs)
+
+
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)
@@ -90,8 +111,10 @@
 
 ### Git
 
+* [git-game](https://github.com/git-game/git-game)
+* [git-game-v2](https://github.com/git-game/git-game-v2)
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
-* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+* [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
 
@@ -115,18 +138,27 @@
 ### HTML / CSS
 
 * [CSS Diner](http://flukeout.github.io)
+* [CSS Tutorial](https://www.w3schools.com/css/) - W3Schools
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
+* [FreeCodeCamp: Responsive Web Design Course](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 * [Grid Garden](https://cssgridgarden.com)
+* [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
+
+
+#### Bootstrap
+
+* [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
 
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
 * [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
+* [Java Tutorial](https://www.w3schools.com/java) - W3Schools 
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -137,11 +169,14 @@
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
 * [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
+* [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript)
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
-* [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
+* [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
+* [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
+* [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
 
@@ -152,6 +187,22 @@
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
+
+
+#### jQuery
+
+* [Front End Libraries: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery)
+
+
+#### React
+
+* [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
+* [React Tutorial](https://react-tutorial.app)
+
+
+### Kotlin
+
+* [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
 
 
 ### Language Agnostic
@@ -167,6 +218,11 @@
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
 
 
+### LaTeX
+
+* [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
+
 ### Lisp
 
 * [Lisp Koans](https://github.com/google/lisp-koans)
@@ -180,6 +236,7 @@
 ### Node
 
 * [Node School](http://nodeschool.io)
+* [Node.js Tutorial](https://www.w3schools.com/nodejs) - W3Schools
 
 
 ### NoSQL
@@ -202,6 +259,7 @@
 
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
+* [PHP tutorial](https://www.w3schools.com/php) - W3Schools
 
 
 ### Python
@@ -210,7 +268,9 @@
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
+* [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 
 ### Ruby
@@ -219,6 +279,11 @@
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
+
+
+### Rust
+
+* [Rustlings](https://github.com/rust-lang/rustlings)
 
 
 ### Scala
@@ -234,7 +299,9 @@
 
 ### SQL
 
+* [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
+* [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQLBolt](http://sqlbolt.com)
 
 

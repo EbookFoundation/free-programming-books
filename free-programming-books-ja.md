@@ -2,6 +2,8 @@
 
 * [0 - 言語非依存](#0---%e8%a8%80%e8%aa%9e%e9%9d%9e%e4%be%9d%e5%ad%98)
   * [アクセシビリティ](#%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b7%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3)
+  * [オープンソースエコシステム](#%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%a8%e3%82%b3%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
+  * [ガベージコレクション](#%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3)
   * [グラフィックスプログラミング](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
   * [グラフィックユーザーインターフェイス](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b9)
   * [セキュリティ](#%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3)
@@ -9,9 +11,12 @@
   * [ソフトウェアアーキテクチャ](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%a2%e3%83%bc%e3%82%ad%e3%83%86%e3%82%af%e3%83%81%e3%83%a3)
   * [ソフトウェア品質](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e5%93%81%e8%b3%aa)
   * [ソフトウェア開発方法論](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e9%96%8b%e7%99%ba%e6%96%b9%e6%b3%95%e8%ab%96)
+  * [データベース](#%e3%83%87%e3%83%bc%e3%82%bf%e3%83%99%e3%83%bc%e3%82%b9)
+  * [ネットワーキング](#%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0)
   * [並列プログラミング](#%e4%b8%a6%e5%88%97%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
-  * [機械学習](#%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)
+  * [機械学習](#%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92)
   * [正規表現](#%e6%ad%a3%e8%a6%8f%e8%a1%a8%e7%8f%be)
+  * [理論計算機科学](#%e7%90%86%e8%ab%96%e8%a8%88%e7%ae%97%e6%a9%9f%e7%a7%91%e5%ad%a6)
   * [組み込みシステム](#%e7%b5%84%e3%81%bf%e8%be%bc%e3%81%bf%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
 * [Android](#android)
 * [AppleScript](#applescript)
@@ -52,9 +57,9 @@
 * [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
-* [openFrameworks](#openframeworks)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [PowerShell](#powershell)
 * [Processing](#processing)
 * [Prolog](#prolog)
@@ -82,8 +87,21 @@
 #### アクセシビリティ
 
 * [Accessible Rich Internet Applications](https://developer.mozilla.org/ja/docs/ARIA/Accessible_Rich_Internet_Applications) - MDN
-* [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAccessibility.pdf) - Apple Developer (PDF)
+* [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/accessibility/ios) - Apple Developer
 * [アクセシビリティのための設計](https://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
+
+
+#### オープンソースエコシステム
+
+* [オープンソースガイドライン](https://opensource.guide/ja/) - GitHub
+* [オープンソースソフトウェアの育て方](https://producingoss.com/ja/) - Fogel Karl, 高木正弘(翻訳), Yoshinari Takaoka(翻訳)
+* [これでできる！ はじめてのOSSフィードバックガイド ～ #駆け出しエンジニアと繋がりたい と言ってた私が野生のつよいエンジニアとつながるのに必要だったこと～](https://github.com/oss-gate/first-feedback-guidebook) - OSS Gate, 結城洋志 / Piro
+
+
+#### ガベージコレクション
+
+* [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) - 遠藤敏夫 (PDF)
+* [徹底解剖「G1GC」実装編](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
 
 
 #### グラフィックスプログラミング
@@ -98,15 +116,14 @@
 #### グラフィックユーザーインターフェイス
 
 * [Qtプログラミング入門](http://densan-labs.net/tech/qt/) - @nishio_dens
-* [入門GTK+ 第3版](http://www.iim.cs.tut.ac.jp/~sugaya/wiki/wiki/index.php?GTK%2FGNOME%A4%CB%A4%E8%A4%EBGUI%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0) - 菅谷保之
 
 
 #### セキュリティ
 
 * [RSA暗号体験入門](http://www.cybersyndrome.net/rsa/) - CyberSyndrome
 * [ウェブ健康診断仕様](https://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [クラウドを支えるこれからの暗号技術](https://herumi.github.io/ango/) - 光成滋生 (PDF)
 * [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programmingv2/) - 独立行政法人情報処理推進機構(IPA)
-* [ネットワークプログラミングの基礎知識](http://x68000.q-e-d.net/~68user/net/) - 68user
 * [はやわかり RSA](http://www.mew.org/~kazu/doc/rsa.html) - 山本和彦
 * [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [安全なウェブサイトの作り方](https://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
@@ -115,20 +132,16 @@
 
 #### その他の話題
 
-* [オープンソースソフトウェアの育て方](https://producingoss.com/ja/) - Fogel Karl, 高木正弘(翻訳), Yoshinari Takaoka(翻訳)
 * [ケヴィン・ケリー著作選集　１](http://tatsu-zine.com/books/kk1) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
 * [ケヴィン・ケリー著作選集　２](http://tatsu-zine.com/books/kk2) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
 * [ケヴィン・ケリー著作選集　３](http://tatsu-zine.com/books/kk3) - ケヴィン・ケリー, 堺屋七左衛門(翻訳)
-* [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) - 遠藤敏夫 (PDF)
 * [川合史朗 翻訳集](http://practical-scheme.net/index-j.html) - 川合史朗
-* [徹底解剖「G1GC」実装編](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
 * [青木靖 翻訳集](http://www.aoky.net) - 青木靖
 
 
 #### ソフトウェアアーキテクチャ
 
 * [ギコ猫とデザインパターン](http://www.hyuki.com/dp/cat_index.html) - 結城浩
-* [サルでもわかる 逆引きデザインパターン](http://www.nulab.co.jp/designPatterns/designPatterns1/designPatterns1-1.html) - Agata Toshitaka
 * [デザインパターン](http://www.techscore.com/tech/DesignPattern/) - シナジーマーケティング株式会社
 
 
@@ -154,10 +167,11 @@
 * [データベース](http://www.ipa.go.jp/files/000018652.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 
 
-#### プログラミングの理論
+#### ネットワーキング
 
-* [Programming on SAT](https://ledyba.gitbooks.io/programming-on-sat/) - ψ（プサイ）
-* [計算機プログラムの構造と解釈](http://sicp.iijlab.net/fulltext/) - Gerald Jay Sussman et al.
+* [http2 explained](https://http2-explained.haxx.se/ja) - Daniel Stenberg
+* [HTTP/3 explained](https://http3-explained.haxx.se/ja/) - Daniel Stenberg
+* [ネットワークプログラミングの基礎知識](http://x68000.q-e-d.net/~68user/net/) - 68user
 
 
 #### 並列プログラミング
@@ -171,6 +185,7 @@
 
 * [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/)
 * [Mahoutで体感する機械学習の実践](http://gihyo.jp/dev/serial/01/mahout) - やまかつ
+* [強化学習入門](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF)
 * [機械学習 はじめよう](http://gihyo.jp/dev/serial/01/machine-learning) - 中谷秀洋，恩田伊織
 
 
@@ -191,6 +206,11 @@
 * [組込みソフトウェア開発向け コーディング作法ガイド［C++言語版］](http://www.ipa.go.jp/files/000005142.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 
 
+#### 理論計算機科学
+
+* [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext/) - Gerald Jay Sussman et al.
+
+
 ### Android
 
 * [Android Open Text book](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
@@ -204,7 +224,6 @@
 
 * [Applescript のごく基本的なサンプル](http://www.asahi-net.or.jp/~va5n-okmt/factory/applescript/sample_code/) - Okamoto
 * [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
-* [Bash でやってることを AppleScript でやろうとするとこうなる](http://qiita.com/mattintosh4/items/353c57ba75eda20af3c4) - id:mattintosh4
 
 
 ### AWK
@@ -247,6 +266,13 @@
 * [江添亮のC++入門](https://ezoeryou.github.io/cpp-intro/) - 江添亮
 
 
+### Clojure
+
+* [Clojureスタイルガイド](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
+* [Modern cljs(翻訳中)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
+* [逆引きClojure](https://github.com/making/rd-clj) - Toshiaki Maki
+
+
 ### CoffeeScript
 
 * [CoffeeScript 言語リファレンス](http://memo.sappari.org/coffeescript/coffeescript-langref)
@@ -254,13 +280,6 @@
 * [The Little Book on CoffeeScript](http://minghai.github.io/library/coffeescript/) - Alex MacCaw, Narumi Katoh(翻訳)
 * [基本操作逆引きリファレンス（CoffeeScript）](http://kyu-mu.net/coffeescript/revref/) - 飯塚直
 * [正規表現リファレンス（CoffeeScript)](http://kyu-mu.net/coffeescript/regexp/) - 飯塚直
-
-
-### Clojure
-
-* [Clojureスタイルガイド](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
-* [Modern cljs(翻訳中)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
-* [逆引きClojure](https://github.com/making/rd-clj) - Toshiaki Maki
 
 
 ### Common Lisp
@@ -324,19 +343,19 @@
 * [JGGUG G*Magazine](http://grails.jp/g_mag_jp/) - JGGUG(日本Grails/Groovyユーザーグループ) (PDF, EPUB)
 
 
-### Gradle
+#### Gradle
 
 * [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs/) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf))
 * [ビルドツールGradleスタートアップガイドの紹介](https://www.ntts.co.jp/column/tec/java_03/) - 鈴木雅貴
 
 
-### Grails
+#### Grails
 
 * [Grailsフレームワーク 日本語リファレンス](http://grails.jp/doc/latest/) - T.Yamamoto & Japanese Grails Doc Translating Team. Special thanks to NTT Software.
 * [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/) - 須藤悠
 
 
-### Spock Framework
+#### Spock Framework
 
 * [G*ワークショップZ May 2013 - Spockハンズオンの資料](https://github.com/yamkazu/spock-workshop/tree/master/docs) - Kazuki YAMAMOTO
 * [Spock Framework リファレンスドキュメント](http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/) - Peter Niederwieser, Kazuki YAMAMOTO
@@ -500,6 +519,11 @@
 * [PHP 基礎文法最速マスター](http://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
 * [PHP4徹底攻略改訂版](https://prev.net-newbie.com/support/pdf2/)
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
+
+
+#### Symfony
+
+* [Symfony 5: ファストトラック](https://symfony.com/doc/5.0/the-fast-track/ja/index.html)
 
 
 ### PowerShell

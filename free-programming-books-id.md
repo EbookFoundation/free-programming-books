@@ -1,9 +1,9 @@
 ### Index
 
 * [Android](#android)
+* [C#](#c-sharp)
 * [C++](#cplusplus)
 * [Emacs](#emacs)
-* [C#](#c)
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)
@@ -32,7 +32,7 @@
 
 * [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
 
-### C#
+### C Sharp
 
 * [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/)
 

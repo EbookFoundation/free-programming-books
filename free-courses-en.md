@@ -393,8 +393,8 @@
 
 #### Angular.js
 
-* [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
 * [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
+* [Egghead.io - AngularJS](https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7) - John Lindquist
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 

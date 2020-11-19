@@ -7,6 +7,7 @@
 * [DevOps](#DevOps)
 * [Java](#Java)
 * [Javascript](#Javascript)
+  * [React](#react)
 * [Python](#Python)
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
@@ -54,6 +55,11 @@
 ### Javascript
 
 * [JavaScript Tutorial | Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - Harry
+
+
+#### React
+
+* [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
 
 
 ### Python

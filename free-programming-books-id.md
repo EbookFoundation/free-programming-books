@@ -10,6 +10,8 @@
 * [HTML & CSS](#html-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Misc](#misc)
+* [MySQL](#mysql)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Pemrograman Fungsional](#pemrograman-fungsional)
@@ -66,6 +68,7 @@
 
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
+* [Ebook HTML Dasar Untuk Pemula Lengkap](https://kodingbagus.blogspot.com/2018/07/ebook-html-dasar-untuk-pemula-lengkap.html) - Rio Astamal 
 * [HTML & CSS: Buat Websitemu Sendiri ](https://leanpub.com/html-css--buat-webistemu-sendiri) *(Membutuhkan akun Leanpub atau email yang valid)*
 
 
@@ -82,6 +85,11 @@
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
+
+
+### Misc
+
+* [Kumplan Ebook Dari Berbagai Sumber](https://gilacoding.com/ebook) - Gila Coding
 
 
 ### MySQL

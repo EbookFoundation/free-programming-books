@@ -61,7 +61,6 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Security](#security)
-* [Software Engineering](#software-engineering)
 * [Swift](#swift)
   * [Vapor](#vapor)
 * [Theory](#theory)
@@ -357,6 +356,7 @@
 
 ### Java
 
+* [Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x#!)
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
 * [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) - (Stanford)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
@@ -371,6 +371,7 @@
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
+* [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
 
 
@@ -670,6 +671,8 @@
 
 ### Ruby
 
+* [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x#!)
+* [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!)
 * [An Introduction to Ruby Programming Language](https://www.researchgate.net/publication/322222154_An_Introduction_to_Ruby_Programming_Language) - Ali Tourani (HTML, PDF)
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [Learn Ruby](https://www.learnrubyonline.org)
@@ -699,13 +702,6 @@
 * [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) -(Insec Techs- EH Academy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
-
-
-### Software Engineering
-
-* [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x#!)
-* [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!)
-* [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
 
 
 ### Swift

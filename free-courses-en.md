@@ -625,7 +625,6 @@
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python 3](https://www.sololearn.com/Course/Python/) (SoloLearn)
 * [Python And Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/course/coinmarketcap/) Ian Annase (Udemy)
-* [Python Beginners-Intermediate Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [Python Built in Functions A to Z Tutorial and Examples](https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X) - Brainy Things
 * [Python Course](http://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)

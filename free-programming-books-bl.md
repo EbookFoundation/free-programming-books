@@ -1,21 +1,15 @@
 ### Index
 
 * [C](#c)
-* [Developer Cheatsheet](#developer-cheatsheet)
 * [JavaScript](#JavaScript)
 * [Machine Learning](#machine-learning)
-* [PROGRAMMING FUNDAMENTALS](#programming-fundamentals)
+* [Misc](#misc)
 * [Python](#python)
 
 
 ### C
 
 * [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen 
-
-
-### Developer Cheatsheet
-
-* [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
 
 
 ### JavaScript
@@ -29,9 +23,10 @@
 * [হাতে কলমে মেশিন লার্নিং ১](https://rakibul-hassan.gitbook.io/mlbook-titanic/) - Rakibul Hassan
 
 
-### PROGRAMMING FUNDAMENTALS
+### Misc
 
 * [SL3 Framework - Code For Brain](https://sl3.app) - Stack Learners
+* [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
 
 
 ### Python

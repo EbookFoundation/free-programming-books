@@ -4,6 +4,7 @@
 * [Angular](#angular)
 * [C](#c)
 * [C Sharp](#c-sharp)
+* [C++](#c-1)
 * [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)
@@ -62,6 +63,11 @@
 * [Iniciando com ASP.NET Core](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core) - Eduardo Pires (Desenvolvedor.io)
 * [Introdução ao Entity Framework Core](https://desenvolvedor.io/curso-online-introducao-entity-framework-core) - Rafael Almeida (Desenvolvedor.io)
 * [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
+
+
+### C++
+
+* [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
 
 
 ### CSS

@@ -2,10 +2,13 @@
 
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
+* [C](#c)
+* [C++](#c-1)
 * [Docker](#docker)
 * [GIT](#git)
 * [Go](#go)
 * [HTML5](#html5)
+* [Java](#java)
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
@@ -17,7 +20,10 @@
   * [Django](#django)
   * [Flask](#flask)
 * [R](#r)
+* [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
+* [Rust](#rust)
+* [Scratch](#scratch)
 * [Swift](#swift)
 
 
@@ -31,6 +37,17 @@
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 
 
+### C
+
+* [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
+* [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)
+
+
+### C++
+
+* [씹어먹는 C++](https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf) - 이재범 (PDF)
+
+
 ### Docker
 
 * [가장 빨리 만나는 Docker](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
@@ -39,28 +56,30 @@
 ### GIT
 
 * [Git - 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
-* [Pro Git 한글 번역](http://git-scm.com/book/ko/)
+* [Pro Git 한글 번역](https://git-scm.com/book/ko/v2) - 최신 버전
 * [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
 
 
 ### Go
 
 * [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
-* [Go Tour 한글 번역](http://go-tour-kr.appspot.com)
 * [Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
 * [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 
 
 ### HTML5
 
-* [HTML5, CSS and Javascript](http://fromyou.tistory.com/581)
+* [HTML5, CSS and JavaScript](http://fromyou.tistory.com/581)
+
+
+### Java
+
+* [점프 투 자바](https://wikidocs.net/book/31) - 박응용
 
 
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ko)
-* Meteor
-  * [Discover Meteor](http://kr.discovermeteor.com)
 
 
 #### Node.js
@@ -70,7 +89,7 @@
 
 ### LaTeX
 
-* [The Not So short Introduction to LaTeX 2ε](http://www.ctan.org/tex-archive/info/lshort/korean)
+* [The Not So short Introduction to LaTeX 2ε](https://ctan.org/tex-archive/info/lshort/korean)
 
 
 ### Linux
@@ -92,26 +111,31 @@
 
 #### Laravel
 
-* [라라벨 (Laravel) 5 입문 및 실전 강좌](http://l5.appkr.kr)
+* [라라벨 (Laravel) 5 입문 및 실전 강좌](https://github.com/appkr/l5essential)
 * [쉽게 배우는 라라벨 5 프로그래밍](https://www.lesstif.com/display/laravelprog)
 
 
 ### Python
 
 * [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
-* [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/006855/)
+* [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
+* [내가 파이썬을 배우는 방법](https://wikidocs.net/7839)
+* [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+* [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
+* [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
 
 
 #### Django
 
-* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)
+* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)  
+* [점프 투 장고](https://wikidocs.net/book/4223) - 박응용
 
 
 #### Flask
 
-* [Flask의 세계에 오신것을 환영합니다.](http://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
+* [Flask의 세계에 오신것을 환영합니다.](https://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
 
 
 ### R
@@ -120,11 +144,23 @@
 * [The R Manuals (translated in Korean)](http://www.openstatistics.net)
 
 
+### Raspberry Pi
+
+* [라즈베리 파이 문서](https://wikidocs.net/book/483)
+
+
 ### Ruby
 
 * [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
 
 
-### Swift
+### Rust
 
-* [Swift 언어 개발문서](http://swift.leantra.kr) - 이전 버젼
+* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) (:construction: *in process*)
+
+
+### Scratch
+
+* [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
+
+

@@ -41,7 +41,6 @@
 
 * [Moderní programování objektových aplikací v C++](https://akela.mendelu.cz/~xvencal2/CPP/opora.pdf) (PDF)
 * [Objektové programování v C++](http://media1.jex.cz/files/media1:49e6b94e79262.pdf.upl/07.%20Objektov%C3%A9%20programov%C3%A1n%C3%AD%20v%20C%2B%2B.pdf) (PDF)
-* [Praktické programování v C++](http://www.uamt.feec.vutbr.cz/~richter/vyuka/XPPC/spolecne/prednes.pdf) (PDF)
 * [Programovací jazyky C a C++](http://homel.vsb.cz/~s1a10/educ/C_CPP/C_CPP_web.pdf) (PDF)
 * [Programování v C++](http://www1.osu.cz/~fojtik/doc/proc2.pdf) (PDF)
 
@@ -65,6 +64,7 @@
 
 #### Algoritmy a datové struktury
 
+* [Průvodce labyrintem algoritmů](http://pruvodce.ucw.cz) - Martin Mareš, Tomáš Valla
 * [Základy algoritmizace](http://i.iinfo.cz/files/root/k/Zaklady_algorimizace.pdf) (PDF)
 
 
@@ -78,7 +78,6 @@
 
 * [Diskrétní matematika](http://math.feld.cvut.cz/habala/teaching/dma.htm) - Petr Habala (PDFs)
 * [Matematika SŠ](http://www.realisticky.cz/ucebnice.php?id=3) - Martin Krynický (PDFs)
-* [Think Stats: Pravděpodobnost a statistika pro programátory](http://eknihy.knihovna.cz/kniha/think-stats-pravdepodobnost-a-statistika-pro-programatory) - Allen B. Downey (PDF)
 
 
 #### Právo
@@ -129,7 +128,7 @@
 
 ### Python
 
-* [Ponořme se do Pythonu 3](https://knihy.nic.cz) - Mark Pilgrim (PDF)
+* [Ponořme se do Pythonu 3](http://diveintopython3.py.cz/index.html) - Mark Pilgrim
 * [Učebnice jazyka Python](http://i.iinfo.cz/files/root/k/Ucebnice_jazyka_Python.pdf) (PDF)
 
 

@@ -7,6 +7,7 @@
   * [Sistemi](#sistemi)
   * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
+* [Angular](#angular)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
@@ -17,16 +18,17 @@
   * [NoSQL](#nosql)
   * [Relazionali](#relazionali)
   * [SQL](#sql)
-* [Espressioni regolari](#espressioni-regolari)
-* [Git](#git)
+* [Golang](#golang)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
@@ -38,9 +40,7 @@
 
 #### Algoritmi e Strutture Dati
 
-* [Algoritmi e Strutture Dati - Astrazione, Progetto e Realizzazione](http://www.astromoodle.altervista.org/download/libro-asd.pdf) - M. Vento e P. Foggia (PDF)
 * [Appunti di Analisi e Progettazione di Algoritmi](https://www.sci.unich.it/~acciaro/corsoASD.pdf) - V. Acciaro T. Roselli e V. Marengo (PDF)
-* [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf) (PDF)
 * [Progetto e Analisi di Algoritmi](http://bertoni.di.unimi.it/Algoritmi_e_Strutture_Dati.pdf) - A. Bertoni e M. Goldwurm (PDF)
 
 
@@ -48,7 +48,6 @@
 
 * [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia e A. Schaerf (PDF)
 * [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
-* [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
 
 
 #### Open source
@@ -73,7 +72,11 @@
 ### Android
 
 * [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
-* [Guida programmazione Android 4.2](http://www.sprik.it/download/guida-programmazione-android-4-2/)
+
+
+### Angular
+
+* [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
 
 
 ### Assembly Language
@@ -88,6 +91,7 @@
 
 ### C
 
+* [Guida di Beej alla Programmazione di Rete - Usando Socket Internet](http://linguaggioc.altervista.org/dl/GuidaDiBeejAllaProgrammazioneDiRete.pdf) - B. Hall, Tradotto da Fabrizio Pani (PDF)
 * [Il linguaggio C - Guida pratica alla programmazione](https://eineki.files.wordpress.com/2010/02/guidac.pdf) - (PDF)
 * [Linguaggio C - ANSI C](http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf) - B.W. Kernighan e D.M. Ritchie (PDF)
 * [Linguaggio C - Guida alla programmazione](http://www.cbmc.it/~marchettil/Tandem2016/Bellini.pdf) - A. Bellini e A. Guidi _Anno di pubblicazione_ 1999 (PDF)
@@ -96,7 +100,7 @@
 
 ### C Sharp
 
-* [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/)
+* [ABC# - Guida alla programmazione](http://antoniopelleriti.it/wp-content/uploads/2019/04/ABCsharp-guida-alla-programmazione-in-csharp.pdf) - A. Pelleriti (PDF)
 
 
 ### C Plus Plus
@@ -115,7 +119,6 @@
 * [Basi di Dati](http://dbdmg.polito.it/wordpress/teaching/basi-di-dati/) - Apiletti e Cagliero (Politecnico di Torino)
 * [La progettazione dei database relazionali](http://www.crescenziogallo.it/unifg/medicina/TSRM/master_bioimmagini/db/Teoria_pratica_progettazione_db_relazionali.pdf) - C. Gallo (PDF)
 * [Manuale pratico di disegno e progettazione dei database](http://www.brunasti.eu/unimib/bdsi/manuale-pratico-progettazione-ER-100914.pdf) - P. Brunasti (PDF)
-* [Progettare database](https://www.istitutomichelangelo.info/images/sampledata/FilesCaricati/bmorigi/classe%20V/Esercitazioni_schema_concettuale/PROGETTAZIONE%20DATABASE.pdf) (PDF)
 * [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) (HTML)
 
 
@@ -137,21 +140,16 @@
 * [Guida linguaggio SQL](http://www.html.it/guide/guida-linguaggio-sql/?cref=system) (HTML)
 
 
-### Espressioni regolari
-
-* [Introduzione alle Espressioni regolari](http://www.marianospadaccini.it/repository/espressioni_regolari.pdf) - M. Spadaccini (PDF)
-
-
-### GIT
-
-* [Comprendere GIT concettualmente](http://www.linuxtrent.it/sites/default/files/Comprendere%20Git%20concettualmente%20-%20Marco%20Ciampa%20-%20r1.pdf) (PDF)
-
-
 ### HTML
 
 * [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf) (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 * [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf) (PDF)
+
+
+### Golang
+
+* [Golang](http://www.vittal.it/wp-content/uploads/2019/01/golang.pdf) - V.Albertoni (PDF)
 
 
 ### Java
@@ -164,6 +162,9 @@
 * [Guida a Java 8](http://twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
 * [Guida Java](http://www.html.it/guide/guida-java/?cref=development) (HTML)
 * [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
+* [Java 9 e 10, la guida](https://www.html.it/guide/java-9-la-guida/) (HTML)
+* [Java Mattone dopo Mattone](http://www.digididattica.it/pluginfile.php/2127/mod_resource/content/1/javamattone.pdf) (PDF)
+* [Materiale extra online de "Il nuovo Java"](https://www.nuovojava.it/assets/download/nuovoJava-materiale_extra_online.pdf) - Claudio De Sio Cesari (PDF)
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 
 
@@ -172,7 +173,11 @@
 * [Corso completo Javascript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
-* [Programmazione in Javascript](http://pages.di.unipi.it/ambriola/PW/2017_05_17Programmazione_7.4.pdf) - V. Ambriola - (PDF)
+
+
+### Kotlin
+
+* [Kotlin](http://www.vittal.it/wp-content/uploads/2019/07/kotlin.pdf) - V. Albertoni (PDF)
 
 
 ### LaTeX
@@ -182,10 +187,10 @@
 * [Impara LaTeX! (... e mettilo da parte)](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf) - Marc Baudoin (PDF)
 * [Introduzione all'arte della composizione tipografica con LaTeX](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf) - GuIT (PDF)
 * [L'arte di scrivere con LaTeX](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf) - L. Pantieri e T. Gordini (PDF)
-* [LaTeX facile](http://www.guit.sssup.it/downloads/LaTeX-facile.pdf) - N. Garbellini (PDF)
+* [LaTeX facile](https://web.archive.org/web/20180712171427/http://www.guit.sssup.it/downloads/LaTeX-facile.pdf) - N. Garbellini (PDF)
 * [LaTeX, naturalmente!](http://www.batmath.it/latex/pdfs/guida_st.pdf) - L .Battaia (PDF)
 * [LaTeX per l'impaziente](http://www.lorenzopantieri.net/LaTeX_files/LaTeXimpaziente.pdf) - L. Pantieri (PDF)
-* [Scrivere la tesi di laurea con LaTeX](http://www.guit.sssup.it/guitmeeting/2005/articoli/mori.pdf) - L.F. Mori (PDF)
+* [Scrivere la tesi di laurea con LaTeX](https://web.archive.org/web/20180417083215/http://www.guit.sssup.it/guitmeeting/2005/articoli/mori.pdf) - L.F. Mori (PDF)
 * [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
 
 
@@ -211,12 +216,19 @@
 * [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf) (PDF)
 
 
+#### Symfony
+
+* [Symfony 5: guida rapida](https://symfony.com/doc/5.0/the-fast-track/it/index.html)
+
+
 ### Python
 
 * [Il manuale di riferimento di Python](http://docs.python.it/html/ref/)
 * [Il tutorial di Python](http://docs.python.it/html/tut/)
+* [Immersione in Python 3](http://gpiancastelli.altervista.org/dip3-it/) - Mark Pilgrim, _traduzione di: Giulio Piancastelli_ (HTML) [(PDF)](http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip)
 * [La libreria di riferimento di Python](http://docs.python.it/html/lib/)
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
+* [Python per tutti: Esplorare dati con Python3](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub)
 
 
 #### Django
@@ -228,7 +240,7 @@
 
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf) (PDF)
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
-* [Ruby User Guide](http://ruby-it.org/rug_it.zip)
+* [Ruby User Guide](https://web.archive.org/web/20161102011319/http://ruby-it.org/rug_it.zip)
 
 
 ### UML

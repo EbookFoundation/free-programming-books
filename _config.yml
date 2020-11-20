@@ -1,1 +1,3 @@
 theme: jekyll-theme-minimal
+plugins:
+  - jemoji

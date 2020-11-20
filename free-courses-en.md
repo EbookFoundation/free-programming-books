@@ -595,7 +595,6 @@
 * [PHP OOP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) - Dani Krossing
 * [PHP Programming Language Tutorial - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c) - freeCodeCamp.org (2018)
 * [PHP Tutorial](https://www.tutorialrepublic.com/php-tutorial/) - TutorialRepublic
-* [PHP Tutorial](https://www.w3schools.com/php) - W3Schools
 * [PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) - Dani Krossing
 
 
@@ -637,7 +636,6 @@
 * [Python Programming Essentials](https://www.coursera.org/learn/python-programming) - Scott Rixner, Joe Warren (Coursera)
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) (Geeks for Geeks)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
-* [Python Tutorial](https://www.w3schools.com/python/) - W3Schools
 * [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc) (Programming with Mosh)
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [SoloLearn](https://www.sololearn.com/Course/Python/)

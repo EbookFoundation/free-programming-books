@@ -2,6 +2,7 @@
 
 * [Algoritmalar](#algoritmalar)
 * [CSS](#css)
+* [JavaScript](#javascript)
 * [Temel programlama](#temel-programlama)
 
 
@@ -13,6 +14,11 @@
 ### CSS
 
 * [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
+
+
+### JavaScript
+
+* [JavaScript Dersleri](https://javascript.sitesi.web.tr) - Murat Eliçalişkan
 
 
 ### Temel programlama

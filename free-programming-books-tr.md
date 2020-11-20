@@ -2,6 +2,7 @@
 
 * [Android](#android)
 * [C](#c)
+* [C++](#c-1)
 * [CSS](#css)
 * [D](#d)
 * [Dart](#dart)
@@ -38,6 +39,11 @@
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
 * [Programlamaya Giriş Ders Notları](http://web.itu.edu.tr/uyar/programlama) - [H.Turgut Uyar](http://web.itu.edu.tr/uyar)
+
+
+### C++
+
+* [C++ Dersleri](https://www.yusufsezer.com.tr/cpp-dersleri/) - Yusuf Sezer
 
 
 ### CSS
@@ -91,6 +97,7 @@
 ### Java
 
 * [24 Saatte Java](https://ia601505.us.archive.org/23/items/24-saatte-java/24-saatte-java-turkce.pdf) (PDF)
+* [Başkent Üniversitesi Java Dersleri](http://www.baskent.edu.tr/~tkaracay/etudio/ders/prg/java/java_ndx.html) - ttm (Technology Promotion Center)
 * [Java Bilgisayar Diliyle Programlama](http://www.turhancoban.com/kitap/JAVA%20BİLGİSAYAR%20DİLİYLE%20PROGRAMLAMA.pdf) - Turhan Coban (PDF)
 * [Java ile Nesneye Yönelik Programlama](https://ia801507.us.archive.org/12/items/java-ile-nesneye-yonelik-programlama/Java%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf) - Oğuz Aslantürk (PDF)
 * [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF)

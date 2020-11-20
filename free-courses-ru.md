@@ -9,9 +9,11 @@
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
   * [React](#react)
+* [Kotlin](#kotlin)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+* [R](#R)
 
 
 ### Уровни
@@ -38,13 +40,13 @@ ADV - продвинутый. Тонкости.
 
 ### Go
 
-* [Программирование на Golang](https://stepik.org/course/54403) (BEG)
+* [Программирование на Golang](https://stepik.org/course/54403) - Stepik (BEG)
 
 
 ### Haskell
 
-* [Функциональное программирование на языке Haskell](https://stepik.org/course/75) (INT)
-* [Функциональное программирование на языке Haskell (часть 2)](https://stepik.org/course/693) (ADV)
+* [Функциональное программирование на языке Haskell](https://stepik.org/course/75) - Stepik (INT)
+* [Функциональное программирование на языке Haskell (часть 2)](https://stepik.org/course/693) - Stepik (ADV)
 
 
 ### Java
@@ -82,9 +84,16 @@ ADV - продвинутый. Тонкости.
 * [Туториал по Redux](https://max-frontend.gitbook.io/redux-course-ru-v2/) (INT)
 
 
+### Kotlin
+
+* [Введение в Kotlin JVM](https://stepik.org/course/5448) - Stepik (BEG)
+* [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792) - Stepik (BEG)
+
+
 ### PHP
 
-* [Основы программирования на PHP](https://code-basics.ru/languages/php) (BEG) (:construction: *in process*)
+* [PHP для начинающих](https://ru.code-basics.com/languages/php) (BEG)
+* [PHP - первое знакомство](https://stepik.org/course/87314) - Stepik (BEG)
 
 
 ### PostgreSQL
@@ -98,6 +107,15 @@ ADV - продвинутый. Тонкости.
 ### Python
 
 * [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG)
+* [Python для начинающих](https://ru.code-basics.com/languages/python) (BEG)
 * [Python: основы и применение](https://stepik.org/course/512) - Stepik (INT)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
+* ["Поколение Python": курс для начинающих](stepik.org/course/58852) - Stepik (BEG)
 * [Программирование на Python](https://stepik.org/course/67) - Stepik (BEG)
+
+
+### R
+
+* [Анализ данных в R](https://stepik.org/course/129) - Stepik (INT)
+* [Анализ данных в R. Часть 2](https://stepik.org/course/724) - Stepik (INT)
+* [Основы программирования на R](https://stepik.org/course/497) - Stepik (BEG)

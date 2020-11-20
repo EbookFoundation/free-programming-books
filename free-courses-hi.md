@@ -9,6 +9,7 @@
 * [Javascript](#Javascript)
   * [React](#react)
 * [Python](#Python)
+* [R](#r)
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
 
@@ -68,6 +69,11 @@
 * [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi) (Great Learning) *(account required)*
 * [Python Tutorial For Beginners | Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - Harry
 * [Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX) - edureka! Hindi
+
+
+### R
+
+* [R Programming](https://www.youtube.com/playlist?list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t) (Tutorials Point (India) Ltd.)
 
 
 ### Ruby

@@ -3,6 +3,7 @@
 * [C++](#C++)
 * [Clojure](#clojure)
 * [Design and Architecture](#design-and-architecture)
+* [Go](#go)
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -33,6 +34,11 @@ ADV - продвинутый. Тонкости.
 ### Design and Architecture
 
 * [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
+
+
+### Go
+
+* [Программирование на Golang](https://stepik.org/course/54403) (BEG)
 
 
 ### Haskell

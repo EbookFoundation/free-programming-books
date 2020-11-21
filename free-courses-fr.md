@@ -43,15 +43,15 @@
 
 ### Git
 
-* [Apprendre à utiliser Git et GitHub | Cours Complet (2020)](https://www.pierre-giraud.com/git-github-apprendre-cours/) - Pierre Giraud
+* [Apprendre à utiliser Git et GitHub \| Cours Complet (2020)](https://www.pierre-giraud.com/git-github-apprendre-cours/) - Pierre Giraud
 * [Formation Git en vidéo, Cours Complet](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP) - Grafikart
 
 
 ### HTML / CSS
 
-* [Apprendre à coder en HTML et CSS | Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - Pierre Giraud
-* [Apprendre à utiliser le framework Bootstrap | Cours complet (2020)](https://www.pierre-giraud.com/bootstrap-apprendre-cours/) - Pierre Giraud
-* [Apprendre à utiliser Sass | Cours Complet (2020)](https://www.pierre-giraud.com/sass-apprendre-cours-complet/) - Pierre Giraud
+* [Apprendre à coder en HTML et CSS \| Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - Pierre Giraud
+* [Apprendre à utiliser le framework Bootstrap \| Cours complet (2020)](https://www.pierre-giraud.com/bootstrap-apprendre-cours/) - Pierre Giraud
+* [Apprendre à utiliser Sass \| Cours Complet (2020)](https://www.pierre-giraud.com/sass-apprendre-cours-complet/) - Pierre Giraud
 * [Apprendre l'HTML](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX) - Grafikart
 * [Découvrir CSS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVjTZQocrMwKicV5wsZlRpj) - Grafikart
 * [Documentation du MDN](https://developer.mozilla.org/fr/) (MDN Mozilla)
@@ -70,7 +70,7 @@
 
 ### Javascript
 
-* [Apprendre à coder en JavaScript | Cours complet (2020)](https://www.pierre-giraud.com/javascript-apprendre-coder-cours/) - Pierre Giraud
+* [Apprendre à coder en JavaScript \| Cours complet (2020)](https://www.pierre-giraud.com/javascript-apprendre-coder-cours/) - Pierre Giraud
 * [Apprendre le JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw) - Grafikart
 * [Cours JavaScript](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_) - Formation Video
 * [Déboguer son code JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWWXgsHpfCLHJ1Oq4YnE08e) - Grafikart
@@ -79,7 +79,7 @@
 
 #### JQuery
 
-* [Apprendre à utiliser la bibliothèque JavaScript jQuery | Cours complet (2019)](https://www.pierre-giraud.com/jquery-apprendre-cours/) - Pierre Giraud
+* [Apprendre à utiliser la bibliothèque JavaScript jQuery \| Cours complet (2019)](https://www.pierre-giraud.com/jquery-apprendre-cours/) - Pierre Giraud
 
 
 #### React
@@ -99,7 +99,7 @@
 
 ### Python
 
-* [Apprendre à programmer en Python | Cours complet (2019)](https://www.pierre-giraud.com/python-apprendre-programmer-cours/) - Pierre Giraud
+* [Apprendre à programmer en Python \| Cours complet (2019)](https://www.pierre-giraud.com/python-apprendre-programmer-cours/) - Pierre Giraud
 * [Apprendre Python](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) - Formation Video
 
 

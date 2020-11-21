@@ -2,9 +2,11 @@
 
 * [C++](#C++)
 * [Clojure](#clojure)
+* [CSS](#css)
 * [Design and Architecture](#design-and-architecture)
 * [Go](#go)
 * [Haskell](#haskell)
+* [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
@@ -33,6 +35,11 @@ ADV - продвинутый. Тонкости.
 * [Курс Clojure](https://clojurecourse.by) (BEG)
 
 
+### CSS
+
+* [CSS для начинающих](https://ru.code-basics.com/languages/css) (BEG)
+
+
 ### Design and Architecture
 
 * [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
@@ -49,8 +56,14 @@ ADV - продвинутый. Тонкости.
 * [Функциональное программирование на языке Haskell (часть 2)](https://stepik.org/course/693) - Stepik (ADV)
 
 
+### HTML
+
+* [HTML для начинающих](https://ru.code-basics.com/languages/html) (BEG)
+
+
 ### Java
 
+* [Java для начинающих](https://ru.code-basics.com/languages/java) (BEG)
 * [Java. Путь от ученика до эксперта.](http://www.job4j.ru/courses/java_way_from_student_to_master.html) - Пётр Арсентьев (INT)
 * [Вводный курс. Java в аналогиях.](http://www.job4j.ru/courses/java_beginner.html) - Пётр Арсентьев (BEG)
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
@@ -58,9 +71,9 @@ ADV - продвинутый. Тонкости.
 
 ### JavaScript
 
+* [JavaScript для начинающих](https://ru.code-basics.com/languages/javascript) (BEG)
 * [Алгоритмы и структуры данных](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/AlgAndData.md) - Тимур Шемсединов (INT)
 * [Асинхронное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md) - Тимур Шемсединов (INT)
-* [Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru)
 * [Метапрограммирование и мультипарадигменное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Metaprogramming.md) - Тимур Шемсединов (INT)
 * [Объектно ориентированное](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md) - Тимур Шемсединов (INT)
 * [Основы программирования](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0) - Тимур Шемсединов (INT)

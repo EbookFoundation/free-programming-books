@@ -16,6 +16,7 @@
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [R](#R)
+* [Ruby](#ruby)
 
 
 ### Уровни
@@ -65,7 +66,6 @@ ADV - продвинутый. Тонкости.
 
 * [Java для начинающих](https://ru.code-basics.com/languages/java) (BEG)
 * [Java. Путь от ученика до эксперта.](http://www.job4j.ru/courses/java_way_from_student_to_master.html) - Пётр Арсентьев (INT)
-* [Вводный курс. Java в аналогиях.](http://www.job4j.ru/courses/java_beginner.html) - Пётр Арсентьев (BEG)
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
 
 
@@ -77,6 +77,7 @@ ADV - продвинутый. Тонкости.
 * [Метапрограммирование и мультипарадигменное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Metaprogramming.md) - Тимур Шемсединов (INT)
 * [Объектно ориентированное](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md) - Тимур Шемсединов (INT)
 * [Основы программирования](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0) - Тимур Шемсединов (INT)
+* [Основы программирования](https://ru.hexlet.io/courses/programming-basics) - Hexlet (BEG)
 * [Парадигмы программирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md) - Тимур Шемсединов (INT)
 * [Параллельное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Parallel.md) - Тимур Шемсединов (INT)
 * [Современный учебник JavaScript](https://learn.javascript.ru) - Илья Кантор (INT)
@@ -106,6 +107,7 @@ ADV - продвинутый. Тонкости.
 ### PHP
 
 * [PHP для начинающих](https://ru.code-basics.com/languages/php) (BEG)
+* [PHP: Основы](https://ru.hexlet.io/courses/php-basics) - Hexlet (BEG)
 * [PHP - первое знакомство](https://stepik.org/course/87314) - Stepik (BEG)
 
 
@@ -132,3 +134,8 @@ ADV - продвинутый. Тонкости.
 * [Анализ данных в R](https://stepik.org/course/129) - Stepik (INT)
 * [Анализ данных в R. Часть 2](https://stepik.org/course/724) - Stepik (INT)
 * [Основы программирования на R](https://stepik.org/course/497) - Stepik (BEG)
+
+
+### Ruby
+
+* [Введение в Ruby](https://ru.hexlet.io/courses/ruby) - Hexlet (BEG)

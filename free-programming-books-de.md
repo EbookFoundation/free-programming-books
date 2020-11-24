@@ -67,7 +67,7 @@
 ### C Sharp
 
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung)
-* [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp) - Andreas Kuehnel (Online)
+* [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp) - Andreas Kühnel (Online)
 * [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010) - Andreas Kühnel (Online)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)
 

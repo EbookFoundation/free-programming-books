@@ -87,10 +87,9 @@
 
 ### Git
 
-* [Das Git-Buch](http://gitbu.ch) [PDF, EPUB]
+* [Das Git-Buch](http://gitbu.ch) (PDF, EPUB)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/)
-* [Pro Git (2009)](http://git-scm.com/book/de/v1)
-* [Pro Git (neue Version)](http://git-scm.com/book/de/current) (:construction: *in process*)
+* [Pro Git](https://git-scm.com/book/de/current) - Scott Chacon, Ben Straub (Online, PDF, EPUB)
 
 
 ### Go

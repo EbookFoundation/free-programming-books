@@ -292,6 +292,7 @@
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
 * [JavaScript и jQuery](https://html5book.ru/javascript-jquery) - Елена Назарова
+* [Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru) - Кайл Симпсон
 * [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
 * [Курс современного JavaScript](https://bxnotes.ru/conspect/kurs-sovremennogo-javascript/) - bxnotes
 * [Онлайн-книга по WebGL](https://metanit.com/web/webgl) - Евгений Попов

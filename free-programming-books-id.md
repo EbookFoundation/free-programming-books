@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [C#](#c-sharp)
 * [C++](#cplusplus)
 * [CodeIgniter](#codeigniter)
 * [Deno](#deno)
@@ -24,6 +25,11 @@
 
 * [Android Developers Fundamental Course Concepts and Practicals (Bahasa Indonesia)](https://yukcoding.id/download-ebook-android-gratis/)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
+
+
+### C Sharp
+
+* [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/)
 
 
 ### <a id="cplusplus"></a> C++
@@ -119,6 +125,7 @@
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
+* [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(Dalam Proses)*
 
 
 ### Python

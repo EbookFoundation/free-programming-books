@@ -40,7 +40,7 @@
 
 ### C&#x23;
 
-* [How to program in C# - Beginner Course | Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) (screencast)
+* [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) (screencast)
 
 
 ### C++
@@ -215,7 +215,7 @@
 * [Arrested DevOps](https://www.arresteddevops.com) (podcast)
 * [baseCS](https://www.codenewbie.org/basecs) (podcast based on [a series of posts on medium](https://medium.com/basecs))
 * [Beats, Rye & Types](http://beatsryetypes.com) (podcast)
-* [Between | Screens Podcast](https://soundcloud.com/between-screens) (podcast)
+* [Between \| Screens Podcast](https://soundcloud.com/between-screens) (podcast)
 * [BSDTalk](http://bsdtalk.blogspot.com) (podcast)
 * [CodeNewbie](http://www.codenewbie.org/podcast) (podcast)
 * [CodePen Radio](https://blog.codepen.io/radio/) (podcast)
@@ -316,7 +316,7 @@
 * [Railscasts](http://railscasts.com) (screencast)
 * [Ruby on Rails Podcast](https://5by5.tv/rubyonrails) - Brittany Martin (podcast)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) (podcast)
-* [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free) (screencast)
+* [Ruby Tapas \| Free Screencasts](http://www.rubytapas.com/episodes?filter=free) (screencast)
 * [The Bike Shed](http://bikeshed.fm) (podcast)
 * [The Ruby Show](http://rubyshow.com) (podcast)
 

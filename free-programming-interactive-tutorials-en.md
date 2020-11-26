@@ -16,12 +16,16 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
+  * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [jQuery](#jquery)
+  * [React](#react)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)
+* [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -145,6 +149,11 @@
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
 
+#### Bootstrap
+
+* [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
+
+
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
@@ -175,14 +184,10 @@
 #### Angular.js
 
 * [Angular Basics](http://www.angularjsbook.com)
+* [Angular Tutorial](https://www.w3schools.com/angular/) - W3Schools
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
-
-
-#### Bootstrap
-
-* [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
 
 #### jQuery
@@ -193,6 +198,7 @@
 #### React
 
 * [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
+* [React Tutorial](https://react-tutorial.app)
 
 
 ### Kotlin
@@ -204,6 +210,7 @@
 
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
+* [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms) (freeCodeCamp)
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 
@@ -211,6 +218,11 @@
 #### Operating systems
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+
+
+### LaTeX
+
+* [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 
 ### Lisp

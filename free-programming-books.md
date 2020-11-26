@@ -72,6 +72,7 @@
   * [Bootstrap](#bootstrap)
   * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
 * [HTTP](#http)
+* [HTTPS](#https)
 * [Icon](#icon)
 * [Idris](#idris)
 * [iOS](#ios)
@@ -228,6 +229,7 @@
 * [Tizen](#tizen)
 * [TLA](#tla)
 * [TypeScript](#typescript)
+  * [Angular](#angular)
   * [Deno](#deno)
 * [Unix](#unix)
 * [Verilog](#verilog)
@@ -491,6 +493,7 @@
 * [Dive into Deep Learning](http://d2l.ai)
 * [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 * [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ereader/7093/?preview=#page/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
+* [Free and Open Machine Learning](https://freeandopenmachinelearning.readthedocs.io/en/latest/index.html) - Maikel Mardjan
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [IBM Machine Learning for Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Judith Hurwitz, Daniel Kirsch
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
@@ -625,6 +628,7 @@
 * [Effective DevOps with AWS, Second Edition](https://www.packtpub.com/free-ebooks/effective-devops-aws-second-edition) - Yogesh Raheja, Giuseppe Borgese, Nathaniel Felsen (Packt account *required*)
 * [Essential Image Optimization](https://images.guide) - Addy Osmani
 * [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) (PDF)
+* [Game AI Pro](http://www.gameaipro.com) - Steve Rabin
 * [Game Programming Patterns](http://gameprogrammingpatterns.com) - Bob Nystrom
 * [Getting Real](http://gettingreal.37signals.com)
 * [Google Maps API Succinctly](https://www.syncfusion.com/ebooks/google_maps_api_succinctly) - Mark Lewin
@@ -694,8 +698,10 @@
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson and Bruce Davie (HTML, epub, mobi, PDF)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [High-Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
+* [How HTTPS Works](https://howhttps.works) - DNSimple
 * [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) (email address *requested*, not required)
 * [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
+* [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
 * [IPv6 for IPv4 Experts](https://sites.google.com/site/yartikhiy/home/ipv6book) - Yar Tikhiy (PDF)
 * [Kafka, The definitive Guide](https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf) - Neha Narkhede (PDF)
 * [Network Science](http://networksciencebook.com) - Albert-Laszló Barabási
@@ -812,6 +818,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 * [CryptoParty Handbook](https://unglue.it/work/141611/)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
+* [How HTTPS works](https://howhttps.works) - dnsimple
 * [How to deal with Passwords](https://github.com/MHM5000/pass)
 * [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
 * [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
@@ -1388,6 +1395,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Fortran
 
 * [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf) (PDF)
+* [Professional Programmer’s Guide to Fortran77](https://www.star.le.ac.uk/~cgp/prof77.pdf) (PDF)
 * [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) (PDF)
 
 
@@ -1558,11 +1566,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) - Peter Shaw
 
 
-#### HTTP
-
-* [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
-
-
 ### Idris
 
 * [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti) - Boro Sitnikovski  *(Leanpub account or valid email requested)*
@@ -1629,7 +1632,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli and R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Notes for Professionals](http://goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (PDF)
-* [Java Programming](https://en.wikibooks.org/wiki/Java_Programming/) - Wikibooks
+* [Java Programming](https://en.wikibooks.org/wiki/Java_Programming) - Wikibooks
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
 * [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
@@ -1757,8 +1760,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [AngularJS Notes for Professionals](https://goalkicker.com/AngularJSBook) - Compiled from StackOverflow Documentation (PDF)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) (email address *requested*, not required)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma
-* [Practical Angular: Build your first web apps with Angular 8](https://leanpub.com/practical-angular) - Ahmed Bouchefra *(Leanpub account or valid email requested)*
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
@@ -2049,6 +2050,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html?requestedDomain=www.mathworks.com&nocookie=true)
 * [Freshman Engineering Problem Solving with MATLAB](https://cnx.org/exports/3a643c1f-c1ba-4c2a-8065-317a1f2b1add@18.1.pdf/freshman-engineering-problem-solving-with-matlab-18.1.pdf) (PDF)
 * [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
+* [Introduction to MATLAB for Engineering Students](https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf) - David Houcque (PDF) (1.2, 2005)
 * [MATLAB - A Fundamental Tool for Scientific Computing and Engineering Applications - Volume 1](http://www.intechopen.com/books/matlab-a-fundamental-tool-for-scientific-computing-and-engineering-applications-volume-1)
 * [MATLAB - A Ubiquitous Tool for the Practical Engineer](http://www.intechopen.com/books/matlab-a-ubiquitous-tool-for-the-practical-engineer)
 * [MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics)
@@ -2257,6 +2259,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Laravel
 
+* [100 (and counting) Laravel Quick Tips](https://laraveldaily.com/wp-content/uploads/2020/04/laravel-tips-2020-04.pdf) - Povilas Korop / LaravelDaily Team (PDF)
 * [Laravel 5.x Official Documentation. Synced Daily](https://leanpub.com/laravel-5)  *(Leanpub account or valid email requested)*
 * [Laravel Best Practices](http://www.laravelbestpractices.com)
 * [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
@@ -2303,6 +2306,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Learn PowerShell Core 6.0](https://www.packtpub.com/free-ebooks/learn-powershell-core-60) - David das Neves, Jan-Hendrik Peters (Packt account *required*)
 * [Learn PowerShell in Y Minutes](https://learnxinyminutes.com/docs/powershell/)
 * [Mastering PowerShell v2](http://community.idera.com/powershell/powertips/b/ebookv2#pi619PostSortOrder=Ascending)
+* [PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell](https://leanpub.com/powershell101) - Mike F. Robbins *(Leanpub account or valid email requested)*
 * [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 * [PowerShell Notes for Professionals](http://goalkicker.com/PowerShellBook/) - Compiled from StackOverflow documentation (PDF)
 * [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) (email address *requested*, not required)
@@ -2380,7 +2384,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) -  Zachary Radtka, Donald Miner
-* [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebooks/hands-natural-language-processing-python) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
+* [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 * [How to Code in Python 3](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) - Lisa Tagliaferri (PDF)
 * [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
@@ -2461,6 +2465,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.9.x/django.pdf) (PDF) (1.9)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.10.x/django.pdf) (PDF) (1.10)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) (PDF) (2.2)
+* [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.1.x/django.pdf) (PDF) (3.1)
 * [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
 * [Django Web Framework (Python)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - MDN contributors
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
@@ -2570,7 +2575,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Introduction to Programming with Ruby](https://launchschool.com/books/ruby) - Launch School
 * [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/)
 * [Learn Ruby First](https://essenceofchaos.gitbooks.io/learn-ruby-first/content/) - Frederick John
-* [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/) - Zed Shaw
 * [Learn to Program](http://pine.fm/LearnToProgram/) - Chris Pine
 * [Mr. Neighborly's Humble Little Ruby Book](https://web.archive.org/web/20180321101922/http://www.humblelittlerubybook.com/book/html/index.html)
 * [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby) - Launch School
@@ -2609,6 +2613,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Building REST APIs with Rails](http://apionrails.icalialabs.com/book)
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
 * [Learn Ruby on Rails as You Modify a Craigslist Clone](http://www.thinkful.com/learn/ruby-on-rails-tutorial/)
+* [Learn Ruby on Rails: Book One](https://leanpub.com/learnrubyonrails) - Daniel Kehoe (PDF, EPUB) *(Leanpub account or valid email requested)*
 * [Objects on Rails](https://web.archive.org/web/20190319201525/http://objectsonrails.com/) - Avdi Grimm
 * [Rails Girls Guides](http://guides.railsgirls.com)
 * [Ruby Notes for Professionals](https://books.goalkicker.com/RubyBook/) - Compiled from StackOverflow Documentation (PDF)
@@ -2710,6 +2715,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html)
 * [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
+* [Learn to Code with Scratch](https://www.raspberrypi.org/magpi-issues/Essentials_Scratch_v1.pdf) - The MagPi magazine (PDF)
 * [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart
 
 
@@ -2858,7 +2864,14 @@ Kerridge (PDF) (email address *requested*, not required)
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
 
 
-### Deno
+#### Angular
+
+* [Angular 2+ Notes for Professionals](https://goalkicker.com/Angular2Book/) - Compiled from StackOverflow documentation (PDF)
+* [Angular Docs](https://angular.io/docs) 
+* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma
+
+
+#### Deno
 
 * [Deno Manual](https://deno.land/manual)
 * [FlavioCopes Deno Handbook](https://flaviocopes.com/deno) - *free PDF with registration*

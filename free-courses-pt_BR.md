@@ -4,6 +4,7 @@
 * [Angular](#angular)
 * [C](#c)
 * [C Sharp](#c-sharp)
+* [C++](#c-1)
 * [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)
@@ -62,6 +63,11 @@
 * [Iniciando com ASP.NET Core](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core) - Eduardo Pires (Desenvolvedor.io)
 * [Introdução ao Entity Framework Core](https://desenvolvedor.io/curso-online-introducao-entity-framework-core) - Rafael Almeida (Desenvolvedor.io)
 * [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
+
+
+### C++
+
+* [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
 
 
 ### CSS
@@ -153,8 +159,9 @@
 
 ### JavaScript
 
-* [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo (YouTube)
-* [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts (YouTube)
+* [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo
+* [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/starter) - Rocketseat
+* [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 
 
 ### Jekyll
@@ -208,6 +215,7 @@
 
 * [Boas práticas em PHP](https://www.udemy.com/boas-praticas-em-php/) - Diego Mariano (Udemy)
 * [Curso Básico de Bootstrap 4 , PHP e MySQL](https://www.udemy.com/curso-basico-de-bootstrap-4-php-e-mysql-gratis/) - Ricardo Milbrath Gonçalves (Udemy)
+* [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Gustavo Guanabara (Curso em Video)
 * [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
 * [Introdução ao PHP orientado a objetos](https://www.udemy.com/php-orientado-a-objetos/) - Diego Mariano (Udemy)
 * [Lógica de Programação com PHP](https://www.youtube.com/playlist?list=PLhTDLccA9vgHHwGZArcUqIZ5AUGwrbZ_A) - Curso Zend Framework (YouTube)
@@ -231,6 +239,9 @@
 * [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Joao Pedro Araujo
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
+* [Estruturas compostas em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&pbjreload=102) - Gustavo Guanabara. (Curso em Video)
+* [Estruturas de controle em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara. (Curso em Video)
+* [Fundamentamentos em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara. (Curso em Video)
 * [Introdução à Ciência da Computação com Python - Parte 1](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos) - USP (Coursera)
 * [Introdução à Ciência da Computação com Python - Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) - USP (Coursera)
 * [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)

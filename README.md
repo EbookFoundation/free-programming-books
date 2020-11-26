@@ -9,7 +9,7 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [Github's most popular repositories](https://octoverse.github.com/), with 150,000+ stars, 5000+ commits, 1200+ contributors, and 37,000+ forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [Github's most popular repositories](https://octoverse.github.com/), with 160,000+ stars, 6000+ commits, 1600+ contributors, and 39,000+ forks.
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
@@ -75,10 +75,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Bulgarian / български](free-courses-bg.md)
 + [English](free-courses-en.md)
 + [Finnish](free-courses-fi.md)
++ [French / français](free-courses-fr.md)
 + [German / Deutsch](free-courses-de.md)
 + [Hindi / हिंदी](free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](free-courses-id.md)
 + [Italian / italiano](free-courses-it.md)
++ [Khazakh / қазақша](free-courses-kk.md)
 + [Korean / 한국어 [韓國語]](free-courses-ko.md)
 + [Persian / Farsi (Iran) / فارسى](free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](free-courses-pl.md)

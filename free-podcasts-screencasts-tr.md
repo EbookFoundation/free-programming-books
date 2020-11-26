@@ -1,6 +1,6 @@
 ### Index
 
-* [Dil Bağımsız](#dil-bagimsiz)
+* [Dil Bağımsız](#dil-bağımsız)
 * [JavaScript](#javascript)
 
 

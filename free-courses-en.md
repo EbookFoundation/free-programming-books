@@ -37,7 +37,6 @@
   * [React](#react)
   * [React Native](#react-native)
   * [Redux](#redux)
-  * [Sails.js](#sailsjs)
   * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
@@ -452,11 +451,6 @@
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
-
-
-#### Sails.Js
-
-* [Develop web apps in free-programming-playgrounds.md.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
 
 #### Vue.js

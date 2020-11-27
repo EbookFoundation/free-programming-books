@@ -2,9 +2,6 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 
 # List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[View the English list](free-programming-books.md)
-
-
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker.
@@ -27,7 +24,11 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
 
 
-### In Other Written Languages
+### Books
+
+[English](free-programming-books.md)
+
+#### Other Languages
 
 + [Arabic / al arabiya / العربية](free-programming-books-ar.md)
 + [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](free-programming-books-az.md)
@@ -38,7 +39,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Czech / čeština / český jazyk](free-programming-books-cs.md)
 + [Danish / dansk](free-programming-books-dk.md)
 + [Dutch / Nederlands](free-programming-books-nl.md)
-+ [English](free-programming-books.md)
 + [Estonian / eesti keel](free-programming-books-et.md)
 + [Finnish / suomi / suomen kieli](free-programming-books-fi.md)
 + [French / français](free-programming-books-fr.md)

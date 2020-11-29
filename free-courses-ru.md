@@ -139,3 +139,4 @@ ADV - продвинутый. Тонкости.
 ### Ruby
 
 * [Введение в Ruby](https://ru.hexlet.io/courses/ruby) - Hexlet (BEG)
+* [Путь Rubyrush](https://rubyrush.ru/steps) (BEG)

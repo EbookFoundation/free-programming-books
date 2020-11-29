@@ -34,7 +34,7 @@
 * [Sass](#sass)
 * [Shell](#shell)
 * [Swift](#swift)
-* [VS Code](#vscode)
+* [VS Code](#vs-code)
 * [Vue.js](#vuejs)
 
 

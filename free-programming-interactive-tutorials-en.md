@@ -32,6 +32,7 @@
 * [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [Ocaml](#ocaml)
+* [Pandas](#pandas)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -255,6 +256,11 @@
 ### Ocaml
 
 * [Try Ocaml](http://try.ocamlpro.com)
+
+
+### Pandas
+
+[Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
 
 
 ### PHP

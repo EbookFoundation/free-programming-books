@@ -52,6 +52,7 @@
 
 ### Python
 
+* [Programmeerimise õpik](https://progeopik.cs.ut.ee) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni algteadmised](https://courses.cs.ut.ee/MTAT.03.100/2012_fall/uploads/opik/00_eessona.html) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni wikiraamat](https://et.wikibooks.org/wiki/Python) - Wikiõpikud
 

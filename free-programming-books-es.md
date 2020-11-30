@@ -165,6 +165,7 @@
 ### Go
 
 * [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
+* [Go en Español](https://nachopacheco.gitbooks.io/go-es/content/doc) - Nacho Pacheco (HTML)
 
 
 ### Haskell
@@ -178,6 +179,7 @@
 * [CSS avanzado](http://librosweb.es/libro/css_avanzado) Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
 * [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado) (PDF)
 * [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) (HTML)
+* [El gran libro del diseño web](https://freeditorial.com/es/books/el-gran-libro-del-diseno-web) - Rither Cobeña C [(PDF, EPUB)]
 * [Estructura con CSS](http://es.learnlayout.com) (HTML)
 * [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas (PDF)
 * [HTML5](https://openlibra.com/es/book/html5) - Arkaitz Garro (PDF)
@@ -235,7 +237,9 @@
 
 #### React
 
-* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) (PDF, EPUB, MOBI)
+* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) - Sergio Xalambrí (PDF, EPUB, MOBI; Leanpub cuenta requerida)
+* [Descubre React](https://leanpub.com/descubre-react) - Javi Jiménez (HTML, PDF, EPUB, MOBI; Leanpub cuenta requerida)
+* [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish) (PDF, EPUB, MOBI; Leanpub cuenta requerida)
 * [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
 
 
@@ -356,6 +360,7 @@
 ### Scratch
 
 * [Informática Creativa](https://github.com/programamos/GuiaScratch) (PDF)
+* [Manual de Scratch 2](https://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf) (PDF)
 
 
 ### SQL

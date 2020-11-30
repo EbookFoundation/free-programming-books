@@ -1,6 +1,18 @@
 ### Index
 
+* [C++](#C++)
+* [Java](#java)
 * [Python](#python)
+
+
+### C++
+
+* [Мова програмування C++](https://stepik.org/course/67114) - Stepik
+
+
+### Java
+
+* [Основи програмування на Java](https://courses.prometheus.org.ua/courses/EPAM/JAVA101/2016_T2/about)
 
 
 ### Python

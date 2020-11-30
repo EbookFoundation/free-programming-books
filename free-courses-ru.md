@@ -1,21 +1,34 @@
-### Index
+### Cодержание
 
+* [C++](#C++)
 * [Clojure](#clojure)
+* [CSS](#css)
+* [Go](#go)
 * [Haskell](#haskell)
+* [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
   * [React](#react)
+* [Kotlin](#kotlin)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+* [R](#R)
+* [Ruby](#ruby)
+* [Дизайн и Aрхитектура](#design-architecture)
 
 
 ### Уровни
 
-BEG - новичок. Основы.
-INT - средний. Расширенные возможности.
-ADV - продвинутый. Тонкости.
+BEG - Hовичок. Основы.  
+INT - Cредний. Расширенные возможности.  
+ADV - Продвинутый. Тонкости.
+
+
+### C++
+
+* [Введение в программирование (C++)](https://stepik.org/course/363) - Stepik (BEG)
 
 
 ### Clojure
@@ -23,28 +36,46 @@ ADV - продвинутый. Тонкости.
 * [Курс Clojure](https://clojurecourse.by) (BEG)
 
 
+### CSS
+
+* [CSS для начинающих](https://ru.code-basics.com/languages/css) (BEG)
+
+
+### Go
+
+* [Программирование на Golang](https://stepik.org/course/54403) - Stepik (BEG)
+
+
 ### Haskell
 
-* [Функциональное программирование на языке Haskell](https://stepik.org/course/75) (INT)
-* [Функциональное программирование на языке Haskell (часть 2)](https://stepik.org/course/693) (ADV)
+* [Функциональное программирование на языке Haskell](https://stepik.org/course/75) - Stepik (INT)
+* [Функциональное программирование на языке Haskell (часть 2)](https://stepik.org/course/693) - Stepik (ADV)
+
+
+### HTML
+
+* [HTML для начинающих](https://ru.code-basics.com/languages/html) (BEG)
 
 
 ### Java
 
+* [Java для начинающих](https://ru.code-basics.com/languages/java) (BEG)
 * [Java. Путь от ученика до эксперта.](http://www.job4j.ru/courses/java_way_from_student_to_master.html) - Пётр Арсентьев (INT)
-* [Вводный курс. Java в аналогиях.](http://www.job4j.ru/courses/java_beginner.html) - Пётр Арсентьев (BEG)
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
 
 
 ### JavaScript
 
+* [JavaScript для начинающих](https://ru.code-basics.com/languages/javascript) (BEG)
 * [Алгоритмы и структуры данных](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/AlgAndData.md) - Тимур Шемсединов (INT)
 * [Асинхронное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md) - Тимур Шемсединов (INT)
 * [Метапрограммирование и мультипарадигменное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Metaprogramming.md) - Тимур Шемсединов (INT)
 * [Объектно ориентированное](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md) - Тимур Шемсединов (INT)
 * [Основы программирования](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0) - Тимур Шемсединов (INT)
+* [Основы программирования](https://ru.hexlet.io/courses/programming-basics) - Hexlet (BEG)
 * [Парадигмы программирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md) - Тимур Шемсединов (INT)
 * [Параллельное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Parallel.md) - Тимур Шемсединов (INT)
+* [Современный учебник JavaScript](https://learn.javascript.ru) - Илья Кантор (INT)
 * [Технологический стек NodeJS](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md) - Тимур Шемсединов (INT)
 * [Функциональное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md) - Тимур Шемсединов (INT)
 * [Шаблоны проектирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md) - Тимур Шемсединов (INT)
@@ -62,9 +93,17 @@ ADV - продвинутый. Тонкости.
 * [Туториал по Redux](https://max-frontend.gitbook.io/redux-course-ru-v2/) (INT)
 
 
+### Kotlin
+
+* [Введение в Kotlin JVM](https://stepik.org/course/5448) - Stepik (BEG)
+* [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792) - Stepik (BEG)
+
+
 ### PHP
 
-* [Основы программирования на PHP](https://code-basics.ru/languages/php) (BEG) (:construction: *in process*)
+* [PHP для начинающих](https://ru.code-basics.com/languages/php) (BEG)
+* [PHP: Основы](https://ru.hexlet.io/courses/php-basics) - Hexlet (BEG)
+* [PHP - первое знакомство](https://stepik.org/course/87314) - Stepik (BEG)
 
 
 ### PostgreSQL
@@ -78,7 +117,27 @@ ADV - продвинутый. Тонкости.
 ### Python
 
 * [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG)
+* [Python для начинающих](https://ru.code-basics.com/languages/python) (BEG)
 * [Python: основы и применение](https://stepik.org/course/512) - Stepik (INT)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
+* ["Поколение Python": курс для начинающих](stepik.org/course/58852) - Stepik (BEG)
 * [Программирование на Python](https://stepik.org/course/67) - Stepik (BEG)
+
+
+### R
+
+* [Анализ данных в R](https://stepik.org/course/129) - Stepik (INT)
+* [Анализ данных в R. Часть 2](https://stepik.org/course/724) - Stepik (INT)
+* [Основы программирования на R](https://stepik.org/course/497) - Stepik (BEG)
+
+
+### Ruby
+
+* [Введение в Ruby](https://ru.hexlet.io/courses/ruby) - Hexlet (BEG)
+* [Путь Rubyrush](https://rubyrush.ru/steps) (BEG)
+
+
+### Дизайн и Aрхитектура<a ref="design-architecture" />
+
+* [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
 

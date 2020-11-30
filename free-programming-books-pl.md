@@ -49,8 +49,10 @@
 
 ### C
 
+* [Beej’s Guide to Network Programming - U˙zywanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - B. Hall, Przełożył Bartosz Zapałowski (PDF)
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
 * [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
+* [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) - Wikibooks (PDF)
 * [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
@@ -60,7 +62,7 @@
 
 * [Darmowy kurs C#](http://kurs.aspnetmvc.pl/Csharp)
 * [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając
-* [Kurs podstawy C#](http://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-csharpa) - Cezary Walenciuk
+* [Kurs podstawy C#](https://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-c-sharp) - Cezary Walenciuk
 * [Programowanie w języku C#](https://4programmers.net/C_sharp)
 * [Wstęp do programowania w C#](http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF)
 
@@ -127,12 +129,15 @@
 
 ### Perl
 
+* [Kurs Perl](http://zajacmarek.com/2014/10/kurs-perl-cz-1/) - Marek Zając
+* [Kurs PERL](cyberpunk.e-spin.pl/86,41,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PERL)
 * [Perl](https://pl.wikibooks.org/wiki/Perl) - Wikibooks
 
 
 ### PHP
 
 * [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
+* [Kurs PHP OOP](http://cyberpunk.e-spin.pl/86,37,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PHP-OOP)
 * [PHP](https://pl.wikibooks.org/wiki/PHP) - Wikibooks
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 

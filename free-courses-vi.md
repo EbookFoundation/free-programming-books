@@ -5,6 +5,7 @@
 * [Angular](#angular)
 * [AngularJS](#angularjs)
 * [ASP.NET](#asp)
+* [Bash](#bash)
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#c-sharp)
@@ -62,18 +63,29 @@
 * [Khóa học ASP.NET Core cơ bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-aspnet-core-co-ban-14.html) - TEDU
 
 
+### Bash
+
+* [Khóa học Bash Shell cơ bản cho người mới](https://nguyenvanhieu.vn/hoc-bash-shell-co-ban)
+* [Những cú pháp bash shell cơ bản](https://www.youtube.com/watch?v=xilRaF5BkKI) - Thai Minh Tuan
+
+
 ### Bootstrap
 
 * [Twitter Bootstrap](https://www.codehub.com.vn/Twitter-Bootstrap)
+* [Tự học Bootstrap 4 cơ bản](https://www.youtube.com/playlist?list=PLQi-dJ8Gqv2i1NHD8f-E2w-zrrr9G7HUJ) - VIETPRO
 
 
 ### C
 
-* [Bài toán kinh điển trong lập trình C++](https://www.youtube.com/watch?v=2SsyOv0koNE&list=PL33lvabfss1zRuwxONgKLc_BBsZ-Y2B6b) - Kteam
-* [Học Lập Trình C++](https://www.youtube.com/watch?v=jrn6bXC6sTU&list=PLyiioioEJSxHVTaeL-ELYy6Io-I8diIVZ) - DayNhauHoc
-* [Học Lập Trình C++ - Cấu trúc dữ liệu](https://www.youtube.com/watch?v=pxwP0b77Kl0&list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F) - DayNhauHoc
-* [Lập trình C++ cơ bản](https://www.youtube.com/watch?v=WS05AU6YYm4&list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - Kteam
-* [Ngôn Ngữ Lập Trình C](https://www.youtube.com/watch?v=bv4wVWi-Fjc&list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - DayNhauHoc
+* [Bài toán kinh điển trong lập trình C++](https://www.youtube.com/playlist?list=PL33lvabfss1zRuwxONgKLc_BBsZ-Y2B6b) - K team
+* [C++](https://www.youtube.com/playlist?list=PLyiioioEJSxHVTaeL-ELYy6Io-I8diIVZ) - Dạy Nhau Học
+* [C++ Cấu trúc dữ liệu](https://www.youtube.com/playlist?list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F) - Dạy Nhau Học
+* [Học lập trình C cho người mới bắt đầu (2019)](https://www.youtube.com/playlist?list=PLh91SaQgRYnpj1GqVmVMq4acSAHtSKKwR) - Lập Trình Không Khó
+* [Học lập trình C cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpAEl0D3W17WDS3ZtGbHIxF3) - Son Nguyen
+* [Học lập trình C++ cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr) - Lập Trình Không Khó
+* [Lập trình C++ cơ bản - HowKteam](https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - K team
+* [Ngôn Ngữ Lập Trình C](https://www.youtube.com/playlist?list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - Dạy Nhau Học
+* [Series Con trỏ trong C](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - Cộng đồng C Việt
 
 
 ### C-Sharp
@@ -106,6 +118,7 @@
 ### Go
 
 * [Golang Cơ Bản](https://www.codehub.com.vn/Golang-Co-Ban)
+* [Lập trình Golang](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
 
 
 ### HTML
@@ -116,13 +129,14 @@
 
 ### Java
 
+* [Học Lập Trình Java Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaB4DMiP4wYbLjfszqKg89lL) - thân triệu
 * [Khóa học lập trình JavaFX](https://www.youtube.com/watch?v=zAq7Lmv46PE&list=PL33lvabfss1yRgFCgFXjtYaGAuDJjjH-j) - Kteam
 
 
 ### JavaScript
 
-* [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban)
 * [JavaScript Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-java-script-can-ban-12.html) - TEDU
+* [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban)
 
 
 ### jQuery
@@ -138,12 +152,14 @@
 
 ### NodeJS
 
+* [Lập Trình Nodejs Cơ Bản Tại Khoa Phạm](https://www.youtube.com/playlist?list=PLzrVYRai0riQXAXJL9rg62tBvwD0ltJn-) - Trung Tâm Đào Tạo Tin Học Khoa Phạm
 * [NodeJS Cơ Bản](https://www.codehub.com.vn/Node-js-Co-Ban)
 * [NodeJS Cơ Bản](https://www.youtube.com/watch?v=3W8jskQUjnk&list=PL4VEtQ6PTTQEZp2kLIC7OE0E8OsObv0k8) - Ide Academy
 
 
 ### Objective-C
 
+* [học lập trình objective-c miễn phí](https://www.youtube.com/playlist?list=PLgT92sqeoAUC6gHyrbdZTbulFF8qwxGSK) - Kênh học miễn phí qua video trên youtube
 * [Objective-C Cơ Bản](https://www.codehub.com.vn/Objective-C-Co-Ban)
 
 
@@ -159,13 +175,14 @@
 
 * [Lập trình website với Python Django](https://www.youtube.com/watch?v=VF0oC9mkkno&list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P) - Kteam
 * [Python Cơ Bản](https://www.codehub.com.vn/Python-Co-Ban)
-* [Python Cơ Bản](https://www.youtube.com/watch?v=NZj6LI5a9vc&list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
 * [Python Cơ Bản](https://www.youtube.com/watch?v=FgN-mHwHLyg&list=PLyiioioEJSxEh_S_XFvG0d2xKRMSWLfN_) - DayNhauHoc
+* [Python Cơ Bản](https://www.youtube.com/watch?v=NZj6LI5a9vc&list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
 
 
 ### React
 
 * [React.js Cơ Bản](https://www.youtube.com/watch?v=zrdXI6uZuW4&list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd)
+* [ReactJS - Demo các project trong khóa học](https://www.youtube.com/playlist?list=PLv6GftO355Av08p6Zi1I67VYw47nMS8xO) - ZendVN - Học Lập Trình Online
 
 
 ### Ruby
@@ -181,6 +198,7 @@
 
 ### SQL
 
+* [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - thân triệu
 * [SQL Cơ Bản](https://www.codehub.com.vn/SQL-Co-Ban)
 * [SQL Cơ Bản](https://www.youtube.com/watch?v=2fanjSYVElY&list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
 

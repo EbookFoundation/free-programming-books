@@ -1,4 +1,4 @@
-閱讀本文的其他語言版本：[English](HOWTO.md), [हिन्दी](HOWTO-hi.md), [简体中文](HOWTO-zh.md), [Português (BR)](HOWTO.pt_BR.md)
+閱讀本文的其他語言版本：[English](HOWTO.md), [हिन्दी](HOWTO-hi.md), [简体中文](HOWTO-zh.md), [Português (BR)](HOWTO.pt_BR.md), [فارسی](HOWTO-fa_IR.md)
 
 歡迎使用 Free-Programming-Books！我们歡迎新的貢獻者；即使是在Github上首次提出 pull request 的人。如果您是其中之一，那麼以下資源可能會對你有所幫助：
 

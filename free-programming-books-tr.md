@@ -36,9 +36,9 @@
 ### C
 
 * [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - B. Hall, Çeviren Emre "FZ" Sevinç (HTML)
-* [C Programlama Diline Giriş](https://www.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](https://www.gantep.edu.tr/~bingul)
+* [C Programlama Diline Giriş](https://www.gantep.edu.tr/~bingul/c/index.php) - Ahmet Bingül
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
-* [Programlamaya Giriş Ders Notları](https://www.itu.edu.tr/uyar/programlama) - [H.Turgut Uyar](https://www.itu.edu.tr/uyar)
+* [Programlamaya Giriş Ders Notları](https://www.itu.edu.tr/uyar/programlama) - H.Turgut Uyar
 
 
 ### C++
@@ -64,13 +64,13 @@
 
 ### Fortran
 
-* [Fortran Programlama Dili](http://www.gantep.edu.tr/~bingul/f95/index.php) - [Ahmet Bingül](http://www.gantep.edu.tr/~bingul)
+* [Fortran Programlama Dili](http://www.gantep.edu.tr/~bingul/f95/index.php) - Ahmet Bingül
 
 
 ### Git
 
 * [git - basit rehber](https://www.rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler
-* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) - [Ali Özgür](https://www.github.com/aliozgur)
+* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) - Ali Özgür
 
 
 ### Go
@@ -156,7 +156,7 @@
 
 ### Ruby
 
-* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md) - [Leyla Kapı](http://www.leylakapi.com)
+* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md) - Leyla Kapı
 * [Ruby](https://www.ruby-lang.org/tr)
 * [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html) - Mark Slagell

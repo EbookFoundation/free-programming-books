@@ -109,7 +109,7 @@
 
 * [GNU Bash Başvuru Kılavuzu](http://www.belgeler.org/bashref/bashref.html)
 * [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
-* [Linux Belgeleri](https://belgeler.org/howto/howtos.html)
+* [Linux Belgeleri](http://www.belgeler.org/howto/howtos.html)
 * [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
 
 
@@ -131,7 +131,6 @@
 ### Python
 
 * [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](https://www.ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
-* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza)
 
 
 ### Django

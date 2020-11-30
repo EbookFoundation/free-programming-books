@@ -3,6 +3,7 @@
 * [C](#c)
 * [C++](#c++)
 * [Java](#java)
+* [Javascript](#javascript)
 * [Python](#python)
 * [Scala](#scala)
 * [SQL](#sql)
@@ -29,8 +30,14 @@
 * [Σημειώσεις Java](http://www.ebooks4greeks.gr/wp-content/uploads/2013/03/shmeiwseis-Java-eBooks4Greeks.gr_.pdf) (PDF)
 
 
+### Javascript
+
+* [HTML5-JavaScript (Δημιουργώντας παιχνίδια – Ο εύκολος τρόπος)](https://www.ebooks4greeks.gr/html5-javascript)
+
+
 ### Python
 
+* [Εισαγωγή στον Προγραμματισμό με Αρωγό τη Γλώσσα Python] (https://www.ebooks4greeks.gr/eisagwgh-ston-programmatismo-me-arwgo-th-glwssa-python)
 * [Ένα byte της Python](https://archive.org/details/AByteOfPythonEl)
 
 
@@ -41,4 +48,6 @@
 
 ### SQL
 
-* [Συστήματα Βάσεων Δεδομένων - Θεωρία και πρακτική εφαρμογή](http://studentguru.gr/cfs-file/__key/telligent-evolution-components-attachments/13-1200-00-00-00-13-46-27/vaseis_5F00_dedomenwn.pdf) (PDF)
+* [Εισαγωγή στην SQL: Εργαστηριακές Ασκήσεις σε MySQL5.7] (https://www.ebooks4greeks.gr/eisagwgh-sthn-sql-ergasthriakes-askhseis-se-mysql5-7)
+
+

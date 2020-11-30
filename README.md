@@ -2,19 +2,19 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 
 # List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[View the English list](free-programming-books.md)
-
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [Github's most popular repositories](https://octoverse.github.com/), with 150,000+ stars, 5000+ commits, 1200+ contributors, and 37,000+ forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [Github's most popular repositories](https://octoverse.github.com/), with 160,000+ stars, 6000+ commits, 1600+ contributors, and 39,000+ forks.
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
+
 
 ### How To Contribute
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome](/HOWTO.md)!
+
 
 ### How to Share
 
@@ -24,18 +24,21 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
 
 
-### In Other Written Languages
+### Books
+
+[English](free-programming-books.md)
+
+#### Other Languages
 
 + [Arabic / al arabiya / العربية](free-programming-books-ar.md)
 + [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](free-programming-books-az.md)
 + [Bengali / বাংলা](free-programming-books-bl.md)
 + [Bulgarian / български](free-programming-books-bg.md)
-+ [Burmese / မြန်မာဘာသာ](free-programming-books-mm.md)
++ [Burmese / မြန်မာဘာသာ](free-programming-books-my.md)
 + [Chinese / 中文](free-programming-books-zh.md)
 + [Czech / čeština / český jazyk](free-programming-books-cs.md)
 + [Danish / dansk](free-programming-books-dk.md)
 + [Dutch / Nederlands](free-programming-books-nl.md)
-+ [English](free-programming-books.md)
 + [Estonian / eesti keel](free-programming-books-et.md)
 + [Finnish / suomi / suomen kieli](free-programming-books-fi.md)
 + [French / français](free-programming-books-fr.md)
@@ -61,6 +64,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Turkish / Türkçe](free-programming-books-tr.md)
 + [Ukrainian / Українська](free-programming-books-ua.md)
 
+
 ### Cheat Sheets
 
 + [All Languages](free-programming-cheatsheets.md)
@@ -71,10 +75,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Bulgarian / български](free-courses-bg.md)
 + [English](free-courses-en.md)
 + [Finnish](free-courses-fi.md)
++ [French / français](free-courses-fr.md)
 + [German / Deutsch](free-courses-de.md)
 + [Hindi / हिंदी](free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](free-courses-id.md)
 + [Italian / italiano](free-courses-it.md)
++ [Khazakh / қазақша](free-courses-kk.md)
 + [Korean / 한국어 [韓國語]](free-courses-ko.md)
 + [Persian / Farsi (Iran) / فارسى](free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](free-courses-pl.md)
@@ -93,9 +99,11 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [English](free-programming-interactive-tutorials-en.md)
 + [Russian / Русский язык](free-programming-interactive-tutorials-ru.md)
 
+
 ### Problem Sets and Competitive Programming
 
 + [Problem Sets](problem-sets-competitive-programming.md)
+
 
 ### Podcast - Screencast
 
@@ -106,13 +114,18 @@ Free Podcasts and Screencasts:
 + [Finnish / Suomi](free-podcasts-screencasts-fi.md)
 + [Polish / polski / język polski / polszczyzna](free-podcasts-screencasts-pl.md)
 + [Portuguese (Brazil)](free-podcasts-screencasts-pt_BR.md)
++ [Portuguese (Portugal)](free-podcasts-screencasts-pt_PT.md)
 + [Russian / Русский язык](free-podcasts-screencasts-ru.md)
++ [Spanish / español / castellano](free-podcasts-screencasts-es.md)
 + [Swedish / Svenska](free-podcasts-screencasts-se.md)
++ [Turkish / Türkçe](free-podcasts-screencasts-tr.md)
 
 
 ### Programming Playgrounds
 
-+ [Free Programming Playgrounds](free-programming-playgrounds.md)
++ [Chinese / 中文](free-programming-playgrounds-zh.md)
++ [English](free-programming-playgrounds.md)
+
 
 ## License
 

@@ -9,18 +9,23 @@
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
+* [Dart](#dart)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
+  * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
+  * [jQuery](#jquery)
+  * [React](#react)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)
+* [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -94,6 +99,11 @@
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 
+### Dart
+
+* [Dart Official Codelabs](https://dart.dev/codelabs)
+
+
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)
@@ -128,13 +138,20 @@
 ### HTML / CSS
 
 * [CSS Diner](http://flukeout.github.io)
+* [CSS Tutorial](https://www.w3schools.com/css/) - W3Schools
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [FreeCodeCamp: Responsive Web Design Course](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 * [Grid Garden](https://cssgridgarden.com)
+* [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
+
+
+#### Bootstrap
+
+* [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
 
 ### Java
@@ -159,6 +176,7 @@
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
+* [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
 
@@ -166,14 +184,10 @@
 #### Angular.js
 
 * [Angular Basics](http://www.angularjsbook.com)
+* [Angular Tutorial](https://www.w3schools.com/angular/) - W3Schools
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
-
-
-#### Bootstrap
-
-* [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
 
 #### jQuery
@@ -184,6 +198,7 @@
 #### React
 
 * [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
+* [React Tutorial](https://react-tutorial.app)
 
 
 ### Kotlin
@@ -195,6 +210,7 @@
 
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
+* [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms) (freeCodeCamp)
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 
@@ -202,6 +218,11 @@
 #### Operating systems
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+
+
+### LaTeX
+
+* [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 
 ### Lisp
@@ -251,6 +272,7 @@
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 

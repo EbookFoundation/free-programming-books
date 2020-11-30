@@ -1,9 +1,8 @@
-### Index
+### Cодержание
 
 * [C++](#C++)
 * [Clojure](#clojure)
 * [CSS](#css)
-* [Design and Architecture](#design-and-architecture)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML](#html)
@@ -17,13 +16,14 @@
 * [Python](#python)
 * [R](#R)
 * [Ruby](#ruby)
+* [Дизайн и Aрхитектура](#design-architecture)
 
 
 ### Уровни
 
-BEG - новичок. Основы.  
-INT - средний. Расширенные возможности.  
-ADV - продвинутый. Тонкости.
+BEG - Hовичок. Основы.  
+INT - Cредний. Расширенные возможности.  
+ADV - Продвинутый. Тонкости.
 
 
 ### C++
@@ -39,11 +39,6 @@ ADV - продвинутый. Тонкости.
 ### CSS
 
 * [CSS для начинающих](https://ru.code-basics.com/languages/css) (BEG)
-
-
-### Design and Architecture
-
-* [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
 
 
 ### Go
@@ -140,3 +135,9 @@ ADV - продвинутый. Тонкости.
 
 * [Введение в Ruby](https://ru.hexlet.io/courses/ruby) - Hexlet (BEG)
 * [Путь Rubyrush](https://rubyrush.ru/steps) (BEG)
+
+
+### Дизайн и Aрхитектура<a ref="design-architecture" />
+
+* [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
+

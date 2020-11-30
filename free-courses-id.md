@@ -17,6 +17,7 @@
   * [Spring](#spring)
 * [JavaScript](#javascript)
   * [Angular](#angular)
+  * [Node](#node)
   * [React](#react)
   * [Vue](#vue)
 * [Kotlin](#kotlin)
@@ -25,6 +26,7 @@
 * [Machine Learning](#machine-learning)
 * [Microservices](#microservices)
 * [MongoDB](#mongodb)
+* [MySQL](#mysql)
 * [PHP](#php)
   * [Codeigniter](#codeigniter)
   * [Laravel](#laravel)
@@ -136,6 +138,7 @@
 
 ### JavaScript
 
+* [Belajar es6 - javacsript gaya baru](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR) - Sekolah Koding
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Programmer Zaman Now
 * [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
@@ -144,12 +147,17 @@
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
 
 
-### Angular
+#### Angular
 
 * [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo
 
 
-### React
+#### Node
+
+* [Pelajaran Node.js Sederhana](https://easy-to-learn5.teachable.com/p/nodejs) - Easy To Learn 5
+
+
+#### React
 
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
 * [React JS Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY) - Wahidev Academy
@@ -158,7 +166,7 @@
 * [Tutorial React Native Bahasa Indonesia (Futsal App)](https://www.youtube.com/playlist?list=PLIan8aHxsPj2NeWJew3o86bSptVPXOppa) - Wahidev Academy
 
 
-### Vue
+#### Vue
 
 * [Tutorial Vue JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ) - Sekolah Koding
 * [Tutorial Vuejs Bahasa Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-Z6Gt8uO1XMp4oyMlE3gml) - Baledemy
@@ -202,6 +210,12 @@
 * [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Programmer Zaman Now
 
 
+### MySQL
+
+* [Belajar MySQL](https://www.youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_) - Indonesia Belajar
+* [Belajar MySQL/MariaDB](https://www.youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF) - Guntur Budi
+
+
 ### PHP
 
 * [Belajar PHP untuk PEMULA](https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6) - Web Programming UNPAS
@@ -220,20 +234,26 @@
 
 ### Laravel
 
+* [Belajar CRUD Laravel 8 + Livewire](https://www.youtube.com/playlist?list=PLEgI20pG1DqzAa8npy9C_NDUvYwhslUb4) - Kawan Koding
 * [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Parsinta
 * [Belajar Laravel Pemula](https://www.youtube.com/playlist?list=PLIan8aHxsPj2c9ZA7Rrnciir2OydWTdbn) - Wahidev Academy
+* [Fitur Baru Laravel 8](https://www.youtube.com/playlist?list=PLEgI20pG1DqyTqCPiHnuWrBZtVFs5z95p) - Kawan Koding
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Parsinta
 * [Membuat Tabel Post Tampilan](https://youtu.be/sYTin40_Ukw) - Kawan Koding
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
+* [Tutorial Laravel Bahasa Indonesia](https://id-laravel.com) - ID Laravel
 
 
 ### Python
 
 * [Belajar Pemrograman Python untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H) - Programmer Zaman Now
-* [Belajar Python 3.x Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
-* [Belajar Python Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
+* [Belajar Python Bahasa Indonesia [Dasar]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
+* [Belajar Python Bahasa Indonesia [Versi Baru]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY) - Kelas Terbuka
 * [OpenCV untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwt4cBsBy_Ej7gNlXdQ7blCB) - NgodingPython
+* [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
 * [Tutorial Python Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m) - Sekolah Koding
+* [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar
+* [Visualisasi Data dalam Pemrograman Python (Matplotlib)](https://www.youtube.com/playlist?list=PL2O3HdJI4voHrfoMFvkDeblmjarDN8nC8) - Indonesia Belajar
 
 
 ### Django
@@ -264,8 +284,8 @@
 * [Ethereum Blockchain Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLNl8QwXqW_lvWSc3n3geFSbBtmJvEl4nz) - Odoo Indonesia vITraining
 
 
-### Typescript
+### TypeScript
 
-* [Belajar Typescript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
-* [Typescript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra
-
+* [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
+* [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan
+* [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan

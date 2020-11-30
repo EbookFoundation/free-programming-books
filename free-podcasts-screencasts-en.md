@@ -40,7 +40,7 @@
 
 ### C&#x23;
 
-* [How to program in C# - Beginner Course | Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) (screencast)
+* [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) (screencast)
 
 
 ### C++
@@ -215,7 +215,7 @@
 * [Arrested DevOps](https://www.arresteddevops.com) (podcast)
 * [baseCS](https://www.codenewbie.org/basecs) (podcast based on [a series of posts on medium](https://medium.com/basecs))
 * [Beats, Rye & Types](http://beatsryetypes.com) (podcast)
-* [Between | Screens Podcast](https://soundcloud.com/between-screens) (podcast)
+* [Between \| Screens Podcast](https://soundcloud.com/between-screens) (podcast)
 * [BSDTalk](http://bsdtalk.blogspot.com) (podcast)
 * [CodeNewbie](http://www.codenewbie.org/podcast) (podcast)
 * [CodePen Radio](https://blog.codepen.io/radio/) (podcast)
@@ -267,6 +267,7 @@
 * [Toolsday](http://toolsday.io) (podcast)
 * [TTL Podcast](http://ttlpodcast.com) (podcast)
 * [Web Security Warriors](https://devchat.tv/web-security-warriors/) (podcast)
+* [Women in TECH with Ariana](https://podcasts.apple.com/us/podcast/women-in-tech-with-ariana/id1338917627) (podcast)
 
 
 ### PHP
@@ -289,6 +290,7 @@
 ### Python
 
 * [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy) (screencast)
+* [Codecasts](https://www.youtube.com/playlist?list=PL_qGav8csvade05RSAYtnxvCfQKTJcZR4) - Daniel Feldroy (screencast)
 * [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969) (screencast)
 * [Import this](https://soundcloud.com/import-this) (podcast)
 * [Podcast.__init__](http://podcastinit.com) (podcast)
@@ -314,7 +316,7 @@
 * [Railscasts](http://railscasts.com) (screencast)
 * [Ruby on Rails Podcast](https://5by5.tv/rubyonrails) - Brittany Martin (podcast)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) (podcast)
-* [Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free) (screencast)
+* [Ruby Tapas \| Free Screencasts](http://www.rubytapas.com/episodes?filter=free) (screencast)
 * [The Bike Shed](http://bikeshed.fm) (podcast)
 * [The Ruby Show](http://rubyshow.com) (podcast)
 

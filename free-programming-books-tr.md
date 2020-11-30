@@ -6,7 +6,6 @@
 * [CSS](#css)
 * [D](#d)
 * [Dart](#dart)
-* [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
@@ -38,7 +37,6 @@
 * [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - B. Hall, Çeviren Emre "FZ" Sevinç (HTML)
 * [C Programlama Diline Giriş](https://www.gantep.edu.tr/~bingul/c/index.php) - Ahmet Bingül
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
-* [Programlamaya Giriş Ders Notları](https://www.itu.edu.tr/uyar/programlama) - H.Turgut Uyar
 
 
 ### C++
@@ -48,7 +46,6 @@
 
 ### CSS
 
-* [CSS Dersleri](https://www.fatihhayrioglu.com/css-dersleri/) - Fatih Hayrioğlu
 * [CSS Giriş](http://sercaneraslan.com/css/) - Sercan Eraslan
 
 
@@ -60,11 +57,6 @@
 ### Dart
 
 * [Dart - Merhaba Dünya](https://www.dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
-
-
-### Fortran
-
-* [Fortran Programlama Dili](http://www.gantep.edu.tr/~bingul/f95/index.php) - Ahmet Bingül
 
 
 ### Git
@@ -98,7 +90,7 @@
 
 * [24 Saatte Java](https://ia601505.us.archive.org/23/items/24-saatte-java/24-saatte-java-turkce.pdf) (PDF)
 * [Başkent Üniversitesi Java Dersleri](http://www.baskent.edu.tr/~tkaracay/etudio/ders/prg/java/java_ndx.html) - ttm (Technology Promotion Center)
-* [Java Bilgisayar Diliyle Programlama](http://www.turhancoban.com/kitap/JAVA%20BİLGİSAYAR%20DİLİYLE%20PROGRAMLAMA.pdf) - Turhan Coban (PDF)
+* [Java Bilgisayar Diliyle Programlama](http://www.turhancoban.com/kitap/JAVA%20B%C4%B0LG%C4%B0SAYAR%20D%C4%B0L%C4%B0YLE%20PROGRAMLAMA.pdf) - Turhan Coban (PDF)
 * [Java ile Nesneye Yönelik Programlama](https://ia801507.us.archive.org/12/items/java-ile-nesneye-yonelik-programlama/Java%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf) - Oğuz Aslantürk (PDF)
 * [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF)
 
@@ -115,10 +107,10 @@
 
 ### Linux
 
-* [GNU Bash Başvuru Kılavuzu](https://www.belgeler.org/bashref/bashref.html)
+* [GNU Bash Başvuru Kılavuzu](http://www.belgeler.org/bashref/bashref.html)
 * [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
 * [Linux Belgeleri](https://belgeler.org/howto/howtos.html)
-* [Linux Sistem Yöneticisinin Kılavuzu](https://www.belgeler.org/sag/sag.html)
+* [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
 
 
 ### Matlab

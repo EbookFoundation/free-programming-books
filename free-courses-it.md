@@ -14,7 +14,6 @@
 * [Erlang](#erlang)
 * [Generale](#generale)
 * [Java](#Java)
-  * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
 * [Mobile](#mobile)
@@ -111,13 +110,9 @@
 
 ### Java
 
+* [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) (M. Cicolella)
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) (S. Zorba)
 * [Programmazione a Oggetti (Java)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kewGZIHpCDgarZER_-J1am) (M. Torchiano)
-
-
-#### Spring Boot
-
-* [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) (M. Cicolella)
 
 
 ### JavaScript

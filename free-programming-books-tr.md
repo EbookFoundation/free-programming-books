@@ -29,9 +29,9 @@
 ### Algoritma ve Veri Yapıları
 
 * [Algoritma ve Programlama Soru Bankası](https://ia601404.us.archive.org/34/items/algoritma-ve-programlama-soru-bankasi/algoritma-ve-programlama-soru-bankas%C4%B1.pdf) (PDF)
-* [Algoritma ve Programlamaya Giriş Ders Notları](https://ia601404.us.archive.org/12/items/algoritma-ve-programlamaya-giris-ders-notlari/Algoritma%20ve%20Programlamaya%20Giri%C5%9F%20Ders%20Notlar%C4%B1.pdf) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr/) (PDF)
+* [Algoritma ve Programlamaya Giriş Ders Notları](https://ia601404.us.archive.org/12/items/algoritma-ve-programlamaya-giris-ders-notlari/Algoritma%20ve%20Programlamaya%20Giri%C5%9F%20Ders%20Notlar%C4%B1.pdf) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr) (PDF)
 * [Algoritmalar ve Programlama](https://ia601408.us.archive.org/31/items/algoritmalar-ve-programlama/Algoritmalar%20ve%20Programlama.pdf) (PDF)
-* [Bilgisayar Teriminde Algoritma](https://ia601504.us.archive.org/20/items/bilgisayar-teriminde-algoritma/Bilgisayar%20Teriminde%20Algoritma.pdf) - [Agah Emir](https://medium.com/@agahemir986) (PDF)
+* [Bilgisayar Teriminde Algoritma](https://ia601504.us.archive.org/20/items/bilgisayar-teriminde-algoritma/Bilgisayar%20Teriminde%20Algoritma.pdf) - Agah Emir (PDF)
 
 
 ### Android

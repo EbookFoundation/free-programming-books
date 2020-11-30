@@ -9,6 +9,7 @@
 * [MySQL](#MySQL)
 * [PHP](#PHP)
 * [Ruby](#Ruby)
+* [Selenium](#Selenium)
 
 
 ### BigData
@@ -55,3 +56,8 @@
 ### Ruby
 
 * [எளிய இனிய கணினி மொழி Ruby](http://www.kaniyam.com/download/learn-ruby-in-tamil.pdf) - பிரியா சுந்தரமூர்த்தி (PDF)
+
+
+### Selenium
+
+* [எளிய தமிழில் Selenium](http://www.kaniyam.com/download/learn-selenium-in-tamil.pdf) - Nithya Durai (PDF)

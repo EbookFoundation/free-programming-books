@@ -137,6 +137,8 @@
 ### C
 
 * [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf) - Денис Юричев (PDF)
+* [Сетевое программирование от Биджа - Использование Интернет Сокетов](http://beej.us/guide/bgnet/translations/bgnet_A4_rus.pdf) - B. Hall, Перевод Андрея Косенко (PDF)
+* [Краткое руководство Beej к GDB](https://paintingvalley.com/ru-bggdb) - (HTML)
 * [Особенности языка C. Учебное пособие](https://younglinux.info/с) - C. Шапошникова (PDF)
 * [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
 * [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов
@@ -290,6 +292,7 @@
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
 * [JavaScript и jQuery](https://html5book.ru/javascript-jquery) - Елена Назарова
+* [Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru) - Кайл Симпсон
 * [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
 * [Курс современного JavaScript](https://bxnotes.ru/conspect/kurs-sovremennogo-javascript/) - bxnotes
 * [Онлайн-книга по WebGL](https://metanit.com/web/webgl) - Евгений Попов

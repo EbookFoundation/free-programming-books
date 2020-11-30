@@ -38,6 +38,7 @@
 
 ### JavaScript
 
+* [Eloquent JavaScript](https://to6esko.github.io) - Marijn Haverbeke (HTML)
 * [Основи на програмирането с JavaScript](https://js-book.softuni.bg) - Светлин Наков и колектив
 
 

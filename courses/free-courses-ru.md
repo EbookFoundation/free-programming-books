@@ -133,6 +133,7 @@ ADV - Продвинутый. Тонкости.
 
 ### Ruby
 
+* [Ruby - первое знакомство](https://stepik.org/course/87996) - Stepik (BEG)
 * [Введение в Ruby](https://ru.hexlet.io/courses/ruby) - Hexlet (BEG)
 * [Путь Rubyrush](https://rubyrush.ru/steps) (BEG)
 

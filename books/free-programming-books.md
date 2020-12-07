@@ -2248,8 +2248,8 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### CodeIgniter
 
-* [CodeIgniter 3 User Guide](https://codeigniter.com/user_guide/index.html)
-* [CodeIgniter 4 User Guide](https://codeigniter4.github.io/userguide/)
+* [CodeIgniter 3 User Guide](https://codeigniter.com/userguide3/index.html)
+* [CodeIgniter 4 User Guide](https://codeigniter.com/user_guide/index.html)
 
 
 #### Drupal
@@ -2292,6 +2292,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Postgres Official Documentation](http://www.postgresql.org/docs/)
 * [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) (email address *requested*, not required)
+* [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql) - Tutorials Point
 * [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
 * [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
 
@@ -2475,7 +2476,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Flask
 
 * [Explore Flask](https://exploreflask.com) - Robert Picard
-* [Flask Documentation](https://flask.palletsprojects.com) - Pallets (:construction: *in process*)
+* [Flask Documentation](https://flask.palletsprojects.com) - Pallets
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
 

@@ -33,6 +33,7 @@
 * [Objective-C](#objective-c)
 * [Ocaml](#ocaml)
 * [PHP](#php)
+* [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -262,6 +263,11 @@
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
+
+
+### PostgreSQL
+
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
 
 
 ### Python

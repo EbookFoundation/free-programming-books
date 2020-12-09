@@ -37,7 +37,7 @@
 
 ### Python
 
-* [Εισαγωγή στον Προγραμματισμό με Αρωγό τη Γλώσσα Python] (https://www.ebooks4greeks.gr/eisagwgh-ston-programmatismo-me-arwgo-th-glwssa-python)
+* [Εισαγωγή στον Προγραμματισμό με Αρωγό τη Γλώσσα Python](https://www.ebooks4greeks.gr/eisagwgh-ston-programmatismo-me-arwgo-th-glwssa-python)
 * [Ένα byte της Python](https://archive.org/details/AByteOfPythonEl)
 
 
@@ -48,6 +48,6 @@
 
 ### SQL
 
-* [Εισαγωγή στην SQL: Εργαστηριακές Ασκήσεις σε MySQL5.7] (https://www.ebooks4greeks.gr/eisagwgh-sthn-sql-ergasthriakes-askhseis-se-mysql5-7)
+* [Εισαγωγή στην SQL: Εργαστηριακές Ασκήσεις σε MySQL5.7](https://www.ebooks4greeks.gr/eisagwgh-sthn-sql-ergasthriakes-askhseis-se-mysql5-7)
 
 

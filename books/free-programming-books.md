@@ -2546,7 +2546,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Raku
 
-* [Metagenomics](https://legacy.gitbook.com/download/pdf/book/kyclark/metagenomics) - Ken Youens-Clark (PDF)
+* [Metagenomics](https://kyclark.gitbooks.io/metagenomics) - Ken Youens-Clark
 * [Perl 6 at a Glance](https://andrewshitov.com/wp-content/uploads/2020/01/Perl-6-at-a-Glance.pdf) - Andrew Shitov (PDF)
 * [Raku Guide](https://raku.guide) (HTML) [(PDF)](https://github.com/hankache/rakuguide)
 * [Raku One-Liners](https://andrewshitov.com/wp-content/uploads/2020/01/Raku-One-Liners.pdf) - Andrew Shitov (PDF)
@@ -2670,7 +2670,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Scala By Example](https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf) - M. Odersky (PDF)
 * [Scala Cookbook: Bonus Chapters](http://examples.oreilly.com/9781449339616-files/Scala_Cookbook_bonus_chapters.pdf) - Alvin Alexander (PDF)
 * [Scala for Perl 5 Programmers](https://github.com/garu/scala-for-perl5-programmers) - Breno G. de Oliveira
-* [Scala for the Impatient (A1 Scala Level chapters)](http://www.typesafe.com/resources/e-books) - Cay S. Horstmann
 * [Scala School by Twitter](http://twitter.github.io/scala_school/)
 * [Scala Succinctly](https://www.syncfusion.com/ebooks/scala_succinctly) - Chris Rose
 * [Scala Tutorial](https://www.tutorialspoint.com/scala) - Tutorials Point

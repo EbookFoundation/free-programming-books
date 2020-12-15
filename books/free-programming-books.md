@@ -581,6 +581,7 @@
 * [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikibooks
 * [Plane Geometry (1913)](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth and David Eugene Smith (PDF)
 * [Planes and Spherical Trigonometry (1915)](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth and David Eugene Smith (PDF)
+* [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) - Carl Stitz and Jeff Zeager (PDF)
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (PDF)

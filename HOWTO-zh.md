@@ -9,6 +9,7 @@
 * [Youtube —— 如何复刻 GitHub 仓库并提交拉取请求](https://www.youtube.com/watch?v=G1I3HF4YWEw)
 * [Youtube —— Markdown 速成课程](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
+
 不要犹豫，提问题。每个贡献者都从第一个 PR 开始。你可能是我们的千分之一！
 
 即使您是经验丰富的开源贡献者，也有一些事情可能会让您绊倒。提交您的 PR 后，Travis-CI 会运行一个 linter（代码风格检测工具），经常发现间距或字母顺序方面的小问题。如果您获得绿色按钮，则说明一切准备就绪，但如果没有，请单击 travis 链接以查找 linter 不满意的地方。解决问题并向您的 PR 添加 commit（提交）。

@@ -11,6 +11,7 @@
 * [HTML & CSS](#html-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [TypeScript](#typescript)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Pemrograman Fungsional](#pemrograman-fungsional)
@@ -84,10 +85,15 @@
 
 ### JavaScript
 
-* [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
+
+
+### TypeScript
+
+* [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
+* [Belajar TypeScript Dasar](https://www.mediafire.com/file/gk82hogijbhbbji/Belajar_TypeScript.pdf/file) - Anggie Bratadinata *(Menggunakan MedaFire)*
 
 
 ### MySQL
@@ -126,6 +132,7 @@
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 * [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(Dalam Proses)*
+* [Menyelam dan Menaklukan Samudra PHP](https://www.mediafire.com/file/5qd1dom4rpvrrfb/Ebook_PHP_-_Menyelam_dan_Menaklukan_Samudra_PHP_-_Loka_Dwiartara.pdf/file) - Loka Dwiartara
 
 
 ### Python

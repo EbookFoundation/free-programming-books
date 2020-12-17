@@ -93,7 +93,7 @@
 ### TypeScript
 
 * [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
-* [Belajar TypeScript Dasar](https://www.mediafire.com/file/gk82hogijbhbbji/Belajar_TypeScript.pdf/file) - Anggie Bratadinata *(Menggunakan MedaFire)*
+* [Belajar TypeScript Dasar](https://www.mediafire.com/file/gk82hogijbhbbji/Belajar_TypeScript.pdf/file) - Anggie Bratadinata *(Menggunakan MediaFire)*
 
 
 ### MySQL

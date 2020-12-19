@@ -74,7 +74,7 @@
 ### Dart
 
 * [Belajar Bahasa Pemgrograman Dart](https://www.youtube.com/playlist?list=PLsvN_QZnFWRBQRFBo46R9hAYcnmvLSIvF) - Kenari Studio
-* [Dart Indonesia](https://www.youtube.com/playlist?list=PLoNv-2zK-dzEbZSFeGgSnpdp5i_Lwto-8) -  CodeWithIhwan
+* [Dart Indonesia](https://www.youtube.com/playlist?list=PLoNv-2zK-dzEbZSFeGgSnpdp5i_Lwto-8) - CodeWithIhwan
 * [Pemrograman Berorientasi Objek - Dart](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Erico Darmawan Handoyo
 
 

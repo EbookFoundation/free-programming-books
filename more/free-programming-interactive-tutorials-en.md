@@ -33,6 +33,7 @@
 * [Objective-C](#objective-c)
 * [Ocaml](#ocaml)
 * [PHP](#php)
+* [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -264,6 +265,11 @@
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
 
 
+### PostgreSQL
+
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
+
+
 ### Python
 
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
@@ -272,6 +278,7 @@
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 

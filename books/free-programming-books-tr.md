@@ -1,12 +1,12 @@
 ### İçindekiler
 
+* [Algoritma ve Veri Yapıları](#algoritma-ve-veri-yapilari)
 * [Android](#android)
 * [C](#c)
 * [C++](#c-1)
 * [CSS](#css)
 * [D](#d)
 * [Dart](#dart)
-* [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
@@ -26,6 +26,14 @@
 * [Rust](#rust)
 
 
+### Algoritma ve Veri Yapıları
+
+* [Algoritma ve Programlama Soru Bankası](https://ia601404.us.archive.org/34/items/algoritma-ve-programlama-soru-bankasi/algoritma-ve-programlama-soru-bankas%C4%B1.pdf) (PDF)
+* [Algoritma ve Programlamaya Giriş Ders Notları](https://ia601404.us.archive.org/12/items/algoritma-ve-programlamaya-giris-ders-notlari/Algoritma%20ve%20Programlamaya%20Giri%C5%9F%20Ders%20Notlar%C4%B1.pdf) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr) (PDF)
+* [Algoritmalar ve Programlama](https://ia601408.us.archive.org/31/items/algoritmalar-ve-programlama/Algoritmalar%20ve%20Programlama.pdf) (PDF)
+* [Bilgisayar Teriminde Algoritma](https://ia601504.us.archive.org/20/items/bilgisayar-teriminde-algoritma/Bilgisayar%20Teriminde%20Algoritma.pdf) - Agah Emir (PDF)
+
+
 ### Android
 
 * [Android Dersleri](https://umiitkose.com/android) - Ümit Köse
@@ -36,9 +44,8 @@
 ### C
 
 * [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - B. Hall, Çeviren Emre "FZ" Sevinç (HTML)
-* [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
+* [C Programlama Diline Giriş](https://www.gantep.edu.tr/~bingul/c/index.php) - Ahmet Bingül
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
-* [Programlamaya Giriş Ders Notları](http://web.itu.edu.tr/uyar/programlama) - [H.Turgut Uyar](http://web.itu.edu.tr/uyar)
 
 
 ### C++
@@ -48,34 +55,28 @@
 
 ### CSS
 
-* [CSS Dersleri](http://fatihhayrioglu.com/css-dersleri/) - Fatih Hayrioğlu
 * [CSS Giriş](http://sercaneraslan.com/css/) - Sercan Eraslan
 
 
 ### D
 
-* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf) - Ali Çehreli (PDF)
+* [D Programlama Dili](https://www.ddili.org/ders/d/D_Programlama_Dili.pdf) - Ali Çehreli (PDF)
 
 
 ### Dart
 
-* [Dart - Merhaba Dünya](http://dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
-
-
-### Fortran
-
-* [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php) - [Ahmet Bingül](http://www1.gantep.edu.tr/~bingul)
+* [Dart - Merhaba Dünya](https://www.dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
 
 
 ### Git
 
-* [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler
-* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) - [Ali Özgür](https://github.com/aliozgur)
+* [git - basit rehber](https://www.rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler
+* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) - Ali Özgür
 
 
 ### Go
 
-* [Go El Kitabı](https://github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
+* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
 
 
 ### Güvenlik ve Gizlilik
@@ -86,19 +87,19 @@
 ### Html
 
 * [Html'e Giriş](http://www.htmldersleri.org)
-* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
+* [Html'e Yolculuk](https://www.github.com/paufsc/journey-to-html)
 
 
 ### iOS
 
-* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
+* [iOS Geleceği Yazanlar](https://www.gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
 
 ### Java
 
 * [24 Saatte Java](https://ia601505.us.archive.org/23/items/24-saatte-java/24-saatte-java-turkce.pdf) (PDF)
 * [Başkent Üniversitesi Java Dersleri](http://www.baskent.edu.tr/~tkaracay/etudio/ders/prg/java/java_ndx.html) - ttm (Technology Promotion Center)
-* [Java Bilgisayar Diliyle Programlama](http://www.turhancoban.com/kitap/JAVA%20BİLGİSAYAR%20DİLİYLE%20PROGRAMLAMA.pdf) - Turhan Coban (PDF)
+* [Java Bilgisayar Diliyle Programlama](http://www.turhancoban.com/kitap/JAVA%20B%C4%B0LG%C4%B0SAYAR%20D%C4%B0L%C4%B0YLE%20PROGRAMLAMA.pdf) - Turhan Coban (PDF)
 * [Java ile Nesneye Yönelik Programlama](https://ia801507.us.archive.org/12/items/java-ile-nesneye-yonelik-programlama/Java%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf) - Oğuz Aslantürk (PDF)
 * [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF)
 
@@ -115,31 +116,30 @@
 
 ### Linux
 
-* [GNU Bash Başvuru Kılavuzu](http://belgeler.org/bashref/bashref.html)
+* [GNU Bash Başvuru Kılavuzu](http://www.belgeler.org/bashref/bashref.html)
 * [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
-* [Linux Belgeleri](http://belgeler.org/howto/howtos.html)
-* [Linux Sistem Yöneticisinin Kılavuzu](http://belgeler.org/sag/sag.html)
+* [Linux Belgeleri](http://www.belgeler.org/howto/howtos.html)
+* [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
 
 
 ### Matlab
 
-* [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris) - İsmail Arı
+* [Matlab Programlamaya Giris](https://www.ismailari.com/blog/matlab-programlamaya-giris) - İsmail Arı
 
 
 ### .NET Framework
 
-* [ASP.NET Core El Kitabı](https://sahin.gitbook.io/asp-net-core-el-kitab)
+* [ASP.NET Core El Kitabı](https://www.sahin.gitbook.io/asp-net-core-el-kitab)
 
 
 ### PHP
 
-* [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
+* [PHP - Laravel 4 Türkçe Dokumantasyon](https://www.leanpub.com/laravel4-tr)
 
 
 ### Python
 
-* [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](http://ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
-* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza)
+* [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](https://www.ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
 
 
 ### Django
@@ -151,12 +151,12 @@
 
 ### R
 
-* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://github.com/emraher/eybkbrk) - Emrah Er
+* [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://www.github.com/emraher/eybkbrk) - Emrah Er
 
 
 ### Ruby
 
-* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md) - [Leyla Kapı](http://www.leylakapi.com)
+* [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md) - Leyla Kapı
 * [Ruby](https://www.ruby-lang.org/tr)
 * [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html) - Mark Slagell
@@ -166,3 +166,4 @@
 ### Rust
 
 * [Rust'a Giriş](http://bit.ly/rustagiris) - Mahmut Bulut
+

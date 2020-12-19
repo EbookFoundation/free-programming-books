@@ -223,7 +223,6 @@
 * [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/)
 * [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
 * [Pro Git](https://git-scm.com/book/zh/v2)
-* [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
 * [Pro Git 第二版 中文版](https://bingohuang.gitbooks.io/progit2/content) - Bingo Huang
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 * [学习 Git 分支](https://learngitbranching.js.org)
@@ -414,7 +413,7 @@
 
 ### Haskell
 
-* [Haskell 趣学指南](http://learnyoua.haskell.sg)
+* [Haskell 趣学指南](https://learnyouahaskell.mno2.org)
 * [Real World Haskell 中文版](http://cnhaskell.com)
 
 

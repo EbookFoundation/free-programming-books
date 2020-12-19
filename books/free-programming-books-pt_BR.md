@@ -12,7 +12,7 @@
   * [Arquitetura de Software](#arquitetura-de-software)
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
   * [Outros](#outros)
-* [Fundamentos Matemáticos Computacionais](#fundamentos-matematicos-computacionais)
+* [Fundamentos Matemáticos Computacionais](#fundamentos-matemáticos-computacionais)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)

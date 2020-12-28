@@ -332,7 +332,6 @@
 * [Aprenda a Programar](http://www.jmonteiro.com/aprendaaprogramar/)
 * [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
-* [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](https://silo.tips/queue/ruby-on-rails-caelum?&queue_id=-1&v=1608280401&u=MjQwOTo0MDY0OjRkYzM6ZDFkMDo1OTI5OjIxMTQ6NmMwZjo1Y2Qz) - Caelum
 
 
 ### Shell

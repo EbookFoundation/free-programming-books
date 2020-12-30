@@ -1,5 +1,5 @@
 ### Index
-
+* [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#C)
 * [C++](#c-1)
@@ -20,6 +20,9 @@
 * [Ruby](#ruby)
 * [SQL](#sql)
 
+### Artificial Intelligence
+
+* [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
 
 ### Bash
 

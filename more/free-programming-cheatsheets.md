@@ -13,6 +13,7 @@
   * [Vue.js](#vuejs)
 * [Kubernetes](#Kubernetes)
 * [Language Translations](#language-translations)
+* [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [MongoDB](#mongodb)
 * [Perl](#Perl)
@@ -92,6 +93,11 @@
 ### Language Translations
 
 * [Swift and C# Quick Reference - Language Equivalents and Code Examples](http://www.globalnerdy.com/wordpress/wp-content/uploads/2015/03/SwiftCSharpPoster.pdf) - Globalnerdy (PDF)
+
+
+### Machine Learning
+
+* [What is Machine Learning?](https://intelligencereborn.com/MachineLearning.html) - IntelligenceReborn
 
 
 ### Markdown

@@ -9,6 +9,7 @@
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [Gulp](#gulp)
@@ -48,6 +49,7 @@
 
 * [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
+* [Começando com Angular](https://app.balta.io/courses/7181) - Andre Baltieri (balta.io)
 
 
 ### C
@@ -92,6 +94,11 @@
 
 * [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
 
+
+### Flutter
+
+* [Curso COMPLETO de Flutter](https://youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) - Flutterando (Youtube)
+* [Criando seu primeiro App com Flutter](https://app.balta.io/courses/7184) - Andre Baltieri (balta.io)
 
 ### Git
 

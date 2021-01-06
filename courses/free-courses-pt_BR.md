@@ -9,6 +9,7 @@
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [Gulp](#gulp)
@@ -46,6 +47,7 @@
 
 ### Angular
 
+* [Começando com Angular](https://app.balta.io/courses/7181) - Andre Baltieri (balta.io)
 * [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 
@@ -91,6 +93,12 @@
 ### Delphi
 
 * [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
+
+
+### Flutter
+
+* [Criando seu primeiro App com Flutter](https://app.balta.io/courses/7184) - Andre Baltieri (balta.io)
+* [Curso COMPLETO de Flutter](https://youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) - Flutterando (Youtube)
 
 
 ### Git
@@ -160,7 +168,7 @@
 ### JavaScript
 
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo
-* [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/starter) - Rocketseat
+* [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/discover/courses) - Rocketseat
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 
 
@@ -205,7 +213,6 @@
 ### Node.js
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
-* [Curso do Básico ao CRUD Node.js](https://app.rocketseat.com.br/node/curso-node-js) - *registration required*
 * [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (Youtube)
 * [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - Erick Wendel (Teachable)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)

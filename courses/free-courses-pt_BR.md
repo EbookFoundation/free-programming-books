@@ -168,7 +168,7 @@
 ### JavaScript
 
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo
-* [Discover: JavaScript, HTML & CSS](https://app.rocketseat.com.br/discover/courses) - Rocketseat
+* [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/discover/courses) - Rocketseat
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 
 

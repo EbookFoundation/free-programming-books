@@ -215,6 +215,7 @@
 * [Self](#self)
 * [Smalltalk](#smalltalk)
 * [Snap](#snap)
+* [Solr](#solr)
 * [Spark](#spark)
 * [Splunk](#splunk)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
@@ -2751,6 +2752,11 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Snap
 
 * [Snap! Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) - B. Harvey, J. Mönig (PDF)
+
+
+### Solr
+
+* [Solr for newbies workshop](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf) - Hector Correa (PDF)
 
 
 ### Spark

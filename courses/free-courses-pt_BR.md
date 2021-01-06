@@ -47,9 +47,9 @@
 
 ### Angular
 
+* [Começando com Angular](https://app.balta.io/courses/7181) - Andre Baltieri (balta.io)
 * [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
-* [Começando com Angular](https://app.balta.io/courses/7181) - Andre Baltieri (balta.io)
 
 
 ### C
@@ -97,8 +97,8 @@
 
 ### Flutter
 
-* [Curso COMPLETO de Flutter](https://youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) - Flutterando (Youtube)
 * [Criando seu primeiro App com Flutter](https://app.balta.io/courses/7184) - Andre Baltieri (balta.io)
+* [Curso COMPLETO de Flutter](https://youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) - Flutterando (Youtube)
 
 
 ### Git

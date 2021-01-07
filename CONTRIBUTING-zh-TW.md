@@ -151,3 +151,15 @@
 正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *編寫中*)
 正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *翻譯中*)
 ```
+
+### 自動化測試
+- 規定格式驗證是由[Travis CI](https://travis-ci.com)自動化進行，使用[fpb-lint](https://github.com/vhf/free-programming-books-lint)套件 (參閱 [.travis.yml](.travis.yml))。
+- 使用[awesome_bot](https://github.com/dkhamsing/awesome_bot)進行連結驗證。
+- 可以藉由提交一個內容包含`check_urls=file_to_check`來觸發連結驗證:
+
+```
+check_urls=free-programming-books.md free-programming-books-en.md
+```
+
+- 您可以以一個空白區隔出想要進行驗證的檔案名稱來一次驗證多個檔案。
+- 如果您一次驗證多個檔案，自動化測試的結果會是基於最後一個驗證的檔案。您的測試可能會因此通過，因此請詳加確認測試日誌。可以在pull request結果中點選"Show all checks" -> "Details"來查看。

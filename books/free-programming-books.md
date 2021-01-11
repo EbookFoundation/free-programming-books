@@ -364,7 +364,7 @@
 
 #### Artificial Intelligence
 
-* [Artificial Intelligence for Big Data](https://www.packtpub.com/free-ebooks/artificial-intelligence-big-data) - Anand Deshpande, Manish Kumar (Packt account *required*)
+* [Artificial Intelligence for Big Data] - Anand Deshpande, Manish Kumar (Packt account *required*)
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
@@ -381,7 +381,7 @@
 * [Cloud Computing for Science and Engineering](https://cloud4scieng.org/chapters/) - Ian Foster, Dennis B. Gannon (:construction: *in process*)
 * [Cloud Design Patterns](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
-* [Hands-On Cloud Administration in Azure](https://www.packtpub.com/free-ebooks/hands-cloud-administration-azure) - Mustafa Toroman (Packt account *required*)
+* [Hands-On Cloud Administration in Azure] - Mustafa Toroman (Packt account *required*)
 * [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf) - Iain Foulds (PDF)
 * [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
 * [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
@@ -427,15 +427,15 @@
 * [Computer Vision](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) - Richard Szeliski
 * [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com) - Simon J.D. Prince
-* [Mastering OpenCV 4, Third Edition](https://www.packtpub.com/free-ebooks/mastering-opencv-4-third-edition) - Roy Shilkrot, David Millán Escrivá (Packt account *required*)
+* [Mastering OpenCV 4, Third Edition] - Roy Shilkrot, David Millán Escrivá (Packt account *required*)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
 
 
 #### Containers
 
-* [Docker Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/docker-cookbook-second-edition) - Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare (Packt account *required*)
+* [Docker Cookbook, Second Edition] - Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare (Packt account *required*)
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
-* [Kubernetes Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition) - Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (Packt account *required*)
+* [Kubernetes Cookbook, Second Edition] - Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (Packt account *required*)
 
 
 #### Database
@@ -633,7 +633,7 @@
 * [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) (PDF)
 * [Game AI Pro](http://www.gameaipro.com) - Steve Rabin
 * [Game Programming Patterns](http://gameprogrammingpatterns.com) - Bob Nystrom
-* [Getting Real](http://gettingreal.37signals.com)
+* [Getting Real]
 * [Google Maps API Succinctly](https://www.syncfusion.com/ebooks/google_maps_api_succinctly) - Mark Lewin
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
 * [Hello SDL](https://lazyfoo.net/tutorials/SDL) - Lazy Foo' Productions
@@ -653,7 +653,7 @@
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
 * [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
-* [Mastering ROS for Robotics Programming, Second Edition](https://www.packtpub.com/free-ebooks/mastering-ros-robotics-programming-second-edition) - Lentin Joseph, Jonathan Cacace (Packt account *required*)
+* [Mastering ROS for Robotics Programming, Second Edition] - Lentin Joseph, Jonathan Cacace (Packt account *required*)
 * [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide) *(Leanpub account or valid email requested)*
 * [Modeling Reactive Systems with Statecharts](http://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html)
 * [MSIX Succinctly](https://www.syncfusion.com/ebooks/msix-succinctly) - Matteo Pagani
@@ -858,7 +858,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Reactive Microsystems: The Evolution of Microservices at Scale](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly) (email address *requested*)
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 * [Serverless apps: Architecture, patterns, and Azure implementation](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/)
-* [Serverless Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/serverless-design-patterns-and-best-practices) - Brian Zambrano (Packt account *required*)
+* [Serverless Design Patterns and Best Practices] - Brian Zambrano (Packt account *required*)
 * [Shape Up - Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) - Ryan Singer (PDF)
 * [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 * [Software Architecture Patterns](http://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)

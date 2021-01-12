@@ -125,6 +125,7 @@
 ### MySQL
 
 * [Bazy Danych MYSQL](https://miroslawzelent.pl/kurs-mysql/)
+* [Kurs MySQL](http://webmade.org/kursy-online/kurs-mysql.php) - Piotr Kuźmiński
 
 
 ### Perl
@@ -172,5 +173,6 @@
 
 ### SQL
 
+* [Kurs SQL](https://www.sqlpedia.pl/kurs-sql) - Jakub Kasprzak
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

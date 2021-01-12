@@ -249,7 +249,7 @@
 
 #### Mathematics
 
-* [Sage for Undergraduates](http://www.sage-para-estudiantes.com/) - Gregory Bard
+* [Sage for Undergraduates](http://www.sage-para-estudiantes.com) - Gregory Bard
 
 
 ### LaTeX

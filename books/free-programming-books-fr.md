@@ -159,7 +159,7 @@
 
 #### Mathematics
 
-* [Computational Mathematics with SageMath](http://sagebook.gforge.inria.fr/) - Paul Zimmermann et al. [(PDF)](http://dl.lateralis.org/public/sagebook/sagebook-web-20130530.pdf)
+* [Computational Mathematics with SageMath](http://sagebook.gforge.inria.fr) - Paul Zimmermann et al. [(PDF)](http://dl.lateralis.org/public/sagebook/sagebook-web-20130530.pdf)
 
 
 ### (La)TeX et associés

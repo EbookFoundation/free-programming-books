@@ -526,10 +526,10 @@
 
 * [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/) - Victor Shoup [(PDF)](https://shoup.net/ntb/ntb-v2.pdf)
 * [A First Course in Complex Analysis](http://math.sfsu.edu/beck/complex.html) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka [(PDF)](http://math.sfsu.edu/beck/papers/complex.pdf)
-* [A First Course in Linear Algebra](http://linear.ups.edu/) - Rob Beezer [(PDF)](http://linear.ups.edu/download/fcla-3.50-tablet.pdf)
+* [A First Course in Linear Algebra](http://linear.ups.edu) - Rob Beezer [(PDF)](http://linear.ups.edu/download/fcla-3.50-tablet.pdf)
 * [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary and Lars Kristiansen [(PDF)](https://milneopentextbooks.org/download/friendly-intro-2e-update19-pdf/)
 * [A Gentle Introduction to the Art of Mathematics](https://osj1961.github.io/giam/) - Joseph E. Fields [(PDF)](https://github.com/osj1961/giam/blob/master/GIAM.pdf?raw=true)
-* [Abstract Algebra: Theory and Applications](http://abstract.ups.edu/) - Tom Judson [(PDF)](http://abstract.ups.edu/download/aata-20200730.pdf)
+* [Abstract Algebra: Theory and Applications](http://abstract.ups.edu) - Tom Judson [(PDF)](http://abstract.ups.edu/download/aata-20200730.pdf)
 * [Active Calculus](https://scholarworks.gvsu.edu/books/20/) - Matt Boelkins [(PDF)](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1020&context=books)
 * [Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [Algebra: Abstract and Concrete](https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/algebrabook.html) - Frederick Goodman [(PDF)](https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/book.2.6.pdf)
@@ -538,7 +538,7 @@
 * [Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) - Allen Hatcher (PDF)
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser (PDF)
 * [Analytic Geometry (1922)](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - Lewis Parker Siceloff, George Wentworth, David Eugene Smith (PDF)
-* [APEX Calculus](https://www.apexcalculus.com/) - Gregory Hartman, Brian Heinold, Troy Siemers, and Dimplekumar Chalishajar
+* [APEX Calculus](https://www.apexcalculus.com) - Gregory Hartman, Brian Heinold, Troy Siemers, and Dimplekumar Chalishajar
 * [Applied Combinatorics](https://rellek.net/book/app-comb.html) - Mitchel T. Keller and William T. Trotter
 * [Applied Discrete Structures](https://faculty.uml.edu/klevasseur/ads2/) - Alan Doerr and Kenneth Levasseur [(PDF)](http://discretemath.org/ads-latex/ads.pdf)
 * [Basic Algebra](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
@@ -558,7 +558,7 @@
 * [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, and Elyse Yeager [(PDF)](https://www.math.ubc.ca/~CLP/CLP3/clp_3_mc_text.pdf) 
 * [CLP-4 Vector Calculus](https://www.math.ubc.ca/~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, and Elyse Yeager [(PDF)](https://www.math.ubc.ca/~CLP/CLP4/clp_4_vc_text.pdf) 
 * [Collaborative Statistics](http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
-* [Combinatorics Through Guided Discovery](https://bogart.openmathbooks.org/) - Kenneth Bogart [(PDF)](https://bogart.openmathbooks.org/pdf/ctgd.pdf)
+* [Combinatorics Through Guided Discovery](https://bogart.openmathbooks.org) - Kenneth Bogart [(PDF)](https://bogart.openmathbooks.org/pdf/ctgd.pdf)
 * [Complex Analysis](https://people.math.gatech.edu/~cain/winter99/complex.html) - George Cain
 * [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
@@ -579,7 +579,7 @@
 * [First Course in Algebra (1910)](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
 * [Foundations of Combinatorics with Applications](https://www.math.ucsd.edu/~ebender/CombText/) - Edward A. Bender and S. Gill Williamson (PDF)
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan (PDF)
-* [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com/) - Michael P. Hitchman [(PDF)](https://mphitchman.github.io/geometry/GCTscreen.pdf)
+* [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) - Michael P. Hitchman [(PDF)](https://mphitchman.github.io/geometry/GCTscreen.pdf)
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 * [How We Got from There to Here: A Story of Real Analysis](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers and Eugene Boman [(PDF)](https://milneopentextbooks.org/download/asora_ebook-pdf/)
 * [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead and J. Laurie Snell [(PDF)](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf)
@@ -612,13 +612,13 @@
 * [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 * [Number Theory: In Context and Interactive](http://math.gordon.edu/ntic/) - Karl-Dieter Crisman [(PDF)](http://math.gordon.edu/ntic/ntic.pdf)
 * [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
-* [Online Statistics Education](http://onlinestatbook.com/) - David Lane, lead author [(PDF)](http://onlinestatbook.com/Online_Statistics_Education.pdf)
+* [Online Statistics Education](http://onlinestatbook.com) - David Lane, lead author [(PDF)](http://onlinestatbook.com/Online_Statistics_Education.pdf)
 * [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel
 * [ORCCA: Open Resources for Community College Algebra](https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944) - Portland Community College [(PDF)](https://spot.pcc.edu/math/orcca/ed2/pdf/orcca-screenpdf.pdf)
 * [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikibooks
 * [Plane Geometry (1913)](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth and David Eugene Smith (PDF)
 * [Planes and Spherical Trigonometry (1915)](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth and David Eugene Smith (PDF)
-* [Precalculus](https://stitz-zeager.com/) - Carl Stitz and Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
+* [Precalculus](https://stitz-zeager.com) - Carl Stitz and Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Probability: Lectures and Labs](https://www.markhuberdatascience.org/probability-textbook) - Mark Huber [(PDF)](https://d71b37a6-f420-4d99-8d4f-f64245d5a10b.filesusr.com/ugd/c2b9b6_2738b4945c4042b9b9e4e22468947c4f.pdf)
@@ -633,7 +633,7 @@
 * [The Joy of Cryptography (2020)](https://web.engr.oregonstate.edu/~rosulekm/crypto/) - Mike Rosulek (PDF) (:construction: *in process*)
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
-* [Vector Calculus](http://www.mecmath.net/) - Michael Corral [(PDF)](http://www.mecmath.net/VectorCalculus.pdf)
+* [Vector Calculus](http://www.mecmath.net) - Michael Corral [(PDF)](http://www.mecmath.net/VectorCalculus.pdf)
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
 
 

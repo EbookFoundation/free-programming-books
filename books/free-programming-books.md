@@ -599,11 +599,11 @@
 * [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
 * [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde) - Evans M. Harrell II and James V. Herod
 * [Magic Squares and Cubes (1917)](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Anderson (PDF)
+* [Math in Society](https://www.opentextbookstore.com/mathinsociety/) - David Lippman [(PDF)](https://www.opentextbookstore.com/mathinsociety/current2.php?chapter=MathinSociety.pdf)
 * [Mathematical Analysis I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon [(PDF)](http://www.trillia.com/dA/zakon-analysisI-a4-one.pdf)
 * [Mathematical Discovery](https://classicalrealanalysis.info/com/Mathematical-Discovery.php) - Andrew M. Bruckner, Brian S. Thomson, and Judith B. Bruckner [(PDF)](http://classicalrealanalysis.info/com/documents/BTB-colorA.pdf)
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom [(PDF)](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1024&context=books)
-* [Math in Society](https://www.opentextbookstore.com/mathinsociety/) - David Lippman [(PDF)](https://www.opentextbookstore.com/mathinsociety/current2.php?chapter=MathinSociety.pdf)
 * [Mathematics, MTH101A](http://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
 * [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb) - Susan Holmes and Wolfgang Huber
 * [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain and James Herod

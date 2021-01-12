@@ -16,6 +16,8 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [React](#react)
+* [Language Agnostic](#language-agnostic)
+  * [Mathematics](#mathematics)
 * [LaTeX](#latex)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
@@ -140,6 +142,13 @@
 #### React
 
 * [React lernen und verstehen](https://lernen.react-js.dev) - Manuel Bieh (HTML)
+
+
+### Language Agnostic
+
+#### Mathematics
+
+* [Computational Mathematics with SageMath](http://sagebook.gforge.inria.fr/english.html) - Paul Zimmermann et al. [(PDF)](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf)
 
 
 ### LaTeX

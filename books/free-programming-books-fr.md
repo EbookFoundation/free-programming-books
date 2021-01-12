@@ -19,6 +19,8 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [jQuery](#jquery)
+* [Language Agnostic](#language-agnostic)
+  * [Mathematics](#mathematics)
 * [(La)TeX et associés](#latex-et-associés)
   * [Asymptote](#asymptote)
   * [LaTeX](#latex)
@@ -151,6 +153,13 @@
 
 * [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson et Joseph Fasel
 * [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr)
+
+
+### Language Agnostic
+
+#### Mathematics
+
+* [Computational Mathematics with SageMath](http://sagebook.gforge.inria.fr/) - Paul Zimmermann et al. [(PDF)](http://dl.lateralis.org/public/sagebook/sagebook-web-20130530.pdf)
 
 
 ### (La)TeX et associés

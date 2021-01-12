@@ -11,6 +11,8 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
+* [Language Agnostic](#language-agnostic)
+  * [Mathematics](#mathematics)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Perl](#perl)
@@ -85,6 +87,13 @@
 #### Node.js
 
 * [Node.js API 한글 번역 by outsideris](http://nodejs.sideeffect.kr/docs/)
+
+
+### Language Agnostic
+
+#### Mathematics
+
+* [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/) - William Stein [(PDF)](https://wstein.org/ent/ent_ko.pdf)
 
 
 ### LaTeX

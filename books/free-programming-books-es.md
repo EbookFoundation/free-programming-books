@@ -26,6 +26,8 @@
   * [jQuery](#jquery)
   * [node.js](#nodejs)
   * [React](#react)
+* [Language Agnostic](#language-agnostic)
+  * [Mathematics](#mathematics)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
@@ -241,6 +243,13 @@
 * [Descubre React](https://leanpub.com/descubre-react) - Javi Jiménez (HTML, PDF, EPUB, MOBI; Leanpub cuenta requerida)
 * [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish) (PDF, EPUB, MOBI; Leanpub cuenta requerida)
 * [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
+
+
+### Language Agnostic
+
+#### Mathematics
+
+* [Sage for Undergraduates](http://www.sage-para-estudiantes.com/) - Gregory Bard
 
 
 ### LaTeX

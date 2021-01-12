@@ -16,9 +16,8 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [React](#react)
-* [Language Agnostic](#language-agnostic)
-  * [Mathematics](#mathematics)
 * [LaTeX](#latex)
+* [Mathematik](#mathematik)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [Neo4j](#neo4j)
@@ -144,18 +143,16 @@
 * [React lernen und verstehen](https://lernen.react-js.dev) - Manuel Bieh (HTML)
 
 
-### Language Agnostic
-
-#### Mathematics
-
-* [Computational Mathematics with SageMath](http://sagebook.gforge.inria.fr/english.html) - Paul Zimmermann et al. [(PDF)](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf)
-
-
 ### LaTeX
 
 * [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
 * [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz)
+
+
+### Mathematik
+
+* [Calcul mathématique avec SAGE](http://sagebook.gforge.inria.fr/english.html) - Paul Zimmermann et al. [(PDF)](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf)
 
 
 ### Meta-Lists

@@ -25,10 +25,9 @@
   * [Metapost](#metapost)
   * [PGF/TikZ](#pgftikz)
   * [TeX](#tex)
-* [Language Agnostic](#language-agnostic)
-  * [Mathematics](#mathematics)
 * [Lisp](#lisp)
 * [Lua](#lua)
+* [Mathématiques](#math%C3%A9matiques)
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
@@ -155,13 +154,6 @@
 * [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr)
 
 
-### Language Agnostic
-
-#### Mathematics
-
-* [Computational Mathematics with SageMath](http://sagebook.gforge.inria.fr) - Paul Zimmermann et al. [(PDF)](http://dl.lateralis.org/public/sagebook/sagebook-web-20130530.pdf)
-
-
 ### (La)TeX et associés
 
 #### LaTeX
@@ -203,6 +195,11 @@
 
 * [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) - Francis Leboutte (PDF)
 * [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) - Robert Strandh et Irène Durand
+
+
+### Mathématiques
+
+* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr) - Paul Zimmermann et al. [(PDF)](http://dl.lateralis.org/public/sagebook/sagebook-web-20130530.pdf)
 
 
 ### Lua

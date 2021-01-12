@@ -26,10 +26,9 @@
   * [jQuery](#jquery)
   * [node.js](#nodejs)
   * [React](#react)
-* [Language Agnostic](#language-agnostic)
-  * [Mathematics](#mathematics)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Matemáticas](#matem%C3%A1ticas)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
   * [MongoDB](#mongodb)
@@ -245,13 +244,6 @@
 * [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
 
 
-### Language Agnostic
-
-#### Mathematics
-
-* [Sage for Undergraduates](http://www.sage-para-estudiantes.com) - Gregory Bard
-
-
 ### LaTeX
 
 * [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf) (PDF)
@@ -263,6 +255,11 @@
 * [BASH Scripting Avanzado: Utilizando Declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) (descarga directa)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
 * [El Manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now/)
+
+
+### Matemáticas
+
+* [Sage para Estudiantes de Pregrado](http://www.sage-para-estudiantes.com) - Gregory Bard
 
 
 ### .NET (C# / Visual Studio)

@@ -603,8 +603,8 @@
 * [Mathematical Discovery](https://classicalrealanalysis.info/com/Mathematical-Discovery.php) - Andrew M. Bruckner, Brian S. Thomson, and Judith B. Bruckner [(PDF)](http://classicalrealanalysis.info/com/documents/BTB-colorA.pdf)
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom [(PDF)](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1024&context=books)
-* [Mathematics, MTH101A](http://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
 * [Math in Society](https://www.opentextbookstore.com/mathinsociety/) - David Lippman [(PDF)](https://www.opentextbookstore.com/mathinsociety/current2.php?chapter=MathinSociety.pdf)
+* [Mathematics, MTH101A](http://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
 * [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb) - Susan Holmes and Wolfgang Huber
 * [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain and James Herod
 * [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)

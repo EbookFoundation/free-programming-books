@@ -1,5 +1,6 @@
 ### Index
 
+* [수학](#%EC%88%98%ED%95%99)
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
 * [C](#c)
@@ -11,8 +12,6 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
-* [Language Agnostic](#language-agnostic)
-  * [Mathematics](#mathematics)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Perl](#perl)
@@ -27,6 +26,11 @@
 * [Rust](#rust)
 * [Scratch](#scratch)
 * [Swift](#swift)
+
+
+### 수학
+
+* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/) - William Stein [(PDF)](https://wstein.org/ent/ent_ko.pdf)
 
 
 ### Amazon Web Service
@@ -87,13 +91,6 @@
 #### Node.js
 
 * [Node.js API 한글 번역 by outsideris](http://nodejs.sideeffect.kr/docs/)
-
-
-### Language Agnostic
-
-#### Mathematics
-
-* [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/) - William Stein [(PDF)](https://wstein.org/ent/ent_ko.pdf)
 
 
 ### LaTeX

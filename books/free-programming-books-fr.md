@@ -199,7 +199,7 @@
 
 ### Mathématiques
 
-* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr) - Paul Zimmermann et al. [(PDF)](http://dl.lateralis.org/public/sagebook/sagebook-web-20130530.pdf)
+* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr) - Paul Zimmermann et al.
 
 
 ### Lua

@@ -30,7 +30,7 @@
 
 ### 수학
 
-* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/) - William Stein [(PDF)](https://wstein.org/ent/ent_ko.pdf)
+* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/) - William Stein
 
 
 ### Amazon Web Service

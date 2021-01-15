@@ -38,6 +38,7 @@
 ### Python
 
 * [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
+* [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
 
 

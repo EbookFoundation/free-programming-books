@@ -27,6 +27,7 @@
   * [TeX](#tex)
 * [Lisp](#lisp)
 * [Lua](#lua)
+* [Mathématiques](#math%C3%A9matiques)
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
@@ -194,6 +195,11 @@
 
 * [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) - Francis Leboutte (PDF)
 * [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) - Robert Strandh et Irène Durand
+
+
+### Mathématiques
+
+* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr) - Paul Zimmermann et al.
 
 
 ### Lua

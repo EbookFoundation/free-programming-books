@@ -1,5 +1,6 @@
 ### Index
 
+* [수학](#%EC%88%98%ED%95%99)
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
 * [C](#c)
@@ -25,6 +26,11 @@
 * [Rust](#rust)
 * [Scratch](#scratch)
 * [Swift](#swift)
+
+
+### 수학
+
+* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/) - William Stein
 
 
 ### Amazon Web Service

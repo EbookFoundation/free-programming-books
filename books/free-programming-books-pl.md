@@ -157,6 +157,7 @@
 
 * [Biblioteka Pythona](http://www.python.rk.edu.pl) - Piotr Maliński
 * [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/) - Piotr Maliński
+* [Python dla wszystkich: Odkrywanie danych z Python 3](https://py4e.pl/book) - Charles Russell Severance (PDF, HTML, EPUB, MOBI)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 

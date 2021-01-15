@@ -248,6 +248,7 @@
 * [Introduction à l'analyse d'enquête avec R et RStudio](https://larmarange.github.io/analyse-R/) - Jospeh Lamarange et al. (PDF version also available)
 * [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) - Vincent Goulet (PDF)
 
+
 ### Ruby
 
 * [Ruby en vingt minutes](https://www.ruby-lang.org/fr/documentation/quickstart/)

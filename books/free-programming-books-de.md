@@ -152,7 +152,7 @@
 
 ### Mathematik
 
-* [Calcul mathématique avec SAGE](http://sagebook.gforge.inria.fr/english.html) - Paul Zimmermann et al.
+* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann et al. (PDF)
 
 
 ### Meta-Lists

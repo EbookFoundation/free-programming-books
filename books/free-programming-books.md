@@ -485,6 +485,7 @@
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
+* [Deep Learning for Coders with Fastai and PyTorch](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
 * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) - Eli Stevens, Luca Antiga, Thomas Viehmann (PDF)
 * [Dive into Deep Learning](http://d2l.ai)
 * [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland

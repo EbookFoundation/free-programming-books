@@ -1,31 +1,31 @@
 ### Index
 
-* [수학](#%EC%88%98%ED%95%99)
-* [Amazon Web Service](#amazon-web-service)
-* [Assembly Language](#assembly-language)
-* [C](#c)
-* [C++](#c-1)
-* [Docker](#docker)
-* [GIT](#git)
-* [Go](#go)
-* [HTML5](#html5)
-* [Java](#java)
-* [JavaScript](#javascript)
-  * [Node.js](#nodejs)
-* [LaTeX](#latex)
-* [Linux](#linux)
-* [Perl](#perl)
-* [PHP](#php)
-  * [Laravel](#laravel)
-* [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
-* [R](#r)
-* [Raspberry Pi](#raspberry-pi)
-* [Ruby](#ruby)
-* [Rust](#rust)
-* [Scratch](#scratch)
-* [Swift](#swift)
+- [Index](#index)
+- [수학](#수학)
+- [Amazon Web Service](#amazon-web-service)
+- [Assembly Language](#assembly-language)
+- [C](#c)
+- [C++](#c-1)
+- [Docker](#docker)
+- [GIT](#git)
+- [Go](#go)
+- [HTML5](#html5)
+- [Java](#java)
+- [JavaScript](#javascript)
+  - [Node.js](#nodejs)
+- [LaTeX](#latex)
+- [Linux](#linux)
+- [Perl](#perl)
+- [PHP](#php)
+  - [Laravel](#laravel)
+- [Python](#python)
+  - [Django](#django)
+  - [Flask](#flask)
+- [R](#r)
+- [Raspberry Pi](#raspberry-pi)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [Scratch](#scratch)
 
 
 ### 수학
@@ -40,7 +40,7 @@
 
 ### Assembly Language
 
-* [PC Assembly Language](http://pacman128.github.io/pcasm/) - Paul A. Carter
+* [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter
 
 
 ### C

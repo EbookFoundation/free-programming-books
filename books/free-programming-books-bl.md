@@ -5,8 +5,8 @@
 * [C](#c)
 * [C++](#c-plus-plus)
 * [Competitive Programming](#competitive-programming)
-* [CSS](#css)
 * [CSharp](#csharp)
+* [CSS](#css)
 * [Dart](#dart)
 * [Git](#git)
 * [HTML](#html)
@@ -50,18 +50,12 @@
 
 ### C Plus Plus
 
-* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam 
+* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 
 
 ### Competitive Programming
 
-* [Dynamic Programming Book](https://dp-bn.github.io) - Tasmeem Reza and Mamnoon Siam 
-
-
-### CSS
-
-* [CSS3 and CSS4 Weird Parts Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVD3oeT3ckKBmnc7krm-SZl2) - Stack Learner
-* [CSS Complete Course in Bangla 2021](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO) - Anisul Islam
+* [Dynamic Programming Book](https://dp-bn.github.io) - Tasmeem Reza and Mamnoon Siam
 
 
 ### CSharp
@@ -69,6 +63,12 @@
 * [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
 * [C# bangla tutorial | Basic to advance in depth bangla course](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt) - Learn Hunter
 * [C# OOP (object oriented programming) BanglaTutorials](https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p) - Asp Dot Net Explorer
+
+
+### CSS
+
+* [CSS3 and CSS4 Weird Parts Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVD3oeT3ckKBmnc7krm-SZl2) - Stack Learner
+* [CSS Complete Course in Bangla 2021](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO) - Anisul Islam
 
 
 ### Dart
@@ -79,8 +79,7 @@
 ### Git
 
 * [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s) - Learn with Sumit
-* [Git and Github in One Video (Theory + Practical) | A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA&t=787s) -
-SHAJ.T3CH
+* [Git and Github in One Video (Theory + Practical) | A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA&t=787s) - SHAJ.T3CH
 * [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF) - Stack Learner
 
 
@@ -176,3 +175,4 @@ SHAJ.T3CH
 ### Visual Studio Code
 
 * [VSCode Complete Tutorial Series | VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
+

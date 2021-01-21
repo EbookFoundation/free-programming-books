@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C++](#c++)
+* [C++](#c-plus-plus)
 * [Competitive Programming](#competitive-programming)
 * [JavaScript](#JavaScript)
 * [Machine Learning](#machine-learning)
@@ -16,7 +16,7 @@
 * [C - All you need to know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy) - Stack Learner
 
 
-### C++
+### C Plus Plus
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam 
 

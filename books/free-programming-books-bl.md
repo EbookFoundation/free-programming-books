@@ -1,6 +1,7 @@
 ### Index
 
 * [C](#c)
+* [C++](#c-plus-plus)
 * [Competitive Programming](#competitive-programming)
 * [JavaScript](#JavaScript)
 * [Machine Learning](#machine-learning)
@@ -10,7 +11,14 @@
 
 ### C
 
+* [C - All you need to know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy) - Stack Learner
+* [C Programming Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) - Anisul Islam
 * [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen 
+
+
+### C Plus Plus
+
+* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam 
 
 
 ### Competitive Programming

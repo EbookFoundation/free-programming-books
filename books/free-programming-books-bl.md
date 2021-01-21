@@ -5,7 +5,7 @@
 * [C](#c)
 * [C++](#c-plus-plus)
 * [Competitive Programming](#competitive-programming)
-* [CSharp](#csharp)
+* [C Sharp](#c-sharp)
 * [CSS](#css)
 * [Dart](#dart)
 * [Git](#git)
@@ -58,7 +58,7 @@
 * [Dynamic Programming Book](https://dp-bn.github.io) - Tasmeem Reza and Mamnoon Siam
 
 
-### CSharp
+### C Sharp
 
 * [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
 * [C# bangla tutorial | Basic to advance in depth bangla course](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt) - Learn Hunter

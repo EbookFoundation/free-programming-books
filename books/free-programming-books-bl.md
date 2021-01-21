@@ -1,4 +1,4 @@
-### Index
+# Index
 
 * [Android](#android)
 * [Bootstrap](#bootstrap)

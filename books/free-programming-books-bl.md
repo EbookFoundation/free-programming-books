@@ -4,7 +4,7 @@
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C++](#c-plus-plus)
-* [C Sharp](#c-sharp)
+* [CSharp](#csharp)
 * [Competitive Programming](#competitive-programming)
 * [CSS](#css)
 * [Dart](#dart)
@@ -53,7 +53,7 @@
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam 
 
 
-### C Sharp
+### CSharp
 
 * [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
 * [C# bangla tutorial | Basic to advance in depth bangla course](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt) - Learn Hunter

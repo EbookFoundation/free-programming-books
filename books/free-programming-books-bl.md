@@ -4,7 +4,7 @@
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C++](#c-plus-plus)
-* [C#](#c-sharp)
+* [C Sharp](#c-sharp)
 * [Competitive Programming](#competitive-programming)
 * [CSS](#css)
 * [Dart](#dart)

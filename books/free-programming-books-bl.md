@@ -3,7 +3,7 @@
 * [Android](#android)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C++](#c-plus-plus)
+* [C Plus Plus](#c-plus-plus)
 * [Competitive Programming](#competitive-programming)
 * [C Sharp](#c-sharp)
 * [CSS](#css)
@@ -48,7 +48,7 @@
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
 
 
-### C++
+### C Plus Plus
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 
@@ -175,6 +175,9 @@
 ### Visual Studio Code
 
 * [VSCode Complete Tutorial Series | VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
+
+
+
 
 
 

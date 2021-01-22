@@ -3,7 +3,7 @@
 * [Android](#android)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C++](#c-plus-plus)
+* [C Plus Plus](#c-plus-plus)
 * [Competitive Programming](#competitive-programming)
 * [C Sharp](#c-sharp)
 * [CSS](#css)

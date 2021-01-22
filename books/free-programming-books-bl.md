@@ -3,7 +3,7 @@
 * [Android](#android)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C Plus Plus](#c-plus-plus)
+* [C++](#c-plus-plus)
 * [Competitive Programming](#competitive-programming)
 * [C Sharp](#c-sharp)
 * [CSS](#css)
@@ -48,7 +48,7 @@
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
 
 
-### C Plus Plus
+### C++
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 

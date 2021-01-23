@@ -71,8 +71,8 @@
 
 ### Bootstrap
 
-* [Twitter Bootstrap](https://www.codehub.com.vn/Twitter-Bootstrap)
 * [Tự học Bootstrap 4 cơ bản](https://www.youtube.com/playlist?list=PLQi-dJ8Gqv2i1NHD8f-E2w-zrrr9G7HUJ) - VIETPRO
+* [Twitter Bootstrap](https://www.codehub.com.vn/Twitter-Bootstrap)
 
 
 ### C

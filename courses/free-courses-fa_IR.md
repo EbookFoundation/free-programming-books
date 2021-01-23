@@ -36,9 +36,9 @@
 
 ### Linux
 
+* [آموزش لینوکس - سکان‌آکادمی](https://sokanacademy.com/courses/linux) - Behzad Moradi
 * [LPIC-1](https://gotoclass.ir/courses/lpic-1) - Peyman Hushmandi Rad
 * [LPIC-2](https://gotoclass.ir/courses/lpic-2) - Jadi Mirmirani
-* [آموزش لینوکس - سکان‌آکادمی](https://sokanacademy.com/courses/linux) - Behzad Moradi
 
 
 ### Machine Learning
@@ -49,8 +49,8 @@
 
 ### PHP
 
-* [آموزش OOP در PHP - سکان‌آکادمی](https://sokanacademy.com/courses/php-oop) - Behzad Moradi
 * [آموزش پی‌اچ‌پی - سکان آکادمی](https://sokanacademy.com/courses/php/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-PHP) - Behzad Moradi
+* [آموزش OOP در PHP - سکان‌آکادمی](https://sokanacademy.com/courses/php-oop) - Behzad Moradi
 
 
 #### Codeigniter
@@ -60,10 +60,10 @@
 
 #### Laravel
 
-* [آموزش OAuth و Laravel Passport - سکان‌آکادمی](https://sokanacademy.com/courses/oauth-passport) - Sokan Academy
 * [آموزش کاربردی پکیج Laravel Excel - سکان‌آکادمی](https://sokanacademy.com/courses/laravelexcel) - Sokan Academy
 * [آموزش لاراول](https://roocket.ir/series/learn-laravel) - Hesam Mousavi
 * [آموزش لاراول](http://www.alefyar.com/laravel-tutorial) - Abolfazl Talebi
+* [آموزش OAuth و Laravel Passport - سکان‌آکادمی](https://sokanacademy.com/courses/oauth-passport) - Sokan Academy
 
 
 #### Yii

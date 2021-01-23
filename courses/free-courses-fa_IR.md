@@ -31,7 +31,7 @@
 * [آموزش جاوا - سکان‌آکادمی](https://sokanacademy.com/courses/java) - Behzad Moradi
 * [آموزش جاوا از صفر](https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1) - Mohammad Ghari
 * [برنامه نویسی پیشرفته(جاوا)](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%AC%D8%A7%D9%88%D8%A7-mk242) - Gholamali Nejad Hajali Irani
-* [برنامه‌نویسی حرفه‌ای تحت وب در جاوا](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AA%D8%AD%D8%AA-%D9%88%D8%A8-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-mk282) - Gholamali Nejad Hajali Irani 
+* [برنامه‌نویسی حرفه‌ای تحت وب در جاوا](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AA%D8%AD%D8%AA-%D9%88%D8%A8-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-mk282) - Gholamali Nejad Hajali Irani
 
 
 ### Linux
@@ -55,7 +55,7 @@
 
 #### Codeigniter
 
-* [طراحی وب Codeigniter](https://maktabkhooneh.org/course/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A8-Codeigniter-mk136) - 
+* [طراحی وب Codeigniter](https://maktabkhooneh.org/course/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A8-Codeigniter-mk136)
 
 
 #### Laravel
@@ -68,7 +68,7 @@
 
 #### Yii
 
-* [آموزش yii framework 2](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-yii-framework-2-mk205) - Mehrdad Seifzade 
+* [آموزش yii framework 2](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-yii-framework-2-mk205) - Mehrdad Seifzade
 
 
 ### Python
@@ -84,4 +84,4 @@
 
 ### Web Development
 
-* [برنامه نویسی وب](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74) - Mohammad Salehe 
+* [برنامه نویسی وب](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74) - Mohammad Salehe

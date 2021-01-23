@@ -1100,7 +1100,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [MIA 90-02: BETA Compiler - Reference Manual](https://beta.cs.au.dk/Manuals/latest/compiler/index.html) - Mjølner Informatics
 * [MIA 94-26: BETA Language Introduction - Tutorial](https://beta.cs.au.dk/Manuals/latest/beta-intro/index.html) - Mjølner Informatics
 * [MIA 99-41: BETA Language Modifications - Reference Manual](https://beta.cs.au.dk/Manuals/latest/beta/beta-index.html) - Mjølner Informatics
-* [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics 
+* [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
 * [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
 
 
@@ -2912,7 +2912,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Angular
 
 * [Angular 2+ Notes for Professionals](https://goalkicker.com/Angular2Book/) - Compiled from StackOverflow documentation (PDF)
-* [Angular Docs](https://angular.io/docs) 
+* [Angular Docs](https://angular.io/docs)
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma
 
 

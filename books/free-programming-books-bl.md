@@ -13,17 +13,17 @@
 
 * [C - All you need to know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy) - Stack Learner
 * [C Programming Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) - Anisul Islam
-* [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen 
+* [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen
 
 
 <h3 id="cpp">C++</h3>
 
-* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam 
+* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 
 
 ### Competitive Programming
 
-* [Dynamic Programming Book](https://dp-bn.github.io) - Tasmeem Reza and Mamnoon Siam 
+* [Dynamic Programming Book](https://dp-bn.github.io) - Tasmeem Reza and Mamnoon Siam
 
 
 ### JavaScript

@@ -2,7 +2,7 @@
 Add resource(s) | Remove resource(s) | Add info | Improve repo
 
 ## For resources
-### Description 
+### Description
 
 ### Why is this valuable (or not)?
 

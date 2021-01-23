@@ -48,8 +48,8 @@
 
 ### Linux
 
-* [أوبنتو السهل](http://librebooks.org/simply-ubuntu/)
 * [الإدارة المتقدمة لجنو/لينكس ](http://librebooks.org/gnu-linux-advanced-administration/)
+* [أوبنتو السهل](http://librebooks.org/simply-ubuntu/)
 * [دفتر مدير دبيان](http://librebooks.org/debian-handbook-arabic/)
 * [دليل إدارة خواديم أوبنتو](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/)
 

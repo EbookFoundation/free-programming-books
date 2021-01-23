@@ -3,7 +3,7 @@
 * [Algoritma ve Veri Yapıları](#algoritma-ve-veri-yapilari)
 * [Android](#android)
 * [C](#c)
-* [C++](#c-1)
+* [C++](#cpp)
 * [CSS](#css)
 * [D](#d)
 * [Dart](#dart)
@@ -48,7 +48,7 @@
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++ Dersleri](https://www.yusufsezer.com.tr/cpp-dersleri/) - Yusuf Sezer
 

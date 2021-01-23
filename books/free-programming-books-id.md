@@ -2,7 +2,7 @@
 
 * [Android](#android)
 * [C#](#c-sharp)
-* [C++](#cplusplus)
+* [C++](#cpp)
 * [CodeIgniter](#codeigniter)
 * [Deno](#deno)
 * [Emacs](#emacs)
@@ -32,7 +32,7 @@
 * [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/)
 
 
-### <a id="cplusplus"></a> C++
+<h3 id="cpp">C++</h3>
 
 * [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
 * [Koding C++ Dengan Qt](https://leanpub.com/koding-cpp-qt) *(Membutuhkan akun Leanpub atau email yang valid)*

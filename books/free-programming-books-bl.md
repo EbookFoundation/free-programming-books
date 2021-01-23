@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C++](#c-plus-plus)
+* [C++](#cpp)
 * [Competitive Programming](#competitive-programming)
 * [JavaScript](#JavaScript)
 * [Machine Learning](#machine-learning)
@@ -16,7 +16,7 @@
 * [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen 
 
 
-### C Plus Plus
+<h3 id="cpp">C++</h3>
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam 
 

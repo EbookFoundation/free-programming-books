@@ -1,7 +1,7 @@
 ### Cодержание
 
 * [Дизайн и Aрхитектура](#design-architecture)
-* [C++](#C++)
+* [C++](#cpp)
 * [Clojure](#clojure)
 * [CSS](#css)
 * [Go](#go)
@@ -31,7 +31,7 @@ ADV - Продвинутый. Тонкости.
 * [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Введение в программирование (C++)](https://stepik.org/course/363) - Stepik (BEG)
 

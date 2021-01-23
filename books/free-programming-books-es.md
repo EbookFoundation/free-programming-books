@@ -196,7 +196,7 @@
 * [Notas de Introducción al Lenguaje de Programación Java (2004)](http://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/cm/uploaded_files/publicaciones/476_cid03-Pensar%20la%20computacion.pdf) (PDF)
 * [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) (PDF) [(ePub, Mobi, HTML)](https://picodotdev.github.io/blog-bitix/2014/02/libro-sobre-desarrollo-de-aplicaciones-con-apache-tapestry/)
-* [Prácticas d Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) (PDF)
+* [Prácticas de Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) (PDF)
 * [Preparando JavaSun 6 - OCPJP6](https://github.com/PabloReyes/ocpjp-resumen-espanol#ocpjp6-resumen-español) - Pablo Reyes Almagro (Github) [(PDF)](https://github.com/PabloReyes/ocpjp-resumen-espanol/blob/master/OCPJP6%20Resumen.pdf)
 * [Programación en Java](http://elvex.ugr.es/decsai/java/) (HTML)
 * [Tutorial básico de Java EE](http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) (PDF)
@@ -348,7 +348,7 @@
 ### R
 
 * [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf) (PDF)
-* [Generacion automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf) (PDF)
+* [Generación automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf) (PDF)
 * [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf) (PDF)
 * [Introducción a R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf) (PDF)
 * [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf) (PDF)

@@ -1902,6 +1902,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### React
 
+* [React Book, your beginner guide to React](https://github.com/softchris/react-book/)
 * [Free React on Rails course](https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course)
 * [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/full-stack-react-projects) - Shama Hoque (Packt account *required*)
 * [Hacking with React](http://www.hackingwithreact.com)

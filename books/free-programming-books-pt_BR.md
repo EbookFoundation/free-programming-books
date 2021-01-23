@@ -6,7 +6,7 @@
 * [Android](#android)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
   * [Arquitetura de Software](#arquitetura-de-software)
@@ -82,7 +82,7 @@
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)

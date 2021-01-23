@@ -5,7 +5,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
@@ -71,7 +71,7 @@
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [CppKoans](https://github.com/torbjoernk/CppKoans)

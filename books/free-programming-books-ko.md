@@ -4,7 +4,7 @@
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
 * [C](#c)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Docker](#docker)
 * [GIT](#git)
 * [Go](#go)
@@ -49,7 +49,7 @@
 * [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [씹어먹는 C++](https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf) - 이재범 (PDF)
 

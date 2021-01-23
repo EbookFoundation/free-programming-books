@@ -2,7 +2,7 @@
 
 * [C](#c)
 * [C Sharp](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [JavaScript](#javascript)
 * [MySQL](#mysql)
 * [OpenGL](#opengl)
@@ -34,7 +34,7 @@
 * [Ohjelmointi 1: C#](https://jyx.jyu.fi/bitstream/handle/123456789/47417/978-951-39-4859-7.pdf) - Martti Hyvönen, Vesa Lappalainen, Antti-Jussi Lakanen (PDF)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++](https://fi.wikibooks.org/wiki/C%2B%2B) - Wikikirjasto
 * [C++-ohjelmointi](https://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=cpp_ohj_01)

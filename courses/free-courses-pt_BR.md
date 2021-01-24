@@ -4,7 +4,7 @@
 * [Angular](#angular)
 * [C](#c)
 * [C Sharp](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)
@@ -66,7 +66,7 @@
 * [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
 

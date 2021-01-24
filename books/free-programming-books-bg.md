@@ -2,7 +2,7 @@
 
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-plus-plus)
+* [C++](#cpp)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -23,7 +23,7 @@
 * [Програмиране за .NET Framework](http://www.devbg.org/dotnetbook/) - Светлин Наков и колектив
 
 
-### C Plus Plus
+<h3 id="cpp">C++</h3>
 
 * [Основи на програмирането със C++](https://cpp-book.softuni.bg) - Светлин Наков и колектив
 

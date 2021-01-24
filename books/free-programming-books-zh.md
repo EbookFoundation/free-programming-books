@@ -28,7 +28,7 @@
   * [AWK](#awk)
   * [C](#c)
   * [C#](#c-sharp)
-  * [C++](#c-1)
+  * [C++](#cpp)
   * [CoffeeScript](#coffeescript)
   * [Dart](#dart)
   * [Elasticsearch](#elasticsearch)
@@ -329,7 +329,7 @@
 * [精通C#(第6版)](http://book.douban.com/subject/24827879/)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)

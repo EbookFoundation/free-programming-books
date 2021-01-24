@@ -2,7 +2,7 @@
 
 * [Bash](#bash)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Git](#git)
 * [HTML](#html)
 * [Java](#java)
@@ -37,7 +37,7 @@
 * [Systémové programování v jazyce C#](https://phoenix.inf.upol.cz/esf/ucebni/sysprog.pdf) (PDF)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Moderní programování objektových aplikací v C++](https://akela.mendelu.cz/~xvencal2/CPP/opora.pdf) (PDF)
 * [Objektové programování v C++](http://media1.jex.cz/files/media1:49e6b94e79262.pdf.upl/07.%20Objektov%C3%A9%20programov%C3%A1n%C3%AD%20v%20C%2B%2B.pdf) (PDF)

@@ -5,6 +5,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [C Sharp](#c-sharp)
+* [C++](#cpp)
 * [Competitive Programming](#competitive-programming)
 * [CSS](#css)
 * [Dart](#dart)
@@ -51,6 +52,7 @@
 ### C++
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 
 
 ### C Sharp
@@ -58,11 +60,7 @@
 * [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
 * [C# bangla tutorial | Basic to advance in depth bangla course](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt) - Learn Hunter
 * [C# OOP (object oriented programming) BanglaTutorials](https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p) - Asp Dot Net Explorer
-
-
-### C Plus Plus
-
-* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam 
+* [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen
 
 
 ### Competitive Programming

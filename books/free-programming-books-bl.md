@@ -3,8 +3,8 @@
 * [Android](#android)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C Sharp](#c-sharp)
 * [C++](#c-1)
+* [C Sharp](#c-sharp)
 * [Competitive Programming](#competitive-programming)
 * [CSS](#css)
 * [Dart](#dart)
@@ -48,16 +48,16 @@
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
 
 
+### C++
+
+* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+
+
 ### C Sharp
 
 * [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
 * [C# bangla tutorial | Basic to advance in depth bangla course](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt) - Learn Hunter
 * [C# OOP (object oriented programming) BanglaTutorials](https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p) - Asp Dot Net Explorer
-
-
-### C++
-
-* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 
 
 ### C Plus Plus

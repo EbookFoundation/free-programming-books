@@ -1,6 +1,8 @@
 ### Index
 
 * [C](#c)
+* [C++](#cpp)
+* [Competitive Programming](#competitive-programming)
 * [JavaScript](#JavaScript)
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)
@@ -9,7 +11,19 @@
 
 ### C
 
-* [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen 
+* [C - All you need to know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy) - Stack Learner
+* [C Programming Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) - Anisul Islam
+* [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen
+
+
+<h3 id="cpp">C++</h3>
+
+* [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+
+
+### Competitive Programming
+
+* [Dynamic Programming Book](https://dp-bn.github.io) - Tasmeem Reza and Mamnoon Siam
 
 
 ### JavaScript
@@ -32,6 +46,7 @@
 ### Python
 
 * [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
+* [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
 
 

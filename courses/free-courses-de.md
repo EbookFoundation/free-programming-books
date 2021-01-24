@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C++](#c++)
+* [C++](#cpp)
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -11,7 +11,7 @@
 * [Spieleentwicklung](#spieleentwicklung)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++ Grundlagen Tutorials von Pilzschaf](https://www.youtube.com/playlist?list=PLStQc0GqppuVs05kWvLBoHcWCULX3ueIM) - Pilzschaf
 

@@ -2,7 +2,7 @@
 
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Java](#java)
 * [Pascal](#pascal)
 
@@ -17,7 +17,7 @@
 * [Object-oriented Programming in C#](http://people.cs.aau.dk/~normark/oop-csharp/pdf/all.pdf) - Kurt Nørmark (PDF)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Notes about C++](http://people.cs.aau.dk/~normark/ap/index.html) - Kurt Nørmark (HTML)
 

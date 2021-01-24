@@ -2,7 +2,7 @@
 
 * [C](#c)
 * [C Sharp](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [JavaScript](#javascript)
 * [MySQL](#mysql)
 * [OpenGL](#opengl)
@@ -34,18 +34,18 @@
 * [Ohjelmointi 1: C#](https://jyx.jyu.fi/bitstream/handle/123456789/47417/978-951-39-4859-7.pdf) - Martti Hyvönen, Vesa Lappalainen, Antti-Jussi Lakanen (PDF)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++](https://fi.wikibooks.org/wiki/C%2B%2B) - Wikikirjasto
 * [C++-ohjelmointi](https://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=cpp_ohj_01)
 * [C++-opas](http://www.nic.funet.fi/c++opas/) - Aleksi Kallio
-* [Olioiden ohjelmointi C++:lla](www.cs.tut.fi/~oliot/kirja/olioiden-ohjelmointi-uusin.pdf) - Matti Rintala, Jyke Jokinen (PDF)
+* [Olioiden ohjelmointi C++:lla](http://www.cs.tut.fi/~oliot/kirja/olioiden-ohjelmointi-uusin.pdf) - Matti Rintala, Jyke Jokinen (PDF)
 
 
 ### Java
 
 * [Olio-ohjelmointi Javalla](http://urn.fi/URN:ISBN:978-952-265-754-1) - Antti Herala, Erno Vanhala, Uolevi Nikula (PDF)
-* [Sopimuspohjainen olio-ohjelmointi Java-kielellä](staff.cs.utu.fi/staff/jouni.smed/SHR07-SPOO.pdf) - Jouni Smed, Harri Hakonen, Timo Raita (PDF)
+* [Sopimuspohjainen olio-ohjelmointi Java-kielellä](http://staff.cs.utu.fi/staff/jouni.smed/SHR07-SPOO.pdf) - Jouni Smed, Harri Hakonen, Timo Raita (PDF)
 
 
 ### JavaScript
@@ -80,7 +80,7 @@
 ### R
 
 * [Ohjelmointi ja tilastolliset menetelmät](https://users.syk.fi/~jhurri/otm/) - Jarmo Hurri (PDF)
-* [R: Opas ekologeille](http://cc.oulu.fi/~jarioksa/opetus/rekola/Rekola.pdf) - Jari Oksanen (PDF)
+* [R: Opas ekologeille](http://cc.oulu.fi/~tilel/rltk04/Rekola.pdf) - Jari Oksanen (PDF)
 
 
 ### Ruby

@@ -1,9 +1,15 @@
 ### Index
 
+* [Веб-разработка](#Веб-разработка)
 * [Git](#git)
 * [Python](#Python)
 * [SQL](#SQL)
-* [Веб-разработка](#Веб-разработка)
+
+
+### Веб-разработка
+
+* [Учитесь веб-разработке бесплатно!](http://codenamecrud.ru)
+* [Open source воркшопы](https://nodeschool.io/ru)
 
 
 ### Git
@@ -21,7 +27,3 @@
 * [SQL упражнения](https://www.sql-ex.ru/?Lang=0)
 
 
-### Веб-разработка
-
-* [Open source воркшопы](https://nodeschool.io/ru)
-* [Учитесь веб-разработке бесплатно!](http://codenamecrud.ru)

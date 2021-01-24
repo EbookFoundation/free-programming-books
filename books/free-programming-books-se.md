@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C++](#c-1)
+* [C++](#cpp)
 * [PHP](#php)
 
 
@@ -10,7 +10,7 @@
 * [C-programmering](https://sv.wikibooks.org/wiki/C-programmering) - Wikibooks
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Programmera spel i C++ för nybörjare](https://sv.wikibooks.org/wiki/Programmera_spel_i_C%2B%2B_f%C3%B6r_nyb%C3%B6rjare) - Wikibooks
 

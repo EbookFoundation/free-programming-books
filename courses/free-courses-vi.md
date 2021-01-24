@@ -58,7 +58,7 @@
 * [AngularJS Cơ Bản](https://www.youtube.com/watch?v=1MOFT2_-NII&list=PLRhlTlpDUWsw70vZAkJgALJ1yhgYsqDGx) - TEDU
 
 
-### ASP 
+### ASP
 
 * [Khóa học ASP.NET Core cơ bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-aspnet-core-co-ban-14.html) - TEDU
 
@@ -215,7 +215,7 @@
 
 ### TypeScript
 
-* [TypeScript căn bản](https://www.youtube.com/watch?v=L5mM4KWVyXE&list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb) - ZendVN 
+* [TypeScript căn bản](https://www.youtube.com/watch?v=L5mM4KWVyXE&list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb) - ZendVN
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU
 
 

@@ -194,7 +194,7 @@ There are lots of books that we list that don't have these attributes; it can de
 
 Sometimes these can be hard to distinguish!
 
-Courses often have associated textbooks, which we would list in our books lists. Courses have lectures, exercises, tests, notes or other didactic aids. A single lecture or video by itself is not a course. A powerpoint is not a course. 
+Courses often have associated textbooks, which we would list in our books lists. Courses have lectures, exercises, tests, notes or other didactic aids. A single lecture or video by itself is not a course. A powerpoint is not a course.
 
 
 ##### Interactive Tutorials vs. Other stuff

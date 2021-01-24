@@ -23,7 +23,7 @@
 * [AWK](#awk)
 * [Bash](#bash)
 * [C](#c)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Common Lisp](#common-lisp)
@@ -254,7 +254,7 @@
 * [猫でもわかるプログラミング](http://kumei.ne.jp/c_lang/) - 粂井康孝
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
 * [C++入門](http://www.asahi-net.or.jp/~yf8k-kbys/newcpp0.html) - 小林健一郎

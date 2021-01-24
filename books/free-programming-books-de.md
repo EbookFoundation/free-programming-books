@@ -6,7 +6,7 @@
 * [Assembly Language](#assembly-language)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Component Pascal](#component-pascal)
 * [Git](#git)
 * [Go](#go)
@@ -73,7 +73,7 @@
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de) - Boris Schäling (Online)
 * [Lean Testing für C++-Programmierer (2018)](https://www.assets.dpunkt.de/openbooks/Openbook_Lean_Testing.pdf) - Andreas Spillner, Ulrich Breymann (PDF)

@@ -3,7 +3,7 @@
 * [0 - Programozási nyelv független](#0---programozasi-nyelv-fuggetlen)
 * [Ada](#ada)
 * [Arduino](#arduino)
-* [C++](#c)
+* [C++](#cpp)
 * [HTML / CSS](#html-css)
 * [Java](#java)
 * [Lego Mindstorms](#lego-mindstorms)
@@ -37,7 +37,7 @@
 * [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans írása alapján fordította, kiegészítette és frissítette Cseh Róbert (PDF - regisztráció szükséges)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Fejlett programozási technikák](http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf) - Antal Margit (PDF)
 

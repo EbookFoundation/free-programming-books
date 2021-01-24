@@ -11,7 +11,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Elasticsearch](#elasticsearch)
@@ -154,7 +154,7 @@
 * [Design Patterns via C#](http://itvdn.com/ru/patterns) - Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов (PDF) *(Требуется аккаунт)*
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
 * [Введение в язык Си++](http://stolyarov.info/books/cppintro) - Андрей Столяров (PDF)
@@ -332,7 +332,7 @@
 * [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian) - Алексей Пыльцын (PDF, ePub, MOBI) *(Требуется аккаунт на Leanpub или действительный адрес электронной почты)*
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
-* [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/) 
+* [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/)
 
 
 #### Vue.js

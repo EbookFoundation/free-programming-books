@@ -1,11 +1,11 @@
 ### Index
 
-* [C++](#C++)
+* [C++](#cpp)
 * [Java](#java)
 * [Python](#python)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Мова програмування C++](https://stepik.org/course/67114) - Stepik
 

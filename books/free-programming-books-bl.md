@@ -49,7 +49,6 @@
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
 
 
-
 <h3 id="cpp">C++</h3>
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
@@ -62,14 +61,9 @@
 * [C# OOP (object oriented programming) BanglaTutorials](https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p) - Asp Dot Net Explorer
 
 
-
-
-
 ### Competitive Programming
 
 * [Dynamic Programming Book](https://dp-bn.github.io) - Tasmeem Reza and Mamnoon Siam
-
-
 
 
 ### CSS
@@ -99,8 +93,6 @@
 
 * [Java Bangla Tutorials | CORE Java | Complete OOP](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa) - Anisul Islam
 * [Java Swing Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l) - Anisul Islam
-
-
 
 
 ### JavaScript
@@ -184,12 +176,6 @@
 ### Visual Studio Code
 
 * [VSCode Complete Tutorial Series | VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
-
-
-
-
-
-
 
 
 

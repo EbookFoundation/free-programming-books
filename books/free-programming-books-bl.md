@@ -4,8 +4,8 @@
 * [Android](#android)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C++](#c-1)
 * [C Sharp](#c-sharp)
+* [C++](#c-1)
 * [Competitive Programming](#competitive-programming)
 * [CSS](#css)
 * [Dart](#dart)
@@ -17,8 +17,8 @@
 * [Kotlin](#kotlin)
 * [Machine Learning](#machine-learning)
 * [NodeJS](#nodejs)
-* [OOP](#oop)
 * [Misc](#misc)
+* [OOP](#oop)
 * [PHP](#php)
 * [Python](#python)
 * [ReactJS](#reactjs)
@@ -79,9 +79,9 @@
 
 ### Git
 
+* [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s) - Learn with Sumit
 * [Git and Github in One Video (Theory + Practical) | A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA&t=787s) - SHAJ.T3CH
 * [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF) - Stack Learner
-* [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s) - Learn with Sumit
 
 
 ### HTML
@@ -130,10 +130,10 @@
 
 ### OOP
 
-* [Object Oriented Programming Main Theory in Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCqNHQtxzS9LbeNRMG4AJmG) - Stack Learner
 * [Java and OOO. Learn Object Oriented with Real Example](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDS-5KCnZyPl0LKQ8m49CHM) - Stack Learner
 * [Java and OOP Basics](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB5kP3uxERI1rdrdrNifNwJ) - Stack Learner
 * [Java and OOP: Java Built in Classes and Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBNvGFN6eIre7xjfnb6aVfB) - Stack Learner
+* [Object Oriented Programming Main Theory in Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCqNHQtxzS9LbeNRMG4AJmG) - Stack Learner
 
 
 ### Misc

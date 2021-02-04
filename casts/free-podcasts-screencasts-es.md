@@ -67,4 +67,5 @@
 * [Red de Sospechosos Habituales](https://www.ivoox.com/podcast-red-sospechosos-habituales_sq_f1564393_1.html) (podcast)
 * [Reescribiendo el Código](https://open.spotify.com/show/6efO7Lp5LENT3jqR0sYIG5) (podcast)
 * [UGeek](https://ugeek.github.io) (podcast)
+* [Día30](https://www.dia30.mx/) (podcast)
 

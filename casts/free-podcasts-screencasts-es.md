@@ -61,11 +61,11 @@
 * [Educando Geek](https://educandogeek.github.io) (podcast)
 * [Frikismo Puro](https://www.ivoox.com/podcast-frikismo-puro_sq_f1268809_1.html) (podcast)
 * [Hijos de la Web](https://www.hijosdelaweb.com) (podcast) (Última Actualización, Marzo 2020)
-* [iCharlas](http://icharlas.es) (podcast)
 * [La Tecnologería](https://tecnologeria.com) (podcast)
 * [Mixx.io](https://mixx.io/podcasts) (podcast)
 * [Más allá de la innovación](https://masalladelainnovacion.com/todos-los-podcasts/) (podcast)
 * [Red de Sospechosos Habituales](https://www.ivoox.com/podcast-red-sospechosos-habituales_sq_f1564393_1.html) (podcast)
 * [Reescribiendo el Código](https://open.spotify.com/show/6efO7Lp5LENT3jqR0sYIG5) (podcast)
 * [UGeek](https://ugeek.github.io) (podcast)
+* [iCharlas](http://icharlas.es) (podcast)
 

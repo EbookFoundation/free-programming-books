@@ -24,3 +24,8 @@ Los casos de comportamiento abusivo, acosador o inaceptable pueden ser informado
 
 Este Código de Conducta está adaptado del [Pacto de Colaboradores][homepage],versión 1.3.0, disponible en [https://contributor-covenant.org/version/1/3/0/]
 
+
+### Info
+
+Para cualquier duda por favor contactad:
+edgar@nuwe.io 

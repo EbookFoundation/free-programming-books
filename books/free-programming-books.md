@@ -2411,7 +2411,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
 * [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) - Jake VanderPlas (PDF) [(EPUB, MOBI)](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp?download=yes)
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - Harry J.W. Percival & Bob Gregory (HTML)
-* [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
+* [Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/2e/chapter0/) - Al Sweigart (3.8)
+  * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/chapter0/) - Al Sweigart (3.4)
 * [Beej's Guide to Python Programming - For Beginners](http://beej.us/guide/bgpython/) - B. Hall (HTML,PDF)
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
 * [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)

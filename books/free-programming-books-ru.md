@@ -53,7 +53,6 @@
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
-* [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
   * [Ruby on Rails](#ruby-on-rails)
@@ -451,11 +450,6 @@
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
 * [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
-
-
-### Reverse engineering
-
-* [Введение в reverse engineering для начинающих](https://beginners.re/RE4B-RU.pdf) - Денис Юричев (PDF)
 
 
 ### Ruby

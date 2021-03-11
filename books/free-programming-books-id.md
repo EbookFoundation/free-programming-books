@@ -19,6 +19,7 @@
 * [Python](#python)
 * [React](#react)
 * [Vue](#vue)
+* [GUN/Linux](#linux)*
 
 
 ### Android

@@ -9,7 +9,7 @@
 * [Database](#database)
   * [SQL](#sql)
 * [Delphi](#delphi)
-* [DevOps](#devops]
+* [DevOps](#devops)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
 * [Erlang](#erlang)

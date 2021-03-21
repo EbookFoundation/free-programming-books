@@ -17,6 +17,7 @@
 * [Java](#Java)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
+* [Miscellaneous](#miscellaneous)
 * [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
@@ -131,6 +132,11 @@
 ### Machine Learning
 
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) (P. Savastano)
+
+
+### Miscellaneous
+
+* [Programmazione Basic Commodore 64](https://www.youtube.com/playlist?list=PLCbSCJEIR6CrVT003ytijkO6kUrCT9VIT) - M. Cicolella
 
 
 ### Mobile

@@ -19,7 +19,7 @@
 * [Blazor](#blazor)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Chapel](#chapel)
 * [Cilk](#cilk)
 * [Clojure](#clojure)
@@ -1689,6 +1689,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js) - Dr. Axel Rauschmayer
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
+* [JavaScript Interview #35](https://gumroad.com/l/javascript-interview-35) - Coderslang Master (PDF)
 * [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
 * [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite

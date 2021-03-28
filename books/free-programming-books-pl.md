@@ -5,7 +5,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Common Lisp](#common-lisp)
 * [Coq](#coq)
 * [CSS](#css)
@@ -52,7 +52,7 @@
 * [Beej’s Guide to Network Programming - U˙zywanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - B. Hall, Przełożył Bartosz Zapałowski (PDF)
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
 * [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
-* [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
+* [Podstawy programowania Unixa/Linuxa](https://old.opcode.eu.org/programing/c_cpp/)
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) - Wikibooks (PDF)
 * [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
@@ -67,7 +67,7 @@
 * [Wstęp do programowania w C#](http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++](https://pl.wikibooks.org/wiki/C++) - Wikibooks
 * [Język C++ – podstawy programowania](http://www.dz5.pl/ti/cpp/zz_dodatki/kurs_cpp_szczegolowy2.pdf) - Paweł Mikołajczak (PDF)
@@ -125,6 +125,7 @@
 ### MySQL
 
 * [Bazy Danych MYSQL](https://miroslawzelent.pl/kurs-mysql/)
+* [Kurs MySQL](http://webmade.org/kursy-online/kurs-mysql.php) - Piotr Kuźmiński
 
 
 ### Perl
@@ -156,6 +157,7 @@
 
 * [Biblioteka Pythona](http://www.python.rk.edu.pl) - Piotr Maliński
 * [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/) - Piotr Maliński
+* [Python dla wszystkich: Odkrywanie danych z Python 3](https://py4e.pl/book) - Charles Russell Severance (PDF, HTML, EPUB, MOBI)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 
@@ -172,5 +174,6 @@
 
 ### SQL
 
+* [Kurs SQL](https://www.sqlpedia.pl/kurs-sql) - Jakub Kasprzak
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

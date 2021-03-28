@@ -2,7 +2,7 @@
 
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-plus-plus)
+* [C++](#cpp)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -11,9 +11,9 @@
 
 ### C
 
+* [Програмиране = ++Алгоритми;](https://programirane.org/download-now/) - Преслав Наков и Панайот Добриков
 * [ANSI C - Курс за начинаещи](http://www.progstarter.com/index.php?option=com_content&view=article&id=8&Itemid=121&lang=bg) - Димо Петков
 * [ANSI C - Пълен справочник](http://progstarter.com/index.php?option=com_content&view=article&id=9&Itemid=122&lang=bg) - Димо Петков
-* [Програмиране = ++Алгоритми;](https://programirane.org/download-now/) - Преслав Наков и Панайот Добриков
 
 
 ### C Sharp
@@ -23,23 +23,23 @@
 * [Програмиране за .NET Framework](http://www.devbg.org/dotnetbook/) - Светлин Наков и колектив
 
 
-### C Plus Plus
+<h3 id="cpp">C++</h3>
 
 * [Основи на програмирането със C++](https://cpp-book.softuni.bg) - Светлин Наков и колектив
 
 
 ### Java
 
-* [Java за цифрово подписване на документи в уеб](https://nakov.com/books/signatures/) - Светлин Наков
 * [Въведение в програмирането с Java](https://introprogramming.info/intro-java-book/) - Светлин Наков и колектив
 * [Интернет програмиране с Java](https://nakov.com/books/inetjava/) - Светлин Наков
 * [Основи на програмирането с Java](https://java-book.softuni.bg) - Светлин Наков и колектив
+* [Java за цифрово подписване на документи в уеб](https://nakov.com/books/signatures/) - Светлин Наков
 
 
 ### JavaScript
 
-* [Eloquent JavaScript](https://to6esko.github.io) - Marijn Haverbeke (HTML)
 * [Основи на програмирането с JavaScript](https://js-book.softuni.bg) - Светлин Наков и колектив
+* [Eloquent JavaScript](https://to6esko.github.io) - Marijn Haverbeke (HTML)
 
 
 ### LaTeX

@@ -7,8 +7,11 @@ jobs:
     -
       language: node_js
       node_js:
-        - 6
+        - 14
       before_script:
         - npm install -g free-programming-books-lint
       script:
-        - fpb-lint .
+        - fpb-lint ./books/
+        - fpb-lint ./casts/
+        - fpb-lint ./courses/
+        - fpb-lint ./more/

@@ -5,7 +5,7 @@
 * [Brainfuck](#brainfuck)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [CSS](#css)
 * [HTML](#html)
 * [Java](#java)
@@ -42,7 +42,7 @@
 * [Podstawy programowania w języku C#](https://www.youtube.com/playlist?list=PLk5dbESAmUZh1cLITav0ZmDEqRujsPa93)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Kurs C++](https://www.youtube.com/playlist?list=PLE84826ABF088F7E8)
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB) - Mirosław Zelent, Damian Stelmach
@@ -51,11 +51,13 @@
 
 ### CSS
 
+* [Kurs CSS](http://www.kurshtmlcss.pl/kurs-css) (Netido Interactive Agency)
 * [Kurs CSS. Wygląd strony www - kaskadowe arkusze stylów - Pasja informatyki (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv) - Mirosław Zelent, Damian Stelmach
 
 
 ### HTML
 
+* [Kurs HTML](http://www.kurshtmlcss.pl/kurs-html) (Netido Interactive Agency)
 * [Kurs HTML](https://www.youtube.com/playlist?list=PLpwxuvBp359NntV2cLO5LaH6tmd6efmHH)
 * [Kurs HTML - od zera do Webmastera](https://www.youtube.com/playlist?list=PL0zYPqHK5yJWsIn3PIproSyxO3nchPd99)
 * [Kurs html i css](https://www.youtube.com/playlist?list=PLs8Otihb6zvfosmWesJ_lkJS_HzL58gSS)

@@ -27,8 +27,7 @@ gmail.com पर winorfelder में एक परियोजना अनु
 के रिपोर्टर के संबंध में गोपनीयता बनाए रखने के लिए बाध्य घटना।
 
 
-उनकी आचार संहिता से अनुकूलित है[Contributor Covenant][homepage], संस्करण 1.3.0, पर उपलब्ध
-[https://contributor-covenant.org/version/1/3/0/][version]
+उनकी आचार संहिता से अनुकूलित है [Contributor Covenant][होमपेज], संस्करण 1.3.0, पर उपलब्ध
+https://contributor-covenant.org/version/1/3/0/
 
 [होमपेज]: https://contributor-covenant.org
-[संस्करण]: https://contributor-covenant.org/version/1/3/0/

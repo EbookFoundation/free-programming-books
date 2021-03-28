@@ -4,11 +4,12 @@
 * [Angular](#angular)
 * [C](#c)
 * [C Sharp](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [Gulp](#gulp)
@@ -39,13 +40,13 @@
 
 ### Android
 
-* [Android Start - Curso Android - Java Kotlin e Flutter](https://www.udemy.com/android-start-curso-android-basico-java-kotlin-e-flutter/) - Buno de Libero Ferreira (Udemy)
 * [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
 * [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) - Unicamp (Coursera)
 
 
 ### Angular
 
+* [Começando com Angular](https://app.balta.io/courses/7181) - Andre Baltieri (balta.io)
 * [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 
@@ -65,7 +66,7 @@
 * [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
 
@@ -91,6 +92,12 @@
 ### Delphi
 
 * [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
+
+
+### Flutter
+
+* [Criando seu primeiro App com Flutter](https://app.balta.io/courses/7184) - Andre Baltieri (balta.io)
+* [Curso COMPLETO de Flutter](https://youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) - Flutterando (Youtube)
 
 
 ### Git
@@ -160,7 +167,7 @@
 ### JavaScript
 
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo
-* [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/starter) - Rocketseat
+* [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/discover/courses) - Rocketseat
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 
 
@@ -205,7 +212,6 @@
 ### Node.js
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
-* [Curso do Básico ao CRUD Node.js](https://app.rocketseat.com.br/node/curso-node-js) - *registration required*
 * [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (Youtube)
 * [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - Erick Wendel (Teachable)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
@@ -251,6 +257,7 @@
 * [Programação em Python: O Guia para Iniciantes](https://www.udemy.com/course/programacao-python-guia-para-iniciantes/) - Jones Granatyr (Udemy)
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
+* [Python Básico](https://solyd.com.br/treinamentos/python-basico) - Guilherme Junqueira (Solyd Offensive Security)
 * [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - Data Science Academy
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson (YouTube)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)

@@ -23,7 +23,7 @@
 * [ภาษา C#](http://marcuscode.com/lang/csharp) - MarcusCode
 
 
-### CPP
+<h3 id="cpp">C++</h3>
 
 * [ภาษา C++](http://marcuscode.com/lang/cpp) - MarcusCode
 
@@ -31,8 +31,8 @@
 ### Git
 
 * [มาเรียนรู้ Git แบบง่ายๆกันเถอะ](https://blog.nextzy.me/มาเรียนรู้-git-แบบง่ายๆกันเถอะ-427398e62f82) - Ake Exorcist
-* [สอน git และ github เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX) - prasertcbs
 * [สอนใช้ Git - Version Control System](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBrgVPZySWHZwxXSxdgOKhQ-) - CMDev
+* [สอน git และ github เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX) - prasertcbs
 
 
 ### JavaScript
@@ -61,8 +61,8 @@
 #### Vue.js
 
 * [เมื่อได้รับภารกิจสร้างระบบเข้าร่วม Event ผ่าน Line Liff](https://www.youtube.com/playlist?list=PLSy2hExy-WZN_fJSBbX7bsrAWsm3sbQg-) - CodeTraveler
-* [สอน VueJS + NuxtJS ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCMd24NIQTPcqHhfnK-QbPmD) - Geekstart
 * [สอนเขียน VueJS](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBry3sJDNrbqor5ikjwGDJ_7) - CMDev
+* [สอน VueJS + NuxtJS ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCMd24NIQTPcqHhfnK-QbPmD) - Geekstart
 
 
 ### Python

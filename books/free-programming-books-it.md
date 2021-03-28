@@ -12,7 +12,7 @@
 * [BASH](#bash)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-plus-plus)
+* [C++](#cpp)
 * [CSS](#css)
 * [Database](#database)
   * [NoSQL](#nosql)
@@ -103,7 +103,7 @@
 * [ABC# - Guida alla programmazione](http://antoniopelleriti.it/wp-content/uploads/2019/04/ABCsharp-guida-alla-programmazione-in-csharp.pdf) - A. Pelleriti (PDF)
 
 
-### C Plus Plus
+<h3 id="cpp">C++</h3>
 
 * [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) - (PDF)
 * [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) - (PDF)
@@ -155,7 +155,7 @@
 ### Java
 
 * [Appendici del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_Java9-Appendici.pdf) - C. De Sio Cesari (PDF)
-* [Esercitazioni di Spring Boot](https://www.emmecilab.net/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) - M. Cicolella (HTML)
+* [Esercitazioni di Spring Boot](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) - M. Cicolella (HTML)
 * [Esercizi del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_java9-esercizi.pdf) - C. De Sio Cesari (PDF)
 * [Esercizi di Java Avanzato](http://wpage.unina.it/m.faella/Didattica/LpII/archivio.pdf) - M. Faella  (PDF)
 * [Fondamenti di informatica - Java - Eserciziario](http://www.dei.unipd.it/~filira/fi/etc/eserciziario.pdf) (PDF)

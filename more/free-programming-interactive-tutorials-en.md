@@ -5,7 +5,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
@@ -71,7 +71,7 @@
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
@@ -85,7 +85,7 @@
 * [Try Clojure](http://www.tryclj.com)
 
 
-### Cloud Computing 
+### Cloud Computing
 
 * [AWS API Gateway](https://run.qwiklabs.com/focuses/269?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605949) - *registration required*
 * [AWS Identity and Access Management (IAM)](https://run.qwiklabs.com/focuses/7782?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605942) - *registration required*
@@ -159,7 +159,7 @@
 
 * [CodingBat code practice](http://codingbat.com/java)
 * [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
-* [Java Tutorial](https://www.w3schools.com/java) - W3Schools 
+* [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 

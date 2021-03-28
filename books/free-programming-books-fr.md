@@ -27,6 +27,7 @@
   * [TeX](#tex)
 * [Lisp](#lisp)
 * [Lua](#lua)
+* [Mathématiques](#math%C3%A9matiques)
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
@@ -139,7 +140,7 @@
 ### JavaScript
 
 * [JavaScript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
-* [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot 
+* [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot
 
 
 ### jQuery
@@ -196,6 +197,11 @@
 * [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) - Robert Strandh et Irène Durand
 
 
+### Mathématiques
+
+* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr) - Paul Zimmermann et al.
+
+
 ### Lua
 
 * [Introduction à la programmation Lua](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html)
@@ -245,6 +251,7 @@
 
 ### R
 
+* [Introduction à l'analyse d'enquête avec R et RStudio](https://larmarange.github.io/analyse-R/) - Jospeh Lamarange et al. (PDF version also available)
 * [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) - Vincent Goulet (PDF)
 
 

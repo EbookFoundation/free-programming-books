@@ -12,8 +12,8 @@
 
 ### Java
 
-* [Java Programming Concept](http://it.e-tech.ac.th/poohdevil/JavaConcepts/) - Rungrote Phonkam
 * [โครงสร้างข้อมูลฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/books/ds-vjjv/) - สมชาย ประสิทธิ์จูตระกูล
+* [Java Programming Concept](http://it.e-tech.ac.th/poohdevil/JavaConcepts/) - Rungrote Phonkam
 
 
 ### Python

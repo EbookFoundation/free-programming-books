@@ -40,7 +40,7 @@
 * [Angular](http://www.cs.tlu.ee/teemad/get_file.php?id=400) - Tallinna Ülikooli õppematerjal
 
 
-##### Vue 
+##### Vue
 
 * [Vue](http://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Tallinna ülikooli õppematerjal
 

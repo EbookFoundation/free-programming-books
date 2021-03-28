@@ -72,6 +72,7 @@
   * [Bootstrap](#bootstrap)
   * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
 * [HTTP](#http)
+* [HTTPS](#https)
 * [Icon](#icon)
 * [Idris](#idris)
 * [iOS](#ios)

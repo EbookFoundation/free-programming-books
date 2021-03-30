@@ -162,8 +162,8 @@
 * [Modelica](#modelica)
 * [MySQL](#mysql)
 * [Neo4J](#neo4j)
-* [.NET Framework](#net-framework)
 * [.NET Core / .NET](#net-core)
+* [.NET Framework](#net-framework)
 * [Nim](#nim)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)
@@ -1017,17 +1017,18 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Intro to ASPNET MVC 4 with Visual Studio 2011 Beta (2012)](http://download.microsoft.com/download/0/f/b/0fbfaa46-2bfd-478f-8e56-7bf3c672df9d/intro%20to%20asp.net%20mvc%204%20with%20visual%20studio%20-%20beta.pdf) - Rick Anderson and Scott Hanselman (PDF)
 * [Introducing ASP.NET Web Pages 2 (2012)](https://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Introducing%20ASP.NET%20Web%20Pages%202.pdf) - Mike Pope (PDF)
 
+
 ### ASP.NET Core
 
 * [ASP.NET Core 3.1 Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/asp-net-core-3-1-succinctly) - Simone Chiaretta, Ugo Lattanzi
 * [ASP.NET Core Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
 * [The Little ASP.NET Core Book (2018)](https://s3.amazonaws.com/recaffeinate-files/LittleAspNetCoreBook.pdf) - Nate Barbettini (PDF)
 
+
 #### Blazor
 
 * [Blazor: A Beginner's Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) - Ed Charbeneau (PDF) (email address *requested*, not required)
 * [Blazor for ASP.NET Web Forms Developers](https://dotnet.microsoft.com/download/e-book/blazor-for-web-forms-devs/pdf) - Daniel Roth, Jeff Fritz, Taylor Southwick (PDF)
-
 
 
 ### Assembly Language
@@ -2154,6 +2155,14 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Dr. Jim Webber and Rik Van Bruggen (PDF) *(email requested)*
 
 
+### .NET Core
+
+* [Clean Code .NET](https://github.com/thangchung/clean-code-dotnet)
+* [Entity Framework Core Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/entity-frame-work-core-succinctly) - Ricardo Peres
+* [.NET documentation - Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/)
+* [Using .NET Core, Docker, and Kubernetes Succinctly](https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly) - Michele Aponte
+
+
 ### .NET Framework
 
 * [Akka.NET Succinctly](https://www.syncfusion.com/ebooks/akka_net_succinctly) - Zoran Maksimovic
@@ -2171,13 +2180,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Under the Hood of .NET Memory Management](https://assets.red-gate.com/community/books/under-the-hood-of-net-memory-management.pdf) - Chris Farrell, Nick Harrison (PDF)
 * [Visual Studio .NET Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
 * [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole
-
-### .NET Core
-
-* [.NET documentation - Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/)
-* [Clean Code .NET](https://github.com/thangchung/clean-code-dotnet)
-* [Entity Framework Core Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/entity-frame-work-core-succinctly) - Ricardo Peres
-* [Using .NET Core, Docker, and Kubernetes Succinctly](https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly) - Michele Aponte
 
 
 ### Nim

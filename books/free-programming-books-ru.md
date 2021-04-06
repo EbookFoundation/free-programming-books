@@ -72,7 +72,7 @@
 ### 0 - Language Agnostic
 
 * [3D-моделирование в Blender](https://younglinux.info/blender.php) - C. Шапошникова
-* [Введение в структуры и алгоритмы обработки данных](http://dsabook.mkurnosov.net) - Михаил Курносов (PDF)
+* [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)

@@ -73,7 +73,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 ### Free Online Courses
 
 + [Bulgarian / български](courses/free-courses-bg.md)
-+ [Chinese (PRC)](courses/free-courses-zh_cn.md)
 + [English](courses/free-courses-en.md)
 + [Finnish](courses/free-courses-fi.md)
 + [French / français](courses/free-courses-fr.md)
@@ -97,6 +96,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 
 ### Interactive Programming Resources
 
++ [Chinese / 中文](courses/free-courses-zh_cn.md)
 + [English](more/free-programming-interactive-tutorials-en.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
 

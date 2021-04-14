@@ -1075,8 +1075,9 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Awk
 
 * [An Awk Primer](https://en.wikibooks.org/wiki/An_Awk_Primer) - Wikibooks
-* [Awk](http://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
+* [Awk](https://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
 * [Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual) - Arnold D. Robbins (HTML, PDF)
+* [GNU awk](https://learnbyexample.github.io/learn_gnuawk/) - Sundeep Agarwal
 
 
 ### Bash
@@ -2274,6 +2275,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
 * [Perl for the Web](http://www.globalspin.com/thebook/) - C. Radcliff
 * [Perl Notes for Professionals](https://goalkicker.com/PerlBook/) - Compiled from StackOverflow Documentation (PDF)
+* [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/) - Sundeep Agarwal
 * [Perl Training Australia - Course Notes](http://perltraining.com.au/notes.html)
 * [Plack Handbook](http://handbook.plackperl.org)
 * [SDL::Manual Writing Games in Perl](https://github.com/PerlGameDev/SDL_Manual)
@@ -2421,6 +2423,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Python
 
+* [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
 * [20 Python Libraries You Aren't Using (But Should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should) - Caleb Hattingh
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
 * [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
@@ -2657,6 +2660,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Ruby Koans](http://www.rubykoans.com)
 * [Ruby Learning](http://rubylearning.com)
 * [Ruby Notes for Professionals](https://goalkicker.com/RubyBook/) - Compiled from StackOverflow Documentation (PDF)
+* [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/) - Sundeep Agarwal
 * [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
 * [Ruby User's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/index.html)
 * [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
@@ -2790,7 +2794,8 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Sed
 
-* [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
+* [GNU sed](https://learnbyexample.github.io/learn_gnused/) - Sundeep Agarwal
+* [Sed - An Introduction and Tutorial](https://www.grymoire.com/Unix/Sed.html) - Bruce Barnett
 
 
 ### Self

@@ -96,6 +96,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 
 ### Interactive Programming Resources
 
++ [Chinese / 中文](more/free-programming-interactive-tutorials-zh.md)
 + [English](more/free-programming-interactive-tutorials-en.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
 

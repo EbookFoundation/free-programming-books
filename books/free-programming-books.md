@@ -1842,7 +1842,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### D3.js
 
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Malcolm Maclean
-* [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
+* [Dashing D3.js Tutorial](https://www.dashingd3js.com/d3-tutorial)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 

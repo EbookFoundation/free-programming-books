@@ -10,6 +10,7 @@
 * [Java](#java)
   * [Spring](#spring)
 * [JavaScript](#javascript)
+* [.NET](#net)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [QA](#qa)
@@ -90,6 +91,13 @@
 * [RadioJS](http://radiojs.ru) (Podcast)
 * [UnderJS podcast](https://underjs.ru) (Podcast)
 * [Webstandards](https://soundcloud.com/web-standards) (Podcast)
+
+
+### .NET
+
+* [DotNet & More](https://more.dotnet.ru) - Александр Кугушев и Артём Акуляков (Podcast)
+* [RadioDotNet](https://radio.dotnet.ru) - Анатолий Кулаков и Игорь Лабутин (Podcast)
+* [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Дмитрий Нестерук (Podcast)
 
 
 ### Node.js

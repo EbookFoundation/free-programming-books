@@ -11,6 +11,7 @@
 * [C#](#c-sharp)
 * [CSS](#css)
 * [ES6](#es6)
+* [Git](#git)
 * [Go](#go)
 * [HTML](#html)
 * [Java](#java)
@@ -27,6 +28,7 @@
 * [SQL](#sql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
+* [Vue](#vue)
 * [Wordpress](#wordpress)
 * [Xcode](#xcode)
 * [XML](#xml)
@@ -42,14 +44,17 @@
 * [Lập trình Android - Android Widgets - Các điều khiển](https://www.youtube.com/watch?v=2xDWeWllzWg&list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb) - ZendVN
 * [Lập trình Android - Menu - Context Menu - Dialog](https://www.youtube.com/watch?v=vS_InAnGUFA&list=PLv6GftO355Avjf5iuNbEUsIZbltzDEuIU) - ZendVN
 * [Lập trình Android - Xây dựng bố cục giao diện với Android Layout](https://www.youtube.com/watch?v=oxWDjizEN6g&list=PLv6GftO355AtfPQx7M3dkWgi9KPUB9S0V) - ZendVN
+* [Lập trình Android A-Z](https://www.youtube.com/watch?v=P60kcSaeFmg&list=PL5uqQAwS_KDjAgLGiaCakwJV1f4vRnTLS) - KhoaPham
 * [Lập trình Android cơ bản](https://www.youtube.com/watch?v=rcH4NbngPEk&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh) - Kteam
 * [Lập trình Android với Kotlin](https://www.youtube.com/watch?v=2CKuiSp_uOQ&list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - KhoaPham
+* [Lập trình Android với new Firebase](https://www.youtube.com/watch?v=S-lt4ReIodw&list=PLzrVYRai0riTLPLclyGuByHvZ8_tDZZIr) - KhoaPham
 
 
 ### Angular
 
 * [Angular 2 Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html) - TEDU
 * [Angular 4 Cơ Bản](https://www.youtube.com/watch?v=q8RdFZw-gjo&list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC) - KhoaPham
+* [Tự học Angular 5](https://www.youtube.com/watch?v=t6eHXbT6XT8&list=PLWBrqglnjNl1qQw2nH5O1A8W_DVC3xo-V) - Nguyen Duc Hoang
 
 
 ### AngularJS
@@ -115,6 +120,13 @@
 * [ES6 Cơ Bản](https://www.codehub.com.vn/ES6-Co-Ban)
 
 
+### Git
+
+* [Cách sử dụng Git trong THỰC TẾ | Github](https://youtu.be/O5uT6p6VWjY) - Ông Dev
+* [Git - from Zero to Hero](https://www.youtube.com/watch?v=0J2aou7Kj7s&list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q) - CodersX
+* [Từ gà tới pro Git và Github trong 20 phút - Tự học Git siêu tốc](https://youtu.be/1JuYQgpbrW0) - Phạm Huy Hoàng (toidicodedao)
+
+
 ### Go
 
 * [Golang Cơ Bản](https://www.codehub.com.vn/Golang-Co-Ban)
@@ -135,6 +147,8 @@
 
 ### JavaScript
 
+* [JavaScript A-Z 2020](https://www.youtube.com/watch?v=Oo9MAd40lbI&list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-) - CodersX
+* [JavaScript Advanced 2020](https://www.youtube.com/watch?v=Pb62kgDlbYo&list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP) - CodersX
 * [JavaScript Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-java-script-can-ban-12.html) - TEDU
 * [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban)
 
@@ -148,6 +162,8 @@
 ### MongoDB
 
 * [Giáo trình tự học NoSQL - MongoDB](https://www.youtube.com/watch?v=KQOPq0oO_R8&list=PLv6GftO355Aug0rwKfb6v96mlYrwOw7XV) - ZendVN
+* [MongoDB 2020](https://www.youtube.com/watch?v=gLklvBczap0&list=PLkY6Xj8Sg8-vgHI_wNWPHKdiRwlgQXaTR) - CodersX
+* [-OLD- Mongo DB cơ bản - RHP Team](https://www.youtube.com/watch?v=BKIc4dqmX9s&list=PLU4OBh9yHE94QAav7qIuaTtH9-pq39We8) - RHP Team
 
 
 ### NodeJS
@@ -181,6 +197,10 @@
 
 ### React
 
+* [Học lập trình React JS - Redux - NodeJS qua dự án thực tế](https://www.youtube.com/watch?v=7hoq-xoAOSc&list=PLmbxe7ftoDqSNf5yGMhbDNjIZIM5mQ7Ow) - Thầy FPT Nguyễn Đức Việt
+* [Học React Hooks cơ bản (2020)](https://www.youtube.com/watch?v=unFHsn0qSMA&list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m) - Easy Frontend
+* [Học redux cơ bản 2020](https://www.youtube.com/watch?v=Sq_Qt8PWf_Y&list=PLeS7aZkL6GOvCz3GiOtvtDXChJRuebb7S) - Easy Frontend
+* [Khóa Học Lập Trình React.js - Redux ( Reactjs redux tutorial )](https://www.youtube.com/watch?v=gL5HBA_1bDQ&list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp) - nghiepuit
 * [React.js Cơ Bản](https://www.youtube.com/watch?v=zrdXI6uZuW4&list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd)
 * [ReactJS - Demo các project trong khóa học](https://www.youtube.com/playlist?list=PLv6GftO355Av08p6Zi1I67VYw47nMS8xO) - ZendVN - Học Lập Trình Online
 
@@ -217,6 +237,13 @@
 
 * [TypeScript căn bản](https://www.youtube.com/watch?v=L5mM4KWVyXE&list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb) - ZendVN
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU
+
+
+### Vue
+
+* [Học Vue js trong một video duy nhất - learn vue js in one video](https://youtu.be/j97QtHf0CHY) - Lập trình viên TV (Bùi Văn Nguyện)
+* [Lập trình VueJS](https://www.youtube.com/watch?v=q1CNKjPPfdc&list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf) - ZendVN - Học Lập Trình Online
+* [-OLD- Vue JS cơ bản - RHP Team](https://www.youtube.com/watch?v=hZcAPYhcEmo&list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
 
 
 ### Workpress

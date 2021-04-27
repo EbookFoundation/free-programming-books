@@ -72,8 +72,8 @@
 * [C++ Intensive - برمجة الحاسوب](https://www.youtube.com/playlist?list=PLPt2dINI2MIZPFq6HyUB1Uhxdh1UDnZMS) - Arabic Competitive Programming
 * [C++ Object-Oriented Design and Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) - Arabic Competitive Programming
 * [C++ Programming Course Level 1 Basics By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQ_nQt-hKGAEIDJjTJBCV02) - محمد شوشان
-* [C++ Programming From Scratch In Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3) - Adel Nasim
 * [C++ Programming Course Level 2 Object Oriented Programming By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRUapI9yl1qwkdpS__UtqLd) - محمد شوشان
+* [C++ Programming From Scratch In Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3) - Adel Nasim
 * [CS Master - Level 0 - Intro to CS مقدمة لعلوم الحاسب](https://www.youtube.com/playlist?list=PLL2zWZTDFZzivM2GAL3HpuFrHlLwp6FoO) - KMR Script
 * [CS Master - Level 4 - Object Oriented Programming & Design Patterns](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhul3X8djkfXzUxl7Cw7-sF) - KMR Script
 * [Object-Oriented Programming C++ in Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) - Adel Nasim

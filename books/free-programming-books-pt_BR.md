@@ -114,6 +114,7 @@
 
 * [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
 * [Deploy em produção para desenvolvedores](https://leanpub.com/deployemprodparadevs) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
+* [Engenharia de Software Moderna](https://engsoftmoderna.info) - Marco Tulio Valente (HTML)
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
 

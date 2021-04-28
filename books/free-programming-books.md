@@ -1100,6 +1100,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Bash Academy](http://guide.bash.academy) - Maarten Billemont (HTML)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts, Jr. (PDF)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr. (HTML)
+* [GNU Bash manual](https://www.gnu.org/software/bash/manual/bash.pdf) (PDF)
 
 
 ### Basic

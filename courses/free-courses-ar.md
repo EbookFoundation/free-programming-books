@@ -97,22 +97,22 @@
 
 #### NoSQL
 
-* [MongoDB](https://www.youtube.com/playlist?list=PLF8OvnCBlEY1sdUym7Cnb5Xc3d7HXLjqf) - TheNewBaghdad
-* [MongoDB](https://www.youtube.com/playlist?list=PLfDx4cQoUNObp1ujQRNooNiadKdlflevM) - Algorithm Academy
-* [MongoDB](https://www.youtube.com/playlist?list=PLGhZWewM_75IILJm_1QDq0yPLbLQz_TCb) - Emam Academy
+* [Mongodb - دورة تعلم](https://www.youtube.com/playlist?list=PLfDx4cQoUNObp1ujQRNooNiadKdlflevM) - Algorithm Academy
+* [Mongodb - دورة قواعد بيانات(للكفيف)م](https://www.youtube.com/playlist?list=PLF8OvnCBlEY1sdUym7Cnb5Xc3d7HXLjqf) - TheNewBaghdad
+* [Mongodb - شرح قواعد البيانات](https://www.youtube.com/playlist?list=PLGhZWewM_75IILJm_1QDq0yPLbLQz_TCb) - Emam Academy
 
 
 #### SQL
 
 * [Arabic MySQL Essentials مبادئ ماي سكوال](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhBxhIJkhz-B-HulZUN6YzY) - KMR Script
 * [Database 1 - المقرر العملى - Learn SQL In Arabic](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484) - محمد الدسوقى
-* [MySQL](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9) - Elzero Web School
+* [Learn MySQL](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9) - Elzero Web School
 * [MySQL tutorials || بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad
 
 
 ### Game Development
 
-* [Godot](https://www.youtube.com/playlist?list=PLXUEZFpQn01Hp06m0MxlMzj8x5Y2n9Dek) - SpriteSheet
+* [Godot - تعلم الأساسيات لتصميم الألعاب](https://www.youtube.com/playlist?list=PLXUEZFpQn01Hp06m0MxlMzj8x5Y2n9Dek) - SpriteSheet
 * [Godot Engine](https://www.youtube.com/playlist?list=PLU8IixMdsBbm7qblHP6rEENpOPK0SAxes) - Whales State
 * [Unity 2D Game](https://www.youtube.com/playlist?list=PLltZRmsFXWnLp98IIM1CISQYWowq87YSp) - 6wrni
 * [Unity 3D Game](https://www.youtube.com/playlist?list=PLltZRmsFXWnKk5F3_ltKWKq6lZLveotIF) - 6wrni
@@ -120,7 +120,7 @@
 
 ### Git
 
-* [Git](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeCHLTRtwdLpQvle_zIavZ-) - أكاديمية ترميز
+* [Basic course for Git](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeCHLTRtwdLpQvle_zIavZ-) - أكاديمية ترميز
 * [Git and Github](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) - Elzero Web School
 * [GitHub - تعلم العمل المشترك على](https://www.youtube.com/playlist?list=PLF8OvnCBlEY0CRqKiYKwOtrH-75MGIuyM) -TheNewBaghdad
 * [Learn Git in Arabic](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy
@@ -172,22 +172,22 @@
 
 #### Gulp.js
 
-* [Gulp.js](https://www.youtube.com/playlist?list=PLfDx4cQoUNOaj10GLKu2YAcDQAMRvUgp0) - Algorithm Academy
-* [Gulp.js](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYXLQlBhKkc2bYIczytBc73) - Algorithm Academy
+* [Basic of Gulp.js](https://www.youtube.com/playlist?list=PLfDx4cQoUNOaj10GLKu2YAcDQAMRvUgp0) - Algorithm Academy
+* [Gulp.js - Workshop](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYXLQlBhKkc2bYIczytBc73) - Algorithm Academy
 
 
 #### jQuery
 
-* [jQuery](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwXDFEEpc8TT6MFbDAC5XNB) - Elzero Web School
-* [jQuery](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz0_Ujf9ZB9KceUzzSVYDci) - Elzero Web School
+* [Basic of jQuery](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwXDFEEpc8TT6MFbDAC5XNB) - Elzero Web School
+* [jQuery - Practical Examples and Create Apps](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz0_Ujf9ZB9KceUzzSVYDci) - Elzero Web School
 
 
 #### NodeJS
 
 * [Arabic Dive into Node JS Development الغوص في النود جي اس](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp) - KMR Script
+* [Learn Basic of NodeJS](https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7) - Emam Academy
 * [Learn NodeJS from zero to hero](https://www.youtube.com/playlist?list=PLfDx4cQoUNOa3EiUpjO04DVxEE9Ox12ta) - Algorithm Academy
-* [NodeJS](https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7) - Emam Academy
-* [NodeJS](https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub) - تخاريف مبرمج
+* [NodeJS - From Zero To Hero](https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub) - تخاريف مبرمج
 * [NodeJS Advanced Topics](https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS) - تخاريف مبرمج
 * [NodeJS Course (2017 - عربي)](https://www.youtube.com/playlist?list=PLrvHCesHYw38kFL6w-i6Rv85oS3L0sp-o) - برمجيات حسان
 * [NodeJS Create App](https://www.youtube.com/playlist?list=PLGhZWewM_75KPLx2otaSE4eBSYqiHmEmh) -
@@ -200,7 +200,7 @@ Emam Academy
 
 #### PugJs
 
-* [PugJs](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxckfbgAzwwxeoeBfi0y724) - Elzero Web School
+* [Learn PugJs](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxckfbgAzwwxeoeBfi0y724) - Elzero Web School
 
 
 #### React.js
@@ -212,8 +212,8 @@ Emam Academy
 
 #### Vue.js
 
-* [Vue.js](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxr5AqK3Yz4DWYKVSmIFziw) - Elzero Web School
-* [Vue.js App](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9) - Elzero Web School
+* [Basic of Vue.js](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxr5AqK3Yz4DWYKVSmIFziw) - Elzero Web School
+* [Vue.js Apps and Practical examples](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9) - Elzero Web School
 * [Vue.js Composition API](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZiOnKcf00l1NWC-xz-TV0h) - Algorithm Academy
 * [Vue.js Router Tutorial](https://www.youtube.com/playlist?list=PLfDx4cQoUNObtw2FtE4_eX_k9yCf-Fcd3) - Algorithm Academy
 

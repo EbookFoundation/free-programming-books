@@ -72,6 +72,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 
 ### Free Online Courses
 
++ [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
 + [Bulgarian / български](courses/free-courses-bg.md)
 + [English](courses/free-courses-en.md)
 + [Finnish](courses/free-courses-fi.md)

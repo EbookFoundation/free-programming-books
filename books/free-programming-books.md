@@ -999,7 +999,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm) (PDF)
 
 
-#### App Inventor
+### App Inventor
 
 * [App Inventor 2](http://www.appinventor.org/book2) - David Wolber, Hal Abelson, Ellen Spertus, Liz Looney
 

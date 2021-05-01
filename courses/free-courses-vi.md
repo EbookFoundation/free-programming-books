@@ -28,6 +28,7 @@
 * [SQL](#sql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
+* [Unity](#unity)
 * [Vue](#vue)
 * [Wordpress](#wordpress)
 * [Xcode](#xcode)
@@ -44,16 +45,17 @@
 * [Lập trình Android - Android Widgets - Các điều khiển](https://www.youtube.com/playlist?list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb) - ZendVN
 * [Lập trình Android - Menu - Context Menu - Dialog](https://www.youtube.com/playlist?list=PLv6GftO355Avjf5iuNbEUsIZbltzDEuIU) - ZendVN
 * [Lập trình Android - Xây dựng bố cục giao diện với Android Layout](https://www.youtube.com/playlist?list=PLv6GftO355AtfPQx7M3dkWgi9KPUB9S0V) - ZendVN
-* [Lập trình Android A-Z](https://www.youtube.com/playlist?list=PL5uqQAwS_KDjAgLGiaCakwJV1f4vRnTLS) - KhoaPham
+* [Lập trình Android A-Z](https://www.youtube.com/playlist?list=PL5uqQAwS_KDjAgLGiaCakwJV1f4vRnTLS) - Khoa Phạm
 * [Lập trình Android cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh) - Kteam
-* [Lập trình Android với Kotlin](https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - KhoaPham
-* [Lập trình Android với new Firebase](https://www.youtube.com/playlist?list=PLzrVYRai0riTLPLclyGuByHvZ8_tDZZIr) - KhoaPham
+* [Lập trình Android với Kotlin](https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - Khoa Phạm
+* [Lập trình Android với new Firebase](https://www.youtube.com/playlist?list=PLzrVYRai0riTLPLclyGuByHvZ8_tDZZIr) - Khoa Phạm
 
 
 ### Angular
 
 * [Angular 2 Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html) - TEDU
-* [Angular 4 Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC) - KhoaPham
+* [Angular 4 Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC) - Khoa Phạm
+* [Tự học Angular 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ) - CodersX
 * [Tự học Angular 5](https://www.youtube.com/playlist?list=PLWBrqglnjNl1qQw2nH5O1A8W_DVC3xo-V) - Nguyen Duc Hoang
 
 
@@ -112,7 +114,7 @@
 ### CSS
 
 * [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban)
-* [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - ThachPham
+* [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
 
 
 ### ES6
@@ -136,12 +138,12 @@
 ### HTML
 
 * [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban)
-* [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - ThachPham
+* [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
 
 
 ### Java
 
-* [Học Lập Trình Java Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaB4DMiP4wYbLjfszqKg89lL) - thân triệu
+* [Học Lập Trình Java Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaB4DMiP4wYbLjfszqKg89lL) - Thân Triệu
 * [Khóa học lập trình JavaFX](https://www.youtube.com/playlist?list=PL33lvabfss1yRgFCgFXjtYaGAuDJjjH-j) - Kteam
 
 
@@ -162,7 +164,7 @@
 ### MongoDB
 
 * [Giáo trình tự học NoSQL - MongoDB](https://www.youtube.com/playlist?list=PLv6GftO355Aug0rwKfb6v96mlYrwOw7XV) - ZendVN
-* [Mongo DB cơ bản - RHP Team](https://www.youtube.com/playlist?list=PLU4OBh9yHE94QAav7qIuaTtH9-pq39We8) - RHP Team
+* [Mongo DB cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE94QAav7qIuaTtH9-pq39We8) - RHP Team
 * [MongoDB 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-vgHI_wNWPHKdiRwlgQXaTR) - CodersX
 
 
@@ -170,19 +172,21 @@
 
 * [Lập Trình Nodejs Cơ Bản Tại Khoa Phạm](https://www.youtube.com/playlist?list=PLzrVYRai0riQXAXJL9rg62tBvwD0ltJn-) - Trung Tâm Đào Tạo Tin Học Khoa Phạm
 * [NodeJS Cơ Bản](https://www.codehub.com.vn/Node-js-Co-Ban)
-* [NodeJS cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE950LJR6uH_MqcgUC0-NCV2k) - RHP Team
+* [NodeJS Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE950LJR6uH_MqcgUC0-NCV2k) - RHP Team
 * [NodeJS Cơ Bản](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQEZp2kLIC7OE0E8OsObv0k8) - Ide Academy
+* [NodeJS Web Server Sử Dụng Express 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-s-m-qFBQFoeNSfpCTBiwMU) - CodersX
 
 
 ### Objective-C
 
-* [học lập trình objective-c miễn phí](https://www.youtube.com/playlist?list=PLgT92sqeoAUC6gHyrbdZTbulFF8qwxGSK) - Kênh học miễn phí qua video trên youtube
+* [Học lập trình objective-c miễn phí](https://www.youtube.com/playlist?list=PLgT92sqeoAUC6gHyrbdZTbulFF8qwxGSK) - Kênh học miễn phí qua video trên youtube
 * [Objective-C Cơ Bản](https://www.codehub.com.vn/Objective-C-Co-Ban)
 
 
 ### PHP
 
 * [PHP Cơ Bản](https://www.codehub.com.vn/PHP-Co-Ban)
+* [PHP Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE940f_T2IyAWHAjXhMxYFZky) - RHP Team
 * [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/playlist?list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
 * [Tự học PHP - Căn Bản](https://www.youtube.com/playlist?list=PLv6GftO355AulVlaWLp41kieNB9dTG1_l) - ZendVN
 * [Tự học PHP - Làm việc với ASNT](https://www.youtube.com/playlist?list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28) - ZendVN
@@ -192,18 +196,20 @@
 
 * [Lập trình website với Python Django](https://www.youtube.com/playlist?list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P) - Kteam
 * [Python Cơ Bản](https://www.codehub.com.vn/Python-Co-Ban)
-* [Python Cơ Bản](https://www.youtube.com/playlist?list=PLyiioioEJSxEh_S_XFvG0d2xKRMSWLfN_) - DayNhauHoc
+* [Python Cơ Bản](https://www.youtube.com/playlist?list=PLyiioioEJSxEh_S_XFvG0d2xKRMSWLfN_) - Dạy Nhau Học
 * [Python Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
 
 
 ### React
 
-* [Học lập trình React JS - Redux - NodeJS qua dự án thực tế](https://www.youtube.com/playlist?list=PLmbxe7ftoDqSNf5yGMhbDNjIZIM5mQ7Ow) - Thầy FPT Nguyễn Đức Việt
+* [Học lập trình React JS - Redux - NodeJS qua dự án thực tế](https://www.youtube.com/playlist?list=PLmbxe7ftoDqSNf5yGMhbDNjIZIM5mQ7Ow) - Thầy Nguyễn Đức Việt
 * [Học React Hooks cơ bản (2020)](https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m) - Easy Frontend
 * [Học redux cơ bản 2020](https://www.youtube.com/playlist?list=PLeS7aZkL6GOvCz3GiOtvtDXChJRuebb7S) - Easy Frontend
-* [Khóa Học Lập Trình React.js - Redux ( Reactjs redux tutorial )](https://www.youtube.com/playlist?list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp) - nghiepuit
+* [Khóa Học Lập Trình React.js - Redux](https://www.youtube.com/playlist?list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp) - nghiepuit
+* [Lập trình ReactJS với Redux](https://www.youtube.com/playlist?list=PLzrVYRai0riQFEN586LOz3eMv2Rgy6WXS) - Khoa Phạm
 * [React.js Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd)
 * [ReactJS - Demo các project trong khóa học](https://www.youtube.com/playlist?list=PLv6GftO355Av08p6Zi1I67VYw47nMS8xO) - ZendVN - Học Lập Trình Online
+* [Redux Cơ Bản](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tmotihDcWZN0LvtXFyxmRZ) - CodersX
 
 
 ### Ruby
@@ -213,13 +219,13 @@
 
 ### Sass
 
-* [Sass Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSWPPRE6Ib99zd5fV4YYH0Q) - KhoaPham
+* [Sass Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSWPPRE6Ib99zd5fV4YYH0Q) - Khoa Phạm
 * [Tự Học Sass](https://www.youtube.com/playlist?list=PLv6GftO355AtWld1EE7SBAH-OkKKt23Bb) - ZendVN
 
 
 ### SQL
 
-* [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - thân triệu
+* [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - Thân Triệu
 * [SQL Cơ Bản](https://www.codehub.com.vn/SQL-Co-Ban)
 * [SQL Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
 
@@ -228,6 +234,7 @@
 
 * [Hướng dẫn làm app bản đồ với MapKit](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQGCgMhgVx7zbyVj6HIC8aPH) - Ide Academy
 * [Kỹ thuật làm app camera scan QR code](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQGKBD6EVZXqPZr_YUbxXBMM) - Ide Academy
+* [Lập trình iOS cơ bản với Swift 3 và Xcode 8](https://www.youtube.com/playlist?list=PLzrVYRai0riSlAocQR3BvHCtEhcKa204E) - Khoa Phạm
 * [Swift 3 Căn Bản](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQFCBxdxUIS3h6h7wSTEHrPu) - Ide Academy
 * [Swift Căn Bản](https://www.youtube.com/playlist?list=PLq6u-dSlAr2QBxCn8pbcCK2cE8PMdbar8) - Gramy
 * [Tổng hợp các vấn đề mới và hóc búa trong Swift](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQGMYPnBh-2MqKhvWcPg9oNk) - Ide Academy
@@ -240,16 +247,30 @@
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU
 
 
+### Unity
+
+* [Học Lập Trình Game Unity3D - Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wO1v5j9J5PHsbkQRlmo7KD) - K team
+* [Học Lập Trình Game Unity3D - Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riS2khouy_siPTcR0ajoS8a6) - Khoa Phạm
+* [Học Lập Trình Game Unity3D - Cờ Vua 3D](https://www.youtube.com/playlist?list=PLqLksqdSk4b2VcB_yvIkqRPCymXE-q48e) - The Brown Box
+* [Học Lập Trình Game Unity3D - Doge Game](https://www.youtube.com/playlist?list=PL33lvabfss1xyYt5jGWqGlITZQCrNwHd6) - K team
+* [Học Lập Trình Game Unity3D - Flappy Bird](https://www.youtube.com/playlist?list=PLzrVYRai0riRwq876NCjZuulv5BjuDCBk) - Khoa Phạm
+* [Học Lập Trình Game Unity3D - Flappy Bird](https://www.youtube.com/playlist?list=PL33lvabfss1x9P0eiUcr8f-3g2mG-PNTz) - K team
+* [Học Lập Trình Game Unity3D - Game Sprider Cave](https://www.youtube.com/playlist?list=PLzrVYRai0riT-fZ_Wgi_NrELvqzbASetQ) - Khoa Phạm
+* [Học Lập Trình Game Unity3D - Zombie Hunter](https://www.youtube.com/playlist?list=PL33lvabfss1zGxMf1P-ReSoOoFN7L_jo0) - K team
+* [Lập Trình Game 2D Trên Unity3D](https://www.youtube.com/playlist?list=PLl-dkipSQUGcQQgvh9j8a75Sz4zx9vWo8) - U DEV
+
+
 ### Vue
 
-* [Học Vue js trong một video duy nhất - learn vue js in one video](https://www.youtube.com/watch?v=j97QtHf0CHY) - Lập trình viên TV (Bùi Văn Nguyện)
+* [Học Vue js trong một video duy nhất](https://www.youtube.com/watch?v=j97QtHf0CHY) - Lập trình viên TV (Bùi Văn Nguyện)
 * [Lập trình VueJS](https://www.youtube.com/playlist?list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf) - ZendVN - Học Lập Trình Online
-* [Vue JS cơ bản - RHP Team](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
+* [Vue JS cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
 
 
 ### Workpress
 
-* [WordPress Nâng Cao](https://www.youtube.com/playlist?list=PLl4nkmb3a8w3qzoFaXLsPohofWUMTOHBU) - ThachPham
+* [WordPress Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w3qzoFaXLsPohofWUMTOHBU) - Thạch Phạm
+* [WordPress Nâng Cao](https://www.youtube.com/playlist?list=PLl4nkmb3a8w3qzoFaXLsPohofWUMTOHBU) - Thạch Phạm
 * [Xây dựng Plugin Wordpress căn bản](https://www.youtube.com/playlist?list=PLv6GftO355AucJ4Td8_6h007nQuVJQsPN) - ZendVN
 
 

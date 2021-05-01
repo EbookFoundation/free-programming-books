@@ -1001,6 +1001,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### App Inventor
 
+* [Absolute App Inventor 2](https://rm3bukz.ga/read.php?id=Q4GxBgAAQBAJ) - Hossein Amerkashi
 * [App Inventor 2](http://www.appinventor.org/book2) - David Wolber, Hal Abelson, Ellen Spertus, Liz Looney
 
 

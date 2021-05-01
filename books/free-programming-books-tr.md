@@ -39,7 +39,6 @@
 * [Android Dersleri](https://umiitkose.com/android) - Ümit Köse
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
 * [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - Ümit Köse (PDF)
-* [Android Dersleri](https://bilisim.io/category/mobile/android) - Bilisimio
 
 
 ### C

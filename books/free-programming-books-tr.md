@@ -44,7 +44,6 @@
 ### C
 
 * [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - B. Hall, Çeviren Emre "FZ" Sevinç (HTML)
-* [C Programlama Diline Giriş](https://www.gantep.edu.tr/~bingul/c/index.php) - Ahmet Bingül
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
 
 
@@ -92,7 +91,7 @@
 
 ### iOS
 
-* [iOS Geleceği Yazanlar](https://www.gelecegiyazanlar.turkcell.com.tr/konu/ios)
+* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
 
 ### Java

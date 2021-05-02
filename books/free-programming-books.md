@@ -6,6 +6,7 @@
 * [Alef](#alef)
 * [Android](#android)
 * [APL](#apl)
+* [App Inventor](#app-inventor)
 * [Arduino](#arduino)
 * [ASP.NET](#aspnet)
 * [ASP.NET Core](#aspnet-core)
@@ -996,6 +997,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A Practical Introduction to APL3 & APL4](http://robertson.uk.net) - Graeme Donald Robertson (PDF)
 * [Introduction to College Mathematics with A Programming Language (1978)](http://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E. J. LeCuyer (PDF)
 * [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm) (PDF)
+
+
+### App Inventor
+
+* [Absolute App Inventor 2](https://amerkashi.wordpress.com/2015/02/16/absolute-app-inventor-2-book/) - Hossein Amerkashi
+* [App Inventor 2](http://www.appinventor.org/book2) - David Wolber, Hal Abelson, Ellen Spertus, Liz Looney
 
 
 ### Arduino

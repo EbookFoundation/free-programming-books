@@ -111,6 +111,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 
 Free Podcasts and Screencasts:
 
++ [Arabic / al arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)

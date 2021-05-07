@@ -1,4 +1,4 @@
-*این متن را در زبان‌های دیگر بخوانید: [简体中文](CONTRIBUTING-zh.md)、[繁體中文](CONTRIBUTING-zh-TW.md).*
+*این متن را در زبان‌های دیگر بخوانید: [English](CONTRIBUTING.md)、[简体中文](CONTRIBUTING-zh.md)、[繁體中文](CONTRIBUTING-zh-TW.md)、[Tiếng Việt](CONTRIBUTING-vn.md).*
 <div dir="rtl">
 
 ## توافقنامه‌ی مجوز همکاری

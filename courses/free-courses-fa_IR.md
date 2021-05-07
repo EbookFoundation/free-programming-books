@@ -37,7 +37,7 @@
 
 ### JavaScript
 
--   [آموزش جاوا اسکریپت برای مبتدیان](https://www.youtube.com/watch?v=xOhYrN1NK4w) - Mansour Kalagar
+-   [آموزش جاوا اسکریپت برای مبتدیان](https://youtube.com/playlist?list=PLV6mGBuPqmYuZEAJN7IBxkdNCzKXAGpqD) - Mansour Kalagar
 
 
 ### Linux

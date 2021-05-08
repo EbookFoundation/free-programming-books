@@ -50,6 +50,7 @@
 ### Android
 
 * [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial)
+* [Android Tutorial - Tutlane](https://www.tutlane.com/tutorial/android)
 
 
 ### Bash
@@ -69,6 +70,7 @@
 * [Codeasy](https://codeasy.net/course/csharp_elementary)
 * [Learn C#](http://www.learncs.org)
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
+* [C# Tutorial - Tutlane](https://www.tutlane.com/tutorial/csharp)
 
 
 <h3 id="cpp">C++</h3>
@@ -154,6 +156,7 @@
 #### Bootstrap
 
 * [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
+* [Bootstrap Tutorial - Tutlane](https://www.tutlane.com/tutorial/bootstrap)
 
 
 ### Java
@@ -190,6 +193,7 @@
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
+* [AngularJS Tutorial - Tutlane](https://www.tutlane.com/tutorial/angularjs)
 
 
 #### jQuery
@@ -241,6 +245,7 @@
 
 * [Node School](http://nodeschool.io)
 * [Node.js Tutorial](https://www.w3schools.com/nodejs) - W3Schools
+* [Node.js Tutorial - Tutlane](https://www.tutlane.com/tutorial/nodejs)
 
 
 ### NoSQL
@@ -281,6 +286,7 @@
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
+* [Python Tutorial - Tutlane](https://www.tutlane.com/tutorial/python)
 
 
 ### Ruby
@@ -313,6 +319,7 @@
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQLBolt](http://sqlbolt.com)
+* [SQL Server Tutorial - Tutlane](https://www.tutlane.com/tutorial/sql-server)
 
 
 ### Vim

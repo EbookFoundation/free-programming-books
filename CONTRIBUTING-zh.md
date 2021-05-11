@@ -1,4 +1,4 @@
-*阅读本文的其他语言版本：[English](CONTRIBUTING.md)、[繁體中文](CONTRIBUTING-zh-TW.md)、[فارسی](CONTRIBUTING-fa_IR.md).*
+*阅读本文的其他语言版本：[English](CONTRIBUTING.md)、[繁體中文](CONTRIBUTING-zh-TW.md)、[فارسی](CONTRIBUTING-fa_IR.md)、[Tiếng Việt](CONTRIBUTING-vn.md).*
 
 
 ## 贡献者许可协议

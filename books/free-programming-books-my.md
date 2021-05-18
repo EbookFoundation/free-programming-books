@@ -3,6 +3,7 @@
 * [HTML](#meta-lists)
 * [Linux](#linux)
 * [Python](#python)
+* [Javascript](#javascript)
 * [Web Development](#web-development)
 
 
@@ -14,6 +15,10 @@
 ### HTML
 
 * [HTML](https://books.saturngod.net/HTML5/) - Saturngod
+
+ ### Javascript 
+
+ * [Javascript](https://github.com/aye-nyeinSan/Programming-Books/blob/main/JavaScript-Book-by-Ei-Maung.pdf) - Ei Maung
 
 
 ### Python

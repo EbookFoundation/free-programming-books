@@ -55,6 +55,7 @@
 
 ### Variados
 
+* [Code on the Rocks](http://codeontherocks.fm) (podcast)
 * [Cosas de Internet](https://cosasdeinternet.fm/episodios) (podcast)
 * [Día30](https://www.dia30.mx) (podcast)
 * [Doomling & Chill](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNGM2ZjE5MC9wb2RjYXN0L3Jzcw==) (podcast)
@@ -65,7 +66,7 @@
 * [La Tecnologería](https://tecnologeria.com) (podcast)
 * [Más allá de la innovación](https://masalladelainnovacion.com/todos-los-podcasts/) (podcast)
 * [Mixx.io](https://mixx.io/podcasts) (podcast)
+* [NoSoloTech](https://www.ivoox.com/podcast-nosolotech-podcast_sq_f1851397_1.html) (podcast)
 * [Red de Sospechosos Habituales](https://www.ivoox.com/podcast-red-sospechosos-habituales_sq_f1564393_1.html) (podcast)
 * [Reescribiendo el Código](https://open.spotify.com/show/6efO7Lp5LENT3jqR0sYIG5) (podcast)
 * [UGeek](https://ugeek.github.io) (podcast)
-

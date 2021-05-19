@@ -545,6 +545,7 @@
 
 ### Misc
 
+* [Advanced Adobe XD (Web Design)](https://webdesign.tutsplus.com/courses/advanced-adobe-xd-for-everyone) - Adi Purdila
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
 * [Advanced NLP using spaCy](https://course.spacy.io) - Ines Montani
 * [AI Courses](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html) - Intel Corporation

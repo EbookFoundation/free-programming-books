@@ -1,4 +1,3 @@
-[Computer_Networking_A_Top-Down_Approach_6th_edition_ (2).pdf](https://github.com/Manjuphoenix/free-programming-books/files/6535001/Computer_Networking_A_Top-Down_Approach_6th_edition_.2.pdf)
 
 ### Index
 
@@ -735,7 +734,7 @@
 #### Networking
 
 * [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)
-* [Computer networking a top-down approach 6th edition Anany Levitin]
+* [Computer_Networking_A_Top-Down_Approach_6th_edition_Anany Levitin.pdf](https://github.com/Manjuphoenix/free-programming-books/files/6535001/Computer_Networking_A_Top-Down_Approach_6th_edition_.2.pdf)
 * [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)

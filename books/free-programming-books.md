@@ -1,4 +1,4 @@
-[Uploading Computer_Networking_A_Top-Down_Approach_6th_edition_ (2).pdf…]()
+
 ### Index
 
 * [ABAP](#abap)
@@ -735,7 +735,6 @@
 
 * [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)
 * [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
-* [Computer Networking a top-down apporach 6th edition - Anany Levitin] (https://github.com/Manjuphoenix/free-programming-books/blob/master/books/free-programming-books.md)
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson and Bruce Davie (HTML, epub, mobi, PDF)

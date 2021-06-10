@@ -38,7 +38,7 @@
 
 ### Android
 
-* [Android e Java](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2) - F. Camuso (Java)
+* [Corso Java - Android](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2) - F. Camuso (YouTube)
 
 ### Algoritmi e Strutture Dati
 

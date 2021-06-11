@@ -40,6 +40,7 @@
 
 * [Corso Java - Android](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2) - F. Camuso (YouTube)
 
+
 ### Algoritmi e Strutture Dati
 
 * [AlgoMOOC - Algoritmi quotidiani](https://www.youtube.com/watch?v=opHFKVuDiYM&list=PLjTV6y5YWc5HNnLyXkzUe9IlkG2n6guxU) - A. Bogliolo

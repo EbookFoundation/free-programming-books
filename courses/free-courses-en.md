@@ -379,6 +379,7 @@
 * [Java Online Training \| Edureka](https://www.youtube.com/watch?v=hBh_CC5y8-s) - (Edureka)
 * [Java Programming](https://testautomationu.applitools.com/java-programming-course/) - Angie Jones (Applitools)
 * [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) - (Coursera)
+* [Java tutorial for beginners](https://youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1) - Bro Code (YouTube)
 * [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
 * [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/)
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
@@ -386,7 +387,6 @@
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
 * [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
-* [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo) - Bro Code (YouTube)
 
 
 ### JavaScript

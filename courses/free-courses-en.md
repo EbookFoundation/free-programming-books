@@ -386,6 +386,7 @@
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
 * [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
+* [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo) - Bro Code (YouTube)
 
 
 ### JavaScript

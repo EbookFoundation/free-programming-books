@@ -1,5 +1,5 @@
-### Index
-
+### Index 
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/)
 * [ABAP](#abap)
 * [Ada](#ada)
 * [Agda](#agda)

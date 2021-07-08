@@ -161,6 +161,7 @@
 * [Git. La guía simple](http://rogerdudler.github.io/git-guide) (HTML)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es)
 * [Pro Git](http://git-scm.com/book/es/)
+* [Pro Git v2](http://git-scm.com/book/es/v2)
 
 
 ### Go

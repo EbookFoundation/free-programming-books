@@ -133,6 +133,7 @@
 
 ### R
 
+* [Data Wrangling with dplyr and tidyr cheetsheet (U.1/15)](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) - RStudio.com (PDF)
 * [RStudio cheetsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 
 

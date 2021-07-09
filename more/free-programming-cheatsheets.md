@@ -133,7 +133,7 @@
 
 ### R
 
-* [Title](url)
+* [RStudio cheetsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 
 
 ### Ruby

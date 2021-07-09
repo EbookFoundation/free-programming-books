@@ -2576,8 +2576,8 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/docs) - Wes McKinney and the Pandas Development Team
-  * [HTML zipped format](https://pandas.pydata.org/docs/pandas.zip)
-  * [PDF format](https://pandas.pydata.org/docs/pandas.pdf)
+  * [HTML zipped format](https://pandas.pydata.org/docs/pandas.zip) (HTML)
+  * [PDF format](https://pandas.pydata.org/docs/pandas.pdf) (PDF)
 
 
 #### Pyramid

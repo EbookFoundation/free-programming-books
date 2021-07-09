@@ -134,6 +134,7 @@
 ### R
 
 * [Data Wrangling with dplyr and tidyr cheetsheet (U.1/15)](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) - RStudio.com (PDF)
+* [Domar datos con dplyr and tidyr - Hoja de referencia](https://github.com/rstudio/cheatsheets/raw/master/translations/spanish/data-wrangling-cheatsheet_Spanish.pdf) - RStudio.com & Frans van Dunné of ixpantia (PDF - Spanish)
 * [RStudio cheetsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 
 

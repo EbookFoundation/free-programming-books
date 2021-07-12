@@ -49,8 +49,8 @@ ADV - Продвинутый. Тонкости.
 
 ### Dart
 
-* [Основы Dart](https://stepik.org/course/92982) - Stepik (BEG)
-* [Основы Dart](https://stepik.org/course/97479) - Stepik (BEG)
+* [Основы Dart](https://stepik.org/course/92982) - Анна Музыкина (Stepik) (BEG)
+* [Основы Dart](https://stepik.org/course/97479) - Станислав Чернышев (Stepik) (BEG)
 
 
 ### Go

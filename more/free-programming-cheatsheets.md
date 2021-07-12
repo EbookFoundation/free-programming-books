@@ -18,6 +18,7 @@
 * [MongoDB](#mongodb)
 * [Perl](#Perl)
 * [Python](#python)
+* [R](#R)
 * [Ruby](#ruby)
 * [SQL](#sql)
 
@@ -128,6 +129,11 @@
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
+
+
+### R
+
+* [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 
 
 ### Ruby

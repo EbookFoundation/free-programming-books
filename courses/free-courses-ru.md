@@ -4,6 +4,7 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [CSS](#css)
+* [Dart](#dart)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML](#html)
@@ -44,6 +45,12 @@ ADV - Продвинутый. Тонкости.
 ### CSS
 
 * [CSS для начинающих](https://ru.code-basics.com/languages/css) (BEG)
+
+
+### Dart
+
+* [Основы Dart](https://stepik.org/course/92982) - Анна Музыкина (Stepik) (BEG)
+* [Основы Dart](https://stepik.org/course/97479) - Станислав Чернышев (Stepik) (BEG)
 
 
 ### Go
@@ -123,7 +130,8 @@ ADV - Продвинутый. Тонкости.
 ### Python
 
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
-* ["Поколение Python": курс для начинающих](stepik.org/course/58852) - Stepik (BEG)
+* ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) - Stepik (BEG)
+* ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343) - Stepik (INT)
 * [Программирование на Python](https://stepik.org/course/67) - Stepik (BEG)
 * [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG)
 * [Python для начинающих](https://ru.code-basics.com/languages/python) (BEG)

@@ -63,6 +63,7 @@
 * [Smalltalk](#smalltalk)
 * [SQL](#sql)
   * [PostgreSQL](#postgresql)
+  * [FirebirdSQL](#firebirdsql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
 * [Unix](#unix)
@@ -518,6 +519,12 @@
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
 * [PostgreSQL для начинающих](https://postgrespro.ru/education/books/introbook) (PDF)
 
+#### FirebirdSQL
+* [Краткое руководство по миграции на Firebird 4.0] (https://github.com/sim1984/fbmigrgd40/releases/download/1.0/doc.rus.pdf)(PDF)
+* [Руководство по языку Firebird 4.0] (https://www.ibase.ru/files/firebird/Firebird_4_0_Language_Reference_RUS.pdf?v=20210523) (PDF)
+* [Руководство по языку Firebird 3.0] (https://www.ibase.ru/files/firebird/Firebird_3_0_Language_Reference_RUS.pdf) (PDF)
+* [Руководство по аппаратному обеспечению для Firebird] (https://www.ibase.ru/files/firebird/Firebird_Hardware_Guide_2015_rus.pdf) (PDF)
+* [Руководство по написанию UDR на Pascal] (https://github.com/sim1984/udr-book/releases/download/1/udr.pdf)(PDF)
 
 ### Swift
 

@@ -49,6 +49,7 @@
 
 ### Android
 
+* [Android Tutorial](https://www.tutlane.com/tutorial/android)
 * [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial)
 
 
@@ -66,6 +67,7 @@
 ### C Sharp
 
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
+* [C# Tutorial](https://www.tutlane.com/tutorial/csharp)
 * [Codeasy](https://codeasy.net/course/csharp_elementary)
 * [Learn C#](http://www.learncs.org)
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
@@ -153,6 +155,7 @@
 
 #### Bootstrap
 
+* [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap)
 * [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
 
@@ -188,6 +191,7 @@
 * [Angular Basics](http://www.angularjsbook.com)
 * [Angular Tutorial](https://www.w3schools.com/angular/) - W3Schools
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [AngularJS Tutorial](https://www.tutlane.com/tutorial/angularjs)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 
@@ -241,6 +245,7 @@
 
 * [Node School](http://nodeschool.io)
 * [Node.js Tutorial](https://www.w3schools.com/nodejs) - W3Schools
+* [Node.js Tutorial](https://www.tutlane.com/tutorial/nodejs)
 
 
 ### NoSQL
@@ -281,6 +286,7 @@
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
+* [Python Tutorial](https://www.tutlane.com/tutorial/python)
 
 
 ### Ruby
@@ -313,6 +319,7 @@
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQLBolt](http://sqlbolt.com)
+* [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server)
 
 
 ### Vim

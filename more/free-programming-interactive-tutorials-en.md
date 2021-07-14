@@ -163,6 +163,7 @@
 * [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
+* [Using RxJava 2 Tutorial](https://www.vogella.com/tutorials/RxJava/article.html) - Lars Vogel, Simon Scholz
 
 
 ### JavaScript

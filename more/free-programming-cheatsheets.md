@@ -42,7 +42,7 @@
 
 <h3 id="cpp">C++</h3>
 
-* [C++ Quick Reference](https://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) (PDF)
+* [C++ Quick Reference](http://www.hoomanb.com/cs/QuickRef/CppQuickRef.pdf) (PDF)
 
 
 ### Clojure

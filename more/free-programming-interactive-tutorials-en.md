@@ -37,6 +37,7 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Selenium](#selenium)
 * [Scala](#scala)
 * [SQL](#sql)
 * [Vim](#vim)

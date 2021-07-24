@@ -13,6 +13,7 @@
   * [Node.js](#nodejs)
   * [React](#react)
 * [Kotlin](#kotlin)
+* [Perl](#perl)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
@@ -56,6 +57,7 @@ ADV - Продвинутый. Тонкости.
 ### Go
 
 * [Программирование на Golang](https://stepik.org/course/54403) - Stepik (BEG)
+* [Go (Golang) - первое знакомство](https://stepik.org/course/100208) - Stepik (BEG)
 
 
 ### Haskell
@@ -110,6 +112,11 @@ ADV - Продвинутый. Тонкости.
 
 * [Введение в Kotlin JVM](https://stepik.org/course/5448) - Stepik (BEG)
 * [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792) - Stepik (BEG)
+
+
+### Perl
+
+* [Введение в Perl](https://stepik.org/course/3039) - Stepik (BEG)
 
 
 ### PHP

@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
 plugins:
   - jemoji
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - CODE_OF_CONDUCT.md
+

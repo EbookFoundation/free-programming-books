@@ -246,6 +246,7 @@
 
 * [Ｃプログラミング診断室](http://www.pro.or.jp/~fuji/mybooks/cdiag/) - 藤原博文
 * [C言語](https://ja.wikibooks.org/wiki/C%E8%A8%80%E8%AA%9E) - Wikibooks
+* [C言語のドキュメント](https://docs.microsoft.com/ja-jp/cpp/c-language) - Microsoft Docs
 * [C言語プログラミング入門](http://densan-labs.net/tech/clang/) - @nishio_dens
 * [お気楽Ｃ言語プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/clang.html) - 広井誠
 * [ゲーム作りで学ぶ！実践的C言語プログラミング](http://densan-labs.net/tech/game/) - @nishio_dens
@@ -331,11 +332,13 @@
 
 ### Go
 
-* [Goプログラミング言語のチュートリアル](http://golang.jp/go_tutorial) - 株式会社エイベル
-* [Tour of Go 日本語版](http://go-tour-jp.appspot.com/welcome/1) - atotto
+* [Go Codereview Comments](https://knsh14.github.io/translations/go-codereview-comments/) - Kenshi Kamata
+* [Go Web プログラミング](https://astaxie.gitbooks.io/build-web-application-with-golang/content/ja/) - AstaXie
 * [お気楽 Go 言語プログラミング入門](http://www.nct9.ne.jp/m_hiroi/golang/) - 広井誠
-* [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/) - 株式会社ユニリタ
-* [実践Go言語](http://golang.jp/effective_go) - 株式会社エイベル
+* [サンプルで学ぶ Go 言語](https://www.spinute.org/go-by-example/) - Mark McGranaghan, spinute(翻訳)
+* [テスト駆動開発でGO言語を学びましょう](https://andmorefine.gitbook.io/learn-go-with-tests/) - Christopher James, andmorefine(翻訳)
+* [はじめてのGo―シンプルな言語仕様，型システム，並行処理](https://gihyo.jp/dev/feature/01/go_4beginners) - Jxck
+* [プログラミング言語 Go ドキュメント](http://go.shibu.jp) - The Go Authors, SHIBUKAWA Yoshiki 他(翻訳)
 
 
 ### Groovy
@@ -397,6 +400,7 @@
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
 * [The little book of Buster.JS](https://the-little-book-of-busterjs.readthedocs.io/en/latest/) - azu
 * [お気楽 JavaScript プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/light/javascript.html) - 広井誠
+* [とほほのJavaScriptリファレンス](https://www.tohoho-web.com/js) - 杜甫々
 * [一撃必殺JavaScript日本語リファレンス](http://www.openspc2.org/JavaScript/) - 古籏一浩
 * [中上級者になるためのJavaScript](https://kenju.gitbooks.io/js_step-up-to-intermediate/) - Kenju
 
@@ -439,6 +443,7 @@
 * [Julia 0.3.8](https://stats.biopapyrus.jp/julia) - 孫建強
 * [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
 * [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
+* [物理で使う数値計算入門：Julia言語による簡単数値計算](https://github.com/cometscome/Julianotes) - 永井佑紀
 
 
 ### LaTeX

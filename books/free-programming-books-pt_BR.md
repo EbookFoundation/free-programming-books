@@ -135,7 +135,7 @@
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
 * [Go - hands on](https://github.com/go-br/estudos)
-* [Go por Exemplo](http://goporexemplo.golangbr.org/)
+* [Go por Exemplo](http://goporexemplo.golangbr.org/) - Mark McGranaghan 
 
 ### Haskell
 

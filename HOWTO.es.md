@@ -2,12 +2,12 @@ Lea esto en otros idiomas: [English](HOWTO.md), [简体中文](HOWTO-zh.md), [�
 
 Sea bienvenido a *Free-Programming-Books*! Damos una calurosa bienvenida a los nuevos colaboradores; incluso a aquellos que realizan su primera pull request (PR) en Github. Si es usted uno de ellos, aquí van algunos recursos que quizás le pueden ayudar:
 
-* [About Pull Requests](https://help.github.com/articles/about-pull-requests/)
-* [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [Github Hello World](https://guides.github.com/activities/hello-world/)
-* [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [Acerca de las Pull Requests](https://docs.github.com/es/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+* [Creando una pull request](https://docs.github.com/es/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+* [Github Hola Mundo](https://guides.github.com/activities/hello-world/) (en inglés)
+* [Youtube - Tutorial Github para principiantes](https://www.youtube.com/watch?v=0fKg7e37bQE) (en inglés)
+* [Youtube - Como bifurcar un repositorio GitHub y Enviar una Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) (en inglés)
+* [Youtube - Curso intensivo de Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) (en inglés)
 
 
 No se quede nunca con la duda ni tenga miedo de hacer preguntas; todo colaborador que usted ve en el repositorio, comenzó en su día con una primera PR. ¡Qué tal si es nuestro mil-milésimo primer!

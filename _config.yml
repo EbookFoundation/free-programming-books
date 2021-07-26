@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 plugins:
   - jemoji
+include:
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - CODE_OF_CONDUCT.md

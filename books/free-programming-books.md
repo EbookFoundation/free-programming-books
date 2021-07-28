@@ -2727,8 +2727,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/) - Steve J Donovan
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) - Alexis Beingessner
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
-* [Rust For Systems Programmers](https://github.com/nrc/r4cppp) - Nick Cameron
 * [Rust for Rubyists](https://web.archive.org/web/20190520171322/http://www.rustforrubyists.com/book/index.html) - Steve Klabnik
+* [Rust For Systems Programmers](https://github.com/nrc/r4cppp) - Nick Cameron
 * [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html)
 * [The Rust Language Reference](https://github.com/rust-lang/reference)
 * [The Rust Programming Language](http://doc.rust-lang.org/book/)

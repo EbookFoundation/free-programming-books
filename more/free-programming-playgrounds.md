@@ -2,8 +2,8 @@
 
 * [Angular](#angular)
 * [C](#c)
-* [C++](#cpp)
 * [C#](#csharp)
+* [C++](#cpp)
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
 * [CSS](#css)
@@ -50,14 +50,14 @@
 * [SoloLearn](https://code.sololearn.com/c)
 
 
-### <a name="cpp"></a>C++
-
-* [SoloLearn](https://code.sololearn.com/cpp)
-
-
 ### <a name="csharp"></a>C#
 
 * [SoloLearn](https://code.sololearn.com/csharp)
+
+
+### <a name="cpp"></a>C++
+
+* [SoloLearn](https://code.sololearn.com/cpp)
 
 
 ### ClojureScript

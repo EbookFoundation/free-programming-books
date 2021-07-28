@@ -99,6 +99,7 @@
   * [Elm](#elm)
   * [Ember.js](#emberjs)
   * [Express.js](#expressjs)
+  * [Fastify](#fastify)
   * [Ionic](#ionic)
   * [jQuery](#jquery)
   * [meteor](#meteor)
@@ -1886,6 +1887,11 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Express.js
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
+
+
+#### Fastify
+
+* [Fastify - Latest Documentation](https://www.fastify.io/docs/latest) (HTML)
 
 
 #### Ionic

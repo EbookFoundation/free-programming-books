@@ -2,23 +2,23 @@
 
 * [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
-* [C](#C)
+* [C](#c)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
 * [HTML / CSS](#html--css)
-* [Java](#Java)
+* [Java](#java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
   * [Vue.js](#vuejs)
-* [Kubernetes](#Kubernetes)
+* [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
 * [MongoDB](#mongodb)
-* [Perl](#Perl)
+* [Perl](#perl)
 * [Python](#python)
-* [R](#R)
+* [R](#r)
 * [Ruby](#ruby)
 * [SQL](#sql)
 
@@ -40,7 +40,7 @@
 * [The C Cheat Sheet: An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) - Andrew Sterian (PDF)
 
 
-<h3 id="cpp">C++</h3>
+### <a name="cpp"></a>C++
 
 * [C++ Quick Reference](http://www.hoomanb.com/cs/QuickRef/CppQuickRef.pdf) (PDF)
 
@@ -58,6 +58,9 @@
 ### Git
 
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
+* [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
+  * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
+  * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 

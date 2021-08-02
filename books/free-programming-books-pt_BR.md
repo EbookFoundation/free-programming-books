@@ -71,6 +71,11 @@
 * [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
 
 
+### Assembly
+
+* [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
+
+
 ### C
 
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)

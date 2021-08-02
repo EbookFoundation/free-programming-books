@@ -675,7 +675,7 @@
 * [Game AI Pro](http://www.gameaipro.com) - Steve Rabin
 * [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
 * [Game Programming Patterns](http://gameprogrammingpatterns.com) - Bob Nystrom
-* [Getting Real](http://gettingreal.37signals.com)
+* [Getting Real](https://basecamp.com/books/getting-real) - Basecamp, 37signals ([HTML](https://basecamp.com/gettingreal), [PDF](https://basecamp.com/gettingreal/getting-real.pdf))
 * [Google Maps API Succinctly](https://www.syncfusion.com/ebooks/google_maps_api_succinctly) - Mark Lewin
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
 * [Hello SDL](https://lazyfoo.net/tutorials/SDL) - Lazy Foo' Productions
@@ -2502,6 +2502,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Picking a Python Version: A Manifesto](https://www.oreilly.com/ideas/picking-a-python-version) - David Mertz
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
+* [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/) - Sundeep Agarwal
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html) - Bradley N. Miller and David L. Ranum (3.x)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
@@ -2537,6 +2538,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Suporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Harry Percival (3.3 - 3.x)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
+* [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) - Al Sweigart
 * [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
 * [The Definitive Guide to Jython, Python for the Java Platform](https://jython.readthedocs.io/en/latest/) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))

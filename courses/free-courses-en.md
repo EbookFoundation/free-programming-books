@@ -176,10 +176,7 @@
 * [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - Mike Dane - (freeCodeCamp)
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
-* Microsoft edX Courses:
-    * [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
-    * [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
-    * [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
+* [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
 
 
 ### Clojure
@@ -213,7 +210,6 @@
 * [Data Visualization by Alexis Cook at Kaggle](https://www.kaggle.com/learn/data-visualization)
 * [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
-* [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 
@@ -521,7 +517,6 @@
 * [Machine Learning Tutorial Python \| Machine Learning For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) - Dhaval Patel
 * [Machine Learning with Python by Saeed Aghabozorgi](https://cognitiveclass.ai/courses/machine-learning-with-python) (cognitiveclass.ai)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
-* [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 * [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
@@ -541,7 +536,7 @@
 
 ### Mercurial
 
-* [Hg Init: a Mercurial Tutorial](http://hginit.com) - Joel Spolsky
+* [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
 
 
 ### Misc
@@ -562,7 +557,7 @@
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
 * [Elements of AI](https://www.elementsofai.com)
 * [Embedded Software Safety](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) (P. Koopman)
-* [FindLectures.com](https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic
+* [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic (:card_file_box: *archived*)
 * [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) - David Silver
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)

@@ -536,7 +536,7 @@
 
 ### Mercurial
 
-* [Hg Init: a Mercurial Tutorial](http://hginit.com) - Joel Spolsky
+* [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
 
 
 ### Misc

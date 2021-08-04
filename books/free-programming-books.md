@@ -782,7 +782,6 @@
 * [Computer Science from the Bottom Up](http://www.bottomupcs.com)
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) (:construction: *in process*)
 * [How to write a simple operating system in assembly language](http://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
-* [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://freertos.org/Documentation/RTOS_book.html) - freertos.org ([PDF](https://freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf))
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) - Dominic Giampaolo (PDF)
@@ -1388,6 +1387,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
 * [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF)
 * [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
+* [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://freertos.org/Documentation/RTOS_book.html) - freertos.org ([PDF](https://freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf))
 
 
 ### Erlang

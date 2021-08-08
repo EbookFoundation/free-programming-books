@@ -57,6 +57,7 @@
 ### Variados
 
 * [Code on the Rocks](http://codeontherocks.fm) (podcast)
+* [Codely.TV screencasts](https://codely.tv/blog/screencasts/) - Codely.TV (screencasts)
 * [Cosas de Internet](https://cosasdeinternet.fm/episodios) (podcast)
 * [Día30](https://www.dia30.mx) (podcast)
 * [Doomling & Chill](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNGM2ZjE5MC9wb2RjYXN0L3Jzcw==) (podcast)

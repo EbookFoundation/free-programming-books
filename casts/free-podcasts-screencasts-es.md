@@ -34,7 +34,7 @@
 ### Juegos
 
 * [Aquelarre of Games](http://aquelarreofgames.com.ar/podcast) (podcast)
-* [Diógenes Digital](https://diogenesdigital.es/podcasts/) (pdocast) (Última Actualziación, Octubre, 2019)
+* [Diógenes Digital](https://diogenesdigital.es/podcasts/) (podcast) (Última Actualziación, Octubre, 2019)
 
 
 ### Programación
@@ -42,6 +42,7 @@
 * [Aprende de los expertos en The Dojo MX](https://www.youtube.com/playlist?list=PLfeFnTZNTVDO5UwcIvWherSLxuBuK6ve4) (screencast)
 * [Commit.fm](https://anchor.fm/khriztianmoreno) (podcast) (Última Actualización, Julio 2020)
 * [Descargas de mi mente](https://www.ivoox.com/podcast-descargas-mi-mente_sq_f1584288_1.html) (podcast)
+* [Domain-Driven Design](https://www.youtube.com/playlist?list=PLZVwXPbHD1KMsiA7ahRSbIwS3QMsQ0SbL) Codely.tv (screencast)
 * [La Buhardilla Geek](https://www.ivoox.com/podcast-buhardilla-geek_sq_f1465450_1.html) (podcast)
 * [Maestría JS](https://anchor.fm/maestriajs) (podcast) (Última Actualización, Mayo 2020)
 * [Programar es una Mierda](https://www.programaresunamierda.com) (podcast)

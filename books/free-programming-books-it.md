@@ -150,6 +150,7 @@
 ### Golang
 
 * [Golang](http://www.vittal.it/wp-content/uploads/2019/01/golang.pdf) - V.Albertoni (PDF)
+* [The Little Go Book](https://github.com/francescomalatesta/the-little-go-book-ita) - Karl Seguin, Francesco Malatesta ([HTML](https://github.com/francescomalatesta/the-little-go-book-ita/blob/master/it/go.md))
 
 
 ### Java

@@ -45,7 +45,6 @@
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [Matlab](#matlab)
-* [Mercurial](#mercurial)
 * [Misc](#misc)
 * [.NET](#net)
 * [OCaml](#ocaml)
@@ -532,11 +531,6 @@
 * [Introduction to Matlab in English](https://www.youtube.com/playlist?list=PLGED90Y_uL1KLpdRmVtwfpNoYCWU9RPkK) -Mohammed Mohammed
 * [MATLAB and Simulink Training](https://matlabacademy.mathworks.com)
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
-
-
-### Mercurial
-
-* [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
 
 
 ### Misc

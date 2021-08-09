@@ -1,19 +1,19 @@
 ### Index
 
-* [HTML](#meta-lists)
+* [HTML](#html)
 * [Linux](#linux)
 * [Python](#python)
 * [Web Development](#web-development)
 
 
-### Linux
-
-* [Ubuntu Linux for You](http://eimaung.com/ubuntu-for-you) - Ei Maung
-
-
 ### HTML
 
 * [HTML](https://books.saturngod.net/HTML5/) - Saturngod
+
+
+### Linux
+
+* [Ubuntu Linux for You](http://eimaung.com/ubuntu-for-you) - Ei Maung
 
 
 ### Python

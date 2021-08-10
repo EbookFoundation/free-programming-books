@@ -20,6 +20,7 @@
 ### Desarrollo Web
 
 * [Codalot Podcast](https://codalot.dev) (podcast)
+* [Hablando.js](https://anchor.fm/carlosazaustre) - Carlos Azaustre (podcast)
 * [La Web es la Plataforma](https://anchor.fm/the-web-is-the-platform) (podcast)
 * [República Web](https://republicaweb.es) (podcast)
 * [Web Reactiva](https://www.danielprimo.io/podcast) (podcast)

@@ -167,7 +167,7 @@
 
 ### Go
 
-* [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
+* [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin, Raúl Expósito (HTML, [PDF](https://raulexposito.com/assets/pdf/go.pdf), [EPUB](https://raulexposito.com/assets/epub/go.epub))
 * [Go en Español](https://nachopacheco.gitbooks.io/go-es/content/doc) - Nacho Pacheco (HTML)
 
 

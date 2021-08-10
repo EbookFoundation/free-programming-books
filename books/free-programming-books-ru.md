@@ -203,7 +203,7 @@
 * [Руководство по языку Go](https://metanit.com/go/tutorial) - Евгений Попов
 * [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
 * [Go в примерах](https://gobyexample.ru)
-* [The Little Go Book (перевод)](https://sefus.ru/little-go-book)
+* [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
 
 
 ### Haskell

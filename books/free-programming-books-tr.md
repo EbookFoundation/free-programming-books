@@ -75,7 +75,7 @@
 
 ### Go
 
-* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
+* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi ([HTML](https://github.com/umutphp/the-little-go-book/blob/master/tr/go.md), [PDF](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.pdf), [EPUB](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.epub))
 
 
 ### Güvenlik ve Gizlilik

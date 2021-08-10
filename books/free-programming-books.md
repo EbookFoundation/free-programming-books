@@ -1514,7 +1514,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Let's learn Go!](http://go-book.readthedocs.io/en/latest/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom
 * [The Go Tutorial](http://tour.golang.org)
-* [The Little Go Book](https://github.com/karlseguin/the-little-go-book)
+* [The Little Go Book](https://github.com/karlseguin/the-little-go-book) - Karl Seguin ([PDF](https://www.openmymind.net/assets/go/go.pdf), [ePUB](https://www.openmymind.net/assets/go/go.epub))
 * [Web apps in Go, the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
 

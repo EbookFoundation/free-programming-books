@@ -63,6 +63,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-ua.md)
++ [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 
 ### Cheat Sheets

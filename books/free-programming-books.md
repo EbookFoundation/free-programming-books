@@ -2555,7 +2555,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 
 
-
 #### Django
 
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)

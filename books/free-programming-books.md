@@ -2552,7 +2552,7 @@ Kerridge (PDF) (email address *requested*, not required)
   * [Think Python First Edition](https://greenteapress.com/wp/think-python/) - Allen B. Downey (2.x) (HTML, PDF)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
-* [Learn Python in One Day and Learn It Well:](https://www.pdfdrive.com/learn-python-in-one-day-and-learn-it-well-python-for-beginners-with-hands-on-project-the-only-book-you-need-to-start-coding-in-python-immediately-e183833259.html) (PDF)
+* [Learn Python in One Day and Learn It Well:](https://www.pdfdrive.com/learn-python-in-one-day-and-learn-it-well-python-for-beginners-with-hands-on-project-the-only-book-you-need-to-start-coding-in-python-immediately-e183833259.html) (EPUB)
 
 
 #### Django

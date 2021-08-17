@@ -254,6 +254,7 @@
 * [Bento](https://www.bento.io)
 * [Bitsavers.org](http://bitsavers.trailing-edge.com)
 * [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks) Cookie required. (email address *requested*, not required)
+* [Code Catalog: A Collection of Code Examples from Prominent Open Source Projects](https://codecatalog.org) (HTML)
 * [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com)

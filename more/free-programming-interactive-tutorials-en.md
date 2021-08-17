@@ -142,6 +142,7 @@
 
 * [CSS Diner](http://flukeout.github.io)
 * [CSS Tutorial](https://www.w3schools.com/css/) - W3Schools
+* [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure) - Nick Bull
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [FreeCodeCamp: Responsive Web Design Course](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)

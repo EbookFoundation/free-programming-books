@@ -1,5 +1,6 @@
 ### Index
 
+* [0 - Meta-Lists](#0---meta-lists)
 * [ABAP](#abap)
 * [Ada](#ada)
 * [Agda](#agda)
@@ -160,7 +161,6 @@
 * [Maven](#maven)
 * [Mercurial](#mercurial)
 * [Mercury](#mercury)
-* [Meta-Lists](#meta-lists)
 * [Modelica](#modelica)
 * [MySQL](#mysql)
 * [Neo4J](#neo4j)
@@ -248,7 +248,7 @@
 * [xBase (dBase / Clipper / Harbour)](#xbase-dbase--clipper--harbour)
 
 
-### Meta-Lists
+### 0 - Meta-Lists
 
 * [atariarchives.org](http://www.atariarchives.org) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 * [Bento](https://www.bento.io)

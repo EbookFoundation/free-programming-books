@@ -1,6 +1,6 @@
 name: free-programming-books-lint
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
   build:

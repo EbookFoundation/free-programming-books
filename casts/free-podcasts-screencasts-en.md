@@ -2,7 +2,7 @@
 
 * [Android](#android)
 * [C#](#c)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Clojure](#clojure)
 * [Common Lisp](#common-lisp)
 * [CSS](#css)
@@ -43,7 +43,7 @@
 * [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) (screencast)
 
 
-### C++
+### <a name="cpp"></a>C++
 
 * [C++ Programming Video Lectures](https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr) (screencast)
 * [C++ STL](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) (screencast)
@@ -136,7 +136,7 @@
 ### Haskell
 
 * [Haskell Tutorial](https://www.youtube.com/watch?v=02_H3LjqMr8) - Derek Banas (screencast)
-* [HaskellRank](https://www.youtube.com/playlist?list=PLguYJK7ydFE4aS8fq4D6DqjF6qsysxTnx) — Tsoding (screencast)
+* [HaskellRank](https://www.youtube.com/playlist?list=PLguYJK7ydFE4aS8fq4D6DqjF6qsysxTnx) - Tsoding (screencast)
 * [The Haskell Cast](http://www.haskellcast.com) (podcast)
 
 
@@ -226,6 +226,8 @@
 * [Developer On Fire](http://developeronfire.com) (podcast)
 * [Developer Tea](https://developertea.com) (podcast)
 * [DevelopersHangout](http://www.developershangout.io) (podcast)
+* [Domain Driven Design Europe](https://dddeurope.com/videos/) (screencast)
+  * [Domain Driven Design Europe - 2017](https://2017.dddeurope.com/#videos) (screencast)
 * [FLOSS WEEKLY](https://twit.tv/shows/floss-weekly) (podcast)
 * [Frontside the Podcast](https://frontside.io/podcast/) (podcast)
 * [Full Stack Radio](http://www.fullstackradio.com) (podcast)

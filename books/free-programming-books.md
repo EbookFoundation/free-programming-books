@@ -40,7 +40,6 @@
 * [Delphi / Pascal](#delphi--pascal)
 * [DTrace](#dtrace)
 * [Eiffel](#eiffel)
-* [Elasticsearch](#elasticsearch)
 * [Elixir](#elixir)
   * [Ecto](#ecto)
   * [Phoenix](#phoenix)
@@ -140,6 +139,7 @@
   * [Programming Paradigms](#programming-paradigms)
   * [Regular Expressions](#regular-expressions)
   * [Reverse Engineering](#reverse-engineering)
+  * [Search Engines](#search-engines)
   * [Security](#security)
   * [Software Architecture](#software-architecture)
   * [Standards](#standards)
@@ -219,7 +219,6 @@
 * [Self](#self)
 * [Smalltalk](#smalltalk)
 * [Snap](#snap)
-* [Solr](#solr)
 * [Spark](#spark)
 * [Splunk](#splunk)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
@@ -858,6 +857,13 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Reverse Engineering for Beginners](http://beginners.re) - Dennis Yurichev (PDF)
 
 
+#### Search Engines
+
+* [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elastic/elasticsearch-definitive-guide))
+* [Exploring Elasticsearch](http://exploringelasticsearch.com)
+* [Solr for newbies workshop (2019)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
+
+
 #### Security
 
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
@@ -1341,12 +1347,6 @@ Kerridge (PDF) (email address *requested*, not required)
 ### DTrace
 
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
-
-
-### Elasticsearch
-
-* [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elastic/elasticsearch-definitive-guide))
-* [Exploring Elasticsearch](http://exploringelasticsearch.com)
 
 
 ### Eiffel
@@ -2855,11 +2855,6 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Snap
 
 * [Snap! Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) - B. Harvey, J. Mönig (PDF)
-
-
-### Solr
-
-* [Solr for newbies workshop](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf) - Hector Correa (PDF)
 
 
 ### Spark

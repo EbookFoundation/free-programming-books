@@ -1,5 +1,6 @@
 ### Index
 
+* [0 - Meta-Lists](#0---meta-lists)
 * [ABAP](#abap)
 * [Ada](#ada)
 * [Agda](#agda)
@@ -160,7 +161,6 @@
 * [Maven](#maven)
 * [Mercurial](#mercurial)
 * [Mercury](#mercury)
-* [Meta-Lists](#meta-lists)
 * [Modelica](#modelica)
 * [MySQL](#mysql)
 * [Neo4J](#neo4j)
@@ -248,7 +248,7 @@
 * [xBase (dBase / Clipper / Harbour)](#xbase-dbase--clipper--harbour)
 
 
-### Meta-Lists
+### 0 - Meta-Lists
 
 * [atariarchives.org](http://www.atariarchives.org) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 * [Bento](https://www.bento.io)
@@ -1991,7 +1991,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
 * [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
-* [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, and Lazaro Alonso 
+* [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, and Lazaro Alonso
 * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
 * [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
 * [Quantitative Economics with Julia](https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf) - Jesse Perla, Thomas J. Sargent and John Stachurski (PDF)

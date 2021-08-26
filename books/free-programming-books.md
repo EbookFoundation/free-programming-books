@@ -1460,6 +1460,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Fortran
 
+* [Fortran 90 Tutorial](http://www.cs.mtu.edu/~shene/COURSES/cs201/NOTES/fortran.html) - C.-K. Shene at Michigan Technological University (HTML)
 * [Fortran Wiki - Tutorials](http://fortranwiki.org/fortran/show/Tutorials) (HTML)
 * [Fortran. Lecture notes from a class (2020)](http://jupiter.ethz.ch/~pjt/fortran/FortranClass.html) - Paul Tackley (HTML)
 * [Introduction to Fortran](https://qc2-teaching.readthedocs.io/en/latest/programming.html) - Sebastian Ehlert, Julius Stückrath, Marcel Mueller, Marcel Stahn (HTML)

@@ -22,7 +22,6 @@
 * [Jekyll](#jekyll)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
-* [Laravel](#laravel)
 * [Linux](#linux)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
@@ -30,6 +29,7 @@
 * [Node.js](#nodejs)
 * [PHP](#php)
   * [CodeIgniter](#codeIgniter)
+  * [Laravel](#laravel)
 * [Python](#python)
 * [React Native](#react-native)
 * [Ruby](#ruby)
@@ -189,11 +189,6 @@
 * [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil (Youtube)
 
 
-### Laravel
-
-* [Curso Introdução ao Laravel 8](https://academy.especializati.com.br/curso/introducao-ao-laravel-8) - Especializati (Especializati academy)
-
-
 ### Linux
 
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
@@ -241,6 +236,11 @@
 #### CodeIgniter
 
 * [Curso de CodeIgniter para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV) - RBtech
+
+
+#### Laravel
+
+* [Curso Introdução ao Laravel 8](https://academy.especializati.com.br/curso/introducao-ao-laravel-8) - Carlos Ferreira (Especializati academy)
 
 
 ### Python

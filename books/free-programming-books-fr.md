@@ -128,6 +128,10 @@
 ### Fortran
 
 * [IDRIS adaptation of the Fortran 77 manual](http://www.idris.fr/formations/fortran/fortran-77.html) - IDRIS, Hervé Delouis, Patrick Corde (HTML)
+* [IDRIS Formations Fortran: documentation](http://www.idris.fr/formations/fortran/) (HTML)
+  1. [Fortran_Base : "Fortran : notions de base" (1er niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_base_cours.pdf) - Anne Fouilloux, Patrick Corde (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_base_exemples.tar.gz), [:package: trabaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_base_tp.tar.gz))
+  2. [Fortran_Avancé : "Fortran : apports des normes 90 et 95 avec quelques aspects de la norme 2003" (2ème niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: trabaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_tp.tar.gz))
+  3. [Fortran_Expert : "Fortran : apports de la norme 2003 avec quelques aspects de la norme 2008"](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_exemples.tar.gz), [:package: trabaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_tp.tar.gz))
 
 
 ### Git

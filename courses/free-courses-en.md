@@ -31,7 +31,6 @@
   * [Angular.js](#angularjs)
   * [D3.js](#d3js)
   * [DenoJS](#denojs)
-  * [ExpressJS](#expressjs)
   * [jQuery](#jquery)
   * [Next.js](#nextjs)
   * [NodeJS](#nodejs)
@@ -420,11 +419,6 @@
 * [Deno Beginner](https://denobeginner.com) - Ahmad Awais - *(email required)*
 
 
-#### ExpressJS
-
-* [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - Traversy Media
-
-
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
@@ -439,6 +433,7 @@
 #### NodeJS
 
 * [Beginner's Series to: Node.js](https://youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer (YouTube)
+* [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - Traversy Media
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
 

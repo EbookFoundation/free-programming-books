@@ -127,6 +127,8 @@
 
 ### Fortran
 
+* [IDRIS adaptation of the Fortran 77 manual](http://www.idris.fr/formations/fortran/fortran-77.html) - IDRIS, Hervé Delouis, Patrick Corde (HTML)
+
 
 ### Git
 

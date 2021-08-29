@@ -99,6 +99,7 @@
 ### Bash / Shell
 
 * [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
+* [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
 ### Caml

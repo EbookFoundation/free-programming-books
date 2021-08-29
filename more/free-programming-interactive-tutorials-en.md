@@ -291,6 +291,7 @@
 * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
 * [Python Tutorial](https://www.tutlane.com/tutorial/python) - tutlane
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
+* [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - GeeksforGeeks
 
 
 ### Ruby

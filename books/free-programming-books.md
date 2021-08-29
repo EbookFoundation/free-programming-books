@@ -1461,8 +1461,16 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Fortran
 
-* [Professional Programmer’s Guide to Fortran77](https://www.star.le.ac.uk/~cgp/prof77.pdf) (PDF)
-* [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) (PDF)
+* [Fortran 90 Tutorial](http://www.cs.mtu.edu/~shene/COURSES/cs201/NOTES/fortran.html) - C.-K. Shene at Michigan Technological University (HTML)
+* [Fortran 90 Tutorial](https://web.stanford.edu/class/me200c/tutorial_90/) - Sarah T. Whitlock, Paul H. Hargrove at Stanford University (HTML)
+* [Fortran information & resources](https://www.fortranplus.co.uk/fortran-information/) - fortranplus.co.uk (HTML)
+* [FORTRAN Performance Tuning co-Guide (1998)](https://www.ibiblio.org/pub/languages/fortran/unct.html) - Timothy C. Prince (HTML)
+* [Introduction to Fortran](https://qc2-teaching.readthedocs.io/en/latest/programming.html) - Sebastian Ehlert, Julius Stückrath, Marcel Mueller, Marcel Stahn (HTML)
+* [Modern Fortran in Science and Technology](https://modern-fortran-in-science-and-technology.readthedocs.io/en/latest) - Jonas Lindemann and Ola Dahlblom (HTML, [PDF](https://modern-fortran-in-science-and-technology.readthedocs.io/_/downloads/en/latest/pdf/), [EPUB](https://modern-fortran-in-science-and-technology.readthedocs.io/_/downloads/en/latest/epub/))
+* [Modern Fortran Tutorial](https://masuday.github.io/fortran_tutorial/) - Yutaka Masuda (HTML)
+* [Professional Programmer’s Guide to Fortran77 (2005)](https://www.star.le.ac.uk/~cgp/prof77.pdf) - Clive G. Page (PDF)
+* [Self Study Guide 2: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) - Dr Rachael Padman (PDF)
+* [User Notes On Fortran Programming (UNFP): An open cooperative practical guide (1998)](https://www.ibiblio.org/pub/languages/fortran/) - Abraham Agay, Arne Vajhoej et. al (HTML)
 
 
 ### FreeBSD

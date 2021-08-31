@@ -57,12 +57,12 @@
 
 #### Vim
 
-* [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
+* [Editor VI - Guia de Referência](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
 * [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
-* [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
-* [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
-* [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
-* [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
+* [Vim Avançado](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
+* [Vim Básico](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
+* [Vim Médio](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
+* [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
 
 
 #### Programação

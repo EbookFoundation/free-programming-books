@@ -2070,7 +2070,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [The Linux System Administrator's Guide](http://www.tldp.org/LDP/sag/html/index.html)
 * [Ubuntu Pocket Guide and Reference](http://www.ubuntupocketguide.com/index_main.html)
-* [Ubuntu Server Guide](https://help.ubuntu.com/16.04/serverguide/serverguide.pdf) (PDF)
+* [Ubuntu Server Guide](https://help.ubuntu.com/20.04/serverguide/serverguide.pdf) (PDF)
 * [Understanding the Linux Virtual Memory Manager](https://www.kernel.org/doc/gorman/) - Mel Gorman (HTML, PDF)
 * [UNIX Systems Programming for SVR4](http://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)

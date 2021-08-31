@@ -1,4 +1,4 @@
-Read this in other languages:[简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh-TW.md), [Português (BR)](HOWTO.pt_BR.md), [فارسی](HOWTO-fa_IR.md)
+Read this in other languages: [Español](HOWTO-es.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh-TW.md), [Português (BR)](HOWTO.pt_BR.md), [فارسی](HOWTO-fa_IR.md)
 
 Welcome to Free-Programming-Books! We welcome new contributors; even those making their very first pull request on Github. If you're one of those, here are some resources that might help:
 

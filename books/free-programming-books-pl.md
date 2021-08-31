@@ -136,7 +136,7 @@
 * [Kurs Perl](http://zajacmarek.com/2014/10/kurs-perl-cz-1/) - Marek Zając
 * [Kurs PERL](cyberpunk.e-spin.pl/86,41,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PERL)
 * [Perl](https://pl.wikibooks.org/wiki/Perl) - Wikibooks
-* [Samouczek Perl](https://www.w3big.com/pl/perl/default.html)
+* [Samouczek Perl](https://www.w3big.com/pl/perl/default.html) - w3big.com
 
 
 ### PHP

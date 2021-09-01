@@ -4,7 +4,6 @@
 * [Android](#android)
 * [Angular](#angular)
 * [Assembly Language](#assembly-language)
-  * [Non-X86](#non-x86) 
 * [Bash / Shell](#bash--shell)
 * [Bootstrap](#bootstrap)
 * [C](#c)

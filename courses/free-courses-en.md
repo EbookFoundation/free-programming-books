@@ -729,7 +729,7 @@
 
 ### TwinCAT 3
 
-* [PLC programming using TwinCAT 3](https://www.youtube.com/playlist?list=PLimaF0nZKYHz3I3kFP4myaAYjmYk1SowO) - Jakob Sagatowski
+* [PLC programming using TwinCAT 3](https://www.youtube.com/playlist?list=PLimaF0nZKYHz3I3kFP4myaAYjmYk1SowO) - Jakob Sagatowski (YouTube)
 
 
 ### TypeScript

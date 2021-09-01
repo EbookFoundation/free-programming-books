@@ -20,6 +20,7 @@
 * [Bash](#bash)
 * [Basic](#basic)
 * [BETA](#beta)
+* [brainfuck](#brainfuck)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
@@ -1137,6 +1138,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [MIA 99-41: BETA Language Modifications - Reference Manual](https://beta.cs.au.dk/Manuals/latest/beta/beta-index.html) - Mjølner Informatics
 * [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
 * [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
+
+
+### brainfuck
+
+* [Basics of BrainFuck](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a) - roachhd (MD)
 
 
 ### C

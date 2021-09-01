@@ -748,7 +748,7 @@
 
 ### Visual Basic
 
-* [Visual Basic Tutorials Playlist](https://www.youtube.com/playlist?list=PLC601DEA22187BBF1)
+* [Visual Basic Tutorials Playlist](https://www.youtube.com/playlist?list=PLC601DEA22187BBF1) - thenewboston (YouTube)
 
 
 ### Web Development

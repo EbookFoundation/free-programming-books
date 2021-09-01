@@ -3,7 +3,8 @@
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
 * [Angular](#angular)
-* [Assembly](#assembly)
+* [Assembly Language](#assembly-language)
+  * [Non-X86](#non-x86) 
 * [Bash / Shell](#bash--shell)
 * [Bootstrap](#bootstrap)
 * [C](#c)
@@ -126,11 +127,16 @@
 * [Angular Tutorial For Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) - Codevolution (YouTube)
 
 
-### Assembly
+### Assembly Language
 
 * [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - LiveOverflow
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
+
+
+#### Non-X86
+
+* [Build a 65c02-based computer from scratch](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH) - Ben Eater (YouTube)
 
 
 ### Bash / Shell

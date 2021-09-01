@@ -62,6 +62,7 @@
 * [Swift](#swift)
   * [Vapor](#vapor)
 * [Theory](#theory)
+* [TwinCAT 3](#twincat-3)
 * [TypeScript](#typescript)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
@@ -726,11 +727,15 @@
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
 
 
+### TwinCAT 3
+
+* [PLC programming using TwinCAT 3](https://www.youtube.com/playlist?list=PLimaF0nZKYHz3I3kFP4myaAYjmYk1SowO) - Jakob Sagatowski
+
+
 ### TypeScript
 
 * [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
 * [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
-
 
 ### Verilog / VHDL / SystemVerilog
 

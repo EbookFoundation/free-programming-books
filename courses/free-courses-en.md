@@ -64,6 +64,7 @@
 * [Theory](#theory)
 * [TypeScript](#typescript)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
+* [Visual Basic](#visual-basic)
 * [Web Development](#web-development)
 
 
@@ -737,6 +738,11 @@
 * [SOC Verification Using SystemVerilog](http://verificationexcellence.in/online-courses/soc-verification-using-systemverilog)
 * [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
 * [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
+
+
+### Visual Basic
+
+* [Visual Basic Tutorials Playlist](https://www.youtube.com/playlist?list=PLC601DEA22187BBF1)
 
 
 ### Web Development

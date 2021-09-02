@@ -1142,7 +1142,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### brainfuck
 
-* [Basics of BrainFuck](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a) - roachhd (MD)
+* [Basics of BrainFuck](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a) - Katie Ball (GitHub Gist)
 
 
 ### C

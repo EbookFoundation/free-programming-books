@@ -42,7 +42,7 @@
 
 ### <a name="cpp"></a>C++
 
-* [C++ Quick Reference](http://www.hoomanb.com/cs/QuickRef/CppQuickRef.pdf) (PDF)
+* [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
 
 
 ### Clojure

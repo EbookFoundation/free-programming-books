@@ -8,6 +8,7 @@
 * [Data Science](#data-science)
 * [Git](#git)
 * [HTML / CSS](#html--css)
+* [IDE / Editors](#ide--editors)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
@@ -72,6 +73,14 @@
 * [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
 * [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co) - Chris Malven (HTML)
 * [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
+
+
+### <a name="ide--editores"></a>IDE / Editors
+
+* [Editor VI - Guia de Referência](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
+* [Vim Avançado](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
+* [Vim Básico](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
+* [Vim Médio](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 
 
 ### Java

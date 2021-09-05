@@ -9,7 +9,6 @@
 * [Git](#git)
 * [HTML / CSS](#html--css)
 * [IDE / Editors](#ide--editors)
-  * [Vim](#vim)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
@@ -77,8 +76,6 @@
 
 
 ### <a name="ide--editores"></a>IDE / Editors
-
-### Vim
 
 * [Editor VI - Guia de Referência](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
 * [Vim Avançado](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas

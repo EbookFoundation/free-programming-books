@@ -729,6 +729,8 @@
 
 ### TwinCAT 3
 
+* [Learning motion control and IO with Beckhoff TwinCAT PLCs](https://www.youtube.com/playlist?list=PLE1CU6EebvTD29gsHo1djsKU7J5Dtp0Bn) - Evan Jensen (YouTube)
+* [Learning PLCs with Structured Text](https://www.youtube.com/playlist?list=PLE1CU6EebvTCJCMIUOSWgMseMaW-2k5zH) - Evan Jensen (YouTube)
 * [PLC programming using TwinCAT 3](https://www.youtube.com/playlist?list=PLimaF0nZKYHz3I3kFP4myaAYjmYk1SowO) - Jakob Sagatowski (YouTube)
 
 

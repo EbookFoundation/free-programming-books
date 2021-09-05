@@ -1,9 +1,10 @@
 ﻿### Índice
 
-* [Agnósticos](#agnosticos)
+* [Agnósticos](#agnósticos)
   * [Programação](#programação)
   * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
+* [Assembly](#assembly)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
@@ -64,6 +65,11 @@
 ### Android
 
 * [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+
+
+### Assembly
+
+* [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
 
 
 ### C
@@ -135,6 +141,7 @@
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
 * [Go - hands on](https://github.com/go-br/estudos)
+* [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
 
 
 ### Haskell

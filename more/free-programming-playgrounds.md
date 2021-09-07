@@ -1,6 +1,5 @@
 ### Index
 
-* [Angular](#angular)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -18,6 +17,7 @@
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [Angular.js](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
@@ -37,12 +37,7 @@
 * [Svelte](#svelte)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-
-
-### Angular
-
-* [Plunker](http://plnkr.co)
-* [StackBlitz](https://stackblitz.com/fork/angular)
+  * [Angular](#angular)
 
 
 ### <a name="c"></a>C
@@ -145,6 +140,11 @@
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
 * [SoloLearn](https://code.sololearn.com/web#javascript)
+
+
+### Angular.js
+
+* [StackBlitz](https://stackblitz.com/fork/angularjs)
 
 
 ### Kotlin
@@ -264,3 +264,9 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
+
+
+#### Angular
+
+* [Plunker](http://plnkr.co)
+* [StackBlitz](https://stackblitz.com/fork/angular)

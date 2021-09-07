@@ -21,7 +21,7 @@
 * [HTML & CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
+  * [Angular.js](#angularjs)
   * [D3](#d3js)
   * [jQuery](#jquery)
   * [node.js](#nodejs)
@@ -48,6 +48,8 @@
 * [SQL](#sql)
 * [Subversion](#subversion)
 * [SVG](#svg)
+* [Typescript](#typescript)
+  * [Angular](#angular)
 
 
 ### 0 - Meta-Listas
@@ -217,9 +219,12 @@
 * [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20) (HTML)
 
 
-#### AngularJS
+#### Angular.js
 
 * [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
+* [Angularjs](https://eladrodriguez.gitbooks.io/angularjs) - Elad Rodriguez (HTML) (Gitbook)
+* [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - John Papa et al. (HTML)
+* [Manual de AngularJS](https://desarrolloweb.com/manuales/manual-angularjs.html) - desarrolloweb.com (HTML, PDF, EPUB, Kindle)
 
 
 #### D3.js
@@ -386,3 +391,20 @@
 ### SVG
 
 * [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (Leanpub cuenta requerida)
+
+
+### Typescript
+
+* [Aprendizaje Typescript](https://riptutorial.com/Download/typescript-es.pdf) - riptutorial (PDF)
+* [Introduccion a TypeScript](https://khru.gitbooks.io/typescript/) - Emmanuel Valverde Ramos (HTML) (GitBook)
+* [TypeScript Deep Dive](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, Melissa Rofman (HTML) (GitBook)
+* [Uso avanzado de TypeScript en un ejemplo real](https://neliosoftware.com/es/blog/uso-avanzado-de-typescript/) - Nelio Software (HTML)
+
+
+#### Angular
+
+* [Angular 2](https://rldona.gitbooks.io/angular-2-book) - Raúl López (HTML) (Gitbook)
+* [Aprendiendo Angular](https://ngchallenges.gitbook.io) - Vanessa Aristizabal (HTML) (Gitbook)
+* [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - riptutorial (PDF)
+* [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - riptutorial (PDF)
+* [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano (HTML, [ejemplos](https://github.com/jorgeucano/entendiendo-angular)) (Gitbook)

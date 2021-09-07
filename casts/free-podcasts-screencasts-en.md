@@ -16,7 +16,7 @@
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
+  * [Angular / Angular.js](#angular--angularjs)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
   * [Node.js](#nodejs)
@@ -165,7 +165,7 @@
 * [The Javascript Show](http://javascriptshow.com) (podcast)
 
 
-#### Angular.js
+#### <a name="angular"></a><a name="angularjs"></a>Angular / Angular.js
 
 * [Angular Air](https://angularair.com) (podcast)
 

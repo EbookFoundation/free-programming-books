@@ -42,7 +42,7 @@
   * [iOS](#ios)
   * [Java](#java)
   * [JavaScript](#javascript)
-    * [AngularJS](#angularjs)
+    * [Angular.js](#angularjs)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
     * [Electron.js](#electronjs)
@@ -485,12 +485,12 @@
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
 
 
-#### AngularJS
+#### Angular.js
 
-  * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
-  * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
-  * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
-  * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
+  * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md) - Xu Fei (HTML)
+  * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/) - Way Lau (HTML)
+  * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn) - Yan Qing, Hou Zhenyu, 速冻沙漠 (HTML) (:card_file_box: *archived*)
+  * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md) - Minko Gechev, Xuefeng Zhu, Shintaro Kaneko et al. (HTML)
 
 
 #### Backbone.js
@@ -749,9 +749,11 @@
 
 ### TypeScript
 
-* [TypeScript 入门教程](https://www.runoob.com/w3cnote/getting-started-with-typescript.html)
-* [TypeScript 中文网](https://www.tslang.cn)
-* [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese)
+* [TypeScript 教程](https://www.runoob.com/typescript/ts-tutorial.html) - runoob (HTML)
+* [TypeScript 入门教程](https://www.runoob.com/w3cnote/getting-started-with-typescript.html) - runoob (HTML)
+* [TypeScript 中文网](https://www.tslang.cn) (HTML)
+* [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese) - 三毛 (HTML)
+* [TypeScript Handbook（中文版）](https://www.runoob.com/manual/gitbook/TypeScript/_book/) - Patrick Zhong (HTML)
 
 
 ### VBA (Microsoft Visual Basic Applications)

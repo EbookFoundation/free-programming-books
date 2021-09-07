@@ -4,7 +4,7 @@
 * [C Sharp](#c-sharp)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [Angular](#angular)
+    * [Angular.js](#angularjs)
     * [Vue](#vue)
 * [PHP](#php)
 * [Python](#python)
@@ -35,9 +35,9 @@
 * [Javascript](http://lepo.it.da.ut.ee/~epuman/javascript.html) - Ella Puman, Tartu ÜLikooli õppematerjal
 
 
-##### Angular
+##### Angular.Js
 
-* [Angular](http://www.cs.tlu.ee/teemad/get_file.php?id=400) - Tallinna Ülikooli õppematerjal
+* [AngularJS raamistiku õppematerjal](http://www.cs.tlu.ee/teemad/get_file.php?id=400) - Tallinna Ülikooli, Sander Leetus (PDF)
 
 
 ##### Vue

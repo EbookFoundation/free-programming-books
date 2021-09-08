@@ -15,7 +15,7 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angular.js)
+  * [AngularJS](#angularjs)
   * [Node.js](#node.js)
   * [React.js](#react.js)
 * [Linux](#linux)
@@ -138,9 +138,9 @@
 * [JavaScript for Web Browser](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX) (생활코딩)
 
 
-#### Angular.js
+#### AngularJS
 
-* [AngularJS](https://www.youtube.com/playlist?list=PLs_XsVQJKaBk_JN5RctLmmVrGwEzpzqaj)
+* [AngularJS](https://www.youtube.com/playlist?list=PLs_XsVQJKaBk_JN5RctLmmVrGwEzpzqaj) - 양재동 코드랩 (YouTube)
 
 
 #### Node.js

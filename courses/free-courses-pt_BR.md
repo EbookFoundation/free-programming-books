@@ -1,7 +1,6 @@
 ### Index
 
 * [Android](#android)
-* [Angular](#angular)
 * [C](#c)
 * [C Sharp](#c-sharp)
 * [C++](#cpp)
@@ -34,6 +33,8 @@
 * [Sass](#sass)
 * [Shell](#shell)
 * [Swift](#swift)
+* [TypeScript](#typescript)
+  * [Angular](#angular)
 * [Vue.js](#vuejs)
 
 
@@ -41,13 +42,6 @@
 
 * [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
 * [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) - Unicamp (Coursera)
-
-
-### Angular
-
-* [Começando com Angular](https://app.balta.io/courses/7181) - Andre Baltieri (balta.io)
-* [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
-* [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 
 
 ### C
@@ -289,6 +283,19 @@
 ### Swift
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
+
+
+### TypeScript
+
+* [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) - DevDojo (YouTube)
+* [TypeScript, o início, de forma prática](https://www.youtube.com/watch?v=0mYq5LrQN1s) - Rocketseat, Diego Fernandes (YouTube)
+
+
+#### Angular
+
+* [Começando com Angular](https://app.balta.io/courses/7181) - Andre Baltieri (balta.io)
+* [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
+* [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 
 
 ### Vue.js

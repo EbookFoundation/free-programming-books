@@ -42,7 +42,7 @@
   * [iOS](#ios)
   * [Java](#java)
   * [JavaScript](#javascript)
-    * [Angular.js](#angularjs)
+    * [AngularJS](#angularjs)
     * [Backbone.js](#backbonejs)
     * [D3.js](#d3js)
     * [Electron.js](#electronjs)
@@ -76,6 +76,8 @@
   * [Shell](#shell)
   * [Swift](#swift)
   * [TypeScript](#typescript)
+    * [Angular](#angular)
+    * [Deno](#deno)
   * [VBA](#vba-microsoft-visual-basic-applications)
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
@@ -485,7 +487,7 @@
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
 
 
-#### Angular.js
+#### AngularJS
 
   * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md) - Xu Fei (HTML)
   * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/) - Way Lau (HTML)
@@ -506,12 +508,6 @@
   * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
   * [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
   * [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
-
-
-#### Deno
-
-  * [Deno 钻研之术](https://deno-tutorial.js.org)
-  * [Deno进阶开发笔记](https://chenshenhai.com/deno_note) - 大深海
 
 
 #### Electron.js
@@ -754,6 +750,19 @@
 * [TypeScript 中文网](https://www.tslang.cn) (HTML)
 * [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese) - 三毛 (HTML)
 * [TypeScript Handbook（中文版）](https://www.runoob.com/manual/gitbook/TypeScript/_book/) - Patrick Zhong (HTML)
+
+
+#### Angular
+
+* [Angular 文档简介](https://angular.cn/docs) - Wang Zhicheng, Ye Zhimin, Yang Lin et al. (HTML)
+* [Angular Material 组件库](https://material.angular.cn) - Wang Zhicheng, Ye Zhimin, Yang Lin et al. (HTML)
+* [Angular Tutorial (教程：英雄之旅)](https://angular.cn/tutorial) - Wang Zhicheng, Ye Zhimin, Yang Lin et al. (HTML)
+
+
+#### Deno
+
+  * [Deno 钻研之术](https://deno-tutorial.js.org)
+  * [Deno进阶开发笔记](https://chenshenhai.com/deno_note) - 大深海
 
 
 ### VBA (Microsoft Visual Basic Applications)

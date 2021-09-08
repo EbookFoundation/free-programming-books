@@ -19,7 +19,7 @@
   * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
+  * [AngularJS](#angularjs)
   * [jQuery](#jquery)
   * [React](#react)
 * [Kotlin](#kotlin)
@@ -190,12 +190,12 @@
 * [Try jQuery](http://try.jquery.com)
 
 
-#### Angular.js
+#### AngularJS
 
-* [Angular Basics](http://www.angularjsbook.com)
-* [Angular Tutorial](https://www.w3schools.com/angular/) - W3Schools
-* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson
+* [AngularJS Basics](http://www.angularjsbook.com) - Chris Smith
 * [AngularJS Tutorial](https://www.tutlane.com/tutorial/angularjs) - tutlane
+* [AngularJS Tutorial](https://www.w3schools.com/angular/) - W3Schools
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 

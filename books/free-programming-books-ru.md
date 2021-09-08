@@ -30,7 +30,7 @@
   * [Maven](#maven)
   * [Spring](#spring)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
+  * [AngularJS](#angularjs)
   * [jQuery](#jquery)
   * [Node.js](#nodejs)
   * [nuxt.js](#nuxtjs)
@@ -294,7 +294,7 @@
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
 
 
-#### Angular.js
+#### AngularJS
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)

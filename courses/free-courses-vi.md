@@ -2,21 +2,19 @@
 
 * [AJAX](#ajax)
 * [Android](#android)
-* [Angular](#angular)
-* [AngularJS](#angularjs)
 * [ASP.NET](#asp)
 * [Bash](#bash)
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#c-sharp)
 * [CSS](#css)
-* [ES6](#es6)
 * [Git](#git)
 * [Go](#go)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [jQuery](#jquery)
+  * [AngularJS](#angularjs)
+  * [jQuery](#jquery)
 * [MongoDB](#mongodb)
 * [NodeJS](#nodejs)
 * [Objective-C](#objective-c)
@@ -28,6 +26,7 @@
 * [SQL](#sql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
+  * [Angular](#angular)
 * [Unity](#unity)
 * [Vue](#vue)
 * [Wordpress](#wordpress)
@@ -49,20 +48,6 @@
 * [Lập trình Android cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh) - Kteam
 * [Lập trình Android với Kotlin](https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - Khoa Phạm
 * [Lập trình Android với new Firebase](https://www.youtube.com/playlist?list=PLzrVYRai0riTLPLclyGuByHvZ8_tDZZIr) - Khoa Phạm
-
-
-### Angular
-
-* [Angular 2 Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html) - TEDU
-* [Angular 4 Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC) - Khoa Phạm
-* [Tự học Angular 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ) - CodersX
-* [Tự học Angular 5](https://www.youtube.com/playlist?list=PLWBrqglnjNl1qQw2nH5O1A8W_DVC3xo-V) - Nguyen Duc Hoang
-
-
-### AngularJS
-
-* [AngularJS Cơ Bản](https://www.codehub.com.vn/AngularJS-Co-Ban)
-* [AngularJS Cơ Bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsw70vZAkJgALJ1yhgYsqDGx) - TEDU
 
 
 ### ASP
@@ -117,11 +102,6 @@
 * [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
 
 
-### ES6
-
-* [ES6 Cơ Bản](https://www.codehub.com.vn/ES6-Co-Ban)
-
-
 ### Git
 
 * [Cách sử dụng Git trong THỰC TẾ | Github](https://www.youtube.com/watch?v=O5uT6p6VWjY) - Ông Dev
@@ -149,13 +129,20 @@
 
 ### JavaScript
 
+* [ES6 Cơ Bản](https://www.codehub.com.vn/ES6-Co-Ban)
 * [JavaScript A-Z 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-) - CodersX
 * [JavaScript Advanced 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP) - CodersX
 * [JavaScript Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-java-script-can-ban-12.html) - TEDU
 * [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban)
 
 
-### jQuery
+#### AngularJS
+
+* [AngularJS Cơ Bản](https://www.codehub.com.vn/AngularJS-Co-Ban)
+* [AngularJS Cơ Bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsw70vZAkJgALJ1yhgYsqDGx) - TEDU
+
+
+#### jQuery
 
 * [jQuery Cơ Bản](https://www.codehub.com.vn/jQuery-Co-Ban)
 * [jQuery Cơ bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm) - TEDU
@@ -245,6 +232,14 @@
 
 * [TypeScript căn bản](https://www.youtube.com/playlist?list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb) - ZendVN
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU
+
+
+#### Angular
+
+* [Angular 2 Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html) - TEDU
+* [Angular 4 Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC) - Khoa Phạm
+* [Tự học Angular 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ) - CodersX
+* [Tự học Angular 5](https://www.youtube.com/playlist?list=PLWBrqglnjNl1qQw2nH5O1A8W_DVC3xo-V) - Nguyen Duc Hoang
 
 
 ### Unity

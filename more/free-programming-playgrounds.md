@@ -17,7 +17,7 @@
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
+  * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
@@ -142,7 +142,7 @@
 * [SoloLearn](https://code.sololearn.com/web#javascript)
 
 
-### Angular.js
+#### AngularJS
 
 * [StackBlitz](https://stackblitz.com/fork/angularjs)
 

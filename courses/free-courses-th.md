@@ -5,12 +5,13 @@
 * [C++](#cpp)
 * [Git](#git)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
   * [NodeJS](#nodejs)
   * [React](#react)
   * [Vue.js](#vuejs)
 * [Python](#python)
 * [Ruby](#Ruby)
+* [TypeScript](#typescript)
+  * [Angular](#angular)
 
 
 ### C
@@ -42,11 +43,6 @@
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) - Zinglecode
 
 
-#### Angular.js
-
-* [มือใหม่หัดใช้ Angular](https://priefydev.wordpress.com/tag/angular/) - Priefy Dev.
-
-
 #### NodeJS
 
 * [สอน Node.js เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GERtEdsPHK5Q-cdor5ADnyM) - pracertcbs
@@ -75,3 +71,13 @@
 ### Ruby
 
 * [สอน Ruby on Rails ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCPxawSeVSYP1bsP_0_iMpQJ) - Geekstart
+
+
+### TypeScript
+
+* [สอน TypeScript Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEn4NOiqo43uxvSzyE0eyUQj) - Kong Ruksiam (YouTube)
+
+
+#### Angular
+
+* [มือใหม่หัดใช้ Angular](https://priefydev.wordpress.com/tag/angular/) - Priefy Dev.

@@ -21,7 +21,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
+  * [AngularJS](#angularjs)
   * [Backbone.js](#backbonejs)
   * [Ember.js](#emberjs)
   * [Express.js](#expressjs)
@@ -195,11 +195,11 @@
 * [You Don't Know JS: Tipos & Gramática](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/types%20&%20grammar/README.md)
 
 
-#### Angular.js
+#### AngularJS
 
-* [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
-* [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/)
-* [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/)
+* [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/) - Davi Ferreira
+* [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/) - Lucas Caprio
+* [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/) - Diego Eis
 
 
 #### Backbone.js

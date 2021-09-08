@@ -21,7 +21,7 @@
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
+  * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -174,7 +174,7 @@
 * [Guida Javascript](https://www.html.it/guide/guida-javascript-di-base/) - Andrea Chiarelli, Davide Brognoli, Alberto Bottarini, Ilario Valdelli (HTML)
 
 
-#### Angular.js
+#### AngularJS
 
 * [AngularJS, il supereroe dei framework JavaScript ...di Google](https://www.html.it/articoli/angularjs-il-supereroe-dei-framework-javascript-di-google/) - Andrea Chiarelli (HTML)
 * [Guida AngularJS](https://www.html.it/guide/guida-angularjs/) - Andrea Chiarelli (HTML)

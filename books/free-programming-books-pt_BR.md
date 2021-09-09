@@ -276,7 +276,7 @@
 
 ### Kubernetes
 
-* [Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes/blob/main/SUMMARY.md) - Jeferson Fernando
+* [Descomplicando Kubernetes](https://livro.descomplicandokubernetes.com.br) - Jeferson Fernando
 * [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 

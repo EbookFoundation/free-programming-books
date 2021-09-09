@@ -108,6 +108,7 @@
 
 ### Docker
 
+* [Descomplicando o Docker](https://livro.descomplicandodocker.com.br) - Jeferson Fernando
 * [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
 
 
@@ -275,6 +276,7 @@
 
 ### Kubernetes
 
+* [Descomplicando Kubernetes](https://livro.descomplicandokubernetes.com.br) - Jeferson Fernando
 * [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 

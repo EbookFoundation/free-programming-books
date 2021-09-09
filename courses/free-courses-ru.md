@@ -4,6 +4,7 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [CSS](#css)
+* [Dart](#dart)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML](#html)
@@ -12,6 +13,7 @@
   * [Node.js](#nodejs)
   * [React](#react)
 * [Kotlin](#kotlin)
+* [Perl](#perl)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
@@ -46,9 +48,16 @@ ADV - Продвинутый. Тонкости.
 * [CSS для начинающих](https://ru.code-basics.com/languages/css) (BEG)
 
 
+### Dart
+
+* [Основы Dart](https://stepik.org/course/92982) - Анна Музыкина (Stepik) (BEG)
+* [Основы Dart](https://stepik.org/course/97479) - Станислав Чернышев (Stepik) (BEG)
+
+
 ### Go
 
 * [Программирование на Golang](https://stepik.org/course/54403) - Stepik (BEG)
+* [Go (Golang) - первое знакомство](https://stepik.org/course/100208) - Stepik (BEG)
 
 
 ### Haskell
@@ -105,6 +114,11 @@ ADV - Продвинутый. Тонкости.
 * [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792) - Stepik (BEG)
 
 
+### Perl
+
+* [Введение в Perl](https://stepik.org/course/3039) - Stepik (BEG)
+
+
 ### PHP
 
 * [PHP - первое знакомство](https://stepik.org/course/87314) - Stepik (BEG)
@@ -123,7 +137,8 @@ ADV - Продвинутый. Тонкости.
 ### Python
 
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
-* ["Поколение Python": курс для начинающих](stepik.org/course/58852) - Stepik (BEG)
+* ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) - Stepik (BEG)
+* ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343) - Stepik (INT)
 * [Программирование на Python](https://stepik.org/course/67) - Stepik (BEG)
 * [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG)
 * [Python для начинающих](https://ru.code-basics.com/languages/python) (BEG)

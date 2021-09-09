@@ -75,7 +75,7 @@
 
 ### Go
 
-* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
+* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi ([HTML](https://github.com/umutphp/the-little-go-book/blob/master/tr/go.md), [PDF](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.pdf), [EPUB](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.epub))
 
 
 ### Güvenlik ve Gizlilik
@@ -139,6 +139,7 @@
 ### Python
 
 * [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](https://www.ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
+* [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
 
 
 ### Django

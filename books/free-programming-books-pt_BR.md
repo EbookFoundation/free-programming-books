@@ -1,9 +1,11 @@
 ﻿### Índice
 
-* [Agnósticos](#agnosticos)
+* [Agnósticos](#agnósticos)
+  * [IDE / Editores](#ide--editores)
   * [Programação](#programação)
   * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
+* [Assembly](#assembly)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
@@ -44,10 +46,20 @@
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
-* [Vim](#vim)
 
 
 ### Agnósticos
+
+#### IDE / Editores
+
+* [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
+
+
+#### Vim
+
+* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
+* [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
+
 
 #### Programação
 
@@ -64,6 +76,11 @@
 ### Android
 
 * [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+
+
+### Assembly
+
+* [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
 
 
 ### C
@@ -91,6 +108,7 @@
 
 ### Docker
 
+* [Descomplicando o Docker](https://livro.descomplicandodocker.com.br) - Jeferson Fernando
 * [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
 
 
@@ -135,6 +153,7 @@
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
 * [Go - hands on](https://github.com/go-br/estudos)
+* [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
 
 
 ### Haskell
@@ -257,6 +276,7 @@
 
 ### Kubernetes
 
+* [Descomplicando Kubernetes](https://livro.descomplicandokubernetes.com.br) - Jeferson Fernando
 * [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 
@@ -341,13 +361,3 @@
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
-
-
-### Vim
-
-* [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
-* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
-* [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
-* [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
-* [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
-* [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza

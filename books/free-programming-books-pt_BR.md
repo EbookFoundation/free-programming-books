@@ -108,7 +108,7 @@
 
 ### Docker
 
-* [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/) - Jeferson Fernando
+* [Descomplicando o Docker](https://livro.descomplicandodocker.com.br) - Jeferson Fernando
 * [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
 
 

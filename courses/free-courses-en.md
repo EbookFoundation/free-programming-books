@@ -50,7 +50,7 @@
 * [OCaml](#ocaml)
 * [Perl](#perl)
 * [PHP](#php)
-* [PLC - Programable logic controllers](#plc--programable-logic-controllers)
+* [PLC - Programmable logic controllers](#plc---programmable-logic-controllers)
 * [Processing](#processing)
 * [Python](#python)
   * [Django](#django)
@@ -601,7 +601,7 @@
 * [PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) - Dani Krossing
 
 
-### PLC - Programable logic controllers
+### PLC - Programmable logic controllers
 
 * [Learning motion control and IO with Beckhoff TwinCAT PLCs](https://www.youtube.com/playlist?list=PLE1CU6EebvTD29gsHo1djsKU7J5Dtp0Bn) - Evan Jensen (YouTube)
 * [Learning PLCs with Structured Text](https://www.youtube.com/playlist?list=PLE1CU6EebvTCJCMIUOSWgMseMaW-2k5zH) - Evan Jensen (YouTube)

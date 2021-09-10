@@ -67,7 +67,7 @@
 * [La storia dell'informatica in Mondo Digitale](http://www.aicanet.it/storia-informatica/storia-dell-informatica-in-mondo-digitale) (PDF)
 * [STI: il corso di storia dell'Informatica](https://www.progettohmr.it/Corso/) - G.A. Cignoni (PDF)
 * [Storia dell'informatica](http://www.dsi.unive.it/~pelillo/Didattica/Storia%20dell'informatica/) - M. Pelillo (PDF)
-* [Storia informatica](https://www.storiainformatica.it/) - Felice Pescatore
+* [Storia informatica](https://www.storiainformatica.it) - Felice Pescatore
 
 
 ### Android

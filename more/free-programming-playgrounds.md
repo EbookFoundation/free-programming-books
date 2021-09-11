@@ -144,6 +144,8 @@
 
 #### AngularJS
 
+> :information_source: See also &#8230; [Angular](#angular)
+
 * [StackBlitz](https://stackblitz.com/fork/angularjs)
 
 
@@ -267,6 +269,8 @@
 
 
 #### Angular
+
+> :information_source: See also &#8230; [AngularJS](#angularjs)
 
 * [Plunker](http://plnkr.co)
 * [StackBlitz](https://stackblitz.com/fork/angular)

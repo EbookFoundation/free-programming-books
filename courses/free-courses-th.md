@@ -38,6 +38,8 @@
 
 ### JavaScript
 
+> :information_source: See also &#8230; [TypeScript](#typescript)
+
 * [จาวาสคริปต์เบื้องต้น](https://phyblas.hinaboshi.com/saraban/javascript) - Phyblas
 * [ภาษา JavaScript](http://marcuscode.com/lang/javascript) - MarcusCode
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) - Zinglecode
@@ -74,6 +76,8 @@
 
 
 ### TypeScript
+
+> :information_source: See also &#8230; [JavaScript](#javascript)
 
 * [สอน TypeScript Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEn4NOiqo43uxvSzyE0eyUQj) - Kong Ruksiam (YouTube)
 

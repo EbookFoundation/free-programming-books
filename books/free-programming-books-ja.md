@@ -389,6 +389,8 @@
 
 ### JavaScript
 
+> :information_source: See also &#8230; [TypeScript](#typescript)
+
 * [Airbnb JavaScript スタイルガイド](https://mitsuruog.github.io/javascript-style-guide/) - Airbnb, 小川充(翻訳)
 * [Google JavaScript スタイルガイド](https://w.atwiki.jp/aias-jsstyleguide2/) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker, aiaswood(翻訳)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ja/) - Ivo Wetzel, HIRAKI Satoru(翻訳)
@@ -407,6 +409,8 @@
 
 
 #### AngularJS
+
+> :information_source: See also &#8230; [Angular](#angular)
 
 * [AngularJS 1.2 日本語リファレンス](http://js.studio-kingdom.com/angularjs) - @tomof(翻訳)
 * [AngularJS's tutorial - あなたとともにAngularJS](http://lab.hisasann.com/AngularJSTutorial/) - @hisasann
@@ -675,11 +679,15 @@
 
 ### TypeScript
 
+> :information_source: See also &#8230; [JavaScript](#javascript)
+
 * [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - basarat, yohamta(翻訳)
 * [TypeScriptの為のクリーンコード](https://msakamaki.github.io/clean-code-typescript/) - labs42io, 酒巻 瑞穂(翻訳)
 
 
 #### Angular
+
+> :information_source: See also &#8230; [AngularJS](#angularjs)
 
 * [Angular Docs](https://angular.jp/docs)
 * [Angular Tutorial](https://angular.jp/tutorial)

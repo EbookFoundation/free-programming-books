@@ -81,6 +81,8 @@
 
 #### Base de Datos
 
+> :information_source: Véase también &#8230; [NoSQL](#nosql), [SQL](#sql)
+
 * [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
 * [Base de Datos (2005)](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Mercedes Marqués (PDF)
 * [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2) - Mercedes Marqués (PDF)
@@ -115,11 +117,15 @@
 
 #### Sistemas Operativos
 
+> :information_source: Véase también &#8230; [Linux](#linux)
+
 * [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf et al (PDF)
 * [Sistemas Operativos](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) - Dr. David Luis la Red (PDF)
 
 
 ### Android
+
+> :information_source: Véase también &#8230; [Java](#java)
 
 * [Curso Android](http://www.hermosaprogramacion.com/android) (HTML)
 * [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
@@ -209,6 +215,8 @@
 
 ### JavaScript
 
+> :information_source: Véase también &#8230; [TypeScript](#typescript)
+
 * [El Tutorial de JavaScript Moderno](https://es.javascript.info) (HTML)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
@@ -220,6 +228,8 @@
 
 
 #### AngularJS
+
+> :information_source: Véase también &#8230; [Angular](#angular)
 
 * [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
 * [AngularJS](https://eladrodriguez.gitbooks.io/angularjs) - Elad Rodriguez (HTML) (Gitbook)
@@ -276,6 +286,8 @@
 
 
 ### NoSQL
+
+> :information_source: Véase también &#8230; [Bases de Datos](#base-de-datos), [SQL](#sql)
 
 #### MongoDB
 
@@ -367,6 +379,8 @@
 
 ### Scala
 
+> :information_source: Véase también &#8230; [Java](#java)
+
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
 * [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) *(:construction: En proceso)*
 
@@ -378,6 +392,8 @@
 
 
 ### SQL
+
+> :information_source: Véase también &#8230; [Bases de Datos](#base-de-datos), [NoSQL](#nosql)
 
 * [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html) (HTML)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/) (HTML)
@@ -395,6 +411,8 @@
 
 ### TypeScript
 
+> :information_source: Véase también &#8230; [JavaScript](#javascript)
+
 * [Aprendizaje TypeScript](https://riptutorial.com/Download/typescript-es.pdf) - riptutorial (PDF)
 * [Introduccion a TypeScript](https://khru.gitbooks.io/typescript/) - Emmanuel Valverde Ramos (HTML) (GitBook)
 * [TypeScript Deep Dive](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, Melissa Rofman (HTML) (GitBook)
@@ -402,6 +420,8 @@
 
 
 #### Angular
+
+> :information_source: Véase también &#8230; [AngularJS](#angularjs)
 
 * [Angular 2](https://rldona.gitbooks.io/angular-2-book) - Raúl López (HTML) (Gitbook)
 * [Aprendiendo Angular](https://ngchallenges.gitbook.io) - Vanessa Aristizabal (HTML) (Gitbook)

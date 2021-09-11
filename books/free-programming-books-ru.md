@@ -242,11 +242,15 @@
 
 #### Android
 
+> :information_source: See also &#8230; [Kotlin](#kotlin)
+
 * [Программирование под Android](https://metanit.com/java/android) - Евгений Попов
 * [Уроки по Android](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 
 
 #### EasyMock
+
+> :information_source: See also &#8230; [JUnit](#junit)
 
 * [EasyMock 3](https://easyjava.ru/testirovanie/easymock/)
 
@@ -258,6 +262,8 @@
 
 
 #### JDBC
+
+> :information_source: See also &#8230; [SQL](#sql)
 
 * [Руководство по JDBC](http://proselyte.net/tutorials/jdbc) - Евгений Сулейманов
 * [JDBC и Spring JDBC](https://easyjava.ru/data/jdbc/)
@@ -283,6 +289,8 @@
 
 ### JavaScript
 
+> :information_source: See also &#8230; [TypeScript](#typescript)
+
 * [Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru) - Кайл Симпсон
 * [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
 * [Курс современного JavaScript](https://bxnotes.ru/conspect/kurs-sovremennogo-javascript/) - bxnotes
@@ -295,6 +303,8 @@
 
 
 #### AngularJS
+
+> :information_source: See also &#8230; [Angular](#angular)
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)
@@ -335,6 +345,8 @@
 
 ### Kotlin
 
+> :information_source: See also &#8230; [Android](#android)
+
 * [Руководство по языку Kotlin](http://kotlinlang.ru)
 * [Руководство по языку Kotlin](https://metanit.com/java/kotlin) - Евгений Попов
 
@@ -368,6 +380,8 @@
 
 
 ### NoSQL
+
+> :information_source: See also &#8230; [SQL](#sql)
 
 * [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) - Карл Сегуин (PDF)
 * [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md) - Карл Сегуин
@@ -498,6 +512,8 @@
 
 ### SQL
 
+> :information_source: See also &#8230; [NoSQL](#nosql)
+
 * [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) - Святослав Куликов (PDF)
 * [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver) - Евгений Попов
 * [Руководство по SQL](http://proselyte.net/tutorials/sql) - Евгений Сулейманов
@@ -520,11 +536,15 @@
 
 ### TypeScript
 
+> :information_source: See also &#8230; [JavaScript](#javascript)
+
 * [Перевод официальной документации Typescript](http://typescript-lang.ru/docs/) - George Kiselev
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
 
 
 #### Angular
+
+> :information_source: See also &#8230; [AngularJS](#angularjs)
 
 * [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
 * [Русская версия документация Angular 10](https://angular24.ru) - Alexey Okhrimenko
@@ -532,6 +552,8 @@
 
 
 ### Unix
+
+> :information_source: See also &#8230; [Bash](#bash)
 
 * [Beyond Linux From Scratch (version * [Архитектура операционной системы Unix](http://lib.ru/BACH) - Maurice J. Bach
 * [Введение в системное администрирование UNIX](http://lib.ru/unixhelp) - Мошков Максим Евгеньевич

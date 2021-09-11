@@ -168,6 +168,8 @@
 
 ### JavaScript
 
+> :information_source: Vedi anche &#8230; [TypeScript](#typescript)
+
 * [Corso completo Javascript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
@@ -175,6 +177,8 @@
 
 
 #### AngularJS
+
+> :information_source: Vedi anche &#8230; [Angular](#angular)
 
 * [AngularJS, il supereroe dei framework JavaScript ...di Google](https://www.html.it/articoli/angularjs-il-supereroe-dei-framework-javascript-di-google/) - Andrea Chiarelli (HTML)
 * [Guida AngularJS](https://www.html.it/guide/guida-angularjs/) - Andrea Chiarelli (HTML)
@@ -250,11 +254,15 @@
 
 ### TypeScript
 
+> :information_source: Vedi anche &#8230; [JavaScript](#javascript)
+
 * [Guida TypeScript](https://www.html.it/guide/guida-typescript/) - Andrea Chiarelli (HTML)
 * [TypeScript Deep Dive](https://github.com/TizioFittizio/typescript-book) - Basarat Ali Syed, Luca Campana (HTML) (GitBooks)
 
 
 #### Angular
+
+> :information_source: Vedi anche &#8230; [AngularJS](#angularjs)
 
 * [Applicazioni con Angular e PHP, la guida](https://www.html.it/guide/applicazioni-con-angular-e-php-la-guida/) - Lorenzo De Ambrosis (HTML)
 * [Guida Angular 2](https://www.html.it/guide/guida-angularjs-2/) - Andrea Chiarelli (HTML)

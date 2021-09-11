@@ -182,6 +182,8 @@
 
 ### JavaScript
 
+> :information_source: Veja também &#8230; [TypeScript](#typescript)
+
 * [Eloquente JavaScript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
@@ -196,6 +198,8 @@
 
 
 #### AngularJS
+
+> :information_source: Veja também &#8230; [Angular](#angular)
 
 * [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/) - Davi Ferreira
 * [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/) - Lucas Caprio
@@ -351,6 +355,8 @@
 
 ### Shell
 
+> :information_source: Veja também &#8230; [Sistemas Operacionais](#sistemas-operacionais)
+
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
@@ -358,12 +364,16 @@
 
 ### TypeScript
 
+> :information_source: Veja também &#8230; [JavaScript](#javascript)
+
 * [Iniciando no TypeScript - Guia prático para os primeiros passos da linguagem](https://www.maiconsilva.com/starting-typescript/) - Maicon Silva (HTML)
 * [TypeScript Documentação](https://www.typescriptlang.org/pt/docs/)
 * [TypeScript: O guia definitivo](https://oieduardorabelo.medium.com/typescript-o-guia-definitivo-1a63b04259cc) - Eduardo Rabelo (HTML)
 
 
 #### Angular
+
+> :information_source: Veja também &#8230; [AngularJS](#angularjs)
 
 * [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm) - José Carlos Macoratti (HTML)
 * [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/) - IBM, Babu Suresh (HTML)

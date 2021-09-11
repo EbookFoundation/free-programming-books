@@ -89,6 +89,8 @@
 
 ### Android
 
+> :information_source: See also &#8230; [Flutter](#flutter), [Kotlin](#kotlin), [Java](#java)
+
 * [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) - (Udacity)
 * [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) - (Udacity)
 * [Android App Development for Beginners Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl) - Bucky Roberts - (thenewboston)
@@ -125,6 +127,8 @@
 
 
 ### Bash / Shell
+
+> :information_source: See also &#8230; [Linux](#linux)
 
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
 * [How to CMake Good](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s)
@@ -230,6 +234,8 @@
 
 
 ### Deep Learning
+
+> :information_source: See also &#8230; [Machine Learning](#machine-learning)
 
 * [Complete Deep Learning](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) - Krish Naik
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
@@ -346,6 +352,8 @@
 
 ### iOS
 
+> :information_source: See also &#8230; [Swift](#swift)
+
 * [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
 * [CS193p Developing Apps for IOS](https://cs193p.sites.stanford.edu) - Stanford
 * [CS50 2019 - iOS Track](https://www.youtube.com/playlist?list=PLhQjrBD2T3810ZX79Xrgj8X382QaWbk_J) - David J. Malan (Harvard OpenCourseWare)
@@ -378,6 +386,8 @@
 
 ### JavaScript
 
+> :information_source: See also &#8230; [TypeScript](#typescript)
+
 * [Beginner's Series to: JavaScript](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer (YouTube)
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
 * [Egghead.io](https://egghead.io)
@@ -395,6 +405,8 @@
 
 
 #### AngularJS
+
+> :information_source: See also &#8230; [Angular](#angular)
 
 * [Egghead.io - AngularJS](https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7) - John Lindquist (YouTube)
 * [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs) - Codecademy (Codecademy account *required*)
@@ -419,6 +431,8 @@
 
 
 #### NodeJS
+
+> :information_source: See also &#8230; [Deno](#deno)
 
 * [Beginner's Series to: Node.js](https://youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer (YouTube)
 * [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - Brad Traversy, Traversy Media (Youtube)
@@ -466,6 +480,8 @@
 
 ### Kotlin
 
+> :information_source: See also &#8230; [Android](#android)
+
 * [Android Kotlin Tutorial: Create Android Apps using Kotlin](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) - Sriyank Siddhartha (YouTube)
 * [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) - Aleks Haecky, Asser Samak, Sean McQuillan (Udacity)
@@ -477,6 +493,8 @@
 
 
 ### Linux
+
+> :information_source: See also &#8230; [Bash / Shell](#bash--shell)
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
 * [Linux Administration Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik) - edureka!
@@ -495,6 +513,8 @@
 
 
 ### Machine Learning
+
+> :information_source: See also &#8230; [Deep Learning](#deep-learning)
 
 * [Deep Learning Fundamentals by DeepLearning.TV](https://cognitiveclass.ai/courses/introduction-deep-learning) (cognitiveclass.ai)
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
@@ -697,6 +717,8 @@
 
 ### Swift
 
+> :information_source: See also &#8230; [iOS](#ios)
+
 * [100 days of Swift](https://www.hackingwithswift.com/100) - Hacking With Swift
 * [How To Make An App For Beginners (iOS/Swift - 2019)](https://www.udemy.com/how-to-make-an-app-for-beginners-iosswift-2019/) - Chris Ching (Udemy)
 * [Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX) - CodeWithChris
@@ -723,12 +745,16 @@
 
 ### TypeScript
 
+> :information_source: See also &#8230; [JavaScript](#javascript)
+
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath (YouTube)
 * [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
 * [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 
 
 #### Angular
+
+> :information_source: See also &#8230; [AngularJS](#angularjs)
 
 * [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) - codedamn (YouTube)
 * [Angular Courses](https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT) - Programming with Mosh (YouTube)
@@ -738,6 +764,8 @@
 
 
 #### Deno
+
+> :information_source: See also &#8230; [NodeJS](#nodejs)
 
 * [Deno Beginner](https://denobeginner.com) - Ahmad Awais (email address *required*)
 
@@ -750,6 +778,8 @@
 
 
 ### Web Development
+
+> :information_source: See also &#8230; [HTML / CSS](#html--css), [JavaScript](#javascript)
 
 * [ASP.NET Core Tutorial For Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - Venkat (Pragim Technologies)
 * [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) - Brian Yu,David J. Milan (edX Harvard CS50)

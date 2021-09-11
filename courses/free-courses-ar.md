@@ -50,6 +50,8 @@
 
 ### Bootstrap
 
+> :information_source: See also &#8230; [HTML / CSS](#html--css), [JavaScript](#javascript)
+
 * [Bootstrap 3 In Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw24EjNUp_88S1VeaNK8Cts) - Elzero Web School
 * [Bootstrap 4](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy0dU3C3_lNRTSTtqePEsI2) - Elzero Web School
 
@@ -150,6 +152,8 @@
 
 
 ### JavaScript
+
+> :information_source: See also &#8230; [TypeScript](#typescript)
 
 * [Arabic JavaScript](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm) - KMR Script
 * [Arabic JavaScript ES6 الاصدار السادس من الجافاسكربت](https://www.youtube.com/playlist?list=PLL2zWZTDFZzilx_LJ_mCRDETtDOyBg0UT) - KMR Script
@@ -255,6 +259,8 @@ Emam Academy
 
 
 ### TypeScript
+
+> :information_source: See also &#8230; [JavaScript](#javascript)
 
 * [TypeScript tutorial Arabic](https://www.youtube.com/playlist?list=PLF8OvnCBlEY27rEmxg4F86iFljMXyCmk1) - Hussein Al Rubaye (YouTube)
 

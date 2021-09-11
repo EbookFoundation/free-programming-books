@@ -156,6 +156,7 @@
 
 ### C
 
+* [C language tutorials](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - Code with harry 
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
 * [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)

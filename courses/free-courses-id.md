@@ -41,8 +41,6 @@
 
 ### Android
 
-> :information_source: Lihat juga &#8230; [Flutter](#flutter), [Java](#java), [Kotlin](#kotlin)
-
 * [Tutorial Android (Java)](https://www.youtube.com/playlist?list=PLKPnl-eD7EA4rAzNeXikfCq5yiMuFI1zo) - Kopianan
 * [Tutorial Android (Kotlin)](https://www.youtube.com/playlist?list=PLaoF-xhnnrRUEbF6cvk4-CeBAEOSbp8sS) - EDMT Dev
 * [Tutorial Dasar Android Studio Bahasa Indonesia](https://www.udemy.com/course/tutorial-dasar-android-studio-bahasa-indonesia-gratis) - Udemy
@@ -140,8 +138,6 @@
 
 ### JavaScript
 
-> :information_source: Lihat juga &#8230; [TypeScript](#typescript)
-
 * [Belajar es6 - javacsript gaya baru](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR) - Sekolah Koding
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Programmer Zaman Now
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
@@ -177,8 +173,6 @@
 
 
 ### Kotlin
-
-> :information_source: Lihat juga &#8230; [Android](#android)
 
 * [Belajar Kotlin Collection](https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr) - Programmer Zaman Now
 * [Belajar Kotlin Dasar untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa) - Programmer Zaman Now
@@ -290,8 +284,6 @@
 
 
 ### TypeScript
-
-> :information_source: Lihat juga &#8230; [JavaScript](#javascript)
 
 * [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now (YouTube)
 * [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan (YouTube)

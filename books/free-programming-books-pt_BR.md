@@ -182,8 +182,6 @@
 
 ### JavaScript
 
-> :information_source: Veja também &#8230; [TypeScript](#typescript)
-
 * [Eloquente JavaScript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
@@ -355,16 +353,12 @@
 
 ### Shell
 
-> :information_source: Veja também &#8230; [Sistemas Operacionais](#sistemas-operacionais)
-
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
 
 
 ### TypeScript
-
-> :information_source: Veja também &#8230; [JavaScript](#javascript)
 
 * [Iniciando no TypeScript - Guia prático para os primeiros passos da linguagem](https://www.maiconsilva.com/starting-typescript/) - Maicon Silva (HTML)
 * [TypeScript Documentação](https://www.typescriptlang.org/pt/docs/)

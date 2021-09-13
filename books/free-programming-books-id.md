@@ -81,8 +81,6 @@
 
 ### JavaScript
 
-> :information_source: Lihat juga &#8230; [TypeScript](#typescript)
-
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
@@ -95,8 +93,6 @@
 
 
 ### Node.js
-
-> :information_source: Lihat juga &#8230; [Deno](#deno)
 
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
 * [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua, Google Play Books (*account required*)
@@ -146,8 +142,6 @@
 
 ### TypeScript
 
-> :information_source: Lihat juga &#8230; [JavaScript](#javascript)
-
 * [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
 
 
@@ -158,8 +152,6 @@
 
 
 #### Deno
-
-> :information_source: Lihat juga &#8230; [NodeJS](#nodejs)
 
 * [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
 

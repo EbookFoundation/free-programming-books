@@ -36,14 +36,10 @@
 
 ### AJAX
 
-> :information_source: See also &#8230; [JavasScript](#javascript)
-
 * [Học AJAX](https://www.codehub.com.vn/Hoc-AJAX)
 
 
 ### Android
-
-> :information_source: See also &#8230; [Java](#java)
 
 * [Lập trình Android - Android Widgets - Các điều khiển](https://www.youtube.com/playlist?list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb) - ZendVN
 * [Lập trình Android - Menu - Context Menu - Dialog](https://www.youtube.com/playlist?list=PLv6GftO355Avjf5iuNbEUsIZbltzDEuIU) - ZendVN
@@ -66,8 +62,6 @@
 
 
 ### Bootstrap
-
-> :information_source: See also &#8230; [CSS](#css), [HTML](#html), [JavaScript](#javascript)
 
 * [Tự học Bootstrap 4 cơ bản](https://www.youtube.com/playlist?list=PLQi-dJ8Gqv2i1NHD8f-E2w-zrrr9G7HUJ) - VIETPRO
 * [Twitter Bootstrap](https://www.codehub.com.vn/Twitter-Bootstrap)
@@ -135,8 +129,6 @@
 
 ### JavaScript
 
-> :information_source: See also &#8230; [TypeScript](#typescript)
-
 * [ES6 Cơ Bản](https://www.codehub.com.vn/ES6-Co-Ban)
 * [JavaScript A-Z 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-) - CodersX
 * [JavaScript Advanced 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP) - CodersX
@@ -166,8 +158,6 @@
 
 
 ### NodeJS
-
-> :information_source: See also &#8230; [JavaScript](#javascript)
 
 * [Lập Trình Nodejs Cơ Bản Tại Khoa Phạm](https://www.youtube.com/playlist?list=PLzrVYRai0riQXAXJL9rg62tBvwD0ltJn-) - Trung Tâm Đào Tạo Tin Học Khoa Phạm
 * [NodeJS Cơ Bản](https://www.codehub.com.vn/Node-js-Co-Ban)
@@ -201,8 +191,6 @@
 
 ### React
 
-> :information_source: See also &#8230; [JavaScript](#javascript)
-
 * [Học lập trình React JS - Redux - NodeJS qua dự án thực tế](https://www.youtube.com/playlist?list=PLmbxe7ftoDqSNf5yGMhbDNjIZIM5mQ7Ow) - Thầy Nguyễn Đức Việt
 * [Học React Hooks cơ bản (2020)](https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m) - Easy Frontend
 * [Học redux cơ bản 2020](https://www.youtube.com/playlist?list=PLeS7aZkL6GOvCz3GiOtvtDXChJRuebb7S) - Easy Frontend
@@ -219,8 +207,6 @@
 
 
 ### Sass
-
-> :information_source: See also &#8230; [CSS](#css)
 
 * [Sass Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSWPPRE6Ib99zd5fV4YYH0Q) - Khoa Phạm
 * [Tự Học Sass](https://www.youtube.com/playlist?list=PLv6GftO355AtWld1EE7SBAH-OkKKt23Bb) - ZendVN
@@ -245,8 +231,6 @@
 
 
 ### TypeScript
-
-> :information_source: See also &#8230; [JavaScript](#javascript)
 
 * [TypeScript căn bản](https://www.youtube.com/playlist?list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb) - ZendVN
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU
@@ -277,16 +261,12 @@
 
 ### Vue
 
-> :information_source: See also &#8230; [JavaScript](#javascript)
-
 * [Học Vue js trong một video duy nhất](https://www.youtube.com/watch?v=j97QtHf0CHY) - Lập trình viên TV (Bùi Văn Nguyện)
 * [Lập trình VueJS](https://www.youtube.com/playlist?list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf) - ZendVN - Học Lập Trình Online
 * [Vue JS cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
 
 
 ### Wordpress
-
-> :information_source: See also &#8230; [PHP](#php)
 
 * [WordPress Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w3qzoFaXLsPohofWUMTOHBU) - Thạch Phạm
 * [WordPress Nâng Cao](https://www.youtube.com/playlist?list=PLl4nkmb3a8w3qzoFaXLsPohofWUMTOHBU) - Thạch Phạm

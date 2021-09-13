@@ -46,8 +46,6 @@
 
 ### Android
 
-> :information_source: See also &#8230; [Flutter](#flutter), [Java](#java)
-
 * [안드로이드 스튜디오 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdB6sCgj_jubp8KPb1ni0VOC)
 * [안드로이드 스튜디오 실전 프로젝트](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD862e43ADbvDeGPUZKDuqL)
 * [안드로이드 프로그래밍 고급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcXoTW9RwEf_7UTMcAJaink) (T 아카데미)
@@ -120,8 +118,6 @@
 
 ### iOS
 
-> :information_source: See also &#8230; [Swift](#swift)
-
 * [iPhone 프로그래밍](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdQ8viJACIwxIcUiXU2lMLX) (T 아카데미)
 * [Swfit로 시작하는 아이폰 앱 개발 교과서](https://www.youtube.com/playlist?list=PL9kzervdzKxzBQ4UsMy4H_PANaTEApq_X)
 
@@ -136,8 +132,6 @@
 
 
 ### JavaScript
-
-> :information_source: See also &#8230; [Web Development](#web-development)
 
 * [모던 웹을 위한 JavaScript + jQuery](https://www.youtube.com/playlist?list=PLBXuLgInP-5kLy13XLuK8iBWVFDBJygYr)
 * [JavaScript 입문 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) (생활코딩)
@@ -233,15 +227,11 @@
 
 ### Spring
 
-> :information_source: See also &#8230; [Java](#java)
-
 * [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) (김영한)
 * [Spring 강좌](https://www.youtube.com/playlist?list=PLY9pe3iUjRrRiJeg0jw22yW1G5yzAdiqC)
 
 
 ### Swift
-
-> :information_source: See also &#8230; [iOS](#iOS)
 
 * [Swift 프로그래밍](https://www.youtube.com/playlist?list=PL9mhQYIlKEheAkAxX53qlTjjWK93Xd2pf) (T 아카데미)
 
@@ -252,8 +242,6 @@
 
 
 ### Web Development
-
-> :information_source: See also &#8230; [JavaScript](#javascript)
 
 * [웹 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1323070)
 * [HTML5&CSS3 기초](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTdvqzohqVs3RTVHzWPu79) (T 아카데미)

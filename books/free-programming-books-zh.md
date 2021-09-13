@@ -119,8 +119,6 @@
 
 ### 编辑器
 
-> :information_source: See also &#8230; [IDE](#ide), [Vim](#vim)
-
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com)
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
@@ -133,8 +131,6 @@
 
 
 ### 操作系统
-
-> :information_source: See also &#8230; [Shell](#shell)
 
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
@@ -218,8 +214,6 @@
 
 ### 数据库
 
-> :information_source: See also &#8230; [MySQL](#mysql), [NoSQL](#nosql), [PostgreSQL](#postgresql)
-
 <!-- Waiting to add in -->
 
 
@@ -266,8 +260,6 @@
 
 
 ### IDE
-
-> :information_source: See also &#8230; [编辑器](#编辑器)
 
 * [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 
@@ -478,8 +470,6 @@
 
 ### JavaScript
 
-> :information_source: See also &#8230; [TypeScript](#typescript)
-
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、为之漫笔(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)
 * [你不知道的Javascript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
@@ -546,8 +536,6 @@
 
 #### Node.js
 
-> :information_source: See also &#8230; [Deno](#deno)
-
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/) - 阿里团队
 * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
 * [express.js 中文文档](http://expressjs.jser.us)
@@ -610,15 +598,11 @@
 
 ### MySQL
 
-> :information_source: See also &#8230; [数据库](#数据库)
-
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 
 ### NoSQL
-
-> :information_source: See also &#8230; [数据库](#数据库)
 
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
@@ -663,8 +647,6 @@
 
 
 ### PostgreSQL
-
-> :information_source: See also &#8230; [数据库](#数据库)
 
 * [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
 * [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
@@ -765,8 +747,6 @@
 
 ### TypeScript
 
-> :information_source: See also &#8230; [JavaScript](#javascript)
-
 * [TypeScript 教程](https://www.runoob.com/typescript/ts-tutorial.html) - runoob (HTML)
 * [TypeScript 入门教程](https://www.runoob.com/w3cnote/getting-started-with-typescript.html) - runoob (HTML)
 * [TypeScript 中文网](https://www.tslang.cn) (HTML)
@@ -785,8 +765,6 @@
 
 #### Deno
 
-> :information_source: See also &#8230; [Node.js](#nodejs)
-
 * [Deno 钻研之术](https://deno-tutorial.js.org)
 * [Deno进阶开发笔记](https://chenshenhai.com/deno_note) - 大深海
 
@@ -797,8 +775,6 @@
 
 
 ### Vim
-
-> :information_source: See also &#8230; [编辑器](#编辑器), [IDE](#ide)
 
 * [大家來學 VIM](http://www.study-area.org/tips/vim/index.html)
 

@@ -442,8 +442,6 @@
 
 #### Database
 
-> :information_source: See also &#8230; [DB2](#db2), [DBMS](#dbms), [MySQL](#mysql), [NoSQL](#nosql), [PostgreSQL](#postgresql), [SQL (agnostic)](#sql-implementation-agnostic), [SQL Server](#sql-server)
-
 * [Database Design, 2nd Ed.](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/?uuid=5b6f010a-0563-44d4-94c5-67caa515d2c5) - Adrienne Watt, Nelson Eng (HTML, PDF, EPUB, Kindle)
 * [Database Explorations](http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) (PDF)
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
@@ -993,8 +991,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Android
 
-> :information_source: See also &#8230; [Flutter](#flutter), [Java](#java), [Kotlin](#kotlin)
-
 * [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
 * [Android Notes for Professionals](https://goalkicker.com/AndroidBook) - Compiled from StackOverflow Documentation (PDF)
 * [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) (email address *requested*, not required)
@@ -1098,8 +1094,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Awk
 
-> :information_source: See also &#8230; [Linux](#linux), [Unix](#unix)
-
 * [An Awk Primer](https://en.wikibooks.org/wiki/An_Awk_Primer) - Wikibooks
 * [Awk](https://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
 * [Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual) - Arnold D. Robbins (HTML, PDF)
@@ -1107,8 +1101,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 
 ### Bash
-
-> :information_source: See also &#8230; [Linux](#linux), [Unix](#unix)
 
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
 * [Bash Guide for Beginners (2008)](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
@@ -1132,8 +1124,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 
 ### Basic
-
-> :information_source: See also &#8230; [Visual Basic](#visual-basic)
 
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org) - Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
 * [A beginner's guide to Gambas](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
@@ -1337,16 +1327,12 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### DB2
 
-> :information_source: See also &#8230; [Database](#database)
-
 * [Getting started with DB2 Express-C](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_Express_v9.7_p4.pdf) (PDF)
 * [Getting started with IBM Data Studio for DB2](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_IBM_Data_Studio_for_DB2_p3.pdf) (PDF)
 * [Getting started with IBM DB2 development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf) (PDF)
 
 
 ### DBMS
-
-> :information_source: See also &#8230; [Database](#database)
 
 * [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
 
@@ -1668,8 +1654,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### iOS
 
-> :information_source: See also &#8230; [Objective-C](#objective-c), [Swift](#swift)
-
 * [Cocoa Dev Central](http://cocoadevcentral.com)
 * [iOS 8 App Development Essentials](http://www.techotopia.com/index.php/IOS_8_App_Development_Essentials)
 * [iOS Developer Notes for Professionals](https://goalkicker.com/iOSBook/) - Compiled from StackOverflow Documentation (PDF)
@@ -1791,8 +1775,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 
 ### JavaScript
-
-> :information_source: See also &#8230; [TypeScript](#typescript)
 
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer (HTML)
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
@@ -1949,8 +1931,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Node.js
 
-> :information_source: See also &#8230; [Deno](#deno), [Express](#expressjs), [Fastify](#fastify)
-
 * [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
 * [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
 * [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
@@ -2060,8 +2040,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 
 ### Linux
-
-> :information_source: See also &#8230; [Bash](#bash), [Unix](#unix)
 
 * [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) - Wikibooks
 * [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/) (PDF)
@@ -2177,8 +2155,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Maven
 
-> :information_source: See also &#8230; [Java](#java)
-
 * [Developing with Eclipse and Maven](https://books.sonatype.com/m2eclipse-book/reference/index.html)
 * [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
 * [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
@@ -2203,8 +2179,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 
 ### MySQL
-
-> :information_source: See also &#8230; [Database](#database), [SQL (agnostic)](#sql-implementation-agnostic)
 
 * [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
 * [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
@@ -2256,8 +2230,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### NoSQL
 
-> :information_source: See also &#8230; [Database](#database)
-
 * [CouchDB: The Definitive Guide](http://guide.couchdb.org)
 * [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
 * [Graph Databases](http://graphdatabases.com)
@@ -2277,8 +2249,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 
 ### Objective-C
-
-> :information_source: See also &#8230; [iOS](#ios)
 
 * [Google's Objective-C Style Guide](https://github.com/google/styleguide/blob/gh-pages/objcguide.md)
 * [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005149)
@@ -2418,8 +2388,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 
 ### PostgreSQL
-
-> :information_source: See also &#8230; [Database](#database)
 
 * [Postgres Official Documentation](http://www.postgresql.org/docs/)
 * [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) (email address *requested*, not required)
@@ -2876,8 +2844,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Sed
 
-> :information_source: See also &#8230; [Linux](#linux), [Unix](#unix)
-
 * [GNU sed](https://learnbyexample.github.io/learn_gnused/) - Sundeep Agarwal
 * [Sed - An Introduction and Tutorial](https://www.grymoire.com/Unix/Sed.html) - Bruce Barnett
 
@@ -2916,8 +2882,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### SQL (implementation agnostic)
 
-> :information_source: See also &#8230; [Database](#database)
-
 * [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
 * [Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/)
@@ -2927,8 +2891,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 
 ### SQL Server
-
-> :information_source: See also &#8230; [Database](#database)
 
 * [Best of SQLServerCentral.com Vol 7](http://www.red-gate.com/community/books/ssc-7) *(RedGate, By SQLServerCentral Authors)
 * [Brad's Sure Guide to SQL Server Maintenance Plans](http://www.red-gate.com/community/books/sql-server-maintenance-plans) - Brad McGehee (PDF) (email address *requested*)
@@ -2981,8 +2943,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Swift
 
-> :information_source: See also &#8230; [iOS](#ios), [Objective-C](#objective-c)
-
 * [Essential Swift](https://essential-swift.programming-books.io) - Krzysztof Kowalczyk (Compiled from StackOverflow Documentation)
 * [Hacking with Swift](https://www.hackingwithswift.com)
 * [Swift Notes for Professionals](https://goalkicker.com/SwiftBook/) - Compiled from StackOverflow Documentation (PDF)
@@ -3023,8 +2983,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### TypeScript
 
-> :information_source: See also &#8230; [JavaScript](#javascript)
-
 * [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
@@ -3045,8 +3003,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 
 #### Deno
-
-> :information_source: See also &#8230; [Node.js](#nodejs)
 
 * [Deno Manual](https://deno.land/manual)
 * [FlavioCopes Deno Handbook](https://flaviocopes.com/deno) - *free PDF with registration*
@@ -3093,8 +3049,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 
 ### Visual Basic
-
-> :information_source: See also &#8230; [Basic](#basic)
 
 * [Visual Basic .NET Notes for Professionals](https://goalkicker.com/VisualBasic_NETBook/) - Compiled from StackOverflow Documentation (PDF)
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)

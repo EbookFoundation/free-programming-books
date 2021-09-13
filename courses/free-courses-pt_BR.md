@@ -40,8 +40,6 @@
 
 ### Android
 
-> :information_source: Veja também &#8230; [Flutter](#flutter), [Java](#java),  [Kotlin](#kotlin)
-
 * [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
 * [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) - Unicamp (Coursera)
 
@@ -67,8 +65,6 @@
 
 
 ### CSS
-
-> :information_source: Veja também &#8230; [SASS](#sass)
 
 * [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
 * [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Curso em Vídeo (Youtube)
@@ -114,8 +110,6 @@
 
 ### Gulp
 
-> :information_source: Veja também &#8230; [JavaScript](#javascript)
-
 * [Curso de Gulp](https://www.udemy.com/curso-de-gulp/) - Fabio Ewerton (Udemy)
 
 
@@ -139,8 +133,6 @@
 
 
 ### Ionic
-
-> :information_source: Veja também &#8230; [Angular](#angular)
 
 * [Desenvolvimento com Ionic 3 + WebComponents com StencilJS](https://www.udemy.com/ionic-3-e-webcomponents-com-stenciljs/) - Gabriel Barreto (Udemy)
 * [Ionic 3 para iniciantes](https://www.udemy.com/ionic-3-para-iniciantes/) - Charles dos Santos França (Udemy)
@@ -168,8 +160,6 @@
 
 ### JavaScript
 
-> :information_source: Veja também &#8230; [TypeScript](#typescript)
-
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo
 * [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/discover/courses) - Rocketseat
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
@@ -177,14 +167,10 @@
 
 ### Jekyll
 
-> :information_source: Veja também &#8230; [Markdown](#markdown), [Ruby](#ruby)
-
 * [Criando sites estáticos com Jekyll](https://www.udemy.com/course/criando-sites-estaticos-com-jekyll/) - Willian Justen de Vasconcellos (Udemy)
 
 
 ### Kotlin
-
-> :information_source: Veja também &#8230; [Android](#android)
 
 * [Aprenda Kotlin do zero - Módulo Básico](https://www.udemy.com/kotlin-aprenda-do-zero-modulo-basico/) - Pedro Massango (Udemy)
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
@@ -196,8 +182,6 @@
 
 
 ### Linux
-
-> :information_source: Veja também &#8230; [Shell](#shell)
 
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
 * [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
@@ -220,8 +204,6 @@
 
 
 ### Node.js
-
-> :information_source: Veja também &#8230; [JavaScript](#javascript)
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
 * [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (Youtube)
@@ -275,8 +257,6 @@
 
 ### React Native
 
-> :information_source: Veja também &#8230; [JavaScript](#javascript)
-
 * [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) - Canal Geek Dev (YouTube)
 * [Curso do React Native implementando CRUD](https://app.rocketseat.com.br/node/curso-react-native) - *registration required* (Rocketseat)
 
@@ -292,14 +272,10 @@
 
 ### Sass
 
-> :information_source: Veja também &#8230; [CSS](#css)
-
 * [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
 
 
 ### Shell
-
-> :information_source: Veja também &#8230; [Linux](#linux)
 
 * [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
 
@@ -310,8 +286,6 @@
 
 
 ### TypeScript
-
-> :information_source: Veja também &#8230; [JavaScript](#javascript)
 
 * [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) - DevDojo (YouTube)
 * [TypeScript, o início, de forma prática](https://www.youtube.com/watch?v=0mYq5LrQN1s) - Rocketseat, Diego Fernandes (YouTube)
@@ -326,13 +300,9 @@
 
 ### Vue.js
 
-> :information_source: Veja também &#8230; [JavaScript](#javascript)
-
 * [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
 
 
 ### WordPress
-
-> :information_source: Veja também &#8230; [PHP](#php)
 
 * [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Curso em vídeo (YouTube)

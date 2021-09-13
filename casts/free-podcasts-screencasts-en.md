@@ -34,8 +34,6 @@
 
 ### Android
 
-> :information_source: See also &#8230; [Java](#java)
-
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) (podcast)
 
@@ -131,8 +129,6 @@
 
 
 ### Gulp
-
-> :information_source: See also &#8230; [JavaScript](#javascript)
 
 * [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp) (screencast)
 

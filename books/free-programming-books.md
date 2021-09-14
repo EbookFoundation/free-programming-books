@@ -90,7 +90,7 @@
   * [Spring Security](#spring-security)
   * [Wicket](#wicket)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
+  * [AngularJS](#angularjs)
   * [Aurelia](#aurelia)
   * [Backbone.js](#backbonejs)
   * [Booty5.js](#booty5js)
@@ -1835,19 +1835,22 @@ Kerridge (PDF) (email address *requested*, not required)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
 
 
-#### Angular.js
+#### AngularJS
 
-* [Angular for the jQuery developer](http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-for-the-jquery-developer.html)
-* [Angular.js Guide](https://docs.angularjs.org/guide/)
-* [Angular.js Material Designing](https://material.angularjs.org/latest/)
-* [Angular.js Style Guide](https://github.com/toddmotto/angularjs-styleguide)
-* [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
-* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
-* [AngularJS Notes for Professionals](https://goalkicker.com/AngularJSBook) - Compiled from StackOverflow Documentation (PDF)
-* [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) (email address *requested*, not required)
-* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
-* [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
-* [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+> :information_source: See also &#8230; [Angular](#angular)
+
+* [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md) - John Papa (HTML)
+* [Angular for the jQuery developer](http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-for-the-jquery-developer.html) - ng-newsletter, Ari Lerner, David Wu, Nate Murray (HTML)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson (HTML)
+* [AngularJS Guide](https://docs.angularjs.org/guide/) (HTML)
+* [AngularJS Material Designing](https://material.angularjs.org/latest/) (HTML)
+* [AngularJS Notes for Professionals](https://goalkicker.com/AngularJSBook) - Compiled from StackOverflow Documentation ([PDF](https://goalkicker.com/AngularJSBook/AngularJSNotesForProfessionals.pdf))
+* [AngularJS Style Guide for teams](https://github.com/toddmotto/angularjs-styleguide) - Todd Motto (HTML)
+* [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) - Frederik Dietz (PDF, EPUB, Kindle) (email address *requested*, not required)
+* [AngularJS Tutorial](https://docs.angularjs.org/tutorial) (HTML)
+* [AngularJS vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML, [PDF, EBOOK, Kindle](https://leanpub.com/angularjs-emberjs-compare)) (Leanpub account / email address *not required*)
+* [Seven-Part Introduction to AngularJS](http://ngokevin.com/blog/angular-1/) - Keving Ngo (HTML, [:package: demos, open-sourced examples](https://github.com/ngokevin/angularbook))
+* [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html) - Andy Shora (HTML)
 
 
 #### Aurelia
@@ -1897,7 +1900,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Ember.js
 
-* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
+* [AngularJs vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML, [PDF, EPUB, Kindle](https://leanpub.com/angularjs-emberjs-compare)) (Leanpub account / email address *not required*)
 * [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
 * [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 * [Ember.js - Getting started](https://guides.emberjs.com/release/)
@@ -2995,9 +2998,14 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Angular
 
-* [Angular 2+ Notes for Professionals](https://goalkicker.com/Angular2Book/) - Compiled from StackOverflow documentation (PDF)
-* [Angular Docs](https://angular.io/docs)
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma
+> :information_source: See also &#8230; [AngularJS](#angularjs)
+
+* [Angular 2 Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md) - John Papa (HTML)
+* [Angular 2+ Notes for Professionals](https://goalkicker.com/Angular2Book/) - Compiled from StackOverflow documentation ([PDF](https://goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf))
+* [Angular Docs](https://angular.io/docs) (HTML)
+* [Angular Material](https://material.angular.io/guide) (HTML)
+* [Angular Tutorial](https://angular.io/tutorial) (HTML)
+* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma (PDF, [:package: code samples](https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore))
 
 
 #### Deno

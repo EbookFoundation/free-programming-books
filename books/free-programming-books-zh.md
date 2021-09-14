@@ -76,6 +76,8 @@
   * [Shell](#shell)
   * [Swift](#swift)
   * [TypeScript](#typescript)
+    * [Angular](#angular)
+    * [Deno](#deno)
   * [VBA](#vba-microsoft-visual-basic-applications)
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
@@ -487,10 +489,12 @@
 
 #### AngularJS
 
-  * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
-  * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
-  * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
-  * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
+> :information_source: See also &#8230; [Angular](#angular)
+
+* [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md) - Xu Fei (HTML)
+* [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/) - Way Lau (HTML)
+* [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn) - Yan Qing, Hou Zhenyu, 速冻沙漠 (HTML) (:card_file_box: *archived*)
+* [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md) - Minko Gechev, Xuefeng Zhu, Shintaro Kaneko et al. (HTML)
 
 
 #### Backbone.js
@@ -506,12 +510,6 @@
   * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
   * [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
   * [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
-
-
-#### Deno
-
-  * [Deno 钻研之术](https://deno-tutorial.js.org)
-  * [Deno进阶开发笔记](https://chenshenhai.com/deno_note) - 大深海
 
 
 #### Electron.js
@@ -538,20 +536,20 @@
 
 #### Node.js
 
-  * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/) - 阿里团队
-  * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
-  * [express.js 中文文档](http://expressjs.jser.us)
-  * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
-  * [koa 中文文档](https://github.com/guo-yu/koa-guide)
-  * [JavaScript全栈工程师培训材料](http://nodejs.ctolib.com/docs/sfile/jstraining/engineering.html)
-  * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
-  * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
-  * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
-  * [Node.js Fullstack《從零到一的進撃》](https://github.com/jollen/nodejs-fullstack-lessons)
-  * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
-  * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
-  * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
-  * [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details) - 社区翻译
+* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/) - 阿里团队
+* [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
+* [express.js 中文文档](http://expressjs.jser.us)
+* [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
+* [JavaScript全栈工程师培训材料](http://nodejs.ctolib.com/docs/sfile/jstraining/engineering.html)
+* [koa 中文文档](https://github.com/guo-yu/koa-guide)
+* [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
+* [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
+* [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+* [Node.js Fullstack《從零到一的進撃》](https://github.com/jollen/nodejs-fullstack-lessons)
+* [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+* [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
+* [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
+* [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details) - 社区翻译
 
 
 #### React.js
@@ -749,9 +747,26 @@
 
 ### TypeScript
 
-* [TypeScript 入门教程](https://www.runoob.com/w3cnote/getting-started-with-typescript.html)
-* [TypeScript 中文网](https://www.tslang.cn)
-* [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese)
+* [TypeScript 教程](https://www.runoob.com/typescript/ts-tutorial.html) - runoob (HTML)
+* [TypeScript 入门教程](https://www.runoob.com/w3cnote/getting-started-with-typescript.html) - runoob (HTML)
+* [TypeScript 中文网](https://www.tslang.cn) (HTML)
+* [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese) - 三毛 (HTML)
+* [TypeScript Handbook（中文版）](https://www.runoob.com/manual/gitbook/TypeScript/_book/) - Patrick Zhong (HTML)
+
+
+#### Angular
+
+> :information_source: See also &#8230; [AngularJS](#angularjs)
+
+* [Angular 文档简介](https://angular.cn/docs) - Wang Zhicheng, Ye Zhimin, Yang Lin et al. (HTML)
+* [Angular Material 组件库](https://material.angular.cn) - Wang Zhicheng, Ye Zhimin, Yang Lin et al. (HTML)
+* [Angular Tutorial (教程：英雄之旅)](https://angular.cn/tutorial) - Wang Zhicheng, Ye Zhimin, Yang Lin et al. (HTML)
+
+
+#### Deno
+
+* [Deno 钻研之术](https://deno-tutorial.js.org)
+* [Deno进阶开发笔记](https://chenshenhai.com/deno_note) - 大深海
 
 
 ### VBA (Microsoft Visual Basic Applications)

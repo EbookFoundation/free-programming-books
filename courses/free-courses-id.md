@@ -16,7 +16,7 @@
 * [Java](#java)
   * [Spring](#spring)
 * [JavaScript](#javascript)
-  * [Angular](#angular)
+  * [AngularJS](#angularjs)
   * [Node](#node)
   * [React](#react)
   * [Vue](#vue)
@@ -131,7 +131,7 @@
 * [Memulai Pemrograman dengan Java](https://www.dicoding.com/academies/60) - Dicoding, membutuhkan registrasi
 
 
-### Spring
+#### Spring
 
 * [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Mastahcode
 
@@ -140,16 +140,15 @@
 
 * [Belajar es6 - javacsript gaya baru](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR) - Sekolah Koding
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Programmer Zaman Now
-* [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
 
 
-#### Angular
+#### AngularJS
 
-* [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo
+* [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo (YouTube)
 
 
 #### Node
@@ -286,6 +285,6 @@
 
 ### TypeScript
 
-* [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
-* [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan
-* [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan
+* [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now (YouTube)
+* [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan (YouTube)
+* [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan (YouTube)

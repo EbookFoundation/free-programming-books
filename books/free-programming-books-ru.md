@@ -6,7 +6,6 @@
   * [Работа c cетью](#Работа-с-сетью)
   * [Управление конфигурациями](#Управление-конфигурациями)
   * [Open Source Ecosystem](#open-source-ecosystem)
-* [Angular](#angular)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -65,6 +64,7 @@
   * [PostgreSQL](#postgresql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
+  * [Angular](#angular)
 * [Unix](#unix)
 * [Vim](#vim)
 
@@ -112,12 +112,6 @@
 #### Open Source Ecosystem
 
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
-
-
-#### Angular
-
-* [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
-* [Angular 5. Полное руководство](https://bxnotes.ru/conspect/angular-5-the-complete-guide/) - Maximilian Schwarzmüller
 
 
 ### Assembly
@@ -302,9 +296,10 @@
 
 #### AngularJS
 
+> :information_source: See also &#8230; [Angular](#angular)
+
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)
-* [Русская версия документация Angular 10](https://angular24.ru/start) - Алексей Охрименко
 
 
 #### jQuery
@@ -527,8 +522,17 @@
 
 ### TypeScript
 
-* [Перевод официальной документации Typescript](http://typescript-lang.ru/docs/index.html)
+* [Перевод официальной документации Typescript](http://typescript-lang.ru/docs/) - George Kiselev
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
+
+
+#### Angular
+
+> :information_source: See also &#8230; [AngularJS](#angularjs)
+
+* [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
+* [Русская версия документация Angular 10](https://angular24.ru) - Alexey Okhrimenko
+* [Angular 5. Полное руководство](https://bxnotes.ru/conspect/angular-5-the-complete-guide/) - Maximilian Schwarzmüller
 
 
 ### Unix

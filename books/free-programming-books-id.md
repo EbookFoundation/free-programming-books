@@ -4,7 +4,6 @@
 * [C#](#c-sharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
-* [Deno](#deno)
 * [Emacs](#emacs)
 * [Git](#git)
 * [Go](#go)
@@ -18,6 +17,9 @@
 * [PHP](#php)
 * [Python](#python)
 * [React](#react)
+* [TypeScript](#typescript)
+  * [Angular](#angular)
+  * [Deno](#deno)
 * [Vue](#vue)
 
 
@@ -43,11 +45,6 @@
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
-
-
-### Deno
-
-* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
 
 
 ### Emacs
@@ -84,7 +81,6 @@
 
 ### JavaScript
 
-* [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
@@ -142,6 +138,22 @@
 ### React
 
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
+
+
+### TypeScript
+
+* [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
+
+
+#### Angular
+
+* [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)
+* [Tutorial Series Belajar Angular 2019](https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html) - Bewok Satu Kosong (HTML)
+
+
+#### Deno
+
+* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
 
 
 ### Vue

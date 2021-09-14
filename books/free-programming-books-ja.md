@@ -42,7 +42,7 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
+  * [AngularJS](#angularjs)
   * [Backbone.js](#backbonejs)
   * [jQuery](#jquery)
   * [Node.js](#nodejs)
@@ -78,6 +78,7 @@
 * [Swift](#swift)
 * [Tcl/Tk](#tcltk)
 * [TypeScript](#typescript)
+  * [Angular](#angular)
 * [VBA](#vba)
 * [Vim](#vim)
 
@@ -405,12 +406,13 @@
 * [中上級者になるためのJavaScript](https://kenju.gitbooks.io/js_step-up-to-intermediate/) - Kenju
 
 
-#### Angular.js
+#### AngularJS
 
-* [Angular Docs](https://angular.jp/docs)
+> :information_source: See also &#8230; [Angular](#angular)
+
 * [AngularJS 1.2 日本語リファレンス](http://js.studio-kingdom.com/angularjs) - @tomof(翻訳)
 * [AngularJS's tutorial - あなたとともにAngularJS](http://lab.hisasann.com/AngularJSTutorial/) - @hisasann
-* [AngularJSスタイルガイド](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md)
+* [AngularJSスタイルガイド](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md) - Minko Gechev, Morita Naoki, Yohei Sugigami et al.
 * [すぐできる AngularJS](http://8th713.github.io/LearnAngularJS) - @8th713
 
 
@@ -677,6 +679,14 @@
 
 * [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - basarat, yohamta(翻訳)
 * [TypeScriptの為のクリーンコード](https://msakamaki.github.io/clean-code-typescript/) - labs42io, 酒巻 瑞穂(翻訳)
+
+
+#### Angular
+
+> :information_source: See also &#8230; [AngularJS](#angularjs)
+
+* [Angular Docs](https://angular.jp/docs)
+* [Angular Tutorial](https://angular.jp/tutorial)
 
 
 ### VBA

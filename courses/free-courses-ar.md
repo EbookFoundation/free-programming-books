@@ -14,7 +14,6 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
   * [Gulp.js](#gulpjs)
   * [jQuery](#jquery)
   * [NodeJS](#nodejs)
@@ -27,6 +26,8 @@
   * [Django](#django)
   * [Flask](#flask)
 * [R](#r)
+* [TypeScript](#typescript)
+  * [Angular](#angular)
 
 
 ### Algorithms & Data Structures
@@ -163,13 +164,6 @@
 * [JavaScript Unit Testing With Jest](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O) - Elzero Web School
 
 
-#### Angular.js
-
-* [Arabic Angular 7 from A to R احتراف الانجولار](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjSjy7yeJwpj2QkJd8NKo-O) - KMR Script
-* [Arabic Angular and Firebase App تطبيق انجولار وفايربيز](https://www.youtube.com/playlist?list=PLL2zWZTDFZzh2WEmc3fH_O4y4N05ZCqB2) - KMR Script
-* [Arabic NgRx (Angular + Redux)](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhW10baUv1esvrowMwbfd5H) - KMR Script
-
-
 #### Gulp.js
 
 * [Basic of Gulp.js](https://www.youtube.com/playlist?list=PLfDx4cQoUNOaj10GLKu2YAcDQAMRvUgp0) - Algorithm Academy
@@ -258,3 +252,15 @@ Emam Academy
 ### R
 
 * [R Tutorial For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LKTMW3wrlT3GiFMCL_r_Sn) - محمد الدسوقي
+
+
+### TypeScript
+
+* [TypeScript tutorial Arabic](https://www.youtube.com/playlist?list=PLF8OvnCBlEY27rEmxg4F86iFljMXyCmk1) - Hussein Al Rubaye (YouTube)
+
+
+#### Angular
+
+* [Arabic Angular 7 from A to R احتراف الانجولار](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjSjy7yeJwpj2QkJd8NKo-O) - KMR Script (YouTube)
+* [Arabic Angular and Firebase App تطبيق انجولار وفايربيز](https://www.youtube.com/playlist?list=PLL2zWZTDFZzh2WEmc3fH_O4y4N05ZCqB2) - KMR Script (YouTube)
+* [Arabic NgRx (Angular + Redux)](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhW10baUv1esvrowMwbfd5H) - KMR Script (YouTube)

@@ -16,7 +16,7 @@
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
+  * [Angular](#angular)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
   * [Node.js](#nodejs)
@@ -117,7 +117,7 @@
 
 * [Build webapp without using a framework](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4) (screencast)
 * [Go An Introduction](https://www.youtube.com/watch?v=SI-okTfauyw) (screencast)
-* Go and AngularJS  (screeencasts)
+* Go and AngularJS  (screencasts)
     * [Part 1 - Hello World](https://www.youtube.com/watch?v=U80k7fTEqNw)
     * [Part 2 - Websockets](https://www.youtube.com/watch?v=ysAZ_oqPOo0)
     * [Part 3 - REST and ngResource](https://www.youtube.com/watch?v=QHIMygADPPc)
@@ -165,7 +165,7 @@
 * [The Javascript Show](http://javascriptshow.com) (podcast)
 
 
-#### Angular.js
+#### Angular
 
 * [Angular Air](https://angularair.com) (podcast)
 

@@ -7,7 +7,6 @@
   * [Sistemi](#sistemi)
   * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
-* [Angular](#angular)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
@@ -22,6 +21,7 @@
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -32,6 +32,8 @@
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
+* [TypeScript](#typescript)
+  * [Angular](#angular)
 * [UML](#uml)
 * [Visual Basic](#visual-basic)
 
@@ -72,11 +74,6 @@
 ### Android
 
 * [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
-
-
-### Angular
-
-* [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
 
 
 ### Assembly Language
@@ -174,6 +171,15 @@
 * [Corso completo Javascript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
+* [Guida Javascript](https://www.html.it/guide/guida-javascript-di-base/) - Andrea Chiarelli, Davide Brognoli, Alberto Bottarini, Ilario Valdelli (HTML)
+
+
+#### AngularJS
+
+> :information_source: Vedi anche &#8230; [Angular](#angular)
+
+* [AngularJS, il supereroe dei framework JavaScript ...di Google](https://www.html.it/articoli/angularjs-il-supereroe-dei-framework-javascript-di-google/) - Andrea Chiarelli (HTML)
+* [Guida AngularJS](https://www.html.it/guide/guida-angularjs/) - Andrea Chiarelli (HTML)
 
 
 ### Kotlin
@@ -242,6 +248,21 @@
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf) (PDF)
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
 * [Ruby User Guide](https://web.archive.org/web/20161102011319/http://ruby-it.org/rug_it.zip)
+
+
+### TypeScript
+
+* [Guida TypeScript](https://www.html.it/guide/guida-typescript/) - Andrea Chiarelli (HTML)
+* [TypeScript Deep Dive](https://github.com/TizioFittizio/typescript-book) - Basarat Ali Syed, Luca Campana (HTML) (GitBooks)
+
+
+#### Angular
+
+> :information_source: Vedi anche &#8230; [AngularJS](#angularjs)
+
+* [Applicazioni con Angular e PHP, la guida](https://www.html.it/guide/applicazioni-con-angular-e-php-la-guida/) - Lorenzo De Ambrosis (HTML)
+* [Guida Angular 2](https://www.html.it/guide/guida-angularjs-2/) - Andrea Chiarelli (HTML)
+* [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
 
 
 ### UML

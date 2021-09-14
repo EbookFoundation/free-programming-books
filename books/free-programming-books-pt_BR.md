@@ -21,8 +21,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular](#angular)
-  * [Angular.js](#angularjs)
+  * [AngularJS](#angularjs)
   * [Backbone.js](#backbonejs)
   * [Ember.js](#emberjs)
   * [Express.js](#expressjs)
@@ -46,6 +45,8 @@
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
+* [TypeScript](#typescript)
+  * [Angular](#angular)
 
 
 ### Agnósticos
@@ -195,17 +196,13 @@
 * [You Don't Know JS: Tipos & Gramática](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/types%20&%20grammar/README.md)
 
 
-#### Angular
+#### AngularJS
 
-* [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm)
-* [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/index.html)
+> :information_source: Veja também &#8230; [Angular](#angular)
 
-
-#### Angular.js
-
-* [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
-* [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/)
-* [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/)
+* [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/) - Davi Ferreira
+* [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/) - Lucas Caprio
+* [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/) - Diego Eis
 
 
 #### Backbone.js
@@ -361,3 +358,18 @@
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
+
+
+### TypeScript
+
+* [Iniciando no TypeScript - Guia prático para os primeiros passos da linguagem](https://www.maiconsilva.com/starting-typescript/) - Maicon Silva (HTML)
+* [TypeScript Documentação](https://www.typescriptlang.org/pt/docs/)
+* [TypeScript: O guia definitivo](https://oieduardorabelo.medium.com/typescript-o-guia-definitivo-1a63b04259cc) - Eduardo Rabelo (HTML)
+
+
+#### Angular
+
+> :information_source: Veja também &#8230; [AngularJS](#angularjs)
+
+* [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm) - José Carlos Macoratti (HTML)
+* [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/) - IBM, Babu Suresh (HTML)

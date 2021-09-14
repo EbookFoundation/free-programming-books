@@ -866,7 +866,6 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Search Engines
 
 * [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elastic/elasticsearch-definitive-guide))
-* [Exploring Elasticsearch](http://exploringelasticsearch.com)
 * [Solr for newbies workshop (2019)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
 

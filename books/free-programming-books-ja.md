@@ -437,7 +437,7 @@
 #### React
 
 * [React 0.13 日本語リファレンス](http://js.studio-kingdom.com/react) - @tomof(翻訳)
-* [React チュートリアル](https://facebook.github.io/react/docs/tutorial-ja-JP.html) - Facebook Inc.
+* [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html) - Facebook Inc.
 
 
 ### Julia

@@ -6,6 +6,7 @@
   * [ガベージコレクション](#%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3)
   * [グラフィックスプログラミング](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
   * [グラフィックユーザーインターフェイス](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b9)
+  * [コンテナ](#%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A)
   * [セキュリティ](#%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3)
   * [その他の話題](#%e3%81%9d%e3%81%ae%e4%bb%96%e3%81%ae%e8%a9%b1%e9%a1%8c)
   * [ソフトウェアアーキテクチャ](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%a2%e3%83%bc%e3%82%ad%e3%83%86%e3%82%af%e3%83%81%e3%83%a3)
@@ -119,12 +120,18 @@
 * [Qtプログラミング入門](http://densan-labs.net/tech/qt/) - @nishio_dens
 
 
+#### コンテナ
+
+* [Docker-docs-ja](https://docs.docker.jp) - Docker Docs Translation Ja-Jp Project
+* [チュートリアル | Kubernetes](https://kubernetes.io/ja/docs/tutorials) - The Kubernetes Authors
+
+
 #### セキュリティ
 
 * [RSA暗号体験入門](http://www.cybersyndrome.net/rsa/) - CyberSyndrome
 * [ウェブ健康診断仕様](https://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [クラウドを支えるこれからの暗号技術](https://herumi.github.io/ango/) - 光成滋生 (PDF)
-* [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programmingv2/) - 独立行政法人情報処理推進機構(IPA)
+* [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programming) - 塩田英二 ([PDF](https://www.ipa.go.jp/files/000059838.pdf))
 * [はやわかり RSA](http://www.mew.org/~kazu/doc/rsa.html) - 山本和彦
 * [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [安全なウェブサイトの作り方](https://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
@@ -437,7 +444,7 @@
 #### React
 
 * [React 0.13 日本語リファレンス](http://js.studio-kingdom.com/react) - @tomof(翻訳)
-* [React チュートリアル](https://facebook.github.io/react/docs/tutorial-ja-JP.html) - Facebook Inc.
+* [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html) - Facebook Inc.
 
 
 ### Julia

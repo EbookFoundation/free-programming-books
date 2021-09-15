@@ -131,7 +131,7 @@
 * [RSA暗号体験入門](http://www.cybersyndrome.net/rsa/) - CyberSyndrome
 * [ウェブ健康診断仕様](https://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [クラウドを支えるこれからの暗号技術](https://herumi.github.io/ango/) - 光成滋生 (PDF)
-* [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programmingv2/) - 独立行政法人情報処理推進機構(IPA)
+* [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programming) - 塩田英二 ([PDF](https://www.ipa.go.jp/files/000059838.pdf))
 * [はやわかり RSA](http://www.mew.org/~kazu/doc/rsa.html) - 山本和彦
 * [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [安全なウェブサイトの作り方](https://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)

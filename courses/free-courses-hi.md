@@ -8,6 +8,7 @@
 * [Java](#Java)
 * [Javascript](#Javascript)
   * [React](#react)
+* [Next.Js](#NextJS)  
 * [Python](#Python)
 * [R](#r)
 * [Ruby](#ruby)
@@ -65,6 +66,10 @@
 
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
 
+
+### Next.Js
+
+* [NextJS Tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
 
 ### Python
 

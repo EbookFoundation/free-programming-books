@@ -8,7 +8,7 @@
 * [Java](#Java)
 * [Javascript](#Javascript)
   * [React](#react)
-* [Next.Js](#NextJS)  
+* [Next.js](#nextjs)
 * [Python](#Python)
 * [R](#r)
 * [Ruby](#ruby)

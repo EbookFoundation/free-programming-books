@@ -566,11 +566,11 @@
 * [Google Python スタイルガイド](http://works.surgo.jp/translation/pyguide.html) - Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields, Kosei Kitahara(翻訳)
 * [Notes on scientific computing with python](http://japanichaos.appspot.com) - 花田康高
 * [php プログラマのための Python チュートリアル](https://web.archive.org/web/20160813152046/http://phpy.readthedocs.io/en/latest/) - INADA Naoki
-* [Python ドキュメント日本語訳](https://docs.python.org/ja) - Python Software Foundation
 * [Python 3.4](https://stats.biopapyrus.jp/python) - 孫建強
 * [Python Scientific Lecture Notes](http://turbare.net/transl/scipy-lecture-notes) - 打田旭宏(翻訳)
 * [Python で音声信号処理](https://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
 * [python で心理実験](http://www.s12600.net/psy/python) - 十河宏行
+* [Python ドキュメント日本語訳](https://docs.python.org/ja) - Python Software Foundation
 * [Python による日本語自然言語処理](https://www.nltk.org/book-jp/ch12.html) - Steven Bird, Ewan Klein, Edward Loper, 萩原正人(翻訳), 中山敬広(翻訳), 水野貴明(翻訳)
 * [Python の学習](https://skitazaki.github.io/python-school-ja) - KITAZAKI Shigeru
 * [Python ヒッチハイク・ガイド](https://python-guide-ja.readthedocs.io/en/latest) - Kenneth Reitz, Tsuyoshi Tokuda(翻訳)
@@ -626,8 +626,8 @@
 
 ### Scala
 
-* [Effective Scala](https://twitter.github.io/effectivescala/index-ja.html) - Marius Eriksen, Yuta Okamoto(翻訳), Satoshi Kobayashi(翻訳)
 * [独習 Scalaz](https://eed3si9n.com/learning-scalaz/ja) - Eugene Yokota
+* [Effective Scala](https://twitter.github.io/effectivescala/index-ja.html) - Marius Eriksen, Yuta Okamoto(翻訳), Satoshi Kobayashi(翻訳)
 * [Scala で書く tetrix](https://eed3si9n.com/tetrix-in-scala/ja) - Eugene Yokota
 
 

@@ -626,9 +626,9 @@
 
 ### Scala
 
-* [独習 Scalaz](https://eed3si9n.com/learning-scalaz/ja) - Eugene Yokota
 * [Effective Scala](https://twitter.github.io/effectivescala/index-ja.html) - Marius Eriksen, Yuta Okamoto(翻訳), Satoshi Kobayashi(翻訳)
 * [Scala で書く tetrix](https://eed3si9n.com/tetrix-in-scala/ja) - Eugene Yokota
+* [独習 Scalaz](https://eed3si9n.com/learning-scalaz/ja) - Eugene Yokota
 
 
 ### Scheme

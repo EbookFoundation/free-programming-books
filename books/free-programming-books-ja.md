@@ -201,7 +201,7 @@
 * [【改訂版】組込みソフトウェア開発向け コーディング作法ガイド［C言語版］ESCR Ver.3.0](https://www.ipa.go.jp/sec/publish/tn18-004.html) - 独立行政法人 情報処理推進機構(IPA) ([PDF](https://www.ipa.go.jp/files/000064005.pdf))
 * [【改訂版】 組込みソフトウェア開発向け 品質作り込みガイド](https://www.ipa.go.jp/files/000005146.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [【改訂版】 組込みソフトウェア向け 開発プロセスガイド](https://www.ipa.go.jp/files/000005126.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア開発向け コーディング作法ガイド［C++言語版］](https://www.ipa.go.jp/files/000005142.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [【改訂版】組込みソフトウェア開発向けコーディング作法ガイド[C++言語版] Ver. 2.0 （ESCR C++ Ver. 2.0）](https://www.ipa.go.jp/sec/publish/tn16-007.html) - 独立行政法人 情報処理推進機構(IPA) ([PDF](https://www.ipa.go.jp/files/000055043.pdf))
 * [組込みソフトウェア向け プロジェクトマネジメントガイド［計画書編］](https://www.ipa.go.jp/files/000005116.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア向け プロジェクト計画立案トレーニングガイド](https://www.ipa.go.jp/files/000005145.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア向け 設計ガイド ESDR［事例編］](https://www.ipa.go.jp/files/000005148.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)

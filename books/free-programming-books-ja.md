@@ -415,7 +415,7 @@
 
 #### AngularJS
 
-> :information_source: See also &#8230; [Angular](#angular)
+> :information_source: 関連項目 - [Angular](#angular)
 
 * [AngularJS 1.2 日本語リファレンス](http://js.studio-kingdom.com/angularjs) - @tomof(翻訳)
 * [AngularJS's tutorial - あなたとともにAngularJS](http://lab.hisasann.com/AngularJSTutorial/) - @hisasann
@@ -690,7 +690,7 @@
 
 #### Angular
 
-> :information_source: See also &#8230; [AngularJS](#angularjs)
+> :information_source: 関連項目 - [AngularJS](#angularjs)
 
 * [Angular Docs](https://angular.jp/docs)
 * [Angular Tutorial](https://angular.jp/tutorial)

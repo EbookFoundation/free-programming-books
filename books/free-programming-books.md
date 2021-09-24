@@ -2121,6 +2121,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Make
 
+* [Makefile tutorial](https://makefiletutorial.com) - Chase Lambert
 * [Managing Projects with GNU Make](https://www.oreilly.com/openbook/make3/book/index.html) - Robert Mecklenburg
 
 

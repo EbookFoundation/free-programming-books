@@ -1091,7 +1091,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### AutoIt
 
-* [AutoIt Docs](https://www.autoitscript.com/autoit3/docs/) - Jonathan Bennett
+* [AutoIt Docs](https://www.autoitscript.com/autoit3/docs/) - Jonathan Bennett (HTML)
 
 
 ### Autotools

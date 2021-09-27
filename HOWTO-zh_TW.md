@@ -15,4 +15,4 @@
 即使您是經驗豐富的開源貢獻者，也有一些事情可能會讓您遭受失敗。提交您的PR後，Travis-CI會運行程式碼品質分析工具，有時會發現間距或字母順序方面的問題。如果您獲得綠色按鈕，則說明一切準備就緒，但如果沒有，請點擊travis連結以尋找程式碼品質分析工具不滿意的地方。 修正此問題並新增 commit 到你的 PR。
 
 
-最後，如果不確定要添加的資源是否適合 Free-Programming-Books，請閱讀[CONTRIBUTING](CONTRIBUTING-zh-TW.md)中的指南。
+最後，如果不確定要添加的資源是否適合 Free-Programming-Books，請閱讀[CONTRIBUTING](CONTRIBUTING-zh_TW.md)中的指南。

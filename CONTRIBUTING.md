@@ -1,4 +1,4 @@
-*Read this in other languages: [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh-TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md).*
+*Read this in other languages: [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh-TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md).*
 
 ## Contributor License Agreement
 By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) of this repository.
@@ -26,7 +26,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
 - we don't accept files hosted on google drive, dropbox, mega, scribd, issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
-- use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
+- use the link with the most authoritative source (meaning the author's website is better than the editor's website, which is better than a third party website)
     + no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)
 - always prefer a `https` link over a `http` one -- as long as they are on the same domain and serve the same content
 - on root domains, strip the trailing slash: `http://example.com` instead of `http://example.com/`
@@ -34,9 +34,9 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
     + no URL shortener links
 - usually prefer the "current" link over the "version" one: `http://example.com/dir/book/current/` is better than `http://example.com/dir/book/v1.0.0/index.html`
 - if a link has an expired certificate/self-signed certificate/SSL issue of any other kind:
-  1. *replace it* with its `http` counterpart if possible (because accepting exceptions can be complicated on mobile devices)
-  2. *leave it* if no `http` version but link still accessible through `https` by adding an exception to the browser or ignoring the warning
-  3. *remove it* otherwise
+  1. *replace it* with its `http` counterpart if possible (because accepting exceptions can be complicated on mobile devices).
+  2. *leave it* if no `http` version is available but the link is still accessible through `https` by adding an exception to the browser or ignoring the warning.
+  3. *remove it* otherwise.
 - if a link exists in multiple format, add a separate link with a note about each format
 - if a resource exists at different places on the Internet
     + use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
@@ -52,11 +52,11 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - All the lists start with an Index. The idea is to list and link all sections and subsections there. Keep it in alphabetical order.
 - Sections are using level 3 headings (`###`), and subsections are level 4 headings (`####`).
 
-The idea is to have
-- `2` empty lines between last link and new section
-- `1` empty line between heading & first link of its section
-- `0` empty line between two links
-- `1` empty line at the end of each `.md` file
+The idea is to have:
+- `2` empty lines between last link and new section.
+- `1` empty line between heading & first link of its section.
+- `0` empty line between two links.
+- `1` empty line at the end of each `.md` file.
 
 Example:
 
@@ -116,7 +116,7 @@ GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
 - In-process books:
 
 ```
-GOOD: * [Will Be Awesome Soon Book](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
 ```
 
 ### Notes
@@ -179,7 +179,7 @@ Our competitive programming lists are not as strict about these exclusions. The 
 
 We're not that fussy about book-ness. Here are some attributes that signify that a resource is a book:
 
-- it has an ISBN
+- it has an ISBN (International Standard Book Number)
 - it has a Table of Contents
 - a downloaded version, especially ePub, is offered
 - it has editions

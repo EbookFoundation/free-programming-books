@@ -15,6 +15,7 @@
 * [Assembly Language](#assembly-language)
   * [Non-X86](#non-x86)
 * [AutoHotkey](#autohotkey)
+* [AutoIt](#autoit)
 * [Autotools](#autotools)
 * [Awk](#awk)
 * [Bash](#bash)
@@ -1090,6 +1091,11 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [AHKbook - the book for AutoHotkey](http://ahkscript.github.io/ahkbook/index.html)
 * [AutoHotkey Official Documentation](https://autohotkey.com/docs/AutoHotkey.htm) ([CHM](https://autohotkey.com/download/1.1/AutoHotkeyHelp.zip))
+
+
+### AutoIt
+
+* [AutoIt Docs](https://www.autoitscript.com/autoit3/docs/) - Jonathan Bennett (HTML)
 
 
 ### Autotools

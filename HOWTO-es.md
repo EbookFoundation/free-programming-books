@@ -1,4 +1,4 @@
-Lea esto en otros idiomas: [English](HOWTO.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh-TW.md), [Português (BR)](HOWTO.pt_BR.md), [فارسی](HOWTO-fa_IR.md)
+Lea esto en otros idiomas: [English](HOWTO.md), [Français](HOWTO-fr.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh-TW.md), [Português (BR)](HOWTO.pt_BR.md), [فارسی](HOWTO-fa_IR.md)
 
 Sea bienvenido a *Free-Programming-Books*! Damos una calurosa bienvenida a los nuevos colaboradores; incluso a aquellos que realizan su primera Pull Request (PR) en Github. Si es usted uno de ellos, aquí van algunos recursos que quizás le pueden ayudar:
 

@@ -3,6 +3,7 @@
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
 * [Assembly](#assembly)
+* [AutoIt](#autoit)
 * [Bash / Shell](#bash--shell)
 * [Bootstrap](#bootstrap)
 * [C](#c)
@@ -123,6 +124,11 @@
 * [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - LiveOverflow
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
+
+
+### AutoIt
+
+* [AutoIt Scripting Tutorial](https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z) - TutsTeach (HTML)
 
 
 ### Bash / Shell

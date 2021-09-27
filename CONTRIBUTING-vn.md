@@ -1,4 +1,4 @@
-*Đọc bằng ngôn ngữ khác: [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh-TW.md), [فارسی](CONTRIBUTING-fa_IR.md).*
+*Đọc bằng ngôn ngữ khác: [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md).*
 
 Bản dịch Tiếng Việt:
 

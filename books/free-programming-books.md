@@ -252,7 +252,7 @@
 ### 0 - Meta-Lists
 
 * [atariarchives.org](http://www.atariarchives.org) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
-* [Bento](https://www.bento.io)
+* [Bento](https://www.bento.io/)
 * [Bitsavers.org](http://bitsavers.trailing-edge.com)
 * [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks) Cookie required. (email address *requested*, not required)
 * [Code Catalog: A Collection of Code Examples from Prominent Open Source Projects](https://codecatalog.org) (HTML)

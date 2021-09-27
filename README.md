@@ -26,7 +26,9 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 
 ### Books
 
-[English](books/free-programming-books.md)
+[English, By Programming Language](books/free-programming-books-langs.md)
+[English, By Subject](books/free-programming-books-subjects.md)
+
 
 #### Other Languages
 

@@ -80,7 +80,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [tutorialspoint](http://www.tutorialspoint.com)
 
 
-#### Algorithms & Data Structures
+### Algorithms & Data Structures
 
 * [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli et al. (PDF)
 * [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg and Éva Tardos (PDF)
@@ -122,18 +122,18 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 
 
-#### Artificial Intelligence
+### Artificial Intelligence
 
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
 
-#### Cellular Automata
+### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
 
 
-#### Cloud Computing
+### Cloud Computing
 
 * [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework) (PDF, HTML)
 * [Azure for Architects, Third Edition](https://azure.microsoft.com/en-us/resources/azure-for-architects/) (PDF) *(email address or account required)*
@@ -149,7 +149,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
 
 
-#### Competitive Programming
+### Competitive Programming
 
 * [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - Antti Laaksonen (PDF)
 * [Competitive Programming, 1st Edition](https://cpbook.net/#CP1details) - Steven Halim [(PDF)](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
@@ -157,7 +157,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf) - Johan Sannemo (PDF)
 
 
-#### Compiler Design
+### Compiler Design
 
 * [An Introduction to GCC](https://web.archive.org/web/20170326232435/http://www.network-theory.co.uk/docs/gccintro/index.html) - Brian Gough
 * [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
@@ -173,7 +173,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
 
 
-#### Computer Science
+### Computer Science
 
 * [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) - Jeannette Wing, Carnegie-Mellon University (PDF)
 * [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/src) - Dr. Chris Bourke (PDF) (:construction: *in process*)
@@ -181,7 +181,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial and Barbara Ericson (HTML)
 
 
-#### Computer Vision
+### Computer Vision
 
 * [Computer Vision](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) - Richard Szeliski
@@ -189,12 +189,12 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
 
 
-#### Containers
+### Containers
 
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 
 
-#### Database
+### Database
 
 * [Database Design, 2nd Ed.](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/?uuid=5b6f010a-0563-44d4-94c5-67caa515d2c5) - Adrienne Watt, Nelson Eng (HTML, PDF, EPUB, Kindle)
 * [Database Explorations](http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) (PDF)
@@ -206,7 +206,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 
 
-#### Datamining
+### Datamining
 
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com) - Ron Zacharski (Draft)
 * [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp) (email address *requested*, not required)
@@ -221,7 +221,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
 
 
-#### Game Development
+### Game Development
 
 * [2D Game Development: From Zero To Hero](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) (:construction: *in process*)
 * [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
@@ -262,20 +262,20 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The GLib/GTK+ Development Platform](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf) - Sébastien Wilmet (PDF)
 
 
-#### Information Retrieval
+### Information Retrieval
 
 * [Information Retrieval: A Survey](http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf) (PDF)
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 
-#### Licensing
+### Licensing
 
 * [Creative Commons: a user guide](http://www.aliprandi.org/cc-user-guide/) - Simone Aliprandi
 * [Open Source Licensing Software Freedom and Intellectual Property Law](http://rosenlaw.com/oslbook/) - Lawrence Rosen
 * [The Public Domain: Enclosing the Commons of the Mind](http://www.thepublicdomain.org/download/) - James Boyle
 
 
-#### Machine Learning
+### Machine Learning
 
 * [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf) - Osvaldo Simeone (PDF)
 * [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
@@ -320,7 +320,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) - Shai Shalev-Shwartz, Shai Ben-David
 
 
-#### Mathematics
+### Mathematics
 
 * [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/) - Victor Shoup
 * [A First Course in Complex Analysis](http://math.sfsu.edu/beck/complex.html) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
@@ -437,13 +437,13 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
 
 
-#### Mathematics For Computer Science
+### Mathematics For Computer Science
 
 * [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 
 
-#### Misc
+### Misc
 
 * [10 Keys to Great Landing Pages](https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf) - iThemes Media (PDF)
 * [2016 European Software Development Salary Survey](https://www.oreilly.com/radar/2016-european-software-development-salary-survey/)
@@ -510,7 +510,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
 
 
-#### MOOC
+### MOOC
 
 * [Coursera](https://www.coursera.org)
 * [edX](https://www.edx.org)
@@ -524,7 +524,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Udacity](https://www.udacity.com)
 
 
-#### Networking
+### Networking
 
 * [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)
 * [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
@@ -545,7 +545,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
 
 
-#### Open Source Ecosystem
+### Open Source Ecosystem
 
 * [Data Journalism Handbook](http://datajournalismhandbook.org)
 * [Free as in Freedom: Richard Stallman and the free software revolution](https://archive.org/details/faif-2.0) - Sam Williams (PDF)
@@ -568,7 +568,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
 
 
-#### Operating Systems
+### Operating Systems
 
 * [A short introduction to operating systems (2001)](http://markburgess.org/os/os.pdf) - Mark Burgess (PDF)
 * [Computer Science from the Bottom Up](http://www.bottomupcs.com)
@@ -588,7 +588,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
 
 
-#### Parallel Programming
+### Parallel Programming
 
 * [High Performance Computing](http://cnx.org/contents/bb821554-7f76-44b1-89e7-8a2a759d1347%405.2) - Charles Severance & Kevin Dowd (PDF, ePUB)
 * [High Performance Computing Training](https://web.archive.org/web/20170702124132/https://hpc.llnl.gov/training/tutorials) (LLNL materials)
@@ -603,12 +603,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Using Concurrency and Parallelism Effectively – II](http://bookboon.com/en/using-concurrency-and-parallelism-effectively-ii-ebook) - Jon
 
 
-#### Partial Evaluation
+### Partial Evaluation
 
 * [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - (PDF) Jones, Gomard and Sestoft
 
 
-#### Professional Development
+### Professional Development
 
 * [Clean Code Developer: An initiative for more professionalism in software development](https://www.gitbook.com/book/ccd_school/clean-code-developer-com/details) (:construction: *in process*)
 * [Confessions of an IT Manager](https://www.red-gate.com/library/confessions-of-an-it-manager) - Phil Factor (PDF)
@@ -618,7 +618,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
 
 
-#### Programming Paradigms
+### Programming Paradigms
 
 * [Flow based Programming](http://jpaulmorrison.com/fbp/) - J Paul Morrison
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
@@ -628,7 +628,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 
 
-#### Regular Expressions
+### Regular Expressions
 
 * [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/) - Sundeep Agarwal
 * [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/) - Sundeep Agarwal
@@ -639,7 +639,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen  *(Leanpub account or valid email requested)*
 
 
-#### Reverse Engineering
+### Reverse Engineering
 
 * [BIOS Disassembly Ninjutsu Uncovered 1st Edition](http://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) - Darmawan Salihun (PDF)
 * [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
@@ -647,13 +647,13 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Reverse Engineering for Beginners](http://beginners.re) - Dennis Yurichev (PDF)
 
 
-#### Search Engines
+### Search Engines
 
 * [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elastic/elasticsearch-definitive-guide))
 * [Solr for newbies workshop (2019)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
 
-#### Security
+### Security
 
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
@@ -669,7 +669,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 
 
-#### Software Architecture
+### Software Architecture
 
 * [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
@@ -710,13 +710,13 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
 
 
-#### Standards
+### Standards
 
 * [Linux Standard Base](http://refspecs.linuxfoundation.org/lsb.shtml)
 * [UNIX - The POSIX Standard - IEEE Std 1003.1](https://github.com/geoff-codes/posix-standard)
 
 
-#### Theoretical Computer Science
+### Theoretical Computer Science
 
 * [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
 * [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
@@ -741,7 +741,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
 
 
-#### Web Performance
+### Web Performance
 
 * [Book of Speed](http://www.bookofspeed.com) - Stoyan Stefanov
 * [Designing for Performance](http://designingforperformance.com) - Lara Hogan

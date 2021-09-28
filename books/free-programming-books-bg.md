@@ -11,16 +11,16 @@
 
 ### C
 
-* [Програмиране = ++Алгоритми;](https://programirane.org/download-now/) - Преслав Наков и Панайот Добриков
-* [ANSI C - Курс за начинаещи](http://www.progstarter.com/index.php?option=com_content&view=article&id=8&Itemid=121&lang=bg) - Димо Петков
-* [ANSI C - Пълен справочник](http://progstarter.com/index.php?option=com_content&view=article&id=9&Itemid=122&lang=bg) - Димо Петков
+* [Програмиране = ++Алгоритми;](https://programirane.org/download-now) - Преслав Наков и Панайот Добриков
+* [ANSI C - Курс за начинаещи](https://www.progstarter.com/index.php?option=com_content&view=article&id=8&Itemid=121&lang=bg) - Димо Петков
+* [ANSI C - Пълен справочник](https://progstarter.com/index.php?option=com_content&view=article&id=9&Itemid=122&lang=bg) - Димо Петков
 
 
 ### C Sharp
 
 * [Основи на програмирането със C#](https://csharp-book.softuni.bg) - Светлин Наков и колектив
-* [Принципи на програмирането със C#](https://introprogramming.info/intro-csharp-book/) - Светлин Наков, Веселин Колев и колектив
-* [Програмиране за .NET Framework](http://www.devbg.org/dotnetbook/) - Светлин Наков и колектив
+* [Принципи на програмирането със C#](https://introprogramming.info/intro-csharp-book) - Светлин Наков, Веселин Колев и колектив
+* [Програмиране за .NET Framework](https://www.devbg.org/dotnetbook) - Светлин Наков и колектив
 
 
 <h3 id="cpp">C++</h3>
@@ -30,10 +30,10 @@
 
 ### Java
 
-* [Въведение в програмирането с Java](https://introprogramming.info/intro-java-book/) - Светлин Наков и колектив
-* [Интернет програмиране с Java](https://nakov.com/books/inetjava/) - Светлин Наков
+* [Въведение в програмирането с Java](https://introprogramming.info/intro-java-book) - Светлин Наков и колектив
+* [Интернет програмиране с Java](https://nakov.com/books/inetjava) - Светлин Наков
 * [Основи на програмирането с Java](https://java-book.softuni.bg) - Светлин Наков и колектив
-* [Java за цифрово подписване на документи в уеб](https://nakov.com/books/signatures/) - Светлин Наков
+* [Java за цифрово подписване на документи в уеб](https://nakov.com/books/signatures) - Светлин Наков
 
 
 ### JavaScript

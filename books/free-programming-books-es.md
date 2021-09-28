@@ -48,12 +48,15 @@
 * [SQL](#sql)
 * [Subversion](#subversion)
 * [SVG](#svg)
+* [TypeScript](#typescript)
+  * [Angular](#angular)
 
 
 ### 0 - Meta-Listas
 
 * [Aprender Python](https://wiki.python.org.ar/aprendiendopython/) - Python Argentina
 * [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
+* [Asombroso DDD: Una lista curada de recursos sobre Domain Driven Design](https://github.com/ddd-espanol/asombroso-ddd)
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (Github)
 * [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
 * [Gitbook - Libros útiles en español](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--) (Github)
@@ -128,7 +131,7 @@
 * [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf) (PDF) (descarga directa)
 
 
-<h3 id="cpp">C++</h3>
+### <a name="cpp"></a>C++
 
 * [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
 * [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) (PDF)
@@ -161,11 +164,12 @@
 * [Git. La guía simple](http://rogerdudler.github.io/git-guide) (HTML)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es)
 * [Pro Git](http://git-scm.com/book/es/)
+* [Pro Git v2](http://git-scm.com/book/es/v2)
 
 
 ### Go
 
-* [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
+* [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin, Raúl Expósito (HTML, [PDF](https://raulexposito.com/assets/pdf/go.pdf), [EPUB](https://raulexposito.com/assets/epub/go.epub))
 * [Go en Español](https://nachopacheco.gitbooks.io/go-es/content/doc) - Nacho Pacheco (HTML)
 
 
@@ -217,7 +221,12 @@
 
 #### AngularJS
 
+> :information_source: Véase también &#8230; [Angular](#angular)
+
 * [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
+* [AngularJS](https://eladrodriguez.gitbooks.io/angularjs) - Elad Rodriguez (HTML) (Gitbook)
+* [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - John Papa et al. (HTML)
+* [Manual de AngularJS](https://desarrolloweb.com/manuales/manual-angularjs.html) - desarrolloweb.com (HTML, PDF, EPUB, Kindle)
 
 
 #### D3.js
@@ -283,6 +292,7 @@
 
 ### PHP
 
+* [Domain Driven Design with PHP (Diseño guiado por Dominio con PHP)](https://www.youtube.com/playlist?list=PLfgj7DYkKH3DjmXTOxIMs-5fcOgDg_Dd2) - Carlos Buenosvinos Zamora (Youtube playlist)
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) (PDF)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) (HTML)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP) (Bubok)
@@ -383,3 +393,22 @@
 ### SVG
 
 * [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (Leanpub cuenta requerida)
+
+
+### TypeScript
+
+* [Aprendizaje TypeScript](https://riptutorial.com/Download/typescript-es.pdf) - riptutorial (PDF)
+* [Introduccion a TypeScript](https://khru.gitbooks.io/typescript/) - Emmanuel Valverde Ramos (HTML) (GitBook)
+* [TypeScript Deep Dive](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, Melissa Rofman (HTML) (GitBook)
+* [Uso avanzado de TypeScript en un ejemplo real](https://neliosoftware.com/es/blog/uso-avanzado-de-typescript/) - Nelio Software (HTML)
+
+
+#### Angular
+
+> :information_source: Véase también &#8230; [AngularJS](#angularjs)
+
+* [Angular 2](https://rldona.gitbooks.io/angular-2-book) - Raúl López (HTML) (Gitbook)
+* [Aprendiendo Angular](https://ngchallenges.gitbook.io) - Vanessa Aristizabal (HTML) (Gitbook)
+* [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - riptutorial (PDF)
+* [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - riptutorial (PDF)
+* [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano (HTML, [:package: ejemplos](https://github.com/jorgeucano/entendiendo-angular)) (Gitbook)

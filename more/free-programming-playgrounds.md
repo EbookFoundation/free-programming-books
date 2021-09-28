@@ -1,6 +1,8 @@
 ### Index
 
-* [Angular](#angular)
+* [C](#c)
+* [C#](#csharp)
+* [C++](#cpp)
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
 * [CSS](#css)
@@ -15,6 +17,7 @@
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
@@ -34,12 +37,22 @@
 * [Svelte](#svelte)
 * [Swift](#swift)
 * [TypeScript](#typescript)
+  * [Angular](#angular)
 
 
-### Angular
+### <a name="c"></a>C
 
-* [Plunker](http://plnkr.co)
-* [StackBlitz](https://stackblitz.com/fork/angular)
+* [SoloLearn](https://code.sololearn.com/c)
+
+
+### <a name="csharp"></a>C#
+
+* [SoloLearn](https://code.sololearn.com/csharp)
+
+
+### <a name="cpp"></a>C++
+
+* [SoloLearn](https://code.sololearn.com/cpp)
 
 
 ### ClojureScript
@@ -60,6 +73,7 @@
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
 * [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
+* [SoloLearn](https://code.sololearn.com/web#css)
 
 
 ### Dart
@@ -98,6 +112,7 @@
 ### Go
 
 * [Go Playground](https://play.golang.org)
+* [SoloLearn](https://code.sololearn.com/go)
 
 
 ### Haskell
@@ -113,7 +128,7 @@
 ### Java
 
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
-* [SoloLearn](https://code.sololearn.com/#java)
+* [SoloLearn](https://code.sololearn.com/java)
 
 
 ### JavaScript
@@ -124,13 +139,21 @@
 * [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
-* [SoloLearn](https://code.sololearn.com/#html)
+* [SoloLearn](https://code.sololearn.com/web#javascript)
+
+
+#### AngularJS
+
+> :information_source: See also &#8230; [Angular](#angular)
+
+* [StackBlitz](https://stackblitz.com/fork/angularjs)
 
 
 ### Kotlin
 
 * [Kotlin](https://play.kotlinlang.org)
 * [Kotlin Playground](https://developer.android.com/training/kotlinplayground)
+* [SoloLearn](https://code.sololearn.com/kotlin)
 
 
 ### Kubernetes
@@ -147,6 +170,7 @@
 ### NodeJS
 
 * [Ideone](http://ideone.com)
+* [SoloLearn](https://code.sololearn.com/nodejs)
 
 
 ### OCaml
@@ -165,6 +189,7 @@
 * [ExtendsClass](https://extendsclass.com/php.html)
 * [PHPFiddle](http://phpfiddle.org)
 * [PHPTester](http://phptester.net)
+* [SoloLearn](https://code.sololearn.com/php)
 
 
 ### Python
@@ -173,13 +198,14 @@
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
-* [SoloLearn](https://code.sololearn.com/#py)
+* [SoloLearn](https://code.sololearn.com/python)
 
 
 ### R
 
 * [R-Fiddle](http://www.r-fiddle.org)
 * [Rextester](https://rextester.com/l/r_online_compiler)
+* [SoloLearn](https://code.sololearn.com/r)
 
 
 ### React
@@ -197,7 +223,7 @@
 ### Ruby
 
 * [Codepad](http://codepad.org)
-* [Sololearn](https://code.sololearn.com/#rb)
+* [SoloLearn](https://code.sololearn.com/ruby)
 * [TryRuby](https://try.ruby-lang.org)
 
 
@@ -233,6 +259,7 @@
 ### Swift
 
 * [Online Swift Playground](http://online.swiftplayground.run)
+* [SoloLearn](https://code.sololearn.com/swift)
 
 
 ### TypeScript
@@ -241,4 +268,9 @@
 * [StackBlitz](https://stackblitz.com/fork/typescript)
 
 
+#### Angular
 
+> :information_source: See also &#8230; [AngularJS](#angularjs)
+
+* [Plunker](http://plnkr.co)
+* [StackBlitz](https://stackblitz.com/fork/angular)

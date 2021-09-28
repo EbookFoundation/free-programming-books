@@ -98,6 +98,7 @@
 * [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html) (Online)
 * [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
 * [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de)
+* [The Little Go Book](https://github.com/Aaronmacaron/the-little-go-book-de) - Karl Seguin, Aaron Ebnöther ([HTML](https://github.com/Aaronmacaron/the-little-go-book-de/blob/master/de/go.md))
 
 
 ### Groovy

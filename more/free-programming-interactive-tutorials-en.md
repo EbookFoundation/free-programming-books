@@ -19,7 +19,7 @@
   * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
+  * [AngularJS](#angularjs)
   * [jQuery](#jquery)
   * [React](#react)
 * [Kotlin](#kotlin)
@@ -38,6 +38,7 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
+* [Selenium](#selenium)
 * [SQL](#sql)
 * [Vim](#vim)
 
@@ -49,6 +50,7 @@
 
 ### Android
 
+* [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
 * [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial)
 
 
@@ -65,6 +67,7 @@
 
 ### C Sharp
 
+* [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
 * [Codeasy](https://codeasy.net/course/csharp_elementary)
 * [Learn C#](http://www.learncs.org)
@@ -141,11 +144,14 @@
 
 * [CSS Diner](http://flukeout.github.io)
 * [CSS Tutorial](https://www.w3schools.com/css/) - W3Schools
+* [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure) - Nick Bull
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [FreeCodeCamp: Responsive Web Design Course](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+* [Grid Attack](https://codingfantasy.com/games/css-grid-attack) - Nick Bull
 * [Grid Garden](https://cssgridgarden.com)
 * [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
+* [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
@@ -153,6 +159,7 @@
 
 #### Bootstrap
 
+* [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
 * [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
 
@@ -183,11 +190,12 @@
 * [Try jQuery](http://try.jquery.com)
 
 
-#### Angular.js
+#### AngularJS
 
-* [Angular Basics](http://www.angularjsbook.com)
-* [Angular Tutorial](https://www.w3schools.com/angular/) - W3Schools
-* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson
+* [AngularJS Basics](http://www.angularjsbook.com) - Chris Smith
+* [AngularJS Tutorial](https://www.tutlane.com/tutorial/angularjs) - tutlane
+* [AngularJS Tutorial](https://www.w3schools.com/angular/) - W3Schools
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 
@@ -240,6 +248,7 @@
 ### Node
 
 * [Node School](http://nodeschool.io)
+* [Node.js Tutorial](https://www.tutlane.com/tutorial/nodejs) - tutlane
 * [Node.js Tutorial](https://www.w3schools.com/nodejs) - W3Schools
 
 
@@ -280,6 +289,8 @@
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
+* [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - GeeksforGeeks
+* [Python Tutorial](https://www.tutlane.com/tutorial/python) - tutlane
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 
@@ -311,6 +322,7 @@
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
+* [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQLBolt](http://sqlbolt.com)
 

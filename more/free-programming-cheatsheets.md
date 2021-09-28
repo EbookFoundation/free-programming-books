@@ -2,22 +2,24 @@
 
 * [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
-* [C](#C)
+* [C](#c)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
 * [HTML / CSS](#html--css)
-* [Java](#Java)
+* [IDE / Editors](#ide--editors)
+* [Java](#java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
   * [Vue.js](#vuejs)
-* [Kubernetes](#Kubernetes)
+* [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
 * [MongoDB](#mongodb)
-* [Perl](#Perl)
+* [Perl](#perl)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
 * [SQL](#sql)
 
@@ -35,12 +37,13 @@
 ### C
 
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
+* [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)
 * [The C Cheat Sheet: An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) - Andrew Sterian (PDF)
 
 
-<h3 id="cpp">C++</h3>
+### <a name="cpp"></a>C++
 
-* [C++ Quick Reference](https://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) (PDF)
+* [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
 
 
 ### Clojure
@@ -56,6 +59,9 @@
 ### Git
 
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
+* [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
+  * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
+  * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 
@@ -64,7 +70,17 @@
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
+* [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
+* [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co) - Chris Malven (HTML)
 * [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
+
+
+### <a name="ide--editores"></a>IDE / Editors
+
+* [Editor VI - Guia de Referência](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
+* [Vim Avançado](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
+* [Vim Básico](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
+* [Vim Médio](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 
 
 ### Java
@@ -120,12 +136,19 @@
 * [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
+* [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) - Matplotlib.org (LaTeX, PDF)
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/)
 * [Python Cheatsheet for beginners](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet) - Codeacademy (HTML)
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
+* [Python Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - Pandas (PDF)
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
+
+
+### R
+
+* [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 
 
 ### Ruby

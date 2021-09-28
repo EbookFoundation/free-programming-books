@@ -6,7 +6,6 @@
   * [Работа c cетью](#Работа-с-сетью)
   * [Управление конфигурациями](#Управление-конфигурациями)
   * [Open Source Ecosystem](#open-source-ecosystem)
-* [Angular](#angular)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -62,9 +61,11 @@
 * [Scratch](#scratch)
 * [Smalltalk](#smalltalk)
 * [SQL](#sql)
+  * [FirebirdSQL](#firebirdsql)
   * [PostgreSQL](#postgresql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
+  * [Angular](#angular)
 * [Unix](#unix)
 * [Vim](#vim)
 
@@ -112,12 +113,6 @@
 #### Open Source Ecosystem
 
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
-
-
-#### Angular
-
-* [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
-* [Angular 5. Полное руководство](https://bxnotes.ru/conspect/angular-5-the-complete-guide/) - Maximilian Schwarzmüller
 
 
 ### Assembly
@@ -203,7 +198,7 @@
 * [Руководство по языку Go](https://metanit.com/go/tutorial) - Евгений Попов
 * [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
 * [Go в примерах](https://gobyexample.ru)
-* [The Little Go Book (перевод)](https://sefus.ru/little-go-book)
+* [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
 
 
 ### Haskell
@@ -302,9 +297,10 @@
 
 #### AngularJS
 
+> :information_source: See also &#8230; [Angular](#angular)
+
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)
-* [Русская версия документация Angular 10](https://angular24.ru/start) - Алексей Охрименко
 
 
 #### jQuery
@@ -511,12 +507,21 @@
 * [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer) (PDF)
 
 
+#### FirebirdSQL
+
+* [Краткое руководство по миграции на Firebird 4.0](https://github.com/sim1984/fbmigrgd40/releases/download/1.0/doc.rus.pdf) - Denis Simonov (PDF)
+* [Руководство по аппаратному обеспечению для Firebird](http://www.ibase.ru/files/firebird/Firebird_Hardware_Guide_2015_rus.pdf) - IBSurgeon (PDF)
+* [Руководство по написанию UDR на Pascal](https://github.com/sim1984/udr-book) - Denis Simonov ([PDF](https://github.com/sim1984/udr-book/releases/download/1/udr.pdf), [:package: code examples](https://github.com/sim1984/udr-book/tree/master/examples))
+* [Руководство по языку Firebird 3.0](http://www.ibase.ru/files/firebird/Firebird_3_0_Language_Reference_RUS.pdf) - Denis Simonov, Paul Vinkenug, Dmitry Filippov, Dmitry Emanov, Alexander Karpeikin, Dmitry Kuzmenko, Alexey Kovyazin (PDF)
+* [Руководство по языку Firebird 4.0](http://www.ibase.ru/files/firebird/Firebird_4_0_Language_Reference_RUS.pdf) - Dmitry Filippov, Alexander Karpeikin, Alexey Kovyazin, Dmitry Kuzmenko, Denis Simonov, Paul Vinkenoog, Dmitry Emanov, Mark Rotteveel (PDF)
+
+
 #### PostgreSQL
 
 * [Документация](https://postgrespro.ru/docs/postgresql) (PDF)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
-* [PostgreSQL для начинающих](https://postgrespro.ru/education/books/introbook) (PDF)
+* [PostgreSQL для начинающих](https://postgrespro.ru/education/books/introbook) - Luzanov Pavel Veniaminovich, Rogov Yegor Valerievich, Levshin Igor Viktorovich (PDF)
 
 
 ### Swift
@@ -527,8 +532,17 @@
 
 ### TypeScript
 
-* [Перевод официальной документации Typescript](http://typescript-lang.ru/docs/index.html)
+* [Перевод официальной документации Typescript](http://typescript-lang.ru/docs/) - George Kiselev
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
+
+
+#### Angular
+
+> :information_source: See also &#8230; [AngularJS](#angularjs)
+
+* [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
+* [Русская версия документация Angular 10](https://angular24.ru) - Alexey Okhrimenko
+* [Angular 5. Полное руководство](https://bxnotes.ru/conspect/angular-5-the-complete-guide/) - Maximilian Schwarzmüller
 
 
 ### Unix

@@ -7,9 +7,9 @@ permissions:
 
 jobs:
   build:
-
+    permissions:
+      pull-requests: write
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v4
     - name: Use Node.js
@@ -17,7 +17,23 @@ jobs:
       with:
         node-version: '16.x'
     - run: npm install -g free-programming-books-lint
-    - run: fpb-lint ./books/
-    - run: fpb-lint ./casts/
-    - run: fpb-lint ./courses/
-    - run: fpb-lint ./more/
+    - run: fpb-lint books casts courses more
+    - run: |
+        fpb-lint books casts courses more 2>&1 | tee output.log
+        result_code=${PIPESTATUS[0]}
+
+        if [ $result_code != 0 ]
+        then
+          gh pr review $PR --body "The build failed with the following output:
+          \`\`\`
+          $(cat output.log)
+          \`\`\`" --request-changes
+        else
+          gh pr review $PR --approve
+        fi
+
+        exit $result_code
+      if: github.event_name == 'pull_request'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PR: ${{ github.event.pull_request.html_url }}

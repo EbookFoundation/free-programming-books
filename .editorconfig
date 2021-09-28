@@ -17,16 +17,16 @@ trim_trailing_whitespace = true
 curly_bracket_next_line = false
 spaces_around_operators = true
 
-; DOS/Windows batch scripts - 
+; DOS/Windows batch scripts -
 [*.{bat,cmd}]
 end_of_line = crlf
 
-; JavaScript files - 
+; JavaScript files -
 [*.{js,ts}]
 curly_bracket_next_line = true
 quote_type = single
 
-; JSON files (normal and commented version) - 
+; JSON files (normal and commented version) -
 [*.{json,jsonc}]
 indent_size = 2
 quote_type = double

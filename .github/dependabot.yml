@@ -16,12 +16,13 @@ updates:
       timezone: "Europe/Paris"
     # Specify labels for `gha` pull requests
     labels:
-      - "github-actions"
       - "dependencies"
+      - "dependencies:github-actions"
+      - "automation"
     commit-message:
-      # Prefix all commit messages with `gha`
+      # Prefix all commit messages with `chore` (follow conventional-commits)
       # include a list of updated dependencies
-      prefix: "gha"
+      prefix: "chore"
       include: "scope"
     # Allow up to N open pull requests (0 to disable)
     open-pull-requests-limit: 10

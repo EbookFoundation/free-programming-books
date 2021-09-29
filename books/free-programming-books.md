@@ -740,6 +740,7 @@
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
+* [MOOC.fi](https://www.mooc.fi/en/)
 
 
 #### Networking

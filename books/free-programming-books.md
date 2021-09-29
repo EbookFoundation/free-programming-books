@@ -735,12 +735,12 @@
 * [freeCodeCamp](https://www.freecodecamp.org)
 * [FutureLearn](https://www.futurelearn.com)
 * [MIT OCW](http://ocw.mit.edu)
+* [MOOC.fi](https://www.mooc.fi/en/)
 * [NPTEL](https://onlinecourses.nptel.ac.in)
 * [openHPI](https://open.hpi.de)
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
-* [MOOC.fi](https://www.mooc.fi/en/)
 
 
 #### Networking

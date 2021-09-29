@@ -7,6 +7,7 @@
 * [DevOps](#DevOps)
 * [Java](#Java)
 * [Javascript](#Javascript)
+  * [Next.js]((#NextJS)
   * [React](#react)
 * [Python](#Python)
 * [R](#r)
@@ -59,6 +60,11 @@
 ### Javascript
 
 * [JavaScript Tutorial \| Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - Harry
+
+
+#### Next.Js
+
+* [NextJS Tutorial In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
 
 
 #### React

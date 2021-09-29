@@ -27,7 +27,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Mathematics](#mathematics)
 * [Mathematics For Computer Science](#mathematics-for-computer-science)
 * [Misc](#misc)
-* [MOOC](#mooc)
 * [Networking](#networking)
 * [Open Source Ecosystem](#open-source-ecosystem)
 * [Operating Systems](#operating-systems)
@@ -508,20 +507,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Small Memory Software](http://www.smallmemory.com/book.html)
 * [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
 * [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
-
-
-### MOOC
-
-* [Coursera](https://www.coursera.org)
-* [edX](https://www.edx.org)
-* [freeCodeCamp](https://www.freecodecamp.org)
-* [FutureLearn](https://www.futurelearn.com)
-* [MIT OCW](http://ocw.mit.edu)
-* [NPTEL](https://onlinecourses.nptel.ac.in)
-* [openHPI](https://open.hpi.de)
-* [openSAP](https://open.sap.com)
-* [Platzi](https://courses.platzi.com)
-* [Udacity](https://www.udacity.com)
 
 
 ### Networking

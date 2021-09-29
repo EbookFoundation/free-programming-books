@@ -30,6 +30,7 @@
 * [Scratch](#scratch)
 * [UML](#uml)
 * [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
+  * [Reverse Engineering](#reverse-engineering)
 * [Unix](#unix)
 * [VHDL](#vhdl)
 * [Visual Basic](#visual-basic)
@@ -226,6 +227,12 @@
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch) - Sascha Kersken (Online)
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop) - Bernhard Lahres, Gregor Rayman (Online)
 * [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) - Henrik Kniberg (PDF)
+
+
+#### Reverse Engineering
+
+* [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres,
+Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 
 ### Unix

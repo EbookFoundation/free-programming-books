@@ -124,6 +124,7 @@
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 * [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(Dalam Proses)*
+* [PHP Dasar Tutorial](https://gilacoding.com/upload/file/PHP%20Dasar%20Tutorial.pdf)
 
 
 ### Python

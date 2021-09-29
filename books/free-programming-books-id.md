@@ -163,4 +163,4 @@
 
 ### Laravel
 
-* [Belajar Laravel Untuk Pemula](https://www.dropbox.com/s/jy8gk1l1wdr6dut/Belajar-Laravel-Untuk-Pemula.pdf?dl=0)
+* [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf)

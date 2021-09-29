@@ -27,7 +27,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Mathematics](#mathematics)
 * [Mathematics For Computer Science](#mathematics-for-computer-science)
 * [Misc](#misc)
-* [MOOC](#mooc)
 * [Networking](#networking)
 * [Open Source Ecosystem](#open-source-ecosystem)
 * [Operating Systems](#operating-systems)

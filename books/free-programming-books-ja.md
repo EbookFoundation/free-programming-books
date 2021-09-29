@@ -14,6 +14,7 @@
   * [ソフトウェア品質](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e5%93%81%e8%b3%aa)
   * [データベース](#%e3%83%87%e3%83%bc%e3%82%bf%e3%83%99%e3%83%bc%e3%82%b9)
   * [ネットワーキング](#%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0)
+  * [リバースエンジニアリ (Reverse Engineering)](#reverse-engineering)
   * [機械学習](#%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92)
   * [正規表現](#%e6%ad%a3%e8%a6%8f%e8%a1%a8%e7%8f%be)
   * [組み込みシステム](#%e7%b5%84%e3%81%bf%e8%be%bc%e3%81%bf%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
@@ -180,6 +181,11 @@
 * [HTTP/3 explained](https://http3-explained.haxx.se/ja) - Daniel Stenberg
 * [http2 explained](https://http2-explained.haxx.se/ja) - Daniel Stenberg
 * [ネットワークプログラミングの基礎知識](http://x68000.q-e-d.net/~68user/net) - 68user
+
+
+#### <a name="reverse-engineering"></a>リバースエンジニアリ (Reverse Engineering)
+
+* [リバースエンジニアリング入門 \| Reverse Engineering for Beginners](https://beginners.re/RE4B-JA.pdf) - Dennis Yurichev, shmz, 4ryuJP (PDF)
 
 
 #### 機械学習

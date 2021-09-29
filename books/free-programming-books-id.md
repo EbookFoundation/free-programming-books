@@ -21,6 +21,7 @@
   * [Angular](#angular)
   * [Deno](#deno)
 * [Vue](#vue)
+* [Laravel](#laravel)
 
 
 ### Android
@@ -159,3 +160,7 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
+
+### Laravel
+
+* [Belajar Laravel Untuk Pemula](https://www.dropbox.com/s/jy8gk1l1wdr6dut/Belajar-Laravel-Untuk-Pemula.pdf?dl=0)

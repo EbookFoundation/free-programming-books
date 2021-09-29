@@ -121,7 +121,7 @@
 * [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF)
 * [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF)
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
-* [PHP Dasar Tutorial](https://gilacoding.com/upload/file/PHP%20Dasar%20Tutorial.pdf) Type : PDF, Author : Rosihan Ari Yuana 
+* [PHP Dasar Tutorial](https://gilacoding.com/upload/file/PHP%20Dasar%20Tutorial.pdf) Type : PDF Author : Rosihan Ari Yuana 
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 * [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(Dalam Proses)*
@@ -166,8 +166,8 @@
 
 ### Laravel
 
-* [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) Type : PDF, Author : Dadan Hamdani
+* [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) Type : PDF Author : Dadan Hamdani
 
 ### Yii 
 
-* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) Type : PDF, Author : Dida	Nurwanda
+* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) Type : PDF Author : Dida	Nurwanda

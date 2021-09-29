@@ -2,6 +2,7 @@
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
+* [Artificial Intelligence](#ai)
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
 * [Bash / Shell](#bash--shell)
@@ -117,6 +118,11 @@
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
+
+
+### Artificial Intelligence
+
+* [Elements of AI](https://www.elementsofai.com) - (Reaktor)
 
 
 ### Assembly

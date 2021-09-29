@@ -510,20 +510,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
 
 
-### MOOC
-
-* [Coursera](https://www.coursera.org)
-* [edX](https://www.edx.org)
-* [freeCodeCamp](https://www.freecodecamp.org)
-* [FutureLearn](https://www.futurelearn.com)
-* [MIT OCW](http://ocw.mit.edu)
-* [NPTEL](https://onlinecourses.nptel.ac.in)
-* [openHPI](https://open.hpi.de)
-* [openSAP](https://open.sap.com)
-* [Platzi](https://courses.platzi.com)
-* [Udacity](https://www.udacity.com)
-
-
 ### Networking
 
 * [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)

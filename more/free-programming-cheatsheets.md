@@ -22,6 +22,7 @@
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [SQL](#sql)
 
 
@@ -160,6 +161,11 @@
 ### Ruby
 
 * [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
+
+
+### Rust
+
+* [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
 
 ### SQL

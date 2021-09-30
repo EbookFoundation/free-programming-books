@@ -223,7 +223,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [SAP Code Style Guides - Clean ABAP](https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP.md)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Ada
 
@@ -236,20 +238,26 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html)
 * [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Agda
 
 * [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
 * [Programming Language Foundations in Agda](https://plfa.github.io) - Philip Wadler and Wen Kokke
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Alef
 
 * [Alef Language Reference Manual](http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Android
 
@@ -265,7 +273,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
 
+
 **[⬆  - Back to Index - ⬆ ](#index)**
+
 
 ### APL
 
@@ -274,14 +284,18 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to College Mathematics with A Programming Language (1978)](http://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E. J. LeCuyer (PDF)
 * [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### App Inventor
 
 * [Absolute App Inventor 2](https://amerkashi.wordpress.com/2015/02/16/absolute-app-inventor-2-book/) - Hossein Amerkashi
 * [App Inventor 2](http://www.appinventor.org/book2) - David Wolber, Hal Abelson, Ellen Spertus, Liz Looney
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Arduino
 
@@ -293,7 +307,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
 * [Open softwear - Fashionable prototyping and wearable computing using the Arduino](https://openlibra.com/en/book/download/open-softwear-fashionable-prototyping-and-wearable-computing-using-the-arduino) - Tony Olsson, David Gaetano, Jonas Odhner, Samson Wiklund (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### ASP.NET
 
@@ -305,7 +321,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Intro to ASPNET MVC 4 with Visual Studio 2011 Beta (2012)](http://download.microsoft.com/download/0/f/b/0fbfaa46-2bfd-478f-8e56-7bf3c672df9d/intro%20to%20asp.net%20mvc%204%20with%20visual%20studio%20-%20beta.pdf) - Rick Anderson and Scott Hanselman (PDF)
 * [Introducing ASP.NET Web Pages 2 (2012)](https://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Introducing%20ASP.NET%20Web%20Pages%202.pdf) - Mike Pope (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### ASP.NET Core
 
@@ -313,14 +331,18 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [ASP.NET Core Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
 * [The Little ASP.NET Core Book (2018)](https://s3.amazonaws.com/recaffeinate-files/LittleAspNetCoreBook.pdf) - Nate Barbettini (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Blazor
 
-* [Blazor: A Beginner's Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) - Ed Charbeneau (PDF) (email address *requested*, not required)
+* [Blazor: A Beginner's Guide](https://www.telerik.com/campaigns/blazorwp-beginners-guide-ebook) - Ed Charbeneau (PDF) (email address *requested*, not required)
 * [Blazor for ASP.NET Web Forms Developers](https://dotnet.microsoft.com/download/e-book/blazor-for-web-forms-devs/pdf) - Daniel Roth, Jeff Fritz, Taylor Southwick (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Assembly Language
 
@@ -339,7 +361,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [x86 Disassembly](https://en.wikibooks.org/wiki/X86_Disassembly) - Wikibooks
 * [Zen of Assembly Language: Volume I, Knowledge (1990)](http://www.jagregory.com/abrash-zen-of-asm/) - Michael Abrash
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Non-X86
 
@@ -349,27 +373,35 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html)
 * [The Second Book of Machine Language](http://www.atariarchives.org/2bml/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### AutoHotkey
 
 * [AHKbook - the book for AutoHotkey](http://ahkscript.github.io/ahkbook/index.html)
 * [AutoHotkey Official Documentation](https://autohotkey.com/docs/AutoHotkey.htm) ([CHM](https://autohotkey.com/download/1.1/AutoHotkeyHelp.zip))
 
+
 **[⬆  - Back to Index - ⬆ ](#index)**
+
 
 ### AutoIt
 
 * [AutoIt Docs](https://www.autoitscript.com/autoit3/docs/) - Jonathan Bennett (HTML)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Autotools
 
 * [Autotools Mythbuster](https://autotools.io/index.html)
 * [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Awk
 
@@ -378,7 +410,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual) - Arnold D. Robbins (HTML, PDF)
 * [GNU awk](https://learnbyexample.github.io/learn_gnuawk/) - Sundeep Agarwal
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Bash
 
@@ -402,7 +436,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts, Jr. (PDF)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr. (HTML)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Basic
 
@@ -411,7 +447,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Pick/Basic: A Programmer's Guide](http://www.jes.com/pb/) - Jonathan E. Sisk
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### BETA
 
@@ -421,7 +459,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
 * [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### C
 
@@ -460,7 +500,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### C Sharp
 
@@ -484,7 +526,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 <h3 id="cpp">C++</h3>
 
@@ -517,20 +561,26 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) - Allen B. Downey (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Chapel
 
 * [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
 * [Chapel Tutorial for Programmers](http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Cilk
 
 * [Cilk 5.4.6 Reference Manual](http://supertech.csail.mit.edu/cilk/manual-5.4.6.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Clojure
 
@@ -551,7 +601,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### COBOL
 
@@ -560,7 +612,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to the COBOL Language](https://supportline.microfocus.com/documentation/books/oc41books/lrintr.htm)
 * [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### CoffeeScript
 
@@ -569,39 +623,51 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### ColdFusion
 
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown) - J. Casimir
 * [Learn CF in a Week](http://learncfinaweek.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Component Pascal
 
 * [Computing Fundamentals](http://www.cslab.pepperdine.edu/warford/ComputingFundamentals/) - Stan Warford (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Cool
 
 * [CoolAid: The Cool 2013 Reference Manual](https://www.eecis.udel.edu/~cavazos/cisc672/docs/cool-manual.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Coq
 
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
 * [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Crystal
 
 * [Crystal for Rubyists](http://www.crystalforrubyists.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### CUDA
 
@@ -609,20 +675,26 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [CUDA C Programming Guide](https://docs.nvidia.com/pdf/CUDA_C_Programming_Guide.pdf) (PDF)
 * [OpenCL Programming Guide for CUDA Architecture](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### D
 
 * [D Templates Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial)
 * [Programming in D](http://ddili.org/ders/d.en/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Dart
 
 * [Learning Dart](https://riptutorial.com/Download/dart.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### DB2
 
@@ -630,13 +702,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Getting started with IBM Data Studio for DB2](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_IBM_Data_Studio_for_DB2_p3.pdf) (PDF)
 * [Getting started with IBM DB2 development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### DBMS
 
 * [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Delphi / Pascal
 
@@ -644,19 +720,25 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Expert Delphi](https://www.packtpub.com/free-ebooks/expert-delphi) - Paweł Głowacki (Packt account *required*)
 * [Modern Object Pascal Introduction for Programmers](https://github.com/michaliskambi/modern-pascal-introduction) - Michalis Kamburelis ([AsciiDoc](https://github.com/michaliskambi/modern-pascal-introduction/blob/master/modern_pascal_introduction.adoc#logical-relational-and-bit-wise-operators), [HTML](https://castle-engine.io/modern_pascal_introduction.html), [PDF](https://castle-engine.io/modern_pascal_introduction.pdf))
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### DTrace
 
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Eiffel
 
 * [A Functional Pattern System for Object-Oriented Design](http://homepages.mcs.vuw.ac.nz/~tk/fps/fps-sans-escher.pdf) - Thomas Kuhne (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Elixir
 
@@ -668,20 +750,26 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
 * [The Ultimate Guide To Elixir For Object-Oriented Programmers](http://www.binarywebpark.com/ultimate-guide-elixir-object-oriented-programmers) - Bruce Park (HTML)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Ecto
 
 * [Ecto Getting Started Guide](https://hexdocs.pm/ecto/getting-started.html#content) (HTML)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Phoenix
 
 * [Phoenix Framework Guide](https://hexdocs.pm/phoenix/overview.html) (HTML)
 * [Versioned APIs with Phoenix](https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) - Elvio Vicosa (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Emacs
 
@@ -690,7 +778,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 * [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Embedded Systems
 
@@ -701,7 +791,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
 * [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://freertos.org/Documentation/RTOS_book.html) - freertos.org ([PDF](https://freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf))
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Erlang
 
@@ -715,13 +807,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Stuff Goes Bad: Erlang in Anger](https://www.erlang-in-anger.com) - Fred Herbert (PDF)
 * [The BEAM Book](https://blog.stenmans.org/theBeamBook) (HTML)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### ESP8266
 
 * [Kolban's book on the ESP32 & ESP8266](https://leanpub.com/ESP8266_ESP32)  *(Leanpub account or valid email requested)*
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### F Sharp
 
@@ -732,13 +828,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Functional Programming Textbook](https://www.overleaf.com/read/hcwwdfxvftfp) - Yusuf M Motara (PDF)
 * [Programming Language Concepts for Software Developers](https://archive.org/details/B-001-003-622)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Firefox OS
 
 * [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Flutter
 
@@ -747,7 +847,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Flutter Tutorial](https://www.tutorialspoint.com/flutter) - Tutorials Point
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Force.com
 
@@ -762,7 +864,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Salesforce1 Mobile App Workbook](https://res.cloudinary.com/hy4kyit2a/image/upload/s1_mobile_woorkbook_v3-21.pdf) (PDF)
 * [Visualforce Workbook](https://web.archive.org/web/20150921195528/https://resources.docs.salesforce.com/sfdc/pdf/workbook_vf.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Forth
 
@@ -773,7 +877,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Thinking Forth](http://thinking-forth.sourceforge.net)
 * [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Fortran
 
@@ -788,7 +894,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Self Study Guide 2: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) - Dr Rachael Padman (PDF)
 * [User Notes On Fortran Programming (UNFP): An open cooperative practical guide (1998)](https://www.ibiblio.org/pub/languages/fortran/) - Abraham Agay, Arne Vajhoej et. al (HTML)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### FreeBSD
 
@@ -796,7 +904,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Git
 
@@ -825,7 +935,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Go
 
@@ -847,13 +959,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book) - Karl Seguin ([PDF](https://www.openmymind.net/assets/go/go.pdf), [ePUB](https://www.openmymind.net/assets/go/go.epub))
 * [Web apps in Go, the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### GraphQL
 
 * [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Groovy
 
@@ -863,7 +979,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Gradle Succinctly](https://www.syncfusion.com/ebooks/gradle_succinctly) - José Roberto Olivas Mendoza
 * [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) - Hans Dockter, Adam Murdoch ([PDF](https://docs.gradle.org/current/userguide/userguide.pdf))
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Grails
 
@@ -871,19 +989,25 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Grails Tutorial for Beginners](http://grails.asia/grails-tutorial-for-beginners/)
 * [The Grails Framework - Reference Documentation](http://grails.github.io/grails-doc/latest/) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari ([PDF](http://grails.github.io/grails-doc/latest/guide/single.pdf))
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Spock Framework
 
 * [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Hack
 
 * [Hack Documentation](https://docs.hhvm.com/hack/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Hadoop
 
@@ -893,7 +1017,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Hadoop for Windows Succinctly](https://www.syncfusion.com/ebooks/hadoop-for-windows-succinctly) - Dave Vickers
 * [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner & Sujee Maniyam
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Haskell
 
@@ -916,7 +1042,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Wise Man's Haskell](https://github.com/anchpop/wise_mans_haskell/blob/master/book.md#preface) - Andre Popovitch
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Haxe
 
@@ -926,7 +1054,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/) (HTML)
 * [Kha Handbook](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### HTML / CSS
 
@@ -967,7 +1097,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 * [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Bootstrap
 
@@ -975,19 +1107,25 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Twitter Bootstrap 4 Succinctly](https://www.syncfusion.com/ebooks/twitterbootstrap4-succinctly) - Peter Shaw
 * [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) - Peter Shaw
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Idris
 
 * [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti) - Boro Sitnikovski  *(Leanpub account or valid email requested)*
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Icon
 
 * [The Implementation of the Icon Programming Language](http://www.cs.arizona.edu/icon/ibsale.htm)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### iOS
 
@@ -999,21 +1137,27 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html) (HTML)
 * [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### IoT
 
 * [IoT in five days- V1.1](https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases) (PDF, EPUB)
 * [Mastering Internet of Things](https://www.packtpub.com/free-ebooks/mastering-internet-things) - Peter Waher (Packt account *required*)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Isabelle/HOL
 
 * [Concrete Semantics - A Proof Assistant Approach by Tobias Nipkow and Gerwin Klein](http://www21.in.tum.de/~nipkow/Concrete-Semantics/) (PDF)
 * [Isabelle/HOL - A Proof Assistant for Higher-Order Logic by Tobias Nipkow and Lawrence C. Paulson and Markus Wenzel](http://isabelle.in.tum.de/doc/tutorial.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### J
 
@@ -1029,7 +1173,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learning J by Roger Stokes- online](http://www.jsoftware.com/help/learning/contents.htm)
 * [Math for the Layman by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/mftl.zip) (zipped html+images)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Java
 
@@ -1073,20 +1219,26 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
 * [What’s New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Codename One
 
 * [Codename One Developer Guide](https://www.codenameone.com/files/developer-guide.pdf) (PDF)
 * [Create an Uber Clone in 7 Days (first 2 chapters)](http://uber.cn1.co) - Shai Almog (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### JasperReports
 
 * [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Spring
 
@@ -1096,32 +1248,42 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Spring Framework Notes for Professionals](https://goalkicker.com/SpringFrameworkBook) - Compiled from StackOverflow documentation (PDF)
 * [Spring Framework Reference Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/) - Rod Johnson et al.
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Spring Boot
 
 * [Building modern Web Apps with Spring Boot and Vaadin](https://v.vaadin.com/hubfs/Pdfs/Building%20Modern%20Web%20Apps%20with%20Spring%20Boot%20and%20Vaadin.pdf) (PDF)
 * [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/html/) - Phillip Webb et al. ([PDF](https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf))
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Spring Data
 
 * [Spring Data Reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html) - Oliver Gierke, Thomas Darimont, Christoph Strobl, Mark Paluch, Jay Bryant
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Spring Security
 
 * [Spring Security Reference](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) - Ben Alex, Luke Taylor, Rob Winch
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Wicket
 
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/learn/#guide)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### JavaScript
 
@@ -1177,7 +1339,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### AngularJS
 
@@ -1197,9 +1361,15 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html) - Andy Shora (HTML)
 
 
+**[⬆ - Back to Index - ⬆](#index)**
+
+
 #### Aurelia
 
 * [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) - behzad  *(Leanpub account or valid email requested)*
+
+
+**[⬆ - Back to Index - ⬆](#index)**
 
 
 #### Backbone.js
@@ -1212,13 +1382,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Booty5.js
 
 * [The Booty5 HTML5 Game Maker Manual](http://booty5.com/booty5-free-html-game-maker-e-book-manual/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### D3.js
 
@@ -1226,13 +1400,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Dashing D3.js Tutorial](https://www.dashingd3js.com/d3-tutorial)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Dojo
 
 * [Dojo: The Definitive Guide](https://www.oreilly.com/library/view/dojo-the-definitive/9780596516482/) - Matthew A. Russell
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Elm
 
@@ -1245,7 +1423,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learn You an Elm](https://learnyouanelm.github.io) (HTML)
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Ember.js
 
@@ -1255,25 +1435,33 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Ember.js - Getting started](https://guides.emberjs.com/release/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Express.js
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Fastify
 
 * [Fastify - Latest Documentation](https://www.fastify.io/docs/latest) (HTML)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Ionic
 
 * [Ionic 4 Succinctly](https://www.syncfusion.com/ebooks/ionic-4-succinctly) - Ed Freitas
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### jQuery
 
@@ -1282,13 +1470,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
 * [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) (email address *requested*, not required)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Meteor
 
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Node.js
 
@@ -1303,13 +1495,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Practical Node.js: Building Real-World Scalable Web Apps](https://github.com/azat-co/practicalnode) - Azat Mardan
 * [The Node Beginner Book](http://nodebeginner.org)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Om
 
 * [Om Tutorial](http://awkay.github.io/om-tutorial/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### React
 
@@ -1333,7 +1529,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### React Native
 
@@ -1343,7 +1541,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Redux
 
@@ -1351,7 +1551,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 * [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman  *(Leanpub account or valid email requested)*
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Vue.js
 
@@ -1359,13 +1561,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) (PDF)
 * [The Vue.js Handbook](https://flaviocopes.nyc3.digitaloceanspaces.com/vue-handbook/vue-handbook.pdf) - Flavio Copes (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Jenkins
 
 * [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Julia
 
@@ -1378,14 +1584,18 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
 * [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens and Allen Downey (GitBook)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Kotlin
 
 * [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF)
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### LaTeX / TeX
 
@@ -1396,7 +1606,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks
 * [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### TeX
 
@@ -1404,19 +1616,25 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - Victor Eijkhout
 * [TeX for the Impatient](https://www.gnu.org/software/teximpatient/) - Paul Abrahams, Kathryn Hargreaves, and Karl Berry
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Language Agnostic
 
 * [BY SUBJECT](free-programming-books-subjects.md) This section has been moved to its own file.
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Limbo
 
 * [Inferno Programming With Limbo](http://doc.cat-v.org/inferno/books/inferno_programming_with_limbo/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Linux
 
@@ -1458,7 +1676,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Lisp
 
@@ -1481,13 +1701,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Livecode
 
 * [LiveCode userguide](http://www.scribd.com/doc/216789127/LiveCode-userguide) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Lua
 
@@ -1495,20 +1719,26 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
 * [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Make
 
 * [Makefile tutorial](https://makefiletutorial.com) - Chase Lambert
 * [Managing Projects with GNU Make](https://www.oreilly.com/openbook/make3/book/index.html) - Robert Mecklenburg
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Markdown
 
 * [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Mathematica
 
@@ -1518,7 +1748,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Vector Math for 3d Computer Graphics](http://chortle.ccsu.edu/VectorLessons/index.html)
 * [Wolfram Mathematica Product Training: Wolfram U](https://www.wolfram.com/wolfram-u/catalog/product-training/mathematica/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### MATLAB
 
@@ -1539,7 +1771,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
 * [Scientific Computing](https://www.math.ust.hk/~machas/scientific-computing.pdf) - Jeffrey R. Chasnov (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Maven
 
@@ -1548,7 +1782,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
 * [Repository Management with Nexus](http://books.sonatype.com/nexus-book/reference/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Mercurial
 
@@ -1556,19 +1792,25 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)
 * [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Mercury
 
 * [The Mercury Users' Guide](http://www.mercurylang.org/information/doc-release/user_guide.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Modelica
 
 * [Modelica by Example](http://book.xogeny.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### MySQL
 
@@ -1576,7 +1818,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 * [MySQL Notes for Professionals](https://goalkicker.com/MySQLBook/) - Compiled from StackOverflow Documentation (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Neo4J
 
@@ -1585,7 +1829,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) - Ian Robinson, Jim Webber and Emil Eifrém (PDF, EPUB, MOBI) *(email requested)*
 * [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Dr. Jim Webber and Rik Van Bruggen (PDF) *(email requested)*
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### .NET Core
 
@@ -1594,7 +1840,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [.NET documentation - Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/)
 * [Using .NET Core, Docker, and Kubernetes Succinctly](https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly) - Michele Aponte
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### .NET Framework
 
@@ -1614,7 +1862,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Visual Studio .NET Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
 * [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Nim
 
@@ -1623,7 +1873,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Nim by Example](https://nim-by-example.github.io) - Flaviu Tamas
 * [Nim Days](https://xmonader.github.io/nimdays) - Ahmed Thabet
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### NoSQL
 
@@ -1637,7 +1889,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) - K. Seguin (PDF, Epub)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Oberon
 
@@ -1645,7 +1899,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf) - Hanspeter Mössenböck (PDF)
 * [Programming in Oberon](https://www.inf.ethz.ch/personal/wirth/ProgInOberonWR.pdf) - Niklaus Wirth (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Objective-C
 
@@ -1655,7 +1911,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Objective-C Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) (email address *requested*, not required)
 * [Programming With Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### OCaml
 
@@ -1667,13 +1925,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) [Github Repo](https://github.com/ocaml/ocamlunix/)
 * [Using, Understanding, and Unraveling The OCaml Language: From Practice to Theory and vice versa](http://pauillac.inria.fr/~remy/cours/appsem/) - Didier Rémy
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Octave
 
 * [Octave Programming](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial) - Wikibooks
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### OpenMP
 
@@ -1681,25 +1943,33 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [OpenMP Application Programming Interface Standard Version 4.0](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) (PDF)
 * [OpenMP Application Programming Interface Standard Version 5.0](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### OpenResty
 
 * [Programming OpenResty](https://www.gitbook.com/book/openresty/programming-openresty/details)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### OpenSCAD
 
 * [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual) - Wikibooks
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### TrueOS
 
 * [TrueOS® Users Handbook](https://www.trueos.org/handbook/trueos.html)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Perl
 
@@ -1726,7 +1996,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The PDL Book](http://sourceforge.net/projects/pdl/files/PDL_2013/PDL-Book/PDL-Book-20130322.pdf/download) (PDF)
 * [Web Client Programming with Perl](http://www.oreilly.com/openbook/webclient/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### PHP
 
@@ -1746,26 +2018,34 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### CakePHP
 
 * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### CodeIgniter
 
 * [CodeIgniter 3 User Guide](https://codeigniter.com/userguide3/index.html)
 * [CodeIgniter 4 User Guide](https://codeigniter.com/user_guide/index.html)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Drupal
 
 * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Laravel
 
@@ -1777,7 +2057,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
 * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) - Jeffrey Madsen  *(Leanpub account or valid email requested)*
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Symfony
 
@@ -1787,20 +2069,26 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Symfony Book 3.4.x](https://symfony.com/doc/3.4/index.html)
 * [The Symfony Book 4.4.x](https://symfony.com/doc/4.4/index.html)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Zend
 
 * [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### PicoLisp
 
 * [PicoLisp by Example](https://github.com/tj64/picolisp-by-example)
 * [PicoLisp Works](https://github.com/tj64/picolisp-works)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### PostgreSQL
 
@@ -1810,7 +2098,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
 * [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### PowerShell
 
@@ -1835,13 +2125,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Why PowerShell?](https://leanpub.com/whypowershell) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
 * [Windows PowerShell Networking Guide](https://leanpub.com/windowspowershellnetworkingguide) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Processing
 
 * [The Nature of Code: Simulating Natural Systems with Processing](http://natureofcode.com/book/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Prolog
 
@@ -1864,19 +2158,25 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Constraint Logic Programming (extended Prolog)
 
 * [A Gentle Guide to Constraint Logic Programming via ECLiPSe](http://anclp.pl)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### PureScript
 
 * [PureScript By Example](https://leanpub.com/purescript/read) - Phil Freeman
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Python
 
@@ -1992,7 +2292,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Django
 
@@ -2010,7 +2312,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
 * [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Flask
 
@@ -2018,38 +2322,50 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Flask Documentation](https://flask.palletsprojects.com) - Pallets
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Kivy
 
 * [Kivy Programming Guide](https://kivy.org/docs/guide-index.html)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Pandas
 
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/docs) - Wes McKinney and the Pandas Development Team (HTML, PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Pyramid
 
 * [Quick Tutorial for Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html#quick-tutorial)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Tornado
 
 * [Learn Web Programming](https://bitbucket.org/hrojas/learn-web-programming)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### QML
 
 * [Qt5 Cadaques](http://qmlbook.github.io) - Juergen Bocklage-Ryannel and Johan Thelin (HTML, PDF, ePub) (:construction: *in process*)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### R
 
@@ -2081,7 +2397,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The R Manuals](http://cran.r-project.org/manuals.html)
 * [Tidy Text Mining with R](http://tidytextmining.com) - Julia Silge and David Robinson
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Racket
 
@@ -2089,7 +2407,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
 * [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Raku
 
@@ -2102,7 +2422,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Using Perl 6](https://github.com/perl6/book/) (:construction: *project is dead*)
 * [X=Raku](https://learnxinyminutes.com/docs/raku/) - Learn X in Y minutes (HTML)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Raspberry Pi
 
@@ -2110,13 +2432,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Raspberry Pi Users Guide - (2012)](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
 * [The Official Raspberry Pi Project Book](https://www.raspberrypi.org/magpi-issues/Projects_Book_v1.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### REBOL
 
 * [Learn REBOL](http://www.lulu.com/shop/nick-antonaccio/learn-rebol/ebook/product-17383182.html) - Nick Antonaccio
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Ruby
 
@@ -2153,13 +2479,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Using Blocks in Ruby](https://www.oreilly.com/programming/free/files/using-blocks-in-ruby.pdf) - Jay McGavren (PDF)
 * [Why's (Poignant) Guide to Ruby](http://poignant.guide)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### RSpec
 
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Ruby on Rails
 
@@ -2179,13 +2509,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Ruby on Rails Tutorial (Rails 5): Learn Web Development with Rails](https://www.railstutorial.org/book) - [Michael Hartl](http://www.michaelhartl.com)
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Sinatra
 
 * [Sinatra Book](https://github.com/sinatra/sinatra-book)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Rust
 
@@ -2200,14 +2534,18 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 * [Why Rust?](https://www.oreilly.com/content/why-rust/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Sage
 
 * [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf) - William Stein (PDF)
 * [The Sage Manuals](http://www.sagemath.org/doc/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Scala
 
@@ -2240,7 +2578,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Xtrace](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Lift
 
@@ -2249,14 +2589,18 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Lift Cookbook](https://www.oreilly.com/library/view/lift-cookbook/9781449365042/) - Richard Dallaway
 * [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Play Scala
 
 * [Essential Play](http://underscore.io/books/essential-play/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook) - Alvin Alexander
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Scheme
 
@@ -2269,7 +2613,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/) - [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
 * [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) - Wikibooks
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Scilab
 
@@ -2277,7 +2623,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Programming in Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
 * [Writing Scilab Extensions](http://forge.scilab.org/index.php/p/docsciextensions/downloads/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Scratch
 
@@ -2286,20 +2634,26 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learn to Code with Scratch](https://www.raspberrypi.org/magpi-issues/Essentials_Scratch_v1.pdf) - The MagPi magazine (PDF)
 * [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Sed
 
 * [GNU sed](https://learnbyexample.github.io/learn_gnused/) - Sundeep Agarwal
 * [Sed - An Introduction and Tutorial](https://www.grymoire.com/Unix/Sed.html) - Bruce Barnett
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Self
 
 * [The Self Handbook](http://handbook.selflanguage.org)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Smalltalk
 
@@ -2310,13 +2664,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Pharo by Example](http://books.pharo.org/pharo-by-example/) - Andrew P. Black et al. (Smalltalk Implementation and IDE)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Snap
 
 * [Snap! Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) - B. Harvey, J. Mönig (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Spark
 
@@ -2324,13 +2682,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
 * [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Splunk
 
 * [Splunk 7.x Quick Start Guide](https://www.packtpub.com/free-ebooks/splunk-7x-quick-start-guide) - James H. Baxter (Packt account *required*)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### SQL (implementation agnostic)
 
@@ -2341,7 +2703,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### SQL Server
 
@@ -2377,7 +2741,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Redgate Guide to SQL Server Team-based Development](https://www.red-gate.com/library/the-redgate-guide-to-sql-server-team-based-development) - Phil Factor, Grant Fritchey, Alex Kuznetsov, Mladen Prajdić (PDF)
 * [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba) - Jonathan Kehayias, Ted Krueger (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Standard ML
 
@@ -2388,14 +2754,18 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [SML# Document](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/en/manual.xhtml) - Atsushi Ohori, Katsuhiro Ueno
 * [The Definition of Standard ML (Revised)](http://sml-family.org/sml97-defn.pdf) - SMLFamily GitHub project (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Subversion
 
 * [Subversion Version Control](http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) (PDF)
 * [Version Control with Subversion](http://svnbook.red-bean.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Swift
 
@@ -2405,44 +2775,58 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Vapor
 
 * [Vapor 3 Tutorial For Beginners](https://theswiftdev.com/2018/04/09/vapor-3-tutorial-for-beginners) - Tibor Bödecs
 * [Vapor Official Docs](https://docs.vapor.codes)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Tcl
 
 * [Tcl Programming](https://en.wikibooks.org/wiki/Programming%3ATcl) - Richard.Suchenwirth, et. al.
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### TEI
 
 * [What is the Text Encoding Initiative?](https://books.openedition.org/oep/426) - Lou Bernard
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Teradata
 
 * [Teradata Books](http://www.info.teradata.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Tizen
 
 * [Guide to Developing Tizen Native Application](https://developer.tizen.org/sites/default/files/documentation/guide_to_developing_tizen_native_application_en_2.pdf) - Jung, Dong-Geun (Denis.Jung) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### TLA
 
 * [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html) - Leslie Lamport (Postscript or PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### TypeScript
 
@@ -2452,7 +2836,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Angular
 
@@ -2465,14 +2851,18 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Angular Tutorial](https://angular.io/tutorial) (HTML)
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma (PDF, [:package: code samples](https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore))
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Deno
 
 * [Deno Manual](https://deno.land/manual)
 * [FlavioCopes Deno Handbook](https://flaviocopes.com/deno) - *free PDF with registration*
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Unix
 
@@ -2486,7 +2876,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Verilog
 
@@ -2494,7 +2886,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Verilog Quick Reference Guide - Sutherland HDL](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) (PDF)
 * [Verilog Tutorial](http://www.asic-world.com/verilog/veritut.html)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### VHDL
 
@@ -2502,7 +2896,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [VHDL Tutorial](http://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html)
 * [VHDL Tutorial: Learn By Example](http://esd.cs.ucr.edu/labs/tutorial/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Vim
 
@@ -2516,7 +2912,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) (PDF)
 * [Vim Regular Expressions 101](http://vimregex.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Visual Basic
 
@@ -2524,14 +2922,18 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 * [Visual Basic Official Docs](https://docs.microsoft.com/en-us/dotnet/visual-basic)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Visual Prolog
 
 * [A Beginners' Guide to Visual Prolog](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog)
 * [Visual Prolog for Tyros](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Vulkan
 
@@ -2540,19 +2942,25 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Vulkan Tutorial RS](https://github.com/bwasty/vulkan-tutorial-rs) - Benjamin Wasty et al. (:construction: *in process*) (Rust)
 * [Vulkano](https://vulkano.rs/guide/introduction) - Tomaka et al. (HTML) (Rust)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Web Services
 
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Windows 8
 
 * [Programming Windows Store Apps with HTML, CSS, and JavaScript, Second Edition](https://web.archive.org/web/20150624142410/http://download.microsoft.com/download/6/6/5/665AF7A6-2184-45DC-B9DA-C89185B01937/Microsoft_Press_eBook_Programming_Windows_8_Apps_HTML_CSS_JavaScript_2E_PDF.pdf) - Kraig Brockschmidt (PDF)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Windows Phone
 
@@ -2561,18 +2969,23 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Windows Phone 8.1 Development for Absolute Beginners](http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners)
 * [Windows Phone Programming Blue Book](http://www.robmiles.com/c-yellow-book/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Workflow
 
 * [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### xBase (dBase / Clipper / Harbour)
 
 * [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour) - Wikibooks
 * [CA-Clipper 5.2 Norton Guide](https://web.archive.org/web/20190516192814/http://www.ousob.com/ng/clguide/)
 * [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s)) - Wikibooks
+
 
 **[⬆ - Back to Index - ⬆](#index)**

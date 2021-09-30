@@ -1,6 +1,6 @@
 ### Index
 
-* [Index](#index)
+
 * [0 - MOOC](#0---mooc)
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
@@ -8,6 +8,7 @@
 * [AutoIt](#autoit)
 * [Bash / Shell](#bash--shell)
 * [Bootstrap](#bootstrap)
+* [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
 * [Clojure](#clojure)

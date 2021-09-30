@@ -84,8 +84,8 @@
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
-* [Codecademy](https://www.codecademy.com/)
-* [Khan Academy](https://www.khanacademy.org/)
+* [Codecademy](https://www.codecademy.com)
+* [Khan Academy](https://www.khanacademy.org)
 
 
 ### Algorithms & Data Structures

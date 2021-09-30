@@ -5,7 +5,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Common Lisp](#common-lisp)
 * [Coq](#coq)
 * [CSS](#css)
@@ -38,6 +38,7 @@
 
 ### Android
 
+* [O Androidzie ludzkim głosem](https://andrzejklusiewicz-android.blogspot.com/p/bezpatny-kurs-programowania-android-java.html) - Andrzej Klusiewicz
 * [O Androidzie ludzkim głosem](http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF)
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
 
@@ -51,6 +52,7 @@
 
 * [Beej’s Guide to Network Programming - U˙zywanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - B. Hall, Przełożył Bartosz Zapałowski (PDF)
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
+* [Kurs języka C](http://kurs-c.manifo.com/konfiguracja-srodowiska-298-547) - Mateusz Piaszczak
 * [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
 * [Podstawy programowania Unixa/Linuxa](https://old.opcode.eu.org/programing/c_cpp/)
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) - Wikibooks (PDF)
@@ -67,7 +69,7 @@
 * [Wstęp do programowania w C#](http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++](https://pl.wikibooks.org/wiki/C++) - Wikibooks
 * [Język C++ – podstawy programowania](http://www.dz5.pl/ti/cpp/zz_dodatki/kurs_cpp_szczegolowy2.pdf) - Paweł Mikołajczak (PDF)
@@ -83,6 +85,7 @@
 ### CSS
 
 * [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
+* [Kurs CSS](https://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 
@@ -133,6 +136,7 @@
 * [Kurs Perl](http://zajacmarek.com/2014/10/kurs-perl-cz-1/) - Marek Zając
 * [Kurs PERL](cyberpunk.e-spin.pl/86,41,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PERL)
 * [Perl](https://pl.wikibooks.org/wiki/Perl) - Wikibooks
+* [Samouczek Perl](https://www.w3big.com/pl/perl/default.html) - w3big.com
 
 
 ### PHP
@@ -157,6 +161,7 @@
 
 * [Biblioteka Pythona](http://www.python.rk.edu.pl) - Piotr Maliński
 * [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/) - Piotr Maliński
+* [Python dla wszystkich: Odkrywanie danych z Python 3](https://py4e.pl/book) - Charles Russell Severance (PDF, HTML, EPUB, MOBI)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 

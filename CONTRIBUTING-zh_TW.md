@@ -1,4 +1,4 @@
-*閱讀其他語言版本的文件：[English](CONTRIBUTING.md)、[简体中文](CONTRIBUTING-zh.md)、[فارسی](CONTRIBUTING-fa_IR.md)*
+*閱讀其他語言版本的文件：[English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md).*
 
 
 ## 貢獻者許可協議

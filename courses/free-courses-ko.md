@@ -15,7 +15,7 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angular.js)
+  * [AngularJS](#angularjs)
   * [Node.js](#node.js)
   * [React.js](#react.js)
 * [Linux](#linux)
@@ -46,13 +46,13 @@
 
 ### Android
 
-* [Do it! 안드로이드 앱 프로그래밍](https://www.youtube.com/playlist?list=PLG7te9eYUi7sq701GghpoSKe-jbkx9NIF)
 * [안드로이드 스튜디오 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdB6sCgj_jubp8KPb1ni0VOC)
 * [안드로이드 스튜디오 실전 프로젝트](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD862e43ADbvDeGPUZKDuqL)
 * [안드로이드 프로그래밍 고급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcXoTW9RwEf_7UTMcAJaink) (T 아카데미)
 * [안드로이드 프로그래밍 응용](https://www.youtube.com/playlist?list=PL9mhQYIlKEhd0NndsEQc0in36Oegm3ldE) (T 아카데미)
 * [안드로이드 프로그래밍 중급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhc7o2HHixQi0PU2sQVerRW2) (T 아카데미)
 * [안드로이드 프로그래밍 초급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcAHpIweCixdDrPoXv5bXGx) (T 아카데미)
+* [Do it! 안드로이드 앱 프로그래밍](https://www.youtube.com/playlist?list=PLG7te9eYUi7sq701GghpoSKe-jbkx9NIF)
 
 
 ### Arduino
@@ -67,14 +67,14 @@
 
 ### C/C++
 
+* [두들낙서의 C/C++ 강좌](https://www.youtube.com/playlist?list=PLlJhQXcLQBJqywc5dweQ75GBRubzPxhAk)
+* [박정민의 C 언어본색](https://www.youtube.com/playlist?list=PL7mmuO705dG3Z4iSqwzztuPHF3YE8mlbw)
+* [씹어먹는 C](https://modoocode.com/231) - 이재범
+* [씹어먹는 C++](https://modoocode.com/135) - 이재범
+* [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
 * [C++ 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLJRimEWvctNAfE5JrkwswQv6Yy4abqDl2)
 * [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
-* [두들낙서의 C/C++ 강좌](https://www.youtube.com/playlist?list=PLlJhQXcLQBJqywc5dweQ75GBRubzPxhAk)
-* [박정민의 C 언어본색](https://www.youtube.com/playlist?list=PL7mmuO705dG3Z4iSqwzztuPHF3YE8mlbw)
-* [씹어먹는 C++](https://modoocode.com/135) - 이재범
-* [씹어먹는 C](https://modoocode.com/231) - 이재범
-* [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
 
 
 ### C Sharp
@@ -89,9 +89,9 @@
 
 ### Deep Learning
 
-* [C++로 배우는 딥러닝](https://www.youtube.com/playlist?v=nHt7BHyJGko&list=PLNfg4W25Tapy5hIBmFZgT5coii1HUX6BD) - 홍정모
 * [모두를 위한 딥러닝 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) - Sung Kim
 * [모두를 위한 딥러닝 시즌 2](https://www.youtube.com/playlist?list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C) - Sung Kim
+* [C++로 배우는 딥러닝](https://www.youtube.com/playlist?v=nHt7BHyJGko&list=PLNfg4W25Tapy5hIBmFZgT5coii1HUX6BD) - 홍정모
 
 
 ### Flutter
@@ -125,22 +125,22 @@
 ### Java
 
 * [Do it! Java 프로그래밍 입문](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
-* [Java with 인크레파스](https://www.youtube.com/playlist?list=PLa4r6B21Ny5ld_PTqzzqDMxxoj7l0z7Xp)
 * [Java 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R)
 * [Java 리듬게임 만들기 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDySO3wDqMYGKMVH4Qa4QhR)
 * [Java 입문수업](https://www.opentutorials.org/course/1223) (생활코딩)
+* [Java with 인크레파스](https://www.youtube.com/playlist?list=PLa4r6B21Ny5ld_PTqzzqDMxxoj7l0z7Xp)
 
 
 ### JavaScript
 
-* [JavaScript for Web Browser](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX) (생활코딩)
-* [JavaScript 입문 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) (생활코딩)
 * [모던 웹을 위한 JavaScript + jQuery](https://www.youtube.com/playlist?list=PLBXuLgInP-5kLy13XLuK8iBWVFDBJygYr)
+* [JavaScript 입문 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) (생활코딩)
+* [JavaScript for Web Browser](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX) (생활코딩)
 
 
-#### Angular.js
+#### AngularJS
 
-* [AngularJS](https://www.youtube.com/playlist?list=PLs_XsVQJKaBk_JN5RctLmmVrGwEzpzqaj)
+* [AngularJS](https://www.youtube.com/playlist?list=PLs_XsVQJKaBk_JN5RctLmmVrGwEzpzqaj) - 양재동 코드랩 (YouTube)
 
 
 #### Node.js
@@ -161,9 +161,9 @@
 
 ### Machine Learning
 
-* [Python tensorflow & 머신러닝 기초 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO)
 * [머신러닝/딥러닝 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
 * [파이토치(PyTorch) 튜토리얼 한국어 번역](https://tutorials.pytorch.kr) (HTML) (:construction: *in process* - *번역 진행 중*)
+* [Python tensorflow & 머신러닝 기초 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO)
 
 
 ### Mathematics
@@ -227,8 +227,8 @@
 
 ### Spring
 
-* [Spring 강좌](https://www.youtube.com/playlist?list=PLY9pe3iUjRrRiJeg0jw22yW1G5yzAdiqC)
 * [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) (김영한)
+* [Spring 강좌](https://www.youtube.com/playlist?list=PLY9pe3iUjRrRiJeg0jw22yW1G5yzAdiqC)
 
 
 ### Swift
@@ -243,6 +243,7 @@
 
 ### Web Development
 
+* [웹 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1323070)
 * [HTML5&CSS3 기초](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTdvqzohqVs3RTVHzWPu79) (T 아카데미)
 * [Web1-HTML](https://www.opentutorials.org/course/3084) (생활코딩)
 * [Web2-CSS](https://www.opentutorials.org/course/3086) (생활코딩)
@@ -253,7 +254,6 @@
 * [Web2-PHP](https://www.opentutorials.org/course/3130) (생활코딩)
 * [Web2-Python](https://www.opentutorials.org/course/3256) (생활코딩)
 * [Web3-PHP & MySQL](https://www.youtube.com/playlist?list=PLuHgQVnccGMA5836CvWfieEQy0T0ov6Jh) (생활코딩)
-* [웹 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1323070)
 
 
 ### Windows

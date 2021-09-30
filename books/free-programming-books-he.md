@@ -1,11 +1,23 @@
 ### Index
 
-* [Assembly](#assembly)
-* [C#](#c-sharp)
-* [Python](#python)
 * [ללא תלות בשפה](#ללא-תלות-בשפה)
   * [מערכות הפעלה](#מערכות-הפעלה)
   * [רשתות](#רשתות)
+* [Assembly](#assembly)
+* [C#](#c-sharp)
+* [Python](#python)
+
+
+### ללא תלות בשפה
+
+#### מערכות הפעלה
+
+* [מערכות הפעלה](https://data.cyber.org.il/os/os_book.pdf) – ברק גונן, המרכז לחינוך סייבר (PDF)
+
+
+#### רשתות
+
+* [רשתות מחשבים](https://data.cyber.org.il/networks/networks.pdf) – עומר רוזנבוים, ברק גונן, שלומי הוד, המרכז לחינוך  (PDF)סייבר
 
 
 ### Assembly
@@ -21,16 +33,4 @@
 ### Python
 
 * [תכנות בשפת פייתון](https://data.cyber.org.il/python/python_book.pdf) – ברק גונן, המרכז לחינוך סייבר (PDF)
-
-
-### ללא תלות בשפה
-
-#### מערכות הפעלה
-
-* [מערכות הפעלה](https://data.cyber.org.il/os/os_book.pdf) – ברק גונן, המרכז לחינוך סייבר (PDF)
-
-
-#### רשתות
-
-* [רשתות מחשבים](https://data.cyber.org.il/networks/networks.pdf) – עומר רוזנבוים, ברק גונן, שלומי הוד, המרכז לחינוך  (PDF)סייבר
 

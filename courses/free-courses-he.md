@@ -1,11 +1,11 @@
 ### Index
 
-* [C++](C++)
+* [C++](#cpp)
 * [Python](#python)
-* [R](#R)
+* [R](#r)
 
 
-### C++
+### <a name="cpp"></a>C++
 
 * [מבוא לתכנות בשפת C++](https://campus.gov.il/course/course-v1-basmach-pc264/) (קמפוסIL ובסמ״ח)
 

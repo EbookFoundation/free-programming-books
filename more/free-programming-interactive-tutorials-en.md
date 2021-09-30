@@ -304,6 +304,7 @@
 
 ### Rust
 
+* [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
 
 

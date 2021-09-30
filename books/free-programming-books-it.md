@@ -4,6 +4,7 @@
   * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
   * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
   * [Open source](#open-source)
+  * [Reverse Engineering](#reverse-)
   * [Sistemi](#sistemi)
   * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
@@ -55,6 +56,11 @@
 #### Open source
 
 * [Open Source - Analisi di un movimento](http://www.apogeonline.com/2002/libri/88-503-1065-X/ebook/pdf/OpenSource.pdf) - N. Bassi (PDF)
+
+
+#### Reverse Engineering
+
+* [Reverse Engineering per Principianti]() - Dennis Yurichev, Federico Ramondino, Paolo Stivanin, Fabrizio Bertone, Matteo Sticco, Marco Negro et al. (PDF)
 
 
 #### Sistemi

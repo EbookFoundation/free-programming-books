@@ -97,6 +97,7 @@
 
 * [Flutter Tutorial (Flutter Fundamentals)](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV) - Erico Darmawan Handoyo
 * [Tutorial Flutter](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teRqkuBusUEcVrP6OlYpD9w) - idr corner
+* [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana?thumbnail=nk4neM2UyG.110&main_leads=browse) - BuildWithAngga
 
 
 ### Git
@@ -109,6 +110,7 @@
 
 * [Belajar Go-Lang untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw) - Programmer Zaman Now
 * [Belajar Golang Basic Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm) - Sekolah Koding
+* [Golang Fundamental](https://buildwithangga.com/kelas/golang-fundamental?thumbnail=nk4neM2UyG.54&main_leads=browse) - BuildWithAngga
 
 
 ### HTML / CSS
@@ -119,6 +121,7 @@
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [CSS3](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
+* [CSS Tailwind](https://buildwithangga.com/kelas/css-tailwind-web-design?thumbnail=nk4neM2UyG.46&main_leads=browse) - BuildWithAngga
 
 
 ### Java
@@ -154,6 +157,7 @@
 #### Node
 
 * [Pelajaran Node.js Sederhana](https://easy-to-learn5.teachable.com/p/nodejs) - Easy To Learn 5
+* [Node.js Dasar](https://buildwithangga.com/kelas/node-javascript-dasar?thumbnail=nk4neM2UyG.36&main_leads=browse) - BuildWithAngga
 
 
 #### React
@@ -203,6 +207,7 @@
 ### Microservices
 
 * [Training Microservices 2020](https://www.youtube.com/playlist?list=PL9oC_cq7OYbywbzkB_2tSr3DQqNfXiM7R) - Artivisi
+* [Microservice Architecture Web Development](https://buildwithangga.com/kelas/microservice-architecture-web-development?thumbnail=nk4neM2UyG.49&main_leads=browse) - BuildWithAngga
 
 
 ### MongoDB

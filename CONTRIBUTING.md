@@ -20,7 +20,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files.
 
-5. Travis CI will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
+5. GitHub Actions will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
 
 ### Guidelines
 - make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
@@ -204,7 +204,7 @@ If you can print it out and retain its essence, it's not an Interactive Tutorial
 
 ### Automation
 
-- Formatting rules enforcement is automated via [Travis CI](https://travis-ci.com) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [.travis.yml](.travis.yml))
+- Formatting rules enforcement is automated via [GitHub Actions](https://github.com/features/actions) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
 - URL validation uses [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - To trigger URL validation, push a commit that includes a commit message containing `check_urls=file_to_check`:
 

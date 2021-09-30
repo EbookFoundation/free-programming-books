@@ -85,7 +85,9 @@
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Algorithms & Data Structures
 
@@ -105,7 +107,9 @@
 * [Stanford University Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
 * [This is CS50x](https://cs50.harvard.edu/x/2020/) - David J. Malan (Harvard OpenCourseWare)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Android
 
@@ -136,7 +140,9 @@
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Assembly
 
@@ -144,13 +150,17 @@
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### AutoIt
 
 * [AutoIt Scripting Tutorial](https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z) - TutsTeach (YouTube)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Bash / Shell
 
@@ -159,7 +169,9 @@
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
 * [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) (ProgrammingKnowledge)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Bootstrap
 
@@ -172,7 +184,9 @@
 * [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
 * [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### C
 
@@ -181,7 +195,9 @@
 * [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### C Sharp
 
@@ -189,7 +205,9 @@
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 <h3 id="cpp">C++</h3>
 
@@ -201,25 +219,33 @@
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Clojure
 
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Compilers
 
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Cuda
 
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Dart
 
@@ -227,7 +253,9 @@
 * [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) - Mahmud Ahsan (FreeCodeCamp)
 * [Dart Programming Tutorial \| Learn the Dart for Flutter](https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter) (Udemy)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Data Science
 
@@ -241,7 +269,9 @@
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Databases
 
@@ -250,13 +280,17 @@
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 * [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### NoSQL
 
 * [MongoDB University](https://university.mongodb.com) - MongoDB, Inc. (email address *required*)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### SQL
 
@@ -268,7 +302,9 @@
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - Mike Dane (freeCodeCamp)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Deep Learning
 
@@ -289,7 +325,9 @@
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Docker
 
@@ -300,13 +338,18 @@
 * [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
 * [Learn Docker, Container Runtimes, Builders and Registries](https://www.katacoda.com/courses/container-runtimes) - Katacoda
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Flutter
 
 * [Flutter Crash Course](https://fluttercrashcourse.com/courses/basics/lessons/materialapp-scaffold-appbar-text) - Nick Manning *(account required)*
 * [Flutter Tutorial](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Matt Sullivan, James Williams, Mary Xia (Udacity)
 * [Flutter Tutorial for Beginners](https://www.udemy.com/course/learn-flutter-beginners-course) - Mayuresh Wankhede (Udemy)
+
+
+**[⬆ - Back to Index - ⬆](#index)**
 
 
 ### Game Development
@@ -328,7 +371,9 @@
 * [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) (Brackeys)
 * [Unity User Manual](https://docs.unity3d.com/Manual/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Git
 
@@ -341,7 +386,9 @@
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Go
 
@@ -350,7 +397,9 @@
 * [Golang \| Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews
 * [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) - FreeCodeCamp
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Haskell
 
@@ -360,7 +409,9 @@
 * [edX: Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Erik Meijer
 * [RWTH Aachen University: Functional Programming](https://videoag.fsmpi.rwth-aachen.de/?course=12ss-funkprog) - Jürgen Giesl
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### HTML / CSS
 
@@ -390,7 +441,9 @@
 * [Web Development By Doing: HTML / CSS From Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/) - Udemy
 * [What the Flexbox](https://flexbox.io) - Wesbos
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### iOS
 
@@ -401,7 +454,9 @@
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
 * [The Complete Swift iOS Developer - Create Real Apps in Swift](https://www.udemy.com/course/the-complete-ios-10-developer-course/) - Grant Klimaytys (Udemy)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Java
 
@@ -425,7 +480,9 @@
 * [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### JavaScript
 
@@ -445,7 +502,9 @@
 * [Namaste 🙏 JavaScript: An In-Depth JavaScript Fundamentals Course](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini (YouTube)
 * [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web) - Owen Astrachan, Robert Duvall, Andrew D. Hilton, Susan H. Rodger (Coursera)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### AngularJS
 
@@ -455,27 +514,35 @@
 * [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs) - Codecademy (Codecademy account *required*)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js) - Codeschool (Codeschool account *required*)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### D3.js
 
 * [D3 101](https://www.youtube.com/playlist?list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb) - Curran Kelleher
 * [Learn D3](https://www.codecademy.com/learn/learn-d3) - Codecademy *(account required)*
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 * [Introduction to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245) (Udacity)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Next.js
 
 * [Mastering Next.js](https://masteringnextjs.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### NodeJS
 
@@ -485,7 +552,9 @@
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### React
 
@@ -498,7 +567,9 @@
 * [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - Codevolution
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### React Native
 
@@ -506,14 +577,18 @@
 * [React Native for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) - The Net Ninja
 * [React Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - codevolution
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Redux
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Vue.js
 
@@ -527,7 +602,9 @@
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Kotlin
 
@@ -535,13 +612,17 @@
 * [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) - Aleks Haecky, Asser Samak, Sean McQuillan (Udacity)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Kubernetes
 
 * [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Linux
 
@@ -553,7 +634,9 @@
 * [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat, Inc. (Udemy)
 * [The Linux Basics: Beginner to Sysadmin, Step by Step](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Lua
 
@@ -561,7 +644,9 @@
 * [Lua Interactive Crash Course](http://luatut.com/crash_course.html)
 * [Lua Tutorial](http://www.tutorialspoint.com/lua/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Machine Learning
 
@@ -577,13 +662,17 @@
 * [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Markdown
 
 * [MasteringMarkdown](https://masteringmarkdown.com) - Wesbos
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### MATLAB
 
@@ -592,7 +681,9 @@
 * [MATLAB and Simulink Training](https://matlabacademy.mathworks.com)
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Misc
 
@@ -629,26 +720,34 @@
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### .NET
 
 * [Learn how to program: .NET](https://www.learnhowtoprogram.com/net) - Epicodus Inc.
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### OCaml
 
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
 * [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Perl
 
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### PHP
 
@@ -661,7 +760,9 @@
 * [PHP Tutorial](https://www.tutorialrepublic.com/php-tutorial/) - TutorialRepublic
 * [PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) - Dani Krossing
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### PLC - Programmable logic controllers
 
@@ -669,13 +770,17 @@
 * [Learning PLCs with Structured Text](https://www.youtube.com/playlist?list=PLE1CU6EebvTCJCMIUOSWgMseMaW-2k5zH) - Evan Jensen (YouTube)
 * [PLC programming using TwinCAT 3](https://www.youtube.com/playlist?list=PLimaF0nZKYHz3I3kFP4myaAYjmYk1SowO) - Jakob Sagatowski (YouTube)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Processing
 
 * [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) - The Coding Train
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Python
 
@@ -719,7 +824,9 @@
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Django
 
@@ -728,20 +835,26 @@
 * [Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
 * [Python Django Tutorial 2018 for Beginners](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD) - Clever Programmer
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Flask
 
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
 * [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### QB64
 
 * [Game Programming with QB64](http://qb64sourcecode.com) - Terry Ritchie
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### R
 
@@ -749,7 +862,9 @@
 * [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) - (Barton Poulson) - (freeCodeCamp)
 * [R Tutorial For Beginners \| Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU) - (Edureka)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Ruby
 
@@ -762,7 +877,9 @@
 * [Ruby Tutorial](https://www.w3resource.com/ruby/)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Rust
 
@@ -772,14 +889,18 @@
 * [Rust Projects](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb) - Tensor Programming
 * [Rust Tutorial](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5) - Doug Milford
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Scala
 
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Security
 
@@ -788,7 +909,9 @@
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) -(Insec Techs- EH Academy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Swift
 
@@ -797,20 +920,26 @@
 * [Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX) - CodeWithChris
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Vapor
 
 * [Vapor University](https://vapor.university)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Theory
 
 * [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### TypeScript
 
@@ -818,7 +947,9 @@
 * [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
 * [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Angular
 
@@ -830,13 +961,17 @@
 * [Angular for Beginners](https://www.udemy.com/course/angular-for-beginners-course/) - Angular University (Udemy)
 * [Angular Tutorial For Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) - Codevolution (YouTube)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 #### Deno
 
 * [Deno Beginner](https://denobeginner.com) - Ahmad Awais (email address *required*)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Verilog / VHDL / SystemVerilog
 
@@ -844,7 +979,9 @@
 * [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
 * [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
 
+
 **[⬆ - Back to Index - ⬆](#index)**
+
 
 ### Web Development
 
@@ -860,5 +997,6 @@
 * [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
 * [Web Devevelopment Tutorials for Beginners](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) - LearnCode.academy
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
+
 
 **[⬆ - Back to Index - ⬆](#index)**

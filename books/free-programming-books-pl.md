@@ -39,7 +39,7 @@
 
 #### Reverse Engineering
 
-- [Inżynieria wsteczna dla początkujących](https://beginners.re/RE4B-PL.pdf) - Dennis Yurichev, Kateryna Rozanova, Aleksander Mistewicz, Wiktoria Lewicka, Marcin Sokołowski (PDF)
+* [Inżynieria wsteczna dla początkujących](https://beginners.re/RE4B-PL.pdf) - Dennis Yurichev, Kateryna Rozanova, Aleksander Mistewicz, Wiktoria Lewicka, Marcin Sokołowski (PDF)
 
 
 ### Android

@@ -84,6 +84,8 @@
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
+* [Codecademy](https://www.codecademy.com/)
+* [Khan Academy](https://www.khanacademy.org/)
 
 
 ### Algorithms & Data Structures
@@ -536,6 +538,7 @@
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Machine Learning Mastery With Python](https://docplayer.net/60629865-Machine-learning-mastery-with-python.html) Book 
 
 
 ### Markdown

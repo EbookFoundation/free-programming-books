@@ -1,6 +1,7 @@
 ### Index
 
 * [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
+  * [Reverse Engineering](#reverse-engineering)
 * [Android](#android)
 * [Bash](#bash)
 * [C](#c)
@@ -34,6 +35,11 @@
 * [Pro Git](http://git-scm.com/book/pl/)
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
 * [SVN](https://pl.wikibooks.org/wiki/Subversion) - Wikibooks
+
+
+#### Reverse Engineering
+
+- [Inżynieria wsteczna dla początkujących](https://beginners.re/RE4B-PL.pdf) - Dennis Yurichev, Kateryna Rozanova, Aleksander Mistewicz, Wiktoria Lewicka, Marcin Sokołowski (PDF)
 
 
 ### Android

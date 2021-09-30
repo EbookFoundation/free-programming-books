@@ -197,7 +197,7 @@
 ### Machine Learning
 
 * [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177) - Dicoding, membutuhkan registrasi
-* [Tutorial Belajar Machine Learning Dasar | Python Scikit-Learn](https://www.youtube.com/watch?v=Rk1VmHk_kUo&list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Indonesia Belajar (Youtube)
+* [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Indonesia Belajar (Youtube)
 
 
 ### Microservices

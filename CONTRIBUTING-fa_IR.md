@@ -26,7 +26,7 @@
 
 4. مطمئن شوید که از [راهنماها](#راهنماها) پیروی می‌کنید و طبق [فرمت‌بندی مارک‌داون](#فرمت‌بندی] می‌نویسید.
 
-5. Travis CI تست‌هایی را اجرا می‌کند که مطمئن شود فهرست شما الفبایی است و قوانین فرمت‌بندی رعایت شده است. مطمئن شوید که تغییرات شما تست‌ها را با موفقیت گذرانده است.
+5. Github Actions تست‌هایی را اجرا می‌کند که مطمئن شود فهرست شما الفبایی است و قوانین فرمت‌بندی رعایت شده است. مطمئن شوید که تغییرات شما تست‌ها را با موفقیت گذرانده است.
 
 
 ### راهنماها
@@ -129,7 +129,7 @@
 
 ### خودکارسازی
 
-* قوانین فرمت‌بندی از طریق [Travis CI](https://travis-ci.com) با استفاده از [fpb-lint](https://github.com/vhf/free-programming-books-lint) بررسی می‌شوند ([.travis.yml](.travis.yml) را ببینید)
+* قوانین فرمت‌بندی از طریق [Github Actions](https://docs.github.com/en/actions) با استفاده از [fpb-lint](https://github.com/vhf/free-programming-books-lint) بررسی می‌شوند ([.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml) را ببینید)
 * اعتبارسنجی لینک‌ها با استفاده از [awesome_bot](https://github.com/dkhamsing/awesome_bot) انجام می‌شود.
 * برای اجرای اعتبارسنجی لینک‌ها، کامیتی پوش کنید که در بدنه‌ی آن `check_urls=file_to_check` نوشته شده باشد:
 

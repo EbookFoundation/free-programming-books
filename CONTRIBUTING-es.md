@@ -28,7 +28,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repo
 
 4. Asegúrese de seguir la [guía de pautas que mostramos a continuación][guidelines] así como de respetar el [formato Markdown][formatting] de los ficheros.
 
-5. Travis CI ejecutará pruebas para asegurarse de que las listas esten ordenadas alfabéticamente y de que se siga dicha normalización de formateo. Asegúrese de verificar que sus cambios pasen todas estas comprobaciones de calidad.
+5. Github Actions ejecutará pruebas para asegurarse de que las listas esten ordenadas alfabéticamente y de que se siga dicha normalización de formateo. Asegúrese de verificar que sus cambios pasen todas estas comprobaciones de calidad.
 
 
 <a name="guidelines"></a>
@@ -228,7 +228,7 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 <a name="automation"></a>
 ### Automatización
 
-- El cumplimiento de las reglas de formateado se automatiza vía [Travis CI](https://travis-ci.com) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (ver [.travis.yml](.travis.yml))
+- El cumplimiento de las reglas de formateado se automatiza vía [Github Actions](https://docs.github.com/en/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (ver [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
 - La validación de URLs se realiza mediante [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Para activar esta validación de URL, envíe un commit que incluya como mensaje de confirmación `check_urls=fichero_a_comprobar`:
 

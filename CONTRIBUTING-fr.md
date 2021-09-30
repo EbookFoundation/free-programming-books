@@ -22,7 +22,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
 
 4. Assurez-vous de suivre les [directives ci-dessous](#directrices) et de respecter [la format Markdown](#formatage) des fichers.
 
-5. Travis CI exécutera des tests pour s'assurer que vos listes sont classées par ordre alphabétique et que les règles de formatage sont respectées. Assurez-vous de vérifier que vos modifications passent les tests.
+5. Github Actions exécutera des tests pour s'assurer que vos listes sont classées par ordre alphabétique et que les règles de formatage sont respectées. Assurez-vous de vérifier que vos modifications passent les tests.
 
 ### Directrices
 - assurez-vous qu'un livre est gratuit. Vérifiez si nécessaire. Cela aide les administrateurs si vous commentez dans le PR pourquoi vous pensez que le livre est gratuit.
@@ -205,7 +205,7 @@ Si vous pouvez l'imprimer et conserver son essence, ce n'est pas un didacticiel 
 
 ### Automatisation
 
-- L'application des règles de formatage est automatisée via [Travis CI](https://travis-ci.com) en utilisant [fpb-lint](https://github.com/vhf/free-programming-livres-lint) (voir [ .travis.yml](.travis.yml))
+- L'application des règles de formatage est automatisée via [Github Actions](https://docs.github.com/en/actions) en utilisant [fpb-lint](https://github.com/vhf/free-programming-livres-lint) (voir [ .github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
 - La validation d'URL utilise [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Pour déclencher la validation d'URL, poussez un commit qui inclut un message de commit contenant `check_urls=file_to_check` :
 

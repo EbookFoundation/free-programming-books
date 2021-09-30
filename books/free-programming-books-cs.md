@@ -22,6 +22,7 @@
   * [Django](#django)
 * [Ruby](#ruby)
 * [TeX](#tex)
+* [Unity](#unity)
 * [Webdesign](#webdesign)
 * [XML](#xml)
 
@@ -51,12 +52,12 @@
 
 ### Git
 
-* [Pro Git](https://knihy.nic.cz) - Scott Chacon (PDF)
+* [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon (PDF, EPUB, MOBI)
 
 
 ### HTML
 
-* [Ponořme se do HTML5](https://knihy.nic.cz) - Mark Pilgrim (PDF)
+* [Ponořme se do HTML5](https://knihy.nic.cz/#HTML5) - Mark Pilgrim (PDF)
 
 
 ### Language Agnostic
@@ -69,7 +70,7 @@
 
 #### Bezpečnost
 
-* [Báječný svět elektronického podpisu](https://knihy.nic.cz) - Jiří Peterka (PDF)
+* [Báječný svět elektronického podpisu](https://knihy.nic.cz) - Jiří Peterka (PDF, EPUB, MOBI)
 * [Buď pánem svého prostoru](https://knihy.nic.cz) - Linda McCarthy a Denise Weldon-Siviy (PDF)
 
 
@@ -91,7 +92,7 @@
 
 #### Sítě
 
-* [Internetový protokol IPv6](https://knihy.nic.cz) - Pavel Satrapa (PDF)
+* [Internetový protokol IPv6](https://knihy.nic.cz/#IPv6-2019) - Pavel Satrapa (PDF)
 
 
 ### LaTeX
@@ -117,7 +118,8 @@
 ### OpenSource
 
 * [Katedrála a tržiště](http://www.root.cz/knihy/katedrala-a-trziste/) (PDF)
-* [Tvorba open source softwaru](https://knihy.nic.cz) - Karl Fogel (PDF)
+* [Tvorba open source softwaru](https://knihy.nic.cz/#open_source) - Karl Fogel (PDF, EPUB, MOBI)
+* [Výkonnost open source aplikací](https://knihy.nic.cz/#vykonnost) - Tavish Armstrong (PDF, EPUB, MOBI)
 
 
 ### PHP
@@ -136,6 +138,11 @@
 * [Django Girls Tutoriál](https://tutorial.djangogirls.org/cs/) (1.11) (HTML) (:construction: *in process*)
 
 
+### Perl
+
+* [Perl pro zelenáče](https://knihy.nic.cz/#perl) - Pavel Satrapa (PDF, EPUB, MOBI)
+
+
 ### Ruby
 
 * [Ruby Tutoriál](http://i.iinfo.cz/files/root/k/Ruby_tutorial.pdf) (PDF)
@@ -145,6 +152,11 @@
 
 * [První setkání s TeXem](http://www.root.cz/knihy/prvni-setkani-s-texem/) (PDF)
 * [TeXbook naruby](http://www.root.cz/knihy/texbook-naruby/) (PDF)
+
+
+### Unity
+
+* [Unity](https://knihy.nic.cz/#Unity) - Tomáš Holan (PDF, EPUB, MOBI)
 
 
 ### Webdesign

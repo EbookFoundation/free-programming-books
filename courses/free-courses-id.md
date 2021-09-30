@@ -97,6 +97,7 @@
 
 * [Flutter Tutorial (Flutter Fundamentals)](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV) - Erico Darmawan Handoyo
 * [Tutorial Flutter](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teRqkuBusUEcVrP6OlYpD9w) - idr corner
+* [Belajar Flutter Untuk Pemula](https://www.youtube.com/playlist?list=PL7jdfftn7HKsfTtv8FOaTbLIf7feiQTRu) - KuldiiProject, Sandikha Rahardi (Youtube)
 
 
 ### Git

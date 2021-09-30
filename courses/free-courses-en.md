@@ -464,6 +464,7 @@
 * [ReactJS Basics](https://www.youtube.com/playlist?list=PLe30vg_FG4OSw8SIcLVci-jB_-W1ZkLYp) - Bitfumes
 * [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - Codevolution
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
+* [Develop Full Stack App With React](https://fullstackopen.com/en/) - Full Stack Open 2021
 
 
 #### React Native

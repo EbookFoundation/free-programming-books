@@ -33,6 +33,7 @@
 * [Rust](#rust)
 * [RxJS](#rxjs)
 * [Scala](#scala)
+* [Solidity](#solidity)
 * [SQL](#sql)
 * [Svelte](#svelte)
 * [Swift](#swift)
@@ -243,6 +244,11 @@
 * [ScalaFiddle.net](http://scalafiddle.net)
 * [Scastie](https://scastie.scala-lang.org)
 
+
+### Solidity
+
+* [Remix IDE](https://remix.ethereum.org/)
+ 
 
 ### SQL
 

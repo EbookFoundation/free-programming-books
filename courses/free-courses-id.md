@@ -100,7 +100,6 @@
 * [Tutorial Flutter](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teRqkuBusUEcVrP6OlYpD9w) - idr corner
 
 
-
 ### Git
 
 * [Belajar Git](https://www.youtube.com/playlist?list=PLuGFxya63u24bmP-ILRaiGeMwZh3PGxW4) - Galih Pratama
@@ -123,7 +122,6 @@
 * [CSS Tailwind](https://buildwithangga.com/kelas/css-tailwind-web-design?thumbnail=nk4neM2UyG.46&main_leads=browse) - BuildWithAngga
 * [CSS3](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
-
 
 
 ### Java
@@ -160,7 +158,6 @@
 
 * [Node.js Dasar](https://buildwithangga.com/kelas/node-javascript-dasar?thumbnail=nk4neM2UyG.36&main_leads=browse) - BuildWithAngga
 * [Pelajaran Node.js Sederhana](https://easy-to-learn5.teachable.com/p/nodejs) - Easy To Learn 5
-
 
 
 #### React
@@ -211,7 +208,6 @@
 
 * [Microservice Architecture Web Development](https://buildwithangga.com/kelas/microservice-architecture-web-development?thumbnail=nk4neM2UyG.49&main_leads=browse) - BuildWithAngga
 * [Training Microservices 2020](https://www.youtube.com/playlist?list=PL9oC_cq7OYbywbzkB_2tSr3DQqNfXiM7R) - Artivisi
-
 
 
 ### MongoDB

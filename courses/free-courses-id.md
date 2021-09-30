@@ -95,7 +95,7 @@
 
 ### Flutter
 
-* [Flutter For Designer](https://buildwithangga.com/) - BuildWithAngga
+* [Flutter For Designer](https://buildwithangga.com) - BuildWithAngga
 * [Flutter Tutorial (Flutter Fundamentals)](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV) - Erico Darmawan Handoyo
 * [Tutorial Flutter](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teRqkuBusUEcVrP6OlYpD9w) - idr corner
 

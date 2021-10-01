@@ -2,23 +2,29 @@
 
 * [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
-* [C](#C)
-* [C++](#c-1)
+* [C](#c)
+* [C++](#cpp)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
 * [HTML / CSS](#html--css)
-* [Java](#Java)
+* [IDE / Editors](#ide--editors)
+* [Java](#java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
+  * [React.js](#reactjs)
   * [Vue.js](#vuejs)
-* [Kubernetes](#Kubernetes)
+* [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
+* [MATLAB](#matlab)
 * [MongoDB](#mongodb)
-* [Perl](#Perl)
+* [Perl](#perl)
 * [Python](#python)
+* [R](#r)
+* [Raspberry Pi](#rpi)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [SQL](#sql)
 
 
@@ -35,12 +41,13 @@
 ### C
 
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
+* [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)
 * [The C Cheat Sheet: An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) - Andrew Sterian (PDF)
 
 
-### C++
+### <a name="cpp"></a>C++
 
-* [C++ Quick Reference](https://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) (PDF)
+* [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
 
 
 ### Clojure
@@ -56,6 +63,9 @@
 ### Git
 
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
+* [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
+  * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
+  * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 
@@ -64,7 +74,18 @@
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
+* [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
+* [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co) - Chris Malven (HTML)
 * [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
+
+
+### <a name="ide--editores"></a>IDE / Editors
+
+* [Editor VI - Guia de Referência](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
+* [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
+* [Vim Avançado](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
+* [Vim Básico](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
+* [Vim Médio](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 
 
 ### Java
@@ -83,6 +104,11 @@
 #### jQuery
 
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
+
+
+#### React.js
+
+* [React Cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) - Codecademy (HTML)
 
 
 #### Vue.js
@@ -105,8 +131,14 @@
 * [Markdown Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Adam Pritchard
 
 
+### MATLAB
+
+* [MATLAB Basic Functions Reference Sheet](https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf) - MathWorks (PDF)
+
+
 ### MongoDB
 
+* [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet
 
 
@@ -120,20 +152,40 @@
 * [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
+* [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) - Matplotlib.org (LaTeX, PDF)
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/)
 * [Python Cheatsheet for beginners](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet) - Codeacademy (HTML)
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
+* [Python Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - Pandas (PDF)
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
 
+
+### R
+
+* [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
+
+### Raspberry Pi
+
+* [Top 50 General Commands for Raspberry Pi cheatsheet](https://projects-raspberry.com/wp-content/uploads/2018/05/Top-50-Raspberry-pi-commands-List-cheat-sheet.pdf)
+* [Raspberry Pi Basics cheatsheet](https://www.woolseyworkshop.com/wp-content/uploads/WoolseyWorkshop_Cheatsheet_RaspberryPiBasics_v1.4.pdf)
+* [Other Raspberry Pi Commands cheatsheet](https://www.raspberrypistarterkits.com/wp-content/uploads/2018/01/raspberry-pi-commands-cheat-sheet.pdf)
+* [Raspberry Pi Different GPIO Configuration Combinations cheatsheet](https://static.raspberrypi.org/files/education/posters/GPIO_Zero_Ceatsheet.pdf)
+* [Basic GPIO layout configuration cheatsheet](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/cheat_sheet/)
 
 ### Ruby
 
 * [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
 
 
+### Rust
+
+* [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
+
+
 ### SQL
 
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
+* [SQL Cheatsheet](https://www.codecademy.com/learn/learn-sql/modules/learn-sql-manipulation/cheatsheet) - Codecademy (SQL)

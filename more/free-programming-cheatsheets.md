@@ -83,6 +83,7 @@
 * [Vim Avançado](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
 * [Vim Básico](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
 * [Vim Médio](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
+* [GNU Emacs Refcard](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - Official [GNU.org](https://www.gnu.org/home.en.html)
 
 
 ### Java

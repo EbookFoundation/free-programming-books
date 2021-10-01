@@ -36,7 +36,7 @@
 ### C Sharp
 
 * [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy)
-*( https://www.introprogramming.info/wp-content/uploads/2013/07/Books/CSharpEn/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf)-Svetlin Nakov
+*( https://www.introprogramming.info/wp-content/uploads/2013/07/Books/CSharpEn/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf) (pdf)- (author Svetlin Nakov)
 
 
 ### HTML/CSS

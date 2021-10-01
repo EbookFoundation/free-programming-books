@@ -51,7 +51,7 @@
 * [Google Ctf](https://capturetheflag.withgoogle.com) (email address *requested*)
 * [Hacker101](https://ctf.hacker101.com) (email address *requested*)
 * [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
-* [HackThisSite](https://www.hackthissite.org/) (email address *requested*)
+* [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources) (email address *requested*)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)

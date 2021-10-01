@@ -35,7 +35,7 @@
 * [Erlang](#erlang)
 * [Git](#git)
 * [Go](#go)
-* [GNU make](#GNU make)
+* [GNU-make](#GNU make)
 * [Groovy](#groovy)
   * [Gradle](#gradle)
   * [Grails](#grails)

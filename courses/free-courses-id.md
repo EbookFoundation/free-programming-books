@@ -194,6 +194,7 @@
 * [Fungsi pada Kotlin](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCqFIOudYt5icvdCnkA8FVe) - Sekolah Koding
 * [Kotlin Collection](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZWnGxjnZwAsnDthoas1O1) - Sekolah Koding
 
+
 ### Kubernetes
 
 * [Belajar Kubernetes untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH8XrWyQAyRd6d_CKwxD8Ime) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)

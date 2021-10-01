@@ -568,6 +568,7 @@
 * [AI Courses](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html) - Intel Corporation
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) (F. Corno - L. De Russis - A. Monge Roffarello)
+* [Berkeley's CS  61A: Taught using SICP](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
 * [Berkeley's CS  61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
 * [Berkeley's CS 162: Operating Systems and Systems Programming](https://www.youtube.com/watch?v=feAOZuID1HM)
 * [Berkeley's CS 169: Software Engineering](https://www.youtube.com/watch?v=fXokQpWsszU)
@@ -806,4 +807,3 @@
 * [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
 * [Web Devevelopment Tutorials for Beginners](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) - LearnCode.academy
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
-

@@ -106,7 +106,6 @@
 * [Flutter Basic State Management](https://buildwithangga.com/kelas/flutter-developer-basic-state-management) - BuildWithAngga
 * [Flutter for Designer](https://buildwithangga.com/kelas/flutter-for-designer-design-to-code) - BuildWithAngga
 * [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana) - BuildWithAngga
-* [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana?thumbnail=nk4neM2UyG.110&main_leads=browse) - BuildWithAngga
 * [Flutter Mobile Apps](https://buildwithangga.com/kelas/flutter-mobile-apps) - BuildWithAngga
 * [Flutter Tutorial (Flutter Fundamentals)](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV) - Erico Darmawan Handoyo
 * [STUDI KASUS FLUTTER + GETX + FIREBASE [ CHAT APPS 2021 ]](https://www.youtube.com/playlist?list=PL7jdfftn7HKt6wPnVXoXgserU14d_ACA-) - Sandikha Rahardi, Kuldii Project (YouTube)

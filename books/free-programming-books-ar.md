@@ -3,6 +3,7 @@
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
 * [C#](#c-sharp)
+* [Embedded Systems](#embedded-systems)
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
@@ -26,6 +27,7 @@
 
 * [أردوينو السهل](http://librebooks.org/simply-arduino/)
 * [كتاب احترف الأردوينو](http://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) (PDF)
+* [دليل محاكاة آردوينو الشامل](http://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AF%D9%84%D9%8A%D9%84-%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9-%D8%A2%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84/)
 
 
 ### Artificial Intelligence
@@ -36,6 +38,11 @@
 ### C Sharp
 
 * [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy)
+
+
+### Embedded Systems
+* [Simply AVR](http://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-simply-avr/)
+* [ متحكمات AVR](https://simplyarduino.com/%d9%83%d8%aa%d8%a7%d8%a8-%d9%85%d8%aa%d8%ad%d9%83%d9%85%d8%a7%d8%aa-avr-%d8%a3-%d8%af-%d9%85%d8%ad%d9%85%d8%af-%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%a7%d9%84%d8%b9%d8%af%d9%88%d9%8a/)
 
 
 ### HTML/CSS

@@ -5,11 +5,12 @@
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Dart](#dart)
+* [Data Science](#datascience)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -19,7 +20,7 @@
   * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
+  * [AngularJS](#angularjs)
   * [jQuery](#jquery)
   * [React](#react)
 * [Kotlin](#kotlin)
@@ -38,6 +39,7 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
+* [Selenium](#selenium)
 * [SQL](#sql)
 * [Vim](#vim)
 
@@ -49,6 +51,7 @@
 
 ### Android
 
+* [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
 * [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial)
 
 
@@ -65,13 +68,14 @@
 
 ### C Sharp
 
+* [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
 * [Codeasy](https://codeasy.net/course/csharp_elementary)
 * [Learn C#](http://www.learncs.org)
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
@@ -85,7 +89,7 @@
 * [Try Clojure](http://www.tryclj.com)
 
 
-### Cloud Computing 
+### Cloud Computing
 
 * [AWS API Gateway](https://run.qwiklabs.com/focuses/269?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605949) - *registration required*
 * [AWS Identity and Access Management (IAM)](https://run.qwiklabs.com/focuses/7782?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605942) - *registration required*
@@ -103,6 +107,12 @@
 ### Dart
 
 * [Dart Official Codelabs](https://dart.dev/codelabs)
+
+
+### Data Science
+
+* [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) -KDnuggets
+* [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
 ### Erlang
@@ -128,6 +138,7 @@
 ### Go
 
 * [Go Koans](https://github.com/cdarwin/go-koans)
+* [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
 
 
@@ -140,11 +151,14 @@
 
 * [CSS Diner](http://flukeout.github.io)
 * [CSS Tutorial](https://www.w3schools.com/css/) - W3Schools
+* [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure) - Nick Bull
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [FreeCodeCamp: Responsive Web Design Course](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+* [Grid Attack](https://codingfantasy.com/games/css-grid-attack) - Nick Bull
 * [Grid Garden](https://cssgridgarden.com)
 * [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
+* [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
@@ -152,6 +166,7 @@
 
 #### Bootstrap
 
+* [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
 * [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
 
@@ -159,7 +174,7 @@
 
 * [CodingBat code practice](http://codingbat.com/java)
 * [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
-* [Java Tutorial](https://www.w3schools.com/java) - W3Schools 
+* [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -182,11 +197,12 @@
 * [Try jQuery](http://try.jquery.com)
 
 
-#### Angular.js
+#### AngularJS
 
-* [Angular Basics](http://www.angularjsbook.com)
-* [Angular Tutorial](https://www.w3schools.com/angular/) - W3Schools
-* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson
+* [AngularJS Basics](http://www.angularjsbook.com) - Chris Smith
+* [AngularJS Tutorial](https://www.tutlane.com/tutorial/angularjs) - tutlane
+* [AngularJS Tutorial](https://www.w3schools.com/angular/) - W3Schools
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 
@@ -239,6 +255,7 @@
 ### Node
 
 * [Node School](http://nodeschool.io)
+* [Node.js Tutorial](https://www.tutlane.com/tutorial/nodejs) - tutlane
 * [Node.js Tutorial](https://www.w3schools.com/nodejs) - W3Schools
 
 
@@ -279,6 +296,8 @@
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
+* [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - GeeksforGeeks
+* [Python Tutorial](https://www.tutlane.com/tutorial/python) - tutlane
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 
@@ -292,6 +311,7 @@
 
 ### Rust
 
+* [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
 
 
@@ -310,6 +330,7 @@
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
+* [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQLBolt](http://sqlbolt.com)
 

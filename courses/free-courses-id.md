@@ -16,7 +16,7 @@
 * [Java](#java)
   * [Spring](#spring)
 * [JavaScript](#javascript)
-  * [Angular](#angular)
+  * [AngularJS](#angularjs)
   * [Node](#node)
   * [React](#react)
   * [Vue](#vue)
@@ -35,12 +35,17 @@
   * [Flask](#flask)
   * [PyTorch](#pytorch)
 * [Redis](#redis)
+* [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
 * [Typescript](#typescript)
 
 
 ### Android
 
+* [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) - Dicoding, membutuhkan registrasi
+* [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) - Dicoding, membutuhkan registrasi
+* [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) - Dicoding, membutuhkan registrasi
+* [Menjadi Android Developer Expert](https://www.dicoding.com/academies/165) - Dicoding, membutuhkan registrasi
 * [Tutorial Android (Java)](https://www.youtube.com/playlist?list=PLKPnl-eD7EA4rAzNeXikfCq5yiMuFI1zo) - Kopianan
 * [Tutorial Android (Kotlin)](https://www.youtube.com/playlist?list=PLaoF-xhnnrRUEbF6cvk4-CeBAEOSbp8sS) - EDMT Dev
 * [Tutorial Dasar Android Studio Bahasa Indonesia](https://www.udemy.com/course/tutorial-dasar-android-studio-bahasa-indonesia-gratis) - Udemy
@@ -80,22 +85,26 @@
 
 ### Desain dan Arsitektur
 
-* [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) - Dicoding, membutuhkan registrasi 
+* [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) - Dicoding, membutuhkan registrasi
 
 
 ### Docker
 
-* [Tutorial Docker untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) - Programmer Zaman Now
+* [Tutorial Docker untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
 ### Elasticsearch
 
-* [Belajar Elasticsearch untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_tVTwrxVt0K5LmtVT2u8fh) - Programmer Zaman Now
+* [Belajar Elasticsearch untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_tVTwrxVt0K5LmtVT2u8fh) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
 ### Flutter
 
+* [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/academies/195) - Dicoding, membutuhkan registrasi
+* [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159) - Dicoding, membutuhkan registrasi
+* [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana?thumbnail=nk4neM2UyG.110&main_leads=browse) - BuildWithAngga
 * [Flutter Tutorial (Flutter Fundamentals)](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV) - Erico Darmawan Handoyo
+* [STUDI KASUS FLUTTER + GETX + FIREBASE [ CHAT APPS 2021 ]](https://www.youtube.com/playlist?list=PL7jdfftn7HKt6wPnVXoXgserU14d_ACA-) - Sandikha Rahardi, Kuldii Project (YouTube)
 * [Tutorial Flutter](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teRqkuBusUEcVrP6OlYpD9w) - idr corner
 
 
@@ -107,8 +116,9 @@
 
 ### Go
 
-* [Belajar Go-Lang untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw) - Programmer Zaman Now
+* [Belajar Go-Lang untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Belajar Golang Basic Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm) - Sekolah Koding
+* [Golang Fundamental](https://buildwithangga.com/kelas/golang-fundamental?thumbnail=nk4neM2UyG.54&main_leads=browse) - BuildWithAngga
 
 
 ### HTML / CSS
@@ -117,8 +127,11 @@
 * [CSS Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p) - Web Programming UNPAS
 * [CSS Grid](https://www.youtube.com/playlist?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw) - Web Programming UNPAS
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
+* [CSS Tailwind](https://buildwithangga.com/kelas/css-tailwind-web-design?thumbnail=nk4neM2UyG.46&main_leads=browse) - BuildWithAngga
+* [CSS Website Design](https://www.buildwithangga.com/kelas/css-website-design) - BuildWithAngga
 * [CSS3](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
+* [HTML5 Dasar](https://www.buildwithangga.com/kelas/html5-dasar) - BuildWithAngga
 
 
 ### Java
@@ -127,11 +140,11 @@
 * [Belajar Java - Object Oriented Programming](https://www.youtube.com/playlist?list=PLFfUPa9IV8LpbRH5-TzphcZj6tpoxdr-p) - Mastahcode
 * [Belajar Java - Object Oriented Programming Bahasa Indonesia (Lanjut)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6V4_vk1s1NcM2HoW5KFG7i) - Kelas Terbuka
 * [Belajar Java Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) - Kelas Terbuka
-* [Belajar Java Lambda Expression](https://www.youtube.com/playlist?list=PL-CtdCApEFH_71iT2klDSWIC0MScpLheN) - Programmer Zaman Now
-* [Memulai Pemrograman dengan Java](https://www.dicoding.com/academies/60) - Dicoding, membutuhkan registrasi 
+* [JAVA TUTORIAL - BAHASA INDONESIA](https://www.youtube.com/playlist?list=PL-CtdCApEFH-p_Q2GyK4K3ORoAT0Yt7CX) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Memulai Pemrograman dengan Java](https://www.dicoding.com/academies/60) - Dicoding, membutuhkan registrasi
 
 
-### Spring
+#### Spring
 
 * [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Mastahcode
 
@@ -139,21 +152,22 @@
 ### JavaScript
 
 * [Belajar es6 - javacsript gaya baru](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR) - Sekolah Koding
-* [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Programmer Zaman Now
-* [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
+* [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
 
 
-#### Angular
+#### AngularJS
 
-* [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo
+* [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo (YouTube)
 
 
 #### Node
 
+* [Belajar NodeJS](https://youtube.com/playlist?list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD) - Web Programming UNPAS
+* [Node.js Dasar](https://buildwithangga.com/kelas/node-javascript-dasar?thumbnail=nk4neM2UyG.36&main_leads=browse) - BuildWithAngga
 * [Pelajaran Node.js Sederhana](https://easy-to-learn5.teachable.com/p/nodejs) - Easy To Learn 5
 
 
@@ -175,18 +189,18 @@
 
 ### Kotlin
 
-* [Belajar Kotlin Collection](https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr) - Programmer Zaman Now
-* [Belajar Kotlin Dasar untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa) - Programmer Zaman Now
-* [Belajar Kotlin Generic](https://www.youtube.com/playlist?list=PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR) - Programmer Zaman Now
-* [Belajar Kotlin Object Oriented Programming](https://www.youtube.com/playlist?list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog) - Programmer Zaman Now
-* [Belajar Kotlin Unit Test](https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up) - Programmer Zaman Now
+* [Belajar Kotlin Collection](https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Belajar Kotlin Dasar untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Belajar Kotlin Generic](https://www.youtube.com/playlist?list=PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Belajar Kotlin Object Oriented Programming](https://www.youtube.com/playlist?list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Belajar Kotlin Unit Test](https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Fungsi pada Kotlin](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCqFIOudYt5icvdCnkA8FVe) - Sekolah Koding
 * [Kotlin Collection](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZWnGxjnZwAsnDthoas1O1) - Sekolah Koding
 
 
 ### Kubernetes
 
-* [Belajar Kubernetes untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH8XrWyQAyRd6d_CKwxD8Ime) - Programmer Zaman Now
+* [Belajar Kubernetes untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH8XrWyQAyRd6d_CKwxD8Ime) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
 ### Linux
@@ -198,16 +212,18 @@
 ### Machine Learning
 
 * [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177) - Dicoding, membutuhkan registrasi
+* [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Setia Budi, Indonesia Belajar (Youtube)
 
 
 ### Microservices
 
+* [Microservice Architecture Web Development](https://buildwithangga.com/kelas/microservice-architecture-web-development?thumbnail=nk4neM2UyG.49&main_leads=browse) - BuildWithAngga
 * [Training Microservices 2020](https://www.youtube.com/playlist?list=PL9oC_cq7OYbywbzkB_2tSr3DQqNfXiM7R) - Artivisi
 
 
 ### MongoDB
 
-* [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Programmer Zaman Now
+* [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
 ### MySQL
@@ -246,9 +262,10 @@
 
 ### Python
 
-* [Belajar Pemrograman Python untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H) - Programmer Zaman Now
+* [Belajar Pemrograman Python untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Belajar Python Bahasa Indonesia [Dasar]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
 * [Belajar Python Bahasa Indonesia [Versi Baru]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY) - Kelas Terbuka
+* [Intro to Python](https://www.youtube.com/playlist?list=PLM4Qh7PEStOmBHR6Ey0BzPf3XNsPuSXL-) - Tensaitech Academy
 * [OpenCV untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwt4cBsBy_Ej7gNlXdQ7blCB) - NgodingPython
 * [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
 * [Tutorial Python Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m) - Sekolah Koding
@@ -276,7 +293,12 @@
 
 ### Redis
 
-* [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Programmer Zaman Now
+* [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+
+
+### SASS / SCSS
+
+* [Tutorial SASS](https://www.youtube.com/playlist?list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5) - Web Programming UNPAS
 
 
 ### Solidity
@@ -286,6 +308,6 @@
 
 ### TypeScript
 
-* [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
-* [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan
-* [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan
+* [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan (YouTube)
+* [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan (YouTube)

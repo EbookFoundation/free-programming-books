@@ -1,12 +1,14 @@
 ﻿### Índice
 
-* [Agnósticos](#agnosticos)
+* [Agnósticos](#agnósticos)
+  * [IDE / Editores](#ide--editores)
   * [Programação](#programação)
   * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
+* [Assembly](#assembly)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
   * [Arquitetura de Software](#arquitetura-de-software)
@@ -19,8 +21,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Angular](#angular)
-  * [Angular.js](#angularjs)
+  * [AngularJS](#angularjs)
   * [Backbone.js](#backbonejs)
   * [Ember.js](#emberjs)
   * [Express.js](#expressjs)
@@ -44,10 +45,22 @@
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
-* [Vim](#vim)
+* [TypeScript](#typescript)
+  * [Angular](#angular)
 
 
 ### Agnósticos
+
+#### IDE / Editores
+
+* [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
+
+
+#### Vim
+
+* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
+* [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
+
 
 #### Programação
 
@@ -66,6 +79,11 @@
 * [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 
 
+### Assembly
+
+* [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
+
+
 ### C
 
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
@@ -82,7 +100,7 @@
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
@@ -91,6 +109,7 @@
 
 ### Docker
 
+* [Descomplicando o Docker](https://livro.descomplicandodocker.com.br) - Jeferson Fernando
 * [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
 
 
@@ -114,6 +133,7 @@
 
 * [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
 * [Deploy em produção para desenvolvedores](https://leanpub.com/deployemprodparadevs) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
+* [Engenharia de Software Moderna](https://engsoftmoderna.info) - Marco Tulio Valente (HTML)
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
 
@@ -134,6 +154,7 @@
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
 * [Go - hands on](https://github.com/go-br/estudos)
+* [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
 
 
 ### Haskell
@@ -175,17 +196,13 @@
 * [You Don't Know JS: Tipos & Gramática](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/types%20&%20grammar/README.md)
 
 
-#### Angular
+#### AngularJS
 
-* [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm)
-* [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/index.html)
+> :information_source: Veja também &#8230; [Angular](#angular)
 
-
-#### Angular.js
-
-* [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
-* [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/)
-* [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/)
+* [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/) - Davi Ferreira
+* [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/) - Lucas Caprio
+* [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/) - Diego Eis
 
 
 #### Backbone.js
@@ -256,6 +273,7 @@
 
 ### Kubernetes
 
+* [Descomplicando Kubernetes](https://livro.descomplicandokubernetes.com.br) - Jeferson Fernando
 * [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 
@@ -310,6 +328,7 @@
 
 #### Django
 
+* [Desenvolvimento Web com Python e Django](https://pythonacademy.com.br/ebooks/desenvolvimento-web-com-python-e-django) - Vinícius Ramos (endereço de e-mail *solicitado*, não obrigatório)
 * [Documentação do Django](https://docs.djangoproject.com/pt-br)
 * [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
@@ -341,11 +360,16 @@
 * [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
 
 
-### Vim
+### TypeScript
 
-* [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
-* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
-* [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
-* [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
-* [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
-* [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza
+* [Iniciando no TypeScript - Guia prático para os primeiros passos da linguagem](https://www.maiconsilva.com/starting-typescript/) - Maicon Silva (HTML)
+* [TypeScript Documentação](https://www.typescriptlang.org/pt/docs/)
+* [TypeScript: O guia definitivo](https://oieduardorabelo.medium.com/typescript-o-guia-definitivo-1a63b04259cc) - Eduardo Rabelo (HTML)
+
+
+#### Angular
+
+> :information_source: Veja também &#8230; [AngularJS](#angularjs)
+
+* [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm) - José Carlos Macoratti (HTML)
+* [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/) - IBM, Babu Suresh (HTML)

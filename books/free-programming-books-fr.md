@@ -14,6 +14,7 @@
 * [Caml](#caml)
 * [Coq](#coq)
 * [CSS](#css)
+* [Fortran](#fortran)
 * [Git](#git)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -27,6 +28,7 @@
   * [TeX](#tex)
 * [Lisp](#lisp)
 * [Lua](#lua)
+* [Mathématiques](#math%C3%A9matiques)
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
@@ -97,6 +99,7 @@
 ### Bash / Shell
 
 * [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
+* [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
 ### Caml
@@ -123,6 +126,15 @@
 * [Apprendre les mises en page CSS](http://fr.learnlayout.com)
 
 
+### Fortran
+
+* [IDRIS adaptation of the Fortran 77 manual](http://www.idris.fr/formations/fortran/fortran-77.html) - IDRIS, Hervé Delouis, Patrick Corde (HTML)
+* [IDRIS Formations Fortran: documentation](http://www.idris.fr/formations/fortran/) (HTML)
+  * [Fortran_Avancé : "Fortran : apports des normes 90 et 95 avec quelques aspects de la norme 2003" (2ème niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_tp.tar.gz))
+  * [Fortran_Base : "Fortran : notions de base" (1er niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_base_cours.pdf) - Anne Fouilloux, Patrick Corde (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_base_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_base_tp.tar.gz))
+  * [Fortran_Expert : "Fortran : apports de la norme 2003 avec quelques aspects de la norme 2008"](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_tp.tar.gz))
+
+
 ### Git
 
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) - Alexandre Garel, Paul Gaborit et Nicolas Deram
@@ -139,7 +151,7 @@
 ### JavaScript
 
 * [JavaScript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
-* [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot 
+* [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot
 
 
 ### jQuery
@@ -196,6 +208,11 @@
 * [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) - Robert Strandh et Irène Durand
 
 
+### Mathématiques
+
+* [Calcul mathématique avec Sage](http://sagebook.gforge.inria.fr) - Paul Zimmermann et al.
+
+
 ### Lua
 
 * [Introduction à la programmation Lua](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html)
@@ -245,6 +262,7 @@
 
 ### R
 
+* [Introduction à l'analyse d'enquête avec R et RStudio](https://larmarange.github.io/analyse-R/) - Jospeh Lamarange et al. (PDF version also available)
 * [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) - Vincent Goulet (PDF)
 
 

@@ -1,14 +1,16 @@
 ### Indice
 
 * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
+* [Android](#android)
 * [Architettura degli Elaboratori](#architettura-degli-elaboratori)
 * [Assembly](#assembly)
 * [C](#c)
 * [C Sharp](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Database](#database)
   * [SQL](#sql)
 * [Delphi](#delphi)
+* [DevOps](#devops)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
 * [Erlang](#erlang)
@@ -16,6 +18,7 @@
 * [Java](#Java)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
+* [Miscellaneous](#miscellaneous)
 * [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
@@ -30,7 +33,12 @@
   * [Maven](#maven)
 * [Web](#web)
   * [Vue](#vue)
-* [Workshop](#workshop)  
+* [Workshop](#workshop)
+
+
+### Android
+
+* [Corso Java - Android](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2) - F. Camuso (YouTube)
 
 
 ### Algoritmi e Strutture Dati
@@ -58,10 +66,10 @@
 
 ### C Sharp
 
-* [Programmazione ad oggetti in C#](https://www.youtube.com/watch?v=aSgikNnGEKM&list=PLktbfd3yXeH8yQpHM3O468k8l-aTC6Hl6) - G. Pellegrini Parisi 
+* [Programmazione ad oggetti in C#](https://www.youtube.com/watch?v=aSgikNnGEKM&list=PLktbfd3yXeH8yQpHM3O468k8l-aTC6Hl6) - G. Pellegrini Parisi
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) (F. Camuso)
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) (F. Camuso)
@@ -83,6 +91,11 @@
 * [Videocorso Delphi/Lazarus](https://www.youtube.com/watch?v=JxE1nUqriV0&list=PLF75FB30719A09FA2) (F. Camuso)
 
 
+### DevOps
+
+* [Docker - EmmeCiLab](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpDJw4MawjHlgbsP3IG376e) (M. Cicolella)
+
+
 ### Embedded
 
 #### Arduino
@@ -102,7 +115,7 @@
 * [Automi e Linguaggi Formali](https://www.youtube.com/playlist?list=PLhEwqlL10MqNz1pA7R5jnB_gsMIhDOe5X) - Bresolin e Filè (Università di Padova)
 * [Fondamenti di Informatica](https://www.youtube.com/playlist?list=PLUL1bzfXcbX3g2cIcTFdmvj5yawQtUOxJ) - C. De Stefano (Università di Cassino e del Lazio Meridionale)
 * [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - M. Mezzalama (Politecnico di Torino)
-* [Informatica di Base - Corso intensivo](https://www.youtube.com/playlist?list=PLG31HS6yEI8dv6TUmv9w0W6YmEAQm0P2q) - G. Pellegrini Parisi 
+* [Informatica di Base - Corso intensivo](https://www.youtube.com/playlist?list=PLG31HS6yEI8dv6TUmv9w0W6YmEAQm0P2q) - G. Pellegrini Parisi
 * [Informatica I - Modelli dell'Informatica](https://www.youtube.com/playlist?list=PLAQopGWlIcyalkb2baN9mnotsdBm5Vbkc) - A. Marchetti Spaccamela (Università La Sapienza Università di Roma)
 * [Sistemi di Calcolo](https://www.youtube.com/playlist?list=PLAQopGWlIcybT12h7fjVvlGAeSqOKDnTA) - C. Demetrescu (Università La Sapienza di Roma)
 * [Teoria dell'informazione](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeGo5g4Esi7tm6kHPRivkvb) (F. Camuso)
@@ -124,7 +137,12 @@
 
 ### Machine Learning
 
-* [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) (P. Savastano) 
+* [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) (P. Savastano)
+
+
+### Miscellaneous
+
+* [Programmazione Basic Commodore 64](https://www.youtube.com/playlist?list=PLCbSCJEIR6CrVT003ytijkO6kUrCT9VIT) - M. Cicolella
 
 
 ### Mobile
@@ -134,7 +152,7 @@
 
 ### Networking
 
-* [Advanced Networking 2016](https://www.youtube.com/playlist?list=PLkbnRIR2azkIXO-ndOz7qBvVC38_wbOW8) (Hacklab Cosenza) 
+* [Advanced Networking 2016](https://www.youtube.com/playlist?list=PLkbnRIR2azkIXO-ndOz7qBvVC38_wbOW8) (Hacklab Cosenza)
 
 
 ### Pascal

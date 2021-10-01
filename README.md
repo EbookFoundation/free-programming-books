@@ -4,16 +4,16 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 
 ## Intro
 
-This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker.
+This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [Github's most popular repositories](https://octoverse.github.com/), with 160,000+ stars, 6000+ commits, 1600+ contributors, and 39,000+ forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 200,000+ stars, 6100+ commits, 1600+ contributors, and 43,000+ forks.
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 
 ### How To Contribute
 
-Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome](/HOWTO.md)!
+Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](HOWTO.md)!
 
 
 ### How to Share
@@ -26,7 +26,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 
 ### Books
 
-[English](books/free-programming-books.md)
+[English, By Programming Language](books/free-programming-books-langs.md)
+[English, By Subject](books/free-programming-books-subjects.md)
+
 
 #### Other Languages
 
@@ -44,6 +46,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [French / français](books/free-programming-books-fr.md)
 + [German / Deutsch](books/free-programming-books-de.md)
 + [Greek / ελληνικά](books/free-programming-books-gr.md)
++ [Hebrew / עברית](books/free-programming-books-he.md)
 + [Hungarian / magyar / magyar nyelv](books/free-programming-books-hu.md)
 + [Indonesian / Bahasa Indonesia](books/free-programming-books-id.md)
 + [Italian / italiano](books/free-programming-books-it.md)
@@ -63,6 +66,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-ua.md)
++ [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 
 ### Cheat Sheets
@@ -72,11 +76,13 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 
 ### Free Online Courses
 
++ [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
 + [Bulgarian / български](courses/free-courses-bg.md)
 + [English](courses/free-courses-en.md)
 + [Finnish](courses/free-courses-fi.md)
 + [French / français](courses/free-courses-fr.md)
 + [German / Deutsch](courses/free-courses-de.md)
++ [Hebrew / עברית](courses/free-courses-he.md)
 + [Hindi / हिंदी](courses/free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](courses/free-courses-id.md)
 + [Italian / italiano](courses/free-courses-it.md)
@@ -96,7 +102,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 
 ### Interactive Programming Resources
 
++ [Chinese / 中文](more/free-programming-interactive-tutorials-zh.md)
 + [English](more/free-programming-interactive-tutorials-en.md)
++ [Portuguese (Brazil)](more/free-programming-interactive-tutorials-pt_BR.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
 
 
@@ -109,6 +117,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 
 Free Podcasts and Screencasts:
 
++ [Arabic / al arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)

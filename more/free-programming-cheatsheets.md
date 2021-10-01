@@ -80,6 +80,7 @@
 ### <a name="ide--editores"></a>IDE / Editors
 
 * [Editor VI - Guia de Referência](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
+* [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
 * [Vim Avançado](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
 * [Vim Básico](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
 * [Vim Médio](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas

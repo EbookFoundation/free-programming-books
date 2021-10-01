@@ -159,3 +159,6 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
+
+### C
+* [Belajar C dari dasar](https://www.petanikode.com/c-untuk-pemula/)

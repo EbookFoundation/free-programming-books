@@ -52,8 +52,9 @@
 
 ### Git and GitHub
 
-* [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
 * [Complete Git Tutorials For Beginners In Hindi playlist](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
+* [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
+
 
 ### Java
 
@@ -75,13 +76,15 @@
 
 #### React
 
-* [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
 * [React Tutorial in Hindi](https://www.youtube.com/watch?v=RGKi6LSPDLU) - CodeWithHarry
 * [React Js Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - CodeWithHarry
+* [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
+
 
 ### PHP
 
 * [PHP Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR) - CodeWithHarry
+
 
 ### Python
 

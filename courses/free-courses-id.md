@@ -193,7 +193,6 @@
 * [Belajar Kotlin Unit Test](https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Fungsi pada Kotlin](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCqFIOudYt5icvdCnkA8FVe) - Sekolah Koding
 * [Kotlin Collection](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZWnGxjnZwAsnDthoas1O1) - Sekolah Koding
-* [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/academies/80) - Dicoding, membutuhkan registrasi
 
 ### Kubernetes
 

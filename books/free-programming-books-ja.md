@@ -35,7 +35,7 @@
 * [Erlang](#erlang)
 * [Git](#git)
 * [Go](#go)
-*[GNU make](#GNU make)
+* [GNU make](#GNU make)
 * [Groovy](#groovy)
   * [Gradle](#gradle)
   * [Grails](#grails)
@@ -351,7 +351,7 @@
 
 
 ### GNU make
-*[GNU Make 第3版](https://www.oreilly.co.jp/library/4873112699/) - Robert Mecklenburg(翻訳)
+* [GNU Make 第3版](https://www.oreilly.co.jp/library/4873112699/) - Robert Mecklenburg(翻訳)
 
 
 ### Groovy

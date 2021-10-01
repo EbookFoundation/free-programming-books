@@ -5,10 +5,12 @@
 * [C++](#cpp)
 * [Data Structures](#DataStructures)
 * [DevOps](#DevOps)
+* [Git and GitHub](#GitandGitHub)
 * [Java](#Java)
 * [Javascript](#Javascript)
   * [Next.js]((#NextJS)
   * [React](#react)
+* [PHP](#PHP)
 * [Python](#Python)
 * [R](#r)
 * [Ruby](#ruby)
@@ -48,6 +50,10 @@
 
 *[DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
 
+### Git and GitHub
+
+* [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
+* [Complete Git Tutorials For Beginners In Hindi playlist](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
 
 ### Java
 
@@ -70,7 +76,12 @@
 #### React
 
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
+* [React Tutorial in Hindi](https://www.youtube.com/watch?v=RGKi6LSPDLU) - CodeWithHarry
+* [React Js Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - CodeWithHarry
 
+### PHP
+
+* [PHP Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR) - CodeWithHarry
 
 ### Python
 

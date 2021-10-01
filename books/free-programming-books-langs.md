@@ -1670,7 +1670,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql) - Tutorials Point
 * [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
 * [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
-
+* [PostgreSQL Notes for Professionals](https://goalkicker.com/PostgreSQLBook/) - Compiled from StackOverflow documentation (PDF)
 
 ### PowerShell
 

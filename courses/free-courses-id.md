@@ -96,7 +96,7 @@
 ### Flutter
 
 * [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana?thumbnail=nk4neM2UyG.110&main_leads=browse) - BuildWithAngga
-* [Flutter Tutorial (Flutter Fundamentals)] - Erico Darmawan Handoyo
+* Flutter Tutorial (Flutter Fundamentals) - Erico Darmawan Handoyo
     * [Chapter 1](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV)
     * [Chapter 2](https://youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu)
 * [Tutorial Flutter](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teRqkuBusUEcVrP6OlYpD9w) - idr corner

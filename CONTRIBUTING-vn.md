@@ -1,4 +1,4 @@
-*Đọc bằng ngôn ngữ khác: [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), [体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh-TW.md), [فارسی](CONTRIBUTING-fa_IR.md).*
+*Đọc bằng ngôn ngữ khác: [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md).*
 
 Bản dịch Tiếng Việt:
 
@@ -28,9 +28,9 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
     - *Podcasts and Screencasts* : Podcasts và screencasts.
     - *Đặt Vấn Đề & Cuộc Thi Lập Trình* : Trang web hoặc phần mềm cho phép bạn đánh giá kỹ năng lập trình của mình bằng cách giải quyết các vấn đề đơn giản hoặc phức tạp, có hoặc không có đánh giá Code, có hoặc không so sánh kết quả với những người khác.
 
-4. Đảm bảo tuân thủ theo [những nguyên tắc bên dưới](#guidelines) và đảm bảo sử dụng đúng những [định dạng Markdown](#formatting).
+4. Đảm bảo tuân thủ theo [những nguyên tắc bên dưới](#Những Nguyên Tắc) và đảm bảo sử dụng đúng những [định dạng Markdown](#Định Dạng).
 
-5. Travis CI sẽ chạy các test để đảm bảo danh sách của bạn được sắp xếp theo thứ tự bảng chữ cái và các quy tắc định dạng được tuân thủ. Đảm bảo kiểm tra xem các thay đổi của bạn có vượt qua các bài test hay không.
+5. Github Actions sẽ chạy các test để đảm bảo danh sách của bạn được sắp xếp theo thứ tự bảng chữ cái và các quy tắc định dạng được tuân thủ. Đảm bảo kiểm tra xem các thay đổi của bạn có vượt qua các bài test hay không.
 
 ### Những Nguyên Tắc
 - đảm bảo rằng một cuốn sách là miễn phí. Kiểm tra kỹ nếu cần. Nó sẽ giúp ích cho các quản trị viên nếu bạn nhận xét trong phần PR về lý do tại sao bạn cho rằng cuốn sách là miễn phí.
@@ -214,7 +214,7 @@ Nếu bạn có thể in nó ra và giữ lại bản chất của nó, thì đ�
 
 ### Tự động hóa
 
-- Việc thực thi quy tắc định dạng được tự động hóa qua [Travis CI](https://travis-ci.com) sử dụng [fpb-lint](https://github.com/vhf/free-programming-books-lint) (xem file [.travis.yml](.travis.yml))
+- Việc thực thi quy tắc định dạng được tự động hóa qua [Github Actions](https://docs.github.com/en/actions) sử dụng [fpb-lint](https://github.com/vhf/free-programming-books-lint) (xem file [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
 - Sử dụng xác thực URL [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Để kích hoạt xác thực URL, hãy push một commit bao gồm một commit message chứa `check_urls=file_to_check`:
 

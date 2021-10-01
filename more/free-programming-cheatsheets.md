@@ -16,11 +16,13 @@
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
+* [MATLAB](#matlab)
 * [MongoDB](#mongodb)
 * [Perl](#perl)
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [SQL](#sql)
 
 
@@ -121,6 +123,11 @@
 * [Markdown Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Adam Pritchard
 
 
+### MATLAB
+
+* [MATLAB Basic Functions Reference Sheet](https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf) - MathWorks (PDF)
+
+
 ### MongoDB
 
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet
@@ -154,6 +161,11 @@
 ### Ruby
 
 * [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
+
+
+### Rust
+
+* [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
 
 ### SQL

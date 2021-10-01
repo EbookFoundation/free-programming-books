@@ -13,7 +13,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) now administers the rep
 
 ### How To Contribute
 
-Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome](/HOWTO.md)!
+Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](HOWTO.md)!
 
 
 ### How to Share
@@ -26,7 +26,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to GitHub, [welcome]
 
 ### Books
 
-[English](books/free-programming-books.md)
+[English, By Programming Language](books/free-programming-books-langs.md)
+[English, By Subject](books/free-programming-books-subjects.md)
+
 
 #### Other Languages
 

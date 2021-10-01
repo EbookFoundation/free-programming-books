@@ -111,7 +111,7 @@
 
 ### Pemrograman Kompetitif
 
-* [Pemrograman Kompetitif Dasar](https://osn.toki.id/#materi-algo) - William Gozali & Alham Fikri Aji (PDF)
+* [Pemrograman Kompetitif Dasar](https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali & Alham Fikri Aji (PDF)
 
 
 ### PHP

@@ -1669,8 +1669,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) (email address *requested*, not required)
 * [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql) - Tutorials Point
 * [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
-* [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
 * [PostgreSQL Notes for Professionals](https://goalkicker.com/PostgreSQLBook/) - Compiled from StackOverflow documentation (PDF)
+* [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
+
 
 ### PowerShell
 

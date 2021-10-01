@@ -63,6 +63,7 @@
 
 * [Belajar Dengan Jenius Golang](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang/master/Belajar%20Dengan%20Jenius%20Golang.pdf) - Gun Gun Febrianza (PDF)
 * [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com) - Noval Agung Prayogo
+* [Mari Belajar Golang](https://www.smashwords.com/books/view/938003) - Risal (PDF)
 
 
 ### HTML CSS
@@ -110,7 +111,7 @@
 
 ### Pemrograman Kompetitif
 
-* [Pemrograman Kompetitif Dasar](https://osn.toki.id/#materi-algo) - William Gozali & Alham Fikri Aji (PDF)
+* [Pemrograman Kompetitif Dasar](https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali & Alham Fikri Aji (PDF)
 
 
 ### PHP

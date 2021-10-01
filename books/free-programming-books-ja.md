@@ -35,7 +35,7 @@
 * [Erlang](#erlang)
 * [Git](#git)
 * [Go](#go)
-* [GNU-make](#GNU make)
+* [GNU-make](#GNU-make)
 * [Groovy](#groovy)
   * [Gradle](#gradle)
   * [Grails](#grails)
@@ -350,7 +350,7 @@
 * [プログラミング言語 Go ドキュメント](http://go.shibu.jp) - The Go Authors, SHIBUKAWA Yoshiki 他(翻訳)
 
 
-### GNU make
+### GNU-make
 * [GNU Make 第3版](https://www.oreilly.co.jp/library/4873112699/) - Robert Mecklenburg(翻訳)
 
 

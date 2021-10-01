@@ -35,7 +35,7 @@
 * [Erlang](#erlang)
 * [Git](#git)
 * [Go](#go)
-* [GNU-make](#GNU-make)
+* [GNU-Make](#GNU-Make)
 * [Groovy](#groovy)
   * [Gradle](#gradle)
   * [Grails](#grails)
@@ -339,6 +339,11 @@
 * [図解 Git](https://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, Kazu Yamamoto(翻訳)
 
 
+### GNU-Make
+
+* [GNU Make 第3版](https://www.oreilly.co.jp/library/4873112699/) - Robert Mecklenburg(翻訳)
+
+
 ### Go
 
 * [Go Codereview Comments](https://knsh14.github.io/translations/go-codereview-comments) - Kenshi Kamata
@@ -348,10 +353,6 @@
 * [テスト駆動開発でGO言語を学びましょう](https://andmorefine.gitbook.io/learn-go-with-tests/) - Christopher James, andmorefine(翻訳)
 * [はじめてのGo―シンプルな言語仕様，型システム，並行処理](https://gihyo.jp/dev/feature/01/go_4beginners) - Jxck
 * [プログラミング言語 Go ドキュメント](http://go.shibu.jp) - The Go Authors, SHIBUKAWA Yoshiki 他(翻訳)
-
-
-### GNU-make
-* [GNU Make 第3版](https://www.oreilly.co.jp/library/4873112699/) - Robert Mecklenburg(翻訳)
 
 
 ### Groovy

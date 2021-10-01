@@ -35,6 +35,7 @@
 ### JavaScript
 
 * [JavaScript Lernen für Anfänger bis Profis](https://www.youtube.com/playlist?list=PLNmsVeXQZj7qOfMI2ZNk-LXUAiXKrwDIi) - The Morpheus Tutorials
+* [JavaScript lernen für Anfänger](https://www.javascript-kurs.de/) - JavaScript Kurs
 
 
 ### Künstliche Intelligenz

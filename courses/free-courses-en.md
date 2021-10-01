@@ -148,6 +148,7 @@
 ### AutoIt
 
 * [AutoIt Scripting Tutorial](https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z) - TutsTeach (YouTube)
+* [AutoIt Turtorial](https://www.youtube.com/watch?v=82ifMPijghw&list=PL1DCD109B801D0DE6) - 403forbidden403 (Youtube)
 
 
 ### Bash / Shell
@@ -168,6 +169,7 @@
 * [Learn Bootstrap 4 for free](https://scrimba.com/learn/bootstrap4) - Neil Rowe (Scrimba)
 * [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
 * [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
+* [Learn Bootstrap 5](https://www.youtube.com/watch?v=iJKCj8uAHz8) - freeCodeCamp (Youtube)
 
 
 ### C
@@ -183,6 +185,8 @@
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
+* [C# Tutorial For Beginners](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Programming with Mosh (Youtube)
+* [C# Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (Youtube)
 
 
 <h3 id="cpp">C++</h3>
@@ -216,6 +220,7 @@
 * [Dart Course for Beginners](https://www.udemy.com/course/dartlang) (Udemy)
 * [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) - Mahmud Ahsan (FreeCodeCamp)
 * [Dart Programming Tutorial \| Learn the Dart for Flutter](https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter) (Udemy)
+* [Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w) - Mike Dane (Youtube)
 
 
 ### Data Science
@@ -325,6 +330,7 @@
 * [GitHowTo](https://githowto.com)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
+* [Git Tutorial for Beginners](https://www.youtube.com/watch?v=8JJ101D3knE&t=626s) - Programming with Mosh (Youtube)
 
 
 ### Go
@@ -463,6 +469,7 @@
 * [Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY) - John Smilga, Coding Addict (YouTube)
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
+* [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4) - Programming with Mosh (Youtube)
 
 
 #### React

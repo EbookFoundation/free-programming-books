@@ -12,6 +12,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
+  * [React.js](#reactjs)
   * [Vue.js](#vuejs)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
@@ -102,6 +103,11 @@
 #### jQuery
 
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
+
+
+#### React.js
+
+* [React Cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) - Codecademy (HTML)
 
 
 #### Vue.js

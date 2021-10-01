@@ -199,6 +199,7 @@
 * [Kotlin Object Oriented Programming Bahasa Indonesia](https://www.youtube.com/playlist?list=PLe8n__MJ2In54a_2j-Yh_Oz-ZGTauziwf) - Kelas Coding (YouTube)
 * [Tutorial Kotlin Android Studio 2020 Bahasa Indonesia](https://www.youtube.com/playlist?list=PLFVTikutopLZe6N6wHrrNDizfnxwoeg92) - Lazday Indonesia (YouTube)
 
+
 ### Kubernetes
 
 * [Belajar Kubernetes untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH8XrWyQAyRd6d_CKwxD8Ime) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)

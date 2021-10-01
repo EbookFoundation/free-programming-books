@@ -10,6 +10,7 @@
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Dart](#dart)
+* [Data Science](#datascience)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -106,6 +107,11 @@
 ### Dart
 
 * [Dart Official Codelabs](https://dart.dev/codelabs)
+
+
+### Data Science
+
+[Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
 ### Erlang

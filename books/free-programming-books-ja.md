@@ -607,7 +607,7 @@
 
 ### Ruby
 
-* [Ruby on Rails ガイド](https://railsguides.jp) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
+* [Ruby on Rails ガイド](https://railsguides.jp) - Rails community, 八田 昌三(翻訳), 安川 要平(翻訳)
 * [Ruby on Rails チュートリアル](https://railstutorial.jp) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
 * [Ruby ソースコード完全解説](https://i.loveruby.net/ja/rhg/book) - 青木峰郎
 * [Ruby リファレンスマニュアル](https://www.ruby-lang.org/ja/documentation) - まつもとゆきひろ

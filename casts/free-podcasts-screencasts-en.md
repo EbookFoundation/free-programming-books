@@ -80,6 +80,7 @@
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
 * [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi and Christopher Peter Makris (podcast)
+* [DataFramed](https://www.datacamp.com/community/podcast) (podcast)
 
 
 ### Elixir

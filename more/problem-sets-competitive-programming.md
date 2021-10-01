@@ -86,6 +86,7 @@
 * [Codeforces](http://codeforces.com/problemset)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
+* [Coding Ninjas](https://www.codingninjas.com/codestudio/problems)
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](http://www.geeksforgeeks.org)

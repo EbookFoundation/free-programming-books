@@ -1511,7 +1511,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
 * [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
 * [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
-* [Redis-For-Dummies](https://redis.com/redis-for-dummies/) (PDF) *(email address or account required)*
+* [Redis For Dummies](https://redis.com/redis-for-dummies/) - Steve Suehring (PDF) *(email address or account required)*
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) - K. Seguin (PDF, Epub)
 

@@ -99,6 +99,8 @@
 
 ### Flutter
 
+* [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/academies/195) - Dicoding, membutuhkan registrasi
+* [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159) - Dicoding, membutuhkan registrasi
 * [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana?thumbnail=nk4neM2UyG.110&main_leads=browse) - BuildWithAngga
 * [Flutter Tutorial (Flutter Fundamentals)](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV) - Erico Darmawan Handoyo
 * [STUDI KASUS FLUTTER + GETX + FIREBASE [ CHAT APPS 2021 ]](https://www.youtube.com/playlist?list=PL7jdfftn7HKt6wPnVXoXgserU14d_ACA-) - Sandikha Rahardi, Kuldii Project (YouTube)
@@ -191,7 +193,7 @@
 * [Belajar Kotlin Unit Test](https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Fungsi pada Kotlin](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCqFIOudYt5icvdCnkA8FVe) - Sekolah Koding
 * [Kotlin Collection](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZWnGxjnZwAsnDthoas1O1) - Sekolah Koding
-
+* [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/academies/80) - Dicoding, membutuhkan registrasi
 
 ### Kubernetes
 

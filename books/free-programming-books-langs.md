@@ -425,6 +425,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Hashing](https://www.smashwords.com/books/view/737188) - Prakash Hegade
 * [Learn to Code With C - The MagPi Essentials](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf) (PDF)
 * [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) - Ciaran O’Riordan (PDF)
+* [Let Us C](http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf) - Yashavant P. Kanetkar (PDF)
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
 * [Modern C](https://modernc.gforge.inria.fr) - Jens Gustedt (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)

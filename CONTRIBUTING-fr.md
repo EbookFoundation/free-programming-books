@@ -1,4 +1,4 @@
-*Lisez ceci dans d'autres langues: [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md).*
+*Lisez ceci dans d'autres langues: [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 
 ## Contrat de Licence des Contributeurs
 En contribuant, vous acceptez la [LICENCE](https://github.com/ElivreFoundation/free-programming-livres/blob/master/LICENSE) de ce repositoire.

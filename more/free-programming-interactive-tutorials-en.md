@@ -10,6 +10,7 @@
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Dart](#dart)
+* [Data Science](#datascience)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -106,6 +107,12 @@
 ### Dart
 
 * [Dart Official Codelabs](https://dart.dev/codelabs)
+
+
+### Data Science
+
+* [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) -KDnuggets
+* [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
 ### Erlang

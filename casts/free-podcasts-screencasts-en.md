@@ -69,6 +69,7 @@
 
 ### Data Science
 
+* [DataFramed](https://www.datacamp.com/community/podcast) (podcast)
 * [Data Futurology](https://www.datafuturology.com/episodes-1) (podcast)
 * [Data Skeptic](http://dataskeptic.com/episodes.php) (podcast)
 * [Data Stories](http://datastori.es) (podcast)
@@ -80,7 +81,6 @@
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
 * [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi and Christopher Peter Makris (podcast)
-* [DataFramed](https://www.datacamp.com/community/podcast) (podcast)
 
 
 ### Elixir

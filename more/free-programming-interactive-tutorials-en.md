@@ -10,6 +10,7 @@
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Dart](#dart)
+* [Data Science](#datascience)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -108,6 +109,12 @@
 * [Dart Official Codelabs](https://dart.dev/codelabs)
 
 
+### Data Science
+
+* [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) -KDnuggets
+* [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
+
+
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)
@@ -131,6 +138,7 @@
 ### Go
 
 * [Go Koans](https://github.com/cdarwin/go-koans)
+* [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
 
@@ -304,6 +312,7 @@
 
 ### Rust
 
+* [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
 
 

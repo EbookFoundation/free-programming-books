@@ -47,13 +47,14 @@
 
 ### Capture the flag
 
-* [CTFlearn](https://ctflearn.com) (email adress *requested*)
-* [Google Ctf](https://capturetheflag.withgoogle.com) (email adress *requested*)
-* [Hacker101](https://ctf.hacker101.com) (email adress *requested*)
-* [Hackthebox](https://www.hackthebox.eu) (email adress *requested*)
+* [CTFlearn](https://ctflearn.com) (email address *requested*)
+* [Google Ctf](https://capturetheflag.withgoogle.com) (email address *requested*)
+* [Hacker101](https://ctf.hacker101.com) (email address *requested*)
+* [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
+* [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
-* [Picoctf](https://picoctf.org/resources) (email adress *requested*)
-* [TryHackMe](https://tryhackme.com) (email adress *requested*)
+* [Picoctf](https://picoctf.org/resources) (email address *requested*)
+* [TryHackMe](https://tryhackme.com) (email address *requested*)
 
 
 ### Data science
@@ -85,6 +86,7 @@
 * [Codeforces](http://codeforces.com/problemset)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
+* [Coding Ninjas](https://www.codingninjas.com/codestudio/problems)
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](http://www.geeksforgeeks.org)

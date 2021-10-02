@@ -229,7 +229,7 @@
 
 ### Rust
 
-* [Rust Playground](http://play.integer32.com)
+* [Rust Playground](https://play.rust-lang.org)
 
 
 ### RxJS

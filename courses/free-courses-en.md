@@ -16,6 +16,7 @@
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [Databases](#databases)
+  * [Neo4j](#neo4j)
   * [NoSQL](#nosql)
   * [SQL](#sql)
 * [Deep Learning](#deep-learning)
@@ -241,6 +242,7 @@
 * [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)
 
 #### Neo4j
+
 * [Neo4j - Graph Database - Tutorial](https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh) - 
 Satish C J (YouTube)
 

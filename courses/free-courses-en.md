@@ -148,7 +148,7 @@
 ### AutoIt
 
 * [AutoIt Scripting Tutorial](https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z) - TutsTeach (YouTube)
-* [AutoIt Turtorial](https://www.youtube.com/watch?v=82ifMPijghw&list=PL1DCD109B801D0DE6) - 403forbidden403 (Youtube)
+* [AutoIt Tutorials](https://www.youtube.com/playlist?list=PL1DCD109B801D0DE6) - 403forbidden403 (YouTube)
 
 
 ### Bash / Shell
@@ -168,7 +168,7 @@
 * [Introduction to Bootstrap - A Tutorial](https://www.classcentral.com/course/edx-introduction-to-bootstrap-a-tutorial-3338) - Microsoft via edX (Class Central)
 * [Learn Bootstrap 4 for free](https://scrimba.com/learn/bootstrap4) - Neil Rowe (Scrimba)
 * [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
-* [Learn Bootstrap 5](https://www.youtube.com/watch?v=iJKCj8uAHz8) - freeCodeCamp (Youtube)
+* [Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course](https://www.youtube.com/watch?v=iJKCj8uAHz8) - Patrick Muriungi, freeCodeCamp (YouTube)
 * [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
 
 
@@ -183,10 +183,10 @@
 ### C Sharp
 
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
-* [C# Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (Youtube)
+* [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani, Programming with Mosh (YouTube)
+* [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (YouTube)
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
-* [C# Tutorial For Beginners](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Programming with Mosh (Youtube)
 
 
 <h3 id="cpp">C++</h3>
@@ -218,7 +218,7 @@
 ### Dart
 
 * [Dart Course for Beginners](https://www.udemy.com/course/dartlang) (Udemy)
-* [Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w) - Mike Dane (Youtube)
+* [Dart Programming in 4 hours \| Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w) - Mike Dane (YouTube)
 * [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) - Mahmud Ahsan (FreeCodeCamp)
 * [Dart Programming Tutorial \| Learn the Dart for Flutter](https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter) (Udemy)
 
@@ -328,7 +328,7 @@
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 * [GIT for beginners](https://www.eduonix.com/git-for-beginners) - Maksym Rudnyi (Eduonix Learning Solutions) *(account or email address required)*
 * [GitHowTo](https://githowto.com)
-* [Git Tutorial for Beginners](https://www.youtube.com/watch?v=8JJ101D3knE&t=626s) - Programming with Mosh (Youtube)
+* [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - Moshfegh Hamedani, Programming with Mosh (YouTube)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 
@@ -469,7 +469,7 @@
 * [Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY) - John Smilga, Coding Addict (YouTube)
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
-* [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4) - Programming with Mosh (Youtube)
+* [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4) - Moshfegh Hamedani, Programming with Mosh (YouTube)
 
 
 #### React

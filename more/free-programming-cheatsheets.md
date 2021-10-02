@@ -26,7 +26,7 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [SQL](#sql)
-
+* [Tensorflow](#tensorflow)
 
 ### Artificial Intelligence
 
@@ -191,3 +191,10 @@
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
 * [SQL Cheatsheet](https://www.codecademy.com/learn/learn-sql/modules/learn-sql-manipulation/cheatsheet) - Codecademy (SQL)
+
+
+### TensorFlow
+
+* [TensorFlow v2.0 Cheat Sheet](https://storage.googleapis.com/kaggle-forum-message-attachments/889691/15952/19-04-11-Cheat-Sheet-TensorFlow-2-0.pdf) (PDF)
+* [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) (HTML Online site)
+* [Collection of 10 Tensorflow Cheat Sheets for Machine Learning](https://blog.finxter.com/tensorflow-cheat-sheets/#Cheat_Sheet_2_Altoros) (HTML site with PDF links)

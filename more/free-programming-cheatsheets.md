@@ -20,6 +20,7 @@
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
 * [Perl](#perl)
+* [PHP](#php)
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
@@ -72,6 +73,7 @@
 ### HTML / CSS
 
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
+* [CSS Cheatsheet](https://www.codecademy.com/learn/learn-css/modules/syntax-and-selectors/cheatsheet) - Codecademy (HTML)
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
 * [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
@@ -149,6 +151,11 @@
 * [Perl Reference card](https://michaelgoerz.net/refcards/perl_refcard.pdf) (PDF)
 
 
+### PHP
+
+* [PHP Cheatsheet](https://www.codecademy.com/learn/learn-php/modules/getting-started-with-php/cheatsheet) - Codeacademy (HTML)
+
+
 ### Python
 
 * [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2)
@@ -166,11 +173,13 @@
 
 ### R
 
+* [R Cheatsheet](https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet) - Codeacademy (HTML)
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 
 
 ### Ruby
 
+* [Ruby Cheatsheet](https://www.codecademy.com/learn/learn-ruby/modules/learn-ruby-introduction-to-ruby-u/cheatsheet) - Codecademy (HTML)
 * [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
 
 

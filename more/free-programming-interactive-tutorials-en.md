@@ -111,7 +111,7 @@
 
 ### Data Science
 
-* [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) -IBM SkillBuild *(Email login reqired to access the course)*
+* [Data Science Foundations - IBM SkillBuild](https://skillsbuild.org/students/course-catalog/data-science) *(Email login reqired to access the course)*
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) -KDnuggets
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
@@ -139,6 +139,7 @@
 ### Go
 
 * [Go Koans](https://github.com/cdarwin/go-koans)
+* [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
 
@@ -312,6 +313,7 @@
 
 ### Rust
 
+* [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
 
 

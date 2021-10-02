@@ -17,6 +17,6 @@ Add resource(s) | Remove resource(s) | Add info | Improve repo
 - [ ] Put lists in alphabetical order, correct spacing.
 - [ ] Add needed indications (PDF, access notes, under construction)
 
-## Followup
+## Follow-up
 
-- Check the output of Travis-CI for linter errors!
+- Check the status of GitHub Actions and resolve any reported warnings!

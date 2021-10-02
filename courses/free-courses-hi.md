@@ -53,8 +53,7 @@
 
 ### Git and GitHub
 
-* [Git && Github Complete in 33 MINUTES](https://www.youtube.com/watch?v=uj4fy4kpaOA) - Love Babbar
-* [Learn complete Git and Github in 30 mins](https://www.youtube.com/watch?v=uaeKhfhYE0U) - Anuj Bhaiya
+* [Complete Git Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
 
 
 ### Java

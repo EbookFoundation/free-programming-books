@@ -174,6 +174,7 @@ Because the Internet is vast, we don't include in our lists:
 
 Our competitive programming lists are not as strict about these exclusions. The scope of the repo is determined by the community; if you want to suggest a change or addition to the scope, please use an issue to make the suggestion.
 
+
 ##### Books vs. Other Stuff
 
 We're not that fussy about book-ness. Here are some attributes that signify that a resource is a book:
@@ -188,15 +189,18 @@ We're not that fussy about book-ness. Here are some attributes that signify that
 
 There are lots of books that we list that don't have these attributes; it can depend on context.
 
+
 ##### Books vs. Courses
 
 Sometimes these can be hard to distinguish!
 
 Courses often have associated textbooks, which we would list in our books lists. Courses have lectures, exercises, tests, notes or other didactic aids. A single lecture or video by itself is not a course. A powerpoint is not a course.
 
+
 ##### Interactive Tutorials vs. Other stuff
 
 If you can print it out and retain its essence, it's not an Interactive Tutorial.
+
 
 ### Automation
 

@@ -15,6 +15,7 @@
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
   * [jQuery](#jquery)
+* [Machine-Learning](#machine-learning)
 * [MongoDB](#mongodb)
 * [NodeJS](#nodejs)
 * [Objective-C](#objective-c)
@@ -149,6 +150,9 @@
 * [jQuery Cơ Bản](https://www.codehub.com.vn/jQuery-Co-Ban)
 * [jQuery Cơ bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm) - TEDU
 
+### Machine-Learning
+
+* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp
 
 ### MongoDB
 

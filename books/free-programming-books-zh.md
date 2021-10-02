@@ -388,8 +388,8 @@
 
 ### Golang
 
-* [神奇的 Go 语言](http://go.ctolib.com/docs/read/magical-go-c-index.html)
 * [深入解析 Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh) - tiancaiamao
+* [神奇的 Go 语言](http://go.ctolib.com/docs/read/magical-go-c-index.html)
 * [学习Go语言](http://mikespook.com/learning-go/)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
@@ -398,8 +398,8 @@
 * [Go 语法树入门](https://github.com/chai2010/go-ast-book)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 * [Go 语言高级编程（Advanced Go Programming）](https://github.com/chai2010/advanced-go-programming-book)
-* [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 语言设计与实现](https://draveness.me/golang) - draveness
+* [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)

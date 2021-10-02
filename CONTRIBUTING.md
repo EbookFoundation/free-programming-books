@@ -20,7 +20,6 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files.
 
-
 5. GitHub Actions will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
 
 ### Guidelines

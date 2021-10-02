@@ -682,6 +682,7 @@
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
+* [use python for machine learning](https://www.codewithharry.com/videos/ml-tutorials-in-hindi-10) (codewithharry)
 
 
 #### Django

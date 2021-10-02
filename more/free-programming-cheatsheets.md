@@ -172,7 +172,7 @@
 * [Basic GPIO layout configuration cheatsheet](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/cheat_sheet/) - University of Cambridge Computer Laboratory Raspberry Pi Projects Cheatsheet (PDF)
 * [Other Raspberry Pi Commands cheatsheet](https://www.raspberrypistarterkits.com/wp-content/uploads/2018/01/raspberry-pi-commands-cheat-sheet.pdf) - RPi starter Kit (PDF)
 * [Raspberry Pi Basics cheatsheet](https://www.woolseyworkshop.com/wp-content/uploads/WoolseyWorkshop_Cheatsheet_RaspberryPiBasics_v1.4.pdf) - Woolsey Workshop (PDF)
-* [Raspberry Pi Different GPIO Configuration Combinations cheatsheet](https://static.raspberrypi.org/files/education/posters/GPIO_Zero_Ceatsheet.pdf) - GPIO Zero Cheatsheet (PDF)
+* [Raspberry Pi Different GPIO Configuration Combinations cheatsheet](https://static.raspberrypi.org/files/education/posters/GPIO_Zero_Cheatsheet.pdf) - GPIO Zero Cheatsheet (PDF)
 * [Top 50 General Commands for Raspberry Pi cheatsheet](https://projects-raspberry.com/wp-content/uploads/2018/05/Top-50-Raspberry-pi-commands-List-cheat-sheet.pdf) - Projects Raspberry (PDF)
 
 

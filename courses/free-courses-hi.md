@@ -5,9 +5,10 @@
 * [C++](#cpp)
 * [Data Structures](#DataStructures)
 * [DevOps](#DevOps)
+* [Git & GitHub](#Git-and-GitHub)
 * [Java](#Java)
 * [Javascript](#Javascript)
-  * [Next.js]((#NextJS)
+  * [Next.js](#NextJS)
   * [React](#react)
 * [Python](#Python)
 * [R](#r)
@@ -43,12 +44,18 @@
 * [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
+* [Data Structures and Algorithms - C++ Complete Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 
 
 ### DevOps
 
-*[DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
+* [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
 
+
+### Git and GitHub
+
+* [Learn complete Git and Github in 30 mins](https://www.youtube.com/watch?v=uaeKhfhYE0U) - Anuj Bhaiya
+* [Git && Github Complete in 33 MINUTES](https://www.youtube.com/watch?v=uj4fy4kpaOA) - Love Babbar
 
 ### Java
 
@@ -71,6 +78,7 @@
 #### React
 
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
+* [ReactJS Tutorials in Hindi 2021](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - CodeWithHarry
 
 
 ### Python

@@ -168,8 +168,8 @@
 * [Introduction to Bootstrap - A Tutorial](https://www.classcentral.com/course/edx-introduction-to-bootstrap-a-tutorial-3338) - Microsoft via edX (Class Central)
 * [Learn Bootstrap 4 for free](https://scrimba.com/learn/bootstrap4) - Neil Rowe (Scrimba)
 * [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
-* [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
 * [Learn Bootstrap 5](https://www.youtube.com/watch?v=iJKCj8uAHz8) - freeCodeCamp (Youtube)
+* [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
 
 
 ### C
@@ -183,10 +183,10 @@
 ### C Sharp
 
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
+* [C# Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (Youtube)
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
 * [C# Tutorial For Beginners](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Programming with Mosh (Youtube)
-* [C# Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (Youtube)
 
 
 <h3 id="cpp">C++</h3>
@@ -218,9 +218,9 @@
 ### Dart
 
 * [Dart Course for Beginners](https://www.udemy.com/course/dartlang) (Udemy)
+* [Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w) - Mike Dane (Youtube)
 * [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) - Mahmud Ahsan (FreeCodeCamp)
 * [Dart Programming Tutorial \| Learn the Dart for Flutter](https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter) (Udemy)
-* [Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w) - Mike Dane (Youtube)
 
 
 ### Data Science
@@ -328,9 +328,9 @@
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 * [GIT for beginners](https://www.eduonix.com/git-for-beginners) - Maksym Rudnyi (Eduonix Learning Solutions) *(account or email address required)*
 * [GitHowTo](https://githowto.com)
+* [Git Tutorial for Beginners](https://www.youtube.com/watch?v=8JJ101D3knE&t=626s) - Programming with Mosh (Youtube)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
-* [Git Tutorial for Beginners](https://www.youtube.com/watch?v=8JJ101D3knE&t=626s) - Programming with Mosh (Youtube)
 
 
 ### Go

@@ -36,6 +36,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
@@ -138,6 +139,7 @@
 
 ### Go
 
+* [Go at Codecademy](https://www.codecademy.com/learn/learn-go)
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
@@ -222,6 +224,7 @@
 
 ### Kotlin
 
+* [Codecademy Kotlin Course](https://www.codecademy.com/learn/learn-kotlin)
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
 
 
@@ -301,6 +304,11 @@
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - GeeksforGeeks
 * [Python Tutorial](https://www.tutlane.com/tutorial/python) - tutlane
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
+
+
+## R
+
+* [Codecademy R course](https://www.codecademy.com/learn/learn-r)
 
 
 ### Ruby

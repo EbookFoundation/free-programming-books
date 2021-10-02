@@ -18,15 +18,15 @@
 
 ### Algorithms
 
-* [Binary Search with questions \| Hindi](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) - Aditya Verma
-* [Binary Trees \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4) - Pepcoding
-* [Dynamic Programming \| Hindi](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
-* [Generic Trees \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
-* [Graphs \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v) - Pepcoding
-* [Recursion and Backtracing - interview ready LEVEL-1 \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) - Pepcoding
-* [Recursion and Backtracing - interview ready LEVEL-2 \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0) - Pepcoding
-* [Recursion with questions \| Hindi](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) - Aditya Verma
-* [Time and Space \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f) - Pepcoding
+* [Binary Search | Interview Questions | Coding | Tutorials | Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) - Aditya Verma
+* [Binary Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4) - Pepcoding
+* [Dynamic Programming Playlist | Coding | Interview Questions | Tutorials | Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
+* [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
+* [Graphs - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v) - Pepcoding
+* [Recursion & Backtracking - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) - Pepcoding
+* [Recursion & Backtracking - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0) - Pepcoding
+* [Recursion Playlist | Coding | Interview Questions | Algorithm | Tutorials](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) - Aditya Verma
+* [Time and Space - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f) - Pepcoding
 
 
 ### Android
@@ -52,15 +52,15 @@
 
 ### Data Structures
 
-* [2D Arrays \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH) - Pepcoding
+* [2-D Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH) - Pepcoding
 * [All Data Structure Concepts \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
 * [All Sorting algorithms and Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
-* [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
-* [Function and Arrays \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r) - Pepcoding
+* [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
+* [Functions and Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r) - Pepcoding
 * [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
-* [Linked Lists \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
-* [Stack \| Hindi](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma
+* [Linked Lists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
+* [Stack Playlist | Interview Questions | Coding | Tutorials | Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma
 
 
 ### DevOps
@@ -110,8 +110,3 @@
 #### Ruby on Rails
 
 * [Ruby on Rails 5 Tutorial(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb) - CS Geeks
-
-
-
-
-

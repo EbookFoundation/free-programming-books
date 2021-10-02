@@ -26,7 +26,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Bash](#bash)
 * [Basic](#basic)
 * [BETA](#beta)
-* [Blockchain]
+* [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)

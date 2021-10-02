@@ -46,6 +46,7 @@
 
 ### <a name="cpp"></a>C++
 
+* [C++ Cheatsheet](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-hello-world/cheatsheet) - Codecademy (HTML)
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
 
 
@@ -63,8 +64,8 @@
 
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
-  * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
-  * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
+* [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
+* [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 
@@ -76,6 +77,7 @@
 * [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
 * [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co) - Chris Malven (HTML)
 * [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
+* [HTML Cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet) - Codecademy (HTML)
 
 
 ### <a name="ide--editores"></a>IDE / Editors
@@ -90,6 +92,7 @@
 ### Java
 
 * [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) (PDF)
+* [Java Cheatsheet](https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet) - Codecademy (HTML)
 
 
 ### JavaScript

@@ -453,7 +453,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Daily Design Patterns](https://web.archive.org/web/20170930132000/https://www.exceptionnotfound.net/downloads/dailydesignpattern.pdf) - Matthew P Jones (PDF)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
-* [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov, Veselin Kolev & Co (HTML, PDF)
+* [Fundamentals of Computer Programming with C# (the Bulgarian Book)](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov, Veselin Kolev et al. (HTML, [PDF, EPUB](https://introprogramming.info/english-intro-csharp-book/downloads/))
 * [High level asynchronous programming with Reactive Extensions](https://github.com/petroemil/Rx.Book) - Emil Petro
 * [Introduction to Rx](http://www.introtorx.com)
 * [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)

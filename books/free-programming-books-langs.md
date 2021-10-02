@@ -406,10 +406,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Blockchain
 
-* [Introducing Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Chris Dannen (PDF)
 * [Blockchain for Dummies](https://www.ramonmillan.com/documentos/bibliografia/BlockchainForDummies_Wiley.pdf) - Tiana Laurence (PDF)
 * [Ethereum Decentralized Transaction Ledger official whitepaper](https://www.allcryptowhitepapers.com/wp-content/uploads/2018/05/Ethereum-Whitepaper.pdf) - Dr Gavin Wood (PDF)
 * [Ethereum Uniswap v2 Core whitepaper](https://uniswap.org/whitepaper.pdf) - Hayden Adams, Noah Zinsmeister, Dan Robinson (PDF)
+* [Introducing Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Chris Dannen (PDF)
 
 
 ### C

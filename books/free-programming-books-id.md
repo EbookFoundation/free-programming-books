@@ -21,6 +21,7 @@
   * [Angular](#angular)
   * [Deno](#deno)
 * [Vue](#vue)
+* [Cracking the Coding Interview](#Interview preparation e book 150+ questions with answers)
 
 
 ### Android
@@ -161,3 +162,7 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
+
+## Interview preparation e book 150+ questions with answers
+
+* [Cracking the Coding Interview](https://drive.google.com/file/d/1RiRx3On3AU6QFN1DHMA9Uv-tbegXSkMR/view?usp=sharing)

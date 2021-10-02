@@ -154,6 +154,7 @@
 
 * [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp
 
+
 ### MongoDB
 
 * [Giáo trình tự học NoSQL - MongoDB](https://www.youtube.com/playlist?list=PLv6GftO355Aug0rwKfb6v96mlYrwOw7XV) - ZendVN

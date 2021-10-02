@@ -191,7 +191,7 @@ Ya que en Internet podemos encontrar una variedad infinita de recursos, no inclu
 - Sitios web (excepto aquellos que alberguen MUCHOS elementos que podamos incluir en los listados).
 - vídeos que no sean cursos o screencasts (retrasmisiones)
 - capítulos sueltos a libros
-- muestras o introducciones de books
+- muestras o introducciones de libros
 - Canales/grupos de IRC, Telegram...
 - Canales/salas de Slack... o listas de correo
 

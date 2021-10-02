@@ -41,7 +41,7 @@ Dieser Verhaltenskodex gilt sowohl innerhalb des Projektbereichs als auch in
 
 
 Fälle von missbräuchlichem, belästigendem oder anderweitig nicht akzeptablen Verhalten
-können den Projektverantwortlichen unter [victorfelder@gmail.com] gemeldet werden.
+können den Projektverantwortlichen unter victorfelder at gmail.com gemeldet werden.
 Alle Beschwerden werden geprüft und untersucht, und werden zu einer Reaktion führen,
 die angesichts der Umstände für notwendig und angemessen gehalten wird. Die
 Verantwortlichen sind verpflichtet, über diejenigen, die Vorfälle gemeldet haben, Verschwiegenheit zu wahren.

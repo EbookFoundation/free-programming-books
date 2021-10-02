@@ -14,4 +14,4 @@ Habe keine Angst eine Frage zu stellen; jeder muss irgendwo anfangen und den ers
 
 Selbst wenn du ein erfahrener Open-Source-Mitwirkender sind, gibt es Dinge, die dich ins Straucheln bringen könnten. Sobald du deinen PR eingereicht hast, führt GitHub Actions einen Linter aus und findet oft kleine Probleme von Absätzen oder Alphabetisierung. Wenn du eine grüne Schaltfläche erhältst, ist alles zur Überprüfung bereit, aber wenn das nicht so ist, klick unter dem fehlgeschlagenen Häkchen auf "Details", um herauszufinden, was dem Linter nicht gefallen hat. Behebe das Problem und füge deinen PR einen Commit hinzu.
 
-Wenn du dir nicht sicher bist, ob die Ressource, die du hinzufügen möchtest, für Free-Programming-Books geeignet ist, lese die Richtlinien in [CONTRIBUTING](CONTRIBUTING.md).
+Wenn du dir nicht sicher bist, ob die Ressource, die du hinzufügen möchtest, für Free-Programming-Books geeignet ist, lese die Richtlinien in [Mitwirken](CONTRIBUTING-de.md).

@@ -68,8 +68,6 @@
 ### C Sharp
 
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung)
-* [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp) - Andreas Kühnel (Online)
-* [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010) - Andreas Kühnel (Online)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)
 
 
@@ -96,7 +94,7 @@
 ### Go
 
 * [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html) (Online)
-* [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
+* [Eine Tour durch Go](https://github.com/michivo/go-tour-de)
 * [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de)
 * [The Little Go Book](https://github.com/Aaronmacaron/the-little-go-book-de) - Karl Seguin, Aaron Ebnöther ([HTML](https://github.com/Aaronmacaron/the-little-go-book-de/blob/master/de/go.md))
 

@@ -75,6 +75,7 @@
 
 * [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org)
+* [Datacamp](https://www.datacamp.com)
 * [edX](https://www.edx.org)
 * [freeCodeCamp](https://www.freecodecamp.org)
 * [FutureLearn](https://www.futurelearn.com)

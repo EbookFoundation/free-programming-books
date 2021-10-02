@@ -25,6 +25,6 @@
 
 ### SQL
 
-* [SQL упражнения](https://www.sql-ex.ru/?Lang=0)
 * [Интерактивный тренажер по SQL](https://stepik.org/course/63054/promo)
+* [SQL упражнения](https://www.sql-ex.ru/?Lang=0)
 

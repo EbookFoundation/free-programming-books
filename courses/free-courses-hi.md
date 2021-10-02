@@ -1,17 +1,17 @@
 ### Index
 
-* [Android](#Android)
-* [C](#C)
+* [Android](#android)
+* [C](#c)
 * [C++](#cpp)
-* [Data Structures](#DataStructures)
-* [DevOps](#DevOps)
-* [Git and GitHub](#GitandGitHub)
-* [Java](#Java)
-* [Javascript](#Javascript)
-  * [Next.js]((#NextJS)
+* [Data Structures](#data-structures)
+* [DevOps](#devops)
+* [Git and GitHub](#git-and-github)
+* [Java](#java)
+* [Javascript](#javascript)
+  * [Next.js](#nextjs)
   * [React](#react)
-* [PHP](#PHP)
-* [Python](#Python)
+* [PHP](#php)
+* [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
@@ -52,7 +52,7 @@
 
 ### Git and GitHub
 
-* [Complete Git Tutorials For Beginners In Hindi playlist](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
+* [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
 * [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
 
 
@@ -69,7 +69,7 @@
 * [JavaScript Tutorial \| Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - Harry
 
 
-#### Next.Js
+<h4 id="nextjs">Next.js</h4>
 
 * [NextJS Tutorial In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
 

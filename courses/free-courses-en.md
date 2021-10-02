@@ -421,7 +421,6 @@
 * [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web) - Owen Astrachan, Robert Duvall, Andrew D. Hilton, Susan H. Rodger (Coursera)
 
 
-
 #### AngularJS
 
 > :information_source: See also &#8230; [Angular](#angular)

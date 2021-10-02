@@ -1288,7 +1288,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) (PDF)
 
 
-
 ### LaTeX / TeX
 
 #### LaTeX

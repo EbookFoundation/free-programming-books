@@ -75,6 +75,7 @@
 
 * [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org)
+* [Datacamp](https://www.datacamp.com)
 * [edX](https://www.edx.org)
 * [freeCodeCamp](https://www.freecodecamp.org)
 * [FutureLearn](https://www.futurelearn.com)
@@ -86,7 +87,6 @@
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
-* [Datacamp](https://www.datacamp.com/)
 
 
 ### Algorithms & Data Structures

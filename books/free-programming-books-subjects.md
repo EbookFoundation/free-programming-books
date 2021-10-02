@@ -13,7 +13,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Cloud Computing](#cloud-computing)
 * [Competitive Programming](#competitive-programming)
 * [Compiler Design](#compiler-design)
-* [Computer Organization and Architecture] (#computer-organization-and-architecture)
+* [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
 * [Computer Vision](#computer-vision)
 * [Containers](#containers)

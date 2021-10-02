@@ -26,6 +26,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Bash](#bash)
 * [Basic](#basic)
 * [BETA](#beta)
+* [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
@@ -401,6 +402,14 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [MIA 99-41: BETA Language Modifications - Reference Manual](https://beta.cs.au.dk/Manuals/latest/beta/beta-index.html) - Mjølner Informatics
 * [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
 * [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
+
+
+### Blockchain
+
+* [Introducing Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Chris Dannen (PDF)
+* [Blockchain for Dummies](https://www.ramonmillan.com/documentos/bibliografia/BlockchainForDummies_Wiley.pdf) - Tiana Laurence (PDF)
+* [Ethereum Decentralized Transaction Ledger official whitepaper](https://www.allcryptowhitepapers.com/wp-content/uploads/2018/05/Ethereum-Whitepaper.pdf) - Dr Gavin Wood (PDF)
+* [Ethereum Uniswap v2 Core whitepaper](https://uniswap.org/whitepaper.pdf) - Hayden Adams, Noah Zinsmeister, Dan Robinson (PDF)
 
 
 ### C

@@ -7,8 +7,9 @@
 * [DevOps](#DevOps)
 * [Java](#Java)
 * [Javascript](#Javascript)
-  * [Next.js]((#NextJS)
+  * [Next.js](#NextJS)
   * [React](#react)
+  * [RxJS](#RxJS)
 * [Python](#Python)
 * [R](#r)
 * [Ruby](#ruby)
@@ -71,6 +72,11 @@
 #### React
 
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
+
+
+#### RxJS
+
+* [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
 
 
 ### Python

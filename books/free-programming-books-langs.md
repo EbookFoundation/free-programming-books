@@ -2270,6 +2270,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### TypeScript
 
 * [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)
+* [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Dr. Axel Rauschmayer
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)

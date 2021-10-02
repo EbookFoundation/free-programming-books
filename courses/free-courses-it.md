@@ -124,10 +124,11 @@
 
 ### Java
 
+* [Algoritmi e Strutture Dati Java](http://www.vitoantoniobevilacqua.it/wiki/index.php?title=Pagina_principale#Dispense_di_Algoritmi_e_Strutture_Dati_in_Java) - V. Bevilacqua (Politecnico di Bari)  
 * [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) (M. Cicolella)
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) (S. Zorba)
 * [Programmazione a Oggetti (Java)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kewGZIHpCDgarZER_-J1am) (M. Torchiano)
-* [Algoritmi e Strutture Dati Java](http://www.vitoantoniobevilacqua.it/wiki/index.php?title=Pagina_principale#Dispense_di_Algoritmi_e_Strutture_Dati_in_Java) - V. Bevilacqua (Politecnico di Bari)
+
 
 ### JavaScript
 
@@ -171,11 +172,11 @@
 
 ### Programmazione
 
+* [Corso C per sistemi Embedded](https://www.youtube.com/watch?v=XpMF2pnEWVw) - Deid LAB  
 * [Programmazione](https://www.youtube.com/playlist?list=PLhEwqlL10MqN2eB3b4avX_DU3FK0EOYFa) - G. Filè (Università di Padova)
 * [Programmazione 2 (Java/C++)](http://latemar.science.unitn.it/segue/index.php?&amp;site=2008Programmazione2&amp;section=86&amp;action=site) - M. Ronchetti (Università di Trento)
 * [Tecniche di Programmazione (C/C++)](https://www.youtube.com/playlist?list=PLAQopGWlIcybv3YLRHGS4yZR00X3RvSBm) - L. Iocchi D. Nardi e A. Pretto (Università La Sapienza di Roma)
-* [Corso C per sistemi Embedded](https://www.youtube.com/watch?v=XpMF2pnEWVw) - Deid LAB
-* 
+
 
 ### Ruby
 

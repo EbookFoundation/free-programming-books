@@ -1,4 +1,4 @@
-Leggilo in altre lingue: [English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md)
+Leggilo in altre lingue: [English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [Italiano](HOWTO-it.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md)
 
 Benvenuto su Free-Programming-Books! Diamo il benvenuto ai nuovi collaboratori; anche a quelli che fanno la loro prima pull request su Github. Se sei uno di quelli, ecco qualche risorsa che potrebbe aiutarti:
 

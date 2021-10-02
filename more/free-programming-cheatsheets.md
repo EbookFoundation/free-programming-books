@@ -198,8 +198,4 @@
 
 * [TensorFlow v2.0 Cheat Sheet](https://storage.googleapis.com/kaggle-forum-message-attachments/889691/15952/19-04-11-Cheat-Sheet-TensorFlow-2-0.pdf) (PDF)
 * [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) (HTML Online site)
-<<<<<<< HEAD
-* [Collection of 10 Tensorflow Cheat Sheets for Machine Learning](https://blog.finxter.com/tensorflow-cheat-sheets/) (HTML site with PDF links)
-=======
 * [Collection of 10 Tensorflow Cheat Sheets for Machine Learning](https://blog.finxter.com/tensorflow-cheat-sheets/#Cheat_Sheet_2_Altoros) (HTML site with PDF links)
->>>>>>> fe9fe03dd34f53c02f12e633505c9c839160868a

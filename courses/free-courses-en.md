@@ -426,7 +426,7 @@
 * [Namaste 🙏 JavaScript: An In-Depth JavaScript Fundamentals Course](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini (YouTube)
 * [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web) - Owen Astrachan, Robert Duvall, Andrew D. Hilton, Susan H. Rodger (Coursera)
 * [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - Brad Traversy, Traversy Media (YouTube)
-* [Javascript Cheatsheets For Beginner](https://www.youtube.com/watch?v=kXtOr2YWd6I) - CodeWithHarry(Youtube)
+* [Javascript Cheatsheets For Beginner](https://www.youtube.com/watch?v=kXtOr2YWd6I) - Code With Harry (Youtube)
 
 
 #### AngularJS

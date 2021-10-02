@@ -22,6 +22,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
 * [Information Retrieval](#information-retrieval)
+* [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 * [Licensing](#licensing)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)

@@ -10,12 +10,12 @@
 * [HTML & CSS](#html-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Laravel](#laravel)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Pemrograman Fungsional](#pemrograman-fungsional)
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
-* [Lumen]
 * [Python](#python)
 * [React](#react)
 * [TypeScript](#typescript)
@@ -88,6 +88,11 @@
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
 
 
+### Laravel
+
+* [Lumen Fundamental](https://santrikoding.com) - Yudi Purwanto(HTML) [(PDF)](https://santrikoding.com/account/ebook/lumen-fundamental) _(Membutuhkan akun santrikoding atau email yang valid)_
+
+
 ### MySQL
 
 * [3 Days With Mysql For Your Application: Mysql Untuk Pemula](https://play.google.com/store/books/details/Onesinus_Saut_Parulian_3_Days_With_Mysql_For_Your?id=MbdTDwAAQBAJ) - Onesinus Saut Parulian, Google Play Books
@@ -126,10 +131,6 @@
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 * [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(Dalam Proses)*
 
-
-### Lumen
-
-* [Lumen Fundamental](https://santrikoding.com) - Yudi Purwanto(HTML) [(PDF)](https://santrikoding.com/account/ebook/lumen-fundamental) _(Membutuhkan akun santrikoding atau email yang valid)_
 
 ### Python
 

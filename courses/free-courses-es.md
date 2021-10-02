@@ -213,6 +213,8 @@
 * [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html)
 * [Windows Phone. Introducción al desarrollo de aplicaciones móviles](https://miriadax.net/web/introduccion-al-desarrollo-de-aplicaciones-moviles-con-windows-phone-2-edicion-)
 * [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html)
+* [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán (Midudev)
+* [Curso gratuito de Next.js y Firebase](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1VR86y4C72xMGJ8ifjBwJ6) - Miguel Ángel Durán (Midudev)
 
 
 ### Redes

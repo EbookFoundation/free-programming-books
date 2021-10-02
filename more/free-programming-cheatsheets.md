@@ -28,6 +28,7 @@
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
 
+
 ### Artificial Intelligence
 
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
@@ -197,4 +198,4 @@
 
 * [TensorFlow v2.0 Cheat Sheet](https://storage.googleapis.com/kaggle-forum-message-attachments/889691/15952/19-04-11-Cheat-Sheet-TensorFlow-2-0.pdf) (PDF)
 * [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) (HTML Online site)
-* [Collection of 10 Tensorflow Cheat Sheets for Machine Learning](https://blog.finxter.com/tensorflow-cheat-sheets/#Cheat_Sheet_2_Altoros) (HTML site with PDF links)
+* [Collection of 10 Tensorflow Cheat Sheets for Machine Learning](https://blog.finxter.com/tensorflow-cheat-sheets/) (HTML site with PDF links)

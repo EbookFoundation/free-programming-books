@@ -18,6 +18,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Containers](#containers)
 * [Database](#database)
 * [Datamining](#datamining)
+* [DevOps](#devops)
 * [Game Development](#game-development)
 * [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
@@ -219,6 +220,10 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Statistical inference for data science](https://leanpub.com/LittleInferenceBook/read) - Brian Caffo
 * [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
+
+
+### DevOps
+* [Phoenix Project Excerpt](https://drive.google.com/file/d/1l8mk9vqaIesR5GuS7n8v9i3GkDyAHunj/view?usp=sharing) - Gene Kim, George Spafford, and Kevin Behr
 
 
 ### Game Development

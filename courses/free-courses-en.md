@@ -37,6 +37,7 @@
   * [React](#react)
   * [React Native](#react-native)
   * [Redux](#redux)
+  * [RxJS](#RxJS)
   * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
@@ -489,6 +490,11 @@
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
+
+
+#### RxJS
+
+* [Understanding RxJS](https://youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi) - Academind
 
 
 #### Vue.js

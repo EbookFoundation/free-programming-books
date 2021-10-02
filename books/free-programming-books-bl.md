@@ -104,6 +104,7 @@
 * [JavaScript Behind The Scene Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDPaOrWvTIuhb5GRoJVWiE2) - Stack Learner
 * [JavaScript Full Playlist With Order](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAJTV_1ZXwB1XIiFkK0ddZA) - Stack Learner
 * [Make Fun of JavaScript Array](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDr08QgQHljCecWtA4jBLnS) - Stack Learner
+* [JavaScript Bangla Tutorial](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) - Learn with Sumit Bangladesh
 * [হাতেকলমে জাভাস্ক্রিপ্ট](https://zonayed.js.org) - Zonayed Ahmed
 
 
@@ -151,6 +152,8 @@
 
 * [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
+* [Bangla Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PLlBKlxyCgmsCYJLq9qc5QzaU-oBFJN79B) - StartBit
+* [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
 * [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
 * [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen

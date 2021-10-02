@@ -9,6 +9,7 @@
 * [Javascript](#Javascript)
   * [Next.js]((#NextJS)
   * [React](#react)
+* [Php](#php)
 * [Python](#Python)
 * [R](#r)
 * [Ruby](#ruby)
@@ -71,6 +72,11 @@
 #### React
 
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
+
+
+<h3 id="php">Php</h3>
+
+* [Php Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR) - Harry (CodeWithHarry)
 
 
 ### Python

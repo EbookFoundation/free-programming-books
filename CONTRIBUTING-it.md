@@ -1,4 +1,4 @@
-*Leggilo in altre lingue: [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*Leggilo in altre lingue: [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Deutsch](CONTRIBUTING-de.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 
 ## Accordo di Licenza
 Contribuendo tu accetti alla [LICENZA](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) di questa repository.
@@ -22,6 +22,7 @@ I collaboratori accettano di rispettare il [Codice di Condotta](https://github.c
 
 5. GitHub Actions avvierà dei test per assicurarsi che le tue liste siano ordinate alfabeticamente e formattate correttamente. Assicurati che i tuoi cambiamenti passino il test.
 
+<a name="guidelines"></a>
 ### Linee guida
 - assicurati che il libro sia gratuito. Controlla più volte se necessario. Commentare nella PR il perché pensi che il libro sia gratuito aiuta gli admin.
 - non accettiamo file hostati su google drive, dropbox, mega, scribd, issuu e altre piattaforme simili per l'upload dei file
@@ -47,6 +48,7 @@ I collaboratori accettano di rispettare il [Codice di Condotta](https://github.c
 - se il libro non è ancora finito, e ci stanno ancora lavorando su, aggiungi "in process", come descritto [qui sotto.](#in_process)
 - se è richiesto un indirizzo email o un account per poter scaricare il libro, aggiungilo tra parentesi, esempio: `(email address *requested*, not required)`
 
+<a name="formatting"></a>
 ### Formattazione
 - Tutte le liste sono file `.md`. Prova ad imparare la sintassi [Markdown](https://guides.github.com/features/mastering-markdown/). È semplice!
 - Tutte le liste iniziano con un Index. L'idea è di elencare e collegare tutte le sezioni e sottosezioni lì. Mantienila in ordine alfabetico.

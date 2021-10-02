@@ -199,6 +199,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Database Design, 2nd Ed.](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/?uuid=5b6f010a-0563-44d4-94c5-67caa515d2c5) - Adrienne Watt, Nelson Eng (HTML, PDF, EPUB, Kindle)
 * [Database Explorations](http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) (PDF)
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
+* [Database System Concepts, 6th Edition](https://libgen.is/book/index.php?md5=2469FFA9527A29AE4A0A12122BB97811) (PDF)
 * [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) (PDF)
 * [Foundations of Databases](http://webdam.inria.fr/Alice/)
 * [Readings in Database Systems, 5th Ed.](http://www.redbook.io)

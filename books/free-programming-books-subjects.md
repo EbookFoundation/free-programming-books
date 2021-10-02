@@ -283,7 +283,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) (PDF)
 * [A Selective Overview of Deep Learning](https://arxiv.org/abs/1904.05526) - Fan, Ma, and Zhong (PDF)
 * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) - Csaba Szepesvári (PDF)
-* [An Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (PDF) ([Website](https://www.statlearning.com/))
+* [An Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani [website](https://www.statlearning.com) (PDF)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * [Deep Learning for Coders with Fastai and PyTorch](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
@@ -314,7 +314,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
-* [The Mechanics of Machine Learning](https://mlbook.explained.ai/) - Terence Parr and Jeremy Howard
+* [The Mechanics of Machine Learning](https://mlbook.explained.ai) - Terence Parr and Jeremy Howard
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 * [Top 10 Machine Learning Algorithms Every Engineer Should Know](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) - Binny Mathews and Omair Aasim
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) - Shai Shalev-Shwartz, Shai Ben-David

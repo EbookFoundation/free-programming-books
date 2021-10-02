@@ -176,6 +176,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Computer Organization and Architecture
 
 * [Basic Computer Architecture](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html) - Smruti R. Sarangi (HTML, PDF, Slides, Videos)
+* [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292) - David Tarnoff (PDF)
 
 
 ### Computer Science

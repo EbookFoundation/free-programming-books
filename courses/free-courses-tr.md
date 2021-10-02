@@ -9,9 +9,8 @@
 
 ### Algoritmalar
 
-* [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 * [Algoritma ve Veri Yapılarına Giriş](https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yap-lar-na-giris-12565) - Zafer Cömert
-
+* [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 
 ### CSS
 

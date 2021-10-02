@@ -15,6 +15,7 @@
 * [Pemrograman Fungsional](#pemrograman-fungsional)
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
+* [Lumen]
 * [Python](#python)
 * [React](#react)
 * [TypeScript](#typescript)
@@ -125,6 +126,10 @@
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 * [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(Dalam Proses)*
 
+
+### Lumen
+
+* [Lumen Fundamental](https://santrikoding.com) - Yudi Purwanto(HTML) [(PDF)](https://santrikoding.com/account/ebook/lumen-fundamental) _(Membutuhkan akun santrikoding atau email yang valid)_
 
 ### Python
 

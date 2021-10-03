@@ -7,6 +7,7 @@
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
+* [Go](#go)
 * [HTML / CSS](#html--css)
 * [IDE / Editors](#ide--editors)
 * [Java](#java)
@@ -66,6 +67,11 @@
   * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
   * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
+
+
+### Go
+
+* [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
 
 
 ### HTML / CSS

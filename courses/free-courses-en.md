@@ -339,6 +339,7 @@
 * [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) - FreeCodeCamp
 * [Golang in under an hour (2021)](https://www.youtube.com/watch?v=N0fIANJkwic) - Eli Goldberg
 
+
 ### Haskell
 
 * [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer

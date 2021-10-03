@@ -7,6 +7,7 @@
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
+* [Network](#network)
 * [PHP](#php)
   * [Codeigniter](#codeigniter)
   * [Laravel](#laravel)
@@ -58,6 +59,10 @@
 * [درس یادگیری ماشین دانشگاه استنفورد](https://maktabkhooneh.org/course/35-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk35) - Andrew Ng
 * [درس یادگیری ماشین دانشگاه صنعتی شریف](https://maktabkhooneh.org/course/273-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk273) - Mahdiyeh Soleymani
 
+
+### Network
+
+* [درک مقدماتی شبکه](https://www.youtube.com/playlist?list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z_) - Jadi Mirmirani
 
 ### PHP
 

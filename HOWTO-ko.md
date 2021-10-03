@@ -2,13 +2,12 @@
 
 Free-Programming-Books 에 오신 것을 환영합니다! 우리는 Github 에 첫 Pull-request 를 분들을 포함한 새로운 기여자들을 환영합니다. 다음 리소스들은 당신에게 도움이 될 수 있습니다:
 
-* [About Pull Requests](https://help.github.com/articles/about-pull-requests/)
-* [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [Github Hello World](https://guides.github.com/activities/hello-world/)
-* [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
-
+- [About Pull Requests](https://help.github.com/articles/about-pull-requests/)
+- [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+- [Github Hello World](https://guides.github.com/activities/hello-world/)
+- [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
+- [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+- [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 주저하지 말고 질문하세요. 모든 기여자들 역시 첫 Pull-request 로 시작했습니다. 당신은 우리의 1000번째가 될 수도 있어요!
 

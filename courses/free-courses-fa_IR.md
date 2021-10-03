@@ -20,6 +20,7 @@
 
 * [دوره بلاک چین، رمزارزها و بیت کوین](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1gLxAL-56H-XR-fTapqofC)  - Jadi Mirmirani
 
+
 ### C
 
 * [آموزش زبان C](https://toplearn.com/courses/3255/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B2%D8%A8%D8%A7%D9%86-c) - Mohammad Moein Bagh Sheikhi
@@ -63,6 +64,7 @@
 ### Network
 
 * [درک مقدماتی شبکه](https://www.youtube.com/playlist?list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z_) - Jadi Mirmirani
+
 
 ### PHP
 

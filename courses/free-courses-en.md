@@ -333,7 +333,6 @@
 ### Go
 
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
-* [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
 * [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
 * [Golang \| Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews
 * [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com) - Jon Calhoun (email address *required*)

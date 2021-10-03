@@ -1,20 +1,20 @@
-*این متن را در زبان‌های دیگر بخوانید: [Deutsch](CONTRIBUTING-de.md), (CONTRIBUTING.md)[English], [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*این متن را در زبان‌های دیگر بخوانید: [Deutsch](CONTRIBUTING-de.md), <a href="CONTRIBUTING.md">English</a>, [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 <div dir="rtl">
 
 ## توافقنامه‌ی مجوز همکاری
 
-مشارکت در این مخزن به معنی موافقت شما با مجوز (https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE)[LICENSE] این مخزن است.
+مشارکت در این مخزن به معنی موافقت شما با مجوز <a href="https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE">LICENSE</a> این مخزن است.
 
 
 ## مرام‌نامه‌ی همکار
 
-مشارکت در این پروژه به معنی موافقت با احترام به [مرام‌نامه‌ی](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) این مخزن است.
+مشارکت در این پروژه به معنی موافقت با احترام به [مرام‌نامه‌ی]<a href="https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md">https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md</a> این مخزن است.
 
 
 ## به طور خلاصه
 
 1. "لینکی برای دانلود ساده‌ی یک کتاب" همیشه به معنی لینکی به یک کتاب *رایگان* نیست. لطفا فقط محتوای رایگان را قرار دهید. مطمئن شوید که این محتوا رایگان است. ما لینک‌هایی را که وارد کردن ایمیل کاری را برای دانلود کتاب *اجباری* کرده‌اند نمی‌پذیریم اما اگر بدون اجبار، این ایمیل را بخواهند، در این مخزن فهرستشان می‌کنیم.
-2. نیاز نیست گیت بلد باشید: اگر چیز جذابی پیدا کردید که *در این مخزن وجود ندارد*، یک [Issue](https://github.com/EbookFoundation/free-programming-books/issues) با نوشتن لینک‌ها درست کنید.
+2. نیاز نیست گیت بلد باشید: اگر چیز جذابی پیدا کردید که *در این مخزن وجود ندارد*، یک <a href="https://github.com/EbookFoundation/free-programming-books/issues">Issue </a>با نوشتن لینک‌ها درست کنید.
     * اگر گیت می‌دانید، لطفا مخزن را فورک کنید و پول‌ریکوئست بفرستید.
 3. ما پنج نوع فهرست داریم. فهرست درست را انتخاب کنید:
 

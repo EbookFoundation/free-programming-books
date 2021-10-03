@@ -9,7 +9,7 @@
 
 ### Algoritmalar
 
-* [Algoritma ve Veri Yapılarına Giriş](https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yap-lar-na-giris-12565) - Zafer Cömert
+* [Algoritma ve Veri Yapılarına Giriş](https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yap-lar-na-giris-12565) - Zafer Cömert (BTK Akademi)
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 
 
@@ -21,12 +21,12 @@
 ### JavaScript
 
 * [JavaScript Dersleri](https://javascript.sitesi.web.tr) - Murat Eliçalişkan
-* [Node.js ile Web Programlama](https://www.btkakademi.gov.tr/portal/course/node-js-ile-web-programlama-14301) - Sadık Turan
+* [Node.js ile Web Programlama](https://www.btkakademi.gov.tr/portal/course/node-js-ile-web-programlama-14301) - Sadık Turan (BTK Akademi)
 
 
 ### Python
 
-* [Python ile Makine Öğrenmesi](https://www.btkakademi.gov.tr/portal/course/python-ile-makine-ogrenmesi-11800) - Şadi Evren Şeker
+* [Python ile Makine Öğrenmesi](https://www.btkakademi.gov.tr/portal/course/python-ile-makine-ogrenmesi-11800) - Şadi Evren Şeker (BTK Akademi)
 
 
 ### Temel programlama

@@ -156,7 +156,6 @@
 * [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure) - Nick Bull
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
-* [FreeCodeCamp: Responsive Web Design Course](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 * [Grid Attack](https://codingfantasy.com/games/css-grid-attack) - Nick Bull
 * [Grid Garden](https://cssgridgarden.com)
 * [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools

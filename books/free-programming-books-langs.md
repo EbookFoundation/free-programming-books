@@ -25,8 +25,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Awk](#awk)
 * [Bash](#bash)
 * [Basic](#basic)
-* [BETA](#beta)
 * [BeanShell](#beanshell)
+* [BETA](#beta)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
@@ -395,6 +395,14 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 
 
+### BeanShell
+
+* [Beanshell Simple Java Scripting Manual](http://www.beanshell.org/manual/bshmanual.pdf) (PDF)
+* [BeanShell User's Manual](http://www.beanshell.org/manual/bshmanual.html) (HTML)
+* [Using Beanshell for Beginners](https://www.blazemeter.com/blog/using-beanshell-beginners-no-java-knowledge-required) - Bob Meliev
+* [BeanShell Scripting in JMeter](https://artoftesting.com/beanshellscripting) - Kuldeep Rana
+
+
 ### BETA
 
 * [MIA 90-02: BETA Compiler - Reference Manual](https://beta.cs.au.dk/Manuals/latest/compiler/index.html) - Mjølner Informatics
@@ -404,9 +412,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
 
 
-### BeanShell
 
-* [Beanshell Simple Java Scripting Manual](http://www.beanshell.org/manual/bshmanual.pdf)
 
 
 ### C

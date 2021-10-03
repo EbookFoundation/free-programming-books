@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [Apache Kafka](#apache-kafka)
 * [AR / VR](#ar--vr)
 * [C / C++](#c--c)
 * [C#](#c)
@@ -12,6 +13,7 @@
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
+* [Gradle](#gradle)
 * [HTML / CSS](#html--css)
 * [Java](#java)
   * [Spring](#spring)

@@ -1,9 +1,9 @@
-*این متن را در زبان‌های دیگر بخوانید: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*این متن را در زبان‌های دیگر بخوانید: [Deutsch](CONTRIBUTING-de.md), (CONTRIBUTING.md)[English], [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 <div dir="rtl">
 
 ## توافقنامه‌ی مجوز همکاری
 
-مشارکت در این مخزن به معنی موافقت شما با مجوز [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) این مخزن است.
+مشارکت در این مخزن به معنی موافقت شما با مجوز (https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE)[LICENSE] این مخزن است.
 
 
 ## مرام‌نامه‌ی همکار

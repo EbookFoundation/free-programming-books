@@ -124,6 +124,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Artificial Intelligence
 
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
+* [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://freecomputerbooks.com/On-the-Path-to-AI.html) - Thomas D. Grant, Damon J. Wischik (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
 

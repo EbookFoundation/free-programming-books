@@ -23,6 +23,7 @@
   * [AngularJS](#angularjs)
   * [jQuery](#jquery)
   * [React](#react)
+* [Kafka](#kafka)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)
@@ -218,6 +219,11 @@
 
 * [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
 * [React Tutorial](https://react-tutorial.app)
+
+
+### Kafka
+
+* [Kafka gentle introduction](https://www.gentlydownthe.stream/)
 
 
 ### Kotlin

@@ -1,12 +1,12 @@
 *این متن را در زبان‌های دیگر بخوانید: [Deutsch](CONTRIBUTING-de.md), <a href="CONTRIBUTING.md">English</a>, [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 <div dir="rtl">
 
-## توافقنامه‌ی مجوز همکاری
-
+<h2>توافقنامه‌ی مجوز همکاری</h2>
+    
 مشارکت در این مخزن به معنی موافقت شما با مجوز <a href="https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE">LICENSE</a> این مخزن است.
 
 
-## مرام‌نامه‌ی همکار
+<h2>مرام‌نامه‌ی همکار</h2>
 
 مشارکت در این پروژه به معنی موافقت با احترام به [مرام‌نامه‌ی]<a href="https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md">https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md</a> این مخزن است.
 

@@ -103,7 +103,11 @@
 * [JavaScript Bangla Tutorial Course 2021](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX) - Anisul Islam
 * [JavaScript Behind The Scene Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDPaOrWvTIuhb5GRoJVWiE2) - Stack Learner
 * [JavaScript Full Playlist With Order](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAJTV_1ZXwB1XIiFkK0ddZA) - Stack Learner
+* [JavaScript Bangla Tutorial Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) - Learn with Sumit
 * [Make Fun of JavaScript Array](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDr08QgQHljCecWtA4jBLnS) - Stack Learner
+* [Modern JavaScript ES6 Bangla Tutorial](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG) - Learn with Sumit
+* [Play with DOM - Bangla Tutorial Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_) - Learn with Sumit
+* [Think in a JavaScript way in Bangla](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq) - Learn with Sumit
 * [হাতেকলমে জাভাস্ক্রিপ্ট](https://zonayed.js.org) - Zonayed Ahmed
 
 

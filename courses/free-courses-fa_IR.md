@@ -18,7 +18,7 @@
 
 ### Blockchain
 
-* [دوره بلاک چین، رمزارزها و بیت کوین](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1gLxAL-56H-XR-fTapqofC)  - Jadi Mirmirani
+* [دوره بلاک چین، رمزارزها و بیت کوین](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1gLxAL-56H-XR-fTapqofC) - Jadi Mirmirani
 
 
 ### C
@@ -63,7 +63,7 @@
 
 ### Network
 
-* [درک مقدماتی شبکه](https://www.youtube.com/playlist?list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z_) - Jadi Mirmirani
+* [درک مقدماتی شبکه](https://www.youtube.com/playlist?list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z) - Jadi Mirmirani
 
 
 ### PHP

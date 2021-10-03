@@ -14,6 +14,7 @@
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Mathematics](#mathematics)
 * [Perl](#perl)
 * [PHP](#php)
   * [Laravel](#laravel)
@@ -26,11 +27,6 @@
 * [Rust](#rust)
 * [Scratch](#scratch)
 * [Swift](#swift)
-
-
-### 수학
-
-* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/) - William Stein
 
 
 ### Amazon Web Service
@@ -103,6 +99,11 @@
 ### Linux
 
 * [리눅스 서버를 다루는 기술](https://thebook.io/006718/)
+
+
+### Mathematics
+
+* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/) - William Stein
 
 
 ### Perl

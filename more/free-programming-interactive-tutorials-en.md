@@ -224,8 +224,8 @@
 
 ### Kotlin
 
-* [Codecademy Kotlin Course](https://www.codecademy.com/learn/learn-kotlin)
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
+* [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Galina Podstrechnaya, Alex DiStasi (Codecademy) *(account required)*
 
 
 ### Language Agnostic

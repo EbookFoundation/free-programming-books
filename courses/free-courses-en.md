@@ -489,6 +489,7 @@
 * [Introduction to React Native](https://fullstackopen.com/en/part10/introduction_to_react_native) - Full Stack Open
 * [React Native for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) - The Net Ninja
 * [React Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - codevolution
+* [Build Uber Eats with React Native](https://www.youtube.com/watch?v=jmvbhuJXFow) - Clever Programmer
 
 
 #### Redux

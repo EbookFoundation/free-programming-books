@@ -33,6 +33,7 @@
 * [Poradnik początkującego programisty](http://www.eioba.pl/a/2eu1/poradnik-poczatkujacego-programisty)
 * [Pro Git](http://git-scm.com/book/pl/)
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
+* [Struktury danych i ich zastosowania](http://informatykaplus.edu.pl/upload/list/czytelnia/Struktury_danych_i_ich_zastosowania.pdf) - Informatyka+
 * [SVN](https://pl.wikibooks.org/wiki/Subversion) - Wikibooks
 
 

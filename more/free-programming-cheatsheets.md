@@ -196,6 +196,6 @@
 
 ### TensorFlow
 
-* [Collection of 10 Tensorflow Cheat Sheets for Machine Learning](https://blog.finxter.com/tensorflow-cheat-sheets/#Cheat_Sheet_2_Altoros) (HTML site with PDF links)
-* [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) (HTML Online site)
-* [TensorFlow v2.0 Cheat Sheet](https://storage.googleapis.com/kaggle-forum-message-attachments/889691/15952/19-04-11-Cheat-Sheet-TensorFlow-2-0.pdf) (PDF)
+* [DeepLearning- Keras & TF Cheat Sheet](https://cheatography.com/chesterhsieh/cheat-sheets/deeplearning-keras-and-tf/pdf/) - Cheatography (PDF)
+* [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) - Secret data scientist (HTML)
+* [TensorFlow v2.0 Cheat Sheet](https://www.kaggle.com/getting-started/134439) - Kaggle.com (HTML, Image)

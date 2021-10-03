@@ -130,6 +130,7 @@
 
 ### JavaScript
 
+* [Corso base di Javascript](https://www.youtube.com/playlist?list=PLFLSwyN4GsWmcBvMr5tzsJy9TI8DbfWC5) (S. Tocci)
 * [Corso di JavaScript (base)](https://www.youtube.com/watch?v=JUBhi8O3wn0&list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) [(Lacerba.io)](https://lacerba.io)
 * [Corso Javascript (ES6)](https://www.youtube.com/watch?v=dDekOIgzxPA&list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) (F. Camuso)
 * [Introduzione a NodeJS](https://www.nodeacademy.it) - Alberto Olla (email address *requested*, not required)

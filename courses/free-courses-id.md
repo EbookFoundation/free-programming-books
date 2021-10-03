@@ -91,9 +91,9 @@
 
 ### Desain dan Arsitektur
 
-* [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) - Dicoding, membutuhkan registrasi
 * [Belajar Design Patterns untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_yiziXrQeogYOJzCmD8XLM) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Belajar Microservices untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-MtoBwQ0F3xNG21yjt5Kvs) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) - Dicoding, membutuhkan registrasi
 
 
 ### Docker

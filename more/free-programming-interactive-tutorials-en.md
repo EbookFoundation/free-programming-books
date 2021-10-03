@@ -308,7 +308,8 @@
 
 ## R
 
-* [Codecademy R course](https://www.codecademy.com/learn/learn-r)
+* [Learn R](https://www.codecademy.com/learn/learn-r) - (Codecademy) *(account required)*
+* [R Tutorial](https://www.w3schools.com/r) - W3Schools
 
 
 ### Ruby

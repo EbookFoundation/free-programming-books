@@ -172,7 +172,7 @@
 
 ### Programmazione
 
-* [Corso C per sistemi Embedded](https://www.youtube.com/watch?v=XpMF2pnEWVw) - Deid LAB  
+* [Corso C per sistemi Embedded](https://www.youtube.com/watch?v=XpMF2pnEWVw) - Davide Ferrero (Deid Lab)
 * [Programmazione](https://www.youtube.com/playlist?list=PLhEwqlL10MqN2eB3b4avX_DU3FK0EOYFa) - G. Filè (Università di Padova)
 * [Programmazione 2 (Java/C++)](http://latemar.science.unitn.it/segue/index.php?&amp;site=2008Programmazione2&amp;section=86&amp;action=site) - M. Ronchetti (Università di Trento)
 * [Tecniche di Programmazione (C/C++)](https://www.youtube.com/playlist?list=PLAQopGWlIcybv3YLRHGS4yZR00X3RvSBm) - L. Iocchi D. Nardi e A. Pretto (Università La Sapienza di Roma)

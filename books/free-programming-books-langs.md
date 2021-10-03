@@ -2333,7 +2333,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 * [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) (HTML) (:construction: *in process*)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
-* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) - Steve Losh
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) - Tim Ottinger  *(Leanpub account or valid email requested)*
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
 * [VIM-GALORE - All things Vim!](https://github.com/mhinz/vim-galore#readme) (HTML)

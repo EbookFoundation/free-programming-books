@@ -642,10 +642,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Emacs
 
-* [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
+* [An Introduction to Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html)
 * [Emacs for the Modern World](https://www.finseth.com/craft/) (HTML)
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
-* [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf) (PDF)
+* [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html)
 
 
 ### Embedded Systems

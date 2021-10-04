@@ -527,6 +527,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
 * [IPv6 for IPv4 Experts](https://sites.google.com/site/yartikhiy/home/ipv6book) - Yar Tikhiy (PDF)
 * [Kafka, The definitive Guide](https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf) - Neha Narkhede (PDF)
+* [Kafka gentle introduction](https://www.gentlydownthe.stream) - Mitch Seymour
 * [Network Science](http://networksciencebook.com) - Albert-Laszló Barabási
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (PDF)

@@ -21,7 +21,7 @@
   * [Angular](#angular)
   * [Deno](#deno)
 * [Vue](#vue)
-* [Flutter](#Flutter)
+* [Flutter](#flutter)
 
 
 ### Android

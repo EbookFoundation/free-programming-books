@@ -94,6 +94,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
+* [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures (Into Java) - Paul N. Hilfinger](http://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) (PDF)
 * [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett and L. Del Tongo
@@ -436,7 +437,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
 * [SticiGui](https://www.stat.berkeley.edu/~stark/SticiGui/) - Philip Stark
 * [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/) - Leon Q. Brin
-* [The Joy of Cryptography (2020)](https://web.engr.oregonstate.edu/~rosulekm/crypto/) - Mike Rosulek (PDF) (:construction: *in process*)
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
 * [Vector Calculus](http://www.mecmath.net) - Michael Corral
@@ -651,6 +651,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
+* [Cryptography](https://en.wikibooks.org/wiki/Cryptography) - Wikibooks (HTML) (:construction: *in process*)
 * [CryptoParty Handbook](https://unglue.it/work/141611/)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
 * [How HTTPS works](https://howhttps.works) - dnsimple
@@ -661,6 +662,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [OWASP Testing Guide 4.0](https://www.owasp.org/images/1/19/OTGv4.pdf) (PDF)
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
+* [The Joy of Cryptography (2021)](https://web.engr.oregonstate.edu/~rosulekm/crypto/) - Mike Rosulek (PDF) (:construction: *in process*)
 
 
 ### Software Architecture

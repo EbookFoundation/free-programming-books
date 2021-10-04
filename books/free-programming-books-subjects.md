@@ -660,7 +660,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [OWASP Testing Guide 4.0](https://www.owasp.org/images/1/19/OTGv4.pdf) (PDF)
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
-* [The Joy of Cryptography (2020)](https://web.engr.oregonstate.edu/~rosulekm/crypto/) - Mike Rosulek (PDF) (:construction: *in process*)
+* [The Joy of Cryptography (2021)](https://web.engr.oregonstate.edu/~rosulekm/crypto/) - Mike Rosulek (PDF) (:construction: *in process*)
 
 
 ### Software Architecture

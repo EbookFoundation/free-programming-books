@@ -107,7 +107,7 @@
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 * [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
-* [This is CS50x](https://cs50.harvard.edu/x/2020/) - David J. Malan (Harvard OpenCourseWare)
+* [This is CS50x](https://cs50.harvard.edu/x/2021) - David J. Malan (Harvard OpenCourseWare)
 
 
 ### Android
@@ -595,6 +595,7 @@
 * [Caltech's Learning From data](https://work.caltech.edu/telecourse.html)
 * [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
+* [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) - Brian Yu and David J. Malan (Harvard OpenCourseWare and EdX)
 * [Elements of AI](https://www.elementsofai.com)
 * [Embedded Software Safety](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) (P. Koopman)
 * [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic (:card_file_box: *archived*)
@@ -818,7 +819,7 @@
 
 * [ASP.NET Core Tutorial For Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - Venkat (Pragim Technologies)
 * [Command Line Power User - for web developers](https://commandlinepoweruser.com) - WesBos (email address *required*)
-* [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) - Brian Yu,David J. Milan (edX Harvard CS50)
+* [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) - Brian Yu, David J. Malan (edX Harvard CS50)
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [Essential Nextjs Typescript Tailwind Stack](https://www.youtube.com/playlist?list=PLKEkvhqFCRwL94nLP-TdIfNmbiZk5FCMx) - Fireship, Ben Awad, Traversy Media, Devs Force
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)

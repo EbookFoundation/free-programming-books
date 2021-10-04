@@ -1457,9 +1457,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Modelica by Example](http://book.xogeny.com)
 
+
 ### MongoDB
 
-* [The Little MongoDB book](https://www.openmymind.net/mongodb.pdf)
+* [The Little MongoDB book](https://www.openmymind.net/mongodb.pdf)  (PDF)
 
 
 ### MySQL

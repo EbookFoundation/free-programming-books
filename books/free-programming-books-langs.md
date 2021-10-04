@@ -1460,7 +1460,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### MongoDB
 
-* [The Little MongoDB book](https://www.openmymind.net/mongodb.pdf)  (PDF)
+* [The Little MongoDB book](https://www.openmymind.net/mongodb.pdf)  (PDF) - Karl Seguin
 
 
 ### MySQL

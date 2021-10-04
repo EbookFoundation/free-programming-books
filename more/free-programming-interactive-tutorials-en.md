@@ -126,6 +126,7 @@
 
 * [git-game](https://github.com/git-game/git-game)
 * [git-game-v2](https://github.com/git-game/git-game-v2)
+* [Git Tutorial](https://www.w3schools.com/git/) - W3Schools
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
@@ -225,6 +226,7 @@
 ### Kotlin
 
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
+* [Kotlin Tutorial](https://www.w3schools.com/kotlin/) - W3Schools
 * [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Galina Podstrechnaya, Alex DiStasi (Codecademy) *(account required)*
 
 
@@ -306,7 +308,7 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 
-## R
+### R
 
 * [Learn R](https://www.codecademy.com/learn/learn-r) - Codecademy *(account required)*
 * [R Tutorial](https://www.w3schools.com/r) - W3Schools
@@ -342,6 +344,7 @@
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
+* [SQL Teaching](https://www.sqlteaching.com)
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQLBolt](http://sqlbolt.com)
 

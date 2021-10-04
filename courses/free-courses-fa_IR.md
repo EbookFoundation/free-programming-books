@@ -1,17 +1,24 @@
 ### Index
 
+* [Blockchain](#blockchain)
 * [C, C++](#c)
 * [Git](#Git)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
+* [Network](#network)
 * [PHP](#php)
   * [Codeigniter](#codeigniter)
   * [Laravel](#laravel)
   * [Yii](#yii)
 * [Python](#python)
 * [Web Development](#web-development)
+
+
+### Blockchain
+
+* [دوره بلاک چین، رمزارزها و بیت کوین](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1gLxAL-56H-XR-fTapqofC) - Jadi Mirmirani
 
 
 ### C
@@ -43,6 +50,7 @@
 ### Linux
 
 * [آموزش لینوکس - سکان‌آکادمی](https://sokanacademy.com/courses/linux) - Behzad Moradi
+* [آموزش لینوکس برای آدم های شاد](https://www.youtube.com/playlist?list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd) - Jadi Mirmirani
 * [LPIC-1](https://gotoclass.ir/courses/lpic-1) - Peyman Hushmandi Rad
 * [LPIC-2](https://gotoclass.ir/courses/lpic-2) - Jadi Mirmirani
 
@@ -51,6 +59,11 @@
 
 * [درس یادگیری ماشین دانشگاه استنفورد](https://maktabkhooneh.org/course/35-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk35) - Andrew Ng
 * [درس یادگیری ماشین دانشگاه صنعتی شریف](https://maktabkhooneh.org/course/273-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk273) - Mahdiyeh Soleymani
+
+
+### Network
+
+* [درک مقدماتی شبکه](https://www.youtube.com/playlist?list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z) - Jadi Mirmirani
 
 
 ### PHP

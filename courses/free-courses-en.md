@@ -825,6 +825,7 @@
 * [Free Code Camp](https://www.freecodecamp.org)
 * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - by AWS on Udacity
 * [Full stack open](https://fullstackopen.com/en/) - University of Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
+* [Full Stack Serverless](https://serverless-stack.com/#guide) - by Serverless-Stack
 * [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) - Mozilla Contributors
 * [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)

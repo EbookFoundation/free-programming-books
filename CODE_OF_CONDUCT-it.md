@@ -1,28 +1,28 @@
-# Codice di Condotta dei collaboratori
+# Codice di Comportamento del Collaboratore
 
-Come collaboratori e mantenitori di questo progetto, e nell'interesse di promuovere una comunità aperta e accogliente, ci impegnamo a rispettare tutte le persone che contribuiscono attraverso la segnalazione di problemi, la pubblicazione di richieste di nuove funzioni, l'aggiornamento della documentazione, l'invio di pull request o patch e altre attività.
+In quanto collaboratori e responsabili di questo progetto, nell'interesse di incoraggiare una comunità aperta ed accogliente, noi ci impegnamo a rispettare tutte le persone che contribuiscono attraverso la segnalazione di problemi, la richiesta di funzionalità, l'aggiornamento della documentazione, la creazione di pull request o patch ed altre attività.
 
-Ci impegnamento a rendere l'esperienza di partecipazione a questo progetto priva di molestie per tutti, indipendentemente dal livello di esperienza, sesso, identità di genere ed espressione, orientamento sessuale, disabilità, aspetto fisico, corporatura, etnia, età, religione o nazionalità.
+Noi ci impegnamo a rendere la partecipazione a questo progetto una esperienza libera da molestie per tutti, indipendentemente dal livello di esperienza, sesso, identità ed espressione di genere, orientamento sessuale, disabilità, aspetto fisico, corporatura, razza, etnia, età, religione e nazionalità.
 
-Esempi di un comportamento inaccettabili:
+Esempi di comportamento inaccettabile:
 
-* L'uso di linguaggi o immagini a sfondo sessuale
+* L'uso di un linguaggio o immagini sessuali
 * Attacchi personali
-* Prendere in giro o fare commenti offensivi/dispregiativi
+* Comportamento da troll o commenti offensivi/dispregiativi
 * Molestie pubbliche o private
-* Pubblicare informazioni private riguardanti un'altra persona, come indirizzo fisico o elettronico, senza un permesso esplicito della persona in questione.
-* Altre condotte non etiche e professionali.
+* Pubblicazione di informazioni private di un individuo, quali l'indirizzo reale e/o elettronico, senza l'esplicito consenso
+* Altre condotte immorali o non professionali
 
-I responsabili del progetto hanno il diritto e la responsabilità di rimuovere, modificare o rifiutare commenti, commits, codice, modifiche alla wiki, issues e altri collaboratori che non sono allineati al Codice di Condotta oppure di bannare temporaneamente o permanentemente qualsiasi collaboratore per altri comportamenti che sono ritenuti inappropriati, minacciosi, offensivi o dannosi.
+I responsabili del progetto hanno il diritto e la responsabilità di rimuovere, modificare, o cancellare commenti, commit, codice, modifiche del wiki, issue, ed altri contributi che non sono in linea con questo Codice di Comportamento, o di bandire temporaneamente o permanentemente qualsiasi collaboratore per altri comportamenti che verranno ritenuti inappropriati, intimidatori, offensivi o dannosi.
 
-Adottando questo Codice di Condotta, i responsabili del progetto si impegnano ad applicare in modo equo e coerente questi princìpi ad ogni aspetto della gestione di questo progetto. I responsabili che non seguiranno o non faranno rispettare il Codice di Condotta possono essere rimossi permanentemente dal team del progetto.
+Con l'adozione di questo Codice di Comportamento i responsabili del progetto si impegnano ad applicare equamente e costantemente questi princìpi ad ogni aspetto della gestione di questo progetto. I responsabili del progetto che non seguiranno o applicheranno il Codice di Comportamento potranno essere permanentemente rimossi dal team.
 
-Questo Codice di Condotta si applica sia all'interno degli spazi del progetto che all'esterno, quando un individuo rappresenta il progetto o la comunità.
+Questo Codice di Comportamento è applicabile sia al progetto online che agli spazi pubblici quando un individuo rappresenta il progetto stesso o la sua comunità.
 
-I casi di comportamento offensivo, molesto o inaccettabile per altre ragioni possono essere segnalati contattando un responsabile del progetto a victorfelder \[at\] gmail.com . Tutte le segnalazioni verranno revisionate e analizzate per ottenere una risposta necessaria e adeguata alle circostanze. I responsabili sono obbligati a mantenere la riservatezza dell'utente che ha segnalato l'abuso. 
+Casi di comportamento ingiurioso, molesto o altrimenti inaccettabile possono essere riportati contattando il responsabile del progetto tramite victorfelder \[at\] gmail.com . Tutti i reclami saranno revisionati ed indagati e risulteranno in una risposta ritenuta necessaria ed appropriata alle circostanze. I responsabili sono obbligati a manterere riserbo rispetto a chi riporta un caso.
 
 
-Questo Codice di Condotta è adattato dal [Contributor Covenant][homepage],
+Questo Codice di Comportamento è adattato da [Contributor Covenant][homepage],
 versione 1.3.0, disponibile a https://contributor-covenant.org/version/1/3/0/
 
 [homepage]: https://contributor-covenant.org

@@ -437,7 +437,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
 * [SticiGui](https://www.stat.berkeley.edu/~stark/SticiGui/) - Philip Stark
 * [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/) - Leon Q. Brin
-* [The Joy of Cryptography (2020)](https://web.engr.oregonstate.edu/~rosulekm/crypto/) - Mike Rosulek (PDF) (:construction: *in process*)
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
 * [Vector Calculus](http://www.mecmath.net) - Michael Corral
@@ -661,6 +660,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [OWASP Testing Guide 4.0](https://www.owasp.org/images/1/19/OTGv4.pdf) (PDF)
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
+* [The Joy of Cryptography (2020)](https://web.engr.oregonstate.edu/~rosulekm/crypto/) - Mike Rosulek (PDF) (:construction: *in process*)
 
 
 ### Software Architecture

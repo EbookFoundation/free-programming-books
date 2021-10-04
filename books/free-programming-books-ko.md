@@ -99,6 +99,7 @@
 ### Linux
 
 * [리눅스 서버를 다루는 기술](https://thebook.io/006718/)
+* [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
 
 
 ### Mathematics

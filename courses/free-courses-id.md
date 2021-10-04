@@ -145,6 +145,7 @@
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
+* [Tutorial JavaScript Bahasa Indonesia Lengkap] (https://www.youtube.com/playlist?list=PL1aMeb5UP_PGc_FLQa9iD5KkFB9L2cXqF) - IDStack
 
 
 #### AngularJS

@@ -60,6 +60,7 @@
 
 * [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
 * [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
+* [Vimbook](https://vimbook.gitbook.io/vimbook) - Cássio Botaro (gitbook)
 
 
 #### Programação

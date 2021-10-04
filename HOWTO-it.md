@@ -7,7 +7,7 @@ Benvenuto su Free-Programming-Books! Diamo il benvenuto ai nuovi collaboratori; 
 * [Github Hello World](https://guides.github.com/activities/hello-world/) *(in inglese)*
 * [Youtube - Github Tutorial per Principianti](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in inglese)*
 * [Youtube - Come forkare una Repository Github e Inviare una Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in inglese)*
-* [Youtube - Corso accelerato di Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [Youtube - Corso accelerato di Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in inglese)*
 
 
 Non esitare a fare domande; ogni collaboratore iniziato con una prima pull request (PR). Potresti essere il nostro millesimo collaboratore.

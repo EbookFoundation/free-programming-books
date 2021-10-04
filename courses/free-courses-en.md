@@ -166,8 +166,8 @@
 * [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases) - ConsenSys Academy (Coursera)
 * [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) - Bina Ramamurthy (Coursera)
 * [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://www.youtube.com/watch?v=8wMKq7HvbKw) - EatTheBlocks (Freecodecamp)
-* [Cryptodevhub](https://cryptodevhub.io/)
-* [CryptoZombies](https://cryptozombies.io/)
+* [Cryptodevhub](https://cryptodevhub.io)
+* [CryptoZombies](https://cryptozombies.io)
 * [Solidity, Blockchain, and Smart Contract Course](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (Freecodecamp)
 
 

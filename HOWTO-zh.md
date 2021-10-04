@@ -1,4 +1,4 @@
-阅读本文的其他语言版本：[English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md).
+阅读本文的其他语言版本：[English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md), [Deutsch](HOWTO-de.md).
 
 欢迎使用 Free-Programming-Books（免费编程书籍）！我们欢迎新的贡献者；即使是在 Github 上首次提出拉取请求的人。如果您是其中之一，那么以下资源可能会有所帮助：
 

@@ -88,6 +88,7 @@
 
 * [Belajar Bahasa Pemgrograman Dart](https://www.youtube.com/playlist?list=PLsvN_QZnFWRBQRFBo46R9hAYcnmvLSIvF) - Kenari Studio
 * [Dart Indonesia](https://www.youtube.com/playlist?list=PLoNv-2zK-dzEbZSFeGgSnpdp5i_Lwto-8) - CodeWithIhwan
+* [Dart Programming Untuk Persiapan Belajar Flutter](https://buildwithangga.com/kelas/dart-programming-untuk-persiapan-belajar-flutter) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
 * [Pemrograman Berorientasi Objek - Dart](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Erico Darmawan Handoyo
 
 
@@ -112,7 +113,10 @@
 
 * [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/academies/195) - Dicoding, membutuhkan registrasi
 * [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159) - Dicoding, membutuhkan registrasi
-* [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana?thumbnail=nk4neM2UyG.110&main_leads=browse) - BuildWithAngga
+* [Flutter Developer: Basic State Management](https://buildwithangga.com/kelas/flutter-developer-basic-state-management) - Tasya Agnes (BuildWithAngga) *(phone number and email address required)*
+* [Flutter for Designer](https://buildwithangga.com/kelas/flutter-for-designer-design-to-code) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
+* [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
+* [Flutter Mobile Apps](https://buildwithangga.com/kelas/flutter-mobile-apps) - Angga Risky (BuildWithAngga) *(phone number and email address required)*
 * [Flutter Tutorial (Flutter Fundamentals)](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV) - Erico Darmawan Handoyo
 * [STUDI KASUS FLUTTER + GETX + FIREBASE [ CHAT APPS 2021 ]](https://www.youtube.com/playlist?list=PL7jdfftn7HKt6wPnVXoXgserU14d_ACA-) - Sandikha Rahardi, Kuldii Project (YouTube)
 * [Tutorial Flutter](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teRqkuBusUEcVrP6OlYpD9w) - idr corner

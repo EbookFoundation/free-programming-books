@@ -132,6 +132,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Mercurial](#mercurial)
 * [Mercury](#mercury)
 * [Modelica](#modelica)
+* [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [Neo4J](#neo4j)
 * [.NET Core / .NET](#net-core)
@@ -1455,6 +1456,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Modelica
 
 * [Modelica by Example](http://book.xogeny.com)
+
+### MongoDB
+
+* [The Little MongoDB book](https://www.openmymind.net/mongodb.pdf)
 
 
 ### MySQL

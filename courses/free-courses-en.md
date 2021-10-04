@@ -46,8 +46,8 @@
 * [Markdown](#markdown)
 * [Matlab](#matlab)
 * [Misc](#misc)
-* [NodeJs](#NodeJs)
 * [.NET](#net)
+* [NodeJs](#NodeJs)
 * [OCaml](#ocaml)
 * [Perl](#perl)
 * [PHP](#php)
@@ -612,14 +612,14 @@
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 
 
-### NodeJs
-
-* [NodeJs Basics](https://youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR) - Academind (Maximilian)
-
-
 ### .NET
 
 * [Learn how to program: .NET](https://www.learnhowtoprogram.com/net) - Epicodus Inc.
+
+
+### NodeJs
+
+* [NodeJs Basics](https://youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR) - Academind (Maximilian)
 
 
 ### OCaml

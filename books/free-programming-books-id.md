@@ -166,4 +166,4 @@
 
 #### Flutter
 
-* [Belajar Flutter](https://belajarflutter.com/)
+* [Belajar Flutter](https://belajarflutter.com)

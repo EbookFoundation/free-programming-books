@@ -233,6 +233,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
 * [Game Programming Patterns](http://gameprogrammingpatterns.com) - Bob Nystrom
 * [Procedural Content Generation in Games](http://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
+* [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/) - Richard Fabian
 
 
 ### Graphics Programming

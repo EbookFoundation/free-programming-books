@@ -36,6 +36,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
@@ -125,6 +126,7 @@
 
 * [git-game](https://github.com/git-game/git-game)
 * [git-game-v2](https://github.com/git-game/git-game-v2)
+* [Git Tutorial](https://www.w3schools.com/git/) - W3Schools
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
@@ -140,6 +142,7 @@
 
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
+* [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
 
@@ -223,6 +226,8 @@
 ### Kotlin
 
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
+* [Kotlin Tutorial](https://www.w3schools.com/kotlin/) - W3Schools
+* [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Galina Podstrechnaya, Alex DiStasi (Codecademy) *(account required)*
 
 
 ### Language Agnostic
@@ -303,6 +308,12 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 
+### R
+
+* [Learn R](https://www.codecademy.com/learn/learn-r) - Codecademy *(account required)*
+* [R Tutorial](https://www.w3schools.com/r) - W3Schools
+
+
 ### Ruby
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
@@ -333,6 +344,7 @@
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
+* [SQL Teaching](https://www.sqlteaching.com)
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQLBolt](http://sqlbolt.com)
 

@@ -124,6 +124,7 @@
 * [Belajar Go-Lang untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Belajar Golang Basic Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm) - Sekolah Koding
 * [Golang Fundamental](https://buildwithangga.com/kelas/golang-fundamental?thumbnail=nk4neM2UyG.54&main_leads=browse) - BuildWithAngga
+* [Tutorial Golang Fundamental](https://youtu.be/xzNT4JywW0A) - Agung Setiawan
 
 
 ### HTML / CSS
@@ -245,6 +246,7 @@
 
 * [Belajar MySQL](https://www.youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_) - Indonesia Belajar
 * [Belajar MySQL/MariaDB](https://www.youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF) - Guntur Budi
+* [Tutorial MySQL Database](https://youtu.be/xYBclb-sYQ4) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
 ### PHP
@@ -314,6 +316,7 @@
 
 ### SASS / SCSS
 
+* [Belajar Menggunakan SASS](https://youtube.com/playlist?list=PLRKMmwY3-5Mxzx31JO3V9JJ8GLdUXYqt0) - Parsinta
 * [Tutorial SASS](https://www.youtube.com/playlist?list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5) - Web Programming UNPAS
 
 

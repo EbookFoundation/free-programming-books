@@ -47,6 +47,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Delphi / Pascal](#delphi--pascal)
 * [DTrace](#dtrace)
 * [Eiffel](#eiffel)
+* [Electron](#electron)
 * [Elixir](#elixir)
   * [Ecto](#ecto)
   * [Phoenix](#phoenix)
@@ -616,6 +617,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Eiffel
 
 * [A Functional Pattern System for Object-Oriented Design](http://homepages.mcs.vuw.ac.nz/~tk/fps/fps-sans-escher.pdf) - Thomas Kuhne (PDF)
+
+
+### Electron
+
+* [Electron Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/electron-succinctly) (PDF, Kindle) (email address requested, not required)
 
 
 ### Elixir

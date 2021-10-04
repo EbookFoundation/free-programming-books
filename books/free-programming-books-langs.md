@@ -796,6 +796,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### GraphQL
 
 * [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
+* [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) (PDF)
 
 
 ### Groovy

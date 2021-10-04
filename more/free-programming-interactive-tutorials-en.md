@@ -313,6 +313,9 @@
 * [Learn R](https://www.codecademy.com/learn/learn-r) - Codecademy *(account required)*
 * [R Tutorial](https://www.w3schools.com/r) - W3Schools
 
+### Regex
+
+* [RegExp Playground](https://projects.verou.me/regexplained)
 
 ### Ruby
 

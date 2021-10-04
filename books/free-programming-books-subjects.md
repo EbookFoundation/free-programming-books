@@ -663,6 +663,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Software Architecture
 
+* [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns) - Rahul Batra (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 * [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](http://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)

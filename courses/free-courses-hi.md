@@ -15,6 +15,7 @@
 * [R](#r)
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
+* [Web Development](#web-development)
 
 
 ### Android
@@ -107,3 +108,8 @@
 #### Ruby on Rails
 
 * [Ruby on Rails 5 Tutorial(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb) - CS Geeks
+
+
+### Web Development
+
+* [Web Development Using Flask and Python(Hindi)](https://www.codewithharry.com/videos/web-dev-using-flask-and-python-1) - Harry

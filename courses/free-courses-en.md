@@ -673,6 +673,7 @@
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (Udacity)
 * [Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) (Coursera)
 * [Learn Python](https://pythonspot.com)
+* [Learn Python – Easy Python Programming Tutorial](http://www.trytoprogram.com/python-programming) (trytoprogram)
 * [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org)
 * [Learn Python From Scratch](https://www.udemy.com/learn-python-from-scratch-w/) - MD. Hasanur Rahaman Hasib (Udemy)
 * [Learn Python Tutorial](https://www.kaggle.com/learn/python) (Kaggle)

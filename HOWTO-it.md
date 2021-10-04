@@ -4,7 +4,7 @@ Benvenuto su Free-Programming-Books! Diamo il benvenuto ai nuovi collaboratori; 
 
 * [Riguardante le Pull Requests](https://help.github.com/articles/about-pull-requests/) *(in inglese)*
 * [Creare una pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [Github Hello World](https://guides.github.com/activities/hello-world/)
+* [Github Hello World](https://guides.github.com/activities/hello-world/) *(in inglese)*
 * [Youtube - Github Tutorial per Principianti](https://www.youtube.com/watch?v=0fKg7e37bQE)
 * [Youtube - Come forkare una Repository Github e Inviare una Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
 * [Youtube - Corso accelerato di Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo)

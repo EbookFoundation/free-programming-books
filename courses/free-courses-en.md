@@ -46,6 +46,7 @@
 * [Markdown](#markdown)
 * [Matlab](#matlab)
 * [Misc](#misc)
+* [NodeJs](#NodeJs)
 * [.NET](#net)
 * [OCaml](#ocaml)
 * [Perl](#perl)
@@ -485,7 +486,6 @@
 
 #### React Native
 
-* [Build Uber Eats with React Native](https://www.youtube.com/watch?v=jmvbhuJXFow) - Clever Programmer
 * [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) - edX
 * [Introduction to React Native](https://fullstackopen.com/en/part10/introduction_to_react_native) - Full Stack Open
 * [React Native for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) - The Net Ninja
@@ -610,6 +610,11 @@
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
+
+
+### NodeJs
+
+* [NodeJs Basics](https://youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR) - Academind (Maximilian)
 
 
 ### .NET

@@ -10,6 +10,7 @@
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Dart](#dart)
+* [Data Science](#datascience)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -35,6 +36,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
@@ -108,6 +110,13 @@
 * [Dart Official Codelabs](https://dart.dev/codelabs)
 
 
+### Data Science
+
+* [Data Science Foundations - IBM SkillBuild](https://skillsbuild.org/students/course-catalog/data-science) *(Email login reqired to access the course)*
+* [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) -KDnuggets
+* [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
+
+
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)
@@ -117,6 +126,7 @@
 
 * [git-game](https://github.com/git-game/git-game)
 * [git-game-v2](https://github.com/git-game/git-game-v2)
+* [Git Tutorial](https://www.w3schools.com/git/) - W3Schools
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
@@ -131,6 +141,8 @@
 ### Go
 
 * [Go Koans](https://github.com/cdarwin/go-koans)
+* [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
+* [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
 
@@ -214,6 +226,8 @@
 ### Kotlin
 
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
+* [Kotlin Tutorial](https://www.w3schools.com/kotlin/) - W3Schools
+* [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Galina Podstrechnaya, Alex DiStasi (Codecademy) *(account required)*
 
 
 ### Language Agnostic
@@ -294,6 +308,12 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 
+### R
+
+* [Learn R](https://www.codecademy.com/learn/learn-r) - Codecademy *(account required)*
+* [R Tutorial](https://www.w3schools.com/r) - W3Schools
+
+
 ### Ruby
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
@@ -324,6 +344,7 @@
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
+* [SQL Teaching](https://www.sqlteaching.com)
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQLBolt](http://sqlbolt.com)
 

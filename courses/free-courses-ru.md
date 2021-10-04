@@ -28,7 +28,7 @@ INT - Cредний. Расширенные возможности.
 ADV - Продвинутый. Тонкости.
 
 
-### Дизайн и Aрхитектура<a ref="design-architecture" />
+<h3 id="design-architecture">Дизайн и Aрхитектура</h3>
 
 * [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
 
@@ -136,6 +136,7 @@ ADV - Продвинутый. Тонкости.
 
 ### Python
 
+* [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) - Stepik (INT)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
 * ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) - Stepik (BEG)
 * ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343) - Stepik (INT)

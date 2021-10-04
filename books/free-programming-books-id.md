@@ -63,6 +63,7 @@
 
 * [Belajar Dengan Jenius Golang](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang/master/Belajar%20Dengan%20Jenius%20Golang.pdf) - Gun Gun Febrianza (PDF)
 * [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com) - Noval Agung Prayogo
+* [Mari Belajar Golang](https://www.smashwords.com/books/view/938003) - Risal (PDF)
 
 
 ### HTML CSS
@@ -94,6 +95,7 @@
 
 ### Node.js
 
+* [Belajar Dengan Jenius Amazon Web Service & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/releases/download/1.2/Belajar.Dengan.Jenius.Javascript.Node.pdf) - Gun Gun Febrianza (PDF)
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
 * [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua, Google Play Books (*account required*)
 
@@ -110,7 +112,7 @@
 
 ### Pemrograman Kompetitif
 
-* [Pemrograman Kompetitif Dasar](https://osn.toki.id/#materi-algo) - William Gozali & Alham Fikri Aji (PDF)
+* [Pemrograman Kompetitif Dasar](https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali & Alham Fikri Aji (PDF)
 
 
 ### PHP

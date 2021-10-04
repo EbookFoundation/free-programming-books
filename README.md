@@ -27,6 +27,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 ### Books
 
 [English, By Programming Language](books/free-programming-books-langs.md)
+
 [English, By Subject](books/free-programming-books-subjects.md)
 
 
@@ -46,6 +47,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [French / français](books/free-programming-books-fr.md)
 + [German / Deutsch](books/free-programming-books-de.md)
 + [Greek / ελληνικά](books/free-programming-books-gr.md)
++ [Hebrew / עברית](books/free-programming-books-he.md)
 + [Hungarian / magyar / magyar nyelv](books/free-programming-books-hu.md)
 + [Indonesian / Bahasa Indonesia](books/free-programming-books-id.md)
 + [Italian / italiano](books/free-programming-books-it.md)
@@ -81,6 +83,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [Finnish](courses/free-courses-fi.md)
 + [French / français](courses/free-courses-fr.md)
 + [German / Deutsch](courses/free-courses-de.md)
++ [Hebrew / עברית](courses/free-courses-he.md)
 + [Hindi / हिंदी](courses/free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](courses/free-courses-id.md)
 + [Italian / italiano](courses/free-courses-it.md)
@@ -119,6 +122,7 @@ Free Podcasts and Screencasts:
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
++ [Persian / Farsi (Iran) / فارسى](casts/free-podcasts-screencasts-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](casts/free-podcasts-screencasts-pl.md)
 + [Portuguese (Brazil)](casts/free-podcasts-screencasts-pt_BR.md)
 + [Portuguese (Portugal)](casts/free-podcasts-screencasts-pt_PT.md)

@@ -1,15 +1,17 @@
 ### Index
 
-* [Android](#Android)
-* [C](#C)
+* [Android](#android)
+* [C](#c)
 * [C++](#cpp)
-* [Data Structures](#DataStructures)
-* [DevOps](#DevOps)
-* [Java](#Java)
-* [Javascript](#Javascript)
-  * [Next.js]((#NextJS)
+* [Data Structures](#data-structures)
+* [DevOps](#devops)
+* [Git and GitHub](#git-and-github)
+* [Java](#java)
+* [Javascript](#javascript)
+  * [Next.js](#nextjs)
   * [React](#react)
-* [Python](#Python)
+* [PHP](#php)
+* [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
@@ -42,11 +44,17 @@
 * [All Sorting algorithms and Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
 * [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
+* [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
 
 
 ### DevOps
 
 *[DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
+
+### Git and GitHub
+
+* [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
+* [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
 
 
 ### Java
@@ -60,16 +68,24 @@
 ### Javascript
 
 * [JavaScript Tutorial \| Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - Harry
+* [JavaScript Tutorial for Beginners (In Hindi)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0) - Vinod Bahadur Thapa (Thapa Technical)
+* [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
 
-
-#### Next.Js
+<h4 id="nextjs">Next.js</h4>
 
 * [NextJS Tutorial In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
 
 
 #### React
 
+* [React Js Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - CodeWithHarry
+* [React Tutorial in Hindi](https://www.youtube.com/watch?v=RGKi6LSPDLU) - CodeWithHarry
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
+
+
+### PHP
+
+* [PHP Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR) - CodeWithHarry
 
 
 ### Python

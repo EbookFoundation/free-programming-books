@@ -1,4 +1,4 @@
-*Read this in other languages: [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md).*
+*Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 
 ## Contributor License Agreement
 By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) of this repository.
@@ -20,7 +20,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files.
 
-5. Travis CI will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
+5. GitHub Actions will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
 
 ### Guidelines
 - make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
@@ -40,7 +40,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - if a link exists in multiple format, add a separate link with a note about each format
 - if a resource exists at different places on the Internet
     + use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
-    + if they link to different editions and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) to contribute to the discussion on formatting.)
+    + if they link to different editions, and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) to contribute to the discussion on formatting.)
 - prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
 - if the book is older, include the publication date with the title.
 - include the author name or names where appropriate. You can shorten author lists with "et al."
@@ -149,7 +149,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 
 ##### Platforms and Access Notes
 
-- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity , and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
+- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
 - YouTube. We have many courses which consist of YouTube playlists. We do not list Youtube as a platform, we try to list the Youtube creator, which is often a sub-platform.
 - YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
 - Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note *(Leanpub account or valid email requested)*
@@ -204,7 +204,7 @@ If you can print it out and retain its essence, it's not an Interactive Tutorial
 
 ### Automation
 
-- Formatting rules enforcement is automated via [Travis CI](https://travis-ci.com) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [.travis.yml](.travis.yml))
+- Formatting rules enforcement is automated via [GitHub Actions](https://github.com/features/actions) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
 - URL validation uses [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - To trigger URL validation, push a commit that includes a commit message containing `check_urls=file_to_check`:
 

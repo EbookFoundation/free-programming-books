@@ -308,7 +308,7 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 
-## R
+### R
 
 * [Learn R](https://www.codecademy.com/learn/learn-r) - Codecademy *(account required)*
 * [R Tutorial](https://www.w3schools.com/r) - W3Schools

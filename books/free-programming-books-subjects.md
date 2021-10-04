@@ -228,12 +228,12 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 * [2D Game Development: From Zero To Hero](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) (:construction: *in process*)
 * [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
+* [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/) - Richard Fabian
 * [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 * [Game AI Pro](http://www.gameaipro.com) - Steve Rabin
 * [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
 * [Game Programming Patterns](http://gameprogrammingpatterns.com) - Bob Nystrom
 * [Procedural Content Generation in Games](http://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
-* [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/) - Richard Fabian
 
 
 ### Graphics Programming

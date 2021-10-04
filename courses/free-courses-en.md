@@ -245,6 +245,7 @@
 #### NoSQL
 
 * [MongoDB University](https://university.mongodb.com) - MongoDB, Inc. (email address *required*)
+* [Neo4j Graph Database Tutorial](https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh) - Satish C J (YouTube)
 
 
 #### SQL

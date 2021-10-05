@@ -47,7 +47,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Delphi / Pascal](#delphi--pascal)
 * [DTrace](#dtrace)
 * [Eiffel](#eiffel)
-* [Electron](#electron)
 * [Elixir](#elixir)
   * [Ecto](#ecto)
   * [Phoenix](#phoenix)
@@ -100,6 +99,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Booty5.js](#booty5js)
   * [D3.js](#d3js)
   * [Dojo](#dojo)
+  * [Electron](#electron)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
   * [Express.js](#expressjs)
@@ -617,11 +617,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Eiffel
 
 * [A Functional Pattern System for Object-Oriented Design](http://homepages.mcs.vuw.ac.nz/~tk/fps/fps-sans-escher.pdf) - Thomas Kuhne (PDF)
-
-
-### Electron
-
-* [Electron Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/electron-succinctly) (PDF, Kindle) (email address requested, not required)
 
 
 ### Elixir
@@ -1155,6 +1150,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Dojo: The Definitive Guide](https://www.oreilly.com/library/view/dojo-the-definitive/9780596516482/) - Matthew A. Russell
 
+
+#### Electron
+
+* [Electron Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/electron-succinctly) (PDF, Kindle) (email address requested, not required)
 
 #### Elm
 

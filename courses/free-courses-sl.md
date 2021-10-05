@@ -1,7 +1,7 @@
 ### Index
 
-* [ASP.NET Core](#asp.net_core)
-* [HTML/CSS](#html/css)
+* [ASP.NET Core](#aspnet_core)
+* [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [React](#react)

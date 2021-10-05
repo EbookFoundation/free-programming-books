@@ -5,6 +5,7 @@
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
 * [Emacs](#emacs)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)
@@ -21,7 +22,6 @@
   * [Angular](#angular)
   * [Deno](#deno)
 * [Vue](#vue)
-* [Flutter](#flutter)
 
 ### Android
 
@@ -50,6 +50,11 @@
 ### Emacs
 
 * [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
+
+
+### Flutter
+
+* [Belajar Flutter](https://belajarflutter.com)
 
 
 ### Git
@@ -161,8 +166,3 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
-
-
-### Flutter
-
-* [Belajar Flutter](https://belajarflutter.com)

@@ -63,6 +63,7 @@
 
 * [Corso di programmazione in C](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2ugwPRLN_1oOrlzX9Zc9It) - R. Rizzi (Università di Verona)
 * [Corso di programmazione in C (Standard C89/C90)](https://staff.polito.it/claudio.fornaro/CorsoC/) - C. Fornaro (Politecnico di Torino)
+* [Linguaggio C - Corso completo](https://www.youtube.com/playlist?list=PL83Ordjpzm5oUl7tFEjc4iirkPBiv7FxR) - Programmazione Time
 
 
 ### C Sharp

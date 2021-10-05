@@ -1512,6 +1512,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [CouchDB: The Definitive Guide](http://guide.couchdb.org)
 * [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
 * [Graph Databases](http://graphdatabases.com)
+* [How To Manage a Redis Database](https://www.digitalocean.com/community/books/how-to-manage-a-redis-database-ebook) - Mark Drake (PDF, Epub)
 * [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb) - Tutorials Point
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
 * [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/) - Compiled from StackOverflow Documentation (PDF)

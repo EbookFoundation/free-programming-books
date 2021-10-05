@@ -334,6 +334,7 @@
 
 #### Django
 
+* [Guía Oficial de Django](https://docs.djangoproject.com/es/3.2/) (3.2) (HTML)
 * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/) (1.11) (HTML) (:construction: *in process*)
 
 

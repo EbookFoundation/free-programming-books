@@ -23,7 +23,6 @@
   * [AngularJS](#angularjs)
   * [jQuery](#jquery)
   * [React](#react)
-  * [Svelte](#svelte)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)
@@ -222,11 +221,6 @@
 
 * [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
 * [React Tutorial](https://react-tutorial.app)
-
-
-#### Svelte
-
-* [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 
 
 ### Kotlin

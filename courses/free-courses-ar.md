@@ -9,6 +9,8 @@
 * [Databases](#databases)
   * [NoSQL](#nosql)
   * [SQL](#sql)
+* [Flutter](#flutter)
+	* [Dart](#dart)
 * [Game Development](#game-development)
 * [Git](#git)
 * [HTML / CSS](#html--css)
@@ -28,8 +30,7 @@
 * [R](#r)
 * [TypeScript](#typescript)
   * [Angular](#angular)
-* [Flutter](#flutter)
-	* [Dart](#dart)
+
 
 ### Algorithms & Data Structures
 
@@ -110,6 +111,15 @@
 * [Database 1 - المقرر العملى - Learn SQL In Arabic](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484) - محمد الدسوقى
 * [Learn MySQL](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9) - Elzero Web School
 * [MySQL tutorials || بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad
+
+
+### Flutter
+
+* [Flutter بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan
+
+#### Dart
+
+* [Dart بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAj6Yjdki9OCLSwqdBs4xhQz) - Asem Saafan
 
 
 ### Game Development
@@ -265,12 +275,3 @@ Emam Academy
 * [Arabic Angular 7 from A to R احتراف الانجولار](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjSjy7yeJwpj2QkJd8NKo-O) - KMR Script (YouTube)
 * [Arabic Angular and Firebase App تطبيق انجولار وفايربيز](https://www.youtube.com/playlist?list=PLL2zWZTDFZzh2WEmc3fH_O4y4N05ZCqB2) - KMR Script (YouTube)
 * [Arabic NgRx (Angular + Redux)](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhW10baUv1esvrowMwbfd5H) - KMR Script (YouTube)
-
-
-### Flutter
-
-* [Flutter بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan
-
-#### Dart
-
-* [Dart بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAj6Yjdki9OCLSwqdBs4xhQz) - Asem Saafan

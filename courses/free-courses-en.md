@@ -504,6 +504,12 @@
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
 
 
+#### Svelte
+
+* [Learn the Svelte JavaScript Framework](https://www.youtube.com/watch?v=ujbE0mzX-CU) - Noah Glaser, freeCodeCamp (YouTube)
+* [Svelte Tutorial](https://www.youtube.com/watch?v=vhGiGqZ78Rs) - Beau Carnes, freeCodeCamp (YouTube)
+
+
 #### Vue.js
 
 * [Internationalization with vue-i18n](https://vueschool.io/courses/internationalization-with-vue-i18n)

@@ -3,7 +3,8 @@
 * [ASP.NET Core](#asp.net_core)
 * [HTML/CSS](#html/css)
 * [Java](#java)
-* [ReactJs](#reactjs)
+* [JavaScript](#javascript)
+  * [React](#react)
 
 
 ### ASP.NET Core

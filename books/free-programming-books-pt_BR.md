@@ -299,7 +299,7 @@
 
 ### Markdown
 
-* [Manual do Markdown para Github](https://github.com/gustavoguanabara/git-github/raw/master/manuais-PDF/guia-markdown.pdf) - Gustavo Guanabara
+* [Manual do Markdown para Github](https://github.com/gustavoguanabara/git-github/raw/master/manuais-PDF/guia-markdown.pdf) - Gustavo Guanabara (PDF)
 
 
 ### PHP

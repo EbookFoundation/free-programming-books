@@ -22,7 +22,11 @@
 * [Sinhala Java Netbeans Lessons](https://youtube.com/playlist?list=PLA3ZeQncjeVu9VHevp2SmPCQ9muVO3fEB) - Chanux Bro (YouTube)
 
 
-### ReactJs
+### JavaScript
 
-* [Fundamentals | React JS in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2DpDyWwmAjEuicvVxx4vIYB)  (fiqri ismail)
+<!-- Waiting to add in -->
+
+
+#### React
+* [Fundamentals \| React JS in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2DpDyWwmAjEuicvVxx4vIYB) - Fiqri Ismail (YouTube)
 

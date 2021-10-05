@@ -67,6 +67,7 @@
 * [TypeScript](#typescript)
   * [Angular](#angular)
   * [Deno](#deno)
+  * [Electron](#electron)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
 
@@ -804,6 +805,12 @@
 #### Deno
 
 * [Deno Beginner](https://denobeginner.com) - Ahmad Awais (email address *required*)
+
+
+#### Electron
+
+* [Electron Js - Build real desktop apps](https://youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - How To Code
+* [Electron js Tutorials](https://youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution
 
 
 ### Verilog / VHDL / SystemVerilog

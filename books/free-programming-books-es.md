@@ -69,6 +69,7 @@
 
 #### Algoritmos y Estructuras de Datos
 
+* [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) (PDF)
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)

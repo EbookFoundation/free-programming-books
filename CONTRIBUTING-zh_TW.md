@@ -20,7 +20,7 @@
 
 3. 這裡有五種列表，請選擇正確的一項：
 
-    * *Books* ：PDF、HTML、ePub、基於 gitbook.io 的網站、Ｇit 的 repo 等。
+    * *Books* ：PDF、HTML、ePub、基於 gitbook.io 的網站、Git 的 repo 等。
     * *Courses* ：課程是一種學習素材，而不是一本書 [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
     * *Interactive Tutorials* ：一個互動式網站，允許用戶輸入程式碼或指令並執行結果。例如：[Try Haskell](http://tryhaskell.org)，[Try Github](http://try.github.io)。
     * *Podcasts and Screencasts* ：Podcast 和影音。

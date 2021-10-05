@@ -12,9 +12,9 @@
 * [WEB API-ASP.NET Core in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2CpeAsq93DqWJHHyvCSa2Qn) - Fiqri Ismail (YouTube)
 
 
-### HTML/CSS
+### HTML / CSS
 
-* [HTML/CSS](https://youtube.com/playlist?list=PLWAgeLqk4SjDlN6nHs91rECgx4PbzfoZh) (SL Geek School)
+* [HTML සිංහලෙන්](https://youtube.com/playlist?list=PLWAgeLqk4SjDlN6nHs91rECgx4PbzfoZh) - SL Geek School (YouTube)
 
 
 ### Java

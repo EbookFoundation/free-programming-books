@@ -6,9 +6,6 @@
 * [ReactJs](#reactjs)
 
 
-
-
-
 ### ASP.NET Core
 
 * [WEB API-ASP.NET Core in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2CpeAsq93DqWJHHyvCSa2Qn) (fiqri ismail)

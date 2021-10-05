@@ -6,11 +6,11 @@
 * [C](#c)
 * [C Sharp](#c-sharp)
 * [Clean Code](#clean-code)
+* [Dart](#dart)
 * [Databases](#databases)
   * [NoSQL](#nosql)
   * [SQL](#sql)
 * [Flutter](#flutter)
-	* [Dart](#dart)
 * [Game Development](#game-development)
 * [Git](#git)
 * [HTML / CSS](#html--css)
@@ -91,6 +91,11 @@
 * [Declarative Programming](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f) - درة الاكواد لابن حماد
 
 
+### Dart
+
+* [Dart بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAj6Yjdki9OCLSwqdBs4xhQz) - Asem Saafan
+
+
 ### Databases
 
 * [CS Master - Level 3 - Databases قواعد البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhXQ1bcYlO3PtN4MsLiG-gy) - KMR Script
@@ -116,11 +121,6 @@
 ### Flutter
 
 * [Flutter بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan
-
-
-#### Dart
-
-* [Dart بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAj6Yjdki9OCLSwqdBs4xhQz) - Asem Saafan
 
 
 ### Game Development

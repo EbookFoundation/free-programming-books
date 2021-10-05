@@ -23,6 +23,7 @@
   * [AngularJS](#angularjs)
   * [jQuery](#jquery)
   * [React](#react)
+  * [Svelte](#svelte)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
   * [Operating Systems](#operating-systems)

@@ -112,4 +112,4 @@
 
 ### Web Development
 
-* [Web Development Using Flask and Python(Hindi)](https://www.codewithharry.com/videos/web-dev-using-flask-and-python-1) - Harry
+* [Web Development Using Flask and Python(Hindi)](https://www.youtube.com/watch?v=DD3ou9sa3Z8&list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - Harry

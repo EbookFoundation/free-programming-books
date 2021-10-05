@@ -223,6 +223,11 @@
 * [React Tutorial](https://react-tutorial.app)
 
 
+#### Svelte
+
+* [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
+
+
 ### Kotlin
 
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)

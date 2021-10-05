@@ -1,4 +1,4 @@
-_다른 언어로 보기: [Français](CONTRIBUTING-fr.md), [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-kr.md)._
+*다른 언어로 보기: [Français](CONTRIBUTING-fr.md), [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-kr.md).*
 
 ## 기여자 라이선스 합의
 
@@ -10,16 +10,16 @@ _다른 언어로 보기: [Français](CONTRIBUTING-fr.md), [English](CONTRIBUTIN
 
 ## 요약
 
-1. "책을 쉽게 다운로드할 수 있는 링크"는 늘 _무료_ 책에 대한 링크는 아닙니다. 무료 콘텐츠만 제공해주세요. 무료인지 확인하세요. 우리는 책을 얻기 위해 유효한 이메일 주소를 *요구*하는 페이지에 대한 링크를 허용하지 않지만, 책을 요청하는 목록에는 환영합니다.
-   2.Git을 알 필요는 없습니다. _이 리포지토리에 아직 없는_ 흥미로운 것을 발견했다면 제안하시는 링크를 포함한 [이슈](https://github.com/EbookFoundation/free-programming-books/issues) 여십시오.
+1. "책을 쉽게 다운로드할 수 있는 링크"는 늘 *무료* 책에 대한 링크는 아닙니다. 무료 콘텐츠만 제공해주세요. 무료인지 확인하세요. 우리는 책을 얻기 위해 유효한 이메일 주소를 *요구*하는 페이지에 대한 링크를 허용하지 않지만, 책을 요청하는 목록에는 환영합니다.
+   2.Git을 알 필요는 없습니다. *이 리포지토리에 아직 없는* 흥미로운 것을 발견했다면 제안하시는 링크를 포함한 [이슈](https://github.com/EbookFoundation/free-programming-books/issues) 여십시오.
    - Git 사용이 가능하시다면 저장소를 포크하고 풀 리퀘스트를 보내주세요.
 2. 5가지 종류의 목록이 있습니다. 올바른 것을 선택하십시오.:
 
-   - _책_ : PDF, HTML, ePub, gitbook.io 사이트, Git 레포지토리, 등.
-   - _강의_ : 코스는 책이 아닌 학습 자료입니다. [이런게 강의입니다](http://rogerdudler.github.io/git-guide/index.ko.html).
-   - _상호적인 튜터리얼_ : 사용자가 코드나 명령을 입력하고 결과를 평가할 수 있는 대화형 웹사이트 ("평가"는 "등급"을 의미하지 않습니다.). 예: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
-   - _팟캐스트와 스크린캐스트_ : 팟캐스트와 스크린캐스트.
-   - _문제 세트 및 경쟁 프로그래밍_ :
+   - *책* : PDF, HTML, ePub, gitbook.io 사이트, Git 레포지토리, 등.
+   - *강의* : 코스는 책이 아닌 학습 자료입니다. [이런게 강의입니다](http://rogerdudler.github.io/git-guide/index.ko.html).
+   - *상호적인 튜터리얼* : 사용자가 코드나 명령을 입력하고 결과를 평가할 수 있는 대화형 웹사이트 ("평가"는 "등급"을 의미하지 않습니다.). 예: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
+   - *팟캐스트와 스크린캐스트* : 팟캐스트와 스크린캐스트.
+   - *문제 세트 및 경쟁 프로그래밍* :
      다른 사용자와 결과를 비교하거나 코드 검토를 포함하거나 단순 또는 복잡한 문제를 해결하여 프로그래밍 기술을 평가할 수 있는 웹 사이트 또는 소프트웨어입니다.
 
 3. 아래 [가이드 지침](#guidelines)을 따르고 파일의 [마크다운 형식](#formatting)을 준수해야 합니다.
@@ -39,9 +39,9 @@ _다른 언어로 보기: [Français](CONTRIBUTING-fr.md), [English](CONTRIBUTIN
 - URL 단축 링크 불가.
 - 일반적으로 "버전" 링크보다 "현재" 링크를 선호합니다: `http://example.com/dir/book/current/`가 `http://example.com/dir/book/v1.0.0/index.html` 보다 좋습니다.
 - 링크에 만료된 인증서/자체 서명된 인증서/다른 종류의 SSL 문제가 있는 경우:
-  1. _교체 하십시오_: 가능하면 `http`로 대체합니다(모바일 장치에서는 예외를 수락하는 것이 복잡할 수 있기 때문에).
-  2. _그대로 두십시오_: 사용 가능한 `http` 버전이 없다면 브라우저에 예외를 추가하거나 경고를 무시하여 `https`를 통해 링크에 계속 액세스할 수 있는 경우 그대로 두십시오.
-  3. 아니라면 _제거하십시오_.
+  1. *교체 하십시오*: 가능하면 `http`로 대체합니다(모바일 장치에서는 예외를 수락하는 것이 복잡할 수 있기 때문에).
+  2. *그대로 두십시오*: 사용 가능한 `http` 버전이 없다면 브라우저에 예외를 추가하거나 경고를 무시하여 `https`를 통해 링크에 계속 액세스할 수 있는 경우 그대로 두십시오.
+  3. 아니라면 *제거하십시오*.
 - 링크가 여러 형식으로 존재하는 경우 각 형식에 대한 메모와 함께 별도의 링크를 추가하십시오.
 - 리소스가 인터넷의 다른 위치에 있는 경우:
   - 가장 권위 있는 출처의 링크를 사용하십시오(작가의 웹사이트가 편집자의 웹사이트보다 낫다는 의미)

@@ -51,6 +51,8 @@
 ### Kotlin
 
 * [آموزش کامل برنامه نویسی با کاتلین](https://www.youtube.com/watch?v=SwhXvaXx078) - Amirahmad Adibi
+* [دوره آموزشی کاتلین](https://mskm.ir/category/programming/kotlin/) - Mehrdad Dolatkhah
+* [دوره رایگان برنامه نویسی اندروید](https://www.youtube.com/playlist?list=PLoBWKLYZlNi7lecoeYXHC868ZH_AE1uXg) - Omid Sharifmehr
 
 
 ### Linux

@@ -31,6 +31,7 @@
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
   * [D3.js](#d3js)
+  * [Electron](#electron)
   * [jQuery](#jquery)
   * [Next.js](#nextjs)
   * [NodeJS](#nodejs)
@@ -67,7 +68,6 @@
 * [TypeScript](#typescript)
   * [Angular](#angular)
   * [Deno](#deno)
-  * [Electron](#electron)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
 
@@ -455,6 +455,12 @@
 * [Learn D3](https://www.codecademy.com/learn/learn-d3) - Codecademy *(account required)*
 
 
+#### Electron
+
+* [Electron Js - Build real desktop apps](https://youtube.com/playlist?list=PLtWy6rdN1yBntIyLeNo-fCVR6AaK7vdyl) - Vishwas Gopinath, How To Code (YouTube)
+* [Electron js Tutorials](https://youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution (YouTube)
+
+
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
@@ -805,12 +811,6 @@
 #### Deno
 
 * [Deno Beginner](https://denobeginner.com) - Ahmad Awais (email address *required*)
-
-
-#### Electron
-
-* [Electron Js - Build real desktop apps](https://youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - How To Code
-* [Electron js Tutorials](https://youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution
 
 
 ### Verilog / VHDL / SystemVerilog

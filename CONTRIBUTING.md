@@ -181,7 +181,7 @@ We're not that fussy about book-ness. Here are some attributes that signify that
 
 - it has an ISBN (International Standard Book Number)
 - it has a Table of Contents
-- a downloaded version, especially ePub, is offered
+- a downloadable version is offered, especially ePub files.
 - it has editions
 - it doesn't depend on interactive content or videos
 - it tries to comprehensively cover a topic

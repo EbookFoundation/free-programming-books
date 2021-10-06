@@ -316,7 +316,7 @@
 
 ### Regex
 
-* [RegExp Playground](https://projects.verou.me/regexplained)
+* [RegExp Playground](https://projects.verou.me/regexplained) - Lea Verou
 
 
 ### Ruby

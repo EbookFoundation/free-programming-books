@@ -1,8 +1,8 @@
 ### Index
 
 * [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
-  * [Reverse Engineering](#reverse-engineering)
 * [Android](#android)
+* [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
@@ -37,16 +37,16 @@
 * [SVN](https://pl.wikibooks.org/wiki/Subversion) - Wikibooks
 
 
-#### Reverse Engineering
-
-* [Inżynieria wsteczna dla początkujących](https://beginners.re/RE4B-PL.pdf) - Dennis Yurichev, Kateryna Rozanova, Aleksander Mistewicz, Wiktoria Lewicka, Marcin Sokołowski (PDF)
-
-
 ### Android
 
 * [O Androidzie ludzkim głosem](https://andrzejklusiewicz-android.blogspot.com/p/bezpatny-kurs-programowania-android-java.html) - Andrzej Klusiewicz
 * [O Androidzie ludzkim głosem](http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF)
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
+
+
+### Assembly
+
+* [Inżynieria wsteczna dla początkujących](https://beginners.re/RE4B-PL.pdf) - Dennis Yurichev, Kateryna Rozanova, Aleksander Mistewicz, Wiktoria Lewicka, Marcin Sokołowski (PDF)
 
 
 ### Bash

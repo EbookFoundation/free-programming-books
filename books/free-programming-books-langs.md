@@ -1261,7 +1261,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Svelte
 
-* [Learn the Svelte JavaScript Framework](https://www.youtube.com/watch?v=ujbE0mzX-CU) - Noah Glaser, freeCodeCamp (YouTube)
 * [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 
 

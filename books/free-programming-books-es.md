@@ -337,7 +337,7 @@
 
 #### Django
 
-* [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/) (1.11) (HTML) (:construction: *in process*)
+* [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/) (2.2.4) (HTML)
 
 
 #### Web2py

@@ -47,7 +47,6 @@
 
 ### <a name="csharp"></a>C#
 
-* [.NET fiddle](https://dotnetfiddle.net)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 

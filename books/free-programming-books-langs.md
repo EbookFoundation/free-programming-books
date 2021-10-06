@@ -99,6 +99,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Booty5.js](#booty5js)
   * [D3.js](#d3js)
   * [Dojo](#dojo)
+  * [Electron](#electron)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
   * [Express.js](#expressjs)
@@ -111,6 +112,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [React](#react)
   * [React Native](#react-native)
   * [Redux](#redux)
+  * [Svelte](#svelte)
   * [Vue.js](#vuejs)
 * [Jenkins](#jenkins)
 * [Julia](#julia)
@@ -132,6 +134,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Mercurial](#mercurial)
 * [Mercury](#mercury)
 * [Modelica](#modelica)
+* [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [Neo4J](#neo4j)
 * [.NET Core / .NET](#net-core)
@@ -642,10 +645,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Emacs
 
-* [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
+* [An Introduction to Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html)
 * [Emacs for the Modern World](https://www.finseth.com/craft/) (HTML)
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
-* [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf) (PDF)
+* [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html)
 
 
 ### Embedded Systems
@@ -762,8 +765,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 * [How to Collaborate on Github](https://github.com/eonist/How-to-collaborate-on-github) - André J
-* [Intoduction to Git and Github](https://launchschool.com/books/git) - Launch School
-* [Intoduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
+* [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
+* [Introduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
 * [Introduction to Git and GitHub eBook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 * [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
 * [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon
@@ -884,9 +887,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 * [HTML Dog Tutorials](http://www.htmldog.com)
 * [HTML5 Canvas](https://www.oreilly.com/library/view/html5-canvas/9781449308032/ch01.html) - Steve Fulton & Jeff Fulton
+* [HTML5 Canvas Notes for Professionals](https://goalkicker.com/HTML5CanvasBook/) - Compiled from StackOverflow documentation (PDF)
 * [HTML5 for Publishers](https://www.oreilly.com/library/view/html5-for-publishers/9781449320065/pr02.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
-* [HTML5 Notes for Professionals](http://goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (PDF)
+* [HTML5 Notes for Professionals](https://goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (PDF)
 * [HTML5 Quick Learning Guide](https://www.ossblog.org/wp-content/uploads/2017/06/html5-quick-learning-quide.pdf) - HTML5Templates (PDF)
 * [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat (HTML)
 * [Interneting is Hard (But it Doesn't Have to Be)](https://www.internetingishard.com) - Oliver James
@@ -1150,6 +1154,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Dojo: The Definitive Guide](https://www.oreilly.com/library/view/dojo-the-definitive/9780596516482/) - Matthew A. Russell
 
 
+#### Electron
+
+* [Electron Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/electron-succinctly) (PDF, Kindle) (email address requested, not required)
+
+
 #### Elm
 
 * [An Introduction to Elm](https://guide.elm-lang.org) (HTML)
@@ -1206,6 +1215,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
 * [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
 * [Mixu's Node Book](http://book.mixu.net/node/)
+* [Module Patterns](https://leanpub.com/modulepatterns) - Pedro Teixeira (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 * [Node Documentation](https://nodejs.org/en/docs/)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
 * [Node.js Notes for Professionals](http://goalkicker.com/NodeJSBook) - Compiled from StackOverflow Documentation (PDF)
@@ -1223,6 +1233,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/full-stack-react-projects) - Shama Hoque (Packt account *required*)
 * [Hacking with React](http://www.hackingwithreact.com)
+* [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [React-Bits](https://github.com/vasanthk/react-bits)
@@ -1256,6 +1267,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 * [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman  *(Leanpub account or valid email requested)*
+
+
+#### Svelte
+
+* [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 
 
 #### Vue.js
@@ -1457,6 +1473,16 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Modelica by Example](http://book.xogeny.com)
 
 
+### MongoDB
+
+* [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb) - Tutorials Point
+* [Learning MongoDB](https://riptutorial.com/Download/mongodb.pdf) - Based on Unaffiliated  Stack Overflow Documentation (PDF)
+* [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
+* [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/) - Compiled from StackOverflow Documentation (PDF)
+* [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
+* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
+
+
 ### MySQL
 
 * [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
@@ -1512,12 +1538,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [CouchDB: The Definitive Guide](http://guide.couchdb.org)
 * [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
 * [Graph Databases](http://graphdatabases.com)
-* [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb) - Tutorials Point
-* [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
-* [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/) - Compiled from StackOverflow Documentation (PDF)
-* [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
 * [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
-* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) - K. Seguin (PDF, Epub)
 
 
@@ -1838,7 +1859,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
 * [Slither into Python: An introduction to Python for beginners](https://www.slitherintopython.com) (3.7)
-* [Suporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
+* [Supporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Harry Percival (3.3 - 3.x)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
 * [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) - Al Sweigart

@@ -128,6 +128,7 @@
 * [Belajar Git](https://www.youtube.com/playlist?list=PLuGFxya63u24bmP-ILRaiGeMwZh3PGxW4) - Galih Pratama
 * [Belajar GIT (Source Code Management)](https://www.youtube.com/playlist?list=PL8bBYpHH3RI6BlCzFTMQvt7sGSycUj7S-) - Eka Putra, UpKoding (YouTube)
 * [Git & Github](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) - Sandhika Galih, Web Programming UNPAS (YouTube)
+* [Git Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_lYGV8hxqjtKmFA_xeLupq) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Source Code Management untuk Pemula](https://www.dicoding.com/academies/116) - Dicoding, membutuhkan registrasi
 * [Tutorial GIT Bahasa Indonesia Lengkap](https://www.youtube.com/playlist?list=PL1aMeb5UP_PHXTV_Xpt-19x_rVPXrymOM) - IDStack (YouTube)
 
@@ -157,6 +158,7 @@
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
 * [HTML5 Canvas](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teW5TsBQmD2MzLU5ryjXkVE) - Idr Corner
 * [HTML5 Dasar](https://www.buildwithangga.com/kelas/html5-dasar) - BuildWithAngga
+* [HTML5 Pemula Dasar](https://www.petanikode.com/html-dasar/) - petanikode
 
 
 ### Java
@@ -185,6 +187,7 @@
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
 * [JavaScript Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
+* [Tutorial programming dari nol (Javascript)](https://www.youtube.com/playlist?list=PLwF5TtGsdsBdTJdjzZp1Wdog1DNcHZdDu) - Pintar Programming (YouTube)
 
 
 #### AngularJS
@@ -266,6 +269,7 @@
 
 * [Belajar MySQL](https://www.youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_) - Indonesia Belajar
 * [Belajar MySQL/MariaDB](https://www.youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF) - Guntur Budi
+* [MYSQL Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_P2_2zR6pvDublvpD3fF6W) - Programmer Zaman Now (Youtube)
 
 
 ### PHP

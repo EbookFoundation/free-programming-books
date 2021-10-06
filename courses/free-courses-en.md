@@ -31,12 +31,14 @@
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
   * [D3.js](#d3js)
+  * [Electron](#electron)
   * [jQuery](#jquery)
   * [Next.js](#nextjs)
   * [NodeJS](#nodejs)
   * [React](#react)
   * [React Native](#react-native)
   * [Redux](#redux)
+  * [Svelte](#svelte)
   * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
@@ -95,6 +97,8 @@
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 * [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
 * [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri and Liz Izhikevich (Stepik)
+* [Data Structures and Algorithms](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) - CS Dojo
+* [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Programming with Mosh
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego, HSE University
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset - (freeCodeCamp)
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
@@ -107,7 +111,7 @@
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 * [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
-* [This is CS50x](https://cs50.harvard.edu/x/2020/) - David J. Malan (Harvard OpenCourseWare)
+* [This is CS50x](https://cs50.harvard.edu/x/2021) - David J. Malan (Harvard OpenCourseWare)
 
 
 ### Android
@@ -142,9 +146,9 @@
 
 ### Assembly
 
-* [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - LiveOverflow
-* [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
-* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
+* [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - LiveOverflow (YouTube)
+* [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html) - Matt Briggs (OpenSecurityTraining)
+* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html) - Xeno Kovah (OpenSecurityTraining)
 
 
 ### AutoIt
@@ -154,10 +158,10 @@
 
 ### Bash / Shell
 
-* [Bento Shell Track](https://bento.io/topic/shell) (Bento)
-* [How to CMake Good](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s)
-* [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
-* [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) (ProgrammingKnowledge)
+* [Bento Shell Track](https://bento.io/topic/shell) - Jon Chan (Bento)
+* [How to CMake Good](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s) - vector-of-bool (YouTube)
+* [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790) - The Bad Tutorials (YouTube)
+* [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) -  ProgrammingKnowledge (YouTube)
 
 
 ### Bootstrap
@@ -174,6 +178,7 @@
 
 ### C
 
+* [C Language Tutorial for Beginners (With Notes)](https://www.youtube.com/watch?v=_MF8L7ZxwRE) - ProgrammingWithHarry [youtube]
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
 * [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
@@ -238,6 +243,7 @@
 ### Databases
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
+* [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE) - Professor Immanuel Trummer, freeCodeCamp.org (YouTube)
 * [DML Server Administration](https://alison.com/course/databases-dml-statements-and-sql-server-administration-revised) - (Alison)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 * [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)
@@ -413,6 +419,7 @@
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
+* [Programming in Java](https://nptel.ac.in/courses/106/105/106105191/) - Prof. Debasis Samanta (NPTEL)
 * [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
 
@@ -432,6 +439,7 @@
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) -  Beau Carnes, freeCodeCamp.org (YouTube)
 * [Learn modern JavaScript](https://scrimba.com/learn/es6) - Beau Carnes (Scrimba) (Scrimba account *required*)
+* [Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript) - Raghavendra Dixit (Udemy)
 * [learn:query](https://learnquery.infinum.co)
 * [Namaste 🙏 JavaScript: An In-Depth JavaScript Fundamentals Course](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini (YouTube)
 * [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web) - Owen Astrachan, Robert Duvall, Andrew D. Hilton, Susan H. Rodger (Coursera)
@@ -452,6 +460,12 @@
 
 * [D3 101](https://www.youtube.com/playlist?list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb) - Curran Kelleher
 * [Learn D3](https://www.codecademy.com/learn/learn-d3) - Codecademy *(account required)*
+
+
+#### Electron
+
+* [Electron Js - Build real desktop apps](https://youtube.com/playlist?list=PLtWy6rdN1yBntIyLeNo-fCVR6AaK7vdyl) - Vishwas Gopinath, How To Code (YouTube)
+* [Electron js Tutorials](https://youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution (YouTube)
 
 
 #### jQuery
@@ -503,6 +517,12 @@
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
 
 
+#### Svelte
+
+* [Learn the Svelte JavaScript Framework](https://www.youtube.com/watch?v=ujbE0mzX-CU) - Noah Glaser, freeCodeCamp (YouTube)
+* [Svelte Tutorial](https://www.youtube.com/watch?v=vhGiGqZ78Rs) - Beau Carnes, freeCodeCamp (YouTube)
+
+
 #### Vue.js
 
 * [Internationalization with vue-i18n](https://vueschool.io/courses/internationalization-with-vue-i18n)
@@ -534,7 +554,6 @@
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
 * [Linux Administration Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik) - edureka!
 * [Linux Command Line](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
-* [Linux Operating System Fundamentals](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/) - Linux Academy (Udemy)
 * [Linux Tutorials and Projects](https://www.udemy.com/course/linux-tutorials/) - Jason Cannon (Udemy)
 * [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat, Inc. (Udemy)
 * [The Linux Basics: Beginner to Sysadmin, Step by Step](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
@@ -595,6 +614,7 @@
 * [Caltech's Learning From data](https://work.caltech.edu/telecourse.html)
 * [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
+* [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) - Brian Yu and David J. Malan (Harvard OpenCourseWare and EdX)
 * [Elements of AI](https://www.elementsofai.com)
 * [Embedded Software Safety](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) (P. Koopman)
 * [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic (:card_file_box: *archived*)
@@ -681,6 +701,7 @@
 * [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) (Coursera)
 * [Practical Python: An Immersive Python Course](https://practical.learnpython.dev) - Nina Zakharenko
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
+* [Programming, Data Structures And Algorithms Using Python](https://nptel.ac.in/courses/106/106/106106145/) - Prof. Madhavan Mukund (NPTEL)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python 3](https://www.sololearn.com/Course/Python/) (SoloLearn)
 * [Python And Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/course/coinmarketcap/) Ian Annase (Udemy)
@@ -708,6 +729,7 @@
 * [Django for Everybody](https://www.dj4e.com) - Charles R. Severence
 * [Django Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau) - Navin Reddy
 * [Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
+* [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr) - Programming With Harry(English)
 * [Python Django Tutorial 2018 for Beginners](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD) - Clever Programmer
 
 
@@ -818,7 +840,7 @@
 
 * [ASP.NET Core Tutorial For Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - Venkat (Pragim Technologies)
 * [Command Line Power User - for web developers](https://commandlinepoweruser.com) - WesBos (email address *required*)
-* [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) - Brian Yu,David J. Milan (edX Harvard CS50)
+* [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) - Brian Yu, David J. Malan (edX Harvard CS50)
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [Essential Nextjs Typescript Tailwind Stack](https://www.youtube.com/playlist?list=PLKEkvhqFCRwL94nLP-TdIfNmbiZk5FCMx) - Fireship, Ben Awad, Traversy Media, Devs Force
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)

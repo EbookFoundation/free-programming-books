@@ -148,12 +148,12 @@
 ### Artificial Intelligence
 
 * [AI Courses](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html) - Intel Corporation
-* [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) (F. Corno - L. De Russis - A. Monge Roffarello)
-* [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) - Brian Yu and David J. Malan (Harvard OpenCourseWare and EdX)
+* [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino
+* [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and EdX)
 * [Elements of AI](https://www.elementsofai.com) - University of Helsinki, Reaktor
-* [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) (Coursera)
+* [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
-* [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+* [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Prof. Patrick Henry Winston (MIT OpenCourseWare)
 
 
 ### Assembly

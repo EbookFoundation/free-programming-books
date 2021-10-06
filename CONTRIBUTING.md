@@ -24,7 +24,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 
 ### Guidelines
 - make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
-- we don't accept files hosted on google drive, dropbox, mega, scribd, issuu and other similar file upload platforms
+- we don't accept files hosted on Google Drive, Dropbox, Mega, Scribd, Issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning the author's website is better than the editor's website, which is better than a third party website)
     + no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)

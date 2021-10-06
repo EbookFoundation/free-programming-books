@@ -1,32 +1,53 @@
-# Code de conduite des contributeurs
+# Code de Conduite Contributeurs
 
-En tant que contributeurs et mainteneurs de ce projet, et dans le but de favoriser une communauté ouverte et accueillante, nous nous engageons à respecter toutes les personnes contribuant au project en signalant des problèmes, en postant des demandes de fonctionnalités, en mettant à jour la documentation, en soumettant des Pull Requests ou des correctifs, et autres activités.
+En tant que contributeurs et responsables de ce projet, et dans l'intérêt
+de favoriser une communauté ouverte et accueillante, nous nous engageons à
+respecter toutes les personnes qui contribuent en rapportant des erreurs,
+en postant des demandes de fonctionnalités nouvelles, en mettant à jour la
+documentation, en soumettant des _pull requests_ ou des correctifs, ainsi que
+toutes autres activités.
 
-Nous nous engageons à faire de la participation à ce projet une expérience exempte harcèlement, indépendamment du niveau d'expérience, du sexe, de l'identité et de l'expression de genre, de l'orientation sexuelle, du handicap, de l'apparence physique, de la corpulence, de la race, de l'ethnie, de l'âge, de la religion ou de la nationalité.
+Nous sommes déterminés à rendre toute participation à ce projet une
+expérience exempte de harcèlement pour tout le monde, quel que soit le niveau
+d'expérience, le sexe, l'identité ou l'expression de genre, l'orientation
+sexuelle, le handicap, l'apparence personnelle, la taille physique, la race,
+l'origine ethnique, l'âge, la religion ou la nationalité.
 
-Voici quelques exemples de comportements inacceptables :
+Exemples de comportements non acceptables :
 
--   L'utilisation de propos ou d'images à caractère sexuel.
--   Les attaques personnelles
--   Le trollage ou les commentaires insultants/dérogatoires
--   Le harcèlement public ou privé
--   La publication d'informations privées, telles que des adresses physiques ou électroniques, sans autorisation explicite.
--   Tout autre comportement contraire à l'éthique ou non professionnel.
+* l'utilisation de langage ou d'imagerie sexualisés ;
+* les attaques personnelles ;
+* le _trolling_, ou les commentaires insultants ou désobligeants ;
+* le harcèlement en public ou en privé ;
+* la publication d'informations privées de tierces personnes, 
+  telles que les adresses physiques ou électroniques, sans permission explicite ;
+* toute conduite non professionnelle ou contraire à l'éthique.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+Les mainteneurs du projet ont le droit et la responsabilité de supprimer,
+modifier ou rejeter les commentaires, _commits_, code, modifications du wiki,
+questions et autres contributions qui ne respectent pas ce Code de Conduite,
+ou de bannir temporairement ou définitivement tout contributeur à la suite
+d'autres comportements qu'ils jugent inappropriés, menaçants, injurieux,
+ou nuisibles.
 
-Les responsables du projet ont le droit et la responsabilité de supprimer, modifier ou rejeter tout commentaire, commit, code, modification du wiki, problème et contribution qui ne serait pas conforme au présent code de conduite, ou de bannir temporairement ou définitivement tout contributeur pour un comportement qu'ils jugent inapproprié, menaçant, offensant ou nuisible.
+En adoptant ce Code de Conduite, les mainteneurs du projet s'engagent à
+appliquer équitablement et uniformément ces principes à tous les aspects de
+la gestion de ce projet. Les mainteneurs de projets qui ne suivent pas ou ne
+font pas respecter le Code de Conduite peuvent être retirés de façon permanente
+de l'équipe de projet.
 
-En adoptant ce code de conduite, les responsables du projet s'engagent à appliquer ces principes de manière équitable et cohérente à tous les aspects de la gestion de ce projet. Les responsables qui ne respectent pas ou n'appliquent pas le code de conduite peuvent être définitivement exclus de l'équipe.
+Ce Code de Conduite s'applique à la fois au sein des espaces de projet
+ainsi que dans les espaces publics quand un individu représente le projet
+ou sa communauté.
 
-Ce code de conduite s'applique aussi bien au projet que dans les espaces publics lorsqu'un individu représente le projet lui-même ou sa communauté.
+Les instances de comportement abusif, harcelant ou autrement inacceptable
+peuvent être signalés en contactant un responsable de projet à
+victorfelder at gmail.com. Toutes les plaintes seront examinées et étudiées
+et se traduiront par une réponse jugée nécessaire et appropriée aux
+circonstances. Les mainteneurs s'obligent à garder confidentielles les
+informations de la personne qui remonte un incident.
 
-Les cas de comportement abusif, de harcèlement ou inacceptable peuvent être signalés en contactant un mainteneur du projet à l'adresse victorfelder [at] gmail.com. Toutes les plaintes seront examinées et étudiées et donneront lieu à une réponse jugée nécessaire et appropriée aux circonstances. Les responsables sont tenus de respecter la confidentialité à l'égard du rapporteur d'un incident.
-
-Ce code de conduite est adapté de la Convention des contributeurs, version 1.3.0, disponible à l'adresse https://www.contributor-covenant.org/fr/version/1/3/0/code-of-conduct/.
+Ce Code de Conduite est adaptée du [Contributor Covenant](https://.contributor-covenant.org),
+version 1.3.0, disponible à https://.contributor-covenant.org/fr/version/1/3/0/code-of-conduct.html
 
 [page d'accueil]: https://contributor-covenant.org

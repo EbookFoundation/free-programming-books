@@ -116,7 +116,7 @@
 #### Sistemas Operativos
 
 * [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf et al (PDF)
-* [Sistemas Operativos](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) - Dr. David Luis la Red (PDF)
+* [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - Dr. David Luis la Red (PDF)
 
 
 ### Android

@@ -49,7 +49,7 @@
 * [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html)
 * [Manual práctico de SQL](https://www.lawebdelprogramador.com/cursos/archivos/ManualPracticoSQL.pdf) - Álvaro E. García (PDF)
 * [Principios de SQL](https://programadorwebvalencia.com/cursos/sql/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
-
+* [Crear funciones en SQL Server](https://mahonrim.github.io/FuctionswithSQLServer/) - Mahonri Martinez (Programador Web/Estudiante de IT)
 
 ### Big Data
 
@@ -86,7 +86,7 @@
 ### Control de Versiones
 
 * [Git & GitHub](https://www.pildorasinformaticas.es/course/curso-de-git-github) - Juan Díaz (Píldoras Informáticas)
-
+* [Git & GitHub](https://www.youtube.com/watch?v=L_lWQZNhN7w&list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls) -  Ignacio Gutiérrez  (BlueWeb)
 
 ### Flujos de Trabajo
 

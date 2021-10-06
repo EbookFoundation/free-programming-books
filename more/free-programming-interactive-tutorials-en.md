@@ -47,32 +47,32 @@
 
 ### Ada
 
-* [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+* [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Adacore
 
 
 ### Android
 
 * [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
-* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial)
+* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
 
 
 ### Bash
 
-* [Help messages will explain everything](https://explainshell.com)
-* [Learn Shell Programming](http://www.learnshell.org)
+* [Help messages will explain everything](https://explainshell.com) - explainshell
+* [Learn Shell Programming](http://www.learnshell.org) - learnshell
 
 
 ### C
 
-* [Learn C](http://www.learn-c.org)
+* [Learn C](http://www.learn-c.org) - Learn-C
 
 
 ### C Sharp
 
 * [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
-* [Codeasy](https://codeasy.net/course/csharp_elementary)
-* [Learn C#](http://www.learncs.org)
+* [Codeasy](https://codeasy.net/course/csharp_elementary) - codeasy
+* [Learn C#](http://www.learncs.org) - learnCS
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
@@ -85,7 +85,7 @@
 ### Clojure
 
 * [4Clojure - Koans](http://www.4clojure.com)
-* [Clojure Koans](http://clojurekoans.com)
+* [Clojure Koans](http://clojurekoans.com) - Clojure Koans
 * [ClojureScript Koans](http://clojurescriptkoans.com)
 * [Try Clojure](http://www.tryclj.com)
 
@@ -107,7 +107,7 @@
 
 ### Dart
 
-* [Dart Official Codelabs](https://dart.dev/codelabs)
+* [Dart Official Codelabs](https://dart.dev/codelabs) - Dart
 
 
 ### Data Science

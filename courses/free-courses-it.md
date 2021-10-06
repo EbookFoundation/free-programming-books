@@ -126,6 +126,7 @@
 ### Java
 
 * [Algoritmi e Strutture Dati Java](http://www.vitoantoniobevilacqua.it/wiki/index.php?title=Pagina_principale#Dispense_di_Algoritmi_e_Strutture_Dati_in_Java) - V. Bevilacqua (Politecnico di Bari)  
+* [Design Patterns in Java](https://www.youtube.com/playlist?list=PLCbSCJEIR6Cq-ac90TGvJ8Wo8TtyZ4nhu) (M. Cicolella)
 * [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) (M. Cicolella)
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) (S. Zorba)
 * [Programmazione a Oggetti (Java)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kewGZIHpCDgarZER_-J1am) (M. Torchiano)

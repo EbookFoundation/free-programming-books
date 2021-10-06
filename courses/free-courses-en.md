@@ -31,12 +31,14 @@
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
   * [D3.js](#d3js)
+  * [Electron](#electron)
   * [jQuery](#jquery)
   * [Next.js](#nextjs)
   * [NodeJS](#nodejs)
   * [React](#react)
   * [React Native](#react-native)
   * [Redux](#redux)
+  * [Svelte](#svelte)
   * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
@@ -144,9 +146,9 @@
 
 ### Assembly
 
-* [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - LiveOverflow
-* [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
-* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
+* [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - LiveOverflow (YouTube)
+* [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html) - Matt Briggs (OpenSecurityTraining)
+* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html) - Xeno Kovah (OpenSecurityTraining)
 
 
 ### AutoIt
@@ -156,10 +158,10 @@
 
 ### Bash / Shell
 
-* [Bento Shell Track](https://bento.io/topic/shell) (Bento)
-* [How to CMake Good](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s)
-* [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
-* [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) (ProgrammingKnowledge)
+* [Bento Shell Track](https://bento.io/topic/shell) - Jon Chan (Bento)
+* [How to CMake Good](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s) - vector-of-bool (YouTube)
+* [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790) - The Bad Tutorials (YouTube)
+* [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) -  ProgrammingKnowledge (YouTube)
 
 
 ### Bootstrap
@@ -437,6 +439,7 @@
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) -  Beau Carnes, freeCodeCamp.org (YouTube)
 * [Learn modern JavaScript](https://scrimba.com/learn/es6) - Beau Carnes (Scrimba) (Scrimba account *required*)
+* [Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript) - Raghavendra Dixit (Udemy)
 * [learn:query](https://learnquery.infinum.co)
 * [Namaste 🙏 JavaScript: An In-Depth JavaScript Fundamentals Course](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini (YouTube)
 * [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web) - Owen Astrachan, Robert Duvall, Andrew D. Hilton, Susan H. Rodger (Coursera)
@@ -457,6 +460,12 @@
 
 * [D3 101](https://www.youtube.com/playlist?list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb) - Curran Kelleher
 * [Learn D3](https://www.codecademy.com/learn/learn-d3) - Codecademy *(account required)*
+
+
+#### Electron
+
+* [Electron Js - Build real desktop apps](https://youtube.com/playlist?list=PLtWy6rdN1yBntIyLeNo-fCVR6AaK7vdyl) - Vishwas Gopinath, How To Code (YouTube)
+* [Electron js Tutorials](https://youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution (YouTube)
 
 
 #### jQuery
@@ -506,6 +515,12 @@
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
+
+
+#### Svelte
+
+* [Learn the Svelte JavaScript Framework](https://www.youtube.com/watch?v=ujbE0mzX-CU) - Noah Glaser, freeCodeCamp (YouTube)
+* [Svelte Tutorial](https://www.youtube.com/watch?v=vhGiGqZ78Rs) - Beau Carnes, freeCodeCamp (YouTube)
 
 
 #### Vue.js
@@ -714,6 +729,7 @@
 * [Django for Everybody](https://www.dj4e.com) - Charles R. Severence
 * [Django Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau) - Navin Reddy
 * [Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
+* [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr) - Programming With Harry(English)
 * [Python Django Tutorial 2018 for Beginners](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD) - Clever Programmer
 
 

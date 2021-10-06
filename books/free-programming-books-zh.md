@@ -26,6 +26,7 @@
   * [WEB服务器](#web服务器)
 * [语言相关](#语言相关)
   * [Android](#android)
+  * [Assembly](#assembly)
   * [AWK](#awk)
   * [C](#c)
   * [C#](#c-sharp)
@@ -82,7 +83,6 @@
   * [VBA](#vba-microsoft-visual-basic-applications)
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
-  * [WebAssembly](#webassembly)
 
 
 ## 语言无关
@@ -318,6 +318,11 @@
 * Google Material Design 正體中文版 ([译本一](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html)，[译本二](https://github.com/1sters/material_design_zh))
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android)
+
+
+### Assembly
+
+* [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book/tree/master/zh) - Ending, Chai Shushan (HTML, [:package: examples](https://github.com/3dgen/cppwasm-book/tree/master/examples))
 
 
 ### AWK
@@ -791,8 +796,3 @@
 
 * [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
 * [Visual Prolog 7初学指南](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog_in_Chinese)
-
-
-### WebAssembly
-
-* [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book)

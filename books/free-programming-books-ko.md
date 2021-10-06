@@ -1,6 +1,5 @@
 ### Index
 
-* [수학](#%EC%88%98%ED%95%99)
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
 * [C](#c)
@@ -14,6 +13,8 @@
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Mathematics](#mathematics)
+* [Operation System](#operation-system)
 * [Perl](#perl)
 * [PHP](#php)
   * [Laravel](#laravel)
@@ -26,11 +27,6 @@
 * [Rust](#rust)
 * [Scratch](#scratch)
 * [Swift](#swift)
-
-
-### 수학
-
-* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/) - William Stein
 
 
 ### Amazon Web Service
@@ -104,6 +100,16 @@
 
 * [리눅스 서버를 다루는 기술](https://thebook.io/006718/)
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
+
+
+### Mathematics
+
+* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
+
+
+### Operation System
+
+* [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi Arpacidusseau (PDF)
 
 
 ### Perl

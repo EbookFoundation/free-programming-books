@@ -183,6 +183,7 @@
 
 ### HTML & CSS
 
+* [99 tips para Web Development](https://fmontes.gumroad.com/l/99tips) - Freddy Montes (PDF) (se solicita email)
 * [CSS avanzado](http://librosweb.es/libro/css_avanzado) Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
 * [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado) (PDF)
 * [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) (HTML)

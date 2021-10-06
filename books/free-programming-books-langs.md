@@ -99,6 +99,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Booty5.js](#booty5js)
   * [D3.js](#d3js)
   * [Dojo](#dojo)
+  * [Electron](#electron)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
   * [Express.js](#expressjs)
@@ -1149,6 +1150,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Dojo
 
 * [Dojo: The Definitive Guide](https://www.oreilly.com/library/view/dojo-the-definitive/9780596516482/) - Matthew A. Russell
+
+
+#### Electron
+
+* [Electron Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/electron-succinctly) (PDF, Kindle) (email address requested, not required)
 
 
 #### Elm

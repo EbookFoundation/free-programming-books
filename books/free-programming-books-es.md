@@ -92,6 +92,7 @@
 #### Ciencia Computacional
 
 * [Breves Notas sobre Autómatas y Lenguajes](http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
+* [Breves Notas sobre Complejidad](https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) (PDF)
 * [Breves Notas sobre Teoría de la Computación](http://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 
 

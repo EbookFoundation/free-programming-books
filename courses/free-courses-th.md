@@ -4,7 +4,6 @@
 * [C#](#c-sharp)
 * [C++](#cpp)
 * [Git](#git)
-* [Go](#go)
 * [JavaScript](#javascript)
   * [NodeJS](#nodejs)
   * [React](#react)

@@ -314,8 +314,9 @@
 * [R Tutorial](https://www.w3schools.com/r) - W3Schools
 
 
-### Regex
+### Regular Expressions
 
+* [Regex Crossword](https://regexcrossword.com)
 * [RegExp Playground](https://projects.verou.me/regexplained) - Lea Verou
 
 

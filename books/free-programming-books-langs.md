@@ -133,6 +133,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Mercurial](#mercurial)
 * [Mercury](#mercury)
 * [Modelica](#modelica)
+* [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [Neo4J](#neo4j)
 * [.NET Core / .NET](#net-core)
@@ -1466,6 +1467,16 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Modelica by Example](http://book.xogeny.com)
 
 
+### MongoDB
+
+* [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb) - Tutorials Point
+* [Learning MongoDB](https://riptutorial.com/Download/mongodb.pdf) - Based on Unaffiliated  Stack Overflow Documentation (PDF)
+* [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
+* [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/) - Compiled from StackOverflow Documentation (PDF)
+* [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
+* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
+
+
 ### MySQL
 
 * [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
@@ -1521,12 +1532,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [CouchDB: The Definitive Guide](http://guide.couchdb.org)
 * [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
 * [Graph Databases](http://graphdatabases.com)
-* [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb) - Tutorials Point
-* [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
-* [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/) - Compiled from StackOverflow Documentation (PDF)
-* [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
 * [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
-* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) - K. Seguin (PDF, Epub)
 
 

@@ -83,6 +83,7 @@
 * [Anarchy Golf](http://golf.shinh.org)
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
+* [Codechef](https://www.codechef.com/problems/school)
 * [Codeforces](http://codeforces.com/problemset)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)

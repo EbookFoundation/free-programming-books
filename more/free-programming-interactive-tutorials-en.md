@@ -40,6 +40,7 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
+* [Solidity](#solidity)
 * [Selenium](#selenium)
 * [SQL](#sql)
 * [Vim](#vim)
@@ -337,6 +338,11 @@
 ### Selenium
 
 * [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
+
+
+### Solidity
+
+* [cryptozombies.io/](https://cryptozombies.io/)
 
 
 ### SQL

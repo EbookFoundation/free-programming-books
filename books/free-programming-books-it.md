@@ -4,7 +4,6 @@
   * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
   * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
   * [Open source](#open-source)
-  * [Reverse Engineering](#reverse-)
   * [Sistemi](#sistemi)
   * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
@@ -58,11 +57,6 @@
 * [Open Source - Analisi di un movimento](http://www.apogeonline.com/2002/libri/88-503-1065-X/ebook/pdf/OpenSource.pdf) - N. Bassi (PDF)
 
 
-#### Reverse Engineering
-
-* [Reverse Engineering per Principianti]() - Dennis Yurichev, Federico Ramondino, Paolo Stivanin, Fabrizio Bertone, Matteo Sticco, Marco Negro et al. (PDF)
-
-
 #### Sistemi
 
 * [Programmazione di Sistema in Linguaggio C - Esempi ed esercizi](https://www.disi.unige.it/person/DelzannoG/BIOMED/Programmazione-C/dispense_avanzate_C.pdf) - V. Gervasi, S. Pelagatti, S. Ruggieri, F. Scozzari, A. Sperduti (PDF)
@@ -85,6 +79,7 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+* [Reverse Engineering per Principianti](https://beginners.re/RE4B-IT.pdf) - Dennis Yurichev, Federico Ramondino, Paolo Stivanin, Fabrizio Bertone, Matteo Sticco, Marco Negro et al. (PDF)
 
 
 ### BASH

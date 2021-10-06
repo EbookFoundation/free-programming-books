@@ -40,8 +40,8 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
-* [Solidity](#solidity)
 * [Selenium](#selenium)
+* [Solidity](#solidity)
 * [SQL](#sql)
 * [Vim](#vim)
 

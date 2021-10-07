@@ -139,6 +139,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework) (PDF, HTML)
 * [Azure for Architects, Third Edition](https://azure.microsoft.com/en-us/resources/azure-for-architects/) (PDF) *(email address or account required)*
 * [Azure Functions Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly) (PDF, Kindle) (email address requested, not required)
+* [Building Microservices: Designing Fine-Grained Systems](http://ce.sharif.edu/courses/96-97/1/ce924-1/resources/root/Books/building-microservices-designing-fine-grained-systems.pdf) - Sam Newman (PDF)
 * [Cloud Computing for Science and Engineering](https://cloud4scieng.org/chapters/) - Ian Foster, Dennis B. Gannon (:construction: *in process*)
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
@@ -150,7 +151,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [OpenStack Operations Guide](https://docs.openstack.org/ops-guide/index.html)
 * [Streamline microservice management with Istio Service Mesh](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/) *(account required)*
 * [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
-* [Building Microservices: Designing Fine-Grained Systems](http://ce.sharif.edu/courses/96-97/1/ce924-1/resources/root/Books/building-microservices-designing-fine-grained-systems.pdf) - Sam Newman (PDF)
 
 
 ### Competitive Programming

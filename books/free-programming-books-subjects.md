@@ -197,7 +197,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
-* [Kubernetes Patterns](https://static.it-training.pro/wp-content/uploads/2020/11/07230528/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf) - Bilgin Ibryam and Roland Huß (PDF)
+* [Kubernetes Patterns](https://developers.redhat.com/books/kubernetes-patterns) - Bilgin Ibryam and Roland Huß *(RedHat account or valid email requested)*
 
 
 ### Database

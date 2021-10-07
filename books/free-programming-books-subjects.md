@@ -366,6 +366,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, and Elyse Yeager
 * [CLP-4 Vector Calculus](https://www.math.ubc.ca/~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, and Elyse Yeager
 * [Collaborative Statistics](http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
+* [College Trigonometry](https://open.umn.edu/opentextbooks/textbooks/college-trigonometry) - Carl Stitz, Jeff Zeager (PDF)
 * [Combinatorics Through Guided Discovery](https://bogart.openmathbooks.org) - Kenneth Bogart
 * [Complex Analysis](https://people.math.gatech.edu/~cain/winter99/complex.html) - George Cain
 * [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com)

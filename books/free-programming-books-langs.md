@@ -107,6 +107,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Ionic](#ionic)
   * [jQuery](#jquery)
   * [meteor](#meteor)
+  * [Next.js](#next.js)
   * [Node.js](#nodejs)
   * [Om](#om)
   * [React](#react)
@@ -1209,6 +1210,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Meteor
 
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
+
+
+#### Next.js
+
+* [Mastering Next.js](https://masteringnextjs.com)
+* [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (HTML, PDF) *(email required for PDF)*
 
 
 #### Node.js

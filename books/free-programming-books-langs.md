@@ -1203,8 +1203,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Next.js
 
-* [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (HTML; *email required for PDF*)
 * [Mastering Next.js](https://masteringnextjs.com)
+* [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (HTML; *email required for PDF*)
 
 
 #### Node.js

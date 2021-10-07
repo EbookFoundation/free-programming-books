@@ -142,6 +142,7 @@
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [Ebook ReactJS Bahasa Indonesia](https://portalebookshare.blogspot.com/2016/11/e-book-reactjs-bahasa-indonesia.html)
 
+
 ### TypeScript
 
 * [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*

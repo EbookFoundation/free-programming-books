@@ -4,6 +4,7 @@
 * [HTML/CSS](#html/css)
 * [Javascript](#javascript)
 * [PHP](#php)
+* [Python](#python)
 
 
 ### Деңгейлер
@@ -31,4 +32,10 @@ ADVANCED - дамытушы. Детальді кодты үйрену.
 ### PHP
 
 * [PHP. Веб-дизайнның динамикалық базасының құрылуы.](https://bilgen.academy/course/view.php?id=508)  (BEGINNER)
+
+
+### Python
+
+* [Python тiлiнде бағдарламалау негiздерi.](https://openu.kz/kz/courses/python-tilinde-badarlamalau-negizderi) - Жасдәурен Дүйсебеков (Қазақстанның ашық университеті) *(тіркелуді талап етпейді)*
+
 

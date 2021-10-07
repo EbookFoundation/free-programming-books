@@ -546,7 +546,7 @@
 
 ### Kubernetes
 
-* [Kubernetes Academy](https://kube.academy) - KubeAcademy (VMware)
+* [Kubernetes Core Concepts](https://kube.academy/paths/kubernetes-core-concepts) - KubeAcademy (VMware)
 * [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
 
 

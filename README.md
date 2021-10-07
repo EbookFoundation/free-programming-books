@@ -87,7 +87,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [Hindi / हिंदी](courses/free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](courses/free-courses-id.md)
 + [Italian / italiano](courses/free-courses-it.md)
-+ [Khazakh / қазақша](courses/free-courses-kk.md)
++ [Kazakh / қазақша](courses/free-courses-kk.md)
 + [Korean / 한국어 [韓國語]](courses/free-courses-ko.md)
 + [Persian / Farsi (Iran) / فارسى](courses/free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](courses/free-courses-pl.md)

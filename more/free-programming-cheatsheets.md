@@ -48,7 +48,7 @@
 
 ### <a name="c-sharp"></a>C#
 
-* [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Free Cheat Sheets (HTML)
+* [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
 
 
 ### <a name="cpp"></a>C++

@@ -90,6 +90,7 @@
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
+* [Class Central](https://www.classcentral.com)
 
 
 ### Algorithms & Data Structures
@@ -187,6 +188,7 @@
 * [Learn Bootstrap 4 for free](https://scrimba.com/learn/bootstrap4) - Neil Rowe (Scrimba)
 * [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
 * [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
+* [Bootstrap 5 Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) - The Net Ninja
 
 
 ### C
@@ -236,6 +238,7 @@
 * [Dart Course for Beginners](https://www.udemy.com/course/dartlang) (Udemy)
 * [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) - Mahmud Ahsan (FreeCodeCamp)
 * [Dart Programming Tutorial \| Learn the Dart for Flutter](https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter) (Udemy)
+* [Dart Programming - Full Beginners Tutorial](https://www.youtube.com/watch?v=5xlVP04905w) - Mike Dane
 
 
 ### Data Science
@@ -307,6 +310,7 @@
 * [Docker Tutorial Videos \| DevOps Tool](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) - edureka!
 * [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
 * [Learn Docker, Container Runtimes, Builders and Registries](https://www.katacoda.com/courses/container-runtimes) - Katacoda
+* [Docker Tutorial for Beginners ](https://www.youtube.com/watch?v=3c-iBn73dDE) - TechWorld with Nana
 
 
 ### Flutter
@@ -457,6 +461,7 @@
 * [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web) - Owen Astrachan, Robert Duvall, Andrew D. Hilton, Susan H. Rodger (Coursera)
 * [Understanding RxJS](https://youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi) - Academind
 * [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - Brad Traversy, Traversy Media (YouTube)
+* [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA) - Clever Programmer
 
 
 #### AngularJS
@@ -500,6 +505,7 @@
 * [Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY) - John Smilga, Coding Addict (YouTube)
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
+* [Node.js Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) - The Net Ninja
 
 
 #### React
@@ -512,6 +518,7 @@
 * [ReactJS Basics](https://www.youtube.com/playlist?list=PLe30vg_FG4OSw8SIcLVci-jB_-W1ZkLYp) - Bitfumes
 * [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - Codevolution
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
+* [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
 
 
 #### React Native
@@ -559,6 +566,7 @@
 ### Kubernetes
 
 * [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
+* [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do) - TechWorld with Nana
 
 
 ### Linux
@@ -728,6 +736,7 @@
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
+* [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) - Tech With Tim
 
 
 #### Django
@@ -737,6 +746,7 @@
 * [Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
 * [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr) - Programming With Harry(English)
 * [Python Django Tutorial 2018 for Beginners](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD) - Clever Programmer
+* [Python Django Tutorial 2021](https://www.youtube.com/playlist?list=PL-51WBLyFTg1pUMaTJ4WSgnyvWfLGmwDm) - Dennis Ivy
 
 
 #### Flask
@@ -828,6 +838,7 @@
 * [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 * [Angular for Beginners](https://www.udemy.com/course/angular-for-beginners-course/) - Angular University (Udemy)
 * [Angular Tutorial For Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) - Codevolution (YouTube)
+* [Angular 12 Crash Course](https://www.youtube.com/watch?v=LA_v8isNp5E) - Awais Mirza
 
 
 #### Deno

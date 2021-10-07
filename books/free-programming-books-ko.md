@@ -148,6 +148,7 @@
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
 * [실용 파이썬 프로그래밍: 프로그래밍 유경험자를 위한 강좌 ](https://wikidocs.net/book/4673) - 최용
 
+
 #### Django
 
 * [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)

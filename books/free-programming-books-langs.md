@@ -1021,9 +1021,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Solidity
 
-* [The Solidity Reference Guide](https://docs.soliditylang.org/en/v0.8.9/)
-* [Solidity interactive tutorials](https://cryptozombies.io/en/course/)
 * [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/index.htm)
+* [Solidity interactive tutorials](https://cryptozombies.io/en/course/)
+* [The Solidity Reference Guide](https://docs.soliditylang.org/en/v0.8.9/)
 
 
 #### Spring

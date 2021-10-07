@@ -65,6 +65,7 @@
 ### Competitive Programming
 
 * [Dynamic Programming Book](https://dp-bn.github.io) - Tasmeem Reza and Mamnoon Siam
+* [Online Judge in Bangla](https://dimikoj.com) - Tamim Shahriar Subeen
 
 
 ### CSS

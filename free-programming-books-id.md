@@ -24,7 +24,7 @@
 
 * [Mengenal Javascript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](http://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/)
-* [7 Jurus Baru Javascript](https://arrowfunxtion.com/download-ebook-7-jurus-baru-javascript/) - PDF (Membutuhkan email yang valid)
+* [7 Jurus Baru Javascript](https://arrowfunxtion.com/download-ebook-7-jurus-baru-javascript/) - PDF (Membutuhkan email yang valid/email requested)
 
 
 ### NoSQL
@@ -37,5 +37,5 @@
 * [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
 
 ### react
-* [Ebook ReactJS untuk jQuery Developer](https://arrowfunxtion.com/download-ebook-reactjs-untuk-jquery-developer) - PDF (Membutuhkan email yang valid)
+* [Ebook ReactJS untuk jQuery Developer](https://arrowfunxtion.com/download-ebook-reactjs-untuk-jquery-developer) - PDF (Membutuhkan email yang valid/email requested)
 * [Tutorial ReactJS Interactive](http://react.arrowfunxtion.com)

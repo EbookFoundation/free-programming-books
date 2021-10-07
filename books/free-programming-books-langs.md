@@ -1018,8 +1018,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
 
+
 #### Solidity
+
 * [The Solidity Reference Guide](https://docs.soliditylang.org/en/v0.8.9/)
+
 
 #### Spring
 

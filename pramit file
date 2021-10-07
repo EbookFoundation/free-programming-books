@@ -1,0 +1,33 @@
+#include<iostream>
+using namespace std;
+ void printarry(int* a,int n)
+ {
+     for(int i=0;i<n;i++)
+     {
+         cout<<a[i]<<" ";
+     }
+     cout<<endl;
+ }
+ void insertionsort(int* a,int n)
+ {
+     int key,j;
+     for(int i=1;i<=n-1;i++)
+     {
+         key=i;
+         j=i-1;
+         while(j>=0 && a[j]>key)
+         {
+            a[j+1]=a[j];
+            j--;
+         }
+        a[j+1]=key;
+     }
+ }
+int main(){
+    int a[]={5,4,2,3,1};
+    int n=5;
+    printarry(a,n);
+    insertionsort(a,n);
+    printarry(a,n);
+    return 0;
+}

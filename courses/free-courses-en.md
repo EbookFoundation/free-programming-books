@@ -305,8 +305,8 @@
 
 ### Docker
 
-* [Docker Tutorial for Beginners ](https://www.youtube.com/watch?v=3c-iBn73dDE) - TechWorld with Nana
 * [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
+* [Docker Tutorial for Beginners ](https://www.youtube.com/watch?v=3c-iBn73dDE) - TechWorld with Nana
 * [Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm) - TutorialsPoint
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - FreeCodeCamp
 * [Docker Tutorial Videos \| DevOps Tool](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) - edureka!
@@ -444,8 +444,8 @@
 
 ### JavaScript
 
-* [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA) - Clever Programmer
 * [Beginner's Series to: JavaScript](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer (YouTube)
+* [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA) - Clever Programmer
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
 * [Egghead.io](https://egghead.io)
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath (YouTube)
@@ -567,8 +567,8 @@
 
 ### Kubernetes
 
-* [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do) - TechWorld with Nana
 * [Kubernetes Core Concepts](https://kube.academy/paths/kubernetes-core-concepts) - KubeAcademy (VMware)
+* [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do) - TechWorld with Nana
 * [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
 
 
@@ -700,8 +700,8 @@
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
 * [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
-* [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) - Tech With Tim
 * [Berkeley's Structure and Interpretation of Computer Programs](https://cs61a.org)
+* [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) - Tech With Tim
 * [Codesdope](https://www.codesdope.com/python-introduction)
 * [Fork Python](https://practice.geeksforgeeks.org/courses/fork-python) (GeeksForGeeks)
 * [Google's Python Course](https://developers.google.com/edu/python/)

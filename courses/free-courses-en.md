@@ -670,6 +670,12 @@
 * [PHP Programming Language Tutorial - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c) - freeCodeCamp.org (2018)
 * [PHP Tutorial](https://www.tutorialrepublic.com/php-tutorial/) - TutorialRepublic
 * [PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) - Dani Krossing
+* [PHP (& MySQL) Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o) - The Net Ninja (Shaun Pelling)
+* [PHP OOP (Object Oriented) Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy) - The Net Ninja (Shaun Pelling)
+* [PHP For Beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk_fFEWydZJLiXpc9nB1qfpi) - Code with Dary
+* [Object-Oriented PHP For Beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV) - Code with Dary
+* [Use PHP to Create an MVC](https://www.youtube.com/watch?v=6ERdu4k62wI) - FreeCodeCamp
+* [Learn PHP from Scratch](https://www.educative.io/courses/learn-php-from-scratch) - Educative
 
 
 ### PLC - Programmable logic controllers

@@ -110,7 +110,7 @@
 * [Пособие по Ansible](https://github.com/freetonik/ansible-tuto-rus) - Michel Blanc
 
 
-#### Open Source Ecosystem
+#### Экосистема открытого исходного кода
 
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
 

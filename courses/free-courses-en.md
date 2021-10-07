@@ -76,6 +76,7 @@
 
 ### 0 - MOOC
 
+* [Class Central](https://www.classcentral.com)
 * [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org)
 * [Datacamp](https://www.datacamp.com)
@@ -90,8 +91,6 @@
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
-* [Class Central](https://www.classcentral.com)
-
 
 ### Algorithms & Data Structures
 
@@ -151,6 +150,7 @@
 
 * [AI Courses](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html) - Intel Corporation
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino
+* [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering (Youtube)
 * [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and EdX)
 * [Elements of AI](https://www.elementsofai.com) - University of Helsinki, Reaktor
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
@@ -364,6 +364,7 @@
 * [Golang Tutorial - Learn Go Programming Language](https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/) - GeeksforGeeks
 * [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com) - Jon Calhoun (email address *required*)
 * [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) - FreeCodeCamp
+* [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
 
 
 ### Haskell
@@ -566,6 +567,7 @@
 ### Kubernetes
 
 * [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do) - TechWorld with Nana
+* [Kubernetes Core Concepts](https://kube.academy/paths/kubernetes-core-concepts) - KubeAcademy (VMware)
 * [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
 
 ### Linux

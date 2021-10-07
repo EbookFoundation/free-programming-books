@@ -546,8 +546,8 @@
 
 ### Kubernetes
 
+* [Kubernetes Academy](https://kube.academy) - KubeAcademy (VMware)
 * [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
-* [Kubernetes Academy](https://kube.academy/) - KubeAcademy (VMware)
 
 
 ### Linux

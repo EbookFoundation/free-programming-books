@@ -114,3 +114,4 @@
 * [Timus Online Judge](http://acm.timus.ru)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
+* [Школа программиста](https://acmp.ru)

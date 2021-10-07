@@ -3,7 +3,7 @@
 * [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#c)
-* [C#](#csharp)
+* [C#](#c-sharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Data Science](#data-science)

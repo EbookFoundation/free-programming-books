@@ -597,6 +597,7 @@
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Introduction to Machine Learning](https://www.youtube.com/c/NormalizedNerd) - Youtube Playlist/Channel
 
 
 ### Markdown
@@ -862,3 +863,6 @@
 * [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
 * [Web Devevelopment Tutorials for Beginners](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) - LearnCode.academy
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
+
+### Extended Reality - AR/VR/MR/XR
+* [XRDI](https://www.youtube.com/c/XRDItv) - YouTube Extended Reality Developers of India

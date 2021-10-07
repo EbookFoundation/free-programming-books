@@ -304,8 +304,8 @@
 
 ### Docker
 
-* [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
 * [Docker Tutorial for Beginners ](https://www.youtube.com/watch?v=3c-iBn73dDE) - TechWorld with Nana
+* [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
 * [Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm) - TutorialsPoint
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - FreeCodeCamp
 * [Docker Tutorial Videos \| DevOps Tool](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) - edureka!
@@ -443,8 +443,8 @@
 
 ### JavaScript
 
-* [Beginner's Series to: JavaScript](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer (YouTube)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA) - Clever Programmer
+* [Beginner's Series to: JavaScript](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer (YouTube)
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
 * [Egghead.io](https://egghead.io)
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath (YouTube)
@@ -511,8 +511,8 @@
 
 #### React
 
-* [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
+* [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)
 * [React](https://progate.com/languages/react) (progate) *(account required)*
 * [React basic in just 1 hour](https://www.udemy.com/course/react-basic-in-just-1-hour/) (Udemy)
 * [React Crash Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) - freecodecamp
@@ -569,6 +569,7 @@
 * [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do) - TechWorld with Nana
 * [Kubernetes Core Concepts](https://kube.academy/paths/kubernetes-core-concepts) - KubeAcademy (VMware)
 * [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
+
 
 ### Linux
 
@@ -832,10 +833,9 @@
 #### Angular
 
 > :information_source: See also &#8230; [AngularJS](#angularjs)
-
+* [Angular 12 Crash Course](https://www.youtube.com/watch?v=LA_v8isNp5E) - Awais Mirza
 * [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) - codedamn (YouTube)
 * [Angular Courses](https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT) - Programming with Mosh (YouTube)
-* [Angular 12 Crash Course](https://www.youtube.com/watch?v=LA_v8isNp5E) - Awais Mirza
 * [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8) - Brad Traversy, Traversy Media (YouTube)
 * [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 * [Angular for Beginners](https://www.udemy.com/course/angular-for-beginners-course/) - Angular University (Udemy)

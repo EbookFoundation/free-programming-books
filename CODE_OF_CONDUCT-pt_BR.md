@@ -43,6 +43,6 @@ considerada necessária e apropriada às circunstâncias.  Mantenedores são
 obrigados a manter confidencialidade em relação ao relator do incidente.
 
 Este Código de Conduta é uma adaptação de [Contributor Covenant][homepage],
-versão 1.3.0, disponível em https://contributor-covenant.org/version/1/3/0/
+versão 1.3.0, disponível em https://www.contributor-covenant.org/pt-br/version/1/3/0/code-of-conduct/
 
 [homepage]: https://contributor-covenant.org

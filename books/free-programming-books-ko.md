@@ -1,9 +1,9 @@
 ### Index
 
-* [Index](#index)
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
 * [C](#c)
+* [C++](#cpp)
 * [Docker](#docker)
 * [Elastic](#elastic)
 * [GIT](#git)
@@ -27,6 +27,7 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scratch](#scratch)
+* [Swift](#swift)
 * [Unicode](#unicode)
 
 
@@ -146,7 +147,6 @@
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
 * [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
-* [실용 파이썬 프로그래밍: 프로그래밍 유경험자를 위한 강좌 ](https://wikidocs.net/book/4673) - 최용
 
 
 #### Django
@@ -189,3 +189,5 @@
 ### Unicode
 
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
+
+

@@ -47,7 +47,7 @@ et se traduiront par une réponse jugée nécessaire et appropriée aux
 circonstances. Les mainteneurs s'obligent à garder confidentielles les
 informations de la personne qui remonte un incident.
 
-Ce Code de Conduite est adaptée du [Contributor Covenant](homepage),
+Ce Code de Conduite est adaptée du [Contributor Covenant][homepage],
 version 1.3.0, disponible à https://contributor-covenant.org/fr/version/1/3/0/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org

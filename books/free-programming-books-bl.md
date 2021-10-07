@@ -64,6 +64,7 @@
 
 ### Competitive Programming
 
+* [Data Structures and Algorithms Learning Website](https://www.shafaetsplanet.com/) - Shafayet Ashraf
 * [Dynamic Programming Book](https://dp-bn.github.io) - Tasmeem Reza and Mamnoon Siam
 
 

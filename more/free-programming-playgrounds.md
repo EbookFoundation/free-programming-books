@@ -247,7 +247,7 @@
 
 ### Solidity
 
-* [Remix IDE](https://remix.ethereum.org/)
+* [Remix IDE](https://remix.ethereum.org)
  
 
 ### SQL

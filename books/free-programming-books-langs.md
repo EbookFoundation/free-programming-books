@@ -1022,7 +1022,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Solidity
 
 * [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/index.htm)
-* [Solidity interactive tutorials](https://cryptozombies.io/en/course/)
 * [The Solidity Reference Guide](https://docs.soliditylang.org)
 
 

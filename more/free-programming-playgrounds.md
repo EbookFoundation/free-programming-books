@@ -53,6 +53,7 @@
 
 ### <a name="cpp"></a>C++
 
+* [Coding Minutes](https://ide.codingminutes.com)
 * [LabStack](https://code.labstack.com/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)
@@ -248,6 +249,7 @@
 
 
 ### Solidity
+
 
 * [eth.build](https://eth.build/)
 * [Remix IDE](https://remix.ethereum.org)

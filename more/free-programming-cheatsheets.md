@@ -3,6 +3,7 @@
 * [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#c)
+* [C#](#c-sharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
@@ -13,6 +14,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
+  * [Nuxt.js](#nuxtjs)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
 * [Kubernetes](#kubernetes)
@@ -44,6 +46,11 @@
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
 * [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)
 * [The C Cheat Sheet: An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) - Andrew Sterian (PDF)
+
+
+### <a name="c-sharp"></a>C#
+
+* [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
 
 
 ### <a name="cpp"></a>C++
@@ -112,6 +119,11 @@
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 
 
+#### Nuxt.js
+
+* [Nuxt.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf) - Vue Mastery (PDF)
+
+
 #### React.js
 
 * [React Cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) - Codecademy (HTML)
@@ -134,6 +146,7 @@
 
 ### Markdown
 
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Markdown Guide (HTML)
 * [Markdown Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Adam Pritchard
 
 
@@ -166,6 +179,7 @@
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
+* [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
 
 
 ### R

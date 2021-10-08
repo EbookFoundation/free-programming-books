@@ -25,7 +25,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Solidity] (#solidity)
+* [Solidity](#solidity)
 * [SQL](#sql)
 
 

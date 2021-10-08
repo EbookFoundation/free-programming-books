@@ -1,4 +1,4 @@
-_Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Filipino](CONTRIBUTING-fil.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md)._
+_Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-kr.md)._
 
 ## Contributor License Agreement
 
@@ -19,7 +19,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
    - _Courses_ : A course is a learning material which is not a book. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
    - _Interactive Tutorials_ : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
    - _Podcasts and Screencasts_ : Podcasts and screencasts.
-   - _Problem Sets & Competitive Programming_ : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users
+   - _Problem Sets & Competitive Programming_ : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
 
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files.
 
@@ -165,7 +165,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 
 ##### Platforms and Access Notes
 
-- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
+- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
 - YouTube. We have many courses which consist of YouTube playlists. We do not list Youtube as a platform, we try to list the Youtube creator, which is often a sub-platform.
 - YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
 - Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note _(Leanpub account or valid email requested)_

@@ -25,6 +25,7 @@
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
+* [Networking](#networking)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
@@ -204,6 +205,11 @@
 ### Markdown
 
 * [Aprenda Markdown](https://www.udemy.com/aprenda-markdown/) - Roberto Achar (Udemy)
+
+
+### Networking
+
+* [Curso de IPv6 Básico a Distância](http://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about) - NIC.br
 
 
 ### Node.js

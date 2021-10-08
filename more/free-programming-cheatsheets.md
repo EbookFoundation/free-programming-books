@@ -185,7 +185,7 @@
 
 ### Solidity
 
-* [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh
+* [Solidity Cheatsheet and Best practices](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) - Intellipaat (Image)
 
 
 ### SQL

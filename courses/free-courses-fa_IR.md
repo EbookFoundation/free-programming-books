@@ -25,7 +25,7 @@
 
 ### Bootstrap5
 
-* [دوره اموزشی بوت استرپ 5](https://www.youtube.com/watch?v=k7t9jXOg8CA&list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Silicium
+* [دوره اموزشی بوت استرپ 5](https://www.youtube.com/playlist?list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Silicium
 
 
 ### C

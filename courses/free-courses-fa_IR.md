@@ -14,6 +14,7 @@
   * [Laravel](#laravel)
   * [Yii](#yii)
 * [Python](#python)
+* [Django(python web framework)](#django)
 * [Web Development](#web-development)
 
 
@@ -102,6 +103,10 @@
 
 * [آموزش پایتون - سکان‌آکادمی](https://sokanacademy.com/courses/python) - Narges Asadi
 * [آموزش پایتون مقدماتی](https://gotoclass.ir/courses/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86) - Jadi Mirmirani
+
+### Django
+
+* [دوره ی مقدماتی تا پیشرفته جنگو](https://www.youtube.com/watch?v=XVNnOa41jT0&list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium(mehran tarif)
 
 
 ### Web Development

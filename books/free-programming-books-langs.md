@@ -492,6 +492,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [LearnCpp.com](https://www.learncpp.com) (HTML)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
+* [Problem Solving with C++](http://cslabcms.nju.edu.cn/problem_solving/images/4/46/Problem_Solving_with_C%2B%2B_%289th_Savitch%29.pdf) - Walter Savitch (PDF)
 * [Programming Fundamentals - A Modular Structured Approach using C++](https://learning.hccs.edu/faculty/ken.busbee/programming-fundamentals-a-modular-structured-approach-using-c) - Kenneth Leroy Busbee (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)

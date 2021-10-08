@@ -37,6 +37,7 @@
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
 * [LeetCode](https://leetcode.com)
+* [LightOJ](https://lightoj.com)
 * [Microcorruption](https://microcorruption.com/login)
 * [oj.uz](https://oj.uz)
 * [Sphere Online Judge](http://www.spoj.com/contests)

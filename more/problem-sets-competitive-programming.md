@@ -25,6 +25,7 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
+* [CodingNinjas](https://www.codingninjas.com/codestudio/problems)
 * [CSES Problem Set](https://cses.fi/problemset)
 * [Dimik](https://dimikoj.com)
 * [DMOJ](https://dmoj.ca)

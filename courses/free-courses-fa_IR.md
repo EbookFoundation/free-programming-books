@@ -32,7 +32,7 @@
 
 ### Django
 
-* [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/watch?v=XVNnOa41jT0&list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium
+* [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium
 
 
 ### Git

@@ -6,7 +6,6 @@
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
 * [Bash / Shell](#bash--shell)
-* [Blockchain](#blockchain)
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#c-sharp)
@@ -164,12 +163,6 @@
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
 * [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) (ProgrammingKnowledge)
 
-### Blockchain
-
-* [Dapp University](https://www.youtube.com/c/DappUniversity)
-* [Moralis Web3](https://www.youtube.com/c/MoralisWeb3)
-* [Gajesh S Naik](https://www.youtube.com/c/GajeshSNaik/featured)
-* [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
 
 ### Bootstrap
 

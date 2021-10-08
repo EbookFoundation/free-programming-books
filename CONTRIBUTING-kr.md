@@ -6,7 +6,7 @@ _다른 언어로 보기: [Français](CONTRIBUTING-fr.md), [English](CONTRIBUTIN
 
 ## 기여자 행동 강령
 
-기여함으로써 귀하는 이 리포지토리의 다음 [행동강령](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) 사항에 동의합니다.
+기여함으로써 귀하는 이 리포지토리의 다음 [행동강령](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-kr.md) 사항에 동의합니다.
 
 ## 요약
 
@@ -27,6 +27,7 @@ _다른 언어로 보기: [Français](CONTRIBUTING-fr.md), [English](CONTRIBUTIN
 4. GitHub Actions는 목록이 알파벳순으로 정렬되어 있고 형식 지정 규칙을 준수하는지 확인하기 위해 테스트를 실행합니다. 변경 사항이 테스트를 통과했는지 확인하십시오.
 
 <a name="guidelines"></a>
+
 ### 가이드 지침
 
 - 책이 무료인지 확인하십시오. 필요한 경우 다시 확인하십시오. 당신의 책이 무료라고 생각하는 이유에 대해 PR에 댓글을 달면 관리자에게 도움이 됩니다.
@@ -54,6 +55,7 @@ _다른 언어로 보기: [Français](CONTRIBUTING-fr.md), [English](CONTRIBUTIN
 - 다운로드가 활성화되기 전에 이메일 주소 또는 계정 설정이 요청된다면 괄호 안에 언어에 맞는 메모를 추가하십시오., 예: `(이메일 주소 *요청됨*, 필요 없음)`
 
 <a name="formatting"></a>
+
 ### 형식
 
 - 모든 목록은 `.md` 파일입니다. [마크다운](https://guides.github.com/features/mastering-markdown/) 문법을 배워보세요. 간단합니다!
@@ -122,6 +124,7 @@ GOOD: * [너무 재밌는 책 (1970)](https://example.org/book.html) - 홍진성
 ```
 
 <a name="in_process"></a>
+
 - 진행 중인 책:
 
 ```

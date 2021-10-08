@@ -37,6 +37,7 @@
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [R](#r)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
@@ -316,7 +317,7 @@
 
 ### Regular Expressions
 
-* [Regex Crossword](https://regexcrossword.com)
+* [Regex Crossword](https://regexcrossword.com) - Ole Michelsen, Maria Hagsten Michelsen
 * [RegExp Playground](https://projects.verou.me/regexplained) - Lea Verou
 
 

@@ -163,10 +163,7 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
-
-### Laravel
-
-* [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) Type : PDF Author : Dadan Hamdani
+* [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) - Dadan Hamdani (PDF)
 
 ### Yii 
 

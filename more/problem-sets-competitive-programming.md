@@ -25,6 +25,7 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
+* [Dimik](https://dimikoj.com)
 * [DMOJ](https://dmoj.ca)
 * [E-olymp](https://www.e-olymp.com/en/)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)

@@ -21,8 +21,6 @@
   * [Angular](#angular)
   * [Deno](#deno)
 * [Vue](#vue)
-* [Laravel](#laravel)
-* [Yii](#yii)
 
 
 ### Android

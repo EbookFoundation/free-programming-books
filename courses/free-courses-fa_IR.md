@@ -46,7 +46,7 @@
 ### JavaScript
 
 * [آموزش جاوا اسکریپت برای مبتدیان](https://youtube.com/playlist?list=PLV6mGBuPqmYuZEAJN7IBxkdNCzKXAGpqD) - Mansour Kalagar
-* [دوره اموزشی جاوا اسکریپت از صفر](https://www.youtube.com/watch?v=pAgLk-U3RAo&list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF) - Silicium
+* [دوره اموزشی جاوا اسکریپت از صفر](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF) - Silicium
 
 
 ### Kotlin

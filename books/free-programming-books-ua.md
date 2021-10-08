@@ -19,7 +19,7 @@
 
 ### Haskell
 
-* [Вивчить собі Хаскель на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
+* [Вивчити собі Хаскель на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
 
 
 ### HTML / CSS
@@ -31,7 +31,7 @@
 
 ### Java
 
-* [Програмування мовою Java для дітей, батьків, дідусів та бабусь](http://myflex.org/books/java4kids/java4kids.htm) - Яків Файн
+* [Програмування на Java для дітей, батьків, дідусів та бабусь](http://myflex.org/books/java4kids/java4kids.htm) - Яків Файн
 
 
 ### JavaScript

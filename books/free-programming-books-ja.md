@@ -633,6 +633,7 @@
 
 * [Effective Scala](https://twitter.github.io/effectivescala/index-ja.html) - Marius Eriksen, Yuta Okamoto(翻訳), Satoshi Kobayashi(翻訳)
 * [Scala で書く tetrix](https://eed3si9n.com/tetrix-in-scala/ja) - Eugene Yokota
+* [ScalaによるWebアプリケーション開発](https://github.com/hatena/Hatena-Textbook/blob/master/web-application-development-scala.md) - はてな教科書
 * [独習 Scalaz](https://eed3si9n.com/learning-scalaz/ja) - Eugene Yokota
 
 

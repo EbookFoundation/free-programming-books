@@ -35,7 +35,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 
 + [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
 + [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](books/free-programming-books-az.md)
-+ [Bengali / বাংলা](books/free-programming-books-bl.md)
++ [Bengali / বাংলা](books/free-programming-books-bn.md)
 + [Bulgarian / български](books/free-programming-books-bg.md)
 + [Burmese / မြန်မာဘာသာ](books/free-programming-books-my.md)
 + [Chinese / 中文](books/free-programming-books-zh.md)

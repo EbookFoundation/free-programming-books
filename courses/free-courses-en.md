@@ -63,6 +63,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Security](#security)
+* [Solidity](#solidity)
 * [Swift](#swift)
   * [Vapor](#vapor)
 * [Theory](#theory)
@@ -782,6 +783,12 @@
 * [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) -(Insec Techs- EH Academy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
+
+
+### Solidity
+
+* [Will it Scale](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
+* [Dapp University](https://youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g)
 
 
 ### Swift

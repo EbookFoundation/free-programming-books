@@ -64,6 +64,7 @@
 ### Data Science
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
+* [cheatsheets for Python for Data Scientists](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/) - Analysis Vidhya
 
 
 ### Git

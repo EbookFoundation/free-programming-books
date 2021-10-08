@@ -248,7 +248,6 @@
 ### Solidity
 
 * [Remix IDE](https://remix.ethereum.org)
- 
 
 ### SQL
 

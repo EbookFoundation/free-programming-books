@@ -107,7 +107,7 @@
 
 ### Vue.js3
 
-* [دوره اموزشی ویو جی اس 3](https://www.youtube.com/watch?v=ui0TMUzy4zY&list=PLAt10Vana3YeC2d1tLRFjzYOqqWufyzGx)
+* [دوره اموزشی ویو جی اس 3](https://www.youtube.com/playlist?list=PLAt10Vana3YeC2d1tLRFjzYOqqWufyzGx)
 
 
 ### Web Development

@@ -91,9 +91,7 @@
 
 #### Ciencia Computacional
 
-* [Breves Notas sobre Autómatas y Lenguajes](http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
 * [Breves Notas sobre Complejidad](https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) (PDF)
-* [Breves Notas sobre Teoría de la Computación](http://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 
 
 #### Metodologías de desarrollo de software
@@ -200,7 +198,6 @@
 * [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) -David Pérez Cabrera (PDF)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) (PDF)
 * [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - F.M. Pérez Montes (PDF)
-* [Notas de Introducción al Lenguaje de Programación Java (2004)](http://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/cm/uploaded_files/publicaciones/476_cid03-Pensar%20la%20computacion.pdf) (PDF)
 * [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) (PDF) [(ePub, Mobi, HTML)](https://picodotdev.github.io/blog-bitix/2014/02/libro-sobre-desarrollo-de-aplicaciones-con-apache-tapestry/)
 * [Prácticas de Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) (PDF)
@@ -298,7 +295,6 @@
 * [Domain Driven Design with PHP (Diseño guiado por Dominio con PHP)](https://www.youtube.com/playlist?list=PLfgj7DYkKH3DjmXTOxIMs-5fcOgDg_Dd2) - Carlos Buenosvinos Zamora (Youtube playlist)
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) (PDF)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) (HTML)
-* [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP) (Bubok)
 * [Programación web avanzada: Ajax y Google Maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) (PDF)
 * [Silex, el manual oficial](http://librosweb.es/libro/silex) (HTML)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)

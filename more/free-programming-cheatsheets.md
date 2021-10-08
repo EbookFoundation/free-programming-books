@@ -185,7 +185,7 @@
 
 ### Solidity
 
-* [Solidity](https://github.com/manojpramesh/solidity-cheatsheet)
+* [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh
 
 
 ### SQL

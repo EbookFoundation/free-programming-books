@@ -27,7 +27,6 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scratch](#scratch)
-* [Swift](#swift)
 * [Unicode](#unicode)
 
 

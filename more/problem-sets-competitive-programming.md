@@ -25,7 +25,11 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
+
 * [CSES Problem Set](https://cses.fi/problemset)
+
+* [Dimik](https://dimikoj.com)
+
 * [DMOJ](https://dmoj.ca)
 * [E-olymp](https://www.e-olymp.com/en/)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
@@ -82,6 +86,7 @@
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
+* [BaekJoon Online Judge](http://www.acmicpc.net)
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
 * [Codechef](https://www.codechef.com/problems/school)
@@ -92,7 +97,7 @@
 * [Coding Ninjas](https://www.codingninjas.com/codestudio/problems)
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [Exercism](http://exercism.io)
-* [Geeks For Geeks](http://www.geeksforgeeks.org)
+* [Geeks For Geeks](https://practice.geeksforgeeks.org)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)

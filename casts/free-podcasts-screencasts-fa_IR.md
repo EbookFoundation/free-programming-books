@@ -1,6 +1,5 @@
 ### Index
 
-- [Index](#index)
 - [Technology](#technology)
 
 

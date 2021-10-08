@@ -164,7 +164,4 @@
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
 * [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) - Dadan Hamdani (PDF)
-
-### Yii 
-
-* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) Type : PDF Author : Dida	Nurwanda
+* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF)

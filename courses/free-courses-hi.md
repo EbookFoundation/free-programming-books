@@ -13,6 +13,8 @@
   * [React](#react)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
+  * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)

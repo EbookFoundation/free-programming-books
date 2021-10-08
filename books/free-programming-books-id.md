@@ -140,7 +140,7 @@
 ### React
 
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
-* [Ebook ReactJS Bahasa Indonesia](https://portalebookshare.blogspot.com/2016/11/e-book-reactjs-bahasa-indonesia.html)
+* [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula)
 
 
 ### TypeScript

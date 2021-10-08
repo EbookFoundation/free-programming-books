@@ -1396,9 +1396,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
 * [Learn Lisp The Hard Way](https://github.com/LispTO/llthw) - Colin J.E. Lupton
 * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/) - D. Hoyte
+* [Lisp for the Web](https://leanpub.com/lispweb) - Adam Tornhill (PDF, EPUB, MOBI) *(Leanpub account or valid email requested)*
 * [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin
 * [Lisp Koans](https://github.com/google/lisp-koans)
 * [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev *(Leanpub account or valid email requested)*
+* [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp) - Mark Watson (PDF, EPUB, MOBI) *(Leanpub account or valid email requested)*
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig (PDF, epub, markdown)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel

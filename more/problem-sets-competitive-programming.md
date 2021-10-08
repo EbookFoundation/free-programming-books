@@ -91,7 +91,7 @@
 * [Coding Ninjas](https://www.codingninjas.com/codestudio/problems)
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [Exercism](http://exercism.io)
-* [Geeks For Geeks](http://www.geeksforgeeks.org)
+* [Geeks For Geeks](https://practice.geeksforgeeks.org)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)

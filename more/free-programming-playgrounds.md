@@ -249,6 +249,7 @@
 
 * [Remix IDE](https://remix.ethereum.org)
 
+
 ### SQL
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)

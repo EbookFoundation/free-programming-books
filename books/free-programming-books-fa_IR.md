@@ -38,8 +38,8 @@
 ### JavaScript
 
 * مارین هاوربک - [جاوااسکریپت شیوا](http://eloquentjs.ir) (HTML)
-* [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 * [ریکت جی اس](https://github.com/reactjs/fa.reactjs.org)
+* [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 
 
 ### LaTeX

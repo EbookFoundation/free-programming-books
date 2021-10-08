@@ -39,6 +39,7 @@
 
 * مارین هاوربک - [جاوااسکریپت شیوا](http://eloquentjs.ir) (HTML)
 * [یادگیری اصولی جاواسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
+* کایل سیمپسون - [نور جاوااسکریپت](https://github.com/getify/Functional-Light-JS)
 
 
 ### LaTeX

@@ -834,7 +834,7 @@
 #### Angular
 
 > :information_source: See also &#8230; [AngularJS](#angularjs)
-* [Angular 12 Crash Course](https://www.youtube.com/watch?v=LA_v8isNp5E) - Awais Mirza
+* [Angular 12 Course](https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV) - Slobodan Gajic
 * [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) - codedamn (YouTube)
 * [Angular Courses](https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT) - Programming with Mosh (YouTube)
 * [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8) - Brad Traversy, Traversy Media (YouTube)

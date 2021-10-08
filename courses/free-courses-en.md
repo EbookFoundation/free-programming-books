@@ -307,7 +307,7 @@
 
 * [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
 * [Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm) - TutorialsPoint
-* [Docker Tutorial for Beginners ](https://www.youtube.com/watch?v=3c-iBn73dDE) - TechWorld with Nana
+* [Docker Tutorial for Beginners ](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) - Thenewboston
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - FreeCodeCamp
 * [Docker Tutorial Videos \| DevOps Tool](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) - edureka!
 * [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
@@ -453,7 +453,7 @@
 * [Intro To JavaScript Unit Testing & BDD](https://www.youtube.com/watch?v=u5cLK1UrFyQ) - Traversy Media
 * [Javascript course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) - Hitesh Choudhary
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
-* [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=Qqx_wzMmFeA) - Clever Programmer
+* [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - The Net Ninja
 * [Javascript30](https://javascript30.com) - Wesbos
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) -  Beau Carnes, freeCodeCamp.org (YouTube)
@@ -568,7 +568,7 @@
 ### Kubernetes
 
 * [Kubernetes Core Concepts](https://kube.academy/paths/kubernetes-core-concepts) - KubeAcademy (VMware)
-* [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do) - TechWorld with Nana
+* [Kubernetes Tutorial for Beginners](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) - TechWorld with Nana
 * [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
 
 

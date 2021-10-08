@@ -14,6 +14,7 @@
   * [Laravel](#laravel)
   * [Yii](#yii)
 * [Python](#python)
+* [Vue.js 3](#vue.js3)
 * [Web Development](#web-development)
 
 
@@ -102,6 +103,11 @@
 
 * [آموزش پایتون - سکان‌آکادمی](https://sokanacademy.com/courses/python) - Narges Asadi
 * [آموزش پایتون مقدماتی](https://gotoclass.ir/courses/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86) - Jadi Mirmirani
+
+
+### Vue.js3
+
+* [دوره اموزشی ویو جی اس 3](https://www.youtube.com/watch?v=ui0TMUzy4zY&list=PLAt10Vana3YeC2d1tLRFjzYOqqWufyzGx)
 
 
 ### Web Development

@@ -37,8 +37,8 @@
 
 ### JavaScript
 
-* مارین هاوربک - [جاوااسکریپت شیوا](http://eloquentjs.ir) (HTML)
 * کایل سیمپسون - [نور جاوااسکریپت](https://github.com/getify/Functional-Light-JS)
+* مارین هاوربک - [جاوااسکریپت شیوا](http://eloquentjs.ir) (HTML)
 * [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 
 

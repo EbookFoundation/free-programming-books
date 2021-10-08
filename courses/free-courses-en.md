@@ -298,10 +298,9 @@
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
+* [Self-supervised learning (SSL) in computer vision](https://youtu.be/0KeR6i1_56g) NYU Lecture (Youtube)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
-* [Self-supervised learning (SSL) in computer vision](https://youtu.be/0KeR6i1_56g) (Youtube)
-
 
 ### Docker
 

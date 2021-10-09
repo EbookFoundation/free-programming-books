@@ -111,7 +111,7 @@ ADV - Продвинутый. Тонкости.
 
 ### Julia
 
-* [Введение в язык программирования Julia](https://github.com/YermolenkoIgor/Julia_tutorial_rus) (BEG)
+* [Введение в язык программирования Julia](https://github.com/YermolenkoIgor/Julia_tutorial_rus) - Igor Yermolenko (BEG)
 
 
 ### Kotlin

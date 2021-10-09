@@ -105,6 +105,7 @@
 * [آموزش پایتون - سکان‌آکادمی](https://sokanacademy.com/courses/python) - Narges Asadi
 * [آموزش پایتون مقدماتی](https://gotoclass.ir/courses/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86) - Jadi Mirmirani
 * [Django2 All In One Course - دوره کامل جنگو و مهندسی بک اند](https://www.youtube.com/playlist?list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr) - Boby Cloud
+* [آموزش Celery در پایتون](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ1MjnIueq8vkXwWojH04Dwx) - Shahriar Shariati
 
 
 ### Web Development

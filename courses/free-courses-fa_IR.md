@@ -104,6 +104,7 @@
 * [آموزش پایتون - سکان‌آکادمی](https://sokanacademy.com/courses/python) - Narges Asadi
 * [آموزش پایتون مقدماتی](https://gotoclass.ir/courses/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86) - Jadi Mirmirani
 
+
 ### Web Development
 
 * [برنامه نویسی وب](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74) - Mohammad Salehe

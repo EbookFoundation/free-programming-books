@@ -375,7 +375,9 @@
 * [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm) - José Carlos Macoratti (HTML)
 * [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/) - IBM, Babu Suresh (HTML)
 
-#### Vim
+
+### Vim
+
 * [Vim - Básico](https://aurelio.net/vim/vim-basico.txt) - Aurélio Marinho Jorgas (HTML)
 * [Vim - Médio](https://aurelio.net/vim/vim-medio.txt) - Aurélio Marinho Jorgas (HTML)
 * [Vim - Avançado](https://aurelio.net/vim/vim-avancado.txt) - Aurélio Marinho Jorgas (HTML)

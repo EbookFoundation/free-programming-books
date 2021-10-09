@@ -615,8 +615,8 @@
 
 ### Markdown
 
-* [MasteringMarkdown](https://masteringmarkdown.com) - Wesbos
 * [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) - Learning Lab
+* [MasteringMarkdown](https://masteringmarkdown.com) - Wesbos
 
 
 ### MATLAB

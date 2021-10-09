@@ -3,15 +3,18 @@
 * [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#c)
+* [C#](#c-sharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Git](#git)
+* [Go](#go)
 * [HTML / CSS](#html--css)
 * [IDE / Editors](#ide--editors)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
+  * [Nuxt.js](#nuxtjs)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
 * [Kubernetes](#kubernetes)
@@ -44,6 +47,11 @@
 * [The C Cheat Sheet: An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) - Andrew Sterian (PDF)
 
 
+### <a name="c-sharp"></a>C#
+
+* [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
+
+
 ### <a name="cpp"></a>C++
 
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
@@ -66,6 +74,11 @@
   * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
   * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
+
+
+### Go
+
+* [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
 
 
 ### HTML / CSS
@@ -98,11 +111,17 @@
 * [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) (HTML)
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
+* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) (HTML)
 
 
 #### jQuery
 
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
+
+
+#### Nuxt.js
+
+* [Nuxt.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf) - Vue Mastery (PDF)
 
 
 #### React.js
@@ -127,6 +146,7 @@
 
 ### Markdown
 
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Markdown Guide (HTML)
 * [Markdown Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Adam Pritchard
 
 
@@ -148,17 +168,18 @@
 
 ### Python
 
-* [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2)
+* [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2) - Rishi Sidhu, Medium (HTML)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
-* [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
+* [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
 * [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) - Matplotlib.org (LaTeX, PDF)
-* [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/)
+* [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
 * [Python Cheatsheet for beginners](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet) - Codeacademy (HTML)
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - Pandas (PDF)
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
+* [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
 
 
 ### R

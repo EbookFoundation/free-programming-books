@@ -1,4 +1,4 @@
-*閱讀其他語言版本的文件：[Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*閱讀其他語言版本的文件：[Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md).*
 
 
 ## 貢獻者許可協議
@@ -20,7 +20,7 @@
 
 3. 這裡有五種列表，請選擇正確的一項：
 
-    * *Books* ：PDF、HTML、ePub、基於 gitbook.io 的網站、Ｇit 的 repo 等。
+    * *Books* ：PDF、HTML、ePub、基於 gitbook.io 的網站、Git 的 repo 等。
     * *Courses* ：課程是一種學習素材，而不是一本書 [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
     * *Interactive Tutorials* ：一個互動式網站，允許用戶輸入程式碼或指令並執行結果。例如：[Try Haskell](http://tryhaskell.org)，[Try Github](http://try.github.io)。
     * *Podcasts and Screencasts* ：Podcast 和影音。

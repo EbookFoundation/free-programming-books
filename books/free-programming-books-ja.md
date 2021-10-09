@@ -21,6 +21,7 @@
   * [理論計算機科学](#%e7%90%86%e8%ab%96%e8%a8%88%e7%ae%97%e6%a9%9f%e7%a7%91%e5%ad%a6)
 * [Android](#android)
 * [AppleScript](#applescript)
+* [Assembly](#assembly)
 * [AWK](#awk)
 * [Bash](#bash)
 * [C](#c)
@@ -232,6 +233,11 @@
 
 * [Applescript のごく基本的なサンプル](http://www.asahi-net.or.jp/~va5n-okmt/factory/applescript/sample_code) - Okamoto
 * [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
+
+
+### Assembly
+
+* [リバースエンジニアリング入門 \| Reverse Engineering for Beginners](https://beginners.re/RE4B-JA.pdf) - Dennis Yurichev, shmz, 4ryuJP (PDF)
 
 
 ### AWK

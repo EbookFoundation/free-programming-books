@@ -34,17 +34,20 @@
 
 ### Android
 
+* [Android Complete Course](https://www.youtube.com/watch?v=roDz8mMvbIg&list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe) (screencast)
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) (podcast)
 
 
 ### C&#x23;
 
+* [Beginning C# with Unity](https://www.youtube.com/watch?v=2Ki58iQkot4&list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) (screencast)
 * [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) (screencast)
 
 
 ### <a name="cpp"></a>C++
 
+* [C++ Complete Course](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) (screencast)
 * [C++ Programming Video Lectures](https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr) (screencast)
 * [C++ STL](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) (screencast)
 * [CppCast](http://cppcast.com) (podcast)
@@ -58,11 +61,13 @@
 
 ### Common Lisp
 
+* [Common Lisp for Beginners](https://www.youtube.com/watch?v=xyXDE5gP2QI&list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) (screencast)
 * [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) (screencast)
 
 
 ### CSS
 
+* [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) (screencast)
 * [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) (screencast)
 * [The Css Podcast](https://thecsspodcast.libsyn.com) - Una Kravets and Adam Argyle (podcast)
 

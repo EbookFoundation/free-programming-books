@@ -17,6 +17,7 @@
 * [Kotlin](#kotlin)
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)
+* [MySQL](#mysql)
 * [NodeJS](#nodejs)
 * [OOP](#oop)
 * [PHP](#php)
@@ -140,6 +141,14 @@
 
 * [SL3 Framework - Code For Brain](https://sl3.app) - Stack Learners
 * [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
+
+
+### MySQL
+
+* [Bangla MySQL Database Tutorials](https://www.youtube.com/playlist?list=PLTydW-y9HsbQ2ztoaLBJTd4wwjc_oqWx4) - Delowar Jahan Imran, Training with Live Project (YouTube)
+* [mysql bangla tutorial \| Mysql Database \| HSC,CSE, Anyone](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99) - Sohidul Islam, Learn Hunter (YouTube)
+* [MySql Database Bangla Tutorial Beginner to Advanced](https://www.youtube.com/playlist?list=PLH246IZCIBeA4h1R6fdgK06kj9lMb3joi) - Shoaib Hossain, Soft-All (YouTube)
+* [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD) - Anisul Islam (YouTube)
 
 
 ### PHP

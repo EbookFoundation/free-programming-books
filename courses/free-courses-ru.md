@@ -136,6 +136,7 @@ ADV - Продвинутый. Тонкости.
 
 ### Python
 
+* [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) - Stepik (INT)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
 * ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) - Stepik (BEG)
 * ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343) - Stepik (INT)

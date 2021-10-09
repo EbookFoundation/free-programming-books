@@ -14,6 +14,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
+  * [Nuxt.js](#nuxtjs)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
 * [Kubernetes](#kubernetes)
@@ -115,6 +116,11 @@
 #### jQuery
 
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
+
+
+#### Nuxt.js
+
+* [Nuxt.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf) - Vue Mastery (PDF)
 
 
 #### React.js

@@ -250,8 +250,7 @@
 
 ### Solidity
 
-
-* [eth.build](https://eth.build/)
+* [eth.build](https://eth.build)
 * [Remix IDE](https://remix.ethereum.org)
 
 

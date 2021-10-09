@@ -42,6 +42,7 @@
 
 ### CodeIgniter
 
+* [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)

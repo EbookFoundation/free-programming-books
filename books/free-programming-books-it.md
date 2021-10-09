@@ -79,6 +79,7 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+* [Reverse Engineering per Principianti](https://beginners.re/RE4B-IT.pdf) - Dennis Yurichev, Federico Ramondino, Paolo Stivanin, Fabrizio Bertone, Matteo Sticco, Marco Negro et al. (PDF)
 
 
 ### BASH

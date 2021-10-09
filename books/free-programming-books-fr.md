@@ -95,6 +95,7 @@
 ### Assembleur
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+* [Reverse Engineering for Beginners](https://beginners.re/RE4B-FR.pdf) - Dennis Yurichev, Florent Besnard, Marc Remy, Baudouin Landais, Téo Dacquet (PDF)
 
 
 ### Bash / Shell

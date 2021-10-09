@@ -112,7 +112,7 @@
 
 ### Data Science
 
-* [Data Science Foundations - IBM SkillBuild](https://skillsbuild.org/students/course-catalog/data-science) *(Email login reqired to access the course)*
+* [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) -KDnuggets
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 

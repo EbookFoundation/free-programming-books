@@ -71,6 +71,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
 * [Programming](https://en.wikibooks.org/wiki/Category%3aComputer_programming) - Wikibooks
 * [Red Gate Books](http://www.red-gate.com/community/books/index)
+* [Rip Tutorials](https://riptutorial.com/ebook)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 * [TechBeamers.com](http://www.techbeamers.com)
 * [TechBooksForFree.com](http://www.techbooksforfree.com)
@@ -197,6 +198,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
+* [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
 
 
 ### Database
@@ -366,6 +368,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, and Elyse Yeager
 * [CLP-4 Vector Calculus](https://www.math.ubc.ca/~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, and Elyse Yeager
 * [Collaborative Statistics](http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
+* [College Trigonometry](https://open.umn.edu/opentextbooks/textbooks/college-trigonometry) - Carl Stitz, Jeff Zeager (PDF)
 * [Combinatorics Through Guided Discovery](https://bogart.openmathbooks.org) - Kenneth Bogart
 * [Complex Analysis](https://people.math.gatech.edu/~cain/winter99/complex.html) - George Cain
 * [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com)
@@ -611,6 +614,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Don't Just Roll the Dice](https://www.red-gate.com/library/dont-just-roll-the-dice) - Neil Davidson (PDF)
 * [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 * [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
+* [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
 
 
@@ -640,7 +644,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [BIOS Disassembly Ninjutsu Uncovered 1st Edition](http://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) - Darmawan Salihun (PDF)
 * [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) (PDF)
-* [Reverse Engineering for Beginners](http://beginners.re) - Dennis Yurichev (PDF)
 
 
 ### Search Engines

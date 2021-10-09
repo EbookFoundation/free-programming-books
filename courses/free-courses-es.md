@@ -205,6 +205,7 @@
 * [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing)
 * [Aprende a programar aplicaciones móviles](https://miriadax.net/web/creando-apps-aprende-a-programar-aplicaciones-moviles-4-edicion-)
 * [CSS Básico a Avanzado](https://www.pildorasinformaticas.es/course/css-avanzado-desde-0) - Juan Díaz (Píldoras Informáticas)
+* [Curso gratuito de Javascript](https://argentinaprograma.com) - Fabricio Sodano (Argentina Programa)
 * [Curso gratuito de Next.js y Firebase](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1VR86y4C72xMGJ8ifjBwJ6) - Miguel Ángel Durán «midudev» (YouTube)
 * [Curso JSON. De Novato a Experto](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY) - Camilo Martínez "Equimancho"
 * [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev» (YouTube)
@@ -214,6 +215,7 @@
 * [Diseño Web - Principios de HTML](https://programadorwebvalencia.com/cursos/html/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Diseño web con HTML5+CSS](https://miriadax.net/web/diseno-web-con-html5-css-2-edicion-)
 * [Full Stack open: profundización en el desarrollo web moderno](https://fullstackopen.com/es/) - Universidad de Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
+* [FullStack JavaScript Bootcamp \| JavaScript, React.js, GraphQL, Node.js, TypeScript y +](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) - Miguel Ángel Durán «midudev» (YouTube)
 * [HTML 5](https://www.pildorasinformaticas.es/course/html-5) - Juan Díaz (Píldoras Informáticas)
 * [Introducción a HTML & CSS](https://www.aulaclic.es/html/index.htm) (HTML)
 * [PHP MySql Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql) - Juan Díaz (Píldoras Informáticas)

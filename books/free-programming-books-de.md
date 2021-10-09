@@ -55,6 +55,8 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm) - Paul A. Carter
+* [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres,
+Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 
 ### C

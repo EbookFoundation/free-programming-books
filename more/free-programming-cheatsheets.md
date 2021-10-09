@@ -27,6 +27,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Solidity](#solidity)
 * [SQL](#sql)
 
 
@@ -195,6 +196,12 @@
 ### Rust
 
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
+
+
+### Solidity
+
+* [Solidity Cheat Sheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.pdf) - IntelliPaat (PDF)
+* [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh
 
 
 ### SQL

@@ -199,7 +199,7 @@
 
 ### Solidity
 
-* [Solidity Cheatsheet and Best practices](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg) - Intellipaat (Image)
+* [Solidity Cheat Sheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.pdf) - IntelliPaat (PDF)
 
 
 ### SQL

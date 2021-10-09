@@ -108,7 +108,7 @@
   ### Django
 
   * [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium
-
+  * [سوکت نویسی با کتابخانه جنگو چنلز](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm)
 
 
 ### Web Development

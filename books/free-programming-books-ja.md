@@ -679,7 +679,7 @@
 
 ### Swift
 
-* [逆引きSwift](http://docs.fabo.io/swift/) - FaBo
+* [逆引きSwift](http://faboplatform.github.io/SwiftDocs/) - FaBo
 
 
 ### Tcl/Tk

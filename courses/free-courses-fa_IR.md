@@ -5,6 +5,7 @@
 * [Git](#Git)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [Vue.js 3](#vue.js3)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -15,7 +16,6 @@
   * [Yii](#yii)
 * [Python](#python)
 * [Web Development](#web-development)
-  * [Vue.js 3](#vue.js3)
 
 
 ### Blockchain
@@ -47,6 +47,11 @@
 ### JavaScript
 
 * [آموزش جاوا اسکریپت برای مبتدیان](https://youtube.com/playlist?list=PLV6mGBuPqmYuZEAJN7IBxkdNCzKXAGpqD) - Mansour Kalagar
+
+
+    ### Vue.js3
+
+    * [دوره اموزشی ویو جی اس 3](https://www.youtube.com/playlist?list=PLAt10Vana3YeC2d1tLRFjzYOqqWufyzGx)
 
 
 ### Kotlin
@@ -108,9 +113,4 @@
 ### Web Development
 
 * [برنامه نویسی وب](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74) - Mohammad Salehe
-
-
-### Vue.js3
-
-* [دوره اموزشی ویو جی اس 3](https://www.youtube.com/playlist?list=PLAt10Vana3YeC2d1tLRFjzYOqqWufyzGx)
 

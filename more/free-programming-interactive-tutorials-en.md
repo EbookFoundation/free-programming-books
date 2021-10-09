@@ -342,7 +342,7 @@
 
 ### Solidity
 
-* [cryptozombies.io/](https://cryptozombies.io/)
+* [CryptoZombies.io](https://cryptozombies.io) - Loom Network
 
 
 ### SQL

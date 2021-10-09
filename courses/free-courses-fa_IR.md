@@ -2,7 +2,6 @@
 
 * [Blockchain](#blockchain)
 * [C, C++](#c)
-* [Django](#django)
 * [Git](#Git)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -15,6 +14,7 @@
   * [Laravel](#laravel)
   * [Yii](#yii)
 * [Python](#python)
+  * [Django](#django)
 * [Web Development](#web-development)
 
 
@@ -28,11 +28,6 @@
 * [آموزش زبان C](https://toplearn.com/courses/3255/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B2%D8%A8%D8%A7%D9%86-c) - Mohammad Moein Bagh Sheikhi
 * [برنامه نویسی پیشرفته](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk187) - Ramtin Khosravi
 * [درس اصول برنامه‌نویسی سی و سی پلاس پلاس از دانشگاه صنعتی اصفهان](https://maktabkhooneh.org/course/%D8%A7%D8%B5%D9%88%D9%84-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-C-%D9%88-C-mk68) - Kiarash Bazargan
-
-
-### Django
-
-* [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium
 
 
 ### Git
@@ -108,6 +103,12 @@
 
 * [آموزش پایتون - سکان‌آکادمی](https://sokanacademy.com/courses/python) - Narges Asadi
 * [آموزش پایتون مقدماتی](https://gotoclass.ir/courses/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86) - Jadi Mirmirani
+
+
+  ### Django
+
+  * [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium
+
 
 
 ### Web Development

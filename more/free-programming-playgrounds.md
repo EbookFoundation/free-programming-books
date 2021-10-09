@@ -251,7 +251,7 @@
 ### Solidity
 
 * [ETH.Build](https://eth.build) - Austin Thomas Griffith
-* [Remix IDE](https://remix.ethereum.org)
+* [Remix IDE](https://remix.ethereum.org) - ethereum.org
 
 
 ### SQL

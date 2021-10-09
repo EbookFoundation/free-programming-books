@@ -118,6 +118,7 @@
 
 #### Metodologias de Desenvolvimento de Software
 
+* [Agile Desenvolvimento de Software Com Entregas Frequentes E Foco No Valor de Negocio](https://www.academia.edu/34516420/_Agile_Desenvolvimento_de_Software_Com_Entregas_Frequentes_E_Foco_No_Valor_de_Negocio) - André Faria Gomes (PDF)
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*

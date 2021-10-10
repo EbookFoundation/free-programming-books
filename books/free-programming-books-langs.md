@@ -1913,6 +1913,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](https://web.archive.org/web/20181130092020/http://www.effectivedjango.com/) (1.5)
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
+* [Mastering Django](https://djangobook.com/mastering-django-2-book/) - Nigel George (1.0)
 * [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
 
 

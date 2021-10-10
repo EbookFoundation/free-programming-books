@@ -178,7 +178,7 @@
 #### Elm
 
 * [Elm Radio](https://elm-radio.com) - Dillon Kearns and Jeroen Engels (podcast)
-* [Elm Town](https://elmtown.simplecast.com/) (podcast)
+* [Elm Town](https://elmtown.simplecast.com) (podcast)
 
 
 #### Ember.js
@@ -236,7 +236,7 @@
 * [Frontside the Podcast](https://frontside.io/podcast/) (podcast)
 * [Full Stack Radio](http://www.fullstackradio.com) (podcast)
 * [Functional Geekery](https://www.functionalgeekery.com) (podcast)
-* [Garbage](https://garbage.jcs.org/) (podcast)
+* [Garbage](https://garbage.jcs.org) (podcast)
 * [Hacker Culture](https://anchor.fm/hackerculture) (podcast)
 * [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing) (podcast)
 * [Ladybug Podcast](https://www.ladybug.dev) (podcast)

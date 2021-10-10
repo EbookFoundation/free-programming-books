@@ -538,7 +538,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/) - Henry Schreiner (HTML)
 * [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html) (HTML)
-* [Getting started with CMake](https://riptutorial.com/cmake) (HTML)
 * [Quick CMake tutorial](https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html) (HTML)
 
 

@@ -198,6 +198,7 @@
 
 ### Python
 
+* [codeCombat](https://codecombat.com/home)
 * [Codepad](http://codepad.org)
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)

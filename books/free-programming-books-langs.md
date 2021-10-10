@@ -1239,7 +1239,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [Practical Node.js: Building Real-World Scalable Web Apps](https://github.com/azat-co/practicalnode) - Azat Mardan
 * [The Node Beginner Book](http://nodebeginner.org)
-* [From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook) - Kathleen Juell
+* [From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook) - Kathleen Juell (PDF, EPUB)
+
 
 #### Om
 

@@ -615,7 +615,7 @@
 
 ### Markdown
 
-* [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) - Learning Lab
+* [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) - GitHub Learning Lab *(GitHub account or email address required)*
 * [MasteringMarkdown](https://masteringmarkdown.com) - Wesbos
 
 

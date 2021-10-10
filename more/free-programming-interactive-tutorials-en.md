@@ -343,6 +343,7 @@
 ### Solidity
 
 * [CryptoZombies.io](https://cryptozombies.io) - Loom Network
+* [FreeCodeCamp youtube tutorial](https://www.youtube.com/watch?v=ipwxYa-F1uY)
 
 
 ### SQL

@@ -128,7 +128,6 @@
 * [git-game](https://github.com/git-game/git-game)
 * [git-game-v2](https://github.com/git-game/git-game-v2)
 * [Git Tutorial](https://www.w3schools.com/git/) - W3Schools
-* [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)

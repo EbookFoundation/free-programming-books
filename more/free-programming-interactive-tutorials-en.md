@@ -338,6 +338,7 @@
 ### Selenium
 
 * [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
+* [Selenium Webdriver tutorial](https://testingtraveler.com/2021/06/11/selenium-webdriver)
 
 
 ### Solidity

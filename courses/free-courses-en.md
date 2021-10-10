@@ -862,7 +862,6 @@
 #### Deno
 
 * [Deno Beginner](https://denobeginner.com) - Ahmad Awais (email address *required*)
-* [Deno Course - Better than Node.js?](https://www.youtube.com/watch?v=TQUy8ENesGY) - The Codeholic, freeCodeCamp (YouTube)
 
 
 ### Verilog / VHDL / SystemVerilog

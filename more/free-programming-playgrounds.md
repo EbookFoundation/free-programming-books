@@ -174,7 +174,7 @@
 
 ### Nim
 
-* [Nim Playground](https://play.nim-lang.org)
+* [Nim Playground](https://play.nim-lang.org) - nim-lang.org
 
 
 ### NodeJS

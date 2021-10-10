@@ -128,6 +128,7 @@
 * [git-game](https://github.com/git-game/git-game)
 * [git-game-v2](https://github.com/git-game/git-game-v2)
 * [Git Tutorial](https://www.w3schools.com/git/) - W3Schools
+* [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
@@ -286,6 +287,7 @@
 ### PHP
 
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
+* [FreeCodeCamp](https://www.freecodecamp.org/) - HTML, CSS, JavaScript, Python, PHP
 * [Learn PHP](http://www.learn-php.org)
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
 
@@ -307,6 +309,7 @@
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - GeeksforGeeks
 * [Python Tutorial](https://www.tutlane.com/tutorial/python) - tutlane
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
+* [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
 
 
 ### R

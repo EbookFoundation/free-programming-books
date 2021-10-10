@@ -3,6 +3,7 @@
 * [Algoritmalar](#algoritmalar)
 * [CSS](#css)
 * [JavaScript](#javascript)
+* [Python](#python)
 * [Temel programlama](#temel-programlama)
 
 
@@ -19,6 +20,11 @@
 ### JavaScript
 
 * [JavaScript Dersleri](https://javascript.sitesi.web.tr) - Murat Eliçalişkan
+
+
+### Python
+
+* [python yazilim kursu](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) - Mert Mekatronik
 
 
 ### Temel programlama

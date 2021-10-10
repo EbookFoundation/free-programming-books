@@ -1320,8 +1320,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF)
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
-* [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) (PDF)
 * [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
+* [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) (PDF)
 
 
 ### LaTeX / TeX

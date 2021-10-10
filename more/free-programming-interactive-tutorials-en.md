@@ -132,6 +132,7 @@
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
+* [git-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 
 ### GLSL
@@ -238,6 +239,7 @@
 * [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms) (freeCodeCamp)
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+* [freeCodeCamp](https://www.freecodecamp.org/) - HTML, CSS, JavaScript, Python, PHP
 
 
 #### Operating systems
@@ -307,6 +309,7 @@
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - GeeksforGeeks
 * [Python Tutorial](https://www.tutlane.com/tutorial/python) - tutlane
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
+* [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
 
 
 ### R

@@ -486,6 +486,11 @@
 * [Learn D3](https://www.codecademy.com/learn/learn-d3) - Codecademy *(account required)*
 
 
+#### Cycle.js
+
+* [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - André Staltz
+
+
 #### Electron
 
 * [Electron Js - Build real desktop apps](https://youtube.com/playlist?list=PLtWy6rdN1yBntIyLeNo-fCVR6AaK7vdyl) - Vishwas Gopinath, How To Code (YouTube)

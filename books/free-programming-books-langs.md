@@ -436,6 +436,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
 * [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
 * [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
+* [Textbook for System Programming in C at the University of Illinois](https://github.com/illinois-cs241/coursebook)
 * [The C book](http://publications.gbdirect.co.uk/c_book/) - Mike Banahan, Declan Brady and Mark Doran (PDF, HTML)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
 * [The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf) - Open Standards Org - www.open-std.org (PDF)

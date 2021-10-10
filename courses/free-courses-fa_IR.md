@@ -1,17 +1,26 @@
 ### Index
 
+* [Blockchain](#blockchain)
 * [C, C++](#c)
 * [Git](#Git)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
+* [Network](#network)
 * [PHP](#php)
   * [Codeigniter](#codeigniter)
   * [Laravel](#laravel)
   * [Yii](#yii)
 * [Python](#python)
+  * [Django](#django)
 * [Web Development](#web-development)
+
+
+### Blockchain
+
+* [دوره بلاک چین، رمزارزها و بیت کوین](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1gLxAL-56H-XR-fTapqofC) - Jadi Mirmirani
 
 
 ### C
@@ -38,11 +47,21 @@
 ### JavaScript
 
 * [آموزش جاوا اسکریپت برای مبتدیان](https://youtube.com/playlist?list=PLV6mGBuPqmYuZEAJN7IBxkdNCzKXAGpqD) - Mansour Kalagar
+* [دوره اموزشی جاوا اسکریپت از صفر](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF) - Silicium
+
+
+### Kotlin
+
+* [آموزش کامل برنامه نویسی با کاتلین](https://www.youtube.com/watch?v=SwhXvaXx078) - Amirahmad Adibi
+* [دوره آموزشی کاتلین](https://mskm.ir/category/programming/kotlin/) - Mehrdad Dolatkhah
+* [دوره رایگان برنامه نویسی اندروید](https://www.youtube.com/playlist?list=PLoBWKLYZlNi7lecoeYXHC868ZH_AE1uXg) - Omid Sharifmehr
 
 
 ### Linux
 
 * [آموزش لینوکس - سکان‌آکادمی](https://sokanacademy.com/courses/linux) - Behzad Moradi
+* [آموزش لینوکس برای آدم های شاد](https://www.youtube.com/playlist?list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd) - Jadi Mirmirani
+* [آموزش لینوکس مقدماتی](https://www.youtube.com/watch?v=ZwaBNkQKrts&list=PLPj7mSUQL4v_oVLO-2Q1QQ9fAH45u8z4A) - Hamid Emamian
 * [LPIC-1](https://gotoclass.ir/courses/lpic-1) - Peyman Hushmandi Rad
 * [LPIC-2](https://gotoclass.ir/courses/lpic-2) - Jadi Mirmirani
 
@@ -51,6 +70,11 @@
 
 * [درس یادگیری ماشین دانشگاه استنفورد](https://maktabkhooneh.org/course/35-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk35) - Andrew Ng
 * [درس یادگیری ماشین دانشگاه صنعتی شریف](https://maktabkhooneh.org/course/273-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk273) - Mahdiyeh Soleymani
+
+
+### Network
+
+* [درک مقدماتی شبکه](https://www.youtube.com/playlist?list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z) - Jadi Mirmirani
 
 
 ### PHP
@@ -81,6 +105,12 @@
 
 * [آموزش پایتون - سکان‌آکادمی](https://sokanacademy.com/courses/python) - Narges Asadi
 * [آموزش پایتون مقدماتی](https://gotoclass.ir/courses/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86) - Jadi Mirmirani
+
+
+  ### Django
+
+  * [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium
+  * [سوکت نویسی با کتابخانه جنگو چنلز](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) - Shahriar Shariati
 
 
 ### Web Development

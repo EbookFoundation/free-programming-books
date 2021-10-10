@@ -59,6 +59,7 @@
 #### Algorithmique
 
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours/) - Michel Quercia
+* [Algorithmique du texte](http://igm.univ-mlv.fr/~mac/CHL/CHL-2011.pdf) - Maxime Crochemore, Christophe Hancart, Thierry Lecroq (PDF)
 * [Complexité algorithmique](http://www.liafa.univ-paris-diderot.fr/~sperifel/livre_complexite.html) - Sylvain Perifel
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) - D. Beauquier, J. Berstel, et Ph. Chrétienne (PDF)
 * [France-IOI](http://www.france-ioi.org)
@@ -94,6 +95,7 @@
 ### Assembleur
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+* [Reverse Engineering for Beginners](https://beginners.re/RE4B-FR.pdf) - Dennis Yurichev, Florent Besnard, Marc Remy, Baudouin Landais, Téo Dacquet (PDF)
 
 
 ### Bash / Shell

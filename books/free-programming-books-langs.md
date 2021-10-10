@@ -943,6 +943,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [IoT in five days- V1.1](https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases) (PDF, EPUB)
 * [Mastering Internet of Things](https://www.packtpub.com/free-ebooks/mastering-internet-things) - Peter Waher (Packt account *required*)
+* [Internet-of-Things (IoT) Systems](http://alvarestech.com/temp/smar/Smar/Book2021/Industry4.0/2019/Dimitrios%20Serpanos,Marilyn%20Wolf%20(auth.)%20-%20%20Internet-of-Things%20(IoT)%20Systems_%20Architectures,%20Algorithms,%20Methodologies-Springer%20International%20Publishing%20(2018).pdf) - Dimitrios Serpanos and Marilyn Wolf
 
 
 ### Isabelle/HOL

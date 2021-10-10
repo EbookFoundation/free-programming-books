@@ -77,7 +77,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [TechBooksForFree.com](http://www.techbooksforfree.com)
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [Theassayer.org](http://theassayer.org)
-* [The Open Logic Project](https://openlogicproject.org/download/) - [All Builds](http://builds.openlogicproject.org/)
+* [The Open Logic Project](https://openlogicproject.org/download) - [All Builds](http://builds.openlogicproject.org)
 * [tutorialspoint](http://www.tutorialspoint.com)
 
 

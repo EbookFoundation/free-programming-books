@@ -5,7 +5,6 @@
 * [Git](#Git)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Vue.js 3](#vue.js3)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)

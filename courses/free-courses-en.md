@@ -174,7 +174,6 @@
 
 ### Bash / Shell
 
-* [A Beginner's Introduction to BASH Shell Scripting](https://www.youtube.com/watch?v=_n5ZegzieSQ) - Joe Collins
 * [Bento Shell Track](https://bento.io/topic/shell) - Jon Chan (Bento)
 * [How to CMake Good](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s) - vector-of-bool (YouTube)
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790) - The Bad Tutorials (YouTube)

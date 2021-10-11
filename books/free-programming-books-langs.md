@@ -466,7 +466,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
 * [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511) - Steven F. Daniel (Packt account *required*)
 * [.NET Book Zero](http://www.charlespetzold.com/dotnet) - Charles Petzold (PDF, XPS)
-* [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (email address *requested*, not required)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
@@ -1002,7 +1001,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learning Java Language](https://riptutorial.com/Download/java-language.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
 * [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
-* [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook) - Simon Kendal (PDF) , Bookboon. (email address *requested*, not required)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky (PDF)
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) - Nebrass Lamouchi *(Leanpub account or valid email requested)*
@@ -1768,7 +1766,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Prolog
 
 * [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/)
-* [Applications of Prolog](http://bookboon.com/en/applications-of-prolog-ebook) - Attila Csenki, Bookboon. (email address *requested*, not required)
 * [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
 * [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
 * [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
@@ -1780,7 +1777,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Prolog and Natural - Language Analysis](http://www.mtome.com/Publications/PNLA/pnla-digital.html) - Fernando C. N. Pereira, Stuart M. Shieber
 * [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
-* [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook) - Attila Csenki, Bookboon. (email address *requested*, not required)
 * [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
 * [The Art of Prolog, Second Edition](https://mitpress.mit.edu/books/art-prolog-second-edition) - Leon S. Sterling, Ehud Y. Shapiro (Open Access)
 * [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon

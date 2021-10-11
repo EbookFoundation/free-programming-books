@@ -21,6 +21,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
+* [Nim](#nim)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
 * [Perl](#perl)
@@ -169,6 +170,11 @@
 ### <a name="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
+
+
+### Nim
+
+* [Nim Playground](https://play.nim-lang.org) - nim-lang.org
 
 
 ### NodeJS

@@ -202,7 +202,7 @@
 
 #### React.js
 
-* [Chats with Kent C. Dodds](https://podcasts.apple.com/us/podcast/chats-with-kent-c-dodds/id1475543959) - Kent C Dodds (podcast)
+* [Chats with Kent C. Dodds](https://kentcdodds.com/chats/04) - Kent C Dodds (podcast)
 * [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
 * [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
 * [React Round Up](https://devchat.tv/podcasts/react-round-up) - DevChat.tv (podcast)

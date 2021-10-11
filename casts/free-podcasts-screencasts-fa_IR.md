@@ -1,6 +1,6 @@
 ### Index
 
-* [Programming news](#programmingnews)
+* [Programming News](#programming-news)
 * [Technology](#technology)
 
 

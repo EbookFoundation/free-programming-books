@@ -173,6 +173,7 @@
 #### Angular
 
 * [Angular Air](https://angularair.com) (podcast)
+* [Angular Master](https://anchor.fm/angular-master) (podcast)
 
 
 #### Elm

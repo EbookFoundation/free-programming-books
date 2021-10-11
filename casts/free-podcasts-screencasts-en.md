@@ -155,7 +155,7 @@
 
 ### JavaScript
 
-* [devMode.fm](https://podcasts.apple.com/us/podcast/devmode-fm/id1323364824) (podcast)
+* [devMode.fm](https://devmode.fm) - Andrew Welch, Patrick Harrington, Jonathan Melville, Michael Rog et al. (podcast)
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
 * [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript) (screencast)
 * [Front End Happy Hour](http://frontendhappyhour.com) (podcast)

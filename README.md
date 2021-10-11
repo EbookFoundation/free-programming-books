@@ -100,6 +100,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [Turkish / Türkçe](courses/free-courses-tr.md)
 + [Ukrainian / Українська](courses/free-courses-ua.md)
 + [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
++ [Khmer / ភាសាខ្មែរ](courses/free-courses-kh.md)
 
 
 ### Interactive Programming Resources

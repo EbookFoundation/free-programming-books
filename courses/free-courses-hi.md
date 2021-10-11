@@ -46,7 +46,7 @@
 * [All C Concepts \| Hindi](https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
 * [C Language Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - CodeWithHarry
 * [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - CodeWithHarry
-
+* [Programming in C](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) - Jenny
 
 ### C++
 
@@ -54,6 +54,7 @@
 * [C++ Programming in Hindi](https://www.youtube.com/playlist?list=PLDA2q3s0-n15yszaZ2yRKEoxY-WWkuAt4) - Sumit Bisht (Edutainment 1.0)
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+
 
 
 ### Data Structures

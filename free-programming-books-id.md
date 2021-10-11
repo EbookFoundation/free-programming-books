@@ -112,5 +112,5 @@
 
 
 ### Vue
-
+* [Belajar Vue.js](https://variancode.com/belajar-vue-js/)
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)

@@ -399,8 +399,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Beanshell Simple Java Scripting Manual](http://www.beanshell.org/manual/bshmanual.pdf) - beanshell.org (PDF)
 * [BeanShell User's Manual](http://www.beanshell.org/manual/bshmanual.html) - beanshell.org (HTML)
-* [Using Beanshell for Beginners](https://www.blazemeter.com/blog/using-beanshell-beginners-no-java-knowledge-required) - Bob Meliev
-* [BeanShell Scripting in JMeter](https://artoftesting.com/beanshellscripting) - Kuldeep Rana
 
 
 ### BETA

@@ -1,9 +1,10 @@
 ### Index
 
 * [Android](#android)
-* [C](#c)
+* [Angular](#angular)
 * [C Sharp](#c-sharp)
 * [C++](#cpp)
+* [C](#c)
 * [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)
@@ -35,8 +36,8 @@
 * [Shell](#shell)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
 * [Vue.js](#vuejs)
+* [WordPress](#wordpress)
 
 
 ### Android
@@ -45,10 +46,11 @@
 * [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) - Unicamp (Coursera)
 
 
-### C
+### Angular
 
-* [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
-* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (Youtube)
+* [Começando com Angular](https://app.balta.io/courses/7181) - Andre Baltieri (balta.io)
+* [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
+* [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 
 
 ### C Sharp
@@ -64,6 +66,12 @@
 <h3 id="cpp">C++</h3>
 
 * [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
+
+
+### C
+
+* [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
+* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (Youtube)
 
 
 ### CSS
@@ -299,13 +307,6 @@
 
 * [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) - DevDojo (YouTube)
 * [TypeScript, o início, de forma prática](https://www.youtube.com/watch?v=0mYq5LrQN1s) - Rocketseat, Diego Fernandes (YouTube)
-
-
-#### Angular
-
-* [Começando com Angular](https://app.balta.io/courses/7181) - Andre Baltieri (balta.io)
-* [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
-* [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 
 
 ### Vue.js

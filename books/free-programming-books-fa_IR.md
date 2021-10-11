@@ -38,7 +38,7 @@
 ### JavaScript
 
 * مارین هاوربک - [جاوااسکریپت شیوا](http://eloquentjs.ir) (HTML)
-* [یادگیری اصولی جاواسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
+* [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 
 
 ### LaTeX

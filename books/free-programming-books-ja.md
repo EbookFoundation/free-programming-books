@@ -351,6 +351,7 @@
 * [お気楽 Go 言語プログラミング入門](http://www.nct9.ne.jp/m_hiroi/golang) - 広井誠
 * [サンプルで学ぶ Go 言語](https://www.spinute.org/go-by-example) - Mark McGranaghan, spinute(翻訳)
 * [テスト駆動開発でGO言語を学びましょう](https://andmorefine.gitbook.io/learn-go-with-tests/) - Christopher James, andmorefine(翻訳)
+* [とほほの Go 言語入門](https://www.tohoho-web.com/ex/golang.html) - 杜甫々
 * [はじめてのGo―シンプルな言語仕様，型システム，並行処理](https://gihyo.jp/dev/feature/01/go_4beginners) - Jxck
 * [プログラミング言語 Go ドキュメント](http://go.shibu.jp) - The Go Authors, SHIBUKAWA Yoshiki 他(翻訳)
 
@@ -633,6 +634,7 @@
 
 * [Effective Scala](https://twitter.github.io/effectivescala/index-ja.html) - Marius Eriksen, Yuta Okamoto(翻訳), Satoshi Kobayashi(翻訳)
 * [Scala で書く tetrix](https://eed3si9n.com/tetrix-in-scala/ja) - Eugene Yokota
+* [ScalaによるWebアプリケーション開発](https://github.com/hatena/Hatena-Textbook/blob/master/web-application-development-scala.md) - はてな教科書
 * [独習 Scalaz](https://eed3si9n.com/learning-scalaz/ja) - Eugene Yokota
 
 
@@ -678,7 +680,7 @@
 
 ### Swift
 
-* [逆引きSwift](http://docs.fabo.io/swift/) - FaBo
+* [逆引きSwift](http://faboplatform.github.io/SwiftDocs/) - FaBo
 
 
 ### Tcl/Tk

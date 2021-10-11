@@ -21,6 +21,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
+* [Nim](#nim)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
 * [Perl](#perl)
@@ -33,6 +34,7 @@
 * [Rust](#rust)
 * [RxJS](#rxjs)
 * [Scala](#scala)
+* [Solidity](#solidity)
 * [SQL](#sql)
 * [Svelte](#svelte)
 * [Swift](#swift)
@@ -52,6 +54,7 @@
 
 ### <a name="cpp"></a>C++
 
+* [Coding Minutes](https://ide.codingminutes.com)
 * [LabStack](https://code.labstack.com/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)
@@ -169,6 +172,11 @@
 * [.NET Fiddle](https://dotnetfiddle.net)
 
 
+### Nim
+
+* [Nim Playground](https://play.nim-lang.org) - nim-lang.org
+
+
 ### NodeJS
 
 * [Ideone](http://ideone.com)
@@ -244,6 +252,12 @@
 * [ScalaFiddle.io](https://scalafiddle.io)
 * [ScalaFiddle.net](http://scalafiddle.net)
 * [Scastie](https://scastie.scala-lang.org)
+
+
+### Solidity
+
+* [ETH.Build](https://eth.build) - Austin Thomas Griffith
+* [Remix IDE](https://remix.ethereum.org) - ethereum.org
 
 
 ### SQL

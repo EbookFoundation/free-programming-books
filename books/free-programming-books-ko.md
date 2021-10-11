@@ -40,6 +40,11 @@
 * [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter (PDF)
 
 
+### AWK
+
+* [AWS 스크립트](https://mug896.github.io/awk-script)
+
+
 ### C
 
 * [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)

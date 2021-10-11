@@ -25,6 +25,7 @@
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
+* [Networking](#networking)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
@@ -47,6 +48,7 @@
 ### C
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
+* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (Youtube)
 
 
 ### C Sharp
@@ -162,6 +164,7 @@
 ### JavaScript
 
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo
+* [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
 * [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/discover/courses) - Rocketseat
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 
@@ -184,6 +187,7 @@
 
 ### Linux
 
+* [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) - Gustavo Guanabara (Youtube)
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
 * [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
 
@@ -204,6 +208,11 @@
 * [Aprenda Markdown](https://www.udemy.com/aprenda-markdown/) - Roberto Achar (Udemy)
 
 
+### Networking
+
+* [Curso de IPv6 Básico a Distância](http://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about) - NIC.br
+
+
 ### Node.js
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
@@ -221,7 +230,6 @@
 * [Curso Introdução ao Laravel 8](https://academy.especializati.com.br/curso/introducao-ao-laravel-8) - Carlos Ferreira (Especializati academy)
 * [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
 * [Introdução ao PHP orientado a objetos](https://www.udemy.com/php-orientado-a-objetos/) - Diego Mariano (Udemy)
-* [Laravel 8 - Primeiros Passos](https://www.udemy.com/course/laravel-8/) - Nanderson Castro (Udemy)
 * [Lógica de Programação com PHP](https://www.youtube.com/playlist?list=PLhTDLccA9vgHHwGZArcUqIZ5AUGwrbZ_A) - Curso Zend Framework (YouTube)
 * [Login com validação e flash messages (PHP)](https://www.udemy.com/login-com-validacao-e-flash-messages-php/) - Alexandre Cardoso (Udemy)
 * [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
@@ -307,4 +315,5 @@
 
 ### WordPress
 
+* [Curso de Loja Virtual: WooCommerce + WordPress](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR) - Curso em vídeo (YouTube)
 * [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Curso em vídeo (YouTube)

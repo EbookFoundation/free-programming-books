@@ -1,54 +1,54 @@
-*Diese Anleitung in anderen Sprachen: [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*Diese Anleitung in anderen Sprachen: [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md).*
 
 ## Lizenzvereinbarung für Mitwirkende
-Durch deine Mitwirkung akzeptierst du die [Lizenz](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) dieses Repositorys.
+Durch Deine Mitwirkung akzeptierst Du die [Lizenz](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) dieses Repositorys.
 
 ## Verhaltenskodex für Mitwirkende
-Durch deine Mitwirkung verpflichtest du dich, dem [Verhaltenskodex](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) dieses Repositorys zu folgen.
+Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) dieses Repositorys zu folgen.
 
 ## Kurzfassung
-1. "Ein Link, um ein Buch auf einfache Weise herunterzuladen" ist nicht immer ein Link zu einem *kostenlosen* Buch. Bitte füge nur kostenlose Inhalte hinzu. Vergewissere Dich, dass sie kostenlos sind. Wir akzeptieren keine Links zu Seiten, die *voraussetzen*, dass man sich mit einer funktionierenden eMail-Adresse registriert, um ein Buch herunter zu laden, aber wir heißen Seiten willkommen, die um Eingaben von eMail-Adressen bitten.
-2. Du musst dich nicht mit Git auskennen: Wenn du etwas Interessantes gefunden hast, *das noch nicht in einer der Listen enthalten ist*, öffne bitte eine [Issue](https://github.com/EbookFoundation/free-programming-books/issues) mit deinen Linkvorschlägen.
-    - Wenn du dich mit Git auskennst, erstelle einen Fork des Repositorys und sende einen Pull Request.
+1. „Ein Link, um ein Buch auf einfache Weise herunterzuladen“ ist nicht immer ein Link zu einem *kostenlosen* Buch. Bitte füge nur kostenlose Inhalte hinzu. Vergewissere Dich, dass sie kostenlos sind. Wir akzeptieren keine Links zu Seiten, die *voraussetzen*, dass man sich mit einer funktionierenden E-Mail-Adresse registriert, um ein Buch herunterzuladen, aber wir heißen Seiten willkommen, die um (optionale) Eingaben von E-Mail-Adressen bitten.
+2. Du musst Dich nicht mit Git auskennen: Wenn Du etwas Interessantes gefunden hast, *das noch nicht in einer der Listen enthalten ist*, öffne bitte ein [Issue](https://github.com/EbookFoundation/free-programming-books/issues) mit Deinen Linkvorschlägen.
+    - Wenn Du Dich mit Git auskennst, erstelle einen Fork des Repositorys und sende einen Pull Request.
 3. Wir führen 5 Arten von Listen. Achte darauf, die richtige zu wählen:
 
-    - *Bücher* : PDF, HTML, ePub, eine auf gitbook.io basierende Seite, ein Git Repo etc.
-    - *Kurse* : Ein Kurs beschreibt Lernmaterialien, die nicht in Buchform existieren. [Dies ist ein Kurs](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Interaktive Tutorials* : Eine interaktive Webseite, die den Benutzer Sourcecode oder Kommandos eingeben lässt und das Resultat auswertet (mit "auswerten" meinen wir nicht "bewerten"). z.B.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
-    - *Podcasts und Screencasts* : Podcasts und Screencasts.
-    - *Problem Sets & Competitive Programming* : Eine Webseite oder Software, die dir die Möglichkeit gibt, deine Programmierfähigkeiten durch die Lösung einfacher oder komplexer Problemstellungen auf die Probe zu stellen, mit oder ohne Code Review und mit oder ohne den Vergleich der Leistungen mit anderen Besuchern der Seite.
+    - *Bücher*: PDF, HTML, ePub, eine auf gitbook.io basierende Seite, ein Git Repo etc.
+    - *Kurse*: Ein Kurs beschreibt Lernmaterialien, die nicht in Buchform existieren. [Dies ist ein Kurs](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
+    - *Interaktive Tutorials*: Eine interaktive Webseite, die den Benutzer Sourcecode oder Kommandos eingeben lässt und das Resultat auswertet (mit "auswerten" meinen wir nicht "bewerten"). z.&nbsp;B.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
+    - *Podcasts und Screencasts*: Podcasts und Screencasts.
+    - *Problem Sets & Competitive Programming*: Eine Webseite oder Software, die Dir die Möglichkeit gibt, Deine Programmierfähigkeiten durch die Lösung einfacher oder komplexer Problemstellungen auf die Probe zu stellen, mit oder ohne Code Review und mit oder ohne den Vergleich der Leistungen mit anderen Besuchern der Seite.
 
-4. Stell sicher, dass du den [Richtlinien](#richtlinien) folgst und die [Markdown Formatierung](#formatierung) der Dateien beachtest.
+4. Stell sicher, dass Du den [Richtlinien](#richtlinien) folgst und die [Markdown Formatierung](#formatierung) der Dateien beachtest.
 
-5. GitHub Actions werden Tests ausführen, um sicherzustellen, dass die Listen korrekt alphabetisiert sind and den Formatierungsregeln Folge geleistet wurde. Stell sicher, dass deine Änderungen diese Tests bestehen.
+5. GitHub Actions werden Tests ausführen, um sicherzustellen, dass die Listen korrekt alphabetisiert sind und den Formatierungsregeln Folge geleistet wurde. Stell sicher, dass Deine Änderungen diese Tests bestehen.
 
 ### Richtlinien
-- stell sicher, dass ein Buch wirklich kostenlos ist. Vergewissere dich noch einmal, falls nötig. Es hilft den Administratoren, wenn du in deinem PR beschreibst, warum du der Ansicht bist, dass das jeweilige Buch kostenlos ist.
-- wir nehmen keine Dateien auf, die auf Google Drive, Dropbox, Mega, Scribd, Issuu oder einer vergleichbaren Upload-Plattform liegen.
-- füge die Links in alphabetischer Reihenfolge ein. Wenn du einen fehlerhaft eingefügten Link findest, korrigiere bitte die Reihenfolge und öffne eine PR.
-- wähle immer den Link der maßgeblichen Quelle aus (das heißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)
-    + keine File Hosting Plattformen (inklusive Links zu Dropbox, Google Drive u.ä.)
-- ein `https` Link sollte einem `http` Link immer vorgezogen werden -- solange sie auf dieselbe Domain und denselben Inhalt verweisen. 
-- auf Root Domains sollte der abschließende Schrägstrich entfernt werden: `http://example.com` anstelle von `http://example.com/`
-- wähle immer den kürzesten Link: `http://example.com/dir/` ist besser als `http://example.com/dir/index.html`
-    + benutze keine URL-Verkürzer
-- wähle bevorzugt den Link zur aktuellsten Version anstatt eine konkrete Version zu verlinken: `http://example.com/dir/book/current/` ist besser als `http://example.com/dir/book/v1.0.0/index.html`
-- wenn ein Link ein abgelaufenes oder selbst-signiertes Zertifikat nutzt oder ein anderes SSL Problem aufweist:
+- Stell sicher, dass ein Buch wirklich kostenlos ist. Vergewissere Dich noch einmal, falls nötig. Es hilft den Administratoren, wenn Du in Deinem PR beschreibst, warum Du der Ansicht bist, dass das jeweilige Buch kostenlos ist.
+- Wir nehmen keine Dateien auf, die auf Google Drive, Dropbox, Mega, Scribd, Issuu oder einer vergleichbaren Upload-Plattform liegen.
+- Füge die Links in alphabetischer Reihenfolge ein. Wenn Du einen fehlerhaft eingefügten Link findest, korrigiere bitte die Reihenfolge und öffne eine PR.
+- Wähle immer den Link der maßgeblichen Quelle aus (das heißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)
+    + Keine File Hosting Plattformen (inklusive Links zu Dropbox, Google Drive u.ä.)
+- Ein `https` Link sollte einem `http` Link immer vorgezogen werden -- solange sie auf dieselbe Domain und denselben Inhalt verweisen. 
+- Auf Root Domains sollte der abschließende Schrägstrich entfernt werden: `http://example.com` anstelle von `http://example.com/`
+- Wähle immer den kürzesten Link: `http://example.com/dir/` ist besser als `http://example.com/dir/index.html`
+    + Benutze keine URL-Verkürzer
+- Wähle bevorzugt den Link zur aktuellsten Version anstatt eine konkrete Version zu verlinken: `http://example.com/dir/book/current/` ist besser als `http://example.com/dir/book/v1.0.0/index.html`
+- Wenn ein Link ein abgelaufenes oder selbst-signiertes Zertifikat nutzt oder ein anderes SSL Problem aufweist:
   1. *ersetze ihn* mit seinem `http` Gegenstück, wenn möglich (weil es auf Mobilgeräten kompliziert sein kann, Ausnahmen zuzulassen).
   2. *lass ihn wie er ist*, falls keine `http` Version verfügbar ist, auf den Link aber über `https` zugegriffen werden kann, indem man im Browser die Warnung ignoriert oder eine Ausnahme hinzufügt.
   3. *entferne ihn* anderenfalls.
-- wenn ein Link in verschiedenen Formaten existiert, füge einen separaten Link hinzu mit einem Hinweis zu jedem Format
-- wenn ein Inhalt an mehreren Stellen im Internet verfügbar ist
+- Wenn ein Link in verschiedenen Formaten existiert, füge einen separaten Link hinzu mit einem Hinweis zu jedem Format
+- Wenn ein Inhalt an mehreren Stellen im Internet verfügbar ist
     + wähle den Link der maßgeblichen Quelle aus (das heißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)
-    + wenn sie verschiedene Ausgaben verlinken und du der Meinung bist, dass sich diese Ausgaben in einem Maße unterscheiden, dass man alle aufheben sollte, füge einen separaten Link hinzu mit einem Hinweis zu jeder Ausgabe (siehe [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353), um dich an der Diskussion zur Formatierung zu beteiligen.)
-- bevorzuge atomare Commits (ein Commit pro Änderung), anstatt größere Commits zu machen. Es besteht keine Notwendigkeit, die Commits vor dem Abschicken des PR zu squashen. (Wir werden die Befolgung dieser Regel niemals erzwingen, da es sich hier nur um die Vermeidung von Unannehmlichkeiten für die Maintainer handelt)
-- vermerke das Datum der Veröffentlichung im Titel, wenn es sich um ein älteres Buch handelt.
-- erfasse gegebenenfalls den Namen des oder der Autoren. Eine längere Liste von Autoren kann mit dem Zusatz "et al." gekürzt werden.
-- wenn das Buch noch nicht fertiggestellt ist und sich noch in Bearbeitung befindet, füge wie [unten](#in_process) beschrieben einen "in Bearbeitung" Hinweis hinzu.
-- wenn eine funktionierende eMail Adresse oder das Einrichten eines Benutzerkontos vor Aktivierung des Downloads erbeten wird, sollten angemessene Hinweise in Klammern angegeben werden, z.B.: `(eMail Adresse *erbeten*, nicht erforderlich)`
+    + wenn sie verschiedene Ausgaben verlinken und Du der Meinung bist, dass sich diese Ausgaben in einem Maße unterscheiden, dass man alle aufheben sollte, füge einen separaten Link hinzu mit einem Hinweis zu jeder Ausgabe (siehe [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353), um Dich an der Diskussion zur Formatierung zu beteiligen.)
+- Bevorzuge atomare Commits (ein Commit pro Änderung), anstatt größere Commits zu machen. Es besteht keine Notwendigkeit, die Commits vor dem Abschicken des PR zu squashen. (Wir werden die Befolgung dieser Regel niemals erzwingen, da es sich hier nur um die Vermeidung von Unannehmlichkeiten für die Maintainer handelt)
+- Vermerke das Datum der Veröffentlichung im Titel, wenn es sich um ein älteres Buch handelt.
+- Erfasse gegebenenfalls den Namen des oder der Autoren. Eine längere Liste von Autoren kann mit dem Zusatz "et al." gekürzt werden.
+- Wenn das Buch noch nicht fertiggestellt ist und sich noch in Bearbeitung befindet, füge wie [unten](#in_process) beschrieben einen "in Bearbeitung" Hinweis hinzu.
+- Wenn eine funktionierende E-Mail Adresse oder das Einrichten eines Benutzerkontos vor Aktivierung des Downloads erbeten wird, sollten angemessene Hinweise in Klammern angegeben werden, z.&nbsp;B.: `(E-Mail Adresse *erbeten*, nicht erforderlich)`
 
 ### Formatierung
-- Bei allen Listen handelt es sich um `.md` Dateien. Versuche bitte, dir die [Markdown](https://guides.github.com/features/mastering-markdown/) Syntax anzueignen. Sie ist ganz einfach!
+- Bei allen Listen handelt es sich um `.md` Dateien. Versuche bitte, Dir die [Markdown](https://guides.github.com/features/mastering-markdown/) Syntax anzueignen. Sie ist ganz einfach!
 - Alle Listen beginnen mit einem Inhaltsverzeichnis, in dem alle Abschnitte und Unterabschnitte verlinkt werden sollten. Bitte halte eine alphabetische Reihenfolge ein.
 - Abschnitte nutzen Überschriften der Ebene 3 (`###`), während Unterabschnitte die 4. Ebene (`####`) nutzen.
 
@@ -76,7 +76,7 @@ FALSCH : * [Noch ein tolles Buch] (http://example.com/book.html)
 RICHTIG: * [Noch ein tolles Buch](http://example.com/book.html)
 ```
 
-- Wenn du den Autor nennst, nutze ` - ` (einen mit Leerzeichen eingefassten Gedankenstrich):
+- Wenn Du den Autor nennst, nutze ` - ` (einen mit Leerzeichen eingefassten Gedankenstrich):
 
 ```
 FALSCH : * [Noch ein tolles Buch](http://example.com/book.html)- John Doe
@@ -145,14 +145,14 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 - Wir wollen alle Urheber kostenloser Inhalte angemessen nennen, inklusive eventueller Übersetzer!
 - For übersetzte Werke sollte der Autor des ursprünglichen Werks genannt werden.
 - Wir erlauben keine Links für Urheber.
-- Für Sammlungen oder neu zusammengestellte Werke, benötigt der "Urheber" eventuell eine Beschreibung. Bücher von "GoalKicker" werden z.B. als "Zusammengestellt aus StackOverflow Dokumentationen" gekennzeichnet.
+- Für Sammlungen oder neu zusammengestellte Werke, benötigt der "Urheber" eventuell eine Beschreibung. Bücher von "GoalKicker" werden z.&nbsp;B. als "Zusammengestellt aus StackOverflow Dokumentationen" gekennzeichnet.
 
-##### Plattformen and Zugriffshinweise
+##### Plattformen und Zugriffshinweise
 
 - Kurse. Insbesondere bei unseren Kurslisten spielt die Plattform eine wichtige Rolle in der Beschreibung des Inhalts. Der Grund dafür ist, dass Kurs-Plattformen unterschiedliche Zugangsmodelle und Angebotscharakter haben. Obwohl wir keine Bücher aufnehmen, die eine Registrierung erfordern, können viele Kurs-Plattformen ohne irgendeine Art der Registrierung nicht funktionieren. Beispiele für Kurs-Plattformen sind Coursera, EdX, Udacity und Udemy. Wenn ein Kurs von einer bestimmten Plattform abhängt, sollte der Name der Plattform in Klammern angehängt werden. 
 - YouTube. Wir haben viele Kurse in Form von YouTube Wiedergabelisten. Wir führen Youtube nicht als Plattform auf, sondern versuchen den Urheber des Kurses zu nennen, der oftmals eine Unter-Plattform darstellt.
 - YouTube Videos. Wir verlinken normalerweise keine einzelnen YouTube Videos. Ausnahmen bilden Videos von mehr als einer Stunde Länge, die wie ein Kurs oder Tutorial strukturiert sind. 
-- Leanpub. Leanpub beherbergt Bücher mit einer Vielzahl von Zugangsmodellen. Manchmal kann ein Buch ohne Registrierung gelesen werden; in anderen Fällen wird ein Leanpub Konto für einen kostenfreien Zugang benötigt. Aufgrund der Qualität der Bücher und der unterschiedlichen und fließenden Zugangsmodelle erlauben wir die Aufnahme letzterer, wenn sie mit dem Zugriffshinweis *(Leanpub Konto oder gültige eMail angefordert)* versehen sind.
+- Leanpub. Leanpub beherbergt Bücher mit einer Vielzahl von Zugangsmodellen. Manchmal kann ein Buch ohne Registrierung gelesen werden; in anderen Fällen wird ein Leanpub Konto für einen kostenfreien Zugang benötigt. Aufgrund der Qualität der Bücher und der unterschiedlichen und fließenden Zugangsmodelle erlauben wir die Aufnahme letzterer, wenn sie mit dem Zugriffshinweis *(Leanpub Konto oder gültige E-Mail angefordert)* versehen sind.
 
 #### Genre
 
@@ -172,7 +172,7 @@ Da das Internet unermesslich ist, nehmen wir folgende Inhalte nicht in unsere Li
 - IRC oder Telegram Kanäle
 - Slack Workspaces oder Mailinglisten
 
-Unsere Listen zu Programmierwettbewerben setzen diese Verbote nicht so strikt um. Art und Umfang des Repositorys wird von der Community bestimmt; wenn du eine Änderung oder Ausweitung der Ausrichtung vorschlagen möchtest, eröffne bitte ein Issue, um den Vorschlag zu unterbreiten. 
+Unsere Listen zu Programmierwettbewerben setzen diese Verbote nicht so strikt um. Art und Umfang des Repositorys wird von der Community bestimmt; wenn Du eine Änderung oder Ausweitung der Ausrichtung vorschlagen möchtest, eröffne bitte ein Issue, um den Vorschlag zu unterbreiten. 
 
 ##### Buch vs. anderes Zeug
 
@@ -209,4 +209,4 @@ check_urls=free-programming-books.md free-programming-books-en.md
 ```
 
 - Man kann mehr als eine zu überprüfende Datei angeben, wobei die Einträge mit einem einzelnen Leerzeichen getrennt werden.
-- Bei Angabe von mehr als einer Datei basiert das Ergebnis des Builds auf dem Ergebnis der letzten geprüften Datei. Du solltest dir darüber im Klaren sein, dass dies zu gültigen Builds führen kann und daher das Build Protokoll am Ende des Pull Request durch Klick auf "Show all checks" -> "Details" genau geprüft werden sollte.   
+- Bei Angabe von mehr als einer Datei basiert das Ergebnis des Builds auf dem Ergebnis der letzten geprüften Datei. Du solltest Dir darüber im Klaren sein, dass dies zu gültigen Builds führen kann und daher das Build Protokoll am Ende des Pull Request durch Klick auf "Show all checks" -> "Details" genau geprüft werden sollte.   

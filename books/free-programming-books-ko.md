@@ -1,11 +1,11 @@
 ### Index
 
-* [수학](#%EC%88%98%ED%95%99)
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
 * [C](#c)
 * [C++](#cpp)
 * [Docker](#docker)
+* [Elastic](#elastic)
 * [GIT](#git)
 * [Go](#go)
 * [HTML5](#html5)
@@ -14,6 +14,8 @@
   * [Node.js](#nodejs)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Mathematics](#mathematics)
+* [Operation System](#operation-system)
 * [Perl](#perl)
 * [PHP](#php)
   * [Laravel](#laravel)
@@ -25,12 +27,7 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scratch](#scratch)
-* [Swift](#swift)
-
-
-### 수학
-
-* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/) - William Stein
+* [Unicode](#unicode)
 
 
 ### Amazon Web Service
@@ -57,6 +54,11 @@
 ### Docker
 
 * [가장 빨리 만나는 Docker](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
+
+
+### Elastic
+
+* [Elastic 가이드북](https://esbook.kimjmin.net) - 김종민
 
 
 ### GIT
@@ -106,6 +108,16 @@
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
 
 
+### Mathematics
+
+* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
+
+
+### Operation System
+
+* [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi Arpacidusseau (PDF)
+
+
 ### Perl
 
 * [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
@@ -128,8 +140,10 @@
 
 * [내가 파이썬을 배우는 방법](https://wikidocs.net/7839)
 * [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
+* [실용 파이썬 프로그래밍: 프로그래밍 유경험자를 위한 강좌](https://wikidocs.net/book/4673) - 최용
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+* [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
 * [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
@@ -171,5 +185,10 @@
 ### Scratch
 
 * [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
+
+
+### Unicode
+
+* [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
 
 

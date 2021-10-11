@@ -19,7 +19,7 @@
 
 ### Desarrollo Web
 
-* [Codalot Podcast](https://codalot.dev) (podcast)
+* [Codalot Podcast](https://www.ivoox.com/escuchar-codalot-podcast_nq_747399_1.html) (podcast)
 * [Hablando.js](https://anchor.fm/carlosazaustre) - Carlos Azaustre (podcast)
 * [La Web es la Plataforma](https://anchor.fm/the-web-is-the-platform) (podcast)
 * [República Web](https://republicaweb.es) (podcast)
@@ -64,8 +64,8 @@
 * [Doomling & Chill](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNGM2ZjE5MC9wb2RjYXN0L3Jzcw==) (podcast)
 * [Educando Geek](https://educandogeek.github.io) (podcast)
 * [Frikismo Puro](https://www.ivoox.com/podcast-frikismo-puro_sq_f1268809_1.html) (podcast)
-* [Hijos de la Web](https://www.hijosdelaweb.com) (podcast) (Última Actualización, Marzo 2020)
-* [iCharlas](http://icharlas.es) (podcast)
+* [Hijos de la Web](https://www.ivoox.com/podcast-hijos-web_sq_f1588708_1.html) (podcast)
+* [iCharlas](https://www.ivoox.com/podcast-icharlas-podcast_sq_f155400_1.html) (podcast)
 * [La Tecnologería](https://tecnologeria.com) (podcast)
 * [Más allá de la innovación](https://masalladelainnovacion.com/todos-los-podcasts/) (podcast)
 * [Mixx.io](https://mixx.io/podcasts) (podcast)

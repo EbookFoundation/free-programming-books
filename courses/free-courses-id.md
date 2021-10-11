@@ -158,6 +158,7 @@
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
 * [HTML5 Canvas](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teW5TsBQmD2MzLU5ryjXkVE) - Idr Corner
 * [HTML5 Dasar](https://www.buildwithangga.com/kelas/html5-dasar) - BuildWithAngga
+* [HTML5 Pemula Dasar](https://www.petanikode.com/html-dasar/) - petanikode
 
 
 ### Java
@@ -174,7 +175,8 @@
 #### Spring
 
 * [Belajar Spring Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882aeiESAgna5eVa_cOpFnxQm) - Imam Farisi (YouTube)
-* [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Mastahcode
+* [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Wafiq Subhi, Mastahcode (Youtube)
+* [SpringBoot](https://www.youtube.com/playlist?list=PLRjWo99hnirwyafPfaxfu0psMR0hUmdQc) - Hendro Steven Tampake, Kelas Koding (YouTube)
 
 
 ### JavaScript
@@ -268,6 +270,7 @@
 
 * [Belajar MySQL](https://www.youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_) - Indonesia Belajar
 * [Belajar MySQL/MariaDB](https://www.youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF) - Guntur Budi
+* [MYSQL Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_P2_2zR6pvDublvpD3fF6W) - Programmer Zaman Now (Youtube)
 
 
 ### PHP

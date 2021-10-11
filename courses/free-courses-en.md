@@ -64,6 +64,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Security](#security)
+* [Solidity](#solidity)
 * [Swift](#swift)
   * [Vapor](#vapor)
 * [Theory](#theory)
@@ -137,6 +138,7 @@
 * [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) - (Udacity)
 * [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867) - (Udacity)
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) - (Udacity)
+* [Learn Android Application Development for Beginners](https://www.udemy.com/course/learn-android-application-development-y/) - Johan Jurrius, ProgramMe Programming (Udemy)
 * [Learn how to program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
 * [Material design](https://material.io/guidelines/)
 * [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) - (Udacity)
@@ -214,6 +216,7 @@
 * [C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) - ProgrammingKnowledge
 * [C++ Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM) - The Bad Tutorials
 * [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - Mike Dane - (freeCodeCamp)
+* [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) - John Purcell (Udemy)
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
@@ -296,6 +299,7 @@
 * [Introduction to Reinforcement learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) - David Silver
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) - Alexander Amini, Ava Soleimany
+* [NYU Deep Learning SP21](https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) Alfredo Canziani
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
@@ -398,6 +402,7 @@
 * [HTML and CSS Crash Course](https://scrimba.com/learn/htmlcss) - Kevin Powell (scrimba)
 * [HTML and CSS Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU) - Dani Krossing
 * [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
+* [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) - Stone River eLearning (Udemy)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
@@ -432,6 +437,7 @@
 * [Java Programming](https://java-programming.mooc.fi) - University of Helsinki
 * [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) - (Coursera)
 * [Java tutorial for beginners](https://youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1) - Bro Code (YouTube)
+* [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell (Udemy)
 * [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
 * [Learn Java](https://www.sololearn.com/learning/1068) - Sololearn *(email address required)*
 * [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/)
@@ -445,15 +451,17 @@
 
 ### JavaScript
 
+* [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - Jafar Husain
 * [Beginner's Series to: JavaScript](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer (YouTube)
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
-* [Egghead.io](https://egghead.io)
+* [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - André Staltz
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath (YouTube)
 * [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function» (Youtube)
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 * [Intro To JavaScript Unit Testing & BDD](https://www.youtube.com/watch?v=u5cLK1UrFyQ) - Traversy Media
 * [Javascript course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) - Hitesh Choudhary
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
+* [Javascript Mini Course 2020](https://www.udemy.com/course/javascript-essentials-mini-course/) - Kalob Taulien (Udemy)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - The Net Ninja
 * [Javascript30](https://javascript30.com) - Wesbos
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
@@ -520,6 +528,7 @@
 * [React Crash Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) - freecodecamp
 * [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - WebDevSimplified
 * [ReactJS Basics](https://www.youtube.com/playlist?list=PLe30vg_FG4OSw8SIcLVci-jB_-W1ZkLYp) - Bitfumes
+* [ReactJS Frontend Web Development For Beginners](https://www.udemy.com/course/react-tutorial/) - Ryan Dhungel (Udemy)
 * [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - Codevolution
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 
@@ -611,6 +620,7 @@
 
 ### Markdown
 
+* [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) - GitHub Learning Lab *(GitHub account or email address required)*
 * [MasteringMarkdown](https://masteringmarkdown.com) - Wesbos
 
 
@@ -769,6 +779,7 @@
 
 ### R
 
+* [R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/) - R-Tutorials Training (Udemy)
 * [R Programming](https://www.coursera.org/course/rprog)
 * [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) - (Barton Poulson) - (freeCodeCamp)
 * [R Tutorial For Beginners \| Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU) - (Edureka)
@@ -809,9 +820,17 @@
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
 
 
+### Solidity
+
+* [Learn Solidity](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg) - Will it Scale (Youtube)
+* [MASTER Solidity for Blockchain](https://youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g) - Dapp University (Youtube)
+* [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY) - Gregory McCubbin @ freeCodeCamp.org & Dapp University (YouTube)
+
+
 ### Swift
 
 * [100 days of Swift](https://www.hackingwithswift.com/100) - Hacking With Swift
+* [Data Structures and Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011) - Udacity
 * [How To Make An App For Beginners (iOS/Swift - 2019)](https://www.udemy.com/how-to-make-an-app-for-beginners-iosswift-2019/) - Chris Ching (Udemy)
 * [Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX) - CodeWithChris
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
@@ -850,6 +869,7 @@
 #### Deno
 
 * [Deno Beginner](https://denobeginner.com) - Ahmad Awais (email address *required*)
+* [Deno Course - Better than Node.js?](https://www.youtube.com/watch?v=TQUy8ENesGY) - The Codeholic, freeCodeCamp (YouTube)
 
 
 ### Verilog / VHDL / SystemVerilog
@@ -867,6 +887,7 @@
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [Essential Nextjs Typescript Tailwind Stack](https://www.youtube.com/playlist?list=PLKEkvhqFCRwL94nLP-TdIfNmbiZk5FCMx) - Fireship, Ben Awad, Traversy Media, Devs Force
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [Foundations of Front End Web Development](https://www.udemy.com/course/foundations-of-front-end-development/) - Davide Molin (Udemy)
 * [Free Code Camp](https://www.freecodecamp.org)
 * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - by AWS on Udacity
 * [Full stack open](https://fullstackopen.com/en/) - University of Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes

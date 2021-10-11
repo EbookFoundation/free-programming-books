@@ -21,6 +21,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
+* [Nim](#nim)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
 * [Perl](#perl)
@@ -171,6 +172,11 @@
 * [.NET Fiddle](https://dotnetfiddle.net)
 
 
+### Nim
+
+* [Nim Playground](https://play.nim-lang.org) - nim-lang.org
+
+
 ### NodeJS
 
 * [Ideone](http://ideone.com)
@@ -250,7 +256,8 @@
 
 ### Solidity
 
-* [Remix IDE](https://remix.ethereum.org)
+* [ETH.Build](https://eth.build) - Austin Thomas Griffith
+* [Remix IDE](https://remix.ethereum.org) - ethereum.org
 
 
 ### SQL

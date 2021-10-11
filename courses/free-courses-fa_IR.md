@@ -14,6 +14,7 @@
   * [Laravel](#laravel)
   * [Yii](#yii)
 * [Python](#python)
+  * [Django](#django)
 * [Web Development](#web-development)
 
 
@@ -60,6 +61,7 @@
 
 * [آموزش لینوکس - سکان‌آکادمی](https://sokanacademy.com/courses/linux) - Behzad Moradi
 * [آموزش لینوکس برای آدم های شاد](https://www.youtube.com/playlist?list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd) - Jadi Mirmirani
+* [آموزش لینوکس مقدماتی](https://www.youtube.com/watch?v=ZwaBNkQKrts&list=PLPj7mSUQL4v_oVLO-2Q1QQ9fAH45u8z4A) - Hamid Emamian
 * [LPIC-1](https://gotoclass.ir/courses/lpic-1) - Peyman Hushmandi Rad
 * [LPIC-2](https://gotoclass.ir/courses/lpic-2) - Jadi Mirmirani
 
@@ -103,6 +105,12 @@
 
 * [آموزش پایتون - سکان‌آکادمی](https://sokanacademy.com/courses/python) - Narges Asadi
 * [آموزش پایتون مقدماتی](https://gotoclass.ir/courses/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86) - Jadi Mirmirani
+
+
+  ### Django
+
+  * [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium
+  * [سوکت نویسی با کتابخانه جنگو چنلز](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) - Shahriar Shariati
 
 
 ### Web Development

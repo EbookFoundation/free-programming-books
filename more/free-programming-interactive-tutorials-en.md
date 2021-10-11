@@ -41,6 +41,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Selenium](#selenium)
+* [Solidity](#solidity)
 * [SQL](#sql)
 * [Vim](#vim)
 
@@ -337,6 +338,11 @@
 ### Selenium
 
 * [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
+
+
+### Solidity
+
+* [CryptoZombies.io](https://cryptozombies.io) - Loom Network
 
 
 ### SQL

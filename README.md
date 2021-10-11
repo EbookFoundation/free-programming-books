@@ -95,7 +95,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [Portuguese (Brazil)](courses/free-courses-pt_BR.md)
 + [Portuguese (Portugal)](courses/free-courses-pt_PT.md)
 + [Russian / Русский язык](courses/free-courses-ru.md)
-+ [Sinhala / සිංහල](courses/free-courses-sl.md)
++ [Sinhala / සිංහල](courses/free-courses-si.md)
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)

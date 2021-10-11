@@ -2,9 +2,9 @@
 
 * [Android](#android)
 * [Angular](#angular)
+* [C](#c)
 * [C Sharp](#c-sharp)
 * [C++](#cpp)
-* [C](#c)
 * [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)
@@ -53,6 +53,12 @@
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 
 
+### C
+
+* [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
+* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (Youtube)
+
+
 ### C Sharp
 
 * [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
@@ -66,12 +72,6 @@
 <h3 id="cpp">C++</h3>
 
 * [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
-
-
-### C
-
-* [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
-* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (Youtube)
 
 
 ### CSS

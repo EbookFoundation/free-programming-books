@@ -47,11 +47,7 @@
 ### JavaScript
 
 * [آموزش جاوا اسکریپت برای مبتدیان](https://youtube.com/playlist?list=PLV6mGBuPqmYuZEAJN7IBxkdNCzKXAGpqD) - Mansour Kalagar
-
-
-    ### Vue.js3
-
-    * [دوره اموزشی ویو جی اس 3](https://www.youtube.com/playlist?list=PLAt10Vana3YeC2d1tLRFjzYOqqWufyzGx)
+* [دوره اموزشی ویو جی اس 3](https://www.youtube.com/playlist?list=PLAt10Vana3YeC2d1tLRFjzYOqqWufyzGx) - Mehran Tarif «Silicium»
 
 
 ### Kotlin

@@ -53,9 +53,11 @@
 
 * [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
 
+
 ### Flutter
 
-* [Belajar Flutter](https://belajarflutter.com/) - Herry Prasetyo (HTML)
+* [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
+
 
 ### Git
 

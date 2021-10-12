@@ -122,6 +122,7 @@ Free Podcasts and Screencasts:
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
++ [French / français](casts/free-podcasts-screencasts-fr.md)
 + [Indonesian / Bahasa Indonesia](casts/free-podcasts-screencasts-id.md)
 + [Persian / Farsi (Iran) / فارسى](casts/free-podcasts-screencasts-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](casts/free-podcasts-screencasts-pl.md)

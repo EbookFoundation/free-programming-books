@@ -134,7 +134,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### Blockchain
 
-<!-- Waiting to add in -->
+* [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
 
 
 ### Cellular Automata

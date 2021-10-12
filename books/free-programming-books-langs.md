@@ -26,7 +26,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Bash](#bash)
 * [Basic](#basic)
 * [BETA](#beta)
-* [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
@@ -402,11 +401,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [MIA 99-41: BETA Language Modifications - Reference Manual](https://beta.cs.au.dk/Manuals/latest/beta/beta-index.html) - Mjølner Informatics
 * [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
 * [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
-
-
-### Blockchain
-
-* [Blockchain for Dummies](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
 
 
 ### C

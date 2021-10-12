@@ -1779,7 +1779,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Prolog and Natural - Language Analysis](http://www.mtome.com/Publications/PNLA/pnla-digital.html) - Fernando C. N. Pereira, Stuart M. Shieber
 * [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/) - Feliks Kluźniak, Stanisław Szpakowicz & Janusz S. Bień
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
-* [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html) - J. R. Fisher
+* [Prolog Tutorial](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html) - J. R. Fisher
 * [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space) - Peter Flach
 * [The Art of Prolog, Second Edition](https://mitpress.mit.edu/books/art-prolog-second-edition) - Leon S. Sterling, Ehud Y. Shapiro (Open Access)
 * [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon

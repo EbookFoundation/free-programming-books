@@ -15,6 +15,7 @@
   * [Yii](#yii)
 * [Python](#python)
   * [Django](#django)
+  * [Flask](#flask)
 * [Web Development](#web-development)
 
 
@@ -112,6 +113,11 @@
 
   * [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium
   * [سوکت نویسی با کتابخانه جنگو چنلز](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) - Shahriar Shariati
+
+
+  ### Flask
+
+  * [ آموزش توسعه وب با فریم‌ورک فلسک](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) - Alireza Ayinmehr
 
 
 ### Web Development

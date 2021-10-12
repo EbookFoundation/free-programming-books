@@ -23,6 +23,7 @@
   * [React](#react)
   * [Svelte](#svelte)
   * [Vue](#vue)
+  * [ExpressJS](#expressjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#Linux)
@@ -225,6 +226,11 @@
 * [Tutorial VueJs dengan API Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj3a7oLHb2a8pw8IHBq45WYu) - Wahidev Academy
 
 
+### ExpressJS
+
+* [ExpressJS Tutorial Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-sgzJx7rM_wMDONnEM4E0A) - balademy
+
+
 ### Kotlin
 
 * [Belajar Kotlin Collection](https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
@@ -288,7 +294,6 @@
 
 * [Tutorial Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_5lzhkUtrV6ygriYcttMlg) - Framework Indonesia
 * [Tutorial Sistem Informasi Akademik dengan Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_hXzGACf988F1ojvQlYmB0) - Framework Indonesia
-* [Codeigniter 4](https://www.youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) - webprogrammingunpas
 
 
 ### Laravel

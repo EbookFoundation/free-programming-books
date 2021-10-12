@@ -271,6 +271,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [A Practical Introduction to APL3 & APL4](http://robertson.uk.net) - Graeme Donald Robertson (PDF)
 * [Introduction to College Mathematics with A Programming Language (1978)](http://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E. J. LeCuyer (PDF)
 * [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm) (PDF)
+* [Learning APL](https://xpqz.github.io/learnapl/intro.html) 
+
 
 
 ### App Inventor
@@ -735,6 +737,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
 * [Thinking Forth](http://thinking-forth.sourceforge.net)
 * [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm)
+* [Easy Forth](https://skilldrick.github.io/easyforth/)
 
 
 ### Fortran

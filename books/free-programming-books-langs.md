@@ -410,9 +410,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
 
 
-
-
-
 ### C
 
 * [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen

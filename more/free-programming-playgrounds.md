@@ -234,6 +234,7 @@
 ### Regular Expressions
 
 * [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
+* [RegExr: Learn, Build, \& Test RegEx](https://regexr.com) - GSkinner Inc.
 
 
 ### Ruby

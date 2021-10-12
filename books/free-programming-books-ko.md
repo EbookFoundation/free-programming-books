@@ -167,7 +167,7 @@
 #### Flask
 
 * [Flask의 세계에 오신것을 환영합니다.](https://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
-* [점프 투 플라스크](https://wikidocs.net/book/4542)
+* [점프 투 플라스크](https://wikidocs.net/book/4542) - 박응용
 
 
 ### R

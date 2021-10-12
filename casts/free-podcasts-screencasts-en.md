@@ -86,6 +86,7 @@
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
 * [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi and Christopher Peter Makris (podcast)
+* [The Data Science Podcast](https://developer.ibm.com/podcasts/the-data-science-podcast/) - IBM (podcast)
 
 
 ### Elixir
@@ -241,7 +242,9 @@
 * [Functional Geekery](https://www.functionalgeekery.com) (podcast)
 * [Garbage](https://garbage.jcs.org) (podcast)
 * [Hacker Culture](https://anchor.fm/hackerculture) (podcast)
+* [IBM Developer Podcast](https://developer.ibm.com/podcasts/ibm_developer_podcast/) - IBM (podcast)
 * [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing) (podcast)
+* [In the Open with Luke and Joe](https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast)
 * [Ladybug Podcast](https://www.ladybug.dev) (podcast)
 * [Learn to Code with Me](http://learntocodewith.me/podcast/) (podcast)
 * [Loosely Coupled](http://looselycoupled.info) (podcast)

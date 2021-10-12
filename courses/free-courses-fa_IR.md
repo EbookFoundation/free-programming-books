@@ -33,6 +33,7 @@
 ### Git
 
 * [آموزش گیت - سکان‌آکادمی](https://sokanacademy.com/courses/git) - Behzad Moradi
+* [آموزش گیت، گیت هاب و گیت لب - فرادرس](https://faradars.org/courses/fvgit9609-git-github-gitlab) - Jadi Mirmirani *(نیاز به ثبت نام دارد)*
 
 
 ### Java

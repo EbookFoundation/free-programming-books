@@ -1,25 +1,55 @@
 ### Index
 
-* [Algoritmalar](#algoritmalar)
-* [CSS](#css)
-* [JavaScript](#javascript)
-* [Python](#python)
-* [Temel programlama](#temel-programlama)
+- [Index](#index)
+- [Algoritmalar](#algoritmalar)
+- [Visual Studio Code](#visual-studio-code)
+- [Git Version Control System](#git-version-control-system)
+- [HTML](#html)
+- [CSS](#css)
+- [Bootstrap](#bootstrap)
+- [JavaScript](#javascript)
+- [Python](#python)
+- [Temel programlama](#temel-programlama)
 
 
 ### Algoritmalar
 
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 
+### Visual Studio Code
+
+* [Visual Studio Code Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx72uHNQ6aZXxa1pSKViqIhE) - Hakan Yalçınkaya | Kodluyoruz
+
+### Git Version Control System
+
+* [Git Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya | Kodluyoruz
+
+* [Git Advanced Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
+
+
+### HTML
+
+* [HTML Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx7aP99nDNRKDi70bLFr_kX-) - Hakan Yalçınkaya | Kodluyoruz
+
+
 
 ### CSS
 
 * [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
 
+* [CSS Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx501K3-IMgS1fz-KfEB37gM) - Hakan Yalçınkaya | Kodluyoruz
+
+
+### Bootstrap
+
+* [Bootstrap Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx5ZUs7h8mfGACFpnVipTNkA) - Hakan Yalçınkaya | Kodluyoruz
+
 
 ### JavaScript
 
 * [JavaScript Dersleri](https://javascript.sitesi.web.tr) - Murat Eliçalişkan
+
+* [JavaScript Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PqKkqSPwph57HNN4RWgR2) - Hakan Yalçınkaya | Kodluyoruz
 
 
 ### Python

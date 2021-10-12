@@ -897,6 +897,7 @@
 
 * [ASP.NET Core Tutorial For Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - Venkat (Pragim Technologies)
 * [Command Line Power User - for web developers](https://commandlinepoweruser.com) - WesBos (email address *required*)
+* [Create a Professional Website with Velo by Wix](https://www.codecademy.com/learn/create-a-professional-website-with-velo-by-wix) - Codecademy
 * [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) - Brian Yu, David J. Malan (edX Harvard CS50)
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [Essential Nextjs Typescript Tailwind Stack](https://www.youtube.com/playlist?list=PLKEkvhqFCRwL94nLP-TdIfNmbiZk5FCMx) - Fireship, Ben Awad, Traversy Media, Devs Force

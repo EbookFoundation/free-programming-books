@@ -132,6 +132,7 @@ Free Podcasts and Screencasts:
 + [Portuguese (Brazil)](casts/free-podcasts-screencasts-pt_BR.md)
 + [Portuguese (Portugal)](casts/free-podcasts-screencasts-pt_PT.md)
 + [Russian / Русский язык](casts/free-podcasts-screencasts-ru.md)
++ [Sinhala / සිංහල](casts/free-podcasts-screencasts-si.md)
 + [Spanish / español / castellano](casts/free-podcasts-screencasts-es.md)
 + [Swedish / Svenska](casts/free-podcasts-screencasts-se.md)
 + [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)

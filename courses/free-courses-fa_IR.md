@@ -17,6 +17,7 @@
   * [Django](#django)
   * [Flask](#flask)
 * [Web Development](#web-development)
+* [Design Patterns](#design-patterns)
 
 
 ### Blockchain
@@ -124,3 +125,7 @@
 ### Web Development
 
 * [برنامه نویسی وب](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74) - Mohammad Salehe
+
+### Design Patterns
+
+* [دیزاین پترن ها](https://holosen.net/what-is-design-pattern/) - Hossein Badrnezhad

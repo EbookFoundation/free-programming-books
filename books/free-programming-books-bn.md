@@ -81,8 +81,8 @@
 
 ### Flutter
 
-* [Flutter Bangla Tutorial](https://www.youtube.com/watch?v=SgETZMVg-gg&list=PLg87mxEuu8-692INeEsxudyVifz7M3efy) - Techno BD XYZ
-* [Flutter Tutorial Bangla](https://www.youtube.com/watch?v=lJesACbzuH4&list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p) - Soykot Hosen
+* [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy) - Techno BD XYZ
+* [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p) - Soykot Hosen
 
 
 ### Git

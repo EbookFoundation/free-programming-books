@@ -44,7 +44,7 @@
 
 ### AWK
 
-* [AWS 스크립트](https://mug896.github.io/awk-script)
+* [AWK 스크립트](https://mug896.github.io/awk-script)
 
 
 ### C

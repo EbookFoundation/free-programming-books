@@ -335,7 +335,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Mathematics
 
 * [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/) - Victor Shoup
-* [A Computational Logic](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer and J Strother Moore (PDF)
+* [A Computational Logic (1979)](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer and J Strother Moore (PDF)
 * [A First Course in Complex Analysis](http://math.sfsu.edu/beck/complex.html) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * [A First Course in Linear Algebra](http://linear.ups.edu) - Rob Beezer
 * [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary and Lars Kristiansen

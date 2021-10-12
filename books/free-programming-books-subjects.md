@@ -9,6 +9,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [0 - Meta-Lists](#0---meta-lists)
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Artificial Intelligence](#artificial-intelligence)
+* [Blockchain](#blockchain)
 * [Cellular Automata](#cellular-automata)
 * [Cloud Computing](#cloud-computing)
 * [Competitive Programming](#competitive-programming)
@@ -129,6 +130,11 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
 * [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
+
+
+### Blockchain
+
+<!-- Waiting to add in -->
 
 
 ### Cellular Automata

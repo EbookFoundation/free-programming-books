@@ -56,6 +56,7 @@
 ### <a name="cpp"></a>C++
 
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
+* [C++ Reference Card](https://www.cs.ccu.edu.tw/~damon/oop/,c++refcard.pdf) - 2002 Greg Book (PDF)
 
 
 ### Clojure
@@ -160,6 +161,7 @@
 
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet
+* [MongoDB - Cheat Sheet ](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - codecentric (PDF)
 
 
 ### Perl

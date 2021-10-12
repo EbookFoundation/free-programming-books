@@ -233,7 +233,7 @@
 
 ### Regular Expressions
 
-<!-- Waiting to add in -->
+* [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
 
 
 ### Ruby

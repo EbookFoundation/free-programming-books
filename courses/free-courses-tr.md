@@ -2,23 +2,32 @@
 
 - [Index](#index)
 - [Algoritmalar](#algoritmalar)
-- [Visual Studio Code](#visual-studio-code)
+- [Bootstrap](#bootstrap)
+- [CSS](#css)
 - [Git Version Control System](#git-version-control-system)
 - [HTML](#html)
-- [CSS](#css)
-- [Bootstrap](#bootstrap)
 - [JavaScript](#javascript)
 - [Python](#python)
 - [Temel programlama](#temel-programlama)
+- [Visual Studio Code](#visual-studio-code)
 
 
 ### Algoritmalar
 
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 
-### Visual Studio Code
 
-* [Visual Studio Code Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx72uHNQ6aZXxa1pSKViqIhE) - Hakan Yalçınkaya | Kodluyoruz
+### Bootstrap
+
+* [Bootstrap Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx5ZUs7h8mfGACFpnVipTNkA) - Hakan Yalçınkaya | Kodluyoruz
+
+
+### CSS
+
+* [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
+
+* [CSS Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx501K3-IMgS1fz-KfEB37gM) - Hakan Yalçınkaya | Kodluyoruz
+
 
 ### Git Version Control System
 
@@ -30,19 +39,6 @@
 ### HTML
 
 * [HTML Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx7aP99nDNRKDi70bLFr_kX-) - Hakan Yalçınkaya | Kodluyoruz
-
-
-
-### CSS
-
-* [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
-
-* [CSS Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx501K3-IMgS1fz-KfEB37gM) - Hakan Yalçınkaya | Kodluyoruz
-
-
-### Bootstrap
-
-* [Bootstrap Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx5ZUs7h8mfGACFpnVipTNkA) - Hakan Yalçınkaya | Kodluyoruz
 
 
 ### JavaScript
@@ -62,5 +58,9 @@
 * [Bilgisayar programlama I](https://acikders.ankara.edu.tr/course/view.php?id=8750) - Semra Gündüç
 * [Bilgisayar programlama II](https://acikders.ankara.edu.tr/course/view.php?id=8756) - Semra Gündüç
 * [Programlama ve programlama dillerinin temelleri](https://chrisstephenson.org/moodle/course/view.php?id=8) - Chris Stephenson
+
+### Visual Studio Code
+
+* [Visual Studio Code Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx72uHNQ6aZXxa1pSKViqIhE) - Hakan Yalçınkaya | Kodluyoruz
 
 

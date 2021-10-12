@@ -25,7 +25,7 @@
 
 ### Javascript
 
-* [Blog post - What new in each version of Modern Javascript - ECMAScript(ES) from ES6 - ES11🔥](https://sambat-tech.netlify.app/modern-javascript-what-new/) - Sambat Lim
+* [មេរៀន Javascript Speak khmer](https://youtube.com/playlist?list=PLWrsrLN26mWZiRcn4O-cphCw-AyoWumhq) - រៀនIT
 
 
 ### Web Development

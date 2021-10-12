@@ -723,6 +723,7 @@
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
+* [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
 
 
 ### Scala

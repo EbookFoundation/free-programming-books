@@ -30,6 +30,7 @@
 * [R](#r)
 * [React](#react)
 * [Redis](#redis)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [RxJS](#rxjs)
@@ -228,6 +229,11 @@
 ### Redis
 
 * [Try Redis](https://try.redis.io)
+
+
+### Regular Expressions
+
+<!-- Waiting to add in -->
 
 
 ### Ruby

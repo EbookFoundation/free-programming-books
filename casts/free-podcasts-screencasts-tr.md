@@ -1,8 +1,7 @@
 ### Index
 
-- [Index](#index)
-- [Dil Bağımsız](#dil-bağımsız)
-- [JavaScript](#javascript)
+* [Dil Bağımsız](#dil-bağımsız)
+* [JavaScript](#javascript)
 
 
 ### Dil Bağımsız

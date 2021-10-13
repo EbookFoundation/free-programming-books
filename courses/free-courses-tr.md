@@ -1,15 +1,14 @@
 ### Index
 
-- [Index](#index)
-- [Algoritmalar](#algoritmalar)
-- [Bootstrap](#bootstrap)
-- [CSS](#css)
-- [Git Version Control System](#git-version-control-system)
-- [HTML](#html)
-- [JavaScript](#javascript)
-- [Python](#python)
-- [Temel programlama](#temel-programlama)
-- [Visual Studio Code](#visual-studio-code)
+* [Algoritmalar](#algoritmalar)
+* [Bootstrap](#bootstrap)
+* [CSS](#css)
+* [Git Version Control System](#git-version-control-system)
+* [HTML](#html)
+* [JavaScript](#javascript)
+* [Python](#python)
+* [Temel programlama](#temel-programlama)
+* [Visual Studio Code](#visual-studio-code)
 
 
 ### Algoritmalar
@@ -24,16 +23,14 @@
 
 ### CSS
 
-* [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
-
 * [CSS Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx501K3-IMgS1fz-KfEB37gM) - Hakan Yalçınkaya | Kodluyoruz
+* [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
 
 
 ### Git Version Control System
 
-* [Git Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya | Kodluyoruz
-
-* [Git Advanced Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
+* [Git Giriş Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya | Kodluyoruz
+* [Git İleri Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
 
 
 ### HTML
@@ -44,7 +41,6 @@
 ### JavaScript
 
 * [JavaScript Dersleri](https://javascript.sitesi.web.tr) - Murat Eliçalişkan
-
 * [JavaScript Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PqKkqSPwph57HNN4RWgR2) - Hakan Yalçınkaya | Kodluyoruz
 
 
@@ -58,6 +54,7 @@
 * [Bilgisayar programlama I](https://acikders.ankara.edu.tr/course/view.php?id=8750) - Semra Gündüç
 * [Bilgisayar programlama II](https://acikders.ankara.edu.tr/course/view.php?id=8756) - Semra Gündüç
 * [Programlama ve programlama dillerinin temelleri](https://chrisstephenson.org/moodle/course/view.php?id=8) - Chris Stephenson
+
 
 ### Visual Studio Code
 

@@ -5,6 +5,7 @@
 * [Git](#Git)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Network](#network)
@@ -13,6 +14,8 @@
   * [Laravel](#laravel)
   * [Yii](#yii)
 * [Python](#python)
+  * [Django](#django)
+  * [Flask](#flask)
 * [Web Development](#web-development)
 
 
@@ -31,6 +34,7 @@
 ### Git
 
 * [آموزش گیت - سکان‌آکادمی](https://sokanacademy.com/courses/git) - Behzad Moradi
+* [آموزش گیت، گیت هاب و گیت لب - فرادرس](https://faradars.org/courses/fvgit9609-git-github-gitlab) - Jadi Mirmirani *(نیاز به ثبت نام دارد)*
 
 
 ### Java
@@ -45,12 +49,21 @@
 ### JavaScript
 
 * [آموزش جاوا اسکریپت برای مبتدیان](https://youtube.com/playlist?list=PLV6mGBuPqmYuZEAJN7IBxkdNCzKXAGpqD) - Mansour Kalagar
+* [دوره اموزشی جاوا اسکریپت از صفر](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF) - Silicium
+
+
+### Kotlin
+
+* [آموزش کامل برنامه نویسی با کاتلین](https://www.youtube.com/watch?v=SwhXvaXx078) - Amirahmad Adibi
+* [دوره آموزشی کاتلین](https://mskm.ir/category/programming/kotlin/) - Mehrdad Dolatkhah
+* [دوره رایگان برنامه نویسی اندروید](https://www.youtube.com/playlist?list=PLoBWKLYZlNi7lecoeYXHC868ZH_AE1uXg) - Omid Sharifmehr
 
 
 ### Linux
 
 * [آموزش لینوکس - سکان‌آکادمی](https://sokanacademy.com/courses/linux) - Behzad Moradi
 * [آموزش لینوکس برای آدم های شاد](https://www.youtube.com/playlist?list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd) - Jadi Mirmirani
+* [آموزش لینوکس مقدماتی](https://www.youtube.com/watch?v=ZwaBNkQKrts&list=PLPj7mSUQL4v_oVLO-2Q1QQ9fAH45u8z4A) - Hamid Emamian
 * [LPIC-1](https://gotoclass.ir/courses/lpic-1) - Peyman Hushmandi Rad
 * [LPIC-2](https://gotoclass.ir/courses/lpic-2) - Jadi Mirmirani
 
@@ -94,6 +107,18 @@
 
 * [آموزش پایتون - سکان‌آکادمی](https://sokanacademy.com/courses/python) - Narges Asadi
 * [آموزش پایتون مقدماتی](https://gotoclass.ir/courses/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86) - Jadi Mirmirani
+* [دوره آموزش رایگان زبان پایتون ( Python ) از مقدماتی تا پیشرفته](https://toplearn.com/courses/2150/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(-python-)) - Mohammad Ordokhani (TopLearn) *(نیاز به ثبت نام دارد)*
+
+
+  ### Django
+
+  * [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium
+  * [سوکت نویسی با کتابخانه جنگو چنلز](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) - Shahriar Shariati
+
+
+  ### Flask
+
+  * [ آموزش توسعه وب با فریم‌ورک فلسک](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) - Alireza Ayinmehr
 
 
 ### Web Development

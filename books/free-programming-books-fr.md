@@ -95,6 +95,7 @@
 ### Assembleur
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+* [Reverse Engineering for Beginners](https://beginners.re/RE4B-FR.pdf) - Dennis Yurichev, Florent Besnard, Marc Remy, Baudouin Landais, Téo Dacquet (PDF)
 
 
 ### Bash / Shell
@@ -113,7 +114,6 @@
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet](http://vidalc.chez.com/lf/socket.html) - (HTML)
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
-* [Le langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - Informaticienzero, Taure, Paraze et Lucas-84
 * [Programmation en Langage C et Systèmes Informatiques](https://sites.uclouvain.be/SystInfo/notes/Theorie/) - O. Bonaventure, E. Riviere, G. Detal, C. Paasch
 
 

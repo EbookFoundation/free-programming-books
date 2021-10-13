@@ -25,6 +25,7 @@
 
 ### مهندسی نرم‌افزار
 
+* [الگوهای طراحی](https://holosen.net/what-is-design-pattern/) - Hossein Badrnezhad
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
 * [ترجمه آزاد کتاب کد تمیز](https://github.com/Noah1001000/clean-code-persian) - Robert C. Martin et al.
 

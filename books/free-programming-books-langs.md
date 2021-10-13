@@ -860,24 +860,26 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Haskell
 
-* [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/)
+* [A Gentle Introduction to Haskell Version 98](https://www.haskell.org/tutorial/) - Paul Hudak, John Peterson, Joseph Fasel
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](https://web.archive.org/web/20160411023943/http://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf) - J.R. Heard (PDF)
+* [Developing Web Applications with Haskell and Yesod](https://www.yesodweb.com/book) - Michael Snoyman 
 * [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh (PDF)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com)
 * [Haskell](https://en.wikibooks.org/wiki/Haskell) - Wikibooks
-* [Haskell and Yesod](http://www.yesodweb.com/book-1.4)
-* [Haskell no panic](http://lisperati.com/haskell/)
+* [Haskell no panic](http://lisperati.com/haskell/) - Conrad Barski
 * [Haskell Notes for Professionals](https://goalkicker.com/HaskellBook/) - Compiled from StackOverflow documentation (PDF)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
-* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/) - Yann Esposito
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovaca
 * [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/) - Simon Marlow
-* [Real World Haskell](http://book.realworldhaskell.org)
-* [Speeding Through Haskell](http://www.sthaskell.com)
+* [Real World Haskell](http://book.realworldhaskell.org) - Bryan O'Sullivan, Don Stewart, and John Goerzen
+* [Speeding Through Haskell](http://www.sthaskell.com) - Arya Popescu
+* [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) - Kees Doets and Jan van Eijck (PDF)
+* [The Haskell School of Music - From Signals to Symphonies](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) - Paul Hudak (PDF)
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - Stephen Diehl (PDF)
 * [Wise Man's Haskell](https://github.com/anchpop/wise_mans_haskell/blob/master/book.md#preface) - Andre Popovitch
-* [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
+* [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) - Hal Daum ́e III (PDF)
 
 
 ### Haxe
@@ -1774,21 +1776,23 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Prolog
 
-* [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/)
+* [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/) - Dennis Merritt
 * [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
-* [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
-* [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
-* [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) (PDF)
+* [Concise Intro to Prolog](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html) - David Matuszek
+* [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/) - David Matuszek
+* [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) - Daniel Diaz (PDF)
 * [Introduction to Prolog for Mathematicians](http://www.j-paine.org/prolog/mathnotes/files/pms/pms.html) - J. Ireson-Ireson-Paine
 * [Learn Prolog Now!](http://www.learnprolognow.org)
-* [Logic, Programming and Prolog (2ed)](http://www.ida.liu.se/~ulfni53/lpp/)
+* [Logic, Programming and Prolog (2ed)](https://www.ida.liu.se/~ulfni53/lpp/) - Ulf Nilsson and Jan Maluszynski
 * [Natural Language Processing Techniques in Prolog](http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/) - P. Blackburn, K. Striegnitz
 * [Prolog and Natural - Language Analysis](http://www.mtome.com/Publications/PNLA/pnla-digital.html) - Fernando C. N. Pereira, Stuart M. Shieber
-* [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/)
+* [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/) - Feliks Kluźniak, Stanisław Szpakowicz & Janusz S. Bień
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
-* [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
+* [Prolog Tutorial](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html) - J. R. Fisher
+* [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space) - Peter Flach
 * [The Art of Prolog, Second Edition](https://mitpress.mit.edu/books/art-prolog-second-edition) - Leon S. Sterling, Ehud Y. Shapiro (Open Access)
-* [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
+* [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
+* [The Power of Prolog](https://www.metalevel.at/prolog) - Markus Triska
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci
 
 

@@ -56,7 +56,6 @@
 ### <a name="cpp"></a>C++
 
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
-* [C++ Reference Card](https://www.cs.ccu.edu.tw/~damon/oop/,c++refcard.pdf) - 2002 Greg Book (PDF)
 
 
 ### Clojure

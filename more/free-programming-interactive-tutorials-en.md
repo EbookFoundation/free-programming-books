@@ -37,6 +37,7 @@
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [R](#r)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
@@ -313,6 +314,12 @@
 
 * [Learn R](https://www.codecademy.com/learn/learn-r) - Codecademy *(account required)*
 * [R Tutorial](https://www.w3schools.com/r) - W3Schools
+
+
+### Regular Expressions
+
+* [Regex Crossword](https://regexcrossword.com) - Ole Michelsen, Maria Hagsten Michelsen
+* [RegExp Playground](https://projects.verou.me/regexplained) - Lea Verou
 
 
 ### Ruby

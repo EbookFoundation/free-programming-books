@@ -1,6 +1,6 @@
 ## BY PROGRAMMING LANGUAGE
 
-Originally, this list included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language. 
+Originally, this list included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language.
 That section got so big, we decided to split it into its own file, the [BY SUBJECT file](free-programming-books-subjects.md).
 
 
@@ -270,6 +270,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [A Practical Introduction to APL1 & APL2](http://robertson.uk.net) - Graeme Donald Robertson (PDF)
 * [A Practical Introduction to APL3 & APL4](http://robertson.uk.net) - Graeme Donald Robertson (PDF)
 * [Introduction to College Mathematics with A Programming Language (1978)](http://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E. J. LeCuyer (PDF)
+* [Learning APL](https://xpqz.github.io/learnapl/intro.html) - Stefan Kruger (HTML,PDF,IPYNB)
 * [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm) (PDF)
 
 
@@ -466,7 +467,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
 * [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511) - Steven F. Daniel (Packt account *required*)
 * [.NET Book Zero](http://www.charlespetzold.com/dotnet) - Charles Petzold (PDF, XPS)
-* [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (email address *requested*, not required)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
@@ -732,6 +732,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [A Beginner's Guide to Forth](https://web.archive.org/web/20180919061255/http://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm) - J.V. Noble
 * [And so Forth...](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf) (PDF)
+* [Easy Forth](https://skilldrick.github.io/easyforth/) - Nick Morgan (HTML)
 * [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf) (PDF)
 * [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
 * [Thinking Forth](http://thinking-forth.sourceforge.net)
@@ -774,6 +775,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
 * [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/)
 * [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)
+* [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 * [How to Collaborate on Github](https://github.com/eonist/How-to-collaborate-on-github) - André J
@@ -1001,7 +1003,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learning Java Language](https://riptutorial.com/Download/java-language.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
 * [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
-* [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook) - Simon Kendal (PDF) , Bookboon. (email address *requested*, not required)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky (PDF)
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) - Nebrass Lamouchi *(Leanpub account or valid email requested)*
@@ -1325,7 +1326,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, and Lazaro Alonso
 * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
 * [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
-* [Quantitative Economics with Julia](https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf) - Jesse Perla, Thomas J. Sargent and John Stachurski (PDF)
+* [Quantitative Economics with Julia](https://julia.quantecon.org) - Jesse Perla, Thomas J. Sargent and John Stachurski (HTML, [PDF](https://web.archive.org/web/20210713122108/https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf))
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
 * [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens and Allen Downey (GitBook)
 
@@ -1767,7 +1768,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Prolog
 
 * [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/)
-* [Applications of Prolog](http://bookboon.com/en/applications-of-prolog-ebook) - Attila Csenki, Bookboon. (email address *requested*, not required)
 * [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
 * [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
 * [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
@@ -1779,7 +1779,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Prolog and Natural - Language Analysis](http://www.mtome.com/Publications/PNLA/pnla-digital.html) - Fernando C. N. Pereira, Stuart M. Shieber
 * [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
-* [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook) - Attila Csenki, Bookboon. (email address *requested*, not required)
 * [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
 * [The Art of Prolog, Second Edition](https://mitpress.mit.edu/books/art-prolog-second-edition) - Leon S. Sterling, Ehud Y. Shapiro (Open Access)
 * [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon

@@ -5,6 +5,7 @@
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
 * [Emacs](#emacs)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)
@@ -51,6 +52,11 @@
 ### Emacs
 
 * [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
+
+
+### Flutter
+
+* [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
 
 
 ### Git

@@ -181,6 +181,16 @@
 * [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) -  ProgrammingKnowledge (YouTube)
 
 
+### Blockchain
+
+* [Blockchain Developer Tutorials](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id) - Gregory McCubbin (Dapp University)
+* [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases) - ConsenSys Academy (Coursera)
+* [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) - Bina Ramamurthy (Coursera)
+* [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://www.youtube.com/watch?v=8wMKq7HvbKw) - Julien Klepatch, EatTheBlocks (freeCodeCamp.org)
+* [CryptoZombies.io](https://cryptozombies.io) - CleverFlare, Loom Network
+* [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
+
+
 ### Bootstrap
 
 * [Bootstrap 4 Quick Start: Code Modern Responsive Websites](https://www.udemy.com/course/bootstrap-4) - Brad Hussey (Udemy)
@@ -451,9 +461,10 @@
 
 ### JavaScript
 
+* [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - Jafar Husain
 * [Beginner's Series to: JavaScript](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer (YouTube)
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
-* [Egghead.io](https://egghead.io)
+* [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - André Staltz
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath (YouTube)
 * [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function» (Youtube)
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
@@ -469,6 +480,9 @@
 * [Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript) - Raghavendra Dixit (Udemy)
 * [learn:query](https://learnquery.infinum.co)
 * [Namaste 🙏 JavaScript: An In-Depth JavaScript Fundamentals Course](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini (YouTube)
+* [npm - Mastering the Basics](https://www.udemy.com/course/npm-mastering-the-basics/) - Vishwas Gopinath (Udemy)
+* [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711) - Richard Kalehoff (Udacity)
+* [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899) - Google, Michael Wales (Udacity)
 * [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web) - Owen Astrachan, Robert Duvall, Andrew D. Hilton, Susan H. Rodger (Coursera)
 * [Understanding RxJS](https://youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi) - Academind
 * [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - Brad Traversy, Traversy Media (YouTube)
@@ -654,6 +668,7 @@
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
 * [Made with ML](https://madewithml.com) - Goku Mohandas (Applied ML · MLOps · Production)
+* [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) - MIT 6.824 Distributed Systems
 * [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
 * [MIT's Computer Language Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/)
 * [MIT's Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
@@ -882,6 +897,7 @@
 
 * [ASP.NET Core Tutorial For Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - Venkat (Pragim Technologies)
 * [Command Line Power User - for web developers](https://commandlinepoweruser.com) - WesBos (email address *required*)
+* [Create a Professional Website with Velo by Wix](https://www.codecademy.com/learn/create-a-professional-website-with-velo-by-wix) - Codecademy
 * [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) - Brian Yu, David J. Malan (edX Harvard CS50)
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [Essential Nextjs Typescript Tailwind Stack](https://www.youtube.com/playlist?list=PLKEkvhqFCRwL94nLP-TdIfNmbiZk5FCMx) - Fireship, Ben Awad, Traversy Media, Devs Force

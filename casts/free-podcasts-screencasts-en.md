@@ -155,6 +155,7 @@
 
 ### JavaScript
 
+* [devMode.fm](https://devmode.fm) - Andrew Welch, Patrick Harrington, Jonathan Melville, Michael Rog et al. (podcast)
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
 * [Front End Happy Hour](http://frontendhappyhour.com) (podcast)
 * [Frontend First](https://frontendfirst.fm) - Sam Selikoff and Ryan Toronto (podcast)
@@ -173,6 +174,7 @@
 #### Angular
 
 * [Angular Air](https://angularair.com) (podcast)
+* [Angular Master](https://anchor.fm/angular-master) (podcast)
 
 
 #### Elm
@@ -201,6 +203,7 @@
 
 #### React.js
 
+* [Chats with Kent C. Dodds](https://kentcdodds.com/chats/04) - Kent C Dodds (podcast)
 * [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
 * [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
 * [React Round Up](https://devchat.tv/podcasts/react-round-up) - DevChat.tv (podcast)

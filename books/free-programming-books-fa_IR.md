@@ -6,6 +6,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [Linux](#linux)
 * [PHP](#php)
   * [Symfony](#symfony)
 * [Python](#python)
@@ -44,6 +45,12 @@
 ### LaTeX
 
 * [مقدمه ای نه چندان کوتاه بر LaTeX](http://www.ctan.org/tex-archive/info/lshort/persian)
+
+
+### Linux
+
+* [فقط برای تفریح؛ داستان یک انقلابی اتفاقی](https://linuxstory.ir)
+* [لینوکس و زندگی؛‌ درس هایی برای گیک های جوان](https://linuxbook.ir)
 
 
 ### PHP

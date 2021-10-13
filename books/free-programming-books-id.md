@@ -18,6 +18,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [React](#react)
+* [Solidity](#solidity)
 * [TypeScript](#typescript)
   * [Angular](#angular)
   * [Deno](#deno)

@@ -1,14 +1,12 @@
 ### Index
 
 * [Algoritmalar](#algoritmalar)
-* [Bootstrap](#bootstrap)
-* [CSS](#css)
-* [Git Version Control System](#git-version-control-system)
-* [HTML](#html)
+* [HTML / CSS](#html--css)
+* [IDE / Editors](#ide--editors)
 * [JavaScript](#javascript)
 * [Python](#python)
 * [Temel programlama](#temel-programlama)
-* [Visual Studio Code](#visual-studio-code)
+* [Version Control Systems](#version-control-systems)
 
 
 ### Algoritmalar
@@ -16,26 +14,17 @@
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 
 
-### Bootstrap
+### HTML / CSS
 
 * [Bootstrap Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx5ZUs7h8mfGACFpnVipTNkA) - Hakan Yalçınkaya | Kodluyoruz
-
-
-### CSS
-
 * [CSS Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx501K3-IMgS1fz-KfEB37gM) - Hakan Yalçınkaya | Kodluyoruz
+* [HTML Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx7aP99nDNRKDi70bLFr_kX-) - Hakan Yalçınkaya | Kodluyoruz
 * [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
 
 
-### Git Version Control System
+### IDE / Editors
 
-* [Git Giriş Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya | Kodluyoruz
-* [Git İleri Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
-
-
-### HTML
-
-* [HTML Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx7aP99nDNRKDi70bLFr_kX-) - Hakan Yalçınkaya | Kodluyoruz
+* [Visual Studio Code Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx72uHNQ6aZXxa1pSKViqIhE) - Hakan Yalçınkaya | Kodluyoruz
 
 
 ### JavaScript
@@ -56,8 +45,9 @@
 * [Programlama ve programlama dillerinin temelleri](https://chrisstephenson.org/moodle/course/view.php?id=8) - Chris Stephenson
 
 
-### Visual Studio Code
+### Version Control Systems
 
-* [Visual Studio Code Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx72uHNQ6aZXxa1pSKViqIhE) - Hakan Yalçınkaya | Kodluyoruz
+* [Git Giriş Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya | Kodluyoruz
+* [Git İleri Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
 
 

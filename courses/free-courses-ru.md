@@ -12,6 +12,7 @@
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
   * [React](#react)
+* [Julia](#julia)
 * [Kotlin](#kotlin)
 * [Perl](#perl)
 * [PHP](#php)
@@ -106,6 +107,11 @@ ADV - Продвинутый. Тонкости.
 * [Роутинг в react-приложениях](https://max-frontend.gitbook.io/react-router-course-ru/) (INT)
 * [Туториал по Redux](https://max-frontend.gitbook.io/redux-course-ru-v2/) (INT)
 * [React.js курс для начинающих](https://max-frontend.gitbook.io/react-course-ru-v2/) (BEG)
+
+
+### Julia
+
+* [Введение в язык программирования Julia](https://github.com/YermolenkoIgor/Julia_tutorial_rus) - Igor Yermolenko (BEG)
 
 
 ### Kotlin

@@ -25,6 +25,7 @@
   * [WEB服务器](#web服务器)
 * [语言相关](#语言相关)
   * [Android](#android)
+  * [Assembly](#assembly)
   * [AWK](#awk)
   * [C](#c)
   * [C#](#c-sharp)
@@ -81,7 +82,6 @@
   * [VBA](#vba-microsoft-visual-basic-applications)
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
-  * [WebAssembly](#webassembly)
 
 
 ## 语言无关
@@ -310,6 +310,14 @@
 * Google Material Design 正體中文版 ([译本一](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html)，[译本二](https://github.com/1sters/material_design_zh))
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android)
+
+
+### Assembly
+
+* 逆向工程权威指南 《Reverse Engineering for Beginners》 - Dennis Yurichev, Antiy Labs, Archer
+  * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.1](https://beginners.re/RE4B-CN-vol1.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
+  * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.2](https://beginners.re/RE4B-CN-vol2.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
+* [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book/tree/master/zh) - Ending, Chai Shushan (HTML, [:package: examples](https://github.com/3dgen/cppwasm-book/tree/master/examples))
 
 
 ### AWK
@@ -567,6 +575,7 @@
 #### Vue.js
 
   * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
+  * [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
 
 
 #### Zepto.js
@@ -714,6 +723,7 @@
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
+* [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
 
 
 ### Scala
@@ -785,8 +795,3 @@
 
 * [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
 * [Visual Prolog 7初学指南](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog_in_Chinese)
-
-
-### WebAssembly
-
-* [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book)

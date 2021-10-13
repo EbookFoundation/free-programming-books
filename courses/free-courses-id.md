@@ -139,6 +139,9 @@
 * [Belajar Golang Basic Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm) - Sekolah Koding
 * [Golang Fundamental](https://buildwithangga.com/kelas/golang-fundamental?thumbnail=nk4neM2UyG.54&main_leads=browse) - BuildWithAngga
 * [Golang Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH-0i9dzMzLw6FKVrFWv3QvQ) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Tutorial Golang Fundamental Bahasa Indonesia](https://www.youtube.com/watch?v=xzNT4JywW0A) - Agung Setiawan
+* [Tutorial Golang Web API Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=GjI0GSvmcSU) - Agung Setiawan
+* [Tutorial Golang Website Development Bahasa Indonesia](https://www.youtube.com/watch?v=K76y2_ZQYwY) - Agung Setiawan
 
 
 ### Gradle
@@ -158,6 +161,7 @@
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
 * [HTML5 Canvas](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teW5TsBQmD2MzLU5ryjXkVE) - Idr Corner
 * [HTML5 Dasar](https://www.buildwithangga.com/kelas/html5-dasar) - BuildWithAngga
+* [HTML5 Pemula Dasar](https://www.petanikode.com/html-dasar/) - petanikode
 
 
 ### Java
@@ -174,7 +178,8 @@
 #### Spring
 
 * [Belajar Spring Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882aeiESAgna5eVa_cOpFnxQm) - Imam Farisi (YouTube)
-* [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Mastahcode
+* [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Wafiq Subhi, Mastahcode (Youtube)
+* [SpringBoot](https://www.youtube.com/playlist?list=PLRjWo99hnirwyafPfaxfu0psMR0hUmdQc) - Hendro Steven Tampake, Kelas Koding (YouTube)
 
 
 ### JavaScript
@@ -268,6 +273,7 @@
 
 * [Belajar MySQL](https://www.youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_) - Indonesia Belajar
 * [Belajar MySQL/MariaDB](https://www.youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF) - Guntur Budi
+* [MYSQL Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_P2_2zR6pvDublvpD3fF6W) - Programmer Zaman Now (Youtube)
 
 
 ### PHP
@@ -309,7 +315,9 @@
 * [OpenCV untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwt4cBsBy_Ej7gNlXdQ7blCB) - NgodingPython
 * [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
 * [Tutorial Python Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m) - Sekolah Koding
+* [Tutorial Python Beginner Bahasa Indonesia](https://www.youtube.com/watch?v=rWC2iFlN3TM) - Agung Setiawan
 * [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar
+* [Tutorial Python OOP Object Oriented Programming Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=b6Y5CzFM0Oc) - Agung Setiawan
 * [Visualisasi Data dalam Pemrograman Python (Matplotlib)](https://www.youtube.com/playlist?list=PL2O3HdJI4voHrfoMFvkDeblmjarDN8nC8) - Indonesia Belajar
 
 

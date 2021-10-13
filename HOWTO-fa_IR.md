@@ -1,4 +1,4 @@
-این متن را در زبان‌های دیگر بخوانید: [English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [Русский](HOWTO-ru.md), [босански](HOWTO-bs.md), [Deutsch](HOWTO-de.md), [한국어](HOWTO-kr.md).
+این متن را در زبان‌های دیگر بخوانید: [English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [Русский](HOWTO-ru.md), [босански](HOWTO-bs.md), [Deutsch](HOWTO-de.md), [한국어](HOWTO-ko.md), [Tiếng Việt](HOWTO-vi.md), [عربي](HOWTO-ar.md).
 
 
 <div dir="rtl">

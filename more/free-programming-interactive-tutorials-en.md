@@ -173,8 +173,8 @@
 
 #### Bootstrap
 
-* [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
 * [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools
+* [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
 * [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
 

@@ -171,8 +171,8 @@
 
 ### PyTorch
 
-* [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
 * [PyTorch Framework Cheat Sheet](https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf) - Simon Wenkel (PDF)
+* [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
 
 
 ### Python

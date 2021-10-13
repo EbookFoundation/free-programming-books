@@ -9,6 +9,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [0 - Meta-Lists](#0---meta-lists)
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Artificial Intelligence](#artificial-intelligence)
+* [Blockchain](#blockchain)
 * [Cellular Automata](#cellular-automata)
 * [Cloud Computing](#cloud-computing)
 * [Competitive Programming](#competitive-programming)
@@ -129,6 +130,16 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
 * [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
+
+
+### Blockchain
+
+* [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
+* [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
+* [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
+* [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield et al. (PDF)
+* [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
+* [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
 
 
 ### Cellular Automata
@@ -469,7 +480,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Ansible Up & Running (first three chapters)](https://www.ansible.com/ebooks) *(account required)*
 * [Asterisk™: The Definitive Guide](http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8)
 * [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
-* [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder (PDF)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/~playbook/)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Confessions of an Unintentional CTO: Lessons in Growing a Web App](http://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
@@ -503,7 +513,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
-* [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
 * [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide) *(Leanpub account or valid email requested)*
 * [Modeling Reactive Systems with Statecharts](http://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html)
 * [MSIX Succinctly](https://www.syncfusion.com/ebooks/msix-succinctly) - Matteo Pagani
@@ -512,7 +521,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Open Government; Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government) - Daniel Lathrop, Laurel Ruma
 * [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien  *(Leanpub account or valid email requested)*
 * [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
-* [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
 * [Principles of Computer System Design](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)

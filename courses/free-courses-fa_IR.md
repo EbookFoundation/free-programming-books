@@ -15,7 +15,6 @@
   * [Yii](#yii)
 * [Python](#python)
 * [Web Development](#web-development)
-* [Bootstrap 5](#bootstrap5)
 
 
 ### Blockchain

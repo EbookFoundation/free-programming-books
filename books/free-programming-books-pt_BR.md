@@ -111,7 +111,7 @@
 
 ### Dart
 
-* [Dart Documentação](https://dart.dev/guides)
+* [Dart Documentação](https://dart.dev/guides) - dart.dev
 * [Flutter para Iniciantes](https://www.flutterparainiciantes.com.br) - Rubens de Melo (gitbook)
 
 

@@ -1983,6 +1983,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences) - Rafael A Irizarry, Michael I Love *(Leanpub account or valid email requested)*
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) - Colin Gillespie, Robin Lovelace
 * [Exploratory Data Analysis with R](https://leanpub.com/exdata) - Roger D. Peng *(Leanpub account or valid email requested)*
+* [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman and George Athanasopoulos
 * [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman and Hadley Wickham
 * [Introduction to Probability and Statistics Using R](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro

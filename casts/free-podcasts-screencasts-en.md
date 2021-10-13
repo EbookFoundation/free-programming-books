@@ -267,7 +267,7 @@
 * [The Path to Performance](https://pathtoperf.com) (podcast)
 * [The Podcast from DZone.com: "For Developers, by Developers"](https://soundcloud.com/john-esposito-23072673) (podcast)
 * [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet) (podcast)
-* [The Stack Overflow Podcast](https://open.spotify.com/show/0e5eoM6w7eW9Wu7wMA04Tr?si=dbd20e09ab704149) (podcast)
+* [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) (podcast)
 * [The Web Ahead](http://5by5.tv/webahead) (podcast)
 * [The Web Platform](http://thewebplatform.libsyn.com) (podcast)
 * [Thinking with Tanay](https://anchor.fm/tanaypratap) (podcast)

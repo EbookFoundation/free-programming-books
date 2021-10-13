@@ -25,6 +25,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Awk](#awk)
 * [Bash](#bash)
 * [Basic](#basic)
+* [BeanShell](#beanshell)
 * [BETA](#beta)
 * [C](#c)
 * [C#](#c-sharp)
@@ -398,6 +399,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [A beginner's guide to Gambas](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
 * [Pick/Basic: A Programmer's Guide](http://www.jes.com/pb/) - Jonathan E. Sisk
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
+
+
+### BeanShell
+
+* [Beanshell Simple Java Scripting Manual](http://www.beanshell.org/manual/bshmanual.pdf) - beanshell.org (PDF)
+* [BeanShell User's Manual](http://www.beanshell.org/manual/bshmanual.html) - beanshell.org (HTML)
 
 
 ### BETA

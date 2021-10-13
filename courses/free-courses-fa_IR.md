@@ -3,6 +3,7 @@
 * [Blockchain](#blockchain)
 * [C, C++](#c)
 * [Git](#Git)
+* [Inspect Element](#inspect-element)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
@@ -35,6 +36,11 @@
 
 * [آموزش گیت - سکان‌آکادمی](https://sokanacademy.com/courses/git) - Behzad Moradi
 * [آموزش گیت، گیت هاب و گیت لب - فرادرس](https://faradars.org/courses/fvgit9609-git-github-gitlab) - Jadi Mirmirani *(نیاز به ثبت نام دارد)*
+
+
+### Inspect Element
+
+* [آموزش اینسپکت المنت](https://holosen.net/inspect-element-1/) - Hossein Badrnezhad
 
 
 ### Java

@@ -112,7 +112,7 @@
 ### Dart
 
 * [Dart Documentação](https://dart.dev/guides)
-* [Flutter para Iniciantes](https://www.flutterparainiciantes.com.br)
+* [Flutter para Iniciantes](https://www.flutterparainiciantes.com.br) - Rubens de Melo (gitbook)
 
 
 ### Docker

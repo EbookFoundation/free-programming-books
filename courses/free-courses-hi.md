@@ -60,7 +60,6 @@
 ### Javascript
 
 * [JavaScript Tutorial \| Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - Harry
-* [JavaScript Tutorial for Beginners (In Hindi)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0) - Vinod Bahadur Thapa (Thapa Technical)
 
 
 #### Next.Js

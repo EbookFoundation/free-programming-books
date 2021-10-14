@@ -188,8 +188,8 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 * [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
 * [Einführung in Python](http://www.mschimmels.de/eigeneDateien/Python-Kurs.pdf) - Martin Schimmels (PDF)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de) (Online)
-* [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python) - Johannes Ernesti, Peter Kaiser (Online)
 * [PyQt und PySide - Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda (GIT-Sourcefiles) [(PDF)](https://github.com/pbouda/pyqt-und-pyside-buch/releases) (:construction: *in process*, seems to need help porting, *Issue opened*)
+* [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python) - Johannes Ernesti, Peter Kaiser (Online)
 
 
 #### Django

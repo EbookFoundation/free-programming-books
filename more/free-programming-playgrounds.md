@@ -30,6 +30,7 @@
 * [R](#r)
 * [React](#react)
 * [Redis](#redis)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [RxJS](#rxjs)
@@ -228,6 +229,14 @@
 ### Redis
 
 * [Try Redis](https://try.redis.io)
+
+
+### Regular Expressions
+
+* [iHateRegex: regex for playground](https://ihateregex.io/playground) - Geon George
+* [Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com) - Dan's Tools
+* [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
+* [RegExr: Learn, Build, \& Test RegEx](https://regexr.com) - GSkinner Inc.
 
 
 ### Ruby

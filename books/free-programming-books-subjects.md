@@ -216,6 +216,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 
 ### Data Science
+
 * [Introduction to Data Science](https://leanpub.com/datasciencebook) - Rafael A Irizarry
 
 

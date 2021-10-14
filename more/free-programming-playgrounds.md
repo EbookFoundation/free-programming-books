@@ -295,7 +295,7 @@
 
 ### V
 
-* [V Playground](https://play.vlang.io/)
+* [V Playground](https://play.vlang.io)
 
 
 #### Angular

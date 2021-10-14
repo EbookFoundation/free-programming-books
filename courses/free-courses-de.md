@@ -66,3 +66,4 @@
 ### TypeScript
 
 * [Erstellen von Javascript-Anwendung mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
+* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk)

@@ -7,6 +7,9 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Language Agnostic](#language-agnostic)
+* [PHP](#php)
+  * [Laravel](#laravel)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
@@ -52,6 +55,17 @@
 #### Django
 
 * [Навчальний посібник Django Girls](https://tutorial.djangogirls.org/uk/) (1.11) (HTML)
+
+### PHP
+
+#### Laravel
+
+* [Документація 8.x](https://www.docs-laravel.site/docs/8.x/installation)
+
+
+#### Symfony
+
+* [Symfony 5. Швидкий старт](https://symfony.com/doc/current/the-fast-track/uk/index.html)
 
 
 ### Ruby

@@ -211,8 +211,9 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
-* [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
 * [Kubernetes for Dummies](https://www.kasten.io/kubernetes/resources/books/kubernetes-backup-and-dr-for-dummies?utm_term=kubernetes%20for%20dummies&utm_campaign=Free+K10&utm_source=adwords&utm_medium=ppc&hsa_acc=3144319558&hsa_cam=14123253831&hsa_grp=134039592628&hsa_ad=532085366357&hsa_src=g&hsa_tgt=kwd-1186610961099&hsa_kw=kubernetes%20for%20dummies&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwqp-LBhDQARIsAO0a6aIjKs7D_fcIvCZQp4RgFlPH5u8l70GgxSh6EmTvIyJ3QAbVIioGCiwaAv8-EALw_wcB) - Tom Callway, Peter Smails, Caroline Tarbett and Shannon Williams (email address *required*)
+* [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
+
 
 
 ### Database

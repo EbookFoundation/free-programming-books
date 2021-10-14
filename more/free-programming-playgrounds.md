@@ -21,6 +21,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
+* [Nim](#nim)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
 * [Perl](#perl)
@@ -29,10 +30,12 @@
 * [R](#r)
 * [React](#react)
 * [Redis](#redis)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [RxJS](#rxjs)
 * [Scala](#scala)
+* [Solidity](#solidity)
 * [SQL](#sql)
 * [Svelte](#svelte)
 * [Swift](#swift)
@@ -52,6 +55,9 @@
 
 ### <a name="cpp"></a>C++
 
+* [Coding Minutes](https://ide.codingminutes.com)
+* [LabStack](https://code.labstack.com/cpp)
+* [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)
 
 
@@ -167,6 +173,11 @@
 * [.NET Fiddle](https://dotnetfiddle.net)
 
 
+### Nim
+
+* [Nim Playground](https://play.nim-lang.org) - nim-lang.org
+
+
 ### NodeJS
 
 * [Ideone](http://ideone.com)
@@ -220,6 +231,14 @@
 * [Try Redis](https://try.redis.io)
 
 
+### Regular Expressions
+
+* [iHateRegex: regex for playground](https://ihateregex.io/playground) - Geon George
+* [Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com) - Dan's Tools
+* [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
+* [RegExr: Learn, Build, \& Test RegEx](https://regexr.com) - GSkinner Inc.
+
+
 ### Ruby
 
 * [Codepad](http://codepad.org)
@@ -242,6 +261,12 @@
 * [ScalaFiddle.io](https://scalafiddle.io)
 * [ScalaFiddle.net](http://scalafiddle.net)
 * [Scastie](https://scastie.scala-lang.org)
+
+
+### Solidity
+
+* [ETH.Build](https://eth.build) - Austin Thomas Griffith
+* [Remix IDE](https://remix.ethereum.org) - ethereum.org
 
 
 ### SQL

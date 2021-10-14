@@ -15,6 +15,7 @@
 ### Git
 
 * [Интерактивное обучение работе с git](https://githowto.com/ru)
+* [Обучение git при помощи визуализации](https://learngitbranching.js.org/?locale=ru_RU)
 
 
 ### Python

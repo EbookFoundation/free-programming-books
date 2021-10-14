@@ -1,6 +1,6 @@
 ## BY PROGRAMMING LANGUAGE
 
-Originally, this list included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language. 
+Originally, this list included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language.
 That section got so big, we decided to split it into its own file, the [BY SUBJECT file](free-programming-books-subjects.md).
 
 
@@ -25,6 +25,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Awk](#awk)
 * [Bash](#bash)
 * [Basic](#basic)
+* [BeanShell](#beanshell)
 * [BETA](#beta)
 * [C](#c)
 * [C#](#c-sharp)
@@ -32,6 +33,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Chapel](#chapel)
 * [Cilk](#cilk)
 * [Clojure](#clojure)
+* [CMake](#cmake)
 * [COBOL](#cobol)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
@@ -99,6 +101,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Booty5.js](#booty5js)
   * [D3.js](#d3js)
   * [Dojo](#dojo)
+  * [Electron](#electron)
   * [Elm](#elm)
   * [Ember.js](#emberjs)
   * [Express.js](#expressjs)
@@ -106,11 +109,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Ionic](#ionic)
   * [jQuery](#jquery)
   * [meteor](#meteor)
+  * [Next.js](#next.js)
   * [Node.js](#nodejs)
   * [Om](#om)
   * [React](#react)
   * [React Native](#react-native)
   * [Redux](#redux)
+  * [Svelte](#svelte)
   * [Vue.js](#vuejs)
 * [Jenkins](#jenkins)
 * [Julia](#julia)
@@ -132,6 +137,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Mercurial](#mercurial)
 * [Mercury](#mercury)
 * [Modelica](#modelica)
+* [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [Neo4J](#neo4j)
 * [.NET Core / .NET](#net-core)
@@ -249,13 +255,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Android
 
-* [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
 * [Android Notes for Professionals](https://goalkicker.com/AndroidBook) - Compiled from StackOverflow Documentation (PDF)
 * [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) (email address *requested*, not required)
 * [Android Tutorial](http://www.tutorialspoint.com/android) - Tutorials Point
 * [Codelabs for Advanced Android Development](https://developer.android.com/courses/advanced-training/toc)
 * [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
-* [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 * [Expert Android and Eclipse development knowledge](http://www.vogella.com/tutorials/android.html)
 * [Google Android Developer Training](https://developer.android.com/guide)
 * [Styling Android](https://blog.stylingandroid.com)
@@ -267,6 +271,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [A Practical Introduction to APL1 & APL2](http://robertson.uk.net) - Graeme Donald Robertson (PDF)
 * [A Practical Introduction to APL3 & APL4](http://robertson.uk.net) - Graeme Donald Robertson (PDF)
 * [Introduction to College Mathematics with A Programming Language (1978)](http://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E. J. LeCuyer (PDF)
+* [Learning APL](https://xpqz.github.io/learnapl/intro.html) - Stefan Kruger (HTML,PDF,IPYNB)
 * [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm) (PDF)
 
 
@@ -322,6 +327,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
 * [Software optimization resources](http://www.agner.org/optimize/) - A. Fog
 * [The Art of Assembly Language (2003)](https://web.archive.org/web/20120525102637/http://maven.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html) - Randall Hyde (PDF)
+* [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book/tree/master/en) - Ending, Chai Shushan, Yushih (HTML, [:package: examples](https://github.com/3dgen/cppwasm-book/tree/master/examples))
 * [Wizard Code, A View on Low-Level Programming](https://web.archive.org/web/20170712195930/http://vendu.twodots.nl/files/wizardcode4.pdf) - Tuomo Tuomo Venäläinen (PDF)
 * [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) - Ed Jorgensen (PDF)
 * [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - Wikibooks
@@ -372,6 +378,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html) (HTML)
 * [Bash tutorial](https://web.archive.org/web/20180328183806/http://gdrcorelec.ups-tlse.fr/files/bash.pdf) - Anthony Scemama (PDF)
 * [BashGuide](http://mywiki.wooledge.org/BashGuide) - Maarten Billemont (HTML) [(PDF)](http://s.ntnu.no/bashguide.pdf)
+* [Conquer the Command Line](https://magpi.raspberrypi.org/books/command-line-second-edition/pdf/download) - Richard Smedley (PDF)
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates (HTML)
 * [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php) (HTML)
 * [GNU Bash manual](https://www.gnu.org/software/bash/manual/bash.pdf) (PDF)
@@ -392,6 +399,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [A beginner's guide to Gambas](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
 * [Pick/Basic: A Programmer's Guide](http://www.jes.com/pb/) - Jonathan E. Sisk
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
+
+
+### BeanShell
+
+* [Beanshell Simple Java Scripting Manual](http://www.beanshell.org/manual/bshmanual.pdf) - beanshell.org (PDF)
+* [BeanShell User's Manual](http://www.beanshell.org/manual/bshmanual.html) - beanshell.org (HTML)
 
 
 ### BETA
@@ -418,6 +431,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
 * [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/)
+* [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/) - Tutorialspoint (HTML)
+* [Coursebook](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - Nick Parlante (PDF)
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
@@ -449,16 +464,16 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [C# Programming Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)
 * [C# Smorgasbord](https://www.filipekberg.se) - Filip Ekberg (HTML) [(PDF, EPUB, MOBI)](https://www.filipekberg.se/2018/04/02/csharp-smorgasbord-free/) (2018)
 * [C# Tips](https://leanpub.com/cstips) - Jason Roberts *(Leanpub account or valid email requested)*
-* [Creating Mobile Apps with Xamarin.Forms C#](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/)
+* [Creating Mobile Apps with Xamarin.Forms C#](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) - Charles Petzold
 * [Daily Design Patterns](https://web.archive.org/web/20170930132000/https://www.exceptionnotfound.net/downloads/dailydesignpattern.pdf) - Matthew P Jones (PDF)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
-* [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov, Veselin Kolev & Co (HTML, PDF)
+* [Fundamentals of Computer Programming with C# (the Bulgarian Book)](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov, Veselin Kolev et al. (HTML, [PDF, EPUB](https://introprogramming.info/english-intro-csharp-book/downloads/))
 * [High level asynchronous programming with Reactive Extensions](https://github.com/petroemil/Rx.Book) - Emil Petro
 * [Introduction to Rx](http://www.introtorx.com)
 * [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
-* [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebooks/mastering-xamarin-ui-development-second-edition) - Steven F. Daniel (Packt account *required*)
-* [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (email address *requested*, not required)
+* [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511) - Steven F. Daniel (Packt account *required*)
+* [.NET Book Zero](http://www.charlespetzold.com/dotnet) - Charles Petzold (PDF, XPS)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
@@ -475,7 +490,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
 * [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
 * [Elements of Programming](http://elementsofprogramming.com) - Alexander Stepanov and Paul McJones - (PDF)
-* [Financial Numerical Recipes in C++](http://finance.bi.no/~bernt/gcc_prog/recipes/) - Bernt Arne Ødegaard
+* [Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/recipes/) - Bernt Arne Ødegaard (PDF)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com)
 * [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Dr. Rian Quinn (Packt account *required*)
@@ -494,6 +509,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
 * [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) - Allen B. Downey (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
+* [Working Draft, Standard for Programming Language C++, 2021 Revision](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) - Thomas Köppe (PDF) *(:construction: in process)*
 
 
 ### Chapel
@@ -525,6 +541,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+
+
+### CMake
+
+* [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/) - Henry Schreiner (HTML)
+* [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html) (HTML)
+* [Quick CMake tutorial](https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html) (HTML)
 
 
 ### COBOL
@@ -641,10 +664,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Emacs
 
-* [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
+* [An Introduction to Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html)
 * [Emacs for the Modern World](https://www.finseth.com/craft/) (HTML)
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
-* [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf) (PDF)
+* [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html)
 
 
 ### Embedded Systems
@@ -716,6 +739,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [A Beginner's Guide to Forth](https://web.archive.org/web/20180919061255/http://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm) - J.V. Noble
 * [And so Forth...](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf) (PDF)
+* [Easy Forth](https://skilldrick.github.io/easyforth/) - Nick Morgan (HTML)
 * [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf) (PDF)
 * [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
 * [Thinking Forth](http://thinking-forth.sourceforge.net)
@@ -758,11 +782,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
 * [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/)
 * [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)
+* [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 * [How to Collaborate on Github](https://github.com/eonist/How-to-collaborate-on-github) - André J
-* [Intoduction to Git and Github](https://launchschool.com/books/git) - Launch School
-* [Intoduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
+* [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
+* [Introduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
 * [Introduction to Git and GitHub eBook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 * [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
 * [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon
@@ -795,6 +820,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### GraphQL
 
 * [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
+* [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) (PDF)
 
 
 ### Groovy
@@ -834,24 +860,26 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Haskell
 
-* [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/)
+* [A Gentle Introduction to Haskell Version 98](https://www.haskell.org/tutorial/) - Paul Hudak, John Peterson, Joseph Fasel
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](https://web.archive.org/web/20160411023943/http://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf) - J.R. Heard (PDF)
+* [Developing Web Applications with Haskell and Yesod](https://www.yesodweb.com/book) - Michael Snoyman 
 * [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh (PDF)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com)
 * [Haskell](https://en.wikibooks.org/wiki/Haskell) - Wikibooks
-* [Haskell and Yesod](http://www.yesodweb.com/book-1.4)
-* [Haskell no panic](http://lisperati.com/haskell/)
+* [Haskell no panic](http://lisperati.com/haskell/) - Conrad Barski
 * [Haskell Notes for Professionals](https://goalkicker.com/HaskellBook/) - Compiled from StackOverflow documentation (PDF)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
-* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/) - Yann Esposito
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovaca
 * [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/) - Simon Marlow
-* [Real World Haskell](http://book.realworldhaskell.org)
-* [Speeding Through Haskell](http://www.sthaskell.com)
+* [Real World Haskell](http://book.realworldhaskell.org) - Bryan O'Sullivan, Don Stewart, and John Goerzen
+* [Speeding Through Haskell](http://www.sthaskell.com) - Arya Popescu
+* [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) - Kees Doets and Jan van Eijck (PDF)
+* [The Haskell School of Music - From Signals to Symphonies](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) - Paul Hudak (PDF)
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - Stephen Diehl (PDF)
 * [Wise Man's Haskell](https://github.com/anchpop/wise_mans_haskell/blob/master/book.md#preface) - Andre Popovitch
-* [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
+* [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) - Hal Daum ́e III (PDF)
 
 
 ### Haxe
@@ -882,9 +910,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 * [HTML Dog Tutorials](http://www.htmldog.com)
 * [HTML5 Canvas](https://www.oreilly.com/library/view/html5-canvas/9781449308032/ch01.html) - Steve Fulton & Jeff Fulton
+* [HTML5 Canvas Notes for Professionals](https://goalkicker.com/HTML5CanvasBook/) - Compiled from StackOverflow documentation (PDF)
 * [HTML5 for Publishers](https://www.oreilly.com/library/view/html5-for-publishers/9781449320065/pr02.html) - Sanders Kleinfeld
 * [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
-* [HTML5 Notes for Professionals](http://goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (PDF)
+* [HTML5 Notes for Professionals](https://goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (PDF)
 * [HTML5 Quick Learning Guide](https://www.ossblog.org/wp-content/uploads/2017/06/html5-quick-learning-quide.pdf) - HTML5Templates (PDF)
 * [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat (HTML)
 * [Interneting is Hard (But it Doesn't Have to Be)](https://www.internetingishard.com) - Oliver James
@@ -980,9 +1009,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Java Programming](https://en.wikibooks.org/wiki/Java_Programming) - Wikibooks
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
 * [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
+* [Learning Java Language](https://riptutorial.com/Download/java-language.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
 * [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
-* [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook) - Simon Kendal (PDF) , Bookboon. (email address *requested*, not required)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky (PDF)
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) - Nebrass Lamouchi *(Leanpub account or valid email requested)*
@@ -1010,6 +1039,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### JasperReports
 
 * [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
+
+
+#### Solidity
+
+* [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/index.htm)
+* [The Solidity Reference Guide](https://docs.soliditylang.org)
 
 
 #### Spring
@@ -1094,6 +1129,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Thinking in JavaScript](https://www.amazon.com/Thinking-JavaScript-Aravind-Shenoy-ebook/dp/B00JUI6LUQ) - Aravind Shenoy (Kindle)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas (HTML)
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
+* [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
 
 
@@ -1148,6 +1184,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Dojo: The Definitive Guide](https://www.oreilly.com/library/view/dojo-the-definitive/9780596516482/) - Matthew A. Russell
 
 
+#### Electron
+
+* [Electron Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/electron-succinctly) (PDF, Kindle) (email address requested, not required)
+
+
 #### Elm
 
 * [An Introduction to Elm](https://guide.elm-lang.org) (HTML)
@@ -1167,6 +1208,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 * [Ember.js - Getting started](https://guides.emberjs.com/release/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
+* [yoember.com](https://yoember.com)
 
 
 #### Express.js
@@ -1197,18 +1239,29 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
 
+#### Next.js
+
+* [Mastering Next.js](https://masteringnextjs.com)
+* [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (HTML, PDF) *(email required for PDF)*
+
+
 #### Node.js
 
 * [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
+* [From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook) - Kathleen Juell (PDF, EPUB)
 * [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
+* [How To Code in Node.js - eBook](https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook) - David Landup, Marcus Sanatan @ Stack Abuse, Digital Ocean (PDF, EPUB)
 * [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
+* [Mastering Node](https://github.com/visionmedia/masteringnode) - visionmedia ([PDF](https://github.com/visionmedia/masteringnode/blob/master/book.pdf))
 * [Mixu's Node Book](http://book.mixu.net/node/)
+* [Module Patterns](https://leanpub.com/modulepatterns) - Pedro Teixeira (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 * [Node Documentation](https://nodejs.org/en/docs/)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
 * [Node.js Notes for Professionals](http://goalkicker.com/NodeJSBook) - Compiled from StackOverflow Documentation (PDF)
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [Practical Node.js: Building Real-World Scalable Web Apps](https://github.com/azat-co/practicalnode) - Azat Mardan
 * [The Node Beginner Book](http://nodebeginner.org)
+* [The Node.js Handbook](https://flaviocopes.com/page/node-handbook/) - Flavio Copes (HTML, PDF) *(email required for PDF)*
 
 
 #### Om
@@ -1220,12 +1273,14 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/full-stack-react-projects) - Shama Hoque (Packt account *required*)
 * [Hacking with React](http://www.hackingwithreact.com)
+* [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [React-Bits](https://github.com/vasanthk/react-bits)
 * [React Book, your beginner guide to React](https://github.com/softchris/react-book/) - Chris Noring
 * [React Enlightenment](https://www.reactenlightenment.com)
 * [React In-depth: An exploration of UI development](https://developmentarc.gitbooks.io/react-indepth/content/)
+* [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content) - Krasimir Tsonev
 * [React JS Notes for Professionals](https://goalkicker.com/ReactJSBook/) - Compiled from StackOverflow Documentation (PDF)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 * [React Succinctly](https://www.syncfusion.com/ebooks/react-succinctly) - Samer Buna
@@ -1255,6 +1310,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman  *(Leanpub account or valid email requested)*
 
 
+#### Svelte
+
+* [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
+
+
 #### Vue.js
 
 * [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
@@ -1265,6 +1325,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Jenkins
 
 * [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
+* [Jenkins User Handbook](https://www.jenkins.io/user-handbook.pdf) (PDF)
 
 
 ### Julia
@@ -1274,7 +1335,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, and Lazaro Alonso
 * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
 * [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
-* [Quantitative Economics with Julia](https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf) - Jesse Perla, Thomas J. Sargent and John Stachurski (PDF)
+* [Quantitative Economics with Julia](https://julia.quantecon.org) - Jesse Perla, Thomas J. Sargent and John Stachurski (HTML, [PDF](https://web.archive.org/web/20210713122108/https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf))
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
 * [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens and Allen Downey (GitBook)
 
@@ -1283,6 +1344,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF)
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
+* [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
+* [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) (PDF)
 
 
 ### LaTeX / TeX
@@ -1365,9 +1428,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
 * [Learn Lisp The Hard Way](https://github.com/LispTO/llthw) - Colin J.E. Lupton
 * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/) - D. Hoyte
+* [Lisp for the Web](https://leanpub.com/lispweb) - Adam Tornhill (PDF, EPUB, MOBI) *(Leanpub account or valid email requested)*
 * [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin
 * [Lisp Koans](https://github.com/google/lisp-koans)
 * [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev *(Leanpub account or valid email requested)*
+* [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp) - Mark Watson (PDF, EPUB, MOBI) *(Leanpub account or valid email requested)*
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig (PDF, epub, markdown)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
@@ -1452,6 +1517,16 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Modelica by Example](http://book.xogeny.com)
 
 
+### MongoDB
+
+* [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb) - Tutorials Point
+* [Learning MongoDB](https://riptutorial.com/Download/mongodb.pdf) - Based on Unaffiliated  Stack Overflow Documentation (PDF)
+* [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
+* [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/) - Compiled from StackOverflow Documentation (PDF)
+* [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
+* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
+
+
 ### MySQL
 
 * [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
@@ -1507,11 +1582,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [CouchDB: The Definitive Guide](http://guide.couchdb.org)
 * [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
 * [Graph Databases](http://graphdatabases.com)
-* [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb) - Tutorials Point
-* [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
-* [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
+* [How To Manage a Redis Database](https://www.digitalocean.com/community/books/how-to-manage-a-redis-database-ebook) - Mark Drake (PDF, EPUB)
 * [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
-* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) - K. Seguin (PDF, Epub)
 
 
@@ -1535,6 +1607,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/) - Michael R. Clarkson
+* [OCaml From the Ground Up](https://ocamlbook.org) - Daniil Baturin (HTML) (:construction: *in process*)
 * [OCaml Scientific Computing](https://ocaml.xyz/book/) - Liang Wang, Jianxin Zhao (HTML) (:construction: *in process*)
 * [Real World OCaml](https://dev.realworldocaml.org/toc.html)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey and Nicholas Monje
@@ -1600,6 +1673,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
+* [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org
 * [PHP Internals Book](http://www.phpinternalsbook.com)
 * [PHP Notes for Professionals](https://goalkicker.com/PHPBook/) - Compiled from StackOverflow Documentation (PDF)
 * [PHP Pandas](http://daylerees.com/php-pandas/) - Dayle Rees
@@ -1665,6 +1739,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Postgres Official Documentation](http://www.postgresql.org/docs/)
 * [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) (email address *requested*, not required)
+* [PostgreSQL Notes for Professionals](https://goalkicker.com/PostgreSQLBook/) - Compiled from StackOverflow documentation (PDF)
 * [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql) - Tutorials Point
 * [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
 * [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
@@ -1701,23 +1776,23 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Prolog
 
-* [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/)
-* [Applications of Prolog](http://bookboon.com/en/applications-of-prolog-ebook) - Attila Csenki, Bookboon. (email address *requested*, not required)
+* [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/) - Dennis Merritt
 * [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
-* [Concise Intro to Prolog](http://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html)
-* [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/)
-* [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) (PDF)
+* [Concise Intro to Prolog](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html) - David Matuszek
+* [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/) - David Matuszek
+* [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) - Daniel Diaz (PDF)
 * [Introduction to Prolog for Mathematicians](http://www.j-paine.org/prolog/mathnotes/files/pms/pms.html) - J. Ireson-Ireson-Paine
 * [Learn Prolog Now!](http://www.learnprolognow.org)
-* [Logic, Programming and Prolog (2ed)](http://www.ida.liu.se/~ulfni53/lpp/)
+* [Logic, Programming and Prolog (2ed)](https://www.ida.liu.se/~ulfni53/lpp/) - Ulf Nilsson and Jan Maluszynski
 * [Natural Language Processing Techniques in Prolog](http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/) - P. Blackburn, K. Striegnitz
 * [Prolog and Natural - Language Analysis](http://www.mtome.com/Publications/PNLA/pnla-digital.html) - Fernando C. N. Pereira, Stuart M. Shieber
-* [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/)
+* [Prolog for Programmers](https://sites.google.com/site/prologforprogrammers/) - Feliks Kluźniak, Stanisław Szpakowicz & Janusz S. Bień
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
-* [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook) - Attila Csenki, Bookboon. (email address *requested*, not required)
-* [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
+* [Prolog Tutorial](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html) - J. R. Fisher
+* [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space) - Peter Flach
 * [The Art of Prolog, Second Edition](https://mitpress.mit.edu/books/art-prolog-second-edition) - Leon S. Sterling, Ehud Y. Shapiro (Open Access)
-* [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
+* [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
+* [The Power of Prolog](https://www.metalevel.at/prolog) - Markus Triska
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci
 
 
@@ -1781,6 +1856,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Invent Your Own Computer Games With Python](https://inventwithpython.com/invent4thed/) - Al Sweigart (3.4)
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
 * [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
+* [Learn Python the Right Way](https://learnpythontherightway.com)
 * [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF)
 * [Learning to Program](http://www.alan-g.me.uk)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
@@ -1828,7 +1904,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
 * [Slither into Python: An introduction to Python for beginners](https://www.slitherintopython.com) (3.7)
-* [Suporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
+* [Supporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Harry Percival (3.3 - 3.x)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
 * [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) - Al Sweigart
@@ -1855,6 +1931,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.10.x/django.pdf) (PDF) (1.10)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) (PDF) (2.2)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.1.x/django.pdf) (PDF) (3.1)
+* [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf) (PDF) (3.2)
 * [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
 * [Django Web Framework (Python)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - MDN contributors
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
@@ -1899,12 +1976,14 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### R
 
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
-* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (PDF)
+* [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) -David M. Smith and William N. Venables
+* [An Introduction to Statistical Learning with Applications in R](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (PDF)
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - Rafael A. Irizarry
 * [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences) - Rafael A Irizarry, Michael I Love *(Leanpub account or valid email requested)*
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) - Colin Gillespie, Robin Lovelace
 * [Exploratory Data Analysis with R](https://leanpub.com/exdata) - Roger D. Peng *(Leanpub account or valid email requested)*
+* [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman and George Athanasopoulos
 * [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman and Hadley Wickham
 * [Introduction to Probability and Statistics Using R](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro
@@ -1967,7 +2046,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to Programming with Ruby](https://launchschool.com/books/ruby) - Launch School
 * [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/)
 * [Learn Ruby First](https://essenceofchaos.gitbooks.io/learn-ruby-first/content/) - Frederick John
+* [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) - Zed A. Shaw
 * [Learn to Program](http://pine.fm/LearnToProgram/) - Chris Pine
+* [Mastering Roda](https://fiachetti.gitlab.io/mastering-roda) - Federico Iachetti, Avdi Grimm and Jeremy Evans
 * [Mr. Neighborly's Humble Little Ruby Book](https://web.archive.org/web/20180321101922/http://www.humblelittlerubybook.com/book/html/index.html)
 * [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby) - Launch School
 * [Practicing Ruby](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts)
@@ -2070,6 +2151,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content/) - Rob Story
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/) - Phil! Gold
 * [Scala & Design Patterns: Exploring Language Expressivity](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) - Fredrik Skeel Løkke (PDF)
+* [Scala Book](https://alvinalexander.com/scala/scala-book-free/) - Alvin Alexander (PDF, MOBI, HTML, EPUB)
 * [Scala By Example](https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf) - M. Odersky (PDF)
 * [Scala Cookbook: Bonus Chapters](http://examples.oreilly.com/9781449339616-files/Scala_Cookbook_bonus_chapters.pdf) - Alvin Alexander (PDF)
 * [Scala for Perl 5 Programmers](https://github.com/garu/scala-for-perl5-programmers) - Breno G. de Oliveira
@@ -2265,6 +2347,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### TypeScript
 
 * [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)
+* [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Dr. Axel Rauschmayer
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
@@ -2321,7 +2404,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 * [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) (HTML) (:construction: *in process*)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
-* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) - Steve Losh
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) - Tim Ottinger  *(Leanpub account or valid email requested)*
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
 * [VIM-GALORE - All things Vim!](https://github.com/mhinz/vim-galore#readme) (HTML)

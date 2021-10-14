@@ -5,6 +5,7 @@
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
 * [Emacs](#emacs)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)
@@ -42,6 +43,7 @@
 
 ### CodeIgniter
 
+* [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
@@ -50,6 +52,11 @@
 ### Emacs
 
 * [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
+
+
+### Flutter
+
+* [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
 
 
 ### Git
@@ -63,6 +70,7 @@
 
 * [Belajar Dengan Jenius Golang](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang/master/Belajar%20Dengan%20Jenius%20Golang.pdf) - Gun Gun Febrianza (PDF)
 * [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com) - Noval Agung Prayogo
+* [Mari Belajar Golang](https://www.smashwords.com/books/view/938003) - Risal (PDF)
 
 
 ### HTML CSS
@@ -94,6 +102,7 @@
 
 ### Node.js
 
+* [Belajar Dengan Jenius Amazon Web Service & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/releases/download/1.2/Belajar.Dengan.Jenius.Javascript.Node.pdf) - Gun Gun Febrianza (PDF)
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
 * [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua, Google Play Books (*account required*)
 
@@ -110,15 +119,18 @@
 
 ### Pemrograman Kompetitif
 
-* [Pemrograman Kompetitif Dasar](https://osn.toki.id/#materi-algo) - William Gozali & Alham Fikri Aji (PDF)
+* [Pemrograman Kompetitif Dasar](https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali & Alham Fikri Aji (PDF)
 
 
 ### PHP
 
+* [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) - Dadan Hamdani (PDF)
 * [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat - (PDF)
+* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF)
 * [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF)
 * [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF)
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
+* [PHP Dasar Tutorial](https://gilacoding.com/upload/file/PHP%20Dasar%20Tutorial.pdf) - Rosihan Ari Yuana (PDF)
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 * [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(Dalam Proses)*
@@ -138,6 +150,7 @@
 ### React
 
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
+* [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
 
 
 ### TypeScript
@@ -159,3 +172,4 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
+

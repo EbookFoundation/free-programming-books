@@ -698,6 +698,10 @@
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
 
 
+### Pharo
+
+* [The Pharo MOOC](https://mooc.pharo.org) - Damien Cassou, Stéphane Ducasse, Luc Fabresse
+
 ### PHP
 
 * [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape  (2019)

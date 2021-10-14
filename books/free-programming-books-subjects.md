@@ -218,6 +218,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Data Science
 * [Introduction to Data Science](https://leanpub.com/datasciencebook) - Rafael A Irizarry
 
+
 ### Database
 
 * [Database Design, 2nd Ed.](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/?uuid=5b6f010a-0563-44d4-94c5-67caa515d2c5) - Adrienne Watt, Nelson Eng (HTML, PDF, EPUB, Kindle)

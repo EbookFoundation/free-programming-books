@@ -47,8 +47,8 @@
 
 ### PHP
 
-* [Документація Laravel 8.x](https://www.docs-laravel.site/docs/8.x/) - Laravel.su
 * [Symfony. Швидкий старт](https://symfony.com/doc/current/the-fast-track/uk/index.html) - Symfony SAS
+* [Документація Laravel 8.x](https://www.docs-laravel.site/docs/8.x/) - Laravel.su
 
 
 ### Python

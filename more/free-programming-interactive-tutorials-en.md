@@ -224,6 +224,7 @@
 
 * [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
 * [React Tutorial](https://react-tutorial.app)
+* [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 
 
 ### Kotlin

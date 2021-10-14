@@ -17,6 +17,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Computer Science](#computer-science)
 * [Computer Vision](#computer-vision)
 * [Containers](#containers)
+* [Data Science](#data-science)
 * [Database](#database)
 * [Datamining](#datamining)
 * [Game Development](#game-development)
@@ -214,6 +215,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
 
 
+### Data Science
+* [Introduction to Data Science](https://leanpub.com/datasciencebook) - Rafael A Irizarry
 
 ### Database
 

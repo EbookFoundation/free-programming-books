@@ -7,6 +7,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Language Agnostic](#language-agnostic)
+* [PHP](#php)
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
@@ -42,6 +43,11 @@
 ### Language Agnostic
 
 * [Дизайн патерни - просто, як двері](http://designpatterns.andriybuday.com) - А. Будай
+
+
+### PHP
+* [Документація Laravel 8.x](https://www.docs-laravel.site/docs/8.x/installation)
+* [Symfony 5. Швидкий старт](https://symfony.com/doc/current/the-fast-track/uk/index.html)
 
 
 ### Python

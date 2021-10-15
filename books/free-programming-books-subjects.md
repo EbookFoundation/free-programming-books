@@ -17,7 +17,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Computer Science](#computer-science)
 * [Computer Vision](#computer-vision)
 * [Containers](#containers)
-* [Data Science](#data-science)
 * [Database](#database)
 * [Datamining](#datamining)
 * [Game Development](#game-development)
@@ -213,11 +212,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
-
-
-### Data Science
-
-* [Introduction to Data Science](https://leanpub.com/datasciencebook) - Rafael A Irizarry
 
 
 ### Database
@@ -463,6 +457,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Statistical Thinking for the 21st Century](https://statsthinking21.org) - Russell A. Poldrack
 * [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
 * [SticiGui](https://www.stat.berkeley.edu/~stark/SticiGui/) - Philip Stark
+* [The Elements of Data Analytic Style](https://leanpub.com/datastyle) - Jeff Leek
 * [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/) - Leon Q. Brin
 * [The Open Logic Text](https://builds.openlogicproject.org/open-logic-complete.pdf) - Open Logic Project (PDF)
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey

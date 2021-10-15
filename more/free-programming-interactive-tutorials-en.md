@@ -218,6 +218,7 @@
 #### jQuery
 
 * [Front End Libraries: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery)
+* [jQuery Tutorial](https://www.w3schools.com/jquery/) - W3Schools
 
 
 #### React

@@ -516,6 +516,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
+* [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
 * [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide) *(Leanpub account or valid email requested)*
 * [Modeling Reactive Systems with Statecharts](http://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html)
 * [MSIX Succinctly](https://www.syncfusion.com/ebooks/msix-succinctly) - Matteo Pagani

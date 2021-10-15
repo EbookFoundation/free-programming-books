@@ -107,8 +107,8 @@
 
 ### Java
 
-* [Java Cheatsheet](https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet) - Codecademy (HTML)
 * [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) (PDF)
+* [Java Cheatsheet](https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet) - Codecademy (HTML)
 
 
 ### JavaScript

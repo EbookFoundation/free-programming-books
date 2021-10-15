@@ -38,8 +38,8 @@
 * [TypeScript](#typescript)
   * [Angular](#angular)
 * [Vue.js](#vuejs)
-* [WordPress](#wordpress)
 * [Segurança da Informação](#segurança-da-informação)
+* [WordPress](#wordpress)
 
 
 ### Android

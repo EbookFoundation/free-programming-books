@@ -54,10 +54,10 @@
 ### Bash
 
 * [Kurs Bash'a](http://web.archive.org/web/20180129013729/http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
-* [Kurs dobrego skryptowania w bash](https://devopsiarz.pl/bash/) (HTML) - Mateusz Szczyrzyca
+* [Kurs dobrego skryptowania w bash](https://devopsiarz.pl/bash/) - Mateusz Szczyrzyca (HTML)
 * [Kurs pisania skryptów w powłoce BASH](http://fizyka.umk.pl/~karolamik/unix/skrypty/bash.pdf) (PDF)
 * [Programowanie w Bashu](https://bash.0x1fff.com) (HTML)
-* [Programowanie w Bashu czyli jak pisać skrypty w Linuksie](https://www.arturpyszczuk.pl/files/bash/bash.pdf) (PDF) - Artur Pyszczuk 
+* [Programowanie w Bashu czyli jak pisać skrypty w Linuksie](https://www.arturpyszczuk.pl/files/bash/bash.pdf) - Artur Pyszczuk (PDF)
 
 
 ### C

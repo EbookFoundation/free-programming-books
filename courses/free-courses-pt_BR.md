@@ -33,12 +33,12 @@
 * [React Native](#react-native)
 * [Ruby](#ruby)
 * [Sass](#sass)
+* [Segurança da Informação](#segurança-da-informação)
 * [Shell](#shell)
 * [Swift](#swift)
 * [TypeScript](#typescript)
   * [Angular](#angular)
 * [Vue.js](#vuejs)
-* [Segurança da Informação](#segurança-da-informação)
 * [WordPress](#wordpress)
 
 

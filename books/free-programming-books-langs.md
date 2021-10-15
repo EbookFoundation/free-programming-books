@@ -320,7 +320,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [ARM Assembly Language Programming](http://www.rigwit.co.uk/ARMBook/ARMBook.pdf) - Peter Knaggs (PDF) (:construction: *in process*)
 * [Assemblers And Loaders (1993)](http://www.davidsalomon.name/assem.advertis/asl.pdf) - David Salomon (PDF)
-* [Assembly Language Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage) (PDF)
+* [Assembly Language Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage) - Christopher Rose, Syncfusion Inc. (HTML, [PDF, EPUB, Kindle](https://www.syncfusion.com/succinctly-free-ebooks/confirmation/assemblylanguage))
 * [PC Assembly Language](http://pacman128.github.io/pcasm/) - P. A. Carter
 * [Professional Assembly Language](https://web.archive.org/web/20170329045538/http://blog.hit.edu.cn:80/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
 * [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) - Jonathan Bartlett (PDF)

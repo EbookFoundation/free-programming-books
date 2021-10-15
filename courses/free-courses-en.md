@@ -52,6 +52,7 @@
 * [.NET](#net)
 * [OCaml](#ocaml)
 * [Perl](#perl)
+* [Pharo](#pharo)
 * [PHP](#php)
 * [PLC - Programmable logic controllers](#plc---programmable-logic-controllers)
 * [Processing](#processing)

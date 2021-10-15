@@ -75,10 +75,9 @@
 ### CSS
 
 * [CodePen](https://codepen.io)
-* [CSSdeck](http://cssdeck.com)
-* [CSSdesk](http://cssdesk.com)
-* [Dabblet](http://dabblet.com)
-* [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
+* [CSSdeck](https://cssdeck.com)
+* [Dabblet](https://dabblet.com)
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [SoloLearn](https://code.sololearn.com/web#css)
 
 
@@ -143,9 +142,9 @@
 * [CodeSandbox.io](https://codesandbox.io)
 * [Esfiddle](https://esfiddle.net)
 * [Grasshopper](https://grasshopper.app) *(Google account required)*
-* [JSBin](http://jsbin.com)
-* [JSFiddle](http://jsfiddle.net)
-* [Plunker](http://plnkr.co)
+* [JSBin](https://jsbin.com)
+* [JSFiddle](https://jsfiddle.net)
+* [Plunker](https://plnkr.co)
 * [SoloLearn](https://code.sololearn.com/web#javascript)
 
 
@@ -181,7 +180,7 @@
 
 ### NodeJS
 
-* [Ideone](http://ideone.com)
+* [Ideone](https://ideone.com)
 * [SoloLearn](https://code.sololearn.com/nodejs)
 
 
@@ -192,21 +191,21 @@
 
 ### Perl
 
-* [Perl](http://tryperl.pl)
+* [Perl](https://tryperl.pl)
 
 
 ### PHP
 
-* [Codepad](http://codepad.org)
+* [Codepad](http://codepad.org/?lang=PHP)
 * [ExtendsClass](https://extendsclass.com/php.html)
-* [PHPFiddle](http://phpfiddle.org)
+* [PHPFiddle](https://phpfiddle.org)
 * [PHPTester](http://phptester.net)
 * [SoloLearn](https://code.sololearn.com/php)
 
 
 ### Python
 
-* [Codepad](http://codepad.org)
+* [Codepad](http://codepad.org/?lang=Python)
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
@@ -242,7 +241,7 @@
 
 ### Ruby
 
-* [Codepad](http://codepad.org)
+* [Codepad](http://codepad.org/?lang=Ruby)
 * [SoloLearn](https://code.sololearn.com/ruby)
 * [TryRuby](https://try.ruby-lang.org)
 
@@ -260,7 +259,6 @@
 ### Scala
 
 * [ScalaFiddle.io](https://scalafiddle.io)
-* [ScalaFiddle.net](http://scalafiddle.net)
 * [Scastie](https://scastie.scala-lang.org)
 
 
@@ -298,5 +296,5 @@
 
 > :information_source: See also &#8230; [AngularJS](#angularjs)
 
-* [Plunker](http://plnkr.co)
+* [Plunker](https://plnkr.co)
 * [StackBlitz](https://stackblitz.com/fork/angular)

@@ -189,6 +189,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
 * [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
+* [Compiler Basics](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf) - Torben Ægidius Mogensen
 
 
 ### Computer Science

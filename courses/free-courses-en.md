@@ -52,6 +52,7 @@
 * [.NET](#net)
 * [OCaml](#ocaml)
 * [Perl](#perl)
+* [Pharo](#pharo)
 * [PHP](#php)
 * [PLC - Programmable logic controllers](#plc---programmable-logic-controllers)
 * [Processing](#processing)
@@ -702,6 +703,11 @@
 ### Perl
 
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
+
+
+### Pharo
+
+* [The Pharo MOOC](https://mooc.pharo.org) - Damien Cassou, Stéphane Ducasse, Luc Fabresse
 
 
 ### PHP

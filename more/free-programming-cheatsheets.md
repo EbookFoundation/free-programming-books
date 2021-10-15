@@ -57,6 +57,7 @@
 
 ### <a name="cpp"></a>C++
 
+* [C++ Cheatsheet](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-hello-world/cheatsheet) - Codecademy (HTML)
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
 
 
@@ -82,6 +83,7 @@
 ### Go
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
+* [Go Cheatsheet](https://www.codecademy.com/learn/learn-go/modules/learn-go-introduction/cheatsheet) - Codecademy (HTML)
 
 
 ### HTML / CSS
@@ -105,6 +107,7 @@
 
 ### Java
 
+* [Java Cheatsheet](https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet) - Codecademy (HTML)
 * [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) (PDF)
 
 
@@ -194,6 +197,7 @@
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
+* [R Cheatsheet](https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet) - Codecademy (HTML)
 
 
 ### Raspberry Pi

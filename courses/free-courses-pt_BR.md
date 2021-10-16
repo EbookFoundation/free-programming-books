@@ -108,7 +108,6 @@
 
 ### Go
 
-* [Aprenda Go](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ) - Aprenda Go (YouTube)
 * [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) - NBK Mundo Tech (YouTube)
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
 * [Curso Golang](https://www.youtube.com/playlist?list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9) - Universo Mainframe (YouTube)

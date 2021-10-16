@@ -83,7 +83,7 @@
 ### Go
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
-* [Go Cheatsheet](https://devhints.io/go) - devhints (HTML)
+* [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 
 
 ### HTML / CSS

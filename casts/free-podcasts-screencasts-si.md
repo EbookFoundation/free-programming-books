@@ -1,5 +1,6 @@
 ### Index
 
+* [DevOps](#devops)
 * [FOSS](#foss)
 
 

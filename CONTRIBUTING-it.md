@@ -46,6 +46,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 - se il libro è più vecchio, includi la data di pubblicazione assieme al titolo.
 - includi il nome o i nomi degli autori se è il caso. Puoi accorciare il nome degli autori con "et al."
 - se il libro non è ancora finito, e ci stanno ancora lavorando su, aggiungi "in process", come descritto [qui sotto.](#in_process)
+- se la risorsa è archiviata (per esempio su archive.org), aggiungi "archived", come descritto [qui sotto.](#archived)
 - se è richiesto un indirizzo email o un account per poter scaricare il libro, aggiungilo tra parentesi, esempio: `(email address *requested*, not required)`
 
 <a name="formatting"></a>
@@ -119,6 +120,13 @@ CORRETTO: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane R
 
 ```
 CORRETTO: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+```
+
+<a name="archived"></a>
+- Link archiviato:
+
+```
+CORRETTO: * [Will Be An Awesome Book Soon](https://web.archive.org/web/12345678901234/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
 ```
 
 ### Note

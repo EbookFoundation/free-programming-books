@@ -57,7 +57,7 @@
 
 ### <a name="cpp"></a>C++
 
-* [C++ Cheatsheet](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-hello-world/cheatsheet) - Codecademy (HTML)
+* [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) - codewithharry (HTML)
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
 
 
@@ -83,7 +83,7 @@
 ### Go
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
-* [Go Cheatsheet](https://www.codecademy.com/learn/learn-go/modules/learn-go-introduction/cheatsheet) - Codecademy (HTML)
+* [Go Cheatsheet](https://devhints.io/go) - devhints (HTML)
 
 
 ### HTML / CSS
@@ -108,7 +108,7 @@
 ### Java
 
 * [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) (PDF)
-* [Java Cheatsheet](https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet) - Codecademy (HTML)
+* [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet) - codewithharry (HTML)
 
 
 ### JavaScript
@@ -197,7 +197,6 @@
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
-* [R Cheatsheet](https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet) - Codecademy (HTML)
 
 
 ### Raspberry Pi

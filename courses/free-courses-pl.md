@@ -100,6 +100,7 @@
 
 ### Python
 
+* [Kurs online Python dla początkujących](https://www.flynerd.pl/tag/python-kurs) - Małgorzata Łyczywek AKA Rita (HTML)
 * [Kurs Python](https://www.youtube.com/playlist?list=PL3yDCQ6GKeEyBOF0gZyBvihDv6n0GNsdm)
 * [Kurs Python - Darmowy Po Polsku](https://www.youtube.com/playlist?list=PL_dDQ_G9rdI6dQsDkwqSQyAeXY3uUrWzp)
 * [Kurs Python 3](https://www.youtube.com/playlist?list=PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH)

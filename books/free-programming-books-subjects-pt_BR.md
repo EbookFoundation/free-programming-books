@@ -24,8 +24,8 @@
 
 #### Cálculo
 
-* [Cálculo Diferencial e Integral I](https://www.infolivros.org/pdfview/766-calculo-diferencial-e-integral-i-vinicius-martins-freire/) - Vinícius Martins Freire (PDF)
 * [Cálculo Diferencial e Integral e suas Aplicações](https://www.infolivros.org/pdfview/760-calculo-diferencial-e-integral-e-suas-aplicacoes-gabriela-alves-dias/) - Gabriela Alves Dias (PDF)
+* [Cálculo Diferencial e Integral I](https://www.infolivros.org/pdfview/766-calculo-diferencial-e-integral-i-vinicius-martins-freire/) - Vinícius Martins Freire (PDF)
 
 
 #### Estatística

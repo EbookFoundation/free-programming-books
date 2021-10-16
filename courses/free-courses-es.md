@@ -215,6 +215,7 @@
 * [Diseño Web - Principios de HTML](https://programadorwebvalencia.com/cursos/html/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Diseño web con HTML5+CSS](https://miriadax.net/web/diseno-web-con-html5-css-2-edicion-)
 * [Full Stack open: profundización en el desarrollo web moderno](https://fullstackopen.com/es/) - Universidad de Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
+* [FullStack JavaScript Bootcamp \| JavaScript, React.js, GraphQL, Node.js, TypeScript y +](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) - Miguel Ángel Durán «midudev» (YouTube)
 * [HTML 5](https://www.pildorasinformaticas.es/course/html-5) - Juan Díaz (Píldoras Informáticas)
 * [Introducción a HTML & CSS](https://www.aulaclic.es/html/index.htm) (HTML)
 * [PHP MySql Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql) - Juan Díaz (Píldoras Informáticas)

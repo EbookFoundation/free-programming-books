@@ -575,6 +575,7 @@
 #### Vue.js
 
   * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
+  * [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
 
 
 #### Zepto.js
@@ -722,6 +723,7 @@
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
+* [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
 
 
 ### Scala

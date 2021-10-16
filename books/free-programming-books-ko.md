@@ -2,9 +2,11 @@
 
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
+* [AWK](#AWK)
 * [C](#c)
 * [C++](#cpp)
 * [Docker](#docker)
+* [Elastic](#elastic)
 * [GIT](#git)
 * [Go](#go)
 * [HTML5](#html5)
@@ -26,7 +28,8 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scratch](#scratch)
-* [Swift](#swift)
+* [Sed](#Sed)
+* [Unicode](#unicode)
 
 
 ### Amazon Web Service
@@ -37,6 +40,11 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter (PDF)
+
+
+### AWK
+
+* [AWK 스크립트](https://mug896.github.io/awk-script)
 
 
 ### C
@@ -53,6 +61,11 @@
 ### Docker
 
 * [가장 빨리 만나는 Docker](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
+
+
+### Elastic
+
+* [Elastic 가이드북](https://esbook.kimjmin.net) - 김종민
 
 
 ### GIT
@@ -134,8 +147,11 @@
 
 * [내가 파이썬을 배우는 방법](https://wikidocs.net/7839)
 * [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
+* [실용 파이썬 프로그래밍: 프로그래밍 유경험자를 위한 강좌](https://wikidocs.net/book/4673) - 최용
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+* [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
+* [파이썬 라이브러리](https://wikidocs.net/book/5445) - 박응용
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
 * [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
@@ -150,6 +166,7 @@
 
 #### Flask
 
+* [점프 투 플라스크](https://wikidocs.net/book/4542) - 박응용
 * [Flask의 세계에 오신것을 환영합니다.](https://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
 
 
@@ -172,10 +189,21 @@
 ### Rust
 
 * [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) (:construction: *in process*)
+* [Rust by Example](https://hanbum.gitbooks.io/rustbyexample/content/) (:construction: *in process*)
 
 
 ### Scratch
 
 * [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
+
+
+### Sed
+
+* [sed stream editor](https://mug896.github.io/sed-stream-editor)
+
+
+### Unicode
+
+* [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
 
 

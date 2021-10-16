@@ -15,6 +15,7 @@
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
   * [Nest.js](#nestjs)
+  * [Nuxt.js](#nuxtjs)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
 * [Kubernetes](#kubernetes)
@@ -25,9 +26,12 @@
 * [Perl](#perl)
 * [Python](#python)
 * [R](#r)
+* [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Solidity](#solidity)
 * [SQL](#sql)
+* [Tensorflow](#tensorflow)
 
 
 ### Artificial Intelligence
@@ -111,6 +115,7 @@
 * [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) (HTML)
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
+* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) (HTML)
 
 
 #### jQuery
@@ -121,6 +126,11 @@
 #### Nest.js
 
 * [Nest.js CheatSheet](https://gist.github.com/guiliredu/0aa9e4d338bbeeac369a597e87c9ba46) (GitHub Gist)
+
+
+#### Nuxt.js
+
+* [Nuxt.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf) - Vue Mastery (PDF)
 
 
 #### React.js
@@ -165,6 +175,12 @@
 * [Perl Reference card](https://michaelgoerz.net/refcards/perl_refcard.pdf) (PDF)
 
 
+### PyTorch
+
+* [PyTorch Framework Cheat Sheet](https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf) - Simon Wenkel (PDF)
+* [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
+
+
 ### Python
 
 * [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2) - Rishi Sidhu, Medium (HTML)
@@ -186,6 +202,15 @@
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 
 
+### Raspberry Pi
+
+* [Basic GPIO layout configuration cheatsheet](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/cheat_sheet/) - University of Cambridge Computer Laboratory Raspberry Pi Projects Cheatsheet (PDF)
+* [Other Raspberry Pi Commands cheatsheet](https://www.raspberrypistarterkits.com/wp-content/uploads/2018/01/raspberry-pi-commands-cheat-sheet.pdf) - RPi starter Kit (PDF)
+* [Raspberry Pi Basics cheatsheet](https://www.woolseyworkshop.com/wp-content/uploads/WoolseyWorkshop_Cheatsheet_RaspberryPiBasics_v1.4.pdf) - Woolsey Workshop (PDF)
+* [Raspberry Pi Different GPIO Configuration Combinations cheatsheet](https://static.raspberrypi.org/files/education/posters/GPIO_Zero_Cheatsheet.pdf) - GPIO Zero Cheatsheet (PDF)
+* [Top 50 General Commands for Raspberry Pi cheatsheet](https://projects-raspberry.com/wp-content/uploads/2018/05/Top-50-Raspberry-pi-commands-List-cheat-sheet.pdf) - Projects Raspberry (PDF)
+
+
 ### Ruby
 
 * [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
@@ -196,8 +221,20 @@
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
 
+### Solidity
+
+* [Solidity Cheat Sheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.pdf) - IntelliPaat (PDF)
+* [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh
+
+
 ### SQL
 
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
-* [SQL Cheatsheet](https://www.codecademy.com/learn/learn-sql/modules/learn-sql-manipulation/cheatsheet) - Codecademy (SQL)
+
+
+### TensorFlow
+
+* [DeepLearning- Keras & TF Cheat Sheet](https://cheatography.com/chesterhsieh/cheat-sheets/deeplearning-keras-and-tf/pdf/) - Chester Hsieh, Cheatography (PDF) *(:construction: in process)*
+* [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) - Secret data scientist (HTML)
+* [TensorFlow v2.0 Cheat Sheet](https://web.archive.org/web/20200922212358/https://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf) - Altoros (PDF) *(:card_file_box: archived)*

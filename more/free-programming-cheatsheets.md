@@ -58,6 +58,7 @@
 
 ### <a name="cpp"></a>C++
 
+* [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) - CodeWithHarry (HTML)
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
 
 
@@ -83,6 +84,7 @@
 ### Go
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
+* [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 
 
 ### HTML / CSS
@@ -107,6 +109,7 @@
 ### Java
 
 * [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) (PDF)
+* [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet) - CodeWithHarry (HTML)
 
 
 ### JavaScript

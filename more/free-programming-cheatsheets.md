@@ -14,6 +14,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
+  * [Nest.js](#nestjs)
   * [Nuxt.js](#nuxtjs)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
@@ -120,6 +121,11 @@
 #### jQuery
 
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
+
+
+#### Nest.js
+
+* [Nest.js CheatSheet](https://gist.github.com/guiliredu/0aa9e4d338bbeeac369a597e87c9ba46) (GitHub Gist)
 
 
 #### Nuxt.js

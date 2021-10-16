@@ -279,7 +279,6 @@
 ### PHP
 
 * [Belajar PHP untuk PEMULA](https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6) - Web Programming UNPAS
-* [Belajar Laravel 8](https://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2) - Web Programming UNPAS
 * [Membuat Aplikasi MVC dengan PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx) - Web Programming UNPAS
 * [OOP Dasar pada PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p) - Web Programming UNPAS
 * [PHP The Right Way](https://www.youtube.com/playlist?list=PLFIM0718LjIVcKOrB2tFKi4eWYXHvS3CU) - Web Programming UNPAS
@@ -305,6 +304,7 @@
 * [Membuat Tabel Post Tampilan](https://youtu.be/sYTin40_Ukw) - Kawan Koding
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
 * [Tutorial Laravel Bahasa Indonesia](https://id-laravel.com) - ID Laravel
+* [Belajar Laravel 8](https://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2) - Web Programming UNPAS
 
 
 ### Python

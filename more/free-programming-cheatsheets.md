@@ -57,7 +57,7 @@
 
 ### <a name="cpp"></a>C++
 
-* [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) - codewithharry (HTML)
+* [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) - CodeWithHarry (HTML)
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
 
 
@@ -108,7 +108,7 @@
 ### Java
 
 * [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) (PDF)
-* [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet) - codewithharry (HTML)
+* [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet) - CodeWithHarry (HTML)
 
 
 ### JavaScript

@@ -18,5 +18,5 @@
 ### Python
 
 * [Python 2: Курс Молодого Бійця](http://www.vitaliypodoba.com/tutorials/python2-beginners-course/) - Віталій Подоба
-* [Основи програмування на Python](https://courses.prometheus.org.ua/courses/KPI/Programming101/2015_T1/about)
+* [Основи програмування на Python](https://courses.prometheus.org.ua/courses/KPI/Programming101/2015_T1/about) - Нікіта Павлюченко
 * [Програмування на мові Python (3.x). Початковий курс](https://sites.google.com/site/pythonukr/vstup)

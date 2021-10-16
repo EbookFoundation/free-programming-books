@@ -41,6 +41,7 @@
 * [Swift](#swift)
 * [TypeScript](#typescript)
   * [Angular](#angular)
+* [V](#v)
 
 
 ### <a name="c"></a>C
@@ -290,6 +291,11 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
+
+
+### V
+
+* [V Playground](https://play.vlang.io) - vlang.io
 
 
 #### Angular

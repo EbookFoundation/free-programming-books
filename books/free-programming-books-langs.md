@@ -556,6 +556,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
 * [Introduction to the COBOL Language](https://supportline.microfocus.com/documentation/books/oc41books/lrintr.htm)
 * [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
+* [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_73/pdf/sc092540.pdf) (PDF)
 
 
 ### CoffeeScript

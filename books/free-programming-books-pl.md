@@ -51,6 +51,11 @@
 * [Inżynieria wsteczna dla początkujących](https://beginners.re/RE4B-PL.pdf) - Dennis Yurichev, Kateryna Rozanova, Aleksander Mistewicz, Wiktoria Lewicka, Marcin Sokołowski (PDF)
 
 
+### Bash
+
+* [Programowanie w Bashu czyli jak pisać skrypty w Linuksie](https://www.arturpyszczuk.pl/files/bash/bash.pdf) - Artur Pyszczuk (PDF)
+
+
 ### C
 
 * [Beej's Guide to Network Programming - Używanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - B. Hall, Przełożył Bartosz Zapałowski (PDF)

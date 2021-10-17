@@ -368,4 +368,4 @@
 ### Vim
 
 * [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html)
-* [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - DANIEL MIESSLER
+* [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler

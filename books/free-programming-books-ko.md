@@ -30,7 +30,7 @@
 * [Scratch](#scratch)
 * [Sed](#Sed)
 * [Unicode](#unicode)
-
+* [Haskell](#haskell)
 
 ### Amazon Web Service
 
@@ -207,3 +207,6 @@
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
 
 
+### Haskell
+
+* [하스켈 프로그래밍: 프로그래밍과 유형 이론(Type Theory) ](https://www.youtube.com/playlist?list=PL5aSjzJqCaPaoi8yC2w549FsVgvXW5xFW)

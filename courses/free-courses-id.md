@@ -307,7 +307,6 @@
 * [Tutorial Laravel Bahasa Indonesia](https://id-laravel.com) - ID Laravel
 
 
-
 ### Python
 
 * [Belajar Pemrograman Python untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)

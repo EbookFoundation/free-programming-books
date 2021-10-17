@@ -24,8 +24,8 @@
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
 * [Perl](#perl)
-* [Python](#python)
 * [PHP](#php)
+* [Python](#python)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -185,6 +185,11 @@
 * [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
 
 
+### PHP
+
+* [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - NICK SCHÄFERHOFF, websitesetup (HTML)
+
+
 ### Python
 
 * [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2) - Rishi Sidhu, Medium (HTML)
@@ -199,11 +204,6 @@
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
-
-
-### PHP
-
-* [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - NICK SCHÄFERHOFF, websitesetup (HTML)
 
 
 ### R

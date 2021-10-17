@@ -126,7 +126,7 @@ CORRETTO: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John
 - Link archiviato:
 
 ```
-CORRETTO: * [Will Be An Awesome Book Soon](https://web.archive.org/web/12345678901234/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+CORRETTO: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
 ```
 
 ### Note

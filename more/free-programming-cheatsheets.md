@@ -187,7 +187,7 @@
 
 ### PHP
 
-* [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - NICK SCHÄFERHOFF, websitesetup (HTML)
+* [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - Nick Schäferhoff , websitesetup\.org (HTML)
 
 
 ### Python

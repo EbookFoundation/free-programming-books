@@ -108,7 +108,7 @@
 ### Go
 
 * [컴맹을 위한 프로그래밍 기초 강좌](https://www.youtube.com/playlist?list=PLy-g2fnSzUTAaDcLW7hpq0e8Jlt7Zfgd6)
-* [Nomadcoders - 쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners)
+* [Nomadcoders - 쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners) (email address *required*)
 
 
 ### Introduction

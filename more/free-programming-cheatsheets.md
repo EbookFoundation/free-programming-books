@@ -13,11 +13,11 @@
 * [IDE / Editors](#ide--editors)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [jQuery](#jquery)
-  * [Nest.js](#nestjs)
-  * [Nuxt.js](#nuxtjs)
-  * [React.js](#reactjs)
-  * [Vue.js](#vuejs)
+    * [jQuery](#jquery)
+    * [Nest.js](#nestjs)
+    * [Nuxt.js](#nuxtjs)
+    * [React.js](#reactjs)
+    * [Vue.js](#vuejs)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
@@ -25,6 +25,7 @@
 * [MongoDB](#mongodb)
 * [Perl](#perl)
 * [Python](#python)
+* [PHP](#php)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -76,8 +77,8 @@
 
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
-  * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
-  * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
+    * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
+    * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 
@@ -198,6 +199,11 @@
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
+
+
+### PHP
+
+* [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - NICK SCHÄFERHOFF, websitesetup (HTML)
 
 
 ### R

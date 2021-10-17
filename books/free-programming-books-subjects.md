@@ -631,6 +631,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 * [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
+* [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck & Hyrum Wright
 
 
 ### Programming Paradigms

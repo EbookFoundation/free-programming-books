@@ -25,7 +25,7 @@
 
 * [Bash - Skrypty powłoki](https://www.youtube.com/playlist?list=PLh6V3IQZSBSbls0j9DdkCpbbqQsBUzh4-) - Piotr Kośka
 * [Kurs BASH](https://www.youtube.com/playlist?list=PLHYqnLVqlfpyHMKNUkkdFQfueRcsssEj0)
-* [Kurs Bash'a](http://web.archive.org/web/20180129013729/http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
+* [Kurs Bash'a](https://web.archive.org/web/20180214140922/http://dief.republika.pl/main.html) (tar.gz)
 * [Kurs dobrego skryptowania w bash](https://devopsiarz.pl/bash/) - Mateusz Szczyrzyca (HTML)
 * [Kurs pisania skryptów w powłoce BASH](http://fizyka.umk.pl/~karolamik/unix/skrypty/bash.pdf) (PDF)
 * [Programowanie w Bashu](https://bash.0x1fff.com) (HTML)

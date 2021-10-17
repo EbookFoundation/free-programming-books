@@ -13,11 +13,11 @@
 * [IDE / Editors](#ide--editors)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [jQuery](#jquery)
-    * [Nest.js](#nestjs)
-    * [Nuxt.js](#nuxtjs)
-    * [React.js](#reactjs)
-    * [Vue.js](#vuejs)
+  * [jQuery](#jquery)
+  * [Nest.js](#nestjs)
+  * [Nuxt.js](#nuxtjs)
+  * [React.js](#reactjs)
+  * [Vue.js](#vuejs)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
@@ -77,8 +77,8 @@
 
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
-    * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
-    * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
+* [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
+* [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 

@@ -5,7 +5,7 @@
   * [Парадигмы Программирования](#Парадигмы-программирования)
   * [Работа c cетью](#Работа-с-сетью)
   * [Управление конфигурациями](#Управление-конфигурациями)
-  * [Open Source Ecosystem](#open-source-ecosystem)
+  * [Экосистема открытого исходного кода](#open-source-ecosystem)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -110,7 +110,7 @@
 * [Пособие по Ansible](https://github.com/freetonik/ansible-tuto-rus) - Michel Blanc
 
 
-#### Open Source Ecosystem
+#### Экосистема открытого исходного кода
 
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
 
@@ -424,6 +424,7 @@
 
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
+* [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - MasterGroosha
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
 * [Самоучитель Python](https://pythonworld.ru/samouchitel-python) (PDF)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython) - Swaroop C H

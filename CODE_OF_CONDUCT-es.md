@@ -20,7 +20,7 @@ Al adoptar este Código de Conducta, los encargados del mantenimiento del proyec
 
 Este código de conducta se aplica tanto dentro de los espacios del proyecto como en los espacios públicos, tanto sea un individuo que represente el proyecto o su comunidad.
 
-Los casos de comportamiento abusivo, acosador o inaceptable pueden ser informado poniéndose en contacto con un responsable del proyecto en victorfelder en gmail.com. Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. Los mantenedores están obligados a mantener la confidencialidad con respecto al informante de un incidente.
+Los casos de comportamiento abusivo, acosador o inaceptable pueden ser informado poniéndose en contacto con un responsable del proyecto en victorfelder [arroba] gmail.com. Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. Los mantenedores están obligados a mantener la confidencialidad con respecto al informante de un incidente.
 
 Este Código de Conducta está adaptado del [Pacto de Colaboradores][homepage], versión 1.3.0, disponible en https://contributor-covenant.org/version/1/3/0/
 

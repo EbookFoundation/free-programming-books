@@ -12,6 +12,7 @@
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
   * [React](#react)
+* [Julia](#julia)
 * [Kotlin](#kotlin)
 * [Perl](#perl)
 * [PHP](#php)
@@ -108,6 +109,11 @@ ADV - Продвинутый. Тонкости.
 * [React.js курс для начинающих](https://max-frontend.gitbook.io/react-course-ru-v2/) (BEG)
 
 
+### Julia
+
+* [Введение в язык программирования Julia](https://github.com/YermolenkoIgor/Julia_tutorial_rus) - Igor Yermolenko (BEG)
+
+
 ### Kotlin
 
 * [Введение в Kotlin JVM](https://stepik.org/course/5448) - Stepik (BEG)
@@ -136,6 +142,7 @@ ADV - Продвинутый. Тонкости.
 
 ### Python
 
+* [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) - Stepik (INT)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
 * ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) - Stepik (BEG)
 * ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343) - Stepik (INT)

@@ -21,6 +21,7 @@
   * [理論計算機科学](#%e7%90%86%e8%ab%96%e8%a8%88%e7%ae%97%e6%a9%9f%e7%a7%91%e5%ad%a6)
 * [Android](#android)
 * [AppleScript](#applescript)
+* [Assembly](#assembly)
 * [AWK](#awk)
 * [Bash](#bash)
 * [C](#c)
@@ -234,6 +235,11 @@
 * [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
 
 
+### Assembly
+
+* [リバースエンジニアリング入門 \| Reverse Engineering for Beginners](https://beginners.re/RE4B-JA.pdf) - Dennis Yurichev, shmz, 4ryuJP (PDF)
+
+
 ### AWK
 
 * [AWK の第一歩](https://www.magata.net/memo/index.php?plugin=attach&pcmd=open&file=awk%A5%DE%A5%CB%A5%E5%A5%A2%A5%EB.pdf&refer=%A5%B7%A5%A7%A5%EB%A5%B3%A5%DE%A5%F3%A5%C9) - 小栗栖修 (PDF)
@@ -345,6 +351,7 @@
 * [お気楽 Go 言語プログラミング入門](http://www.nct9.ne.jp/m_hiroi/golang) - 広井誠
 * [サンプルで学ぶ Go 言語](https://www.spinute.org/go-by-example) - Mark McGranaghan, spinute(翻訳)
 * [テスト駆動開発でGO言語を学びましょう](https://andmorefine.gitbook.io/learn-go-with-tests/) - Christopher James, andmorefine(翻訳)
+* [とほほの Go 言語入門](https://www.tohoho-web.com/ex/golang.html) - 杜甫々
 * [はじめてのGo―シンプルな言語仕様，型システム，並行処理](https://gihyo.jp/dev/feature/01/go_4beginners) - Jxck
 * [プログラミング言語 Go ドキュメント](http://go.shibu.jp) - The Go Authors, SHIBUKAWA Yoshiki 他(翻訳)
 
@@ -449,7 +456,6 @@
 
 ### Julia
 
-* [Julia 0.3.8](https://stats.biopapyrus.jp/julia) - 孫建強
 * [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
 * [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
 * [物理で使う数値計算入門：Julia言語による簡単数値計算](https://github.com/cometscome/Julianotes) - 永井佑紀
@@ -628,6 +634,7 @@
 
 * [Effective Scala](https://twitter.github.io/effectivescala/index-ja.html) - Marius Eriksen, Yuta Okamoto(翻訳), Satoshi Kobayashi(翻訳)
 * [Scala で書く tetrix](https://eed3si9n.com/tetrix-in-scala/ja) - Eugene Yokota
+* [ScalaによるWebアプリケーション開発](https://github.com/hatena/Hatena-Textbook/blob/master/web-application-development-scala.md) - はてな教科書
 * [独習 Scalaz](https://eed3si9n.com/learning-scalaz/ja) - Eugene Yokota
 
 
@@ -673,7 +680,7 @@
 
 ### Swift
 
-* [逆引きSwift](http://docs.fabo.io/swift/) - FaBo
+* [逆引きSwift](http://faboplatform.github.io/SwiftDocs/) - FaBo
 
 
 ### Tcl/Tk

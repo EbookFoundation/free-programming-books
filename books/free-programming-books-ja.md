@@ -69,6 +69,7 @@
   * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Sather](#sather)
 * [Scala](#scala)
 * [Scheme](#scheme)
@@ -625,6 +626,12 @@
 * [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)
 
 
+### Rust
+
+* [Rust by Example 日本語版](https://doc.rust-jp.rs/rust-by-example-ja) - Rustコミュニティ(翻訳)
+* [The Rust Programming Language 日本語版](https://doc.rust-jp.rs/book-ja) - Steve Klabnik, Carol Nichols, Rustコミュニティ(翻訳) ([PDF](https://doc.rust-jp.rs/book-ja-pdf/book.pdf))
+
+
 ### Sather
 
 * [Sather を試そう](https://www.shido.info/sather) - 紫藤貴文
@@ -693,6 +700,7 @@
 
 * [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - basarat, yohamta(翻訳)
 * [TypeScriptの為のクリーンコード](https://msakamaki.github.io/clean-code-typescript) - labs42io, 酒巻 瑞穂(翻訳)
+* [仕事ですぐに使えるTypeScript](https://future-architect.github.io/typescript-guide) - フューチャー株式会社（Future Corporation） ([PDF](https://future-architect.github.io/typescript-guide/typescript-guide.pdf))
 
 
 #### Angular

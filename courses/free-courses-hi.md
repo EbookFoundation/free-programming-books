@@ -150,7 +150,7 @@
 
 ### Ruby
 
-* [Learn Ruby in 45 Minutes | Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
+* [Learn Ruby in 45 Minutes \| Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
 
 
 #### Ruby on Rails

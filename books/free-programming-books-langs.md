@@ -1214,6 +1214,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Express.js
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
+* [The Express.js Handbook](https://flaviocopes.com/page/express-handbook/) - Flavio Copes (HTML, PDF) *(email required for PDF)*
 
 
 #### Fastify

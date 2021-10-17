@@ -205,7 +205,7 @@
 
 ### Springboot
 
-* [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준(djunnni@gmail.com)
+* [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
 
 
 ### Unicode

@@ -238,6 +238,7 @@
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
 * [SQL Cheat Sheet](https://www.dataquest.io/wp-content/uploads/2021/01/dataquest-sql-cheat-sheet.pdf) - Dataquest.io (PDF)
 
+
 ### TensorFlow
 
 * [DeepLearning- Keras & TF Cheat Sheet](https://cheatography.com/chesterhsieh/cheat-sheets/deeplearning-keras-and-tf/pdf/) - Chester Hsieh, Cheatography (PDF) *(:construction: in process)*

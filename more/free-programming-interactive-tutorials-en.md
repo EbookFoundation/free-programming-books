@@ -37,6 +37,7 @@
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [R](#r)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
@@ -172,6 +173,7 @@
 
 #### Bootstrap
 
+* [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools
 * [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
 * [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
@@ -216,12 +218,14 @@
 #### jQuery
 
 * [Front End Libraries: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery)
+* [jQuery Tutorial](https://www.w3schools.com/jquery/) - W3Schools
 
 
 #### React
 
 * [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
 * [React Tutorial](https://react-tutorial.app)
+* [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 
 
 ### Kotlin
@@ -313,6 +317,12 @@
 
 * [Learn R](https://www.codecademy.com/learn/learn-r) - Codecademy *(account required)*
 * [R Tutorial](https://www.w3schools.com/r) - W3Schools
+
+
+### Regular Expressions
+
+* [Regex Crossword](https://regexcrossword.com) - Ole Michelsen, Maria Hagsten Michelsen
+* [RegExp Playground](https://projects.verou.me/regexplained) - Lea Verou
 
 
 ### Ruby

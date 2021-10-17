@@ -9,6 +9,7 @@
 * [Competitive Programming](#competitive-programming)
 * [CSS](#css)
 * [Dart](#dart)
+* [Flutter](#flutter)
 * [Git](#git)
 * [HTML](#html)
 * [Java](#java)
@@ -76,6 +77,12 @@
 ### Dart
 
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
+
+
+### Flutter
+
+* [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy) - Techno BD XYZ
+* [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p) - Soykot Hosen
 
 
 ### Git

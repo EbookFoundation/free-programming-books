@@ -9,6 +9,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [0 - Meta-Lists](#0---meta-lists)
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Artificial Intelligence](#artificial-intelligence)
+* [Blockchain](#blockchain)
 * [Cellular Automata](#cellular-automata)
 * [Cloud Computing](#cloud-computing)
 * [Competitive Programming](#competitive-programming)
@@ -131,6 +132,16 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
 
+### Blockchain
+
+* [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
+* [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
+* [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
+* [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield et al. (PDF)
+* [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
+* [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
+
+
 ### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
@@ -144,6 +155,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Cloud Computing for Science and Engineering](https://cloud4scieng.org/chapters/) - Ian Foster, Dennis B. Gannon (:construction: *in process*)
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
+* [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/) Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
 * [How to optimize storage costs using Amazon S3](https://aws.amazon.com/s3/cloud-storage-cost-optimization-ebook/) - AWS (PDF)
 * [Kubernetes Hardening Guidance](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETESHARDENINGGUIDANCE.PDF) - NSA, CISA (PDF)
 * [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf) - Iain Foulds (PDF)
@@ -171,7 +183,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Compiler Design: Theory, Tools, and Examples, Java Edition](http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf) - Seth D. Bergmann (PDF)
 * [Compiling Scala for the Java Virtual Machine](http://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf) - Michel Schinz (PDF)
 * [Compiling Techniques (1969)](http://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm) - F.R.A. Hopgood, Macdonald
-* [Crafting Interpreters (:construction:)](http://www.craftinginterpreters.com) - Bob Nystrom (HTML)
+* [Crafting Interpreters](http://www.craftinginterpreters.com) - Bob Nystrom (HTML)
 * [Implementing Functional Languages: A Tutorial](http://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
 * [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf) - Douglas Thain (PDF)
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
@@ -219,6 +231,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com) - Ron Zacharski (Draft)
 * [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp) (email address *requested*, not required)
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R) - Wikibooks
+* [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
 * [Introduction to Data Science](https://leanpub.com/datasciencebook) - Rafael A Irizarry *(Leanpub account or valid email requested)*
@@ -335,6 +348,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Mathematics
 
 * [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/) - Victor Shoup
+* [A Computational Logic (1979)](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer and J Strother Moore (PDF)
 * [A First Course in Complex Analysis](http://math.sfsu.edu/beck/complex.html) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * [A First Course in Linear Algebra](http://linear.ups.edu) - Rob Beezer
 * [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary and Lars Kristiansen
@@ -444,6 +458,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
 * [SticiGui](https://www.stat.berkeley.edu/~stark/SticiGui/) - Philip Stark
 * [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/) - Leon Q. Brin
+* [The Elements of Data Analytic Style](https://leanpub.com/datastyle) - Jeff Leek (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 * [The Open Logic Text](https://builds.openlogicproject.org/open-logic-complete.pdf) - Open Logic Project (PDF)
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
@@ -467,7 +482,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Ansible Up & Running (first three chapters)](https://www.ansible.com/ebooks) *(account required)*
 * [Asterisk™: The Definitive Guide](http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8)
 * [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
-* [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder (PDF)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/~playbook/)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Confessions of an Unintentional CTO: Lessons in Growing a Web App](http://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
@@ -491,6 +505,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [HoloLens Succinctly](https://www.syncfusion.com/ebooks/hololens_succinctly) - Lars Klint
 * [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html) - R. Young
 * [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf) (PDF)
+* [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
 * [Image Processing in C: Analyzing and Enhancing Digital Images](http://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
 * [Information Technology and the Networked Economy](http://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) (PDF)
@@ -501,7 +516,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
-* [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
 * [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide) *(Leanpub account or valid email requested)*
 * [Modeling Reactive Systems with Statecharts](http://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html)
 * [MSIX Succinctly](https://www.syncfusion.com/ebooks/msix-succinctly) - Matteo Pagani
@@ -510,7 +524,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Open Government; Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government) - Daniel Lathrop, Laurel Ruma
 * [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien  *(Leanpub account or valid email requested)*
 * [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
-* [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
 * [Principles of Computer System Design](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)

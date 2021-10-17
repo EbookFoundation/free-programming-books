@@ -378,13 +378,13 @@
 
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
 * [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
+* [Golang basics](https://www.youtube.com/playlist?list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6) - Golang dojo
 * [Golang \| Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews
 * [Golang in under an hour](https://www.youtube.com/watch?v=N0fIANJkwic) - Eli Goldberg
 * [Golang Tutorial - Learn Go Programming Language](https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/) - GeeksforGeeks
 * [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com) - Jon Calhoun (email address *required*)
 * [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) - FreeCodeCamp
 * [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
-* [Golang basic](https://www.youtube.com/playlist?list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6) - Golang dojo
 
 
 ### Haskell

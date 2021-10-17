@@ -94,8 +94,8 @@
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
 * [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
 * [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co) - Chris Malven (HTML)
-* [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
 * [HTML & CSS Emmet Cheat Sheet](https://docs.emmet.io/cheatsheet-a5.pdf) - Emmet Documentation (PDF)
+* [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
 
 
 ### <a name="ide--editores"></a>IDE / Editors

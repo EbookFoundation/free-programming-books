@@ -9,6 +9,7 @@
 * [Elastic](#elastic)
 * [GIT](#git)
 * [Go](#go)
+* [Haskell](#haskell)
 * [HTML5](#html5)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -30,7 +31,6 @@
 * [Scratch](#scratch)
 * [Sed](#Sed)
 * [Unicode](#unicode)
-* [Haskell](#haskell)
 
 ### Amazon Web Service
 

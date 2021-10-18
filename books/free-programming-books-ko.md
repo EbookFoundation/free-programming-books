@@ -9,7 +9,6 @@
 * [Elastic](#elastic)
 * [GIT](#git)
 * [Go](#go)
-* [Haskell](#haskell)
 * [HTML5](#html5)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -82,11 +81,6 @@
 * [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
 * [Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
 * [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
-
-
-### Haskell
-
-* [하스켈 프로그래밍: 프로그래밍과 유형 이론(Type Theory)](https://www.youtube.com/playlist?list=PL5aSjzJqCaPaoi8yC2w549FsVgvXW5xFW) - liga nega (YouTube)
 
 
 ### HTML5

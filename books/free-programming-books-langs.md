@@ -1677,7 +1677,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org
+* [PHP In Action: Objects, Design, Agility](https://pdf.zlibcdn.com/dtoken/e4b8e86533dedf9968a8d9bb6fa3a74c/PHP_in_Action_Objects,_Design,_Agility_by_Dagfinn_490781_(z-lib.org).pdf) - Dagfinn Reiersol, Marcus Baker, Chris Shiflett (PDF)
 * [PHP Internals Book](http://www.phpinternalsbook.com)
+* [The Joy of PHP: A Beginner's Guide to Programming Interactive Web Applications with PHP and MySQL](https://pdf.zlibcdn.com/dtoken/17c74eee07558335c4789e364a883cb4/The_Joy_of_PHP_A_Beginners_Guide_to_Programming__5239357_(z-lib.org).pdf) - Alan Forbes (PDF)
+* [PHP: Learn PHP in One Day and Learn It Well](https://pdf.zlibcdn.com/dtoken/6c2a2fb774ba5288bf9b6ef83d7fb64c/PHP_Learn_PHP_in_One_Day_and_Learn_It_Well._PHP_f_5578763_(z-lib.org).pdf) - Jamie Chan (PDF)
 * [PHP Notes for Professionals](https://goalkicker.com/PHPBook/) - Compiled from StackOverflow Documentation (PDF)
 * [PHP Pandas](http://daylerees.com/php-pandas/) - Dayle Rees
 * [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks

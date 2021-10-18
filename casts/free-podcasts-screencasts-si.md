@@ -6,7 +6,7 @@
 
 ### DevOps
 
-* [DevOps With Zack](https://podcasts.apple.com/us/podcast/devops-with-zack/id1580215672) - Arshad Zackeriya
+* [DevOps With Zack](https://anchor.fm/arshad-zackeriya) - Arshad Zackeriya
 
 
 ### FOSS

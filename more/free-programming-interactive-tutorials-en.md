@@ -126,7 +126,6 @@
 
 ### Git
 
-* [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
 * [git-game](https://github.com/git-game/git-game)
 * [git-game-v2](https://github.com/git-game/git-game-v2)
 * [Git Tutorial](https://www.w3schools.com/git/) - W3Schools

@@ -133,8 +133,8 @@
 
 ### Java
 
-* [SoloLearn](https://code.sololearn.com/java)
 * [JDoodle](https://www.jdoodle.com/online-java-compiler/)
+* [SoloLearn](https://code.sololearn.com/java)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
 
 

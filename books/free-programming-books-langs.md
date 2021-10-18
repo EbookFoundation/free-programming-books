@@ -1991,6 +1991,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Raspberry Pi
 
+* [Essentials - GPIO Zero Electronics](https://magpi.raspberrypi.com/books/essentials-gpio-zero-v1) (PDF)
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read) - Malcolm Maclean (HTML)
 * [Raspberry Pi Beginner's Guide 4th Edition](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) (PDF)
 * [Raspberry Pi Camera Guide](https://magpi.raspberrypi.com/books/camera-guide) (PDF)
@@ -1998,7 +1999,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Raspberry Pi Users Guide - (2012)](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
 * [The Official Raspberry Pi Handbook 2022](https://magpi.raspberrypi.com/books/handbook-2022) (PDF)
 * [The Official Raspberry Pi Project Book](https://magpi.raspberrypi.com/books/projects-1) (PDF)
-* [Essentials - GPIO Zero Electronics](https://magpi.raspberrypi.com/books/essentials-gpio-zero-v1) (PDF)
 
 
 ### REBOL

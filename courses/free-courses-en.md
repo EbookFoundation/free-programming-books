@@ -379,6 +379,7 @@
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
 * [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
 * [Golang \| Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews
+* [Golang basics](https://www.youtube.com/playlist?list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6) - Golang dojo
 * [Golang in under an hour](https://www.youtube.com/watch?v=N0fIANJkwic) - Eli Goldberg
 * [Golang Tutorial - Learn Go Programming Language](https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/) - GeeksforGeeks
 * [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com) - Jon Calhoun (email address *required*)
@@ -578,6 +579,7 @@
 
 #### Vue.js
 
+* [Get Started with Nuxt](https://explorers.netlify.com/learn/get-started-with-nuxt) - Debbie O'Brien (Netlify)
 * [Internationalization with vue-i18n](https://vueschool.io/courses/internationalization-with-vue-i18n)
 * [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
 * [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)

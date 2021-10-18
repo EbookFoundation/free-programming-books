@@ -319,7 +319,7 @@
 
 ### Vue.js
 
-* [Aplicação Desktop com JavaScript, Electron JS e Vue JS](https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/) - Cod3r (Udemy)
+* [Aplicação Desktop com JavaScript, Electron JS e Vue JS](https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/) - Leonardo Moura Leitao, Cod3r (Udemy)
 * [Introdução ao Vue JS](https://www.udemy.com/course/introducao-ao-vue-js/) - Rafael Rend (Udemy)
 * [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
 

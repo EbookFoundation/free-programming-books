@@ -5,8 +5,8 @@
 
 ### Language Agnostic
 
+* [Agilpodden](https://www.agilpodden.se) (podcast)
 * [AI-Podden](https://ai-podden.se) (podcast)
-* [Agilpodden](https://www.agilpodden.se/) (podcast)
 * [Developers – mer än bara kod](https://www.developerspodcast.com) (podcast)
 * [IT-säkerhetspodden](https://www.itsakerhetspodden.se) (podcast)
 * [Kodsnack](http://kodsnack.se) (podcast)

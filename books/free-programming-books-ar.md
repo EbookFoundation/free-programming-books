@@ -20,6 +20,7 @@
 * [SQL](#sql)
   * [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
+* CEH v10"Certified Ethical Hacker"(https://cibtrc.com/wp-content/uploads/2018/10/CEHv10.pdf)(PDF)
 
 
 ### Arduino

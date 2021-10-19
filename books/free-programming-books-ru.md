@@ -396,9 +396,9 @@
 * [Руководство по PHP](http://docs.php.net/manual/ru)
 * [Руководство по PHPUnit](https://phpunit.readthedocs.io/ru/latest/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher)
-* [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way)
 * [Учебник по PHP](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-php/uchebnik-po-php)
 * [Учебник по PHP 7](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-php-7/uchebnik-po-php-7)
+* [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way)
 
 
 #### CakePHP
@@ -423,8 +423,8 @@
 
 #### Symfony
 
-* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
 * [Учебник по Symfony](https://coderlessons.com/tutorials/veb-razrabotka/uchit-symfony/uchebnik-po-symfony)
+* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
 
 
 ### Python

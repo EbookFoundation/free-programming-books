@@ -25,7 +25,7 @@
   * [Vue](#vue)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
-* [Linux](#Linux)
+* [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Microservices](#microservices)
 * [MongoDB](#mongodb)
@@ -90,6 +90,7 @@
 * [Dart Indonesia](https://www.youtube.com/playlist?list=PLoNv-2zK-dzEbZSFeGgSnpdp5i_Lwto-8) - CodeWithIhwan
 * [Dart Programming Untuk Persiapan Belajar Flutter](https://buildwithangga.com/kelas/dart-programming-untuk-persiapan-belajar-flutter) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
 * [Pemrograman Berorientasi Objek - Dart](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Erico Darmawan Handoyo
+* [TUTORIAL DART DASAR (BAHASA INDONESIA)](https://www.youtube.com/watch?v=-mzXdI27tyk) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
 ### Desain dan Arsitektur

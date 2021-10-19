@@ -33,5 +33,4 @@
 * [Rockstar Developer](http://eimaung.com/rockstar-developer) - Ei Maung
 
 
-### Ios Developer
-* [Antareza Ghifary] (http://antarezaghifary.github.io) - IoS Developer
+* [Another Awesome Book](http://example.com/book.html)

@@ -291,6 +291,7 @@
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
 * [Руководство по JavaScript](https://metanit.com/web/javascript) - Евгений Попов
 * [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
+* [Учебник по Javascript](https://coderlessons.com/tutorials/veb-razrabotka/uchit-javascript/uchebnik-po-javascript)
 * [JavaScript и jQuery](https://html5book.ru/javascript-jquery) - Елена Назарова
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
 
@@ -301,6 +302,7 @@
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)
+* [AngularJS Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-angularjs/angularjs-tutorial)
 
 
 #### jQuery
@@ -308,11 +310,13 @@
 * [Онлайн-книга "Изучаем jQuery"](https://metanit.com/web/jquery) - Евгений Попов
 * [Русская документация по API jQuery](https://jquery-docs.ru)
 * [jQuery для начинающих](http://anton.shevchuk.name/jquery-book) - Антон Шевчук
+* [JQuery Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/jquery/jquery-tutorial)
 
 
 #### Node.js
 
 * [Руководство по Node.js](https://metanit.com/web/nodejs) - Евгений Попов
+* [Учебник Node.js](https://coderlessons.com/tutorials/veb-razrabotka/uchebnik-node-js/uchebnik-node-js)
 * [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
 
 
@@ -328,12 +332,14 @@
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
 * [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/)
+* [Учебник ReactJS](https://coderlessons.com/tutorials/veb-razrabotka/uznaite-reactjs/uchebnik-reactjs)
 
 
 #### Vue.js
 
 * [Перевод документации](https://ru.vuejs.org)
 * [Руководство по Vue.js](https://metanit.com/web/vuejs) - Евгений Попов
+* [VueJS Учебник](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-vuejs/vuejs-uchebnik)
 
 
 ### Kotlin

@@ -287,6 +287,7 @@
 * [MongoDB University](https://university.mongodb.com) - MongoDB, Inc. (email address *required*)
 * [Neo4j Graph Database Tutorial](https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh) - Satish C J (YouTube)
 * [Redis University](https://university.redis.com) - Redis Inc. *(email address required)*
+* [Datastax Academy (Apache Cassandra)](https://academy.datastax.com) - Datastax Inc. *(email address required)*
 
 
 #### SQL

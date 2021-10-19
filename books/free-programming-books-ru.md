@@ -274,12 +274,14 @@
 
 * [Руководство по Maven](http://proselyte.net/tutorials/maven) - Евгений Сулейманов
 * [Apache Maven](https://easyjava.ru/ekosistema/sredstva-sborki/apache-maven/)
+* [Maven Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchitsia-maven/maven-nastroika-sredy)
 
 
 #### Spring
 
 * [Руководство по Spring](http://proselyte.net/tutorials/spring-tutorial-full-version) - Евгений Сулейманов
 * [Spring Framework](https://easyjava.ru/spring/)
+* [Spring MVC Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchis-spring-mvc/spring-mvc-tutorial)
 
 
 ### JavaScript
@@ -340,6 +342,7 @@
 
 * [Руководство по языку Kotlin](http://kotlinlang.ru)
 * [Руководство по языку Kotlin](https://metanit.com/java/kotlin) - Евгений Попов
+* [Учебник по Котлину](https://coderlessons.com/tutorials/mobilnaia-razrabotka/uchebnik-kotlin/1-uchebnik-po-kotlinu)
 
 
 ### LaTeX
@@ -474,6 +477,7 @@
 * [Растономикон](https://github.com/ruRust/rustonomicon)
 * [Язык программирования Rust](http://rurust.github.io/rust_book_ru)
 * [Rust на примерах](https://rurust.github.io/rust-by-example-ru)
+* [Rust Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchitsia-programmirovaniiu-na-rust/rust-tutorial)
 
 
 ### Scala
@@ -529,6 +533,7 @@
 
 * [Документация и туториалы](https://swiftbook.ru)
 * [Documentation](https://swift.org/documentation)
+* [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial)
 
 
 ### TypeScript

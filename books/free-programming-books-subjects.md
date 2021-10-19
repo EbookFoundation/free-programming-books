@@ -216,7 +216,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### Database
 
-* [Database Design, 2nd Ed.](https://opentextbc.ca/dbdesign01/) - Adrienne Watt, Nelson Eng (HTML, PDF, EPUB, Kindle)
+* [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/) - Adrienne Watt, Nelson Eng @ BCcampus Open Pressbooks (HTML, PDF, EPUB, Kindle)
 * [Database Explorations](http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) (PDF)
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
 * [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) (PDF)

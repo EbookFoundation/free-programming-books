@@ -113,7 +113,7 @@
 
 ### Haskell
 
-* [하스켈 프로그래밍: 프로그래밍과 유형 이론(Type Theory)](https://www.youtube.com/playlist?list=PL5aSjzJqCaPaoi8yC2w549FsVgvXW5xFW) - liga nega (YouTube)
+* [하스켈 프로그래밍: 프로그래밍과 유형 이론(Type Theory)](https://www.youtube.com/playlist?list=PL5aSjzJqCaPaoi8yC2w549FsVgvXW5xFW) - Gyesik Lee «liga nega» (YouTube)
 
 
 ### Introduction

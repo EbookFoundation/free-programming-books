@@ -205,6 +205,7 @@
 
 ### Python
 
+* [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 * [MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
 * [Python 입문자용 초급](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD8u2rzxmQ-L97jHTHiiDdy)
 

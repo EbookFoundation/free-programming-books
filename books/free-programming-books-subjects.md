@@ -122,7 +122,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 
 
-
 ### Artificial Intelligence
 
 * [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF)

@@ -52,8 +52,8 @@
 * [Python](#python)
   * [Django](#django)
   * [Jupyter](#jupyter)
-  * [Pycharm](#pycharm)
   * [NumPy](#numpy)
+  * [Pycharm](#pycharm)
 * [R](#r)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
@@ -451,14 +451,14 @@
 * [Учебник по Jupyter](https://coderlessons.com/tutorials/python-technologies/jupyter/uchebnik-po-jupyter)
 
 
-#### Pycharm
-
-* [Pycharm — Введение](https://coderlessons.com/tutorials/python-technologies/uznaite-pycharm/pycharm-vvedenie)
-
-
 #### NumPy
 
 * [NumPy Tutorial](https://coderlessons.com/tutorials/python-technologies/uchitsia-numpy/numpy-tutorial)
+
+
+#### Pycharm
+
+* [Pycharm — Введение](https://coderlessons.com/tutorials/python-technologies/uznaite-pycharm/pycharm-vvedenie)
 
 
 ### R

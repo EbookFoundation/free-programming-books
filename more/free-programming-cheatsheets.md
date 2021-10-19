@@ -24,6 +24,7 @@
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
 * [Perl](#perl)
+* [PHP](#php)
 * [Python](#python)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
@@ -184,6 +185,11 @@
 
 * [PyTorch Framework Cheat Sheet](https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf) - Simon Wenkel (PDF)
 * [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
+
+
+### PHP
+
+* [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - Nick Schäferhoff, WebsiteSetup (HTML, [PDF](https://websitesetup.org/wp-content/uploads/2020/09/PHP-Cheat-Sheet.pdf))
 
 
 ### Python

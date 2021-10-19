@@ -397,27 +397,34 @@
 * [Руководство по PHPUnit](https://phpunit.readthedocs.io/ru/latest/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher)
 * [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way)
+* [Учебник по PHP](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-php/uchebnik-po-php)
+* [Учебник по PHP 7](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-php-7/uchebnik-po-php-7)
 
 
 #### CakePHP
 
 * [Руководство](https://book.cakephp.org/3.0/ru/index.html)
+* [CakePHP Учебное пособие](https://coderlessons.com/tutorials/veb-razrabotka/uznaite-cakephp/cakephp-uchebnoe-posobie)
 
 
 #### CodeIgniter
 
 * [CodeIgniter](http://codeigniter3.info) - Игорь Букша
+* [CodeIgniter — Основные понятия](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-codeigniter/codeigniter-osnovnye-poniatiia)
+* [CodeIgniter фреймворк](https://coderlessons.com/tutorials/veb-razrabotka/codeigniter-freimvork/codeigniter-freimvork)
 
 
 #### Laravel
 
 * [Документация 5.x](https://laravel.ru/docs/v5)
 * [Перевод документации](http://laravel.su/docs)
+* [Учебник Laravel](https://coderlessons.com/tutorials/veb-razrabotka/vyuchi-laravel/uchebnik-laravel)
 
 
 #### Symfony
 
 * [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
+* [Учебник по Symfony](https://coderlessons.com/tutorials/veb-razrabotka/uchit-symfony/uchebnik-po-symfony)
 
 
 ### Python

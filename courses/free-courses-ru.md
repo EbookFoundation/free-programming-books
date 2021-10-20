@@ -37,7 +37,11 @@ ADV - Продвинутый. Тонкости.
 <h3 id="cpp">C++</h3>
 
 * [Введение в программирование (C++)](https://stepik.org/course/363) - Stepik (BEG)
-
+* [Основы разработки на С++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white) - Coursera (INT)
+* [Основы разработки на С++: желтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow?specialization=c-plus-plus-modern-development) - Coursera (INT)
+* [Основы разработки на С++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red?specialization=c-plus-plus-modern-development) - Coursera (INT)
+* [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown?specialization=c-plus-plus-modern-development) - Coursera (INT)
+* [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black?specialization=c-plus-plus-modern-development) - Coursera (INT)
 
 ### Clojure
 
@@ -150,6 +154,7 @@ ADV - Продвинутый. Тонкости.
 * [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG)
 * [Python для начинающих](https://ru.code-basics.com/languages/python) (BEG)
 * [Python: основы и применение](https://stepik.org/course/512) - Stepik (INT)
+* [Питонтьютор: Бесплатный курс по программированию с нуля](https://pythontutor.ru/) - Pythontutor (BEG)
 
 
 ### R

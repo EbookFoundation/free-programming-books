@@ -427,6 +427,7 @@
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+* [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) - freeCodeCamp
 * [Responsive Web Design with HTML5 and CSS3 - Advanced](https://www.udemy.com/course/responsive-web-design-with-html5-and-css3-advanced/) - Udemy
 * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [Web Development By Doing: HTML / CSS From Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/) - Udemy
@@ -479,6 +480,7 @@
 * [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function» (Youtube)
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 * [Intro To JavaScript Unit Testing & BDD](https://www.youtube.com/watch?v=u5cLK1UrFyQ) - Traversy Media
+* [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) - freeCodeCamp
 * [Javascript Array Methods](https://youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2) - Florin Pop (YouTube)
 * [Javascript Coding Challenges](https://youtube.com/playlist?list=PLgBH1CvjOA63ROz8Wqd7RDD0qpvGXF8x5) - Florin Pop (YouTube)
 * [Javascript course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) - Hitesh Choudhary
@@ -525,6 +527,7 @@
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
+* [Front End Development Libraries jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery) - freeCodeCamp
 * [Introduction to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245) (Udacity)
 * [jQuery Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc) - Brad Traversy, Traversy Media (YouTube)
 
@@ -547,6 +550,7 @@
 
 #### React
 
+* [Front End Development Libraries React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react) - freeCodeCamp
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
 * [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)
 * [React](https://progate.com/languages/react) (progate) *(account required)*
@@ -570,6 +574,7 @@
 
 #### Redux
 
+* [Front End Development Libraries (Redux)](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
 * [Getting Started with Redux](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
 

@@ -575,7 +575,7 @@
 #### Redux
 
 * [Front End Development Libraries (Redux)](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
-* [Getting Started with Redux](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
+* [Getting Started with Redux](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867) - freeCodeCamp
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
 
 

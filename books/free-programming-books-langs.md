@@ -1680,6 +1680,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### PHP
 
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
+* [Modern PHP](https://pdfcoffee.com/modern-php-pdf-free.html) - Josh Lockhart (PDF)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org
@@ -1694,6 +1695,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Practical PHP Programming](http://www.hackingwithphp.com)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
+* [The Joy of PHP: A Beginner's Guide to Programming Interactive Web Applications with PHP and MySQL](https://pdfcoffee.com/the-joy-of-php-alan-forbes-pdf-free.html) - Alan Forbes (PDF)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
 

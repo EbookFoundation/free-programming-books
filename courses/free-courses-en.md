@@ -646,7 +646,6 @@
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
-
 ### Markdown
 
 * [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) - GitHub Learning Lab *(GitHub account or email address required)*

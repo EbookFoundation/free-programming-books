@@ -29,6 +29,7 @@
 * [Raspberry Pi](#raspberry-pi)
 * [Reinforced Learning](#reinforced-learning)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Security](#security)
 * [Spring](#spring)
 * [Swift](#swift)
@@ -217,6 +218,12 @@
 
 * [Python & Ruby](https://www.opentutorials.org/course/1750) (생활코딩)
 * [Ruby coin](https://www.youtube.com/playlist?list=PLEBQPmkNcLCIE9ERi4k_nUkGgJoBizx6s)
+
+
+### Rust
+
+* [Team Jupeter - Rust by Examples](https://www.youtube.com/playlist?list=PLlSZlNj22M7SywLz61Wseh6iVGWRrtH76) - Team Jupeter (유튜브 채널) 
+* [Team Jupeter - The Rust Programming Language](https://www.youtube.com/playlist?list=PLlSZlNj22M7TBqclhEMkXFabaDCmds0mg) - Team Jupeter (유튜브 채널) 
 
 
 ### Security

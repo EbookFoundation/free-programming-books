@@ -453,6 +453,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Probability: Lectures and Labs](https://www.markhuberdatascience.org/probability-textbook) - Mark Huber
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (PDF)
 * [Sage for Undergraduates](http://www.gregorybard.com/books.html) - Gregory Bard
+* [Schaum's Outline of Linear Algebra](http://www.astronomia.edu.uy/progs/algebra/Linear_Algebra,_4th_Edition__(2009)Lipschutz-Lipson.pdf) - Seymour Lipschutz (PDF)
 * [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) - Brendan Fong and David I. Spivak (PDF)
 * [Statistical Thinking for the 21st Century](https://statsthinking21.org) - Russell A. Poldrack

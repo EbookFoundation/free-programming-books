@@ -37,6 +37,7 @@
 * [Android Complete Course](https://www.youtube.com/watch?v=roDz8mMvbIg&list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe) (screencast)
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) (podcast)
+* [Now in Android](https://nowinandroid.libsyn.com) (podcast)
 
 
 ### C&#x23;

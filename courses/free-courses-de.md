@@ -29,7 +29,6 @@
 
 ### Java
 
-* [Java Tutorial - Java lernen leicht gemacht](https://java-tutorial.org/index.php) - Björn und Britta Petri
 * [Java Tutorial Deutsch - Programmieren lernen](https://www.youtube.com/playlist?list=PLgZuSc7xewde9zlJjmbLci0w9lV5BbCHE) - "Informatik - simpleclub"
 * [Minecraft Plugins Programmieren für Anfänger](https://www.youtube.com/playlist?list=PLry1c-adUOIH3o2_K76jfznpw0-_3VpzY) - BiVieh
 

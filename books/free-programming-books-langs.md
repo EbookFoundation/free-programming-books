@@ -1683,6 +1683,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### PHP
 
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
+* [PHP Apprentice](https://phpapprentice.com/)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org

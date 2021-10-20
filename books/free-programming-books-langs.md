@@ -170,6 +170,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Django](#django)
   * [Flask](#flask)
   * [Kivy](#kivy)
+  * [NumPy](#numpy)
   * [Pandas](#pandas)
   * [Pyramid](#pyramid)
   * [Tornado](#tornado)
@@ -1963,6 +1964,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Kivy
 
 * [Kivy Programming Guide](https://kivy.org/docs/guide-index.html)
+
+
+#### NumPy
+
+* [Official NumPy Reference](https://numpy.org/doc/stable/numpy-ref.pdf) - The NumPy Community (PDF) (1.21.0)
 
 
 #### Pandas

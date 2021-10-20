@@ -163,8 +163,8 @@
 * [HTML5 Canvas](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teW5TsBQmD2MzLU5ryjXkVE) - Idr Corner
 * [HTML5 Dasar](https://www.buildwithangga.com/kelas/html5-dasar) - BuildWithAngga
 * [HTML5 Pemula Dasar](https://www.petanikode.com/html-dasar/) - petanikode
-* [Belajar HTML](https://alwaysngoding.com/belajar-html/teori)
-* [Belajar CSS](https://alwaysngoding.com/belajar-css/teori)
+* [Belajar HTML](https://alwaysngoding.com/belajar-html/teori) - Alwaysngoding
+* [Belajar CSS](https://alwaysngoding.com/belajar-css/teori) - Alwaysngoding
 
 
 ### Java
@@ -195,7 +195,7 @@
 * [JavaScript Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
 * [Tutorial programming dari nol (Javascript)](https://www.youtube.com/playlist?list=PLwF5TtGsdsBdTJdjzZp1Wdog1DNcHZdDu) - Pintar Programming (YouTube)
-* [Belajar JavaScript](https://alwaysngoding.com/belajar-javascript/teori)
+* [Belajar JavaScript](https://alwaysngoding.com/belajar-javascript/teori) - Alwaysngoding
 
 
 #### AngularJS
@@ -278,7 +278,8 @@
 * [Belajar MySQL](https://www.youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_) - Indonesia Belajar
 * [Belajar MySQL/MariaDB](https://www.youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF) - Guntur Budi
 * [MYSQL Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_P2_2zR6pvDublvpD3fF6W) - Programmer Zaman Now (Youtube)
-* [Belajar MySQL](https://alwaysngoding.com/belajar-mysql/teori)
+* [Belajar MySQL](https://alwaysngoding.com/belajar-mysql/teori) - Alwaysngoding
+
 
 ### PHP
 
@@ -289,7 +290,7 @@
 * [PHP Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH9EmZy4zYfW1ATIJ-qMXxGt) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Tutorial CodeIgniter 4](https://www.youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) - Web Programming UNPAS
 * [Tutorial CodeIgniter untuk pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCYh65VSFR2yzC7CuPBcAjt) - Sekolah Koding
-* [Belajar PHP](https://alwaysngoding.com/belajar-php/teori)
+* [Belajar PHP](https://alwaysngoding.com/belajar-php/teori) - Alwaysngoding
 
 
 ### Codeigniter

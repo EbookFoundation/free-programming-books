@@ -123,8 +123,8 @@
 
 ### Machine Learning
 
-* [Machine Learning Full Course](https://www.youtube.com/watch?v=IoZGSQ07e8g) - Great Learning
-* [Machine Learning in Hindi](https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr) - codebasics Hindi
+* [Machine Learning Full Course](https://www.youtube.com/watch?v=IoZGSQ07e8g) - Bharani Akella, Great Learning (YouTube)
+* [Machine Learning in Hindi](https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr) - Codebasics Hindi
 
 
 ### PHP

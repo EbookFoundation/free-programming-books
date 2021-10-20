@@ -133,6 +133,7 @@
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
+* [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3) - Wei Wang
 
 
 ### GLSL

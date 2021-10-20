@@ -5,6 +5,7 @@
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
 * [Emacs](#emacs)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [HTML & CSS](#html-css)
@@ -17,6 +18,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [React](#react)
+* [Solidity](#solidity)
 * [TypeScript](#typescript)
   * [Angular](#angular)
   * [Deno](#deno)
@@ -51,6 +53,11 @@
 ### Emacs
 
 * [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
+
+
+### Flutter
+
+* [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
 
 
 ### Git
@@ -145,6 +152,11 @@
 
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
+
+
+### Solidity
+
+* [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
 
 
 ### TypeScript

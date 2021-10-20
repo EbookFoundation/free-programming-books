@@ -1,4 +1,4 @@
-*Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 
 ## Contributor License Agreement
 By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) of this repository.
@@ -130,7 +130,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 ##### Titles
 
 - No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
-- No ALLCAPS titles. Usually title case is appropriate, but when doubt use the captitalization from the source
+- No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
 
 ##### URLs
 
@@ -213,4 +213,4 @@ check_urls=free-programming-books.md free-programming-books-en.md
 ```
 
 - You may specify more than one file to check, using a single space to separate each entry.
-- If you specify more than one file, results of the build is based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the pull request by clicking on "Show all checks" -> "Details".
+- If you specify more than one file, results of the build are based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the pull request by clicking on "Show all checks" -> "Details".

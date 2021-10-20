@@ -88,7 +88,7 @@
 
 ### 版本控制
 
-* [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
+* [沉浸式学 Git](https://web.archive.org/web/20191004044726/http://igit.linuxtoy.org:80/index.html)
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 * [学习 Git 分支](https://learngitbranching.js.org)
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -288,7 +288,7 @@
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
 * [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
-* [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
+* [Wireshark用户手册](https://web.archive.org/web/20200415002730/http://man.lupaworld.com/content/network/wireshark/index.html)
 
 
 ### WEB服务器
@@ -723,6 +723,7 @@
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
+* [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
 
 
 ### Scala

@@ -1,7 +1,8 @@
 ### Index
 
-* [Android](#android)
-* [C](#c)
+* [Algorithms](#algo)
+* [Android](#Android)
+* [C](#C)
 * [C++](#cpp)
 * [Data Structures](#data-structures)
 * [DevOps](#devops)
@@ -20,8 +21,22 @@
   * [Ruby on Rails](#ruby-on-rails)
 
 
+### Algorithms
+
+* [Binary Search | Interview Questions | Coding | Tutorials | Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) - Aditya Verma
+* [Binary Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4) - Pepcoding
+* [Dynamic Programming Playlist | Coding | Interview Questions | Tutorials | Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
+* [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
+* [Graphs - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v) - Pepcoding
+* [Recursion & Backtracking - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) - Pepcoding
+* [Recursion & Backtracking - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0) - Pepcoding
+* [Recursion Playlist | Coding | Interview Questions | Algorithm | Tutorials](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) - Aditya Verma
+* [Time and Space - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f) - Pepcoding
+
+
 ### Android
 
+* [Android Development Tutorial for Beginners](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb) - Anuj Bhaiya
 * [Android Development Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd) - Harry
 * [Complete Android Development Course in Hindi](https://www.youtube.com/playlist?list=PLUhfM8afLE_Ok-0Lx2v9hfrmbxi3GgsX1) - Neat Roots
 
@@ -31,9 +46,10 @@
 * [All C Concepts \| Hindi](https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
 * [C Language Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - CodeWithHarry
 * [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - CodeWithHarry
+* [C Programming Tutorials](https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l) - Vikas Pandey, easytuts4you
 
 
-<h3 id="cpp">C++</h3>
+### C++
 
 * [C++ Full Course | C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 * [C++ Programming in Hindi](https://www.youtube.com/playlist?list=PLDA2q3s0-n15yszaZ2yRKEoxY-WWkuAt4) - Sumit Bisht (Edutainment 1.0)
@@ -43,13 +59,17 @@
 
 ### Data Structures
 
+* [2-D Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH) - Pepcoding
 * [All Data Structure Concepts \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
 * [All Sorting algorithms and Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
 * [C++ Full Course | C++ Tutorial | Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 * [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [Dynamic Programming Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
+* [Functions and Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r) - Pepcoding
 * [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
+* [Linked Lists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
+* [Stack Playlist | Interview Questions | Coding | Tutorials | Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma
 
 
 ### DevOps
@@ -77,7 +97,6 @@
 * [Java Foundation Course \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk) - Pepcoding
 * [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - Harry
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
-* [The complete Java tutorial \| Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - Harry
 
 
 ### Javascript
@@ -96,6 +115,7 @@
 #### React
 
 * [React Js Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - CodeWithHarry
+* [React Tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM) - Code Step By Step
 * [React Tutorial in Hindi](https://www.youtube.com/watch?v=RGKi6LSPDLU) - CodeWithHarry
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
 
@@ -130,6 +150,9 @@
 
 
 ### Ruby
+
+* [Learn Ruby in 45 Minutes \| Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
+
 
 #### Ruby on Rails
 

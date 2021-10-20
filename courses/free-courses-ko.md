@@ -11,6 +11,7 @@
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
+* [Haskell](#haskell)
 * [Introduction](#introduction)
 * [iOS](#ios)
 * [Java](#java)
@@ -29,6 +30,7 @@
 * [Raspberry Pi](#raspberry-pi)
 * [Reinforced Learning](#reinforced-learning)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Security](#security)
 * [Spring](#spring)
 * [Swift](#swift)
@@ -107,7 +109,13 @@
 
 ### Go
 
+* [쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners) - Nicolás Serrano Arévalo (Nomad Coders) (email address *required*)
 * [컴맹을 위한 프로그래밍 기초 강좌](https://www.youtube.com/playlist?list=PLy-g2fnSzUTAaDcLW7hpq0e8Jlt7Zfgd6)
+
+
+### Haskell
+
+* [하스켈 프로그래밍: 프로그래밍과 유형 이론(Type Theory)](https://www.youtube.com/playlist?list=PL5aSjzJqCaPaoi8yC2w549FsVgvXW5xFW) - Gyesik Lee «liga nega» (YouTube)
 
 
 ### Introduction
@@ -197,6 +205,7 @@
 
 ### Python
 
+* [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 * [MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
 * [Python 입문자용 초급](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD8u2rzxmQ-L97jHTHiiDdy)
 
@@ -215,6 +224,12 @@
 
 * [Python & Ruby](https://www.opentutorials.org/course/1750) (생활코딩)
 * [Ruby coin](https://www.youtube.com/playlist?list=PLEBQPmkNcLCIE9ERi4k_nUkGgJoBizx6s)
+
+
+### Rust
+
+* [Team Jupeter - Rust by Examples](https://www.youtube.com/playlist?list=PLlSZlNj22M7SywLz61Wseh6iVGWRrtH76) - Team Jupeter (유튜브 채널) 
+* [Team Jupeter - The Rust Programming Language](https://www.youtube.com/playlist?list=PLlSZlNj22M7TBqclhEMkXFabaDCmds0mg) - Team Jupeter (유튜브 채널) 
 
 
 ### Security

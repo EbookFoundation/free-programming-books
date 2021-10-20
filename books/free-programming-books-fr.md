@@ -114,7 +114,6 @@
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet](http://vidalc.chez.com/lf/socket.html) - (HTML)
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
-* [Le langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - Informaticienzero, Taure, Paraze et Lucas-84
 * [Programmation en Langage C et Systèmes Informatiques](https://sites.uclouvain.be/SystInfo/notes/Theorie/) - O. Bonaventure, E. Riviere, G. Detal, C. Paasch
 
 
@@ -229,7 +228,7 @@
 ### Perl
 
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html) - Sylvain Lhullier
-* [La documentation Perl en français](http://perl.mines-albi.fr/DocFr.html)
+* [La documentation Perl en français](http://perl.mines-albi.fr/DocFr.html) - Paul Gaborit
 
 
 ### PHP
@@ -240,7 +239,7 @@
 
 #### Symfony
 
-* [En route pour Symfony 5](https://symfony.com/doc/5.0/the-fast-track/fr/index.html)
+* [En route pour Symfony 5](https://symfony.com/doc/5.0/the-fast-track/fr/index.html) - Fabien Potencier
 
 
 ### Processing
@@ -252,7 +251,7 @@
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
 * [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et lier ensuite votre compte self-learning à votre compte INGInious. )
-* [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/)
+* [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau et Laurent Pointal
 

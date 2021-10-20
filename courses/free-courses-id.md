@@ -25,7 +25,7 @@
   * [Vue](#vue)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
-* [Linux](#Linux)
+* [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Microservices](#microservices)
 * [MongoDB](#mongodb)
@@ -90,6 +90,7 @@
 * [Dart Indonesia](https://www.youtube.com/playlist?list=PLoNv-2zK-dzEbZSFeGgSnpdp5i_Lwto-8) - CodeWithIhwan
 * [Dart Programming Untuk Persiapan Belajar Flutter](https://buildwithangga.com/kelas/dart-programming-untuk-persiapan-belajar-flutter) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
 * [Pemrograman Berorientasi Objek - Dart](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Erico Darmawan Handoyo
+* [TUTORIAL DART DASAR (BAHASA INDONESIA)](https://www.youtube.com/watch?v=-mzXdI27tyk) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
 ### Desain dan Arsitektur
@@ -139,6 +140,9 @@
 * [Belajar Golang Basic Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm) - Sekolah Koding
 * [Golang Fundamental](https://buildwithangga.com/kelas/golang-fundamental?thumbnail=nk4neM2UyG.54&main_leads=browse) - BuildWithAngga
 * [Golang Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH-0i9dzMzLw6FKVrFWv3QvQ) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Tutorial Golang Fundamental Bahasa Indonesia](https://www.youtube.com/watch?v=xzNT4JywW0A) - Agung Setiawan
+* [Tutorial Golang Web API Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=GjI0GSvmcSU) - Agung Setiawan
+* [Tutorial Golang Website Development Bahasa Indonesia](https://www.youtube.com/watch?v=K76y2_ZQYwY) - Agung Setiawan
 
 
 ### Gradle
@@ -294,6 +298,7 @@
 
 * [Belajar CRUD Laravel 8 + Livewire](https://www.youtube.com/playlist?list=PLEgI20pG1DqzAa8npy9C_NDUvYwhslUb4) - Kawan Koding
 * [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Parsinta
+* [Belajar Laravel 8](https://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2) - Sandhika Galih, Web Programming UNPAS
 * [Belajar Laravel 8 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwADhthqRaewl-7e7AhjpP8) - Parsinta
 * [Belajar Laravel Pemula](https://www.youtube.com/playlist?list=PLIan8aHxsPj2c9ZA7Rrnciir2OydWTdbn) - Wahidev Academy
 * [Fitur Baru Laravel 8](https://www.youtube.com/playlist?list=PLEgI20pG1DqyTqCPiHnuWrBZtVFs5z95p) - Kawan Koding
@@ -312,7 +317,9 @@
 * [OpenCV untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwt4cBsBy_Ej7gNlXdQ7blCB) - NgodingPython
 * [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
 * [Tutorial Python Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m) - Sekolah Koding
+* [Tutorial Python Beginner Bahasa Indonesia](https://www.youtube.com/watch?v=rWC2iFlN3TM) - Agung Setiawan
 * [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar
+* [Tutorial Python OOP Object Oriented Programming Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=b6Y5CzFM0Oc) - Agung Setiawan
 * [Visualisasi Data dalam Pemrograman Python (Matplotlib)](https://www.youtube.com/playlist?list=PL2O3HdJI4voHrfoMFvkDeblmjarDN8nC8) - Indonesia Belajar
 
 
@@ -348,6 +355,7 @@
 ### Solidity
 
 * [Ethereum Blockchain Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLNl8QwXqW_lvWSc3n3geFSbBtmJvEl4nz) - Odoo Indonesia vITraining
+* [Tutorial Blockchain Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhvZi4kEqU6kCjyv_y8qBae) - Ipung DEV Academy (YouTube)
 
 
 ### TypeScript

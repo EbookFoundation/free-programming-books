@@ -153,8 +153,8 @@
 ### HTML / CSS
 
 * [Belajar FLEXBOX](https://www.youtube.com/playlist?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k) - Web Programming UNPAS
-* [Belajar HTML](https://alwaysngoding.com/belajar-html/teori) - Alwaysngoding
 * [Belajar CSS](https://alwaysngoding.com/belajar-css/teori) - Alwaysngoding
+* [Belajar HTML](https://alwaysngoding.com/belajar-html/teori) - Alwaysngoding
 * [CSS Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p) - Web Programming UNPAS
 * [CSS Grid](https://www.youtube.com/playlist?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw) - Web Programming UNPAS
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS

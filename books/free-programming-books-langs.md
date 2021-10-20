@@ -718,6 +718,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Cookbook](https://flutter.dev/docs/cookbook)
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
+* [Flutter UI Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/flutter-ui-succinctly) - Ed Freitas
 * [Flutter Tutorial](https://www.tutorialspoint.com/flutter) - Tutorials Point
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)
 

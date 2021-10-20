@@ -521,7 +521,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Cilk
 
-* [Cilk 5.4.6 Reference Manual](http://supertech.csail.mit.edu/cilk/manual-5.4.6.pdf) (PDF)
+* [Cilk 5.4.6 Reference Manual](https://par.tuwien.ac.at/material/manual-5.4.6.pdf) (PDF)
 
 
 ### Clojure

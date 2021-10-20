@@ -94,6 +94,7 @@
 * [Linguaggio C - ANSI C](http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf) - B.W. Kernighan e D.M. Ritchie (PDF)
 * [Linguaggio C - Guida alla programmazione](http://www.cbmc.it/~marchettil/Tandem2016/Bellini.pdf) - A. Bellini e A. Guidi _Anno di pubblicazione_ 1999 (PDF)
 * [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
+* [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (PDF)
 
 
 ### C Sharp

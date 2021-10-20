@@ -143,6 +143,7 @@
 * [CodeSandbox.io](https://codesandbox.io)
 * [Esfiddle](https://esfiddle.net)
 * [Grasshopper](https://grasshopper.app) *(Google account required)*
+* [Hello Website - (Glitch)](https://glitch.new/website) *(Account requested, not required)*
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
 * [Plunker](https://plnkr.co)
@@ -181,6 +182,7 @@
 
 ### NodeJS
 
+* [Hello Node - (Glitch)](https://glitch.new/node) *(Account requested, not required)*
 * [Ideone](https://ideone.com)
 * [SoloLearn](https://code.sololearn.com/nodejs)
 
@@ -209,7 +211,7 @@
 * [Codepad](http://codepad.org/?lang=Python)
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
-* [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
+* [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
 
 
@@ -223,6 +225,7 @@
 ### React
 
 * [CodeSandbox.io](https://codesandbox.io)
+* [Hello React - (Glitch)](https://glitch.new/react) *(Account requested, not required)*
 * [jscomplete](https://jscomplete.com/playground)
 * [StackBlitz](https://stackblitz.com/fork/react)
 

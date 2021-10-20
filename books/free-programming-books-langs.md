@@ -477,6 +477,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
+* [C# Notes for Professionals book](https://goalkicker.com/CSharpBook/)
 
 
 <h3 id="cpp">C++</h3>

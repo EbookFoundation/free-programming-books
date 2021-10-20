@@ -168,8 +168,10 @@
 * [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
 * [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
+* [Learn CSS-Evergreen CSS course and reference to level up your styling expertise](https://web.dev/learn/css/)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
+
 
 
 #### Bootstrap

@@ -173,7 +173,6 @@
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
 
-
 #### Bootstrap
 
 * [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools

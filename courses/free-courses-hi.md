@@ -12,6 +12,7 @@
 * [Javascript](#javascript)
   * [Next.js](#nextjs)
   * [React](#react)
+* [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [Python](#python)
   * [Django](#django)
@@ -75,6 +76,11 @@
 ### DevOps
 
 * [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
+
+
+### Machine Learning
+* [Machine Learning in Hindi](https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr) - codebasics Hindi
+* [Machine Learning Full Course](https://www.youtube.com/watch?v=IoZGSQ07e8g) - Great Learning
 
 
 ### Git and GitHub

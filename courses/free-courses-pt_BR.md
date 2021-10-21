@@ -29,9 +29,11 @@
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
+* [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
 * [Ruby](#ruby)
 * [Sass](#sass)
+* [Segurança da Informação](#segurança-da-informação)
 * [Shell](#shell)
 * [Swift](#swift)
 * [TypeScript](#typescript)
@@ -267,6 +269,11 @@
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)
 
 
+### Raspberry Pi
+
+* [Curso de Raspberry Pi: primeiros passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy) - Gustavo Guanabara (YouTube)
+
+
 ### React Native
 
 * [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) - Canal Geek Dev (YouTube)
@@ -312,6 +319,8 @@
 
 ### Vue.js
 
+* [Aplicação Desktop com JavaScript, Electron JS e Vue JS](https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/) - Leonardo Moura Leitao, Cod3r (Udemy)
+* [Introdução ao Vue JS](https://www.udemy.com/course/introducao-ao-vue-js/) - Rafael Rend (Udemy)
 * [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
 
 
@@ -319,3 +328,9 @@
 
 * [Curso de Loja Virtual: WooCommerce + WordPress](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR) - Curso em vídeo (YouTube)
 * [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Curso em vídeo (YouTube)
+
+
+### Segurança da Informação
+
+* [Boas Práticas de Segurança da Informação para Sua Empresa](https://www.udemy.com/course/empresa-mais-segura/) - Afonso da Silva E. (Udemy)
+* [Segurança da Informação: Por onde iniciar sua carreira](https://www.udemy.com/course/seguranca-da-informacao-por-onde-iniciar-sua-carreira/) - Alexandro Silva (Udemy)

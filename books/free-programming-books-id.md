@@ -18,6 +18,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [React](#react)
+* [Solidity](#solidity)
 * [TypeScript](#typescript)
   * [Angular](#angular)
   * [Deno](#deno)
@@ -151,6 +152,11 @@
 
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
+
+
+### Solidity
+
+* [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
 
 
 ### TypeScript

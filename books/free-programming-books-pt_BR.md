@@ -9,6 +9,7 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
+* [Dart](#dart)
 * [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
   * [Arquitetura de Software](#arquitetura-de-software)
@@ -108,6 +109,12 @@
 * [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
 
+### Dart
+
+* [Dart Documentação](https://dart.dev/guides) - dart.dev
+* [Flutter para Iniciantes](https://www.flutterparainiciantes.com.br) - Rubens de Melo (gitbook)
+
+
 ### Docker
 
 * [Descomplicando o Docker](https://livro.descomplicandodocker.com.br) - Jeferson Fernando
@@ -179,6 +186,7 @@
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
+* [Programação Básica em Java](http://professor.unisinos.br/pjaques/material/java_basico.pdf) - Patrícia Jaques Maillard (PDF)
 * [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) (PDF)
 
 

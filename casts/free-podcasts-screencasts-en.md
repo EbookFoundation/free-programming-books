@@ -37,6 +37,7 @@
 * [Android Complete Course](https://www.youtube.com/watch?v=roDz8mMvbIg&list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe) (screencast)
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) (podcast)
+* [Now in Android](https://nowinandroid.libsyn.com) (podcast)
 
 
 ### C&#x23;
@@ -86,6 +87,7 @@
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
 * [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi and Christopher Peter Makris (podcast)
+* [The Data Science Podcast](https://developer.ibm.com/podcasts/the-data-science-podcast/) - IBM (podcast)
 
 
 ### Elixir
@@ -241,7 +243,9 @@
 * [Functional Geekery](https://www.functionalgeekery.com) (podcast)
 * [Garbage](https://garbage.jcs.org) (podcast)
 * [Hacker Culture](https://anchor.fm/hackerculture) (podcast)
+* [IBM Developer Podcast](https://developer.ibm.com/podcasts/ibm_developer_podcast/) - IBM (podcast)
 * [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing) (podcast)
+* [In the Open with Luke and Joe](https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast)
 * [Ladybug Podcast](https://www.ladybug.dev) (podcast)
 * [Learn to Code with Me](http://learntocodewith.me/podcast/) (podcast)
 * [Loosely Coupled](http://looselycoupled.info) (podcast)
@@ -267,6 +271,7 @@
 * [The Path to Performance](https://pathtoperf.com) (podcast)
 * [The Podcast from DZone.com: "For Developers, by Developers"](https://soundcloud.com/john-esposito-23072673) (podcast)
 * [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet) (podcast)
+* [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) (podcast)
 * [The Web Ahead](http://5by5.tv/webahead) (podcast)
 * [The Web Platform](http://thewebplatform.libsyn.com) (podcast)
 * [Thinking with Tanay](https://anchor.fm/tanaypratap) (podcast)

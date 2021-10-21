@@ -428,7 +428,6 @@
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-* [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) - freeCodeCamp
 * [Responsive Web Design with HTML5 and CSS3 - Advanced](https://www.udemy.com/course/responsive-web-design-with-html5-and-css3-advanced/) - Udemy
 * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [Web Development By Doing: HTML / CSS From Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/) - Udemy
@@ -528,7 +527,6 @@
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
-* [Front End Development Libraries jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery) - freeCodeCamp
 * [Introduction to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245) (Udacity)
 * [jQuery Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc) - Brad Traversy, Traversy Media (YouTube)
 
@@ -551,7 +549,6 @@
 
 #### React
 
-* [Front End Development Libraries React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react) - freeCodeCamp
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
 * [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)
 * [React](https://progate.com/languages/react) (progate) *(account required)*
@@ -575,8 +572,7 @@
 
 #### Redux
 
-* [Front End Development Libraries (Redux)](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
-* [Getting Started with Redux](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867) - freeCodeCamp
+* [Getting Started with Redux](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
 
 

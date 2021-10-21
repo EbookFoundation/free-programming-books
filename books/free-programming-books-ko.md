@@ -36,6 +36,7 @@
 ### Amazon Web Service
 
 * [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
+* [AWS 기초 모듈 Workshop](https://kr-id-general.workshop.aws/ko/basic_modules.html) - Amazon Web Services
 
 
 ### Assembly Language

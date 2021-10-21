@@ -4,6 +4,7 @@
 * [Android](#android)
 * [Arduino](#arduino)
 * [ASP.NET](#asp.net)
+* [AWS](#aws)
 * [C/C++](#c/c++)
 * [C#](#c-sharp)
 * [Circuit](#circuit)
@@ -66,6 +67,10 @@
 
 * [ASP.NET MVC 강좌](https://www.youtube.com/playlist?list=PLbPz1r_wDPhEcKDJbOBw_3h5c2gtyDicX)
 
+
+### AWS
+
+* [AWS 기초 모듈 Workshop](https://kr-id-general.workshop.aws/ko/basic_modules.html) (Amazon Web Services)
 
 ### C/C++
 

@@ -393,6 +393,7 @@
 
 ### PHP
 
+* [Архитектура сложных веб-приложений. С примерами на Laravel](https://github.com/adelf/acwa_book_ru) - Adel Faizrakhmanov (PDF, EPUB, Kindle)
 * [Руководство по PHP](http://docs.php.net/manual/ru)
 * [Руководство по PHPUnit](https://phpunit.readthedocs.io/ru/latest/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher)

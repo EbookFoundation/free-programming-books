@@ -129,6 +129,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
 * [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF)
+* [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
 
@@ -136,6 +137,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 * [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
 * [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
+* [chain.courses](https://chain.courses) - James Gan, Rishub Kumar
 * [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
 * [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield et al. (PDF)
 * [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
@@ -217,7 +219,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### Database
 
-* [Database Design, 2nd Ed.](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/?uuid=5b6f010a-0563-44d4-94c5-67caa515d2c5) - Adrienne Watt, Nelson Eng (HTML, PDF, EPUB, Kindle)
+* [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/) - Adrienne Watt, Nelson Eng @ BCcampus Open Pressbooks (HTML, PDF, EPUB, Kindle)
 * [Database Explorations](http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) (PDF)
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
 * [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) (PDF)
@@ -459,6 +461,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
 * [SticiGui](https://www.stat.berkeley.edu/~stark/SticiGui/) - Philip Stark
 * [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/) - Leon Q. Brin
+* [The Elements of Data Analytic Style](https://leanpub.com/datastyle) - Jeff Leek (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 * [The Open Logic Text](https://builds.openlogicproject.org/open-logic-complete.pdf) - Open Logic Project (PDF)
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
@@ -630,6 +633,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Don't Just Roll the Dice](https://www.red-gate.com/library/dont-just-roll-the-dice) - Neil Davidson (PDF)
 * [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 * [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
+* [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck & Hyrum Wright
 * [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
 

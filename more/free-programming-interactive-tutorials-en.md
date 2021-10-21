@@ -162,7 +162,7 @@
 * [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure) - Nick Bull
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
-* [FreeCodeCamp: Responsive Web Design Course](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+* [Responsive Web Design Course Certification](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) - freeCodeCamp
 * [Grid Attack](https://codingfantasy.com/games/css-grid-attack) - Nick Bull
 * [Grid Garden](https://cssgridgarden.com)
 * [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
@@ -195,7 +195,7 @@
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
 * [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
-* [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript)
+* [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript) - freeCodeCamp
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
@@ -219,13 +219,13 @@
 
 #### jQuery
 
-* [Front End Libraries: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery)
+* [Front End Libraries Certification: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery) - freeCodeCamp
 * [jQuery Tutorial](https://www.w3schools.com/jquery/) - W3Schools
 
 
 #### React
 
-* [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
+* [Front End Libraries Certification: React](https://www.freecodecamp.org/learn/front-end-libraries/react) - freeCodeCamp
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 

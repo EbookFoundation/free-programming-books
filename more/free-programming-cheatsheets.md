@@ -43,7 +43,7 @@
 ### Bash
 
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
-* [Bash Scripting cheatsheet](https://shellmagic.xyz/) Shell Magic (HTML)
+* [Bash Scripting cheatsheet](https://shellmagic.xyz) Shell Magic (HTML)
 
 ### C
 

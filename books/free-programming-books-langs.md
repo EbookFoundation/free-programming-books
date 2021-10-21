@@ -1968,7 +1968,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### NumPy
 
-* [Official NumPy Reference](https://numpy.org/doc/stable/numpy-ref.pdf) - The NumPy Community (PDF) (1.21.0)
+* [Official NumPy Reference](https://numpy.org/doc/stable/numpy-ref.pdf) - The NumPy Community (PDF)
 
 
 #### Pandas

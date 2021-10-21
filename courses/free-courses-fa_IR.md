@@ -124,5 +124,6 @@
 ### Web Development
 
 * [برنامه نویسی وب](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74) - Mohammad Salehe
- * [دوره اموزشی بوت استرپ 5](https://www.youtube.com/playlist?list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Mehran Tarif «Silicium»
+* [برنامه نویسی وب با HTML و CSS](https://holosen.net/web-design/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)* 
+* [دوره اموزشی بوت استرپ 5](https://www.youtube.com/playlist?list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Mehran Tarif «Silicium»
 

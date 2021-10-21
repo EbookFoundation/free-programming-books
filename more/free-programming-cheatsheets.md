@@ -45,6 +45,7 @@
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
 * [Bash Scripting cheatsheet](https://shellmagic.xyz) Shell Magic (HTML)
 
+
 ### C
 
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)

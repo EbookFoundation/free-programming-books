@@ -46,7 +46,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 - se il libro è più vecchio, includi la data di pubblicazione assieme al titolo.
 - includi il nome o i nomi degli autori se è il caso. Puoi accorciare il nome degli autori con "et al."
 - se il libro non è ancora finito, e ci stanno ancora lavorando su, aggiungi "in process", come descritto [qui sotto](#in_process). Seleziona sempre l'ultima versione disponibile in questi siti.
-- se una risorsa è presa/conservata in un sito come `archive.org` (o simili) a causa di problemi di disponibilità nel sito originale, aggiungi "archived", come descritto [qui sotto.](#archived)
+- se una risorsa è archiviata usando la Wayback Machine di Internet Archive (o simili), aggiungi la notazione "archived", come descritto [qui sotto](#archived). La versione migliore da utilizzare è quella più recente/completa.
 - se è richiesto un indirizzo email o un account per poter scaricare il libro, aggiungilo tra parentesi, esempio: `(email address *requested*, not required)`
 
 <a name="formatting"></a>

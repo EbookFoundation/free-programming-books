@@ -458,7 +458,7 @@
 
 #### Pycharm
 
-* [Pycharm — Введение](https://coderlessons.com/tutorials/python-technologies/uznaite-pycharm/pycharm-vvedenie)
+* [Pycharm — Введение](https://coderlessons.com/tutorials/python-technologies/uznaite-pycharm/pycharm-vvedenie) - CoderLessons.com
 
 
 ### R

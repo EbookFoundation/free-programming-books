@@ -4,10 +4,11 @@
 * [HTML / CSS](#html--css)
 * [IDE / Editors](#ide--editors)
 * [JavaScript](#javascript)
+* [Java / React](#java--react)
 * [Python](#python)
 * [Temel programlama](#temel-programlama)
 * [Version Control Systems](#version-control-systems)
-* [Java / React](#java--react)
+
 
 
 ### Algoritmalar

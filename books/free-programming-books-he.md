@@ -33,4 +33,5 @@
 ### Python
 
 * [תכנות בשפת פייתון](https://data.cyber.org.il/python/python_book.pdf) – ברק גונן, המרכז לחינוך סייבר (PDF)
+* [המדריך הישראלי לפייתון](http://www.pythonbook.co.il/wordpress/%D7%94%D7%95%D7%A8%D7%93%D7%AA-%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/) – חיים מיכאל
 

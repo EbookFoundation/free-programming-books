@@ -70,7 +70,6 @@
 * [JAVA FX-wprowadzenie](https://www.youtube.com/playlist?list=PL-ikpm9wGd1HkA9PvGTYWZHtO-Xq_i_Mw)
 * [Java GUI: programowanie Graficznego Interfejsu Użytkownika](https://www.youtube.com/playlist?list=PL3298E3EB8CFDE9BA)
 * [Kurs JavaFX od podstaw](https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU)
-* [Kurs Javy dla początkujących](https://kobietydokodu.pl/kurs-javy/#podstawy-javy)
 * [Kurs programowania Java](https://www.youtube.com/playlist?list=PLED70A92187B1406A)
 * [Kurs programowania w języku Java (od podstaw!)](https://www.youtube.com/playlist?list=PLTs20Q-BTEMMJHb4GWFT34PAWxYyzndIY)
 

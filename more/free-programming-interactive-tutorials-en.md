@@ -171,7 +171,7 @@
 * [Learn CSS: an evergreen CSS course and reference to level up your styling expertise](https://web.dev/learn/css/) - Andy Bell, Rachel Andrew, Una Kravets, Adam Argyle, Rob Dodson, Jiwoong Lee et al. (web.dev)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
-* [Responsive Web Design Course Certification](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) - freeCodeCamp
+* [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) - freeCodeCamp
 
 
 #### Bootstrap

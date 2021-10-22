@@ -448,7 +448,7 @@
 
 #### Jupyter
 
-* [Учебник по Jupyter](https://coderlessons.com/tutorials/python-technologies/jupyter/uchebnik-po-jupyter)
+* [Учебник по Jupyter](https://coderlessons.com/tutorials/python-technologies/jupyter/uchebnik-po-jupyter) - CoderLessons.com
 
 
 #### NumPy

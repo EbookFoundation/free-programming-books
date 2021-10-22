@@ -19,6 +19,7 @@
   * [AngularJS](#angularjs)
   * [Node.js](#node.js)
   * [React.js](#react.js)
+* [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
@@ -161,6 +162,10 @@
 * [React.js 강좌](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 * [React.js 이론부터 실전까지](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCED62ZIWCbI-6G_jcwmuFB)
 
+
+### Kotlin
+
+* [안드로이드 코틀린 기초 강좌](https://www.youtube.com/playlist?list=PLva6rQOdsvQU7QJIg2RHM9wcT11X1S0pj) - 센치한 개발자
 
 ### Linux
 

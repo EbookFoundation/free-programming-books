@@ -3,8 +3,8 @@
 * [Algoritmalar](#algoritmalar)
 * [HTML / CSS](#html--css)
 * [IDE / Editors](#ide--editors)
-* [JavaScript](#javascript)
 * [Java / React](#java--react)
+* [JavaScript](#javascript)
 * [Python](#python)
 * [Temel programlama](#temel-programlama)
 * [Version Control Systems](#version-control-systems)
@@ -55,4 +55,5 @@
 
 * [Git Giriş Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya | Kodluyoruz
 * [Git İleri Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
+
 

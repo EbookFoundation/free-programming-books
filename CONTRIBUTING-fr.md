@@ -26,7 +26,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
 
 ### Directrices
 - assurez-vous qu'un livre est gratuit. Vérifiez si nécessaire. Cela aide les administrateurs si vous commentez dans le PR pourquoi vous pensez que le livre est gratuit.
-- nous n'acceptons pas les fichiers hébergés sur google drive, dropbox, mega, scribd, issuu et autres plateformes de téléchargement de fichiers similaires.
+- nous n'acceptons pas les fichiers hébergés sur Google Drive, Dropbox, Mega, Scribd, Issuu et autres plateformes de téléchargement de fichiers similaires.
 - insérez vos liens par ordre alphabétique. Si vous voyez un lien égaré, veuillez le réorganiser et soumettre un PR
 - utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
     + pas de services d'hébergement de fichiers (cela inclut (mais n'est pas limité à) les liens Dropbox et Google Drive)

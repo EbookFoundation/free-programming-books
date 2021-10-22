@@ -123,7 +123,7 @@
 
 #### Git
 
-* [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub ([HTML](https://git-scm.com/book/it), [PDF](https://github.com/progit/progit2-it/releases/latest/download/progit.pdf), [EPUB](https://github.com/progit/progit2-it/releases/latest/download/progit.epub))
+* [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 #### NoSQL

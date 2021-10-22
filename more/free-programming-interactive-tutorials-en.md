@@ -220,7 +220,7 @@
 
 #### jQuery
 
-* [Front End Libraries Certification: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery) - freeCodeCamp
+* [Front End Development Libraries Certification: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/#jquery) - freeCodeCamp
 * [jQuery Tutorial](https://www.w3schools.com/jquery/) - W3Schools
 
 

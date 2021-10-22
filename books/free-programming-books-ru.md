@@ -274,7 +274,7 @@
 
 * [Руководство по Maven](http://proselyte.net/tutorials/maven) - Евгений Сулейманов
 * [Apache Maven](https://easyjava.ru/ekosistema/sredstva-sborki/apache-maven/)
-* [Maven Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchitsia-maven/maven-nastroika-sredy)
+* [Maven Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchitsia-maven/maven-nastroika-sredy) - CoderLessons.com
 
 
 #### Spring

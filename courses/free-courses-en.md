@@ -284,6 +284,7 @@
 
 #### NoSQL
 
+* [Datastax Academy (Apache Cassandra)](https://www.datastax.com/dev/academy) - Datastax Inc. *(email address required)*
 * [MongoDB University](https://university.mongodb.com) - MongoDB, Inc. (email address *required*)
 * [Neo4j Graph Database Tutorial](https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh) - Satish C J (YouTube)
 * [Redis University](https://university.redis.com) - Redis Inc. *(email address required)*
@@ -539,6 +540,7 @@
 * [Beginner's Series to: Node.js](https://youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer (YouTube)
 * [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q) - Academind (Youtube)
 * [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - Brad Traversy, Traversy Media (Youtube)
+* [ExpressJS Fundamentals](https://www.udemy.com/course/expressjs-fundamentals/) - Patrick Schroeder (Udemy)
 * [Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY) - John Smilga, Coding Addict (YouTube)
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
@@ -637,6 +639,7 @@
 * [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Machine Learning Tutorial Python \| Machine Learning For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) - Dhaval Patel
+* [Machine Learning with Python - Youtube Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe) - Krish Naik (YouTube)
 * [Machine Learning with Python by Saeed Aghabozorgi](https://cognitiveclass.ai/courses/machine-learning-with-python) (cognitiveclass.ai)
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - Imperial College London, Dr David Dye, Dr Sam Cooper 
 * [Mathematics for Machine Learning - Multivariate Calclus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23) - Imperial College London, Dr David Dye, Dr Sam Cooper 

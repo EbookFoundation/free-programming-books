@@ -63,7 +63,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [Russian / Русский язык](books/free-programming-books-ru.md)
 + [Slovak / slovenčina](books/free-programming-books-sk.md)
 + [Spanish / español / castellano](books/free-programming-books-es.md)
-+ [Swedish / Svenska](books/free-programming-books-se.md)
++ [Swedish / Svenska](books/free-programming-books-sv.md)
 + [Tamil / தமிழ்](books/free-programming-books-ta.md)
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
@@ -135,7 +135,7 @@ Free Podcasts and Screencasts:
 + [Russian / Русский язык](casts/free-podcasts-screencasts-ru.md)
 + [Sinhala / සිංහල](casts/free-podcasts-screencasts-si.md)
 + [Spanish / español / castellano](casts/free-podcasts-screencasts-es.md)
-+ [Swedish / Svenska](casts/free-podcasts-screencasts-se.md)
++ [Swedish / Svenska](casts/free-podcasts-screencasts-sv.md)
 + [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
 
 

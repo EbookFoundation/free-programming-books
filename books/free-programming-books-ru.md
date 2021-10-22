@@ -77,7 +77,7 @@
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
-* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction: *в процессе написания*) (PDF)
+* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF)
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
 * [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp-ru-screen.pdf) - Гарольд Абельсон, Джералд Джей Сассман (PDF)
@@ -397,27 +397,34 @@
 * [Руководство по PHP](http://docs.php.net/manual/ru)
 * [Руководство по PHPUnit](https://phpunit.readthedocs.io/ru/latest/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher)
+* [Учебник по PHP](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-php/uchebnik-po-php)
+* [Учебник по PHP 7](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-php-7/uchebnik-po-php-7)
 * [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way)
 
 
 #### CakePHP
 
 * [Руководство](https://book.cakephp.org/3.0/ru/index.html)
+* [CakePHP Учебное пособие](https://coderlessons.com/tutorials/veb-razrabotka/uznaite-cakephp/cakephp-uchebnoe-posobie)
 
 
 #### CodeIgniter
 
 * [CodeIgniter](http://codeigniter3.info) - Игорь Букша
+* [CodeIgniter — Основные понятия](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-codeigniter/codeigniter-osnovnye-poniatiia)
+* [CodeIgniter фреймворк](https://coderlessons.com/tutorials/veb-razrabotka/codeigniter-freimvork/codeigniter-freimvork)
 
 
 #### Laravel
 
 * [Документация 5.x](https://laravel.ru/docs/v5)
 * [Перевод документации](http://laravel.su/docs)
+* [Учебник Laravel](https://coderlessons.com/tutorials/veb-razrabotka/vyuchi-laravel/uchebnik-laravel)
 
 
 #### Symfony
 
+* [Учебник по Symfony](https://coderlessons.com/tutorials/veb-razrabotka/uchit-symfony/uchebnik-po-symfony)
 * [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
 
 

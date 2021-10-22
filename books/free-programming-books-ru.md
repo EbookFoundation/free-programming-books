@@ -533,7 +533,7 @@
 
 * [Документация и туториалы](https://swiftbook.ru)
 * [Documentation](https://swift.org/documentation)
-* [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial)
+* [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial) - CoderLessons.com
 
 
 ### TypeScript

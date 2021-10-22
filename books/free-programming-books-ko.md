@@ -32,7 +32,7 @@
 * [Sed](#Sed)
 * [Springboot](#Springboot)
 * [Unicode](#unicode)
-* [Version control](#version control)
+* [Version control](#version-control)
 
 
 ### Amazon Web Service
@@ -221,7 +221,7 @@
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
 
 
-### Version Control
+### Version control
 
 * [유의적 버전 명세 2.0.0-ko2](https://semver.org/lang/ko/) - Tom Preston-Werner, 김대현, et al.
 

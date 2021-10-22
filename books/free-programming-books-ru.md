@@ -453,7 +453,7 @@
 
 #### NumPy
 
-* [NumPy Tutorial](https://coderlessons.com/tutorials/python-technologies/uchitsia-numpy/numpy-tutorial)
+* [NumPy Tutorial](https://coderlessons.com/tutorials/python-technologies/uchitsia-numpy/numpy-tutorial) - CoderLessons.com
 
 
 #### Pycharm

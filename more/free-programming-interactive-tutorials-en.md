@@ -148,6 +148,7 @@
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
+* [Project based learning using Go](https://tutorialedge.net) - TutorialEdge.net
 
 
 ### Haskell

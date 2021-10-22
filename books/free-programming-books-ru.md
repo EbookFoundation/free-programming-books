@@ -446,7 +446,7 @@
 * [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *в процессе написания*)
 
 
-#### Jupyter
+#### Jupyter Notebook
 
 * [Учебник по Jupyter](https://coderlessons.com/tutorials/python-technologies/jupyter/uchebnik-po-jupyter) - CoderLessons.com
 

@@ -5,6 +5,7 @@
   * [רשתות](#רשתות)
 * [Assembly](#assembly)
 * [C#](#c-sharp)
+* [Java](#java)
 * [Python](#python)
 
 

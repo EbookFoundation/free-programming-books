@@ -233,7 +233,7 @@
 
 #### Redux
 
-* [Front End Development Libraries (Redux)](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux) - freeCodeCamp
+* [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux) - freeCodeCamp
 
 
 ### Kotlin

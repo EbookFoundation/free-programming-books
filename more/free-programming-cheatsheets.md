@@ -42,7 +42,7 @@
 
 ### Bash
 
-* [Bash Cheatsheet - CheatSheet.ws](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML) *(:card_file_box: archived)*
+* [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
 
 

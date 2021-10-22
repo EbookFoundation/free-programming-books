@@ -281,7 +281,7 @@
 
 * [Руководство по Spring](http://proselyte.net/tutorials/spring-tutorial-full-version) - Евгений Сулейманов
 * [Spring Framework](https://easyjava.ru/spring/)
-* [Spring MVC Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchis-spring-mvc/spring-mvc-tutorial)
+* [Spring MVC Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchis-spring-mvc/spring-mvc-tutorial) - CoderLessons.com
 
 
 ### JavaScript

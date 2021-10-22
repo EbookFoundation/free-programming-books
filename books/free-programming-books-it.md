@@ -123,7 +123,7 @@
 
 #### Git
 
-* [Pro Git](https://git-scm.com/book/it/v2) - Scott Chacon (HTML) [(PDF)](https://github.com/progit/progit2-it/releases/latest/download/progit.pdf)
+* [Pro Git](https://git-scm.com/book/it) - Scott Chacon (HTML) [(PDF)](https://github.com/progit/progit2-it/releases/latest/download/progit.pdf)
 
 
 #### NoSQL

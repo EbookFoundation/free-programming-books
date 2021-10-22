@@ -480,7 +480,6 @@
 * [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function» (Youtube)
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 * [Intro To JavaScript Unit Testing & BDD](https://www.youtube.com/watch?v=u5cLK1UrFyQ) - Traversy Media
-* [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) - freeCodeCamp
 * [Javascript Array Methods](https://youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2) - Florin Pop (YouTube)
 * [Javascript Coding Challenges](https://youtube.com/playlist?list=PLgBH1CvjOA63ROz8Wqd7RDD0qpvGXF8x5) - Florin Pop (YouTube)
 * [Javascript course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) - Hitesh Choudhary

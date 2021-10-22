@@ -226,7 +226,7 @@
 
 #### React
 
-* [Front End Libraries Certification: React](https://www.freecodecamp.org/learn/front-end-libraries/react) - freeCodeCamp
+* [Front End Development Libraries Certification: React](https://www.freecodecamp.org/learn/front-end-libraries/#react) - freeCodeCamp
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 

@@ -320,6 +320,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [ARM Assembly Language Programming](http://www.rigwit.co.uk/ARMBook/ARMBook.pdf) - Peter Knaggs (PDF) (:construction: *in process*)
 * [Assemblers And Loaders (1993)](http://www.davidsalomon.name/assem.advertis/asl.pdf) - David Salomon (PDF)
+* [Assembly Language Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage) - Christopher Rose, Syncfusion Inc. (HTML, PDF, EPUB, Kindle)
 * [PC Assembly Language](http://pacman128.github.io/pcasm/) - P. A. Carter
 * [Professional Assembly Language](https://web.archive.org/web/20170329045538/http://blog.hit.edu.cn:80/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
 * [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) - Jonathan Bartlett (PDF)
@@ -445,6 +446,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
 * [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
 * [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
+* [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (PDF)
 * [The C book](http://publications.gbdirect.co.uk/c_book/) - Mike Banahan, Declan Brady and Mark Doran (PDF, HTML)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
 * [The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf) - Open Standards Org - www.open-std.org (PDF)
@@ -520,7 +522,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Cilk
 
-* [Cilk 5.4.6 Reference Manual](http://supertech.csail.mit.edu/cilk/manual-5.4.6.pdf) (PDF)
+* [Cilk 5.4.6 Reference Manual](https://par.tuwien.ac.at/material/manual-5.4.6.pdf) (PDF)
 
 
 ### Clojure
@@ -554,6 +556,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
 * [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
+* [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) (PDF)
 * [Introduction to the COBOL Language](https://supportline.microfocus.com/documentation/books/oc41books/lrintr.htm)
 * [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
 
@@ -719,6 +722,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Flutter Tutorial](https://www.tutorialspoint.com/flutter) - Tutorials Point
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)
+* [Flutter UI Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/flutter-ui-succinctly) - Ed Freitas
 
 
 ### Force.com
@@ -769,6 +773,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Git
 
+* [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
@@ -896,6 +901,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
 * [A free guide to learn HTML and CSS](http://marksheet.io)
 * [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/) - Aaron Gustafson
+* [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) - Airbnb
+* [Airbnb CSS-in-JavaScript Style Guide](https://airbnb.io/javascript/css-in-javascript/) - Airbnb
 * [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
 * [Canvassing](https://web.archive.org/web/20160505010319/http://learnjs.io/canvassing/read/)
@@ -1028,6 +1035,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Welcome to Java for Python Programmers](https://runestone.academy/runestone/books/published/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
 * [What’s New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
+* [Writing Advanced Applications for the Java 2 Platform](http://www.pawlan.com/monica/books/AdvBk.pdf) - Calvin Austin and Monica Pawlan (PDF)
 
 
 #### Codename One
@@ -1079,6 +1087,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### JavaScript
 
+* [Airbnb JavaScript Style Guide() {](https://airbnb.io/javascript/) - Airbnb (HTML)
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer (HTML)
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
 * [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book) - Gerd Wagner (HTML,PDF)
@@ -1214,6 +1223,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Express.js
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
+* [The Express.js Handbook](https://flaviocopes.com/page/express-handbook/) - Flavio Copes (HTML, PDF) *(email required for PDF)*
 
 
 #### Fastify
@@ -1271,6 +1281,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### React
 
+* [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - Airbnb
 * [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/full-stack-react-projects) - Shama Hoque (Packt account *required*)
 * [Hacking with React](http://www.hackingwithreact.com)
 * [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
@@ -1914,6 +1925,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
+* [The Python Handbook](https://flaviocopes.com/page/python-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [The Standard Python Library](https://web.archive.org/web/20200626001242/http://effbot.org/librarybook/) - Fredrik Lundh
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 * [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)
@@ -2063,6 +2075,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Ruby Notes for Professionals](https://goalkicker.com/RubyBook/) - Compiled from StackOverflow Documentation (PDF)
 * [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/) - Sundeep Agarwal
 * [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
+* [Ruby Style Guide](https://github.com/airbnb/ruby) - Airbnb
 * [Ruby User's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/index.html)
 * [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
 * [Rubyfu](https://rubyfu.net)
@@ -2404,6 +2417,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 * [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) (HTML) (:construction: *in process*)
+* [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) - Steve Losh
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) - Tim Ottinger  *(Leanpub account or valid email requested)*

@@ -133,6 +133,7 @@
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
+* [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3) - Wei Wang
 
 
 ### GLSL
@@ -167,6 +168,7 @@
 * [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
 * [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
+* [Learn CSS: an evergreen CSS course and reference to level up your styling expertise](https://web.dev/learn/css/) - Andy Bell, Rachel Andrew, Una Kravets, Adam Argyle, Rob Dodson, Jiwoong Lee et al. (web.dev)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 

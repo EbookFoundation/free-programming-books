@@ -98,8 +98,10 @@
 
 ### Flutter
 
-* [Flutter 입문](https://www.youtube.com/playlist?list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv)
-* [Flutter 중급](https://www.youtube.com/playlist?list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe)
+* [Flutter 강좌 순한맛](https://www.youtube.com/playlist?list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl) - 코딩셰프
+* [Flutter 입문](https://www.youtube.com/playlist?list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv) - 오준석의 생존코딩
+* [Flutter 중급](https://www.youtube.com/playlist?list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe) - 오준석의 생존코딩
+
 
 
 ### Git

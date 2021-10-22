@@ -42,8 +42,8 @@
 
 ### Bash
 
+* [Bash Cheatsheet - CheatSheet.ws](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML) *(:card_file_box: archived)*
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
-* [Shell Magic - The Ultimate Bash Cheatsheet!](https://shellmagic.xyz) - smokingcuke (HTML) *(:card_file_box: archived)*
 
 
 ### C

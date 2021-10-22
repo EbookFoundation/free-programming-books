@@ -51,7 +51,7 @@
   * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
-  * [Jupyter](#jupyter)
+  * [Jupyter Notebook](#jupyter-notebook)
   * [NumPy](#numpy)
   * [Pycharm](#pycharm)
 * [R](#r)

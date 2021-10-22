@@ -7,6 +7,7 @@
 * [Python](#python)
 * [Temel programlama](#temel-programlama)
 * [Version Control Systems](#version-control-systems)
+* [Java / React](#java--react)
 
 
 ### Algoritmalar
@@ -50,4 +51,5 @@
 * [Git Giriş Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya | Kodluyoruz
 * [Git İleri Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
 
-
+### Java / React
+* [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/watch?v=HB0T0hAMk0k) - Engin Demiroğ

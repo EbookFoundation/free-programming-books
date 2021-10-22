@@ -320,7 +320,7 @@
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - GeeksforGeeks
 * [Python Tutorial](https://www.tutlane.com/tutorial/python) - tutlane
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
-* [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python) - freeCodeCamp
+* [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
 
 
 ### R

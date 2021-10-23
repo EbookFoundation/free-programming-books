@@ -37,8 +37,8 @@
 
 ### Java
 
-* [JAVA Programlama Kampı ](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - Engin Demiroğ
-* [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/watch?v=HB0T0hAMk0k&list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87) - Engin Demiroğ
+* [JAVA Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - Engin Demiroğ
+* [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/playlist?list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87) - Engin Demiroğ
 
 
 ### Python
@@ -48,7 +48,7 @@
 
 ### React
 
-* [React, Redux ve Hooks](https://www.youtube.com/watch?v=lZI2MpG06wo&list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be) - Engin Demiroğ
+* [Komple React, Redux ve Hooks Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be) - Engin Demiroğ
 
 
 ### Temel programlama

@@ -244,7 +244,7 @@
 
 ### Cloud Computing
 
-* [Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
+* [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
 
 
 ### Compilers

@@ -51,6 +51,9 @@
   * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
+  * [Jupyter Notebook](#jupyter-notebook)
+  * [NumPy](#numpy)
+  * [Pycharm](#pycharm)
 * [R](#r)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
@@ -458,6 +461,21 @@
 
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
 * [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *в процессе написания*)
+
+
+#### Jupyter Notebook
+
+* [Учебник по Jupyter](https://coderlessons.com/tutorials/python-technologies/jupyter/uchebnik-po-jupyter) - CoderLessons.com
+
+
+#### NumPy
+
+* [NumPy Tutorial](https://coderlessons.com/tutorials/python-technologies/uchitsia-numpy/numpy-tutorial) - CoderLessons.com
+
+
+#### Pycharm
+
+* [Pycharm — Введение](https://coderlessons.com/tutorials/python-technologies/uznaite-pycharm/pycharm-vvedenie) - CoderLessons.com
 
 
 ### R

@@ -208,7 +208,7 @@
 * [Belajar NodeJS](https://youtube.com/playlist?list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD) - Web Programming UNPAS
 * [Node.js Dasar](https://buildwithangga.com/kelas/node-javascript-dasar?thumbnail=nk4neM2UyG.36&main_leads=browse) - BuildWithAngga
 * [Pelajaran Node.js Sederhana](https://easy-to-learn5.teachable.com/p/nodejs) - Easy To Learn 5
-* [Membuat RESTFul API Menggunakan Node JS](https://youtu.be/4X0MFuE8ebs) - IDStack
+* [RESTFul API dengan Express.js dan MongoDB](https://youtu.be/4X0MFuE8ebs) - IDStack (YouTube)
 
 
 #### Svelte

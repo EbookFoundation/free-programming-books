@@ -74,6 +74,7 @@
 * [씹어먹는 C](https://modoocode.com/231) - 이재범
 * [씹어먹는 C++](https://modoocode.com/135) - 이재범
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
+* [C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP) - 나도코딩 (YouTube)
 * [C++ 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLJRimEWvctNAfE5JrkwswQv6Yy4abqDl2)
 * [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)

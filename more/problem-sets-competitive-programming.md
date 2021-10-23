@@ -94,6 +94,7 @@
 * [Coding Bat](http://codingbat.com/java)
 * [Coding Ninjas](https://www.codingninjas.com/codestudio/problems)
 * [CSES Problem Set](https://cses.fi/problemset/)
+* [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](https://practice.geeksforgeeks.org)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)

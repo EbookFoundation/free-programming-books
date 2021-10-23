@@ -70,7 +70,6 @@
 * [JAVA FX-wprowadzenie](https://www.youtube.com/playlist?list=PL-ikpm9wGd1HkA9PvGTYWZHtO-Xq_i_Mw)
 * [Java GUI: programowanie Graficznego Interfejsu Użytkownika](https://www.youtube.com/playlist?list=PL3298E3EB8CFDE9BA)
 * [Kurs JavaFX od podstaw](https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU)
-* [Kurs: Podstawy programowania w Javie](https://www.youtube.com/playlist?list=PL-ikpm9wGd1HzpzIatXOGQeElJmqVUbl8)
 * [Kurs programowania Java](https://www.youtube.com/playlist?list=PLED70A92187B1406A)
 * [Kurs programowania w języku Java (od podstaw!)](https://www.youtube.com/playlist?list=PLTs20Q-BTEMMJHb4GWFT34PAWxYyzndIY)
 
@@ -100,10 +99,12 @@
 
 ### Python
 
+* [Kurs online Python dla początkujących](https://www.flynerd.pl/tag/python-kurs) - Małgorzata Łyczywek AKA Rita (HTML)
 * [Kurs Python](https://www.youtube.com/playlist?list=PL3yDCQ6GKeEyBOF0gZyBvihDv6n0GNsdm)
 * [Kurs Python - Darmowy Po Polsku](https://www.youtube.com/playlist?list=PL_dDQ_G9rdI6dQsDkwqSQyAeXY3uUrWzp)
 * [Kurs Python 3](https://www.youtube.com/playlist?list=PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH)
 * [Python 3 - Kurs wideo](https://www.youtube.com/playlist?list=PLbOPmSDkHx2pCboufcEKkinpUuramshmr)
+* [Raspberry Pi kurs od podstaw](https://forbot.pl/blog/kurs-raspberry-pi-od-podstaw-wstep-spis-tresci-id23139) - Piotr Bugalski (FORBOT.pl)
 
 
 ### Swift

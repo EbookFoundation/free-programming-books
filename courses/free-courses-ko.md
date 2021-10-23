@@ -11,6 +11,7 @@
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
+* [Haskell](#haskell)
 * [Introduction](#introduction)
 * [iOS](#ios)
 * [Java](#java)
@@ -18,6 +19,7 @@
   * [AngularJS](#angularjs)
   * [Node.js](#node.js)
   * [React.js](#react.js)
+* [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
@@ -29,6 +31,7 @@
 * [Raspberry Pi](#raspberry-pi)
 * [Reinforced Learning](#reinforced-learning)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Security](#security)
 * [Spring](#spring)
 * [Swift](#swift)
@@ -72,6 +75,7 @@
 * [씹어먹는 C](https://modoocode.com/231) - 이재범
 * [씹어먹는 C++](https://modoocode.com/135) - 이재범
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
+* [C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP) - 나도코딩 (YouTube)
 * [C++ 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLJRimEWvctNAfE5JrkwswQv6Yy4abqDl2)
 * [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
@@ -96,8 +100,9 @@
 
 ### Flutter
 
-* [Flutter 입문](https://www.youtube.com/playlist?list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv)
-* [Flutter 중급](https://www.youtube.com/playlist?list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe)
+* [Flutter 강좌 순한맛](https://www.youtube.com/playlist?list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl) - 코딩셰프
+* [Flutter 입문](https://www.youtube.com/playlist?list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv) - 오준석의 생존코딩
+* [Flutter 중급](https://www.youtube.com/playlist?list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe) - 오준석의 생존코딩
 
 
 ### Git
@@ -107,7 +112,13 @@
 
 ### Go
 
+* [쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners) - Nicolás Serrano Arévalo (Nomad Coders) (email address *required*)
 * [컴맹을 위한 프로그래밍 기초 강좌](https://www.youtube.com/playlist?list=PLy-g2fnSzUTAaDcLW7hpq0e8Jlt7Zfgd6)
+
+
+### Haskell
+
+* [하스켈 프로그래밍: 프로그래밍과 유형 이론(Type Theory)](https://www.youtube.com/playlist?list=PL5aSjzJqCaPaoi8yC2w549FsVgvXW5xFW) - Gyesik Lee «liga nega» (YouTube)
 
 
 ### Introduction
@@ -154,9 +165,15 @@
 * [React.js 이론부터 실전까지](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCED62ZIWCbI-6G_jcwmuFB)
 
 
+### Kotlin
+
+* [안드로이드 코틀린 기초 강좌](https://www.youtube.com/playlist?list=PLva6rQOdsvQU7QJIg2RHM9wcT11X1S0pj) - 센치한 개발자
+
+
 ### Linux
 
 * [리눅스 및 커널 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1266434) (금오공대 최태영)
+* [Linux Kernel Basic](https://jihooyim1.gitbooks.io/linuxbasic/content) - Jihoo Yim (gitbook)
 
 
 ### Machine Learning
@@ -197,6 +214,7 @@
 
 ### Python
 
+* [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 * [MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
 * [Python 입문자용 초급](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD8u2rzxmQ-L97jHTHiiDdy)
 
@@ -215,6 +233,12 @@
 
 * [Python & Ruby](https://www.opentutorials.org/course/1750) (생활코딩)
 * [Ruby coin](https://www.youtube.com/playlist?list=PLEBQPmkNcLCIE9ERi4k_nUkGgJoBizx6s)
+
+
+### Rust
+
+* [Team Jupeter - Rust by Examples](https://www.youtube.com/playlist?list=PLlSZlNj22M7SywLz61Wseh6iVGWRrtH76) - Team Jupeter (유튜브 채널) 
+* [Team Jupeter - The Rust Programming Language](https://www.youtube.com/playlist?list=PLlSZlNj22M7TBqclhEMkXFabaDCmds0mg) - Team Jupeter (유튜브 채널) 
 
 
 ### Security

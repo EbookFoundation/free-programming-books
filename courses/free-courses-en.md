@@ -12,7 +12,7 @@
 * [C#](#c-sharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
-* [Cloud Fundamentals](#cloud-fundamentals)
+* [Cloud Computing](#cloud-computing)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
 * [Dart](#dart)

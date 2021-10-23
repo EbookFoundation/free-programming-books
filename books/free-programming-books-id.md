@@ -80,7 +80,7 @@
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
 * [HTML & CSS: Buat Websitemu Sendiri ](https://leanpub.com/html-css--buat-webistemu-sendiri) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Petani Kode
-* [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Petani Kode
+* [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Petani Kode *(Dalam Proses)*
 
 
 ### Java

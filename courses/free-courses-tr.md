@@ -37,8 +37,8 @@
 
 ### Java
 
-* [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/watch?v=HB0T0hAMk0k&list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87) - Engin Demiroğ
 * [JAVA Programlama Kampı ](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - Engin Demiroğ
+* [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/watch?v=HB0T0hAMk0k&list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87) - Engin Demiroğ
 
 
 ### Python

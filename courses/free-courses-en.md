@@ -242,7 +242,7 @@
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 
 
-### Cloud Fundamentals
+### Cloud Computing
 
 * [Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
 

@@ -30,9 +30,10 @@
 * [Rust](#rust)
 * [Scratch](#scratch)
 * [Sed](#Sed)
+* [Software Engineering](#software-engineering)
+  * [Version control](#version-control)
 * [Springboot](#Springboot)
 * [Unicode](#unicode)
-* [Version control](#version-control)
 
 
 ### Amazon Web Service
@@ -211,6 +212,14 @@
 * [sed stream editor](https://mug896.github.io/sed-stream-editor)
 
 
+### Software Engineering
+
+
+#### Version control
+
+* [유의적 버전 명세 2.0.0-ko2](https://semver.org/lang/ko/) - Tom Preston-Werner, 김대현, et al.
+
+
 ### Springboot
 
 * [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
@@ -220,8 +229,4 @@
 
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
 
-
-### Version control
-
-* [유의적 버전 명세 2.0.0-ko2](https://semver.org/lang/ko/) - Tom Preston-Werner, 김대현, et al.
 

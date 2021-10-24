@@ -166,4 +166,4 @@
 ### Rust
 
 * [Rust'a Giriş](http://bit.ly/rustagiris) - Mahmut Bulut
-
+* [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan

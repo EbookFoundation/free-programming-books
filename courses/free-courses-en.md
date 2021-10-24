@@ -12,6 +12,7 @@
 * [C#](#c-sharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
+* [Cloud Computing](#cloud-computing)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
 * [Dart](#dart)
@@ -239,6 +240,11 @@
 ### Clojure
 
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
+
+
+### Cloud Computing
+
+* [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
 
 
 ### Compilers

@@ -114,6 +114,7 @@
 * [Kurs Swift - Lekcja 2: Jak zbudowane są aplikacje](https://myapple.pl/posts/8601-kurs-swift-lekcja-2-jak-zbudowane-sa-aplikacje) - Michał Lipiński
 
 ### SQL
+
 * [Kurs SQL #01: Wprowadzenie i środowisko](https://dbadmin.net.pl/kurs-sql-wprowadzenie-srodowisko/) - Łukasz Bartnicki
 * [Kurs SQL #02: Pobieranie danych – instrukcja SELECT](https://dbadmin.net.pl/kurs-sql-pobieranie-danych-select/) - Łukasz Bartnicki
 * [Kurs SQL #03: Operatory SQL w klauzuli WHERE](https://dbadmin.net.pl/kurs-sql-operatory-where/) - Łukasz Bartnicki

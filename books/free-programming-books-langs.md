@@ -1102,6 +1102,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, & Robby Walker (HTML)
 * [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html) - Henrik Joreteg (HTML)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite (HTML)
+* [JavaScript and JQuery_ Interactive Front-End Web Development](https://indianpdf.files.wordpress.com/2021/07/javascript-and-jquery_-interactive-front-end-web-development_.pdf) - Jon Duckett (PDF)
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) - Danny Goodman (PDF)
 * [JavaScript Challenges Book](https://tcorral.github.io/javascript-challenges-book/) - Tomás Corral Casas (HTML)
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com) - Cody Lindley (HTML)

@@ -112,3 +112,13 @@
 * [Kurs Swift - Lekcja 0: Zakładamy konto deweloperskie i pobieramy Xcode](https://myapple.pl/posts/8599-kurs-swift-lekcja-0-zakladamy-konto-deweloperskie-i-pobieramy-xcode) - Michał Lipiński
 * [Kurs Swift - Lekcja 1: Podstawy języka](https://myapple.pl/posts/8600-kurs-swift-lekcja-1-podstawy-jezyka) - Michał Lipiński
 * [Kurs Swift - Lekcja 2: Jak zbudowane są aplikacje](https://myapple.pl/posts/8601-kurs-swift-lekcja-2-jak-zbudowane-sa-aplikacje) - Michał Lipiński
+
+### SQL
+* [Kurs SQL #01: Wprowadzenie i środowisko](https://dbadmin.net.pl/kurs-sql-wprowadzenie-srodowisko/) - Łukasz Bartnicki
+* [Kurs SQL #02: Pobieranie danych – instrukcja SELECT](https://dbadmin.net.pl/kurs-sql-pobieranie-danych-select/) - Łukasz Bartnicki
+* [Kurs SQL #03: Operatory SQL w klauzuli WHERE](https://dbadmin.net.pl/kurs-sql-operatory-where/) - Łukasz Bartnicki
+* [Kurs SQL #04: Sortowanie wierszy – klauzula ORDER BY](https://dbadmin.net.pl/kurs-sql-sortowanie-wierszy-order-by/) - Łukasz Bartnicki
+* [Kurs SQL #05: Wartość NULL i Three-Valued Logic](https://dbadmin.net.pl/kurs-sql-wartosc-null/) - Łukasz Bartnicki
+* [Kurs SQL #06: Łączenie tabel](https://dbadmin.net.pl/kurs-sql-laczenie-tabel/) - Łukasz Bartnicki
+* [Kurs SQL #07: Łączenie wielu tabel i typy złączeń](https://dbadmin.net.pl/kurs-sql-07-laczenie-wielu-tabel-typy-zlaczen/) - Łukasz Bartnicki
+* [Kurs SQL #08: Łączenia w składni SQL/92](https://dbadmin.net.pl/kurs-sql-08-laczenia-w-skladni-sql-92/) - Łukasz Bartnicki

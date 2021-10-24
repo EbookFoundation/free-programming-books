@@ -152,7 +152,7 @@
 ### R
 
 * [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://www.github.com/emraher/eybkbrk) - Emrah Er
-
+* [R ile Programlamaya Giriş ve Uygulamalar](http://inet-tr.org.tr/inetconf19/sunum/16.pdf)
 
 ### Ruby
 

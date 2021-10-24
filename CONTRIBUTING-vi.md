@@ -34,7 +34,7 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
 
 ### Những Nguyên Tắc
 - đảm bảo rằng một cuốn sách là miễn phí. Kiểm tra kỹ nếu cần. Nó sẽ giúp cho các quản trị viên nếu bạn nhận xét trong phần PR về lý do tại sao bạn cho rằng cuốn sách là miễn phí.
-- chúng tôi không chấp nhận các tệp được lưu trữ trên google drive, dropbox, mega, scribd, issu và các nền tảng tải lên tệp tương tự khác.
+- chúng tôi không chấp nhận các tệp được lưu trữ trên Google Drive, Dropbox, Mega, Scribd, Issuu và các nền tảng tải lên tệp tương tự khác.
 - chèn các liên kết của bạn theo thứ tự bảng chữ cái. Nếu bạn thấy một liên kết bị đặt sai vị trí, vui lòng sắp xếp lại nó và gửi một PR.
 - sử dụng liên kết với nguồn có thẩm quyền nhất (có nghĩa là trang web của tác giả tốt hơn trang web của người biên tập, tốt hơn trang web của bên thứ ba)
     + không có dịch vụ lưu trữ tệp (điều này bao gồm (nhưng không giới hạn) liên kết Dropbox và Google Drive)

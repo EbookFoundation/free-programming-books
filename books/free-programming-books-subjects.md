@@ -154,6 +154,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework) (PDF, HTML)
 * [Azure for Architects, Third Edition](https://azure.microsoft.com/en-us/resources/azure-for-architects/) (PDF) *(email address or account required)*
 * [Azure Functions Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly) (PDF, Kindle) (email address requested, not required)
+* [Building Serverless Applications with Google Cloud Run](https://www.cockroachlabs.com/guides/oreilly-building-serverless-applications-with-google-cloud-run/) - Wietse Venema (PDF) (email address requested, not required)
 * [Cloud Computing for Science and Engineering](https://cloud4scieng.org/chapters/) - Ian Foster, Dennis B. Gannon (:construction: *in process*)
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
@@ -213,6 +214,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
+* [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
 
 
@@ -336,7 +338,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Mathematics for Machine Learning](https://mml-book.github.io) - Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
-* [Python Machine Learning Projects](https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook) - Lisa Tagliaferri and Brian Boucheron (PDF, EPUB, MOBI)
+* [Python Machine Learning Projects](https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook) - Lisa Tagliaferri, Brian Boucheron, Michelle Morales, Ellie Birkbeck, Alvin Wan (PDF, EPUB, Kindle)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF)
 * [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
@@ -592,6 +594,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) (:construction: *in process*)
 * [How to write a simple operating system in assembly language](http://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/) - Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie et al. (HTML, [PDF, downloads...](https://www.linuxfromscratch.org/lfs/downloads/stable/))
+* [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) - Dominic Giampaolo (PDF)

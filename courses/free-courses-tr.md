@@ -3,8 +3,10 @@
 * [Algoritmalar](#algoritmalar)
 * [HTML / CSS](#html--css)
 * [IDE / Editors](#ide--editors)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
+* [React](#react)
 * [Temel programlama](#temel-programlama)
 * [Version Control Systems](#version-control-systems)
 
@@ -33,9 +35,20 @@
 * [JavaScript Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PqKkqSPwph57HNN4RWgR2) - Hakan Yalçınkaya | Kodluyoruz
 
 
+### Java
+
+* [JAVA Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - Engin Demiroğ
+* [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/playlist?list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87) - Engin Demiroğ
+
+
 ### Python
 
 * [Sıfırdan İleri Seviye Profesyonel Python Yazılım Geliştiricisi Olma Kursu (2021)](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) - Mert Mekatronik
+
+
+### React
+
+* [Komple React, Redux ve Hooks Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be) - Engin Demiroğ
 
 
 ### Temel programlama

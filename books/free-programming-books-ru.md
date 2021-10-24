@@ -51,6 +51,9 @@
   * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
+  * [Jupyter Notebook](#jupyter-notebook)
+  * [NumPy](#numpy)
+  * [Pycharm](#pycharm)
 * [R](#r)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
@@ -274,12 +277,14 @@
 
 * [Руководство по Maven](http://proselyte.net/tutorials/maven) - Евгений Сулейманов
 * [Apache Maven](https://easyjava.ru/ekosistema/sredstva-sborki/apache-maven/)
+* [Maven Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchitsia-maven/maven-nastroika-sredy) - CoderLessons.com
 
 
 #### Spring
 
 * [Руководство по Spring](http://proselyte.net/tutorials/spring-tutorial-full-version) - Евгений Сулейманов
 * [Spring Framework](https://easyjava.ru/spring/)
+* [Spring MVC Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchis-spring-mvc/spring-mvc-tutorial) - CoderLessons.com
 
 
 ### JavaScript
@@ -291,6 +296,7 @@
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
 * [Руководство по JavaScript](https://metanit.com/web/javascript) - Евгений Попов
 * [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
+* [Учебник по Javascript](https://coderlessons.com/tutorials/veb-razrabotka/uchit-javascript/uchebnik-po-javascript) - CoderLessons.com
 * [JavaScript и jQuery](https://html5book.ru/javascript-jquery) - Елена Назарова
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
 
@@ -301,6 +307,7 @@
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)
+* [AngularJS Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-angularjs/angularjs-tutorial) - CoderLessons.com
 
 
 #### jQuery
@@ -308,11 +315,13 @@
 * [Онлайн-книга "Изучаем jQuery"](https://metanit.com/web/jquery) - Евгений Попов
 * [Русская документация по API jQuery](https://jquery-docs.ru)
 * [jQuery для начинающих](http://anton.shevchuk.name/jquery-book) - Антон Шевчук
+* [JQuery Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/jquery/jquery-tutorial) - CoderLessons.com
 
 
 #### Node.js
 
 * [Руководство по Node.js](https://metanit.com/web/nodejs) - Евгений Попов
+* [Учебник Node.js](https://coderlessons.com/tutorials/veb-razrabotka/uchebnik-node-js/uchebnik-node-js) - CoderLessons.com
 * [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
 
 
@@ -328,18 +337,21 @@
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
 * [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/)
+* [Учебник ReactJS](https://coderlessons.com/tutorials/veb-razrabotka/uznaite-reactjs/uchebnik-reactjs) - CoderLessons.com
 
 
 #### Vue.js
 
 * [Перевод документации](https://ru.vuejs.org)
 * [Руководство по Vue.js](https://metanit.com/web/vuejs) - Евгений Попов
+* [VueJS Учебник](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-vuejs/vuejs-uchebnik) - CoderLessons.com
 
 
 ### Kotlin
 
 * [Руководство по языку Kotlin](http://kotlinlang.ru)
 * [Руководство по языку Kotlin](https://metanit.com/java/kotlin) - Евгений Попов
+* [Учебник по Котлину](https://coderlessons.com/tutorials/mobilnaia-razrabotka/uchebnik-kotlin/1-uchebnik-po-kotlinu) - CoderLessons.com
 
 
 ### LaTeX
@@ -451,6 +463,21 @@
 * [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *в процессе написания*)
 
 
+#### Jupyter Notebook
+
+* [Учебник по Jupyter](https://coderlessons.com/tutorials/python-technologies/jupyter/uchebnik-po-jupyter) - CoderLessons.com
+
+
+#### NumPy
+
+* [NumPy Tutorial](https://coderlessons.com/tutorials/python-technologies/uchitsia-numpy/numpy-tutorial) - CoderLessons.com
+
+
+#### Pycharm
+
+* [Pycharm — Введение](https://coderlessons.com/tutorials/python-technologies/uznaite-pycharm/pycharm-vvedenie) - CoderLessons.com
+
+
 ### R
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
@@ -482,6 +509,7 @@
 * [Растономикон](https://github.com/ruRust/rustonomicon)
 * [Язык программирования Rust](http://rurust.github.io/rust_book_ru)
 * [Rust на примерах](https://rurust.github.io/rust-by-example-ru)
+* [Rust Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchitsia-programmirovaniiu-na-rust/rust-tutorial) - CoderLessons.com
 
 
 ### Scala
@@ -537,6 +565,7 @@
 
 * [Документация и туториалы](https://swiftbook.ru)
 * [Documentation](https://swift.org/documentation)
+* [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial) - CoderLessons.com
 
 
 ### TypeScript

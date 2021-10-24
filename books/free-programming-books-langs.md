@@ -625,6 +625,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### DBMS
 
 * [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
+* [Database Systems - The Complete Book](https://people.inf.elte.hu/miiqaai/elektroModulatorDva.pdf) (PDF)
 
 
 ### Delphi / Pascal

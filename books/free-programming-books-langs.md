@@ -1037,7 +1037,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
 * [What’s New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
 * [Writing Advanced Applications for the Java 2 Platform](http://www.pawlan.com/monica/books/AdvBk.pdf) - Calvin Austin and Monica Pawlan (PDF)
-
+* [Head First Java -2nd Edition](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf) - Kathy Sierra & Bert Bates (PDF)
 
 #### Codename One
 

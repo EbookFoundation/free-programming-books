@@ -12,6 +12,7 @@
 * [C#](#c-sharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
+* [Cloud Computing](#cloud-computing)
 * [Compilers](#compilers)
 * [CUDA](#cuda)
 * [Dart](#dart)
@@ -239,6 +240,11 @@
 ### Clojure
 
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
+
+
+### Cloud Computing
+
+* [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
 
 
 ### Compilers
@@ -593,6 +599,7 @@
 * [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone)
 * [Vue.js Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
+* [Vue.js Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) - The Net Ninja (Youtube)
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
 
 

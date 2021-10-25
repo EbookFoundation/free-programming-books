@@ -30,6 +30,7 @@
 * [Rust](#rust)
 * [Scratch](#scratch)
 * [Sed](#Sed)
+* [Software Engineering](#software-engineering)
 * [Springboot](#Springboot)
 * [Unicode](#unicode)
 
@@ -208,6 +209,11 @@
 ### Sed
 
 * [sed stream editor](https://mug896.github.io/sed-stream-editor)
+
+
+### Software Engineering
+
+* [유의적 버전 명세 2.0.0-ko2](https://semver.org/lang/ko/) - Tom Preston-Werner, 김대현, et al.
 
 
 ### Springboot

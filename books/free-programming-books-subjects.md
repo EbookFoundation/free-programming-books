@@ -200,7 +200,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/src) - Dr. Chris Bourke (PDF) (:construction: *in process*)
 * [Computer Science II - Draft](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Dr. Chris Bourke (PDF) (:construction: *in process*)
 * [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial and Barbara Ericson (HTML)
-* [Introduction to the Theory of Computation](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf) - Michael Sipser, MIT (PDF)
 
 
 ### Computer Vision
@@ -753,6 +752,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Introduction to Computer Science](http://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
 * [Introduction to Computing](http://www.computingbook.org)
 * [Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari and Michiel Smid (PDF)
+* [Introduction to the Theory of Computation](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf) - Michael Sipser, MIT (PDF)
 * [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
 * [Practical Foundations for Programming Languages, Preview](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf) - Robert Harper (PDF)
 * [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith

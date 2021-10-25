@@ -595,7 +595,7 @@
 * [Vue.js Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
-* [Full Stack Vue.js, Express & MongoDB](https://www.youtube.com/playlist?list=PLillGF-RfqbYSx-Ab1xWVanGKtowTsnNm) - Traversy Media (Youtube)
+* [Full Stack Vue.js, Express & MongoDB](https://www.youtube.com/playlist?list=PLillGF-RfqbYSx-Ab1xWVanGKtowTsnNm) - Brad Traversy, Traversy Media (Youtube)
 
 
 ### Kotlin

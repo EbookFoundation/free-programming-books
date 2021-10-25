@@ -112,8 +112,3 @@
 * [Kurs Swift - Lekcja 0: Zakładamy konto deweloperskie i pobieramy Xcode](https://myapple.pl/posts/8599-kurs-swift-lekcja-0-zakladamy-konto-deweloperskie-i-pobieramy-xcode) - Michał Lipiński
 * [Kurs Swift - Lekcja 1: Podstawy języka](https://myapple.pl/posts/8600-kurs-swift-lekcja-1-podstawy-jezyka) - Michał Lipiński
 * [Kurs Swift - Lekcja 2: Jak zbudowane są aplikacje](https://myapple.pl/posts/8601-kurs-swift-lekcja-2-jak-zbudowane-sa-aplikacje) - Michał Lipiński
-
-
-### SQL
-
-* [Kurs SQL](https://dbadmin.net.pl/category/sql/) - Łukasz Bartnicki, DBAdmin (HTML) (:construction: *in process*)

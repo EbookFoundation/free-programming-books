@@ -146,7 +146,6 @@
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
-* [Learn-Golang.org](https://www.learn-golang.org) - Ron Reiter *(:construction: in process)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
 
@@ -171,7 +170,6 @@
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn CSS: an evergreen CSS course and reference to level up your styling expertise](https://web.dev/learn/css/) - Andy Bell, Rachel Andrew, Una Kravets, Adam Argyle, Rob Dodson, Jiwoong Lee et al. (web.dev)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
-* [Learn-HTML.org](https://www.learn-html.org) - Ron Reiter
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
 
@@ -251,6 +249,7 @@
 #### Operating systems
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Dr. Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 
 ### LaTeX
@@ -362,7 +361,6 @@
 ### SQL
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
-* [LearnSqlonline.org](https://www.learnsqlonline.org) - Ron Reiter
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
 * [SQL Teaching](https://www.sqlteaching.com)

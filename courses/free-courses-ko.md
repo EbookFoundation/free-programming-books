@@ -237,9 +237,6 @@
 
 ### Rust
 
-* [Team Jupeter - Rust by Examples](https://www.youtube.com/playlist?list=PLlSZlNj22M7SywLz61Wseh6iVGWRrtH76) - Team Jupeter (유튜브 채널) 
-* [Team Jupeter - The Rust Programming Language](https://www.youtube.com/playlist?list=PLlSZlNj22M7TBqclhEMkXFabaDCmds0mg) - Team Jupeter (유튜브 채널) 
-
 
 ### Security
 

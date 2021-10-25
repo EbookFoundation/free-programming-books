@@ -101,6 +101,7 @@
 
 * [Java Bangla Tutorials | CORE Java | Complete OOP](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa) - Anisul Islam
 * [Java Swing Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l) - Anisul Islam
+* [জাভা প্রোগ্রামিং](http://java.howtocode.dev) - Bazlur Rahman, et al. (howtocode.dev) (gitbook)
 
 
 ### JavaScript

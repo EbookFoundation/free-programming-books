@@ -188,7 +188,7 @@
 
 ### SQL
 
-* [Kurs SQL](https://dbadmin.net.pl/category/sql/) - Łukasz Bartnicki, DBAdmin (HTML) (:construction: *in process*)
+* [Kurs SQL](https://dbadmin.net.pl/category/sql/) - Łukasz Bartnicki, (HTML) (:construction: *in process*)
 * [Kurs SQL](https://www.sqlpedia.pl/kurs-sql) - Jakub Kasprzak
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

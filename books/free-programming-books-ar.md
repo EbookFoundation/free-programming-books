@@ -36,7 +36,7 @@
 
 ### AVR
 
-* [AVR ببساطة](https://librebooks.org/simply-avr/)
+* [AVR ببساطة](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبد الله علي عبد الله 
 
 
 ### C Sharp

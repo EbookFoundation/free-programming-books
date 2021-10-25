@@ -488,6 +488,7 @@
 * [Javascript Mini Course 2020](https://www.udemy.com/course/javascript-essentials-mini-course/) - Kalob Taulien (Udemy)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - The Net Ninja
 * [JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Programming with Mosh (youtube)
+* [JavaScript Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax) - Programming with Mosh (YouTube)
 * [Javascript30](https://javascript30.com) - Wesbos
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [Learn JavaScript](https://youtube.com/playlist?list=PLgBH1CvjOA636I8hnHSyuOnX341XQrBth) -  Florin Pop (YouTube)
@@ -766,7 +767,6 @@
 * [Learn Python](https://pythonspot.com)
 * [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org)
 * [Learn Python From Scratch](https://www.udemy.com/learn-python-from-scratch-w/) - MD. Hasanur Rahaman Hasib (Udemy)
-* [Python Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - Programming with Mosh (YouTube)
 * [Learn Python Tutorial](https://www.kaggle.com/learn/python) (Kaggle)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
 * [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) (Coursera)
@@ -790,6 +790,7 @@
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) - Tech With Tim
 * [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc) (Programming with Mosh)
+* [Python Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - Programming with Mosh (YouTube)
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
@@ -800,7 +801,7 @@
 
 * [Django for Everybody](https://www.dj4e.com) - Charles R. Severence
 * [Django Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau) - Navin Reddy
-* [Django Tutorial for beginners (2021)](https://www.youtube.com/watch?v=rHux0gMZ3Eg) - Programming with Mosh (youtube)
+* [Django Tutorial for Beginners (2021)](https://www.youtube.com/watch?v=rHux0gMZ3Eg) - Programming with Mosh (YouTube)
 * [Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
 * [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr) - Programming With Harry(English)
 * [Python Django Tutorial 2018 for Beginners](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD) - Clever Programmer

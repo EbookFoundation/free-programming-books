@@ -31,7 +31,6 @@
 * [Raspberry Pi](#raspberry-pi)
 * [Reinforced Learning](#reinforced-learning)
 * [Ruby](#ruby)
-* [Rust](#rust)
 * [Security](#security)
 * [Spring](#spring)
 * [Swift](#swift)
@@ -233,9 +232,6 @@
 
 * [Python & Ruby](https://www.opentutorials.org/course/1750) (생활코딩)
 * [Ruby coin](https://www.youtube.com/playlist?list=PLEBQPmkNcLCIE9ERi4k_nUkGgJoBizx6s)
-
-
-### Rust
 
 
 ### Security

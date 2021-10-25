@@ -290,8 +290,8 @@
 * [MageTalk - A Magento Podcast](http://magetalk.com) (podcast)
 * [PHP Podcasts](https://www.phppodcasts.com) (podcast)
 * [PHP Roundtable](https://www.phproundtable.com) (podcast)
-* [PHPStorm Tips & Tricks by Christoph Rumpel](https://www.youtube.com/watch?v=KtfwIGC7UO0&list=PLk9WlAgeZoTfHdJUv75-5grVQf4ijIrzw) (screencast)
 * [PHP Town Hall](http://phptownhall.com) (podcast)
+* [PHPStorm Tips & Tricks by Christoph Rumpel](https://www.youtube.com/watch?v=KtfwIGC7UO0&list=PLk9WlAgeZoTfHdJUv75-5grVQf4ijIrzw) (screencast)
 * [Sound of Symfony](http://www.soundofsymfony.com) (podcast)
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com) (podcast)
 

@@ -598,6 +598,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) - Dominic Giampaolo (PDF)
+* [Project Expos: eXperimental Operating System](https://exposnitc.github.io) (HTML)
 * [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](http://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth & Jürg Gutknecht (PDF)
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) - Eric S. Raymond
 * [The Design and Implementation of the Anykernel and Rump Kernels](http://www.fixup.fi/misc/rumpkernel-book/) - Antti Kantee

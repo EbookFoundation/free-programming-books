@@ -116,11 +116,4 @@
 
 ### SQL
 
-* [Kurs SQL #01: Wprowadzenie i środowisko](https://dbadmin.net.pl/kurs-sql-wprowadzenie-srodowisko/) - Łukasz Bartnicki
-* [Kurs SQL #02: Pobieranie danych – instrukcja SELECT](https://dbadmin.net.pl/kurs-sql-pobieranie-danych-select/) - Łukasz Bartnicki
-* [Kurs SQL #03: Operatory SQL w klauzuli WHERE](https://dbadmin.net.pl/kurs-sql-operatory-where/) - Łukasz Bartnicki
-* [Kurs SQL #04: Sortowanie wierszy – klauzula ORDER BY](https://dbadmin.net.pl/kurs-sql-sortowanie-wierszy-order-by/) - Łukasz Bartnicki
-* [Kurs SQL #05: Wartość NULL i Three-Valued Logic](https://dbadmin.net.pl/kurs-sql-wartosc-null/) - Łukasz Bartnicki
-* [Kurs SQL #06: Łączenie tabel](https://dbadmin.net.pl/kurs-sql-laczenie-tabel/) - Łukasz Bartnicki
-* [Kurs SQL #07: Łączenie wielu tabel i typy złączeń](https://dbadmin.net.pl/kurs-sql-07-laczenie-wielu-tabel-typy-zlaczen/) - Łukasz Bartnicki
-* [Kurs SQL #08: Łączenia w składni SQL/92](https://dbadmin.net.pl/kurs-sql-08-laczenia-w-skladni-sql-92/) - Łukasz Bartnicki
+* [Kurs SQL](https://dbadmin.net.pl/category/sql/) - Łukasz Bartnicki, DBAdmin (HTML) (:construction: *in process*)

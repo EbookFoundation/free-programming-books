@@ -27,3 +27,7 @@ Chaiyarin Niamsuwan
 
 * [Python ๑๐๑](https://www.cp.eng.chula.ac.th/books/python101/) - กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล , สุกรี สินธุภิญโญ
 
+
+### Apache Spark
+
+* [Spark Internal](https://www.slideshare.net/dekcomgang/spark-internal) - Bhuridech Sudsee

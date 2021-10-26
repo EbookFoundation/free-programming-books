@@ -153,7 +153,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 - We want to credit the creators of free resources where appropriate, including translators!
 - For translated works the original author should be credited.
 - We do not permit links for Creators.
-- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" books are credited as "Compiled from StackOverflow documentation"
+- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "Compiled from StackOverflow documentation"
 
 ##### Platforms and Access Notes
 

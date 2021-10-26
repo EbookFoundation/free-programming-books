@@ -148,7 +148,11 @@
 * [HaskellRank](https://www.youtube.com/playlist?list=PLguYJK7ydFE4aS8fq4D6DqjF6qsysxTnx) - Tsoding (screencast)
 * [The Haskell Cast](http://www.haskellcast.com) (podcast)
 
+
 ### <a name="ide--editors"></a>IDE / Editors
+
+* [PHPStorm Tips & Tricks](https://www.youtube.com/playlist?list=PLk9WlAgeZoTfHdJUv75-5grVQf4ijIrzw) - Christoph Rumpel (screencast)
+
 
 ### Java
 
@@ -293,7 +297,6 @@
 * [PHP Podcasts](https://www.phppodcasts.com) (podcast)
 * [PHP Roundtable](https://www.phproundtable.com) (podcast)
 * [PHP Town Hall](http://phptownhall.com) (podcast)
-* [PHPStorm Tips & Tricks](https://www.youtube.com/playlist?list=PLk9WlAgeZoTfHdJUv75-5grVQf4ijIrzw) - Christoph Rumpel (screencast)
 * [Sound of Symfony](http://www.soundofsymfony.com) (podcast)
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com) (podcast)
 

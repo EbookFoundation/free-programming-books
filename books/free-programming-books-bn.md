@@ -117,7 +117,7 @@
 * [হাতেকলমে জাভাস্ক্রিপ্ট](https://zonayed.js.org) - Zonayed Ahmed
 * [JS Bangla Tutorial Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) - Learn with Sumit
 * [Modern JavaScript ES6 Bangla Tutorial](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG) - Learn with Sumit
-* [Play with DOM - Bangla](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_)
+* [Play with DOM - Bangla](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_) - Learn with Sumit
 
 
 ### jQuery

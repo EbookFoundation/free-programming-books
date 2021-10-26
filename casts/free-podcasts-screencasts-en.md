@@ -14,6 +14,7 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
+* [IDE / Editors](#ide--editors)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular](#angular)
@@ -147,6 +148,7 @@
 * [HaskellRank](https://www.youtube.com/playlist?list=PLguYJK7ydFE4aS8fq4D6DqjF6qsysxTnx) - Tsoding (screencast)
 * [The Haskell Cast](http://www.haskellcast.com) (podcast)
 
+### <a name="ide--editors"></a>IDE / Editors
 
 ### Java
 

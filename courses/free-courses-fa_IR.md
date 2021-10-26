@@ -5,7 +5,7 @@
 * [Git](#git)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Reactjs](#reactjs)
+  * [React](#react)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -53,9 +53,9 @@
 * [دوره اموزشی جاوا اسکریپت از صفر](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF) - Silicium
 
 
-  ### Reactjs
+#### React
 
-  * [دوره اموزش کامل ری اکت جی اس](https://www.youtube.com/playlist?list=PL3Y-E4YSE4wZpWH8CXwPBI1F13KhkIDEx) - Amir Azimi
+* [ری اکت جی اس ۲۰۲۰](https://www.youtube.com/playlist?list=PL3Y-E4YSE4wZpWH8CXwPBI1F13KhkIDEx) - Amir Azimi
 
 
 ### Kotlin

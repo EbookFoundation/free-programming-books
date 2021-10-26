@@ -149,7 +149,7 @@
 * [The Haskell Cast](http://www.haskellcast.com) (podcast)
 
 
-### <a name="ide--editors"></a>IDE / Editors
+### IDE / Editors
 
 * [PHPStorm Tips & Tricks](https://www.youtube.com/playlist?list=PLk9WlAgeZoTfHdJUv75-5grVQf4ijIrzw) - Christoph Rumpel (screencast)
 

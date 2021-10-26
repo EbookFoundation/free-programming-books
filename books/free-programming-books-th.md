@@ -30,4 +30,4 @@ Chaiyarin Niamsuwan
 
 ### Apache Spark
 
-* [Spark Internal](https://www.slideshare.net/dekcomgang/spark-internal) - Bhuridech Sudsee
+* [Spark Internal](https://github.com/Aorjoa/SparkInternals) - Bhuridech Sudsee

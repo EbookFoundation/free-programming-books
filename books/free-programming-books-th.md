@@ -30,4 +30,4 @@ Chaiyarin Niamsuwan
 
 ### Apache Spark
 
-* [Spark Internal](https://github.com/Aorjoa/SparkInternals) - Bhuridech Sudsee
+* [Spark Internals](https://github.com/JerryLead/SparkInternals) - Lijie Xu, Bhuridech Sudsee

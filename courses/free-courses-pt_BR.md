@@ -30,6 +30,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
+* [React](#react-native)
 * [React Native](#react-native)
 * [Ruby](#ruby)
 * [Sass](#sass)
@@ -272,6 +273,11 @@
 ### Raspberry Pi
 
 * [Curso de Raspberry Pi: primeiros passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy) - Gustavo Guanabara (YouTube)
+
+### React
+
+* [Bootcamp da Brainn de React](https://www.youtube.com/playlist?list=PLF7Mi9HNzvVmzOyDyl--xQVdi60jxduU1) - Canal Brainn Co. (YouTube)
+
 
 
 ### React Native

@@ -25,7 +25,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 <a name="guidelines"></a>
 ### Linee guida
 - assicurati che il libro sia gratuito. Controlla più volte se necessario. Commentare nella PR il perché pensi che il libro sia gratuito aiuta gli admin.
-- non accettiamo file hostati su google drive, dropbox, mega, scribd, issuu e altre piattaforme simili per l'upload dei file
+- non accettiamo file hostati su Google Drive, Dropbox, Mega, Scribd, Issuu e altre piattaforme simili per l'upload dei file
 - inserisci i link ordinandoli alfabeticamente. Se sbagli la posizione di un link, riordinalo e invia la PR
 - usa il link più "autorevole" per segnalare la risorsa (significa che il sito web dell'autore è migliore del sito web dell'editore, che è migliore di un sito web di terze parti)
     + nessun servizio di file hosting (questo include (ma non è limitato a) link di Dropbox e Google Drive)

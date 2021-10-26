@@ -170,7 +170,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Django](#django)
   * [Flask](#flask)
   * [Kivy](#kivy)
-  * [NumPy](#numpy)
   * [Pandas](#pandas)
   * [Pyramid](#pyramid)
   * [Tornado](#tornado)
@@ -1883,6 +1882,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - Wikibooks (3.3)
   * [Non-Programmer's Tutorial for Python 2.6](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) - Wikibooks (2.6)
+* [Official NumPy Reference](https://numpy.org/doc/stable/numpy-ref.pdf) - The NumPy Community (PDF)
 * [Picking a Python Version: A Manifesto](https://www.oreilly.com/ideas/picking-a-python-version) - David Mertz
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
@@ -1966,11 +1966,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Kivy
 
 * [Kivy Programming Guide](https://kivy.org/docs/guide-index.html)
-
-
-#### NumPy
-
-* [Official NumPy Reference](https://numpy.org/doc/stable/numpy-ref.pdf) - The NumPy Community (PDF)
 
 
 #### Pandas

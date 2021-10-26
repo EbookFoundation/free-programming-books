@@ -145,6 +145,7 @@
 ### PHP
 
 * [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
+* [PHP Laravel Framework](https://w3programmers.com/bangla/category/php-laravel-framework) - Masud Alam
 
 
 ### Python

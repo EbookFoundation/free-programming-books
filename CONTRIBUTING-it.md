@@ -155,7 +155,7 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 - Vogliamo dare i crediti agli autori ove appropriato, anche ai traduttori!
 - Per i lavori tradotti, l'autore originale dovrebbe essere incluso.
 - Non permettiamo collegamenti per gli autori.
-- Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" sono accreditati come "Compiled from StackOverflow documentation"
+- Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" o "RIP Tutorial" sono accreditati come "Compiled from StackOverflow documentation"
 
 ##### Piattaforme e note di accesso
 

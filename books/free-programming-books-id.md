@@ -33,6 +33,7 @@
 
 ### C Sharp
 
+* [Android Developers Fundamental Course Concepts and Practicals (Bahasa Indonesia)](https://yukcoding.id/download-ebook-android-gratis/)
 * [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/)
 
 

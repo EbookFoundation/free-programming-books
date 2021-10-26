@@ -165,7 +165,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 - Queremos dar crédito a los creadores de recursos gratuitos cuando sea apropiado, ¡incluso traductores!
 - En el caso de obras traducidas, se debe acreditar también al autor original.
 - No permitimos enlaces directos al creador.
-- En el caso de recopilaciones u obras remezcladas, el "creador" puede necesitar una descripción. Por ejemplo, los libros de "GoalKicker" se acreditan como "Creado a partir de la documentación de StackOverflow".
+- En el caso de recopilaciones u obras remezcladas, el "creador" puede necesitar una descripción. Por ejemplo, los libros de "GoalKicker" o "RIP Tutorial" se acreditan como "`Creado a partir de la documentación de StackOverflow`" (en inglés: "`Compiled from StackOverflow documentation`").
 
 <a name="platforms-and-access-notes"></a>
 ##### Plataformas y Notas de Acceso

@@ -56,6 +56,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repo
 - Si se trata de un libro más antiguo, incluya su fecha de publicación dentro del título.
 - Incluya el nombre o nombres de autor/es cuando corresponda. Puede valerse de "`et al.`" para acortar esa enumeración de autores.
 - Si el libro no está terminado y aún se está trabajando en él, agregue la anotación de "`en proceso`", tal y como se describe [a continuación][in_process].
+- En el caso de que decida recuperar un recurso usando servicios como [*Internet Archive's Wayback Machine*](https://web.archive.org), anexe la anotación "`archived`" (en consonancia con el idioma) tal y como se describe [a continuación][archived]. Use como mejor versión aquella que sea la más reciente y completa.
 - Si se solicita una dirección de correo electrónico o configuración de cuenta antes de habilitar la descarga, agregue entre paréntesis dichas notas y en consonancia con el idioma. Por ejemplo: `(*se solicita* email, no requerido...)`.
 
 
@@ -131,6 +132,13 @@ Ejemplo:
 
    ```
    CORRECTO: * [A punto de ser un libro fascinante](http://example.com/book2.html) - John Doe (HTML) (:construction: *en proceso*)
+   ```
+
+<a name="archived"></a>
+- Enlaces archivados:
+
+   ```
+   CORRECTO: * [Un recurso recuperado a partir de su línea de tiempo](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archivado)*
    ```
 
 
@@ -246,5 +254,6 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 [formatting]: #formato-normalizado
 [guidelines]: #pautas
 [in_process]: #in_process
+[archived]: #archived
 [markdown_guide]: https://guides.github.com/features/mastering-markdown/
 [programming_playgrounds_list]: (https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds.md)

@@ -320,7 +320,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Dive into Deep Learning](http://d2l.ai)
 * [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 * [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ereader/7093/?preview=#page/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
-* [Free and Open Machine Learning](https://web.archive.org/web/20200608205220/https://freeandopenmachinelearning.readthedocs.io/en/latest/index.html) - Maikel Mardjan *(:card_file_box: archived)*
+* [Free and Open Machine Learning](https://web.archive.org/web/20200608205220/https://freeandopenmachinelearning.readthedocs.io/en/latest/index.html) - Maikel Mardjan (HTML) *(:card_file_box: archived)*
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [IBM Machine Learning for Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Judith Hurwitz, Daniel Kirsch
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
@@ -393,7 +393,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Complex Analysis](https://people.math.gatech.edu/~cain/winter99/complex.html) - George Cain
 * [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
-* [Computational Mathematics with SageMath](https://web.archive.org/web/20210805190821/http://dl.lateralis.org/public/sagebook/sagebook-ba6596d.pdf) - Paul Zimmermann et al. *(:card_file_box: archived)*
+* [Computational Mathematics with SageMath](https://web.archive.org/web/20210805190821/http://dl.lateralis.org/public/sagebook/sagebook-ba6596d.pdf) - Paul Zimmermann et al. (PDF) *(:card_file_box: archived)*
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook) - Stephen Boyd and Lieven Vandenberghe
 * [Coordinate Geometry (1911)](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine and Henry Dallas Thompson (PDF)
@@ -538,7 +538,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap  *(Leanpub account or valid email requested)*
 * [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
 * [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
-* [Small Memory Software](https://web.archive.org/web/20210725045910/http://www.smallmemory.com/book.html) - Charles Weir, James Noble *(:card_file_box: archived)*
+* [Small Memory Software](https://web.archive.org/web/20210725045910/http://www.smallmemory.com/book.html) - Charles Weir, James Noble (HTML) *(:card_file_box: archived)*
 * [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
 * [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
 

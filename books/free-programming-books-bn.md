@@ -169,7 +169,6 @@
 * [PHP Laravel Framework](https://w3programmers.com/bangla/category/php-laravel-framework) - Masud Alam
 
 
-
 ### Python
 
 * [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner

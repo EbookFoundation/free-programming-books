@@ -1,4 +1,4 @@
-อ่านไฟล์นี้ในภาษาอื่น: [English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md), [Deutsch](HOWTO-de.md), [Bahasa Indonesia](HOWTO-id.md), [Tiếng Việt](HOWTO-vi.md), [عربي](HOWTO-ar.md), [ไทย](HOWTO-th.md).
+อ่านไฟล์นี้ในภาษาอื่น: [English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md), [Deutsch](HOWTO-de.md), [Bahasa Indonesia](HOWTO-id.md), [Tiếng Việt](HOWTO-vi.md), [عربي](HOWTO-ar.md), **ไทย**.
 
 ขอต้อนรับเข้าสู่ Free-Programming-Books! พวกเราขอต้อนรับ contributors ใหม่ทุกคน แม้ว่าคุณพึ่งจะเคยสร้าง pull request เป็นครั้งแรกบน Github หากคุณคือหนึ่งในนั้น ด้านล่างนี้คือแหล่งข้อมูลที่อาจจะเป็นประโยชน์:
 

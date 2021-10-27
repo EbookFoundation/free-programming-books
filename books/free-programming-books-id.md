@@ -33,7 +33,7 @@
 
 ### C Sharp
 
-* [Ebook Pemrograman C# Lengkap (Bahasa Indonesia)](https://kupdf.net/download/ebook-pemrograman-c-lengkap_597af6bbdc0d606d1d2bb18e_pdf) - Muhamad Ali Aldefinu
+* [Ebook Pemrograman C# Lengkap (Bahasa Indonesia)](https://dokumen.tips/documents/ebook-pemrograman-c-lengkap.html) - Muhamad Ali
 * [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/)
 
 

@@ -814,7 +814,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Go Bootcamp](http://www.golangbootcamp.com/book) - Matt Aimonetti
 * [Go by Example](https://gobyexample.com)
 * [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers)
-* [Go for Python Programmers](https://golang-for-python-programmers.readthedocs.io/en/latest)
+* [Go for Python Programmers](https://golang-for-python-programmers.readthedocs.io/en/latest) - Jason McVetta (HTML, PDF, EPUB)
 * [Go Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly) - Mark Lewin (PDF, EPUB, Kindle)
 * [Go Web Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-web-development) - Mark Lewin (PDF, EPUB, Kindle)
 * [How To Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - Mark Bates, Cory Lanou, and Timothy J. Raymond (PDF, EPUB)

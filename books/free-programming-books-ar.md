@@ -57,8 +57,8 @@
 
 ### JavaScript
 
-* [Eloquent Javascript](https://rabahboudia.gitbooks.io/arabic-eloquent-js/content/index.html) - Marijn Haverbeke (HTML)
-* [تعلم JavaScript](https://librebooks.org/javascript-enlightenment-arabic/) (PDF) 
+* [تعلم JavaScript](https://librebooks.org/javascript-enlightenment-arabic/) (PDF)
+* [Eloquent Javascript](https://rabahboudia.gitbooks.io/arabic-eloquent-js/content/index.html) - Marijn Haverbeke (HTML) 
 
 
 ### Linux

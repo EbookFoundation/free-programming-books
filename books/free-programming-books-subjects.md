@@ -392,7 +392,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Complex Analysis](https://people.math.gatech.edu/~cain/winter99/complex.html) - George Cain
 * [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
-* [Computational Mathematics with SageMath](https://web.archive.org/web/20210805190821/http://dl.lateralis.org/public/sagebook/sagebook-ba6596d.pdf) - Paul Zimmermann et al. (PDF) *(:card_file_box: archived)*
+* [Computational Mathematics with SageMath](https://www.sagemath.org/sagebook/) - Paul Zimmermann, Alexandre Casamayou, Nathann Cohen, Guillaume Connan, et al. (PDF)
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook) - Stephen Boyd and Lieven Vandenberghe
 * [Coordinate Geometry (1911)](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine and Henry Dallas Thompson (PDF)

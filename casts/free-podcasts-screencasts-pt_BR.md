@@ -34,10 +34,9 @@
 * [Data Hackers](https://datahackers.com.br/podcast) (podcast)
 * [Data Science Academy](http://datascienceacademy.com.br/blog/podcast-dsa/) (podcast)
 * [Let's Data](https://www.youtube.com/channel/UCS58303Tmd0wIKTddmRskdQ) (podcast)
-* [Teste de Turing](https://castbox.fm/channel/Teste-de-Turing-id2546538) (podcast)
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
 * [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
-
+* [Teste de Turing](https://castbox.fm/channel/Teste-de-Turing-id2546538) (podcast)
 
 ### Game development
 

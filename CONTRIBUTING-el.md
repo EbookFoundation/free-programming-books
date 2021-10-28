@@ -6,7 +6,10 @@
 
 Συνεισφέροντας συμφωνείτε με την [ΑΔΕΙΑ](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) αυτού του αποθετηρίου.
 
+
+<a name="contributor-code-of-conduct"></a>
 ## Κώδικας Δεοντολογίας Συνεισφερόντων
+
 Συνεισφέροντας συμφωνείτε να σέβεστε τον [Κώδικα Δεοντολογίας](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-el.md) αυτού του αποθετηρίου.
 
 ## Με λίγα λόγια

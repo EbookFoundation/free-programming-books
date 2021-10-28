@@ -3,6 +3,7 @@
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
 * [C#](#c-sharp)
+* [Go](#go)
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
@@ -37,6 +38,9 @@
 
 * [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy)
 
+### Go
+
+* [تعلم لغة Go بسهولة](https://librebooks.org/learn-go-easily-arabic/)
 
 ### HTML/CSS
 

@@ -85,7 +85,7 @@
 ### Assembly
 
 * [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
-* [Execução de Programas: Como funcionam carregadores, ligadores e interpretadores](https://www.inf.ufpr.br/bmuller/assets/docs/livroSB.pdf) - Bruno Müller Junior (PDF) ([:package: Programas fonte](https://www.inf.ufpr.br/bmuller/assets/docs/PgmaslivroSB.tar.bz2)) *(Livro adotado na UFPR)*
+* [Execução de Programas: Como funcionam carregadores, ligadores e interpretadores](https://www.inf.ufpr.br/bmuller/assets/docs/livroSB.pdf) - Bruno Müller Junior (PDF)
 
 
 ### C

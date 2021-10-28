@@ -33,7 +33,7 @@
 
 ### C Sharp
 
-* [Ebook Pemrograman C# Lengkap (Bahasa Indonesia)](https://dokumen.tips/documents/ebook-pemrograman-c-lengkap.html) - Muhamad Ali
+* [Ebook Pemrograman C# Lengkap (Bahasa Indonesia)](https://dokumen.tips/documents/ebook-pemrograman-c-lengkap.html) - Muhamad Ali  *(Membutuhkan registrasi akun atau email untuk login)*
 * [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/)
 
 
@@ -47,6 +47,10 @@
 
 * [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
 * [Codeigniter: Pendekatan Praktis](https://leanpub.com/codeigniter-pendekatanpraktis) - Ibnu Daqiqil Id (HTML, PDF, EPUB, Kindle) *(Membutuhkan akun Leanpub atau email yang valid)*
+<<<<<<< HEAD
+=======
+* [Framework Codeigniter – Sebuah Panduan dan Best Practice](https://ibnu.daqiqil.id/buku-codeigniter/) - Ibnu Daqiqil Id, M.Ti (PDF)
+>>>>>>> 8c00a86ec705dcef6480ab39eebc507b02be9171
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)

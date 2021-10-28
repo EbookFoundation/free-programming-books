@@ -8,7 +8,6 @@
 * [CSS](#css)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
-* [Emacs](#emacs)
 * [Erlang](#erlang)
 * [Git](#git)
 * [Golang](#golang)
@@ -30,7 +29,6 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Vim](#vim)
 
 
 ### Android

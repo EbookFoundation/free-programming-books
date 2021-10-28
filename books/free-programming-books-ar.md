@@ -41,7 +41,7 @@
 
 ### Go
 
-* [تعلم لغة Go بسهولة](https://librebooks.org/learn-go-easily-arabic/)
+* [تعلم لغة Go بسهولة](https://librebooks.org/learn-go-easily-arabic/) (PDF)
 
 
 ### HTML/CSS
@@ -58,7 +58,7 @@
 ### JavaScript
 
 * [Eloquent Javascript](https://rabahboudia.gitbooks.io/arabic-eloquent-js/content/index.html) - Marijn Haverbeke (HTML)
-* [تعلم JavaScript] (https://librebooks.org/javascript-enlightenment-arabic/)
+* [تعلم JavaScript] (https://librebooks.org/javascript-enlightenment-arabic/) (PDF) 
 
 
 ### Linux
@@ -117,7 +117,7 @@
 
 ### Security
 
-* [تأمين الشبكات اللاسلكية للمستخدم المنزلي](http://librebooks.org/secure-wireless-networks-for-home-users/) - Mohamed Adel
+* [تأمين الشبكات اللاسلكية للمستخدم المنزلي](http://librebooks.org/secure-wireless-networks-for-home-users/) - Mohamed Adel (PDF)
 * [تقنيات الاختراق المادي](http://librebooks.org/physical-hacking-techniques/)
 * [دليل الأمان الرقمي](https://academy.hsoub.com/files/20-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/)
 * [عُدَّة الأمان الرقمي](http://librebooks.org/security-in-a-box/)

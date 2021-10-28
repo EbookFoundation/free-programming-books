@@ -38,9 +38,11 @@
 
 * [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy)
 
+
 ### Go
 
 * [تعلم لغة Go بسهولة](https://librebooks.org/learn-go-easily-arabic/)
+
 
 ### HTML/CSS
 

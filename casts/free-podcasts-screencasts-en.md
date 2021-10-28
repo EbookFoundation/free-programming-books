@@ -101,12 +101,6 @@
 * [The Thinking Elixir Podcast](https://thinkingelixir.com/the-podcast) (podcast)
 
 
-### Emacs
-
-* [Emacs Cast](https://emacscast.org) - Rakhim Davletkaliyev (podcast)
-* [Emacs Rocks!](http://emacsrocks.com) (screencast)
-
-
 ### Erlang
 
 * [Erlang Factory SF Bay 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ) (screencast)
@@ -151,7 +145,12 @@
 
 ### IDE / Editors
 
+* [Emacs Cast](https://emacscast.org) - Rakhim Davletkaliyev (podcast)
+* [Emacs Rocks!](http://emacsrocks.com) (screencast)
+* [Free screencasts about the text editor Vim](http://vimcasts.org) (screencast)
 * [PHPStorm Tips & Tricks](https://www.youtube.com/playlist?list=PLk9WlAgeZoTfHdJUv75-5grVQf4ijIrzw) - Christoph Rumpel (screencast)
+* [The Vim Blog](https://soundcloud.com/thevimcast) (podcast)
+* [vim Hacking](https://www.youtube.com/playlist?list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7) (screencast)
 
 
 ### Java
@@ -346,10 +345,3 @@
 * [New Rustacean](http://www.newrustacean.com) (podcast)
 * [Rusty Radio](https://soundcloud.com/posix4e) (podcast)
 * [The Rustacean Station Podcast](https://rustacean-station.org) (podcast)
-
-
-### Vim
-
-* [Free screencasts about the text editor Vim](http://vimcasts.org) (screencast)
-* [The Vim Blog](https://soundcloud.com/thevimcast) (podcast)
-* [vim Hacking](https://www.youtube.com/playlist?list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7) (screencast)

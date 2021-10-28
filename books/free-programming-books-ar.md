@@ -115,7 +115,7 @@
 
 ### Security
 
-* [تأمين الشبكات اللاسلكية للمستخدم المنزلي](http://librebooks.org/secure-wireless-networks-for-home-users/)
+* [تأمين الشبكات اللاسلكية للمستخدم المنزلي](http://librebooks.org/secure-wireless-networks-for-home-users/) - Mohamed Adel
 * [تقنيات الاختراق المادي](http://librebooks.org/physical-hacking-techniques/)
 * [دليل الأمان الرقمي](https://academy.hsoub.com/files/20-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/)
 * [عُدَّة الأمان الرقمي](http://librebooks.org/security-in-a-box/)

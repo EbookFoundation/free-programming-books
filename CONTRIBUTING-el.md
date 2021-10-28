@@ -216,6 +216,7 @@
 Αν μπορείτε να το τυπώσετε και να διατηρήσετε την ουσία του, δεν είναι Διαδραστικό Σεμινάριο.
 
 
+<a name="automation"></a>
 ### Αυτοματισμός
 
 - Η επιβολή των κανόνων μορφοποίησης αυτοματοποιείται από το [GitHub Actions](https://github.com/features/actions) χρησιμοποιώντας [fpb-lint](https://github.com/vhf/free-programming-books-lint) (βλ. [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))

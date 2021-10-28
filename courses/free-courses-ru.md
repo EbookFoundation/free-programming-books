@@ -41,7 +41,8 @@ ADV - Продвинутый. Тонкости.
 * [Основы разработки на С++: желтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow?specialization=c-plus-plus-modern-development) - Coursera (INT)
 * [Основы разработки на С++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red?specialization=c-plus-plus-modern-development) - Coursera (INT)
 * [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown?specialization=c-plus-plus-modern-development) - Coursera (INT)
-* [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black?specialization=c-plus-plus-modern-development) - Coursera (INT)
+* [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black) - Шишков Илья Иванович, Полднев Антон Вячеславович, Субоч Николай Михайлович, Alexey Zobnin, Матросов Михаил Александрович (Coursera) (INT)
+
 
 ### Clojure
 

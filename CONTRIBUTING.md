@@ -45,6 +45,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - if the book is older, include the publication date with the title.
 - include the author name or names where appropriate. You can shorten author lists with "et al."
 - if the book is not finished, and is still being worked on, add the "in process" notation, as described [below.](#in_process)
+- if a resource is restored using the Internet Archive's Wayback Machine (or similar), add the "archived" notation, as described [below](#archived). The best versions to use are recent and complete.
 - if an email address or account setup is requested before download is enabled, add language-appropriate notes in parentheses, e.g.: `(email address *requested*, not required)`
 
 ### Formatting
@@ -119,6 +120,13 @@ GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
 GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
 ```
 
+<a name="archived"></a>
+- Archived link:
+
+```
+GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+```
+
 ### Notes
 
 While the basics are relatively simple, there is a great diversity in the resources we list. Here are some notes on how we deal with this diversity.
@@ -145,7 +153,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 - We want to credit the creators of free resources where appropriate, including translators!
 - For translated works the original author should be credited.
 - We do not permit links for Creators.
-- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" books are credited as "Compiled from StackOverflow documentation"
+- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "Compiled from StackOverflow documentation"
 
 ##### Platforms and Access Notes
 

@@ -45,7 +45,8 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 - preferisci gli atomic commits (un commit per aggiunta/modifica/eliminazione) rispetto ai grandi commit. Non c'è bisogno di raggruppare i commit per inviarli in una sola PR. (Non applichiamo mai questa regola, è solo per comodità dei moderatori)
 - se il libro è più vecchio, includi la data di pubblicazione assieme al titolo.
 - includi il nome o i nomi degli autori se è il caso. Puoi accorciare il nome degli autori con "et al."
-- se il libro non è ancora finito, e ci stanno ancora lavorando su, aggiungi "in process", come descritto [qui sotto.](#in_process)
+- se il libro non è ancora finito, e ci stanno ancora lavorando su, aggiungi "in process", come descritto [qui sotto](#in_process). Seleziona sempre l'ultima versione disponibile in questi siti.
+- se una risorsa è archiviata usando la Wayback Machine di Internet Archive (o simili), aggiungi la notazione "archived", come descritto [qui sotto](#archived). La versione migliore da utilizzare è quella più recente/completa.
 - se è richiesto un indirizzo email o un account per poter scaricare il libro, aggiungilo tra parentesi, esempio: `(email address *requested*, not required)`
 
 <a name="formatting"></a>
@@ -121,6 +122,13 @@ CORRETTO: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane R
 CORRETTO: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
 ```
 
+<a name="archived"></a>
+- Link archiviato:
+
+```
+CORRETTO: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+```
+
 ### Note
 
 Mentre le basi sono relativamente semplici, c'è una notevole differenza tra le risorse che inseriamo nelle liste. Qui ci sono alcuni appunti su come affrontiamo queste diversità.
@@ -147,7 +155,7 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 - Vogliamo dare i crediti agli autori ove appropriato, anche ai traduttori!
 - Per i lavori tradotti, l'autore originale dovrebbe essere incluso.
 - Non permettiamo collegamenti per gli autori.
-- Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" sono accreditati come "Compiled from StackOverflow documentation"
+- Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" o "RIP Tutorial" sono accreditati come "Compiled from StackOverflow documentation"
 
 ##### Piattaforme e note di accesso
 

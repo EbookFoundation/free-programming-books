@@ -38,6 +38,7 @@
 * [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
 * [Teste de Turing](https://castbox.fm/channel/Teste-de-Turing-id2546538) (podcast)
 
+
 ### Game development
 
 * [Podquest](http://www.podquest.com.br) (podcast)

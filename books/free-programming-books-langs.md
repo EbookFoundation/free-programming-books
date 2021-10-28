@@ -614,7 +614,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Dart
 
-* [Learning Dart](https://riptutorial.com/Download/dart.pdf) (PDF)
+* [Essential Dart](https://www.programming-books.io/essential/dart/) - Krzysztof Kowalczyk and StackOverflow Contributors
+* [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Compiled from StackOverflow documentation (PDF)
 
 
 ### DB2

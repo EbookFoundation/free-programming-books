@@ -319,7 +319,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Dive into Deep Learning](http://d2l.ai)
 * [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 * [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ereader/7093/?preview=#page/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
-* [Free and Open Machine Learning](https://web.archive.org/web/20200608205220/https://freeandopenmachinelearning.readthedocs.io/en/latest/index.html) - Maikel Mardjan (HTML) *(:card_file_box: archived)*
+* [Free and Open Machine Learning](https://nocomplexity.com/documents/fossml/) - Maikel Mardjan (HTML)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [IBM Machine Learning for Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Judith Hurwitz, Daniel Kirsch
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)

@@ -39,7 +39,6 @@
 * [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
 
 
-
 ### Game development
 
 * [Podquest](http://www.podquest.com.br) (podcast)

@@ -402,6 +402,7 @@
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 * [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) - Song Song Li (《[The Little Go Book](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
+* [Go 命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
 * [Go 语法树入门](https://github.com/chai2010/go-ast-book)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
@@ -409,7 +410,6 @@
 * [Go 语言设计与实现](https://draveness.me/golang) - draveness
 * [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
-* [Go 命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
 * [Go实战开发](https://github.com/astaxie/go-best-practice)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)

@@ -1879,7 +1879,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [How to Think Like a Computer Scientist: Learning with Python 1st Edition](https://greenteapress.com/wp/learning-with-python/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4) (HTML, PDF)
   * [How to Think Like a Computer Scientist: Learning with Python 2nd Edition](https://openbookproject.net/thinkcs/python/english2e/) - Jeffrey Elkner, Allen B. Downey, and Chris Meyers (Using Python 2.x)
   * [How to Think Like a Computer Scientist: Learning with Python 3 (RLE)](https://openbookproject.net/thinkcs/python/english3e/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers [(PDF)](https://www.ict.ru.ac.za/Resources/cspw/thinkcspy3/thinkcspy3.pdf)
-* [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine) - Obi Ike-Nwosu (PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
+* [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine) - Obi Ike-Nwosu (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 * [Intermediate Python](https://book.pythontips.com/en/latest/) - Muhammad Yasoob Ullah Khalid (1st edition)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
   * [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)

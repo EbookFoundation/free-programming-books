@@ -1,4 +1,4 @@
-Basahin ito sa ibang mga wika: [English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [Filipino](HOWTO-fil.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md), [Deutsch](HOWTO-de.md), [Bahasa Indonesia](HOWTO-id.md), [Tiếng Việt](HOWTO-vi.md), [عربي](HOWTO-ar.md).
+Basahin ito sa ibang mga wika: [English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), **Filipino**, [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md), [Deutsch](HOWTO-de.md), [Bahasa Indonesia](HOWTO-id.md), [Tiếng Việt](HOWTO-vi.md), [عربي](HOWTO-ar.md).
 
 Maligayang pagdating sa Free-Programming-Books! Tinatanggap namin ang mga bagong kontribyutor; kahit na ang mga gumagawa ng kanilang pinakaunang pull request sa Github. Kung isa ka sa mga iyon, narito ang ilang mapagkukunan na maaaring makatulong:
 

@@ -201,6 +201,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/src) - Dr. Chris Bourke (PDF) (:construction: *in process*)
 * [Computer Science II - Draft](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Dr. Chris Bourke (PDF) (:construction: *in process*)
 * [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial and Barbara Ericson (HTML)
+* [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
+* [Your First Year in Code](https://leanpub.com/firstyearincode) - Isaac Lyman (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 
 
 ### Computer Vision

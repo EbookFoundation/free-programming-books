@@ -1,0 +1,6 @@
+from googletrans import Translator
+
+translator = Translator()
+
+out =translator.translator("मेरा नाम गुरप्रीत सिंह है।",dest="en")
+print(out)

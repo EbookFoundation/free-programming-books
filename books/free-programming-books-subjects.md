@@ -14,6 +14,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Cloud Computing](#cloud-computing)
 * [Competitive Programming](#competitive-programming)
 * [Compiler Design](#compiler-design)
+* [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
 * [Computer Vision](#computer-vision)
 * [Containers](#containers)
@@ -193,6 +194,12 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
 * [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
+
+
+### Computer Organization and Architecture
+
+* [Basic Computer Architecture](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html) - Smruti R. Sarangi (HTML, PDF, Slides, Videos)
+* [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292) - David Tarnoff (PDF)
 
 
 ### Computer Science

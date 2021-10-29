@@ -1,7 +1,7 @@
 ### Index
 
-* [0 - MOOC](#0---mooc)
-* [Algorithms & Data Structures](#algorithms--data-structures)
+* [0 - MOOC](#mooc)
+* [Algorithms & Data Structures](#algorithms-amp-data-structures)
 * [Android](#android)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)

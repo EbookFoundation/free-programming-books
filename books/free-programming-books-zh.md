@@ -409,8 +409,8 @@
 * [Go 语言设计与实现](https://draveness.me/golang) - draveness
 * [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
-* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
 * [Go 命令教程](https://github.com/hyper-carrot/go_command_tutorial)
+* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
 * [Go实战开发](https://github.com/astaxie/go-best-practice)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)

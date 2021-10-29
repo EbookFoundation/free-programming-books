@@ -246,13 +246,14 @@
 
 * [Algoritmos em Python](https://algoritmosempython.com.br) - Douglas do Couto
 * [Aprenda Python 3 em 6 horas](https://www.udemy.com/course/aprenda-python-3-em-6h/) - Alcimar A. Costa (Udemy)
+* [Construindo API's robustas utilizando Python](https://github.com/luizalabs/tutorial-python-brasil) - Cássio Botaro
 * [Curso de Programação em Python](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK) - Prime Cursos do Brasil
 * [Curso de Python](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) - eXcript (YouTube)
 * [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Joao Pedro Araujo
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
-* [Do zero à implantação](https://github.com/cassiobotaro/do_zero_a_implantacao) - Cássio Botaro 
+* [Do zero à implantação utilizando Python](https://github.com/cassiobotaro/do_zero_a_implantacao) - Cássio Botaro 
 * [Estruturas compostas em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&pbjreload=102) - Gustavo Guanabara. (Curso em Video)
 * [Estruturas de controle em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara. (Curso em Video)
 * [Fundamentamentos em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara. (Curso em Video)

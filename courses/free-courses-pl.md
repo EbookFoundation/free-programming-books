@@ -24,7 +24,6 @@
 ### Bash
 
 * [Bash - Skrypty powłoki](https://www.youtube.com/playlist?list=PLh6V3IQZSBSbls0j9DdkCpbbqQsBUzh4-) - Piotr Kośka
-* [Kurs BASH](https://www.youtube.com/playlist?list=PLHYqnLVqlfpyHMKNUkkdFQfueRcsssEj0)
 
 
 ### Brainfuck

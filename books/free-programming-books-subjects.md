@@ -238,6 +238,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Readings in Database Systems, 5th Ed.](http://www.redbook.io)
 * [Temporal Database Management](http://people.cs.aau.dk/~csj/Thesis/) - Christian S. Jensen
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+* [DATABASE SYSTEMS The Complete Book Second Edition](https://people.inf.elte.hu/miiqaai/elektroModulatorDva.pdf)
+* [DATABASE MANAGEMENT SYSTEM (DBMS)](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf)
 
 
 ### Datamining

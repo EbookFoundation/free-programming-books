@@ -85,6 +85,15 @@
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
 * [Kurs podstaw Arduino](https://forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290) - forbot.pl
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/) - Karol Kuczmarski
+* [Infotraining: Programowanie wielowątkowe w C++](https://infotraining.bitbucket.io/cpp-thd/)
+* [Infotraining: Programowanie w C++](https://infotraining.bitbucket.io/cpp-modern/)
+* [Infotraining: Programowanie w C++17](https://infotraining.bitbucket.io/cpp-17/)
+* [Infotraining: Zaawansowane programowanie w języku C++](https://infotraining.bitbucket.io/cpp-adv/)
+* [Infotraining: Wzorce projektowe w języku Cpp](https://infotraining.bitbucket.io/cpp-dp/)
+* [Infotraining: Programowanie w języku C++ (podstawy)](https://infotraining.bitbucket.io/cpp-bs/)
+* [Infotraining: Efektywne wykorzystanie biblioteki standardowej C++](https://infotraining.bitbucket.io/cpp-stl/)
+* [Infotraining: Programowanie generyczne w języku C++](https://infotraining.bitbucket.io/cpp-templates/)
+* [Infotraining: Programowanie w C++11](https://infotraining.bitbucket.io/cpp-11/)
 
 
 ### Common Lisp

@@ -82,6 +82,7 @@
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
   * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
   * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
+* [Git Cheat Sheet](https://downloads.git-tower.com/content/cheat-sheet-bundle.zip) - Tower (PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 

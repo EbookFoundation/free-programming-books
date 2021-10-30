@@ -1,35 +1,42 @@
 ### Index
 
-* [Algorithms & Data Structures](#algorithms--data-structures)
-* [Assembly](#assembly)
-* [Bootstrap](#bootstrap)
-* [C](#c)
-* [C Sharp](#c-sharp)
-* [Clean Code](#clean-code)
-* [Dart](#dart)
-* [Databases](#databases)
-  * [NoSQL](#nosql)
-  * [SQL](#sql)
-* [Flutter](#flutter)
-* [Game Development](#game-development)
-* [Git](#git)
-* [HTML / CSS](#html--css)
-* [Java](#java)
-* [JavaScript](#javascript)
-  * [Gulp.js](#gulpjs)
-  * [jQuery](#jquery)
-  * [NodeJS](#nodejs)
-  * [PugJs](#pugjs)
-  * [React.js](#reactjs)
-  * [Vue.js](#vuejs)
-* [.NET](#net)
-* [PHP](#php)
-* [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
-* [R](#r)
-* [TypeScript](#typescript)
-  * [Angular](#angular)
+- [Index](#index)
+- [Algorithms & Data Structures](#algorithms--data-structures)
+- [Assembly](#assembly)
+- [Operating Systems](#operating-systems)
+- [Logic Programming](#logic-programming)
+- [Computer Architecture](#computer-architecture)
+- [Bootstrap](#bootstrap)
+- [C](#c)
+- [C Sharp](#c-sharp)
+- [Object Oriented Programming](#object-oriented-programming)
+- [SOLID Principles](#solid-principles)
+- [Design Patterns](#design-patterns)
+- [Clean Code](#clean-code)
+- [Dart](#dart)
+- [Databases](#databases)
+  - [NoSQL](#nosql)
+  - [SQL](#sql)
+- [Flutter](#flutter)
+- [Game Development](#game-development)
+- [Git](#git)
+- [HTML / CSS](#html--css)
+- [Java](#java)
+- [JavaScript](#javascript)
+  - [Gulp.js](#gulpjs)
+  - [jQuery](#jquery)
+  - [NodeJS](#nodejs)
+  - [PugJs](#pugjs)
+  - [React.js](#reactjs)
+  - [Vue.js](#vuejs)
+- [.NET](#net)
+- [PHP](#php)
+- [Python](#python)
+  - [Django](#django)
+  - [Flask](#flask)
+- [R](#r)
+- [TypeScript](#typescript)
+  - [Angular](#angular)
 
 
 ### Algorithms & Data Structures
@@ -48,6 +55,21 @@
 ### Assembly
 
 * [x86 Assembly Language - لغة التجميع](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVodghdDWaAuHkHqj-nJ0bN) - Ahmed Sallam
+
+
+### Operating Systems
+
+* [Operating Systems - نظم التشغيل](https://www.youtube.com/playlist?list=PLMm8EjqH1EFV-jECqtMxeVMDoVkV_kJDY) - Ahmed Sallam
+
+
+### Logic Programming
+
+* [Logic Programming - Prolog - برمجة منطقية](https://www.youtube.com/playlist?list=PLMm8EjqH1EFW9Faldu6D6Uh2j1EWWaTYe) - Ahmed Sallam
+
+
+### Computer Architecture
+
+* [Computer Architecture - تنظيم وبناء الحاسب](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVEVWSiBdCoBEJHffjHUScZ) - Ahmed Sallam
 
 
 ### Bootstrap
@@ -83,6 +105,22 @@
 * [Object-Oriented Programming with C++](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXG_-EgmKb1gxW5S4XaQYaE) - Ahmed Sallam
 * [Programming 1 - Programming For Beginners - C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD) - محمد الدسوقي
 * [Programming 2 - Object Oriented Programming with C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU) - محمد الدسوقي
+
+
+### Object Oriented Programming
+
+* [Object-Oriented Programming JAVA in Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim
+
+
+### SOLID Principles
+
+* [SOLID Principles بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda
+
+
+### Design Patterns
+
+* [Creational Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ) - Mohammed Reda
+* [Structural Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm) - Mohammed Reda
 
 
 ### Clean Code
@@ -121,6 +159,7 @@
 ### Flutter
 
 * [Flutter بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan
+* [Mastering Firebase](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) - Wael Abu hamza
 
 
 ### Game Development

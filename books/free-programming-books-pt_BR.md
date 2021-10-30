@@ -38,6 +38,7 @@
 * [LaTeX](#latex)
 * [LISP](#lisp)
 * [Lua](#lua)
+* [Pascal](#pascal)
 * [PHP](#php)
   * [Symfony](#symfony)
 * [Python](#python)
@@ -268,11 +269,6 @@
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
 
 
-### Pascal
-
-* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva e Daniel Weingaertner (PDF)
-
-
 #### React
 
 * [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
@@ -309,6 +305,11 @@
 ### Lua
 
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
+
+
+### Pascal
+
+* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva e Daniel Weingaertner (PDF)
 
 
 ### PHP

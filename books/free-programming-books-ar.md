@@ -57,7 +57,7 @@
 
 ### JavaScript
 
-* [تعلم JavaScript](https://librebooks.org/javascript-enlightenment-arabic/) (PDF)
+* [تعلم JavaScript](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
 * [Eloquent Javascript (Second Edition)](https://rabahboudia.gitbooks.io/arabic-eloquent-js/) - Marijn Haverbeke, Rabah Boudia (gitbook) 
 
 

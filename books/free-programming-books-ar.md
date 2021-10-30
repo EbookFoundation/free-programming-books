@@ -41,7 +41,7 @@
 
 ### Go
 
-* [تعلم لغة Go بسهولة](https://librebooks.org/learn-go-easily-arabic/) (PDF)
+* [تعلم لغة Go بسهولة](https://itwadi.com/learn-go-easily) - Alan Donovan, Brian Kernigan, مجموعة عمل (PDF)
 
 
 ### HTML/CSS

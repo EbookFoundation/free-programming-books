@@ -159,6 +159,7 @@
 * [Руководство по языку программирования C++](https://metanit.com/cpp/tutorial) - Евгений Попов
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
 * [Уроки по OpenGL 3](https://code.google.com/archive/p/gl33lessons/) - Гуревич Артём
+* [Эффективный и современный C++](https://coollib.net/b.usr/Skott_Meyers_Effektivnyiy_i_sovremennyiy_C%2B%2B.pdf) - Скотт Мейерс (PDF)
 
 
 ### Clojure

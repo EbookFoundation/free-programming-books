@@ -379,6 +379,7 @@
 * [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (The Net Ninja)
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 * [GIT for beginners](https://www.eduonix.com/git-for-beginners) - Maksym Rudnyi (Eduonix Learning Solutions) *(account or email address required)*
+* [Git Tutorial - Learn Command-line Git & GitHub](https://www.youtube.com/playlist?list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN) - LearnWebCode (YouTube)
 * [GitHowTo](https://githowto.com)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
@@ -388,6 +389,7 @@
 ### Go
 
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
+* [DevOps BootCamp](https://github.com/jeffotoni/goworkshopdevops) - Jefferson Otoni Lima et al.
 * [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
 * [Golang \| Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews
 * [Golang basics](https://www.youtube.com/playlist?list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6) - Golang dojo
@@ -509,6 +511,7 @@
 * [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711) - Richard Kalehoff (Udacity)
 * [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899) - Google, Michael Wales (Udacity)
 * [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web) - Owen Astrachan, Robert Duvall, Andrew D. Hilton, Susan H. Rodger (Coursera)
+* [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs) - Brad Schiff, LearnWebCode (YouTube)
 * [Understanding RxJS](https://youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi) - Academind
 * [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - Brad Traversy, Traversy Media (YouTube)
 
@@ -783,6 +786,7 @@
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
 * [Programming, Data Structures And Algorithms Using Python](https://nptel.ac.in/courses/106/106/106106145/) - Prof. Madhavan Mukund (NPTEL)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
+* [Python 101 – Introduction to Programming](https://www.tutorialspoint.com/python_101_andndash_introduction_to_programming/index.asp) - Zenva (TutorialsPoint)
 * [Python 3](https://www.sololearn.com/Course/Python/) (SoloLearn)
 * [Python And Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/course/coinmarketcap/) Ian Annase (Udemy)
 * [Python Built in Functions A to Z Tutorial and Examples](https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X) - Brainy Things
@@ -796,6 +800,7 @@
 * [Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) - Corey Schafer
 * [Python Pandas For Your Grandpa](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/) - Ben Gorman
 * [Python Programming Essentials](https://www.coursera.org/learn/python-programming) - Scott Rixner, Joe Warren (Coursera)
+* [Python Programming From Scratch With Practicals](https://www.tutorialspoint.com/python_programming_from_scratch_with_practicals/index.asp) - Sundeep Saradhi Kanthety (TutorialsPoint)
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) (Geeks for Geeks)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) - Tech With Tim

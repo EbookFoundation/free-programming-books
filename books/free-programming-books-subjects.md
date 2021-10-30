@@ -14,6 +14,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Cloud Computing](#cloud-computing)
 * [Competitive Programming](#competitive-programming)
 * [Compiler Design](#compiler-design)
+* [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
 * [Computer Vision](#computer-vision)
 * [Containers](#containers)
@@ -139,6 +140,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
 * [chain.courses](https://chain.courses) - James Gan, Rishub Kumar
 * [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
+* [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML)
 * [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield et al. (PDF)
 * [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
 * [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
@@ -194,12 +196,20 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
 
 
+### Computer Organization and Architecture
+
+* [Basic Computer Architecture](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html) - Smruti R. Sarangi (HTML, PDF, Slides, Videos)
+* [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292) - David Tarnoff (PDF)
+
+
 ### Computer Science
 
 * [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) - Jeannette Wing, Carnegie-Mellon University (PDF)
 * [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/src) - Dr. Chris Bourke (PDF) (:construction: *in process*)
 * [Computer Science II - Draft](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Dr. Chris Bourke (PDF) (:construction: *in process*)
 * [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial and Barbara Ericson (HTML)
+* [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
+* [Your First Year in Code](https://leanpub.com/firstyearincode) - Isaac Lyman (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 
 
 ### Computer Vision

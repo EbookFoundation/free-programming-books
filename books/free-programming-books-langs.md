@@ -2039,8 +2039,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
 * [The R Manuals](http://cran.r-project.org/manuals.html)
-* [Tidy Text Mining with R](http://tidytextmining.com) - Julia Silge and David Robinson
 * [The Undergraduate Guide to R)(http://jsebastiantello.weebly.com/uploads/1/8/6/0/18603232/theundergradguidetor.pdf) - Trevor Martin(PDF)
+* [Tidy Text Mining with R](http://tidytextmining.com) - Julia Silge and David Robinson
 
 
 ### Racket

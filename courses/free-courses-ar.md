@@ -2,20 +2,16 @@
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Assembly](#assembly)
-* [Operating Systems](#operating-systems)
-* [Logic Programming](#logic-programming)
-* [Computer Architecture](#computer-architecture)
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C Sharp](#c-sharp)
-* [Object Oriented Programming](#object-oriented-programming)
-* [SOLID Principles](#solid-principles)
-* [Design Patterns](#design-patterns)
+* [Computer Architecture](#computer-architecture)
 * [Clean Code](#clean-code)
 * [Dart](#dart)
 * [Databases](#databases)
   * [NoSQL](#nosql)
   * [SQL](#sql)
+* [Design Patterns](#design-patterns)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git](#git)
@@ -28,12 +24,16 @@
   * [PugJs](#pugjs)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
+* [Logic Programming](#logic-programming)
+* [Object Oriented Programming](#object-oriented-programming)
+* [Operating Systems](#operating-systems)
 * [.NET](#net)
 * [PHP](#php)
 * [Python](#python)
   * [Django](#django)
   * [Flask](#flask)
 * [R](#r)
+* [SOLID Principles](#solid-principles)
 * [TypeScript](#typescript)
   * [Angular](#angular)
 
@@ -54,21 +54,6 @@
 ### Assembly
 
 * [x86 Assembly Language - لغة التجميع](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVodghdDWaAuHkHqj-nJ0bN) - Ahmed Sallam
-
-
-### Operating Systems
-
-* [Operating Systems - نظم التشغيل](https://www.youtube.com/playlist?list=PLMm8EjqH1EFV-jECqtMxeVMDoVkV_kJDY) - Ahmed Sallam
-
-
-### Logic Programming
-
-* [Logic Programming - Prolog - برمجة منطقية](https://www.youtube.com/playlist?list=PLMm8EjqH1EFW9Faldu6D6Uh2j1EWWaTYe) - Ahmed Sallam
-
-
-### Computer Architecture
-
-* [Computer Architecture - تنظيم وبناء الحاسب](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVEVWSiBdCoBEJHffjHUScZ) - Ahmed Sallam
 
 
 ### Bootstrap
@@ -106,20 +91,9 @@
 * [Programming 2 - Object Oriented Programming with C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU) - محمد الدسوقي
 
 
-### Object Oriented Programming
+### Computer Architecture
 
-* [Object-Oriented Programming JAVA in Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim
-
-
-### SOLID Principles
-
-* [SOLID Principles بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda
-
-
-### Design Patterns
-
-* [Creational Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ) - Mohammed Reda
-* [Structural Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm) - Mohammed Reda
+* [Computer Architecture - تنظيم وبناء الحاسب](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVEVWSiBdCoBEJHffjHUScZ) - Ahmed Sallam
 
 
 ### Clean Code
@@ -138,6 +112,12 @@
 * [CS Master - Level 3 - Databases قواعد البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhXQ1bcYlO3PtN4MsLiG-gy) - KMR Script
 * [Database 1 - المقرر النظرى - Fundamentals of Database Systems](https://www.youtube.com/playlist?list=PL37D52B7714788190) - محمد الدسوقى
 * [Database Design](https://www.youtube.com/playlist?list=PLkzDzmo9y3VHDFKp7LuXd-FwbefvTL5o0) - تخاريف مبرمج
+
+
+### Design Patterns
+
+* [Creational Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ) - Mohammed Reda
+* [Structural Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm) - Mohammed Reda
 
 
 #### NoSQL
@@ -212,6 +192,21 @@
 * [JavaScript JSON API](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwH_PyuEFjk3OvXflJJrDRQ) - Elzero Web School
 * [JavaScript OOP](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF) - Elzero Web School
 * [JavaScript Unit Testing With Jest](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O) - Elzero Web School
+
+
+### Logic Programming
+
+* [Logic Programming - Prolog - برمجة منطقية](https://www.youtube.com/playlist?list=PLMm8EjqH1EFW9Faldu6D6Uh2j1EWWaTYe) - Ahmed Sallam
+
+
+### Object Oriented Programming
+
+* [Object-Oriented Programming JAVA in Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim
+
+
+### Operating Systems
+
+* [Operating Systems - نظم التشغيل](https://www.youtube.com/playlist?list=PLMm8EjqH1EFV-jECqtMxeVMDoVkV_kJDY) - Ahmed Sallam
 
 
 #### Gulp.js
@@ -302,6 +297,11 @@ Emam Academy
 ### R
 
 * [R Tutorial For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LKTMW3wrlT3GiFMCL_r_Sn) - محمد الدسوقي
+
+
+### SOLID Principles
+
+* [SOLID Principles بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda
 
 
 ### TypeScript

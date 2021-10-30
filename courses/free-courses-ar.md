@@ -1,6 +1,5 @@
 ### Index
 
-- [Index](#index)
 - [Algorithms & Data Structures](#algorithms--data-structures)
 - [Assembly](#assembly)
 - [Operating Systems](#operating-systems)

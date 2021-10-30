@@ -1891,6 +1891,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
 * [Learn Python the Right Way](https://learnpythontherightway.com)
 * [Learn to Program Using Python](https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF) *(:card_file_box: archived)*
+* [Learning Python] (https://drive.google.com/file/d/0B2Y-n6IlHYliSXZxMk0xT0NSY1E/preview?resourcekey=0-gvmrtfclyhtYc7zYyvgxCw) - Mark Lutz (5th edition)
 * [Learning to Program](http://www.alan-g.me.uk)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 * [Making Games with Python & Pygame](https://inventwithpython.com/pygame/chapters/) - Al Sweigart (3.2)

@@ -46,9 +46,8 @@
 
 ### <a name="c"></a>C
 
-* [SoloLearn](https://code.sololearn.com/c)
 * [Programiz - C Compiler](https://www.programiz.com/c-programming/online-compiler/)
-
+* [SoloLearn](https://code.sololearn.com/c)
 
 ### <a name="csharp"></a>C#
 
@@ -134,10 +133,9 @@
 
 ### Java
 
+* [Jdoodle](https://www.jdoodle.com/online-java-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
 * [SoloLearn](https://code.sololearn.com/java)
-* [Jdoodle](https://www.jdoodle.com/online-java-compiler/)
-
 
 ### JavaScript
 

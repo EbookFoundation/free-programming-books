@@ -40,7 +40,7 @@
 
 ### HTML/CSS
 
-* [التحريك عبر CSS](https://academy.hsoub.com/files/14-التحريك-عبر-css/)
+* [التحريك عبر CSS](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat (PDF)
 * [نحو فهم أعمق لتقنيات HTML5](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/)
 
 

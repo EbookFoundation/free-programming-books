@@ -1,4 +1,4 @@
-*Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), **Filipino**, [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*Basahin ito sa ibang mga wika: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), **Filipino**, [Español](CONTRIBUTING-es.md), [English](CONTRIBUTING.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 
 ## Kasunduan sa Lisensya ng Contributor
 Sa pamamagitan ng pag-aambag sumasang-ayon ka sa [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) ng repositoryong ito.
@@ -9,7 +9,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 ## Sa maikling sabi
 1. "Ang isang link para madaling mag-download ng libro" ay hindi palaging isang link sa isang *libre* na libro. Mangyaring mag-ambag lamang ng libreng nilalaman. Tiyaking libre ito. Hindi kami tumatanggap ng mga link sa mga pahina na *nangangailangan* ng gumaganang mga email address upang makakuha ng mga aklat, ngunit malugod naming tinatanggap ang mga listahan na humihiling sa kanila.
 2. Hindi mo kailangang malaman ang Git: kung nakakita ka ng isang bagay na interesado na *wala pa sa repo na ito*, mangyaring magbukas ng [Issue](https://github.com/EbookFoundation/free-programming-books/issues) kasama ang iyong mga proposisyon ng link.
-    - Kung alam mo ang Git, mangyaring Fork ang repo at magpadala ng mga pull request.
+    - Kung alam mo ang Git, mangyaring Fork ang repo at magpadala ng mga Pull Request (PR).
 3. Mayroon kaming 5 uri ng mga listahan. Piliin ang tama:
 
     - *Mga libro* : PDF, HTML, ePub, isang site na nakabatay sa gitbook.io, a Git repo, etc.
@@ -21,7 +21,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 4. Siguraduhing sundin ang [guidelines below](#guidelines) at igalang ang [Markdown formatting](#formatting) ng mga file.
 
 5. Ang GitHub Actions ay magpapatakbo ng mga pagsubok upang matiyak na ang iyong mga listahan ay naka-alpabeto at sinusunod ang mga panuntunan sa pag-format. Siguraduhing suriin na ang iyong mga pagbabago ay pumasa sa mga pagsubok.
-
+<a href="guidelines"></a>
 ### Mga Alituntunin
 - siguraduhin na ang isang libro ay libre. I-double check kung kinakailangan. Nakakatulong ito sa mga admin kung magkomento ka sa PR kung bakit sa tingin mo ay libre ang libro.
 - hindi kami tumatanggap ng mga file na naka-host sa Google Drive, Dropbox, Mega, Scribd, Issuu at iba pang katulad na mga platform sa pag-upload ng file
@@ -43,11 +43,11 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
     + kung nagli-link ang mga ito sa iba't ibang mga edisyon, at hinuhusgahan mo na ang mga edisyong ito ay sapat na naiiba upang maging sulit na panatilihin ang mga ito, magdagdag ng hiwalay na link na may tala tungkol sa bawat edisyon (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) upang mag-ambag sa talakayan sa pag-format.)
 - mas gusto ang atomic commit (one commit by addition/deletion/modification) higit sa mas malalaking commit. Hindi na kailangang i-squash ang iyong mga commit bago magsumite ng PR. (Hindi namin kailanman ipapatupad ang panuntunang ito dahil ito ay isang bagay lamang ng kaginhawahan para sa mga nagpapanatili)
 - kung mas luma ang aklat, isama ang petsa ng publikasyon na may pamagat.
-- isama ang pangalan ng may-akda o mga pangalan kung saan naaangkop. Maaari mong paikliin ang mga listahan ng may-akda gamit ang "et al."
+- isama ang pangalan ng may-akda o mga pangalan kung saan naaangkop. Maaari mong paikliin ang mga listahan ng may-akda gamit ang "`et al.`"
 - kung ang aklat ay hindi pa tapos, at ginagawa pa rin, idagdag ang "in process" notation, gaya ng inilarawan [below.](#in_process)
 - kung ang isang mapagkukunan ay naibalik gamit ang Wayback Machine ng Internet Archive (o katulad), idagdag ang "naka-archive" na notation, tulad ng inilarawan [below](#archived). Ang pinakamahusay na mga bersyon na gagamitin ay bago at kumpleto.
 - kung humiling ng email address o pag-setup ng account bago i-enable ang pag-download, magdagdag ng mga tala na naaangkop sa wika sa mga panaklong, hal.: `(email address *requested*, not required)`
-
+<a href="formatting"></a>
 ### Pag-format
 - Ang lahat ng mga listahan ay `.md` files. Subukang matuto [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. Simple lang!
 - Ang lahat ng mga listahan ay nagsisimula sa isang Index. Ang ideya ay ilista at i-link ang lahat ng seksyon at subsection doon. Panatilihin ito sa alpabetikong pagkakasunud-sunod.
@@ -153,14 +153,14 @@ Nagbibigay ang aming mga listahan ng kaunting hanay ng metadata: mga pamagat, UR
 - Gusto naming pasalamatan ang mga lumikha ng mga libreng mapagkukunan kung saan naaangkop, kabilang ang mga tagasalin!
 - Para sa mga isinaling gawa ang orihinal na may-akda ay dapat na kredito.
 - Hindi namin pinahihintulutan ang mga link para sa Mga Tagalikha.
-- Para sa compilation o remixed na mga gawa, maaaring kailanganin ng "creator" ang isang paglalarawan. Halimbawa, ang mga aklat na "GoalKicker" o "RIP Tutorial" ay kinikilala bilang "Na-compile mula sa dokumentasyon ng StackOverflow"
+- Para sa compilation o remixed na mga gawa, maaaring kailanganin ng "creator" ang isang paglalarawan. Halimbawa, ang mga aklat na "GoalKicker" o "RIP Tutorial" ay kinikilala bilang "`Compiled from StackOverflow Documentation`"
 
 ##### Mga Platform at Mga Tala sa Pag-access
 
 - Kurso. Lalo na para sa aming mga listahan ng kurso, ang platform ay isang mahalagang bahagi ng paglalarawan ng mapagkukunan. Ito ay dahil ang mga platform ng kurso ay may iba't ibang mga affordance at mga modelo ng pag-access. Bagama't karaniwang hindi namin ilista ang isang aklat na nangangailangan ng pagpaparehistro, maraming mga platform ng kurso ang may mga affordance na hindi gumagana nang walang isang uri ng account. Kasama sa mga halimbawang platform ng kurso ang Coursera, EdX, Udacity, at Udemy. Kapag ang isang kurso ay nakasalalay sa isang platform, ang pangalan ng platform ay dapat na nakalista sa mga panaklong.
 - YouTube. Marami kaming mga kurso na binubuo ng mga playlist sa YouTube. Hindi namin inilista ang Youtube bilang isang platform, sinusubukan naming ilista ang tagalikha ng Youtube, na kadalasan ay isang sub-platform.
-- Mga video ng youtube. Karaniwang hindi kami nagli-link sa mga indibidwal na video sa YouTube maliban kung ang mga ito ay higit sa isang oras ang haba at nakabalangkas tulad ng isang kurso o isang tutorial.
-- Leanpub. Nagho-host ang Leanpub ng mga aklat na may iba't ibang modelo ng access. Minsan ang isang libro ay maaaring basahin nang walang pagpaparehistro; minsan ang isang libro ay nangangailangan ng isang Leanpub account para sa libreng pag-access. Dahil sa kalidad ng mga aklat at ang pinaghalong mga modelo ng pag-access sa Leanpub, pinahihintulutan namin ang paglilista ng huli kasama ang tala sa pag-access *(Leanpub account o valid na email ang hinihiling)*
+- Mga video ng YouTube. Karaniwang hindi kami nagli-link sa mga indibidwal na video sa YouTube maliban kung ang mga ito ay higit sa isang oras ang haba at nakabalangkas tulad ng isang kurso o isang tutorial.
+- Leanpub. Nagho-host ang Leanpub ng mga aklat na may iba't ibang modelo ng access. Minsan ang isang libro ay maaaring basahin nang walang pagpaparehistro; minsan ang isang libro ay nangangailangan ng isang Leanpub account para sa libreng pag-access. Dahil sa kalidad ng mga aklat at ang pinaghalong mga modelo ng pag-access sa Leanpub, pinahihintulutan namin ang paglilista ng huli kasama ang tala sa pag-access `*(Leanpub account o valid na email ang hinihiling)*`
 
 #### Mga genre
 

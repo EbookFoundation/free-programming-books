@@ -247,6 +247,7 @@
 ### Cloud Computing
 
 * [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
+* [Cloud Computing Full Course In 11 Hours](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka
 
 
 ### Compilers
@@ -282,6 +283,7 @@
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
+* [Data science for beginners](https://github.com/microsoft/Data-Science-For-Beginners) - Microsoft 
 
 
 ### Databases

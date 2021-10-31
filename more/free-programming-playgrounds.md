@@ -35,6 +35,7 @@
 * [Rust](#rust)
 * [RxJS](#rxjs)
 * [Scala](#scala)
+* [Scratch](#scratch)
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Svelte](#svelte)
@@ -264,6 +265,11 @@
 
 * [ScalaFiddle.io](https://scalafiddle.io)
 * [Scastie](https://scastie.scala-lang.org)
+
+
+### Scratch
+
+* [Scratch.mit.edu](https://scratch.mit.edu/create)
 
 
 ### Solidity

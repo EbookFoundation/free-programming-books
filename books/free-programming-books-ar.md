@@ -35,7 +35,7 @@
 
 ### C Sharp
 
-* [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy)
+* [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy) (PDF)
 
 
 ### HTML/CSS

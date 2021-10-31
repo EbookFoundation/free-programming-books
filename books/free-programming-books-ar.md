@@ -58,7 +58,7 @@
 ### Linux
 
 * [الإدارة المتقدمة لجنو/لينكس ](https://librebooks.org/gnu-linux-advanced-administration/) - Remo Suppi Boldrito, Josep Jorba Esteve, Abdel Rahim Ghaleb (PDF)
-* [أوبنتو السهل](http://librebooks.org/simply-ubuntu/)
+* [أوبنتو ببساطة](https://www.simplyubuntu.com) - Ahmed AbouZaid (PDF)
 * [دفتر مدير دبيان](http://librebooks.org/debian-handbook-arabic/)
 * [دليل إدارة خواديم أوبنتو](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/)
 

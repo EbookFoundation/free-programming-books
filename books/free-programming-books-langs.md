@@ -662,7 +662,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Ecto
 
 * [Ecto Getting Started Guide](https://hexdocs.pm/ecto/getting-started.html#content) (HTML)
-* [The Little Ecto Cookbook](https://dashbit.co/ebooks/the-little-ecto-cookbook) - Dashbit (PDF)
+* [The Little Ecto Cookbook](https://dashbit.co/ebooks/the-little-ecto-cookbook) - José Valim, Dashbit (PDF) (email address *required*)
 
 
 #### Phoenix

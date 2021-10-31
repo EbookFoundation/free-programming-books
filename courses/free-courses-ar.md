@@ -27,7 +27,6 @@
   * [Vue.js](#vuejs)
 * [Logic Programming - Prolog](#logic-programming---prolog)
 * [.NET](#net)
-* [Object Oriented paradigm](#object-oriented-paradigm)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
 * [Python](#python)

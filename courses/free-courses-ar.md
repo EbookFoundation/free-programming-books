@@ -7,6 +7,8 @@
 * [C](#c)
 * [C Sharp](#c-sharp)
 * [Clean Code](#clean-code)
+  * [Design Patterns](#design-patterns)
+  * [SOLID Principles](#solid-principles)
 * [Dart](#dart)
 * [Databases](#databases)
   * [NoSQL](#nosql)
@@ -26,8 +28,6 @@
 * [Logic Programming - Prolog](#logic-programming---prolog)
 * [.NET](#net)
 * [Object Oriented paradigm](#object-oriented-paradigm)
-  * [Design Patterns](#design-patterns)
-  * [SOLID Principles](#solid-principles)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
 * [Python](#python)
@@ -100,6 +100,18 @@
 
 * [Clean Code Book - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX) - Omar Ahmed
 * [Declarative Programming](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f) - درة الاكواد لابن حماد
+
+
+#### Design Patterns
+
+* [Creational Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ) - Mohammed Reda
+* [Structural Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm) - Mohammed Reda
+
+
+#### SOLID Principles
+
+* [SOLID Principles بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV) - Omar Ahmed
+* [SOLID Principles بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda
 
 
 ### Dart
@@ -258,18 +270,6 @@ Emam Academy
 
 * [C++ Object-Oriented Design and Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) -  Arabic Competitive Programming
 * [Object-Oriented Programming JAVA in Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim
-
-
-#### Design Patterns
-
-* [Creational Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ) - Mohammed Reda
-* [Structural Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm) - Mohammed Reda
-
-
-#### SOLID Principles
-
-* [SOLID Principles بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV) - Omar Ahmed
-* [SOLID Principles بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda
 
 
 ### Operating Systems

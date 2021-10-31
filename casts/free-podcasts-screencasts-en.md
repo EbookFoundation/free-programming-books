@@ -155,6 +155,8 @@
 
 * [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
 * [How to Program with Java Podcast](https://www.podbean.com/podcast-detail/6mxhc-344f7/How-to-Program-with-Java-Podcast) - Trevor Page (podcast)
+* [Inside Java](https://inside.java/podcast) - Chad Arimura and David Delabassee (podcast)
+* [Java OffHeap](https://www.javaoffheap.com) - Freddy Guime (podcast)
 * [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime and Bob Paulin (podcast)
 
 
@@ -258,6 +260,8 @@
 * [Reactive](http://reactive.audio) (podcast)
 * [Security Now](https://www.grc.com/securitynow.htm) (podcast)
 * [Shop Talk Show](http://shoptalkshow.com) (podcast)
+* [Smashing podcast](https://podcast.smashingmagazine.com) (podcast)
+* [Soft Skills Engineering Podcast](https://softskills.audio) (podcast)
 * [Software Engineering Daily](http://softwareengineeringdaily.com) (podcast)
 * [Software Engineering Radio](http://www.se-radio.net) (podcast)
 * [Syscast Podcast](http://podcast.sysca.st) (podcast)

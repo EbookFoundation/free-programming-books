@@ -421,7 +421,7 @@
 
 ### Groovy
 
-* [实战 Groovy 系列](https://wizardforcel.gitbooks.io/ibm-j-pg/content) - WizardForcel
+* [Groovy 教程](https://www.w3cschool.cn/groovy) - W3Cschool
 
 
 ### Haskell

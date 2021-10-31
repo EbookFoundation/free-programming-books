@@ -133,7 +133,9 @@
 
 ### Java
 
-* [Jdoodle](https://www.jdoodle.com/online-java-compiler/)
+* [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
+* [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
 * [SoloLearn](https://code.sololearn.com/java)
 

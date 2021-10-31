@@ -146,7 +146,7 @@
 * [Advanced Flutter Tutorial - build E commerce App](https://www.youtube.com/playlist?list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe) - Scholar Tech (:construction: *in process*)
 * [Flutter بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan
 * [Flutter BLoC - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB) - Omar Ahmed
-* [Mastering Firebase](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) - Wael Abu hamza
+* [Mastering Firebase And Flutter version 2 (2021) - Course - project -فلاتر- مشروع - دورة - فايربيز - شرح - احتراف - كورس](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) - Wael Abu hamza
 
 
 ### Game Development

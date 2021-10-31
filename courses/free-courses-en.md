@@ -820,6 +820,7 @@
 
 #### Django
 
+* [Django 3.0 Crash Course Tutorials \| Customer Management App](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO) - Dennis Ivy
 * [Django for Everybody](https://www.dj4e.com) - Charles R. Severence
 * [Django Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau) - Navin Reddy
 * [Django Tutorial for Beginners (2021)](https://www.youtube.com/watch?v=rHux0gMZ3Eg) - Programming with Mosh (YouTube)
@@ -827,6 +828,7 @@
 * [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr) - Programming With Harry(English)
 * [Python Django Tutorial 2018 for Beginners](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD) - Clever Programmer
 * [Python Django Tutorial 2021](https://www.youtube.com/playlist?list=PL-51WBLyFTg1pUMaTJ4WSgnyvWfLGmwDm) - Dennis Ivy
+* [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) - Justin Mitchel, CodingEntrepreneurs
 
 
 #### Flask

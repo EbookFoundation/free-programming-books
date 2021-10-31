@@ -266,12 +266,6 @@ Emam Academy
 * [ASP.NET Web REST API](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1X4QNF5wslJD6T96Owkg2t) - Khalid ESSAADANI
 
 
-### Object Oriented Paradigm
-
-* [C++ Object-Oriented Design and Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) -  Arabic Competitive Programming
-* [Object-Oriented Programming JAVA in Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim
-
-
 ### Operating Systems
 
 * [Operating Systems - نظم التشغيل](https://www.youtube.com/playlist?list=PLMm8EjqH1EFV-jECqtMxeVMDoVkV_kJDY) - Ahmed Sallam

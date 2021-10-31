@@ -2039,6 +2039,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
 * [The R Manuals](http://cran.r-project.org/manuals.html)
 * [Tidy Text Mining with R](http://tidytextmining.com) - Julia Silge and David Robinson
+* [Time Series Analysis and Its Applications With R Examples](http://sistemas.fciencias.unam.mx/~ediaz/Cursos/Estadistica3/Libros/Time%20Series%20Analysis%20and%20Its%20Applications.pdf) - Robert H. Shumway and David S. Stoffer
 
 
 ### Racket

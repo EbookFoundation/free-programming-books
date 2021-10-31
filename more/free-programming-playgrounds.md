@@ -46,7 +46,8 @@
 
 ### <a name="c"></a>C
 
-* [Programiz - C Compiler](https://www.programiz.com/c-programming/online-compiler/)
+* [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
+* [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/c)
 
 

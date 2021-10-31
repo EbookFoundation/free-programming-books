@@ -24,11 +24,11 @@
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
 * [Logic Programming - Prolog](#logic-programming---prolog)
+* [.NET](#net)
 * [Object Oriented paradigm](#object-oriented-paradigm)
   * [Design Patterns](#design-patterns)
   * [SOLID Principles](#solid-principles)
 * [Operating Systems](#operating-systems)
-* [.NET](#net)
 * [PHP](#php)
 * [Python](#python)
   * [Django](#django)
@@ -132,8 +132,8 @@
 ### Flutter
 
 * [Advanced Flutter Tutorial - build E commerce App](https://www.youtube.com/playlist?list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe) - Scholar Tech (:construction: *in process*)
-* [Flutter BLoC - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB) - Omar Ahmed
 * [Flutter بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan
+* [Flutter BLoC - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB) - Omar Ahmed
 * [Mastering Firebase](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) - Wael Abu hamza
 
 
@@ -243,6 +243,17 @@ Emam Academy
 * [Logic Programming - Prolog - برمجة منطقية](https://www.youtube.com/playlist?list=PLMm8EjqH1EFW9Faldu6D6Uh2j1EWWaTYe) - Ahmed Sallam
 
 
+### .NET
+
+* [Arabic C# .NET](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1ekZ78MzVWqpNyA5Lyb2nv) - Khalid ESSAADANI
+* [ASP.NET Core Fundamentals](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1zbN2olMzvIBXP06FIwoes) - Khalid ESSAADANI
+* [ASP.NET Identity](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1T3fIb-JDa4xNFfVQoljGI) - Khalid ESSAADANI
+* [ASP.NET Identity Arabic](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1T3fIb-JDa4xNFfVQoljGI) - Khalid ESSAADANI
+* [ASP.NET MVC 5](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3HKfGd_jgO1Odr1xWXU9Yf) - Khalid ESSAADANI
+* [ASP.NET MVC From Scratch](https://www.youtube.com/playlist?list=PLwj1YcMhLRN2dz2C9ShCe9wTLrXxnJPuC) - Khalid ESSAADANI
+* [ASP.NET Web REST API](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1X4QNF5wslJD6T96Owkg2t) - Khalid ESSAADANI
+
+
 ### Object Oriented Paradigm
 
 * [C++ Object-Oriented Design and Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) -  Arabic Competitive Programming
@@ -264,17 +275,6 @@ Emam Academy
 ### Operating Systems
 
 * [Operating Systems - نظم التشغيل](https://www.youtube.com/playlist?list=PLMm8EjqH1EFV-jECqtMxeVMDoVkV_kJDY) - Ahmed Sallam
-
-
-### .NET
-
-* [Arabic C# .NET](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1ekZ78MzVWqpNyA5Lyb2nv) - Khalid ESSAADANI
-* [ASP.NET Core Fundamentals](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1zbN2olMzvIBXP06FIwoes) - Khalid ESSAADANI
-* [ASP.NET Identity](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1T3fIb-JDa4xNFfVQoljGI) - Khalid ESSAADANI
-* [ASP.NET Identity Arabic](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1T3fIb-JDa4xNFfVQoljGI) - Khalid ESSAADANI
-* [ASP.NET MVC 5](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3HKfGd_jgO1Odr1xWXU9Yf) - Khalid ESSAADANI
-* [ASP.NET MVC From Scratch](https://www.youtube.com/playlist?list=PLwj1YcMhLRN2dz2C9ShCe9wTLrXxnJPuC) - Khalid ESSAADANI
-* [ASP.NET Web REST API](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1X4QNF5wslJD6T96Owkg2t) - Khalid ESSAADANI
 
 
 ### PHP

@@ -24,7 +24,7 @@
 
 ### Arduino
 
-* [أردوينو السهل](http://librebooks.org/simply-arduino/)
+* [أردوينو السهل](https://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/) - Abdallah Ali Abdallah (PDF) 
 * [كتاب احترف الأردوينو](http://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) (PDF)
 
 

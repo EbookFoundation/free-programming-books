@@ -24,29 +24,29 @@
 
 ### Arduino
 
-* [أردوينو السهل](http://librebooks.org/simply-arduino/)
-* [كتاب احترف الأردوينو](http://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) (PDF)
+* [احترف الأردوينو](https://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) - Working Group (PDF)
+* [أردوينو ببساطة](https://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/) - Abdallah Ali Abdallah (PDF)
 
 
 ### Artificial Intelligence
 
-* [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-%D9%85%D8%AF%D8%AE%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9/)
+* [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-%D9%85%D8%AF%D8%AE%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9/) - Mohamed Lahlah (PDF)
 
 
 ### C Sharp
 
-* [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy)
+* [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy) (PDF)
 
 
 ### HTML/CSS
 
-* [التحريك عبر CSS](https://academy.hsoub.com/files/14-التحريك-عبر-css/)
-* [نحو فهم أعمق لتقنيات HTML5](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/)
+* [التحريك عبر CSS](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat (PDF)
+* [نحو فهم أعمق لتقنيات HTML5](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash (PDF)
 
 
 ### Introduction to Programming in Arabic
 
-* [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (PDF)
+* [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen (PDF)
 
 
 ### JavaScript
@@ -57,10 +57,10 @@
 
 ### Linux
 
-* [الإدارة المتقدمة لجنو/لينكس ](http://librebooks.org/gnu-linux-advanced-administration/)
-* [أوبنتو السهل](http://librebooks.org/simply-ubuntu/)
-* [دفتر مدير دبيان](http://librebooks.org/debian-handbook-arabic/)
-* [دليل إدارة خواديم أوبنتو](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/)
+* [الإدارة المتقدمة لجنو/لينكس ](https://librebooks.org/gnu-linux-advanced-administration/) - Remo Suppi Boldrito, Josep Jorba Esteve, Abdel Rahim Ghaleb (PDF)
+* [أوبنتو ببساطة](https://www.simplyubuntu.com) - Ahmed AbouZaid (PDF)
+* [دفتر مدير دبيان](https://ar.debian-handbook.info) - Raphaël Hertzog, Roland Mas, MUHAMMET SAİT Muhammet Sait (PDF, HTML)
+* [دليل إدارة خواديم أوبنتو 14.04](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/) - Ubuntu documentation team, Abdullatif Eymash (PDF) 
 
 
 ### Open Source Software

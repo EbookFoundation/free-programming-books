@@ -51,6 +51,7 @@
 * [Principios de SQL](https://programadorwebvalencia.com/cursos/sql/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Crear funciones en SQL Server](https://mahonrim.github.io/FuctionswithSQLServer/) - Mahonri Martinez (Programador Web/Estudiante de IT)
 
+
 ### Big Data
 
 * [Big Data, el valor añadido de los datos de un negocio](https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio)

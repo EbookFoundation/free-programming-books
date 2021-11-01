@@ -32,7 +32,7 @@
 
 ### C
 
-* [Belajar C dari dasar](https://www.petanikode.com/c-untuk-pemula/) - Ahmad Muhardian
+* [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian (:construction: *in process*)
 
 
 ### C Sharp

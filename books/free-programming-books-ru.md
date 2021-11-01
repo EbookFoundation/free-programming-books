@@ -271,6 +271,7 @@
 
 * [Руководство по JUnit](http://proselyte.net/tutorials/junit) - Евгений Сулейманов
 * [JUnit 4](https://easyjava.ru/testirovanie/junit-2/)
+* [JUnit Учебник](https://coderlessons.com/tutorials/java-tekhnologii/vyuchit-junit/junit-uchebnik) - CoderLessons.com
 
 
 #### Maven
@@ -285,7 +286,9 @@
 * [Руководство по Spring](http://proselyte.net/tutorials/spring-tutorial-full-version) - Евгений Сулейманов
 * [Spring Framework](https://easyjava.ru/spring/)
 * [Spring MVC Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchis-spring-mvc/spring-mvc-tutorial) - CoderLessons.com
-
+* [Spring Core](https://sysout.ru/spring/spring-core/) - Sysout.ru
+* [Spring Data](https://sysout.ru/spring/spring-data/) - Sysout.ru
+* [Spring Security](https://sysout.ru/spring/spring-security/) - Sysout.ru
 
 ### JavaScript
 

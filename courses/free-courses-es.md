@@ -86,7 +86,8 @@
 ### Control de Versiones
 
 * [Git & GitHub](https://www.pildorasinformaticas.es/course/curso-de-git-github) - Juan Díaz (Píldoras Informáticas)
-* [Git & GitHub](https://www.youtube.com/watch?v=L_lWQZNhN7w&list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls) -  Ignacio Gutiérrez  (BlueWeb)
+* [Git & GitHub](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls)  - Ignacio Gutiérrez (BlueWeb)
+
 
 ### Flujos de Trabajo
 

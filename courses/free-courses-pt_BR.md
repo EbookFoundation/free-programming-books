@@ -7,7 +7,6 @@
 * [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)
-* [Deep Learning](#deep-learning)
 * [Delphi](#delphi)
 * [Flutter](#flutter)
 * [Git](#git)
@@ -86,11 +85,6 @@
 
 * [Curso de Modelagem de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD) - Bosón Treinamentos (YouTube)
 * [Introdução ao MySQL e phpMyAdmin](https://www.udemy.com/mysql-phpmyadmin/) - Fernando Carmo, Mestres BI (Udemy)
-
-
-### Deep Learning
-
-* [Curso Deep Learning](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB) - Deep Learning Brasil (Em português) (YouTube)
 
 
 ### Delphi
@@ -210,6 +204,7 @@
 
 ### Machine Learning
 
+* [Curso Deep Learning](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB) - Deep Learning Brasil (Em português) (YouTube)
 * [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr (Udemy)
 * [Neural Networks e Deep Learning para Leigos: Sem Mistérios!](https://www.udemy.com/course/neural-networks-e-deep-learnig-para-leigos/) - Fernando Amaral (Udemy)
 

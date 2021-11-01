@@ -1,6 +1,6 @@
 ### Index
 
-- [Technology](#technology)
+* [Technology](#technology)
 
 
 ### Technology

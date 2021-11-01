@@ -496,7 +496,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
 * [Elements of Programming](http://elementsofprogramming.com) - Alexander Stepanov and Paul McJones - (PDF)
 * [Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/recipes/) - Bernt Arne Ødegaard (PDF)
-* [Fundamentals of C++ Programming](https://ia800701.us.archive.org/34/items/2018FundamentalsOfCppProgramming/2018_fundamentals-of-cpp-programming.pdf) - Richard L. Halterman(PDF)
+* [Fundamentals of C++ Programming](https://ia800701.us.archive.org/34/items/2018FundamentalsOfCppProgramming/2018_fundamentals-of-cpp-programming.pdf) - Richard L. Halterman (PDF) *(:card_file_box: archived)*
 * [Game Programming Patterns](http://gameprogrammingpatterns.com)
 * [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Dr. Rian Quinn (Packt account *required*)

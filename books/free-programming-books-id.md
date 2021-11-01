@@ -30,6 +30,11 @@
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
 
 
+### C
+
+* [Belajar C dari dasar](https://www.petanikode.com/c-untuk-pemula/)
+
+
 ### C Sharp
 
 * [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/)
@@ -160,8 +165,3 @@
 ### Vue
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
-
-
-### C
-
-* [Belajar C dari dasar](https://www.petanikode.com/c-untuk-pemula/)

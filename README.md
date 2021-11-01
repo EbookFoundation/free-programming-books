@@ -67,7 +67,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [Tamil / தமிழ்](books/free-programming-books-ta.md)
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
-+ [Ukrainian / Українська](books/free-programming-books-ua.md)
++ [Ukrainian / Українська](books/free-programming-books-uk.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 
@@ -101,7 +101,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
-+ [Ukrainian / Українська](courses/free-courses-ua.md)
++ [Ukrainian / Українська](courses/free-courses-uk.md)
 + [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
 
 

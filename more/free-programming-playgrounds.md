@@ -35,6 +35,7 @@
 * [Rust](#rust)
 * [RxJS](#rxjs)
 * [Scala](#scala)
+* [Scratch](#scratch)
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Svelte](#svelte)
@@ -46,6 +47,8 @@
 
 ### <a name="c"></a>C
 
+* [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
+* [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/c)
 
 
@@ -133,6 +136,9 @@
 
 ### Java
 
+* [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
+* [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
 * [SoloLearn](https://code.sololearn.com/java)
 
@@ -209,6 +215,7 @@
 ### Python
 
 * [Codepad](http://codepad.org/?lang=Python)
+* [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
@@ -264,6 +271,11 @@
 
 * [ScalaFiddle.io](https://scalafiddle.io)
 * [Scastie](https://scastie.scala-lang.org)
+
+
+### Scratch
+
+* [Scratch.mit.edu](https://scratch.mit.edu/create)
 
 
 ### Solidity

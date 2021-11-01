@@ -24,7 +24,6 @@
 ### Bash
 
 * [Bash - Skrypty powłoki](https://www.youtube.com/playlist?list=PLh6V3IQZSBSbls0j9DdkCpbbqQsBUzh4-) - Piotr Kośka
-* [Kurs BASH](https://www.youtube.com/playlist?list=PLHYqnLVqlfpyHMKNUkkdFQfueRcsssEj0)
 
 
 ### Brainfuck
@@ -79,6 +78,11 @@
 * [Kurs JavaScript](https://www.youtube.com/playlist?list=PLGjoxB-1BV8IKoG_fb934nZXSVi_v-4yg) - Jakub Jurkian
 * [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC) - Mirosław Zelent, Damian Stelmach
 * [Programowanie w JavaScript od podstaw w 1 miesiąc](https://www.youtube.com/playlist?list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS)
+
+
+#### Vue
+
+* [FrontAndBack.pl - Kurs Vue w praktyce](https://frontandback.pl/tags/kurs-vue-w-praktyce/)
 
 
 ### MySQL

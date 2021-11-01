@@ -216,6 +216,7 @@
 ### Networking
 
 * [Curso de IPv6 Básico a Distância](http://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about) - NIC.br
+* [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) - Curso em vídeo (YouTube)
 
 
 ### Node.js

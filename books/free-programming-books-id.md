@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
@@ -160,5 +161,8 @@
 
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
 
+
 ### C
+
+
 * [Belajar C dari dasar](https://www.petanikode.com/c-untuk-pemula/)

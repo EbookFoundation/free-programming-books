@@ -1,4 +1,4 @@
-*Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 
 ## Contributor License Agreement
 By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) of this repository.
@@ -45,6 +45,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - if the book is older, include the publication date with the title.
 - include the author name or names where appropriate. You can shorten author lists with "et al."
 - if the book is not finished, and is still being worked on, add the "in process" notation, as described [below.](#in_process)
+- if a resource is restored using the Internet Archive's Wayback Machine (or similar), add the "archived" notation, as described [below](#archived). The best versions to use are recent and complete.
 - if an email address or account setup is requested before download is enabled, add language-appropriate notes in parentheses, e.g.: `(email address *requested*, not required)`
 
 ### Formatting
@@ -119,6 +120,13 @@ GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
 GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
 ```
 
+<a name="archived"></a>
+- Archived link:
+
+```
+GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+```
+
 ### Notes
 
 While the basics are relatively simple, there is a great diversity in the resources we list. Here are some notes on how we deal with this diversity.
@@ -130,7 +138,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 ##### Titles
 
 - No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
-- No ALLCAPS titles. Usually title case is appropriate, but when doubt use the captitalization from the source
+- No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
 
 ##### URLs
 
@@ -145,7 +153,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 - We want to credit the creators of free resources where appropriate, including translators!
 - For translated works the original author should be credited.
 - We do not permit links for Creators.
-- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" books are credited as "Compiled from StackOverflow documentation"
+- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "Compiled from StackOverflow documentation"
 
 ##### Platforms and Access Notes
 
@@ -213,4 +221,4 @@ check_urls=free-programming-books.md free-programming-books-en.md
 ```
 
 - You may specify more than one file to check, using a single space to separate each entry.
-- If you specify more than one file, results of the build is based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the pull request by clicking on "Show all checks" -> "Details".
+- If you specify more than one file, results of the build are based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the pull request by clicking on "Show all checks" -> "Details".

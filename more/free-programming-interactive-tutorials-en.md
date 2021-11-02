@@ -37,10 +37,12 @@
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [R](#r)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
 * [Selenium](#selenium)
+* [Solidity](#solidity)
 * [SQL](#sql)
 * [Vim](#vim)
 
@@ -131,6 +133,7 @@
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
+* [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3) - Wei Wang
 
 
 ### GLSL
@@ -165,12 +168,14 @@
 * [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
 * [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
+* [Learn CSS: an evergreen CSS course and reference to level up your styling expertise](https://web.dev/learn/css/) - Andy Bell, Rachel Andrew, Una Kravets, Adam Argyle, Rob Dodson, Jiwoong Lee et al. (web.dev)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
 
 #### Bootstrap
 
+* [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools
 * [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
 * [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
@@ -215,12 +220,14 @@
 #### jQuery
 
 * [Front End Libraries: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery)
+* [jQuery Tutorial](https://www.w3schools.com/jquery/) - W3Schools
 
 
 #### React
 
 * [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
 * [React Tutorial](https://react-tutorial.app)
+* [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 
 
 ### Kotlin
@@ -242,6 +249,7 @@
 #### Operating systems
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Dr. Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 
 ### LaTeX
@@ -314,6 +322,12 @@
 * [R Tutorial](https://www.w3schools.com/r) - W3Schools
 
 
+### Regular Expressions
+
+* [Regex Crossword](https://regexcrossword.com) - Ole Michelsen, Maria Hagsten Michelsen
+* [RegExp Playground](https://projects.verou.me/regexplained) - Lea Verou
+
+
 ### Ruby
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
@@ -337,6 +351,11 @@
 ### Selenium
 
 * [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
+
+
+### Solidity
+
+* [CryptoZombies.io](https://cryptozombies.io) - Loom Network
 
 
 ### SQL

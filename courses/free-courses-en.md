@@ -227,8 +227,8 @@
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
 * [C# Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (Youtube)
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
-* [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
-* [C# Tutorial For Beginners](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Programming with Mosh (Youtube)
+* [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani, Programming with Mosh (YouTube)
+* [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
 
 
 <h3 id="cpp">C++</h3>

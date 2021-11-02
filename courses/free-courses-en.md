@@ -177,7 +177,7 @@
 ### AutoIt
 
 * [AutoIt Scripting Tutorial](https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z) - TutsTeach (YouTube)
-* [AutoIt Turtorial](https://www.youtube.com/watch?v=82ifMPijghw&list=PL1DCD109B801D0DE6) - 403forbidden403 (Youtube)
+* [AutoIt Tutorials](https://www.youtube.com/playlist?list=PL1DCD109B801D0DE6) - 403forbidden403 (YouTube)
 
 
 ### Bash / Shell

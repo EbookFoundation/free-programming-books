@@ -209,7 +209,7 @@
 * [Introduction to Bootstrap - A Tutorial](https://www.classcentral.com/course/edx-introduction-to-bootstrap-a-tutorial-3338) - Microsoft via edX (Class Central)
 * [Learn Bootstrap 4 for free](https://scrimba.com/learn/bootstrap4) - Neil Rowe (Scrimba)
 * [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
-* [Learn Bootstrap 5](https://www.youtube.com/watch?v=iJKCj8uAHz8) - freeCodeCamp (Youtube)
+* [Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course](https://www.youtube.com/watch?v=iJKCj8uAHz8) - Patrick Muriungi, freeCodeCamp (YouTube)
 * [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
 
 

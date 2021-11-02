@@ -9,6 +9,7 @@
 * [Python](#python)
 * [Rust](#rust)
 * [Spieleentwicklung](#spieleentwicklung)
+* [TypeScript](#typescript)
 
 
 <h3 id="cpp">C++</h3>
@@ -34,6 +35,7 @@
 
 ### JavaScript
 
+* [JavaScript lernen für Anfänger](https://www.javascript-kurs.de) - JavaScript Kurs
 * [JavaScript Lernen für Anfänger bis Profis](https://www.youtube.com/playlist?list=PLNmsVeXQZj7qOfMI2ZNk-LXUAiXKrwDIi) - The Morpheus Tutorials
 
 
@@ -59,3 +61,9 @@
 ### Spieleentwicklung
 
 * [Unreal Engine 4 Tutorial Deutsch/German](https://www.youtube.com/playlist?list=PLNmsVeXQZj7olLCliQ05e6hvEOl6sbBgv) - The Morpheus Tutorials
+
+
+### TypeScript
+
+* [Erstellen von Javascript-Anwendung mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
+* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk) - Golo Roden

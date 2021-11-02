@@ -36,42 +36,45 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+* [R](#r)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
 * [Selenium](#selenium)
+* [Solidity](#solidity)
 * [SQL](#sql)
 * [Vim](#vim)
 
 
 ### Ada
 
-* [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+* [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Adacore
 
 
 ### Android
 
 * [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
-* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial)
+* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
 
 
 ### Bash
 
-* [Help messages will explain everything](https://explainshell.com)
-* [Learn Shell Programming](http://www.learnshell.org)
+* [Help messages will explain everything](https://explainshell.com) - explainshell
+* [Learn Shell Programming](http://www.learnshell.org) - learnshell
 
 
 ### C
 
-* [Learn C](http://www.learn-c.org)
+* [Learn C](http://www.learn-c.org) - Learn-C
 
 
 ### C Sharp
 
 * [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
-* [Codeasy](https://codeasy.net/course/csharp_elementary)
-* [Learn C#](http://www.learncs.org)
+* [Codeasy](https://codeasy.net/course/csharp_elementary) - codeasy
+* [Learn C#](http://www.learncs.org) - learnCS
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
@@ -84,7 +87,7 @@
 ### Clojure
 
 * [4Clojure - Koans](http://www.4clojure.com)
-* [Clojure Koans](http://clojurekoans.com)
+* [Clojure Koans](http://clojurekoans.com) - Clojure Koans
 * [ClojureScript Koans](http://clojurescriptkoans.com)
 * [Try Clojure](http://www.tryclj.com)
 
@@ -106,11 +109,12 @@
 
 ### Dart
 
-* [Dart Official Codelabs](https://dart.dev/codelabs)
+* [Dart Official Codelabs](https://dart.dev/codelabs) - Dart
 
 
 ### Data Science
 
+* [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) -KDnuggets
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
@@ -124,10 +128,12 @@
 
 * [git-game](https://github.com/git-game/git-game)
 * [git-game-v2](https://github.com/git-game/git-game-v2)
+* [Git Tutorial](https://www.w3schools.com/git/) - W3Schools
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
+* [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3) - Wei Wang
 
 
 ### GLSL
@@ -138,6 +144,8 @@
 ### Go
 
 * [Go Koans](https://github.com/cdarwin/go-koans)
+* [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
+* [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
 
@@ -160,12 +168,14 @@
 * [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
 * [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
+* [Learn CSS: an evergreen CSS course and reference to level up your styling expertise](https://web.dev/learn/css/) - Andy Bell, Rachel Andrew, Una Kravets, Adam Argyle, Rob Dodson, Jiwoong Lee et al. (web.dev)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 
 
 #### Bootstrap
 
+* [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools
 * [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
 * [Front End Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap)
 
@@ -210,17 +220,21 @@
 #### jQuery
 
 * [Front End Libraries: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery)
+* [jQuery Tutorial](https://www.w3schools.com/jquery/) - W3Schools
 
 
 #### React
 
 * [Front End Libraries: React](https://www.freecodecamp.org/learn/front-end-libraries/react)
 * [React Tutorial](https://react-tutorial.app)
+* [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 
 
 ### Kotlin
 
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
+* [Kotlin Tutorial](https://www.w3schools.com/kotlin/) - W3Schools
+* [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Galina Podstrechnaya, Alex DiStasi (Codecademy) *(account required)*
 
 
 ### Language Agnostic
@@ -235,6 +249,7 @@
 #### Operating systems
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Dr. Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 
 ### LaTeX
@@ -301,6 +316,18 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 
 
+### R
+
+* [Learn R](https://www.codecademy.com/learn/learn-r) - Codecademy *(account required)*
+* [R Tutorial](https://www.w3schools.com/r) - W3Schools
+
+
+### Regular Expressions
+
+* [Regex Crossword](https://regexcrossword.com) - Ole Michelsen, Maria Hagsten Michelsen
+* [RegExp Playground](https://projects.verou.me/regexplained) - Lea Verou
+
+
 ### Ruby
 
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
@@ -326,11 +353,17 @@
 * [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
 
 
+### Solidity
+
+* [CryptoZombies.io](https://cryptozombies.io) - Loom Network
+
+
 ### SQL
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
+* [SQL Teaching](https://www.sqlteaching.com)
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQLBolt](http://sqlbolt.com)
 

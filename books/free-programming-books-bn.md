@@ -9,6 +9,7 @@
 * [Competitive Programming](#competitive-programming)
 * [CSS](#css)
 * [Dart](#dart)
+* [Flutter](#flutter)
 * [Git](#git)
 * [HTML](#html)
 * [Java](#java)
@@ -17,6 +18,7 @@
 * [Kotlin](#kotlin)
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)
+* [MySQL](#mysql)
 * [NodeJS](#nodejs)
 * [OOP](#oop)
 * [PHP](#php)
@@ -33,6 +35,7 @@
 * [Android Firebase Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oDurEmECb5U_BZ1hrLaHx-) - Anisul Islam
 * [Android SQLite Database Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oJBRutwsFgUKrKJCjv9K3p) - Anisul Islam
 * [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam
+* [Java, OOP & Android tutorials for beginners in Bengali](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH) - Zulkarnine Mahmud
 
 
 ### Bootstrap
@@ -77,6 +80,12 @@
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
 
 
+### Flutter
+
+* [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy) - Techno BD XYZ
+* [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p) - Soykot Hosen
+
+
 ### Git
 
 * [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s) - Learn with Sumit
@@ -93,6 +102,7 @@
 
 * [Java Bangla Tutorials | CORE Java | Complete OOP](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa) - Anisul Islam
 * [Java Swing Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l) - Anisul Islam
+* [জাভা প্রোগ্রামিং](http://java.howtocode.dev) - Bazlur Rahman, et al. (howtocode.dev) (gitbook)
 
 
 ### JavaScript
@@ -105,6 +115,9 @@
 * [JavaScript Full Playlist With Order](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAJTV_1ZXwB1XIiFkK0ddZA) - Stack Learner
 * [Make Fun of JavaScript Array](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDr08QgQHljCecWtA4jBLnS) - Stack Learner
 * [হাতেকলমে জাভাস্ক্রিপ্ট](https://zonayed.js.org) - Zonayed Ahmed
+* [JS Bangla Tutorial Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) - Learn with Sumit
+* [Modern JavaScript ES6 Bangla Tutorial](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG) - Learn with Sumit
+* [Play with DOM - Bangla](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_) - Learn with Sumit
 
 
 ### jQuery
@@ -142,6 +155,14 @@
 * [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
 
 
+### MySQL
+
+* [Bangla MySQL Database Tutorials](https://www.youtube.com/playlist?list=PLTydW-y9HsbQ2ztoaLBJTd4wwjc_oqWx4) - Delowar Jahan Imran, Training with Live Project (YouTube)
+* [mysql bangla tutorial \| Mysql Database \| HSC,CSE, Anyone](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99) - Sohidul Islam, Learn Hunter (YouTube)
+* [MySql Database Bangla Tutorial Beginner to Advanced](https://www.youtube.com/playlist?list=PLH246IZCIBeA4h1R6fdgK06kj9lMb3joi) - Shoaib Hossain, Soft-All (YouTube)
+* [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD) - Anisul Islam (YouTube)
+
+
 ### PHP
 
 * [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
@@ -161,6 +182,7 @@
 * [React - Redux Complete Course](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAvcGzTEAyPSOqgUQA08rNB) - Stack Learner
 * [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 * [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
+* [React JS Tutorial Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) - Learn with Sumit
 
 
 ### Svelte

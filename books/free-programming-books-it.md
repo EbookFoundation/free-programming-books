@@ -17,6 +17,7 @@
   * [NoSQL](#nosql)
   * [Relazionali](#relazionali)
   * [SQL](#sql)
+* [Git](#git)
 * [Golang](#golang)
 * [HTML](#html)
 * [Java](#java)
@@ -79,6 +80,7 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+* [Reverse Engineering per Principianti](https://beginners.re/RE4B-IT.pdf) - Dennis Yurichev, Federico Ramondino, Paolo Stivanin, Fabrizio Bertone, Matteo Sticco, Marco Negro et al. (PDF)
 
 
 ### BASH
@@ -117,6 +119,11 @@
 * [La progettazione dei database relazionali](http://www.crescenziogallo.it/unifg/medicina/TSRM/master_bioimmagini/db/Teoria_pratica_progettazione_db_relazionali.pdf) - C. Gallo (PDF)
 * [Manuale pratico di disegno e progettazione dei database](http://www.brunasti.eu/unimib/bdsi/manuale-pratico-progettazione-ER-100914.pdf) - P. Brunasti (PDF)
 * [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) (HTML)
+
+
+#### Git
+
+* [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 #### NoSQL

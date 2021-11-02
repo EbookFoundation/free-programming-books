@@ -1,4 +1,4 @@
-*Lea esto en otros idiomas: [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*Lea esto en otros idiomas: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md).*
 
 <a name="contributor-license-agreement"></a>
 ## Acuerdo de Licencia
@@ -22,13 +22,13 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repo
 
     - *Libros* : PDF, HTML, ePub, un recurso alojado en gitbook.io, un repositorio Git, etc.
     - *Cursos* : Un curso es aquel material de aprendizaje que no es un libro. [Esto es un curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Tutoriales interactivos* : Un sitio web se considera interactivo si permite al usuario escribir código o comandos y evaluar su resultado ("evaluar" no significa "obtener una calificación"). Por ejemplo: [Pruebe Haskell](http://tryhaskell.org), [Pruebe Github](http://try.github.io).
+    - *Tutoriales interactivos* : Un sitio web se considera interactivo si permite al usuario escribir código o comandos y evaluar su resultado ("evaluar" no significa "obtener una calificación"). Por ejemplo: [Pruebe Haskell](http://tryhaskell.org), [Pruebe GitHub](http://try.github.io).
     - *Podcasts y Screencasts* : Son aquellas retransmisiones grabadas ya sea en audio y/o en vídeo, respectivamente.
     - *Conjuntos de problemas & Programación competitiva* : Se trata de un sitio web o software que le permita evaluar sus habilidades de programación resolviendo problemas simples o complejos, con o sin revisión de código, con o sin comparar los resultados con otros usuarios.
 
 4. Asegúrese de seguir la [guía de pautas que mostramos a continuación][guidelines] así como de respetar el [formato Markdown][formatting] de los ficheros.
 
-5. Github Actions ejecutará pruebas para asegurarse de que las listas esten ordenadas alfabéticamente y de que se siga dicha normalización de formateo. Asegúrese de verificar que sus cambios pasen todas estas comprobaciones de calidad.
+5. GitHub Actions ejecutará pruebas para asegurarse de que las listas esten ordenadas alfabéticamente y de que se siga dicha normalización de formateo. Asegúrese de verificar que sus cambios pasen todas estas comprobaciones de calidad.
 
 
 <a name="guidelines"></a>
@@ -56,6 +56,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repo
 - Si se trata de un libro más antiguo, incluya su fecha de publicación dentro del título.
 - Incluya el nombre o nombres de autor/es cuando corresponda. Puede valerse de "`et al.`" para acortar esa enumeración de autores.
 - Si el libro no está terminado y aún se está trabajando en él, agregue la anotación de "`en proceso`", tal y como se describe [a continuación][in_process].
+- En el caso de que decida recuperar un recurso usando servicios como [*Internet Archive's Wayback Machine*](https://web.archive.org), anexe la anotación "`archived`" (en consonancia con el idioma) tal y como se describe [a continuación][archived]. Use como mejor versión aquella que sea la más reciente y completa.
 - Si se solicita una dirección de correo electrónico o configuración de cuenta antes de habilitar la descarga, agregue entre paréntesis dichas notas y en consonancia con el idioma. Por ejemplo: `(*se solicita* email, no requerido...)`.
 
 
@@ -133,6 +134,13 @@ Ejemplo:
    CORRECTO: * [A punto de ser un libro fascinante](http://example.com/book2.html) - John Doe (HTML) (:construction: *en proceso*)
    ```
 
+<a name="archived"></a>
+- Enlaces archivados:
+
+   ```
+   CORRECTO: * [Un recurso recuperado a partir de su línea de tiempo](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archivado)*
+   ```
+
 
 <a name="notes"></a>
 ### Anotaciones
@@ -165,7 +173,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 - Queremos dar crédito a los creadores de recursos gratuitos cuando sea apropiado, ¡incluso traductores!
 - En el caso de obras traducidas, se debe acreditar también al autor original.
 - No permitimos enlaces directos al creador.
-- En el caso de recopilaciones u obras remezcladas, el "creador" puede necesitar una descripción. Por ejemplo, los libros de "GoalKicker" se acreditan como "Creado a partir de la documentación de StackOverflow".
+- En el caso de recopilaciones u obras remezcladas, el "creador" puede necesitar una descripción. Por ejemplo, los libros de "GoalKicker" o "RIP Tutorial" se acreditan como "`Creado a partir de la documentación de StackOverflow`" (en inglés: "`Compiled from StackOverflow documentation`").
 
 <a name="platforms-and-access-notes"></a>
 ##### Plataformas y Notas de Acceso
@@ -191,7 +199,7 @@ Ya que en Internet podemos encontrar una variedad infinita de recursos, no inclu
 - Sitios web (excepto aquellos que alberguen MUCHOS elementos que podamos incluir en los listados).
 - vídeos que no sean cursos o screencasts (retrasmisiones)
 - capítulos sueltos a libros
-- muestras o introducciones de books
+- muestras o introducciones de libros
 - Canales/grupos de IRC, Telegram...
 - Canales/salas de Slack... o listas de correo
 
@@ -228,7 +236,7 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 <a name="automation"></a>
 ### Automatización
 
-- El cumplimiento de las reglas de formateado se automatiza vía [Github Actions](https://docs.github.com/en/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (ver [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
+- El cumplimiento de las reglas de formateado se automatiza vía [GitHub Actions](https://docs.github.com/en/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (ver [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
 - La validación de URLs se realiza mediante [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Para activar esta validación de URL, envíe un commit que incluya como mensaje de confirmación `check_urls=fichero_a_comprobar`:
 
@@ -246,5 +254,6 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 [formatting]: #formato-normalizado
 [guidelines]: #pautas
 [in_process]: #in_process
+[archived]: #archived
 [markdown_guide]: https://guides.github.com/features/mastering-markdown/
 [programming_playgrounds_list]: (https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds.md)

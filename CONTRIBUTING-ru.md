@@ -1,4 +1,4 @@
-*Доступно на других языках: [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md).*
+*Доступно на других языках: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md).*
 
 <a name="contributor-license-agreement"></a>
 ## Лицензионное соглашение с участником
@@ -27,12 +27,12 @@
 4. Обязательно следуйте [Руководству, приведённому ниже](#guidelines) и соблюдайте [Markdown форматирование](#formatting) файлов.
 
 5. GitHub Actions запустит тесты, чтобы убедиться, что ваши списки отсортированы по алфавиту и соблюдаются правила форматирования. Обязательно проверьте, чтобы ваши изменения прошли проверку.
-6. 
+
 <a name="guidelines"></a>
 ### Руководство
 
 - Убедитесь что книга бесплатна. При необходимости проверьте еще раз. Администраторам помогает, если вы описываете в PR, почему вы думаете, что книга бесплатная.
-- Мы не принимаем файлы, размещенные на google drive, dropbox, mega, scribd, issuu и других подобных платформах для загрузки файлов.
+- Мы не принимаем файлы, размещенные на Google Drive, Dropbox, Mega, Scribd, Issuu и других подобных платформах для загрузки файлов.
 - Вставляйте ссылки в алфавитном порядке. Если вы видите ссылку нарушающую порядок, измените ее порядок и отправьте PR
 - Используйте ссылку с наиболее авторитетным источником (то есть сайт автора лучше, чем сайт редактора, что лучше, чем сторонний сайт)
     + не с файловых хостингов (включая (но не ограничиваясь) ссылками на Dropbox и Google Drive)

@@ -96,6 +96,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
+* [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures (Into Java) - Paul N. Hilfinger](http://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) (PDF)
@@ -222,6 +223,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### Containers
 
+* [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
+* [CI/CD with Docker and Kubernetes Book](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
@@ -571,6 +574,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Kafka gentle introduction](https://www.gentlydownthe.stream) - Mitch Seymour
 * [Kafka, The definitive Guide](https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf) - Neha Narkhede (PDF)
 * [Network Science](http://networksciencebook.com) - Albert-Laszló Barabási
+* [Securing Wireless Networks for the Home User Guide](https://mohamedation.github.io/securing-wifi/index-en.html) - Mohamed Adel (HTML)
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)

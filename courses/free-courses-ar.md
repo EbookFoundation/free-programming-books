@@ -5,7 +5,7 @@
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C Sharp](#c-sharp)
-* [Clean Code](#clean-code)
+* [Computer Architecture](#computer-architecture)
 * [Dart](#dart)
 * [Databases](#databases)
   * [NoSQL](#nosql)
@@ -23,11 +23,14 @@
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
 * [.NET](#net)
+* [Operating Systems](#operating-systems)
 * [PHP](#php)
+* [Prolog](#prolog)
 * [Python](#python)
   * [Django](#django)
   * [Flask](#flask)
 * [R](#r)
+* [Software Architecture](#software-architecture)
 * [TypeScript](#typescript)
   * [Angular](#angular)
 
@@ -85,10 +88,9 @@
 * [Programming 2 - Object Oriented Programming with C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU) - محمد الدسوقي
 
 
-### Clean Code
+### Computer Architecture
 
-* [Clean Code Book - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX) - Omar Ahmed
-* [Declarative Programming](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f) - درة الاكواد لابن حماد
+* [Computer Architecture - تنظيم وبناء الحاسب](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVEVWSiBdCoBEJHffjHUScZ) - Ahmed Sallam
 
 
 ### Dart
@@ -120,7 +122,10 @@
 
 ### Flutter
 
+* [Advanced Flutter Tutorial - build E commerce App](https://www.youtube.com/playlist?list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe) - Scholar Tech (:construction: *in process*)
 * [Flutter بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan
+* [Flutter BLoC - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB) - Omar Ahmed
+* [Mastering Firebase And Flutter version 2 (2021) - Course - project -فلاتر- مشروع - دورة - فايربيز - شرح - احتراف - كورس](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) - Wael Abu hamza
 
 
 ### Game Development
@@ -235,10 +240,20 @@ Emam Academy
 * [ASP.NET Web REST API](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1X4QNF5wslJD6T96Owkg2t) - Khalid ESSAADANI
 
 
+### Operating Systems
+
+* [Operating Systems - نظم التشغيل](https://www.youtube.com/playlist?list=PLMm8EjqH1EFV-jECqtMxeVMDoVkV_kJDY) - Ahmed Sallam
+
+
 ### PHP
 
 * [Arabic PHP](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) - Elzero Web School
 * [Learn Object Oriented PHP](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ) - Elzero Web School
+
+
+### Prolog
+
+* [Logic Programming - Prolog - برمجة منطقية](https://www.youtube.com/playlist?list=PLMm8EjqH1EFW9Faldu6D6Uh2j1EWWaTYe) - Ahmed Sallam
 
 
 ### Python
@@ -264,6 +279,16 @@ Emam Academy
 ### R
 
 * [R Tutorial For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LKTMW3wrlT3GiFMCL_r_Sn) - محمد الدسوقي
+
+
+### Software Architecture
+
+* [Clean Code Book - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX) - Omar Ahmed
+* [Creational Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ) - Mohammed Reda
+* [Declarative Programming](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f) - درة الاكواد لابن حماد
+* [SOLID Principles بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda
+* [SOLID Principles بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV) - Omar Ahmed
+* [Structural Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm) - Mohammed Reda
 
 
 ### TypeScript

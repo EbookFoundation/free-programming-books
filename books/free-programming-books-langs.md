@@ -398,7 +398,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org) - Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
 * [A beginner's guide to Gambas](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
 * [Pick/Basic: A Programmer's Guide](http://www.jes.com/pb/) - Jonathan E. Sisk
-* [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 
 
 ### BeanShell
@@ -427,7 +426,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) - B. Hall (HTML)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
-* [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)
+* [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch
 * [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
 * [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/)
@@ -461,7 +460,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### C Sharp
 
-* [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
 * [C# Notes for Professionals](http://goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (PDF)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
 * [C# Programming Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)
@@ -496,6 +494,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
 * [Elements of Programming](http://elementsofprogramming.com) - Alexander Stepanov and Paul McJones - (PDF)
 * [Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/recipes/) - Bernt Arne Ødegaard (PDF)
+* [Fundamentals of C++ Programming](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) - Richard L. Halterman (PDF) *(:card_file_box: archived)*
 * [Game Programming Patterns](http://gameprogrammingpatterns.com)
 * [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Dr. Rian Quinn (Packt account *required*)
@@ -506,6 +505,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [LearnCpp.com](https://www.learncpp.com) (HTML)
 * [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
+* [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Sumant Tambe and others, WikiBooks
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
 * [Programming Fundamentals - A Modular Structured Approach using C++](https://learning.hccs.edu/faculty/ken.busbee/programming-fundamentals-a-modular-structured-approach-using-c) - Kenneth Leroy Busbee (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
@@ -569,8 +569,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io)
 * [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite  *(Leanpub account or valid email requested)*
+* [Hard Rock CoffeeScript](https://alchaplinsky.github.io/hard-rock-coffeescript/) - Alex Chaplinsky (gitbook)
 * [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html)
-* [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
+* [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/) - Alex MacCaw, David Griffiths, Satoshi Murakami, Jeremy Ashkenas
 
 
 ### ColdFusion
@@ -662,6 +663,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Ecto
 
 * [Ecto Getting Started Guide](https://hexdocs.pm/ecto/getting-started.html#content) (HTML)
+* [The Little Ecto Cookbook](https://dashbit.co/ebooks/the-little-ecto-cookbook) - José Valim, Dashbit (PDF) (email address *required*)
 
 
 #### Phoenix
@@ -724,6 +726,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Flutter
 
 * [Cookbook](https://flutter.dev/docs/cookbook)
+* [Flutter in Action](https://livebook.manning.com/book/flutter-in-action/welcome/v-9/) Eric Windmill 
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Flutter Tutorial](https://www.tutorialspoint.com/flutter) - Tutorials Point
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)
@@ -972,7 +975,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### iOS
 
 * [Cocoa Dev Central](http://cocoadevcentral.com)
-* [iOS 8 App Development Essentials](http://www.techotopia.com/index.php/IOS_8_App_Development_Essentials)
 * [iOS Developer Notes for Professionals](https://goalkicker.com/iOSBook/) - Compiled from StackOverflow Documentation (PDF)
 * [iOS Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) (email address *requested*, not required)
 * [NSHipster](http://nshipster.com/#archive) (Resource)
@@ -1411,13 +1413,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Automated Linux From Scratch](http://www.linuxfromscratch.org/alfs/download.html)
 * [Getting Started with Ubuntu](http://ubuntu-manual.org)
 * [GNU Autoconf, Automake and Libtool](http://www.sourceware.org/autobook/download.html)
-* [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/)
 * [Hardened Linux From Scratch](http://www.linuxfromscratch.org/hlfs/download.html)
 * [Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition](https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition) - Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali (Packt account *required*)
 * [Kali Linux: Professional Penetration-Testing Distribution](http://docs.kali.org)
 * [Learning Debian GNU/Linux](http://www.oreilly.com/openbook/debian/book/index.html)
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
-* [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
 * [Linux Appliance Design: A Hands-On Guide to Building Linux Appliances](http://librta.org/book.html) - Bob Smith, John Hardin, Graham Phillips, Bill Pierce (PDF, EPUB, MOBI)
 * [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) - Compiled from StackOverflow documentation (PDF)
@@ -1427,9 +1427,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html)
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
-* [Linux Security for Beginners](http://www.linuxtopia.org/LinuxSecurity/index.html)
 * [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) (email address *requested*, not required)
-* [Red Hat Enterprise Linux 6 Essentials](http://www.techotopia.com/index.php/Red_Hat_Enterprise_Linux_6_Essentials)
 * [Secure Programming HOWTO - Creating Secure Software](http://www.dwheeler.com/secure-programs/) - D. A. Wheeler (HTML, PDF)
 * [Ten Steps to Linux Survival: Bash for Windows People](http://dullroar.com/book/TenStepsToLinuxSurvival.html) - Jim Lehmer
 * [The Debian Administrator's Handbook](https://debian-handbook.info)
@@ -1560,7 +1558,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### MySQL
 
 * [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
-* [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 * [MySQL Notes for Professionals](https://goalkicker.com/MySQLBook/) - Compiled from StackOverflow Documentation (PDF)
 
 
@@ -1845,6 +1842,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
 * [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
 * [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
+* [A Practical Introduction to Python Programming](https://www.brianheinold.net/python/) - Brian Heinold (HTML, PDF, Exercises sources)
 * [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) - Jake VanderPlas (PDF) [(EPUB, MOBI)](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp?download=yes)
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - Harry J.W. Percival & Bob Gregory (HTML)
 * [Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/2e/chapter0/) - Al Sweigart (3.8)
@@ -1939,7 +1937,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
 * [Slither into Python: An introduction to Python for beginners](https://web.archive.org/web/20210411065902/https://www.slitherintopython.com/) (3.7) *(:card_file_box: archived)*
 * [Supporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
-* [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Harry Percival (3.3 - 3.x)
+* [Test-Driven Web Development with Python: Obey the Testing Goat! using Django, Selenium and Javascript](http://www.obeythetestinggoat.com/pages/book.html) - Harry J.W. Percival (HTML) *(3.3 - 3.x)*
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
 * [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) - Al Sweigart
 * [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
@@ -2013,6 +2011,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) -David M. Smith and William N. Venables
 * [An Introduction to Statistical Learning with Applications in R](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (PDF)
+* [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) - Yihui Xie, Amber Thomas, Alison Presmanes Hill 
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - Rafael A. Irizarry
 * [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences) - Rafael A Irizarry, Michael I Love *(Leanpub account or valid email requested)*
@@ -2089,14 +2088,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Practicing Ruby](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts)
 * [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
 * [Ruby Best Practices](https://github.com/practicingruby/rbp-book/tree/gh-pages/pdfs) - Gregory Brown (PDF)
-* [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials)
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 * [Ruby Koans](http://www.rubykoans.com)
 * [Ruby Learning](http://rubylearning.com)
 * [Ruby Notes for Professionals](https://goalkicker.com/RubyBook/) - Compiled from StackOverflow Documentation (PDF)
 * [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/) - Sundeep Agarwal
-* [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
 * [Ruby Style Guide](https://github.com/airbnb/ruby) - Airbnb
 * [Ruby User's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/index.html)
 * [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
@@ -2452,7 +2449,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Visual Basic
 
 * [Visual Basic .NET Notes for Professionals](https://goalkicker.com/VisualBasic_NETBook/) - Compiled from StackOverflow Documentation (PDF)
-* [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 * [Visual Basic Official Docs](https://docs.microsoft.com/en-us/dotnet/visual-basic)
 
 

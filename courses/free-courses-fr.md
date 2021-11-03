@@ -4,6 +4,7 @@
 * [Bash / Shell](#bash--shell)
 * [C](#c)
 * [C#](#c-sharp)
+* [C++](#cpp)
 * [Git](#git)
 * [HTML / CSS](#html--css)
 * [Java](#java)

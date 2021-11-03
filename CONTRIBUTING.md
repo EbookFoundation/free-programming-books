@@ -1,4 +1,4 @@
-_Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-kr.md)._
+*Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Filipino](CONTRIBUTING-fil.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-ko.md).*
 
 ## Contributor License Agreement
 
@@ -10,41 +10,40 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 
 ## In a nutshell
 
-1. "A link to easily download a book" is not always a link to a _free_ book. Please only contribute free content. Make sure it's free. We do not accept links to pages that _require_ working email addresses to obtain books, but we welcome listings that request them.
-2. You don't have to know Git: if you found something of interest which is _not already in this repo_, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
-   - If you know Git, please Fork the repo and send pull requests.
-3. We have 5 kinds of lists. Choose the right one:
+- 1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free. We do not accept links to pages that *require* working email addresses to obtain books, but we welcome listings that request them.
+- 2. You don't have to know Git: if you found something of interest which is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
+  - If you know Git, please Fork the repo and send pull requests.
+- 3. We have 5 kinds of lists. Choose the right one:
 
-   - _Books_ : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
-   - _Courses_ : A course is a learning material which is not a book. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-   - _Interactive Tutorials_ : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
-   - _Podcasts and Screencasts_ : Podcasts and screencasts.
-   - _Problem Sets & Competitive Programming_ : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
+   - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
+   - *Courses* : A course is a learning material which is not a book. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
+   - *Interactive Tutorials* : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
+   - *Podcasts and Screencasts* : Podcasts and screencasts.
+   - *Problem Sets & Competitive Programming* : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
 
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files.
 
 5. GitHub Actions will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
 
 ### Guidelines
-
 - make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
 - we don't accept files hosted on Google Drive, Dropbox, Mega, Scribd, Issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning the author's website is better than the editor's website, which is better than a third party website)
-  - no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)
+  + no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)
 - always prefer a `https` link over a `http` one -- as long as they are on the same domain and serve the same content
 - on root domains, strip the trailing slash: `http://example.com` instead of `http://example.com/`
 - always prefer the shortest link: `http://example.com/dir/` is better than `http://example.com/dir/index.html`
-  - no URL shortener links
+  + no URL shortener links
 - usually prefer the "current" link over the "version" one: `http://example.com/dir/book/current/` is better than `http://example.com/dir/book/v1.0.0/index.html`
 - if a link has an expired certificate/self-signed certificate/SSL issue of any other kind:
-  1. _replace it_ with its `http` counterpart if possible (because accepting exceptions can be complicated on mobile devices).
-  2. _leave it_ if no `http` version is available but the link is still accessible through `https` by adding an exception to the browser or ignoring the warning.
-  3. _remove it_ otherwise.
+  1. *replace it* with its `http` counterpart if possible (because accepting exceptions can be complicated on mobile devices).
+  2. *leave it* if no `http` version is available but the link is still accessible through `https` by adding an exception to the browser or ignoring the warning.
+  3. *remove it* otherwise.
 - if a link exists in multiple format, add a separate link with a note about each format
 - if a resource exists at different places on the Internet
-  - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
-  - if they link to different editions, and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) to contribute to the discussion on formatting.)
+  + use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
+  + if they link to different editions and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) to contribute to the discussion on formatting.)
 - prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
 - if the book is older, include the publication date with the title.
 - include the author name or names where appropriate. You can shorten author lists with "et al."
@@ -53,13 +52,11 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - if an email address or account setup is requested before download is enabled, add language-appropriate notes in parentheses, e.g.: `(email address *requested*, not required)`
 
 ### Formatting
-
 - All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!
 - All the lists start with an Index. The idea is to list and link all sections and subsections there. Keep it in alphabetical order.
 - Sections are using level 3 headings (`###`), and subsections are level 4 headings (`####`).
 
 The idea is to have:
-
 - `2` empty lines between last link and new section.
 - `1` empty line between heading & first link of its section.
 - `0` empty line between two links.
@@ -83,7 +80,7 @@ BAD : * [Another Awesome Book] (http://example.com/book.html)
 GOOD: * [Another Awesome Book](http://example.com/book.html)
 ```
 
-- If you include the author, use `-` (a dash surrounded by single spaces):
+- If you include the author, use ` - ` (a dash surrounded by single spaces):
 
 ```
 BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
@@ -120,7 +117,6 @@ GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
 ```
 
 <a name="in_process"></a>
-
 - In-process books:
 
 ```
@@ -128,7 +124,6 @@ GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe
 ```
 
 <a name="archived"></a>
-
 - Archived link:
 
 ```
@@ -165,10 +160,10 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 
 ##### Platforms and Access Notes
 
-- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
+- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
 - YouTube. We have many courses which consist of YouTube playlists. We do not list Youtube as a platform, we try to list the Youtube creator, which is often a sub-platform.
 - YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
-- Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note _(Leanpub account or valid email requested)_
+- Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note *(Leanpub account or valid email requested)*
 
 #### Genres
 
@@ -190,6 +185,7 @@ Because the Internet is vast, we don't include in our lists:
 
 Our competitive programming lists are not as strict about these exclusions. The scope of the repo is determined by the community; if you want to suggest a change or addition to the scope, please use an issue to make the suggestion.
 
+
 ##### Books vs. Other Stuff
 
 We're not that fussy about book-ness. Here are some attributes that signify that a resource is a book:
@@ -204,15 +200,18 @@ We're not that fussy about book-ness. Here are some attributes that signify that
 
 There are lots of books that we list that don't have these attributes; it can depend on context.
 
+
 ##### Books vs. Courses
 
 Sometimes these can be hard to distinguish!
 
 Courses often have associated textbooks, which we would list in our books lists. Courses have lectures, exercises, tests, notes or other didactic aids. A single lecture or video by itself is not a course. A powerpoint is not a course.
 
+
 ##### Interactive Tutorials vs. Other stuff
 
 If you can print it out and retain its essence, it's not an Interactive Tutorial.
+
 
 ### Automation
 

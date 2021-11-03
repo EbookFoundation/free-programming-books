@@ -1,4 +1,4 @@
-*Leggilo in altre lingue: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), [Français](CONTRIBUTING-fr.md), **Italiano**, [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md).*
+*Leggilo in altre lingue: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), [Français](CONTRIBUTING-fr.md), **Italiano**, [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
 
 ## Accordo di Licenza
 Contribuendo tu accetti alla [LICENZA](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) di questa repository.

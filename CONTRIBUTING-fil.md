@@ -1,4 +1,4 @@
-*Basahin ito sa ibang mga wika: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), **Filipino**, [Español](CONTRIBUTING-es.md), [English](CONTRIBUTING.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*Basahin ito sa ibang mga wika: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), **Filipino**, [Español](CONTRIBUTING-es.md), [English](CONTRIBUTING.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-ko.md).*
 
 ## Kasunduan sa Lisensya ng Contributor
 Sa pamamagitan ng pag-aambag sumasang-ayon ka sa [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) ng repositoryong ito.

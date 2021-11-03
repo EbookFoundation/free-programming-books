@@ -92,6 +92,7 @@
 * [Docker Free Cheatsheet](https://cheatsheet.dennyzhang.com/cheatsheet-docker-a4) - Denny Zhang (HTML, PDF)
 * [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - OWASP Cheat Sheet Series
 * [Dockerfile Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) - Bogdan Popescu, Halprin (HTML)
+* [Dockerfiles y docker-compose.yml: buenas prácticas](https://leanmind.es/docker-cheatsheet.pdf) - Yodra Lopez Herrera, LeanMind (PDF)
 * [The Definitive Docker Cheat Sheet](http://dockercheatsheet.painlessdocker.com) - Aymen EL Amri (HTML)
 * [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DokerLabs (HTML)
 

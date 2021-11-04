@@ -44,9 +44,9 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
     + pas de liens de raccourcissement d'URL
 - préférez généralement le lien "actuel" à celui de "version": `http://exemple.com/dir/livre/current/` est meilleur que `http://exemple.com/dir/livre/v1.0.0 /index.html`
 - si un lien a un certificat expiré/certificat auto-signé/problème SSL de toute autre nature:
-  1. *remplacez-le* par son équivalent `http` si possible (car accepter les exceptions peut être compliqué sur les appareils mobiles)
-  2. *laissez-le* si aucune version `http` n'est disponible mais que le lien est toujours accessible via `https` en ajoutant une exception au navigateur ou en ignorant l'avertissement.
-  3. *supprimez-le* sinon.
+    1. *remplacez-le* par son équivalent `http` si possible (car accepter les exceptions peut être compliqué sur les appareils mobiles)
+    2. *laissez-le* si aucune version `http` n'est disponible mais que le lien est toujours accessible via `https` en ajoutant une exception au navigateur ou en ignorant l'avertissement.
+    3. *supprimez-le* sinon.
 - si un lien existe dans plusieurs formats, ajoutez un lien séparé avec une note sur chaque format
 - si une ressource existe à différents endroits sur Internet
     + utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)

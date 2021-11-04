@@ -54,9 +54,9 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
     + không sử dụng link rút gọn
 - thường ưu tiên những liên kết "mới nhất" hơn những liên kết có "phiên bản (version)": `http://example.com/dir/book/current/` tốt hơn `http://example.com/dir/book/v1.0.0/index.html`
 - nếu một liên kết có chứng chỉ hết hạn như chứng chỉ/ tự chứng chỉ / chứng chỉ SSL hoặc các vấn đề tương tự:
-  1. *thay thế nó* bằng giao thức `http` nếu có thể (bởi vì việc chấp nhận các lỗi ngoại lệ có thể phức tạp trên các thiết bị di động)
-  2. *giữ nguyên* nếu không thể sử dụng `http` nhưng liên kết có thể truy cập được thông qua `https` bằng cách thêm một ngoại lệ vào trình duyệt hoặc có thể bỏ qua cảnh báo
-  3. *xóa nó đi* nếu không thể làm gì khác
+    1. *thay thế nó* bằng giao thức `http` nếu có thể (bởi vì việc chấp nhận các lỗi ngoại lệ có thể phức tạp trên các thiết bị di động)
+    2. *giữ nguyên* nếu không thể sử dụng `http` nhưng liên kết có thể truy cập được thông qua `https` bằng cách thêm một ngoại lệ vào trình duyệt hoặc có thể bỏ qua cảnh báo
+    3. *xóa nó đi* nếu không thể làm gì khác
 - nếu một liên kết tồn tại ở nhiều định dạng, hãy thêm một ghi chú riêng về từng định dạng
 - nếu một tài liệu tồn tại ở những nơi khác nhau trên Internet
     + sử dụng liên kết với nguồn có thẩm quyền nhất (có nghĩa là trang web của tác giả tốt hơn trang web của người biên tập và tốt hơn trang web của bên thứ ba)

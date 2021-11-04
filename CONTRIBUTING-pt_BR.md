@@ -44,9 +44,9 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
     + sem _links_ vindos de encurtadores de _links_
 - prefira o _link_ "_current_" ao invés de _"version"_: `http://exemplo.com/dir/book/current/` é melhor que `http://exemplo.com/dir/book/v1.0.0/index.html`
 - se um _link_ possui um certificado expirado/autoassinado/problema de SSL de qualquer outro tipo:
-  1. *substitua-o* por seu equivalente `http` se possível (pois aceitar exceções pode ser complicado em dispositivos móveis).
-  2. *mantenha-o* se não houver versão `http` disponível, mas o _link_ continua acessível através de `https` adicionando uma exceção ao browser ou ignorando o aviso.
-  3. *remova-o* caso contrário.
+    1. *substitua-o* por seu equivalente `http` se possível (pois aceitar exceções pode ser complicado em dispositivos móveis).
+    2. *mantenha-o* se não houver versão `http` disponível, mas o _link_ continua acessível através de `https` adicionando uma exceção ao browser ou ignorando o aviso.
+    3. *remova-o* caso contrário.
 - se o _link_ existir em múltiplos formatos, adicione um _link_ separado com uma observação sobre cada formato.
 - se o material existe em diferentes lugares na Internet
     + use o _link_ com a fonte mais oficial (isso significa que o site do autor é melhor que o site da editora que é melhor que sites de terceiros)

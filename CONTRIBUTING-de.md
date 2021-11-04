@@ -44,9 +44,9 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://gith
     + Benutze keine URL-Verkürzer
 - Wähle bevorzugt den Link zur aktuellsten Version anstatt eine konkrete Version zu verlinken: `http://example.com/dir/book/current/` ist besser als `http://example.com/dir/book/v1.0.0/index.html`
 - Wenn ein Link ein abgelaufenes oder selbst-signiertes Zertifikat nutzt oder ein anderes SSL Problem aufweist:
-  1. *ersetze ihn* mit seinem `http` Gegenstück, wenn möglich (weil es auf Mobilgeräten kompliziert sein kann, Ausnahmen zuzulassen).
-  2. *lass ihn wie er ist*, falls keine `http` Version verfügbar ist, auf den Link aber über `https` zugegriffen werden kann, indem man im Browser die Warnung ignoriert oder eine Ausnahme hinzufügt.
-  3. *entferne ihn* anderenfalls.
+    1. *ersetze ihn* mit seinem `http` Gegenstück, wenn möglich (weil es auf Mobilgeräten kompliziert sein kann, Ausnahmen zuzulassen).
+    2. *lass ihn wie er ist*, falls keine `http` Version verfügbar ist, auf den Link aber über `https` zugegriffen werden kann, indem man im Browser die Warnung ignoriert oder eine Ausnahme hinzufügt.
+    3. *entferne ihn* anderenfalls.
 - Wenn ein Link in verschiedenen Formaten existiert, füge einen separaten Link hinzu mit einem Hinweis zu jedem Format
 - Wenn ein Inhalt an mehreren Stellen im Internet verfügbar ist
     + wähle den Link der maßgeblichen Quelle aus (das heißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)

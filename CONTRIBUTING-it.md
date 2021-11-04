@@ -45,9 +45,9 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
     + niente link accorciati
 - generalmente preferisci il link "current" rispetto al link "version": `http://example.com/dir/book/current/` è migliore di `http://example.com/dir/book/v1.0.0/index.html`
 - se un link ha un certificato scaduto/certificato auto-firmato/problemi di SSL o di qualsiasi altro tipo:
-  1. *sostituiscilo* con la controparte in `http` se possibile (perché accettare eccezione può essere complicato sui dispositivi mobile).
-  2. *lascialo* se non è disponibile alcuna versione in `http` ma la versione `https` è ancora accessibile aggiungendo l'eccezione al browser o ignorando l'avviso.
-  3. *rimuovilo* altrimenti.
+    1. *sostituiscilo* con la controparte in `http` se possibile (perché accettare eccezione può essere complicato sui dispositivi mobile).
+    2. *lascialo* se non è disponibile alcuna versione in `http` ma la versione `https` è ancora accessibile aggiungendo l'eccezione al browser o ignorando l'avviso.
+    3. *rimuovilo* altrimenti.
 - se un link esiste in più formati, aggiungi un link separato con una nota riguardante il formato
 - se una risorsa è presente in posti differenti su internet
     + usa il link più "autorevole" per segnalare la risorsa (significa che il sito web dell'autore è migliore del sito web dell'editore, che è migliore di un sito web di terze parti)

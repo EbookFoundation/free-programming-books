@@ -45,12 +45,12 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repo
 - Es siempre preferible el uso de enlaces con protocolo `https` en vez de `http` si ambos se refieren al mismo dominio y sirven el mismo contenido.
 - En los dominios raíz, elimine la barra inclinada del final: `http://example.com` en lugar de `http://example.com/`.
 - Utilice preferentemente la forma corta de los hipervínculos: `http://example.com/dir/` es mejor que `http://example.com/dir/index.html`.
-   + No se admiten acortadores de enlaces URL.
+    + No se admiten acortadores de enlaces URL.
 - Por lo general, se prefiere el enlace "actual" sobre el de "versión": `http://example.com/dir/book/current/` es más asequible que `http://example.com/dir/book/v1.0.0/index.html`.
 - Si en un enlace se encuentra con algún problema de certificados, ya sea caducado, autofirmado o de cualquier otro tipo:
-  1. *Reemplácelo* con su análogo `http` si fuera posible (porque aceptar excepciones puede ser complicado en dispositivos móviles).
-  2. *Manténgalo* si no existe versión `http` pero el enlace aún es accesible a través de `https` agregando una excepción al navegador o ignorando la advertencia.
-  3. *Elimínelo* en cualquier otro caso.
+    1. *Reemplácelo* con su análogo `http` si fuera posible (porque aceptar excepciones puede ser complicado en dispositivos móviles).
+    2. *Manténgalo* si no existe versión `http` pero el enlace aún es accesible a través de `https` agregando una excepción al navegador o ignorando la advertencia.
+    3. *Elimínelo* en cualquier otro caso.
 - Si existe un mismo enlace con varios formatos, anexe enlaces aparte con una nota sobre cada formato.
 - Si un recurso existe en diferentes lugares de Internet:
     + Use aquella fuente más fidedigna (lo que significa que el sitio web del propio autor es más asequible que el sitio web del editor y a su vez éste es mejor que una fuente de terceros).

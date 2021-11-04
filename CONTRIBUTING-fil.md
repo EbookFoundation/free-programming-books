@@ -45,9 +45,9 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
     + walang URL shortener link
 - kadalasang mas gusto ang "kasalukuyang" link kaysa sa "bersyon": `http://example.com/dir/book/current/` ay mas mabuti kaysa sa `http://example.com/dir/book/v1.0.0/index.html`
 - kung ang isang link ay nag-expire na certificate/self-signed certificate/SSL isyu ng anumang iba pang uri:
-  1. *palitan ito* ng katapat nitong `http` kung maaari (dahil ang pagtanggap ng mga pagbubukod ay maaaring kumplikado sa mga mobile device).
-  2. *iwanan ito* kung walang available na bersyon ng `http` ngunit maa-access pa rin ang link sa pamamagitan ng `https` sa pamamagitan ng pagdaragdag ng exception sa browser o hindi papansinin ang babala.
-  3. *tanggalin mo* kung hindi.
+    1. *palitan ito* ng katapat nitong `http` kung maaari (dahil ang pagtanggap ng mga pagbubukod ay maaaring kumplikado sa mga mobile device).
+    2. *iwanan ito* kung walang available na bersyon ng `http` ngunit maa-access pa rin ang link sa pamamagitan ng `https` sa pamamagitan ng pagdaragdag ng exception sa browser o hindi papansinin ang babala.
+    3. *tanggalin mo* kung hindi.
 - kung mayroong isang link sa maraming format, magdagdag ng isang hiwalay na link na may tala tungkol sa bawat format
 - kung mayroong isang mapagkukunan sa iba't ibang lugar sa Internet
     + gamitin ang link na may pinaka-makapangyarihang pinagmulan (ibig sabihin ang website ng may-akda ay mas mahusay kaysa sa website ng editor ay mas mahusay kaysa sa third party na website)

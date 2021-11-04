@@ -44,9 +44,9 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
     + no URL shortener links
 - usually prefer the "current" link over the "version" one: `http://example.com/dir/book/current/` is better than `http://example.com/dir/book/v1.0.0/index.html`
 - if a link has an expired certificate/self-signed certificate/SSL issue of any other kind:
-  1. *replace it* with its `http` counterpart if possible (because accepting exceptions can be complicated on mobile devices).
-  2. *leave it* if no `http` version is available but the link is still accessible through `https` by adding an exception to the browser or ignoring the warning.
-  3. *remove it* otherwise.
+   1. *replace it* with its `http` counterpart if possible (because accepting exceptions can be complicated on mobile devices).
+   2. *leave it* if no `http` version is available but the link is still accessible through `https` by adding an exception to the browser or ignoring the warning.
+   3. *remove it* otherwise.
 - if a link exists in multiple format, add a separate link with a note about each format
 - if a resource exists at different places on the Internet
     + use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)

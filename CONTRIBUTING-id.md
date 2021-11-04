@@ -44,9 +44,9 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](https://githu
     + jangan gunakan penyingkat url
 - Pilih tautan ke versi terbaru alih-alih menautkan ke versi tertentu: `http://example.com/dir/book/current/` lebih baik daripada `http://example.com/dir/book/v1.0.0/index.html`
 - Jika tautan menggunakan sertifikat yang kedaluwarsa atau ditandatangani sendiri atau memiliki masalah SSL lain:
-  1. *ganti* dengan mitra `http` jika memungkinkan (karena mungkin sulit untuk mengizinkan pengecualian pada perangkat seluler).
-  2. *biarkan apa adanya* jika versi `http` tidak tersedia, tetapi tautan dapat diakses melalui` https` dengan mengabaikan peringatan di browser atau menambahkan pengecualian.
-  3. *hapus* jika tidak.
+    1. *ganti* dengan mitra `http` jika memungkinkan (karena mungkin sulit untuk mengizinkan pengecualian pada perangkat seluler).
+    2. *biarkan apa adanya* jika versi `http` tidak tersedia, tetapi tautan dapat diakses melalui` https` dengan mengabaikan peringatan di browser atau menambahkan pengecualian.
+    3. *hapus* jika tidak.
 - jika ada tautan dalam format yang berbeda, tambahkan tautan terpisah dengan referensi ke setiap format
 - jika sepotong konten tersedia di beberapa tempat di Internet
     + pilih tautan otoritatif

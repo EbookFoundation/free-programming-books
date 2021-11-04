@@ -14,9 +14,12 @@
 ## 요약
 
 1. "책을 쉽게 내려받을 수 있는 바로가기"는 해당 책이 무료임을 보장하지 않습니다. 이 프로젝트에 기여하기 전에 해당 바로가기가 무료임을 확인해 주십시오. 저희는 또한 작동하는 이메일을 요구하는 바로가기는 허용하지 않습니다만, 이메일을 요청하는 것들은 허용됩니다.
+
 2. 깃에 대해 알고 있을 필요는 없습니다: 만약 당신이 조건에 부합하면서 이미 등재되지 않은 바로가기를 발견한다면, 새로운 바로가기와 함께 새로운 [이슈](https://github.com/EbookFoundation/free-programming-books/issues)를 열 수 있습니다.
     - 만약 깃 사용법을 알고 있다면, 해당 리포지토리를 Fork 하며 Pull request를 보내주세요.
+
 3. 저희는 다섯 가지의 리스트를 제공하고 있습니다. 올바른 것을 선택해 주세요:
+
     - *책* : PDF, HTML, ePub, gitbook.io 기반 웹사이트, 깃 리포지토리, 등.
     - *강좌* : 여기서 강좌는 책이 아닌 교육 도구를 칭합니다. [강좌 예시](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *상호작용을 할 수 있는 강좌* : 사용자가 코드를 입력하거나 명령어를 입력하여 평가을 받을 수 있는 웹사이트를 칭합니다(평가는 채점이 아닙니다). 예시: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).

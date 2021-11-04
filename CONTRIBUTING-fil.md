@@ -14,8 +14,10 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 ## Sa maikling sabi
 
 1. "Ang isang link para madaling mag-download ng libro" ay hindi palaging isang link sa isang *libre* na libro. Mangyaring mag-ambag lamang ng libreng nilalaman. Tiyaking libre ito. Hindi kami tumatanggap ng mga link sa mga pahina na *nangangailangan* ng gumaganang mga email address upang makakuha ng mga aklat, ngunit malugod naming tinatanggap ang mga listahan na humihiling sa kanila.
+
 2. Hindi mo kailangang malaman ang Git: kung nakakita ka ng isang bagay na interesado na *wala pa sa repo na ito*, mangyaring magbukas ng [Issue](https://github.com/EbookFoundation/free-programming-books/issues) kasama ang iyong mga proposisyon ng link.
     - Kung alam mo ang Git, mangyaring Fork ang repo at magpadala ng mga Pull Request (PR).
+
 3. Mayroon kaming 5 uri ng mga listahan. Piliin ang tama:
 
     - *Mga libro* : PDF, HTML, ePub, isang site na nakabatay sa gitbook.io, a Git repo, etc.

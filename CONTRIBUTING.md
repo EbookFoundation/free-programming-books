@@ -14,8 +14,10 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 ## In a nutshell
 
 1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free. We do not accept links to pages that *require* working email addresses to obtain books, but we welcome listings that request them.
+
 2. You don't have to know Git: if you found something of interest which is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
     - If you know Git, please Fork the repo and send pull requests.
+
 3. We have 5 kinds of lists. Choose the right one:
 
     - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.

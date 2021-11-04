@@ -17,8 +17,10 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repo
 ## Breve resumen
 
 1. "Un enlace para descargar fácilmente un libro" no siempre es un enlace a un libro *gratuito*. Por favor, contribuya solo con contenido gratuito. Asegúrese de que se ofrezca gratis. No se aceptan enlaces a páginas que *requieran* de direcciones de correo electrónico para la obtención de libros, pero sí damos la bienvenida a aquellos listados que así se soliciten.
+
 2. No es necesario conocer Git: si encontró algo de interés que *no esté ya en este repositorio*, tenga el gusto de abrir una [Issue][issues] con su propuesta de enlaces.
     - Si ya maneja Git, haga un Fork del repositorio y envíe su contribución mediante Pull Request (PR).
+
 3. Dispone de 5 categorías. Seleccione aquel listado que crea conveniente según:
 
     - *Libros* : PDF, HTML, ePub, un recurso alojado en gitbook.io, un repositorio Git, etc.

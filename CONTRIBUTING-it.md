@@ -14,8 +14,10 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 ## In breve
 
 1. "Un link per scaricare facilmente un libro" non è sempre un link per scaricare un libro *gratuito*. Per favore contribuisci solo con contenuti gratuiti. Assicurati che sia gratuito. Non accettiamo link a pagine che *richiedono* email funzionanti per ottenere il libro, ma diamo il benvenuto agli annunci che li richiedono.
+
 2. Non devi conoscere Git: se trovi qualcosa di interessante che che non è *ancora in questa repo*, apri un [Issue](https://github.com/EbookFoundation/free-programming-books/issues) con il link della risorsa.
     - Se conosci Git, forka questa repository e crea una Pull Request.
+
 3. Abbiamo 5 tipi di liste. Scegli quella giusta:
 
     - *Libri* : PDF, HTML, ePub, gitbook.io, una Git repo, etc.

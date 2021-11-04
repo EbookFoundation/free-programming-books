@@ -17,6 +17,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
 
 2. Vous n'êtes pas obligé de connaître Git : si vous avez trouvé quelque chose d'intéressant qui n'est *pas déjà dans ce repositoire*, veuillez ouvrir un [Problème](https://github.com/ElivreFoundation/free-programming-livres/issues) avec vos propositions de liens.
     - Si vous savez Git, Forkez le repo et envoyez vos pull requests.
+
 3. Nous avons 5 types de listes. Choisissez le bon:
 
     - *Livres* : PDF, HTML, ePub, un site basé sur gitlivre.io, un repositoire Git, etc.

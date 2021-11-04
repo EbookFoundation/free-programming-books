@@ -24,8 +24,10 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
 ## Tóm Tắt
 
 1. "Một liên kết để tải một cuốn sách" không có nghĩa nó là một cuốn sách *miễn phí*. Vui lòng chỉ đóng góp nội dung miễn phí. Đảm bảo rằng nó là miễn phí. Chúng tôi không chấp nhận các liên kết đến các trang có *yêu cầu bắt buộc* nhập địa chỉ email để nhận sách, nhưng chúng tôi hoan nghênh những danh sách yêu cầu chúng.
+
 2. Bạn không cần phải biết về Git: nếu bạn tìm được thứ gì đó thú vị *và chưa có trong kho lưu trữ này*, vui lòng mở một [Issue](https://github.com/EbookFoundation/free-programming-books/issues) với các đề xuất mà bạn muốn đóng góp.
     - Nếu bạn biết Git, vui lòng Fork kho lưu trữ này và gửi pull requests.
+
 3. Chúng tôi có 5 loại tài liệu, bạn có thể chọn một trong những cái dưới đây:
 
     - *Sách* : PDF, HTML, ePub, một trang web dựa trên gitbook.io, một kho lưu trữ Git, v.v.

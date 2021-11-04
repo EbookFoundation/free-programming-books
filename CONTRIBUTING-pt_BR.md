@@ -19,6 +19,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
     - Se você sabe Git, faça um _Fork_ do repositório e mande um _pull request_.
 
 3. Possuimos 5 tipos de listas. Escolha a mais adequada:
+
     - *Livros*: PDF, HTML, ePub, sites baseados no gitbook.io, um repositório Git, etc.
     - *Cursos*: Um curso é um material didático que não é um livro. [Isso é um curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriais Interativos*: Um site interativo que permite ao usuário digitar código ou comandos e computa o resulta (por "computar" não queremos dizer "avaliar"). Por exemplo: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).

@@ -1,12 +1,18 @@
 *Instruksi ini dalam bahasa lain: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md),[Español](CONTRIBUTING-es.md), [Français](CONTRIBUTING-fr.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
 
+
 ## Perjanjian lisensi kontributor
+
 Dengan kerja sama Anda, Anda menerima [lisensi](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) dari repositori ini.
 
+
 ## Kode Etik untuk Kontributor
+
 Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) dari repositori ini.
 
+
 ## Versi pendek
+
 1. "Tautan untuk mengunduh buku dengan mudah" tidak selalu merupakan tautan ke buku *gratis*. Harap hanya menambahkan konten gratis. Pastikan mereka gratis. Kami tidak menerima tautan ke situs yang * mengharuskan * Anda mendaftar dengan alamat email yang berfungsi untuk mengunduh buku, tetapi kami menyambut situs yang meminta alamat email.
 2. Anda tidak harus terbiasa dengan Git: Jika Anda telah menemukan sesuatu yang menarik *yang belum ada di salah satu daftar*, silakan buka [Masalah](https://github.com/EbookFoundation/free-programming-books/issues) dengan tautan yang Anda sarankan.
     - Jika Anda sudah familiar dengan Git, fork repositori dan kirim pull request.
@@ -22,7 +28,9 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](https://githu
 
 5. GitHub Actions akan menjalankan tes untuk memastikan bahwa daftar diurutkan berdasarkan abjad dengan benar dan bahwa aturan pemformatan telah diikuti. Pastikan perubahan Anda lulus tes ini.
 
+
 ### Pedoman
+
 - Pastikan sebuah buku benar-benar gratis. Periksa kembali jika perlu. Ini membantu administrator jika Anda menjelaskan dalam PR Anda mengapa menurut Anda buku tersebut gratis.
 - Kami tidak merekam file yang ada di Google Drive, Dropbox, Mega, Scribd, Issuu atau platform unggahan yang sebanding.
 - Masukkan tautan dalam urutan abjad. Jika Anda menemukan tautan yang salah dimasukkan, harap perbaiki pesanan dan buka PR.

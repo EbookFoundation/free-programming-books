@@ -1,10 +1,15 @@
 *Lisez ceci dans d'autres langues: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
 
+
 ## Contrat de Licence des Contributeurs
+
 En contribuant, vous acceptez la [LICENCE](https://github.com/ElivreFoundation/free-programming-livres/blob/master/LICENSE) de ce repositoire.
 
+
 ## Code de conduite des contributeurs
+
 En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.com/ElivreFoundation/free-programming-livres/blob/master/CODE_OF_CONDUCT.md) de ce repositoire.
+
 
 ## En bref
 
@@ -24,7 +29,9 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
 
 5. Github Actions exécutera des tests pour s'assurer que vos listes sont classées par ordre alphabétique et que les règles de formatage sont respectées. Assurez-vous de vérifier que vos modifications passent les tests.
 
+
 ### Directrices
+
 - assurez-vous qu'un livre est gratuit. Vérifiez si nécessaire. Cela aide les administrateurs si vous commentez dans le PR pourquoi vous pensez que le livre est gratuit.
 - nous n'acceptons pas les fichiers hébergés sur Google Drive, Dropbox, Mega, Scribd, Issuu et autres plateformes de téléchargement de fichiers similaires.
 - insérez vos liens par ordre alphabétique. Si vous voyez un lien égaré, veuillez le réorganiser et soumettre un PR
@@ -49,7 +56,9 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
 - si le livre n'est pas terminé, et est toujours en cours de travail, ajoutez la notation "en cours", comme décrit [ci-dessous.](#in_process)
 - si une adresse e-mail ou la configuration d'un compte est demandée avant l'activation du téléchargement, ajoutez des notes adaptées à la langue entre parenthèses, par exemple: `(adresse e-mail *demandée*, non obligatoire)`
 
+
 ### Formatage
+
 - Toutes les listes sont des fichiers `.md`. Essayez d'apprendre la syntaxe [Markdown](https://guides.github.com/features/mastering-markdown/). C'est simple!
 - Toutes les listes commencent par un Index. L'idée est d'y lister et de lier toutes les sections et sous-sections. Gardez-le par ordre alphabétique.
 - Les sections utilisent des titres de niveau 3 (`###`) et les sous-sections sont des titres de niveau 4 (`####`).
@@ -121,18 +130,22 @@ BIEN    : * [Un Autre Livre Génial (1970)](https://exemple.org/livre.html) - Ja
 BIEN    : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) (:construction: *in process*)
 ```
 
+
 ### Remarques
 
 Bien que les bases soient relativement simples, il existe une grande diversité dans les ressources que nous répertorions. Voici quelques notes sur la façon dont nous gérons cette diversité.
+
 
 #### Métadonnées
 
 Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créateurs, plateformes et notes d'accès.
 
+
 ##### Titres
 
 - Pas de titres inventés. Nous essayons de prendre les titres des ressources elles-mêmes ; les contributeurs sont avertis de ne pas inventer de titres ou de ne pas les utiliser éditorialement si cela peut être évité. Une exception est pour les œuvres plus anciennes; s'ils présentent principalement un intérêt historique, une année entre parenthèses ajoutée au titre aide les utilisateurs à savoir s'ils présentent un intérêt.
 - Pas de titres TOUTES EN MAJUSCULES. Habituellement, la casse du titre est appropriée, mais en cas de doute, utilisez la majuscule de la source
+
 
 ##### URLs
 
@@ -142,12 +155,14 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 - Les URL sécurisées (https) sont toujours préférées aux URL non sécurisées (http) où https a été implémenté.
 - Nous n'aimons pas les URL qui pointent vers des pages Web qui n'hébergent pas la ressource répertoriée, mais pointent plutôt ailleurs.
 
+
 ##### Créateurs
 
 - Nous voulons créditer les créateurs de ressources gratuites le cas échéant, y compris les traducteurs !
 - Pour les œuvres traduites, l'auteur original doit être crédité.
 - Nous n'autorisons pas les liens pour les créateurs.
 - Pour les compilations ou les travaux remixés, le "créateur" peut avoir besoin d'une description. Par exemple, les livres "GoalKicker" sont crédités comme "Compilé à partir de la documentation StackOverflow"
+
 
 ##### Plateformes et notes d'accès
 
@@ -156,9 +171,11 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 - Vidéos youtube. Nous ne créons généralement pas de liens vers des vidéos YouTube individuelles, sauf si elles durent plus d'une heure et sont structurées comme un cours ou un didacticiel.
 - Leanpub. Leanpub héberge des livres avec une variété de modèles d'accès. Parfois, un livre peut être lu sans inscription ; parfois un livre nécessite un compte Leanpub pour un accès gratuit. Compte tenu de la qualité des livres et du mélange et de la fluidité des modèles d'accès Leanpub, nous autorisons l'inscription de ces derniers avec la note d'accès *(compte Leanpub ou email valide demandé)*
 
+
 #### Genres
 
 La première règle pour décider à quelle liste appartient une ressource est de voir comment la ressource se décrit. S'il s'appelle un livre, alors c'est peut-être un livre.
+
 
 ##### Genres que nous ne listons pas
 
@@ -175,6 +192,7 @@ Parce qu'Internet est vaste, nous n'incluons pas dans nos listes:
 - Slacks ou listes de diffusion
 
 Nos listes de programmation compétitive ne sont pas aussi strictes sur ces exclusions. La portée du repo est déterminée par la communauté ; si vous souhaitez suggérer un changement ou un ajout à la portée, veuillez utiliser un issue pour faire la suggestion.
+
 
 ##### Livres vs. autres choses
 

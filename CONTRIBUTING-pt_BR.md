@@ -1,12 +1,18 @@
 *Leia em outros idiomas: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-ko.md).*
 
+
 ## Acordo de Licença do Contribuidor
+
 Ao contribuir você concorda com a [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) deste repositório.
 
+
 ## Código de Conduta do Contribuidor
+
 Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-pt_BR.md) deste repositório.
 
+
 ## Em poucas palavras
+
 1. "Um _link_ para baixar um livro facilmente" nem sempre é um _link_ para um livro *gratuito*. Por favor contribua apenas com conteúdo gratuito. Certifique-se de que é grátis. Não são aceitos _links_ para páginas que *requerem* um endereço de email para obter livros, mas aceitamos listas que requerem.
 
 2. Não é necessário saber Git: se você encontrou algo interessante que *não está presente neste repositório*, por favor abra uma [Issue](https://github.com/EbookFoundation/free-programming-books/issues) com todas as propostas de _links_.
@@ -23,7 +29,9 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
 
 5. GitHub Actions executará testes para assegurar que suas listas estão em ordem alfabética e seguem as regras de formatação. Cerfique-se de que suas alterações passaram pelos testes.
 
+
 ### Diretrizes
+
 - certifique-se de que o livro é gratuito. Verifique múltiplas vezes se necessário. Comentar no PR por quê você acha que o livro é gratuito ajuda os administradores.
 - não aceitamos arquivos hospedados no Google Drive, Dropbox, Mega, Scribd, Issuu e outras plataformas similares de _upload_ de arquivos.
 - insira seus _links_ em ordem alfabética. Se vir um _link_ fora de ordem, por favor reordene-o e crie um PR.
@@ -48,7 +56,9 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
 - se o livro não estiver completo, e ainda está sendo escrito, adicione a notação "em processo", como descrito [abaixo.](#em_processo)
 - se um endereço de email ou configuração de conta for solicitado antes que o _download_ seja habilitado, adicione uma observação no idioma apropriado e entre parênteses. Por exemplo: `(endereço de email é *pedido*, não obrigatório)`.
 
+
 ### Formatação
+
 - Todas as listas são arquivos `.md`. Tente aprender a sintaxe de  [Markdown](https://guides.github.com/features/mastering-markdown/). É simples!
 - Todas as listas começam com um Índice. A ideia é listar e "_linkar_" todas as seções e subseções lá. Mantenha-o em ordem alfabética.
 - Seções são títulos de nível 3 (`###`), e subseções são títulos de nível 4 (`####`).
@@ -120,18 +130,22 @@ BOM  : * [Um Livro Muito Incrível (1970)](https://exemplo.org/livro.html) - Ful
 BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) (:construction: *em processo*)
 ```
 
+
 ### Observações
 
 As noções básicas são relativamente simples, mas há uma grande diversidade de materiais que listamos. Aqui estão algumas observações sobre como tratamos essa diversidade.
+
 
 #### Metadados
 
 Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criadores, plataformas e notas de acesso.
 
+
 ##### Títulos
 
 - Sem títulos inventados. Tentamos utilizar os títulos dos próprios materiais; contribuidores são aconselhados a não inventar títulos ou usá-los editorialmente se possível evitar. Uma exceção é para trabalhos antigos; se forem primariamente de interesse histórico, o ano entre parênteses adicionado ao título ajuda os usuários a saber se é de seu interesse.
 - Sem título EM CAIXA ALTA. Normalmente "_title case_" é apropriado. Em caso de dúvida, use a capitalização da fonte.
+
 
 ##### URLs
 
@@ -141,12 +155,14 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 - URLs seguras (https) sempre são preferidas no lugar de URLs não-seguras (http) quando https estiver disponível.
 - Não gostamos de URLs que apontam para páginas que não hospedam o material listado, mas apontam para outro lugar.
 
+
 ##### Criadores
 
 - Queremos creditar os criadores do material gratuito apropriadamente, incluindo tradutores!
 - Para trabalhos traduzidos, o autor original deve ser creditado.
 - Não permitimos _links_ para Criadores.
 - Para compilações ou trabalhos remixados, o "criador" pode precisar de uma descrição. Por exemplo, os livros "GoalKicker" são creditados como "Compilado da documento do StackOverflow"
+
 
 ##### Plataforma e Notas de Acesso
 
@@ -155,9 +171,11 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 - Vídeos do YouTube. Normalmente não usamos vídeos do YouTube individuais a não ser que tenham mais de uma hora e sejam estruturados como um curso ou tutorial.
 - Leanpub. Leanpub hospeda livros com uma variedade de modelos de acesso. Algumas vezes, um livro pode ser lido sem necessidade de registro; algumas vezes um livro requer uma conta Leanpub para acesso gratuito. Dada a qualidade dos livros e a mistura e fluidez dos modelos de acesso do Leanpub, permitimos a listagem deste com uma observação de acesso *(Conta Leanpub ou email válido solicitado)*
 
+
 #### Gêneros
 
 A primeira regra ao decidir a qual lista um material pertence é ver como o próprio material se descreve. Se diz que é um livro, então talvez seja um livro.
+
 
 ##### Gêneros não listados
 

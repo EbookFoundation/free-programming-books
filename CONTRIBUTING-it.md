@@ -1,12 +1,18 @@
 *Leggilo in altre lingue: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), [Français](CONTRIBUTING-fr.md), **Italiano**, [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
 
+
 ## Accordo di Licenza
+
 Contribuendo tu accetti alla [LICENZA](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) di questa repository.
 
+
 ## Codice di Comportamento del Collaboratore
+
 I collaboratori accettano di rispettare il [Codice di Comportamento](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-it.md) di questa repository.
 
+
 ## In breve
+
 1. "Un link per scaricare facilmente un libro" non è sempre un link per scaricare un libro *gratuito*. Per favore contribuisci solo con contenuti gratuiti. Assicurati che sia gratuito. Non accettiamo link a pagine che *richiedono* email funzionanti per ottenere il libro, ma diamo il benvenuto agli annunci che li richiedono.
 2. Non devi conoscere Git: se trovi qualcosa di interessante che che non è *ancora in questa repo*, apri un [Issue](https://github.com/EbookFoundation/free-programming-books/issues) con il link della risorsa.
     - Se conosci Git, forka questa repository e crea una Pull Request.
@@ -22,8 +28,10 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 
 5. GitHub Actions avvierà dei test per assicurarsi che le tue liste siano ordinate alfabeticamente e formattate correttamente. Assicurati che i tuoi cambiamenti passino il test.
 
+
 <a name="guidelines"></a>
 ### Linee guida
+
 - assicurati che il libro sia gratuito. Controlla più volte se necessario. Commentare nella PR il perché pensi che il libro sia gratuito aiuta gli admin.
 - non accettiamo file hostati su Google Drive, Dropbox, Mega, Scribd, Issuu e altre piattaforme simili per l'upload dei file
 - inserisci i link ordinandoli alfabeticamente. Se sbagli la posizione di un link, riordinalo e invia la PR
@@ -49,8 +57,10 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 - se una risorsa è archiviata usando la Wayback Machine di Internet Archive (o simili), aggiungi la notazione "archived", come descritto [qui sotto](#archived). La versione migliore da utilizzare è quella più recente/completa.
 - se è richiesto un indirizzo email o un account per poter scaricare il libro, aggiungilo tra parentesi, esempio: `(email address *requested*, not required)`
 
+
 <a name="formatting"></a>
 ### Formattazione
+
 - Tutte le liste sono file `.md`. Prova ad imparare la sintassi [Markdown](https://guides.github.com/features/mastering-markdown/). È semplice!
 - Tutte le liste iniziano con un Index. L'idea è di elencare e collegare tutte le sezioni e sottosezioni lì. Mantienila in ordine alfabetico.
 - Le sezioni utilizzano il livello 3 di heading (`###`), e le sottosezioni utilizzano il livello 4 di heading (`####`).
@@ -129,18 +139,22 @@ CORRETTO: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John
 CORRETTO: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
 ```
 
+
 ### Note
 
 Mentre le basi sono relativamente semplici, c'è una notevole differenza tra le risorse che inseriamo nelle liste. Qui ci sono alcuni appunti su come affrontiamo queste diversità.
+
 
 #### Metadata
 
 I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, piattaforme e note di accesso.
 
+
 ##### Titoli
 
 - Non inventiamo i titoli. Cerchiamo di prendere i titoli dalla risorsa originale; i contributori sono invitati a non inventare titoli o usarli editorialmente se questo può essere evitato. Un'eccezione è per i libri più vecchi; se sono principalmente di interesse storico, l'anno tra parentesi inserito nel titolo aiuta gli utenti a capire se sono interessati a quella risorsa.
 - Niente titoli completamente in MAIUSCOLO. Di solito il title case è appropriato, ma in caso di dubbio usa le maiuscole utilizzate nella fonte.
+
 
 ##### URLs
 
@@ -150,12 +164,14 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 - I link sicuri (https) sono preferibili al posto dei link non sicuri (http), dove l'https è stato implementato.
 - Non ci piacciono gli URL che reindirizzano in una pagina che non hosta la risorsa, ma invece reindirizza altrove.
 
+
 ##### Autori
 
 - Vogliamo dare i crediti agli autori ove appropriato, anche ai traduttori!
 - Per i lavori tradotti, l'autore originale dovrebbe essere incluso.
 - Non permettiamo collegamenti per gli autori.
 - Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" o "RIP Tutorial" sono accreditati come "Compiled from StackOverflow documentation"
+
 
 ##### Piattaforme e note di accesso
 
@@ -164,9 +180,11 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 - Video YouTube. Solitamente non accettiamo singoli video YouTube, a meno che non siano più lunghi di un'ora e che siano strutturati come un corso o un tutorial.
 - Leanpub. Leanpub ospita libri con varie modalità di accesso. Alcune volte i libri possono essere letti senza l'obbligo di registrazione; alcune volte è necessario creare un account gratuito su Leanpub. Data la qualità dei libri e la commistione e fluidità dei modelli di accesso Leanpub, consentiamo di elencare questi ultimi con la nota di accesso *(Leanpub account or valid email requested)*
 
+
 #### Generi
 
 La prima regola è decidere a quale lista appartiene di più una risorsa. Se si definisce un libro, allora forse è un libro.
+
 
 ##### Generi che non accettiamo
 

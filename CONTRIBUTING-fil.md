@@ -1,10 +1,13 @@
 *Basahin ito sa ibang mga wika: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), **Filipino**, [Español](CONTRIBUTING-es.md), [English](CONTRIBUTING.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-ko.md).*
 
+
 ## Kasunduan sa Lisensya ng Contributor
 Sa pamamagitan ng pag-aambag sumasang-ayon ka sa [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) ng repositoryong ito.
 
+
 ## Kodigo ng Pag-uugali ng Contributor
 Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-fil.md) ng repositoryong ito.
+
 
 ## Sa maikling sabi
 1. "Ang isang link para madaling mag-download ng libro" ay hindi palaging isang link sa isang *libre* na libro. Mangyaring mag-ambag lamang ng libreng nilalaman. Tiyaking libre ito. Hindi kami tumatanggap ng mga link sa mga pahina na *nangangailangan* ng gumaganang mga email address upang makakuha ng mga aklat, ngunit malugod naming tinatanggap ang mga listahan na humihiling sa kanila.
@@ -21,6 +24,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 4. Siguraduhing sundin ang [guidelines below](#guidelines) at igalang ang [Markdown formatting](#formatting) ng mga file.
 
 5. Ang GitHub Actions ay magpapatakbo ng mga pagsubok upang matiyak na ang iyong mga listahan ay naka-alpabeto at sinusunod ang mga panuntunan sa pag-format. Siguraduhing suriin na ang iyong mga pagbabago ay pumasa sa mga pagsubok.
+
 
 <a name="guidelines"></a>
 ### Mga Alituntunin
@@ -48,6 +52,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 - kung ang aklat ay hindi pa tapos, at ginagawa pa rin, idagdag ang "in process" notation, gaya ng inilarawan [below.](#in_process)
 - kung ang isang mapagkukunan ay naibalik gamit ang Wayback Machine ng Internet Archive (o katulad), idagdag ang "naka-archive" na notation, tulad ng inilarawan [below](#archived). Ang pinakamahusay na mga bersyon na gagamitin ay bago at kumpleto.
 - kung humiling ng email address o pag-setup ng account bago i-enable ang pag-download, magdagdag ng mga tala na naaangkop sa wika sa mga panaklong, hal.: `(email address *requested*, not required)`
+
 
 <a name="formatting"></a>
 ### Pag-format

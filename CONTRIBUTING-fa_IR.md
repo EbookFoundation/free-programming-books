@@ -1,4 +1,6 @@
 *این متن را در زبان‌های دیگر بخوانید: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
+
+
 <div dir="rtl">
 
 ## توافقنامه‌ی مجوز همکاری
@@ -126,6 +128,7 @@
 ```
 خوب: * [کتابی که عالی خواهدشد](http://example.com/book2.html) - نام نویسنده (HTML) (:construction: *in process*)
 ```
+
 
 ### خودکارسازی
 

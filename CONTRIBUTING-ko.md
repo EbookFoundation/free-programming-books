@@ -1,12 +1,18 @@
 *이 문서를 다른 언어로 보시려면: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [English](CONTRIBUTING.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 
+
 ## 기여자 라이선스 동의서
+
 이 프로젝트의 기여자들은 리포지토리의 [약관](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) 에 동의하는 것으로 간주됩니다.
 
+
 ## 기여자 행도 강령
+
 이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-ko.md) 에 동의한 것으로 간주됩니다.
 
+
 ## 요약
+
 1. "책을 쉽게 내려받을 수 있는 바로가기"는 해당 책이 무료임을 보장하지 않습니다. 이 프로젝트에 기여하기 전에 해당 바로가기가 무료임을 확인해 주십시오. 저희는 또한 작동하는 이메일을 요구하는 바로가기는 허용하지 않습니다만, 이메일을 요청하는 것들은 허용됩니다.
 2. 깃에 대해 알고 있을 필요는 없습니다: 만약 당신이 조건에 부합하면서 이미 등재되지 않은 바로가기를 발견한다면, 새로운 바로가기와 함께 새로운 [이슈](https://github.com/EbookFoundation/free-programming-books/issues)를 열 수 있습니다.
     - 만약 깃 사용법을 알고 있다면, 해당 리포지토리를 Fork 하며 Pull request를 보내주세요.
@@ -21,7 +27,9 @@
 
 5. 깃허브 액션이 각각의 리스트가 오름차순인지, 또하 규격이 준수되었는지 검수 할 것입니다. 각 제출이 검수를 통과하는지 확인해주십시오.
 
+
 ### 가이드라인
+
 - 책이 무료인지 반드시 확인 해 주십시오. 해당 책이 무료라고 생각하는 이유를 PR의 comment에 포함하는 것은 관리자들에게 큰 도움이 됩니다.
 - 저희는 Google Drive, Dropbox, Mega, Scribd, Issuu 또는 유사한 파일 공유 시스템에 업로드된 파일들을 수락하지 않습니다.
 - 바로가기를 오름차순으로 정렬해 주십시오. 만약 당신이 오름차순이 아닌 파일을 발견한다면, 수정후 PR을 보내주세요.
@@ -42,7 +50,9 @@
 - 만약 책이 아직 완결되지 않았다면, [아래](#in_process)에 명시되어 있다시피, "in progress" 표시를 추가하십시오.
 - 만약 이메일 주소 또는 계정 생성이 다운로드 이전에 요청된다면, 별도의 노트를 첨부하세요.
 
+
 ### 규격
+
 - 모든 목록은 `.md`파일 형식 이어야 합니다. 해당 형식의 문법은 간단하며, [Markdown](https://guides.github.com/features/mastering-markdown/) 에서 찾아 볼 수 있습니다.
 - 모든 목록은 목차와 함께 시작해야 합니다. 각 항목을 목차에 연결하는 것이 목표입니다. 오름차순으로 정렬되어 있어야 합니다.
 - 각 섹션은 3단계 헤딩을 사용합니다 (`###`). 하위 섹션은 4단계 헤딩을 사용합니다 (`####`).
@@ -114,18 +124,22 @@ GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
 GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
 ```
 
+
 ### 노트(쪽지)
 
 각 파일의 형식은 간단하지만, 목록에는 다양한 형태와 종류의 자료들이 존재할 수 있습니다. 아래에 나열될 항목들은 저희가 그런 다양성을 어떻게 다르는지에 대한 설명 입니다.
+
 
 #### 메타데이터
 
 각 목록은 최소한의 메타데이터만을 제공합니다: 제목, 바로가기 주소, 제작자, 플랫폼, 그리고 접속 노트
 
+
 ##### 제목
 
 - 원제를 사용하세요. 저희는 원작(원본)의 제목을 사용하기를 원합니다. 기여자들은 가능한 원제에 가깝거나 동일한 제목을 제공하여야 합니다. 예외는 오래된 책들입니다. 독자들의 더 쉬운 이해와 검색을 위해 현대의 언어로 제목을 새로 짓는것은 허가됩니다.
 - 대문자로만 이루어진 제목은 금지됩니다. 대부분 경우에 title case가 허가되지만, 확실하지 않다면 자료에 명시된 방식으로 기술 하세요.
+
 
 ##### 바로가기 주소
 
@@ -135,12 +149,14 @@ GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe
 - 보안 주소(https)가 존재하는 경우, 보안 주소가 일반 주소(http)보다 선호됩니다.
 - 설명과 다른 웹페이지로 향하는 바로가기 주소는 선호되지 않습니다.
 
+
 ##### 제작자
 
 - 저희는 무료로 자료들을 배포하는 제작자들(번역가들 포함)에게 감사함을 표합니다!
 - 번역된 자료들의 경우, 원작자들이 우선적으로 명시되어야 합니다.
 - 제작자들의 정보로 향하는 바로가기 주소는 허가되지 않습니다.
 - 여러 작업물이 조합된 자료의 경우, "제작자"는 설명이 필요할 수 있습니다. 예를 들어, "GoalKicker" 책들의 제작자들은 "Compiled from StackOverflow documentation"로 명시되어야 합니다.
+
 
 ##### 플랫폼과 접속 노트
 
@@ -149,9 +165,11 @@ GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe
 - 유튜브 영상들은 각각의 영상이 한시간이 넘지 않는 경우에는 바로가기 주소를 포함하지 않습니다.
 - Leanpub는 많은 책들과 강좌에 접근을 제공합니다. 경우에 따라 회원가입 없이 접근 할 수 있는 책들 또한 존재합니다. 경우에 따라 *(Leanpub account or valid email requested)* 노트를 포함하여 목록을 작성해야 합니다.
 
+
 #### 장르
 
 자료가 어떤 장르에 속하는지 결정하는 첫번째 방법은 해당 자료의 분류에 따르는 것입니다.
+
 
 ##### 기술하지않는 장르
 
@@ -190,6 +208,7 @@ GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe
 때에 따라 이 둘은 구분하기 어려울 수 있습니다.
 
 강좌는 종종 책을 보조교재로 사용하는데, 이것은 상기한 책의 특성에 의해 목록에 추가 될 수 있습니다. 이 보조교재에는 종종 강의 노트, 연습 문제, 시험, 등등이 포함됩니다. 영상/강의 하나는 강좌로 간주되지 않습니다. 또한, 파워포인트는 강좌가 아닙니다.
+
 
 ##### 상호작용 강의 vs. 다른 자료
 

@@ -10,13 +10,19 @@ Bản dịch Tiếng Việt:
 
 ---
 
+
 ## Giấy Phép Thỏa Thuận Cộng Tác Viên
+
 Bằng cách đóng góp, bạn đồng ý với [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) của kho lưu trữ này.
 
+
 ## Quy Tắc Ứng Xử của Cộng Tác Viên
+
 Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) của kho lưu trữ này.
 
+
 ## Tóm Tắt
+
 1. "Một liên kết để tải một cuốn sách" không có nghĩa nó là một cuốn sách *miễn phí*. Vui lòng chỉ đóng góp nội dung miễn phí. Đảm bảo rằng nó là miễn phí. Chúng tôi không chấp nhận các liên kết đến các trang có *yêu cầu bắt buộc* nhập địa chỉ email để nhận sách, nhưng chúng tôi hoan nghênh những danh sách yêu cầu chúng.
 2. Bạn không cần phải biết về Git: nếu bạn tìm được thứ gì đó thú vị *và chưa có trong kho lưu trữ này*, vui lòng mở một [Issue](https://github.com/EbookFoundation/free-programming-books/issues) với các đề xuất mà bạn muốn đóng góp.
     - Nếu bạn biết Git, vui lòng Fork kho lưu trữ này và gửi pull requests.
@@ -32,7 +38,9 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
 
 5. Github Actions sẽ chạy các test để đảm bảo danh sách của bạn được sắp xếp theo thứ tự bảng chữ cái và các nguyên tắc định dạng được tuân thủ. Kiểm tra để đảm bảo các thay đổi của bạn có vượt qua các bài test.
 
+
 ### Những Nguyên Tắc
+
 - đảm bảo rằng một cuốn sách là miễn phí. Kiểm tra kỹ nếu cần. Nó sẽ giúp cho các quản trị viên nếu bạn nhận xét trong phần PR về lý do tại sao bạn cho rằng cuốn sách là miễn phí.
 - chúng tôi không chấp nhận các tệp được lưu trữ trên Google Drive, Dropbox, Mega, Scribd, Issuu và các nền tảng tải lên tệp tương tự khác.
 - chèn các liên kết của bạn theo thứ tự bảng chữ cái. Nếu bạn thấy một liên kết bị đặt sai vị trí, vui lòng sắp xếp lại nó và gửi một PR.
@@ -57,7 +65,9 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
 - nếu cuốn sách chưa hoàn thành và vẫn đang được hoàn thiện, hãy thêm ký hiệu "đang xử lý", như được mô tả [dưới đây.](#in_process)
 - nếu địa chỉ email hoặc thiết lập tài khoản được yêu cầu trước khi kích hoạt tải xuống, hãy thêm ghi chú phù hợp với ngôn ngữ trong ngoặc đơn, ví dụ: `(địa chỉ email *được yêu cầu*, không bắt buộc)`
 
+
 ### Định Dạng
+
 - Tất cả danh sách đều là tệp `.md`. Cố gắng học các cú pháp [Markdown](https://guides.github.com/features/mastering-markdown/). Nó rất đơn giản!
 - Tất cả các danh sách bắt đầu bằng một Chỉ mục. Ý tưởng là liệt kê và liên kết tất cả các phần và tiểu mục ở đó. Giữ nó theo thứ tự bảng chữ cái.
 - Các phần đang sử dụng tiêu đề cấp 3 (`###`) và các tiểu mục là tiêu đề cấp 4 (`####`).
@@ -129,18 +139,22 @@ Tốt: * [Một cuốn sách rất tuyệt vời (1970)](https://example.org/boo
 Tốt: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
 ```
 
+
 ### Ghi Chú
 
 Mặc dù những điều cơ bản tương đối đơn giản, nhưng có sự đa dạng lớn trong các nguồn mà chúng tôi liệt kê. Dưới đây là một số lưu ý về cách chúng ta phân loại những sự đa dạng này.
+
 
 #### Metadata
 
 Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, người tạo, nền tảng và ghi chú truy cập.
 
+
 ##### Tiêu Đề
 
 - Không được phát minh ra tiêu đề. Chúng tôi cố gắng lấy các tiêu đề từ chính các nguồn tài liệu đó; những người đóng góp được khuyến cáo không phát minh ra tiêu đề hoặc chỉnh sửa chúng nếu điều này có thể tránh được. Một ngoại lệ là đối với các tác phẩm cũ hơn; nếu họ chủ yếu quan tâm đến lịch sử, thêm số năm vào trong dấu ngoặc đơn nằm trong tiêu đề sẽ giúp người dùng biết liệu họ có quan tâm hay không.
 - Không sử dụng tiêu đề viết hoa toàn bộ. Thông thường, viết hoa tiêu đề là phù hợp, nhưng khi không chắc chắn, hãy sử dụng chữ viết hoa từ nguồn.
+
 
 ##### Các Liên Kết
 
@@ -150,12 +164,14 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 - Các liên kết an toàn (https) luôn được ưu tiên hơn các liên kết không an toàn (http) nơi https đã được triển khai.
 - Chúng tôi không thích các liên kết trỏ đến các trang web không lưu trữ tài liệu được liệt kê, mà thay vào đó trỏ đến nơi khác.
 
+
 ##### Người Sáng Tạo
 
 - Chúng tôi muốn ghi công những người tạo ra các tài liệu miễn phí nếu thích hợp, bao gồm cả những người dịch!
 - Đối với các tác phẩm đã dịch, tác giả gốc nên được ghi công.
 - Chúng tôi không cho phép liên kết bởi Người sáng tạo.
 - Đối với các tác phẩm tổng hợp hoặc phối lại, "người sáng tạo" có thể cần mô tả. Ví dụ: sách "GoalKicker" được ghi là "Được tổng hợp từ tài liệu StackOverflow"
+
 
 ##### Nền Tảng và Ghi Chú Truy Cập
 
@@ -164,9 +180,11 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 - Video trên YouTube. Chúng tôi thường không có các liên kết đến các video YouTube riêng lẻ trừ khi chúng dài hơn một giờ và có cấu trúc giống như một khóa học hoặc một hướng dẫn.
 - Leanpub. Leanpub lưu trữ sách với nhiều mô hình truy cập. Đôi khi một cuốn sách có thể được đọc mà không cần đăng ký; đôi khi một cuốn sách yêu cầu tài khoản Leanpub để được truy cập miễn phí. Do chất lượng của sách và sự hỗn hợp và tính linh hoạt của các mô hình truy cập Leanpub, chúng tôi cho phép liệt kê mô hình sau cùng với ghi chú truy cập *(yêu cầu tài khoản Leanpub hoặc email hợp lệ)*
 
+
 #### Thể Loại
 
 Quy tắc đầu tiên để quyết định tài liệu thuộc danh sách nào là xem tài liệu đó mô tả thế nào. Nếu nó tự gọi nó là một cuốn sách, thì có lẽ nó là một cuốn sách.
+
 
 ##### Các Thể Loại chúng tôi không liệt kê
 

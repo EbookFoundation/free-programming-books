@@ -1,5 +1,6 @@
 *Lea esto en otros idiomas: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
 
+
 <a name="contributor-license-agreement"></a>
 ## Acuerdo de Licencia
 
@@ -147,16 +148,19 @@ Ejemplo:
 
 Si bien los conceptos básicos son relativamente simples, existe una gran diversidad entre los recursos que enumeramos. Aquí hay algunas notas sobre cómo nos ocupamos de esta diversidad.
 
+
 <a name="metadata"></a>
 #### Metadatos
 
 Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, autores, formato, plataformas y notas de acceso.
+
 
 <a name="titles"></a>
 ##### Títulos
 
 - Sin títulos inventados: Intentamos tomar el texto de los propios recursos; se advierte a los colaboradores que, si puede evitarse, no inventen títulos ni los utilicen editorialmente. Una excepción es para obras más antiguas: si son principalmente de interés histórico, un año entre paréntesis adjunto al título ayuda a los usuarios a saber si estos son de interés.
 - Sin títulos todo en mayúsculas: Por lo general, es apropiado tener cada primera letra de palabra en mayúsculas, pero en caso de duda, use siempre el estilo tal y como viene en la fuente original.
+
 
 <a name="urls"></a>
 ##### Direcciones URL
@@ -167,6 +171,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 - Las URL seguras (https) siempre son mejor opción frente a las no seguras (http) donde se ha implementado el protocolo de comunicación encriptado HTTPS.
 - No nos gustan las URL que apuntan a páginas web que no alojen el recurso mencionado, enlazando por el contrario a otra parte.
 
+
 <a name="creators"></a>
 ##### Atribuciones
 
@@ -174,6 +179,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 - En el caso de obras traducidas, se debe acreditar también al autor original.
 - No permitimos enlaces directos al creador.
 - En el caso de recopilaciones u obras remezcladas, el "creador" puede necesitar una descripción. Por ejemplo, los libros de "GoalKicker" o "RIP Tutorial" se acreditan como "`Creado a partir de la documentación de StackOverflow`" (en inglés: "`Compiled from StackOverflow documentation`").
+
 
 <a name="platforms-and-access-notes"></a>
 ##### Plataformas y Notas de Acceso
@@ -183,10 +189,12 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 - Vídeos de YouTube. Por lo general, no vinculamos a vídeos individuales de YouTube a menos que tengan más de una hora de duración y estén estructurados como un curso o un tutorial.
 - LeanPub. LeanPub aloja libros con una amplia variedad de modelos de acceso. A veces, un libro se puede leer sin registrarse; en otras, un libro requiere una cuenta LeanPub para tener acceso gratuito. Dada la calidad de los libros y la mezcla y fluidez de los modelos de acceso Leanpub, damos validez a estos últimos anexando la nota de acceso: `*(cuenta Leanpub o email válido requerido)*`.
 
+
 <a name="genres"></a>
 #### Géneros
 
 La primera regla para decidir en qué listado encaja un determinado recurso es ver cómo se describe a sí mismo. Si por ejemplo se retrata a sí mismo como un libro, entonces tal vez es que lo sea.
+
 
 <a name="genres-we-dont-list"></a>
 ##### Géneros no aceptados
@@ -205,6 +213,7 @@ Ya que en Internet podemos encontrar una variedad infinita de recursos, no inclu
 
 El [listado donde incluimos sitios o software de programación competitiva][programming_playgrounds_list] no es tan restrictivo. El alcance de este repositorio es determinado por la comunidad; si desea sugerir un cambio o extender el alcance, utilice los [issues][issues] para registrar dicha sugerencia.
 
+
 <a name="books-vs-other-stuff"></a>
 ##### Libros vs. Otro Material
 
@@ -220,12 +229,14 @@ No somos tan quisquillosos con lo que consideramos como libro. A continuación, 
 
 Hay muchos libros que enumeramos los cuáles no poseen estos atributos; esto puede depender del contexto.
 
+
 <a name="books-vs-courses"></a>
 ##### Libros vs. Cursos
 
 ¡A veces distinguir puede ser dificultoso!
 
 Los cursos suelen tener libros de texto asociados, que incluiríamos en nuestras listas de libros. Además, los cursos tienen conferencias, ejercicios, pruebas, apuntes u otras ayudas didácticas. Una sola conferencia o vídeo por sí solo no es un curso. Un presentación de PowerPoint tampoco puede ser catalogado como curso.
+
 
 <a name="interactive-tutorials-vs-other-stuff"></a>
 ##### Tutoriales interactivos vs. Otro Material

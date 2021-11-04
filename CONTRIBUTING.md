@@ -1,12 +1,18 @@
 *Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Filipino](CONTRIBUTING-fil.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-ko.md).*
 
+
 ## Contributor License Agreement
+
 By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) of this repository.
 
+
 ## Contributor Code of Conduct
+
 By contributing you agree to respect the [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) of this repository.
 
+
 ## In a nutshell
+
 1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free. We do not accept links to pages that *require* working email addresses to obtain books, but we welcome listings that request them.
 2. You don't have to know Git: if you found something of interest which is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
     - If you know Git, please Fork the repo and send pull requests.
@@ -22,7 +28,9 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 
 5. GitHub Actions will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
 
+
 ### Guidelines
+
 - make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
 - we don't accept files hosted on Google Drive, Dropbox, Mega, Scribd, Issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
@@ -48,7 +56,9 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - if a resource is restored using the Internet Archive's Wayback Machine (or similar), add the "archived" notation, as described [below](#archived). The best versions to use are recent and complete.
 - if an email address or account setup is requested before download is enabled, add language-appropriate notes in parentheses, e.g.: `(email address *requested*, not required)`
 
+
 ### Formatting
+
 - All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!
 - All the lists start with an Index. The idea is to list and link all sections and subsections there. Keep it in alphabetical order.
 - Sections are using level 3 headings (`###`), and subsections are level 4 headings (`####`).
@@ -127,18 +137,22 @@ GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe
 GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
 ```
 
+
 ### Notes
 
 While the basics are relatively simple, there is a great diversity in the resources we list. Here are some notes on how we deal with this diversity.
+
 
 #### Metadata
 
 Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, and access notes.
 
+
 ##### Titles
 
 - No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
 - No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
+
 
 ##### URLs
 
@@ -148,12 +162,14 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 - Secure (https) URLs are always preferred over non-secure (http) urls where https has been implemented.
 - We don't like URLs that point to webpages that don't host the listed resource, but instead point elsewhere.
 
+
 ##### Creators
 
 - We want to credit the creators of free resources where appropriate, including translators!
 - For translated works the original author should be credited.
 - We do not permit links for Creators.
 - For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "Compiled from StackOverflow documentation"
+
 
 ##### Platforms and Access Notes
 
@@ -162,9 +178,11 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 - YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
 - Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note *(Leanpub account or valid email requested)*
 
+
 #### Genres
 
 The first rule in deciding which list a resource belongs in is to see how the resource describes itself. If it calls itself a book, then maybe it's a book.
+
 
 ##### Genres we don't list
 

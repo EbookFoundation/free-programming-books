@@ -1,12 +1,18 @@
 *Diese Anleitung in anderen Sprachen: [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
 
+
 ## Lizenzvereinbarung für Mitwirkende
+
 Durch Deine Mitwirkung akzeptierst Du die [Lizenz](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) dieses Repositorys.
 
+
 ## Verhaltenskodex für Mitwirkende
+
 Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) dieses Repositorys zu folgen.
 
+
 ## Kurzfassung
+
 1. „Ein Link, um ein Buch auf einfache Weise herunterzuladen“ ist nicht immer ein Link zu einem *kostenlosen* Buch. Bitte füge nur kostenlose Inhalte hinzu. Vergewissere Dich, dass sie kostenlos sind. Wir akzeptieren keine Links zu Seiten, die *voraussetzen*, dass man sich mit einer funktionierenden E-Mail-Adresse registriert, um ein Buch herunterzuladen, aber wir heißen Seiten willkommen, die um (optionale) Eingaben von E-Mail-Adressen bitten.
 2. Du musst Dich nicht mit Git auskennen: Wenn Du etwas Interessantes gefunden hast, *das noch nicht in einer der Listen enthalten ist*, öffne bitte ein [Issue](https://github.com/EbookFoundation/free-programming-books/issues) mit Deinen Linkvorschlägen.
     - Wenn Du Dich mit Git auskennst, erstelle einen Fork des Repositorys und sende einen Pull Request.
@@ -22,7 +28,9 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://gith
 
 5. GitHub Actions werden Tests ausführen, um sicherzustellen, dass die Listen korrekt alphabetisiert sind und den Formatierungsregeln Folge geleistet wurde. Stell sicher, dass Deine Änderungen diese Tests bestehen.
 
+
 ### Richtlinien
+
 - Stell sicher, dass ein Buch wirklich kostenlos ist. Vergewissere Dich noch einmal, falls nötig. Es hilft den Administratoren, wenn Du in Deinem PR beschreibst, warum Du der Ansicht bist, dass das jeweilige Buch kostenlos ist.
 - Wir nehmen keine Dateien auf, die auf Google Drive, Dropbox, Mega, Scribd, Issuu oder einer vergleichbaren Upload-Plattform liegen.
 - Füge die Links in alphabetischer Reihenfolge ein. Wenn Du einen fehlerhaft eingefügten Link findest, korrigiere bitte die Reihenfolge und öffne eine PR.
@@ -47,7 +55,9 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://gith
 - Wenn das Buch noch nicht fertiggestellt ist und sich noch in Bearbeitung befindet, füge wie [unten](#in_process) beschrieben einen "in Bearbeitung" Hinweis hinzu.
 - Wenn eine funktionierende E-Mail Adresse oder das Einrichten eines Benutzerkontos vor Aktivierung des Downloads erbeten wird, sollten angemessene Hinweise in Klammern angegeben werden, z.&nbsp;B.: `(E-Mail Adresse *erbeten*, nicht erforderlich)`
 
+
 ### Formatierung
+
 - Bei allen Listen handelt es sich um `.md` Dateien. Versuche bitte, Dir die [Markdown](https://guides.github.com/features/mastering-markdown/) Syntax anzueignen. Sie ist ganz einfach!
 - Alle Listen beginnen mit einem Inhaltsverzeichnis, in dem alle Abschnitte und Unterabschnitte verlinkt werden sollten. Bitte halte eine alphabetische Reihenfolge ein.
 - Abschnitte nutzen Überschriften der Ebene 3 (`###`), während Unterabschnitte die 4. Ebene (`####`) nutzen.
@@ -119,18 +129,22 @@ RICHTIG: * [Ein sehr tolles Buch (1970)](https://example.org/book.html) - Jane R
 RICHTIG: * [Wird bald ein tolles Buch sein](http://example.com/book2.html) - John Doe (HTML) (:construction: *in Bearbeitung*)
 ```
 
+
 ### Hinweise
 
 Während die Grundlagen relativ einfach sind, existiert eine große Vielfalt von Ressourcen in unseren Listen. Es folgen einige Hinweise, wie wir mit dieser Vielfalt umgehen.
+
 
 #### Metadaten
 
 Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren, Plattformen und Zugriffshinweise.
 
+
 ##### Titel
 
 - Keine erfundenen Titel. Wir versuchen, die Titel den Inhalten selbst zu entnehmen; Mitwirkende werden dazu ermahnt, sich keine Titel auszudenken oder redaktionell zu nutzen, falls dies vermieden werden kann. Eine Ausnahme bilden ältere Werke; wenn sie vor allem von historischem Interesse sind, kann das Hinzufügen einer Jahreszahl in Klammern den Nutzern helfen zu bestimmen, ob die Inhalte für sie nützlich sind.
 - Keine Titel, die NUR GROßBUCHSTABEN ENTHALTEN. Titelkapitalisierung ist normalerweise angemessen, aber im Zweifel nutze einfach die Formatierung der Originalquelle.
+
 
 ##### URLs
 
@@ -140,12 +154,14 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 - Sichere (https) URLs werden immer nicht-sicheren (http) URLs vorgezogen, wenn von der Quelle https implementiert wurde.
 - Wir mögen keine URLs, die auf Webseiten zeigen, die den angegebenen Inhalt nicht bereitstellen, sondern stattdessen an andere Stelle umleiten.
 
+
 ##### Urheber
 
 - Wir wollen alle Urheber kostenloser Inhalte angemessen nennen, inklusive eventueller Übersetzer!
 - For übersetzte Werke sollte der Autor des ursprünglichen Werks genannt werden.
 - Wir erlauben keine Links für Urheber.
 - Für Sammlungen oder neu zusammengestellte Werke, benötigt der "Urheber" eventuell eine Beschreibung. Bücher von "GoalKicker" werden z.&nbsp;B. als "Zusammengestellt aus StackOverflow Dokumentationen" gekennzeichnet.
+
 
 ##### Plattformen und Zugriffshinweise
 
@@ -154,9 +170,11 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 - YouTube Videos. Wir verlinken normalerweise keine einzelnen YouTube Videos. Ausnahmen bilden Videos von mehr als einer Stunde Länge, die wie ein Kurs oder Tutorial strukturiert sind.
 - Leanpub. Leanpub beherbergt Bücher mit einer Vielzahl von Zugangsmodellen. Manchmal kann ein Buch ohne Registrierung gelesen werden; in anderen Fällen wird ein Leanpub Konto für einen kostenfreien Zugang benötigt. Aufgrund der Qualität der Bücher und der unterschiedlichen und fließenden Zugangsmodelle erlauben wir die Aufnahme letzterer, wenn sie mit dem Zugriffshinweis *(Leanpub Konto oder gültige E-Mail angefordert)* versehen sind.
 
+
 #### Genre
 
 Die wichtigste Regel zur korrekten Zuordnung von Inhalten in Listen ist zu schauen, wie die Ressource sich selbst beschreibt. Wenn sie sich als Buch bezeichnet, dann ist sie vielleicht ein Buch.
+
 
 ##### Genres, die wir nicht aufnehmen
 
@@ -174,6 +192,7 @@ Da das Internet unermesslich ist, nehmen wir folgende Inhalte nicht in unsere Li
 
 Unsere Listen zu Programmierwettbewerben setzen diese Verbote nicht so strikt um. Art und Umfang des Repositorys wird von der Community bestimmt; wenn Du eine Änderung oder Ausweitung der Ausrichtung vorschlagen möchtest, eröffne bitte ein Issue, um den Vorschlag zu unterbreiten.
 
+
 ##### Buch vs. anderes Zeug
 
 Wir sind nicht kleinlich, was die Definition, was ein Buch ist und was nicht. Hier sind einige Eigenschaften, die darauf hinweisen, dass es sich bei einer bestimmten Ressource um ein Buch handelt:
@@ -188,15 +207,18 @@ Wir sind nicht kleinlich, was die Definition, was ein Buch ist und was nicht. Hi
 
 Vielen Büchern in unseren Listen fehlen diese Eigenschaften; es kann vom Kontext abhängen.
 
+
 ##### Buch vs. Kurs
 
 Das ist manchmal gar nicht so leicht zu unterscheiden!
 
 Kurse kommen oftmals mit begleitenden Lehrbüchern, die wir in unseren Bücherlisten führen würden. Kurse bieten Vorträge, Übungen, Tests, Anmerkungen oder andere Lernhilfen. Ein einzelner Vortrag oder Video allein ist kein Kurs. Eine Powerpoint-Präsentation ist kein Kurs.
 
+
 ##### Interaktive Tutorials vs. anderes Zeug
 
 Wenn etwas ausgedruckt werden kann, ohne dass es seinen Nutzen verliert, ist es kein interaktives Tutorial.
+
 
 ### Automatisierung
 

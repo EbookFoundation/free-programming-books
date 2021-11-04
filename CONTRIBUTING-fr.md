@@ -65,6 +65,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
 - Les sections utilisent des titres de niveau 3 (`###`) et les sous-sections sont des titres de niveau 4 (`####`).
 
 l'idée est d'avoir:
+
 - `2` lignes vides entre le dernier lien et la nouvelle section
 - `1` ligne vide entre le titre et le premier lien de sa section
 - `0` ligne vide entre deux liens

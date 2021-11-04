@@ -66,6 +66,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - Sections are using level 3 headings (`###`), and subsections are level 4 headings (`####`).
 
 The idea is to have:
+
 - `2` empty lines between last link and new section.
 - `1` empty line between heading & first link of its section.
 - `0` empty line between two links.

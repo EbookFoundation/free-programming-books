@@ -68,6 +68,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 - Gumagamit ang mga seksyon ng antas 3 na mga heading (`###`), at ang mga subsection ay level 4 na mga heading (`####`).
 
 The idea is to have:
+
 - `2` walang laman na linya sa pagitan ng huling link at bagong seksyon.
 - `1` walang laman na linya sa pagitan ng heading.
 - `0` walang laman na linya sa pagitan ng dalawang link.

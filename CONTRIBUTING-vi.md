@@ -75,6 +75,7 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
 - Các phần đang sử dụng tiêu đề cấp 3 (`###`) và các tiểu mục là tiêu đề cấp 4 (`####`).
 
 Ý tưởng là phải có
+
 - `2` dòng trống giữa liên kết cuối cùng và phần mới
 - `1` dòng trống giữa tiêu đề và liên kết đầu tiên của phần của nó
 - `0` dòng trống giữa hai liên kết

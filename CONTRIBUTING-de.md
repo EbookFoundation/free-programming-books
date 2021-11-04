@@ -65,6 +65,7 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://gith
 - Abschnitte nutzen Überschriften der Ebene 3 (`###`), während Unterabschnitte die 4. Ebene (`####`) nutzen.
 
 Folgende Formatierungsregeln sollten eingehalten werden:
+
 - `2` Leerzeilen zwischen dem letzten Link und einem neuen Abschnitt.
 - `1` Leerzeile zwischen der Überschrift und dem ersten Link eines Abschnitts.
 - `0` Leerzeilen zwischen zwei Links.

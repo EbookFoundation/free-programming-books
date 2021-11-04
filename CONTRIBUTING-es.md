@@ -71,6 +71,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repo
 - Las secciones utilizan encabezados de nivel 3 (`###`) y las subsecciones de nivel 4 (`####`).
 
 La idea es tener:
+
 - `2` líneas vacías entre el último enlace de una sección y el título de la siguiente sección.
 - `1` línea vacía entre la cabecera y el primer enlace de una determinada sección.
 - `0` líneas en blanco entre los distintos enlaces.

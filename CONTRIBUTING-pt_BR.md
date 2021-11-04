@@ -65,6 +65,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
 - Seções são títulos de nível 3 (`###`), e subseções são títulos de nível 4 (`####`).
 
 A ideia é ter:
+
 - `2` linhas em branco entre o último _link_ e a nova seção.
 - `1` linha em branco entre o título e o primeiro _link_ da seção.
 - `0` linhas em branco entre dois _links_.

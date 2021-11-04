@@ -68,6 +68,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 - Le sezioni utilizzano il livello 3 di heading (`###`), e le sottosezioni utilizzano il livello 4 di heading (`####`).
 
 L'idea è di avere:
+
 - `2` linee vuote tra l'ultimo link e la nuova sezione.
 - `1` linea vuota tra il titolo e il primo link della sezione.
 - `0` linee vuote tra due link.

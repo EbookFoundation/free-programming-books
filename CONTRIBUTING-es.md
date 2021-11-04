@@ -79,69 +79,71 @@ La idea es tener:
 
 Ejemplo:
 
-    [...]
-    * [Un libro increíble](http://example.com/example.html)
-                                    (línea en blanco)
-                                    (línea en blanco)
-    ### Sección de ejemplo
-                                    (línea en blanco)
-    * [Otro libro fascinante](http://example.com/book.html)
-    * [Otro libro más](http://example.com/other.html)
+```text
+[...]
+* [Un libro increíble](http://example.com/example.html)
+                                (línea en blanco)
+                                (línea en blanco)
+### Sección de ejemplo
+                                (línea en blanco)
+* [Otro libro fascinante](http://example.com/book.html)
+* [Otro libro más](http://example.com/other.html)
+```
 
 - Omita los espacios entre `]` y `(`:
 
-   ```
-   INCORRECTO : * [Otro libro fascinante] (http://example.com/book.html)
-   CORRECTO   : * [Otro libro fascinante](http://example.com/book.html)
-   ```
+    ```text
+    INCORRECTO: * [Otro libro fascinante] (http://example.com/book.html)
+    CORRECTO  : * [Otro libro fascinante](http://example.com/book.html)
+    ```
 
 - Si en el registro decide incluir al autor, emplee ` - ` (un guión rodeado de espacios simples) como separador:
 
-   ```
-   INCORRECTO : * [Un libro sencillamente fabuloso](http://example.com/book.html)- John Doe
-   CORRECTO   : * [Un libro sencillamente fabuloso](http://example.com/book.html) - John Doe
-   ```
+    ```text
+    INCORRECTO: * [Un libro sencillamente fabuloso](http://example.com/book.html)- John Doe
+    CORRECTO  : * [Un libro sencillamente fabuloso](http://example.com/book.html) - John Doe
+    ```
 
 - Ponga un solo espacio entre el enlace al contenido y su formato:
 
-   ```
-   INCORRECTO : * [Un libro muy interesante](https://example.org/book.pdf)(PDF)
-   CORRECTO   : * [Un libro muy interesante](https://example.org/book.pdf) (PDF)
-   ```
+    ```text
+    INCORRECTO: * [Un libro muy interesante](https://example.org/book.pdf)(PDF)
+    CORRECTO  : * [Un libro muy interesante](https://example.org/book.pdf) (PDF)
+    ```
 
 - El autor se antepone al formato:
 
-   ```
-   INCORRECTO : * [Un libro muy interesante](https://example.org/book.pdf)- (PDF) Jane Roe
-   CORRECTO   : * [Un libro muy interesante](https://example.org/book.pdf) - Jane Roe (PDF)
-   ```
+    ```text
+    INCORRECTO: * [Un libro muy interesante](https://example.org/book.pdf)- (PDF) Jane Roe
+    CORRECTO  : * [Un libro muy interesante](https://example.org/book.pdf) - Jane Roe (PDF)
+    ```
 
 - Múltiples formatos:
 
-   ```
-   INCORRECTO : * [Otro libro interesante](http://example.com/) - John Doe (HTML)
-   INCORRECTO : * [Otro libro interesante](https://downloads.example.org/book.html) - John Doe (sitio de descarga)
-   CORRECTO   : * [Otro libro interesante](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-   ```
+    ```text
+    INCORRECTO: * [Otro libro interesante](http://example.com/) - John Doe (HTML)
+    INCORRECTO: * [Otro libro interesante](https://downloads.example.org/book.html) - John Doe (sitio de descarga)
+    CORRECTO  : * [Otro libro interesante](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 - Incluya el año de publicación como parte del título de los libros más antiguos:
 
-   ```
-   INCORRECTO : * [Un libro bastante especial](https://example.org/book.html) - Jane Roe - 1970
-   CORRECTO   : * [Un libro bastante especial (1970)](https://example.org/book.html) - Jane Roe
-   ```
+    ```text
+    INCORRECTO: * [Un libro bastante especial](https://example.org/book.html) - Jane Roe - 1970
+    CORRECTO  : * [Un libro bastante especial (1970)](https://example.org/book.html) - Jane Roe
+    ```
 
 - <a name="in_process"></a>Libros en proceso / no acabados aún:
 
-   ```
-   CORRECTO: * [A punto de ser un libro fascinante](http://example.com/book2.html) - John Doe (HTML) (:construction: *en proceso*)
-   ```
+    ```text
+    CORRECTO  : * [A punto de ser un libro fascinante](http://example.com/book2.html) - John Doe (HTML) (:construction: *en proceso*)
+    ```
 
 - <a name="archived"></a>Enlaces archivados:
 
-   ```
-   CORRECTO: * [Un recurso recuperado a partir de su línea de tiempo](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archivado)*
-   ```
+    ```text
+    CORRECTO  : * [Un recurso recuperado a partir de su línea de tiempo](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archivado)*
+    ```
 
 
 <a name="notes"></a>
@@ -252,8 +254,8 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 - La validación de URLs se realiza mediante [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Para activar esta validación de URL, envíe un commit que incluya como mensaje de confirmación `check_urls=fichero_a_comprobar`:
 
-    ```
-    check_urls=free-programming-books.md free-programming-books-en.md
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-es.md
     ```
 
 - Es posible especificar más de un fichero a comprobar. Simplemente use un espacio para separar cada entrada.

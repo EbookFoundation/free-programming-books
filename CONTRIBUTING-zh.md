@@ -73,7 +73,7 @@
 
 举例：
 
-```
+```text
 [...]
 * [一本很有用的书](http://example.com/example.html)
                                 (空行)
@@ -86,65 +86,65 @@
 
 * 在 `]` 和 `(` 之间不要留有空格：
 
-```
-错误：* [一本很有用的书] (http://example.com/book.html)
-正确：* [一本很有用的书](http://example.com/book.html)
-```
+    ```text
+    错误：* [一本很有用的书] (http://example.com/book.html)
+    正确：* [一本很有用的书](http://example.com/book.html)
+    ```
 
 * 如果包括作者，请使用' - '(由单个空格(英文半角)包围的破折号)：
 
-```
-错误：* [一本很有用的书](http://example.com/book.html)- 张显宗
-正确：* [一本很有用的书](http://example.com/book.html) - 张显宗
-```
+    ```text
+    错误：* [一本很有用的书](http://example.com/book.html)- 张显宗
+    正确：* [一本很有用的书](http://example.com/book.html) - 张显宗
+    ```
 
 * 在链接和电子书格式之间放一个空格：
 
-```
-错误：* [一本很有用的书](https://example.org/book.pdf)(PDF)
-正确：* [一本很有用的书](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    错误：* [一本很有用的书](https://example.org/book.pdf)(PDF)
+    正确：* [一本很有用的书](https://example.org/book.pdf) (PDF)
+    ```
 
 * 如需备注或注解，请使用英文半角括号`( )`：
 
-```
-错误：* [一本很有用的书](https://example.org/book.pdf) （繁体中文）
-正确：* [一本很有用的书](https://example.org/book.pdf) (繁体中文)
-```
+    ```text
+    错误：* [一本很有用的书](https://example.org/book.pdf) （繁体中文）
+    正确：* [一本很有用的书](https://example.org/book.pdf) (繁体中文)
+    ```
 
 * 作者在电子书格式之前：
 
-```
-错误：* [一本很有用的书](https://example.org/book.pdf)- (PDF) 张显宗
-正确：* [一本很有用的书](https://example.org/book.pdf) - 张显宗 (PDF)
-```
+    ```text
+    错误：* [一本很有用的书](https://example.org/book.pdf)- (PDF) 张显宗
+    正确：* [一本很有用的书](https://example.org/book.pdf) - 张显宗 (PDF)
+    ```
 
 * 多重格式：
 
-```
-错误：* [一本很有用的书](http://example.com/)- 张显宗 (HTML)
-错误：* [一本很有用的书](https://downloads.example.org/book.html)- 张显宗 (download site)
-正确：* [一本很有用的书](http://example.com/) - 张显宗 (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    错误：* [一本很有用的书](http://example.com/)- 张显宗 (HTML)
+    错误：* [一本很有用的书](https://downloads.example.org/book.html)- 张显宗 (download site)
+    正确：* [一本很有用的书](http://example.com/) - 张显宗 (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 * 多作者，多译者时，请使用中文 `、` 进行分隔，在译者名字后请使用英文半角括号包围的 `(翻译)`，可以用 “等” 缩短作者列表：
 
-```
-错误：* [一本很有用的书](https://example.org/book.pdf) - 张显宗，岳绮罗
-正确：* [一本很有用的书](https://example.org/book.pdf) - 张显宗、岳绮罗(翻译)
-正确：* [一本很有用的书](https://example.org/book.pdf) - 张显宗、岳绮罗、顾玄武、出尘子 等
-```
+    ```text
+    错误：* [一本很有用的书](https://example.org/book.pdf) - 张显宗，岳绮罗
+    正确：* [一本很有用的书](https://example.org/book.pdf) - 张显宗、岳绮罗(翻译)
+    正确：* [一本很有用的书](https://example.org/book.pdf) - 张显宗、岳绮罗、顾玄武、出尘子 等
+    ```
 
 * 在旧书的标题中包括出版年份：
 
-```
-错误：* [一本很有用的书](https://example.org/book.html) - 张显宗 - 1970
-正确：* [一本很有用的书 (1970)](https://example.org/book.html) - 张显宗
-```
+    ```text
+    错误：* [一本很有用的书](https://example.org/book.html) - 张显宗 - 1970
+    正确：* [一本很有用的书 (1970)](https://example.org/book.html) - 张显宗
+    ```
 
 * <a name="in_process"></a>编写(翻译)中的书籍：
 
-```
-正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *编写中*)
-正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *翻译中*)
-```
+    ```text
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *编写中*)
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *翻译中*)
+    ```

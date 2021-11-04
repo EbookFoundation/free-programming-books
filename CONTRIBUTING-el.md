@@ -79,69 +79,71 @@
 
 Παράδειγμα:
 
-    [...]
-    * [Ένα Φοβερό Βιβλίο](http://example.com/example.html)
-                                    (κενή γραμμή)
-                                    (κενή γραμμή)
-    ### Παράδειγμα
-                                    (κενή γραμμή)
-    * [Άλλο Φοβερό Βιβλίο](http://example.com/book.html)
-    * [Κάποιο Άλλο Βιβλίο](http://example.com/other.html)
+```text
+[...]
+* [Ένα Φοβερό Βιβλίο](http://example.com/example.html)
+                                (κενή γραμμή)
+                                (κενή γραμμή)
+### Παράδειγμα
+                                (κενή γραμμή)
+* [Άλλο Φοβερό Βιβλίο](http://example.com/book.html)
+* [Κάποιο Άλλο Βιβλίο](http://example.com/other.html)
+```
 
 - Μη βάζετε κενό μεταξύ `]` και `(`:
 
-```
-ΚΑΚΟ: * [Άλλο Φοβερό Βιβλίο] (http://example.com/book.html)
-ΚΑΛΟ: * [Άλλο Φοβερό Βιβλίο](http://example.com/book.html)
-```
+    ```text
+    ΚΑΚΟ: * [Άλλο Φοβερό Βιβλίο] (http://example.com/book.html)
+    ΚΑΛΟ: * [Άλλο Φοβερό Βιβλίο](http://example.com/book.html)
+    ```
 
 - Αν συμπεριλαμβάνετε συγγραφέα, χρησιμοποιήστε ` - ` (μια παύλα που περιβάλλεται από κενά):
 
-```
-ΚΑΚΟ: * [Άλλο Φοβερό Βιβλίο](http://example.com/book.html)- John Doe
-ΚΑΛΟ: * [Άλλο Φοβερό Βιβλίο](http://example.com/book.html) - John Doe
-```
+    ```text
+    ΚΑΚΟ: * [Άλλο Φοβερό Βιβλίο](http://example.com/book.html)- John Doe
+    ΚΑΛΟ: * [Άλλο Φοβερό Βιβλίο](http://example.com/book.html) - John Doe
+    ```
 
 - Εισάγετε ένα κενό μεταξύ του συνδέσμου και του format του:
 
-```
-ΚΑΚΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://example.org/book.pdf)(PDF)
-ΚΑΛΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    ΚΑΚΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://example.org/book.pdf)(PDF)
+    ΚΑΛΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://example.org/book.pdf) (PDF)
+    ```
 
 - Ο συγγραφέας μπαίνει πριν το format
 
-```
-ΚΑΚΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://example.org/book.pdf)- (PDF) Jane Roe
-ΚΑΛΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://example.org/book.pdf) - Jane Roe (PDF)
-```
+    ```text
+    ΚΑΚΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://example.org/book.pdf)- (PDF) Jane Roe
+    ΚΑΛΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://example.org/book.pdf) - Jane Roe (PDF)
+    ```
 
 - Πολλαπλά formats:
 
-```
-ΚΑΚΟ: * [Ένα Πολύ Φοβερό Βιβλίο](http://example.com/)- John Doe (HTML)
-ΚΑΚΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://downloads.example.org/book.html)- John Doe (download site)
-ΚΑΛΟ: * [Ένα Πολύ Φοβερό Βιβλίο](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    ΚΑΚΟ: * [Ένα Πολύ Φοβερό Βιβλίο](http://example.com/)- John Doe (HTML)
+    ΚΑΚΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://downloads.example.org/book.html)- John Doe (download site)
+    ΚΑΛΟ: * [Ένα Πολύ Φοβερό Βιβλίο](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 - Συμπεριλαμβάνετε χρονιά δημοσιεύσης στον τίτλο για παλαιότερα βιβλία:
 
-```
-ΚΑΚΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://example.org/book.html) - Jane Roe - 1970
-ΚΑΛΟ: * [Ένα Πολύ Φοβερό Βιβλίο (1970)](https://example.org/book.html) - Jane Roe
-```
+    ```text
+    ΚΑΚΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://example.org/book.html) - Jane Roe - 1970
+    ΚΑΛΟ: * [Ένα Πολύ Φοβερό Βιβλίο (1970)](https://example.org/book.html) - Jane Roe
+    ```
 
 - <a name="in_process"></a>Βιβλία σε εξέλιξη:
 
-```
-ΚΑΛΟ: * [Θα Είναι Σύντομα Ένα Φοβερό Βιβλίο](http://example.com/book2.html) - John Doe (HTML) (:construction: *σε εξέλιξη*)
-```
+    ```text
+    ΚΑΛΟ: * [Θα Είναι Σύντομα Ένα Φοβερό Βιβλίο](http://example.com/book2.html) - John Doe (HTML) (:construction: *σε εξέλιξη*)
+    ```
 
 - <a name="archived"></a>Αρχειοθετημένοι σύνδεσμοι:
 
-```
-ΚΑΛΟ: * [Ένα Ενδιαφέρον Way-backed Βιβλίο](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: αρχειοθετημένο)*
-```
+    ```text
+    ΚΑΛΟ: * [Ένα Ενδιαφέρον Way-backed Βιβλίο](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: αρχειοθετημένο)*
+    ```
 
 
 <a name="notes"></a>
@@ -243,9 +245,9 @@
 - Η επικύρωση των URL χρησιμοποιεί το [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Για να ενεργοποιήσετε την επικύρωση του URL, κάντε push ένα commit που περιέχει ένα μήνυμα στο οποίο υπάρχει το `check_urls=file_to_check`:
 
-```
-check_urls=free-programming-books.md free-programming-books-en.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-el.md
+    ```
 
 - Μπορείτε να προσδιορίσετε πάνω από ένα αρχείο για έλεγχο, χρησιμοποιώντας ένα κενό για να ξεχωρίσετε κάθε καταχώρηση.
 - Αν προσδιορίσετε πάνω από ένα αρχείο, τα αποτελέσματα του build βασίζονται στα αποτελέσματα του τελευταίου αρχείου που ελέγχθηκε. Θα πρέπει να γνωρίζετε ότι ενδέχεται να πάρετε επικυρωμένα builds εξαιτίας αυτού οπότε να είστε σίγουροι ότι επιβλέπετε το αρχείο του build στο τέλος του pull request πατώντας στο "Show all checks" -> "Details".

@@ -76,69 +76,71 @@ The idea is to have:
 
 Halimbawa:
 
-    [...]
-    * [An Awesome Book](http://example.com/example.html)
-                                    (blank line)
-                                    (blank line)
-    ### Example
-                                    (blank line)
-    * [Another Awesome Book](http://example.com/book.html)
-    * [Some Other Book](http://example.com/other.html)
+```text
+[...]
+* [An Awesome Book](http://example.com/example.html)
+                                (blank line)
+                                (blank line)
+### Example
+                                (blank line)
+* [Another Awesome Book](http://example.com/book.html)
+* [Some Other Book](http://example.com/other.html)
+```
 
 - Huwag maglagay ng mga puwang sa pagitan `]` at `(`:
 
-```
-BAD : * [Another Awesome Book] (http://example.com/book.html)
-GOOD: * [Another Awesome Book](http://example.com/book.html)
-```
+    ```text
+    BAD : * [Another Awesome Book] (http://example.com/book.html)
+    GOOD: * [Another Awesome Book](http://example.com/book.html)
+    ```
 
 - Kung isasama mo ang may-akda, gamitin ` - ` (isang gitling na napapalibutan ng mga solong espasyo):
 
-```
-BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
-GOOD: * [Another Awesome Book](http://example.com/book.html) - John Doe
-```
+    ```text
+    BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
+    GOOD: * [Another Awesome Book](http://example.com/book.html) - John Doe
+    ```
 
 - Maglagay ng isang puwang sa pagitan ng link at ang format nito:
 
-```
-BAD : * [A Very Awesome Book](https://example.org/book.pdf)(PDF)
-GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    BAD : * [A Very Awesome Book](https://example.org/book.pdf)(PDF)
+    GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
+    ```
 
 - Nauna ang may-akda sa format:
 
-```
-BAD : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe
-GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
-```
+    ```text
+    BAD : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe
+    GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
+    ```
 
 - Maramihang format:
 
-```
-BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
-BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
-GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
+    BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
+    GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 - Isama ang taon ng publikasyon sa pamagat para sa mga mas lumang aklat:
 
-```
-BAD : * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
-GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
-```
+    ```text
+    BAD : * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
+    GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
+    ```
 
 - <a name="in_process"></a>In-process books:
 
-```
-GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
-```
+    ```text
+    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    ```
 
 - <a name="archived"></a>Archived link:
 
-```
-GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
-```
+    ```text
+    GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
 
 
 ### Mga Tala
@@ -237,9 +239,9 @@ Kung maaari mong i-print ito at panatilihin ang kakanyahan nito, hindi ito isang
 - Gumagamit ng pagpapatunay ng URL [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Upang ma-trigger ang pagpapatunay ng URL, mag-push ng commit na may kasamang commit na mensahe na naglalaman `check_urls=file_to_check`:
 
-```
-check_urls=free-programming-books.md free-programming-books-en.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-fil.md
+    ```
 
 - Maaari kang tumukoy ng higit sa isang file na susuriin, gamit ang isang puwang upang paghiwalayin ang bawat entry.
 - Kung tumukoy ka ng higit sa isang file, ang mga resulta ng build ay batay sa resulta ng huling file na nasuri. Dapat mong malaman na maaari kang makapasa sa mga berdeng build dahil dito kaya siguraduhing suriin ang build log sa dulo ng pull request sa pamamagitan ng pag-click sa "Show all checks" -> "Details".

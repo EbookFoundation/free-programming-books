@@ -76,69 +76,71 @@ L'idea è di avere:
 
 Esempi:
 
-    [...]
-    * [An Awesome Book](http://example.com/example.html)
-                                    (linea vuota)
-                                    (linea vuota)
-    ### Esempio
-                                    (linea vuota)
-    * [Another Awesome Book](http://example.com/book.html)
-    * [Some Other Book](http://example.com/other.html)
+```text
+[...]
+* [An Awesome Book](http://example.com/example.html)
+                                (linea vuota)
+                                (linea vuota)
+### Esempio
+                                (linea vuota)
+* [Another Awesome Book](http://example.com/book.html)
+* [Some Other Book](http://example.com/other.html)
+```
 
 - Non mettere uno spazio tra `]` e `(`:
 
-```
-SCORRETTO : * [Another Awesome Book] (http://example.com/book.html)
-CORRETTO: * [Another Awesome Book](http://example.com/book.html)
-```
+    ```text
+    SCORRETTO: * [Another Awesome Book] (http://example.com/book.html)
+    CORRETTO : * [Another Awesome Book](http://example.com/book.html)
+    ```
 
 - Se includi gli autori, usa ` - ` (un trattino circondato da spazi singoli):
 
-```
-SCORRETTO : * [Another Awesome Book](http://example.com/book.html)- John Doe
-CORRETTO: * [Another Awesome Book](http://example.com/book.html) - John Doe
-```
+    ```text
+    SCORRETTO: * [Another Awesome Book](http://example.com/book.html)- John Doe
+    CORRETTO : * [Another Awesome Book](http://example.com/book.html) - John Doe
+    ```
 
 - Metti uno spazio tra il link e il formato:
 
-```
-SCORRETTO : * [A Very Awesome Book](https://example.org/book.pdf)(PDF)
-CORRETTO: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    SCORRETTO: * [A Very Awesome Book](https://example.org/book.pdf)(PDF)
+    CORRETTO : * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
+    ```
 
 - Gli autori vanno prima del formato:
 
-```
-SCORRETTO : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe
-CORRETTO: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
-```
+    ```text
+    SCORRETTO: * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe
+    CORRETTO : * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
+    ```
 
 - Formati multipli:
 
-```
-SCORRETTO : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
-SCORRETTO : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
-CORRETTO: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    SCORRETTO: * [Another Awesome Book](http://example.com/)- John Doe (HTML)
+    SCORRETTO: * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
+    CORRETTO : * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 - Includi l'anno di pubblicazione nel titolo per i libri più vecchi:
 
-```
-SCORRETTO : * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
-CORRETTO: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
-```
+    ```text
+    SCORRETTO: * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
+    CORRETTO : * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
+    ```
 
 - <a name="in_process"></a>Libri in sviluppo:
 
-```
-CORRETTO: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
-```
+    ```text
+    CORRETTO : * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    ```
 
 - <a name="archived"></a>Link archiviato:
 
-```
-CORRETTO: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
-```
+    ```text
+    CORRETTO : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
 
 
 ### Note
@@ -237,9 +239,9 @@ Se riesci a stamparlo e conservarne l'essenza, non è un tutorial interattivo.
 - La validazione dell'URL usa [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Per attivare la convalida dell'URL, invia un commit che includa un messaggio di commit contenente `check_urls=file_to_check`:
 
-```
-check_urls=free-programming-books.md free-programming-books-en.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-it.md
+    ```
 
 - È possibile specificare più di un file da controllare, utilizzando un singolo spazio per separare ogni voce.
 - Se specifichi più di un file, i risultati della build si basano sul risultato dell'ultimo file controllato. Dovresti essere consapevole che potresti ottenere il passaggio di build verdi a causa di ciò, quindi assicurati di ispezionare il registro di build alla fine della richiesta pull facendo clic su "Show all checks" -> "Details".

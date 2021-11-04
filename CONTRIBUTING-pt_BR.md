@@ -73,63 +73,65 @@ A ideia é ter:
 
 Exemplo:
 
-    [...]
-    * [Um Livro Incrível](http://exemplo.com/exemplo.html)
-                                    (linha em branco)
-                                    (linha em branco)
-    ### Exemplo
-                                    (linha em branco)
-    * [Outro Livro Incrível](http://exemplo.com/livro.html)
-    * [Outro Livro Qualquer](http://exemplo.com/outro.html)
+```text
+[...]
+* [Um Livro Incrível](http://exemplo.com/exemplo.html)
+                                (linha em branco)
+                                (linha em branco)
+### Exemplo
+                                (linha em branco)
+* [Outro Livro Incrível](http://exemplo.com/livro.html)
+* [Outro Livro Qualquer](http://exemplo.com/outro.html)
+```
 
 - Não coloque espaços entre `]` e `(`:
 
-```
-RUIM : * [Outro Livro Incrível] (http://exemplo.com/livro.html)
-BOM  : * [Outro Livro Incrível](http://exemplo.com/livro.html)
-```
+    ```text
+    RUIM: * [Outro Livro Incrível] (http://exemplo.com/livro.html)
+    BOM : * [Outro Livro Incrível](http://exemplo.com/livro.html)
+    ```
 
 - Se incluir o autor, use ` - ` (um traço envolto por espaços simples):
 
-```
-RUIM : * [Outro Livro Incrível](http://exemplo.com/livro.html)- Fulano de Tal
-BOM  : * [Outro Livro Incrível](http://exemplo.com/livro.html) - Fulano de Tal
-```
+    ```text
+    RUIM: * [Outro Livro Incrível](http://exemplo.com/livro.html)- Fulano de Tal
+    BOM : * [Outro Livro Incrível](http://exemplo.com/livro.html) - Fulano de Tal
+    ```
 
 - Coloque um espaço simples entre o _link_ e seu formato:
 
-```
-RUIM : * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf)(PDF)
-BOM  : * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf) (PDF)
-```
+    ```text
+    RUIM: * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf)(PDF)
+    BOM : * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf) (PDF)
+    ```
 
 - Autor vem antes do formato:
 
-```
-RUIM : * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf)- (PDF) Fulana de Tal
-BOM  : * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf) - Fulana de Tal (PDF)
-```
+    ```text
+    RUIM: * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf)- (PDF) Fulana de Tal
+    BOM : * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf) - Fulana de Tal (PDF)
+    ```
 
 - Múltiplos formatos:
 
-```
-RUIM : * [Outro Livro Incrível](http://exemplo.com/)- Fulano de Tal (HTML)
-RUIM : * [Outro Livro Incrível](https://downloads.exemplo.org/livro.html)- Fulano de Tal (download site)
-BOM  : * [Outro Livro Incrível](http://exemplo.com/) - Fulano de Tal (HTML) [(PDF, EPUB)](https://downloads.exemplo.org/livro.html)
-```
+    ```text
+    RUIM: * [Outro Livro Incrível](http://exemplo.com/)- Fulano de Tal (HTML)
+    RUIM: * [Outro Livro Incrível](https://downloads.exemplo.org/livro.html)- Fulano de Tal (download site)
+    BOM : * [Outro Livro Incrível](http://exemplo.com/) - Fulano de Tal (HTML) [(PDF, EPUB)](https://downloads.exemplo.org/livro.html)
+    ```
 
 - Inclua o ano de publicação no título de livros antigos:
 
-```
-RUIM : * [Um Livro Muito Incrível](https://exemplo.org/livro.html) - Fulana de Tal - 1970
-BOM  : * [Um Livro Muito Incrível (1970)](https://exemplo.org/livro.html) - Fulana de Tal
-```
+    ```text
+    RUIM: * [Um Livro Muito Incrível](https://exemplo.org/livro.html) - Fulana de Tal - 1970
+    BOM : * [Um Livro Muito Incrível (1970)](https://exemplo.org/livro.html) - Fulana de Tal
+    ```
 
 - <a name="in_process"></a>Livros em processo:
 
-```
-BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) (:construction: *em processo*)
-```
+    ```text
+    BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) (:construction: *em processo*)
+    ```
 
 
 ### Observações
@@ -228,9 +230,9 @@ Se você pode capturar a tela ou imprimí-la e reter sua essência, então não 
 - Validação de URL usa [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Para ativar a validação de URL, dê _push_ num _commit_ que inclua uma mensagem de _commit_ contendo `check_urls=file_to_check`:
 
-```
-check_urls=free-programming-books.md free-programming-books-pt_BR.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-pt_BR.md
+    ```
 
 - Você pode especificar mais de um arquivo para checagem, usando um espaço simples para separar cada entrada.
 - Se você especificar mais de um arquivo, os resultados de _build_ serão baseados no resultado do último arquivo verificado. Você deve se atentar para o fato de que pode obter um _build_ com verde de sucesso devido a isso. Então, certifique-se de inspecionar o _build log_ ao final de cada _pull request_ clicando em "Show all checks" -> "Details".

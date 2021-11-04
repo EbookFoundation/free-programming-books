@@ -69,63 +69,65 @@
 
 예시:
 
-    [...]
-    * [An Awesome Book](http://example.com/example.html)
-                                    (blank line)
-                                    (blank line)
-    ### Example
-                                    (blank line)
-    * [Another Awesome Book](http://example.com/book.html)
-    * [Some Other Book](http://example.com/other.html)
+```text
+[...]
+* [An Awesome Book](http://example.com/example.html)
+                                (blank line)
+                                (blank line)
+### Example
+                                (blank line)
+* [Another Awesome Book](http://example.com/book.html)
+* [Some Other Book](http://example.com/other.html)
+```
 
 - `]` 와 `(` 사이에 공백을 넣지 마십시오:
 
-```
-BAD : * [Another Awesome Book] (http://example.com/book.html)
-GOOD: * [Another Awesome Book](http://example.com/book.html)
-```
+    ```text
+    BAD : * [Another Awesome Book] (http://example.com/book.html)
+    GOOD: * [Another Awesome Book](http://example.com/book.html)
+    ```
 
 - 저자를 표시할 경우, ` - `를 사용하십시오 (띄어쓰기 - 띄어쓰기):
 
-```
-BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
-GOOD: * [Another Awesome Book](http://example.com/book.html) - John Doe
-```
+    ```text
+    BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
+    GOOD: * [Another Awesome Book](http://example.com/book.html) - John Doe
+    ```
 
 - 바로가기와 형식 사이에는 공백을 삽입 하십시오:
 
-```
-BAD : * [A Very Awesome Book](https://example.org/book.pdf)(PDF)
-GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    BAD : * [A Very Awesome Book](https://example.org/book.pdf)(PDF)
+    GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
+    ```
 
 - 저자는 형식 전에 옵니다:
 
-```
-BAD : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe
-GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
-```
+    ```text
+    BAD : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe
+    GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
+    ```
 
 - 여러가지의 파일 형식이 존재할떄:
 
-```
-BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
-BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
-GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
+    BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
+    GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 - 오래된 책들은 출판 년도를 포함하세요:
 
-```
-BAD : * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
-GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
-```
+    ```text
+    BAD : * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
+    GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
+    ```
 
 - <a name="in_process"></a>작성중인 책:
 
-```
-GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
-```
+    ```text
+    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    ```
 
 
 ### 노트(쪽지)
@@ -224,9 +226,9 @@ GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe
 - 바로가기 주소 검증은 [awesome_bot](https://github.com/dkhamsing/awesome_bot)를 이용합니다
 - 바로가기 주소 검증을 위해 커밋 메시지에 `check_urls=file_to_check`을 포함해 주세요:
 
-```
-check_urls=free-programming-books.md free-programming-books-en.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-ko.md
+    ```
 
 - 각 입력을 공백으로 구문하여 하나 이상의 파일을 검사 할 수 있습니다.
 - 만약 하나 이상의 파일을 검사한다면, 검사 결과는 마지막 파일의 검사 결과가 표시됩니다. 이 특성으로 인하여 통과를 받았더라도 관리자에 의하여 최종 승인이 보류 될 수 있습니다. 정확한 결과를 확인 하려면, "Show all checks" -> "Details"로 가세요.

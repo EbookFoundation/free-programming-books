@@ -73,63 +73,65 @@ Folgende Formatierungsregeln sollten eingehalten werden:
 
 Beispiel:
 
-    [...]
-    * [Ein tolles Buch](http://example.com/example.html)
-                                    (Leerzeile)
-                                    (Leerzeile)
-    ### Beispiel
-                                    (Leerzeile)
-    * [Noch ein tolles Buch](http://example.com/book.html)
-    * [Ein anderes Buch](http://example.com/other.html)
+```text
+[...]
+* [Ein tolles Buch](http://example.com/example.html)
+                                (Leerzeile)
+                                (Leerzeile)
+### Beispiel
+                                (Leerzeile)
+* [Noch ein tolles Buch](http://example.com/book.html)
+* [Ein anderes Buch](http://example.com/other.html)
+```
 
 - Keine Leerzeichen zwischen `]` und `(` einfügen:
 
-```
-FALSCH : * [Noch ein tolles Buch] (http://example.com/book.html)
-RICHTIG: * [Noch ein tolles Buch](http://example.com/book.html)
-```
+    ```text
+    FALSCH : * [Noch ein tolles Buch] (http://example.com/book.html)
+    RICHTIG: * [Noch ein tolles Buch](http://example.com/book.html)
+    ```
 
 - Wenn Du den Autor nennst, nutze ` - ` (einen mit Leerzeichen eingefassten Gedankenstrich):
 
-```
-FALSCH : * [Noch ein tolles Buch](http://example.com/book.html)- John Doe
-RICHTIG: * [Noch ein tolles Buch](http://example.com/book.html) - John Doe
-```
+    ```text
+    FALSCH : * [Noch ein tolles Buch](http://example.com/book.html)- John Doe
+    RICHTIG: * [Noch ein tolles Buch](http://example.com/book.html) - John Doe
+    ```
 
 - Füge ein einzelnes Leerzeichen zwischen dem Link und seinem Dateiformat ein:
 
-```
-FALSCH : * [Ein sehr tolles Buch](https://example.org/book.pdf)(PDF)
-RICHTIG: * [Ein sehr tolles Buch](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    FALSCH : * [Ein sehr tolles Buch](https://example.org/book.pdf)(PDF)
+    RICHTIG: * [Ein sehr tolles Buch](https://example.org/book.pdf) (PDF)
+    ```
 
 - Der Autor wird vor dem Format genannt:
 
-```
-FALSCH : * [Ein sehr tolles Buch](https://example.org/book.pdf)- (PDF) Jane Roe
-RICHTIG: * [Ein sehr tolles Buch](https://example.org/book.pdf) - Jane Roe (PDF)
-```
+    ```text
+    FALSCH : * [Ein sehr tolles Buch](https://example.org/book.pdf)- (PDF) Jane Roe
+    RICHTIG: * [Ein sehr tolles Buch](https://example.org/book.pdf) - Jane Roe (PDF)
+    ```
 
 - Verschiedene Formate:
 
-```
-FALSCH : * [Noch ein tolles Buch](http://example.com/)- John Doe (HTML)
-FALSCH : * [Noch ein tolles Buch](https://downloads.example.org/book.html)- John Doe (download site)
-RICHTIG: * [Noch ein tolles Buch](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    FALSCH : * [Noch ein tolles Buch](http://example.com/)- John Doe (HTML)
+    FALSCH : * [Noch ein tolles Buch](https://downloads.example.org/book.html)- John Doe (download site)
+    RICHTIG: * [Noch ein tolles Buch](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 - Nenne das Jahr der Veröffentlichung im Titel bei älteren Publikationen:
 
-```
-FALSCH : * [Ein sehr tolles Buch](https://example.org/book.html) - Jane Roe - 1970
-RICHTIG: * [Ein sehr tolles Buch (1970)](https://example.org/book.html) - Jane Roe
-```
+    ```text
+    FALSCH : * [Ein sehr tolles Buch](https://example.org/book.html) - Jane Roe - 1970
+    RICHTIG: * [Ein sehr tolles Buch (1970)](https://example.org/book.html) - Jane Roe
+    ```
 
 - <a name="in_process"></a>Bücher in Bearbeitung:
 
-```
-RICHTIG: * [Wird bald ein tolles Buch sein](http://example.com/book2.html) - John Doe (HTML) (:construction: *in Bearbeitung*)
-```
+    ```text
+    RICHTIG: * [Wird bald ein tolles Buch sein](http://example.com/book2.html) - John Doe (HTML) (:construction: *in Bearbeitung*)
+    ```
 
 
 ### Hinweise
@@ -228,9 +230,9 @@ Wenn etwas ausgedruckt werden kann, ohne dass es seinen Nutzen verliert, ist es 
 - Die URLs werden über [awesome_bot](https://github.com/dkhamsing/awesome_bot) validiert.
 - Um die URL-Validierung auszulösen, kann ein Commit abgeschickt werden, der `check_urls=file_to_check` enthält:
 
-```
-check_urls=free-programming-books.md free-programming-books-en.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-de.md
+    ```
 
 - Man kann mehr als eine zu überprüfende Datei angeben, wobei die Einträge mit einem einzelnen Leerzeichen getrennt werden.
 - Bei Angabe von mehr als einer Datei basiert das Ergebnis des Builds auf dem Ergebnis der letzten geprüften Datei. Du solltest Dir darüber im Klaren sein, dass dies zu gültigen Builds führen kann und daher das Build Protokoll am Ende des Pull Request durch Klick auf "Show all checks" -> "Details" genau geprüft werden sollte.

@@ -75,63 +75,65 @@
 
 مثال:
 
-    [...]
-    * [یک کتاب عالی](http://example.com/example.html)
-                                    (خط خالی)
-                                    (خط خالی)
-    ### مثال
-                                    (خط خالی)
-    * [یک کتاب عالی دیگر](http://example.com/book.html)
-    * [یک کتاب دیگر](http://example.com/other.html)
+```text
+[...]
+* [یک کتاب عالی](http://example.com/example.html)
+                                (خط خالی)
+                                (خط خالی)
+### مثال
+                                (خط خالی)
+* [یک کتاب عالی دیگر](http://example.com/book.html)
+* [یک کتاب دیگر](http://example.com/other.html)
+```
 
 * بین `]` و `(` space نگذارید:
 
-```
-بد : * [یک کتاب عالی دیگر] (http://example.com/book.html)
-خوب: * [یک کتاب عالی دیگر](http://example.com/book.html)
-```
+    ```text
+    بد  : * [یک کتاب عالی دیگر] (http://example.com/book.html)
+    خوب: * [یک کتاب عالی دیگر](http://example.com/book.html)
+    ```
 
 * اگر اسم نویسنده را اضافه می‌کنید، از ` - ` استفاده کنید (یک dash با دو single space):
 
-```
-بد : * [یک کتاب عالی دیگر](http://example.com/book.html)- نام نویسنده
-خوب: * [یک کتاب عالی دیگر](http://example.com/book.html) - نام نویسنده
-```
+    ```text
+    بد  : * [یک کتاب عالی دیگر](http://example.com/book.html)- نام نویسنده
+    خوب: * [یک کتاب عالی دیگر](http://example.com/book.html) - نام نویسنده
+    ```
 
 * یک single space بین لینک و فرمت قرار دهید:
 
-```
-بد : * [یک کتاب خیلی عالی](https://example.org/book.pdf)(PDF)
-خوب: * [یک کتاب خیلی عالی](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    بد  : * [یک کتاب خیلی عالی](https://example.org/book.pdf)(PDF)
+    خوب: * [یک کتاب خیلی عالی](https://example.org/book.pdf) (PDF)
+    ```
 
 * نویسنده قبل از فرمت می‌آید:
 
-```
-بد : * [یک کتاب خیلی عالی](https://example.org/book.pdf)- (PDF) نام نویسنده
-خوب: * [یک کتاب خیلی عالی](https://example.org/book.pdf) - یک نویسنده دیگر (PDF)
-```
+    ```text
+    بد  : * [یک کتاب خیلی عالی](https://example.org/book.pdf)- (PDF) نام نویسنده
+    خوب: * [یک کتاب خیلی عالی](https://example.org/book.pdf) - یک نویسنده دیگر (PDF)
+    ```
 
 * چند فرمتی‌ها:
 
-```
-بد : * [یک کتاب عالی دیگر](http://example.com/)- نام نویسنده (HTML)
-بد : * [یک کتاب عالی دیگر](https://downloads.example.org/book.html)- نام نویسنده (download site)
-خوب: * [یک کتاب عالی دیگر](http://example.com/) - نام نویسنده (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    بد  : * [یک کتاب عالی دیگر](http://example.com/)- نام نویسنده (HTML)
+    بد  : * [یک کتاب عالی دیگر](https://downloads.example.org/book.html)- نام نویسنده (download site)
+    خوب: * [یک کتاب عالی دیگر](http://example.com/) - نام نویسنده (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 * سال انتشار برای کتاب‌های قدیمی را در عنوان ینویسید:
 
-```
-بد : * [یک کتاب خیلی عالی](https://example.org/book.html) - نام نویسنده - 1970
-خوب: * [یک کتاب خیلی عالی (1970)](https://example.org/book.html) - نام نویسنده
-```
+    ```text
+    بد  : * [یک کتاب خیلی عالی](https://example.org/book.html) - نام نویسنده - 1970
+    خوب: * [یک کتاب خیلی عالی (1970)](https://example.org/book.html) - نام نویسنده
+    ```
 
 * <a name="in_process"></a>کتاب‌های در دست تالیف:
 
-```
-خوب: * [کتابی که عالی خواهدشد](http://example.com/book2.html) - نام نویسنده (HTML) (:construction: *in process*)
-```
+    ```text
+    خوب: * [کتابی که عالی خواهدشد](http://example.com/book2.html) - نام نویسنده (HTML) (:construction: *in process*)
+    ```
 
 
 ### خودکارسازی
@@ -140,9 +142,9 @@
 * اعتبارسنجی لینک‌ها با استفاده از [awesome_bot](https://github.com/dkhamsing/awesome_bot) انجام می‌شود.
 * برای اجرای اعتبارسنجی لینک‌ها، کامیتی پوش کنید که در بدنه‌ی آن `check_urls=file_to_check` نوشته شده باشد:
 
-```
-check_urls=free-programming-books.md free-programming-books-en.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-fa_IR.md
+    ```
 
 * با استفاده از single space برای جدا کردن هر ورودی، می‌توانید بیشتر از یک فایل را برای بررسی مشخص کنید.
 * اگر بیش از یک فایل را مشخص کردید، نتایج بیلد بر اساس نتیجه آخرین فایل بررسی‌شده خواهد بود. دقت کنید که ممکن است به همین علت، نتیجه سبز را ببینید. پس برای اطمینان لاگ بیلد را با کلیک روی "Show all checks" -> "Details" در پایان پول ریکوئست ببینید.

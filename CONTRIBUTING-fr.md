@@ -73,63 +73,65 @@ l'idée est d'avoir:
 
 Exemple:
 
-    [...]
-    * [Un Livre Génial](http://exemple.com/exemple.html)
-                                    (ligne blanche)
-                                    (ligne blanche)
-    ### Exemple
-                                    (ligne blanche)
-    * [Un Autre Livre Génial](http://exemple.com/livre.html)
-    * [Un Autre Livre](http://exemple.com/autre.html)
+```text
+[...]
+* [Un Livre Génial](http://exemple.com/exemple.html)
+                                (ligne blanche)
+                                (ligne blanche)
+### Exemple
+                                (ligne blanche)
+* [Un Autre Livre Génial](http://exemple.com/livre.html)
+* [Un Autre Livre](http://exemple.com/autre.html)
+```
 
 - Mettez pas des espaces entre `]` et `(`:
 
-```
-MAUVAIS : * [Un Autre Livre Génial] (http://exemple.com/livre.html)
-BIEN    : * [Un Autre Livre Génial](http://exemple.com/livre.html)
-```
+    ```text
+    MAUVAIS: * [Un Autre Livre Génial] (http://exemple.com/livre.html)
+    BIEN   : * [Un Autre Livre Génial](http://exemple.com/livre.html)
+    ```
 
 - Si vous incluez l'auteur, utilisez ` - ` (un tiret entouré d'un espaces):
 
-```
-MAUVAIS : * [Un Autre Livre Génial](http://exemple.com/livre.html)- John Doe
-BIEN    : * [Un Autre Livre Génial](http://exemple.com/livre.html) - John Doe
-```
+    ```text
+    MAUVAIS: * [Un Autre Livre Génial](http://exemple.com/livre.html)- John Doe
+    BIEN   : * [Un Autre Livre Génial](http://exemple.com/livre.html) - John Doe
+    ```
 
 - Mettez un seul espace entre le lien et son format:
 
-```
-MAUVAIS : * [Un Autre Livre Génial](https://exemple.org/livre.pdf)(PDF)
-BIEN    : * [Un Autre Livre Génial](https://exemple.org/livre.pdf) (PDF)
-```
+    ```text
+    MAUVAIS: * [Un Autre Livre Génial](https://exemple.org/livre.pdf)(PDF)
+    BIEN   : * [Un Autre Livre Génial](https://exemple.org/livre.pdf) (PDF)
+    ```
 
 - L'auteur vient avant le format:
 
-```
-MAUVAIS : * [Un Autre Livre Génial](https://exemple.org/livre.pdf)- (PDF) Jane Roe
-BIEN    : * [Un Autre Livre Génial](https://exemple.org/livre.pdf) - Jane Roe (PDF)
-```
+    ```text
+    MAUVAIS: * [Un Autre Livre Génial](https://exemple.org/livre.pdf)- (PDF) Jane Roe
+    BIEN   : * [Un Autre Livre Génial](https://exemple.org/livre.pdf) - Jane Roe (PDF)
+    ```
 
 - Formats multiples:
 
-```
-MAUVAIS : * [Un Autre Livre Génial](http://exemple.com/)- John Doe (HTML)
-MAUVAIS : * [Un Autre Livre Génial](https://downloads.exemple.org/livre.html)- John Doe (site de téléchargement)
-BIEN    : * [Un Autre Livre Génial](http://exemple.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.exemple.org/livre.html)
-```
+    ```text
+    MAUVAIS: * [Un Autre Livre Génial](http://exemple.com/)- John Doe (HTML)
+    MAUVAIS: * [Un Autre Livre Génial](https://downloads.exemple.org/livre.html)- John Doe (site de téléchargement)
+    BIEN   : * [Un Autre Livre Génial](http://exemple.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.exemple.org/livre.html)
+    ```
 
 - Inclure l'année de publication dans le titre pour les livres plus anciens :
 
-```
-MAUVAIS : * [Un Autre Livre Génial](https://exemple.org/livre.html) - Jane Roe - 1970
-BIEN    : * [Un Autre Livre Génial (1970)](https://exemple.org/livre.html) - Jane Roe
-```
+    ```text
+    MAUVAIS: * [Un Autre Livre Génial](https://exemple.org/livre.html) - Jane Roe - 1970
+    BIEN   : * [Un Autre Livre Génial (1970)](https://exemple.org/livre.html) - Jane Roe
+    ```
 
 - <a name="in_process"></a>Livres en cours :
 
-```
-BIEN    : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) (:construction: *in process*)
-```
+    ```
+    BIEN   : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) (:construction: *in process*)
+    ```
 
 
 ### Remarques
@@ -228,9 +230,9 @@ Si vous pouvez l'imprimer et conserver son essence, ce n'est pas un didacticiel 
 - La validation d'URL utilise [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Pour déclencher la validation d'URL, poussez un commit qui inclut un message de commit contenant `check_urls=file_to_check` :
 
-```
-check_urls=free-programming-livres.md free-programming-livres-en.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-fr.md
+    ```
 
 - Vous pouvez spécifier plus d'un fichier à vérifier, en utilisant un seul espace pour séparer chaque entrée
 - Si vous spécifiez plus d'un fichier, les résultats de la construction sont basés sur le résultat du dernier fichier vérifié. Vous devez savoir que vous pouvez obtenir des versions vertes de réussite à cause de cela, alors assurez-vous d'inspecter le journal de construction à la fin de la demande d'extraction en cliquant sur "Show all checks" -> "Details".

@@ -74,69 +74,71 @@ The idea is to have:
 
 Example:
 
-    [...]
-    * [An Awesome Book](http://example.com/example.html)
-                                    (blank line)
-                                    (blank line)
-    ### Example
-                                    (blank line)
-    * [Another Awesome Book](http://example.com/book.html)
-    * [Some Other Book](http://example.com/other.html)
+```text
+[...]
+* [An Awesome Book](http://example.com/example.html)
+                                (blank line)
+                                (blank line)
+### Example
+                                (blank line)
+* [Another Awesome Book](http://example.com/book.html)
+* [Some Other Book](http://example.com/other.html)
+```
 
 - Don't put spaces between `]` and `(`:
 
-```
-BAD : * [Another Awesome Book] (http://example.com/book.html)
-GOOD: * [Another Awesome Book](http://example.com/book.html)
-```
+    ```text
+    BAD : * [Another Awesome Book] (http://example.com/book.html)
+    GOOD: * [Another Awesome Book](http://example.com/book.html)
+    ```
 
 - If you include the author, use ` - ` (a dash surrounded by single spaces):
 
-```
-BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
-GOOD: * [Another Awesome Book](http://example.com/book.html) - John Doe
-```
+    ```text
+    BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
+    GOOD: * [Another Awesome Book](http://example.com/book.html) - John Doe
+    ```
 
 - Put a single space between the link and its format:
 
-```
-BAD : * [A Very Awesome Book](https://example.org/book.pdf)(PDF)
-GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    BAD : * [A Very Awesome Book](https://example.org/book.pdf)(PDF)
+    GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
+    ```
 
 - Author comes before format:
 
-```
-BAD : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe
-GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
-```
+    ```text
+    BAD : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe
+    GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
+    ```
 
 - Multiple formats:
 
-```
-BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
-BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
-GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
+    BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
+    GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 - Include publication year in title for older books:
 
-```
-BAD : * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
-GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
-```
+    ```text
+    BAD : * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
+    GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
+    ```
 
 - <a name="in_process"></a>In-process books:
 
-```
-GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
-```
+    ```text
+    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    ```
 
 - <a name="archived"></a>Archived link:
 
-```
-GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
-```
+    ```text
+    GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
 
 
 ### Notes
@@ -235,9 +237,9 @@ If you can print it out and retain its essence, it's not an Interactive Tutorial
 - URL validation uses [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - To trigger URL validation, push a commit that includes a commit message containing `check_urls=file_to_check`:
 
-```
-check_urls=free-programming-books.md free-programming-books-en.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-en.md
+    ```
 
 - You may specify more than one file to check, using a single space to separate each entry.
 - If you specify more than one file, results of the build are based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the pull request by clicking on "Show all checks" -> "Details".

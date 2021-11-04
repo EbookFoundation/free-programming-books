@@ -83,63 +83,65 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
 
 Ví dụ:
 
-    [...]
-    * [Một cuốn sách tuyệt vời](http://example.com/example.html)
-                                    (dòng trống)
-                                    (dòng trống)
-    ### Ví dụ
-                                    (dòng trống)
-    * [Một cuốn sách tuyệt vời khác](http://example.com/book.html)
-    * [Một số sách khác](http://example.com/other.html)
+```text
+[...]
+* [Một cuốn sách tuyệt vời](http://example.com/example.html)
+                                (dòng trống)
+                                (dòng trống)
+### Ví dụ
+                                (dòng trống)
+* [Một cuốn sách tuyệt vời khác](http://example.com/book.html)
+* [Một số sách khác](http://example.com/other.html)
+```
 
 - Không đặt dấu cách giữa `]` và `(`:
 
-```
-Tệ : * [Một cuốn sách tuyệt vời khác] (http://example.com/book.html)
-Tốt: * [Một cuốn sách tuyệt vời khác](http://example.com/book.html)
-```
+    ```text
+    TỆ : * [Một cuốn sách tuyệt vời khác] (http://example.com/book.html)
+    TỐT: * [Một cuốn sách tuyệt vời khác](http://example.com/book.html)
+    ```
 
 - Nếu bao gồm tác giả, hãy sử dụng ` - ` (dấu gạch ngang được bao quanh bởi các khoảng trắng):
 
-```
-Tệ : * [Một cuốn sách tuyệt vời khác](http://example.com/book.html)- John Doe
-Tốt: * [Một cuốn sách tuyệt vời khác](http://example.com/book.html) - John Doe
-```
+    ```text
+    TỆ : * [Một cuốn sách tuyệt vời khác](http://example.com/book.html)- John Doe
+    TỐT: * [Một cuốn sách tuyệt vời khác](http://example.com/book.html) - John Doe
+    ```
 
 - Đặt một khoảng trắng giữa liên kết và định dạng của nó:
 
-```
-Tệ : * [Một cuốn sách rất tuyệt vời](https://example.org/book.pdf)(PDF)
-Tốt: * [Một cuốn sách rất tuyệt vời](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    TỆ : * [Một cuốn sách rất tuyệt vời](https://example.org/book.pdf)(PDF)
+    TỐT: * [Một cuốn sách rất tuyệt vời](https://example.org/book.pdf) (PDF)
+    ```
 
 - Tác giả đặt trước định dạng:
 
-```
-Tệ : * [Một cuốn sách rất tuyệt vời](https://example.org/book.pdf)- (PDF) Jane Roe
-Tốt: * [Một cuốn sách rất tuyệt vời](https://example.org/book.pdf) - Jane Roe (PDF)
-```
+    ```text
+    TỆ : * [Một cuốn sách rất tuyệt vời](https://example.org/book.pdf)- (PDF) Jane Roe
+    TỐT: * [Một cuốn sách rất tuyệt vời](https://example.org/book.pdf) - Jane Roe (PDF)
+    ```
 
 - Nhiều định dạng:
 
-```
-Tệ : * [Một cuốn sách tuyệt vời khác](http://example.com/)- John Doe (HTML)
-Tệ : * [Một cuốn sách tuyệt vời khác](https://downloads.example.org/book.html)- John Doe (download site)
-Tốt: * [Một cuốn sách tuyệt vời khác](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    TỆ : * [Một cuốn sách tuyệt vời khác](http://example.com/)- John Doe (HTML)
+    TỆ : * [Một cuốn sách tuyệt vời khác](https://downloads.example.org/book.html)- John Doe (download site)
+    TỐT: * [Một cuốn sách tuyệt vời khác](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 - Bao gồm năm xuất bản trong tiêu đề cho các sách cũ hơn:
 
-```
-Tệ : * [Một cuốn sách rất tuyệt vời](https://example.org/book.html) - Jane Roe - 1970
-Tốt: * [Một cuốn sách rất tuyệt vời (1970)](https://example.org/book.html) - Jane Roe
-```
+    ```text
+    TỆ : * [Một cuốn sách rất tuyệt vời](https://example.org/book.html) - Jane Roe - 1970
+    TỐT: * [Một cuốn sách rất tuyệt vời (1970)](https://example.org/book.html) - Jane Roe
+    ```
 
 - <a name="in_process"></a>Sách đang trong quá trình viết:
 
-```
-Tốt: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
-```
+    ```text
+    TỐT: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    ```
 
 
 ### Ghi Chú
@@ -238,9 +240,9 @@ Nếu bạn có thể in nó ra và giữ lại bản chất của nó, thì đ�
 - Sử dụng xác thực liên kết [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Để kích hoạt xác thực liên kết, hãy push một commit bao gồm một commit message chứa `check_urls=file_to_check`:
 
-```
-check_urls=free-programming-books.md free-programming-books-en.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-vi.md
+    ```
 
 - Bạn có thể chỉ định nhiều tệp để kiểm tra, sử dụng một khoảng trắng duy nhất để tách từng mục nhập.
 - Nếu bạn chỉ định nhiều hơn một tệp, kết quả của việc xây dựng sẽ dựa trên kết quả của tệp cuối cùng được kiểm tra. Bạn nên biết rằng bạn có thể nhận được bản xây dựng thành công, vì vậy hãy đảm bảo kiểm tra log ở cuối pull request bằng cách nhấp vào "Show all checks" -> "Details".

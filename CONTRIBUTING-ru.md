@@ -78,63 +78,65 @@
 
 Пример:
 
-    [...]
-    * [Шикарная книга](http://example.com/example.html)
-                                    (пустая строка)
-                                    (пустая строка)
-    ### Пример
-                                    (пустая строка)
-    * [Другая шикарная книга](http://example.com/book.html)
-    * [Ещё одна другая книга](http://example.com/other.html)
+```text
+[...]
+* [Шикарная книга](http://example.com/example.html)
+                                (пустая строка)
+                                (пустая строка)
+### Пример
+                                (пустая строка)
+* [Другая шикарная книга](http://example.com/book.html)
+* [Ещё одна другая книга](http://example.com/other.html)
+```
 
 - Не вставляйте пробел между `]` и `(`:
 
-```
-ПЛОХО : * [Другая шикарная книга] (http://example.com/book.html)
-ХОРОШО: * [Другая шикарная книга](http://example.com/book.html)
-```
+    ```text
+    ПЛОХО : * [Другая шикарная книга] (http://example.com/book.html)
+    ХОРОШО: * [Другая шикарная книга](http://example.com/book.html)
+    ```
 
 - Если вы указываете автора, используйте ` - ` (тире, окруженное одиночными пробелами):
 
-```
-ПЛОХО : * [Другая шикарная книга](http://example.com/book.html)- Джон Доу
-ХОРОШО: * [Другая шикарная книга](http://example.com/book.html) - Джон Доу
-```
+    ```text
+    ПЛОХО : * [Другая шикарная книга](http://example.com/book.html)- Джон Доу
+    ХОРОШО: * [Другая шикарная книга](http://example.com/book.html) - Джон Доу
+    ```
 
 - Отбейте ссылку и её формат пробелом:
 
-```
-ПЛОХО : * [Очень хорошая книга](https://example.org/book.pdf)(PDF)
-ХОРОШО: * [Очень хорошая книга](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    ПЛОХО : * [Очень хорошая книга](https://example.org/book.pdf)(PDF)
+    ХОРОШО: * [Очень хорошая книга](https://example.org/book.pdf) (PDF)
+    ```
 
 - Сперва автор, потом формат:
 
-```
-ПЛОХО : * [Очень хорошая книга](https://example.org/book.pdf)- (PDF) Джейн Роу
-ХОРОШО: * [Очень хорошая книга](https://example.org/book.pdf) - Джейн Роу (PDF)
-```
+    ```text
+    ПЛОХО : * [Очень хорошая книга](https://example.org/book.pdf)- (PDF) Джейн Роу
+    ХОРОШО: * [Очень хорошая книга](https://example.org/book.pdf) - Джейн Роу (PDF)
+    ```
 
 - Несколько форматов:
 
-```
-ПЛОХО : * [Другая шикарная книга](http://example.com/)- Джон Доу (HTML)
-ПЛОХО : * [Другая шикарная книга](https://downloads.example.org/book.html)- Джон Доу (cайт для загрузки)
-ХОРОШО: * [Другая шикарная книга](http://example.com/) - Джон Доу (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    ПЛОХО : * [Другая шикарная книга](http://example.com/)- Джон Доу (HTML)
+    ПЛОХО : * [Другая шикарная книга](https://downloads.example.org/book.html)- Джон Доу (cайт для загрузки)
+    ХОРОШО: * [Другая шикарная книга](http://example.com/) - Джон Доу (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 - Включите год публикации в заголовок для старых книг:
 
-```
-ПЛОХО : * [Очень хорошая книга](https://example.org/book.html) - Джейн Роу - 1970
-ХОРОШО: * [Очень хорошая книга (1970)](https://example.org/book.html) - Джейн Роу
-```
+    ```text
+    ПЛОХО : * [Очень хорошая книга](https://example.org/book.html) - Джейн Роу - 1970
+    ХОРОШО: * [Очень хорошая книга (1970)](https://example.org/book.html) - Джейн Роу
+    ```
 
 - <a name="in_process"></a>Незавершенные книги:
 
-```
-ХОРОШО: * [Скоро будет отличная книга](http://example.com/book2.html) - Джон Доу (HTML) (:construction: *in process*)
-```
+    ```text
+    ХОРОШО: * [Скоро будет отличная книга](http://example.com/book2.html) - Джон Доу (HTML) (:construction: *in process*)
+    ```
 
 
 <a name="notes"></a>
@@ -245,9 +247,9 @@
 - Для проверки URL используется [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Чтобы запустить проверку URL, нажмите фиксацию, которая включает сообщение фиксации, содержащее `check_urls = ссылка_для_проверки`:
 
-```
-check_urls=free-programming-books.md free-programming-books-en.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-ru.md
+    ```
 
 - Вы можете указать более одного файла для проверки, используя один пробел для разделения каждой записи.
 - Если вы укажете более одного файла, результаты сборки будут основаны на результате последнего проверенного файла. Вы должны знать, что из-за этого вы можете получить проходящие зеленые сборки, поэтому обязательно проверьте журнал сборки в конце пулреквеста, нажав "Show all checks" -> "Details".

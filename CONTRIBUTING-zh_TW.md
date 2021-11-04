@@ -73,7 +73,7 @@
 
 舉例：
 
-```
+```text
 [...]
 * [一本很有用的書](http://example.com/example.html)
                                 (空行)
@@ -86,68 +86,68 @@
 
 * 在 `]` 和 `(` 之間不要留有空格：
 
-```
-錯誤：* [一本很有用的書] (http://example.com/book.html)
-正確：* [一本很有用的書](http://example.com/book.html)
-```
+    ```text
+    錯誤：* [一本很有用的書] (http://example.com/book.html)
+    正確：* [一本很有用的書](http://example.com/book.html)
+    ```
 
 * 如果包括作者，請使用' - '(由單個空格(英文半型)包圍的破折號)：
 
-```
-錯誤：* [一本很有用的書](http://example.com/book.html)- 張顯宗
-正確：* [一本很有用的書](http://example.com/book.html) - 張顯宗
-```
+    ```text
+    錯誤：* [一本很有用的書](http://example.com/book.html)- 張顯宗
+    正確：* [一本很有用的書](http://example.com/book.html) - 張顯宗
+    ```
 
 * 在連結和電子書格式之間放一個空格：
 
-```
-錯誤：* [一本很有用的書](https://example.org/book.pdf)(PDF)
-正確：* [一本很有用的書](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    錯誤：* [一本很有用的書](https://example.org/book.pdf)(PDF)
+    正確：* [一本很有用的書](https://example.org/book.pdf) (PDF)
+    ```
 
 * 如需備注或注解，請使用英文半型括號`( )`：
 
-```
-錯誤：* [一本很有用的書](https://example.org/book.pdf) （繁體中文）
-正確：* [一本很有用的書](https://example.org/book.pdf) (繁體中文)
-```
+    ```text
+    錯誤：* [一本很有用的書](https://example.org/book.pdf) （繁體中文）
+    正確：* [一本很有用的書](https://example.org/book.pdf) (繁體中文)
+    ```
 
 * 作者在電子書格式之前：
 
-```
-錯誤：* [一本很有用的書](https://example.org/book.pdf)- (PDF) 張顯宗
-正確：* [一本很有用的書](https://example.org/book.pdf) - 張顯宗 (PDF)
-```
+    ```text
+    錯誤：* [一本很有用的書](https://example.org/book.pdf)- (PDF) 張顯宗
+    正確：* [一本很有用的書](https://example.org/book.pdf) - 張顯宗 (PDF)
+    ```
 
 * 多重格式：
 
-```
-錯誤：* [一本很有用的書](http://example.com/)- 張顯宗 (HTML)
-錯誤：* [一本很有用的書](https://downloads.example.org/book.html)- 張顯宗 (download site)
-正確：* [一本很有用的書](http://example.com/) - 張顯宗 (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    錯誤：* [一本很有用的書](http://example.com/)- 張顯宗 (HTML)
+    錯誤：* [一本很有用的書](https://downloads.example.org/book.html)- 張顯宗 (download site)
+    正確：* [一本很有用的書](http://example.com/) - 張顯宗 (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 * 多作者，多譯者時，請使用中文 `、` 進行分隔，在譯者名字後請使用英文半型括號包圍的 `(翻譯)`，可以用 “等” 縮短作者列表：
 
-```
-錯誤：* [一本很有用的書](https://example.org/book.pdf) - 張顯宗，岳綺羅
-正確：* [一本很有用的書](https://example.org/book.pdf) - 張顯宗、岳綺羅(翻譯)
-正確：* [一本很有用的書](https://example.org/book.pdf) - 張顯宗、岳綺羅、顧玄武、出塵子 等
-```
+    ```text
+    錯誤：* [一本很有用的書](https://example.org/book.pdf) - 張顯宗，岳綺羅
+    正確：* [一本很有用的書](https://example.org/book.pdf) - 張顯宗、岳綺羅(翻譯)
+    正確：* [一本很有用的書](https://example.org/book.pdf) - 張顯宗、岳綺羅、顧玄武、出塵子 等
+    ```
 
 * 在舊書的標題中包括出版年份：
 
-```
-錯誤：* [一本很有用的書](https://example.org/book.html) - 張顯宗 - 1970
-正確：* [一本很有用的書 (1970)](https://example.org/book.html) - 張顯宗
-```
+    ```text
+    錯誤：* [一本很有用的書](https://example.org/book.html) - 張顯宗 - 1970
+    正確：* [一本很有用的書 (1970)](https://example.org/book.html) - 張顯宗
+    ```
 
 * <a name="in_process"></a>編寫(翻譯)中的書籍：
 
-```
-正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *編寫中*)
-正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *翻譯中*)
-```
+    ```text
+    正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *編寫中*)
+    正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *翻譯中*)
+    ```
 
 
 ### 自動化測試
@@ -156,9 +156,9 @@
 - 使用 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 進行連結驗證。
 - 可以藉由提交一個內容包含`check_urls=file_to_check`來觸發連結驗證:
 
-```
-check_urls=free-programming-books.md free-programming-books-en.md
-```
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-zh.md
+    ```
 
 - 您可以以一個空白區隔出想要進行驗證的檔案名稱來一次驗證多個檔案。
 - 如果您一次驗證多個檔案，自動化測試的結果會是基於最後一個驗證的檔案。您的測試可能會因此通過，因此請詳加確認測試日誌。可以在 pull request 結果中點選"Show all checks" -> "Details" 來查看。

@@ -175,7 +175,7 @@ Vì Internet rất rộng lớn, chúng tôi không đưa chúng vào danh sách
 - blogs
 - bài đăng trên blog
 - bài viết
-- các trang web (ngoại trừ những nơi lưu trữ RẤT NHIỀU tài liệu mà chúng tôi liệt kê.) 
+- các trang web (ngoại trừ những nơi lưu trữ RẤT NHIỀU tài liệu mà chúng tôi liệt kê.)
 - video không phải là khóa học hoặc video truyền hình.
 - các chương của cuốn sách
 - các ví dụ khó từ sách

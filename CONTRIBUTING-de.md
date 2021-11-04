@@ -28,7 +28,7 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://gith
 - Füge die Links in alphabetischer Reihenfolge ein. Wenn Du einen fehlerhaft eingefügten Link findest, korrigiere bitte die Reihenfolge und öffne eine PR.
 - Wähle immer den Link der maßgeblichen Quelle aus (das heißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)
     + Keine File Hosting Plattformen (inklusive Links zu Dropbox, Google Drive u.ä.)
-- Ein `https` Link sollte einem `http` Link immer vorgezogen werden -- solange sie auf dieselbe Domain und denselben Inhalt verweisen. 
+- Ein `https` Link sollte einem `http` Link immer vorgezogen werden -- solange sie auf dieselbe Domain und denselben Inhalt verweisen.
 - Auf Root Domains sollte der abschließende Schrägstrich entfernt werden: `http://example.com` anstelle von `http://example.com/`
 - Wähle immer den kürzesten Link: `http://example.com/dir/` ist besser als `http://example.com/dir/index.html`
     + Benutze keine URL-Verkürzer
@@ -129,7 +129,7 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 
 ##### Titel
 
-- Keine erfundenen Titel. Wir versuchen, die Titel den Inhalten selbst zu entnehmen; Mitwirkende werden dazu ermahnt, sich keine Titel auszudenken oder redaktionell zu nutzen, falls dies vermieden werden kann. Eine Ausnahme bilden ältere Werke; wenn sie vor allem von historischem Interesse sind, kann das Hinzufügen einer Jahreszahl in Klammern den Nutzern helfen zu bestimmen, ob die Inhalte für sie nützlich sind.   
+- Keine erfundenen Titel. Wir versuchen, die Titel den Inhalten selbst zu entnehmen; Mitwirkende werden dazu ermahnt, sich keine Titel auszudenken oder redaktionell zu nutzen, falls dies vermieden werden kann. Eine Ausnahme bilden ältere Werke; wenn sie vor allem von historischem Interesse sind, kann das Hinzufügen einer Jahreszahl in Klammern den Nutzern helfen zu bestimmen, ob die Inhalte für sie nützlich sind.
 - Keine Titel, die NUR GROßBUCHSTABEN ENTHALTEN. Titelkapitalisierung ist normalerweise angemessen, aber im Zweifel nutze einfach die Formatierung der Originalquelle.
 
 ##### URLs
@@ -149,14 +149,14 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 
 ##### Plattformen und Zugriffshinweise
 
-- Kurse. Insbesondere bei unseren Kurslisten spielt die Plattform eine wichtige Rolle in der Beschreibung des Inhalts. Der Grund dafür ist, dass Kurs-Plattformen unterschiedliche Zugangsmodelle und Angebotscharakter haben. Obwohl wir keine Bücher aufnehmen, die eine Registrierung erfordern, können viele Kurs-Plattformen ohne irgendeine Art der Registrierung nicht funktionieren. Beispiele für Kurs-Plattformen sind Coursera, EdX, Udacity und Udemy. Wenn ein Kurs von einer bestimmten Plattform abhängt, sollte der Name der Plattform in Klammern angehängt werden. 
+- Kurse. Insbesondere bei unseren Kurslisten spielt die Plattform eine wichtige Rolle in der Beschreibung des Inhalts. Der Grund dafür ist, dass Kurs-Plattformen unterschiedliche Zugangsmodelle und Angebotscharakter haben. Obwohl wir keine Bücher aufnehmen, die eine Registrierung erfordern, können viele Kurs-Plattformen ohne irgendeine Art der Registrierung nicht funktionieren. Beispiele für Kurs-Plattformen sind Coursera, EdX, Udacity und Udemy. Wenn ein Kurs von einer bestimmten Plattform abhängt, sollte der Name der Plattform in Klammern angehängt werden.
 - YouTube. Wir haben viele Kurse in Form von YouTube Wiedergabelisten. Wir führen Youtube nicht als Plattform auf, sondern versuchen den Urheber des Kurses zu nennen, der oftmals eine Unter-Plattform darstellt.
-- YouTube Videos. Wir verlinken normalerweise keine einzelnen YouTube Videos. Ausnahmen bilden Videos von mehr als einer Stunde Länge, die wie ein Kurs oder Tutorial strukturiert sind. 
+- YouTube Videos. Wir verlinken normalerweise keine einzelnen YouTube Videos. Ausnahmen bilden Videos von mehr als einer Stunde Länge, die wie ein Kurs oder Tutorial strukturiert sind.
 - Leanpub. Leanpub beherbergt Bücher mit einer Vielzahl von Zugangsmodellen. Manchmal kann ein Buch ohne Registrierung gelesen werden; in anderen Fällen wird ein Leanpub Konto für einen kostenfreien Zugang benötigt. Aufgrund der Qualität der Bücher und der unterschiedlichen und fließenden Zugangsmodelle erlauben wir die Aufnahme letzterer, wenn sie mit dem Zugriffshinweis *(Leanpub Konto oder gültige E-Mail angefordert)* versehen sind.
 
 #### Genre
 
-Die wichtigste Regel zur korrekten Zuordnung von Inhalten in Listen ist zu schauen, wie die Ressource sich selbst beschreibt. Wenn sie sich als Buch bezeichnet, dann ist sie vielleicht ein Buch.   
+Die wichtigste Regel zur korrekten Zuordnung von Inhalten in Listen ist zu schauen, wie die Ressource sich selbst beschreibt. Wenn sie sich als Buch bezeichnet, dann ist sie vielleicht ein Buch.
 
 ##### Genres, die wir nicht aufnehmen
 
@@ -172,11 +172,11 @@ Da das Internet unermesslich ist, nehmen wir folgende Inhalte nicht in unsere Li
 - IRC oder Telegram Kanäle
 - Slack Workspaces oder Mailinglisten
 
-Unsere Listen zu Programmierwettbewerben setzen diese Verbote nicht so strikt um. Art und Umfang des Repositorys wird von der Community bestimmt; wenn Du eine Änderung oder Ausweitung der Ausrichtung vorschlagen möchtest, eröffne bitte ein Issue, um den Vorschlag zu unterbreiten. 
+Unsere Listen zu Programmierwettbewerben setzen diese Verbote nicht so strikt um. Art und Umfang des Repositorys wird von der Community bestimmt; wenn Du eine Änderung oder Ausweitung der Ausrichtung vorschlagen möchtest, eröffne bitte ein Issue, um den Vorschlag zu unterbreiten.
 
 ##### Buch vs. anderes Zeug
 
-Wir sind nicht kleinlich, was die Definition, was ein Buch ist und was nicht. Hier sind einige Eigenschaften, die darauf hinweisen, dass es sich bei einer bestimmten Ressource um ein Buch handelt: 
+Wir sind nicht kleinlich, was die Definition, was ein Buch ist und was nicht. Hier sind einige Eigenschaften, die darauf hinweisen, dass es sich bei einer bestimmten Ressource um ein Buch handelt:
 
 - es hat eine ISBN (International Standard Book Number)
 - es hat ein Inhaltsverzeichnis
@@ -186,17 +186,17 @@ Wir sind nicht kleinlich, was die Definition, was ein Buch ist und was nicht. Hi
 - es versucht, ein Thema umfassend zu behandeln
 - es ist ein eigenständiges Werk
 
-Vielen Büchern in unseren Listen fehlen diese Eigenschaften; es kann vom Kontext abhängen.  
+Vielen Büchern in unseren Listen fehlen diese Eigenschaften; es kann vom Kontext abhängen.
 
 ##### Buch vs. Kurs
 
 Das ist manchmal gar nicht so leicht zu unterscheiden!
 
-Kurse kommen oftmals mit begleitenden Lehrbüchern, die wir in unseren Bücherlisten führen würden. Kurse bieten Vorträge, Übungen, Tests, Anmerkungen oder andere Lernhilfen. Ein einzelner Vortrag oder Video allein ist kein Kurs. Eine Powerpoint-Präsentation ist kein Kurs.  
+Kurse kommen oftmals mit begleitenden Lehrbüchern, die wir in unseren Bücherlisten führen würden. Kurse bieten Vorträge, Übungen, Tests, Anmerkungen oder andere Lernhilfen. Ein einzelner Vortrag oder Video allein ist kein Kurs. Eine Powerpoint-Präsentation ist kein Kurs.
 
 ##### Interaktive Tutorials vs. anderes Zeug
 
-Wenn etwas ausgedruckt werden kann, ohne dass es seinen Nutzen verliert, ist es kein interaktives Tutorial.  
+Wenn etwas ausgedruckt werden kann, ohne dass es seinen Nutzen verliert, ist es kein interaktives Tutorial.
 
 ### Automatisierung
 
@@ -209,4 +209,4 @@ check_urls=free-programming-books.md free-programming-books-en.md
 ```
 
 - Man kann mehr als eine zu überprüfende Datei angeben, wobei die Einträge mit einem einzelnen Leerzeichen getrennt werden.
-- Bei Angabe von mehr als einer Datei basiert das Ergebnis des Builds auf dem Ergebnis der letzten geprüften Datei. Du solltest Dir darüber im Klaren sein, dass dies zu gültigen Builds führen kann und daher das Build Protokoll am Ende des Pull Request durch Klick auf "Show all checks" -> "Details" genau geprüft werden sollte.   
+- Bei Angabe von mehr als einer Datei basiert das Ergebnis des Builds auf dem Ergebnis der letzten geprüften Datei. Du solltest Dir darüber im Klaren sein, dass dies zu gültigen Builds führen kann und daher das Build Protokoll am Ende des Pull Request durch Klick auf "Show all checks" -> "Details" genau geprüft werden sollte.

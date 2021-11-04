@@ -1031,7 +1031,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Java Programming](https://en.wikibooks.org/wiki/Java_Programming) - Wikibooks
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
 * [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
-* [Java Web Development](https://education.launchcode.org/java-web-development/) - Chris Bay, Jim Flores, Carly Langlois, Sally Steuterman (The LaunchCode Foundation)
 * [Learning Java Language](https://riptutorial.com/Download/java-language.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
 * [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
@@ -1116,7 +1115,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer (HTML)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, & Robby Walker (HTML)
 * [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html) - Henrik Joreteg (HTML)
-* [Introduction to Professional Web Development in JavaScript](https://education.launchcode.org/intro-to-professional-web-dev/) - Chris Bay, Jim Flores, Blake Mills, Sally Steuterman, Paul Matthews, Carly Langlois (The LaunchCode Foundation)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite (HTML)
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) - Danny Goodman (PDF)
 * [JavaScript Challenges Book](https://tcorral.github.io/javascript-challenges-book/) - Tomás Corral Casas (HTML)

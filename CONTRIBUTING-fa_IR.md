@@ -122,8 +122,8 @@
 خوب: * [یک کتاب خیلی عالی (1970)](https://example.org/book.html) - نام نویسنده
 ```
 
-<a name="in_process"></a>
-* کتاب‌های در دست تالیف:
+
+* <a name="in_process"></a>کتاب‌های در دست تالیف:
 
 ```
 خوب: * [کتابی که عالی خواهدشد](http://example.com/book2.html) - نام نویسنده (HTML) (:construction: *in process*)

@@ -127,8 +127,7 @@
 ХОРОШО: * [Очень хорошая книга (1970)](https://example.org/book.html) - Джейн Роу
 ```
 
-<a name="in_process"></a>
-- Незавершенные книги:
+- <a name="in_process"></a>Незавершенные книги:
 
 ```
 ХОРОШО: * [Скоро будет отличная книга](http://example.com/book2.html) - Джон Доу (HTML) (:construction: *in process*)

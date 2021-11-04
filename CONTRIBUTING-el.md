@@ -127,14 +127,14 @@
 ΚΑΚΟ: * [Ένα Πολύ Φοβερό Βιβλίο](https://example.org/book.html) - Jane Roe - 1970
 ΚΑΛΟ: * [Ένα Πολύ Φοβερό Βιβλίο (1970)](https://example.org/book.html) - Jane Roe
 ```
-<a name="in_process"></a>
-- Βιβλία σε εξέλιξη:
+
+- <a name="in_process"></a>Βιβλία σε εξέλιξη:
 
 ```
 ΚΑΛΟ: * [Θα Είναι Σύντομα Ένα Φοβερό Βιβλίο](http://example.com/book2.html) - John Doe (HTML) (:construction: *σε εξέλιξη*)
 ```
-<a name="archived"></a>
-- Αρχειοθετημένοι σύνδεσμοι:
+
+- <a name="archived"></a>Αρχειοθετημένοι σύνδεσμοι:
 
 ```
 ΚΑΛΟ: * [Ένα Ενδιαφέρον Way-backed Βιβλίο](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: αρχειοθετημένο)*

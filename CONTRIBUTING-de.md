@@ -122,8 +122,7 @@ FALSCH : * [Ein sehr tolles Buch](https://example.org/book.html) - Jane Roe - 19
 RICHTIG: * [Ein sehr tolles Buch (1970)](https://example.org/book.html) - Jane Roe
 ```
 
-<a name="in_process"></a>
-- Bücher in Bearbeitung:
+- <a name="in_process"></a>Bücher in Bearbeitung:
 
 ```
 RICHTIG: * [Wird bald ein tolles Buch sein](http://example.com/book2.html) - John Doe (HTML) (:construction: *in Bearbeitung*)

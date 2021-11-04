@@ -53,7 +53,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
 - prefira _commits_ atômicos (um _commit_ para cada adição/deleção/modificação) ao invés de _commits_ maiores. Não é necessário fazer o _squash_ de seus _commits_ antes de submeter um PR. Nunca iremos impor esta regra dado que é apenas uma questão de conveniência para os mantenedores).
 - se o livro for mais antigo, inclua a data de publicação no título.
 - inclua o(s) nome(s) do(s) autor(es) onde for apropriado. Você pode encurtar a lista de autores com "et al".
-- se o livro não estiver completo, e ainda está sendo escrito, adicione a notação "em processo", como descrito [abaixo.](#em_processo)
+- se o livro não estiver completo, e ainda está sendo escrito, adicione a notação "em processo", como descrito [abaixo.](#in_process)
 - se um endereço de email ou configuração de conta for solicitado antes que o _download_ seja habilitado, adicione uma observação no idioma apropriado e entre parênteses. Por exemplo: `(endereço de email é *pedido*, não obrigatório)`.
 
 
@@ -123,8 +123,7 @@ RUIM : * [Um Livro Muito Incrível](https://exemplo.org/livro.html) - Fulana de 
 BOM  : * [Um Livro Muito Incrível (1970)](https://exemplo.org/livro.html) - Fulana de Tal
 ```
 
-<a name="em_processo"></a>
-- Livros em processo:
+- <a name="in_process"></a>Livros em processo:
 
 ```
 BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) (:construction: *em processo*)

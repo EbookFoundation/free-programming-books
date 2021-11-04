@@ -128,15 +128,13 @@ Ejemplo:
    CORRECTO   : * [Un libro bastante especial (1970)](https://example.org/book.html) - Jane Roe
    ```
 
-<a name="in_process"></a>
-- Libros en proceso / no acabados aún:
+- <a name="in_process"></a>Libros en proceso / no acabados aún:
 
    ```
    CORRECTO: * [A punto de ser un libro fascinante](http://example.com/book2.html) - John Doe (HTML) (:construction: *en proceso*)
    ```
 
-<a name="archived"></a>
-- Enlaces archivados:
+- <a name="archived"></a>Enlaces archivados:
 
    ```
    CORRECTO: * [Un recurso recuperado a partir de su línea de tiempo](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archivado)*

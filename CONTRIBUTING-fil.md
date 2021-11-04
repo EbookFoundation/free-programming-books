@@ -125,15 +125,13 @@ BAD : * [A Very Awesome Book](https://example.org/book.html) - Jane Roe - 1970
 GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
 ```
 
-<a name="in_process"></a>
-- In-process books:
+- <a name="in_process"></a>In-process books:
 
 ```
 GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
 ```
 
-<a name="archived"></a>
-- Archived link:
+- <a name="archived"></a>Archived link:
 
 ```
 GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*

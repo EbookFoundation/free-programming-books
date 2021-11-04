@@ -132,8 +132,7 @@ Tệ : * [Một cuốn sách rất tuyệt vời](https://example.org/book.html)
 Tốt: * [Một cuốn sách rất tuyệt vời (1970)](https://example.org/book.html) - Jane Roe
 ```
 
-<a name="in_process"></a>
-- Sách đang trong quá trình viết:
+- <a name="in_process"></a>Sách đang trong quá trình viết:
 
 ```
 Tốt: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)

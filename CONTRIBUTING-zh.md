@@ -142,8 +142,7 @@
 正确：* [一本很有用的书 (1970)](https://example.org/book.html) - 张显宗
 ```
 
-<a name="in_process"></a>
-* 编写(翻译)中的书籍：
+* <a name="in_process"></a>编写(翻译)中的书籍：
 
 ```
 正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *编写中*)

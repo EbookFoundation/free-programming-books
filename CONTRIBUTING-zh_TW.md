@@ -144,8 +144,7 @@
 正確：* [一本很有用的書 (1970)](https://example.org/book.html) - 張顯宗
 ```
 
-<a name="in_process"></a>
-* 編寫(翻譯)中的書籍：
+* <a name="in_process"></a>編寫(翻譯)中的書籍：
 
 ```
 正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *編寫中*)

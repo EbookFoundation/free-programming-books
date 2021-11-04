@@ -123,8 +123,7 @@ MAUVAIS : * [Un Autre Livre Génial](https://exemple.org/livre.html) - Jane Roe 
 BIEN    : * [Un Autre Livre Génial (1970)](https://exemple.org/livre.html) - Jane Roe
 ```
 
-<a name="in_process"></a>
-- Livres en cours :
+- <a name="in_process"></a>Livres en cours :
 
 ```
 BIEN    : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) (:construction: *in process*)

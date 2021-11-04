@@ -89,43 +89,43 @@
 * بین `]` و `(` space نگذارید:
 
     ```text
-    بد  : * [یک کتاب عالی دیگر] (http://example.com/book.html)
+    بد : * [یک کتاب عالی دیگر] (http://example.com/book.html)
     خوب: * [یک کتاب عالی دیگر](http://example.com/book.html)
     ```
 
 * اگر اسم نویسنده را اضافه می‌کنید، از ` - ` استفاده کنید (یک dash با دو single space):
 
     ```text
-    بد  : * [یک کتاب عالی دیگر](http://example.com/book.html)- نام نویسنده
+    بد : * [یک کتاب عالی دیگر](http://example.com/book.html)- نام نویسنده
     خوب: * [یک کتاب عالی دیگر](http://example.com/book.html) - نام نویسنده
     ```
 
 * یک single space بین لینک و فرمت قرار دهید:
 
     ```text
-    بد  : * [یک کتاب خیلی عالی](https://example.org/book.pdf)(PDF)
+    بد : * [یک کتاب خیلی عالی](https://example.org/book.pdf)(PDF)
     خوب: * [یک کتاب خیلی عالی](https://example.org/book.pdf) (PDF)
     ```
 
 * نویسنده قبل از فرمت می‌آید:
 
     ```text
-    بد  : * [یک کتاب خیلی عالی](https://example.org/book.pdf)- (PDF) نام نویسنده
+    بد : * [یک کتاب خیلی عالی](https://example.org/book.pdf)- (PDF) نام نویسنده
     خوب: * [یک کتاب خیلی عالی](https://example.org/book.pdf) - یک نویسنده دیگر (PDF)
     ```
 
 * چند فرمتی‌ها:
 
     ```text
-    بد  : * [یک کتاب عالی دیگر](http://example.com/)- نام نویسنده (HTML)
-    بد  : * [یک کتاب عالی دیگر](https://downloads.example.org/book.html)- نام نویسنده (download site)
+    بد : * [یک کتاب عالی دیگر](http://example.com/)- نام نویسنده (HTML)
+    بد : * [یک کتاب عالی دیگر](https://downloads.example.org/book.html)- نام نویسنده (download site)
     خوب: * [یک کتاب عالی دیگر](http://example.com/) - نام نویسنده (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
     ```
 
 * سال انتشار برای کتاب‌های قدیمی را در عنوان ینویسید:
 
     ```text
-    بد  : * [یک کتاب خیلی عالی](https://example.org/book.html) - نام نویسنده - 1970
+    بد : * [یک کتاب خیلی عالی](https://example.org/book.html) - نام نویسنده - 1970
     خوب: * [یک کتاب خیلی عالی (1970)](https://example.org/book.html) - نام نویسنده
     ```
 

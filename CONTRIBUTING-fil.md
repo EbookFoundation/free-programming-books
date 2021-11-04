@@ -2,14 +2,17 @@
 
 
 ## Kasunduan sa Lisensya ng Contributor
+
 Sa pamamagitan ng pag-aambag sumasang-ayon ka sa [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) ng repositoryong ito.
 
 
 ## Kodigo ng Pag-uugali ng Contributor
+
 Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-fil.md) ng repositoryong ito.
 
 
 ## Sa maikling sabi
+
 1. "Ang isang link para madaling mag-download ng libro" ay hindi palaging isang link sa isang *libre* na libro. Mangyaring mag-ambag lamang ng libreng nilalaman. Tiyaking libre ito. Hindi kami tumatanggap ng mga link sa mga pahina na *nangangailangan* ng gumaganang mga email address upang makakuha ng mga aklat, ngunit malugod naming tinatanggap ang mga listahan na humihiling sa kanila.
 2. Hindi mo kailangang malaman ang Git: kung nakakita ka ng isang bagay na interesado na *wala pa sa repo na ito*, mangyaring magbukas ng [Issue](https://github.com/EbookFoundation/free-programming-books/issues) kasama ang iyong mga proposisyon ng link.
     - Kung alam mo ang Git, mangyaring Fork ang repo at magpadala ng mga Pull Request (PR).
@@ -28,6 +31,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 
 <a name="guidelines"></a>
 ### Mga Alituntunin
+
 - siguraduhin na ang isang libro ay libre. I-double check kung kinakailangan. Nakakatulong ito sa mga admin kung magkomento ka sa PR kung bakit sa tingin mo ay libre ang libro.
 - hindi kami tumatanggap ng mga file na naka-host sa Google Drive, Dropbox, Mega, Scribd, Issuu at iba pang katulad na mga platform sa pag-upload ng file
 - ipasok ang iyong mga link sa alphabetical order. Kung makakita ka ng maling lugar na link, mangyaring muling ayusin ito at magsumite ng PR
@@ -56,6 +60,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 
 <a name="formatting"></a>
 ### Pag-format
+
 - Ang lahat ng mga listahan ay `.md` files. Subukang matuto [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. Simple lang!
 - Ang lahat ng mga listahan ay nagsisimula sa isang Index. Ang ideya ay ilista at i-link ang lahat ng seksyon at subsection doon. Panatilihin ito sa alpabetikong pagkakasunud-sunod.
 - Gumagamit ang mga seksyon ng antas 3 na mga heading (`###`), at ang mga subsection ay level 4 na mga heading (`####`).
@@ -134,18 +139,22 @@ GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe
 GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
 ```
 
+
 ### Mga Tala
 
 Bagama't medyo simple ang mga pangunahing kaalaman, mayroong malaking pagkakaiba-iba sa mga mapagkukunang inilista namin. Narito ang ilang tala sa kung paano natin haharapin ang pagkakaiba-iba na ito.
+
 
 #### Metadata
 
 Nagbibigay ang aming mga listahan ng kaunting hanay ng metadata: mga pamagat, URL, tagalikha, platform, at tala sa pag-access.
 
+
 ##### Mga pamagat
 
 - Walang naimbentong pamagat. Sinusubukan naming kumuha ng mga pamagat mula sa mga mapagkukunan mismo; ang mga nag-aambag ay pinapayuhan na huwag mag-imbento ng mga pamagat o gamitin ang mga ito sa editoryal kung ito ay maiiwasan. Ang isang pagbubukod ay para sa mas lumang mga gawa; kung pangunahin ang mga ito sa makasaysayang interes, ang isang taon sa panaklong na nakadugtong sa pamagat ay tumutulong sa mga user na malaman kung sila ay interesado.
 - Walang pamagat ng ALLCAPS. Kadalasan ay angkop ang title case, ngunit kapag may pagdududa, gamitin ang capitalization mula sa source
+
 
 ##### URLs
 
@@ -155,12 +164,14 @@ Nagbibigay ang aming mga listahan ng kaunting hanay ng metadata: mga pamagat, UR
 - Ang mga Secure (https) na URL ay palaging mas gusto kaysa sa mga hindi secure na (http) na mga url kung saan ipinatupad ang https.
 - Hindi namin gusto ang mga URL na tumuturo sa mga webpage na hindi nagho-host ng nakalistang mapagkukunan, ngunit sa halip ay tumuturo sa ibang lugar.
 
+
 ##### Mga tagalikha
 
 - Gusto naming pasalamatan ang mga lumikha ng mga libreng mapagkukunan kung saan naaangkop, kabilang ang mga tagasalin!
 - Para sa mga isinaling gawa ang orihinal na may-akda ay dapat na kredito.
 - Hindi namin pinahihintulutan ang mga link para sa Mga Tagalikha.
 - Para sa compilation o remixed na mga gawa, maaaring kailanganin ng "creator" ang isang paglalarawan. Halimbawa, ang mga aklat na "GoalKicker" o "RIP Tutorial" ay kinikilala bilang "`Compiled from StackOverflow Documentation`"
+
 
 ##### Mga Platform at Mga Tala sa Pag-access
 
@@ -169,9 +180,11 @@ Nagbibigay ang aming mga listahan ng kaunting hanay ng metadata: mga pamagat, UR
 - Mga video ng YouTube. Karaniwang hindi kami nagli-link sa mga indibidwal na video sa YouTube maliban kung ang mga ito ay higit sa isang oras ang haba at nakabalangkas tulad ng isang kurso o isang tutorial.
 - Leanpub. Nagho-host ang Leanpub ng mga aklat na may iba't ibang modelo ng access. Minsan ang isang libro ay maaaring basahin nang walang pagpaparehistro; minsan ang isang libro ay nangangailangan ng isang Leanpub account para sa libreng pag-access. Dahil sa kalidad ng mga aklat at ang pinaghalong mga modelo ng pag-access sa Leanpub, pinahihintulutan namin ang paglilista ng huli kasama ang tala sa pag-access `*(Leanpub account o valid na email ang hinihiling)*`
 
+
 #### Mga genre
 
 Ang unang tuntunin sa pagpapasya kung saang listahan kabilang ang isang mapagkukunan ay upang makita kung paano inilalarawan ng mapagkukunan ang sarili nito. Kung ito ay tinatawag na isang libro, marahil ito ay isang libro.
+
 
 ##### Mga genre na hindi namin inililista
 

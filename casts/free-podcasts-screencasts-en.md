@@ -8,12 +8,12 @@
 * [CSS](#css)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
-* [Emacs](#emacs)
 * [Erlang](#erlang)
 * [Git](#git)
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
+* [IDE / Editors](#ide--editors)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular](#angular)
@@ -29,7 +29,6 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Vim](#vim)
 
 
 ### Android
@@ -37,6 +36,7 @@
 * [Android Complete Course](https://www.youtube.com/watch?v=roDz8mMvbIg&list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe) (screencast)
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) (podcast)
+* [Now in Android](https://nowinandroid.libsyn.com) (podcast)
 
 
 ### C&#x23;
@@ -86,6 +86,7 @@
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
 * [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi and Christopher Peter Makris (podcast)
+* [The Data Science Podcast](https://developer.ibm.com/podcasts/the-data-science-podcast/) - IBM (podcast)
 
 
 ### Elixir
@@ -96,12 +97,6 @@
 * [ElixirConf 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) (screencast)
 * [Intro to Elixir](https://www.youtube.com/playlist?list=PLJbE2Yu2zumA-p21bEQB6nsYABAO-HtF2) (screencast)
 * [The Thinking Elixir Podcast](https://thinkingelixir.com/the-podcast) (podcast)
-
-
-### Emacs
-
-* [Emacs Cast](https://emacscast.org) - Rakhim Davletkaliyev (podcast)
-* [Emacs Rocks!](http://emacsrocks.com) (screencast)
 
 
 ### Erlang
@@ -146,17 +141,29 @@
 * [The Haskell Cast](http://www.haskellcast.com) (podcast)
 
 
+### IDE / Editors
+
+* [Emacs Cast](https://emacscast.org) - Rakhim Davletkaliyev (podcast)
+* [Emacs Rocks!](http://emacsrocks.com) (screencast)
+* [Free screencasts about the text editor Vim](http://vimcasts.org) (screencast)
+* [PHPStorm Tips & Tricks](https://www.youtube.com/playlist?list=PLk9WlAgeZoTfHdJUv75-5grVQf4ijIrzw) - Christoph Rumpel (screencast)
+* [The Vim Blog](https://soundcloud.com/thevimcast) (podcast)
+* [vim Hacking](https://www.youtube.com/playlist?list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7) (screencast)
+
+
 ### Java
 
 * [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
 * [How to Program with Java Podcast](https://www.podbean.com/podcast-detail/6mxhc-344f7/How-to-Program-with-Java-Podcast) - Trevor Page (podcast)
+* [Inside Java](https://inside.java/podcast) - Chad Arimura and David Delabassee (podcast)
+* [Java OffHeap](https://www.javaoffheap.com) - Freddy Guime (podcast)
 * [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime and Bob Paulin (podcast)
 
 
 ### JavaScript
 
+* [devMode.fm](https://devmode.fm) - Andrew Welch, Patrick Harrington, Jonathan Melville, Michael Rog et al. (podcast)
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
-* [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript) (screencast)
 * [Front End Happy Hour](http://frontendhappyhour.com) (podcast)
 * [Frontend First](https://frontendfirst.fm) - Sam Selikoff and Ryan Toronto (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) (podcast)
@@ -166,7 +173,7 @@
 * [JS Party](https://changelog.com/jsparty) (podcast)
 * [Modern Web](https://www.thisdot.co/modern-web) (podcast)
 * [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) (screencast)
-* [Real Talk JavaScript](https://realtalkjavascript.simplecast.com) (podcast)
+* [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm) (podcast)
 * [Syntax](https://syntax.fm) (podcast)
 * [The Javascript Show](http://javascriptshow.com) (podcast)
 
@@ -174,12 +181,13 @@
 #### Angular
 
 * [Angular Air](https://angularair.com) (podcast)
+* [Angular Master](https://anchor.fm/angular-master) (podcast)
 
 
 #### Elm
 
 * [Elm Radio](https://elm-radio.com) - Dillon Kearns and Jeroen Engels (podcast)
-* [Elm Town](https://elmtown.audio) (podcast)
+* [Elm Town](https://elmtown.simplecast.com) (podcast)
 
 
 #### Ember.js
@@ -191,7 +199,7 @@
 #### Node.js
 
 * [Node University](https://nodeuniversity.simplecast.fm) - Azat Mardan (podcast)
-* [Nodeup](http://nodeup.com) (podcast)
+* [Nodeup](https://player.fm/series/nodeup) (podcast)
 * [Twitter Bot Tutorial - Node.js and Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) (screencast)
 
 
@@ -202,6 +210,7 @@
 
 #### React.js
 
+* [Chats with Kent C. Dodds](https://kentcdodds.com/chats/04) - Kent C Dodds (podcast)
 * [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
 * [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
 * [React Round Up](https://devchat.tv/podcasts/react-round-up) - DevChat.tv (podcast)
@@ -220,7 +229,6 @@
 * [/dev/hell](http://devhell.info) (podcast)
 * [Arrested DevOps](https://www.arresteddevops.com) (podcast)
 * [baseCS](https://www.codenewbie.org/basecs) (podcast based on [a series of posts on medium](https://medium.com/basecs))
-* [Beats, Rye & Types](http://beatsryetypes.com) (podcast)
 * [Between \| Screens Podcast](https://soundcloud.com/between-screens) (podcast)
 * [BSDTalk](http://bsdtalk.blogspot.com) (podcast)
 * [CodeNewbie](http://www.codenewbie.org/podcast) (podcast)
@@ -238,9 +246,11 @@
 * [Frontside the Podcast](https://frontside.io/podcast/) (podcast)
 * [Full Stack Radio](http://www.fullstackradio.com) (podcast)
 * [Functional Geekery](https://www.functionalgeekery.com) (podcast)
-* [Garbage](http://garbage.fm) (podcast)
+* [Garbage](https://garbage.jcs.org) (podcast)
 * [Hacker Culture](https://anchor.fm/hackerculture) (podcast)
+* [IBM Developer Podcast](https://developer.ibm.com/podcasts/ibm_developer_podcast/) - IBM (podcast)
 * [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing) (podcast)
+* [In the Open with Luke and Joe](https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast)
 * [Ladybug Podcast](https://www.ladybug.dev) (podcast)
 * [Learn to Code with Me](http://learntocodewith.me/podcast/) (podcast)
 * [Loosely Coupled](http://looselycoupled.info) (podcast)
@@ -250,31 +260,34 @@
 * [Reactive](http://reactive.audio) (podcast)
 * [Security Now](https://www.grc.com/securitynow.htm) (podcast)
 * [Shop Talk Show](http://shoptalkshow.com) (podcast)
+* [Smashing podcast](https://podcast.smashingmagazine.com) (podcast)
+* [Soft Skills Engineering Podcast](https://softskills.audio) (podcast)
 * [Software Engineering Daily](http://softwareengineeringdaily.com) (podcast)
 * [Software Engineering Radio](http://www.se-radio.net) (podcast)
 * [Syscast Podcast](http://podcast.sysca.st) (podcast)
 * [Talking Code](http://www.talkingcode.com) (podcast)
-* [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/) (podcast)
+* [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) (podcast)
 * [The Big Web Show](http://5by5.tv/bigwebshow) (podcast)
 * [The Changelog Podcast](https://changelog.com/podcast/) (podcast)
 * [The Cloudcast](http://www.thecloudcast.net) (podcast)
 * [The Cognicast](http://blog.cognitect.com/cognicast) (podcast)
 * [The Creative Coding Podcast](http://creativecodingpodcast.com) (podcast)
 * [The Cynical Developer: Weekly Technology and Software Developer Podcast](https://cynicaldeveloper.com/podcast) (podcast)
-* [The Debug Log](http://thedebuglog.com) (podcast)
+* [The Debug Log](https://player.fm/series/series-1402172) (podcast)
 * [The Hanselminutes podcast](http://hanselminutes.com) (podcast)
 * [The Path to Performance](https://pathtoperf.com) (podcast)
-* [The Podcast from DZone.com: "For Developers, by Developers"](https://dzone.com/podcast) (podcast)
+* [The Podcast from DZone.com: "For Developers, by Developers"](https://soundcloud.com/john-esposito-23072673) (podcast)
 * [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet) (podcast)
+* [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) (podcast)
 * [The Web Ahead](http://5by5.tv/webahead) (podcast)
 * [The Web Platform](http://thewebplatform.libsyn.com) (podcast)
 * [Thinking with Tanay](https://anchor.fm/tanaypratap) (podcast)
 * [This Developer's Life](http://thisdeveloperslife.com) (podcast)
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) (podcast)
 * [Three Devs and a Maybe](http://threedevsandamaybe.com) (podcast)
-* [Toolsday](http://toolsday.io) (podcast)
-* [TTL Podcast](http://ttlpodcast.com) (podcast)
-* [Web Security Warriors](https://devchat.tv/web-security-warriors/) (podcast)
+* [Toolsday](https://spec.fm/podcasts/toolsday) (podcast)
+* [TTL Podcast](https://podtail.com/es/podcast/ttl-podcast/) (podcast)
+* [Web Security Warriors](https://www.stitcher.com/show/web-security-warriors) (podcast)
 * [Women in TECH with Ariana](https://podcasts.apple.com/us/podcast/women-in-tech-with-ariana/id1338917627) (podcast)
 
 
@@ -334,10 +347,3 @@
 * [New Rustacean](http://www.newrustacean.com) (podcast)
 * [Rusty Radio](https://soundcloud.com/posix4e) (podcast)
 * [The Rustacean Station Podcast](https://rustacean-station.org) (podcast)
-
-
-### Vim
-
-* [Free screencasts about the text editor Vim](http://vimcasts.org) (screencast)
-* [The Vim Blog](https://thevimblog.com/podcast) (podcast)
-* [vim Hacking](https://www.youtube.com/playlist?list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7) (screencast)

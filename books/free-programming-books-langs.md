@@ -1230,8 +1230,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Next.js
 
-* [Crash Course Next.js 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0&ab_channel=TraversyMedia)
 * [Mastering Next.js](https://masteringnextjs.com)
+* [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) - Brad Traversy (Traversy Media)
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (HTML, PDF) *(email required for PDF)*
 
 

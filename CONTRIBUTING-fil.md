@@ -51,11 +51,11 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 - kung mayroong isang link sa maraming format, magdagdag ng isang hiwalay na link na may tala tungkol sa bawat format
 - kung mayroong isang mapagkukunan sa iba't ibang lugar sa Internet
     - gamitin ang link na may pinaka-makapangyarihang pinagmulan (ibig sabihin ang website ng may-akda ay mas mahusay kaysa sa website ng editor ay mas mahusay kaysa sa third party na website)
-    - kung nagli-link ang mga ito sa iba't ibang mga edisyon, at hinuhusgahan mo na ang mga edisyong ito ay sapat na naiiba upang maging sulit na panatilihin ang mga ito, magdagdag ng hiwalay na link na may tala tungkol sa bawat edisyon (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) upang mag-ambag sa talakayan sa pag-format.)
+    - kung nagli-link ang mga ito sa iba't ibang mga edisyon, at hinuhusgahan mo na ang mga edisyong ito ay sapat na naiiba upang maging sulit na panatilihin ang mga ito, magdagdag ng hiwalay na link na may tala tungkol sa bawat edisyon (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) upang mag-ambag sa talakayan sa pag-format).
 - mas gusto ang atomic commit (one commit by addition/deletion/modification) higit sa mas malalaking commit. Hindi na kailangang i-squash ang iyong mga commit bago magsumite ng PR. (Hindi namin kailanman ipapatupad ang panuntunang ito dahil ito ay isang bagay lamang ng kaginhawahan para sa mga nagpapanatili)
 - kung mas luma ang aklat, isama ang petsa ng publikasyon na may pamagat.
 - isama ang pangalan ng may-akda o mga pangalan kung saan naaangkop. Maaari mong paikliin ang mga listahan ng may-akda gamit ang "`et al.`"
-- kung ang aklat ay hindi pa tapos, at ginagawa pa rin, idagdag ang "in process" notation, gaya ng inilarawan [below.](#in_process)
+- kung ang aklat ay hindi pa tapos, at ginagawa pa rin, idagdag ang "in process" notation, gaya ng inilarawan [below](#in_process).
 - kung ang isang mapagkukunan ay naibalik gamit ang Wayback Machine ng Internet Archive (o katulad), idagdag ang "naka-archive" na notation, tulad ng inilarawan [below](#archived). Ang pinakamahusay na mga bersyon na gagamitin ay bago at kumpleto.
 - kung humiling ng email address o pag-setup ng account bago i-enable ang pag-download, magdagdag ng mga tala na naaangkop sa wika sa mga panaklong, hal.: `(email address *requested*, not required)`
 
@@ -196,7 +196,7 @@ Dahil malawak ang Internet, hindi namin isinasama sa aming mga listahan:
 - blogs
 - blog posts
 - articles
-- websites (except for those that host LOTS of items that we list.)
+- websites (except for those that host LOTS of items that we list).
 - videos that aren't courses or screencasts.
 - book chapters
 - teaser samples from books

@@ -50,7 +50,7 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://gith
 - Wenn ein Link in verschiedenen Formaten existiert, füge einen separaten Link hinzu mit einem Hinweis zu jedem Format
 - Wenn ein Inhalt an mehreren Stellen im Internet verfügbar ist
     - wähle den Link der maßgeblichen Quelle aus (das heißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)
-    - wenn sie verschiedene Ausgaben verlinken und Du der Meinung bist, dass sich diese Ausgaben in einem Maße unterscheiden, dass man alle aufheben sollte, füge einen separaten Link hinzu mit einem Hinweis zu jeder Ausgabe (siehe [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353), um Dich an der Diskussion zur Formatierung zu beteiligen.)
+    - wenn sie verschiedene Ausgaben verlinken und Du der Meinung bist, dass sich diese Ausgaben in einem Maße unterscheiden, dass man alle aufheben sollte, füge einen separaten Link hinzu mit einem Hinweis zu jeder Ausgabe (siehe [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353), um Dich an der Diskussion zur Formatierung zu beteiligen).
 - Bevorzuge atomare Commits (ein Commit pro Änderung), anstatt größere Commits zu machen. Es besteht keine Notwendigkeit, die Commits vor dem Abschicken des PR zu squashen. (Wir werden die Befolgung dieser Regel niemals erzwingen, da es sich hier nur um die Vermeidung von Unannehmlichkeiten für die Maintainer handelt)
 - Vermerke das Datum der Veröffentlichung im Titel, wenn es sich um ein älteres Buch handelt.
 - Erfasse gegebenenfalls den Namen des oder der Autoren. Eine längere Liste von Autoren kann mit dem Zusatz "et al." gekürzt werden.
@@ -187,7 +187,7 @@ Da das Internet unermesslich ist, nehmen wir folgende Inhalte nicht in unsere Li
 - Blogs
 - Blogeinträge
 - Artikel
-- Webseiten (außer jene, die SEHR viele Inhalte bereitstellen, die wir in unseren Listen führen.)
+- Webseiten (außer jene, die SEHR viele Inhalte bereitstellen, die wir in unseren Listen führen).
 - Videos, die keine Kurse oder Screencasts sind.
 - einzelne Buchkapitel
 - Teaser oder Muster aus Büchern

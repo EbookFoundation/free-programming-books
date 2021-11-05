@@ -50,11 +50,11 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - if a link exists in multiple format, add a separate link with a note about each format
 - if a resource exists at different places on the Internet
     - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
-    - if they link to different editions, and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) to contribute to the discussion on formatting.)
+    - if they link to different editions, and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) to contribute to the discussion on formatting).
 - prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
 - if the book is older, include the publication date with the title.
 - include the author name or names where appropriate. You can shorten author lists with "et al."
-- if the book is not finished, and is still being worked on, add the "in process" notation, as described [below.](#in_process)
+- if the book is not finished, and is still being worked on, add the "in process" notation, as described [below](#in_process).
 - if a resource is restored using the Internet Archive's Wayback Machine (or similar), add the "archived" notation, as described [below](#archived). The best versions to use are recent and complete.
 - if an email address or account setup is requested before download is enabled, add language-appropriate notes in parentheses, e.g.: `(email address *requested*, not required)`
 
@@ -194,7 +194,7 @@ Because the Internet is vast, we don't include in our lists:
 - blogs
 - blog posts
 - articles
-- websites (except for those that host LOTS of items that we list.)
+- websites (except for those that host LOTS of items that we list).
 - videos that aren't courses or screencasts.
 - book chapters
 - teaser samples from books

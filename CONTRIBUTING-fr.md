@@ -50,11 +50,11 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
 - si un lien existe dans plusieurs formats, ajoutez un lien séparé avec une note sur chaque format
 - si une ressource existe à différents endroits sur Internet
     - utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
-    - s'ils renvoient à des éditions différentes et que vous jugez que ces éditions sont suffisamment différentes pour qu'elles valent la peine d'être conservées, ajoutez un lien séparé avec une note sur chaque édition (voir [Problème #2353](https://github.com/ElivreFoundation/free-programming-livres/issues/2353) pour contribuer à la discussion sur le formatage.))
+    - s'ils renvoient à des éditions différentes et que vous jugez que ces éditions sont suffisamment différentes pour qu'elles valent la peine d'être conservées, ajoutez un lien séparé avec une note sur chaque édition (voir [Problème #2353](https://github.com/ElivreFoundation/free-programming-livres/issues/2353) pour contribuer à la discussion sur le formatage).
 - préférer les commits atomiques (un commit par ajout/suppression/modification) aux plus gros commits. Pas besoin d'écraser vos commits avant de soumettre un PR. (Nous n'appliquerons jamais cette règle car c'est juste une question de commodité pour les responsables)
 - si le livre est plus ancien, indiquez la date de parution avec le titre.
 - incluez le ou les noms de l'auteur, le cas échéant. Vous pouvez raccourcir les listes d'auteurs avec "et al."
-- si le livre n'est pas terminé, et est toujours en cours de travail, ajoutez la notation "en cours", comme décrit [ci-dessous.](#in_process)
+- si le livre n'est pas terminé, et est toujours en cours de travail, ajoutez la notation "en cours", comme décrit [ci-dessous](#in_process).
 - si une adresse e-mail ou la configuration d'un compte est demandée avant l'activation du téléchargement, ajoutez des notes adaptées à la langue entre parenthèses, par exemple: `(adresse e-mail *demandée*, non obligatoire)`
 
 
@@ -74,7 +74,7 @@ l'idée est d'avoir:
 Exemple:
 
 ```text
-[...]
+[..].
 * [Un Livre Génial](http://exemple.com/exemple.html)
                                 (ligne blanche)
                                 (ligne blanche)
@@ -187,7 +187,7 @@ Parce qu'Internet est vaste, nous n'incluons pas dans nos listes:
 - les blogs
 - articles de blog
 - des articles
-- des sites Web (à l'exception de ceux qui hébergent BEAUCOUP d'articles que nous répertorions.)
+- des sites Web (à l'exception de ceux qui hébergent BEAUCOUP d'articles que nous répertorions).
 - des vidéos qui ne sont pas des cours ou des screencasts.
 - les chapitres du livre
 - échantillons teaser de livres

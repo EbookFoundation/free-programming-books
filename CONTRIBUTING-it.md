@@ -51,7 +51,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 - se un link esiste in più formati, aggiungi un link separato con una nota riguardante il formato
 - se una risorsa è presente in posti differenti su internet
     - usa il link più "autorevole" per segnalare la risorsa (significa che il sito web dell'autore è migliore del sito web dell'editore, che è migliore di un sito web di terze parti)
-    - se reindirizzano a edizioni differenti e tu credi che queste edizioni siano abbastanza diverse tra loro da valere la pena di essere tenute, aggiungi un link separato con una nota riguardante ogni edizione (guarda [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) per contribuire alla discussione sulla formattazione.)
+    - se reindirizzano a edizioni differenti e tu credi che queste edizioni siano abbastanza diverse tra loro da valere la pena di essere tenute, aggiungi un link separato con una nota riguardante ogni edizione (guarda [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) per contribuire alla discussione sulla formattazione).
 - preferisci gli atomic commits (un commit per aggiunta/modifica/eliminazione) rispetto ai grandi commit. Non c'è bisogno di raggruppare i commit per inviarli in una sola PR. (Non applichiamo mai questa regola, è solo per comodità dei moderatori)
 - se il libro è più vecchio, includi la data di pubblicazione assieme al titolo.
 - includi il nome o i nomi degli autori se è il caso. Puoi accorciare il nome degli autori con "et al."
@@ -196,7 +196,7 @@ Essendo che internet è vasto, noi non accettiamo:
 - blog
 - blog posts
 - articoli
-- siti web (ad eccezione di quelli che ospitano MOLTI articoli che elenchiamo.)
+- siti web (ad eccezione di quelli che ospitano MOLTI articoli che elenchiamo).
 - video che non sono corsi o screencasts.
 - capitoli dei libri
 - teaser dei libri

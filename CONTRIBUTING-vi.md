@@ -60,11 +60,11 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
 - nếu một liên kết tồn tại ở nhiều định dạng, hãy thêm một ghi chú riêng về từng định dạng
 - nếu một tài liệu tồn tại ở những nơi khác nhau trên Internet
     - sử dụng liên kết với nguồn có thẩm quyền nhất (có nghĩa là trang web của tác giả tốt hơn trang web của người biên tập và tốt hơn trang web của bên thứ ba)
-    - nếu chúng liên kết đến các ấn bản khác nhau và bạn đánh giá các ấn bản này đủ khác nhau để có giá trị giữ chúng, hãy thêm một ghi chú riêng về từng ấn bản (xem [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) để đóng góp vào cuộc thảo luận về định dạng.)
+    - nếu chúng liên kết đến các ấn bản khác nhau và bạn đánh giá các ấn bản này đủ khác nhau để có giá trị giữ chúng, hãy thêm một ghi chú riêng về từng ấn bản (xem [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) để đóng góp vào cuộc thảo luận về định dạng).
 - ưu tiên các commit nhỏ (atomic commits - một commit chỉ có thêm, xóa hoặc sửa) hơn các commit lớn. Không cần phải giấu các commits của bạn trước khi gửi PR. (Chúng tôi sẽ không bao giờ thực thi những thứ này vì nó thuận tiện sau này cho người bảo trì)
 - nếu sách cũ, hãy bao gồm ngày xuất bản cùng với tên sách.
 - bao gồm tên tác giả hoặc tên nếu thích hợp. Bạn có thể rút ngắn danh sách tác giả với "et al."
-- nếu cuốn sách chưa hoàn thành và vẫn đang được hoàn thiện, hãy thêm ký hiệu "đang xử lý", như được mô tả [dưới đây.](#in_process)
+- nếu cuốn sách chưa hoàn thành và vẫn đang được hoàn thiện, hãy thêm ký hiệu "đang xử lý", như được mô tả [dưới đây](#in_process).
 - nếu địa chỉ email hoặc thiết lập tài khoản được yêu cầu trước khi kích hoạt tải xuống, hãy thêm ghi chú phù hợp với ngôn ngữ trong ngoặc đơn, ví dụ: `(địa chỉ email *được yêu cầu*, không bắt buộc)`
 
 
@@ -197,7 +197,7 @@ Vì Internet rất rộng lớn, chúng tôi không đưa chúng vào danh sách
 - blogs
 - bài đăng trên blog
 - bài viết
-- các trang web (ngoại trừ những nơi lưu trữ RẤT NHIỀU tài liệu mà chúng tôi liệt kê.)
+- các trang web (ngoại trừ những nơi lưu trữ RẤT NHIỀU tài liệu mà chúng tôi liệt kê).
 - video không phải là khóa học hoặc video truyền hình.
 - các chương của cuốn sách
 - các ví dụ khó từ sách

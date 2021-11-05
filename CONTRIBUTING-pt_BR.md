@@ -54,7 +54,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
 - prefira _commits_ atômicos (um _commit_ para cada adição/deleção/modificação) ao invés de _commits_ maiores. Não é necessário fazer o _squash_ de seus _commits_ antes de submeter um PR. Nunca iremos impor esta regra dado que é apenas uma questão de conveniência para os mantenedores).
 - se o livro for mais antigo, inclua a data de publicação no título.
 - inclua o(s) nome(s) do(s) autor(es) onde for apropriado. Você pode encurtar a lista de autores com "et al".
-- se o livro não estiver completo, e ainda está sendo escrito, adicione a notação "em processo", como descrito [abaixo.](#in_process)
+- se o livro não estiver completo, e ainda está sendo escrito, adicione a notação "em processo", como descrito [abaixo](#in_process).
 - se um endereço de email ou configuração de conta for solicitado antes que o _download_ seja habilitado, adicione uma observação no idioma apropriado e entre parênteses. Por exemplo: `(endereço de email é *pedido*, não obrigatório)`.
 
 

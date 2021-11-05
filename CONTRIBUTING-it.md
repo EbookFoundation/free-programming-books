@@ -31,7 +31,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 5. GitHub Actions avvierà dei test per assicurarsi che le tue liste siano ordinate alfabeticamente e formattate correttamente. Assicurati che i tuoi cambiamenti passino il test.
 
 
-<a name="guidelines"></a>
+<!----><a name="guidelines"></a>
 ### Linee guida
 
 - assicurati che il libro sia gratuito. Controlla più volte se necessario. Commentare nella PR il perché pensi che il libro sia gratuito aiuta gli admin.
@@ -60,7 +60,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 - se è richiesto un indirizzo email o un account per poter scaricare il libro, aggiungilo tra parentesi, esempio: `(email address *requested*, not required)`
 
 
-<a name="formatting"></a>
+<!----><a name="formatting"></a>
 ### Formattazione
 
 - Tutte le liste sono file `.md`. Prova ad imparare la sintassi [Markdown](https://guides.github.com/features/mastering-markdown/). È semplice!

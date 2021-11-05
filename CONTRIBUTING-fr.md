@@ -226,7 +226,7 @@ Si vous pouvez l'imprimer et conserver son essence, ce n'est pas un didacticiel 
 
 ### Automatisation
 
-- L'application des règles de formatage est automatisée via [Github Actions](https://docs.github.com/en/actions) en utilisant [fpb-lint](https://github.com/vhf/free-programming-livres-lint) (voir [ .github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
+- L'application des règles de formatage est automatisée via [Github Actions](https://docs.github.com/en/actions) en utilisant [fpb-lint](https://github.com/vhf/free-programming-livres-lint) (voir [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
 - La validation d'URL utilise [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Pour déclencher la validation d'URL, poussez un commit qui inclut un message de commit contenant `check_urls=file_to_check` :
 

@@ -13,7 +13,7 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](https://githu
 
 ## Versi pendek
 
-1. "Tautan untuk mengunduh buku dengan mudah" tidak selalu merupakan tautan ke buku *gratis*. Harap hanya menambahkan konten gratis. Pastikan mereka gratis. Kami tidak menerima tautan ke situs yang * mengharuskan * Anda mendaftar dengan alamat email yang berfungsi untuk mengunduh buku, tetapi kami menyambut situs yang meminta alamat email.
+1. "Tautan untuk mengunduh buku dengan mudah" tidak selalu merupakan tautan ke buku *gratis*. Harap hanya menambahkan konten gratis. Pastikan mereka gratis. Kami tidak menerima tautan ke situs yang *mengharuskan* Anda mendaftar dengan alamat email yang berfungsi untuk mengunduh buku, tetapi kami menyambut situs yang meminta alamat email.
 
 2. Anda tidak harus terbiasa dengan Git: Jika Anda telah menemukan sesuatu yang menarik *yang belum ada di salah satu daftar*, silakan buka [Masalah](https://github.com/EbookFoundation/free-programming-books/issues) dengan tautan yang Anda sarankan.
     - Jika Anda sudah familiar dengan Git, fork repositori dan kirim pull request.
@@ -39,13 +39,13 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](https://githu
 - Selalu pilih tautan dari sumber otoritatif (yaitu, situs web penulis lebih baik daripada situs web editor, yang pada gilirannya akan lebih baik daripada situs web pihak ketiga)
     - tidak ada platform hosting file (termasuk tautan ke Dropbox, Google Drive, dll.)
 - Tautan `https` harus selalu lebih disukai daripada tautan `http` - selama tautan tersebut mengarah ke domain dan konten yang sama.
-- Garis miring harus dihapus pada domain root: `http://example.com` alih-alih `http://example.com/ `
+- Garis miring harus dihapus pada domain root: `http://example.com` alih-alih `http://example.com/`
 - Selalu pilih tautan terpendek: `http://example.com/dir/` lebih baik daripada `http://example.com/dir/index.html`
     - jangan gunakan penyingkat url
 - Pilih tautan ke versi terbaru alih-alih menautkan ke versi tertentu: `http://example.com/dir/book/current/` lebih baik daripada `http://example.com/dir/book/v1.0.0/index.html`
 - Jika tautan menggunakan sertifikat yang kedaluwarsa atau ditandatangani sendiri atau memiliki masalah SSL lain:
     1. *ganti* dengan mitra `http` jika memungkinkan (karena mungkin sulit untuk mengizinkan pengecualian pada perangkat seluler).
-    2. *biarkan apa adanya* jika versi `http` tidak tersedia, tetapi tautan dapat diakses melalui` https` dengan mengabaikan peringatan di browser atau menambahkan pengecualian.
+    2. *biarkan apa adanya* jika versi `http` tidak tersedia, tetapi tautan dapat diakses melalui `https` dengan mengabaikan peringatan di browser atau menambahkan pengecualian.
     3. *hapus* jika tidak.
 - jika ada tautan dalam format yang berbeda, tambahkan tautan terpisah dengan referensi ke setiap format
 - jika sepotong konten tersedia di beberapa tempat di Internet

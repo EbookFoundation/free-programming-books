@@ -2,11 +2,11 @@
 
 Bản dịch Tiếng Việt:
 
-* Bản dịch này mục đích để khuyến khích các bạn đóng góp vào dự án `free-programming-books` mà chưa thể đọc tốt được Tiếng Anh. Tôi cũng mong Việt Nam có thể có nhiều hơn những khóa học, những cuốn sách miễn phí về lập trình để giúp các bạn trẻ hiện nay có thể sớm tiếp cận với công nghệ, phát triển sớm được niềm đam mê của bản thân.
+- Bản dịch này mục đích để khuyến khích các bạn đóng góp vào dự án `free-programming-books` mà chưa thể đọc tốt được Tiếng Anh. Tôi cũng mong Việt Nam có thể có nhiều hơn những khóa học, những cuốn sách miễn phí về lập trình để giúp các bạn trẻ hiện nay có thể sớm tiếp cận với công nghệ, phát triển sớm được niềm đam mê của bản thân.
 
-* Tôi đã cố gắng dịch chính xác, nhưng khó có thể tránh khỏi một số sai sót, mong các bạn lượng thứ.
+- Tôi đã cố gắng dịch chính xác, nhưng khó có thể tránh khỏi một số sai sót, mong các bạn lượng thứ.
 
-* Mọi ý kiến, đóng góp về bản dịch, vui lòng [tạo một issue mới](/issues/new) hoặc bạn có thể chỉnh sửa và tạo pull Request.
+- Mọi ý kiến, đóng góp về bản dịch, vui lòng [tạo một issue mới](/issues/new) hoặc bạn có thể chỉnh sửa và tạo pull Request.
 
 ---
 
@@ -47,11 +47,11 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
 - chúng tôi không chấp nhận các tệp được lưu trữ trên Google Drive, Dropbox, Mega, Scribd, Issuu và các nền tảng tải lên tệp tương tự khác.
 - chèn các liên kết của bạn theo thứ tự bảng chữ cái. Nếu bạn thấy một liên kết bị đặt sai vị trí, vui lòng sắp xếp lại nó và gửi một PR.
 - sử dụng liên kết với nguồn có thẩm quyền nhất (có nghĩa là trang web của tác giả tốt hơn trang web của người biên tập, tốt hơn trang web của bên thứ ba)
-    + không có dịch vụ lưu trữ tệp (điều này bao gồm (nhưng không giới hạn) liên kết Dropbox và Google Drive)
+    - không có dịch vụ lưu trữ tệp (điều này bao gồm (nhưng không giới hạn) liên kết Dropbox và Google Drive)
 - một giao thức `https` tốt hơn giao thức `http` - miễn là chúng ở trên cùng một domain và thể hiện cùng một nội dung.
 - trên các miền gốc, bỏ dấu gạch chéo sau: `http://example.com` thay vì `http://example.com/`
 - luôn luôn ưu tiên đường dẫn ngắn: `http://example.com/dir/` tốt hơn là `http://example.com/dir/index.html`
-    + không sử dụng link rút gọn
+    - không sử dụng link rút gọn
 - thường ưu tiên những liên kết "mới nhất" hơn những liên kết có "phiên bản (version)": `http://example.com/dir/book/current/` tốt hơn `http://example.com/dir/book/v1.0.0/index.html`
 - nếu một liên kết có chứng chỉ hết hạn như chứng chỉ/ tự chứng chỉ / chứng chỉ SSL hoặc các vấn đề tương tự:
     1. *thay thế nó* bằng giao thức `http` nếu có thể (bởi vì việc chấp nhận các lỗi ngoại lệ có thể phức tạp trên các thiết bị di động)
@@ -59,8 +59,8 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
     3. *xóa nó đi* nếu không thể làm gì khác
 - nếu một liên kết tồn tại ở nhiều định dạng, hãy thêm một ghi chú riêng về từng định dạng
 - nếu một tài liệu tồn tại ở những nơi khác nhau trên Internet
-    + sử dụng liên kết với nguồn có thẩm quyền nhất (có nghĩa là trang web của tác giả tốt hơn trang web của người biên tập và tốt hơn trang web của bên thứ ba)
-    + nếu chúng liên kết đến các ấn bản khác nhau và bạn đánh giá các ấn bản này đủ khác nhau để có giá trị giữ chúng, hãy thêm một ghi chú riêng về từng ấn bản (xem [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) để đóng góp vào cuộc thảo luận về định dạng.)
+    - sử dụng liên kết với nguồn có thẩm quyền nhất (có nghĩa là trang web của tác giả tốt hơn trang web của người biên tập và tốt hơn trang web của bên thứ ba)
+    - nếu chúng liên kết đến các ấn bản khác nhau và bạn đánh giá các ấn bản này đủ khác nhau để có giá trị giữ chúng, hãy thêm một ghi chú riêng về từng ấn bản (xem [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) để đóng góp vào cuộc thảo luận về định dạng.)
 - ưu tiên các commit nhỏ (atomic commits - một commit chỉ có thêm, xóa hoặc sửa) hơn các commit lớn. Không cần phải giấu các commits của bạn trước khi gửi PR. (Chúng tôi sẽ không bao giờ thực thi những thứ này vì nó thuận tiện sau này cho người bảo trì)
 - nếu sách cũ, hãy bao gồm ngày xuất bản cùng với tên sách.
 - bao gồm tên tác giả hoặc tên nếu thích hợp. Bạn có thể rút ngắn danh sách tác giả với "et al."

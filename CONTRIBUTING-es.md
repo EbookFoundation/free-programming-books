@@ -41,11 +41,11 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repo
 - No se aceptan ficheros alojados en Google Drive, Dropbox, Mega, Scribd, Issuu u otras plataformas de almacenamiento y/o descarga similares.
 - Inserte los enlaces ordenados alfabéticamente. Si se encuentra por casualidad con un enlace fuera de sitio, por favor ordénelo y envíe la correspondiente PR para poder arreglarlo.
 - Use el enlace que apunte a la fuente más fidedigna. Esto es, el sitio web del autor es mejor que el del editor y éste a su vez mejor que uno de terceros.
-    + No use servicios de almacenamiento en la nube. Esto incluye, aunque sin limitar, enlaces a Dropbox y Google Drive.
+    - No use servicios de almacenamiento en la nube. Esto incluye, aunque sin limitar, enlaces a Dropbox y Google Drive.
 - Es siempre preferible el uso de enlaces con protocolo `https` en vez de `http` si ambos se refieren al mismo dominio y sirven el mismo contenido.
 - En los dominios raíz, elimine la barra inclinada del final: `http://example.com` en lugar de `http://example.com/`.
 - Utilice preferentemente la forma corta de los hipervínculos: `http://example.com/dir/` es mejor que `http://example.com/dir/index.html`.
-    + No se admiten acortadores de enlaces URL.
+    - No se admiten acortadores de enlaces URL.
 - Por lo general, se prefiere el enlace "actual" sobre el de "versión": `http://example.com/dir/book/current/` es más asequible que `http://example.com/dir/book/v1.0.0/index.html`.
 - Si en un enlace se encuentra con algún problema de certificados, ya sea caducado, autofirmado o de cualquier otro tipo:
     1. *Reemplácelo* con su análogo `http` si fuera posible (porque aceptar excepciones puede ser complicado en dispositivos móviles).
@@ -53,8 +53,8 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repo
     3. *Elimínelo* en cualquier otro caso.
 - Si existe un mismo enlace con varios formatos, anexe enlaces aparte con una nota sobre cada formato.
 - Si un recurso existe en diferentes lugares de Internet:
-    + Use aquella fuente más fidedigna (lo que significa que el sitio web del propio autor es más asequible que el sitio web del editor y a su vez éste es mejor que una fuente de terceros).
-    + Si apuntan a diferentes ediciones y considera que estas ediciones son lo suficientemente dispares como para que valga la pena conservarlas, agregue por separado un nuevo enlace haciendo alusión a cada edición. Diríjase al [Issue \#2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) si desea contribuir en la discusión acerca del formateo que deben seguir dichos registros.
+    - Use aquella fuente más fidedigna (lo que significa que el sitio web del propio autor es más asequible que el sitio web del editor y a su vez éste es mejor que una fuente de terceros).
+    - Si apuntan a diferentes ediciones y considera que estas ediciones son lo suficientemente dispares como para que valga la pena conservarlas, agregue por separado un nuevo enlace haciendo alusión a cada edición. Diríjase al [Issue \#2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) si desea contribuir en la discusión acerca del formateo que deben seguir dichos registros.
 - Es preferible realizar commits atómicos (un commit por cada adición/eliminación/modificación) frente a unos con mayor calado. No es necesario realizar un squash de todos ellos antes de enviar una PR. (Nunca aplicaremos esta regla, ya que solamente es una cuestión de conveniencia para quien mantiene el proyecto).
 - Si se trata de un libro más antiguo, incluya su fecha de publicación dentro del título.
 - Incluya el nombre o nombres de autor/es cuando corresponda. Puede valerse de "`et al.`" para acortar esa enumeración de autores.

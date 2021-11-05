@@ -37,11 +37,11 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](https://githu
 - Kami tidak merekam file yang ada di Google Drive, Dropbox, Mega, Scribd, Issuu atau platform unggahan yang sebanding.
 - Masukkan tautan dalam urutan abjad. Jika Anda menemukan tautan yang salah dimasukkan, harap perbaiki pesanan dan buka PR.
 - Selalu pilih tautan dari sumber otoritatif (yaitu, situs web penulis lebih baik daripada situs web editor, yang pada gilirannya akan lebih baik daripada situs web pihak ketiga)
-    + tidak ada platform hosting file (termasuk tautan ke Dropbox, Google Drive, dll.)
+    - tidak ada platform hosting file (termasuk tautan ke Dropbox, Google Drive, dll.)
 - Tautan `https` harus selalu lebih disukai daripada tautan `http` - selama tautan tersebut mengarah ke domain dan konten yang sama.
 - Garis miring harus dihapus pada domain root: `http://example.com` alih-alih `http://example.com/ `
 - Selalu pilih tautan terpendek: `http://example.com/dir/` lebih baik daripada `http://example.com/dir/index.html`
-    + jangan gunakan penyingkat url
+    - jangan gunakan penyingkat url
 - Pilih tautan ke versi terbaru alih-alih menautkan ke versi tertentu: `http://example.com/dir/book/current/` lebih baik daripada `http://example.com/dir/book/v1.0.0/index.html`
 - Jika tautan menggunakan sertifikat yang kedaluwarsa atau ditandatangani sendiri atau memiliki masalah SSL lain:
     1. *ganti* dengan mitra `http` jika memungkinkan (karena mungkin sulit untuk mengizinkan pengecualian pada perangkat seluler).
@@ -49,4 +49,4 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](https://githu
     3. *hapus* jika tidak.
 - jika ada tautan dalam format yang berbeda, tambahkan tautan terpisah dengan referensi ke setiap format
 - jika sepotong konten tersedia di beberapa tempat di Internet
-    + pilih tautan otoritatif
+    - pilih tautan otoritatif

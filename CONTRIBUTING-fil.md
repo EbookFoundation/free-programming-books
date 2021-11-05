@@ -38,11 +38,11 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 - hindi kami tumatanggap ng mga file na naka-host sa Google Drive, Dropbox, Mega, Scribd, Issuu at iba pang katulad na mga platform sa pag-upload ng file
 - ipasok ang iyong mga link sa alphabetical order. Kung makakita ka ng maling lugar na link, mangyaring muling ayusin ito at magsumite ng PR
 - gamitin ang link na may pinakamakapangyarihang pinagmulan (ibig sabihin ang website ng may-akda ay mas mahusay kaysa sa website ng editor, na mas mahusay kaysa sa isang third party na website)
-    + walang mga serbisyo sa pagho-host ng file (kabilang dito ang (ngunit hindi limitado sa) mga link ng Dropbox at Google Drive)
+    - walang mga serbisyo sa pagho-host ng file (kabilang dito ang (ngunit hindi limitado sa) mga link ng Dropbox at Google Drive)
 - palaging mas gusto ang isang link na `https` kaysa sa isang link na `http` -- hangga't sila ay nasa parehong domain at naghahatid ng parehong nilalaman
 - sa mga root domain, tanggalin ang trailing slash: `http://example.com` sa halip na `http://example.com/`
 - palaging mas gusto ang pinakamaikling link: `http://example.com/dir/` ay mas mabuti kaysa sa `http://example.com/dir/index.html`
-    + walang URL shortener link
+    - walang URL shortener link
 - kadalasang mas gusto ang "kasalukuyang" link kaysa sa "bersyon": `http://example.com/dir/book/current/` ay mas mabuti kaysa sa `http://example.com/dir/book/v1.0.0/index.html`
 - kung ang isang link ay nag-expire na certificate/self-signed certificate/SSL isyu ng anumang iba pang uri:
     1. *palitan ito* ng katapat nitong `http` kung maaari (dahil ang pagtanggap ng mga pagbubukod ay maaaring kumplikado sa mga mobile device).
@@ -50,8 +50,8 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
     3. *tanggalin mo* kung hindi.
 - kung mayroong isang link sa maraming format, magdagdag ng isang hiwalay na link na may tala tungkol sa bawat format
 - kung mayroong isang mapagkukunan sa iba't ibang lugar sa Internet
-    + gamitin ang link na may pinaka-makapangyarihang pinagmulan (ibig sabihin ang website ng may-akda ay mas mahusay kaysa sa website ng editor ay mas mahusay kaysa sa third party na website)
-    + kung nagli-link ang mga ito sa iba't ibang mga edisyon, at hinuhusgahan mo na ang mga edisyong ito ay sapat na naiiba upang maging sulit na panatilihin ang mga ito, magdagdag ng hiwalay na link na may tala tungkol sa bawat edisyon (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) upang mag-ambag sa talakayan sa pag-format.)
+    - gamitin ang link na may pinaka-makapangyarihang pinagmulan (ibig sabihin ang website ng may-akda ay mas mahusay kaysa sa website ng editor ay mas mahusay kaysa sa third party na website)
+    - kung nagli-link ang mga ito sa iba't ibang mga edisyon, at hinuhusgahan mo na ang mga edisyong ito ay sapat na naiiba upang maging sulit na panatilihin ang mga ito, magdagdag ng hiwalay na link na may tala tungkol sa bawat edisyon (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) upang mag-ambag sa talakayan sa pag-format.)
 - mas gusto ang atomic commit (one commit by addition/deletion/modification) higit sa mas malalaking commit. Hindi na kailangang i-squash ang iyong mga commit bago magsumite ng PR. (Hindi namin kailanman ipapatupad ang panuntunang ito dahil ito ay isang bagay lamang ng kaginhawahan para sa mga nagpapanatili)
 - kung mas luma ang aklat, isama ang petsa ng publikasyon na may pamagat.
 - isama ang pangalan ng may-akda o mga pangalan kung saan naaangkop. Maaari mong paikliin ang mga listahan ng may-akda gamit ang "`et al.`"

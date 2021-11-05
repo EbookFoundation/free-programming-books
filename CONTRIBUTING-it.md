@@ -38,11 +38,11 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 - non accettiamo file hostati su Google Drive, Dropbox, Mega, Scribd, Issuu e altre piattaforme simili per l'upload dei file
 - inserisci i link ordinandoli alfabeticamente. Se sbagli la posizione di un link, riordinalo e invia la PR
 - usa il link più "autorevole" per segnalare la risorsa (significa che il sito web dell'autore è migliore del sito web dell'editore, che è migliore di un sito web di terze parti)
-    + nessun servizio di file hosting (questo include (ma non è limitato a) link di Dropbox e Google Drive)
+    - nessun servizio di file hosting (questo include (ma non è limitato a) link di Dropbox e Google Drive)
 - preferisci sempre un link `https` rispetto ad un `http` -- purché si trovino sullo stesso dominio e contengano lo stesso contenuto
 - sul dominio di root, elimina il trailing slash (lo slash finale): `http://example.com` invece di `http://example.com/`
 - preferisci sempre link più corti: `http://example.com/dir/` è migliore di `http://example.com/dir/index.html`
-    + niente link accorciati
+    - niente link accorciati
 - generalmente preferisci il link "current" rispetto al link "version": `http://example.com/dir/book/current/` è migliore di `http://example.com/dir/book/v1.0.0/index.html`
 - se un link ha un certificato scaduto/certificato auto-firmato/problemi di SSL o di qualsiasi altro tipo:
     1. *sostituiscilo* con la controparte in `http` se possibile (perché accettare eccezione può essere complicato sui dispositivi mobile).
@@ -50,8 +50,8 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
     3. *rimuovilo* altrimenti.
 - se un link esiste in più formati, aggiungi un link separato con una nota riguardante il formato
 - se una risorsa è presente in posti differenti su internet
-    + usa il link più "autorevole" per segnalare la risorsa (significa che il sito web dell'autore è migliore del sito web dell'editore, che è migliore di un sito web di terze parti)
-    + se reindirizzano a edizioni differenti e tu credi che queste edizioni siano abbastanza diverse tra loro da valere la pena di essere tenute, aggiungi un link separato con una nota riguardante ogni edizione (guarda [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) per contribuire alla discussione sulla formattazione.)
+    - usa il link più "autorevole" per segnalare la risorsa (significa che il sito web dell'autore è migliore del sito web dell'editore, che è migliore di un sito web di terze parti)
+    - se reindirizzano a edizioni differenti e tu credi che queste edizioni siano abbastanza diverse tra loro da valere la pena di essere tenute, aggiungi un link separato con una nota riguardante ogni edizione (guarda [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) per contribuire alla discussione sulla formattazione.)
 - preferisci gli atomic commits (un commit per aggiunta/modifica/eliminazione) rispetto ai grandi commit. Non c'è bisogno di raggruppare i commit per inviarli in una sola PR. (Non applichiamo mai questa regola, è solo per comodità dei moderatori)
 - se il libro è più vecchio, includi la data di pubblicazione assieme al titolo.
 - includi il nome o i nomi degli autori se è il caso. Puoi accorciare il nome degli autori con "et al."

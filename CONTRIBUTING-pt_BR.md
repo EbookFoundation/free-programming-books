@@ -37,11 +37,11 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
 - não aceitamos arquivos hospedados no Google Drive, Dropbox, Mega, Scribd, Issuu e outras plataformas similares de _upload_ de arquivos.
 - insira seus _links_ em ordem alfabética. Se vir um _link_ fora de ordem, por favor reordene-o e crie um PR.
 - use o _link_ com a fonte mais oficial (isso significa que o site do próprio autor é melhor que o site da editora, que é melhor que sites de terceiros)
-    + sem serviços de hospedagem de arquivos (isso inclui (mas não se limita a) _links_ do Dropbox e Google Drive)
+    - sem serviços de hospedagem de arquivos (isso inclui (mas não se limita a) _links_ do Dropbox e Google Drive)
 - sempre prefira um _link_ `https` em vez de `http` -- desde que estejam no mesmo domínio e sirvam o mesmo conteúdo.
 - em domínios raiz, remova a barra final: `http://exemplo.com` ao invés de `http://exemplo.com/`
 - sempre prefira o _link_ mais curto: `http://exemplo.com/dir/` é melhor que `http://exemplo.com/dir/index.html`
-    + sem _links_ vindos de encurtadores de _links_
+    - sem _links_ vindos de encurtadores de _links_
 - prefira o _link_ "_current_" ao invés de _"version"_: `http://exemplo.com/dir/book/current/` é melhor que `http://exemplo.com/dir/book/v1.0.0/index.html`
 - se um _link_ possui um certificado expirado/autoassinado/problema de SSL de qualquer outro tipo:
     1. *substitua-o* por seu equivalente `http` se possível (pois aceitar exceções pode ser complicado em dispositivos móveis).
@@ -49,8 +49,8 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
     3. *remova-o* caso contrário.
 - se o _link_ existir em múltiplos formatos, adicione um _link_ separado com uma observação sobre cada formato.
 - se o material existe em diferentes lugares na Internet
-    + use o _link_ com a fonte mais oficial (isso significa que o site do autor é melhor que o site da editora que é melhor que sites de terceiros)
-    + se eles referenciam diferentes edições, e você julgar que essas edições são diferentes o bastante para mantê-las, adicione um _link_ separado com uma observação para cada edição (veja [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir com a discussão sobre formatação).
+    - use o _link_ com a fonte mais oficial (isso significa que o site do autor é melhor que o site da editora que é melhor que sites de terceiros)
+    - se eles referenciam diferentes edições, e você julgar que essas edições são diferentes o bastante para mantê-las, adicione um _link_ separado com uma observação para cada edição (veja [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir com a discussão sobre formatação).
 - prefira _commits_ atômicos (um _commit_ para cada adição/deleção/modificação) ao invés de _commits_ maiores. Não é necessário fazer o _squash_ de seus _commits_ antes de submeter um PR. Nunca iremos impor esta regra dado que é apenas uma questão de conveniência para os mantenedores).
 - se o livro for mais antigo, inclua a data de publicação no título.
 - inclua o(s) nome(s) do(s) autor(es) onde for apropriado. Você pode encurtar a lista de autores com "et al".

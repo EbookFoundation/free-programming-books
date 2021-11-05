@@ -37,11 +37,11 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
 - nous n'acceptons pas les fichiers hébergés sur Google Drive, Dropbox, Mega, Scribd, Issuu et autres plateformes de téléchargement de fichiers similaires.
 - insérez vos liens par ordre alphabétique. Si vous voyez un lien égaré, veuillez le réorganiser et soumettre un PR
 - utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
-    + pas de services d'hébergement de fichiers (cela inclut (mais n'est pas limité à) les liens Dropbox et Google Drive)
+    - pas de services d'hébergement de fichiers (cela inclut (mais n'est pas limité à) les liens Dropbox et Google Drive)
 - préférez toujours un lien `https` à un `http` - tant qu'ils sont sur le même domaine et servent le même contenu
 - sur les domaines root, supprimez la barre oblique finale: `http://exemple.com` au lieu de `http://exemple.com/`
 - préférez toujours le lien le plus court : `http://exemple.com/dir/` est préférable à `http://exemple.com/dir/index.html`
-    + pas de liens de raccourcissement d'URL
+    - pas de liens de raccourcissement d'URL
 - préférez généralement le lien "actuel" à celui de "version": `http://exemple.com/dir/livre/current/` est meilleur que `http://exemple.com/dir/livre/v1.0.0 /index.html`
 - si un lien a un certificat expiré/certificat auto-signé/problème SSL de toute autre nature:
     1. *remplacez-le* par son équivalent `http` si possible (car accepter les exceptions peut être compliqué sur les appareils mobiles)
@@ -49,8 +49,8 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
     3. *supprimez-le* sinon.
 - si un lien existe dans plusieurs formats, ajoutez un lien séparé avec une note sur chaque format
 - si une ressource existe à différents endroits sur Internet
-    + utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
-    + s'ils renvoient à des éditions différentes et que vous jugez que ces éditions sont suffisamment différentes pour qu'elles valent la peine d'être conservées, ajoutez un lien séparé avec une note sur chaque édition (voir [Problème #2353](https://github.com/ElivreFoundation/free-programming-livres/issues/2353) pour contribuer à la discussion sur le formatage.))
+    - utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
+    - s'ils renvoient à des éditions différentes et que vous jugez que ces éditions sont suffisamment différentes pour qu'elles valent la peine d'être conservées, ajoutez un lien séparé avec une note sur chaque édition (voir [Problème #2353](https://github.com/ElivreFoundation/free-programming-livres/issues/2353) pour contribuer à la discussion sur le formatage.))
 - préférer les commits atomiques (un commit par ajout/suppression/modification) aux plus gros commits. Pas besoin d'écraser vos commits avant de soumettre un PR. (Nous n'appliquerons jamais cette règle car c'est juste une question de commodité pour les responsables)
 - si le livre est plus ancien, indiquez la date de parution avec le titre.
 - incluez le ou les noms de l'auteur, le cas échéant. Vous pouvez raccourcir les listes d'auteurs avec "et al."

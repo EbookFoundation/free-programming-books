@@ -72,4 +72,5 @@
 * [NoSoloTech](https://www.ivoox.com/podcast-nosolotech-podcast_sq_f1851397_1.html) (podcast)
 * [Red de Sospechosos Habituales](https://www.ivoox.com/podcast-red-sospechosos-habituales_sq_f1564393_1.html) (podcast)
 * [Reescribiendo el Código](https://open.spotify.com/show/6efO7Lp5LENT3jqR0sYIG5) (podcast)
+* [TechAndLadies](https://open.spotify.com/show/0lTGoOCIFblNuVUCEOaBqP) (podcast)
 * [UGeek](https://ugeek.github.io) (podcast)

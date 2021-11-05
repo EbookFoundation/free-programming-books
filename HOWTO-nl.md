@@ -3,7 +3,7 @@ Lees dit in andere talen: [English](HOWTO.md), [Français](HOWTO-fr.md), [Españ
 Welkom bij Free-Programming-Books! We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste pull-verzoeken doen. Als je een van hen bent, zijn hier enkele bronnen die je kunnen helpen:
 
 * [Over pull-verzoeken](https://help.github.com/articles/about-pull-requests/)
-* [Een pull-verzoek maken](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+* [:us: Een pull-verzoek maken](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(in engels)*
 * [:us: Github Hallo Wereld](https://guides.github.com/activities/hello-world/) *(in engels)*
 * [:en: Youtube - Github-zelfstudie voor beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in engels)*
 * [:en: Youtube - Hoe een GitHub-repo te forken en een pull-verzoek in te dienen](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in engels)*

@@ -6,7 +6,7 @@ Welkom bij Free-Programming-Books! We verwelkomen nieuwe bijdragers; zelfs degen
 * [Een pull-verzoek maken](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 * [Github Hallo Wereld](https://guides.github.com/activities/hello-world/)
 * [:en: Youtube - Github-zelfstudie voor beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in engels)*
-* [Youtube - Hoe een GitHub-repo te forken en een pull-verzoek in te dienen](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+* [:en: Youtube - Hoe een GitHub-repo te forken en een pull-verzoek in te dienen](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in engels)*
 * [:en: Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in engels)*
 
 

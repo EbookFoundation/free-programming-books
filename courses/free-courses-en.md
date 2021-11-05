@@ -663,7 +663,6 @@
 
 * [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape  (2019)
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
-* [Learn PHP from Scratch](https://www.educative.io/courses/learn-php-from-scratch) - Educative
 * [Learn Top Ten Frameworks In PHP By Building Projects](https://www.eduonix.com/courses/Web-Development/learn-top-ten-frameworks-in-php-by-building-projects) - Eduonix Learning Solutions *(account or email address required)*
 * [Object-Oriented PHP For Beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV) - Code with Dary
 * [PHP (& MySQL) Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o) - The Net Ninja (Shaun Pelling)

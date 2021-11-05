@@ -7,7 +7,7 @@ Welkom bij Free-Programming-Books! We verwelkomen nieuwe bijdragers; zelfs degen
 * [Github Hallo Wereld](https://guides.github.com/activities/hello-world/)
 * [Youtube - Github-zelfstudie voor beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
 * [Youtube - Hoe een GitHub-repo te forken en een pull-verzoek in te dienen](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [:en: Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in engels)*
 
 
 Aarzel niet om vragen te stellen; elke bijdrager begon met een eerste PR. Je zou onze duizendste kunnen zijn!

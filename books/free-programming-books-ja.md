@@ -69,6 +69,7 @@
   * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Sather](#sather)
 * [Scala](#scala)
 * [Scheme](#scheme)
@@ -351,6 +352,7 @@
 * [お気楽 Go 言語プログラミング入門](http://www.nct9.ne.jp/m_hiroi/golang) - 広井誠
 * [サンプルで学ぶ Go 言語](https://www.spinute.org/go-by-example) - Mark McGranaghan, spinute(翻訳)
 * [テスト駆動開発でGO言語を学びましょう](https://andmorefine.gitbook.io/learn-go-with-tests/) - Christopher James, andmorefine(翻訳)
+* [とほほの Go 言語入門](https://www.tohoho-web.com/ex/golang.html) - 杜甫々
 * [はじめてのGo―シンプルな言語仕様，型システム，並行処理](https://gihyo.jp/dev/feature/01/go_4beginners) - Jxck
 * [プログラミング言語 Go ドキュメント](http://go.shibu.jp) - The Go Authors, SHIBUKAWA Yoshiki 他(翻訳)
 
@@ -624,6 +626,12 @@
 * [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)
 
 
+### Rust
+
+* [Rust by Example 日本語版](https://doc.rust-jp.rs/rust-by-example-ja) - Rustコミュニティ(翻訳)
+* [The Rust Programming Language 日本語版](https://doc.rust-jp.rs/book-ja) - Steve Klabnik, Carol Nichols, Rustコミュニティ(翻訳) ([PDF](https://doc.rust-jp.rs/book-ja-pdf/book.pdf))
+
+
 ### Sather
 
 * [Sather を試そう](https://www.shido.info/sather) - 紫藤貴文
@@ -692,6 +700,7 @@
 
 * [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - basarat, yohamta(翻訳)
 * [TypeScriptの為のクリーンコード](https://msakamaki.github.io/clean-code-typescript) - labs42io, 酒巻 瑞穂(翻訳)
+* [仕事ですぐに使えるTypeScript](https://future-architect.github.io/typescript-guide) - フューチャー株式会社（Future Corporation） ([PDF](https://future-architect.github.io/typescript-guide/typescript-guide.pdf))
 
 
 #### Angular

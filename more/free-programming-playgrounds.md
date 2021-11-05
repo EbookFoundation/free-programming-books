@@ -21,6 +21,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
+* [Nim](#nim)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
 * [Perl](#perl)
@@ -29,20 +30,25 @@
 * [R](#r)
 * [React](#react)
 * [Redis](#redis)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [RxJS](#rxjs)
 * [Scala](#scala)
+* [Scratch](#scratch)
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Svelte](#svelte)
 * [Swift](#swift)
 * [TypeScript](#typescript)
   * [Angular](#angular)
+* [V](#v)
 
 
 ### <a name="c"></a>C
 
+* [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
+* [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/c)
 
 
@@ -73,10 +79,9 @@
 ### CSS
 
 * [CodePen](https://codepen.io)
-* [CSSdeck](http://cssdeck.com)
-* [CSSdesk](http://cssdesk.com)
-* [Dabblet](http://dabblet.com)
-* [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
+* [CSSdeck](https://cssdeck.com)
+* [Dabblet](https://dabblet.com)
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [SoloLearn](https://code.sololearn.com/web#css)
 
 
@@ -131,6 +136,9 @@
 
 ### Java
 
+* [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
+* [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
 * [SoloLearn](https://code.sololearn.com/java)
 
@@ -140,9 +148,11 @@
 * [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io)
 * [Esfiddle](https://esfiddle.net)
-* [JSBin](http://jsbin.com)
-* [JSFiddle](http://jsfiddle.net)
-* [Plunker](http://plnkr.co)
+* [Grasshopper](https://grasshopper.app) *(Google account required)*
+* [Hello Website - (Glitch)](https://glitch.new/website) *(Account requested, not required)*
+* [JSBin](https://jsbin.com)
+* [JSFiddle](https://jsfiddle.net)
+* [Plunker](https://plnkr.co)
 * [SoloLearn](https://code.sololearn.com/web#javascript)
 
 
@@ -171,9 +181,15 @@
 * [.NET Fiddle](https://dotnetfiddle.net)
 
 
+### Nim
+
+* [Nim Playground](https://play.nim-lang.org) - nim-lang.org
+
+
 ### NodeJS
 
-* [Ideone](http://ideone.com)
+* [Hello Node - (Glitch)](https://glitch.new/node) *(Account requested, not required)*
+* [Ideone](https://ideone.com)
 * [SoloLearn](https://code.sololearn.com/nodejs)
 
 
@@ -184,24 +200,25 @@
 
 ### Perl
 
-* [Perl](http://tryperl.pl)
+* [Perl](https://tryperl.pl)
 
 
 ### PHP
 
-* [Codepad](http://codepad.org)
+* [Codepad](http://codepad.org/?lang=PHP)
 * [ExtendsClass](https://extendsclass.com/php.html)
-* [PHPFiddle](http://phpfiddle.org)
+* [PHPFiddle](https://phpfiddle.org)
 * [PHPTester](http://phptester.net)
 * [SoloLearn](https://code.sololearn.com/php)
 
 
 ### Python
 
-* [Codepad](http://codepad.org)
+* [Codepad](http://codepad.org/?lang=Python)
+* [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Python Trinket](https://trinket.io/python)
 * [Python.org Shell](https://www.python.org/shell)
-* [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
+* [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
 
 
@@ -215,6 +232,7 @@
 ### React
 
 * [CodeSandbox.io](https://codesandbox.io)
+* [Hello React - (Glitch)](https://glitch.new/react) *(Account requested, not required)*
 * [jscomplete](https://jscomplete.com/playground)
 * [StackBlitz](https://stackblitz.com/fork/react)
 
@@ -224,9 +242,17 @@
 * [Try Redis](https://try.redis.io)
 
 
+### Regular Expressions
+
+* [iHateRegex: regex for playground](https://ihateregex.io/playground) - Geon George
+* [Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com) - Dan's Tools
+* [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
+* [RegExr: Learn, Build, \& Test RegEx](https://regexr.com) - GSkinner Inc.
+
+
 ### Ruby
 
-* [Codepad](http://codepad.org)
+* [Codepad](http://codepad.org/?lang=Ruby)
 * [SoloLearn](https://code.sololearn.com/ruby)
 * [TryRuby](https://try.ruby-lang.org)
 
@@ -244,8 +270,12 @@
 ### Scala
 
 * [ScalaFiddle.io](https://scalafiddle.io)
-* [ScalaFiddle.net](http://scalafiddle.net)
 * [Scastie](https://scastie.scala-lang.org)
+
+
+### Scratch
+
+* [Scratch.mit.edu](https://scratch.mit.edu/create)
 
 
 ### Solidity
@@ -278,9 +308,14 @@
 * [StackBlitz](https://stackblitz.com/fork/typescript)
 
 
+### V
+
+* [V Playground](https://play.vlang.io) - vlang.io
+
+
 #### Angular
 
 > :information_source: See also &#8230; [AngularJS](#angularjs)
 
-* [Plunker](http://plnkr.co)
+* [Plunker](https://plnkr.co)
 * [StackBlitz](https://stackblitz.com/fork/angular)

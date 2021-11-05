@@ -246,7 +246,7 @@
 
 ### Cloud Computing
 
-* [Cloud Computing Full Course](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
+* [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
 * [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
 
 

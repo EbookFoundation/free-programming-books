@@ -4,6 +4,7 @@
 * [Bash / Shell](#bash--shell)
 * [C](#c)
 * [C#](#c-sharp)
+* [C++](#cpp)
 * [Git](#git)
 * [HTML / CSS](#html--css)
 * [Java](#java)
@@ -37,6 +38,11 @@
 * [Apprendre le langage C - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) - Formation Video
 * [Le Langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - sur Zeste de Savoir de Informaticienzero, Taure, Paraze et Lucas-84
 * [TUTOS C](https://www.youtube.com/playlist?list=PLEagTQfI6nPOWS4JPnxW5pRVgeyLuS5oC) - PrimFX
+
+
+### <a name="cpp"></a>C++
+
+* [La programmation en C++ moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/) - Zeste de savoir informaticienzero mehdidou99
 
 
 ### C Sharp

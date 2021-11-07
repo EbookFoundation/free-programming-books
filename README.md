@@ -6,7 +6,7 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 200,000+ stars, 6100+ commits, 1600+ contributors, and 43,000+ forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 210,000+ stars, 6800+ commits, 1900+ contributors, and 45,000+ forks.
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
@@ -48,6 +48,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [German / Deutsch](books/free-programming-books-de.md)
 + [Greek / ελληνικά](books/free-programming-books-el.md)
 + [Hebrew / עברית](books/free-programming-books-he.md)
++ [Hindi / हिन्दी](books/free-programming-books-hi.md)
 + [Hungarian / magyar / magyar nyelv](books/free-programming-books-hu.md)
 + [Indonesian / Bahasa Indonesia](books/free-programming-books-id.md)
 + [Italian / italiano](books/free-programming-books-it.md)
@@ -62,11 +63,11 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [Russian / Русский язык](books/free-programming-books-ru.md)
 + [Slovak / slovenčina](books/free-programming-books-sk.md)
 + [Spanish / español / castellano](books/free-programming-books-es.md)
-+ [Swedish / Svenska](books/free-programming-books-se.md)
++ [Swedish / Svenska](books/free-programming-books-sv.md)
 + [Tamil / தமிழ்](books/free-programming-books-ta.md)
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
-+ [Ukrainian / Українська](books/free-programming-books-ua.md)
++ [Ukrainian / Українська](books/free-programming-books-uk.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 
@@ -83,22 +84,24 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [Finnish](courses/free-courses-fi.md)
 + [French / français](courses/free-courses-fr.md)
 + [German / Deutsch](courses/free-courses-de.md)
++ [Greek / ελληνικά](courses/free-courses-el.md)
 + [Hebrew / עברית](courses/free-courses-he.md)
 + [Hindi / हिंदी](courses/free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](courses/free-courses-id.md)
 + [Italian / italiano](courses/free-courses-it.md)
 + [Kazakh / қазақша](courses/free-courses-kk.md)
++ [Khmer / ភាសាខ្មែរ](courses/free-courses-km.md)
 + [Korean / 한국어 [韓國語]](courses/free-courses-ko.md)
 + [Persian / Farsi (Iran) / فارسى](courses/free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](courses/free-courses-pl.md)
 + [Portuguese (Brazil)](courses/free-courses-pt_BR.md)
 + [Portuguese (Portugal)](courses/free-courses-pt_PT.md)
 + [Russian / Русский язык](courses/free-courses-ru.md)
-+ [Sinhala / සිංහල](courses/free-courses-sl.md)
++ [Sinhala / සිංහල](courses/free-courses-si.md)
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
-+ [Ukrainian / Українська](courses/free-courses-ua.md)
++ [Ukrainian / Українська](courses/free-courses-uk.md)
 + [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
 
 
@@ -123,14 +126,16 @@ Free Podcasts and Screencasts:
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
++ [French / français](casts/free-podcasts-screencasts-fr.md)
 + [Indonesian / Bahasa Indonesia](casts/free-podcasts-screencasts-id.md)
 + [Persian / Farsi (Iran) / فارسى](casts/free-podcasts-screencasts-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](casts/free-podcasts-screencasts-pl.md)
 + [Portuguese (Brazil)](casts/free-podcasts-screencasts-pt_BR.md)
 + [Portuguese (Portugal)](casts/free-podcasts-screencasts-pt_PT.md)
 + [Russian / Русский язык](casts/free-podcasts-screencasts-ru.md)
++ [Sinhala / සිංහල](casts/free-podcasts-screencasts-si.md)
 + [Spanish / español / castellano](casts/free-podcasts-screencasts-es.md)
-+ [Swedish / Svenska](casts/free-podcasts-screencasts-se.md)
++ [Swedish / Svenska](casts/free-podcasts-screencasts-sv.md)
 + [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
 
 

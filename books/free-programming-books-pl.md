@@ -54,6 +54,7 @@
 ### Bash
 
 * [Kurs Bash'a](http://web.archive.org/web/20180129013729/http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
+* [Programowanie w Bashu czyli jak pisać skrypty w Linuksie](https://www.arturpyszczuk.pl/files/bash/bash.pdf) - Artur Pyszczuk (PDF)
 
 
 ### C
@@ -82,6 +83,7 @@
 * [C++](https://pl.wikibooks.org/wiki/C++) - Wikibooks
 * [Język C++ – podstawy programowania](http://www.dz5.pl/ti/cpp/zz_dodatki/kurs_cpp_szczegolowy2.pdf) - Paweł Mikołajczak (PDF)
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
+* [Kurs podstaw Arduino](https://forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290) - forbot.pl
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/) - Karol Kuczmarski
 
 
@@ -186,6 +188,7 @@
 
 ### SQL
 
+* [Kurs SQL](https://dbadmin.net.pl/category/sql/) - Łukasz Bartnicki, (HTML) (:construction: *in process*)
 * [Kurs SQL](https://www.sqlpedia.pl/kurs-sql) - Jakub Kasprzak
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

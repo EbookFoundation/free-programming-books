@@ -315,7 +315,6 @@
 * [Membuat Tabel Post Tampilan](https://youtu.be/sYTin40_Ukw) - Kawan Koding
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
 * [Tutorial Laravel Bahasa Indonesia](https://id-laravel.com) - ID Laravel
-Malas Ngoding
 * [Tutorial Laravel 7.x Dasar bahasa Indonesia](https://www.malasngoding.com/category/laravel/) - Malas Ngoding
 
 

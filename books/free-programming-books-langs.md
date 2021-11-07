@@ -797,7 +797,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
 * [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/)
 * [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)
-* [Git Tutorial](https://www.tutorialspoint.com/git/index.html) (HTML)
+* [Git Tutorial](https://www.tutorialspoint.com/git/) - Tutorials Point Ltd. (HTML)
 * [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
 * [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card_file_box: archived)*
 * [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan

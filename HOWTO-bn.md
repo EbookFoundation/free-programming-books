@@ -1,4 +1,4 @@
-অন্য ভাষায় এটা পড়ুন : [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md), [Deutsch](HOWTO-de.md), [Bahasa Indonesia](HOWTO-id.md), [Tiếng Việt](HOWTO-vi.md), [عربي](HOWTO-ar.md).
+অন্য ভাষায় এটা পড়ুন : [English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md), [Deutsch](HOWTO-de.md), [Bahasa Indonesia](HOWTO-id.md), [Tiếng Việt](HOWTO-vi.md), [عربي](HOWTO-ar.md), **বাংলা**.
 
 Free-Programming-Books রিপোজটরি তে স্বাগতম! আমরা নবাগত কন্ট্রিবিউটরস দের স্বাগতম জানাই; এমনকি যারা গিটহাবে এই প্রথম কোন "পুল রিকোয়েস্ট" তৈরি কয়েছেন। যদি আপনি তাদের একজন হয়ে থাকেন তাহলে নিচের রিসোর্স গুলো আপনার কাজে লাগতে পারেঃ
 

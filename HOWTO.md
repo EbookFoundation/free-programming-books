@@ -10,7 +10,7 @@ Welcome to Free-Programming-Books! We welcome new contributors; even those makin
 * [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 
-Don't hesitate to ask questions; every contributor started with a first PR. Join a team of [two thousand contributors!](https://contributor-graph-api.apiseven.com/contributors-svg?repo=EbookFoundation/free-programming-books) 
+Don't hesitate to ask questions; every contributor started with a first PR. So... why not join our [large, growing](https://contributor-graph-api.apiseven.com/contributors-svg?repo=EbookFoundation/free-programming-books) community.
 
 Even if you're an experienced open source contributor, there are things that might trip you up. Once you've submitted your PR, Travis-CI will run a linter, often finding little issues with spacing or alphabetization. If you get a green button, everything is ready for review, but if not, click on the travis link to find out what the linter didn't like. Fix the problem and add a commit to your PR.
 

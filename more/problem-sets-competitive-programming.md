@@ -12,6 +12,7 @@
 * [4Clojure](http://www.4clojure.com)
 * [A2 Online Judge](https://a2oj.com)
 * [AtCoder](https://atcoder.jp)
+* [beecrowd](https://www.beecrowd.com.br)
 * [Binary Search](https://binarysearch.com)
 * [Caribbean Online Judge](http://coj.uci.cu)
 * [COCI](https://hsin.hr/coci/)
@@ -45,7 +46,6 @@
 * [Techgig](https://www.techgig.com)
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
-* [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
 
 ### Capture the flag
@@ -85,6 +85,7 @@
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
 * [BaekJoon Online Judge](http://www.acmicpc.net)
+* [beecrowd](https://www.beecrowd.com.br)
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
 * [Codechef](https://www.codechef.com/problems/school)
@@ -92,7 +93,7 @@
 * [Codeforces](http://codeforces.com/problemset)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
-* [Coding Ninjas](https://www.codingninjas.com/codestudio/problems)
+* [Coding Interview Questions and answers for practice \| Python, Java & C++](https://www.codingninjas.com/codestudio/problems) - CodingNinjas
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)
@@ -117,6 +118,5 @@
 * [Sphere Online Judge](http://www.spoj.com/problems/classical)
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
 * [Timus Online Judge](http://acm.timus.ru)
-* [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Школа программиста](https://acmp.ru)

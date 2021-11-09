@@ -16,7 +16,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 1. "Un link per scaricare facilmente un libro" non è sempre un link per scaricare un libro *gratuito*. Per favore contribuisci solo con contenuti gratuiti. Assicurati che sia gratuito. Non accettiamo link a pagine che *richiedono* email funzionanti per ottenere il libro, ma diamo il benvenuto agli annunci che li richiedono.
 
 2. Non devi conoscere Git: se trovi qualcosa di interessante che che non è *ancora in questa repo*, apri un [Issue](https://github.com/EbookFoundation/free-programming-books/issues) con il link della risorsa.
-    - Se conosci Git, forka questa repository e crea una Pull Request.
+    - Se conosci Git, forka questa repository e crea una Pull Request (PR).
 
 3. Abbiamo 5 tipi di liste. Scegli quella giusta:
 
@@ -244,4 +244,4 @@ Se riesci a stamparlo e conservarne l'essenza, non è un tutorial interattivo.
     ```
 
 - È possibile specificare più di un file da controllare, utilizzando un singolo spazio per separare ogni voce.
-- Se specifichi più di un file, i risultati della build si basano sul risultato dell'ultimo file controllato. Dovresti essere consapevole che potresti ottenere il passaggio di build verdi a causa di ciò, quindi assicurati di ispezionare il registro di build alla fine della richiesta pull facendo clic su "Show all checks" -> "Details".
+- Se specifichi più di un file, i risultati della build si basano sul risultato dell'ultimo file controllato. Dovresti essere consapevole che potresti ottenere il passaggio di build verdi a causa di ciò, quindi assicurati di ispezionare il registro di build alla fine della Pull Request facendo clic su "Show all checks" -> "Details".

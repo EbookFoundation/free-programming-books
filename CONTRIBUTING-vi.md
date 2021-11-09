@@ -26,7 +26,7 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
 1. "Một liên kết để tải một cuốn sách" không có nghĩa nó là một cuốn sách *miễn phí*. Vui lòng chỉ đóng góp nội dung miễn phí. Đảm bảo rằng nó là miễn phí. Chúng tôi không chấp nhận các liên kết đến các trang có *yêu cầu bắt buộc* nhập địa chỉ email để nhận sách, nhưng chúng tôi hoan nghênh những danh sách yêu cầu chúng.
 
 2. Bạn không cần phải biết về Git: nếu bạn tìm được thứ gì đó thú vị *và chưa có trong kho lưu trữ này*, vui lòng mở một [Issue](https://github.com/EbookFoundation/free-programming-books/issues) với các đề xuất mà bạn muốn đóng góp.
-    - Nếu bạn biết Git, vui lòng Fork kho lưu trữ này và gửi pull requests.
+    - Nếu bạn biết Git, vui lòng Fork kho lưu trữ này và gửi Pull Requests (PR).
 
 3. Chúng tôi có 5 loại tài liệu, bạn có thể chọn một trong những cái dưới đây:
 
@@ -245,4 +245,4 @@ Nếu bạn có thể in nó ra và giữ lại bản chất của nó, thì đ�
     ```
 
 - Bạn có thể chỉ định nhiều tệp để kiểm tra, sử dụng một khoảng trắng duy nhất để tách từng mục nhập.
-- Nếu bạn chỉ định nhiều hơn một tệp, kết quả của việc xây dựng sẽ dựa trên kết quả của tệp cuối cùng được kiểm tra. Bạn nên biết rằng bạn có thể nhận được bản xây dựng thành công, vì vậy hãy đảm bảo kiểm tra log ở cuối pull request bằng cách nhấp vào "Show all checks" -> "Details".
+- Nếu bạn chỉ định nhiều hơn một tệp, kết quả của việc xây dựng sẽ dựa trên kết quả của tệp cuối cùng được kiểm tra. Bạn nên biết rằng bạn có thể nhận được bản xây dựng thành công, vì vậy hãy đảm bảo kiểm tra log ở cuối Pull Request bằng cách nhấp vào "Show all checks" -> "Details".

@@ -16,7 +16,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
 1. "Un lien pour télécharger facilement un livre" n'est pas toujours un lien vers un livre *gratuit*. Merci de ne contribuer qu'à du contenu gratuit. Assurez-vous que c'est gratuit. Nous n'acceptons pas les liens vers des pages qui *nécessitent* des adresses e-mail valides pour obtenir des livres, mais nous accueillons les annonces qui en font la demande.
 
 2. Vous n'êtes pas obligé de connaître Git : si vous avez trouvé quelque chose d'intéressant qui n'est *pas déjà dans ce repositoire*, veuillez ouvrir un [Problème](https://github.com/ElivreFoundation/free-programming-livres/issues) avec vos propositions de liens.
-    - Si vous savez Git, Forkez le repo et envoyez vos pull requests.
+    - Si vous savez Git, Forkez le repo et envoyez vos Pull Requests (PR).
 
 3. Nous avons 5 types de listes. Choisissez le bon:
 
@@ -235,4 +235,4 @@ Si vous pouvez l'imprimer et conserver son essence, ce n'est pas un didacticiel 
     ```
 
 - Vous pouvez spécifier plus d'un fichier à vérifier, en utilisant un seul espace pour séparer chaque entrée
-- Si vous spécifiez plus d'un fichier, les résultats de la construction sont basés sur le résultat du dernier fichier vérifié. Vous devez savoir que vous pouvez obtenir des versions vertes de réussite à cause de cela, alors assurez-vous d'inspecter le journal de construction à la fin de la demande d'extraction en cliquant sur "Show all checks" -> "Details".
+- Si vous spécifiez plus d'un fichier, les résultats de la construction sont basés sur le résultat du dernier fichier vérifié. Vous devez savoir que vous pouvez obtenir des versions vertes de réussite à cause de cela, alors assurez-vous d'inspecter le journal de construction à la fin de la Pull Request en cliquant sur "Show all checks" -> "Details".

@@ -16,7 +16,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free. We do not accept links to pages that *require* working email addresses to obtain books, but we welcome listings that request them.
 
 2. You don't have to know Git: if you found something of interest which is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
-    - If you know Git, please Fork the repo and send pull requests.
+    - If you know Git, please Fork the repo and send Pull Requests (PR).
 
 3. We have 5 kinds of lists. Choose the right one:
 
@@ -242,4 +242,4 @@ If you can print it out and retain its essence, it's not an Interactive Tutorial
     ```
 
 - You may specify more than one file to check, using a single space to separate each entry.
-- If you specify more than one file, results of the build are based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the pull request by clicking on "Show all checks" -> "Details".
+- If you specify more than one file, results of the build are based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the Pull Request by clicking on "Show all checks" -> "Details".

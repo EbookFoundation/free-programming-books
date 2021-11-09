@@ -37,7 +37,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repo
 <!----><a name="guidelines"></a>
 ### Pautas
 
-- Revise si el libro es gratuito. Hágalo las veces que sean necesarias. Ayude a los administradores comentando en las Pull Request por qué cree que el libro se ofrece gratis o es valioso.
+- Revise si el libro es gratuito. Hágalo las veces que sean necesarias. Ayude a los administradores comentando en las PR por qué cree que el libro se ofrece gratis o es valioso.
 - No se aceptan ficheros alojados en Google Drive, Dropbox, Mega, Scribd, Issuu u otras plataformas de almacenamiento y/o descarga similares.
 - Inserte los enlaces ordenados alfabéticamente. Si se encuentra por casualidad con un enlace fuera de sitio, por favor ordénelo y envíe la correspondiente PR para poder arreglarlo.
 - Use el enlace que apunte a la fuente más fidedigna. Esto es, el sitio web del autor es mejor que el del editor y éste a su vez mejor que uno de terceros.
@@ -259,7 +259,7 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
     ```
 
 - Es posible especificar más de un fichero a comprobar. Simplemente use un espacio para separar cada entrada.
-- Si especifica más de un archivo, los resultados obtenidos se basan en el estado del último archivo verificado. Debe tenerlo en cuenta ya que, debido a esto, puede obtener falsos positivos al finalizar el proceso. Así que tras el envío de la pull request asegúrese de inspeccionar el registro de compilación haciendo clic en "Show all checks" -> "Details".
+- Si especifica más de un archivo, los resultados obtenidos se basan en el estado del último archivo verificado. Debe tenerlo en cuenta ya que, debido a esto, puede obtener falsos positivos al finalizar el proceso. Así que tras el envío de la Pull Request asegúrese de inspeccionar el registro de compilación haciendo clic en "Show all checks" -> "Details".
 
 
 [license]: https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE

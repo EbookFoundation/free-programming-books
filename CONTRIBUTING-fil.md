@@ -244,4 +244,4 @@ Kung maaari mong i-print ito at panatilihin ang kakanyahan nito, hindi ito isang
     ```
 
 - Maaari kang tumukoy ng higit sa isang file na susuriin, gamit ang isang puwang upang paghiwalayin ang bawat entry.
-- Kung tumukoy ka ng higit sa isang file, ang mga resulta ng build ay batay sa resulta ng huling file na nasuri. Dapat mong malaman na maaari kang makapasa sa mga berdeng build dahil dito kaya siguraduhing suriin ang build log sa dulo ng pull request sa pamamagitan ng pag-click sa "Show all checks" -> "Details".
+- Kung tumukoy ka ng higit sa isang file, ang mga resulta ng build ay batay sa resulta ng huling file na nasuri. Dapat mong malaman na maaari kang makapasa sa mga berdeng build dahil dito kaya siguraduhing suriin ang build log sa dulo ng Pull Request sa pamamagitan ng pag-click sa "Show all checks" -> "Details".

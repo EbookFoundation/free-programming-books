@@ -16,7 +16,7 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://gith
 1. „Ein Link, um ein Buch auf einfache Weise herunterzuladen“ ist nicht immer ein Link zu einem *kostenlosen* Buch. Bitte füge nur kostenlose Inhalte hinzu. Vergewissere Dich, dass sie kostenlos sind. Wir akzeptieren keine Links zu Seiten, die *voraussetzen*, dass man sich mit einer funktionierenden E-Mail-Adresse registriert, um ein Buch herunterzuladen, aber wir heißen Seiten willkommen, die um (optionale) Eingaben von E-Mail-Adressen bitten.
 
 2. Du musst Dich nicht mit Git auskennen: Wenn Du etwas Interessantes gefunden hast, *das noch nicht in einer der Listen enthalten ist*, öffne bitte ein [Issue](https://github.com/EbookFoundation/free-programming-books/issues) mit Deinen Linkvorschlägen.
-    - Wenn Du Dich mit Git auskennst, erstelle einen Fork des Repositorys und sende einen Pull Request.
+    - Wenn Du Dich mit Git auskennst, erstelle einen Fork des Repositorys und sende einen Pull Request (PR).
 
 3. Wir führen 5 Arten von Listen. Achte darauf, die richtige zu wählen:
 

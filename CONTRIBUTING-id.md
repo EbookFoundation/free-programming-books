@@ -16,7 +16,7 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](https://githu
 1. "Tautan untuk mengunduh buku dengan mudah" tidak selalu merupakan tautan ke buku *gratis*. Harap hanya menambahkan konten gratis. Pastikan mereka gratis. Kami tidak menerima tautan ke situs yang *mengharuskan* Anda mendaftar dengan alamat email yang berfungsi untuk mengunduh buku, tetapi kami menyambut situs yang meminta alamat email.
 
 2. Anda tidak harus terbiasa dengan Git: Jika Anda telah menemukan sesuatu yang menarik *yang belum ada di salah satu daftar*, silakan buka [Masalah](https://github.com/EbookFoundation/free-programming-books/issues) dengan tautan yang Anda sarankan.
-    - Jika Anda sudah familiar dengan Git, fork repositori dan kirim pull request.
+    - Jika Anda sudah familiar dengan Git, fork repositori dan kirim Pull Request (PR).
 
 3. Kami menyimpan 5 jenis daftar. Pastikan untuk memilih yang tepat:
 

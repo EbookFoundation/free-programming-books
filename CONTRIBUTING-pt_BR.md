@@ -16,7 +16,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
 1. "Um _link_ para baixar um livro facilmente" nem sempre é um _link_ para um livro *gratuito*. Por favor contribua apenas com conteúdo gratuito. Certifique-se de que é grátis. Não são aceitos _links_ para páginas que *requerem* um endereço de email para obter livros, mas aceitamos listas que requerem.
 
 2. Não é necessário saber Git: se você encontrou algo interessante que *não está presente neste repositório*, por favor abra uma [Issue](https://github.com/EbookFoundation/free-programming-books/issues) com todas as propostas de _links_.
-    - Se você sabe Git, faça um _Fork_ do repositório e mande um _pull request_.
+    - Se você sabe Git, faça um _Fork_ do repositório e mande um _Pull Request (PR)_.
 
 3. Possuimos 5 tipos de listas. Escolha a mais adequada:
 
@@ -235,4 +235,4 @@ Se você pode capturar a tela ou imprimí-la e reter sua essência, então não 
     ```
 
 - Você pode especificar mais de um arquivo para checagem, usando um espaço simples para separar cada entrada.
-- Se você especificar mais de um arquivo, os resultados de _build_ serão baseados no resultado do último arquivo verificado. Você deve se atentar para o fato de que pode obter um _build_ com verde de sucesso devido a isso. Então, certifique-se de inspecionar o _build log_ ao final de cada _pull request_ clicando em "Show all checks" -> "Details".
+- Se você especificar mais de um arquivo, os resultados de _build_ serão baseados no resultado do último arquivo verificado. Você deve se atentar para o fato de que pode obter um _build_ com verde de sucesso devido a isso. Então, certifique-se de inspecionar o _build log_ ao final de cada _Pull Request_ clicando em "Show all checks" -> "Details".

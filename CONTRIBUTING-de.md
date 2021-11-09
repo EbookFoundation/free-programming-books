@@ -170,7 +170,7 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 ##### Plattformen und Zugriffshinweise
 
 - Kurse. Insbesondere bei unseren Kurslisten spielt die Plattform eine wichtige Rolle in der Beschreibung des Inhalts. Der Grund dafür ist, dass Kurs-Plattformen unterschiedliche Zugangsmodelle und Angebotscharakter haben. Obwohl wir keine Bücher aufnehmen, die eine Registrierung erfordern, können viele Kurs-Plattformen ohne irgendeine Art der Registrierung nicht funktionieren. Beispiele für Kurs-Plattformen sind Coursera, EdX, Udacity und Udemy. Wenn ein Kurs von einer bestimmten Plattform abhängt, sollte der Name der Plattform in Klammern angehängt werden.
-- YouTube. Wir haben viele Kurse in Form von YouTube Wiedergabelisten. Wir führen Youtube nicht als Plattform auf, sondern versuchen den Urheber des Kurses zu nennen, der oftmals eine Unter-Plattform darstellt.
+- YouTube. Wir haben viele Kurse in Form von YouTube Wiedergabelisten. Wir führen YouTube nicht als Plattform auf, sondern versuchen den Urheber des Kurses zu nennen, der oftmals eine Unter-Plattform darstellt.
 - YouTube Videos. Wir verlinken normalerweise keine einzelnen YouTube Videos. Ausnahmen bilden Videos von mehr als einer Stunde Länge, die wie ein Kurs oder Tutorial strukturiert sind.
 - Leanpub. Leanpub beherbergt Bücher mit einer Vielzahl von Zugangsmodellen. Manchmal kann ein Buch ohne Registrierung gelesen werden; in anderen Fällen wird ein Leanpub Konto für einen kostenfreien Zugang benötigt. Aufgrund der Qualität der Bücher und der unterschiedlichen und fließenden Zugangsmodelle erlauben wir die Aufnahme letzterer, wenn sie mit dem Zugriffshinweis *(Leanpub Konto oder gültige E-Mail angefordert)* versehen sind.
 

@@ -177,7 +177,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 ##### Platforms and Access Notes
 
 - Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
-- YouTube. We have many courses which consist of YouTube playlists. We do not list Youtube as a platform, we try to list the Youtube creator, which is often a sub-platform.
+- YouTube. We have many courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
 - YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
 - Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note *(Leanpub account or valid email requested)*
 

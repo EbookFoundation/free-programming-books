@@ -170,8 +170,8 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 ##### Plateformes et notes d'accès
 
 - Cours. Surtout pour nos listes de cours, la plateforme est une partie importante de la description de la ressource. En effet, les plates-formes de cours ont des options et des modèles d'accès différents. Bien que nous ne répertoriions généralement pas un livre nécessitant une inscription, de nombreuses plateformes de cours ont des options qui ne fonctionnent pas sans une sorte de compte. Des exemples de plates-formes de cours incluent Coursera, EdX, Udacity et Udemy. Lorsqu'un cours dépend d'une plateforme, le nom de la plate-forme doit être indiqué entre parenthèses.
-- Youtube. Nous avons de nombreux cours qui se composent de listes de lecture YouTube. Nous ne répertorions pas Youtube comme plateforme, nous essayons de répertorier le créateur Youtube, qui est souvent une sous-plateforme.
-- Vidéos youtube. Nous ne créons généralement pas de liens vers des vidéos YouTube individuelles, sauf si elles durent plus d'une heure et sont structurées comme un cours ou un didacticiel.
+- YouTube. Nous avons de nombreux cours qui se composent de listes de lecture YouTube. Nous ne répertorions pas YouTube comme plateforme, nous essayons de répertorier le créateur YouTube, qui est souvent une sous-plateforme.
+- Vidéos YouTube. Nous ne créons généralement pas de liens vers des vidéos YouTube individuelles, sauf si elles durent plus d'une heure et sont structurées comme un cours ou un didacticiel.
 - Leanpub. Leanpub héberge des livres avec une variété de modèles d'accès. Parfois, un livre peut être lu sans inscription ; parfois un livre nécessite un compte Leanpub pour un accès gratuit. Compte tenu de la qualité des livres et du mélange et de la fluidité des modèles d'accès Leanpub, nous autorisons l'inscription de ces derniers avec la note d'accès *(compte Leanpub ou email valide demandé)*
 
 

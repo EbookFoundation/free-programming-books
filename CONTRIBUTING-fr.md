@@ -22,13 +22,13 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
 
     - *Livres* : PDF, HTML, ePub, un site basé sur gitlivre.io, un repositoire Git, etc.
     - *Cours* : Un cours est un matériel d'apprentissage qui n'est pas un livre. [Ceci est un cours](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Tutoriels interactifs* : Un site Web interactif qui permet à l'utilisateur de saisir du code ou des commandes et d'évaluer le résultat (par "évaluer" nous ne voulons pas dire "noter"). par exemple : [Essayez Haskell](http://tryhaskell.org), [Essayez Github](http://try.github.io).
+    - *Tutoriels interactifs* : Un site Web interactif qui permet à l'utilisateur de saisir du code ou des commandes et d'évaluer le résultat (par "évaluer" nous ne voulons pas dire "noter"). par exemple : [Essayez Haskell](http://tryhaskell.org), [Essayez GitHub](http://try.github.io).
     - *Podcasts et Screencasts* : Podcasts et screencasts.
     - *Ensembles de Problèmes et Programmation Compétitive* : Un site Web ou un logiciel qui vous permet d'évaluer vos compétences en programmation en résolvant des problèmes simples ou complexes, avec ou sans revue de code, avec ou sans comparaison des résultats avec d'autres utilisateurs.
 
 4. Assurez-vous de suivre les [directives ci-dessous](#directrices) et de respecter [la format Markdown](#formatage) des fichers.
 
-5. Github Actions exécutera des tests pour s'assurer que vos listes sont classées par ordre alphabétique et que les règles de formatage sont respectées. Assurez-vous de vérifier que vos modifications passent les tests.
+5. GitHub Actions exécutera des tests pour s'assurer que vos listes sont classées par ordre alphabétique et que les règles de formatage sont respectées. Assurez-vous de vérifier que vos modifications passent les tests.
 
 
 ### Directrices
@@ -226,7 +226,7 @@ Si vous pouvez l'imprimer et conserver son essence, ce n'est pas un didacticiel 
 
 ### Automatisation
 
-- L'application des règles de formatage est automatisée via [Github Actions](https://docs.github.com/en/actions) en utilisant [fpb-lint](https://github.com/vhf/free-programming-livres-lint) (voir [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
+- L'application des règles de formatage est automatisée via [GitHub Actions](https://docs.github.com/en/actions) en utilisant [fpb-lint](https://github.com/vhf/free-programming-livres-lint) (voir [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
 - La validation d'URL utilise [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Pour déclencher la validation d'URL, poussez un commit qui inclut un message de commit contenant `check_urls=file_to_check` :
 

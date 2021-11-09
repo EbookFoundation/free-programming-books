@@ -22,7 +22,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 
     - *Mga libro* : PDF, HTML, ePub, isang site na nakabatay sa gitbook.io, a Git repo, etc.
     - *Kurso* : Ang kurso ay isang materyal sa pag-aaral na hindi isang libro. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Mga Interactive na Tutorial* : Isang interactive na website na nagbibigay-daan sa user na mag-type ng code o command at suriin ang resulta (sa pamamagitan ng "suriin" hindi namin ibig sabihin ay "grado"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
+    - *Mga Interactive na Tutorial* : Isang interactive na website na nagbibigay-daan sa user na mag-type ng code o command at suriin ang resulta (sa pamamagitan ng "suriin" hindi namin ibig sabihin ay "grado"). e.g.: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
     - *Mga Podcast at Screencast* : Mga podcast at screencast.
     - *Mga Set ng Problema at Kompetisyon sa Programming* : Isang website o software na nagbibigay-daan sa iyong tasahin ang iyong mga kasanayan sa programming sa pamamagitan ng paglutas ng mga simple o kumplikadong problema, mayroon man o walang code review, mayroon man o walang paghahambing ng mga resulta sa ibang mga user.
 

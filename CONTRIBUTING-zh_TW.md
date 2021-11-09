@@ -22,13 +22,13 @@
 
     * *Books* ：PDF、HTML、ePub、基於 gitbook.io 的網站、Git 的 repo 等。
     * *Courses* ：課程是一種學習素材，而不是一本書 [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
-    * *Interactive Tutorials* ：一個互動式網站，允許用戶輸入程式碼或指令並執行結果。例如：[Try Haskell](http://tryhaskell.org)，[Try Github](http://try.github.io)。
+    * *Interactive Tutorials* ：一個互動式網站，允許用戶輸入程式碼或指令並執行結果。例如：[Try Haskell](http://tryhaskell.org)，[Try GitHub](http://try.github.io)。
     * *Podcasts and Screencasts* ：Podcast 和影音。
     * *Problem Sets & Competitive Programming* ：一個網站或軟體，讓你透過解決簡單或複雜的問題來評估你的程式技能，可能有程式碼檢查，或與其他用戶比對结果。
 
 4. 確保遵循下方的 [基本準則](#基本準則)，並遵循此 repo 文件的 [Markdown 規定格式](#規定格式)。
 
-5. Github Actions 將運行測試，以確保你的列表是 **按字母顺序排列** 的，並 **遵循格式化規則**。請 **確保** 你的更改通過該測試。
+5. GitHub Actions 將運行測試，以確保你的列表是 **按字母顺序排列** 的，並 **遵循格式化規則**。請 **確保** 你的更改通過該測試。
 
 
 ### 基本準則
@@ -152,7 +152,7 @@
 
 ### 自動化測試
 
-- 規定格式驗證是由 [Github Actions](https://docs.github.com/en/actions) 自動化進行，使用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) 套件 (參閱 [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))。
+- 規定格式驗證是由 [GitHub Actions](https://docs.github.com/en/actions) 自動化進行，使用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) 套件 (參閱 [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))。
 - 使用 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 進行連結驗證。
 - 可以藉由提交一個內容包含`check_urls=file_to_check`來觸發連結驗證:
 

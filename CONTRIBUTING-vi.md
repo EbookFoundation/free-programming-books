@@ -32,13 +32,13 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
 
     - *Sách* : PDF, HTML, ePub, một trang web dựa trên gitbook.io, một kho lưu trữ Git, v.v.
     - *Khóa Học* : Một khóa học là một tài liệu học tập, không phải là sách. [Đây là một khóa học](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Hướng Dẫn Trực Quan* : Một trang web cho phép người dùng lập trình hoặc chạy chương trình dựa trên kết quả và đánh giá. Ví dụ: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
+    - *Hướng Dẫn Trực Quan* : Một trang web cho phép người dùng lập trình hoặc chạy chương trình dựa trên kết quả và đánh giá. Ví dụ: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
     - *Podcasts và Screencasts* : Podcasts và screencasts.
     - *Bài Tập & Cuộc Thi Lập Trình* : Trang web hoặc phần mềm cho phép bạn đánh giá kỹ năng lập trình của mình bằng cách giải quyết các vấn đề đơn giản hoặc phức tạp, có hoặc không có đánh giá mã nguồn, có hoặc không so sánh kết quả với những người khác.
 
 4. Đảm bảo tuân thủ theo [những nguyên tắc bên dưới](#Những Nguyên Tắc) và đảm bảo sử dụng đúng [định dạng Markdown](#Định Dạng).
 
-5. Github Actions sẽ chạy các test để đảm bảo danh sách của bạn được sắp xếp theo thứ tự bảng chữ cái và các nguyên tắc định dạng được tuân thủ. Kiểm tra để đảm bảo các thay đổi của bạn có vượt qua các bài test.
+5. GitHub Actions sẽ chạy các test để đảm bảo danh sách của bạn được sắp xếp theo thứ tự bảng chữ cái và các nguyên tắc định dạng được tuân thủ. Kiểm tra để đảm bảo các thay đổi của bạn có vượt qua các bài test.
 
 
 ### Những Nguyên Tắc
@@ -236,7 +236,7 @@ Nếu bạn có thể in nó ra và giữ lại bản chất của nó, thì đ�
 
 ### Tự động hóa
 
-- Việc thực thi nguyên tắc định dạng được tự động hóa qua [Github Actions](https://docs.github.com/en/actions) sử dụng [fpb-lint](https://github.com/vhf/free-programming-books-lint) (xem file [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
+- Việc thực thi nguyên tắc định dạng được tự động hóa qua [GitHub Actions](https://docs.github.com/en/actions) sử dụng [fpb-lint](https://github.com/vhf/free-programming-books-lint) (xem file [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
 - Sử dụng xác thực liên kết [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Để kích hoạt xác thực liên kết, hãy push một commit bao gồm một commit message chứa `check_urls=file_to_check`:
 

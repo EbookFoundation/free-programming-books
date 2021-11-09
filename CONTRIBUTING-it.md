@@ -22,7 +22,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
 
     - *Libri* : PDF, HTML, ePub, gitbook.io, una Git repo, etc.
     - *Corsi* : Un corso è del materiale gratuito che non è un libro. [Questo è un corso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Tutorial Interattivi* : Un sito interattivo permette all'utente di scrivere codice o comandi e analizzarne il risultato. esempi: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
+    - *Tutorial Interattivi* : Un sito interattivo permette all'utente di scrivere codice o comandi e analizzarne il risultato. esempi: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
     - *Podcasts e Screencasts* : Podcasts and screencasts.
     - *Set di problemi & Programmazione competitiva* : Un sito o software che ti permette di valutare le tue skills da programmatore risolvendo problemi semplici o complessi, con o senza la revisione del codice, con o senza la comparazione del risultato con gli altri utenti.
 

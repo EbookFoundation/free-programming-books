@@ -22,7 +22,7 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](https://githu
 
     - *Buku*: PDF, HTML, ePub, halaman berdasarkan gitbook.io, repo Git, dll.
     - *Kursus*: Kursus menggambarkan materi pembelajaran yang tidak ada dalam bentuk buku. [Ini adalah kursus](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Tutorial interaktif*: Situs web interaktif yang memungkinkan pengguna memasukkan kode sumber atau perintah dan mengevaluasi hasilnya (dengan "mengevaluasi" kami tidak bermaksud "mengevaluasi"). misalnya: [Coba Haskell](http://tryhaskell.org), [Coba Github](http://try.github.io).
+    - *Tutorial interaktif*: Situs web interaktif yang memungkinkan pengguna memasukkan kode sumber atau perintah dan mengevaluasi hasilnya (dengan "mengevaluasi" kami tidak bermaksud "mengevaluasi"). misalnya: [Coba Haskell](http://tryhaskell.org), [Coba GitHub](http://try.github.io).
     - *Podcast dan Screencasts*: Podcast dan Screencasts.
     - *Kumpulan Masalah & Pemrograman Kompetitif*: Situs web atau perangkat lunak yang memberi Anda kesempatan untuk menguji keterampilan pemrograman Anda dengan memecahkan masalah sederhana atau kompleks, dengan atau tanpa tinjauan kode dan dengan atau tanpa membandingkan kinerja dengan orang lain Pengunjung situs .
 

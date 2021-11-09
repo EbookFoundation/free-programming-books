@@ -22,7 +22,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 
     - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
     - *Courses* : A course is a learning material which is not a book. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Interactive Tutorials* : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
+    - *Interactive Tutorials* : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
     - *Podcasts and Screencasts* : Podcasts and screencasts.
     - *Problem Sets & Competitive Programming* : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
 

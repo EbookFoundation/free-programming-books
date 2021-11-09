@@ -22,7 +22,7 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://gith
 
     - *Bücher*: PDF, HTML, ePub, eine auf gitbook.io basierende Seite, ein Git Repo etc.
     - *Kurse*: Ein Kurs beschreibt Lernmaterialien, die nicht in Buchform existieren. [Dies ist ein Kurs](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Interaktive Tutorials*: Eine interaktive Webseite, die den Benutzer Sourcecode oder Kommandos eingeben lässt und das Resultat auswertet (mit "auswerten" meinen wir nicht "bewerten"). z.&nbsp;B.: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
+    - *Interaktive Tutorials*: Eine interaktive Webseite, die den Benutzer Sourcecode oder Kommandos eingeben lässt und das Resultat auswertet (mit "auswerten" meinen wir nicht "bewerten"). z.&nbsp;B.: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
     - *Podcasts und Screencasts*: Podcasts und Screencasts.
     - *Problem Sets & Competitive Programming*: Eine Webseite oder Software, die Dir die Möglichkeit gibt, Deine Programmierfähigkeiten durch die Lösung einfacher oder komplexer Problemstellungen auf die Probe zu stellen, mit oder ohne Code Review und mit oder ohne den Vergleich der Leistungen mit anderen Besuchern der Seite.
 

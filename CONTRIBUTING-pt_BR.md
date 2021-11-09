@@ -22,7 +22,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
 
     - *Livros*: PDF, HTML, ePub, sites baseados no gitbook.io, um repositório Git, etc.
     - *Cursos*: Um curso é um material didático que não é um livro. [Isso é um curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Tutoriais Interativos*: Um site interativo que permite ao usuário digitar código ou comandos e computa o resulta (por "computar" não queremos dizer "avaliar"). Por exemplo: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
+    - *Tutoriais Interativos*: Um site interativo que permite ao usuário digitar código ou comandos e computa o resulta (por "computar" não queremos dizer "avaliar"). Por exemplo: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
     - *Podcasts e Screencasts* : Podcasts e screencasts.
     - *Conjuntos de Problemas e Programação Competitiva* : Um site ou software que permite avaliar suas habilidades de programação através da resolução de problemas simples ou complexos, com ou sem revisão de código, com ou sem comparação de resultados com outros usuários.
 

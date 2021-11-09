@@ -51,6 +51,7 @@
 * [Matlab](#matlab)
 * [Misc](#misc)
 * [.NET](#net)
+* [Objective-C](#objective-c)
 * [OCaml](#ocaml)
 * [Perl](#perl)
 * [Pharo](#pharo)
@@ -737,6 +738,11 @@
 ### .NET
 
 * [Learn how to program: .NET](https://www.learnhowtoprogram.com/net) - Epicodus Inc.
+
+
+### Objective-C
+
+* [Objective-C for Swift Developers](https://www.udacity.com/course/objective-c-for-swift-developers--ud1009) - Gabrielle Miller-Messner (Udacity)
 
 
 ### OCaml

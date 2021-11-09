@@ -1,4 +1,4 @@
-*阅读本文的其他语言版本：[English](CONTRIBUTING.md)、[繁體中文](CONTRIBUTING-zh-TW.md)。*
+*阅读本文的其他语言版本：[Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
 
 
 ## 贡献者许可协议
@@ -26,13 +26,13 @@
 
 4. 确保遵循下面的[基本准则](#基本准则)，并遵循本仓库文件的[Markdown规定格式](#规定格式)。
 
-5. Travis CI 将运行测试，以确保你的列表是 **按字母顺序排列** 的，并 **遵循格式化规则**。请 **确保** 你的更改通过了该测试。
+5. Github Actions 将运行测试，以确保你的列表是 **按字母顺序排列** 的，并 **遵循格式化规则**。请 **确保** 你的更改通过了该测试。
 
 
 ### 基本准则
 
 * 确保你提交的每一本书都是免费的。如有需要请做Double-check。如果你在PR中注明为什么你认为这本书是免费的，这将对管理员是很有帮助的。
-* 我们不接受存储在google drive、dropbox、mega、scribd、issuu和其他类似文件上传平台上的文件。
+* 我们不接受存储在Google Drive、Dropbox、Mega、Scribd、Issuu和其他类似文件上传平台上的文件。
 * 请按照字母顺序插入链接。如果你看到一个错位的链接，请重新对他进行排序并提交一个PR。
 * 使用最权威来源的链接(意思是原作者的网站比编辑的网站好，比第三方网站好)。
     * 没有文件托管服务(包括(但不限于)Dropbox和谷歌驱动器链接)。
@@ -63,7 +63,7 @@
 * Sections(章节/段落)使用3级标题(`###`)，subsections(子段落/子章节)使用4级标题 (`####`)。
 
 
-#### 整体思想为：   
+#### 整体思想为：
 
 * `2` ：新添加的Section与末尾链接间必须留有`2`个空行
 * `1` ：标题和第一个链接之间必须留有`1`个空行的空行
@@ -71,7 +71,7 @@
 * `1` ：每个`.md`文件末尾必须留有`1`个空行
 
 
-#### 举例：   
+#### 举例：
 
 ```
 [...]

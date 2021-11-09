@@ -37,9 +37,9 @@
 
 ### JavaScript
 
+* [جاوااسکریپت شیوا](http://eloquentjs.ir) - مارین هاوربک, مهران عفتی (HTML)
 * [ریکت جی اس](https://github.com/reactjs/fa.reactjs.org)
 * [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
-* مارین هاوربک, مترجم: مهران عفتی - [جاوااسکریپت شیوا](http://eloquentjs.ir) (HTML)
 
 
 ### LaTeX

@@ -271,7 +271,7 @@
 
 * [Руководство по JUnit](http://proselyte.net/tutorials/junit) - Евгений Сулейманов
 * [JUnit 4](https://easyjava.ru/testirovanie/junit-2/)
-* [JUnit Учебник](https://coderlessons.com/tutorials/java-tekhnologii/vyuchit-junit/junit-uchebnik) - CoderLessons.com
+* [JUnit Учебник](https://coderlessons.com/tutorials/java-tekhnologii/vyuchit-junit/junit-uchebnik) - CoderLessons
 
 
 #### Maven

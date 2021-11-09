@@ -710,7 +710,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [How to Write Unmaintainable Code](http://mindprod.com/jgloss/unmain.html)
 * [Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook)
 * [Kanban for skeptics](https://leanpub.com/kanbanforskeptics) - Nick Oostvogels  *(Leanpub account or valid email requested)*
-* [Microservices AntiPatterns and Pitfalls](https://www.oreilly.com/content/microservices-antipatterns-and-pitfalls/) - Mark Richards (HTML)
+* [Microservices AntiPatterns and Pitfalls](http://web.archive.org/web/20210205164251/https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) - Mark Richards (PDF) *(:card_file_box: archived)*
 * [Microservices vs. Service-Oriented Architecture](https://web.archive.org/web/20201112010849/https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf) - Mark Richards (PDF) *(:card_file_box: archived)*
 * [Migrating to Cloud-Native Application Architectures](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data/) (email address *requested*) (PDF)
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)

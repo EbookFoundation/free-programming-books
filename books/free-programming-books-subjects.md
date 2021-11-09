@@ -240,6 +240,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
 * [Introduction to Data Science](https://leanpub.com/datasciencebook) - Rafael A Irizarry *(Leanpub account or valid email requested)*
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman (PDF)
+* [School of Data Handbook](http://schoolofdata.org/handbook/)
 * [Statistical inference for data science](https://leanpub.com/LittleInferenceBook/read) - Brian Caffo
 * [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)

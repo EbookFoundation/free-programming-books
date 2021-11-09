@@ -107,7 +107,7 @@
 
 ### MySQL
 
-* [3 Days With Mysql For Your Application: Mysql Untuk Pemula](https://play.google.com/store/books/details/Onesinus_Saut_Parulian_3_Days_With_Mysql_For_Your?id=MbdTDwAAQBAJ) - Onesinus Saut Parulian *(Membutuhkan akun Google atau email yang valid)*
+* [3 Days With Mysql For Your Application: Mysql Untuk Pemula](https://play.google.com/store/books/details/Onesinus_Saut_Parulian_3_Days_With_Mysql_For_Your?id=MbdTDwAAQBAJ) - Onesinus Saut Parulian *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Tutorial MySQL untuk Pemula Hingga Mahir](https://umardanny.com/tutorial-mysql-untuk-pemula-hingga-mahir-ebook-download-pdf/)
 
 
@@ -115,7 +115,7 @@
 
 * [Belajar Dengan Jenius Amazon Web Service & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/releases/download/1.2/Belajar.Dengan.Jenius.Javascript.Node.pdf) - Gun Gun Febrianza (PDF)
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
-* [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua, Google Play Books (*account required*)
+* [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua *(Membutuhkan akun Google Play Books atau email yang valid)*
 
 
 ### NoSQL
@@ -151,7 +151,7 @@
 
 * [Belajar Python](http://www.belajarpython.com)
 * [Dasar Pemrograman Python](https://www.pythonindo.com/tutorial-python-dasar/)
-* [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan, Google Play Books *(Membutuhkan akun Google atau email yang valid)*
+* [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) - (PDF)
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)

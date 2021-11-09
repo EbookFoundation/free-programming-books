@@ -1,4 +1,4 @@
-*Διαβάστε το σε διαφορετικές γλώσσες: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), **ελληνικά**, [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*Διαβάστε το σε διαφορετικές γλώσσες: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), **ελληνικά**, [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-ko.md).*
 
 
 <a name="contributor-license-agreement"></a>

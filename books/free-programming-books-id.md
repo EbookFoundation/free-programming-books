@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
@@ -29,6 +30,11 @@
 
 * [Android Developers Fundamental Course Concepts and Practicals (Bahasa Indonesia)](https://yukcoding.id/download-ebook-android-gratis/)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
+
+
+### C
+
+* [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian (:construction: *in process*)
 
 
 ### C Sharp

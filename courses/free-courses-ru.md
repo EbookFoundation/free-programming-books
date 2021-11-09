@@ -155,7 +155,7 @@ ADV - Продвинутый. Тонкости.
 * [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG)
 * [Python для начинающих](https://ru.code-basics.com/languages/python) (BEG)
 * [Python: основы и применение](https://stepik.org/course/512) - Stepik (INT)
-* [Питонтьютор: Бесплатный курс по программированию с нуля](https://pythontutor.ru/) - Pythontutor (BEG)
+* [Питонтьютор: Бесплатный курс по программированию с нуля](https://pythontutor.ru) - Виталий Павленко, Владимир Соломатин, Д. П. Кириенко, команда Pythontutor (BEG)
 
 
 ### R

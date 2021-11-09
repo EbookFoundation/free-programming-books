@@ -51,6 +51,7 @@
 * [Matlab](#matlab)
 * [Misc](#misc)
 * [.NET](#net)
+* [Objective-C](#objective-c)
 * [OCaml](#ocaml)
 * [Perl](#perl)
 * [Pharo](#pharo)
@@ -113,7 +114,7 @@
 * [MIT's Design and Analysis of Algorithms (Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012) - Dana Moshkovitz, Bruce Tidor
 * [MIT's Design and Analysis of Algorithms (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015) - Erik Demaine, Srini Devadas, Nancy Lynch
 * [MIT's Introduction to Algorithms (SMA 5503) (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005) - Charles Leiserson, Erik Demaine
-* [Online Java + DSA + Interview preparation course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunnal Kushwaha
+* [Online Java + DSA + Interview preparation course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 * [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
@@ -177,6 +178,7 @@
 ### AutoIt
 
 * [AutoIt Scripting Tutorial](https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z) - TutsTeach (YouTube)
+* [AutoIt Tutorials](https://www.youtube.com/playlist?list=PL1DCD109B801D0DE6) - 403forbidden403 (YouTube)
 
 
 ### Bash / Shell
@@ -208,6 +210,7 @@
 * [Introduction to Bootstrap - A Tutorial](https://www.classcentral.com/course/edx-introduction-to-bootstrap-a-tutorial-3338) - Microsoft via edX (Class Central)
 * [Learn Bootstrap 4 for free](https://scrimba.com/learn/bootstrap4) - Neil Rowe (Scrimba)
 * [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
+* [Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course](https://www.youtube.com/watch?v=iJKCj8uAHz8) - Patrick Muriungi, freeCodeCamp (YouTube)
 * [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
 
 
@@ -223,8 +226,10 @@
 ### C Sharp
 
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
+* [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (YouTube)
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
-* [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
+* [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani, Programming with Mosh (YouTube)
+* [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
 
 
 <h3 id="cpp">C++</h3>
@@ -246,11 +251,13 @@
 
 ### Cloud Computing
 
+* [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
 * [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
 
 
 ### Compilers
 
+* [Compilers](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i) - Ghassan Shobaki (YouTube)
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
 
 
@@ -262,7 +269,7 @@
 ### Dart
 
 * [Dart Course for Beginners](https://www.udemy.com/course/dartlang) (Udemy)
-* [Dart Programming - Full Beginners Tutorial](https://www.youtube.com/watch?v=5xlVP04905w) - Mike Dane
+* [Dart Programming in 4 hours \| Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w) - Mike Dane (Youtube)
 * [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) - Mahmud Ahsan (FreeCodeCamp)
 * [Dart Programming Tutorial \| Learn the Dart for Flutter](https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter) (Udemy)
 
@@ -271,9 +278,11 @@
 
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
 * [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) - Georgia Tech (Udacity)
+* [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) (Jovian)
 * [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Facebook (Udacity)
 * [Data Cleaning by Rachael Tatman at Kaggle](https://www.kaggle.com/learn/data-cleaning)
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
+* [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft 
 * [Data Science interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-) - Krish Naik
 * [Data Visualization by Alexis Cook at Kaggle](https://www.kaggle.com/learn/data-visualization)
 * [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher
@@ -319,6 +328,7 @@
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (coursera)
 * [Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa) - Aakash N. S., freeCodeCamp.org (YouTube)
+* [Deep Learning with Pytorch: Zero tp GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) (Jovian)
 * [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu) - Chelsea Finn (Stanford University)
 * [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) - Sergey Levine
 * [Exploring Fairness in Machine Learning for International Development](https://ocw.mit.edu/resources/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020) - Dr. Richard Fletcher, Prof. Daniel Frey, Dr. Mike Teodorescu, Amit Gandhi, Audace Nakeshimana (MIT OpenCourseWare)
@@ -383,8 +393,9 @@
 * [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (The Net Ninja)
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 * [GIT for beginners](https://www.eduonix.com/git-for-beginners) - Maksym Rudnyi (Eduonix Learning Solutions) *(account or email address required)*
+* [Git How To](https://githowto.com) - Alexander Shvets
 * [Git Tutorial - Learn Command-line Git & GitHub](https://www.youtube.com/playlist?list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN) - LearnWebCode (YouTube)
-* [GitHowTo](https://githowto.com)
+* [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - Moshfegh Hamedani, Programming with Mosh (YouTube)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Atlassian
@@ -454,6 +465,7 @@
 * [CS50 2019 - iOS Track](https://www.youtube.com/playlist?list=PLhQjrBD2T3810ZX79Xrgj8X382QaWbk_J) - David J. Malan (Harvard OpenCourseWare)
 * [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
+* [SwiftUI Tutorials](https://www.youtube.com/playlist?list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z) - Sean Allen
 * [The Complete Swift iOS Developer - Create Real Apps in Swift](https://www.udemy.com/course/the-complete-ios-10-developer-course/) - Grant Klimaytys (Udemy)
 
 
@@ -563,6 +575,7 @@
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
 * [Node.js Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) - The Net Ninja
+* [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4) - Moshfegh Hamedani, Programming with Mosh (YouTube)
 
 
 #### React
@@ -663,6 +676,7 @@
 * [Machine Learning Tutorial Python \| Machine Learning For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) - Dhaval Patel
 * [Machine Learning with Python - Youtube Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe) - Krish Naik (YouTube)
 * [Machine Learning with Python by Saeed Aghabozorgi](https://cognitiveclass.ai/courses/machine-learning-with-python) (cognitiveclass.ai)
+* [Machine Learning with Python: Zero to GBMs](https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms) (Jovian)
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Mathematics for Machine Learning - Multivariate Calclus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
@@ -681,6 +695,7 @@
 * [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) (coursera)
 * [Introduction to Matlab in English](https://www.youtube.com/playlist?list=PLGED90Y_uL1KLpdRmVtwfpNoYCWU9RPkK) -Mohammed Mohammed
 * [MATLAB and Simulink Training](https://matlabacademy.mathworks.com)
+* [MATLAB Programming for Numerical Computation NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN) - Niket Kaisare NPTEL (YouTube)
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
 
 
@@ -725,6 +740,11 @@
 * [Learn how to program: .NET](https://www.learnhowtoprogram.com/net) - Epicodus Inc.
 
 
+### Objective-C
+
+* [Objective-C for Swift Developers](https://www.udacity.com/course/objective-c-for-swift-developers--ud1009) - Gabrielle Miller-Messner (Udacity)
+
+
 ### OCaml
 
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
@@ -746,12 +766,17 @@
 * [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape  (2019)
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
 * [Learn Top Ten Frameworks In PHP By Building Projects](https://www.eduonix.com/courses/Web-Development/learn-top-ten-frameworks-in-php-by-building-projects) - Eduonix Learning Solutions *(account or email address required)*
+* [Object-Oriented PHP For Beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV) - Dary Nazar (Code with Dary)
+* [Object Oriented PHP Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy) - Shaun Pelling (The Net Ninja)
+* [PHP (\& MySQL) Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o) - Shaun Pelling (The Net Ninja)
 * [PHP & MySQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b) - The Bad Tutorials (2015)
 * [PHP Courses for Beginner](https://www.learn-php.org) - Learn-PHP.org
+* [PHP for beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk_fFEWydZJLiXpc9nB1qfpi) - Dary Nazar (Code with Dary)
 * [PHP OOP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) - Dani Krossing
 * [PHP Programming Language Tutorial - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c) - freeCodeCamp.org (2018)
 * [PHP Tutorial](https://www.tutorialrepublic.com/php-tutorial/) - TutorialRepublic
 * [PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) - Dani Krossing
+* [Use PHP to Create an MVC Framework - Full Course](https://www.youtube.com/watch?v=6ERdu4k62wI) - Zura Sekhniashvili (freeCodeCamp.org)
 
 
 ### PLC - Programmable logic controllers
@@ -820,6 +845,7 @@
 
 #### Django
 
+* [Django 3.0 Crash Course Tutorials \| Customer Management App](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO) - Dennis Ivy
 * [Django for Everybody](https://www.dj4e.com) - Charles R. Severence
 * [Django Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau) - Navin Reddy
 * [Django Tutorial for Beginners (2021)](https://www.youtube.com/watch?v=rHux0gMZ3Eg) - Programming with Mosh (YouTube)
@@ -827,6 +853,7 @@
 * [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr) - Programming With Harry(English)
 * [Python Django Tutorial 2018 for Beginners](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD) - Clever Programmer
 * [Python Django Tutorial 2021](https://www.youtube.com/playlist?list=PL-51WBLyFTg1pUMaTJ4WSgnyvWfLGmwDm) - Dennis Ivy
+* [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) - Justin Mitchel, CodingEntrepreneurs
 
 
 #### Flask
@@ -896,6 +923,7 @@
 * [Data Structures and Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011) - Udacity
 * [How To Make An App For Beginners (iOS/Swift - 2019)](https://www.udemy.com/how-to-make-an-app-for-beginners-iosswift-2019/) - Chris Ching (Udemy)
 * [Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX) - CodeWithChris
+* [Swift 5 for Beginners](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW) - iOS Academy
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
 
 
@@ -957,6 +985,8 @@
 * [Frontend UI Development with React](https://www.youtube.com/playlist?list=PL0vfts4VzfNgUUEtEjxDVfh4iocVR3qIb) - Jeff Delaney, Fireship.io (YouTube)
 * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - by AWS on Udacity
 * [Full stack open](https://fullstackopen.com/en/) - University of Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
+* [Introduction to Professional Web Development in JavaScript](https://education.launchcode.org/intro-to-professional-web-dev/) - Chris Bay, Jim Flores, Blake Mills, Sally Steuterman, Paul Matthews, Carly Langlois (The LaunchCode Foundation)
+* [Java Web Development](https://education.launchcode.org/java-web-development/) - Chris Bay, Jim Flores, Carly Langlois, Sally Steuterman (The LaunchCode Foundation)
 * [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) - Mozilla Contributors
 * [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)

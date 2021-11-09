@@ -93,7 +93,7 @@
 * [Codeforces](http://codeforces.com/problemset)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
-* [Coding Ninjas](https://www.codingninjas.com/codestudio/problems)
+* [Coding Interview Questions and answers for practice \| Python, Java & C++](https://www.codingninjas.com/codestudio/problems) - CodingNinjas
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)

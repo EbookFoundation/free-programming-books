@@ -157,7 +157,7 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 ##### Tiêu Đề
 
 - Không được phát minh ra tiêu đề. Chúng tôi cố gắng lấy các tiêu đề từ chính các nguồn tài liệu đó; những người đóng góp được khuyến cáo không phát minh ra tiêu đề hoặc chỉnh sửa chúng nếu điều này có thể tránh được. Một ngoại lệ là đối với các tác phẩm cũ hơn; nếu họ chủ yếu quan tâm đến lịch sử, thêm số năm vào trong dấu ngoặc đơn nằm trong tiêu đề sẽ giúp người dùng biết liệu họ có quan tâm hay không.
-- Không sử dụng tiêu đề viết hoa toàn bộ. Thông thường, viết hoa tiêu đề là phù hợp, nhưng khi không chắc chắn, hãy sử dụng chữ viết hoa từ nguồn.
+- Không sử dụng tiêu đề viết HOA TOÀN BỘ. Thông thường, viết hoa tiêu đề là phù hợp, nhưng khi không chắc chắn, hãy sử dụng chữ viết hoa từ nguồn.
 
 
 ##### Các Liên Kết

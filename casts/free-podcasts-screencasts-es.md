@@ -35,7 +35,7 @@
 ### Juegos
 
 * [Aquelarre of Games](http://aquelarreofgames.com.ar/podcast) (podcast)
-* [Diógenes Digital](https://diogenesdigital.es/podcasts/) (podcast) - Sergio Pascual "Micropakito", Carlos del Pozo, Israel Alvarez @Borrachuzo *(Última Actualziación: Octubre 2019)*
+* [Diógenes Digital](https://diogenesdigital.es/podcasts/) - Sergio Pascual "Micropakito", Carlos del Pozo, Israel Alvarez "Borrachuzo" (podcast) *(Última Actualización: Octubre 2019)*
 
 
 ### Programación

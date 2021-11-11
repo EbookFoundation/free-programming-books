@@ -164,11 +164,11 @@
 
 #### Django
 
-* [Django Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yWUMgLpWrXtegKxrWLRnRv) - Vijay Manral, CS Geeks
-* [Python Django Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) - CodeWithHarry
 * [Django (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6) - Rajesh Kumar, Geeky Shows
 * [Django REST Framework (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN) - Rajesh Kumar, Geeky Shows 
+* [Django Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yWUMgLpWrXtegKxrWLRnRv) - Vijay Manral, CS Geeks
 * [Django(Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6) - Rajesh Kumar, GeekyShows
+* [Python Django Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) - CodeWithHarry
 
 
 #### Flask

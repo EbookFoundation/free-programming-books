@@ -127,6 +127,7 @@ Free Podcasts and Screencasts:
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
 + [French / français](casts/free-podcasts-screencasts-fr.md)
++ [Hebrew / עברית](casts/free-podcasts-screencasts-he.md)
 + [Indonesian / Bahasa Indonesia](casts/free-podcasts-screencasts-id.md)
 + [Persian / Farsi (Iran) / فارسى](casts/free-podcasts-screencasts-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](casts/free-podcasts-screencasts-pl.md)

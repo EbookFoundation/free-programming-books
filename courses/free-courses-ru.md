@@ -37,6 +37,11 @@ ADV - Продвинутый. Тонкости.
 <h3 id="cpp">C++</h3>
 
 * [Введение в программирование (C++)](https://stepik.org/course/363) - Stepik (BEG)
+* [Основы разработки на С++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white) - Шишков Илья Иванович, Парамонов Евгений Анатольевич, Полднев Антон Вячеславович, Лежанкин Иван Андреевич (Coursera) (INT)
+* [Основы разработки на С++: желтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow) - Шишков Илья Иванович, Лежанкин Иван Андреевич, Парамонов Евгений Анатольевич, Полднев Антон Вячеславович (Coursera) (INT)
+* [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) - Шишков Илья Иванович, Полднев Антон Вячеславович, Матросов Михаил Александрович, Alexey Zobnin, Субоч Николай Михайлович (Coursera) (INT)
+* [Основы разработки на С++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red) - Шишков Илья Иванович, Полднев Антон Вячеславович (Coursera) (INT)
+* [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black) - Шишков Илья Иванович, Полднев Антон Вячеславович, Субоч Николай Михайлович, Alexey Zobnin, Матросов Михаил Александрович (Coursera) (INT)
 
 
 ### Clojure
@@ -144,6 +149,7 @@ ADV - Продвинутый. Тонкости.
 
 * [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) - Stepik (INT)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
+* [Питонтьютор: Бесплатный курс по программированию с нуля](https://pythontutor.ru) - Виталий Павленко, Владимир Соломатин, Д. П. Кириенко, команда Pythontutor (BEG)
 * ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) - Stepik (BEG)
 * ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343) - Stepik (INT)
 * [Программирование на Python](https://stepik.org/course/67) - Stepik (BEG)

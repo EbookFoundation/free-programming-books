@@ -1,4 +1,4 @@
-*Leia em outros idiomas: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*Leia em outros idiomas: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-ko.md).*
 
 ## Acordo de Licença do Contribuidor
 Ao contribuir você concorda com a [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) deste repositório.
@@ -41,7 +41,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
 - se o _link_ existir em múltiplos formatos, adicione um _link_ separado com uma observação sobre cada formato.
 - se o material existe em diferentes lugares na Internet
     + use o _link_ com a fonte mais oficial (isso significa que o site do autor é melhor que o site da editora que é melhor que sites de terceiros)
-    + se eles referenciam diferentes edições, e você julgar que essas edições são diferentes o bastante para mantê-las, adicione um _link_ separado com uma observação para cada edição (veja [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir com a discussão sobre formatação.)
+    + se eles referenciam diferentes edições, e você julgar que essas edições são diferentes o bastante para mantê-las, adicione um _link_ separado com uma observação para cada edição (veja [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir com a discussão sobre formatação).
 - prefira _commits_ atômicos (um _commit_ para cada adição/deleção/modificação) ao invés de _commits_ maiores. Não é necessário fazer o _squash_ de seus _commits_ antes de submeter um PR. Nunca iremos impor esta regra dado que é apenas uma questão de conveniência para os mantenedores).
 - se o livro for mais antigo, inclua a data de publicação no título.
 - inclua o(s) nome(s) do(s) autor(es) onde for apropriado. Você pode encurtar a lista de autores com "et al".
@@ -74,28 +74,28 @@ Exemplo:
 
 ```
 RUIM : * [Outro Livro Incrível] (http://exemplo.com/livro.html)
-BOM: * [Outro Livro Incrível](http://exemplo.com/livro.html)
+BOM  : * [Outro Livro Incrível](http://exemplo.com/livro.html)
 ```
 
 - Se incluir o autor, use ` - ` (um traço envolto por espaços simples):
 
 ```
 RUIM : * [Outro Livro Incrível](http://exemplo.com/livro.html)- Fulano de Tal
-BOM: * [Outro Livro Incrível](http://exemplo.com/livro.html) - Fulano de Tal
+BOM  : * [Outro Livro Incrível](http://exemplo.com/livro.html) - Fulano de Tal
 ```
 
 - Coloque um espaço simples entre o _link_ e seu formato:
 
 ```
 RUIM : * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf)(PDF)
-BOM: * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf) (PDF)
+BOM  : * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf) (PDF)
 ```
 
 - Autor vem antes do formato:
 
 ```
 RUIM : * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf)- (PDF) Fulana de Tal
-BOM: * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf) - Fulana de Tal (PDF)
+BOM  : * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf) - Fulana de Tal (PDF)
 ```
 
 - Múltiplos formatos:
@@ -103,21 +103,21 @@ BOM: * [Um Livro Muito Incrível](https://exemplo.org/livro.pdf) - Fulana de Tal
 ```
 RUIM : * [Outro Livro Incrível](http://exemplo.com/)- Fulano de Tal (HTML)
 RUIM : * [Outro Livro Incrível](https://downloads.exemplo.org/livro.html)- Fulano de Tal (download site)
-BOM: * [Outro Livro Incrível](http://exemplo.com/) - Fulano de Tal (HTML) [(PDF, EPUB)](https://downloads.exemplo.org/livro.html)
+BOM  : * [Outro Livro Incrível](http://exemplo.com/) - Fulano de Tal (HTML) [(PDF, EPUB)](https://downloads.exemplo.org/livro.html)
 ```
 
 - Inclua o ano de publicação no título de livros antigos:
 
 ```
 RUIM : * [Um Livro Muito Incrível](https://exemplo.org/livro.html) - Fulana de Tal - 1970
-BOM: * [Um Livro Muito Incrível (1970)](https://exemplo.org/livro.html) - Fulana de Tal
+BOM  : * [Um Livro Muito Incrível (1970)](https://exemplo.org/livro.html) - Fulana de Tal
 ```
 
 <a name="em_processo"></a>
 - Livros em processo:
 
 ```
-BOM: * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) (:construction: *em processo*)
+BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) (:construction: *em processo*)
 ```
 
 ### Observações
@@ -166,7 +166,7 @@ Dada a vastidão da Internet, não incluimos em nossas listas:
 - blogs
 - posts de blog
 - artigos
-- sites (exceto aquela que hospedam MUITOS dos items que listamos.)
+- sites (exceto aquela que hospedam MUITOS dos items que listamos).
 - vídeos que não são cursos ou screencasts.
 - capítulos de livros.
 - amostras de livros

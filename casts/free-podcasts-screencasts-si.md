@@ -1,6 +1,12 @@
 ### Index
 
+* [DevOps](#devops)
 * [FOSS](#foss)
+
+
+### DevOps
+
+* [DevOps With Zack](https://anchor.fm/arshad-zackeriya) - Arshad Zackeriya
 
 
 ### FOSS

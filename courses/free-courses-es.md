@@ -162,6 +162,7 @@
 
 ### Programación
 
+* [Aprende Javascript](https://aprendejavascript.org) - Jonathan MirCha
 * [Clojure](https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
 * [Curso de Python gratis y con certificación](https://edutin.com/curso-de-python-4276) - Edutin

@@ -25,6 +25,7 @@
 
 ### مهندسی نرم‌افزار
 
+* [الگوهای طراحی](https://holosen.net/what-is-design-pattern/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)*
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
 * [ترجمه آزاد کتاب کد تمیز](https://github.com/Noah1001000/clean-code-persian) - Robert C. Martin et al.
 
@@ -42,7 +43,8 @@
 
 ### JavaScript
 
-* مارین هاوربک - [جاوااسکریپت شیوا](http://eloquentjs.ir) (HTML)
+* [جاوااسکریپت شیوا](http://eloquentjs.ir) - مارین هاوربک, مهران عفتی (HTML)
+* [ریکت جی اس](https://github.com/reactjs/fa.reactjs.org)
 * [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 
 

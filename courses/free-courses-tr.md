@@ -21,6 +21,7 @@
 * [Bootstrap Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx5ZUs7h8mfGACFpnVipTNkA) - Hakan Yalçınkaya | Kodluyoruz
 * [CSS Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx501K3-IMgS1fz-KfEB37gM) - Hakan Yalçınkaya | Kodluyoruz
 * [HTML Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx7aP99nDNRKDi70bLFr_kX-) - Hakan Yalçınkaya | Kodluyoruz
+* [HTML+CSS Öğreniyoruz](https://www.youtube.com/playlist?list=PLadt0EaV4m3Ae9mBaQNylUKUaFK38F4EB) - Adem Ilter
 * [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
 
 

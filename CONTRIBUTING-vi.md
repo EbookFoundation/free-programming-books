@@ -211,7 +211,7 @@ Danh sách của chúng tôi không nghiêm ngặt về những loại trừ nà
 
 Chúng tôi không quá cầu kỳ về sách. Dưới đây là một số thuộc tính biểu thị rằng nguồn tài liệu là sách:
 
-- nó có một ISBN
+- nó có một ISBN (International Standard Book Number)
 - nó có một Mục lục
 - một phiên bản đã tải xuống, đặc biệt là ePub
 - nó có các tái bản

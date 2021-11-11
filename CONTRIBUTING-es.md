@@ -222,7 +222,7 @@ El [listado donde incluimos sitios o software de programación competitiva][prog
 
 No somos tan quisquillosos con lo que consideramos como libro. A continuación, se muestran algunas propiedades que un recurso pueda encajar como libro:
 
-- tiene un ISBN
+- tiene un ISBN (International Standard Book Number)
 - tiene una Tabla de Contenidos (TOC)
 - se ofrece una versión para su descarga electrónica, especialmente ePub.
 - tiene diversas ediciones

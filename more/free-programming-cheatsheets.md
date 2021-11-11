@@ -14,15 +14,18 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
+  * [Nest.js](#nestjs)
   * [Nuxt.js](#nuxtjs)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
+* [Kotlin](#Kotlin)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
 * [Perl](#perl)
+* [PHP](#php)
 * [Python](#python)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
@@ -40,6 +43,7 @@
 
 ### Bash
 
+* [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
 
 
@@ -57,6 +61,7 @@
 
 ### <a name="cpp"></a>C++
 
+* [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) - CodeWithHarry (HTML)
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
 
 
@@ -73,15 +78,18 @@
 ### Git
 
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
+* [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) - GitLab (PDF)
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
   * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
   * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
+* [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 
 ### Go
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
+* [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 
 
 ### HTML / CSS
@@ -91,21 +99,26 @@
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
 * [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
 * [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co) - Chris Malven (HTML)
-* [HTML CheatSheet](https://htmlcheatsheet.com) (HTML)
+* [HTML & CSS Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) - Emmet Documentation (HTML, [PDF]( https://docs.emmet.io/cheatsheet-a5.pdf))
+* [HTML CheatSheet](https://htmlcheatsheet.com) - htmlcheatsheet.com (HTML, [PDF](https://htmlcheatsheet.com/HTML-Cheat-Sheet.pdf))
 
 
 ### <a name="ide--editores"></a>IDE / Editors
 
-* [Editor VI - Guia de Referência](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
+* [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
-* [Vim Avançado](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
-* [Vim Básico](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
-* [Vim Médio](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
+* [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
+* [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
+* [Vim Cheat Sheet](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf) - Allison McKnight (PDF)
+* [Vim Cheatsheet](https://devhints.io/vim) - Devhints, Rico Santa Cruz (HTML)
+* [Vim Médio (pt)](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
+* [Visual Studio Code: Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Visual Studio (PDF)
 
 
 ### Java
 
 * [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) (PDF)
+* [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet) - CodeWithHarry (HTML)
 
 
 ### JavaScript
@@ -122,6 +135,11 @@
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 
 
+#### Nest.js
+
+* [Nest.js CheatSheet](https://gist.github.com/guiliredu/0aa9e4d338bbeeac369a597e87c9ba46) (GitHub Gist)
+
+
 #### Nuxt.js
 
 * [Nuxt.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf) - Vue Mastery (PDF)
@@ -135,6 +153,12 @@
 #### Vue.js
 
 * [Vue Essential Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf) - Vue Mastery (PDF)
+* [Vue.js 2.3 Complete API Cheat Sheet](https://marozed.com/vue-cheatsheet) - Marcos Neves, Marozed (HTML)
+
+
+### Kotlin
+
+* [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
 
 
 ### Kubernetes
@@ -161,6 +185,7 @@
 ### MongoDB
 
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
+* [MongoDB Cheat Sheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - codecentric (PDF)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet
 
 
@@ -173,6 +198,11 @@
 
 * [PyTorch Framework Cheat Sheet](https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf) - Simon Wenkel (PDF)
 * [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
+
+
+### PHP
+
+* [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - Nick Schäferhoff, WebsiteSetup (HTML, [PDF](https://websitesetup.org/wp-content/uploads/2020/09/PHP-Cheat-Sheet.pdf))
 
 
 ### Python
@@ -225,6 +255,7 @@
 
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
+* [SQL Cheat Sheet](https://www.dataquest.io/wp-content/uploads/2021/01/dataquest-sql-cheat-sheet.pdf) - Dataquest.io (PDF)
 
 
 ### TensorFlow

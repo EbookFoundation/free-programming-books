@@ -17,9 +17,10 @@
 
 ### MATLAB
 
-* [Introduktion till MATLAB](https://www.liber.se/plus/E470523401.pdf) (PDF)
+* [Introduktion till MATLAB (2004)](https://www.cvl.isy.liu.se/education/undergraduate/TSKS08/matlab-1/Matlabintro_sve.pdf) - Liber AB, Lennart Harnefors, Johnny Holmberg, Joop Lundqvist (PDF)
 
 
 ### PHP
 
 * [Programmera i PHP](https://sv.wikibooks.org/wiki/Programmera_i_PHP) - Wikibooks
+

@@ -1,28 +1,28 @@
-*이 문서르 다른 언어로 보시려면: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [English](CONTRIBUTING.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
+*이 문서를 다른 언어로 보시려면: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [English](CONTRIBUTING.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 
 ## 기여자 라이선스 동의서
 이 프로젝트의 기여자들은 리포지토리의 [약관](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) 에 동의하는 것으로 간주됩니다.
 
 ## 기여자 행도 강령
-이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) 에 동의한 것으로 간주됩니다.
+이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-ko.md) 에 동의한 것으로 간주됩니다.
 
 ## 요약
 1. "책을 쉽게 내려받을 수 있는 바로가기"는 해당 책이 무료임을 보장하지 않습니다. 이 프로젝트에 기여하기 전에 해당 바로가기가 무료임을 확인해 주십시오. 저희는 또한 작동하는 이메일을 요구하는 바로가기는 허용하지 않습니다만, 이메일을 요청하는 것들은 허용됩니다.
 2. 깃에 대해 알고 있을 필요는 없습니다: 만약 당신이 조건에 부합하면서 이미 등재되지 않은 바로가기를 발견한다면, 새로운 바로가기와 함께 새로운 [이슈](https://github.com/EbookFoundation/free-programming-books/issues)를 열 수 있습니다.
-    - 만약 깃 사용법으 알고 있다면, 해당 리포지토리를 Fork 하며 Pull request를 보내주세요.
+    - 만약 깃 사용법을 알고 있다면, 해당 리포지토리를 Fork 하며 Pull request를 보내주세요.
 3. 저희는 다섯 가지의 리스트를 제공하고 있습니다. 올바른 것을 선택해 주세요:
     - *책* : PDF, HTML, ePub, gitbook.io 기반 웹사이트, 깃 리포지토리, 등.
-    - *강좌* : 여기서 강좌는 책이 아닌 교육 도구르 칭합니다. [강좌 예시](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
+    - *강좌* : 여기서 강좌는 책이 아닌 교육 도구를 칭합니다. [강좌 예시](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *상호작용을 할 수 있는 강좌* : 사용자가 코드를 입력하거나 명령어를 입력하여 평가을 받을 수 있는 웹사이트를 칭합니다(평가는 채점이 아닙니다). 예시: [Try Haskell](http://tryhaskell.org), [Try Github](http://try.github.io).
     - *팟캐스트와 화면 녹화*
-    - *문제집 & 경쟁 하며 배우느 프로그래밍* : 문제를 품으로서 프로그래밍 실력을 향상시키는데 도움을 주는 소프트웨어 또는 웹사이트를 칭합니다. 해당 소프트웨어 또는 웹사이트는 동료가 주체가 되는 코드 검토를 포함 할 수 있습니다.
+    - *문제집 & 경쟁 하며 배우는 프로그래밍* : 문제를 풂으로서 프로그래밍 실력을 향상시키는데 도움을 주는 소프트웨어 또는 웹사이트를 칭합니다. 해당 소프트웨어 또는 웹사이트는 동료가 주체가 되는 코드 검토를 포함 할 수 있습니다.
 
 4. 아래의 [가이드라인](#가이드라인) 을 참조하고 [마크다운 규격](#규격) 을 준수하여 주십시오.
 
 5. 깃허브 액션이 각각의 리스트가 오름차순인지, 또하 규격이 준수되었는지 검수 할 것입니다. 각 제출이 검수를 통과하는지 확인해주십시오.
 
 ### 가이드라인
-- 책이 무료인 반드시 확인 해 주십시오. 해당 책이 무료라고 생각하는 이유를 PR의 comment에 포함하는 것은 관리자들에게 큰 도움이 됩니다.
+- 책이 무료인지 반드시 확인 해 주십시오. 해당 책이 무료라고 생각하는 이유를 PR의 comment에 포함하는 것은 관리자들에게 큰 도움이 됩니다.
 - 저희는 Google Drive, Dropbox, Mega, Scribd, Issuu 또는 유사한 파일 공유 시스템에 업로드된 파일들을 수락하지 않습니다.
 - 바로가기를 오름차순으로 정렬해 주십시오. 만약 당신이 오름차순이 아닌 파일을 발견한다면, 수정후 PR을 보내주세요.
 - 가능한 가장 원작자에 가까운 바로가기를 사용해주세요(작가의 웹사이트가 편집자의 웹사이트보다 낫고, 제 3자의 웹사이트보다는 편집자의 것이 낫습니다).

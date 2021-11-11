@@ -13,6 +13,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Node.js](#nodejs)
+  * [Webpack](#webpack)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Mathematics](#mathematics)
@@ -29,12 +30,15 @@
 * [Rust](#rust)
 * [Scratch](#scratch)
 * [Sed](#Sed)
+* [Software Engineering](#software-engineering)
+* [Springboot](#Springboot)
 * [Unicode](#unicode)
 
 
 ### Amazon Web Service
 
 * [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
+* [AWS 기초 모듈 Workshop](https://kr-id-general.workshop.aws/ko/basic_modules.html) - Amazon Web Services
 
 
 ### Assembly Language
@@ -104,6 +108,11 @@
 * [Node.js API 한글 번역 by outsideris](http://nodejs.sideeffect.kr/docs/)
 
 
+#### Webpack
+
+* [Webpack 문서 한글 번역](https://webpack.kr/concepts/) - Tobias Koppers, Sean Larkin, Johannes Ewald, LINE Corp, Dongkyun Yoo, et al.
+
+
 ### LaTeX
 
 * [The Not So short Introduction to LaTeX 2ε](https://ctan.org/tex-archive/info/lshort/korean)
@@ -152,6 +161,7 @@
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
 * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
 * [파이썬 라이브러리](https://wikidocs.net/book/5445) - 박응용
+* [파이썬 헤엄치기](https://wikidocs.net/book/5148) - 해달 프로그래밍
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
 * [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
@@ -202,8 +212,17 @@
 * [sed stream editor](https://mug896.github.io/sed-stream-editor)
 
 
+### Software Engineering
+
+* [유의적 버전 명세 2.0.0-ko2](https://semver.org/lang/ko/) - Tom Preston-Werner, 김대현, et al.
+
+
+### Springboot
+
+* [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
+
+
 ### Unicode
 
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
-
 

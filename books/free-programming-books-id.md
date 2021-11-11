@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
@@ -18,6 +19,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [React](#react)
+* [Solidity](#solidity)
 * [TypeScript](#typescript)
   * [Angular](#angular)
   * [Deno](#deno)
@@ -28,6 +30,11 @@
 
 * [Android Developers Fundamental Course Concepts and Practicals (Bahasa Indonesia)](https://yukcoding.id/download-ebook-android-gratis/)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
+
+
+### C
+
+* [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian (:construction: *in process*)
 
 
 ### C Sharp
@@ -43,7 +50,9 @@
 
 ### CodeIgniter
 
+* [Codeigniter - Pendekatan Praktis](https://leanpub.com/codeigniter-pendekatanpraktis) - Ibnu Daqiqil Id (HTML, PDF, EPUB, Kindle) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
+* [Framework Codeigniter – Sebuah Panduan dan Best Practice](https://ibnu.daqiqil.id/buku-codeigniter/) - Ibnu Daqiqil Id, M.Ti (PDF)
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
@@ -78,6 +87,8 @@
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
 * [HTML & CSS: Buat Websitemu Sendiri ](https://leanpub.com/html-css--buat-webistemu-sendiri) *(Membutuhkan akun Leanpub atau email yang valid)*
+* [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: Dalam Proses)*
+* [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
 
 
 ### Java
@@ -96,7 +107,7 @@
 
 ### MySQL
 
-* [3 Days With Mysql For Your Application: Mysql Untuk Pemula](https://play.google.com/store/books/details/Onesinus_Saut_Parulian_3_Days_With_Mysql_For_Your?id=MbdTDwAAQBAJ) - Onesinus Saut Parulian, Google Play Books
+* [3 Days With Mysql For Your Application: Mysql Untuk Pemula](https://play.google.com/store/books/details/Onesinus_Saut_Parulian_3_Days_With_Mysql_For_Your?id=MbdTDwAAQBAJ) - Onesinus Saut Parulian *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Tutorial MySQL untuk Pemula Hingga Mahir](https://umardanny.com/tutorial-mysql-untuk-pemula-hingga-mahir-ebook-download-pdf/)
 
 
@@ -104,7 +115,7 @@
 
 * [Belajar Dengan Jenius Amazon Web Service & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/releases/download/1.2/Belajar.Dengan.Jenius.Javascript.Node.pdf) - Gun Gun Febrianza (PDF)
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
-* [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua, Google Play Books (*account required*)
+* [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua *(Membutuhkan akun Google Play Books atau email yang valid)*
 
 
 ### NoSQL
@@ -140,7 +151,7 @@
 
 * [Belajar Python](http://www.belajarpython.com)
 * [Dasar Pemrograman Python](https://www.pythonindo.com/tutorial-python-dasar/)
-* [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan, Google Play Books (account required)
+* [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) - (PDF)
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
@@ -151,6 +162,11 @@
 
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
+
+
+### Solidity
+
+* [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
 
 
 ### TypeScript
@@ -171,5 +187,5 @@
 
 ### Vue
 
+* [Belajar Vue.js](https://variancode.com/belajar-vue-js/) - Varian Hermianto
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
-

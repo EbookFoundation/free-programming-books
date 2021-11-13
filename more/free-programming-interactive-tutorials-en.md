@@ -178,7 +178,7 @@
 
 * [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools
 * [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
-* [Front End Development Libraries Certification: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/#bootstrap) - freeCodeCamp
+* [Front End Development Libraries Certification: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap) - freeCodeCamp
 
 
 ### Java
@@ -220,20 +220,20 @@
 
 #### jQuery
 
-* [Front End Development Libraries Certification: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/#jquery) - freeCodeCamp
+* [Front End Development Libraries Certification: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery) - freeCodeCamp
 * [jQuery Tutorial](https://www.w3schools.com/jquery/) - W3Schools
 
 
 #### React
 
-* [Front End Development Libraries Certification: React](https://www.freecodecamp.org/learn/front-end-libraries/#react) - freeCodeCamp
+* [Front End Development Libraries Certification: React](https://www.freecodecamp.org/learn/front-end-libraries/react) - freeCodeCamp
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 
 
 #### Redux
 
-* [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux) - freeCodeCamp
+* [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/redux) - freeCodeCamp
 
 
 ### Kotlin

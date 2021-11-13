@@ -24,10 +24,9 @@
 
 ### Arduino
 
+* [AVR ببساطة: من تشغيل دايود ضوئي إلى أنظمة الوقت الحقيقي](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبدالله علي عبدالله (ODT, PDF)
 * [أردوينو السهل](http://librebooks.org/simply-arduino/)
 * [كتاب احترف الأردوينو](http://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) (PDF)
-
-* [AVR ببساطة: من تشغيل دايود ضوئي إلى أنظمة الوقت الحقيقي](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبدالله علي عبدالله (ODT, PDF)
 
 
 ### Artificial Intelligence

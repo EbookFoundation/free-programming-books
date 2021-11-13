@@ -237,7 +237,7 @@
 
 #### ExpressJS
 
-* [ExpressJS Tutorial Indonesia](https://youtu.be/rNE9DMwk3kw) - Balademy
+* [ExpressJS Tutorial Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-sgzJx7rM_wMDONnEM4E0A) - Ekky Ridyanto (Balademy)
 
 
 ### Kotlin

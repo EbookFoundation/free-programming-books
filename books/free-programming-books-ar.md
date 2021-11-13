@@ -36,7 +36,7 @@
 
 ### AVR
 
-* [AVR ببساطة](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبد الله علي عبد الله 
+* [AVR ببساطة: من تشغيل دايود ضوئي إلى أنظمة الوقت الحقيقي](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبدالله علي عبدالله (ODT, PDF)
 
 
 ### C Sharp

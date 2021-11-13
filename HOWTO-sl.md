@@ -1,4 +1,4 @@
-Preberite to v drugih jezikih: [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md), [Deutsch](HOWTO-de.md), [Bahasa Indonesia](HOWTO-id.md), [Tiếng Việt](HOWTO-vi.md), [عربي](HOWTO-ar.md).
+Preberite to v drugih jezikih: [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md), [Deutsch](HOWTO-de.md), [Bahasa Indonesia](HOWTO-id.md), [Tiếng Việt](HOWTO-vi.md), [عربي](HOWTO-ar.md), [বাংলা](HOWTO-bn.md), [Українська](HOWTO-uk.md), [한국어](HOWTO-ko.md).
 
 Dobrodošli v zbirki Free-Programming-Books! Lepo pozdravljeni vsi novi programerji - tudi tisti, ki boste na Githubu ustvarili vaš prvi zahtevek potega (pull-request). Če ste eden izmed njih, vam pri tem lahko pomaga nekaj virov:
 

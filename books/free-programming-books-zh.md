@@ -402,6 +402,7 @@
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 * [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) - Song Song Li (《[The Little Go Book](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
+* [Go 命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
 * [Go 语法树入门](https://github.com/chai2010/go-ast-book)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
@@ -410,7 +411,6 @@
 * [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
-* [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go实战开发](https://github.com/astaxie/go-best-practice)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
@@ -421,7 +421,7 @@
 
 ### Groovy
 
-* [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
+* [Groovy 教程](https://www.w3cschool.cn/groovy) - W3Cschool
 
 
 ### Haskell
@@ -436,6 +436,7 @@
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 * [学习CSS布局](http://zh.learnlayout.com)
 * [Bootstrap 4 繁體中文手冊](https://bootstrap.hexschool.com) - 六角學院
+* [Bootstrap 5 繁體中文手冊](https://bootstrap5.hexschool.com) - 六角學院
 * [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
 * [CSS参考手册](http://css.doyoe.com)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
@@ -654,7 +655,7 @@
 #### Symfony
 
 * [Symfony 2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
-* [Symfony 5 快速开发](https://symfony.com/doc/5.0/the-fast-track/zh_CN/index.html)
+* [Symfony 5 快速开发](https://symfony.com/doc/current/the-fast-track/zh_CN/index.html)
 
 
 ### PostgreSQL

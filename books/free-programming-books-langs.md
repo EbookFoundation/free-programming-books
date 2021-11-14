@@ -2264,6 +2264,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Numerical Methods with Pharo](http://books.pharo.org/numerical-methods/) - Didier Besset, Stéphane Ducasse, Serge Stinckwich
 * [Pharo by Example](http://books.pharo.org/pharo-by-example/) - Andrew P. Black et al. (Smalltalk Implementation and IDE)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
+* [Squeak by Example](https://github.com/hpi-swa-lab/SqueakByExample-english/releases/download/5.3/SqueakByExample_5_3.pdf) (PDF)
 
 
 ### Snap

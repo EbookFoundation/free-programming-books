@@ -11,7 +11,7 @@
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
 * [C / C++](#c--c)
-* [Caml](#caml)
+* [Caml / OCaml](#caml)
 * [Coq](#coq)
 * [CSS](#css)
 * [Fortran](#fortran)
@@ -30,7 +30,6 @@
 * [Lua](#lua)
 * [Mathématiques](#math%C3%A9matiques)
 * [Meteor](#meteor)
-* [OCaml](#ocaml)
 * [Perl](#perl)
 * [PHP](#php)
   * [Symfony](#symfony)
@@ -105,8 +104,9 @@
 * [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
-### Caml
+### Caml / OCaml
 
+* [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) -  Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
 * [Le language Caml](http://caml.inria.fr)
 
 
@@ -224,11 +224,6 @@
 ### Meteor
 
 * [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
-
-
-### OCaml
-
-* [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) -  Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
 
 
 ### Perl

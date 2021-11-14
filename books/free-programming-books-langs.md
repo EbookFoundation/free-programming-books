@@ -2263,7 +2263,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Enterprise Pharo: a Web Perspective](http://books.pharo.org/enterprise-pharo/)
 * [Numerical Methods with Pharo](http://books.pharo.org/numerical-methods/) - Didier Besset, Stéphane Ducasse, Serge Stinckwich
 * [Pharo by Example](http://books.pharo.org/pharo-by-example/) - Andrew P. Black et al. (Smalltalk Implementation and IDE)
-* [Squeak by Example](https://github.com/hpi-swa-lab/SqueakByExample-english/releases/download/5.3/SqueakByExample_5_3.pdf) (PDF)
+* [Squeak by Example](https://github.com/hpi-swa-lab/SqueakByExample-english)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 
 

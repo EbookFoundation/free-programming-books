@@ -107,7 +107,7 @@
 ### Caml / OCaml
 
 * [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) - Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
-* [Le language Caml](http://caml.inria.fr)
+* [Le langage Caml](https://caml.inria.fr/pub/distrib/books/llc.pdf) - Pierre Weis, Xavier Leroy (PDF)
 
 
 ### C / C++

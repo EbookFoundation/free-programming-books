@@ -1,7 +1,6 @@
 ## BY SUBJECT
 
 This list, organized by subject, is for books that cover a programming-related subject in a programming-language agnostic way.  
-Books that cover a specific programming language can be found in the  [BY PROGRAMMING LANGUAGE file](free-programming-books-langs.md) list.
 Books that cover a specific programming language can be found in the  [BY PROGRAMMING LANGUAGE](free-programming-books-langs.md) list.
 
 

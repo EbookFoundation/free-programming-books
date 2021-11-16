@@ -181,15 +181,15 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
   - [Contributing](docs/CONTRIBUTING-fil.md)
   - [How-to](docs/HOWTO-fil.md)
 - French / français
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-fr.md)
+  - [Code de Contrat](docs/CODE_OF_CONDUCT-fr.md)
   - [Contributing](docs/CONTRIBUTING-fr.md)
   - [How-to](docs/HOWTO-fr.md)
 - German / Deutsch
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-de.md)
-  - [Contributing](docs/CONTRIBUTING-de.md)
+  - [Verhaltenskodex](docs/CODE_OF_CONDUCT-de.md)
   - [How-to](docs/HOWTO-de.md)
+  - [Mitwirken](docs/CONTRIBUTING-de.md)
 - Greek / ελληνικά
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-el.md)
+  - [Κώδικα Δεοντολογίας](docs/CODE_OF_CONDUCT-el.md)
   - [Contributing](docs/CONTRIBUTING-el.md)
   - [How-to](docs/HOWTO-el.md)
 - Hebrew / עברית
@@ -198,42 +198,42 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
   - [How-to](docs/HOWTO-hi.md)
 - Hungarian / magyar / magyar nyelv
 - Indonesian / Bahasa Indonesia
+  - [Berkontribusi](docs/CONTRIBUTING-id.md)
   - [Code of Conduct](docs/CODE_OF_CONDUCT-id.md)
-  - [Contributing](docs/CONTRIBUTING-id.md)
   - [How-to](docs/HOWTO-id.md)
 - Italian / italiano
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-it.md)
+  - [Codice di Comportamento](docs/CODE_OF_CONDUCT-it.md)
   - [Contributing](docs/CONTRIBUTING-it.md)
   - [How-to](docs/HOWTO-it.md)
 - Japanese / 日本語
 - Khmer / Cambodian / ខ្មែរ
   - [How-to](docs/HOWTO-km.md)
 - Korean / 한국어 [韓國語]
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-ko.md)
+  - [행동강령](docs/CODE_OF_CONDUCT-ko.md)
   - [Contributing](docs/CONTRIBUTING-ko.md)
   - [How-to](docs/HOWTO-ko.md)
 - Norwegian / Norsk
 - Persian / Farsi (Iran) / فارسى
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-fa_IR.md)
+  - [مرام‌نامه‌ی](docs/CODE_OF_CONDUCT-fa_IR.md)
   - [Contributing](docs/CONTRIBUTING-fa_IR.md)
   - [How-to](docs/HOWTO-fa_IR.md)
 - Polish / polski / język polski / polszczyzna
   - [Code of Conduct](docs/CODE_OF_CONDUCT-pl.md)
   - [How-to](docs/HOWTO-pl.md)
 - Portuguese (Brazil)
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-pt_BR.md)
+  - [Código de Conduta](docs/CODE_OF_CONDUCT-pt_BR.md)
   - [Contributing](docs/CONTRIBUTING-pt_BR.md)
   - [How-to](docs/HOWTO-pt_BR.md)
 - Portuguese (Portugal)
   - [How-to](docs/HOWTO-pt_PT.md)
 - Romanian (Romania) / limba română / român
 - Russian / Русский язык
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-ru.md)
+  - [Кодекс поведения](docs/CODE_OF_CONDUCT-ru.md)
   - [Contributing](docs/CONTRIBUTING-ru.md)
 - Slovak / slovenčina
   - [How-to](docs/HOWTO-sk.md)
 - Spanish / español / castellano
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-es.md)
+  - [Código de Conducta](docs/CODE_OF_CONDUCT-es.md)
   - [Contributing](docs/CONTRIBUTING-es.md)
   - [How-to](docs/HOWTO-es.md)
 - Swedish / Svenska
@@ -247,7 +247,7 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
   - [Code of Conduct](docs/CODE_OF_CONDUCT-uk.md)
   - [How-to](docs/HOWTO-uk.md)
 - Vietnamese / Tiếng Việt
-  - [Contributing](docs/CONTRIBUTING-vi.md)
+  - [Đóng Góp](docs/CONTRIBUTING-vi.md)
   - [How-to](docs/HOWTO-vi.md)
 
 ## License

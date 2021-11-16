@@ -196,6 +196,14 @@
 
 #### Machine Learning
 
+* [Concerning AI](https://concerning.ai) - Brandon Sanders, Ted Sarvata (podcast)
+* [Emerj: The AI in Business Podcast](https://emerj.com/artificial-intelligence-podcast/) - Daniel Faggella (podcast)
+* [Emerj: The AI in Financial Services Podcast](https://emerj.com/ai-in-financial-services-podcast/) - Daniel Faggella (podcast)
+* [High-performance computing and AI podcast](https://developer.ibm.com/podcasts/high-performance-computing-and-ai-podcast/) - IBM (podcast)
+* [Learning Machines 101](http://www.learningmachines101.com) - Richard M. Golden (podcast)
+* [Machine learning](https://anchor.fm/david-nishimoto) - David Nishimoto (podcast)
+* [Talking Machines](http://www.thetalkingmachines.com) - Katherine Gorman, Neil Lawrence (podcast)
+* [The AI Podcast](https://blogs.nvidia.com/ai-podcast/) - NVIDIA, Noah Kravitz (podcast)
 * [TWIML AI Podcast](https://twimlai.com/shows/) - Sam Charrington (podcast)
 
 

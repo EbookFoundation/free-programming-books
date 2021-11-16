@@ -67,6 +67,7 @@
 * [Scala](#scala)
 * [Security](#security)
 * [Solidity](#solidity)
+* [Spark](#spark)
 * [Swift](#swift)
   * [Vapor](#vapor)
 * [Theory](#theory)
@@ -870,7 +871,7 @@
 
 ### Spark
 
-* [Spark Tutorial | Spark Tutorial for Beginners](https://www.youtube.com/watch?v=zC9cnh8rJd0)
+* [Spark Tutorial | Spark Tutorial for Beginners | Apache Spark Full Course - Learn Apache Spark 2020](https://www.youtube.com/watch?v=zC9cnh8rJd0) Great Learning
 
 
 ### Scala

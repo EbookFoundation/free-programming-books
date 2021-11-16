@@ -2223,7 +2223,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [A Pamphlet Against R. Computational Intelligence in Guile Scheme](https://panicz.github.io/pamphlet/)
 * [An Introduction to Scheme and its Implementation](http://www.cs.rpi.edu/academics/courses/fall00/ai/scheme/reference/schintro-v14/schintro_toc.html)
 * [Concrete Abstractions: An Introduction to Computer Science Using Scheme](https://gustavus.edu/+max/concrete-abstractions.html) - M. Hailperin, B. Kaiser, K. Knight
-* [Scheme 9 from Empty Space - First edition (2007)](https://unglue.it/work/506723/) - Nils M. Holm (PDF, [:package: sources](https://web.archive.org/web/20180217102801/http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/scheme-9-from-empty-space.zip), [:cd: R4RS interpreter (2009 update)](https://web.archive.org/web/20161206133212/http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/s9fes-20090906.tar.gz)) *(:card_file_box: archived)*
+* [Scheme 9 from Empty Space - First edition (2007)](https://unglue.it/work/506723/) - Nils M. Holm (PDF)
 * [Scheme Tutorial](http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html) - B. Harvey, M. Wright
 * [Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index-Z-H-1.html)

@@ -1,10 +1,11 @@
-*Read this in other languages: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Filipino](CONTRIBUTING-fil.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-ko.md).*
+*[Read this in other languages](../README.md#translations)*
+
 
 ## Contributor License Agreement
 By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) of this repository.
 
 ## Contributor Code of Conduct
-By contributing you agree to respect the [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) of this repository.
+By contributing you agree to respect the [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) of this repository. ] ([translations](../README.md#translations))
 
 ## In a nutshell
 1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free. We do not accept links to pages that *require* working email addresses to obtain books, but we welcome listings that request them.

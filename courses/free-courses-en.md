@@ -68,6 +68,7 @@
 * [Scala](#scala)
 * [Security](#security)
 * [Solidity](#solidity)
+* [Spark](#spark)
 * [Swift](#swift)
   * [Vapor](#vapor)
 * [Theory](#theory)
@@ -895,6 +896,11 @@
 * [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw) - Traversy Media
 * [Rust Projects](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb) - Tensor Programming
 * [Rust Tutorial](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5) - Doug Milford
+
+
+### Spark
+
+* [Spark Tutorial | Spark Tutorial for Beginners | Apache Spark Full Course - Learn Apache Spark 2020](https://www.youtube.com/watch?v=zC9cnh8rJd0) Great Learning
 
 
 ### Scala

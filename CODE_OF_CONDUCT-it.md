@@ -26,3 +26,5 @@ Questo Codice di Comportamento è adattato da [Contributor Covenant][homepage],
 versione 1.3.0, disponibile a https://contributor-covenant.org/version/1/3/0/
 
 [homepage]: https://contributor-covenant.org
+
+[Translations](../README.md#translations)

@@ -1,10 +1,10 @@
-*Διαβάστε το σε διαφορετικές γλώσσες: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [English](CONTRIBUTING.md), [Español](CONTRIBUTING-es.md), **ελληνικά**, [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [Português (BR)](CONTRIBUTING-pt_BR.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-ko.md).*
+*[Διαβάστε το σε διαφορετικές γλώσσες](../README.md#translations)*
 
 
 <a name="contributor-license-agreement"></a>
 ## Συμφωνία Άδειας Χρήσης Συνεισφερόντων
 
-Συνεισφέροντας συμφωνείτε με την [ΑΔΕΙΑ](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) αυτού του αποθετηρίου.
+Συνεισφέροντας συμφωνείτε με την [ΑΔΕΙΑ](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) αυτού του αποθετηρίου. ([translations](../README.md#translations))
 
 
 <a name="contributor-code-of-conduct"></a>

@@ -46,3 +46,6 @@ Ang Code of Conduct na ito ay hinango mula sa [Contributor Covenant][homepage],
 version 1.3.0, available at https://contributor-covenant.org/version/1/3/0/
 
 [homepage]: https://contributor-covenant.org
+
+[Translations](../README.md#translations)
+

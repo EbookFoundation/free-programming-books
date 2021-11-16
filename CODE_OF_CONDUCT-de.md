@@ -47,8 +47,9 @@ die angesichts der Umstände für notwendig und angemessen gehalten wird. Die
 Verantwortlichen sind verpflichtet, über diejenigen, die Vorfälle gemeldet haben, Verschwiegenheit zu wahren.
 
 
-
 Dieser Verhaltenskodex ist abgeleitet vom [Contributor Covenant][homepage],
 Version 1.3.0, verfügbar unter https://www.contributor-covenant.org/de/version/1/3/0/code-of-conduct.html
 
 [homepage]: https://contributor-covenant.org
+
+[Translations](../README.md#translations)

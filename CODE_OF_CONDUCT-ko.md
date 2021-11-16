@@ -36,3 +36,5 @@
 그 내용은 https://contributor-covenant.org/version/1/3/0/ 에서 확인할 수 있습니다.
 
 [homepage]: https://contributor-covenant.org
+
+[Translations](../README.md#translations)

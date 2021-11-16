@@ -31,3 +31,5 @@ gmail.com पर victorfelder में एक परियोजना अन�
 https://contributor-covenant.org/version/1/3/0/
 
 [homepage]: https://contributor-covenant.org
+
+[Translations](../README.md#translations)

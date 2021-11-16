@@ -1,4 +1,4 @@
-*閱讀其他語言版本的文件：[Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
+*[閱讀其他語言版本的文件：](../README.md#translations)*
 
 
 ## 貢獻者許可協議
@@ -8,7 +8,7 @@
 
 ## 貢獻者行為準則
 
-請同意並遵循此 [行為準則](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) 參與貢獻。
+請同意並遵循此 [行為準則](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) 參與貢獻。([translations](../README.md#translations))
 
 
 ## 概要

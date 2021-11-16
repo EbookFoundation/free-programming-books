@@ -1,4 +1,4 @@
-*Lea esto en otros idiomas: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
+*[Lea esto en otros idiomas](../README.md#translations)*
 
 <a name="contributor-license-agreement"></a>
 ## Acuerdo de Licencia
@@ -9,7 +9,7 @@ Al contribuir, acepta la [LICENCIA][license] de este repositorio.
 <a name="contributor-code-of-conduct"></a>
 ## Código de Conducta como Colaborador
 
-Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repositorio.
+Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repositorio. ([translations](../README.md#translations))
 
 
 <a name="in-a-nutshell"></a>

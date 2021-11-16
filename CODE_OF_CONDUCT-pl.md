@@ -26,3 +26,5 @@ Niniejszy *Kodeks postępowania* został zaadaptowany z [Contributor Covenant][h
 wersja 1.3.0, dostępna pod adresem https://contributor-covenant.org/version/1/3/0/
 
 [homepage]: https://contributor-covenant.org
+
+[Translations](../README.md#translations)

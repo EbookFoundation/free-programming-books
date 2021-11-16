@@ -43,3 +43,5 @@
   [homepage]: https://contributor-covenant.org
   
 </div>
+
+[Translations](../README.md#translations)

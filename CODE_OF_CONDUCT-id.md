@@ -45,3 +45,5 @@ Kode Etik ini diadaptasi dari [Contributor Covenant][homepage],
 versi 1.3.0, avaible at https://contributor-covenant.org/version/1/3/0/
 
 [homepage]: https://contributor-covenant.org
+
+[Translations](../README.md#translations)

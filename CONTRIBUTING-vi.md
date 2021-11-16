@@ -1,4 +1,4 @@
-*Đọc bằng ngôn ngữ khác: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
+*[Đọc bằng ngôn ngữ khác: ](../README.md#translations)*
 
 Bản dịch Tiếng Việt:
 
@@ -14,7 +14,7 @@ Bản dịch Tiếng Việt:
 Bằng cách đóng góp, bạn đồng ý với [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) của kho lưu trữ này.
 
 ## Quy Tắc Ứng Xử của Cộng Tác Viên
-Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) của kho lưu trữ này.
+Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) của kho lưu trữ này. ([translations](../README.md#translations))
 
 ## Tóm Tắt
 1. "Một liên kết để tải một cuốn sách" không có nghĩa nó là một cuốn sách *miễn phí*. Vui lòng chỉ đóng góp nội dung miễn phí. Đảm bảo rằng nó là miễn phí. Chúng tôi không chấp nhận các liên kết đến các trang có *yêu cầu bắt buộc* nhập địa chỉ email để nhận sách, nhưng chúng tôi hoan nghênh những danh sách yêu cầu chúng.

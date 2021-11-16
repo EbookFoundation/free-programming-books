@@ -42,3 +42,5 @@
 Έκδοση 1.3.0, διαθέσιμη στο https://contributor-covenant.org/version/1/3/0/
 
 [homepage]: https://contributor-covenant.org
+
+[Translations](../README.md#translations)

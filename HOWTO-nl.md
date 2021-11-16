@@ -1,4 +1,4 @@
-Lees dit in andere talen: [English](HOWTO.md), [Français](HOWTO-fr.md), [Español](HOWTO-es.md), [简体中文](HOWTO-zh.md), [हिन्दी](HOWTO-hi.md), [繁體中文](HOWTO-zh_TW.md), **Nederlands**, [Português (BR)](HOWTO-pt_BR.md), [فارسی](HOWTO-fa_IR.md), [Русский](HOWTO-ru.md), [Deutsch](HOWTO-de.md), [Bahasa Indonesia](HOWTO-id.md), [Tiếng Việt](HOWTO-vi.md), [عربي](HOWTO-ar.md).
+*[Lees dit in andere talen](../README.md#translations)*
 
 Welkom bij Free-Programming-Books! We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste pull-verzoeken doen. Als je een van hen bent, zijn hier enkele bronnen die je kunnen helpen:
 
@@ -14,4 +14,4 @@ Aarzel niet om vragen te stellen; elke bijdrager begon met een eerste PR. Je zou
 
 Zelfs als je een ervaren open source-bijdrager bent, zijn er dingen die je kunnen laten struikelen. Nadat je je PR hebt ingediend, voert GitHub Actions een linter uit, waarbij vaak kleine problemen met spatiëring of alfabetisering worden gevonden. Als je een groene knop krijgt, is alles klaar voor beoordeling, maar als dat niet het geval is, klik je op "Details" onder het vinkje dat niet heeft kunnen achterhalen wat de linter niet leuk vond. Los het probleem op en voeg een commit toe aan je PR.
 
-Tot slot, als je niet zeker weet of de bron die je wilt toevoegen geschikt is voor Free-Programming-Books, lees dan de richtlijnen in [CONTRIBUTING](CONTRIBUTING.md).
+Tot slot, als je niet zeker weet of de bron die je wilt toevoegen geschikt is voor Free-Programming-Books, lees dan de richtlijnen in [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))

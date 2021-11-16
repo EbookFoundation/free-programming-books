@@ -1,4 +1,4 @@
-*Доступно на других языках: [Deutsch](CONTRIBUTING-de.md), [English](CONTRIBUTING.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
+*[Доступно на других языках: ](../README.md#translations)*
 
 <a name="contributor-license-agreement"></a>
 ## Лицензионное соглашение с участником
@@ -8,7 +8,7 @@
 <a name="contributor-code-of-conduct"></a>
 ## Кодекс поведения автора
 
-Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-ru.md) этого репозитория.
+Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-ru.md) этого репозитория. ([translations](../README.md#translations))
 
 <a name="in-a-nutshell"></a>
 ## В двух словах

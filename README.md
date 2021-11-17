@@ -13,7 +13,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) now administers the rep
 
 ### How To Contribute
 
-Please read [CONTRIBUTING](CONTRIBUTING.md) . If you're new to GitHub, [welcome](HOWTO.md)! Please abide by our [Cod of Conduct](CODE_OF_CONDUCT.md). ([translations](#translations))
+Please read [CONTRIBUTING](docs/CONTRIBUTING.md) . If you're new to GitHub, [welcome](docs/HOWTO.md)! Please abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md). ([translations](#translations))
 
 
 ### How to Share

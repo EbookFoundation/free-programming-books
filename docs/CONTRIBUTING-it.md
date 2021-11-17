@@ -1,10 +1,10 @@
 *[Leggilo in altre lingue](../README.md#translations)*
 
 ## Accordo di Licenza
-Contribuendo tu accetti alla [LICENZA](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) di questa repository.
+Contribuendo tu accetti alla [LICENZA](../LICENSE) di questa repository.
 
 ## Codice di Comportamento del Collaboratore
-I collaboratori accettano di rispettare il [Codice di Comportamento](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-it.md) di questa repository. ([translations](../README.md#translations))
+I collaboratori accettano di rispettare il [Codice di Comportamento](../CODE_OF_CONDUCT-it.md) di questa repository. ([translations](../README.md#translations))
 
 ## In breve
 1. "Un link per scaricare facilmente un libro" non è sempre un link per scaricare un libro *gratuito*. Per favore contribuisci solo con contenuti gratuiti. Assicurati che sia gratuito. Non accettiamo link a pagine che *richiedono* email funzionanti per ottenere il libro, ma diamo il benvenuto agli annunci che li richiedono.

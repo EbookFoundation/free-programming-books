@@ -4,13 +4,13 @@
 <a name="contributor-license-agreement"></a>
 ## Συμφωνία Άδειας Χρήσης Συνεισφερόντων
 
-Συνεισφέροντας συμφωνείτε με την [ΑΔΕΙΑ](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) αυτού του αποθετηρίου. ([translations](../README.md#translations))
+Συνεισφέροντας συμφωνείτε με την [ΑΔΕΙΑ](../LICENSE) αυτού του αποθετηρίου. ([translations](../README.md#translations))
 
 
 <a name="contributor-code-of-conduct"></a>
 ## Κώδικας Δεοντολογίας Συνεισφερόντων
 
-Συνεισφέροντας συμφωνείτε να σέβεστε τον [Κώδικα Δεοντολογίας](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-el.md) αυτού του αποθετηρίου.
+Συνεισφέροντας συμφωνείτε να σέβεστε τον [Κώδικα Δεοντολογίας](../CODE_OF_CONDUCT-el.md) αυτού του αποθετηρίου.
 
 
 <a name="in-a-nutshell"></a>

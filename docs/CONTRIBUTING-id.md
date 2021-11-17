@@ -1,10 +1,10 @@
 *[Instruksi ini dalam bahasa lain](../README.md#translations)*
 
 ## Perjanjian lisensi kontributor
-Dengan kerja sama Anda, Anda menerima [lisensi](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) dari repositori ini.
+Dengan kerja sama Anda, Anda menerima [lisensi](../LICENSE) dari repositori ini.
 
 ## Kode Etik untuk Kontributor
-Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) dari repositori ini. ([translations](../README.md#translations))
+Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](../CODE_OF_CONDUCT-id.md) dari repositori ini. ([translations](../README.md#translations))
 
 ## Versi pendek
 1. "Tautan untuk mengunduh buku dengan mudah" tidak selalu merupakan tautan ke buku *gratis*. Harap hanya menambahkan konten gratis. Pastikan mereka gratis. Kami tidak menerima tautan ke situs yang * mengharuskan * Anda mendaftar dengan alamat email yang berfungsi untuk mengunduh buku, tetapi kami menyambut situs yang meminta alamat email.

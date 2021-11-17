@@ -3,12 +3,12 @@
 
 ## 贡献者许可协议
 
-请遵循此[许可协议](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE)参与贡献。
+请遵循此[许可协议](../LICENSE)参与贡献。
 
 
 ## 贡献者行为准则
 
-请同意并遵循此[行为准则](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md)参与贡献。([translations](../README.md#translations))
+请同意并遵循此[行为准则](../CODE_OF_CONDUCT.md)参与贡献。([translations](../README.md#translations))
 
 
 ## 概要

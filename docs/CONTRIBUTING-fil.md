@@ -4,7 +4,7 @@
 Sa pamamagitan ng pag-aambag sumasang-ayon ka sa [LICENSE](../LICENSE) ng repositoryong ito.
 
 ## Kodigo ng Pag-uugali ng Contributor
-Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](../CODE_OF_CONDUCT-fil.md) ng repositoryong ito. ([translations](../README.md#translations))
+Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CODE_OF_CONDUCT-fil.md) ng repositoryong ito. ([translations](../README.md#translations))
 
 ## Sa maikling sabi
 1. "Ang isang link para madaling mag-download ng libro" ay hindi palaging isang link sa isang *libre* na libro. Mangyaring mag-ambag lamang ng libreng nilalaman. Tiyaking libre ito. Hindi kami tumatanggap ng mga link sa mga pahina na *nangangailangan* ng gumaganang mga email address upang makakuha ng mga aklat, ngunit malugod naming tinatanggap ang mga listahan na humihiling sa kanila.

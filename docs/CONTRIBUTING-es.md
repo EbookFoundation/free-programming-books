@@ -9,7 +9,7 @@ Al contribuir, acepta la [LICENCIA][license] de este repositorio.
 <a name="contributor-code-of-conduct"></a>
 ## Código de Conducta como Colaborador
 
-Al contribuir, acepta respetar el [Código de Conducta](CODE_OF_CONDUCT-es.md) presente en el repositorio. ([translations](../README.md#translations))
+Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repositorio. ([translations](../README.md#translations))
 
 
 <a name="in-a-nutshell"></a>
@@ -248,8 +248,8 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 - Si especifica más de un archivo, los resultados obtenidos se basan en el estado del último archivo verificado. Debe tenerlo en cuenta ya que, debido a esto, puede obtener falsos positivos al finalizar el proceso. Así que tras el envío de la pull request asegúrese de inspeccionar el registro de compilación haciendo clic en "Show all checks" -> "Details".
 
 
-[license]: https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE
-[coc]: https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-es.md
+[license]: ../LICENSE
+[coc]: CODE_OF_CONDUCT-es.md
 [issues]: https://github.com/EbookFoundation/free-programming-books/issues
 [formatting]: #formato-normalizado
 [guidelines]: #pautas

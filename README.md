@@ -151,7 +151,7 @@ Free Podcasts and Screencasts:
 We have Contributing, How-to, and Code of Conduct documents translated into many languages.
 
 - Arabic / al arabiya / العربية
- - [How-to](docs/HOWTO-ar.md)
+  - [How-to](docs/HOWTO-ar.md)
 - Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي
 - Bengali / বাংলা
   - [How-to](docs/HOWTO-bn.md)

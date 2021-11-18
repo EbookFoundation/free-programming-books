@@ -26,6 +26,7 @@
 * [ReactJS](#reactjs)
 * [Svelte](#svelte)
 * [TypeScript](#typescript)
+* [Golang](#golang)
 * [Visual Studio Code](#visual-studio-code)
 
 
@@ -194,6 +195,10 @@
 
 * [TypeScript: All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCzmP8m2l_h8PnVTSvcnJWO) - Stack Learner
 
+
+### Golang
+
+* [Golang Coding bootcamp](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - Master Academy
 
 ### Visual Studio Code
 

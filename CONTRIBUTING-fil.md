@@ -56,7 +56,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
 - kung mas luma ang aklat, isama ang petsa ng publikasyon na may pamagat.
 - isama ang pangalan ng may-akda o mga pangalan kung saan naaangkop. Maaari mong paikliin ang mga listahan ng may-akda gamit ang "`et al.`".
 - kung ang aklat ay hindi pa tapos, at ginagawa pa rin, idagdag ang "`in process`" notation, gaya ng inilarawan [below](#in_process).
-- kung ang isang mapagkukunan ay naibalik gamit ang Wayback Machine ng Internet Archive (o katulad), idagdag ang "`naka-archive`" na notation, tulad ng inilarawan [below](#archived). Ang pinakamahusay na mga bersyon na gagamitin ay bago at kumpleto.
+- kung ang isang mapagkukunan ay naibalik gamit ang [*Wayback Machine ng Internet Archive*](https://web.archive.org) (o katulad), idagdag ang "`naka-archive`" na notation, tulad ng inilarawan [below](#archived). Ang pinakamahusay na mga bersyon na gagamitin ay bago at kumpleto.
 - kung humiling ng email address o pag-setup ng account bago i-enable ang pag-download, magdagdag ng mga tala na naaangkop sa wika sa mga panaklong, hal.: `(email address *requested*, not required)`.
 
 

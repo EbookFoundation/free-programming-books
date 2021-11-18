@@ -55,7 +55,7 @@ By contributing you agree to respect the [Code of Conduct](https://github.com/Eb
 - if the book is older, include the publication date with the title.
 - include the author name or names where appropriate. You can shorten author lists with "`et al.`".
 - if the book is not finished, and is still being worked on, add the "`in process`" notation, as described [below](#in_process).
-- if a resource is restored using the Internet Archive's Wayback Machine (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - if an email address or account setup is requested before download is enabled, add language-appropriate notes in parentheses, e.g.: `(email address *requested*, not required)`.
 
 

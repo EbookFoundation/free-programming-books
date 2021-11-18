@@ -1,4 +1,4 @@
-*[Przeczytaj to w innych językach([translations](../README.md#translations)*
+*[Przeczytaj to w innych językach](../README.md#translations)*
 
 Witamy w *Free-Programming-Books*! Witamy nowych współtwórców; nawet tych, którzy robią swoje pierwsze żądanie ściągnięcia na Github. Jeśli jesteś jednym z nich, oto kilka zasobów, które mogą Ci pomóc:
 

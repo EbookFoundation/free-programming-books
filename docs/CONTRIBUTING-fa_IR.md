@@ -1,4 +1,5 @@
 *[این متن را در زبان‌های دیگر بخوانید](../README.md#translations)*
+
 <div dir="rtl">
 
 ## توافقنامه‌ی مجوز همکاری
@@ -8,7 +9,7 @@
 
 ## مرام‌نامه‌ی همکار
 
-مشارکت در این پروژه به معنی موافقت با احترام به [مرام‌نامه‌ی](../CODE_OF_CONDUCT-fa_IR.md) این مخزن است. ([translations](../README.md#translations))
+مشارکت در این پروژه به معنی موافقت با احترام به [مرام‌نامه‌ی](CODE_OF_CONDUCT-fa_IR.md) این مخزن است. ([translations](../README.md#translations))
 
 
 ## به طور خلاصه

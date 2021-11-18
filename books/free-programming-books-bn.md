@@ -94,7 +94,7 @@
 * [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF) - Stack Learner
 
 
-### Golang
+### Go
 
 * [Golang কোডিং বুট ক্যাম্প ক্লাস](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - MASTER-ACADEMY
 

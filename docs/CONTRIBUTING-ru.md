@@ -1,4 +1,4 @@
-*[Доступно на других языках: ](../README.md#translations)*
+*[Доступно на других языках](../README.md#translations)*
 
 <a name="contributor-license-agreement"></a>
 ## Лицензионное соглашение с участником

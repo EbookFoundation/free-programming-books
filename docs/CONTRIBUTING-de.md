@@ -1,4 +1,4 @@
-*[Diese Anleitung in anderen Sprachen](../README.md#translations))*
+*[Diese Anleitung in anderen Sprachen](../README.md#translations)*
 
 ## Lizenzvereinbarung für Mitwirkende
 Durch Deine Mitwirkung akzeptierst Du die [Lizenz](../LICENSE) dieses Repositorys.

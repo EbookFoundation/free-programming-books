@@ -13,7 +13,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) now administers the rep
 
 ### How To Contribute
 
-Please read [CONTRIBUTING](docs/CONTRIBUTING.md) . If you're new to GitHub, [welcome](docs/HOWTO.md)! Please abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md). ([translations](#translations))
+Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md) too. ([translations](#translations) also available)
 
 
 ### How to Share
@@ -172,7 +172,7 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
 - English
   - [Code of Conduct](docs/CODE_OF_CONDUCT.md)
   - [Contributing](docs/CONTRIBUTING.md)
-  - [How-To](docs/HOWTO.md)
+  - [How-to](docs/HOWTO.md)
 - Estonian / eesti keel
 - Finnish / suomi / suomen kieli
 - Filipino
@@ -193,7 +193,7 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
   - [How-to](docs/HOWTO-el.md)
 - Hebrew / עברית
 - Hindi / हिन्दी
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-hi.md)
+  - [आचार संहिता](docs/CODE_OF_CONDUCT-hi.md)
   - [How-to](docs/HOWTO-hi.md)
 - Hungarian / magyar / magyar nyelv
 - Indonesian / Bahasa Indonesia
@@ -243,7 +243,7 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
 - Turkish / Türkçe
   - [How-to](docs/HOWTO-tr.md)
 - Ukrainian / Українська
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-uk.md)
+  - [Кодекс Поведінки](docs/CODE_OF_CONDUCT-uk.md)
   - [How-to](docs/HOWTO-uk.md)
 - Vietnamese / Tiếng Việt
   - [Đóng Góp](docs/CONTRIBUTING-vi.md)

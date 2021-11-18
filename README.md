@@ -198,7 +198,7 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
 - Hungarian / magyar / magyar nyelv
 - Indonesian / Bahasa Indonesia
   - [Berkontribusi](docs/CONTRIBUTING-id.md)
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-id.md)
+  - [Kode Etik](docs/CODE_OF_CONDUCT-id.md)
   - [How-to](docs/HOWTO-id.md)
 - Italian / italiano
   - [Codice di Comportamento](docs/CODE_OF_CONDUCT-it.md)

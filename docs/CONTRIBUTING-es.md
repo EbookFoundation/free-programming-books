@@ -9,7 +9,7 @@ Al contribuir, acepta la [LICENCIA][license] de este repositorio.
 <a name="contributor-code-of-conduct"></a>
 ## Código de Conducta como Colaborador
 
-Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / otros idiomas][translations-list-link] presente en el repositorio.
+Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / otros idiomas][translations-list-link]) presente en el repositorio.
 
 
 <a name="in-a-nutshell"></a>

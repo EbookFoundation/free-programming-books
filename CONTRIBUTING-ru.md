@@ -245,7 +245,7 @@
 
 - Применение правил форматирования автоматизировано с помощью [GitHub Actions](https://github.com/features/actions) с использованием [fpb-lint](https://github.com/vhf/free-programming-books-lint) (см. [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
 - Для проверки URL используется [awesome_bot](https://github.com/dkhamsing/awesome_bot)
-- Чтобы запустить проверку URL, нажмите фиксацию, которая включает сообщение фиксации, содержащее `check_urls = ссылка_для_проверки`:
+- Чтобы запустить проверку URL, нажмите фиксацию, которая включает сообщение фиксации, содержащее `check_urls=ссылка_для_проверки`:
 
     ```properties
     check_urls=free-programming-books.md free-programming-books-ru.md

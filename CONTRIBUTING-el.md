@@ -241,7 +241,7 @@
 <!----><a name="automation"></a>
 ### Αυτοματισμός
 
-- Η επιβολή των κανόνων μορφοποίησης αυτοματοποιείται από το [GitHub Actions](https://github.com/features/actions) χρησιμοποιώντας [fpb-lint](https://github.com/vhf/free-programming-books-lint) (βλ. [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
+- Η επιβολή των κανόνων μορφοποίησης αυτοματοποιείται από το [GitHub Actions](https://github.com/features/actions) χρησιμοποιώντας [fpb-lint](https://github.com/vhf/free-programming-books-lint) (βλ. [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
 - Η επικύρωση των URL χρησιμοποιεί το [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Για να ενεργοποιήσετε την επικύρωση του URL, κάντε push ένα commit που περιέχει ένα μήνυμα στο οποίο υπάρχει το `check_urls=file_to_check`:
 

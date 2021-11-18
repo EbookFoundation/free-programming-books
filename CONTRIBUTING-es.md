@@ -250,7 +250,7 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 <!----><a name="automation"></a>
 ### Automatización
 
-- El cumplimiento de las reglas de formateado se automatiza vía [GitHub Actions](https://docs.github.com/en/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (ver [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
+- El cumplimiento de las reglas de formateado se automatiza vía [GitHub Actions](https://docs.github.com/en/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (ver [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
 - La validación de URLs se realiza mediante [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Para activar esta validación de URL, envíe un commit que incluya como mensaje de confirmación `check_urls=fichero_a_comprobar`:
 

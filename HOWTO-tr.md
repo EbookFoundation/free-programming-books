@@ -2,12 +2,10 @@ Diğer dillerde okumak için: [Français](HOWTO-fr.md), [Español](HOWTO-es.md),
 Serbest Programlama Kitaplarına Hoş Geldiniz! Github'da ilk çekme talebini yapanlardan olsanız bile Katkıda bulunmak için yeni gelenleri memnuniyetle karşılıyoruz. Eğer onlardan biriyseniz, işte size yardımcı olabilecek bazı kaynaklar:
 
 * [Çekme İstekleri Hakkında](https://help.github.com/articles/about-pull-requests/)
-* [Çekme isteği oluşturma](https://docs.github.com/en/free-pro-
-ekip@latest/github/sorunlarla-ve-çekme-istekleriyle işbirliği/çekme-isteği oluşturma)
+* [Çekme isteği oluşturma](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 * [Github Merhaba Dünya](https://guides.github.com/activities/hello-world/)
 * [Youtube - Yeni Başlayanlar İçin Github Eğitimi](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [Youtube - Bir GitHub Repo Nasıl Çatallanır ve Bir Çekme Talebi Nasıl Gönderilir](https://www.youtube.
-com/watch?v=G1I3HF4YWEw)
+* [Youtube - Bir GitHub Repo Nasıl Çatallanır ve Bir Çekme Talebi Nasıl Gönderilir](https://www.youtube.com/watch?v=G1I3HF4YWEw)
 * [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 

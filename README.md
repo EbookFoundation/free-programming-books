@@ -176,7 +176,7 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
 - Estonian / eesti keel
 - Finnish / suomi / suomen kieli
 - Filipino
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-fil.md)
+  - [Kodigo ng Pag-uugali](docs/CODE_OF_CONDUCT-fil.md)
   - [Contributing](docs/CONTRIBUTING-fil.md)
   - [How-to](docs/HOWTO-fil.md)
 - French / français

@@ -243,7 +243,7 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
 - Turkish / Türkçe
   - [How-to](docs/HOWTO-tr.md)
 - Ukrainian / Українська
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-uk.md)
+  - [Кодекс Поведінки](docs/CODE_OF_CONDUCT-uk.md)
   - [How-to](docs/HOWTO-uk.md)
 - Vietnamese / Tiếng Việt
   - [Đóng Góp](docs/CONTRIBUTING-vi.md)

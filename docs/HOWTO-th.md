@@ -1,4 +1,4 @@
-*[อ่านไฟล์นี้ในภาษาอื่น([translations](../README.md#translations)*
+*[อ่านไฟล์นี้ในภาษาอื่น](../README.md#translations)*
 
 ขอต้อนรับเข้าสู่ Free-Programming-Books! พวกเราขอต้อนรับ contributors ใหม่ทุกคน แม้ว่าคุณพึ่งจะเคยสร้าง pull request เป็นครั้งแรกบน Github หากคุณคือหนึ่งในนั้น ด้านล่างนี้คือแหล่งข้อมูลที่อาจจะเป็นประโยชน์:
 

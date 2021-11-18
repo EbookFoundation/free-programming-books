@@ -193,7 +193,7 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
   - [How-to](docs/HOWTO-el.md)
 - Hebrew / עברית
 - Hindi / हिन्दी
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-hi.md)
+  - [आचार संहिता](docs/CODE_OF_CONDUCT-hi.md)
   - [How-to](docs/HOWTO-hi.md)
 - Hungarian / magyar / magyar nyelv
 - Indonesian / Bahasa Indonesia

@@ -172,7 +172,7 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
 - English
   - [Code of Conduct](docs/CODE_OF_CONDUCT.md)
   - [Contributing](docs/CONTRIBUTING.md)
-  - [How-To](docs/HOWTO.md)
+  - [How-to](docs/HOWTO.md)
 - Estonian / eesti keel
 - Finnish / suomi / suomen kieli
 - Filipino

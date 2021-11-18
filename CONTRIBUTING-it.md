@@ -54,10 +54,10 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](https://git
     - se reindirizzano a edizioni differenti e tu credi che queste edizioni siano abbastanza diverse tra loro da valere la pena di essere tenute, aggiungi un link separato con una nota riguardante ogni edizione (guarda [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) per contribuire alla discussione sulla formattazione).
 - preferisci gli atomic commits (un commit per aggiunta/modifica/eliminazione) rispetto ai grandi commit. Non c'è bisogno di raggruppare i commit per inviarli in una sola PR. (Non applichiamo mai questa regola, è solo per comodità dei moderatori)
 - se il libro è più vecchio, includi la data di pubblicazione assieme al titolo.
-- includi il nome o i nomi degli autori se è il caso. Puoi accorciare il nome degli autori con "et al."
-- se il libro non è ancora finito, e ci stanno ancora lavorando su, aggiungi "in process", come descritto [qui sotto](#in_process). Seleziona sempre l'ultima versione disponibile in questi siti.
-- se una risorsa è archiviata usando la Wayback Machine di Internet Archive (o simili), aggiungi la notazione "archived", come descritto [qui sotto](#archived). La versione migliore da utilizzare è quella più recente/completa.
-- se è richiesto un indirizzo email o un account per poter scaricare il libro, aggiungilo tra parentesi, esempio: `(email address *requested*, not required)`
+- includi il nome o i nomi degli autori se è il caso. Puoi accorciare il nome degli autori con "`et al.`".
+- se il libro non è ancora finito, e ci stanno ancora lavorando su, aggiungi "`in process`", come descritto [qui sotto](#in_process). Seleziona sempre l'ultima versione disponibile in questi siti.
+- se una risorsa è archiviata usando la Wayback Machine di Internet Archive (o simili), aggiungi la notazione "`archived`", come descritto [qui sotto](#archived). La versione migliore da utilizzare è quella più recente/completa.
+- se è richiesto un indirizzo email o un account per poter scaricare il libro, aggiungilo tra parentesi, esempio: `(email address *requested*, not required)`.
 
 
 <!----><a name="formatting"></a>
@@ -164,7 +164,7 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 - Non per mettiamo di rimpicciolire il link con gli appositi strumenti.
 - Il codice di tracciamento deve essere rimosso dall'URL.
 - Gli URL internazionali devono essere evitati. Le barre del browser in genere li rendono in Unicode, ma usa copia e incolla, per favore.
-- I link sicuri (https) sono preferibili al posto dei link non sicuri (http), dove l'https è stato implementato.
+- I link sicuri (`https`) sono preferibili al posto dei link non sicuri (`http`), dove l'HTTPS è stato implementato.
 - Non ci piacciono gli URL che reindirizzano in una pagina che non hosta la risorsa, ma invece reindirizza altrove.
 
 
@@ -173,7 +173,7 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 - Vogliamo dare i crediti agli autori ove appropriato, anche ai traduttori!
 - Per i lavori tradotti, l'autore originale dovrebbe essere incluso.
 - Non permettiamo collegamenti per gli autori.
-- Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" o "RIP Tutorial" sono accreditati come "Compiled from StackOverflow documentation"
+- Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" o "RIP Tutorial" sono accreditati come "`Compiled from StackOverflow documentation`".
 
 
 ##### Piattaforme e note di accesso
@@ -181,7 +181,7 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 - Corsi. Specialmente per la nostra liste dei corsi, la piattaforma è una parte importante della descrizione. Questo perché le varie piattaforme di corsi hanno diverse affordance e metodi di accesso. Mentre solitamente i libri non hanno bisogno di un account per essere letti, molte piattaforme di corsi ne hanno bisogno. Esempi di piattaforme di corsi sono Coursera, EdX, Udacity e Udemy. Quando un corso dipende dalla piattaforma, il suo nome dovrebbe essere incluso tra parentesi.
 - YouTube. Abbiamo molti corsi che consistono in playlist di YouTube. Non consideriamo YouTube come piattaforma, cerchiamo di inserire il creatore del corso, che è spesso una sotto-piattaforma.
 - Video YouTube. Solitamente non accettiamo singoli video YouTube, a meno che non siano più lunghi di un'ora e che siano strutturati come un corso o un tutorial.
-- Leanpub. Leanpub ospita libri con varie modalità di accesso. Alcune volte i libri possono essere letti senza l'obbligo di registrazione; alcune volte è necessario creare un account gratuito su Leanpub. Data la qualità dei libri e la commistione e fluidità dei modelli di accesso Leanpub, consentiamo di elencare questi ultimi con la nota di accesso *(Leanpub account or valid email requested)*
+- Leanpub. Leanpub ospita libri con varie modalità di accesso. Alcune volte i libri possono essere letti senza l'obbligo di registrazione; alcune volte è necessario creare un account gratuito su Leanpub. Data la qualità dei libri e la commistione e fluidità dei modelli di accesso Leanpub, consentiamo di elencare questi ultimi con la nota di accesso `*(Leanpub account or valid email requested)*`.
 
 
 #### Generi

@@ -53,9 +53,9 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
     - s'ils renvoient à des éditions différentes et que vous jugez que ces éditions sont suffisamment différentes pour qu'elles valent la peine d'être conservées, ajoutez un lien séparé avec une note sur chaque édition (voir [Problème #2353](https://github.com/ElivreFoundation/free-programming-livres/issues/2353) pour contribuer à la discussion sur le formatage).
 - préférer les commits atomiques (un commit par ajout/suppression/modification) aux plus gros commits. Pas besoin d'écraser vos commits avant de soumettre un PR. (Nous n'appliquerons jamais cette règle car c'est juste une question de commodité pour les responsables)
 - si le livre est plus ancien, indiquez la date de parution avec le titre.
-- incluez le ou les noms de l'auteur, le cas échéant. Vous pouvez raccourcir les listes d'auteurs avec "et al."
-- si le livre n'est pas terminé, et est toujours en cours de travail, ajoutez la notation "en cours", comme décrit [ci-dessous](#in_process).
-- si une adresse e-mail ou la configuration d'un compte est demandée avant l'activation du téléchargement, ajoutez des notes adaptées à la langue entre parenthèses, par exemple: `(adresse e-mail *demandée*, non obligatoire)`
+- incluez le ou les noms de l'auteur, le cas échéant. Vous pouvez raccourcir les listes d'auteurs avec "`et al.`".
+- si le livre n'est pas terminé, et est toujours en cours de travail, ajoutez la notation "`en cours`", comme décrit [ci-dessous](#in_process).
+- si une adresse e-mail ou la configuration d'un compte est demandée avant l'activation du téléchargement, ajoutez des notes adaptées à la langue entre parenthèses, par exemple: `(adresse e-mail *demandée*, non obligatoire)`.
 
 
 ### Formatage
@@ -155,7 +155,7 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 - Nous n'autorisons pas les URL raccourcies.
 - Les codes de suivi doivent être supprimés de l'URL.
 - Les URL internationales doivent être échappées. Les barres du navigateur les rendent généralement en Unicode, mais utilisez le copier-coller, s'il vous plaît.
-- Les URL sécurisées (https) sont toujours préférées aux URL non sécurisées (http) où https a été implémenté.
+- Les URL sécurisées (`https`) sont toujours préférées aux URL non sécurisées (`http`) où HTTPS a été implémenté.
 - Nous n'aimons pas les URL qui pointent vers des pages Web qui n'hébergent pas la ressource répertoriée, mais pointent plutôt ailleurs.
 
 
@@ -164,7 +164,7 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 - Nous voulons créditer les créateurs de ressources gratuites le cas échéant, y compris les traducteurs !
 - Pour les œuvres traduites, l'auteur original doit être crédité.
 - Nous n'autorisons pas les liens pour les créateurs.
-- Pour les compilations ou les travaux remixés, le "créateur" peut avoir besoin d'une description. Par exemple, les livres "GoalKicker" sont crédités comme "Compilé à partir de la documentation StackOverflow"
+- Pour les compilations ou les travaux remixés, le "créateur" peut avoir besoin d'une description. Par exemple, les livres "GoalKicker" sont crédités comme "`Compilé à partir de la documentation StackOverflow`" (en anglais: `Compiled from StackOverflow documentation`).
 
 
 ##### Plateformes et notes d'accès
@@ -172,7 +172,7 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 - Cours. Surtout pour nos listes de cours, la plateforme est une partie importante de la description de la ressource. En effet, les plates-formes de cours ont des options et des modèles d'accès différents. Bien que nous ne répertoriions généralement pas un livre nécessitant une inscription, de nombreuses plateformes de cours ont des options qui ne fonctionnent pas sans une sorte de compte. Des exemples de plates-formes de cours incluent Coursera, EdX, Udacity et Udemy. Lorsqu'un cours dépend d'une plateforme, le nom de la plate-forme doit être indiqué entre parenthèses.
 - YouTube. Nous avons de nombreux cours qui se composent de listes de lecture YouTube. Nous ne répertorions pas YouTube comme plateforme, nous essayons de répertorier le créateur YouTube, qui est souvent une sous-plateforme.
 - Vidéos YouTube. Nous ne créons généralement pas de liens vers des vidéos YouTube individuelles, sauf si elles durent plus d'une heure et sont structurées comme un cours ou un didacticiel.
-- Leanpub. Leanpub héberge des livres avec une variété de modèles d'accès. Parfois, un livre peut être lu sans inscription ; parfois un livre nécessite un compte Leanpub pour un accès gratuit. Compte tenu de la qualité des livres et du mélange et de la fluidité des modèles d'accès Leanpub, nous autorisons l'inscription de ces derniers avec la note d'accès *(compte Leanpub ou email valide demandé)*
+- Leanpub. Leanpub héberge des livres avec une variété de modèles d'accès. Parfois, un livre peut être lu sans inscription ; parfois un livre nécessite un compte Leanpub pour un accès gratuit. Compte tenu de la qualité des livres et du mélange et de la fluidité des modèles d'accès Leanpub, nous autorisons l'inscription de ces derniers avec la note d'accès `*(compte Leanpub ou email valide demandé)*`.
 
 
 #### Genres

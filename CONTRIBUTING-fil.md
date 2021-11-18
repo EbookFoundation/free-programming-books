@@ -54,10 +54,10 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](ht
     - kung nagli-link ang mga ito sa iba't ibang mga edisyon, at hinuhusgahan mo na ang mga edisyong ito ay sapat na naiiba upang maging sulit na panatilihin ang mga ito, magdagdag ng hiwalay na link na may tala tungkol sa bawat edisyon (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) upang mag-ambag sa talakayan sa pag-format).
 - mas gusto ang atomic commit (one commit by addition/deletion/modification) higit sa mas malalaking commit. Hindi na kailangang i-squash ang iyong mga commit bago magsumite ng PR. (Hindi namin kailanman ipapatupad ang panuntunang ito dahil ito ay isang bagay lamang ng kaginhawahan para sa mga nagpapanatili)
 - kung mas luma ang aklat, isama ang petsa ng publikasyon na may pamagat.
-- isama ang pangalan ng may-akda o mga pangalan kung saan naaangkop. Maaari mong paikliin ang mga listahan ng may-akda gamit ang "`et al.`"
-- kung ang aklat ay hindi pa tapos, at ginagawa pa rin, idagdag ang "in process" notation, gaya ng inilarawan [below](#in_process).
-- kung ang isang mapagkukunan ay naibalik gamit ang Wayback Machine ng Internet Archive (o katulad), idagdag ang "naka-archive" na notation, tulad ng inilarawan [below](#archived). Ang pinakamahusay na mga bersyon na gagamitin ay bago at kumpleto.
-- kung humiling ng email address o pag-setup ng account bago i-enable ang pag-download, magdagdag ng mga tala na naaangkop sa wika sa mga panaklong, hal.: `(email address *requested*, not required)`
+- isama ang pangalan ng may-akda o mga pangalan kung saan naaangkop. Maaari mong paikliin ang mga listahan ng may-akda gamit ang "`et al.`".
+- kung ang aklat ay hindi pa tapos, at ginagawa pa rin, idagdag ang "`in process`" notation, gaya ng inilarawan [below](#in_process).
+- kung ang isang mapagkukunan ay naibalik gamit ang Wayback Machine ng Internet Archive (o katulad), idagdag ang "`naka-archive`" na notation, tulad ng inilarawan [below](#archived). Ang pinakamahusay na mga bersyon na gagamitin ay bago at kumpleto.
+- kung humiling ng email address o pag-setup ng account bago i-enable ang pag-download, magdagdag ng mga tala na naaangkop sa wika sa mga panaklong, hal.: `(email address *requested*, not required)`.
 
 
 <!----><a name="formatting"></a>
@@ -164,7 +164,7 @@ Nagbibigay ang aming mga listahan ng kaunting hanay ng metadata: mga pamagat, UR
 - Hindi namin pinahihintulutan ang mga pinaikling URL.
 - Dapat alisin ang mga tracking code sa URL.
 - Dapat na i-escape ang mga internasyonal na URL. Karaniwang nire-render ito ng mga browser bar sa Unicode, ngunit gumamit ng kopya at i-paste.
-- Ang mga Secure (https) na URL ay palaging mas gusto kaysa sa mga hindi secure na (http) na mga url kung saan ipinatupad ang https.
+- Ang mga Secure (`https`) na URL ay palaging mas gusto kaysa sa mga hindi secure na (`http`) na mga url kung saan ipinatupad ang HTTPS.
 - Hindi namin gusto ang mga URL na tumuturo sa mga webpage na hindi nagho-host ng nakalistang mapagkukunan, ngunit sa halip ay tumuturo sa ibang lugar.
 
 
@@ -173,7 +173,7 @@ Nagbibigay ang aming mga listahan ng kaunting hanay ng metadata: mga pamagat, UR
 - Gusto naming pasalamatan ang mga lumikha ng mga libreng mapagkukunan kung saan naaangkop, kabilang ang mga tagasalin!
 - Para sa mga isinaling gawa ang orihinal na may-akda ay dapat na kredito.
 - Hindi namin pinahihintulutan ang mga link para sa Mga Tagalikha.
-- Para sa compilation o remixed na mga gawa, maaaring kailanganin ng "creator" ang isang paglalarawan. Halimbawa, ang mga aklat na "GoalKicker" o "RIP Tutorial" ay kinikilala bilang "`Compiled from StackOverflow Documentation`"
+- Para sa compilation o remixed na mga gawa, maaaring kailanganin ng "creator" ang isang paglalarawan. Halimbawa, ang mga aklat na "GoalKicker" o "RIP Tutorial" ay kinikilala bilang "`Compiled from StackOverflow Documentation`".
 
 
 ##### Mga Platform at Mga Tala sa Pag-access
@@ -181,7 +181,7 @@ Nagbibigay ang aming mga listahan ng kaunting hanay ng metadata: mga pamagat, UR
 - Kurso. Lalo na para sa aming mga listahan ng kurso, ang platform ay isang mahalagang bahagi ng paglalarawan ng mapagkukunan. Ito ay dahil ang mga platform ng kurso ay may iba't ibang mga affordance at mga modelo ng pag-access. Bagama't karaniwang hindi namin ilista ang isang aklat na nangangailangan ng pagpaparehistro, maraming mga platform ng kurso ang may mga affordance na hindi gumagana nang walang isang uri ng account. Kasama sa mga halimbawang platform ng kurso ang Coursera, EdX, Udacity, at Udemy. Kapag ang isang kurso ay nakasalalay sa isang platform, ang pangalan ng platform ay dapat na nakalista sa mga panaklong.
 - YouTube. Marami kaming mga kurso na binubuo ng mga playlist sa YouTube. Hindi namin inilista ang YouTube bilang isang platform, sinusubukan naming ilista ang tagalikha ng YouTube, na kadalasan ay isang sub-platform.
 - Mga video ng YouTube. Karaniwang hindi kami nagli-link sa mga indibidwal na video sa YouTube maliban kung ang mga ito ay higit sa isang oras ang haba at nakabalangkas tulad ng isang kurso o isang tutorial.
-- Leanpub. Nagho-host ang Leanpub ng mga aklat na may iba't ibang modelo ng access. Minsan ang isang libro ay maaaring basahin nang walang pagpaparehistro; minsan ang isang libro ay nangangailangan ng isang Leanpub account para sa libreng pag-access. Dahil sa kalidad ng mga aklat at ang pinaghalong mga modelo ng pag-access sa Leanpub, pinahihintulutan namin ang paglilista ng huli kasama ang tala sa pag-access `*(Leanpub account o valid na email ang hinihiling)*`
+- Leanpub. Nagho-host ang Leanpub ng mga aklat na may iba't ibang modelo ng access. Minsan ang isang libro ay maaaring basahin nang walang pagpaparehistro; minsan ang isang libro ay nangangailangan ng isang Leanpub account para sa libreng pag-access. Dahil sa kalidad ng mga aklat at ang pinaghalong mga modelo ng pag-access sa Leanpub, pinahihintulutan namin ang paglilista ng huli kasama ang tala sa pag-access `*(Leanpub account o valid na email ang hinihiling)*`.
 
 
 #### Mga genre

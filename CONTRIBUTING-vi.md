@@ -63,9 +63,9 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](h
     - nếu chúng liên kết đến các ấn bản khác nhau và bạn đánh giá các ấn bản này đủ khác nhau để có giá trị giữ chúng, hãy thêm một ghi chú riêng về từng ấn bản (xem [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) để đóng góp vào cuộc thảo luận về định dạng).
 - ưu tiên các commit nhỏ (atomic commits - một commit chỉ có thêm, xóa hoặc sửa) hơn các commit lớn. Không cần phải giấu các commits của bạn trước khi gửi PR. (Chúng tôi sẽ không bao giờ thực thi những thứ này vì nó thuận tiện sau này cho người bảo trì)
 - nếu sách cũ, hãy bao gồm ngày xuất bản cùng với tên sách.
-- bao gồm tên tác giả hoặc tên nếu thích hợp. Bạn có thể rút ngắn danh sách tác giả với "et al."
-- nếu cuốn sách chưa hoàn thành và vẫn đang được hoàn thiện, hãy thêm ký hiệu "đang xử lý", như được mô tả [dưới đây](#in_process).
-- nếu địa chỉ email hoặc thiết lập tài khoản được yêu cầu trước khi kích hoạt tải xuống, hãy thêm ghi chú phù hợp với ngôn ngữ trong ngoặc đơn, ví dụ: `(địa chỉ email *được yêu cầu*, không bắt buộc)`
+- bao gồm tên tác giả hoặc tên nếu thích hợp. Bạn có thể rút ngắn danh sách tác giả với "`et al.`".
+- nếu cuốn sách chưa hoàn thành và vẫn đang được hoàn thiện, hãy thêm ký hiệu "`đang xử lý`", như được mô tả [dưới đây](#in_process).
+- nếu địa chỉ email hoặc thiết lập tài khoản được yêu cầu trước khi kích hoạt tải xuống, hãy thêm ghi chú phù hợp với ngôn ngữ trong ngoặc đơn, ví dụ: `(địa chỉ email *được yêu cầu*, không bắt buộc)`.
 
 
 ### Định Dạng
@@ -165,7 +165,7 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 - Chúng tôi không cho phép các liên kết rút gọn.
 - Mã theo dõi phải được xóa khỏi liên kết.
 - Liên kết quốc tế phải được thoát. Các thanh trình duyệt thường hiển thị chúng thành Unicode, nhưng vui lòng sử dụng sao chép và dán.
-- Các liên kết an toàn (https) luôn được ưu tiên hơn các liên kết không an toàn (http) nơi https đã được triển khai.
+- Các liên kết an toàn (`https`) luôn được ưu tiên hơn các liên kết không an toàn (``http`) nơi HTTPS đã được triển khai.
 - Chúng tôi không thích các liên kết trỏ đến các trang web không lưu trữ tài liệu được liệt kê, mà thay vào đó trỏ đến nơi khác.
 
 
@@ -174,7 +174,7 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 - Chúng tôi muốn ghi công những người tạo ra các tài liệu miễn phí nếu thích hợp, bao gồm cả những người dịch!
 - Đối với các tác phẩm đã dịch, tác giả gốc nên được ghi công.
 - Chúng tôi không cho phép liên kết bởi Người sáng tạo.
-- Đối với các tác phẩm tổng hợp hoặc phối lại, "người sáng tạo" có thể cần mô tả. Ví dụ: sách "GoalKicker" được ghi là "Được tổng hợp từ tài liệu StackOverflow"
+- Đối với các tác phẩm tổng hợp hoặc phối lại, "người sáng tạo" có thể cần mô tả. Ví dụ: sách "GoalKicker" được ghi là "`Được tổng hợp từ tài liệu StackOverflow`" (bằng tiếng anh: "`Compiled from StackOverflow documentation`").
 
 
 ##### Nền Tảng và Ghi Chú Truy Cập
@@ -182,7 +182,7 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 - Các khóa học. Đặc biệt đối với danh sách khóa học của chúng tôi, nền tảng là một phần quan trọng của mô tả tài liệu. Điều này là do các khóa học nền tảng có khả năng chi trả và mô hình truy cập khác nhau. Mặc dù chúng tôi thường không liệt kê một cuốn sách yêu cầu đăng ký, nhưng nhiều nền tảng khóa học có khả năng không hoạt động nếu không có một số loại tài khoản. Các nền tảng khóa học ví dụ bao gồm Coursera, EdX, Udacity và Udemy. Khi một khóa học phụ thuộc vào một nền tảng, tên nền tảng phải được liệt kê trong ngoặc đơn.
 - YouTube. Chúng tôi có nhiều khóa học bao gồm các danh sách phát trên YouTube. Chúng tôi không cho rằng YouTube như một nền tảng, chúng tôi cố gắng liệt kê người sáng tạo nội dung trên YouTube, thường là một nền tảng phụ.
 - Video trên YouTube. Chúng tôi thường không có các liên kết đến các video YouTube riêng lẻ trừ khi chúng dài hơn một giờ và có cấu trúc giống như một khóa học hoặc một hướng dẫn.
-- Leanpub. Leanpub lưu trữ sách với nhiều mô hình truy cập. Đôi khi một cuốn sách có thể được đọc mà không cần đăng ký; đôi khi một cuốn sách yêu cầu tài khoản Leanpub để được truy cập miễn phí. Do chất lượng của sách và sự hỗn hợp và tính linh hoạt của các mô hình truy cập Leanpub, chúng tôi cho phép liệt kê mô hình sau cùng với ghi chú truy cập *(yêu cầu tài khoản Leanpub hoặc email hợp lệ)*
+- Leanpub. Leanpub lưu trữ sách với nhiều mô hình truy cập. Đôi khi một cuốn sách có thể được đọc mà không cần đăng ký; đôi khi một cuốn sách yêu cầu tài khoản Leanpub để được truy cập miễn phí. Do chất lượng của sách và sự hỗn hợp và tính linh hoạt của các mô hình truy cập Leanpub, chúng tôi cho phép liệt kê mô hình sau cùng với ghi chú truy cập `*(yêu cầu tài khoản Leanpub hoặc email hợp lệ)*`.
 
 
 #### Thể Loại

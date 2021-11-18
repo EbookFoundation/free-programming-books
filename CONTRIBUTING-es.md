@@ -54,11 +54,11 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] presente en el repo
 - Si existe un mismo enlace con varios formatos, anexe enlaces aparte con una nota sobre cada formato.
 - Si un recurso existe en diferentes lugares de Internet:
     - Use aquella fuente más fidedigna (lo que significa que el sitio web del propio autor es más asequible que el sitio web del editor y a su vez éste es mejor que una fuente de terceros).
-    - Si apuntan a diferentes ediciones y considera que estas ediciones son lo suficientemente dispares como para que valga la pena conservarlas, agregue por separado un nuevo enlace haciendo alusión a cada edición. Diríjase al [Issue \#2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) si desea contribuir en la discusión acerca del formateo que deben seguir dichos registros.
+    - Si apuntan a diferentes ediciones y considera que estas ediciones son lo suficientemente dispares como para que valga la pena conservarlas, agregue por separado un nuevo enlace haciendo alusión a cada edición. Diríjase al [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) si desea contribuir en la discusión acerca del formateo que deben seguir dichos registros.
 - Es preferible realizar commits atómicos (un commit por cada adición/eliminación/modificación) frente a unos con mayor calado. No es necesario realizar un squash de todos ellos antes de enviar una PR. (Nunca aplicaremos esta regla, ya que solamente es una cuestión de conveniencia para quien mantiene el proyecto).
 - Si se trata de un libro más antiguo, incluya su fecha de publicación dentro del título.
 - Incluya el nombre o nombres de autor/es cuando corresponda. Puede valerse de "`et al.`" para acortar esa enumeración de autores.
-- Si el libro no está terminado y aún se está trabajando en él, agregue la anotación de "`en proceso`", tal y como se describe [a continuación][in_process].
+- Si el libro no está terminado y aún se está trabajando en él, agregue la anotación de "`in process`", tal y como se describe [a continuación][in_process].
 - En el caso de que decida recuperar un recurso usando servicios como [*Internet Archive's Wayback Machine*](https://web.archive.org), anexe la anotación "`archived`" (en consonancia con el idioma) tal y como se describe [a continuación][archived]. Use como mejor versión aquella que sea la más reciente y completa.
 - Si se solicita una dirección de correo electrónico o configuración de cuenta antes de habilitar la descarga, agregue entre paréntesis dichas notas y en consonancia con el idioma. Por ejemplo: `(*se solicita* email, no requerido...)`.
 
@@ -171,7 +171,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 - No se permiten acortadores de URLs para los enlaces.
 - Los parámetros de consulta o códigos referentes al seguimiento o campañas de marketing deben eliminarse de la URL.
 - Las URL internacionales deben escaparse. Las barras del navegador suelen representar los caracteres en Unicode, pero utilice copiar y pegar, por favor; es la forma más rápida de construir un hipervínculo válido.
-- Las URL seguras (https) siempre son mejor opción frente a las no seguras (http) donde se ha implementado el protocolo de comunicación encriptado HTTPS.
+- Las URL seguras (`https`) siempre son mejor opción frente a las no seguras (`http`) donde se ha implementado el protocolo de comunicación encriptado HTTPS.
 - No nos gustan las URL que apuntan a páginas web que no alojen el recurso mencionado, enlazando por el contrario a otra parte.
 
 

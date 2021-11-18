@@ -53,9 +53,9 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://gith
     - wenn sie verschiedene Ausgaben verlinken und Du der Meinung bist, dass sich diese Ausgaben in einem Maße unterscheiden, dass man alle aufheben sollte, füge einen separaten Link hinzu mit einem Hinweis zu jeder Ausgabe (siehe [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353), um Dich an der Diskussion zur Formatierung zu beteiligen).
 - Bevorzuge atomare Commits (ein Commit pro Änderung), anstatt größere Commits zu machen. Es besteht keine Notwendigkeit, die Commits vor dem Abschicken des PR zu squashen. (Wir werden die Befolgung dieser Regel niemals erzwingen, da es sich hier nur um die Vermeidung von Unannehmlichkeiten für die Maintainer handelt)
 - Vermerke das Datum der Veröffentlichung im Titel, wenn es sich um ein älteres Buch handelt.
-- Erfasse gegebenenfalls den Namen des oder der Autoren. Eine längere Liste von Autoren kann mit dem Zusatz "et al." gekürzt werden.
-- Wenn das Buch noch nicht fertiggestellt ist und sich noch in Bearbeitung befindet, füge wie [unten](#in_process) beschrieben einen "in Bearbeitung" Hinweis hinzu.
-- Wenn eine funktionierende E-Mail Adresse oder das Einrichten eines Benutzerkontos vor Aktivierung des Downloads erbeten wird, sollten angemessene Hinweise in Klammern angegeben werden, z.&nbsp;B.: `(E-Mail Adresse *erbeten*, nicht erforderlich)`
+- Erfasse gegebenenfalls den Namen des oder der Autoren. Eine längere Liste von Autoren kann mit dem Zusatz "`et al.`" gekürzt werden.
+- Wenn das Buch noch nicht fertiggestellt ist und sich noch in Bearbeitung befindet, füge wie [unten](#in_process) beschrieben einen "`in process`" Hinweis hinzu.
+- Wenn eine funktionierende E-Mail Adresse oder das Einrichten eines Benutzerkontos vor Aktivierung des Downloads erbeten wird, sollten angemessene Hinweise in Klammern angegeben werden, z.&nbsp;B.: `(E-Mail Adresse *erbeten*, nicht erforderlich)`.
 
 
 ### Formatierung
@@ -155,7 +155,7 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 - Wir erlauben keine gekürzten URLs.
 - Sämtliche Tracking-Codes sind aus der URL zu entfernen.
 - Internationale URLs sollten entsprechend maskiert/escaped werden. Auch wenn Adressleisten in Browsern diese üblicherweise in Unicode darstellen, nutze bitte kopieren & einfügen.
-- Sichere (https) URLs werden immer nicht-sicheren (http) URLs vorgezogen, wenn von der Quelle https implementiert wurde.
+- Sichere (`https`) URLs werden immer nicht-sicheren (`http`) URLs vorgezogen, wenn von der Quelle HTTPS implementiert wurde.
 - Wir mögen keine URLs, die auf Webseiten zeigen, die den angegebenen Inhalt nicht bereitstellen, sondern stattdessen an andere Stelle umleiten.
 
 
@@ -164,7 +164,7 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 - Wir wollen alle Urheber kostenloser Inhalte angemessen nennen, inklusive eventueller Übersetzer!
 - For übersetzte Werke sollte der Autor des ursprünglichen Werks genannt werden.
 - Wir erlauben keine Links für Urheber.
-- Für Sammlungen oder neu zusammengestellte Werke, benötigt der "Urheber" eventuell eine Beschreibung. Bücher von "GoalKicker" werden z.&nbsp;B. als "Zusammengestellt aus StackOverflow Dokumentationen" gekennzeichnet.
+- Für Sammlungen oder neu zusammengestellte Werke, benötigt der "Urheber" eventuell eine Beschreibung. Bücher von "GoalKicker" werden z.&nbsp;B. als "`Zusammengestellt aus StackOverflow Dokumentationen`" (auf englisch: "`Compiled from StackOverflow documentation`") gekennzeichnet.
 
 
 ##### Plattformen und Zugriffshinweise
@@ -172,7 +172,7 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 - Kurse. Insbesondere bei unseren Kurslisten spielt die Plattform eine wichtige Rolle in der Beschreibung des Inhalts. Der Grund dafür ist, dass Kurs-Plattformen unterschiedliche Zugangsmodelle und Angebotscharakter haben. Obwohl wir keine Bücher aufnehmen, die eine Registrierung erfordern, können viele Kurs-Plattformen ohne irgendeine Art der Registrierung nicht funktionieren. Beispiele für Kurs-Plattformen sind Coursera, EdX, Udacity und Udemy. Wenn ein Kurs von einer bestimmten Plattform abhängt, sollte der Name der Plattform in Klammern angehängt werden.
 - YouTube. Wir haben viele Kurse in Form von YouTube Wiedergabelisten. Wir führen YouTube nicht als Plattform auf, sondern versuchen den Urheber des Kurses zu nennen, der oftmals eine Unter-Plattform darstellt.
 - YouTube Videos. Wir verlinken normalerweise keine einzelnen YouTube Videos. Ausnahmen bilden Videos von mehr als einer Stunde Länge, die wie ein Kurs oder Tutorial strukturiert sind.
-- Leanpub. Leanpub beherbergt Bücher mit einer Vielzahl von Zugangsmodellen. Manchmal kann ein Buch ohne Registrierung gelesen werden; in anderen Fällen wird ein Leanpub Konto für einen kostenfreien Zugang benötigt. Aufgrund der Qualität der Bücher und der unterschiedlichen und fließenden Zugangsmodelle erlauben wir die Aufnahme letzterer, wenn sie mit dem Zugriffshinweis *(Leanpub Konto oder gültige E-Mail angefordert)* versehen sind.
+- Leanpub. Leanpub beherbergt Bücher mit einer Vielzahl von Zugangsmodellen. Manchmal kann ein Buch ohne Registrierung gelesen werden; in anderen Fällen wird ein Leanpub Konto für einen kostenfreien Zugang benötigt. Aufgrund der Qualität der Bücher und der unterschiedlichen und fließenden Zugangsmodelle erlauben wir die Aufnahme letzterer, wenn sie mit dem Zugriffshinweis `*(Leanpub Konto oder gültige E-Mail angefordert)*` versehen sind.
 
 
 #### Genre

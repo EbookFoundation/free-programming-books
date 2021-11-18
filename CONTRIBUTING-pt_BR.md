@@ -53,8 +53,8 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.
     - se eles referenciam diferentes edições, e você julgar que essas edições são diferentes o bastante para mantê-las, adicione um _link_ separado com uma observação para cada edição (veja [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir com a discussão sobre formatação).
 - prefira _commits_ atômicos (um _commit_ para cada adição/deleção/modificação) ao invés de _commits_ maiores. Não é necessário fazer o _squash_ de seus _commits_ antes de submeter um PR. Nunca iremos impor esta regra dado que é apenas uma questão de conveniência para os mantenedores).
 - se o livro for mais antigo, inclua a data de publicação no título.
-- inclua o(s) nome(s) do(s) autor(es) onde for apropriado. Você pode encurtar a lista de autores com "et al".
-- se o livro não estiver completo, e ainda está sendo escrito, adicione a notação "em processo", como descrito [abaixo](#in_process).
+- inclua o(s) nome(s) do(s) autor(es) onde for apropriado. Você pode encurtar a lista de autores com "`et al`".
+- se o livro não estiver completo, e ainda está sendo escrito, adicione a notação "`in process`", como descrito [abaixo](#in_process).
 - se um endereço de email ou configuração de conta for solicitado antes que o _download_ seja habilitado, adicione uma observação no idioma apropriado e entre parênteses. Por exemplo: `(endereço de email é *pedido*, não obrigatório)`.
 
 
@@ -155,7 +155,7 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 - Não permitimos encurtadores de URLs.
 - Códigos de rastreamento devem ser removidos da URL.
 - URLs internacionais devem ser escapadas. Barras de endereço dos navegadores normalmente renderizam eles em Unicode, mas use copiar e colar, por favor.
-- URLs seguras (https) sempre são preferidas no lugar de URLs não-seguras (http) quando https estiver disponível.
+- URLs seguras (`https`) sempre são preferidas no lugar de URLs não-seguras (`http`) quando HTTPS estiver disponível.
 - Não gostamos de URLs que apontam para páginas que não hospedam o material listado, mas apontam para outro lugar.
 
 
@@ -164,7 +164,7 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 - Queremos creditar os criadores do material gratuito apropriadamente, incluindo tradutores!
 - Para trabalhos traduzidos, o autor original deve ser creditado.
 - Não permitimos _links_ para Criadores.
-- Para compilações ou trabalhos remixados, o "criador" pode precisar de uma descrição. Por exemplo, os livros "GoalKicker" são creditados como "Compilado da documento do StackOverflow"
+- Para compilações ou trabalhos remixados, o "criador" pode precisar de uma descrição. Por exemplo, os livros "GoalKicker" são creditados como "`Compilado da documento do StackOverflow`" (em inglês: "`Compiled from StackOverflow documentation`").
 
 
 ##### Plataforma e Notas de Acesso
@@ -172,7 +172,7 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 - Cursos. Especificamente para nossa lista de cursos, a plataforma é uma parte importante da descrição do material. Isso acontece pois plataformas de cursos possuem _affordances_ e modelos de acesso diferentes. Normalmente não listamos um livro que requer um cadastro, muitas plataformas de cursos possuem _affordances_ que não funcionam sem algum tipo de conta. Exemplos de plataformas de cursos incluem Coursera, EdX, Udacity, e Udemy. Quando o curso depende da plataforma, o nome da plataforma deve ser listado em parênteses.
 - YouTube. Temos muitos cursos que consistem em _playlists_ do YouTube. Não listamos YouTube como uma plataforma, tentamos listar o criador no YouTube, que normalmente é uma subplataforma.
 - Vídeos do YouTube. Normalmente não usamos vídeos do YouTube individuais a não ser que tenham mais de uma hora e sejam estruturados como um curso ou tutorial.
-- Leanpub. Leanpub hospeda livros com uma variedade de modelos de acesso. Algumas vezes, um livro pode ser lido sem necessidade de registro; algumas vezes um livro requer uma conta Leanpub para acesso gratuito. Dada a qualidade dos livros e a mistura e fluidez dos modelos de acesso do Leanpub, permitimos a listagem deste com uma observação de acesso *(Conta Leanpub ou email válido solicitado)*
+- Leanpub. Leanpub hospeda livros com uma variedade de modelos de acesso. Algumas vezes, um livro pode ser lido sem necessidade de registro; algumas vezes um livro requer uma conta Leanpub para acesso gratuito. Dada a qualidade dos livros e a mistura e fluidez dos modelos de acesso do Leanpub, permitimos a listagem deste com uma observação de acesso `*(Conta Leanpub ou email válido solicitado)*`.
 
 
 #### Gêneros

@@ -163,7 +163,7 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
 - Chinese / 中文
   - [Contributing](docs/CONTRIBUTING-zh.md)
   - [How-to](docs/HOWTO-zh.md)
-- Chinese / 繁體中文]
+- Chinese (traditional) / 繁體中文
   - [Contributing](docs/CONTRIBUTING-zh_TW.md)
   - [How-to](docs/HOWTO-zh_TW.md)
 - Czech / čeština / český jazyk

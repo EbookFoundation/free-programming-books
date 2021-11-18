@@ -11,6 +11,7 @@
 * [Dart](#dart)
 * [Flutter](#flutter)
 * [Git](#git)
+* [Go](#go)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -26,7 +27,6 @@
 * [ReactJS](#reactjs)
 * [Svelte](#svelte)
 * [TypeScript](#typescript)
-* [Golang](#golang)
 * [Visual Studio Code](#visual-studio-code)
 
 
@@ -92,6 +92,11 @@
 * [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s) - Learn with Sumit
 * [Git and Github in One Video (Theory + Practical) | A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA&t=787s) - SHAJ.T3CH
 * [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF) - Stack Learner
+
+
+### Golang
+
+* [Golang Coding bootcamp](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - Master Academy
 
 
 ### HTML
@@ -195,9 +200,6 @@
 
 * [TypeScript: All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCzmP8m2l_h8PnVTSvcnJWO) - Stack Learner
 
-### Golang
-
-* [Golang Coding bootcamp](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - Master Academy
 
 ### Visual Studio Code
 

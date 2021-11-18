@@ -1,4 +1,4 @@
-*[Lea esto en otros idiomas](../README.md#translations)*
+*[Lea esto en otros idiomas][translations-list-link]*
 
 <a name="contributor-license-agreement"></a>
 ## Acuerdo de Licencia
@@ -9,7 +9,7 @@ Al contribuir, acepta la [LICENCIA][license] de este repositorio.
 <a name="contributor-code-of-conduct"></a>
 ## Código de Conducta como Colaborador
 
-Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / otros idiomas](../README.md#translations)) presente en el repositorio.
+Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / otros idiomas][translations-list-link] presente en el repositorio.
 
 
 <a name="in-a-nutshell"></a>
@@ -250,6 +250,7 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 
 [license]: ../LICENSE
 [coc]: CODE_OF_CONDUCT-es.md
+[translations-list-link]: ../README.md#translations
 [issues]: https://github.com/EbookFoundation/free-programming-books/issues
 [formatting]: #formato-normalizado
 [guidelines]: #pautas

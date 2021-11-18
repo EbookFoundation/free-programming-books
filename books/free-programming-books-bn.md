@@ -96,7 +96,7 @@
 
 ### Golang
 
-* [Golang Coding bootcamp](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - Master Academy
+* [Golang কোডিং বুট ক্যাম্প ক্লাস](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - MASTER-ACADEMY
 
 
 ### HTML

@@ -4,7 +4,7 @@
 Durch Deine Mitwirkung akzeptierst Du die [Lizenz](../LICENSE) dieses Repositorys.
 
 ## Verhaltenskodex für Mitwirkende
-Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](../CODE_OF_CONDUCT-de.md) dieses Repositorys zu folgen. ([translations](../README.md#translations))
+Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_CONDUCT-de.md) dieses Repositorys zu folgen. ([translations](../README.md#translations))
 
 ## Kurzfassung
 1. „Ein Link, um ein Buch auf einfache Weise herunterzuladen“ ist nicht immer ein Link zu einem *kostenlosen* Buch. Bitte füge nur kostenlose Inhalte hinzu. Vergewissere Dich, dass sie kostenlos sind. Wir akzeptieren keine Links zu Seiten, die *voraussetzen*, dass man sich mit einer funktionierenden E-Mail-Adresse registriert, um ein Buch herunterzuladen, aber wir heißen Seiten willkommen, die um (optionale) Eingaben von E-Mail-Adressen bitten.

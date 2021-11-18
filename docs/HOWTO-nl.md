@@ -5,9 +5,9 @@ Welkom bij Free-Programming-Books! We verwelkomen nieuwe bijdragers; zelfs degen
 * [:us: Over pull-verzoeken](https://help.github.com/articles/about-pull-requests/) *(in engels)*
 * [:us: Een pull-verzoek maken](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(in engels)*
 * [:us: Github Hallo Wereld](https://guides.github.com/activities/hello-world/) *(in engels)*
-* [:en: Youtube - Github-zelfstudie voor beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in engels)*
-* [:en: Youtube - Hoe een GitHub-repo te forken en een pull-verzoek in te dienen](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in engels)*
-* [:en: Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in engels)*
+* [:us: Youtube - Github-zelfstudie voor beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in engels)*
+* [:us: Youtube - Hoe een GitHub-repo te forken en een pull-verzoek in te dienen](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in engels)*
+* [:us: Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in engels)*
 
 
 Aarzel niet om vragen te stellen; elke bijdrager begon met een eerste PR. Je zou onze duizendste kunnen zijn!

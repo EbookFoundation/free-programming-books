@@ -156,7 +156,6 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
 - Bengali / বাংলা
   - [How-to](docs/HOWTO-bn.md)
 - Bosnian / bosanski jezik
-  - [Code of Conduct](docs/CODE_OF_CONDUCT.md)
   - [How-to](docs/HOWTO-bs.md)
 - Bulgarian / български
 - Burmese / မြန်မာဘာသာ

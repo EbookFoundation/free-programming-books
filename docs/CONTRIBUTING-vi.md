@@ -1,4 +1,4 @@
-*[Đọc bằng ngôn ngữ khác: ](../README.md#translations)*
+*[Đọc bằng ngôn ngữ khác](../README.md#translations)*
 
 Bản dịch Tiếng Việt:
 

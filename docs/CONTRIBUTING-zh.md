@@ -1,4 +1,4 @@
-*[阅读本文的其他语言版本：](../README.md#translations)**
+*[阅读本文的其他语言版本](../README.md#translations)*
 
 
 ## 贡献者许可协议

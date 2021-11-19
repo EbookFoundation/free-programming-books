@@ -26,8 +26,8 @@
 
 ### Python
 
-* [Pythontutor](https://pythontutor.ru)
 * [CodeCombat - игры с программированием для изучения Python и JavaScript](http://codecombat.com)
+* [Pythontutor](https://pythontutor.ru)
 
 
 ### SQL

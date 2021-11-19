@@ -1,4 +1,4 @@
-*[閱讀其他語言版本的文件：](../README.md#translations)*
+*[閱讀其他語言版本的文件](../README.md#translations)*
 
 
 ## 貢獻者許可協議

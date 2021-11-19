@@ -8,7 +8,7 @@
 
 ## 貢獻者行為準則
 
-請同意並遵循此 [行為準則](../CODE_OF_CONDUCT.md) 參與貢獻。([translations](../README.md#translations))
+請同意並遵循此 [行為準則](CODE_OF_CONDUCT.md) 參與貢獻。([translations](../README.md#translations))
 
 
 ## 概要

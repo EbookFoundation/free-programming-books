@@ -1,4 +1,4 @@
-*[Leia em outros idiomas: ](../README.md#translations)*
+*[Leia em outros idiomas](../README.md#translations)*
 
 ## Acordo de Licença do Contribuidor
 Ao contribuir você concorda com a [LICENSE](../LICENSE) deste repositório.

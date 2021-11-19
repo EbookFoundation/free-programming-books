@@ -1,7 +1,8 @@
-### Index
+﻿### Index
 
 * [Веб-разработка](#Веб-разработка)
 * [Git](#git)
+* [JavaScript](#javascript)
 * [Python](#Python)
 * [SQL](#SQL)
 
@@ -17,10 +18,15 @@
 * [Интерактивное обучение работе с git](https://githowto.com/ru)
 * [Обучение git при помощи визуализации](https://learngitbranching.js.org/?locale=ru_RU)
 
+### JavaScript
+
+* [CodeCombat - игры с программированием для изучения Python и JavaScript](http://codecombat.com)
+
 
 ### Python
 
 * [Pythontutor](https://pythontutor.ru)
+* [CodeCombat - игры с программированием для изучения Python и JavaScript](http://codecombat.com)
 
 
 ### SQL

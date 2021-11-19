@@ -1,4 +1,4 @@
-### Cодержание
+﻿### Cодержание
 
 * [Дизайн и Aрхитектура](#design-architecture)
 * [C++](#cpp)
@@ -148,6 +148,9 @@ ADV - Продвинутый. Тонкости.
 ### Python
 
 * [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) - Stepik (INT)
+* [Добрый, добрый Python - обучающий курс от Сергея Балакирева](https://stepik.org/course/100707) - Stepik (BEG)
+* [Инди-курс программирования на Python от egoroff_channel](https://stepik.org/course/63085) - Stepik (BEG)
+* [ООП на Python от egoroff_channel](https://stepik.org/course/72969) - Stepik (BEG)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
 * [Питонтьютор: Бесплатный курс по программированию с нуля](https://pythontutor.ru) - Виталий Павленко, Владимир Соломатин, Д. П. Кириенко, команда Pythontutor (BEG)
 * ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) - Stepik (BEG)

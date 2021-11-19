@@ -4,7 +4,7 @@
 Ao contribuir você concorda com a [LICENSE](../LICENSE) deste repositório.
 
 ## Código de Conduta do Contribuidor
-Ao contribuir você concorda em respeitar o [Código de Conduta](../CODE_OF_CONDUCT-pt_BR.md) deste repositório. ([translations](../README.md#translations))
+Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT-pt_BR.md) deste repositório. ([translations](../README.md#translations))
 
 ## Em poucas palavras
 1. "Um _link_ para baixar um livro facilmente" nem sempre é um _link_ para um livro *gratuito*. Por favor contribua apenas com conteúdo gratuito. Certifique-se de que é grátis. Não são aceitos _links_ para páginas que *requerem* um endereço de email para obter livros, mas aceitamos listas que requerem.

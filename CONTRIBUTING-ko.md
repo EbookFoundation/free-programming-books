@@ -1,10 +1,10 @@
 *이 문서를 다른 언어로 보시려면: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [English](CONTRIBUTING.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md).*
 
 ## 기여자 라이선스 동의서
-이 프로젝트의 기여자들은 리포지토리의 [약관](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) 에 동의하는 것으로 간주됩니다.
+이 프로젝트의 기여자들은 리포지토리의 [약관](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) 에 동의하는 것으로 간주됩니다.
 
 ## 기여자 행도 강령
-이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-ko.md) 에 동의한 것으로 간주됩니다.
+이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT-ko.md) 에 동의한 것으로 간주됩니다.
 
 ## 요약
 1. "책을 쉽게 내려받을 수 있는 바로가기"는 해당 책이 무료임을 보장하지 않습니다. 이 프로젝트에 기여하기 전에 해당 바로가기가 무료임을 확인해 주십시오. 저희는 또한 작동하는 이메일을 요구하는 바로가기는 허용하지 않습니다만, 이메일을 요청하는 것들은 허용됩니다.

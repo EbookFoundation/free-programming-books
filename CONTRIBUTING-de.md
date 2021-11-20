@@ -1,10 +1,10 @@
 *Diese Anleitung in anderen Sprachen: [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [Português Brasileiro](CONTRIBUTING-pt_BR.md), [한국어](CONTRIBUTING-ko.md).*
 
 ## Lizenzvereinbarung für Mitwirkende
-Durch Deine Mitwirkung akzeptierst Du die [Lizenz](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) dieses Repositorys.
+Durch Deine Mitwirkung akzeptierst Du die [Lizenz](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) dieses Repositorys.
 
 ## Verhaltenskodex für Mitwirkende
-Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) dieses Repositorys zu folgen.
+Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT.md) dieses Repositorys zu folgen.
 
 ## Kurzfassung
 1. „Ein Link, um ein Buch auf einfache Weise herunterzuladen“ ist nicht immer ein Link zu einem *kostenlosen* Buch. Bitte füge nur kostenlose Inhalte hinzu. Vergewissere Dich, dass sie kostenlos sind. Wir akzeptieren keine Links zu Seiten, die *voraussetzen*, dass man sich mit einer funktionierenden E-Mail-Adresse registriert, um ein Buch herunterzuladen, aber wir heißen Seiten willkommen, die um (optionale) Eingaben von E-Mail-Adressen bitten.

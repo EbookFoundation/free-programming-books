@@ -11,10 +11,10 @@ Bản dịch Tiếng Việt:
 ---
 
 ## Giấy Phép Thỏa Thuận Cộng Tác Viên
-Bằng cách đóng góp, bạn đồng ý với [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) của kho lưu trữ này.
+Bằng cách đóng góp, bạn đồng ý với [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) của kho lưu trữ này.
 
 ## Quy Tắc Ứng Xử của Cộng Tác Viên
-Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) của kho lưu trữ này.
+Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT.md) của kho lưu trữ này.
 
 ## Tóm Tắt
 1. "Một liên kết để tải một cuốn sách" không có nghĩa nó là một cuốn sách *miễn phí*. Vui lòng chỉ đóng góp nội dung miễn phí. Đảm bảo rằng nó là miễn phí. Chúng tôi không chấp nhận các liên kết đến các trang có *yêu cầu bắt buộc* nhập địa chỉ email để nhận sách, nhưng chúng tôi hoan nghênh những danh sách yêu cầu chúng.

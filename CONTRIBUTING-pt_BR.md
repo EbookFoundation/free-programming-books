@@ -1,10 +1,10 @@
 *Leia em outros idiomas: [Deutsch](CONTRIBUTING-de.md), [Français](CONTRIBUTING-fr.md), [Español](CONTRIBUTING-es.md), [Indonesia](CONTRIBUTING-id.md),[简体中文](CONTRIBUTING-zh.md), [繁體中文](CONTRIBUTING-zh_TW.md), [فارسی](CONTRIBUTING-fa_IR.md), [Tiếng Việt](CONTRIBUTING-vn.md), [Русский](CONTRIBUTING-ru.md), [한국어](CONTRIBUTING-ko.md).*
 
 ## Acordo de Licença do Contribuidor
-Ao contribuir você concorda com a [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) deste repositório.
+Ao contribuir você concorda com a [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) deste repositório.
 
 ## Código de Conduta do Contribuidor
-Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-pt_BR.md) deste repositório.
+Ao contribuir você concorda em respeitar o [Código de Conduta](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT-pt_BR.md) deste repositório.
 
 ## Em poucas palavras
 1. "Um _link_ para baixar um livro facilmente" nem sempre é um _link_ para um livro *gratuito*. Por favor contribua apenas com conteúdo gratuito. Certifique-se de que é grátis. Não são aceitos _links_ para páginas que *requerem* um endereço de email para obter livros, mas aceitamos listas que requerem.

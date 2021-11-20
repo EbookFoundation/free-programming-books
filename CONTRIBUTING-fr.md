@@ -3,19 +3,19 @@
 
 ## Contrat de Licence des Contributeurs
 
-En contribuant, vous acceptez la [LICENCE](https://github.com/ElivreFoundation/free-programming-livres/blob/master/LICENSE) de ce repositoire.
+En contribuant, vous acceptez la [LICENCE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) de ce repositoire.
 
 
 ## Code de conduite des contributeurs
 
-En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.com/ElivreFoundation/free-programming-livres/blob/master/CODE_OF_CONDUCT.md) de ce repositoire.
+En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) de ce repositoire.
 
 
 ## En bref
 
 1. "Un lien pour télécharger facilement un livre" n'est pas toujours un lien vers un livre *gratuit*. Merci de ne contribuer qu'à du contenu gratuit. Assurez-vous que c'est gratuit. Nous n'acceptons pas les liens vers des pages qui *nécessitent* des adresses e-mail valides pour obtenir des livres, mais nous accueillons les annonces qui en font la demande.
 
-2. Vous n'êtes pas obligé de connaître Git : si vous avez trouvé quelque chose d'intéressant qui n'est *pas déjà dans ce repositoire*, veuillez ouvrir un [Problème](https://github.com/ElivreFoundation/free-programming-livres/issues) avec vos propositions de liens.
+2. Vous n'êtes pas obligé de connaître Git : si vous avez trouvé quelque chose d'intéressant qui n'est *pas déjà dans ce repositoire*, veuillez ouvrir un [Problème](https://github.com/EbookFoundation/free-programming-books/issues) avec vos propositions de liens.
     - Si vous savez Git, Forkez le repo et envoyez vos Pull Requests (PR).
 
 3. Nous avons 5 types de listes. Choisissez le bon:
@@ -50,7 +50,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.c
 - si un lien existe dans plusieurs formats, ajoutez un lien séparé avec une note sur chaque format
 - si une ressource existe à différents endroits sur Internet
     - utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
-    - s'ils renvoient à des éditions différentes et que vous jugez que ces éditions sont suffisamment différentes pour qu'elles valent la peine d'être conservées, ajoutez un lien séparé avec une note sur chaque édition (voir [Problème #2353](https://github.com/ElivreFoundation/free-programming-livres/issues/2353) pour contribuer à la discussion sur le formatage).
+    - s'ils renvoient à des éditions différentes et que vous jugez que ces éditions sont suffisamment différentes pour qu'elles valent la peine d'être conservées, ajoutez un lien séparé avec une note sur chaque édition (voir [Problème #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) pour contribuer à la discussion sur le formatage).
 - préférer les commits atomiques (un commit par ajout/suppression/modification) aux plus gros commits. Pas besoin d'écraser vos commits avant de soumettre un PR. (Nous n'appliquerons jamais cette règle car c'est juste une question de commodité pour les responsables)
 - si le livre est plus ancien, indiquez la date de parution avec le titre.
 - incluez le ou les noms de l'auteur, le cas échéant. Vous pouvez raccourcir les listes d'auteurs avec "`et al.`".
@@ -226,7 +226,7 @@ Si vous pouvez l'imprimer et conserver son essence, ce n'est pas un didacticiel 
 
 ### Automatisation
 
-- L'application des règles de formatage est automatisée via [GitHub Actions](https://docs.github.com/en/actions) en utilisant [fpb-lint](https://github.com/vhf/free-programming-livres-lint) (voir [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- L'application des règles de formatage est automatisée via [GitHub Actions](https://docs.github.com/en/actions) en utilisant [fpb-lint](https://github.com/vhf/free-programming-books-lint) (voir [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
 - La validation d'URL utilise [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Pour déclencher la validation d'URL, poussez un commit qui inclut un message de commit contenant `check_urls=file_to_check`:
 

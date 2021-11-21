@@ -11,7 +11,7 @@
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
 * [C / C++](#c--c)
-* [Caml](#caml)
+* [Caml / OCaml](#caml--ocaml)
 * [Coq](#coq)
 * [CSS](#css)
 * [Fortran](#fortran)
@@ -104,9 +104,11 @@
 * [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
-### Caml
+### Caml / OCaml
 
-* [Le language Caml](http://caml.inria.fr)
+* [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) - Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
+* [Le langage Caml](https://caml.inria.fr/pub/distrib/books/llc.pdf) - Pierre Weis, Xavier Leroy (PDF)
+* [Programmation du système Unix en Objective Caml](https://web.archive.org/web/20211115022546/http://gallium.inria.fr/~remy/camlunix/) - Xavier Leroy, Didier Rémy
 
 
 ### C / C++

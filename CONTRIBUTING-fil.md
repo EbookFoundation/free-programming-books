@@ -3,12 +3,12 @@
 
 ## Kasunduan sa Lisensya ng Contributor
 
-Sa pamamagitan ng pag-aambag sumasang-ayon ka sa [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) ng repositoryong ito.
+Sa pamamagitan ng pag-aambag sumasang-ayon ka sa [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) ng repositoryong ito.
 
 
 ## Kodigo ng Pag-uugali ng Contributor
 
-Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-fil.md) ng repositoryong ito.
+Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT-fil.md) ng repositoryong ito.
 
 
 ## Sa maikling sabi

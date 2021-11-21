@@ -5,12 +5,12 @@
 
 ## توافقنامه‌ی مجوز همکاری
 
-مشارکت در این مخزن به معنی موافقت شما با مجوز [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) این مخزن است.
+مشارکت در این مخزن به معنی موافقت شما با مجوز [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) این مخزن است.
 
 
 ## مرام‌نامه‌ی همکار
 
-مشارکت در این پروژه به معنی موافقت با احترام به [مرام‌نامه‌ی](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) این مخزن است.
+مشارکت در این پروژه به معنی موافقت با احترام به [مرام‌نامه‌ی](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT.md) این مخزن است.
 
 
 ## به طور خلاصه

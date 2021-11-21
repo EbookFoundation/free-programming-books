@@ -33,8 +33,10 @@
 
 * [Data Hackers](https://datahackers.com.br/podcast) (podcast)
 * [Data Science Academy](http://datascienceacademy.com.br/blog/podcast-dsa/) (podcast)
+* [Let's Data](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM) - Bernardo Lago, Felipe Schiavon, Leon Silva (screencast)
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
 * [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
+* [Teste de Turing](https://anchor.fm/testedeturing) - Erick Fonseca (podcast)
 
 
 ### Game development

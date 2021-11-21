@@ -4,13 +4,13 @@
 <!----><a name="contributor-license-agreement"></a>
 ## Лицензионное соглашение с участником
 
-Принимая участие, вы соглашаетесь с [ЛИЦЕНЗИЕЙ](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) этого репозитория.
+Принимая участие, вы соглашаетесь с [ЛИЦЕНЗИЕЙ](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) этого репозитория.
 
 
 <!----><a name="contributor-code-of-conduct"></a>
 ## Кодекс поведения автора
 
-Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-ru.md) этого репозитория.
+Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT-ru.md) этого репозитория.
 
 
 <!----><a name="in-a-nutshell"></a>

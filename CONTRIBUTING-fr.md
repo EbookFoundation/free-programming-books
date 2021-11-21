@@ -3,12 +3,12 @@
 
 ## Contrat de Licence des Contributeurs
 
-En contribuant, vous acceptez la [LICENCE](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) de ce repositoire.
+En contribuant, vous acceptez la [LICENCE](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) de ce repositoire.
 
 
 ## Code de conduite des contributeurs
 
-En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) de ce repositoire.
+En contribuant, vous acceptez de respecter le [Code de Contrat](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT.md) de ce repositoire.
 
 
 ## En bref

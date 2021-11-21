@@ -3,12 +3,12 @@
 
 ## 貢獻者許可協議
 
-請遵循此 [許可協議](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) 參與貢獻。
+請遵循此 [許可協議](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) 參與貢獻。
 
 
 ## 貢獻者行為準則
 
-請同意並遵循此 [行為準則](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) 參與貢獻。
+請同意並遵循此 [行為準則](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT.md) 參與貢獻。
 
 
 ## 概要

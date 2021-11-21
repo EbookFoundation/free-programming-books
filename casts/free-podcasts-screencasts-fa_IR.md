@@ -1,6 +1,12 @@
 ### Index
 
+* [Programming News](#programming-news)
 * [Technology](#technology)
+
+
+### Programming News
+
+* [پادکست کافه برنامه نویس](https://anchor.fm/codemy) - CafeCodemy (podcast)
 
 
 ### Technology

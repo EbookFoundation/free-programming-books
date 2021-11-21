@@ -3,12 +3,12 @@
 
 ## Lizenzvereinbarung für Mitwirkende
 
-Durch Deine Mitwirkung akzeptierst Du die [Lizenz](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) dieses Repositorys.
+Durch Deine Mitwirkung akzeptierst Du die [Lizenz](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) dieses Repositorys.
 
 
 ## Verhaltenskodex für Mitwirkende
 
-Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md) dieses Repositorys zu folgen.
+Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT.md) dieses Repositorys zu folgen.
 
 
 ## Kurzfassung

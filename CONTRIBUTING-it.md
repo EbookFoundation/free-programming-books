@@ -3,12 +3,12 @@
 
 ## Accordo di Licenza
 
-Contribuendo tu accetti alla [LICENZA](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) di questa repository.
+Contribuendo tu accetti alla [LICENZA](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) di questa repository.
 
 
 ## Codice di Comportamento del Collaboratore
 
-I collaboratori accettano di rispettare il [Codice di Comportamento](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-it.md) di questa repository.
+I collaboratori accettano di rispettare il [Codice di Comportamento](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT-it.md) di questa repository.
 
 
 ## In breve

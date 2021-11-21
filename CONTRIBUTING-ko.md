@@ -3,12 +3,12 @@
 
 ## 기여자 라이선스 동의서
 
-이 프로젝트의 기여자들은 리포지토리의 [약관](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE) 에 동의하는 것으로 간주됩니다.
+이 프로젝트의 기여자들은 리포지토리의 [약관](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) 에 동의하는 것으로 간주됩니다.
 
 
 ## 기여자 행도 강령
 
-이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT-ko.md) 에 동의한 것으로 간주됩니다.
+이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](https://github.com/EbookFoundation/free-programming-books/blob/main/CODE_OF_CONDUCT-ko.md) 에 동의한 것으로 간주됩니다.
 
 
 ## 요약

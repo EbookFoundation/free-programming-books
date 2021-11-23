@@ -257,4 +257,4 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 [in_process]: #in_process
 [archived]: #archived
 [markdown_guide]: https://guides.github.com/features/mastering-markdown/
-[programming_playgrounds_list]: (https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds.md)
+[programming_playgrounds_list]: https://github.com/EbookFoundation/free-programming-books/blob/main/more/free-programming-playgrounds.md

@@ -11,7 +11,7 @@ Add resource(s) | Remove resource(s) | Add info | Improve repo
 ### For book lists, is it a book? For course lists, is it a course? etc.
 
 ## Checklist:
-- [ ] Read our [contributing guidelines](https://github.com/EbookFoundation/free-programming-books/blob/master/CONTRIBUTING.md)
+- [ ] Read our [contributing guidelines](https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CONTRIBUTING.md)
 - [ ] Search for duplicates.
 - [ ] Include author(s) and platform where appropriate.
 - [ ] Put lists in alphabetical order, correct spacing.

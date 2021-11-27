@@ -5,7 +5,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [HTML and CSS](#html-and-css)
-* [Java](#javascript)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)

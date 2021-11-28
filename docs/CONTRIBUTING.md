@@ -4,7 +4,7 @@
 
 ## Contributor License Agreement
 
-By contributing you agree to the [LICENSE](https://github.com/EbookFoundation/free-programming-books/blob/main/LICENSE) of this repository.
+By contributing you agree to the [LICENSE](../LICENSE) of this repository.
 
 
 ## Contributor Code of Conduct

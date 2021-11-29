@@ -24,17 +24,17 @@
 
 ### <a name="csharp"></a>C#
 
-<!-- Waiting to add in -->
+[//]: # (Waiting to add in)
 
 
 ### <a name="cpp"></a>C++
 
-<!-- Waiting to add in -->
+[//]: # (Waiting to add in)
 
 
 ### HTML and CSS
 
-<!-- Waiting to add in -->
+[//]: # (Waiting to add in)
 
 
 ### Java

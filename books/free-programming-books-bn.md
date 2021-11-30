@@ -2,9 +2,6 @@
 
 * [Algorithms](#algorithms)
 * [C](#c)
-* [C#](#csharp)
-* [C++](#cpp)
-* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
@@ -20,21 +17,6 @@
 ### C
 
 * [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](https://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
-
-
-### <a name="csharp"></a>C#
-
-[//]: # (Waiting to add in)
-
-
-### <a name="cpp"></a>C++
-
-[//]: # (Waiting to add in)
-
-
-### HTML and CSS
-
-[//]: # (Waiting to add in)
 
 
 ### Java

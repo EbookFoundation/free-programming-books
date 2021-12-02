@@ -49,7 +49,7 @@
 
 ### JavaScript
 
-* [آموزش جاوا اسکریپت برای مبتدیان](https://youtube.com/playlist?list=PLV6mGBuPqmYuZEAJN7IBxkdNCzKXAGpqD) - Mansour Kalagar
+* [آموزش جاوا اسکریپت برای مبتدیان](https://youtube.com/playlist?list=PLfbD3-Ao6cPpt5Y3Nkue_W-DrmdOLOaTH) - Mansour Kalagar
 * [دوره اموزشی جاوا اسکریپت از صفر](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF) - Silicium
 
 

@@ -428,6 +428,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
 * [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch
+* [C Internals](https://www.avabodh.com/cin/cin.html) - Rajeev Kumar (HTML)
 * [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
 * [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/)

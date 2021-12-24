@@ -182,7 +182,7 @@
 * [Belajar Spring Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882aeiESAgna5eVa_cOpFnxQm) - Imam Farisi (YouTube)
 * [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Wafiq Subhi, Mastahcode (Youtube)
 * [SpringBoot](https://www.youtube.com/playlist?list=PLRjWo99hnirwyafPfaxfu0psMR0hUmdQc) - Hendro Steven Tampake, Kelas Koding (YouTube)
-* [TUTORIAL SPRING BOOT - BAHASA INDONESIA](https://www.youtube.com/playlist?list=PL-CtdCApEFH8bV3sla0QfmMnJQ4YX_wR1) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Tutorial Spring boot - Bahasa Indonesia]https://www.youtube.com/playlist?list=PL-CtdCApEFH8bV3sla0QfmMnJQ4YX_wR1) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
 ### JavaScript

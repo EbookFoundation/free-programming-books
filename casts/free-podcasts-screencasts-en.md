@@ -147,7 +147,6 @@
 * [Emacs Rocks!](http://emacsrocks.com) (screencast)
 * [Free screencasts about the text editor Vim](http://vimcasts.org) (screencast)
 * [PHPStorm Tips & Tricks](https://www.youtube.com/playlist?list=PLk9WlAgeZoTfHdJUv75-5grVQf4ijIrzw) - Christoph Rumpel (screencast)
-* [The Vim Blog](https://soundcloud.com/thevimcast) (podcast)
 * [vim Hacking](https://www.youtube.com/playlist?list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7) (screencast)
 
 

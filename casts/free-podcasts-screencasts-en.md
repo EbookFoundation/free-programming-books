@@ -239,6 +239,8 @@
 ### Language Agnostic
 
 * [/dev/hell](http://devhell.info) (podcast)
+* [ADSP: The Podcast](https://adspthepodcast.com) (podcast)
+* [Array Cast](https://arraycast.com) (podcast)
 * [Arrested DevOps](https://www.arresteddevops.com) (podcast)
 * [baseCS](https://www.codenewbie.org/basecs) (podcast based on [a series of posts on medium](https://medium.com/basecs))
 * [Between \| Screens Podcast](https://soundcloud.com/between-screens) (podcast)

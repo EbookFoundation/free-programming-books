@@ -3,6 +3,7 @@
 * [0 - MOOC](#0---mooc)
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
+* [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
@@ -154,6 +155,14 @@
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
+
+
+### APL
+
+* [APL Course](https://course.dyalog.com/) - Dyalog
+* [APL Cultivation](https://apl.wiki/APL_Cultivation) - Adám Brudzewsky
+* [Dyalog APL Tutor](https://tutorial.dyalog.com/) - Dyalog
+* [Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão 
 
 
 ### Artificial Intelligence

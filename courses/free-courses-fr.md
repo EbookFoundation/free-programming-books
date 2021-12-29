@@ -28,9 +28,7 @@
 
 ### APL
 
-* [Découvrez le langage APL : 1er partie avec fonctions de base et exercices corrigés](https://www.youtube.com/watch?v=Nxq1BUUXobM) - Eric Schrafstetter
-* [Découvrez le langage APL : 2e partie avec exercices corrigés](https://www.youtube.com/watch?v=s-E7BsMg_Qc) - Eric Schrafstetter
-* [Découvrez le langage APL : 3e et dernière partie avec exercices corrigés](https://www.youtube.com/watch?v=csx2Z-GEGPw) - Eric Schrafstetter
+* [Découvrez le langage APL](https://www.youtube.com/watch?v=Nxq1BUUXobM&list=PLYKQVqyrAEj_DwkVAvj7xHxr72ite69nW) - Schraf : Maths-info
 
 
 ### Bash / Shell

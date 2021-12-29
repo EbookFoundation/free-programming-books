@@ -85,7 +85,7 @@
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
-* [APL Practice Problems](https://problems.tryapl.org/)
+* [APL Practice Problems](https://problems.tryapl.org)
 * [BaekJoon Online Judge](http://www.acmicpc.net)
 * [beecrowd](https://www.beecrowd.com.br)
 * [CareerCup](http://www.careercup.com)

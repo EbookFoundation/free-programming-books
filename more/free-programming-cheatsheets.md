@@ -1,5 +1,6 @@
 ### Index
 
+* [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#c)
@@ -35,6 +36,20 @@
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
 
+
+### APL
+
+* [A reference card for GNU APL](https://github.com/jpellegrini/gnu-apl-refcard/blob/master/aplcard.pdf) - jpellegrini (PDF)
+* [CheatSheet - Binding Strengths](https://docs.dyalog.com/latest/CheatSheet%20-%20Binding%20Strengths.pdf) - Dyalog (PDF)
+* [CheatSheet - Component Files](https://docs.dyalog.com/latest/CheatSheet%20-%20Component%20Files.pdf) - Dyalog (PDF)
+* [CheatSheet - I-Beams](https://docs.dyalog.com/latest/CheatSheet%20-%20I-Beams.pdf) - Dyalog (PDF)
+* [CheatSheet - Idioms](https://docs.dyalog.com/latest/CheatSheet%20-%20Idioms.pdf) - Dyalog (PDF)
+* [CheatSheet - Nameclasses and Subclasses](https://docs.dyalog.com/latest/CheatSheet%20-%20Nameclasses%20and%20Subclasses.pdf) - Dyalog (PDF)
+* [CheatSheet - Native Files](https://docs.dyalog.com/latest/CheatSheet%20-%20Native%20Files.pdf) - Dyalog (PDF)
+* [CheatSheet - Nomenclature - Functions and Operators](https://docs.dyalog.com/latest/CheatSheet%20-%20Nomenclature%20-%20Functions%20and%20Operators.pdf) - Dyalog (PDF)
+* [CheatSheet - SALT Functions - Syntax](https://docs.dyalog.com/latest/CheatSheet%20-%20SALT%20Functions%20-%20Syntax.pdf) - Dyalog (PDF)
+* [Dyalog APL - Vocabulary](https://awagga.github.io/dyalog/voc) - awagga (HTML)
+* [ReferenceCard](https://docs.dyalog.com/latest/ReferenceCard.pdf) - Dyalog (PDF)
 
 ### Artificial Intelligence
 

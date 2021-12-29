@@ -1,6 +1,7 @@
 ### Index
 
 * [Algorithmes & Structures des données](#algorithmes)
+* [APL](#apl)
 * [Bash / Shell](#bash--shell)
 * [C](#c)
 * [C#](#c-sharp)
@@ -23,6 +24,13 @@
 ### Algorithmes
 
 * [Cours d'Algorithmie](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) - Formation Video
+
+
+### APL
+
+* [Découvrez le langage APL : Fonctions de base et exercices corrigés](https://www.youtube.com/watch?v=Nxq1BUUXobM) - Eric Schrafstetter
+* [Découvrez le langage APL : 2e partie avec exercices corrigés](https://www.youtube.com/watch?v=s-E7BsMg_Qc) - Eric Schrafstetter
+* [Découvrez le langage APL : 3e et dernière partie avec exercices corrigés](https://www.youtube.com/watch?v=csx2Z-GEGPw) - Eric Schrafstetter
 
 
 ### Bash / Shell

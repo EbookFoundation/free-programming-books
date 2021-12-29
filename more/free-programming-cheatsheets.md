@@ -51,6 +51,7 @@
 * [Dyalog APL - Vocabulary](https://awagga.github.io/dyalog/voc) - awagga (HTML)
 * [ReferenceCard](https://docs.dyalog.com/latest/ReferenceCard.pdf) - Dyalog (PDF)
 
+
 ### Artificial Intelligence
 
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)

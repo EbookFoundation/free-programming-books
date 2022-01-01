@@ -42,6 +42,7 @@ ADV - Продвинутый. Тонкости.
 * [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) - Шишков Илья Иванович, Полднев Антон Вячеславович, Матросов Михаил Александрович, Alexey Zobnin, Субоч Николай Михайлович (Coursera) (INT)
 * [Основы разработки на С++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red) - Шишков Илья Иванович, Полднев Антон Вячеславович (Coursera) (INT)
 * [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black) - Шишков Илья Иванович, Полднев Антон Вячеславович, Субоч Николай Михайлович, Alexey Zobnin, Матросов Михаил Александрович (Coursera) (INT)
+* [Уроки по С++](https://ravesli.com/uroki-cpp) - Ravesli (INT)
 
 
 ### Clojure

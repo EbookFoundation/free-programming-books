@@ -1,5 +1,6 @@
 ### Index
 
+* [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#c)
@@ -34,6 +35,14 @@
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
+
+
+### APL
+
+* [A reference card for GNU APL](https://github.com/jpellegrini/gnu-apl-refcard/blob/master/aplcard.pdf) - jpellegrini (PDF)
+* [Cheat Sheets](https://docs.dyalog.com/#CHEAT) - Dyalog (PDF)
+* [Dyalog APL - Vocabulary](https://awagga.github.io/dyalog/voc) - awagga (HTML)
+* [ReferenceCard](https://docs.dyalog.com/latest/ReferenceCard.pdf) - Dyalog (PDF)
 
 
 ### Artificial Intelligence

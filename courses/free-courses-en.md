@@ -506,6 +506,7 @@
 * [Programming in Java](https://nptel.ac.in/courses/106/105/106105191/) - Prof. Debasis Samanta (NPTEL)
 * [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about)
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
+* [Object Oriented Programming (OOP) In Java](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk) - Kunal Kushwaha (Youtube)
 
 
 ### JavaScript

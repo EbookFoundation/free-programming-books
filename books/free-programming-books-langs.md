@@ -1308,7 +1308,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### React
 
 * [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - Airbnb
-* [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/full-stack-react-projects) - Shama Hoque (Packt account *required*)
 * [Hacking with React](http://www.hackingwithreact.com)
 * [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)

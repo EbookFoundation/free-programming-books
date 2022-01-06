@@ -718,7 +718,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea & Adam Stubblefield (PDF)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) (email address *requested*, not required)
-* [Domain-Driven Design	Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans (PDF version is free)
+* [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans (PDF version is free)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [Domain-Driven Design: The First 15 Years. Essays from the DDD community](https://dddeurope.com/15years/) - Domain-Driven Design Europe ([HTML, PDF, ePub](https://leanpub.com/ddd_first_15_years/)) *(Leanpub account or valid email requested)*
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org) - Markus Voelter

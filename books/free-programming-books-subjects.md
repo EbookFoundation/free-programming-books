@@ -719,7 +719,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) (email address *requested*, not required)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
-* [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans (PDF version is free)
+* [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans
 * [Domain-Driven Design: The First 15 Years. Essays from the DDD community](https://dddeurope.com/15years/) - Domain-Driven Design Europe ([HTML, PDF, ePub](https://leanpub.com/ddd_first_15_years/)) *(Leanpub account or valid email requested)*
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org) - Markus Voelter
 * [Exploring CQRS and Event Sourcing](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10)) - Dominic Betts, Julián Domínguez, Grigori Melnik, Mani Subramanian, Fernando Simonazzi ([EPUB, PDF](http://www.microsoft.com/en-us/download/details.aspx?id=34774) - [code samples](http://go.microsoft.com/fwlink/p/?linkid=258571))

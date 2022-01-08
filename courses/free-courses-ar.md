@@ -149,14 +149,14 @@
 
 ### HTML / CSS
 
+* [HTML And CSS Template 1](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) - Elzero Web School
+* [HTML And CSS Template 2](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t) - Elzero Web School
+* [HTML And CSS Template 3](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc) - Elzero Web School
 * [Learn CSS In Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) - Elzero Web School
 * [Learn HTML In Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) - Elzero Web School
 * [Learn SASS In Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) - Elzero Web School
 * [Sass](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6bF7qObm2a1mLN_WHAWQo) - Elzero Web School
 * [Sass - Create a website](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) - Elzero Web School
-* [HTML And CSS Template 1](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) - Elzero Web School
-* [HTML And CSS Template 2](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t) - Elzero Web School
-* [HTML And CSS Template 3](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc) - Elzero Web School
 
 
 ### Java

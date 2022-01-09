@@ -5,6 +5,7 @@
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C Sharp](#c-sharp)
+* [C++](#cpp)
 * [Computer Architecture](#computer-architecture)
 * [Dart](#dart)
 * [Databases](#databases)
@@ -37,6 +38,7 @@
 
 ### Algorithms & Data Structures
 
+* [C++ Data Structures - تراكيب البيانات](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) - محمد الدسوقي
 * [CS Master - Level 1- Algorithms & Data Structures الخوارزميات وهياكل البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC) - KMR Script
 * [CS Master - Level 2- Dive into the Computer كيف يعمل الكمبيوتر](https://www.youtube.com/playlist?list=PLL2zWZTDFZziX_xS2bbGfLAOHVmlzURhF) - KMR Script
 * [CS50 in Arabic](https://www.youtube.com/playlist?list=PLL2zWZTDFZzibJ49gBM2owqCzda8meSNj) - KMR Script
@@ -117,6 +119,7 @@
 * [Arabic MySQL Essentials مبادئ ماي سكوال](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhBxhIJkhz-B-HulZUN6YzY) - KMR Script
 * [Database 1 - المقرر العملى - Learn SQL In Arabic](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484) - محمد الدسوقى
 * [Learn MySQL](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9) - Elzero Web School
+* [MS SQL Server For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) - محمد الدسوقى
 * [MySQL tutorials || بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad
 
 
@@ -146,8 +149,12 @@
 
 ### HTML / CSS
 
-* [CSS In Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) - Elzero Web School
-* [HTML In Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) - Elzero Web School
+* [HTML And CSS Template 1](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) - Elzero Web School
+* [HTML And CSS Template 2](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t) - Elzero Web School
+* [HTML And CSS Template 3](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc) - Elzero Web School
+* [Learn CSS In Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) - Elzero Web School
+* [Learn HTML In Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) - Elzero Web School
+* [Learn SASS In Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) - Elzero Web School
 * [Sass](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6bF7qObm2a1mLN_WHAWQo) - Elzero Web School
 * [Sass - Create a website](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) - Elzero Web School
 
@@ -179,6 +186,7 @@
 * [JavaScript JSON API](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwH_PyuEFjk3OvXflJJrDRQ) - Elzero Web School
 * [JavaScript OOP](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF) - Elzero Web School
 * [JavaScript Unit Testing With Jest](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O) - Elzero Web School
+* [Learn JavaScript in Arabic 2021](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) - Elzero Web School
 
 
 #### Gulp.js

@@ -750,7 +750,7 @@
 
 ### .NET
 
-* [Learn how to program: .NET](https://www.learnhowtoprogram.com/net) - Epicodus Inc.
+* [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
 
 
 ### Objective-C

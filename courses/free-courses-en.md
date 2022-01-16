@@ -750,8 +750,6 @@
 
 ### .NET
 
-* [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
-
 > :information_source: See also &#8230; [C#](#c-sharp)
 
 ### Objective-C

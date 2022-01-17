@@ -1,9 +1,11 @@
 ### Index
 
 * [Algorithmes & Structures des données](#algorithmes)
+* [APL](#apl)
 * [Bash / Shell](#bash--shell)
 * [C](#c)
 * [C#](#c-sharp)
+* [C++](#cpp)
 * [Git](#git)
 * [HTML / CSS](#html--css)
 * [Java](#java)
@@ -24,6 +26,11 @@
 * [Cours d'Algorithmie](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) - Formation Video
 
 
+### APL
+
+* [Découvrez le langage APL](https://www.youtube.com/watch?v=Nxq1BUUXobM&list=PLYKQVqyrAEj_DwkVAvj7xHxr72ite69nW) - Schraf : Maths-info
+
+
 ### Bash / Shell
 
 * [Apprendre à utiliser le shell Bash](https://www.pierre-giraud.com/shell-bash/) - Pierre Giraud
@@ -37,6 +44,11 @@
 * [Apprendre le langage C - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) - Formation Video
 * [Le Langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - sur Zeste de Savoir de Informaticienzero, Taure, Paraze et Lucas-84
 * [TUTOS C](https://www.youtube.com/playlist?list=PLEagTQfI6nPOWS4JPnxW5pRVgeyLuS5oC) - PrimFX
+
+
+### <a name="cpp"></a>C++
+
+* [La programmation en C++ moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/) - Zeste de savoir informaticienzero mehdidou99
 
 
 ### C Sharp

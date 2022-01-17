@@ -1,7 +1,7 @@
 ### Index
 
 * [Java](#java)
-* [Langage Agnostique](#language-agnostic)
+* [Langage Agnostique](#langage-agnostique)
 
 
 ### Java
@@ -9,7 +9,7 @@
 * [Les Cast Codeurs Podcast](https://lescastcodeurs.com) (podcast)
 
 
-### Language Agnostic
+### Langage Agnostique
 
 * [Artisan Developpeur](https://artisandeveloppeur.fr/podcast) (podcast)
 * [Dev'Obs](https://devobs.p7t.tech) (podcast)

@@ -1,19 +1,28 @@
 This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
-# List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+# List of Free Learning Resources In Many Languages
+
+<div align="center">
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+</div>
+
 
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 200,000+ stars, 6100+ commits, 1600+ contributors, and 43,000+ forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 210,000+ stars, 6800+ commits, 1900+ contributors, and 45,000+ forks.
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 
 ### How To Contribute
 
-Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](HOWTO.md)!
+Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md) too. ([translations](#translations) also available)
 
 
 ### How to Share
@@ -67,7 +76,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [Tamil / தமிழ்](books/free-programming-books-ta.md)
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
-+ [Ukrainian / Українська](books/free-programming-books-ua.md)
++ [Ukrainian / Українська](books/free-programming-books-uk.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 
@@ -79,6 +88,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 ### Free Online Courses
 
 + [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
++ [Bengali / বাংলা](courses/free-courses-bn.md)
 + [Bulgarian / български](courses/free-courses-bg.md)
 + [English](courses/free-courses-en.md)
 + [Finnish](courses/free-courses-fi.md)
@@ -101,7 +111,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
-+ [Ukrainian / Українська](courses/free-courses-ua.md)
++ [Ukrainian / Українська](courses/free-courses-uk.md)
 + [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
 
 
@@ -127,6 +137,7 @@ Free Podcasts and Screencasts:
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
 + [French / français](casts/free-podcasts-screencasts-fr.md)
++ [Hebrew / עברית](casts/free-podcasts-screencasts-he.md)
 + [Indonesian / Bahasa Indonesia](casts/free-podcasts-screencasts-id.md)
 + [Persian / Farsi (Iran) / فارسى](casts/free-podcasts-screencasts-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](casts/free-podcasts-screencasts-pl.md)
@@ -144,6 +155,109 @@ Free Podcasts and Screencasts:
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
 
+
+### Translations
+
+We have Contributing, How-to, and Code of Conduct documents translated into many languages.
+
+- Arabic / al arabiya / العربية
+  - [How-to](docs/HOWTO-ar.md)
+- Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي
+- Bengali / বাংলা
+  - [How-to](docs/HOWTO-bn.md)
+- Bosnian / bosanski jezik
+  - [How-to](docs/HOWTO-bs.md)
+- Bulgarian / български
+- Burmese / မြန်မာဘာသာ
+- Chinese / 中文
+  - [Contributing](docs/CONTRIBUTING-zh.md)
+  - [How-to](docs/HOWTO-zh.md)
+- Chinese (traditional) / 繁體中文
+  - [Contributing](docs/CONTRIBUTING-zh_TW.md)
+  - [How-to](docs/HOWTO-zh_TW.md)
+- Czech / čeština / český jazyk
+- Danish / dansk
+- Dutch / Nederlands
+  - [How-to](docs/HOWTO-nl.md)
+- English
+  - [Code of Conduct](docs/CODE_OF_CONDUCT.md)
+  - [Contributing](docs/CONTRIBUTING.md)
+  - [How-to](docs/HOWTO.md)
+- Estonian / eesti keel
+- Finnish / suomi / suomen kieli
+- Filipino
+  - [Kodigo ng Pag-uugali](docs/CODE_OF_CONDUCT-fil.md)
+  - [Contributing](docs/CONTRIBUTING-fil.md)
+  - [How-to](docs/HOWTO-fil.md)
+- French / français
+  - [Code de Contrat](docs/CODE_OF_CONDUCT-fr.md)
+  - [Contributing](docs/CONTRIBUTING-fr.md)
+  - [How-to](docs/HOWTO-fr.md)
+- German / Deutsch
+  - [Verhaltenskodex](docs/CODE_OF_CONDUCT-de.md)
+  - [How-to](docs/HOWTO-de.md)
+  - [Mitwirken](docs/CONTRIBUTING-de.md)
+- Greek / ελληνικά
+  - [Κώδικα Δεοντολογίας](docs/CODE_OF_CONDUCT-el.md)
+  - [Contributing](docs/CONTRIBUTING-el.md)
+  - [How-to](docs/HOWTO-el.md)
+- Hebrew / עברית
+- Hindi / हिन्दी
+  - [आचार संहिता](docs/CODE_OF_CONDUCT-hi.md)
+  - [How-to](docs/HOWTO-hi.md)
+- Hungarian / magyar / magyar nyelv
+- Indonesian / Bahasa Indonesia
+  - [Berkontribusi](docs/CONTRIBUTING-id.md)
+  - [Kode Etik](docs/CODE_OF_CONDUCT-id.md)
+  - [How-to](docs/HOWTO-id.md)
+- Italian / italiano
+  - [Codice di Comportamento](docs/CODE_OF_CONDUCT-it.md)
+  - [Contributing](docs/CONTRIBUTING-it.md)
+  - [How-to](docs/HOWTO-it.md)
+- Japanese / 日本語
+- Khmer / Cambodian / ខ្មែរ
+  - [How-to](docs/HOWTO-km.md)
+- Korean / 한국어 [韓國語]
+  - [행동강령](docs/CODE_OF_CONDUCT-ko.md)
+  - [Contributing](docs/CONTRIBUTING-ko.md)
+  - [How-to](docs/HOWTO-ko.md)
+- Norwegian / Norsk
+- Persian / Farsi (Iran) / فارسى
+  - [مرام‌نامه‌ی](docs/CODE_OF_CONDUCT-fa_IR.md)
+  - [Contributing](docs/CONTRIBUTING-fa_IR.md)
+  - [How-to](docs/HOWTO-fa_IR.md)
+- Polish / polski / język polski / polszczyzna
+  - [Code of Conduct](docs/CODE_OF_CONDUCT-pl.md)
+  - [How-to](docs/HOWTO-pl.md)
+- Portuguese (Brazil)
+  - [Código de Conduta](docs/CODE_OF_CONDUCT-pt_BR.md)
+  - [Contributing](docs/CONTRIBUTING-pt_BR.md)
+  - [How-to](docs/HOWTO-pt_BR.md)
+- Portuguese (Portugal)
+  - [How-to](docs/HOWTO-pt_PT.md)
+- Romanian (Romania) / limba română / român
+- Russian / Русский язык
+  - [Кодекс поведения](docs/CODE_OF_CONDUCT-ru.md)
+  - [Contributing](docs/CONTRIBUTING-ru.md)
+- Slovak / slovenčina
+  - [How-to](docs/HOWTO-sk.md)
+- Spanish / español / castellano
+  - [Código de Conducta](docs/CODE_OF_CONDUCT-es.md)
+  - [Contributing](docs/CONTRIBUTING-es.md)
+  - [How-to](docs/HOWTO-es.md)
+- Swedish / Svenska
+  - [How-to](docs/HOWTO-sv.md)
+- Tamil / தமிழ்
+- Thai / ไทย
+  - [How-to](docs/HOWTO-th.md)
+- Turkish / Türkçe
+  - [How-to](docs/HOWTO-tr.md)
+- Ukrainian / Українська
+  - [Кодекс Поведінки](docs/CODE_OF_CONDUCT-uk.md)
+  - [How-to](docs/HOWTO-uk.md)
+- Vietnamese / Tiếng Việt
+  - [Đóng Góp](docs/CONTRIBUTING-vi.md)
+  - [How-to](docs/HOWTO-vi.md)
 
 ## License
 

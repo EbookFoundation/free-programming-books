@@ -11,6 +11,7 @@
 
 * [4Clojure](http://www.4clojure.com)
 * [A2 Online Judge](https://a2oj.com)
+* [APL Problem Solving Competition](https://contest.dyalog.com)
 * [AtCoder](https://atcoder.jp)
 * [beecrowd](https://www.beecrowd.com.br)
 * [Binary Search](https://binarysearch.com)
@@ -84,6 +85,7 @@
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
+* [APL Practice Problems](https://problems.tryapl.org)
 * [BaekJoon Online Judge](http://www.acmicpc.net)
 * [beecrowd](https://www.beecrowd.com.br)
 * [CareerCup](http://www.careercup.com)
@@ -93,7 +95,7 @@
 * [Codeforces](http://codeforces.com/problemset)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
-* [Coding Ninjas](https://www.codingninjas.com/codestudio/problems)
+* [Coding Interview Questions and answers for practice \| Python, Java & C++](https://www.codingninjas.com/codestudio/problems) - CodingNinjas
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)

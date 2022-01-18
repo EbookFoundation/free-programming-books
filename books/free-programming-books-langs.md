@@ -799,7 +799,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
 * [Git: Learn Version Control with Git: A step-by-step Ultimate beginners Guide](https://www.pdfdrive.com/git-learn-version-control-with-git-a-step-by-step-ultimate-beginners-guide-e158237381.html) - Dennis Hutten (PDF)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
-* [Git Notes for Professionals](http://goalkicker.com/GitBook) - Compiled from StackOverflow Documentation (PDF)
 * [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
 * [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/)
 * [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)

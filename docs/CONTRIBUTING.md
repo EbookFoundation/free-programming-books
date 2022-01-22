@@ -1,7 +1,6 @@
 *[Read this in other languages](../README.md#translations)*
 
 
-
 ## Contributor License Agreement
 
 By contributing you agree to the [LICENSE](../LICENSE) of this repository.

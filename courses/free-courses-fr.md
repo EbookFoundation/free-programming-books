@@ -1,6 +1,7 @@
 ### Index
 
 * [Algorithmes & Structures des données](#algorithmes)
+* [APL](#apl)
 * [Bash / Shell](#bash--shell)
 * [C](#c)
 * [C#](#c-sharp)
@@ -23,6 +24,11 @@
 ### Algorithmes
 
 * [Cours d'Algorithmie](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) - Formation Video
+
+
+### APL
+
+* [Découvrez le langage APL](https://www.youtube.com/watch?v=Nxq1BUUXobM&list=PLYKQVqyrAEj_DwkVAvj7xHxr72ite69nW) - Schraf : Maths-info
 
 
 ### Bash / Shell

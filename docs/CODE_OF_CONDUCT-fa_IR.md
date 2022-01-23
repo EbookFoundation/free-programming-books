@@ -1,5 +1,5 @@
 <div dir="rtl" markdown="1">
-  
+
 # مرام‌نامه‌ی مشارکت‌کنندگان
 
 ما به عنوان مشارکت کنندگان و نگهدارندگان این پروژه و به منظور تقویت یک جامعه باز و استقبال کننده،
@@ -40,8 +40,7 @@ victorfelder در gmail.com گزارش شوند.
 این مرامنامه از این جا گرفته شده است: [Contributor Covenant][homepage],
 نسخه‌ی 1.3.0 در این جا در دسترس است: [https://contributor-covenant.org/version/1/3/0/](https://contributor-covenant.org/version/1/3/0/)
 
-[homepage]: https://contributor-covenant.org
-  
 </div>
 
+[homepage]: https://contributor-covenant.org
 [Translations](../README.md#translations)

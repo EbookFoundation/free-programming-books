@@ -1,6 +1,6 @@
 *[این متن را در زبان‌های دیگر بخوانید](../README.md#translations)*
 
-<div dir="rtl">
+<div dir="rtl" markdown="1">
 
 ## توافقنامه‌ی مجوز همکاری
 

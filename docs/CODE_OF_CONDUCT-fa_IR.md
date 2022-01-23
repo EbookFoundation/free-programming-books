@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="rtl" markdown="1">
   
   # مرام‌نامه‌ی مشارکت‌کنندگان
 

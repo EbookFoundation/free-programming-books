@@ -1,7 +1,7 @@
 ### Index
 
-* [0 - MOOC](#0-mooc)
-* [Algorithms & Data Structures](#algorithms-data-structures)
+* [0 - MOOC](#0---mooc)
+* [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
@@ -80,7 +80,7 @@
 * [Web Development](#web-development)
 
 
-<h3 id="0-mooc">0 - MOOC</h3>
+### 0 - MOOC
 
 * [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org)
@@ -99,7 +99,7 @@
 * [Udacity](https://www.udacity.com)
 
 
-<h3 id="algorithms-data-structures">Algorithms & Data Structures</h3>
+### Algorithms & Data Structures
 
 * [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)

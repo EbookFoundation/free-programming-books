@@ -4,6 +4,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 # [Conversion]
 markdown: kramdown
+kramdown:
+  input: GFM
 
 # [Used rubygem plugins]
 plugins:

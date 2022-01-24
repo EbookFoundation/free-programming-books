@@ -38,7 +38,7 @@ victorfelder در gmail.com گزارش شوند.
 
 
 این مرامنامه از این جا گرفته شده است: [Contributor Covenant][homepage],
-نسخه‌ی 1.3.0 در این جا در دسترس است: [https://contributor-covenant.org/version/1/3/0/](https://contributor-covenant.org/version/1/3/0/)
+نسخه‌ی 1.3.0 در این جا در دسترس است: https://contributor-covenant.org/version/1/3/0/
 
 </div>
 

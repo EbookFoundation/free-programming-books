@@ -2,7 +2,7 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 ```
 markdown: kramdown
 kramdown:
-  input: GFM
+  input: commonmark
 ```
 
 # List of Free Learning Resources In Many Languages

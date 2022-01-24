@@ -1,5 +1,9 @@
 This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
-
+```
+markdown: kramdown
+kramdown:
+  input: GFM
+```
 
 # List of Free Learning Resources In Many Languages
 

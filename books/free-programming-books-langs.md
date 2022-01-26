@@ -430,6 +430,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
 * [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch
+* [C in Depth](https://drive.google.com/file/d/1xLrIMrVV093BuuZPkrbcN9ZB51YawUIx/view?usp=sharing) - Deepali Srivastava and S.K. Srivastava
 * [C Internals](https://www.avabodh.com/cin/cin.html) - Rajeev Kumar (HTML)
 * [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
@@ -1025,6 +1026,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Category wise tutorials - J2EE](https://www.mkyong.com/all-tutorials-on-mkyong-com/) - Yong Mook Kim
 * [Core Servlets and JavaServer Pages, 2nd Ed. (2003)](https://web.archive.org/web/20210126062450/https://pdf.coreservlets.com/) - Marty Hall and Larry Brown *(:card_file_box: archived)*
 * [Data Structures in Java for the Principled Programmer (2007)](https://web.archive.org/web/20190302130416/http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) - Duane A. Bailey (PDF)
+* [Data Structures and Algorithms Made Easy in JAVA](https://drive.google.com/file/d/1wsjSNcTH3RP6sJg7i9LxDFgC6C3nUDSR/view?usp=sharing) - Narasimha Karumanchi (PDF)
 * [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Introduction to Computer Science "booksite"](https://introcs.cs.princeton.edu/java/cs/) - by Robert Sedgewick and Kevin Wayne (HTML)
 * [Introduction to Computer science using Java](http://www.programmedlessons.org/Java9/index.html) - Bradley Kjell
@@ -1032,6 +1034,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes) - David J. Eck (HTML, PDF, ePUB + exercises)
 * [Introduction to Programming Using Java (5th Edition - final version, 2010 Jun)](https://math.hws.edu/eck/cs124/javanotes5) - David J. Eck (HTML, PDF, ePUB + exercises)
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing and Michael Schwarz (PDF)
+* [Java Cookbook](https://drive.google.com/file/d/1CnnY1wRhmoygWiaPBvIhH5_sUIB4RK5G/view?usp=sharing) - Ian Darwin (O'Reilly)
 * [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli and R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Masters](https://javamasters.io/servlets) - Java Masters (HTML)
@@ -1380,6 +1383,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Kotlin
 
+* [Head First Kotlin](https://drive.google.com/file/d/1dKSaMM7EHWvAV2oWqFdYJX0v-MFM3Rjf/view?usp=sharing) - Dawn and David Griffiths(O'Reilly)
 * [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF)
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 * [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)

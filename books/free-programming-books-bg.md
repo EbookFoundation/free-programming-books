@@ -23,7 +23,7 @@
 * [Програмиране за .NET Framework](https://www.devbg.org/dotnetbook) - Светлин Наков и колектив
 
 
-<h3 id="cpp">C++</h3>
+### <a name="cpp"></a>C++
 
 * [Основи на програмирането със C++](https://cpp-book.softuni.bg) - Светлин Наков и колектив
 

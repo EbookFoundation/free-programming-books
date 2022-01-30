@@ -29,7 +29,7 @@ INT - Cредний. Расширенные возможности.
 ADV - Продвинутый. Тонкости.
 
 
-<h3 id="design-architecture">Дизайн и Aрхитектура</h3>
+### <a name="design-architecture"></a>Дизайн и Aрхитектура
 
 * [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
 

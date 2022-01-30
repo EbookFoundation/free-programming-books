@@ -28,7 +28,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CON
 
 4. Assicurati di seguire le [linee guida qui sotto](#guidelines) e rispettare la [formattazione Markdown](#formatting) dei file.
 
-5. GitHub Actions avvierà dei test per assicurarsi che le tue liste siano ordinate alfabeticamente e formattate correttamente. Assicurati che i tuoi cambiamenti passino il test.
+5. GitHub Actions avvierà dei test per assicurarsi che le tue **liste siano ordinate alfabeticamente e formattate correttamente**. **Assicurati che** i tuoi cambiamenti passino il test.
 
 
 <!----><a name="guidelines"></a>

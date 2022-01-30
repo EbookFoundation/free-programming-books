@@ -28,7 +28,7 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
 
 4. Pastikan Anda mengikuti [Guidelines](#guidelines) dan [Markdown Formatting](#formatting) dari file.
 
-5. GitHub Actions akan menjalankan tes untuk memastikan bahwa daftar diurutkan berdasarkan abjad dengan benar dan bahwa aturan pemformatan telah diikuti. Pastikan perubahan Anda lulus tes ini.
+5. GitHub Actions akan menjalankan tes untuk memastikan bahwa **daftar diurutkan berdasarkan abjad dengan benar** dan bahwa **aturan pemformatan telah diikuti**. **Pastikan** perubahan Anda lulus tes ini.
 
 
 ### Pedoman

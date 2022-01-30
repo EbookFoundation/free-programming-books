@@ -28,7 +28,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 
 4. Certifique-se de seguir as [diretrizes abaixo](#diretrizes) e respeitar a [formatação de Markdown](#formatação) dos arquivos.
 
-5. GitHub Actions executará testes para assegurar que suas listas estão em ordem alfabética e seguem as regras de formatação. Cerfique-se de que suas alterações passaram pelos testes.
+5. GitHub Actions executará testes para assegurar que suas **listas estão em ordem alfabética** e **seguem as regras de formatação**. **Cerfique-se** de que suas alterações passaram pelos testes.
 
 
 ### Diretrizes

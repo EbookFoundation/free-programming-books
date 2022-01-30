@@ -28,7 +28,7 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_COND
 
 4. Stell sicher, dass Du den [Richtlinien](#richtlinien) folgst und die [Markdown Formatierung](#formatierung) der Dateien beachtest.
 
-5. GitHub Actions werden Tests ausführen, um sicherzustellen, dass die Listen korrekt alphabetisiert sind und den Formatierungsregeln Folge geleistet wurde. Stell sicher, dass Deine Änderungen diese Tests bestehen.
+5. GitHub Actions werden Tests ausführen, um sicherzustellen, dass die **Listen korrekt alphabetisiert sind** und den **Formatierungsregeln Folge geleistet wurde**. **Stell sicher**, dass Deine Änderungen diese Tests bestehen.
 
 
 ### Richtlinien

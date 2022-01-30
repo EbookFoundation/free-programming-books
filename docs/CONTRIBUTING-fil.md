@@ -28,7 +28,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
 
 4. Siguraduhing sundin ang [guidelines below](#guidelines) at igalang ang [Markdown formatting](#formatting) ng mga file.
 
-5. Ang GitHub Actions ay magpapatakbo ng mga pagsubok upang matiyak na ang iyong mga listahan ay naka-alpabeto at sinusunod ang mga panuntunan sa pag-format. Siguraduhing suriin na ang iyong mga pagbabago ay pumasa sa mga pagsubok.
+5. Ang GitHub Actions ay magpapatakbo ng mga pagsubok upang matiyak na **ang iyong mga listahan ay naka-alpabeto** at **sinusunod ang mga panuntunan sa pag-format**. **Siguraduhing** suriin na ang iyong mga pagbabago ay pumasa sa mga pagsubok.
 
 
 <!----><a name="guidelines"></a>

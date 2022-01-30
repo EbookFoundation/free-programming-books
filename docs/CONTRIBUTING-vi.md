@@ -38,7 +38,7 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](C
 
 4. Đảm bảo tuân thủ theo [những nguyên tắc bên dưới](#Những Nguyên Tắc) và đảm bảo sử dụng đúng [định dạng Markdown](#Định Dạng).
 
-5. GitHub Actions sẽ chạy các test để đảm bảo danh sách của bạn được sắp xếp theo thứ tự bảng chữ cái và các nguyên tắc định dạng được tuân thủ. Kiểm tra để đảm bảo các thay đổi của bạn có vượt qua các bài test.
+5. GitHub Actions sẽ chạy các test để đảm bảo **danh sách của bạn được sắp xếp theo thứ tự bảng chữ cái** và các **nguyên tắc định dạng được tuân thủ**. **Kiểm tra để đảm bảo** các thay đổi của bạn có vượt qua các bài test.
 
 
 ### Những Nguyên Tắc

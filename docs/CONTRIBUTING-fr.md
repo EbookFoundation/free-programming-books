@@ -28,7 +28,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 
 4. Assurez-vous de suivre les [directives ci-dessous](#directrices) et de respecter [la format Markdown](#formatage) des fichers.
 
-5. GitHub Actions exécutera des tests pour s'assurer que vos listes sont classées par ordre alphabétique et que les règles de formatage sont respectées. Assurez-vous de vérifier que vos modifications passent les tests.
+5. GitHub Actions exécutera des tests pour s'assurer que vos **listes sont classées par ordre alphabétique** et que **les règles de formatage sont respectées**. **Assurez-vous** de vérifier que vos modifications passent les tests.
 
 
 ### Directrices

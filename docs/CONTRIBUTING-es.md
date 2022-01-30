@@ -31,7 +31,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 
 4. Asegúrese de seguir la [guía de pautas que mostramos a continuación][guidelines] así como de respetar el [formato Markdown][formatting] de los ficheros.
 
-5. GitHub Actions ejecutará pruebas para asegurarse de que las listas esten ordenadas alfabéticamente y de que se siga dicha normalización de formateo. Asegúrese de verificar que sus cambios pasen todas estas comprobaciones de calidad.
+5. GitHub Actions ejecutará pruebas para asegurarse de que **las listas esten ordenadas alfabéticamente** y de que se **siga dicha normalización de formateo**. **Asegúrese** de verificar que sus cambios pasen todas estas comprobaciones de calidad.
 
 
 <!----><a name="guidelines"></a>

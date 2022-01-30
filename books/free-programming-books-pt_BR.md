@@ -7,7 +7,7 @@
 * [Android](#android)
 * [Assembly](#assembly)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Dart](#dart)
 * [Docker](#docker)
@@ -101,7 +101,7 @@
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 

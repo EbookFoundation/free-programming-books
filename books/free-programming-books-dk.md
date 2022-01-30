@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Java](#java)
 * [Pascal](#pascal)
@@ -12,7 +12,7 @@
 * [Programmering i C](http://people.cs.aau.dk/~normark/c-prog-06/pdf/all.pdf) - Kurt Nørmark (PDF)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [Object-oriented Programming in C#](http://people.cs.aau.dk/~normark/oop-csharp/pdf/all.pdf) - Kurt Nørmark (PDF)
 

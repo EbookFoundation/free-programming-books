@@ -2,7 +2,7 @@
 
 * [Android](#android)
 * [C](#c)
-* [C Sharp](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [CSS](#css)
 * [Dart](#dart)
@@ -55,7 +55,7 @@
 * [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (Youtube)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)

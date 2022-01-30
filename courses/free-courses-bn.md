@@ -41,7 +41,7 @@
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
 
 
-### <a name="csharp"></a>C#
+### <a name="csharp"></a>C\#
 
 * [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
 * [C# bangla tutorial | Basic to advance in depth bangla course](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt) - Learn Hunter

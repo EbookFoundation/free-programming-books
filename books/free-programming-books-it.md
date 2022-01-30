@@ -10,7 +10,7 @@
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [CSS](#css)
 * [Database](#database)
@@ -97,7 +97,7 @@
 * [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [ABC# - Guida alla programmazione](http://antoniopelleriti.it/wp-content/uploads/2019/04/ABCsharp-guida-alla-programmazione-in-csharp.pdf) - A. Pelleriti (PDF)
 

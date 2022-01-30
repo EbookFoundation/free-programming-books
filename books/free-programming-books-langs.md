@@ -28,7 +28,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [BeanShell](#beanshell)
 * [BETA](#beta)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Chapel](#chapel)
 * [Cilk](#cilk)
@@ -462,7 +462,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [C# Notes for Professionals](http://goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (PDF)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks

@@ -5,7 +5,7 @@
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Common Lisp](#common-lisp)
 * [Coq](#coq)
@@ -69,7 +69,7 @@
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [Darmowy kurs C#](http://kurs.aspnetmvc.pl/Csharp)
 * [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając

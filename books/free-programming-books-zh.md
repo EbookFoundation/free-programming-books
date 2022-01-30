@@ -28,7 +28,7 @@
   * [Assembly](#assembly)
   * [AWK](#awk)
   * [C](#c)
-  * [C#](#c-sharp)
+  * [C#](#csharp)
   * [C++](#cpp)
   * [CoffeeScript](#coffeescript)
   * [Dart](#dart)
@@ -334,7 +334,7 @@
 * [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [精通C#(第6版)](http://book.douban.com/subject/24827879/)
 

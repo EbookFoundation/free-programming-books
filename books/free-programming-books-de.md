@@ -5,7 +5,7 @@
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Component Pascal](#component-pascal)
 * [Git](#git)
@@ -67,7 +67,7 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)

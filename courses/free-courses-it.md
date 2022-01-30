@@ -5,7 +5,7 @@
 * [Architettura degli Elaboratori](#architettura-degli-elaboratori)
 * [Assembly](#assembly)
 * [C](#c)
-* [C Sharp](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Database](#database)
   * [SQL](#sql)
@@ -66,7 +66,7 @@
 * [Linguaggio C - Corso completo](https://www.youtube.com/playlist?list=PL83Ordjpzm5oUl7tFEjc4iirkPBiv7FxR) - Programmazione Time
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [Programmazione ad oggetti in C#](https://www.youtube.com/watch?v=aSgikNnGEKM&list=PLktbfd3yXeH8yQpHM3O468k8l-aTC6Hl6) - G. Pellegrini Parisi
 

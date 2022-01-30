@@ -4,7 +4,7 @@
 * [Bash](#bash)
 * [Brainfuck](#brainfuck)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [CSS](#css)
 * [HTML](#html)
@@ -36,7 +36,7 @@
 * [Kurs Programowania w C](https://www.youtube.com/playlist?list=PLgeFsJ0yZyikV_e8YDl5rixXu-H6wFIIZ)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [Podstawy programowania w języku C#](https://www.youtube.com/playlist?list=PLk5dbESAmUZh1cLITav0ZmDEqRujsPa93)
 

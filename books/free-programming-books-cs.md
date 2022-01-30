@@ -1,7 +1,7 @@
 ### Index
 
 * [Bash](#bash)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
 * [HTML](#html)
@@ -32,7 +32,7 @@
 * [Bash očima Bohdana Milara](http://i.iinfo.cz/files/root/k/bash_ocima_bohdana_milara.pdf) (PDF)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [Programovací jazyk C#](http://www.cs.vsb.cz/behalek/vyuka/pcsharp/text.pdf) - Marek Běhálek (PDF)
 * [Systémové programování v jazyce C#](https://phoenix.inf.upol.cz/esf/ucebni/sysprog.pdf) (PDF)

@@ -10,7 +10,7 @@
 * [Bash / Shell](#bash--shell)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
@@ -241,7 +241,7 @@
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
 * [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (YouTube)
@@ -746,7 +746,7 @@
 
 ### .NET
 
-> :information_source: See also &#8230; [C#](#c-sharp)
+> :information_source: See also &#8230; [C#](#csharp)
 
 
 ### Objective-C

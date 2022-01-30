@@ -2,7 +2,7 @@
 
 * [Android](#android)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
 * [Emacs](#emacs)
@@ -37,7 +37,7 @@
 * [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian (:construction: *in process*)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/)
 

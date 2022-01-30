@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -16,7 +16,7 @@
 * [ANSI C - Пълен справочник](https://progstarter.com/index.php?option=com_content&view=article&id=9&Itemid=122&lang=bg) - Димо Петков
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [Основи на програмирането със C#](https://csharp-book.softuni.bg) - Светлин Наков и колектив
 * [Принципи на програмирането със C#](https://introprogramming.info/intro-csharp-book) - Светлин Наков, Веселин Колев и колектив

@@ -4,7 +4,7 @@
 * [Apache Kafka](#apache-kafka)
 * [AR / VR](#ar--vr)
 * [C / C++](#c--c)
-* [C#](#c)
+* [C#](#csharp)
 * [Construct](#construct)
 * [Dart](#dart)
 * [Desain dan Arsitektur](#desain-dan-arsitektur)
@@ -72,7 +72,7 @@
 * [Memulai Pemrograman dengan C](https://www.dicoding.com/academies/120) - Dicoding, membutuhkan registrasi
 
 
-### C#
+### <a name="csharp"></a>C\#
 
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
 

@@ -61,7 +61,7 @@
 * [SoloLearn](https://code.sololearn.com/c)
 
 
-### <a name="csharp"></a>C#
+### <a name="csharp"></a>C\#
 
 * [SoloLearn](https://code.sololearn.com/csharp)
 

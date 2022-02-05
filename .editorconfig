@@ -9,7 +9,7 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-[*.{markdown,md}]
+[*.{md,mkd,mkdn,mdwn,mdown,markdown}]
 trim_trailing_whitespace = false
 
 [*.{yaml,yml}]

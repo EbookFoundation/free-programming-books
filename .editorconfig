@@ -16,6 +16,9 @@ end_of_line = crlf
 [*.{json,jsonc}]
 indent_size = 2
 
+[Makefile]
+indent_style = tab
+
 [*.{md,mkd,mkdn,mdwn,mdown,markdown}]
 trim_trailing_whitespace = false
 

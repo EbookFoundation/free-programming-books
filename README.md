@@ -6,7 +6,8 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 <div align="center" markdown="1">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)  
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Website: https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F&label=Website&logo=internet%20explorer&logoColor=whitesmoke&style=flat)](https://ebookfoundation.github.io/free-programming-books/)  
 [![GitHub repo forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books?logo=github&logoColor=whitesmoke)](https://github.com/EbookFoundation/free-programming-books/network)
 [![GitHub repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?logo=github&logoColor=whitesmoke)](https://github.com/EbookFoundation/free-programming-books/stargazers)
 [![GitHub watchers](https://img.shields.io/github/watchers/EbookFoundation/free-programming-books?logo=github&logoColor=whitesmoke)](https://github.com/EbookFoundation/free-programming-books/watchers)

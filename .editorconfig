@@ -17,3 +17,7 @@ indent_size = 2
 
 [*.{json,jsonc}]
 indent_size = 2
+
+[*.py]
+indent_size = 4
+indent_style = space

@@ -14,34 +14,47 @@ indent_style = space
 insert_final_newline = true
 max_line_length = off
 trim_trailing_whitespace = true
+curly_bracket_next_line = false
+spaces_around_operators = true
 
-; DOS scripts - force CRLF eof
+; DOS/Windows batch scripts - 
 [*.{bat,cmd}]
 indent_size = 4
 end_of_line = crlf
 
-; JSON files - compress a little more
+; JavaScript/TypeScript files - 
+[*.{js,ts}]
+curly_bracket_next_line = true
+quote_type = single
+
+; JSON files (normal and commented version) - 
 [*.{json,jsonc}]
 indent_size = 2
+quote_type = double
 
-; Make tasks - match defaults according it own syntax
+; Make - match it own default syntax
 [Makefile]
 indent_style = tab
 
-; Markdown files - preserve whitespaces
-[*.{md,mkd,mkdn,mdwn,mdown,markdown}]
+; Markdown files - preserve trail spaces that means break line
+[*.{md,markdown}]
 trim_trailing_whitespace = false
 
 ; PowerShell - match defaults for New-ModuleManifest and PSScriptAnalyzer Invoke-Formatter
 [*.{ps1,psd1,psm1}]
-indent_size = 4
 charset = utf-8-bom
+end_of_line = crlf
+indent_size = 4
 
-; Python sources - match defaults according it own syntax
+; Python sources - match it own default syntax
 [*.py]
 indent_size = 4
 indent_style = space
 
-; YML config files - match defaults according it own syntax
+; Tab separated values - preserve separator 
+[*.tsv]
+indent_style = tab
+
+; YML config files - match it own default syntax
 [*.{yaml,yml}]
 indent_size = 2

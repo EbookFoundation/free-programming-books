@@ -2,8 +2,10 @@
 # coding styles between different editors and IDEs
 # editorconfig.org
 
+; top-most EditorConfig file
 root = true
 
+; define basic and global for any file
 [*]
 charset = utf-8
 end_of_line = lf
@@ -12,16 +14,20 @@ indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
 
+; DOS scripts - force CRLF eof
 [*.{bat,cmd}]
 indent_size = 4
 end_of_line = crlf
 
+; JSON files - compress a little more
 [*.{json,jsonc}]
 indent_size = 2
 
+; Make tasks - match defaults according it own syntax
 [Makefile]
 indent_style = tab
 
+; Markdown files - preserve whitespaces
 [*.{md,mkd,mkdn,mdwn,mdown,markdown}]
 trim_trailing_whitespace = false
 
@@ -30,9 +36,11 @@ trim_trailing_whitespace = false
 indent_size = 4
 charset = utf-8-bom
 
+; Python sources - match defaults according it own syntax
 [*.py]
 indent_size = 4
 indent_style = space
 
+; YML config files - match defaults according it own syntax
 [*.{yaml,yml}]
 indent_size = 2

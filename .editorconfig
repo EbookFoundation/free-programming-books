@@ -13,15 +13,15 @@ trim_trailing_whitespace = true
 indent_size = 4
 end_of_line = crlf
 
-[*.{md,mkd,mkdn,mdwn,mdown,markdown}]
-trim_trailing_whitespace = false
-
-[*.{yaml,yml}]
-indent_size = 2
-
 [*.{json,jsonc}]
 indent_size = 2
+
+[*.{md,mkd,mkdn,mdwn,mdown,markdown}]
+trim_trailing_whitespace = false
 
 [*.py]
 indent_size = 4
 indent_style = space
+
+[*.{yaml,yml}]
+indent_size = 2

@@ -25,6 +25,11 @@ indent_style = tab
 [*.{md,mkd,mkdn,mdwn,mdown,markdown}]
 trim_trailing_whitespace = false
 
+; PowerShell - match defaults for New-ModuleManifest and PSScriptAnalyzer Invoke-Formatter
+[*.{ps1,psd1,psm1}]
+indent_size = 4
+charset = utf-8-bom
+
 [*.py]
 indent_size = 4
 indent_style = space

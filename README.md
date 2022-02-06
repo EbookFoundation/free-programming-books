@@ -8,6 +8,7 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub repo forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books?logo=github&logoColor=whitesmoke)](https://github.com/EbookFoundation/free-programming-books/network)
+[![GitHub repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?logo=github&logoColor=whitesmoke)](https://github.com/EbookFoundation/free-programming-books/stargazers)
 
 </div>
 

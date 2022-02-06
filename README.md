@@ -6,10 +6,11 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 <div align="center" markdown="1">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)  
 [![GitHub repo forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books?logo=github&logoColor=whitesmoke)](https://github.com/EbookFoundation/free-programming-books/network)
 [![GitHub repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?logo=github&logoColor=whitesmoke)](https://github.com/EbookFoundation/free-programming-books/stargazers)
 [![GitHub repo size](https://img.shields.io/github/repo-size/EbookFoundation/free-programming-books?logo=github&logoColor=whitesmoke)](https://github.com/EbookFoundation/free-programming-books/archive/refs/heads/main.zip)  
+[![GitHub repo issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books?logo=github&logoColor=darkred&style=social)](https://github.com/EbookFoundation/free-programming-books/issues)   [![GitHub Help Wanted issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/help%20wanted?logo=github&logoColor=b545d1&style=social)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)  
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/EbookFoundation?color=green&logo=github&logoColor=whitesmoke&style=for-the-badge)](https://github.com/sponsors/EbookFoundation)
 
 </div>

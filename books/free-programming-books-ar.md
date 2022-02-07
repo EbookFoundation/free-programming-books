@@ -2,7 +2,7 @@
 
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
@@ -25,7 +25,8 @@
 ### Arduino
 
 * [احترف الأردوينو](https://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) - Working Group (PDF)
-* [أردوينو ببساطة](https://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/) - Abdallah Ali Abdallah (PDF)
+* [اردوينو ببساطة](https://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry (PDF)
+* [AVR ببساطة: من تشغيل دايود ضوئي إلى أنظمة الوقت الحقيقي](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry (ODT, PDF)
 
 
 ### Artificial Intelligence
@@ -33,7 +34,7 @@
 * [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-%D9%85%D8%AF%D8%AE%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9/) - Mohamed Lahlah (PDF)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy) (PDF)
 

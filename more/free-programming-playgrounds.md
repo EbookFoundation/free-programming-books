@@ -1,5 +1,6 @@
 ### Index
 
+* [APL](#apl)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -45,6 +46,14 @@
 * [V](#v)
 
 
+### APL
+
+* [APLgolf](https://razetime.github.io/APLgolf)
+* [ngn/apl](https://abrudz.github.io/ngn-apl)
+* [TryAPL](https://tryapl.org)
+* [TryAPL Mini](https://janiczek.github.io/tryapl-elm)
+
+
 ### <a name="c"></a>C
 
 * [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
@@ -52,7 +61,7 @@
 * [SoloLearn](https://code.sololearn.com/c)
 
 
-### <a name="csharp"></a>C#
+### <a name="csharp"></a>C\#
 
 * [SoloLearn](https://code.sololearn.com/csharp)
 
@@ -60,6 +69,7 @@
 ### <a name="cpp"></a>C++
 
 * [Coding Minutes](https://ide.codingminutes.com)
+* [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
 * [LabStack](https://code.labstack.com/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)
@@ -220,6 +230,7 @@
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
+* [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz
 
 
 ### R

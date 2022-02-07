@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C Sharp](#c-sharp)
+* [C#](#csharp)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
@@ -18,7 +18,7 @@
 * [Programmeerimiskeel C](https://et.wikibooks.org/wiki/Programmeerimiskeel_C) - Wikiõpikud
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [Microsoft Visual Studio Code ja C#](https://digiarhiiv.ut.ee/Ained/Doc/VFailid/CSharp_ja_VS.pdf) - Kalle Remm (PDF)
 

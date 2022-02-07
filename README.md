@@ -20,17 +20,22 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 
-### How To Contribute
+## How To Contribute
 
 Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md) too. ([translations](#translations) also available)
 
 
-### How to Share
+## How to Share
 
 + [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
 + [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 + [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
+
+
+## Resources
+
+We have the next category structure in our repository:
 
 
 ### Books
@@ -157,7 +162,7 @@ Free Podcasts and Screencasts:
 + [English](more/free-programming-playgrounds.md)
 
 
-### Translations
+## Translations
 
 We have Contributing, How-to, and Code of Conduct documents translated into many languages.
 
@@ -216,12 +221,14 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
   - [Contributing](docs/CONTRIBUTING-it.md)
   - [How-to](docs/HOWTO-it.md)
 - Japanese / 日本語
+- Kazakh / қазақша
 - Khmer / Cambodian / ខ្មែរ
   - [How-to](docs/HOWTO-km.md)
 - Korean / 한국어 [韓國語]
   - [행동강령](docs/CODE_OF_CONDUCT-ko.md)
   - [Contributing](docs/CONTRIBUTING-ko.md)
   - [How-to](docs/HOWTO-ko.md)
+- Malayalam / മലയാളം
 - Norwegian / Norsk
 - Persian / Farsi (Iran) / فارسى
   - [مرام‌نامه‌ی](docs/CODE_OF_CONDUCT-fa_IR.md)
@@ -240,6 +247,7 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
 - Russian / Русский язык
   - [Кодекс поведения](docs/CODE_OF_CONDUCT-ru.md)
   - [Contributing](docs/CONTRIBUTING-ru.md)
+- Sinhala / සිංහල
 - Slovak / slovenčina
   - [How-to](docs/HOWTO-sk.md)
 - Spanish / español / castellano

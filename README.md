@@ -242,14 +242,14 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
   - [Contributing](docs/CONTRIBUTING-pt_BR.md)
   - [How-to](docs/HOWTO-pt_BR.md)
 - Portuguese (Portugal)
-  - [How-to](docs/HOWTO-pt_PT.md)
 - Romanian (Romania) / limba română / român
 - Russian / Русский язык
   - [Кодекс поведения](docs/CODE_OF_CONDUCT-ru.md)
   - [Contributing](docs/CONTRIBUTING-ru.md)
 - Sinhala / සිංහල
 - Slovak / slovenčina
-  - [How-to](docs/HOWTO-sk.md)
+- Slovenian / slovenščina
+  - [How-to](docs/HOWTO-sl.md)
 - Spanish / español / castellano
   - [Código de Conducta](docs/CODE_OF_CONDUCT-es.md)
   - [Contributing](docs/CONTRIBUTING-es.md)

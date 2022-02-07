@@ -61,7 +61,7 @@ To be inclusive, we have our governance documents (Contributing, How-to, Code of
 - Japanese / 日本語
 - Kazakh / қазақша
 - Khmer / Cambodian / ខ្មែរ
-  - [How-to](docs/HOWTO-km.md)
+  - [How-to](HOWTO-km.md)
 - Korean / 한국어 [韓國語]
   - [행동강령](CODE_OF_CONDUCT-ko.md)
   - [Contributing](CONTRIBUTING-ko.md)
@@ -80,14 +80,14 @@ To be inclusive, we have our governance documents (Contributing, How-to, Code of
   - [Contributing](CONTRIBUTING-pt_BR.md)
   - [How-to](HOWTO-pt_BR.md)
 - Portuguese (Portugal)
-  - [How-to](HOWTO-pt_PT.md)
 - Romanian (Romania) / limba română / român
 - Russian / Русский язык
   - [Кодекс поведения](CODE_OF_CONDUCT-ru.md)
   - [Contributing](CONTRIBUTING-ru.md)
 - Sinhala / සිංහල
 - Slovak / slovenčina
-  - [How-to](HOWTO-sk.md)
+- Slovenian / slovenščina
+  - [How-to](HOWTO-sl.md)
 - Spanish / español / castellano
   - [Código de Conducta](CODE_OF_CONDUCT-es.md)
   - [Contributing](CONTRIBUTING-es.md)

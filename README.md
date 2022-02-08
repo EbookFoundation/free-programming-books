@@ -22,7 +22,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) now administers the rep
 
 ## How To Contribute
 
-Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md) too. ([translations](#translations) also available)
+Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md) too. ([translations](docs/README.md#translations) also available)
 
 
 ## How to Share

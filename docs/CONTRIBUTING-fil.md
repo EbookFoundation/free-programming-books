@@ -1,4 +1,4 @@
-*[Basahin ito sa ibang mga wika](../README.md#translations)*
+*[Basahin ito sa ibang mga wika](README.md#translations)*
 
 
 ## Kasunduan sa Lisensya ng Contributor
@@ -8,7 +8,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon ka sa [LICENSE](../LICENSE) ng reposi
 
 ## Kodigo ng Pag-uugali ng Contributor
 
-Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CODE_OF_CONDUCT-fil.md) ng repositoryong ito. ([translations](../README.md#translations))
+Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CODE_OF_CONDUCT-fil.md) ng repositoryong ito. ([translations](README.md#translations))
 
 
 ## Sa maikling sabi

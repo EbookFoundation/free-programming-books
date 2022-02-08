@@ -496,7 +496,7 @@
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * [Javascript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
-
+* [现代 JavaScript 教程](https://zh.javascript.info/)
 
 #### AngularJS
 

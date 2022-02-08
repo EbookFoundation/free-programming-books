@@ -1,4 +1,4 @@
-*[Đọc bằng ngôn ngữ khác](../README.md#translations)*
+*[Đọc bằng ngôn ngữ khác](README.md#translations)*
 
 Bản dịch Tiếng Việt:
 
@@ -18,7 +18,7 @@ Bằng cách đóng góp, bạn đồng ý với [LICENSE](../LICENSE) của kho
 
 ## Quy Tắc Ứng Xử của Cộng Tác Viên
 
-Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](CODE_OF_CONDUCT.md) của kho lưu trữ này. ([translations](../README.md#translations))
+Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](CODE_OF_CONDUCT.md) của kho lưu trữ này. ([translations](README.md#translations))
 
 
 ## Tóm Tắt

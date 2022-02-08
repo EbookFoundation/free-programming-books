@@ -2,7 +2,7 @@
 
 ## Translations
 
-To be inclusive, we have our governance documents (Contributing, How-to, Code of Conduct...) translated into many languages:
+The inclusiveness is one of our targets, thus we have our governance documents (Contributing, How-to, Code of Conduct...) translated into many languages:
 
 - Arabic / al arabiya / العربية
   - [How-to](HOWTO-ar.md)
@@ -105,3 +105,5 @@ To be inclusive, we have our governance documents (Contributing, How-to, Code of
 - Vietnamese / Tiếng Việt
   - [Đóng Góp](CONTRIBUTING-vi.md)
   - [How-to](HOWTO-vi.md)
+
+As you can see, the above list also reflects all the languages ​​in which we have some resource (books, courses...) links, even if it does not have any of that said translations. Do you dare to translate them?

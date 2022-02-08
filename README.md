@@ -164,7 +164,7 @@ Free Podcasts and Screencasts:
 
 ## Translations
 
-We have Contributing, How-to, and Code of Conduct documents translated into many languages.
+The inclusiveness is one of our targets, thus we have Contributing, How-to, and Code of Conduct documents translated into many languages:
 
 - Arabic / al arabiya / العربية
   - [How-to](docs/HOWTO-ar.md)
@@ -267,6 +267,9 @@ We have Contributing, How-to, and Code of Conduct documents translated into many
 - Vietnamese / Tiếng Việt
   - [Đóng Góp](docs/CONTRIBUTING-vi.md)
   - [How-to](docs/HOWTO-vi.md)
+
+As you can see, the above list also reflects all the languages ​​in which we have some resource (books, courses...) links, even if it does not have any of that said translations. Do you dare to translate them?
+
 
 ## License
 

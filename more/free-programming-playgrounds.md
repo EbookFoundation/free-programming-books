@@ -56,7 +56,7 @@
 
 ### <a name="Assembly"></a>Assembly
 
-* [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator/releases)
+* [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator)
 
 
 ### <a name="c"></a>C

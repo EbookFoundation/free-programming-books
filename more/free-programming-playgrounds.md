@@ -57,7 +57,7 @@
 
 ### Assembly
 
-* [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator)
+* [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
 
 
 ### <a name="c"></a>C

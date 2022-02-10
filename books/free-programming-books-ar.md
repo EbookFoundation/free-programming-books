@@ -43,8 +43,8 @@
 
 ### HTML/CSS
 
-* [التحريك عبر CSS](https://academy.hsoub.com/files/14-التحريك-عبر-css/)&rlm; - Donovan Hutchinson, Mohamed Beghat (PDF)
-* [نحو فهم أعمق لتقنيات HTML5](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/)&rlm; - Mark Pilgrim, Abdullatif Eymash (PDF)
+* [التحريك عبر CSS&rlm;](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat (PDF)
+* [نحو فهم أعمق لتقنيات HTML5&rlm;](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash (PDF)
 
 
 ### Introduction to Programming in Arabic
@@ -54,8 +54,8 @@
 
 ### JavaScript
 
-* [تعلم JavaScript](https://itwadi.com/node/3002)&rlm; - Cody Lindley, عبداللطيف ايمش (PDF)
-* [Eloquent Javascript (Second Edition)](https://rabahboudia.gitbooks.io/arabic-eloquent-js/)&rlm; - Marijn Haverbeke, Rabah Boudia (gitbook) 
+* [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
+* [Eloquent Javascript (Second Edition)&rlm;](https://rabahboudia.gitbooks.io/arabic-eloquent-js/) - Marijn Haverbeke, Rabah Boudia (gitbook) 
 
 
 ### Linux

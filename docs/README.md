@@ -106,4 +106,4 @@ The inclusiveness is one of our targets, thus we have our governance documents (
   - [Đóng Góp](CONTRIBUTING-vi.md)
   - [How-to](HOWTO-vi.md)
 
-As you can see, the above list also reflects all the languages ​​in which we have some resource (books, courses...) links, even if it does not have any of that said translations. Do you dare to translate them?
+You might notice that there are some missing translations here - perhaps you would like to help out by [contributing a translation](CONTRIBUTING.md#help-out-by-contributing-a-translation)?

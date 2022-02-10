@@ -45,6 +45,7 @@
 
 * [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - B. Hall, Çeviren Emre "FZ" Sevinç (HTML)
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
+* [Necati Ergin C Ders Notlari](https://www.academia.edu/29237439/C_ve_Sistem_Programc%C4%B1lar%C4%B1_Derne%C4%9Fi_C_Ders_Notlar%C4%B1_Necati_Ergin)
 
 
 ### <a name="cpp"></a>C++

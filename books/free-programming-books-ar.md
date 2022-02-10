@@ -1,8 +1,10 @@
+<div dir="rtl" markdown="1">
+
 ### Index
 
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
-* [C#](#csharp)
+* [C#&lrm;](#csharp)
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
@@ -34,15 +36,15 @@
 * [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-%D9%85%D8%AF%D8%AE%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9/) - Mohamed Lahlah (PDF)
 
 
-### <a name="csharp"></a>C\#
+### <a name="csharp"></a>C#&lrm;
 
-* [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy) (PDF)
+* [سبيلك المختصر لتعلم لغة c#&lrm; - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy) (PDF)
 
 
 ### HTML/CSS
 
-* [التحريك عبر CSS](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat (PDF)
-* [نحو فهم أعمق لتقنيات HTML5](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash (PDF)
+* [التحريك عبر CSS&rlm;](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat (PDF)
+* [نحو فهم أعمق لتقنيات HTML5&rlm;](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash (PDF)
 
 
 ### Introduction to Programming in Arabic
@@ -52,8 +54,8 @@
 
 ### JavaScript
 
-* [تعلم JavaScript](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
-* [Eloquent Javascript (Second Edition)](https://rabahboudia.gitbooks.io/arabic-eloquent-js/) - Marijn Haverbeke, Rabah Boudia (gitbook) 
+* [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
+* [Eloquent Javascript (Second Edition)&rlm;](https://rabahboudia.gitbooks.io/arabic-eloquent-js/) - Marijn Haverbeke, Rabah Boudia (gitbook) 
 
 
 ### Linux
@@ -136,3 +138,5 @@
 ### UI/UX
 
 * [مدخل إلى تجربة المستخدم](https://academy.hsoub.com/files/11-مدخل-إلى-تجربة-المستخدم-user-experience-ux/)
+
+</div>

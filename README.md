@@ -167,7 +167,7 @@ The inclusiveness is one of our targets, thus we have Contributing, How-to, and 
   - [How-to](docs/HOWTO.md)
 - ... *[More languages](docs/README.md#translations)* ...
 
-As you can see, [the above full translations list](docs/README.md#translations) also reflects the languages ​​in which we have some resource (books, courses...) links, even if it does not have any of that said translations. Do you dare to translate them?
+You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 
 
 ## License

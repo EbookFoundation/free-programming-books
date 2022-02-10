@@ -167,7 +167,7 @@ The inclusiveness is one of our targets, so volunteers have translated many of o
   - [How-to](docs/HOWTO.md)
 - ... *[More languages](docs/README.md#translations)* ...
 
-You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](CONTRIBUTING.md#help-out-by-contributing-a-translation)?
+You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 
 
 ## License

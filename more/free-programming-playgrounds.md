@@ -54,7 +54,8 @@
 * [TryAPL](https://tryapl.org)
 * [TryAPL Mini](https://janiczek.github.io/tryapl-elm)
 
-### <a name="Assembly"></a>Assembly
+
+### Assembly
 
 * [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator)
 

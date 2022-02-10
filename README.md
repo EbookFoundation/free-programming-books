@@ -159,7 +159,7 @@ Free Podcasts and Screencasts:
 
 ### Translations
 
-The inclusiveness is one of our targets, thus we have Contributing, How-to, and Code of Conduct documents translated into many languages:
+The inclusiveness is one of our targets, thus we have Contributing, How-to, and Code of Conduct documents translated into these previous languages.
 
 - English
   - [Code of Conduct](docs/CODE_OF_CONDUCT.md)

@@ -4,7 +4,7 @@
 
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
-* [C#](#csharp)&lrm;
+* [C#&lrm;](#csharp)
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)

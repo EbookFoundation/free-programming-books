@@ -159,7 +159,7 @@ Free Podcasts and Screencasts:
 
 ### Translations
 
-The inclusiveness is one of our targets, so volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
+Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
 
 - English
   - [Code of Conduct](docs/CODE_OF_CONDUCT.md)

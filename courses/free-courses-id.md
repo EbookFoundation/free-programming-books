@@ -49,6 +49,7 @@
 * [Menjadi Android Developer Expert](https://www.dicoding.com/academies/165) - Dicoding, membutuhkan registrasi
 * [Tutorial Android (Java)](https://www.youtube.com/playlist?list=PLKPnl-eD7EA4rAzNeXikfCq5yiMuFI1zo) - Kopianan
 * [Tutorial Android (Kotlin)](https://www.youtube.com/playlist?list=PLaoF-xhnnrRUEbF6cvk4-CeBAEOSbp8sS) - EDMT Dev
+* [Tutorial Android Dasar (Bahasa Indonesia)](https://www.youtube.com/watch?v=pUTz5IOkBtE) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Tutorial Dasar Android Studio Bahasa Indonesia](https://www.udemy.com/course/tutorial-dasar-android-studio-bahasa-indonesia-gratis) - Udemy
 
 

@@ -6,7 +6,7 @@
 * [Bash](#bash)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [CSS](#css)
 * [Git](#git)
 * [Go](#go)
@@ -81,7 +81,7 @@
 * [Series Con trỏ trong C](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - Cộng đồng C Việt
 
 
-### C-Sharp
+### <a name="csharp"></a>C\#
 
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK)
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyOEc-S8ovGVG5L92mZEjVu) - TEDU

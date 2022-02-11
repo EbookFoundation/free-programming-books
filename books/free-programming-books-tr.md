@@ -47,7 +47,7 @@
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
 
 
-<h3 id="cpp">C++</h3>
+### <a name="cpp"></a>C++
 
 * [C++ Dersleri](https://www.yusufsezer.com.tr/cpp-dersleri/) - Yusuf Sezer
 

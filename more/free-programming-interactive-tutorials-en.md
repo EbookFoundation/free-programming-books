@@ -4,7 +4,7 @@
 * [Android](#android)
 * [Bash](#bash)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
@@ -70,7 +70,7 @@
 * [Learn C](http://www.learn-c.org) - Learn-C
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
@@ -79,7 +79,7 @@
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
-<h3 id="cpp">C++</h3>
+### <a name="cpp"></a>C++
 
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [CppKoans](https://github.com/torbjoernk/CppKoans)

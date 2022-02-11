@@ -189,6 +189,7 @@
 * [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja) - Jubatus
 * [Mahoutで体感する機械学習の実践](https://gihyo.jp/dev/serial/01/mahout) - やまかつ
 * [機械学習 はじめよう](https://gihyo.jp/dev/serial/01/machine-learning) - 中谷秀洋，恩田伊織
+* [機械学習帳](https://chokkan.github.io/mlnote) - 岡崎直観 (Naoaki Okazaki)
 * [強化学習入門](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF)
 
 
@@ -270,7 +271,7 @@
 * [猫でもわかるプログラミング](http://kumei.ne.jp/c_lang) - 粂井康孝
 
 
-<h3 id="cpp">C++</h3>
+### <a name="cpp"></a>C++
 
 * [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
 * [C++入門](https://www.asahi-net.or.jp/~yf8k-kbys/newcpp0.html) - 小林健一郎

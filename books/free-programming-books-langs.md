@@ -28,7 +28,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [BeanShell](#beanshell)
 * [BETA](#beta)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Chapel](#chapel)
 * [Cilk](#cilk)
@@ -268,11 +268,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### APL
 
-* [A Practical Introduction to APL1 & APL2](http://robertson.uk.net) - Graeme Donald Robertson (PDF)
-* [A Practical Introduction to APL3 & APL4](http://robertson.uk.net) - Graeme Donald Robertson (PDF)
+* [A Practical Introduction to APL1 & APL2](http://robertson.uk.net/Files/APL1&2.pdf) - Graeme Donald Robertson (PDF)
+* [A Practical Introduction to APL3 & APL4](http://robertson.uk.net/Files/APL3&4.pdf) - Graeme Donald Robertson (PDF)
+* [APL2 at a glance](https://ia801009.us.archive.org/28/items/apl-2-at-a-glance-brown-pakin-polivka/APL2_at_a_Glance_-_Brown_Pakin_Polivka.pdf) - James A. Brown, Sandra Pakin, Raymond P. Polivka - 1988 (PDF) *(:card_file_box: archived)*
 * [Introduction to College Mathematics with A Programming Language (1978)](http://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E. J. LeCuyer (PDF)
-* [Learning APL](https://xpqz.github.io/learnapl/intro.html) - Stefan Kruger (HTML,PDF,IPYNB)
-* [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm) (PDF)
+* [Learning APL](https://xpqz.github.io/learnapl) - Stefan Kruger (HTML,PDF,IPYNB)
+* [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm) (PDF) (HTML,IPYNB :construction: *in process*)
+* [Reinforcement Learning From The Ground Up](https://romilly.github.io/o-x-o) - Romilly Cocking (PDF,HTML,IPYNB) (:construction: *in process*)
 
 
 ### App Inventor
@@ -460,7 +462,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 
 
-### C Sharp
+### <a name="csharp"></a>C\#
 
 * [C# Notes for Professionals](http://goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (PDF)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
@@ -483,7 +485,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
 
 
-<h3 id="cpp">C++</h3>
+### <a name="cpp"></a>C++
 
 * [C++ Annotations](https://fbb-git.gitlab.io/cppannotations/) - Frank B. Brokken (HTML, PDF)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - Editors: Bjarne Stroustrup, Herb Sutter
@@ -1306,7 +1308,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### React
 
 * [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - Airbnb
-* [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/full-stack-react-projects) - Shama Hoque (Packt account *required*)
 * [Hacking with React](http://www.hackingwithreact.com)
 * [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
@@ -1453,6 +1454,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Lisp
 
+* [ANSI Common Lisp Standard (draft version 15.17R, X3J13/94-101R)](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) (PDF)
 * [Basic Lisp Techniques](http://franz.com/resources/educational_resources/cooper.book.pdf) - David J. Cooper, Jr. (PDF)
 * [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/) - David S. Touretzky (PDF, PS)
@@ -2339,6 +2341,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Programming in Standard ML, DRAFT](http://www.cs.cmu.edu/~rwh/isml/book.pdf) - Robert Harper (PDF)
 * [SML# Document](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/en/manual.xhtml) - Atsushi Ohori, Katsuhiro Ueno
 * [The Definition of Standard ML (Revised)](http://sml-family.org/sml97-defn.pdf) - SMLFamily GitHub project (PDF)
+* [Unix System Programming with Standard ML](http://mlton.org/References.attachments/Shipman02.pdf) - Anthony L. Shipman (PDF)
 
 
 ### Subversion

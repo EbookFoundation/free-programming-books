@@ -1,13 +1,21 @@
 This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
+
 # List of Free Learning Resources In Many Languages
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+<div align="center" markdown="1">
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+</div>
+
 
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 210,000+ stars, 6800+ commits, 1900+ contributors, and 45,000+ forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 221,000+ stars, 6,900+ commits, 1,900+ contributors, and 47,100+ forks.
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
@@ -80,6 +88,7 @@ Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welc
 ### Free Online Courses
 
 + [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
++ [Bengali / বাংলা](courses/free-courses-bn.md)
 + [Bulgarian / български](courses/free-courses-bg.md)
 + [English](courses/free-courses-en.md)
 + [Finnish](courses/free-courses-fi.md)
@@ -93,6 +102,7 @@ Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welc
 + [Kazakh / қазақша](courses/free-courses-kk.md)
 + [Khmer / ភាសាខ្មែរ](courses/free-courses-km.md)
 + [Korean / 한국어 [韓國語]](courses/free-courses-ko.md)
++ [Malayalam / മലയാളം](courses/free-courses-ml.md)
 + [Persian / Farsi (Iran) / فارسى](courses/free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](courses/free-courses-pl.md)
 + [Portuguese (Brazil)](courses/free-courses-pt_BR.md)

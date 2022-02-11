@@ -11,6 +11,7 @@
 
 * [4Clojure](http://www.4clojure.com)
 * [A2 Online Judge](https://a2oj.com)
+* [APL Problem Solving Competition](https://contest.dyalog.com)
 * [AtCoder](https://atcoder.jp)
 * [beecrowd](https://www.beecrowd.com.br)
 * [Binary Search](https://binarysearch.com)
@@ -84,6 +85,7 @@
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
+* [APL Practice Problems](https://problems.tryapl.org)
 * [BaekJoon Online Judge](http://www.acmicpc.net)
 * [beecrowd](https://www.beecrowd.com.br)
 * [CareerCup](http://www.careercup.com)

@@ -1,5 +1,7 @@
 ### Index
 
+* [APL](#apl)
+* [Assembly](#assembly)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -45,6 +47,19 @@
 * [V](#v)
 
 
+### APL
+
+* [APLgolf](https://razetime.github.io/APLgolf)
+* [ngn/apl](https://abrudz.github.io/ngn-apl)
+* [TryAPL](https://tryapl.org)
+* [TryAPL Mini](https://janiczek.github.io/tryapl-elm)
+
+
+### Assembly
+
+* [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
+
+
 ### <a name="c"></a>C
 
 * [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
@@ -52,7 +67,7 @@
 * [SoloLearn](https://code.sololearn.com/c)
 
 
-### <a name="csharp"></a>C#
+### <a name="csharp"></a>C\#
 
 * [SoloLearn](https://code.sololearn.com/csharp)
 
@@ -60,6 +75,7 @@
 ### <a name="cpp"></a>C++
 
 * [Coding Minutes](https://ide.codingminutes.com)
+* [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
 * [LabStack](https://code.labstack.com/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)

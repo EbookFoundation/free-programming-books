@@ -1,4 +1,4 @@
-*[Diese Anleitung in anderen Sprachen](../README.md#translations)*
+*[Diese Anleitung in anderen Sprachen](README.md#translations)*
 
 
 ## Lizenzvereinbarung für Mitwirkende
@@ -8,7 +8,7 @@ Durch Deine Mitwirkung akzeptierst Du die [Lizenz](../LICENSE) dieses Repository
 
 ## Verhaltenskodex für Mitwirkende
 
-Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_CONDUCT-de.md) dieses Repositorys zu folgen. ([translations](../README.md#translations))
+Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_CONDUCT-de.md) dieses Repositorys zu folgen. ([translations](README.md#translations))
 
 
 ## Kurzfassung

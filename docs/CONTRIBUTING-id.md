@@ -1,4 +1,4 @@
-*[Instruksi ini dalam bahasa lain](../README.md#translations)*
+*[Instruksi ini dalam bahasa lain](README.md#translations)*
 
 
 ## Perjanjian lisensi kontributor
@@ -8,7 +8,7 @@ Dengan kerja sama Anda, Anda menerima [lisensi](../LICENSE) dari repositori ini.
 
 ## Kode Etik untuk Kontributor
 
-Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDUCT-id.md) dari repositori ini. ([translations](../README.md#translations))
+Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDUCT-id.md) dari repositori ini. ([translations](README.md#translations))
 
 
 ## Versi pendek

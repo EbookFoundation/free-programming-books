@@ -25,7 +25,7 @@
   * [PugJs](#pugjs)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
-* [‎.NET](#net)
+* [.NET](#net)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
 * [Prolog](#prolog)
@@ -236,7 +236,7 @@
 * [Vue.js Router Tutorial&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNObtw2FtE4_eX_k9yCf-Fcd3) - Algorithm Academy
 
 
-### ‎.NET
+### .NET
 
 * [Arabic C# .NET&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1ekZ78MzVWqpNyA5Lyb2nv) - Khalid ESSAADANI
 * [ASP.NET Core Fundamentals&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1zbN2olMzvIBXP06FIwoes) - Khalid ESSAADANI

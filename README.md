@@ -35,7 +35,7 @@ Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welc
 
 ## Resources
 
-We have the next category structure in our repository:
+This awesome project hosts a bunch of listings splited into the following categories:
 
 
 ### Books

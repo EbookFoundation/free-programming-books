@@ -235,7 +235,7 @@ Se riesci a stamparlo e conservarne l'essenza, non è un tutorial interattivo.
 
 ### Automazione
 
-- L'applicazione delle regole di formattazione è automatizzata tramite [GitHub Actions](https://github.com/features/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (guarda [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- L'applicazione delle regole di formattazione è automatizzata tramite [GitHub Actions](https://github.com/features/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (guarda [`.github/workflows/fpb-lint.yml`](https://github.com/EbookFoundation/free-programming-books/blob/main/.github/workflows/fpb-lint.yml))
 - La validazione dell'URL usa [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Per attivare la convalida dell'URL, invia un commit che includa un messaggio di commit contenente `check_urls=file_to_check`:
 

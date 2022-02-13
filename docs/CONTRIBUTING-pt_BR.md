@@ -226,7 +226,7 @@ Se você pode capturar a tela ou imprimí-la e reter sua essência, então não 
 
 ### Automação
 
-- Aplicação das regras de formatação é automatizada via [GitHub Actions](https://github.com/features/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (veja [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Aplicação das regras de formatação é automatizada via [GitHub Actions](https://github.com/features/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (veja [`.github/workflows/fpb-lint.yml`](https://github.com/EbookFoundation/free-programming-books/blob/main/.github/workflows/fpb-lint.yml))
 - Validação de URL usa [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Para ativar a validação de URL, dê _push_ num _commit_ que inclua uma mensagem de _commit_ contendo `check_urls=file_to_check`:
 

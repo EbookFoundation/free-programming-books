@@ -226,7 +226,7 @@ Wenn etwas ausgedruckt werden kann, ohne dass es seinen Nutzen verliert, ist es 
 
 ### Automatisierung
 
-- Die Durchsetzung der Formatierungsregeln wird über [GitHub Actions](https://github.com/features/actions) mittels [fpb-lint](https://github.com/vhf/free-programming-books-lint) sichergestellt (siehe [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Die Durchsetzung der Formatierungsregeln wird über [GitHub Actions](https://github.com/features/actions) mittels [fpb-lint](https://github.com/vhf/free-programming-books-lint) sichergestellt (siehe [`.github/workflows/fpb-lint.yml`](https://github.com/EbookFoundation/free-programming-books/blob/main/.github/workflows/fpb-lint.yml))
 - Die URLs werden über [awesome_bot](https://github.com/dkhamsing/awesome_bot) validiert.
 - Um die URL-Validierung auszulösen, kann ein Commit abgeschickt werden, der `check_urls=file_to_check` enthält:
 

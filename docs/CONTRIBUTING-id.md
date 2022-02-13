@@ -242,7 +242,7 @@ Jika Anda dapat mencetaknya dan mempertahankan esensinya, itu bukan Tutorial Int
 <!----><a name="automation"></a>
 ### Otomatisasi
 
-- Pemformatan penegakan aturan otomatis melalui [GitHub Actions](https://github.com/features/actions) gunakan [fpb-lint](https://github.com/vhf/free-programming-books-lint) (lihat [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml)).
+- Pemformatan penegakan aturan otomatis melalui [GitHub Actions](https://github.com/features/actions) gunakan [fpb-lint](https://github.com/vhf/free-programming-books-lint) (lihat [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml)).
 - Validasi URL menggunakan [awesome_bot](https://github.com/dkhamsing/awesome_bot).
 - Untuk memicu validasi URL, *push commit* yang menyertakan pesan komit yang berisi `check_urls=file_to_check`:
 

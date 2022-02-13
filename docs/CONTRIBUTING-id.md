@@ -135,18 +135,22 @@ Contoh:
     BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
+
 ### Catatan
 
 Meskipun dasar-dasarnya relatif sederhana, ada keragaman besar dalam sumber daya yang kami daftarkan. Berikut adalah beberapa catatan tentang bagaimana kita menghadapi keragaman ini.
+
 
 #### Metadata
 
 Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform, dan catatan akses.
 
+
 ##### Judul
 
 - Tidak ada judul yang diciptakan. Kami mencoba mengambil judul dari sumber itu sendiri; kontributor diperingatkan untuk tidak membuat judul atau menggunakannya secara editorial jika hal ini dapat dihindari. Pengecualian adalah untuk karya yang lebih tua; jika mereka terutama memiliki minat historis, satu tahun dalam tanda kurung yang ditambahkan ke judul membantu pengguna mengetahui apakah mereka menarik.
 - Tidak ada judul SEMUANYA KAPITAL. Biasanya judul kasus sesuai, tetapi jika ragu gunakan kapitalisasi dari sumbernya.
+
 
 ##### URL
 
@@ -156,12 +160,14 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 - URL aman (https) selalu lebih disukai daripada url tidak aman (http) di mana https telah diterapkan.
 - Kami tidak menyukai URL yang mengarah ke halaman web yang tidak menghosting sumber daya yang terdaftar, melainkan menunjuk ke tempat lain.
 
+
 ##### Pencipta
 
 - Kami ingin menghargai pencipta sumber daya gratis jika perlu, termasuk penerjemah!
 - Untuk karya terjemahan penulis asli harus dikreditkan.
 - Kami tidak mengizinkan tautan untuk Kreator.
 - Untuk karya kompilasi atau remix, "pencipta" mungkin memerlukan deskripsi. Misalnya, buku "GoalKicker" dikreditkan sebagai "Dikompilasi dari dokumentasi StackOverflow".
+
 
 ##### Platform dan Catatan Akses
 
@@ -170,9 +176,11 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 - Video Youtube. Kami biasanya tidak menautkan ke video YouTube individu kecuali jika durasinya lebih dari satu jam dan terstruktur seperti kursus atau tutorial.
 - Leanpub. Leanpub menyelenggarakan buku dengan berbagai model akses. Terkadang sebuah buku dapat dibaca tanpa registrasi; terkadang sebuah buku memerlukan akun Leanpub untuk akses gratis. Mengingat kualitas buku dan campuran dan fluiditas model akses Leanpub, kami mengizinkan daftar yang terakhir dengan catatan akses *(Akun Leanpub atau email yang valid diminta)*.
 
+
 #### Genre
 
 Aturan pertama dalam memutuskan daftar mana yang termasuk dalam sumber daya adalah melihat bagaimana sumber daya itu menggambarkan dirinya sendiri. Jika itu menyebut dirinya sebuah buku, maka mungkin itu adalah sebuah buku.
+
 
 ##### Genre yang tidak kami cantumkan
 
@@ -205,11 +213,13 @@ Kami tidak rewel tentang kebukuan. Berikut adalah beberapa atribut yang menandak
 
 Ada banyak buku yang kami daftarkan yang tidak memiliki atribut ini; itu bisa tergantung pada konteksnya.
 
+
 ##### Buku vs. Kursus
 
 Terkadang ini sulit untuk dibedakan!
 
 Kursus sering kali memiliki buku teks terkait, yang akan kami daftarkan dalam daftar buku kami. Kursus memiliki kuliah, latihan, tes, catatan atau alat bantu didaktik lainnya. Sebuah kuliah atau video dengan sendirinya bukanlah sebuah kursus. Sebuah powerpoint bukanlah kursus.
+
 
 ##### Tutorial Interaktif vs. Hal-hal lain
 

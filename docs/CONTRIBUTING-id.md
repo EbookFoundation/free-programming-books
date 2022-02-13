@@ -180,8 +180,8 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 ##### Platform dan Catatan Akses
 
 - Kursus. Khusus untuk daftar kursus kami, platform merupakan bagian penting dari deskripsi sumber daya. Ini karena platform kursus memiliki keterjangkauan dan model akses yang berbeda. Meskipun kami biasanya tidak akan mencantumkan buku yang memerlukan pendaftaran, banyak platform kursus memiliki keterjangkauan yang tidak berfungsi tanpa semacam akun. Contoh platform kursus termasuk Coursera, EdX, Udacity , dan Udemy. Jika kursus bergantung pada platform, nama platform harus dicantumkan dalam tanda kurung.
-- Youtube. Kami memiliki banyak kursus yang terdiri dari daftar putar YouTube. Kami tidak mencantumkan Youtube sebagai platform, kami mencoba mencantumkan pembuat Youtube, yang seringkali merupakan sub-platform.
-- Video Youtube. Kami biasanya tidak menautkan ke video YouTube individu kecuali jika durasinya lebih dari satu jam dan terstruktur seperti kursus atau tutorial.
+- YouTube. Kami memiliki banyak kursus yang terdiri dari daftar putar YouTube. Kami tidak mencantumkan YouTube sebagai platform, kami mencoba mencantumkan pembuat YouTube, yang seringkali merupakan sub-platform.
+- Video YouTube. Kami biasanya tidak menautkan ke video YouTube individu kecuali jika durasinya lebih dari satu jam dan terstruktur seperti kursus atau tutorial.
 - Leanpub. Leanpub menyelenggarakan buku dengan berbagai model akses. Terkadang sebuah buku dapat dibaca tanpa registrasi; terkadang sebuah buku memerlukan akun Leanpub untuk akses gratis. Mengingat kualitas buku dan campuran dan fluiditas model akses Leanpub, kami mengizinkan daftar yang terakhir dengan catatan akses *(Akun Leanpub atau email yang valid diminta)*.
 
 

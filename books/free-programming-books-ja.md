@@ -182,6 +182,7 @@
 * [HTTP/3 explained](https://http3-explained.haxx.se/ja) - Daniel Stenberg
 * [http2 explained](https://http2-explained.haxx.se/ja) - Daniel Stenberg
 * [ネットワークプログラミングの基礎知識](http://x68000.q-e-d.net/~68user/net) - 68user
+* [プロフェッショナルIPv6 第2版](https://dforest.watch.impress.co.jp/library/p/proipv6/11948/ao-ipv6-2-book-20211220.pdf) - 小川晃通 (PDF)
 
 
 #### 機械学習
@@ -701,6 +702,7 @@
 
 * [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - basarat, yohamta(翻訳)
 * [TypeScriptの為のクリーンコード](https://msakamaki.github.io/clean-code-typescript) - labs42io, 酒巻 瑞穂(翻訳)
+* [サバイバルTypeScript](https://typescriptbook.jp) - YYTypeScript
 * [仕事ですぐに使えるTypeScript](https://future-architect.github.io/typescript-guide) - フューチャー株式会社（Future Corporation） ([PDF](https://future-architect.github.io/typescript-guide/typescript-guide.pdf))
 
 

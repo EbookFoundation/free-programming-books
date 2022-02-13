@@ -24,7 +24,7 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
     - *Kursus*: Kursus menggambarkan materi pembelajaran yang tidak ada dalam bentuk buku. [Ini adalah kursus](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutorial interaktif*: Situs web interaktif yang memungkinkan pengguna memasukkan kode sumber perintah dan mengevaluasi hasilnya (dengan "mengevaluasi" kami tidak bermaksud "menilai"). misalnya: [Coba Haskell](http://tryhaskell.org), [Coba GitHub](http://try.github.io).
     - *Podcast dan Screencasts*: Podcast dan Screencasts.
-    - *Kumpulan Masalah & Pemrograman Kompetitif*: Situs web atau perangkat lunak yang memberi Anda kesempatan untuk menguji keterampilan pemrograman Anda dengan memecahkan masalah sederhana atau kompleks, dengan atau tanpa tinjauan kode dan dengan atau tanpa membandingkan kinerja dengan orang lain Pengunjung situs .
+    - *Kumpulan Masalah & Pemrograman Kompetitif*: Situs web atau perangkat lunak yang memberi Anda kesempatan untuk menguji keterampilan pemrograman Anda dengan memecahkan masalah sederhana atau kompleks, dengan atau tanpa tinjauan kode dan dengan atau tanpa membandingkan kinerja dengan orang lain Pengunjung situs.
 
 4. Pastikan Anda mengikuti [Guidelines](#guidelines) dan hormati [Markdown Formatting](#formatting) dari file.
 
@@ -37,12 +37,12 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
 - Kami tidak merekam file yang ada di Google Drive, Dropbox, Mega, Scribd, Issuu atau platform unggah file lainnya sebanding.
 - Masukkan tautan dalam urutan abjad. Jika Anda menemukan tautan yang salah dimasukkan, harap perbaiki pesanan dan kirimkan PR.
 - Selalu pilih tautan dari sumber otoritatif (yaitu, situs web penulis lebih baik daripada situs web editor, yang pada gilirannya akan lebih baik daripada situs web pihak ketiga)
-    - tidak ada platform hosting file (termasuk tautan ke Dropbox, Google Drive, dll.)
+    - tidak ada platform hosting file (termasuk tautan ke Dropbox, Google Drive, dll.).
 - Tautan `https` harus selalu lebih disukai daripada tautan `http` - selama tautan tersebut mengarah ke domain dan konten yang sama.
 - Garis miring harus dihapus pada domain root: `http://example.com` alih-alih `http://example.com/`
-- Selalu pilih tautan terpendek: `http://example.com/dir/` lebih baik daripada `http://example.com/dir/index.html`
-    - jangan gunakan penyingkat URL
-- Pilih tautan ke "versi terbaru" alih-alih menautkan ke "versi tertentu": `http://example.com/dir/book/current/` lebih baik daripada `http://example.com/dir/book/v1.0.0/index.html`
+- Selalu pilih tautan terpendek: `http://example.com/dir/` lebih baik daripada `http://example.com/dir/index.html`.
+    - jangan gunakan penyingkat URL.
+- Pilih tautan ke "versi terbaru" alih-alih menautkan ke "versi tertentu": `http://example.com/dir/book/current/` lebih baik daripada `http://example.com/dir/book/v1.0.0/index.html`.
 - Jika tautan menggunakan sertifikat yang kedaluwarsa atau ditandatangani sendiri atau memiliki masalah SSL lain:
     1. *ganti* dengan mitra `http` jika memungkinkan (karena menerima pengecualian dapat menjadi rumit pada perangkat seluler).
     2. *biarkan apa adanya* jika versi `http` tidak tersedia, tetapi tautan dapat diakses melalui `https` dengan mengabaikan peringatan di browser atau menambahkan pengecualian.
@@ -50,13 +50,13 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
 - jika ada tautan dalam format yang berbeda, tambahkan tautan terpisah dengan catatan tentang setiap format.
 - jika sepotong konten tersedia di beberapa tempat di Internet.
     - pilih tautan otoritatif.
-    - gunakan tautan dengan sumber paling otoritatif (artinya situs web penulis lebih baik daripada situs web editor lebih baik daripada situs web pihak ketiga)
-    - jika mereka menautkan ke edisi yang berbeda dan Anda menilai edisi ini cukup berbeda sehingga layak untuk disimpan, tambahkan tautan terpisah dengan catatan tentang setiap edisi (lihat [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) untuk berkontribusi pada diskusi tentang pemformatan.)
-- lebih suka komit atom (satu komit dengan penambahan/penghapusan/modifikasi) daripada komit yang lebih besar. Tidak perlu menekan komitmen Anda sebelum mengirimkan PR. (Kami tidak akan pernah menegakkan aturan ini karena ini hanya masalah kenyamanan bagi pengelola)
+    - gunakan tautan dengan sumber paling otoritatif (artinya situs web penulis lebih baik daripada situs web editor lebih baik daripada situs web pihak ketiga).
+    - jika mereka menautkan ke edisi yang berbeda dan Anda menilai edisi ini cukup berbeda sehingga layak untuk disimpan, tambahkan tautan terpisah dengan catatan tentang setiap edisi (lihat [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) untuk berkontribusi pada diskusi tentang pemformatan).
+- lebih suka komit atom (satu komit dengan penambahan/penghapusan/modifikasi) daripada komit yang lebih besar. Tidak perlu menekan komitmen Anda sebelum mengirimkan PR. (Kami tidak akan pernah menegakkan aturan ini karena ini hanya masalah kenyamanan bagi pengelola).
 - jika buku lebih tua, sertakan tanggal penerbitan dengan judul.
-- sertakan nama penulis atau nama yang sesuai. Anda dapat mempersingkat daftar penulis dengan "et al."
-- jika buku belum selesai, dan masih dalam pengerjaan, tambahkan notasi "dalam proses", seperti yang dijelaskan [di bawah ini.](#in_process)
-- jika alamat email atau pengaturan akun diminta sebelum pengunduhan diaktifkan, tambahkan catatan bahasa yang sesuai dalam tanda kurung, misalnya: `(alamat email *diminta*, tidak wajib)`
+- sertakan nama penulis atau nama yang sesuai. Anda dapat mempersingkat daftar penulis dengan "et al.".
+- jika buku belum selesai, dan masih dalam pengerjaan, tambahkan notasi "dalam proses", seperti yang dijelaskan [di bawah ini](#in_process).
+- jika alamat email atau pengaturan akun diminta sebelum pengunduhan diaktifkan, tambahkan catatan bahasa yang sesuai dalam tanda kurung, misalnya: `(alamat email *diminta*, tidak wajib)`.
 
 
 ### Pemformatan
@@ -146,7 +146,7 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 ##### Judul
 
 - Tidak ada judul yang diciptakan. Kami mencoba mengambil judul dari sumber itu sendiri; kontributor diperingatkan untuk tidak membuat judul atau menggunakannya secara editorial jika hal ini dapat dihindari. Pengecualian adalah untuk karya yang lebih tua; jika mereka terutama memiliki minat historis, satu tahun dalam tanda kurung yang ditambahkan ke judul membantu pengguna mengetahui apakah mereka menarik.
-- Tidak ada judul SEMUANYA KAPITAL. Biasanya judul kasus sesuai, tetapi jika ragu gunakan kapitalisasi dari sumbernya
+- Tidak ada judul SEMUANYA KAPITAL. Biasanya judul kasus sesuai, tetapi jika ragu gunakan kapitalisasi dari sumbernya.
 
 ##### URL
 
@@ -161,14 +161,14 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 - Kami ingin menghargai pencipta sumber daya gratis jika perlu, termasuk penerjemah!
 - Untuk karya terjemahan penulis asli harus dikreditkan.
 - Kami tidak mengizinkan tautan untuk Kreator.
-- Untuk karya kompilasi atau remix, "pencipta" mungkin memerlukan deskripsi. Misalnya, buku "GoalKicker" dikreditkan sebagai "Dikompilasi dari dokumentasi StackOverflow"
+- Untuk karya kompilasi atau remix, "pencipta" mungkin memerlukan deskripsi. Misalnya, buku "GoalKicker" dikreditkan sebagai "Dikompilasi dari dokumentasi StackOverflow".
 
 ##### Platform dan Catatan Akses
 
 - Kursus. Khusus untuk daftar kursus kami, platform merupakan bagian penting dari deskripsi sumber daya. Ini karena platform kursus memiliki keterjangkauan dan model akses yang berbeda. Meskipun kami biasanya tidak akan mencantumkan buku yang memerlukan pendaftaran, banyak platform kursus memiliki keterjangkauan yang tidak berfungsi tanpa semacam akun. Contoh platform kursus termasuk Coursera, EdX, Udacity , dan Udemy. Jika kursus bergantung pada platform, nama platform harus dicantumkan dalam tanda kurung.
 - Youtube. Kami memiliki banyak kursus yang terdiri dari daftar putar YouTube. Kami tidak mencantumkan Youtube sebagai platform, kami mencoba mencantumkan pembuat Youtube, yang seringkali merupakan sub-platform.
 - Video Youtube. Kami biasanya tidak menautkan ke video YouTube individu kecuali jika durasinya lebih dari satu jam dan terstruktur seperti kursus atau tutorial.
-- Leanpub. Leanpub menyelenggarakan buku dengan berbagai model akses. Terkadang sebuah buku dapat dibaca tanpa registrasi; terkadang sebuah buku memerlukan akun Leanpub untuk akses gratis. Mengingat kualitas buku dan campuran dan fluiditas model akses Leanpub, kami mengizinkan daftar yang terakhir dengan catatan akses *(Akun Leanpub atau email yang valid diminta)*
+- Leanpub. Leanpub menyelenggarakan buku dengan berbagai model akses. Terkadang sebuah buku dapat dibaca tanpa registrasi; terkadang sebuah buku memerlukan akun Leanpub untuk akses gratis. Mengingat kualitas buku dan campuran dan fluiditas model akses Leanpub, kami mengizinkan daftar yang terakhir dengan catatan akses *(Akun Leanpub atau email yang valid diminta)*.
 
 #### Genre
 
@@ -181,7 +181,7 @@ Karena Internet sangat luas, kami tidak memasukkan dalam daftar kami:
 - blog
 - postingan blog
 - artikel
-- situs web (kecuali yang menghosting BANYAK item yang kami daftarkan.)
+- situs web (kecuali yang menghosting BANYAK item yang kami daftarkan).
 - video yang bukan kursus atau screencasts.
 - bab buku
 - sampel penggoda dari buku
@@ -218,8 +218,8 @@ Jika Anda dapat mencetaknya dan mempertahankan esensinya, itu bukan Tutorial Int
 
 ### Otomatisasi
 
-- Pemformatan penegakan aturan otomatis melalui [GitHub Actions](https://github.com/features/actions) gunakan [fpb-lint](https://github.com/vhf/free-programming-books-lint) (lihat [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml))
-- Validasi URL menggunakan [awesome_bot](https://github.com/dkhamsing/awesome_bot)
+- Pemformatan penegakan aturan otomatis melalui [GitHub Actions](https://github.com/features/actions) gunakan [fpb-lint](https://github.com/vhf/free-programming-books-lint) (lihat [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml)).
+- Validasi URL menggunakan [awesome_bot](https://github.com/dkhamsing/awesome_bot).
 - Untuk memicu validasi URL, *push commit* yang menyertakan pesan komit yang berisi `check_urls=file_to_check`:
 
     ```properties

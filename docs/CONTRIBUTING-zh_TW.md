@@ -152,7 +152,7 @@
 
 ### 自動化測試
 
-- 規定格式驗證是由 [GitHub Actions](https://docs.github.com/en/actions) 自動化進行，使用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) 套件 (參閱 [`.github/workflows/fpb-lint.yml`](https://github.com/EbookFoundation/free-programming-books/blob/main/.github/workflows/fpb-lint.yml))。
+- 規定格式驗證是由 [GitHub Actions](https://docs.github.com/en/actions) 自動化進行，使用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) 套件 (參閱 [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))。
 - 使用 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 進行連結驗證。
 - 可以藉由提交一個內容包含`check_urls=file_to_check`來觸發連結驗證:
 

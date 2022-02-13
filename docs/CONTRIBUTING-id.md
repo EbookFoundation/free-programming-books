@@ -251,4 +251,4 @@ Jika Anda dapat mencetaknya dan mempertahankan esensinya, itu bukan Tutorial Int
     ```
 
 - Anda dapat menentukan lebih dari satu file untuk diperiksa, menggunakan satu spasi untuk memisahkan setiap entri.
-- Jika Anda menentukan lebih dari satu file, hasil build didasarkan pada hasil file terakhir yang diperiksa. Anda harus menyadari bahwa Anda dapat melewati build hijau karena hal ini, jadi pastikan untuk memeriksa log build di akhir pull request dengan mengklik "Show all checks" -> "Details".
+- Jika Anda menentukan lebih dari satu file, hasil build didasarkan pada hasil file terakhir yang diperiksa. Anda harus menyadari bahwa Anda dapat melewati build hijau karena hal ini, jadi pastikan untuk memeriksa log build di akhir Pull Request dengan mengklik "Show all checks" -> "Details".

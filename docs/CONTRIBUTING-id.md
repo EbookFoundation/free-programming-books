@@ -128,8 +128,7 @@ Contoh:
     BAIK  : * [Buku yang Sangat Bagus (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-<a name="in_process"></a>
-- Buku dalam proses:
+- <a name="in_process"></a>Buku dalam proses:
 
     ```text
     BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)

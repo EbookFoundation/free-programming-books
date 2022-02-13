@@ -58,8 +58,8 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
     - jika mereka menautkan ke edisi yang berbeda dan Anda menilai edisi ini cukup berbeda sehingga layak untuk disimpan, tambahkan tautan terpisah dengan catatan tentang setiap edisi (lihat [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) untuk berkontribusi pada diskusi tentang pemformatan).
 - lebih suka komit atom (satu komit dengan penambahan/penghapusan/modifikasi) daripada komit yang lebih besar. Tidak perlu menekan komitmen Anda sebelum mengirimkan PR. (Kami tidak akan pernah menegakkan aturan ini karena ini hanya masalah kenyamanan bagi pengelola).
 - jika buku lebih tua, sertakan tanggal penerbitan dengan judul.
-- sertakan nama penulis atau nama yang sesuai. Anda dapat mempersingkat daftar penulis dengan "et al.".
-- jika buku belum selesai, dan masih dalam pengerjaan, tambahkan notasi "dalam proses", seperti yang dijelaskan [di bawah ini](#in_process).
+- sertakan nama penulis atau nama yang sesuai. Anda dapat mempersingkat daftar penulis dengan "`et al.`".
+- jika buku belum selesai, dan masih dalam pengerjaan, tambahkan notasi "`dalam proses`", seperti yang dijelaskan [di bawah ini](#in_process).
 - jika alamat email atau pengaturan akun diminta sebelum pengunduhan diaktifkan, tambahkan catatan bahasa yang sesuai dalam tanda kurung, misalnya: `(alamat email *diminta*, tidak wajib)`.
 
 
@@ -163,7 +163,7 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 - Kami tidak mengizinkan URL yang dipersingkat.
 - Kode pelacakan harus dihapus dari URL.
 - URL internasional harus diloloskan. Bilah peramban biasanya merender ini ke Unicode, tetapi gunakan salin dan tempel.
-- URL aman (https) selalu lebih disukai daripada url tidak aman (http) di mana https telah diterapkan.
+- URL aman (`https`) selalu lebih disukai daripada url tidak aman (`http`) di mana HTTPS telah diterapkan.
 - Kami tidak menyukai URL yang mengarah ke halaman web yang tidak menghosting sumber daya yang terdaftar, melainkan menunjuk ke tempat lain.
 
 
@@ -173,7 +173,7 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 - Kami ingin menghargai pencipta sumber daya gratis jika perlu, termasuk penerjemah!
 - Untuk karya terjemahan penulis asli harus dikreditkan.
 - Kami tidak mengizinkan tautan untuk Kreator.
-- Untuk karya kompilasi atau remix, "pencipta" mungkin memerlukan deskripsi. Misalnya, buku "GoalKicker" dikreditkan sebagai "Dikompilasi dari dokumentasi StackOverflow".
+- Untuk karya kompilasi atau remix, "pencipta" mungkin memerlukan deskripsi. Misalnya, buku "GoalKicker" dikreditkan sebagai "`Dikompilasi dari dokumentasi StackOverflow`" (dalam Bahasa Inggris: `Compiled from StackOverflow documentation`).
 
 
 <!----><a name="platforms-and-access-notes"></a>
@@ -182,7 +182,7 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 - Kursus. Khusus untuk daftar kursus kami, platform merupakan bagian penting dari deskripsi sumber daya. Ini karena platform kursus memiliki keterjangkauan dan model akses yang berbeda. Meskipun kami biasanya tidak akan mencantumkan buku yang memerlukan pendaftaran, banyak platform kursus memiliki keterjangkauan yang tidak berfungsi tanpa semacam akun. Contoh platform kursus termasuk Coursera, EdX, Udacity , dan Udemy. Jika kursus bergantung pada platform, nama platform harus dicantumkan dalam tanda kurung.
 - YouTube. Kami memiliki banyak kursus yang terdiri dari daftar putar YouTube. Kami tidak mencantumkan YouTube sebagai platform, kami mencoba mencantumkan pembuat YouTube, yang seringkali merupakan sub-platform.
 - Video YouTube. Kami biasanya tidak menautkan ke video YouTube individu kecuali jika durasinya lebih dari satu jam dan terstruktur seperti kursus atau tutorial.
-- Leanpub. Leanpub menyelenggarakan buku dengan berbagai model akses. Terkadang sebuah buku dapat dibaca tanpa registrasi; terkadang sebuah buku memerlukan akun Leanpub untuk akses gratis. Mengingat kualitas buku dan campuran dan fluiditas model akses Leanpub, kami mengizinkan daftar yang terakhir dengan catatan akses *(Akun Leanpub atau email yang valid diminta)*.
+- Leanpub. Leanpub menyelenggarakan buku dengan berbagai model akses. Terkadang sebuah buku dapat dibaca tanpa registrasi; terkadang sebuah buku memerlukan akun Leanpub untuk akses gratis. Mengingat kualitas buku dan campuran dan fluiditas model akses Leanpub, kami mengizinkan daftar yang terakhir dengan catatan akses `*(Akun Leanpub atau email yang valid diminta)*`.
 
 
 <!----><a name="genres"></a>

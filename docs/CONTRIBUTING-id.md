@@ -74,64 +74,66 @@ Idenya adalah untuk memiliki:
 
 Contoh:
 
-    [...]
-    * [Contoh Buku](http://example.com/example.html)
-                                    (baris kosong)
-                                    (baris kosong)
-    ### Contoh
-                                    (baris kosong)
-    * [Contoh Buku Lainnya](http://example.com/book.html)
-    * [Beberapa Buku Lain](http://example.com/other.html)
+```text
+[...]
+* [Contoh Buku](http://example.com/example.html)
+                            (baris kosong)
+                            (baris kosong)
+### Contoh
+                            (baris kosong)
+* [Contoh Buku Lainnya](http://example.com/book.html)
+* [Beberapa Buku Lain](http://example.com/other.html)
+```
 
 - Jangan gunakan spasi diantara `]` dan `(`:
 
-```
-BURUK : * [Contoh Buku Lainnya] (http://example.com/book.html)
-BAIK  : * [Contoh Buku Lainnya](http://example.com/book.html)
-```
+    ```text
+    BURUK : * [Contoh Buku Lainnya] (http://example.com/book.html)
+    BAIK  : * [Contoh Buku Lainnya](http://example.com/book.html)
+    ```
 
 - Jika Anda menyertakan penulis, gunakan ` - ` (tanda hubung yang dikelilingi oleh satu spasi):
 
-```
-BURUK : * [Contoh Buku Lainnya](http://example.com/book.html)- John Doe
-BAIK  : * [Contoh Buku Lainnya](http://example.com/book.html) - John Doe
-```
+    ```text
+    BURUK : * [Contoh Buku Lainnya](http://example.com/book.html)- John Doe
+    BAIK  : * [Contoh Buku Lainnya](http://example.com/book.html) - John Doe
+    ```
 
 - Letakkan satu spasi di antara tautan dan formatnya:
 
-```
-BURUK : * [Buku yang Sangat Bagus](https://example.org/book.pdf)(PDF)
-BAIK  : * [Buku yang Sangat Bagus](https://example.org/book.pdf) (PDF)
-```
+    ```text
+    BURUK : * [Buku yang Sangat Bagus](https://example.org/book.pdf)(PDF)
+    BAIK  : * [Buku yang Sangat Bagus](https://example.org/book.pdf) (PDF)
+    ```
 
 - Penulis diletakan sebelum format file:
 
-```
-BURUK : * [Buku yang Sangat Bagus](https://example.org/book.pdf)- (PDF) Jane Roe
-BAIK  : * [Buku yang Sangat Bagus](https://example.org/book.pdf) - Jane Roe (PDF)
-```
+    ```text
+    BURUK : * [Buku yang Sangat Bagus](https://example.org/book.pdf)- (PDF) Jane Roe
+    BAIK  : * [Buku yang Sangat Bagus](https://example.org/book.pdf) - Jane Roe (PDF)
+    ```
 
 - Format lebih dari satu:
 
-```
-BURUK : * [Contoh Buku Lainnya](http://example.com/)- John Doe (HTML)
-BURUK : * [Contoh Buku Lainnya](https://downloads.example.org/book.html)- John Doe (situs download)
-BAIK  : * [Contoh Buku Lainnya](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
-```
+    ```text
+    BURUK : * [Contoh Buku Lainnya](http://example.com/)- John Doe (HTML)
+    BURUK : * [Contoh Buku Lainnya](https://downloads.example.org/book.html)- John Doe (situs download)
+    BAIK  : * [Contoh Buku Lainnya](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    ```
 
 - Cantumkan tahun penerbitan dalam judul buku lama:
 
-```
-BURUK : * [Buku yang Sangat Bagus](https://example.org/book.html) - Jane Roe - 1970
-BAIK  : * [Buku yang Sangat Bagus (1970)](https://example.org/book.html) - Jane Roe
-```
+    ```text
+    BURUK : * [Buku yang Sangat Bagus](https://example.org/book.html) - Jane Roe - 1970
+    BAIK  : * [Buku yang Sangat Bagus (1970)](https://example.org/book.html) - Jane Roe
+    ```
 
 <a name="in_process"></a>
 - Buku dalam proses:
 
-```
-BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
-```
+    ```text
+    BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    ```
 
 ### Catatan
 
@@ -220,9 +222,9 @@ Jika Anda dapat mencetaknya dan mempertahankan esensinya, itu bukan Tutorial Int
 - Validasi URL menggunakan [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Untuk memicu validasi URL, *push commit* yang menyertakan pesan komit yang berisi `check_urls=file_to_check`:
 
-```
-check_urls=free-programming-books.md free-programming-books-en.md
-```
+    ```text
+    check_urls=free-programming-books.md free-programming-books-en.md
+    ```
 
 - Anda dapat menentukan lebih dari satu file untuk diperiksa, menggunakan satu spasi untuk memisahkan setiap entri.
 - Jika Anda menentukan lebih dari satu file, hasil build didasarkan pada hasil file terakhir yang diperiksa. Anda harus menyadari bahwa Anda dapat melewati build hijau karena hal ini, jadi pastikan untuk memeriksa log build di akhir pull request dengan mengklik "Show all checks" -> "Details".

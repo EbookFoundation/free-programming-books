@@ -50,8 +50,8 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
 - jika ada tautan dalam format yang berbeda, tambahkan tautan terpisah dengan catatan tentang setiap format.
 - jika sepotong konten tersedia di beberapa tempat di Internet.
     - pilih tautan otoritatif.
-     + gunakan tautan dengan sumber paling otoritatif (artinya situs web penulis lebih baik daripada situs web editor lebih baik daripada situs web pihak ketiga)
-     + jika mereka menautkan ke edisi yang berbeda dan Anda menilai edisi ini cukup berbeda sehingga layak untuk disimpan, tambahkan tautan terpisah dengan catatan tentang setiap edisi (lihat [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) untuk berkontribusi pada diskusi tentang pemformatan.)
+    - gunakan tautan dengan sumber paling otoritatif (artinya situs web penulis lebih baik daripada situs web editor lebih baik daripada situs web pihak ketiga)
+    - jika mereka menautkan ke edisi yang berbeda dan Anda menilai edisi ini cukup berbeda sehingga layak untuk disimpan, tambahkan tautan terpisah dengan catatan tentang setiap edisi (lihat [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) untuk berkontribusi pada diskusi tentang pemformatan.)
 - lebih suka komit atom (satu komit dengan penambahan/penghapusan/modifikasi) daripada komit yang lebih besar. Tidak perlu menekan komitmen Anda sebelum mengirimkan PR. (Kami tidak akan pernah menegakkan aturan ini karena ini hanya masalah kenyamanan bagi pengelola)
 - jika buku lebih tua, sertakan tanggal penerbitan dengan judul.
 - sertakan nama penulis atau nama yang sesuai. Anda dapat mempersingkat daftar penulis dengan "et al."

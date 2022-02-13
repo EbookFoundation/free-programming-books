@@ -235,7 +235,7 @@ Kung maaari mong i-print ito at panatilihin ang kakanyahan nito, hindi ito isang
 
 ### Automation
 
-- Ang pagpapatupad ng mga panuntunan sa pag-format ay awtomatiko sa pamamagitan ng [GitHub Actions](https://github.com/features/actions) gamit [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Ang pagpapatupad ng mga panuntunan sa pag-format ay awtomatiko sa pamamagitan ng [GitHub Actions](https://github.com/features/actions) gamit [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - Gumagamit ng pagpapatunay ng URL [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Upang ma-trigger ang pagpapatunay ng URL, mag-push ng commit na may kasamang commit na mensahe na naglalaman `check_urls=file_to_check`:
 

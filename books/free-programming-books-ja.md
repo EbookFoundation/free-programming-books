@@ -182,6 +182,7 @@
 * [HTTP/3 explained](https://http3-explained.haxx.se/ja) - Daniel Stenberg
 * [http2 explained](https://http2-explained.haxx.se/ja) - Daniel Stenberg
 * [ネットワークプログラミングの基礎知識](http://x68000.q-e-d.net/~68user/net) - 68user
+* [プロフェッショナルIPv6 第2版](https://dforest.watch.impress.co.jp/library/p/proipv6/11948/ao-ipv6-2-book-20211220.pdf) - 小川晃通 (PDF)
 
 
 #### 機械学習

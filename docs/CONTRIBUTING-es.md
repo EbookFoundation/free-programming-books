@@ -264,7 +264,7 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 
 [license]: ../LICENSE
 [coc]: CODE_OF_CONDUCT-es.md
-[translations-list-link]: ../README.md#translations
+[translations-list-link]: README.md#translations
 [issues]: https://github.com/EbookFoundation/free-programming-books/issues
 [formatting]: #formato-normalizado
 [guidelines]: #pautas

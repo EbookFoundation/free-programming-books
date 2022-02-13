@@ -1,4 +1,4 @@
-*[阅读本文的其他语言版本](../README.md#translations))*
+*[阅读本文的其他语言版本](README.md#translations))*
 
 欢迎使用 Free-Programming-Books（免费编程书籍）！我们欢迎新的贡献者；即使是在 Github 上首次提出拉取请求的人。如果您是其中之一，那么以下资源可能会有所帮助：
 
@@ -14,4 +14,4 @@
 
 即使您是经验丰富的开源贡献者，也有一些事情可能会让您绊倒。提交您的拉取请求后，GitHub Actions 会运行一个 linter（代码风格检测工具），经常发现间距或字母顺序方面的小问题。如果您获得绿色按钮，则说明一切准备就绪，但如果没有，请单击 "更多" 链接以查找 linter 不满意的地方。解决此问题并新增 commit 到您的拉取请求。
 
-最后，如果不确定要添加的资源是否适用于 Free-Programming-Books（免费编程书籍），请通读 [CONTRIBUTING](CONTRIBUTING-zh.md) 中的基本准则。([translations](../README.md#translations))
+最后，如果不确定要添加的资源是否适用于 Free-Programming-Books（免费编程书籍），请通读 [CONTRIBUTING](CONTRIBUTING-zh.md) 中的基本准则。([translations](README.md#translations))

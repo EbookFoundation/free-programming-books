@@ -1,4 +1,4 @@
-*[이 문서를 다른 언어로 보시려면](../README.md#translations)*
+*[이 문서를 다른 언어로 보시려면](README.md#translations)*
 
 
 ## 기여자 라이선스 동의서
@@ -8,7 +8,7 @@
 
 ## 기여자 행도 강령
 
-이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](CODE_OF_CONDUCT-ko.md) 에 동의한 것으로 간주됩니다. ([translations](../README.md#translations))
+이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](CODE_OF_CONDUCT-ko.md) 에 동의한 것으로 간주됩니다. ([translations](README.md#translations))
 
 
 ## 요약

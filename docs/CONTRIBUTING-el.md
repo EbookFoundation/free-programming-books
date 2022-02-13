@@ -1,4 +1,4 @@
-*[Διαβάστε το σε διαφορετικές γλώσσες](../README.md#translations)*
+*[Διαβάστε το σε διαφορετικές γλώσσες](README.md#translations)*
 
 
 <!----><a name="contributor-license-agreement"></a>
@@ -10,7 +10,7 @@
 <!----><a name="contributor-code-of-conduct"></a>
 ## Κώδικας Δεοντολογίας Συνεισφερόντων
 
-Συνεισφέροντας συμφωνείτε να σέβεστε τον [Κώδικα Δεοντολογίας](CODE_OF_CONDUCT-el.md) αυτού του αποθετηρίου. ([translations](../README.md#translations))
+Συνεισφέροντας συμφωνείτε να σέβεστε τον [Κώδικα Δεοντολογίας](CODE_OF_CONDUCT-el.md) αυτού του αποθετηρίου. ([translations](README.md#translations))
 
 
 <!----><a name="in-a-nutshell"></a>

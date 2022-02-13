@@ -15,14 +15,14 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 210,000+ stars, 6800+ commits, 1900+ contributors, and 45,000+ forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 221,000+ stars, 6,900+ commits, 1,900+ contributors, and 47,100+ forks.
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 
 ### How To Contribute
 
-Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md) too. ([translations](#translations) also available)
+Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md) too. ([translations](docs/README.md#translations) also available)
 
 
 ### How to Share
@@ -159,106 +159,16 @@ Free Podcasts and Screencasts:
 
 ### Translations
 
-We have Contributing, How-to, and Code of Conduct documents translated into many languages.
+Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
 
-- Arabic / al arabiya / العربية
-  - [How-to](docs/HOWTO-ar.md)
-- Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي
-- Bengali / বাংলা
-  - [How-to](docs/HOWTO-bn.md)
-- Bosnian / bosanski jezik
-  - [How-to](docs/HOWTO-bs.md)
-- Bulgarian / български
-- Burmese / မြန်မာဘာသာ
-- Chinese / 中文
-  - [Contributing](docs/CONTRIBUTING-zh.md)
-  - [How-to](docs/HOWTO-zh.md)
-- Chinese (traditional) / 繁體中文
-  - [Contributing](docs/CONTRIBUTING-zh_TW.md)
-  - [How-to](docs/HOWTO-zh_TW.md)
-- Czech / čeština / český jazyk
-- Danish / dansk
-- Dutch / Nederlands
-  - [How-to](docs/HOWTO-nl.md)
 - English
   - [Code of Conduct](docs/CODE_OF_CONDUCT.md)
   - [Contributing](docs/CONTRIBUTING.md)
   - [How-to](docs/HOWTO.md)
-- Estonian / eesti keel
-- Finnish / suomi / suomen kieli
-- Filipino
-  - [Kodigo ng Pag-uugali](docs/CODE_OF_CONDUCT-fil.md)
-  - [Contributing](docs/CONTRIBUTING-fil.md)
-  - [How-to](docs/HOWTO-fil.md)
-- French / français
-  - [Code de Contrat](docs/CODE_OF_CONDUCT-fr.md)
-  - [Contributing](docs/CONTRIBUTING-fr.md)
-  - [How-to](docs/HOWTO-fr.md)
-- German / Deutsch
-  - [Verhaltenskodex](docs/CODE_OF_CONDUCT-de.md)
-  - [How-to](docs/HOWTO-de.md)
-  - [Mitwirken](docs/CONTRIBUTING-de.md)
-- Greek / ελληνικά
-  - [Κώδικα Δεοντολογίας](docs/CODE_OF_CONDUCT-el.md)
-  - [Contributing](docs/CONTRIBUTING-el.md)
-  - [How-to](docs/HOWTO-el.md)
-- Hebrew / עברית
-- Hindi / हिन्दी
-  - [आचार संहिता](docs/CODE_OF_CONDUCT-hi.md)
-  - [How-to](docs/HOWTO-hi.md)
-- Hungarian / magyar / magyar nyelv
-- Indonesian / Bahasa Indonesia
-  - [Berkontribusi](docs/CONTRIBUTING-id.md)
-  - [Kode Etik](docs/CODE_OF_CONDUCT-id.md)
-  - [How-to](docs/HOWTO-id.md)
-- Italian / italiano
-  - [Codice di Comportamento](docs/CODE_OF_CONDUCT-it.md)
-  - [Contributing](docs/CONTRIBUTING-it.md)
-  - [How-to](docs/HOWTO-it.md)
-- Japanese / 日本語
-- Khmer / Cambodian / ខ្មែរ
-  - [How-to](docs/HOWTO-km.md)
-- Korean / 한국어 [韓國語]
-  - [행동강령](docs/CODE_OF_CONDUCT-ko.md)
-  - [Contributing](docs/CONTRIBUTING-ko.md)
-  - [How-to](docs/HOWTO-ko.md)
-- Norwegian / Norsk
-- Persian / Farsi (Iran) / فارسى
-  - [مرام‌نامه‌ی](docs/CODE_OF_CONDUCT-fa_IR.md)
-  - [Contributing](docs/CONTRIBUTING-fa_IR.md)
-  - [How-to](docs/HOWTO-fa_IR.md)
-- Polish / polski / język polski / polszczyzna
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-pl.md)
-  - [How-to](docs/HOWTO-pl.md)
-- Portuguese (Brazil)
-  - [Código de Conduta](docs/CODE_OF_CONDUCT-pt_BR.md)
-  - [Contributing](docs/CONTRIBUTING-pt_BR.md)
-  - [How-to](docs/HOWTO-pt_BR.md)
-- Portuguese (Portugal)
-  - [How-to](docs/HOWTO-pt_PT.md)
-- Romanian (Romania) / limba română / român
-- Russian / Русский язык
-  - [Кодекс поведения](docs/CODE_OF_CONDUCT-ru.md)
-  - [Contributing](docs/CONTRIBUTING-ru.md)
-- Slovak / slovenčina
-  - [How-to](docs/HOWTO-sk.md)
-- Spanish / español / castellano
-  - [Código de Conducta](docs/CODE_OF_CONDUCT-es.md)
-  - [Contributing](docs/CONTRIBUTING-es.md)
-  - [How-to](docs/HOWTO-es.md)
-- Swedish / Svenska
-  - [How-to](docs/HOWTO-sv.md)
-- Tamil / தமிழ்
-- Thai / ไทย
-  - [How-to](docs/HOWTO-th.md)
-- Turkish / Türkçe
-  - [How-to](docs/HOWTO-tr.md)
-- Ukrainian / Українська
-  - [Кодекс Поведінки](docs/CODE_OF_CONDUCT-uk.md)
-  - [How-to](docs/HOWTO-uk.md)
-- Vietnamese / Tiếng Việt
-  - [Đóng Góp](docs/CONTRIBUTING-vi.md)
-  - [How-to](docs/HOWTO-vi.md)
+- ... *[More languages](docs/README.md#translations)* ...
+
+You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
+
 
 ## License
 

@@ -1,4 +1,4 @@
-*[Leggilo in altre lingue](../README.md#translations)*
+*[Leggilo in altre lingue](README.md#translations)*
 
 
 ## Accordo di Licenza
@@ -8,7 +8,7 @@ Contribuendo tu accetti alla [LICENZA](../LICENSE) di questa repository.
 
 ## Codice di Comportamento del Collaboratore
 
-I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CONDUCT-it.md) di questa repository. ([translations](../README.md#translations))
+I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CONDUCT-it.md) di questa repository. ([translations](README.md#translations))
 
 
 ## In breve

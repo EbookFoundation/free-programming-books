@@ -1,4 +1,4 @@
-*[این متن را در زبان‌های دیگر بخوانید](../README.md#translations)*
+*[این متن را در زبان‌های دیگر بخوانید](README.md#translations)*
 
 
 <div dir="rtl" markdown="1">
@@ -17,4 +17,4 @@
 در پایان، اگر مطمئن نیستید که منبعی که می‌خواهید اضافه کنید، برای Free-Programming-Books مناسب باشد، راهنماهای [CONTRIBUTING](CONTRIBUTING-fa_IR.md) را بخوانید.
 </div>
 
-([translations](../README.md#translations))
+([translations](README.md#translations))

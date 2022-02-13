@@ -1,4 +1,4 @@
-*[Pročitaj ovo u drugim jezicima](../README.md#translations)*
+*[Pročitaj ovo u drugim jezicima](README.md#translations)*
 
 Dobrodošli u Free-Programming-Books! Primamo nove kontributore; čak i one koji tek prave svoj prvi pull request na GitHub-u. Ako ste jedan od njih, ovdje je nekoliko izvora koji bi Vam mogli pomoći:
 
@@ -14,4 +14,4 @@ Namojte se ustručavati da postavljate pitanja; svaki kontributor je započeo sa
 
 Čak i ako ste iskusan open source kontributor, postoje stvari u kojma biste se mogli zapetljati. Nakon što ste postavili Vaš PR, GitHub Actions će pokrenuti linter, koji često pronalazi problemčiće sa proredom ili abecednim redoslijedom. Ako dobijete zeleno dugme, sve je spremno za pregled, u suprotnom, kliknite "Details" ispod provjere koja nije uspjela kako biste otkrili šta se linter-u nije svidjelo. Ispravite problem i dodajte commit Vašem PR-u.
 
-Na kraju, ako niste sigurni da je resurs koji želite dodati prikladan za Free-Programming-Books, pročitajte smjernice u [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))
+Na kraju, ako niste sigurni da je resurs koji želite dodati prikladan za Free-Programming-Books, pročitajte smjernice u [CONTRIBUTING](CONTRIBUTING.md). ([translations](README.md#translations))

@@ -1,19 +1,19 @@
 *[Instruksi ini dalam bahasa lain](../README.md#translations)*
 
 
-<a name="contributor-license-agreement"></a>
+<!----><a name="contributor-license-agreement"></a>
 ## Perjanjian lisensi kontributor
 
 Dengan kerja sama Anda, Anda menerima [lisensi](../LICENSE) dari repositori ini.
 
 
-<a name="contributor-code-of-conduct"></a>
+<!----><a name="contributor-code-of-conduct"></a>
 ## Kode Etik untuk Kontributor
 
 Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDUCT-id.md) dari repositori ini. ([translations](../README.md#translations))
 
 
-<a name="in-a-nutshell"></a>
+<!----><a name="in-a-nutshell"></a>
 ## Versi pendek
 
 1. "Tautan untuk mengunduh buku dengan mudah" tidak selalu merupakan tautan ke buku *gratis*. Harap hanya menambahkan konten gratis. Pastikan mereka gratis. Kami tidak menerima tautan ke situs yang *mengharuskan* Anda mendaftar dengan alamat email yang berfungsi untuk mengunduh buku, tetapi kami menyambut situs yang meminta alamat email.
@@ -34,7 +34,7 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
 5. GitHub Actions akan menjalankan tes untuk memastikan bahwa **daftar diurutkan berdasarkan abjad dengan benar** dan bahwa **aturan pemformatan telah diikuti**. **Pastikan** perubahan Anda lulus tes ini.
 
 
-<a name="guidelines"></a>
+<!----><a name="guidelines"></a>
 ### Pedoman
 
 - Pastikan sebuah buku benar-benar gratis. Periksa kembali jika perlu. Ini membantu administrator jika Anda menjelaskan dalam PR Anda mengapa menurut Anda buku tersebut gratis.
@@ -63,7 +63,7 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
 - jika alamat email atau pengaturan akun diminta sebelum pengunduhan diaktifkan, tambahkan catatan bahasa yang sesuai dalam tanda kurung, misalnya: `(alamat email *diminta*, tidak wajib)`.
 
 
-<a name="formatting"></a>
+<!----><a name="formatting"></a>
 ### Pemformatan
 
 - Semua daftar adalah file `.md`. Coba pelajari sintaks [Markdown](https://guides.github.com/features/mastering-markdown/). Itu mudah!
@@ -140,7 +140,7 @@ Contoh:
     ```
 
 
-<a name="notes"></a>
+<!----><a name="notes"></a>
 ### Catatan
 
 Meskipun dasar-dasarnya relatif sederhana, ada keragaman besar dalam sumber daya yang kami daftarkan. Berikut adalah beberapa catatan tentang bagaimana kita menghadapi keragaman ini.
@@ -151,7 +151,7 @@ Meskipun dasar-dasarnya relatif sederhana, ada keragaman besar dalam sumber daya
 Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform, dan catatan akses.
 
 
-<a name="titles"></a>
+<!----><a name="titles"></a>
 ##### Judul
 
 - Tidak ada judul yang diciptakan. Kami mencoba mengambil judul dari sumber itu sendiri; kontributor diperingatkan untuk tidak membuat judul atau menggunakannya secara editorial jika hal ini dapat dihindari. Pengecualian adalah untuk karya yang lebih tua; jika mereka terutama memiliki minat historis, satu tahun dalam tanda kurung yang ditambahkan ke judul membantu pengguna mengetahui apakah mereka menarik.
@@ -167,7 +167,7 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 - Kami tidak menyukai URL yang mengarah ke halaman web yang tidak menghosting sumber daya yang terdaftar, melainkan menunjuk ke tempat lain.
 
 
-<a name="creators"></a>
+<!----><a name="creators"></a>
 ##### Pencipta
 
 - Kami ingin menghargai pencipta sumber daya gratis jika perlu, termasuk penerjemah!
@@ -176,7 +176,7 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 - Untuk karya kompilasi atau remix, "pencipta" mungkin memerlukan deskripsi. Misalnya, buku "GoalKicker" dikreditkan sebagai "Dikompilasi dari dokumentasi StackOverflow".
 
 
-<a name="platforms-and-access-notes"></a>
+<!----><a name="platforms-and-access-notes"></a>
 ##### Platform dan Catatan Akses
 
 - Kursus. Khusus untuk daftar kursus kami, platform merupakan bagian penting dari deskripsi sumber daya. Ini karena platform kursus memiliki keterjangkauan dan model akses yang berbeda. Meskipun kami biasanya tidak akan mencantumkan buku yang memerlukan pendaftaran, banyak platform kursus memiliki keterjangkauan yang tidak berfungsi tanpa semacam akun. Contoh platform kursus termasuk Coursera, EdX, Udacity , dan Udemy. Jika kursus bergantung pada platform, nama platform harus dicantumkan dalam tanda kurung.
@@ -185,13 +185,13 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 - Leanpub. Leanpub menyelenggarakan buku dengan berbagai model akses. Terkadang sebuah buku dapat dibaca tanpa registrasi; terkadang sebuah buku memerlukan akun Leanpub untuk akses gratis. Mengingat kualitas buku dan campuran dan fluiditas model akses Leanpub, kami mengizinkan daftar yang terakhir dengan catatan akses *(Akun Leanpub atau email yang valid diminta)*.
 
 
-<a name="genres"></a>
+<!----><a name="genres"></a>
 #### Genre
 
 Aturan pertama dalam memutuskan daftar mana yang termasuk dalam sumber daya adalah melihat bagaimana sumber daya itu menggambarkan dirinya sendiri. Jika itu menyebut dirinya sebuah buku, maka mungkin itu adalah sebuah buku.
 
 
-<a name="genres-we-dont-list"></a>
+<!----><a name="genres-we-dont-list"></a>
 ##### Genre yang tidak kami cantumkan
 
 Karena Internet sangat luas, kami tidak memasukkan dalam daftar kami:
@@ -209,7 +209,7 @@ Karena Internet sangat luas, kami tidak memasukkan dalam daftar kami:
 Daftar pemrograman kompetitif kami tidak seketat pengecualian ini. Lingkup repo ditentukan oleh komunitas; jika Anda ingin menyarankan perubahan atau penambahan ruang lingkup, silakan gunakan masalah untuk membuat saran.
 
 
-<a name="books-vs-other-stuff"></a>
+<!----><a name="books-vs-other-stuff"></a>
 ##### Buku vs. Barang Lainnya
 
 Kami tidak rewel tentang kebukuan. Berikut adalah beberapa atribut yang menandakan bahwa sumber daya adalah sebuah buku:
@@ -225,7 +225,7 @@ Kami tidak rewel tentang kebukuan. Berikut adalah beberapa atribut yang menandak
 Ada banyak buku yang kami daftarkan yang tidak memiliki atribut ini; itu bisa tergantung pada konteksnya.
 
 
-<a name="books-vs-courses"></a>
+<!----><a name="books-vs-courses"></a>
 ##### Buku vs. Kursus
 
 Terkadang ini sulit untuk dibedakan!
@@ -233,13 +233,13 @@ Terkadang ini sulit untuk dibedakan!
 Kursus sering kali memiliki buku teks terkait, yang akan kami daftarkan dalam daftar buku kami. Kursus memiliki kuliah, latihan, tes, catatan atau alat bantu didaktik lainnya. Sebuah kuliah atau video dengan sendirinya bukanlah sebuah kursus. Sebuah powerpoint bukanlah kursus.
 
 
-<a name="interactive-tutorials-vs-other-stuff"></a>
+<!----><a name="interactive-tutorials-vs-other-stuff"></a>
 ##### Tutorial Interaktif vs. Hal-hal lain
 
 Jika Anda dapat mencetaknya dan mempertahankan esensinya, itu bukan Tutorial Interaktif.
 
 
-<a name="automation"></a>
+<!----><a name="automation"></a>
 ### Otomatisasi
 
 - Pemformatan penegakan aturan otomatis melalui [GitHub Actions](https://github.com/features/actions) gunakan [fpb-lint](https://github.com/vhf/free-programming-books-lint) (lihat [.github/workflows/fpb-lint.yml](.github/workflows/fpb-lint.yml)).

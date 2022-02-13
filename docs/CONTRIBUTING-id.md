@@ -222,8 +222,8 @@ Jika Anda dapat mencetaknya dan mempertahankan esensinya, itu bukan Tutorial Int
 - Validasi URL menggunakan [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Untuk memicu validasi URL, *push commit* yang menyertakan pesan komit yang berisi `check_urls=file_to_check`:
 
-    ```text
-    check_urls=free-programming-books.md free-programming-books-en.md
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-id.md
     ```
 
 - Anda dapat menentukan lebih dari satu file untuk diperiksa, menggunakan satu spasi untuk memisahkan setiap entri.

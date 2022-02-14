@@ -20,18 +20,22 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 
-### How To Contribute
+## How To Contribute
 
 Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md) too. ([translations](docs/README.md#translations) also available)
 
 
-### How to Share
+## How to Share
 
 + [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
 + [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 + [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
 
+
+## Resources
+
+This project lists books and other resources grouped by genres:
 
 ### Books
 
@@ -157,7 +161,7 @@ Free Podcasts and Screencasts:
 + [English](more/free-programming-playgrounds.md)
 
 
-### Translations
+## Translations
 
 Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
 

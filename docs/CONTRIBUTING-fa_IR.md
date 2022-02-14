@@ -1,4 +1,4 @@
-*[این متن را در زبان‌های دیگر بخوانید](../README.md#translations)*
+*[این متن را در زبان‌های دیگر بخوانید](README.md#translations)*
 
 
 <div dir="rtl" markdown="1">
@@ -10,7 +10,7 @@
 
 ## مرام‌نامه‌ی همکار
 
-مشارکت در این پروژه به معنی موافقت با احترام به [مرام‌نامه‌ی](CODE_OF_CONDUCT-fa_IR.md) این مخزن است. ([translations](../README.md#translations))
+مشارکت در این پروژه به معنی موافقت با احترام به [مرام‌نامه‌ی](CODE_OF_CONDUCT-fa_IR.md) این مخزن است. ([translations](README.md#translations))
 
 
 ## به طور خلاصه
@@ -140,7 +140,7 @@
 
 ### خودکارسازی
 
-* قوانین فرمت‌بندی از طریق [GitHub Actions](https://docs.github.com/en/actions) با استفاده از [fpb-lint](https://github.com/vhf/free-programming-books-lint) بررسی می‌شوند ([`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml) را ببینید)
+* قوانین فرمت‌بندی از طریق [GitHub Actions](https://docs.github.com/en/actions) با استفاده از [fpb-lint](https://github.com/vhf/free-programming-books-lint) بررسی می‌شوند ([`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml) را ببینید)
 * اعتبارسنجی لینک‌ها با استفاده از [awesome_bot](https://github.com/dkhamsing/awesome_bot) انجام می‌شود.
 * برای اجرای اعتبارسنجی لینک‌ها، کامیتی پوش کنید که در بدنه‌ی آن `check_urls=file_to_check` نوشته شده باشد:
 

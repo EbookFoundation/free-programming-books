@@ -1,4 +1,4 @@
-*[Доступно на других языках](../README.md#translations)*
+*[Доступно на других языках](README.md#
 
 
 <!----><a name="contributor-license-agreement"></a>
@@ -10,7 +10,7 @@
 <!----><a name="contributor-code-of-conduct"></a>
 ## Кодекс поведения автора
 
-Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](CODE_OF_CONDUCT-ru.md) этого репозитория. ([translations](../README.md#translations))
+Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](CODE_OF_CONDUCT-ru.md) этого репозитория. ([translations](README.md#
 
 
 <!----><a name="in-a-nutshell"></a>
@@ -243,7 +243,7 @@
 <!----><a name="automation"></a>
 ### Автоматизация
 
-- Применение правил форматирования автоматизировано с помощью [GitHub Actions](https://github.com/features/actions) с использованием [fpb-lint](https://github.com/vhf/free-programming-books-lint) (см. [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Применение правил форматирования автоматизировано с помощью [GitHub Actions](https://github.com/features/actions) с использованием [fpb-lint](https://github.com/vhf/free-programming-books-lint) (см. [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - Для проверки URL используется [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Чтобы запустить проверку URL, нажмите фиксацию, которая включает сообщение фиксации, содержащее `check_urls=ссылка_для_проверки`:
 

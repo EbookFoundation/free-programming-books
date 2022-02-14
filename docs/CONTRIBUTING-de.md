@@ -1,4 +1,4 @@
-*[Diese Anleitung in anderen Sprachen](../README.md#translations)*
+*[Diese Anleitung in anderen Sprachen](README.md#translations)*
 
 
 ## Lizenzvereinbarung für Mitwirkende
@@ -8,7 +8,7 @@ Durch Deine Mitwirkung akzeptierst Du die [Lizenz](../LICENSE) dieses Repository
 
 ## Verhaltenskodex für Mitwirkende
 
-Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_CONDUCT-de.md) dieses Repositorys zu folgen. ([translations](../README.md#translations))
+Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_CONDUCT-de.md) dieses Repositorys zu folgen. ([translations](README.md#translations))
 
 
 ## Kurzfassung
@@ -226,7 +226,7 @@ Wenn etwas ausgedruckt werden kann, ohne dass es seinen Nutzen verliert, ist es 
 
 ### Automatisierung
 
-- Die Durchsetzung der Formatierungsregeln wird über [GitHub Actions](https://github.com/features/actions) mittels [fpb-lint](https://github.com/vhf/free-programming-books-lint) sichergestellt (siehe [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Die Durchsetzung der Formatierungsregeln wird über [GitHub Actions](https://github.com/features/actions) mittels [fpb-lint](https://github.com/vhf/free-programming-books-lint) sichergestellt (siehe [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - Die URLs werden über [awesome_bot](https://github.com/dkhamsing/awesome_bot) validiert.
 - Um die URL-Validierung auszulösen, kann ein Commit abgeschickt werden, der `check_urls=file_to_check` enthält:
 

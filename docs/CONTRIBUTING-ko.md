@@ -1,4 +1,4 @@
-*[이 문서를 다른 언어로 보시려면](../README.md#translations)*
+*[이 문서를 다른 언어로 보시려면](README.md#translations)*
 
 
 ## 기여자 라이선스 동의서
@@ -8,7 +8,7 @@
 
 ## 기여자 행도 강령
 
-이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](CODE_OF_CONDUCT-ko.md) 에 동의한 것으로 간주됩니다. ([translations](../README.md#translations))
+이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](CODE_OF_CONDUCT-ko.md) 에 동의한 것으로 간주됩니다. ([translations](README.md#translations))
 
 
 ## 요약
@@ -222,7 +222,7 @@
 
 ### 자동화
 
-- 규격 규칙은 [GitHub Actions](https://github.com/features/actions)에 의해 [fpb-lint](https://github.com/vhf/free-programming-books-lint)를 사용하여 강제됩니다 (see [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- 규격 규칙은 [GitHub Actions](https://github.com/features/actions)에 의해 [fpb-lint](https://github.com/vhf/free-programming-books-lint)를 사용하여 강제됩니다 (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - 바로가기 주소 검증은 [awesome_bot](https://github.com/dkhamsing/awesome_bot)를 이용합니다
 - 바로가기 주소 검증을 위해 커밋 메시지에 `check_urls=file_to_check`을 포함해 주세요:
 

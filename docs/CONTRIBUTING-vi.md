@@ -1,4 +1,4 @@
-*[Đọc bằng ngôn ngữ khác](../README.md#translations)*
+*[Đọc bằng ngôn ngữ khác](README.md#translations)*
 
 Bản dịch Tiếng Việt:
 
@@ -18,7 +18,7 @@ Bằng cách đóng góp, bạn đồng ý với [LICENSE](../LICENSE) của kho
 
 ## Quy Tắc Ứng Xử của Cộng Tác Viên
 
-Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](CODE_OF_CONDUCT.md) của kho lưu trữ này. ([translations](../README.md#translations))
+Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](CODE_OF_CONDUCT.md) của kho lưu trữ này. ([translations](README.md#translations))
 
 
 ## Tóm Tắt
@@ -236,7 +236,7 @@ Nếu bạn có thể in nó ra và giữ lại bản chất của nó, thì đ�
 
 ### Tự động hóa
 
-- Việc thực thi nguyên tắc định dạng được tự động hóa qua [GitHub Actions](https://docs.github.com/en/actions) sử dụng [fpb-lint](https://github.com/vhf/free-programming-books-lint) (xem file [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Việc thực thi nguyên tắc định dạng được tự động hóa qua [GitHub Actions](https://docs.github.com/en/actions) sử dụng [fpb-lint](https://github.com/vhf/free-programming-books-lint) (xem file [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - Sử dụng xác thực liên kết [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Để kích hoạt xác thực liên kết, hãy push một commit bao gồm một commit message chứa `check_urls=file_to_check`:
 

@@ -1,4 +1,4 @@
-*[閱讀其他語言版本的文件](../README.md#translations)*
+*[閱讀其他語言版本的文件](README.md#nslations)*
 
 
 ## 貢獻者許可協議
@@ -8,7 +8,7 @@
 
 ## 貢獻者行為準則
 
-請同意並遵循此 [行為準則](CODE_OF_CONDUCT.md) 參與貢獻。([translations](../README.md#translations))
+請同意並遵循此 [行為準則](CODE_OF_CONDUCT.md) 參與貢獻。([translations](README.md#nslations))
 
 
 ## 概要
@@ -152,7 +152,7 @@
 
 ### 自動化測試
 
-- 規定格式驗證是由 [GitHub Actions](https://docs.github.com/en/actions) 自動化進行，使用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) 套件 (參閱 [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))。
+- 規定格式驗證是由 [GitHub Actions](https://docs.github.com/en/actions) 自動化進行，使用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) 套件 (參閱 [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))。
 - 使用 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 進行連結驗證。
 - 可以藉由提交一個內容包含`check_urls=file_to_check`來觸發連結驗證:
 

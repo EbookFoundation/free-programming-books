@@ -47,4 +47,4 @@ versão 1.3.0, disponível em https://www.contributor-covenant.org/pt-br/version
 
 [homepage]: https://contributor-covenant.org
 
-[Translations](../README.md#translations)
+[Translations](README.md#translations)

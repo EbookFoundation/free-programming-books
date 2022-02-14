@@ -1,4 +1,4 @@
-*[Basahin ito sa ibang mga wika](../README.md#translations)*
+*[Basahin ito sa ibang mga wika](README.md#translations)*
 
 
 ## Kasunduan sa Lisensya ng Contributor
@@ -8,7 +8,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon ka sa [LICENSE](../LICENSE) ng reposi
 
 ## Kodigo ng Pag-uugali ng Contributor
 
-Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CODE_OF_CONDUCT-fil.md) ng repositoryong ito. ([translations](../README.md#translations))
+Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CODE_OF_CONDUCT-fil.md) ng repositoryong ito. ([translations](README.md#translations))
 
 
 ## Sa maikling sabi
@@ -235,7 +235,7 @@ Kung maaari mong i-print ito at panatilihin ang kakanyahan nito, hindi ito isang
 
 ### Automation
 
-- Ang pagpapatupad ng mga panuntunan sa pag-format ay awtomatiko sa pamamagitan ng [GitHub Actions](https://github.com/features/actions) gamit [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Ang pagpapatupad ng mga panuntunan sa pag-format ay awtomatiko sa pamamagitan ng [GitHub Actions](https://github.com/features/actions) gamit [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - Gumagamit ng pagpapatunay ng URL [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Upang ma-trigger ang pagpapatunay ng URL, mag-push ng commit na may kasamang commit na mensahe na naglalaman `check_urls=file_to_check`:
 

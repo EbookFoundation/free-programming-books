@@ -1,4 +1,4 @@
-*[Lisez ceci dans d'autres langues](../README.md#translations)*
+*[Lisez ceci dans d'autres langues](README.md#translations)*
 
 
 ## Contrat de Licence des Contributeurs
@@ -8,7 +8,7 @@ En contribuant, vous acceptez la [LICENCE](../LICENSE) de ce repositoire.
 
 ## Code de conduite des contributeurs
 
-En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-fr.md) de ce repositoire. ([translations](../README.md#translations))
+En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-fr.md) de ce repositoire. ([translations](README.md#translations))
 
 
 ## En bref
@@ -226,7 +226,7 @@ Si vous pouvez l'imprimer et conserver son essence, ce n'est pas un didacticiel 
 
 ### Automatisation
 
-- L'application des règles de formatage est automatisée via [GitHub Actions](https://docs.github.com/en/actions) en utilisant [fpb-lint](https://github.com/vhf/free-programming-books-lint) (voir [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- L'application des règles de formatage est automatisée via [GitHub Actions](https://docs.github.com/en/actions) en utilisant [fpb-lint](https://github.com/vhf/free-programming-books-lint) (voir [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - La validation d'URL utilise [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Pour déclencher la validation d'URL, poussez un commit qui inclut un message de commit contenant `check_urls=file_to_check`:
 

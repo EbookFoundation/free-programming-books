@@ -125,7 +125,7 @@
 #### コンテナ
 
 * [Docker-docs-ja](https://docs.docker.jp) - Docker Docs Translation Ja-Jp Project
-* [チュートリアル | Kubernetes](https://kubernetes.io/ja/docs/tutorials) - The Kubernetes Authors
+* [チュートリアル \| Kubernetes](https://kubernetes.io/ja/docs/tutorials) - The Kubernetes Authors
 
 
 #### セキュリティ

@@ -120,7 +120,7 @@
 * [Database 1 - المقرر العملى - Learn SQL In Arabic](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484) - محمد الدسوقى
 * [Learn MySQL](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9) - Elzero Web School
 * [MS SQL Server For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) - محمد الدسوقى
-* [MySQL tutorials || بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad
+* [MySQL tutorials \|\| بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad
 
 
 ### Flutter
@@ -167,7 +167,7 @@
 * [JAVA Programming Course Level 2 Object Oriented Programming By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQp6zaFd7o728neR1XhPvid) - محمد شوشان
 * [JAVA Programming Course Level 3 Graphic User Interface By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRhWDkdkM4jSTPW3CgxKH8G) - محمد شوشان
 * [JAVA Programming Course Level 4 Connect Database and JAVA By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwTmQTPK54W95WyNzT-33MR0) - محمد شوشان
-* [JAVA Programming Full Project by Arabic (uni_staff project) |(المشروع الختامي بالجافا كاملا بشرح عربي )](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQbsAGChtjlNPLVv6kTEXRG) - محمد شوشان
+* [JAVA Programming Full Project by Arabic (uni_staff project) \|(المشروع الختامي بالجافا كاملا بشرح عربي )](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQbsAGChtjlNPLVv6kTEXRG) - محمد شوشان
 * [Learn JAVA Programming From Scratch In Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN) - Adel Nasim
 * [Object-Oriented Programming JAVA in Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim
 * [Programming 2 - Object Oriented Programming With Java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk) - محمد الدسوقى

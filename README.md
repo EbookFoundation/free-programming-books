@@ -35,8 +35,7 @@ Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welc
 
 ## Resources
 
-This awesome project lists a bunch of books and other resources split into the following categories:
-
+This project lists books and other resources grouped by genres:
 
 ### Books
 

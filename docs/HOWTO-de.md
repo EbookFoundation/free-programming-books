@@ -6,7 +6,7 @@
 
 </div>
 
-Willkommen zu *Free-Programming-Books*!
+**Willkommen zu *Free-Programming-Books*!**
 
 Wir heißen neue Beitragende herzlich willkommen. Auch die, die ihren ersten Pull Request (PR) auf GitHub machen möchten. Wenn Du eine dieser Personen bist, dann findest Du hier einige nützliche Ressourcen:
 

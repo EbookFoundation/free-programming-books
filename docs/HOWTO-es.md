@@ -6,7 +6,7 @@
 
 </div>
 
-**¡Sea bienvenido a `Free-Programming-Books`!**
+**¡Sea bienvenido(a) a *Free-Programming-Books*!**
 
 Siempre damos una calurosa bienvenida a los nuevos colaboradores; incluso a aquellos que realizan su primera Pull Request (PR) en GitHub. Si es usted uno de ellos, aquí van algunos recursos que quizás le pueden ayudar:
 

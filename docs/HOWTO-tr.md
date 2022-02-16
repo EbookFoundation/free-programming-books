@@ -6,7 +6,7 @@
 
 </div>
 
-Free-Programming-Books Hoş Geldiniz!
+***Free-Programming-Books* Hoş Geldiniz!**
 
 GitHub'da ilk Çekme Talebini (PR) yapanlardan olsanız bile Katkıda bulunmak için yeni gelenleri memnuniyetle karşılıyoruz. Eğer onlardan biriyseniz, işte size yardımcı olabilecek bazı kaynaklar:
 

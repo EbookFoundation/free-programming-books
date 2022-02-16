@@ -6,7 +6,7 @@
 
 </div>
 
-**Welcome to `Free-Programming-Books`!**
+**Welcome to *Free-Programming-Books*!**
 
 We welcome new contributors; even those making their very first Pull Request (PR) on GitHub. If you're one of those, here are some resources that might help:
 

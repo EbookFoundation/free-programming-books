@@ -6,7 +6,7 @@
 
 </div>
 
-Välkommen till *Free-Programming-Books*!
+**Välkommen till *Free-Programming-Books*!**
 
 Vi välkomnar varmt nya medarbetare, även de som gör sin första Pull Request (PR) på GitHub. Om du är en av dem finns här några resurser som kan hjälpa dig:
 

@@ -6,7 +6,7 @@
 
 </div>
 
-歡迎使用 Free-Programming-Books！
+**歡迎使用 *Free-Programming-Books*！**
 
 我們歡迎新的貢獻者；即使是在 GitHub 上首次提出 pull request 的人。如果您是其中之一，那麼以下資源可能會對你有所幫助：
 

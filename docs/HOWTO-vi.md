@@ -6,7 +6,7 @@
 
 </div>
 
-Chào mừng tới Free-Programming-Books!
+**Chào mừng tới *Free-Programming-Books*!**
 
 Chúng tôi chào đón những người đóng góp mới, kể cả khi những người đóng góp lần đầu thực hiện trên GitHub. Nếu bạn là một trong số họ, đây là một số nguồn có thể giúp:
 

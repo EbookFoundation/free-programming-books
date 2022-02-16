@@ -6,7 +6,7 @@
 
 </div>
 
-Witamy w *Free-Programming-Books*!
+**Witamy w *Free-Programming-Books*!**
 
 Witamy nowych współtwórców; nawet tych, którzy robią swoje pierwsze żądanie ściągnięcia na GitHub. Jeśli jesteś jednym z nich, oto kilka zasobów, które mogą Ci pomóc:
 

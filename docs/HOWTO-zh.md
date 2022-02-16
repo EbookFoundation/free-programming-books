@@ -6,7 +6,7 @@
 
 </div>
 
-欢迎使用 Free-Programming-Books（免费编程书籍）！
+**欢迎使用 *Free-Programming-Books* （*免费编程书籍*）！**
 
 我们欢迎新的贡献者；即使是在 GitHub 上首次提出拉取请求的人。如果您是其中之一，那么以下资源可能会有所帮助：
 

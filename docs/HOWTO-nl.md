@@ -6,7 +6,7 @@
 
 </div>
 
-Welkom bij Free-Programming-Books!
+**Welkom bij *Free-Programming-Books*!**
 
 We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste pull-verzoeken op GitHub doen. Als je een van hen bent, zijn hier enkele bronnen die je kunnen helpen:
 

@@ -17,6 +17,7 @@ Vi välkomnar varmt nya medarbetare, även de som gör sin första Pull Request 
 * [Youtube - Hur man gafflar ett GitHub -arkiv och skickar en pull -begäran](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(på engelska)*
 * [Youtube - Curso intensivo de Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(på engelska)*
 
+
 Var aldrig i tvivel, eller var rädd för att ställa frågor; varje bidragsgivare som du ser i förvaret började på sin tid med en första PR. Tänk om det är vår tusen-tusendel!
 
 Om du har erfarenhet som bidragsgivare på andra projekt med öppen källkod finns det några saker du kan göra för att få det att fungera. När den skickats till PR, utför *GitHub Actions* en *linter*; som hittar en meny för att hitta små problem med utrymme, utrymme, syntax eller läskunnighet. Om denna slutliga integrationsprocess ska slutföras kommer ljuset och allt är klart för din granskning; men om inte, klicka på "Detaljer för detaljer" som ger det exakta genomsnittet av det du tappade. Lösningen på detta problem och summan av förändringarna i din PR innebär ett nytt engagemang.

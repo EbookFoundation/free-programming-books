@@ -17,6 +17,7 @@ Kami menyambut kontributor baru; bahkan untuk mereka yang membuat pull request p
 * [Youtube - Cara Melakukan Fork Pada Github Repositori dan Mengirimkan Sebuah Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) (Dalam Bahasa Inggris)
 * [Youtube - Kursus Kilat Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) (Dalam Bahasa Inggris)
 
+
 Jangan ragu untuk bertanya; setiap kontributor memulainya dengan PR yang pertama. Anda bisa menjadi yang keseribu!
 
 Bahkan jika Anda seorang kontributor open source yang berpengalaman, ada hal-hal yang mungkin membuat Anda bingung. Setelah Anda mengirimkan PR Anda, GitHub Actions akan menjalankan linter, dan sering sekali menemukan sedikit masalah dengan spasi atau abjad. Jika Anda mendapatkan tombol hijau, semuanya siap untuk ditinjau, tetapi jika tidak, klik "Detail" di bawah centang yang gagal untuk mengetahui apa yang tidak disukai linter. Perbaiki masalah dan tambahkan commit ke PR Anda.

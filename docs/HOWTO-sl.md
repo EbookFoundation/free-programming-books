@@ -1,4 +1,10 @@
+# How-To at a glance
+
+<div align="right" markdown="1">
+
 *[Preberite to v drugih jezikih](../README.md#translations)*
+
+</div>
 
 Dobrodošli v zbirki Free-Programming-Books! Lepo pozdravljeni vsi novi programerji - tudi tisti, ki boste na Githubu ustvarili vaš prvi zahtevek potega (pull-request). Če ste eden izmed njih, vam pri tem lahko pomaga nekaj virov:
 

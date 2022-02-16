@@ -1,4 +1,10 @@
+# How-To at a glance
+
+<div align="right" markdown="1">
+
 *[Baca ini dalam bahasa lain](../README.md#translations)*
+
+</div>
 
 Selamat datang di Free-Programming-Books! Kami menyambut kontributor baru; bahkan untuk mereka yang membuat pull request pertama kali di Github. Jika Anda adalah salah satunya, berikut adalah beberapa sumber yang mungkin bisa membantu:
 

@@ -1,4 +1,10 @@
+# How-To at a glance
+
+<div align="right" markdown="1">
+
 *[Przeczytaj to w innych językach](../README.md#translations)*
+
+</div>
 
 Witamy w *Free-Programming-Books*! Witamy nowych współtwórców; nawet tych, którzy robią swoje pierwsze żądanie ściągnięcia na Github. Jeśli jesteś jednym z nich, oto kilka zasobów, które mogą Ci pomóc:
 

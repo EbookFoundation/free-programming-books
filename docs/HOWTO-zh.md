@@ -1,4 +1,10 @@
+# How-To at a glance
+
+<div align="right" markdown="1">
+
 *[阅读本文的其他语言版本](../README.md#translations))*
+
+</div>
 
 欢迎使用 Free-Programming-Books（免费编程书籍）！我们欢迎新的贡献者；即使是在 Github 上首次提出拉取请求的人。如果您是其中之一，那么以下资源可能会有所帮助：
 

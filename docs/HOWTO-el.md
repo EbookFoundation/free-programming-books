@@ -1,4 +1,10 @@
+# How-To at a glance
+
+<div align="right" markdown="1">
+
 *[Διαβάστε το σε διαφορετικές γλώσσες](../README.md#translations)*
+
+</div>
 
 Καλώς ήλθατε στο Free-Programming-Books! Καλωσορίζουμε τους νέους συνεισφέροντες· ακόμα και αυτούς που κάνουν το πρώτο τους pull request (PR) στο Github. Αν είστε ένας από αυτούς, ορίστε λίγο υλικό που μπορεί να βοηθήσει:
 

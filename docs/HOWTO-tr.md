@@ -1,4 +1,10 @@
+# How-To at a glance
+
+<div align="right" markdown="1">
+
 *[Diğer dillerde okumak için](../README.md#translations)*
+
+</div>
 
 Free-Programming-Books Hoş Geldiniz! GitHub'da ilk Çekme Talebini (PR) yapanlardan olsanız bile Katkıda bulunmak için yeni gelenleri memnuniyetle karşılıyoruz. Eğer onlardan biriyseniz, işte size yardımcı olabilecek bazı kaynaklar:
 

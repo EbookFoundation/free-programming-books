@@ -1,4 +1,10 @@
+# How-To at a glance
+
+<div align="right" markdown="1">
+
 *[Đọc tài liệu này bằng các ngôn ngữ khác](../README.md#translations)*
+
+</div>
 
 Chào mừng tới Free-Programming-Books! Chúng tôi chào đón những người đóng góp mới, kể cả khi những người đóng góp lần đầu thực hiện trên Github. Nếu bạn là một trong số họ, đây là một số nguồn có thể giúp:
 

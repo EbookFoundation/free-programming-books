@@ -1,4 +1,10 @@
+# How-To at a glance
+
+<div align="right" markdown="1">
+
 *[Lese das hier auch in anderen Sprachen](../README.md#translations)*
+
+</div>
 
 Willkommen zu *Free-Programming-Books*! Wir heißen neue Beitragende herzlich willkommen. Auch die, die ihren ersten Pull Request (PR) auf GitHub machen möchten. Wenn Du eine dieser Personen bist, dann findest Du hier einige nützliche Ressourcen:
 

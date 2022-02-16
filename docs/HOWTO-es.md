@@ -10,9 +10,9 @@
 
 Siempre damos una calurosa bienvenida a los nuevos colaboradores; incluso a aquellos que realizan su primera Pull Request (PR) en GitHub. Si es usted uno de ellos, aquí van algunos recursos que quizás le pueden ayudar:
 
-* [Acerca de las Pull Requests](https://docs.github.com/es/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-* [Creando una Pull Request](https://docs.github.com/es/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-* [GitHub Hola Mundo](https://docs.github.com/en/get-started/quickstart/hello-world) *(en inglés)*
+* [Acerca de las pull requests](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+* [Creando una pull request](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+* [GitHub Hola Mundo](https://docs.github.com/es/get-started/quickstart/hello-world)
 * [YouTube - Tutorial GitHub para principiantes](https://www.youtube.com/watch?v=0fKg7e37bQE) *(en inglés)*
 * [YouTube - Como bifurcar un repositorio GitHub y Enviar una Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(en inglés)*
 * [YouTube - Curso intensivo de Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(en inglés)*

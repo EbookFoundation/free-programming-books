@@ -10,12 +10,12 @@ Dobrodošli v zbirki Free-Programming-Books!
 
 Lepo pozdravljeni vsi novi programerji - tudi tisti, ki boste na Githubu ustvarili vaš prvi zahtevek potega (pull-request). Če ste eden izmed njih, vam pri tem lahko pomaga nekaj virov:
 
-* [About Pull Requests](https://help.github.com/articles/about-pull-requests/)
-* [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [Github Hello World](https://guides.github.com/activities/hello-world/)
-* [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(v angleškem jeziku)*
+* [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(v angleškem jeziku)*
+* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(v angleškem jeziku)*
+* [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(v angleškem jeziku)*
+* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(v angleškem jeziku)*
+* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(v angleškem jeziku)*
 
 
 Ne oklevajte in postavljajte vprašanja; vsak programer je enkrat začel s svojim prvim PR-om. Vi ste lahko naš tisoči!

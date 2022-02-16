@@ -10,12 +10,12 @@ Selamat datang di Free-Programming-Books!
 
 Kami menyambut kontributor baru; bahkan untuk mereka yang membuat pull request pertama kali di Github. Jika Anda adalah salah satunya, berikut adalah beberapa sumber yang mungkin bisa membantu:
 
-* [Tentang Pull Requests](https://help.github.com/articles/about-pull-requests/) (Dalam Bahasa Inggris)
-* [Membuat sebuah pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) (Dalam Bahasa Inggris)
-* [Github Hello World](https://guides.github.com/activities/hello-world/) (Dalam Bahasa Inggris)
-* [Youtube - Github Tutorial Untuk Pemula](https://www.youtube.com/watch?v=0fKg7e37bQE) (Dalam Bahasa Inggris)
-* [Youtube - Cara Melakukan Fork Pada Github Repositori dan Mengirimkan Sebuah Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) (Dalam Bahasa Inggris)
-* [Youtube - Kursus Kilat Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) (Dalam Bahasa Inggris)
+* [Tentang Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(Dalam Bahasa Inggris)*
+* [Membuat sebuah pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(Dalam Bahasa Inggris)*
+* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(Dalam Bahasa Inggris)*
+* [Youtube - Github Tutorial Untuk Pemula](https://www.youtube.com/watch?v=0fKg7e37bQE) *(Dalam Bahasa Inggris)*
+* [Youtube - Cara Melakukan Fork Pada Github Repositori dan Mengirimkan Sebuah Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(Dalam Bahasa Inggris)*
+* [Youtube - Kursus Kilat Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(Dalam Bahasa Inggris)*
 
 
 Jangan ragu untuk bertanya; setiap kontributor memulainya dengan PR yang pertama. Anda bisa menjadi yang keseribu!

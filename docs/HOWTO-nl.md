@@ -10,12 +10,12 @@ Welkom bij Free-Programming-Books!
 
 We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste pull-verzoeken doen. Als je een van hen bent, zijn hier enkele bronnen die je kunnen helpen:
 
-* [:us: Over pull-verzoeken](https://help.github.com/articles/about-pull-requests/) *(in engels)*
-* [:us: Een pull-verzoek maken](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(in engels)*
-* [:us: Github Hallo Wereld](https://guides.github.com/activities/hello-world/) *(in engels)*
-* [:us: Youtube - Github-zelfstudie voor beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in engels)*
-* [:us: Youtube - Hoe een GitHub-repo te forken en een pull-verzoek in te dienen](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in engels)*
-* [:us: Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in engels)*
+* [Over pull-verzoeken](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in engels)*
+* [Een pull-verzoek maken](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in engels)*
+* [Github Hallo Wereld](https://docs.github.com/en/get-started/quickstart/hello-world) *(in engels)*
+* [Youtube - Github-zelfstudie voor beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in engels)*
+* [Youtube - Hoe een Github-repo te forken en een pull-verzoek in te dienen](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in engels)*
+* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in engels)*
 
 
 Aarzel niet om vragen te stellen; elke bijdrager begon met een eerste PR. Je zou onze duizendste kunnen zijn!

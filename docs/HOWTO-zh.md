@@ -10,12 +10,12 @@
 
 我们欢迎新的贡献者；即使是在 Github 上首次提出拉取请求的人。如果您是其中之一，那么以下资源可能会有所帮助：
 
-* [关于拉取请求](https://docs.github.com/cn/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
-* [创建拉取请求](https://docs.github.com/cn/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [Github Hello World 教程](https://guides.github.com/activities/hello-world/)
-* [Youtube —— Github 初学者教程](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [Youtube —— 如何复刻 GitHub 仓库并提交拉取请求](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [Youtube —— Markdown 速成课程](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [关于拉取请求](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+* [创建拉取请求](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+* [Github Hello World 教程](https://docs.github.com/cn/get-started/quickstart/hello-world)
+* [Youtube —— Github 初学者教程](https://www.youtube.com/watch?v=0fKg7e37bQE) *(用英语)*
+* [Youtube —— 如何复刻 GitHub 仓库并提交拉取请求](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(用英语)*
+* [Youtube —— Markdown 速成课程](https://www.youtube.com/watch?v=HUBNt18RFbo) *(用英语)*
 
 
 不要犹豫，提问题。每个贡献者都从第一个拉取请求开始。你可能是我们的千分之一！

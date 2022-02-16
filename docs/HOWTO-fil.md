@@ -10,12 +10,12 @@ Maligayang pagdating sa Free-Programming-Books!
 
 Tinatanggap namin ang mga bagong kontribyutor; kahit na ang mga gumagawa ng kanilang pinakaunang pull request sa Github. Kung isa ka sa mga iyon, narito ang ilang mapagkukunan na maaaring makatulong:
 
-* [About Pull Requests](https://help.github.com/articles/about-pull-requests/)
-* [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [Github Hello World](https://guides.github.com/activities/hello-world/)
-* [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
+* [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
+* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(in english)*
+* [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in english)*
+* [Youtube - How To Fork A Github Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
 Huwag mag-atubiling magtanong; bawat kontribyutor ay nagsimula sa isang unang PR. Maaaring ikaw ang aming ika-libo!

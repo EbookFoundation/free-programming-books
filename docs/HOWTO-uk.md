@@ -10,12 +10,12 @@
 
 Вітаємо нових учасників, навіть тих, хто робить свій перший pull request на Github. Якщо Ви один із них, ці ресурси можуть Вам допомогти:
 
-* [:us: Про Pull Requests](https://help.github.com/articles/about-pull-requests/)
-* [:us: Створення pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [:us: Github Hello World](https://guides.github.com/activities/hello-world/)
-* [:us: Youtube - Github для початківців](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [:us: Youtube - Як зробити Fork репозиторія GitHub та відправити Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [:us: Youtube - Занурення у Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [Про Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(англійською мовою)*
+* [Створення pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(англійською мовою)*
+* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(англійською мовою)*
+* [Youtube - Github для початківців](https://www.youtube.com/watch?v=0fKg7e37bQE) *(англійською мовою)*
+* [Youtube - Як зробити Fork репозиторія GitHub та відправити Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(англійською мовою)*
+* [Youtube - Занурення у Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(англійською мовою)*
 
 
 Не соромтеся задавати питання, адже кожен дописувач починав з першого Pull Request. Саме Ви можете стати нашим тисячним!

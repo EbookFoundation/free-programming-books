@@ -10,14 +10,14 @@
 
 نرحّب بجميع المساهمين الجدد؛ ونرحب أيضا بهؤلاء الذين يريدون تقديم أول بولّ ريكويست لهم علي جيت هبّ. إن كنت واحدا منهم، فإليك بعض المصادر التي ربما تساعدك:
 
-* [ 🇺🇸 عن البولّ ريكويست](https://help.github.com/articles/about-pull-requests/)
-* [ 🇺🇸 إنشاء بولّ ريكويست](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [ 🇺🇸 جيت هبّ مرحبا يا عالَم](https://guides.github.com/activities/hello-world/)
-* [ 🇺🇸 يوتيوب - دورات تعليمية عن جيت هبّ للمبتدئين](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [ 🇺🇸 يوتيوب - كيف تنشئ نسختك من مستودع علي جيت هبّ وتقوم بتقديم بولّ ريكويست](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [ 🇺🇸 يوتيوب - دورة تعليمية مكثفة عن لغة المارك داون](https://www.youtube.com/watch?v=HUBNt18RFbo)
-* [ 🇩🇿 يوتيوب - دورة تعليمية مكثفة عن لغة المارك داون](https://www.youtube.com/watch?v=1lZCkU5VpIs)
-* [ 🇪🇬 يوتيوب - دورات تعليمية عن جيت هبّ للمبتدئين](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+* [عن البولّ ريكويست](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
+* [إنشاء بولّ ريكويست](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
+* [GitHub مرحبا يا عالَم](https://docs.github.com/en/get-started/quickstart/hello-world) *(in english)*
+* [YouTube - دورات تعليمية عن GitHub للمبتدئين](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in english)*
+* [YouTube - كيف تنشئ نسختك من مستودع علي GitHub وتقوم بتقديم بولّ ريكويست](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in english)*
+* [YouTube - دورة تعليمية مكثفة عن لغة المارك داون](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
+* [YouTube - دورة تعليمية مكثفة عن لغة المارك داون](https://www.youtube.com/watch?v=1lZCkU5VpIs) *(العربية)*
+* [YouTube - دورات تعليمية عن GitHub للمبتدئين](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) *(in egyptian)*
 
 
 لا تخجل من أن تسأل، كل مساهم بدأ بأول بولّ ريكويست له، ربما تكون من الآلاف المساهمين لدينا!

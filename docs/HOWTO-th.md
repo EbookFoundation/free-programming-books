@@ -10,12 +10,12 @@
 
 พวกเราขอต้อนรับ contributors ใหม่ทุกคน แม้ว่าคุณพึ่งจะเคยสร้าง pull request เป็นครั้งแรกบน Github หากคุณคือหนึ่งในนั้น ด้านล่างนี้คือแหล่งข้อมูลที่อาจจะเป็นประโยชน์:
 
-* [About Pull Requests](https://help.github.com/articles/about-pull-requests/)
-* [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [Github Hello World](https://guides.github.com/activities/hello-world/)
-* [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
+* [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(ในภาษาอังกฤษ)*
+* [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(ในภาษาอังกฤษ)*
+* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(ในภาษาอังกฤษ)*
+* [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(ในภาษาอังกฤษ)*
 * [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(ในภาษาอังกฤษ)*
 
 
 อย่าลังเลที่จะถามคำถาม ทุกคนมี PR แรกกันทั้งนั้น คุณอาจจะเป็นหนึ่งในผู้ช่วยของเรา

@@ -10,11 +10,11 @@
 
 Καλωσορίζουμε τους νέους συνεισφέροντες· ακόμα και αυτούς που κάνουν το πρώτο τους pull request (PR) στο Github. Αν είστε ένας από αυτούς, ορίστε λίγο υλικό που μπορεί να βοηθήσει:
 
-* [Σχετικά με τα Pull Requests](https://help.github.com/articles/about-pull-requests/) *(στα αγγλικά)*
-* [Δημιουργώντας pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(στα αγγλικά)*
-* [Hello World στο Github](https://guides.github.com/activities/hello-world/) *(στα αγγλικά)*
+* [Σχετικά με τα Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(στα αγγλικά)*
+* [Δημιουργώντας pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(στα αγγλικά)*
+* [Hello World στο Github](https://docs.github.com/en/get-started/quickstart/hello-world) *(στα αγγλικά)*
 * [Youtube - Tutorial στο Github Για Αρχάριους](https://www.youtube.com/watch?v=0fKg7e37bQE) *(στα αγγλικά)*
-* [Youtube - Πως να Κάνετε Fork ένα αποθετήριο στο GitHub και να Υποβάλετε Ένα Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(στα αγγλικά)*
+* [Youtube - Πως να Κάνετε Fork ένα αποθετήριο στο Github και να Υποβάλετε Ένα Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(στα αγγλικά)*
 * [Youtube - Σύντομο Μάθημα Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(στα αγγλικά)*
 
 

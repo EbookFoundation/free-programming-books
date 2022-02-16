@@ -10,12 +10,12 @@ Free-Programming-Books রিপোজটরি তে স্বাগতম!
 
 আমরা নবাগত কন্ট্রিবিউটরস দের স্বাগতম জানাই; এমনকি যারা গিটহাবে এই প্রথম কোন "পুল রিকোয়েস্ট" তৈরি কয়েছেন। যদি আপনি তাদের একজন হয়ে থাকেন তাহলে নিচের রিসোর্স গুলো আপনার কাজে লাগতে পারেঃ
 
-* [:us: পুল রিকোয়েস্ট কি?](https://help.github.com/articles/about-pull-requests/) *(in english)*
-* [:us: কিভাবে পুল রিকোয়েস্ট দিব](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(in english)*
-* [:us: গিটহাব হ্যালো ওয়ার্ল্ড](https://guides.github.com/activities/hello-world/) *(in english)*
-* [:us: ইউটিউব - নতুনদের জন্য গিটহাব](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in english)*
-* [:us: ইউটিউব - কিভাবে একটি গিটহাব রিপোজিটরি ফোর্ক করবেন এবং পুল রিকোয়েস্ট সাবমিট করবেন](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in english)*
-* [:us: ইউটিউব - মার্কডাউন ক্র্যাশ কোর্স ](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
+* [পুল রিকোয়েস্ট কি?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
+* [কিভাবে পুল রিকোয়েস্ট দিব](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
+* [GitHub হ্যালো ওয়ার্ল্ড](https://docs.github.com/en/get-started/quickstart/hello-world) *(in english)*
+* [YouTube - নতুনদের জন্য GitHub](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in english)*
+* [YouTube - কিভাবে একটি GitHub রিপোজিটরি ফোর্ক করবেন এবং পুল রিকোয়েস্ট সাবমিট করবেন](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in english)*
+* [YouTube - মার্কডাউন ক্র্যাশ কোর্স](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
 কোন প্রশ্ন করতে দ্বিধাবোধ করবেন না। সব কন্ট্রিবিউটরই ফার্স্ট পুল রিকোয়েস্ট থেকে শুরু করেছিল। আপনিও হতে পারেন আমাদের সহস্রতম কন্ট্রিবিউটর!

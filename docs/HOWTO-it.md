@@ -10,9 +10,9 @@ Benvenuto su Free-Programming-Books!
 
 Diamo il benvenuto ai nuovi collaboratori; anche a quelli che fanno la loro prima pull request su Github. Se sei uno di quelli, ecco qualche risorsa che potrebbe aiutarti:
 
-* [Riguardante le Pull Requests](https://help.github.com/articles/about-pull-requests/) *(in inglese)*
-* [Creare una pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(in inglese)*
-* [Github Hello World](https://guides.github.com/activities/hello-world/) *(in inglese)*
+* [Riguardante le Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in inglese)*
+* [Creare una pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in inglese)*
+* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(in inglese)*
 * [Youtube - Github Tutorial per Principianti](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in inglese)*
 * [Youtube - Come forkare una Repository Github e Inviare una Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in inglese)*
 * [Youtube - Corso accelerato di Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in inglese)*

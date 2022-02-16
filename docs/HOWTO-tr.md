@@ -10,12 +10,12 @@ Free-Programming-Books Hoş Geldiniz!
 
 GitHub'da ilk Çekme Talebini (PR) yapanlardan olsanız bile Katkıda bulunmak için yeni gelenleri memnuniyetle karşılıyoruz. Eğer onlardan biriyseniz, işte size yardımcı olabilecek bazı kaynaklar:
 
-* [:us: Çekme İstekleri Hakkında](https://help.github.com/articles/about-pull-requests/) *(içinde ingilizce dilinde)*
-* [:us: Çekme isteği oluşturma](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(içinde ingilizce dilinde)*
-* [:us: GitHub Merhaba Dünya](https://guides.github.com/activities/hello-world/) *(içinde ingilizce dilinde)*
-* [:us: Youtube - Yeni Başlayanlar İçin GitHub Eğitimi](https://www.youtube.com/watch?v=0fKg7e37bQE) *(içinde ingilizce dilinde)*
-* [:us: Youtube - Bir GitHub Repo Nasıl Çatallanır ve Bir Çekme Talebi Nasıl Gönderilir](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(içinde ingilizce dilinde)*
-* [:us: Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(içinde ingilizce dilinde)*
+* [Çekme İstekleri Hakkında](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(içinde ingilizce dilinde)*
+* [Çekme isteği oluşturma](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(içinde ingilizce dilinde)*
+* [GitHub Merhaba Dünya](https://docs.github.com/en/get-started/quickstart/hello-world) *(içinde ingilizce dilinde)*
+* [Youtube - Yeni Başlayanlar İçin GitHub Eğitimi](https://www.youtube.com/watch?v=0fKg7e37bQE) *(içinde ingilizce dilinde)*
+* [Youtube - Bir GitHub Repo Nasıl Çatallanır ve Bir Çekme Talebi Nasıl Gönderilir](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(içinde ingilizce dilinde)*
+* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(içinde ingilizce dilinde)*
 
 
 Soru sormaktan çekinmeyin; her katılımcı ilk bir PR ile başladı. Binincimiz olabilirsin!

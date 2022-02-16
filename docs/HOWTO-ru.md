@@ -10,17 +10,17 @@
 
 Мы приветствуем новых участников; даже тех, кто делает свой самый первый пулреквест на Github. Если вы один из них, вот несколько ресурсов, которые могут вам помочь:
 
-* [:us: Про пулреквесты](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-* [:us: Создание пулреквеста](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [:us: Github Hello World](https://guides.github.com/activities/hello-world/)
-* [:us: Youtube - обучающий ролик по Github для новичков](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [:us: Youtube - Как форкнуть GitHub репозиторий и отправить пулл реквест](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [:us: Youtube - курс погружения в Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [Про пулреквесты](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(на английском языке)*
+* [Создание пулреквеста](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(на английском языке)*
+* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(на английском языке)*
+* [Youtube - обучающий ролик по Github для новичков](https://www.youtube.com/watch?v=0fKg7e37bQE) *(на английском языке)*
+* [Youtube - Как форкнуть GitHub репозиторий и отправить пулл реквест](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(на английском языке)*
+* [Youtube - курс погружения в Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(на английском языке)*
 
-* [:ru: Pull request'ы на GitHub или Как мне внести изменения в чужой проект](https://habr.com/ru/post/125999/)
-* [:ru: Github Hello World](http://bi0morph.github.io/hello-world/)
-* [:ru: Youtube - Изучение GitHub в одном видео уроке за 15 минут](https://www.youtube.com/watch?v=JfpCicDUMKc)
-* [:ru: Youtube - Markdown - пиши README без боли](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
+* [Pull request'ы на GitHub или Как мне внести изменения в чужой проект](https://habr.com/ru/post/125999/)
+* [Github Hello World](http://bi0morph.github.io/hello-world/)
+* [Youtube - Изучение GitHub в одном видео уроке за 15 минут](https://www.youtube.com/watch?v=JfpCicDUMKc)
+* [Youtube - Markdown - пиши README без боли](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
 
 Не стесняйтесь задавать вопросы; каждый участник начал с первого PR. Вы могли бы стать нашим тысячным!
 

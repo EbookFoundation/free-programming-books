@@ -10,12 +10,12 @@
 
 យើងរីករាយ ទទូល contributors ថ្មីៗ; ទោះបីវាជាការpull request ជាលើកដំបូងរបស់អ្នកក៏ដោយ. បើអ្នកទើបតែចាប់ផ្តើម contibute ដំបូង , ធនធានខាងក្រោមអាចជួយអ្នកបាន:
 
-* [អ្វីជា Pull Requests](https://help.github.com/articles/about-pull-requests/)
-* [របៀបបង្កើត pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [ទំព័រ Github Hello World](https://guides.github.com/activities/hello-world/)
-* [Youtube - Github សម្រាប់អ្នកទើបចាប់ផ្តើម](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [Youtube - របៀប Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [Youtube - របៀបប្រើ Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+* [អ្វីជា Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
+* [របៀបបង្កើត pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
+* [ទំព័រ Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(in english)*
+* [Youtube - Github សម្រាប់អ្នកទើបចាប់ផ្តើម](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in english)*
+* [Youtube - របៀប Fork A Github Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in english)*
+* [Youtube - របៀបប្រើ Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
 កុំខ្លាចក្នុងការសួរ; ពួកយើងទាំងអស់គ្នាចាប់ផ្តើមពីការបង្កើត PR ដំបូង. អ្នកក៏អាចជាអ្នកទី ១០០០ ផងដែរ!

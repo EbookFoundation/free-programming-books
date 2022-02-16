@@ -10,9 +10,9 @@ Chào mừng tới Free-Programming-Books!
 
 Chúng tôi chào đón những người đóng góp mới, kể cả khi những người đóng góp lần đầu thực hiện trên Github. Nếu bạn là một trong số họ, đây là một số nguồn có thể giúp:
 
-* [Giới thiệu về Pull request](https://help.github.com/articles/about-pull-requests/) *(bằng Tiếng Anh)*
-* [Tạo một Pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(bằng Tiếng Anh)*
-* [Github Hello World](https://guides.github.com/activities/hello-world/) *(bằng Tiếng Anh)*
+* [Giới thiệu về Pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(bằng Tiếng Anh)*
+* [Tạo một Pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(bằng Tiếng Anh)*
+* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(bằng Tiếng Anh)*
 * [Youtube - Giới thiệu Github cho người mới bắt đầu](https://www.youtube.com/watch?v=0fKg7e37bQE) *(bằng Tiếng Anh)*
 * [Youtube - Làm thế nào để Fork một kho lưu trữ GitHub và gửi một Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(bằng Tiếng Anh)*
 * [Youtube - Khóa học về Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(bằng Tiếng Anh)*

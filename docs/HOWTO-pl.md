@@ -16,7 +16,7 @@ Witamy w *Free-Programming-Books*! Witamy nowych współtwórców; nawet tych, k
 * [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) (po angielsku)
 
 
-Nie wahaj się zadawać pytań; każdy kontrybutor zaczynał od pierwszego PR. Możesz być naszym tysięcznym! 
+Nie wahaj się zadawać pytań; każdy kontrybutor zaczynał od pierwszego PR. Możesz być naszym tysięcznym!
 
 Nawet jeśli jesteś doświadczonym współtwórcą open source, są rzeczy, które mogą Cię frapować. Po przesłaniu swojego PR, *GitHub Actions* uruchomi linter, często znajdując drobne problemy z odstępami lub alfabetyzacją. Jeśli pojawi się zielony przycisk, wszystko jest gotowe do przeglądu, ale jeśli nie, kliknij „Szczegóły” pod kontrolką, która pozwoli dowiedzieć się co nie spodobało się linterowi. Napraw problem i dodaj zatwierdzenie do swojego PR.
 Na koniec, jeśli nie masz pewności, czy zasób, który chcesz dodać, jest odpowiedni dla *Free-Programming-Books*, przeczytaj wytyczne w [CONTRIBUTING](CONTRIBUTING-pl.md). ([translations](../README.md#translations))

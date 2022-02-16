@@ -21,7 +21,7 @@ Siempre damos una calurosa bienvenida a los nuevos colaboradores; incluso a aque
 No se quede nunca con dudas, ni tenga miedo de hacer preguntas; todo buen colaborador que usted puede ver en el repositorio, comenzó en su día con una primera PR. Así que... ¿qué tal si se une a [nuestra extensa y creciente](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) communidad?
 
 <details align="center" markdown="1">
-<summary>Click para detalle gráfico sobre dicho crecimiento</summary>
+<summary>Click para detalle gráfico sobre dicho crecimiento (usuarios vs. tiempo)</summary>
 
 [![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
 

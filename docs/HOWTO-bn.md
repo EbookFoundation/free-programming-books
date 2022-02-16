@@ -6,7 +6,9 @@
 
 </div>
 
-Free-Programming-Books রিপোজটরি তে স্বাগতম! আমরা নবাগত কন্ট্রিবিউটরস দের স্বাগতম জানাই; এমনকি যারা গিটহাবে এই প্রথম কোন "পুল রিকোয়েস্ট" তৈরি কয়েছেন। যদি আপনি তাদের একজন হয়ে থাকেন তাহলে নিচের রিসোর্স গুলো আপনার কাজে লাগতে পারেঃ
+Free-Programming-Books রিপোজটরি তে স্বাগতম!
+
+আমরা নবাগত কন্ট্রিবিউটরস দের স্বাগতম জানাই; এমনকি যারা গিটহাবে এই প্রথম কোন "পুল রিকোয়েস্ট" তৈরি কয়েছেন। যদি আপনি তাদের একজন হয়ে থাকেন তাহলে নিচের রিসোর্স গুলো আপনার কাজে লাগতে পারেঃ
 
 * [:us: পুল রিকোয়েস্ট কি?](https://help.github.com/articles/about-pull-requests/) *(in english)*
 * [:us: কিভাবে পুল রিকোয়েস্ট দিব](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(in english)*

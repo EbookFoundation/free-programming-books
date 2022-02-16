@@ -6,7 +6,9 @@
 
 </div>
 
-Maligayang pagdating sa Free-Programming-Books! Tinatanggap namin ang mga bagong kontribyutor; kahit na ang mga gumagawa ng kanilang pinakaunang pull request sa Github. Kung isa ka sa mga iyon, narito ang ilang mapagkukunan na maaaring makatulong:
+Maligayang pagdating sa Free-Programming-Books!
+
+Tinatanggap namin ang mga bagong kontribyutor; kahit na ang mga gumagawa ng kanilang pinakaunang pull request sa Github. Kung isa ka sa mga iyon, narito ang ilang mapagkukunan na maaaring makatulong:
 
 * [About Pull Requests](https://help.github.com/articles/about-pull-requests/)
 * [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)

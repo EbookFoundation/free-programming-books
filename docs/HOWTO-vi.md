@@ -6,7 +6,9 @@
 
 </div>
 
-Chào mừng tới Free-Programming-Books! Chúng tôi chào đón những người đóng góp mới, kể cả khi những người đóng góp lần đầu thực hiện trên Github. Nếu bạn là một trong số họ, đây là một số nguồn có thể giúp:
+Chào mừng tới Free-Programming-Books!
+
+Chúng tôi chào đón những người đóng góp mới, kể cả khi những người đóng góp lần đầu thực hiện trên Github. Nếu bạn là một trong số họ, đây là một số nguồn có thể giúp:
 
 * [Giới thiệu về Pull request](https://help.github.com/articles/about-pull-requests/) *(bằng Tiếng Anh)*
 * [Tạo một Pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(bằng Tiếng Anh)*

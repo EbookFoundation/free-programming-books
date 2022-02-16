@@ -6,7 +6,9 @@
 
 </div>
 
-Witamy w *Free-Programming-Books*! Witamy nowych współtwórców; nawet tych, którzy robią swoje pierwsze żądanie ściągnięcia na Github. Jeśli jesteś jednym z nich, oto kilka zasobów, które mogą Ci pomóc:
+Witamy w *Free-Programming-Books*!
+
+Witamy nowych współtwórców; nawet tych, którzy robią swoje pierwsze żądanie ściągnięcia na Github. Jeśli jesteś jednym z nich, oto kilka zasobów, które mogą Ci pomóc:
 
 * [About Pull Requests](https://help.github.com/articles/about-pull-requests/) (po angielsku)
 * [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) (po angielsku)

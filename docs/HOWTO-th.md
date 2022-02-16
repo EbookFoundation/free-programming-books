@@ -6,7 +6,9 @@
 
 </div>
 
-ขอต้อนรับเข้าสู่ Free-Programming-Books! พวกเราขอต้อนรับ contributors ใหม่ทุกคน แม้ว่าคุณพึ่งจะเคยสร้าง pull request เป็นครั้งแรกบน Github หากคุณคือหนึ่งในนั้น ด้านล่างนี้คือแหล่งข้อมูลที่อาจจะเป็นประโยชน์:
+ขอต้อนรับเข้าสู่ Free-Programming-Books!
+
+พวกเราขอต้อนรับ contributors ใหม่ทุกคน แม้ว่าคุณพึ่งจะเคยสร้าง pull request เป็นครั้งแรกบน Github หากคุณคือหนึ่งในนั้น ด้านล่างนี้คือแหล่งข้อมูลที่อาจจะเป็นประโยชน์:
 
 * [About Pull Requests](https://help.github.com/articles/about-pull-requests/)
 * [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)

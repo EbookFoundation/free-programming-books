@@ -6,7 +6,9 @@
 
 </div>
 
-Welkom bij Free-Programming-Books! We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste pull-verzoeken doen. Als je een van hen bent, zijn hier enkele bronnen die je kunnen helpen:
+Welkom bij Free-Programming-Books!
+
+We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste pull-verzoeken doen. Als je een van hen bent, zijn hier enkele bronnen die je kunnen helpen:
 
 * [:us: Over pull-verzoeken](https://help.github.com/articles/about-pull-requests/) *(in engels)*
 * [:us: Een pull-verzoek maken](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(in engels)*

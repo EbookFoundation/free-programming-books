@@ -6,7 +6,9 @@
 
 </div>
 
-歡迎使用 Free-Programming-Books！我們歡迎新的貢獻者；即使是在 Github 上首次提出 pull request 的人。如果您是其中之一，那麼以下資源可能會對你有所幫助：
+歡迎使用 Free-Programming-Books！
+
+我們歡迎新的貢獻者；即使是在 Github 上首次提出 pull request 的人。如果您是其中之一，那麼以下資源可能會對你有所幫助：
 
 * [關於 pull request](https://help.github.com/articles/about-pull-requests/)
 * [建立 pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)

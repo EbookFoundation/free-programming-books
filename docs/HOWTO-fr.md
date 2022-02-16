@@ -6,7 +6,9 @@
 
 </div>
 
-Bienvenue à Free-Programming-Books! Nous souhaitons la bienvenue aux nouveaux contributeurs; même ceux qui font leur toute première pull request sur Github. Si vous faites partie de ceux-ci, voici quelques ressources qui pourraient vous aider:
+Bienvenue à Free-Programming-Books!
+
+Nous souhaitons la bienvenue aux nouveaux contributeurs; même ceux qui font leur toute première pull request sur Github. Si vous faites partie de ceux-ci, voici quelques ressources qui pourraient vous aider:
 
 * [A propos des Pull Requests](https://help.github.com/articles/about-pull-requests/)
 * [Github Bonjour le monde](https://guides.github.com/activities/hello-world/)

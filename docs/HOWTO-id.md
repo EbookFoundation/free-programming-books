@@ -6,7 +6,9 @@
 
 </div>
 
-Selamat datang di Free-Programming-Books! Kami menyambut kontributor baru; bahkan untuk mereka yang membuat pull request pertama kali di Github. Jika Anda adalah salah satunya, berikut adalah beberapa sumber yang mungkin bisa membantu:
+Selamat datang di Free-Programming-Books!
+
+Kami menyambut kontributor baru; bahkan untuk mereka yang membuat pull request pertama kali di Github. Jika Anda adalah salah satunya, berikut adalah beberapa sumber yang mungkin bisa membantu:
 
 * [Tentang Pull Requests](https://help.github.com/articles/about-pull-requests/) (Dalam Bahasa Inggris)
 * [Membuat sebuah pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) (Dalam Bahasa Inggris)

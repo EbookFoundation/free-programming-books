@@ -6,7 +6,9 @@
 
 </div>
 
-Free-Programming-Books Hoş Geldiniz! GitHub'da ilk Çekme Talebini (PR) yapanlardan olsanız bile Katkıda bulunmak için yeni gelenleri memnuniyetle karşılıyoruz. Eğer onlardan biriyseniz, işte size yardımcı olabilecek bazı kaynaklar:
+Free-Programming-Books Hoş Geldiniz!
+
+GitHub'da ilk Çekme Talebini (PR) yapanlardan olsanız bile Katkıda bulunmak için yeni gelenleri memnuniyetle karşılıyoruz. Eğer onlardan biriyseniz, işte size yardımcı olabilecek bazı kaynaklar:
 
 * [:us: Çekme İstekleri Hakkında](https://help.github.com/articles/about-pull-requests/) *(içinde ingilizce dilinde)*
 * [:us: Çekme isteği oluşturma](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) *(içinde ingilizce dilinde)*

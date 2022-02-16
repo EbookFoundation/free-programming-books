@@ -6,7 +6,9 @@
 
 </div>
 
-Ласкаво просимо до Free-Programming-Books! Вітаємо нових учасників, навіть тих, хто робить свій перший pull request на Github. Якщо Ви один із них, ці ресурси можуть Вам допомогти:
+Ласкаво просимо до Free-Programming-Books!
+
+Вітаємо нових учасників, навіть тих, хто робить свій перший pull request на Github. Якщо Ви один із них, ці ресурси можуть Вам допомогти:
 
 * [:us: Про Pull Requests](https://help.github.com/articles/about-pull-requests/)
 * [:us: Створення pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)

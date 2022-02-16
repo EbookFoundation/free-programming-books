@@ -6,7 +6,9 @@
 
 </div>
 
-Dobrodošli v zbirki Free-Programming-Books! Lepo pozdravljeni vsi novi programerji - tudi tisti, ki boste na Githubu ustvarili vaš prvi zahtevek potega (pull-request). Če ste eden izmed njih, vam pri tem lahko pomaga nekaj virov:
+Dobrodošli v zbirki Free-Programming-Books!
+
+Lepo pozdravljeni vsi novi programerji - tudi tisti, ki boste na Githubu ustvarili vaš prvi zahtevek potega (pull-request). Če ste eden izmed njih, vam pri tem lahko pomaga nekaj virov:
 
 * [About Pull Requests](https://help.github.com/articles/about-pull-requests/)
 * [Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)

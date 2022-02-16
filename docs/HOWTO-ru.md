@@ -6,7 +6,9 @@
 
 </div>
 
-Добро пожаловать в Free-Programming-Books! Мы приветствуем новых участников; даже тех, кто делает свой самый первый пулреквест на Github. Если вы один из них, вот несколько ресурсов, которые могут вам помочь:
+Добро пожаловать в Free-Programming-Books!
+
+Мы приветствуем новых участников; даже тех, кто делает свой самый первый пулреквест на Github. Если вы один из них, вот несколько ресурсов, которые могут вам помочь:
 
 * [:us: Про пулреквесты](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 * [:us: Создание пулреквеста](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)

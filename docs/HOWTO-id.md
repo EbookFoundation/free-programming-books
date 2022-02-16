@@ -13,9 +13,9 @@ Kami menyambut kontributor baru; bahkan untuk mereka yang membuat pull request p
 * [Tentang Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(Dalam Bahasa Inggris)*
 * [Membuat sebuah pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(Dalam Bahasa Inggris)*
 * [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(Dalam Bahasa Inggris)*
-* [Youtube - GitHub Tutorial Untuk Pemula](https://www.youtube.com/watch?v=0fKg7e37bQE) *(Dalam Bahasa Inggris)*
-* [Youtube - Cara Melakukan Fork Pada GitHub Repositori dan Mengirimkan Sebuah Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(Dalam Bahasa Inggris)*
-* [Youtube - Kursus Kilat Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(Dalam Bahasa Inggris)*
+* [YouTube - GitHub Tutorial Untuk Pemula](https://www.youtube.com/watch?v=0fKg7e37bQE) *(Dalam Bahasa Inggris)*
+* [YouTube - Cara Melakukan Fork Pada GitHub Repositori dan Mengirimkan Sebuah Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(Dalam Bahasa Inggris)*
+* [YouTube - Kursus Kilat Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(Dalam Bahasa Inggris)*
 
 
 Jangan ragu untuk bertanya; setiap kontributor memulainya dengan PR yang pertama. Anda bisa menjadi yang keseribu!

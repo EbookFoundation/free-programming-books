@@ -13,9 +13,9 @@
 * [關於 pull request](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 * [建立 pull request](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 * [GitHub Hello World](https://docs.github.com/cn/get-started/quickstart/hello-world)
-* [Youtube - GitHub 初學者課程](https://www.youtube.com/watch?v=0fKg7e37bQE) *(用英語)*
-* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(用英語)*
-* [Youtube - Markdown 速成教學](https://www.youtube.com/watch?v=HUBNt18RFbo) *(用英語)*
+* [YouTube - GitHub 初學者課程](https://www.youtube.com/watch?v=0fKg7e37bQE) *(用英語)*
+* [YouTube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(用英語)*
+* [YouTube - Markdown 速成教學](https://www.youtube.com/watch?v=HUBNt18RFbo) *(用英語)*
 
 
 不要猶豫，儘管提問。每個貢獻者都是從第一個 PR 開始。您可能是我們的千分之一！

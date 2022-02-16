@@ -13,9 +13,9 @@ Witamy nowych współtwórców; nawet tych, którzy robią swoje pierwsze żąda
 * [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(po angielsku)*
 * [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(po angielsku)*
 * [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(po angielsku)*
-* [Youtube - GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(po angielsku)*
-* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(po angielsku)*
-* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(po angielsku)*
+* [YouTube - GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(po angielsku)*
+* [YouTube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(po angielsku)*
+* [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(po angielsku)*
 
 
 Nie wahaj się zadawać pytań; każdy kontrybutor zaczynał od pierwszego PR. Możesz być naszym tysięcznym!

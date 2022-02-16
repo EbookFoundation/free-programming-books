@@ -13,9 +13,9 @@ Vi välkomnar varmt nya medarbetare, även de som gör sin första Pull Request 
 * [Om Pull begäran](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(på engelska)*
 * [Skama en Pull begäran](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(på engelska)*
 * [GitHub Hej världen](https://docs.github.com/en/get-started/quickstart/hello-world) *(på engelska)*
-* [Youtube - GitHub -handledning för nybörjare](https://www.youtube.com/watch?v=0fKg7e37bQE) *(på engelska)*
-* [Youtube - Hur man gafflar ett GitHub -arkiv och skickar en pull -begäran](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(på engelska)*
-* [Youtube - Curso intensivo de Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(på engelska)*
+* [YouTube - GitHub -handledning för nybörjare](https://www.youtube.com/watch?v=0fKg7e37bQE) *(på engelska)*
+* [YouTube - Hur man gafflar ett GitHub -arkiv och skickar en pull -begäran](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(på engelska)*
+* [YouTube - Curso intensivo de Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(på engelska)*
 
 
 Var aldrig i tvivel, eller var rädd för att ställa frågor; varje bidragsgivare som du ser i förvaret började på sin tid med en första PR. Tänk om det är vår tusen-tusendel!

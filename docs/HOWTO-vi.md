@@ -13,9 +13,9 @@ Chúng tôi chào đón những người đóng góp mới, kể cả khi nhữn
 * [Giới thiệu về Pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(bằng Tiếng Anh)*
 * [Tạo một Pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(bằng Tiếng Anh)*
 * [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(bằng Tiếng Anh)*
-* [Youtube - Giới thiệu GitHub cho người mới bắt đầu](https://www.youtube.com/watch?v=0fKg7e37bQE) *(bằng Tiếng Anh)*
-* [Youtube - Làm thế nào để Fork một kho lưu trữ GitHub và gửi một Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(bằng Tiếng Anh)*
-* [Youtube - Khóa học về Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(bằng Tiếng Anh)*
+* [YouTube - Giới thiệu GitHub cho người mới bắt đầu](https://www.youtube.com/watch?v=0fKg7e37bQE) *(bằng Tiếng Anh)*
+* [YouTube - Làm thế nào để Fork một kho lưu trữ GitHub và gửi một Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(bằng Tiếng Anh)*
+* [YouTube - Khóa học về Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(bằng Tiếng Anh)*
 
 
 Đừng do dự khi đặt câu hỏi; mọi người đóng góp đã bắt đầu với PR đầu tiên. Bạn có thể là người tiếp theo!

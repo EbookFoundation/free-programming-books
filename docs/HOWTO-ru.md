@@ -13,14 +13,14 @@
 * [Про пулреквесты](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(на английском языке)*
 * [Создание пулреквеста](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(на английском языке)*
 * [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(на английском языке)*
-* [Youtube - обучающий ролик по GitHub для новичков](https://www.youtube.com/watch?v=0fKg7e37bQE) *(на английском языке)*
-* [Youtube - Как форкнуть GitHub репозиторий и отправить пулл реквест](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(на английском языке)*
-* [Youtube - курс погружения в Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(на английском языке)*
+* [YouTube - обучающий ролик по GitHub для новичков](https://www.youtube.com/watch?v=0fKg7e37bQE) *(на английском языке)*
+* [YouTube - Как форкнуть GitHub репозиторий и отправить пулл реквест](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(на английском языке)*
+* [YouTube - курс погружения в Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(на английском языке)*
 
 * [Pull request'ы на GitHub или Как мне внести изменения в чужой проект](https://habr.com/ru/post/125999/)
 * [GitHub Hello World](http://bi0morph.github.io/hello-world/)
-* [Youtube - Изучение GitHub в одном видео уроке за 15 минут](https://www.youtube.com/watch?v=JfpCicDUMKc)
-* [Youtube - Markdown - пиши README без боли](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
+* [YouTube - Изучение GitHub в одном видео уроке за 15 минут](https://www.youtube.com/watch?v=JfpCicDUMKc)
+* [YouTube - Markdown - пиши README без боли](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
 
 Не стесняйтесь задавать вопросы; каждый участник начал с первого PR. Вы могли бы стать нашим тысячным!
 

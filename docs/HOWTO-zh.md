@@ -13,9 +13,9 @@
 * [关于拉取请求](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 * [创建拉取请求](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 * [GitHub Hello World 教程](https://docs.github.com/cn/get-started/quickstart/hello-world)
-* [Youtube —— GitHub 初学者教程](https://www.youtube.com/watch?v=0fKg7e37bQE) *(用英语)*
-* [Youtube —— 如何复刻 GitHub 仓库并提交拉取请求](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(用英语)*
-* [Youtube —— Markdown 速成课程](https://www.youtube.com/watch?v=HUBNt18RFbo) *(用英语)*
+* [YouTube —— GitHub 初学者教程](https://www.youtube.com/watch?v=0fKg7e37bQE) *(用英语)*
+* [YouTube —— 如何复刻 GitHub 仓库并提交拉取请求](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(用英语)*
+* [YouTube —— Markdown 速成课程](https://www.youtube.com/watch?v=HUBNt18RFbo) *(用英语)*
 
 
 不要犹豫，提问题。每个贡献者都从第一个拉取请求开始。你可能是我们的千分之一！

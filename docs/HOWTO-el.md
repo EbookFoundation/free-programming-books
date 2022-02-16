@@ -13,9 +13,9 @@
 * [Σχετικά με τα Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(στα αγγλικά)*
 * [Δημιουργώντας pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(στα αγγλικά)*
 * [Hello World στο GitHub](https://docs.github.com/en/get-started/quickstart/hello-world) *(στα αγγλικά)*
-* [Youtube - Tutorial στο GitHub Για Αρχάριους](https://www.youtube.com/watch?v=0fKg7e37bQE) *(στα αγγλικά)*
-* [Youtube - Πως να Κάνετε Fork ένα αποθετήριο στο GitHub και να Υποβάλετε Ένα Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(στα αγγλικά)*
-* [Youtube - Σύντομο Μάθημα Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(στα αγγλικά)*
+* [YouTube - Tutorial στο GitHub Για Αρχάριους](https://www.youtube.com/watch?v=0fKg7e37bQE) *(στα αγγλικά)*
+* [YouTube - Πως να Κάνετε Fork ένα αποθετήριο στο GitHub και να Υποβάλετε Ένα Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(στα αγγλικά)*
+* [YouTube - Σύντομο Μάθημα Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(στα αγγλικά)*
 
 
 Μη διστάσετε να κάνετε ερωτήσεις· κάθε συνεισφέρων ξεκίνησε ένα πρώτο PR. Μπορεί να είστε το χιλιοστό μας!

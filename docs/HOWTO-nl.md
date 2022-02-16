@@ -13,9 +13,9 @@ We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste pull-verzoek
 * [Over pull-verzoeken](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in engels)*
 * [Een pull-verzoek maken](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in engels)*
 * [GitHub Hallo Wereld](https://docs.github.com/en/get-started/quickstart/hello-world) *(in engels)*
-* [Youtube - GitHub-zelfstudie voor beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in engels)*
-* [Youtube - Hoe een GitHub-repo te forken en een pull-verzoek in te dienen](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in engels)*
-* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in engels)*
+* [YouTube - GitHub-zelfstudie voor beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in engels)*
+* [YouTube - Hoe een GitHub-repo te forken en een pull-verzoek in te dienen](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in engels)*
+* [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in engels)*
 
 
 Aarzel niet om vragen te stellen; elke bijdrager begon met een eerste PR. Je zou onze duizendste kunnen zijn!

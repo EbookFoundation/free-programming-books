@@ -13,9 +13,9 @@ Lepo pozdravljeni vsi novi programerji - tudi tisti, ki boste na GitHubu ustvari
 * [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(v angleškem jeziku)*
 * [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(v angleškem jeziku)*
 * [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(v angleškem jeziku)*
-* [Youtube - GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(v angleškem jeziku)*
-* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(v angleškem jeziku)*
-* [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(v angleškem jeziku)*
+* [YouTube - GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(v angleškem jeziku)*
+* [YouTube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(v angleškem jeziku)*
+* [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(v angleškem jeziku)*
 
 
 Ne oklevajte in postavljajte vprašanja; vsak programer je enkrat začel s svojim prvim PR-om. Vi ste lahko naš tisoči!

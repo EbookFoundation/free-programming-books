@@ -8,12 +8,12 @@
 
 歡迎使用 Free-Programming-Books！
 
-我們歡迎新的貢獻者；即使是在 Github 上首次提出 pull request 的人。如果您是其中之一，那麼以下資源可能會對你有所幫助：
+我們歡迎新的貢獻者；即使是在 GitHub 上首次提出 pull request 的人。如果您是其中之一，那麼以下資源可能會對你有所幫助：
 
 * [關於 pull request](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 * [建立 pull request](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-* [Github Hello World](https://docs.github.com/cn/get-started/quickstart/hello-world)
-* [Youtube - Github 初學者課程](https://www.youtube.com/watch?v=0fKg7e37bQE) *(用英語)*
+* [GitHub Hello World](https://docs.github.com/cn/get-started/quickstart/hello-world)
+* [Youtube - GitHub 初學者課程](https://www.youtube.com/watch?v=0fKg7e37bQE) *(用英語)*
 * [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(用英語)*
 * [Youtube - Markdown 速成教學](https://www.youtube.com/watch?v=HUBNt18RFbo) *(用英語)*
 

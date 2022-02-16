@@ -8,12 +8,12 @@
 
 Seja bem-vindo(a) ao Free-Programming-Books (Livros de Programação Grátis)!
 
-Novos contribuidores são bem-vindos para nós; até mesmo aqueles fazendo seu primeiro pull request no Github. Se você é um deles, nós temos alguns recursos que podem ajudar:
+Novos contribuidores são bem-vindos para nós; até mesmo aqueles fazendo seu primeiro pull request no GitHub. Se você é um deles, nós temos alguns recursos que podem ajudar:
 
 * [Sobre pull requests](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 * [Criando uma pull request](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
 * [GitHub Hello World](https://docs.github.com/pt/get-started/quickstart/hello-world)
-* [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(em inglês)*
+* [Youtube - GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(em inglês)*
 * [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(em inglês)*
 * [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(em inglês)*
 

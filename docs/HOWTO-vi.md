@@ -8,18 +8,18 @@
 
 Chào mừng tới Free-Programming-Books!
 
-Chúng tôi chào đón những người đóng góp mới, kể cả khi những người đóng góp lần đầu thực hiện trên Github. Nếu bạn là một trong số họ, đây là một số nguồn có thể giúp:
+Chúng tôi chào đón những người đóng góp mới, kể cả khi những người đóng góp lần đầu thực hiện trên GitHub. Nếu bạn là một trong số họ, đây là một số nguồn có thể giúp:
 
 * [Giới thiệu về Pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(bằng Tiếng Anh)*
 * [Tạo một Pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(bằng Tiếng Anh)*
-* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(bằng Tiếng Anh)*
-* [Youtube - Giới thiệu Github cho người mới bắt đầu](https://www.youtube.com/watch?v=0fKg7e37bQE) *(bằng Tiếng Anh)*
+* [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(bằng Tiếng Anh)*
+* [Youtube - Giới thiệu GitHub cho người mới bắt đầu](https://www.youtube.com/watch?v=0fKg7e37bQE) *(bằng Tiếng Anh)*
 * [Youtube - Làm thế nào để Fork một kho lưu trữ GitHub và gửi một Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(bằng Tiếng Anh)*
 * [Youtube - Khóa học về Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(bằng Tiếng Anh)*
 
 
 Đừng do dự khi đặt câu hỏi; mọi người đóng góp đã bắt đầu với PR đầu tiên. Bạn có thể là người tiếp theo!
 
-Nếu bạn là một người đóng góp có kinh nghiệm với mã nguồn mở, có nhiều điều bạn có thể phát triển. Một khi bạn gửi PR của bạn, Github Actions sẽ kiểm tra, thường tìm thấy những lỗi nhỏ với khoảng trống hoặc chính tả. Nếu bạn đặt tích xanh, mọi thứ đã sẵn sàng cho việc đánh giá, nếu không, nhấn vào "Details" dưới phần kiểm tra lỗi để tìm kiếm sai sót. Sửa vấn đề và thêm một commit tới PR của bạn.
+Nếu bạn là một người đóng góp có kinh nghiệm với mã nguồn mở, có nhiều điều bạn có thể phát triển. Một khi bạn gửi PR của bạn, GitHub Actions sẽ kiểm tra, thường tìm thấy những lỗi nhỏ với khoảng trống hoặc chính tả. Nếu bạn đặt tích xanh, mọi thứ đã sẵn sàng cho việc đánh giá, nếu không, nhấn vào "Details" dưới phần kiểm tra lỗi để tìm kiếm sai sót. Sửa vấn đề và thêm một commit tới PR của bạn.
 
 Cuối cùng, nếu bạn không chắc rằng nguồn bạn muốn thêm phù hợp cho Free-Programming-Books, đọc qua hướng dẫn trong [Đóng Góp](CONTRIBUTING-vi.md). ([translations](../README.md#translations))

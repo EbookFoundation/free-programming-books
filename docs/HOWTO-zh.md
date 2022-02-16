@@ -8,12 +8,12 @@
 
 欢迎使用 Free-Programming-Books（免费编程书籍）！
 
-我们欢迎新的贡献者；即使是在 Github 上首次提出拉取请求的人。如果您是其中之一，那么以下资源可能会有所帮助：
+我们欢迎新的贡献者；即使是在 GitHub 上首次提出拉取请求的人。如果您是其中之一，那么以下资源可能会有所帮助：
 
 * [关于拉取请求](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 * [创建拉取请求](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-* [Github Hello World 教程](https://docs.github.com/cn/get-started/quickstart/hello-world)
-* [Youtube —— Github 初学者教程](https://www.youtube.com/watch?v=0fKg7e37bQE) *(用英语)*
+* [GitHub Hello World 教程](https://docs.github.com/cn/get-started/quickstart/hello-world)
+* [Youtube —— GitHub 初学者教程](https://www.youtube.com/watch?v=0fKg7e37bQE) *(用英语)*
 * [Youtube —— 如何复刻 GitHub 仓库并提交拉取请求](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(用英语)*
 * [Youtube —— Markdown 速成课程](https://www.youtube.com/watch?v=HUBNt18RFbo) *(用英语)*
 

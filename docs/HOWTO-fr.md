@@ -8,13 +8,13 @@
 
 Bienvenue à Free-Programming-Books!
 
-Nous souhaitons la bienvenue aux nouveaux contributeurs; même ceux qui font leur toute première pull request sur Github. Si vous faites partie de ceux-ci, voici quelques ressources qui pourraient vous aider:
+Nous souhaitons la bienvenue aux nouveaux contributeurs; même ceux qui font leur toute première pull request sur GitHub. Si vous faites partie de ceux-ci, voici quelques ressources qui pourraient vous aider:
 
 * [A propos des pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(en anglais)*
 * [Création d'une pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(en anglais)*
-* [Github Bonjour le monde](https://docs.github.com/en/get-started/quickstart/hello-world) *(en anglais)*
-* [Youtube - Comment Fork un Repo Github et Soumettre une Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(en anglais)*
-* [Youtube - Tutoriel Github pour debutant](https://www.youtube.com/watch?v=0fKg7e37bQE) *(en anglais)*
+* [GitHub Bonjour le monde](https://docs.github.com/en/get-started/quickstart/hello-world) *(en anglais)*
+* [Youtube - Comment Fork un Repo GitHub et Soumettre une Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(en anglais)*
+* [Youtube - Tutoriel GitHub pour debutant](https://www.youtube.com/watch?v=0fKg7e37bQE) *(en anglais)*
 * [Youtube - Cours intensif d'Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(en anglais)*
 
 

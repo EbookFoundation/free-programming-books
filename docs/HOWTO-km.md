@@ -8,18 +8,18 @@
 
 ស្វាគមន៍មកកាន់ Free-Programming-Books!
 
-យើងរីករាយ ទទូល contributors ថ្មីៗ; ទោះបីវាជាការpull request ជាលើកដំបូងរបស់អ្នកក៏ដោយ. បើអ្នកទើបតែចាប់ផ្តើម contibute ដំបូង , ធនធានខាងក្រោមអាចជួយអ្នកបាន:
+យើងរីករាយ ទទូល contributors ថ្មីៗ; ទោះបីវាជាការpull request ជាលើកដំបូងរបស់អ្នកក៏ដោយ នៅ GitHub ។. បើអ្នកទើបតែចាប់ផ្តើម contibute ដំបូង , ធនធានខាងក្រោមអាចជួយអ្នកបាន:
 
 * [អ្វីជា Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
 * [របៀបបង្កើត pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
-* [ទំព័រ Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(in english)*
-* [Youtube - Github សម្រាប់អ្នកទើបចាប់ផ្តើម](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in english)*
-* [Youtube - របៀប Fork A Github Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in english)*
+* [ទំព័រ GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(in english)*
+* [Youtube - GitHub សម្រាប់អ្នកទើបចាប់ផ្តើម](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in english)*
+* [Youtube - របៀប Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in english)*
 * [Youtube - របៀបប្រើ Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
 កុំខ្លាចក្នុងការសួរ; ពួកយើងទាំងអស់គ្នាចាប់ផ្តើមពីការបង្កើត PR ដំបូង. អ្នកក៏អាចជាអ្នកទី ១០០០ ផងដែរ!
 
-ពេលអ្នកបង្កើត Pull request ដំបូង Github នឹងត្រួតពិនិត្រអោយអ្នកដោយប្រើ Linter ពេលវាចេញពណ័ខៀវមានន័យថាអ្នកអាចបង្កើត PR បាន ផ្ទុយទៅវិញអ្នកត្រូវកែជាមុនសិនដើម្បីបង្កើត PR ដោយចុចលើពាក្រ "Detail។
+ពេលអ្នកបង្កើត Pull request ដំបូង GitHub នឹងត្រួតពិនិត្រអោយអ្នកដោយប្រើ linter ពេលវាចេញពណ័ខៀវមានន័យថាអ្នកអាចបង្កើត PR បាន ផ្ទុយទៅវិញអ្នកត្រូវកែជាមុនសិនដើម្បីបង្កើត PR ដោយចុចលើពាក្រ "Detail។
 
 ចុងបញ្ចប់ បើអ្នកអត់ច្បាស់ថា ធនធានរបស់អ្នក ជា "free-programming-books" ឬអត់ ចូរអ្នកអានបន្ថែមទីនេះ [CONTRIBUTING](CONTRIBUTING.md)។ ([translations](../README.md#translations))

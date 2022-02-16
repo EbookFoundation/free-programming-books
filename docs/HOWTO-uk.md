@@ -8,12 +8,12 @@
 
 Ласкаво просимо до Free-Programming-Books!
 
-Вітаємо нових учасників, навіть тих, хто робить свій перший pull request на Github. Якщо Ви один із них, ці ресурси можуть Вам допомогти:
+Вітаємо нових учасників, навіть тих, хто робить свій перший pull request на GitHub. Якщо Ви один із них, ці ресурси можуть Вам допомогти:
 
 * [Про Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(англійською мовою)*
 * [Створення pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(англійською мовою)*
-* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(англійською мовою)*
-* [Youtube - Github для початківців](https://www.youtube.com/watch?v=0fKg7e37bQE) *(англійською мовою)*
+* [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(англійською мовою)*
+* [Youtube - GitHub для початківців](https://www.youtube.com/watch?v=0fKg7e37bQE) *(англійською мовою)*
 * [Youtube - Як зробити Fork репозиторія GitHub та відправити Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(англійською мовою)*
 * [Youtube - Занурення у Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(англійською мовою)*
 

@@ -8,13 +8,13 @@
 
 Selamat datang di Free-Programming-Books!
 
-Kami menyambut kontributor baru; bahkan untuk mereka yang membuat pull request pertama kali di Github. Jika Anda adalah salah satunya, berikut adalah beberapa sumber yang mungkin bisa membantu:
+Kami menyambut kontributor baru; bahkan untuk mereka yang membuat pull request pertama kali di GitHub. Jika Anda adalah salah satunya, berikut adalah beberapa sumber yang mungkin bisa membantu:
 
 * [Tentang Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(Dalam Bahasa Inggris)*
 * [Membuat sebuah pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(Dalam Bahasa Inggris)*
-* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(Dalam Bahasa Inggris)*
-* [Youtube - Github Tutorial Untuk Pemula](https://www.youtube.com/watch?v=0fKg7e37bQE) *(Dalam Bahasa Inggris)*
-* [Youtube - Cara Melakukan Fork Pada Github Repositori dan Mengirimkan Sebuah Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(Dalam Bahasa Inggris)*
+* [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(Dalam Bahasa Inggris)*
+* [Youtube - GitHub Tutorial Untuk Pemula](https://www.youtube.com/watch?v=0fKg7e37bQE) *(Dalam Bahasa Inggris)*
+* [Youtube - Cara Melakukan Fork Pada GitHub Repositori dan Mengirimkan Sebuah Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(Dalam Bahasa Inggris)*
 * [Youtube - Kursus Kilat Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(Dalam Bahasa Inggris)*
 
 

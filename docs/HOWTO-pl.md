@@ -8,13 +8,13 @@
 
 Witamy w *Free-Programming-Books*!
 
-Witamy nowych współtwórców; nawet tych, którzy robią swoje pierwsze żądanie ściągnięcia na Github. Jeśli jesteś jednym z nich, oto kilka zasobów, które mogą Ci pomóc:
+Witamy nowych współtwórców; nawet tych, którzy robią swoje pierwsze żądanie ściągnięcia na GitHub. Jeśli jesteś jednym z nich, oto kilka zasobów, które mogą Ci pomóc:
 
 * [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(po angielsku)*
 * [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(po angielsku)*
-* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(po angielsku)*
-* [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(po angielsku)*
-* [Youtube - How To Fork A Github Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(po angielsku)*
+* [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(po angielsku)*
+* [Youtube - GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(po angielsku)*
+* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(po angielsku)*
 * [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(po angielsku)*
 
 

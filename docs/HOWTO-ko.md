@@ -12,9 +12,9 @@ Free-Programming-Books 에 오신 것을 환영합니다!
 
 * [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
 * [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
-* [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(in english)*
-* [Youtube - Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in english)*
-* [Youtube - How To Fork A Github Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+* [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(in english)*
+* [Youtube - GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in english)*
+* [Youtube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
 * [Youtube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 

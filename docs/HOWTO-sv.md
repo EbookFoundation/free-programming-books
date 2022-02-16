@@ -6,7 +6,7 @@
 
 </div>
 
-**Välkommen till *Free-Programming-Books*!**
+**Välkommen till `Free-Programming-Books`!**
 
 Vi välkomnar varmt nya medarbetare, även de som gör sin första Pull Request (PR) på GitHub. Om du är en av dem finns här några resurser som kan hjälpa dig:
 
@@ -22,4 +22,4 @@ Var aldrig i tvivel, eller var rädd för att ställa frågor; varje bidragsgiva
 
 Om du har erfarenhet som bidragsgivare på andra projekt med öppen källkod finns det några saker du kan göra för att få det att fungera. När den skickats till PR, utför *GitHub Actions* en *linter*; som hittar en meny för att hitta små problem med utrymme, utrymme, syntax eller läskunnighet. Om denna slutliga integrationsprocess ska slutföras kommer ljuset och allt är klart för din granskning; men om inte, klicka på "Detaljer för detaljer" som ger det exakta genomsnittet av det du tappade. Lösningen på detta problem och summan av förändringarna i din PR innebär ett nytt engagemang.
 
-I slutändan, om det inte finns någon garanti för att resursen för vilket aggregatet används för *Gratisprogrammeringsböcker*, kan det definitivt hittas i [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))
+I slutändan, om det inte finns någon garanti för att resursen för vilket aggregatet används för `Free-Programming-Books`, kan det definitivt hittas i [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))

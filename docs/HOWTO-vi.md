@@ -6,7 +6,7 @@
 
 </div>
 
-**Chào mừng tới *Free-Programming-Books*!**
+**Chào mừng tới `Free-Programming-Books`!**
 
 Chúng tôi chào đón những người đóng góp mới, kể cả khi những người đóng góp lần đầu thực hiện trên GitHub. Nếu bạn là một trong số họ, đây là một số nguồn có thể giúp:
 
@@ -22,4 +22,4 @@ Chúng tôi chào đón những người đóng góp mới, kể cả khi nhữn
 
 Nếu bạn là một người đóng góp có kinh nghiệm với mã nguồn mở, có nhiều điều bạn có thể phát triển. Một khi bạn gửi PR của bạn, GitHub Actions sẽ kiểm tra, thường tìm thấy những lỗi nhỏ với khoảng trống hoặc chính tả. Nếu bạn đặt tích xanh, mọi thứ đã sẵn sàng cho việc đánh giá, nếu không, nhấn vào "Details" dưới phần kiểm tra lỗi để tìm kiếm sai sót. Sửa vấn đề và thêm một commit tới PR của bạn.
 
-Cuối cùng, nếu bạn không chắc rằng nguồn bạn muốn thêm phù hợp cho Free-Programming-Books, đọc qua hướng dẫn trong [Đóng Góp](CONTRIBUTING-vi.md). ([translations](../README.md#translations))
+Cuối cùng, nếu bạn không chắc rằng nguồn bạn muốn thêm phù hợp cho `Free-Programming-Books`, đọc qua hướng dẫn trong [Đóng Góp](CONTRIBUTING-vi.md). ([translations](../README.md#translations))

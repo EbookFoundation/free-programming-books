@@ -6,7 +6,7 @@
 
 </div>
 
-**ស្វាគមន៍មកកាន់ *Free-Programming-Books*!**
+**ស្វាគមន៍មកកាន់ `Free-Programming-Books`!**
 
 យើងរីករាយ ទទូល contributors ថ្មីៗ; ទោះបីវាជាការpull request ជាលើកដំបូងរបស់អ្នកក៏ដោយ នៅ GitHub ។. បើអ្នកទើបតែចាប់ផ្តើម contibute ដំបូង , ធនធានខាងក្រោមអាចជួយអ្នកបាន:
 
@@ -22,4 +22,4 @@
 
 ពេលអ្នកបង្កើត Pull request ដំបូង GitHub នឹងត្រួតពិនិត្រអោយអ្នកដោយប្រើ linter ពេលវាចេញពណ័ខៀវមានន័យថាអ្នកអាចបង្កើត PR បាន ផ្ទុយទៅវិញអ្នកត្រូវកែជាមុនសិនដើម្បីបង្កើត PR ដោយចុចលើពាក្រ "Detail។
 
-ចុងបញ្ចប់ បើអ្នកអត់ច្បាស់ថា ធនធានរបស់អ្នក ជា "free-programming-books" ឬអត់ ចូរអ្នកអានបន្ថែមទីនេះ [CONTRIBUTING](CONTRIBUTING.md)។ ([translations](../README.md#translations))
+ចុងបញ្ចប់ បើអ្នកអត់ច្បាស់ថា ធនធានរបស់អ្នក ជា `Free-Programming-Books` ឬអត់ ចូរអ្នកអានបន្ថែមទីនេះ [CONTRIBUTING](CONTRIBUTING.md)។ ([translations](../README.md#translations))

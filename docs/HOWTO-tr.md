@@ -6,7 +6,7 @@
 
 </div>
 
-***Free-Programming-Books* Hoş Geldiniz!**
+**`Free-Programming-Books` Hoş Geldiniz!**
 
 GitHub'da ilk Çekme Talebini (PR) yapanlardan olsanız bile Katkıda bulunmak için yeni gelenleri memnuniyetle karşılıyoruz. Eğer onlardan biriyseniz, işte size yardımcı olabilecek bazı kaynaklar:
 
@@ -23,4 +23,4 @@ Soru sormaktan çekinmeyin; her katılımcı ilk bir PR ile başladı. Binincimi
 Deneyimli bir açık kaynak katılımcısı olsanız bile, sizi rahatsız edebilecek şeyler var. PR'nizi gönderdikten sonra,
 GitHub Actions, genellikle boşluk veya alfabetik sıralama ile ilgili küçük sorunlar bularak bir linter çalıştırır. Yeşil bir düğme alırsanız, her şey gözden geçirilmeye hazırdır, ancak değilse, linter'in neyi sevmediğini bulmak için başarısız olan kontrolün altındaki "Details" ı tıklayın. Sorunu düzeltin ve PR'nize bir taahhüt ekleyin.
 
-Nihayet, Eklemek istediğiniz kaynağın Free-Programming-Books için uygun olduğundan emin değilseniz, [CONTRIBUTING](CONTRIBUTING.md) bölümündeki yönergeleri okuyun. ([translations](../README.md#translations))
+Nihayet, Eklemek istediğiniz kaynağın `Free-Programming-Books` için uygun olduğundan emin değilseniz, [CONTRIBUTING](CONTRIBUTING.md) bölümündeki yönergeleri okuyun. ([translations](../README.md#translations))

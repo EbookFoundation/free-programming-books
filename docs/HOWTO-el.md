@@ -8,7 +8,7 @@
 
 **Καλώς ήλθατε στο `Free-Programming-Books`!**
 
-Καλωσορίζουμε τους νέους συνεισφέροντες· ακόμα και αυτούς που κάνουν το πρώτο τους pull request (PR) στο Github. Αν είστε ένας από αυτούς, ορίστε λίγο υλικό που μπορεί να βοηθήσει:
+Καλωσορίζουμε τους νέους συνεισφέροντες· ακόμα και αυτούς που κάνουν το πρώτο τους pull request (PR) στο GitHub. Αν είστε ένας από αυτούς, ορίστε λίγο υλικό που μπορεί να βοηθήσει:
 
 * [Σχετικά με τα Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(στα αγγλικά)*
 * [Δημιουργώντας pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(στα αγγλικά)*

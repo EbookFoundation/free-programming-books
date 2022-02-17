@@ -31,6 +31,6 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 </details>
 
-Nếu bạn là một người đóng góp có kinh nghiệm với mã nguồn mở, có nhiều điều bạn có thể phát triển. Một khi bạn gửi PR của bạn, GitHub Actions sẽ kiểm tra, thường tìm thấy những lỗi nhỏ với khoảng trống hoặc chính tả. Nếu bạn đặt tích xanh, mọi thứ đã sẵn sàng cho việc đánh giá, nếu không, nhấn vào "Details" dưới phần kiểm tra lỗi để tìm kiếm sai sót. Sửa vấn đề và thêm một commit tới PR của bạn.
+Nếu bạn là một người đóng góp có kinh nghiệm với mã nguồn mở, có nhiều điều bạn có thể phát triển. Một khi bạn gửi PR của bạn, ***GitHub Actions* sẽ kiểm tra tra bằng cách sử dụng *linter*, thường tìm thấy những lỗi nhỏ với khoảng trống hoặc chính tả**. Nếu bạn đặt tích xanh, mọi thứ đã sẵn sàng cho việc đánh giá, nếu không, nhấn vào "Details" dưới phần kiểm tra lỗi để tìm kiếm sai sót. Sửa vấn đề và thêm một commit tới PR của bạn.
 
 Cuối cùng, nếu bạn không chắc rằng nguồn bạn muốn thêm phù hợp cho `Free-Programming-Books`, đọc qua hướng dẫn trong [Đóng Góp](CONTRIBUTING-vi.md). ([translations](../README.md#translations))

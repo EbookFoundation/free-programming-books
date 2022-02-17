@@ -31,7 +31,7 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 </details>
 
-即使您是經驗豐富的開源貢獻者，也有一些事情可能會讓您遭受失敗。提交您的 PR 後，GitHub Actions 會運行程式碼品質分析工具，有時會發現間距或字母順序方面的問題。如果您獲得綠色按鈕，則說明一切準備就緒，但如果沒有，請點擊 "更多" 連結以尋找程式碼品質分析工具不满意的地方。修正此問題並新增 commit 到您的 PR。
+即使您是經驗豐富的開源貢獻者，也有一些事情可能會讓您遭受失敗。提交您的 PR 後，***GitHub Actions* 會運行程式碼品質分析工具，有時會發現間距或字母順序方面的問題**。如果您獲得綠色按鈕，則說明一切準備就緒，但如果沒有，請點擊 "更多" 連結以尋找程式碼品質分析工具不满意的地方。修正此問題並新增 commit 到您的 PR。
 
 
 最後，如果不確定要添加的資源是否適合 `Free-Programming-Books`，請閱讀 [CONTRIBUTING](CONTRIBUTING-zh_TW.md) 中的指南。([translations](../README.md#translations))

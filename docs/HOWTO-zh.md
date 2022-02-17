@@ -31,6 +31,6 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 </details>
 
-即使您是经验丰富的开源贡献者，也有一些事情可能会让您绊倒。提交您的 PR 后，GitHub Actions 会运行一个 linter（代码风格检测工具），经常发现间距或字母顺序方面的小问题。如果您获得绿色按钮，则说明一切准备就绪，但如果没有，请单击 "更多" 链接以查找 linter 不满意的地方。解决此问题并新增 commit 到您的 PR。
+即使您是经验丰富的开源贡献者，也有一些事情可能会让您绊倒。提交您的 PR 后，***GitHub Actions* 会运行一个 *linter*（代码风格检测工具），经常发现间距或字母顺序方面的小问题**。如果您获得绿色按钮，则说明一切准备就绪，但如果没有，请单击 "更多" 链接以查找 linter 不满意的地方。解决此问题并新增 commit 到您的 PR。
 
 最后，如果不确定要添加的资源是否适用于 `Free-Programming-Books`（免费编程书籍），请通读 [CONTRIBUTING](CONTRIBUTING-zh.md) 中的基本准则。([translations](../README.md#translations))

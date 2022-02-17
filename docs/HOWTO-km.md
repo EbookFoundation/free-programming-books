@@ -31,6 +31,6 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 </details>
 
-ពេលអ្នកបង្កើត PR ដំបូង GitHub នឹងត្រួតពិនិត្រអោយអ្នកដោយប្រើ linter ពេលវាចេញពណ័ខៀវមានន័យថាអ្នកអាចបង្កើត PR បាន ផ្ទុយទៅវិញអ្នកត្រូវកែជាមុនសិនដើម្បីបង្កើត PR ដោយចុចលើពាក្រ "Detail។
+Even if you're an experienced open source contributor, there are things that might trip you up. ពេលអ្នកបង្កើត PR ដំបូង ***GitHub Actions* នឹងត្រួតពិនិត្រអោយអ្នកដោយប្រើ *linter*, often finding little issues with spacing or alphabetization**។. ពេលវាចេញពណ័ខៀវមានន័យថាអ្នកអាចបង្កើត PR បាន ផ្ទុយទៅវិញអ្នកត្រូវកែជាមុនសិនដើម្បីបង្កើត PR ដោយចុចលើពាក្រ "Detail។
 
 ចុងបញ្ចប់ បើអ្នកអត់ច្បាស់ថា ធនធានរបស់អ្នក ជា `Free-Programming-Books` ឬអត់ ចូរអ្នកអានបន្ថែមទីនេះ [CONTRIBUTING](CONTRIBUTING.md)។ ([translations](../README.md#translations))

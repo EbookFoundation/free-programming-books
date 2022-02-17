@@ -31,6 +31,6 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 </details>
 
-Kahit na isa kang makaranasang open source na nag-ambag, may mga bagay na maaaring magalit sa iyo. Sa sandaling naisumite mo na ang iyong PR, ang GitHub Actions ay magpapatakbo ng isang linter, kadalasang nakakahanap ng maliliit na isyu sa spacing o alphabetization. Kung nakakuha ka ng berdeng button, handa na ang lahat para sa pagsusuri, ngunit kung hindi, i-click ang "Mga Detalye" sa ilalim ng tseke na nabigong malaman kung ano ang hindi nagustuhan ng linter. Ayusin ang problema at magdagdag ng commit sa iyong PR.
+Kahit na isa kang makaranasang open source na nag-ambag, may mga bagay na maaaring magalit sa iyo. Sa sandaling naisumite mo na ang iyong PR, ang ***GitHub Actions* ay magpapatakbo ng isang *linter*, kadalasang nakakahanap ng maliliit na isyu sa spacing o alphabetization**. Kung nakakuha ka ng berdeng button, handa na ang lahat para sa pagsusuri, ngunit kung hindi, i-click ang "Mga Detalye" sa ilalim ng tseke na nabigong malaman kung ano ang hindi nagustuhan ng linter. Ayusin ang problema at magdagdag ng commit sa iyong PR.
 
 Panghuli, kung hindi ka sigurado na ang resource na gusto mong idagdag ay angkop para sa `Free-Programming-Books`, basahin ang mga alituntunin sa [CONTRIBUTING](CONTRIBUTING-fil.md). ([translations](../README.md#translations))

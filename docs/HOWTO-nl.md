@@ -31,6 +31,6 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 </details>
 
-Zelfs als je een ervaren open source-bijdrager bent, zijn er dingen die je kunnen laten struikelen. Nadat je je PR hebt ingediend, voert GitHub Actions een linter uit, waarbij vaak kleine problemen met spatiëring of alfabetisering worden gevonden. Als je een groene knop krijgt, is alles klaar voor beoordeling, maar als dat niet het geval is, klik je op "Details" onder het vinkje dat niet heeft kunnen achterhalen wat de linter niet leuk vond. Los het probleem op en voeg een commit toe aan je PR.
+Zelfs als je een ervaren open source-bijdrager bent, zijn er dingen die je kunnen laten struikelen. Nadat je je PR hebt ingediend, voert ***GitHub Actions* een *linter* uit, waarbij vaak kleine problemen met spatiëring of alfabetisering worden gevonden**. Als je een groene knop krijgt, is alles klaar voor beoordeling, maar als dat niet het geval is, klik je op "Details" onder het vinkje dat niet heeft kunnen achterhalen wat de linter niet leuk vond. Los het probleem op en voeg een commit toe aan je PR.
 
 Tot slot, als je niet zeker weet of de bron die je wilt toevoegen geschikt is voor `Free-Programming-Books`, lees dan de richtlijnen in [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))

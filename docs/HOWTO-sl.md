@@ -31,6 +31,6 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 </details>
 
-Tudi če ste izkušeni na področju programiranja odprte kode, se bodo zagotovo našle zadeve, ki vas lahko malce zaustavijo. Ko oddate PR, bo GitHub Actions zagnal pregledovalnik, ki pogosto najde manjše težave z razmikom ali abecedo. Če se vam prikaže zeleni gumb, je vse pripravljeno za pregled. Če se zeleni gumb ne prikaže, kliknite »Podrobnosti« pod kljukico, ki je ugotovila, kaj pregledovalniku ni bilo všeč. Odpravite težavo in dodajte zahtevo (commit) v PR.
+Tudi če ste izkušeni na področju programiranja odprte kode, se bodo zagotovo našle zadeve, ki vas lahko malce zaustavijo. Ko oddate PR, bo ***GitHub Actions* zagnal pregledovalnik, ki pogosto najde manjše težave z razmikom ali abecedo**. Če se vam prikaže zeleni gumb, je vse pripravljeno za pregled. Če se zeleni gumb ne prikaže, kliknite »Podrobnosti« pod kljukico, ki je ugotovila, kaj pregledovalniku ni bilo všeč. Odpravite težavo in dodajte zahtevo (commit) v PR.
 
 Če niste prepričani, da je vir, ki ga želite dodati, primeren za zbirko `Free-Programming-Books`, preberite smernice v [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))

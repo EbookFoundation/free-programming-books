@@ -30,6 +30,6 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 </details>
 
-Selbst, wenn Du ein erfahrener Open-Source-Mitwirkender bist, könnte es Dinge geben, die Dich ins Straucheln bringen. Sobald Du Deinen PR eingereicht hast, führt GitHub Actions einen Linter aus und findet oft kleine Probleme mit Absätzen oder Alphabetisierung. Wenn Du eine grüne Schaltfläche siehst, ist alles zur Überprüfung bereit. Aber wenn das nicht der Fall ist, klicke unter der fehlgeschlagenen Überprüfung auf "Details", um herauszufinden, was dem Linter nicht gefallen hat. Behebe das Problem und füge Deinem PR einen Commit hinzu.
+Selbst, wenn Du ein erfahrener Open-Source-Mitwirkender bist, könnte es Dinge geben, die Dich ins Straucheln bringen. Sobald Du Deinen PR eingereicht hast, führt ***GitHub Actions* einen *Linter* aus und findet oft kleine Probleme mit Absätzen oder Alphabetisierung**. Wenn Du eine grüne Schaltfläche siehst, ist alles zur Überprüfung bereit. Aber wenn das nicht der Fall ist, klicke unter der fehlgeschlagenen Überprüfung auf "Details", um herauszufinden, was dem Linter nicht gefallen hat. Behebe das Problem und füge Deinem PR einen Commit hinzu.
 
 Wenn Du Dir nicht sicher bist, ob die Ressource, die Du hinzufügen möchtest, für `Free-Programming-Books` geeignet ist, lies Dir die Richtlinien in [Mitwirken](CONTRIBUTING-de.md) durch. ([translations](../README.md#translations))

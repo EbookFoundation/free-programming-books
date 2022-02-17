@@ -2,7 +2,7 @@
 
 <div align="right" markdown="1">
 
-*[阅读本文的其他语言版本](../README.md#translations))*
+*[阅读本文的其他语言版本](../README.md#translations)*
 
 </div>
 

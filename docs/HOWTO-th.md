@@ -14,7 +14,7 @@
 * [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(ในภาษาอังกฤษ)*
 * [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) *(ในภาษาอังกฤษ)*
 * [YouTube - GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) *(ในภาษาอังกฤษ)*
-* [YouTube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+* [YouTube - How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(ในภาษาอังกฤษ)*
 * [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(ในภาษาอังกฤษ)*
 
 

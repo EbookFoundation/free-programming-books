@@ -20,6 +20,17 @@
 
 កុំខ្លាចក្នុងការសួរ; ពួកយើងទាំងអស់គ្នាចាប់ផ្តើមពីការបង្កើត PR ដំបូង. អ្នកក៏អាចជាអ្នកទី ១០០០ ផងដែរ!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 ពេលអ្នកបង្កើត Pull request ដំបូង GitHub នឹងត្រួតពិនិត្រអោយអ្នកដោយប្រើ linter ពេលវាចេញពណ័ខៀវមានន័យថាអ្នកអាចបង្កើត PR បាន ផ្ទុយទៅវិញអ្នកត្រូវកែជាមុនសិនដើម្បីបង្កើត PR ដោយចុចលើពាក្រ "Detail។
 
 ចុងបញ្ចប់ បើអ្នកអត់ច្បាស់ថា ធនធានរបស់អ្នក ជា `Free-Programming-Books` ឬអត់ ចូរអ្នកអានបន្ថែមទីនេះ [CONTRIBUTING](CONTRIBUTING.md)។ ([translations](../README.md#translations))

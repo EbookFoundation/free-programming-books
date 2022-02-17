@@ -22,6 +22,17 @@
 
 از سوال کردن خجالت نکشید. هر مشارکت‌کننده‌ای با اولین پول‌ریکوئست شروع کرده است. شما می‌توانید یکی از هزاران مشارکت‌کننده‌ی ما باشید!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 حتی اگر مشارکت‌کننده‌ی باتجربه‌ی پروژه‌های متن‌باز هستید، چیزهایی هست که شاید سطح شما را بالاتر ببرد. وقتی پی‌آر خود را ثبت می‌کنید، GitHub Actions یک linter اجرا می‌کند که معمولا مشکلات فاصله‌گذاری یا ترتیب الفبایی را کشف می‌کند. اگر دکمه‌ی سبز را دیدید، یعنی همه چیز برای بازبینی آماده است، در غیر این صورت، روی "Details" در پایین بازبینی شکست خورده کلیک کنید تا بفهمید لینتر چه چیزی را دوست نداشته است. مشکل را حل کنید و یک کامیت به پی‌آر خود اضافه کنید.
 
 در پایان، اگر مطمئن نیستید که منبعی که می‌خواهید اضافه کنید، برای `Free-Programming-Books` مناسب باشد، راهنماهای [CONTRIBUTING](CONTRIBUTING-fa_IR.md) را بخوانید *([translations](../README.md#translations) also available)*.

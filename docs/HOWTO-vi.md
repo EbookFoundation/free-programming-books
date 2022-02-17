@@ -20,6 +20,17 @@ Chúng tôi chào đón những người đóng góp mới, kể cả khi nhữn
 
 Đừng do dự khi đặt câu hỏi; mọi người đóng góp đã bắt đầu với PR đầu tiên. Bạn có thể là người tiếp theo!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 Nếu bạn là một người đóng góp có kinh nghiệm với mã nguồn mở, có nhiều điều bạn có thể phát triển. Một khi bạn gửi PR của bạn, GitHub Actions sẽ kiểm tra, thường tìm thấy những lỗi nhỏ với khoảng trống hoặc chính tả. Nếu bạn đặt tích xanh, mọi thứ đã sẵn sàng cho việc đánh giá, nếu không, nhấn vào "Details" dưới phần kiểm tra lỗi để tìm kiếm sai sót. Sửa vấn đề và thêm một commit tới PR của bạn.
 
 Cuối cùng, nếu bạn không chắc rằng nguồn bạn muốn thêm phù hợp cho `Free-Programming-Books`, đọc qua hướng dẫn trong [Đóng Góp](CONTRIBUTING-vi.md). ([translations](../README.md#translations))

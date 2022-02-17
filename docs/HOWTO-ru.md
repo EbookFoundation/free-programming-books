@@ -24,6 +24,17 @@
 
 Не стесняйтесь задавать вопросы; каждый участник начал с первого PR. Вы могли бы стать нашим тысячным!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 Даже если вы опытный участник проекта с открытым исходным кодом, есть вещи, которые могут вас сбить с толку. После того как вы отправите свой PR, GitHub Actions запустит линтер который часто находит небольшие проблемы с пробелами или алфавитным порядком. Если у вас появляется зеленая кнопка, все готово к проверке, а если нет, нажмите "Details" под проверкой, которая не смогла выяснить, что не понравилось линтеру. Устраните проблему и добавьте коммит в свой пулреквест.
 
 Наконец, если вы не уверены, что ресурс, который вы хотите добавить, подходит для `Free-Programming-Books`, прочтите рекомендации в [CONTRIBUTING](CONTRIBUTING-ru.md). ([translations](../README.md#translations))

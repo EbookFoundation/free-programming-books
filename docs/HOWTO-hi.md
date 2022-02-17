@@ -20,6 +20,17 @@
 
 सवाल पूछने में संकोच न करें; हर योगदानकर्ता ने पहले PR के साथ शुरुआत की। आप हमारे हजारवें हो सकते हैं!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 यहां तक कि अगर आप एक अनुभवी ओपन सोर्स योगदानकर्ता हैं, तो ऐसी चीजें हैं जो आपको यात्रा कर सकती हैं। एक बार जब आप अपना पीआर सबमिट कर देते हैं, तो GitHub Actions एक लिंटर चलाएगा, अक्सर रिक्ति या वर्णमाला के साथ छोटे मुद्दों को ढूंढता है। यदि आपको एक हरा बटन मिलता है, तो सब कुछ समीक्षा के लिए तैयार है, लेकिन यदि नहीं, तो यह जानने के लिए फेल्ड चेक के नीचे "डिटेल्स" पर क्लिक करें कि लिंटर को क्या पसंद नहीं आया। समस्या को ठीक करें और अपने पीआर के लिए एक प्रतिबद्धता जोड़ें।
 
 अंत में, यदि आप सुनिश्चित नहीं हैं कि जिस संसाधन को आप जोड़ना चाहते हैं, वह `Free-Programming-Books` के लिए उपयुक्त है,[CONTRIBUTING](CONTRIBUTING.md) में दिशानिर्देशों के माध्यम से पढ़ें।. ([translations](../README.md#translations))

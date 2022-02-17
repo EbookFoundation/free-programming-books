@@ -20,6 +20,17 @@ Vi välkomnar varmt nya medarbetare, även de som gör sin första Pull Request 
 
 Var aldrig i tvivel, eller var rädd för att ställa frågor; varje bidragsgivare som du ser i förvaret började på sin tid med en första PR. Tänk om det är vår tusen-tusendel!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 Om du har erfarenhet som bidragsgivare på andra projekt med öppen källkod finns det några saker du kan göra för att få det att fungera. När den skickats till PR, utför *GitHub Actions* en *linter*; som hittar en meny för att hitta små problem med utrymme, utrymme, syntax eller läskunnighet. Om denna slutliga integrationsprocess ska slutföras kommer ljuset och allt är klart för din granskning; men om inte, klicka på "Detaljer för detaljer" som ger det exakta genomsnittet av det du tappade. Lösningen på detta problem och summan av förändringarna i din PR innebär ett nytt engagemang.
 
 I slutändan, om det inte finns någon garanti för att resursen för vilket aggregatet används för `Free-Programming-Books`, kan det definitivt hittas i [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))

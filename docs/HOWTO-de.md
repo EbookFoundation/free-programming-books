@@ -19,6 +19,17 @@ Wir heißen neue Beitragende herzlich willkommen. Auch die, die ihren ersten Pul
 
 Habe keine Angst eine Frage zu stellen. Jeder fängt mal an und macht irgendwann seinen allerersten Pull Request. Du könntest unser tausendster sein.
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 Selbst, wenn Du ein erfahrener Open-Source-Mitwirkender bist, könnte es Dinge geben, die Dich ins Straucheln bringen. Sobald Du Deinen PR eingereicht hast, führt GitHub Actions einen Linter aus und findet oft kleine Probleme mit Absätzen oder Alphabetisierung. Wenn Du eine grüne Schaltfläche siehst, ist alles zur Überprüfung bereit. Aber wenn das nicht der Fall ist, klicke unter der fehlgeschlagenen Überprüfung auf "Details", um herauszufinden, was dem Linter nicht gefallen hat. Behebe das Problem und füge Deinem PR einen Commit hinzu.
 
 Wenn Du Dir nicht sicher bist, ob die Ressource, die Du hinzufügen möchtest, für `Free-Programming-Books` geeignet ist, lies Dir die Richtlinien in [Mitwirken](CONTRIBUTING-de.md) durch. ([translations](../README.md#translations))

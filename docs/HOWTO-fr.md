@@ -20,6 +20,17 @@ Nous souhaitons la bienvenue aux nouveaux contributeurs; même ceux qui font leu
 
 N'hésitez pas à poser des questions; chaque contributeur a commencé par une première PR. Vous pourriez être notre millième!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 Même si vous êtes un contributeur open source expérimenté, il y a des choses qui peuvent vous faire trébucher. Une fois que vous avez soumis votre PR, GitHub Actions exécutera un linter, trouvant souvent de petits problèmes d'espacement ou d'alphabétisation. Si vous obtenez un bouton vert, tout est prêt pour l'examen, mais sinon, cliquez sur "Détails" sous la vérification qui n'a pas réussi pour découvrir ce que le linter n'a pas aimé. Résolvez le problème et ajoutez un commit à votre PR.
 
 Enfin, si vous n'êtes pas sûr que la ressource que vous souhaitez ajouter soit appropriée pour `Free-Programming-Books`, lisez les instructions dans [CONTRIBUTING](CONTRIBUTING-fr.md). ([translations](../README.md#translations))

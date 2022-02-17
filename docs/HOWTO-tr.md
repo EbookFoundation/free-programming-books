@@ -20,6 +20,17 @@ GitHub'da ilk Çekme Talebini (PR) yapanlardan olsanız bile Katkıda bulunmak i
 
 Soru sormaktan çekinmeyin; her katılımcı ilk bir PR ile başladı. Binincimiz olabilirsin!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 Deneyimli bir açık kaynak katılımcısı olsanız bile, sizi rahatsız edebilecek şeyler var. PR'nizi gönderdikten sonra,
 GitHub Actions, genellikle boşluk veya alfabetik sıralama ile ilgili küçük sorunlar bularak bir linter çalıştırır. Yeşil bir düğme alırsanız, her şey gözden geçirilmeye hazırdır, ancak değilse, linter'in neyi sevmediğini bulmak için başarısız olan kontrolün altındaki "Details" ı tıklayın. Sorunu düzeltin ve PR'nize bir taahhüt ekleyin.
 

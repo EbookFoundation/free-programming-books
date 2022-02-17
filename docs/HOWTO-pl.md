@@ -20,5 +20,16 @@ Witamy nowych współtwórców; nawet tych, którzy robią swoje pierwsze żąda
 
 Nie wahaj się zadawać pytań; każdy kontrybutor zaczynał od pierwszego PR. Możesz być naszym tysięcznym!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 Nawet jeśli jesteś doświadczonym współtwórcą open source, są rzeczy, które mogą Cię frapować. Po przesłaniu swojego PR, *GitHub Actions* uruchomi linter, często znajdując drobne problemy z odstępami lub alfabetyzacją. Jeśli pojawi się zielony przycisk, wszystko jest gotowe do przeglądu, ale jeśli nie, kliknij „Szczegóły” pod kontrolką, która pozwoli dowiedzieć się co nie spodobało się linterowi. Napraw problem i dodaj zatwierdzenie do swojego PR.
 Na koniec, jeśli nie masz pewności, czy zasób, który chcesz dodać, jest odpowiedni dla `Free-Programming-Books`, przeczytaj wytyczne w [CONTRIBUTING](CONTRIBUTING-pl.md). ([translations](../README.md#translations))

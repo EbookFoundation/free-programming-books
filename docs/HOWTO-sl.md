@@ -20,6 +20,17 @@ Lepo pozdravljeni vsi novi programerji - tudi tisti, ki boste na GitHubu ustvari
 
 Ne oklevajte in postavljajte vprašanja; vsak programer je enkrat začel s svojim prvim PR-om. Vi ste lahko naš tisoči!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 Tudi če ste izkušeni na področju programiranja odprte kode, se bodo zagotovo našle zadeve, ki vas lahko malce zaustavijo. Ko oddate PR, bo GitHub Actions zagnal pregledovalnik, ki pogosto najde manjše težave z razmikom ali abecedo. Če se vam prikaže zeleni gumb, je vse pripravljeno za pregled. Če se zeleni gumb ne prikaže, kliknite »Podrobnosti« pod kljukico, ki je ugotovila, kaj pregledovalniku ni bilo všeč. Odpravite težavo in dodajte zahtevo (commit) v PR.
 
 Če niste prepričani, da je vir, ki ga želite dodati, primeren za zbirko `Free-Programming-Books`, preberite smernice v [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))

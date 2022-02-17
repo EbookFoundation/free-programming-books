@@ -20,6 +20,17 @@ Primamo nove kontributore; čak i one koji tek prave svoj prvi pull request na G
 
 Namojte se ustručavati da postavljate pitanja; svaki kontributor je započeo sa prvim PR-om. Vi biste mogli biti naš hiljaditi!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 Čak i ako ste iskusan open source kontributor, postoje stvari u kojma biste se mogli zapetljati. Nakon što ste postavili Vaš PR, GitHub Actions će pokrenuti linter, koji često pronalazi problemčiće sa proredom ili abecednim redoslijedom. Ako dobijete zeleno dugme, sve je spremno za pregled, u suprotnom, kliknite "Details" ispod provjere koja nije uspjela kako biste otkrili šta se linter-u nije svidjelo. Ispravite problem i dodajte commit Vašem PR-u.
 
 Na kraju, ako niste sigurni da je resurs koji želite dodati prikladan za `Free-Programming-Books`, pročitajte smjernice u [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))

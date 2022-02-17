@@ -20,6 +20,17 @@
 
 Μη διστάσετε να κάνετε ερωτήσεις· κάθε συνεισφέρων ξεκίνησε ένα πρώτο PR. Μπορεί να είστε το χιλιοστό μας!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 Ακόμα και αν είστε έμπειρος συνεισφέρων, υπάρχουν πράγματα που μπορεί να σας μπερδέψουν. Όταν έχετε υποβάλλει το PR σας, το GitHub Actions θα τρέχει ένα linter, που βρίσκει συνήθως μικρά θέματα με τα κενά ή την αλφαβητική σειρά. Αν δείτε ένα πράσινο κουμπί, όλα είναι έτοιμα για ανασκόπηση, αλλά αν όχι, πατήστε "Details" (λεπτομέρειες) κάτω από τον έλεγχο που απέτυχε για να μάθετε τι δεν άρεσε στον linter. Διορθώστε το πρόβλημα και προσθέστε ένα commit στο PR σας.
 
 Τέλος, αν δεν είστε σίγουροι αν το υλικό που θέλετε να προσθέσετε είναι κατάλληλο για το `Free-Programming-Books`, διαβάστε προσεκτικά τις κατευθυντήριες γραμμές στο [CONTRIBUTING](CONTRIBUTING-el.md). ([translations](../README.md#translations))

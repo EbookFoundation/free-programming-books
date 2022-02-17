@@ -22,6 +22,17 @@
 
 لا تخجل من أن تسأل، كل مساهم بدأ بأول بولّ ريكويست له، ربما تكون من الآلاف المساهمين لدينا!
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 حتي لو كنت مساهما متمرسا في المشاريع مفتوحة المصدر، هناك بعض الأشياء التي ربما تقف في طريقك. فعند تقديمك للبولّ ريكويست، يقوم *GitHub Actions* بتشغيل فاحص تلقائيا لاكتشاف بعض الأخطاء الصغيرة التي قد تحدث بسبب المسافات أو الأخطاء الأبجدية. فإذا كان الزر أخضرا، هذا يعني أن الكود جاهز للمراجعة، ولكن إن كان غير ذلك، إضغط علي "تفاصيل" تحت الإختبار الذي فشل لتري ما هي الأخطاء التي يجب أن تصححها قبل مراجعة الكود. بعد تصحيح الأخطاء قم بعمل كومّيت لإضافة التعديلات للبولّ ريكويست.
 
 في النهاية، إذا لم تتأكد من أن المصادر التي تريد إضافتها مناسبة لـ `Free-Programming-Books`، فقم بقرآءة الدليل الإرشادي في [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))

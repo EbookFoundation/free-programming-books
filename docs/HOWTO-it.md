@@ -20,6 +20,17 @@ Diamo il benvenuto ai nuovi collaboratori; anche a quelli che fanno la loro prim
 
 Non esitare a fare domande; ogni collaboratore iniziato con una prima pull request (PR). Potresti essere il nostro millesimo collaboratore.
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 Anche se sei un collaboratore esperto in ambito open source, queste sono cose che potrebbero crearti dei problemi. Una volta che hai inviato la tua PR, GitHub Actions avvierà un linter, spesso trovando piccoli problemi di spaziatura o di ordinamento alfabetico. Se ottieni una spunta verde, tutto è pronto per una revisione, ma se non è così clicca su "Details" sotto il check che è stato fallito, analizza l'errore, risolvilo e aggiungi un commit alla PR.
 
 In fine, se non sei sicuro che la risorsa che vuoi aggiungere è appropiata a `Free-Programming-Books`, leggi le linee guida su [CONTRIBUTING](CONTRIBUTING-it.md). ([translations](../README.md#translations))

@@ -20,6 +20,17 @@ Novos contribuidores são bem-vindos para nós; até mesmo aqueles fazendo seu p
 
 Não hesite em tirar suas dúvidas; todo contribuidor começou com um primeiro PR. E você pode ser nosso milésimo!
 
+<details align="center" markdown="1">
+<summary>Clique para ver o gráficos de crescimento (usuários x tempo)</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+OBSERVAÇÃO: os picos de contribuição geralmente coincidem com o intervalo de datas do [evento Hacktoberfest](https://hacktoberfest.digitalocean.com).
+
+</details>
+
 Mesmo se você tem experiência com contribuições open source, existem algumas coisas que você pode errar. Por isso, assim que você submeter seu PR, ele vai ser testado pelo GitHub Actions, e as vezes, serão encontrados problemas como espaçamento. Se você receber um botão verde, está tudo certo para uma revisão de PR. Caso contrário, clique em "Detalhes" para ver o problema encontrado. Arrume ele e adicione um commit ao PR.
 
 Finalmente, se você não tem certeza de que o material que você que quer adicionar é apropriado para o `Free-Programming-Books`, leia o guia em [CONTRIBUTING](CONTRIBUTING-pt_BR.md). ([translations](../README.md#translations))

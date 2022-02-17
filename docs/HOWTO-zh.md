@@ -20,6 +20,17 @@
 
 不要犹豫，提问题。每个贡献者都从第一个拉取请求开始。你可能是我们的千分之一！
 
+<details align="center" markdown="1">
+<summary>Click to see the growth users vs. time graphs.</summary>
+
+[![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
+
+[![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
+
+NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+
+</details>
+
 即使您是经验丰富的开源贡献者，也有一些事情可能会让您绊倒。提交您的拉取请求后，GitHub Actions 会运行一个 linter（代码风格检测工具），经常发现间距或字母顺序方面的小问题。如果您获得绿色按钮，则说明一切准备就绪，但如果没有，请单击 "更多" 链接以查找 linter 不满意的地方。解决此问题并新增 commit 到您的拉取请求。
 
 最后，如果不确定要添加的资源是否适用于 `Free-Programming-Books`（免费编程书籍），请通读 [CONTRIBUTING](CONTRIBUTING-zh.md) 中的基本准则。([translations](../README.md#translations))

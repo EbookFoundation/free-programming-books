@@ -1,6 +1,7 @@
 ### Index
 
 * [APL](#apl)
+* [Assembly](#assembly)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -52,6 +53,11 @@
 * [ngn/apl](https://abrudz.github.io/ngn-apl)
 * [TryAPL](https://tryapl.org)
 * [TryAPL Mini](https://janiczek.github.io/tryapl-elm)
+
+
+### Assembly
+
+* [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
 
 
 ### <a name="c"></a>C

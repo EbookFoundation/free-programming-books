@@ -8,7 +8,7 @@
 
 **Maligayang pagdating sa `Free-Programming-Books`!**
 
-Tinatanggap namin ang mga bagong kontribyutor; kahit na ang mga gumagawa ng kanilang pinakaunang pull request sa GitHub. Kung isa ka sa mga iyon, narito ang ilang mapagkukunan na maaaring makatulong:
+Tinatanggap namin ang mga bagong kontribyutor; kahit na ang mga gumagawa ng kanilang pinakaunang Pull Request (PR) sa GitHub. Kung isa ka sa mga iyon, narito ang ilang mapagkukunan na maaaring makatulong:
 
 * [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
 * [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*

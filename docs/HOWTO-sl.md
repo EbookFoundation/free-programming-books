@@ -8,7 +8,7 @@
 
 **Dobrodošli v zbirki `Free-Programming-Books`!**
 
-Lepo pozdravljeni vsi novi programerji - tudi tisti, ki boste na GitHubu ustvarili vaš prvi zahtevek potega (pull-request). Če ste eden izmed njih, vam pri tem lahko pomaga nekaj virov:
+Lepo pozdravljeni vsi novi programerji - tudi tisti, ki boste na GitHubu ustvarili vaš prvi zahtevek potega (pull-request / PR). Če ste eden izmed njih, vam pri tem lahko pomaga nekaj virov:
 
 * [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(v angleškem jeziku)*
 * [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(v angleškem jeziku)*

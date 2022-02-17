@@ -8,7 +8,7 @@
 
 **Dobrodošli u `Free-Programming-Books`!**
 
-Primamo nove kontributore; čak i one koji tek prave svoj prvi pull request na GitHub-u. Ako ste jedan od njih, ovdje je nekoliko izvora koji bi Vam mogli pomoći:
+Primamo nove kontributore; čak i one koji tek prave svoj prvi Pull Request (PR) na GitHub-u. Ako ste jedan od njih, ovdje je nekoliko izvora koji bi Vam mogli pomoći:
 
 * [O pull request-ima](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
 * [Kreiranje pull request-a](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*

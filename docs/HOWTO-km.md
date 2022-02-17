@@ -8,7 +8,7 @@
 
 **ស្វាគមន៍មកកាន់ `Free-Programming-Books`!**
 
-យើងរីករាយ ទទូល contributors ថ្មីៗ; ទោះបីវាជាការpull request ជាលើកដំបូងរបស់អ្នកក៏ដោយ នៅ GitHub ។. បើអ្នកទើបតែចាប់ផ្តើម contibute ដំបូង , ធនធានខាងក្រោមអាចជួយអ្នកបាន:
+យើងរីករាយ ទទូល contributors ថ្មីៗ; ទោះបីវាជាការPull Request (PR) ជាលើកដំបូងរបស់អ្នកក៏ដោយ នៅ GitHub ។. បើអ្នកទើបតែចាប់ផ្តើម contibute ដំបូង , ធនធានខាងក្រោមអាចជួយអ្នកបាន:
 
 * [អ្វីជា Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
 * [របៀបបង្កើត pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
@@ -31,6 +31,6 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 </details>
 
-ពេលអ្នកបង្កើត Pull request ដំបូង GitHub នឹងត្រួតពិនិត្រអោយអ្នកដោយប្រើ linter ពេលវាចេញពណ័ខៀវមានន័យថាអ្នកអាចបង្កើត PR បាន ផ្ទុយទៅវិញអ្នកត្រូវកែជាមុនសិនដើម្បីបង្កើត PR ដោយចុចលើពាក្រ "Detail។
+ពេលអ្នកបង្កើត PR ដំបូង GitHub នឹងត្រួតពិនិត្រអោយអ្នកដោយប្រើ linter ពេលវាចេញពណ័ខៀវមានន័យថាអ្នកអាចបង្កើត PR បាន ផ្ទុយទៅវិញអ្នកត្រូវកែជាមុនសិនដើម្បីបង្កើត PR ដោយចុចលើពាក្រ "Detail។
 
 ចុងបញ្ចប់ បើអ្នកអត់ច្បាស់ថា ធនធានរបស់អ្នក ជា `Free-Programming-Books` ឬអត់ ចូរអ្នកអានបន្ថែមទីនេះ [CONTRIBUTING](CONTRIBUTING.md)។ ([translations](../README.md#translations))

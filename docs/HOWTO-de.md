@@ -17,7 +17,7 @@ Wir heißen neue Beitragende herzlich willkommen. Auch die, die ihren ersten Pul
 * [YouTube - So forkst Du ein GitHub-Repo und sendest einen Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(auf Englisch)*
 * [YouTube - GitHub Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(auf Englisch)*
 
-Habe keine Angst eine Frage zu stellen. Jeder fängt mal an und macht irgendwann seinen allerersten Pull Request. Du könntest unser tausendster sein.
+Habe keine Angst eine Frage zu stellen. Jeder fängt mal an und macht irgendwann seinen allerersten PR. Du könntest unser tausendster sein.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

@@ -8,7 +8,7 @@
 
 **`Free-Programming-Books` Hoş Geldiniz!**
 
-GitHub'da ilk Çekme Talebini (PR) yapanlardan olsanız bile Katkıda bulunmak için yeni gelenleri memnuniyetle karşılıyoruz. Eğer onlardan biriyseniz, işte size yardımcı olabilecek bazı kaynaklar:
+GitHub'da ilk Pull Request (PR) yapanlardan olsanız bile Katkıda bulunmak için yeni gelenleri memnuniyetle karşılıyoruz. Eğer onlardan biriyseniz, işte size yardımcı olabilecek bazı kaynaklar:
 
 * [Çekme İstekleri Hakkında](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(içinde ingilizce dilinde)*
 * [Çekme isteği oluşturma](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(içinde ingilizce dilinde)*

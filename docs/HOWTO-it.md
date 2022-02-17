@@ -8,7 +8,7 @@
 
 **Benvenuto su `Free-Programming-Books`!**
 
-Diamo il benvenuto ai nuovi collaboratori; anche a quelli che fanno la loro prima pull request su GitHub. Se sei uno di quelli, ecco qualche risorsa che potrebbe aiutarti:
+Diamo il benvenuto ai nuovi collaboratori; anche a quelli che fanno la loro prima Pull Request (PR) su GitHub. Se sei uno di quelli, ecco qualche risorsa che potrebbe aiutarti:
 
 * [Riguardante le Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in inglese)*
 * [Creare una pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in inglese)*
@@ -18,7 +18,7 @@ Diamo il benvenuto ai nuovi collaboratori; anche a quelli che fanno la loro prim
 * [YouTube - Corso accelerato di Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in inglese)*
 
 
-Non esitare a fare domande; ogni collaboratore iniziato con una prima pull request (PR). Potresti essere il nostro millesimo collaboratore.
+Non esitare a fare domande; ogni collaboratore iniziato con una prima PR. Potresti essere il nostro millesimo collaboratore.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

@@ -8,7 +8,7 @@
 
 **ขอต้อนรับเข้าสู่ `Free-Programming-Books`!**
 
-พวกเราขอต้อนรับ contributors ใหม่ทุกคน แม้ว่าคุณพึ่งจะเคยสร้าง pull request เป็นครั้งแรกบน GitHub หากคุณคือหนึ่งในนั้น ด้านล่างนี้คือแหล่งข้อมูลที่อาจจะเป็นประโยชน์:
+พวกเราขอต้อนรับ contributors ใหม่ทุกคน แม้ว่าคุณพึ่งจะเคยสร้าง Pull Request (PR) เป็นครั้งแรกบน GitHub หากคุณคือหนึ่งในนั้น ด้านล่างนี้คือแหล่งข้อมูลที่อาจจะเป็นประโยชน์:
 
 * [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(ในภาษาอังกฤษ)*
 * [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(ในภาษาอังกฤษ)*

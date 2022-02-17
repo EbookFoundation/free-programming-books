@@ -8,7 +8,7 @@
 
 **Ласкаво просимо до `Free-Programming-Books`!**
 
-Вітаємо нових учасників, навіть тих, хто робить свій перший pull request на GitHub. Якщо Ви один із них, ці ресурси можуть Вам допомогти:
+Вітаємо нових учасників, навіть тих, хто робить свій перший Pull Request (PR) на GitHub. Якщо Ви один із них, ці ресурси можуть Вам допомогти:
 
 * [Про Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(англійською мовою)*
 * [Створення pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(англійською мовою)*
@@ -18,7 +18,7 @@
 * [YouTube - Занурення у Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(англійською мовою)*
 
 
-Не соромтеся задавати питання, адже кожен дописувач починав з першого Pull Request. Саме Ви можете стати нашим тисячним!
+Не соромтеся задавати питання, адже кожен дописувач починав з першого PR. Саме Ви можете стати нашим тисячним!
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>
@@ -31,6 +31,6 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 </details>
 
-Навіть якщо у Вас є досвід роботи з відкритим кодом, є речі, які можуть Вас збентежити. Після того, як Ви подасте свій PR, GitHub Actions запустить лінтер, який може виявити невеликі проблеми з пробілами або алфавітом. Якщо Ви отримаєте зелену кнопку, то все готово до перегляду, якщо ні, натисніть «Деталі» під перевіркою,щоб дізнатися що не сподобалося лінтеру. Вирішіть проблему та додайте комміт до свого Pull Request.
+Навіть якщо у Вас є досвід роботи з відкритим кодом, є речі, які можуть Вас збентежити. Після того, як Ви подасте свій PR, GitHub Actions запустить лінтер, який може виявити невеликі проблеми з пробілами або алфавітом. Якщо Ви отримаєте зелену кнопку, то все готово до перегляду, якщо ні, натисніть «Деталі» під перевіркою,щоб дізнатися що не сподобалося лінтеру. Вирішіть проблему та додайте комміт до свого PR.
 
 На останок, якщо Ви не впевнені чи ресурс, який ви хочете додати, підходить для `Free-Programming-Books`, ознайомтеся з інструкціями в розділі [ДОДАТКИ](CONTRIBUTING.md). ([translations](../README.md#translations))

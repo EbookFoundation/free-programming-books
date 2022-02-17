@@ -8,7 +8,7 @@
 
 **Welkom bij `Free-Programming-Books`!**
 
-We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste pull-verzoeken op GitHub doen. Als je een van hen bent, zijn hier enkele bronnen die je kunnen helpen:
+We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste Pull Request (PR) op GitHub doen. Als je een van hen bent, zijn hier enkele bronnen die je kunnen helpen:
 
 * [Over pull-verzoeken](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in engels)*
 * [Een pull-verzoek maken](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in engels)*

@@ -10,7 +10,7 @@
 
 **به `Free-Programming-Books` خوش آمدید!**
 
-ما به مشارکت‌کنندگان جدید خوش‌آمد می‌گوییم. حتی آنهایی که اولین پول‌ریکوئست خود را در GitHub ایجاد می کنند. اگر شما هم یکی از آنهایید، منابع زیر می‌توانند به شما کمک کنند.
+ما به مشارکت‌کنندگان جدید خوش‌آمد می‌گوییم. حتی آنهایی که اولین Pull Request (PR) خود را در GitHub ایجاد می کنند. اگر شما هم یکی از آنهایید، منابع زیر می‌توانند به شما کمک کنند.
 
 * [درباره‌ی پول‌ریکوئست](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
 * [ایجاد یک درخواست کشش](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
@@ -20,7 +20,7 @@
 * [YouTube - دوره سقوط Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
-از سوال کردن خجالت نکشید. هر مشارکت‌کننده‌ای با اولین پول‌ریکوئست شروع کرده است. شما می‌توانید یکی از هزاران مشارکت‌کننده‌ی ما باشید!
+از سوال کردن خجالت نکشید. هر مشارکت‌کننده‌ای با اولین PR شروع کرده است. شما می‌توانید یکی از هزاران مشارکت‌کننده‌ی ما باشید!
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>
@@ -33,7 +33,7 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 </details>
 
-حتی اگر مشارکت‌کننده‌ی باتجربه‌ی پروژه‌های متن‌باز هستید، چیزهایی هست که شاید سطح شما را بالاتر ببرد. وقتی پی‌آر خود را ثبت می‌کنید، GitHub Actions یک linter اجرا می‌کند که معمولا مشکلات فاصله‌گذاری یا ترتیب الفبایی را کشف می‌کند. اگر دکمه‌ی سبز را دیدید، یعنی همه چیز برای بازبینی آماده است، در غیر این صورت، روی "Details" در پایین بازبینی شکست خورده کلیک کنید تا بفهمید لینتر چه چیزی را دوست نداشته است. مشکل را حل کنید و یک کامیت به پی‌آر خود اضافه کنید.
+حتی اگر مشارکت‌کننده‌ی باتجربه‌ی پروژه‌های متن‌باز هستید، چیزهایی هست که شاید سطح شما را بالاتر ببرد. وقتی PR خود را ثبت می‌کنید، GitHub Actions یک linter اجرا می‌کند که معمولا مشکلات فاصله‌گذاری یا ترتیب الفبایی را کشف می‌کند. اگر دکمه‌ی سبز را دیدید، یعنی همه چیز برای بازبینی آماده است، در غیر این صورت، روی "Details" در پایین بازبینی شکست خورده کلیک کنید تا بفهمید لینتر چه چیزی را دوست نداشته است. مشکل را حل کنید و یک کامیت به PR خود اضافه کنید.
 
 در پایان، اگر مطمئن نیستید که منبعی که می‌خواهید اضافه کنید، برای `Free-Programming-Books` مناسب باشد، راهنماهای [CONTRIBUTING](CONTRIBUTING-fa_IR.md) را بخوانید *([translations](../README.md#translations) also available)*.
 

@@ -8,7 +8,7 @@
 
 **`Free-Programming-Books` 에 오신 것을 환영합니다!**
 
-우리는 Github 에 첫 Pull-request 를 분들을 포함한 새로운 기여자들을 환영합니다. 다음 리소스들은 당신에게 도움이 될 수 있습니다:
+우리는 Github 에 첫 Pull Request (PR) 를 분들을 포함한 새로운 기여자들을 환영합니다. 다음 리소스들은 당신에게 도움이 될 수 있습니다:
 
 * [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
 * [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
@@ -18,7 +18,7 @@
 * [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
-주저하지 말고 질문하세요. 모든 기여자들 역시 첫 Pull-request 로 시작했습니다. 당신은 우리의 1000번째가 될 수도 있어요!
+주저하지 말고 질문하세요. 모든 기여자들 역시 첫 PR 로 시작했습니다. 당신은 우리의 1000번째가 될 수도 있어요!
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

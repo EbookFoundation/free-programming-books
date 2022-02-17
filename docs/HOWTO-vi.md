@@ -18,7 +18,7 @@ Chúng tôi chào đón những người đóng góp mới, kể cả khi nhữn
 * [YouTube - Khóa học về Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(bằng Tiếng Anh)*
 
 
-Đừng do dự khi đặt câu hỏi; mọi người đóng góp đã bắt đầu với PR đầu tiên. Bạn có thể là người tiếp theo!
+Đừng do dự khi đặt câu hỏi; mọi người đóng góp đã bắt đầu với Pull Request (PR) đầu tiên. Bạn có thể là người tiếp theo!
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

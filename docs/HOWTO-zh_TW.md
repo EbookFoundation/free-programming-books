@@ -8,7 +8,7 @@
 
 **歡迎使用 `Free-Programming-Books`！**
 
-我們歡迎新的貢獻者；即使是在 GitHub 上首次提出 pull request 的人。如果您是其中之一，那麼以下資源可能會對你有所幫助：
+我們歡迎新的貢獻者；即使是在 GitHub 上首次提出 Pull Request (PR) 的人。如果您是其中之一，那麼以下資源可能會對你有所幫助：
 
 * [關於 pull request](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 * [建立 pull request](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)

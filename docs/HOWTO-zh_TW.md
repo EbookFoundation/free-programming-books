@@ -18,7 +18,7 @@
 * [YouTube - Markdown 速成教學](https://www.youtube.com/watch?v=HUBNt18RFbo) *(用英語)*
 
 
-不要猶豫，儘管提問。每個貢獻者都是從第一個 PR 開始。您可能是我們的千分之一！
+不要猶豫，儘管提問。每個貢獻者都是從第一個 PR 開始。您可能是我們的千分之一！ So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

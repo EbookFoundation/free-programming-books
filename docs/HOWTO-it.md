@@ -18,7 +18,7 @@ Diamo il benvenuto ai nuovi collaboratori; anche a quelli che fanno la loro prim
 * [YouTube - Corso accelerato di Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in inglese)*
 
 
-Non esitare a fare domande; ogni collaboratore iniziato con una prima PR. Potresti essere il nostro millesimo collaboratore.
+Non esitare a fare domande; ogni collaboratore iniziato con una prima PR. So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

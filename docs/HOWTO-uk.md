@@ -18,7 +18,7 @@
 * [YouTube - Занурення у Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(англійською мовою)*
 
 
-Не соромтеся задавати питання, адже кожен дописувач починав з першого PR. Саме Ви можете стати нашим тисячним!
+Не соромтеся задавати питання, адже кожен дописувач починав з першого PR. Саме Ви можете стати нашим тисячним! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

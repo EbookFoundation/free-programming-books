@@ -18,7 +18,7 @@ GitHub'da ilk Pull Request (PR) yapanlardan olsanız bile Katkıda bulunmak içi
 * [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(içinde ingilizce dilinde)*
 
 
-Soru sormaktan çekinmeyin; her katılımcı ilk bir PR ile başladı. Binincimiz olabilirsin!
+Soru sormaktan çekinmeyin; her katılımcı ilk bir PR ile başladı. Binincimiz olabilirsin! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

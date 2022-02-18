@@ -18,7 +18,7 @@ Vi välkomnar varmt nya medarbetare, även de som gör sin första Pull Request 
 * [YouTube - Curso intensivo de Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(på engelska)*
 
 
-Var aldrig i tvivel, eller var rädd för att ställa frågor; varje bidragsgivare som du ser i förvaret började på sin tid med en första PR. Tänk om det är vår tusen-tusendel!
+Var aldrig i tvivel, eller var rädd för att ställa frågor; varje bidragsgivare som du ser i förvaret började på sin tid med en första PR. Tänk om det är vår tusen-tusendel! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

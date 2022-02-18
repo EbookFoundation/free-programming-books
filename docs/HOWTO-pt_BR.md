@@ -18,7 +18,7 @@ Novos contribuidores são bem-vindos para nós; até mesmo aqueles fazendo seu p
 * [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(em inglês)*
 
 
-Não hesite em tirar suas dúvidas; todo contribuidor começou com um primeiro PR. E você pode ser nosso milésimo!
+Não hesite em tirar suas dúvidas; todo contribuidor começou com um primeiro PR. Então... por que não se juntar à nossa comunidade [grande e crescente](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books).
 
 <details align="center" markdown="1">
 <summary>Clique para ver o gráficos de crescimento (usuários x tempo)</summary>

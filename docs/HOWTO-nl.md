@@ -18,7 +18,7 @@ We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste Pull Request
 * [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in engels)*
 
 
-Aarzel niet om vragen te stellen; elke bijdrager begon met een eerste PR. Je zou onze duizendste kunnen zijn!
+Aarzel niet om vragen te stellen; elke bijdrager begon met een eerste PR. Je zou onze duizendste kunnen zijn! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

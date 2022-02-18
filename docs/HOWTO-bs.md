@@ -18,7 +18,7 @@ Primamo nove kontributore; čak i one koji tek prave svoj prvi Pull Request (PR)
 * [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
-Namojte se ustručavati da postavljate pitanja; svaki kontributor je započeo sa prvim PR-om. Vi biste mogli biti naš hiljaditi!
+Namojte se ustručavati da postavljate pitanja; svaki kontributor je započeo sa prvim PR-om. So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

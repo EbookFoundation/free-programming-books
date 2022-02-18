@@ -22,7 +22,7 @@
 * [YouTube - Изучение GitHub в одном видео уроке за 15 минут](https://www.youtube.com/watch?v=JfpCicDUMKc)
 * [YouTube - Markdown - пиши README без боли](https://www.youtube.com/watch?v=FFBTGdEMrQ4)
 
-Не стесняйтесь задавать вопросы; каждый участник начал с первого PR. Вы могли бы стать нашим тысячным!
+Не стесняйтесь задавать вопросы; каждый участник начал с первого PR. Вы могли бы стать нашим тысячным! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

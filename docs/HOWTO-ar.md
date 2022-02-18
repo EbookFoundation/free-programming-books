@@ -22,7 +22,7 @@
 * [YouTube - دورات تعليمية عن GitHub للمبتدئين](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) *(in Egyptian / بالمصري)*
 
 
-لا تخجل من أن تسأل، كل مساهم بدأ بأول بولّ ريكويست له، ربما تكون من الآلاف المساهمين لدينا!
+لا تخجل من أن تسأل، كل مساهم بدأ بأول بولّ ريكويست له، ربما تكون من الآلاف المساهمين لدينا! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

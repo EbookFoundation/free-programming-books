@@ -18,7 +18,7 @@ Kami menyambut kontributor baru; bahkan untuk mereka yang membuat Pull Request (
 * [YouTube - Kursus Kilat Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(Dalam Bahasa Inggris)*
 
 
-Jangan ragu untuk bertanya; setiap kontributor memulainya dengan PR yang pertama. Anda bisa menjadi yang keseribu!
+Jangan ragu untuk bertanya; setiap kontributor memulainya dengan PR yang pertama. Anda bisa menjadi yang keseribu! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

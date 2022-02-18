@@ -18,7 +18,7 @@
 * [YouTube - মার্কডাউন ক্র্যাশ কোর্স](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
-কোন প্রশ্ন করতে দ্বিধাবোধ করবেন না। সব কন্ট্রিবিউটরই ফার্স্ট PR থেকে শুরু করেছিল। আপনিও হতে পারেন আমাদের সহস্রতম কন্ট্রিবিউটর!
+কোন প্রশ্ন করতে দ্বিধাবোধ করবেন না। সব কন্ট্রিবিউটরই ফার্স্ট PR থেকে শুরু করেছিল। So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.কন্ট্রিবিউটর!
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

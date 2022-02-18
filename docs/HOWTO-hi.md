@@ -18,7 +18,7 @@
 * [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
-सवाल पूछने में संकोच न करें; हर योगदानकर्ता ने पहले PR के साथ शुरुआत की। आप हमारे हजारवें हो सकते हैं!
+सवाल पूछने में संकोच न करें; हर योगदानकर्ता ने पहले PR के साथ शुरुआत की। आप हमारे हजारवें हो सकते हैं! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

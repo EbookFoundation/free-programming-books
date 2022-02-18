@@ -18,7 +18,7 @@ Lepo pozdravljeni vsi novi programerji - tudi tisti, ki boste na GitHubu ustvari
 * [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(v angleškem jeziku)*
 
 
-Ne oklevajte in postavljajte vprašanja; vsak programer je enkrat začel s svojim prvim PR-om. Vi ste lahko naš tisoči!
+Ne oklevajte in postavljajte vprašanja; vsak programer je enkrat začel s svojim prvim PR-om. Vi ste lahko naš tisoči! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

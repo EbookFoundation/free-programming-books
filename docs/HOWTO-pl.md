@@ -18,7 +18,7 @@ Witamy nowych współtwórców; nawet tych, którzy robią swoje pierwsze Pull R
 * [YouTube - Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(po angielsku)*
 
 
-Nie wahaj się zadawać pytań; każdy kontrybutor zaczynał od pierwszego PR. Możesz być naszym tysięcznym!
+Nie wahaj się zadawać pytań; każdy kontrybutor zaczynał od pierwszego PR. Możesz być naszym tysięcznym! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

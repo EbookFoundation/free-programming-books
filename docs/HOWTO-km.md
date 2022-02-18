@@ -18,7 +18,7 @@
 * [YouTube - របៀបប្រើ Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
-កុំខ្លាចក្នុងការសួរ; ពួកយើងទាំងអស់គ្នាចាប់ផ្តើមពីការបង្កើត PR ដំបូង. អ្នកក៏អាចជាអ្នកទី ១០០០ ផងដែរ!
+កុំខ្លាចក្នុងការសួរ; ពួកយើងទាំងអស់គ្នាចាប់ផ្តើមពីការបង្កើត PR ដំបូង. អ្នកក៏អាចជាអ្នកទី ១០០០ ផងដែរ! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

@@ -1,4 +1,4 @@
-# How-To at a glance
+# Primi passi
 
 <div align="right" markdown="1">
 
@@ -18,19 +18,19 @@ Diamo il benvenuto ai nuovi collaboratori; anche a quelli che fanno la loro prim
 * [YouTube - Corso accelerato di Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in inglese)*
 
 
-Non esitare a fare domande; ogni collaboratore iniziato con una prima PR. So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
+Non esitare a fare domande; ogni collaboratore ha iniziato con una prima PR. Quindi... perché non unirti alla nostra [grande e in crescita](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community?
 
 <details align="center" markdown="1">
-<summary>Click to see the growth users vs. time graphs.</summary>
+<summary>Clicca per visualizzare i grafici temporali sulla crescita degli utenti.</summary>
 
 [![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
+NOTA: I picchi corrispondono alle date dell'[evento Hacktoberfest](https://hacktoberfest.digitalocean.com).
 
 </details>
 
-Anche se sei un collaboratore esperto in ambito open source, queste sono cose che potrebbero crearti dei problemi. Una volta che hai inviato la tua PR, ***GitHub Actions* avvierà un *linter*, spesso trovando piccoli problemi di spaziatura o di ordinamento alfabetico**. Se ottieni una spunta verde, tutto è pronto per una revisione, ma se non è così clicca su "Details" sotto il check che è stato fallito, analizza l'errore, risolvilo e aggiungi un commit alla PR.
+Anche se sei un collaboratore esperto in ambito open source, queste sono cose che potrebbero crearti dei problemi. Una volta che hai inviato la tua PR, ***GitHub Actions* avvierà un *linter*, spesso trovando piccoli problemi di spaziatura o di ordinamento alfabetico**. Se ottieni una spunta verde, tutto è pronto per una revisione, in caso contrario così clicca su "Details" sotto il check fallito, analizza l'errore e aggiungi un commit risolutivo alla PR.
 
-In fine, se non sei sicuro che la risorsa che vuoi aggiungere è appropiata a `Free-Programming-Books`, leggi le linee guida su [CONTRIBUTING](CONTRIBUTING-it.md). ([translations](README.md#translations))
+In fine, se non sei sicuro che la risorsa che vuoi aggiungere sia appropriata a `Free-Programming-Books`, leggi le linee guida su [CONTRIBUTING](CONTRIBUTING-it.md) ([tradotto anche in altre lingua](README.md#translations)).

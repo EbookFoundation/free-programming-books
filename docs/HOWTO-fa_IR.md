@@ -29,8 +29,6 @@
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 حتی اگر مشارکت‌کننده‌ی باتجربه‌ی پروژه‌های متن‌باز هستید، چیزهایی هست که شاید سطح شما را بالاتر ببرد. وقتی PR خود را ثبت می‌کنید، ***GitHub Actions* یک *linter* اجرا می‌کند که معمولا مشکلات فاصله‌گذاری یا ترتیب الفبایی را کشف می‌کند.** اگر دکمه‌ی سبز را دیدید، یعنی همه چیز برای بازبینی آماده است، در غیر این صورت، روی "Details" در پایین بازبینی شکست خورده کلیک کنید تا بفهمید لینتر چه چیزی را دوست نداشته است. مشکل را حل کنید و یک کامیت به PR خود اضافه کنید.

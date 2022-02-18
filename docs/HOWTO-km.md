@@ -27,8 +27,6 @@
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 Even if you're an experienced open source contributor, there are things that might trip you up. ពេលអ្នកបង្កើត PR ដំបូង ***GitHub Actions* នឹងត្រួតពិនិត្រអោយអ្នកដោយប្រើ *linter*, often finding little issues with spacing or alphabetization**។. ពេលវាចេញពណ័ខៀវមានន័យថាអ្នកអាចបង្កើត PR បាន ផ្ទុយទៅវិញអ្នកត្រូវកែជាមុនសិនដើម្បីបង្កើត PR ដោយចុចលើពាក្រ "Detail។

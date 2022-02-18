@@ -31,8 +31,6 @@
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 Даже если вы опытный участник проекта с открытым исходным кодом, есть вещи, которые могут вас сбить с толку. После того как вы отправите свой PR, ***GitHub Actions* запустит *linter* который часто находит небольшие проблемы с пробелами или алфавитным порядком**. Если у вас появляется зеленая кнопка, все готово к проверке, а если нет, нажмите "Details" под проверкой, которая не смогла выяснить, что не понравилось линтеру. Устраните проблему и добавьте коммит в свой PR.

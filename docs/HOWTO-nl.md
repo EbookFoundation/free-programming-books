@@ -27,8 +27,6 @@ Aarzel niet om vragen te stellen; elke bijdrager begon met een eerste PR. Je zou
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 Zelfs als je een ervaren open source-bijdrager bent, zijn er dingen die je kunnen laten struikelen. Nadat je je PR hebt ingediend, voert ***GitHub Actions* een *linter* uit, waarbij vaak kleine problemen met spatiëring of alfabetisering worden gevonden**. Als je een groene knop krijgt, is alles klaar voor beoordeling, maar als dat niet het geval is, klik je op "Details" onder het vinkje dat niet heeft kunnen achterhalen wat de linter niet leuk vond. Los het probleem op en voeg een commit toe aan je PR.

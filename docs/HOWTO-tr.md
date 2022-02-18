@@ -27,8 +27,6 @@ Soru sormaktan çekinmeyin; her katılımcı ilk bir PR ile başladı. Binincimi
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 Deneyimli bir açık kaynak katılımcısı olsanız bile, sizi rahatsız edebilecek şeyler var. PR'nizi gönderdikten sonra,

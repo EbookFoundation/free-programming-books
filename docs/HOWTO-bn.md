@@ -27,8 +27,6 @@
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 এমনকি আপনি যদি একজন অভিজ্ঞ ওপেন-সোর্স কন্ট্রিবিউটর ও হয়ে থাকেন, কখনও কখনো কিছু জিনিস ভুল হতেই পারে। যখন আপনি আপনার PR সাবমিট করবেন ***GitHub Actions* আপনার কোড কে যাচাই-বাছাই করবে, কখনো বা স্পেসিং বা ক্যাপিটালাইজেশন এর মত ছোটখাটো জিনিস খুঁজে বের করবে**। যদি আপনি সবুজ বাটন পেয়ে যান, তাহলে বুঝতে পারবেন সবকিছু রিভিউ এর জন্য প্রস্তুত। কিন্তু যদি আপনি সবুজ বাটন না পান তাহলে ফেইল্ড হওয়া চেক এর নিচে "Details" এ ক্লিক করলে সমস্যাগুলি খুঁজে বের করতে পারবেন। তারপর সেই সমস্যাগুলো ফিক্স করার পর আপনার PR এ কমিট করবেন।

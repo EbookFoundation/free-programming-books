@@ -27,8 +27,6 @@ Don't hesitate to ask questions; every contributor started with a first PR. So..
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 Even if you're an experienced open source contributor, there are things that might trip you up. Once you've submitted your PR, ***GitHub Actions* will run a *linter*, often finding little issues with spacing or alphabetization**. If you get a green button, everything is ready for review; but if not, click "Details" under the check that failed to find out what the linter didn't like, and fix the problem adding a new commit to the branch from which your PR was opened.

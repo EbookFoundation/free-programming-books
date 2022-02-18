@@ -27,8 +27,6 @@ Jangan ragu untuk bertanya; setiap kontributor memulainya dengan PR yang pertama
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 Bahkan jika Anda seorang kontributor open source yang berpengalaman, ada hal-hal yang mungkin membuat Anda bingung. Setelah Anda mengirimkan PR Anda, ***GitHub Actions* akan menjalankan *linter*, dan sering sekali menemukan sedikit masalah dengan spasi atau abjad**. Jika Anda mendapatkan tombol hijau, semuanya siap untuk ditinjau, tetapi jika tidak, klik "Detail" di bawah centang yang gagal untuk mengetahui apa yang tidak disukai linter. Perbaiki masalah dan tambahkan commit ke PR Anda.

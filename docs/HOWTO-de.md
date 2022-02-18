@@ -26,8 +26,6 @@ Habe keine Angst eine Frage zu stellen. Jeder fängt mal an und macht irgendwann
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 Selbst, wenn Du ein erfahrener Open-Source-Mitwirkender bist, könnte es Dinge geben, die Dich ins Straucheln bringen. Sobald Du Deinen PR eingereicht hast, führt ***GitHub Actions* einen *Linter* aus und findet oft kleine Probleme mit Absätzen oder Alphabetisierung**. Wenn Du eine grüne Schaltfläche siehst, ist alles zur Überprüfung bereit. Aber wenn das nicht der Fall ist, klicke unter der fehlgeschlagenen Überprüfung auf "Details", um herauszufinden, was dem Linter nicht gefallen hat. Behebe das Problem und füge Deinem PR einen Commit hinzu.

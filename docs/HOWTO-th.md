@@ -27,8 +27,6 @@
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 แม้ว่าคุณจะเป็นคนที่มีประสบการณ์ในการร่วมพัฒนา Open Source แต่อาจจะมีบางเรื่องที่คุณยังไม่รู้ก็เป็นได้ เมื่อใดก็ตามที่คุณได้สร้าง PR ขึ้น ***GitHub Actions* จะทำการตรวจสอบโค้ดด้วย *linter* สิ่งที่จะพบเจอได้บ่อยจะเป็นการเว้นช่องว่างหรือการเรียงลำดับอักษรที่ไม่ถูกต้อง** หากคุณเห็นปุ่มสีเขียวหมายความว่าทุกอย่างพร้อมสำหรับการตรวจตรา แต่หากไม่ได้เป็นเช่นนั้น ให้กดที่ "Details" เพื่ิอดูว่าผิดพลาดที่จุดไหนจากการรัน linter แล้วทำการแก้ปัญหานั้นเพื่อดึง PR ขึ้นไปใหม่

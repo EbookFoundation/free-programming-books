@@ -27,8 +27,6 @@ N'hésitez pas à poser des questions; chaque contributeur a commencé par une p
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 Même si vous êtes un contributeur open source expérimenté, il y a des choses qui peuvent vous faire trébucher. Une fois que vous avez soumis votre PR, ***GitHub Actions* exécutera un *linter*, trouvant souvent de petits problèmes d'espacement ou d'alphabétisation**. Si vous obtenez un bouton vert, tout est prêt pour l'examen, mais sinon, cliquez sur "Détails" sous la vérification qui n'a pas réussi pour découvrir ce que le linter n'a pas aimé. Résolvez le problème et ajoutez un commit à votre PR.

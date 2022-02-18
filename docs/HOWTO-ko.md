@@ -27,8 +27,6 @@
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 경험 많은 오픈 소스 기여자라 할지라도, 여러분을 곤란하게 만들 수 있는 것들이 있습니다. 일단 PR을 제출하면 ***GitHub Actions*는 띄어쓰기나 알파벳 순으로 작은 문제를 발견하는 작업을 실행합니다**. 녹색 단추가 나타나면 모든 항목을 검토할 준비가 되어 있지만 그렇지 않으면 검사에서 "상세 정보"를 클릭합니다. 문제를 해결하고 PR에 커밋을 추가합니다.

@@ -27,8 +27,6 @@
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 即使您是经验丰富的开源贡献者，也有一些事情可能会让您绊倒。提交您的 PR 后，***GitHub Actions* 会运行一个 *linter*（代码风格检测工具），经常发现间距或字母顺序方面的小问题**。如果您获得绿色按钮，则说明一切准备就绪，但如果没有，请单击 "更多" 链接以查找 linter 不满意的地方。解决此问题并新增 commit 到您的 PR。

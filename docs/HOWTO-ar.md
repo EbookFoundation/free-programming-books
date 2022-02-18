@@ -31,8 +31,6 @@
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 حتي لو كنت مساهما متمرسا في المشاريع مفتوحة المصدر، هناك بعض الأشياء التي ربما تقف في طريقك. فعند تقديمك للـPR، يقوم ***GitHub Actions* بتشغيل فاحص تلقائيا لاكتشاف بعض الأخطاء الصغيرة التي قد تحدث بسبب المسافات أو الأخطاء الأبجدية.** فإذا كان الزر أخضرا، هذا يعني أن الكود جاهز للمراجعة، ولكن إن كان غير ذلك، إضغط علي "تفاصيل" تحت الإختبار الذي فشل لتري ما هي الأخطاء التي يجب أن تصححها قبل مراجعة الكود. بعد تصحيح الأخطاء قم بعمل كومّيت لإضافة التعديلات للـPR.

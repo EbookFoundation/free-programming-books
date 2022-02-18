@@ -27,8 +27,6 @@
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 Ακόμα και αν είστε έμπειρος συνεισφέρων, υπάρχουν πράγματα που μπορεί να σας μπερδέψουν. Όταν έχετε υποβάλλει το PR σας, το ***GitHub Actions* θα τρέχει ένα *linter*, που βρίσκει συνήθως μικρά θέματα με τα κενά ή την αλφαβητική σειρά**. Αν δείτε ένα πράσινο κουμπί, όλα είναι έτοιμα για ανασκόπηση, αλλά αν όχι, πατήστε "Details" (λεπτομέρειες) κάτω από τον έλεγχο που απέτυχε για να μάθετε τι δεν άρεσε στον linter. Διορθώστε το πρόβλημα και προσθέστε ένα commit στο PR σας.

@@ -27,8 +27,6 @@ Não hesite em tirar suas dúvidas; todo contribuidor começou com um primeiro P
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-OBSERVAÇÃO: os picos de contribuição geralmente coincidem com o intervalo de datas do [evento Hacktoberfest](https://hacktoberfest.digitalocean.com).
-
 </details>
 
 Mesmo se você tem experiência com contribuições open source, existem algumas coisas que você pode errar. Por isso, assim que você submeter seu PR, ele **vai ser testado pelo *GitHub Actions*, e as vezes, serão encontrados problemas como espaçamento**. Se você receber um botão verde, está tudo certo para uma revisão de PR. Caso contrário, clique em "Detalhes" para ver o problema encontrado. Arrume ele e adicione um commit ao PR.

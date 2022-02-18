@@ -27,8 +27,6 @@
 
 [![EbookFoundation/free-programming-books's Monthly Active Contributors graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorMonthlyActivity&repo=ebookfoundation/free-programming-books)
 
-NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://hacktoberfest.digitalocean.com) dates.
-
 </details>
 
 यहां तक कि अगर आप एक अनुभवी ओपन सोर्स योगदानकर्ता हैं, तो ऐसी चीजें हैं जो आपको यात्रा कर सकती हैं। एक बार जब आप अपना PR सबमिट कर देते हैं, तो ***GitHub Actions* एक *linter* चलाएगा, अक्सर रिक्ति या वर्णमाला के साथ छोटे मुद्दों को ढूंढता है**। यदि आपको एक हरा बटन मिलता है, तो सब कुछ समीक्षा के लिए तैयार है, लेकिन यदि नहीं, तो यह जानने के लिए फेल्ड चेक के नीचे "डिटेल्स" पर क्लिक करें कि लिंटर को क्या पसंद नहीं आया। समस्या को ठीक करें और अपने PR के लिए एक प्रतिबद्धता जोड़ें।

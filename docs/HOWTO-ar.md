@@ -19,7 +19,7 @@
 * [YouTube - كيف تنشئ نسختك من مستودع علي GitHub وتقوم بتقديم بولّ ريكويست](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in English)*
 * [YouTube - دورة تعليمية مكثفة عن لغة المارك داون](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in English)*
 * [YouTube - دورة تعليمية مكثفة عن لغة المارك داون](https://www.youtube.com/watch?v=1lZCkU5VpIs) *(in Algerian / بالجزائري)*
-* [YouTube - دورات تعليمية عن GitHub للمبتدئين](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) *(in Egyptian / بالمصري)*
+* [YouTube - دورات تعليمية عن GitHub للمبتدئين](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) *(in Egyptian Arabic / بالمصري)*
 
 
 لا تخجل من أن تسأل، كل مساهم بدأ بأول بولّ ريكويست له، ربما تكون من الآلاف المساهمين لدينا! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.

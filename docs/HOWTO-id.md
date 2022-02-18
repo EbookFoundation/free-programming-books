@@ -2,7 +2,7 @@
 
 <div align="right" markdown="1">
 
-*[Baca ini dalam bahasa lain](../README.md#translations)*
+*[Baca ini dalam bahasa lain](README.md#translations)*
 
 </div>
 
@@ -33,4 +33,4 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 Bahkan jika Anda seorang kontributor open source yang berpengalaman, ada hal-hal yang mungkin membuat Anda bingung. Setelah Anda mengirimkan PR Anda, ***GitHub Actions* akan menjalankan *linter*, dan sering sekali menemukan sedikit masalah dengan spasi atau abjad**. Jika Anda mendapatkan tombol hijau, semuanya siap untuk ditinjau, tetapi jika tidak, klik "Detail" di bawah centang yang gagal untuk mengetahui apa yang tidak disukai linter. Perbaiki masalah dan tambahkan commit ke PR Anda.
 
-Terakhir, jika Anda tidak yakin bahwa sumber daya yang ingin Anda tambahkan sesuai untuk `Free-Programming-Books`, bacalah panduan di [BERKONTRIBUSI](CONTRIBUTING-id.md). ([translations](../README.md#translations))
+Terakhir, jika Anda tidak yakin bahwa sumber daya yang ingin Anda tambahkan sesuai untuk `Free-Programming-Books`, bacalah panduan di [BERKONTRIBUSI](CONTRIBUTING-id.md). ([translations](README.md#translations))

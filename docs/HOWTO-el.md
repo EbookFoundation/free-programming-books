@@ -2,7 +2,7 @@
 
 <div align="right" markdown="1">
 
-*[Διαβάστε το σε διαφορετικές γλώσσες](../README.md#translations)*
+*[Διαβάστε το σε διαφορετικές γλώσσες](README.md#translations)*
 
 </div>
 
@@ -33,4 +33,4 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 Ακόμα και αν είστε έμπειρος συνεισφέρων, υπάρχουν πράγματα που μπορεί να σας μπερδέψουν. Όταν έχετε υποβάλλει το PR σας, το ***GitHub Actions* θα τρέχει ένα *linter*, που βρίσκει συνήθως μικρά θέματα με τα κενά ή την αλφαβητική σειρά**. Αν δείτε ένα πράσινο κουμπί, όλα είναι έτοιμα για ανασκόπηση, αλλά αν όχι, πατήστε "Details" (λεπτομέρειες) κάτω από τον έλεγχο που απέτυχε για να μάθετε τι δεν άρεσε στον linter. Διορθώστε το πρόβλημα και προσθέστε ένα commit στο PR σας.
 
-Τέλος, αν δεν είστε σίγουροι αν το υλικό που θέλετε να προσθέσετε είναι κατάλληλο για το `Free-Programming-Books`, διαβάστε προσεκτικά τις κατευθυντήριες γραμμές στο [CONTRIBUTING](CONTRIBUTING-el.md). ([translations](../README.md#translations))
+Τέλος, αν δεν είστε σίγουροι αν το υλικό που θέλετε να προσθέσετε είναι κατάλληλο για το `Free-Programming-Books`, διαβάστε προσεκτικά τις κατευθυντήριες γραμμές στο [CONTRIBUTING](CONTRIBUTING-el.md). ([translations](README.md#translations))

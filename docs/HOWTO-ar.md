@@ -2,7 +2,7 @@
 
 <div align="right" markdown="1">
 
-*[إقرأ هذا بلغات أخرى](../README.md#translations)*
+*[إقرأ هذا بلغات أخرى](README.md#translations)*
 
 </div>
 
@@ -37,6 +37,6 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 حتي لو كنت مساهما متمرسا في المشاريع مفتوحة المصدر، هناك بعض الأشياء التي ربما تقف في طريقك. فعند تقديمك للPR، يقوم ***GitHub Actions* بتشغيل فاحص تلقائيا لاكتشاف بعض الأخطاء الصغيرة التي قد تحدث بسبب المسافات أو الأخطاء الأبجدية.** فإذا كان الزر أخضرا، هذا يعني أن الكود جاهز للمراجعة، ولكن إن كان غير ذلك، إضغط علي "تفاصيل" تحت الإختبار الذي فشل لتري ما هي الأخطاء التي يجب أن تصححها قبل مراجعة الكود. بعد تصحيح الأخطاء قم بعمل كومّيت لإضافة التعديلات للPR.
 
-في النهاية، إذا لم تتأكد من أن المصادر التي تريد إضافتها مناسبة لـ `Free-Programming-Books`، فقم بقرآءة الدليل الإرشادي في [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))
+في النهاية، إذا لم تتأكد من أن المصادر التي تريد إضافتها مناسبة لـ `Free-Programming-Books`، فقم بقرآءة الدليل الإرشادي في [CONTRIBUTING](CONTRIBUTING.md). ([translations](README.md#translations))
 
 </div>

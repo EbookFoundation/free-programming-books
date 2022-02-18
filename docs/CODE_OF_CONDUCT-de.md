@@ -52,4 +52,4 @@ Version 1.3.0, verfügbar unter https://www.contributor-covenant.org/de/version/
 
 [homepage]: https://contributor-covenant.org
 
-[Translations](../README.md#translations)
+[Translations](README.md#translations)

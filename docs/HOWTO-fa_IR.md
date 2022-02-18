@@ -2,7 +2,7 @@
 
 <div dir="rtl" align="right" markdown="1">
 
-*[این متن را در زبان‌های دیگر بخوانید](../README.md#translations)*
+*[این متن را در زبان‌های دیگر بخوانید](README.md#translations)*
 
 </div>
 
@@ -35,6 +35,6 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 حتی اگر مشارکت‌کننده‌ی باتجربه‌ی پروژه‌های متن‌باز هستید، چیزهایی هست که شاید سطح شما را بالاتر ببرد. وقتی PR خود را ثبت می‌کنید، ***GitHub Actions* یک *linter* اجرا می‌کند که معمولا مشکلات فاصله‌گذاری یا ترتیب الفبایی را کشف می‌کند.** اگر دکمه‌ی سبز را دیدید، یعنی همه چیز برای بازبینی آماده است، در غیر این صورت، روی "Details" در پایین بازبینی شکست خورده کلیک کنید تا بفهمید لینتر چه چیزی را دوست نداشته است. مشکل را حل کنید و یک کامیت به PR خود اضافه کنید.
 
-در پایان، اگر مطمئن نیستید که منبعی که می‌خواهید اضافه کنید، برای `Free-Programming-Books` مناسب باشد، راهنماهای [CONTRIBUTING](CONTRIBUTING-fa_IR.md) را بخوانید *([translations](../README.md#translations) also available)*.
+در پایان، اگر مطمئن نیستید که منبعی که می‌خواهید اضافه کنید، برای `Free-Programming-Books` مناسب باشد، راهنماهای [CONTRIBUTING](CONTRIBUTING-fa_IR.md) را بخوانید *([translations](README.md#translations) also available)*.
 
 </div>

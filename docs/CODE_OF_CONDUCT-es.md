@@ -26,4 +26,4 @@ Este Código de Conducta está adaptado del [Pacto de Colaboradores][homepage], 
 
 [homepage]: https://contributor-covenant.org
 
-[Traducciones / otros idiomas](../README.md#translations)
+[Traducciones / otros idiomas](README.md#translations)

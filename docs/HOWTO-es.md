@@ -2,7 +2,7 @@
 
 <div align="right" markdown="1">
 
-*[Lea esto en otros idiomas](../README.md#translations)*
+*[Lea esto en otros idiomas](README.md#translations)*
 
 </div>
 
@@ -33,4 +33,4 @@ NOTA: Los picos de contribuciones suelen coincidir con el periodo de fechas del 
 
 Incluso si ya tiene algo de experiencia como colaborador en otros proyectos de código abierto, hay algunas cosas que pueden hacerle dar un traspiés. Una vez enviada su PR, ***GitHub Actions* ejecutará un *linter*; el cuál se encarga a menudo de encontrar pequeños problemas con el espaciado, enlazado, sintaxis o la alfabetización**. Si al finalizar este proceso de integración continua se enciende la luz verde, es que todo está listo para su revisión; pero si no, haga clic en los "enlaces de Detalle" que proporciona para averiguar qué fue exactamente lo que falló. Solucione dicho problema y agregue los cambios a su PR mediante un nuevo commit sobre la rama con la que inició la petición de cambios.
 
-Por último, si no está del todo seguro de si el recurso que desea agregar es apropiado para `Free-Programming-Books`, lea detenidamente las pautas que puede encontrar en [CONTRIBUTING](CONTRIBUTING-es.md) (también [traducido a otros idiomas](../README.md#translations)).
+Por último, si no está del todo seguro de si el recurso que desea agregar es apropiado para `Free-Programming-Books`, lea detenidamente las pautas que puede encontrar en [CONTRIBUTING](CONTRIBUTING-es.md) (también [traducido a otros idiomas](README.md#translations)).

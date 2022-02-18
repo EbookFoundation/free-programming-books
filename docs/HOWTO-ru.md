@@ -2,7 +2,7 @@
 
 <div align="right" markdown="1">
 
-*[Доступно на других языках](../README.md#translations)*
+*[Доступно на других языках](README.md#translations)*
 
 </div>
 
@@ -37,4 +37,4 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 Даже если вы опытный участник проекта с открытым исходным кодом, есть вещи, которые могут вас сбить с толку. После того как вы отправите свой PR, ***GitHub Actions* запустит *linter* который часто находит небольшие проблемы с пробелами или алфавитным порядком**. Если у вас появляется зеленая кнопка, все готово к проверке, а если нет, нажмите "Details" под проверкой, которая не смогла выяснить, что не понравилось линтеру. Устраните проблему и добавьте коммит в свой PR.
 
-Наконец, если вы не уверены, что ресурс, который вы хотите добавить, подходит для `Free-Programming-Books`, прочтите рекомендации в [CONTRIBUTING](CONTRIBUTING-ru.md). ([translations](../README.md#translations))
+Наконец, если вы не уверены, что ресурс, который вы хотите добавить, подходит для `Free-Programming-Books`, прочтите рекомендации в [CONTRIBUTING](CONTRIBUTING-ru.md). ([translations](README.md#translations))

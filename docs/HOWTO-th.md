@@ -2,7 +2,7 @@
 
 <div align="right" markdown="1">
 
-*[อ่านไฟล์นี้ในภาษาอื่น](../README.md#translations)*
+*[อ่านไฟล์นี้ในภาษาอื่น](README.md#translations)*
 
 </div>
 
@@ -33,4 +33,4 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 แม้ว่าคุณจะเป็นคนที่มีประสบการณ์ในการร่วมพัฒนา Open Source แต่อาจจะมีบางเรื่องที่คุณยังไม่รู้ก็เป็นได้ เมื่อใดก็ตามที่คุณได้สร้าง PR ขึ้น ***GitHub Actions* จะทำการตรวจสอบโค้ดด้วย *linter* สิ่งที่จะพบเจอได้บ่อยจะเป็นการเว้นช่องว่างหรือการเรียงลำดับอักษรที่ไม่ถูกต้อง** หากคุณเห็นปุ่มสีเขียวหมายความว่าทุกอย่างพร้อมสำหรับการตรวจตรา แต่หากไม่ได้เป็นเช่นนั้น ให้กดที่ "Details" เพื่ิอดูว่าผิดพลาดที่จุดไหนจากการรัน linter แล้วทำการแก้ปัญหานั้นเพื่อดึง PR ขึ้นไปใหม่
 
-สุดท้ายนี้ หากคุณไม่แน่ใจว่าแหล่งข้อมูลเหล่านั้นจะเหมาะสมกับ `Free-Programming-Books` หรือไม่ ให้อ่านไกด์ไลน์จากในนี้ [CONTRIBUTING](CONTRIBUTING.md). ([translations](../README.md#translations))
+สุดท้ายนี้ หากคุณไม่แน่ใจว่าแหล่งข้อมูลเหล่านั้นจะเหมาะสมกับ `Free-Programming-Books` หรือไม่ ให้อ่านไกด์ไลน์จากในนี้ [CONTRIBUTING](CONTRIBUTING.md). ([translations](README.md#translations))

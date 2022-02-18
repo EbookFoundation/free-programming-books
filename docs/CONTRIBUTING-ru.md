@@ -1,4 +1,4 @@
-*[Доступно на других языках](../README.md#translations)*
+*[Доступно на других языках](README.md#
 
 
 <!----><a name="contributor-license-agreement"></a>
@@ -10,7 +10,7 @@
 <!----><a name="contributor-code-of-conduct"></a>
 ## Кодекс поведения автора
 
-Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](CODE_OF_CONDUCT-ru.md) этого репозитория. ([translations](../README.md#translations))
+Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](CODE_OF_CONDUCT-ru.md) этого репозитория. ([translations](README.md#
 
 
 <!----><a name="in-a-nutshell"></a>

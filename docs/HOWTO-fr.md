@@ -2,7 +2,7 @@
 
 <div align="right" markdown="1">
 
-*[Lisez ceci dans d'autres langues](../README.md#translations)*
+*[Lisez ceci dans d'autres langues](README.md#translations)*
 
 </div>
 
@@ -33,4 +33,4 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 Même si vous êtes un contributeur open source expérimenté, il y a des choses qui peuvent vous faire trébucher. Une fois que vous avez soumis votre PR, ***GitHub Actions* exécutera un *linter*, trouvant souvent de petits problèmes d'espacement ou d'alphabétisation**. Si vous obtenez un bouton vert, tout est prêt pour l'examen, mais sinon, cliquez sur "Détails" sous la vérification qui n'a pas réussi pour découvrir ce que le linter n'a pas aimé. Résolvez le problème et ajoutez un commit à votre PR.
 
-Enfin, si vous n'êtes pas sûr que la ressource que vous souhaitez ajouter soit appropriée pour `Free-Programming-Books`, lisez les instructions dans [CONTRIBUTING](CONTRIBUTING-fr.md). ([translations](../README.md#translations))
+Enfin, si vous n'êtes pas sûr que la ressource que vous souhaitez ajouter soit appropriée pour `Free-Programming-Books`, lisez les instructions dans [CONTRIBUTING](CONTRIBUTING-fr.md). ([translations](README.md#translations))

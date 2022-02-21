@@ -8,7 +8,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [CSS](#css)
-* [Cấu trúc dữ liệu và Giải thuật](#DataStructures&Algorithms)
+* [Cấu trúc dữ liệu và Giải thuật](#CautrucdulieuvaGiaithuat)
 * [Git](#git)
 * [Go](#go)
 * [HTML](#html)
@@ -34,7 +34,6 @@
 * [Wordpress](#wordpress)
 * [Xcode](#xcode)
 * [XML](#xml)
-
 
 
 ### AJAX

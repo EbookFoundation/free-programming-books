@@ -23,7 +23,7 @@
 
 ### Assembly
 
-* [ארגון המחשב ושפת סף](https://data.cyber.org.il/python/python_book.pdf) – ברק גונן, המרכז לחינוך סייבר (PDF)
+* [ארגון המחשב ושפת סף](https://data.cyber.org.il/assembly/assembly_book.pdf) – ברק גונן, המרכז לחינוך סייבר (PDF)
 
 
 ### <a name="csharp"></a>C\#

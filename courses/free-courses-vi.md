@@ -8,6 +8,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [CSS](#css)
+* [Cấu trúc dữ liệu và Giải thuật](#DataStructures&Algorithms)
 * [Git](#git)
 * [Go](#go)
 * [HTML](#html)
@@ -33,7 +34,7 @@
 * [Wordpress](#wordpress)
 * [Xcode](#xcode)
 * [XML](#xml)
-* [Cấu trúc dữ liệu và Giải thuật](#DataStructures&Algorithms)
+
 
 
 ### AJAX
@@ -102,6 +103,11 @@
 
 * [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban)
 * [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
+
+
+### Cấu trúc dữ liệu và Giải thuật
+
+* [Cấu trúc dữ liệu và Giải thuật](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev
 
 
 ### Git
@@ -288,7 +294,3 @@
 ### XML
 
 * [XML Cơ Bản](https://www.codehub.com.vn/XML-Co-Ban)
-
-### Cấu trúc dữ liệu và Giải thuật
-
-* [Cấu trúc dữ liệu và Giải thuật](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev

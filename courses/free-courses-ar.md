@@ -66,7 +66,7 @@
 * [Introduction to Programming ( C Language - مقدمة في البرمجة ( لغة السي](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXI8wByY0umF_DQON2S9uws) - Ahmed Sallam
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [C#](https://www.youtube.com/playlist?list=PLltZRmsFXWnIfLM0BKgJNZYVnvCDZNAh_) - 6wrni
 * [C# Programming Course Level 1 Basics By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQLsXXXxx_mX3WvUEgGM0iA) - محمد شوشان
@@ -74,7 +74,7 @@
 * [Unit Testing in C# [Arabic]](https://www.youtube.com/playlist?list=PLwj1YcMhLRN28xijrXMO255JHsO3csus-) - خالد السعداني
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [Arabic C++ For kids & beginners (برمجة لصغار السن والمبتدئيين)](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3) - Arabic Competitive Programming
 * [C++ Intensive - برمجة الحاسوب](https://www.youtube.com/playlist?list=PLPt2dINI2MIZPFq6HyUB1Uhxdh1UDnZMS) - Arabic Competitive Programming

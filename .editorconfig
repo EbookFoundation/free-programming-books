@@ -19,10 +19,9 @@ spaces_around_operators = true
 
 ; DOS/Windows batch scripts - 
 [*.{bat,cmd}]
-indent_size = 4
 end_of_line = crlf
 
-; JavaScript/TypeScript files - 
+; JavaScript files - 
 [*.{js,ts}]
 curly_bracket_next_line = true
 quote_type = single
@@ -44,16 +43,6 @@ trim_trailing_whitespace = false
 [*.{ps1,psd1,psm1}]
 charset = utf-8-bom
 end_of_line = crlf
-indent_size = 4
-
-; Python sources - match it own default syntax
-[*.py]
-indent_size = 4
-indent_style = space
-
-; Tab separated values - preserve separator 
-[*.tsv]
-indent_style = tab
 
 ; YML config files - match it own default syntax
 [*.{yaml,yml}]

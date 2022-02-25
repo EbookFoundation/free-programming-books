@@ -1,19 +1,19 @@
 *[Lea esto en otros idiomas][translations-list-link]*
 
 
-<!----><a name="contributor-license-agreement"></a>
+<!----><a id="contributor-license-agreement"></a>
 ## Acuerdo de Licencia
 
 Al contribuir, acepta la [LICENCIA][license] de este repositorio.
 
 
-<!----><a name="contributor-code-of-conduct"></a>
+<!----><a id="contributor-code-of-conduct"></a>
 ## Código de Conducta como Colaborador
 
 Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / otros idiomas][translations-list-link]) presente en el repositorio.
 
 
-<!----><a name="in-a-nutshell"></a>
+<!----><a id="in-a-nutshell"></a>
 ## Breve resumen
 
 1. "Un enlace para descargar fácilmente un libro" no siempre es un enlace a un libro *gratuito*. Por favor, contribuya solo con contenido gratuito. Asegúrese de que se ofrezca gratis. No se aceptan enlaces a páginas que *requieran* de direcciones de correo electrónico para la obtención de libros, pero sí damos la bienvenida a aquellos listados que así se soliciten.
@@ -34,7 +34,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 5. GitHub Actions ejecutará pruebas para asegurarse de que **las listas esten ordenadas alfabéticamente** y de que se **siga dicha normalización de formateo**. **Asegúrese** de verificar que sus cambios pasen todas estas comprobaciones de calidad.
 
 
-<!----><a name="guidelines"></a>
+<!----><a id="guidelines"></a>
 ### Pautas
 
 - Revise si el libro es gratuito. Hágalo las veces que sean necesarias. Ayude a los administradores comentando en las PR por qué cree que el libro se ofrece gratis o es valioso.
@@ -63,7 +63,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 - Si se solicita una dirección de correo electrónico o configuración de cuenta antes de habilitar la descarga, agregue entre paréntesis dichas notas y en consonancia con el idioma. Por ejemplo: `(*se solicita* email, no requerido...)`.
 
 
-<!----><a name="formatting"></a>
+<!----><a id="formatting"></a>
 ### Formato normalizado
 
 - Como podrá observar, los listados tienen `.md` como extensión de fichero. Intente aprender la sintaxis [Markdown][markdown_guide]. ¡Es bastante simple!
@@ -133,39 +133,39 @@ Ejemplo:
     CORRECTO  : * [Un libro bastante especial (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-- <a name="in_process"></a>Libros en proceso / no acabados aún:
+- <a id="in_process"></a>Libros en proceso / no acabados aún:
 
     ```text
     CORRECTO  : * [A punto de ser un libro fascinante](http://example.com/book2.html) - John Doe (HTML) (:construction: *en proceso*)
     ```
 
-- <a name="archived"></a>Enlaces archivados:
+- <a id="archived"></a>Enlaces archivados:
 
     ```text
     CORRECTO  : * [Un recurso recuperado a partir de su línea de tiempo](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archivado)*
     ```
 
 
-<!----><a name="notes"></a>
+<!----><a id="notes"></a>
 ### Anotaciones
 
 Si bien los conceptos básicos son relativamente simples, existe una gran diversidad entre los recursos que enumeramos. Aquí hay algunas notas sobre cómo nos ocupamos de esta diversidad.
 
 
-<!----><a name="metadata"></a>
+<!----><a id="metadata"></a>
 #### Metadatos
 
 Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, autores, formato, plataformas y notas de acceso.
 
 
-<!----><a name="titles"></a>
+<!----><a id="titles"></a>
 ##### Títulos
 
 - Sin títulos inventados: Intentamos tomar el texto de los propios recursos; se advierte a los colaboradores que, si puede evitarse, no inventen títulos ni los utilicen editorialmente. Una excepción es para obras más antiguas: si son principalmente de interés histórico, un año entre paréntesis adjunto al título ayuda a los usuarios a saber si estos son de interés.
 - Sin títulos TODO EN MAYÚSCULAS: Por lo general, es apropiado tener cada primera letra de palabra en mayúsculas, pero en caso de duda, use siempre el estilo tal y como viene en la fuente original.
 
 
-<!----><a name="urls"></a>
+<!----><a id="urls"></a>
 ##### Direcciones URL
 
 - No se permiten acortadores de URLs para los enlaces.
@@ -175,7 +175,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 - No nos gustan las URL que apuntan a páginas web que no alojen el recurso mencionado, enlazando por el contrario a otra parte.
 
 
-<!----><a name="creators"></a>
+<!----><a id="creators"></a>
 ##### Atribuciones
 
 - Queremos dar crédito a los creadores de recursos gratuitos cuando sea apropiado, ¡incluso traductores!
@@ -184,7 +184,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 - En el caso de recopilaciones u obras remezcladas, el "creador" puede necesitar una descripción. Por ejemplo, los libros de "GoalKicker" o "RIP Tutorial" se acreditan como "`Creado a partir de la documentación de StackOverflow`" (en inglés: "`Compiled from StackOverflow documentation`").
 
 
-<!----><a name="platforms-and-access-notes"></a>
+<!----><a id="platforms-and-access-notes"></a>
 ##### Plataformas y Notas de Acceso
 
 - Cursos. Especialmente para nuestras listas de cursos, la plataforma es una parte importante de la descripción del recurso. Esto se debe a que las plataformas de cursos tienen diferentes prestaciones y modelos de acceso. Si bien generalmente no incluimos un libro que requiere de registro previo, muchas plataformas de cursos tienen la casualidad de no funcionar sin algún tipo de cuenta. Un ejemplo de plataformas de cursos podrían ser: Coursera, EdX, Udacity y Udemy. Cuando un curso depende de una plataforma, el nombre de dicha plataforma debe aparecer entre paréntesis.
@@ -193,13 +193,13 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 - Leanpub. Leanpub aloja libros con una amplia variedad de modelos de acceso. A veces, un libro se puede leer sin registrarse; en otras, un libro requiere una cuenta Leanpub para tener acceso gratuito. Dada la calidad de los libros y la mezcla y fluidez de los modelos de acceso Leanpub, damos validez a estos últimos anexando la nota de acceso: `*(cuenta Leanpub o email válido requerido)*`.
 
 
-<!----><a name="genres"></a>
+<!----><a id="genres"></a>
 #### Géneros
 
 La primera regla para decidir en qué listado encaja un determinado recurso es ver cómo se describe a sí mismo. Si por ejemplo se retrata a sí mismo como un libro, entonces tal vez es que lo sea.
 
 
-<!----><a name="genres-we-dont-list"></a>
+<!----><a id="genres-we-dont-list"></a>
 ##### Géneros no aceptados
 
 Ya que en Internet podemos encontrar una variedad infinita de recursos, no incluimos en nuestro registro:
@@ -217,7 +217,7 @@ Ya que en Internet podemos encontrar una variedad infinita de recursos, no inclu
 El [listado donde incluimos sitios o software de programación competitiva][programming_playgrounds_list] no es tan restrictivo. El alcance de este repositorio es determinado por la comunidad; si desea sugerir un cambio o extender el alcance, utilice los [issues][issues] para registrar dicha sugerencia.
 
 
-<!----><a name="books-vs-other-stuff"></a>
+<!----><a id="books-vs-other-stuff"></a>
 ##### Libros vs. Otro Material
 
 No somos tan quisquillosos con lo que consideramos como libro. A continuación, se muestran algunas propiedades que un recurso pueda encajar como libro:
@@ -233,7 +233,7 @@ No somos tan quisquillosos con lo que consideramos como libro. A continuación, 
 Hay muchos libros que enumeramos los cuáles no poseen estos atributos; esto puede depender del contexto.
 
 
-<!----><a name="books-vs-courses"></a>
+<!----><a id="books-vs-courses"></a>
 ##### Libros vs. Cursos
 
 ¡A veces distinguir puede ser dificultoso!
@@ -241,13 +241,13 @@ Hay muchos libros que enumeramos los cuáles no poseen estos atributos; esto pue
 Los cursos suelen tener libros de texto asociados, que incluiríamos en nuestras listas de libros. Además, los cursos tienen conferencias, ejercicios, pruebas, apuntes u otras ayudas didácticas. Una sola conferencia o vídeo por sí solo no es un curso. Un presentación de PowerPoint tampoco puede ser catalogado como curso.
 
 
-<!----><a name="interactive-tutorials-vs-other-stuff"></a>
+<!----><a id="interactive-tutorials-vs-other-stuff"></a>
 ##### Tutoriales interactivos vs. Otro Material
 
 Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 
 
-<!----><a name="automation"></a>
+<!----><a id="automation"></a>
 ### Automatización
 
 - El cumplimiento de las reglas de formateado se automatiza vía [GitHub Actions](https://docs.github.com/en/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (ver [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))

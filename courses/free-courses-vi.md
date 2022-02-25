@@ -7,6 +7,7 @@
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#csharp)
+* [Cấu trúc dữ liệu và Giải thuật](#cautrucdulieuvagiaithuat)
 * [CSS](#css)
 * [Git](#git)
 * [Go](#go)
@@ -81,7 +82,7 @@
 * [Series Con trỏ trong C](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - Cộng đồng C Việt
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK)
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyOEc-S8ovGVG5L92mZEjVu) - TEDU
@@ -101,6 +102,11 @@
 
 * [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban)
 * [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
+
+
+### Cấu trúc dữ liệu và Giải thuật
+
+* [Cấu trúc dữ liệu và Giải thuật](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev
 
 
 ### Git

@@ -31,7 +31,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CON
 5. GitHub Actions avvierà dei test per assicurarsi che le tue **liste siano ordinate alfabeticamente e formattate correttamente**. **Assicurati che** i tuoi cambiamenti passino il test.
 
 
-<!----><a name="guidelines"></a>
+<!----><a id="guidelines"></a>
 ### Linee guida
 
 - assicurati che il libro sia gratuito. Controlla più volte se necessario. Commentare nella PR il perché pensi che il libro sia gratuito aiuta gli admin.
@@ -60,7 +60,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CON
 - se è richiesto un indirizzo email o un account per poter scaricare il libro, aggiungilo tra parentesi, esempio: `(email address *requested*, not required)`.
 
 
-<!----><a name="formatting"></a>
+<!----><a id="formatting"></a>
 ### Formattazione
 
 - Tutte le liste sono file `.md`. Prova ad imparare la sintassi [Markdown](https://guides.github.com/features/mastering-markdown/). È semplice!
@@ -130,13 +130,13 @@ Esempi:
     CORRETTO : * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-- <a name="in_process"></a>Libri in sviluppo:
+- <a id="in_process"></a>Libri in sviluppo:
 
     ```text
     CORRETTO : * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
-- <a name="archived"></a>Link archiviato:
+- <a id="archived"></a>Link archiviato:
 
     ```text
     CORRETTO : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*

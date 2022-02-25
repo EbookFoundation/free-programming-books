@@ -64,12 +64,12 @@
 * [The C Cheat Sheet: An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) - Andrew Sterian (PDF)
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) - CodeWithHarry (HTML)
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
@@ -135,7 +135,7 @@
 * [HTML CheatSheet](https://htmlcheatsheet.com) - htmlcheatsheet.com (HTML, [PDF](https://htmlcheatsheet.com/HTML-Cheat-Sheet.pdf))
 
 
-### <a name="ide--editores"></a>IDE / Editors
+### <a id="ide--editores"></a>IDE / Editors
 
 * [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)

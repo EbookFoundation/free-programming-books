@@ -137,7 +137,7 @@ Ví dụ:
     TỐT: * [Một cuốn sách rất tuyệt vời (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-- <a name="in_process"></a>Sách đang trong quá trình viết:
+- <a id="in_process"></a>Sách đang trong quá trình viết:
 
     ```text
     TỐT: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)

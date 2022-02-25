@@ -73,7 +73,7 @@
 * [Memulai Pemrograman dengan C](https://www.dicoding.com/academies/120) - Dicoding, membutuhkan registrasi
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
 

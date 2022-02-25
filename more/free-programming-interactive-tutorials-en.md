@@ -70,7 +70,7 @@
 * [Learn C](http://www.learn-c.org) - Learn-C
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
@@ -79,7 +79,7 @@
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [CppKoans](https://github.com/torbjoernk/CppKoans)

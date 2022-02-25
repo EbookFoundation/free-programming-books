@@ -123,7 +123,7 @@
     GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-- <a name="in_process"></a>작성중인 책:
+- <a id="in_process"></a>작성중인 책:
 
     ```text
     GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)

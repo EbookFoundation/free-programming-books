@@ -127,7 +127,7 @@ Beispiel:
     RICHTIG: * [Ein sehr tolles Buch (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-- <a name="in_process"></a>Bücher in Bearbeitung:
+- <a id="in_process"></a>Bücher in Bearbeitung:
 
     ```text
     RICHTIG: * [Wird bald ein tolles Buch sein](http://example.com/book2.html) - John Doe (HTML) (:construction: *in Bearbeitung*)

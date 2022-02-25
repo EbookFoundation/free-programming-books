@@ -128,13 +128,13 @@ Example:
     GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-- <a name="in_process"></a>In-process books:
+- <a id="in_process"></a>In-process books:
 
     ```text
     GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
-- <a name="archived"></a>Archived link:
+- <a id="archived"></a>Archived link:
 
     ```text
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*

@@ -31,7 +31,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
 5. Ang GitHub Actions ay magpapatakbo ng mga pagsubok upang matiyak na **ang iyong mga listahan ay naka-alpabeto** at **sinusunod ang mga panuntunan sa pag-format**. **Siguraduhing** suriin na ang iyong mga pagbabago ay pumasa sa mga pagsubok.
 
 
-<!----><a name="guidelines"></a>
+<!----><a id="guidelines"></a>
 ### Mga Alituntunin
 
 - siguraduhin na ang isang libro ay libre. I-double check kung kinakailangan. Nakakatulong ito sa mga admin kung magkomento ka sa PR kung bakit sa tingin mo ay libre ang libro.
@@ -60,7 +60,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
 - kung humiling ng email address o pag-setup ng account bago i-enable ang pag-download, magdagdag ng mga tala na naaangkop sa wika sa mga panaklong, hal.: `(email address *requested*, not required)`.
 
 
-<!----><a name="formatting"></a>
+<!----><a id="formatting"></a>
 ### Pag-format
 
 - Ang lahat ng mga listahan ay `.md` files. Subukang matuto [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. Simple lang!
@@ -130,13 +130,13 @@ Halimbawa:
     GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-- <a name="in_process"></a>In-process books:
+- <a id="in_process"></a>In-process books:
 
     ```text
     GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
-- <a name="archived"></a>Archived link:
+- <a id="archived"></a>Archived link:
 
     ```text
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*

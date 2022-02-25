@@ -36,12 +36,12 @@
 * [Kurs Programowania w C](https://www.youtube.com/playlist?list=PLgeFsJ0yZyikV_e8YDl5rixXu-H6wFIIZ)
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [Podstawy programowania w języku C#](https://www.youtube.com/playlist?list=PLk5dbESAmUZh1cLITav0ZmDEqRujsPa93)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [Kurs C++](https://www.youtube.com/playlist?list=PLE84826ABF088F7E8)
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB) - Mirosław Zelent, Damian Stelmach

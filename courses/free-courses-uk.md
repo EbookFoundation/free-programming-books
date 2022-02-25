@@ -5,7 +5,7 @@
 * [Python](#python)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [Мова програмування C++](https://stepik.org/course/67114) - Stepik
 

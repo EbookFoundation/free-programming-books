@@ -159,6 +159,7 @@
 ### HTML / CSS
 
 * [CSS Diner](http://flukeout.github.io)
+* [CSS Speedrun \| Test your CSS Skills](https://css-speedrun.netlify.app) - Vincent Will (HTML)
 * [CSS Tutorial](https://www.w3schools.com/css/) - W3Schools
 * [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure) - Nick Bull
 * [Flexbox Defense](http://flexboxdefense.com)

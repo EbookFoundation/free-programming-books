@@ -22,10 +22,10 @@
 * [YouTube - دورات تعليمية عن GitHub للمبتدئين](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) *(in Egyptian Arabic / بالمصري)*
 
 
-لا تخجل من أن تسأل، كل مساهم بدأ بأول بولّ ريكويست له، ربما تكون من الآلاف المساهمين لدينا! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
+لا تخجل من أن تسأل، كل مساهم بدأ بأول PR له، ربما تكون من الآلاف المساهمين لدينا!  لذا... لما لا تنضم إلى مجتمعنا [الكبير والمزدهر](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books).
 
 <details align="center" markdown="1">
-<summary>Click to see the growth users vs. time graphs.</summary>
+<summary>إضغط لترى الرسم البياني لنمو المساهمين بالنسبة للزمن.</summary>
 
 [![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
 

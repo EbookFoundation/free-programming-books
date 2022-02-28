@@ -181,7 +181,7 @@
 #### Spring
 
 * [Belajar Spring Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882aeiESAgna5eVa_cOpFnxQm) - Imam Farisi (YouTube)
-* [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Wafiq Subhi, Mastahcode (Youtube)
+* [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Wafiq Subhi, Mastahcode (YouTube)
 * [SpringBoot](https://www.youtube.com/playlist?list=PLRjWo99hnirwyafPfaxfu0psMR0hUmdQc) - Hendro Steven Tampake, Kelas Koding (YouTube)
 * [Tutorial Spring Framework & Spring Boot Dasar - Bahasa Indonesia](https://www.youtube.com/watch?v=VM3rwdMBORY) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
@@ -258,8 +258,8 @@
 ### Machine Learning
 
 * [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177) - Dicoding, membutuhkan registrasi
-* [Classic Time Series Forecasting \| Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Ms7wr2zgtcC4LaE_NHQAEjx) - Wira DKP, JCOp Untuk Indonesia (Youtube)
-* [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Setia Budi, Indonesia Belajar (Youtube)
+* [Classic Time Series Forecasting \| Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Ms7wr2zgtcC4LaE_NHQAEjx) - Wira DKP, JCOp Untuk Indonesia (YouTube)
+* [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Setia Budi, Indonesia Belajar (YouTube)
 
 
 ### Microservices
@@ -278,7 +278,7 @@
 * [Belajar MySQL](https://alwaysngoding.com/belajar-mysql/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
 * [Belajar MySQL](https://www.youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_) - Indonesia Belajar
 * [Belajar MySQL/MariaDB](https://www.youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF) - Guntur Budi
-* [MYSQL Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_P2_2zR6pvDublvpD3fF6W) - Programmer Zaman Now (Youtube)
+* [MYSQL Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_P2_2zR6pvDublvpD3fF6W) - Programmer Zaman Now (YouTube)
 
 
 ### PHP

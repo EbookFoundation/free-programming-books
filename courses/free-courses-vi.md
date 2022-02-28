@@ -111,9 +111,9 @@
 
 ### Git
 
-* [Cách sử dụng Git trong THỰC TẾ \| Github](https://www.youtube.com/watch?v=O5uT6p6VWjY) - Ông Dev
+* [Cách sử dụng Git trong THỰC TẾ \| GitHub](https://www.youtube.com/watch?v=O5uT6p6VWjY) - Ông Dev
 * [Git - from Zero to Hero](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q) - CodersX
-* [Từ gà tới pro Git và Github trong 20 phút - Tự học Git siêu tốc](https://www.youtube.com/watch?v=1JuYQgpbrW0) - Phạm Huy Hoàng (toidicodedao)
+* [Từ gà tới pro Git và GitHub trong 20 phút - Tự học Git siêu tốc](https://www.youtube.com/watch?v=1JuYQgpbrW0) - Phạm Huy Hoàng (toidicodedao)
 
 
 ### Go

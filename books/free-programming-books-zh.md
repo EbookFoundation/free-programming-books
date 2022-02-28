@@ -99,7 +99,7 @@
 * [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 廖雪峰
-* [Github帮助文档](https://github.com/waylau/github-help)
+* [GitHub帮助文档](https://github.com/waylau/github-help)
 * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/)
 * [Got GitHub](https://github.com/gotgit/gotgithub)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)

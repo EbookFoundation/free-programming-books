@@ -963,7 +963,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
 
 
-
 #### Bootstrap
 
 * [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap3) - Peter Shaw

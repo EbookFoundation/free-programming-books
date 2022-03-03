@@ -960,6 +960,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [W3.CSS Succinctly](https://www.syncfusion.com/ebooks/w3_css_succinctly) - Joseph D. Booth
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 * [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
+* [LEARNING sass](https://riptutorial.com/ebook/sass) - Compiled from Stack Overflow documentation (PDF)
 
 
 #### Bootstrap

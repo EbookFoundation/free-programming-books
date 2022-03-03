@@ -947,6 +947,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learn CSS Layout](http://learnlayout.com)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com) - Shay Howe
+* [Learning sass](https://riptutorial.com/ebook/sass) - Compiled from Stack Overflow documentation (PDF)
 * [Magic of CSS](https://adamschwartz.co/magic-of-css/) - Adam Schwartz (HTML) (:construction: *in process*)
 * [MaintainableCSS](http://maintainablecss.com)
 * [Pocket Guide to Writing SVG](https://svgpocketguide.com) - Joni Trythall
@@ -960,7 +961,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [W3.CSS Succinctly](https://www.syncfusion.com/ebooks/w3_css_succinctly) - Joseph D. Booth
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 * [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
-* [LEARNING sass](https://riptutorial.com/ebook/sass) - Compiled from Stack Overflow documentation (PDF)
+
 
 
 #### Bootstrap

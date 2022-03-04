@@ -28,8 +28,8 @@
 
 ### <a id="html"></a>HTML/CSS
 
-* [HTML](https://books.saturngod.net/HTML5/) - Saturngod
 * [Bootstrap - On Point](https://eimaung.com/bootstrap/) - Ei Maung
+* [HTML](https://books.saturngod.net/HTML5/) - Saturngod
 
 
 ### <a id="javascript"></a>JavaScript
@@ -45,8 +45,8 @@
 
 ### <a id="php"></a>PHP
 
-* [PHP - On Point](https://eimaung.com/php/) - Ei Maung
 * [Laravel - On Point](https://eimaung.com/laravel/) - Ei Maung
+* [PHP - On Point](https://eimaung.com/php/) - Ei Maung
 
 
 ### <a id="python"></a>Python

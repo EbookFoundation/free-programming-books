@@ -30,4 +30,5 @@
 ### Web Development
 
 * [Professional Web Developer](http://eimaung.com/professional-web-developer) - Ei Maung
+* [Professional Web Developer 2022](https://eimaung.com/pwd2022/) - Ei Maung
 * [Rockstar Developer](http://eimaung.com/rockstar-developer) - Ei Maung

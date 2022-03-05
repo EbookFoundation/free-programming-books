@@ -16,9 +16,9 @@ updates:
       timezone: "Europe/Paris"
     # Specify labels for `gha` pull requests
     labels:
-      - "dependencies"
-      - "dependencies:github-actions"
-      - "automation"
+      - "🔗 dependencies"
+      - "🔗 dependencies:github-actions"
+      - "🤖 automation"
     commit-message:
       # Prefix all commit messages with `chore` (follow conventional-commits)
       # include a list of updated dependencies

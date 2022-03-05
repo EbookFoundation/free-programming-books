@@ -30,3 +30,8 @@ updates:
       # Separate sections of the branch name with a hyphen
       # for example, `dependabot/github_actions/actions/checkout-2.3.1`
       separator: "/"
+    # Add the arrays of assignees and reviewers
+    assignees:
+      - "EbookFoundation/maintainers"
+    reviewers:
+      - "EbookFoundation/reviewers"

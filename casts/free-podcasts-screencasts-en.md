@@ -227,7 +227,7 @@
 * [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
 * [React Round Up](https://devchat.tv/podcasts/react-round-up) - DevChat.tv (podcast)
 * [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
-* [The React Native Show](https://www.callstack.com/podcast-react-native-show) (screencast)
+* [The React Native Show](https://www.callstack.com/podcast-react-native-show) - Mike Grabowski et al. (screencast)
 
 
 ### Kotlin

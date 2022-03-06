@@ -195,6 +195,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Self](#self)
 * [Smalltalk](#smalltalk)
 * [Snap](#snap)
+* [Solidity](#solidity)
 * [Spark](#spark)
 * [Splunk](#splunk)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)

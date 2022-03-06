@@ -83,11 +83,13 @@
 
 * [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 
+
 ### Arduino
 
 * [Apostilas da Eltrogate](https://www.eletrogate.com/pagina/apostilas.html) - Eletrogate (No site é possivel escolher entre 9 apostilas diferentes dependendo do seu nível, e será pedido seu email para a obtenção do documento, todas elas são em formato PDF)
 * [Arduino Guia Iniciante](https://edisciplinas.usp.br/pluginfile.php/3252633/mod_resource/content/1/Guia_Arduino_Iniciante_Multilogica_Shop.pdf) - Multilógica Shop (PDF)
 * [Física com Arduino para iniciantes](https://www.scielo.br/j/rbef/a/rrPFbrjsDdtkKKRPDPTJXnn/?format=pdf&lang=pt) - Marisa Almeida Cavalcante, Cristiane Rodrigues Caetano Tavolaro, Elio Molisani (PDF)
+
 
 ### Assembly
 

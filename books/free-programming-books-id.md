@@ -24,7 +24,6 @@
   * [Angular](#angular)
   * [Deno](#deno)
 * [Vue](#vue)
-* [css](#CSS)
 
 
 ### Android
@@ -191,8 +190,3 @@
 * [Belajar Vue.js](https://variancode.com/belajar-vue-js/) - Varian Hermianto
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
 
-### CSS
-
-* [Animated Wave](https://svgwave.in/)
-- prayogaea01
-* [Github](https://github.com/prayogaea01/waves)

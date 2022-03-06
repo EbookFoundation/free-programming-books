@@ -22,6 +22,7 @@
 * [SQL](#sql)
   * [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
+*  [AWS] (#aws)
 
 
 ### Arduino
@@ -140,3 +141,6 @@
 * [مدخل إلى تجربة المستخدم](https://academy.hsoub.com/files/11-مدخل-إلى-تجربة-المستخدم-user-experience-ux/)
 
 </div>
+
+## AWS
+* [كورس كامل بالعربى مع المهندس عيسى أبوشريف] (https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)

@@ -1075,12 +1075,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
 
 
-#### Solidity
-
-* [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/index.htm)
-* [The Solidity Reference Guide](https://docs.soliditylang.org)
-
-
 #### Spring
 
 * [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2) - James J. Ye (Packt account *required*)
@@ -2278,6 +2272,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Snap
 
 * [Snap! Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) - B. Harvey, J. Mönig (PDF)
+
+
+#### Solidity
+
+* [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/index.htm)
+* [The Solidity Reference Guide](https://docs.soliditylang.org)
 
 
 ### Spark

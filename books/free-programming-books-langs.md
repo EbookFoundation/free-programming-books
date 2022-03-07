@@ -2274,7 +2274,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Snap! Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) - B. Harvey, J. Mönig (PDF)
 
 
-#### Solidity
+### Solidity
 
 * [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/index.htm)
 * [The Solidity Reference Guide](https://docs.soliditylang.org)

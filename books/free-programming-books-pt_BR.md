@@ -86,7 +86,6 @@
 
 ### Arduino
 
-* [30 Projetos com Arduino](https://www.academia.edu/36112333/30_Projetos_com_Arduino_pdf) - Mecatrônica Industrial (É necessario uma conta na Academia.edu para baixar o PDF)
 * [Arduino Guia Iniciante](https://edisciplinas.usp.br/pluginfile.php/3252633/mod_resource/content/1/Guia_Arduino_Iniciante_Multilogica_Shop.pdf) - Multilógica Shop (PDF)
 * [Física com Arduino para iniciantes](https://www.scielo.br/j/rbef/a/rrPFbrjsDdtkKKRPDPTJXnn/?format=pdf&lang=pt) - Marisa Almeida Cavalcante, Cristiane Rodrigues Caetano Tavolaro, Elio Molisani (PDF)
 

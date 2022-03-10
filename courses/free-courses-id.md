@@ -139,7 +139,7 @@
 * [Belajar Golang Basic Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm) - Sekolah Koding
 * [Golang Fundamental](https://buildwithangga.com/kelas/golang-fundamental?thumbnail=nk4neM2UyG.54&main_leads=browse) - BuildWithAngga
 * [Golang Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH-0i9dzMzLw6FKVrFWv3QvQ) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
-* [Mahir Go-lang dari dasar](https://youtube.com/playlist?list=PL1aMeb5UP_PHPHEBNrZ3L1V4qpyuC6Aa8)
+* [Mahir Golang Dari Dasar](https://youtube.com/playlist?list=PL1aMeb5UP_PHPHEBNrZ3L1V4qpyuC6Aa8) - IDStack
 * [Tutorial Golang Fundamental Bahasa Indonesia](https://www.youtube.com/watch?v=xzNT4JywW0A) - Agung Setiawan
 * [Tutorial Golang Web API Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=GjI0GSvmcSU) - Agung Setiawan
 * [Tutorial Golang Website Development Bahasa Indonesia](https://www.youtube.com/watch?v=K76y2_ZQYwY) - Agung Setiawan

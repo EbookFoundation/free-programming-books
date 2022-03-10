@@ -195,6 +195,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Self](#self)
 * [Smalltalk](#smalltalk)
 * [Snap](#snap)
+* [Solidity](#solidity)
 * [Spark](#spark)
 * [Splunk](#splunk)
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
@@ -806,7 +807,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
 * [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card_file_box: archived)*
 * [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
-* [How to Collaborate on Github](https://github.com/eonist/How-to-collaborate-on-github) - André J
+* [How to Collaborate on GitHub: A mini book about collaborating on GitHub](https://github.com/eonist/How-to-collaborate-on-github) - André J
 * [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
 * [Introduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
 * [Introduction to Git and GitHub eBook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
@@ -948,6 +949,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learn CSS Layout](http://learnlayout.com)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com) - Shay Howe
+* [Learning sass](https://riptutorial.com/Download/sass.pdf) - Compiled from Stack Overflow documentation (PDF)
 * [Magic of CSS](https://adamschwartz.co/magic-of-css/) - Adam Schwartz (HTML) (:construction: *in process*)
 * [MaintainableCSS](http://maintainablecss.com)
 * [Pocket Guide to Writing SVG](https://svgpocketguide.com) - Joni Trythall
@@ -1071,12 +1073,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc) - Bruno Lowagie  *(Leanpub account or valid email requested)*
 * [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
-
-
-#### Solidity
-
-* [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/index.htm)
-* [The Solidity Reference Guide](https://docs.soliditylang.org)
 
 
 #### Spring
@@ -1339,6 +1335,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
+* [The Ultimate Guide to React Native Optimization](https://www.callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook) (PDF) *(email requested, not required)*
 
 
 #### Redux
@@ -1649,7 +1646,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [OCaml Scientific Computing](https://ocaml.xyz/book/) - Liang Wang, Jianxin Zhao (HTML) (:construction: *in process*)
 * [Real World OCaml](https://dev.realworldocaml.org/toc.html)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey and Nicholas Monje
-* [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) [Github Repo](https://github.com/ocaml/ocamlunix/)
+* [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) - Xavier Leroy, Didier Rémy (HTML, [GitHub Repo](https://github.com/ocaml/ocamlunix/))
 * [Using, Understanding, and Unraveling The OCaml Language: From Practice to Theory and vice versa](http://pauillac.inria.fr/~remy/cours/appsem/) - Didier Rémy
 
 
@@ -2275,6 +2272,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Snap
 
 * [Snap! Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) - B. Harvey, J. Mönig (PDF)
+
+
+### Solidity
+
+* [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/index.htm)
+* [The Solidity Reference Guide](https://docs.soliditylang.org)
 
 
 ### Spark

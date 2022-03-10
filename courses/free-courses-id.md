@@ -300,7 +300,7 @@
 
 #### Codeigniter
 
-* [Tutorial Codeigniter 4](https://youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) - Sandhika Galih (Web Programming Unpas)
+* [TUTORIAL CODEIGNITER 4](https://youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) - Sandhika Galih (Web Programming UNPAS)
 * [Tutorial Codeigniter 4](https://youtube.com/playlist?list=PL1aMeb5UP_PFkC4mY3prujavZBehsWAC3) - IdStack
 * [Tutorial Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_5lzhkUtrV6ygriYcttMlg) - Framework Indonesia
 * [Tutorial Sistem Informasi Akademik dengan Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_hXzGACf988F1ojvQlYmB0) - Framework Indonesia

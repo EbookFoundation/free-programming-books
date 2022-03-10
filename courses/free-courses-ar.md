@@ -45,7 +45,7 @@
 * [CS Master - Level 2- Dive into the Computer كيف يعمل الكمبيوتر](https://www.youtube.com/playlist?list=PLL2zWZTDFZziX_xS2bbGfLAOHVmlzURhF) - KMR Script
 * [CS50 in Arabic&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzibJ49gBM2owqCzda8meSNj) - KMR Script
 * [CS50 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd) - Coders Camp
-* [Cs50 In Arabic 2022 | كورس cs50 بالعربي كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w) - Abdelrahman Gamal
+* [Cs50 In Arabic 2022 | كورس cs50 بالعربي كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w) - Abdelrahman Gamal&rlm; (:construction: *in process*)
 * [Data Structure&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS) - Hard Code
 * [Data Structure C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8) - Mega Code
 * [Data Structures Full Course In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) - Adel Nasim
@@ -155,7 +155,7 @@
 
 * [برمجة المواقع | تعلم لغة الhtml من الصفر](https://www.youtube.com/playlist?list=PLYyqC4bNbCIfMY5CoGmiWaPi9l86qaz5B) - أكاديمية ترميز
 * [برمجة المواقع | سلسلة دروس لغة css](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu) - أكاديمية ترميز
-* [CSS Art Tutorials](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzxCiht69IlCe0_VeIuh4ty) - Codezill
+* [CSS Art Tutorials](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzxCiht69IlCe0_VeIuh4ty) - Codezilla
 * [HTML And CSS Template 1&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) - Elzero Web School
 * [HTML And CSS Template 2&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t) - Elzero Web School
 * [HTML And CSS Template 3&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc) - Elzero Web School
@@ -182,7 +182,7 @@
 
 ### JavaScript
 
-* [سلسلة دروس جافا سكريبت](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0) - أكاديمية ترميز
+* [سلسلة دروس جافا سكريبت](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0) - أكاديمية ترميز (:construction: *in process*)
 * [Arabic JavaScript&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm) - KMR Script
 * [Arabic JavaScript ES6 الاصدار السادس من الجافاسكربت](https://www.youtube.com/playlist?list=PLL2zWZTDFZzilx_LJ_mCRDETtDOyBg0UT) - KMR Script
 * [Javascript&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh) - Elzero Web School
@@ -271,7 +271,8 @@
 
 
 ### Python
-* [كورس أساسيات المفاهيم البرمجية](https://www.youtube.com/playlist?list=PLvGNfY-tFUN9OQ4xtJRutrX3zyGam6Vpm) - غريب الشيخ || Ghareeb Elshaikh
+
+* [كورس أساسيات المفاهيم البرمجية](https://www.youtube.com/playlist?list=PLvGNfY-tFUN9OQ4xtJRutrX3zyGam6Vpm) - غريب الشيخ || Ghareeb Elshaikh&rlm; (:construction: *in process*)
 * [Learn Python3&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy
 * [Master Python from Beginner to Advanced in Arabic - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla
 * [Mastering Python&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) - Elzero Web School
@@ -286,6 +287,7 @@
 * [Django 2.x](https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4) - شبكة علوم
 * [Django Create Blog](https://www.youtube.com/playlist?list=PLTcPeoMjkuCyoKpr6II_2aXUUOmtCDW4f) - شبكة علوم
 * [Django Tutorial for Beginners | كورس دجانجو كامل للمبتدئين](https://www.youtube.com/playlist?list=PLknwEmKsW8OtK_n48UOuYGxJPbSFrICxm) - Abdelrahman Gamal
+
 
 #### Flask
 

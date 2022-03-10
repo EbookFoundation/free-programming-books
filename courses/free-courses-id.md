@@ -231,10 +231,10 @@
 * [Tutorial Vue JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ) - Sekolah Koding
 * [Tutorial Vuejs Bahasa Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-Z6Gt8uO1XMp4oyMlE3gml) - Baledemy
 * [Tutorial VueJs dengan API Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj3a7oLHb2a8pw8IHBq45WYu) - Wahidev Academy
-* [Vue 3 Dasar bahasa Indonesia](https://youtube.com/playlist?list=PLnQvfeVegcJbV2NGXpay7ulU6ybASzAlG) - Nusendra.com
-* [Vue 3 komposisi API](https://youtube.com/playlist?list=PLnQvfeVegcJbn7ZDOUNbRN25obY4htSlB) - Nusendra.com
-* [Vue 3 Advance](https://youtube.com/playlist?list=PLnQvfeVegcJbbmFmN5ZMnkylQXp6mb7gP) - Nusendra.com
-* [Vue 3 - Pinia](https://youtube.com/playlist?list=PLnQvfeVegcJYV7uSax0W8z3peCyiOxr6W) - Nusendra.com
+* [Vue 3 Advance](https://youtube.com/playlist?list=PLnQvfeVegcJbbmFmN5ZMnkylQXp6mb7gP) - Nusendra Hanggarawan (Nusendra.com)
+* [Vue 3 Composition API](https://youtube.com/playlist?list=PLnQvfeVegcJbn7ZDOUNbRN25obY4htSlB) - Nusendra Hanggarawan (Nusendra.com)
+* [Vue 3 Dasar](https://youtube.com/playlist?list=PLnQvfeVegcJbV2NGXpay7ulU6ybASzAlG) - Nusendra Hanggarawan (Nusendra.com)
+* [Vue 3 - Pinia](https://youtube.com/playlist?list=PLnQvfeVegcJYV7uSax0W8z3peCyiOxr6W) - Nusendra Hanggarawan (Nusendra.com)
 
 
 ### Kotlin

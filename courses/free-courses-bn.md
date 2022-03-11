@@ -41,14 +41,14 @@
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
-* [C# bangla tutorial | Basic to advance in depth bangla course](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt) - Learn Hunter
+* [C# bangla tutorial \| Basic to advance in depth bangla course](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt) - Learn Hunter
 * [C# OOP (object oriented programming) BanglaTutorials](https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p) - Asp Dot Net Explorer
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 
@@ -67,7 +67,7 @@
 ### Git
 
 * [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s) - Learn with Sumit
-* [Git and Github in One Video (Theory + Practical) | A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA&t=787s) - SHAJ.T3CH
+* [Git and Github in One Video (Theory + Practical) \| A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA&t=787s) - SHAJ.T3CH
 * [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF) - Stack Learner
 
 
@@ -91,12 +91,12 @@
 
 ### IDE and Editors
 
-* [VSCode Complete Tutorial Series | VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
+* [VSCode Complete Tutorial Series \| VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
 
 
 ### Java
 
-* [Java Bangla Tutorials | CORE Java | Complete OOP](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa) - Anisul Islam
+* [Java Bangla Tutorials \| CORE Java \| Complete OOP](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa) - Anisul Islam
 * [Java Swing Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l) - Anisul Islam
 
 
@@ -104,7 +104,7 @@
 
 * [Express JS Crash Course in Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDm9HkiP4h_76qNBZix6XME) - Stack Learner
 * [Functional JavaScript Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDPR9fASxugXgQAWkZLcmt1) - Stack Learner
-* [JavaScript All You Need to Know | JS Bangla Tutorial | Stack Learner](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1) - Stack Learner
+* [JavaScript All You Need to Know \| JS Bangla Tutorial \| Stack Learner](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1) - Stack Learner
 * [JavaScript Bangla Tutorial Course 2021](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX) - Anisul Islam
 * [JavaScript Behind The Scene Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDPaOrWvTIuhb5GRoJVWiE2) - Stack Learner
 * [JavaScript Full Playlist With Order](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAJTV_1ZXwB1XIiFkK0ddZA) - Stack Learner

@@ -1,4 +1,4 @@
-*[Read this in other languages](../README.md#translations)*
+*[Read this in other languages](README.md#translations)*
 
 
 ## Contributor License Agreement
@@ -8,7 +8,7 @@ By contributing you agree to the [LICENSE](../LICENSE) of this repository.
 
 ## Contributor Code of Conduct
 
-By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) of this repository. ([translations](../README.md#translations))
+By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) of this repository. ([translations](README.md#translations))
 
 
 ## In a nutshell
@@ -128,13 +128,13 @@ Example:
     GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-- <a name="in_process"></a>In-process books:
+- <a id="in_process"></a>In-process books:
 
     ```text
     GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
-- <a name="archived"></a>Archived link:
+- <a id="archived"></a>Archived link:
 
     ```text
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
@@ -233,7 +233,7 @@ If you can print it out and retain its essence, it's not an Interactive Tutorial
 
 ### Automation
 
-- Formatting rules enforcement is automated via [GitHub Actions](https://github.com/features/actions) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Formatting rules enforcement is automated via [GitHub Actions](https://github.com/features/actions) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - URL validation uses [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - To trigger URL validation, push a commit that includes a commit message containing `check_urls=file_to_check`:
 

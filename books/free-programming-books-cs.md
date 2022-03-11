@@ -32,13 +32,13 @@
 * [Bash očima Bohdana Milara](http://i.iinfo.cz/files/root/k/bash_ocima_bohdana_milara.pdf) (PDF)
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [Programovací jazyk C#](http://www.cs.vsb.cz/behalek/vyuka/pcsharp/text.pdf) - Marek Běhálek (PDF)
 * [Systémové programování v jazyce C#](https://phoenix.inf.upol.cz/esf/ucebni/sysprog.pdf) (PDF)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [Moderní programování objektových aplikací v C++](https://akela.mendelu.cz/~xvencal2/CPP/opora.pdf) (PDF)
 * [Objektové programování v C++](http://media1.jex.cz/files/media1:49e6b94e79262.pdf.upl/07.%20Objektov%C3%A9%20programov%C3%A1n%C3%AD%20v%20C%2B%2B.pdf) (PDF)

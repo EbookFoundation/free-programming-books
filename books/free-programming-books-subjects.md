@@ -143,7 +143,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
 * [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML)
 * [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield et al. (PDF)
-* [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
+* [Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos (AsciiDoc)
+* [Mastering Ethereum (2018), 1st Edition](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc)
 * [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
 
 
@@ -458,7 +459,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 * [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
 * [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee MIT
-* [Number Theory: In Context and Interactive](https://web.archive.org/web/20210711231452/https://math.gordon.edu/ntic/) - Karl-Dieter Crisman
+* [Number Theory: In Context and Interactive](https://math.gordon.edu/ntic/) - Karl-Dieter Crisman (HTML, PDF)
 * [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 * [Online Statistics Education](http://onlinestatbook.com) - David Lane
 * [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel

@@ -5,6 +5,7 @@
   * [Programação](#programação)
   * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
+* [Arduino](#arduino)
 * [Assembly](#assembly)
 * [C](#c)
 * [C#](#csharp)
@@ -83,6 +84,11 @@
 * [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 
 
+### Arduino
+
+* [Arduino Guia Iniciante](https://cdn.multilogica-shop.com/Guia_Arduino/Guia_Arduino_Iniciante_Multilogica_Shop_Versao_2.pdf) - Multilógica Shop (PDF)
+
+
 ### Assembly
 
 * [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
@@ -101,12 +107,12 @@
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)

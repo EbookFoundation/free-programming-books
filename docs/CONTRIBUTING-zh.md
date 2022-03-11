@@ -1,4 +1,4 @@
-*[阅读本文的其他语言版本](../README.md#translations)*
+*[阅读本文的其他语言版本](README.md#nslations)*
 
 
 ## 贡献者许可协议
@@ -8,7 +8,7 @@
 
 ## 贡献者行为准则
 
-请同意并遵循此[行为准则](CODE_OF_CONDUCT.md)参与贡献。([translations](../README.md#translations))
+请同意并遵循此[行为准则](CODE_OF_CONDUCT.md)参与贡献。([translations](README.md#nslations))
 
 
 ## 概要
@@ -142,7 +142,7 @@
     正确：* [一本很有用的书 (1970)](https://example.org/book.html) - 张显宗
     ```
 
-* <a name="in_process"></a>编写(翻译)中的书籍：
+* <a id="in_process"></a>编写(翻译)中的书籍：
 
     ```text
     正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *编写中*)

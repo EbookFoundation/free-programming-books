@@ -51,11 +51,11 @@
 ### C
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
-* [Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) - eXcript (Youtube)
-* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (Youtube)
+* [Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) - eXcript (YouTube)
+* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (YouTube)
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)
@@ -65,7 +65,7 @@
 * [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
 
@@ -73,7 +73,7 @@
 ### CSS
 
 * [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
-* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Curso em Vídeo (Youtube)
+* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Curso em Vídeo (YouTube)
 
 
 ### Dart
@@ -97,7 +97,7 @@
 ### Flutter
 
 * [Criando seu primeiro App com Flutter](https://app.balta.io/courses/7184) - Andre Baltieri (balta.io)
-* [Curso COMPLETO de Flutter](https://youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) - Flutterando (Youtube)
+* [Curso COMPLETO de Flutter](https://youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) - Flutterando (YouTube)
 
 
 ### Git
@@ -130,7 +130,7 @@
 ### HTML
 
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
-* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Curso em Vídeo (Youtube)
+* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Curso em Vídeo (YouTube)
 
 
 ### IDE
@@ -184,25 +184,25 @@
 ### Kotlin
 
 * [Aprenda Kotlin do zero - Módulo Básico](https://www.udemy.com/kotlin-aprenda-do-zero-modulo-basico/) - Pedro Massango (Udemy)
-* [Curso de Kotlin 2020 | Básico](https://www.youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn) - Douglas Motta (Youtube)
+* [Curso de Kotlin 2020 \| Básico](https://www.youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn) - Douglas Motta (YouTube)
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
 
 
 ### Kubernetes
 
-* [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil (Youtube)
+* [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil (YouTube)
 
 
 ### Linux
 
-* [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) - Gustavo Guanabara (Youtube)
+* [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) - Gustavo Guanabara (YouTube)
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
 * [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
 
 
 ### Lua
 
-* [Introdução a Programação com Lua](https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA) - Alfred R. Baudisch (Youtube)
+* [Introdução a Programação com Lua](https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA) - Alfred R. Baudisch (YouTube)
 
 
 ### Machine Learning
@@ -227,7 +227,7 @@
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
 * [Curso de Node.js](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) - Victor Lima Guia do Programador (YouTube)
-* [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (Youtube)
+* [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (YouTube)
 * [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - Erick Wendel (Teachable)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
 

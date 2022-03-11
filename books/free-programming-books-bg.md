@@ -16,14 +16,14 @@
 * [ANSI C - Пълен справочник](https://progstarter.com/index.php?option=com_content&view=article&id=9&Itemid=122&lang=bg) - Димо Петков
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [Основи на програмирането със C#](https://csharp-book.softuni.bg) - Светлин Наков и колектив
 * [Принципи на програмирането със C#](https://introprogramming.info/intro-csharp-book) - Светлин Наков, Веселин Колев и колектив
 * [Програмиране за .NET Framework](https://www.devbg.org/dotnetbook) - Светлин Наков и колектив
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [Основи на програмирането със C++](https://cpp-book.softuni.bg) - Светлин Наков и колектив
 

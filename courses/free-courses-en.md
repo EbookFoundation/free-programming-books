@@ -177,7 +177,7 @@
 * [AI Courses](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html) - Intel Corporation
 * [AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099) - Microsoft Azure (Udacity)
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino
-* [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering (Youtube)
+* [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering (YouTube)
 * [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and EdX)
 * [Elements of AI](https://www.elementsofai.com) - University of Helsinki, Reaktor
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
@@ -241,7 +241,7 @@
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
 * [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (YouTube)
@@ -250,7 +250,7 @@
 * [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
 * [C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) - ProgrammingKnowledge
@@ -298,7 +298,7 @@
 ### Dart
 
 * [Dart Course for Beginners](https://www.udemy.com/course/dartlang) (Udemy)
-* [Dart Programming in 4 hours \| Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w) - Mike Dane (Youtube)
+* [Dart Programming in 4 hours \| Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w) - Mike Dane (YouTube)
 * [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) - Mahmud Ahsan (FreeCodeCamp)
 * [Dart Programming Tutorial \| Learn the Dart for Flutter](https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter) (Udemy)
 
@@ -441,6 +441,7 @@
 * [Golang in under an hour](https://www.youtube.com/watch?v=N0fIANJkwic) - Eli Goldberg
 * [Golang Tutorial - Learn Go Programming Language](https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/) - GeeksforGeeks
 * [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com) - Jon Calhoun (email address *required*)
+* [Learn Go \| Learn Go Programming](https://golangr.com) - golangr.com
 * [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) - FreeCodeCamp
 * [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
 
@@ -464,11 +465,11 @@
 * [Build Dynamic Websites](https://web.archive.org/web/20210812200413/http://cs75.tv/2010/fall/) - David J. Malan [(YouTube)](https://www.youtube.com/playlist?list=PLvJoKWRPIu8GhAhDBAH0BFB9BS7YxM1WT)
 * [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/) - Chris DeLeon (Udemy)
 * [Complete HTML/CSS BootCamp](https://frontendmasters.com/bootcamp/) - FrontEnd Masters
-* [Conquering freeCodeCamp's Curriculum](https://youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH) - Florin Pop (Youtube)
+* [Conquering freeCodeCamp's Curriculum](https://youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH) - Florin Pop (YouTube)
 * [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) - Vishwas Gopinath (Udemy)
 * [CSS Grid](https://cssgrid.io) - Wesbos
 * [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
-* [CSS Tutorials](https://youtube.com/playlist?list=PLDyQo7g0_nsUjf046cCHKJ16U1SoXrElZ) - Dev Ed (Youtube)
+* [CSS Tutorials](https://youtube.com/playlist?list=PLDyQo7g0_nsUjf046cCHKJ16U1SoXrElZ) - Dev Ed (YouTube)
 * [CSS3 tutorial for beginners \| Learn CSS3](https://www.udemy.com/course/css3-tutorial-for-beginners-learn-css3/) - Udemy
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
 * [HTML & CSS](https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - Brad Traversy, Traversy Media (YouTube)
@@ -535,7 +536,7 @@
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
 * [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - André Staltz
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath (YouTube)
-* [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function» (Youtube)
+* [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function» (YouTube)
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 * [Intro To JavaScript Unit Testing & BDD](https://www.youtube.com/watch?v=u5cLK1UrFyQ) - Traversy Media
 * [Javascript Array Methods](https://youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2) - Florin Pop (YouTube)
@@ -544,7 +545,7 @@
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
 * [Javascript Mini Course 2020](https://www.udemy.com/course/javascript-essentials-mini-course/) - Kalob Taulien (Udemy)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - The Net Ninja
-* [JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Programming with Mosh (youtube)
+* [JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Programming with Mosh (YouTube)
 * [JavaScript Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax) - Programming with Mosh (YouTube)
 * [Javascript30](https://javascript30.com) - Wesbos
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
@@ -599,12 +600,12 @@
 #### NodeJS
 
 * [Beginner's Series to: Node.js](https://youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer (YouTube)
-* [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q) - Academind (Youtube)
-* [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - Brad Traversy, Traversy Media (Youtube)
+* [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q) - Academind (YouTube)
+* [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - Brad Traversy, Traversy Media (YouTube)
 * [ExpressJS Fundamentals](https://www.udemy.com/course/expressjs-fundamentals/) - Patrick Schroeder (Udemy)
 * [Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY) - John Smilga, Coding Addict (YouTube)
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
-* [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
+* [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (YouTube)
 * [Node.js Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) - The Net Ninja
 * [Node.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG) - Telusko (YouTube)
 * [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4) - Moshfegh Hamedani, Programming with Mosh (YouTube)
@@ -647,7 +648,7 @@
 
 #### Vue.js
 
-* [Full Stack Vue.js, Express & MongoDB](https://www.youtube.com/playlist?list=PLillGF-RfqbYSx-Ab1xWVanGKtowTsnNm) - Traversy Media (Youtube)
+* [Full Stack Vue.js, Express & MongoDB](https://www.youtube.com/playlist?list=PLillGF-RfqbYSx-Ab1xWVanGKtowTsnNm) - Traversy Media (YouTube)
 * [Get Started with Nuxt](https://explorers.netlify.com/learn/get-started-with-nuxt) - Debbie O'Brien (Netlify)
 * [Internationalization with vue-i18n](https://vueschool.io/courses/internationalization-with-vue-i18n)
 * [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
@@ -657,7 +658,7 @@
 * [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone)
 * [Vue.js Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
-* [Vue.js Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) - The Net Ninja (Youtube)
+* [Vue.js Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) - The Net Ninja (YouTube)
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
 
 
@@ -698,6 +699,7 @@
 
 * [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud065) - AWS (Udacity)
 * [Caltech's Learning From data](https://work.caltech.edu/telecourse.html)
+* [Complete Machine Learning in Python playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe) - Krish Naik (YouTube)
 * [Deep Learning Fundamentals by DeepLearning.TV](https://cognitiveclass.ai/courses/introduction-deep-learning) (cognitiveclass.ai)
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) (Kaggle)
@@ -707,7 +709,6 @@
 * [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Machine Learning Tutorial Python \| Machine Learning For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) - Dhaval Patel
-* [Machine Learning with Python - Youtube Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe) - Krish Naik (YouTube)
 * [Machine Learning with Python by Saeed Aghabozorgi](https://cognitiveclass.ai/courses/machine-learning-with-python) (cognitiveclass.ai)
 * [Machine Learning with Python: Zero to GBMs](https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms) (Jovian)
 * [Made with ML](https://madewithml.com) - Goku Mohandas (Applied ML · MLOps · Production)
@@ -892,7 +893,7 @@
 
 ### Robotics
 
-* [Introduction to RTOS](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) - Shawn Hymel, Digi-Key (Youtube)
+* [Introduction to RTOS](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) - Shawn Hymel, Digi-Key (YouTube)
 * [Robotics 1](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) - A. De Luca
 
 
@@ -919,7 +920,7 @@
 
 ### Spark
 
-* [Spark Tutorial | Spark Tutorial for Beginners | Apache Spark Full Course - Learn Apache Spark 2020](https://www.youtube.com/watch?v=zC9cnh8rJd0) Great Learning
+* [Spark Tutorial \| Spark Tutorial for Beginners \| Apache Spark Full Course - Learn Apache Spark 2020](https://www.youtube.com/watch?v=zC9cnh8rJd0) Great Learning
 
 
 ### Scala
@@ -940,8 +941,8 @@
 
 ### Solidity
 
-* [Learn Solidity](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg) - Will it Scale (Youtube)
-* [MASTER Solidity for Blockchain](https://youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g) - Dapp University (Youtube)
+* [Learn Solidity](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg) - Will it Scale (YouTube)
+* [MASTER Solidity for Blockchain](https://youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g) - Dapp University (YouTube)
 * [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY) - Gregory McCubbin @ freeCodeCamp.org & Dapp University (YouTube)
 
 

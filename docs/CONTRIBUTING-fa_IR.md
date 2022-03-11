@@ -1,4 +1,4 @@
-*[این متن را در زبان‌های دیگر بخوانید](../README.md#translations)*
+*[این متن را در زبان‌های دیگر بخوانید](README.md#translations)*
 
 
 <div dir="rtl" markdown="1">
@@ -10,7 +10,7 @@
 
 ## مرام‌نامه‌ی همکار
 
-مشارکت در این پروژه به معنی موافقت با احترام به [مرام‌نامه‌ی](CODE_OF_CONDUCT-fa_IR.md) این مخزن است. ([translations](../README.md#translations))
+مشارکت در این پروژه به معنی موافقت با احترام به [مرام‌نامه‌ی](CODE_OF_CONDUCT-fa_IR.md) این مخزن است. ([translations](README.md#translations))
 
 
 ## به طور خلاصه
@@ -33,7 +33,7 @@
 5. GitHub Actions تست‌هایی را اجرا می‌کند که مطمئن شود **فهرست شما الفبایی است** و **قوانین فرمت‌بندی رعایت شده است**. **مطمئن شوید که** تغییرات شما تست‌ها را با موفقیت گذرانده است.
 
 
-<!----><a name="guidelines"></a>
+<!----><a id="guidelines"></a>
 ### راهنماها
 
 * مطمئن شوید که یک کتاب رایگان است. اگر لازم بود، دوباره هم بررسی کنید. اگر درباره‌ی علت این که فکر می‌کنید کتاب رایگان است در پول‌ریکوئست (PR)، کامنت بگذارید، به ادمین‌ها کمک کرده‌اید.
@@ -61,7 +61,7 @@
 * اگر پیش از دانلود، نشانی ایمیل یا ساخت حساب کاربری خواسته می‌شود، در پرانتز توضیح متناسبی بنویسید. مثلا: `(نشانی ایمیل *خواسته می‌شود* اما اجباری نیست)`.
 
 
-<!----><a name="formatting"></a>
+<!----><a id="formatting"></a>
 ### فرمت‌بندی
 
 * همه فهرست‌ها فایل‌های ".md" هستند. سعی کنید دستور زبان [Markdown](https://guides.github.com/features/mastering-markdown/) را یاد بگیرید. ساده است!
@@ -131,7 +131,7 @@
     خوب: * [یک کتاب خیلی عالی (1970)](https://example.org/book.html) - نام نویسنده
     ```
 
-* <a name="in_process"></a>کتاب‌های در دست تالیف:
+* <a id="in_process"></a>کتاب‌های در دست تالیف:
 
     ```text
     خوب: * [کتابی که عالی خواهدشد](http://example.com/book2.html) - نام نویسنده (HTML) (:construction: *in process*)
@@ -140,7 +140,7 @@
 
 ### خودکارسازی
 
-* قوانین فرمت‌بندی از طریق [GitHub Actions](https://docs.github.com/en/actions) با استفاده از [fpb-lint](https://github.com/vhf/free-programming-books-lint) بررسی می‌شوند ([`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml) را ببینید)
+* قوانین فرمت‌بندی از طریق [GitHub Actions](https://docs.github.com/en/actions) با استفاده از [fpb-lint](https://github.com/vhf/free-programming-books-lint) بررسی می‌شوند ([`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml) را ببینید)
 * اعتبارسنجی لینک‌ها با استفاده از [awesome_bot](https://github.com/dkhamsing/awesome_bot) انجام می‌شود.
 * برای اجرای اعتبارسنجی لینک‌ها، کامیتی پوش کنید که در بدنه‌ی آن `check_urls=file_to_check` نوشته شده باشد:
 

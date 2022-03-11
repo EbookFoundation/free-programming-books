@@ -208,6 +208,7 @@
 
 ### 设计模式
 
+* [深入设计模式](https://refactoringguru.cn/design-patterns)
 * [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 * [图说设计模式](https://github.com/me115/design_patterns)
 
@@ -334,12 +335,12 @@
 * [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [精通C#(第6版)](http://book.douban.com/subject/24827879/)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
@@ -484,6 +485,7 @@
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、为之漫笔(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)
 * [你不知道的Javascript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+* [现代 JavaScript 教程](https://zh.javascript.info) - Ilya Kantor
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) - 开源中国
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com) - 阮一峰

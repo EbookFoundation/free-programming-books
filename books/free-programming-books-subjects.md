@@ -674,7 +674,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e2p.pdf) - Thomas G. Wong (PDF)
 * [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html)
-* [Quantum Computing for the Quantum Curious](https://link.springer.com/content/pdf/10.1007%2F978-3-030-61601-4.pdf) - C Hughes,J Isaacson, A Perry, R F. Sun, J Turner (PDF)
+* [Quantum Computing for the Quantum Curious](https://link.springer.com/content/pdf/10.1007%2F978-3-030-61601-4.pdf) - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner (PDF)
 
 
 ### Regular Expressions

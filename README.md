@@ -4,7 +4,6 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)&#160;
-[![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg)](docs/CODE_OF_CONDUCT.md)&#160;
 <!-- [![Hacktoberfest 2021 stats](https://img.shields.io/github/hacktoberfest/2021/EbookFoundation/free-programming-books?label=Hacktoberfest+2021)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged+created%3A2021-10-01..2021-10-31) -->
 
 </div>
@@ -34,7 +33,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) now administers the rep
 
 ## How To Contribute
 
-Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).
+Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).
 
 Click on some of the following badges to filter by those items you could help to solve:
 

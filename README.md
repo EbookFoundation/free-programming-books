@@ -4,12 +4,12 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)&#160;
-[![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg)](docs/CODE_OF_CONDUCT.md)<!-- [![Hacktoberfest 2021 stats](https://img.shields.io/github/hacktoberfest/2021/EbookFoundation/free-programming-books?label=Hacktoberfest+2021)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged+created%3A2021-10-01..2021-10-31) -->    
-[![Website: https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Website&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/)
+[![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg)](docs/CODE_OF_CONDUCT.md)&#160;
+<!-- [![Hacktoberfest 2021 stats](https://img.shields.io/github/hacktoberfest/2021/EbookFoundation/free-programming-books?label=Hacktoberfest+2021)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged+created%3A2021-10-01..2021-10-31) -->
 
 </div>
 
-This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
+This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).    [![Website: https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Website&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/)
 
 
 ## Intro

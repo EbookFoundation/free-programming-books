@@ -153,8 +153,8 @@
 
 ### HTML / CSS
 
-* [برمجة المواقع | تعلم لغة الhtml من الصفر](https://www.youtube.com/playlist?list=PLYyqC4bNbCIfMY5CoGmiWaPi9l86qaz5B) - أكاديمية ترميز
-* [برمجة المواقع | سلسلة دروس لغة css](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu) - أكاديمية ترميز
+* [برمجة المواقع |\ تعلم لغة الhtml من الصفر](https://www.youtube.com/playlist?list=PLYyqC4bNbCIfMY5CoGmiWaPi9l86qaz5B) - أكاديمية ترميز
+* [برمجة المواقع |\ سلسلة دروس لغة css](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu) - أكاديمية ترميز
 * [CSS Art Tutorials&rlm;](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzxCiht69IlCe0_VeIuh4ty) - Codezilla
 * [HTML And CSS Template 1&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) - Elzero Web School
 * [HTML And CSS Template 2&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t) - Elzero Web School

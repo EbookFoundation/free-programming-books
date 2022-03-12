@@ -286,7 +286,7 @@
 * [Arabic Django&rlm;](https://www.youtube.com/playlist?list=PLdZYzC8fohEKjuYyvITqYc2vL0lAWRvhs) - Elsafy Hegazy
 * [Django 2.x](https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4) - شبكة علوم
 * [Django Create Blog](https://www.youtube.com/playlist?list=PLTcPeoMjkuCyoKpr6II_2aXUUOmtCDW4f) - شبكة علوم
-* [Django Tutorial for Beginners | كورس دجانجو كامل للمبتدئين](https://www.youtube.com/playlist?list=PLknwEmKsW8OtK_n48UOuYGxJPbSFrICxm) - Abdelrahman Gamal
+* [Django Tutorial for Beginners \| كورس دجانجو كامل للمبتدئين](https://www.youtube.com/playlist?list=PLknwEmKsW8OtK_n48UOuYGxJPbSFrICxm) - Abdelrahman Gamal
 
 
 #### Flask

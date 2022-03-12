@@ -276,7 +276,7 @@
 * [Learn Python3&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy
 * [Master Python from Beginner to Advanced in Arabic - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla
 * [Mastering Python&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) - Elzero Web School
-* [Mastering Python Tutorial - Python for Beginners | كورس بايثون كامل للمبتدئين](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) - Abdelrahman Gamal
+* [Mastering Python Tutorial - Python for Beginners \| كورس بايثون كامل للمبتدئين](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) - Abdelrahman Gamal
 * [Object Oriented Programming - شرح البرمجة كائنية التوجه](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) - Codezilla
 * [Python Beginners Tutorial](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JCaY0EKssdqbiqq4sgRlUC) - محمد الدسوقي
 

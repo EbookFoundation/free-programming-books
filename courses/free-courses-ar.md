@@ -193,7 +193,7 @@
 * [JavaScript Files API](https://www.youtube.com/playlist?list=PLrvHCesHYw38480FPUmm3l2iJd8jSmA5u) - برمجيات حسان
 * [JavaScript JSON API&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwH_PyuEFjk3OvXflJJrDRQ) - Elzero Web School
 * [JavaScript OOP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF) - Elzero Web School
-* [Javascript Tutorial | كورس جافا سكريبت كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE) - Abdelrahman Gamal
+* [Javascript Tutorial \| كورس جافا سكريبت كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE) - Abdelrahman Gamal
 * [JavaScript Unit Testing With Jest&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O) - Elzero Web School
 * [Learn JavaScript in Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) - Elzero Web School
 

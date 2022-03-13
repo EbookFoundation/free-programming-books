@@ -8,7 +8,7 @@
 
 </div>
 
-This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).    [![Website: https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Website&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/)
+This page is available as an easy-to-read website at [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=https%3A%2F%2Febookfoundation.github.io&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/)
 
 
 ## Intro

@@ -168,7 +168,7 @@
 * [Guida Java](http://www.html.it/guide/guida-java/?cref=development) (HTML)
 * [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Java 9 e 10, la guida](https://www.html.it/guide/java-9-la-guida/) (HTML)
-* [Java Mattone dopo Mattone](http://www.istitutopalatucci.it/libri/scienze/Java%20-%20Mattone%20dopo%20mattone.pdf) (PDF)
+* [Java Mattone dopo Mattone](http://www.istitutopalatucci.it/libri/scienze/Java%20-%20Mattone%20dopo%20mattone.pdf) - Massimiliano Tarquini (PDF)
 * [Materiale extra online de "Il nuovo Java"](https://www.nuovojava.it/assets/download/nuovoJava-materiale_extra_online.pdf) - Claudio De Sio Cesari (PDF)
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 

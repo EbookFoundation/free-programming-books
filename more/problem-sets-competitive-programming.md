@@ -68,7 +68,10 @@
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
-* [KDD Cup](https://www.kdd.org/kdd2019/kdd-cup)
+* [KDD Cup 2022](https://kdd.org/kdd2022/) - Aidong Zhang, Huzefa Rangwala, et al.
+    * [KDD Cup 2019](https://web.archive.org/web/20210118021527/https://www.kdd.org/kdd2019/kdd-cup) - Vipin Kumar, Ankur Teredesai, et al. *(:card_file_box: archived)*
+    * [KDD Cup 2020](https://web.archive.org/web/20210617000028/https://www.kdd.org/kdd2020/kdd-cup) - Jie Tang, Jieping Ye, Claudia Perlich, Iryna Skrypnyk, et al. *(:card_file_box: archived)*
+    * [KDD Cup 2021](https://kdd.org/kdd2021) - Feida Zhu, Beng Chin Ooi, Chunyan Miao, et al.
 
 
 ### Information security

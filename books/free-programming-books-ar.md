@@ -8,7 +8,6 @@
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
-  * [Next.js](#next.js)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)

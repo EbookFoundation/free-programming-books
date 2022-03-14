@@ -100,7 +100,7 @@
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](https://practice.geeksforgeeks.org)
-* [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
+* [Google Code Jam - Practise](https://codingcompetitions.withgoogle.com/codejam/archive)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
 * [HDU Online Judge](http://acm.hdu.edu.cn)

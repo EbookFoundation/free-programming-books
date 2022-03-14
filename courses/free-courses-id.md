@@ -139,6 +139,7 @@
 * [Belajar Golang Basic Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDztO-BFc9R5afhP26Dhsgm) - Sekolah Koding
 * [Golang Fundamental](https://buildwithangga.com/kelas/golang-fundamental?thumbnail=nk4neM2UyG.54&main_leads=browse) - BuildWithAngga
 * [Golang Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH-0i9dzMzLw6FKVrFWv3QvQ) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Mahir Golang Dari Dasar](https://youtube.com/playlist?list=PL1aMeb5UP_PHPHEBNrZ3L1V4qpyuC6Aa8) - IDStack
 * [Tutorial Golang Fundamental Bahasa Indonesia](https://www.youtube.com/watch?v=xzNT4JywW0A) - Agung Setiawan
 * [Tutorial Golang Web API Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=GjI0GSvmcSU) - Agung Setiawan
 * [Tutorial Golang Website Development Bahasa Indonesia](https://www.youtube.com/watch?v=K76y2_ZQYwY) - Agung Setiawan
@@ -219,6 +220,7 @@
 * [ReactJS-Firebase Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ2CnIvj7tI0zoijDSgR1m9j) - Prawito Hudoro
 * [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb) - Prawito Hudoro
 * [ReactJS Untuk Pemula](https://www.petanikode.com/reactjs-untuk-pemula/) - Petani Kode
+* [Tutorial Project React.js 2022](https://youtube.com/playlist?list=PL1aMeb5UP_PHUa0RxQDYJYZZNc_h-jE67) - IDStack
 * [Tutorial React JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - Lampung JS
 * [Tutorial React Native Bahasa Indonesia (Futsal App)](https://www.youtube.com/playlist?list=PLIan8aHxsPj2NeWJew3o86bSptVPXOppa) - Wahidev Academy
 * [Tutorial React Native Indonesia](https://youtube.com/playlist?list=PLU4DS8KR-LJ3SP3PpRb870UoT_0_rjLpV) - Prawito Hudoro (YouTube)
@@ -229,6 +231,10 @@
 * [Tutorial Vue JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ) - Sekolah Koding
 * [Tutorial Vuejs Bahasa Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-Z6Gt8uO1XMp4oyMlE3gml) - Baledemy
 * [Tutorial VueJs dengan API Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj3a7oLHb2a8pw8IHBq45WYu) - Wahidev Academy
+* [Vue 3 - Pinia](https://youtube.com/playlist?list=PLnQvfeVegcJYV7uSax0W8z3peCyiOxr6W) - Nusendra Hanggarawan (Nusendra.com)
+* [Vue 3 Advance](https://youtube.com/playlist?list=PLnQvfeVegcJbbmFmN5ZMnkylQXp6mb7gP) - Nusendra Hanggarawan (Nusendra.com)
+* [Vue 3 Composition API](https://youtube.com/playlist?list=PLnQvfeVegcJbn7ZDOUNbRN25obY4htSlB) - Nusendra Hanggarawan (Nusendra.com)
+* [Vue 3 Dasar](https://youtube.com/playlist?list=PLnQvfeVegcJbV2NGXpay7ulU6ybASzAlG) - Nusendra Hanggarawan (Nusendra.com)
 
 
 ### Kotlin
@@ -289,13 +295,14 @@
 * [OOP Dasar pada PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p) - Web Programming UNPAS
 * [PHP The Right Way](https://www.youtube.com/playlist?list=PLFIM0718LjIVcKOrB2tFKi4eWYXHvS3CU) - Web Programming UNPAS
 * [PHP Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH9EmZy4zYfW1ATIJ-qMXxGt) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
-* [Tutorial CodeIgniter 4](https://www.youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) - Web Programming UNPAS
 * [Tutorial CodeIgniter untuk pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCYh65VSFR2yzC7CuPBcAjt) - Sekolah Koding
 
 
 #### Codeigniter
 
 * [Tutorial Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_5lzhkUtrV6ygriYcttMlg) - Framework Indonesia
+* [TUTORIAL CODEIGNITER 4](https://youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) - Sandhika Galih (Web Programming UNPAS)
+* [Tutorial Codeigniter 4 Indonesia](https://youtube.com/playlist?list=PL1aMeb5UP_PFkC4mY3prujavZBehsWAC3) - IDStack
 * [Tutorial Sistem Informasi Akademik dengan Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_hXzGACf988F1ojvQlYmB0) - Framework Indonesia
 
 

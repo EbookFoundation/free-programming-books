@@ -68,7 +68,6 @@
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
-* [KDD Cup](https://www.kdd.org/kdd2019/kdd-cup)
 
 
 ### Information security

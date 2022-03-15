@@ -83,6 +83,7 @@
 * [500 Data structures and algorithms interview questions and their solutions in C++](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
+* [AdventJS - 25 días de retos con JavaScript](https://adventjs.dev) - Miguel Ángel Durán «midudev» *(GitHub account requested, not required)*
 * [Anarchy Golf](http://golf.shinh.org)
 * [APL Practice Problems](https://problems.tryapl.org)
 * [BaekJoon Online Judge](http://www.acmicpc.net)

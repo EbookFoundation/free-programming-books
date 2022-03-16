@@ -39,8 +39,7 @@
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
 * [Typescript](#typescript)
-
-
+* [Paidcourse](#paidcourse)
 ### Android
 
 * [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) - Dicoding, membutuhkan registrasi
@@ -378,3 +377,8 @@
 * [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan (YouTube)
 * [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan (YouTube)
+
+### Paidcourse
+* [Frond-End Developer](https://codepolitan.com/roadmap/pemrograman-untuk-pemula/) - Codepolitan.com (Website)
+* [Back-End Developer](https://codepolitan.com/roadmap/pzn-jagoan-php/) - Codepolitan.com (Website)
+* [Fullstack Developer](https://codepolitan.com/roadmap/menjadi-fullstack-web-developer/) - Codepolitan.com (Website)

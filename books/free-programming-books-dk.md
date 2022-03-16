@@ -9,8 +9,8 @@
 
 ### C
 
-* [Programmering i C](http://people.cs.aau.dk/~normark/c-prog-06/pdf/all.pdf) - Kurt Nørmark (PDF)
 * [Beej's Guide til Netvarksprogrammierung](https://web.archive.org/web/20190701062226/http://artcreationforever.com/bgnet.html) - B. Hall (HTML)
+* [Programmering i C](http://people.cs.aau.dk/~normark/c-prog-06/pdf/all.pdf) - Kurt Nørmark (PDF)
 
 
 ### <a id="csharp"></a>C\#

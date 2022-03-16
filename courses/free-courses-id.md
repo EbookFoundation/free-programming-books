@@ -378,7 +378,7 @@
 * [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan (YouTube)
 * [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan (YouTube)
 
-### Paidcourse
-* [Frond-End Developer](https://codepolitan.com/roadmap/pemrograman-untuk-pemula/) - Codepolitan.com (Website)
-* [Back-End Developer](https://codepolitan.com/roadmap/pzn-jagoan-php/) - Codepolitan.com (Website)
-* [Fullstack Developer](https://codepolitan.com/roadmap/menjadi-fullstack-web-developer/) - Codepolitan.com (Website)
+### Freecourse
+* [SantriKoding Class](https://santrikoding.com/kelas) - Santrikoding.com (Website)
+* [PHP-Bootstrap](https://santrikoding.com/kelas/php-crud-mysqli-menggunakan-bootstrap-4) - Santrikoding.com (Website)
+* [Codeigniter-Bootstrap](https://santrikoding.com/kelas/crud-dasar-framework-codeigniter-bootstrap-4) - Santrikoding.com (Website)

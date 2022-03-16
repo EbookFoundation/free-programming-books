@@ -13,6 +13,11 @@
 * [Ajax](http://etutoriale.ro/articles/1483/1/Tutorial-Ajax/)
 
 
+### C
+
+* [Ghidul Beej pentru Programarea in Retea - Folosind socket de internet](https://web.archive.org/web/20180710112954/http://weknowyourdreams.com/beej.html)
+
+
 ### HTML
 
 * [HTML](http://tutorialehtml.com/ro/introducere-in-html/)

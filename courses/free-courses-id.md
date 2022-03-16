@@ -39,7 +39,7 @@
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
 * [Typescript](#typescript)
-* [Paidcourse](#paidcourse)
+* [Freecourse](#freecourse)
 ### Android
 
 * [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) - Dicoding, membutuhkan registrasi

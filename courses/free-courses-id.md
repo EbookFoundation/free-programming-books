@@ -39,8 +39,7 @@
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
 * [Typescript](#typescript)
-
-
+* [Freecourse](#freecourse)
 ### Android
 
 * [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) - Dicoding, membutuhkan registrasi
@@ -378,3 +377,8 @@
 * [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan (YouTube)
 * [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan (YouTube)
+
+### Freecourse
+* [SantriKoding Class](https://santrikoding.com/kelas) - Santrikoding.com (Website)
+* [PHP-Bootstrap](https://santrikoding.com/kelas/php-crud-mysqli-menggunakan-bootstrap-4) - Santrikoding.com (Website)
+* [Codeigniter-Bootstrap](https://santrikoding.com/kelas/crud-dasar-framework-codeigniter-bootstrap-4) - Santrikoding.com (Website)

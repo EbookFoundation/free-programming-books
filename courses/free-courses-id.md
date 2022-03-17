@@ -178,7 +178,8 @@
 * [Belajar Java Untuk Pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDUvrO3Bc_VUvIjWKnYIRJ1) - Hilman Ramadhan, Sekolah Koding (YouTube)
 * [JAVA TUTORIAL - BAHASA INDONESIA](https://www.youtube.com/playlist?list=PL-CtdCApEFH-p_Q2GyK4K3ORoAT0Yt7CX) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Memulai Pemrograman dengan Java](https://www.dicoding.com/academies/60) - Dicoding, membutuhkan registrasi
-* [Java Dasar](https://www.malasngoding.com/category/java/) - malasngoding
+* [Java Dasar](https://www.malasngoding.com/category/java/) - Muzanni (Malas Ngoding)
+
 
 #### Spring
 

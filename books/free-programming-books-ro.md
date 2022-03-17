@@ -1,6 +1,7 @@
 ### Index
 
 * [Ajax](#ajax)
+* [C](#c)
 * [HTML](#html)
 * [MySQL](#mysql)
 * [PHP](#php)

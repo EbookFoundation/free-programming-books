@@ -3,6 +3,7 @@
 * [0 - Programozási nyelv független](#0---programozasi-nyelv-fuggetlen)
 * [Ada](#ada)
 * [Arduino](#arduino)
+* [C](#c)
 * [C++](#cpp)
 * [HTML / CSS](#html-css)
 * [Java](#java)

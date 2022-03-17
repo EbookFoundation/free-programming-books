@@ -134,7 +134,7 @@
 ### C
 
 * [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf) - Денис Юричев (PDF)
-* [Краткое руководство Beej к GDB](https://paintingvalley.com/ru-bggdb) - (HTML)
+* [Краткое руководство Beej к GDB](https://paintingvalley.com/ru-bggdb) - Brian "Beej Jorgensen" Hall (HTML)
 * [Особенности языка C. Учебное пособие](https://younglinux.info/c) - C. Шапошникова (PDF)
 * [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
 * [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов

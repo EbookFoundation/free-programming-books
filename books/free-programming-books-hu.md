@@ -40,7 +40,7 @@
 
 ### C
 
-* [Beej útmutatója a hálózati programozáshoz - Internet Socketek használatával](https://web.archive.org/web/20180630204236/http://weknowyourdreams.com/bgnet-sw.html) - B. Hall (HTML)
+* [Beej útmutatója a hálózati programozáshoz - Internet Socketek használatával](https://web.archive.org/web/20180630204236/http://weknowyourdreams.com/bgnet-sw.html) - B. Hall (HTML) *(:card_file_box: archived)*
 
 
 ### <a id="cpp"></a>C++

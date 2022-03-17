@@ -97,6 +97,7 @@ This project lists books and other resources grouped by genres:
 + [Portuguese (Portugal)](books/free-programming-books-pt_PT.md)
 + [Romanian (Romania) / limba română / român](books/free-programming-books-ro.md)
 + [Russian / Русский язык](books/free-programming-books-ru.md)
++ [Serbian / српски језик / srpski jezik](books/free-programming-books-sr.md)
 + [Slovak / slovenčina](books/free-programming-books-sk.md)
 + [Spanish / español / castellano](books/free-programming-books-es.md)
 + [Swedish / Svenska](books/free-programming-books-sv.md)

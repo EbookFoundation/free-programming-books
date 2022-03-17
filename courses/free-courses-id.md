@@ -299,7 +299,7 @@
 * [PHP The Right Way](https://www.youtube.com/playlist?list=PLFIM0718LjIVcKOrB2tFKi4eWYXHvS3CU) - Web Programming UNPAS
 * [PHP Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH9EmZy4zYfW1ATIJ-qMXxGt) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Tutorial CodeIgniter untuk pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCYh65VSFR2yzC7CuPBcAjt) - Sekolah Koding
-* [PHP Dasar](https://www.malasngoding.com/category/php/) - malasngoding
+* [PHP Dasar](https://www.malasngoding.com/category/php/) - Diki Alfarabi Hadi, Muzanni (Malas Ngoding)
 
 
 #### Codeigniter

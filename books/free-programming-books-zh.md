@@ -330,7 +330,7 @@
 ### C
 
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
-* [Beej's Guide to Network Programming 簡體中文版](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-ME5zR-03ZEHgp2kv7bW%2F-MF9EIY-s19_w19_Unae%2F-MF9F-HCs1nLOkY1mLVi%2FBeej-cn-20140429.zip?alt=media&token=de27f96b-2aed-4c97-8879-649638c7559f) - B. Hall, 廖亚伦译 (PDF)
+* [Beej's Guide to Network Programming 簡體中文版](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-ME5zR-03ZEHgp2kv7bW%2F-MF9EIY-s19_w19_Unae%2F-MF9F-HCs1nLOkY1mLVi%2FBeej-cn-20140429.zip?alt=media&token=de27f96b-2aed-4c97-8879-649638c7559f) - Brian "Beej Jorgensen" Hall, 廖亚伦译 (PDF)
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
 * [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
 

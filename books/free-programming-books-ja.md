@@ -660,6 +660,7 @@
 
 ### Scratch
 
+* [Scratch for CS First でプログラミングをはじめよう](https://csfirst.withgoogle.com/c/cs-first/ja/welcome-to-cs-first/overview.html) - Grow with Google プログラム
 * [炎の型 With Scratch (ゲームプログラム入門)](https://kyorohiro.gitbooks.io/doc_scratch) - kyorohiro
 
 

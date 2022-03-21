@@ -90,7 +90,7 @@
 
 ### C
 
-* [Guida di Beej alla Programmazione di Rete - Usando Socket Internet](http://linguaggioc.altervista.org/dl/GuidaDiBeejAllaProgrammazioneDiRete.pdf) - B. Hall, Tradotto da Fabrizio Pani (PDF)
+* [Guida di Beej alla Programmazione di Rete - Usando Socket Internet](http://linguaggioc.altervista.org/dl/GuidaDiBeejAllaProgrammazioneDiRete.pdf) - Brian "Beej Jorgensen" Hall, Fabrizio Pani (PDF)
 * [Il linguaggio C - Guida pratica alla programmazione](https://eineki.files.wordpress.com/2010/02/guidac.pdf) - (PDF)
 * [Linguaggio C - ANSI C](http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf) - B.W. Kernighan e D.M. Ritchie (PDF)
 * [Linguaggio C - Guida alla programmazione](http://www.cbmc.it/~marchettil/Tandem2016/Bellini.pdf) - A. Bellini e A. Guidi _Anno di pubblicazione_ 1999 (PDF)
@@ -168,7 +168,7 @@
 * [Guida Java](http://www.html.it/guide/guida-java/?cref=development) (HTML)
 * [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Java 9 e 10, la guida](https://www.html.it/guide/java-9-la-guida/) (HTML)
-* [Java Mattone dopo Mattone](http://www.digididattica.it/pluginfile.php/2127/mod_resource/content/1/javamattone.pdf) (PDF)
+* [Java Mattone dopo Mattone](http://www.istitutopalatucci.it/libri/scienze/Java%20-%20Mattone%20dopo%20mattone.pdf) - Massimiliano Tarquini (PDF)
 * [Materiale extra online de "Il nuovo Java"](https://www.nuovojava.it/assets/download/nuovoJava-materiale_extra_online.pdf) - Claudio De Sio Cesari (PDF)
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 

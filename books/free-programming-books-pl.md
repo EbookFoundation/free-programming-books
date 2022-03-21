@@ -59,7 +59,7 @@
 
 ### C
 
-* [Beej's Guide to Network Programming - Używanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - B. Hall, Przełożył Bartosz Zapałowski (PDF)
+* [Beej's Guide to Network Programming - Używanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - Brian "Beej Jorgensen" Hall, Przełożył Bartosz Zapałowski (PDF)
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
 * [Kurs języka C](http://kurs-c.manifo.com/konfiguracja-srodowiska-298-547) - Mateusz Piaszczak
 * [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz

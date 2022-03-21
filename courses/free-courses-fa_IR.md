@@ -50,7 +50,7 @@
 ### JavaScript
 
 * [آموزش فارسی جاوا اسکریپت مقدماتی تا پیشرفته - JavaScript Tutorial](https://youtube.com/playlist?list=PLfbD3-Ao6cPpt5Y3Nkue_W-DrmdOLOaTH) - Mansour Kalagar
-* [دوره اموزشی جاوا اسکریپت از صفر](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF) - Silicium
+* [دوره اموزشی جاوا اسکریپت از صفر](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF) - Mehran Tarif (Silicium)
 
 
 #### React
@@ -120,7 +120,7 @@
 
 ### Django
 
-* [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium
+* [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Mehran Tarif (Silicium)
 * [سوکت نویسی با کتابخانه جنگو چنلز](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) - Shahriar Shariati
 * [Django2 All In One Course - دوره کامل جنگو و مهندسی بک اند](https://www.youtube.com/playlist?list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr) - Boby Cloud
 
@@ -136,6 +136,5 @@
 * [آموزش طراحی وب](https://www.youtube.com/playlist?list=PLF10DSJQktjlCvLNuyxNjMPIHThHuIVqG) - Siavash Mahmoudian
 * [برنامه نویسی وب](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74) - Mohammad Salehe
 * [برنامه نویسی وب با HTML و CSS](https://holosen.net/web-design/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)* 
-* [دوره اموزشی بوت استرپ 5](https://www.youtube.com/playlist?list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Mehran Tarif «Silicium»
+* [دوره اموزشی بوت استرپ 5](https://www.youtube.com/playlist?list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Mehran Tarif (Silicium)
 * [وب‌فریم‌ورک‌ها چگونه کار می‌کنند؟](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ33x-___WkhyTJ8dDPaoOPk) - Shahriar Shariati
-

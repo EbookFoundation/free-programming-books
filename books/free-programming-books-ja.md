@@ -276,6 +276,7 @@
 
 * [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
 * [C++入門](https://www.asahi-net.or.jp/~yf8k-kbys/newcpp0.html) - 小林健一郎
+* [C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) - 齋藤主裕, 石黒淳
 * [cpprefjp - C++ Reference Site in Japanese](https://cpprefjp.github.io)
 * [Google C++ スタイルガイド 日本語全訳](https://ttsuki.github.io/styleguide/cppguide.ja.html) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, ttsuki(翻訳)
 * [Standard Template Library プログラミング](https://web.archive.org/web/20170607163002/http://episteme.wankuma.com/stlprog) - επιστημη

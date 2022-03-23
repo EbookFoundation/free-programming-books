@@ -73,14 +73,6 @@
 * [Storia dell'informatica](http://www.dsi.unive.it/~pelillo/Didattica/Storia%20dell'informatica/) - M. Pelillo (PDF)
 
 
-#### AngularJS
-
-> :information_source: Vedi anche &#8230; [Angular](#angular)
-> 
-* [AngularJS, il supereroe dei framework JavaScript ...di Google](https://www.html.it/articoli/angularjs-il-supereroe-dei-framework-javascript-di-google/) - Andrea Chiarelli (HTML)
-* [Guida AngularJS](https://www.html.it/guide/guida-angularjs/) - Andrea Chiarelli (HTML)
-
-
 ### Android
 
 * [Guida Android](http://www.html.it/guide/guida-android/) (HTML)

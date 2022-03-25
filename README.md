@@ -127,6 +127,7 @@ This project lists books and other resources grouped by genres:
 + [Hindi / हिंदी](courses/free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](courses/free-courses-id.md)
 + [Italian / italiano](courses/free-courses-it.md)
++ [Japanese / 日本語](courses/free-courses-ja.md)
 + [Kazakh / қазақша](courses/free-courses-kk.md)
 + [Khmer / ភាសាខ្មែរ](courses/free-courses-km.md)
 + [Korean / 한국어 [韓國語]](courses/free-courses-ko.md)

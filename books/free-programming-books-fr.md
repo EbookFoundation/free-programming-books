@@ -104,19 +104,19 @@
 * [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
-### Caml / OCaml
-
-* [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) - Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
-* [Le langage Caml](https://caml.inria.fr/pub/distrib/books/llc.pdf) - Pierre Weis, Xavier Leroy (PDF)
-* [Programmation du système Unix en Objective Caml](https://web.archive.org/web/20211115022546/http://gallium.inria.fr/~remy/camlunix/) - Xavier Leroy, Didier Rémy
-
-
 ### C / C++
 
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet](http://vidalc.chez.com/lf/socket.html) - Brian "Beej Jorgensen" Hall (HTML)
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
 * [Programmation en Langage C et Systèmes Informatiques](https://sites.uclouvain.be/SystInfo/notes/Theorie/) - O. Bonaventure, E. Riviere, G. Detal, C. Paasch
+
+
+### Caml / OCaml
+
+* [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) - Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
+* [Le langage Caml](https://caml.inria.fr/pub/distrib/books/llc.pdf) - Pierre Weis, Xavier Leroy (PDF)
+* [Programmation du système Unix en Objective Caml](https://web.archive.org/web/20211115022546/http://gallium.inria.fr/~remy/camlunix/) - Xavier Leroy, Didier Rémy
 
 
 ### Coq

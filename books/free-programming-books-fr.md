@@ -1,52 +1,55 @@
 ### Index
 
-* [0 - Méta-listes](#0---méta-listes)
-* [1 - Non dépendant du langage](#1---non-dépendant-du-langage)
-  * [Algorithmique](#algorithmique)
-  * [Logiciels libres](#logiciels-libres)
-  * [Makefile](#makefile)
-  * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
-  * [Théorie des langages](#théorie-des-langages)
-* [Ada](#ada)
-* [Assembleur](#assembleur)
-* [Bash / Shell](#bash--shell)
-* [C / C++](#c--c)
-* [Caml / OCaml](#caml--ocaml)
-* [Coq](#coq)
-* [CSS](#css)
-* [Fortran](#fortran)
-* [Git](#git)
-* [Haskell](#haskell)
-* [Java](#java)
-* [JavaScript](#javascript)
-* [jQuery](#jquery)
-* [(La)TeX et associés](#latex-et-associés)
-  * [Asymptote](#asymptote)
-  * [LaTeX](#latex)
-  * [Metapost](#metapost)
-  * [PGF/TikZ](#pgftikz)
-  * [TeX](#tex)
-* [Lisp](#lisp)
-* [Lua](#lua)
-* [Mathématiques](#math%C3%A9matiques)
-* [Meteor](#meteor)
-* [Perl](#perl)
-* [PHP](#php)
-  * [Symfony](#symfony)
-* [Processing](#processing)
-* [Python](#python)
-  * [Django](#django)
-* [R](#r)
-* [Ruby](#ruby)
-* [Rust](#rust)
-* [Sage](#sage)
-* [Scilab](#scilab)
-* [Scratch](#scratch)
-* [SPIP](#spip)
-* [SQL](#sql)
-* [Systèmes d'exploitation](#systemes-d-exploitation)
-* [TEI](#TEI)
-* [Vim](#vim)
+- [Index](#index)
+- [0 - Méta-listes](#0---méta-listes)
+- [1 - Non dépendant du langage](#1---non-dépendant-du-langage)
+  - [Algorithmique](#algorithmique)
+  - [Logiciels libres](#logiciels-libres)
+  - [Makefile](#makefile)
+  - [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
+- [Ada](#ada)
+- [Assembleur](#assembleur)
+- [Bash / Shell](#bash--shell)
+- [C / C++](#c--c)
+- [Caml / OCaml](#caml--ocaml)
+- [Chaîne de blocs / Blockchain](#chaîne-de-blocs--blockchain)
+- [Coq](#coq)
+- [CSS](#css)
+- [Fortran](#fortran)
+- [Git](#git)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [jQuery](#jquery)
+- [Haskell](#haskell)
+- [(La)TeX et associés](#latex-et-associés)
+  - [LaTeX](#latex)
+    - [KOMA-Script](#koma-script)
+  - [Asymptote](#asymptote)
+  - [Metapost](#metapost)
+  - [PGF/TikZ](#pgftikz)
+  - [TeX](#tex)
+- [Lisp](#lisp)
+- [Mathématiques](#mathématiques)
+- [Lua](#lua)
+- [Meteor](#meteor)
+- [Perl](#perl)
+- [PHP](#php)
+  - [Symfony](#symfony)
+- [Processing](#processing)
+- [Python](#python)
+  - [Django](#django)
+- [R](#r)
+- [Ruby](#ruby)
+  - [Ruby on Rails](#ruby-on-rails)
+- [Rust](#rust)
+- [Sage](#sage)
+- [Scilab](#scilab)
+- [Scratch](#scratch)
+- [SPIP](#spip)
+- [SQL](#sql)
+- [Systèmes d'exploitation](#systèmes-dexploitation)
+- [TEI](#tei)
+- [Vim](#vim)
 
 
 ### 0 - Méta-listes
@@ -104,6 +107,14 @@
 * [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
+### C / C++
+
+* [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
+* [Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet](http://vidalc.chez.com/lf/socket.html) - Brian "Beej Jorgensen" Hall (HTML)
+* [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
+* [Programmation en Langage C et Systèmes Informatiques](https://sites.uclouvain.be/SystInfo/notes/Theorie/) - O. Bonaventure, E. Riviere, G. Detal, C. Paasch
+
+
 ### Caml / OCaml
 
 * [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) - Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
@@ -111,12 +122,9 @@
 * [Programmation du système Unix en Objective Caml](https://web.archive.org/web/20211115022546/http://gallium.inria.fr/~remy/camlunix/) - Xavier Leroy, Didier Rémy
 
 
-### C / C++
+### Chaîne de blocs / Blockchain
 
-* [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
-* [Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet](http://vidalc.chez.com/lf/socket.html) - Brian "Beej Jorgensen" Hall (HTML)
-* [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
-* [Programmation en Langage C et Systèmes Informatiques](https://sites.uclouvain.be/SystInfo/notes/Theorie/) - O. Bonaventure, E. Riviere, G. Detal, C. Paasch
+* [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://maitriser-ca.github.io/LivreMaitriserBitcoin) Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, html)
 
 
 ### Coq

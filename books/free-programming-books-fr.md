@@ -12,6 +12,7 @@
 * [Bash / Shell](#bash--shell)
 * [C / C++](#c--c)
 * [Caml / OCaml](#caml--ocaml)
+* [Chaîne de blocs / Blockchain](#chaîne-de-blocs--blockchain)
 * [Coq](#coq)
 * [CSS](#css)
 * [Fortran](#fortran)
@@ -117,6 +118,11 @@
 * [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) - Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
 * [Le langage Caml](https://caml.inria.fr/pub/distrib/books/llc.pdf) - Pierre Weis, Xavier Leroy (PDF)
 * [Programmation du système Unix en Objective Caml](https://web.archive.org/web/20211115022546/http://gallium.inria.fr/~remy/camlunix/) - Xavier Leroy, Didier Rémy
+
+
+### Chaîne de blocs / Blockchain
+
+* [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://maitriser-ca.github.io/LivreMaitriserBitcoin/) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, html)
 
 
 ### Coq

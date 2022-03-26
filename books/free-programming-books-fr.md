@@ -12,6 +12,7 @@
 * [Bash / Shell](#bash--shell)
 * [C / C++](#c--c)
 * [Caml / OCaml](#caml--ocaml)
+* [Chaîne de blocs / Blockchain](#chaîne-de-blocs--blockchain)
 * [Coq](#coq)
 * [CSS](#css)
 * [Fortran](#fortran)
@@ -104,6 +105,14 @@
 * [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
+### C / C++
+
+* [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
+* [Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet](http://vidalc.chez.com/lf/socket.html) - Brian "Beej Jorgensen" Hall (HTML)
+* [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
+* [Programmation en Langage C et Systèmes Informatiques](https://sites.uclouvain.be/SystInfo/notes/Theorie/) - O. Bonaventure, E. Riviere, G. Detal, C. Paasch
+
+
 ### Caml / OCaml
 
 * [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) - Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
@@ -111,12 +120,9 @@
 * [Programmation du système Unix en Objective Caml](https://web.archive.org/web/20211115022546/http://gallium.inria.fr/~remy/camlunix/) - Xavier Leroy, Didier Rémy
 
 
-### C / C++
+### Chaîne de blocs / Blockchain
 
-* [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
-* [Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet](http://vidalc.chez.com/lf/socket.html) - Brian "Beej Jorgensen" Hall (HTML)
-* [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
-* [Programmation en Langage C et Systèmes Informatiques](https://sites.uclouvain.be/SystInfo/notes/Theorie/) - O. Bonaventure, E. Riviere, G. Detal, C. Paasch
+* [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://maitriser-ca.github.io/LivreMaitriserBitcoin/) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, html)
 
 
 ### Coq

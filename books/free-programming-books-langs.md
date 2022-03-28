@@ -2275,7 +2275,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Solidity
 
-* [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/) - Tutorials Point (HTML, PDF)
+* [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/) - Tutorials Point (HTML)
 * [The Solidity Reference Guide](https://docs.soliditylang.org)
 
 

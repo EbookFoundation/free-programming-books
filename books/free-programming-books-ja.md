@@ -333,6 +333,7 @@
 
 ### Erlang
 
+* [Learn you some Erlang for great good!](https://www.ymotongpoo.com/works/lyse-ja/) - Fred Hebert, Yoshifumi Yamaguchi (HTML)
 * [お気楽 Erlang プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/erlang.html) - 広井誠
 
 

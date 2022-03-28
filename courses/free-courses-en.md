@@ -115,7 +115,6 @@
 * [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Jenny's lectures CS/IT NET&JRF
 * [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Moshfegh Hamedani (Programming with Mosh)
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego, HSE University
-* [Data Structures and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/) - Tutorials Point (HTML, PDF)
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset - (freeCodeCamp)
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 * [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas (Udacity)
@@ -381,7 +380,6 @@
 ### Docker
 
 * [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
-* [Docker Tutorial](https://www.tutorialspoint.com/docker/) - Tutorials Point (HTML, PDF)
 * [Docker Tutorial for Beginners ](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) - Thenewboston
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - FreeCodeCamp
 * [Docker Tutorial Videos \| DevOps Tool](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) - edureka!
@@ -439,7 +437,6 @@
 
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
 * [DevOps BootCamp](https://github.com/jeffotoni/goworkshopdevops) - Jefferson Otoni Lima et al.
-* [Go Tutorial](http://www.tutorialspoint.com/go/) - Tutorials Point (HTML, PDF)
 * [Golang \| Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews
 * [Golang basics](https://www.youtube.com/playlist?list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6) - Golang dojo
 * [Golang in under an hour](https://www.youtube.com/watch?v=N0fIANJkwic) - Eli Goldberg
@@ -697,7 +694,6 @@
 
 * [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/) - Tyler Neylon (HTML)
 * [Lua Interactive Crash Course](https://web.archive.org/web/20201111225216/luatut.com/crash_course.html)
-* [Lua Tutorial](http://www.tutorialspoint.com/lua/) - Tutorials Point (HTML, PDF)
 
 
 ### Machine Learning
@@ -880,7 +876,6 @@
 #### Flask
 
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
-* [Python Flask Tutorial](https://www.tutorialspoint.com/flask/) - Tutorials Point (HTML, PDF)
 
 
 ### QB64

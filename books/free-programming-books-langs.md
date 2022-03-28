@@ -830,6 +830,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers)
 * [Go for Python Programmers](https://golang-for-python-programmers.readthedocs.io/en/latest) - Jason McVetta (HTML, PDF, EPUB)
 * [Go Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly) - Mark Lewin (PDF, EPUB, Kindle)
+* [Go Tutorial](http://www.tutorialspoint.com/go/) - Tutorials Point (HTML, PDF)
 * [Go Web Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-web-development) - Mark Lewin (PDF, EPUB, Kindle)
 * [How To Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - Mark Bates, Cory Lanou, and Timothy J. Raymond (PDF, EPUB)
 * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
@@ -1483,6 +1484,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Lua 5.3 Reference Manual](http://www.lua.org/manual/5.3/)
 * [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
+* [Lua Tutorial](http://www.tutorialspoint.com/lua/) - Tutorials Point (HTML, PDF)
 * [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 
 
@@ -1983,6 +1985,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Explore Flask](https://exploreflask.com) - Robert Picard
 * [Flask Documentation](https://flask.palletsprojects.com) - Pallets
+* [Python Flask Tutorial](https://www.tutorialspoint.com/flask/) - Tutorials Point (HTML, PDF)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
 

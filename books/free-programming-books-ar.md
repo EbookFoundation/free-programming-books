@@ -4,10 +4,10 @@
 
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
+* [AWS](#aws)
 * [C#&lrm;](#csharp)
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
-* [AWS](#aws)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)

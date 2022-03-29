@@ -22,7 +22,7 @@
 * [SQL](#sql)
   * [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
-* [AWS] (#aws)
+* [AWS](#aws)
 
 
 ### Arduino
@@ -144,4 +144,4 @@
 
 ### AWS
 
-* [كورس كامل بالعربى مع المهندس عيسى أبوشريف] (https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)
+* [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)

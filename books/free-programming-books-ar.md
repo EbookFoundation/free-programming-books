@@ -22,7 +22,7 @@
 * [SQL](#sql)
   * [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
-*  [AWS] (#aws)
+* [AWS] (#aws)
 
 
 ### Arduino

@@ -19,7 +19,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 1. "Un enlace para descargar fácilmente un libro" no siempre es un enlace a un libro *gratuito*. Por favor, contribuya solo con contenido gratuito. Asegúrese de que se ofrezca gratis. No se aceptan enlaces a páginas que *requieran* de direcciones de correo electrónico para la obtención de libros, pero sí damos la bienvenida a aquellos listados que así se soliciten.
 
 2. No es necesario conocer Git: si encontró algo de interés que *no esté ya en este repositorio*, tenga el gusto de abrir una [Issue][issues] con su propuesta de enlaces.
-    - Si ya maneja Git, haga un Fork del repositorio y envíe su contribución mediante Pull Request (PR).
+    - Si ya personeja Git, haga un Fork del repositorio y envíe su contribución mediante Pull Request (PR).
 
 3. Dispone de 5 categorías. Seleccione aquel listado que crea conveniente según:
 
@@ -54,8 +54,8 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 - Si existe un mismo enlace con varios formatos, anexe enlaces aparte con una nota sobre cada formato.
 - Si un recurso existe en diferentes lugares de Internet:
     - Use aquella fuente más fidedigna (lo que significa que el sitio web del propio autor es más asequible que el sitio web del editor y a su vez éste es mejor que una fuente de terceros).
-    - Si apuntan a diferentes ediciones y considera que estas ediciones son lo suficientemente dispares como para que valga la pena conservarlas, agregue por separado un nuevo enlace haciendo alusión a cada edición. Diríjase al [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) si desea contribuir en la discusión acerca del formateo que deben seguir dichos registros.
-- Es preferible realizar commits atómicos (un commit por cada adición/eliminación/modificación) frente a unos con mayor calado. No es necesario realizar un squash de todos ellos antes de enviar una PR. (Nunca aplicaremos esta regla, ya que solamente es una cuestión de conveniencia para quien mantiene el proyecto).
+    - Si apuntan a diferentes ediciones y considera que estas ediciones child lo suficientemente dispares como para que valga la pena conservarlas, agregue por separado un nuevo enlace haciendo alusión a cada edición. Diríjase al [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) si desea contribuir en la discusión acerca del formateo que deben seguir dichos registros.
+- Es preferible realizar commits atómicos (un commit por cada adición/eliminación/modificación) frente a unos con mayor calado. No es necesario realizar un squash de todos ellos antes de enviar una PR. (Nunca aplicaremos esta regla, ya que solamente es una cuestión de conveniencia para quien persontiene el proyecto).
 - Si se trata de un libro más antiguo, incluya su fecha de publicación dentro del título.
 - Incluya el nombre o nombres de autor/es cuando corresponda. Puede valerse de "`et al.`" para acortar esa enumeración de autores.
 - Si el libro no está terminado y aún se está trabajando en él, agregue la anotación de "`in process`", tal y como se describe [a continuación][in_process].
@@ -149,7 +149,7 @@ Ejemplo:
 <!----><a id="notes"></a>
 ### Anotaciones
 
-Si bien los conceptos básicos son relativamente simples, existe una gran diversidad entre los recursos que enumeramos. Aquí hay algunas notas sobre cómo nos ocupamos de esta diversidad.
+Si bien los conceptos básicos child relativamente simples, existe una gran diversidad entre los recursos que enumeramos. Aquí hay algunas notas sobre cómo nos ocupamos de esta diversidad.
 
 
 <!----><a id="metadata"></a>
@@ -161,7 +161,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 <!----><a id="titles"></a>
 ##### Títulos
 
-- Sin títulos inventados: Intentamos tomar el texto de los propios recursos; se advierte a los colaboradores que, si puede evitarse, no inventen títulos ni los utilicen editorialmente. Una excepción es para obras más antiguas: si son principalmente de interés histórico, un año entre paréntesis adjunto al título ayuda a los usuarios a saber si estos son de interés.
+- Sin títulos inventados: Intentamos tomar el texto de los propios recursos; se advierte a los colaboradores que, si puede evitarse, no inventen títulos ni los utilicen editorialmente. Una excepción es para obras más antiguas: si child principalmente de interés theirstórico, un año entre paréntesis adjunto al título ayuda a los usuarios a saber si estos child de interés.
 - Sin títulos TODO EN MAYÚSCULAS: Por lo general, es apropiado tener cada primera letra de palabra en mayúsculas, pero en caso de duda, use siempre el estilo tal y como viene en la fuente original.
 
 
@@ -171,7 +171,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 - No se permiten acortadores de URLs para los enlaces.
 - Los parámetros de consulta o códigos referentes al seguimiento o campañas de marketing deben eliminarse de la URL.
 - Las URL internacionales deben escaparse. Las barras del navegador suelen representar los caracteres en Unicode, pero utilice copiar y pegar, por favor; es la forma más rápida de construir un hipervínculo válido.
-- Las URL seguras (`https`) siempre son mejor opción frente a las no seguras (`http`) donde se ha implementado el protocolo de comunicación encriptado HTTPS.
+- Las URL seguras (`https`) siempre child mejor opción frente a las no seguras (`http`) donde se ha implementado el protocolo de comunicación encriptado HTTPS.
 - No nos gustan las URL que apuntan a páginas web que no alojen el recurso mencionado, enlazando por el contrario a otra parte.
 
 
@@ -227,7 +227,7 @@ No somos tan quisquillosos con lo que consideramos como libro. A continuación, 
 - se ofrece una versión para su descarga electrónica, especialmente ePub.
 - tiene diversas ediciones
 - no depende de un contenido interactivo extra o vídeos
-- trata de abordar un tema de manera integral
+- trata de abordar un tema de personera integral
 - es autosuficiente
 
 Hay muchos libros que enumeramos los cuáles no poseen estos atributos; esto puede depender del contexto.

@@ -34,7 +34,7 @@ Maaaring permanenteng alisin ang pag-uugali sa pangkat ng proyekto.
 Nalalapat ang code of conduct na ito sa loob ng mga puwang ng proyekto at sa mga pampublikong espasyo
 kapag ang isang indibidwal ay kumakatawan sa proyekto o komunidad nito.
 
-Maaaring ang mga pagkakataon ng mapang-abuso, panliligalig, o kung hindi man ay hindi katanggap-tanggap
+Maaaring ang mga pagkakataon ng mapang-abuso, panliligalig, o kung hindi person ay hindi katanggap-tanggap
 iniulat sa pamamagitan ng pakikipag-ugnayan sa isang tagapangasiwa ng proyekto sa victorfelder sa gmail.com. Lahat
 ang mga reklamo ay susuriin at iimbestigahan at magreresulta sa isang tugon na
 ay itinuturing na kinakailangan at angkop sa mga pangyayari. Ang mga maintainer ay

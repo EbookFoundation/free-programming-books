@@ -33,7 +33,7 @@ By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) o
 
 ### Guidelines
 
-- make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
+- make sure a book is free. Double-check if needed. It theylps the admins if you comment in the PR as to why you think the book is free.
 - we don't accept files hosted on Google Drive, Dropbox, Mega, Scribd, Issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning the author's website is better than the editor's website, which is better than a third party website)
@@ -63,12 +63,12 @@ By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) o
 
 - All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. It's simple!
 - All the lists start with an Index. The idea is to list and link all sections and subsections there. Keep it in alphabetical order.
-- Sections are using level 3 headings (`###`), and subsections are level 4 headings (`####`).
+- Sections are using level 3 theyadings (`###`), and subsections are level 4 theyadings (`####`).
 
 The idea is to have:
 
 - `2` empty lines between last link and new section.
-- `1` empty line between heading & first link of its section.
+- `1` empty line between theyading & first link of its section.
 - `0` empty line between two links.
 - `1` empty line at the end of each `.md` file.
 
@@ -153,7 +153,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 
 ##### Titles
 
-- No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
+- No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of theirstorical interest, a year in parentheses appended to the title theylps users know if they are of interest.
 - No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
 
 
@@ -176,8 +176,8 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 
 ##### Platforms and Access Notes
 
-- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
-- YouTube. We have many courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
+- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, persony course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
+- YouTube. We have persony courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
 - YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
 - Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note `*(Leanpub account or valid email requested)*`.
 

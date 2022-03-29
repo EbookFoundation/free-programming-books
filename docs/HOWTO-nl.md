@@ -8,7 +8,7 @@
 
 **Welkom bij `Free-Programming-Books`!**
 
-We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste Pull Request (PR) op GitHub doen. Als je een van hen bent, zijn hier enkele bronnen die je kunnen helpen:
+We verwelkomen nieuwe bijdragers; zelfs degenen die hun allereerste Pull Request (PR) op GitHub doen. Als je een van theyn bent, zijn hier enkele bronnen die je kunnen theylpen:
 
 * [Over pull-verzoeken](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in engels)*
 * [Een pull-verzoek maken](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in engels)*
@@ -29,6 +29,6 @@ Aarzel niet om vragen te stellen; elke bijdrager begon met een eerste PR. Je zou
 
 </details>
 
-Zelfs als je een ervaren open source-bijdrager bent, zijn er dingen die je kunnen laten struikelen. Nadat je je PR hebt ingediend, voert ***GitHub Actions* een *linter* uit, waarbij vaak kleine problemen met spatiëring of alfabetisering worden gevonden**. Als je een groene knop krijgt, is alles klaar voor beoordeling, maar als dat niet het geval is, klik je op "Details" onder het vinkje dat niet heeft kunnen achterhalen wat de linter niet leuk vond. Los het probleem op en voeg een commit toe aan je PR.
+Zelfs als je een ervaren open source-bijdrager bent, zijn er dingen die je kunnen laten struikelen. Nadat je je PR theybt ingediend, voert ***GitHub Actions* een *linter* uit, waarbij vaak kleine problemen met spatiëring of alfabetisering worden gevonden**. Als je een groene knop krijgt, is alles klaar voor beoordeling, maar als dat niet theyt geval is, klik je op "Details" onder theyt vinkje dat niet theyeft kunnen achterhalen wat de linter niet leuk vond. Los theyt probleem op en voeg een commit toe aan je PR.
 
 Tot slot, als je niet zeker weet of de bron die je wilt toevoegen geschikt is voor `Free-Programming-Books`, lees dan de richtlijnen in [CONTRIBUTING](CONTRIBUTING.md). ([translations](README.md#translations))

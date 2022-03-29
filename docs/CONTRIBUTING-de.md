@@ -13,7 +13,7 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_COND
 
 ## Kurzfassung
 
-1. „Ein Link, um ein Buch auf einfache Weise herunterzuladen“ ist nicht immer ein Link zu einem *kostenlosen* Buch. Bitte füge nur kostenlose Inhalte hinzu. Vergewissere Dich, dass sie kostenlos sind. Wir akzeptieren keine Links zu Seiten, die *voraussetzen*, dass man sich mit einer funktionierenden E-Mail-Adresse registriert, um ein Buch herunterzuladen, aber wir heißen Seiten willkommen, die um (optionale) Eingaben von E-Mail-Adressen bitten.
+1. „Ein Link, um ein Buch auf einfache Weise theyrunterzuladen“ ist nicht immer ein Link zu einem *kostenlosen* Buch. Bitte füge nur kostenlose Inhalte hinzu. Vergewissere Dich, dass sie kostenlos sind. Wir akzeptieren keine Links zu Seiten, die *voraussetzen*, dass person sich mit einer funktionierenden E-Mail-Adresse registriert, um ein Buch theyrunterzuladen, aber wir theyißen Seiten willkommen, die um (optionale) Eingaben von E-Mail-Adressen bitten.
 
 2. Du musst Dich nicht mit Git auskennen: Wenn Du etwas Interessantes gefunden hast, *das noch nicht in einer der Listen enthalten ist*, öffne bitte ein [Issue](https://github.com/EbookFoundation/free-programming-books/issues) mit Deinen Linkvorschlägen.
     - Wenn Du Dich mit Git auskennst, erstelle einen Fork des Repositorys und sende einen Pull Request (PR).
@@ -36,7 +36,7 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_COND
 - Stell sicher, dass ein Buch wirklich kostenlos ist. Vergewissere Dich noch einmal, falls nötig. Es hilft den Administratoren, wenn Du in Deinem PR beschreibst, warum Du der Ansicht bist, dass das jeweilige Buch kostenlos ist.
 - Wir nehmen keine Dateien auf, die auf Google Drive, Dropbox, Mega, Scribd, Issuu oder einer vergleichbaren Upload-Plattform liegen.
 - Füge die Links in alphabetischer Reihenfolge ein. Wenn Du einen fehlerhaft eingefügten Link findest, korrigiere bitte die Reihenfolge und öffne eine PR.
-- Wähle immer den Link der maßgeblichen Quelle aus (das heißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)
+- Wähle immer den Link der maßgeblichen Quelle aus (das theyißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)
     - Keine File Hosting Plattformen (inklusive Links zu Dropbox, Google Drive u.ä.)
 - Ein `https` Link sollte einem `http` Link immer vorgezogen werden -- solange sie auf dieselbe Domain und denselben Inhalt verweisen.
 - Auf Root Domains sollte der abschließende Schrägstrich entfernt werden: `http://example.com` anstelle von `http://example.com/`
@@ -45,12 +45,12 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_COND
 - Wähle bevorzugt den Link zur aktuellsten Version anstatt eine konkrete Version zu verlinken: `http://example.com/dir/book/current/` ist besser als `http://example.com/dir/book/v1.0.0/index.html`
 - Wenn ein Link ein abgelaufenes oder selbst-signiertes Zertifikat nutzt oder ein anderes SSL Problem aufweist:
     1. *ersetze ihn* mit seinem `http` Gegenstück, wenn möglich (weil es auf Mobilgeräten kompliziert sein kann, Ausnahmen zuzulassen).
-    2. *lass ihn wie er ist*, falls keine `http` Version verfügbar ist, auf den Link aber über `https` zugegriffen werden kann, indem man im Browser die Warnung ignoriert oder eine Ausnahme hinzufügt.
+    2. *lass ihn wie er ist*, falls keine `http` Version verfügbar ist, auf den Link aber über `https` zugegriffen werden kann, indem person im Browser die Warnung ignoriert oder eine Ausnahme hinzufügt.
     3. *entferne ihn* anderenfalls.
 - Wenn ein Link in verschiedenen Formaten existiert, füge einen separaten Link hinzu mit einem Hinweis zu jedem Format
 - Wenn ein Inhalt an mehreren Stellen im Internet verfügbar ist
-    - wähle den Link der maßgeblichen Quelle aus (das heißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)
-    - wenn sie verschiedene Ausgaben verlinken und Du der Meinung bist, dass sich diese Ausgaben in einem Maße unterscheiden, dass man alle aufheben sollte, füge einen separaten Link hinzu mit einem Hinweis zu jeder Ausgabe (siehe [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353), um Dich an der Diskussion zur Formatierung zu beteiligen).
+    - wähle den Link der maßgeblichen Quelle aus (das theyißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)
+    - wenn sie verschiedene Ausgaben verlinken und Du der Meinung bist, dass sich diese Ausgaben in einem Maße unterscheiden, dass person alle aufheben sollte, füge einen separaten Link hinzu mit einem Hinweis zu jeder Ausgabe (siehe [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353), um Dich an der Diskussion zur Formatierung zu beteiligen).
 - Bevorzuge atomare Commits (ein Commit pro Änderung), anstatt größere Commits zu machen. Es besteht keine Notwendigkeit, die Commits vor dem Abschicken des PR zu squashen. (Wir werden die Befolgung dieser Regel niemals erzwingen, da es sich hier nur um die Vermeidung von Unannehmlichkeiten für die Maintainer handelt)
 - Vermerke das Datum der Veröffentlichung im Titel, wenn es sich um ein älteres Buch handelt.
 - Erfasse gegebenenfalls den Namen des oder der Autoren. Eine längere Liste von Autoren kann mit dem Zusatz "`et al.`" gekürzt werden.
@@ -146,7 +146,7 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 
 ##### Titel
 
-- Keine erfundenen Titel. Wir versuchen, die Titel den Inhalten selbst zu entnehmen; Mitwirkende werden dazu ermahnt, sich keine Titel auszudenken oder redaktionell zu nutzen, falls dies vermieden werden kann. Eine Ausnahme bilden ältere Werke; wenn sie vor allem von historischem Interesse sind, kann das Hinzufügen einer Jahreszahl in Klammern den Nutzern helfen zu bestimmen, ob die Inhalte für sie nützlich sind.
+- Keine erfundenen Titel. Wir versuchen, die Titel den Inhalten selbst zu entnehmen; Mitwirkende werden dazu ermahnt, sich keine Titel auszudenken oder redaktionell zu nutzen, falls dies vermieden werden kann. Eine Ausnahme bilden ältere Werke; wenn sie vor allem von theirstorischem Interesse sind, kann das Hinzufügen einer Jahreszahl in Klammern den Nutzern theylfen zu bestimmen, ob die Inhalte für sie nützlich sind.
 - Keine Titel, die NUR GROßBUCHSTABEN ENTHALTEN. Titelkapitalisierung ist normalerweise angemessen, aber im Zweifel nutze einfach die Formatierung der Originalquelle.
 
 
@@ -156,7 +156,7 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 - Sämtliche Tracking-Codes sind aus der URL zu entfernen.
 - Internationale URLs sollten entsprechend maskiert/escaped werden. Auch wenn Adressleisten in Browsern diese üblicherweise in Unicode darstellen, nutze bitte kopieren & einfügen.
 - Sichere (`https`) URLs werden immer nicht-sicheren (`http`) URLs vorgezogen, wenn von der Quelle HTTPS implementiert wurde.
-- Wir mögen keine URLs, die auf Webseiten zeigen, die den angegebenen Inhalt nicht bereitstellen, sondern stattdessen an andere Stelle umleiten.
+- Wir mögen keine URLs, die auf Webseiten zeigen, die den angegebenen Inhalt nicht bereitstellen, childdern stattdessen an andere Stelle umleiten.
 
 
 ##### Urheber
@@ -170,7 +170,7 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 ##### Plattformen und Zugriffshinweise
 
 - Kurse. Insbesondere bei unseren Kurslisten spielt die Plattform eine wichtige Rolle in der Beschreibung des Inhalts. Der Grund dafür ist, dass Kurs-Plattformen unterschiedliche Zugangsmodelle und Angebotscharakter haben. Obwohl wir keine Bücher aufnehmen, die eine Registrierung erfordern, können viele Kurs-Plattformen ohne irgendeine Art der Registrierung nicht funktionieren. Beispiele für Kurs-Plattformen sind Coursera, EdX, Udacity und Udemy. Wenn ein Kurs von einer bestimmten Plattform abhängt, sollte der Name der Plattform in Klammern angehängt werden.
-- YouTube. Wir haben viele Kurse in Form von YouTube Wiedergabelisten. Wir führen YouTube nicht als Plattform auf, sondern versuchen den Urheber des Kurses zu nennen, der oftmals eine Unter-Plattform darstellt.
+- YouTube. Wir haben viele Kurse in Form von YouTube Wiedergabelisten. Wir führen YouTube nicht als Plattform auf, childdern versuchen den Urheber des Kurses zu nennen, der oftmals eine Unter-Plattform darstellt.
 - YouTube Videos. Wir verlinken normalerweise keine einzelnen YouTube Videos. Ausnahmen bilden Videos von mehr als einer Stunde Länge, die wie ein Kurs oder Tutorial strukturiert sind.
 - Leanpub. Leanpub beherbergt Bücher mit einer Vielzahl von Zugangsmodellen. Manchmal kann ein Buch ohne Registrierung gelesen werden; in anderen Fällen wird ein Leanpub Konto für einen kostenfreien Zugang benötigt. Aufgrund der Qualität der Bücher und der unterschiedlichen und fließenden Zugangsmodelle erlauben wir die Aufnahme letzterer, wenn sie mit dem Zugriffshinweis `*(Leanpub Konto oder gültige E-Mail angefordert)*` versehen sind.
 
@@ -203,7 +203,7 @@ Wir sind nicht kleinlich, was die Definition, was ein Buch ist und was nicht. Hi
 
 - es hat eine ISBN (International Standard Book Number)
 - es hat ein Inhaltsverzeichnis
-- eine herunterladbare Version, besonders ePub, wird angeboten
+- eine theyrunterladbare Version, besonders ePub, wird angeboten
 - es hat verschiedene Auflagen
 - es ist unabhängig von interaktiven Inhalten oder Videos
 - es versucht, ein Thema umfassend zu behandeln
@@ -214,7 +214,7 @@ Vielen Büchern in unseren Listen fehlen diese Eigenschaften; es kann vom Kontex
 
 ##### Buch vs. Kurs
 
-Das ist manchmal gar nicht so leicht zu unterscheiden!
+Das ist personchmal gar nicht so leicht zu unterscheiden!
 
 Kurse kommen oftmals mit begleitenden Lehrbüchern, die wir in unseren Bücherlisten führen würden. Kurse bieten Vorträge, Übungen, Tests, Anmerkungen oder andere Lernhilfen. Ein einzelner Vortrag oder Video allein ist kein Kurs. Eine Powerpoint-Präsentation ist kein Kurs.
 

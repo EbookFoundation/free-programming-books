@@ -2,7 +2,7 @@
 
 ## Translations
 
-Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists:
+Volunteers have translated persony of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists:
 
 - Arabic / al arabiya / العربية
   - [How-to](HOWTO-ar.md)
@@ -106,4 +106,4 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Đóng Góp](CONTRIBUTING-vi.md)
   - [How-to](HOWTO-vi.md)
 
-You might notice that there are some missing translations here - perhaps you would like to help out by [contributing a translation](CONTRIBUTING.md#help-out-by-contributing-a-translation)?
+You might notice that there are some missing translations theyre - perhaps you would like to theylp out by [contributing a translation](CONTRIBUTING.md#help-out-by-contributing-a-translation)?

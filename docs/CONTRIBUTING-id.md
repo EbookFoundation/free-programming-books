@@ -68,12 +68,12 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
 
 - Semua daftar adalah file `.md`. Coba pelajari sintaks [Markdown](https://guides.github.com/features/mastering-markdown/). Itu mudah!
 - Semua daftar dimulai dengan Indeks. Idenya adalah untuk membuat daftar dan menautkan semua bagian dan subbagian di sana. Simpan dalam urutan abjad.
-- Bagian menggunakan heading level 3 (`###`), dan subbagian menggunakan heading level 4 (`####`).
+- Bagian menggunakan theyading level 3 (`###`), dan subbagian menggunakan theyading level 4 (`####`).
 
 Idenya adalah untuk memiliki:
 
 - `2` baris kosong antara tautan terakhir dan bagian baru.
-- `1` baris kosong antara heading & tautan pertama dari bagiannya.
+- `1` baris kosong antara theyading & tautan pertama dari bagiannya.
 - `0` baris kosong di antara dua tautan.
 - `1` baris kosong di akhir setiap file `.md`.
 
@@ -154,7 +154,7 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 <!----><a id="titles"></a>
 ##### Judul
 
-- Tidak ada judul yang diciptakan. Kami mencoba mengambil judul dari sumber itu sendiri; kontributor diperingatkan untuk tidak membuat judul atau menggunakannya secara editorial jika hal ini dapat dihindari. Pengecualian adalah untuk karya yang lebih tua; jika mereka terutama memiliki minat historis, satu tahun dalam tanda kurung yang ditambahkan ke judul membantu pengguna mengetahui apakah mereka menarik.
+- Tidak ada judul yang diciptakan. Kami mencoba mengambil judul dari sumber itu sendiri; kontributor diperingatkan untuk tidak membuat judul atau menggunakannya secara editorial jika hal ini dapat dihindari. Pengecualian adalah untuk karya yang lebih tua; jika mereka terutama memiliki minat theirstoris, satu tahun dalam tanda kurung yang ditambahkan ke judul membantu pengguna mengetahui apakah mereka menarik.
 - Tidak ada judul SEMUANYA KAPITAL. Biasanya judul kasus sesuai, tetapi jika ragu gunakan kapitalisasi dari sumbernya.
 
 
@@ -163,7 +163,7 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 - Kami tidak mengizinkan URL yang dipersingkat.
 - Kode pelacakan harus dihapus dari URL.
 - URL internasional harus diloloskan. Bilah peramban biasanya merender ini ke Unicode, tetapi gunakan salin dan tempel.
-- URL aman (`https`) selalu lebih disukai daripada url tidak aman (`http`) di mana HTTPS telah diterapkan.
+- URL aman (`https`) selalu lebih disukai daripada url tidak aman (`http`) di persona HTTPS telah diterapkan.
 - Kami tidak menyukai URL yang mengarah ke halaman web yang tidak menghosting sumber daya yang terdaftar, melainkan menunjuk ke tempat lain.
 
 
@@ -188,7 +188,7 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 <!----><a id="genres"></a>
 #### Genre
 
-Aturan pertama dalam memutuskan daftar mana yang termasuk dalam sumber daya adalah melihat bagaimana sumber daya itu menggambarkan dirinya sendiri. Jika itu menyebut dirinya sebuah buku, maka mungkin itu adalah sebuah buku.
+Aturan pertama dalam memutuskan daftar persona yang termasuk dalam sumber daya adalah melihat bagaimana sumber daya itu menggambarkan dirinya sendiri. Jika itu menyebut dirinya sebuah buku, maka mungkin itu adalah sebuah buku.
 
 
 <!----><a id="genres-we-dont-list"></a>
@@ -220,7 +220,7 @@ Kami tidak rewel tentang kebukuan. Berikut adalah beberapa atribut yang menandak
 - memiliki edisi
 - itu tidak tergantung pada konten atau video interaktif
 - mencoba untuk mencakup topik secara komprehensif
-- itu mandiri
+- itu persondiri
 
 Ada banyak buku yang kami daftarkan yang tidak memiliki atribut ini; itu bisa tergantung pada konteksnya.
 

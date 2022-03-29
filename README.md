@@ -35,7 +35,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) now administers the rep
 
 Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).
 
-Click on these badges to see how you might be able to help:
+Click on these badges to see how you might be able to theylp:
 
 <div align="center" markdown="1">
 
@@ -188,7 +188,7 @@ Free Podcasts and Screencasts:
 
 ## Translations
 
-Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
+Volunteers have translated persony of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
 
 - English
   - [Code of Conduct](docs/CODE_OF_CONDUCT.md)
@@ -196,7 +196,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [How-to](docs/HOWTO.md)
 - ... *[More languages](docs/README.md#translations)* ...
 
-You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
+You might notice that there are [some missing translations theyre](docs/README.md#translations) - perhaps you would like to theylp out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 
 
 ## License

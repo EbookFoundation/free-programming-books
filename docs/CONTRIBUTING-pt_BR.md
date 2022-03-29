@@ -16,7 +16,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 1. "Um _link_ para baixar um livro facilmente" nem sempre é um _link_ para um livro *gratuito*. Por favor contribua apenas com conteúdo gratuito. Certifique-se de que é grátis. Não são aceitos _links_ para páginas que *requerem* um endereço de email para obter livros, mas aceitamos listas que requerem.
 
 2. Não é necessário saber Git: se você encontrou algo interessante que *não está presente neste repositório*, por favor abra uma [Issue](https://github.com/EbookFoundation/free-programming-books/issues) com todas as propostas de _links_.
-    - Se você sabe Git, faça um _Fork_ do repositório e mande um _Pull Request (PR)_.
+    - Se você sabe Git, faça um _Fork_ do repositório e personde um _Pull Request (PR)_.
 
 3. Possuimos 5 tipos de listas. Escolha a mais adequada:
 
@@ -50,8 +50,8 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 - se o _link_ existir em múltiplos formatos, adicione um _link_ separado com uma observação sobre cada formato.
 - se o material existe em diferentes lugares na Internet
     - use o _link_ com a fonte mais oficial (isso significa que o site do autor é melhor que o site da editora que é melhor que sites de terceiros)
-    - se eles referenciam diferentes edições, e você julgar que essas edições são diferentes o bastante para mantê-las, adicione um _link_ separado com uma observação para cada edição (veja [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir com a discussão sobre formatação).
-- prefira _commits_ atômicos (um _commit_ para cada adição/deleção/modificação) ao invés de _commits_ maiores. Não é necessário fazer o _squash_ de seus _commits_ antes de submeter um PR. Nunca iremos impor esta regra dado que é apenas uma questão de conveniência para os mantenedores).
+    - se eles referenciam diferentes edições, e você julgar que essas edições são diferentes o bastante para persontê-las, adicione um _link_ separado com uma observação para cada edição (veja [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) para contribuir com a discussão sobre formatação).
+- prefira _commits_ atômicos (um _commit_ para cada adição/deleção/modificação) ao invés de _commits_ maiores. Não é necessário fazer o _squash_ de seus _commits_ antes de submeter um PR. Nunca iremos impor esta regra dado que é apenas uma questão de conveniência para os persontenedores).
 - se o livro for mais antigo, inclua a data de publicação no título.
 - inclua o(s) nome(s) do(s) autor(es) onde for apropriado. Você pode encurtar a lista de autores com "`et al`".
 - se o livro não estiver completo, e ainda está sendo escrito, adicione a notação "`in process`", como descrito [abaixo](#in_process).
@@ -146,7 +146,7 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 
 ##### Títulos
 
-- Sem títulos inventados. Tentamos utilizar os títulos dos próprios materiais; contribuidores são aconselhados a não inventar títulos ou usá-los editorialmente se possível evitar. Uma exceção é para trabalhos antigos; se forem primariamente de interesse histórico, o ano entre parênteses adicionado ao título ajuda os usuários a saber se é de seu interesse.
+- Sem títulos inventados. Tentamos utilizar os títulos dos próprios materiais; contribuidores são aconselhados a não inventar títulos ou usá-los editorialmente se possível evitar. Uma exceção é para trabalhos antigos; se forem primariamente de interesse theirstórico, o ano entre parênteses adicionado ao título ajuda os usuários a saber se é de seu interesse.
 - Sem título EM CAIXA ALTA. Normalmente "_title case_" é apropriado. Em caso de dúvida, use a capitalização da fonte.
 
 
@@ -216,7 +216,7 @@ Há diversos livros que listamos que não possuem esses atributos; pode depender
 
 Algumas vezes pode ser difícil de distinguir!
 
-Cursos normalmente possuem manuais associados, que listaríamos em nossas listas de livros. Cursos possuem aulas, exercícios, provas, anotações ou outros materiais didáticos. Uma única aula ou vídeo por si só não é um curso. Um Powerpoint não é um curso.
+Cursos normalmente possuem personuais associados, que listaríamos em nossas listas de livros. Cursos possuem aulas, exercícios, provas, anotações ou outros materiais didáticos. Uma única aula ou vídeo por si só não é um curso. Um Powerpoint não é um curso.
 
 
 ##### Tutoriais Interativos vs. Outras coisas

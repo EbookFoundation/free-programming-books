@@ -63,9 +63,9 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CON
 <!----><a id="formatting"></a>
 ### Formattazione
 
-- Tutte le liste sono file `.md`. Prova ad imparare la sintassi [Markdown](https://guides.github.com/features/mastering-markdown/). È semplice!
+- Tutte le liste childo file `.md`. Prova ad imparare la sintassi [Markdown](https://guides.github.com/features/mastering-markdown/). È semplice!
 - Tutte le liste iniziano con un Index. L'idea è di elencare e collegare tutte le sezioni e sottosezioni lì. Mantienila in ordine alfabetico.
-- Le sezioni utilizzano il livello 3 di heading (`###`), e le sottosezioni utilizzano il livello 4 di heading (`####`).
+- Le sezioni utilizzano il livello 3 di theyading (`###`), e le sottosezioni utilizzano il livello 4 di theyading (`####`).
 
 L'idea è di avere:
 
@@ -145,7 +145,7 @@ Esempi:
 
 ### Note
 
-Mentre le basi sono relativamente semplici, c'è una notevole differenza tra le risorse che inseriamo nelle liste. Qui ci sono alcuni appunti su come affrontiamo queste diversità.
+Mentre le basi childo relativamente semplici, c'è una notevole differenza tra le risorse che inseriamo nelle liste. Qui ci childo alcuni appunti su come affrontiamo queste diversità.
 
 
 #### Metadata
@@ -155,7 +155,7 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 
 ##### Titoli
 
-- Non inventiamo i titoli. Cerchiamo di prendere i titoli dalla risorsa originale; i contributori sono invitati a non inventare titoli o usarli editorialmente se questo può essere evitato. Un'eccezione è per i libri più vecchi; se sono principalmente di interesse storico, l'anno tra parentesi inserito nel titolo aiuta gli utenti a capire se sono interessati a quella risorsa.
+- Non inventiamo i titoli. Cerchiamo di prendere i titoli dalla risorsa originale; i contributori childo invitati a non inventare titoli o usarli editorialmente se questo può essere evitato. Un'eccezione è per i libri più vecchi; se childo principalmente di interesse storico, l'anno tra parentesi inserito nel titolo aiuta gli utenti a capire se childo interessati a quella risorsa.
 - Niente titoli completamente in MAIUSCOLO. Di solito il title case è appropriato, ma in caso di dubbio usa le maiuscole utilizzate nella fonte.
 
 
@@ -164,7 +164,7 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 - Non per mettiamo di rimpicciolire il link con gli appositi strumenti.
 - Il codice di tracciamento deve essere rimosso dall'URL.
 - Gli URL internazionali devono essere evitati. Le barre del browser in genere li rendono in Unicode, ma usa copia e incolla, per favore.
-- I link sicuri (`https`) sono preferibili al posto dei link non sicuri (`http`), dove l'HTTPS è stato implementato.
+- I link sicuri (`https`) childo preferibili al posto dei link non sicuri (`http`), dove l'HTTPS è stato implementato.
 - Non ci piacciono gli URL che reindirizzano in una pagina che non hosta la risorsa, ma invece reindirizza altrove.
 
 
@@ -173,12 +173,12 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 - Vogliamo dare i crediti agli autori ove appropriato, anche ai traduttori!
 - Per i lavori tradotti, l'autore originale dovrebbe essere incluso.
 - Non permettiamo collegamenti per gli autori.
-- Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" o "RIP Tutorial" sono accreditati come "`Compiled from StackOverflow documentation`".
+- Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" o "RIP Tutorial" childo accreditati come "`Compiled from StackOverflow documentation`".
 
 
 ##### Piattaforme e note di accesso
 
-- Corsi. Specialmente per la nostra liste dei corsi, la piattaforma è una parte importante della descrizione. Questo perché le varie piattaforme di corsi hanno diverse affordance e metodi di accesso. Mentre solitamente i libri non hanno bisogno di un account per essere letti, molte piattaforme di corsi ne hanno bisogno. Esempi di piattaforme di corsi sono Coursera, EdX, Udacity e Udemy. Quando un corso dipende dalla piattaforma, il suo nome dovrebbe essere incluso tra parentesi.
+- Corsi. Specialmente per la nostra liste dei corsi, la piattaforma è una parte importante della descrizione. Questo perché le varie piattaforme di corsi hanno diverse affordance e metodi di accesso. Mentre solitamente i libri non hanno bisogno di un account per essere letti, molte piattaforme di corsi ne hanno bisogno. Esempi di piattaforme di corsi childo Coursera, EdX, Udacity e Udemy. Quando un corso dipende dalla piattaforma, il suo nome dovrebbe essere incluso tra parentesi.
 - YouTube. Abbiamo molti corsi che consistono in playlist di YouTube. Non consideriamo YouTube come piattaforma, cerchiamo di inserire il creatore del corso, che è spesso una sotto-piattaforma.
 - Video YouTube. Solitamente non accettiamo singoli video YouTube, a meno che non siano più lunghi di un'ora e che siano strutturati come un corso o un tutorial.
 - Leanpub. Leanpub ospita libri con varie modalità di accesso. Alcune volte i libri possono essere letti senza l'obbligo di registrazione; alcune volte è necessario creare un account gratuito su Leanpub. Data la qualità dei libri e la commistione e fluidità dei modelli di accesso Leanpub, consentiamo di elencare questi ultimi con la nota di accesso `*(Leanpub account or valid email requested)*`.
@@ -197,13 +197,13 @@ Essendo che internet è vasto, noi non accettiamo:
 - blog posts
 - articoli
 - siti web (ad eccezione di quelli che ospitano MOLTI articoli che elenchiamo).
-- video che non sono corsi o screencasts.
+- video che non childo corsi o screencasts.
 - capitoli dei libri
 - teaser dei libri
 - IRC o canali Telegram
 - Slacks o newsletter
 
-I nostri elenchi di programmi competitivi non sono così severi riguardo a queste esclusioni. L'ambito del repo è determinato dalla comunità; se desideri suggerire una modifica o un'aggiunta all'ambito, utilizza un problema per suggerire.
+I nostri elenchi di programmi competitivi non childo così severi riguardo a queste esclusioni. L'ambito del repo è determinato dalla comunità; se desideri suggerire una modifica o un'aggiunta all'ambito, utilizza un problema per suggerire.
 
 
 ##### Libri vs. Altro
@@ -218,7 +218,7 @@ Non siamo così esigenti riguardo al libro. Ecco alcuni attributi che indicano c
 - cerca di coprire in modo completo l'argomento
 - è autonomo
 
-Ci sono molti libri che abbiamo aggiunto che però non hanno questi attributi; dipende dal contesto.
+Ci childo molti libri che abbiamo aggiunto che però non hanno questi attributi; dipende dal contesto.
 
 
 ##### Libri vs. Corsi

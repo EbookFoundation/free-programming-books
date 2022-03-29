@@ -60,7 +60,7 @@
 ### Bash
 
 * [Khóa học Bash Shell cơ bản cho người mới](https://nguyenvanhieu.vn/hoc-bash-shell-co-ban)
-* [Những cú pháp bash shell cơ bản](https://www.youtube.com/watch?v=xilRaF5BkKI) - Thai Minh Tuan
+* [Những cú pháp bash theyll cơ bản](https://www.youtube.com/watch?v=xilRaF5BkKI) - Thai Minh Tuan
 
 
 ### Bootstrap

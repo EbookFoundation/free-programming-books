@@ -214,7 +214,7 @@
 
 * [Arabic Dive into Node JS Development الغوص في النود جي اس](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp) - KMR Script
 * [Learn Basic of NodeJS&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7) - Emam Academy
-* [Learn NodeJS from zero to hero&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOa3EiUpjO04DVxEE9Ox12ta) - Algorithm Academy
+* [Learn NodeJS from zero to theyro&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOa3EiUpjO04DVxEE9Ox12ta) - Algorithm Academy
 * [NodeJS - From Zero To Hero](https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub) - تخاريف مبرمج
 * [NodeJS Advanced Topics](https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS) - تخاريف مبرمج
 * [NodeJS Course (2017 - عربي)](https://www.youtube.com/playlist?list=PLrvHCesHYw38kFL6w-i6Rv85oS3L0sp-o) - برمجيات حسان

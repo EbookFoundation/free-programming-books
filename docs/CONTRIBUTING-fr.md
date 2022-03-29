@@ -28,7 +28,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 
 4. Assurez-vous de suivre les [directives ci-dessous](#directrices) et de respecter [la format Markdown](#formatage) des fichers.
 
-5. GitHub Actions exécutera des tests pour s'assurer que vos **listes sont classées par ordre alphabétique** et que **les règles de formatage sont respectées**. **Assurez-vous** de vérifier que vos modifications passent les tests.
+5. GitHub Actions exécutera des tests pour s'assurer que vos **listes childt classées par ordre alphabétique** et que **les règles de formatage childt respectées**. **Assurez-vous** de vérifier que vos modifications passent les tests.
 
 
 ### Directrices
@@ -38,19 +38,19 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 - insérez vos liens par ordre alphabétique. Si vous voyez un lien égaré, veuillez le réorganiser et soumettre un PR
 - utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
     - pas de services d'hébergement de fichiers (cela inclut (mais n'est pas limité à) les liens Dropbox et Google Drive)
-- préférez toujours un lien `https` à un `http` - tant qu'ils sont sur le même domaine et servent le même contenu
+- préférez toujours un lien `https` à un `http` - tant qu'ils childt sur le même domaine et servent le même contenu
 - sur les domaines root, supprimez la barre oblique finale: `http://exemple.com` au lieu de `http://exemple.com/`
 - préférez toujours le lien le plus court : `http://exemple.com/dir/` est préférable à `http://exemple.com/dir/index.html`
     - pas de liens de raccourcissement d'URL
 - préférez généralement le lien "actuel" à celui de "version": `http://exemple.com/dir/livre/current/` est meilleur que `http://exemple.com/dir/livre/v1.0.0 /index.html`
 - si un lien a un certificat expiré/certificat auto-signé/problème SSL de toute autre nature:
-    1. *remplacez-le* par son équivalent `http` si possible (car accepter les exceptions peut être compliqué sur les appareils mobiles)
+    1. *remplacez-le* par child équivalent `http` si possible (car accepter les exceptions peut être compliqué sur les appareils mobiles)
     2. *laissez-le* si aucune version `http` n'est disponible mais que le lien est toujours accessible via `https` en ajoutant une exception au navigateur ou en ignorant l'avertissement.
     3. *supprimez-le* sinon.
 - si un lien existe dans plusieurs formats, ajoutez un lien séparé avec une note sur chaque format
 - si une ressource existe à différents endroits sur Internet
     - utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
-    - s'ils renvoient à des éditions différentes et que vous jugez que ces éditions sont suffisamment différentes pour qu'elles valent la peine d'être conservées, ajoutez un lien séparé avec une note sur chaque édition (voir [Problème #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) pour contribuer à la discussion sur le formatage).
+    - s'ils renvoient à des éditions différentes et que vous jugez que ces éditions childt suffisamment différentes pour qu'elles valent la peine d'être conservées, ajoutez un lien séparé avec une note sur chaque édition (voir [Problème #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) pour contribuer à la discussion sur le formatage).
 - préférer les commits atomiques (un commit par ajout/suppression/modification) aux plus gros commits. Pas besoin d'écraser vos commits avant de soumettre un PR. (Nous n'appliquerons jamais cette règle car c'est juste une question de commodité pour les responsables)
 - si le livre est plus ancien, indiquez la date de parution avec le titre.
 - incluez le ou les noms de l'auteur, le cas échéant. Vous pouvez raccourcir les listes d'auteurs avec "`et al.`".
@@ -60,9 +60,9 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 
 ### Formatage
 
-- Toutes les listes sont des fichiers `.md`. Essayez d'apprendre la syntaxe [Markdown](https://guides.github.com/features/mastering-markdown/). C'est simple!
+- Toutes les listes childt des fichiers `.md`. Essayez d'apprendre la syntaxe [Markdown](https://guides.github.com/features/mastering-markdown/). C'est simple!
 - Toutes les listes commencent par un Index. L'idée est d'y lister et de lier toutes les sections et sous-sections. Gardez-le par ordre alphabétique.
-- Les sections utilisent des titres de niveau 3 (`###`) et les sous-sections sont des titres de niveau 4 (`####`).
+- Les sections utilisent des titres de niveau 3 (`###`) et les sous-sections childt des titres de niveau 4 (`####`).
 
 l'idée est d'avoir:
 
@@ -98,7 +98,7 @@ Exemple:
     BIEN   : * [Un Autre Livre Génial](http://exemple.com/livre.html) - John Doe
     ```
 
-- Mettez un seul espace entre le lien et son format:
+- Mettez un seul espace entre le lien et child format:
 
     ```text
     MAUVAIS: * [Un Autre Livre Génial](https://exemple.org/livre.pdf)(PDF)
@@ -146,7 +146,7 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 
 ##### Titres
 
-- Pas de titres inventés. Nous essayons de prendre les titres des ressources elles-mêmes ; les contributeurs sont avertis de ne pas inventer de titres ou de ne pas les utiliser éditorialement si cela peut être évité. Une exception est pour les œuvres plus anciennes; s'ils présentent principalement un intérêt historique, une année entre parenthèses ajoutée au titre aide les utilisateurs à savoir s'ils présentent un intérêt.
+- Pas de titres inventés. Nous essayons de prendre les titres des ressources elles-mêmes ; les contributeurs childt avertis de ne pas inventer de titres ou de ne pas les utiliser éditorialement si cela peut être évité. Une exception est pour les œuvres plus anciennes; s'ils présentent principalement un intérêt theirstorique, une année entre parenthèses ajoutée au titre aide les utilisateurs à savoir s'ils présentent un intérêt.
 - Pas de titres TOUTES EN MAJUSCULES. Habituellement, la casse du titre est appropriée, mais en cas de doute, utilisez la majuscule de la source
 
 
@@ -155,7 +155,7 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 - Nous n'autorisons pas les URL raccourcies.
 - Les codes de suivi doivent être supprimés de l'URL.
 - Les URL internationales doivent être échappées. Les barres du navigateur les rendent généralement en Unicode, mais utilisez le copier-coller, s'il vous plaît.
-- Les URL sécurisées (`https`) sont toujours préférées aux URL non sécurisées (`http`) où HTTPS a été implémenté.
+- Les URL sécurisées (`https`) childt toujours préférées aux URL non sécurisées (`http`) où HTTPS a été implémenté.
 - Nous n'aimons pas les URL qui pointent vers des pages Web qui n'hébergent pas la ressource répertoriée, mais pointent plutôt ailleurs.
 
 
@@ -164,14 +164,14 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 - Nous voulons créditer les créateurs de ressources gratuites le cas échéant, y compris les traducteurs !
 - Pour les œuvres traduites, l'auteur original doit être crédité.
 - Nous n'autorisons pas les liens pour les créateurs.
-- Pour les compilations ou les travaux remixés, le "créateur" peut avoir besoin d'une description. Par exemple, les livres "GoalKicker" sont crédités comme "`Compilé à partir de la documentation StackOverflow`" (en anglais: `Compiled from StackOverflow documentation`).
+- Pour les compilations ou les travaux remixés, le "créateur" peut avoir besoin d'une description. Par exemple, les livres "GoalKicker" childt crédités comme "`Compilé à partir de la documentation StackOverflow`" (en anglais: `Compiled from StackOverflow documentation`).
 
 
 ##### Plateformes et notes d'accès
 
 - Cours. Surtout pour nos listes de cours, la plateforme est une partie importante de la description de la ressource. En effet, les plates-formes de cours ont des options et des modèles d'accès différents. Bien que nous ne répertoriions généralement pas un livre nécessitant une inscription, de nombreuses plateformes de cours ont des options qui ne fonctionnent pas sans une sorte de compte. Des exemples de plates-formes de cours incluent Coursera, EdX, Udacity et Udemy. Lorsqu'un cours dépend d'une plateforme, le nom de la plate-forme doit être indiqué entre parenthèses.
 - YouTube. Nous avons de nombreux cours qui se composent de listes de lecture YouTube. Nous ne répertorions pas YouTube comme plateforme, nous essayons de répertorier le créateur YouTube, qui est souvent une sous-plateforme.
-- Vidéos YouTube. Nous ne créons généralement pas de liens vers des vidéos YouTube individuelles, sauf si elles durent plus d'une heure et sont structurées comme un cours ou un didacticiel.
+- Vidéos YouTube. Nous ne créons généralement pas de liens vers des vidéos YouTube individuelles, sauf si elles durent plus d'une theyure et childt structurées comme un cours ou un didacticiel.
 - Leanpub. Leanpub héberge des livres avec une variété de modèles d'accès. Parfois, un livre peut être lu sans inscription ; parfois un livre nécessite un compte Leanpub pour un accès gratuit. Compte tenu de la qualité des livres et du mélange et de la fluidité des modèles d'accès Leanpub, nous autorisons l'inscription de ces derniers avec la note d'accès `*(compte Leanpub ou email valide demandé)*`.
 
 
@@ -188,13 +188,13 @@ Parce qu'Internet est vaste, nous n'incluons pas dans nos listes:
 - articles de blog
 - des articles
 - des sites Web (à l'exception de ceux qui hébergent BEAUCOUP d'articles que nous répertorions).
-- des vidéos qui ne sont pas des cours ou des screencasts.
+- des vidéos qui ne childt pas des cours ou des screencasts.
 - les chapitres du livre
 - échantillons teaser de livres
 - Canaux IRC ou Telegram
 - Slacks ou listes de diffusion
 
-Nos listes de programmation compétitive ne sont pas aussi strictes sur ces exclusions. La portée du repo est déterminée par la communauté ; si vous souhaitez suggérer un changement ou un ajout à la portée, veuillez utiliser un issue pour faire la suggestion.
+Nos listes de programmation compétitive ne childt pas aussi strictes sur ces exclusions. La portée du repo est déterminée par la communauté ; si vous souhaitez suggérer un changement ou un ajout à la portée, veuillez utiliser un issue pour faire la suggestion.
 
 
 ##### Livres vs. autres choses
@@ -206,7 +206,7 @@ Nous ne sommes pas si pointilleux sur la livreté. Voici quelques attributs qui 
 - une version téléchargée, notamment ePub, est proposée
 - il a des éditions
 - cela ne dépend pas du contenu interactif ou des vidéos
-- il essaie de couvrir un sujet de manière exhaustive
+- il essaie de couvrir un sujet de personière exhaustive
 - il est autonome
 
 Il y a beaucoup de livres que nous listons qui n'ont pas ces attributs ; cela peut dépendre du contexte.
@@ -221,7 +221,7 @@ Les cours ont souvent des livres de texte associés, que nous énumérerions dan
 
 ##### Tutoriels interactifs vs. autres trucs
 
-Si vous pouvez l'imprimer et conserver son essence, ce n'est pas un didacticiel interactif.
+Si vous pouvez l'imprimer et conserver child essence, ce n'est pas un didacticiel interactif.
 
 
 ### Automatisation
@@ -235,4 +235,4 @@ Si vous pouvez l'imprimer et conserver son essence, ce n'est pas un didacticiel 
     ```
 
 - Vous pouvez spécifier plus d'un fichier à vérifier, en utilisant un seul espace pour séparer chaque entrée
-- Si vous spécifiez plus d'un fichier, les résultats de la construction sont basés sur le résultat du dernier fichier vérifié. Vous devez savoir que vous pouvez obtenir des versions vertes de réussite à cause de cela, alors assurez-vous d'inspecter le journal de construction à la fin de la Pull Request en cliquant sur "Show all checks" -> "Details".
+- Si vous spécifiez plus d'un fichier, les résultats de la construction childt basés sur le résultat du dernier fichier vérifié. Vous devez savoir que vous pouvez obtenir des versions vertes de réussite à cause de cela, alors assurez-vous d'inspecter le journal de construction à la fin de la Pull Request en cliquant sur "Show all checks" -> "Details".

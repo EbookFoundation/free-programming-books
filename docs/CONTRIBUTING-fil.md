@@ -15,8 +15,8 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
 
 1. "Ang isang link para madaling mag-download ng libro" ay hindi palaging isang link sa isang *libre* na libro. Mangyaring mag-ambag lamang ng libreng nilalaman. Tiyaking libre ito. Hindi kami tumatanggap ng mga link sa mga pahina na *nangangailangan* ng gumaganang mga email address upang makakuha ng mga aklat, ngunit malugod naming tinatanggap ang mga listahan na humihiling sa kanila.
 
-2. Hindi mo kailangang malaman ang Git: kung nakakita ka ng isang bagay na interesado na *wala pa sa repo na ito*, mangyaring magbukas ng [Issue](https://github.com/EbookFoundation/free-programming-books/issues) kasama ang iyong mga proposisyon ng link.
-    - Kung alam mo ang Git, mangyaring Fork ang repo at magpadala ng mga Pull Request (PR).
+2. Hindi mo kailangang malaman ang Git: kung nakakita ka ng isang bagay na interesado na *wala pa sa repo na ito*, persongyaring magbukas ng [Issue](https://github.com/EbookFoundation/free-programming-books/issues) kasama ang iyong mga proposisyon ng link.
+    - Kung alam mo ang Git, persongyaring Fork ang repo at magpadala ng mga Pull Request (PR).
 
 3. Mayroon kaming 5 uri ng mga listahan. Piliin ang tama:
 
@@ -24,7 +24,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
     - *Kurso* : Ang kurso ay isang materyal sa pag-aaral na hindi isang libro. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Mga Interactive na Tutorial* : Isang interactive na website na nagbibigay-daan sa user na mag-type ng code o command at suriin ang resulta (sa pamamagitan ng "suriin" hindi namin ibig sabihin ay "grado"). e.g.: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
     - *Mga Podcast at Screencast* : Mga podcast at screencast.
-    - *Mga Set ng Problema at Kompetisyon sa Programming* : Isang website o software na nagbibigay-daan sa iyong tasahin ang iyong mga kasanayan sa programming sa pamamagitan ng paglutas ng mga simple o kumplikadong problema, mayroon man o walang code review, mayroon man o walang paghahambing ng mga resulta sa ibang mga user.
+    - *Mga Set ng Problema at Kompetisyon sa Programming* : Isang website o software na nagbibigay-daan sa iyong tasahin ang iyong mga kasanayan sa programming sa pamamagitan ng paglutas ng mga simple o kumplikadong problema, mayroon person o walang code review, mayroon person o walang paghahambing ng mga resulta sa ibang mga user.
 
 4. Siguraduhing sundin ang [guidelines below](#guidelines) at igalang ang [Markdown formatting](#formatting) ng mga file.
 
@@ -36,7 +36,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
 
 - siguraduhin na ang isang libro ay libre. I-double check kung kinakailangan. Nakakatulong ito sa mga admin kung magkomento ka sa PR kung bakit sa tingin mo ay libre ang libro.
 - hindi kami tumatanggap ng mga file na naka-host sa Google Drive, Dropbox, Mega, Scribd, Issuu at iba pang katulad na mga platform sa pag-upload ng file
-- ipasok ang iyong mga link sa alphabetical order. Kung makakita ka ng maling lugar na link, mangyaring muling ayusin ito at magsumite ng PR
+- ipasok ang iyong mga link sa alphabetical order. Kung makakita ka ng maling lugar na link, persongyaring muling ayusin ito at magsumite ng PR
 - gamitin ang link na may pinakamakapangyarihang pinagmulan (ibig sabihin ang website ng may-akda ay mas mahusay kaysa sa website ng editor, na mas mahusay kaysa sa isang third party na website)
     - walang mga serbisyo sa pagho-host ng file (kabilang dito ang (ngunit hindi limitado sa) mga link ng Dropbox at Google Drive)
 - palaging mas gusto ang isang link na `https` kaysa sa isang link na `http` -- hangga't sila ay nasa parehong domain at naghahatid ng parehong nilalaman
@@ -65,12 +65,12 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
 
 - Ang lahat ng mga listahan ay `.md` files. Subukang matuto [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. Simple lang!
 - Ang lahat ng mga listahan ay nagsisimula sa isang Index. Ang ideya ay ilista at i-link ang lahat ng seksyon at subsection doon. Panatilihin ito sa alpabetikong pagkakasunud-sunod.
-- Gumagamit ang mga seksyon ng antas 3 na mga heading (`###`), at ang mga subsection ay level 4 na mga heading (`####`).
+- Gumagamit ang mga seksyon ng antas 3 na mga theyading (`###`), at ang mga subsection ay level 4 na mga theyading (`####`).
 
 The idea is to have:
 
 - `2` walang laman na linya sa pagitan ng huling link at bagong seksyon.
-- `1` walang laman na linya sa pagitan ng heading.
+- `1` walang laman na linya sa pagitan ng theyading.
 - `0` walang laman na linya sa pagitan ng dalawang link.
 - `1` walang laman na linya sa dulo ng bawat isa `.md` file.
 
@@ -203,7 +203,7 @@ Dahil malawak ang Internet, hindi namin isinasama sa aming mga listahan:
 - IRC or Telegram channels
 - Slacks or mailing lists
 
-Ang aming mga listahan ng mapagkumpitensyang programming ay hindi kasing higpit tungkol sa mga pagbubukod na ito. Ang saklaw ng repo ay tinutukoy ng komunidad; kung gusto mong magmungkahi ng pagbabago o pagdaragdag sa saklaw, mangyaring gumamit ng isyu para gawin ang mungkahi.
+Ang aming mga listahan ng mapagkumpitensyang programming ay hindi kasing higpit tungkol sa mga pagbubukod na ito. Ang saklaw ng repo ay tinutukoy ng komunidad; kung gusto mong magmungkahi ng pagbabago o pagdaragdag sa saklaw, persongyaring gumamit ng isyu para gawin ang mungkahi.
 
 
 ##### Mga Aklat kumpara sa Iba Pang Bagay

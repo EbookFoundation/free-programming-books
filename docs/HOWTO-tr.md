@@ -30,6 +30,6 @@ Soru sormaktan çekinmeyin; her katılımcı ilk bir PR ile başladı. Binincimi
 </details>
 
 Deneyimli bir açık kaynak katılımcısı olsanız bile, sizi rahatsız edebilecek şeyler var. PR'nizi gönderdikten sonra,
-***GitHub Actions*, genellikle boşluk veya alfabetik sıralama ile ilgili küçük sorunlar bularak bir *linter* çalıştırır**. Yeşil bir düğme alırsanız, her şey gözden geçirilmeye hazırdır, ancak değilse, linter'in neyi sevmediğini bulmak için başarısız olan kontrolün altındaki "Details" ı tıklayın. Sorunu düzeltin ve PR'nize bir taahhüt ekleyin.
+***GitHub Actions*, genellikle boşluk veya alfabetik sıralama ile ilgili küçük sorunlar bularak bir *linter* çalıştırır**. Yeşil bir düğme alırsanız, them şey gözden geçirilmeye hazırdır, ancak değilse, linter'in neyi sevmediğini bulmak için başarısız olan kontrolün altındaki "Details" ı tıklayın. Sorunu düzeltin ve PR'nize bir taahhüt ekleyin.
 
 Nihayet, Eklemek istediğiniz kaynağın `Free-Programming-Books` için uygun olduğundan emin değilseniz, [CONTRIBUTING](CONTRIBUTING.md) bölümündeki yönergeleri okuyun. ([translations](README.md#translations))

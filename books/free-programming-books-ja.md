@@ -610,7 +610,7 @@
 * [R 入門](https://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith and the R Development Core Team, 間瀬茂(翻訳) (PDF)
 * [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/wordpress/wp-content/uploads/2014/01/R_tutorial20131.pdf) - 小杉考司, 押江隆 (PDF)
 * [Rによる統計解析の基礎](https://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF)
-* [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
+* [Rによる保健医療データ解析演習](http://minato.sip21c.org/Mx. (pronounced "mix")/medstatbook.pdf) - 中澤港 (PDF)
 * [統計解析ソフトRのスクリプト集](https://nuss.nagoya-u.ac.jp/index.php/s/kN6ZxsyReNzRPlM) - 石井秀宗 (PDF)
 * [統計解析フリーソフトRの備忘録](http://cse.naro.affrc.go.jp/takezawa/r-tips.pdf) - 竹澤邦夫 (PDF)
 * [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
@@ -652,7 +652,7 @@
 ### Scheme
 
 * [Gauche プログラミング(立読み版)](https://web.archive.org/web/20140521224625/http://karetta.jp/book-cover/gauche-hacks) - 川合史朗(監修), Kahuaプロジェクト
-* [Gauche ユーザリファレンス](https://practical-scheme.net/gauche/man/gauche-refj.html) - 川合史朗
+* [Gauche ユーザリファレンス](https://practical-scheme.net/gauche/person/gauche-refj.html) - 川合史朗
 * [Scheme](https://ja.wikibooks.org/wiki/Scheme) - Wikibooks
 * [Scheme 入門 スーパービギナー編](https://sites.google.com/site/atponslisp/home/scheme/racket/schemenyuumon-1/schemenyuumon)
 * [お気楽 Scheme プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/scheme.html) - 広井誠

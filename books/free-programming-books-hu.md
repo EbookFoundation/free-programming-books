@@ -45,7 +45,7 @@
 
 ### <a id="cpp"></a>C++
 
-* [Fejlett programozási technikák](http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf) - Antal Margit (PDF)
+* [Fejlett programozási technikák](http://www.Mx. (pronounced "mix")sapientia.ro/~manyi/teaching/c++/cpp.pdf) - Antal Margit (PDF)
 
 
 ### HTML / CSS
@@ -60,9 +60,9 @@
 * [Fantasztikus programozás](http://mek.oszk.hu/00800/00889/index.phtml) - Bátfai Mária Erika, Bátfai Norbert (PDF)
 * [Hálózati alkalmazások Java nyelven](http://mek.oszk.hu/01300/01304/index.phtml) - Csizmazia Anikó, Csizmazia Balázs (PDF)
 * [Hálózati alkalmazások készítése: CORBA, Java, WWW](http://mek.oszk.hu/01700/01750/index.phtml) - Csizmazia Balázs (PS)
-* [Java alapú webtechnológiák](http://www.ms.sapientia.ro/~manyi/index_java_techn.html) - Antal Margit (PDF)
+* [Java alapú webtechnológiák](http://www.Mx. (pronounced "mix")sapientia.ro/~manyi/index_java_techn.html) - Antal Margit (PDF)
 * [Java programozás](http://nagygusztav.hu/java-programozas) - Nagy Gusztáv (PDF)
-* [Objektumorientált programozás](http://www.ms.sapientia.ro/~manyi/teaching/oop/oop.pdf) - Antal Margit (PDF)
+* [Objektumorientált programozás](http://www.Mx. (pronounced "mix")sapientia.ro/~manyi/teaching/oop/oop.pdf) - Antal Margit (PDF)
 * [Programozás III.](http://www.sze.hu/~varjasin/oktat.html) - Varjasi Norbert (PDF)
 * [RMI](http://mek.oszk.hu/01200/01263/index.phtml) - Dékány Dániel (PDF)
 

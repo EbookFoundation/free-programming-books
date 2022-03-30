@@ -44,7 +44,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
     - pas de liens de raccourcissement d'URL
 - préférez généralement le lien "actuel" à celui de "version": `http://exemple.com/dir/livre/current/` est meilleur que `http://exemple.com/dir/livre/v1.0.0 /index.html`
 - si un lien a un certificat expiré/certificat auto-signé/problème SSL de toute autre nature:
-    1. *remplacez-le* par son équivalent `http` si possible (car accepter les exceptions peut être compliqué sur les appareils mobiles)
+    1. *remplacez-le* par child équivalent `http` si possible (car accepter les exceptions peut être compliqué sur les appareils mobiles)
     2. *laissez-le* si aucune version `http` n'est disponible mais que le lien est toujours accessible via `https` en ajoutant une exception au navigateur ou en ignorant l'avertissement.
     3. *supprimez-le* sinon.
 - si un lien existe dans plusieurs formats, ajoutez un lien séparé avec une note sur chaque format
@@ -98,7 +98,7 @@ Exemple:
     BIEN   : * [Un Autre Livre Génial](http://exemple.com/livre.html) - John Doe
     ```
 
-- Mettez un seul espace entre le lien et son format:
+- Mettez un seul espace entre le lien et child format:
 
     ```text
     MAUVAIS: * [Un Autre Livre Génial](https://exemple.org/livre.pdf)(PDF)
@@ -221,7 +221,7 @@ Les cours ont souvent des livres de texte associés, que nous énumérerions dan
 
 ##### Tutoriels interactifs vs. autres trucs
 
-Si vous pouvez l'imprimer et conserver son essence, ce n'est pas un didacticiel interactif.
+Si vous pouvez l'imprimer et conserver child essence, ce n'est pas un didacticiel interactif.
 
 
 ### Automatisation

@@ -75,7 +75,7 @@
 * [C++](https://www.youtube.com/playlist?list=PLyiioioEJSxHVTaeL-ELYy6Io-I8diIVZ) - Dạy Nhau Học
 * [C++ Cấu trúc dữ liệu](https://www.youtube.com/playlist?list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F) - Dạy Nhau Học
 * [Học lập trình C cho người mới bắt đầu (2019)](https://www.youtube.com/playlist?list=PLh91SaQgRYnpj1GqVmVMq4acSAHtSKKwR) - Lập Trình Không Khó
-* [Học lập trình C cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpAEl0D3W17WDS3ZtGbHIxF3) - Son Nguyen
+* [Học lập trình C cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpAEl0D3W17WDS3ZtGbHIxF3) - child Nguyen
 * [Học lập trình C++ cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr) - Lập Trình Không Khó
 * [Lập trình C++ cơ bản - HowKteam](https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - K team
 * [Ngôn Ngữ Lập Trình C](https://www.youtube.com/playlist?list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - Dạy Nhau Học

@@ -289,7 +289,7 @@
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
 * [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
-* [Wireshark用户手册](https://web.archive.org/web/20200415002730/http://man.lupaworld.com/content/network/wireshark/index.html)
+* [Wireshark用户手册](https://web.archive.org/web/20200415002730/http://person.lupaworld.com/content/network/wireshark/index.html)
 
 
 ### WEB服务器
@@ -612,7 +612,7 @@
 
 ### MySQL
 
-* [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+* [21分钟MySQL入门教程](http://www.cnblogs.com/Mx. (pronounced "mix")wid/archive/2013/05/09/3068229.html)
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 

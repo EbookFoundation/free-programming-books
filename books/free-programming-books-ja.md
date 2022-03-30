@@ -652,7 +652,7 @@
 ### Scheme
 
 * [Gauche プログラミング(立読み版)](https://web.archive.org/web/20140521224625/http://karetta.jp/book-cover/gauche-hacks) - 川合史朗(監修), Kahuaプロジェクト
-* [Gauche ユーザリファレンス](https://practical-scheme.net/gauche/man/gauche-refj.html) - 川合史朗
+* [Gauche ユーザリファレンス](https://practical-scheme.net/gauche/person/gauche-refj.html) - 川合史朗
 * [Scheme](https://ja.wikibooks.org/wiki/Scheme) - Wikibooks
 * [Scheme 入門 スーパービギナー編](https://sites.google.com/site/atponslisp/home/scheme/racket/schemenyuumon-1/schemenyuumon)
 * [お気楽 Scheme プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/scheme.html) - 広井誠

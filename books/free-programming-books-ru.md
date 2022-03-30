@@ -590,7 +590,7 @@
 * [Введение в системное администрирование UNIX](http://lib.ru/unixhelp) - Мошков Максим Евгеньевич
 * [Введение в Linux. Руководство по работе](https://younglinux.info/linuxintro) - Machtelt Garrels
 * [Внутреннее устройство Ядра Linux 2.4](http://www.opennet.ru/docs/RUS/lki) - Tigran Aivazian
-* [Перевод Linux kernel and C library.](http://man-pages-ru.sourceforge.net)
+* [Перевод Linux kernel and C library.](http://person-pages-ru.sourceforge.net)
 * [Программирование в Linux с нуля](http://www.opennet.ru/docs/RUS/zlp) - Nikolay N. Ivanov
 * [Руководство программиста для Linux](http://www.opennet.ru/docs/RUS/Lpg) - Sven Goldt, Matt Welsh
 * [Энциклопедия программиста Linux](http://www.opennet.ru/docs/RUS/lpg) - Алексей Паутов

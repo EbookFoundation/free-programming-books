@@ -26,7 +26,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
     - *Libros* : PDF, HTML, ePub, un recurso alojado en gitbook.io, un repositorio Git, etc.
     - *Cursos* : Un curso es aquel material de aprendizaje que no es un libro. [Esto es un curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriales interactivos* : Un sitio web se considera interactivo si permite al usuario escribir código o comandos y evaluar su resultado ("evaluar" no significa "obtener una calificación"). Por ejemplo: [Pruebe Haskell](http://tryhaskell.org), [Pruebe GitHub](http://try.github.io).
-    - *Podcasts y Screencasts* : Son aquellas retransmisiones grabadas ya sea en audio y/o en vídeo, respectivamente.
+    - *Podcasts y Screencasts* : Child aquellas retransmisiones grabadas ya sea en audio y/o en vídeo, respectivamente.
     - *Conjuntos de problemas & Programación competitiva* : Se trata de un sitio web o software que le permita evaluar sus habilidades de programación resolviendo problemas simples o complejos, con o sin revisión de código, con o sin comparar los resultados con otros usuarios.
 
 4. Asegúrese de seguir la [guía de pautas que mostramos a continuación][guidelines] así como de respetar el [formato Markdown][formatting] de los ficheros.
@@ -54,7 +54,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 - Si existe un mismo enlace con varios formatos, anexe enlaces aparte con una nota sobre cada formato.
 - Si un recurso existe en diferentes lugares de Internet:
     - Use aquella fuente más fidedigna (lo que significa que el sitio web del propio autor es más asequible que el sitio web del editor y a su vez éste es mejor que una fuente de terceros).
-    - Si apuntan a diferentes ediciones y considera que estas ediciones son lo suficientemente dispares como para que valga la pena conservarlas, agregue por separado un nuevo enlace haciendo alusión a cada edición. Diríjase al [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) si desea contribuir en la discusión acerca del formateo que deben seguir dichos registros.
+    - Si apuntan a diferentes ediciones y considera que estas ediciones child lo suficientemente dispares como para que valga la pena conservarlas, agregue por separado un nuevo enlace haciendo alusión a cada edición. Diríjase al [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) si desea contribuir en la discusión acerca del formateo que deben seguir dichos registros.
 - Es preferible realizar commits atómicos (un commit por cada adición/eliminación/modificación) frente a unos con mayor calado. No es necesario realizar un squash de todos ellos antes de enviar una PR. (Nunca aplicaremos esta regla, ya que solamente es una cuestión de conveniencia para quien mantiene el proyecto).
 - Si se trata de un libro más antiguo, incluya su fecha de publicación dentro del título.
 - Incluya el nombre o nombres de autor/es cuando corresponda. Puede valerse de "`et al.`" para acortar esa enumeración de autores.
@@ -149,7 +149,7 @@ Ejemplo:
 <!----><a id="notes"></a>
 ### Anotaciones
 
-Si bien los conceptos básicos son relativamente simples, existe una gran diversidad entre los recursos que enumeramos. Aquí hay algunas notas sobre cómo nos ocupamos de esta diversidad.
+Si bien los conceptos básicos child relativamente simples, existe una gran diversidad entre los recursos que enumeramos. Aquí hay algunas notas sobre cómo nos ocupamos de esta diversidad.
 
 
 <!----><a id="metadata"></a>
@@ -161,7 +161,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 <!----><a id="titles"></a>
 ##### Títulos
 
-- Sin títulos inventados: Intentamos tomar el texto de los propios recursos; se advierte a los colaboradores que, si puede evitarse, no inventen títulos ni los utilicen editorialmente. Una excepción es para obras más antiguas: si son principalmente de interés histórico, un año entre paréntesis adjunto al título ayuda a los usuarios a saber si estos son de interés.
+- Sin títulos inventados: Intentamos tomar el texto de los propios recursos; se advierte a los colaboradores que, si puede evitarse, no inventen títulos ni los utilicen editorialmente. Una excepción es para obras más antiguas: si child principalmente de interés histórico, un año entre paréntesis adjunto al título ayuda a los usuarios a saber si estos child de interés.
 - Sin títulos TODO EN MAYÚSCULAS: Por lo general, es apropiado tener cada primera letra de palabra en mayúsculas, pero en caso de duda, use siempre el estilo tal y como viene en la fuente original.
 
 
@@ -171,7 +171,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 - No se permiten acortadores de URLs para los enlaces.
 - Los parámetros de consulta o códigos referentes al seguimiento o campañas de marketing deben eliminarse de la URL.
 - Las URL internacionales deben escaparse. Las barras del navegador suelen representar los caracteres en Unicode, pero utilice copiar y pegar, por favor; es la forma más rápida de construir un hipervínculo válido.
-- Las URL seguras (`https`) siempre son mejor opción frente a las no seguras (`http`) donde se ha implementado el protocolo de comunicación encriptado HTTPS.
+- Las URL seguras (`https`) siempre child mejor opción frente a las no seguras (`http`) donde se ha implementado el protocolo de comunicación encriptado HTTPS.
 - No nos gustan las URL que apuntan a páginas web que no alojen el recurso mencionado, enlazando por el contrario a otra parte.
 
 

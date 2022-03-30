@@ -193,6 +193,7 @@
 
 ### Java
 
+* [Desenvolvimento de Aplicações Web em Java e Outras Tecnologias](https://github.com/davidbuzatto/Livro-Desenvolvimento-de-Aplica-es-Web-em-Java/releases/download/v1.0ed-1.0c/DesenvolvimentoAplicacoesWebEmJava.-.1ed.-.final.com.correcoes.01.pdf) - David Buzatto
 * [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
 * [Imergindo na JVM](https://leanpub.com/imergindo-jvm) - Otavio Santana *(Leanpub account or valid email requested)*
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) (PDF)

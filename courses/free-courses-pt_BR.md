@@ -51,8 +51,8 @@
 ### C
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
-* [Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) - eXcript (YouTube)
-* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (YouTube)
+* [Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) - Cláudio Rogério Carvalho Filho (eXcript)
+* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (Youtube)
 
 
 ### <a id="csharp"></a>C\#
@@ -255,7 +255,7 @@
 * [Aulas Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) - Ignorância zero (You Tube)
 * [Construindo API's robustas utilizando Python](https://github.com/luizalabs/tutorial-python-brasil) - Cássio Botaro et al.
 * [Curso de Programação em Python](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK) - Prime Cursos do Brasil
-* [Curso de Python](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) - eXcript (YouTube)
+* [Curso de Python](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) - Cláudio Rogério Carvalho Filho (eXcript)
 * [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Joao Pedro Araujo
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)

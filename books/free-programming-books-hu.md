@@ -37,7 +37,7 @@
 * [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans írása alapján fordította, kiegészítette és frissítette Cseh Róbert (PDF - regisztráció szükséges)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [Fejlett programozási technikák](http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf) - Antal Margit (PDF)
 

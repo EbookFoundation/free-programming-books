@@ -11,7 +11,7 @@
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
 * [C / C++](#c--c)
-* [Caml](#caml)
+* [Caml / OCaml](#caml--ocaml)
 * [Coq](#coq)
 * [CSS](#css)
 * [Fortran](#fortran)
@@ -104,9 +104,11 @@
 * [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
-### Caml
+### Caml / OCaml
 
-* [Le language Caml](http://caml.inria.fr)
+* [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) - Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
+* [Le langage Caml](https://caml.inria.fr/pub/distrib/books/llc.pdf) - Pierre Weis, Xavier Leroy (PDF)
+* [Programmation du système Unix en Objective Caml](https://web.archive.org/web/20211115022546/http://gallium.inria.fr/~remy/camlunix/) - Xavier Leroy, Didier Rémy
 
 
 ### C / C++
@@ -249,7 +251,7 @@
 
 ### Python
 
-* [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
+* [Apprendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
 * [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et lier ensuite votre compte self-learning à votre compte INGInious. )
 * [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)

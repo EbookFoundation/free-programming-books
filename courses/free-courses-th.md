@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
 * [JavaScript](#javascript)
@@ -19,12 +19,12 @@
 * [ภาษา C](http://marcuscode.com/lang/c) - MarcusCode
 
 
-### C-Sharp
+### <a id="csharp"></a>C\#
 
 * [ภาษา C#](http://marcuscode.com/lang/csharp) - MarcusCode
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [ภาษา C++](http://marcuscode.com/lang/cpp) - MarcusCode
 

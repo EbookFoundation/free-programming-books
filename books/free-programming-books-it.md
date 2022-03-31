@@ -10,7 +10,7 @@
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [CSS](#css)
 * [Database](#database)
@@ -97,12 +97,12 @@
 * [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [ABC# - Guida alla programmazione](http://antoniopelleriti.it/wp-content/uploads/2019/04/ABCsharp-guida-alla-programmazione-in-csharp.pdf) - A. Pelleriti (PDF)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) - (PDF)
 * [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) - (PDF)

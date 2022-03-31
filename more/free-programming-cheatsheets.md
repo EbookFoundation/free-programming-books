@@ -1,12 +1,14 @@
 ### Index
 
+* [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
+* [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
 * [HTML / CSS](#html--css)
@@ -36,6 +38,14 @@
 * [Tensorflow](#tensorflow)
 
 
+### APL
+
+* [A reference card for GNU APL](https://github.com/jpellegrini/gnu-apl-refcard/blob/master/aplcard.pdf) - jpellegrini (PDF)
+* [Cheat Sheets](https://docs.dyalog.com/#CHEAT) - Dyalog (PDF)
+* [Dyalog APL - Vocabulary](https://awagga.github.io/dyalog/voc) - awagga (HTML)
+* [ReferenceCard](https://docs.dyalog.com/latest/ReferenceCard.pdf) - Dyalog (PDF)
+
+
 ### Artificial Intelligence
 
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
@@ -54,12 +64,12 @@
 * [The C Cheat Sheet: An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) - Andrew Sterian (PDF)
 
 
-### <a name="c-sharp"></a>C#
+### <a id="csharp"></a>C\#
 
 * [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) - CodeWithHarry (HTML)
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
@@ -75,6 +85,28 @@
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
 
 
+### Docker
+
+* [Docker Cheat Sheet](https://low-orbit.net/docker-cheat-sheet) - Anthony Rioux, Low Orbit Flux (HTML, PDF)
+* [Docker Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) - Docker Inc., Solomon Hykes (PDF)
+* [Docker Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/docker-cheat-sheet/) - IntelliPaat (HTML, PDF)
+* [Docker Cheat Sheet](https://swissarmydevops.com/containers/docker/docker-cli-cheat-sheet) - Nikko Pedersen, Swiss Army DevOps (HTML, PDF)
+* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) - Will Sargent, et al.
+* [Docker Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Docker.docset/Contents/Resources/Documents/index) - Bogdan Popescu (HTML)
+* [Docker Cheat Sheet (:es:)](https://helmcode.com/blog/docker/docker_cheat_sheet) - Cristian Córdova, HelmCode (HTML)
+* [Docker Cheat Sheet (v1)](https://dockerlux.github.io/pdf/cheat-sheet.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
+* [Docker Cheat Sheet (v2)](https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
+* [Docker Cheatsheet: Docker commands that developers should know](https://vishnuch.tech/docker-cheatsheet) - Vishnu Chilamakuru (HTML)
+* [Docker CLI \& Dockerfile Cheat Sheet](https://web.archive.org/web/20210909015922/https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) - Bachir Chihani, Rafael Benevides, Red Hat Developers (PDF) *(:card_file_box: archived)* 
+* [Docker CLI cheatsheet](https://devhints.io/docker) - DevHints, Rico Santa Cruz (HTML)
+* [Docker Free Cheatsheet](https://cheatsheet.dennyzhang.com/cheatsheet-docker-a4) - Denny Zhang (HTML, PDF)
+* [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - OWASP Cheat Sheet Series
+* [Dockerfile Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) - Bogdan Popescu, Halprin (HTML)
+* [Dockerfiles y docker-compose.yml: buenas prácticas (:es:)](https://leanmind.es/docker-cheatsheet.pdf) - Yodra Lopez Herrera, LeanMind (PDF)
+* [The Definitive Docker Cheat Sheet](http://dockercheatsheet.painlessdocker.com) - Aymen EL Amri (HTML)
+* [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DokerLabs (HTML)
+
+
 ### Git
 
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
@@ -82,6 +114,7 @@
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
   * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
   * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
+* [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 
@@ -102,14 +135,15 @@
 * [HTML CheatSheet](https://htmlcheatsheet.com) - htmlcheatsheet.com (HTML, [PDF](https://htmlcheatsheet.com/HTML-Cheat-Sheet.pdf))
 
 
-### <a name="ide--editores"></a>IDE / Editors
+### <a id="ide--editores"></a>IDE / Editors
 
-* [Editor VI - Guia de Referência](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
+* [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
-* [Vim Avançado](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
-* [Vim Básico](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
+* [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas
+* [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
+* [Vim Cheat Sheet](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf) - Allison McKnight (PDF)
 * [Vim Cheatsheet](https://devhints.io/vim) - Devhints, Rico Santa Cruz (HTML)
-* [Vim Médio](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
+* [Vim Médio (pt)](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 * [Visual Studio Code: Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Visual Studio (PDF)
 
 

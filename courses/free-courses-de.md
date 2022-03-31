@@ -12,7 +12,7 @@
 * [TypeScript](#typescript)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [C++ Grundlagen Tutorials von Pilzschaf](https://www.youtube.com/playlist?list=PLStQc0GqppuVs05kWvLBoHcWCULX3ueIM) - Pilzschaf
 

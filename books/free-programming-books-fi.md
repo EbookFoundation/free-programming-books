@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C Sharp](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [JavaScript](#javascript)
 * [MySQL](#mysql)
@@ -29,17 +29,17 @@
 * [Ohjelmoinnin perusteet ja C-kieli](http://cs.stadia.fi/~silas/ohjelmointi/c_opas) - Simo Silander
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [Ohjelmointi 1: C#](https://jyx.jyu.fi/bitstream/handle/123456789/47417/978-951-39-4859-7.pdf) - Martti Hyvönen, Vesa Lappalainen, Antti-Jussi Lakanen (PDF)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [C++](https://fi.wikibooks.org/wiki/C%2B%2B) - Wikikirjasto
 * [C++-ohjelmointi](https://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=cpp_ohj_01)
 * [C++-opas](http://www.nic.funet.fi/c++opas/) - Aleksi Kallio
-* [Olioiden ohjelmointi C++:lla](http://www.cs.tut.fi/~oliot/kirja/olioiden-ohjelmointi-uusin.pdf) - Matti Rintala, Jyke Jokinen (PDF)
+* [Olioiden ohjelmointi C++:lla](https://web.archive.org/web/20170918213135/http://www.cs.tut.fi/~oliot/kirja/olioiden-ohjelmointi-uusin.pdf) - Matti Rintala, Jyke Jokinen (PDF) *(:card_file_box: archived)*
 
 
 ### Java

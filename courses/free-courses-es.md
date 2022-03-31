@@ -33,7 +33,7 @@
 * [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4)
 * [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1)
 * [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130)
-* [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) - Jesús Conde (Youtube)
+* [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) - Jesús Conde (YouTube)
 
 
 ### Arduino
@@ -86,6 +86,7 @@
 ### Control de Versiones
 
 * [Git & GitHub](https://www.pildorasinformaticas.es/course/curso-de-git-github) - Juan Díaz (Píldoras Informáticas)
+* [Git & GitHub](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls) - Ignacio Gutiérrez, BlueWeb (YouTube)
 
 
 ### Flujos de Trabajo
@@ -161,6 +162,7 @@
 
 ### Programación
 
+* [Aprende Javascript](https://aprendejavascript.org) - Jonathan MirCha
 * [Clojure](https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
 * [Curso de Python gratis y con certificación](https://edutin.com/curso-de-python-4276) - Edutin

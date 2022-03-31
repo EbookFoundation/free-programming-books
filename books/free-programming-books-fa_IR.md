@@ -43,7 +43,8 @@
 
 ### JavaScript
 
-* مارین هاوربک - [جاوااسکریپت شیوا](http://eloquentjs.ir) (HTML)
+* [جاوااسکریپت شیوا](http://eloquentjs.ir) - مارین هاوربک, مهران عفتی (HTML)
+* [ریکت جی اس](https://github.com/reactjs/fa.reactjs.org)
 * [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 
 

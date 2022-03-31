@@ -1,12 +1,12 @@
 ### Index
 
-* [C#](#C#)
+* [C#](#csharp)
 * [Other](#other)
 * [Python](#python)
 * [Web Development](#web-development)
 
 
-### C#
+### <a id="csharp"></a>C\#
 
 * [Jyväskylän yliopiston C#-kieli ohjelmointikurssi](https://tim.jyu.fi/view/kurssit/tie/ohj1/moniste/Ohjelmointi-1) - Ilmainen verkkokurssi
 

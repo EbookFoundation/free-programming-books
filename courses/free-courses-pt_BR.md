@@ -73,7 +73,7 @@
 ### CSS
 
 * [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
-* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Curso em Vídeo (YouTube)
+* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo)
 
 
 ### Dart
@@ -130,7 +130,7 @@
 ### HTML
 
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
-* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Curso em Vídeo (YouTube)
+* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo)
 
 
 ### IDE
@@ -170,7 +170,7 @@
 ### JavaScript
 
 * [Bootcamp da Brainn de React](https://www.youtube.com/playlist?list=PLF7Mi9HNzvVmzOyDyl--xQVdi60jxduU1) - Canal Brainn Co. (YouTube)
-* [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo
+* [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
 * [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/discover/courses) - Rocketseat
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
@@ -220,7 +220,7 @@
 ### Networking
 
 * [Curso de IPv6 Básico a Distância](http://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about) - NIC.br
-* [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) - Curso em vídeo (YouTube)
+* [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) - Gustavo Guanabara (Curso em Vídeo)
 
 
 ### Node.js
@@ -237,7 +237,7 @@
 * [Boas práticas em PHP](https://www.udemy.com/boas-praticas-em-php/) - Diego Mariano (Udemy)
 * [Curso Básico de Bootstrap 4 , PHP e MySQL](https://www.udemy.com/curso-basico-de-bootstrap-4-php-e-mysql-gratis/) - Ricardo Milbrath Gonçalves (Udemy)
 * [Curso de CodeIgniter para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV) - RBtech
-* [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Gustavo Guanabara (Curso em Video)
+* [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso Introdução ao Laravel 8](https://academy.especializati.com.br/curso/introducao-ao-laravel-8) - Carlos Ferreira (Especializati academy)
 * [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
 * [Introdução ao PHP orientado a objetos](https://www.udemy.com/php-orientado-a-objetos/) - Diego Mariano (Udemy)
@@ -257,13 +257,13 @@
 * [Curso de Programação em Python](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK) - Prime Cursos do Brasil
 * [Curso de Python](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) - Cláudio Rogério Carvalho Filho (eXcript)
 * [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)
-* [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Joao Pedro Araujo
+* [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Gustavo Guanabara, Joao Pedro Araujo (Curso em Vídeo)
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
 * [Do zero à implantação utilizando Python](https://github.com/cassiobotaro/do_zero_a_implantacao) - Cássio Botaro et al.
-* [Estruturas compostas em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&pbjreload=102) - Gustavo Guanabara. (Curso em Video)
-* [Estruturas de controle em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara. (Curso em Video)
-* [Fundamentamentos em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara. (Curso em Video)
+* [Estruturas compostas em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&pbjreload=102) - Gustavo Guanabara (Curso em Vídeo)
+* [Estruturas de controle em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (Curso em Vídeo)
+* [Fundamentamentos em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)
 * [Introdução à Ciência da Computação com Python - Parte 1](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos) - USP (Coursera)
 * [Introdução à Ciência da Computação com Python - Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) - USP (Coursera)
 * [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)
@@ -338,8 +338,8 @@
 
 ### WordPress
 
-* [Curso de Loja Virtual: WooCommerce + WordPress](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR) - Curso em vídeo (YouTube)
-* [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Curso em vídeo (YouTube)
+* [Curso de Loja Virtual: WooCommerce + WordPress](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Gustavo Guanabara (Curso em Vídeo)
 
 
 ### Segurança da Informação

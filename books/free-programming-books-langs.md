@@ -725,7 +725,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Flutter
 
 * [Cookbook](https://flutter.dev/docs/cookbook)
-* [Flutter in Action](https://livebook.manning.com/book/flutter-in-action/) - Eric Windmill (HTML)
+* [Flutter in Action](https://livebook.manning.com/book/flutter-in-action/) - Eric Windmill (HTML) *(email address requested, not required)*
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Flutter Tutorial](https://www.tutorialspoint.com/flutter) - Tutorials Point
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)

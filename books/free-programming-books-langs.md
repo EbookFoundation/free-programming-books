@@ -1657,7 +1657,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Odin
 
-* [Overview | Odin Programming Language](https://odin-lang.org/docs/overview/)
+* [Overview \| Odin Programming Language](https://odin-lang.org/docs/overview/)
 
 
 ### OpenMP

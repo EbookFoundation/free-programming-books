@@ -148,6 +148,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
 * [Octave](#octave)
+* [Odin](#odin)
 * [OpenMP](#openmp)
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
@@ -1654,6 +1655,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Octave
 
 * [Octave Programming](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial) - Wikibooks
+
+
+### Odin
+
+* [Overview \| Odin Programming Language](https://odin-lang.org/docs/overview/)
 
 
 ### OpenMP

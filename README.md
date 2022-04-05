@@ -182,6 +182,8 @@ Free Podcasts and Screencasts:
 
 ### Programming Playgrounds
 
+Whether you're a beginner programmer or an expert developer, code/programming playgrounds are useful when sharing and learning with others. A programming playground is an online service where you can write, compile(or run), and share code with others. They also allows you to fork and get your hands dirty by playing around with other's code.
+
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
 

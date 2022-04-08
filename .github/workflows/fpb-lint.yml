@@ -2,6 +2,9 @@ name: free-programming-books-lint
 
 on: [push, pull_request]
 
+permissions:
+  contents: read
+
 jobs:
   build:
 

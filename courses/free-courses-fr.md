@@ -4,7 +4,7 @@
 * [APL](#apl)
 * [Bash / Shell](#bash--shell)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
 * [HTML / CSS](#html--css)
@@ -46,14 +46,14 @@
 * [TUTOS C](https://www.youtube.com/playlist?list=PLEagTQfI6nPOWS4JPnxW5pRVgeyLuS5oC) - PrimFX
 
 
-### <a name="cpp"></a>C++
-
-* [La programmation en C++ moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/) - Zeste de savoir informaticienzero mehdidou99
-
-
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [C# - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) - Formation Video
+
+
+### <a id="cpp"></a>C++
+
+* [La programmation en C++ moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/) - Zeste de savoir informaticienzero mehdidou99
 
 
 ### Git

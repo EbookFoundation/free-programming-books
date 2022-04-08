@@ -43,11 +43,11 @@
 
 ### C
 
-* [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - B. Hall, Çeviren Emre "FZ" Sevinç (HTML)
+* [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - Brian "Beej Jorgensen" Hall, Çeviren Emre "FZ" Sevinç (HTML)
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [C++ Dersleri](https://www.yusufsezer.com.tr/cpp-dersleri/) - Yusuf Sezer
 

@@ -5,7 +5,7 @@
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Component Pascal](#component-pascal)
 * [Git](#git)
@@ -63,17 +63,17 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 * [C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung) - Wikibooks (HTML)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z) - Jürgen Wolf (Online)
-* [Socket Programmierung in C](http://www.tobscore.com/socket-programmierung-in-c) - B. Hall, Übersetzt von Tobias Kerst (HTML)
+* [Socket Programmierung in C](http://www.tobscore.com/socket-programmierung-in-c) - Brian "Beej Jorgensen" Hall, Übersetzt von Tobias Kerst (HTML)
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de) - Boris Schäling (Online)
 * [Lean Testing für C++-Programmierer (2018)](https://www.assets.dpunkt.de/openbooks/Openbook_Lean_Testing.pdf) - Andreas Spillner, Ulrich Breymann (PDF)

@@ -28,4 +28,4 @@ verzija 1.3.0, dostupna na https://contributor-covenant.org/version/1/3/0/
 
 [homepage]: https://contributor-covenant.org
 
-[Translations](../README.md#translations)
+[Translations](README.md#translations)

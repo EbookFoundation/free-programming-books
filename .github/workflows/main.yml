@@ -14,6 +14,6 @@ jobs:
           ruby-version: 2.6
       - run: gem install awesome_bot
       - run: for i in ${{ steps.file_changes.outputs.files_modified }}; do echo; echo "processing $i"; awesome_bot $i --allow-redirect --allow-dupe --allow-ssl || true; done
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           path: ${{ github.workspace }}/*.json

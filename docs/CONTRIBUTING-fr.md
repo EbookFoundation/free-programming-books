@@ -18,11 +18,12 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 2. Vous n'êtes pas obligé de connaître Git : si vous avez trouvé quelque chose d'intéressant qui n'est *pas déjà dans ce repositoire*, veuillez ouvrir un [Problème](https://github.com/EbookFoundation/free-programming-books/issues) avec vos propositions de liens.
     - Si vous savez Git, Forkez le repo et envoyez vos Pull Requests (PR).
 
-3. Nous avons 5 types de listes. Choisissez le bon:
+3. Nous avons 6 types de listes. Choisissez le bon:
 
     - *Livres* : PDF, HTML, ePub, un site basé sur gitlivre.io, un repositoire Git, etc.
     - *Cours* : Un cours est un matériel d'apprentissage qui n'est pas un livre. [Ceci est un cours](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriels interactifs* : Un site Web interactif qui permet à l'utilisateur de saisir du code ou des commandes et d'évaluer le résultat (par "évaluer" nous ne voulons pas dire "noter"). par exemple : [Essayez Haskell](http://tryhaskell.org), [Essayez GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts et Screencasts* : Podcasts et screencasts.
     - *Ensembles de Problèmes et Programmation Compétitive* : Un site Web ou un logiciel qui vous permet d'évaluer vos compétences en programmation en résolvant des problèmes simples ou complexes, avec ou sans revue de code, avec ou sans comparaison des résultats avec d'autres utilisateurs.
 

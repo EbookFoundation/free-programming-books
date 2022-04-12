@@ -18,11 +18,12 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 2. Não é necessário saber Git: se você encontrou algo interessante que *não está presente neste repositório*, por favor abra uma [Issue](https://github.com/EbookFoundation/free-programming-books/issues) com todas as propostas de _links_.
     - Se você sabe Git, faça um _Fork_ do repositório e mande um _Pull Request (PR)_.
 
-3. Possuimos 5 tipos de listas. Escolha a mais adequada:
+3. Possuimos 6 tipos de listas. Escolha a mais adequada:
 
     - *Livros*: PDF, HTML, ePub, sites baseados no gitbook.io, um repositório Git, etc.
     - *Cursos*: Um curso é um material didático que não é um livro. [Isso é um curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriais Interativos*: Um site interativo que permite ao usuário digitar código ou comandos e computa o resulta (por "computar" não queremos dizer "avaliar"). Por exemplo: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts e Screencasts* : Podcasts e screencasts.
     - *Conjuntos de Problemas e Programação Competitiva* : Um site ou software que permite avaliar suas habilidades de programação através da resolução de problemas simples ou complexos, com ou sem revisão de código, com ou sem comparação de resultados com outros usuários.
 

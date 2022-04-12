@@ -18,11 +18,12 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CON
 2. Non devi conoscere Git: se trovi qualcosa di interessante che che non è *ancora in questa repo*, apri un [Issue](https://github.com/EbookFoundation/free-programming-books/issues) con il link della risorsa.
     - Se conosci Git, forka questa repository e crea una Pull Request (PR).
 
-3. Abbiamo 5 tipi di liste. Scegli quella giusta:
+3. Abbiamo 6 tipi di liste. Scegli quella giusta:
 
     - *Libri* : PDF, HTML, ePub, gitbook.io, una Git repo, etc.
     - *Corsi* : Un corso è del materiale gratuito che non è un libro. [Questo è un corso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutorial Interattivi* : Un sito interattivo permette all'utente di scrivere codice o comandi e analizzarne il risultato. esempi: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts e Screencasts* : Podcasts and screencasts.
     - *Set di problemi & Programmazione competitiva* : Un sito o software che ti permette di valutare le tue skills da programmatore risolvendo problemi semplici o complessi, con o senza la revisione del codice, con o senza la comparazione del risultato con gli altri utenti.
 

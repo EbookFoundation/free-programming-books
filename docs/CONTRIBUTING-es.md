@@ -21,11 +21,12 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 2. No es necesario conocer Git: si encontró algo de interés que *no esté ya en este repositorio*, tenga el gusto de abrir una [Issue][issues] con su propuesta de enlaces.
     - Si ya maneja Git, haga un Fork del repositorio y envíe su contribución mediante Pull Request (PR).
 
-3. Dispone de 5 categorías. Seleccione aquel listado que crea conveniente según:
+3. Dispone de 6 categorías. Seleccione aquel listado que crea conveniente según:
 
     - *Libros* : PDF, HTML, ePub, un recurso alojado en gitbook.io, un repositorio Git, etc.
     - *Cursos* : Un curso es aquel material de aprendizaje que no es un libro. [Esto es un curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriales interactivos* : Un sitio web se considera interactivo si permite al usuario escribir código o comandos y evaluar su resultado ("evaluar" no significa "obtener una calificación"). Por ejemplo: [Pruebe Haskell](http://tryhaskell.org), [Pruebe GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts y Screencasts* : Son aquellas retransmisiones grabadas ya sea en audio y/o en vídeo, respectivamente.
     - *Conjuntos de problemas & Programación competitiva* : Se trata de un sitio web o software que le permita evaluar sus habilidades de programación resolviendo problemas simples o complejos, con o sin revisión de código, con o sin comparar los resultados con otros usuarios.
 

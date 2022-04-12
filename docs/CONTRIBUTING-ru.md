@@ -21,11 +21,12 @@
 2. Вам необязательно знать Git: если вы нашли что-то интересное, чего *еще нет в этом репозитории*, пожалуйста, откройте [Issue](https://github.com/EbookFoundation/free-programming-books/issues) с вашими предложениями.
     - Если вы знакомы с Git, пожалуйста форкните репозиторий и пришлите пулреквест (PR).
 
-3. У нас есть 5 видов списков. Выберите подходящий:
+3. У нас есть 6 видов списков. Выберите подходящий:
 
     - *Книги*: PDF, HTML, ePub, сайт на основе gitbook.io, репозиторий Git и т. Д.
     - *Курсы*: курс - это учебный материал, который не является книгой. [Это курс](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Интерактивные учебные пособия*: интерактивный веб-сайт, который позволяет пользователю вводить код или команды и оценивать результат (под «результатом» мы не подразумеваем «оценку»). например: [Попробуйте Haskell](http://tryhaskell.org), [Попробуйте GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Подкасты и скринкасты*: подкасты и скринкасты.
     - *Наборы задач и соревновательное программирование*: веб-сайт или программа, которое позволяет вам оценить свои навыки программирования, решая простые или сложные задачи, с проверкой кода или без нее, со сравнением результатов с результатами других пользователей или без него.
 

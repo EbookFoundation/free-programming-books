@@ -28,11 +28,12 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](C
 2. Bạn không cần phải biết về Git: nếu bạn tìm được thứ gì đó thú vị *và chưa có trong kho lưu trữ này*, vui lòng mở một [Issue](https://github.com/EbookFoundation/free-programming-books/issues) với các đề xuất mà bạn muốn đóng góp.
     - Nếu bạn biết Git, vui lòng Fork kho lưu trữ này và gửi Pull Requests (PR).
 
-3. Chúng tôi có 5 loại tài liệu, bạn có thể chọn một trong những cái dưới đây:
+3. Chúng tôi có 6 loại tài liệu, bạn có thể chọn một trong những cái dưới đây:
 
     - *Sách* : PDF, HTML, ePub, một trang web dựa trên gitbook.io, một kho lưu trữ Git, v.v.
     - *Khóa Học* : Một khóa học là một tài liệu học tập, không phải là sách. [Đây là một khóa học](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Hướng Dẫn Trực Quan* : Một trang web cho phép người dùng lập trình hoặc chạy chương trình dựa trên kết quả và đánh giá. Ví dụ: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts và Screencasts* : Podcasts và screencasts.
     - *Bài Tập & Cuộc Thi Lập Trình* : Trang web hoặc phần mềm cho phép bạn đánh giá kỹ năng lập trình của mình bằng cách giải quyết các vấn đề đơn giản hoặc phức tạp, có hoặc không có đánh giá mã nguồn, có hoặc không so sánh kết quả với những người khác.
 

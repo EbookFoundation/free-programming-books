@@ -23,7 +23,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CON
     - *Libri* : PDF, HTML, ePub, gitbook.io, una Git repo, etc.
     - *Corsi* : Un corso è del materiale gratuito che non è un libro. [Questo è un corso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutorial Interattivi* : Un sito interattivo permette all'utente di scrivere codice o comandi e analizzarne il risultato. esempi: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
-    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
+    - *Playgrounds* : Sono siti, giochi o applicazioni online ed interattive per imparare a programmare. Scrivi, compila (o esegui) e condividi codice. I playgrounds spesso ti permettono di forkare una repository e sporcarti le mani "giocando" con il codice.
     - *Podcasts e Screencasts* : Podcasts and screencasts.
     - *Set di problemi & Programmazione competitiva* : Un sito o software che ti permette di valutare le tue skills da programmatore risolvendo problemi semplici o complessi, con o senza la revisione del codice, con o senza la comparazione del risultato con gli altri utenti.
 

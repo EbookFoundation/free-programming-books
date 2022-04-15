@@ -201,6 +201,8 @@ Free Podcasts and Screencasts:
 
 ### Programming Playgrounds
 
+ Write, compile and run your code within a browser. Try it out! 
+ 
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
 

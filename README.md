@@ -8,14 +8,27 @@
 
 </div>
 
-This page is available as an easy-to-read website at [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=https%3A%2F%2Febookfoundation.github.io&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/)
+This page is available as an easy-to-read website at [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=https%3A%2F%2Febookfoundation.github.io&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/). Also try our new dynamic version of the website at [![https://ebookfoundation.github.io/free-programming-books-search/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=https%3A%2F%2Febookfoundation.github.io/free-programming-books-search&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books-search%2F)](https://ebookfoundation.github.io/free-programming-books-search/). 
 
+<div align="center">
+  <form action="https://ebookfoundation.github.io/free-programming-books-search">
+    <!-- <label for="search">Search: </label> -->
+    <input type="text" id="fpbSearch" name="search" placeholder="Search Book or Author"/>
+    <label for="submit"> </label>
+    <input type="submit" name="submit" value="Search" />
+  </form>
+<div>
+
+
+<div align="left" markdown="1">
 
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
 The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 226,000+ stars, about 9,600 watchers, more than 7,000 commits, 1,900+ contributors, and 47,700+ forks.
+
+</div>
 
 <div align="center" markdown="1">
 
@@ -28,6 +41,8 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 
 </div>
 
+<div align="left" markdown="1">
+
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 
@@ -36,6 +51,8 @@ The [Free Ebook Foundation](https://ebookfoundation.org) now administers the rep
 Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).
 
 Click on these badges to see how you might be able to help:
+
+</div>
 
 <div align="center" markdown="1">
 
@@ -47,6 +64,8 @@ Click on these badges to see how you might be able to help:
 [![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 
 </div>
+
+<div align="left" markdown="1">
 
 ## How to Share
 
@@ -182,8 +201,6 @@ Free Podcasts and Screencasts:
 
 ### Programming Playgrounds
 
-Write, compile and run your code within a browser. Try it out!
-
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
 
@@ -204,3 +221,5 @@ You might notice that there are [some missing translations here](docs/README.md#
 ## License
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
+
+</div>

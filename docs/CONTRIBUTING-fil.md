@@ -1,4 +1,4 @@
-*[Basahin ito sa ibang mga wika](../README.md#translations)*
+*[Basahin ito sa ibang mga wika](README.md#translations)*
 
 
 ## Kasunduan sa Lisensya ng Contributor
@@ -8,7 +8,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon ka sa [LICENSE](../LICENSE) ng reposi
 
 ## Kodigo ng Pag-uugali ng Contributor
 
-Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CODE_OF_CONDUCT-fil.md) ng repositoryong ito. ([translations](../README.md#translations))
+Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CODE_OF_CONDUCT-fil.md) ng repositoryong ito. ([translations](README.md#translations))
 
 
 ## Sa maikling sabi
@@ -31,7 +31,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
 5. Ang GitHub Actions ay magpapatakbo ng mga pagsubok upang matiyak na **ang iyong mga listahan ay naka-alpabeto** at **sinusunod ang mga panuntunan sa pag-format**. **Siguraduhing** suriin na ang iyong mga pagbabago ay pumasa sa mga pagsubok.
 
 
-<!----><a name="guidelines"></a>
+<!----><a id="guidelines"></a>
 ### Mga Alituntunin
 
 - siguraduhin na ang isang libro ay libre. I-double check kung kinakailangan. Nakakatulong ito sa mga admin kung magkomento ka sa PR kung bakit sa tingin mo ay libre ang libro.
@@ -60,7 +60,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
 - kung humiling ng email address o pag-setup ng account bago i-enable ang pag-download, magdagdag ng mga tala na naaangkop sa wika sa mga panaklong, hal.: `(email address *requested*, not required)`.
 
 
-<!----><a name="formatting"></a>
+<!----><a id="formatting"></a>
 ### Pag-format
 
 - Ang lahat ng mga listahan ay `.md` files. Subukang matuto [Markdown](https://guides.github.com/features/mastering-markdown/) syntax. Simple lang!
@@ -130,13 +130,13 @@ Halimbawa:
     GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-- <a name="in_process"></a>In-process books:
+- <a id="in_process"></a>In-process books:
 
     ```text
     GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
-- <a name="archived"></a>Archived link:
+- <a id="archived"></a>Archived link:
 
     ```text
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
@@ -235,7 +235,7 @@ Kung maaari mong i-print ito at panatilihin ang kakanyahan nito, hindi ito isang
 
 ### Automation
 
-- Ang pagpapatupad ng mga panuntunan sa pag-format ay awtomatiko sa pamamagitan ng [GitHub Actions](https://github.com/features/actions) gamit [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Ang pagpapatupad ng mga panuntunan sa pag-format ay awtomatiko sa pamamagitan ng [GitHub Actions](https://github.com/features/actions) gamit [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - Gumagamit ng pagpapatunay ng URL [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Upang ma-trigger ang pagpapatunay ng URL, mag-push ng commit na may kasamang commit na mensahe na naglalaman `check_urls=file_to_check`:
 

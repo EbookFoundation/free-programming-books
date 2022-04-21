@@ -1,4 +1,4 @@
-*[Leia em outros idiomas](../README.md#translations)*
+*[Leia em outros idiomas](README.md#translations)*
 
 
 ## Acordo de Licença do Contribuidor
@@ -8,7 +8,7 @@ Ao contribuir você concorda com a [LICENSE](../LICENSE) deste repositório.
 
 ## Código de Conduta do Contribuidor
 
-Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT-pt_BR.md) deste repositório. ([translations](../README.md#translations))
+Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT-pt_BR.md) deste repositório. ([translations](README.md#translations))
 
 
 ## Em poucas palavras
@@ -127,7 +127,7 @@ Exemplo:
     BOM : * [Um Livro Muito Incrível (1970)](https://exemplo.org/livro.html) - Fulana de Tal
     ```
 
-- <a name="in_process"></a>Livros em processo:
+- <a id="in_process"></a>Livros em processo:
 
     ```text
     BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) (:construction: *em processo*)
@@ -226,7 +226,7 @@ Se você pode capturar a tela ou imprimí-la e reter sua essência, então não 
 
 ### Automação
 
-- Aplicação das regras de formatação é automatizada via [GitHub Actions](https://github.com/features/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (veja [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Aplicação das regras de formatação é automatizada via [GitHub Actions](https://github.com/features/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (veja [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - Validação de URL usa [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Para ativar a validação de URL, dê _push_ num _commit_ que inclua uma mensagem de _commit_ contendo `check_urls=file_to_check`:
 

@@ -70,7 +70,7 @@
 * [Learn C](http://www.learn-c.org) - Learn-C
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
@@ -79,7 +79,7 @@
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
@@ -159,6 +159,7 @@
 ### HTML / CSS
 
 * [CSS Diner](http://flukeout.github.io)
+* [CSS Speedrun \| Test your CSS Skills](https://css-speedrun.netlify.app) - Vincent Will (HTML)
 * [CSS Tutorial](https://www.w3schools.com/css/) - W3Schools
 * [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure) - Nick Bull
 * [Flexbox Defense](http://flexboxdefense.com)
@@ -312,6 +313,7 @@
 
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp
+* [futurecoder](https://futurecoder.io) - Alex Hall
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)

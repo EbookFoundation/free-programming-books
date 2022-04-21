@@ -1,4 +1,4 @@
-*[Read this in other languages](../README.md#translations)*
+*[Read this in other languages](README.md#translations)*
 
 
 ## Contributor License Agreement
@@ -8,7 +8,7 @@ By contributing you agree to the [LICENSE](../LICENSE) of this repository.
 
 ## Contributor Code of Conduct
 
-By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) of this repository. ([translations](../README.md#translations))
+By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) of this repository. ([translations](README.md#translations))
 
 
 ## In a nutshell
@@ -18,11 +18,12 @@ By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) o
 2. You don't have to know Git: if you found something of interest which is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
     - If you know Git, please Fork the repo and send Pull Requests (PR).
 
-3. We have 5 kinds of lists. Choose the right one:
+3. We have 6 kinds of lists. Choose the right one:
 
     - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
     - *Courses* : A course is a learning material which is not a book. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Interactive Tutorials* : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts and Screencasts* : Podcasts and screencasts.
     - *Problem Sets & Competitive Programming* : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
 
@@ -128,13 +129,13 @@ Example:
     GOOD: * [A Very Awesome Book (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-- <a name="in_process"></a>In-process books:
+- <a id="in_process"></a>In-process books:
 
     ```text
     GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
-- <a name="archived"></a>Archived link:
+- <a id="archived"></a>Archived link:
 
     ```text
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
@@ -233,7 +234,7 @@ If you can print it out and retain its essence, it's not an Interactive Tutorial
 
 ### Automation
 
-- Formatting rules enforcement is automated via [GitHub Actions](https://github.com/features/actions) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Formatting rules enforcement is automated via [GitHub Actions](https://github.com/features/actions) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - URL validation uses [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - To trigger URL validation, push a commit that includes a commit message containing `check_urls=file_to_check`:
 

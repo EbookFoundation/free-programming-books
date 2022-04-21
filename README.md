@@ -1,37 +1,64 @@
-This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
-
-
 # List of Free Learning Resources In Many Languages
 
 <div align="center" markdown="1">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)&#160;
+<!-- [![Hacktoberfest 2021 stats](https://img.shields.io/github/hacktoberfest/2021/EbookFoundation/free-programming-books?label=Hacktoberfest+2021)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged+created%3A2021-10-01..2021-10-31) -->
 
 </div>
+
+This page is available as an easy-to-read website at [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=https%3A%2F%2Febookfoundation.github.io&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/)
 
 
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 221,000+ stars, 6,900+ commits, 1,900+ contributors, and 47,100+ forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 226,000+ stars, about 9,600 watchers, more than 7,000 commits, 1,900+ contributors, and 47,700+ forks.
+
+<div align="center" markdown="1">
+
+[![GitHub repo forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/EbookFoundation/free-programming-books/network)&#160;
+[![GitHub repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/EbookFoundation/free-programming-books/stargazers)&#160;
+[![GitHub repo contributors](https://img.shields.io/github/contributors-anon/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Contributors)](https://github.com/EbookFoundation/free-programming-books/graphs/contributors)    
+[![GitHub org sponsors](https://img.shields.io/github/sponsors/EbookFoundation?style=flat&logo=github&logoColor=whitesmoke&label=Sponsors)](https://github.com/sponsors/EbookFoundation)&#160;
+[![GitHub repo watchers](https://img.shields.io/github/watchers/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/EbookFoundation/free-programming-books/watchers)&#160;
+[![GitHub repo size](https://img.shields.io/github/repo-size/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/EbookFoundation/free-programming-books/archive/refs/heads/main.zip)
+
+</div>
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 
-### How To Contribute
+## How To Contribute
 
-Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our [Code of Conduct](docs/CODE_OF_CONDUCT.md) too. ([translations](#translations) also available)
+Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).
 
+Click on these badges to see how you might be able to help:
 
-### How to Share
+<div align="center" markdown="1">
+
+[![GitHub repo Issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/EbookFoundation/free-programming-books/issues)&#160;
+[![GitHub repo Good Issues for newbies](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/good%20first%20issue?style=flat&logo=github&logoColor=green&label=Good%20First%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)&#160;
+[![GitHub Help Wanted issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)    
+[![GitHub repo PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/EbookFoundation/free-programming-books/pulls)&#160;
+[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged)&#160;
+[![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
+</div>
+
+## How to Share
 
 + [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
 + [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 + [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
 
+
+## Resources
+
+This project lists books and other resources grouped by genres:
 
 ### Books
 
@@ -70,6 +97,7 @@ Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welc
 + [Portuguese (Portugal)](books/free-programming-books-pt_PT.md)
 + [Romanian (Romania) / limba română / român](books/free-programming-books-ro.md)
 + [Russian / Русский язык](books/free-programming-books-ru.md)
++ [Serbian / српски језик / srpski jezik](books/free-programming-books-sr.md)
 + [Slovak / slovenčina](books/free-programming-books-sk.md)
 + [Spanish / español / castellano](books/free-programming-books-es.md)
 + [Swedish / Svenska](books/free-programming-books-sv.md)
@@ -99,6 +127,7 @@ Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welc
 + [Hindi / हिंदी](courses/free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](courses/free-courses-id.md)
 + [Italian / italiano](courses/free-courses-it.md)
++ [Japanese / 日本語](courses/free-courses-ja.md)
 + [Kazakh / қазақша](courses/free-courses-kk.md)
 + [Khmer / ភាសាខ្មែរ](courses/free-courses-km.md)
 + [Korean / 한국어 [韓國語]](courses/free-courses-ko.md)
@@ -153,112 +182,24 @@ Free Podcasts and Screencasts:
 
 ### Programming Playgrounds
 
+Write, compile and run your code within a browser. Try it out!
+
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
 
 
-### Translations
+## Translations
 
-We have Contributing, How-to, and Code of Conduct documents translated into many languages.
+Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
 
-- Arabic / al arabiya / العربية
-  - [How-to](docs/HOWTO-ar.md)
-- Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي
-- Bengali / বাংলা
-  - [How-to](docs/HOWTO-bn.md)
-- Bosnian / bosanski jezik
-  - [How-to](docs/HOWTO-bs.md)
-- Bulgarian / български
-- Burmese / မြန်မာဘာသာ
-- Chinese / 中文
-  - [Contributing](docs/CONTRIBUTING-zh.md)
-  - [How-to](docs/HOWTO-zh.md)
-- Chinese (traditional) / 繁體中文
-  - [Contributing](docs/CONTRIBUTING-zh_TW.md)
-  - [How-to](docs/HOWTO-zh_TW.md)
-- Czech / čeština / český jazyk
-- Danish / dansk
-- Dutch / Nederlands
-  - [How-to](docs/HOWTO-nl.md)
-- English
-  - [Code of Conduct](docs/CODE_OF_CONDUCT.md)
-  - [Contributing](docs/CONTRIBUTING.md)
-  - [How-to](docs/HOWTO.md)
-- Estonian / eesti keel
-- Finnish / suomi / suomen kieli
-- Filipino
-  - [Kodigo ng Pag-uugali](docs/CODE_OF_CONDUCT-fil.md)
-  - [Contributing](docs/CONTRIBUTING-fil.md)
-  - [How-to](docs/HOWTO-fil.md)
-- French / français
-  - [Code de Contrat](docs/CODE_OF_CONDUCT-fr.md)
-  - [Contributing](docs/CONTRIBUTING-fr.md)
-  - [How-to](docs/HOWTO-fr.md)
-- German / Deutsch
-  - [Verhaltenskodex](docs/CODE_OF_CONDUCT-de.md)
-  - [How-to](docs/HOWTO-de.md)
-  - [Mitwirken](docs/CONTRIBUTING-de.md)
-- Greek / ελληνικά
-  - [Κώδικα Δεοντολογίας](docs/CODE_OF_CONDUCT-el.md)
-  - [Contributing](docs/CONTRIBUTING-el.md)
-  - [How-to](docs/HOWTO-el.md)
-- Hebrew / עברית
-- Hindi / हिन्दी
-  - [आचार संहिता](docs/CODE_OF_CONDUCT-hi.md)
-  - [How-to](docs/HOWTO-hi.md)
-- Hungarian / magyar / magyar nyelv
-- Indonesian / Bahasa Indonesia
-  - [Berkontribusi](docs/CONTRIBUTING-id.md)
-  - [Kode Etik](docs/CODE_OF_CONDUCT-id.md)
-  - [How-to](docs/HOWTO-id.md)
-- Italian / italiano
-  - [Codice di Comportamento](docs/CODE_OF_CONDUCT-it.md)
-  - [Contributing](docs/CONTRIBUTING-it.md)
-  - [How-to](docs/HOWTO-it.md)
-- Japanese / 日本語
-- Khmer / Cambodian / ខ្មែរ
-  - [How-to](docs/HOWTO-km.md)
-- Korean / 한국어 [韓國語]
-  - [행동강령](docs/CODE_OF_CONDUCT-ko.md)
-  - [Contributing](docs/CONTRIBUTING-ko.md)
-  - [How-to](docs/HOWTO-ko.md)
-- Norwegian / Norsk
-- Persian / Farsi (Iran) / فارسى
-  - [مرام‌نامه‌ی](docs/CODE_OF_CONDUCT-fa_IR.md)
-  - [Contributing](docs/CONTRIBUTING-fa_IR.md)
-  - [How-to](docs/HOWTO-fa_IR.md)
-- Polish / polski / język polski / polszczyzna
-  - [Code of Conduct](docs/CODE_OF_CONDUCT-pl.md)
-  - [How-to](docs/HOWTO-pl.md)
-- Portuguese (Brazil)
-  - [Código de Conduta](docs/CODE_OF_CONDUCT-pt_BR.md)
-  - [Contributing](docs/CONTRIBUTING-pt_BR.md)
-  - [How-to](docs/HOWTO-pt_BR.md)
-- Portuguese (Portugal)
-  - [How-to](docs/HOWTO-pt_PT.md)
-- Romanian (Romania) / limba română / român
-- Russian / Русский язык
-  - [Кодекс поведения](docs/CODE_OF_CONDUCT-ru.md)
-  - [Contributing](docs/CONTRIBUTING-ru.md)
-- Slovak / slovenčina
-  - [How-to](docs/HOWTO-sk.md)
-- Spanish / español / castellano
-  - [Código de Conducta](docs/CODE_OF_CONDUCT-es.md)
-  - [Contributing](docs/CONTRIBUTING-es.md)
-  - [How-to](docs/HOWTO-es.md)
-- Swedish / Svenska
-  - [How-to](docs/HOWTO-sv.md)
-- Tamil / தமிழ்
-- Thai / ไทย
-  - [How-to](docs/HOWTO-th.md)
-- Turkish / Türkçe
-  - [How-to](docs/HOWTO-tr.md)
-- Ukrainian / Українська
-  - [Кодекс Поведінки](docs/CODE_OF_CONDUCT-uk.md)
-  - [How-to](docs/HOWTO-uk.md)
-- Vietnamese / Tiếng Việt
-  - [Đóng Góp](docs/CONTRIBUTING-vi.md)
-  - [How-to](docs/HOWTO-vi.md)
++ English
+  + [Code of Conduct](docs/CODE_OF_CONDUCT.md)
+  + [Contributing](docs/CONTRIBUTING.md)
+  + [How-to](docs/HOWTO.md)
++ ... *[More languages](docs/README.md#translations)* ...
+
+You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
+
 
 ## License
 

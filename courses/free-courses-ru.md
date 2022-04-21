@@ -29,12 +29,12 @@ INT - Cредний. Расширенные возможности.
 ADV - Продвинутый. Тонкости.
 
 
-### <a name="design-architecture"></a>Дизайн и Aрхитектура
+### <a id="design-architecture"></a>Дизайн и Aрхитектура
 
 * [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [Введение в программирование (C++)](https://stepik.org/course/363) - Stepik (BEG)
 * [Основы разработки на С++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white) - Шишков Илья Иванович, Парамонов Евгений Анатольевич, Полднев Антон Вячеславович, Лежанкин Иван Андреевич (Coursera) (INT)

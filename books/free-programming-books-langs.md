@@ -214,6 +214,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Angular](#angular)
   * [Deno](#deno)
 * [Unix](#unix)
+* [V](#v)
 * [Verilog](#verilog)
 * [VHDL](#vhdl)
 * [Vim](#vim)
@@ -2442,6 +2443,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Unix for Poets](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
 * [Unix Toolbox](https://web.archive.org/web/20210912091852/https://cb.vu/unixtoolbox.xhtml) - Colin Barschel *(:card_file_box: archived)*
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+
+
+### V
+* [V Documentation](https://github.com/vlang/v/blob/master/doc/docs.md) (Markdown)
 
 
 ### Verilog

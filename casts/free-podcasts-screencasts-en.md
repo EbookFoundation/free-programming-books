@@ -56,7 +56,7 @@
 ### Clojure
 
 * [ClojureScript Podcast](https://clojurescriptpodcast.com) - Jacek Schae (podcast)
-* [Parens of the Dead](http://www.parens-of-the-dead.com) (screencast)
+* [Parens of the Dead](http://www.parens-of-the-dead.com) - Magnar Sveen, Elisabeth Irgens (screencast)
 
 
 ### Common Lisp

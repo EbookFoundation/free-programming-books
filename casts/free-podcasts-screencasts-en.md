@@ -256,7 +256,7 @@
 * [Developer Tea](https://developertea.com) (podcast)
 * [DevelopersHangout](http://www.developershangout.io) (podcast)
 * [Domain Driven Design Europe](https://dddeurope.com/videos/) (screencast)
-  * [Domain Driven Design Europe - 2017](https://2017.dddeurope.com/#videos) (screencast)
+    * [Domain Driven Design Europe - 2017](https://2017.dddeurope.com/#videos) (screencast)
 * [FLOSS WEEKLY](https://twit.tv/shows/floss-weekly) (podcast)
 * [Frontside the Podcast](https://frontside.io/podcast/) (podcast)
 * [Full Stack Radio](http://www.fullstackradio.com) (podcast)

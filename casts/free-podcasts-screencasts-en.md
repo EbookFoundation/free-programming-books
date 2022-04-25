@@ -41,8 +41,8 @@
 
 ### C&#x23;
 
-* [Beginning C# with Unity](https://www.youtube.com/watch?v=2Ki58iQkot4&list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) (screencast)
-* [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) (screencast)
+* [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) - Brian Douglas Moakley, VegetarianZombie (screencast)
+* [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Asbjørn Thirslund (screencast)
 
 
 ### <a id="cpp"></a>C++

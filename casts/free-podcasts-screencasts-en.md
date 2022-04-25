@@ -61,8 +61,8 @@
 
 ### Common Lisp
 
-* [Common Lisp for Beginners](https://www.youtube.com/watch?v=xyXDE5gP2QI&list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) (screencast)
-* [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) (screencast)
+* [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
+* [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
 
 
 ### CSS

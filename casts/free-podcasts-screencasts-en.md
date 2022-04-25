@@ -69,7 +69,7 @@
 
 * [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) (screencast)
 * [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) (screencast)
-* [The Css Podcast](https://thecsspodcast.libsyn.com) - Una Kravets and Adam Argyle (podcast)
+* [The Css Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
 
 
 ### Data Science
@@ -85,7 +85,7 @@
 * [Partially Derivative](http://partiallyderivative.com) (podcast)
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
-* [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi and Christopher Peter Makris (podcast)
+* [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi, Christopher Peter Makris (podcast)
 * [The Data Science Podcast](https://developer.ibm.com/podcasts/the-data-science-podcast/) - IBM (podcast)
 
 
@@ -108,7 +108,7 @@
 
 ### Git
 
-* [All Things Git](https://www.allthingsgit.com) - Edward Thomson and Martin Woodward (podcast)
+* [All Things Git](https://www.allthingsgit.com) - Edward Thomson, Martin Woodward (podcast)
 * [GitMinutes](http://www.gitminutes.com) (podcast)
 * [Jhan Carlos Silva - Git and Github Tutorial](https://www.youtube.com/watch?v=NPRUsCcZwJ4) (screencast)
 * [The Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (screencast)
@@ -154,9 +154,9 @@
 
 * [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
 * [How to Program with Java Podcast](https://www.podbean.com/podcast-detail/6mxhc-344f7/How-to-Program-with-Java-Podcast) - Trevor Page (podcast)
-* [Inside Java](https://inside.java/podcast) - Chad Arimura and David Delabassee (podcast)
+* [Inside Java](https://inside.java/podcast) - Chad Arimura, David Delabassee (podcast)
 * [Java OffHeap](https://www.javaoffheap.com) - Freddy Guime (podcast)
-* [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime and Bob Paulin (podcast)
+* [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime, Bob Paulin (podcast)
 
 
 ### JavaScript
@@ -164,7 +164,7 @@
 * [devMode.fm](https://devmode.fm) - Andrew Welch, Patrick Harrington, Jonathan Melville, Michael Rog et al. (podcast)
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
 * [Front End Happy Hour](http://frontendhappyhour.com) (podcast)
-* [Frontend First](https://frontendfirst.fm) - Sam Selikoff and Ryan Toronto (podcast)
+* [Frontend First](https://frontendfirst.fm) - Sam Selikoff, Ryan Toronto (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) (podcast)
 * [HTML All The Things](https://www.htmlallthethings.com) (podcast)
 * [JavaScript Air](https://javascriptair.com) (podcast)
@@ -185,14 +185,14 @@
 
 #### Elm
 
-* [Elm Radio](https://elm-radio.com) - Dillon Kearns and Jeroen Engels (podcast)
+* [Elm Radio](https://elm-radio.com) - Dillon Kearns, Jeroen Engels (podcast)
 * [Elm Town](https://elmtown.simplecast.com) (podcast)
 
 
 #### Ember.js
 
 * [Ember Weekend](https://emberweekend.com/episodes) (podcast)
-* [The EmberMap Podcast](https://embermap.com/podcast) - Sam Selikoff and Ryan Toronto (podcast)
+* [The EmberMap Podcast](https://embermap.com/podcast) - Sam Selikoff, Ryan Toronto (podcast)
 
 
 #### Machine Learning
@@ -320,7 +320,7 @@
 ### PostgreSQL
 
 * [PG Casts](https://www.pgcasts.com) (screencast)
-* [Scaling Postgres](https://player.fm/series/scaling-postgres) - Ruby Tree Software Inc and Creston Jamison (podcast)
+* [Scaling Postgres](https://player.fm/series/scaling-postgres) - Ruby Tree Software Inc, Creston Jamison (podcast)
 
 
 ### Python

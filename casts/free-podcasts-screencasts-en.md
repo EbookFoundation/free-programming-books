@@ -67,9 +67,9 @@
 
 ### CSS
 
-* [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) (screencast)
-* [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) (screencast)
-* [The Css Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
+* [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - Brad Traversy (screencast)
+* [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) - Chris Coyier (screencast)
+* [The CSS Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
 
 
 ### Data Science

@@ -33,10 +33,10 @@
 
 ### Android
 
-* [The complete Android Application Development Course - Work Great in 2020](https://www.youtube.com/playlist?list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe) - Android Developer (screencast)
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) - Chet Haase, Tor Norbye, Romain Guy, Nick Butcher, et al. Android Developers team (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) - Donn Felker, Kaushik Gopal (podcast)
 * [Now in Android](https://nowinandroid.libsyn.com) - Chet Haase, Dan Galpin, Manuel Vivo, Meghan Mehta, et al. Android Developers team (podcast)
+* [The complete Android Application Development Course - Work Great in 2020](https://www.youtube.com/playlist?list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe) - Android Developer (screencast)
 
 
 ### C&#x23;

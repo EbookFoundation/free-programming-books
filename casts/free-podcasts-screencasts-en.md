@@ -161,7 +161,7 @@
 
 ### JavaScript
 
-* [devMode.fm](https://devmode.fm) - Andrew Welch, Patrick Harrington, Jonathan Melville, Michael Rog et al. (podcast)
+* [devMode.fm](https://devmode.fm) - Andrew Welch, Patrick Harrington, Jonathan Melville, Michael Rog, et al. (podcast)
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
 * [Front End Happy Hour](http://frontendhappyhour.com) (podcast)
 * [Frontend First](https://frontendfirst.fm) - Sam Selikoff, Ryan Toronto (podcast)
@@ -227,7 +227,7 @@
 * [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
 * [React Round Up](https://devchat.tv/podcasts/react-round-up) - DevChat.tv (podcast)
 * [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
-* [The React Native Show](https://www.callstack.com/podcast-react-native-show) - Mike Grabowski et al. (screencast)
+* [The React Native Show](https://www.callstack.com/podcast-react-native-show) - Mike Grabowski, et al. (screencast)
 
 
 ### Kotlin

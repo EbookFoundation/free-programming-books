@@ -2447,7 +2447,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### V
 
-* [V Documentation](https://github.com/vlang/v/blob/HEAD/doc/docs.md) - Alex Medveniko, vlang.io, et al. (Markdown)
+* [V Documentation](https://github.com/vlang/v/blob/HEAD/doc/docs.md) - vlang.io (Markdown)
 
 
 ### Verilog

@@ -178,7 +178,7 @@
 * [Learn JAVA Programming From Scratch In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN) - Adel Nasim
 * [Object-Oriented Programming JAVA in Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim
 * [Programming 2 - Object Oriented Programming With Java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk) - محمد الدسوقى
-
+* [Java Tutorial for beginners- full course  -تعلم البرمجة- جافا](https://www.youtube.com/playlist?list=PLwAjM63H9bRuXIojpKDei4dVLRcvqP8V7) -  genial code 
 
 ### JavaScript
 

@@ -131,7 +131,7 @@
 
 ### Gulp
 
-* [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp) (screencast)
+* [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp) - Scott Tolinski (screencast)
 
 
 ### Haskell

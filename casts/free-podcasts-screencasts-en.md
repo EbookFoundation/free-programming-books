@@ -1,7 +1,7 @@
 ### Index
 
 * [Android](#android)
-* [C#](#c)
+* [C#](#c-sharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Common Lisp](#common-lisp)
@@ -39,7 +39,7 @@
 * [The complete Android Application Development Course - Work Great in 2020](https://www.youtube.com/playlist?list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe) - Android Developer (screencast)
 
 
-### C&#x23;
+### <a id="c-sharp"></a>C&#x23;
 
 * [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) - Brian Douglas Moakley, VegetarianZombie (screencast)
 * [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Asbjørn Thirslund (screencast)

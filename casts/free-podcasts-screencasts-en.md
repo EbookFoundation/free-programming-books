@@ -74,18 +74,18 @@
 
 ### Data Science
 
-* [Data Futurology](https://www.datafuturology.com/episodes-1) (podcast)
-* [Data Skeptic](http://dataskeptic.com/episodes.php) (podcast)
-* [Data Stories](http://datastori.es) (podcast)
-* [DataFramed](https://www.datacamp.com/community/podcast) (podcast)
-* [Learning Machines 101](http://www.learningmachines101.com) (podcast)
-* [Linear Digressions](http://www.lineardigressions.com) (podcast)
-* [Not So Standard Deviations](https://nssdeviations.com) (podcast)
-* [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast) (podcast)
-* [Partially Derivative](http://partiallyderivative.com) (podcast)
+* [Data Futurology - Leadership And Strategy in Artificial Intelligence, Machine Learning, Data Science](https://www.datafuturology.com/podcasts) - Felipe Flores (podcast)
+* [Data Skeptic](https://dataskeptic.com/episodes) - Kyle Polich (podcast)
+* [Data Stories - a podcast on data\+visualization](http://datastori.es) - Enrico Bertini, Moritz Stefaner, Sandra Rendgen, Florian Wöhrl, Destry Sibley (podcast)
+* [DataFramed](https://www.datacamp.com/community/podcast) - Martijn Theuwissen, et al. Datacamp team (podcast)
+* [Learning Machines 101](https://www.learningmachines101.com) - Richard M. Golden (podcast)
+* [Linear Digressions](https://www.lineardigressions.com) - Katie, Ben (podcast)
+* [Not So Standard Deviations](https://nssdeviations.com) - Roger Peng, Hilary Parker (podcast)
+* [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast) - Ben Lorica (podcast)
+* [Partially Derivative](http://partiallyderivative.com) - Chris Albon, Jonathon Morgan, Vidya Spandana (podcast)
 * [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
-* [Talking Machines](http://www.thetalkingmachines.com) (podcast)
-* [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi, Christopher Peter Makris (podcast)
+* [Talking Machines](https://www.thetalkingmachines.com) - Katherine Gorman, Neil Lawrence (podcast)
+* [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi, Christopher Peter Makris, Corey Strausman (podcast)
 * [The Data Science Podcast](https://developer.ibm.com/podcasts/the-data-science-podcast/) - IBM (podcast)
 
 

@@ -13,7 +13,7 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
-* [IDE / Editors](#ide--editors)
+* [IDE and Editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Angular](#angular)
@@ -141,13 +141,13 @@
 * [The Haskell Cast](https://www.haskellcast.com) - Chris Forno, Alp Mestanogullari, Rein Henrichs (podcast)
 
 
-### IDE / Editors
+### IDE and Editors
 
 * [Emacs Cast](https://emacscast.org) - Rakhim Davletkaliyev (podcast)
-* [Emacs Rocks!](http://emacsrocks.com) (screencast)
-* [Free screencasts about the text editor Vim](http://vimcasts.org) (screencast)
+* [Emacs Rocks!](http://emacsrocks.com) - Christian Johansen (screencast)
+* [Free screencasts about the text editor Vim](http://vimcasts.org) - Drew Neil (screencast)
 * [PHPStorm Tips & Tricks](https://www.youtube.com/playlist?list=PLk9WlAgeZoTfHdJUv75-5grVQf4ijIrzw) - Christoph Rumpel (screencast)
-* [vim Hacking](https://www.youtube.com/playlist?list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7) (screencast)
+* [vim Hacking](https://www.youtube.com/playlist?list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7) - Luke Smith (screencast)
 
 
 ### Java

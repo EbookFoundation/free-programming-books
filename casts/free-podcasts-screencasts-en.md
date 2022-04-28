@@ -116,17 +116,17 @@
 
 ### Golang
 
-* [Build webapp without using a framework](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4) (screencast)
-* [Go An Introduction](https://www.youtube.com/watch?v=SI-okTfauyw) (screencast)
-* Go and AngularJS  (screencasts)
-    * [Part 1 - Hello World](https://www.youtube.com/watch?v=U80k7fTEqNw)
-    * [Part 2 - Websockets](https://www.youtube.com/watch?v=ysAZ_oqPOo0)
-    * [Part 3 - REST and ngResource](https://www.youtube.com/watch?v=QHIMygADPPc)
-* [Go Programming Tutorial](https://www.youtube.com/watch?v=CF9S4QZuV30) (screencast)
-* [Go Time](https://changelog.com/gotime) (podcast)
-* [GolangShow](https://golangshow.com) (podcast)
-* [Hacking with Andrew and Brad: an HTTP/2 client](https://www.youtube.com/watch?v=yG-UaBJXZ80) (screencast)
-* [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY) (screencast)
+* [Build webapp without using a framework](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4) - Suraj Patil (screencast)
+* [Go: An Introduction](https://www.youtube.com/watch?v=SI-okTfauyw) - Shane Logsdon (screencast)
+* Go and AngularJS - Jake Coffman (screencast)
+    * [Part 1 - Hello World](https://www.youtube.com/watch?v=U80k7fTEqNw) - Jake Coffman
+    * [Part 2 - Websockets](https://www.youtube.com/watch?v=ysAZ_oqPOo0) - Jake Coffman
+    * [Part 3 - REST and ngResource](https://www.youtube.com/watch?v=QHIMygADPPc) - Jake Coffman
+* [Go Programming Tutorial](https://www.youtube.com/watch?v=CF9S4QZuV30) - Derek Banas (screencast)
+* [Go Time](https://changelog.com/gotime) - Mat Ryer, John Calhoun, Natalie Pistunovich, Johnny Boursiquot, Angelica Hill, Kris Brandow, Mark Bates, Carmen Andoh, et al. The Changelog team (podcast)
+* [GolangShow](https://golangshow.com) - Elena Grahovac, Alexey Palazhchenko, Andrew Pogrebnoy, Alexander Morozov, Artem Andreenko (podcast)
+* [Hacking with Andrew and Brad: an HTTP/2 client](https://www.youtube.com/watch?v=yG-UaBJXZ80) - Andrew Gerrand, Brad Fitzpatrick (screencast)
+* [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY) - Andrew Gerrand, Brad Fitzpatrick (screencast)
 
 
 ### Gulp

@@ -249,10 +249,10 @@
 * [React.js Hooks&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ5-WwSSWYLp0kC8xxE46YG) - Algorithm Academy
 * [React.js Todo App&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYKXNTPUiZw8X7dDIgsSZln) - Algorithm Academy
 * [ReactJS - Advanced [تعلم رياكت ]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFTiDCCVu_uCW0GXqyvhtbf8) - kimz codes
+* [ReactJs-Build Full E-Commerce From Scratch Redux (بالعربي)](https://www.youtube.com/playlist?list=PLDQ11FgmbqQPRui5VDCSQvYt2HOYiCVep) - Programming Solutions - Academy
 * [ReactJS Part 1 - Learn React Hooks by Project [تعلم الرياكت هوكس] [الجزء الاول]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFSaQIFNstRIrbm_fqb12Q59) - kimz codes
 * [ReactJS Part 2 - UseEffect & UseRef - working with API and Prev State [Arabic] [بالعربي][الجزء الثاني]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFQa9YDF5pzB4JFbJovh3TN9) - kimz codes
 * [ReactJS Part 3 - Performance Optimization (react memo, use memo, use call back) [تعلم الرياكت] [الجزء الثالث]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFTYdkjzqYBujf7UCVQyn_aq) - kimz codes
-* [ReactJs-Build Full E-Commerce From Scratch Redux (بالعربي)](https://www.youtube.com/playlist?list=PLDQ11FgmbqQPRui5VDCSQvYt2HOYiCVep) - Programming Solutions - Academy
 * [Redux ToolKit 2021/2022 part 4 [شرح Redux toolkit] [تعلم Redux] [شرح Redux]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFREfrBoSl8tjAPZOY6HNqZv) - kimz codes
 * [Redux ToolKit Project, Book Store project [تعلم Redux toolkit]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFQFvS469VXyCPO_py_kvVD5) - kimz codes
 

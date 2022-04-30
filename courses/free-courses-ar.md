@@ -64,6 +64,7 @@
 * [Bootstrap 4&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy0dU3C3_lNRTSTtqePEsI2) - Elzero Web School
 * [Bootstrap 5 Design 01 Bondi&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) - Elzero Web School
 
+
 ### C
 
 * [Introduction to Programming ( C Language - مقدمة في البرمجة ( لغة السي](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXI8wByY0umF_DQON2S9uws) - Ahmed Sallam
@@ -221,8 +222,8 @@
 
 #### NodeJS
 
-* [كورس NodeJS بالعربي -ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY5S0IMTxqCb41fF8RDBQZ_w) - Mobarmg
 * [كورس MongoDB بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY6ZTH5cneI_S0Bzzj-4j082) - Mobarmg
+* [كورس NodeJS بالعربي -ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY5S0IMTxqCb41fF8RDBQZ_w) - Mobarmg
 * [Arabic Dive into Node JS Development الغوص في النود جي اس](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp) - KMR Script
 * [Learn Basic of NodeJS&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7) - Emam Academy
 * [Learn NodeJS from zero to hero&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOa3EiUpjO04DVxEE9Ox12ta) - Algorithm Academy
@@ -234,6 +235,8 @@
 * [NodeJS Express&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75J0BZL_jSwuYxIm9m9S_NZw) - Emam Academy
 * [Pre NodeJS Course&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY4KgXU42KUgbCpyluuEc4uk) - Mobarmg
 * [REST API Node.js&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75ILwl15d0Cn-W_XHpnKbNHL) - Emam Academy
+
+
 #### PugJs
 
 * [Learn PugJs&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxckfbgAzwwxeoeBfi0y724) - Elzero Web School
@@ -252,6 +255,7 @@
 * [ReactJs-Build Full E-Commerce From Scratch Redux (بالعربي)](https://www.youtube.com/playlist?list=PLDQ11FgmbqQPRui5VDCSQvYt2HOYiCVep) - Programming Solutions - Academy
 * [Redux ToolKit 2021/2022 part 4 [شرح Redux toolkit] [تعلم Redux] [شرح Redux]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFREfrBoSl8tjAPZOY6HNqZv) - kimz codes
 * [Redux ToolKit Project, Book Store project [تعلم Redux toolkit]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFQFvS469VXyCPO_py_kvVD5) - kimz codes
+
 
 #### Vue.js
 
@@ -340,9 +344,9 @@
 
 * [كورس Angular 2 بالعربي](https://www.youtube.com/playlist?list=PLzCpl3aBwaY7eOwGMlps70dTYs2TSsgj1) - Mobarmg
 * [كورس AngularJS بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY43XfnAm-IRuXwtkp0kzpdt) - Mobarmg
+* [Angular 4+ [arabic tutorial]&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8piCgv_buHpthEBXHaw0ss) - codeZone
 * [Arabic Angular 7 from A to R احتراف الانجولار](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjSjy7yeJwpj2QkJd8NKo-O) - KMR Script&rlm; (YouTube)
 * [Arabic Angular and Firebase App تطبيق انجولار وفايربيز](https://www.youtube.com/playlist?list=PLL2zWZTDFZzh2WEmc3fH_O4y4N05ZCqB2) - KMR Script&rlm; (YouTube)
 * [Arabic NgRx (Angular + Redux)&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhW10baUv1esvrowMwbfd5H) - KMR Script&rlm; (YouTube)
-* [Angular 4+ [arabic tutorial]&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8piCgv_buHpthEBXHaw0ss) - codeZone
 
 </div>

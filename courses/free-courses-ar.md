@@ -149,14 +149,14 @@
 
 * [Basic course for Git](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeCHLTRtwdLpQvle_zIavZ-) - أكاديمية ترميز
 * [Git and Github&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) - Elzero Web School
-* [GitHub - تعلم العمل المشترك على](https://www.youtube.com/playlist?list=PLF8OvnCBlEY0CRqKiYKwOtrH-75MGIuyM) -TheNewBaghdad
+* [GitHub - تعلم العمل المشترك على](https://www.youtube.com/playlist?list=PLF8OvnCBlEY0CRqKiYKwOtrH-75MGIuyM) - TheNewBaghdad
 * [Learn Git in Arabic&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy
 
 
 ### HTML / CSS
 
-* [برمجة المواقع |\ تعلم لغة الhtml من الصفر](https://www.youtube.com/playlist?list=PLYyqC4bNbCIfMY5CoGmiWaPi9l86qaz5B) - أكاديمية ترميز
-* [برمجة المواقع |\ سلسلة دروس لغة css](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu) - أكاديمية ترميز
+* [برمجة المواقع \| تعلم لغة الhtml من الصفر](https://www.youtube.com/playlist?list=PLYyqC4bNbCIfMY5CoGmiWaPi9l86qaz5B) - أكاديمية ترميز
+* [برمجة المواقع \| سلسلة دروس لغة css](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu) - أكاديمية ترميز
 * [كورس CSS3 بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY7e-LGHKT1LUrQOBZheSQLh) - Mobarmg
 * [كورس HTML5 بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY76fLdWZt7T8FfVHpvu0zOm) - Mobarmg
 * [CSS Art Tutorials&rlm;](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzxCiht69IlCe0_VeIuh4ty) - Codezilla

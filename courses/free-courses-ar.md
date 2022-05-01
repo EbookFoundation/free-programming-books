@@ -296,7 +296,7 @@
 
 ### Python
 
-* [كورس أساسيات المفاهيم البرمجية](https://www.youtube.com/playlist?list=PLvGNfY-tFUN9OQ4xtJRutrX3zyGam6Vpm) - غريب الشيخ || Ghareeb Elshaikh&rlm; (:construction: *in process*)
+* [كورس أساسيات المفاهيم البرمجية](https://www.youtube.com/playlist?list=PLvGNfY-tFUN9OQ4xtJRutrX3zyGam6Vpm) - غريب الشيخ \|\| Ghareeb Elshaikh&rlm; (:construction: *in process*)
 * [Learn Python3&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy
 * [Master Python from Beginner to Advanced in Arabic - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla
 * [Mastering Python&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) - Elzero Web School

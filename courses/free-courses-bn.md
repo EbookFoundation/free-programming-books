@@ -19,6 +19,7 @@
 * [Kotlin](#kotlin)
 * [MySQL](#mysql)
 * [PHP](#php)
+* [Programming fundamentals](#programming-fundamentals)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
 * [Svelte](#svelte)
@@ -149,6 +150,9 @@
 
 * [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
 
+### Programming fundamentals
+
+* [Programming Fundamentals || RSP B01](https://youtube.com/playlist?list=PLT0mMfBaxr5Wcn7ZoPN4zjxzmd-j9OL_A) - CodeWithVirus
 
 ### Programming paradigms
 

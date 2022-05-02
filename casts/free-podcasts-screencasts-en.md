@@ -155,7 +155,7 @@
 * [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
 * [How to Program with Java Podcast](https://www.podbean.com/podcast-detail/6mxhc-344f7/How-to-Program-with-Java-Podcast) - Trevor Page (podcast)
 * [Inside Java](https://inside.java/podcast) - Chad Arimura, David Delabassee (podcast)
-* [Java OffHeap](https://www.javaoffheap.com) - Freddy Guime (podcast)
+* [Java OffHeap](https://www.javaoffheap.com) - Freddy Guime, Bob Paulin, Michael Minella, Josh Juneau, et al. (podcast)
 * [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime, Bob Paulin (podcast)
 
 

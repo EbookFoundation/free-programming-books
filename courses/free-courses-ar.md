@@ -175,6 +175,7 @@
 * [JAVA Programming Course Level 3 Graphic User Interface By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRhWDkdkM4jSTPW3CgxKH8G) - محمد شوشان
 * [JAVA Programming Course Level 4 Connect Database and JAVA By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwTmQTPK54W95WyNzT-33MR0) - محمد شوشان
 * [JAVA Programming Full Project by Arabic (uni_staff project) \|(المشروع الختامي بالجافا كاملا بشرح عربي )](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQbsAGChtjlNPLVv6kTEXRG) - محمد شوشان
+* [Java Tutorial for beginners- full course  -تعلم البرمجة- جافا](https://www.youtube.com/playlist?list=PLwAjM63H9bRuXIojpKDei4dVLRcvqP8V7) - genial code
 * [Learn JAVA Programming From Scratch In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN) - Adel Nasim
 * [Object-Oriented Programming JAVA in Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim
 * [Programming 2 - Object Oriented Programming With Java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk) - محمد الدسوقى

@@ -161,20 +161,20 @@
 
 ### JavaScript
 
-* [devMode.fm](https://devmode.fm) - Andrew Welch, Patrick Harrington, Jonathan Melville, Michael Rog, et al. (podcast)
-* [FiveJS](https://fivejs.codeschool.com) (podcast)
-* [Front End Happy Hour](http://frontendhappyhour.com) (podcast)
-* [Frontend First](https://frontendfirst.fm) - Sam Selikoff, Ryan Toronto (podcast)
-* [Frontend Five](https://frontendfive.codeschool.com) (podcast)
-* [HTML All The Things](https://www.htmlallthethings.com) (podcast)
-* [JavaScript Air](https://javascriptair.com) (podcast)
-* [JavaScript Jabber](https://devchat.tv/js-jabber) (podcast)
-* [JS Party](https://changelog.com/jsparty) (podcast)
-* [Modern Web](https://www.thisdot.co/modern-web) (podcast)
-* [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) (screencast)
-* [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm) (podcast)
-* [Syntax](https://syntax.fm) (podcast)
-* [The Javascript Show](http://javascriptshow.com) (podcast)
+* [devMode.fm](https://devmode.fm) - Andrew Welch, Ryan Ire­lan, Patrick Harrington, Jonathan Melville, Michael Rog, Earl John­ston, Mar­i­on Newlevant, Lau­ren Dorman, Matt Stein, Jen­nifer Blumberg (podcast)
+* [FiveJS](https://fivejs.codeschool.com) - CodeSchool (podcast)
+* [Front End Happy Hour](https://frontendhappyhour.com) - Ryan Burgess, Jem Young, Stacy London, Augustus Yuan, Mars Jullian, Shirley Wu (podcast)
+* [Frontend First](https://player.fm/series/frontend-first) - Sam Selikoff, Ryan Toronto (podcast)
+* [Frontend Five](https://frontendfive.codeschool.com) - CodeSchool (podcast)
+* [HTML All The Things](https://www.htmlallthethings.com/podcast) - Mike Karan, Matt Lawrence (podcast)
+* [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu,, Tyler McGinnis, Kyle Simpson, et al.(podcast)
+* [JavaScript Jabber](https://javascriptjabber.com) - Aimee Knight, AJ O'Neal, Charles Wood, Dan Shappir, Steve Edwards, et al. (podcast)
+* [JS Party](https://changelog.com/jsparty) - Jerod Santo, Nick Nisi, Amelia Wattenberger, Kevin Ball, Divya, Feross Aboukhadijeh, Amal Hussein, Christopher Hiller, Ali Spittel, et al. (podcast)
+* [Modern Web](https://www.thisdot.co/modern-web) - This Dot Labs (podcast)
+* [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) - YLD Ltd. (screencast)
+* [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
+* [Syntax](https://syntax.fm) - Wes Bos, Scott Tolinski (podcast)
+* [The JavaScript Show](http://javascriptshow.com) - Peter Cooper, Jason Seifer (podcast)
 
 
 #### Angular

@@ -179,8 +179,8 @@
 
 #### Angular
 
-* [Angular Air](https://angularair.com) (podcast)
-* [Angular Master](https://anchor.fm/angular-master) (podcast)
+* [Angular Air](https://angularair.com) - Justin Schwartzenberger, Alyssa Nicoll, Mike Brocci, Bonnie Brennan, Austin McDaniel (podcast)
+* [Angular Master](https://anchor.fm/angular-master) - Dariusz Kalbarczyk (podcast)
 
 
 #### Elm

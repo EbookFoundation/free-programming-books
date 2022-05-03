@@ -186,12 +186,12 @@
 #### Elm
 
 * [Elm Radio](https://elm-radio.com) - Dillon Kearns, Jeroen Engels (podcast)
-* [Elm Town](https://elmtown.simplecast.com) (podcast)
+* [Elm Town](https://elmtown.simplecast.com) - Kevin Yank, Ossi Hanhinen, Brian Hicks, Ben Brandt (podcast)
 
 
 #### Ember.js
 
-* [Ember Weekend](https://emberweekend.com/episodes) (podcast)
+* [Ember Weekend](https://emberweekend.com/episodes) - Chase McCarthy, Jonathan Jackson (podcast)
 * [The EmberMap Podcast](https://embermap.com/podcast) - Sam Selikoff, Ryan Toronto (podcast)
 
 

@@ -222,12 +222,12 @@
 
 #### React.js
 
-* [Chats with Kent C. Dodds](https://kentcdodds.com/chats/04) - Kent C Dodds (podcast)
-* [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
-* [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
-* [React Round Up](https://devchat.tv/podcasts/react-round-up) - DevChat.tv (podcast)
-* [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
-* [The React Native Show](https://www.callstack.com/podcast-react-native-show) - Mike Grabowski, et al. (screencast)
+* [Chats with Kent C. Dodds](https://kentcdodds.com/chats) - Kent C. Dodds (podcast)
+* [React Native Radio](https://www.reactnativeradio.com/episodes) - Jamon Holmgren, Robin Heinze, Mazen Chami, Jon Major (podcast)
+* [React Podcast](https://reactpodcast.simplecast.fm) - Michael Chan (podcast)
+* [React Round Up](https://reactroundup.com/episodes) - Carl Mungazi, Charles Max Wood, TJ VanToll, Paige Niedringhaus, Jack Herrington, et al. (podcast)
+* [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) - Cassio Zen (screencast, [:package: code sources](https://github.com/cassiozen/ReactCasts)
+* [The React Native Show](https://www.callstack.com/podcast-react-native-show) - Mike Grabowski, Mike Chudziak, Satyajit Sahoo, Michał Pierzchała, et al. (screencast)
 
 
 ### Kotlin

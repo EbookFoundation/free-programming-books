@@ -1063,6 +1063,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
 * [What’s New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
 * [Writing Advanced Applications for the Java 2 Platform](http://www.pawlan.com/monica/books/AdvBk.pdf) - Calvin Austin and Monica Pawlan (PDF)
+* [Java Programming](https://www.scaler.com/topics/java/) - Scaler Topics
+
 
 
 #### Codename One
@@ -1968,6 +1970,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Think Python First Edition](https://greenteapress.com/wp/think-python/) - Allen B. Downey (2.x) (HTML, PDF)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
+* [Learn Python Programming](https://www.scaler.com/topics/python/)
 
 
 #### Django

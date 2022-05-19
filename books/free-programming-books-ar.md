@@ -52,6 +52,7 @@
 
 * [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt & Nelson Eng، ترجمة أيمن طارق وعلا عباس (PDF)
 
+
 ### HTML/CSS
 
 * [التحريك عبر CSS&rlm;](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat (PDF)
@@ -70,7 +71,9 @@
 * [Eloquent Javascript (Second Edition)&rlm;](https://rabahboudia.gitbooks.io/arabic-eloquent-js/) - Marijn Haverbeke, Rabah Boudia (gitbook)
 
 #### Vue.js
+
 * [أساسيات إطار العمل Vue.js](https://academy.hsoub.com/files/22-أساسيات-إطار-العمل-vuejs/) - حسام برهان (PDF)
+
 
 ### Linux
 

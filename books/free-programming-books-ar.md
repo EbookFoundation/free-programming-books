@@ -48,6 +48,7 @@
 
 * [سبيلك المختصر لتعلم لغة c#&lrm; - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy) (PDF)
 
+
 ### DB & DBMS
 
 * [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt & Nelson Eng، ترجمة أيمن طارق وعلا عباس (PDF)
@@ -69,6 +70,7 @@
 * [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
 * [سلسلة تعلم Next.js بالعربية](https://blog.abdelhadi.org/learn-nextjs-in-arabic/) - Flavio Copes, عبدالهادي الأندلسي
 * [Eloquent Javascript (Second Edition)&rlm;](https://rabahboudia.gitbooks.io/arabic-eloquent-js/) - Marijn Haverbeke, Rabah Boudia (gitbook)
+
 
 #### Vue.js
 

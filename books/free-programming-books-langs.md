@@ -2381,6 +2381,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Tcl
 
+* [Tcl for Web Nerds](https://philip.greenspun.com/tcl/) - Hal Abelson, Philip Greenspun, and Lydia Sandon (HTML)
 * [Tcl Programming](https://en.wikibooks.org/wiki/Programming%3ATcl) - Richard.Suchenwirth, et. al.
 
 

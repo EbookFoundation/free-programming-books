@@ -29,24 +29,24 @@
 
 ### Arduino
 
-* [احترف الأردوينو](https://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) - Working Group (PDF)
-* [اردوينو ببساطة](https://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry (PDF)
-* [AVR ببساطة: من تشغيل دايود ضوئي إلى أنظمة الوقت الحقيقي](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry (ODT, PDF)
+* [احترف الأردوينو](https://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) - Working Group ‏(PDF)
+* [اردوينو ببساطة](https://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry ‏(PDF)
+* [AVR ببساطة: من تشغيل دايود ضوئي إلى أنظمة الوقت الحقيقي](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry ‏(ODT, PDF)
 
 
 ### Artificial Intelligence
 
-* [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-مدخل-إلى-الذكاء-الاصطناعي-وتعلم-الآلة/) - Mohamed Lahlah (PDF)
+* [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-مدخل-إلى-الذكاء-الاصطناعي-وتعلم-الآلة/) - Mohamed Lahlah ‏(PDF)
 
 
 ### AWS
 
-* [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - Eissa AbuSherif (AWS Riyadh User Group)
+* [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - Eissa AbuSherif ‏(Video)
 
 
 ### <a id="csharp"></a>C#&lrm;
 
-* [سبيلك المختصر لتعلم لغة c#&lrm; - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy) (PDF)
+* [سبيلك المختصر لتعلم لغة c#&lrm; - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani ‏(PDF)
 
 
 ### DB & DBMS
@@ -56,20 +56,20 @@
 
 ### HTML/CSS
 
-* [التحريك عبر CSS&rlm;](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat (PDF)
-* [نحو فهم أعمق لتقنيات HTML5&rlm;](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash (PDF)
+* [التحريك عبر CSS&rlm;](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat ‏(PDF)
+* [نحو فهم أعمق لتقنيات HTML5&rlm;](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash ‏(PDF)
 
 
 ### Introduction to Programming in Arabic
 
-* [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen (PDF)
+* [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen ‏(PDF)
 
 
 ### JavaScript
 
 * [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
 * [سلسلة تعلم Next.js بالعربية](https://blog.abdelhadi.org/learn-nextjs-in-arabic/) - Flavio Copes, عبدالهادي الأندلسي
-* [Eloquent Javascript (Second Edition)&rlm;](https://rabahboudia.gitbooks.io/arabic-eloquent-js/) - Marijn Haverbeke, Rabah Boudia (gitbook)
+* [Eloquent Javascript (Second Edition)&rlm;](https://rabahboudia.gitbooks.io/arabic-eloquent-js/) - Marijn Haverbeke, Rabah Boudia ‏(gitbook)
 
 
 #### Vue.js
@@ -79,10 +79,10 @@
 
 ### Linux
 
-* [الإدارة المتقدمة لجنو/لينكس ](https://librebooks.org/gnu-linux-advanced-administration/) - Remo Suppi Boldrito, Josep Jorba Esteve, Abdel Rahim Ghaleb (PDF)
-* [أوبنتو ببساطة](https://www.simplyubuntu.com) - Ahmed AbouZaid (PDF)
-* [دفتر مدير دبيان](https://ar.debian-handbook.info) - Raphaël Hertzog, Roland Mas, MUHAMMET SAİT Muhammet Sait (PDF, HTML)
-* [دليل إدارة خواديم أوبنتو 14.04](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/) - Ubuntu documentation team, Abdullatif Eymash (PDF) 
+* [الإدارة المتقدمة لجنو/لينكس ](https://librebooks.org/gnu-linux-advanced-administration/) - Remo Suppi Boldrito, Josep Jorba Esteve, Abdel Rahim Ghaleb ‏(PDF)
+* [أوبنتو ببساطة](https://www.simplyubuntu.com) - Ahmed AbouZaid ‏(PDF)
+* [دفتر مدير دبيان](https://ar.debian-handbook.info) - Raphaël Hertzog, Roland Mas, MUHAMMET SAİT Muhammet Sait ‏(PDF, HTML)
+* [دليل إدارة خواديم أوبنتو 14.04](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/) - Ubuntu documentation team, Abdullatif Eymash ‏(PDF) 
 * [سطر أوامر لينكس](https://itwadi.com/node/2765) - Willam E. Shotts, Jr، ترجمة عبد اللطيف ايمش (PDF)
 
 
@@ -135,7 +135,7 @@
 
 ### Security
 
-* [تأمين الشبكات اللاسلكية للمستخدم المنزلي](https://mohamedation.github.io/securing-wifi) - Mohamed Adel (HTML)
+* [تأمين الشبكات اللاسلكية للمستخدم المنزلي](https://mohamedation.github.io/securing-wifi) - Mohamed Adel ‏(HTML)
 * [تقنيات الاختراق المادي](http://librebooks.org/physical-hacking-techniques/)
 * [دليل الأمان الرقمي](https://academy.hsoub.com/files/20-دليل-الأمان-الرقمي/)
 * [عُدَّة الأمان الرقمي](http://librebooks.org/security-in-a-box/)
@@ -154,7 +154,7 @@
 #### PostgreSQL
 
 * [الدليل العملي إلى قواعد بيانات PostgreSQL](https://academy.hsoub.com/files/18-الدليل-العملي-إلى-قواعد-بيانات-postgresql/) - ‏Craig Kerstiens، مصطفى عطا العايش (PDF)
-* [بوستجريسكل كتاب الوصفات](https://itwadi.com/PostgreSQL_Cookbook) - Chitij Chauhan (PDF)
+* [بوستجريسكل كتاب الوصفات](https://itwadi.com/PostgreSQL_Cookbook) - Chitij Chauhan ‏(PDF)
 
 
 ### UI/UX

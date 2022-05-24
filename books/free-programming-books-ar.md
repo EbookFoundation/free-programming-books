@@ -153,7 +153,7 @@
 
 #### PostgreSQL
 
-* [الدليل العملي إلى قواعد بيانات PostgreSQL](https://academy.hsoub.com/files/18-الدليل-العملي-إلى-قواعد-بيانات-postgresql/)
+* [الدليل العملي إلى قواعد بيانات PostgreSQL](https://academy.hsoub.com/files/18-الدليل-العملي-إلى-قواعد-بيانات-postgresql/) - ‏Craig Kerstiens، مصطفى عطا العايش (PDF)
 * [بوستجريسكل كتاب الوصفات](https://itwadi.com/PostgreSQL_Cookbook) - Chitij Chauhan (PDF)
 
 

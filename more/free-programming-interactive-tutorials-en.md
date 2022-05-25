@@ -206,7 +206,9 @@
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+* [Monorepos in the JS world](https://www.codementor.io/events/monorepos-in-the-js-world-e3txbfsksb) - Codementor Events
 * [Try jQuery](http://try.jquery.com)
+* [Codementor Events](https://www.codementor.io/events)
 
 
 #### AngularJS
@@ -230,7 +232,7 @@
 * [Front End Development Libraries Certification: React](https://www.freecodecamp.org/learn/front-end-libraries/react) - freeCodeCamp
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
-
+* [React with TypeScript - Build a React component together](https://www.codementor.io/events/react-with-typescript-ddzznxuno4) - Codementor Events
 
 #### Redux
 
@@ -242,6 +244,7 @@
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
 * [Kotlin Tutorial](https://www.w3schools.com/kotlin/) - W3Schools
 * [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Galina Podstrechnaya, Alex DiStasi (Codecademy) *(account required)*
+* [Functional programming in Kotlin](https://www.codementor.io/events/deep-dive-into-kotlin-functional-programing-dngpv2cr89) - Codementor Events
 
 
 ### Language Agnostic
@@ -251,6 +254,7 @@
 * [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms) (freeCodeCamp)
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+* [Codementor Events](https://www.codementor.io/events)
 
 
 #### Operating systems
@@ -279,6 +283,7 @@
 * [Node School](http://nodeschool.io)
 * [Node.js Tutorial](https://www.tutlane.com/tutorial/nodejs) - tutlane
 * [Node.js Tutorial](https://www.w3schools.com/nodejs) - W3Schools
+* [Node.js VM: Developing an External Plugin System](https://www.codementor.io/events/nodejs-vm-developing-an-external-plugin-system-ebdv54d4lt) - Codementor Events
 
 
 ### NoSQL
@@ -302,6 +307,7 @@
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
+* [Build a PHP web app with Laravel in 20 minutes](https://www.codementor.io/events/build-a-laravel-app-in-20-challenge-dwmcfiu4om) - Codementor Events
 
 
 ### PostgreSQL
@@ -317,6 +323,7 @@
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
+* [Leveraging Async and Await in Modern Python](https://www.codementor.io/events/leveraging-async-and-await-in-modern-python-ebdzzmbbfg) - Codementor Events
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
@@ -381,3 +388,8 @@
 ### Vim
 
 * [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html)
+
+### Web 3
+
+* [How to get started in Web3: Blockchain, Crypto, and NFT’s](https://www.codementor.io/events/how-to-get-started-in-web3-e51dgtd3zn) - Rahat Chowdhury
+* [How to Get Started as a Web3 Developer](https://www.codementor.io/events/how-to-get-started-as-a-web3-developer-ebdvvj0plf) - Julien Klepatch

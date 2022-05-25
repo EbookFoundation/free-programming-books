@@ -8,7 +8,15 @@
 
 </div>
 
-This page is available as an easy-to-read website at [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=https%3A%2F%2Febookfoundation.github.io&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/)
+This page is available as an easy-to-read websites. Access them clicking on [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Static%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/) or [![https://ebookfoundation.github.io/free-programming-books-search/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Dynamic%20search%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books-search%2F)](https://ebookfoundation.github.io/free-programming-books-search/) links.
+
+<div align="center">
+  <form action="https://ebookfoundation.github.io/free-programming-books-search">
+    <input type="text" id="fpbSearch" name="search" placeholder="Search Book or Author"/>
+    <label for="submit"> </label>
+    <input type="submit" id="submit" name="submit" value="Search" />
+  </form>
+</div>
 
 
 ## Intro
@@ -47,6 +55,7 @@ Click on these badges to see how you might be able to help:
 [![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 
 </div>
+
 
 ## How to Share
 
@@ -149,6 +158,7 @@ This project lists books and other resources grouped by genres:
 
 + [Chinese / 中文](more/free-programming-interactive-tutorials-zh.md)
 + [English](more/free-programming-interactive-tutorials-en.md)
++ [Japanese / 日本語](more/free-programming-interactive-tutorials-ja.md)
 + [Portuguese (Brazil)](more/free-programming-interactive-tutorials-pt_BR.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
 
@@ -182,6 +192,8 @@ Free Podcasts and Screencasts:
 
 ### Programming Playgrounds
 
+Write, compile and run your code within a browser. Try it out!
+
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
 
@@ -190,11 +202,11 @@ Free Podcasts and Screencasts:
 
 Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
 
-- English
-  - [Code of Conduct](docs/CODE_OF_CONDUCT.md)
-  - [Contributing](docs/CONTRIBUTING.md)
-  - [How-to](docs/HOWTO.md)
-- ... *[More languages](docs/README.md#translations)* ...
++ English
+  + [Code of Conduct](docs/CODE_OF_CONDUCT.md)
+  + [Contributing](docs/CONTRIBUTING.md)
+  + [How-to](docs/HOWTO.md)
++ ... *[More languages](docs/README.md#translations)* ...
 
 You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 

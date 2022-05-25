@@ -171,4 +171,4 @@
 
 ### TypeScript
 
-* [TypeScript: All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCzmP8m2l_h8PnVTSvcnJWO) - Stack Learner
+* [TypeScript Bangla ( বাংলা ) Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3) - Learn with Sumit - LWS - Bangladesh

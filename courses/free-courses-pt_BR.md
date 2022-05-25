@@ -114,7 +114,6 @@
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
 * [Curso Golang](https://www.youtube.com/playlist?list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9) - Universo Mainframe (YouTube)
 * [Go - Aprenda a Programar (Curso)](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Ellen Körbes (YouTube)
-* [Programar em Go](https://www.youtube.com/playlist?list=PLV5KfEYwFC1G3r7XlgVCE5HVdVKj-UdRa) - Caffeine Algorithm (YouTube)
 
 
 ### Gulp

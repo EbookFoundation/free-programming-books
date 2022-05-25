@@ -62,6 +62,7 @@
 
 * [Bootstrap 3 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw24EjNUp_88S1VeaNK8Cts) - Elzero Web School
 * [Bootstrap 4&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy0dU3C3_lNRTSTtqePEsI2) - Elzero Web School
+* [Bootstrap 5 Design 01 Bondi&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) - Elzero Web School
 
 
 ### C
@@ -71,6 +72,7 @@
 
 ### <a id="csharp"></a>C#&lrm;
 
+* [كورس Design Patternsبالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY56xIDF6IX0hmZC6JYoGQkS) - Mobarmg
 * [C#&lrm;&rlm;](https://www.youtube.com/playlist?list=PLltZRmsFXWnIfLM0BKgJNZYVnvCDZNAh_) - 6wrni
 * [C# Programming Course Level 1 Basics By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQLsXXXxx_mX3WvUEgGM0iA) - محمد شوشان
 * [C# Programming Course Level 2 Object Oriented Programming By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQfXeFaGHRYQfyQrJjOy43u) - محمد شوشان
@@ -147,14 +149,16 @@
 
 * [Basic course for Git](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeCHLTRtwdLpQvle_zIavZ-) - أكاديمية ترميز
 * [Git and Github&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) - Elzero Web School
-* [GitHub - تعلم العمل المشترك على](https://www.youtube.com/playlist?list=PLF8OvnCBlEY0CRqKiYKwOtrH-75MGIuyM) -TheNewBaghdad
+* [GitHub - تعلم العمل المشترك على](https://www.youtube.com/playlist?list=PLF8OvnCBlEY0CRqKiYKwOtrH-75MGIuyM) - TheNewBaghdad
 * [Learn Git in Arabic&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy
 
 
 ### HTML / CSS
 
-* [برمجة المواقع |\ تعلم لغة الhtml من الصفر](https://www.youtube.com/playlist?list=PLYyqC4bNbCIfMY5CoGmiWaPi9l86qaz5B) - أكاديمية ترميز
-* [برمجة المواقع |\ سلسلة دروس لغة css](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu) - أكاديمية ترميز
+* [برمجة المواقع \| تعلم لغة الhtml من الصفر](https://www.youtube.com/playlist?list=PLYyqC4bNbCIfMY5CoGmiWaPi9l86qaz5B) - أكاديمية ترميز
+* [برمجة المواقع \| سلسلة دروس لغة css](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu) - أكاديمية ترميز
+* [كورس CSS3 بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY7e-LGHKT1LUrQOBZheSQLh) - Mobarmg
+* [كورس HTML5 بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY76fLdWZt7T8FfVHpvu0zOm) - Mobarmg
 * [CSS Art Tutorials&rlm;](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzxCiht69IlCe0_VeIuh4ty) - Codezilla
 * [HTML And CSS Template 1&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) - Elzero Web School
 * [HTML And CSS Template 2&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t) - Elzero Web School
@@ -175,6 +179,7 @@
 * [JAVA Programming Course Level 3 Graphic User Interface By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRhWDkdkM4jSTPW3CgxKH8G) - محمد شوشان
 * [JAVA Programming Course Level 4 Connect Database and JAVA By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwTmQTPK54W95WyNzT-33MR0) - محمد شوشان
 * [JAVA Programming Full Project by Arabic (uni_staff project) \|(المشروع الختامي بالجافا كاملا بشرح عربي )](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQbsAGChtjlNPLVv6kTEXRG) - محمد شوشان
+* [Java Tutorial for beginners- full course  -تعلم البرمجة- جافا](https://www.youtube.com/playlist?list=PLwAjM63H9bRuXIojpKDei4dVLRcvqP8V7) - genial code
 * [Learn JAVA Programming From Scratch In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN) - Adel Nasim
 * [Object-Oriented Programming JAVA in Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim
 * [Programming 2 - Object Oriented Programming With Java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk) - محمد الدسوقى
@@ -183,8 +188,11 @@
 ### JavaScript
 
 * [سلسلة دروس جافا سكريبت](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0) - أكاديمية ترميز (:construction: *in process*)
+* [كورس Ajax بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY7wv9ZZkhH7lZELpz_fP81N) - Mobarmg
+* [كورس ES6 بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY5nQxWH0HaNibR9UXKICWxz) - Mobarmg
 * [Arabic JavaScript&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm) - KMR Script
 * [Arabic JavaScript ES6 الاصدار السادس من الجافاسكربت](https://www.youtube.com/playlist?list=PLL2zWZTDFZzilx_LJ_mCRDETtDOyBg0UT) - KMR Script
+* [Friday js&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa_PU_wiKETaFk6nAVrNBg7l) - codeZone
 * [Javascript&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh) - Elzero Web School
 * [JavaScript AJAX&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAytfRIdMIkLeoQHP0o5uWBa) - Elzero Web School
 * [JavaScript Application&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT) - Elzero Web School
@@ -193,9 +201,11 @@
 * [JavaScript Files API](https://www.youtube.com/playlist?list=PLrvHCesHYw38480FPUmm3l2iJd8jSmA5u) - برمجيات حسان
 * [JavaScript JSON API&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwH_PyuEFjk3OvXflJJrDRQ) - Elzero Web School
 * [JavaScript OOP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF) - Elzero Web School
+* [Javascript Tips And Tricks [Arabic]&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8Y47rtUnKXewgaBsXD-9KT) - codeZone
 * [Javascript Tutorial \| كورس جافا سكريبت كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE) - Abdelrahman Gamal
 * [JavaScript Unit Testing With Jest&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O) - Elzero Web School
 * [Learn JavaScript in Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) - Elzero Web School
+* [SOLID Principles In Arabic&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa9Dwu0xHfC0gALHCdia6L6w) - codeZone
 
 
 #### Gulp.js
@@ -206,20 +216,25 @@
 
 #### jQuery
 
+* [كورس JQuery بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY5CmY-9Td8GhlLnq9GuJmpB) - Mobarmg
 * [Basic of jQuery&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwXDFEEpc8TT6MFbDAC5XNB) - Elzero Web School
 * [jQuery - Practical Examples and Create Apps&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz0_Ujf9ZB9KceUzzSVYDci) - Elzero Web School
 
 
 #### NodeJS
 
+* [كورس MongoDB بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY6ZTH5cneI_S0Bzzj-4j082) - Mobarmg
+* [كورس NodeJS بالعربي -ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY5S0IMTxqCb41fF8RDBQZ_w) - Mobarmg
 * [Arabic Dive into Node JS Development الغوص في النود جي اس](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp) - KMR Script
 * [Learn Basic of NodeJS&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7) - Emam Academy
 * [Learn NodeJS from zero to hero&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOa3EiUpjO04DVxEE9Ox12ta) - Algorithm Academy
+* [NodeJS - Build a Full E-Commerce RESTful APIs (بالعربي)](https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i) - Programming Solutions - Academy
 * [NodeJS - From Zero To Hero](https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub) - تخاريف مبرمج
 * [NodeJS Advanced Topics](https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS) - تخاريف مبرمج
 * [NodeJS Course (2017 - عربي)](https://www.youtube.com/playlist?list=PLrvHCesHYw38kFL6w-i6Rv85oS3L0sp-o) - برمجيات حسان
 * [NodeJS Create App&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75KPLx2otaSE4eBSYqiHmEmh) - Emam Academy
 * [NodeJS Express&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75J0BZL_jSwuYxIm9m9S_NZw) - Emam Academy
+* [Pre NodeJS Course&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY4KgXU42KUgbCpyluuEc4uk) - Mobarmg
 * [REST API Node.js&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75ILwl15d0Cn-W_XHpnKbNHL) - Emam Academy
 
 
@@ -230,9 +245,17 @@
 
 #### React.js
 
+* [Learn React JS Tutorial \|\| React دورة كاملة لتعلم الـ](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEjXWZmwkOV-vfXmrEEsuEW) - Unique Coderz Academy
 * [React.js&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNObRCqeYOws_JK_CCGCmQv_l) - Algorithm Academy
 * [React.js Hooks&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ5-WwSSWYLp0kC8xxE46YG) - Algorithm Academy
 * [React.js Todo App&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYKXNTPUiZw8X7dDIgsSZln) - Algorithm Academy
+* [ReactJS - Advanced [تعلم رياكت ]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFTiDCCVu_uCW0GXqyvhtbf8) - kimz codes
+* [ReactJs-Build Full E-Commerce From Scratch Redux (بالعربي)](https://www.youtube.com/playlist?list=PLDQ11FgmbqQPRui5VDCSQvYt2HOYiCVep) - Programming Solutions - Academy
+* [ReactJS Part 1 - Learn React Hooks by Project [تعلم الرياكت هوكس] [الجزء الاول]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFSaQIFNstRIrbm_fqb12Q59) - kimz codes
+* [ReactJS Part 2 - UseEffect & UseRef - working with API and Prev State [Arabic] [بالعربي][الجزء الثاني]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFQa9YDF5pzB4JFbJovh3TN9) - kimz codes
+* [ReactJS Part 3 - Performance Optimization (react memo, use memo, use call back) [تعلم الرياكت] [الجزء الثالث]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFTYdkjzqYBujf7UCVQyn_aq) - kimz codes
+* [Redux ToolKit 2021/2022 part 4 [شرح Redux toolkit] [تعلم Redux] [شرح Redux]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFREfrBoSl8tjAPZOY6HNqZv) - kimz codes
+* [Redux ToolKit Project, Book Store project [تعلم Redux toolkit]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFQFvS469VXyCPO_py_kvVD5) - kimz codes
 
 
 #### Vue.js
@@ -245,6 +268,7 @@
 
 ### .NET
 
+* [كورس ASP.NET MVC بالعربي -ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY4PrhxzVKb3lY6Ni9kgIMYH) - Mobarmg
 * [Arabic C# .NET&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1ekZ78MzVWqpNyA5Lyb2nv) - Khalid ESSAADANI
 * [ASP.NET Core Fundamentals&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1zbN2olMzvIBXP06FIwoes) - Khalid ESSAADANI
 * [ASP.NET Identity&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1T3fIb-JDa4xNFfVQoljGI) - Khalid ESSAADANI
@@ -263,6 +287,7 @@
 
 * [Arabic PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) - Elzero Web School
 * [Learn Object Oriented PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ) - Elzero Web School
+* [PHP Bootcamp 2022&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) - Elzero Web School
 
 
 ### Prolog
@@ -272,7 +297,7 @@
 
 ### Python
 
-* [كورس أساسيات المفاهيم البرمجية](https://www.youtube.com/playlist?list=PLvGNfY-tFUN9OQ4xtJRutrX3zyGam6Vpm) - غريب الشيخ || Ghareeb Elshaikh&rlm; (:construction: *in process*)
+* [كورس أساسيات المفاهيم البرمجية](https://www.youtube.com/playlist?list=PLvGNfY-tFUN9OQ4xtJRutrX3zyGam6Vpm) - غريب الشيخ \|\| Ghareeb Elshaikh&rlm; (:construction: *in process*)
 * [Learn Python3&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy
 * [Master Python from Beginner to Advanced in Arabic - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla
 * [Mastering Python&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) - Elzero Web School
@@ -312,11 +337,15 @@
 
 ### TypeScript
 
+* [typescript for angular developers [arabic tutorial]&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa-BC3yuZdzmAfVC7i5etLWb) - codeZone
 * [TypeScript tutorial Arabic&rlm;](https://www.youtube.com/playlist?list=PLF8OvnCBlEY27rEmxg4F86iFljMXyCmk1) - Hussein Al Rubaye&rlm; (YouTube)
 
 
 #### Angular
 
+* [كورس Angular 2 بالعربي](https://www.youtube.com/playlist?list=PLzCpl3aBwaY7eOwGMlps70dTYs2TSsgj1) - Mobarmg
+* [كورس AngularJS بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY43XfnAm-IRuXwtkp0kzpdt) - Mobarmg
+* [Angular 4+ [arabic tutorial]&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8piCgv_buHpthEBXHaw0ss) - codeZone
 * [Arabic Angular 7 from A to R احتراف الانجولار](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjSjy7yeJwpj2QkJd8NKo-O) - KMR Script&rlm; (YouTube)
 * [Arabic Angular and Firebase App تطبيق انجولار وفايربيز](https://www.youtube.com/playlist?list=PLL2zWZTDFZzh2WEmc3fH_O4y4N05ZCqB2) - KMR Script&rlm; (YouTube)
 * [Arabic NgRx (Angular + Redux)&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhW10baUv1esvrowMwbfd5H) - KMR Script&rlm; (YouTube)

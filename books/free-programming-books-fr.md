@@ -123,6 +123,7 @@
 ### Chaîne de blocs / Blockchain
 
 * [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://maitriser-ca.github.io/LivreMaitriserBitcoin/) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, html)
+* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://maitriser-ca.github.io/LivreMaitriserEthereum/) - Andreas M. Antonopoulos, Dr. Gavin Wood, Serafim Dos Santos (asciidoc, html)
 
 
 ### Coq

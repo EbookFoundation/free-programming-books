@@ -5,4 +5,4 @@
 
 #### Latex
 
-[LATEX for nybegynnere](http://dag.at.ifi.uio.no/public/doc/latex-for-nybegynnere.pdf) - Dag Langmyhr (PDF)
+[LATEX for nybegynnere](https://www.mn.uio.no/ifi/tjenester/it/hjelp/latex/latex-for-nybegynnere.pdf) - Dag Langmyhr (PDF)

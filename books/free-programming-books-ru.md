@@ -93,6 +93,7 @@
 #### Облачные вычисления
 
 * [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
+* [Программирование Cloud Native. Микросервисы, Docker и Kubernetes. (2022)](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263) - Иван Портянкин (PDF, EPUB, MOBI)
 
 
 #### Парадигмы программирования

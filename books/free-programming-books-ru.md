@@ -29,6 +29,7 @@
   * [JUnit](#junit)
   * [Maven](#maven)
   * [Spring](#spring)
+  * [Swing UI](#swing-ui)
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
   * [jQuery](#jquery)
@@ -289,7 +290,7 @@
 * [Spring MVC Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchis-spring-mvc/spring-mvc-tutorial) - CoderLessons.com
 
 
-#### Swing (UI)
+#### Swing UI
 
 * [Java Swing: Эффектные пользовательские интерфейсы - Издание второе](https://ipsoftware.ru/books/swing_book_2/) - Иван Портянкин (PDF, EPUB)
 

@@ -93,7 +93,7 @@
 #### Облачные вычисления
 
 * [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
-* [Программирование Cloud Native. Микросервисы, Docker и Kubernetes. (2022)](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263) - Иван Портянкин (PDF, EPUB, MOBI)
+* [Программирование Cloud Native. Микросервисы, Docker и Kubernetes](https://ipsoftware.ru/books/cloud-k8s/) - Иван Портянкин (PDF, EPUB, MOBI)
 
 
 #### Парадигмы программирования
@@ -288,6 +288,10 @@
 * [Spring Framework](https://easyjava.ru/spring/)
 * [Spring MVC Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchis-spring-mvc/spring-mvc-tutorial) - CoderLessons.com
 
+
+#### Swing (UI)
+
+* [Java Swing: Эффектные пользовательские интерфейсы - Издание второе](https://ipsoftware.ru/books/swing_book_2/) - Иван Портянкин (PDF, EPUB)
 
 ### JavaScript
 

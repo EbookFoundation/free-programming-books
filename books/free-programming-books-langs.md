@@ -443,6 +443,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
 * [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
 * [Hashing](https://www.smashwords.com/books/view/737188) - Prakash Hegade
+* [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) - CodeAhoy (HTML)
 * [Learn to Code With C - The MagPi Essentials](https://magpi.raspberrypi.com/books/essentials-c-v1) (PDF)
 * [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) - Ciaran O’Riordan (PDF)
 * [Let us C](https://web.archive.org/web/20211006163041/http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf) - Yashavant Kanetkar (PDF) *(:card_file_box: archived)*

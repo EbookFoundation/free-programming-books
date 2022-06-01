@@ -66,6 +66,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [FreeBSD](#freebsd)
 * [Git](#git)
 * [Go](#go)
+* [Grain](#grain)
 * [GraphQL](#graphql)
 * [Groovy](#groovy)
   * [Gradle](#gradle)
@@ -844,6 +845,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Go Tutorial](http://tour.golang.org)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book) - Karl Seguin ([PDF](https://www.openmymind.net/assets/go/go.pdf), [ePUB](https://www.openmymind.net/assets/go/go.epub))
 * [Web apps in Go, the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+
+
+## Grain
+
+* [The Grain Docs](https://grain-lang.org/docs/)
 
 
 ### GraphQL

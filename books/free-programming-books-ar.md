@@ -36,7 +36,7 @@
 
 ### Artificial Intelligence
 
-* [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-مدخل-إلى-الذكاء-الاصطناعي-وتعلم-الآلة/) - Mohamed Lahlah &rlm;(PDF)
+* [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-%D9%85%D8%AF%D8%AE%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9/) - Mohamed Lahlah &rlm;(PDF)
 
 
 ### AWS
@@ -137,7 +137,7 @@
 
 * [تأمين الشبكات اللاسلكية للمستخدم المنزلي](https://mohamedation.github.io/securing-wifi) - Mohamed Adel &rlm;(HTML)
 * [تقنيات الاختراق المادي](http://librebooks.org/physical-hacking-techniques/)
-* [دليل الأمان الرقمي](https://academy.hsoub.com/files/20-دليل-الأمان-الرقمي/)
+* [دليل الأمان الرقمي](https://academy.hsoub.com/files/20-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/)
 * [عُدَّة الأمان الرقمي](http://librebooks.org/security-in-a-box/)
 
 
@@ -148,12 +148,12 @@
 
 ### SQL
 
-* [ملاحظات للعاملين بلغة SQL](https://academy.hsoub.com/files/16-ملاحظات-للعاملين-بلغة-sql/)
+* [ملاحظات للعاملين بلغة SQL](https://academy.hsoub.com/files/16-%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA-%D9%84%D9%84%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86-%D8%A8%D9%84%D8%BA%D8%A9-sql/)
 
 
 #### PostgreSQL
 
-* [الدليل العملي إلى قواعد بيانات PostgreSQL](https://academy.hsoub.com/files/18-الدليل-العملي-إلى-قواعد-بيانات-postgresql/) - &rlm;Craig Kerstiens، مصطفى عطا العايش (PDF)
+* [الدليل العملي إلى قواعد بيانات PostgreSQL](https://academy.hsoub.com/files/18-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A-%D8%A5%D9%84%D9%89-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-postgresql/) - &rlm;Craig Kerstiens، مصطفى عطا العايش (PDF)
 * [بوستجريسكل كتاب الوصفات](https://itwadi.com/PostgreSQL_Cookbook) - Chitij Chauhan &rlm;(PDF)
 
 

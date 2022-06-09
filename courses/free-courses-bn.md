@@ -10,18 +10,21 @@
 -   [Go](#go)
 -   [HTML and CSS](#html-and-css)
     -   [Bootstrap](#bootstrap)
+    -   [SASS](#SASS)
+    -   [TailwindCSS](#TailwindCSS)
 -   [IDE and Editors](#ide-and-editors)
 -   [Java](#java)
 -   [JavaScript](#javascript)
-    -   [jQuery](#jquery)
+    -   [JQuery](#jquery)
     -   [Node.js](#nodejs)
     -   [React](#react)
+    -   [Svelte](#svelte)
+    -   [vue](#vue)
 -   [Kotlin](#kotlin)
 -   [MySQL](#mysql)
 -   [PHP](#php)
 -   [Programming paradigms](#programming-paradigms)
 -   [Python](#python)
--   [Svelte](#svelte)
 -   [TypeScript](#typescript)
 
 ### Android
@@ -38,13 +41,13 @@
 -   [C Programming Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) - Anisul Islam
 -   [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
 
-### <a id="csharp"></a>C\#
+### C#
 
 -   [C# and ASP.NET MVC Full Bangla Tutorial BITM](https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6) - Learn With Nirash
 -   [C# bangla tutorial \| Basic to advance in depth bangla course](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt) - Learn Hunter
 -   [C# OOP (object oriented programming) BanglaTutorials](https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p) - Asp Dot Net Explorer
 
-### <a id="cpp"></a>C++
+### C++
 
 -   [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 
@@ -81,15 +84,15 @@
 -   [Bootstrap 5 and 4 Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG) - Anisul Islam
 -   [AI To HTML Bangla Bootstrap Tutorial](https://youtube.com/playlist?list=PLNMnAEqLBwmpQpra3AfWhQX7PLytBlAht) - Hablu Programmer
 
-#### TailwindCSS
-
--   [Tailwind CSS Bangla Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2) - Learn With Sumit
-
-### SASS
+#### SASS
 
 -   [sass complete course bangla (Beginner to Advanced)](https://youtube.com/playlist?list=PLgH5QX0i9K3qOvGYtFb3Z7KVMLrijYdqO) - Anisul Islam
 
 -   [SASS Bangla Tutorial - A complete overview - Crash Course](https://youtu.be/N3vG6Yt-e6k) - Learn With Sumit
+
+#### TailwindCSS
+
+-   [Tailwind CSS Bangla Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2) - Learn With Sumit
 
 ### IDE and Editors
 
@@ -135,6 +138,17 @@
 -   [Redux | Redux-toolkit Bangla Tutorials](https://youtube.com/playlist?list=PLgH5QX0i9K3pe7Z7ATcyLdUW3grE4Vfld) -
     Anisul Islam
 
+#### Svelte
+
+-   [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner
+-   [Svelte Bangla Overview Tutorial with examples - How Svelte is different from React & others](https://youtu.be/DdFcbIsqPh8) -Learn With Sumit
+
+#### vue
+
+-   [Vue.js in Bangla ( বাংলা ) ](https://youtu.be/iIvN7upsLoA) - Learn With Sumit
+
+
+
 ### Kotlin
 
 -   [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
@@ -156,15 +170,12 @@
 -   [Java and OOP Basics](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB5kP3uxERI1rdrdrNifNwJ) - Stack Learner
 -   [Java and OOP: Java Built in Classes and Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBNvGFN6eIre7xjfnb6aVfB) - Stack Learner
 -   [Object Oriented Programming Main Theory in Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCqNHQtxzS9LbeNRMG4AJmG) - Stack Learner
+-   [Bangla ( বাংলা ) Programming Tutorials](https://youtube.com/playlist?list=PLHiZ4m8vCp9O5_QoMvQbOAOR5WolyZ4OS) - Learn With Sumit
 
 ### Python
 
 -   [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
 -   [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
-
-### Svelte
-
--   [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner
 
 ### TypeScript
 

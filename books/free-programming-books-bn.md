@@ -43,7 +43,7 @@
 
 ### Misc
 
-* [SL3 Framework - Code For Brain](https://sl3.app) - Stack Learners
+
 * [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
 
 

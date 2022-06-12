@@ -443,6 +443,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
 * [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
 * [Hashing](https://www.smashwords.com/books/view/737188) - Prakash Hegade
+* [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) - CodeAhoy (HTML)
 * [Learn to Code With C - The MagPi Essentials](https://magpi.raspberrypi.com/books/essentials-c-v1) (PDF)
 * [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) - Ciaran O’Riordan (PDF)
 * [Let us C](https://web.archive.org/web/20211006163041/http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf) - Yashavant Kanetkar (PDF) *(:card_file_box: archived)*
@@ -466,6 +467,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### <a id="csharp"></a>C\#
 
+* [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/) - Steve "ardalis" Smith
 * [C# Notes for Professionals](http://goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (PDF)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
 * [C# Programming Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)
@@ -480,8 +482,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to Rx](http://www.introtorx.com)
 * [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
 * [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511) - Steven F. Daniel (Packt account *required*)
+* [Modernize existing .NET applications with Azure cloud and Windows Containers](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/) - Cesar de la Torre 
+* [Modernizing Desktop Apps on Windows with .NET 6](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-desktop) - Olia Gavrysh, Miguel Angel Castejón Dominguez
 * [.NET Book Zero](http://www.charlespetzold.com/dotnet) - Charles Petzold (PDF, XPS)
 * [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
+* [Porting Existing ASP.NET Apps to .NET 6](https://docs.microsoft.com/en-us/dotnet/architecture/porting-existing-aspnet-apps/) - Steve "ardalis" Smith
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
@@ -1714,6 +1719,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### PHP
 
+* [An Introduction to the PHP Programming Language](https://codeahoy.com/learn/php/toc/) - CodeAhoy (HTML)
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Apprentice](https://phpapprentice.com) - Andrew Davis *(:construction: in process)*

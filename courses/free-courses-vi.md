@@ -211,6 +211,7 @@
 * [React.js Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd)
 * [ReactJS - Demo các project trong khóa học](https://www.youtube.com/playlist?list=PLv6GftO355Av08p6Zi1I67VYw47nMS8xO) - ZendVN - Học Lập Trình Online
 * [Redux Cơ Bản](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tmotihDcWZN0LvtXFyxmRZ) - CodersX
+* [Khóa học Fullstack SERN (SQL, Express.js, React.js, Node.js) Web Developer](https://youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi dân IT
 
 
 ### Ruby

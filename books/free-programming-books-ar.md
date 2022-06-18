@@ -41,7 +41,7 @@
 
 ### AWS
 
-* [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - Eissa AbuSherif&rlm; (Video)
+* [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - Eissa AbuSherif&rlm; (YouTube)
 
 
 ### <a id="csharp"></a>C#&lrm;
@@ -153,7 +153,7 @@
 
 #### PostgreSQL
 
-* [الدليل العملي إلى قواعد بيانات PostgreSQL](https://academy.hsoub.com/files/18-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A-%D8%A5%D9%84%D9%89-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-postgresql/) -&rlm; Craig Kerstiens، مصطفى عطا العايش (PDF)
+* [الدليل العملي إلى قواعد بيانات PostgreSQL&rlm;](https://academy.hsoub.com/files/18-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A-%D8%A5%D9%84%D9%89-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-postgresql/) - Craig Kerstiens، مصطفى عطا العايش (PDF)
 * [بوستجريسكل كتاب الوصفات](https://itwadi.com/PostgreSQL_Cookbook) - Chitij Chauhan&rlm; (PDF)
 
 

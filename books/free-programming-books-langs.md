@@ -1490,6 +1490,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Lua
 
+* [Learning Lua ebook](https://riptutorial.com/Download/lua.pdf) - Rip Tutorial (Compiled from StackOverflow documentation) (PDF)
 * [Lua 5.3 Reference Manual](http://www.lua.org/manual/5.3/)
 * [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
 * [Lua Tutorial](http://www.tutorialspoint.com/lua/) - Tutorials Point (HTML, PDF)

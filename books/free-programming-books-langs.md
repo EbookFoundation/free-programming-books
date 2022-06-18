@@ -1303,7 +1303,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Practical Node.js: Building Real-World Scalable Web Apps](https://github.com/azat-co/practicalnode) - Azat Mardan
 * [The Node Beginner Book](http://nodebeginner.org)
 * [The Node.js Handbook](https://flaviocopes.com/page/node-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-* [Data brokering with nodejs - learn Node ETL](https://heynode.com) - Documentations & videos *(Sign up requested)*
+
 
 #### Om
 

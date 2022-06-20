@@ -60,17 +60,17 @@
 * [Programmeerimise õpik](https://progeopik.cs.ut.ee) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni algteadmised](https://courses.cs.ut.ee/MTAT.03.100/2012_fall/uploads/opik/00_eessona.html) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni wikiraamat](https://et.wikibooks.org/wiki/Python) - Wikiõpikud
-* [Pythoni õppematerjalid](https://pydoc.pages.taltech.ee/) - TTÜ (Taltech) õppematerjalid
+* [Pythoni õppematerjalid](https://pydoc.pages.taltech.ee) - TTÜ (Taltech) õppematerjalid
 
 
 ### R
 
-* [Statistiline andmeteadus ja visualiseerimine R keele abil](https://andmeteadus.github.io/2015/rakendustarkvara_R/) - Mait Raag, Raivo Kolde
+* [Statistiline andmeteadus ja visualiseerimine R keele abil](https://andmeteadus.github.io/2015/rakendustarkvara_R) - Mait Raag, Raivo Kolde
 
 
 ### SQL
 
-* [Andmebaaside alused](https://enos.itcollege.ee/~priit/1.%20Andmebaasid/1.%20Loengumaterjalid/) - Priit Raspel, TTÜ (Taltech) (HTML)
+* [Andmebaaside alused](https://enos.itcollege.ee/~priit/1.%20Andmebaasid/1.%20Loengumaterjalid) - Priit Raspel, TTÜ (Taltech) (HTML)
 * [SQL päringute koostamine, analüüsimine  ja optimeerimine](https://comserv.cs.ut.ee/home/files/Ivanova_Informaatika_2017.pdf?study=ATILoputoo&reference=C408CC06DE4620A985CDF60C2678C97AE45017AB) - Anastassia Ivanova (PDF)
 
 

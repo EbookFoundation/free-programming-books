@@ -143,7 +143,7 @@ Example:
 
 ### Alphabetical order
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on.
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
 - `one two` comes before `onetwo`
 
 If you see a misplaced link, please reorder it and submit a PR.

@@ -1,16 +1,22 @@
 ### Index
 
+* [Algorithms and Data Structures](#algo)
 * [C](#c)
 * [C#](#csharp)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [AngularJS](#angularjs)
-    * [Vue](#vue)
+  * [AngularJS](#angularjs)
+  * [Vue](#vue)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
 * [SQL](#sql)
 * [WebGL](#webgl)
+
+
+### <a id="algo"></a>Algorithms and Data Structures
+
+* [Algoritmid ja andmestruktuurid (2003, third edition)](https://dspace.ut.ee/bitstream/handle/10062/16872/9985567676.pdf) - Jüri Kiho (PDF)
 
 
 ### C
@@ -25,24 +31,23 @@
 
 ### Java
 
-* [Java õppematerjalid](https://ained.ttu.ee/javadoc/index.html) - TTÜ õppematerjalid
+* [Java õppematerjalid](https://javadoc.pages.taltech.ee) - TTÜ (Taltech) õppematerjalid
 * [Programmeerimiskeel Java](https://et.wikibooks.org/wiki/Programmeerimiskeel_Java) - Wikiõpikud
 
 
 ### JavaScript
 
-* [JavaScript](http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF)
-* [Javascript](http://lepo.it.da.ut.ee/~epuman/javascript.html) - Ella Puman, Tartu ÜLikooli õppematerjal
+* [JavaScript](https://web.archive.org/web/20200922201525/http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF) *(:card_file_box: archived)*
 
 
 #### AngularJS
 
-* [AngularJS raamistiku õppematerjal](http://www.cs.tlu.ee/teemad/get_file.php?id=400) - Tallinna Ülikooli, Sander Leetus (PDF)
+* [AngularJS raamistiku õppematerjal](https://www.cs.tlu.ee/teemad/get_file.php?id=400) - Tallinna Ülikool, Sander Leetus (PDF)
 
 
 #### Vue
 
-* [Vue](http://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Tallinna ülikooli õppematerjal
+* [Vue](https://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Tallinna Ülikooli õppematerjal
 
 
 ### PHP
@@ -55,6 +60,7 @@
 * [Programmeerimise õpik](https://progeopik.cs.ut.ee) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni algteadmised](https://courses.cs.ut.ee/MTAT.03.100/2012_fall/uploads/opik/00_eessona.html) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni wikiraamat](https://et.wikibooks.org/wiki/Python) - Wikiõpikud
+* [Pythoni õppematerjalid](https://pydoc.pages.taltech.ee/) - TTÜ (Taltech) õppematerjalid
 
 
 ### R
@@ -64,6 +70,7 @@
 
 ### SQL
 
+* [Andmebaaside alused](https://enos.itcollege.ee/~priit/1.%20Andmebaasid/1.%20Loengumaterjalid/) - Priit Raspel, TTÜ (Taltech) (HTML)
 * [SQL päringute koostamine, analüüsimine  ja optimeerimine](https://comserv.cs.ut.ee/home/files/Ivanova_Informaatika_2017.pdf?study=ATILoputoo&reference=C408CC06DE4620A985CDF60C2678C97AE45017AB) - Anastassia Ivanova (PDF)
 
 

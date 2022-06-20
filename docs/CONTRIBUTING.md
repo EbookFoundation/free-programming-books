@@ -163,7 +163,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 
 - No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
 - No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
-- No emoji.
+- No emojis.
 
 
 ##### URLs

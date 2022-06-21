@@ -146,7 +146,7 @@ Example:
 - When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
 - `one two` comes before `onetwo`
 
-If you see a misplaced link, please reorder it and submit a PR.
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
 
 
 ### Notes

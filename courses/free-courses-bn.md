@@ -144,13 +144,13 @@
 
 #### Vue
 
-* [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://youtu.be/iIvN7upsLoA) - Learn with Sumit
+* [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA&list=PLHiZ4m8vCp9O5_QoMvQbOAOR5WolyZ4OS&index=7&t=1989s) - Learn with Sumit
 
 
 #### Svelte
 
 * [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner
-* [Svelte Bangla Overview Tutorial with examples - How Svelte is different from React & others](https://youtu.be/DdFcbIsqPh8) - Learn with Sumit
+* [Svelte Bangla Overview Tutorial with examples - How Svelte is different from React & others](https://www.youtube.com/watch?v=DdFcbIsqPh8&list=PLHiZ4m8vCp9MrJGkaQGLJHapIz5goTqgl&index=11&t=820s) - Learn with Sumit
 
 
 ### Kotlin

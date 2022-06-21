@@ -1,6 +1,6 @@
 ### Index
 
-* [Algorithms and Data Structures](#algo)
+* [Algoritmid ja andmestruktuurid](#algoritmid-ja-andmestruktuurid)
 * [C](#c)
 * [C#](#csharp)
 * [Java](#java)
@@ -14,9 +14,9 @@
 * [WebGL](#webgl)
 
 
-### <a id="algo"></a>Algorithms and Data Structures
+### Algoritmid ja andmestruktuurid
 
-* [Algoritmid ja andmestruktuurid (2003, third edition)](https://dspace.ut.ee/bitstream/handle/10062/16872/9985567676.pdf) - Jüri Kiho (PDF)
+* [Algoritmid ja andmestruktuurid (2003, Kolmas, parandatud ja täiendatud trükk)](https://dspace.ut.ee/bitstream/handle/10062/16872/9985567676.pdf) - Jüri Kiho (PDF)
 
 
 ### C
@@ -42,12 +42,12 @@
 
 #### AngularJS
 
-* [AngularJS raamistiku õppematerjal](https://www.cs.tlu.ee/teemad/get_file.php?id=400) - Tallinna Ülikool, Sander Leetus (PDF)
+* [AngularJS raamistiku õppematerjal](https://www.cs.tlu.ee/teemad/get_file.php?id=400) - Sander Leetus (PDF)
 
 
 #### Vue
 
-* [Vue](https://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Tallinna Ülikooli õppematerjal
+* [Vue.js raamistiku õppematerjal](https://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Fred Korts (PDF)
 
 
 ### PHP
@@ -60,7 +60,7 @@
 * [Programmeerimise õpik](https://progeopik.cs.ut.ee) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni algteadmised](https://courses.cs.ut.ee/MTAT.03.100/2012_fall/uploads/opik/00_eessona.html) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni wikiraamat](https://et.wikibooks.org/wiki/Python) - Wikiõpikud
-* [Pythoni õppematerjalid](https://pydoc.pages.taltech.ee) - TTÜ (Taltech) õppematerjalid
+* [Pythoni õppematerjalid](https://pydoc.pages.taltech.ee) - TalTech
 
 
 ### R
@@ -70,7 +70,7 @@
 
 ### SQL
 
-* [Andmebaaside alused](https://enos.itcollege.ee/~priit/1.%20Andmebaasid/1.%20Loengumaterjalid) - Priit Raspel, TTÜ (Taltech) (HTML)
+* [Andmebaaside alused](https://enos.itcollege.ee/~priit/1.%20Andmebaasid/1.%20Loengumaterjalid) - TalTech,Priit Raspel (HTML)
 * [SQL päringute koostamine, analüüsimine  ja optimeerimine](https://comserv.cs.ut.ee/home/files/Ivanova_Informaatika_2017.pdf?study=ATILoputoo&reference=C408CC06DE4620A985CDF60C2678C97AE45017AB) - Anastassia Ivanova (PDF)
 
 

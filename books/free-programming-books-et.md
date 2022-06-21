@@ -31,7 +31,7 @@
 
 ### Java
 
-* [Java õppematerjalid](https://javadoc.pages.taltech.ee) - TTÜ (Taltech) õppematerjalid
+* [Java õppematerjalid](https://javadoc.pages.taltech.ee) - TalTech
 * [Programmeerimiskeel Java](https://et.wikibooks.org/wiki/Programmeerimiskeel_Java) - Wikiõpikud
 
 

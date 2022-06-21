@@ -94,8 +94,7 @@
 
 #### Tailwind
 
-* [Tailwind CSS Bangla Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2) - Learn with Sumit - LWS - Bangladesh
-
+* [Tailwind CSS Bangla Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2) - Learn with Sumit
 
 ### IDE and Editors
 
@@ -144,13 +143,13 @@
 
 #### Vue
 
-* [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://youtu.be/iIvN7upsLoA) - Learn with Sumit - LWS - Bangladesh
+* [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://youtu.be/iIvN7upsLoA) - Learn with Sumit
 
 
 #### Svelte
 
 * [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner
-* [Svelte Bangla Overview Tutorial with examples - How Svelte is different from React & others](https://youtu.be/DdFcbIsqPh8) - Learn with Sumit - LWS - Bangladesh
+* [Svelte Bangla Overview Tutorial with examples - How Svelte is different from React & others](https://youtu.be/DdFcbIsqPh8) - Learn with Sumit
 
 
 ### Kotlin
@@ -187,5 +186,5 @@
 
 ### TypeScript
 
-* [TypeScript Bangla ( বাংলা ) Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3) - Learn with Sumit - LWS - Bangladesh
+* [TypeScript Bangla ( বাংলা ) Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3) - Learn with Sumit
 * [typescript full course in bangla](https://youtube.com/playlist?list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq) - Anisul Islam

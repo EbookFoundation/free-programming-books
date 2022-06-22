@@ -150,7 +150,6 @@
 #### Svelte
 
 * [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner
-* [Svelte Bangla Overview Tutorial with examples - How Svelte is different from React & others](https://www.youtube.com/watch?v=DdFcbIsqPh8&list=PLHiZ4m8vCp9MrJGkaQGLJHapIz5goTqgl&index=11&t=820s) - Learn with Sumit
 
 
 ### Kotlin

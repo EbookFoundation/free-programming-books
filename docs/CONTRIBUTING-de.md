@@ -35,7 +35,7 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_COND
 
 - Stell sicher, dass ein Buch wirklich kostenlos ist. Vergewissere Dich noch einmal, falls nötig. Es hilft den Administratoren, wenn Du in Deinem PR beschreibst, warum Du der Ansicht bist, dass das jeweilige Buch kostenlos ist.
 - Wir nehmen keine Dateien auf, die auf Google Drive, Dropbox, Mega, Scribd, Issuu oder einer vergleichbaren Upload-Plattform liegen.
-- Füge die Links in alphabetischer Reihenfolge ein. Wenn Du einen fehlerhaft eingefügten Link findest, korrigiere bitte die Reihenfolge und öffne eine PR.
+- Füge die Links in alphabetischer Reihenfolge ein., as described [below](#alphabetical-order).
 - Wähle immer den Link der maßgeblichen Quelle aus (das heißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)
     - Keine File Hosting Plattformen (inklusive Links zu Dropbox, Google Drive u.ä.)
 - Ein `https` Link sollte einem `http` Link immer vorgezogen werden -- solange sie auf dieselbe Domain und denselben Inhalt verweisen.
@@ -133,6 +133,13 @@ Beispiel:
     RICHTIG: * [Wird bald ein tolles Buch sein](http://example.com/book2.html) - John Doe (HTML) (:construction: *in Bearbeitung*)
     ```
 
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
+
 
 ### Hinweise
 
@@ -148,6 +155,7 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 
 - Keine erfundenen Titel. Wir versuchen, die Titel den Inhalten selbst zu entnehmen; Mitwirkende werden dazu ermahnt, sich keine Titel auszudenken oder redaktionell zu nutzen, falls dies vermieden werden kann. Eine Ausnahme bilden ältere Werke; wenn sie vor allem von historischem Interesse sind, kann das Hinzufügen einer Jahreszahl in Klammern den Nutzern helfen zu bestimmen, ob die Inhalte für sie nützlich sind.
 - Keine Titel, die NUR GROßBUCHSTABEN ENTHALTEN. Titelkapitalisierung ist normalerweise angemessen, aber im Zweifel nutze einfach die Formatierung der Originalquelle.
+- No emojis.
 
 
 ##### URLs

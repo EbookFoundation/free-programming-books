@@ -36,7 +36,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
 
 - siguraduhin na ang isang libro ay libre. I-double check kung kinakailangan. Nakakatulong ito sa mga admin kung magkomento ka sa PR kung bakit sa tingin mo ay libre ang libro.
 - hindi kami tumatanggap ng mga file na naka-host sa Google Drive, Dropbox, Mega, Scribd, Issuu at iba pang katulad na mga platform sa pag-upload ng file
-- ipasok ang iyong mga link sa alphabetical order. Kung makakita ka ng maling lugar na link, mangyaring muling ayusin ito at magsumite ng PR
+- ipasok ang iyong mga link sa alphabetical order, as described [below](#alphabetical-order).
 - gamitin ang link na may pinakamakapangyarihang pinagmulan (ibig sabihin ang website ng may-akda ay mas mahusay kaysa sa website ng editor, na mas mahusay kaysa sa isang third party na website)
     - walang mga serbisyo sa pagho-host ng file (kabilang dito ang (ngunit hindi limitado sa) mga link ng Dropbox at Google Drive)
 - palaging mas gusto ang isang link na `https` kaysa sa isang link na `http` -- hangga't sila ay nasa parehong domain at naghahatid ng parehong nilalaman
@@ -142,6 +142,13 @@ Halimbawa:
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
+
 
 ### Mga Tala
 
@@ -157,6 +164,7 @@ Nagbibigay ang aming mga listahan ng kaunting hanay ng metadata: mga pamagat, UR
 
 - Walang naimbentong pamagat. Sinusubukan naming kumuha ng mga pamagat mula sa mga mapagkukunan mismo; ang mga nag-aambag ay pinapayuhan na huwag mag-imbento ng mga pamagat o gamitin ang mga ito sa editoryal kung ito ay maiiwasan. Ang isang pagbubukod ay para sa mas lumang mga gawa; kung pangunahin ang mga ito sa makasaysayang interes, ang isang taon sa panaklong na nakadugtong sa pamagat ay tumutulong sa mga user na malaman kung sila ay interesado.
 - Walang pamagat ng ALLCAPS. Kadalasan ay angkop ang title case, ngunit kapag may pagdududa, gamitin ang capitalization mula sa source
+- No emojis.
 
 
 ##### URLs

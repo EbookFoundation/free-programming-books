@@ -145,7 +145,8 @@ Ejemplo:
     CORRECTO  : * [Un recurso recuperado a partir de su línea de tiempo](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archivado)*
     ```
 
-### Alphabetical order
+<!----><a id="alphabetical-order"></a>
+### Ordenación alfabética
 
 - When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
 - `one two` comes before `onetwo`

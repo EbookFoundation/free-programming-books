@@ -36,7 +36,7 @@ By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) o
 
 - make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
 - we don't accept files hosted on Google Drive, Dropbox, Mega, Scribd, Issuu and other similar file upload platforms
-- insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
+- insert your links in alphabetical order, as described [below](#alphabetical-order).
 - use the link with the most authoritative source (meaning the author's website is better than the editor's website, which is better than a third party website)
     - no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)
 - always prefer a `https` link over a `http` one -- as long as they are on the same domain and serve the same content
@@ -141,6 +141,13 @@ Example:
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
+
 
 ### Notes
 
@@ -156,6 +163,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 
 - No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
 - No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
+- No emojis.
 
 
 ##### URLs

@@ -148,10 +148,11 @@ Ejemplo:
 <!----><a id="alphabetical-order"></a>
 ### Ordenación alfabética
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+- Cuando hay varios títulos comenzando por la misma letra, ordene por la segunda, ... y así consecutivamente. Por ejemplo:
+    - `aa` va antes de `ab`.
+    - `one two` va antes que `onetwo`.
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+En cualquier caso o si por casualidad encontrase un enlace fuera de lugar, compruebe el mensaje de error que facilita nuestro linter. Le permitirá saber las líneas de código que debe intercambiar.
 
 
 <!----><a id="notes"></a>

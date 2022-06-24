@@ -39,7 +39,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 
 - Revise si el libro es gratuito. Hágalo las veces que sean necesarias. Ayude a los administradores comentando en las PR por qué cree que el libro se ofrece gratis o es valioso.
 - No se aceptan ficheros alojados en Google Drive, Dropbox, Mega, Scribd, Issuu u otras plataformas de almacenamiento y/o descarga similares.
-- Inserte los enlaces ordenados alfabéticamente, as described [below](#alphabetical-order).
+- Inserte los enlaces ordenados alfabéticamente, tal y como se describe [más abajo](#alphabetical-order).
 - Use el enlace que apunte a la fuente más fidedigna. Esto es, el sitio web del autor es mejor que el del editor y éste a su vez mejor que uno de terceros.
     - No use servicios de almacenamiento en la nube. Esto incluye, aunque sin limitar, enlaces a Dropbox y Google Drive.
 - Es siempre preferible el uso de enlaces con protocolo `https` en vez de `http` si ambos se refieren al mismo dominio y sirven el mismo contenido.

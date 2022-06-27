@@ -12,7 +12,7 @@ Add resource(s) | Remove resource(s) | Add info | Improve repo
 
 ## Checklist:
 - [ ] Read our [contributing guidelines](https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CONTRIBUTING.md)
-- [ ] Search for duplicates.
+- [ ] [Search](https://ebookfoundation.github.io/free-programming-books-search/) for duplicates.
 - [ ] Include author(s) and platform where appropriate.
 - [ ] Put lists in alphabetical order, correct spacing.
 - [ ] Add needed indications (PDF, access notes, under construction)

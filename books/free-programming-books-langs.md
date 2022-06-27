@@ -327,6 +327,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [ARM Assembly Language Programming](http://www.rigwit.co.uk/ARMBook/ARMBook.pdf) - Peter Knaggs (PDF) (:construction: *in process*)
 * [Assemblers And Loaders (1993)](http://www.davidsalomon.name/assem.advertis/asl.pdf) - David Salomon (PDF)
 * [Assembly Language Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage) - Christopher Rose, Syncfusion Inc. (HTML, PDF, EPUB, Kindle)
+* [The Grain Docs](https://grain-lang.org/docs/)
 * [PC Assembly Language](http://pacman128.github.io/pcasm/) - P. A. Carter
 * [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) - Jonathan Bartlett (PDF)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
@@ -339,7 +340,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - Wikibooks
 * [x86 Disassembly](https://en.wikibooks.org/wiki/X86_Disassembly) - Wikibooks
 * [Zen of Assembly Language: Volume I, Knowledge (1990)](http://www.jagregory.com/abrash-zen-of-asm/) - Michael Abrash
-* [The Grain Docs](https://grain-lang.org/docs/)
 
 
 #### Non-X86

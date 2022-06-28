@@ -320,7 +320,7 @@
 
 ### PostgreSQL
 
-* [PG Casts](https://www.pgcasts.com) (screencast)
+* [PG Casts](https://www.pgcasts.com) - Jack Christensen, Josh Branchaud, Jake Worth, Vidal Ekechukwu, Dorian Karter, Mary Lee, et al. Hashrocket team (screencast)
 * [Scaling Postgres](https://player.fm/series/scaling-postgres) - Ruby Tree Software Inc, Creston Jamison (podcast)
 
 

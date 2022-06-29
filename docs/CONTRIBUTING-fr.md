@@ -35,7 +35,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 
 - assurez-vous qu'un livre est gratuit. Vérifiez si nécessaire. Cela aide les administrateurs si vous commentez dans le PR pourquoi vous pensez que le livre est gratuit.
 - nous n'acceptons pas les fichiers hébergés sur Google Drive, Dropbox, Mega, Scribd, Issuu et autres plateformes de téléchargement de fichiers similaires.
-- insérez vos liens par ordre alphabétique, as described [below](#alphabetical-order).
+- insérez vos liens par ordre alphabétique, comme décrit [ci-dessous](#alphabetical-order).
 - utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
     - pas de services d'hébergement de fichiers (cela inclut (mais n'est pas limité à) les liens Dropbox et Google Drive)
 - préférez toujours un lien `https` à un `http` - tant qu'ils sont sur le même domaine et servent le même contenu

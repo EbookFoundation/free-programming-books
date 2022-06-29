@@ -155,7 +155,7 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 
 - Pas de titres inventés. Nous essayons de prendre les titres des ressources elles-mêmes ; les contributeurs sont avertis de ne pas inventer de titres ou de ne pas les utiliser éditorialement si cela peut être évité. Une exception est pour les œuvres plus anciennes; s'ils présentent principalement un intérêt historique, une année entre parenthèses ajoutée au titre aide les utilisateurs à savoir s'ils présentent un intérêt.
 - Pas de titres TOUTES EN MAJUSCULES. Habituellement, la casse du titre est appropriée, mais en cas de doute, utilisez la majuscule de la source
-- No emojis.
+- N'utilisez pas d'émoticônes.
 
 
 ##### URLs

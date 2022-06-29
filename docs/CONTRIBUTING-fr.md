@@ -133,12 +133,13 @@ Exemple:
     BIEN   : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
-### Alphabetical order
+### <a id="alphabetical-order"></a>Ordre alphabétique
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+- Lorsque plusieurs titres commencent par la même lettre, organisez-les par la seconde, et ainsi de suite. Par exemple: `aa` vient avant `ab`. 
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+- `un deux` vient avant `undeux`
+
+Si vous voyez un lien mal placé, vérifiez le message d'erreur du linter pour savoir quelles lignes doivent être échangées.
 
 
 ### Remarques

@@ -309,13 +309,13 @@
 
 ### PHP
 
-* [Laravel News Podcast](http://podcast.laravel-news.com) (podcast)
-* [MageTalk - A Magento Podcast](http://magetalk.com) (podcast)
-* [PHP Podcasts](https://www.phppodcasts.com) (podcast)
-* [PHP Roundtable](https://www.phproundtable.com) (podcast)
-* [PHP Town Hall](http://phptownhall.com) (podcast)
-* [Sound of Symfony](http://www.soundofsymfony.com) (podcast)
-* [Voices of the ElePHPant](https://voicesoftheelephpant.com) (podcast)
+* [Laravel News Podcast](https://podcast.laravel-news.com) -  Jacob Bennett, Michael Dyrynda, Eric L. Barnes (podcast)
+* [MageTalk - A Magento Podcast](https://magetalk.com) - Phillip Jackson, Kalen Jordan (podcast)
+* [PHP Podcasts](https://www.phppodcasts.com) - Jacob Bennett, Michael Dyrynda, Joel Clermont, Aaron Saray, Eric Van Johnson, John Congdon, Tom Rideout, Derick Rethans (podcast)
+* [PHP Roundtable](https://www.phproundtable.com) - Sammy Kaye Powers (podcast)
+* [PHP Town Hall](https://phptownhall.com) - Ben Edmunds, Matt Trask (podcast)
+* [Sound of Symfony](http://www.soundofsymfony.com) - Magnus Nordlander, Tobias Nyholm (podcast)
+* [Voices of the ElePHPant](https://voicesoftheelephpant.com) - Cal Evans, Khayrattee Wasseem (podcast)
 
 
 ### PostgreSQL

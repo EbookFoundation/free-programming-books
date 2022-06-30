@@ -66,6 +66,7 @@
 ### Flutter
 
 * [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
+* [30+ Tutorial Flutter Bahasa Indonesia Series](https://www.konsepkoding.com/search/label/Flutter) - Konsep Koding Flutter (HTML)
 
 
 ### Git

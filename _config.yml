@@ -1,6 +1,6 @@
 # [Name of visual theme]
-#theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
+#theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 
 # [Conversion]
 markdown: kramdown

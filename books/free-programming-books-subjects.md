@@ -522,7 +522,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Design With FontForge](http://designwithfontforge.com/en-US/index.html)
 * [Designing Interfaces](http://designinginterfaces.com) - Jennifer Tidwell
 * [DevDocs](http://devdocs.io) - Documents for Developers in 1 place
-* [DevOps For Dummies (IBM Edition)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/) (PDF)
+* [DevOps For Dummies, 3rd IBM Limited Edition](https://www.ibm.com/downloads/cas/P9NYOK3B) - Sanjeev Sharma, Bernie Coyne (PDF)
 * [Digital Signal Processing For Communications](http://www.sp4comm.org)
 * [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com)
 * [Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp) - Allen B. Downey

@@ -342,7 +342,7 @@
 * [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) (screencast)
 * [TheNewBoston - Python GUI with Tkinter Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d) (screencast)
 * [TheNewBoston - Python Programming Tutorials - 2.x](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA) (screencast)
-* [Try Django Tutorial](http://youtu.be/3DccH9AMwFQ?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx) (screencast)
+* [Try Django Tutorial](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx) - Justin Mitchel, CodingEntrepreneurs (screencast)
 
 
 ### Ruby

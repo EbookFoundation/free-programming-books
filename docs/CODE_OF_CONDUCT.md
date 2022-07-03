@@ -126,4 +126,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 [homepage]: https://www.contributor-covenant.org
 [v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
 [FAQ]: https://www.contributor-covenant.org/faq
-[translations]: (README.md#translations)
+[translations]: README.md#translations

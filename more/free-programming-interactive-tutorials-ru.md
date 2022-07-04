@@ -1,12 +1,12 @@
 ### Index
 
-* [Веб-разработка](#Веб-разработка)
-* [Облачные вычисления](#Облачные-вычисления)
+* [Веб-разработка](#веб-разработка)
+* [Облачные вычисления](#облачные-вычисления)
 * [Git](#git)
 * [Go](#go)
-* [Python](#Python)
-* [Solidity](#Solidity)
-* [SQL](#SQL)
+* [Python](#python)
+* [Solidity](#solidity)
+* [SQL](#sql)
 
 
 ### Веб-разработка
@@ -17,7 +17,7 @@
 
 ### Облачные вычисления
 
-* [Основы Microsoft Azure](https://docs.microsoft.com/ru-ru/learn/paths/az-900-describe-cloud-concepts/)
+* [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/ru-ru/learn/certifications/azure-fundamentals/) - Microsoft
 
 
 ### Git
@@ -28,7 +28,7 @@
 
 ### Go
 
-* [Первые шаги Go](https://docs.microsoft.com/ru-ru/learn/paths/go-first-steps/)
+* [Выполните первые шаги с помощью Go](https://docs.microsoft.com/ru-ru/learn/paths/go-first-steps/) - Microsoft
 
 ### Python
 
@@ -37,7 +37,7 @@
 
 ### Solidity
 
-* [CryptoZombies.io](https://cryptozombies.io/ru/) - Ethereum DApps
+* [CryptoZombies.io](https://cryptozombies.io/ru) - Ethereum DApps
 
 
 ### SQL

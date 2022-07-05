@@ -30,6 +30,7 @@
 
 * [Выполните первые шаги с помощью Go](https://docs.microsoft.com/ru-ru/learn/paths/go-first-steps/) - Microsoft
 
+
 ### Python
 
 * [Pythontutor](https://pythontutor.ru)

@@ -98,7 +98,9 @@
 
 * [Criando seu primeiro App com Flutter](https://app.balta.io/courses/7184) - Andre Baltieri (balta.io)
 * [Curso COMPLETO de Flutter](https://youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) - Flutterando (YouTube)
-
+* [Curso Flutter Básico [NV1] - 2022](https://www.youtube.com/watch?v=fcMlPEVSacs&list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S) - Deivid Willyan | Flutterando (Youtube)
+* [Curso Flutter Intermediário [NV2] - 2022](https://www.youtube.com/watch?v=14Ahr8S1psk&list=PLRpTFz5_57cvYvKja5Ex92aQ_HNADo4Oh) - Deivid Willyan | Flutterando (Youtube)
+* [Curso Arquitetura no Flutter - 2022](https://www.youtube.com/watch?v=LwOACmXcNQ8&list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS) - Deivid Willyan | Flutterando
 
 ### Git
 

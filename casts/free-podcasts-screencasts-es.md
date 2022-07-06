@@ -70,6 +70,7 @@
 * [La Tecnologería](https://tecnologeria.com) - Pablo Trinidad, Frank Blanco, Clarisa Guerra, Adrián Mesa, Jorge Cantón, José María García, Manuel Fernández, Iñigo Sendino (podcast)
 * [Más allá de la innovación](https://masalladelainnovacion.com/todos-los-podcasts/) - Philippe Lardy, Rosa Cano, Jose Miguel Parella, Paco Estrada, Mónica del Valle, Beatriz Ferrolasa (podcast)
 * [Mixx.io](https://mixx.io/podcasts) - Álex Barredo, Matías S. Zavia (podcast)
+* [Ni cero, ni uno - Habilidades esenciales en un mundo tecnológico](https://podcast.carlosble.com) - Carlos Blé Jurado (podcast)
 * [NoSoloTech](https://www.ivoox.com/podcast-nosolotech-podcast_sq_f1851397_1.html) - Diana Aceves, Félix López, Katia Aresti, Jorge Barrachina (podcast)
 * [Red de Sospechosos Habituales](https://www.ivoox.com/podcast-red-sospechosos-habituales_sq_f1564393_1.html) - Javier Fernández (podcast)
 * [Reescribiendo el Código](https://open.spotify.com/show/6efO7Lp5LENT3jqR0sYIG5) - Catalina Arismendi, Julia Calvo, Jesica Checa, Florencia Risolo (podcast)

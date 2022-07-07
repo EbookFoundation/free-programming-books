@@ -2145,7 +2145,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Api on Rails 6](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
 * [Building REST APIs with Rails](https://www.softcover.io/read/06acc071/api_on_rails) - Abraham Kuri Vargas
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
-* [Learn Ruby on Rails as You Modify a Craigslist Clone](http://www.thinkful.com/learn/ruby-on-rails-tutorial/)
 * [Learn Ruby on Rails: Book One](https://leanpub.com/learnrubyonrails) - Daniel Kehoe (PDF, EPUB) *(Leanpub account or valid email requested)*
 * [Objects on Rails](https://web.archive.org/web/20190319201525/http://objectsonrails.com/) - Avdi Grimm
 * [Rails Girls Guides](http://guides.railsgirls.com)

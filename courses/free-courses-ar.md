@@ -212,6 +212,7 @@
 
 * [Basic of Gulp.js&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOaj10GLKu2YAcDQAMRvUgp0) - Algorithm Academy
 * [Gulp.js - Workshop&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYXLQlBhKkc2bYIczytBc73) - Algorithm Academy
+* [Automatic Your Work With Gulpjs](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxyli7mXgNBhkRB-zgSHvL8) - Elzero Web School
 
 
 #### jQuery

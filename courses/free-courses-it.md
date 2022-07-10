@@ -78,7 +78,7 @@
 ### Database
 
 * [Basi di Dati](https://www.youtube.com/playlist?list=PLAQopGWlIcyZ7CN1sefdnCusfoodLP931) - T. Catarci, Università La Sapienza di Roma
-* [Corso progettazione data base](https://www.youtube.com/playlist?list=PL0qAPtx8YtJcJPSV4sOfhLtPbtQ-yycFH) - F. Camuso
+* [Corso progettazione database](https://www.youtube.com/playlist?list=PL0qAPtx8YtJcJPSV4sOfhLtPbtQ-yycFH) - F. Camuso
 
 
 #### SQL

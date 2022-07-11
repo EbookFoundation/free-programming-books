@@ -87,7 +87,7 @@ This project lists books and other resources grouped by genres:
 + [Burmese / မြန်မာဘာသာ](books/free-programming-books-my.md)
 + [Chinese / 中文](books/free-programming-books-zh.md)
 + [Czech / čeština / český jazyk](books/free-programming-books-cs.md)
-+ [Danish / dansk](books/free-programming-books-dk.md)
++ [Danish / dansk](books/free-programming-books-da.md)
 + [Dutch / Nederlands](books/free-programming-books-nl.md)
 + [Estonian / eesti keel](books/free-programming-books-et.md)
 + [Finnish / suomi / suomen kieli](books/free-programming-books-fi.md)

@@ -20,7 +20,6 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
   </form>
 </div>
 
-
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
@@ -58,14 +57,12 @@ Click on these badges to see how you might be able to help:
 
 </div>
 
-
 ## How to Share
 
 + [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
 + [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
 + [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
-
 
 ## Resources
 
@@ -76,7 +73,6 @@ This project lists books and other resources grouped by genres:
 [English, By Programming Language](books/free-programming-books-langs.md)
 
 [English, By Subject](books/free-programming-books-subjects.md)
-
 
 #### Other Languages
 
@@ -118,11 +114,9 @@ This project lists books and other resources grouped by genres:
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
-
 ### Cheat Sheets
 
 + [All Languages](more/free-programming-cheatsheets.md)
-
 
 ### Free Online Courses
 
@@ -164,11 +158,9 @@ This project lists books and other resources grouped by genres:
 + [Portuguese (Brazil)](more/free-programming-interactive-tutorials-pt_BR.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
 
-
 ### Problem Sets and Competitive Programming
 
 + [Problem Sets](more/problem-sets-competitive-programming.md)
-
 
 ### Podcast - Screencast
 
@@ -191,14 +183,12 @@ Free Podcasts and Screencasts:
 + [Swedish / Svenska](casts/free-podcasts-screencasts-sv.md)
 + [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
 
-
 ### Programming Playgrounds
 
 Write, compile and run your code within a browser. Try it out!
 
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
-
 
 ## Translations
 

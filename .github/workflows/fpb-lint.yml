@@ -2,11 +2,6 @@ name: free-programming-books-lint
 
 on: [push, pull_request]
 
-env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  GITHUB_RUN_ID: ${{ github.run_id }}
-  PR: ${{ github.event.pull_request.html_url }}
-
 jobs:
   build:
 
@@ -87,20 +82,14 @@ jobs:
             });
           });
     
-    - name: Print output
+    - name: Upload artifact
       if: ${{ always() && 
           github.event_name == 'pull_request' }}
       run: |
-          cat error.log
-
-          if [ -s error.log ]
-          then
-            gh pr review $PR -r -b "Linter failed, fix the error(s):
-            \`\`\`
-            $(cat error.log)
-            \`\`\`"
-            gh pr edit $PR --add-label "linter error"
-          else
-            gh pr review $PR -a
-            gh pr edit $PR --remove-label "linter error"
-          fi
+          mkdir -p ./pr
+          echo ${{ github.event.pull_request.html_url }} > ./pr/PRurl
+          mv error.log ./pr/error.log
+    - uses: actions/upload-artifact@v3
+      with:
+        name: pr
+        path: pr/

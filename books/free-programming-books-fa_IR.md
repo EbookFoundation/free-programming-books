@@ -11,6 +11,7 @@
   * [Symfony](#symfony)
 * [Python](#python)
 * [R](#r)
+* [R](#Vue.js)
 
 
 ### رایانش ابری
@@ -78,3 +79,5 @@
 * [موضعات ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
 
 
+### Vue.js
+* [آموزش Vue.js از صفر تا صد با 8 درس رایگان](https://sariasan.com/featured/vue-free-full-lessons)

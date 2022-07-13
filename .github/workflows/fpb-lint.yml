@@ -2,6 +2,11 @@ name: free-programming-books-lint
 
 on: [push, pull_request]
 
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITHUB_RUN_ID: ${{ github.run_id }}
+  PR: ${{ github.event.pull_request.html_url }}
+
 jobs:
   build:
 
@@ -9,12 +14,97 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    - name: Use Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
     - name: Use Node.js
       uses: actions/setup-node@v3
       with:
         node-version: '16.x'
     - run: npm install -g free-programming-books-lint
-    - run: fpb-lint ./books/
-    - run: fpb-lint ./casts/
-    - run: fpb-lint ./courses/
-    - run: fpb-lint ./more/
+      
+    - name: Push
+      if: ${{ github.event_name == 'push' }}
+      run: |
+        fpb-lint ./books/
+        fpb-lint ./casts/
+        fpb-lint ./courses/
+        fpb-lint ./more/
+
+    - name: Pull Request
+      if: ${{ always() && 
+          github.event_name == 'pull_request' }}
+      run: |
+        fpb-lint ./books/ &>> output.log || echo "Analyzing..."
+        fpb-lint ./casts/ &>> output.log || echo "Analyzing..."
+        fpb-lint ./courses/ &>> output.log || echo "Analyzing..."
+        fpb-lint ./more/ &>> output.log || echo "Analyzing..."
+
+        cat > error.log
+
+    - name: Clean output
+      if: ${{ always() && 
+          github.event_name == 'pull_request' }}
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const fs = require('fs');
+          const readline = require('readline');
+
+          const file = readline.createInterface({
+            input: fs.createReadStream('output.log'),
+            output: process.stdout,
+            terminal: false,
+          });
+
+          let lastLine = '';
+          file.on('line', (line) => {
+            if (lastLine) {
+              fs.appendFile('error.log', lastLine, (err) => {
+                if (err) {
+                  console.error(err);
+                }
+              });
+            }
+
+            if (line.includes('/home/runner/work/free-programming-books/')) {
+              lastLine = line.replace('/home/runner/work/free-programming-books/', '') + "\r\n"; 
+            } else if (line.includes('\u26a0')) {
+              lastLine = '\r\n\r\n';
+            } else if (line.includes('remark-lint')) {
+              lastLine = line + '\r\n';
+            } else {
+              lastLine = null;
+            }
+          });
+          
+          file.on('close', () => {
+            if (!lastLine || lastLine === '\r\n\r\n') {
+              return;
+            }
+            
+            fs.appendFile('error.log', lastLine, (err) => {
+              if (err) {
+                console.error(err);
+              }
+            });
+          });
+    
+    - name: Print output
+      if: ${{ always() && 
+          github.event_name == 'pull_request' }}
+      run: |
+          cat error.log
+
+          if [ -s error.log ]
+          then
+            gh pr review $PR -r -b "Linter failed, fix the error(s):
+            \`\`\`
+            $(cat error.log)
+            \`\`\`"
+            gh pr edit $PR --add-label "linter error"
+          else
+            gh pr review $PR -a
+            gh pr edit $PR --remove-label "linter error"
+          fi

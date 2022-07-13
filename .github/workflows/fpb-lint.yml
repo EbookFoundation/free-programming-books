@@ -37,7 +37,7 @@ jobs:
         fpb-lint ./courses/ &>> output.log || echo "Analyzing..."
         fpb-lint ./more/ &>> output.log || echo "Analyzing..."
 
-        cat > error.log
+        touch error.log
 
     - name: Clean output
       if: ${{ always() && 

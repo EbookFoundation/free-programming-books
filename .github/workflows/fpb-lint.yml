@@ -14,10 +14,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Use Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
     - name: Use Node.js
       uses: actions/setup-node@v3
       with:

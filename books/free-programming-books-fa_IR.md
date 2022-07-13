@@ -11,7 +11,7 @@
   * [Symfony](#symfony)
 * [Python](#python)
 * [R](#r)
-* [R](#Vue.js)
+* [Vue.js](#Vue.js)
 
 
 ### رایانش ابری

@@ -59,8 +59,6 @@
 * [لینوکس و زندگی؛‌ درس هایی برای گیک های جوان](https://linuxbook.ir)
 
 
-### PHP
-
 #### Symfony
 
 * [سیمفونی ۵: سریع‌ترین مسیر](https://symfony.com/doc/current/the-fast-track/fa/index.html)

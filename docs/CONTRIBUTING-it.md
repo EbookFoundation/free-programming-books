@@ -36,7 +36,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CON
 
 - assicurati che il libro sia gratuito. Controlla più volte se necessario. Commentare nella PR il perché pensi che il libro sia gratuito aiuta gli admin.
 - non accettiamo file hostati su Google Drive, Dropbox, Mega, Scribd, Issuu e altre piattaforme simili per l'upload dei file
-- inserisci i link ordinandoli alfabeticamente. Se sbagli la posizione di un link, riordinalo e invia la PR
+- inserisci i link ordinandoli alfabeticamente, come descritto [sotto](#alphabetical-order).
 - usa il link più "autorevole" per segnalare la risorsa (significa che il sito web dell'autore è migliore del sito web dell'editore, che è migliore di un sito web di terze parti)
     - nessun servizio di file hosting (questo include (ma non è limitato a) link di Dropbox e Google Drive)
 - preferisci sempre un link `https` rispetto ad un `http` -- purché si trovino sullo stesso dominio e contengano lo stesso contenuto
@@ -142,6 +142,13 @@ Esempi:
     CORRETTO : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
+### Ordinamento alfabetico
+
+- Quando ci sono più titoli che iniziano con la stessa lettera devi ordinarli in base alla seconda, e così via. Per esempio: `aa` viene prima di `ab`. 
+- `one two` viene prima di `onetwo`
+
+Se vedi un link messo male, controlla gli errori dati dal linter per scoprire quali linee devi scambiare.
+
 
 ### Note
 
@@ -157,6 +164,7 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 
 - Non inventiamo i titoli. Cerchiamo di prendere i titoli dalla risorsa originale; i contributori sono invitati a non inventare titoli o usarli editorialmente se questo può essere evitato. Un'eccezione è per i libri più vecchi; se sono principalmente di interesse storico, l'anno tra parentesi inserito nel titolo aiuta gli utenti a capire se sono interessati a quella risorsa.
 - Niente titoli completamente in MAIUSCOLO. Di solito il title case è appropriato, ma in caso di dubbio usa le maiuscole utilizzate nella fonte.
+- Niente emoji.
 
 
 ##### URLs

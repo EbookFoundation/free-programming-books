@@ -35,7 +35,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 
 - assurez-vous qu'un livre est gratuit. Vérifiez si nécessaire. Cela aide les administrateurs si vous commentez dans le PR pourquoi vous pensez que le livre est gratuit.
 - nous n'acceptons pas les fichiers hébergés sur Google Drive, Dropbox, Mega, Scribd, Issuu et autres plateformes de téléchargement de fichiers similaires.
-- insérez vos liens par ordre alphabétique. Si vous voyez un lien égaré, veuillez le réorganiser et soumettre un PR
+- insérez vos liens par ordre alphabétique, comme décrit [ci-dessous](#alphabetical-order).
 - utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
     - pas de services d'hébergement de fichiers (cela inclut (mais n'est pas limité à) les liens Dropbox et Google Drive)
 - préférez toujours un lien `https` à un `http` - tant qu'ils sont sur le même domaine et servent le même contenu
@@ -133,6 +133,14 @@ Exemple:
     BIEN   : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
+### <a id="alphabetical-order"></a>Ordre alphabétique
+
+- Lorsque plusieurs titres commencent par la même lettre, organisez-les par la seconde, et ainsi de suite. Par exemple: `aa` vient avant `ab`. 
+
+- `un deux` vient avant `undeux`
+
+Si vous voyez un lien mal placé, vérifiez le message d'erreur du linter pour savoir quelles lignes doivent être échangées.
+
 
 ### Remarques
 
@@ -148,6 +156,7 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 
 - Pas de titres inventés. Nous essayons de prendre les titres des ressources elles-mêmes ; les contributeurs sont avertis de ne pas inventer de titres ou de ne pas les utiliser éditorialement si cela peut être évité. Une exception est pour les œuvres plus anciennes; s'ils présentent principalement un intérêt historique, une année entre parenthèses ajoutée au titre aide les utilisateurs à savoir s'ils présentent un intérêt.
 - Pas de titres TOUTES EN MAJUSCULES. Habituellement, la casse du titre est appropriée, mais en cas de doute, utilisez la majuscule de la source
+- N'utilisez pas d'émoticônes.
 
 
 ##### URLs

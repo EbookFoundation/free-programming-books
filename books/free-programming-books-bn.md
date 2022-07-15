@@ -28,6 +28,7 @@
 ### Java
 
 * [বাংলায় জাভা প্রোগ্রামিং শেখার কোর্স](http://java.howtocode.dev) - Bazlur Rahman, et al. (howtocode.dev)
+* [জাভা প্রোগ্রামিং](https://drive.google.com/file/d/182rV6wXcgywi3QneedM-JTbqoh6Kpzve/view) - Bookbd series
 
 
 ### JavaScript

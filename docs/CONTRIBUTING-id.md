@@ -39,7 +39,7 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
 
 - Pastikan sebuah buku benar-benar gratis. Periksa kembali jika perlu. Ini membantu administrator jika Anda menjelaskan dalam PR Anda mengapa menurut Anda buku tersebut gratis.
 - Kami tidak merekam file yang ada di Google Drive, Dropbox, Mega, Scribd, Issuu atau platform unggah file lainnya sebanding.
-- Masukkan tautan dalam urutan abjad. Jika Anda menemukan tautan yang salah dimasukkan, harap perbaiki pesanan dan kirimkan PR.
+- Masukkan tautan dalam urutan abjad, as described [below](#alphabetical-order).
 - Selalu pilih tautan dari sumber otoritatif (yaitu, situs web penulis lebih baik daripada situs web editor, yang pada gilirannya akan lebih baik daripada situs web pihak ketiga)
     - tidak ada platform hosting file (termasuk tautan ke Dropbox, Google Drive, dll.).
 - Tautan `https` harus selalu lebih disukai daripada tautan `http` - selama tautan tersebut mengarah ke domain dan konten yang sama.
@@ -139,6 +139,13 @@ Contoh:
     BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
+
 
 <!----><a id="notes"></a>
 ### Catatan
@@ -156,6 +163,7 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 
 - Tidak ada judul yang diciptakan. Kami mencoba mengambil judul dari sumber itu sendiri; kontributor diperingatkan untuk tidak membuat judul atau menggunakannya secara editorial jika hal ini dapat dihindari. Pengecualian adalah untuk karya yang lebih tua; jika mereka terutama memiliki minat historis, satu tahun dalam tanda kurung yang ditambahkan ke judul membantu pengguna mengetahui apakah mereka menarik.
 - Tidak ada judul SEMUANYA KAPITAL. Biasanya judul kasus sesuai, tetapi jika ragu gunakan kapitalisasi dari sumbernya.
+- No emojis.
 
 
 ##### URLs

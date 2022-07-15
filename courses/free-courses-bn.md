@@ -82,7 +82,7 @@
 * [CSS Complete Course in Bangla 2021](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO) - Anisul Islam
 * [CSS3 and CSS4 Weird Parts Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVD3oeT3ckKBmnc7krm-SZl2) - Stack Learner
 * [HTML Complete Course in Bangla 2021(Beginner to Advanced)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3) - Anisul Islam
-* [HTML Tutorial in Bangla](https://w3programmers.com/bangla/html-basics/) -w3 programmers
+* [HTML Tutorial in Bangla](https://w3programmers.com/bangla/html-basics/) -w3programmers
 
 
 #### Bootstrap

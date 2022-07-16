@@ -133,7 +133,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Mathematica](#mathematica)
 * [MATLAB](#matlab)
 * [Maven](#maven)
-* [Mercurial](#mercurial)
 * [Mercury](#mercury)
 * [Modelica](#modelica)
 * [MongoDB](#mongodb)
@@ -1511,13 +1510,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
 * [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
 * [Repository Management with Nexus](http://books.sonatype.com/nexus-book/reference/)
-
-
-### Mercurial
-
-* [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)
-* [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org)
 
 
 ### Mercury

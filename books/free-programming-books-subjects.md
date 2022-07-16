@@ -837,6 +837,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
 * [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
+* [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
+* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)
+* [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org)
 
 
 ### Web Performance

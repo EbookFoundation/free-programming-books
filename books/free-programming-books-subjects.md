@@ -44,6 +44,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Software Architecture](#software-architecture)
 * [Standards](#standards)
 * [Theoretical Computer Science](#theoretical-computer-science)
+* [Version Control Systems](#version-control-systems)
 * [Web Performance](#web-performance)
 * [Web Services](#web-services)
 * [Workflow](#workflow)
@@ -804,6 +805,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
 * [Theory of Computation, Making Connections](https://joshua.smcvt.edu/computation) - Jim Hefferon (PDF)
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
+
+
+### <a id="version-control-systems"></a><a id="git"></a><a id="svn"></a><a id="mercurial"></a>Version Control Systems
+
+<!-- Waiting to add in -->
 
 
 ### Web Performance

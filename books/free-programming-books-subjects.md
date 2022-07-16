@@ -828,18 +828,18 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
 * [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card_file_box: archived)*
 * [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
+* [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
 * [How to Collaborate on GitHub: A mini book about collaborating on GitHub](https://github.com/eonist/How-to-collaborate-on-github) - André J
 * [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
 * [Introduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
 * [Introduction to Git and GitHub eBook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 * [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
+* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)
+* [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org)
 * [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon
 * [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
 * [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
-* [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)
-* [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org)
 
 
 ### Web Performance

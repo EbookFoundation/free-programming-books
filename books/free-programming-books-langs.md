@@ -200,7 +200,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
 * [Standard ML](#standard-ml)
-* [Subversion](#subversion)
 * [Swift](#swift)
   * [Vapor](#vapor)
 * [Tcl](#tcl)
@@ -2325,12 +2324,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Definition of Standard ML (Revised)](http://sml-family.org/sml97-defn.pdf) - SMLFamily GitHub project (PDF)
 * [The Standard ML Basis Library](https://smlfamily.github.io/Basis/index.html) - Emden R. Gansner, John H. Reppy (HTML)
 * [Unix System Programming with Standard ML](http://mlton.org/References.attachments/Shipman02.pdf) - Anthony L. Shipman (PDF)
-
-
-### Subversion
-
-* [Subversion Version Control](http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) (PDF)
-* [Version Control with Subversion](http://svnbook.red-bean.com)
 
 
 ### Swift

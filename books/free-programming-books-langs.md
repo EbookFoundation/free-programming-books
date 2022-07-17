@@ -1132,7 +1132,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite (HTML)
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) - Danny Goodman (PDF)
 * [JavaScript Challenges Book](https://tcorral.github.io/javascript-challenges-book/) - Tomás Corral Casas (HTML)
-* [JavaScript Enlightenment](http://www.javascriptenlightenment.com) - Cody Lindley (HTML)
+* [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Lindley, Frontend Masters (HTML)
 * [JavaScript ES6 and beyond](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) - Alberto Montalesi (PDF, epub)
 * [JavaScript For Cats](http://jsforcats.com) - Maxwell Ogden (HTML)
 * [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Dr. Axel Rauschmayer (HTML)

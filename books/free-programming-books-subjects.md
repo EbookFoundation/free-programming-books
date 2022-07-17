@@ -532,6 +532,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Essential Image Optimization](https://images.guide) - Addy Osmani
 * [Foundations of Programming](https://openmymind.net/FoundationsOfProgramming.pdf) - Karl Seguin (PDF)
 * [Front-End Developer Handbook 2016](https://frontendmasters.com/guides/front-end-handbook/2016/) - Frontend Masters (HTML)
+* [Front-End Developer Handbook 2017](https://frontendmasters.com/guides/front-end-handbook/2017/) - Frontend Masters (HTML)
 * [Getting Real](https://basecamp.com/books/getting-real) - Basecamp, 37signals ([HTML](https://basecamp.com/gettingreal), [PDF](https://basecamp.com/gettingreal/getting-real.pdf))
 * [Google Maps API Succinctly](https://www.syncfusion.com/ebooks/google_maps_api_succinctly) - Mark Lewin
 * [Hacknot: Essays on Software Development](http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson

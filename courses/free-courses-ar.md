@@ -223,7 +223,7 @@
 * [كورس JQuery بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY5CmY-9Td8GhlLnq9GuJmpB) - Mobarmg
 * [Basic of jQuery&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwXDFEEpc8TT6MFbDAC5XNB) - Elzero Web School
 * [jQuery - Practical Examples and Create Apps&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz0_Ujf9ZB9KceUzzSVYDci) - Elzero Web School
-* [JQuery In Arabic - Web Development](https://www.youtube.com/playlist?list=PLHIfW1KZRIfll3ObMFi02Ry7oRU3MJVRG) - Hassouna Academy
+* [JQuery In Arabic - Web Development&rlm;](https://www.youtube.com/playlist?list=PLHIfW1KZRIfll3ObMFi02Ry7oRU3MJVRG) - Hassouna Academy
 
 
 #### NodeJS

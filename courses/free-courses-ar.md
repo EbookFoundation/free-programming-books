@@ -67,6 +67,7 @@
 
 ### C
 
+* [دورة تعلم اساسيات لغة C | المشايخي للمعلوميات](https://www.youtube.com/playlist?list=PLUC-ItjDJlmMxme5ufsRI5pZcPPKmeBgJ) - Mohammed Hamad
 * [Introduction to Programming ( C Language - مقدمة في البرمجة ( لغة السي](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXI8wByY0umF_DQON2S9uws) - Ahmed Sallam
 
 

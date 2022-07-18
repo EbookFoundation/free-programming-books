@@ -289,6 +289,7 @@
 
 ### PHP
 
+* [تصميم و برمجة موقع eCommerce by PHP](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU) - Elzero Web School
 * [Arabic PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) - Elzero Web School
 * [Learn Object Oriented PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ) - Elzero Web School
 * [PHP Bootcamp 2022&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) - Elzero Web School

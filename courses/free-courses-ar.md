@@ -60,6 +60,7 @@
 
 ### Bootstrap
 
+* [bootstrap 2021 tutorial for beginners](https://www.youtube.com/playlist?list=PLknwEmKsW8OscL9GvjxwL7RYbcwwdIitk) - Abdelrahman Gamal
 * [Bootstrap 3 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw24EjNUp_88S1VeaNK8Cts) - Elzero Web School
 * [Bootstrap 4&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy0dU3C3_lNRTSTtqePEsI2) - Elzero Web School
 * [Bootstrap 5 Design 01 Bondi&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) - Elzero Web School

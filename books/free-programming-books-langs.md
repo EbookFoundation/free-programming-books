@@ -64,7 +64,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Forth](#forth)
 * [Fortran](#fortran)
 * [FreeBSD](#freebsd)
-* [Git](#git)
 * [Go](#go)
 * [GraphQL](#graphql)
 * [Groovy](#groovy)
@@ -134,7 +133,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Mathematica](#mathematica)
 * [MATLAB](#matlab)
 * [Maven](#maven)
-* [Mercurial](#mercurial)
 * [Mercury](#mercury)
 * [Modelica](#modelica)
 * [MongoDB](#mongodb)
@@ -202,7 +200,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
 * [Standard ML](#standard-ml)
-* [Subversion](#subversion)
 * [Swift](#swift)
   * [Vapor](#vapor)
 * [Tcl](#tcl)
@@ -791,38 +788,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Books and Articles from FreeBSD Site](http://www.freebsd.org/docs/books.html)
 * [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
-
-
-### Git
-
-* [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
-* [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
-* [Conversational Git](http://blog.anvard.org/conversational-git/)
-* [git - the simple guide](http://rogerdudler.github.io/git-guide/)
-* [Git cookbook](https://git.seveas.net/about.html) - Dennis Kaarsemaker (HTML)
-* [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
-* [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley
-* [Git Immersion](http://gitimmersion.com)
-* [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
-* [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
-* [Git Notes for Professionals](http://goalkicker.com/GitBook) - Compiled from StackOverflow Documentation (PDF)
-* [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
-* [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/)
-* [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)
-* [Git Tutorial](https://www.tutorialspoint.com/git/) - Tutorials Point (HTML, PDF)
-* [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
-* [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card_file_box: archived)*
-* [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
-* [How to Collaborate on GitHub: A mini book about collaborating on GitHub](https://github.com/eonist/How-to-collaborate-on-github) - André J
-* [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
-* [Introduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
-* [Introduction to Git and GitHub eBook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
-* [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
-* [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon
-* [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
-* [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson
-* [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 
 
 ### Go
@@ -1544,13 +1509,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
 * [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
 * [Repository Management with Nexus](http://books.sonatype.com/nexus-book/reference/)
-
-
-### Mercurial
-
-* [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)
-* [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org)
 
 
 ### Mercury
@@ -2367,12 +2325,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Definition of Standard ML (Revised)](http://sml-family.org/sml97-defn.pdf) - SMLFamily GitHub project (PDF)
 * [The Standard ML Basis Library](https://smlfamily.github.io/Basis/index.html) - Emden R. Gansner, John H. Reppy (HTML)
 * [Unix System Programming with Standard ML](http://mlton.org/References.attachments/Shipman02.pdf) - Anthony L. Shipman (PDF)
-
-
-### Subversion
-
-* [Subversion Version Control](http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) (PDF)
-* [Version Control with Subversion](http://svnbook.red-bean.com)
 
 
 ### Swift

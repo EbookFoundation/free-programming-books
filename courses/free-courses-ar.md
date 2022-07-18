@@ -55,8 +55,8 @@
 
 ### Assembly
 
-* [x86 Assembly Language - لغة التجميع](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVodghdDWaAuHkHqj-nJ0bN) - Ahmed Sallam
 * [Microprocessor 8086 & Assembly Language Course](https://www.youtube.com/playlist?list=PLi0-RQZxQ8Fmwopq43StX61igOvXbFMQv) - Sherif Ezzat
+* [x86 Assembly Language - لغة التجميع](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVodghdDWaAuHkHqj-nJ0bN) - Ahmed Sallam
 
 
 ### Bootstrap

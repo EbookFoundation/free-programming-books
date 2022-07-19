@@ -3,6 +3,13 @@
 This list, organized by subject, is for books that cover a programming-related subject in a programming-language agnostic way.  
 Books that cover a specific programming language can be found in the  [BY PROGRAMMING LANGUAGE](free-programming-books-langs.md) list.
 
+How the internet works
+https://b-ok.cc/book/3700628/7e34a8
+
+How computers work
+https://b-ok.cc/book/11107433/66b3d3
+
+(from Misc)
 
 ### Index
 

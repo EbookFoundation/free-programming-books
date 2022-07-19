@@ -500,7 +500,9 @@
 * [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
 * [SwiftUI Tutorials](https://www.youtube.com/playlist?list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z) - Sean Allen
+* [SwiftUI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI) - CodeWithChris
 * [The Complete Swift iOS Developer - Create Real Apps in Swift](https://www.udemy.com/course/the-complete-ios-10-developer-course/) - Grant Klimaytys (Udemy)
+* [Unit Testing in iOS](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZLLvLwuW8AP3n-A3nsRn9P) - CodeWithChris
 
 
 ### Java

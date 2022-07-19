@@ -14,6 +14,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 - Bulgarian / български
 - Burmese / မြန်မာဘာသာ
 - Chinese / 中文
+  - [贡献者行为准则](CODE_OF_CONDUCT-zh.md)
   - [Contributing](CONTRIBUTING-zh.md)
   - [How-to](HOWTO-zh.md)
 - Chinese (traditional) / 繁體中文

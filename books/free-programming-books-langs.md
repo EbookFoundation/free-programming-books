@@ -1579,6 +1579,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Nim by Example](https://nim-by-example.github.io) - Flaviu Tamas
 * [Nim Days](https://xmonader.github.io/nimdays) - Ahmed Thabet
 
+### NewSQL
+
+* [How to Manage TiDB Database](https://download.pingcap.org/tidb-stable-en-manual.pdf) 
 
 ### NoSQL
 

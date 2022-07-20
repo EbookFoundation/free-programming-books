@@ -247,10 +247,10 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
 * [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) (PDF)
 * [Foundations of Databases](http://webdam.inria.fr/Alice/)
+* [How to Manage a TiDB Database](https://download.pingcap.org/tidb-stable-en-manual.pdf) (PDF)
 * [Readings in Database Systems, 5th Ed.](http://www.redbook.io)
 * [Temporal Database Management](http://people.cs.aau.dk/~csj/Thesis/) - Christian S. Jensen
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
-* [How to Manage a TiDB Database](https://download.pingcap.org/tidb-stable-en-manual.pdf) (PDF)
 
 
 ### Datamining

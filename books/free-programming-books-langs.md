@@ -926,7 +926,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Magic of CSS](https://adamschwartz.co/magic-of-css/) - Adam Schwartz (HTML) (:construction: *in process*)
 * [MaintainableCSS](http://maintainablecss.com)
 * [Pocket Guide to Writing SVG](https://svgpocketguide.com) - Joni Trythall
-* [Practical Series: Web Development](http://www.hoole.onl) - Michael Gledhill (HTML)
+* [Practical Series: A website template](https://practicalseries.com/1001-webdevelopment/) - Michael Gledhill (HTML)
 * [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html) - Jen Simmons, Chris O'Connor, Dylan Wooters, Peter Lubbers
 * [Resilient Web Design](https://resilientwebdesign.com/#Resilientweb%20design) - Jeremy Keith
 * [RTL Styling 101](https://rtlstyling.com) - Ahmad Shadeed

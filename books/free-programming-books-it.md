@@ -5,6 +5,7 @@
   * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
   * [Open source](#open-source)
   * [Sistemi](#sistemi)
+  * [Sistemi di controllo versione](#sistemi-di-controllo-versione)
   * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
@@ -61,6 +62,11 @@
 #### Sistemi
 
 * [Programmazione di Sistema in Linguaggio C - Esempi ed esercizi](https://www.disi.unige.it/person/DelzannoG/BIOMED/Programmazione-C/dispense_avanzate_C.pdf) - V. Gervasi, S. Pelagatti, S. Ruggieri, F. Scozzari, A. Sperduti (PDF)
+
+
+#### Sistemi di controllo versione
+
+* [Controllo di Versione con Subversion](https://svnbook.red-bean.com/index.it.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
 
 
 #### Storia dell'informatica

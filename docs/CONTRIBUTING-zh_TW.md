@@ -35,7 +35,7 @@
 
 * 確保你提交的每一本書都是免費的。如有需要請 Double-check。如果你在 PR 中註明為什麼你認為這本書是免費的，這對管理員是很有幫助的。
 * 我們不接受儲存在 Google Drive、Dropbox、Mega、Scribd、Issuu 和其他類似文件上傳平台上的文件。
-* 請按照字母順序插入連結。如果你看到一個錯位的連結，請重新對他進行排序並提交一個 PR。
+* 請按照字母順序插入連結, 如 [下方敘述](#alphabetical-order).
 * 使用最權威來源的連結(意思是原作者的網站比編輯的網站好，比第三方網站好)。
     * 沒有文件託管服務(包括(但不限於) Dropbox 和 Google Drive 連結)。
 * 優先選擇使用 `https` 連結，而不是 `http` 連結 -- 只要它們位於相同的網域並提供相同的内容。
@@ -148,6 +148,14 @@
     正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *編寫中*)
     正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *翻譯中*)
     ```
+
+
+### <a id="alphabetical-order"></a>依照字母排序
+
+- 當出現多個相同字母開頭的標題時，則照第二個字母排序，以此類推。例如：`aa` 排在 `ab` 前面
+- `one two` 排在 `onetwo` 前面
+
+如果你看到錯誤的連結，請檢查 linter 的錯誤訊息來找到哪一行順序需要交換
 
 
 ### 自動化測試

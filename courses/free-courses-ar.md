@@ -55,11 +55,13 @@
 
 ### Assembly
 
+* [Microprocessor 8086 & Assembly Language Course&rlm;](https://www.youtube.com/playlist?list=PLi0-RQZxQ8Fmwopq43StX61igOvXbFMQv) - Sherif Ezzat
 * [x86 Assembly Language - لغة التجميع](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVodghdDWaAuHkHqj-nJ0bN) - Ahmed Sallam
 
 
 ### Bootstrap
 
+* [كورس بوتستراب كامل للمبتدئين | bootstrap 2021 tutorial for beginners&rlm;](https://www.youtube.com/playlist?list=PLknwEmKsW8OscL9GvjxwL7RYbcwwdIitk) - Abdelrahman Gamal
 * [Bootstrap 3 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw24EjNUp_88S1VeaNK8Cts) - Elzero Web School
 * [Bootstrap 4&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy0dU3C3_lNRTSTtqePEsI2) - Elzero Web School
 * [Bootstrap 5 Design 01 Bondi&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) - Elzero Web School
@@ -188,6 +190,7 @@
 ### JavaScript
 
 * [سلسلة دروس جافا سكريبت](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0) - أكاديمية ترميز (:construction: *in process*)
+* [كورس جافا سكريبت كامل | Javascript Tutorial&rlm;](https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE) - Abdelrahman Gamal
 * [كورس Ajax بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY7wv9ZZkhH7lZELpz_fP81N) - Mobarmg
 * [كورس ES6 بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY5nQxWH0HaNibR9UXKICWxz) - Mobarmg
 * [Arabic JavaScript&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm) - KMR Script
@@ -210,6 +213,7 @@
 
 #### Gulp.js
 
+* [Automatic Your Work With Gulpjs](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxyli7mXgNBhkRB-zgSHvL8) - Elzero Web School
 * [Basic of Gulp.js&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOaj10GLKu2YAcDQAMRvUgp0) - Algorithm Academy
 * [Gulp.js - Workshop&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYXLQlBhKkc2bYIczytBc73) - Algorithm Academy
 
@@ -219,6 +223,7 @@
 * [كورس JQuery بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY5CmY-9Td8GhlLnq9GuJmpB) - Mobarmg
 * [Basic of jQuery&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwXDFEEpc8TT6MFbDAC5XNB) - Elzero Web School
 * [jQuery - Practical Examples and Create Apps&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz0_Ujf9ZB9KceUzzSVYDci) - Elzero Web School
+* [JQuery In Arabic - Web Development&rlm;](https://www.youtube.com/playlist?list=PLHIfW1KZRIfll3ObMFi02Ry7oRU3MJVRG) - Hassouna Academy
 
 
 #### NodeJS
@@ -285,6 +290,7 @@
 
 ### PHP
 
+* [تصميم و برمجة موقع eCommerce by PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU) - Elzero Web School
 * [Arabic PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) - Elzero Web School
 * [Learn Object Oriented PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ) - Elzero Web School
 * [PHP Bootcamp 2022&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) - Elzero Web School

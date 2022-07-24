@@ -121,9 +121,9 @@
 
 ### HTML and CSS
 
+* [Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo)
 * [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
-* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo)
 
 
 ### IDE

@@ -178,7 +178,6 @@
 * [Yonisfy CS94's | Web Programming with JavaScript](https://www.youtube.com/playlist?list=PLLWuK602vNiXqkUqcoKrVjCyOrZh7Tw0e) - Mohammed Elzanaty
 
 
-
 ### Java
 
 * [JAVA Course Level 1 Basics By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwTgEDztQ8y4K4-VoeoK1QCG) - محمد شوشان

@@ -205,6 +205,7 @@
 * [Design Patterns \| javascript \| [Arabic]&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmduTfp_bReagQKg7I-GVr-5) - Shadow Coding
 * [ECMAScript 6 Tutorial In Arabic&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiVnYxkrT7qbFSictc9nJeiX) - Mohammed Elzanaty
 * [Friday js&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa_PU_wiKETaFk6nAVrNBg7l) - codeZone
+* [HTML \| CSS \| JavaScript \| Project&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmflgWiToSs6jNwYaFK7FnWM) - Shadow Coding
 * [Javascript&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh) - Elzero Web School
 * [JavaScript AJAX&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAytfRIdMIkLeoQHP0o5uWBa) - Elzero Web School
 * [JavaScript Application&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT) - Elzero Web School
@@ -217,7 +218,6 @@
 * [Javascript Tutorial \| كورس جافا سكريبت كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE) - Abdelrahman Gamal
 * [JavaScript Unit Testing With Jest&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O) - Elzero Web School
 * [Learn JavaScript in Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) - Elzero Web School
-* [HTML \| CSS \| JavaScript \| Project&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmflgWiToSs6jNwYaFK7FnWM) - Shadow Coding
 * [SOLID Principles In Arabic&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa9Dwu0xHfC0gALHCdia6L6w) - codeZone
 
 
@@ -271,9 +271,9 @@
 * [ReactJS Part 1 - Learn React Hooks by Project [تعلم الرياكت هوكس] [الجزء الاول]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFSaQIFNstRIrbm_fqb12Q59) - kimz codes
 * [ReactJS Part 2 - UseEffect & UseRef - working with API and Prev State [Arabic] [بالعربي][الجزء الثاني]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFQa9YDF5pzB4JFbJovh3TN9) - kimz codes
 * [ReactJS Part 3 - Performance Optimization (react memo, use memo, use call back) [تعلم الرياكت] [الجزء الثالث]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFTYdkjzqYBujf7UCVQyn_aq) - kimz codes
+* [ReactJS with zanaty&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiUmNPrv9szscXzENArzQHAe) - Mohammed Elzanaty
 * [Redux ToolKit 2021/2022 part 4 [شرح Redux toolkit] [تعلم Redux] [شرح Redux]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFREfrBoSl8tjAPZOY6HNqZv) - kimz codes
 * [Redux ToolKit Project, Book Store project [تعلم Redux toolkit]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFQFvS469VXyCPO_py_kvVD5) - kimz codes
-* [ReactJS with zanaty&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiUmNPrv9szscXzENArzQHAe) - Mohammed Elzanaty
 
 
 #### Vue.js

@@ -93,16 +93,16 @@
 
 ### PHP
 
-* [Curso em Vídeo - PHP Iniciante](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Gustavo Guanabara (screencast)
-* [Curso em Vídeo - PHP Orientado a Objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - Gustavo Guanabara (screencast)
+* [Curso em Vídeo - PHP Iniciante](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Gustavo Guanabara (screencast)
+* [Curso em Vídeo - PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - Gustavo Guanabara (screencast)
 * [UpInside - PHP Tips](https://www.youtube.com/playlist?list=PLi_gvjv-JgXqsmCAOrueT1-4JrnMW8_Gg) (screencast)
 
 
 ### Python
 
-* [Curso em Vídeo - Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (screencast)
-* [Curso em Vídeo - Python Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (screencast)
-* [Curso em Vídeo - Python Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Gustavo Guanabara (screencast)
+* [Curso em Vídeo - Python Mundo 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (screencast)
+* [Curso em Vídeo - Python Mundo 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (screencast)
+* [Curso em Vídeo - Python Mundo 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Gustavo Guanabara (screencast)
 * [Programação Dinâmica - Introdução à Python por Projetos](https://www.youtube.com/playlist?list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) (screencast)
 
 

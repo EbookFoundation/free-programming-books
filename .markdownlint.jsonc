@@ -12,9 +12,9 @@
   "MD033": { "allowed_elements": [ "a", "abbr", "div", "span" ] },
   "MD044": { "names": [
       ".github", ".gitlab", ".markdown", ".mega", ".html", ".css", ".sass", ".html", ".json", ".yaml",
-      "GitHub", "GitLab", "BitBucket", "Pull Request", "PR",
+      "GitHub", "GitLab", "Bitbucket", "Pull Request", "PR",
       "Google", "Google Drive", "YouTube", "Dropbox", "Mega", "Scribd", "Issuu", "Leanpub", "StackOverflow",
-      "Markdown", "HTML", "CSS", "SASS", "JavaScript", "JSON", "YAML"
+      "Markdown", "HTML", "CSS", "Sass", "JavaScript", "JSON", "YAML"
   ] }
 }
 -->
@@ -243,7 +243,7 @@
       "próximo",
       "GitHub",
       "GitLab",
-      "BitBucket",
+      "Bitbucket",
       "Pull Request",
       "PRÓXIMO",
       "PR",
@@ -259,7 +259,7 @@
       "Markdown",
       "HTML",
       "CSS",
-      "SASS",
+      "Sass",
       "JavaScript",
       "JSON",
       "YAML"

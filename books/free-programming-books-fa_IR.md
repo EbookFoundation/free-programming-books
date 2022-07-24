@@ -79,5 +79,3 @@
 
 ### Vue.js
 * [آموزش Vue.js از صفر تا صد با 8 درس رایگان](https://sariasan.com/featured/vue-free-full-lessons)
-
-

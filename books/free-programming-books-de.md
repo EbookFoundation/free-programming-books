@@ -11,7 +11,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Groovy](#groovy)
-* [HTML & CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -106,7 +106,7 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 * [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) - Jörg Staudemeyer (PDF)
 
 
-### HTML & CSS
+### HTML and CSS
 
 * [CSS](http://www.peterkropff.de/site/css/css.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) (Online, PDF)
 * [HTML](http://www.peterkropff.de/site/html/html.htm) - Peter Kropff (Online, PDF)

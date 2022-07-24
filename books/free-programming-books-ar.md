@@ -7,7 +7,7 @@
 * [AWS](#aws)
 * [C#&lrm;](#csharp)
 * [DB & DBMS](#db--dbms)
-* [HTML/CSS](#htmlcss)
+* [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
   * [Vue.js](#vuejs)
@@ -54,7 +54,7 @@
 * [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt & Nelson Eng، ترجمة أيمن طارق وعلا عباس (PDF)
 
 
-### HTML/CSS
+### HTML and CSS
 
 * [التحريك عبر CSS&rlm;](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat&rlm; (PDF)
 * [نحو فهم أعمق لتقنيات HTML5&rlm;](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash&rlm; (PDF)

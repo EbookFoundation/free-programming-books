@@ -1,8 +1,8 @@
 ### Index
 
 * [Android](#android)
-* [HTML/CSS](#html/css)
-* [Javascript](#javascript)
+* [HTML and CSS](#html-and-css)
+* [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
 
@@ -19,7 +19,7 @@ ADVANCED - дамытушы. Детальді кодты үйрену.
 * [Android](https://bilgen.academy/course/view.php?id=512) (BEGINNER)
 
 
-### HTML/CSS
+### HTML and CSS
 
 * [HTML/CSS. базалық веб-дизайн құрудағы кодтау.](https://bilgen.academy/course/view.php?id=510) (BEGINNER)
 
@@ -37,5 +37,3 @@ ADVANCED - дамытушы. Детальді кодты үйрену.
 ### Python
 
 * [Python тiлiнде бағдарламалау негiздерi.](https://openu.kz/kz/courses/python-tilinde-badarlamalau-negizderi) - Жасдәурен Дүйсебеков (Қазақстанның ашық университеті) *(тіркелуді талап етпейді)*
-
-

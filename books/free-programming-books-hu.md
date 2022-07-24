@@ -5,7 +5,7 @@
 * [Arduino](#arduino)
 * [C](#c)
 * [C++](#cpp)
-* [HTML / CSS](#html-css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [Lego Mindstorms](#lego-mindstorms)
 * [LISP](#lisp)
@@ -48,7 +48,7 @@
 * [Fejlett programozási technikák](http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf) - Antal Margit (PDF)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [CSS alapjai](http://weblabor.hu/cikkek/cssalapjai1) - Bártházi András (HTML)
 * [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok) - Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan és Mike West, ford.: Nagy Gusztáv (PDF)

@@ -1,8 +1,8 @@
 ### Indice
 
 * [C/C++](#cc)
-* [CSS](#css)
 * [Haskell](#haskell)
+* [HTML and CSS](#html-and-css)
 * [LaTeX](#latex)
 * [Prolog](#prolog)
 * [Python](#python)
@@ -14,14 +14,14 @@
 * [Aprenda a Programar - Uma Breve Introdução (2015)](https://henriquedias.com/downloads/aprenda_a_programar.pdf) - Henrique Dias (PDF)
 
 
-### CSS
-
-* [Aprenda o layout de CSS](http://pt-pt.learnlayout.com)
-
-
 ### Haskell
 
 * [Programação Funcional CC](http://www4.di.uminho.pt/~mjf/pub/PF-Haskell.pdf) - Maria João Frade (PDF)
+
+
+### HTML and CSS
+
+* [Aprenda o layout de CSS](http://pt-pt.learnlayout.com)
 
 
 ### LaTeX

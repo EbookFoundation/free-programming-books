@@ -16,7 +16,7 @@
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git](#git)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Gulp.js](#gulpjs)
@@ -155,7 +155,7 @@
 * [Learn Git in Arabic&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [برمجة المواقع \| تعلم لغة الhtml من الصفر](https://www.youtube.com/playlist?list=PLYyqC4bNbCIfMY5CoGmiWaPi9l86qaz5B) - أكاديمية ترميز
 * [برمجة المواقع \| سلسلة دروس لغة css](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu) - أكاديمية ترميز

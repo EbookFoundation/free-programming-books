@@ -102,6 +102,7 @@
 * [Curso Flutter Intermediário [NV2] - 2022](https://www.youtube.com/watch?v=14Ahr8S1psk&list=PLRpTFz5_57cvYvKja5Ex92aQ_HNADo4Oh) - Deivid Willyan | Flutterando (Youtube)
 * [Curso Arquitetura no Flutter - 2022](https://www.youtube.com/watch?v=LwOACmXcNQ8&list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS) - Deivid Willyan | Flutterando
 
+
 ### Git
 
 * [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) - Gustavo Guanabara (YouTube)

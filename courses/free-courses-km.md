@@ -14,7 +14,7 @@
 
 ### Flutter
 
-* [Flutter food ordering app](https://youtube.com/playlist?list=PL9nDNu0HsFZk6qC7nfhdYbnB-B9wyfKV9) - Chunlee Thong 
+* [Flutter food ordering app](https://youtube.com/playlist?list=PL9nDNu0HsFZk6qC7nfhdYbnB-B9wyfKV9) - Chunlee Thong
 * [Flutter UI Speed Code](https://youtube.com/playlist?list=PLVY9IbkulBUiKDrT5BFcMKXxtk4b0IJIX) - Sopheaman Van
 
 

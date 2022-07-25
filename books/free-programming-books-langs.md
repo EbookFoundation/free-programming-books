@@ -480,7 +480,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to Rx](http://www.introtorx.com)
 * [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
 * [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511) - Steven F. Daniel (Packt account *required*)
-* [Modernize existing .NET applications with Azure cloud and Windows Containers](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/) - Cesar de la Torre 
+* [Modernize existing .NET applications with Azure cloud and Windows Containers](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/) - Cesar de la Torre
 * [Modernizing Desktop Apps on Windows with .NET 6](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-desktop) - Olia Gavrysh, Miguel Angel Castejón Dominguez
 * [.NET Book Zero](http://www.charlespetzold.com/dotnet) - Charles Petzold (PDF, XPS)
 * [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
@@ -667,7 +667,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB)](https://github.com/potatogopher/elixir-getting-started)
 * [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source](https://github.com/radar/joyofelixir) (:construction: *in process*)
 * [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
-* [Learning the Elixir Language](https://riptutorial.com/Download/elixir-language.pdf) - Compiled from StackOverflow Documentation (PDF) 
+* [Learning the Elixir Language](https://riptutorial.com/Download/elixir-language.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [The Ultimate Guide To Elixir For Object-Oriented Programmers](http://www.binarywebpark.com/ultimate-guide-elixir-object-oriented-programmers) - Bruce Park (HTML)
 
 
@@ -863,7 +863,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [A Gentle Introduction to Haskell Version 98](https://www.haskell.org/tutorial/) - Paul Hudak, John Peterson, Joseph Fasel
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](https://web.archive.org/web/20160411023943/http://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf) - J.R. Heard (PDF)
-* [Developing Web Applications with Haskell and Yesod](https://www.yesodweb.com/book) - Michael Snoyman 
+* [Developing Web Applications with Haskell and Yesod](https://www.yesodweb.com/book) - Michael Snoyman
 * [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh (PDF)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com)
 * [Haskell](https://en.wikibooks.org/wiki/Haskell) - Wikibooks
@@ -1998,7 +1998,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) -David M. Smith and William N. Venables
 * [An Introduction to Statistical Learning with Applications in R](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (PDF)
-* [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) - Yihui Xie, Amber Thomas, Alison Presmanes Hill 
+* [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) - Yihui Xie, Amber Thomas, Alison Presmanes Hill
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - Rafael A. Irizarry
 * [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences) - Rafael A Irizarry, Michael I Love *(Leanpub account or valid email requested)*

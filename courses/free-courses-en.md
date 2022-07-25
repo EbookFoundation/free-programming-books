@@ -168,7 +168,7 @@
 * [APL Course](https://course.dyalog.com) - Dyalog (:construction: *in process*)
 * [APL Cultivation](https://aplwiki.com/wiki/APL_Cultivation) - Adám Brudzewsky
 * [Dyalog APL Tutor](https://tutorial.dyalog.com) - Dyalog
-* [Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão 
+* [Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão
 
 
 ### Artificial Intelligence
@@ -314,7 +314,7 @@
 * [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Facebook (Udacity)
 * [Data Cleaning by Rachael Tatman at Kaggle](https://www.kaggle.com/learn/data-cleaning)
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
-* [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft 
+* [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft
 * [Data Science interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-) - Krish Naik
 * [Data Visualization by Alexis Cook at Kaggle](https://www.kaggle.com/learn/data-visualization)
 * [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher

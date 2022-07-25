@@ -3,7 +3,7 @@
 * [Computer Science](#computer-science)
 * [Flutter](#flutter)
 * [Git](#git)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [Web Development](#web-development)
 
 
@@ -23,9 +23,9 @@
 * [Git](https://youtube.com/playlist?list=PLyNTduYoTjqBsCRtQrkUw-jaBLsInhsJa) - Soeng Souy
 
 
-### Javascript
+### JavaScript
 
-* [មេរៀន Javascript Speak khmer](https://youtube.com/playlist?list=PLWrsrLN26mWZiRcn4O-cphCw-AyoWumhq) - រៀនIT
+* [មេរៀន JavaScript Speak khmer](https://youtube.com/playlist?list=PLWrsrLN26mWZiRcn4O-cphCw-AyoWumhq) - រៀនIT
 
 
 ### Web Development

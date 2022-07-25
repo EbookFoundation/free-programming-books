@@ -1,7 +1,7 @@
 ### Index
 
 * [Android](#android)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
   * [Django](#django)
@@ -12,7 +12,7 @@
 * [Android App Development Tutorial Malayalam](https://youtube.com/playlist?list=PLZ78Q1BKkdA1-eMVQOiBiMtQQb_vYWnvV) - Sabith Pkc Mnr
 
 
-### Javascript
+### JavaScript
 
 * [JavaScript Malayalam Tutorial](https://www.youtube.com/watch?v=3mjwtu4_0uk) - Yes Tech Media
 

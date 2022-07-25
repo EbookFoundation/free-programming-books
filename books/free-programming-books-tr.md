@@ -10,7 +10,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
-* [Html](#html)
+* [HTML](#html)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -83,10 +83,10 @@
 * [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin et al.
 
 
-### Html
+### HTML
 
-* [Html'e Giriş](http://www.htmldersleri.org)
-* [Html'e Yolculuk](https://www.github.com/paufsc/journey-to-html)
+* [HTML'e Giriş](http://www.htmldersleri.org)
+* [HTML'e Yolculuk](https://www.github.com/paufsc/journey-to-html)
 
 
 ### iOS

@@ -83,13 +83,13 @@
 * [Cours Java](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) - Formation Video
 
 
-### Javascript
+### JavaScript
 
 * [Apprendre à coder en JavaScript \| Cours complet (2020)](https://www.pierre-giraud.com/javascript-apprendre-coder-cours/) - Pierre Giraud
 * [Apprendre le JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw) - Grafikart
 * [Cours JavaScript](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_) - Formation Video
 * [Déboguer son code JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWWXgsHpfCLHJ1Oq4YnE08e) - Grafikart
-* [Tutoriel de javascript moderne](https://fr.javascript.info) - javascript.info
+* [Le Tutoriel JavaScript Moderne](https://fr.javascript.info) - javascript.info
 * [TUTOS JS](https://www.youtube.com/playlist?list=PLEagTQfI6nPPVSKoYo2p8Cf8eijcyz5t9) - PrimFX
 
 

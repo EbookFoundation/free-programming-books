@@ -196,7 +196,7 @@
 * [Arabic JavaScript&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm) - KMR Script
 * [Arabic JavaScript ES6 الاصدار السادس من الجافاسكربت](https://www.youtube.com/playlist?list=PLL2zWZTDFZzilx_LJ_mCRDETtDOyBg0UT) - KMR Script
 * [Friday js&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa_PU_wiKETaFk6nAVrNBg7l) - codeZone
-* [Javascript&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh) - Elzero Web School
+* [JavaScript&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh) - Elzero Web School
 * [JavaScript AJAX&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAytfRIdMIkLeoQHP0o5uWBa) - Elzero Web School
 * [JavaScript Application&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT) - Elzero Web School
 * [JavaScript Canvas&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdetco1wwicE7Fbm73UYy0) - Elzero Web School

@@ -2,7 +2,7 @@
 
 * [Android](#android)
 * [HTML/CSS](#html/css)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
 
@@ -24,7 +24,7 @@ ADVANCED - дамытушы. Детальді кодты үйрену.
 * [HTML/CSS. базалық веб-дизайн құрудағы кодтау.](https://bilgen.academy/course/view.php?id=510) (BEGINNER)
 
 
-### Javascript
+### JavaScript
 
 * [Javascript. Java курсының негізі](https://bilgen.academy/course/view.php?id=506) (BEGINNER)
 

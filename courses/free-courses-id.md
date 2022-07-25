@@ -67,7 +67,7 @@
 ### C / C++
 
 * [Bahasa C dengan Dev-C++](https://www.youtube.com/playlist?list=PLZNiz_sFO6tdZ_DcLhtbxLboLlpuqpzLC) - H.I Edukasi
-* [Belajar Bahasa Pemrograman C++ Lengkap dari Awal untuk Pemula ](https://kodedasar.com/belajar-cpp/) - DAMASDEV
+* [Belajar Bahasa Pemrograman C++ Lengkap dari Awal untuk Pemula](https://kodedasar.com/belajar-cpp/) - DAMASDEV
 * [Belajar C++](https://www.youtube.com/playlist?list=PLF82-I80PwDNKmeyYBe4CkEj7excOdy7f) - Guntur Budi
 * [Belajar C++ - Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7-RC_-hkL9gu0_ofABw862) - Kelas Terbuka
 * [Belajar C++ Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI) - Kelas Terbuka

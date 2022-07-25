@@ -127,7 +127,7 @@
 
 ### Flask
 
-* [ آموزش توسعه وب با فریم‌ورک فلسک](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) - Alireza Ayinmehr
+* [آموزش توسعه وب با فریم‌ورک فلسک](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) - Alireza Ayinmehr
 
 
 ### Web Development

@@ -1661,7 +1661,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Pascal Language Reference](https://docs.oracle.com/cd/E19957-01/802-5762/802-5762.pdf) (PDF)
 * [Pascal Programming Reference Manual](https://public.support.unisys.com/aseries/docs/clearpath-mcp-17.0/pdf/86000080-103.pdf) - Unisys (PDF)
 * [Pascal Quick Reference](https://ksvi.mff.cuni.cz/~dingle/2017/pascal_reference.html)
-* [Turbo Pascal Reference Guide](http://bitsavers.org/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Reference_Guide_1989.pdf) (PDF)
+* [Turbo Pascal Reference Guide (1989)](http://bitsavers.org/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Reference_Guide_1989.pdf) - Borland International (PDF)
 * [Vector Pascal, an Array Language](http://www.dcs.gla.ac.uk/~wpc/reports/compilers/compilerindex/vp-ver2.html)
 * [Vector Pascal Reference Manual](https://www.researchgate.net/publication/220177664_Vector_Pascal_reference_manual) (PDF)
 * [VSI Pascal for OpenVMS Reference Manual](https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf) (PDF)

@@ -51,7 +51,7 @@
 * [Data Structure : JavaScript (leetcode problem solving)&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) - Shadow Coding
 * [Data Structure C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8) - Mega Code
 * [Data Structures Full Course In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) - Adel Nasim
-* [Grokking Algorithms](https://www.youtube.com/playlist?list=PLWCr3KJclfzGV82gewnuAoKFBt_f9FvNa) - Programming Books
+* [Grokking Algorithms&rlm;](https://www.youtube.com/playlist?list=PLWCr3KJclfzGV82gewnuAoKFBt_f9FvNa) - Programming Books
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi
 * [Standard Template Library (STL) Full Tutorial Using C++ In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp) - Adel Nasim
 
@@ -117,7 +117,7 @@
 * [CS Master - Level 3 - Databases قواعد البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhXQ1bcYlO3PtN4MsLiG-gy) - KMR Script
 * [Database 1 - المقرر النظرى - Fundamentals of Database Systems](https://www.youtube.com/playlist?list=PL37D52B7714788190) - محمد الدسوقى
 * [Database Design](https://www.youtube.com/playlist?list=PLkzDzmo9y3VHDFKp7LuXd-FwbefvTL5o0) - تخاريف مبرمج
-* [Designing Data Intensive Applications](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ) - Ahmed Elemam
+* [Designing Data Intensive Applications&rlm;](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ) - Ahmed Elemam
 
 
 #### NoSQL
@@ -175,7 +175,7 @@
 * [Learn SASS In Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) - Elzero Web School
 * [Sass&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6bF7qObm2a1mLN_WHAWQo) - Elzero Web School
 * [Sass - Create a website&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) - Elzero Web School
-* [Yonisfy CS94's | Web Programming with JavaScript](https://www.youtube.com/playlist?list=PLLWuK602vNiXqkUqcoKrVjCyOrZh7Tw0e) - Mohammed Elzanaty
+* [Yonisfy CS94's | Web Programming with JavaScript&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiXqkUqcoKrVjCyOrZh7Tw0e) - Mohammed Elzanaty
 
 
 ### Java
@@ -202,7 +202,7 @@
 * [Arabic JavaScript&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm) - KMR Script
 * [Arabic JavaScript ES6 الاصدار السادس من الجافاسكربت](https://www.youtube.com/playlist?list=PLL2zWZTDFZzilx_LJ_mCRDETtDOyBg0UT) - KMR Script
 * [Complete Intro to Javascript&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiU-kIpNuw5Z7HRbV4pBaHlL) - Mohammed Elzanaty
-* [Design Patterns \| javascript \| [Arabic]&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmduTfp_bReagQKg7I-GVr-5) - Shadow Coding
+* [Design Patterns \| javascript \| \[Arabic\]&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmduTfp_bReagQKg7I-GVr-5) - Shadow Coding
 * [ECMAScript 6 Tutorial In Arabic&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiVnYxkrT7qbFSictc9nJeiX) - Mohammed Elzanaty
 * [Friday js&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa_PU_wiKETaFk6nAVrNBg7l) - codeZone
 * [HTML \| CSS \| JavaScript \| Project&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmflgWiToSs6jNwYaFK7FnWM) - Shadow Coding

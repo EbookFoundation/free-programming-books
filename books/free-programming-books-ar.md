@@ -124,7 +124,7 @@
 
 ### Raspberry Pi
 
-* [احترف الرازبيري باي](https://www.ev-center.com/uploads/2/1/2/6/21261678/كتاب_احترف_الرازبيري_باي.pdf)  (PDF)
+* [احترف الرازبيري باي](https://www.ev-center.com/uploads/2/1/2/6/21261678/كتاب_احترف_الرازبيري_باي.pdf) (PDF)
 * [راسبيري باي السهل](http://librebooks.org/simply-raspberry-pi/)
 
 

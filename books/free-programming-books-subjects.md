@@ -561,7 +561,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 * [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
 * [Open Government; Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government) - Daniel Lathrop, Laurel Ruma
-* [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien  *(Leanpub account or valid email requested)*
+* [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien *(Leanpub account or valid email requested)*
 * [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/)
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) (PDF)
@@ -569,7 +569,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Programming Fundamentals](https://press.rebus.community/programmingfundamentals/) - Kenneth Leroy Busbee, Dave Braunschweig
 * [Programming with Unicode](http://unicodebook.readthedocs.org)
 * [Real-World Maintainable Software](https://www.oreilly.com/ideas/real-world-maintainable-software) - Abraham Marin-Perez
-* [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap  *(Leanpub account or valid email requested)*
+* [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap *(Leanpub account or valid email requested)*
 * [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
 * [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
 * [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
@@ -701,7 +701,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [RexEgg](http://www.rexegg.com)
 * [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/) - Sundeep Agarwal
 * [The 30 Minute Regex Tutorial](http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
-* [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen  *(Leanpub account or valid email requested)*
+* [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen *(Leanpub account or valid email requested)*
 
 
 ### Reverse Engineering
@@ -754,14 +754,14 @@ Kerridge (PDF) (email address *requested*, not required)
 * [How to Design Programs](http://www.htdp.org)
 * [How to Write Unmaintainable Code](http://mindprod.com/jgloss/unmain.html)
 * [Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook)
-* [Kanban for skeptics](https://leanpub.com/kanbanforskeptics) - Nick Oostvogels  *(Leanpub account or valid email requested)*
+* [Kanban for skeptics](https://leanpub.com/kanbanforskeptics) - Nick Oostvogels *(Leanpub account or valid email requested)*
 * [Microservices AntiPatterns and Pitfalls](http://web.archive.org/web/20210205164251/https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) - Mark Richards (PDF) *(:card_file_box: archived)*
 * [Microservices vs. Service-Oriented Architecture](https://www.oreilly.com/radar/microservices-vs-service-oriented-architecture/) - Mark Richards (HTML)
 * [Migrating to Cloud-Native Application Architectures](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data/) (email address *requested*) (PDF)
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)
 * [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html) (email address *requested*)
 * [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse and O. Nierstrasz
-* [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett  *(Leanpub account or valid email requested)*
+* [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett *(Leanpub account or valid email requested)*
 * [Reactive Microservices Architecture](https://www.lightbend.com/ebooks/reactive-microservices-architecture-design-principles-for-distributed-systems-oreilly) (email address *requested*)
 * [Reactive Microsystems: The Evolution of Microservices at Scale](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly) (email address *requested*)
 * [Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)

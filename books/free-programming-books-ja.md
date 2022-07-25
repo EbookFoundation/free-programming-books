@@ -137,7 +137,7 @@
 * [はやわかり RSA](https://www.mew.org/~kazu/doc/rsa.html) - 山本和彦
 * [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [安全なウェブサイトの作り方](https://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [暗号化アルゴリズム ([1])](https://fussy.web.fc2.com/algo/algo9-1.htm) - Fussy ([2](https://fussy.web.fc2.com/algo/algo9-2.htm)),  ([3](https://fussy.web.fc2.com/algo/algo9-3.htm)), ([4](https://fussy.web.fc2.com/algo/cipher4_elgamal.htm))
+* [暗号化アルゴリズム ([1])](https://fussy.web.fc2.com/algo/algo9-1.htm) - Fussy ([2](https://fussy.web.fc2.com/algo/algo9-2.htm)), ([3](https://fussy.web.fc2.com/algo/algo9-3.htm)), ([4](https://fussy.web.fc2.com/algo/cipher4_elgamal.htm))
 
 
 #### その他の話題
@@ -214,7 +214,7 @@
 #### 並列プログラミング
 
 * [インテル コンパイラー OpenMP 入門](https://jp.xlsoft.com/documents/intel/compiler/525J-001.pdf) - 戸室隆彦 (PDF)
-* [これからの並列計算のためのGPGPU連載講座 [I]](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No1/201001gpgpu.pdf) - 大島聡史 ([II](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No2/201003gpgpu.pdf)),  ([III](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No3/201005_gpgpu2.pdf)),  ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No4/201007_gpgpu.pdf)),  ([V](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No5/201009_gpgpu.pdf)),  ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No6/201011_gpgpu.pdf)) (PDF)
+* [これからの並列計算のためのGPGPU連載講座 [I]](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No1/201001gpgpu.pdf) - 大島聡史 ([II](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No2/201003gpgpu.pdf)), ([III](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No3/201005_gpgpu2.pdf)), ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No4/201007_gpgpu.pdf)), ([V](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No5/201009_gpgpu.pdf)), ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No6/201011_gpgpu.pdf)) (PDF)
 * [連載講座: 高生産並列言語を使いこなす [1]](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No1/Rensai201101.pdf) - 田浦健次朗 ([2](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No3/Rensai201105.pdf)), ([3](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No4/Rensai201107.pdf)), ([4](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No5/Rennsai201109.pdf)), ([5](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No6/Rennsai201111.pdf)) (PDF)
 
 

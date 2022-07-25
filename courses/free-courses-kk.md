@@ -31,7 +31,7 @@ ADVANCED - дамытушы. Детальді кодты үйрену.
 
 ### PHP
 
-* [PHP. Веб-дизайнның динамикалық базасының құрылуы.](https://bilgen.academy/course/view.php?id=508)  (BEGINNER)
+* [PHP. Веб-дизайнның динамикалық базасының құрылуы.](https://bilgen.academy/course/view.php?id=508) (BEGINNER)
 
 
 ### Python

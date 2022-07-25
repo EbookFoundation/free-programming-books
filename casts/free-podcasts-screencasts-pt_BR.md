@@ -118,4 +118,4 @@
 
 ### Vue.js
 
-* [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli  (screencast)
+* [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli (screencast)

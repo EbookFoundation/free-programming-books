@@ -578,7 +578,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### CoffeeScript
 
 * [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io)
-* [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite  *(Leanpub account or valid email requested)*
+* [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite *(Leanpub account or valid email requested)*
 * [Hard Rock CoffeeScript](https://alchaplinsky.github.io/hard-rock-coffeescript/) - Alex Chaplinsky (gitbook)
 * [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/) - Alex MacCaw, David Griffiths, Satoshi Murakami, Jeremy Ashkenas
@@ -716,7 +716,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### ESP8266
 
-* [Kolban's book on the ESP32 & ESP8266](https://leanpub.com/ESP8266_ESP32)  *(Leanpub account or valid email requested)*
+* [Kolban's book on the ESP32 & ESP8266](https://leanpub.com/ESP8266_ESP32) *(Leanpub account or valid email requested)*
 
 
 ### F Sharp
@@ -949,7 +949,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Idris
 
-* [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti) - Boro Sitnikovski  *(Leanpub account or valid email requested)*
+* [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti) - Boro Sitnikovski *(Leanpub account or valid email requested)*
 
 
 ### Icon
@@ -1047,7 +1047,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Java Reporting
 
-* [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc) - Bruno Lowagie  *(Leanpub account or valid email requested)*
+* [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc) - Bruno Lowagie *(Leanpub account or valid email requested)*
 * [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
 
 
@@ -1118,7 +1118,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani (HTML)
 * [Let's Learn ES6](https://bubblin.io/cover/let-s-learn-es6-by-ryan-christiani#frontmatter) - Ryan Christiani (Superbook format)
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com) - Noel Rappin (dead link)
-* [Marionette Exposé: Learn to write modular Javascript applications using Backbone Marionette and RequireJS/AMD](https://leanpub.com/marionetteexpose) - Jack Killilea  (HTML, PDF, EPUB, MOBI; Leanpub account or valid email requested)
+* [Marionette Exposé: Learn to write modular Javascript applications using Backbone Marionette and RequireJS/AMD](https://leanpub.com/marionetteexpose) - Jack Killilea (HTML, PDF, EPUB, MOBI; Leanpub account or valid email requested)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - Mozilla Developer Network contributors (HTML)
 * [Neural Networks with JavaScript Succinctly](https://www.syncfusion.com/ebooks/neural-networks-with-javascript-succinctly) - James McCaffrey (PDF, EPUB, MOBI)
 * [Oh My JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov (HTML)
@@ -1160,13 +1160,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Aurelia
 
-* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) - behzad  *(Leanpub account or valid email requested)*
+* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) - behzad *(Leanpub account or valid email requested)*
 
 
 #### Backbone.js
 
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
-* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis   *(Leanpub account or valid email requested)*
+* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis *(Leanpub account or valid email requested)*
 * [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
 * [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (:construction: *in process*)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
@@ -1199,7 +1199,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Elm
 
 * [An Introduction to Elm](https://guide.elm-lang.org) (HTML)
-* [Beginning Elm](https://elmprogramming.com) - Pawan Poudel  (HTML)
+* [Beginning Elm](https://elmprogramming.com) - Pawan Poudel (HTML)
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [Elm Programming Language](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)
@@ -1256,7 +1256,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Node.js
 
-* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
+* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
 * [From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook) - Kathleen Juell (PDF, EPUB)
 * [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
 * [How To Code in Node.js - eBook](https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook) - David Landup, Marcus Sanatan @ Stack Abuse, Digital Ocean (PDF, EPUB)
@@ -1306,7 +1306,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### React Native
 
-* [Programming React Native](https://leanpub.com/programming-react-native)   *(Leanpub account or valid email requested)*
+* [Programming React Native](https://leanpub.com/programming-react-native) *(Leanpub account or valid email requested)*
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF)
@@ -1318,7 +1318,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
-* [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman  *(Leanpub account or valid email requested)*
+* [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman *(Leanpub account or valid email requested)*
 
 
 #### Svelte
@@ -1720,12 +1720,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Laravel
 
 * [100 (and counting) Laravel Quick Tips](https://laraveldaily.com/wp-content/uploads/2020/04/laravel-tips-2020-04.pdf) - Povilas Korop / LaravelDaily Team (PDF)
-* [Laravel 5.x Official Documentation. Synced Daily](https://leanpub.com/laravel-5)  *(Leanpub account or valid email requested)*
+* [Laravel 5.x Official Documentation. Synced Daily](https://leanpub.com/laravel-5) *(Leanpub account or valid email requested)*
 * [Laravel Best Practices](http://www.laravelbestpractices.com)
 * [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
 * [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
 * [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
-* [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) - Jeffrey Madsen  *(Leanpub account or valid email requested)*
+* [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) - Jeffrey Madsen *(Leanpub account or valid email requested)*
 
 
 #### Symfony
@@ -2017,7 +2017,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [R Packages](http://r-pkgs.had.co.nz) - Hadley Wickham
 * [R Practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R Programming](https://en.wikibooks.org/wiki/R_Programming) - Wikibooks
-* [R Programming for Data Science](https://leanpub.com/rprogramming) - Roger D. Peng  *(Leanpub account or valid email requested)*
+* [R Programming for Data Science](https://leanpub.com/rprogramming) - Roger D. Peng *(Leanpub account or valid email requested)*
 * [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html) - Salvatore S. Mangiafico
 * [The caret Package](http://topepo.github.io/caret/index.html) - Max Kuhn
@@ -2438,7 +2438,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) - Steve Losh
-* [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) - Tim Ottinger  *(Leanpub account or valid email requested)*
+* [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) - Tim Ottinger *(Leanpub account or valid email requested)*
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
 * [VIM-GALORE - All things Vim!](https://github.com/mhinz/vim-galore#readme) (HTML)
 * [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) (PDF)

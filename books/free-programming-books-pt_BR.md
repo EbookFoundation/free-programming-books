@@ -1,4 +1,4 @@
-### Índice
+### Index
 
 * [Agnósticos](#agnósticos)
   * [IDE / Editores](#ide--editores)

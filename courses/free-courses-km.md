@@ -1,4 +1,4 @@
-### មាតិកា
+### Index
 
 * [Computer Science](#computer-science)
 * [Flutter](#flutter)

@@ -1,4 +1,4 @@
-### Índice
+### Index
 
 * [Python](#python)
 

@@ -1,4 +1,4 @@
-### Índice
+### Index
 
 * [Arduino](#arduino)
 * [Raspberry Pi](#raspberry-pi)
@@ -12,4 +12,3 @@
 ### Raspberry Pi
 
 * [Curso Raspberry Pi](https://www.electrofun.pt/blog/curso-raspberry-pi-1-introducao-indice/)
-

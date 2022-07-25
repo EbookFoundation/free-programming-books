@@ -1,4 +1,4 @@
-### Índice
+### Index
 
 * [Android](#android)
 * [Arduino](#arduino)

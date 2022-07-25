@@ -1,4 +1,4 @@
-### Cодержание
+### Index
 
 * [Дизайн и Aрхитектура](#design-architecture)
 * [C++](#cpp)

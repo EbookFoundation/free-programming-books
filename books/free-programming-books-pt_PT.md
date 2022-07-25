@@ -1,4 +1,4 @@
-### Indice
+### Index
 
 * [C/C++](#cc)
 * [CSS](#css)

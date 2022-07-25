@@ -37,5 +37,3 @@ ADVANCED - дамытушы. Детальді кодты үйрену.
 ### Python
 
 * [Python тiлiнде бағдарламалау негiздерi.](https://openu.kz/kz/courses/python-tilinde-badarlamalau-negizderi) - Жасдәурен Дүйсебеков (Қазақстанның ашық университеті) *(тіркелуді талап етпейді)*
-
-

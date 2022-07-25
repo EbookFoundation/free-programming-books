@@ -44,5 +44,3 @@
 ### SQL
 
 * [SQL упражнения](https://www.sql-ex.ru/?Lang=0)
-
-

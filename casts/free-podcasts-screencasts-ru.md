@@ -137,5 +137,3 @@
 ### Webpack
 
 * [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)
-
-

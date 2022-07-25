@@ -23,7 +23,7 @@
 
 ### Algorithmes
 
-* [Cours d'Algorithmie](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) - Formation Video
+* [Algorithmie - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ) - Formation Video
 
 
 ### APL

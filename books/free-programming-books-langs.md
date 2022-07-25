@@ -150,6 +150,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [OpenMP](#openmp)
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
+* [Pascal](#pascal)
 * [Perl](#perl)
 * [PHP](#php)
   * [CakePHP](#cakephp)
@@ -1652,6 +1653,18 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [TrueOS® Users Handbook](https://www.trueos.org/handbook/trueos.html)
 
+
+### Pascal
+
+* [Free Pascal Reference guide](https://www.freepascal.org/docs-html/ref/ref.html)
+* [Pascal Quick Reference](https://ksvi.mff.cuni.cz/~dingle/2017/pascal_reference.html)
+* [Pascal Language Reference](https://docs.oracle.com/cd/E19957-01/802-5762/802-5762.pdf)
+* [VSI Pascal for OpenVMS Reference Manual](https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf)
+* [Modern Object Pascal Introduction for Programmers](https://castle-engine.io/modern_pascal_introduction.html)
+* [Pascal Programming Reference Manual](https://public.support.unisys.com/aseries/docs/clearpath-mcp-17.0/pdf/86000080-103.pdf)
+* [Turbo Pascal Reference Guide](http://bitsavers.org/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Reference_Guide_1989.pdf)
+* [Vector Pascal Reference Manual](https://www.researchgate.net/publication/220177664_Vector_Pascal_reference_manual)
+* [Vector Pascal, an Array Language](http://www.dcs.gla.ac.uk/~wpc/reports/compilers/compilerindex/vp-ver2.html)
 
 ### Perl
 

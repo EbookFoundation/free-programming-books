@@ -37,7 +37,7 @@
 * [Shell](#shell)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [Vue.js](#vuejs)
 * [WordPress](#wordpress)
 

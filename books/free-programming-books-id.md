@@ -21,8 +21,8 @@
 * [React](#react)
 * [Solidity](#solidity)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
-  * [Deno](#deno)
+    * [Angular](#angular)
+    * [Deno](#deno)
 * [Vue](#vue)
 
 

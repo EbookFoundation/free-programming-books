@@ -8,7 +8,7 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [Java](#java)
-  * [Spring](#spring)
+    * [Spring](#spring)
 * [JavaScript](#javascript)
 * [.NET](#net)
 * [Node.js](#nodejs)

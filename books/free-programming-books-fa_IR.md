@@ -8,7 +8,7 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Python](#python)
 * [R](#r)
 

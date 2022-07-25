@@ -2,7 +2,7 @@
 
 * [HTML / CSS](#html--css)
 * [JavaScript](#javascript)
-  * [React](#react)
+    * [React](#react)
 * [Python](#python)
 
 

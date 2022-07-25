@@ -10,12 +10,12 @@
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
-  * [Vue.js](#vuejs)
+    * [Vue.js](#vuejs)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Programming in Scratch](#programming-in-scratch)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
@@ -23,7 +23,7 @@
 * [Security](#security)
 * [SEO](#seo)
 * [SQL](#sql)
-  * [PostgreSQL](#postgresql)
+    * [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
 
 

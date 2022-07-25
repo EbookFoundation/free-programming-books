@@ -10,16 +10,16 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Next.js](#nextjs)
-  * [React](#react)
+    * [Next.js](#nextjs)
+    * [React](#react)
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
+    * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
-  * [Ruby on Rails](#ruby-on-rails)
+    * [Ruby on Rails](#ruby-on-rails)
 
 
 ### Algorithms

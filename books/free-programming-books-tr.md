@@ -20,7 +20,7 @@
 * [.NET Framework](#net-framework)
 * [PHP](#php)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)

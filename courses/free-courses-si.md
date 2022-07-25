@@ -4,7 +4,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [React](#react)
+    * [React](#react)
 
 
 ### ASP.NET Core
@@ -30,4 +30,3 @@
 #### React
 
 * [Fundamentals \| React JS in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2DpDyWwmAjEuicvVxx4vIYB) - Fiqri Ismail (YouTube)
-

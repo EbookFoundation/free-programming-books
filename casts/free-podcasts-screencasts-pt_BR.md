@@ -12,7 +12,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [Vue.js](#vuejs)
 
 

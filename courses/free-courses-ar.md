@@ -190,7 +190,7 @@
 ### JavaScript
 
 * [سلسلة دروس جافا سكريبت](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0) - أكاديمية ترميز (:construction: *in process*)
-* [كورس جافا سكريبت كامل | Javascript Tutorial&rlm;](https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE) - Abdelrahman Gamal
+* [كورس جافا سكريبت كامل \| Javascript Tutorial&rlm;](https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE) - Abdelrahman Gamal
 * [كورس Ajax بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY7wv9ZZkhH7lZELpz_fP81N) - Mobarmg
 * [كورس ES6 بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY5nQxWH0HaNibR9UXKICWxz) - Mobarmg
 * [Arabic JavaScript&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm) - KMR Script

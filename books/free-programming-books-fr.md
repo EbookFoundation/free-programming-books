@@ -95,7 +95,7 @@
 
 ### Assembleur
 
-* [PC Assembly Language](https://pacman128.github.io/pcasm/) - Paul A. Carter (HTML) [(PDF)](https://pacman128.github.io/static/pcasm-book-french.pdf)
+* [PC Assembly Language](https://pacman128.github.io/pcasm/) - Paul A. Carter (HTML)
 * [Reverse Engineering for Beginners](https://beginners.re/RE4B-FR.pdf) - Dennis Yurichev, Florent Besnard, Marc Remy, Baudouin Landais, Téo Dacquet (PDF)
 
 

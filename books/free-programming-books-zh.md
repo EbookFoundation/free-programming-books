@@ -512,39 +512,39 @@
 
 #### Backbone.js
 
-  * [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
-  * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
-  * [Backbone.js中文文档](http://www.css88.com/doc/backbone/)
+* [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
+* [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
+* [Backbone.js中文文档](http://www.css88.com/doc/backbone/)
 
 
 #### D3.js
 
-  * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
-  * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
-  * [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
-  * [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
+* [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
+* [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
+* [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
+* [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
 
 
 #### Electron.js
 
-  * [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
-  * [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
+* [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
+* [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
 
 
 #### ExtJS
 
-  * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
+* [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 
 
 #### impress.js
 
-  * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
+* [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 
 
 #### jQuery
 
-  * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
-  * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
+* [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
+* [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
 
 
 #### Node.js
@@ -567,23 +567,23 @@
 
 #### React.js
 
-  * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
-  * [React-Bits 中文文档](https://github.com/hateonion/react-bits-CN)
-  * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
-  * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
-  * [React.js 入门教程](http://fraserxu.me/intro-to-react/)
-  * [React.js 中文文档](https://discountry.github.io/react/)
+* [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
+* [React-Bits 中文文档](https://github.com/hateonion/react-bits-CN)
+* [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
+* [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
+* [React.js 入门教程](http://fraserxu.me/intro-to-react/)
+* [React.js 中文文档](https://discountry.github.io/react/)
 
 
 #### Vue.js
 
-  * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
-  * [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
+* [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
+* [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
 
 
 #### Zepto.js
 
-  * [Zepto.js 中文文档](http://css88.com/doc/zeptojs_api)
+* [Zepto.js 中文文档](http://css88.com/doc/zeptojs_api)
 
 
 ### LaTeX

@@ -40,6 +40,7 @@
 
 ### Algorithms & Data Structures
 
+* [Algorithms - Full Coures In Arabic&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY6KH-8c9F-lMWn-r02hyoV_) - Hard-Code
 * [C++ Data Structures - تراكيب البيانات](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) - محمد الدسوقي
 * [CS Master - Level 1- Algorithms & Data Structures الخوارزميات وهياكل البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC) - KMR Script
 * [CS Master - Level 2- Dive into the Computer كيف يعمل الكمبيوتر](https://www.youtube.com/playlist?list=PLL2zWZTDFZziX_xS2bbGfLAOHVmlzURhF) - KMR Script
@@ -47,6 +48,7 @@
 * [CS50 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd) - Coders Camp
 * [Cs50 In Arabic 2022 \| كورس cs50 بالعربي كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w) - Abdelrahman Gamal&rlm; (:construction: *in process*)
 * [Data Structure&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS) - Hard Code
+* [Data Structure : JavaScript (leetcode problem solving)&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) - Shadow Coding
 * [Data Structure C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8) - Mega Code
 * [Data Structures Full Course In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) - Adel Nasim
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi
@@ -61,7 +63,7 @@
 
 ### Bootstrap
 
-* [كورس بوتستراب كامل للمبتدئين | bootstrap 2021 tutorial for beginners&rlm;](https://www.youtube.com/playlist?list=PLknwEmKsW8OscL9GvjxwL7RYbcwwdIitk) - Abdelrahman Gamal
+* [كورس بوتستراب كامل للمبتدئين \| bootstrap 2021 tutorial for beginners&rlm;](https://www.youtube.com/playlist?list=PLknwEmKsW8OscL9GvjxwL7RYbcwwdIitk) - Abdelrahman Gamal
 * [Bootstrap 3 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw24EjNUp_88S1VeaNK8Cts) - Elzero Web School
 * [Bootstrap 4&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy0dU3C3_lNRTSTtqePEsI2) - Elzero Web School
 * [Bootstrap 5 Design 01 Bondi&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) - Elzero Web School
@@ -86,6 +88,7 @@
 * [Arabic C++ For kids & beginners (برمجة لصغار السن والمبتدئيين)](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3) - Arabic Competitive Programming
 * [C++ Intensive - برمجة الحاسوب](https://www.youtube.com/playlist?list=PLPt2dINI2MIZPFq6HyUB1Uhxdh1UDnZMS) - Arabic Competitive Programming
 * [C++ Object-Oriented Design and Programming&rlm;](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) - Arabic Competitive Programming
+* [C++ Programming \| Arabic Course&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY74yb5ZrRg1Cmil46KxLUDC) - Hard-Code
 * [C++ Programming Basics&rlm;](https://www.youtube.com/playlist?list=PLv3VqjyehAoSSzkyHmWk89hPgcVwTNouG) - Ali Shahin
 * [C++ Programming Course Level 1 Basics By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQ_nQt-hKGAEIDJjTJBCV02) - محمد شوشان
 * [C++ Programming Course Level 2 Object Oriented Programming By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRUapI9yl1qwkdpS__UtqLd) - محمد شوشان
@@ -170,6 +173,7 @@
 * [Learn SASS In Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) - Elzero Web School
 * [Sass&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6bF7qObm2a1mLN_WHAWQo) - Elzero Web School
 * [Sass - Create a website&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) - Elzero Web School
+* [Yonisfy CS94's | Web Programming with JavaScript&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiXqkUqcoKrVjCyOrZh7Tw0e) - Mohammed Elzanaty
 
 
 ### Java
@@ -189,13 +193,17 @@
 
 ### JavaScript
 
-* [سلسلة دروس جافا سكريبت](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0) - أكاديمية ترميز (:construction: *in process*)
-* [كورس جافا سكريبت كامل | Javascript Tutorial&rlm;](https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE) - Abdelrahman Gamal
+* [سلسلة دروس جافا سكريبت](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0) - أكاديمية ترميز
+* [كورس جافا سكريبت كامل \| Javascript Tutorial&rlm;](https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE) - Abdelrahman Gamal
 * [كورس Ajax بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY7wv9ZZkhH7lZELpz_fP81N) - Mobarmg
 * [كورس ES6 بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY5nQxWH0HaNibR9UXKICWxz) - Mobarmg
 * [Arabic JavaScript&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm) - KMR Script
 * [Arabic JavaScript ES6 الاصدار السادس من الجافاسكربت](https://www.youtube.com/playlist?list=PLL2zWZTDFZzilx_LJ_mCRDETtDOyBg0UT) - KMR Script
+* [Complete Intro to Javascript&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiU-kIpNuw5Z7HRbV4pBaHlL) - Mohammed Elzanaty
+* [Design Patterns \| javascript \| \[Arabic\]&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmduTfp_bReagQKg7I-GVr-5) - Shadow Coding
+* [ECMAScript 6 Tutorial In Arabic&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiVnYxkrT7qbFSictc9nJeiX) - Mohammed Elzanaty
 * [Friday js&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa_PU_wiKETaFk6nAVrNBg7l) - codeZone
+* [HTML \| CSS \| JavaScript \| Project&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmflgWiToSs6jNwYaFK7FnWM) - Shadow Coding
 * [Javascript&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh) - Elzero Web School
 * [JavaScript AJAX&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAytfRIdMIkLeoQHP0o5uWBa) - Elzero Web School
 * [JavaScript Application&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT) - Elzero Web School
@@ -213,7 +221,7 @@
 
 #### Gulp.js
 
-* [Automatic Your Work With Gulpjs](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxyli7mXgNBhkRB-zgSHvL8) - Elzero Web School
+* [Automatic Your Work With Gulpjs&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxyli7mXgNBhkRB-zgSHvL8) - Elzero Web School
 * [Basic of Gulp.js&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOaj10GLKu2YAcDQAMRvUgp0) - Algorithm Academy
 * [Gulp.js - Workshop&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYXLQlBhKkc2bYIczytBc73) - Algorithm Academy
 
@@ -231,6 +239,7 @@
 * [كورس MongoDB بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY6ZTH5cneI_S0Bzzj-4j082) - Mobarmg
 * [كورس NodeJS بالعربي -ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY5S0IMTxqCb41fF8RDBQZ_w) - Mobarmg
 * [Arabic Dive into Node JS Development الغوص في النود جي اس](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp) - KMR Script
+* [JWT Authentication using Node, Express, Typescript, Jasmine & Postgres&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiVLQ4rAylfIkqp3rkN0TuPD) - Mohammed Elzanaty
 * [Learn Basic of NodeJS&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7) - Emam Academy
 * [Learn NodeJS from zero to hero&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOa3EiUpjO04DVxEE9Ox12ta) - Algorithm Academy
 * [NodeJS - Build a Full E-Commerce RESTful APIs (بالعربي)](https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i) - Programming Solutions - Academy
@@ -251,6 +260,7 @@
 #### React.js
 
 * [Learn React JS Tutorial \|\| React دورة كاملة لتعلم الـ](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEjXWZmwkOV-vfXmrEEsuEW) - Unique Coderz Academy
+* [React JS A JavaScript library دورة](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9YuSgcD3TvNowTbMrI_hh8) - Muhammed Essa
 * [React.js&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNObRCqeYOws_JK_CCGCmQv_l) - Algorithm Academy
 * [React.js Hooks&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ5-WwSSWYLp0kC8xxE46YG) - Algorithm Academy
 * [React.js Todo App&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYKXNTPUiZw8X7dDIgsSZln) - Algorithm Academy
@@ -259,6 +269,7 @@
 * [ReactJS Part 1 - Learn React Hooks by Project [تعلم الرياكت هوكس] [الجزء الاول]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFSaQIFNstRIrbm_fqb12Q59) - kimz codes
 * [ReactJS Part 2 - UseEffect & UseRef - working with API and Prev State [Arabic] [بالعربي][الجزء الثاني]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFQa9YDF5pzB4JFbJovh3TN9) - kimz codes
 * [ReactJS Part 3 - Performance Optimization (react memo, use memo, use call back) [تعلم الرياكت] [الجزء الثالث]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFTYdkjzqYBujf7UCVQyn_aq) - kimz codes
+* [ReactJS with zanaty&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiUmNPrv9szscXzENArzQHAe) - Mohammed Elzanaty
 * [Redux ToolKit 2021/2022 part 4 [شرح Redux toolkit] [تعلم Redux] [شرح Redux]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFREfrBoSl8tjAPZOY6HNqZv) - kimz codes
 * [Redux ToolKit Project, Book Store project [تعلم Redux toolkit]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFQFvS469VXyCPO_py_kvVD5) - kimz codes
 
@@ -292,6 +303,7 @@
 
 * [تصميم و برمجة موقع eCommerce by PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU) - Elzero Web School
 * [Arabic PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) - Elzero Web School
+* [Design Patterns in PHP Arabic شرح بالعربي](https://www.youtube.com/playlist?app=desktop&list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS) - Ramy Hakam
 * [Learn Object Oriented PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ) - Elzero Web School
 * [PHP Bootcamp 2022&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) - Elzero Web School
 
@@ -336,6 +348,7 @@
 * [Clean Code Book - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX) - Omar Ahmed
 * [Creational Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ) - Mohammed Reda
 * [Declarative Programming](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f) - درة الاكواد لابن حماد
+* [Software Design Patterns](https://www.youtube.com/playlist?app=desktop&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC) - محمد يحيى
 * [SOLID Principles بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda
 * [SOLID Principles بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV) - Omar Ahmed
 * [Structural Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm) - Mohammed Reda

@@ -589,7 +589,6 @@
 
 #### Electron
 
-* [Electron Js - Build real desktop apps](https://youtube.com/playlist?list=PLtWy6rdN1yBntIyLeNo-fCVR6AaK7vdyl) - Vishwas Gopinath, How To Code (YouTube)
 * [Electron js Tutorials](https://youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution (YouTube)
 
 

@@ -5,7 +5,6 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Common Lisp](#common-lisp)
-* [CSS](#css)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
@@ -13,6 +12,7 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
+* [HTML and CSS](#html-and-css)
 * [IDE and Editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -64,13 +64,6 @@
 
 * [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
 * [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
-
-
-### CSS
-
-* [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - Brad Traversy (screencast)
-* [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) - Chris Coyier (screencast)
-* [The CSS Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
 
 
 ### Data Science
@@ -140,6 +133,13 @@
 * [Haskell Tutorial](https://www.youtube.com/watch?v=02_H3LjqMr8) - Derek Banas (screencast)
 * [HaskellRank](https://www.youtube.com/playlist?list=PLguYJK7ydFE4aS8fq4D6DqjF6qsysxTnx) - Tsoding, Alexey Kutepov (screencast)
 * [The Haskell Cast](https://www.haskellcast.com) - Chris Forno, Alp Mestanogullari, Rein Henrichs (podcast)
+
+
+### HTML and CSS
+
+* [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - Brad Traversy (screencast)
+* [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) - Chris Coyier (screencast)
+* [The CSS Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
 
 
 ### IDE and Editors

@@ -14,10 +14,10 @@
 * [Caml / OCaml](#caml--ocaml)
 * [Chaîne de blocs / Blockchain](#chaîne-de-blocs--blockchain)
 * [Coq](#coq)
-* [CSS](#css)
 * [Fortran](#fortran)
 * [Git](#git)
 * [Haskell](#haskell)
+* [HTML and CSS](#css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [jQuery](#jquery)
@@ -131,11 +131,6 @@
 * [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot et Pierre Castéran
 
 
-### CSS
-
-* [Apprendre les mises en page CSS](http://fr.learnlayout.com)
-
-
 ### Fortran
 
 * [IDRIS adaptation of the Fortran 77 manual](http://www.idris.fr/formations/fortran/fortran-77.html) - IDRIS, Hervé Delouis, Patrick Corde (HTML)
@@ -173,6 +168,11 @@
 
 * [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson et Joseph Fasel
 * [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr)
+
+
+### HTML and CSS
+
+* [Apprendre les mises en page CSS](http://fr.learnlayout.com)
 
 
 ### (La)TeX et associés

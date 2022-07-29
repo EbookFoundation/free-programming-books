@@ -9,7 +9,7 @@
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
-* [HTML & CSS](#html-css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Node.js](#nodejs)
@@ -82,7 +82,7 @@
 * [Mari Belajar Golang](https://www.smashwords.com/books/view/938003) - Risal (PDF)
 
 
-### HTML CSS
+### HTML and CSS
 
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)

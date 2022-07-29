@@ -19,7 +19,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
   * [Bootstrap](#bootstrap)
 * [Java](#java)
   * [Android](#android)
@@ -217,7 +217,7 @@
 * [Haskell: введение в функциональное программирование](https://wiki.nsunc.com/_export/html/haskell) - В.Н. Власов
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Руководство по HTML5 и CSS3](https://metanit.com/web/html5) - Евгений Попов
 * [Справочник по HTML](http://htmlbook.ru/html) - Влад Мержевич

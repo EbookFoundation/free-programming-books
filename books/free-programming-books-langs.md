@@ -74,7 +74,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Hadoop](#hadoop)
 * [Haskell](#haskell)
 * [Haxe](#haxe)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
   * [Bootstrap](#bootstrap)
   * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
 * [HTTP](#http)
@@ -892,7 +892,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Kha Handbook](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
 * [A free guide to learn HTML and CSS](http://marksheet.io)

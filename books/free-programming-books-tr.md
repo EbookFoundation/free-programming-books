@@ -118,7 +118,7 @@
 
 ### Matlab
 
-* [Matlab Programlamaya Giris](https://www.ismailari.com/blog/matlab-programlamaya-giris) - İsmail Arı
+* [Matlab Programlamaya Giris](https://web.archive.org/web/20210727221605/https://ismailari.com/blog/matlab-programlamaya-giris/) - İsmail Arı *(:card_file_box: archived)*
 
 
 ### .NET Framework
@@ -139,8 +139,8 @@
 
 ### Django
 
-* [Django](https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri
-* [Django Egitimi](https://gokmengorgen.net/django-notes)
+* [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *(:card_file_box: archived)*
+* [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *(:card_file_box: archived)*
 * [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
 
 

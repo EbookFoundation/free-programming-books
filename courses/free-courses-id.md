@@ -14,7 +14,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Gradle](#gradle)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
   * [Spring](#spring)
 * [JavaScript](#javascript)
@@ -151,7 +151,7 @@
 * [Belajar Gradle](https://www.youtube.com/playlist?list=PL-CtdCApEFH8yGJzfU_gners0ybO4MlrV) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Belajar CSS](https://alwaysngoding.com/belajar-css/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
 * [Belajar FLEXBOX](https://www.youtube.com/playlist?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k) - Web Programming UNPAS

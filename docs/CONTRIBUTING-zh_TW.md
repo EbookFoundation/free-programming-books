@@ -18,11 +18,12 @@
 2. 你不需要會 Git：如果你發現了一些有趣的東西 *尚未出現在此 repo* 中，請開一個 [Issue](https://github.com/EbookFoundation/free-programming-books/issues) 進行主題討論。
     * 如果你已經知道 Git，請 Fork 此 repo 並提交 Pull Request (PR)。
 
-3. 這裡有五種列表，請選擇正確的一項：
+3. 這裡有六種列表，請選擇正確的一項：
 
     * *Books* ：PDF、HTML、ePub、基於 gitbook.io 的網站、Git 的 repo 等。
     * *Courses* ：課程是一種學習素材，而不是一本書 [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
     * *Interactive Tutorials* ：一個互動式網站，允許用戶輸入程式碼或指令並執行結果。例如：[Try Haskell](http://tryhaskell.org)，[Try GitHub](http://try.github.io)。
+    * *Playgrounds* : Playgrounds 是學習程式設計的線上互動式網站、遊戲或桌面軟體。你可以在上面編寫、編譯、運行或分享程式碼片段。 Playgrounds 通常允許你 fork 程式碼然後在其中盡情的編寫程式碼。
     * *Podcasts and Screencasts* ：Podcast 和影音。
     * *Problem Sets & Competitive Programming* ：一個網站或軟體，讓你透過解決簡單或複雜的問題來評估你的程式技能，可能有程式碼檢查，或與其他用戶比對结果。
 

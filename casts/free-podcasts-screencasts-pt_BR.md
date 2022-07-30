@@ -5,7 +5,7 @@
 * [DataScience](#datascience)
 * [Game development](#game-development)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
@@ -54,7 +54,7 @@
 * [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) (screencast)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Curso em Vídeo - HTML5, CSS3 e JavaScript](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) - Gustavo Guanabara (screencast)
 

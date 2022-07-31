@@ -2301,7 +2301,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [SQL Server 2017 Administrator's Guide](https://www.packtpub.com/free-ebooks/sql-server-2017-administrators-guide) - Marek Chmel, Vladimír Mužný (Packt account *required*)
 * [SQL Server Backup and Restore](http://www.red-gate.com/community/books/sql-server-backup-and-restore) - Shawn McGehee (PDF) (email address *requested*)
 * [SQL Server Execution Plans, Third Edition](https://assets.red-gate.com/community/books/sql-server-execution-plans-3rd-edition.pdf) - Grant Fritchey (PDF)
-* [SQL Server Execution Plans](https://www.red-gate.com/products/dba/sql-monitor/entrypage/execution-plans) - Grant Fritchey (PDF)
 * [SQL Server for C# Developers Succinctly](https://www.syncfusion.com/ebooks/sql_server_for_c_sharp_developers_succinctly) - Sander Rossel
 * [SQL Server Hardware](http://www.red-gate.com/community/books/sql-server-hardware) - Glenn Berry (PDF)
 * [SQL Server Internals: In-Memory OLTP](http://www.red-gate.com/library/sql-server-internals-in-memory-oltp) - Kalen Delaney (PDF)

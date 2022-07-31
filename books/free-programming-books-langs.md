@@ -2314,7 +2314,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Art of XSD](https://www.red-gate.com/library/the-art-of-xsd) - Jacob Sebastian (PDF)
 * [The Best of SQLServerCentral.com Vol 7](https://www.red-gate.com/library/the-best-of-sqlservercentral-com-vol-7) (PDF)
 * [The Redgate Guide to SQL Server Team-based Development](https://www.red-gate.com/library/the-redgate-guide-to-sql-server-team-based-development) - Phil Factor, Grant Fritchey, Alex Kuznetsov, Mladen Prajdić (PDF)
-* [RedGate SQL Server Execution Plans](https://www.red-gate.com/products/dba/sql-monitor/entrypage/execution-plans)
+* [RedGate SQL Server Execution Plans](https://www.red-gate.com/products/dba/sql-monitor/entrypage/execution-plans) - Grant Fritchey (PDF)
 * [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba) - Jonathan Kehayias, Ted Krueger (PDF)
 
 

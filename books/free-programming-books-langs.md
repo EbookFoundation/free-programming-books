@@ -2302,10 +2302,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [SQL Server Backup and Restore](http://www.red-gate.com/community/books/sql-server-backup-and-restore) - Shawn McGehee (PDF) (email address *requested*)
 * [SQL Server Execution Plans, Third Edition](https://assets.red-gate.com/community/books/sql-server-execution-plans-3rd-edition.pdf) - Grant Fritchey (PDF)
 * [SQL Server for C# Developers Succinctly](https://www.syncfusion.com/ebooks/sql_server_for_c_sharp_developers_succinctly) - Sander Rossel
+* [SQL Server Execution Plans](https://www.red-gate.com/products/dba/sql-monitor/entrypage/execution-plans) - Grant Fritchey (PDF)
 * [SQL Server Hardware](http://www.red-gate.com/community/books/sql-server-hardware) - Glenn Berry (PDF)
 * [SQL Server Internals: In-Memory OLTP](http://www.red-gate.com/library/sql-server-internals-in-memory-oltp) - Kalen Delaney (PDF)
 * [SQL Server Metadata Succinctly](https://www.syncfusion.com/ebooks/sql-server-metadata-succinctly) - Joseph D. Booth
-* [SQL Server Execution Plans](https://www.red-gate.com/products/dba/sql-monitor/entrypage/execution-plans) - Grant Fritchey (PDF)
 * [SQL Server Source Control Basics](https://www.red-gate.com/products/sql-development/sql-source-control/entrypage/sql-server-source-control-basics) - Rob Sheldon, Rob Richardson, Tony Davis (PDF)
 * [SQL Server Statistics](http://www.red-gate.com/community/books/sql-server-statistics) - Holger Schmeling (PDF)
 * [SQL Server Stumpers Vol.5](http://www.red-gate.com/community/books/sql-server-stumpers-v5) (PDF)

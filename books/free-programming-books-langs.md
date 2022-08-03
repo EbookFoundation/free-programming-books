@@ -429,7 +429,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall (HTML)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
-* [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch
+* [C for Python Programmers](https://www.cs.toronto.edu/~patitsas/cs190/c_for_python.html) - Carl Burch
 * [C Internals](https://www.avabodh.com/cin/cin.html) - Rajeev Kumar (HTML)
 * [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks

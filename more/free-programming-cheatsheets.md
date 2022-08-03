@@ -11,7 +11,7 @@
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [IDE / Editors](#ide--editors)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -125,7 +125,7 @@
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)

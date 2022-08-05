@@ -6,7 +6,6 @@
   * [编辑器](#编辑器)
   * [编译原理](#编译原理)
   * [操作系统](#操作系统)
-  * [程序员杂谈](#程序员杂谈)
   * [大数据](#大数据)
   * [分布式系统](#分布式系统)
   * [管理和监控](#管理和监控)
@@ -48,7 +47,6 @@
     * [D3.js](#d3js)
     * [Electron.js](#electronjs)
     * [ExtJS](#extjs)
-    * [impress.js](#impressjs)
     * [jQuery](#jquery)
     * [Node.js](#nodejs)
     * [React.js](#reactjs)
@@ -119,7 +117,7 @@
 
 ### 编辑器
 
-* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com)
+* [笨方法学Vimscript 中译本](https://web.archive.org/web/20190222162556/http://learnvimscriptthehardway.onefloweroneworld.com/) *(:card_file_box: archived)*
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)
@@ -152,12 +150,7 @@
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
 * [Ubuntu 参考手册](http://wiki.ubuntu.org.cn/UbuntuManual)
 * [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
-* [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
-
-
-### 程序员杂谈
-
-* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
+* [UNIX TOOLBOX](https://web.archive.org/web/20210812021003/cb.vu/unixtoolbox_zh_CN.xhtml) *(:card_file_box: archived)*
 
 
 ### 大数据
@@ -175,7 +168,7 @@
 ### 管理和监控
 
 * [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
-* [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
+* [Elasticsearch 权威指南（中文版）](https://web.archive.org/web/20200415002735/https://es.xiaoleilu.com/) *(:card_file_box: archived)*
 * [ELKstack 中文指南](http://kibana.logstash.es)
 * [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
 * [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
@@ -228,7 +221,7 @@
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
 * [Joel谈软件](https://web.archive.org/web/20170616013024/http://local.joelonsoftware.com/wiki/Chinese_(Simplified))
-* [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
+* [selenium 中文文档](https://einverne.gitbook.io/selenium-doc/)
 
 
 ### 在线教育
@@ -303,7 +296,6 @@
 
 ### Android
 
-* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
 * [Android Note(开发过程中积累的知识点)](https://github.com/CharonChui/AndroidNote)
 * [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
@@ -330,9 +322,9 @@
 ### C
 
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
-* [Beej's Guide to Network Programming 簡體中文版](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-ME5zR-03ZEHgp2kv7bW%2F-MF9EIY-s19_w19_Unae%2F-MF9F-HCs1nLOkY1mLVi%2FBeej-cn-20140429.zip?alt=media&token=de27f96b-2aed-4c97-8879-649638c7559f) - Brian "Beej Jorgensen" Hall, 廖亚伦译 (PDF)
+* [Beej's Guide to Network Programming 簡體中文版](https://beej-zhtw-gitbook.netdpi.net/) - Brian "Beej Jorgensen" Hall, 廖亚伦译
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
-* [Linux C 编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
+* [Linux C 编程一站式学习](https://web.archive.org/web/20210514225440/http://docs.linuxtone.org/ebooks/C&CPP/c/) *(:card_file_box: archived)*
 
 
 ### <a id="csharp"></a>C\#
@@ -344,7 +336,7 @@
 
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
-* [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
+* [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *(:card_file_box: archived)*
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
 * [C/C++ Primer](https://github.com/andycai/cprimer) - andycai
@@ -368,7 +360,7 @@
 
 ### Dart
 
-* [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
+* [Dart 语言导览](https://web.archive.org/web/20200415002731/dart.lidian.info/wiki/Language_Tour) *(:card_file_box: archived)*
 
 
 ### Elasticsearch
@@ -379,7 +371,7 @@
 
 ### Elixir
 
-* [Elixir 编程语言教程](https://elixirschool.com/cn/) (Elixir School)
+* [Elixir 编程语言教程](https://web.archive.org/web/20200224214134/http://elixirschool.com/blog) (Elixir School) *(:card_file_box: archived)*
 * [Elixir Getting Started 中文翻译](https://github.com/Ljzn/ElixrGettingStartedChinese)
 * [Elixir元编程与DSL 中文翻译](https://github.com/Ljzn/MetaProgrammingInElixirChinese)
 * [Phoenix 框架中文文档](https://mydearxym.gitbooks.io/phoenix-doc-in-chinese/content/)
@@ -398,7 +390,6 @@
 ### Golang
 
 * [深入解析 Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh) - tiancaiamao
-* [神奇的 Go 语言](http://go.ctolib.com/docs/read/magical-go-c-index.html)
 * [学习Go语言](http://mikespook.com/learning-go/)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
@@ -416,7 +407,7 @@
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
-* [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
+* [Revel 框架手册](https://web.archive.org/web/20190610030938/https://gorevel.cn/docs/manual/index.html) *(:card_file_box: archived)*
 * [The Little Go Book 繁體中文翻譯版](https://github.com/kevingo/the-little-go-book) - Karl Seguin, KevinGo, Jie Peng ([HTML](https://kevingo.gitbooks.io/the-little-go-book/))
 
 
@@ -458,7 +449,7 @@
 
 ### Java
 
-* [阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c/blob/master/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%B5%A9%E5%B1%B1%E7%89%88%EF%BC%89.pdf) (PDF)
+* [阿里巴巴 Java 开发手册](https://raw.githubusercontent.com/alibaba/p3c/HEAD/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C(%E9%BB%84%E5%B1%B1%E7%89%88).pdf) (PDF)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 * [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
@@ -489,7 +480,7 @@
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) - 开源中国
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com) - 阮一峰
-* [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
+* [Google JavaScript 代码风格指南](https://web.archive.org/web/20200415002735/bq69.com/blog/articles/script/868/google-javascript-style-guide.html) *(:card_file_box: archived)*
 * [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
@@ -514,7 +505,7 @@
 
   * [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
   * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
-  * [Backbone.js中文文档](http://www.css88.com/doc/backbone/)
+  * [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *(:card_file_box: archived)*
 
 
 #### D3.js
@@ -536,14 +527,9 @@
   * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 
 
-#### impress.js
-
-  * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
-
-
 #### jQuery
 
-  * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
+  * [简单易懂的JQuery魔法](https://web.archive.org/web/20201127045453/http://www.nowamagic.net/librarys/books/contents/jquery) *(:card_file_box: archived)*
   * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
 
 
@@ -553,7 +539,6 @@
 * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
 * [express.js 中文文档](http://expressjs.jser.us)
 * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
-* [JavaScript全栈工程师培训材料](http://nodejs.ctolib.com/docs/sfile/jstraining/engineering.html)
 * [koa 中文文档](https://github.com/guo-yu/koa-guide)
 * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
 * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
@@ -583,7 +568,7 @@
 
 #### Zepto.js
 
-  * [Zepto.js 中文文档](http://css88.com/doc/zeptojs_api)
+  * [Zepto.js 中文文档](https://web.archive.org/web/20210303025214/https://www.css88.com/doc/zeptojs_api/) *(:card_file_box: archived)*
 
 
 ### LaTeX
@@ -601,7 +586,7 @@
 
 ### Lua
 
-* [Lua 5.3 参考手册](http://www.w3cschool.cc/manual/lua53doc/contents.html)
+* [Lua 5.3 参考手册](https://web.archive.org/web/20180823151945/http://www.runoob.com/manual/lua53doc/contents.html) *(:card_file_box: archived)*
 
 
 ### Markdown
@@ -637,9 +622,9 @@
 ### PHP
 
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
-* [CodeIgniter 使用手冊](https://codeigniter.org.tw/userguide3)
+* [CodeIgniter 使用手冊](https://web.archive.org/web/20210624143822/https://codeigniter.org.tw/userguide3/) *(:card_file_box: archived)*
 * [Composer中文文档](http://docs.phpcomposer.com)
-* [Phalcon7中文文档](http://www.myleftstudio.com)
+* [Phalcon7中文文档](https://web.archive.org/web/20220330065727/myleftstudio.com/) *(:card_file_box: archived)*
 * [PHP 之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP标准规范中文版](https://psr.phphub.org)
 * [PHP中文手册](http://php.net/manual/zh/)
@@ -657,7 +642,7 @@
 #### Symfony
 
 * [Symfony 2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
-* [Symfony 5 快速开发](https://symfony.com/doc/current/the-fast-track/zh_CN/index.html)
+* [Symfony 5 快速开发](https://web.archive.org/web/20210812222957/symfony.com/doc/current/the-fast-track/zh_CN/index.html) *(:card_file_box: archived)*
 
 
 ### PostgreSQL
@@ -671,10 +656,9 @@
 
 ### Python
 
-* [简明 Python 教程](https://bop.molun.net) - Swaroop C H、沈洁元(翻译)、漠伦(翻译)
+* [简明 Python 教程](https://web.archive.org/web/20200822010330/https://bop.mol.uno/) - Swaroop C H、沈洁元(翻译)、漠伦(翻译) *(:card_file_box: archived)*
 * [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - (内含丰富的笔记以及各类教程)
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
-* [像计算机科学家一样思考Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) - Allen B. Downey、大胖哥(翻译)
 * [Matplotlib 3.0.3 中文文档](http://www.osgeo.cn/matplotlib/) - (Online)
 * [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) - (Online)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
@@ -684,7 +668,7 @@
 * [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 * [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
-* [Python之旅](http://funhacks.net/explore-python) - Ethan
+* [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *(:card_file_box: archived)*
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
 
 
@@ -701,7 +685,7 @@
 
 * [153分钟学会 R](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf) (PDF)
 * [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf) (PDF)
-* [用 R 构建 Shiny 应用程序](http://yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版)
+* [用 R 构建 Shiny 应用程序](https://web.archive.org/web/20200220023703/yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版) *(:card_file_box: archived)*
 * [R 导论](http://cran.r-project.org/doc/contrib/Ding-R-intro_cn.pdf) (《An Introduction to R》中文版) (PDF)
 
 
@@ -716,7 +700,7 @@
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
-* [Ruby on Rails 指南](http://guides.ruby-china.org)
+* [Ruby on Rails 指南](https://web.archive.org/web/20200807203425/https://ruby-china.github.io/rails-guides/) *(:card_file_box: archived)*
 * [Sinatra](http://www.sinatrarb.com/intro-zh.html)
 
 

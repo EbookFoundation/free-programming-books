@@ -71,6 +71,7 @@
 
 * [کتاب آزاد آموزش پایتون](http://python.coderz.ir)
 
+
 #### Django
 
 * [کتاب جنگو برای حرفه ای ها](https://github.com/mthri/dfp-persian)

@@ -83,4 +83,3 @@
 * [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
 * [موضعات ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
 
-

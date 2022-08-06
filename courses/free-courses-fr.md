@@ -7,7 +7,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
@@ -23,7 +23,7 @@
 
 ### Algorithmes
 
-* [Cours d'Algorithmie](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) - Formation Video
+* [Algorithmie - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ) - Formation Video
 
 
 ### APL
@@ -62,7 +62,7 @@
 * [Formation Git en vidéo, Cours Complet](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP) - Grafikart
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Apprendre à coder en HTML et CSS \| Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - Pierre Giraud
 * [Apprendre à utiliser le framework Bootstrap \| Cours complet (2020)](https://www.pierre-giraud.com/bootstrap-apprendre-cours/) - Pierre Giraud

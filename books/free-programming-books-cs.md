@@ -4,7 +4,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
     * [Algoritmy a datové struktury](#algoritmy-a-datove-struktury)
@@ -55,7 +55,7 @@
 * [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon (PDF, EPUB, MOBI)
 
 
-### HTML
+### HTML and CSS
 
 * [Ponořme se do HTML5](https://knihy.nic.cz/#HTML5) - Mark Pilgrim (PDF)
 

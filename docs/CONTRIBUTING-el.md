@@ -21,11 +21,12 @@
 2. Δεν χρειάζεται να γνωρίζετε Git: αν βρήκατε κάτι ενδιαφέρον που *δεν βρίσκεται ήδη σε αυτό το αποθετήριο*, παρακαλώ ανοίξτε ένα [Issue](https://github.com/EbookFoundation/free-programming-books/issues) με τις προτάσεις σας για συνδέσμους.
     - Αν γνωρίζετε Git, παρακαλούμε να κάνετε Fork αυτό το αποθετήριο και να στέλνετε Pull Requests (PR).
 
-3. Έχουμε 5 τύπους λιστών. Επιλέξτε την κατάλληλη:
+3. Έχουμε 6 τύπους λιστών. Επιλέξτε την κατάλληλη:
 
     - *Βιβλία* : PDF, HTML, ePub, ένας ιστότοπος που βασίζεται στο gitbook.io, ένα αποθετήριο Git, κλπ.
     - *Μαθήματα* : Ένα μάθημα είναι εκπαιδευτικό υλικό που δεν είναι βιβλίο. [Αυτό είναι ένα μάθημα](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Διαδραστικά σεμινάρια* : Μια διαδραστική ιστοσελίδα που επιτρέπει στον χρήστη να γράψει κώδικα ή εντολές και αξιολογεί τα αποτελέσματα (με το "αξιολογεί" δεν εννοούμε "βαθμολογεί"). π.χ. [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts και Screencasts*: Podcasts και screencasts.
     - *Προβλήματα και Ανταγωνιστικός Προγραμματισμός*: Ένας ιστότοπος ή ένα λογισμικό που σου επιτρέπει να αξιολογήσεις τις προγραμματιστικές σου ικανότητες λύνοντας απλά ή περίπλοκα προβλήματα, με ή χωρίς επιθεώρηση του κώδικα, συγκρίνοντας ή όχι τα αποτελέσματα με άλλους χρήστες.
 

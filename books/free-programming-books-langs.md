@@ -74,7 +74,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Hadoop](#hadoop)
 * [Haskell](#haskell)
 * [Haxe](#haxe)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
     * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
 * [HTTP](#http)
@@ -150,6 +150,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [OpenMP](#openmp)
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
+* [Pascal](#pascal)
 * [Perl](#perl)
 * [PHP](#php)
     * [CakePHP](#cakephp)
@@ -891,7 +892,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Kha Handbook](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
 * [A free guide to learn HTML and CSS](http://marksheet.io)
@@ -1651,6 +1652,19 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### TrueOS
 
 * [TrueOS® Users Handbook](https://www.trueos.org/handbook/trueos.html)
+
+
+### Pascal
+
+* [Free Pascal Reference guide](https://www.freepascal.org/docs-html/ref/ref.html)
+* [Modern Object Pascal Introduction for Programmers](https://castle-engine.io/modern_pascal_introduction.html) (HTML)
+* [Pascal Language Reference](https://docs.oracle.com/cd/E19957-01/802-5762/802-5762.pdf) (PDF)
+* [Pascal Programming Reference Manual](https://public.support.unisys.com/aseries/docs/clearpath-mcp-17.0/pdf/86000080-103.pdf) - Unisys (PDF)
+* [Pascal Quick Reference](https://ksvi.mff.cuni.cz/~dingle/2017/pascal_reference.html)
+* [Turbo Pascal Reference Guide (1989)](http://bitsavers.org/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Reference_Guide_1989.pdf) - Borland International (PDF)
+* [Vector Pascal, an Array Language](http://www.dcs.gla.ac.uk/~wpc/reports/compilers/compilerindex/vp-ver2.html) - Paul Cockshott, Greg Michaelson
+* [Vector Pascal Reference Manual](https://www.researchgate.net/publication/220177664_Vector_Pascal_reference_manual) (PDF)
+* [VSI Pascal for OpenVMS Reference Manual](https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf) - VMS Software (PDF)
 
 
 ### Perl

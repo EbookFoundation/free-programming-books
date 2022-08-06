@@ -38,7 +38,7 @@
     * [Fortran](#fortran)
     * [Golang](#golang)
     * [Haskell](#haskell)
-    * [HTML / CSS](#html--css)
+    * [HTML and CSS](#html-and-css)
     * [HTTP](#http)
     * [iOS](#ios)
     * [Java](#java)
@@ -431,7 +431,7 @@
 * [Real World Haskell 中文版](http://cnhaskell.com)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [前端代码规范](http://alloyteam.github.io/CodeGuide/) - 腾讯AlloyTeam团队
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)

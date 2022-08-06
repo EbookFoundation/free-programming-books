@@ -20,11 +20,12 @@
 2. نیاز نیست گیت بلد باشید: اگر چیز جذابی پیدا کردید که *در این مخزن وجود ندارد*، یک [Issue](https://github.com/EbookFoundation/free-programming-books/issues) با نوشتن لینک‌ها درست کنید.
     * اگر Git را می شناسید، لطفاً مخزن را Fork کنید و درخواست های کششی (PR) ارسال کنید.
 
-3. ما پنج نوع فهرست داریم. فهرست درست را انتخاب کنید:
+3. ما شش نوع فهرست داریم. فهرست درست را انتخاب کنید:
 
     * *کتاب‌ها* : PDF، HTML، ePub، سایت بر اساس gitbook.io، یک مخزن گیت و غیره.
     * *دوره‌ها* : دوره محتوایی آموزشی است که کتاب نیست. مثلا [این یک دوره است](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     * *آموزش‌های تعاملی* : وبسایتی تعاملی که به کاربر اجازه‌ی تایپ کد یا دستور می‌دهد و نتیجه را ارزیابی می‌کند (منظور ما از "ارزیابی"، "نمره‌دهی" نیست). مثلا: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     * *پادکست‌ها و اسکرین‌کست‌ها*
     * *مجموعه مشکلات و برنامه‌نویسی رقابتی* : وبسایت یا نرم‌افزاری که به شما امکان بررسی مهارت‌های برنامه‌نویسی را با کمک حل مشکلات ساده یا پیچیده، با یا بدون بررسی کد، با یا بدون مقایسه‌ی نتایج با کاربران دیگر می‌دهد.
 

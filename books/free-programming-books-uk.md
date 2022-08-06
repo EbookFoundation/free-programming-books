@@ -2,7 +2,7 @@
 
 * [ClosureScript](#clojurescript)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -23,7 +23,7 @@
 * [Вивчити собі Хаскель на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
 
 
-### HTML / CSS
+### HTML and CSS
 
 #### Bootstrap
 

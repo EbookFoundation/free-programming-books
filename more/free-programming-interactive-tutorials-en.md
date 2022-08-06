@@ -16,7 +16,7 @@
 * [GLSL](#glsl)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -156,7 +156,7 @@
 * [Try Haskell!](http://tryhaskell.org)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [CSS Diner](http://flukeout.github.io)
 * [CSS Speedrun \| Test your CSS Skills](https://css-speedrun.netlify.app) - Vincent Will (HTML)

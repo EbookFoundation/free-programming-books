@@ -18,11 +18,12 @@
 2. 你不需要会 Git：如果你发现了一些有趣的东西 *尚未出现在本仓库* 中，请开一个[Issue](https://github.com/EbookFoundation/free-programming-books/issues)进行主题讨论。
     * 如果你已经知晓Git，请Fork本仓库并提交Pull Request (PR)。
 
-3. 这里有5种列表，请选择正确的一个：
+3. 这里有6种列表，请选择正确的一个：
 
     * *Books* ：PDF、HTML、ePub、基于一个 gitbook.io的站点、一个Git仓库等等。
     * *Courses* ：课程是一种学习材料，而不是一本书 [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
     * *Interactive Tutorials* ：一个交互式网站，它允许用户输入代码或命令并对结果进行评估。例如：[Try Haskell](http://tryhaskell.org)，[Try GitHub](http://try.github.io)。
+    * *Playgrounds* : Playgrounds 可能是学习编程的在线交互式网站、游戏或桌面软件。你可以在上面编写、编译、运行或分享代码片段。Playgrounds 通常允许你 fork 代码然后在其中尽情的编写代码。
     * *Podcasts and Screencasts* ：播客和视频。
     * *Problem Sets & Competitive Programming* ：一个网站或软件，让你通过解决简单或复杂的问题来评估你的编程技能，有或没有代码审查，有或没有与其他用户对比结果。
 

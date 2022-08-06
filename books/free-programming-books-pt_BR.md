@@ -20,7 +20,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
@@ -181,7 +181,7 @@
 * [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Apostila de HTML](https://www.telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf) - Robertha Pereira Pedroso (PDF)
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum

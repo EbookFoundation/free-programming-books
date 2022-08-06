@@ -9,7 +9,7 @@
 * [Elastic](#elastic)
 * [GIT](#git)
 * [Go](#go)
-* [HTML5](#html5)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Node.js](#nodejs)
@@ -87,7 +87,7 @@
 * [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
 
 
-### HTML5
+### HTML and CSS
 
 * [HTML5, CSS and JavaScript](http://fromyou.tistory.com/581)
 

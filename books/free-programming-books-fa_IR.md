@@ -10,6 +10,7 @@
 * [PHP](#php)
     * [Symfony](#symfony)
 * [Python](#python)
+    * [Django](#django)
 * [R](#r)
 
 
@@ -69,6 +70,12 @@
 ### Python
 
 * [کتاب آزاد آموزش پایتون](http://python.coderz.ir)
+
+
+#### Django
+
+* [کتاب جنگو برای حرفه ای ها](https://github.com/mthri/dfp-persian)
+* [کتاب جنگو برای API](https://github.com/ftg-iran/dfa-persian)
 
 
 ### R

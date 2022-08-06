@@ -6,6 +6,7 @@
   * [编辑器](#编辑器)
   * [编译原理](#编译原理)
   * [操作系统](#操作系统)
+  * [程序员杂谈](#程序员杂谈)
   * [大数据](#大数据)
   * [分布式系统](#分布式系统)
   * [管理和监控](#管理和监控)
@@ -151,6 +152,11 @@
 * [Ubuntu 参考手册](http://wiki.ubuntu.org.cn/UbuntuManual)
 * [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
 * [UNIX TOOLBOX](https://web.archive.org/web/20210812021003/cb.vu/unixtoolbox_zh_CN.xhtml) *(:card_file_box: archived)*
+
+
+### 程序员杂谈
+
+* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 
 
 ### 大数据
@@ -371,7 +377,7 @@
 
 ### Elixir
 
-* [Elixir 编程语言教程](https://web.archive.org/web/20200224214134/http://elixirschool.com/blog) (Elixir School) *(:card_file_box: archived)*
+* [Elixir 编程语言教程](https://elixirschool.com/zh-hans) (Elixir School)
 * [Elixir Getting Started 中文翻译](https://github.com/Ljzn/ElixrGettingStartedChinese)
 * [Elixir元编程与DSL 中文翻译](https://github.com/Ljzn/MetaProgrammingInElixirChinese)
 * [Phoenix 框架中文文档](https://mydearxym.gitbooks.io/phoenix-doc-in-chinese/content/)
@@ -586,7 +592,7 @@
 
 ### Lua
 
-* [Lua 5.3 参考手册](https://web.archive.org/web/20180823151945/http://www.runoob.com/manual/lua53doc/contents.html) *(:card_file_box: archived)*
+* [Lua 5.3 参考手册](https://www.runoob.com/lua/)
 
 
 ### Markdown
@@ -700,7 +706,7 @@
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
-* [Ruby on Rails 指南](https://web.archive.org/web/20200807203425/https://ruby-china.github.io/rails-guides/) *(:card_file_box: archived)*
+* [Ruby on Rails 指南](https://ruby-china.github.io/rails-guides/)
 * [Sinatra](http://www.sinatrarb.com/intro-zh.html)
 
 

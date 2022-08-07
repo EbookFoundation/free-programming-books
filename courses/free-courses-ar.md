@@ -27,8 +27,8 @@
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
 * [Machine Learning](#machine-learning)
-* [.NET](#net)
 * [Natural Language Programming](#natural-language-programming)
+* [.NET](#net)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
 * [Prolog](#prolog)
@@ -311,18 +311,6 @@
 * [13 ML Helper Tutorials برنامج المساعد في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VdA0sd-nLM0LMzhfivfwmu) - Hesham Asem
 
 
-### .NET
-
-* [كورس ASP.NET MVC بالعربي -ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY4PrhxzVKb3lY6Ni9kgIMYH) - Mobarmg
-* [Arabic C# .NET&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1ekZ78MzVWqpNyA5Lyb2nv) - Khalid ESSAADANI
-* [ASP.NET Core Fundamentals&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1zbN2olMzvIBXP06FIwoes) - Khalid ESSAADANI
-* [ASP.NET Identity&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1T3fIb-JDa4xNFfVQoljGI) - Khalid ESSAADANI
-* [ASP.NET Identity Arabic&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1T3fIb-JDa4xNFfVQoljGI) - Khalid ESSAADANI
-* [ASP.NET MVC 5&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3HKfGd_jgO1Odr1xWXU9Yf) - Khalid ESSAADANI
-* [ASP.NET MVC From Scratch&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN2dz2C9ShCe9wTLrXxnJPuC) - Khalid ESSAADANI
-* [ASP.NET Web REST API&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1X4QNF5wslJD6T96Owkg2t) - Khalid ESSAADANI
-
-
 ### Natural Language Programming
 
 * [21 NLP-01 مقدمة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XpTaCGcWlSx-hy8JcIxsU7) - Hesham Asem
@@ -333,6 +321,18 @@
 * [26 NLP-06 تجميع البيانات](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UsyOPThnWFKUzSkrQwQHJ0) - Hesham Asem
 * [27 NLP-07 الشبكات العصبية المتكررة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XZCwISqNQPFFns9bnx2wUG) - Hesham Asem
 * [28 NLP-08 تكنيكات حديثة في المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XHsUtAUid97yRi011KSDBZ) - Hesham Asem
+
+
+### .NET
+
+* [كورس ASP.NET MVC بالعربي -ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY4PrhxzVKb3lY6Ni9kgIMYH) - Mobarmg
+* [Arabic C# .NET&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1ekZ78MzVWqpNyA5Lyb2nv) - Khalid ESSAADANI
+* [ASP.NET Core Fundamentals&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1zbN2olMzvIBXP06FIwoes) - Khalid ESSAADANI
+* [ASP.NET Identity&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1T3fIb-JDa4xNFfVQoljGI) - Khalid ESSAADANI
+* [ASP.NET Identity Arabic&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1T3fIb-JDa4xNFfVQoljGI) - Khalid ESSAADANI
+* [ASP.NET MVC 5&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN3HKfGd_jgO1Odr1xWXU9Yf) - Khalid ESSAADANI
+* [ASP.NET MVC From Scratch&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN2dz2C9ShCe9wTLrXxnJPuC) - Khalid ESSAADANI
+* [ASP.NET Web REST API&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1X4QNF5wslJD6T96Owkg2t) - Khalid ESSAADANI
 
 
 ### Operating Systems

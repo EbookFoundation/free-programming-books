@@ -4,7 +4,6 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
@@ -13,7 +12,7 @@
 * [Go](#go)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [IDE](#ide)
 * [Ionic](#ionic)
 * [Java](#java)
@@ -70,12 +69,6 @@
 * [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
 
 
-### CSS
-
-* [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
-* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo)
-
-
 ### Dart
 
 * [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy)
@@ -129,8 +122,9 @@
 * [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro (Udemy)
 
 
-### HTML
+### HTML and CSS
 
+* [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
 * [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo)
 

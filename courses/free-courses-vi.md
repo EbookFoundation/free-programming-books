@@ -8,10 +8,9 @@
 * [C](#c)
 * [C#](#csharp)
 * [Cấu trúc dữ liệu và Giải thuật](#cautrucdulieuvagiaithuat)
-* [CSS](#css)
 * [Git](#git)
 * [Go](#go)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
@@ -98,12 +97,6 @@
 * [Lập trình ứng dụng Lập Lịch với C# Winform](https://www.youtube.com/playlist?list=PL33lvabfss1zfGzpSGQN7CUoHKS6OQbJc) - Kteam
 
 
-### CSS
-
-* [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban)
-* [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
-
-
 ### Cấu trúc dữ liệu và Giải thuật
 
 * [Cấu trúc dữ liệu và Giải thuật](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev
@@ -122,8 +115,10 @@
 * [Lập trình Golang](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
 
 
-### HTML
+### HTML and CSS
 
+* [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban)
+* [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
 * [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban)
 * [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
 

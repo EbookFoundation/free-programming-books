@@ -18,7 +18,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML & CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
@@ -183,7 +183,7 @@
 * [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf) (PDF)
 
 
-### HTML & CSS
+### HTML and CSS
 
 * [99 tips para Web Development](https://fmontes.gumroad.com/l/99tips) - Freddy Montes (PDF) (se solicita email)
 * [CSS avanzado](http://librosweb.es/libro/css_avanzado) Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)

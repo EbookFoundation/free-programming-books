@@ -28,7 +28,7 @@
   * [Vue.js](#vuejs)
 * [Machine Learning](#machine-learning)
 * [.NET](#net)
-* [NLP](#nlp)
+* [Natural Language Programming](#natural-language-programming)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
 * [Prolog](#prolog)
@@ -323,7 +323,7 @@
 * [ASP.NET Web REST API&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1X4QNF5wslJD6T96Owkg2t) - Khalid ESSAADANI
 
 
-### NLP
+### Natural Language Programming
 
 * [21 NLP-01 مقدمة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XpTaCGcWlSx-hy8JcIxsU7) - Hesham Asem
 * [22 NLP-02 أساسيات المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VFSRQLI7skbH8UPEdfCFBg) - Hesham Asem

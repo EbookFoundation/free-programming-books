@@ -118,7 +118,6 @@
 
 ### 编辑器
 
-* [笨方法学Vimscript 中译本](https://web.archive.org/web/20190222162556/http://learnvimscriptthehardway.onefloweroneworld.com/) *(:card_file_box: archived)*
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)

@@ -591,7 +591,7 @@
 
 ### Lua
 
-* [Lua 5.3 参考手册](https://www.runoob.com/lua/)
+* [Lua 5.3 参考手册](https://www.runoob.com/manual/lua53doc/)
 
 
 ### Markdown

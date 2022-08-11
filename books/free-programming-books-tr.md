@@ -1,4 +1,4 @@
-### Index
+### İçindekiler
 
 * [Algoritma ve Veri Yapıları](#algoritma-ve-veri-yapilari)
 * [Android](#android)

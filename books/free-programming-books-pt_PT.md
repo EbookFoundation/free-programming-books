@@ -1,4 +1,4 @@
-### Index
+### Indice
 
 * [C/C++](#cc)
 * [Haskell](#haskell)

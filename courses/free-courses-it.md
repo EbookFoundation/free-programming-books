@@ -1,4 +1,4 @@
-### Index
+### Indice
 
 * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
 * [Android](#android)

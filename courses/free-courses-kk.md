@@ -24,14 +24,14 @@ ADVANCED - дамытушы. Детальді кодты үйрену.
 * [HTML/CSS. базалық веб-дизайн құрудағы кодтау.](https://bilgen.academy/course/view.php?id=510) (BEGINNER)
 
 
-### Javascript
+### JavaScript
 
 * [Javascript. Java курсының негізі](https://bilgen.academy/course/view.php?id=506) (BEGINNER)
 
 
 ### PHP
 
-* [PHP. Веб-дизайнның динамикалық базасының құрылуы.](https://bilgen.academy/course/view.php?id=508)  (BEGINNER)
+* [PHP. Веб-дизайнның динамикалық базасының құрылуы.](https://bilgen.academy/course/view.php?id=508) (BEGINNER)
 
 
 ### Python

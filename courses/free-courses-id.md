@@ -16,11 +16,11 @@
 * [Gradle](#gradle)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
-  * [Spring](#spring)
+    * [Spring](#spring)
 * [JavaScript](#javascript)
-  * [Node](#node)
-  * [React](#react)
-  * [Vue](#vue)
+    * [Node](#node)
+    * [React](#react)
+    * [Vue](#vue)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -29,12 +29,12 @@
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [PHP](#php)
-  * [Codeigniter](#codeigniter)
-  * [Laravel](#laravel)
+    * [Codeigniter](#codeigniter)
+    * [Laravel](#laravel)
 * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
-  * [PyTorch](#pytorch)
+    * [Django](#django)
+    * [Flask](#flask)
+    * [PyTorch](#pytorch)
 * [Redis](#redis)
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
@@ -67,7 +67,7 @@
 ### C / C++
 
 * [Bahasa C dengan Dev-C++](https://www.youtube.com/playlist?list=PLZNiz_sFO6tdZ_DcLhtbxLboLlpuqpzLC) - H.I Edukasi
-* [Belajar Bahasa Pemrograman C++ Lengkap dari Awal untuk Pemula ](https://kodedasar.com/belajar-cpp/) - DAMASDEV
+* [Belajar Bahasa Pemrograman C++ Lengkap dari Awal untuk Pemula](https://kodedasar.com/belajar-cpp/) - DAMASDEV
 * [Belajar C++](https://www.youtube.com/playlist?list=PLF82-I80PwDNKmeyYBe4CkEj7excOdy7f) - Guntur Budi
 * [Belajar C++ - Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7-RC_-hkL9gu0_ofABw862) - Kelas Terbuka
 * [Belajar C++ Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI) - Kelas Terbuka

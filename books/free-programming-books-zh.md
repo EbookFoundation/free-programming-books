@@ -1,86 +1,86 @@
 ﻿## 目录
 
 * [语言无关](#语言无关)
-  * [版本控制](#版本控制)
-  * [编程艺术](#编程艺术)
-  * [编辑器](#编辑器)
-  * [编译原理](#编译原理)
-  * [操作系统](#操作系统)
-  * [程序员杂谈](#程序员杂谈)
-  * [大数据](#大数据)
-  * [分布式系统](#分布式系统)
-  * [管理和监控](#管理和监控)
-  * [函数式概念](#函数式概念)
-  * [计算机图形学](#计算机图形学)
-  * [其它](#其它)
-  * [软件开发方法](#软件开发方法)
-  * [设计模式](#设计模式)
-  * [数据库](#数据库)
-  * [项目相关](#项目相关)
-  * [在线教育](#在线教育)
-  * [正则表达式](#正则表达式)
-  * [智能系统](#智能系统)
-  * [IDE](#ide)
-  * [Web](#web)
-  * [WEB服务器](#web服务器)
+    * [版本控制](#版本控制)
+    * [编程艺术](#编程艺术)
+    * [编辑器](#编辑器)
+    * [编译原理](#编译原理)
+    * [操作系统](#操作系统)
+    * [程序员杂谈](#程序员杂谈)
+    * [大数据](#大数据)
+    * [分布式系统](#分布式系统)
+    * [管理和监控](#管理和监控)
+    * [函数式概念](#函数式概念)
+    * [计算机图形学](#计算机图形学)
+    * [其它](#其它)
+    * [软件开发方法](#软件开发方法)
+    * [设计模式](#设计模式)
+    * [数据库](#数据库)
+    * [项目相关](#项目相关)
+    * [在线教育](#在线教育)
+    * [正则表达式](#正则表达式)
+    * [智能系统](#智能系统)
+    * [IDE](#ide)
+    * [Web](#web)
+    * [WEB服务器](#web服务器)
 * [语言相关](#语言相关)
-  * [Android](#android)
-  * [Assembly](#assembly)
-  * [AWK](#awk)
-  * [C](#c)
-  * [C#](#csharp)
-  * [C++](#cpp)
-  * [CoffeeScript](#coffeescript)
-  * [Dart](#dart)
-  * [Elasticsearch](#elasticsearch)
-  * [Elixir](#elixir)
-  * [Erlang](#erlang)
-  * [Fortran](#fortran)
-  * [Golang](#golang)
-  * [Haskell](#haskell)
-  * [HTML and CSS](#html-and-css)
-  * [HTTP](#http)
-  * [iOS](#ios)
-  * [Java](#java)
-  * [JavaScript](#javascript)
-    * [AngularJS](#angularjs)
-    * [Backbone.js](#backbonejs)
-    * [D3.js](#d3js)
-    * [Electron.js](#electronjs)
-    * [ExtJS](#extjs)
-    * [jQuery](#jquery)
-    * [Node.js](#nodejs)
-    * [React.js](#reactjs)
-    * [Vue.js](#vuejs)
-    * [Zepto.js](#zeptojs)
-  * [LaTeX](#latex)
-  * [LISP](#lisp)
-  * [Lua](#lua)
-  * [Markdown](#markdown)
-  * [MySQL](#mysql)
-  * [NoSQL](#nosql)
-  * [Perl](#perl)
-  * [PHP](#php)
-    * [Laravel](#laravel)
-    * [Symfony](#symfony)
-  * [PostgreSQL](#postgresql)
-  * [Python](#python)
-    * [Django](#django)
-  * [R](#r)
-  * [reStructuredText](#restructuredtext)
-  * [Ruby](#ruby)
-  * [Rust](#rust)
-  * [Scala](#scala)
-  * [Scheme](#scheme)
-  * [Scratch](#scratch)
-  * [Shell](#shell)
-  * [Swift](#swift)
-  * [TypeScript](#typescript)
-    * [Angular](#angular)
-    * [Deno](#deno)
-  * [VBA](#vba-microsoft-visual-basic-applications)
-  * [Vim](#vim)
-  * [Visual Prolog](#visual-prolog)
+    * [Android](#android)
+    * [Assembly](#assembly)
+    * [AWK](#awk)
+    * [C](#c)
+    * [C#](#csharp)
+    * [C++](#cpp)
+    * [CoffeeScript](#coffeescript)
+    * [Dart](#dart)
+    * [Elasticsearch](#elasticsearch)
+    * [Elixir](#elixir)
+    * [Erlang](#erlang)
+    * [Fortran](#fortran)
+    * [Golang](#golang)
+    * [Haskell](#haskell)
+    * [HTML and CSS](#html-and-css)
+    * [HTTP](#http)
+    * [iOS](#ios)
+    * [Java](#java)
+    * [JavaScript](#javascript)
+        * [AngularJS](#angularjs)
+        * [Backbone.js](#backbonejs)
+        * [D3.js](#d3js)
+        * [Electron.js](#electronjs)
+        * [ExtJS](#extjs)
+        * [jQuery](#jquery)
+        * [Node.js](#nodejs)
+        * [React.js](#reactjs)
+        * [Vue.js](#vuejs)
+        * [Zepto.js](#zeptojs)
+    * [LaTeX](#latex)
+    * [LISP](#lisp)
+    * [Lua](#lua)
+    * [Markdown](#markdown)
+    * [MySQL](#mysql)
+    * [NoSQL](#nosql)
+    * [Perl](#perl)
+    * [PHP](#php)
+        * [Laravel](#laravel)
+        * [Symfony](#symfony)
+    * [PostgreSQL](#postgresql)
+    * [Python](#python)
+        * [Django](#django)
+    * [R](#r)
+    * [reStructuredText](#restructuredtext)
+    * [Ruby](#ruby)
+    * [Rust](#rust)
+    * [Scala](#scala)
+    * [Scheme](#scheme)
+    * [Scratch](#scratch)
+    * [Shell](#shell)
+    * [Swift](#swift)
+    * [TypeScript](#typescript)
+        * [Angular](#angular)
+        * [Deno](#deno)
+    * [VBA](#vba-microsoft-visual-basic-applications)
+    * [Vim](#vim)
+    * [Visual Prolog](#visual-prolog)
 
 
 ## 语言无关
@@ -313,8 +313,8 @@
 ### Assembly
 
 * 逆向工程权威指南 《Reverse Engineering for Beginners》 - Dennis Yurichev, Antiy Labs, Archer
-  * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.1](https://beginners.re/RE4B-CN-vol1.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
-  * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.2](https://beginners.re/RE4B-CN-vol2.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
+    * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.1](https://beginners.re/RE4B-CN-vol1.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
+    * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.2](https://beginners.re/RE4B-CN-vol2.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
 * [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book/tree/master/zh) - Ending, Chai Shushan (HTML, [:package: examples](https://github.com/3dgen/cppwasm-book/tree/master/examples))
 
 
@@ -479,7 +479,7 @@
 ### JavaScript
 
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、为之漫笔(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)
-* [你不知道的Javascript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
+* [你不知道的JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [现代 JavaScript 教程](https://zh.javascript.info) - Ilya Kantor
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) - 开源中国
@@ -490,9 +490,9 @@
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) (《JavaScript patterns》译本)
-* [Javascript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
+* [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
-* [Javascript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
+* [JavaScript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
 
 
@@ -508,34 +508,34 @@
 
 #### Backbone.js
 
-  * [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
-  * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
-  * [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *(:card_file_box: archived)*
+* [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
+* [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
+* [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *(:card_file_box: archived)*
 
 
 #### D3.js
 
-  * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
-  * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
-  * [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
-  * [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
+* [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
+* [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
+* [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
+* [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
 
 
 #### Electron.js
 
-  * [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
-  * [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
+* [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
+* [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
 
 
 #### ExtJS
 
-  * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
+* [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 
 
 #### jQuery
 
-  * [简单易懂的JQuery魔法](https://web.archive.org/web/20201127045453/http://www.nowamagic.net/librarys/books/contents/jquery) *(:card_file_box: archived)*
-  * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
+* [简单易懂的JQuery魔法](https://web.archive.org/web/20201127045453/http://www.nowamagic.net/librarys/books/contents/jquery) *(:card_file_box: archived)*
+* [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
 
 
 #### Node.js
@@ -557,23 +557,23 @@
 
 #### React.js
 
-  * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
-  * [React-Bits 中文文档](https://github.com/hateonion/react-bits-CN)
-  * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
-  * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
-  * [React.js 入门教程](http://fraserxu.me/intro-to-react/)
-  * [React.js 中文文档](https://discountry.github.io/react/)
+* [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
+* [React-Bits 中文文档](https://github.com/hateonion/react-bits-CN)
+* [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
+* [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
+* [React.js 入门教程](http://fraserxu.me/intro-to-react/)
+* [React.js 中文文档](https://discountry.github.io/react/)
 
 
 #### Vue.js
 
-  * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
-  * [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
+* [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
+* [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
 
 
 #### Zepto.js
 
-  * [Zepto.js 中文文档](https://web.archive.org/web/20210303025214/https://www.css88.com/doc/zeptojs_api/) *(:card_file_box: archived)*
+* [Zepto.js 中文文档](https://web.archive.org/web/20210303025214/https://www.css88.com/doc/zeptojs_api/) *(:card_file_box: archived)*
 
 
 ### LaTeX

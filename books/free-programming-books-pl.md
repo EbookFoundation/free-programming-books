@@ -17,10 +17,10 @@
 * [MySQL](#mysql)
 * [Perl](#perl)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Prolog](#prolog)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Ruby](#ruby)
 * [SQL](#sql)
 

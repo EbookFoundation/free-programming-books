@@ -12,8 +12,8 @@
 * [Computer Architecture](#computer-architecture)
 * [Dart](#dart)
 * [Databases](#databases)
-  * [NoSQL](#nosql)
-  * [SQL](#sql)
+    * [NoSQL](#nosql)
+    * [SQL](#sql)
 * [Deep Learning](#deep-learning)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
@@ -21,12 +21,12 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Gulp.js](#gulpjs)
-  * [jQuery](#jquery)
-  * [NodeJS](#nodejs)
-  * [PugJs](#pugjs)
-  * [React.js](#reactjs)
-  * [Vue.js](#vuejs)
+    * [Gulp.js](#gulpjs)
+    * [jQuery](#jquery)
+    * [NodeJS](#nodejs)
+    * [PugJs](#pugjs)
+    * [React.js](#reactjs)
+    * [Vue.js](#vuejs)
 * [Machine Learning](#machine-learning)
 * [Natural Language Programming](#natural-language-programming)
 * [.NET](#net)
@@ -34,12 +34,12 @@
 * [PHP](#php)
 * [Prolog](#prolog)
 * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
+    * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Software Architecture](#software-architecture)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 
 
 ### Algorithms & Data Structures
@@ -191,7 +191,7 @@
 * [Learn SASS In Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) - Elzero Web School
 * [Sass&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6bF7qObm2a1mLN_WHAWQo) - Elzero Web School
 * [Sass - Create a website&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) - Elzero Web School
-* [Yonisfy CS94's | Web Programming with JavaScript&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiXqkUqcoKrVjCyOrZh7Tw0e) - Mohammed Elzanaty
+* [Yonisfy CS94's \| Web Programming with JavaScript&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiXqkUqcoKrVjCyOrZh7Tw0e) - Mohammed Elzanaty
 
 
 ### Java

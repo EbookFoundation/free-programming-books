@@ -5,7 +5,7 @@
 * [HTML and CSS](#html-and-css)
 * [MySQL](#mysql)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Scratch](#scratch)
 
 

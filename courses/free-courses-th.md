@@ -5,13 +5,13 @@
 * [C++](#cpp)
 * [Git](#git)
 * [JavaScript](#javascript)
-  * [NodeJS](#nodejs)
-  * [React](#react)
-  * [Vue.js](#vuejs)
+    * [NodeJS](#nodejs)
+    * [React](#react)
+    * [Vue.js](#vuejs)
 * [Python](#python)
 * [Ruby](#Ruby)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 
 
 ### C

@@ -9,8 +9,8 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Node.js](#nodejs)
-  * [React](#react)
+    * [Node.js](#nodejs)
+    * [React](#react)
 * [Julia](#julia)
 * [Kotlin](#kotlin)
 * [Perl](#perl)
@@ -23,8 +23,8 @@
 
 ### Уровни
 
-BEG - Hовичок. Основы.  
-INT - Cредний. Расширенные возможности.  
+BEG - Hовичок. Основы.    
+INT - Cредний. Расширенные возможности.    
 ADV - Продвинутый. Тонкости.
 
 

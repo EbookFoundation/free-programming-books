@@ -3,13 +3,13 @@
 * [ClosureScript](#clojurescript)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
-  * [Bootstrap](#bootstrap)
+    * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Language Agnostic](#language-agnostic)
 * [PHP](#php)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Ruby](#ruby)
 
 

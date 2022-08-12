@@ -8,8 +8,9 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Python](#python)
+    * [Django](#django)
 * [R](#r)
 
 
@@ -71,10 +72,14 @@
 * [کتاب آزاد آموزش پایتون](http://python.coderz.ir)
 
 
+#### Django
+
+* [کتاب جنگو برای حرفه ای ها](https://github.com/mthri/dfp-persian)
+* [کتاب جنگو برای API](https://github.com/ftg-iran/dfa-persian)
+
+
 ### R
 
 * [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf) (PDF)
 * [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
 * [موضعات ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
-
-

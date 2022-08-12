@@ -9,16 +9,16 @@
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
-  * [Bootstrap](#bootstrap)
-  * [Tailwind](#tailwind)
+    * [Bootstrap](#bootstrap)
+    * [Tailwind](#tailwind)
 * [IDE and Editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [jQuery](#jquery)
-  * [Node.js](#nodejs)
-  * [React](#react)
-  * [Vue](#vue)
-  * [Svelte](#svelte)
+    * [jQuery](#jquery)
+    * [Node.js](#nodejs)
+    * [React](#react)
+    * [Svelte](#svelte)
+    * [Vue](#vue)
 * [Kotlin](#kotlin)
 * [MySQL](#mysql)
 * [PHP](#php)
@@ -145,14 +145,14 @@
 * [React JS Tutorial Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) - Sumit Saha (Learn with Sumit)
 
 
-#### Vue
-
-* [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/playlist?&list=PLHiZ4m8vCp9O5_QoMvQbOAOR5WolyZ4OS) - Learn with Sumit
-
-
 #### Svelte
 
 * [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner
+
+
+#### Vue
+
+* [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/playlist?&list=PLHiZ4m8vCp9O5_QoMvQbOAOR5WolyZ4OS) - Learn with Sumit
 
 
 ### Kotlin

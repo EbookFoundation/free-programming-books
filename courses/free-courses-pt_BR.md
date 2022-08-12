@@ -4,7 +4,6 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [CSS](#css)
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
@@ -13,7 +12,7 @@
 * [Go](#go)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [IDE](#ide)
 * [Ionic](#ionic)
 * [Java](#java)
@@ -37,7 +36,7 @@
 * [Shell](#shell)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [Vue.js](#vuejs)
 * [WordPress](#wordpress)
 
@@ -52,7 +51,7 @@
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
 * [Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) - Cláudio Rogério Carvalho Filho (eXcript)
-* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (Youtube)
+* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (YouTube)
 
 
 ### <a id="csharp"></a>C\#
@@ -68,12 +67,6 @@
 ### <a id="cpp"></a>C++
 
 * [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
-
-
-### CSS
-
-* [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
-* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo)
 
 
 ### Dart
@@ -97,7 +90,10 @@
 ### Flutter
 
 * [Criando seu primeiro App com Flutter](https://app.balta.io/courses/7184) - Andre Baltieri (balta.io)
+* [Curso Arquitetura no Flutter - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS) - Deivid Willyan (YouTube)
 * [Curso COMPLETO de Flutter](https://youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) - Flutterando (YouTube)
+* [Curso Flutter Básico \[NV1\] - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S) - Deivid Willyan (YouTube)
+* [Curso Flutter Intermediário \[NV2\] - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cvYvKja5Ex92aQ_HNADo4Oh) - Deivid Willyan (YouTube)
 
 
 ### Git
@@ -126,8 +122,9 @@
 * [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro (Udemy)
 
 
-### HTML
+### HTML and CSS
 
+* [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
 * [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo)
 
@@ -224,7 +221,7 @@
 
 ### Node.js
 
-* [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
+* [Criando APIs com NodeJs](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
 * [Curso de Node.js](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) - Victor Lima Guia do Programador (YouTube)
 * [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (YouTube)
 * [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - Erick Wendel (Teachable)

@@ -21,11 +21,12 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 2. No es necesario conocer Git: si encontró algo de interés que *no esté ya en este repositorio*, tenga el gusto de abrir una [Issue][issues] con su propuesta de enlaces.
     - Si ya maneja Git, haga un Fork del repositorio y envíe su contribución mediante Pull Request (PR).
 
-3. Dispone de 5 categorías. Seleccione aquel listado que crea conveniente según:
+3. Dispone de 6 categorías. Seleccione aquel listado que crea conveniente según:
 
     - *Libros* : PDF, HTML, ePub, un recurso alojado en gitbook.io, un repositorio Git, etc.
     - *Cursos* : Un curso es aquel material de aprendizaje que no es un libro. [Esto es un curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriales interactivos* : Un sitio web se considera interactivo si permite al usuario escribir código o comandos y evaluar su resultado ("evaluar" no significa "obtener una calificación"). Por ejemplo: [Pruebe Haskell](http://tryhaskell.org), [Pruebe GitHub](http://try.github.io).
+    - *Playgrounds* : se tratan de sitios en línea interactivos, juegos o software de escritorio cuyo fin es el de aprender programación. Permiten escribir, compiar (o ejecutar), y compartir partes de código fuente. A menudo, ofrecen la posibilidad de hacer bifurcaciones y ensuciarse las manos jugando con el código generado hasta dicho instante.
     - *Podcasts y Screencasts* : Son aquellas retransmisiones grabadas ya sea en audio y/o en vídeo, respectivamente.
     - *Conjuntos de problemas & Programación competitiva* : Se trata de un sitio web o software que le permita evaluar sus habilidades de programación resolviendo problemas simples o complejos, con o sin revisión de código, con o sin comparar los resultados con otros usuarios.
 
@@ -39,7 +40,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 
 - Revise si el libro es gratuito. Hágalo las veces que sean necesarias. Ayude a los administradores comentando en las PR por qué cree que el libro se ofrece gratis o es valioso.
 - No se aceptan ficheros alojados en Google Drive, Dropbox, Mega, Scribd, Issuu u otras plataformas de almacenamiento y/o descarga similares.
-- Inserte los enlaces ordenados alfabéticamente. Si se encuentra por casualidad con un enlace fuera de sitio, por favor ordénelo y envíe la correspondiente PR para poder arreglarlo.
+- Inserte los enlaces ordenados alfabéticamente, tal y como se describe [más abajo](#alphabetical-order).
 - Use el enlace que apunte a la fuente más fidedigna. Esto es, el sitio web del autor es mejor que el del editor y éste a su vez mejor que uno de terceros.
     - No use servicios de almacenamiento en la nube. Esto incluye, aunque sin limitar, enlaces a Dropbox y Google Drive.
 - Es siempre preferible el uso de enlaces con protocolo `https` en vez de `http` si ambos se refieren al mismo dominio y sirven el mismo contenido.
@@ -145,6 +146,15 @@ Ejemplo:
     CORRECTO  : * [Un recurso recuperado a partir de su línea de tiempo](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archivado)*
     ```
 
+<!----><a id="alphabetical-order"></a>
+### Ordenación alfabética
+
+- Cuando hay varios títulos comenzando por la misma letra, ordene por la segunda, ... y así consecutivamente. Por ejemplo:
+    - `aa` va antes de `ab`.
+    - `one two` va antes que `onetwo`.
+
+En cualquier caso o si por casualidad encontrase un enlace fuera de lugar, compruebe el mensaje de error que facilita nuestro linter. Le permitirá saber las líneas de código que debe intercambiar.
+
 
 <!----><a id="notes"></a>
 ### Anotaciones
@@ -163,6 +173,7 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 
 - Sin títulos inventados: Intentamos tomar el texto de los propios recursos; se advierte a los colaboradores que, si puede evitarse, no inventen títulos ni los utilicen editorialmente. Una excepción es para obras más antiguas: si son principalmente de interés histórico, un año entre paréntesis adjunto al título ayuda a los usuarios a saber si estos son de interés.
 - Sin títulos TODO EN MAYÚSCULAS: Por lo general, es apropiado tener cada primera letra de palabra en mayúsculas, pero en caso de duda, use siempre el estilo tal y como viene en la fuente original.
+- Evite usar emoticonos.
 
 
 <!----><a id="urls"></a>

@@ -9,21 +9,21 @@
 * [Elastic](#elastic)
 * [GIT](#git)
 * [Go](#go)
-* [HTML5](#html5)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Node.js](#nodejs)
-  * [Webpack](#webpack)
+    * [Node.js](#nodejs)
+    * [Webpack](#webpack)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Mathematics](#mathematics)
 * [Operation System](#operation-system)
 * [Perl](#perl)
 * [PHP](#php)
-  * [Laravel](#laravel)
+    * [Laravel](#laravel)
 * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
+    * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -87,7 +87,7 @@
 * [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
 
 
-### HTML5
+### HTML and CSS
 
 * [HTML5, CSS and JavaScript](http://fromyou.tistory.com/581)
 
@@ -120,7 +120,7 @@
 
 ### Linux
 
-* [리눅스 서버를 다루는 기술](https://thebook.io/006718/)
+* [리눅스 서버를 다루는 기술](https://web.archive.org/web/20220107111504/https://thebook.io/006718/) *(:card_file_box: archived)*
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
 
 

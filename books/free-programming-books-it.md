@@ -1,40 +1,40 @@
 ### Index
 
 * [0 - Agnostico](#0---agnostico)
-  * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
-  * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
-  * [Open source](#open-source)
-  * [Sistemi](#sistemi)
-  * [Storia dell'informatica](#storia-dellinformatica)
+    * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
+    * [Metodologie di sviluppo del software](#metodologie-di-sviluppo-del-software)
+    * [Open source](#open-source)
+    * [Sistemi](#sistemi)
+    * [Sistemi di controllo versione](#sistemi-di-controllo-versione)
+    * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [CSS](#css)
 * [Database](#database)
-  * [NoSQL](#nosql)
-  * [Relazionali](#relazionali)
-  * [SQL](#sql)
+    * [NoSQL](#nosql)
+    * [Relazionali](#relazionali)
+    * [SQL](#sql)
 * [Git](#git)
 * [Golang](#golang)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
+    * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Ruby](#ruby)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [UML](#uml)
 * [Visual Basic](#visual-basic)
 
@@ -61,6 +61,11 @@
 #### Sistemi
 
 * [Programmazione di Sistema in Linguaggio C - Esempi ed esercizi](https://www.disi.unige.it/person/DelzannoG/BIOMED/Programmazione-C/dispense_avanzate_C.pdf) - V. Gervasi, S. Pelagatti, S. Ruggieri, F. Scozzari, A. Sperduti (PDF)
+
+
+#### Sistemi di controllo versione
+
+* [Controllo di Versione con Subversion](https://svnbook.red-bean.com/index.it.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
 
 
 #### Storia dell'informatica
@@ -111,11 +116,6 @@
 * [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) - (PDF)
 
 
-### CSS
-
-* [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
-
-
 ### Database
 
 * [Basi di Dati](http://dbdmg.polito.it/wordpress/teaching/basi-di-dati/) - Apiletti e Cagliero (Politecnico di Torino)
@@ -153,7 +153,7 @@
 * [The Little Go Book](https://github.com/francescomalatesta/the-little-go-book-ita) - Karl Seguin, Francesco Malatesta ([HTML](https://github.com/francescomalatesta/the-little-go-book-ita/blob/master/it/go.md))
 
 
-### HTML
+### HTML and CSS
 
 * [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf) (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
@@ -165,7 +165,7 @@
 * [Appendici del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_Java9-Appendici.pdf) - C. De Sio Cesari (PDF)
 * [Esercitazioni di Spring Boot](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) - M. Cicolella (HTML)
 * [Esercizi del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_java9-esercizi.pdf) - C. De Sio Cesari (PDF)
-* [Esercizi di Java Avanzato](http://wpage.unina.it/m.faella/Didattica/LpII/archivio.pdf) - M. Faella  (PDF)
+* [Esercizi di Java Avanzato](http://wpage.unina.it/m.faella/Didattica/LpII/archivio.pdf) - M. Faella (PDF)
 * [Fondamenti di informatica - Java - Eserciziario](http://www.dei.unipd.it/~filira/fi/etc/eserciziario.pdf) (PDF)
 * [Guida a Java 8](http://twiki.di.uniroma1.it/pub/Metod_prog/RS_INFO/lezioni.html)
 * [Guida Java](http://www.html.it/guide/guida-java/?cref=development) (HTML)
@@ -178,10 +178,10 @@
 
 ### JavaScript
 
-* [Corso completo Javascript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
+* [Corso completo JavaScript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
-* [Guida Javascript](https://www.html.it/guide/guida-javascript-di-base/) - Andrea Chiarelli, Davide Brognoli, Alberto Bottarini, Ilario Valdelli (HTML)
+* [Guida JavaScript](https://www.html.it/guide/guida-javascript-di-base/) - Andrea Chiarelli, Davide Brognoli, Alberto Bottarini, Ilario Valdelli (HTML)
 
 
 #### AngularJS

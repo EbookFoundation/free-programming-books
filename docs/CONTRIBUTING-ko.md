@@ -18,11 +18,12 @@
 2. Git을 알 필요는 없습니다: 만약 당신이 조건에 부합하면서 *이미 등재되지 않은* 바로가기를 발견한다면, 새로운 바로가기와 함께 새로운 [이슈](https://github.com/EbookFoundation/free-programming-books/issues)를 열 수 있습니다.
     - 만약 깃 사용법을 알고 있다면, 해당 리포지토리를 Fork 하며 Pull Request (PR)를 보내주세요.
 
-3. 저희는 다섯 가지의 리스트를 제공하고 있습니다. 올바른 것을 선택해 주세요:
+3. 저희는 육 가지의 리스트를 제공하고 있습니다. 올바른 것을 선택해 주세요:
 
     - *책* : PDF, HTML, ePub, gitbook.io 기반 웹사이트, 깃 리포지토리, 등.
     - *강좌* : 여기서 강좌는 책이 아닌 교육 도구를 칭합니다. [강좌 예시](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *상호작용을 할 수 있는 강좌* : 사용자가 코드를 입력하거나 명령어를 입력하여 평가을 받을 수 있는 웹사이트를 칭합니다(평가는 채점이 아닙니다). 예시: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *팟캐스트와 화면 녹화*
     - *문제집 & 경쟁 하며 배우는 프로그래밍* : 문제를 풂으로서 프로그래밍 실력을 향상시키는데 도움을 주는 소프트웨어 또는 웹사이트를 칭합니다. 해당 소프트웨어 또는 웹사이트는 동료가 주체가 되는 코드 검토를 포함 할 수 있습니다.
 
@@ -35,7 +36,7 @@
 
 - 책이 무료인지 반드시 확인 해 주십시오. 해당 책이 무료라고 생각하는 이유를 PR의 comment에 포함하는 것은 관리자들에게 큰 도움이 됩니다.
 - 저희는 Google Drive, Dropbox, Mega, Scribd, Issuu 또는 유사한 파일 공유 시스템에 업로드된 파일들을 수락하지 않습니다.
-- 바로가기를 오름차순으로 정렬해 주십시오. 만약 당신이 오름차순이 아닌 파일을 발견한다면, 수정후 PR을 보내주세요.
+- 바로가기를 오름차순으로 정렬해 주십시오, as described [below](#alphabetical-order).
 - 가능한 가장 원작자에 가까운 바로가기를 사용해주세요(작가의 웹사이트가 편집자의 웹사이트보다 낫고, 제 3자의 웹사이트보다는 편집자의 것이 낫습니다).
 - 동일한 내용으 포함한다는 전 하에 `https` 주소를 `http`주소보다 우선시 해주십시오
 - 루트 도메인을 사용할때는, 마지막에 붙는 /를 배제하여주십시오. (`http://example.com` 가 `http://example.com/` 보다 낫습니다)
@@ -129,6 +130,13 @@
     GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
+
 
 ### 노트(쪽지)
 
@@ -144,6 +152,7 @@
 
 - 원제를 사용하세요. 저희는 원작(원본)의 제목을 사용하기를 원합니다. 기여자들은 가능한 원제에 가깝거나 동일한 제목을 제공하여야 합니다. 예외는 오래된 책들입니다. 독자들의 더 쉬운 이해와 검색을 위해 현대의 언어로 제목을 새로 짓는것은 허가됩니다.
 - 대문자로만 이루어진 제목은 금지됩니다. 대부분 경우에 title case가 허가되지만, 확실하지 않다면 자료에 명시된 방식으로 기술 하세요.
+- No emojis.
 
 
 ##### 바로가기 주소

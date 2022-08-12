@@ -5,14 +5,14 @@
 * [DataScience](#datascience)
 * [Game development](#game-development)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
 * [PHP](#php)
 * [Python](#python)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [Vue.js](#vuejs)
 
 
@@ -54,7 +54,7 @@
 * [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) (screencast)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Curso em Vídeo - HTML5, CSS3 e JavaScript](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) - Gustavo Guanabara (screencast)
 
@@ -78,17 +78,17 @@
 
 ### Language Agnostic
 
- * [Castálio Podcast](http://castalio.info) (podcast)
- * [DevNaEstrada](http://devnaestrada.com.br) (podcast)
- * [Grok Podcast](http://www.grokpodcast.com) (podcast)
- * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
- * [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
- * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
- * [PODebug](http://www.podebug.com) (podcast)
- * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
- * [podTag](https://podtag.com.br) (podcast)
- * [Screencast DevMedia - Lazy Load](https://www.youtube.com/playlist?list=PLi75dzoFwEbo89TG5IaD4ODYPeJK9uxA5) (screencast)
- * [Screencasts - Andre Baltieri](https://www.youtube.com/playlist?list=PLTMuY7ptzFISwigIWpZQtp6b0TuEEvqLC) (screencast)
+* [Castálio Podcast](http://castalio.info) (podcast)
+* [DevNaEstrada](http://devnaestrada.com.br) (podcast)
+* [Grok Podcast](http://www.grokpodcast.com) (podcast)
+* [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
+* [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
+* [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
+* [PODebug](http://www.podebug.com) (podcast)
+* [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
+* [podTag](https://podtag.com.br) (podcast)
+* [Screencast DevMedia - Lazy Load](https://www.youtube.com/playlist?list=PLi75dzoFwEbo89TG5IaD4ODYPeJK9uxA5) (screencast)
+* [Screencasts - Andre Baltieri](https://www.youtube.com/playlist?list=PLTMuY7ptzFISwigIWpZQtp6b0TuEEvqLC) (screencast)
 
 
 ### PHP
@@ -118,4 +118,4 @@
 
 ### Vue.js
 
-* [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli  (screencast)
+* [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli (screencast)

@@ -11,20 +11,20 @@
 * [Git](#git)
 * [Go](#go)
 * [Groovy](#groovy)
-* [HTML & CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [React](#react)
+    * [React](#react)
 * [LaTeX](#latex)
 * [Mathematik](#mathematik)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [Neo4j](#neo4j)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
@@ -106,7 +106,7 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 * [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) - Jörg Staudemeyer (PDF)
 
 
-### HTML & CSS
+### HTML and CSS
 
 * [CSS](http://www.peterkropff.de/site/css/css.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) (Online, PDF)
 * [HTML](http://www.peterkropff.de/site/html/html.htm) - Peter Kropff (Online, PDF)

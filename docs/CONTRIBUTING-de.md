@@ -18,11 +18,12 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_COND
 2. Du musst Dich nicht mit Git auskennen: Wenn Du etwas Interessantes gefunden hast, *das noch nicht in einer der Listen enthalten ist*, öffne bitte ein [Issue](https://github.com/EbookFoundation/free-programming-books/issues) mit Deinen Linkvorschlägen.
     - Wenn Du Dich mit Git auskennst, erstelle einen Fork des Repositorys und sende einen Pull Request (PR).
 
-3. Wir führen 5 Arten von Listen. Achte darauf, die richtige zu wählen:
+3. Wir führen 6 Arten von Listen. Achte darauf, die richtige zu wählen:
 
     - *Bücher*: PDF, HTML, ePub, eine auf gitbook.io basierende Seite, ein Git Repo etc.
     - *Kurse*: Ein Kurs beschreibt Lernmaterialien, die nicht in Buchform existieren. [Dies ist ein Kurs](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Interaktive Tutorials*: Eine interaktive Webseite, die den Benutzer Sourcecode oder Kommandos eingeben lässt und das Resultat auswertet (mit "auswerten" meinen wir nicht "bewerten"). z.&nbsp;B.: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts und Screencasts*: Podcasts und Screencasts.
     - *Problem Sets & Competitive Programming*: Eine Webseite oder Software, die Dir die Möglichkeit gibt, Deine Programmierfähigkeiten durch die Lösung einfacher oder komplexer Problemstellungen auf die Probe zu stellen, mit oder ohne Code Review und mit oder ohne den Vergleich der Leistungen mit anderen Besuchern der Seite.
 
@@ -35,7 +36,7 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_COND
 
 - Stell sicher, dass ein Buch wirklich kostenlos ist. Vergewissere Dich noch einmal, falls nötig. Es hilft den Administratoren, wenn Du in Deinem PR beschreibst, warum Du der Ansicht bist, dass das jeweilige Buch kostenlos ist.
 - Wir nehmen keine Dateien auf, die auf Google Drive, Dropbox, Mega, Scribd, Issuu oder einer vergleichbaren Upload-Plattform liegen.
-- Füge die Links in alphabetischer Reihenfolge ein. Wenn Du einen fehlerhaft eingefügten Link findest, korrigiere bitte die Reihenfolge und öffne eine PR.
+- Füge die Links wie [unten](#alphabetische-sortierung) beschrieben in alphabetischer Reihenfolge ein.
 - Wähle immer den Link der maßgeblichen Quelle aus (das heißt, dass die Website des Autors besser ist als die eines Redakteurs, welche wiederum besser wäre als die einer Drittanbieterseite)
     - Keine File Hosting Plattformen (inklusive Links zu Dropbox, Google Drive u.ä.)
 - Ein `https` Link sollte einem `http` Link immer vorgezogen werden -- solange sie auf dieselbe Domain und denselben Inhalt verweisen.
@@ -133,6 +134,13 @@ Beispiel:
     RICHTIG: * [Wird bald ein tolles Buch sein](http://example.com/book2.html) - John Doe (HTML) (:construction: *in Bearbeitung*)
     ```
 
+### Alphabetische Sortierung
+
+- Wenn mehrere Titel mit demselben Buchstaben beginnen, sortiere sie nach dem zweiten Buchstaben und so weiter. Zum Beispiel folgt `ab` nach `aa`.
+- `eins zwei` kommt in der Sortierreihenfolge vor `einszwei`.
+
+Wenn Dir ein falsch sortierter Link auffällt, prüfe die Fehlermeldung des Linters, um herauszufinden, welche Zeilen vertauscht werden sollten.
+
 
 ### Hinweise
 
@@ -148,6 +156,7 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 
 - Keine erfundenen Titel. Wir versuchen, die Titel den Inhalten selbst zu entnehmen; Mitwirkende werden dazu ermahnt, sich keine Titel auszudenken oder redaktionell zu nutzen, falls dies vermieden werden kann. Eine Ausnahme bilden ältere Werke; wenn sie vor allem von historischem Interesse sind, kann das Hinzufügen einer Jahreszahl in Klammern den Nutzern helfen zu bestimmen, ob die Inhalte für sie nützlich sind.
 - Keine Titel, die NUR GROßBUCHSTABEN ENTHALTEN. Titelkapitalisierung ist normalerweise angemessen, aber im Zweifel nutze einfach die Formatierung der Originalquelle.
+- Keine Emojis.
 
 
 ##### URLs

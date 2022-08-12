@@ -1,12 +1,12 @@
 ### Index
 
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
-  * [React](#react)
+    * [React](#react)
 * [Python](#python)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [レスポンシブウェブデザイン](https://www.freecodecamp.org/japanese/learn/responsive-web-design) - freeCodeCamp
 

@@ -9,19 +9,18 @@
 * [C++](#cpp)
 * [Common Lisp](#common-lisp)
 * [Coq](#coq)
-* [CSS](#css)
 * [Haskell](#haskell)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [MySQL](#mysql)
 * [Perl](#perl)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Prolog](#prolog)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Ruby](#ruby)
 * [SQL](#sql)
 
@@ -92,21 +91,16 @@
 * [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php) - Jakub Jankiewicz
 
 
-### CSS
-
-* [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
-* [Kurs CSS](https://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
-
-
 ### Haskell
 
 * [Haskell](https://pl.wikibooks.org/wiki/Haskell) - Wikibooks
 
 
-### HTML
+### HTML and CSS
 
 * [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html) - Sławomir Kokłowski
+* [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
+* [Kurs CSS](https://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
 * [KURS HTML](http://www.kurshtml.edu.pl) - Sławomir Kokłowski
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 

@@ -5,18 +5,18 @@
 * [Git](#git)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [React](#react)
+    * [React](#react)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Network](#network)
 * [PHP](#php)
-  * [Codeigniter](#codeigniter)
-  * [Laravel](#laravel)
-  * [Yii](#yii)
+    * [Codeigniter](#codeigniter)
+    * [Laravel](#laravel)
+    * [Yii](#yii)
 * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
+    * [Django](#django)
+    * [Flask](#flask)
 * [Web Development](#web-development)
 
 
@@ -127,7 +127,7 @@
 
 ### Flask
 
-* [ آموزش توسعه وب با فریم‌ورک فلسک](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) - Alireza Ayinmehr
+* [آموزش توسعه وب با فریم‌ورک فلسک](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) - Alireza Ayinmehr
 
 
 ### Web Development
@@ -135,6 +135,6 @@
 * [آموزش اینسپکت المنت](https://holosen.net/inspect-element-1/) - Hossein Badrnezhad
 * [آموزش طراحی وب](https://www.youtube.com/playlist?list=PLF10DSJQktjlCvLNuyxNjMPIHThHuIVqG) - Siavash Mahmoudian
 * [برنامه نویسی وب](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74) - Mohammad Salehe
-* [برنامه نویسی وب با HTML و CSS](https://holosen.net/web-design/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)* 
+* [برنامه نویسی وب با HTML و CSS](https://holosen.net/web-design/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)*
 * [دوره اموزشی بوت استرپ 5](https://www.youtube.com/playlist?list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Mehran Tarif (Silicium)
 * [وب‌فریم‌ورک‌ها چگونه کار می‌کنند؟](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ33x-___WkhyTJ8dDPaoOPk) - Shahriar Shariati

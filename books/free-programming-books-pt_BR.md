@@ -1,9 +1,9 @@
 ### Índice
 
 * [Agnósticos](#agnósticos)
-  * [IDE / Editores](#ide--editores)
-  * [Programação](#programação)
-  * [Sistemas Operacionais](#sistemas-operacionais)
+    * [IDE / Editores](#ide--editores)
+    * [Programação](#programação)
+    * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
 * [Arduino](#arduino)
 * [Assembly](#assembly)
@@ -13,43 +13,42 @@
 * [Dart](#dart)
 * [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
-  * [Arquitetura de Software](#arquitetura-de-software)
-  * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
-  * [Outros](#outros)
+    * [Arquitetura de Software](#arquitetura-de-software)
+    * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
+    * [Outros](#outros)
 * [Fundamentos Matemáticos Computacionais](#fundamentos-matemáticos-computacionais)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
-  * [Backbone.js](#backbonejs)
-  * [Ember.js](#emberjs)
-  * [Express.js](#expressjs)
-  * [Grunt](#grunt)
-  * [Gulp](#gulp)
-  * [jQuery](#jquery)
-  * [Knockout.js](#knockoutjs)
-  * [Meteor](#meteor)
-  * [Node.js](#nodejs)
-  * [React](#react)
-  * [Vue.js](#vuejs)
+    * [AngularJS](#angularjs)
+    * [Backbone.js](#backbonejs)
+    * [Ember.js](#emberjs)
+    * [Express.js](#expressjs)
+    * [Grunt](#grunt)
+    * [Gulp](#gulp)
+    * [jQuery](#jquery)
+    * [Knockout.js](#knockoutjs)
+    * [Meteor](#meteor)
+    * [Node.js](#nodejs)
+    * [React](#react)
+    * [Vue.js](#vuejs)
 * [Kubernetes](#kubernetes)
 * [LaTeX](#latex)
 * [LISP](#lisp)
 * [Lua](#lua)
 * [Pascal](#pascal)
 * [PHP](#php)
-  * [Symfony](#symfony)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [R](#r)
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell / Bash Script](#shell--bash)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 
 
 ### Agnósticos
@@ -63,7 +62,7 @@
 
 * [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
 * [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
-* [Vimbook](https://vimbook.gitbook.io/vimbook) - Cássio Botaro (gitbook)
+* [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
 
 
 #### Programação
@@ -117,7 +116,7 @@
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
-* [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
+* [Programação Orientada a Objetos em C++](https://web.archive.org/web/20190124233626/http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
 
 ### Dart
@@ -143,9 +142,9 @@
 
 #### Arquitetura de Software
 
- * [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/) (PDF)
- * [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)
- * [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)
+* [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/) (PDF)
+* [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)
+* [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)
 
 
 #### Outros
@@ -182,7 +181,7 @@
 * [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Apostila de HTML](https://www.telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf) - Robertha Pereira Pedroso (PDF)
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
@@ -267,14 +266,14 @@
 
 #### Meteor
 
-* [Tudo sobre Meteor](http://udgwebdev.com/meteor/)
+* [Tudo sobre Meteor](https://udgwebdev.github.io/meteor/)
 
 
 #### Node.js
 
 * [Aplicações web real-time com Node.js](https://github.com/caio-ribeiro-pereira/livro-nodejs) - Caio Ribeiro Pereira
 * [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/) - Waldemar Neto *(necessário conta no Leanpub ou e-mail válido)*
-* [Node.js para Leigos](http://udgwebdev.com/nodejs/)
+* [Node.js para Leigos](https://udgwebdev.github.io/nodejs/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
 
 
@@ -288,7 +287,6 @@
 
 * [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](https://web.archive.org/web/20180613054310/http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
 * [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
-* [Vue.js Brasil - Artigos em Português sobre Vue.js](http://www.vuejs-brasil.com.br)
 * [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz and Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 * [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
 
@@ -328,11 +326,6 @@
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
-
-
-#### Symfony
-
-* [Symfony 5: A Trilha Rápida](https://symfony.com/doc/5.0/the-fast-track/pt_BR/index.html)
 
 
 ### Python

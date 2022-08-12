@@ -2,15 +2,17 @@
 
 * [رایانش ابری](#%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D8%B4-%D8%A7%D8%A8%D8%B1%DB%8C)
 * [مهندسی نرم‌افزار](#%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1)
-* [CSS](#css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Python](#python)
+    * [Django](#django)
 * [R](#r)
+* [Vue.js](#vuejs)
 
 
 ### رایانش ابری
@@ -30,7 +32,7 @@
 * [ترجمه آزاد کتاب کد تمیز](https://codetamiz.vercel.app) - Robert C. Martin et al.
 
 
-### CSS
+### HTML and CSS
 
 * [یادگیری پیکربندی با CSS](http://fa.learnlayout.com)
 
@@ -63,12 +65,18 @@
 
 #### Symfony
 
-* [سیمفونی ۵: سریع‌ترین مسیر](https://symfony.com/doc/current/the-fast-track/fa/index.html)
+* [سیمفونی ۵: سریع‌ترین مسیر](https://web.archive.org/web/20210122133755/https://symfony.com/doc/current/the-fast-track/fa/index.html) *(:card_file_box: archived)*
 
 
 ### Python
 
 * [کتاب آزاد آموزش پایتون](http://python.coderz.ir)
+
+
+#### Django
+
+* [کتاب جنگو برای حرفه ای ها](https://github.com/mthri/dfp-persian)
+* [کتاب جنگو برای API](https://github.com/ftg-iran/dfa-persian)
 
 
 ### R

@@ -2,14 +2,14 @@
 
 * [ClosureScript](#clojurescript)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
-  * [Bootstrap](#bootstrap)
+* [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Language Agnostic](#language-agnostic)
 * [PHP](#php)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Ruby](#ruby)
 
 
@@ -23,7 +23,7 @@
 * [Вивчити собі Хаскель на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
 
 
-### HTML / CSS
+### HTML and CSS
 
 #### Bootstrap
 

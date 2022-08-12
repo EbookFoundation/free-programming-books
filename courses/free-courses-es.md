@@ -162,7 +162,7 @@
 
 ### Programación
 
-* [Aprende Javascript](https://aprendejavascript.org) - Jonathan MirCha
+* [Aprende JavaScript](https://aprendejavascript.org) - Jonathan MirCha
 * [Clojure](https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
 * [Curso de Python gratis y con certificación](https://edutin.com/curso-de-python-4276) - Edutin
@@ -208,7 +208,7 @@
 * [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing)
 * [Aprende a programar aplicaciones móviles](https://miriadax.net/web/creando-apps-aprende-a-programar-aplicaciones-moviles-4-edicion-)
 * [CSS Básico a Avanzado](https://www.pildorasinformaticas.es/course/css-avanzado-desde-0) - Juan Díaz (Píldoras Informáticas)
-* [Curso gratuito de Javascript](https://argentinaprograma.com) - Fabricio Sodano (Argentina Programa)
+* [Curso gratuito de JavaScript](https://argentinaprograma.com) - Fabricio Sodano (Argentina Programa)
 * [Curso gratuito de Next.js y Firebase](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1VR86y4C72xMGJ8ifjBwJ6) - Miguel Ángel Durán «midudev» (YouTube)
 * [Curso JSON. De Novato a Experto](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY) - Camilo Martínez "Equimancho"
 * [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev» (YouTube)

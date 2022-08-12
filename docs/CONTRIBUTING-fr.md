@@ -18,11 +18,12 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 2. Vous n'êtes pas obligé de connaître Git : si vous avez trouvé quelque chose d'intéressant qui n'est *pas déjà dans ce repositoire*, veuillez ouvrir un [Problème](https://github.com/EbookFoundation/free-programming-books/issues) avec vos propositions de liens.
     - Si vous savez Git, Forkez le repo et envoyez vos Pull Requests (PR).
 
-3. Nous avons 5 types de listes. Choisissez le bon:
+3. Nous avons 6 types de listes. Choisissez le bon:
 
     - *Livres* : PDF, HTML, ePub, un site basé sur gitlivre.io, un repositoire Git, etc.
     - *Cours* : Un cours est un matériel d'apprentissage qui n'est pas un livre. [Ceci est un cours](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriels interactifs* : Un site Web interactif qui permet à l'utilisateur de saisir du code ou des commandes et d'évaluer le résultat (par "évaluer" nous ne voulons pas dire "noter"). par exemple : [Essayez Haskell](http://tryhaskell.org), [Essayez GitHub](http://try.github.io).
+    - *Les terrains de jeux* : Ce sont des sites Web en ligne et interactifs, des jeux ou des logiciels de bureau pour l'apprentissage de la programmation. Écrivez, compilez (ou exécutez) et partagez des morceaux de code. Les terrains de jeux vous permettent souvent de forker et de vous salir les mains en jouant avec du code.
     - *Podcasts et Screencasts* : Podcasts et screencasts.
     - *Ensembles de Problèmes et Programmation Compétitive* : Un site Web ou un logiciel qui vous permet d'évaluer vos compétences en programmation en résolvant des problèmes simples ou complexes, avec ou sans revue de code, avec ou sans comparaison des résultats avec d'autres utilisateurs.
 
@@ -35,7 +36,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 
 - assurez-vous qu'un livre est gratuit. Vérifiez si nécessaire. Cela aide les administrateurs si vous commentez dans le PR pourquoi vous pensez que le livre est gratuit.
 - nous n'acceptons pas les fichiers hébergés sur Google Drive, Dropbox, Mega, Scribd, Issuu et autres plateformes de téléchargement de fichiers similaires.
-- insérez vos liens par ordre alphabétique. Si vous voyez un lien égaré, veuillez le réorganiser et soumettre un PR
+- insérez vos liens par ordre alphabétique, comme décrit [ci-dessous](#alphabetical-order).
 - utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
     - pas de services d'hébergement de fichiers (cela inclut (mais n'est pas limité à) les liens Dropbox et Google Drive)
 - préférez toujours un lien `https` à un `http` - tant qu'ils sont sur le même domaine et servent le même contenu
@@ -133,6 +134,14 @@ Exemple:
     BIEN   : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
+### <a id="alphabetical-order"></a>Ordre alphabétique
+
+- Lorsque plusieurs titres commencent par la même lettre, organisez-les par la seconde, et ainsi de suite. Par exemple: `aa` vient avant `ab`. 
+
+- `un deux` vient avant `undeux`
+
+Si vous voyez un lien mal placé, vérifiez le message d'erreur du linter pour savoir quelles lignes doivent être échangées.
+
 
 ### Remarques
 
@@ -148,6 +157,7 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 
 - Pas de titres inventés. Nous essayons de prendre les titres des ressources elles-mêmes ; les contributeurs sont avertis de ne pas inventer de titres ou de ne pas les utiliser éditorialement si cela peut être évité. Une exception est pour les œuvres plus anciennes; s'ils présentent principalement un intérêt historique, une année entre parenthèses ajoutée au titre aide les utilisateurs à savoir s'ils présentent un intérêt.
 - Pas de titres TOUTES EN MAJUSCULES. Habituellement, la casse du titre est appropriée, mais en cas de doute, utilisez la majuscule de la source
+- N'utilisez pas d'émoticônes.
 
 
 ##### URLs

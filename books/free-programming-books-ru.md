@@ -1,11 +1,11 @@
 ### Index
 
 * [0 - Language Agnostic](#0---language-agnostic)
-  * [Облачные Вычисления](#Облачные-вычисления)
-  * [Парадигмы Программирования](#Парадигмы-программирования)
-  * [Работа c cетью](#Работа-с-сетью)
-  * [Управление конфигурациями](#Управление-конфигурациями)
-  * [Экосистема открытого исходного кода](#open-source-ecosystem)
+    * [Облачные Вычисления](#Облачные-вычисления)
+    * [Парадигмы Программирования](#Парадигмы-программирования)
+    * [Работа c cетью](#Работа-с-сетью)
+    * [Управление конфигурациями](#Управление-конфигурациями)
+    * [Экосистема открытого исходного кода](#open-source-ecosystem)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -19,24 +19,24 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
-  * [Bootstrap](#bootstrap)
+* [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
 * [Java](#java)
-  * [Android](#android)
-  * [EasyMock](#easymock)
-  * [Hibernate](#hibernate)
-  * [JDBC](#jdbc)
-  * [JUnit](#junit)
-  * [Maven](#maven)
-  * [Spring](#spring)
-  * [Swing UI](#swing-ui)
+    * [Android](#android)
+    * [EasyMock](#easymock)
+    * [Hibernate](#hibernate)
+    * [JDBC](#jdbc)
+    * [JUnit](#junit)
+    * [Maven](#maven)
+    * [Spring](#spring)
+    * [Swing UI](#swing-ui)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
-  * [jQuery](#jquery)
-  * [Node.js](#nodejs)
-  * [nuxt.js](#nuxtjs)
-  * [React](#react)
-  * [vue.js](#vuejs)
+    * [AngularJS](#angularjs)
+    * [jQuery](#jquery)
+    * [Node.js](#nodejs)
+    * [nuxt.js](#nuxtjs)
+    * [React](#react)
+    * [vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
@@ -46,30 +46,30 @@
 * [Objective-C](#objective-c)
 * [Perl](#perl)
 * [PHP](#php)
-  * [CakePHP](#cakephp)
-  * [CodeIgniter](#codeigniter)
-  * [Laravel](#laravel)
-  * [Symfony](#symfony)
+    * [CakePHP](#cakephp)
+    * [CodeIgniter](#codeigniter)
+    * [Laravel](#laravel)
+    * [Symfony](#symfony)
 * [Python](#python)
-  * [Django](#django)
-  * [Jupyter Notebook](#jupyter-notebook)
-  * [NumPy](#numpy)
-  * [Pycharm](#pycharm)
+    * [Django](#django)
+    * [Jupyter Notebook](#jupyter-notebook)
+    * [NumPy](#numpy)
+    * [Pycharm](#pycharm)
 * [R](#r)
 * [Ruby](#ruby)
-  * [RSpec](#rspec)
-  * [Ruby on Rails](#ruby-on-rails)
+    * [RSpec](#rspec)
+    * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Scala](#scala)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [Smalltalk](#smalltalk)
 * [SQL](#sql)
-  * [FirebirdSQL](#firebirdsql)
-  * [PostgreSQL](#postgresql)
+    * [FirebirdSQL](#firebirdsql)
+    * [PostgreSQL](#postgresql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [Unix](#unix)
 * [Vim](#vim)
 
@@ -100,12 +100,12 @@
 #### Парадигмы программирования
 
 * [Введение в функциональное программирование](http://funprog-ru.github.io) - John Harrison
-* [Практика функционального программирования](http://fprog.ru) - журнал
+* [Практика функционального программирования](https://www.fprog.ru) - журнал
 
 
 #### Работа с сетью
 
-* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси
+* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси (:construction: *in process*)
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 * [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)
 
@@ -202,7 +202,7 @@
 * [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
 * [Руководство по языку Go](https://metanit.com/go/tutorial) - Евгений Попов
 * [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
-* [Go в примерах](https://gobyexample.ru)
+* [Go в примерах](https://web.archive.org/web/20210727024101/https://gobyexample.ru) *(:card_file_box: archived)*
 * [Go для PHP-разработчиков](https://pahanini.gitbooks.io/golang-for-php-developers/content/) - Pavel Tetyaev (gitbook)
 * [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
 
@@ -217,7 +217,7 @@
 * [Haskell: введение в функциональное программирование](https://wiki.nsunc.com/_export/html/haskell) - В.Н. Власов
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Руководство по HTML5 и CSS3](https://metanit.com/web/html5) - Евгений Попов
 * [Справочник по HTML](http://htmlbook.ru/html) - Влад Мержевич
@@ -370,9 +370,8 @@
 
 ### Lisp
 
-* [Common Lisp Cookbook (перевод)](http://lisper.ru/wiki/Cookbook)
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
-* [Practical Common Lisp (перевод)](http://lisper.ru/pcl/) (PDF)
+* [Practical Common Lisp (перевод)](https://web.archive.org/web/20220130051228/http://lisper.ru/pcl/) (HTML) *(:card_file_box: archived)*
 
 
 ### MetaPost
@@ -450,7 +449,7 @@
 
 ### Python
 
-* [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
+* [Вглубь языка Python](https://web.archive.org/web/20170630204729/ru.diveintopython.net/toc.html) *(:card_file_box: archived)*
 * [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
 * [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - MasterGroosha
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
@@ -509,7 +508,7 @@
 #### Ruby on Rails
 
 * [Ruby on Rails по-русски](http://rusrails.ru)
-* [Ruby on Rails Tutorial. Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning) Майкл Хартл
+* [Ruby on Rails Tutorial. Изучение Rails на Примерах](https://web.archive.org/web/20181124010958/railstutorial.ru/chapters/4_0/beginning) - Майкл Хартл *(:card_file_box: archived)*
 
 
 ### Rust
@@ -595,7 +594,6 @@
 
 * [Beyond Linux From Scratch (version * [Архитектура операционной системы Unix](http://lib.ru/BACH) - Maurice J. Bach
 * [Введение в системное администрирование UNIX](http://lib.ru/unixhelp) - Мошков Максим Евгеньевич
-* [Введение в Linux. Руководство по работе](https://younglinux.info/linuxintro) - Machtelt Garrels
 * [Внутреннее устройство Ядра Linux 2.4](http://www.opennet.ru/docs/RUS/lki) - Tigran Aivazian
 * [Перевод Linux kernel and C library.](http://man-pages-ru.sourceforge.net)
 * [Программирование в Linux с нуля](http://www.opennet.ru/docs/RUS/zlp) - Nikolay N. Ivanov

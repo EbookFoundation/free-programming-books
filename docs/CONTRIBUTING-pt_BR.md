@@ -18,11 +18,12 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 2. Não é necessário saber Git: se você encontrou algo interessante que *não está presente neste repositório*, por favor abra uma [Issue](https://github.com/EbookFoundation/free-programming-books/issues) com todas as propostas de _links_.
     - Se você sabe Git, faça um _Fork_ do repositório e mande um _Pull Request (PR)_.
 
-3. Possuimos 5 tipos de listas. Escolha a mais adequada:
+3. Possuimos 6 tipos de listas. Escolha a mais adequada:
 
     - *Livros*: PDF, HTML, ePub, sites baseados no gitbook.io, um repositório Git, etc.
     - *Cursos*: Um curso é um material didático que não é um livro. [Isso é um curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriais Interativos*: Um site interativo que permite ao usuário digitar código ou comandos e computa o resulta (por "computar" não queremos dizer "avaliar"). Por exemplo: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts e Screencasts* : Podcasts e screencasts.
     - *Conjuntos de Problemas e Programação Competitiva* : Um site ou software que permite avaliar suas habilidades de programação através da resolução de problemas simples ou complexos, com ou sem revisão de código, com ou sem comparação de resultados com outros usuários.
 
@@ -35,7 +36,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 
 - certifique-se de que o livro é gratuito. Verifique múltiplas vezes se necessário. Comentar no PR por quê você acha que o livro é gratuito ajuda os administradores.
 - não aceitamos arquivos hospedados no Google Drive, Dropbox, Mega, Scribd, Issuu e outras plataformas similares de _upload_ de arquivos.
-- insira seus _links_ em ordem alfabética. Se vir um _link_ fora de ordem, por favor reordene-o e crie um PR.
+- insira seus _links_ em ordem alfabética, as described [below](#alphabetical-order).
 - use o _link_ com a fonte mais oficial (isso significa que o site do próprio autor é melhor que o site da editora, que é melhor que sites de terceiros)
     - sem serviços de hospedagem de arquivos (isso inclui (mas não se limita a) _links_ do Dropbox e Google Drive)
 - sempre prefira um _link_ `https` em vez de `http` -- desde que estejam no mesmo domínio e sirvam o mesmo conteúdo.
@@ -133,6 +134,13 @@ Exemplo:
     BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) (:construction: *em processo*)
     ```
 
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
+
 
 ### Observações
 
@@ -148,6 +156,7 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 
 - Sem títulos inventados. Tentamos utilizar os títulos dos próprios materiais; contribuidores são aconselhados a não inventar títulos ou usá-los editorialmente se possível evitar. Uma exceção é para trabalhos antigos; se forem primariamente de interesse histórico, o ano entre parênteses adicionado ao título ajuda os usuários a saber se é de seu interesse.
 - Sem título EM CAIXA ALTA. Normalmente "_title case_" é apropriado. Em caso de dúvida, use a capitalização da fonte.
+- No emojis.
 
 
 ##### URLs

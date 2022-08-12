@@ -7,7 +7,6 @@
 * [C++](#cpp)
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
-* [CSS](#css)
 * [Dart](#dart)
 * [Docker](#docker)
 * [Elm](#elm)
@@ -16,10 +15,11 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
+* [HTML and CSS](#html-and-css)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
+    * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
@@ -43,7 +43,7 @@
 * [Svelte](#svelte)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [V](#v)
 
 
@@ -93,15 +93,6 @@
 * [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
 
 
-### CSS
-
-* [CodePen](https://codepen.io)
-* [CSSdeck](https://cssdeck.com)
-* [Dabblet](https://dabblet.com)
-* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
-* [SoloLearn](https://code.sololearn.com/web#css)
-
-
 ### Dart
 
 * [DartPad](https://dartpad.dev)
@@ -144,6 +135,15 @@
 ### Haskell
 
 * [Try Haskell](https://www.tryhaskell.org)
+
+
+### HTML and CSS
+
+* [CodePen](https://codepen.io)
+* [CSSdeck](https://cssdeck.com)
+* [Dabblet](https://dabblet.com)
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+* [SoloLearn](https://code.sololearn.com/web#css)
 
 
 ### Ionic

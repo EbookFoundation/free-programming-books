@@ -18,11 +18,12 @@
 2. 你不需要會 Git：如果你發現了一些有趣的東西 *尚未出現在此 repo* 中，請開一個 [Issue](https://github.com/EbookFoundation/free-programming-books/issues) 進行主題討論。
     * 如果你已經知道 Git，請 Fork 此 repo 並提交 Pull Request (PR)。
 
-3. 這裡有五種列表，請選擇正確的一項：
+3. 這裡有六種列表，請選擇正確的一項：
 
     * *Books* ：PDF、HTML、ePub、基於 gitbook.io 的網站、Git 的 repo 等。
     * *Courses* ：課程是一種學習素材，而不是一本書 [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
     * *Interactive Tutorials* ：一個互動式網站，允許用戶輸入程式碼或指令並執行結果。例如：[Try Haskell](http://tryhaskell.org)，[Try GitHub](http://try.github.io)。
+    * *Playgrounds* : Playgrounds 是學習程式設計的線上互動式網站、遊戲或桌面軟體。你可以在上面編寫、編譯、運行或分享程式碼片段。 Playgrounds 通常允許你 fork 程式碼然後在其中盡情的編寫程式碼。
     * *Podcasts and Screencasts* ：Podcast 和影音。
     * *Problem Sets & Competitive Programming* ：一個網站或軟體，讓你透過解決簡單或複雜的問題來評估你的程式技能，可能有程式碼檢查，或與其他用戶比對结果。
 
@@ -35,7 +36,7 @@
 
 * 確保你提交的每一本書都是免費的。如有需要請 Double-check。如果你在 PR 中註明為什麼你認為這本書是免費的，這對管理員是很有幫助的。
 * 我們不接受儲存在 Google Drive、Dropbox、Mega、Scribd、Issuu 和其他類似文件上傳平台上的文件。
-* 請按照字母順序插入連結。如果你看到一個錯位的連結，請重新對他進行排序並提交一個 PR。
+* 請按照字母順序插入連結, 如 [下方敘述](#alphabetical-order).
 * 使用最權威來源的連結(意思是原作者的網站比編輯的網站好，比第三方網站好)。
     * 沒有文件託管服務(包括(但不限於) Dropbox 和 Google Drive 連結)。
 * 優先選擇使用 `https` 連結，而不是 `http` 連結 -- 只要它們位於相同的網域並提供相同的内容。
@@ -148,6 +149,14 @@
     正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *編寫中*)
     正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *翻譯中*)
     ```
+
+
+### <a id="alphabetical-order"></a>依照字母排序
+
+- 當出現多個相同字母開頭的標題時，則照第二個字母排序，以此類推。例如：`aa` 排在 `ab` 前面
+- `one two` 排在 `onetwo` 前面
+
+如果你看到錯誤的連結，請檢查 linter 的錯誤訊息來找到哪一行順序需要交換
 
 
 ### 自動化測試

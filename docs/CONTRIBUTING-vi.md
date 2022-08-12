@@ -28,11 +28,12 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](C
 2. Bạn không cần phải biết về Git: nếu bạn tìm được thứ gì đó thú vị *và chưa có trong kho lưu trữ này*, vui lòng mở một [Issue](https://github.com/EbookFoundation/free-programming-books/issues) với các đề xuất mà bạn muốn đóng góp.
     - Nếu bạn biết Git, vui lòng Fork kho lưu trữ này và gửi Pull Requests (PR).
 
-3. Chúng tôi có 5 loại tài liệu, bạn có thể chọn một trong những cái dưới đây:
+3. Chúng tôi có 6 loại tài liệu, bạn có thể chọn một trong những cái dưới đây:
 
     - *Sách* : PDF, HTML, ePub, một trang web dựa trên gitbook.io, một kho lưu trữ Git, v.v.
     - *Khóa Học* : Một khóa học là một tài liệu học tập, không phải là sách. [Đây là một khóa học](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Hướng Dẫn Trực Quan* : Một trang web cho phép người dùng lập trình hoặc chạy chương trình dựa trên kết quả và đánh giá. Ví dụ: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts và Screencasts* : Podcasts và screencasts.
     - *Bài Tập & Cuộc Thi Lập Trình* : Trang web hoặc phần mềm cho phép bạn đánh giá kỹ năng lập trình của mình bằng cách giải quyết các vấn đề đơn giản hoặc phức tạp, có hoặc không có đánh giá mã nguồn, có hoặc không so sánh kết quả với những người khác.
 
@@ -45,7 +46,7 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](C
 
 - đảm bảo rằng một cuốn sách là miễn phí. Kiểm tra kỹ nếu cần. Nó sẽ giúp cho các quản trị viên nếu bạn nhận xét trong phần PR về lý do tại sao bạn cho rằng cuốn sách là miễn phí.
 - chúng tôi không chấp nhận các tệp được lưu trữ trên Google Drive, Dropbox, Mega, Scribd, Issuu và các nền tảng tải lên tệp tương tự khác.
-- chèn các liên kết của bạn theo thứ tự bảng chữ cái. Nếu bạn thấy một liên kết bị đặt sai vị trí, vui lòng sắp xếp lại nó và gửi một PR.
+- chèn các liên kết của bạn theo thứ tự bảng chữ cái, as described [below](#alphabetical-order).
 - sử dụng liên kết với nguồn có thẩm quyền nhất (có nghĩa là trang web của tác giả tốt hơn trang web của người biên tập, tốt hơn trang web của bên thứ ba)
     - không có dịch vụ lưu trữ tệp (điều này bao gồm (nhưng không giới hạn) liên kết Dropbox và Google Drive)
 - một giao thức `https` tốt hơn giao thức `http` - miễn là chúng ở trên cùng một domain và thể hiện cùng một nội dung.
@@ -143,6 +144,13 @@ Ví dụ:
     TỐT: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
+
 
 ### Ghi Chú
 
@@ -158,6 +166,7 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 
 - Không được phát minh ra tiêu đề. Chúng tôi cố gắng lấy các tiêu đề từ chính các nguồn tài liệu đó; những người đóng góp được khuyến cáo không phát minh ra tiêu đề hoặc chỉnh sửa chúng nếu điều này có thể tránh được. Một ngoại lệ là đối với các tác phẩm cũ hơn; nếu họ chủ yếu quan tâm đến lịch sử, thêm số năm vào trong dấu ngoặc đơn nằm trong tiêu đề sẽ giúp người dùng biết liệu họ có quan tâm hay không.
 - Không sử dụng tiêu đề viết HOA TOÀN BỘ. Thông thường, viết hoa tiêu đề là phù hợp, nhưng khi không chắc chắn, hãy sử dụng chữ viết hoa từ nguồn.
+- No emojis.
 
 
 ##### Các Liên Kết

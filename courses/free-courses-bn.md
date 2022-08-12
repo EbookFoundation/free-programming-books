@@ -147,7 +147,7 @@
 
 #### Vue
 
-* [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA&list=PLHiZ4m8vCp9O5_QoMvQbOAOR5WolyZ4OS&index=7&t=1989s) - Learn with Sumit
+* [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/playlist?&list=PLHiZ4m8vCp9O5_QoMvQbOAOR5WolyZ4OS) - Learn with Sumit
 
 
 #### Svelte

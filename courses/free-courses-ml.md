@@ -11,8 +11,8 @@
     * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Node.js](#nodejs)
     * [React](#react)
-    * [NodeJS](#nodejs)
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
@@ -77,7 +77,7 @@
 * [javascript tutorial in malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdF4irCbI5BdHIEfxEdfMNqA) - Tintu Vlogger
 
 
-#### NodeJS
+#### Node.js
 
 * [Node.js Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUUKTpfCPV5Qirq-psQwY0Qq) - Yes Tech Media
 * [Node js malayalam free course](https://youtube.com/playlist?list=PLBKJGko2JEdHNBid0azo2vDTi6Vx9p63h) - Tintu Vlogger

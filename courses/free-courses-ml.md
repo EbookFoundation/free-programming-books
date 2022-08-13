@@ -2,13 +2,13 @@
 
 * [Android](#android)
 * [Bash and Shell](#bash-and-shell)
-* [Bootstrap](#bootstrap)
 * [C](#c)
 * [C++](#cpp)
 * [Data Structure](#data-structure)
 * [Flutter](#flutter)
 * [Git](#git)
 * [HTML and CSS](html-and-css)
+    * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [React](#react)
@@ -27,11 +27,6 @@
 ### Bash and Shell
 
 * [Bash Shell Scripting Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUUcV6LES8bTEHJAOlkhmOHO) - Yes Tech Media
-
-
-### Bootstrap
-
-* [BOOTSTRAP Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUWqs_HbcYngAOmpPbiccqNy) - Yes Tech Media
 
 
 ### C

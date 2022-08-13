@@ -1,10 +1,11 @@
 ### Index
 
-* [ASP.NET Core](#aspnet_core)
+* [ASP.NET Core](#aspnet-core)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [React](#react)
+* [Python](#python)
 
 
 ### ASP.NET Core
@@ -30,3 +31,11 @@
 #### React
 
 * [Fundamentals \| React JS in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2DpDyWwmAjEuicvVxx4vIYB) - Fiqri Ismail (YouTube)
+
+
+
+#### Python
+
+* [Python Programming Tutorial | Sinhala](https://youtube.com/playlist?list=PL495mke12zYC-ZUbzd1Z0Y6WteuvsMf7Z) - CodePRO LK
+* [Python Sinhala](https://youtube.com/playlist?list=PLkjV_9KOeOj_Yb7XyoUFuaEkym4qtBk5Y) - ChamiViews
+

@@ -1,7 +1,7 @@
 ### Index
 
 * [Android](#android)
-* [Bash/Shell](#bash)
+* [Bash and Shell](#bash-and-shell)
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C++](#cpp)
@@ -24,7 +24,7 @@
 * [Android App Development Tutorial Malayalam](https://youtube.com/playlist?list=PLZ78Q1BKkdA1-eMVQOiBiMtQQb_vYWnvV) - Sabith Pkc Mnr
 
 
-### Bash/Shell
+### Bash and Shell
 
 * [Bash Shell Scripting Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUUcV6LES8bTEHJAOlkhmOHO) - Yes Tech Media
 

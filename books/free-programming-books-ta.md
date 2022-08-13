@@ -1,14 +1,14 @@
 ## Index
 
-* [Big Data](#BigData)
-* [Database](#Database)
+* [Big Data](#bigdata)
+* [Database](#database)
 * [HTML and CSS](#html-and-css)
-* [JavaScript](#Javascript)
-* [Machine Learning](#MachineLearning)
-* [MySQL](#MySQL)
-* [PHP](#PHP)
-* [Ruby](#Ruby)
-* [Selenium](#Selenium)
+* [JavaScript](#javascript)
+* [Machine Learning](#machinelearning)
+* [MySQL](#mysql)
+* [PHP](#php)
+* [Ruby](#ruby)
+* [Selenium](#selenium)
 
 
 ### BigData
@@ -31,6 +31,8 @@
 ### JavaScript
 
 * [எளிய தமிழில் JavaScript](http://www.kaniyam.com/learn-javascript-in-tamil/)
+* [JavaScript in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa) - CyberDude Networks Pvt. Ltd.
+* [Javascript Full Course in Tamil - in Depth Javascript Tutorials in Tamil](https://youtube.com/playlist?list=PLpYn3LR7eQI3hjh129Bkqkw7onut28hTK) - Tamil Developer 
 
 
 ### MachineLearning
@@ -46,6 +48,7 @@
 ### PHP
 
 * [எளிய தமிழில் PHP](https://freetamilebooks.com/ebooks/learn-php-in-tamil/)
+* [PHP for beginners in Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfcq_D-sEy0pR4Sl_yipy6Jt) - Tutor Joe's Stanley
 
 
 ### Ruby

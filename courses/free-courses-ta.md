@@ -36,7 +36,7 @@
 
 * [CSS in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh) - CyberDude Networks Pvt. Ltd.
 * [HTML Course in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq) - CyberDude Networks Pvt. Ltd.
-* [Learn HTML in Tamil | HTML Tutorials in Tamil | Beginner to Advanced](https://youtube.com/playlist?list=PLpYn3LR7eQI2trAr1z1lmvYGAQfsbllY5) - Tamil Developer
+* [Learn HTML in Tamil \| HTML Tutorials in Tamil \| Beginner to Advanced](https://youtube.com/playlist?list=PLpYn3LR7eQI2trAr1z1lmvYGAQfsbllY5) - Tamil Developer
 
 
 ### Java

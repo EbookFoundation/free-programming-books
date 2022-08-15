@@ -109,8 +109,6 @@
 
 #### Bootstrap
 
-* [Bootstrap Tutorial In Hindi](https://youtu.be/vpAJ0s5S2t0) - CodeWithHarry
-* [Bootstrap Tutorial in Hindi With 2 Projects for Beginners \| Complete Bootstrap 5 Tutorial in Hindi](https://youtu.be/QE5oQh63gGE) - Tech Gun
 * [Bootstrap Tutorial for Beginners(Hindi)](https://youtube.com/playlist?list=PLgPJX9sVy92wc38jA6JtvkA4l1xmJcKKH) - CS Geeks
 
 

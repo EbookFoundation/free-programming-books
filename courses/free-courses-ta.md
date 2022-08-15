@@ -46,8 +46,8 @@
 
 ### JavaScript
 
+* [Javascript Full Course in Tamil - in Depth Javascript Tutorials in Tamil](https://youtube.com/playlist?list=PLpYn3LR7eQI3hjh129Bkqkw7onut28hTK) - Tamil Developer
 * [JavaScript in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa) - CyberDude Networks Pvt. Ltd.
-* [javascript Full Course in Tamil - in Depth Javascript Tutorials in Tamil](https://youtube.com/playlist?list=PLpYn3LR7eQI3hjh129Bkqkw7onut28hTK) - Tamil Developer
 
 
 ### PHP
@@ -58,5 +58,5 @@
 
 ### Python
 
-* [PYTHON TUTORIAL IN TAMIL](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
+* [PYTHON TUTORIAL IN TAMIL](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT

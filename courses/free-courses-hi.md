@@ -110,6 +110,7 @@
 #### Bootstrap
 
 * [Bootstrap Tutorial for Beginners(Hindi)](https://youtube.com/playlist?list=PLgPJX9sVy92wc38jA6JtvkA4l1xmJcKKH) - CS Geeks
+* [Bootstrap 3 Tutorial](https://youtube.com/playlist?list=PLjVLYmrlmjGciJ5_Ze6jDIfJpEeMYtsSe) - WsCube Tech
 
 
 ### Java

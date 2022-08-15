@@ -53,7 +53,7 @@
 ### PHP
 
 * [PHP for beginners In Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfcq_D-sEy0pR4Sl_yipy6Jt) - Tutor Joe's Stanley
-* [php Tutorial In Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfdrMitLmm8N-idlYQkSCvT9) - Tutor Joe's Stanley
+* [PHP Tutorial In Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfdrMitLmm8N-idlYQkSCvT9) - Tutor Joe's Stanley
 
 
 ### Python

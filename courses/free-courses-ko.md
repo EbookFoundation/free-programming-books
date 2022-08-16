@@ -4,7 +4,7 @@
 * [Android](#android)
 * [Arduino](#arduino)
 * [ASP.NET](#asp.net)
-* [C and C++](#c-and-cpp)
+* [C/C++](#c/c++)
 * [C#](#csharp)
 * [Circuit](#circuit)
 * [Deep Learning](#deep-learning)
@@ -41,7 +41,7 @@
 * [Windows](#windows)
 
 
-### <a id="algorithms-&-data-structures"></a>Algorithms & Data Structures
+### Algorithms & Data Structures
 
 * [실전 알고리즘 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
 * [알고리즘 강좌](https://www.youtube.com/playlist?list=PLNvbgg5to7cfAx80VeQFW1Sq1mHGfiECo) (부경대 권오흠)
@@ -69,7 +69,7 @@
 * [ASP.NET MVC 강좌](https://www.youtube.com/playlist?list=PLbPz1r_wDPhEcKDJbOBw_3h5c2gtyDicX)
 
 
-### <a id="c-and-cpp"></a>C/C++
+### C/C++
 
 * [두들낙서의 C/C++ 강좌](https://www.youtube.com/playlist?list=PLlJhQXcLQBJqywc5dweQ75GBRubzPxhAk)
 * [박정민의 C 언어본색](https://www.youtube.com/playlist?list=PL7mmuO705dG3Z4iSqwzztuPHF3YE8mlbw)
@@ -155,12 +155,12 @@
 * [AngularJS](https://www.youtube.com/playlist?list=PLs_XsVQJKaBk_JN5RctLmmVrGwEzpzqaj) - 양재동 코드랩 (YouTube)
 
 
-#### <a id="node.js"></a>Node.js
+#### Node.js
 
 * [모던 웹을 위한 Node.js 프로그래밍](https://www.youtube.com/playlist?list=PL9kzervdzKxy-c7UQgZbnZIr14DCPM87j)
 
 
-#### <a id="react.js"></a>React.js
+#### React.js
 
 * [React.js 강좌](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 * [React.js 이론부터 실전까지](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCED62ZIWCbI-6G_jcwmuFB)

@@ -8,7 +8,6 @@
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
 * [Bash / Shell](#bash--shell)
-* [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -30,6 +29,7 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -64,7 +64,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
-* [QB64](#QB64)
+* [QB64](#qb64)
 * [R](#r)
 * [Robotics](#robotics)
 * [Ruby](#ruby)
@@ -602,6 +602,7 @@
 #### Next.js
 
 * [Mastering Next.js](https://masteringnextjs.com)
+* [Next.js Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
 
 
 #### NodeJS
@@ -777,6 +778,7 @@
 ### Perl
 
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
+* [Perl Tutorial: Basics to Advanced](https://youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16) - VLSI Academy
 
 
 ### Pharo

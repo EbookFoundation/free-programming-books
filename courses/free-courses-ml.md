@@ -53,12 +53,15 @@
 ### Git
 
 * [Git Tutorial Malayalam \| Best Malayalam Git Tutorial \| Date With Git](https://youtube.com/playlist?list=PLY-ecO2csVHdLhAO6TERaMJXP8aqyWVt-) - Brototype Malayalam
+* [git malayalam tutorial github](https://youtube.com/playlist?list=PL4KwFGqvN4nsAlTIl6FcEubM2CtHW7zTC) - Debug Media
 
 
 ### HTML and CSS
 
 * [CSS Malayalam Tutorial Full Course](https://youtube.com/playlist?list=PL1JrLEBAapUVvE-oCkKD5QhGG8nb0hhZk) - Yes Tech Media
+* [css malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4ntbMZdiSS0nFXo49KZCCcdw) - Debug Media
 * [HTML Tutorial Malayalam Full](https://youtube.com/playlist?list=PL1JrLEBAapUVyMVQp6SmpytH1HPeCiNPH) - Yes Tech Media
+* [html malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4nupwUNXQs2Dn0za5a8ijVPH) - Debug Media
 
 
 #### Bootstrap
@@ -88,6 +91,7 @@
 * [React js malayalam tutorial](https://youtube.com/playlist?list=PLBKJGko2JEdG8FUKu2hUF6K7irvbT8hIM) - Tintu Vlogger
 * [React Challenge](https://youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P) - Brototype Malayalam
 * [React JS - Malayalam Tutorial - by Yes Tech Media](https://youtube.com/playlist?list=PL1JrLEBAapUX44d5zzl0hf7vX7caSCidT) - Yes Tech Media
+* [React js malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4nuKJ3bJSP-LcchabWJtPtE8) - Debug Media
 
 
 ### PHP

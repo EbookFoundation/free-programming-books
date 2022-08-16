@@ -1,13 +1,25 @@
 ### Index
 
+* [C](#c)
 * [HTML and CSS](#html-and-css)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
 
+### C
+
+* [c 語言入門](https://youtube.com/playlist?list=PLY_qIufNHc293YnIjVeEwNDuqGo8y2Emx) - Feis Studio
+
+
 ### HTML and CSS
 
 * [【尚硅谷】HTML+CSS基础教程](https://youtube.com/playlist?list=PLmOn9nNkQxJHcQxkxxZ36S9t_86QNgWvG) - 尚硅谷IT培训学校
+
+
+### Java
+
+* [java基础教程(编程就像打字 一样简单) 配套资料在第一节评论中](https://youtube.com/playlist?list=PLD3Xyx6ef38yAdTNXD7ntDlaarf8NEoZ4) - 黑马程序员
 
 
 ### Javascript 

@@ -13,6 +13,7 @@
     * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [jQuery](#jquery)
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
@@ -143,6 +144,13 @@
 * [JavaScript Tutorial for Beginners (In Hindi)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0) - Vinod Bahadur Thapa (Thapa Technical)
 * [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
+
+
+#### jQuery
+
+* [jQuery Tutorial for beginners in Hindi 2020](https://youtube.com/playlist?list=PL-6FWL4WVVWXmWe_HnPG0rBQmmJfGsTKS) - CSEtutorials
+* [jQuery Tutorial in Hindi](https://youtube.com/playlist?list=PLvQjNLQMdagPRDnMQPMs5-vQL_IyAB0St) - Teaching Web
+* [jQuery Tutorials in Hindi 2018](https://youtube.com/playlist?list=PLwGdqUZWnOp0X4dVwSsEd6dV49TLLCooI) - Thapa Technical
 
 
 #### Next.js

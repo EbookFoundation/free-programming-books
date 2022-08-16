@@ -14,6 +14,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Next.js](#nextjs)
+    * [Node.js](#nodejs)
     * [React](#react)
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
@@ -148,6 +149,11 @@
 
 * [Next.js Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG) - CodeWithHarry
 * [NextJS Tutorial In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
+
+
+#### Node.js
+
+* [NodeJS Tutorial in Hindi 2020](https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) - Thapa Technical
 
 
 #### React

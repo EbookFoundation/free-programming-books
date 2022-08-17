@@ -1,8 +1,8 @@
 ### Index
 
 * [Algorithms](#algo)
-* [Android](#Android)
-* [C](#C)
+* [Android](#android)
+* [C](#c)
 * [C++](#cpp)
 * [Data Structures](#data-structures)
 * [DevOps](#devops)

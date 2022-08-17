@@ -2,7 +2,7 @@
 
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
-* [AWK](#AWK)
+* [AWK](#awk)
 * [C](#c)
 * [C++](#cpp)
 * [Docker](#docker)
@@ -29,9 +29,9 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scratch](#scratch)
-* [Sed](#Sed)
+* [Sed](#sed)
 * [Software Engineering](#software-engineering)
-* [Springboot](#Springboot)
+* [Springboot](#springboot)
 * [Unicode](#unicode)
 
 

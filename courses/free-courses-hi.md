@@ -50,8 +50,8 @@
 ### Bash and Shell
 
 * [shell scripting complete tutorial in hindi](https://youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
-* [BASH SHELL SCRIPTING (NOOB)](https://youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe) - Noob Coders
-* [BASH BASIC COMMANDS](https://youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM) - Noob Coders
+* [Bash Shell Scripting (NOOB)](https://youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe) - Noob Coders
+* [Bash Basic Commands](https://youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM) - Noob Coders
 
 
 ### C

@@ -4,12 +4,13 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
+* [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
     * [NodeJS](#nodejs)
     * [React](#react)
     * [Vue.js](#vuejs)
 * [Python](#python)
-* [Ruby](#Ruby)
+* [Ruby](#ruby)
 * [TypeScript](#typescript)
     * [Angular](#angular)
 
@@ -34,6 +35,12 @@
 * [มาเรียนรู้ Git แบบง่ายๆกันเถอะ](https://blog.nextzy.me/มาเรียนรู้-git-แบบง่ายๆกันเถอะ-427398e62f82) - Ake Exorcist
 * [สอนใช้ Git - Version Control System](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBrgVPZySWHZwxXSxdgOKhQ-) - CMDev
 * [สอน git และ github เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX) - prasertcbs
+
+
+### HTML and CSS
+
+* [คอร์สเรียนภาษา CSS](https://youtube.com/playlist?list=PLtfWtWKHvrn8GxLV6Sws3cAZgmvUynxwz) - BARCODE
+* [ภาษา HTML](https://youtube.com/playlist?list=PLxN7ZT-opr0KPGJPlh6DhZrz0z031ZObQ) - nana สาระ
 
 
 ### JavaScript

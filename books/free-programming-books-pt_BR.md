@@ -128,7 +128,6 @@
 ### Docker
 
 * [Descomplicando o Docker](https://livro.descomplicandodocker.com.br) - Jeferson Fernando
-* [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
 
 
 ### Engenharia de Software
@@ -150,7 +149,6 @@
 #### Outros
 
 * [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
-* [Deploy em produção para desenvolvedores](https://leanpub.com/deployemprodparadevs) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
 * [Engenharia de Software Moderna](https://engsoftmoderna.info) - Marco Tulio Valente (HTML)
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
@@ -187,7 +185,6 @@
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br)
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
-* [Websites Atendendo a Requisitos de Acessibilidade e Usabilidade](https://leanpub.com/warau) - Leonelo Dell Anhol Almeida, Maria Cecília Calani Baranauskas, Vagner Figueredo de Santana (PDF) *(Leanpub account or valid email requested)*
 
 
 ### Java
@@ -280,7 +277,6 @@
 #### React
 
 * [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
-* [The Road to Learn React](https://leanpub.com/the-road-to-learn-react-portuguese) *(necessário conta no Leanpub ou e-mail válido)*
 
 
 #### Vue.js

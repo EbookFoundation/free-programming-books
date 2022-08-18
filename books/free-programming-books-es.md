@@ -11,7 +11,6 @@
 * [Android](#android)
 * [C](#c)
 * [C++](#cpp)
-* [Coffeescript](#coffeescript)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
@@ -47,7 +46,6 @@
 * [Scratch](#scratch)
 * [SQL](#sql)
 * [Subversion](#subversion)
-* [SVG](#svg)
 * [TypeScript](#typescript)
     * [Angular](#angular)
 
@@ -140,11 +138,6 @@
 * [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
 * [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) (PDF)
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) (HTML)
-
-
-### Coffeescript
-
-* [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript) - Javi Jiménez (Leanpub cuenta requerida)
 
 
 ### Ensamblador
@@ -252,9 +245,6 @@
 
 #### React
 
-* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) - Sergio Xalambrí (PDF, EPUB, MOBI; Leanpub cuenta requerida)
-* [Descubre React](https://leanpub.com/descubre-react) - Javi Jiménez (HTML, PDF, EPUB, MOBI; Leanpub cuenta requerida)
-* [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish) (PDF, EPUB, MOBI; Leanpub cuenta requerida)
 * [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
 
 
@@ -395,11 +385,6 @@
 ### Subversion
 
 * [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) (HTML)
-
-
-### SVG
-
-* [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (Leanpub cuenta requerida)
 
 
 ### TypeScript

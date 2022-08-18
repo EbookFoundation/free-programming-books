@@ -1,10 +1,12 @@
 ### Index
 
 * [Android](#android)
+* [Angular](#angular)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
+* [Deno](#deno)
 * [Emacs](#emacs)
 * [Flutter](#flutter)
 * [Git](#git)
@@ -14,15 +16,11 @@
 * [JavaScript](#javascript)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
-* [Pemrograman Fungsional](#pemrograman-fungsional)
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
 * [Python](#python)
 * [React](#react)
 * [Solidity](#solidity)
-* [TypeScript](#typescript)
-    * [Angular](#angular)
-    * [Deno](#deno)
 * [Vue](#vue)
 
 
@@ -30,6 +28,12 @@
 
 * [Android Developers Fundamental Course Concepts and Practicals (Bahasa Indonesia)](https://yukcoding.id/download-ebook-android-gratis/)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
+
+
+### Angular
+
+* [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)
+* [Tutorial Series Belajar Angular 2019](https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html) - Bewok Satu Kosong (HTML)
 
 
 ### C
@@ -45,7 +49,6 @@
 ### <a id="cpp"></a>C++
 
 * [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
-* [Koding C++ Dengan Qt](https://leanpub.com/koding-cpp-qt) *(Membutuhkan akun Leanpub atau email yang valid)*
 
 
 ### CodeIgniter
@@ -56,6 +59,11 @@
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
+
+
+### Deno
+
+* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
 
 
 ### Emacs
@@ -71,7 +79,6 @@
 ### Git
 
 * [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git)
-* [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
 * [Pro Git 2nd Edition](https://git-scm.com/book/id/v2)
 
 
@@ -86,7 +93,6 @@
 
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
-* [HTML & CSS: Buat Websitemu Sendiri ](https://leanpub.com/html-css--buat-webistemu-sendiri) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: Dalam Proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
 
@@ -121,11 +127,6 @@
 ### NoSQL
 
 * [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/pengantar-mongodb/content/)
-
-
-### Pemrograman Fungsional
-
-* [Pemrograman Fungsional untuk Rakyat Jelata dengan Scalaz](https://leanpub.com/fpmortals-id)
 
 
 ### Pemrograman Kompetitif
@@ -167,22 +168,6 @@
 ### Solidity
 
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
-
-
-### TypeScript
-
-* [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
-
-
-#### Angular
-
-* [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)
-* [Tutorial Series Belajar Angular 2019](https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html) - Bewok Satu Kosong (HTML)
-
-
-#### Deno
-
-* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
 
 
 ### Vue

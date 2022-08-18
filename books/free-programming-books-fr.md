@@ -46,7 +46,7 @@
 * [SPIP](#spip)
 * [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
-* [TEI](#TEI)
+* [TEI](#tei)
 * [Vim](#vim)
 
 

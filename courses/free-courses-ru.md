@@ -17,7 +17,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
-* [R](#R)
+* [R](#r)
 * [Ruby](#ruby)
 
 

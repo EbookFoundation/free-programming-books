@@ -108,7 +108,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Ionic](#ionic)
     * [jQuery](#jquery)
     * [meteor](#meteor)
-    * [Next.js](#next.js)
+    * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [Om](#om)
     * [React](#react)

@@ -1,14 +1,14 @@
 ## Index
 
-* [Big Data](#BigData)
-* [Database](#Database)
+* [Big Data](#bigdata)
+* [Database](#database)
 * [HTML and CSS](#html-and-css)
-* [JavaScript](#Javascript)
-* [Machine Learning](#MachineLearning)
-* [MySQL](#MySQL)
-* [PHP](#PHP)
-* [Ruby](#Ruby)
-* [Selenium](#Selenium)
+* [JavaScript](#javascript)
+* [Machine Learning](#machine-learning)
+* [MySQL](#mysql)
+* [PHP](#php)
+* [Ruby](#ruby)
+* [Selenium](#selenium)
 
 
 ### BigData

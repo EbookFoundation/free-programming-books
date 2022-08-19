@@ -3,7 +3,7 @@
 * [C](#c)
 * [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
-* [Linux](#Linux)
+* [Linux](#linux)
 * [PHP](#php)
 
 

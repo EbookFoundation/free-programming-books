@@ -1,6 +1,6 @@
 ### Index
 
-* [Algorithms & Data Structures](#algorithms-&-data-structures)
+* [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
 * [Arduino](#arduino)
 * [ASP.NET](#aspnet)

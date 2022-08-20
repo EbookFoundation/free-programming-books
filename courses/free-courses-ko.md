@@ -4,7 +4,7 @@
 * [Android](#android)
 * [Arduino](#arduino)
 * [ASP.NET](#aspnet)
-* [C/C++](#c/c++)
+* [C/C++](#cc)
 * [C#](#csharp)
 * [Circuit](#circuit)
 * [Deep Learning](#deep-learning)

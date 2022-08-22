@@ -1,12 +1,10 @@
 ### Index
 
 * [Android](#android)
-* [Angular](#angular)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
-* [Deno](#deno)
 * [Emacs](#emacs)
 * [Flutter](#flutter)
 * [Git](#git)
@@ -22,6 +20,9 @@
 * [Python](#python)
 * [React](#react)
 * [Solidity](#solidity)
+* [TypeScript](#typescript)
+    * [Angular](#angular)
+    * [Deno](#deno)
 * [Vue](#vue)
 
 
@@ -29,12 +30,6 @@
 
 * [Android Developers Fundamental Course Concepts and Practicals (Bahasa Indonesia)](https://yukcoding.id/download-ebook-android-gratis/)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
-
-
-### Angular
-
-* [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)
-* [Tutorial Series Belajar Angular 2019](https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html) - Bewok Satu Kosong (HTML)
 
 
 ### C
@@ -60,11 +55,6 @@
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
-
-
-### Deno
-
-* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
 
 
 ### Emacs
@@ -174,6 +164,19 @@
 ### Solidity
 
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
+
+
+### TypeScript
+
+#### Angular
+
+* [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)
+* [Tutorial Series Belajar Angular 2019](https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html) - Bewok Satu Kosong (HTML)
+
+
+#### Deno
+
+* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
 
 
 ### Vue

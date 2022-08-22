@@ -105,7 +105,7 @@
 
 #### Node.js
 
-* [Node.js API 한글 번역 by outsideris](http://nodejs.sideeffect.kr/docs/)
+* [Node.js API 한글 번역](http://nodejs.sideeffect.kr/docs/) - outsideris
 
 
 #### Webpack
@@ -164,7 +164,7 @@
 * [파이썬 헤엄치기](https://wikidocs.net/book/5148) - 해달 프로그래밍
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
-* [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
+* [A Byte of Python 한글 번역](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
 
 

@@ -45,7 +45,7 @@
 
 ### DB & DBMS
 
-* [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt & Nelson Eng، ترجمة أيمن طارق وعلا عباس (PDF)
+* [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt, Nelson Eng، ترجمة أيمن طارق وعلا عباس (PDF)
 
 
 ### HTML and CSS
@@ -77,7 +77,7 @@
 * [أوبنتو ببساطة](https://www.simplyubuntu.com) - Ahmed AbouZaid&rlm; (PDF)
 * [دفتر مدير دبيان](https://ar.debian-handbook.info) - Raphaël Hertzog, Roland Mas, MUHAMMET SAİT Muhammet Sait&rlm; (PDF, HTML)
 * [دليل إدارة خواديم أوبنتو 14.04](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/) - Ubuntu documentation team, Abdullatif Eymash&rlm; (PDF)
-* [سطر أوامر لينكس](https://itwadi.com/node/2765) - Willam E. Shotts, Jr، ترجمة عبد اللطيف ايمش (PDF)
+* [سطر أوامر لينكس](https://itwadi.com/node/2765) - Willam E. Shotts Jr., ترجمة عبد اللطيف ايمش (PDF)
 
 
 ### Open Source Software

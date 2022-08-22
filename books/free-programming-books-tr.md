@@ -74,7 +74,7 @@
 
 ### Güvenlik ve Gizlilik
 
-* [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin et al.
+* [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin, et al.
 
 
 ### HTML and CSS

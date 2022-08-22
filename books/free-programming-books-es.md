@@ -85,7 +85,7 @@
 * [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
 * [Base de Datos (2005)](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Mercedes Marqués (PDF)
 * [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2) - Mercedes Marqués (PDF)
-* [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - Aramburu & Sanz Blasco (PDF)
+* [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - María José Aramburu Cabo, Ismael Sanz Blasco (PDF)
 * [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos) (PDF)
 
 
@@ -119,7 +119,7 @@
 
 #### Sistemas Operativos
 
-* [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf et al (PDF)
+* [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf, et al. (PDF)
 * [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - Dr. David Luis la Red (PDF)
 
 
@@ -230,7 +230,7 @@
 
 * [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
 * [AngularJS](https://eladrodriguez.gitbooks.io/angularjs) - Elad Rodriguez (HTML) (Gitbook)
-* [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - John Papa et al. (HTML)
+* [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - John Papa, et al. (HTML)
 * [Manual de AngularJS](https://desarrolloweb.com/manuales/manual-angularjs.html) - desarrolloweb.com (HTML, PDF, EPUB, Kindle)
 
 

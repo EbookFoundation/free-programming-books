@@ -503,7 +503,7 @@
 * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md) - Xu Fei (HTML)
 * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/) - Way Lau (HTML)
 * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn) - Yan Qing, Hou Zhenyu, 速冻沙漠 (HTML) (:card_file_box: *archived*)
-* [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md) - Minko Gechev, Xuefeng Zhu, Shintaro Kaneko et al. (HTML)
+* [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md) - Minko Gechev, Xuefeng Zhu, Shintaro Kaneko, et al. (HTML)
 
 
 #### Backbone.js
@@ -763,8 +763,8 @@
 > :information_source: See also &#8230; [AngularJS](#angularjs)
 
 * [Angular 文档简介](https://angular.cn/docs) - Wang Zhicheng, Ye Zhimin, Yang Lin et al. (HTML)
-* [Angular Material 组件库](https://material.angular.cn) - Wang Zhicheng, Ye Zhimin, Yang Lin et al. (HTML)
-* [Angular Tutorial (教程：英雄之旅)](https://angular.cn/tutorial) - Wang Zhicheng, Ye Zhimin, Yang Lin et al. (HTML)
+* [Angular Material 组件库](https://material.angular.cn) - Wang Zhicheng, Ye Zhimin, Yang Lin, et al. (HTML)
+* [Angular Tutorial (教程：英雄之旅)](https://angular.cn/tutorial) - Wang Zhicheng, Ye Zhimin, Yang Lin, et al. (HTML)
 
 
 #### Deno

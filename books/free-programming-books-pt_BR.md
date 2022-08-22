@@ -60,7 +60,7 @@
 
 #### Vim
 
-* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
+* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva, et al.
 * [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
 * [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
 
@@ -68,7 +68,7 @@
 #### Programação
 
 * [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF)
-* [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari e Cristian Cechinel (PDF)
+* [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
 
 
@@ -81,7 +81,7 @@
 
 ### Android
 
-* [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+* [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 
 
 ### Arduino
@@ -99,9 +99,9 @@
 
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
-* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, Traduzido por cv8minix3 (HTML)
+* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, cv8minix3 (HTML)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
-* [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/).
+* [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/)
 * [Linguagem C - Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/) - Carmem Hara, Wagner Zola (HTML, [PDF](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf))
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
@@ -287,7 +287,7 @@
 
 * [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](https://web.archive.org/web/20180613054310/http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
 * [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
-* [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz and Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+* [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz, Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 * [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
 
 
@@ -316,7 +316,7 @@
 
 ### Pascal
 
-* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva e Daniel Weingaertner (PDF)
+* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva, Daniel Weingaertner (PDF)
 
 
 ### PHP
@@ -355,7 +355,7 @@
 ### R
 
 * [Análise Exploratória de Dados usando o R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf) - Enio Jelihovschi (PDF)
-* [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/) - Paulo Oliveira, Saulo Guerra, and Robert McDonnell (email address *requested*, not required)
+* [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/) - Paulo Oliveira, Saulo Guerra, Robert McDonnell (email address *requested*, not required)
 * [Fundamentos Estatísticos de Ciência dos Dados](https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) - Renato Assunção (PDF)
 * [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf) - Jakson Alves de Aquino (PDF)
 

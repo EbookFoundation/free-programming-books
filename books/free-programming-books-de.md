@@ -55,8 +55,7 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm) - Paul A. Carter
-* [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres,
-Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
+* [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres, Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 
 ### C
@@ -154,7 +153,7 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 ### Mathematik
 
-* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann et al. (PDF)
+* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
 
 
 ### Meta-Lists

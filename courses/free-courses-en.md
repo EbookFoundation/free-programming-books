@@ -110,7 +110,7 @@
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 * [Berkeley's CS 61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
 * [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
-* [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri and Liz Izhikevich (Stepik)
+* [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri, Liz Izhikevich (Stepik)
 * [Data Structures and Algorithms](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) - CS Dojo
 * [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Jenny's lectures CS/IT NET&JRF
 * [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Moshfegh Hamedani (Programming with Mosh)
@@ -229,7 +229,7 @@
 
 ### <a id="csharp"></a>C\#
 
-* [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
+* [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens (Microsoft)
 * [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (YouTube)
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
 * [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani (Programming with Mosh)
@@ -298,11 +298,11 @@
 * [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) - Georgia Tech (Udacity)
 * [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) (Jovian)
 * [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Facebook (Udacity)
-* [Data Cleaning by Rachael Tatman at Kaggle](https://www.kaggle.com/learn/data-cleaning)
+* [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) - Rachael Tatman (Kaggle)
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
 * [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft
 * [Data Science interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-) - Krish Naik
-* [Data Visualization by Alexis Cook at Kaggle](https://www.kaggle.com/learn/data-visualization)
+* [Data Visualization](https://www.kaggle.com/learn/data-visualization) - Alexis Cook (Kaggle)
 * [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
 * [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) - Udacity
@@ -426,7 +426,7 @@
 ### Go
 
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
-* [DevOps BootCamp](https://github.com/jeffotoni/goworkshopdevops) - Jefferson Otoni Lima et al.
+* [DevOps BootCamp](https://github.com/jeffotoni/goworkshopdevops) - Jefferson Otoni Lima, et al.
 * [Golang \| Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews
 * [Golang basics](https://www.youtube.com/playlist?list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6) - Golang dojo
 * [Golang in under an hour](https://www.youtube.com/watch?v=N0fIANJkwic) - Eli Goldberg
@@ -693,7 +693,7 @@
 * [Linux Administration Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik) - edureka!
 * [Linux Command Line](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
 * [Linux Tutorials and Projects](https://www.udemy.com/course/linux-tutorials/) - Jason Cannon (Udemy)
-* [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat, Inc. (Udemy)
+* [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat Inc. (Udemy)
 * [The Linux Basics: Beginner to Sysadmin, Step by Step](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
 
 
@@ -708,22 +708,22 @@
 * [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud065) - AWS (Udacity)
 * [Caltech's Learning From data](https://work.caltech.edu/telecourse.html)
 * [Complete Machine Learning in Python playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe) - Krish Naik (YouTube)
-* [Deep Learning Fundamentals by DeepLearning.TV](https://cognitiveclass.ai/courses/introduction-deep-learning) (cognitiveclass.ai)
+* [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning) - DeepLearning.TV (cognitiveclass.ai)
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) (Kaggle)
 * [Intro to Machine Learning Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) (Udacity)
 * [Intro to Machine Learning using Microsoft Azure](https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333) - Microsoft (Udacity)
-* [Intro to Self-Driving Cars Nanodegree](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) - Cezanne Camacho, Andrew Paster, Anthony Navarro, Tarin Ziyaee et al. (Udacity)
+* [Intro to Self-Driving Cars Nanodegree](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) - Cezanne Camacho, Andrew Paster, Anthony Navarro, Tarin Ziyaee, et al. (Udacity)
 * [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Machine Learning Tutorial Python \| Machine Learning For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) - Dhaval Patel
-* [Machine Learning with Python by Saeed Aghabozorgi](https://cognitiveclass.ai/courses/machine-learning-with-python) (cognitiveclass.ai)
+* [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Saeed Aghabozorgi (cognitiveclass.ai)
 * [Machine Learning with Python: Zero to GBMs](https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms) (Jovian)
 * [Made with ML](https://madewithml.com) - Goku Mohandas (Applied ML · MLOps · Production)
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Mathematics for Machine Learning - Multivariate Calclus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
-* [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
+* [PyTorch tutorials](https://pytorch.org/tutorials) - PyTorch.org
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 

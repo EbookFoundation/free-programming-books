@@ -1,6 +1,6 @@
 ### Index
 
-* [ASP.NET Core](#aspnet_core)
+* [ASP.NET Core](#aspnet-core)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)

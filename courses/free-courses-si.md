@@ -24,7 +24,7 @@
 
 ### JavaScript
 
-* [JavaScript Tutorial in Sinhala](https://youtube.com/playlist?list=PLYmyc7wRFoQjxkHAzHh1UIdU7ZdjTQvQt) -BestJobsLK (YouTube)
+* [JavaScript Tutorial in Sinhala](https://youtube.com/playlist?list=PLYmyc7wRFoQjxkHAzHh1UIdU7ZdjTQvQt) - BestJobsLK (YouTube)
 
 
 #### React

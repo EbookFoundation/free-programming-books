@@ -204,7 +204,7 @@
 * [Eloquente JavaScript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
-* [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos)
+* [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos/read) (HTML)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 * [You Don't Know JS: Async & Performance](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/async%20&%20performance/README.md)
 * [You Don't Know JS: ES6 & Além](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/es6%20&%20beyond/README.md)
@@ -269,7 +269,7 @@
 #### Node.js
 
 * [Aplicações web real-time com Node.js](https://github.com/caio-ribeiro-pereira/livro-nodejs) - Caio Ribeiro Pereira
-* [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/) - Waldemar Neto *(necessário conta no Leanpub ou e-mail válido)*
+* [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/read) - Waldemar Neto (HTML)
 * [Node.js para Leigos](https://udgwebdev.github.io/nodejs/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
 

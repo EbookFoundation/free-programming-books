@@ -1295,6 +1295,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
+* [The Complete Redux Book](https://leanpub.com/redux-book/read) - Boris Dinkevich and Ilya Gelman (HTML)
 
 
 #### Svelte
@@ -1418,6 +1419,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin
 * [Lisp Koans](https://github.com/google/lisp-koans)
 * [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev *(Leanpub account or valid email requested)*
+* [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp/read) - Mark Watson (HTML)
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig (PDF, EPUB, Markdown)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel

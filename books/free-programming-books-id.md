@@ -16,6 +16,7 @@
 * [JavaScript](#javascript)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
+* [Pemrograman Fungsional](#pemrograman-fungsional)
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
 * [Python](#python)
@@ -127,6 +128,11 @@
 ### NoSQL
 
 * [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/pengantar-mongodb/content/)
+
+
+### Pemrograman Fungsional
+
+* [Pemrograman Fungsional untuk Rakyat Jelata dengan Scalaz](https://leanpub.com/fpmortals-id/read) (HTML)
 
 
 ### Pemrograman Kompetitif

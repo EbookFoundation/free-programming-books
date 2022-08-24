@@ -240,7 +240,6 @@
 * [リバースエンジニアリング入門 \| Reverse Engineering for Beginners](https://beginners.re/RE4B-JA.pdf) - Dennis Yurichev, shmz, 4ryuJP (PDF)
 
 
-
 ### C
 
 * [Ｃプログラミング診断室](http://www.pro.or.jp/~fuji/mybooks/cdiag) - 藤原博文
@@ -650,8 +649,8 @@
 * [Bashのよくある間違い](https://yakst.com/ja/posts/2929) - GreyCat, @yakstcom(翻訳)
 * [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
 * [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
-* [SED 教室](https://www.gcd.org/sengoku/sedlec) - 仙石浩明
 * [PowerShell基礎文法最速マスター](http://winscript.jp/powershell/202) - 牟田口大介
+* [SED 教室](https://www.gcd.org/sengoku/sedlec) - 仙石浩明
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, Hayato Matsuura(翻訳)
 * [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me) - SUNONE
 

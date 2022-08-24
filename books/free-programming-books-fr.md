@@ -209,7 +209,7 @@
 #### TeX
 
 * [Apprendre à programmer en TeX](https://ctan.org/pkg/apprendre-a-programmer-en-tex) - Christian Tellechea
-* [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf) - Paul Abrahams, Kathryn Hargreaves, Karl Berry, Marc Chaudemanche (PDF)
+* [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf) - Paul Abrahams, Kathryn Hargreaves, Karl Berry, `trad.:` Marc Chaudemanche (PDF)
 
 
 ### Lisp
@@ -325,7 +325,7 @@
 
 ### TEI
 
-* [Qu'est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237) - Lou Burnard, Marjorie Burghart
+* [Qu'est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237) - Lou Burnard, `trad.:` Marjorie Burghart
 
 
 ### Vim

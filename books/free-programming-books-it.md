@@ -242,7 +242,7 @@
 
 * [Il manuale di riferimento di Python](http://docs.python.it/html/ref/)
 * [Il tutorial di Python](http://docs.python.it/html/tut/)
-* [Immersione in Python 3](http://gpiancastelli.altervista.org/dip3-it/) - Mark Pilgrim, Giulio Piancastelli (HTML) [(PDF)](http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip)
+* [Immersione in Python 3](http://gpiancastelli.altervista.org/dip3-it/) - Mark Pilgrim, `trad.:` Giulio Piancastelli (HTML) [(PDF)](http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip)
 * [La libreria di riferimento di Python](http://docs.python.it/html/lib/)
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
 * [Python per tutti: Esplorare dati con Python3](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub)

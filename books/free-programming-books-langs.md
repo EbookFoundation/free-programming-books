@@ -2005,7 +2005,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### QML
 
 * [Qt5 Cadaques](http://qmlbook.github.io) - Juergen Bocklage-Ryannel and Johan Thelin (HTML, PDF, ePub) (:construction: *in process*)
-* [Qt6 Book](https://www.qt.io/product/qt6/qml-book/preface-preface) - Johan Thelin, Jürgen Bocklage-Ryannel, Cyril Lorquet (HTML) [(PDF)](https://www.qt.io/hubfs/_website/QML%20Book/qt6book-with-frontpage.pdf) (:construction: *in process*)
+* [Qt6 Book](https://www.qt.io/product/qt6/qml-book/preface-preface) - Johan Thelin, Jürgen Bocklage-Ryannel, Cyril Lorquet (HTML) (:construction: *in process*)
 
 
 ### R

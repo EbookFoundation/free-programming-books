@@ -84,7 +84,7 @@
 #### Pédagogie pour enfants et adolescents
 
 * [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
-* [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten, `trad.:` Mike Fellows
+* [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten, `trl.:` Mike Fellows
 
 
 ### Ada
@@ -166,7 +166,7 @@
 
 ### Haskell
 
-* [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson, Joseph Fasel, `trad.:` Nicolas Vallée, Gnux, ggnore, fearyourself, Joyeux-oli, Kikof, khayyam90
+* [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson, Joseph Fasel, `trl.:` Nicolas Vallée, Gnux, ggnore, fearyourself, Joyeux-oli, Kikof, khayyam90
 * [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr)
 
 
@@ -209,7 +209,7 @@
 #### TeX
 
 * [Apprendre à programmer en TeX](https://ctan.org/pkg/apprendre-a-programmer-en-tex) - Christian Tellechea
-* [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf) - Paul Abrahams, Kathryn Hargreaves, Karl Berry, `trad.:` Marc Chaudemanche (PDF)
+* [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf) - Paul Abrahams, Kathryn Hargreaves, Karl Berry, `trl.:` Marc Chaudemanche (PDF)
 
 
 ### Lisp
@@ -288,7 +288,7 @@
 
 ### Rust
 
-* [Traduction du Rust book en français](https://jimskapt.github.io/rust-book-fr/) - Steve Klabnik et Carol Nichols, `trad.:` Thomas Ramirez
+* [Traduction du Rust book en français](https://jimskapt.github.io/rust-book-fr/) - Steve Klabnik et Carol Nichols, `trl.:` Thomas Ramirez
 * [Tutoriel rust](https://blog.guillaume-gomez.fr/Rust/) - Guillaume Gomez
 
 
@@ -325,7 +325,7 @@
 
 ### TEI
 
-* [Qu'est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237) - Lou Burnard, `trad.:` Marjorie Burghart
+* [Qu'est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237) - Lou Burnard, `trl.:` Marjorie Burghart
 
 
 ### Vim

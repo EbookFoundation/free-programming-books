@@ -661,7 +661,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Partial Evaluation
 
-* [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - (PDF) Neil D. Jones, C.K. Gomard, Peter Sestoft
+* [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - Neil D. Jones, C.K. Gomard, Peter Sestoft (PDF)
 
 
 ### Professional Development

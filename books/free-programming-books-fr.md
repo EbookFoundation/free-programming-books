@@ -84,7 +84,7 @@
 #### Pédagogie pour enfants et adolescents
 
 * [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
-* [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten, Mike Fellows (traduit)
+* [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten, `trad.:` Mike Fellows
 
 
 ### Ada
@@ -166,7 +166,7 @@
 
 ### Haskell
 
-* [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson, Joseph Fasel
+* [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson, Joseph Fasel, `trad.:` Nicolas Vallée, Gnux, ggnore, fearyourself, Joyeux-oli, Kikof, khayyam90
 * [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr)
 
 
@@ -288,7 +288,7 @@
 
 ### Rust
 
-* [Traduction du Rust book en français](https://jimskapt.github.io/rust-book-fr/) - Thomas Ramirez
+* [Traduction du Rust book en français](https://jimskapt.github.io/rust-book-fr/) - Steve Klabnik et Carol Nichols, `trad.:` Thomas Ramirez
 * [Tutoriel rust](https://blog.guillaume-gomez.fr/Rust/) - Guillaume Gomez
 
 

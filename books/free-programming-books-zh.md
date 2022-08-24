@@ -398,7 +398,7 @@
 * [学习Go语言](http://mikespook.com/learning-go/)
 * [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
-* [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) - Song Song Li (《[The Little Go Book](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
+* [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) - Karl Seguin, `trad.:` Song Song Li (《[The Little Go Book](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
 * [Go 命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (《The Way to Go》中文版)
 * [Go 语法树入门](https://github.com/chai2010/go-ast-book)
@@ -413,7 +413,7 @@
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
 * [Revel 框架手册](https://web.archive.org/web/20190610030938/https://gorevel.cn/docs/manual/index.html) *(:card_file_box: archived)*
-* [The Little Go Book 繁體中文翻譯版](https://github.com/kevingo/the-little-go-book) - Karl Seguin, KevinGo, Jie Peng ([HTML](https://kevingo.gitbooks.io/the-little-go-book/))
+* [The Little Go Book 繁體中文翻譯版](https://github.com/kevingo/the-little-go-book) - Karl Seguin, `trad.:` KevinGo, Jie Peng ([HTML](https://kevingo.gitbooks.io/the-little-go-book/))
 
 
 ### Groovy

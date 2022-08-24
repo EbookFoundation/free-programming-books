@@ -508,7 +508,7 @@
 
 * [Hibari アプリケーション開発者ガイド](https://hibari.github.io/hibari-doc/hibari-app-developer-guide.ja.html)
 * [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, 濱野司(翻訳) (PDF)
-* [The Little Redis Book](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, @craftgear(翻訳)
+* [The Little Redis Book](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trad.:` @craftgear(翻訳)
 
 
 ### Objective-C

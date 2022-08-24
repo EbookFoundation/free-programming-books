@@ -133,7 +133,7 @@
 
 * [Guida MongoDB](http://www.html.it/guide/guida-mongodb/?cref=system) (HTML)
 * [Guida OrientDB](http://www.html.it/guide/guida-orientdb/?cref=system) (HTML)
-* [Il piccolo libro di MongoDB](https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf) - Traduzione di N. Iarocci dall'originale di K. Seguin (PDF)
+* [Il piccolo libro di MongoDB](https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf) - Karl Seguin, `trad.:` N. Iarocci (PDF)
 * [Redis: la guida](http://www.html.it/guide/redis-la-guida/?cref=system) (HTML)
 
 
@@ -150,7 +150,7 @@
 ### Golang
 
 * [Golang](http://www.vittal.it/wp-content/uploads/2019/01/golang.pdf) - V.Albertoni (PDF)
-* [The Little Go Book](https://github.com/francescomalatesta/the-little-go-book-ita) - Karl Seguin, Francesco Malatesta ([HTML](https://github.com/francescomalatesta/the-little-go-book-ita/blob/master/it/go.md))
+* [The Little Go Book](https://github.com/francescomalatesta/the-little-go-book-ita) - Karl Seguin, `trad.:` Francesco Malatesta ([HTML](https://github.com/francescomalatesta/the-little-go-book-ita/blob/master/it/go.md))
 
 
 ### HTML and CSS

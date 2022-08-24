@@ -2,7 +2,6 @@
 
 * [Algorithmes & Structures des données](#algorithmes)
 * [APL](#apl)
-* [Shell scripting](#shell-scripting)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -17,6 +16,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Shell scripting](#shell-scripting)
 * [SQL](#sql)
 * [SysAdmin](#sysadmin)
 

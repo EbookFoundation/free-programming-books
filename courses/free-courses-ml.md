@@ -1,7 +1,6 @@
 ### Index
 
 * [Android](#android)
-* [Bash and Shell](#bash-and-shell)
 * [C](#c)
 * [C++](#cpp)
 * [Data Structure](#data-structure)
@@ -17,16 +16,12 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+* [Shell scripting](#shell-scripting)
 
 
 ### Android
 
 * [Android App Development Tutorial Malayalam](https://youtube.com/playlist?list=PLZ78Q1BKkdA1-eMVQOiBiMtQQb_vYWnvV) - Sabith Pkc Mnr
-
-
-### Bash and Shell
-
-* [Bash Shell Scripting Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUUcV6LES8bTEHJAOlkhmOHO) - Yes Tech Media
 
 
 ### C
@@ -115,3 +110,8 @@
 #### Flask
 
 * [Python Flask Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUU-HCC1f5x8YiGEMoZdGl0e) - Yes Tech Media
+
+
+### Shell scripting
+
+* [Bash Shell Scripting Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUUcV6LES8bTEHJAOlkhmOHO) - Yes Tech Media

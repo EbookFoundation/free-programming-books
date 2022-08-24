@@ -33,7 +33,7 @@
 * [Ruby](#ruby)
 * [Sass](#sass)
 * [Segurança da Informação](#segurança-da-informação)
-* [Shell](#shell)
+* [Shell scripting](#shell-scripting)
 * [Swift](#swift)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -300,7 +300,7 @@
 * [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
 
 
-### Shell
+### Shell scripting
 
 * [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
 

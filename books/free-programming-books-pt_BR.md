@@ -46,7 +46,7 @@
 * [R](#r)
 * [RegEx](#regex)
 * [Ruby](#ruby)
-* [Shell / Bash Script](#shell--bash)
+* [Shell scripting](#shell-scripting)
 * [TypeScript](#typescript)
     * [Angular](#angular)
 
@@ -372,7 +372,7 @@
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
 
 
-### Shell / Bash
+### Shell scripting
 
 * [Bash Scripting](https://meleu.gitbooks.io/bashscripting/content/) - Meleu (gitbook)
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)

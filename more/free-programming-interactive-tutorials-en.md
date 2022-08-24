@@ -2,7 +2,6 @@
 
 * [Ada](#ada)
 * [Android](#android)
-* [Bash](#bash)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -43,6 +42,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Selenium](#selenium)
+* [Shell scripting](#shell-scripting)
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Vim](#vim)
@@ -57,12 +57,6 @@
 
 * [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
 * [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
-
-
-### Bash
-
-* [Help messages will explain everything](https://explainshell.com) - explainshell
-* [Learn Shell Programming](http://www.learnshell.org) - learnshell
 
 
 ### C
@@ -368,6 +362,12 @@
 ### Selenium
 
 * [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
+
+
+### Shell scripting
+
+* [Help messages will explain everything](https://explainshell.com) - explainshell
+* [Learn Shell Programming](http://www.learnshell.org) - learnshell
 
 
 ### Solidity

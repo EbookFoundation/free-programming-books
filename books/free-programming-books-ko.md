@@ -2,7 +2,6 @@
 
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
-* [AWK](#awk)
 * [C](#c)
 * [C++](#cpp)
 * [Docker](#docker)
@@ -29,7 +28,7 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scratch](#scratch)
-* [Sed](#sed)
+* [Shell scripting](#shell-scripting)
 * [Software Engineering](#software-engineering)
 * [Springboot](#springboot)
 * [Unicode](#unicode)
@@ -44,11 +43,6 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter (PDF)
-
-
-### AWK
-
-* [AWK 스크립트](https://mug896.github.io/awk-script)
 
 
 ### C
@@ -207,8 +201,9 @@
 * [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
 
 
-### Sed
+### Shell scripting
 
+* [AWK 스크립트](https://mug896.github.io/awk-script)
 * [sed stream editor](https://mug896.github.io/sed-stream-editor)
 
 

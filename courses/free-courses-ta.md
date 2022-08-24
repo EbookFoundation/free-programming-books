@@ -1,7 +1,6 @@
 ### Index
 
 * [Android](#android)
-* [Bash and Shell](#bash-and-shell)
 * [C](#c)
 * [C++](#cpp)
 * [HTML and CSS](#html-and-css)
@@ -9,16 +8,12 @@
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
+* [Shell scripting](#shell-scripting)
 
 
 ### Android
 
 * [Android In Tamil 2019](https://youtube.com/playlist?list=PL4unWLKFsZfcGBja19mrwodNm6AyzZk2B) - Tutor Joe's Stanley
-
-
-### Bash and Shell
-
-* [Bash scripting in Tamil](https://youtube.com/playlist?list=PLgWpUXNR_WCeWiXmsYf5HUe7E4I29zTJr) - Payilagam
 
 
 ### C
@@ -60,3 +55,8 @@
 
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
+
+
+### Shell scripting
+
+* [Bash scripting in Tamil](https://youtube.com/playlist?list=PLgWpUXNR_WCeWiXmsYf5HUe7E4I29zTJr) - Payilagam

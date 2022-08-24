@@ -7,7 +7,6 @@
     * [Управление конфигурациями](#Управление-конфигурациями)
     * [Экосистема открытого исходного кода](#open-source-ecosystem)
 * [Assembly](#assembly)
-* [Bash](#bash)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -63,6 +62,7 @@
 * [Scala](#scala)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
+* [Shell scripting](#shell-scripting)
 * [Smalltalk](#smalltalk)
 * [SQL](#sql)
     * [FirebirdSQL](#firebirdsql)
@@ -126,11 +126,6 @@
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) - Андрей Столяров (PDF)
-
-
-### Bash
-
-* [Advanced Bash-Scripting Guide](http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html)
 
 
 ### C
@@ -536,6 +531,11 @@
 ### Scratch
 
 * [Креативное программирование](https://www.dropbox.com/s/qsthpk5r6gqmi6u/CreativeComputing_RUS_june2016.pdf?dl=0) (PDF)
+
+
+### Shell scripting
+
+* [Advanced Bash-Scripting Guide](http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html)
 
 
 ### Smalltalk

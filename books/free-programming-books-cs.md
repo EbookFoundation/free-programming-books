@@ -1,6 +1,5 @@
 ### Index
 
-* [Bash](#bash)
 * [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
@@ -21,15 +20,11 @@
 * [Python](#python)
     * [Django](#django)
 * [Ruby](#ruby)
+* [Shell scripting](#shell-scripting)
 * [TeX](#tex)
 * [Unity](#unity)
 * [Webdesign](#webdesign)
 * [XML](#xml)
-
-
-### Bash
-
-* [Bash očima Bohdana Milara](http://i.iinfo.cz/files/root/k/bash_ocima_bohdana_milara.pdf) (PDF)
 
 
 ### <a id="csharp"></a>C\#
@@ -146,6 +141,11 @@
 ### Ruby
 
 * [Ruby Tutoriál](http://i.iinfo.cz/files/root/k/Ruby_tutorial.pdf) (PDF)
+
+
+### Shell scripting
+
+* [Bash očima Bohdana Milara](http://i.iinfo.cz/files/root/k/bash_ocima_bohdana_milara.pdf) (PDF)
 
 
 ### TeX

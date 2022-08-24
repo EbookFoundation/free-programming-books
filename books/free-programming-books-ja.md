@@ -22,8 +22,6 @@
 * [Android](#android)
 * [AppleScript](#applescript)
 * [Assembly](#assembly)
-* [AWK](#awk)
-* [Bash](#bash)
 * [C](#c)
 * [C++](#cpp)
 * [Clojure](#clojure)
@@ -62,7 +60,6 @@
 * [Perl](#perl)
 * [PHP](#php)
     * [Symfony](#symfony)
-* [PowerShell](#powershell)
 * [Processing](#processing)
 * [Prolog](#prolog)
 * [Python](#python)
@@ -74,7 +71,7 @@
 * [Scala](#scala)
 * [Scheme](#scheme)
 * [Scratch](#scratch)
-* [sed](#sed)
+* [Shell scripting](#shell-scripting)
 * [Smalltalk](#smalltalk)
 * [SQL(実装非依存)](#sql%e5%ae%9f%e8%a3%85%e9%9d%9e%e4%be%9d%e5%ad%98)
 * [Standard ML](#standard-ml)
@@ -242,21 +239,6 @@
 
 * [リバースエンジニアリング入門 \| Reverse Engineering for Beginners](https://beginners.re/RE4B-JA.pdf) - Dennis Yurichev, shmz, 4ryuJP (PDF)
 
-
-### AWK
-
-* [AWK の第一歩](https://www.magata.net/memo/index.php?plugin=attach&pcmd=open&file=awk%A5%DE%A5%CB%A5%E5%A5%A2%A5%EB.pdf&refer=%A5%B7%A5%A7%A5%EB%A5%B3%A5%DE%A5%F3%A5%C9) - 小栗栖修 (PDF)
-* [AWK リファレンス](https://shellscript.sunone.me/awk.html) - SUNONE
-* [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
-
-
-### Bash
-
-* [BASH Programming - Introduction HOW-TO](https://linuxjf.osdn.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - Mike G, 千旦裕司(翻訳)
-* [Bash 基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - id:nattou\_curry
-* [Bashのよくある間違い](https://yakst.com/ja/posts/2929) - GreyCat, @yakstcom(翻訳)
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, Hayato Matsuura(翻訳)
-* [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me) - SUNONE
 
 
 ### C
@@ -551,12 +533,6 @@
 * [Symfony 5: ファストトラック](https://symfony.com/doc/5.0/the-fast-track/ja)
 
 
-### PowerShell
-
-* [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
-* [PowerShell基礎文法最速マスター](http://winscript.jp/powershell/202) - 牟田口大介
-
-
 ### Processing
 
 * [Processing クイックリファレンス](http://www.musashinodenpa.com/p5) - 株式会社武蔵野電波
@@ -665,9 +641,19 @@
 * [炎の型 With Scratch (ゲームプログラム入門)](https://kyorohiro.gitbooks.io/doc_scratch) - kyorohiro
 
 
-### sed
+### Shell scripting
 
+* [AWK の第一歩](https://www.magata.net/memo/index.php?plugin=attach&pcmd=open&file=awk%A5%DE%A5%CB%A5%E5%A5%A2%A5%EB.pdf&refer=%A5%B7%A5%A7%A5%EB%A5%B3%A5%DE%A5%F3%A5%C9) - 小栗栖修 (PDF)
+* [AWK リファレンス](https://shellscript.sunone.me/awk.html) - SUNONE
+* [BASH Programming - Introduction HOW-TO](https://linuxjf.osdn.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - Mike G, 千旦裕司(翻訳)
+* [Bash 基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - id:nattou\_curry
+* [Bashのよくある間違い](https://yakst.com/ja/posts/2929) - GreyCat, @yakstcom(翻訳)
+* [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
+* [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
 * [SED 教室](https://www.gcd.org/sengoku/sedlec) - 仙石浩明
+* [PowerShell基礎文法最速マスター](http://winscript.jp/powershell/202) - 牟田口大介
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, Hayato Matsuura(翻訳)
+* [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me) - SUNONE
 
 
 ### Smalltalk

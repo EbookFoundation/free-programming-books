@@ -3,7 +3,6 @@
 * [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
 * [Android](#android)
 * [Assembly](#assembly)
-* [Bash](#bash)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -22,6 +21,7 @@
 * [Python](#python)
     * [Django](#django)
 * [Ruby](#ruby)
+* [Shell scripting](#shell-scripting)
 * [SQL](#sql)
 
 
@@ -48,12 +48,6 @@
 ### Assembly
 
 * [Inżynieria wsteczna dla początkujących](https://beginners.re/RE4B-PL.pdf) - Dennis Yurichev, Kateryna Rozanova, Aleksander Mistewicz, Wiktoria Lewicka, Marcin Sokołowski (PDF)
-
-
-### Bash
-
-* [Kurs Bash'a](http://web.archive.org/web/20180129013729/http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
-* [Programowanie w Bashu czyli jak pisać skrypty w Linuksie](https://www.arturpyszczuk.pl/files/bash/bash.pdf) - Artur Pyszczuk (PDF)
 
 
 ### C
@@ -178,6 +172,12 @@
 ### Ruby
 
 * [Ruby](https://pl.wikibooks.org/wiki/Ruby) - Wikibooks
+
+
+### Shell scripting
+
+* [Kurs Bash'a](http://web.archive.org/web/20180129013729/http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
+* [Programowanie w Bashu czyli jak pisać skrypty w Linuksie](https://www.arturpyszczuk.pl/files/bash/bash.pdf) - Artur Pyszczuk (PDF)
 
 
 ### SQL

@@ -11,9 +11,9 @@
 * [LISP](#lisp)
 * [.NET](#net)
 * [PHP](#php)
-* [PowerShell](#powershell)
 * [Python](#python)
     * [Django](#django)
+* [Shell scripting](#shell-scripting)
 * [Windows Phone](#windows-phone)
 
 
@@ -100,11 +100,6 @@
 * [Webadatbázis-programozás](http://ade.web.elte.hu/wabp/index.html) - Horváth Győző, Tarcsi Ádám (HTML)
 
 
-### PowerShell
-
-* [Microsoft PowerShell 2.0](http://mek.oszk.hu/10400/10402/index.phtml) - Soós Tibor (PDF)
-
-
 ### Python
 
 * [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, ford.: Daróczy Péter (PDF)
@@ -116,6 +111,11 @@
 #### Django
 
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/hu/) (1.11) (HTML) (:construction: *in process*)
+
+
+### Shell Scripting
+
+* [Microsoft PowerShell 2.0](http://mek.oszk.hu/10400/10402/index.phtml) - Soós Tibor (PDF)
 
 
 ### Windows Phone

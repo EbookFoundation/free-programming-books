@@ -2,7 +2,7 @@
 
 * [Algorithmes & Structures des données](#algorithmes)
 * [APL](#apl)
-* [Bash / Shell](#bash--shell)
+* [Shell scripting](#shell-scripting)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -29,13 +29,6 @@
 ### APL
 
 * [Découvrez le langage APL](https://www.youtube.com/watch?v=Nxq1BUUXobM&list=PLYKQVqyrAEj_DwkVAvj7xHxr72ite69nW) - Schraf : Maths-info
-
-
-### Bash / Shell
-
-* [Apprendre à utiliser le shell Bash](https://www.pierre-giraud.com/shell-bash/) - Pierre Giraud
-* [Exercices shell scripts](https://ineumann.developpez.com/tutoriels/linux/exercices-shell/) - Idriss Neumann
-* [Quelques bonnes pratiques dans l'écriture de scripts en Bash](https://ineumann.developpez.com/tutoriels/linux/bash-bonnes-pratiques/) - Idriss Neumann
 
 
 ### C
@@ -135,6 +128,13 @@
 
 * [Apprendre Ruby](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVVJHvstDYgqTCao-e-BgA8) - Grafikart
 * [Apprendre Ruby on Rails 5.X](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWfI1B2Wv2WPgR9iOyw12zi) - Grafikart
+
+
+### Shell scripting
+
+* [Apprendre à utiliser le shell Bash](https://www.pierre-giraud.com/shell-bash/) - Pierre Giraud
+* [Exercices shell scripts](https://ineumann.developpez.com/tutoriels/linux/exercices-shell/) - Idriss Neumann
+* [Quelques bonnes pratiques dans l'écriture de scripts en Bash](https://ineumann.developpez.com/tutoriels/linux/bash-bonnes-pratiques/) - Idriss Neumann
 
 
 ### SQL

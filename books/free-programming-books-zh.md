@@ -26,7 +26,6 @@
 * [语言相关](#语言相关)
     * [Android](#android)
     * [Assembly](#assembly)
-    * [AWK](#awk)
     * [C](#c)
     * [C#](#csharp)
     * [C++](#cpp)
@@ -73,7 +72,7 @@
     * [Scala](#scala)
     * [Scheme](#scheme)
     * [Scratch](#scratch)
-    * [Shell](#shell)
+    * [Shell scripting](#shell-scripting)
     * [Swift](#swift)
     * [TypeScript](#typescript)
         * [Angular](#angular)
@@ -316,12 +315,6 @@
     * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.1](https://beginners.re/RE4B-CN-vol1.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
     * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.2](https://beginners.re/RE4B-CN-vol2.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
 * [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book/tree/master/zh) - Ending, Chai Shushan (HTML, [:package: examples](https://github.com/3dgen/cppwasm-book/tree/master/examples))
-
-
-### AWK
-
-* [awk程序设计语言](https://github.com/wuzhouhui/awk)
-* [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
 
 
 ### C
@@ -735,8 +728,10 @@
 * [创意计算课程指南](http://cccgchinese.strikingly.com)
 
 
-### Shell
+### Shell scripting
 
+* [awk程序设计语言](https://github.com/wuzhouhui/awk)
+* [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
 * [Shell 编程范例](https://tinylab.gitbooks.io/shellbook/content) - 泰晓科技
 * [Shell 编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
 * [Shell 脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)

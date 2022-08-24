@@ -3,7 +3,6 @@
 * [AJAX](#ajax)
 * [Android](#android)
 * [ASP.NET](#asp)
-* [Bash](#bash)
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#csharp)
@@ -24,6 +23,7 @@
 * [React](#react)
 * [Ruby](#ruby)
 * [Sass](#sass)
+* [Shell scripting](#shell-scripting)
 * [SQL](#sql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
@@ -54,12 +54,6 @@
 ### ASP
 
 * [Khóa học ASP.NET Core cơ bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-aspnet-core-co-ban-14.html) - TEDU
-
-
-### Bash
-
-* [Khóa học Bash Shell cơ bản cho người mới](https://nguyenvanhieu.vn/hoc-bash-shell-co-ban)
-* [Những cú pháp bash shell cơ bản](https://www.youtube.com/watch?v=xilRaF5BkKI) - Thai Minh Tuan
 
 
 ### Bootstrap
@@ -218,6 +212,12 @@
 
 * [Sass Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSWPPRE6Ib99zd5fV4YYH0Q) - Khoa Phạm
 * [Tự Học Sass](https://www.youtube.com/playlist?list=PLv6GftO355AtWld1EE7SBAH-OkKKt23Bb) - ZendVN
+
+
+### Shell scripting
+
+* [Khóa học Bash Shell cơ bản cho người mới](https://nguyenvanhieu.vn/hoc-bash-shell-co-ban)
+* [Những cú pháp bash shell cơ bản](https://www.youtube.com/watch?v=xilRaF5BkKI) - Thai Minh Tuan
 
 
 ### SQL

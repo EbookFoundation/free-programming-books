@@ -9,7 +9,6 @@
     * [Théorie des langages](#théorie-des-langages)
 * [Ada](#ada)
 * [Assembleur](#assembleur)
-* [Bash / Shell](#bash--shell)
 * [C / C++](#c--c)
 * [Caml / OCaml](#caml--ocaml)
 * [Chaîne de blocs / Blockchain](#chaîne-de-blocs--blockchain)
@@ -43,6 +42,7 @@
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
+* [Shell scripting](#shell-scripting)
 * [SPIP](#spip)
 * [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
@@ -97,12 +97,6 @@
 
 * [PC Assembly Language](https://pacman128.github.io/pcasm/) - Paul A. Carter (HTML)
 * [Reverse Engineering for Beginners](https://beginners.re/RE4B-FR.pdf) - Dennis Yurichev, Florent Besnard, Marc Remy, Baudouin Landais, Téo Dacquet (PDF)
-
-
-### Bash / Shell
-
-* [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
-* [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
 ### C / C++
@@ -305,6 +299,12 @@
 ### Scratch
 
 * [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/)
+
+
+### Shell scripting
+
+* [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
+* [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
 ### SPIP

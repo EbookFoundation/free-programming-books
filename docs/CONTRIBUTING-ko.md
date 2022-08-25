@@ -127,7 +127,7 @@
 - <a id="in_process"></a>작성중인 책:
 
     ```text
-    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) *(:construction: in process)*
     ```
 
 ### Alphabetical order

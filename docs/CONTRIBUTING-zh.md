@@ -146,8 +146,8 @@
 * <a id="in_process"></a>编写(翻译)中的书籍：
 
     ```text
-    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *编写中*)
-    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *翻译中*)
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *(:construction: 编写中)*
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *(:construction: 翻译中)*
     ```
 
 ### Alphabetical order
@@ -156,4 +156,3 @@
 - `one two` comes before `onetwo`
 
 If you see a misplaced link, check the linter error message to know which lines should be swapped.
-

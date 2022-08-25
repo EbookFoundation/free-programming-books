@@ -131,7 +131,7 @@ Exemple:
 - <a id="in_process"></a>Livres en cours :
 
     ```
-    BIEN   : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) (:construction: *in process*)
+    BIEN   : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) *(:construction: in process)*
     ```
 
 ### <a id="alphabetical-order"></a>Ordre alphabétique

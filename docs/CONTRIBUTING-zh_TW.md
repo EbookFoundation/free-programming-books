@@ -146,8 +146,8 @@
 * <a id="in_process"></a>編寫(翻譯)中的書籍：
 
     ```text
-    正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *編寫中*)
-    正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) (:construction: *翻譯中*)
+    正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) *(:construction: 編寫中)*
+    正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) *(:construction: 翻譯中)*
     ```
 
 

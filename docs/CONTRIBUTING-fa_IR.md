@@ -135,7 +135,7 @@
 * <a id="in_process"></a>کتاب‌های در دست تالیف:
 
     ```text
-    خوب: * [کتابی که عالی خواهدشد](http://example.com/book2.html) - نام نویسنده (HTML) (:construction: *in process*)
+    خوب: * [کتابی که عالی خواهدشد](http://example.com/book2.html) - نام نویسنده (HTML) *(:construction: in process)*
     ```
 
 

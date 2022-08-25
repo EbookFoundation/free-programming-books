@@ -141,7 +141,7 @@ Ví dụ:
 - <a id="in_process"></a>Sách đang trong quá trình viết:
 
     ```text
-    TỐT: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    TỐT: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) *(:construction: in process)*
     ```
 
 ### Alphabetical order

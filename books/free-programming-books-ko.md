@@ -170,7 +170,7 @@
 
 #### Django
 
-* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)
+* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) *(:construction: in process)*
 * [점프 투 장고](https://wikidocs.net/book/4223) - 박응용
 
 
@@ -198,8 +198,8 @@
 
 ### Rust
 
-* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) (:construction: *in process*)
-* [Rust by Example](https://hanbum.gitbooks.io/rustbyexample/content/) (:construction: *in process*)
+* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) *(:construction: in process)*
+* [Rust by Example](https://hanbum.gitbooks.io/rustbyexample/content/) *(:construction: in process)*
 
 
 ### Scratch

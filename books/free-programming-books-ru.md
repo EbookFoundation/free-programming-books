@@ -105,7 +105,7 @@
 
 #### Работа с сетью
 
-* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси (:construction: *in process*)
+* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси *(:construction: в процессе написания)*
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 * [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)
 
@@ -467,7 +467,7 @@
 #### Django
 
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
-* [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *в процессе написания*)
+* [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) *(:construction: в процессе написания)*
 
 
 #### Jupyter Notebook

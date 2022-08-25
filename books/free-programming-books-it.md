@@ -250,7 +250,7 @@
 
 #### Django
 
-* [Il tutorial di Django Girls](https://tutorial.djangogirls.org/it/) (1.11) (HTML) (:construction: *in process*)
+* [Il tutorial di Django Girls](https://tutorial.djangogirls.org/it/) (1.11) (HTML) *(:construction: in process)*
 
 
 ### Ruby

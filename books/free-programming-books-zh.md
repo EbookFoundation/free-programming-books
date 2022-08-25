@@ -662,26 +662,26 @@
 ### Python
 
 * [简明 Python 教程](https://web.archive.org/web/20200822010330/https://bop.mol.uno/) - Swaroop C H、沈洁元(翻译)、漠伦(翻译) *(:card_file_box: archived)*
-* [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - (内含丰富的笔记以及各类教程)
+* [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - zhang_derek *(内含丰富的笔记以及各类教程)*
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
-* [Matplotlib 3.0.3 中文文档](http://www.osgeo.cn/matplotlib/) - (Online)
-* [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) - (Online)
+* [Matplotlib 3.0.3 中文文档](http://www.osgeo.cn/matplotlib/) (Online)
+* [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) (Online)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
-* [Python 3.8.0a3中文文档](http://www.osgeo.cn/cpython/) - (目前在线最全的中文文档了，Online)
+* [Python 3.8.0a3中文文档](http://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
 * [Python 中文学习大本营](http://www.pythondoc.com)
 * [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 * [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 * [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *(:card_file_box: archived)*
-* [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
+* [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
 
 
 #### Django
 
 * [Django 1.11.6 中文文档](https://www.yiyibooks.cn/xx/Django_1.11.6/index.html)
-* [Django 2.2.1 中文文档](http://www.osgeo.cn/django/) - (这个很新，也很全，Online)
-* [Django 搭建个人博客教程 (2.1)](https://www.dusaiphoto.com/article/detail/2) - (杜赛) (HTML)
+* [Django 2.2.1 中文文档](http://www.osgeo.cn/django/) (Online) *(这个很新，也很全)*
+* [Django 搭建个人博客教程 (2.1)](https://www.dusaiphoto.com/article/detail/2) - 杜赛 (HTML)
 * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 * [Django Girls 教程 (1.11)](https://tutorial.djangogirls.org/zh/) (HTML)
 

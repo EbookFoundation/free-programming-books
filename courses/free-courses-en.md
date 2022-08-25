@@ -8,7 +8,6 @@
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
 * [Bash / Shell](#bash--shell)
-* [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -30,6 +29,7 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -64,7 +64,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
-* [QB64](#QB64)
+* [QB64](#qb64)
 * [R](#r)
 * [Robotics](#robotics)
 * [Ruby](#ruby)
@@ -216,20 +216,6 @@
 * [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://www.youtube.com/watch?v=8wMKq7HvbKw) - Julien Klepatch, EatTheBlocks (freeCodeCamp.org)
 * [CryptoZombies.io](https://cryptozombies.io) - CleverFlare, Loom Network
 * [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
-
-
-### Bootstrap
-
-* [Bootstrap 4 Quick Start: Code Modern Responsive Websites](https://www.udemy.com/course/bootstrap-4) - Brad Hussey (Udemy)
-* [Bootstrap 5 Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) - The Net Ninja
-* [Bootstrap tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V) - kudvenkat
-* [Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/course/bootstrap-4-tutorials) - Igneus Technologies (Udemy)
-* [Complete Bootstrap Crash Course \| Bootstrap 4 Tutorial](https://www.youtube.com/watch?v=ZfRn9VJzdGA) - Julio Codes
-* [Introduction to Bootstrap - A Tutorial](https://www.classcentral.com/course/edx-introduction-to-bootstrap-a-tutorial-3338) - Microsoft via edX (Class Central)
-* [Learn Bootstrap 4 for free](https://scrimba.com/learn/bootstrap4) - Neil Rowe (Scrimba)
-* [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
-* [Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course](https://www.youtube.com/watch?v=iJKCj8uAHz8) - Patrick Muriungi, freeCodeCamp (YouTube)
-* [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
 
 
 ### C
@@ -413,7 +399,7 @@
 * [Godot Wave Shooter Tutorials](https://www.youtube.com/playlist?list=PL6bQeQE-ybqAYoaWz_ZEE2X4wX6PhwCWR) - PlugWorld
 * [Make a Platform Shooter - GameMaker Studio 2](https://www.youtube.com/playlist?list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6) - HeartBeast
 * [Multiplayer Shooter Tutorials - Godot](https://www.youtube.com/playlist?list=PL6bQeQE-ybqDmGuN7Nz4ZbTAqyCMyEHQa) - PlugWorld
-* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)
+* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals) - Pluralsight Company (Unity Learn)
 * [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) (Brackeys)
 * [Unity User Manual](https://docs.unity3d.com/Manual/)
 
@@ -492,6 +478,20 @@
 * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [Web Development By Doing: HTML / CSS From Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/) - Udemy
 * [What the Flexbox](https://flexbox.io) - Wesbos
+
+
+#### Bootstrap
+
+* [Bootstrap 4 Quick Start: Code Modern Responsive Websites](https://www.udemy.com/course/bootstrap-4) - Brad Hussey (Udemy)
+* [Bootstrap 5 Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) - The Net Ninja
+* [Bootstrap tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V) - kudvenkat
+* [Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/course/bootstrap-4-tutorials) - Igneus Technologies (Udemy)
+* [Complete Bootstrap Crash Course \| Bootstrap 4 Tutorial](https://www.youtube.com/watch?v=ZfRn9VJzdGA) - Julio Codes
+* [Introduction to Bootstrap - A Tutorial](https://www.classcentral.com/course/edx-introduction-to-bootstrap-a-tutorial-3338) - Microsoft via edX (Class Central)
+* [Learn Bootstrap 4 for free](https://scrimba.com/learn/bootstrap4) - Neil Rowe (Scrimba)
+* [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
+* [Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course](https://www.youtube.com/watch?v=iJKCj8uAHz8) - Patrick Muriungi, freeCodeCamp (YouTube)
+* [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
 
 
 ### iOS
@@ -602,6 +602,7 @@
 #### Next.js
 
 * [Mastering Next.js](https://masteringnextjs.com)
+* [Next.js Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
 
 
 #### NodeJS
@@ -736,7 +737,7 @@
 ### MATLAB
 
 * [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) (coursera)
-* [Introduction to Matlab in English](https://www.youtube.com/playlist?list=PLGED90Y_uL1KLpdRmVtwfpNoYCWU9RPkK) -Mohammed Mohammed
+* [Introduction to Matlab in English](https://www.youtube.com/playlist?list=PLGED90Y_uL1KLpdRmVtwfpNoYCWU9RPkK) - Mohammed Mohammed
 * [MATLAB and Simulink Training](https://matlabacademy.mathworks.com)
 * [MATLAB Programming for Numerical Computation NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN) - Niket Kaisare NPTEL (YouTube)
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
@@ -777,6 +778,7 @@
 ### Perl
 
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
+* [Perl Tutorial: Basics to Advanced](https://youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16) - VLSI Academy
 
 
 ### Pharo
@@ -939,11 +941,11 @@
 ### Security
 
 * [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014) - Prof. Nickolai Zeldovich (MIT OpenCourseWare)
-* [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
+* [Ethical Hacking](https://www.hacker101.com/videos) - Hacker101
 * [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) - Wenke Lee, Mustaque Ahamad, Catherine Gamboa (Udacity)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
-* [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) -(Insec Techs- EH Academy)
+* [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
 
 

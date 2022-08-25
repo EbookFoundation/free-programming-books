@@ -56,7 +56,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Emacs](#emacs)
 * [Embedded Systems](#embedded-systems)
 * [Erlang](#erlang)
-* [ESP8266](#esp8266)
 * [F#](#f-sharp)
 * [Firefox OS](#firefox-os)
 * [Flutter](#flutter)
@@ -80,7 +79,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [HTTP](#http)
 * [HTTPS](#https)
 * [Icon](#icon)
-* [Idris](#idris)
 * [iOS](#ios)
 * [IoT](#iot)
 * [Isabelle/HOL](#isabellehol)
@@ -95,7 +93,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Wicket](#wicket)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
-    * [Aurelia](#aurelia)
     * [Backbone.js](#backbonejs)
     * [Booty5.js](#booty5js)
     * [D3.js](#d3js)
@@ -108,7 +105,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Ionic](#ionic)
     * [jQuery](#jquery)
     * [meteor](#meteor)
-    * [Next.js](#next.js)
+    * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [Om](#om)
     * [React](#react)
@@ -471,7 +468,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
 * [C# Programming Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)
 * [C# Smorgasbord](https://www.filipekberg.se) - Filip Ekberg (HTML) [(PDF, EPUB, MOBI)](https://www.filipekberg.se/2018/04/02/csharp-smorgasbord-free/) (2018)
-* [C# Tips](https://leanpub.com/cstips) - Jason Roberts *(Leanpub account or valid email requested)*
 * [Creating Mobile Apps with Xamarin.Forms C#](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) - Charles Petzold
 * [Daily Design Patterns](https://web.archive.org/web/20170930132000/https://www.exceptionnotfound.net/downloads/dailydesignpattern.pdf) - Matthew P Jones (PDF)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss
@@ -579,7 +575,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### CoffeeScript
 
 * [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io)
-* [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite *(Leanpub account or valid email requested)*
+* [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite 
 * [Hard Rock CoffeeScript](https://alchaplinsky.github.io/hard-rock-coffeescript/) - Alex Chaplinsky (gitbook)
 * [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/) - Alex MacCaw, David Griffiths, Satoshi Murakami, Jeremy Ashkenas
@@ -713,11 +709,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Making reliable distributed systems in the presence of software errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) - Joe Armstrong (PDF)
 * [Stuff Goes Bad: Erlang in Anger](https://www.erlang-in-anger.com) - Fred Herbert (PDF)
 * [The BEAM Book](https://blog.stenmans.org/theBeamBook) (HTML)
-
-
-### ESP8266
-
-* [Kolban's book on the ESP32 & ESP8266](https://leanpub.com/ESP8266_ESP32) *(Leanpub account or valid email requested)*
 
 
 ### F Sharp
@@ -948,11 +939,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) - Peter Shaw
 
 
-### Idris
-
-* [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti) - Boro Sitnikovski *(Leanpub account or valid email requested)*
-
-
 ### Icon
 
 * [The Implementation of the Icon Programming Language](http://www.cs.arizona.edu/icon/ibsale.htm)
@@ -1048,7 +1034,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Java Reporting
 
-* [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc) - Bruno Lowagie *(Leanpub account or valid email requested)*
 * [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
 
 
@@ -1119,7 +1104,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani (HTML)
 * [Let's Learn ES6](https://bubblin.io/cover/let-s-learn-es6-by-ryan-christiani#frontmatter) - Ryan Christiani (Superbook format)
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com) - Noel Rappin (dead link)
-* [Marionette Exposé: Learn to write modular Javascript applications using Backbone Marionette and RequireJS/AMD](https://leanpub.com/marionetteexpose) - Jack Killilea (HTML, PDF, EPUB, MOBI; Leanpub account or valid email requested)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - Mozilla Developer Network contributors (HTML)
 * [Neural Networks with JavaScript Succinctly](https://www.syncfusion.com/ebooks/neural-networks-with-javascript-succinctly) - James McCaffrey (PDF, EPUB, MOBI)
 * [Oh My JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov (HTML)
@@ -1154,20 +1138,14 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [AngularJS Style Guide for teams](https://github.com/toddmotto/angularjs-styleguide) - Todd Motto (HTML)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) - Frederik Dietz (PDF, EPUB, Kindle) (email address *requested*, not required)
 * [AngularJS Tutorial](https://docs.angularjs.org/tutorial) (HTML)
-* [AngularJS vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML, [PDF, EBOOK, Kindle](https://leanpub.com/angularjs-emberjs-compare)) (Leanpub account / email address *not required*)
+* [AngularJS vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML)
 * [Seven-Part Introduction to AngularJS](http://ngokevin.com/blog/angular-1/) - Keving Ngo (HTML, [:package: demos, open-sourced examples](https://github.com/ngokevin/angularbook))
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html) - Andy Shora (HTML)
-
-
-#### Aurelia
-
-* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) - behzad *(Leanpub account or valid email requested)*
 
 
 #### Backbone.js
 
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
-* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis *(Leanpub account or valid email requested)*
 * [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
 * [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (:construction: *in process*)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
@@ -1211,7 +1189,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Ember.js
 
-* [AngularJs vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML, [PDF, EPUB, Kindle](https://leanpub.com/angularjs-emberjs-compare)) (Leanpub account / email address *not required*)
+* [AngularJs vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML)
 * [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
 * [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 * [Ember.js - Getting started](https://guides.emberjs.com/release/)
@@ -1264,7 +1242,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
 * [Mastering Node](https://github.com/visionmedia/masteringnode) - visionmedia ([PDF](https://github.com/visionmedia/masteringnode/blob/master/book.pdf))
 * [Mixu's Node Book](http://book.mixu.net/node/)
-* [Module Patterns](https://leanpub.com/modulepatterns) - Pedro Teixeira (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 * [Node Documentation](https://nodejs.org/en/docs/)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
 * [Node.js Notes for Professionals](http://goalkicker.com/NodeJSBook) - Compiled from StackOverflow Documentation (PDF)
@@ -1307,7 +1284,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### React Native
 
-* [Programming React Native](https://leanpub.com/programming-react-native) *(Leanpub account or valid email requested)*
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF)
@@ -1319,7 +1295,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
-* [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman *(Leanpub account or valid email requested)*
+* [The Complete Redux Book](https://leanpub.com/redux-book/read) - Boris Dinkevich and Ilya Gelman (HTML)
 
 
 #### Svelte
@@ -1440,11 +1416,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
 * [Learn Lisp The Hard Way](https://github.com/LispTO/llthw) - Colin J.E. Lupton
 * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/) - D. Hoyte
-* [Lisp for the Web](https://leanpub.com/lispweb) - Adam Tornhill (PDF, EPUB, MOBI) *(Leanpub account or valid email requested)*
 * [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin
 * [Lisp Koans](https://github.com/google/lisp-koans)
 * [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev *(Leanpub account or valid email requested)*
-* [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp) - Mark Watson (PDF, EPUB, MOBI) *(Leanpub account or valid email requested)*
+* [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp/read) - Mark Watson (HTML)
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig (PDF, EPUB, Markdown)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
@@ -1734,12 +1709,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Laravel
 
 * [100 (and counting) Laravel Quick Tips](https://laraveldaily.com/wp-content/uploads/2020/04/laravel-tips-2020-04.pdf) - Povilas Korop / LaravelDaily Team (PDF)
-* [Laravel 5.x Official Documentation. Synced Daily](https://leanpub.com/laravel-5) *(Leanpub account or valid email requested)*
 * [Laravel Best Practices](http://www.laravelbestpractices.com)
 * [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
 * [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
 * [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
-* [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) - Jeffrey Madsen *(Leanpub account or valid email requested)*
 
 
 #### Symfony
@@ -1774,10 +1747,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### PowerShell
 
-* [A Unix Person's Guide to PowerShell](https://leanpub.com/aunixpersonsguidetopowershell) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
-* [Creating HTML Reports in PowerShell](https://leanpub.com/creatinghtmlreportsinwindowspowershell) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
-* [DevOps: The Ops Perspective](https://leanpub.com/devopstheopsperspective) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
-* [Ditch Excel: Making Historical & Trend Reports in PowerShell](https://leanpub.com/ditchexcelmakinghistoricalandtrendreportsinpowershell) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
+* [A Unix Person's Guide to PowerShell](https://leanpub.com/aunixpersonsguidetopowershell/read) - The DevOps Collective, Inc. (HTML)
+* [Creating HTML Reports in PowerShell](https://leanpub.com/creatinghtmlreportsinwindowspowershell/read) - The DevOps Collective, Inc. (HTML)
+* [DevOps: The Ops Perspective](https://leanpub.com/devopstheopsperspective/read) - The DevOps Collective, Inc. (HTML)
+* [Ditch Excel: Making Historical & Trend Reports in PowerShell](https://leanpub.com/ditchexcelmakinghistoricalandtrendreportsinpowershell/read) - The DevOps Collective, Inc. (HTML)
 * [Layman’s Guide to PowerShell 2.0 remoting](https://ravichaganti.com/ebooks/AlaymansguidetoPowerShell2remotingv2.pdf) (PDF)
 * [Learn PowerShell Core 6.0](https://www.packtpub.com/free-ebooks/learn-powershell-core-60) - David das Neves, Jan-Hendrik Peters (Packt account *required*)
 * [Learn PowerShell in Y Minutes](https://learnxinyminutes.com/docs/powershell/)
@@ -1786,14 +1759,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 * [PowerShell Notes for Professionals](http://goalkicker.com/PowerShellBook/) - Compiled from StackOverflow documentation (PDF)
 * [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) (email address *requested*, not required)
-* [PowerShell Tips to Write By](https://leanpub.com/powershelltips) - Adam Bertram *(Leanpub account or valid email requested)* (:construction: *in process*)
-* [Secrets of PowerShell Remoting](https://leanpub.com/secretsofpowershellremoting) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
-* [The Big Book of PowerShell Error Handling](https://leanpub.com/thebigbookofpowershellerrorhandling) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
-* [The Big Book of PowerShell Gotchas](https://leanpub.com/thebigbookofpowershellgotchas) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
-* [The Monad Manifesto - Annotated](https://leanpub.com/themonadmanifestoannotated) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
-* [The PowerShell + DevOps Global Summit Manual for Summiteers](https://leanpub.com/windowspowershellnetworkingguide) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
-* [Why PowerShell?](https://leanpub.com/whypowershell) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
-* [Windows PowerShell Networking Guide](https://leanpub.com/windowspowershellnetworkingguide) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
+* [Secrets of PowerShell Remoting](https://leanpub.com/secretsofpowershellremoting/read) - The DevOps Collective, Inc. (HTML)
+* [The Big Book of PowerShell Error Handling](https://leanpub.com/thebigbookofpowershellerrorhandling/read) - The DevOps Collective, Inc. (HTML)
+* [The Big Book of PowerShell Gotchas](https://leanpub.com/thebigbookofpowershellgotchas/read) - The DevOps Collective, Inc. (HTML)
+* [The Monad Manifesto - Annotated](https://leanpub.com/themonadmanifestoannotated/read) - The DevOps Collective, Inc. (HTML)
+* [The PowerShell + DevOps Global Summit Manual for Summiteers](https://leanpub.com/windowspowershellnetworkingguide/read) - The DevOps Collective, Inc. (HTML)
+* [Why PowerShell?](https://leanpub.com/whypowershell/read) - The DevOps Collective, Inc. (HTML)
+* [Windows PowerShell Networking Guide](https://leanpub.com/windowspowershellnetworkingguide/read) - The DevOps Collective, Inc. (HTML)
 
 
 ### Processing
@@ -1876,7 +1848,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [How to Think Like a Computer Scientist: Learning with Python 1st Edition](https://greenteapress.com/wp/learning-with-python/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4) (HTML, PDF)
     * [How to Think Like a Computer Scientist: Learning with Python 2nd Edition](https://openbookproject.net/thinkcs/python/english2e/) - Jeffrey Elkner, Allen B. Downey, and Chris Meyers (Using Python 2.x)
     * [How to Think Like a Computer Scientist: Learning with Python 3 (RLE)](https://openbookproject.net/thinkcs/python/english3e/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers [(PDF)](https://www.ict.ru.ac.za/Resources/cspw/thinkcspy3/thinkcspy3.pdf)
-* [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine) - Obi Ike-Nwosu (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
+* [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read) - Obi Ike-Nwosu (HTML)
 * [Intermediate Python](https://book.pythontips.com/en/latest/) - Muhammad Yasoob Ullah Khalid (1st edition)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
     * [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
@@ -2005,19 +1977,18 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### QML
 
 * [Qt5 Cadaques](http://qmlbook.github.io) - Juergen Bocklage-Ryannel and Johan Thelin (HTML, PDF, ePub) (:construction: *in process*)
+* [Qt6 Book](https://www.qt.io/product/qt6/qml-book/preface-preface) - Johan Thelin, Jürgen Bocklage-Ryannel, Cyril Lorquet (HTML, PDF) (:construction: *in process*)
 
 
 ### R
 
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
-* [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) -David M. Smith and William N. Venables
+* [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) - David M. Smith and William N. Venables
 * [An Introduction to Statistical Learning with Applications in R](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (PDF)
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) - Yihui Xie, Amber Thomas, Alison Presmanes Hill
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - Rafael A. Irizarry
-* [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences) - Rafael A Irizarry, Michael I Love *(Leanpub account or valid email requested)*
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) - Colin Gillespie, Robin Lovelace
-* [Exploratory Data Analysis with R](https://leanpub.com/exdata) - Roger D. Peng *(Leanpub account or valid email requested)*
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman and George Athanasopoulos
 * [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman and Hadley Wickham
 * [Introduction to Probability and Statistics Using R](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
@@ -2031,7 +2002,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [R Packages](http://r-pkgs.had.co.nz) - Hadley Wickham
 * [R Practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R Programming](https://en.wikibooks.org/wiki/R_Programming) - Wikibooks
-* [R Programming for Data Science](https://leanpub.com/rprogramming) - Roger D. Peng *(Leanpub account or valid email requested)*
 * [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html) - Salvatore S. Mangiafico
 * [The caret Package](http://topepo.github.io/caret/index.html) - Max Kuhn
@@ -2120,7 +2090,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Api on Rails 6](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
 * [Building REST APIs with Rails](https://www.softcover.io/read/06acc071/api_on_rails) - Abraham Kuri Vargas
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
-* [Learn Ruby on Rails: Book One](https://leanpub.com/learnrubyonrails) - Daniel Kehoe (PDF, EPUB) *(Leanpub account or valid email requested)*
 * [Objects on Rails](https://web.archive.org/web/20190319201525/http://objectsonrails.com/) - Avdi Grimm
 * [Rails Girls Guides](http://guides.railsgirls.com)
 * [Ruby Notes for Professionals](https://books.goalkicker.com/RubyBook/) - Compiled from StackOverflow Documentation (PDF)
@@ -2452,7 +2421,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) - Steve Losh
-* [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro) - Tim Ottinger *(Leanpub account or valid email requested)*
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
 * [VIM-GALORE - All things Vim!](https://github.com/mhinz/vim-galore#readme) (HTML)
 * [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) (PDF)

@@ -37,7 +37,7 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](C
     - *Podcasts và Screencasts* : Podcasts và screencasts.
     - *Bài Tập & Cuộc Thi Lập Trình* : Trang web hoặc phần mềm cho phép bạn đánh giá kỹ năng lập trình của mình bằng cách giải quyết các vấn đề đơn giản hoặc phức tạp, có hoặc không có đánh giá mã nguồn, có hoặc không so sánh kết quả với những người khác.
 
-4. Đảm bảo tuân thủ theo [những nguyên tắc bên dưới](#Những Nguyên Tắc) và đảm bảo sử dụng đúng [định dạng Markdown](#Định Dạng).
+4. Đảm bảo tuân thủ theo [những nguyên tắc bên dưới](#Những-Nguyên-Tắc) và đảm bảo sử dụng đúng [định dạng Markdown](#Định-Dạng).
 
 5. GitHub Actions sẽ chạy các test để đảm bảo **danh sách của bạn được sắp xếp theo thứ tự bảng chữ cái** và các **nguyên tắc định dạng được tuân thủ**. **Kiểm tra để đảm bảo** các thay đổi của bạn có vượt qua các bài test.
 

@@ -10,18 +10,20 @@
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
+    * [Tailwind](#tailwind)
 * [IDE and Editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
     * [Node.js](#nodejs)
     * [React](#react)
+    * [Svelte](#svelte)
+    * [Vue](#vue)
 * [Kotlin](#kotlin)
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
-* [Svelte](#svelte)
 * [TypeScript](#typescript)
 
 
@@ -92,6 +94,11 @@
 * [Bootstrap 5 and 4 Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG) - Anisul Islam
 
 
+#### Tailwind
+
+* [Tailwind CSS Bangla Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2) - Learn with Sumit
+
+
 ### IDE and Editors
 
 * [VSCode Complete Tutorial Series \| VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
@@ -138,6 +145,16 @@
 * [React JS Tutorial Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) - Sumit Saha (Learn with Sumit)
 
 
+#### Svelte
+
+* [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner
+
+
+#### Vue
+
+* [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
+
+
 ### Kotlin
 
 * [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
@@ -166,16 +183,13 @@
 
 ### Python
 
+* [Bangla Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PLlBKlxyCgmsCYJLq9qc5QzaU-oBFJN79B) - Niamul Hasan (StartBit)
 * [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
-
-
-### Svelte
-
-* [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner
+* [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
 
 
 ### TypeScript
 
-* [TypeScript Bangla ( বাংলা ) Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3) - Learn with Sumit - LWS - Bangladesh
+* [TypeScript Bangla ( বাংলা ) Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3) - Learn with Sumit
 * [typescript full course in bangla](https://youtube.com/playlist?list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq) - Anisul Islam

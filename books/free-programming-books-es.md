@@ -11,7 +11,6 @@
 * [Android](#android)
 * [C](#c)
 * [C++](#cpp)
-* [Coffeescript](#coffeescript)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
@@ -47,7 +46,6 @@
 * [Scratch](#scratch)
 * [SQL](#sql)
 * [Subversion](#subversion)
-* [SVG](#svg)
 * [TypeScript](#typescript)
     * [Angular](#angular)
 
@@ -142,11 +140,6 @@
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) (HTML)
 
 
-### Coffeescript
-
-* [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript) - Javi Jiménez (Leanpub cuenta requerida)
-
-
 ### Ensamblador
 
 * [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A.Carter (PDF)
@@ -186,7 +179,7 @@
 ### HTML and CSS
 
 * [99 tips para Web Development](https://fmontes.gumroad.com/l/99tips) - Freddy Montes (PDF) (se solicita email)
-* [CSS avanzado](http://librosweb.es/libro/css_avanzado) Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
+* [CSS avanzado](http://librosweb.es/libro/css_avanzado) - Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
 * [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado) (PDF)
 * [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) (HTML)
 * [El gran libro del diseño web](https://freeditorial.com/es/books/el-gran-libro-del-diseno-web) - Rither Cobeña C [(PDF, EPUB)]
@@ -199,7 +192,7 @@
 ### Java
 
 * [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) (PDF)
-* [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) -David Pérez Cabrera (PDF)
+* [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) - David Pérez Cabrera (PDF)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) (PDF)
 * [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - F.M. Pérez Montes (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java (2004)](https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
@@ -252,9 +245,7 @@
 
 #### React
 
-* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) - Sergio Xalambrí (PDF, EPUB, MOBI; Leanpub cuenta requerida)
-* [Descubre React](https://leanpub.com/descubre-react) - Javi Jiménez (HTML, PDF, EPUB, MOBI; Leanpub cuenta requerida)
-* [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish) (PDF, EPUB, MOBI; Leanpub cuenta requerida)
+* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux/read) - Sergio Xalambrí (HTML)
 * [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
 
 
@@ -395,11 +386,6 @@
 ### Subversion
 
 * [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) (HTML)
-
-
-### SVG
-
-* [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (Leanpub cuenta requerida)
 
 
 ### TypeScript

@@ -140,6 +140,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Neo4J](#neo4j)
 * [.NET Core / .NET](#net-core)
 * [.NET Framework](#net-framework)
+* [NewSQL](#newsql)
 * [Nim](#nim)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)

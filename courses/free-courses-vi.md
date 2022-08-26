@@ -15,6 +15,7 @@
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
     * [jQuery](#jquery)
+    * [Vue.js](#vuejs)
 * [Machine-Learning](#machine-learning)
 * [MongoDB](#mongodb)
 * [NodeJS](#nodejs)
@@ -29,7 +30,6 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [Unity](#unity)
-* [Vue](#vue)
 * [Wordpress](#wordpress)
 * [Xcode](#xcode)
 * [XML](#xml)
@@ -152,6 +152,13 @@
 * [jQuery Cơ bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm) - TEDU
 
 
+#### Vue.js
+
+* [Học Vue js trong một video duy nhất](https://www.youtube.com/watch?v=j97QtHf0CHY) - Lập trình viên TV (Bùi Văn Nguyện)
+* [Lập trình VueJS](https://www.youtube.com/playlist?list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf) - ZendVN - Học Lập Trình Online
+* [Vue JS cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
+
+
 ### Machine-Learning
 
 * [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp (:construction: *in process*)
@@ -265,13 +272,6 @@
 * [Học Lập Trình Game Unity3D - Game Sprider Cave](https://www.youtube.com/playlist?list=PLzrVYRai0riT-fZ_Wgi_NrELvqzbASetQ) - Khoa Phạm
 * [Học Lập Trình Game Unity3D - Zombie Hunter](https://www.youtube.com/playlist?list=PL33lvabfss1zGxMf1P-ReSoOoFN7L_jo0) - K team
 * [Lập Trình Game 2D Trên Unity3D](https://www.youtube.com/playlist?list=PLl-dkipSQUGcQQgvh9j8a75Sz4zx9vWo8) - U DEV
-
-
-### Vue
-
-* [Học Vue js trong một video duy nhất](https://www.youtube.com/watch?v=j97QtHf0CHY) - Lập trình viên TV (Bùi Văn Nguyện)
-* [Lập trình VueJS](https://www.youtube.com/playlist?list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf) - ZendVN - Học Lập Trình Online
-* [Vue JS cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
 
 
 ### Wordpress

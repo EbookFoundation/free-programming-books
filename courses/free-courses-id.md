@@ -20,7 +20,7 @@
 * [JavaScript](#javascript)
     * [Node](#node)
     * [React](#react)
-    * [Vue](#vue)
+    * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -229,7 +229,7 @@
 * [Tutorial React Native Indonesia](https://youtube.com/playlist?list=PLU4DS8KR-LJ3SP3PpRb870UoT_0_rjLpV) - Prawito Hudoro (YouTube)
 
 
-#### Vue
+#### Vue.js
 
 * [Tutorial Vue JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ) - Sekolah Koding
 * [Tutorial Vuejs Bahasa Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-Z6Gt8uO1XMp4oyMlE3gml) - Baledemy

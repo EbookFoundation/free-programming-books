@@ -9,6 +9,7 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Vue.js](#vuejs)
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Python](#python)
@@ -75,7 +76,7 @@
 * [Programowanie w JavaScript od podstaw w 1 miesiąc](https://www.youtube.com/playlist?list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS)
 
 
-#### Vue
+#### Vue.js
 
 * [FrontAndBack.pl - Kurs Vue w praktyce](https://frontandback.pl/tags/kurs-vue-w-praktyce/)
 

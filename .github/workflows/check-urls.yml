@@ -1,5 +1,9 @@
 name: Check URLs from changed files
-on: [push, pull_request]
+
+on:
+  push:
+  pull_request:
+
 jobs:
   job:
     runs-on: ubuntu-latest

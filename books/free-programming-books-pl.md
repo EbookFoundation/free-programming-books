@@ -27,6 +27,7 @@
 
 ### 0 - Niezależne od języka programowania
 
+* [Algorytmy](https://mateuszrus.pl/category/algorytmy/) - Mateusz Rus
 * [Git](https://pl.wikibooks.org/wiki/Git) - Wikibooks
 * [Interaktywna platforma do nauki programowania](http://apki.org)
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS) - Wikibooks

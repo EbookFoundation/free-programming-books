@@ -99,11 +99,11 @@
 
 ### Python
 
-* [Kurs Python 3 by MR](https://mateuszrus.pl/category/kursy/kurs-python/) Mateusz Rus - blog Programowanie z pasją (mateuszrus.pl)
 * [Kurs online Python dla początkujących](https://www.flynerd.pl/tag/python-kurs) - Małgorzata Łyczywek AKA Rita (HTML)
 * [Kurs Python](https://www.youtube.com/playlist?list=PL3yDCQ6GKeEyBOF0gZyBvihDv6n0GNsdm)
 * [Kurs Python - Darmowy Po Polsku](https://www.youtube.com/playlist?list=PL_dDQ_G9rdI6dQsDkwqSQyAeXY3uUrWzp)
 * [Kurs Python 3](https://www.youtube.com/playlist?list=PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH)
+* [Kurs Python 3 by MR](https://mateuszrus.pl/category/kursy/kurs-python/) Mateusz Rus - blog Programowanie z pasją (mateuszrus.pl)
 * [Python 3 - Kurs wideo](https://www.youtube.com/playlist?list=PLbOPmSDkHx2pCboufcEKkinpUuramshmr)
 * [Raspberry Pi kurs od podstaw](https://forbot.pl/blog/kurs-raspberry-pi-od-podstaw-wstep-spis-tresci-id23139) - Piotr Bugalski (FORBOT.pl)
 

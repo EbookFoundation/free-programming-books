@@ -45,7 +45,6 @@
 ### <a id="cpp"></a>C++
 
 * [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
-* [Koding C++ Dengan Qt](https://leanpub.com/koding-cpp-qt) *(Membutuhkan akun Leanpub atau email yang valid)*
 
 
 ### CodeIgniter
@@ -71,7 +70,6 @@
 ### Git
 
 * [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git)
-* [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
 * [Pro Git 2nd Edition](https://git-scm.com/book/id/v2)
 
 
@@ -86,7 +84,6 @@
 
 * [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
-* [HTML & CSS: Buat Websitemu Sendiri ](https://leanpub.com/html-css--buat-webistemu-sendiri) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: Dalam Proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
 
@@ -125,7 +122,7 @@
 
 ### Pemrograman Fungsional
 
-* [Pemrograman Fungsional untuk Rakyat Jelata dengan Scalaz](https://leanpub.com/fpmortals-id)
+* [Pemrograman Fungsional untuk Rakyat Jelata dengan Scalaz](https://leanpub.com/fpmortals-id/read) (HTML)
 
 
 ### Pemrograman Kompetitif
@@ -170,9 +167,6 @@
 
 
 ### TypeScript
-
-* [Belajar TypeScript](https://leanpub.com/belajar-typescript) *(Membutuhkan akun Leanpub atau email yang valid)*
-
 
 #### Angular
 

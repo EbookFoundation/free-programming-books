@@ -26,8 +26,9 @@ jobs:
       - run: |
           for i in ${{ steps.file_changes.outputs.files_modified }}; do
             echo;
-            echo "processing $i";
+            echo "::group::Processing file... $i"
             awesome_bot $i --allow-redirect --allow-dupe --allow-ssl || true;
+            echo "::endgroup::"
           done
 
       - uses: actions/upload-artifact@v3

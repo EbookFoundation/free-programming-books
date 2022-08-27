@@ -109,6 +109,7 @@
 
 ### Git
 
+* [8 Easy Steps to Set Up Multiple GitHub Accounts \[cheat sheet included\]](https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/) - Thomas Segura, GitGuardian (online, [PDF](https://res.cloudinary.com/da8kiytlc/image/upload/v1647871440/Cheatsheets/GitGuardian_GitHub_Accounts_Cheatsheet.pdf))
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
 * [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) - GitLab (PDF)
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)

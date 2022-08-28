@@ -1,7 +1,12 @@
 name: Check URLs from changed files
 on: [push, pull_request]
+permissions:
+  contents: read
 jobs:
   job:
+    permissions:
+      # Needed for the 'trilom/file-changes-action' action
+      pull-requests: read
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

@@ -63,3 +63,23 @@ jobs:
         with:
           name: awesomebot-results
           path: ${{ github.workspace }}/ab-results-*.json
+
+      - name: Generate Summary Report from AwesomeBot results
+        run: |
+          "### Report of Checked URLs!"     >> $env:GITHUB_STEP_SUMMARY
+          "`n`n<div align=`"right`" markdown=`"1`">`n`n_Link issues :rocket: powered by [``awesome_bot``](https://github.com/dkhamsing/awesome_bot)_.`n`n</div>"     >> $env:GITHUB_STEP_SUMMARY
+
+          "${{ steps.changed-files.outputs.all_changed_files }}" -split " " | ForEach {
+            $file = "${{ github.workspace }}/ab-results-" + ($_ -replace "[/\\]","-") + "-markdown-table.json"
+            $json = Get-Content $file | ConvertFrom-Json
+
+            if ("true" -eq $json.error) {
+              $SearchExp = '(?<Num>\d+)'
+              $ReplaceExp = '**${Num}**'
+              "`n`n:page_facing_up: File: ``" + $_ + "`` (:warning: " + ($json.title -replace $SearchExp,$ReplaceExp) + ")"     >> $env:GITHUB_STEP_SUMMARY
+              $json.message -replace "####.*?\n","`n"     >> $env:GITHUB_STEP_SUMMARY
+            } else {
+              "`n`n:page_facing_up: File: ``" + $_ + "`` (:ok: **No issues**)"     >> $env:GITHUB_STEP_SUMMARY
+            }
+          }
+        shell: pwsh

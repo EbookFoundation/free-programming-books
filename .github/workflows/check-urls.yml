@@ -7,6 +7,10 @@ on:
 jobs:
   check-urls:
     runs-on: ubuntu-latest
+
+    outputs:
+      changed-files: ${{ steps.changed-files.outputs.all_changed_files }}
+
     steps:
 
 # NOTE: tj-actions/changed-files.

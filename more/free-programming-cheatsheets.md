@@ -100,7 +100,7 @@
 * [Docker CLI \& Dockerfile Cheat Sheet](https://web.archive.org/web/20210909015922/https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) - Bachir Chihani, Rafael Benevides, Red Hat Developers (PDF) *(:card_file_box: archived)*
 * [Docker CLI cheatsheet](https://devhints.io/docker) - DevHints, Rico Santa Cruz (HTML)
 * [Docker Free Cheatsheet](https://cheatsheet.dennyzhang.com/cheatsheet-docker-a4) - Denny Zhang (HTML, PDF)
-* [Docker Security Best Practices & Cheat Sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) - Thomas Segura, GitGuardian (online, [PDF](https://res.cloudinary.com/da8kiytlc/image/upload/v1627655008/Cheatsheets/Docker-Security-Cheatsheet_hp8lh3.pdf))
+* [Docker Security Best Practices & Cheat Sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) - Thomas Segura, GitGuardian (online, PDF)
 * [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - OWASP Cheat Sheet Series
 * [Dockerfile Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) - Bogdan Popescu, Halprin (HTML)
 * [Dockerfiles y docker-compose.yml: buenas prácticas (:es:)](https://leanmind.es/docker-cheatsheet.pdf) - Yodra Lopez Herrera, LeanMind (PDF)
@@ -110,7 +110,7 @@
 
 ### Git
 
-* [8 Easy Steps to Set Up Multiple GitHub Accounts \[cheat sheet included\]](https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/) - Thomas Segura, GitGuardian (online, [PDF](https://res.cloudinary.com/da8kiytlc/image/upload/v1647871440/Cheatsheets/GitGuardian_GitHub_Accounts_Cheatsheet.pdf))
+* [8 Easy Steps to Set Up Multiple GitHub Accounts \[cheat sheet included\]](https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/) - Thomas Segura, GitGuardian (online, PDF)
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
 * [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) - GitLab (PDF)
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
@@ -118,7 +118,7 @@
     * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [Git Cheat Sheet](https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF)
 * [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub
-* [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (online, [PDF](https://res.cloudinary.com/da8kiytlc/image/upload/v1651737641/GitHub-Actions-Security-Best-Practices_cheatsheet.pdf))
+* [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (online, PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 

@@ -8,7 +8,6 @@
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
 * [Bash / Shell](#bash--shell)
-* [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -20,8 +19,8 @@
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [Databases](#databases)
-  * [NoSQL](#nosql)
-  * [SQL](#sql)
+    * [NoSQL](#nosql)
+    * [SQL](#sql)
 * [Deep Learning](#deep-learning)
 * [Docker](#docker)
 * [Flutter](#flutter)
@@ -30,20 +29,21 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
-  * [D3.js](#d3js)
-  * [Electron](#electron)
-  * [jQuery](#jquery)
-  * [Next.js](#nextjs)
-  * [NodeJS](#nodejs)
-  * [React](#react)
-  * [React Native](#react-native)
-  * [Redux](#redux)
-  * [Svelte](#svelte)
-  * [Vue.js](#vuejs)
+    * [AngularJS](#angularjs)
+    * [D3.js](#d3js)
+    * [Electron](#electron)
+    * [jQuery](#jquery)
+    * [Next.js](#nextjs)
+    * [NodeJS](#nodejs)
+    * [React](#react)
+    * [React Native](#react-native)
+    * [Redux](#redux)
+    * [Svelte](#svelte)
+    * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -62,9 +62,9 @@
 * [PLC - Programmable logic controllers](#plc---programmable-logic-controllers)
 * [Processing](#processing)
 * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
-* [QB64](#QB64)
+    * [Django](#django)
+    * [Flask](#flask)
+* [QB64](#qb64)
 * [R](#r)
 * [Robotics](#robotics)
 * [Ruby](#ruby)
@@ -74,11 +74,11 @@
 * [Solidity](#solidity)
 * [Spark](#spark)
 * [Swift](#swift)
-  * [Vapor](#vapor)
+    * [Vapor](#vapor)
 * [Theory](#theory)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
-  * [Deno](#deno)
+    * [Angular](#angular)
+    * [Deno](#deno)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
 
@@ -168,7 +168,7 @@
 * [APL Course](https://course.dyalog.com) - Dyalog (:construction: *in process*)
 * [APL Cultivation](https://aplwiki.com/wiki/APL_Cultivation) - Adám Brudzewsky
 * [Dyalog APL Tutor](https://tutorial.dyalog.com) - Dyalog
-* [Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão 
+* [Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão
 
 
 ### Artificial Intelligence
@@ -216,20 +216,6 @@
 * [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://www.youtube.com/watch?v=8wMKq7HvbKw) - Julien Klepatch, EatTheBlocks (freeCodeCamp.org)
 * [CryptoZombies.io](https://cryptozombies.io) - CleverFlare, Loom Network
 * [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
-
-
-### Bootstrap
-
-* [Bootstrap 4 Quick Start: Code Modern Responsive Websites](https://www.udemy.com/course/bootstrap-4) - Brad Hussey (Udemy)
-* [Bootstrap 5 Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) - The Net Ninja
-* [Bootstrap tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V) - kudvenkat
-* [Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/course/bootstrap-4-tutorials) - Igneus Technologies (Udemy)
-* [Complete Bootstrap Crash Course \| Bootstrap 4 Tutorial](https://www.youtube.com/watch?v=ZfRn9VJzdGA) - Julio Codes
-* [Introduction to Bootstrap - A Tutorial](https://www.classcentral.com/course/edx-introduction-to-bootstrap-a-tutorial-3338) - Microsoft via edX (Class Central)
-* [Learn Bootstrap 4 for free](https://scrimba.com/learn/bootstrap4) - Neil Rowe (Scrimba)
-* [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
-* [Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course](https://www.youtube.com/watch?v=iJKCj8uAHz8) - Patrick Muriungi, freeCodeCamp (YouTube)
-* [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
 
 
 ### C
@@ -314,7 +300,7 @@
 * [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Facebook (Udacity)
 * [Data Cleaning by Rachael Tatman at Kaggle](https://www.kaggle.com/learn/data-cleaning)
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
-* [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft 
+* [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft
 * [Data Science interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-) - Krish Naik
 * [Data Visualization by Alexis Cook at Kaggle](https://www.kaggle.com/learn/data-visualization)
 * [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher
@@ -381,7 +367,7 @@
 ### Docker
 
 * [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
-* [Docker Tutorial for Beginners ](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) - Thenewboston
+* [Docker Tutorial for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) - Thenewboston
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - FreeCodeCamp
 * [Docker Tutorial for Beginners \[FULL COURSE in 3 Hours\]](https://www.youtube.com/watch?v=3c-iBn73dDE) - TechWorld with Nana
 * [Docker Tutorial for Beginners \| Full Course \[2021\]](https://www.youtube.com/watch?v=p28piYY_wv8) - Amigoscode
@@ -413,7 +399,7 @@
 * [Godot Wave Shooter Tutorials](https://www.youtube.com/playlist?list=PL6bQeQE-ybqAYoaWz_ZEE2X4wX6PhwCWR) - PlugWorld
 * [Make a Platform Shooter - GameMaker Studio 2](https://www.youtube.com/playlist?list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6) - HeartBeast
 * [Multiplayer Shooter Tutorials - Godot](https://www.youtube.com/playlist?list=PL6bQeQE-ybqDmGuN7Nz4ZbTAqyCMyEHQa) - PlugWorld
-* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)
+* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals) - Pluralsight Company (Unity Learn)
 * [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) (Brackeys)
 * [Unity User Manual](https://docs.unity3d.com/Manual/)
 
@@ -494,6 +480,20 @@
 * [What the Flexbox](https://flexbox.io) - Wesbos
 
 
+#### Bootstrap
+
+* [Bootstrap 4 Quick Start: Code Modern Responsive Websites](https://www.udemy.com/course/bootstrap-4) - Brad Hussey (Udemy)
+* [Bootstrap 5 Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) - The Net Ninja
+* [Bootstrap tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V) - kudvenkat
+* [Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/course/bootstrap-4-tutorials) - Igneus Technologies (Udemy)
+* [Complete Bootstrap Crash Course \| Bootstrap 4 Tutorial](https://www.youtube.com/watch?v=ZfRn9VJzdGA) - Julio Codes
+* [Introduction to Bootstrap - A Tutorial](https://www.classcentral.com/course/edx-introduction-to-bootstrap-a-tutorial-3338) - Microsoft via edX (Class Central)
+* [Learn Bootstrap 4 for free](https://scrimba.com/learn/bootstrap4) - Neil Rowe (Scrimba)
+* [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
+* [Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course](https://www.youtube.com/watch?v=iJKCj8uAHz8) - Patrick Muriungi, freeCodeCamp (YouTube)
+* [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
+
+
 ### iOS
 
 * [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
@@ -544,14 +544,14 @@
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
 * [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - André Staltz
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath (YouTube)
-* [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function» (YouTube)
+* [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function» (YouTube)
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 * [Intro To JavaScript Unit Testing & BDD](https://www.youtube.com/watch?v=u5cLK1UrFyQ) - Traversy Media
-* [Javascript Array Methods](https://youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2) - Florin Pop (YouTube)
-* [Javascript Coding Challenges](https://youtube.com/playlist?list=PLgBH1CvjOA63ROz8Wqd7RDD0qpvGXF8x5) - Florin Pop (YouTube)
+* [JavaScript Array Methods](https://youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2) - Florin Pop (YouTube)
+* [JavaScript Coding Challenges](https://youtube.com/playlist?list=PLgBH1CvjOA63ROz8Wqd7RDD0qpvGXF8x5) - Florin Pop (YouTube)
 * [Javascript course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) - Hitesh Choudhary
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
-* [Javascript Mini Course 2020](https://www.udemy.com/course/javascript-essentials-mini-course/) - Kalob Taulien (Udemy)
+* [JavaScript Mini Course 2020](https://www.udemy.com/course/javascript-essentials-mini-course/) - Kalob Taulien (Udemy)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - The Net Ninja
 * [JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Moshfegh Hamedani (Programming with Mosh)
 * [JavaScript Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax) - Moshfegh Hamedani (Programming with Mosh)
@@ -602,6 +602,7 @@
 #### Next.js
 
 * [Mastering Next.js](https://masteringnextjs.com)
+* [Next.js Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
 
 
 #### NodeJS
@@ -736,7 +737,7 @@
 ### MATLAB
 
 * [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) (coursera)
-* [Introduction to Matlab in English](https://www.youtube.com/playlist?list=PLGED90Y_uL1KLpdRmVtwfpNoYCWU9RPkK) -Mohammed Mohammed
+* [Introduction to Matlab in English](https://www.youtube.com/playlist?list=PLGED90Y_uL1KLpdRmVtwfpNoYCWU9RPkK) - Mohammed Mohammed
 * [MATLAB and Simulink Training](https://matlabacademy.mathworks.com)
 * [MATLAB Programming for Numerical Computation NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN) - Niket Kaisare NPTEL (YouTube)
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
@@ -777,6 +778,7 @@
 ### Perl
 
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
+* [Perl Tutorial: Basics to Advanced](https://youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16) - VLSI Academy
 
 
 ### Pharo
@@ -786,7 +788,7 @@
 
 ### PHP
 
-* [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape  (2019)
+* [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape (2019)
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
 * [Learn Top Ten Frameworks In PHP By Building Projects](https://www.eduonix.com/courses/Web-Development/learn-top-ten-frameworks-in-php-by-building-projects) - Eduonix Learning Solutions *(account or email address required)*
 * [Object-Oriented PHP For Beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV) - Dary Nazar (Code with Dary)
@@ -939,11 +941,11 @@
 ### Security
 
 * [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014) - Prof. Nickolai Zeldovich (MIT OpenCourseWare)
-* [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
+* [Ethical Hacking](https://www.hacker101.com/videos) - Hacker101
 * [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) - Wenke Lee, Mustaque Ahamad, Catherine Gamboa (Udacity)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
-* [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) -(Insec Techs- EH Academy)
+* [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
 
 

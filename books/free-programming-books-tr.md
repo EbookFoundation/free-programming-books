@@ -17,9 +17,8 @@
 * [Linux](#linux)
 * [Matlab](#matlab)
 * [.NET Framework](#net-framework)
-* [PHP](#php)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -124,11 +123,6 @@
 ### .NET Framework
 
 * [ASP.NET Core El Kitabı](https://sahin.gitbook.io/asp-net-core-el-kitab)
-
-
-### PHP
-
-* [PHP - Laravel 4 Türkçe Dokumantasyon](https://www.leanpub.com/laravel4-tr)
 
 
 ### Python

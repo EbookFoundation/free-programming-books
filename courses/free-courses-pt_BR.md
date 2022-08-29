@@ -17,6 +17,7 @@
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Vue.js](#vuejs)
 * [Jekyll](#jekyll)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
@@ -36,8 +37,7 @@
 * [Shell](#shell)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
-* [Vue.js](#vuejs)
+    * [Angular](#angular)
 * [WordPress](#wordpress)
 
 
@@ -51,7 +51,7 @@
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
 * [Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) - Cláudio Rogério Carvalho Filho (eXcript)
-* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (Youtube)
+* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (YouTube)
 
 
 ### <a id="csharp"></a>C\#
@@ -172,6 +172,14 @@
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 
 
+#### Vue.js
+
+* [Aplicação Desktop com JavaScript, Electron JS e Vue JS](https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/) - Leonardo Moura Leitao, Cod3r (Udemy)
+* [Curso completo e gratuito de Vue.js 3 do iniciante ao avançado](https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado) - Igor Halfeld, Vue.js Brasil (Teachable)
+* [Introdução ao Vue JS](https://www.udemy.com/course/introducao-ao-vue-js/) - Rafael Rend (Udemy)
+* [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
+
+
 ### Jekyll
 
 * [Criando sites estáticos com Jekyll](https://www.udemy.com/course/criando-sites-estaticos-com-jekyll/) - Willian Justen de Vasconcellos (Udemy)
@@ -221,7 +229,7 @@
 
 ### Node.js
 
-* [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
+* [Criando APIs com NodeJs](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
 * [Curso de Node.js](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) - Victor Lima Guia do Programador (YouTube)
 * [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (YouTube)
 * [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - Erick Wendel (Teachable)
@@ -322,14 +330,6 @@
 * [Começando com Angular](https://app.balta.io/courses/7181) - Andre Baltieri (balta.io)
 * [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
-
-
-### Vue.js
-
-* [Aplicação Desktop com JavaScript, Electron JS e Vue JS](https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/) - Leonardo Moura Leitao, Cod3r (Udemy)
-* [Curso completo e gratuito de Vue.js 3 do iniciante ao avançado](https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado) - Igor Halfeld, Vue.js Brasil (Teachable)
-* [Introdução ao Vue JS](https://www.udemy.com/course/introducao-ao-vue-js/) - Rafael Rend (Udemy)
-* [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
 
 
 ### WordPress

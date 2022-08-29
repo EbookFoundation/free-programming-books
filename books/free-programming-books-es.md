@@ -2,16 +2,15 @@
 
 * [0 - Meta-Listas](#0---meta-listas)
 * [1 - Agnósticos](#1---agn&#x00F3;sticos)
-  * [Algoritmos y Estructuras de Datos](#algoritmos-y-estructuras-de-datos)
-  * [Base de Datos](#base-de-datos)
-  * [Ciencia Computacional](#ciencia-computacional)
-  * [Metodologías de Desarrollo de Software](#metodolog&#x00ED;as-de-desarrollo-de-software)
-  * [Misceláneos](#miscel&#x00E1;neos)
-  * [Sistemas Operativos](#sistemas-operativos)
+    * [Algoritmos y Estructuras de Datos](#algoritmos-y-estructuras-de-datos)
+    * [Base de Datos](#base-de-datos)
+    * [Ciencia Computacional](#ciencia-computacional)
+    * [Metodologías de Desarrollo de Software](#metodolog&#x00ED;as-de-desarrollo-de-software)
+    * [Misceláneos](#miscel&#x00E1;neos)
+    * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
 * [C](#c)
 * [C++](#cpp)
-* [Coffeescript](#coffeescript)
 * [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
@@ -21,35 +20,34 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
-  * [D3](#d3js)
-  * [jQuery](#jquery)
-  * [node.js](#nodejs)
-  * [React](#react)
+    * [AngularJS](#angularjs)
+    * [D3](#d3js)
+    * [jQuery](#jquery)
+    * [node.js](#nodejs)
+    * [React](#react)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Matemáticas](#matem%C3%A1ticas)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
-  * [MongoDB](#mongodb)
-  * [Redis](#redis)
+    * [MongoDB](#mongodb)
+    * [Redis](#redis)
 * [Perl](#perl)
 * [Perl 6 / Raku](#perl-6--raku)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Python](#python)
-  * [Django](#django)
-  * [Web2py](#web2py)
+    * [Django](#django)
+    * [Web2py](#web2py)
 * [R](#r)
 * [Ruby](#ruby)
-  * [Ruby on Rails](#ruby-on-rails)
+    * [Ruby on Rails](#ruby-on-rails)
 * [Scala](#scala)
 * [Scratch](#scratch)
 * [SQL](#sql)
 * [Subversion](#subversion)
-* [SVG](#svg)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 
 
 ### 0 - Meta-Listas
@@ -142,11 +140,6 @@
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) (HTML)
 
 
-### Coffeescript
-
-* [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript) - Javi Jiménez (Leanpub cuenta requerida)
-
-
 ### Ensamblador
 
 * [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A.Carter (PDF)
@@ -186,7 +179,7 @@
 ### HTML and CSS
 
 * [99 tips para Web Development](https://fmontes.gumroad.com/l/99tips) - Freddy Montes (PDF) (se solicita email)
-* [CSS avanzado](http://librosweb.es/libro/css_avanzado) Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
+* [CSS avanzado](http://librosweb.es/libro/css_avanzado) - Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
 * [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado) (PDF)
 * [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) (HTML)
 * [El gran libro del diseño web](https://freeditorial.com/es/books/el-gran-libro-del-diseno-web) - Rither Cobeña C [(PDF, EPUB)]
@@ -199,7 +192,7 @@
 ### Java
 
 * [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) (PDF)
-* [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) -David Pérez Cabrera (PDF)
+* [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) - David Pérez Cabrera (PDF)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) (PDF)
 * [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - F.M. Pérez Montes (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java (2004)](https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
@@ -252,9 +245,7 @@
 
 #### React
 
-* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) - Sergio Xalambrí (PDF, EPUB, MOBI; Leanpub cuenta requerida)
-* [Descubre React](https://leanpub.com/descubre-react) - Javi Jiménez (HTML, PDF, EPUB, MOBI; Leanpub cuenta requerida)
-* [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish) (PDF, EPUB, MOBI; Leanpub cuenta requerida)
+* [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux/read) - Sergio Xalambrí (HTML)
 * [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
 
 
@@ -395,11 +386,6 @@
 ### Subversion
 
 * [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) (HTML)
-
-
-### SVG
-
-* [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (Leanpub cuenta requerida)
 
 
 ### TypeScript

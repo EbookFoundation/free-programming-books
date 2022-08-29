@@ -1,10 +1,10 @@
 ### Index
 
-* [Algorithms & Data Structures](#algorithms-&-data-structures)
+* [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
 * [Arduino](#arduino)
-* [ASP.NET](#asp.net)
-* [C/C++](#c/c++)
+* [ASP.NET](#aspnet)
+* [C/C++](#cc)
 * [C#](#csharp)
 * [Circuit](#circuit)
 * [Deep Learning](#deep-learning)
@@ -16,9 +16,9 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
-  * [Node.js](#node.js)
-  * [React.js](#react.js)
+    * [AngularJS](#angularjs)
+    * [Node.js](#nodejs)
+    * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -28,6 +28,8 @@
 * [Operation System](#operation-system)
 * [PHP](#php)
 * [Python](#python)
+    * [Django](#django)
+    * [Flask](#flask)
 * [Raspberry Pi](#raspberry-pi)
 * [Reinforced Learning](#reinforced-learning)
 * [Ruby](#ruby)
@@ -218,6 +220,16 @@
 * [Python 입문자용 초급](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD8u2rzxmQ-L97jHTHiiDdy)
 
 
+#### Django
+
+* [Python Django Web Framework](https://youtube.com/playlist?list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG) - 생활코딩
+
+
+#### Flask
+
+* [Python Flask Web Framework](https://youtube.com/playlist?list=PLuHgQVnccGMClNOIuT3b3M4YZjxmult2y) - 생활코딩
+
+
 ### Raspberry Pi
 
 * [라즈베리 파이](https://www.youtube.com/playlist?list=PL0Vl139pNHbc0ypjIuxUJuK-IPld0YmLO)
@@ -266,7 +278,7 @@
 * [Web2-CSS](https://www.opentutorials.org/course/3086) (생활코딩)
 * [Web2-Domain name system](https://www.opentutorials.org/course/3276) (생활코딩)
 * [Web2-Home server](https://www.opentutorials.org/course/3265) (생활코딩)
-* [Web2-javascript](https://www.opentutorials.org/course/3085) (생활코딩)
+* [Web2-JavaScript](https://www.opentutorials.org/course/3085) (생활코딩)
 * [Web2-nodejs](https://www.opentutorials.org/course/3332) (생활코딩)
 * [Web2-PHP](https://www.opentutorials.org/course/3130) (생활코딩)
 * [Web2-Python](https://www.opentutorials.org/course/3256) (생활코딩)

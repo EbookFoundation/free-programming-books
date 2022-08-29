@@ -4,18 +4,17 @@
 
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
-* [AWS](#aws)
 * [C#&lrm;](#csharp)
 * [DB & DBMS](#db--dbms)
 * [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
-  * [Vue.js](#vuejs)
+    * [Vue.js](#vuejs)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Programming in Scratch](#programming-in-scratch)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
@@ -23,7 +22,7 @@
 * [Security](#security)
 * [SEO](#seo)
 * [SQL](#sql)
-  * [PostgreSQL](#postgresql)
+    * [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
 
 
@@ -37,11 +36,6 @@
 ### Artificial Intelligence
 
 * [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-%D9%85%D8%AF%D8%AE%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9/) - Mohamed Lahlah&rlm; (PDF)
-
-
-### AWS
-
-* [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - Eissa AbuSherif&rlm; (YouTube)
 
 
 ### <a id="csharp"></a>C#&lrm;
@@ -79,10 +73,10 @@
 
 ### Linux
 
-* [الإدارة المتقدمة لجنو/لينكس ](https://librebooks.org/gnu-linux-advanced-administration/) - Remo Suppi Boldrito, Josep Jorba Esteve, Abdel Rahim Ghaleb&rlm; (PDF)
+* [الإدارة المتقدمة لجنو/لينكس](https://librebooks.org/gnu-linux-advanced-administration/) - Remo Suppi Boldrito, Josep Jorba Esteve, Abdel Rahim Ghaleb&rlm; (PDF)
 * [أوبنتو ببساطة](https://www.simplyubuntu.com) - Ahmed AbouZaid&rlm; (PDF)
 * [دفتر مدير دبيان](https://ar.debian-handbook.info) - Raphaël Hertzog, Roland Mas, MUHAMMET SAİT Muhammet Sait&rlm; (PDF, HTML)
-* [دليل إدارة خواديم أوبنتو 14.04](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/) - Ubuntu documentation team, Abdullatif Eymash&rlm; (PDF) 
+* [دليل إدارة خواديم أوبنتو 14.04](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/) - Ubuntu documentation team, Abdullatif Eymash&rlm; (PDF)
 * [سطر أوامر لينكس](https://itwadi.com/node/2765) - Willam E. Shotts, Jr، ترجمة عبد اللطيف ايمش (PDF)
 
 
@@ -124,7 +118,7 @@
 
 ### Raspberry Pi
 
-* [احترف الرازبيري باي](https://www.ev-center.com/uploads/2/1/2/6/21261678/كتاب_احترف_الرازبيري_باي.pdf)  (PDF)
+* [احترف الرازبيري باي](https://www.ev-center.com/uploads/2/1/2/6/21261678/كتاب_احترف_الرازبيري_باي.pdf) (PDF)
 * [راسبيري باي السهل](http://librebooks.org/simply-raspberry-pi/)
 
 

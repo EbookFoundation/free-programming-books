@@ -2,11 +2,11 @@
 
 * [0 - Méta-listes](#0---méta-listes)
 * [1 - Non dépendant du langage](#1---non-dépendant-du-langage)
-  * [Algorithmique](#algorithmique)
-  * [Logiciels libres](#logiciels-libres)
-  * [Makefile](#makefile)
-  * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
-  * [Théorie des langages](#théorie-des-langages)
+    * [Algorithmique](#algorithmique)
+    * [Logiciels libres](#logiciels-libres)
+    * [Makefile](#makefile)
+    * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
+    * [Théorie des langages](#théorie-des-langages)
 * [Ada](#ada)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
@@ -22,21 +22,21 @@
 * [JavaScript](#javascript)
 * [jQuery](#jquery)
 * [(La)TeX et associés](#latex-et-associés)
-  * [Asymptote](#asymptote)
-  * [LaTeX](#latex)
-  * [Metapost](#metapost)
-  * [PGF/TikZ](#pgftikz)
-  * [TeX](#tex)
+    * [Asymptote](#asymptote)
+    * [LaTeX](#latex)
+    * [Metapost](#metapost)
+    * [PGF/TikZ](#pgftikz)
+    * [TeX](#tex)
 * [Lisp](#lisp)
 * [Lua](#lua)
 * [Mathématiques](#math%C3%A9matiques)
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Processing](#processing)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -46,7 +46,7 @@
 * [SPIP](#spip)
 * [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
-* [TEI](#TEI)
+* [TEI](#tei)
 * [Vim](#vim)
 
 
@@ -122,8 +122,8 @@
 
 ### Chaîne de blocs / Blockchain
 
-* [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://bitcoin.maitriser.ca) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, html)
-* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Dr. Gavin Wood, Serafim Dos Santos (asciidoc, html)
+* [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://bitcoin.maitriser.ca) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, HTML)
+* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Dr. Gavin Wood, Serafim Dos Santos (asciidoc, HTML)
 
 
 ### Coq
@@ -135,9 +135,9 @@
 
 * [IDRIS adaptation of the Fortran 77 manual](http://www.idris.fr/formations/fortran/fortran-77.html) - IDRIS, Hervé Delouis, Patrick Corde (HTML)
 * [IDRIS Formations Fortran: documentation](http://www.idris.fr/formations/fortran/) (HTML)
-  * [Fortran_Avancé : "Fortran : apports des normes 90 et 95 avec quelques aspects de la norme 2003" (2ème niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_tp.tar.gz))
-  * [Fortran_Base : "Fortran : notions de base" (1er niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_base_cours.pdf) - Anne Fouilloux, Patrick Corde (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_base_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_base_tp.tar.gz))
-  * [Fortran_Expert : "Fortran : apports de la norme 2003 avec quelques aspects de la norme 2008"](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_tp.tar.gz))
+    * [Fortran_Avancé : "Fortran : apports des normes 90 et 95 avec quelques aspects de la norme 2003" (2ème niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_tp.tar.gz))
+    * [Fortran_Base : "Fortran : notions de base" (1er niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_base_cours.pdf) - Anne Fouilloux, Patrick Corde (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_base_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_base_tp.tar.gz))
+    * [Fortran_Expert : "Fortran : apports de la norme 2003 avec quelques aspects de la norme 2008"](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_tp.tar.gz))
 
 
 ### Git

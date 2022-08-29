@@ -1,25 +1,30 @@
 ### Index
 
-* [Algorithms](#algo)
-* [Android](#Android)
-* [C](#C)
+* [Algorithms](#algorithms)
+* [Android](#android)
+* [Bash and Shell](#bash-and-shell)
+* [C](#c)
 * [C++](#cpp)
 * [Data Structures](#data-structures)
 * [DevOps](#devops)
+* [Flutter](#flutter)
 * [Git and GitHub](#git-and-github)
 * [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
 * [Java](#java)
-* [Javascript](#javascript)
-  * [Next.js](#nextjs)
-  * [React](#react)
+* [JavaScript](#javascript)
+    * [jQuery](#jquery)
+    * [Next.js](#nextjs)
+    * [Node.js](#nodejs)
+    * [React](#react)
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
+    * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
-  * [Ruby on Rails](#ruby-on-rails)
+    * [Ruby on Rails](#ruby-on-rails)
 
 
 ### Algorithms
@@ -42,6 +47,13 @@
 * [Complete Android Development Course in Hindi](https://www.youtube.com/playlist?list=PLUhfM8afLE_Ok-0Lx2v9hfrmbxi3GgsX1) - Neat Roots
 
 
+### Bash and Shell
+
+* [Bash Basic Commands](https://youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM) - Noob Coders
+* [Bash Shell Scripting (NOOB)](https://youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe) - Noob Coders
+* [shell scripting complete tutorial in hindi](https://youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
+
+
 ### C
 
 * [All C Concepts \| Hindi](https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
@@ -50,7 +62,7 @@
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l) - Vikas Pandey, easytuts4you
 
 
-### C++
+### <a id="cpp"></a>C++
 
 * [C++ Full Course \| C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 * [C++ Programming in Hindi](https://www.youtube.com/playlist?list=PLDA2q3s0-n15yszaZ2yRKEoxY-WWkuAt4) - Sumit Bisht (Edutainment 1.0)
@@ -85,6 +97,13 @@
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
 
 
+### Flutter
+
+* [Complete Flutter Tutorial In Hindi By Desi Programmer](https://youtube.com/playlist?list=PLlFwzkUNmr94BF0KH7BYPL7DsZjhJRdTm) - Desi Programmer
+* [Flutter 3 tutorial in Hindi](https://youtube.com/playlist?list=PLB97yPrFwo5g-XcPlfSXSOeeby23jVAcp) - CODERS NEVER QUIT
+* [Flutter Tutorial For Beginners in Hindi](https://youtube.com/playlist?list=PLMkkZSS5OjPIwDyHHKVex6zr008U1-sWM) - Geeks Rank
+
+
 ### Git and GitHub
 
 * [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
@@ -99,7 +118,17 @@
 * [Web Development Tutorials for Beginners in Hindi: HTML, CSS, JavaScript and more](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - CodeWithHarry
 
 
-### Java 
+#### Bootstrap
+
+* [Bootstrap 3 Tutorial](https://youtube.com/playlist?list=PLjVLYmrlmjGciJ5_Ze6jDIfJpEeMYtsSe) - WsCube Tech
+* [Bootstrap Tutorial for Beginners(Hindi)](https://youtube.com/playlist?list=PLgPJX9sVy92wc38jA6JtvkA4l1xmJcKKH) - CS Geeks
+* [Bootstrap Tutorial In Hindi](https://youtube.com/playlist?list=PLdPwRNmUlk0k91-qAXTHFqMScNEuo8E5d) - CODE4EDUCATION
+* [Bootstrap Tutorial In Hindi](https://youtube.com/watch?v=vpAJ0s5S2t0) - CodeWithHarry
+* [Bootstrap tutorial in Hindi \| Best Course](https://youtube.com/playlist?list=PL7akPJI4biSIQmT7fSHWoMRaNUcRbXHFN) - CodinGyaan
+* [Bootstrap Tutorial in Hindi With 2 Projects for Beginners \| Complete Bootstrap 5 Tutorial in Hindi](https://youtube.com/watch?v=QE5oQh63gGE) - Tech Gun
+
+
+### Java
 
 * [Complete Java Programming in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtnqhXTJwd-oqVRwO3bLZCGV) - Anand Kumar, CodeitUp
 * [Core Java Programming (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhij8Oplrvjt_RlDliZQgdxoV) - Rajesh Kumar, Geeky Shows
@@ -113,7 +142,7 @@
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
 
 
-### Javascript
+### JavaScript
 
 * [JavaScript Tutorial \| Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - CodeWithHarry
 * [JavaScript Tutorial for Beginners (In Hindi)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0) - Vinod Bahadur Thapa (Thapa Technical)
@@ -121,10 +150,22 @@
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 
 
+#### jQuery
+
+* [jQuery Tutorial for beginners in Hindi 2020](https://youtube.com/playlist?list=PL-6FWL4WVVWXmWe_HnPG0rBQmmJfGsTKS) - CSEtutorials
+* [jQuery Tutorial in Hindi](https://youtube.com/playlist?list=PLvQjNLQMdagPRDnMQPMs5-vQL_IyAB0St) - Teaching Web
+* [jQuery Tutorials in Hindi 2018](https://youtube.com/playlist?list=PLwGdqUZWnOp0X4dVwSsEd6dV49TLLCooI) - Vinod Bahadur Thapa (Thapa Technical)
+
+
 #### Next.js
 
 * [Next.js Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG) - CodeWithHarry
 * [NextJS Tutorial In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
+
+
+#### Node.js
+
+* [NodeJS Tutorial in Hindi 2020](https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) - Vinod Bahadur Thapa (Thapa Technical)
 
 
 #### React
@@ -166,7 +207,7 @@
 #### Django
 
 * [Django (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6) - Rajesh Kumar, Geeky Shows
-* [Django REST Framework (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN) - Rajesh Kumar, Geeky Shows 
+* [Django REST Framework (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN) - Rajesh Kumar, Geeky Shows
 * [Django Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yWUMgLpWrXtegKxrWLRnRv) - Vijay Manral, CS Geeks
 * [Django(Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6) - Rajesh Kumar, GeekyShows
 * [Python Django Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) - CodeWithHarry

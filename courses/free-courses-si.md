@@ -1,10 +1,10 @@
 ### Index
 
-* [ASP.NET Core](#aspnet_core)
+* [ASP.NET Core](#aspnet-core)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [React](#react)
+    * [React](#react)
 
 
 ### ASP.NET Core
@@ -24,7 +24,7 @@
 
 ### JavaScript
 
-* [JavaScript Tutorial in Sinhala](https://youtube.com/playlist?list=PLYmyc7wRFoQjxkHAzHh1UIdU7ZdjTQvQt) -BestJobsLK (YouTube)
+* [JavaScript Tutorial in Sinhala](https://youtube.com/playlist?list=PLYmyc7wRFoQjxkHAzHh1UIdU7ZdjTQvQt) - BestJobsLK (YouTube)
 
 
 #### React

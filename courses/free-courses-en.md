@@ -726,7 +726,7 @@
 * [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
-* [Machine Learning Specialization] (https://www.coursera.org/specializations/machine-learning-introduction) - Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig ( Coursera)
+* [Machine Learning Specialization] (https://www.coursera.org/specializations/machine-learning-introduction) - Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig (Coursera)
 
 
 ### Markdown

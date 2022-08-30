@@ -124,9 +124,12 @@
 
 ### HTML and CSS
 
+* [Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso completo e atual de HTML5 e CSS3 - Módulo 3 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso completo e atual de HTML5 e CSS3 - Módulo 4 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) - Gustavo Guanabara (Curso em Vídeo)
 * [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
-* [Novo curso HTML5 e CSS3: 100% atual](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo)
 
 
 ### IDE
@@ -265,7 +268,7 @@
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
 * [Do zero à implantação utilizando Python](https://github.com/cassiobotaro/do_zero_a_implantacao) - Cássio Botaro et al.
-* [Estruturas compostas em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&pbjreload=102) - Gustavo Guanabara (Curso em Vídeo)
+* [Estruturas compostas em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Gustavo Guanabara (Curso em Vídeo)
 * [Estruturas de controle em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (Curso em Vídeo)
 * [Fundamentamentos em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)
 * [Introdução à Ciência da Computação com Python - Parte 1](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos) - USP (Coursera)

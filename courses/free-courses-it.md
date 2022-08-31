@@ -16,6 +16,7 @@
 * [Generale](#generale)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Vue.js](#vuejs)
 * [Machine Learning](#machine-learning)
 * [Misto](#misto)
 * [Mobile](#mobile)
@@ -31,7 +32,6 @@
     * [Git](#git)
     * [Maven](#maven)
 * [Web](#web)
-    * [Vue](#vue)
 * [Workshop](#workshop)
 
 
@@ -131,6 +131,11 @@
 * [Corso Javascript (ES6)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) - F. Camuso
 
 
+#### Vue.js
+
+* [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) - F. Camuso
+
+
 ### Machine Learning
 
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) - P. Savastano
@@ -208,11 +213,6 @@
 
 * [Computer grafica 2017/2018](https://www.youtube.com/playlist?list=PLUFFnpJdi99kXjntQ0LNPnLbRLjKzmQaC) - A. Bottino, Politecnico di Torino
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - F. Corno, S. Di Carlo, Politecnico di Torino
-
-
-#### Vue
-
-* [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) - F. Camuso
 
 
 ### Workshop

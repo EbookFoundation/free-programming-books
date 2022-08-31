@@ -18,7 +18,7 @@
     * [Node.js](#nodejs)
     * [React](#react)
     * [Svelte](#svelte)
-    * [Vue](#vue)
+    * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [MySQL](#mysql)
 * [PHP](#php)
@@ -150,7 +150,7 @@
 * [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner
 
 
-#### Vue
+#### Vue.js
 
 * [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
 

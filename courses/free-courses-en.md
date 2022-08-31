@@ -716,6 +716,7 @@
 * [Intro to Self-Driving Cars Nanodegree](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) - Cezanne Camacho, Andrew Paster, Anthony Navarro, Tarin Ziyaee, et al. (Udacity)
 * [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+* [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig (Coursera)
 * [Machine Learning Tutorial Python \| Machine Learning For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) - Dhaval Patel
 * [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Saeed Aghabozorgi (cognitiveclass.ai)
 * [Machine Learning with Python: Zero to GBMs](https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms) (Jovian)

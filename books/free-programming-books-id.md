@@ -12,6 +12,7 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Vue.js](#vuejs)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Pemrograman Fungsional](#pemrograman-fungsional)
@@ -23,7 +24,6 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
     * [Deno](#deno)
-* [Vue](#vue)
 
 
 ### Android
@@ -102,6 +102,17 @@
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
 
 
+#### Vue.js
+
+* [Belajar Vue.js](https://variancode.com/belajar-vue-js/) - Varian Hermianto
+* [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
+
+
+### Machine Learning
+
+* [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Indonesia Belajar
+
+
 ### MySQL
 
 * [3 Days With Mysql For Your Application: Mysql Untuk Pemula](https://play.google.com/store/books/details/Onesinus_Saut_Parulian_3_Days_With_Mysql_For_Your?id=MbdTDwAAQBAJ) - Onesinus Saut Parulian *(Membutuhkan akun Google Play Books atau email yang valid)*
@@ -177,9 +188,3 @@
 #### Deno
 
 * [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
-
-
-### Vue
-
-* [Belajar Vue.js](https://variancode.com/belajar-vue-js/) - Varian Hermianto
-* [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)

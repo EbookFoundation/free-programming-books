@@ -137,6 +137,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Neo4J](#neo4j)
 * [.NET Core / .NET](#net-core)
 * [.NET Framework](#net-framework)
+* [NewSQL](#newsql)
 * [Nim](#nim)
 * [NoSQL](#nosql)
 * [Oberon](#oberon)
@@ -1548,6 +1549,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Under the Hood of .NET Memory Management](https://assets.red-gate.com/community/books/under-the-hood-of-net-memory-management.pdf) - Chris Farrell, Nick Harrison (PDF)
 * [Visual Studio .NET Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
 * [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole
+
+
+### NewSQL
+
+* [TiDB Introduction](https://docs.pingcap.com/tidb/stable) - PingCAP [(PDF)](https://download.pingcap.org/tidb-stable-en-manual.pdf)
 
 
 ### Nim

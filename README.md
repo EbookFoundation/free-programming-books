@@ -71,6 +71,8 @@ Click on these badges to see how you might be able to help:
 
 This project lists books and other resources grouped by genres:
 
+[Scaler Topics](https://www.scaler.com/topics/) : It provides programming articles related to Python, Java, Data Structure, C/C++ and other popular programming languages with easy to follow tutorials and example programs.
+
 ### Books
 
 [English, By Programming Language](books/free-programming-books-langs.md)

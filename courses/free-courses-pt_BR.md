@@ -153,7 +153,7 @@
 * [Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara (YouTube)
 * [Curso de Programação Orientada a Objetos em Java - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) - Gustavo Guanabara (YouTube)
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
-* [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
+* [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) - Eduardo Guerra, Clovis Fernandes - ITA (Coursera)
 * [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
 * [Estrutura de Dados com Java](https://loiane.training/curso/estrutura-de-dados) - Loiane Groner
 * [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
@@ -260,14 +260,14 @@
 * [Algoritmos em Python](https://algoritmosempython.com.br) - Douglas do Couto
 * [Aprenda Python 3 em 6 horas](https://www.udemy.com/course/aprenda-python-3-em-6h/) - Alcimar A. Costa (Udemy)
 * [Aulas Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) - Ignorância zero (You Tube)
-* [Construindo API's robustas utilizando Python](https://github.com/luizalabs/tutorial-python-brasil) - Cássio Botaro et al.
+* [Construindo API's robustas utilizando Python](https://github.com/luizalabs/tutorial-python-brasil) - Cássio Botaro, et al.
 * [Curso de Programação em Python](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK) - Prime Cursos do Brasil
 * [Curso de Python](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) - Cláudio Rogério Carvalho Filho (eXcript)
 * [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Gustavo Guanabara, Joao Pedro Araujo (Curso em Vídeo)
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
-* [Do zero à implantação utilizando Python](https://github.com/cassiobotaro/do_zero_a_implantacao) - Cássio Botaro et al.
+* [Do zero à implantação utilizando Python](https://github.com/cassiobotaro/do_zero_a_implantacao) - Cássio Botaro, et al.
 * [Estruturas compostas em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Gustavo Guanabara (Curso em Vídeo)
 * [Estruturas de controle em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (Curso em Vídeo)
 * [Fundamentamentos em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)

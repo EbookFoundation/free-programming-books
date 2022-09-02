@@ -24,7 +24,7 @@
 * [Az adatbázistervezés alapjai és titkai](http://mek.oszk.hu/11100/11123/index.phtml) - Halassy Béla (Word, PDF)
 * [Ember, információ, rendszer](http://mek.oszk.hu/11100/11122/index.phtml) - Halassy Béla (Word, PDF)
 * [Formális nyelvek](http://mek.oszk.hu/05000/05099/index.phtml) - Bach Iván (PDF)
-* [Mese a felhasználó központú tervezőről](http://mek.oszk.hu/11700/11748/index.phtml) - David Travis, ford.: Favorit Fordító Iroda (PDF)
+* [Mese a felhasználó központú tervezőről](http://mek.oszk.hu/11700/11748/index.phtml) - David Travis, `trl.:` Favorit Fordító Iroda (PDF)
 * [Prognyelvek portál](http://nyelvek.inf.elte.hu/index.php) - Felelős oktató: Nyékyné Gaizler Judit (HTML)
 
 
@@ -35,7 +35,7 @@
 
 ### Arduino
 
-* [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans írása alapján fordította, kiegészítette és frissítette Cseh Róbert (PDF - regisztráció szükséges)
+* [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans, `trl.:` Cseh Róbert (PDF - regisztráció szükséges)
 
 
 ### C
@@ -51,7 +51,7 @@
 ### HTML and CSS
 
 * [CSS alapjai](http://weblabor.hu/cikkek/cssalapjai1) - Bártházi András (HTML)
-* [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok) - Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan és Mike West, ford.: Nagy Gusztáv (PDF)
+* [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok) - Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan, Mike West, `trl.:` Nagy Gusztáv (PDF)
 
 
 ### Java
@@ -88,7 +88,7 @@
 
 * [C#](http://mek.oszk.hu/10300/10384/index.phtml) - Reiter István (PDF)
 * [C# programozás lépésről lépésre](http://devportal.hu) - Reiter István (PDF)
-* [Honlapépítés a XXI. században](http://mek.oszk.hu/10300/10392/index.phtml) - A WebMatrix csapat és Balássy György (PDF)
+* [Honlapépítés a XXI. században](http://mek.oszk.hu/10300/10392/index.phtml) - A WebMatrix csapat, Balássy György (PDF)
 * [Silverlight 4](http://mek.oszk.hu/10300/10382/index.phtml) - Árvai Zoltán, Csala Péter, Fár Attila Gergő, Kopacz Botond, Reiter István, Tóth László (PDF)
 
 
@@ -102,10 +102,10 @@
 
 ### Python
 
-* [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, ford.: Daróczy Péter (PDF)
-* [Bevezetés a wxPythonba](http://mek.oszk.hu/08400/08446/index.phtml) - Jeremy Berthet, Gilles Doge, ford.: Daróczy Péter (PDF)
-* [Hogyan gondolkozz úgy, mint egy informatikus:Tanulás Python 3 segítségével](https://mtmi.unideb.hu/pluginfile.php/554/mod_resource/content/3/thinkcspy3.pdf) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey és Chris Meyers, ford.: Biró Piroska, Szeghalmy Szilvia és Varga Imre (PDF)
-* [Tanuljunk meg programozni Python nyelven](http://mek.oszk.hu/08400/08435/index.phtml) - Gérard Swinnen, ford.: Daróczy Péter (PDF, ODT)
+* [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, `trl.:` Daróczy Péter (PDF)
+* [Bevezetés a wxPythonba](http://mek.oszk.hu/08400/08446/index.phtml) - Jeremy Berthet, Gilles Doge, `trl.:` Daróczy Péter (PDF)
+* [Hogyan gondolkozz úgy, mint egy informatikus:Tanulás Python 3 segítségével](https://mtmi.unideb.hu/pluginfile.php/554/mod_resource/content/3/thinkcspy3.pdf) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers, `trl.:` Biró Piroska, Szeghalmy Szilvia, Varga Imre (PDF)
+* [Tanuljunk meg programozni Python nyelven](http://mek.oszk.hu/08400/08435/index.phtml) - Gérard Swinnen, `trl.:` Daróczy Péter (PDF, ODT)
 
 
 #### Django

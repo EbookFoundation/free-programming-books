@@ -14,7 +14,7 @@
     * [Sítě](#site)
 * [LaTeX](#latex)
 * [Linux](#linux)
-  * [Distribuce](#distribuce)
+    * [Distribuce](#distribuce)
 * [OpenSource](#opensource)
 * [PHP](#php)
 * [Python](#python)

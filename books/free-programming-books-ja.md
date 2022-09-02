@@ -220,7 +220,7 @@
 
 #### 理論計算機科学
 
-* [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext) - Gerald Jay Sussman et al.
+* [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext) - Gerald Jay Sussman, et al.
 
 
 ### Android
@@ -228,7 +228,7 @@
 * [Android Open Text book](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 * [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 * [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - id:nobuoka
-* [AndroidTraining](https://mixi-inc.github.io/AndroidTraining/) - mixi, Inc.
+* [AndroidTraining](https://mixi-inc.github.io/AndroidTraining/) - mixi Inc.
 * [コントリビュータのためのAndroidコードスタイルガイドライン 日本語訳](http://www.textdrop.net/android/code-style-ja.html) - Android Open Source Project, Takashi Sasai(翻訳)
 
 
@@ -374,7 +374,7 @@
 
 #### Grails
 
-* [Grailsフレームワーク 日本語リファレンス](https://grails.jp/doc/latest) - T.Yamamoto & Japanese Grails Doc Translating Team. Special thanks to NTT Software.
+* [Grailsフレームワーク 日本語リファレンス](https://grails.jp/doc/latest) - T.Yamamoto, Japanese Grails Doc Translating Team. Special thanks to NTT Software
 * [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/) - 須藤悠
 
 
@@ -431,7 +431,7 @@
 
 * [AngularJS 1.2 日本語リファレンス](https://js.studio-kingdom.com/angularjs) - @tomof(翻訳)
 * [AngularJS's tutorial - あなたとともにAngularJS](http://lab.hisasann.com/AngularJSTutorial) - @hisasann
-* [AngularJSスタイルガイド](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md) - Minko Gechev, Morita Naoki, Yohei Sugigami et al.
+* [AngularJSスタイルガイド](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md) - Minko Gechev, Morita Naoki, Yohei Sugigami, et al.
 * [すぐできる AngularJS](https://8th713.github.io/LearnAngularJS) - @8th713
 
 
@@ -448,7 +448,7 @@
 
 #### Node.js
 
-* [Felix's Node.js Style Guide](https://popkirby.github.io/contents/nodeguide/style.html) - Debuggable Limited., @popkirby(翻訳)
+* [Felix's Node.js Style Guide](https://popkirby.github.io/contents/nodeguide/style.html) - Debuggable Limited, @popkirby(翻訳)
 * [node.js 怒濤の50サンプル!! – socket.io編](https://github.com/omatoro/NodeSample) - omatoro
 * [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html) - Manuel Kiessling, Yuki Kawashima(翻訳)
 
@@ -482,7 +482,7 @@
 
 ### Lua
 
-* [Lua 5.2 リファレンスマニュアル](http://milkpot.sakura.ne.jp/lua/lua52_manual_ja.html) - Lua.org, PUC-Rio.
+* [Lua 5.2 リファレンスマニュアル](http://milkpot.sakura.ne.jp/lua/lua52_manual_ja.html) - Lua.org, PUC-Rio
 * [Lua Programming](http://www.nct9.ne.jp/m_hiroi/light/lua.html) - 広井誠
 * [Luaプログラミング入門](https://densan-labs.net/tech/lua) - @nishio_dens
 
@@ -508,7 +508,7 @@
 
 * [Hibari アプリケーション開発者ガイド](https://hibari.github.io/hibari-doc/hibari-app-developer-guide.ja.html)
 * [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, 濱野司(翻訳) (PDF)
-* [The Little Redis Book](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, @craftgear(翻訳)
+* [The Little Redis Book](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear(翻訳)
 
 
 ### Objective-C
@@ -607,7 +607,7 @@
 * [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
 * [R 基本統計関数マニュアル](https://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) - 間瀬茂 (PDF)
 * [R 言語定義](https://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) - R Development Core Team, 間瀬茂(翻訳) (PDF)
-* [R 入門](https://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith and the R Development Core Team, 間瀬茂(翻訳) (PDF)
+* [R 入門](https://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith, R Development Core Team, 間瀬茂(翻訳) (PDF)
 * [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/wordpress/wp-content/uploads/2014/01/R_tutorial20131.pdf) - 小杉考司, 押江隆 (PDF)
 * [Rによる統計解析の基礎](https://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF)
 * [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)

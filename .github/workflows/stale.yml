@@ -28,12 +28,12 @@ jobs:
       - uses: actions/stale@v5
         with:
           operations-per-run: 30
-          days-before-issue-stale: 30
-          days-before-issue-close: 7
+          days-before-issue-stale: 60
+          days-before-issue-close: 30
           stale-issue-label: "stale"
           close-issue-label: "stale: closed"
-          stale-issue-message: "This issue is stale because it has been open for 30 days with no activity."
-          close-issue-message: "This issue was closed because it has been inactive for 7 days since being marked as stale."
+          stale-issue-message: "This issue is stale because it has been open for 60 days with no activity."
+          close-issue-message: "This issue was closed because it has been inactive for 30 days since being marked as stale."
           remove-issue-stale-when-updated: true
           exempt-issue-labels: "👥 discussion,👀 Needs Review,📌 pinned"
           days-before-pr-stale: -1
@@ -51,12 +51,12 @@ jobs:
       - uses: actions/stale@v5
         with:
           operations-per-run: 30
-          days-before-pr-stale: 30
-          days-before-pr-close: 7
+          days-before-pr-stale: 60
+          days-before-pr-close: 30
           stale-pr-label: "stale"
           close-pr-label: "stale: closed"
-          stale-pr-message: "This pull request is stale because it has been open for 30 days with no activity."
-          close-pr-message: "This pull request was closed because it has been inactive for 7 days since being marked as stale."
+          stale-pr-message: "This pull request is stale because it has been open for 60 days with no activity."
+          close-pr-message: "This pull request was closed because it has been inactive for 30 days since being marked as stale."
           remove-pr-stale-when-updated: true
           exempt-pr-labels: "👥 discussion,👀 Needs Review"
           exempt-draft-pr: true

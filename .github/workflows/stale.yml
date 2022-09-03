@@ -32,8 +32,16 @@ jobs:
           days-before-issue-close: 30
           stale-issue-label: "stale"
           close-issue-label: "stale: closed"
-          stale-issue-message: "This issue is stale because it has been open for 60 days with no activity."
-          close-issue-message: "This issue was closed because it has been inactive for 30 days since being marked as stale."
+          stale-issue-message: |
+            This issue has been automatically marked as stale because it has not had activity during the last 60 days.
+
+            It will be closed if no further activity occurs on the next 30 days.
+
+            Thank you for your contributions.
+          close-issue-message: |
+            This issue has been automatically closed because it has been inactive during the last 30 days since being marked as stale.
+
+            Anyway, thank you for your contributions.
           remove-issue-stale-when-updated: true
           exempt-issue-labels: "👥 discussion,👀 Needs Review,📌 pinned"
           days-before-pr-stale: -1
@@ -56,8 +64,16 @@ jobs:
           days-before-pr-close: 30
           stale-pr-label: "stale"
           close-pr-label: "stale: closed"
-          stale-pr-message: "This pull request is stale because it has been open for 60 days with no activity."
-          close-pr-message: "This pull request was closed because it has been inactive for 30 days since being marked as stale."
+          stale-pr-message: |
+            This pull request has been automatically marked as stale because it has not had activity during the last 60 days.
+
+            It will be closed if no further activity occurs on the next 30 days.
+
+            Thank you for your contributions.
+          close-pr-message: |
+            This pull request has been automatically closed because it has been inactive during the last 30 days since being marked as stale.
+
+            Anyway, thank you for your contributions.
           remove-pr-stale-when-updated: true
           exempt-pr-labels: "👥 discussion,👀 Needs Review"
           exempt-draft-pr: true

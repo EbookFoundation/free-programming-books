@@ -2,8 +2,8 @@ name: Stale and close inactive issues/PRs
 
 on:
   schedule:
-    - cron: "30 1 * * *"  # each day at 1:30AM
-  workflow_dispatch:      # or manually
+    - cron: "0 0,6,12,18 * * *"  # every 6 hours o'clock... 0:00am 6:00am 12:00pm 18:00pm
+  workflow_dispatch:             # or manually
 
 permissions:
   issues: read
@@ -39,6 +39,7 @@ jobs:
           days-before-pr-stale: -1
           days-before-pr-close: -1
 
+
   process-prs:
     name: Process Pull Requests
 
@@ -63,8 +64,9 @@ jobs:
           days-before-issue-stale: -1
           days-before-issue-close: -1
 
-  generate-summary:
-    name: GitHub report
+
+  reporter:
+    name: GitHub reporter
 
     needs: [process-issues, process-prs]
 

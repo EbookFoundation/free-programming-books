@@ -6,7 +6,6 @@ on:
       - "pinned"
       - "unpinned"
 
-
 permissions:
   contents: none
   issues: read
@@ -22,14 +21,10 @@ jobs:
 
   if-pinned:
     name: On pinning an issue
-
     if: github.event.action == 'pinned'
-
     permissions:
       issues: write
-
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions-ecosystem/action-add-labels@v1
         id: add-labels
@@ -42,14 +37,10 @@ jobs:
 
   if-unpinned:
     name: On unpinning an issue
-
     if: github.event.action == 'unpinned'
-
     permissions:
       issues: write
-
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions-ecosystem/action-remove-labels@v1
         id: remove-labels
@@ -62,9 +53,7 @@ jobs:
 
   reporter:
     name: GitHub reporter
-
     runs-on: ubuntu-latest
-
     steps:
       - run: |
           echo "$INPUT_SUMMARY"  >> $GITHUB_STEP_SUMMARY;

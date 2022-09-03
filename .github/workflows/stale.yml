@@ -6,6 +6,7 @@ on:
   workflow_dispatch:             # or manually
 
 permissions:
+  contents: none
   issues: read
   pull-requests: read
 

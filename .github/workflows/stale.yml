@@ -11,13 +11,22 @@ permissions:
 
 # This allows a subsequently queued workflow run to interrupt previous runs
 concurrency:
-  group: '${{ github.workflow }} @ ${{ github.head_ref || github.ref || github.run_id }}'
+  group: '${{ github.workflow }} @ ${{ github.run_id }}'
   cancel-in-progress: true
 
 jobs:
 
   process-issues:
     name: Process Issues
+
+    # This allows a subsequently queued workflow run to wait for previous runs completion
+    concurrency:
+      group: '${{ github.workflow }} @ ${{ github.run_id }} :: issues'
+      cancel-in-progress: false
+
+    outputs:
+      staled-issues: ${{ steps.staler.outputs.staled-issues-prs }}
+      closed-issues: ${{ steps.staler.outputs.closed-issues-prs }}
 
     permissions:
       issues: write
@@ -50,6 +59,15 @@ jobs:
 
   process-prs:
     name: Process Pull Requests
+
+    # This allows a subsequently queued workflow run to wait for previous runs completion
+    concurrency:
+      group: '${{ github.workflow }} @ ${{ github.run_id }} :: PRs'
+      cancel-in-progress: false
+
+    outputs:
+      staled-prs: ${{ steps.staler.outputs.staled-issues-prs }}
+      closed-prs: ${{ steps.staler.outputs.closed-issues-prs }}
 
     permissions:
       pull-requests: write

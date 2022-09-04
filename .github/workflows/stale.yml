@@ -18,21 +18,18 @@ jobs:
 
   process-issues:
     name: Process Issues
-
     # This allows a subsequently queued workflow run to wait for previous runs completion
     concurrency:
       group: '${{ github.workflow }} @ ${{ github.run_id }} :: issues'
       cancel-in-progress: false
-
+    # export variables used by reporter job
     outputs:
       staled-issues: ${{ steps.staler.outputs.staled-issues-prs }}
       closed-issues: ${{ steps.staler.outputs.closed-issues-prs }}
-
+    # enable write access rights to allow comment and labeling by bot
     permissions:
       issues: write
-
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/stale@v5
         with:
@@ -59,21 +56,18 @@ jobs:
 
   process-prs:
     name: Process Pull Requests
-
     # This allows a subsequently queued workflow run to wait for previous runs completion
     concurrency:
       group: '${{ github.workflow }} @ ${{ github.run_id }} :: PRs'
       cancel-in-progress: false
-
+    # export variables used by reporter job
     outputs:
       staled-prs: ${{ steps.staler.outputs.staled-issues-prs }}
       closed-prs: ${{ steps.staler.outputs.closed-issues-prs }}
-
+    # enable write access rights to allow comment and labeling by bot
     permissions:
       pull-requests: write
-
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/stale@v5
         with:
@@ -101,11 +95,8 @@ jobs:
 
   reporter:
     name: GitHub reporter
-
     needs: [process-issues, process-prs]
-
     runs-on: ubuntu-latest
-
     steps:
       - run: |
           echo "### Staled issues"  \

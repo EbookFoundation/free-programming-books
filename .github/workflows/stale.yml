@@ -33,6 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/stale@v5
+        id: staler
         with:
           operations-per-run: 30
           days-before-issue-stale: 60
@@ -71,6 +72,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/stale@v5
+        id: staler
         with:
           operations-per-run: 30
           days-before-pr-stale: 60
@@ -127,7 +129,7 @@ jobs:
           GITHUB_REPO_URL:   ${{ format('{0}/{1}', github.server_url, github.repository) }}
           GITHUB_ISSUES_URL: ${{ format('{0}/{1}/issues', github.server_url, github.repository) }}
           GITHUB_PULL_URL:   ${{ format('{0}/{1}/pull', github.server_url, github.repository) }}
-          STALED_ISSUES: ${{ needs.process-issues.outputs.staled-issues-prs }}
-          CLOSED_ISSUES: ${{ needs.process-issues.outputs.closed-issues-prs }}
-          STALED_PRS:    ${{ needs.process-prs.outputs.staled-issues-prs }}
-          CLOSED_PRS:    ${{ needs.process-prs.outputs.closed-issues-prs }}
+          STALED_ISSUES: ${{ needs.process-issues.outputs.staled-issues }}
+          CLOSED_ISSUES: ${{ needs.process-issues.outputs.closed-issues }}
+          STALED_PRS:    ${{ needs.process-prs.outputs.staled-prs }}
+          CLOSED_PRS:    ${{ needs.process-prs.outputs.closed-prs }}

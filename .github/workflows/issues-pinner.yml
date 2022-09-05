@@ -47,7 +47,7 @@ jobs:
         with:
           repo:   ${{ github.repository }}
           number: ${{ github.event.issue.number }}
-          labels:
+          labels: |
             📌 pinned
 
 

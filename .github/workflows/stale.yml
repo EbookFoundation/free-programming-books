@@ -50,7 +50,7 @@ jobs:
 
             Anyway, thank you for your contributions.
           remove-issue-stale-when-updated: true
-          exempt-issue-labels: "👥 discussion,👀 Needs Review,📌 pinned"
+          exempt-issue-labels: "blocked,must,should,keep,👥 discussion,👀 Needs Review,📌 pinned"
           days-before-pr-stale: -1
           days-before-pr-close: -1
 
@@ -88,7 +88,7 @@ jobs:
 
             Anyway, thank you for your contributions.
           remove-pr-stale-when-updated: true
-          exempt-pr-labels: "👥 discussion,👀 Needs Review"
+          exempt-pr-labels: "blocked,must,should,keep,👥 discussion,👀 Needs Review"
           exempt-draft-pr: true
           days-before-issue-stale: -1
           days-before-issue-close: -1

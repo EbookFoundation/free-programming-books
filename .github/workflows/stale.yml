@@ -36,8 +36,8 @@ jobs:
         id: staler
         with:
           operations-per-run: 30
-          days-before-issue-stale: 60
-          days-before-issue-close: 30
+          days-before-issue-stale: 1
+          days-before-issue-close: 1
           stale-issue-label: "stale"
           close-issue-label: "stale: closed"
           stale-issue-message: |
@@ -90,8 +90,8 @@ jobs:
         id: staler
         with:
           operations-per-run: 30
-          days-before-pr-stale: 60
-          days-before-pr-close: 30
+          days-before-pr-stale: 1
+          days-before-pr-close: 1
           stale-pr-label: "stale"
           close-pr-label: "stale: closed"
           stale-pr-message: |

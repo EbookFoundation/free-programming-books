@@ -1,0 +1,64 @@
+name: Issues pinner management
+
+on:
+  issues:
+    types:
+      - "pinned"
+      - "unpinned"
+
+permissions:
+  contents: none
+  issues: read
+
+# This allows a subsequently queued workflow run to interrupt/wait for previous runs
+concurrency:
+#  group: '${{ github.workflow }} @ ${{ github.event.issue.number || github.run_id }} :: ${{ github.event.action }}'
+#  cancel-in-progress: true
+  group: '${{ github.workflow }} @ ${{ github.event.issue.number || github.run_id }}'
+  cancel-in-progress: false
+
+jobs:
+
+  if-pinned:
+    name: On pinning an issue
+    if: github.event.action == 'pinned'
+    permissions:
+      issues: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions-ecosystem/action-add-labels@v1
+        id: add-labels
+        with:
+          repo:   ${{ github.repository }}
+          number: ${{ github.event.issue.number }}
+          labels: |
+            :pushpin: pinned
+
+
+  if-unpinned:
+    name: On unpinning an issue
+    if: github.event.action == 'unpinned'
+    permissions:
+      issues: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions-ecosystem/action-remove-labels@v1
+        id: remove-labels
+        with:
+          repo:   ${{ github.repository }}
+          number: ${{ github.event.issue.number }}
+          labels: |
+            :pushpin: pinned
+
+
+  reporter:
+    name: GitHub reporter
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo "$INPUT_SUMMARY"  >> $GITHUB_STEP_SUMMARY;
+        env:
+          INPUT_SUMMARY: ${{ format('Issue [\#{2}]({0}/{1}/issues/{2}) should be `{3}`.',
+                                    github.server_url, github.repository,
+                                    github.event.issue.number,
+                                    github.event.action) }}

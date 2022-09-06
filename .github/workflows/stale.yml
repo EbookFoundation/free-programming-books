@@ -25,8 +25,8 @@ jobs:
       cancel-in-progress: false
     # export variables used by reporter job
     outputs:
-      staled-issues: ${{ steps.staler.outputs.staled-issues-prs }}
-      closed-issues: ${{ steps.staler.outputs.closed-issues-prs }}
+      staled-issues: ${{ steps.stale.outputs.staled-issues-prs }}
+      closed-issues: ${{ steps.stale.outputs.closed-issues-prs }}
     # enable write access rights to allow comment and labeling by bot
     permissions:
       issues: write
@@ -55,6 +55,21 @@ jobs:
           days-before-pr-stale: -1
           days-before-pr-close: -1
 
+      - name: Set outputs
+        ## Removing private properties from each JSON object.
+        ## TODO: Remove this ugly fix for actions/stale#806
+        id: stale
+        run: |
+          echo $STALED  \
+            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
+            | sed -e 's/^/::set-output name=staled-issues-prs::/'
+          echo $CLOSED  \
+            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
+            | sed -e 's/^/::set-output name=closed-issues-prs::/'
+        env:
+          STALED: ${{ steps.staler.outputs.staled-issues-prs }}
+          CLOSED: ${{ steps.staler.outputs.closed-issues-prs }}
+
 
   process-prs:
     name: Process Pull Requests
@@ -64,8 +79,8 @@ jobs:
       cancel-in-progress: false
     # export variables used by reporter job
     outputs:
-      staled-prs: ${{ steps.staler.outputs.staled-issues-prs }}
-      closed-prs: ${{ steps.staler.outputs.closed-issues-prs }}
+      staled-prs: ${{ steps.stale.outputs.staled-issues-prs }}
+      closed-prs: ${{ steps.stale.outputs.closed-issues-prs }}
     # enable write access rights to allow comment and labeling by bot
     permissions:
       pull-requests: write
@@ -94,6 +109,21 @@ jobs:
           exempt-draft-pr: true
           days-before-issue-stale: -1
           days-before-issue-close: -1
+
+      - name: Set outputs
+        ## Removing private properties from each JSON object.
+        ## TODO: Remove this ugly fix for actions/stale#806
+        id: stale
+        run: |
+          echo $STALED  \
+            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
+            | sed -e 's/^/::set-output name=staled-issues-prs::/'
+          echo $CLOSED  \
+            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
+            | sed -e 's/^/::set-output name=closed-issues-prs::/'
+        env:
+          STALED: ${{ steps.staler.outputs.staled-issues-prs }}
+          CLOSED: ${{ steps.staler.outputs.closed-issues-prs }}
 
 
   reporter:

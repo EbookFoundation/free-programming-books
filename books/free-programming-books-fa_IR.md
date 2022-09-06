@@ -8,9 +8,9 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [R](#r)
 
 
@@ -28,7 +28,7 @@
 
 * [الگوهای طراحی](https://holosen.net/what-is-design-pattern/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)*
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
-* [ترجمه آزاد کتاب کد تمیز](https://codetamiz.vercel.app) - Robert C. Martin et al.
+* [ترجمه آزاد کتاب کد تمیز](https://codetamiz.vercel.app) - Robert C. Martin, et al.
 
 
 ### HTML and CSS
@@ -83,4 +83,3 @@
 * [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf) (PDF)
 * [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
 * [موضعات ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
-

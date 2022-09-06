@@ -4,6 +4,7 @@
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Assembly](#assembly)
+* [AWS](#aws)
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#&lrm;](#csharp)
@@ -11,31 +12,34 @@
 * [Computer Architecture](#computer-architecture)
 * [Dart](#dart)
 * [Databases](#databases)
-  * [NoSQL](#nosql)
-  * [SQL](#sql)
+    * [NoSQL](#nosql)
+    * [SQL](#sql)
+* [Deep Learning](#deep-learning)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git](#git)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Gulp.js](#gulpjs)
-  * [jQuery](#jquery)
-  * [NodeJS](#nodejs)
-  * [PugJs](#pugjs)
-  * [React.js](#reactjs)
-  * [Vue.js](#vuejs)
+    * [Gulp.js](#gulpjs)
+    * [jQuery](#jquery)
+    * [NodeJS](#nodejs)
+    * [PugJs](#pugjs)
+    * [React.js](#reactjs)
+    * [Vue.js](#vuejs)
+* [Machine Learning](#machine-learning)
+* [Natural Language Programming](#natural-language-programming)
 * [.NET](#net)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
 * [Prolog](#prolog)
 * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
+    * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Software Architecture](#software-architecture)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 
 
 ### Algorithms & Data Structures
@@ -59,6 +63,11 @@
 
 * [Microprocessor 8086 & Assembly Language Course&rlm;](https://www.youtube.com/playlist?list=PLi0-RQZxQ8Fmwopq43StX61igOvXbFMQv) - Sherif Ezzat
 * [x86 Assembly Language - لغة التجميع](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVodghdDWaAuHkHqj-nJ0bN) - Ahmed Sallam
+
+
+### AWS
+
+* [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - Eissa AbuSherif
 
 
 ### Bootstrap
@@ -134,6 +143,15 @@
 * [MySQL tutorials \|\| بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad
 
 
+### Deep Learning
+
+* [14 الكورس الأول : التعلم العميق و الشبكات العصبية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WyBLsw6yJYWIiFJ1OmmRyK) - Hesham Asem
+* [15 الكورس الثاني : تطوير الشبكات العميقة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VAuf-d71pu2vGZDgGZnZMw) - Hesham Asem
+* [16 الكورس الثالث : هيكلية مشاريع تعلم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XhL1i0vvBi39LA_ChPzyWw) - Hesham Asem
+* [17 الكورس الرابع : الشبكات العصبية الملتفة CNN](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XHyhWNs-jxFtfERv4NlZmm) - Hesham Asem
+* [18 الكورس الخامس : الشبكات العصبية المتكررة RNN](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WTcrGAWlZUL9sOGYgSsON_) - Hesham Asem
+
+
 ### Flutter
 
 * [Advanced Flutter Tutorial - build E commerce App&rlm;](https://www.youtube.com/playlist?list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe) - Scholar Tech&rlm; (:construction: *in process*)
@@ -173,7 +191,7 @@
 * [Learn SASS In Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) - Elzero Web School
 * [Sass&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6bF7qObm2a1mLN_WHAWQo) - Elzero Web School
 * [Sass - Create a website&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) - Elzero Web School
-* [Yonisfy CS94's | Web Programming with JavaScript&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiXqkUqcoKrVjCyOrZh7Tw0e) - Mohammed Elzanaty
+* [Yonisfy CS94's \| Web Programming with JavaScript&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiXqkUqcoKrVjCyOrZh7Tw0e) - Mohammed Elzanaty
 
 
 ### Java
@@ -280,6 +298,35 @@
 * [Vue.js Apps and Practical examples&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9) - Elzero Web School
 * [Vue.js Composition API&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZiOnKcf00l1NWC-xz-TV0h) - Algorithm Academy
 * [Vue.js Router Tutorial&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNObtw2FtE4_eX_k9yCf-Fcd3) - Algorithm Academy
+
+
+### Machine Learning
+
+* [01 machine learning تعليم الآلة , القسم الأول : مقدمة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5Vf1RAHyBo4tRzT8lEavPhR) - Hesham Asem
+* [02 تعليم الآلة , القسم الثاني : التوقع Machine learning , Regression](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UJE2PbY7UU4SHi7UpV1mXo) - Hesham Asem
+* [03 تعليم الآلة , القسم الثالث : بايثون Machine learning , Python](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s) - Hesham Asem
+* [04 القسم الرابع : التصنيف Classification & Logistic Regression](https://www.youtube.com/playlist?list=PL6-3IRz2XF5Uq7PkI_PWOm_DLC2CFvSzU) - Hesham Asem
+* [05 القسم الخامس : الشبكات العصبية Neural Network](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UX-Yi32r925nsgW-3GrnSa) - Hesham Asem
+* [06 القسم السادس : نظام الدعم الآلي SVM](https://www.youtube.com/playlist?list=PL6-3IRz2XF5U98PPtkc34sg7EEGC34WRs) - Hesham Asem
+* [07 القسم السابع : التعليم بدون إشراف Unsupervised ML](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VEygzpmG1GZgI8l1xwPDBP) - Hesham Asem
+* [08 القسم الثامن : مواضيع هامة في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UnONA8-ENhR0NE04mIllqB) - Hesham Asem
+* [09 القسم التاسع : تكنيكات حديثة في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XJKEXITqCNQN8209q3qlrL) - Hesham Asem
+* [10 القسم العاشر : مكتبة سايكيتليرن Sklearn Library](https://www.youtube.com/playlist?list=PL6-3IRz2XF5X_9JeJh1xeciAbkijvc09k) - Hesham Asem
+* [11 القسم الحادي عشر : تنسر فلو و كيراس TensorFlow & Keras](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VbuU2T0gS_mFhCpKmLxvCP) - Hesham Asem
+* [12 القسم الثاني عشر : تطبيقات عملية من كاجل و جيتهاب Kaggle & Github](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XA13ZqfacovmyOLjYwwhMt) - Hesham Asem
+* [13 ML Helper Tutorials برنامج المساعد في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VdA0sd-nLM0LMzhfivfwmu) - Hesham Asem
+
+
+### Natural Language Programming
+
+* [21 NLP-01 مقدمة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XpTaCGcWlSx-hy8JcIxsU7) - Hesham Asem
+* [22 NLP-02 أساسيات المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VFSRQLI7skbH8UPEdfCFBg) - Hesham Asem
+* [23 NLP-03 أدوات المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WYpWu6Y8T3firJLflZ3Ufi) - Hesham Asem
+* [24 NLP-04 المعالجة البسيطة للنصوص](https://www.youtube.com/playlist?list=PL6-3IRz2XF5W7brQxe9RHNpHSeUTuz-V_) - Hesham Asem
+* [25 NLP-05 المعالجة المتقدمة للنصوص](https://www.youtube.com/playlist?list=PL6-3IRz2XF5W7QQ3mKJ1kldXpN3Vquzbc) - Hesham Asem
+* [26 NLP-06 تجميع البيانات](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UsyOPThnWFKUzSkrQwQHJ0) - Hesham Asem
+* [27 NLP-07 الشبكات العصبية المتكررة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XZCwISqNQPFFns9bnx2wUG) - Hesham Asem
+* [28 NLP-08 تكنيكات حديثة في المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XHsUtAUid97yRi011KSDBZ) - Hesham Asem
 
 
 ### .NET

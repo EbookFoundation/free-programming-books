@@ -8,7 +8,7 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [Java](#java)
-  * [Spring](#spring)
+    * [Spring](#spring)
 * [JavaScript](#javascript)
 * [.NET](#net)
 * [Node.js](#nodejs)
@@ -137,5 +137,3 @@
 ### Webpack
 
 * [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)
-
-

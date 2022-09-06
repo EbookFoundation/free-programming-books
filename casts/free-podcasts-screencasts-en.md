@@ -1,7 +1,7 @@
 ### Index
 
 * [Android](#android)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Common Lisp](#common-lisp)
@@ -40,7 +40,7 @@
 * [The complete Android Application Development Course - Work Great in 2020](https://www.youtube.com/playlist?list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe) - Android Developer (screencast)
 
 
-### <a id="c-sharp"></a>C&#x23;
+### <a id="csharp"></a>C\#
 
 * [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) - Brian Douglas Moakley, VegetarianZombie (screencast)
 * [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Asbjørn Thirslund (screencast)
@@ -168,7 +168,7 @@
 * [Frontend First](https://player.fm/series/frontend-first) - Sam Selikoff, Ryan Toronto (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) - CodeSchool (podcast)
 * [HTML All The Things](https://www.htmlallthethings.com/podcast) - Mike Karan, Matt Lawrence (podcast)
-* [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu,, Tyler McGinnis, Kyle Simpson, et al.(podcast)
+* [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu, Tyler McGinnis, Kyle Simpson, et al. (podcast)
 * [JavaScript Jabber](https://javascriptjabber.com) - Aimee Knight, AJ O'Neal, Charles Wood, Dan Shappir, Steve Edwards, et al. (podcast)
 * [JS Party](https://changelog.com/jsparty) - Jerod Santo, Nick Nisi, Amelia Wattenberger, Kevin Ball, Divya, Feross Aboukhadijeh, Amal Hussein, Christopher Hiller, Ali Spittel, et al. (podcast)
 * [Modern Web](https://www.thisdot.co/modern-web) - This Dot Labs (podcast)

@@ -17,9 +17,8 @@
 * [Linux](#linux)
 * [Matlab](#matlab)
 * [.NET Framework](#net-framework)
-* [PHP](#php)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -69,12 +68,12 @@
 
 ### Go
 
-* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi ([HTML](https://github.com/umutphp/the-little-go-book/blob/master/tr/go.md), [PDF](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.pdf), [EPUB](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.epub))
+* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, `trl.:` Umut Işık tarafından çevirildi ([HTML](https://github.com/umutphp/the-little-go-book/blob/master/tr/go.md), [PDF](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.pdf), [EPUB](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.epub))
 
 
 ### Güvenlik ve Gizlilik
 
-* [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin et al.
+* [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin, et al.
 
 
 ### HTML and CSS
@@ -124,11 +123,6 @@
 ### .NET Framework
 
 * [ASP.NET Core El Kitabı](https://sahin.gitbook.io/asp-net-core-el-kitab)
-
-
-### PHP
-
-* [PHP - Laravel 4 Türkçe Dokumantasyon](https://www.leanpub.com/laravel4-tr)
 
 
 ### Python

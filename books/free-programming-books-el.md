@@ -3,7 +3,7 @@
 * [C](#c)
 * [C++](#cpp)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [Python](#python)
 * [Scala](#scala)
 * [SQL](#sql)
@@ -30,7 +30,7 @@
 * [Σημειώσεις Java](http://www.ebooks4greeks.gr/wp-content/uploads/2013/03/shmeiwseis-Java-eBooks4Greeks.gr_.pdf) (PDF)
 
 
-### Javascript
+### JavaScript
 
 * [HTML5-JavaScript (Δημιουργώντας παιχνίδια – Ο εύκολος τρόπος)](https://www.ebooks4greeks.gr/html5-javascript)
 

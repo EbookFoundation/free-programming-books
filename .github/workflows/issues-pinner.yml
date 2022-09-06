@@ -32,7 +32,7 @@ jobs:
           repo:   ${{ github.repository }}
           number: ${{ github.event.issue.number }}
           labels: |
-            📌 pinned
+            :pushpin: pinned
 
 
   if-unpinned:
@@ -48,7 +48,7 @@ jobs:
           repo:   ${{ github.repository }}
           number: ${{ github.event.issue.number }}
           labels: |
-            📌 pinned
+            :pushpin: pinned
 
 
   reporter:

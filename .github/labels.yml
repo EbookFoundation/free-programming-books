@@ -1,0 +1,252 @@
+
+## LABELS DEFINITION CONFIG FILE
+##########################################~
+##
+## For renaming a label...
+##
+##  - from_name: "abc"
+##    name: "xyz"
+##    color: "FFFFFF"
+##    description: ...
+##
+## For creating new label or update existing one...
+##
+##  - name: "xyz"
+##    color: "FFFFFF"
+##    description: ...
+##
+## more info at https://github.com/crazy-max/ghaction-github-labeler
+##
+
+- name: "🤖 automation"
+  color: "8AA891"
+  description: Automated tasks done by workflows or bots
+
+- name: ":bug: BUG"
+  color: "E48999"
+  description: Confirmed bugs, normally at GitHub Pages
+
+- name: "conflicts"
+  color: "D4C5F9"
+  description: Conflict(s) need to be resolved
+
+- name: "🔗 dependencies"
+  color: "0B187E"
+  description: Address project dependencies
+
+- name: "🔗 dependencies:github-actions"
+  color: "0B187E"
+  description: Address CI dependencies related with GitHub Actions'
+
+- name: ":busts_in_silhouette: discussion"
+  color: "BFDADC"
+  description: This Repo is guided by its community! Let's talk!
+
+- name: "duplicate"
+  color: "CCCCCC"
+  description: Contributed resource, issue, pull request... already exists
+
+- name: "good first issue"
+  color: "B5841C"
+  description: A good starting point for newcomers
+
+- name: "help wanted"
+  color: "B545D1"
+  description: Needs help solving a blocked / stucked item
+
+- name: "keep"
+  color: "0E8A16"
+  description: Requests exempt from being punctually stale
+
+- name: "linter error"
+  color: "FEF2C0"
+  description: Please, correct build errors found by linter!
+
+- name: ":eyes: Needs Review"
+  color: "006B75"
+  description: Is this really a good resource? Reviews requested.
+
+- name: "New Feature"
+  color: "009800"
+  description: New feature / enhancement / translation...
+
+- name: "not free?"
+  color: "F7B3A5"
+  description: Needs clarification that the link is really free.
+
+- name: ":pushpin: pinned"
+  color: "207AEE"
+  description: Issues that are pinned currently
+
+- name: "PR requested"
+  color: "5319E7"
+  description: Issues that can be addressed with a new PR
+
+- name: "question"
+  color: "CC317C"
+  description: Needs clarification by involved users / reviewers
+
+- name: ":rocket: ready to merge"
+  color: "FBCA04"
+  description: LGTM. Waiting for final approval
+
+- name: "stale"
+  color: "111111"
+  description: Requests that have not had recent interaction (Out-of-Date)
+
+- name: "stale: closed"
+  color: "111111"
+  description: Requests closed due to don't have recent interaction (Out-of-Date)
+
+- name: "urlchecker"
+  color: "F67042"
+  description: Checker workflow monitoring the links of resources has found some warnings. See logs and fix URLs.
+
+- name: "waiting for changes"
+  color: "207DE5"
+  description: PR has been reviewed and changes/suggestions requested
+
+
+##
+## LOCALE MARKS FOR FILES
+##
+
+- name: ":speaking_head: translations"
+  color: "2D9150"
+  description: Issues or PRs addresing translations
+
+- name: ":speaking_head: locale:ar"
+  color: "B2E73E"
+  description: Resources addressing "Arabic / العربية" language
+- name: ":speaking_head: locale:az"
+  color: "B2E73E"
+  description: Resources addressing "Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي" language
+- name: ":speaking_head: locale:bg"
+  color: "B2E73E"
+  description: Resources addressing "Bulgarian / български" language
+- name: ":speaking_head: locale:bn"
+  color: "B2E73E"
+  description: Resources addressing "Bengali / বাংলা" language
+- name: ":speaking_head: locale:bs"
+  color: "B2E73E"
+  description: Resources addressing "Bosnian / bosanski jezik" language
+- name: ":speaking_head: locale:cs"
+  color: "B2E73E"
+  description: Resources addressing "Czech / čeština / český jazyk" language
+- name: ":speaking_head: locale:da"
+  color: "B2E73E"
+  description: Resources addressing "Danish / dansk" language
+- name: ":speaking_head: locale:de"
+  color: "B2E73E"
+  description: Resources addressing "German / Deutsch" language
+- name: ":speaking_head: locale:el"
+  color: "B2E73E"
+  description: Resources addressing "Greek / Hellenic / ελληνικά" language
+- name: ":speaking_head: locale:en"
+  color: "B2E73E"
+  description: Resources addressing "English" language
+- name: ":speaking_head: locale:es"
+  color: "B2E73E"
+  description: Resources addressing "Spanish / español / castellano" language
+- name: ":speaking_head: locale:et"
+  color: "B2E73E"
+  description: Resources addressing "Estonian / eesti keel" language
+- name: ":speaking_head: locale:fa_IR"
+  color: "B2E73E"
+  description: Resources addressing "Persian / Farsi (Iran) / فارسى" language
+- name: ":speaking_head: locale:fi"
+  color: "B2E73E"
+  description: Resources addressing "Finnish / suomi / suomen kieli" language
+- name: ":speaking_head: locale:fil"
+  color: "B2E73E"
+  description: Resources addressing "Filipino" language
+- name: ":speaking_head: locale:fr"
+  color: "B2E73E"
+  description: Resources addressing "French / français" language
+- name: ":speaking_head: locale:he"
+  color: "B2E73E"
+  description: Resources addressing "Hebrew / עברית" language
+- name: ":speaking_head: locale:hi"
+  color: "B2E73E"
+  description: Resources addressing "Hindi / हिन्दी" language
+- name: ":speaking_head: locale:hu"
+  color: "B2E73E"
+  description: Resources addressing "Hungarian / magyar / magyar nyelv" language
+- name: ":speaking_head: locale:id"
+  color: "B2E73E"
+  description: Resources addressing "Indonesian" language
+- name: ":speaking_head: locale:it"
+  color: "B2E73E"
+  description: Resources addressing "Italian / italiano" language
+- name: ":speaking_head: locale:jp"
+  color: "B2E73E"
+  description: Resources addressing "Japanese / 日本語" language
+- name: ":speaking_head: locale:kk"
+  color: "B2E73E"
+  description: Resources addressing "Kazakh / қазақша" language
+- name: ":speaking_head: locale:km"
+  color: "B2E73E"
+  description: Resources addressing "Khmer / Cambodian / ខ្មែរ" language
+- name: ":speaking_head: locale:ko"
+  color: "B2E73E"
+  description: Resources addressing "Korean / 한국어 [韓國語]" language
+- name: ":speaking_head: locale:lv"
+  color: "B2E73E"
+  description: Resources addressing "Latvian / Lettish" language
+- name: ":speaking_head: locale:ml"
+  color: "B2E73E"
+  description: Resources addressing "Malayalam / മലയാളം" language
+- name: ":speaking_head: locale:my"
+  color: "B2E73E"
+  description: Resources addressing "Burmese / မြန်မာဘာသာ" language
+- name: ":speaking_head: locale:nl"
+  color: "B2E73E"
+  description: Resources addressing "Dutch / Nederlands" language
+- name: ":speaking_head: locale:no"
+  color: "B2E73E"
+  description: Resources addressing "Norwegian / Norsk" language
+- name: ":speaking_head: locale:pl"
+  color: "B2E73E"
+  description: Resources addressing "Polish / polski" language
+- name: ":speaking_head: locale:pt"
+  color: "B2E73E"
+  description: Resources addressing "Portuguese / Brazilian" language
+- name: ":speaking_head: locale:ro"
+  color: "B2E73E"
+  description: Resources addressing "Romanian (Romania) / limba română / român" language
+- name: ":speaking_head: locale:ru"
+  color: "B2E73E"
+  description: Resources addressing "Russian / Русский язык" language
+- name: ":speaking_head: locale:si"
+  color: "B2E73E"
+  description: Resources addressing "Sinhala / සිංහල" language
+- name: ":speaking_head: locale:sk"
+  color: "B2E73E"
+  description: Resources addressing "Slovak / slovenčina" language
+- name: ":speaking_head: locale:sl"
+  color: "B2E73E"
+  description: Resources addressing "Slovenian / slovenščina" language
+- name: ":speaking_head: locale:sr"
+  color: "B2E73E"
+  description: Resources addressing "Serbian / српски језик / srpski jezik" language
+- name: ":speaking_head: locale:sv"
+  color: "B2E73E"
+  description: Resources addressing "Sweedish / Svenska" language
+- name: ":speaking_head: locale:ta"
+  color: "B2E73E"
+  description: Resources addressing "Tamil / தமிழ்" language
+- name: ":speaking_head: locale:th"
+  color: "B2E73E"
+  description: Resources addressing "Thai / ไทย" language
+- name: ":speaking_head: locale:tr"
+  color: "B2E73E"
+  description: Resources addressing "Turkish / Türkçe" language
+- name: ":speaking_head: locale:uk"
+  color: "B2E73E"
+  description: Resources addressing "Ukrainian / Українська" language
+- name: ":speaking_head: locale:vi"
+  color: "B2E73E"
+  description: Resources addressing "Vietnamese / Tiếng Việt" language
+- name: ":speaking_head: locale:zh"
+  color: "B2E73E"
+  description: Resources addressing "Chinese" language

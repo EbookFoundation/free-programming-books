@@ -1,0 +1,103 @@
+name: Synchronize repo labels
+
+on:
+  push:                                     # when push this files to branches....
+    branches:
+      - 'main'
+      - 'gh-actions/sync-labels'
+    paths:
+      - '.github/labels.yml'                #     - definition file
+      - '.github/workflows/sync-labels.yml' #     - this workflow
+  pull_request:                             # when pull over this files to branches...
+    branches:
+      - 'main'
+    paths:
+      - '.github/labels.yml'                #     - definition file
+      - '.github/workflows/sync-labels.yml' #     - this workflow
+  workflow_dispatch:
+    inputs:
+      dry-run:
+        type: boolean
+        description: 'If enabled, changes will not be applied'
+        required: true
+        default: true
+      skip-delete:
+        type: boolean
+        description: 'If enabled, labels will not be deleted if not found in YAML file'
+        required: true
+        default: true
+
+
+permissions:
+  # needed for checkout code
+  contents: read
+
+# This allows a subsequently queued workflow run to interrupt/wait for previous runs
+concurrency:
+  group: '${{ github.workflow }}'
+  cancel-in-progress: false         # true = interrupt, false = wait
+
+jobs:
+#
+# Note about permissions in "crazy-max/ghaction-github-labeler"...
+# - for list/read labels we need "issues: read". Use in conjuntion with "dry-run=true"
+# - for a complete CRUD we need "issues: write"
+#
+# TODO: change scope to "labels: write" when available (see planned https://github.com/community/community/discussions/13565)
+#
+
+  if-push:
+    name: Synchronize repo labels
+    if: github.event_name == 'push'
+    permissions:
+      issues: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: crazy-max/ghaction-github-labeler@v4
+        with:
+          yaml-file:   '.github/labels.yml'
+          dry-run:     false    # false = apply changes
+          skip-delete: true     # the least destructive case
+
+  if-pr:
+    name: Synchronize repo labels (PR event)
+    if: github.event_name == 'pull_request'
+    permissions:
+      issues: read
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: crazy-max/ghaction-github-labeler@v4
+        with:
+          yaml-file:   '.github/labels.yml'
+          dry-run:     true    # true = only test
+          skip-delete: true    # the least destructive case
+
+  if-manual:
+    name: Synchronize repo labels (manual)
+    if: github.event_name == 'workflow_dispatch' && github.event.inputs.dry-run == 'false'
+    permissions:
+      issues: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: crazy-max/ghaction-github-labeler@v4
+        with:
+          yaml-file:   '.github/labels.yml'
+          dry-run:     false    # false = apply changes
+          skip-delete: ${{ github.event.inputs.skip-delete != 'false' }}
+
+  if-manual-test:
+    name: Synchronize repo labels (manual test)
+    if: github.event_name == 'workflow_dispatch' && github.event.inputs.dry-run != 'false'
+    permissions:
+      issues: read
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: crazy-max/ghaction-github-labeler@v4
+        with:
+          yaml-file:   '.github/labels.yml'
+          dry-run:     true    # true = only test
+          skip-delete: ${{ github.event.inputs.skip-delete != 'false' }}

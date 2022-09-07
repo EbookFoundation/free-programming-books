@@ -43,7 +43,7 @@
 ### Algoritmi e Strutture Dati
 
 * [AlgoMOOC - Algoritmi quotidiani](https://www.youtube.com/playlist?list=PLjTV6y5YWc5HNnLyXkzUe9IlkG2n6guxU) - A. Bogliolo
-* [Algoritmi e Programmazione (C)](https://www.youtube.com/playlist?list=PLUFFnpJdi99nqESTPaxlPMOF7yEEb8_sS) - P. Camurati e G. Cabodi, Politecnico di Torino
+* [Algoritmi e Programmazione (C)](https://www.youtube.com/playlist?list=PLUFFnpJdi99nqESTPaxlPMOF7yEEb8_sS) - P. Camurati, G. Cabodi, Politecnico di Torino
 * [Algoritmi e Strutture Dati](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2TViOKbk-NjDBvL4RXDwYY) - R. Grossi, Università di Pisa
 
 
@@ -106,7 +106,7 @@
 
 ### Generale
 
-* [Automi e Linguaggi Formali](https://www.youtube.com/playlist?list=PLhEwqlL10MqNz1pA7R5jnB_gsMIhDOe5X) - Bresolin e Filè, Università di Padova
+* [Automi e Linguaggi Formali](https://www.youtube.com/playlist?list=PLhEwqlL10MqNz1pA7R5jnB_gsMIhDOe5X) - Davide Bresolin, Gilberto Filè, Università di Padova
 * [Fondamenti di Informatica](https://www.youtube.com/playlist?list=PLUL1bzfXcbX3g2cIcTFdmvj5yawQtUOxJ) - C. De Stefano, Università di Cassino e del Lazio Meridionale
 * [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - M. Mezzalama, Politecnico di Torino
 * [Informatica di Base - Corso intensivo](https://www.youtube.com/playlist?list=PLG31HS6yEI8dv6TUmv9w0W6YmEAQm0P2q) - G. Pellegrini Parisi
@@ -172,8 +172,8 @@
 ### Programmazione
 
 * [Corso di C per sistemi Embedded](https://www.youtube.com/playlist?list=PLFPNVUgYSJN3szCCDYzDoai2ueDxZpCcb) - Davide Ferrero, Deid Lab
-* [Programmazione](https://www.youtube.com/playlist?list=PLhEwqlL10MqN2eB3b4avX_DU3FK0EOYFa) - G. Filè, Università di Padova
-* [Tecniche di Programmazione (C/C++)](https://www.youtube.com/playlist?list=PLAQopGWlIcybv3YLRHGS4yZR00X3RvSBm) - L. Iocchi, D. Nardi e A. Pretto, Università La Sapienza di Roma
+* [Programmazione](https://www.youtube.com/playlist?list=PLhEwqlL10MqN2eB3b4avX_DU3FK0EOYFa) - Gilberto Filè, Università di Padova
+* [Tecniche di Programmazione (C/C++)](https://www.youtube.com/playlist?list=PLAQopGWlIcybv3YLRHGS4yZR00X3RvSBm) - L. Iocchi, D. Nardi, A. Pretto, Università La Sapienza di Roma
 
 
 ### Ruby
@@ -212,7 +212,7 @@
 ### Web
 
 * [Computer grafica 2017/2018](https://www.youtube.com/playlist?list=PLUFFnpJdi99kXjntQ0LNPnLbRLjKzmQaC) - A. Bottino, Politecnico di Torino
-* [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - F. Corno e S. Di Carlo, Politecnico di Torino
+* [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - F. Corno, S. Di Carlo, Politecnico di Torino
 
 
 ### Workshop

@@ -85,11 +85,11 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### Algorithms & Data Structures
 
-* [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli et al. (PDF)
-* [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg and Éva Tardos (PDF)
+* [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, et al. (PDF)
+* [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos (PDF)
 * [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
-* [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
+* [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
 * [Algorithms Course Materials](http://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
@@ -102,15 +102,15 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures (Into Java) - Paul N. Hilfinger](http://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) (PDF)
-* [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett and L. Del Tongo
+* [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo
 * [Data Structures and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/) - Tutorials Point (HTML, PDF)
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) (email address *requested*, not required)
 * [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) (email address *requested*, not required)
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
-* [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
+* [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho, Jeff Ullman
 * [Geometry Algorithms](http://geomalgorithms.com) - Dan Sunday
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
-* [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn et al.
+* [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn, et al.
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
@@ -145,8 +145,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [chain.courses](https://chain.courses) - James Gan, Rishub Kumar
 * [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
 * [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML)
-* [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield et al. (PDF)
-* [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline et al. (HTML)
+* [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield, et al. (PDF)
+* [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
 * [Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos (AsciiDoc)
 * [Mastering Ethereum (2018), 1st Edition](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc)
 * [Mastering the Lightning Network](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
@@ -215,7 +215,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) - Jeannette Wing, Carnegie-Mellon University (PDF)
 * [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/src) - Dr. Chris Bourke (PDF) (:construction: *in process*)
 * [Computer Science II - Draft](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Dr. Chris Bourke (PDF) (:construction: *in process*)
-* [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial and Barbara Ericson (HTML)
+* [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial, Barbara Ericson (HTML)
 * [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 
 
@@ -291,14 +291,14 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Introduction to TouchDesigner 099](https://leanpub.com/introductiontotouchdesigner/) *(Leanpub account or valid email requested)*
 * [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com) - Scratchapixel (:construction: *in process*)
 * [Learn OpenGL](http://learnopengl.com) - Joey de Vries
-* [Learn OpenGL RS](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty et al. (:construction: *in process*) (Rust)
+* [Learn OpenGL RS](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. (:construction: *in process*) (Rust)
 * [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) - Jason L. McKesson (draft)
 * [Notes for a Computer Graphics Programming Course](https://www.cs.csustan.edu/~rsc/CS3600F00/Notes.pdf) - Dr. Steve Cunningham (PDF)
-* [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations.
+* [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations
 * [Ray Tracing in One Weekend](https://raytracing.github.io) - Peter Shirley (HTML)
 * [ShaderX series](http://www.realtimerendering.com/resources/shaderx/) - Wolfgang Engel
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
-* [WebGL Insights](http://webglinsights.com) - Patrick Cozzi and Contributors
+* [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
 
 
 ### Graphical User Interfaces
@@ -310,7 +310,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
 * [The GLib/GTK+ Development Platform](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf) - Sébastien Wilmet (PDF)
 * [Web Design Primer](https://pressbooks.library.ryerson.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
-* [Web Style Guide Online](https://www.webstyleguide.com/wsg3/index.html) - Patrick J. Lynch and Sarah Horton
+* [Web Style Guide Online](https://www.webstyleguide.com/wsg3/index.html) - Patrick J. Lynch, Sarah Horton
 
 
 ### Information Retrieval
@@ -333,12 +333,12 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf) - Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang (PDF)
 * [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) (PDF)
 * [A First Encounter with Machine Learning](https://web.archive.org/web/20210420163002/https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) - Max Welling (PDF) *(:card_file_box: archived)*
-* [A Selective Overview of Deep Learning](https://arxiv.org/abs/1904.05526) - Fan, Ma, and Zhong (PDF)
+* [A Selective Overview of Deep Learning](https://arxiv.org/abs/1904.05526) - Fan, Ma, Zhong (PDF)
 * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) - Csaba Szepesvári (PDF)
-* [An Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (PDF)
+* [An Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
 * [Approaching Almost Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-* [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
+* [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
 * [Deep Learning for Coders with Fastai and PyTorch](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
 * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) - Eli Stevens, Luca Antiga, Thomas Viehmann (PDF)
 * [Dive into Deep Learning](http://d2l.ai)
@@ -360,7 +360,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/)
 * [Machine Learning with Python](https://www.tutorialspoint.com/machine_learning_with_python/) - Tutorials Point (HTML, [PDF](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf))
 * [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) - Garrett Thomas (PDF)
-* [Mathematics for Machine Learning](https://mml-book.github.io) - Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong
+* [Mathematics for Machine Learning](https://mml-book.github.io) - Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Practitioners guide to MLOps](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) - Khalid Samala, Jarek Kazmierczak, Donna Schut (PDF)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
@@ -369,19 +369,19 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
-* [The Mechanics of Machine Learning](https://mlbook.explained.ai) - Terence Parr and Jeremy Howard
+* [The Mechanics of Machine Learning](https://mlbook.explained.ai) - Terence Parr, Jeremy Howard
 * [The Python Game Book](https://web.archive.org/web/20210308080726/https://thepythongamebook.com/en%3Astart) - Horst Jens *(:card_file_box: archived)*
-* [Top 10 Machine Learning Algorithms Every Engineer Should Know](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) - Binny Mathews and Omair Aasim
+* [Top 10 Machine Learning Algorithms Every Engineer Should Know](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) - Binny Mathews, Omair Aasim
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) - Shai Shalev-Shwartz, Shai Ben-David
 
 
 ### Mathematics
 
 * [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/) - Victor Shoup
-* [A Computational Logic (1979)](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer and J Strother Moore (PDF)
+* [A Computational Logic (1979)](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer, J Strother Moore (PDF)
 * [A First Course in Complex Analysis](http://math.sfsu.edu/beck/complex.html) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * [A First Course in Linear Algebra](http://linear.ups.edu) - Rob Beezer
-* [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary and Lars Kristiansen
+* [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary, Lars Kristiansen
 * [A Gentle Introduction to the Art of Mathematics](https://osj1961.github.io/giam/) - Joseph E. Fields
 * [A Programmer's Introduction to Mathematics](https://pimbook.org) - Jeremy Kun
 * [Abstract Algebra: Theory and Applications](http://abstract.ups.edu) - Tom Judson
@@ -395,8 +395,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser (PDF)
 * [Analytic Geometry (1922)](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - Lewis Parker Siceloff, George Wentworth, David Eugene Smith (PDF)
 * [APEX Calculus](https://www.apexcalculus.com) - Gregory Hartman, Brian Heinold, Troy Siemers, and Dimplekumar Chalishajar
-* [Applied Combinatorics](https://rellek.net/book/app-comb.html) - Mitchel T. Keller and William T. Trotter
-* [Applied Discrete Structures](https://faculty.uml.edu/klevasseur/ads2/) - Alan Doerr and Kenneth Levasseur
+* [Applied Combinatorics](https://rellek.net/book/app-comb.html) - Mitchel T. Keller, William T. Trotter
+* [Applied Discrete Structures](https://faculty.uml.edu/klevasseur/ads2/) - Alan Doerr, Kenneth Levasseur
 * [Basic Algebra](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/) - Jiří Lebl
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
@@ -404,15 +404,15 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/book.html) - Tyler Wallace
 * [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammack [(PDF)](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf)
 * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - Gilbert Strang
-* [Calculus I](https://resolver.caltech.edu/CaltechBOOK:1985.001) - Jerrold E. Marsden and Alan Weinstein
+* [Calculus I](https://resolver.caltech.edu/CaltechBOOK:1985.001) - Jerrold E. Marsden, Alan Weinstein
 * [Calculus in Context](http://www.math.smith.edu/~callahan/intromine.html) - James Callahan
 * [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
 * [Category Theory for the Sciences](https://mitpress.ublish.com/ereader/77/?preview#page/Cover) - David I. Spivak
 * [CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
-* [CLP-1 Differential Calculus](https://www.math.ubc.ca/~CLP/CLP1/) - Joel Feldman, Andrew Rechnitzer, and Elyse Yeager
-* [CLP-2 Integral Calculus](https://www.math.ubc.ca/~CLP/CLP2/) - Joel Feldman, Andrew Rechnitzer, and Elyse Yeager
-* [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, and Elyse Yeager
-* [CLP-4 Vector Calculus](https://www.math.ubc.ca/~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, and Elyse Yeager
+* [CLP-1 Differential Calculus](https://www.math.ubc.ca/~CLP/CLP1/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+* [CLP-2 Integral Calculus](https://www.math.ubc.ca/~CLP/CLP2/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+* [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+* [CLP-4 Vector Calculus](https://www.math.ubc.ca/~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
 * [Collaborative Statistics](http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
 * [College Trigonometry](https://open.umn.edu/opentextbooks/textbooks/college-trigonometry) - Carl Stitz, Jeff Zeager (PDF)
 * [Combinatorics Through Guided Discovery](https://bogart.openmathbooks.org) - Kenneth Bogart
@@ -421,12 +421,12 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Computational Mathematics with SageMath](https://www.sagemath.org/sagebook/) - Paul Zimmermann, Alexandre Casamayou, Nathann Cohen, Guillaume Connan, et al. (PDF)
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
-* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook) - Stephen Boyd and Lieven Vandenberghe
-* [Coordinate Geometry (1911)](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine and Henry Dallas Thompson (PDF)
+* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook) - Stephen Boyd, Lieven Vandenberghe
+* [Coordinate Geometry (1911)](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine, Henry Dallas Thompson (PDF)
 * [Differential Equations](http://tutorial.math.lamar.edu/Classes/DE/DE.aspx) - Paul Dawkins (PDF, use download menu to download)
 * [Differential Equations (1922)](http://djm.cc/library/Differential_Equations_Phillips_edited.pdf) - H. B. Phillips (PDF)
 * [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi3.html) - Oscar Levin
-* [Discrete Mathematics: First and Second Course](https://cseweb.ucsd.edu/~gill/BWLectSite/) - Edward A. Bender and S. Gill Williamson
+* [Discrete Mathematics: First and Second Course](https://cseweb.ucsd.edu/~gill/BWLectSite/) - Edward A. Bender, S. Gill Williamson
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench (PDF)
 * [Elementary Differential Equations (with Boundary Value Problems)](https://digitalcommons.trinity.edu/mono/9/) - William F. Trench
 * [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/) - William Stein
@@ -435,19 +435,19 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Elements of Differential and Integral Calculus (1911)](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (PDF)
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) - Sean Luke
 * [First Course in Algebra (1910)](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
-* [Foundations of Combinatorics with Applications](https://www.math.ucsd.edu/~ebender/CombText/) - Edward A. Bender and S. Gill Williamson
+* [Foundations of Combinatorics with Applications](https://www.math.ucsd.edu/~ebender/CombText/) - Edward A. Bender, S. Gill Williamson
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan (PDF)
 * [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) - Michael P. Hitchman
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
-* [How We Got from There to Here: A Story of Real Analysis](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers and Eugene Boman
-* [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead and J. Laurie Snell
+* [How We Got from There to Here: A Story of Real Analysis](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers, Eugene Boman
+* [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead, J. Laurie Snell
 * [Introduction to Probability and Statistics Spring 2014](http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 * [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon
 * [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7/) - William F. Trench
 * [Introduction to Statistical Thought](http://people.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
-* [Introductory Statistics for the Life and Biomedical Sciences](https://www.openintro.org/book/isrs/) - Julie Vu and David Harrington
+* [Introductory Statistics for the Life and Biomedical Sciences](https://www.openintro.org/book/isrs/) - Julie Vu, David Harrington
 * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
-* [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello and Paolo Toth
+* [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello, Paolo Toth
 * [Lecture Notes of Linear Algebra](http://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Dr. P. Shunmugaraj, IIT Kanpur (PDF)
 * [Lecture Notes on Linear Algebra](https://home.iitk.ac.in/~arlal/book/LA_Solution_Dec20.pdf) - Dr. Arbind K Lal, Sukant Pati (PDF) (:construction: *in process*)
 * [Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics](https://www.poritz.net/jonathan/share/ldlos.pdf) - Jonathan A. Poritz (PDF)
@@ -455,16 +455,16 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - Jim Hefferon
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) - Sergei Treil
 * [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
-* [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde) - Evans M. Harrell II and James V. Herod
+* [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde) - Evans M. Harrell II, James V. Herod
 * [Magic Squares and Cubes (1917)](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Anderson (PDF)
 * [Math in Society](https://www.opentextbookstore.com/mathinsociety/) - David Lippman
 * [Mathematical Analysis I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
-* [Mathematical Discovery](https://classicalrealanalysis.info/com/Mathematical-Discovery.php) - Andrew M. Bruckner, Brian S. Thomson, and Judith B. Bruckner
+* [Mathematical Discovery](https://classicalrealanalysis.info/com/Mathematical-Discovery.php) - Andrew M. Bruckner, Brian S. Thomson, Judith B. Bruckner
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom
 * [Mathematics, MTH101A](http://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
-* [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb) - Susan Holmes and Wolfgang Huber
-* [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain and James Herod
+* [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb) - Susan Holmes, Wolfgang Huber
+* [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain, James Herod
 * [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 * [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
 * [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee MIT
@@ -475,16 +475,16 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [ORCCA: Open Resources for Community College Algebra](https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944) - Portland Community College
 * [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikibooks
 * [Paul's Online Notes: Algebra, Calculus I-III and Differential Equations](https://tutorial.math.lamar.edu) - Paul Dawkins @ Lamar University
-* [Plane Geometry (1913)](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth and David Eugene Smith (PDF)
-* [Planes and Spherical Trigonometry (1915)](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth and David Eugene Smith (PDF)
-* [Precalculus](https://stitz-zeager.com) - Carl Stitz and Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
+* [Plane Geometry (1913)](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth, David Eugene Smith (PDF)
+* [Planes and Spherical Trigonometry (1915)](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth, David Eugene Smith (PDF)
+* [Precalculus](https://stitz-zeager.com) - Carl Stitz, Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Probability: Lectures and Labs](https://www.markhuberdatascience.org/probability-textbook) - Mark Huber
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (PDF)
 * [Sage for Undergraduates](http://www.gregorybard.com/books.html) - Gregory Bard
 * [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
-* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) - Brendan Fong and David I. Spivak (PDF)
+* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) - Brendan Fong, David I. Spivak (PDF)
 * [Statistical Thinking for the 21st Century](https://statsthinking21.org) - Russell A. Poldrack
 * [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
 * [SticiGui](https://www.stat.berkeley.edu/~stark/SticiGui/) - Philip Stark
@@ -541,7 +541,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [How Computers Work](http://www.fastchip.net/howcomputerswork/p1.html) - R. Young
 * [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf) (PDF)
 * [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
-* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
+* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers
 * [Image Processing in C: Analyzing and Enhancing Digital Images](http://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
 * [Information Technology and the Networked Economy](https://web.archive.org/web/20200731035935/https://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) - Patrick McKeown (PDF) *(:card_file_box: archived)*
 * [Introduction to Scientific Programming in C++ and Fortran](https://web.corral.tacc.utexas.edu/CompEdu/pdf/isp/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
@@ -555,7 +555,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Modeling Reactive Systems with Statecharts](http://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html)
 * [MSIX Succinctly](https://www.syncfusion.com/ebooks/msix-succinctly) - Matteo Pagani
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
-* [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz
+* [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse, Oscar Nierstrasz
 * [Open Government; Collaboration, Transparency, and Participation in Practice](https://github.com/oreillymedia/open_government) - Daniel Lathrop, Laurel Ruma
 * [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien *(Leanpub account or valid email requested)*
 * [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
@@ -580,7 +580,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
-* [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson and Bruce Davie (HTML, epub, mobi, PDF)
+* [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson, Bruce Davie (HTML, epub, mobi, PDF)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [High-Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
 * [How HTTPS Works](https://howhttps.works) - DNSimple
@@ -626,12 +626,12 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Computer Science from the Bottom Up](http://www.bottomupcs.com)
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) (:construction: *in process*)
 * [How to write a simple operating system in assembly language](http://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
-* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/) - Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie et al. (HTML, [PDF, downloads...](https://www.linuxfromscratch.org/lfs/downloads/stable/))
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/) - Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie, et al. (HTML, [PDF, downloads...](https://www.linuxfromscratch.org/lfs/downloads/stable/))
 * [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) - Dominic Giampaolo (PDF)
-* [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](http://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth & Jürg Gutknecht (PDF)
+* [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](http://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth, Jürg Gutknecht (PDF)
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) - Eric S. Raymond
 * [The Design and Implementation of the Anykernel and Rump Kernels](http://www.fixup.fi/misc/rumpkernel-book/) - Antti Kantee
 * [The little book about OS development](https://littleosbook.github.io) - Erik Helin, Adam Renberg
@@ -644,7 +644,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### Parallel Programming
 
-* [High Performance Computing](http://cnx.org/contents/bb821554-7f76-44b1-89e7-8a2a759d1347%405.2) - Charles Severance & Kevin Dowd (PDF, ePUB)
+* [High Performance Computing](http://cnx.org/contents/bb821554-7f76-44b1-89e7-8a2a759d1347%405.2) - Charles Severance, Kevin Dowd (PDF, ePUB)
 * [High Performance Computing Training](https://web.archive.org/web/20170702124132/https://hpc.llnl.gov/training/tutorials) (LLNL materials)
 * [High-Performance Scientific Computing](https://andreask.cs.illinois.edu/Teaching/HPCFall2012) (class lectures and slides)
 * [Introduction to High-Performance Scientific Computing](http://pages.tacc.utexas.edu/~eijkhout/istc/istc.html) - Victor Eijkhout
@@ -657,7 +657,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Partial Evaluation
 
-* [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - (PDF) Jones, Gomard and Sestoft
+* [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - Neil D. Jones, C.K. Gomard, Peter Sestoft (PDF)
 
 
 ### Professional Development
@@ -667,7 +667,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Don't Just Roll the Dice](https://www.red-gate.com/library/dont-just-roll-the-dice) - Neil Davidson (PDF)
 * [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 * [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
-* [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck & Hyrum Wright
+* [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
 
@@ -685,7 +685,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Quantum Computing
 
 * [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e2p.pdf) - Thomas G. Wong (PDF)
-* [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Frank Harkins et al. (HTML)
+* [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Frank Harkins, et al. (HTML)
 * [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4) - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner (HTML, PDF, EPUB)
 
 
@@ -737,7 +737,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](http://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
-* [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea & Adam Stubblefield (PDF)
+* [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)
 * [Code Simplicity: The Fundamentals of Software](https://www.codesimplicity.com/book.pdf) - Max Kanat-Alexander (PDF)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) (email address *requested*, not required)
@@ -754,7 +754,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Migrating to Cloud-Native Application Architectures](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data/) (email address *requested*) (PDF)
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)
 * [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html) (email address *requested*)
-* [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse and O. Nierstrasz
+* [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse, O. Nierstrasz
 * [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett *(Leanpub account or valid email requested)*
 * [Reactive Microservices Architecture](https://www.lightbend.com/ebooks/reactive-microservices-architecture-design-principles-for-distributed-systems-oreilly) (email address *requested*)
 * [Reactive Microsystems: The Evolution of Microservices at Scale](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly) (email address *requested*)
@@ -767,7 +767,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
 * [Test Driven Development, Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
-* [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara and Stephen Thorne
+* [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 * [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
@@ -789,7 +789,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
 * [Introduction to Computer Science](http://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
 * [Introduction to Computing](http://www.computingbook.org)
-* [Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari and Michiel Smid (PDF)
+* [Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari, Michiel Smid (PDF)
 * [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
 * [Practical Foundations for Programming Languages, Preview](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf) - Robert Harper (PDF)
 * [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith

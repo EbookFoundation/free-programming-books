@@ -168,7 +168,7 @@
 * [Frontend First](https://player.fm/series/frontend-first) - Sam Selikoff, Ryan Toronto (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) - CodeSchool (podcast)
 * [HTML All The Things](https://www.htmlallthethings.com/podcast) - Mike Karan, Matt Lawrence (podcast)
-* [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu,, Tyler McGinnis, Kyle Simpson, et al.(podcast)
+* [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu, Tyler McGinnis, Kyle Simpson, et al. (podcast)
 * [JavaScript Jabber](https://javascriptjabber.com) - Aimee Knight, AJ O'Neal, Charles Wood, Dan Shappir, Steve Edwards, et al. (podcast)
 * [JS Party](https://changelog.com/jsparty) - Jerod Santo, Nick Nisi, Amelia Wattenberger, Kevin Ball, Divya, Feross Aboukhadijeh, Amal Hussein, Christopher Hiller, Ali Spittel, et al. (podcast)
 * [Modern Web](https://www.thisdot.co/modern-web) - This Dot Labs (podcast)

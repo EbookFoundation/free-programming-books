@@ -71,7 +71,7 @@
 * [Fundamentos de Comunicaciones Ópticas](https://www.edx.org/course/fundamentos-de-comunicaciones-opticas-upvalenciax-fco201x-1)
 * [Fundamentos de Informática (2008)](http://ocw.bib.upct.es/course/view.php?id=112)
 * [Fundamentos Físicos de la Informática (2010)](http://ocw.uv.es/ingenieria-y-arquitectura/1-4/Course_listing)
-* [Informática - algoritmos y aritmética- (2012)](http://ocw.uv.es/ciencias/informatica-1/Course_listing)
+* [Informática -algoritmos y aritmética- (2012)](http://ocw.uv.es/ciencias/informatica-1/Course_listing)
 * [Ingieniería Electrónica y Automática - PLC (2014)](http://isa.uniovi.es/docencia/iea/)
 * [Laboratorio de Comunicaciones (2008)](http://ocw.bib.upct.es/course/view.php?id=80)
 * [Lenguajes unificado de modelado: UML (2016)](https://campusvirtual.ull.es/ocw/course/view.php?id=132)

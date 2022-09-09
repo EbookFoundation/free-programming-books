@@ -53,7 +53,7 @@
         * [Vue.js](#vuejs)
         * [Zepto.js](#zeptojs)
     * [LaTeX](#latex)
-    * [LISP](#lisp)
+    * [Lisp](#lisp)
     * [Lua](#lua)
     * [Markdown](#markdown)
     * [MySQL](#mysql)
@@ -578,7 +578,7 @@
 * [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)
 
 
-### LISP
+### Lisp
 
 * [ANSI Common Lisp 中文翻译版](http://acl.readthedocs.org/en/latest/)
 * [Common Lisp 高级编程技术](http://www.ituring.com.cn/minibook/862) (《On Lisp》中文版)

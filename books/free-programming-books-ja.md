@@ -29,11 +29,9 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
-* [Common Lisp](#common-lisp)
 * [Coq](#coq)
 * [D](#d)
 * [Elixir](#elixir)
-* [Emacs Lisp](#emacs-lisp)
 * [Erlang](#erlang)
 * [Git](#git)
 * [Go](#go)
@@ -53,6 +51,8 @@
 * [Julia](#julia)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Lisp](#lisp)
+    * [Emacs Lisp](#emacs-lisp)
 * [Lua](#lua)
 * [Maven](#maven)
 * [Mercurial](#mercurial)
@@ -308,15 +308,6 @@
 * [正規表現リファレンス（CoffeeScript)](https://kyu-mu.net/coffeescript/regexp) - 飯塚直
 
 
-### Common Lisp
-
-* [Common Lisp 入門](http://www.nct9.ne.jp/m_hiroi/xyzzy_lisp.html#abclisp) - 広井誠
-* [Google Common Lisp スタイルガイド 日本語訳](https://lisphub.jp/doc/google-common-lisp-style-guide/lispguide.xml) - Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳)
-* [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog) - 畝見達夫
-* [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd) - Paul Graham, 野田開(翻訳)
-* [マンガで分かるLisp(Manga Guide to Lisp)](http://lambda.bugyo.tk/cdr/mwl) - λ組
-
-
 ### Coq
 
 * [ソフトウェアの基礎](http://proofcafe.org/sf) - Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey, 梅村晃広(翻訳), 片山功士(翻訳), 水野洋樹(翻訳), 大橋台地(翻訳), 増子萌(翻訳), 今井宜洋(翻訳)
@@ -330,14 +321,6 @@
 ### Elixir
 
 * [Elixir 基礎文法最速マスター](https://qiita.com/niku/items/729ece76d78057b58271) - niku
-
-
-### Emacs Lisp
-
-> :information_source: See also &#8230; [IDE and editors](#ide-and-editors)
-
-* [Emacs Lisp基礎文法最速マスター](https://d.hatena.ne.jp/rubikitch/20100201/elispsyntax) - るびきち
-* [GNU Emacs Lispリファレンスマニュアル](http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html)
 
 
 ### Erlang
@@ -487,6 +470,23 @@
 * [Linux Device Driver](https://www.mech.tohoku-gakuin.ac.jp/rde/contents/linux/drivers/indexframe.html) - 熊谷正朗
 * [Linux from Scratch (Version 7.4)](https://lfsbookja.osdn.jp/7.4.ja/) - Gerard Beekmans, 松山道夫(翻訳)
 * [Secure Programming for Linux and Unix HOWTO](https://linuxjf.osdn.jp/JFdocs/Secure-Programs-HOWTO) - David A. Wheeler, 高橋聡(翻訳)
+
+
+### Lisp
+
+* [Common Lisp 入門](http://www.nct9.ne.jp/m_hiroi/xyzzy_lisp.html#abclisp) - 広井誠
+* [Google Common Lisp スタイルガイド 日本語訳](https://lisphub.jp/doc/google-common-lisp-style-guide/lispguide.xml) - Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳)
+* [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog) - 畝見達夫
+* [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd) - Paul Graham, 野田開(翻訳)
+* [マンガで分かるLisp(Manga Guide to Lisp)](http://lambda.bugyo.tk/cdr/mwl) - λ組
+
+
+#### Emacs Lisp
+
+> :information_source: See also &#8230; [IDE and editors](#ide-and-editors)
+
+* [Emacs Lisp基礎文法最速マスター](https://d.hatena.ne.jp/rubikitch/20100201/elispsyntax) - るびきち
+* [GNU Emacs Lispリファレンスマニュアル](http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html)
 
 
 ### Lua

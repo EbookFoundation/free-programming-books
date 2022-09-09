@@ -4,7 +4,6 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
-* [Common Lisp](#common-lisp)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
@@ -24,6 +23,7 @@
     * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
+* [Lisp](#lisp)
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
@@ -58,12 +58,6 @@
 
 * [ClojureScript Podcast](https://clojurescriptpodcast.com) - Jacek Schae (podcast)
 * [Parens of the Dead](http://www.parens-of-the-dead.com) - Magnar Sveen, Elisabeth Irgens (screencast)
-
-
-### Common Lisp
-
-* [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
-* [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
 
 
 ### Data Science
@@ -292,6 +286,12 @@
 * [TTL Podcast](https://podtail.com/es/podcast/ttl-podcast/) - Rebecca Murphey (podcast)
 * [Web Security Warriors](https://www.stitcher.com/show/web-security-warriors) (podcast)
 * [Women in TECH with Ariana](https://www.wallwaytech.com/podcast) - Ariana The Techie (podcast)
+
+
+### Lisp
+
+* [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
+* [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
 
 
 ### Machine Learning

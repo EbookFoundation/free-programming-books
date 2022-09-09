@@ -7,13 +7,13 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [Common Lisp](#common-lisp)
 * [Coq](#coq)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [Lisp](#lisp)
 * [MySQL](#mysql)
 * [Perl](#perl)
 * [PHP](#php)
@@ -86,11 +86,6 @@
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/) - Karol Kuczmarski
 
 
-### Common Lisp
-
-* [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php) - Jakub Jankiewicz
-
-
 ### Haskell
 
 * [Haskell](https://pl.wikibooks.org/wiki/Haskell) - Wikibooks
@@ -127,6 +122,11 @@
 * [LaTeX kurs](http://www.latex-kurs.x25.pl) - Przemysław Spurek
 * [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish) - Janusz Goldasz, Ryszard Ku­biak, To­masz Przech­lewski
+
+
+### Lisp
+
+* [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php) - Jakub Jankiewicz
 
 
 ### MySQL

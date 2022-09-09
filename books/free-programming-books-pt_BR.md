@@ -37,7 +37,7 @@
     * [Vue.js](#vuejs)
 * [Kubernetes](#kubernetes)
 * [LaTeX](#latex)
-* [LISP](#lisp)
+* [Lisp](#lisp)
 * [Lua](#lua)
 * [Pascal](#pascal)
 * [PHP](#php)
@@ -296,7 +296,7 @@
 * [Latexação](https://www.ime.usp.br/~tassio/arquivo/latex/apostila.pdf) - Tássio Naia dos Santos (PDF)
 
 
-### LISP
+### Lisp
 
 * [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
 

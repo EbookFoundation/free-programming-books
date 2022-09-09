@@ -53,7 +53,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Ecto](#ecto)
     * [Phoenix](#phoenix)
 * [Elm](#elm)
-* [Emacs Lisp](#emacs-lisp)
 * [Embedded Systems](#embedded-systems)
 * [Erlang](#erlang)
 * [F#](#f-sharp)
@@ -123,6 +122,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Limbo](#limbo)
 * [Linux](#linux)
 * [Lisp](#lisp)
+    * [Emacs Lisp](#emacs-lisp)
+    * [PicoLisp](#picolisp)
 * [Livecode](#livecode)
 * [Lua](#lua)
 * [Make](#make)
@@ -157,7 +158,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Laravel](#laravel)
     * [Symfony](#symfony)
     * [Zend](#zend)
-* [PicoLisp](#picolisp)
 * [PostgreSQL](#postgresql)
 * [PowerShell](#powershell)
 * [Processing](#processing)
@@ -677,14 +677,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Phoenix Framework Guide](https://hexdocs.pm/phoenix/overview.html) (HTML)
 * [Versioned APIs with Phoenix](https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) - Elvio Vicosa (PDF)
-
-
-### Emacs Lisp
-
-> :information_source: See also &#8230; [IDE and editors](free-programming-books-subjects.md#ide-and-editors)
-
-* [An Introduction to Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html)
-* [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 
 
 ### Embedded Systems
@@ -1425,6 +1417,20 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
 
 
+#### Emacs Lisp
+
+> :information_source: See also &#8230; [IDE and editors](free-programming-books-subjects.md#ide-and-editors)
+
+* [An Introduction to Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html)
+* [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
+
+
+#### PicoLisp
+
+* [PicoLisp by Example](https://github.com/tj64/picolisp-by-example)
+* [PicoLisp Works](https://github.com/tj64/picolisp-works)
+
+
 ### Livecode
 
 * [LiveCode userguide](http://www.scribd.com/doc/216789127/LiveCode-userguide) (PDF)
@@ -1728,12 +1734,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Zend
 
 * [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
-
-
-### PicoLisp
-
-* [PicoLisp by Example](https://github.com/tj64/picolisp-by-example)
-* [PicoLisp Works](https://github.com/tj64/picolisp-works)
 
 
 ### PostgreSQL

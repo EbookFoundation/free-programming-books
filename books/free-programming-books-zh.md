@@ -254,8 +254,8 @@
 * [大家來學 VIM](http://www.study-area.org/tips/vim/index.html) - Edward Lee
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide) - yangyangwithgnu
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
-* [Vim中文文档](https://github.com/vimcn/vimcdoc) - Vim 中文计划, Yian Willis
 * [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - Judas.n
+* [Vim中文文档](https://github.com/vimcn/vimcdoc) - Vim 中文计划, Yian Willis
 
 
 ### Web

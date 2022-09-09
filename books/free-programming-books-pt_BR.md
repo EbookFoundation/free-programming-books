@@ -56,9 +56,9 @@
 #### IDE and editors
 
 * [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva, et al.
-* [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
 * [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
 * [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
+* [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
 
 
 #### Programação

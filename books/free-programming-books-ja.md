@@ -1,6 +1,7 @@
 ### Index
 
 * [0 - 言語非依存](#0---%e8%a8%80%e8%aa%9e%e9%9d%9e%e4%be%9d%e5%ad%98)
+    * [IDE and editors](#ide-and-editors)
     * [アクセシビリティ](#%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b7%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3)
     * [オープンソースエコシステム](#%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%a8%e3%82%b3%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
     * [ガベージコレクション](#%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3)
@@ -19,7 +20,6 @@
     * [組み込みシステム](#%e7%b5%84%e3%81%bf%e8%be%bc%e3%81%bf%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
     * [並列プログラミング](#%e4%b8%a6%e5%88%97%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
     * [理論計算機科学](#%e7%90%86%e8%ab%96%e8%a8%88%e7%ae%97%e6%a9%9f%e7%a7%91%e5%ad%a6)
-    * [IDE and editors](#ide-and-editors)
 * [Android](#android)
 * [AppleScript](#applescript)
 * [Assembly](#assembly)
@@ -87,6 +87,13 @@
 
 
 ### 0 - 言語非依存
+
+#### IDE and editors
+
+* [Vim スクリプトリファレンス](https://nanasi.jp/code.html) - 小見拓
+* [Vim スクリプト基礎文法最速マスター](https://thinca.hatenablog.com/entry/20100201/1265009821) - id:thinca
+* [Vim スクリプト書法](https://vim-jp.org/vimdoc-ja/usr_41.html) - Bram Moolenaar, vimdoc-ja プロジェクト(翻訳)
+
 
 #### アクセシビリティ
 
@@ -221,13 +228,6 @@
 #### 理論計算機科学
 
 * [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext) - Gerald Jay Sussman, et al.
-
-
-#### IDE and editors
-
-* [Vim スクリプトリファレンス](https://nanasi.jp/code.html) - 小見拓
-* [Vim スクリプト基礎文法最速マスター](https://thinca.hatenablog.com/entry/20100201/1265009821) - id:thinca
-* [Vim スクリプト書法](https://vim-jp.org/vimdoc-ja/usr_41.html) - Bram Moolenaar, vimdoc-ja プロジェクト(翻訳)
 
 
 ### Android

@@ -19,6 +19,7 @@
     * [組み込みシステム](#%e7%b5%84%e3%81%bf%e8%be%bc%e3%81%bf%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
     * [並列プログラミング](#%e4%b8%a6%e5%88%97%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
     * [理論計算機科学](#%e7%90%86%e8%ab%96%e8%a8%88%e7%ae%97%e6%a9%9f%e7%a7%91%e5%ad%a6)
+    * [IDE and editors](#ide-and-editors)
 * [Android](#android)
 * [AppleScript](#applescript)
 * [Assembly](#assembly)
@@ -83,7 +84,6 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [VBA](#vba)
-* [Vim](#vim)
 
 
 ### 0 - 言語非依存
@@ -223,6 +223,13 @@
 * [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext) - Gerald Jay Sussman, et al.
 
 
+#### IDE and editors
+
+* [Vim スクリプトリファレンス](https://nanasi.jp/code.html) - 小見拓
+* [Vim スクリプト基礎文法最速マスター](https://thinca.hatenablog.com/entry/20100201/1265009821) - id:thinca
+* [Vim スクリプト書法](https://vim-jp.org/vimdoc-ja/usr_41.html) - Bram Moolenaar, vimdoc-ja プロジェクト(翻訳)
+
+
 ### Android
 
 * [Android Open Text book](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
@@ -326,6 +333,8 @@
 
 
 ### Emacs Lisp
+
+> :information_source: See also &#8230; [IDE and editors](#ide-and-editors)
 
 * [Emacs Lisp基礎文法最速マスター](https://d.hatena.ne.jp/rubikitch/20100201/elispsyntax) - るびきち
 * [GNU Emacs Lispリファレンスマニュアル](http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html)
@@ -721,10 +730,3 @@
 * [Excel 2013 で学ぶ Visual Basic for Applications (VBA)](https://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/vba2013) - 金丸隆志
 * [VBA基礎文法最速マスター](https://nattou-curry-2.hatenadiary.org/entry/20100129/1264787849) - id:nattou\_curry
 * [Visual Basic for Applications (VBA) の言語リファレンス](https://docs.microsoft.com/ja-jp/office/vba/api/overview/language-reference) - Microsoft Docs
-
-
-### Vim
-
-* [Vim スクリプトリファレンス](https://nanasi.jp/code.html) - 小見拓
-* [Vim スクリプト基礎文法最速マスター](https://thinca.hatenablog.com/entry/20100201/1265009821) - id:thinca
-* [Vim スクリプト書法](https://vim-jp.org/vimdoc-ja/usr_41.html) - Bram Moolenaar, vimdoc-ja プロジェクト(翻訳)

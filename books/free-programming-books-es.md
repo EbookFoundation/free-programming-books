@@ -11,7 +11,7 @@
 * [Android](#android)
 * [C](#c)
 * [C++](#cpp)
-* [Emacs](#emacs)
+* [Emacs Lisp](#emacs-lisp)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
 * [Git](#git)
@@ -150,7 +150,7 @@
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) - WikiLibros
 
 
-### Emacs
+### Emacs Lisp
 
 * [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es) (HTML)
 

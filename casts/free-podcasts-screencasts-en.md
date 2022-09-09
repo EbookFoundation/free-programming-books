@@ -13,7 +13,7 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
-* [IDE and Editors](#ide-and-editors)
+* [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Angular](#angular)
@@ -142,7 +142,7 @@
 * [The CSS Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
 
 
-### IDE and Editors
+### IDE and editors
 
 * [Emacs Cast](https://emacscast.org) - Rakhim Davletkaliyev (podcast)
 * [Emacs Rocks!](http://emacsrocks.com) - Christian Johansen (screencast)

@@ -13,7 +13,7 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
-* [IDE](#ide)
+* [IDE and editors](#ide-and-editors)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -132,7 +132,7 @@
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
 
 
-### IDE
+### IDE and editors
 
 * [Domine o sublime text](https://www.udemy.com/course/domine-o-sublime-text/) - Alexandre Cardoso (Udemy)
 * [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)

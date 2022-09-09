@@ -141,7 +141,7 @@
 ### R
 
 * [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://www.github.com/emraher/eybkbrk) - Emrah Er
-* [R for Data Science](http://tr.r4ds.hadley.nz/) - Garrett Grolemund, Hadley Wickham, `trad.:` İsmail Bekar, `trad.:` Nurbahar Usta, `trad.:` Bilgecan Şen
+* [R for Data Science](http://tr.r4ds.hadley.nz) - Garrett Grolemund, Hadley Wickham, `trad.:` İsmail Bekar, `trad.:` Nurbahar Usta, `trad.:` Bilgecan Şen
 * [R ile Programlamaya Giriş ve Uygulamalar (2014)](http://inet-tr.org.tr/inetconf19/sunum/16.pdf) - Mustafa Gökçe Baydoğan, Berk Orbay, Uzay Çetin (PDF)
 
 

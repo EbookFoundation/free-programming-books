@@ -26,6 +26,7 @@ jobs:
     outputs:
       fetch-depth: ${{ steps.set-params.outputs.fetch-depth }}
       files:       ${{ steps.set-files.outputs.files }}
+      files-len:   ${{ steps.set-files.outputs.files-len }}
       matrix:      ${{ steps.set-matrix.outputs.matrix }}
     steps:
       - name: Determine workflow params
@@ -50,6 +51,9 @@ jobs:
           echo "${{ steps.changed-files.outputs.all_changed_files }}"  \
             | jq --raw-output '. | join(" ")'  \
             | sed -e 's/^/::set-output name=files::/'
+          echo "${{ steps.changed-files.outputs.all_changed_files }}"  \
+            | jq --raw-output '. | length'  \
+            | sed -e 's/^/::set-output name=files-len::/'
       - id: set-matrix
         run: |
           echo "{\"file\":${{ steps.changed-files.outputs.all_changed_files }}}"  \
@@ -58,6 +62,7 @@ jobs:
 
   check-urls:
     name: Check @ ${{ matrix.file }}
+    if: ${{ fromJSON(needs.get-changed-files.outputs.files-len) > 0 }}
     needs: [get-changed-files]
     runs-on: ubuntu-latest
     strategy:
@@ -68,7 +73,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          fetch-depth: ${{ steps.get-changed-files.outputs.fetch-depth }}
+          fetch-depth: ${{ needs.get-changed-files.outputs.fetch-depth }}
       - name: Setup Ruby v2.6
         uses: ruby/setup-ruby@v1
         with:

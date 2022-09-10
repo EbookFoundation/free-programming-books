@@ -1,165 +1,201 @@
-name: Stale and close inactive issues/PRs
+name: Stale handler
 
 on:
-  schedule:
-    - cron: "0 0-23 * * *"  # every 1 hour at o'clock
-  workflow_dispatch:        # or manually
+  push:                               # when push this files to branches....
+    branches:
+      - 'main'
+      - 'gh-actions/test'
+    paths:
+      - '.github/workflows/stale.yml' #    - this workflow
+  workflow_dispatch:                  # manually
+    inputs:
+      debug-only:
+        type: boolean
+        description: 'If enabled, debug mode is on and then API calls that can alter your issues will not happen'
+        required: true
+        default: true
+#  schedule:                           # or
+#    - cron: "0 0,6,12,18 * * *"       # every 6 hours at o'clock
 
 permissions:
+  # no checkout/branching needed
   contents: none
-  issues: read
-  pull-requests: read
 
-# This allows a subsequently queued workflow run to interrupt previous runs
+# This allows a subsequently queued workflow run to interrupt/wait for previous runs
 concurrency:
-  group: '${{ github.workflow }} @ ${{ github.run_id }}'
-  cancel-in-progress: true
+  group: '${{ github.workflow }}'
+  cancel-in-progress: false  # true: interrupt, false = wait for
 
 jobs:
-
-  process-issues:
-    name: Process Issues
-    # This allows a subsequently queued workflow run to wait for previous runs completion
-    concurrency:
-      group: '${{ github.workflow }} @ ${{ github.run_id }} :: issues'
-      cancel-in-progress: false
-    # export variables used by reporter job
+  stale:
+    name: Staler job
+    runs-on: ubuntu-latest
     outputs:
-      staled-issues: ${{ steps.stale.outputs.staled-issues-prs }}
-      closed-issues: ${{ steps.stale.outputs.closed-issues-prs }}
-    # enable write access rights to allow comment and labeling by bot
+      # "XXX-len": the length of the "XXX" output object
+      staled-issues:     ${{ steps.set-staled.outputs.issues }}
+      staled-issues-len: ${{ steps.set-staled.outputs.issues-len }}
+      staled-prs:     ${{ steps.set-staled.outputs.prs }}
+      staled-prs-len: ${{ steps.set-staled.outputs.prs-len }}
+      closed-issues:     ${{ steps.set-closed.outputs.issues }}
+      closed-issues-len: ${{ steps.set-closed.outputs.issues-len }}
+      closed-prs:     ${{ steps.set-closed.outputs.prs }}
+      closed-prs-len: ${{ steps.set-closed.outputs.prs-len }}
+    # enable write access rights to allow bot comments and labeling
     permissions:
       issues: write
-    runs-on: ubuntu-latest
+      pull-requests: write
     steps:
-      - uses: actions/stale@v5
-        id: staler
+      - name: Stale issues
+        uses: actions/stale@v5
+        id: stale-issues
         with:
+          debug-only: ${{ github.event.inputs.debug-only == 'true' }}
           operations-per-run: 30
-          days-before-issue-stale: 1
-          days-before-issue-close: 1
+          days-before-stale: 1
+          days-before-close: 1
+          ignore-updates: false
+          remove-stale-when-updated: true
           stale-issue-label: "stale"
           close-issue-label: "stale: closed"
           stale-issue-message: |
-            This issue has been automatically marked as stale because it has not had activity during the last 60 days.
+            This issue has been automatically marked as stale because it has not had recent activity during last 60 days :sleeping:
 
-            It will be closed if no further activity occurs on the next 30 days.
+            It will be closed in 30 days if no further activity occurs. To unstale this issue, remove stale label or add a comment with a detailed explanation.
 
-            Thank you for your contributions.
+            There can be many reasons why some specific issue has no activity. The most probable cause is lack of time, not lack of interest.
+
+            Thank you for your patience :heart:
           close-issue-message: |
             This issue has been automatically closed because it has been inactive during the last 30 days since being marked as stale.
 
-            Anyway, thank you for your contributions.
-          remove-issue-stale-when-updated: true
+            As author or maintainer, it can always be reopened if you see that carry on been useful.
+
+            Anyway, thank you for your interest in contribute :heart:
+          close-issue-reason: not_planned
           exempt-issue-labels: "blocked,must,should,keep,:busts_in_silhouette: discussion,:eyes: Needs Review,:pushpin: pinned"
+          # disable PR processing at all (this step is for treat issues)
           days-before-pr-stale: -1
           days-before-pr-close: -1
+          ignore-pr-updates: true
+          remove-pr-stale-when-updated: false
+          stale-pr-label: " "
 
-      - name: Set outputs
-        ## Removing private properties from each JSON object.
-        ## TODO: Remove this ugly fix for actions/stale#806
-        id: stale
-        run: |
-          echo $STALED  \
-            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
-            | sed -e 's/^/::set-output name=staled-issues-prs::/'
-          echo $CLOSED  \
-            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
-            | sed -e 's/^/::set-output name=closed-issues-prs::/'
-        env:
-          STALED: ${{ steps.staler.outputs.staled-issues-prs }}
-          CLOSED: ${{ steps.staler.outputs.closed-issues-prs }}
+      - name: Print outputs for issues
+        run: echo ${{ join(steps.stale-issues.outputs.*, ',') }}
 
-
-  process-prs:
-    name: Process Pull Requests
-    # This allows a subsequently queued workflow run to wait for previous runs completion
-    concurrency:
-      group: '${{ github.workflow }} @ ${{ github.run_id }} :: PRs'
-      cancel-in-progress: false
-    # export variables used by reporter job
-    outputs:
-      staled-prs: ${{ steps.stale.outputs.staled-issues-prs }}
-      closed-prs: ${{ steps.stale.outputs.closed-issues-prs }}
-    # enable write access rights to allow comment and labeling by bot
-    permissions:
-      pull-requests: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/stale@v5
-        id: staler
+      - name: Stale Pull Requests
+        uses: actions/stale@v5
+        id: stale-prs
         with:
+          debug-only: ${{ github.event.inputs.debug-only == 'true' }}
           operations-per-run: 30
-          days-before-pr-stale: 1
-          days-before-pr-close: 1
+          days-before-stale: 1
+          days-before-close: 1
+          ignore-updates: false
+          remove-stale-when-updated: true
           stale-pr-label: "stale"
           close-pr-label: "stale: closed"
           stale-pr-message: |
-            This pull request has been automatically marked as stale because it has not had activity during the last 60 days.
+            This Pull Request has been automatically marked as stale because it has not had recent activity during last 60 days :sleeping:
 
-            It will be closed if no further activity occurs on the next 30 days.
+            It will be closed in 30 days if no further activity occurs. To unstale this PR, draft it, remove stale label, comment with a detailed explanation or push more commits.
 
-            Thank you for your contributions.
+            There can be many reasons why some specific PR has no activity. The most probable cause is lack of time, not lack of interest.
+
+            Thank you for your patience :heart:
           close-pr-message: |
-            This pull request has been automatically closed because it has been inactive during the last 30 days since being marked as stale.
+            This Pull Request has been automatically closed because it has been inactive during the last 30 days since being marked as stale.
 
-            Anyway, thank you for your contributions.
-          remove-pr-stale-when-updated: true
-          exempt-pr-labels: "blocked,must,should,keep,:busts_in_silhouette: discussion,:eyes: Needs Review"
+            As author or maintainer, it can always be reopened if you see that carry on been useful.
+
+            Anyway, thank you for your interest in contribute :heart:
           exempt-draft-pr: true
+          exempt-pr-labels: "blocked,must,should,keep,:busts_in_silhouette: discussion,:eyes: Needs Review"
+          delete-branch: false  # if true, job needs permissions "contents: write"
+          # disable issues processing at all (this step is for treat PRs)
           days-before-issue-stale: -1
           days-before-issue-close: -1
+          ignore-issue-updates: true
+          remove-issue-stale-when-updated: false
+          stale-issue-label: " "
 
-      - name: Set outputs
-        ## Removing private properties from each JSON object.
-        ## TODO: Remove this ugly fix for actions/stale#806
-        id: stale
+      - name: Print outputs for PRs
+        run: echo ${{ join(steps.stale-prs.outputs.*, ',') }}
+
+      ## Removing private properties from each JSON object and compute array length
+      ## TODO: Delete these set-* workarounds when resolve actions/stale#806 ?
+      - name: Set staled
+        id: set-staled
         run: |
-          echo $STALED  \
+          echo $INPUT_ISSUES  \
             | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
-            | sed -e 's/^/::set-output name=staled-issues-prs::/'
-          echo $CLOSED  \
+            | sed -e 's/^/::set-output name=issues::/'
+          echo $INPUT_ISSUES  \
+            | jq --raw-output '. | length'  \
+            | sed -e 's/^/::set-output name=issues-len::/'
+
+          echo $INPUT_PRS  \
             | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
-            | sed -e 's/^/::set-output name=closed-issues-prs::/'
+            | sed -e 's/^/::set-output name=prs::/'
+          echo $INPUT_PRS  \
+            | jq --raw-output '. | length'  \
+            | sed -e 's/^/::set-output name=prs-len::/'
         env:
-          STALED: ${{ steps.staler.outputs.staled-issues-prs }}
-          CLOSED: ${{ steps.staler.outputs.closed-issues-prs }}
+          INPUT_ISSUES: ${{ steps.stale-issues.outputs.staled-issues-prs }}
+          INPUT_PRS:    ${{ steps.stale-prs.outputs.staled-issues-prs }}
+      - name: Set closed
+        id: set-closed
+        run: |
+          echo $INPUT_ISSUES  \
+            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
+            | sed -e 's/^/::set-output name=issues::/'
+          echo $INPUT_ISSUES  \
+            | jq --raw-output '. | length'  \
+            | sed -e 's/^/::set-output name=issues-len::/'
 
+          echo $INPUT_PRS  \
+            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
+            | sed -e 's/^/::set-output name=prs::/'
+          echo $INPUT_PRS  \
+            | jq --raw-output '. | length'  \
+            | sed -e 's/^/::set-output name=prs-len::/'
+        env:
+          INPUT_ISSUES: ${{ steps.stale-issues.outputs.closed-issues-prs }}
+          INPUT_PRS:    ${{ steps.stale-prs.outputs.closed-issues-prs }}
 
-  reporter:
-    name: GitHub reporter
-    needs: [process-issues, process-prs]
-    runs-on: ubuntu-latest
-    steps:
-      - run: |
+      - name: Write job summary
+        run: |
           echo "### Staled issues"  \
             >> $GITHUB_STEP_SUMMARY
+          # render json array to a Markdown table with an optional "No records" message if empty
           echo "$STALED_ISSUES"  \
-            | jq --raw-output 'map("* [#\(.number)](\(env.GITHUB_ISSUES_URL)/\(.number)): \(.title)") | join("\n")'  \
+            | jq --raw-output 'map("| [#\(.number)](\(env.GITHUB_ISSUES_URL)/\(.number)) | \(.title) |") | join("\n") | if (. == "") then "\nNo records.\n" else "\n|    | Title |\n|---:|:------|\n\(.)\n" end'  \
             >> $GITHUB_STEP_SUMMARY
 
           echo "### Staled pull requests"  \
             >> $GITHUB_STEP_SUMMARY
+          # render json array to a Markdown table with an optional "No records" message if empty
           echo "$STALED_PRS"  \
-            | jq --raw-output 'map("* [#\(.number)](\(env.GITHUB_PULL_URL)/\(.number)): \(.title)") | join("\n")'  \
+            | jq --raw-output 'map("| [#\(.number)](\(env.GITHUB_PULL_URL)/\(.number)) | \(.title) |") | join("\n") | if (. == "") then "\nNo records.\n" else "\n|    | Title |\n|---:|:------|\n\(.)\n" end'  \
             >> $GITHUB_STEP_SUMMARY
 
           echo "### Closed issues"  \
             >> $GITHUB_STEP_SUMMARY
+          # render json array to a Markdown table with an optional "No records" message if empty
           echo "$CLOSED_ISSUES"  \
-            | jq --raw-output 'map("* [#\(.number)](\(env.GITHUB_ISSUES_URL)/\(.number)): \(.title)") | join("\n")'  \
+            | jq --raw-output 'map("| [#\(.number)](\(env.GITHUB_ISSUES_URL)/\(.number)) | \(.title) |") | join("\n") | if (. == "") then "\nNo records.\n" else "\n|    | Title |\n|---:|:------|\n\(.)\n" end'  \
             >> $GITHUB_STEP_SUMMARY
 
           echo "### Closed pull requests"  \
             >> $GITHUB_STEP_SUMMARY
+          # render json array to a Markdown table with an optional "No records" message if empty
           echo "$CLOSED_PRS"  \
-            | jq --raw-output 'map("* [#\(.number)](\(env.GITHUB_PULL_URL)/\(.number)): \(.title)") | join("\n")'  \
+            | jq --raw-output 'map("| [#\(.number)](\(env.GITHUB_PULL_URL)/\(.number)) | \(.title) |") | join("\n") | if (. == "") then "\nNo records.\n" else "\n|    | Title |\n|---:|:------|\n\(.)\n" end'  \
             >> $GITHUB_STEP_SUMMARY
         env:
-          GITHUB_REPO_URL:   ${{ format('{0}/{1}', github.server_url, github.repository) }}
           GITHUB_ISSUES_URL: ${{ format('{0}/{1}/issues', github.server_url, github.repository) }}
           GITHUB_PULL_URL:   ${{ format('{0}/{1}/pull', github.server_url, github.repository) }}
-          STALED_ISSUES: ${{ needs.process-issues.outputs.staled-issues }}
-          CLOSED_ISSUES: ${{ needs.process-issues.outputs.closed-issues }}
-          STALED_PRS:    ${{ needs.process-prs.outputs.staled-prs }}
-          CLOSED_PRS:    ${{ needs.process-prs.outputs.closed-prs }}
+          STALED_ISSUES: ${{ steps.set-staled.outputs.issues }}
+          CLOSED_ISSUES: ${{ steps.set-closed.outputs.issues }}
+          STALED_PRS:    ${{ steps.set-staled.outputs.prs }}
+          CLOSED_PRS:    ${{ steps.set-closed.outputs.prs }}

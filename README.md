@@ -215,6 +215,24 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 
 
-## License
+## To cite free-programming-books
 
-Each file included in this repository is licensed under the [CC BY License](LICENSE).
+free-programming-books content is published to the public domain and you can use it freely. If needed, here are 3 options for citing free-programming-books:
+
+```
+https://ebookfoundation.github.io/free-programming-books/
+```
+
+```
+Victor Felder et al. (2013) - "free-programming-books". Retrieved from: 'https://ebookfoundation.github.io/free-programming-books/' [Online Resource]
+```
+
+```
+@article{pldb,
+  author = {Victor Felder al.},
+  title = {free-programming-books},
+  journal = {free-programming-books},
+  year = {2013},
+  note = {https://ebookfoundation.github.io/free-programming-books/}
+ }
+```

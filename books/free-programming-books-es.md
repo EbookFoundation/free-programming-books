@@ -27,7 +27,6 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
-    * [Emacs Lisp](#emacs-lisp)
 * [Matemáticas](#matem%C3%A1ticas)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
@@ -259,11 +258,6 @@
 
 
 ### Lisp
-
-<!-- Waiting to add in -->
-
-
-#### Emacs Lisp
 
 * [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es) (HTML)
 

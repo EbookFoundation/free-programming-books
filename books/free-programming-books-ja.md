@@ -52,7 +52,6 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
-    * [Emacs Lisp](#emacs-lisp)
 * [Lua](#lua)
 * [Maven](#maven)
 * [Mercurial](#mercurial)
@@ -475,18 +474,12 @@
 ### Lisp
 
 * [Common Lisp 入門](http://www.nct9.ne.jp/m_hiroi/xyzzy_lisp.html#abclisp) - 広井誠
+* [Emacs Lisp基礎文法最速マスター](https://d.hatena.ne.jp/rubikitch/20100201/elispsyntax) - るびきち
+* [GNU Emacs Lispリファレンスマニュアル](http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html)
 * [Google Common Lisp スタイルガイド 日本語訳](https://lisphub.jp/doc/google-common-lisp-style-guide/lispguide.xml) - Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳)
 * [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog) - 畝見達夫
 * [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd) - Paul Graham, 野田開(翻訳)
 * [マンガで分かるLisp(Manga Guide to Lisp)](http://lambda.bugyo.tk/cdr/mwl) - λ組
-
-
-#### Emacs Lisp
-
-> :information_source: See also &#8230; [IDE and editors](#ide-and-editors)
-
-* [Emacs Lisp基礎文法最速マスター](https://d.hatena.ne.jp/rubikitch/20100201/elispsyntax) - るびきち
-* [GNU Emacs Lispリファレンスマニュアル](http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html)
 
 
 ### Lua

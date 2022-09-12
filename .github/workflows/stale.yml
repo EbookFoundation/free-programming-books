@@ -15,7 +15,7 @@ on:
         required: true
         default: true
 #  schedule:                           # or
-#    - cron: "0 0,6,12,18 * * *"       # every 6 hours at o'clock
+#    - cron: "0 0 * * *"               # once a day at 00:00 o'clock
 
 permissions:
   # no checkout/branching needed

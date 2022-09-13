@@ -11,7 +11,6 @@
 * [Android](#android)
 * [C](#c)
 * [C++](#cpp)
-* [Emacs](#emacs)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
 * [Git](#git)
@@ -27,6 +26,7 @@
     * [React](#react)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Lisp](#lisp)
 * [Matemáticas](#matem%C3%A1ticas)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
@@ -150,11 +150,6 @@
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) - WikiLibros
 
 
-### Emacs
-
-* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es) (HTML)
-
-
 ### Git
 
 * [Git Immersión en Español](https://esparta.github.io/gitimmersion-spanish)
@@ -260,6 +255,11 @@
 * [BASH Scripting Avanzado: Utilizando Declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) (descarga directa)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
 * [El Manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now/)
+
+
+### Lisp
+
+* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es) (HTML)
 
 
 ### Matemáticas

@@ -18,6 +18,7 @@
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
+* [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
@@ -45,7 +46,6 @@
 * [Selenium](#selenium)
 * [Solidity](#solidity)
 * [SQL](#sql)
-* [Vim](#vim)
 
 
 ### Ada
@@ -176,6 +176,11 @@
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 * [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) - freeCodeCamp
+
+
+### IDE and editors
+
+* [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html) - Henrik Huttunen
 
 
 #### Bootstrap
@@ -384,8 +389,3 @@
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
 * [SQLBolt](http://sqlbolt.com)
-
-
-### Vim
-
-* [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html)

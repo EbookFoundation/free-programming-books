@@ -3,7 +3,6 @@
 * [语言无关](#语言无关)
     * [版本控制](#版本控制)
     * [编程艺术](#编程艺术)
-    * [编辑器](#编辑器)
     * [编译原理](#编译原理)
     * [操作系统](#操作系统)
     * [程序员杂谈](#程序员杂谈)
@@ -20,7 +19,7 @@
     * [在线教育](#在线教育)
     * [正则表达式](#正则表达式)
     * [智能系统](#智能系统)
-    * [IDE](#ide)
+    * [IDE and editors](#ide-and-editors)
     * [Web](#web)
     * [WEB服务器](#web服务器)
 * [语言相关](#语言相关)
@@ -54,7 +53,7 @@
         * [Vue.js](#vuejs)
         * [Zepto.js](#zeptojs)
     * [LaTeX](#latex)
-    * [LISP](#lisp)
+    * [Lisp](#lisp)
     * [Lua](#lua)
     * [Markdown](#markdown)
     * [MySQL](#mysql)
@@ -79,7 +78,6 @@
         * [Angular](#angular)
         * [Deno](#deno)
     * [VBA](#vba-microsoft-visual-basic-applications)
-    * [Vim](#vim)
     * [Visual Prolog](#visual-prolog)
 
 
@@ -114,13 +112,6 @@
 * [编程入门指南](http://www.kancloud.cn/kancloud/intro-to-prog/52592)
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识 (第一部分)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
-
-
-### 编辑器
-
-* [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
-* [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
-* [Vim中文文档](https://github.com/vimcn/vimcdoc)
 
 
 ### 编译原理
@@ -258,9 +249,13 @@
 * [一步步搭建物联网系统](https://github.com/phodal/designiot)
 
 
-### IDE
+### IDE and editors
 
-* [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+* [大家來學 VIM](http://www.study-area.org/tips/vim/index.html) - Edward Lee
+* [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide) - yangyangwithgnu
+* [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
+* [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - Judas.n
+* [Vim中文文档](https://github.com/vimcn/vimcdoc) - Vim 中文计划, Yian Willis
 
 
 ### Web
@@ -583,7 +578,7 @@
 * [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)
 
 
-### LISP
+### Lisp
 
 * [ANSI Common Lisp 中文翻译版](http://acl.readthedocs.org/en/latest/)
 * [Common Lisp 高级编程技术](http://www.ituring.com.cn/minibook/862) (《On Lisp》中文版)
@@ -776,11 +771,6 @@
 ### VBA (Microsoft Visual Basic Applications)
 
 * [简明Excel VBA](https://github.com/Youchien/concise-excel-vba)
-
-
-### Vim
-
-* [大家來學 VIM](http://www.study-area.org/tips/vim/index.html)
 
 
 ### Visual Prolog

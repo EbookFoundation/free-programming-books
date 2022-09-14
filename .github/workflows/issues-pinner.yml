@@ -1,3 +1,11 @@
+#
+# This workflow adds a label to the issue involved on event when is pinned
+# and removes it when unpinned.
+#
+# It also is enhanced with `stale.yml` workflow: pinned issues never stales
+# because that label is declared as part of it `exempt-issue-labels`
+# input parameter.
+#
 name: Issues pinner management
 
 on:

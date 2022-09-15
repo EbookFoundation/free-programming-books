@@ -326,7 +326,7 @@
 * [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) - Willian Justen Curso (YouTube)
 * [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) - DevDojo (YouTube)
 * [TypeScript, o início, de forma prática](https://www.youtube.com/watch?v=0mYq5LrQN1s) - Rocketseat, Diego Fernandes (YouTube)
-
+* [Fundamentos do Typescript](https://app.rocketseat.com.br/discover/course/especializar-typescript) (Rocketseat)
 
 #### Angular
 

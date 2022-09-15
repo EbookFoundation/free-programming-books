@@ -17,7 +17,6 @@
     * [NoSQL](#nosql)
     * [Relazionali](#relazionali)
     * [SQL](#sql)
-* [Git](#git)
 * [Golang](#golang)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
@@ -63,9 +62,10 @@
 * [Programmazione di Sistema in Linguaggio C - Esempi ed esercizi](https://www.disi.unige.it/person/DelzannoG/BIOMED/Programmazione-C/dispense_avanzate_C.pdf) - V. Gervasi, S. Pelagatti, S. Ruggieri, F. Scozzari, A. Sperduti (PDF)
 
 
-#### Sistemi di controllo versione
+#### <a id="version-control-systems"></a><a id="git"></a><a id="svn"></a><a id="subversion"></a>Sistemi di controllo versione
 
-* [Controllo di Versione con Subversion](https://svnbook.red-bean.com/index.it.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
+* [Controllo di Versione con Subversion](https://svnbook.red-bean.com/index.it.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato (online, PDF)
+* [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (online, PDF, EPUB)
 
 
 #### Storia dell'informatica
@@ -122,11 +122,6 @@
 * [La progettazione dei database relazionali](http://www.crescenziogallo.it/unifg/medicina/TSRM/master_bioimmagini/db/Teoria_pratica_progettazione_db_relazionali.pdf) - C. Gallo (PDF)
 * [Manuale pratico di disegno e progettazione dei database](http://www.brunasti.eu/unimib/bdsi/manuale-pratico-progettazione-ER-100914.pdf) - P. Brunasti (PDF)
 * [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) (HTML)
-
-
-#### Git
-
-* [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 #### NoSQL

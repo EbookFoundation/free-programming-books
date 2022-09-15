@@ -62,7 +62,7 @@
 
 ### Git
 
-* [git - basit rehber](https://www.rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler
+* [git - basit rehber](https://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler
 * [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) - Ali Özgür
 
 

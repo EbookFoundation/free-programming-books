@@ -197,10 +197,10 @@
 
 ### Git
 
-* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) - Ben Lynn
-* [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
-* [Руководство по Git](http://proselyte.net/tutorials/git) - Евгений Сулейманов
-* [Pro Git](http://git-scm.com/book/ru/v2)
+* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) - Ben Lynn, `trl.:` Tikhon Tarnavsky, `trl.:` Mikhail Dymskov, et al. (online)
+* [Простое руководство по работе с Git](https://rogerdudler.github.io/git-guide/index.ru.html) - Roger Dudler, `trl.:` Dmitry Wolf (online)
+* [Руководство по Git](https://proselyte.net/tutorials/git) - Евгений Сулейманов (online)
+* [Pro Git](http://git-scm.com/book/ru/) - Scott Chacon, Ben Straub, et al. (online, PDF, EPUB, Kindle)
 
 
 ### Go

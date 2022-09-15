@@ -83,18 +83,17 @@
 
 ## 语言无关
 
-### 版本控制
+### <a id="version-control-systems"></a><a id="git"></a><a id="svn"></a><a id="subversion"></a><a id="mercurial"></a>版本控制
 
 * [沉浸式学 Git](https://web.archive.org/web/20191004044726/http://igit.linuxtoy.org:80/index.html)
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 * [学习 Git 分支](https://learngitbranching.js.org)
-* [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+* [Git - 简易指南](https://rogerdudler.github.io/git-guide/index.zh.html) - Roger Dudler, 罗杰·杜德勒
 * [Git 参考手册](http://gitref.justjavac.com)
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) - flyhigher139
 * [Git Community Book 中文版](http://gitbook.liuhui998.com)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
-* [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - Ben Lynn, `trl.:` 俊杰, 萌和江薇, et al.
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 廖雪峰
 * [Github帮助文档](https://github.com/waylau/github-help)
 * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/)
@@ -102,7 +101,7 @@
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 * [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/)
 * [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
-* [Pro Git](https://git-scm.com/book/zh/v2)
+* [Pro Git](https://git-scm.com/book/zh/) - Scott Chacon, Ben Straub, `trl.:` Alan Wang, `trl.:` 啊咪咪小熊, et al. (online, PDF, EPUB)
 * [Pro Git 第二版 中文版](https://bingohuang.gitbooks.io/progit2/content) - Bingo Huang
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 

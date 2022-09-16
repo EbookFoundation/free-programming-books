@@ -32,6 +32,7 @@
 * [.NET](#net)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
+    * [Laravel](#laravel)
 * [Prolog](#prolog)
 * [Python](#python)
     * [Django](#django)
@@ -80,6 +81,7 @@
 * [Bootstrap 5 Design 01 Bondi&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) - Elzero Web School
 * [Bootstrap 5 Tutorial&rlm;](https://www.youtube.com/playlist?list=PLnD96kXp-_pMJp3stPetkN76AJ2mmeah7) - Ag Coding
 
+
 ### C
 
 * [Introduction to Programming ( C Language - مقدمة في البرمجة ( لغة السي](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXI8wByY0umF_DQON2S9uws) - Ahmed Sallam
@@ -100,9 +102,9 @@
 * [كورس البرمجة للمبتدئين بلغة C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXXdrLompmAnxOaEfcAVmQi) - Tarek Alabd
 * [Arabic C++ For kids & beginners (برمجة لصغار السن والمبتدئيين)](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3) - Arabic Competitive Programming
 * [Basics of OOP with C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVdm59YZTEEuXqVQZtUAgoD) - Tarek Alabd
+* [C++ - OOP بالعربى](https://www.youtube.com/playlist?list=PLDQ11FgmbqQNq_cdsda-OLBZmS8F8vVVA) - Programming Solutions - Academy
 * [C++ For Beginners - Eng. Marwa Radwan&rlm;](https://www.youtube.com/playlist?list=PLsECTUuTGe7pfm3TTshn5V3PFQQ_cZyvv) - Techs Experts
 * [C++ Intensive - برمجة الحاسوب](https://www.youtube.com/playlist?list=PLPt2dINI2MIZPFq6HyUB1Uhxdh1UDnZMS) - Arabic Competitive Programming
-* [C++ - OOP بالعربى](https://www.youtube.com/playlist?list=PLDQ11FgmbqQNq_cdsda-OLBZmS8F8vVVA) - Programming Solutions - Academy
 * [C++ Object-Oriented Design and Programming&rlm;](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) - Arabic Competitive Programming
 * [C++ Programming \| Arabic Course&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY74yb5ZrRg1Cmil46KxLUDC) - Hard-Code
 * [C++ Programming Basics&rlm;](https://www.youtube.com/playlist?list=PLv3VqjyehAoSSzkyHmWk89hPgcVwTNouG) - Ali Shahin
@@ -165,11 +167,12 @@
 * [Advanced Flutter Tutorial - build E commerce App&rlm;](https://www.youtube.com/playlist?list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe) - Scholar Tech
 * [Best Flutter Course For Beginner in Arabic\| افضل دوره فلاتر بالعربي](https://www.youtube.com/playlist?list=PLGVaNq6mHinjCPki-3xraQdGWKVz7PhgI) - Scholar Tech
 * [E-commerce App with Flutter & Dart&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXpW_Hazx7jCYqwVlwe7SYk) - Tarek Alabd
+* [Flutter & Dart Bootcamp For Beginners&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXQ9PxbZV8ixhIRirs8WCt_) - Tarek Alabd
 * [Flutter بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan
 * [Flutter BLoC - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB) - Omar Ahmed
-* [Flutter & Dart Bootcamp For Beginners&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXQ9PxbZV8ixhIRirs8WCt_) - Tarek Alabd
 * [Mastering Firebase And Flutter version 2 (2021) - Course - project -فلاتر- مشروع - دورة - فايربيز - شرح - احتراف - كورس](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) - Wael Abu hamza
 * [State Management in Flutter&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NUxuaEebvtZ6GNGScR9J2QI) - Tarek Alabd
+
 
 ### Game Development
 
@@ -212,10 +215,10 @@
 * [JAVA Course Level 1 Basics By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwTgEDztQ8y4K4-VoeoK1QCG) - محمد شوشان
 * [JAVA For Beginners - Course 1 - in Arabic](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) - محمد الدسوقى
 * [Java FX&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1ISKdFo23inpSYyzXWrGDm) - Khalid ESSAADANI
+* [Java Programming - Eng. Marwa Radwan&rlm;](https://www.youtube.com/playlist?list=PLsECTUuTGe7okDiRTQjUOilwYssOyx-t4) - Techs Experts
 * [JAVA Programming Course Level 2 Object Oriented Programming By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQp6zaFd7o728neR1XhPvid) - محمد شوشان
 * [JAVA Programming Course Level 3 Graphic User Interface By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRhWDkdkM4jSTPW3CgxKH8G) - محمد شوشان
 * [JAVA Programming Course Level 4 Connect Database and JAVA By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwTmQTPK54W95WyNzT-33MR0) - محمد شوشان
-* [Java Programming - Eng. Marwa Radwan&rlm;](https://www.youtube.com/playlist?list=PLsECTUuTGe7okDiRTQjUOilwYssOyx-t4) - Techs Experts
 * [JAVA Programming Full Project by Arabic (uni_staff project) \|(المشروع الختامي بالجافا كاملا بشرح عربي )](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQbsAGChtjlNPLVv6kTEXRG) - محمد شوشان
 * [Java Tutorial for beginners- full course  -تعلم البرمجة- جافا](https://www.youtube.com/playlist?list=PLwAjM63H9bRuXIojpKDei4dVLRcvqP8V7) - genial code
 * [Learn JAVA Programming From Scratch In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN) - Adel Nasim
@@ -369,6 +372,7 @@
 * [Learn Object Oriented PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ) - Elzero Web School
 * [PHP Bootcamp 2022&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) - Elzero Web School
 
+
 #### Laravel
 
 * [أحتراف لارافل بأنشاء متجر الكتروني متكامل متعدد التجار واللغات - laravel 7 multi vendor eCommerce complete projectl Laravel E-Commerce&rlm;](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP6NeupdX_K9-Qm3ROqGud-t) - Professional Code
@@ -380,13 +384,13 @@
 * [مشروع لارافل متجر الكتروني متعدد التجار واللغات متكامل - تطبيقات لارافل عمليه](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP7DCb-NamG2tt7uQUfxP2va) - Professional Code
 * [API-Course-For-Beginners&rlm;](https://www.youtube.com/playlist?list=PLftLUHfDSiZ6MfN8UhhcXDhh64eejvIKK) - Mora Soft
 * [Build and deploy laravel realtime application on AWS for FREE (Arabic)&rlm;](https://www.youtube.com/playlist?list=PL7IXur3gcVAT4wUbA3KpOSSDm3j_n-qw5) - Ibrahim Konsowa
+* [larave advanced - realtime notification - laravel chat - laravel firebse اشعارات الزمن الحقيقي و فاير بيز لارافل](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5u3WilkVBz4s-uQtsy79eb) - Professional Code
+* [laravel + Vue.js complete tutorial - لارافل وفيو بمشروع تطبيق متكامل شرح](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5NRdNtBfznKtFoEAuKEd2n) - Professional Code
 * [Laravel 8 payment gateway - الدفع الالكتروني باستخدام لارافل 8 - الدفع البنكي بلارافل](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4wtrnHHJyf8a7E26I3ZrPG) - Professional Code
 * [Laravel 8 Tutorial - دورة لارافيل 8 باللغة العربية من الصفر الى الاحتراف](https://www.youtube.com/playlist?list=PLd4ZH7drWj7DAt5osYlsya3sscPoERtGC) - Mohammed Mustafa
-* [larave advanced - realtime notification - laravel chat - laravel firebse اشعارات الزمن الحقيقي و فاير بيز لارافل](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5u3WilkVBz4s-uQtsy79eb) - Professional Code
 * [Laravel API Complete Tutorial -شرح laravel API- شرح API لارافل - كورس - شرح laravel api باملثة عملية](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5e07XG-waxCb2kLq7M4J5m) - Professional Code
 * [Laravel in Arabic Framework 2020 - شرح لارافل دوره لارافل بالعربي المتكاملة بمشروع متجر](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4NNEikwx3wUAskQHB3p-LK) - Professional Code
 * [laravel websockets tutorial realtime notifications - chatting webscokets with node.js without any price&rlm;](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP43uz7u3096X9QY4Gs_oAFt) - Professional Code
-* [laravel + Vue.js complete tutorial - لارافل وفيو بمشروع تطبيق متكامل شرح](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5NRdNtBfznKtFoEAuKEd2n) - Professional Code
 * [Mastering Laravel&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy_mAhY0x8cHf8oSGPKsEKP) - Elzero Web School
 * [Redis + Laravel 8 complete tutorial - لارافل ريدس _ Redis queue with laravel- Redis caching with laravel&rlm;](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5CVYv0ABdApuYekWKcPNIT) - Professional Code
 
@@ -445,6 +449,7 @@
 * [Typescript Course For Javascript Developer&rlm;](https://www.youtube.com/playlist?list=PLDQ11FgmbqQNDkXDd5SScLPqJM5w4Kgjc) - Programming Solutions - Academy
 * [typescript for angular developers [arabic tutorial]&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa-BC3yuZdzmAfVC7i5etLWb) - codeZone
 * [TypeScript tutorial Arabic&rlm;](https://www.youtube.com/playlist?list=PLF8OvnCBlEY27rEmxg4F86iFljMXyCmk1) - Hussein Al Rubaye&rlm; (YouTube)
+
 
 #### Angular
 

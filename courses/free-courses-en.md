@@ -60,6 +60,7 @@
 * [Pharo](#pharo)
 * [PHP](#php)
 * [PLC - Programmable logic controllers](#plc---programmable-logic-controllers)
+* [PowerShell](#powershell)
 * [Processing](#processing)
 * [Python](#python)
     * [Django](#django)
@@ -810,6 +811,12 @@
 * [Learning motion control and IO with Beckhoff TwinCAT PLCs](https://www.youtube.com/playlist?list=PLE1CU6EebvTD29gsHo1djsKU7J5Dtp0Bn) - Evan Jensen (YouTube)
 * [Learning PLCs with Structured Text](https://www.youtube.com/playlist?list=PLE1CU6EebvTCJCMIUOSWgMseMaW-2k5zH) - Evan Jensen (YouTube)
 * [PLC programming using TwinCAT 3](https://www.youtube.com/playlist?list=PLimaF0nZKYHz3I3kFP4myaAYjmYk1SowO) - Jakob Sagatowski (YouTube)
+
+
+### PowerShell
+
+* [Learn Windows PowerShell in a Month of Lunches](https://youtube.com/playlist?list=PL6D474E721138865A) - Don Jones
+* [Introduction to scripting in PowerShell](https://learn.microsoft.com/en-us/training/modules/script-with-powershell/) - Microsoft
 
 
 ### Processing

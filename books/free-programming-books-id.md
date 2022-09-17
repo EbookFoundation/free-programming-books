@@ -5,11 +5,11 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
-* [Emacs](#emacs)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
+* [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
@@ -57,11 +57,6 @@
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
 
 
-### Emacs
-
-* [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
-
-
 ### Flutter
 
 * [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
@@ -86,6 +81,11 @@
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
 * [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: dalam proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
+
+
+### IDE and editors
+
+* [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc) - Kholid Fuadi
 
 
 ### Java

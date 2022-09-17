@@ -6,6 +6,7 @@
     * [Работа c cетью](#Работа-с-сетью)
     * [Управление конфигурациями](#Управление-конфигурациями)
     * [Экосистема открытого исходного кода](#open-source-ecosystem)
+    * [IDE and editors](#ide-and-editors)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -71,7 +72,6 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [Unix](#unix)
-* [Vim](#vim)
 
 
 ### 0 - Language Agnostic
@@ -118,6 +118,12 @@
 #### Экосистема открытого исходного кода
 
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
+
+
+#### IDE and editors
+
+* [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook) - Steve Oualline
+* [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) - Swaroop (PDF)
 
 
 ### Assembly
@@ -602,9 +608,3 @@
 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
 * [The Linux Kernel Module Programming Guide](http://www.opennet.ru/docs/RUS/lkmpg26) - Peter Jay Salzman, Michael Burian, Ori Pomerantz
-
-
-### Vim
-
-* [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook) - Steve Oualline
-* [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) (PDF)

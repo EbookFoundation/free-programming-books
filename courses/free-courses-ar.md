@@ -392,7 +392,7 @@
 * [Laravel in Arabic Framework 2020 - شرح لارافل دوره لارافل بالعربي المتكاملة بمشروع متجر](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4NNEikwx3wUAskQHB3p-LK) - Professional Code
 * [laravel websockets tutorial realtime notifications - chatting webscokets with node.js without any price&rlm;](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP43uz7u3096X9QY4Gs_oAFt) - Professional Code
 * [Mastering Laravel&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy_mAhY0x8cHf8oSGPKsEKP) - Elzero Web School
-* [Redis + Laravel 8 complete tutorial - لارافل ريدس _ Redis queue with laravel- Redis caching with laravel&rlm;](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5CVYv0ABdApuYekWKcPNIT) - Professional Code
+* [Redis + Laravel 8 complete tutorial - لارافل ريدس \_ Redis queue with laravel- Redis caching with laravel&rlm;](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5CVYv0ABdApuYekWKcPNIT) - Professional Code
 
 
 ### Prolog

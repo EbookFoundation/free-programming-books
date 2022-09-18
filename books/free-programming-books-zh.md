@@ -101,7 +101,7 @@
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html) - Jiang Xin, The GotGit community
 * [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/) - The HgInit team, `trl.:` Brant Young
 * [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial) - The Mercurial team
-* [Pro Git](https://git-scm.com/book/zh/) - Scott Chacon, Ben Straub, `trl.:` Alan Wang, `trl.:` 啊咪咪小熊, et al. (online, PDF, EPUB)
+* [Pro Git](https://git-scm.com/book/zh/) - Scott Chacon, Ben Straub, `trl.:` Alan Wang, `trl.:` 啊咪咪小熊, et al. (HTML, PDF, EPUB)
 * [Pro Git 第二版 中文版](https://bingohuang.gitbooks.io/progit2/content) - Bingo Huang
 * [Subversion 版本控制](http://svnbook.red-bean.com/nightly/zh/index.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
 

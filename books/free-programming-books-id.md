@@ -65,7 +65,7 @@
 ### Git
 
 * [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git) - Ahmad Muhardian, Petani Kode (online)
-* [Pro Git 2nd Edition](https://git-scm.com/book/id/) - Scott Chacon, Ben Straub (online)
+* [Pro Git 2nd Edition](https://git-scm.com/book/id/) - Scott Chacon, Ben Straub (HTML)
 
 
 ### Go

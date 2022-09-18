@@ -89,7 +89,7 @@
 
 * [Das Git-Buch](http://gitbu.ch) - Valentin Haenel, Julius Plenz (PDF, EPUB)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de) - Ben Lynn, `trl.:` Benjamin Bellee, `trl.:` Armin Stebich (Online, PDF)
-* [Pro Git](https://git-scm.com/book/de/) - Scott Chacon, Ben Straub, `trl.:` Ben Straub (Online, PDF, EPUB)
+* [Pro Git](https://git-scm.com/book/de/) - Scott Chacon, Ben Straub, `trl.:` Ben Straub (HTML, PDF, EPUB, Kindle)
 
 
 ### Go

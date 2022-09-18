@@ -65,7 +65,7 @@
 #### <a id="version-control-systems"></a><a id="git"></a><a id="svn"></a><a id="subversion"></a>Sistemi di controllo versione
 
 * [Controllo di Versione con Subversion](https://svnbook.red-bean.com/index.it.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato (online, PDF)
-* [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (online, PDF, EPUB)
+* [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 #### Storia dell'informatica

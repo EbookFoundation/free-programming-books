@@ -39,7 +39,7 @@
 
 #### Version Control Systems
 
-* [Pro Git](https://git-scm.com/book/pl/) - Scott Chacon, Ben Straub, et al. (online)
+* [Pro Git](https://git-scm.com/book/pl/) - Scott Chacon, Ben Straub, et al. (HTML)
 * [SVN](https://pl.wikibooks.org/wiki/Subversion) - Wikibooks
 
 

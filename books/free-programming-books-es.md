@@ -155,7 +155,7 @@
 * [Git Immersión en Español](https://esparta.github.io/gitimmersion-spanish) - Jim Weirich, `trl.:` Espartaco Palma
 * [Git. La guía simple](https://rogerdudler.github.io/git-guide/index.es.html) - Roger Dudler, `trl.:` Luis Barragan, `trl.:` Adrian Matellanes (HTML)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es) - Ben Lynn, `trl.:` Rodrigo Toledo, `trl.:` Ariset Llerena Tapia (online, PDF)
-* [Pro Git](http://git-scm.com/book/es/) - Scott Chacon, Ben Straub, `trl.:` Andres Mancera, `trl.:` Antonino Ingargiola, et al. (online, PDF, EPUB)
+* [Pro Git](http://git-scm.com/book/es/) - Scott Chacon, Ben Straub, `trl.:` Andres Mancera, `trl.:` Antonino Ingargiola, et al. (HTML, PDF, EPUB)
 
 
 ### Go

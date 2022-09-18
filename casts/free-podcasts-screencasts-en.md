@@ -330,7 +330,7 @@
 * [Codecasts](https://www.youtube.com/playlist?list=PL_qGav8csvade05RSAYtnxvCfQKTJcZR4) - Daniel Roy Greenfeld (screencast)
 * [Diving into Django](https://code.tutsplus.com/articles/diving-into-django--net-2969) - Jeff Hui (screencast)
 * [Import this](https://soundcloud.com/import-this) - Kenneth Reitz (podcast)
-* [Podcast.__init__](https://podcastinit.com) - Tobias Macey (podcast)
+* [Podcast.\_\_init\_\_](https://podcastinit.com) - Tobias Macey (podcast)
 * [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB) - Harrison Kinsley (screencast)
 * [Python Bytes](https://pythonbytes.fm) - Michael Kennedy, Brian Okken (podcast)
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) - Christopher Bailey (screencast)

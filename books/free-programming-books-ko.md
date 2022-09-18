@@ -74,8 +74,8 @@
 
 ### Git
 
-* [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md) - Tim Green, `trl.:` marocchino, `trl.:` Chayoung You, `trl.:` Will 保哥 (online)
-* [Git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html) - Roger Dudler, `trl.:` Juntai Park, `trl.:` Ardie Hwang (online)
+* [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md) - Tim Green, `trl.:` marocchino, `trl.:` Chayoung You, `trl.:` Will 保哥 (HTML)
+* [Git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html) - Roger Dudler, `trl.:` Juntai Park, `trl.:` Ardie Hwang (HTML)
 * [Pro Git 한글 번역](https://git-scm.com/book/ko/) - Scott Chacon, Ben Straub, `trl.:` Sean Lee, `trl.:` Seonghwan Lee, `trl.:` Sungmann Cho, `trl.:` Junyeong Yim, et al. (HTML, PDF, EPUB) *(최신 버전)*
 
 

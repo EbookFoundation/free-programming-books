@@ -57,7 +57,7 @@
 * [Data Structure : JavaScript (leetcode problem solving)&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) - Shadow Coding
 * [Data Structure C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8) - Mega Code
 * [Data Structures Full Course In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) - Adel Nasim
-* [grokking-algorithms&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW) - Nehal Elsamoly&rlm; (:construction: *in process*)
+* [grokking-algorithms&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW) - Nehal Elsamoly&rlm; *(:construction: in process)*
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi
 * [Standard Template Library (STL) Full Tutorial Using C++ In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp) - Adel Nasim
 
@@ -113,7 +113,7 @@
 * [C++ Programming From Scratch In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3) - Adel Nasim
 * [CS Master - Level 0 - Intro to CS مقدمة لعلوم الحاسب](https://www.youtube.com/playlist?list=PLL2zWZTDFZzivM2GAL3HpuFrHlLwp6FoO) - KMR Script
 * [CS Master - Level 4 - Object Oriented Programming & Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhul3X8djkfXzUxl7Cw7-sF) - KMR Script
-* [Modern c++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLkH1REggdbJpykrlVYYRteEstS6F4VNtP) - Moatasem El Sayed&rlm; (:construction: *in process*)
+* [Modern c++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLkH1REggdbJpykrlVYYRteEstS6F4VNtP) - Moatasem El Sayed&rlm; *(:construction: in process)*
 * [Object-Oriented Programming C++ in Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) - Adel Nasim
 * [Object-Oriented Programming with C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXG_-EgmKb1gxW5S4XaQYaE) - Ahmed Sallam
 * [Programming 1 - Programming For Beginners - C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD) - محمد الدسوقي
@@ -432,11 +432,11 @@
 
 ### Software Architecture
 
-* [Behavioral Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdex66Z6ViaYFQqvFD1C_G7j) - Mohammed Reda&rlm; (:construction: *in process*)
+* [Behavioral Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdex66Z6ViaYFQqvFD1C_G7j) - Mohammed Reda&rlm; *(:construction: in process)*
 * [Clean Code Book - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX) - Omar Ahmed
 * [Creational Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ) - Mohammed Reda
 * [Declarative Programming](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f) - درة الاكواد لابن حماد
-* [Design patterns&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdYIo2Slyt4XvBElKDcTSgHM) - Nehal Elsamoly&rlm; (:construction: *in process*)
+* [Design patterns&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdYIo2Slyt4XvBElKDcTSgHM) - Nehal Elsamoly&rlm; *(:construction: in process)*
 * [Software Design Patterns](https://www.youtube.com/playlist?app=desktop&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC) - محمد يحيى
 * [SOLID Principles بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda
 * [SOLID Principles بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV) - Omar Ahmed

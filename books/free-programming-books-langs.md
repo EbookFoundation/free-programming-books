@@ -1597,6 +1597,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/) - Michael R. Clarkson
 * [OCaml From the Ground Up](https://ocamlbook.org) - Daniil Baturin (HTML) *(:construction: in process)*
+* [OCaml from the Very Beginning](https://johnwhitington.net/ocamlfromtheverybeginning/) - John Whitington
 * [OCaml Scientific Computing](https://ocaml.xyz/book/) - Liang Wang, Jianxin Zhao (HTML) *(:construction: in process)*
 * [Real World OCaml](https://dev.realworldocaml.org/toc.html)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey, Nicholas Monje
@@ -1790,7 +1791,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
 * [Prolog Tutorial](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html) - J. R. Fisher
 * [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space) - Peter Flach
-* [The Art of Prolog, Second Edition](https://mitpress.mit.edu/books/art-prolog-second-edition) - Leon S. Sterling, Ehud Y. Shapiro (Open Access)
+* [The Art of Prolog, Second Edition](https://mitpress.mit.edu/9780262691635/the-art-of-prolog/) - Leon S. Sterling, Ehud Y. Shapiro (Open Access)
 * [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [The Power of Prolog](https://www.metalevel.at/prolog) - Markus Triska
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci

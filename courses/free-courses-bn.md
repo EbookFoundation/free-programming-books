@@ -11,7 +11,7 @@
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
     * [Tailwind](#tailwind)
-* [IDE and Editors](#ide-and-editors)
+* [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
@@ -99,7 +99,7 @@
 * [Tailwind CSS Bangla Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2) - Learn with Sumit
 
 
-### IDE and Editors
+### IDE and editors
 
 * [VSCode Complete Tutorial Series \| VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
 

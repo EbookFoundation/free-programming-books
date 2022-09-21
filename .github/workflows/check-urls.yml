@@ -7,10 +7,10 @@ on:
 permissions:
   contents: read
 
-# This allows a subsequently queued workflow run to interrupt previous runs
+# This allows a subsequently queued workflow run to interrupt/wait for previous runs
 concurrency:
-  group: '${{ github.workflow }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref || github.run_id }}'
-  cancel-in-progress: true
+  group: '${{ github.workflow }} @ ${{ github.run_id }}'
+  cancel-in-progress: false         # true = interrupt, false = wait
 
 jobs:
   check-urls:
@@ -40,7 +40,7 @@ jobs:
 
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@v29.0.3
+        uses: tj-actions/changed-files@v29.0.7
         with:
           separator: " "
 

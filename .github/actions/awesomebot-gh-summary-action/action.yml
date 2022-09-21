@@ -60,8 +60,18 @@ runs:
         # Loop ForEach files
         $env:INPUT_FILES -split $env:INPUT_SEPARATOR | ForEach {
           $file = $_
+          if ($file -match "\s+" ) {
+            continue # is empty string
+          }
           $abr_file = $env:INPUT_AB_ROOT + "/ab-results-" + ($file -replace "[/\\]","-") + "-markdown-table.json"
-          $json = Get-Content $abr_file | ConvertFrom-Json
+
+          try {
+            $json = Get-Content $abr_file | ConvertFrom-Json
+          } catch {
+            $message = $_
+            echo "::error ::$message" # Notify as GitHub Actions annotation
+            continue                  # Don't crash!!
+          }
 
           $text += "`n`n"
           if ("true" -eq $json.error) {

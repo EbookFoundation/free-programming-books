@@ -8,7 +8,7 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [Lego Mindstorms](#lego-mindstorms)
-* [LISP](#lisp)
+* [Lisp](#lisp)
 * [.NET](#net)
 * [PHP](#php)
 * [PowerShell](#powershell)
@@ -73,7 +73,7 @@
 * [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF)
 
 
-### LISP
+### Lisp
 
 * [A LISP programozási nyelv](http://mek.oszk.hu/07200/07258/index.phtml) - Zimányi Magdolna, Kálmán László, Fadgyas Tibor (PDF)
 

@@ -4,7 +4,6 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
-* [Common Lisp](#common-lisp)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
@@ -13,7 +12,7 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
-* [IDE and Editors](#ide-and-editors)
+* [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Angular](#angular)
@@ -24,6 +23,7 @@
     * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
+* [Lisp](#lisp)
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
@@ -58,12 +58,6 @@
 
 * [ClojureScript Podcast](https://clojurescriptpodcast.com) - Jacek Schae (podcast)
 * [Parens of the Dead](http://www.parens-of-the-dead.com) - Magnar Sveen, Elisabeth Irgens (screencast)
-
-
-### Common Lisp
-
-* [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
-* [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
 
 
 ### Data Science
@@ -142,7 +136,7 @@
 * [The CSS Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
 
 
-### IDE and Editors
+### IDE and editors
 
 * [Emacs Cast](https://emacscast.org) - Rakhim Davletkaliyev (podcast)
 * [Emacs Rocks!](http://emacsrocks.com) - Christian Johansen (screencast)
@@ -294,6 +288,12 @@
 * [Women in TECH with Ariana](https://www.wallwaytech.com/podcast) - Ariana The Techie (podcast)
 
 
+### Lisp
+
+* [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
+* [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
+
+
 ### Machine Learning
 
 * [Concerning AI](https://concerning.ai) - Brandon Sanders, Ted Sarvata (podcast)
@@ -330,7 +330,7 @@
 * [Codecasts](https://www.youtube.com/playlist?list=PL_qGav8csvade05RSAYtnxvCfQKTJcZR4) - Daniel Roy Greenfeld (screencast)
 * [Diving into Django](https://code.tutsplus.com/articles/diving-into-django--net-2969) - Jeff Hui (screencast)
 * [Import this](https://soundcloud.com/import-this) - Kenneth Reitz (podcast)
-* [Podcast.__init__](https://podcastinit.com) - Tobias Macey (podcast)
+* [Podcast.\_\_init\_\_](https://podcastinit.com) - Tobias Macey (podcast)
 * [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB) - Harrison Kinsley (screencast)
 * [Python Bytes](https://pythonbytes.fm) - Michael Kennedy, Brian Okken (podcast)
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) - Christopher Bailey (screencast)

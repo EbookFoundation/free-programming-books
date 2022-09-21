@@ -7,13 +7,14 @@
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
+* [Docker](#docker)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
-* [IDE](#ide)
+* [IDE and editors](#ide-and-editors)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -87,6 +88,11 @@
 * [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
 
 
+### Docker
+
+* [Curso de Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4) - Robert Silva (YouTube)
+
+
 ### Flutter
 
 * [Criando seu primeiro App com Flutter](https://app.balta.io/courses/7184) - Andre Baltieri (balta.io)
@@ -132,7 +138,7 @@
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
 
 
-### IDE
+### IDE and editors
 
 * [Domine o sublime text](https://www.udemy.com/course/domine-o-sublime-text/) - Alexandre Cardoso (Udemy)
 * [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
@@ -209,6 +215,7 @@
 
 ### Lua
 
+* [Curso de Programação Lua](https://youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt) - Techiesse (YouTube)
 * [Introdução a Programação com Lua](https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA) - Alfred R. Baudisch (YouTube)
 
 
@@ -294,7 +301,6 @@
 ### React Native
 
 * [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) - Canal Geek Dev (YouTube)
-* [Curso do React Native implementando CRUD](https://app.rocketseat.com.br/node/curso-react-native) - *registration required* (Rocketseat)
 
 
 ### Ruby

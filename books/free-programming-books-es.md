@@ -152,11 +152,10 @@
 
 ### Git
 
-* [Git Immersión en Español](https://esparta.github.io/gitimmersion-spanish)
-* [Git. La guía simple](http://rogerdudler.github.io/git-guide) (HTML)
-* [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es)
-* [Pro Git](http://git-scm.com/book/es/)
-* [Pro Git v2](http://git-scm.com/book/es/v2)
+* [Git Immersión en Español](https://esparta.github.io/gitimmersion-spanish) - Jim Weirich, `trl.:` Espartaco Palma
+* [Git. La guía simple](https://rogerdudler.github.io/git-guide/index.es.html) - Roger Dudler, `trl.:` Luis Barragan, `trl.:` Adrian Matellanes (HTML)
+* [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es) - Ben Lynn, `trl.:` Rodrigo Toledo, `trl.:` Ariset Llerena Tapia (HTML, PDF)
+* [Pro Git](http://git-scm.com/book/es/) - Scott Chacon, Ben Straub, `trl.:` Andres Mancera, `trl.:` Antonino Ingargiola, et al. (HTML, PDF, EPUB)
 
 
 ### Go
@@ -385,7 +384,7 @@
 
 ### Subversion
 
-* [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) (HTML)
+* [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato (HTML)
 
 
 ### TypeScript

@@ -1,6 +1,7 @@
 ### Index
 
 * [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
+    * [Version Control Systems](#version-control-systems)
 * [Android](#android)
 * [Assembly](#assembly)
 * [Bash](#bash)
@@ -31,11 +32,15 @@
 * [Interaktywna platforma do nauki programowania](http://apki.org)
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS) - Wikibooks
 * [Poradnik początkującego programisty](http://www.eioba.pl/a/2eu1/poradnik-poczatkujacego-programisty) - Mariusz Żurawek
-* [Pro Git](http://git-scm.com/book/pl/)
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
 * [Struktury danych i ich zastosowania](http://informatykaplus.edu.pl/upload/list/czytelnia/Struktury_danych_i_ich_zastosowania.pdf) - Informatyka+ (PDF)
-* [SVN](https://pl.wikibooks.org/wiki/Subversion) - Wikibooks
 * [W poszukiwaniu wyzwań 2](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-pl.pdf) - Zadania z AMPPZ 2011–2014 (PDF)
+
+
+#### Version Control Systems
+
+* [Pro Git](https://git-scm.com/book/pl/) - Scott Chacon, Ben Straub, et al. (HTML)
+* [SVN](https://pl.wikibooks.org/wiki/Subversion) - Wikibooks
 
 
 ### Android

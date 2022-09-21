@@ -7,7 +7,7 @@
 * [C++](#cpp)
 * [Docker](#docker)
 * [Elastic](#elastic)
-* [GIT](#git)
+* [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
@@ -72,11 +72,11 @@
 * [Elastic 가이드북](https://esbook.kimjmin.net) - 김종민
 
 
-### GIT
+### Git
 
-* [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
-* [Git - 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
-* [Pro Git 한글 번역](https://git-scm.com/book/ko/v2) - 최신 버전
+* [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md) - Tim Green, `trl.:` marocchino, `trl.:` Chayoung You, `trl.:` Will 保哥 (HTML)
+* [Git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html) - Roger Dudler, `trl.:` Juntai Park, `trl.:` Ardie Hwang (HTML)
+* [Pro Git 한글 번역](https://git-scm.com/book/ko/) - Scott Chacon, Ben Straub, `trl.:` Sean Lee, `trl.:` Seonghwan Lee, `trl.:` Sungmann Cho, `trl.:` Junyeong Yim, et al. (HTML, PDF, EPUB) *(최신 버전)*
 
 
 ### Go

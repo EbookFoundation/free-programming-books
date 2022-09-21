@@ -148,8 +148,8 @@
 
 ### Git
 
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) - Alexandre Garel, Paul Gaborit, Nicolas Deram
-* [Pro Git](http://www.git-scm.com/book/fr/v2) - Scott Chacon, Ben Straub
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) - Ben Lynn, `trl.:` Alexandre Garel, `trl.:` Paul Gaborit, `trl.:` Nicolas Deram (HTML, PDF)
+* [Pro Git](http://www.git-scm.com/book/fr/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 ### Java

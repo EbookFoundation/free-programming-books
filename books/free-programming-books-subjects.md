@@ -831,17 +831,17 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
 * [Conversational Git](http://blog.anvard.org/conversational-git/) - Alan Hohn
-* [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Roger Dudler
+* [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Roger Dudler (HTML)
 * [Git cookbook](https://git.seveas.net/about.html) - Dennis Kaarsemaker (HTML)
 * [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/) - Tommi Virtanen
 * [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley
-* [Git Immersion](http://gitimmersion.com)
+* [Git Immersion](http://gitimmersion.com) - Jim Weirich (HTML)
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html) - Peter Savage
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) - Ben Lynn, et al.
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) - Ben Lynn, et al. (HTML, PDF, EPUB)
 * [Git Notes for Professionals](http://goalkicker.com/GitBook) - Compiled from StackOverflow Documentation (PDF)
 * [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
-* [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/) *(:card_file_box: archived)*
+* [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/) - The GitHub team *(:card_file_box: archived)*
 * [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) - Ryan Hodson (PDF, Kindle) (email address *requested*, not required)
 * [Git Tutorial](https://www.tutorialspoint.com/git/) - Tutorials Point (HTML, PDF)
 * [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
@@ -855,7 +855,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
 * [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) - Bryan O'Sullivan
-* [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon
+* [Pro Git](http://git-scm.com/book/en/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB, Kindle)
 * [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
 * [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson *(:card_file_box: archived)*
 * [Subversion Version Control](http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) - William Nagel (PDF)

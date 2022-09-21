@@ -330,14 +330,14 @@
 
 ### Git
 
-* [git - 簡単ガイド](https://rogerdudler.github.io/git-guide/index.ja.html) - Roger Dudler, @nacho4d(翻訳)
+* [git - 簡単ガイド](https://rogerdudler.github.io/git-guide/index.ja.html) - Roger Dudler, `trl.:` @nacho4d (HTML)
 * [Git ユーザマニュアル (バージョン 1.5.3 以降用)](https://cdn8.atwikiimg.com/git_jp/pub/git-manual-jp/Documentation/user-manual.html) - Yasuaki Narita
-* [GitHubカンニング・ペーパー](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, marocchino(翻訳)
-* [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, 高木正弘 他(翻訳) ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
+* [GitHubカンニング・ペーパー](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
+* [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, `trl.:` 高木正弘 他 ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
 * [Steins;Git 第二版](https://o2project.github.io/steins-git) - Shota Kubota
 * [サルでもわかるGit入門](https://backlog.com/ja/git-tutorial) - 株式会社ヌーラボ
 * [デザイナのための Git](https://github.com/hatena/Git-for-Designers) - はてな教科書
-* [図解 Git](https://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, Kazu Yamamoto(翻訳)
+* [図解 Git](https://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, `trl.:` Kazu Yamamoto
 
 
 ### Go

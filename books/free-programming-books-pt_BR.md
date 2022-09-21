@@ -157,10 +157,10 @@
 
 ### Git
 
-* [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
-* [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
-* [Pro Git](http://git-scm.com/book/pt-br/)
+* [Git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Roger Dudler (HTML)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/) - Ben Lynn, `trl.:` Leonardo Siqueira Rodrigues (HTML, PDF)
+* [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP, Marcelo Augusto Cordeiro
+* [Pro Git](http://git-scm.com/book/pt-br/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB)
 
 
 ### GO

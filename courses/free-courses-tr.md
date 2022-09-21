@@ -2,7 +2,7 @@
 
 * [Algoritmalar](#algoritmalar)
 * [HTML and CSS](#html-and-css)
-* [IDE / Editors](#ide--editors)
+* [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
@@ -25,7 +25,7 @@
 * [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
 
 
-### IDE / Editors
+### IDE and editors
 
 * [Visual Studio Code Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx72uHNQ6aZXxa1pSKViqIhE) - Hakan Yalçınkaya \| Kodluyoruz
 

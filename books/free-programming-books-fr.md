@@ -3,6 +3,7 @@
 * [0 - Méta-listes](#0---méta-listes)
 * [1 - Non dépendant du langage](#1---non-dépendant-du-langage)
     * [Algorithmique](#algorithmique)
+    * [IDE and editors](#ide-and-editors)
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
     * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
@@ -47,7 +48,6 @@
 * [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
 * [TEI](#tei)
-* [Vim](#vim)
 
 
 ### 0 - Méta-listes
@@ -65,6 +65,12 @@
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) - D. Beauquier, J. Berstel, Ph. Chrétienne (PDF)
 * [France-IOI](http://www.france-ioi.org)
 * [Prologin](https://prologin.org)
+
+
+#### IDE and editors
+
+* [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/) - Yann Esposito
+* [Vim pour les humains](https://vimebook.com/fr) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)
 
 
 #### Logiciels libres
@@ -142,8 +148,8 @@
 
 ### Git
 
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) - Alexandre Garel, Paul Gaborit, Nicolas Deram
-* [Pro Git](http://www.git-scm.com/book/fr/v2) - Scott Chacon, Ben Straub
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) - Ben Lynn, `trl.:` Alexandre Garel, `trl.:` Paul Gaborit, `trl.:` Nicolas Deram (HTML, PDF)
+* [Pro Git](http://www.git-scm.com/book/fr/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 ### Java
@@ -326,9 +332,3 @@
 ### TEI
 
 * [Qu'est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237) - Lou Burnard, `trl.:` Marjorie Burghart
-
-
-### Vim
-
-* [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)
-* [Vim pour les humains](https://vimebook.com/fr) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)

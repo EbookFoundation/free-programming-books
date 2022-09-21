@@ -2123,7 +2123,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book)
 * [The Rust Language Reference](https://github.com/rust-lang/reference)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book)
-* [The Rust Programming Language](http://doc.rust-lang.org/book)
+* [The Rust Programming Language](http://doc.rust-lang.org/book) - Steve Klabnik and Carol Nichols (HTML)
 * [The Rust RFC Book](https://rust-lang.github.io/rfcs)
 * [The Rustc Book](https://doc.rust-lang.org/rustc)
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon)

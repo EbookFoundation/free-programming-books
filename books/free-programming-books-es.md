@@ -161,7 +161,7 @@
 ### Go
 
 * [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin, `trl.:` Raúl Expósito (HTML, [PDF](https://raulexposito.com/assets/pdf/go.pdf), [EPUB](https://raulexposito.com/assets/epub/go.epub))
-* [Go en Español](https://nachopacheco.gitbooks.io/go-es/content/doc) - Nacho Pacheco (HTML)
+* [Go en Español](https://nachopacheco.gitbooks.io/go-es/content/doc) - Nacho Pacheco (HTML) (GitBook)
 
 
 ### Haskell
@@ -216,7 +216,7 @@
 > :information_source: Véase también &#8230; [Angular](#angular)
 
 * [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
-* [AngularJS](https://eladrodriguez.gitbooks.io/angularjs) - Elad Rodriguez (HTML) (Gitbook)
+* [AngularJS](https://eladrodriguez.gitbooks.io/angularjs) - Elad Rodriguez (HTML) (GitBook)
 * [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - John Papa, et al., `trl.:` Alberto Calleja Ríos, `trl.:` Gilberto (HTML)
 * [Manual de AngularJS](https://desarrolloweb.com/manuales/manual-angularjs.html) - desarrolloweb.com (HTML, PDF, EPUB, Kindle)
 
@@ -277,7 +277,7 @@
 #### MongoDB
 
 * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book) - Karl Seguin, `trl.:` Osledy Bazo
-* [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan D. Graterol (GitBook) *(:construction: en proceso)*
+* [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan D. Graterol (HTML) (GitBook) *(:construction: en proceso)*
 
 
 #### Redis
@@ -341,7 +341,7 @@
 
 ### Ruby
 
-* [Aprende a programar con Ruby](http://rubysur.org/aprende.a.programar) - RubySur (Gitbook)
+* [Aprende a programar con Ruby](http://rubysur.org/aprende.a.programar) - RubySur (HTML) (GitBook)
 * [La Guía de Estilos de Ruby](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio) -, Ale Mohamad (GitHub)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart) (HTML)
 * [Ruby tutorial o cómo pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion) - Andrés Suárez García (HTML)
@@ -349,7 +349,7 @@
 
 #### Ruby on Rails
 
-* [Introducción a Rails](http://rubysur.org/introduccion.a.rails/) - RubySur (Gitbook)
+* [Introducción a Rails](http://rubysur.org/introduccion.a.rails/) - RubySur (HTML) (GitBook)
 
 
 ### R
@@ -399,8 +399,8 @@
 
 > :information_source: Véase también &#8230; [AngularJS](#angularjs)
 
-* [Angular 2](https://rldona.gitbooks.io/angular-2-book) - Raúl López (HTML) (Gitbook)
-* [Aprendiendo Angular](https://ngchallenges.gitbook.io) - Vanessa Aristizabal (HTML) (Gitbook)
+* [Angular 2](https://rldona.gitbooks.io/angular-2-book) - Raúl López (HTML) (GitBook)
+* [Aprendiendo Angular](https://ngchallenges.gitbook.io) - Vanessa Aristizabal (HTML) (GitBook)
 * [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - riptutorial (PDF)
 * [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - riptutorial (PDF)
-* [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano (HTML, [:package: ejemplos](https://github.com/jorgeucano/entendiendo-angular)) (Gitbook)
+* [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano (HTML, [:package: ejemplos](https://github.com/jorgeucano/entendiendo-angular)) (GitBook)

@@ -10,7 +10,7 @@ permissions:
 # This allows a subsequently queued workflow run to interrupt/wait for previous runs
 concurrency:
   group: '${{ github.workflow }} @ ${{ github.run_id }}'
-  cancel-in-progress: false  # true: interrupt, false = wait for
+  cancel-in-progress: false         # true = interrupt, false = wait
 
 jobs:
   check-urls:

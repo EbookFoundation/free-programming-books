@@ -46,6 +46,7 @@
 * [R](#r)
 * [RegEx](#regex)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Shell / Bash Script](#shell--bash)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -362,6 +363,11 @@
 * [Aprenda a Programar](http://www.jmonteiro.com/aprendaaprogramar/)
 * [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
+
+
+### Rust
+
+* [A Linguagem de Programação Rust](https://rust-br.github.io/rust-book-pt-br/title-page.html) - Steve Klabnik e Carol Nichols (HTML)
 
 
 ### Shell / Bash

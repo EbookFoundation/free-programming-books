@@ -6,6 +6,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [React](#react)
+    * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -56,6 +57,11 @@
 #### React
 
 * [ری اکت جی اس ۲۰۲۰](https://www.youtube.com/playlist?list=PL3Y-E4YSE4wZpWH8CXwPBI1F13KhkIDEx) - Amir Azimi
+
+
+#### Vue.js
+
+* [آموزش Vue.js از صفر تا صد با 8 درس رایگان](https://sariasan.com/featured/vue-free-full-lessons) - میلاد حیدری
 
 
 ### Kotlin

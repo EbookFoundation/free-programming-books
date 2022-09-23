@@ -15,10 +15,10 @@
 * [Operating System](#operating-systems)
 * [PHP](#php)
     * [Symfony](#symfony)
-* [Programming in Scratch](#programming-in-scratch)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
+* [Scratch](#scratch)
 * [Security](#security)
 * [SEO](#seo)
 * [SQL](#sql)
@@ -106,11 +106,6 @@
 * [سيمفوني 5 : المسار السريع](https://symfony.com/doc/5.0/the-fast-track/ar/index.html)
 
 
-### Programming in Scratch
-
-* [كتاب احترف سكراتش](http://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
-
-
 ### Python
 
 * [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)
@@ -125,6 +120,11 @@
 ### Ruby
 
 * [مقدمة في روبي](http://librebooks.org/intro-to-ruby/)
+
+
+### Scratch
+
+* [كتاب احترف سكراتش](http://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
 
 
 ### Security

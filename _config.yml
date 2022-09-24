@@ -1,0 +1,22 @@
+# [Name of visual theme]
+#theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+
+# [Conversion]
+markdown: kramdown
+
+# [Used rubygem plugins]
+plugins:
+  - jekyll-remote-theme
+  - jemoji
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - CODE_OF_CONDUCT.md
+

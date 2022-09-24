@@ -190,15 +190,15 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 ##### Atribuciones
 
 - Queremos dar crédito a los creadores de recursos gratuitos cuando sea apropiado, ¡incluso traductores!
-- En el caso de obras traducidas, se debe acreditar también al autor original. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- En el caso de obras traducidas, se debe acreditar también al autor original. Recomendamos usar [MARC relators](https://loc.gov/marc/relators/relaterm.html) para dar presencia al resto de creadores diferentes al autor original, tal y como se muestra en este ejemplo:
 
     ```markdown
-    * [A Translated Book](http://example.com/book-es.html) - John Doe, `trl.:` Mike The Translator
+    * [Un libro traducido](http://example.com/book-es.html) - John Doe, `trl.:` Mike Traduce
     ```
 
-    here, the annotation `trl.:` uses the MARC relator code for "translator".
-- Use a comma `,` to delimit each item in the author list.
-- You can shorten author lists with "`et al.`".
+    donde, la anotación `trl.:` incluye el código MARC relator para "traductor".
+- Utilice comas `,` para separar cada elemento de la lista de autores.
+- Cuando sean muchas, puedes valerte de "`et al.`" para acortar dicha lista.
 - No permitimos enlaces directos al creador.
 - En el caso de recopilaciones u obras remezcladas, el "creador" puede necesitar una descripción. Por ejemplo, los libros de "GoalKicker" o "RIP Tutorial" se acreditan como "`Creado a partir de la documentación de StackOverflow`" (en inglés: "`Compiled from StackOverflow documentation`").
 

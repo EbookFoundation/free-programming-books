@@ -178,7 +178,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 ##### Creators
 
 - We want to credit the creators of free resources where appropriate, including translators!
-- We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- For translated works the original author should be credited. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
 
     ```markdown
     * [A Translated Book](http://example.com/book.html) - John Doe, `trl.:` Mike The Translator

@@ -60,6 +60,7 @@
 - Если книга более старая, укажите дату публикации в названии.
 - Укажите имя автора или имена там, где это необходимо. Вы можете сократить списки авторов с помощью «`и др.`» («`et al.`»).
 - если книга не закончена, и работа над ней продолжается, добавьте пометку «`в процессе`», как описано [ниже](#in_process).
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - если перед загрузкой запрашивается адрес электронной почты или настройка учетной записи, добавьте в скобки примечания на соответствующем языке, например: `(адрес электронной почты *запрашивают*, но он не требуется для загрузки)`.
 
 
@@ -139,6 +140,12 @@
     ХОРОШО: * [Скоро будет отличная книга](http://example.com/book2.html) - Джон Доу (HTML) (:construction: *in process*)
     ```
 
+- <a id="archived"></a>Archived link:
+
+    ```text
+    ХОРОШО: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
 ### Alphabetical order
 
 - When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
@@ -181,9 +188,17 @@ If you see a misplaced link, check the linter error message to know which lines 
 ##### Creators
 
 - Хотим поблагодарить создателей бесплатных ресурсов, где это возможно, в том числе переводчиков!
-- Для переведенных работ следует указать оригинального автора.
+- Для переведенных работ следует указать оригинального автора. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-ru.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - Мы не разрешаем ссылки на авторов.
-- Для подборок и смешенных изданий «создателю» может потребоваться описание. Например, книги «GoalKicker» считаются «`Скомпилированными из документации StackOverflow`» ("на английском: «`Compiled from StackOverflow documentation`»).
+- Для подборок и смешенных изданий «создателю» может потребоваться описание. Например, книги «GoalKicker» или «RIP Tutorial» считаются «`Скомпилированными из документации StackOverflow`» ("на английском: «`Compiled from StackOverflow documentation`»).
 
 
 <!----><a id="platforms-and-access-notes"></a>

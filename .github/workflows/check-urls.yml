@@ -24,14 +24,14 @@ jobs:
 # NOTE: tj-actions/changed-files.
 # For push events you need to include fetch-depth: 0 | 2 depending on your use case.
 #  0: retrieve all history for all branches and tags
-#  1: retrieve current commit (by default)
-#  2: retrieve the preceding commit
+#  1: retrieve only current commit (by default)
+#  2: retrieve until the preceding commit
       - name: Determine workflow parameters
         id: init-params
         run: |
           echo "::set-output name=fetch_depth::0";
           if [ "${{ github.event_name }}" == "pull_request" ]; then
-            echo "::set-output name=fetch_depth::1";
+            echo "::set-output name=fetch_depth::0";
           fi
 
       - uses: actions/checkout@v3
@@ -40,7 +40,7 @@ jobs:
 
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@v29.0.7
+        uses: tj-actions/changed-files@v30.0.0
         with:
           separator: " "
 

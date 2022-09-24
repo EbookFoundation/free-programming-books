@@ -31,7 +31,7 @@ jobs:
         run: |
           echo "::set-output name=fetch_depth::0";
           if [ "${{ github.event_name }}" == "pull_request" ]; then
-            echo "::set-output name=fetch_depth::2";
+            echo "::set-output name=fetch_depth::0";
           fi
 
       - uses: actions/checkout@v3

@@ -178,16 +178,14 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 ##### Creators
 
 - We want to credit the creators of free resources where appropriate, including translators!
-- The next formatting syntax can serve to give them this kind of relator roles:
+- We recommend using [MARC relators]() to credit creators other than authors, as in this example:
 
     ```markdown
     * [A Translated Book](http://example.com/book.html) - John Doe, `trl.:` Mike The Translator
     ```
 
-    where `trl.:` could be any abbreviation listed in <https://loc.gov/marc/relators/relaterm.html>.
-- For translated works, the original authors should be credited at the very beginning of the creators list.
-- We don't need relator terms for original authors.
-- Use a comma `,` to delimit each item inside the author list.
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
 - You can shorten author lists with "`et al.`".
 - We do not permit links for Creators.
 - For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "`Compiled from StackOverflow documentation`".

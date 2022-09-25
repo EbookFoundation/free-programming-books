@@ -36,7 +36,7 @@ jobs:
           retryMax:   5  # atemps
           dirtyLabel: conflicts
           commentOnDirty: |
-            Oh no 😟! A dirty status was reached.
+            Oh no 😟! Conflicts have been found.
 
             Please 🙏, take a moment and [address the merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts) of your pull request before we can evaluate it again.
 

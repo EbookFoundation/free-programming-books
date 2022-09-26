@@ -450,6 +450,7 @@
 * [Typescript Course For Javascript Developer&rlm;](https://www.youtube.com/playlist?list=PLDQ11FgmbqQNDkXDd5SScLPqJM5w4Kgjc) - Programming Solutions - Academy
 * [typescript for angular developers [arabic tutorial]&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa-BC3yuZdzmAfVC7i5etLWb) - codeZone
 * [TypeScript tutorial Arabic&rlm;](https://www.youtube.com/playlist?list=PLF8OvnCBlEY27rEmxg4F86iFljMXyCmk1) - Hussein Al Rubaye&rlm; (YouTube)
+* [TypeScript Tutorial for Beginners;](https://youtu.be/d56mG7DezGs) - Programming with Mosh; (YouTube)
 
 
 #### Angular
@@ -460,5 +461,8 @@
 * [Arabic Angular 7 from A to R احتراف الانجولار](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjSjy7yeJwpj2QkJd8NKo-O) - KMR Script&rlm; (YouTube)
 * [Arabic Angular and Firebase App تطبيق انجولار وفايربيز](https://www.youtube.com/playlist?list=PLL2zWZTDFZzh2WEmc3fH_O4y4N05ZCqB2) - KMR Script&rlm; (YouTube)
 * [Arabic NgRx (Angular + Redux)&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhW10baUv1esvrowMwbfd5H) - KMR Script&rlm; (YouTube)
+
+
+
 
 </div>

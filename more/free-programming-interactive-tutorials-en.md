@@ -10,7 +10,7 @@
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Dart](#dart)
-* [Data Science](#datascience)
+* [Data Science](#data-science)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)

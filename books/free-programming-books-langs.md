@@ -43,6 +43,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Crystal](#crystal)
 * [CUDA](#cuda)
 * [D](#d)
+* [Data Structures and Algorithms](#DSA)
 * [Dart](#dart)
 * [DB2](#db2)
 * [DBMS](#dbms)
@@ -221,6 +222,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Windows Phone](#windows-phone)
 * [Workflow](#workflow)
 * [xBase (dBase / Clipper / Harbour)](#xbase-dbase--clipper--harbour)
+
 
 
 ### ABAP
@@ -619,7 +621,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [D Templates Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial)
 * [Programming in D](http://ddili.org/ders/d.en/)
 
+### Data Structures and Algorithms
 
+* [Introduction to Algorithms](https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf)
 ### Dart
 
 * [Essential Dart](https://www.programming-books.io/essential/dart/) - Krzysztof Kowalczyk, StackOverflow Contributors

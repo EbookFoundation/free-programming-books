@@ -178,6 +178,7 @@
 
 
 ### TypeScript
+* [Belajar Typescript Dasar](https://skilvul.com/courses/typescript-dasar)
 
 #### Angular
 

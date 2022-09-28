@@ -8,6 +8,7 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
+* [Django](#django)
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
@@ -83,6 +84,13 @@
 ### Data Science
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
+
+### Django
+
+* [All in one Cheatsheet of Django](https://cheatography.com/ogr/cheat-sheets/django/pdf/) - Cheatography (PDF)
+* [Beginner's Python Cheat Sheet – Django](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf) - (PDF)
+* [Django Quick Reference](https://www.codewithharry.com/blogpost/django-cheatsheet/) - Code with Harry (HTML)
+* [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)
 
 
 ### Docker

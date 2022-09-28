@@ -179,6 +179,8 @@
 
 ### TypeScript
 
+* [Typescript Handbooks](https://www.typescriptlang.org/assets/typescript-handbook.pdf) - Typescriptlang (PDF)
+
 #### Angular
 
 * [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)

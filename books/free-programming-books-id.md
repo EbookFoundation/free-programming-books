@@ -179,7 +179,12 @@
 
 ### TypeScript
 
+<<<<<<< HEAD
 * [Typescript Handbooks](https://www.typescriptlang.org/assets/typescript-handbook.pdf) - Typescriptlang (PDF)
+
+* [Belajar Typescript Dasar](https://skilvul.com/courses/typescript-dasar)
+
+>>>>>>> 3ef190429ac536f87dd9b365d88576ebce16a906
 
 #### Angular
 

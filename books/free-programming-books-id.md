@@ -181,8 +181,6 @@
 
 * [Typescript Handbooks](https://www.typescriptlang.org/assets/typescript-handbook.pdf) - Typescriptlang (PDF)
 
-* [Belajar Typescript Dasar](https://skilvul.com/courses/typescript-dasar)
-
 
 #### Angular
 

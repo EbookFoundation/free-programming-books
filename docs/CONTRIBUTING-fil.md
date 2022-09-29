@@ -180,7 +180,15 @@ Nagbibigay ang aming mga listahan ng kaunting hanay ng metadata: mga pamagat, UR
 ##### Mga tagalikha
 
 - Gusto naming pasalamatan ang mga lumikha ng mga libreng mapagkukunan kung saan naaangkop, kabilang ang mga tagasalin!
-- Para sa mga isinaling gawa ang orihinal na may-akda ay dapat na kredito.
+- Para sa mga isinaling gawa ang orihinal na may-akda ay dapat na kredito. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-fil.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - Hindi namin pinahihintulutan ang mga link para sa Mga Tagalikha.
 - Para sa compilation o remixed na mga gawa, maaaring kailanganin ng "creator" ang isang paglalarawan. Halimbawa, ang mga aklat na "GoalKicker" o "RIP Tutorial" ay kinikilala bilang "`Compiled from StackOverflow Documentation`".
 

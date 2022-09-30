@@ -45,8 +45,8 @@
 
 ### JavaScript
 
-* [สอนพื้นฐาน JavaScript ทั้งหมดแบบจบในคลิปเดียว !! 🔥](https://youtu.be/PGZ7QiKdumo) - BorntoDev
 * [จาวาสคริปต์เบื้องต้น](https://phyblas.hinaboshi.com/saraban/javascript) - Phyblas
+* [สอนพื้นฐาน JavaScript ทั้งหมดแบบจบในคลิปเดียว !! 🔥](https://youtu.be/PGZ7QiKdumo) - BorntoDev
 * [ภาษา JavaScript](http://marcuscode.com/lang/javascript) - MarcusCode
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) - Zinglecode
 

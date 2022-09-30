@@ -25,6 +25,7 @@
 * [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
+* [Solidity](#solidity)
 
 
 ### Algorithms
@@ -231,3 +232,8 @@
 #### Ruby on Rails
 
 * [Ruby on Rails 5 Tutorial(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb) - CS Geeks
+
+
+### Solidity
+
+* [Solidity Full Course](https://www.youtube.com/playlist?list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i) - Code Eater

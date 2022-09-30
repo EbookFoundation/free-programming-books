@@ -56,6 +56,7 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 - si le livre est plus ancien, indiquez la date de parution avec le titre.
 - incluez le ou les noms de l'auteur, le cas échéant. Vous pouvez raccourcir les listes d'auteurs avec "`et al.`".
 - si le livre n'est pas terminé, et est toujours en cours de travail, ajoutez la notation "`en cours`", comme décrit [ci-dessous](#in_process).
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - si une adresse e-mail ou la configuration d'un compte est demandée avant l'activation du téléchargement, ajoutez des notes adaptées à la langue entre parenthèses, par exemple: `(adresse e-mail *demandée*, non obligatoire)`.
 
 
@@ -134,9 +135,15 @@ Exemple:
     BIEN   : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
+- <a id="archived"></a>Archived link:
+
+    ```text
+    BIEN   : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
 ### <a id="alphabetical-order"></a>Ordre alphabétique
 
-- Lorsque plusieurs titres commencent par la même lettre, organisez-les par la seconde, et ainsi de suite. Par exemple: `aa` vient avant `ab`. 
+- Lorsque plusieurs titres commencent par la même lettre, organisez-les par la seconde, et ainsi de suite. Par exemple: `aa` vient avant `ab`.
 
 - `un deux` vient avant `undeux`
 
@@ -172,9 +179,17 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 ##### Créateurs
 
 - Nous voulons créditer les créateurs de ressources gratuites le cas échéant, y compris les traducteurs !
-- Pour les œuvres traduites, l'auteur original doit être crédité.
+- Pour les œuvres traduites, l'auteur original doit être crédité. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-fr.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - Nous n'autorisons pas les liens pour les créateurs.
-- Pour les compilations ou les travaux remixés, le "créateur" peut avoir besoin d'une description. Par exemple, les livres "GoalKicker" sont crédités comme "`Compilé à partir de la documentation StackOverflow`" (en anglais: `Compiled from StackOverflow documentation`).
+- Pour les compilations ou les travaux remixés, le "créateur" peut avoir besoin d'une description. Par exemple, les livres "GoalKicker" ou "RIP Tutorial" sont crédités comme "`Compilé à partir de la documentation StackOverflow`" (en anglais: `Compiled from StackOverflow documentation`).
 
 
 ##### Plateformes et notes d'accès

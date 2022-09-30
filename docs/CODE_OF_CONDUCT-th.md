@@ -39,5 +39,10 @@
 มีหน้าที่ต้องรักษาความลับเกี่ยวกับนักข่าวของเหตุการณ์นั้นๆ
 
 
-จรรยาบรรณนี้ดัดแปลงมาจาก [Contributor Covenant][homepage],
+จรรยาบรรณนี้ดัดแปลงมาจาก [Contributor Covenant][หน้าหลัก],
 version 1.3.0, พร้อมแล้วที่ https://contributor-covenant.org/version/1/3/0/
+
+[][หน้าหลัก],]: https://contributor-covenant.org
+
+[แปล](README.md#translations)
+

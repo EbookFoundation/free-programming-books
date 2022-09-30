@@ -85,6 +85,7 @@
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
 
+
 ### Django
 
 * [All in one Cheatsheet of Django](https://cheatography.com/ogr/cheat-sheets/django/pdf/) - Cheatography (PDF)

@@ -107,6 +107,14 @@
 * [The Definitive Docker Cheat Sheet](http://dockercheatsheet.painlessdocker.com) - Aymen EL Amri (HTML)
 * [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DokerLabs (HTML)
 
+### Django
+
+* [Django Cheat Sheet for Installation](https://www.codewithharry.com/blogpost/django-cheatsheet/)
+*  [Django Basics Cheet Sheet](https://cheatography.com/kizzlebot/cheat-sheets/django-basics/)
+* [Django Cheat Sheet for beginners](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_django.pdf)
+* [Django Cheat Sheet for API Calling](https://cheatography.com/ogr/cheat-sheets/django/)
+* [Django Model Cheat Sheets](https://cheatography.com/lewiseason/cheat-sheets/django-models/)
+* [Django Class Based Views Cheat Sheet](https://cheatography.com/papousekp/cheat-sheets/django-class-based-views/)
 
 ### Git
 

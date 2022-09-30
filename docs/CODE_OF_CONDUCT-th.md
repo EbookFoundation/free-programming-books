@@ -42,7 +42,7 @@
 จรรยาบรรณนี้ดัดแปลงมาจาก [Contributor Covenant][หน้าหลัก],
 version 1.3.0, พร้อมแล้วที่ https://contributor-covenant.org/version/1/3/0/
 
-[][หน้าหลัก],]: https://contributor-covenant.org
+[หน้าหลัก]: https://contributor-covenant.org
 
 [แปล](README.md#translations)
 

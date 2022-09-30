@@ -25,6 +25,7 @@
 * [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
+* [Rust](#rust)
 
 
 ### Algorithms
@@ -231,3 +232,8 @@
 #### Ruby on Rails
 
 * [Ruby on Rails 5 Tutorial(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb) - CS Geeks
+
+
+### Rust
+
+* [Rust New Complete Course In Hindi](https://www.youtube.com/watch?v=zCtROMfofw4&list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding

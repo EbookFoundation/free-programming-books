@@ -320,6 +320,9 @@
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 * [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)
 
+### Devops
+
+* [Devops Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) - Kunal Kushwaha(Youtube)
 
 #### NoSQL
 
@@ -409,6 +412,7 @@
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
 * [Git](https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR) - Gwendolyn Faraday
+* [Git & Github](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha(Youtube)
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) - Briana Marie, freeCodeCamp.org (YouTube)
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG) - Raghav Pal, Automation Step by Step
 * [Git & GitHub Crash Course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/) - Kalob Taulien (Udemy)

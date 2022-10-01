@@ -60,6 +60,7 @@
 ### Flutter
 
 * [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
+* [Belajar Provider, State Management Sederhana di Flutter](https://ara-bakhara12.medium.com/memahami-provider-state-management-sederhana-di-flutter-3cb8f0628959) - Bakhara Alief (HTML)
 
 
 ### Git

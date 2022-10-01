@@ -83,28 +83,27 @@
 
 ## 语言无关
 
-### 版本控制
+### <a id="version-control-systems"></a><a id="git"></a><a id="svn"></a><a id="subversion"></a><a id="mercurial"></a>版本控制
 
-* [沉浸式学 Git](https://web.archive.org/web/20191004044726/http://igit.linuxtoy.org:80/index.html)
-* [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
-* [学习 Git 分支](https://learngitbranching.js.org)
-* [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-* [Git 参考手册](http://gitref.justjavac.com)
+* [沉浸式学 Git](https://web.archive.org/web/20191004044726/http://igit.linuxtoy.org:80/index.html) - Jim Weirich, `trl.:` 徐小东 a.k.a toy *(:card_file_box: archived)*
+* [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/) - Nulab Inc.
+* [学习 Git 分支](https://learngitbranching.js.org/?locale=zh_CN) - Peter Cottle
+* [Git - 简易指南](https://rogerdudler.github.io/git-guide/index.zh.html) - Roger Dudler, `trl.:` 罗杰·杜德勒 (HTML)
+* [Git 参考手册](http://gitref.justjavac.com) - CHEN Yangjian
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) - flyhigher139
-* [Git Community Book 中文版](http://gitbook.liuhui998.com)
-* [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
-* [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+* [Git Community Book 中文版](http://gitbook.liuhui998.com) - Scott Chacon, `trl:` Liu Hui
+* [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - Ben Lynn, `trl.:` 俊杰, 萌和江薇, et al. (HTML)
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 廖雪峰
-* [Github帮助文档](https://github.com/waylau/github-help)
-* [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/)
-* [Got GitHub](https://github.com/gotgit/gotgithub)
-* [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
-* [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/)
-* [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
-* [Pro Git](https://git-scm.com/book/zh/v2)
+* [Github帮助文档](https://github.com/waylau/github-help) - Way Lau
+* [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/) - snowdream86
+* [Got GitHub](https://github.com/gotgit/gotgithub) - Jiang Xin, The GotGit community
+* [GotGitHub](http://www.worldhello.net/gotgithub/index.html) - Jiang Xin, The GotGit community
+* [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/) - The HgInit team, `trl.:` Brant Young
+* [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial) - The Mercurial team
+* [Pro Git](https://git-scm.com/book/zh/) - Scott Chacon, Ben Straub, `trl.:` Alan Wang, `trl.:` 啊咪咪小熊, et al. (HTML, PDF, EPUB)
 * [Pro Git 第二版 中文版](https://bingohuang.gitbooks.io/progit2/content) - Bingo Huang
-* [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
+* [Subversion 版本控制](http://svnbook.red-bean.com/nightly/zh/index.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
 
 
 ### 编程艺术
@@ -300,7 +299,8 @@
 * [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
-* Google Material Design 正體中文版 ([译本一](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html)，[译本二](https://github.com/1sters/material_design_zh))
+* [Google Material Design 正體中文版](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) - Tillonter, 陳世能, Sean Chen, et al.
+* [Google Material Design 中文协同翻译](https://github.com/1sters/material_design_zh) - 1sters 极客实验室, 四勾 4J, IceskYsl, et al.
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android)
 

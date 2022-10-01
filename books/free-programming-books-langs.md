@@ -1597,6 +1597,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/) - Michael R. Clarkson
 * [OCaml From the Ground Up](https://ocamlbook.org) - Daniil Baturin (HTML) (:construction: *in process*)
+* [OCaml from the Very Beginning](https://johnwhitington.net/ocamlfromtheverybeginning/) - John Whitington
 * [OCaml Scientific Computing](https://ocaml.xyz/book/) - Liang Wang, Jianxin Zhao (HTML) (:construction: *in process*)
 * [Real World OCaml](https://dev.realworldocaml.org/toc.html)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey, Nicholas Monje
@@ -2122,7 +2123,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book)
 * [The Rust Language Reference](https://github.com/rust-lang/reference)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book)
-* [The Rust Programming Language](http://doc.rust-lang.org/book)
+* [The Rust Programming Language](http://doc.rust-lang.org/book) - Steve Klabnik, Carol Nichols, et al. (HTML)
 * [The Rust RFC Book](https://rust-lang.github.io/rfcs)
 * [The Rustc Book](https://doc.rust-lang.org/rustc)
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon)

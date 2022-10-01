@@ -7,6 +7,7 @@
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
+* [Docker](#docker)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -85,6 +86,11 @@
 ### Delphi
 
 * [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
+
+
+### Docker
+
+* [Curso de Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4) - Robert Silva (YouTube)
 
 
 ### Flutter
@@ -209,6 +215,7 @@
 
 ### Lua
 
+* [Curso de Programação Lua](https://youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt) - Techiesse (YouTube)
 * [Introdução a Programação com Lua](https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA) - Alfred R. Baudisch (YouTube)
 
 
@@ -294,7 +301,6 @@
 ### React Native
 
 * [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) - Canal Geek Dev (YouTube)
-* [Curso do React Native implementando CRUD](https://app.rocketseat.com.br/node/curso-react-native) - *registration required* (Rocketseat)
 
 
 ### Ruby

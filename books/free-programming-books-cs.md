@@ -52,7 +52,7 @@
 
 ### Git
 
-* [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon (PDF, EPUB, MOBI)
+* [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon, `trl.:` Ondrej Filip (PDF, EPUB, MOBI)
 
 
 ### HTML and CSS

@@ -46,6 +46,7 @@
 * [R](#r)
 * [RegEx](#regex)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Shell / Bash Script](#shell--bash)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -157,10 +158,10 @@
 
 ### Git
 
-* [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
-* [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
-* [Pro Git](http://git-scm.com/book/pt-br/)
+* [Git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Roger Dudler (HTML)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/) - Ben Lynn, `trl.:` Leonardo Siqueira Rodrigues (HTML, PDF)
+* [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP, Marcelo Augusto Cordeiro
+* [Pro Git](http://git-scm.com/book/pt-br/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB)
 
 
 ### GO
@@ -362,6 +363,11 @@
 * [Aprenda a Programar](http://www.jmonteiro.com/aprendaaprogramar/)
 * [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
+
+
+### Rust
+
+* [A Linguagem de Programação Rust](https://rust-br.github.io/rust-book-pt-br/title-page.html) - Steve Klabnik, Carol Nichols, `trl.:` Lucas Guimarães, `trl.:` Mario Idival, `trl.:` Alberto Margarido, et al. (HTML)
 
 
 ### Shell / Bash

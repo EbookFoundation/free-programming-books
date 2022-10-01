@@ -180,7 +180,15 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 ##### Autori
 
 - Vogliamo dare i crediti agli autori ove appropriato, anche ai traduttori!
-- Per i lavori tradotti, l'autore originale dovrebbe essere incluso.
+- Per i lavori tradotti, l'autore originale dovrebbe essere incluso. Consigliamo di usare [MARC relators](https://loc.gov/marc/relators/relaterm.html) per accreditare autori diversi dal creatore, per esempio:
+
+    ```markdown
+    * [Un libro tradotto](http://example.com/book-it.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    qui, l'annotazione `trl.:` usa il codice MARC relativo ai "traduttori".
+- Usa l virgola `,` per separare ogni elemento nella lista degli autori
+- Puoi accorciare la lista degli autori scrivendo "`et al.`" (e altri).
 - Non permettiamo collegamenti per gli autori.
 - Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" o "RIP Tutorial" sono accreditati come "`Compiled from StackOverflow documentation`".
 

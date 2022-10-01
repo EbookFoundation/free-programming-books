@@ -32,7 +32,7 @@
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Shell Scripting](#shellscripting)
+* [Shell Scripting](#shell-scripting)
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
@@ -277,7 +277,7 @@
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
 
-### <a id="shellscripting"></a>Shell Scripting
+### Shell Scripting
 
 * [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)

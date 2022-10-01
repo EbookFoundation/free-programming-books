@@ -123,7 +123,7 @@
 
 ### Android
 
-* [Curso Android](http://www.hermosaprogramacion.com/android) (HTML)
+* [Curso Android](https://www.develou.com/android/) (HTML)
 * [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
 
 

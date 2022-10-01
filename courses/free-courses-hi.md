@@ -236,4 +236,4 @@
 
 ### Rust
 
-* [Rust New Complete Course In Hindi](https://www.youtube.com/watch?v=zCtROMfofw4&list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
+* [Rust Complete Tutorial In Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding

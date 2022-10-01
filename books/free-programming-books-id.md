@@ -13,6 +13,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
+* [Next.js](#nextjs)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Pemrograman Fungsional](#pemrograman-fungsional)
@@ -20,7 +21,6 @@
 * [PHP](#php)
 * [Python](#python)
 * [React](#react)
-    * [Next.js](#nextjs)
 * [Solidity](#solidity)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -120,6 +120,11 @@
 * [Tutorial MySQL untuk Pemula Hingga Mahir](https://umardanny.com/tutorial-mysql-untuk-pemula-hingga-mahir-ebook-download-pdf/)
 
 
+#### NextJS
+
+* [NextJs Indonesia](https://github.com/NextJS-Indonesia)
+
+
 ### Node.js
 
 * [Belajar Dengan Jenius Amazon Web Service & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/releases/download/1.2/Belajar.Dengan.Jenius.Javascript.Node.pdf) - Gun Gun Febrianza (PDF)
@@ -171,10 +176,6 @@
 
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
-
-#### NextJS
-
-* [NextJs Indonesia](https://github.com/NextJS-Indonesia)
 
 
 ### Solidity

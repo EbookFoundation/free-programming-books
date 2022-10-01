@@ -1966,7 +1966,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/docs) - Wes McKinney, the Pandas Development Team (HTML, PDF)
 
 
-
 #### Pyramid
 
 * [Quick Tutorial for Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html#quick-tutorial)

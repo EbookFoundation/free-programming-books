@@ -640,6 +640,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Delphi / Pascal
 
+* [Coding in Delphi](https://lp.embarcadero.com/CodinginDelphi) - Nick Hodges (email address *required*)
 * [Delphi Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/delphi) - Marco Breveglieri
 * [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/) - M. Cantù
 * [Expert Delphi](https://www.packtpub.com/free-ebooks/expert-delphi) - Paweł Głowacki (Packt account *required*)

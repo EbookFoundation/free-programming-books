@@ -4,6 +4,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Competitive Programming](#competitive-programming)
 * [Dart](#dart)
 * [Flutter](#flutter)
 * [Git](#git)
@@ -53,6 +54,11 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+
+
+### Competitive Programming
+
+* [BAPS - BACS Online Programming Camp 2020](https://baps-bgd.github.io/camp/) -  Bangladesh Association of Problem Setters(BAPS) 
 
 
 ### Dart

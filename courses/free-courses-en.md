@@ -81,7 +81,6 @@
     * [Deno](#deno)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
-* [XML](#xml)
 
 
 ### 0 - MOOC
@@ -1039,7 +1038,3 @@
 * [Web Development Tutorials for Beginners](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) - LearnCode.academy
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
 
-
-### XML
-
-* [XML Tutorials](https://www.w3schools.com/xml/default.asp) - w3schools

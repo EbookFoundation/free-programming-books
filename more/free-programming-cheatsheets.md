@@ -2,7 +2,6 @@
 
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
-* [Bash](#bash)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -33,6 +32,7 @@
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Shell Scripting](#shell-scripting)
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
@@ -49,12 +49,6 @@
 ### Artificial Intelligence
 
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
-
-
-### Bash
-
-* [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
-* [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
 
 
 ### C
@@ -281,6 +275,13 @@
 ### Rust
 
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
+
+
+### Shell Scripting
+
+* [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
+* [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+* [Fish Shell cheatsheet](https://devhints.io/fish-shell) - DevHints, Rico Santa Cruz (HTML)
 
 
 ### Solidity

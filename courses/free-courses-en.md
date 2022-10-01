@@ -1049,6 +1049,6 @@
 
 
 ### Web3
-
-* [Learning Resources](https://thedailyape.notion.site/Web3-d577f781fdf945d3a198e96c55869f7d) - Darren Lau (The Daily Ape)
-* [Video Lecture From Expert](https://crater.club) - Everything about Web3
+* [Become a Web3 Developer](https://learnweb3.io/) - Course for everyone (Basics - Advanced - Expert) level
+* [Video Lecture - Begining to Expert](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org) - Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript
+* [Learning Resources](https://web3.career/learn-web3) - Learn Web3 With These Free Resources

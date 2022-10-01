@@ -328,6 +328,7 @@
 
 ### Python
 
+* [#LiveSeminggu (Python Dasar)](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwviXEWkyT08NbK54kpa5cvu) - NgodingPython
 * [Belajar Pemrograman Python untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Belajar Python Bahasa Indonesia [Dasar]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
 * [Belajar Python Bahasa Indonesia [Versi Baru]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY) - Kelas Terbuka
@@ -341,7 +342,6 @@
 * [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar
 * [Tutorial Python OOP Object Oriented Programming Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=b6Y5CzFM0Oc) - Agung Setiawan
 * [Visualisasi Data dalam Pemrograman Python (Matplotlib)](https://www.youtube.com/playlist?list=PL2O3HdJI4voHrfoMFvkDeblmjarDN8nC8) - Indonesia Belajar
-* [#LiveSeminggu (Python Dasar)](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwviXEWkyT08NbK54kpa5cvu) - NgodingPython
 
 
 ### Django

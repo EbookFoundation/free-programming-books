@@ -47,6 +47,7 @@
 
 * [จาวาสคริปต์เบื้องต้น](https://phyblas.hinaboshi.com/saraban/javascript) - Phyblas
 * [ภาษา JavaScript](http://marcuscode.com/lang/javascript) - MarcusCode
+* [สอนพื้นฐาน JavaScript ทั้งหมดแบบจบในคลิปเดียว !!](https://www.youtube.com/watch?v=PGZ7QiKdumo) - BorntoDev
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) - Zinglecode
 
 

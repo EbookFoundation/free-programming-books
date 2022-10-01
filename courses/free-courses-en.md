@@ -875,6 +875,7 @@
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
+* [The Joy of Computing using Python](https://onlinecourses.nptel.ac.in/noc21_cs32/preview) - Prof. Sudarshan Iyengar, Prof. Yayati Gupta (NPTEL) 
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
 
 

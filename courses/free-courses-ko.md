@@ -139,7 +139,7 @@
 * [Do it! Java 프로그래밍 입문](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
 * [Java 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R)
 * [Java 리듬게임 만들기 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDySO3wDqMYGKMVH4Qa4QhR)
-* [Java 입문수업](https://www.opentutorials.org/course/1223) (생활코딩)
+* [Java 입문수업](https://www.opentutorials.org/course/3930) (생활코딩)
 * [Java with 인크레파스](https://www.youtube.com/playlist?list=PLa4r6B21Ny5ld_PTqzzqDMxxoj7l0z7Xp)
 
 

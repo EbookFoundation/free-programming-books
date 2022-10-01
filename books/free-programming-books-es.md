@@ -299,7 +299,7 @@
 
 #### Symfony
 
-* [Symfony 5: La Vía Rápida](https://symfony.com/doc/5.0/the-fast-track/es/index.html)
+* [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html)
 
 
 ### Perl

@@ -1939,7 +1939,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.1.x/django.pdf) (PDF) (3.1)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf) (PDF) (3.2)
 * [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
-* [Django Rest Framework](https://gktcs.com/media/PPT/Sanket%20Lolge/Python-Django/9-_Django_Rest_Framework.pdf) (PDF)
+* [Django Rest Framework](https://riptutorial.com/Download/django-rest-framework.pdf) (PDF)
 * [Django Web Framework (Python)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - MDN contributors
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](https://web.archive.org/web/20181130092020/http://www.effectivedjango.com/) (1.5)

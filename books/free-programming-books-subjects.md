@@ -875,8 +875,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Web Services
 
-* [Node.js Notes for Professionals](https://books.goalkicker.com/NodeJSBook/)
-* [React JS Notes for Professionals](https://books.goalkicker.com/ReactJSBook/)
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
 * [TypeScript Notes for Professionals](https://books.goalkicker.com/TypeScriptBook2/)
 

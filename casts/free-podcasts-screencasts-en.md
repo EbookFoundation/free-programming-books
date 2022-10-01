@@ -251,7 +251,7 @@
 * [Ladybug Podcast](https://www.ladybug.dev) - Kelly Vaughn, Ali Spittel, Emma Bostian, Sidney Buckner (podcast)
 * [Learn to Code with Me](https://learntocodewith.me/podcast/) - Laurence Bradford (podcast)
 * [Loosely Coupled](https://looselycoupled.info) - Jeff Carouth, Matt Frost (podcast)
-* [Merge Conflict](https://www.mergeconflict.fm/) - Frank Krueger, James Montemagno (podcast)
+* [Merge Conflict](https://www.mergeconflict.fm) - Frank Krueger, James Montemagno (podcast)
 * [.NET Rocks!](https://www.dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)
 * [Open Source System Podcast](https://opensourcesystempodcast.vf.io) - Vlad Filippov, Kyle Robinson Young, Tim Branyen, Darcy Clarke, Mike Taylor, Alex Sexton, Jason Etcovitch (podcast)
 * [Programming Throwdown](https://www.programmingthrowdown.com) - Jason Gauci, Patrick Wheeler (podcast)

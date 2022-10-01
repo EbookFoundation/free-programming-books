@@ -224,7 +224,6 @@
 #### Flask
 
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
-* [Flask tutorial Playlist](https://www.youtube.com/watch?v=b0xAPo_dyYc&list=PLkPmSWtWNIyQ-_mlHIQho9nCnxdbvnQIl) - Knowledge Shelf
 
 
 ### R

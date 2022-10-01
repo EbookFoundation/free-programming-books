@@ -329,6 +329,7 @@
 
 * [Datastax Academy (Apache Cassandra)](https://www.datastax.com/dev/academy) - Datastax Inc. *(email address required)*
 * [MongoDB University](https://university.mongodb.com) - MongoDB, Inc. (email address *required*)
+* [Neo4j (Graph Database) Crash Course](https://www.youtube.com/watch?v=8jNPelugC2s) - Laith Academy (YouTube)
 * [Neo4j Graph Database Tutorial](https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh) - Satish C J (YouTube)
 * [Redis University](https://university.redis.com) - Redis Inc. *(email address required)*
 

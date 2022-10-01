@@ -34,6 +34,7 @@
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Shell Scripting](#shellscripting)
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
@@ -50,12 +51,6 @@
 ### Artificial Intelligence
 
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
-
-
-### Bash
-
-* [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
-* [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
 
 
 ### C
@@ -107,11 +102,6 @@
 * [Dockerfiles y docker-compose.yml: buenas prácticas (:es:)](https://leanmind.es/docker-cheatsheet.pdf) - Yodra Lopez Herrera, LeanMind (PDF)
 * [The Definitive Docker Cheat Sheet](http://dockercheatsheet.painlessdocker.com) - Aymen EL Amri (HTML)
 * [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DokerLabs (HTML)
-
-
-### Fish
-
-* [Fish Shell cheatsheet](https://devhints.io/fish-shell) - DevHints, Rico Santa Cruz (HTML)
 
 
 ### Git
@@ -287,6 +277,13 @@
 ### Rust
 
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
+
+
+### <a id="shellscripting"></a>Shell Scripting
+
+* [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
+* [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+* [Fish Shell cheatsheet](https://devhints.io/fish-shell) - DevHints, Rico Santa Cruz (HTML)
 
 
 ### Solidity

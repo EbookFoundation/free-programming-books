@@ -49,6 +49,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Web Performance](#web-performance)
 * [Web Services](#web-services)
 * [Workflow](#workflow)
+* [Web Development](#web-development)
 
 
 ### 0 - Meta-Lists
@@ -883,8 +884,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
 
-
-## Web Development
+### #web-development
 
 * [ Node.js Notes for Professionals ](https://books.goalkicker.com/NodeJSBook/)
 * [ React JS Notes for Professionals ](https://books.goalkicker.com/ReactJSBook/)

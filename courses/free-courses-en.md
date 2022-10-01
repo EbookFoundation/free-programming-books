@@ -273,6 +273,7 @@
 ### <a id="computer-organization-architecture"></a>Computer Organization & Architecture
 
 * [Computer Organization & Architecture (COA)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q) - Neso Academy (YouTube)
+* [Advanced Computer Architecture](https://onlinecourses.nptel.ac.in/noc22_cs10/preview) - Prof. John Jose (NPTEL)
 
 
 ### Computer Science

@@ -1042,4 +1042,4 @@
 
 ### XML
 
-* [XML Tutorial](https://www.w3schools.com/xml) - w3schools
+* [XML Tutorials](https://www.w3schools.com/xml/default.asp) - w3schools

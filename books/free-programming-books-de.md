@@ -180,7 +180,7 @@
 
 #### Symfony
 
-* [Symfony 5: Auf der Überholspur](https://symfony.com/doc/5.0/the-fast-track/de/index.html) (Online)
+* [Symfony: Auf der Überholspur](https://symfony.com/doc/current/the-fast-track/de/index.html) (Online)
 
 
 ### Python

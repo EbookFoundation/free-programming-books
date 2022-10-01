@@ -126,6 +126,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
+* [Data structures and algorithms in Python](http://library.lol/main/FDBB3970C1605013632AC5F992907F3F): (PDF)Goodrich M.T., Tamassia R., Goldwasser M.
 
 
 ### Artificial Intelligence
@@ -616,6 +617,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
+* [Introduction to Networking: How the Internet works](http://do1.dr-chuck.net/net-intro/EN_us/net-intro.epub) - (EPUB)Charles Severance
 
 
 ### Open Source Ecosystem

@@ -725,6 +725,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Flutter Tutorial](https://www.tutorialspoint.com/flutter/) - Tutorials Point (HTML, PDF)
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)
 * [Flutter UI Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/flutter-ui-succinctly) - Ed Freitas
+* [Learn Google Flutter Fast](http://library.lol/main/9ABBE9956AB04E0996EC2C33637B2208): (EPUB)Mark Clow
 
 
 ### Force.com
@@ -1391,6 +1392,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [UNIX Systems Programming for SVR4](http://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
+* [A Practical Guide to Linux Commands, Editors, and Shell Programming](http://library.lol/main/38D522CB2214F1150E895EF623D7B72A) - (PDF)Mark G. Sobell, Matthew Helmke
+* [How Linux Works, What Every Superuser Should Know](http://library.lol/main/03167196C40FC54EB24363531C70F08E) - (PDF)Brian Ward
+* [Linux Command Line and Shell Scripting Bible](http://library.lol/main/3E373FACAF99704263ED2EFB5B340AC8) - (EPUB)Richard Blum, Christine Bresnahan
+* [Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems](http://library.lol/main/87C4654D8C092A0AFAA4765DC8E67B60) - (PDF)Dave Taylor, Brandon Perry
 
 
 ### Lisp

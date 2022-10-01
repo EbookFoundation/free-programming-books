@@ -106,6 +106,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [meteor](#meteor)
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
+    * [Nuxt.js](#nuxtjs)
     * [Om](#om)
     * [React](#react)
     * [React Native](#react-native)
@@ -1239,6 +1240,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Practical Node.js: Building Real-World Scalable Web Apps](https://github.com/azat-co/practicalnode) - Azat Mardan
 * [The Node Beginner Book](http://nodebeginner.org)
 * [The Node.js Handbook](https://flaviocopes.com/page/node-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+
+
+#### Nuxt.js
+
+* [Nuxt.js Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/nuxtjs-succinctly) - Ed Freitas
 
 
 #### Om

@@ -211,6 +211,7 @@
 ### PHP
 
 * [PHP 프로그래밍](https://www.youtube.com/playlist?list=PLYNsYgev6U96jzS7AjBn5p7i_owJHqfyW)
+* [PHP](https://youtube.com/playlist?list=PLuHgQVnccGMDzq8zAwEY5lvwDWXWTZjB6) - 생활코딩
 
 
 ### Python

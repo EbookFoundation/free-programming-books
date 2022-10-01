@@ -1962,8 +1962,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Pandas
 
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
-* [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/docs) - Wes McKinney, the Pandas Development Team (HTML, PDF)
 * [Listen Data](https://www.listendata.com/2017/12/python-pandas-tutorial.html) - Ekta Aggarwal (HTML)
+* [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/docs) - Wes McKinney, the Pandas Development Team (HTML, PDF)
+
 
 
 #### Pyramid

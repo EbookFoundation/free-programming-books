@@ -14,6 +14,12 @@
 
 * [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-progamming-book))
 
+-   [প্রোগ্রামিং, অ্যালগরিদম, ব্যাকএন্ড ইঞ্জিনিয়ারিং](http://www.shafaetsplanet.com/planetcoding/) - শাফায়েত আশরাফ
+
+-   [ডাটা স্ট্রাকচার, অ্যালগরিদম](https://baburjhuli.blogspot.com/) - শাকিল বাবু
+
+-   [ডাটা স্ট্রাকচার, অ্যালগরিদম](https://hellohasan.com/category/data-structure/) - হাসান আব্দুল্লাহ
+
 
 ### C
 

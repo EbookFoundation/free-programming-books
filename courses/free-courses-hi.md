@@ -120,7 +120,7 @@
 ### HTML and CSS
 
 * [HTMl in one Video 4.30 hours](https://www.youtube.com/watch?v=QXPWs00RD3A&t=5884s) - Tech Gun
-* [CSS Mastery in one Video 9+ hours Content with project](https://www.youtube.com/watch?v=WyxzAU3p8CE&t=6063s) -Tech Gun
+* [CSS Mastery in one Video 9 hours](https://www.youtube.com/watch?v=WyxzAU3p8CE&t=6063s) - Tech Gun
 * [HTML CSS & Browser APIs](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC) - Pepcoding
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 * [Web Development Tutorials for Beginners in Hindi: HTML, CSS, JavaScript and more](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - CodeWithHarry

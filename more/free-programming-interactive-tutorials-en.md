@@ -46,6 +46,7 @@
 * [Selenium](#selenium)
 * [Solidity](#solidity)
 * [SQL](#sql)
+* [Swift 4](#swift)
 
 
 ### Ada
@@ -78,6 +79,7 @@
 * [Codeasy](https://codeasy.net/course/csharp_elementary) - codeasy
 * [Learn C#](http://www.learncs.org) - learnCS
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
+* [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
 
 
 ### <a id="cpp"></a>C++
@@ -85,6 +87,7 @@
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [C++ Tutorial](https://www.scaler.com/topics/cpp/) - Scaler Topics
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
+* [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
 
 
 ### Clojure
@@ -120,6 +123,7 @@
 * [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
+* [Learn Data Science](https://www.sololearn.com/learning/1093) - *registration required*
 
 
 ### Erlang
@@ -198,6 +202,7 @@
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
+* [Learn Java](https://www.sololearn.com/learning/1068) - *registration required*
 
 
 ### JavaScript
@@ -240,6 +245,7 @@
 * [Front End Development Libraries Certification: React](https://www.freecodecamp.org/learn/front-end-libraries/react) - freeCodeCamp
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
+* [Learn React + Redux](https://www.sololearn.com/learning/1097) - *registration required*
 
 
 #### Redux
@@ -313,6 +319,7 @@
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
+* [Learn PHP](https://www.sololearn.com/learning/1059) - *registration required*
 
 
 ### PostgreSQL
@@ -389,3 +396,8 @@
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
 * [SQLBolt](http://sqlbolt.com)
+* [Learn SQL](https://www.sololearn.com/learning/1060) - *registration required*
+
+### Swift
+
+* [Learn Swift 4](https://www.sololearn.com/learning/1075) - *Registration required*

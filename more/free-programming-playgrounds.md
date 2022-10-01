@@ -142,8 +142,6 @@
 * [CodePen](https://codepen.io)
 * [CSSdeck](https://cssdeck.com)
 * [Dabblet](https://dabblet.com)
-* [Flexbox Defense](http://www.flexboxdefense.com)
-* [Flexbox Froggy](https://flexboxfroggy.com)
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [SoloLearn](https://code.sololearn.com/web#css)
 

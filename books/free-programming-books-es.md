@@ -123,7 +123,7 @@
 
 ### Android
 
-* [Curso Android](http://www.hermosaprogramacion.com/android) (HTML)
+* [Curso Android](https://www.develou.com/android/) (HTML)
 * [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
 
 
@@ -299,7 +299,7 @@
 
 #### Symfony
 
-* [Symfony 5: La Vía Rápida](https://symfony.com/doc/5.0/the-fast-track/es/index.html)
+* [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html)
 
 
 ### Perl

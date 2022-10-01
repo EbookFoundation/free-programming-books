@@ -8,6 +8,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Component Pascal](#component-pascal)
+* [Delphi](#delphi)
 * [Git](#git)
 * [Go](#go)
 * [Groovy](#groovy)
@@ -83,6 +84,11 @@
 ### Component Pascal
 
 * [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
+
+
+### Delphi
+
+* [Delphi-Starter](https://web.archive.org/web/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*    
 
 
 ### Git

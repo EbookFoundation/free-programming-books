@@ -23,6 +23,7 @@
     * [SQL](#sql)
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
+* [Digital Electronics](#digital-electronics)
 * [Docker](#docker)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
@@ -370,6 +371,11 @@
 ### DevOps
 
 * [DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) - Kunal Kushwaha
+
+
+### <a id="digital-electronics"></a> Digital Electronics
+
+* [Digital Electronics \|Engineering Physics \|Basics of Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) - Neso Academy (YouTube)
 
 
 ### Docker

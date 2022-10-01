@@ -58,11 +58,8 @@
 
 ### Competitive Programming
 
-
 * [BAPS - BACS Online Programming Camp 2020](https://baps-bgd.github.io/camp/) -  Bangladesh Association of Problem Setters(BAPS) 
-
 * [Competitive Programming Course in Bengali](https://www.youtube.com/channel/UCozCCU3b1HmcmCf2gLN_7HA/videos) - Bangladesh IOI team
-
 
 
 ### Dart

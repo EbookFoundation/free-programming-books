@@ -16,6 +16,7 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: '16.x'
+        cache: 'npm'
     - run: npm install -g free-programming-books-lint
     - run: fpb-lint ./books/
     - run: fpb-lint ./casts/

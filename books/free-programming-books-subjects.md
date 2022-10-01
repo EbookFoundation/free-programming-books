@@ -49,7 +49,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Web Performance](#web-performance)
 * [Web Services](#web-services)
 * [Workflow](#workflow)
-* [Web Development](#web-development)
 
 
 ### 0 - Meta-Lists
@@ -877,16 +876,11 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Web Services
 
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
+* [ Node.js Notes for Professionals ](https://books.goalkicker.com/NodeJSBook/)
+* [ React JS Notes for Professionals ](https://books.goalkicker.com/ReactJSBook/)
+* [ TypeScript Notes for Professionals ](https://books.goalkicker.com/TypeScriptBook2/)
 
 
 ### Workflow
 
 * [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
-
-
-
-### Web Development
-
-* [ Node.js Notes for Professionals ](https://books.goalkicker.com/NodeJSBook/)
-* [ React JS Notes for Professionals ](https://books.goalkicker.com/ReactJSBook/)
-* [ TypeScript Notes for Professionals ](https://books.goalkicker.com/TypeScriptBook2/)

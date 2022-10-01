@@ -212,8 +212,8 @@
 * [Node.js Dasar](https://buildwithangga.com/kelas/node-javascript-dasar?thumbnail=nk4neM2UyG.36&main_leads=browse) - BuildWithAngga
 * [Pelajaran Node.js Sederhana](https://easy-to-learn5.teachable.com/p/nodejs) - Easy To Learn 5
 * [RESTFul API dengan Express.js dan MongoDB](https://www.youtube.com/watch?v=4X0MFuE8ebs) - IDStack (YouTube)
+* [Tutorial Backend Bahasa Indonesia ExpressJS](https://perogeremmer.com/ExpressJS-a1561522bbda4c7e81536930e8d0816e) - Belajar Bareng Hudya
 * [Tutorial NodeJS Dasar - Bahasa Indonesia](https://www.youtube.com/watch?v=b39Xqf5iyjo) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
-* [Tutorial ExpressJS](https://perogeremmer.com/ExpressJS-a1561522bbda4c7e81536930e8d0816e) - Belajar bareng hudya, Tutorial Backend Bahasa Indonesia ExpressJS
 
 
 #### React

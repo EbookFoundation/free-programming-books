@@ -82,7 +82,7 @@
 ### Docker
 
 * [Docker Cheat Sheet](https://low-orbit.net/docker-cheat-sheet) - Anthony Rioux, Low Orbit Flux (HTML, PDF)
-* [Docker Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) - Docker Inc., Solomon Hykes (PDF)
+* [Docker Cheat Sheet](https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf) - Docker Inc., Solomon Hykes (PDF)
 * [Docker Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/docker-cheat-sheet/) - IntelliPaat (HTML, PDF)
 * [Docker Cheat Sheet](https://swissarmydevops.com/containers/docker/docker-cli-cheat-sheet) - Nikko Pedersen, Swiss Army DevOps (HTML, PDF)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) - Will Sargent, et al.

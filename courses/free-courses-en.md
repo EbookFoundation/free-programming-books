@@ -947,8 +947,8 @@
 
 ### Spark
 
-* [Spark Tutorial \| Spark Tutorial for Beginners \| Apache Spark Full Course - Learn Apache Spark 2020](https://www.youtube.com/watch?v=zC9cnh8rJd0) Great Learning
 * [Learn Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) - by INSIGHT on Udemy
+* [Spark Tutorial \| Spark Tutorial for Beginners \| Apache Spark Full Course - Learn Apache Spark 2020](https://www.youtube.com/watch?v=zC9cnh8rJd0) Great Learning
 
 ### Scala
 

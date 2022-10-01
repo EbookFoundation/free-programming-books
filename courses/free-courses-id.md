@@ -269,7 +269,7 @@
 * [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177) - Dicoding, membutuhkan registrasi
 * [Classic Time Series Forecasting \| Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Ms7wr2zgtcC4LaE_NHQAEjx) - Wira DKP, JCOp Untuk Indonesia (YouTube)
 * [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Setia Budi, Indonesia Belajar (YouTube)
-* [Introduction to Machine Learning](https://www.youtube.com/watch?v=SezDD2ULQ1o&ab_channel=Nusantech)
+* [Introduction to Machine Learning](https://www.youtube.com/watch?v=SezDD2ULQ1o&ab_channel=Nusantech) Nusantech, Galuh Sahid 
 
 
 ### Microservices

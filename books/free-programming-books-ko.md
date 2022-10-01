@@ -135,7 +135,7 @@
 
 ### Ocaml
 
-* [Ocaml-tutorial](https://ocaml.org/docs)
+* [Ocaml-tutorial](https://ocaml.org/docs) - Ocaml 튜토리얼
 
 ### Operation System
 

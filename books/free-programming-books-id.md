@@ -122,7 +122,7 @@
 
 #### NextJS
 
-* [NextJs Indonesia](https://github.com/NextJS-Indonesia)
+* [NextJs Indonesia](https://github.com/NextJS-Indonesia) - Eka Prasetia
 
 
 ### Node.js

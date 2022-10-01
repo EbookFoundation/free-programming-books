@@ -882,6 +882,8 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
+
+
 ## Web Development
 
 * [ Node.js Notes for Professionals ](https://books.goalkicker.com/NodeJSBook/)

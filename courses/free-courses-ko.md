@@ -187,7 +187,7 @@
 ### Mathematics
 
 * [수치해석](http://www.kocw.net/home/search/kemView.do?kemId=1297704) (국민대 김상철)
-* [수치해석](https://youtube.com/playlist?list=PLczEhXyH_pUfKl9SPn-9j3K7olfBj5cpl) (순천향대 이상욱)
+* [수치해석 강의 동영상](https://youtube.com/playlist?list=PLczEhXyH_pUfKl9SPn-9j3K7olfBj5cpl) - 내가 이해한 기계공학 (WIU of Mech)
 * [전산수학1](http://www.kocw.net/home/search/kemView.do?kemId=1296081) (고려대 주재걸)
 
 

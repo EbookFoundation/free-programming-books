@@ -1051,4 +1051,4 @@
 ### Web3
 
 * [Learning Resources](https://thedailyape.notion.site/Web3-d577f781fdf945d3a198e96c55869f7d) - Darren Lau (The Daily Ape)
-* [Video Lecture From Expert](https://crater.club/) - Everything about Web3
+* [Video Lecture From Expert](https://crater.club) - Everything about Web3

@@ -355,7 +355,7 @@
 * [The Bike Shed](https://www.bikeshed.fm) - Chris Toomey, Steph Viccari (podcast)
 * [The Ruby on Rails Podcast](https://www.therubyonrailspodcast.com) - Brittany Martin, Brian Mariani, Jemma Issroff, Nick Schwaderer (podcast)
 * [The Ruby Show](http://rubyshow.com) - Peter Cooper, Jason Seifer (podcast)
-* [Remote Ruby](http://rubyshow.com) - Chris Oliver, Jason Charnes and Andrew Mason (podcast)
+* [Remote Ruby](https://remoteruby.com/) - Chris Oliver, Jason Charnes and Andrew Mason (podcast)
 
 
 ### Rust

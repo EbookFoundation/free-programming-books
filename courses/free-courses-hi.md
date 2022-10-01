@@ -18,6 +18,7 @@
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
+    * [Vue.js](#vuejs)
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [Python](#python)
@@ -187,6 +188,11 @@
 * [React Tutorial in Hindi](https://www.youtube.com/watch?v=RGKi6LSPDLU) - CodeWithHarry
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
 * [ReactJS Tutorials for Beginners In Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
+
+
+#### Vue.js
+
+* [Vue JS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhih5ItBhn2cTncaS24_Kgeui) - Rajesh Kumar, Geeky Shows (YouTube)
 
 
 ### Machine Learning

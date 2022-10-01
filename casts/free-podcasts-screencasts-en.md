@@ -352,6 +352,7 @@
 * [Code with Jason](https://www.codewithjason.com/rails-with-jason-podcast/) - Jason Swett (podcast)
 * [Drifting Ruby](https://www.driftingruby.com/episodes?free=true&pro=false) - Dave Kimura (screencast)
 * [Railscasts](http://railscasts.com) - Ryan Bates (screencast)
+* [Remote Ruby](https://remoteruby.com) - Chris Oliver, Jason Charnes, Andrew Mason (podcast)
 * [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues/) - Charles Max Wood, Dave Kimura, Valentino Stoll, Luke Stutters, John Epperson, Sam Livingston-Gray, Avdi Grimm, Aaron Patterson, James Edward Gray, Katrina Owen (podcast)
 * [Ruby Tapas \| Free Screencasts](https://www.rubytapas.com/category/episodes/) - Avdi Grimm (screencast)
 * [The Bike Shed](https://www.bikeshed.fm) - Chris Toomey, Steph Viccari (podcast)

@@ -2255,6 +2255,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Splunk 7.x Quick Start Guide](https://www.packtpub.com/free-ebooks/splunk-7x-quick-start-guide) - James H. Baxter (Packt account *required*)
 
+### System Design
+* [Grokking The System Design Interview](https://b-ok.africa/book/19032412/2a6f0b) - Educative.io
+
 
 ### SQL (implementation agnostic)
 

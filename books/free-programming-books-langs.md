@@ -1544,6 +1544,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Entity Framework](http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community)
 * [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA) - Wikibooks
 * [Getting the Most from LINQPad Succinctly](https://www.syncfusion.com/ebooks/getting-the-most-from-linqpad-succinctly) - José Roberto Olivas Mendoza
+* [MonoGame Role-Playing Game Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/monogame-role-playing-game-development-succinctly) - Jim Perry and Charles Humphrey
 * [MonoGame Succinctly](https://www.syncfusion.com/ebooks/monogame_succinctly) - Jim Perry
 * [.NET for Visual FoxPro Developers](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm)
 * [.NET Framework Notes for Professionals](https://goalkicker.com/DotNETFrameworkBook/) - Compiled from StackOverflow Documentation (PDF)

@@ -62,6 +62,7 @@
 
 ### Data Science
 
+* [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Christopher Peter Makris, Corey Strausman (podcast)
 * [Data Futurology - Leadership And Strategy in Artificial Intelligence, Machine Learning, Data Science](https://www.datafuturology.com/podcasts) - Felipe Flores (podcast)
 * [Data Skeptic](https://dataskeptic.com/episodes) - Kyle Polich (podcast)
 * [Data Stories - a podcast on data\+visualization](http://datastori.es) - Enrico Bertini, Moritz Stefaner, Sandra Rendgen, Florian Wöhrl, Destry Sibley (podcast)

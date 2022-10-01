@@ -17,10 +17,14 @@
 * [Compilers](#Compilers)
 * [Dart](#dart)
 * [Data Science](#data-science)
-* [Data Science](#Data Science)
+* [Databases](#Data Science)
     * [No SQL](#No SQL)
     * [SQL](SQL)
-* [Erlang](#erlang)
+* [Deep Learning](#Deep learning)
+* [DevOps](#DevOps)
+* [Erlang](#Erlang)
+* [Flutter](#Flutter)
+* [Game Development](#Game Development)
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
@@ -154,6 +158,7 @@
 ### Dart
 
 * [Dart Official Codelabs](https://dart.dev/codelabs) - Dart
+* [Tutorials](https://dart.dev/tutorials) - official docs
 
 
 ### Data Science
@@ -175,12 +180,35 @@
     * [An Introduction](https://www.programiz.com/sql/database-introduction)
     * [Tutorial](https://www.tutorialspoint.com/sql/sql-create-database.htm)
 
+### Deep Learning
+
+* [Video Tutorial](https://www.simplilearn.com/tutorials/deep-learning-tutorial/introduction-to-deep-learning) - Simplilearn
+* [Theory Explanation and guide](https://www.geeksforgeeks.org/introduction-deep-learning/)
+* [Complete Tutorial](https://www.javatpoint.com/deep-learning) - javatpoint
+
+### DevOps
+
+* [Beginner's Introduction](https://www.digite.com/blog/introduction-to-devops) - blog
+* [An comprehensive introduction](https://www.bmc.com/blogs/devops-basics-introduction/)
+* [Tutorials on DevOps technologies](https://www.tutorialspoint.com/devops_tutorials.htm)
+* [Roadmap](https://www.commclassroom.org/android-roadmap) - Comm Classroom
+
 ### Erlang
 
 * [Reference Mannual](https://www.erlang.org/doc/reference_manual/introduction.html)
 * [Try Erlang](http://www.tryerlang.org)
 * [Erlang Tutorial](https://www.tutorialspoint.com/erlang/index.htm) - tutorialspoint
 * [Adoption Erlang](https://adoptingerlang.org/docs/introduction/) - .org
+
+### Flutter
+
+* [Tutorial](https://docs.flutter.dev/reference/tutorials) - Flutter Official Docs
+
+### Game Development
+
+* [Introduction](https://www.c-sharpcorner.com/article/game-development-an-introduction/) - C# Corner
+* [Roadmap](https://www.codelivly.com/game-development-roadmap-2022)
+* [Beginner friendly projects](https://www.skyfilabs.com/project-ideas/latest-projects-based-on-game-development)
 
 ### Git
 
@@ -274,6 +302,7 @@
 * [Try jQuery](http://try.jquery.com)
 
 
+
 #### AngularJS
 
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson
@@ -283,6 +312,27 @@
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 
+#### D3.js
+
+* [Tutorial](https://www.tutorialspoint.com/d3js/index.htm)
+* [Data Visualization for beginners](https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/)
+* [Tutorial](https://www.w3schools.com/js/js_graphics_d3js.asp) - W3Schools
+
+#### Electron.js
+
+* [A beginner's guide](https://medium.com/@voltx180/a-beginners-guide-to-electron-js-1679fd7b6e4f)
+* [Tutorial](https://www.electronjs.org/docs/latest/tutorial/quick-start/ )
+
+#### Node.js
+
+* [Tutorial](https://www.w3schools.com/nodejs)
+* [Beginner's guide](https://www.geeksforgeeks.org/introduction-to-node-js)
+* [Documentation and installation](https://nodejs.dev/en/learn/)
+
+#### Next.js
+
+* [Tutorial](https://www.tutorialspoint.com/nextjs/index.htm)
+* [Introduction](https://nextjs.org/learn/foundations/about-nextjs)
 
 #### jQuery
 

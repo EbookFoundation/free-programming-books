@@ -2,15 +2,24 @@
 
 * [Ada](#ada)
 * [Android](#android)
+* [APL](#APL)
+* [Artificial Intelligence](#Artificial Intelligence)
+* [Assembly Programming](#Assembly Programming)
+* [AutoIT](#AutoIT)
 * [Bash](#bash)
+* [Blockchain](#Blockchain)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
+* [Compilers](#Compilers)
 * [Dart](#dart)
 * [Data Science](#data-science)
+* [Data Science](#Data Science)
+    * [No SQL](#No SQL)
+    * [SQL](SQL)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -52,18 +61,45 @@
 
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Adacore
 
-
 ### Android
 
 * [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
 * [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
 
+### APL
+
+* [Complete Tutorial](https://www.microapl.com/apl/tutorial_contents.html) - microapl
+* [Complete Tutorial and theory](https://xpqz.github.io/learnapl/intro.html) - GitHub Pages
+* [Notes](https://luksamuk.codes/pages/learn-apl.html) - luksamuk
+
+### Artificial Intelligence
+
+* [What is Artificial Intelligence?](https://www.britannica.com/technology/artificial-intelligence)
+* [Complete Tutorial](https://www.javatpoint.com/artificial-intelligence-tutorial) - javaTpoint
+* [Complete Tutorial](https://www.tutorialspoint.com/artificial_intelligence/index.htm) - tutorialspoint
+* [Simplilearn Video tutorial](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial)
+
+### Assembly Programming
+
+* [Complete Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm) - tutorialspoint
+* [Windows Assembly Programming tutorial](https://doc.lagout.org/operating%20system%20/Windows/winasmtut.pdf) - pdf
+
+### AutoIT 
+
+* [AutoIT Beginner Tutorial](https://www.autoitscript.com/wiki/Tutorials)
+* [AutoIT tutorial](https://www.softwaretestinghelp.com/autoit-tutorial-to-download-write-autoit-script/) - Download and Installation included
+* [Tutorial and Theory](https://automationtalks.com/autoit-tutorial/) - Automation Talks
 
 ### Bash
 
 * [Help messages will explain everything](https://explainshell.com) - explainshell
 * [Learn Shell Programming](http://www.learnshell.org) - learnshell
 
+### Blockchain
+
+* [Beginner's guide](https://www.geeksforgeeks.org/blockchain-technology-introduction/) - geeksforgeeks
+* [What is Blockchain](https://www.tutorialspoint.com/blockchain/blockchain_introduction.htm) - tutorialspoint
+* [Tutorial](https://www.javatpoint.com/blockchain-tutorial)
 
 ### C
 
@@ -103,6 +139,11 @@
 * [AWS Simple Storage Service (S3)](https://run.qwiklabs.com/focuses/7860?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3597563) - *registration required*
 * [Google Cloud Platform](https://cloud.google.com/training/free-labs/)
 
+###Compilers
+
+* [Introduction](https://www.javatpoint.com/compiler-introduction)
+* [Compiler Design](https://www.geeksforgeeks.org/introduction-of-compiler-design/)
+* [Language Design](https://gcekbpatna.ac.in/assets/documents/lecturenotes/lectures_note_on__complier_design.pdf ) - pdf
 
 ### CoffeeScript
 
@@ -120,12 +161,26 @@
 * [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
+* [Beginner to Advance Data Science Tutorial](https://www.javatpoint.com/data-science)
+* [Introduction to Data Science](https://www.geeksforgeeks.org/introduction-to-data-science/) - geeksforgeeks
 
+### DataBases
+
+* [Introduction to Databases - Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/) - C# Corner
+* [Introduction to Databases - Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases) - tutorialspoint
+* No SQL
+    * [An Introduction](https://www.geeksforgeeks.org/introduction-to-nosql/)
+    * [Tutorial](https://www.tutorialspoint.com/NoSQL-Databases)
+* SQL
+    * [An Introduction](https://www.programiz.com/sql/database-introduction)
+    * [Tutorial](https://www.tutorialspoint.com/sql/sql-create-database.htm)
 
 ### Erlang
 
+* [Reference Mannual](https://www.erlang.org/doc/reference_manual/introduction.html)
 * [Try Erlang](http://www.tryerlang.org)
-
+* [Erlang Tutorial](https://www.tutorialspoint.com/erlang/index.htm) - tutorialspoint
+* [Adoption Erlang](https://adoptingerlang.org/docs/introduction/) - .org
 
 ### Git
 

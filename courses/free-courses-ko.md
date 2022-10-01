@@ -108,7 +108,7 @@
 
 ### Git
 
-* [지옥에서 온 Git](https://www.opentutorials.org/course/2708) (생활코딩)
+* [GITn](https://www.opentutorials.org/course/3838) (생활코딩)
 
 
 ### Go

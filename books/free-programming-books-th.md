@@ -11,6 +11,9 @@
 
 * [Spark Internals](https://github.com/JerryLead/SparkInternals/tree/HEAD/markdown/thai) - Lijie Xu, Bhuridech Sudsee
 
+### C#
+
+* [บทเรียนภาษา C#](http://marcuscode.com/lang/csharp) - ภาษา C# MarcusCode
 
 ### Go
 

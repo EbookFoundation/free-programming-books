@@ -100,6 +100,7 @@
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
+* [Membuat Game Berbasis Website Menggunakan Bahasa Javascript dan PHP](http://eprints.unhasy.ac.id/63/1/3.Membuat%20Game%20Berbasis%20Website%20Menggunakan%20Bahasa%20Javascript%20dan%20PHP.pdf) - Dodik Arwin Dermawan (PDF)
 
 
 #### Vue.js

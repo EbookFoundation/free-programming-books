@@ -221,7 +221,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Windows Phone](#windows-phone)
 * [Workflow](#workflow)
 * [xBase (dBase / Clipper / Harbour)](#xbase-dbase--clipper--harbour)
-* [XML](#xml)
 
 
 ### ABAP
@@ -2464,8 +2463,3 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour) - Wikibooks
 * [CA-Clipper 5.2 Norton Guide](https://web.archive.org/web/20190516192814/http://www.ousob.com/ng/clguide/)
 * [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s)) - Wikibooks
-
-
-### XML
-
-* [XML Tutorial](https://www.w3schools.com/xml) - w3schools

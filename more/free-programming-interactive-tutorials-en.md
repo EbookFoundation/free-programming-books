@@ -46,6 +46,7 @@
 * [Selenium](#selenium)
 * [Solidity](#solidity)
 * [SQL](#sql)
+* [XML](#xml)
 
 
 ### Ada
@@ -389,3 +390,8 @@
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
 * [SQLBolt](http://sqlbolt.com)
+
+
+### XML
+
+* [XML Tutorial](https://www.w3schools.com/xml) - W3Schools

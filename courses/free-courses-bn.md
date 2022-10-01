@@ -21,6 +21,7 @@
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
+* [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Programming paradigms](#programming-paradigms)
@@ -164,6 +165,11 @@
 ### Kotlin
 
 * [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
+
+
+### MongoDB
+
+* [Bengali MongoDB Course Tutorial](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt) - Foyzul Karim
 
 
 ### MySQL

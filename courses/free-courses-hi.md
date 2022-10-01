@@ -60,7 +60,7 @@
 * [shell scripting complete tutorial in hindi](https://youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
 
 
-### C
+### <a id="c"></a>C
 
 * [All C Concepts \| Hindi](https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
 * [C Language Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - CodeWithHarry
@@ -70,7 +70,9 @@
 
 ### <a id="cpp"></a>C++
 
+
 * [C++ Full Course \| C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
+* [C++ Full Course \|Complete C++ Placement DSA Course\| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp
 * [C++ Programming in Hindi](https://www.youtube.com/playlist?list=PLDA2q3s0-n15yszaZ2yRKEoxY-WWkuAt4) - Sumit Bisht (Edutainment 1.0)
 * [C++ Programming in Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhijXuOfBSdQgK296Y7wUDWLn) - Rajesh Kumar, Geeky Shows
 * [C++ Programming Tutorial in Hindi](https://www.youtube.com/playlist?list=PLoVVmGDgrrnS5_TiSg193ezTPd-Ukb25k) - Rakesh Roshan, Learn TechToTech

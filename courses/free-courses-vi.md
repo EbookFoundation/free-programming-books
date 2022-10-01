@@ -8,14 +8,14 @@
 * [C](#c)
 * [C#](#csharp)
 * [Cấu trúc dữ liệu và Giải thuật](#cautrucdulieuvagiaithuat)
-* [CSS](#css)
 * [Git](#git)
 * [Go](#go)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
-  * [jQuery](#jquery)
+    * [AngularJS](#angularjs)
+    * [jQuery](#jquery)
+    * [Vue.js](#vuejs)
 * [Machine-Learning](#machine-learning)
 * [MongoDB](#mongodb)
 * [NodeJS](#nodejs)
@@ -28,9 +28,8 @@
 * [SQL](#sql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [Unity](#unity)
-* [Vue](#vue)
 * [Wordpress](#wordpress)
 * [Xcode](#xcode)
 * [XML](#xml)
@@ -98,12 +97,6 @@
 * [Lập trình ứng dụng Lập Lịch với C# Winform](https://www.youtube.com/playlist?list=PL33lvabfss1zfGzpSGQN7CUoHKS6OQbJc) - Kteam
 
 
-### CSS
-
-* [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban)
-* [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
-
-
 ### Cấu trúc dữ liệu và Giải thuật
 
 * [Cấu trúc dữ liệu và Giải thuật](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev
@@ -122,8 +115,10 @@
 * [Lập trình Golang](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
 
 
-### HTML
+### HTML and CSS
 
+* [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban)
+* [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
 * [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban)
 * [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
 
@@ -155,6 +150,13 @@
 
 * [jQuery Cơ Bản](https://www.codehub.com.vn/jQuery-Co-Ban)
 * [jQuery Cơ bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm) - TEDU
+
+
+#### Vue.js
+
+* [Học Vue js trong một video duy nhất](https://www.youtube.com/watch?v=j97QtHf0CHY) - Lập trình viên TV (Bùi Văn Nguyện)
+* [Lập trình VueJS](https://www.youtube.com/playlist?list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf) - ZendVN - Học Lập Trình Online
+* [Vue JS cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
 
 
 ### Machine-Learning
@@ -206,6 +208,7 @@
 * [Học lập trình React JS - Redux - NodeJS qua dự án thực tế](https://www.youtube.com/playlist?list=PLmbxe7ftoDqSNf5yGMhbDNjIZIM5mQ7Ow) - Thầy Nguyễn Đức Việt
 * [Học React Hooks cơ bản (2020)](https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m) - Easy Frontend
 * [Học redux cơ bản 2020](https://www.youtube.com/playlist?list=PLeS7aZkL6GOvCz3GiOtvtDXChJRuebb7S) - Easy Frontend
+* [Khóa Học Fullstack SERN (SQL, Express.js, React.js, Node.js) Web Developer](https://youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi Dân IT
 * [Khóa Học Lập Trình React.js - Redux](https://www.youtube.com/playlist?list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp) - nghiepuit
 * [Lập trình ReactJS với Redux](https://www.youtube.com/playlist?list=PLzrVYRai0riQFEN586LOz3eMv2Rgy6WXS) - Khoa Phạm
 * [React.js Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd)
@@ -269,13 +272,6 @@
 * [Học Lập Trình Game Unity3D - Game Sprider Cave](https://www.youtube.com/playlist?list=PLzrVYRai0riT-fZ_Wgi_NrELvqzbASetQ) - Khoa Phạm
 * [Học Lập Trình Game Unity3D - Zombie Hunter](https://www.youtube.com/playlist?list=PL33lvabfss1zGxMf1P-ReSoOoFN7L_jo0) - K team
 * [Lập Trình Game 2D Trên Unity3D](https://www.youtube.com/playlist?list=PLl-dkipSQUGcQQgvh9j8a75Sz4zx9vWo8) - U DEV
-
-
-### Vue
-
-* [Học Vue js trong một video duy nhất](https://www.youtube.com/watch?v=j97QtHf0CHY) - Lập trình viên TV (Bùi Văn Nguyện)
-* [Lập trình VueJS](https://www.youtube.com/playlist?list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf) - ZendVN - Học Lập Trình Online
-* [Vue JS cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
 
 
 ### Wordpress

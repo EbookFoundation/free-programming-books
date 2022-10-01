@@ -1,15 +1,14 @@
 ## Index
 
-* [Big Data](#BigData)
-* [CSS](#CSS)
-* [Database](#Database)
-* [HTML](#HTML)
-* [JavaScript](#Javascript)
-* [Machine Learning](#MachineLearning)
-* [MySQL](#MySQL)
-* [PHP](#PHP)
-* [Ruby](#Ruby)
-* [Selenium](#Selenium)
+* [Big Data](#bigdata)
+* [Database](#database)
+* [HTML and CSS](#html-and-css)
+* [JavaScript](#javascript)
+* [Machine Learning](#machine-learning)
+* [MySQL](#mysql)
+* [PHP](#php)
+* [Ruby](#ruby)
+* [Selenium](#selenium)
 
 
 ### BigData
@@ -17,18 +16,14 @@
 * [எளிய தமிழில் Big Data](http://www.kaniyam.com/learn-bigdata-in-tamil-ebooks/)
 
 
-### CSS
-
-* [எளிய தமிழில் CSS](http://www.kaniyam.com/download/learn-css-in-tamil.pdf) - Kaniyam Foundation (PDF)
-
-
 ### Database
 
 * [எளிய தமிழில் MySQL ](http://www.kaniyam.com/mysql-book-in-tamil/)
 
 
-### HTML
+### HTML and CSS
 
+* [எளிய தமிழில் CSS](http://www.kaniyam.com/download/learn-css-in-tamil.pdf) - Kaniyam Foundation (PDF)
 * [எளிய தமிழில் CSS](http://www.kaniyam.com/learn-css-in-tamil-ebook/)
 * [எளிய தமிழில் HTML](http://www.kaniyam.com/learn-html-in-tamil/)
 

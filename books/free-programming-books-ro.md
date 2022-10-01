@@ -2,10 +2,10 @@
 
 * [Ajax](#ajax)
 * [C](#c)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [MySQL](#mysql)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Scratch](#scratch)
 
 
@@ -16,10 +16,10 @@
 
 ### C
 
-* [Ghidul Beej pentru Programarea in Retea - Folosind socket de internet](https://web.archive.org/web/20180710112954/http://weknowyourdreams.com/beej.html) Brian "Beej Jorgensen" Hall, Dragos Moroianu (HTML) *(:card_file_box: archived)*
+* [Ghidul Beej pentru Programarea in Retea - Folosind socket de internet](https://web.archive.org/web/20180710112954/http://weknowyourdreams.com/beej.html) - Brian "Beej Jorgensen" Hall, Dragos Moroianu (HTML) *(:card_file_box: archived)*
 
 
-### HTML
+### HTML and CSS
 
 * [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
 

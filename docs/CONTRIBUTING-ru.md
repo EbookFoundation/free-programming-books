@@ -21,11 +21,12 @@
 2. Вам необязательно знать Git: если вы нашли что-то интересное, чего *еще нет в этом репозитории*, пожалуйста, откройте [Issue](https://github.com/EbookFoundation/free-programming-books/issues) с вашими предложениями.
     - Если вы знакомы с Git, пожалуйста форкните репозиторий и пришлите пулреквест (PR).
 
-3. У нас есть 5 видов списков. Выберите подходящий:
+3. У нас есть 6 видов списков. Выберите подходящий:
 
     - *Книги*: PDF, HTML, ePub, сайт на основе gitbook.io, репозиторий Git и т. Д.
     - *Курсы*: курс - это учебный материал, который не является книгой. [Это курс](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Интерактивные учебные пособия*: интерактивный веб-сайт, который позволяет пользователю вводить код или команды и оценивать результат (под «результатом» мы не подразумеваем «оценку»). например: [Попробуйте Haskell](http://tryhaskell.org), [Попробуйте GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Подкасты и скринкасты*: подкасты и скринкасты.
     - *Наборы задач и соревновательное программирование*: веб-сайт или программа, которое позволяет вам оценить свои навыки программирования, решая простые или сложные задачи, с проверкой кода или без нее, со сравнением результатов с результатами других пользователей или без него.
 
@@ -59,6 +60,7 @@
 - Если книга более старая, укажите дату публикации в названии.
 - Укажите имя автора или имена там, где это необходимо. Вы можете сократить списки авторов с помощью «`и др.`» («`et al.`»).
 - если книга не закончена, и работа над ней продолжается, добавьте пометку «`в процессе`», как описано [ниже](#in_process).
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - если перед загрузкой запрашивается адрес электронной почты или настройка учетной записи, добавьте в скобки примечания на соответствующем языке, например: `(адрес электронной почты *запрашивают*, но он не требуется для загрузки)`.
 
 
@@ -138,6 +140,12 @@
     ХОРОШО: * [Скоро будет отличная книга](http://example.com/book2.html) - Джон Доу (HTML) (:construction: *in process*)
     ```
 
+- <a id="archived"></a>Archived link:
+
+    ```text
+    ХОРОШО: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
 ### Alphabetical order
 
 - When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
@@ -180,9 +188,17 @@ If you see a misplaced link, check the linter error message to know which lines 
 ##### Creators
 
 - Хотим поблагодарить создателей бесплатных ресурсов, где это возможно, в том числе переводчиков!
-- Для переведенных работ следует указать оригинального автора.
+- Для переведенных работ следует указать оригинального автора. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-ru.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - Мы не разрешаем ссылки на авторов.
-- Для подборок и смешенных изданий «создателю» может потребоваться описание. Например, книги «GoalKicker» считаются «`Скомпилированными из документации StackOverflow`» ("на английском: «`Compiled from StackOverflow documentation`»).
+- Для подборок и смешенных изданий «создателю» может потребоваться описание. Например, книги «GoalKicker» или «RIP Tutorial» считаются «`Скомпилированными из документации StackOverflow`» ("на английском: «`Compiled from StackOverflow documentation`»).
 
 
 <!----><a id="platforms-and-access-notes"></a>

@@ -21,11 +21,12 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
 2. Anda tidak harus terbiasa dengan Git: Jika Anda telah menemukan sesuatu yang menarik *yang belum ada di salah satu daftar*, silakan buka [Masalah](https://github.com/EbookFoundation/free-programming-books/issues) dengan tautan yang Anda sarankan.
     - Jika Anda sudah familiar dengan Git, fork repositori dan kirim Pull Request (PR).
 
-3. Kami menyimpan 5 jenis daftar. Pastikan untuk memilih yang tepat:
+3. Kami menyimpan 6 jenis daftar. Pastikan untuk memilih yang tepat:
 
     - *Buku*: PDF, HTML, ePub, halaman berdasarkan gitbook.io, repo Git, dll.
     - *Kursus*: Kursus menggambarkan materi pembelajaran yang tidak ada dalam bentuk buku. [Ini adalah kursus](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutorial interaktif*: Situs web interaktif yang memungkinkan pengguna memasukkan kode sumber perintah dan mengevaluasi hasilnya (dengan "mengevaluasi" kami tidak bermaksud "menilai"). misalnya: [Coba Haskell](http://tryhaskell.org), [Coba GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcast dan Screencasts*: Podcast dan Screencasts.
     - *Kumpulan Masalah & Pemrograman Kompetitif*: Situs web atau perangkat lunak yang memberi Anda kesempatan untuk menguji keterampilan pemrograman Anda dengan memecahkan masalah sederhana atau kompleks, dengan atau tanpa tinjauan kode dan dengan atau tanpa membandingkan kinerja dengan orang lain Pengunjung situs.
 
@@ -60,6 +61,7 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
 - jika buku lebih tua, sertakan tanggal penerbitan dengan judul.
 - sertakan nama penulis atau nama yang sesuai. Anda dapat mempersingkat daftar penulis dengan "`et al.`".
 - jika buku belum selesai, dan masih dalam pengerjaan, tambahkan notasi "`dalam proses`", seperti yang dijelaskan [di bawah ini](#in_process).
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - jika alamat email atau pengaturan akun diminta sebelum pengunduhan diaktifkan, tambahkan catatan bahasa yang sesuai dalam tanda kurung, misalnya: `(alamat email *diminta*, tidak wajib)`.
 
 
@@ -139,6 +141,12 @@ Contoh:
     BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
+- <a id="archived"></a>Archived link:
+
+    ```text
+    BAIK  : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
 ### Alphabetical order
 
 - When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
@@ -179,9 +187,17 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 ##### Pencipta
 
 - Kami ingin menghargai pencipta sumber daya gratis jika perlu, termasuk penerjemah!
-- Untuk karya terjemahan penulis asli harus dikreditkan.
+- Untuk karya terjemahan penulis asli harus dikreditkan. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-id.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - Kami tidak mengizinkan tautan untuk Kreator.
-- Untuk karya kompilasi atau remix, "pencipta" mungkin memerlukan deskripsi. Misalnya, buku "GoalKicker" dikreditkan sebagai "`Dikompilasi dari dokumentasi StackOverflow`" (dalam Bahasa Inggris: `Compiled from StackOverflow documentation`).
+- Untuk karya kompilasi atau remix, "pencipta" mungkin memerlukan deskripsi. Misalnya, buku "GoalKicker" atau "RIP Tutorial" dikreditkan sebagai "`Dikompilasi dari dokumentasi StackOverflow`" (dalam Bahasa Inggris: `Compiled from StackOverflow documentation`).
 
 
 <!----><a id="platforms-and-access-notes"></a>

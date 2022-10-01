@@ -18,11 +18,12 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CON
 2. Non devi conoscere Git: se trovi qualcosa di interessante che che non è *ancora in questa repo*, apri un [Issue](https://github.com/EbookFoundation/free-programming-books/issues) con il link della risorsa.
     - Se conosci Git, forka questa repository e crea una Pull Request (PR).
 
-3. Abbiamo 5 tipi di liste. Scegli quella giusta:
+3. Abbiamo 6 tipi di liste. Scegli quella giusta:
 
     - *Libri* : PDF, HTML, ePub, gitbook.io, una Git repo, etc.
     - *Corsi* : Un corso è del materiale gratuito che non è un libro. [Questo è un corso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutorial Interattivi* : Un sito interattivo permette all'utente di scrivere codice o comandi e analizzarne il risultato. esempi: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : Sono siti, giochi o applicazioni online ed interattive per imparare a programmare. Scrivi, compila (o esegui) e condividi codice. I playgrounds spesso ti permettono di forkare una repository e sporcarti le mani "giocando" con il codice.
     - *Podcasts e Screencasts* : Podcasts and screencasts.
     - *Set di problemi & Programmazione competitiva* : Un sito o software che ti permette di valutare le tue skills da programmatore risolvendo problemi semplici o complessi, con o senza la revisione del codice, con o senza la comparazione del risultato con gli altri utenti.
 
@@ -179,7 +180,15 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 ##### Autori
 
 - Vogliamo dare i crediti agli autori ove appropriato, anche ai traduttori!
-- Per i lavori tradotti, l'autore originale dovrebbe essere incluso.
+- Per i lavori tradotti, l'autore originale dovrebbe essere incluso. Consigliamo di usare [MARC relators](https://loc.gov/marc/relators/relaterm.html) per accreditare autori diversi dal creatore, per esempio:
+
+    ```markdown
+    * [Un libro tradotto](http://example.com/book-it.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    qui, l'annotazione `trl.:` usa il codice MARC relativo ai "traduttori".
+- Usa l virgola `,` per separare ogni elemento nella lista degli autori
+- Puoi accorciare la lista degli autori scrivendo "`et al.`" (e altri).
 - Non permettiamo collegamenti per gli autori.
 - Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" o "RIP Tutorial" sono accreditati come "`Compiled from StackOverflow documentation`".
 

@@ -1,11 +1,9 @@
 ### Index
 
 * [Android](#android)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
-* [Common Lisp](#common-lisp)
-* [CSS](#css)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
@@ -13,7 +11,8 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
-* [IDE and Editors](#ide-and-editors)
+* [HTML and CSS](#html-and-css)
+* [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Angular](#angular)
@@ -24,6 +23,7 @@
     * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
+* [Lisp](#lisp)
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
@@ -40,7 +40,7 @@
 * [The complete Android Application Development Course - Work Great in 2020](https://www.youtube.com/playlist?list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe) - Android Developer (screencast)
 
 
-### <a id="c-sharp"></a>C&#x23;
+### <a id="csharp"></a>C\#
 
 * [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) - Brian Douglas Moakley, VegetarianZombie (screencast)
 * [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Asbjørn Thirslund (screencast)
@@ -58,19 +58,6 @@
 
 * [ClojureScript Podcast](https://clojurescriptpodcast.com) - Jacek Schae (podcast)
 * [Parens of the Dead](http://www.parens-of-the-dead.com) - Magnar Sveen, Elisabeth Irgens (screencast)
-
-
-### Common Lisp
-
-* [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
-* [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
-
-
-### CSS
-
-* [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - Brad Traversy (screencast)
-* [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) - Chris Coyier (screencast)
-* [The CSS Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
 
 
 ### Data Science
@@ -142,7 +129,14 @@
 * [The Haskell Cast](https://www.haskellcast.com) - Chris Forno, Alp Mestanogullari, Rein Henrichs (podcast)
 
 
-### IDE and Editors
+### HTML and CSS
+
+* [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - Brad Traversy (screencast)
+* [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) - Chris Coyier (screencast)
+* [The CSS Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
+
+
+### IDE and editors
 
 * [Emacs Cast](https://emacscast.org) - Rakhim Davletkaliyev (podcast)
 * [Emacs Rocks!](http://emacsrocks.com) - Christian Johansen (screencast)
@@ -168,7 +162,7 @@
 * [Frontend First](https://player.fm/series/frontend-first) - Sam Selikoff, Ryan Toronto (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) - CodeSchool (podcast)
 * [HTML All The Things](https://www.htmlallthethings.com/podcast) - Mike Karan, Matt Lawrence (podcast)
-* [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu,, Tyler McGinnis, Kyle Simpson, et al.(podcast)
+* [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu, Tyler McGinnis, Kyle Simpson, et al. (podcast)
 * [JavaScript Jabber](https://javascriptjabber.com) - Aimee Knight, AJ O'Neal, Charles Wood, Dan Shappir, Steve Edwards, et al. (podcast)
 * [JS Party](https://changelog.com/jsparty) - Jerod Santo, Nick Nisi, Amelia Wattenberger, Kevin Ball, Divya, Feross Aboukhadijeh, Amal Hussein, Christopher Hiller, Ali Spittel, et al. (podcast)
 * [Modern Web](https://www.thisdot.co/modern-web) - This Dot Labs (podcast)
@@ -257,6 +251,7 @@
 * [Ladybug Podcast](https://www.ladybug.dev) - Kelly Vaughn, Ali Spittel, Emma Bostian, Sidney Buckner (podcast)
 * [Learn to Code with Me](https://learntocodewith.me/podcast/) - Laurence Bradford (podcast)
 * [Loosely Coupled](https://looselycoupled.info) - Jeff Carouth, Matt Frost (podcast)
+* [Merge Conflict](https://www.mergeconflict.fm) - Frank Krueger, James Montemagno (podcast)
 * [.NET Rocks!](https://www.dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)
 * [Open Source System Podcast](https://opensourcesystempodcast.vf.io) - Vlad Filippov, Kyle Robinson Young, Tim Branyen, Darcy Clarke, Mike Taylor, Alex Sexton, Jason Etcovitch (podcast)
 * [Programming Throwdown](https://www.programmingthrowdown.com) - Jason Gauci, Patrick Wheeler (podcast)
@@ -290,8 +285,15 @@
 * [Three Devs and a Maybe](https://threedevsandamaybe.com) - Michael Budd, Fraser Hart, Lewis Cains, Edd Mann (podcast)
 * [Toolsday](https://spec.fm/podcasts/toolsday) - Una Kravets, Chris Dhanaraj (podcast)
 * [TTL Podcast](https://podtail.com/es/podcast/ttl-podcast/) - Rebecca Murphey (podcast)
+* [Under the Radar](https://www.relay.fm/radar) - Marco Arment, David Smith (podcast)
 * [Web Security Warriors](https://www.stitcher.com/show/web-security-warriors) (podcast)
 * [Women in TECH with Ariana](https://www.wallwaytech.com/podcast) - Ariana The Techie (podcast)
+
+
+### Lisp
+
+* [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
+* [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
 
 
 ### Machine Learning
@@ -330,7 +332,7 @@
 * [Codecasts](https://www.youtube.com/playlist?list=PL_qGav8csvade05RSAYtnxvCfQKTJcZR4) - Daniel Roy Greenfeld (screencast)
 * [Diving into Django](https://code.tutsplus.com/articles/diving-into-django--net-2969) - Jeff Hui (screencast)
 * [Import this](https://soundcloud.com/import-this) - Kenneth Reitz (podcast)
-* [Podcast.__init__](https://podcastinit.com) - Tobias Macey (podcast)
+* [Podcast.\_\_init\_\_](https://podcastinit.com) - Tobias Macey (podcast)
 * [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB) - Harrison Kinsley (screencast)
 * [Python Bytes](https://pythonbytes.fm) - Michael Kennedy, Brian Okken (podcast)
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) - Christopher Bailey (screencast)
@@ -350,6 +352,7 @@
 * [Code with Jason](https://www.codewithjason.com/rails-with-jason-podcast/) - Jason Swett (podcast)
 * [Drifting Ruby](https://www.driftingruby.com/episodes?free=true&pro=false) - Dave Kimura (screencast)
 * [Railscasts](http://railscasts.com) - Ryan Bates (screencast)
+* [Remote Ruby](https://remoteruby.com) - Chris Oliver, Jason Charnes, Andrew Mason (podcast)
 * [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues/) - Charles Max Wood, Dave Kimura, Valentino Stoll, Luke Stutters, John Epperson, Sam Livingston-Gray, Avdi Grimm, Aaron Patterson, James Edward Gray, Katrina Owen (podcast)
 * [Ruby Tapas \| Free Screencasts](https://www.rubytapas.com/category/episodes/) - Avdi Grimm (screencast)
 * [The Bike Shed](https://www.bikeshed.fm) - Chris Toomey, Steph Viccari (podcast)

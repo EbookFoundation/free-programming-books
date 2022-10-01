@@ -151,6 +151,7 @@ This project lists books and other resources grouped by genres:
 + [Russian / Русский язык](courses/free-courses-ru.md)
 + [Sinhala / සිංහල](courses/free-courses-si.md)
 + [Spanish / español / castellano](courses/free-courses-es.md)
++ [Swedish / svenska](courses/free-courses-sv.md)
 + [Tamil / தமிழ்](courses/free-courses-ta.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
@@ -176,7 +177,7 @@ This project lists books and other resources grouped by genres:
 
 Free Podcasts and Screencasts:
 
-+ [Arabic / al arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
++ [Arabic / al Arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)

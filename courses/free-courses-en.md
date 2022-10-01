@@ -108,6 +108,7 @@
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) - Erik Demaine
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
 * [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
+* [Analysis of Algorithms (CSE 373)](https://www3.cs.stonybrook.edu/~skiena/373/videos) - Steven Skiena
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 * [Berkeley's CS 61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
 * [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
@@ -146,6 +147,7 @@
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
 * [Android Performance](https://www.udacity.com/course/android-performance--ud825) (Udacity)
 * [Build Native Mobile Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) (Udacity)
+* [CS194A Android Development](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn) - Rahul Pandey (Stanford)
 * [CS50 2019 - Android Track](https://www.youtube.com/playlist?list=PLhQjrBD2T381qULidYDKP55-4u1piASC1) - David J. Malan (Harvard OpenCourseWare)
 * [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851) (Udacity)
 * [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
@@ -206,6 +208,7 @@
 * [Bento Shell Track](https://bento.io/topic/shell) - Jon Chan (Bento)
 * [How to CMake Good](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s) - vector-of-bool (YouTube)
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790) - The Bad Tutorials (YouTube)
+* [Shell Scripting Tutorial \| Shell Scripting Crash Course \| Linux Certification Training \| Edureka](https://www.youtube.com/watch?v=GtovwKDemnI) - edureka!
 * [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) -  ProgrammingKnowledge (YouTube)
 
 
@@ -326,6 +329,7 @@
 
 * [Datastax Academy (Apache Cassandra)](https://www.datastax.com/dev/academy) - Datastax Inc. *(email address required)*
 * [MongoDB University](https://university.mongodb.com) - MongoDB, Inc. (email address *required*)
+* [Neo4j (Graph Database) Crash Course](https://www.youtube.com/watch?v=8jNPelugC2s) - Laith Academy (YouTube)
 * [Neo4j Graph Database Tutorial](https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh) - Satish C J (YouTube)
 * [Redis University](https://university.redis.com) - Redis Inc. *(email address required)*
 
@@ -414,7 +418,7 @@
 
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
-* [Complete Git & Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha (Youtube)
+* [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha 
 * [Git](https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR) - Gwendolyn Faraday
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) - Briana Marie, freeCodeCamp.org (YouTube)
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG) - Raghav Pal, Automation Step by Step
@@ -434,6 +438,7 @@
 
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
 * [DevOps BootCamp](https://github.com/jeffotoni/goworkshopdevops) - Jefferson Otoni Lima, et al.
+* [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U) - Traversy Media
 * [Golang \| Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews
 * [Golang basics](https://www.youtube.com/playlist?list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6) - Golang dojo
 * [Golang in under an hour](https://www.youtube.com/watch?v=N0fIANJkwic) - Eli Goldberg
@@ -516,7 +521,7 @@
 
 ### Java
 
-* [Advanced Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about)
+* [Advanced Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about) - MIT Open Learning Library
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
 * [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) (Stanford)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
@@ -540,7 +545,7 @@
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
 * [Programming in Java](https://nptel.ac.in/courses/106/105/106105191/) - Prof. Debasis Samanta (NPTEL)
-* [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about)
+* [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) - MIT Open Learning Library
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
 
 
@@ -629,6 +634,7 @@
 
 #### React
 
+* [Frontend Armory: React Fundamentals](https://frontarm.com/courses/react-fundamentals/) - James K. Nelson
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
 * [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)
 * [React](https://progate.com/languages/react) (progate) *(account required)*
@@ -684,6 +690,7 @@
 * [Android Kotlin Tutorial: Create Android Apps using Kotlin](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) - Sriyank Siddhartha (YouTube)
 * [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) - Aleks Haecky, Asser Samak, Sean McQuillan (Udacity)
+* [Kotlin Newbie To Pro](https://www.youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) - Philipp Lackner
 * [Track: Kotlin Basics](https://hyperskill.org/tracks/18) - Hyperskill, JetBrains (Hyperskill)
 
 
@@ -721,6 +728,7 @@
 * [Intro to Machine Learning Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) (Udacity)
 * [Intro to Machine Learning using Microsoft Azure](https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333) - Microsoft (Udacity)
 * [Intro to Self-Driving Cars Nanodegree](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) - Cezanne Camacho, Andrew Paster, Anthony Navarro, Tarin Ziyaee, et al. (Udacity)
+* [Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) - MIT Open Learning Library
 * [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig (Coursera)
@@ -869,6 +877,7 @@
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) - Tech With Tim
 * [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Moshfegh Hamedani (Programming with Mosh)
+* [Python Tutorial For Beginners (With Notes)](https://www.youtube.com/watch?v=EyEqWFvLDT8) - ProgrammingWithHarry
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - Programming with Mosh (YouTube)
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [SoloLearn](https://www.sololearn.com/Course/Python/)

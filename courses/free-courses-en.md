@@ -1,6 +1,7 @@
 ### Index
 
 * [0 - MOOC](#0---mooc)
+* [Getting started with programming](#getting-started-with-programming)
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
 * [APL](#apl)
@@ -101,6 +102,11 @@
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
+
+
+### Getting Started With Programming
+
+* [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/)
 
 
 ### Algorithms & Data Structures

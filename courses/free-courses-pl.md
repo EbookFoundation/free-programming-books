@@ -66,8 +66,9 @@
 * [Java GUI: programowanie Graficznego Interfejsu Użytkownika](https://www.youtube.com/playlist?list=PL3298E3EB8CFDE9BA)
 * [Kurs JavaFX od podstaw](https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU)
 * [Kurs programowania Java](https://www.youtube.com/playlist?list=PLED70A92187B1406A)
+* [Kurs programowania w Javie od podstaw](https://programovanie.pl)
 * [Kurs programowania w języku Java (od podstaw!)](https://www.youtube.com/playlist?list=PLTs20Q-BTEMMJHb4GWFT34PAWxYyzndIY)
-* [Kurs programowania w Javie od podstaw](https://programovanie.pl/)
+
 
 ### JavaScript
 

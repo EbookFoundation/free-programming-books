@@ -118,7 +118,8 @@
 
 
 ### HTML and CSS
-
+* [HTMl in one Video 4.30 hours](https://www.youtube.com/watch?v=QXPWs00RD3A&t=5884s) - Tech Gun
+* [CSS Mastery in one Video 9+ hours Content with project](https://www.youtube.com/watch?v=WyxzAU3p8CE&t=6063s) -Tech Gun
 * [HTML CSS & Browser APIs](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC) - Pepcoding
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 * [Web Development Tutorials for Beginners in Hindi: HTML, CSS, JavaScript and more](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - CodeWithHarry
@@ -149,7 +150,7 @@
 
 
 ### JavaScript
-
+* [Java Script Mastery Course 15 hours+ 3 videos Playlist](https://www.youtube.com/playlist?list=PLwgFb6VsUj_n15Cg_y2ULKfsOR1XiQqPx) - Harshit Vashisth
 * [JavaScript Tutorial \| Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - CodeWithHarry
 * [JavaScript Tutorial for Beginners (In Hindi)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0) - Vinod Bahadur Thapa (Thapa Technical)
 * [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz

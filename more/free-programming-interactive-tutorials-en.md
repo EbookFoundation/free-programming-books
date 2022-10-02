@@ -15,8 +15,8 @@
 * [CoffeeScript](#coffeescript)
 * [Compilers](#Compilers)
 * [Dart](#dart)
-* [Databases](#databases)
 * [Data Science](#data-science)
+* [Databases](#databases)
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
 * [Erlang](#erlang)
@@ -57,7 +57,7 @@
 * [Scala](#scala)
 * [Selenium](#selenium)
 * [Solidity](#solidity)
-* [SOL](#sql)
+* [SQL](#sql)
 * [XML](#xml)
 
 
@@ -485,4 +485,3 @@
 ### XML
 
 * [XML Tutorial](https://www.w3schools.com/xml) - W3Schools
-

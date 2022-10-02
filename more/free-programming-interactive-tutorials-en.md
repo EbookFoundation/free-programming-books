@@ -17,7 +17,7 @@
 * [Dart](#Dart)
 * [Data Science](#Data Science)
 * [Deep Learning](#Deep learning)
-* [Databases](#Databases)
+* [Databases](#Database)
 * [DevOps](#DevOps)
 * [Erlang](#Erlang)
 * [Flutter](#Flutter)
@@ -177,7 +177,7 @@
 * [Video Tutorial](https://www.simplilearn.com/tutorials/deep-learning-tutorial/introduction-to-deep-learning) - Simplilearn
 
 
-### Databases
+### Database
 
 * [Introduction to Databases-Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/)
 * [Introduction to Databases-Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases)

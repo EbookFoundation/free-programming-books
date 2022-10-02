@@ -58,7 +58,7 @@
 * [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
-* [Picoctf](https://picoctf.org/resources) (email address *requested*)
+* [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
 
 

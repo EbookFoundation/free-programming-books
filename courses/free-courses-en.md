@@ -707,7 +707,6 @@
 
 * [Kubernetes Core Concepts](https://kube.academy/paths/kubernetes-core-concepts) - KubeAcademy (VMware)
 * [Kubernetes Tutorial for Beginners](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) - TechWorld with Nana
-* [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
 
 
 ### Linux
@@ -1017,6 +1016,7 @@
 
 * [Angular 12 Course](https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV) - Slobodan Gajic
 * [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) - codedamn (YouTube)
+* [Angular Complete Course Guide](https://youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs) - Leela Web Dev (YouTube)
 * [Angular Courses](https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT) - Moshfegh Hamedani (Programming with Mosh)
 * [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8) - Brad Traversy, Traversy Media (YouTube)
 * [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)

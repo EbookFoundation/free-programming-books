@@ -219,7 +219,6 @@
 
 #### React
 
-* [Belajar React JS dari awal](https://youtu.be/JS5w4rUbjQE) - Muhamad Nauval Azhar, array id (YouTube)
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
 * [Mari Kita Belajar Basic React JS](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwXT8zMPbezhDnTM3cTA5cZ) - Irsyad A. Panjaitan, Parsinta (YouTube)
 * [React JS Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY) - Wahidev Academy

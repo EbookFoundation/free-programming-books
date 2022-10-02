@@ -637,7 +637,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### DBMS
 
 * [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
-* [Fundamentals of Database Systems](https://amirsmvt.github.io/Database/Static_files/Fundamental_of_Database_Systems.pdf) - PDF
+* [Fundamentals of Database Systems](https://amirsmvt.github.io/Database/Static_files/Fundamental_of_Database_Systems.pdf) (PDF)
 
 
 ### Delphi / Pascal
@@ -1330,7 +1330,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Kotlin
 
 * [Head First Kotlin: – A Brain-Friendly Guide](https://ebin.pub/qdownload/head-first-kotlin-a-brain-friendly-guide-1nbsped-1491996692-9781491996690.html)
-* [Kotlin in Action](https://github.com/cjnhust/ebook_collection/blob/master/Kotlin%20in%20Action.pdf) - Svetlana Isakova
+* [Kotlin in Action](https://github.com/cjnhust/ebook_collection/blob/master/Kotlin%20in%20Action.pdf) - Svetlana Isakova (PDF)
 * [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF)
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 * [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)

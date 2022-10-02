@@ -947,7 +947,7 @@
 
 ### Spark
 
-* [Learn Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) - INSIGHT, `tch.:` David Drummond, `tch.:` Judit Lantos (Udacity)
+* [Learn Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) -  David Drummond, Judit Lantos (Udacity)
 * [Spark Tutorial \| Spark Tutorial for Beginners \| Apache Spark Full Course - Learn Apache Spark 2020](https://www.youtube.com/watch?v=zC9cnh8rJd0) Great Learning
 
 

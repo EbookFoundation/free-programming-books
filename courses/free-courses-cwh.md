@@ -4,7 +4,7 @@
 
 * [Programming Facts & Techniques in Seconds;](https://youtube.com/playlist?list=PLu0W_9lII9ai9gguWHNPXfv-Cfc5PfF7H) - Code With Harry
 
-### RoadMaps for Learning
+### RoadMaps for Easy Learning
 
 * [Programming Facts & Techniques in Seconds;](https://youtube.com/playlist?list=PLu0W_9lII9ahwLNzab_rVfZ06ZCZYEcNs) - Code With Harry
 

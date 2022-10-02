@@ -637,6 +637,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### DBMS
 
 * [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
+* [Fundamentals of Database Systems](https://drive.google.com/file/d/1T7UvSzSXwA45wtlJVIfa8SHmcgHURf3h/view?usp=sharing)[PDF]
+* [Database Systems Concept](https://drive.google.com/file/d/1Hc65Be1obfwkJCjZ9_Q4x-gPoO-yVN-A/view?usp=sharing)[PDF]
 
 
 ### Delphi / Pascal

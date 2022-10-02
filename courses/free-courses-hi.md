@@ -67,6 +67,7 @@
 * [C Language Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - CodeWithHarry
 * [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - CodeWithHarry
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l) - Vikas Pandey, easytuts4you
+* [C Language Tutorial for Beginners (with Notes & Practice Questions)](https://youtu.be/irqbmMNs2Bo) -apna college
 
 
 ### <a id="cpp"></a>C++

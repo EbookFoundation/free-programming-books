@@ -102,6 +102,7 @@
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
+* [Web3](https://learnweb3.io)
 
 
 ### Algorithms & Data Structures
@@ -1057,6 +1058,4 @@
 
 ### Web3
 
-* [Become a Web3 Developer](https://learnweb3.io) - Course for everyone (Basics - Advanced - Expert) level
-* [Learning Resources](https://web3.career/learn-web3) - Learn Web3 With These Free Resources
-* [Video Lecture - Begining to Expert](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org) - Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript
+* [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) - freeCodeCamp, `tch.:` Patrick Collins

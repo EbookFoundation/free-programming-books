@@ -18,6 +18,7 @@
     * [Nest.js](#nestjs)
     * [Nuxt.js](#nuxtjs)
     * [React.js](#reactjs)
+    * [Next.js](#nextjs)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
@@ -121,6 +122,7 @@
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
+* [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - The Valley of Code (PDF)
 
 
 ### HTML and CSS
@@ -180,6 +182,11 @@
 
 * [React Cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) - Codecademy (HTML)
 * [Ultimate React.js Cheat Sheet](https://upmostly.com/ultimate-reactjs-cheat-sheet) - Upmostly.com (HTML)
+
+
+#### Next.js
+
+* [Ultimate Next.js Handbook](https://thevalleyofcode.pages.dev/next-handbook.pdf) - The Valley of Code (PDF)
 
 
 #### Vue.js

@@ -192,7 +192,7 @@
 
 ### Kotlin
 
-* [Kotlin Programming Complete Tutorial in Hindi](https://youtu.be/uoP4JKHgzDE) - Geeky Shows
+* [Kotlin Programming Complete in one Video (Hindi)](https://www.youtube.com/watch?v=uoP4JKHgzDE) - Geeky Shows, `tch.:` Rajesh Kumar
 
 
 ### Machine Learning

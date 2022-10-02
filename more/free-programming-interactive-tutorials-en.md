@@ -1,8 +1,8 @@
 ### Index
 
 * [Ada](#Ada)
-* [Android](#Android)
 * [Artificial Intelligence](#Artificial Intelligence)
+* [Android](#Android)
 * [Assembly Programming](#Assembly Programming)
 * [AutoIT](#AutoIT)
 * [Bash](#Bash)
@@ -14,8 +14,8 @@
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Compilers](#Compilers)
-* [Dart](#Dart)
 * [Data Science](#Data Science)
+* [Dart](#Dart)
 * [Deep Learning](#Deep learning)
 * [Databases](#Database)
 * [DevOps](#DevOps)
@@ -65,18 +65,18 @@
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Adacore
 
 
-### Android
-
-* [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
-* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
-
-
 ### Artificial Intelligence
 
 * [Complete Tutorial](https://www.javatpoint.com/artificial-intelligence-tutorial) - javaTpoint
 * [Complete Tutorial](https://www.tutorialspoint.com/artificial_intelligence/index.htm) - tutorialspoint
 * [Simplilearn Video tutorial](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial)
 * [What is Artificial Intelligence?](https://www.britannica.com/technology/artificial-intelligence)
+
+
+### Android
+
+* [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
+* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
 
 
 ### Assembly Programming
@@ -155,12 +155,6 @@
 * [Introduction](https://www.javatpoint.com/compiler-introduction)
 
 
-### Dart
-
-* [Dart Official Codelabs](https://dart.dev/codelabs) - Dart
-* [Tutorials](https://dart.dev/tutorials) - official docs
-
-
 ### Data Science
 
 * [Beginner to Advance Data Science Tutorial](https://www.javatpoint.com/data-science)
@@ -168,6 +162,12 @@
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
 * [Introduction to Data Science](https://www.geeksforgeeks.org/introduction-to-data-science/) - geeksforgeeks
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
+
+
+### Dart
+
+* [Dart Official Codelabs](https://dart.dev/codelabs) - Dart
+* [Tutorials](https://dart.dev/tutorials) - official docs
 
 
 ### Deep Learning

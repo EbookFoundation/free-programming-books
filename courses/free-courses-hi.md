@@ -85,8 +85,8 @@
 
 ### Data Structures
 
-* [All Sorting algorithms and Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
-* [All Data Structure Concepts \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
+* [All Data Structure Concepts](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
+* [All Sorting algorithms and Programs](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
 * [C++ Full Course \| C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 * [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
@@ -143,8 +143,8 @@
 
 #### Bootstrap
 
+* [Bootstrap](https://www.youtube.com/playlist?list=PLbGui_ZYuhij_HswuaGK-ABs1vfC5HTKn) - GeekyShows
 * [Bootstrap Tutorial](https://youtube.com/playlist?list=PLjVLYmrlmjGciJ5_Ze6jDIfJpEeMYtsSe) - WsCube Tech
-* [Bootstrap Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhij_HswuaGK-ABs1vfC5HTKn) - GeekyShows
 * [Bootstrap Tutorial for Beginners(Hindi)](https://youtube.com/playlist?list=PLgPJX9sVy92wc38jA6JtvkA4l1xmJcKKH) - CS Geeks
 * [Bootstrap Tutorial In Hindi](https://youtube.com/playlist?list=PLdPwRNmUlk0k91-qAXTHFqMScNEuo8E5d) - CODE4EDUCATION
 * [Bootstrap Tutorial In Hindi](https://youtube.com/watch?v=vpAJ0s5S2t0) - CodeWithHarry
@@ -185,7 +185,7 @@
 
 #### Next.js
 
-* [NextJS Tutorial In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
+* [NextJS Tutorial](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
 * [NextJs Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG) - CodeWithHarry
 * [Next JS Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLZjjdd9-SJS2ZvI4ct5Qtkje_Vdb5O_KM) - I live for coding
 * [Next js Tutorial in Hindi](https://www.youtube.com/playlist?list=PLolI8AY2AS9buXWmF0kLeBg6ETST4it1) - Code Improve
@@ -193,8 +193,8 @@
 
 #### Node.js
 
-* [NodejS Tutorial in Hindi 2020](https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) - Vinod Bahadur Thapa (Thapa Technical)
-* [Nodejs in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At) - Code Step by Step
+* [Nodejs Tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At) - Code Step by Step
+* [NodejS Tutorial in Hindi](https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) - Vinod Bahadur Thapa (Thapa Technical)
 * [Nodejs tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNCk_D9VW_zNh60WuQIzo3K) - Tutorials Website
 * [Nodejs tutorial in hindi](https://www.youtube.com/playlist?list=PLgOUQYMnO_SRqPikOJBu5G1ld4bJUZCmy) - truecodex
 
@@ -252,8 +252,8 @@
 
 ### R
 
-* [R Programming](https://www.youtube.com/playlist?list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t) (Tutorials Point (India) Ltd.)
 * [Complete R Programming Tutorial for Beginners to Pro](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF) - WsTech Cube
+* [R Programming](https://www.youtube.com/playlist?list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t) (Tutorials Point (India) Ltd.)
 * [R Programming language hindi](https://www.youtube.com/playlist?list=PLgPJX9sVy92wLyuL-rFgbjqCLgXrpIKnc) - CS Geeks
 * [R Tutorials For Beginners I Basic knowledge of R Language | The PK Tutorial](https://www.youtube.com/playlist?list=PLMf0T7wKM6BwWuh4xIA70s8dL16X3DiYn) - The PK Tutorial
 

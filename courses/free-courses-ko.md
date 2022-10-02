@@ -108,7 +108,7 @@
 
 ### Git
 
-* [GIT1](https://www.opentutorials.org/course/3837) (생활코딩)
+* [GIT1](https://www.opentutorials.org/course/3837) - 생활코딩
 
 
 ### Go

@@ -193,6 +193,9 @@
 #### Node.js
 
 * [NodeJS Tutorial in Hindi 2020](https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) - Vinod Bahadur Thapa (Thapa Technical)
+* [Node.js in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At) - Code Step by Step
+* [Node.js tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNCk_D9VW_zNh60WuQIzo3K)- Tutorials Website
+* [Node.js tutorial in hindi](https://www.youtube.com/playlist?list=PLgOUQYMnO_SRqPikOJBu5G1ld4bJUZCmy)- truecodex
 
 
 #### React
@@ -243,11 +246,16 @@
 #### Flask
 
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
+* [Flask Tutorials for beginners 2020](https://www.youtube.com/playlist?list=PLkPmSWtWNIyQ-_mlHIQho9nCnxdbvnQIl) - Knowledge Shelf
+* [Flask(Python) in Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC)- HindiShiksha
 
 
 ### R
 
 * [R Programming](https://www.youtube.com/playlist?list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t) (Tutorials Point (India) Ltd.)
+* [Complete R Programming Tutorial for Beginners to Pro](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF) - WsTech Cube
+* [R Programming language hindi](https://www.youtube.com/playlist?list=PLgPJX9sVy92wLyuL-rFgbjqCLgXrpIKnc)- CS Geeks
+* [R Programming | In Hindi | R Tutorials For Beginners I Basic knowledge of R Language | The PK Tutorial](https://www.youtube.com/playlist?list=PLMf0T7wKM6BwWuh4xIA70s8dL16X3DiYn) - The PK Tutorial
 
 
 ### Ruby
@@ -258,6 +266,7 @@
 #### Ruby on Rails
 
 * [Ruby on Rails 5 Tutorial(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb) - CS Geeks
+* [Ruby on rails Tutorial in Hindi](https://www.youtube.com/playlist?list=PLWWB_UKBNWcuATKL6_MjSkPOMckEgYpcD) - AJ Technical
 
 
 ### Rust

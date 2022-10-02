@@ -184,6 +184,7 @@
 
 #### Vue.js
 
+* [Vue 3 Cheatsheet for Developers](https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf) - LearnVue (PDF)
 * [Vue Essential Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf) - Vue Mastery (PDF)
 * [Vue.js 2.3 Complete API Cheat Sheet](https://marozed.com/vue-cheatsheet) - Marcos Neves, Marozed (HTML)
 

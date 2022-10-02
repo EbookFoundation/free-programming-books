@@ -111,6 +111,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [React Native](#react-native)
     * [Redux](#redux)
     * [Svelte](#svelte)
+    * [Typescript](#typescript)
     * [Vue.js](#vuejs)
 * [Jenkins](#jenkins)
 * [Julia](#julia)
@@ -1292,6 +1293,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 * [The Svelte Handbook](https://flaviocopes.com/page/svelte-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+
+
+### Typescript
+
+* [TypeScript Notes for Professionals](https://books.goalkicker.com/TypeScriptBook2/)
 
 
 #### Vue.js

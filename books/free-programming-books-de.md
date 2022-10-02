@@ -205,7 +205,6 @@
 
 ### Ruby on Rails
 
-* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) (PDF)
 * [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) - Denny Carl (PDF)
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF)
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/) - Hussein Morsy, Tanja Otto (Online)
@@ -249,6 +248,5 @@
 
 ### Visual Basic
 
-* [Einstieg in Visual Basic 2010](http://openbook.rheinwerk-verlag.de/einstieg_vb_2010) - Thomas Theis (Online)
 * [Einstieg in Visual Basic 2012](http://openbook.rheinwerk-verlag.de/einstieg_vb_2012) - Thomas Theis (Online)
 * [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008) Andreas Kuehnel, Stephan Leibbrandt (Online)

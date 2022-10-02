@@ -839,7 +839,6 @@
 * [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
 * [Berkeley's Structure and Interpretation of Computer Programs](https://cs61a.org)
 * [Codesdope](https://www.codesdope.com/python-introduction)
-* [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Fork Python](https://practice.geeksforgeeks.org/courses/fork-python) (GeeksForGeeks)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)

@@ -424,8 +424,8 @@
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG) - Raghav Pal, Automation Step by Step
 * [Git & GitHub Crash Course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/) - Kalob Taulien (Udemy)
 * [Git & GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk) - FreeCodeCamp (YouTube)
-* [Git and GitHub for Beginners: GitHub basics, and how to use GitHub Desktop](https://youtu.be/GqNAD4XoZ6k) - Kevin Powell (YouTube)
 * [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (The Net Ninja)
+* [Git and GitHub for Beginners: GitHub basics, and how to use GitHub Desktop](https://youtu.be/GqNAD4XoZ6k) - Kevin Powell (YouTube)
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 * [GIT for beginners](https://www.eduonix.com/git-for-beginners) - Maksym Rudnyi (Eduonix Learning Solutions) *(account or email address required)*
 * [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg) - FreeCodeCamp (YouTube)

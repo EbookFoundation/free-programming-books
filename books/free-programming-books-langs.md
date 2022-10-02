@@ -1965,6 +1965,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Kivy
 
+* [Creating Apps In Kivy](https://freepdf-books.com/download/?file=5597#) - Dusty Phillips
 * [Kivy Programming Guide](https://kivy.org/docs/guide-index.html)
 
 

@@ -27,6 +27,7 @@
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
+* [Software Engineering](#software-engineering)
 * [System Design](#system-design)
 
 
@@ -247,6 +248,10 @@
 ### Rust
 
 * [Rust Complete Tutorial In Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
+
+
+### Software Engineering
+* [Software Engineering\| Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2) - Gate Smashers (YouTube)
 
 
 ### System Design

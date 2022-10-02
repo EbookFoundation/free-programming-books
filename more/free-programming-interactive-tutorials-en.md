@@ -1,12 +1,12 @@
 ### Index
 
+* [Ada](#Ada)
 * [APL](#APL)
-* [Ada](#ada)
-* [Android](#android)
+* [Android](#Android)
 * [Artificial Intelligence](#Artificial Intelligence)
 * [Assembly Programming](#Assembly Programming)
 * [AutoIT](#AutoIT)
-* [Bash](#bash)
+* [Bash](#Bash)
 * [Blockchain](#Blockchain)
 * [C](#c)
 * [C#](#csharp)
@@ -15,15 +15,15 @@
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Compilers](#Compilers)
-* [Dart](#dart)
-* [Data Science](#data-science)
-* [Databases](#Data Science)
+* [Dart](#Dart)
+* [Databases](#Databases)
+* [Data Science](#Data Science)
 * [Deep Learning](#Deep learning)
 * [DevOps](#DevOps)
 * [Erlang](#Erlang)
 * [Flutter](#Flutter)
-* [GLSL](#glsl)
 * [Game Development](#Game Development)
+* [GLSL](#GLSL)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -45,8 +45,8 @@
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
-* [NoSQL](#nosql)
 * [Node](#node)
+* [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [Ocaml](#ocaml)
 * [PHP](#php)
@@ -56,7 +56,7 @@
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [SOL](#SQL)
+* [SQL](#SQL)
 * [Scala](#scala)
 * [Selenium](#selenium)
 * [Solidity](#solidity)
@@ -158,7 +158,7 @@
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 
-###Compilers
+### Compilers
 
 * [Compiler Design](https://www.geeksforgeeks.org/introduction-of-compiler-design/)
 * [Introduction](https://www.javatpoint.com/compiler-introduction)
@@ -179,7 +179,7 @@
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
-### DataBases
+### Databases
 
 * [Introduction to Databases - Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/) - C# Corner
 * [Introduction to Databases - Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases) - tutorialspoint

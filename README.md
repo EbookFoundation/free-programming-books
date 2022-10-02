@@ -35,7 +35,8 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 [![GitHub org sponsors](https://img.shields.io/github/sponsors/EbookFoundation?style=flat&logo=github&logoColor=whitesmoke&label=Sponsors)](https://github.com/sponsors/EbookFoundation)&#160;
 [![GitHub repo watchers](https://img.shields.io/github/watchers/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/EbookFoundation/free-programming-books/watchers)&#160;
 [![GitHub repo size](https://img.shields.io/github/repo-size/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/EbookFoundation/free-programming-books/archive/refs/heads/main.zip)
-
+[![Check URLs from changed files](https://github.com/kanishkharde/free-programming-books/actions/workflows/check-urls.yml/badge.svg)](https://github.com/kanishkharde/free-programming-books/actions/workflows/check-urls.yml)
+[![free-programming-books-lint](https://github.com/EbookFoundation/free-programming-books/actions/workflows/fpb-lint.yml/badge.svg)](https://github.com/EbookFoundation/free-programming-books/actions/workflows/fpb-lint.yml)
 </div>
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.

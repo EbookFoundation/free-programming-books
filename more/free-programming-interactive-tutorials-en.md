@@ -484,4 +484,5 @@
 
 ### XML
 
-* [XML Tutorial](https://www.w3schools.com/xml/)
+* [XML Tutorial](https://www.w3schools.com/xml) - W3Schools
+

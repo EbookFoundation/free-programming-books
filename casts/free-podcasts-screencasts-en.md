@@ -4,6 +4,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
+* [Cloud computing](#cloud-computing)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
@@ -58,6 +59,15 @@
 
 * [ClojureScript Podcast](https://clojurescriptpodcast.com) - Jacek Schae (podcast)
 * [Parens of the Dead](http://www.parens-of-the-dead.com) - Magnar Sveen, Elisabeth Irgens (screencast)
+
+
+### Cloud computing
+
+* [CloudSkills.fm](https://cloudskills.fm/) - Mike Pfeiffer (podcast)
+* [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Google Cloud Platform team (podcast)
+* [Microsoft Cloud Show](https://www.microsoftcloudshow.com/) -  Andrew Connell and Chris Johnson (podcast)
+* [On Cloud](https://www2.deloitte.com/us/en/pages/consulting/topics/cloud-podcast.html) - Deloitte US (podcast)
+* [The Cloud Pod](https://www.thecloudpod.net/) - Justin Brodley, Jonathan Baker, Ryan Lucas and Peter Roosakos (podcast)
 
 
 ### Data Science

@@ -372,6 +372,7 @@
 ### DevOps
 
 * [DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) - Kunal Kushwaha
+* [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611) - Udacity
 
 
 ### Docker

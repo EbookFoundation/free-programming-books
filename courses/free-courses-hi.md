@@ -203,13 +203,13 @@
 
 #### Discrete Mathematics
 
-* [Discrete Mathematics (Full Course) By Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg) - Dr. Gajendra Purohit (YouTube)
+* [Discrete Mathematics (Full Course)\| Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg) - Gajendra Purohit (YouTube)
 * [Discrete Mathematics\|Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3) - Gate Smashers (YouTube)
 
 
 #### Probability and Statistics
 
-* [Statistics And Probability\| Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Dr. Gajendra Purohit (YouTube)
+* [Statistics And Probability\| Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit (YouTube)
 
 
 ### PHP

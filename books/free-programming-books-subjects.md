@@ -651,8 +651,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [How to write a simple operating system in assembly language](http://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/) - Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie, et al. (HTML, [PDF, downloads...](https://www.linuxfromscratch.org/lfs/downloads/stable/))
 * [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
-* [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Operating System Concepts](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhcndpbmF6YWJpYW58Z3g6Mzc5ZmVmZGVmM2E0ODhhMw) - PDF
+* [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) - Dominic Giampaolo (PDF)
 * [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](http://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth, Jürg Gutknecht (PDF)

@@ -1328,7 +1328,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Kotlin
 
-* [Kotlin Head First](https://www.pdfdrive.com/download.pdf?id=196919920&h=774e6318fba6d7ab62fe86c91ee433af&u=cache&ext=pdf) (PDF)  
 * [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF) 
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 * [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)

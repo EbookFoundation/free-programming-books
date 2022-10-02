@@ -373,7 +373,7 @@
 * [DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) - Kunal Kushwaha
 
 
-### <a id="digital-electronics"></a> Digital Electronics
+### Digital Electronics
 
 * [Digital Electronics \|Engineering Physics \|Basics of Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) - Neso Academy (YouTube)
 

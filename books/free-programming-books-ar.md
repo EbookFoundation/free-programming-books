@@ -14,7 +14,6 @@
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)

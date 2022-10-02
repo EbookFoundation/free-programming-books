@@ -4,6 +4,7 @@
 * [Android](#android)
 * [Assembly](#assembly)
 * [Bash and Shell](#bash-and-shell)
+* [Blockchain](#blockchain)
 * [C](#c)
 * [C++](#cpp)
 * [Data Structures](#data-structures)
@@ -59,6 +60,12 @@
 * [Bash Basic Commands](https://youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM) - Noob Coders
 * [Bash Shell Scripting (NOOB)](https://youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe) - Noob Coders
 * [shell scripting complete tutorial in hindi](https://youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
+
+
+### Blockchain
+
+* [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0) - Code Eater (YouTube)
+* [Solidity ^0.8 | Blockchain | In Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding (YouTube)
 
 
 ### <a id="c"></a>C

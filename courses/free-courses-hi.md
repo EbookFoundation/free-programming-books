@@ -6,6 +6,7 @@
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
 * [C++](#cpp)
+* [Computer Networks](#computer-networks)
 * [Data Structures](#data-structures)
 * [DevOps](#devops)
 * [Flutter](#flutter)
@@ -81,6 +82,12 @@
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [Complete C++ Placement DSA Course Hindi](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp by Love Babbar
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+
+
+### Computer Networks
+
+* [Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers (YouTube)
+* [Computer Networks\| Knowledge Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd) - Knowledge Gate (YouTube)
 
 
 ### Data Structures

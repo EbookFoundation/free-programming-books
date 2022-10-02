@@ -1,9 +1,9 @@
 ### Index
 
 * [Ada](#Ada)
-* [APL](#APL)
 * [Android](#Android)
 * [Artificial Intelligence](#Artificial Intelligence)
+* [APL](#APL)
 * [Assembly Programming](#Assembly Programming)
 * [AutoIT](#AutoIT)
 * [Bash](#Bash)
@@ -16,15 +16,15 @@
 * [CoffeeScript](#coffeescript)
 * [Compilers](#Compilers)
 * [Dart](#Dart)
-* [Databases](#Databases)
 * [Data Science](#Data Science)
+* [Databases](#Databases)
 * [Deep Learning](#Deep learning)
 * [DevOps](#DevOps)
 * [Erlang](#Erlang)
 * [Flutter](#Flutter)
 * [Game Development](#Game Development)
-* [GLSL](#GLSL)
 * [Git](#git)
+* [GLSL](#GLSL)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
@@ -56,17 +56,10 @@
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [SQL](#SQL)
 * [Scala](#scala)
 * [Selenium](#selenium)
 * [Solidity](#solidity)
-
-
-### APL
-
-* [Complete Tutorial](https://www.microapl.com/apl/tutorial_contents.html) - microapl
-* [Complete Tutorial and theory](https://xpqz.github.io/learnapl/intro.html) - GitHub Pages
-* [Notes](https://luksamuk.codes/pages/learn-apl.html) - luksamuk
+* [SQL](#SQL)
 
 
 ### Ada
@@ -86,6 +79,13 @@
 * [Complete Tutorial](https://www.tutorialspoint.com/artificial_intelligence/index.htm) - tutorialspoint
 * [Simplilearn Video tutorial](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial)
 * [What is Artificial Intelligence?](https://www.britannica.com/technology/artificial-intelligence)
+
+
+### APL
+
+* [Complete Tutorial](https://www.microapl.com/apl/tutorial_contents.html) - microapl
+* [Complete Tutorial and theory](https://xpqz.github.io/learnapl/intro.html) - GitHub Pages
+* [Notes](https://luksamuk.codes/pages/learn-apl.html) - luksamuk
 
 
 ### Assembly Programming
@@ -181,10 +181,10 @@
 
 ### Databases
 
-* [Introduction to Databases - Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/) - C# Corner
-* [Introduction to Databases - Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases) - tutorialspoint
+* [Introduction to Databases-Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/)
+* [Introduction to Databases-Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases)
 
-  
+
 ### Deep Learning
 
 * [Complete Tutorial](https://www.javatpoint.com/deep-learning) - javatpoint
@@ -478,17 +478,6 @@
 * [Rustlings](https://github.com/rust-lang/rustlings)
 
 
-### SQL
-
-* [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
-* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
-* [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
-* [SQL Teaching](https://www.sqlteaching.com)
-* [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
-* [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
-* [SQLBolt](http://sqlbolt.com)
-
-
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
@@ -503,3 +492,14 @@
 ### Solidity
 
 * [CryptoZombies.io](https://cryptozombies.io) - Loom Network
+
+
+### SQL
+
+* [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
+* [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
+* [SQL Teaching](https://www.sqlteaching.com)
+* [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
+* [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
+* [SQLBolt](http://sqlbolt.com)

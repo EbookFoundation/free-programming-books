@@ -15,7 +15,7 @@
 
 ### <a id="csharp"></a>C\#
 
-* [บทเรียนภาษา C#](http://marcuscode.com/lang/csharp) - ภาษา C# MarcusCode
+* [บทเรียนภาษา C#](http://marcuscode.com/lang/csharp) - MarcusCode
 
 
 ### Go

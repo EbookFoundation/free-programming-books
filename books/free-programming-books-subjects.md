@@ -617,6 +617,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
+* [University Computer Networks](https://drive.google.com/file/d/1OZSdFNgaRG3fsl83PtaerltyD2JLAmLO/edit) - Maulik Trivedi (PDF)
 
 
 ### Open Source Ecosystem

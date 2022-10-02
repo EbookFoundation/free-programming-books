@@ -100,7 +100,6 @@
 
 ### Docker
 
-* [Katakoda](https://www.katacoda.com/courses/docker/playground)
 * [Play with Docker](https://labs.play-with-docker.com)
 
 
@@ -144,6 +143,7 @@
 * [Dabblet](https://dabblet.com)
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [SoloLearn](https://code.sololearn.com/web#css)
+* [Tailwind Play](https://play.tailwindcss.com)
 
 
 ### Ionic
@@ -191,7 +191,6 @@
 
 ### Kubernetes
 
-* [Katakoda](https://www.katacoda.com/courses/kubernetes/playground)
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 

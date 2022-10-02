@@ -169,7 +169,7 @@
 
 ### MongoDB
 
-* [Bengali MongoDB Course Tutorial](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt) - Foyzul Karim
+* [Mastering MongoDB](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt) - Foyzul Karim
 
 
 ### MySQL

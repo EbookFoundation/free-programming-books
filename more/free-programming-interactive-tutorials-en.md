@@ -2,11 +2,11 @@
 
 * [Ada](#ada)
 * [Android](#android)
-* [Artificial Intelligence](#Artificial Intelligence)
-* [Assembly Programming](#Assembly Programming)
-* [AutoIT](#AutoIT)
+* [Artificial Intelligence](#artificial-intelligence)
+* [Assembly Programming](#assembly-programming)
+* [AutoIT](#autoit)
 * [Bash](#bash)
-* [Blockchain](#Blockchain)
+* [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -15,12 +15,12 @@
 * [CoffeeScript](#coffeescript)
 * [Compilers](#Compilers)
 * [Dart](#dart)
-* [Data Science](#Data Science)
-* [Deep Learning](#Deep learning)
-* [Databases](#Databases)
-* [DevOps](#DevOps)
-* [Erlang](#Erlang)
-* [Flutter](#Flutter)
+* [Databases](#databases)
+* [Data Science](#data-science)
+* [Deep Learning](#deep-learning)
+* [DevOps](#devops)
+* [Erlang](#erlang)
+* [Flutter](#flutter)
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
@@ -31,10 +31,10 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
-    * [D3](#D3.js)
-    * [Electron](#Electron,js)
+    * [D3](#d3)
+    * [Electron](#electron)
     * [jQuery](#jquery)
-    * [Next](#Next.js)
+    * [Next](#next)
     * [React](#react)
     * [Redux](#redux)
 * [Kotlin](#kotlin)
@@ -57,7 +57,8 @@
 * [Scala](#scala)
 * [Selenium](#selenium)
 * [Solidity](#solidity)
-* [SOL](#SQL)
+* [SOL](#sql)
+* [XML](#xml)
 
 
 ### Ada
@@ -69,14 +70,6 @@
 
 * [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
 * [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
-
-
-### Artificial Intelligence
-
-* [Complete Tutorial](https://www.javatpoint.com/artificial-intelligence-tutorial) - javaTpoint
-* [Complete Tutorial](https://www.tutorialspoint.com/artificial_intelligence/index.htm) - tutorialspoint
-* [Simplilearn Video tutorial](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial)
-* [What is Artificial Intelligence?](https://www.britannica.com/technology/artificial-intelligence)
 
 
 ### Assembly Programming
@@ -161,6 +154,12 @@
 * [Tutorials](https://dart.dev/tutorials) - official docs
 
 
+### Databases
+
+* [Introduction to Databases - Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/) - C# Corner
+* [Introduction to Databases - Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases) - tutorialspoint
+
+
 ### Data Science
 
 * [Beginner to Advance Data Science Tutorial](https://www.javatpoint.com/data-science)
@@ -175,12 +174,6 @@
 * [Complete Tutorial](https://www.javatpoint.com/deep-learning) - javatpoint
 * [Theory Explanation and guide](https://www.geeksforgeeks.org/introduction-deep-learning/)
 * [Video Tutorial](https://www.simplilearn.com/tutorials/deep-learning-tutorial/introduction-to-deep-learning) - Simplilearn
-
-
-### Databases
-
-* [Introduction to Databases - Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/) - C# Corner
-* [Introduction to Databases - Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases) - tutorialspoint
 
 
 ### DevOps
@@ -281,7 +274,6 @@
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
-* [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
 * [JavaScript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
@@ -306,14 +298,14 @@
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 
 
-#### D3.js
+#### D3
 
 * [Data Visualization for beginners](https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/)
 * [Tutorial](https://www.tutorialspoint.com/d3js/index.htm)
 * [Tutorial](https://www.w3schools.com/js/js_graphics_d3js.asp) - W3Schools
 
 
-#### Electron.js
+#### Electron
 
 * [A beginner's guide](https://medium.com/@voltx180/a-beginners-guide-to-electron-js-1679fd7b6e4f)
 * [Tutorial](https://www.electronjs.org/docs/latest/tutorial/quick-start/ )
@@ -325,7 +317,7 @@
 * [jQuery Tutorial](https://www.w3schools.com/jquery/) - W3Schools
 
 
-#### Next.js
+#### Next
 
 * [Introduction](https://nextjs.org/learn/foundations/about-nextjs)
 * [Tutorial](https://www.tutorialspoint.com/nextjs/index.htm)
@@ -391,7 +383,7 @@
 * [Tutorial](https://www.w3schools.com/nodejs)
 
 
-### No SQL
+### NoSQL
 
 * [An Introduction](https://www.geeksforgeeks.org/introduction-to-nosql/)
 * [Tutorial](https://www.tutorialspoint.com/NoSQL-Databases)
@@ -488,3 +480,8 @@
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
 * [SQLBolt](http://sqlbolt.com)
+
+
+### XML
+
+* [XML Tutorial](https://www.w3schools.com/xml/)

@@ -11,6 +11,7 @@ rithms)
 * [DevOps](#devops)
 * [Flutter](#flutter)
 * [Git and GitHub](#git-and-github)
+* [Golang](#go)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [Java](#java)
@@ -28,7 +29,6 @@ rithms)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
-* [Golang](#go)
 
 
 ### Algorithms

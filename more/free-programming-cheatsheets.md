@@ -16,9 +16,9 @@
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
     * [Nest.js](#nestjs)
+    * [Next.js](#nextjs)
     * [Nuxt.js](#nuxtjs)
     * [React.js](#reactjs)
-    * [Next.js](#nextjs)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
@@ -173,6 +173,11 @@
 * [Nest.js CheatSheet](https://gist.github.com/guiliredu/0aa9e4d338bbeeac369a597e87c9ba46) (GitHub Gist)
 
 
+#### Next.js
+
+* [Ultimate Next.js Handbook](https://thevalleyofcode.pages.dev/next-handbook.pdf) - The Valley of Code (PDF)
+
+
 #### Nuxt.js
 
 * [Nuxt.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf) - Vue Mastery (PDF)
@@ -182,11 +187,6 @@
 
 * [React Cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) - Codecademy (HTML)
 * [Ultimate React.js Cheat Sheet](https://upmostly.com/ultimate-reactjs-cheat-sheet) - Upmostly.com (HTML)
-
-
-#### Next.js
-
-* [Ultimate Next.js Handbook](https://thevalleyofcode.pages.dev/next-handbook.pdf) - The Valley of Code (PDF)
 
 
 #### Vue.js

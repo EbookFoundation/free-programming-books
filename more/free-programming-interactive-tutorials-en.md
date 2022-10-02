@@ -1,10 +1,9 @@
 ### Index
 
 * [Ada](#Ada)
-* [Artificial Intelligence](#Artificial Intelligence)
 * [Android](#Android)
+* [Artificial Intelligence](#Artificial Intelligence)
 * [Assembly Programming](#Assembly Programming)
-* [APL](#APL)
 * [AutoIT](#AutoIT)
 * [Bash](#Bash)
 * [Blockchain](#Blockchain)
@@ -15,13 +14,12 @@
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Compilers](#Compilers)
-* [Data Science](#Data Science)
 * [Dart](#Dart)
+* [Data Science](#Data Science)
 * [Deep Learning](#Deep learning)
 * [Databases](#Databases)
 * [DevOps](#DevOps)
 * [Erlang](#Erlang)
-* [Game Development](#Game Development)
 * [Flutter](#Flutter)
 * [Git](#git)
 * [GLSL](#GLSL)
@@ -79,13 +77,6 @@
 * [Complete Tutorial](https://www.tutorialspoint.com/artificial_intelligence/index.htm) - tutorialspoint
 * [Simplilearn Video tutorial](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial)
 * [What is Artificial Intelligence?](https://www.britannica.com/technology/artificial-intelligence)
-
-
-### APL
-
-* [Complete Tutorial](https://www.microapl.com/apl/tutorial_contents.html) - microapl
-* [Complete Tutorial and theory](https://xpqz.github.io/learnapl/intro.html) - GitHub Pages
-* [Notes](https://luksamuk.codes/pages/learn-apl.html) - luksamuk
 
 
 ### Assembly Programming
@@ -179,17 +170,17 @@
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
-### Databases
-
-* [Introduction to Databases-Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/)
-* [Introduction to Databases-Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases)
-
-
 ### Deep Learning
 
 * [Complete Tutorial](https://www.javatpoint.com/deep-learning) - javatpoint
 * [Theory Explanation and guide](https://www.geeksforgeeks.org/introduction-deep-learning/)
 * [Video Tutorial](https://www.simplilearn.com/tutorials/deep-learning-tutorial/introduction-to-deep-learning) - Simplilearn
+
+
+### Databases
+
+* [Introduction to Databases-Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/)
+* [Introduction to Databases-Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases)
 
 
 ### DevOps
@@ -213,18 +204,6 @@
 * [Tutorial](https://docs.flutter.dev/reference/tutorials) - Flutter Official Docs
 
 
-### GLSL
-
-* [The Book of Shaders](https://thebookofshaders.com)
-
-
-### Game Development
-
-* [Beginner friendly projects](https://www.skyfilabs.com/project-ideas/latest-projects-based-on-game-development)
-* [Introduction](https://www.c-sharpcorner.com/article/game-development-an-introduction/) - C# Corner
-* [Roadmap](https://www.codelivly.com/game-development-roadmap-2022)
-
-
 ### Git
 
 * [git-game](https://github.com/git-game/git-game)
@@ -235,6 +214,11 @@
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3) - Wei Wang
+
+
+### GLSL
+
+* [The Book of Shaders](https://thebookofshaders.com)
 
 
 ### Go

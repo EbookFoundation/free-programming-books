@@ -85,15 +85,15 @@
 
 ### Data Structures
 
-* [2-D Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH) - Pepcoding
+* [2D Arrays Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH) - Pepcoding
 * [All Data Structure Concepts \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
 * [All Sorting algorithms and Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
 * [C++ Full Course \| C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 * [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [Data Structure Lectures in Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AtcnX8uPrdjvCplAmwTSFhMO) - University Academy
-* [Data Structures ( DS ) - HINDI](https://www.youtube.com/playlist?list=PLfc1-isKPs7ID3nuYbLZEFjCNQVkmuJPA)- Education 4u Hindi
-* [Data Structures and Algorithm With JavaScript in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7)- Code Step by Step
+* [Data Structures ( DS ) - HINDI](https://www.youtube.com/playlist?list=PLfc1-isKPs7ID3nuYbLZEFjCNQVkmuJPA) - Education 4u - Hindi
+* [Data Structures and Algorithm With JavaScript in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7) - Code Step By Step
 * [DSA-One Course- The Complete Data Structure and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) - Anuj Bhaiya (YouTube)
 * [Dynamic Programming Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
 * [Dynamic Programming Workshop](https://www.youtube.com/playlist?list=PLqf9emQRQrnKA_EeveiXQj_uP25w8_5qL) - Vivek Gupta
@@ -116,11 +116,11 @@
 * [30DaysOfFlutter](https://www.youtube.com/playlist?list=PLrjrqTcKCnhTXI2GyPkaQF47inLp6LoIC) - Codepur
 * [Complete Flutter Tutorial In Hindi By Desi Programmer](https://youtube.com/playlist?list=PLlFwzkUNmr94BF0KH7BYPL7DsZjhJRdTm) - Desi Programmer
 * [Flutter 3 tutorial in Hindi](https://youtube.com/playlist?list=PLB97yPrFwo5g-XcPlfSXSOeeby23jVAcp) - CODERS NEVER QUIT
-* [Flutter Complete Tutorial in Hindi (Beginner to Advanced Level)](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E)- WsCube Tech
-* [Flutter for Beginners in Hindi | 2022](https://www.youtube.com/playlist?list=PLCcj7eWENylKsG04GMo9McTp5BwIGCcia)- Fly Deck
+* [Flutter Complete Tutorial in Hindi (Beginner to Advanced Level)](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E) - WsCube Tech
+* [Flutter for Beginners in Hindi | 2022](https://www.youtube.com/playlist?list=PLCcj7eWENylKsG04GMo9McTp5BwIGCcia) - Fly Deck
 * [Flutter Tutorial For Beginners in Hindi](https://youtube.com/playlist?list=PLMkkZSS5OjPIwDyHHKVex6zr008U1-sWM) - Geeks Rank
 * [Flutter Tutorial(Hindi)](https://www.youtube.com/playlist?list=PLl_dQHtSKOoC1-VlqoAIVMYbCncmGzO5e) - Developer Ajit
-* [Learn Flutter in Hindi](https://www.youtube.com/playlist?list=PLWCLxMult9xeI3LwrZ6yHCg2kAF3dZoWi)- Programming With Vishal
+* [Learn Flutter in Hindi](https://www.youtube.com/playlist?list=PLWCLxMult9xeI3LwrZ6yHCg2kAF3dZoWi) - Programming With Vishal
 
 
 ### Git and GitHub
@@ -134,8 +134,8 @@
 
 ### HTML and CSS
 
-* [HTML CSS & Browser APIs](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC) - Pepcoding
-* [HTML and CSS Tutorial in Hindi](https://www.youtube.com/playlist?list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB)- Harshit Vashishth
+* [HTML CSS and Browser APIs](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC) - Pepcoding
+* [HTML and CSS Tutorial in Hindi](https://www.youtube.com/playlist?list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB) - Harshit Vashishth
 * [HTML and CSS Tutorial in HINDI (Learn to Design Website)](https://www.youtube.com/playlist?list=PLjpp5kBQLNTSdLVVjU_kea8J8lP24ZseT) - Tech Gun
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 * [Web Development Tutorials for Beginners in Hindi: HTML, CSS, JavaScript and more](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - CodeWithHarry
@@ -143,14 +143,14 @@
 
 #### Bootstrap
 
-* [Bootstrap 3 Tutorial](https://youtube.com/playlist?list=PLjVLYmrlmjGciJ5_Ze6jDIfJpEeMYtsSe) - WsCube Tech
-* [Bootstrap(Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhij_HswuaGK-ABs1vfC5HTKn) - GeekyShows
+* [Bootstrap (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhij_HswuaGK-ABs1vfC5HTKn) - GeekyShows
+* [Bootstrap Tutorial](https://youtube.com/playlist?list=PLjVLYmrlmjGciJ5_Ze6jDIfJpEeMYtsSe) - WsCube Tech
 * [Bootstrap Tutorial for Beginners(Hindi)](https://youtube.com/playlist?list=PLgPJX9sVy92wc38jA6JtvkA4l1xmJcKKH) - CS Geeks
 * [Bootstrap Tutorial In Hindi](https://youtube.com/playlist?list=PLdPwRNmUlk0k91-qAXTHFqMScNEuo8E5d) - CODE4EDUCATION
 * [Bootstrap Tutorial In Hindi](https://youtube.com/watch?v=vpAJ0s5S2t0) - CodeWithHarry
 * [Bootstrap tutorial in Hindi \| Best Course](https://youtube.com/playlist?list=PL7akPJI4biSIQmT7fSHWoMRaNUcRbXHFN) - CodinGyaan
 * [Bootstrap Tutorial in Hindi With 2 Projects for Beginners \| Complete Bootstrap 5 Tutorial in Hindi](https://youtube.com/watch?v=QE5oQh63gGE) - Tech Gun
-* [Bootstrap Tutorial for beginners in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG)- Yahoo Baba
+* [Bootstrap Tutorial for beginners in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG) - Yahoo Baba
 
 
 ### Java
@@ -180,12 +180,12 @@
 * [jQuery Tutorial for beginners in Hindi 2020](https://youtube.com/playlist?list=PL-6FWL4WVVWXmWe_HnPG0rBQmmJfGsTKS) - CSEtutorials
 * [jQuery Tutorial in Hindi](https://youtube.com/playlist?list=PLvQjNLQMdagPRDnMQPMs5-vQL_IyAB0St) - Teaching Web
 * [jQuery Tutorials in Hindi 2018](https://youtube.com/playlist?list=PLwGdqUZWnOp0X4dVwSsEd6dV49TLLCooI) - Vinod Bahadur Thapa (Thapa Technical)
-* [jQuery Video Course ](https://www.youtube.com/playlist?list=PLPAcs2twrK5_FzWMttkbTuM0dB5A-ni-Q)- w3webschool.net
+* [jQuery Video Course ](https://www.youtube.com/playlist?list=PLPAcs2twrK5_FzWMttkbTuM0dB5A-ni-Q) - w3webschool.net
 
 
 #### Next.js
 
-* [Next.js Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG) - CodeWithHarry
+* [NextJs Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG) - CodeWithHarry
 * [NextJS Tutorial In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
 * [Next JS Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLZjjdd9-SJS2ZvI4ct5Qtkje_Vdb5O_KM) - I live for coding
 * [Next js Tutorial in Hindi](https://www.youtube.com/playlist?list=PLolI8AY2AS9buXWmF0kLeBg6ETST4it1) - Code Improve
@@ -193,10 +193,10 @@
 
 #### Node.js
 
-* [Node.js in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At) - Code Step by Step
+* [Nodejs in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At) - Code Step by Step
 * [NodeJS Tutorial in Hindi 2020](https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) - Vinod Bahadur Thapa (Thapa Technical)
-* [Node.js tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNCk_D9VW_zNh60WuQIzo3K)- Tutorials Website
-* [Node.js tutorial in hindi](https://www.youtube.com/playlist?list=PLgOUQYMnO_SRqPikOJBu5G1ld4bJUZCmy)- truecodex
+* [Nodejs tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNCk_D9VW_zNh60WuQIzo3K) - Tutorials Website
+* [Nodejs tutorial in hindi](https://www.youtube.com/playlist?list=PLgOUQYMnO_SRqPikOJBu5G1ld4bJUZCmy) - truecodex
 
 
 #### React
@@ -246,15 +246,15 @@
 #### Flask
 
 * [Flask Tutorials for beginners 2020](https://www.youtube.com/playlist?list=PLkPmSWtWNIyQ-_mlHIQho9nCnxdbvnQIl) - Knowledge Shelf
-* [Flask(Python) in Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC)- HindiShiksha
+* [Flask(Python) in Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC) - HindiShiksha
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
 
 
 ### R
 
-* [R Programming](https://www.youtube.com/playlist?list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t) (Tutorials Point (India) Ltd.)
 * [Complete R Programming Tutorial for Beginners to Pro](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF) - WsTech Cube
-* [R Programming language hindi](https://www.youtube.com/playlist?list=PLgPJX9sVy92wLyuL-rFgbjqCLgXrpIKnc)- CS Geeks
+* [R Programming](https://www.youtube.com/playlist?list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t) (Tutorials Point (India) Ltd.)
+* [R Programming language hindi](https://www.youtube.com/playlist?list=PLgPJX9sVy92wLyuL-rFgbjqCLgXrpIKnc) - CS Geeks
 * [R Programming | In Hindi | R Tutorials For Beginners I Basic knowledge of R Language | The PK Tutorial](https://www.youtube.com/playlist?list=PLMf0T7wKM6BwWuh4xIA70s8dL16X3DiYn) - The PK Tutorial
 
 

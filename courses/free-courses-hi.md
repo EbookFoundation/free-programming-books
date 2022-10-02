@@ -5,6 +5,7 @@
 * [Assembly](#assembly)
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Data Structures](#data-structures)
 * [DevOps](#devops)
@@ -67,6 +68,13 @@
 * [C Language Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - CodeWithHarry
 * [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - CodeWithHarry
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l) - Vikas Pandey, easytuts4you
+
+
+### <a id="csharp"></a>C\#
+
+* [C# PROGRAMMING LANGUAGE (CONSOLE APPLICATIONS)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - 
+Learning Never Ends (YouTube)
+* [C# Tutorial In Hindi\| CodeWithHarry](https://www.youtube.com/watch?v=SuLiu5AK9Ps) - CodeWithHarry (YouTube)
 
 
 ### <a id="cpp"></a>C++

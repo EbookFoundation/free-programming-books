@@ -101,11 +101,6 @@
 * [تعلم البرمجة بلغة PHP](http://librebooks.org/learn-programming-with-php/)
 
 
-#### Symfony
-
-* [سيمفوني 5 : المسار السريع](https://symfony.com/doc/5.0/the-fast-track/ar/index.html)
-
-
 ### Python
 
 * [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)

@@ -2,6 +2,7 @@
 
 * [Ada](#Ada)
 * [Android](#Android)
+* [Artificial Intelligence](#Artificial Intelligence)
 * [Assembly Programming](#Assembly Programming)
 * [AutoIT](#AutoIT)
 * [Bash](#Bash)
@@ -13,6 +14,7 @@
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Compilers](#Compilers)
+* [Dart](#Dart)
 * [Data Science](#Data Science)
 * [Deep Learning](#Deep learning)
 * [Databases](#Databases)
@@ -67,6 +69,14 @@
 
 * [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
 * [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
+
+
+### Artificial Intelligence
+
+* [Complete Tutorial](https://www.javatpoint.com/artificial-intelligence-tutorial) - javaTpoint
+* [Complete Tutorial](https://www.tutorialspoint.com/artificial_intelligence/index.htm) - tutorialspoint
+* [Simplilearn Video tutorial](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial)
+* [What is Artificial Intelligence?](https://www.britannica.com/technology/artificial-intelligence)
 
 
 ### Assembly Programming
@@ -143,6 +153,12 @@
 
 * [Compiler Design](https://www.geeksforgeeks.org/introduction-of-compiler-design/)
 * [Introduction](https://www.javatpoint.com/compiler-introduction)
+
+
+### Dart
+
+* [Dart Official Codelabs](https://dart.dev/codelabs) - Dart
+* [Tutorials](https://dart.dev/tutorials) - official docs
 
 
 ### Data Science

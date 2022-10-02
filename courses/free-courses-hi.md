@@ -201,7 +201,6 @@
 
 ### Mathematics
 
-
 #### Discrete Mathematics
 
 * [Discrete Mathematics (Full Course) By Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg) - Dr. Gajendra Purohit (YouTube)

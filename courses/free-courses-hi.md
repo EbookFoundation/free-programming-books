@@ -193,7 +193,7 @@
 ### Linux
 
 * [Linux Tutorial For Beginners in Hindi](https://www.youtube.com/watch?v=_tCY-c-sPZc) - CodeWithHarry (YouTube)
-
+* [Linux Full Course (Beginner to Advanced) \| Learn Linux in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcsZGJWeo8ec4yIBLX2KeyR) - WsCube Tech (YouTube)
 
 ### Machine Learning
 

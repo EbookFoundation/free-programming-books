@@ -1,6 +1,7 @@
 ### Index
 
 * [Algorithms](#algorithms)
+* [Data Science](#data-science)
 * [C](#c)
 * [Go](#go)
 * [Java](#java)
@@ -18,6 +19,11 @@
 ### C
 
 * [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](https://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
+
+
+### Data Science
+
+* [ডাটা সাইন্সের হাতেখড়ি](https://datasinsightsbd.gitbook.io) - Fazle Rabbi Khan (gitbook)
 
 
 ### Go

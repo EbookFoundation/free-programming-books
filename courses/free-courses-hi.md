@@ -18,7 +18,7 @@
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
-* [Kotlin](#Kotlin)
+* [Kotlin](#kotlin)
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [Python](#python)

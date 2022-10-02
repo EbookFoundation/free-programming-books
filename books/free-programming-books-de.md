@@ -69,6 +69,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [Einführung in das Programmieren mit C#](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/c) - Bernhard Baltes-Götz (PDF)
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)
 

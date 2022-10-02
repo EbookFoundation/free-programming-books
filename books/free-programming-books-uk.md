@@ -1,6 +1,6 @@
 ### Index
 
-* [C and C++](#c-and-c++)
+* [C and C++](#c-and-cpp)
 * [ClosureScript](#clojurescript)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
@@ -14,7 +14,7 @@
 * [Ruby](#ruby)
 
 
-### C and C++
+### <a id="c-and-cpp"></a>C and C++
 
 * [С/C++ Теорія та практика](https://shron1.chtyvo.org.ua/Voitenko_Volodymyr C_Cpp_Teoriia_ta_praktyka.pdf) - Володимир Войтенко
 

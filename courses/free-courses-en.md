@@ -334,7 +334,6 @@
 
 #### SQL
 
-* [Intro to SQL by Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 * [Introduction to Database Queries](https://www.edx.org/course/introduction-to-database-queries) - Aspen Olmsted (edX New York University)
 * [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - Rakesh Gopalakrishnan (Udemy)
 * [Learn SQL](https://popsql.com/learn-sql) - PopSQL

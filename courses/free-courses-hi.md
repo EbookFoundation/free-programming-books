@@ -18,6 +18,7 @@
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
+* [Kotlin](#kotlin)
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [Python](#python)
@@ -189,6 +190,11 @@
 * [React Tutorial in Hindi](https://www.youtube.com/watch?v=RGKi6LSPDLU) - CodeWithHarry
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
 * [ReactJS Tutorials for Beginners In Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
+
+
+### Kotlin
+
+* [Kotlin Programming Complete in one Video (Hindi)](https://www.youtube.com/watch?v=uoP4JKHgzDE) - Geeky Shows, `tch.:` Rajesh Kumar
 
 
 ### Machine Learning

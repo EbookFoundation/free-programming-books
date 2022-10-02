@@ -1,6 +1,5 @@
 ### Index
 
-* [APL](#APL)
 * [Ada](#ada)
 * [Android](#android)
 * [Artificial Intelligence](#Artificial Intelligence)
@@ -16,15 +15,14 @@
 * [CoffeeScript](#coffeescript)
 * [Compilers](#Compilers)
 * [Dart](#dart)
-* [Data Science](#data-science)
-* [Databases](#Data Science)
+* [Data Science](#Data Science)
 * [Deep Learning](#Deep learning)
+* [Databases](#Databases)
 * [DevOps](#DevOps)
 * [Erlang](#Erlang)
 * [Flutter](#Flutter)
-* [GLSL](#glsl)
-* [Game Development](#Game Development)
 * [Git](#git)
+* [GLSL](#glsl)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
@@ -45,8 +43,8 @@
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
-* [NoSQL](#nosql)
 * [Node](#node)
+* [NoSQL](#nosql)
 * [Objective-C](#objective-c)
 * [Ocaml](#ocaml)
 * [PHP](#php)
@@ -56,17 +54,10 @@
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [SOL](#SQL)
 * [Scala](#scala)
 * [Selenium](#selenium)
 * [Solidity](#solidity)
-
-
-### APL
-
-* [Complete Tutorial](https://www.microapl.com/apl/tutorial_contents.html) - microapl
-* [Complete Tutorial and theory](https://xpqz.github.io/learnapl/intro.html) - GitHub Pages
-* [Notes](https://luksamuk.codes/pages/learn-apl.html) - luksamuk
+* [SOL](#SQL)
 
 
 ### Ada
@@ -179,17 +170,17 @@
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
-### DataBases
-
-* [Introduction to Databases - Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/) - C# Corner
-* [Introduction to Databases - Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases) - tutorialspoint
-
-  
 ### Deep Learning
 
 * [Complete Tutorial](https://www.javatpoint.com/deep-learning) - javatpoint
 * [Theory Explanation and guide](https://www.geeksforgeeks.org/introduction-deep-learning/)
 * [Video Tutorial](https://www.simplilearn.com/tutorials/deep-learning-tutorial/introduction-to-deep-learning) - Simplilearn
+
+
+### Databases
+
+* [Introduction to Databases - Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/) - C# Corner
+* [Introduction to Databases - Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases) - tutorialspoint
 
 
 ### DevOps
@@ -213,18 +204,6 @@
 * [Tutorial](https://docs.flutter.dev/reference/tutorials) - Flutter Official Docs
 
 
-### GLSL
-
-* [The Book of Shaders](https://thebookofshaders.com)
-
-
-### Game Development
-
-* [Beginner friendly projects](https://www.skyfilabs.com/project-ideas/latest-projects-based-on-game-development)
-* [Introduction](https://www.c-sharpcorner.com/article/game-development-an-introduction/) - C# Corner
-* [Roadmap](https://www.codelivly.com/game-development-roadmap-2022)
-
-
 ### Git
 
 * [git-game](https://github.com/git-game/git-game)
@@ -235,6 +214,11 @@
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3) - Wei Wang
+
+
+### GLSL
+
+* [The Book of Shaders](https://thebookofshaders.com)
 
 
 ### Go
@@ -397,12 +381,6 @@
 * [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
 
 
-### No SQL
-
-* [An Introduction](https://www.geeksforgeeks.org/introduction-to-nosql/)
-* [Tutorial](https://www.tutorialspoint.com/NoSQL-Databases)
-
-
 ### Node
 
 * [Beginner's guide](https://www.geeksforgeeks.org/introduction-to-node-js)
@@ -411,6 +389,12 @@
 * [Node.js Tutorial](https://www.tutlane.com/tutorial/nodejs) - tutlane
 * [Node.js Tutorial](https://www.w3schools.com/nodejs) - W3Schools
 * [Tutorial](https://www.w3schools.com/nodejs)
+
+
+### No SQL
+
+* [An Introduction](https://www.geeksforgeeks.org/introduction-to-nosql/)
+* [Tutorial](https://www.tutorialspoint.com/NoSQL-Databases)
 
 
 ### Objective-C
@@ -479,17 +463,6 @@
 * [Rustlings](https://github.com/rust-lang/rustlings)
 
 
-### SQL
-
-* [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
-* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
-* [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
-* [SQL Teaching](https://www.sqlteaching.com)
-* [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
-* [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
-* [SQLBolt](http://sqlbolt.com)
-
-
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
@@ -504,3 +477,14 @@
 ### Solidity
 
 * [CryptoZombies.io](https://cryptozombies.io) - Loom Network
+
+
+### SQL
+
+* [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
+* [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
+* [SQL Teaching](https://www.sqlteaching.com)
+* [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
+* [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
+* [SQLBolt](http://sqlbolt.com)

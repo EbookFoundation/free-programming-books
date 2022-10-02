@@ -637,7 +637,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### DBMS
 
 * [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
-
+* [Fundamentals of Database Systems](https://amirsmvt.github.io/Database/Static_files/Fundamental_of_Database_Systems.pdf)
 
 ### Delphi / Pascal
 
@@ -1328,6 +1328,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Kotlin
 
+* [Head First Kotlin: – A Brain-Friendly Guide](https://ebin.pub/qdownload/head-first-kotlin-a-brain-friendly-guide-1nbsped-1491996692-9781491996690.html)
+* [Kotlin in Action](https://github.com/cjnhust/ebook_collection/blob/master/Kotlin%20in%20Action.pdf) - Svetlana Isakova
 * [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF)
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 * [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
@@ -1523,6 +1525,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### MySQL
 
 * [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
+* [MySQL Connector/Python Revealed](https://vdoc.pub/download/mysql-connector-python-revealed-c01kccmeaqm0) - PDF, DOCX, PPTX
 * [MySQL Notes for Professionals](https://goalkicker.com/MySQLBook/) - Compiled from StackOverflow Documentation (PDF)
 
 
@@ -1762,6 +1765,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Creating HTML Reports in PowerShell](https://leanpub.com/creatinghtmlreportsinwindowspowershell/read) - The DevOps Collective Inc. (HTML)
 * [DevOps: The Ops Perspective](https://leanpub.com/devopstheopsperspective/read) - The DevOps Collective Inc. (HTML)
 * [Ditch Excel: Making Historical & Trend Reports in PowerShell](https://leanpub.com/ditchexcelmakinghistoricalandtrendreportsinpowershell/read) - The DevOps Collective Inc. (HTML)
+* [Effective Windows Powershell](https://onedrive.live.com/?authkey=%21AJdUaNzW7L9yC18&cid=5A8D2641E0963A97&id=5A8D2641E0963A97%216929&parId=5A8D2641E0963A97%21832&o=OneUp) - PDF
 * [Layman’s Guide to PowerShell 2.0 remoting](https://ravichaganti.com/ebooks/AlaymansguidetoPowerShell2remotingv2.pdf) (PDF)
 * [Learn PowerShell Core 6.0](https://www.packtpub.com/free-ebooks/learn-powershell-core-60) - David das Neves, Jan-Hendrik Peters (Packt account *required*)
 * [Learn PowerShell in Y Minutes](https://learnxinyminutes.com/docs/powershell/)
@@ -1769,6 +1773,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell](https://leanpub.com/powershell101) - Mike F. Robbins *(Leanpub account or valid email requested)*
 * [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 * [PowerShell Notes for Professionals](http://goalkicker.com/PowerShellBook/) - Compiled from StackOverflow documentation (PDF)
+* [PowerShell Official Documentation](https://learn.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.2) - Microsoft Learn
 * [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) (email address *requested*, not required)
 * [Secrets of PowerShell Remoting](https://leanpub.com/secretsofpowershellremoting/read) - The DevOps Collective Inc. (HTML)
 * [The Big Book of PowerShell Error Handling](https://leanpub.com/thebigbookofpowershellerrorhandling/read) - The DevOps Collective Inc. (HTML)

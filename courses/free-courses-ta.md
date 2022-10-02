@@ -9,6 +9,7 @@
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [Python](#python)
+* [SQL](#sql)
 
 
 ### Android
@@ -60,3 +61,8 @@
 
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
+
+
+### SQL
+
+* [SQL in Tamil for Beginners](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUBh28ZT2i-jH7kBkTfB_W2) - Logic First Tamil

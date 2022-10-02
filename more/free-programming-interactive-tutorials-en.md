@@ -1,8 +1,8 @@
 ### Index
 
+* [APL](#APL)
 * [Ada](#ada)
 * [Android](#android)
-* [APL](#APL)
 * [Artificial Intelligence](#Artificial Intelligence)
 * [Assembly Programming](#Assembly Programming)
 * [AutoIT](#AutoIT)
@@ -16,17 +16,15 @@
 * [CoffeeScript](#coffeescript)
 * [Compilers](#Compilers)
 * [Dart](#dart)
-* [Databases](#Data Science)
-    * [No SQL](#No SQL)
-    * [SQL](SQL)
 * [Data Science](#data-science)
+* [Databases](#Data Science)
 * [Deep Learning](#Deep learning)
 * [DevOps](#DevOps)
 * [Erlang](#Erlang)
 * [Flutter](#Flutter)
+* [GLSL](#glsl)
 * [Game Development](#Game Development)
 * [Git](#git)
-* [GLSL](#glsl)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
@@ -35,7 +33,10 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
+    * [D3](#D3.js)
+    * [Electron](#Electron,js)
     * [jQuery](#jquery)
+    * [Next](#Next.js)
     * [React](#react)
     * [Redux](#redux)
 * [Kotlin](#kotlin)
@@ -44,8 +45,8 @@
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
-* [Node](#node)
 * [NoSQL](#nosql)
+* [Node](#node)
 * [Objective-C](#objective-c)
 * [Ocaml](#ocaml)
 * [PHP](#php)
@@ -55,19 +56,11 @@
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [SOL](#SQL)
 * [Scala](#scala)
 * [Selenium](#selenium)
 * [Solidity](#solidity)
-* [SQL](#sql)
 
-### Ada
-
-* [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Adacore
-
-### Android
-
-* [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
-* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
 
 ### APL
 
@@ -75,16 +68,30 @@
 * [Complete Tutorial and theory](https://xpqz.github.io/learnapl/intro.html) - GitHub Pages
 * [Notes](https://luksamuk.codes/pages/learn-apl.html) - luksamuk
 
+
+### Ada
+
+* [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Adacore
+
+
+### Android
+
+* [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
+* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
+
+
 ### Artificial Intelligence
 
-* [What is Artificial Intelligence?](https://www.britannica.com/technology/artificial-intelligence)
 * [Complete Tutorial](https://www.javatpoint.com/artificial-intelligence-tutorial) - javaTpoint
 * [Complete Tutorial](https://www.tutorialspoint.com/artificial_intelligence/index.htm) - tutorialspoint
 * [Simplilearn Video tutorial](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial)
+* [What is Artificial Intelligence?](https://www.britannica.com/technology/artificial-intelligence)
+
 
 ### Assembly Programming
 
 * [Complete Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm) - tutorialspoint
+
 
 ### AutoIT 
 
@@ -92,10 +99,12 @@
 * [AutoIT tutorial](https://www.softwaretestinghelp.com/autoit-tutorial-to-download-write-autoit-script/) - Download and Installation included
 * [Tutorial and Theory](https://automationtalks.com/autoit-tutorial/) - Automation Talks
 
+
 ### Bash
 
 * [Help messages will explain everything](https://explainshell.com) - explainshell
 * [Learn Shell Programming](http://www.learnshell.org) - learnshell
+
 
 ### Blockchain
 
@@ -103,16 +112,12 @@
 * [Tutorial](https://www.javatpoint.com/blockchain-tutorial)
 * [What is Blockchain](https://www.tutorialspoint.com/blockchain/blockchain_introduction.htm) - tutorialspoint
 
-#### Bootstrap
-
-* [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools
-* [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
-* [Front End Development Libraries Certification: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap) - freeCodeCamp
 
 ### C
 
 * [C Tutorial](https://www.scaler.com/topics/c/) - Scaler Topics
 * [Learn C](http://www.learn-c.org) - Learn-C
+
 
 ### <a id="csharp"></a>C\#
 
@@ -122,11 +127,13 @@
 * [Learn C#](http://www.learncs.org) - learnCS
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
+
 ### <a id="cpp"></a>C++
 
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [C++ Tutorial](https://www.scaler.com/topics/cpp/) - Scaler Topics
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
+
 
 ### Clojure
 
@@ -134,6 +141,7 @@
 * [Clojure Koans](http://clojurekoans.com) - Clojure Koans
 * [ClojureScript Koans](http://clojurescriptkoans.com)
 * [Try Clojure](http://www.tryclj.com)
+
 
 ### Cloud Computing
 
@@ -143,20 +151,24 @@
 * [AWS Simple Storage Service (S3)](https://run.qwiklabs.com/focuses/7860?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3597563) - *registration required*
 * [Google Cloud Platform](https://cloud.google.com/training/free-labs/)
 
-###Compilers
-
-* [Compiler Design](https://www.geeksforgeeks.org/introduction-of-compiler-design/)
-* [Introduction](https://www.javatpoint.com/compiler-introduction)
 
 ### CoffeeScript
 
 * [Coffeescript Style Guide](https://github.com/polarmobile/coffeescript-style-guide/blob/master/README.md)
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
+
+###Compilers
+
+* [Compiler Design](https://www.geeksforgeeks.org/introduction-of-compiler-design/)
+* [Introduction](https://www.javatpoint.com/compiler-introduction)
+
+
 ### Dart
 
 * [Dart Official Codelabs](https://dart.dev/codelabs) - Dart
 * [Tutorials](https://dart.dev/tutorials) - official docs
+
 
 ### Data Science
 
@@ -166,27 +178,19 @@
 * [Introduction to Data Science](https://www.geeksforgeeks.org/introduction-to-data-science/) - geeksforgeeks
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
+
 ### DataBases
 
-* No SQL
-    * [An Introduction](https://www.geeksforgeeks.org/introduction-to-nosql/)
-    * [Tutorial](https://www.tutorialspoint.com/NoSQL-Databases)
 * [Introduction to Databases - Theory](https://www.c-sharpcorner.com/article/introduction-to-databases/) - C# Corner
 * [Introduction to Databases - Tutorial](https://www.tutorialspoint.com/Introduction-to-Databases) - tutorialspoint
-* SQL
-    * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
-    * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
-    * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
-    * [SQL Teaching](https://www.sqlteaching.com)
-    * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
-    * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
-    * [SQLBolt](http://sqlbolt.com)
+
   
 ### Deep Learning
 
 * [Complete Tutorial](https://www.javatpoint.com/deep-learning) - javatpoint
 * [Theory Explanation and guide](https://www.geeksforgeeks.org/introduction-deep-learning/)
 * [Video Tutorial](https://www.simplilearn.com/tutorials/deep-learning-tutorial/introduction-to-deep-learning) - Simplilearn
+
 
 ### DevOps
 
@@ -195,22 +199,31 @@
 * [Roadmap](https://www.commclassroom.org/android-roadmap) - Comm Classroom
 * [Tutorials on DevOps technologies](https://www.tutorialspoint.com/devops_tutorials.htm)
 
+
 ### Erlang
 
-* [Adoption Erlang](https://adoptingerlang.org/docs/introduction/) - .org
+* [Adopting Erlang](https://adoptingerlang.org/docs/introduction/) - .org
 * [Erlang Tutorial](https://www.tutorialspoint.com/erlang/index.htm) - tutorialspoint
 * [Reference Mannual](https://www.erlang.org/doc/reference_manual/introduction.html)
 * [Try Erlang](http://www.tryerlang.org)
 
+
 ### Flutter
 
 * [Tutorial](https://docs.flutter.dev/reference/tutorials) - Flutter Official Docs
+
+
+### GLSL
+
+* [The Book of Shaders](https://thebookofshaders.com)
+
 
 ### Game Development
 
 * [Beginner friendly projects](https://www.skyfilabs.com/project-ideas/latest-projects-based-on-game-development)
 * [Introduction](https://www.c-sharpcorner.com/article/game-development-an-introduction/) - C# Corner
 * [Roadmap](https://www.codelivly.com/game-development-roadmap-2022)
+
 
 ### Git
 
@@ -223,9 +236,6 @@
 * [Try Git](http://try.github.io)
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3) - Wei Wang
 
-### GLSL
-
-* [The Book of Shaders](https://thebookofshaders.com)
 
 ### Go
 
@@ -235,9 +245,11 @@
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
 
+
 ### Haskell
 
 * [Try Haskell!](http://tryhaskell.org)
+
 
 ### HTML and CSS
 
@@ -258,9 +270,18 @@
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 * [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) - freeCodeCamp
 
+
+#### Bootstrap
+
+* [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools
+* [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
+* [Front End Development Libraries Certification: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap) - freeCodeCamp
+
+
 ### IDE and editors
 
 * [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html) - Henrik Huttunen
+
 
 ### Java
 
@@ -270,6 +291,7 @@
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
+
 
 ### JavaScript
 
@@ -289,6 +311,7 @@
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
 
+
 #### AngularJS
 
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson
@@ -298,32 +321,31 @@
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 
+
 #### D3.js
 
 * [Data Visualization for beginners](https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/)
 * [Tutorial](https://www.tutorialspoint.com/d3js/index.htm)
 * [Tutorial](https://www.w3schools.com/js/js_graphics_d3js.asp) - W3Schools
 
+
 #### Electron.js
 
 * [A beginner's guide](https://medium.com/@voltx180/a-beginners-guide-to-electron-js-1679fd7b6e4f)
 * [Tutorial](https://www.electronjs.org/docs/latest/tutorial/quick-start/ )
+
 
 #### jQuery
 
 * [Front End Development Libraries Certification: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery) - freeCodeCamp
 * [jQuery Tutorial](https://www.w3schools.com/jquery/) - W3Schools
 
-#### Node.js
-
-* [Beginner's guide](https://www.geeksforgeeks.org/introduction-to-node-js)
-* [Documentation and installation](https://nodejs.dev/en/learn/)
-* [Tutorial](https://www.w3schools.com/nodejs)
 
 #### Next.js
 
 * [Introduction](https://nextjs.org/learn/foundations/about-nextjs)
 * [Tutorial](https://www.tutorialspoint.com/nextjs/index.htm)
+
 
 #### React
 
@@ -331,15 +353,18 @@
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 
+
 #### Redux
 
 * [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/redux) - freeCodeCamp
+
 
 ### Kotlin
 
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
 * [Kotlin Tutorial](https://www.w3schools.com/kotlin/) - W3Schools
 * [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Galina Podstrechnaya, Alex DiStasi (Codecademy) *(account required)*
+
 
 ### Language Agnostic
 
@@ -349,37 +374,54 @@
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 
+
 #### Operating systems
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
 * [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
 * [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Dr. Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
+
 ### LaTeX
 
 * [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
 
 ### Lisp
 
 * [Lisp Koans](https://github.com/google/lisp-koans)
 
+
 ### MATLAB
 
 * [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
 
+
+### No SQL
+
+* [An Introduction](https://www.geeksforgeeks.org/introduction-to-nosql/)
+* [Tutorial](https://www.tutorialspoint.com/NoSQL-Databases)
+
+
 ### Node
 
+* [Beginner's guide](https://www.geeksforgeeks.org/introduction-to-node-js)
+* [Documentation and installation](https://nodejs.dev/en/learn/)
 * [Node School](http://nodeschool.io)
 * [Node.js Tutorial](https://www.tutlane.com/tutorial/nodejs) - tutlane
 * [Node.js Tutorial](https://www.w3schools.com/nodejs) - W3Schools
+* [Tutorial](https://www.w3schools.com/nodejs)
+
 
 ### Objective-C
 
 * [Try Objective-C](http://tryobjectivec.codeschool.com)
 
+
 ### Ocaml
 
 * [Try Ocaml](http://try.ocamlpro.com)
+
 
 ### PHP
 
@@ -387,9 +429,11 @@
 * [Learn PHP](http://www.learn-php.org)
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
 
+
 ### PostgreSQL
 
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
+
 
 ### Python
 
@@ -408,15 +452,18 @@
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
 
+
 ### R
 
 * [Learn R](https://www.codecademy.com/learn/learn-r) - Codecademy *(account required)*
 * [R Tutorial](https://www.w3schools.com/r) - W3Schools
 
+
 ### Regular Expressions
 
 * [Regex Crossword](https://regexcrossword.com) - Ole Michelsen, Maria Hagsten Michelsen
 * [RegExp Playground](https://projects.verou.me/regexplained) - Lea Verou
+
 
 ### Ruby
 
@@ -425,19 +472,34 @@
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
 
+
 ### Rust
 
 * [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
+
+
+### SQL
+
+* [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
+* [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
+* [SQL Teaching](https://www.sqlteaching.com)
+* [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
+* [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
+* [SQLBolt](http://sqlbolt.com)
+
 
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
 * [Scala Exercises](https://www.scala-exercises.org)
 
+
 ### Selenium
 
 * [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
+
 
 ### Solidity
 

@@ -121,6 +121,7 @@
 ### Gulp
 
 * [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp) - Scott Tolinski (screencast)
+* [Gulp JS Crash Course](https://www.youtube.com/watch?v=1rw9MfIleEg) - Brad Traversy (screencast)
 
 
 ### Haskell
@@ -135,6 +136,8 @@
 * [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - Brad Traversy (screencast)
 * [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) - Chris Coyier (screencast)
 * [The CSS Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
+* [HTML Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg) - Mike Dane (screencast)
+
 
 
 ### IDE and editors
@@ -183,12 +186,14 @@
 
 * [Elm Radio](https://elm-radio.com) - Dillon Kearns, Jeroen Engels (podcast)
 * [Elm Town](https://elmtown.simplecast.com) - Kevin Yank, Ossi Hanhinen, Brian Hicks, Ben Brandt (podcast)
+* [Elm for beginners](https://www.youtube.com/watch?v=9Zl0m4rPl3s) - Brodey Newman (screencast)
 
 
 #### Ember.js
 
 * [Ember Weekend](https://emberweekend.com/episodes) - Chase McCarthy, Jonathan Jackson (podcast)
 * [The EmberMap Podcast](https://embermap.com/podcast) - Sam Selikoff, Ryan Toronto (podcast)
+* [Building an Ember.js Application](https://www.youtube.com/watch?v=1QHrlFlaXdI) - Tom Dale (screencast)
 
 
 #### Node.js

@@ -1011,10 +1011,9 @@
 * [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 * [Angular for Beginners](https://www.udemy.com/course/angular-for-beginners-course/) - Angular University (Udemy)
 * [Angular Tutorial For Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) - Codevolution (YouTube)
-* [Angular Tutorial for Beginners - Web Framework with Typescript Course](https://www.youtube.com/watch?v=AAu8bjj6-UI) - Slobodan Gajic, freeCodeCamp
 * [Angular Complete Course Guide](https://youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs) - Leela Web Dev (YouTube)
+* [Angular Tutorial for Beginners - Web Framework with Typescript Course](https://www.youtube.com/watch?v=AAu8bjj6-UI) - Slobodan Gajic, freeCodeCamp
 * [Learn Angular 5 from Scratch](https://www.udemy.com/course/angular-5/) - Gary Simon (Udemy)
-
 
 
 #### Deno

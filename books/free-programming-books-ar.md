@@ -14,7 +14,6 @@
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -99,11 +98,6 @@
 ### PHP
 
 * [تعلم البرمجة بلغة PHP](http://librebooks.org/learn-programming-with-php/)
-
-
-#### Symfony
-
-* [سيمفوني 5 : المسار السريع](https://symfony.com/doc/5.0/the-fast-track/ar/index.html)
 
 
 ### Python

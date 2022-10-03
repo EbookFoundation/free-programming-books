@@ -99,6 +99,7 @@
 * [Dart Programming Untuk Persiapan Belajar Flutter](https://buildwithangga.com/kelas/dart-programming-untuk-persiapan-belajar-flutter) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
 * [Pemrograman Berorientasi Objek - Dart](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Erico Darmawan Handoyo
 * [TUTORIAL DART DASAR (BAHASA INDONESIA)](https://www.youtube.com/watch?v=-mzXdI27tyk) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Tutorial Dart OOP - Bahasa Indonesia](https://www.youtube.com/watch?v=k0ycD2aqPzU) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
 ### Desain dan Arsitektur

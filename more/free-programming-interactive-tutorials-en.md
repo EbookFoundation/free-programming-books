@@ -46,6 +46,7 @@
 * [Selenium](#selenium)
 * [Solidity](#solidity)
 * [SQL](#sql)
+* [XML](#xml)
 
 
 ### Ada
@@ -204,7 +205,6 @@
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
-* [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
 * [JavaScript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
@@ -389,3 +389,8 @@
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
 * [SQLBolt](http://sqlbolt.com)
+
+
+### XML
+
+* [XML Tutorial](https://www.w3schools.com/xml) - W3Schools

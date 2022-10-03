@@ -274,7 +274,7 @@
 
 ### Sistemas de gestión de contenidos / CMS
 
-* [Aprende Wordpress de forma sencilla (Curso desde cero - Youtube)](https://www.youtube.com/watch?v=OAWTixdQjqM&list=PLs-v5LWbw7JnwF9RquAuuxLi-Ha1rths6)
+* [CURSO de WORDPRESS (Desde Cero) - 2020](https://www.youtube.com/playlist?list=PLs-v5LWbw7JnwF9RquAuuxLi-Ha1rths6) - Academia Coder (YouTube)
 
 
 ### Técnico de Software & Hardware

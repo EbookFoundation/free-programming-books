@@ -55,7 +55,7 @@
 
 ### Assembly Language
 
-* [PC Assembly Language](https://pacman128.github.io/static/pcasm-book.pdf) - Paul A. Carter
+* [PC Assembly Language](https://pacman128.github.io/static/pcasm-book.pdf) - Paul A. Carter (PDF)
 * [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres, Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 

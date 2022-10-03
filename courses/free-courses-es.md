@@ -274,7 +274,7 @@
 
 ### Sistemas de gestión de contenidos / CMS
 
-* [Aprende Wordpress de forma sencilla](https://miriadax.net/web/aprende-wordpress-de-forma-sencilla-2-edicion-)
+* [Aprende Wordpress de forma sencilla (Curso desde cero - Youtube)](https://www.youtube.com/watch?v=OAWTixdQjqM&list=PLs-v5LWbw7JnwF9RquAuuxLi-Ha1rths6)
 
 
 ### Técnico de Software & Hardware

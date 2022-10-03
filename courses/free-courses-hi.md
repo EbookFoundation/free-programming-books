@@ -200,7 +200,7 @@
 ### Operating Systems
 
 * [Operating System(Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p) - Gate Smashers (YouTube)
-* [Operating Systems for Placements](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG) - CodeHelp-byBabbar (YouTube)
+* [Operating Systems for Placements 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG) - CodeHelp-byBabbar (YouTube)
 
 
 ### PHP

@@ -44,6 +44,7 @@
 * [Python](#python)
     * [Django](#django)
 * [R](#r)
+* [Redes de Computadores](#Redes de Computadores)
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -352,6 +353,10 @@
 * [Fundamentos Estatísticos de Ciência dos Dados](https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) - Renato Assunção (PDF)
 * [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf) - Jakson Alves de Aquino (PDF)
 
+
+### Redes de Computadores
+
+* [Redes de Computadores e a Internet: uma abordagem top-down](https://www.pdfdrive.com/redes-de-computadores-e-a-internet-uma-abordagem-top-down-d176113904.html) - Jim Kurose & Keith W. Ross
 
 ### RegEx
 

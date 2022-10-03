@@ -255,6 +255,7 @@
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
+* [Python Begineers Cheatsheet](https://hakin9.org/wp-content/uploads/2020/02/beginnersPythonCheatSheet.pdf) - No Starch (PDF)
 
 
 #### Django

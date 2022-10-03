@@ -38,12 +38,17 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 
 </div>
 
-The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
+The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo. The Free Ebook Foundation is a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks.
+
+[Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 
 ## How To Contribute
 
-Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).
+Please read [CONTRIBUTING](docs/CONTRIBUTING.md). 
+If you're new to GitHub, please read [welcome](docs/HOWTO.md)! 
+
+Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).
 
 Click on these badges to see how you might be able to help:
 

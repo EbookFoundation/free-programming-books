@@ -38,7 +38,6 @@
 ### Amazon Web Service
 
 * [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
-* [AWS 기초 모듈 Workshop](https://kr-id-general.workshop.aws/ko/basic_modules.html) - Amazon Web Services
 
 
 ### Assembly Language
@@ -83,7 +82,6 @@
 
 * [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [효과적인 Go 프로그래밍](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
-* [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
 * [Go 문서 한글 번역](https://github.com/golang-kr/golang-doc/wiki)
 * [Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
 * [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, `trl.:` Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))

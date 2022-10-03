@@ -10,12 +10,12 @@
 
 हम नए योगदानकर्ताओं का स्वागत करते हैं; यहां तक ​​कि उन लोगों के लिए जो GitHub पर अपना पहला Pull Request (PR) करते हैं। यदि आप उनमें से एक हैं, तो यहां कुछ संसाधन हैं जो मदद कर सकते हैं:
 
-* [पुल अनुरोध के बारे में](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(Pull Request)*
-* [पुल अनुरोध बनाना](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(Creating a Pull Request)*
-* [गिटहब हैलो वर्ल्ड](https://docs.github.com/en/get-started/quickstart/hello-world) *(GitHub Hello World)*
-* [YouTube - शुरुआती के लिए गिटहब ट्यूटोरियल](https://www.youtube.com/watch?v=0fKg7e37bQE) *(GitHub Tutorial For Beginners)*
-* [YouTube - कैसे एक गिटहब रेपो फोर्क करें और एक पुल अनुरोध सबमिट करें](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(How To Fork A GitHub Repo and Submit A Pull Request)*
-* [YouTube - मार्कडाउन क्रैश कोर्स](https://www.youtube.com/watch?v=HUBNt18RFbo) *(Markdown Crash Course)*
+* [पुल अनुरोध के बारे में](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
+* [पुल अनुरोध बनाना](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
+* [गिटहब हैलो वर्ल्ड](https://docs.github.com/en/get-started/quickstart/hello-world) *(in english)*
+* [YouTube - शुरुआती के लिए गिटहब ट्यूटोरियल](https://www.youtube.com/watch?v=0fKg7e37bQE) *(in english)*
+* [YouTube - कैसे एक गिटहब रेपो फोर्क करें और एक पुल अनुरोध सबमिट करें](https://www.youtube.com/watch?v=G1I3HF4YWEw) *(in english)*
+* [YouTube - मार्कडाउन क्रैश कोर्स](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
 सवाल पूछने में संकोच न करें; हर योगदानकर्ता ने पहले PR के साथ शुरुआत की। आप हमारे हजारवें हो सकते हैं! तो... क्यों न जुड़ें हमारा [बड़ा, बढ़ता हुआ](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) समुदाय.

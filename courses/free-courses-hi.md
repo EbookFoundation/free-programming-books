@@ -31,6 +31,14 @@
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
+* [React](#react)
+* [Angular](#angular)
+* [Docker](#docker)
+* [Web Development](#web development)
+* [Game Development](#game development)
+* [C#](#c#)
+
+
 
 
 ### Algorithms
@@ -276,3 +284,35 @@
 ### Rust
 
 * [Rust Complete Tutorial In Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
+
+### React
+* [React Js Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - Code With Harry
+
+### Web development
+
+* [Web dev in hindi](https://youtu.be/6mbwJ2xhgzM)- Code with Harry
+
+* [Web dev in hindi](https://youtu.be/Rek0NWPCNOc)- Apna College
+
+
+### Game Development
+
+* [Game development in hindi](https://youtu.be/oriezhSIIY4)- Code with Harry
+
+* [Game development in hindi](https://youtu.be/KO8oBhToN7s)- sunny games and technology
+
+### C#
+
+* [C# in hindi](https://youtu.be/tQlGeD5Jbt0)- Great Learning Academy
+
+* [C# in hindi](https://youtu.be/KO8oBhToN7s)- sunny games and technology
+
+* [C# in hindi](https://youtu.be/SuLiu5AK9Ps)- Code with Harry
+
+* [C# in hindi](https://youtu.be/Vo2LHqjgSl0-c#)- Nikhil Malankar
+
+### Docker
+
+* [Docker in hindi](https://youtu.be/Gw2Jrid4SaQ-docker)- Code with Harry
+
+

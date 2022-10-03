@@ -432,7 +432,7 @@
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Atlassian
-* [Git for Professionals Tutorial](https://www.youtube.com/watch?v=Uszj_k0DGsg) - freeCodeCamp.org(Youtube)
+* [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg) - freeCodeCamp, `tch.:` Tobias Günther (YouTube)
 
 ### Go
 

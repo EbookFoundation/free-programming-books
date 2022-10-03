@@ -61,8 +61,8 @@
 
 ### Java
 
-* [تفهيم الخوارزميات – الجزء الأول](https://librebooks.org/tafheem-alkhawazimyat/) - جمال بن نوار (PDF)
 * [تفهيم الخوارزميات – الجزء الثاني]https://librebooks.org/tafheem-alkhawazimyat-p2/) - جمال بن نوار (PDF)
+* [تفهيم الخوارزميات – الجزء الأول](https://librebooks.org/tafheem-alkhawazimyat/) - جمال بن نوار (PDF)
 
 
 ### JavaScript

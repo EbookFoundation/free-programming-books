@@ -207,7 +207,7 @@
 
 ### Ruby on Rails
 
-* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) (PDF)
+* [Praxiswissen Ruby](https://web.archive.org/web/20160328183933/https://oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) - Sascha Kersken (PDF) *(:card_file_box: archived)*
 * [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) - Denny Carl (PDF)
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF)
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/) - Hussein Morsy, Tanja Otto (Online)

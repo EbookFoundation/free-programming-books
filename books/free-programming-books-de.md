@@ -65,6 +65,7 @@
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z) - Jürgen Wolf (Online)
 * [Socket Programmierung in C](http://www.tobscore.com/socket-programmierung-in-c) - Brian "Beej Jorgensen" Hall, Übersetzt von Tobias Kerst (HTML)
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
+* [C Handbook](https://thevalleyofcode.com/c/) - Flavio Copes (Online, PDF)
 
 
 ### <a id="csharp"></a>C\#
@@ -105,6 +106,7 @@
 * [Eine Tour durch Go](https://github.com/michivo/go-tour-de)
 * [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de)
 * [The Little Go Book](https://github.com/Aaronmacaron/the-little-go-book-de) - Karl Seguin, `trl.:` Aaron Ebnöther ([HTML](https://github.com/Aaronmacaron/the-little-go-book-de/blob/master/de/go.md))
+* [Go Handbook](https://thevalleyofcode.com/go/) - Flavio Copes (Online, PDF)
 
 
 ### Groovy
@@ -118,6 +120,8 @@
 * [HTML](http://www.peterkropff.de/site/html/html.htm) - Peter Kropff (Online, PDF)
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) (Online)
 * [Self HTML](https://wiki.selfhtml.org/wiki/Startseite) (Online)
+* [HTML Handbook](https://thevalleyofcode.com/html/) - Flavio Copes (Online, PDF)
+* [CSS Handbook](https://thevalleyofcode.com/css/) - Flavio Copes (Online, PDF)
 
 
 ### iOS
@@ -125,6 +129,7 @@
 * [Apps programmieren für iPhone und iPad](http://openbook.rheinwerk-verlag.de/apps_programmieren_fuer_iphone_und_ipad) - Klaus M. Rodewig, Clemens Wagner (Online)
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
 * [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) - Daniel H. Steinberg, Eric T. Freeman (PDF)
+* [Swift Handbook](https://thevalleyofcode.com/swift/) (Online, PDF)
 
 
 ### Java
@@ -145,11 +150,13 @@
 * [JavaScript](http://www.peterkropff.de/site/javascript/javascript.htm) - Peter Kropff (Grundlagen, AJAX, DOM, OOP) (Online, PDF)
 * [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax) - Christian Wenz (Online)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript)
+* [JavaScript Handbook](https://thevalleyofcode.com/js/) - Flavio Copes (Online, PDF)
 
 
 #### React
 
 * [React lernen und verstehen](https://lernen.react-js.dev) - Manuel Bieh (HTML)
+* [React Handbook](https://thevalleyofcode.com/react/) - Flavio Copes (Online, PDF)
 
 
 ### LaTeX
@@ -184,6 +191,7 @@
 * [PHP](http://www.peterkropff.de/site/php/php.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 * [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear) - Carsten Möhrke (Online)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) - Sascha Kersken (PDF)
+* [PHP Handbook](https://thevalleyofcode.com/php/) - Flavio Copes (Online, PDF)
 
 
 #### Symfony
@@ -198,6 +206,7 @@
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de) (Online)
 * [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *(:construction: in process)*
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python) - Johannes Ernesti, Peter Kaiser (Online)
+* [Python Handbook](https://thevalleyofcode.com/python/) - Flavio Copes (Online, PDF)
 
 
 #### Django

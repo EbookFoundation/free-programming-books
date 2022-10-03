@@ -273,6 +273,7 @@
 ### Compilers
 
 * [Compilers](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i) - Ghassan Shobaki (YouTube)
+* [Compiler Design](https://www.youtube.com/watch?v=5ZmFlxrNaN8&list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q) - Neso Academy (YouTube)
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
 
 

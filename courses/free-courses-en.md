@@ -26,7 +26,7 @@
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
 * [Docker](#docker)
-* [Elastic Stack](#elastic-stack)
+* [Elastic](#elastic)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git](#git)
@@ -394,16 +394,16 @@
 * [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
 
 
-### Elastic Stack
+### Elastic
 
-* [App Search Fundamentals](https://www.elastic.co/training/app-search-fundamentals) - Elastic .co
-* [App Search Web Crawler Fundamentals](https://www.elastic.co/training/app-search-web-crawler-fundamentals) - Elastic .co
-* [ECE Fundamentals](https://www.elastic.co/training/ece-fundamentals) - Elastic .co
-* [Elastic Security Fundamentals: SIEM]([https://www.elastic.co/training/kibana-for-splunk-spl-users](https://www.elastic.co/training/elastic-security-fundamentals-siem)) - Elastic .co
-* [Kibana for Splunk SPL Users](https://www.elastic.co/training/kibana-for-splunk-spl-users) - Elastic .co
-* [Kibana Fundamentals](https://www.elastic.co/training/kibana-fundamentals) - Elastic .co
-* [Observability Fundamentals](https://www.elastic.co/training/observability-fundamentals) - Elastic .co
-* [Workplace Search Fundamentals](https://www.elastic.co/training/workplace-search-fundamentals) - Elastic .co
+* [App Search Fundamentals](https://www.elastic.co/training/app-search-fundamentals) - Elastic
+* [App Search Web Crawler Fundamentals](https://www.elastic.co/training/app-search-web-crawler-fundamentals) - Elastic
+* [ECE Fundamentals](https://www.elastic.co/training/ece-fundamentals) - Elastic
+* [Elastic Security Fundamentals: SIEM]([https://www.elastic.co/training/kibana-for-splunk-spl-users](https://www.elastic.co/training/elastic-security-fundamentals-siem)) - Elastic
+* [Kibana for Splunk SPL Users](https://www.elastic.co/training/kibana-for-splunk-spl-users) - Elastic
+* [Kibana Fundamentals](https://www.elastic.co/training/kibana-fundamentals) - Elastic
+* [Observability Fundamentals](https://www.elastic.co/training/observability-fundamentals) - Elastic
+* [Workplace Search Fundamentals](https://www.elastic.co/training/workplace-search-fundamentals) - Elastic
 
 
 ### Flutter

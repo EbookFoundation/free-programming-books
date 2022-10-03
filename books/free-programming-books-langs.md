@@ -1081,7 +1081,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [JavaScript ES6 and beyond](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) - Alberto Montalesi (PDF, epub)
 * [JavaScript For Cats](http://jsforcats.com) - Maxwell Ogden (HTML)
 * [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Dr. Axel Rauschmayer (HTML)
-* [JavaScript for Impatient Programmers (ES2023 edition)](https://exploringjs.com/impatient-js/downloads/impatient-js-preview-book.pdf) - Axel Rauschmayer (PDF)
+* [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/) - Axel Rauschmayer (HTML)
 * [JavaScript from ES5 to ESNext](https://flaviocopes.com/page/es5-to-esnext/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/) - Nicholas Johnson (HTML)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - Tim Ruffles (HTML)

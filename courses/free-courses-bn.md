@@ -6,6 +6,7 @@
 * [C++](#cpp)
 * [Competitive Programming](#competitive-programming)
 * [Dart](#dart)
+* [Docker](#docker)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -65,6 +66,11 @@
 ### Dart
 
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
+
+
+### Docker
+
+* [Docker Tutorial Course](https://www.youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku) - Foyzul Karim
 
 
 ### Flutter
@@ -204,5 +210,7 @@
 
 ### TypeScript
 
+* [TypeScript Advance Course](https://www.youtube.com/playlist?list=PLEYpvDF6qy8aesJ9a6lREDE4lcIA0iHMR) - Foyzul Karim
 * [TypeScript Bangla ( বাংলা ) Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3) - Learn with Sumit
 * [typescript full course in bangla](https://youtube.com/playlist?list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq) - Anisul Islam
+

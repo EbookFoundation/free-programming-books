@@ -1,7 +1,6 @@
 ### Index
 
-* [Algorithms](#algols
-rithms)
+* [Algorithms](#algorithms)
 * [Android](#android)
 * [Assembly](#assembly)
 * [Bash and Shell](#bash-and-shell)

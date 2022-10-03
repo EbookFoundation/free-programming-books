@@ -486,6 +486,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin Community Toolkit Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/xamarin-community-toolkit-succinctly) - Alessandro Del Sole
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
+* [Xamarin.Forms Notes for professionals](https://books.goalkicker.com/XamarinFormsBook/) - Compiled from StackOverflow documentaion (PDF)
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
 
 
@@ -1083,6 +1084,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [JavaScript ES6 and beyond](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) - Alberto Montalesi (PDF, epub)
 * [JavaScript For Cats](http://jsforcats.com) - Maxwell Ogden (HTML)
 * [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Dr. Axel Rauschmayer (HTML)
+* [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/) - Axel Rauschmayer (HTML)
 * [JavaScript from ES5 to ESNext](https://flaviocopes.com/page/es5-to-esnext/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/) - Nicholas Johnson (HTML)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - Tim Ruffles (HTML)

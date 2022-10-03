@@ -84,6 +84,7 @@
 * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
 * [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
 * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
+* [OsProgramadores](https://anchor.fm/osprogramadores) (podcast)
 * [PODebug](http://www.podebug.com) (podcast)
 * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
 * [podTag](https://podtag.com.br) (podcast)

@@ -23,12 +23,14 @@
 * [MySQL](#mysql)
 * [Neo4j](#neo4j)
 * [PHP](#php)
+    * [Joomla](#joomla)
     * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
+* [Shell](#shell)
 * [UML](#uml)
 * [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Unix](#unix)
@@ -154,7 +156,7 @@
 
 ### LaTeX
 
-* [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
+* [LaTeX - eine Einführung und ein bisschen mehr ...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
 * [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz)
 
@@ -184,6 +186,11 @@
 * [PHP](http://www.peterkropff.de/site/php/php.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 * [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear) - Carsten Möhrke (Online)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) - Sascha Kersken (PDF)
+
+
+#### Joomla
+
+* [Joomla! 3 - Das umfassende Handbuch](https://openbook.rheinwerk-verlag.de/joomla_3/) - Richard Eisenmenger
 
 
 #### Symfony
@@ -222,6 +229,11 @@
 ### Scratch
 
 * [Kreative Informatik mit Scratch](http://eis.ph-noe.ac.at/kreativeinformatik)
+
+
+### Shell
+
+* [Shell-Programmierung](https://openbook.rheinwerk-verlag.de/shell_programmierung/) - Jürgen Wolf
 
 
 ### UML

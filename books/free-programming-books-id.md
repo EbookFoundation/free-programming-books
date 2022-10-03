@@ -170,7 +170,7 @@
 
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
-
+* [React JS Mengupas Kode dan Fungsi React JS](https://s3.amazonaws.com/elexmedia/preview/9786020448800.pdf) - Elexmedia
 
 ### Solidity
 

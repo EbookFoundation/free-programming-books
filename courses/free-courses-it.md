@@ -128,6 +128,7 @@
 
 * [Corso base di Javascript](https://www.youtube.com/playlist?list=PLFLSwyN4GsWmcBvMr5tzsJy9TI8DbfWC5) - S. Tocci
 * [Corso di JavaScript](https://www.youtube.com/playlist?list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) - Lacerba
+* [Corso Javascript Completo 2022](https://www.youtube.com/watch?v=84TYC44ezIU&list=PLP5MAKLy8lP9FUx06-avV66mS8LXz7_Bb) - E. Midali
 * [Corso Javascript (ES6)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) - F. Camuso
 
 

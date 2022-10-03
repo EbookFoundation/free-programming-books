@@ -419,6 +419,7 @@
 * [Multiplayer Shooter Tutorials - Godot](https://www.youtube.com/playlist?list=PL6bQeQE-ybqDmGuN7Nz4ZbTAqyCMyEHQa) - PlugWorld
 * [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals) - Pluralsight Company (Unity Learn)
 * [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) (Brackeys)
+* [Game Design and Development 1: 2D Shooter (Unity)](https://coursera.org/share/20c8b45e02110782aff633467f979c81) - Michigan State University
 * [Unity User Manual](https://docs.unity3d.com/Manual/)
 
 

@@ -1,361 +1,397 @@
-### Index
+### Índice
 
-* [Agile](#agile)
+* [Agnósticos](#agnósticos)
+    * [IDE and editors](#ide-and-editors)
+    * [Programação](#programação)
+    * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
+* [Arduino](#arduino)
+* [Assembly](#assembly)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Cloud](#cloud)
 * [Dart](#dart)
-* [Database](#database)
-* [Delphi](#delphi)
 * [Docker](#docker)
-* [Flutter](#flutter)
+* [Engenharia de software](#engenharia-de-software)
+    * [Arquitetura de Software](#arquitetura-de-software)
+    * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
+    * [Outros](#outros)
+* [Fundamentos Matemáticos Computacionais](#fundamentos-matemáticos-computacionais)
 * [Git](#git)
 * [Go](#go)
-* [Gulp](#gulp)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
-* [IDE and editors](#ide-and-editors)
-* [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [AngularJS](#angularjs)
+    * [Backbone.js](#backbonejs)
+    * [Ember.js](#emberjs)
+    * [Express.js](#expressjs)
+    * [Grunt](#grunt)
+    * [Gulp](#gulp)
+    * [jQuery](#jquery)
+    * [Knockout.js](#knockoutjs)
+    * [Meteor](#meteor)
+    * [Node.js](#nodejs)
+    * [React](#react)
     * [Vue.js](#vuejs)
-* [Jekyll](#jekyll)
-* [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
-* [Linux](#linux)
+* [LaTeX](#latex)
+* [Lisp](#lisp)
 * [Lua](#lua)
-* [Machine Learning](#machine-learning)
-* [Markdown](#markdown)
-* [Networking](#networking)
-* [Node.js](#nodejs)
+* [Pascal](#pascal)
 * [PHP](#php)
 * [Python](#python)
-* [Raspberry Pi](#raspberry-pi)
-* [React Native](#react-native)
+    * [Django](#django)
+* [R](#r)
+* [RegEx](#regex)
 * [Ruby](#ruby)
-* [Sass](#sass)
-* [Segurança da Informação](#segurança-da-informação)
-* [Shell](#shell)
-* [Swift](#swift)
+* [Rust](#rust)
+* [Shell / Bash Script](#shell--bash)
 * [TypeScript](#typescript)
     * [Angular](#angular)
-* [WordPress](#wordpress)
 
 
-### Agile
-* [Agile Explorer](https://skills.yourlearning.ibm.com/activity/PLAN-F8CBF9ECCA49) - IBM(Skillbuild)
+### Agnósticos
+
+#### IDE and editors
+
+* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva, et al.
+* [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
+* [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
+* [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
+
+
+#### Programação
+
+* [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF)
+* [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF)
+* [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
+
+
+#### Sistemas Operacionais
+
+* [Guia com mais de 500 comandos do Linux explicados](https://www.gnulinuxbrasil.com.br/2017/05/24/guia-com-mais-de-500-comandos-do-linux-explicados/) - Bruno Andrade (PDF)
+* [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
+* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (:construction: *em contínuo desenvolvimento*)
+
 
 ### Android
 
-* [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
-* [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) - Unicamp (Coursera)
+* [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+
+
+### Arduino
+
+* [Arduino Guia Iniciante](https://cdn.multilogica-shop.com/Guia_Arduino/Guia_Arduino_Iniciante_Multilogica_Shop_Versao_2.pdf) - Multilógica Shop (PDF)
+
+
+### Assembly
+
+* [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
+* [Execução de Programas: Como funcionam carregadores, ligadores e interpretadores](https://www.inf.ufpr.br/bmuller/assets/docs/livroSB.pdf) - Bruno Müller Junior (PDF)
 
 
 ### C
 
-* [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
-* [Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) - Cláudio Rogério Carvalho Filho (eXcript)
-* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (YouTube)
+* [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
+* [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
+* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, `trl.:` cv8minix3 (HTML)
+* [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
+* [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/)
+* [Linguagem C - Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/) - Carmem Hara, Wagner Zola (HTML, [PDF](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf))
+* [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
+* [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
 
 
 ### <a id="csharp"></a>C\#
 
-* [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
-* [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)
-* [C# e Windows Forms: Utilizando Formulários MDI Parent](https://www.udemy.com/formularios-mdi/) - Gilseone Moraes, Training4All Cursos (Udemy)
-* [Iniciando com ASP.NET Core](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core) - Eduardo Pires (Desenvolvedor.io)
-* [Introdução ao Entity Framework Core](https://desenvolvedor.io/curso-online-introducao-entity-framework-core) - Rafael Almeida (Desenvolvedor.io)
-* [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
+* [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 
 
 ### <a id="cpp"></a>C++
 
-* [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
+* [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
+* [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
+* [Programação Orientada a Objetos em C++](https://web.archive.org/web/20190124233626/http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
+### Cloud
+
+* [Guia da Computação em Nuvem: Conceito, Prática & Capacitação](https://openlibrary.org/books/OL37820935M/Guia_da_Computa%C3%A7%C3%A3o_em_Nuvem) - Beatriz Oliveira e Mariana Carvalho (PDF & Epub)
 
 ### Dart
 
-* [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy)
-* [Lógica de Programação com Dart](https://www.udemy.com/course/logica-de-programacao-com-dart/) - Jacob Moura (Udemy)
-
-
-### Database
-
-* [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r) - Gustavo Guanabara, Curso em Video (YouTube)
-* [Curso de Modelagem de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD) - Bosón Treinamentos (YouTube)
-* [Introdução ao MySQL e phpMyAdmin](https://www.udemy.com/mysql-phpmyadmin/) - Fernando Carmo, Mestres BI (Udemy)
-
-
-### Delphi
-
-* [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
+* [Dart Documentação](https://dart.dev/guides) - dart.dev
+* [Flutter para Iniciantes](https://www.flutterparainiciantes.com.br) - Rubens de Melo (gitbook)
 
 
 ### Docker
 
-* [Curso de Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4) - Robert Silva (YouTube)
-* [Curso de Docker para iniciantes - aprenda Docker em 1 hora](https://www.youtube.com/watch?v=np_vyd7QlXk) - Matheus Battisti
+* [Descomplicando o Docker](https://livro.descomplicandodocker.com.br) - Jeferson Fernando
 
 
-### Flutter
+### Engenharia de Software
 
-* [Criando seu primeiro App com Flutter](https://app.balta.io/courses/7184) - Andre Baltieri (balta.io)
-* [Curso Arquitetura no Flutter - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS) - Deivid Willyan (YouTube)
-* [Curso COMPLETO de Flutter](https://youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) - Flutterando (YouTube)
-* [Curso Flutter Básico \[NV1\] - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S) - Deivid Willyan (YouTube)
-* [Curso Flutter Intermediário \[NV2\] - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cvYvKja5Ex92aQ_HNADo4Oh) - Deivid Willyan (YouTube)
+#### Metodologias de Desenvolvimento de Software
+
+* [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
+* [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
+* [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
+
+
+#### Arquitetura de Software
+
+* [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/) (PDF)
+* [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)
+* [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)
+
+
+#### Outros
+
+* [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
+* [Engenharia de Software Moderna](https://engsoftmoderna.info) - Marco Tulio Valente (HTML)
+* [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
+
+
+### Fundamentos Matemáticos Computacionais
+
+* [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF)
+* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas (:construction: *in process*)
 
 
 ### Git
 
-* [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) - Gustavo Guanabara (YouTube)
-* [Git e contribuições para projetos Open Source](https://www.udemy.com/course/git-e-github/) - Bruno Orlandi (Udemy)
-* [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - Willian Justen de Vasconcellos (Udemy)
-* [Git para iniciantes](https://www.udemy.com/git-para-iniciantes/) - Ricardo Netto (Udemy)
+* [Git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Roger Dudler (HTML)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/) - Ben Lynn, `trl.:` Leonardo Siqueira Rodrigues (HTML, PDF)
+* [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP, Marcelo Augusto Cordeiro
+* [Pro Git](http://git-scm.com/book/pt-br/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB)
 
 
-### Go
+### GO
 
-* [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) - NBK Mundo Tech (YouTube)
-* [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
-* [Curso Golang](https://www.youtube.com/playlist?list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9) - Universo Mainframe (YouTube)
-* [Go - Aprenda a Programar (Curso)](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Ellen Körbes (YouTube)
-
-
-### Gulp
-
-* [Curso de Gulp](https://www.udemy.com/curso-de-gulp/) - Fabio Ewerton (Udemy)
+* [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
+* [Go - hands on](https://github.com/go-br/estudos)
+* [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
 
 
 ### Haskell
 
-* [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro (Udemy)
+* [Aprender o Haskell será um grande bem para você](https://github.com/taylorrf/learnhaskell) - Miran Lipovača, `trl.:` Tailor Fontela
 
 
 ### HTML and CSS
 
-* [Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Gustavo Guanabara (Curso em Vídeo)
-* [Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) - Gustavo Guanabara (Curso em Vídeo)
-* [Curso completo e atual de HTML5 e CSS3 - Módulo 3 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ) - Gustavo Guanabara (Curso em Vídeo)
-* [Curso completo e atual de HTML5 e CSS3 - Módulo 4 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) - Gustavo Guanabara (Curso em Vídeo)
-* [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
-* [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
-
-
-### IDE and editors
-
-* [Domine o sublime text](https://www.udemy.com/course/domine-o-sublime-text/) - Alexandre Cardoso (Udemy)
-* [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
-* [Intellij IDE para Desenvolvedores Java](https://www.udemy.com/intellij-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
-* [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/) - Diego Martins de Pinho (Udemy)
-
-
-### Ionic
-
-* [Desenvolvimento com Ionic 3 + WebComponents com StencilJS](https://www.udemy.com/ionic-3-e-webcomponents-com-stenciljs/) - Gabriel Barreto (Udemy)
-* [Ionic 3 para iniciantes](https://www.udemy.com/ionic-3-para-iniciantes/) - Charles dos Santos França (Udemy)
+* [Apostila de HTML](https://www.telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf) - Robertha Pereira Pedroso (PDF)
+* [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
+* [Dive Into HTML5](http://diveintohtml5.com.br)
+* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
 
 
 ### Java
 
-* [Curso de Java Básico](https://loiane.training/curso/java-basico) - Loiane Groner
-* [Curso de Java Intermediário](https://loiane.training/curso/java-intermediario) - Loiane Groner
-* [Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara (YouTube)
-* [Curso de Programação Orientada a Objetos em Java - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) - Gustavo Guanabara (YouTube)
-* [Curso de Spring Boot - Criando um blog com Spring Boot e deploy na AWS Elastic Beanstalk](https://www.youtube.com/playlist?list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S) - Michelli Brito (YouTube)
-* [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
-* [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) - Eduardo Guerra, Clovis Fernandes - ITA (Coursera)
-* [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
-* [Estrutura de Dados com Java](https://loiane.training/curso/estrutura-de-dados) - Loiane Groner
-* [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
-* [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
-* [Java SE - Polimorfismo](https://www.udemy.com/java-se-polimorfismo/) - Fernando Franzini (Udemy)
-* [Orientação a Objetos com Java](https://www.coursera.org/learn/orientacao-a-objetos-com-java) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
-* [Princípios de Desenvolvimento Ágil de Software](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
-* [Produtos Java - Especificações versus Proprietários](https://www.udemy.com/produtos-java-especificacoes-versus-proprietarios/) - Fernando Franzini (Udemy)
-* [TDD – Desenvolvimento de software guiado por testes](https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
-* [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias (Udemy)
+* [Desenvolvimento de Aplicações Web em Java e Outras Tecnologias](https://github.com/davidbuzatto/Livro-Desenvolvimento-de-Aplica-es-Web-em-Java/releases) - David Buzatto (PDF)
+* [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
+* [Imergindo na JVM](https://leanpub.com/imergindo-jvm) - Otavio Santana *(Leanpub account or valid email requested)*
+* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) (PDF)
+* [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
+* [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
+* [Programação Básica em Java](http://professor.unisinos.br/pjaques/material/java_basico.pdf) - Patrícia Jaques Maillard (PDF)
+* [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) (PDF)
 
 
 ### JavaScript
 
-* [Bootcamp da Brainn de React](https://www.youtube.com/playlist?list=PLF7Mi9HNzvVmzOyDyl--xQVdi60jxduU1) - Canal Brainn Co. (YouTube)
-* [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Gustavo Guanabara (Curso em Vídeo)
-* [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
-* [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/discover/courses) - Rocketseat
-* [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
+* [Eloquente JavaScript](https://github.com/braziljs/eloquente-javascript)
+* [EXPERT JS Stack](http://stack.desenvolvedor.expert)
+* [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
+* [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos/read) (HTML)
+* [JS: A forma certa](http://jstherightway.org/pt-br/)
+* [You Don't Know JS: Async & Performance](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/async%20&%20performance/README.md)
+* [You Don't Know JS: ES6 & Além](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/es6%20&%20beyond/README.md)
+* [You Don't Know JS: Escopos & Closures](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/scope%20&%20closures/README.md)
+* [You Don't Know JS: Iniciando](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/up%20&%20going/README.md)
+* [You Don't Know JS: this & Prototipagem de Objetos](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/this%20&%20object%20prototypes/README.md)
+* [You Don't Know JS: Tipos & Gramática](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/types%20&%20grammar/README.md)
+
+
+#### AngularJS
+
+> :information_source: Veja também &#8230; [Angular](#angular)
+
+* [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/) - Davi Ferreira
+* [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/) - Lucas Caprio
+* [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/) - Diego Eis
+
+
+#### Backbone.js
+
+* [Série Backbone.js (blog.fernandomantoan.com)](http://blog.fernandomantoan.com/serie-backbone-js-parte-1-introducao/)
+* [Série Backbone.js (devfuria.com.br)](http://www.devfuria.com.br/javascript/backbone/)
+
+
+#### Ember.js
+
+* [Conceitos basicos do Ember.js](http://fabriciotav.org/blog/2013/02/20/conceitos-basicos-do-emberjs.html)
+* [Handlebars Helpers com Ember.js](http://fabriciotav.org/blog/2013/02/20/handlebars-helpers-com-emberjs.html)
+
+
+#### Express.js
+
+* [Primeiros passos com Express em Node.js](http://nodebr.com/primeiros-passos-com-express-em-node-js/)
+
+
+#### Grunt
+
+* [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
+* [Grunt \| Automatizando tarefas](http://woliveiras.com.br/posts/grunt-automatizando-tarefas/)
+
+
+#### Gulp
+
+* [Gulp - O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
+
+
+#### jQuery
+
+* [Artigos sobre jQuery](https://tableless.com.br/categories/jquery/)
+
+
+#### Knockout.js
+
+* [Documentação](https://github.com/alexhiroshi/knockoutjs-brasil)
+
+
+#### Meteor
+
+* [Tudo sobre Meteor](https://udgwebdev.github.io/meteor/)
+
+
+#### Node.js
+
+* [Aplicações web real-time com Node.js](https://github.com/caio-ribeiro-pereira/livro-nodejs) - Caio Ribeiro Pereira
+* [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/read) - Waldemar Neto (HTML)
+* [Node.js para Leigos](https://udgwebdev.github.io/nodejs/)
+* [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
+
+
+#### React
+
+* [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
 
 
 #### Vue.js
 
-* [Aplicação Desktop com JavaScript, Electron JS e Vue JS](https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/) - Leonardo Moura Leitao, Cod3r (Udemy)
-* [Curso completo e gratuito de Vue.js 3 do iniciante ao avançado](https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado) - Igor Halfeld, Vue.js Brasil (Teachable)
-* [Introdução ao Vue JS](https://www.udemy.com/course/introducao-ao-vue-js/) - Rafael Rend (Udemy)
-* [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
-
-
-### Jekyll
-
-* [Criando sites estáticos com Jekyll](https://www.udemy.com/course/criando-sites-estaticos-com-jekyll/) - Willian Justen de Vasconcellos (Udemy)
-
-
-### Kotlin
-
-* [Aprenda Kotlin do zero - Módulo Básico](https://www.udemy.com/kotlin-aprenda-do-zero-modulo-basico/) - Pedro Massango (Udemy)
-* [Curso de Kotlin 2020 \| Básico](https://www.youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn) - Douglas Motta (YouTube)
-* [Curso de Kotlin 2021](https://www.youtube.com/playlist?list=PL9dOBCBB2d-hhioxKoL6ODVILWcWuas8b) - Devaria (YouTube)
-* [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+* [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](https://web.archive.org/web/20180613054310/http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
+* [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
+* [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz, Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+* [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
 
 
 ### Kubernetes
 
-* [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil (YouTube)
+* [Descomplicando Kubernetes](https://livro.descomplicandokubernetes.com.br) - Jeferson Fernando
+* [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 
-### Linux
+### LaTeX
 
-* [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) - Gustavo Guanabara (YouTube)
-* [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
-* [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
+* [Breve Introdução ao LaTeX2e](http://www.if.ufrj.br/~sandra/MetComp/doc/latex.pdf) - Lenimar Nunes de Andrade (PDF)
+* [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
+* [Latexação](https://www.ime.usp.br/~tassio/arquivo/latex/apostila.pdf) - Tássio Naia dos Santos (PDF)
+
+
+### Lisp
+
+* [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
 
 
 ### Lua
 
-* [Curso de Programação Lua](https://youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt) - Techiesse (YouTube)
-* [Introdução a Programação com Lua](https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA) - Alfred R. Baudisch (YouTube)
+* [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
 
 
-### Machine Learning
+### Pascal
 
-* [Curso Deep Learning](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB) - Deep Learning Brasil (YouTube)
-* [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr (Udemy)
-* [Neural Networks e Deep Learning para Leigos: Sem Mistérios!](https://www.udemy.com/course/neural-networks-e-deep-learnig-para-leigos/) - Fernando Amaral (Udemy)
-
-
-### Markdown
-
-* [Aprenda Markdown](https://www.udemy.com/aprenda-markdown/) - Roberto Achar (Udemy)
-
-
-### Networking
-
-* [Curso de IPv6 Básico a Distância](http://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about) - NIC.br
-* [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) - Gustavo Guanabara (Curso em Vídeo)
-
-
-### Node.js
-
-* [Criando APIs com NodeJs](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
-* [Curso de Node.js](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) - Victor Lima Guia do Programador (YouTube)
-* [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (YouTube)
-* [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - Erick Wendel (Teachable)
-* [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
+* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva, Daniel Weingaertner (PDF)
 
 
 ### PHP
 
-* [Boas práticas em PHP](https://www.udemy.com/boas-praticas-em-php/) - Diego Mariano (Udemy)
-* [Curso Básico de Bootstrap 4 , PHP e MySQL](https://www.udemy.com/curso-basico-de-bootstrap-4-php-e-mysql-gratis/) - Ricardo Milbrath Gonçalves (Udemy)
-* [Curso de CodeIgniter para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV) - RBtech
-* [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Gustavo Guanabara (Curso em Vídeo)
-* [Curso Introdução ao Laravel 8](https://academy.especializati.com.br/curso/introducao-ao-laravel-8) - Carlos Ferreira (Especializati academy)
-* [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
-* [Introdução ao PHP orientado a objetos](https://www.udemy.com/php-orientado-a-objetos/) - Diego Mariano (Udemy)
-* [Lógica de Programação com PHP](https://www.youtube.com/playlist?list=PLhTDLccA9vgHHwGZArcUqIZ5AUGwrbZ_A) - Curso Zend Framework (YouTube)
-* [Login com validação e flash messages (PHP)](https://www.udemy.com/login-com-validacao-e-flash-messages-php/) - Alexandre Cardoso (Udemy)
-* [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
-* [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
-* [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
+* [Api REST Com Silex no GAE](http://bit.ly/ebook-silex) - Nanderson Castro (PDF, EPUB, MOBI)
+* [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
+* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
+* [PHP Do jeito certo](http://br.phptherightway.com)
+* [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
 
 
 ### Python
 
-* [Algoritmos em Python](https://algoritmosempython.com.br) - Douglas do Couto
-* [Aprenda Python 3 em 6 horas](https://www.udemy.com/course/aprenda-python-3-em-6h/) - Alcimar A. Costa (Udemy)
-* [Aulas Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) - Ignorância zero (You Tube)
-* [Construindo API's robustas utilizando Python](https://github.com/luizalabs/tutorial-python-brasil) - Cássio Botaro, et al.
-* [Curso de Programação em Python](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK) - Prime Cursos do Brasil
-* [Curso de Python](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) - Cláudio Rogério Carvalho Filho (eXcript)
-* [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)
-* [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Gustavo Guanabara, Joao Pedro Araujo (Curso em Vídeo)
-* [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
-* [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
-* [Do zero à implantação utilizando Python](https://github.com/cassiobotaro/do_zero_a_implantacao) - Cássio Botaro, et al.
-* [Estruturas compostas em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Gustavo Guanabara (Curso em Vídeo)
-* [Estruturas de controle em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (Curso em Vídeo)
-* [Fundamentamentos em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)
-* [Introdução à Ciência da Computação com Python - Parte 1](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos) - USP (Coursera)
-* [Introdução à Ciência da Computação com Python - Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) - USP (Coursera)
-* [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)
-* [Introdução à linguagem Python](https://www.udemy.com/intro_python/) - Diego Mariano (Udemy)
-* [Programação em Python](https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) - Bóson Treinamentos
-* [Programação em Python: O Guia para Iniciantes](https://www.udemy.com/course/programacao-python-guia-para-iniciantes/) - Jones Granatyr (Udemy)
-* [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
-* [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
-* [Python Básico](https://solyd.com.br/treinamentos/python-basico) - Guilherme Junqueira (Solyd Offensive Security)
-* [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - Data Science Academy
-* [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson (YouTube)
-* [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
-* [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)
+* [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
+* [Aprenda Python Básico - Rápido e Fácil de entender](http://felipegalvao.com.br/livros) (PDF / Epub)
+* [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
+* [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
+* [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
+* [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
+* [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
+* [Pense em Python](https://penseallen.github.io/PensePython2e)
+* [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/)
+* [Python Funcional](https://dunossauro.github.io/python-funcional/) - Eduardo Mendes
+* [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF)
+* [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
+* [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
 
 
-### Raspberry Pi
+#### Django
 
-* [Curso de Raspberry Pi: primeiros passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy) - Gustavo Guanabara (YouTube)
+* [Desenvolvimento Web com Python e Django](https://pythonacademy.com.br/ebooks/desenvolvimento-web-com-python-e-django) - Vinícius Ramos (endereço de e-mail *solicitado*, não obrigatório)
+* [Documentação do Django](https://docs.djangoproject.com/pt-br)
+* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
 
-### React Native
+### R
 
-* [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) - Canal Geek Dev (YouTube)
+* [Análise Exploratória de Dados usando o R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf) - Enio Jelihovschi (PDF)
+* [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/) - Paulo Oliveira, Saulo Guerra, Robert McDonnell (email address *requested*, not required)
+* [Fundamentos Estatísticos de Ciência dos Dados](https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) - Renato Assunção (PDF)
+* [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf) - Jakson Alves de Aquino (PDF)
+
+
+### RegEx
+
+* [Expressões Regulares - Guia de Consulta Rápida](http://aurelio.net/regex/guia/)
 
 
 ### Ruby
 
-* [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) - Jackson Pires (YouTube)
-* [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/) - Bruno Paulino (Udemy)
-* [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
-* [Ruby Puro](https://onebitcode.com/course/ruby-puro/) - One Bit Code (Site One Bit Code)
-* [Tutorial Rails Girls](http://guides.railsgirls.com/guides-ptbr/)
+* [Aprenda a Programar](http://www.jmonteiro.com/aprendaaprogramar/)
+* [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
+* [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
 
 
-### Sass
+### Rust
 
-* [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
-
-
-### Shell
-
-* [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
+* [A Linguagem de Programação Rust](https://rust-br.github.io/rust-book-pt-br/title-page.html) - Steve Klabnik, Carol Nichols, `trl.:` Lucas Guimarães, `trl.:` Mario Idival, `trl.:` Alberto Margarido, et al. (HTML)
 
 
-### Swift
+### Shell / Bash
 
-* [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
+* [Bash Scripting](https://meleu.gitbooks.io/bashscripting/content/) - Meleu (gitbook)
+* [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
+* [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
+* [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
 
 
 ### TypeScript
 
-* [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) - Willian Justen Curso (YouTube)
-* [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) - DevDojo (YouTube)
-* [TypeScript, o início, de forma prática](https://www.youtube.com/watch?v=0mYq5LrQN1s) - Rocketseat, Diego Fernandes (YouTube)
-* [Primeiros passos com TypeScript no Visual Studio Code](https://learn.microsoft.com/pt-br/shows/dx/primeiros-passos-com-typescript-no-visual-studio-code?origin=cursos.erickwendel.com.br) - Erick Wendel (Microsoft)
+* [Iniciando no TypeScript - Guia prático para os primeiros passos da linguagem](https://www.maiconsilva.com/starting-typescript/) - Maicon Silva (HTML)
+* [TypeScript Documentação](https://www.typescriptlang.org/pt/docs/)
+* [TypeScript: O guia definitivo](https://oieduardorabelo.medium.com/typescript-o-guia-definitivo-1a63b04259cc) - Eduardo Rabelo (HTML)
 
 
 #### Angular
 
-* [Começando com Angular](https://app.balta.io/courses/7181) - Andre Baltieri (balta.io)
-* [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
-* [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
+> :information_source: Veja também &#8230; [AngularJS](#angularjs), [IDE and editors](#ide-and-editors)
 
-
-### WordPress
-
-* [Curso de Loja Virtual: WooCommerce + WordPress](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR) - Gustavo Guanabara (Curso em Vídeo)
-* [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Gustavo Guanabara (Curso em Vídeo)
-
-
-### Segurança da Informação
-
-* [Boas Práticas de Segurança da Informação para Sua Empresa](https://www.udemy.com/course/empresa-mais-segura/) - Afonso da Silva E. (Udemy)
-* [Segurança da Informação: Por onde iniciar sua carreira](https://www.udemy.com/course/seguranca-da-informacao-por-onde-iniciar-sua-carreira/) - Alexandro Silva (Udemy)
+* [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm) - José Carlos Macoratti (HTML)
+* [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/) - IBM, Babu Suresh (HTML)

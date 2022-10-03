@@ -377,7 +377,7 @@
 
 ### Digital Electronics
 
-* [Digital Electronics \|Engineering Physics \|Basics of Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) - Neso Academy (YouTube)
+* [Digital Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) - Neso Academy (YouTube)
 
 
 ### Docker

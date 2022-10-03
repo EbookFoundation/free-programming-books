@@ -706,9 +706,9 @@
 
 ### Kubernetes
 
+* [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes) -  The Linux Foundation (edx)
 * [Kubernetes Core Concepts](https://kube.academy/paths/kubernetes-core-concepts) - KubeAcademy (VMware)
 * [Kubernetes Tutorial for Beginners](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) - TechWorld with Nana
-* [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes) -  The Linux Foundation (edx)
 
 
 ### Linux

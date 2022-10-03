@@ -217,6 +217,8 @@
 * [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
+* [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Jeremy Thomas
+
 
 
 #### AngularJS

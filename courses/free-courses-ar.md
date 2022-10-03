@@ -71,7 +71,7 @@
 ### AWS
 
 * [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - Eissa AbuSherif
-* [لمتابعة الكورس كامل ](https://www.youtube.com/watch?v=w-a5zNMDi5o&list=PLCIJjtzQPZJ_yv1T4eKYsY1hZxcYSjhGY&ab_channel=Free4arab%7CInformationTechnology) - Eng-Mohammed Oday
+* [لمتابعة الكورس كامل ](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ_yv1T4eKYsY1hZxcYSjhGY) - Eng-Mohammed Oday
 
 
 ### Bootstrap

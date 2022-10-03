@@ -221,7 +221,7 @@
 
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
 * [MongoDB Cheat Sheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - codecentric (PDF)
-* [MongoDB commands cheat sheet](https://www.codewithharry.com/blogpost/mongodb-cheatsheet/) - Codewithharry(Website)
+* [All MongoDb commands you will ever need (MongoDb Cheatsheet)](https://www.codewithharry.com/blogpost/mongodb-cheatsheet/) - CodeWithHarry (Website)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet
 
 

@@ -55,7 +55,7 @@
 
 ### Assembly Language
 
-* [PC Assembly Language](http://drpaulcarter.com/pcasm) - Paul A. Carter
+* [PC Assembly Language](https://pacman128.github.io/static/pcasm-book.pdf) - Paul A. Carter
 * [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres, Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 
@@ -188,7 +188,7 @@
 
 #### Symfony
 
-* [Symfony: Auf der Überholspur](https://symfony.com/doc/current/the-fast-track/de/index.html) (Online)
+* [Symfony: Auf der Überholspur](https://symfony.com/doc/5.4/the-fast-track/en/index.html) (Online)
 
 
 ### Python

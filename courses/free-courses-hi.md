@@ -216,7 +216,7 @@
 
 ### Kotlin
 
-* [Kotlin Programming Complete in one Video (Hindi)](https://www.youtube.com/watch?v=uoP4JKHgzDE) - Geeky Shows, Rajesh Kumar (YouTube)
+* [Kotlin Programming Complete in one Video (Hindi)](https://www.youtube.com/watch?v=uoP4JKHgzDE) - Geeky Shows, `tch.:` Rajesh Kumar
 
 
 ### Linux

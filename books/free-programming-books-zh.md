@@ -303,7 +303,7 @@
 * [Google Material Design 中文协同翻译](https://github.com/1sters/material_design_zh) - 1sters 极客实验室, 四勾 4J, IceskYsl, et al.
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android)
-
+* [Codekk(Android源码解读)](https://github.com/android-cn/android-open-project-analysis) - Trinea
 
 ### Assembly
 

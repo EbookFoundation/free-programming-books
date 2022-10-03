@@ -197,6 +197,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Compiling Scala for the Java Virtual Machine](http://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf) - Michel Schinz (PDF)
 * [Compiling Techniques (1969)](http://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm) - F.R.A. Hopgood, Macdonald
 * [Crafting Interpreters](http://www.craftinginterpreters.com) - Bob Nystrom (HTML)
+* [EXPL NITC: Build your own Compiler](https://silcnitc.github.io) - Murali Krishnan K., students in the Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 * [Implementing Functional Languages: A Tutorial](http://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
 * [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf) - Douglas Thain (PDF)
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
@@ -243,6 +244,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Database
 
 * [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/) - Adrienne Watt, Nelson Eng @ BCcampus Open Pressbooks (HTML, PDF, EPUB, Kindle)
+* [Database Design Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/database-design-succinctly) - Joseph D. Booth (HTML, PDF, EPUB, MOBI)
 * [Database Explorations](http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) - C.J. Date, Hugh Darwen (PDF)
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) - Neeraj Sharma et al. (PDF)
 * [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) - C.J. Date, Hugh Darwen (PDF)
@@ -612,6 +614,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Kafka, The definitive Guide](https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf) - Neha Narkhede (PDF)
 * [Linux IP Stacks Commentary](https://www.satchell.net/ipstacks/) - Stephen Satchell, H. B. J. Clifford (HTML) *(:construction: in process)*
 * [Network Science](http://networksciencebook.com) - Albert-Laszló Barabási
+* [Networking! ACK!](https://wizardzines.com/zines/networking/) - Julia Evans (PDF)
 * [Securing Wireless Networks for the Home User Guide](https://mohamedation.github.io/securing-wifi/index-en.html) - Mohamed Adel (HTML)
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (PDF)

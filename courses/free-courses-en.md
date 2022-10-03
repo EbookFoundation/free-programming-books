@@ -396,14 +396,14 @@
 
 ### Elastic Stack
 
-* [App Search Fundamentals](https://www.elastic.co/pt/training/app-search-fundamentals) - Elastic .co
-* [App Search Web Crawler Fundamentals](https://www.elastic.co/pt/training/app-search-web-crawler-fundamentals) - Elastic .co
-* [ECE Fundamentals](https://www.elastic.co/pt/training/ece-fundamentals) - Elastic .co
-* [Elastic Security Fundamentals: SIEM]([https://www.elastic.co/pt/training/kibana-for-splunk-spl-users](https://www.elastic.co/pt/training/elastic-security-fundamentals-siem)) - Elastic .co
-* [Kibana for Splunk SPL Users](https://www.elastic.co/pt/training/kibana-for-splunk-spl-users) - Elastic .co
-* [Kibana Fundamentals](https://www.elastic.co/pt/training/kibana-fundamentals) - Elastic .co
-* [Observability Fundamentals](https://www.elastic.co/pt/training/observability-fundamentals) - Elastic .co
-* [Workplace Search Fundamentals](https://www.elastic.co/pt/training/workplace-search-fundamentals) - Elastic .co
+* [App Search Fundamentals](https://www.elastic.co/training/app-search-fundamentals) - Elastic .co
+* [App Search Web Crawler Fundamentals](https://www.elastic.co/training/app-search-web-crawler-fundamentals) - Elastic .co
+* [ECE Fundamentals](https://www.elastic.co/training/ece-fundamentals) - Elastic .co
+* [Elastic Security Fundamentals: SIEM]([https://www.elastic.co/training/kibana-for-splunk-spl-users](https://www.elastic.co/training/elastic-security-fundamentals-siem)) - Elastic .co
+* [Kibana for Splunk SPL Users](https://www.elastic.co/training/kibana-for-splunk-spl-users) - Elastic .co
+* [Kibana Fundamentals](https://www.elastic.co/training/kibana-fundamentals) - Elastic .co
+* [Observability Fundamentals](https://www.elastic.co/training/observability-fundamentals) - Elastic .co
+* [Workplace Search Fundamentals](https://www.elastic.co/training/workplace-search-fundamentals) - Elastic .co
 
 
 ### Flutter

@@ -70,6 +70,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Microsoft Guides to Software](https://blogs.msdn.microsoft.com/mssmallbiz/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2/)
 * [Microsoft Press: Free E-Books](https://mva.microsoft.com/ebooks)
 * [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
+* [DevOps for ASP.NET Core Developers](https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/devops-aspnet-core/DevOps-for-ASP.NET-Core-Developers.pdf)
 * [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
 * [O'Reilly's Open Books Project](http://www.oreilly.com/openbook/)
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)

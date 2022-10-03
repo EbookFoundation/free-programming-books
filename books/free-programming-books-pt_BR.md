@@ -71,6 +71,8 @@
 #### Programação
 
 * [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF)
+* [Algoritmos - Teoria e Prática](https://computerscience360.files.wordpress.com/2018/02/algoritmos-teoria-e-prc3a1tica-3ed-thomas-cormen.pdf) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein (PDF)
+* [Fundamentos da Programação de Computadores](https://caequfpb.yolasite.com/resources/Livro%20Fundamentos%20da%20Programa%C3%A7%C3%A3o.pdf) - Ana Fernanda Gomes Ascencio, Edilene Aparecida Veneruchi de Campos (PDF)
 * [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
 
@@ -134,6 +136,8 @@
 
 
 ### Engenharia de Software
+
+* [Engenharia de Software - Uma Abordagem Profissional](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Julho_2019/capas_julho_2019/Pressman_Engenharia0001.pdf) - Roger S. Pressman, Brunce R. Maxim (PDF)
 
 #### Metodologias de Desenvolvimento de Software
 

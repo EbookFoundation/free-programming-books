@@ -31,6 +31,7 @@
 
 ### Algorithms
 
+* [All Sorting algorithms and Programs](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla (YouTube)
 * [Binary Search \| Interview Questions \| Coding \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) - Aditya Verma
 * [Binary Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4) - Pepcoding
 * [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
@@ -39,7 +40,6 @@
 * [Recursion & Backtracking - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) - Pepcoding
 * [Recursion & Backtracking - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0) - Pepcoding
 * [Recursion Playlist \| Coding \| Interview Questions \| Algorithm \| Tutorials](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) - Aditya Verma
-* [All Sorting algorithms and Programs](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla (YouTube)
 * [Time and Space - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f) - Pepcoding
 
 

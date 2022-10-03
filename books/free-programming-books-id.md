@@ -172,6 +172,7 @@
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [React JS Mengupas Kode dan Fungsi React JS](https://s3.amazonaws.com/elexmedia/preview/9786020448800.pdf) - Elexmedia
 
+
 ### Solidity
 
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)

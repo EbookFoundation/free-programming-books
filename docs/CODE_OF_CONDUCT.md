@@ -14,10 +14,11 @@ Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery
 * Personal attacks
-* Trolling or insulting/derogatory comments
+* Trolling or insulting/derogatory comments against a persons appearance
 * Public or private harassment
+* Racism or hate speech
 * Publishing other's private information, such as physical or electronic
-  addresses, without explicit permission
+  addresses, without explicit permission (doxxing)
 * Other unethical or unprofessional conduct
 
 Project maintainers have the right and responsibility to remove, edit, or
@@ -26,18 +27,19 @@ that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
-By adopting this Code of Conduct, project maintainers commit themselves to
+By adopting this Code of Conduct, project maintainers and contributors commit themselves to
 fairly and consistently applying these principles to every aspect of managing
-this project. Project maintainers who do not follow or enforce the Code of
+this project. Project maintainers and contributors who do not follow or enforce the Code of
 Conduct may be permanently removed from the project team.
 
 This code of conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting a project maintainer at victorfelder at gmail.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. Maintainers are
+reported by contacting a project maintainer at victorfelder at gmail.com. 
+
+All complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and proportionate to the circumstances. Maintainers and contributors are
 obligated to maintain confidentiality with regard to the reporter of an
 incident.
 

@@ -7,7 +7,7 @@
 * [C](#c)
 * [C++](#cpp)
 * [Data Structures](#data-structures)
-* [Database Systems](#database-systems)
+* [Databases](#databases)
 * [DevOps](#devops)
 * [Flutter](#flutter)
 * [Git and GitHub](#git-and-github)
@@ -102,7 +102,7 @@
 * [Stack Playlist \| Interview Questions \| Coding \| Tutorials \| Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma
 
 
-### Database Systems
+### Databases
 
 * [DBMS(Database Management System)Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers (YouTube)
 * [DBMS(Database Management System)Placement Series](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp (YouTube)

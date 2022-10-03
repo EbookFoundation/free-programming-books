@@ -71,6 +71,7 @@
 ### AWS
 
 * [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - Eissa AbuSherif
+* [AWS Tutorial For Beginners | AWS Training | Edureka](https://www.youtube.com/watch?v=k1RI5locZE4&ab_channel=edureka%21) - edureka!
 
 
 ### Bootstrap

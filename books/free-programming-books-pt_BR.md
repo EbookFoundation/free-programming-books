@@ -1,6 +1,7 @@
 ### Índice
 
 * [Agnósticos](#agnósticos)
+    * [Cloud Computing](#cloud-computing)
     * [IDE and editors](#ide-and-editors)
     * [Programação](#programação)
     * [Sistemas Operacionais](#sistemas-operacionais)
@@ -53,6 +54,11 @@
 
 
 ### Agnósticos
+
+#### Cloud Computing
+
+* [Guia da Computação em Nuvem: Conceito, Prática & Capacitação](https://archive.org/details/guia-da-computacao-em-nuvem) - Beatriz Oliveira, Mariana Carvalho (PDF, EPUB)
+
 
 #### IDE and editors
 

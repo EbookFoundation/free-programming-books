@@ -2418,6 +2418,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Verilog
 
 * [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/) - Daniel E. Gisselquist
+* [Verilog HDL - Samir Palnitkar](https://rashmistudents.yolasite.com/resources/Verilog%20HDL%20-%20Samir%20Palnitkar.pdf) (PDF)
 * [Verilog Quick Reference Guide - Sutherland HDL](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) (PDF)
 * [Verilog Tutorial](http://www.asic-world.com/verilog/veritut.html)
 

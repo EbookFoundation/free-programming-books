@@ -100,8 +100,9 @@ ADV - Продвинутый. Тонкости.
 
 #### Node.js
 
+* [Уроки Node JS начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet) - Гоша Дударь (BEG)
 * [Node.js введение в технологию](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ) - Тимур Шемсединов (INT)
-* [Уроки Node JS и Express Для начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet) - Гоша Дударь (BEG)
+
 
 #### React
 

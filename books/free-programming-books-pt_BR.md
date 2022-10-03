@@ -367,6 +367,7 @@
 * [Aprenda a Programar](http://www.jmonteiro.com/aprendaaprogramar/)
 * [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
 
+
 ### Rust
 
 * [A Linguagem de Programação Rust](https://rust-br.github.io/rust-book-pt-br/title-page.html) - Steve Klabnik, Carol Nichols, `trl.:` Lucas Guimarães, `trl.:` Mario Idival, `trl.:` Alberto Margarido, et al. (HTML)

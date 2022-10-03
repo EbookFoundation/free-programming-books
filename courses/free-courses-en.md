@@ -328,7 +328,7 @@
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [NumPy Beginners Guide 3rd Edition](https://drive.google.com/file/d/1qCc3XXIZ40jL3wDlSkYSAiuSBnjo6wym/view?usp=sharing)
 * [Python Data Science HandBook](https://drive.google.com/file/d/1EpDxQvexRC-qTx2g5ncX3SWdR5cMWq1H/view?usp=sharing)
-* [Python For Data Analysis 2nd Edition](https://drive.google.com/file/d/1EpDxQvexRC-qTx2g5ncX3SWdR5cMWq1H/view?usp=sharing)
+* [Python For Data Analysis-2nd Edition](https://drive.google.com/file/d/1EpDxQvexRC-qTx2g5ncX3SWdR5cMWq1H/view?usp=sharing)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 
 

@@ -72,9 +72,9 @@
 
 ### <a id="csharp"></a>C\#
 
-* [C# PROGRAMMING LANGUAGE (CONSOLE APPLICATIONS)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - 
+* [C# Programming language (Console Applications)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - 
 Learning Never Ends (YouTube)
-* [C# Tutorial In Hindi\| CodeWithHarry](https://www.youtube.com/watch?v=SuLiu5AK9Ps) - CodeWithHarry (YouTube)
+* [C# Tutorial In Hindi \| CodeWithHarry](https://www.youtube.com/watch?v=SuLiu5AK9Ps) - CodeWithHarry (YouTube)
 
 
 ### <a id="cpp"></a>C++

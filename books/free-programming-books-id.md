@@ -100,7 +100,7 @@
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
-* [Tutorial JavaScript Modern](https://id.javascript.info)
+* [Tutorial JavaScript Modern](https://id.javascript.info) - Ilya Kantor
 * [Tutorial Javascript OOP (Bahasa Indonesia)](https://www.youtube.com/watch?v=SDROba_M42g) - Programmer Zaman Now
 
 

@@ -10,7 +10,7 @@
 * [DevOps](#devops)
 * [Flutter](#flutter)
 * [Git and GitHub](#git-and-github)
-* [Golang](#go)
+* [Golang](#golang)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [Java](#java)

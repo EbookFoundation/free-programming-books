@@ -4,6 +4,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Competitive Programming](#competitive-programming)
 * [Dart](#dart)
 * [Flutter](#flutter)
 * [Git](#git)
@@ -20,6 +21,7 @@
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
+* [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Programming paradigms](#programming-paradigms)
@@ -53,6 +55,11 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+
+
+### Competitive Programming
+
+* [Competitive Programming Course in Bengali](https://www.youtube.com/channel/UCozCCU3b1HmcmCf2gLN_7HA/videos) - Bangladesh IOI team
 
 
 ### Dart
@@ -158,6 +165,11 @@
 ### Kotlin
 
 * [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
+
+
+### MongoDB
+
+* [Mastering MongoDB](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt) - Foyzul Karim
 
 
 ### MySQL

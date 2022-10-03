@@ -2,7 +2,6 @@
 
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
-* [Bash](#bash)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -29,10 +28,12 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+    * [Django](#django)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Shell Scripting](#shell-scripting)
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
@@ -49,12 +50,6 @@
 ### Artificial Intelligence
 
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
-
-
-### Bash
-
-* [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
-* [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
 
 
 ### C
@@ -88,7 +83,7 @@
 ### Docker
 
 * [Docker Cheat Sheet](https://low-orbit.net/docker-cheat-sheet) - Anthony Rioux, Low Orbit Flux (HTML, PDF)
-* [Docker Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) - Docker Inc., Solomon Hykes (PDF)
+* [Docker Cheat Sheet](https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf) - Docker Inc., Solomon Hykes (PDF)
 * [Docker Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/docker-cheat-sheet/) - IntelliPaat (HTML, PDF)
 * [Docker Cheat Sheet](https://swissarmydevops.com/containers/docker/docker-cli-cheat-sheet) - Nikko Pedersen, Swiss Army DevOps (HTML, PDF)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) - Will Sargent, et al.
@@ -116,6 +111,7 @@
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
     * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
     * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
+* [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - Atlassian (PDF)
 * [Git Cheat Sheet](https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF)
 * [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub
 * [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (online, PDF)
@@ -189,6 +185,7 @@
 
 #### Vue.js
 
+* [Vue 3 Cheatsheet for Developers](https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf) - LearnVue (PDF)
 * [Vue Essential Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf) - Vue Mastery (PDF)
 * [Vue.js 2.3 Complete API Cheat Sheet](https://marozed.com/vue-cheatsheet) - Marcos Neves, Marozed (HTML)
 
@@ -252,11 +249,20 @@
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
 * [Python Cheatsheet for beginners](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet) - Codeacademy (HTML)
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
+* [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)
 * [Python Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - Pandas (PDF)
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
+
+
+#### Django
+
+* [All in one Cheatsheet of Django](https://cheatography.com/ogr/cheat-sheets/django/pdf/) - Olivier R. (PDF)
+* [Django Quick Reference](https://www.codewithharry.com/blogpost/django-cheatsheet/) - Code with Harry (HTML)
+* [Django Web App Beginners Cheat sheet](https://ordinarycoders.com/blog/article/django-beginners-guide) - Jaysha (HTML)
+* [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)
 
 
 ### R
@@ -281,6 +287,13 @@
 ### Rust
 
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
+
+
+### Shell Scripting
+
+* [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
+* [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+* [Fish Shell cheatsheet](https://devhints.io/fish-shell) - DevHints, Rico Santa Cruz (HTML)
 
 
 ### Solidity

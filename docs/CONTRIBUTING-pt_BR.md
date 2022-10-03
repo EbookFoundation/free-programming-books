@@ -1,4 +1,4 @@
-*[Leia em outros idiomas](../README.md#translations)*
+*[Leia em outros idiomas](README.md#translations)*
 
 
 ## Acordo de Licença do Contribuidor
@@ -8,7 +8,7 @@ Ao contribuir você concorda com a [LICENSE](../LICENSE) deste repositório.
 
 ## Código de Conduta do Contribuidor
 
-Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT-pt_BR.md) deste repositório. ([translations](../README.md#translations))
+Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT-pt_BR.md) deste repositório. ([translations](README.md#translations))
 
 
 ## Em poucas palavras
@@ -18,11 +18,12 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 2. Não é necessário saber Git: se você encontrou algo interessante que *não está presente neste repositório*, por favor abra uma [Issue](https://github.com/EbookFoundation/free-programming-books/issues) com todas as propostas de _links_.
     - Se você sabe Git, faça um _Fork_ do repositório e mande um _Pull Request (PR)_.
 
-3. Possuimos 5 tipos de listas. Escolha a mais adequada:
+3. Possuimos 6 tipos de listas. Escolha a mais adequada:
 
     - *Livros*: PDF, HTML, ePub, sites baseados no gitbook.io, um repositório Git, etc.
     - *Cursos*: Um curso é um material didático que não é um livro. [Isso é um curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriais Interativos*: Um site interativo que permite ao usuário digitar código ou comandos e computa o resulta (por "computar" não queremos dizer "avaliar"). Por exemplo: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts e Screencasts* : Podcasts e screencasts.
     - *Conjuntos de Problemas e Programação Competitiva* : Um site ou software que permite avaliar suas habilidades de programação através da resolução de problemas simples ou complexos, com ou sem revisão de código, com ou sem comparação de resultados com outros usuários.
 
@@ -35,7 +36,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 
 - certifique-se de que o livro é gratuito. Verifique múltiplas vezes se necessário. Comentar no PR por quê você acha que o livro é gratuito ajuda os administradores.
 - não aceitamos arquivos hospedados no Google Drive, Dropbox, Mega, Scribd, Issuu e outras plataformas similares de _upload_ de arquivos.
-- insira seus _links_ em ordem alfabética. Se vir um _link_ fora de ordem, por favor reordene-o e crie um PR.
+- insira seus _links_ em ordem alfabética, as described [below](#alphabetical-order).
 - use o _link_ com a fonte mais oficial (isso significa que o site do próprio autor é melhor que o site da editora, que é melhor que sites de terceiros)
     - sem serviços de hospedagem de arquivos (isso inclui (mas não se limita a) _links_ do Dropbox e Google Drive)
 - sempre prefira um _link_ `https` em vez de `http` -- desde que estejam no mesmo domínio e sirvam o mesmo conteúdo.
@@ -55,6 +56,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 - se o livro for mais antigo, inclua a data de publicação no título.
 - inclua o(s) nome(s) do(s) autor(es) onde for apropriado. Você pode encurtar a lista de autores com "`et al`".
 - se o livro não estiver completo, e ainda está sendo escrito, adicione a notação "`in process`", como descrito [abaixo](#in_process).
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - se um endereço de email ou configuração de conta for solicitado antes que o _download_ seja habilitado, adicione uma observação no idioma apropriado e entre parênteses. Por exemplo: `(endereço de email é *pedido*, não obrigatório)`.
 
 
@@ -127,11 +129,24 @@ Exemplo:
     BOM : * [Um Livro Muito Incrível (1970)](https://exemplo.org/livro.html) - Fulana de Tal
     ```
 
-- <a name="in_process"></a>Livros em processo:
+- <a id="in_process"></a>Livros em processo:
 
     ```text
     BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) (:construction: *em processo*)
     ```
+
+- <a id="archived"></a>Archived link:
+
+    ```text
+    BOM  : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
 
 
 ### Observações
@@ -148,6 +163,7 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 
 - Sem títulos inventados. Tentamos utilizar os títulos dos próprios materiais; contribuidores são aconselhados a não inventar títulos ou usá-los editorialmente se possível evitar. Uma exceção é para trabalhos antigos; se forem primariamente de interesse histórico, o ano entre parênteses adicionado ao título ajuda os usuários a saber se é de seu interesse.
 - Sem título EM CAIXA ALTA. Normalmente "_title case_" é apropriado. Em caso de dúvida, use a capitalização da fonte.
+- No emojis.
 
 
 ##### URLs
@@ -162,9 +178,17 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 ##### Criadores
 
 - Queremos creditar os criadores do material gratuito apropriadamente, incluindo tradutores!
-- Para trabalhos traduzidos, o autor original deve ser creditado.
+- Para trabalhos traduzidos, o autor original deve ser creditado. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-pt_BR.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - Não permitimos _links_ para Criadores.
-- Para compilações ou trabalhos remixados, o "criador" pode precisar de uma descrição. Por exemplo, os livros "GoalKicker" são creditados como "`Compilado da documento do StackOverflow`" (em inglês: "`Compiled from StackOverflow documentation`").
+- Para compilações ou trabalhos remixados, o "criador" pode precisar de uma descrição. Por exemplo, os livros "GoalKicker" ou "RIP Tutorial" são creditados como "`Compilado da documento do StackOverflow`" (em inglês: "`Compiled from StackOverflow documentation`").
 
 
 ##### Plataforma e Notas de Acesso
@@ -226,7 +250,7 @@ Se você pode capturar a tela ou imprimí-la e reter sua essência, então não 
 
 ### Automação
 
-- Aplicação das regras de formatação é automatizada via [GitHub Actions](https://github.com/features/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (veja [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Aplicação das regras de formatação é automatizada via [GitHub Actions](https://github.com/features/actions) usando [fpb-lint](https://github.com/vhf/free-programming-books-lint) (veja [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - Validação de URL usa [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Para ativar a validação de URL, dê _push_ num _commit_ que inclua uma mensagem de _commit_ contendo `check_urls=file_to_check`:
 

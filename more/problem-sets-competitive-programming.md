@@ -11,6 +11,7 @@
 
 * [4Clojure](http://www.4clojure.com)
 * [A2 Online Judge](https://a2oj.com)
+* [Algorithms for Competitive Programming](https://cp-algorithms.com)
 * [APL Problem Solving Competition](https://contest.dyalog.com)
 * [AtCoder](https://atcoder.jp)
 * [beecrowd](https://www.beecrowd.com.br)
@@ -57,7 +58,7 @@
 * [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
-* [Picoctf](https://picoctf.org/resources) (email address *requested*)
+* [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
 
 
@@ -68,7 +69,6 @@
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
-* [KDD Cup](https://www.kdd.org/kdd2019/kdd-cup)
 
 
 ### Information security
@@ -84,6 +84,7 @@
 * [500 Data structures and algorithms interview questions and their solutions in C++](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
+* [AdventJS - 25 días de retos con JavaScript](https://adventjs.dev) - Miguel Ángel Durán «midudev» *(GitHub account requested, not required)*
 * [Anarchy Golf](http://golf.shinh.org)
 * [APL Practice Problems](https://problems.tryapl.org)
 * [BaekJoon Online Judge](http://www.acmicpc.net)
@@ -100,7 +101,7 @@
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](https://practice.geeksforgeeks.org)
-* [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
+* [Google Code Jam - Practise](https://codingcompetitions.withgoogle.com/codejam/archive)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
 * [HDU Online Judge](http://acm.hdu.edu.cn)
@@ -119,6 +120,7 @@
 * [Rosalind](http://rosalind.info/problems/locations/)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical)
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
+* [The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://blog.shahjalalshohag.com/topic-list/) - Shahjalal Shohag
 * [Timus Online Judge](http://acm.timus.ru)
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Школа программиста](https://acmp.ru)

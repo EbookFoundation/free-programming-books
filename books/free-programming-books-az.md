@@ -1,10 +1,9 @@
 ### Index
 
 * [C](#c)
-* [CSS](#css)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
-* [Linux](#Linux)
+* [Linux](#linux)
 * [PHP](#php)
 
 
@@ -13,13 +12,9 @@
 * [C Proqramlaşdırma Dili](http://ilkaddimlar.com/ders/c-proqramlasdirma-dili)
 
 
-### CSS
+### HTML and CSS
 
 * [CSS](http://ilkaddimlar.com/ders/css)
-
-
-### HTML
-
 * [HTML](http://ilkaddimlar.com/ders/html)
 
 

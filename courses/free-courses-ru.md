@@ -3,38 +3,37 @@
 * [Дизайн и Aрхитектура](#design-architecture)
 * [C++](#cpp)
 * [Clojure](#clojure)
-* [CSS](#css)
 * [Dart](#dart)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Node.js](#nodejs)
-  * [React](#react)
+    * [Node.js](#nodejs)
+    * [React](#react)
 * [Julia](#julia)
 * [Kotlin](#kotlin)
 * [Perl](#perl)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
-* [R](#R)
+* [R](#r)
 * [Ruby](#ruby)
 
 
 ### Уровни
 
-BEG - Hовичок. Основы.  
-INT - Cредний. Расширенные возможности.  
+BEG - Hовичок. Основы.    
+INT - Cредний. Расширенные возможности.    
 ADV - Продвинутый. Тонкости.
 
 
-### <a name="design-architecture"></a>Дизайн и Aрхитектура
+### <a id="design-architecture"></a>Дизайн и Aрхитектура
 
 * [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [Введение в программирование (C++)](https://stepik.org/course/363) - Stepik (BEG)
 * [Основы разработки на С++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white) - Шишков Илья Иванович, Парамонов Евгений Анатольевич, Полднев Антон Вячеславович, Лежанкин Иван Андреевич (Coursera) (INT)
@@ -48,11 +47,6 @@ ADV - Продвинутый. Тонкости.
 ### Clojure
 
 * [Курс Clojure](https://clojurecourse.by) (BEG)
-
-
-### CSS
-
-* [CSS для начинающих](https://ru.code-basics.com/languages/css) (BEG)
 
 
 ### Dart
@@ -73,8 +67,9 @@ ADV - Продвинутый. Тонкости.
 * [Функциональное программирование на языке Haskell (часть 2)](https://stepik.org/course/693) - Stepik (ADV)
 
 
-### HTML
+### HTML and CSS
 
+* [CSS для начинающих](https://ru.code-basics.com/languages/css) (BEG)
 * [HTML для начинающих](https://ru.code-basics.com/languages/html) (BEG)
 
 

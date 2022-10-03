@@ -1,10 +1,10 @@
 ### Index
 
-* [Algorithms & Data Structures](#algorithms-&-data-structures)
+* [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
 * [Arduino](#arduino)
-* [ASP.NET](#asp.net)
-* [C/C++](#c/c++)
+* [ASP.NET](#aspnet)
+* [C/C++](#cc)
 * [C#](#csharp)
 * [Circuit](#circuit)
 * [Deep Learning](#deep-learning)
@@ -16,9 +16,9 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
-  * [Node.js](#node.js)
-  * [React.js](#react.js)
+    * [AngularJS](#angularjs)
+    * [Node.js](#nodejs)
+    * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -28,6 +28,8 @@
 * [Operation System](#operation-system)
 * [PHP](#php)
 * [Python](#python)
+    * [Django](#django)
+    * [Flask](#flask)
 * [Raspberry Pi](#raspberry-pi)
 * [Reinforced Learning](#reinforced-learning)
 * [Ruby](#ruby)
@@ -80,7 +82,7 @@
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [예제로 배우는 C# 강좌](https://www.youtube.com/playlist?list=PL4PkN2EXiuVF3Xl0HNVMdY-_kMM3oyBds)
 
@@ -106,7 +108,7 @@
 
 ### Git
 
-* [지옥에서 온 Git](https://www.opentutorials.org/course/2708) (생활코딩)
+* [GIT1](https://www.opentutorials.org/course/3837) - 생활코딩
 
 
 ### Go
@@ -137,7 +139,7 @@
 * [Do it! Java 프로그래밍 입문](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
 * [Java 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R)
 * [Java 리듬게임 만들기 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDySO3wDqMYGKMVH4Qa4QhR)
-* [Java 입문수업](https://www.opentutorials.org/course/1223) (생활코딩)
+* [Java 입문수업](https://www.opentutorials.org/course/3930) (생활코딩)
 * [Java with 인크레파스](https://www.youtube.com/playlist?list=PLa4r6B21Ny5ld_PTqzzqDMxxoj7l0z7Xp)
 
 
@@ -185,6 +187,7 @@
 ### Mathematics
 
 * [수치해석](http://www.kocw.net/home/search/kemView.do?kemId=1297704) (국민대 김상철)
+* [수치해석 강의 동영상](https://youtube.com/playlist?list=PLczEhXyH_pUfKl9SPn-9j3K7olfBj5cpl) - 내가 이해한 기계공학 (WIU of Mech)
 * [전산수학1](http://www.kocw.net/home/search/kemView.do?kemId=1296081) (고려대 주재걸)
 
 
@@ -208,6 +211,7 @@
 
 ### PHP
 
+* [PHP](https://youtube.com/playlist?list=PLuHgQVnccGMDzq8zAwEY5lvwDWXWTZjB6) - 생활코딩
 * [PHP 프로그래밍](https://www.youtube.com/playlist?list=PLYNsYgev6U96jzS7AjBn5p7i_owJHqfyW)
 
 
@@ -216,6 +220,16 @@
 * [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 * [MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
 * [Python 입문자용 초급](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD8u2rzxmQ-L97jHTHiiDdy)
+
+
+#### Django
+
+* [Python Django Web Framework](https://youtube.com/playlist?list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG) - 생활코딩
+
+
+#### Flask
+
+* [Python Flask Web Framework](https://youtube.com/playlist?list=PLuHgQVnccGMClNOIuT3b3M4YZjxmult2y) - 생활코딩
 
 
 ### Raspberry Pi
@@ -266,7 +280,7 @@
 * [Web2-CSS](https://www.opentutorials.org/course/3086) (생활코딩)
 * [Web2-Domain name system](https://www.opentutorials.org/course/3276) (생활코딩)
 * [Web2-Home server](https://www.opentutorials.org/course/3265) (생활코딩)
-* [Web2-javascript](https://www.opentutorials.org/course/3085) (생활코딩)
+* [Web2-JavaScript](https://www.opentutorials.org/course/3085) (생활코딩)
 * [Web2-nodejs](https://www.opentutorials.org/course/3332) (생활코딩)
 * [Web2-PHP](https://www.opentutorials.org/course/3130) (생활코딩)
 * [Web2-Python](https://www.opentutorials.org/course/3256) (생활코딩)

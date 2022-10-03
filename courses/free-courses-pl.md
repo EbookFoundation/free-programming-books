@@ -6,10 +6,10 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [CSS](#css)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Vue.js](#vuejs)
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Python](#python)
@@ -36,26 +36,22 @@
 * [Kurs Programowania w C](https://www.youtube.com/playlist?list=PLgeFsJ0yZyikV_e8YDl5rixXu-H6wFIIZ)
 
 
-### <a name="csharp"></a>C\#
+### <a id="csharp"></a>C\#
 
 * [Podstawy programowania w języku C#](https://www.youtube.com/playlist?list=PLk5dbESAmUZh1cLITav0ZmDEqRujsPa93)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
 * [Kurs C++](https://www.youtube.com/playlist?list=PLE84826ABF088F7E8)
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB) - Mirosław Zelent, Damian Stelmach
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) - Mirosław Zelent, Damian Stelmach
 
 
-### CSS
+### HTML and CSS
 
 * [Kurs CSS](http://www.kurshtmlcss.pl/kurs-css) (Netido Interactive Agency)
 * [Kurs CSS. Wygląd strony www - kaskadowe arkusze stylów - Pasja informatyki (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv) - Mirosław Zelent, Damian Stelmach
-
-
-### HTML
-
 * [Kurs HTML](http://www.kurshtmlcss.pl/kurs-html) (Netido Interactive Agency)
 * [Kurs HTML](https://www.youtube.com/playlist?list=PLpwxuvBp359NntV2cLO5LaH6tmd6efmHH)
 * [Kurs HTML - od zera do Webmastera](https://www.youtube.com/playlist?list=PL0zYPqHK5yJWsIn3PIproSyxO3nchPd99)
@@ -70,6 +66,7 @@
 * [Java GUI: programowanie Graficznego Interfejsu Użytkownika](https://www.youtube.com/playlist?list=PL3298E3EB8CFDE9BA)
 * [Kurs JavaFX od podstaw](https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU)
 * [Kurs programowania Java](https://www.youtube.com/playlist?list=PLED70A92187B1406A)
+* [Kurs programowania w Javie od podstaw](https://programovanie.pl) - Michał Łoza (email address *requested*, not required)
 * [Kurs programowania w języku Java (od podstaw!)](https://www.youtube.com/playlist?list=PLTs20Q-BTEMMJHb4GWFT34PAWxYyzndIY)
 
 
@@ -80,7 +77,7 @@
 * [Programowanie w JavaScript od podstaw w 1 miesiąc](https://www.youtube.com/playlist?list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS)
 
 
-#### Vue
+#### Vue.js
 
 * [FrontAndBack.pl - Kurs Vue w praktyce](https://frontandback.pl/tags/kurs-vue-w-praktyce/)
 

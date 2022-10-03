@@ -1,0 +1,81 @@
+name: Check URLs from changed files
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+# This allows a subsequently queued workflow run to interrupt/wait for previous runs
+concurrency:
+  group: '${{ github.workflow }} @ ${{ github.run_id }}'
+  cancel-in-progress: false         # true = interrupt, false = wait
+
+jobs:
+  check-urls:
+    runs-on: ubuntu-latest
+
+    outputs:
+      changed-files: ${{ steps.changed-files.outputs.all_changed_files }}
+
+    steps:
+
+# NOTE: tj-actions/changed-files.
+# For push events you need to include fetch-depth: 0 | 2 depending on your use case.
+#  0: retrieve all history for all branches and tags
+#  1: retrieve only current commit (by default)
+#  2: retrieve until the preceding commit
+      - name: Determine workflow parameters
+        id: init-params
+        run: |
+          echo "::set-output name=fetch_depth::0";
+          if [ "${{ github.event_name }}" == "pull_request" ]; then
+            echo "::set-output name=fetch_depth::0";
+          fi
+
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: ${{ steps.init-params.outputs.fetch_depth }}
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v30.0.0
+        with:
+          separator: " "
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+
+      - run: |
+          gem install awesome_bot
+
+      - name: Check each changed file
+        run: |
+          # Set field separator
+          IFS=$' ';
+
+          # Processing loop
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo;
+            echo "::group::Processing file... $file";
+            awesome_bot "$file" --allow-redirect --allow-dupe --allow-ssl || true;
+            echo "::endgroup::";
+          done
+
+          # Unset field separator
+          unset IFS;
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: awesomebot-results
+          path: ${{ github.workspace }}/ab-results-*.json
+
+      - name: Generate Summary Report using AwesomeBot results
+        uses: ./.github/actions/awesomebot-gh-summary-action
+        with:
+          ab-root: ${{ github.workspace }}
+          files: ${{ steps.changed-files.outputs.all_changed_files }}
+          separator: " "
+          append-heading: ${{ true }}

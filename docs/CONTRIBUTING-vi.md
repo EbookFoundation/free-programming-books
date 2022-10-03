@@ -1,4 +1,4 @@
-*[Đọc bằng ngôn ngữ khác](../README.md#translations)*
+*[Đọc bằng ngôn ngữ khác](README.md#translations)*
 
 Bản dịch Tiếng Việt:
 
@@ -18,7 +18,7 @@ Bằng cách đóng góp, bạn đồng ý với [LICENSE](../LICENSE) của kho
 
 ## Quy Tắc Ứng Xử của Cộng Tác Viên
 
-Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](CODE_OF_CONDUCT.md) của kho lưu trữ này. ([translations](../README.md#translations))
+Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](CODE_OF_CONDUCT.md) của kho lưu trữ này. ([translations](README.md#translations))
 
 
 ## Tóm Tắt
@@ -28,15 +28,16 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](C
 2. Bạn không cần phải biết về Git: nếu bạn tìm được thứ gì đó thú vị *và chưa có trong kho lưu trữ này*, vui lòng mở một [Issue](https://github.com/EbookFoundation/free-programming-books/issues) với các đề xuất mà bạn muốn đóng góp.
     - Nếu bạn biết Git, vui lòng Fork kho lưu trữ này và gửi Pull Requests (PR).
 
-3. Chúng tôi có 5 loại tài liệu, bạn có thể chọn một trong những cái dưới đây:
+3. Chúng tôi có 6 loại tài liệu, bạn có thể chọn một trong những cái dưới đây:
 
     - *Sách* : PDF, HTML, ePub, một trang web dựa trên gitbook.io, một kho lưu trữ Git, v.v.
     - *Khóa Học* : Một khóa học là một tài liệu học tập, không phải là sách. [Đây là một khóa học](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Hướng Dẫn Trực Quan* : Một trang web cho phép người dùng lập trình hoặc chạy chương trình dựa trên kết quả và đánh giá. Ví dụ: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts và Screencasts* : Podcasts và screencasts.
     - *Bài Tập & Cuộc Thi Lập Trình* : Trang web hoặc phần mềm cho phép bạn đánh giá kỹ năng lập trình của mình bằng cách giải quyết các vấn đề đơn giản hoặc phức tạp, có hoặc không có đánh giá mã nguồn, có hoặc không so sánh kết quả với những người khác.
 
-4. Đảm bảo tuân thủ theo [những nguyên tắc bên dưới](#Những Nguyên Tắc) và đảm bảo sử dụng đúng [định dạng Markdown](#Định Dạng).
+4. Đảm bảo tuân thủ theo [những nguyên tắc bên dưới](#Những-Nguyên-Tắc) và đảm bảo sử dụng đúng [định dạng Markdown](#Định-Dạng).
 
 5. GitHub Actions sẽ chạy các test để đảm bảo **danh sách của bạn được sắp xếp theo thứ tự bảng chữ cái** và các **nguyên tắc định dạng được tuân thủ**. **Kiểm tra để đảm bảo** các thay đổi của bạn có vượt qua các bài test.
 
@@ -45,7 +46,7 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](C
 
 - đảm bảo rằng một cuốn sách là miễn phí. Kiểm tra kỹ nếu cần. Nó sẽ giúp cho các quản trị viên nếu bạn nhận xét trong phần PR về lý do tại sao bạn cho rằng cuốn sách là miễn phí.
 - chúng tôi không chấp nhận các tệp được lưu trữ trên Google Drive, Dropbox, Mega, Scribd, Issuu và các nền tảng tải lên tệp tương tự khác.
-- chèn các liên kết của bạn theo thứ tự bảng chữ cái. Nếu bạn thấy một liên kết bị đặt sai vị trí, vui lòng sắp xếp lại nó và gửi một PR.
+- chèn các liên kết của bạn theo thứ tự bảng chữ cái, as described [below](#alphabetical-order).
 - sử dụng liên kết với nguồn có thẩm quyền nhất (có nghĩa là trang web của tác giả tốt hơn trang web của người biên tập, tốt hơn trang web của bên thứ ba)
     - không có dịch vụ lưu trữ tệp (điều này bao gồm (nhưng không giới hạn) liên kết Dropbox và Google Drive)
 - một giao thức `https` tốt hơn giao thức `http` - miễn là chúng ở trên cùng một domain và thể hiện cùng một nội dung.
@@ -65,6 +66,7 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](C
 - nếu sách cũ, hãy bao gồm ngày xuất bản cùng với tên sách.
 - bao gồm tên tác giả hoặc tên nếu thích hợp. Bạn có thể rút ngắn danh sách tác giả với "`et al.`".
 - nếu cuốn sách chưa hoàn thành và vẫn đang được hoàn thiện, hãy thêm ký hiệu "`đang xử lý`", như được mô tả [dưới đây](#in_process).
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - nếu địa chỉ email hoặc thiết lập tài khoản được yêu cầu trước khi kích hoạt tải xuống, hãy thêm ghi chú phù hợp với ngôn ngữ trong ngoặc đơn, ví dụ: `(địa chỉ email *được yêu cầu*, không bắt buộc)`.
 
 
@@ -137,11 +139,24 @@ Ví dụ:
     TỐT: * [Một cuốn sách rất tuyệt vời (1970)](https://example.org/book.html) - Jane Roe
     ```
 
-- <a name="in_process"></a>Sách đang trong quá trình viết:
+- <a id="in_process"></a>Sách đang trong quá trình viết:
 
     ```text
     TỐT: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
+
+- <a id="archived"></a>Archived link:
+
+    ```text
+    TỐT: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
 
 
 ### Ghi Chú
@@ -158,6 +173,7 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 
 - Không được phát minh ra tiêu đề. Chúng tôi cố gắng lấy các tiêu đề từ chính các nguồn tài liệu đó; những người đóng góp được khuyến cáo không phát minh ra tiêu đề hoặc chỉnh sửa chúng nếu điều này có thể tránh được. Một ngoại lệ là đối với các tác phẩm cũ hơn; nếu họ chủ yếu quan tâm đến lịch sử, thêm số năm vào trong dấu ngoặc đơn nằm trong tiêu đề sẽ giúp người dùng biết liệu họ có quan tâm hay không.
 - Không sử dụng tiêu đề viết HOA TOÀN BỘ. Thông thường, viết hoa tiêu đề là phù hợp, nhưng khi không chắc chắn, hãy sử dụng chữ viết hoa từ nguồn.
+- No emojis.
 
 
 ##### Các Liên Kết
@@ -172,9 +188,17 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 ##### Người Sáng Tạo
 
 - Chúng tôi muốn ghi công những người tạo ra các tài liệu miễn phí nếu thích hợp, bao gồm cả những người dịch!
-- Đối với các tác phẩm đã dịch, tác giả gốc nên được ghi công.
+- Đối với các tác phẩm đã dịch, tác giả gốc nên được ghi công. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-vi.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - Chúng tôi không cho phép liên kết bởi Người sáng tạo.
-- Đối với các tác phẩm tổng hợp hoặc phối lại, "người sáng tạo" có thể cần mô tả. Ví dụ: sách "GoalKicker" được ghi là "`Được tổng hợp từ tài liệu StackOverflow`" (bằng tiếng anh: "`Compiled from StackOverflow documentation`").
+- Đối với các tác phẩm tổng hợp hoặc phối lại, "người sáng tạo" có thể cần mô tả. Ví dụ: sách "GoalKicker" or "RIP Tutorial" được ghi là "`Được tổng hợp từ tài liệu StackOverflow`" (bằng tiếng anh: "`Compiled from StackOverflow documentation`").
 
 
 ##### Nền Tảng và Ghi Chú Truy Cập
@@ -236,7 +260,7 @@ Nếu bạn có thể in nó ra và giữ lại bản chất của nó, thì đ�
 
 ### Tự động hóa
 
-- Việc thực thi nguyên tắc định dạng được tự động hóa qua [GitHub Actions](https://docs.github.com/en/actions) sử dụng [fpb-lint](https://github.com/vhf/free-programming-books-lint) (xem file [`.github/workflows/fpb-lint.yml`](.github/workflows/fpb-lint.yml))
+- Việc thực thi nguyên tắc định dạng được tự động hóa qua [GitHub Actions](https://docs.github.com/en/actions) sử dụng [fpb-lint](https://github.com/vhf/free-programming-books-lint) (xem file [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - Sử dụng xác thực liên kết [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - Để kích hoạt xác thực liên kết, hãy push một commit bao gồm một commit message chứa `check_urls=file_to_check`:
 

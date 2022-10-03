@@ -249,5 +249,6 @@
 
 ### Visual Basic
 
+* [Einstieg in Visual Basic 2010](https://web.archive.org/web/20210507062754/https://openbook.rheinwerk-verlag.de/einstieg_vb_2010/) - Thomas Theis (Online) *(:card_file_box: archived)*
 * [Einstieg in Visual Basic 2012](http://openbook.rheinwerk-verlag.de/einstieg_vb_2012) - Thomas Theis (Online)
 * [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008) Andreas Kuehnel, Stephan Leibbrandt (Online)

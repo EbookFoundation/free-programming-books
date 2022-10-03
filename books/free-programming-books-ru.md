@@ -3,6 +3,7 @@
 * [0 - Language Agnostic](#0---language-agnostic)
     * [Облачные Вычисления](#Облачные-вычисления)
     * [Парадигмы Программирования](#Парадигмы-программирования)
+    * [Подходы к созданию програмного обеспечения](#software-craftsmanship)
     * [Работа c cетью](#Работа-с-сетью)
     * [Управление конфигурациями](#Управление-конфигурациями)
     * [Экосистема открытого исходного кода](#open-source-ecosystem)
@@ -103,6 +104,11 @@
 * [Практика функционального программирования](https://www.fprog.ru) - журнал
 
 
+#### <a id="software-craftsmanship"></a> Подходы к созданию програмного обеспечения
+
+* [Чистый код](https://ru.pdfdrive.com/%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9-%D0%BA%D0%BE%D0%B4-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B8-%D1%80%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3-d188599881.html) - Robert C. Martin
+
+
 #### Работа с сетью
 
 * [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси (:construction: *in process*)
@@ -157,6 +163,7 @@
 * [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7](https://metanit.com/sharp/tutorial) - Евгений Попов
 * [Сетевое программирование в С# и .NET](https://metanit.com/sharp/net) - Евгений Попов
 * [Design Patterns via C#](http://itvdn.com/ru/patterns) - Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов (PDF) *(Требуется аккаунт)*
+* [CLR via C#](https://viduus.net/wp-content/uploads/2018/02/Rihter-Dzh.-CLR-via-C.-Programmirovanie-na-platforme-Microsoft-.NET-Framework-4.5-na-yazyke-C-Master-klass-2013.pdf) - Джеффри Рихтер (PDF)
 
 
 ### <a id="cpp"></a>C++

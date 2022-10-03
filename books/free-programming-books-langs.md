@@ -1689,7 +1689,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 
 ### PHP
-* [php.net](https://www.php.net/docs.php) - Official PHP Documentation (CHM HTML)
 * [An Introduction to the PHP Programming Language](https://codeahoy.com/learn/php/toc/) - CodeAhoy (HTML)
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
@@ -1697,6 +1696,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org
 * [PHP Internals Book](http://www.phpinternalsbook.com)
+* [PHP Mannual](https://www.php.net/docs.php) - Official PHP Documentation (CHM HTML)
 * [PHP Notes for Professionals](https://goalkicker.com/PHPBook/) - Compiled from StackOverflow Documentation (PDF)
 * [PHP Pandas](http://daylerees.com/php-pandas/) - Dayle Rees
 * [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks

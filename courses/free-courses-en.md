@@ -26,6 +26,7 @@
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
 * [Docker](#docker)
+* [Elastic Stack](#elastic-stack)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git](#git)
@@ -392,6 +393,16 @@
 * [Docker Tutorial Videos \| DevOps Tool](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) - edureka!
 * [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
 
+### Elastic Stack
+
+* [Observability Fundamentals](https://www.elastic.co/pt/training/observability-fundamentals) - Elastic .co
+* [App Search Fundamentals](https://www.elastic.co/pt/training/app-search-fundamentals) - Elastic .co
+* [App Search Web Crawler Fundamentals](https://www.elastic.co/pt/training/app-search-web-crawler-fundamentals) - Elastic .co
+* [Workplace Search Fundamentals](https://www.elastic.co/pt/training/workplace-search-fundamentals) - Elastic .co
+* [Kibana Fundamentals](https://www.elastic.co/pt/training/kibana-fundamentals) - Elastic .co
+* [ECE Fundamentals](https://www.elastic.co/pt/training/ece-fundamentals) - Elastic .co
+* [Kibana for Splunk SPL Users](https://www.elastic.co/pt/training/kibana-for-splunk-spl-users) - Elastic .co
+* [Elastic Security Fundamentals: SIEM]([https://www.elastic.co/pt/training/kibana-for-splunk-spl-users](https://www.elastic.co/pt/training/elastic-security-fundamentals-siem)) - Elastic .co
 
 ### Flutter
 

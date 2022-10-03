@@ -322,15 +322,14 @@
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
 * [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) - Udacity
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
-* [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
-* [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [Learning NumPy Array](https://drive.google.com/file/d/1_TPtJy0ozSTua6AXNgentQVDqY4KrRm_/view?usp=sharing)
+* [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
 * [MatPlotLib For Python Developer](https://drive.google.com/file/d/1_TPtJy0ozSTua6AXNgentQVDqY4KrRm_/view?usp=sharing)
+* [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [NumPy Beginners Guide 3rd Edition](https://drive.google.com/file/d/1qCc3XXIZ40jL3wDlSkYSAiuSBnjo6wym/view?usp=sharing)
 * [Python Data Science HandBook](https://drive.google.com/file/d/1EpDxQvexRC-qTx2g5ncX3SWdR5cMWq1H/view?usp=sharing)
 * [Python For Data Analysis 2nd Edition](https://drive.google.com/file/d/1EpDxQvexRC-qTx2g5ncX3SWdR5cMWq1H/view?usp=sharing)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
-
 
 
 ### Databases

@@ -1,6 +1,7 @@
 ### Índice
 
 * [Agnósticos](#agnósticos)
+    * [Cloud Computing](#cloud-computing)
     * [IDE and editors](#ide-and-editors)
     * [Programação](#programação)
     * [Sistemas Operacionais](#sistemas-operacionais)
@@ -10,7 +11,6 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [Cloud](#cloud)
 * [Dart](#dart)
 * [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
@@ -54,6 +54,11 @@
 
 
 ### Agnósticos
+
+### Cloud Computing
+
+* [Guia da Computação em Nuvem: Conceito, Prática & Capacitação](https://archive.org/details/guia-da-computacao-em-nuvem) - Beatriz Oliveira, Mariana Carvalho (PDF, EPUB)
+
 
 #### IDE and editors
 
@@ -115,11 +120,6 @@
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
 * [Programação Orientada a Objetos em C++](https://web.archive.org/web/20190124233626/http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
-
-
-### Cloud
-
-* [Guia da Computação em Nuvem: Conceito, Prática & Capacitação](https://openlibrary.org/books/OL37820935M/Guia_da_Computa%C3%A7%C3%A3o_em_Nuvem) - Beatriz Oliveira e Mariana Carvalho (PDF & Epub)
 
 
 ### Dart

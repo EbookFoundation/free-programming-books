@@ -145,6 +145,8 @@
 * [JavaScript](http://www.peterkropff.de/site/javascript/javascript.htm) - Peter Kropff (Grundlagen, AJAX, DOM, OOP) (Online, PDF)
 * [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax) - Christian Wenz (Online)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript)
+* [Typescript_Jumpstart_Book_Udemy.pdf](https://github.com/EbookFoundation/free-programming-books/files/9699008/Typescript_Jumpstart_Book_Udemy.pdf)
+
 
 
 #### React

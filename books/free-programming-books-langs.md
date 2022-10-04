@@ -1084,6 +1084,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite (HTML)
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) - Danny Goodman (PDF)
 * [JavaScript Challenges Book](https://tcorral.github.io/javascript-challenges-book/) - Tomás Corral Casas (HTML)
+* [Javascript Data Structures And Algorithms](https://www.pdfdrive.com/javascript-data-structures-and-algorithms-an-introduction-to-understanding-and-implementing-core-data-structure-and-algorithm-fundamentals-e187879077.html) - Sammie Bae (PDF)
 * [JavaScript ES6 and beyond](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) - Alberto Montalesi (PDF, epub)
 * [JavaScript For Cats](http://jsforcats.com) - Maxwell Ogden (HTML)
 * [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Dr. Axel Rauschmayer (HTML)
@@ -1097,6 +1098,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan (HTML)
 * [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite (HTML)
 * [JavaScript Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/javascript) - Cody Lindley (PDF, Kindle; email address *requested*, not required)
+* [Javascript The Definitive Guide 7th Edition: Master the World's Most-Used Programming Language](https://dokumen.pub/javascript-the-definitive-guide-master-the-worlds-most-used-programming-language-9781491951989-1491951982.html) - David Flanagan (PDF, EPUB)
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way) - William Oliveira, Allan Esquina (HTML)
 * [jQuery Fundamentals](http://jqfundamentals.com) - Bocoup (HTML)
 * [JS Robots](https://web.archive.org/web/20201029045339/http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) - Mark Daggett (PDF) *(:card_file_box: archived)*
@@ -1124,8 +1126,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
 * [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
-* [Javascript data structures and algorithms](https://www.pdfdrive.com/javascript-data-structures-and-algorithms-an-introduction-to-understanding-and-implementing-core-data-structure-and-algorithm-fundamentals-e187879077.html) - Sammie Bae (PDF)
-* [The Definitive Guide 7th Edition: Master the World's Most-Used Programming Language](https://dokumen.pub/javascript-the-definitive-guide-master-the-worlds-most-used-programming-language-9781491951989-1491951982.html) - David Flanagan (PDF, EPUB)
 
 
 #### AngularJS

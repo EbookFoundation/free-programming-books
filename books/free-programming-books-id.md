@@ -1,7 +1,6 @@
 ### Index
 
 * [Android](#android)
-* [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -10,6 +9,7 @@
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -31,12 +31,6 @@
 
 * [Android Developers Fundamental Course Concepts and Practicals (Bahasa Indonesia)](https://yukcoding.id/download-ebook-android-gratis/)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
-
-
-### Bootstrap
-
-* [Bootstrap](https://www.malasngoding.com/category/bootstrap/)
-* [Tutorial Bootstrap 4 Bahasa Indonesia](https://www.bewoksatukosong.com/2019/02/tutorial-bootstrap-4-bahasa-indonesia.html)
 
 
 ### C
@@ -88,6 +82,12 @@
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
 * [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: Dalam Proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
+
+
+#### Bootstrap
+
+* [Bootstrap](https://www.malasngoding.com/category/bootstrap/)
+* [Tutorial Bootstrap 4 Bahasa Indonesia](https://www.bewoksatukosong.com/2019/02/tutorial-bootstrap-4-bahasa-indonesia.html)
 
 
 ### IDE and editors

@@ -174,6 +174,6 @@
 
 -   [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
 
-#### Wordpress
+### Wordpress
 
 -   [Belajar wordpress pemula di localhost XAMPP](https://www.youtube.com/playlist?list=PLUfKgPNj8RjyQoM-rGMsVRtVJsqdgJCLt) - Drian Tcho

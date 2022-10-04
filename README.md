@@ -157,6 +157,7 @@ This project lists books and other resources grouped by genres:
 + [Turkish / Türkçe](courses/free-courses-tr.md)
 + [Ukrainian / Українська](courses/free-courses-uk.md)
 + [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
++ [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
 
 
 ### Interactive Programming Resources
@@ -166,6 +167,7 @@ This project lists books and other resources grouped by genres:
 + [Japanese / 日本語](more/free-programming-interactive-tutorials-ja.md)
 + [Portuguese (Brazil)](more/free-programming-interactive-tutorials-pt_BR.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
++ [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
 
 
 ### Problem Sets and Competitive Programming
@@ -201,7 +203,7 @@ Write, compile and run your code within a browser. Try it out!
 
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
-
++  [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
 
 ## Translations
 

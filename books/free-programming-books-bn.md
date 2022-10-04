@@ -3,6 +3,7 @@
 * [Algorithms](#algorithms)
 * [Data Science](#data-science)
 * [C](#c)
+* [C++](#C++)
 * [Go](#go)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -19,6 +20,10 @@
 ### C
 
 * [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](https://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
+
+
+### C++
+* [সিপিপি পরিগণনা Computer Programming](https://www.academia.edu/16658418/c_programming_bangla_book) - Mahmudul Hasan (HTML)
 
 
 ### Data Science

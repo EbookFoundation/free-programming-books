@@ -72,7 +72,7 @@
 
 ### Clojure
 
-* [Clojure Cheatsheet](http://clojure.org/cheatsheet) (Online)
+* [Clojure Cheatsheet](http://clojure.org/cheatsheet) (HTML)
 
 
 ### Data Science
@@ -95,7 +95,7 @@
 * [Docker CLI \& Dockerfile Cheat Sheet](https://web.archive.org/web/20210909015922/https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) - Bachir Chihani, Rafael Benevides, Red Hat Developers (PDF) *(:card_file_box: archived)*
 * [Docker CLI cheatsheet](https://devhints.io/docker) - DevHints, Rico Santa Cruz (HTML)
 * [Docker Free Cheatsheet](https://cheatsheet.dennyzhang.com/cheatsheet-docker-a4) - Denny Zhang (HTML, PDF)
-* [Docker Security Best Practices & Cheat Sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) - Thomas Segura, GitGuardian (online, PDF)
+* [Docker Security Best Practices & Cheat Sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) - Thomas Segura, GitGuardian (HTML, PDF)
 * [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - OWASP Cheat Sheet Series (HTML)
 * [Dockerfile Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) - Bogdan Popescu, Halprin (HTML)
 * [Dockerfiles y docker-compose.yml: buenas prácticas (:es:)](https://leanmind.es/docker-cheatsheet.pdf) - Yodra Lopez Herrera, LeanMind (PDF)
@@ -105,7 +105,7 @@
 
 ### Git
 
-* [8 Easy Steps to Set Up Multiple GitHub Accounts \[cheat sheet included\]](https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/) - Thomas Segura, GitGuardian (online, PDF)
+* [8 Easy Steps to Set Up Multiple GitHub Accounts \[cheat sheet included\]](https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/) - Thomas Segura, GitGuardian (HTML, PDF)
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
 * [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) - GitLab (PDF)
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
@@ -114,13 +114,13 @@
 * [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - Atlassian (PDF)
 * [Git Cheat Sheet](https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF)
 * [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub (HTML)
-* [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (online, PDF)
+* [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (HTML, PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 
 
 ### Go
 
-* [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (Online)
+* [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 
 
@@ -139,11 +139,11 @@
 
 * [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas (HTML)
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
-* [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas (Online)
-* [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas (Online)
+* [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas (HTML)
+* [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Cheat Sheet](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf) - Allison McKnight (PDF)
 * [Vim Cheatsheet](https://devhints.io/vim) - Devhints, Rico Santa Cruz (HTML)
-* [Vim Médio (pt)](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas (Online)
+* [Vim Médio (pt)](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas (HTML)
 * [Visual Studio Code: Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Visual Studio (PDF)
 
 
@@ -197,7 +197,7 @@
 
 ### Kubernetes
 
-* [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet (Online)
+* [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet (HTML)
 * [Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects](https://spacelift.io/blog/kubernetes-cheat-sheet) - Spacelift (HTML)
 
 
@@ -299,7 +299,7 @@
 ### Solidity
 
 * [Solidity Cheat Sheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.pdf) - IntelliPaat (PDF)
-* [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh (Online)
+* [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh (HTML)
 
 
 ### SQL

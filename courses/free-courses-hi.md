@@ -99,7 +99,7 @@
 ### Competitive Programming
 
 * [Competitive Programming/DSA Course \| Hindi](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) - Luv
-* [Full course in Competitive programming [ Hindi ] || -by prince](https://www.youtube.com/playlist?list=PLzjZaW71kMwTGbP1suqY16w1VSb9ZNuvE) - Hello World, `tch.:` Prince
+* [Full course in Competitive programming [ Hindi ] \|\| -by prince](https://www.youtube.com/playlist?list=PLzjZaW71kMwTGbP1suqY16w1VSb9ZNuvE) - Hello World
 
 
 ### Compiler Design

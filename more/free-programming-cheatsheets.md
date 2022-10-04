@@ -122,7 +122,7 @@
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
-* [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - The Valley of Code (PDF)
+* [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
 
 
 ### HTML and CSS
@@ -175,7 +175,7 @@
 
 #### Next.js
 
-* [Ultimate Next.js Handbook](https://thevalleyofcode.pages.dev/next-handbook.pdf) - The Valley of Code (PDF)
+* [Ultimate Next.js Handbook](https://thevalleyofcode.pages.dev/next-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
 
 
 #### Nuxt.js

@@ -24,7 +24,7 @@
 
 ### C++
 
-[C++ Programming](https://cppbnbk.tiiny.site) - Newton M.A. Hakim
+[C++ Programming](https://pdfpoka.com/c-programming-bangla-book-pdf) - Newton M.A. Hakim
 
 
 ### Data Science

@@ -86,8 +86,8 @@
 
 #### Bootstrap
 
-* [Bootstrap](https://www.malasngoding.com/category/bootstrap/)
-* [Tutorial Bootstrap 4 Bahasa Indonesia](https://www.bewoksatukosong.com/2019/02/tutorial-bootstrap-4-bahasa-indonesia.html)
+* [Bootstrap](https://www.malasngoding.com/category/bootstrap/) - Diki Alfarabi Hadi
+* [Daftar Tutorial Bootstrap 4 Bahasa Indonesia](https://www.bewoksatukosong.com/2019/02/tutorial-bootstrap-4-bahasa-indonesia.html) - Gerald Cahya Prambudi
 
 
 ### IDE and editors

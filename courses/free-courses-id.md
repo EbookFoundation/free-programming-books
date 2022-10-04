@@ -99,6 +99,7 @@
 * [Dart Programming Untuk Persiapan Belajar Flutter](https://buildwithangga.com/kelas/dart-programming-untuk-persiapan-belajar-flutter) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
 * [Pemrograman Berorientasi Objek - Dart](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Erico Darmawan Handoyo
 * [TUTORIAL DART DASAR (BAHASA INDONESIA)](https://www.youtube.com/watch?v=-mzXdI27tyk) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Tutorial Dart OOP - Bahasa Indonesia](https://www.youtube.com/watch?v=k0ycD2aqPzU) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
 ### Desain dan Arsitektur
@@ -333,6 +334,7 @@
 * [Fitur Baru Laravel 8](https://www.youtube.com/playlist?list=PLEgI20pG1DqyTqCPiHnuWrBZtVFs5z95p) - Muhammad Amirul Ihsan (Kawan Koding)
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Irsyad A. Panjaitan (Parsinta)
 * [Membuat Tabel Post Tampilan](https://youtu.be/sYTin40_Ukw) - Muhammad Amirul Ihsan (Kawan Koding)
+* [Tutorial Laravel](https://www.youtube.com/playlist?list=PL-CtdCApEFH8AoW8KgbHM9q_gXKsXyyht) -  Eko Kurniawan Khannedy, Programmer Zaman Now  (YouTube)
 * [Tutorial Laravel 5.7 Dasar bahasa Indonesia](https://www.malasngoding.com/category/laravel/) - Diki Alfarabi Hadi (Malas Ngoding)
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
 * [Tutorial Laravel Bahasa Indonesia](https://id-laravel.com) - ID Laravel

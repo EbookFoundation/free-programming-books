@@ -274,7 +274,7 @@
 
 ### Sistemas de gestión de contenidos / CMS
 
-* [Aprende Wordpress de forma sencilla](https://miriadax.net/web/aprende-wordpress-de-forma-sencilla-2-edicion-)
+* [CURSO de WORDPRESS (Desde Cero) - 2020](https://www.youtube.com/playlist?list=PLs-v5LWbw7JnwF9RquAuuxLi-Ha1rths6) - Academia Coder (YouTube)
 
 
 ### Técnico de Software & Hardware

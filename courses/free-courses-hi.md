@@ -22,7 +22,9 @@
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
+    * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
+* [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [Python](#python)
@@ -38,6 +40,7 @@
 
 * [Binary Search \| Interview Questions \| Coding \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) - Aditya Verma
 * [Binary Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4) - Pepcoding
+* [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
 * [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
 * [Graphs - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v) - Pepcoding
@@ -126,6 +129,7 @@
 
 ### DevOps
 
+* [DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) - Kunal Kushwaha
 * [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
 
@@ -143,12 +147,16 @@
 
 * [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
 * [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
+* [Git and Github | Complete हिंदी में (With Examples)](https://www.youtube.com/watch?v=zGq7T9gZH2k) - Knowledge Gate
+* [Github \| All about Git and GitHub](https://www.youtube.com/watch?v=77b2lVHHZqI) - Anuj Bhaiya
 * [GitHub with Visual Studio (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigWA1mNWzwErSBIZvgOJbNc) - Rajesh Kumar, Geeky Shows
 
 
 ### HTML and CSS
 
+* [CSS Tutorial in Hindi \| Complete CSS Course For Beginners to Advanced \| Step By Step Tutorial](https://www.youtube.com/watch?v=WyxzAU3p8CE) - Vishwajeet Kumar (Tech Gun)
 * [HTML CSS & Browser APIs](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC) - Pepcoding
+* [HTML Tutorial in Hindi \| Complete HTML Course For Beginners to Advanced](https://www.youtube.com/watch?v=QXPWs00RD3A) - Vishwajeet Kumar (Tech Gun)
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 * [Web Development Tutorials for Beginners in Hindi: HTML, CSS, JavaScript and more](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - CodeWithHarry
 
@@ -216,9 +224,20 @@
 * [ReactJS Tutorials for Beginners In Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
 
 
+#### Vue.js
+
+* [Vue JS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhih5ItBhn2cTncaS24_Kgeui) - Rajesh Kumar, Geeky Shows
+
+
 ### Kotlin
 
 * [Kotlin Programming Complete in one Video (Hindi)](https://www.youtube.com/watch?v=uoP4JKHgzDE) - Geeky Shows, `tch.:` Rajesh Kumar
+
+
+### Linux
+
+* [Linux Full Course (Beginner to Advanced) \| Learn Linux in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcsZGJWeo8ec4yIBLX2KeyR) - WsCube Tech
+* [Linux Tutorial For Beginners in Hindi](https://www.youtube.com/watch?v=_tCY-c-sPZc) - CodeWithHarry
 
 
 ### Machine Learning
@@ -242,6 +261,7 @@
 * [Class 12 Board \| Python \| Computer Science](https://www.youtube.com/playlist?list=PLKKfKV1b9e8oyESqu5mrGN-eDxHdNoi_j) - Apni Kaksha
 * [Complete Python Tutorial in Hindi (2020)](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) - Harshit Vashisth
 * [Core Python (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L) - Rajesh Kumar, Geeky Shows
+* [Free Python Course For School Students (Grade7-10) Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvumawW64knIBSJuHALx3zBE) - Coding Blocks Junior
 * [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi) (Great Learning) *(account required)*
 * [Python Tutorial For Beginners \| Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - CodeWithHarry
 * [Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX) - edureka! Hindi

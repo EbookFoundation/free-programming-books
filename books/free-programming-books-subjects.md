@@ -198,6 +198,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Compiling Scala for the Java Virtual Machine](http://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf) - Michel Schinz (PDF)
 * [Compiling Techniques (1969)](http://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm) - F.R.A. Hopgood, Macdonald
 * [Crafting Interpreters](http://www.craftinginterpreters.com) - Bob Nystrom (HTML)
+* [EXPL NITC: Build your own Compiler](https://silcnitc.github.io) - Murali Krishnan K., students in the Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 * [Implementing Functional Languages: A Tutorial](http://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
 * [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf) - Douglas Thain (PDF)
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)

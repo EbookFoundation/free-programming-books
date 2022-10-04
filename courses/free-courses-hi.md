@@ -280,4 +280,4 @@
 
 ### Tailwind CSS
 
-* [Tailwind CSS Tutorial In Hindi](https://www.youtube.com/watch?v=L4_jarMnB0c&list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - Code with Harry
+* [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/watch?v=L4_jarMnB0c&list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry

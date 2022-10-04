@@ -1852,6 +1852,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Composing Programs](http://composingprograms.com) (3.x)
 * [Cracking Codes with Python](https://inventwithpython.com/cracking/) - Al Sweigart (3.6)
 * [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF)
+* [Data Structure and Algorithmic Thinking with Python Data Structure and Algorithmic Puzzles](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:1cb576a6-2dc2-4e84-9212-74fe3434cce9) - Narasimha Karumanchi
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
     * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
 * [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - Nicolas P. Rougier (3.6)

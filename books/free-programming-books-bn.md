@@ -3,7 +3,7 @@
 * [Algorithms](#algorithms)
 * [Data Science](#data-science)
 * [C](#c)
-* [C++](#C++)
+* [C++](#c++)
 * [Go](#go)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -23,7 +23,7 @@
 
 
 ### C++
-* [সিপিপি পরিগণনা Computer Programming](https://www.academia.edu/16658418/c_programming_bangla_book) - Mahmudul Hasan (HTML)
+* [সিপিপি পরিগণনা Computer Programming](https://www.academia.edu/16658418/c_programming_bangla_book) - Mahmudul Hasan (PDF, HTML)
 
 
 ### Data Science

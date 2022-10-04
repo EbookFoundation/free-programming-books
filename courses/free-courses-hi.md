@@ -26,6 +26,7 @@
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
+* [Mathematics](#mathematics)
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
@@ -249,6 +250,13 @@
 * [Machine Learning Full Course](https://www.youtube.com/watch?v=IoZGSQ07e8g) - Bharani Akella, Great Learning (YouTube)
 * [Machine Learning in Hindi](https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr) - Codebasics Hindi
 * [Machine Learning Tutorials For Beginners Using Python in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG) - CodeWithHarry (YouTube)
+
+
+### Mathematics
+
+* [Discrete Mathematics](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3) - Gate Smashers, `tch.:` Varun Singla, `tch.:` Naina Wadhwa Singla
+* [Discrete Mathematics (Full Course) By Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg) - Gajendra Purohit
+* [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
 
 
 ### PHP

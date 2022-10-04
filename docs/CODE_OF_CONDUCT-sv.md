@@ -42,9 +42,9 @@ skyldig att upprätthålla sekretess med avseende på den som anmäler en
 incident.
 
 
-Denna uppförandekod är anpassad från [Contributor Covenant][hemsidan],
+Denna uppförandekod är anpassad från [Contributor Covenant][homepage],
 version 1.3.0, tillgänglig på https://contributor-covenant.org/version/1/3/0/
 
-[Hemsida]: https://contributor-covenant.org
+[homepage]: https://contributor-covenant.org
 
 [Översättningar](README.md#translations)

@@ -23,7 +23,7 @@
 * [Databases](#databases)
     * [NoSQL](#nosql)
     * [SQL](#sql)
-* [Database Management Systems](#database-management-systems)
+* [DBMS](#dbms)
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
 * [Digital Electronics](#digital-electronics)
@@ -362,7 +362,7 @@
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - Mike Dane (freeCodeCamp)
 
 
-### Database Management Systems
+### DBMS
 
 * [DBMS Placement Series](https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - LoveBabbar
 

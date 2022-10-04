@@ -8,13 +8,13 @@
 * [DB & DBMS](#db--dbms)
 * [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
+* [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -59,6 +59,12 @@
 * [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen&rlm; (PDF)
 
 
+### Java
+
+* [تفهيم الخوارزميات – الجزء الثاني]https://librebooks.org/tafheem-alkhawazimyat-p2/) - جمال بن نوار (PDF)
+* [تفهيم الخوارزميات – الجزء الأول](https://librebooks.org/tafheem-alkhawazimyat/) - جمال بن نوار (PDF)
+
+
 ### JavaScript
 
 * [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
@@ -99,11 +105,6 @@
 ### PHP
 
 * [تعلم البرمجة بلغة PHP](http://librebooks.org/learn-programming-with-php/)
-
-
-#### Symfony
-
-* [سيمفوني 5 : المسار السريع](https://symfony.com/doc/5.0/the-fast-track/ar/index.html)
 
 
 ### Python

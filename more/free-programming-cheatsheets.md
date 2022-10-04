@@ -28,6 +28,7 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+    * [Django](#django)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -184,6 +185,7 @@
 
 #### Vue.js
 
+* [Vue 3 Cheatsheet for Developers](https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf) - LearnVue (PDF)
 * [Vue Essential Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf) - Vue Mastery (PDF)
 * [Vue.js 2.3 Complete API Cheat Sheet](https://marozed.com/vue-cheatsheet) - Marcos Neves, Marozed (HTML)
 
@@ -217,6 +219,7 @@
 
 ### MongoDB
 
+* [All MongoDb commands you will ever need (MongoDb Cheatsheet)](https://www.codewithharry.com/blogpost/mongodb-cheatsheet/) - CodeWithHarry (HTML)
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
 * [MongoDB Cheat Sheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - codecentric (PDF)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet
@@ -247,11 +250,20 @@
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
 * [Python Cheatsheet for beginners](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet) - Codeacademy (HTML)
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
+* [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)
 * [Python Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - Pandas (PDF)
 * [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
+
+
+#### Django
+
+* [All in one Cheatsheet of Django](https://cheatography.com/ogr/cheat-sheets/django/pdf/) - Olivier R. (PDF)
+* [Django Quick Reference](https://www.codewithharry.com/blogpost/django-cheatsheet/) - Code with Harry (HTML)
+* [Django Web App Beginners Cheat sheet](https://ordinarycoders.com/blog/article/django-beginners-guide) - Jaysha (HTML)
+* [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)
 
 
 ### R

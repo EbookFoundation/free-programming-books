@@ -11,6 +11,7 @@
 
 * [4Clojure](http://www.4clojure.com)
 * [A2 Online Judge](https://a2oj.com)
+* [Algorithms for Competitive Programming](https://cp-algorithms.com)
 * [APL Problem Solving Competition](https://contest.dyalog.com)
 * [AtCoder](https://atcoder.jp)
 * [beecrowd](https://www.beecrowd.com.br)
@@ -57,7 +58,7 @@
 * [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
-* [Picoctf](https://picoctf.org/resources) (email address *requested*)
+* [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
 
 
@@ -119,6 +120,8 @@
 * [Rosalind](http://rosalind.info/problems/locations/)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical)
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
+* [The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://blog.shahjalalshohag.com/topic-list/) - Shahjalal Shohag
 * [Timus Online Judge](http://acm.timus.ru)
+* [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/#C%20Programming%20Mock%20Tests) - Geeks For Geeks
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Школа программиста](https://acmp.ru)

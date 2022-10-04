@@ -4,6 +4,7 @@
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [LaTeX](#latex)
+* [Matemática Computacional](#matemática-computacional)
 * [Prolog](#prolog)
 * [Python](#python)
 
@@ -28,6 +29,12 @@
 
 * [Uma não tão pequena introdução ao LaTeX](http://alfarrabio.di.uminho.pt/~albie/lshort/pt-lshort.pdf) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` Alberto Simões (PDF)
 * [Uma não tão pequena introdução ao LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/portuguese)
+
+
+### Matemática Computacional
+
+* [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF)
+* [Matemática Fundacional para Computação](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas
 
 
 ### Prolog

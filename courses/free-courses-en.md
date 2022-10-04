@@ -967,6 +967,7 @@
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [Learn Ruby](https://www.learnrubyonline.org)
 * [RESTful API with Ruby On Rails 5](https://www.udemy.com/course/restful-api-with-ruby-on-rails-5/) - Udemy
+* [Full-Stack Ruby on Rails | The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
 * [Ruby Tutorial](https://www.w3resource.com/ruby/)
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 

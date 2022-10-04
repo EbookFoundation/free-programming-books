@@ -3,7 +3,6 @@
 * [Android](#android)
 * [Arduino](#arduino)
 * [Bases de Datos](#bases-de-datos)
-* [Big Data](#big-data)
 * [Ciencias de la Computación](#ciencias-de-la-computaci&#x00F3;n)
 * [Control de Versiones](#control-de-versiones)
 * [Flujos de trabajo](#flujos-de-trabajo)
@@ -49,11 +48,6 @@
 * [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html)
 * [Manual práctico de SQL](https://www.lawebdelprogramador.com/cursos/archivos/ManualPracticoSQL.pdf) - Álvaro E. García (PDF)
 * [Principios de SQL](https://programadorwebvalencia.com/cursos/sql/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
-
-
-### Big Data
-
-* [Introducción al uso de datos en la investigación](https://miriadax.net/curso/introduccion-al-uso-de-datos-en-la-investigacion-2-a-edicion) (Miriadax)
 
 
 ### Ciencias de la Computación

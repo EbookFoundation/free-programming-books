@@ -1124,6 +1124,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
 * [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
+* [Javascript data structures and algorithms](https://www.pdfdrive.com/javascript-data-structures-and-algorithms-an-introduction-to-understanding-and-implementing-core-data-structure-and-algorithm-fundamentals-e187879077.html) - Sammie Bae (PDF)
+* [The Definitive Guide 7th Edition: Master the World's Most-Used Programming Language](https://dokumen.pub/javascript-the-definitive-guide-master-the-worlds-most-used-programming-language-9781491951989-1491951982.html) - David Flanagan (PDF, EPUB)
 
 
 #### AngularJS

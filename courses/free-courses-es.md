@@ -53,7 +53,7 @@
 
 ### Big Data
 
-
+* [Introducción al uso de datos en la investigación](https://miriadax.net/curso/introduccion-al-uso-de-datos-en-la-investigacion-2-a-edicion/)
 
 ### Ciencias de la Computación
 

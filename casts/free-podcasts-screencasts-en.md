@@ -3,6 +3,7 @@
 * [Android](#android)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Clean Coding](#clean-code)
 * [Clojure](#clojure)
 * [Cloud computing](#cloud-computing)
 * [Data Science](#data-science)
@@ -55,6 +56,11 @@
 * [C++ Standard Library](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - Bo Qian (screencast)
 * [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
 * [CppCast](http://cppcast.com) - Conor Hoekstra, Jason Turner, JeanHeyd Meneide, Matt Godbolt, Rob Irving (podcast)
+
+
+### Clean Coding
+
+* [Clean Code Lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLdpsE-GEhYVn_81kDPo1mwE73UgYCeMLu) - Robert C. Martin (Youtube)
 
 
 ### Clojure

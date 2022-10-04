@@ -191,6 +191,7 @@
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Prof. Patrick Henry Winston (MIT OpenCourseWare)
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow?utm_source=gg&utm_medium=sem&utm_campaign=07_MachineLearningStanfordSearch-ROW&utm_content=B2C&campaignid=2070742271&adgroupid=112394854539&device=c&keyword=&matchtype=&network=g&devicemodel=&adpostion=&creativeid=475480534925&hide_mobile_promo=&gclid=EAIaIQobChMIt9TJibHH-gIV6oBQBh2pPQcfEAAYAyAAEgJH_fD_BwE) - DeepLearning.AI (Coursera)
 
 
 ### Assembly

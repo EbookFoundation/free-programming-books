@@ -805,7 +805,7 @@
 
 ### Networking
 
-* [Computer Networks | Tanenbaum](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) - Pearson)
+* [Computer Networks 5e](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) - Tanenbaum, Wetherall ( Pearson)
 
 
 ### Objective-C

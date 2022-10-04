@@ -8,9 +8,9 @@
 
 ### C
 
-* [Programming and Problem Solving through C - pdf \| Hindi](https://drive.google.com/file/d/1u6gWGOvucnqj_3N0lr5-XaE6qm9cJgg_/view) - Drive link
 * [C Brief Notes \| Hindi](https://ehindistudy.com/2021/03/09/c-language-notes-in-hindi/) - Yugal Joshi
 * [C Brief Notes \| Hindi](https://masterprogramming.in/c-language-notes-in-hindi/) - master programming
+* [Programming and Problem Solving through C - pdf \| Hindi](https://drive.google.com/file/d/1u6gWGOvucnqj_3N0lr5-XaE6qm9cJgg_/view) - Drive link
 
 
 ### <a id="cpp"></a>C++
@@ -21,8 +21,8 @@
 
 ### HTML
 
-* [HTML5 with CSS3 Book - pdf \| Hindi](https://drive.google.com/file/d/1k_G3tXflG1a4N8dQGohdzdUBNS_K_bvg/view) - Drive Link
 * [HTML Notes - pdf \| Hindi](https://drive.google.com/file/d/12UY9UJ58XNKaSGq8gT6zOPkxTgJ0g1vh/view) - Drive Link
+* [HTML5 with CSS3 Book - pdf \| Hindi](https://drive.google.com/file/d/1k_G3tXflG1a4N8dQGohdzdUBNS_K_bvg/view) - Drive Link
 
 
 ### Java

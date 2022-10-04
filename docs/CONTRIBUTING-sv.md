@@ -8,7 +8,7 @@ Genom att bidra godkänner du [LICENS](../LICENSE) för detta arkiv.
 
 ## Contributor Code of Conduct
 
-Genom att bidra samtycker du till att respektera [Code of Conduct](CODE_OF_CONDUCT.md) för detta arkiv. ([translations](README.md#translations))
+Genom att bidra samtycker du till att respektera [Code of Conduct](CODE_OF_CONDUCT-sv.md) för detta arkiv. ([translations](README.md#translations))
 
 
 ## I ett nötskal

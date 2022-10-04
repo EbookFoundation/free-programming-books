@@ -23,6 +23,7 @@
 * [Databases](#databases)
     * [NoSQL](#nosql)
     * [SQL](#sql)
+* [Database Management Systems](#database-management-systems)
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
 * [Digital Electronics](#digital-electronics)
@@ -359,6 +360,11 @@
 * [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri (Udemy)
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - Mike Dane (freeCodeCamp)
+
+
+### Database Management Systems
+
+* [DBMS Placement Series](https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - LoveBabbar
 
 
 ### Deep Learning

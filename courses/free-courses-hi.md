@@ -149,7 +149,7 @@
 ### Databases
 
 * [DBMS (Database Management system) Complete Playlist](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
-* [DBMS placeement series 2022 (https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - Love Babbar, Youtube
+* [DBMS placement series 2022] (https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - Love Babbar, Youtube
 
 
 ### DevOps

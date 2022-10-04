@@ -9,6 +9,7 @@
 * [C++](#cpp)
 * [Compiler Design](#compiler-design)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
+* [Copmuter Science](#computer-science)
 * [Data Structures](#data-structures)
 * [DevOps](#devops)
 * [Flutter](#flutter)
@@ -91,7 +92,6 @@
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
 
-
 ### Compiler Design
 
 * [Compiler Design (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc) - Gate Smashers (YouTube)
@@ -101,6 +101,9 @@
 
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers (YouTube)
 
+### Computer Science
+
+* [Computer Networking](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers (YouTube)
 
 ### Data Structures
 

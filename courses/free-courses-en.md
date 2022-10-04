@@ -115,6 +115,7 @@
 * [Analysis of Algorithms (CSE 373)](https://www3.cs.stonybrook.edu/~skiena/373/videos) - Steven Skiena
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 * [Berkeley's CS 61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
+* [Binary Trees - by LoveBabbar](https://youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner) - CodeHelp - by Babbar
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
 * [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
 * [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri, Liz Izhikevich (Stepik)

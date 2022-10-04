@@ -18,7 +18,7 @@
 2. Git을 알 필요는 없습니다: 만약 당신이 조건에 부합하면서 *이미 등재되지 않은* 바로가기를 발견한다면, 새로운 바로가기와 함께 새로운 [이슈](https://github.com/EbookFoundation/free-programming-books/issues)를 열 수 있습니다.
     - 만약 깃 사용법을 알고 있다면, 해당 리포지토리를 Fork 하며 Pull Request (PR)를 보내주세요.
 
-3. 저희는 육 가지의 리스트를 제공하고 있습니다. 올바른 것을 선택해 주세요:
+3. 저희는 여섯 가지 종류의 리스트를 제공하고 있습니다. 올바른 것을 선택해 주세요:
 
     - *책* : PDF, HTML, ePub, gitbook.io 기반 웹사이트, 깃 리포지토리, 등.
     - *강좌* : 여기서 강좌는 책이 아닌 교육 도구를 칭합니다. [강좌 예시](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
@@ -103,7 +103,7 @@
     GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
     ```
 
-- 저자는 형식 전에 옵니다:
+- 저자는 형식보다 앞에 쓰입니다:
 
     ```text
     BAD : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe

@@ -433,6 +433,7 @@
 * [[Beginner] Make an RPG](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd) - HeartBeast
 * [2D Hack-n-Slash Course (Complete Course) - GameMaker Studio 2](https://www.youtube.com/playlist?list=PL9FzW-m48fn0mblTG_KFDg81AMXDPKBE5) - HeartBeast
 * [CS50 2019 - Games Track](https://www.youtube.com/playlist?list=PLhQjrBD2T382mHvZB-hSYWvoLzYQzT_Pb) - David J. Malan (Harvard OpenCourseWare)
+* [Game Design and Development 1: 2D Shooter (Unity)](https://coursera.org/share/20c8b45e02110782aff633467f979c81) - Brian Winn (Coursera)
 * [GameMaker Studio 2](https://www.youtube.com/playlist?list=PL9FzW-m48fn1CFiBHB1liGKIyVO9j3A-I) - HeartBeast
 * [GameMaker Studio 2 - Action RPG Tutorial](https://www.youtube.com/playlist?list=PLPRT_JORnIuosvhfax2TQTEmN7OYTcSvK) - Shaun Spalding
 * [Getting started with the Godot game engine in 2021](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KEcm-iYJ2a8UCRN62bTneKa) - GDQuest

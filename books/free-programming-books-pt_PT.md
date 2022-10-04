@@ -43,6 +43,5 @@
 
 ### Vim
 
-* [O Editor de Texto: Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva.
 * [Vim para Noobs](https://leanpub.com/vimparanoobs/read) - William Oliveira Souza (HTML, PDF, EPUB)
 * [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)

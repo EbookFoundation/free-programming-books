@@ -25,6 +25,7 @@
 -   [TypeScript](#typescript)
     -   [Angular](#angular)
     -   [Deno](#deno)
+-   [Wordpress](#Wordpress)
 
 ### Android
 

@@ -61,7 +61,7 @@
 
 ### Java
 
-* [تفهيم الخوارزميات – الجزء الثاني]https://librebooks.org/tafheem-alkhawazimyat-p2/) - جمال بن نوار (PDF)
+* [تفهيم الخوارزميات – الجزء الثاني](https://librebooks.org/tafheem-alkhawazimyat-p2/) - جمال بن نوار (PDF)
 * [تفهيم الخوارزميات – الجزء الأول](https://librebooks.org/tafheem-alkhawazimyat/) - جمال بن نوار (PDF)
 
 
@@ -126,6 +126,7 @@
 ### Scratch
 
 * [كتاب احترف سكراتش](http://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
+* [تعلم البرمجة مع القط سكراتش](https://librebooks.org/learn-programming-with-scratch-cat/) - نورا حاتم (PDF)
 
 
 ### Security

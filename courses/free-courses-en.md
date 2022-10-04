@@ -117,6 +117,7 @@
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
 * [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
 * [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri, Liz Izhikevich (Stepik)
+* [Data Structures in C](https://youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
 * [Data Structures and Algorithms](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) - CS Dojo
 * [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Jenny's lectures CS/IT NET&JRF
 * [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Moshfegh Hamedani (Programming with Mosh)
@@ -458,6 +459,7 @@
 * [Git Tutorial - Learn Command-line Git & GitHub](https://www.youtube.com/playlist?list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN) - LearnWebCode (YouTube)
 * [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - Moshfegh Hamedani (Programming with Mosh)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
+* [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) - Microsoft Learn
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Atlassian
 
@@ -470,6 +472,7 @@
 * [Golang \| Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews
 * [Golang basics](https://www.youtube.com/playlist?list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6) - Golang dojo
 * [Golang in under an hour](https://www.youtube.com/watch?v=N0fIANJkwic) - Eli Goldberg
+* [Golang Tutorial for Beginners](https://www.youtube.com/watch?v=yyUHQIec83I) - TechWorld with Nana
 * [Golang Tutorial - Learn Go Programming Language](https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/) - GeeksforGeeks
 * [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com) - Jon Calhoun (email address *required*)
 * [Learn Go \| Learn Go Programming](https://golangr.com) - golangr.com
@@ -510,6 +513,7 @@
 * [HTML and CSS Crash For Beginner](https://youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-) - Kevin Powell (YouTube)
 * [HTML and CSS Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU) - Dani Krossing
 * [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
+* [HTML Tutorial for Beginners](https://www.youtube.com/watch?v=qHB2jUvAlGo) - Programming with Harry
 * [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) - Stone River eLearning (Udemy)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
@@ -560,6 +564,7 @@
 * [Java Online Training \| Edureka](https://www.youtube.com/watch?v=hBh_CC5y8-s) (Edureka)
 * [Java Programming](https://testautomationu.applitools.com/java-programming-course/) - Angie Jones (Applitools)
 * [Java Programming](https://java-programming.mooc.fi) - University of Helsinki
+* [Java Programming](https://youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5) - Neso Academy
 * [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) - Cezanne Camacho, Asser Samak (Udacity) (account *required*)
 * [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) (Coursera)
 * [Java Server Tutorials - Happy Coding](https://happycoding.io/tutorials/java-server/) - Kevin Workman
@@ -721,6 +726,7 @@
 * [Android Kotlin Tutorial: Create Android Apps using Kotlin](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) - Sriyank Siddhartha (YouTube)
 * [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) - Aleks Haecky, Asser Samak, Sean McQuillan (Udacity)
+* [Kotlin Bootcamp for Programmers](https://developer.android.com/courses/kotlin-bootcamp/overview) - Developer Android (Google)
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU) - Nate Ebel, freeCodeCamp (YouTube)
 * [Kotlin Newbie To Pro](https://www.youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) - Philipp Lackner
 * [Track: Kotlin Basics](https://hyperskill.org/tracks/18) - Hyperskill, JetBrains (Hyperskill)
@@ -911,6 +917,7 @@
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) - Tech With Tim
 * [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Moshfegh Hamedani (Programming with Mosh)
+[Python Tutorial For Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI) - TechWorld with Nana
 * [Python Tutorial For Beginners (With Notes)](https://www.youtube.com/watch?v=EyEqWFvLDT8) - ProgrammingWithHarry
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - Programming with Mosh (YouTube)
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer

@@ -914,7 +914,7 @@
 
 * [Flask Fridays](https://www.youtube.com/playlist?list=PLCC34OHNcOtolz2Vd9ZSeSXWc8Bq23yEz) - Codemy.com (YouTube)
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
-* [Flask Tutorials for Beginners](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) - Tech with Tim
+* [Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) - Tech with Tim
 
 
 ### QB64

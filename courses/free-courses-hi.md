@@ -15,6 +15,7 @@
 * [Git and GitHub](#git-and-github)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
+    * [Tailwind CSS](#tailwind-css)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)

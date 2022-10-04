@@ -1679,7 +1679,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Higher-Order Perl](http://hop.perl.plover.com/book/) - M. J. Dominus (PDF)
 * [Impatient Perl](https://www.perl.org/books/impatient-perl/)
 * [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
-* [Modern Perl](https://pragprog.com/titles/swperl/modern-perl-fourth-edition/)
+* [Modern Perl](http://modernperlbooks.com/books/modern_perl_2016/)
 * [Perl & LWP](http://lwp.interglacial.com/index.html)
 * [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
 * [Perl for the Web](http://www.globalspin.com/thebook/) - C. Radcliff

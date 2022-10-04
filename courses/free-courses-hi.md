@@ -163,7 +163,7 @@
 
 #### Tailwind CSS
 
-* [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/watch?v=L4_jarMnB0c&list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry
+* [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry
 
 
 ### Java

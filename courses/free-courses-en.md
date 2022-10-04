@@ -156,6 +156,7 @@
 * [CS50 2019 - Android Track](https://www.youtube.com/playlist?list=PLhQjrBD2T381qULidYDKP55-4u1piASC1) - David J. Malan (Harvard OpenCourseWare)
 * [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851) (Udacity)
 * [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
+* [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354) - Steve Ganem, Todd Kerpelman, Jessica Lin, Daniel Mai (Udacity)
 * [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) (Udacity)
 * [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867) (Udacity)
 * [Jetpack Compose](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC) - Philipp Lackner

@@ -57,7 +57,7 @@
 * [Matlab](#matlab)
 * [Misc](#misc)
 * [.NET](#net)
-* [Networking](#Networking)
+* [Networking](#networking)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
 * [Operating Systems](#operating-systems)

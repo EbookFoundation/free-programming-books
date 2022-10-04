@@ -59,6 +59,7 @@
 
 #### React
 
+* [สอน React](https://www.youtube.com/playlist?list=PL_xSQKvnccpn-C2fZNJtCykO24yqFWkDn) - Zinglecode
 * [สอน React.JS Tutorial](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBo5SmWJXwv4oKDfeTXA7xgw) - CMDev
 
 

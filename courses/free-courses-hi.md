@@ -11,8 +11,8 @@
 * [C++](#cpp)
 * [Compiler Design](#compiler-design)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
-* [Databases](#databases)
 * [Data Structures](#data-structures)
+* [Databases](#databases)
 * [DevOps](#devops)
 * [Flutter](#flutter)
 * [Git and GitHub](#git-and-github)
@@ -127,11 +127,6 @@
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers (YouTube)
 
 
-### Databases
-
-* [DBMS (Database Management system) Complete Playlist](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
-
-
 ### Data Structures
 
 * [2-D Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH) - Pepcoding
@@ -149,6 +144,11 @@
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College (YouTube)
 * [Linked Lists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
 * [Stack Playlist \| Interview Questions \| Coding \| Tutorials \| Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma
+
+
+### Databases
+
+* [DBMS (Database Management system) Complete Playlist](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
 
 
 ### DevOps

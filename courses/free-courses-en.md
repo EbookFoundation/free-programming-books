@@ -1031,6 +1031,7 @@
 * [Data Structures and Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011) - Udacity
 * [How To Make An App For Beginners (iOS/Swift - 2019)](https://www.udemy.com/how-to-make-an-app-for-beginners-iosswift-2019/) - Chris Ching (Udemy)
 * [Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX) - CodeWithChris
+* [Server-Side Swift](https://www.udacity.com/course/server-side-swift--ud1031) - Jarrod Parkes, Nic Jackson (Udacity)
 * [Swift 5 for Beginners](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW) - iOS Academy
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
 

@@ -362,13 +362,11 @@
 
 #### DBMS
 
-* [Introduction to Database Queries](https://www.edx.org/course/introduction-to-database-queries) - Aspen Olmsted (edX New York University)
-* [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - Rakesh Gopalakrishnan (Udemy)
-* [Learn SQL](https://popsql.com/learn-sql) - PopSQL
-* [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) - Moshfegh Hamedani (Programming with Mosh)
-* [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri (Udemy)
-* [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
-* [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - Mike Dane (freeCodeCamp)
+* [SQL Tutorial: Learn SQL with MySQL Database -Beginner2Exper](https://www.udemy.com/course/sql-tutorial-learn-sql-with-mysql-database-beginner2expert/) - Pradnyankur Nikam 
+* [SQL for Beginners: Learn SQL using MySQL and Database Design](https://www.udemy.com/course/sql-for-beginners-course/) - Jon Avis - SQL Instructor
+* [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql) - Russell Severance
+* [Introduction to Relational Database and SQL](https://www.coursera.org/projects/introduction-to-relational-database-and-sql) - Harrison Kong (coursera)
+* [Database Management System Tutorial](https://www.tutorialspoint.com/dbms/index.htm) - Tutorialspoint
 
 
 

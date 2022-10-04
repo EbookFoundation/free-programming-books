@@ -979,6 +979,7 @@
 * [Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ) - Tech With Tim
 * [Rust Projects](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb) - Tensor Programming
 * [Rust Tutorial](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5) - Doug Milford
+* [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) - Educative.io
 
 
 ### Spark

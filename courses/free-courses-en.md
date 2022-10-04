@@ -917,6 +917,7 @@
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) - Tech With Tim
 * [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Moshfegh Hamedani (Programming with Mosh)
+* [Python tutorial for beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tss0puRoHDBagvj7Qjin9axl) - ProgrammingWithHarry
 * [Python Tutorial For Beginners (With Notes)](https://www.youtube.com/watch?v=EyEqWFvLDT8) - ProgrammingWithHarry
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - Programming with Mosh (YouTube)
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
@@ -930,6 +931,7 @@
 * [Django 3.0 Crash Course Tutorials \| Customer Management App](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO) - Dennis Ivy
 * [Django for Everybody](https://www.dj4e.com) - Charles R. Severence
 * [Django Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau) - Navin Reddy
+* [Django tutorial for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr) - ProgrammingWithHarry
 * [Django Tutorial for Beginners (2021)](https://www.youtube.com/watch?v=rHux0gMZ3Eg) - Moshfegh Hamedani (Programming with Mosh)
 * [Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
 * [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr) - Programming With Harry(English)

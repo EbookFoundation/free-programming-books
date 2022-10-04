@@ -17,6 +17,7 @@
 * [Git and GitHub](#git-and-github)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
+    * [Tailwind CSS](#tailwind-css)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
@@ -183,6 +184,11 @@
 * [Bootstrap Tutorial In Hindi](https://youtube.com/watch?v=vpAJ0s5S2t0) - CodeWithHarry
 * [Bootstrap tutorial in Hindi \| Best Course](https://youtube.com/playlist?list=PL7akPJI4biSIQmT7fSHWoMRaNUcRbXHFN) - CodinGyaan
 * [Bootstrap Tutorial in Hindi With 2 Projects for Beginners \| Complete Bootstrap 5 Tutorial in Hindi](https://youtube.com/watch?v=QE5oQh63gGE) - Tech Gun
+
+
+#### Tailwind CSS
+
+* [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry
 
 
 ### Java

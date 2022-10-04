@@ -964,7 +964,7 @@
 * [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x#!)
 * [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!)
 * [An Introduction to Ruby Programming Language](https://www.researchgate.net/publication/322222154_An_Introduction_to_Ruby_Programming_Language) - Ali Tourani (HTML, PDF)
-* [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails?) - The Odin Project
+* [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) - The Odin Project
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [Learn Ruby](https://www.learnrubyonline.org)
 * [RESTful API with Ruby On Rails 5](https://www.udemy.com/course/restful-api-with-ruby-on-rails-5/) - Udemy

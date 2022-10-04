@@ -53,7 +53,7 @@
 
 ### Big Data
 
-* [Introducción al uso de datos en la investigación](https://miriadax.net/curso/introduccion-al-uso-de-datos-en-la-investigacion-2-a-edicion/) (Miriadax)
+* [Introducción al uso de datos en la investigación](https://miriadax.net/curso/introduccion-al-uso-de-datos-en-la-investigacion-2-a-edicion) (Miriadax)
 
 
 ### Ciencias de la Computación
@@ -86,7 +86,7 @@
 
 ### Flujos de Trabajo
 
-* [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/curso/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-14-a-edicion/) (Miriadax)
+* [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/curso/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-14-a-edicion) (Miriadax)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
 * [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23)
 * [Gestión Participativa: motivación y liderazgo organizacional](https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0)

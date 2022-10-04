@@ -276,7 +276,7 @@
 ### Compilers
 
 * [Compilers](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i) - Ghassan Shobaki (YouTube)
-* [Compilers Design](https://www.youtube.com/watch?v=uAVkjTbB7Yc&list=PLLvKknWU7N4zpJWLqk7DXK26JwTB-gFmZ) - Lalit Vashistha (Youtube)
+* [Compiler Design](https://www.youtube.com/playlist?list=PLLvKknWU7N4zpJWLqk7DXK26JwTB-gFmZ) - Lalit Vashistha
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
 
 

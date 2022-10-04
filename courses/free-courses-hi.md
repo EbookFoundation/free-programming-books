@@ -8,7 +8,6 @@
 * [C](#c)
 * [C++](#cpp)
 * [Compiler Design](#compiler-design)
-* [Computer Networks](#computer-networks)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Data Structures](#data-structures)
 * [DevOps](#devops)
@@ -24,6 +23,7 @@
     * [React](#react)
 * [Kotlin](#kotlin)
 * [Machine Learning](#machine-learning)
+* [Network](#network)
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
@@ -96,12 +96,6 @@
 ### Compiler Design
 
 * [Compiler Design (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc) - Gate Smashers (YouTube)
-
-
-### Computer Networks
-
-* [3.4 Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd) - Knowledge Gate
-* [Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers, `tch.:` Varun Singla
 
 
 ### Computer Organization and Architecture
@@ -231,6 +225,12 @@
 * [Machine Learning Full Course](https://www.youtube.com/watch?v=IoZGSQ07e8g) - Bharani Akella, Great Learning (YouTube)
 * [Machine Learning in Hindi](https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr) - Codebasics Hindi
 * [Machine Learning Tutorials For Beginners Using Python in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG) - CodeWithHarry (YouTube)
+
+
+### Network
+
+* [3.4 Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd) - Knowledge Gate
+* [Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers, `tch.:` Varun Singla
 
 
 ### PHP

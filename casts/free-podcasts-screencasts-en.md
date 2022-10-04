@@ -53,6 +53,7 @@
 * [C++ Programming Video Lectures](https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr) - Saurabh School of Computing (screencast)
 * [C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno (screencast)
 * [C++ Standard Library](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - Bo Qian (screencast)
+* [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
 * [CppCast](http://cppcast.com) - Conor Hoekstra, Jason Turner, JeanHeyd Meneide, Matt Godbolt, Rob Irving (podcast)
 
 
@@ -175,15 +176,22 @@
 * [Front End Happy Hour](https://frontendhappyhour.com) - Ryan Burgess, Jem Young, Stacy London, Augustus Yuan, Mars Jullian, Shirley Wu (podcast)
 * [Frontend First](https://player.fm/series/frontend-first) - Sam Selikoff, Ryan Toronto (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) - CodeSchool (podcast)
+* [Full Stack Radio](https://fullstackradio.com) - Adam Wathan (podcast)
 * [HTML All The Things](https://www.htmlallthethings.com/podcast) - Mike Karan, Matt Lawrence (podcast)
+* [HTTP203](https://developers.google.com/web/shows/http203/podcast) - Surma, Jake (podcast)
 * [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu, Tyler McGinnis, Kyle Simpson, et al. (podcast)
 * [JavaScript Jabber](https://javascriptjabber.com) - Aimee Knight, AJ O'Neal, Charles Wood, Dan Shappir, Steve Edwards, et al. (podcast)
 * [JS Party](https://changelog.com/jsparty) - Jerod Santo, Nick Nisi, Amelia Wattenberger, Kevin Ball, Divya, Feross Aboukhadijeh, Amal Hussein, Christopher Hiller, Ali Spittel, et al. (podcast)
+* [Ladybug Podcast](https://www.ladybug.dev) - Emma Bostian, Sidney Buckner, Kelly Vaughn, and Ali Spittel (podcast)
 * [Modern Web](https://www.thisdot.co/modern-web) - This Dot Labs (podcast)
 * [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) - YLD Ltd. (screencast)
+* [Purrfect.dev](https://anchor.fm/purrfect-dev) - Developers (podcast)
 * [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
+* [ShopTalk](https://shoptalkshow.com) - Dave Rupert, Chris Coyier. (podcast)
 * [Syntax](https://syntax.fm) - Wes Bos, Scott Tolinski (podcast)
 * [The JavaScript Show](http://javascriptshow.com) - Peter Cooper, Jason Seifer (podcast)
+* [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
+* [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
 
 
 #### Angular

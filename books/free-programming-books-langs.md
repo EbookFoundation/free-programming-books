@@ -284,12 +284,14 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Arduino
 
+* [Arduino-docs : A beginner's guide](https://arduino-doc.readthedocs.io/en/latest/) - Paramesh Chandra (HTML)
 * [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) (:card_file_box: *archived at unglue.it*)
 * [Arduino Tips, Tricks, and Techniques](https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf) - lady ada (PDF)
 * [Getting started with Arduino – A Beginner’s Guide](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Arduino_-_MakeUseOf.com.pdf) - Brad Kendall (PDF)
 * [Getting Started with Arduino products](https://www.arduino.cc/en/Guide) - Official Arduino Documentation (:construction: *in process*)
 * [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
 * [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
+* [Learn Arduino](https://riptutorial.com/Download/arduino.pdf) - Compiled from StackOverflow documentation (PDF)
 * [Open softwear - Fashionable prototyping and wearable computing using the Arduino](https://softwear.cc/book/files/Open_Softwear-beta090712.pdf) - Tony Olsson, David Gaetano, Jonas Odhner, Samson Wiklund (PDF)
 
 
@@ -429,6 +431,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
 * [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch
+* [C Handbook](https://thevalleyofcode.com/c/) - Flavio Copes (HTML, PDF)
 * [C Internals](https://www.avabodh.com/cin/cin.html) - Rajeev Kumar (HTML)
 * [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
@@ -483,7 +486,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
 * [Porting Existing ASP.NET Apps to .NET 6](https://docs.microsoft.com/en-us/dotnet/architecture/porting-existing-aspnet-apps/) - Steve "ardalis" Smith
 * [Threading in C#](http://www.albahari.com/threading/)
+* [Xamarin Community Toolkit Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/xamarin-community-toolkit-succinctly) - Alessandro Del Sole
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
+* [Xamarin.Forms Notes for professionals](https://books.goalkicker.com/XamarinFormsBook/) - Compiled from StackOverflow documentaion (PDF)
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
 
 
@@ -788,6 +793,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Go by Example](https://gobyexample.com)
 * [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers)
 * [Go for Python Programmers](https://golang-for-python-programmers.readthedocs.io/en/latest) - Jason McVetta (HTML, PDF, EPUB)
+* [Go Handbook](https://thevalleyofcode.com/go/) - Flavio Copes (HTML, PDF)
 * [Go Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly) - Mark Lewin (PDF, EPUB, Kindle)
 * [Go Tutorial](http://www.tutorialspoint.com/go/) - Tutorials Point (HTML, PDF)
 * [Go Web Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-web-development) - Mark Lewin (PDF, EPUB, Kindle)
@@ -1081,9 +1087,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [JavaScript ES6 and beyond](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) - Alberto Montalesi (PDF, epub)
 * [JavaScript For Cats](http://jsforcats.com) - Maxwell Ogden (HTML)
 * [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Dr. Axel Rauschmayer (HTML)
+* [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/) - Axel Rauschmayer (HTML)
 * [JavaScript from ES5 to ESNext](https://flaviocopes.com/page/es5-to-esnext/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/) - Nicholas Johnson (HTML)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - Tim Ruffles (HTML)
+* [JavaScript Handbook](https://thevalleyofcode.com/js/) - Flavio Copes (HTML, PDF)
 * [JavaScript Interview #35](https://gumroad.com/l/javascript-interview-35) - Coderslang Master (PDF, email address *requested*, not required)
 * [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan (HTML)
@@ -1096,6 +1104,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani (HTML)
 * [Let's Learn ES6](https://bubblin.io/cover/let-s-learn-es6-by-ryan-christiani#frontmatter) - Ryan Christiani (Superbook format)
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com) - Noel Rappin (dead link)
+* [Modern JavaScript](https://www.modernjs.com) - Daniel Rubio
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - Mozilla Developer Network contributors (HTML)
 * [Neural Networks with JavaScript Succinctly](https://www.syncfusion.com/ebooks/neural-networks-with-javascript-succinctly) - James McCaffrey (PDF, EPUB, MOBI)
 * [Oh My JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov (HTML)
@@ -1486,6 +1495,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics)
 * [MATLAB Notes for professionals](https://goalkicker.com/MATLABBook) - Compiled from StackOverflow documentation (PDF)
 * [MATLAB Programming](https://en.wikibooks.org/wiki/MATLAB_Programming) - Wikibooks
+* [Matlab Programming Fundamentals](https://www.mathworks.com/help/pdf_doc/matlab/matlab_prog.pdf) - Mathworks (PDF)
 * [MATLAB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/matlab) (PDF, Kindle) (email address *requested*, not required)
 * [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html?requestedDomain=www.mathworks.com&nocookie=true)
 * [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
@@ -1693,6 +1703,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [PHP Apprentice](https://phpapprentice.com) - Andrew Davis *(:construction: in process)*
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org
+* [PHP Handbook](https://thevalleyofcode.com/php/) - Flavio Copes (HTML, PDF)
 * [PHP Internals Book](http://www.phpinternalsbook.com)
 * [PHP Notes for Professionals](https://goalkicker.com/PHPBook/) - Compiled from StackOverflow Documentation (PDF)
 * [PHP Pandas](http://daylerees.com/php-pandas/) - Dayle Rees
@@ -1947,6 +1958,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) (PDF) (2.2)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.1.x/django.pdf) (PDF) (3.1)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf) (PDF) (3.2)
+* [Django Rest Framework](https://riptutorial.com/Download/django-rest-framework.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
 * [Django Web Framework (Python)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - MDN contributors
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
@@ -1970,6 +1982,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Pandas
 
+* [Best Pandas Tutorial \| Learn with 50 Examples](https://www.listendata.com/2017/12/python-pandas-tutorial.html) - Ekta Aggarwal (HTML)
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/docs) - Wes McKinney, the Pandas Development Team (HTML, PDF)
 
@@ -2327,6 +2340,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Essential Swift](https://www.programming-books.io/essential/swift/) - Krzysztof Kowalczyk (Compiled from StackOverflow Documentation)
 * [Hacking with Swift](https://www.hackingwithswift.com)
+* [Swift Handbook](https://thevalleyofcode.com/swift/) - Flavio Copes (HTML, PDF)
 * [Swift Notes for Professionals](https://goalkicker.com/SwiftBook/) - Compiled from StackOverflow Documentation (PDF)
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)

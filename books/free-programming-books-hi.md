@@ -1,6 +1,12 @@
 ### Index
 
+* [C](#c)
 * [C++](#cpp)
+
+
+### <a id="c"></a>C
+
+* [C in Hindi \| Hindi](https://onlineaavedan.com/study_material/1543909480.pdf) - Kulpdeep Chand (PDF)
 
 
 ### <a id="cpp"></a>C++

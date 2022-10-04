@@ -2,7 +2,6 @@
 
 * [C++](#cpp)
 
-
 ### <a id="cpp"></a>C++
 
 * [C++ Brief Notes \| Hindi](https://ehindistudy.com/2020/12/01/cpp-notes-in-hindi/) - Yugal Joshi

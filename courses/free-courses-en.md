@@ -805,12 +805,13 @@
 ### Misc
 
 * [Advanced Adobe XD (Web Design)](https://webdesign.tutsplus.com/courses/advanced-adobe-xd-for-everyone) - Adi Purdila
+* [Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U&list=PUTdw38Cw6jcm0atBPA39a0Q) - Dylan Beattie (Youtube)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
 * [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic (:card_file_box: *archived*)
 * [Introduction to Quantum Computing and Quantum Hardware](https://qiskit.org/learn/intro-qc-qh) - Qiskit
 * [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) - David Silver
 * [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
-* [Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U&list=PUTdw38Cw6jcm0atBPA39a0Q) - Dylan Beattie (Youtube)
+
 
 ### .NET
 

@@ -30,7 +30,7 @@
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
-* [R](#R)
+* [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
 * [Ruby](#ruby)

@@ -235,9 +235,8 @@
 #### Node.js
 
 * [El Libro para Principiantes en Node.js](https://www.nodebeginner.org/index-es.html) -  Manuel Kiessling, Herman A. Junge (HTML)
-* [Introducción a Node.js a través de Koans](http://nodejskoans.com) - Arturo Muñoz de la Torre (PDF)
 * [How To Code in Node.js](https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook) - Stack Abuse
-
+* [Introducción a Node.js a través de Koans](http://nodejskoans.com) - Arturo Muñoz de la Torre (PDF)
 
 #### React
 

@@ -741,6 +741,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Security
 
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
+* [Bug Bounty Bootcamp - Vickie Li](https://www.kgay4all.com/seioqueseiporleroqueleio/Books/more_books_2/Vickie%20Li%20-%20Bug%20Bounty%20Bootcamp_%20The%20Guide%20to%20Finding%20and%20Reporting%20Web%20Vulnerabilities-No%20Starch%20Press%20%282021%29.pdf.gz)
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 * [Cryptography](https://en.wikibooks.org/wiki/Cryptography) - Wikibooks (HTML) (:construction: *in process*)
 * [CryptoParty Handbook](https://unglue.it/work/141611/)

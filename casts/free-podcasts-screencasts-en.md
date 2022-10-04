@@ -28,6 +28,7 @@
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
+* [DBMS](#dbms)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -352,6 +353,11 @@
 
 * [PG Casts](https://www.pgcasts.com) - Jack Christensen, Josh Branchaud, Jake Worth, Vidal Ekechukwu, Dorian Karter, Mary Lee, et al. Hashrocket team (screencast)
 * [Scaling Postgres](https://player.fm/series/scaling-postgres) - Ruby Tree Software Inc, Creston Jamison (podcast)
+
+### DBMS
+
+* [SQ LITE](https://www.sqlite.org/talks/wroclaw-20090310.pdf) - D. Richard Hipp, (sqlite)
+* [Data Structures and Algorithms for Big Databases](https://people.csail.mit.edu/bradley/BenderKuszmaul-tutorial-xldb12.pdf) - Michael A. Bender Bradley C. Kuszmaul MIT & Tokutek (podcast)
 
 
 ### Python

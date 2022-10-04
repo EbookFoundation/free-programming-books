@@ -254,6 +254,15 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Temporal Database Management](http://people.cs.aau.dk/~csj/Thesis/) - Christian S. Jensen
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 
+### DBMS
+
+* [Stanford Database Systems: The Complete Book](http://infolab.stanford.edu/~ullman/dscb.html) - Hector Garcia-Molina, Jeff Ullman, and Jennifer Widom(HTML)
+* [Designing Data-Intensive Applications](http://shop.oreilly.com/product/0636920032175.do) - Martin Kleppmann (HTML, PDF, EPUB, MOBI)
+* [Database Internals](https://www.oreilly.com/library/view/database-internals/9781492040330/) - Alex Petrov (PDF,HTML)
+* [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf) - Joseph M. Hellerstein1, Michael Stonebraker2
+and James Hamilton3 (PDF)
+
+
 
 ### Datamining
 

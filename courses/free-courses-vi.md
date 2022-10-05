@@ -31,13 +31,12 @@
     * [Angular](#angular)
 * [Unity](#unity)
 * [Wordpress](#wordpress)
-* [Xcode](#xcode)
 * [XML](#xml)
 
 
 ### AJAX
 
-* [Học AJAX](https://www.codehub.com.vn/Hoc-AJAX)
+* [Học AJAX cơ bản và nâng cao](https://hoclaptrinh.vn/tutorial/hoc-ajax)
 
 
 ### Android
@@ -53,19 +52,18 @@
 
 ### ASP
 
-* [Khóa học ASP.NET Core cơ bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-aspnet-core-co-ban-14.html) - TEDU
+* [Làm dự án với ASP.NET Core 3.1](https://tedu.com.vn/khoa-hoc/lam-du-an-voi-aspnet-core-31-34.html) - TEDU
+* [Lập trình ASP.NET Core từ căn bản đến nâng cao](https://tedu.com.vn/khoa-hoc/lap-trinh-aspnet-core-tu-co-ban-den-nang-cao-33.html) - TEDU
 
 
 ### Bash
 
 * [Khóa học Bash Shell cơ bản cho người mới](https://nguyenvanhieu.vn/hoc-bash-shell-co-ban)
-* [Những cú pháp bash shell cơ bản](https://www.youtube.com/watch?v=xilRaF5BkKI) - Thai Minh Tuan
 
 
 ### Bootstrap
 
 * [Tự học Bootstrap 4 cơ bản](https://www.youtube.com/playlist?list=PLQi-dJ8Gqv2i1NHD8f-E2w-zrrr9G7HUJ) - VIETPRO
-* [Twitter Bootstrap](https://www.codehub.com.vn/Twitter-Bootstrap)
 
 
 ### C
@@ -83,11 +81,9 @@
 
 ### <a id="csharp"></a>C\#
 
-* [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK)
-* [C# Căn Bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyOEc-S8ovGVG5L92mZEjVu) - TEDU
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK) - Kteam
-* [C# Nâng Cao](https://www.youtube.com/playlist?list=PLRhlTlpDUWszTdteJzP68F8Q6gRYvhohk) - TEDU
 * [C# Nâng Cao](https://www.youtube.com/playlist?list=PL33lvabfss1y5jmklzilr2W2LZiltk6bU) - Kteam
+* [Lập trình C# cho người mới bắt đầu](https://tedu.com.vn/khoa-hoc/lap-trinh-c-toan-tap-cho-nguoi-moi-bat-dau-46.html) - TEDU
 * [Lập trình C# Winform cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1y2T7yK--YZJHCsU7LZVzBS) - Kteam
 * [Lập trình game Caro với C# Winform](https://www.youtube.com/playlist?list=PL33lvabfss1yCEzvLavt8jD4daqpejzwN) - Kteam
 * [Lập trình hướng đối tượng trong C#](https://www.youtube.com/playlist?list=PL33lvabfss1zRgaWBcC__Bnt5AOSRfU71) - Kteam
@@ -111,15 +107,14 @@
 
 ### Go
 
-* [Golang Cơ Bản](https://www.codehub.com.vn/Golang-Co-Ban)
 * [Lập trình Golang](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
 
 
 ### HTML and CSS
 
-* [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban)
+* [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban) - Codehub
 * [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
-* [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban)
+* [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban) - Codehub
 * [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
 
 
@@ -131,24 +126,21 @@
 
 ### JavaScript
 
-* [ES6 Cơ Bản](https://www.codehub.com.vn/ES6-Co-Ban)
 * [JavaScript A-Z 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-) - CodersX
 * [JavaScript Advanced 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP) - CodersX
-* [JavaScript Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-java-script-can-ban-12.html) - TEDU
-* [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban)
+* [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban) - Codehub
 
 
 #### AngularJS
 
 > :information_source: See also &#8230; [Angular](#angular)
 
-* [AngularJS Cơ Bản](https://www.codehub.com.vn/AngularJS-Co-Ban)
 * [AngularJS Cơ Bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsw70vZAkJgALJ1yhgYsqDGx) - TEDU
 
 
 #### jQuery
 
-* [jQuery Cơ Bản](https://www.codehub.com.vn/jQuery-Co-Ban)
+* [jQuery Cơ Bản](https://www.codehub.com.vn/jQuery-Co-Ban) - Codehub
 * [jQuery Cơ bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm) - TEDU
 
 
@@ -173,8 +165,8 @@
 
 ### NodeJS
 
+* [Khóa học NodeJS căn bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-nodejs-can-ban-20.html) - TEDU
 * [Lập Trình Nodejs Cơ Bản Tại Khoa Phạm](https://www.youtube.com/playlist?list=PLzrVYRai0riQXAXJL9rg62tBvwD0ltJn-) - Trung Tâm Đào Tạo Tin Học Khoa Phạm
-* [NodeJS Cơ Bản](https://www.codehub.com.vn/Node-js-Co-Ban)
 * [NodeJS Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE950LJR6uH_MqcgUC0-NCV2k) - RHP Team
 * [NodeJS Cơ Bản](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQEZp2kLIC7OE0E8OsObv0k8) - Ide Academy
 * [NodeJS Web Server Sử Dụng Express 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-s-m-qFBQFoeNSfpCTBiwMU) - CodersX
@@ -183,12 +175,12 @@
 ### Objective-C
 
 * [Học lập trình objective-c miễn phí](https://www.youtube.com/playlist?list=PLgT92sqeoAUC6gHyrbdZTbulFF8qwxGSK) - Kênh học miễn phí qua video trên youtube
-* [Objective-C Cơ Bản](https://www.codehub.com.vn/Objective-C-Co-Ban)
+* [Objective-C Cơ Bản](https://www.codehub.com.vn/Objective-C-Co-Ban) - Codehub
 
 
 ### PHP
 
-* [PHP Cơ Bản](https://www.codehub.com.vn/PHP-Co-Ban)
+* [PHP Cơ Bản](https://www.codehub.com.vn/PHP-Co-Ban) - Codehub
 * [PHP Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE940f_T2IyAWHAjXhMxYFZky) - RHP Team
 * [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/playlist?list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
 * [Tự học PHP - Căn Bản](https://www.youtube.com/playlist?list=PLv6GftO355AulVlaWLp41kieNB9dTG1_l) - ZendVN
@@ -198,7 +190,7 @@
 ### Python
 
 * [Lập trình website với Python Django](https://www.youtube.com/playlist?list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P) - Kteam
-* [Python Cơ Bản](https://www.codehub.com.vn/Python-Co-Ban)
+* [Python Cơ Bản](https://www.codehub.com.vn/Python-Co-Ban) - Codehub
 * [Python Cơ Bản](https://www.youtube.com/playlist?list=PLyiioioEJSxEh_S_XFvG0d2xKRMSWLfN_) - Dạy Nhau Học
 * [Python Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
 
@@ -218,7 +210,7 @@
 
 ### Ruby
 
-* [Ruby Cơ Bản](https://www.codehub.com.vn/Ruby-Co-Ban)
+* [Học Ruby on Rails Căn Bản](https://www.udemy.com/course/hoc-ruby-on-rails-can-ban) - Udemy
 
 
 ### Sass
@@ -230,7 +222,8 @@
 ### SQL
 
 * [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - Thân Triệu
-* [SQL Cơ Bản](https://www.codehub.com.vn/SQL-Co-Ban)
+* [Học SQL Cơ Bản](https://www.codehub.com.vn/Hoc-SQL) - Codehub
+* [Lập trình SQL Server căn bản](https://tedu.com.vn/khoa-hoc/lap-trinh-sql-server-can-ban-6.html) - TEDU
 * [SQL Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
 
 
@@ -281,11 +274,6 @@
 * [Xây dựng Plugin Wordpress căn bản](https://www.youtube.com/playlist?list=PLv6GftO355AucJ4Td8_6h007nQuVJQsPN) - ZendVN
 
 
-### Xcode
-
-* [Xcode Cơ Bản](https://www.codehub.com.vn/Xcode-Co-Ban)
-
-
 ### XML
 
-* [XML Cơ Bản](https://www.codehub.com.vn/XML-Co-Ban)
+* [Học XML cơ bản và nâng cao](https://hoclaptrinh.vn/tutorial/hoc-xml-co-ban-va-nang-cao)

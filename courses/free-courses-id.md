@@ -321,8 +321,8 @@
 * [Tutorial Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_5lzhkUtrV6ygriYcttMlg) - Framework Indonesia
 * [TUTORIAL CODEIGNITER 4](https://youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) - Sandhika Galih (Web Programming UNPAS)
 * [Tutorial Codeigniter 4 Indonesia](https://youtube.com/playlist?list=PL1aMeb5UP_PFkC4mY3prujavZBehsWAC3) - IDStack
-* [Tutorial Sistem Informasi Akademik dengan Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_hXzGACf988F1ojvQlYmB0) - Framework Indonesia
 * [Tutorial Membuat CRUD CodeIgniter 4 & Bootstrap](https://santrikoding.com/tutorial-set/crud-codeigniter-4) - Fika Ridaul Maulayya (Santri Koding)
+* [Tutorial Sistem Informasi Akademik dengan Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_hXzGACf988F1ojvQlYmB0) - Framework Indonesia
 
 
 #### Laravel

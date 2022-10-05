@@ -40,7 +40,7 @@ jobs:
 
             Please 🙏, take a moment and [address the merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts) of your pull request before we can evaluate it again.
 
-            Thanks in advance you for your effort and patience ❤️!
+            Thanks in advance for your effort and patience ❤️!
           continueOnMissingPermissions: true
 
       - name: Print outputs

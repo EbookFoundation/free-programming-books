@@ -114,6 +114,7 @@ This project lists books and other resources grouped by genres:
 + [Spanish / español / castellano](books/free-programming-books-es.md)
 + [Swedish / Svenska](books/free-programming-books-sv.md)
 + [Tamil / தமிழ்](books/free-programming-books-ta.md)
++ [Telugu / తెలుగు](books/free-programming-books-te.md)
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-uk.md)

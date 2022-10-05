@@ -1,3 +1,4 @@
+
 ### Index
 
 * [Android](#android)
@@ -36,6 +37,7 @@
     * [Django](#django)
     * [Flask](#flask)
     * [PyTorch](#pytorch)
+    * [OpenCv](#opencv)
 * [Redis](#redis)
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
@@ -372,6 +374,9 @@
 
 * [PyTorch untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwvMCvaX_4POywGiw4TFuHp1) - NgodingPython
 
+### OpenCV
+
+* [Tutorial OpenCV Python Bahasa Indonesia](https://youtube.com/playlist?list=PLufXGHkGpGxga9QmOZKMb6z_BvbBml059) - elektro programming
 
 ### Redis
 

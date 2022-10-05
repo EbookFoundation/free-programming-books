@@ -83,6 +83,7 @@
 
 ### <a id="cpp"></a>C++
 
+* [C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/) - GeeksforGeeks
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [C++ Tutorial](https://www.scaler.com/topics/cpp/) - Scaler Topics
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
@@ -253,6 +254,7 @@
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
 * [Kotlin Tutorial](https://www.w3schools.com/kotlin/) - W3Schools
 * [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Galina Podstrechnaya, Alex DiStasi (Codecademy) *(account required)*
+* [Unit 1: Kotlin Basics](https://developer.android.com/courses/android-basics-kotlin/unit-1) Android *(account required)*
 
 
 ### Language Agnostic

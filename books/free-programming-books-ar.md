@@ -8,6 +8,7 @@
 * [DB & DBMS](#db--dbms)
 * [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
+* [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
 * [Linux](#linux)
@@ -56,6 +57,12 @@
 ### Introduction to Programming in Arabic
 
 * [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen&rlm; (PDF)
+
+
+### Java
+
+* [تفهيم الخوارزميات – الجزء الأول](https://librebooks.org/tafheem-alkhawazimyat/) - جمال بن نوار (PDF)
+* [تفهيم الخوارزميات – الجزء الثاني](https://librebooks.org/tafheem-alkhawazimyat-p2/) - جمال بن نوار (PDF)
 
 
 ### JavaScript
@@ -118,6 +125,7 @@
 
 ### Scratch
 
+* [تعلم البرمجة مع القط سكراتش](https://librebooks.org/learn-programming-with-scratch-cat/) - نورا حاتم (PDF)
 * [كتاب احترف سكراتش](http://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
 
 

@@ -68,4 +68,5 @@
 
 ### SQL
 
+* [SQL in Tamil (தமிழில் SQL)](https://www.youtube.com/playlist?list=PLgWpUXNR_WCd-oMh-n6LhRYyNZjiiPVGm) - Payilagam
 * [SQL in Tamil for Beginners](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUBh28ZT2i-jH7kBkTfB_W2) - Logic First Tamil

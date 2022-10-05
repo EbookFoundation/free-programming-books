@@ -16,6 +16,7 @@
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
     * [Nest.js](#nestjs)
+    * [Next.js](#nextjs)
     * [Nuxt.js](#nuxtjs)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
@@ -122,6 +123,7 @@
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
+* [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
 
 
 ### HTML and CSS
@@ -172,6 +174,11 @@
 * [Nest.js CheatSheet](https://gist.github.com/guiliredu/0aa9e4d338bbeeac369a597e87c9ba46) (GitHub Gist)
 
 
+#### Next.js
+
+* [Ultimate Next.js Handbook](https://thevalleyofcode.pages.dev/next-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
+
+
 #### Nuxt.js
 
 * [Nuxt.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf) - Vue Mastery (PDF)
@@ -219,6 +226,7 @@
 
 ### MongoDB
 
+* [All MongoDb commands you will ever need (MongoDb Cheatsheet)](https://www.codewithharry.com/blogpost/mongodb-cheatsheet/) - CodeWithHarry (HTML)
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
 * [MongoDB Cheat Sheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - codecentric (PDF)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet

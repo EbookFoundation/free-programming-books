@@ -92,6 +92,7 @@
 ### Blockchain
 
 * [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0) - Code Eater (YouTube)
+* [Blockchain Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-) - Telusko (YouTube)
 * [Solidity ^0.8 | Blockchain | In Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding (YouTube)
 
 

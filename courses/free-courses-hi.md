@@ -159,8 +159,9 @@
 ### Databases
 
 * [DBMS (Database Management System)Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
+* [DBMS Database Managament System- Complete Course in Hindi](https://youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV) - Knowledge Gate
 * [DBMS Placements Series 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp by Babbar
-* [DBMS Complete Course in Hindi](https://youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV) - Knowledge Gate
+
 
 
 ### DevOps

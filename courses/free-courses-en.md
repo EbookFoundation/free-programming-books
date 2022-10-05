@@ -6,7 +6,6 @@
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)
-* [Augmented Reality](#augmented-reality) 
 * [AutoIt](#autoit)
 * [Bash / Shell](#bash--shell)
 * [Blockchain](#blockchain)
@@ -210,11 +209,6 @@
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html) - Xeno Kovah (OpenSecurityTraining)
 
 
-### Augmented Reality
-
-* [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar) - Daydream
-
-
 ### AutoIt
 
 * [AutoIt Scripting Tutorial](https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z) - TutsTeach (YouTube)
@@ -304,6 +298,7 @@
 * [Berkeley's CS  61A: Taught using SICP](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
 * [Computer Networking - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Ferrill (FreeCodeCamp)
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) - David J. Malan (Harvard OpenCourseWare and edX)
+* [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar) - Daydream
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
 * [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)

@@ -853,6 +853,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
 * [Hadoop for Windows Succinctly](https://www.syncfusion.com/ebooks/hadoop-for-windows-succinctly) - Dave Vickers
 * [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner, Sujee Maniyam
+* [Hadoop The Definitive Guide](https://grut-computing.com/HadoopBook.pdf) - Tom White 
 
 
 ### Haskell

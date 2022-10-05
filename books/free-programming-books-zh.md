@@ -637,6 +637,8 @@
 * [Laravel 6 中文文档](https://learnku.com/docs/laravel/6.x)
 * [Laravel 7 中文文档](https://learnku.com/docs/laravel/7.x)
 * [Laravel 8 中文文档](https://learnku.com/docs/laravel/8.x)
+* [Laravel 9 中文文档](https://learnku.com/docs/laravel/9.x)
+* [Laravel 入门到精通教程](https://laravelacademy.org/books/laravel-tutorial)
 
 
 #### Symfony

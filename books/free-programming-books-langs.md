@@ -1127,6 +1127,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Single page apps in depth](http://singlepageappbook.com) - Mixu (HTML)
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML,PDF)
+* [Testing JavaScript Applications](https://github.com/lucasfcosta/testing-javascript-applications) - Lucas da Costa
 * [The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [The JavaScript Tutorial](http://javascript.info) - Ilya Kantor (HTML)
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
@@ -1136,7 +1137,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
 * [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
-* [Testing JavaScript Applications](https://github.com/lucasfcosta/testing-javascript-applications) - Lucas da Costa
 
 
 #### AngularJS

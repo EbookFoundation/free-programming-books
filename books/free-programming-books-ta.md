@@ -1,7 +1,6 @@
 ## Index
 
-* [Agile and Scrum](#agile-and-scrum)
-* [Big Data](#bigdata)
+* [Hadoop](#hadoop)
 * [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
@@ -9,15 +8,11 @@
 * [PHP](#php)
 * [Ruby](#ruby)
 * [Selenium](#selenium)
+* [Software Architecture](#software-architecture)
 * [Wordpress](#wordpress)
 
 
-### Agile and Scrum
-
-* [எளிய தமிழில் Agile/Scrum](https://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil)
-
-
-### BigData
+### Hadoop
 
 * [எளிய தமிழில் Big Data](https://freetamilebooks.com/ebooks/learn-bigdata-in-tamil)
 
@@ -57,6 +52,11 @@
 ### Selenium
 
 * [எளிய தமிழில் Selenium](https://freetamilebooks.com/ebooks/learn-selenium-in-tamil/) - Nithya Durai (PDF)
+
+
+### Software Architecture
+
+* [எளிய தமிழில் Agile/Scrum](https://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil)
 
 
 ### WordPress

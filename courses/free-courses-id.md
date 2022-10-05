@@ -161,7 +161,6 @@
 
 * [Belajar Gradle](https://www.youtube.com/playlist?list=PL-CtdCApEFH8yGJzfU_gners0ybO4MlrV) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
-
 ### HTML and CSS
 
 * [Belajar CSS](https://alwaysngoding.com/belajar-css/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
@@ -353,7 +352,7 @@
 * [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar
 * [Tutorial Python OOP Object Oriented Programming Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=b6Y5CzFM0Oc) - Agung Setiawan
 * [Visualisasi Data dalam Pemrograman Python (Matplotlib)](https://www.youtube.com/playlist?list=PL2O3HdJI4voHrfoMFvkDeblmjarDN8nC8) - Indonesia Belajar
-
+* [Membuat website dengan Flask](https://youtube.com/playlist?list=PLCZlgfAG0GXCZwaY3F4bHikozOBzrFD_R) - Sekolah Koding
 
 ### Django
 

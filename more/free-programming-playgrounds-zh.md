@@ -11,4 +11,4 @@
 
 ### JavaScript
 
-* [码上掘金](https://code.juejin.cn/)
+* [码上掘金](https://code.juejin.cn)

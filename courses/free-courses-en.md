@@ -909,7 +909,7 @@
 * [Learn Python Tutorial](https://www.kaggle.com/learn/python) (Kaggle)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
 * [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) (Coursera)
-* [NOC:The Joy of Computing using Python, IIT Ropar](https://nptel.ac.in/courses/106106182) - NPTEL Course
+* [NOC:The Joy of Computing using Python, IIT Ropar](https://nptel.ac.in/courses/106106182) - Prof. Sudarshan Iyengar (NPTEL)
 * [Practical Python: An Immersive Python Course](https://practical.learnpython.dev) - Nina Zakharenko
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
 * [Programming, Data Structures And Algorithms Using Python](https://nptel.ac.in/courses/106/106/106106145/) - Prof. Madhavan Mukund (NPTEL)

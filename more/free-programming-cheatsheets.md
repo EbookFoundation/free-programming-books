@@ -84,7 +84,7 @@
 
 ### Data Structures
 
-* [Complexities Cheat Sheet](https://www.bigocheatsheet.com/) (HTML, PDF)
+* [Complexities Cheat Sheet](https://www.bigocheatsheet.com) (HTML, PDF)
 
 
 ### Docker

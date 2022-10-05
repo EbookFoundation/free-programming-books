@@ -1298,7 +1298,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 
 #### Redux
-https://www.youtube.com/watch?v=bbkBuqC1rU4&t=878s
+
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 * [The Complete Redux Book](https://leanpub.com/redux-book/read) - Boris Dinkevich, Ilya Gelman (HTML)

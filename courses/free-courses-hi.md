@@ -12,6 +12,7 @@
 * [Compiler Design](#compiler-design)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Data Structures](#data-structures)
+* [Databases](#databases)
 * [DevOps](#devops)
 * [Flutter](#flutter)
 * [Git and GitHub](#git-and-github)
@@ -143,6 +144,12 @@
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College (YouTube)
 * [Linked Lists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
 * [Stack Playlist \| Interview Questions \| Coding \| Tutorials \| Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma
+
+
+### Databases
+
+* [DBMS (Database Management System)Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
+* [DBMS Placements Series 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp by Babbar
 
 
 ### DevOps

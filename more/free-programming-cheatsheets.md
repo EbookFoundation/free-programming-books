@@ -88,7 +88,7 @@
 * [Docker Cheat Sheet](https://swissarmydevops.com/containers/docker/docker-cli-cheat-sheet) - Nikko Pedersen, Swiss Army DevOps (HTML, [PDF](https://web.archive.org/web/20210516172426/https://swissarmydevops.com/wp-content/uploads/2021/02/Docker_Cheat_Sheet-2.pdf)) *(:card_file_box: archived)*
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) - Will Sargent, et al. (HTML)
 * [Docker Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Docker.docset/Contents/Resources/Documents/index) - Bogdan Popescu (HTML)
-* [Docker Cheat Sheet (:es:)](https://helmcode.com/blog/docker-cheat-sheet) - Cristian Córdova, HelmCode (HTML) 
+* [Docker Cheat Sheet (:es:)](https://helmcode.com/blog/docker-cheat-sheet) - Cristian Córdova, HelmCode (HTML)
 * [Docker Cheat Sheet (v1)](https://dockerlux.github.io/pdf/cheat-sheet.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheat Sheet (v2)](https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheatsheet: Docker commands that developers should know](https://vishnuch.tech/docker-cheatsheet) - Vishnu Chilamakuru (HTML)
@@ -221,7 +221,7 @@
 
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
 * [MongoDB Cheat Sheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - codecentric (PDF)
-* [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (Github Gist)
+* [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (GitHub Gist)
 
 
 ### Perl

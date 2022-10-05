@@ -1,6 +1,7 @@
 ### Index
 
 * [Golang](#golang)
+* [JavaScript](#javascript)
 
 
 ### Golang

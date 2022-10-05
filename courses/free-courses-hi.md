@@ -32,7 +32,7 @@
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
-* [Network](#network)
+* [Networking](#networking)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
 * [Python](#python)
@@ -300,7 +300,7 @@
 * [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
 
 
-### Network
+### Networking
 
 * [3.4 Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd) - Knowledge Gate
 * [Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers, `tch.:` Varun Singla

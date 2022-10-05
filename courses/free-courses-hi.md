@@ -156,6 +156,7 @@
 * [Stack Playlist \| Interview Questions \| Coding \| Tutorials \| Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma 
 * [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
 
+
 ### Databases
 
 * [DBMS (Database Management System)Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers

@@ -9,12 +9,15 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Competitive Programming](#competitive-programming)
 * [Compiler Design](#compiler-design)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Data Structures](#data-structures)
+* [Databases](#databases)
 * [DevOps](#devops)
 * [Flutter](#flutter)
 * [Git and GitHub](#git-and-github)
+* [Golang](#golang)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
     * [Tailwind CSS](#tailwind-css)
@@ -29,6 +32,8 @@
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
+* [Networking](#networking)
+* [Operating Systems](#operating-systems)
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
@@ -53,11 +58,14 @@
 * [Recursion & Backtracking - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) - Pepcoding
 * [Recursion & Backtracking - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0) - Pepcoding
 * [Recursion Playlist \| Coding \| Interview Questions \| Algorithm \| Tutorials](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) - Aditya Verma
+* [Sliding Window Algorithm - Face to Face Interviews](https://youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj) - Aditya Verma
 * [Time and Space - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f) - Pepcoding
 
 
 ### Android
 
+* [Android App Development Course (Beginner to Advanced) \| WsCube Tech 2.0](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL) - WsCube Tech
+* [Android App Development Full Course in Hindi](https://youtube.com/playlist?list=PLRu7mEBdW7fAUNtaiPoTCCgWXSlqwqdSP) - Geeky Hub
 * [Android Development Tutorial for Beginners](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb) - Anuj Bhaiya
 * [Android Development Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd) - CodeWithHarry
 * [App Development Course For School Students \| Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvu4ktQMUJJq-D_6-Eoz8lOk) - Coding Blocks Junior
@@ -90,6 +98,7 @@
 ### <a id="c"></a>C
 
 * [All C Concepts \| Hindi](https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
+* [C Language Tutorial for Beginners (with Notes & Practice Questions)](https://www.youtube.com/watch?v=irqbmMNs2Bo) - Apna College
 * [C Language Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - CodeWithHarry
 * [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - CodeWithHarry
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l) - Vikas Pandey, easytuts4you
@@ -108,10 +117,17 @@
 * [C++ Programming in Hindi](https://www.youtube.com/playlist?list=PLDA2q3s0-n15yszaZ2yRKEoxY-WWkuAt4) - Sumit Bisht (Edutainment 1.0)
 * [C++ Programming in Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhijXuOfBSdQgK296Y7wUDWLn) - Rajesh Kumar, Geeky Shows
 * [C++ Programming Tutorial in Hindi](https://www.youtube.com/playlist?list=PLoVVmGDgrrnS5_TiSg193ezTPd-Ukb25k) - Rakesh Roshan, Learn TechToTech
+* [C++ STL \| Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn) - Luv
 * [C++ Tutorial For Begineers In Hindi](https://www.youtube.com/playlist?list=PLnSDvcENZlwA6YDSfoieM1bl-Y3ALcnL5) - Abhishek Shrivastava, Micro Solution
 * [C++ Tutorial for Beginners \| C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc8VMy1nNHDQldH2dU8Y08s7) - Manish Gehlot, WsCube Tech Programming Concepts
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+
+
+### Competitive Programming
+
+* [Competitive Programming/DSA Course \| Hindi](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) - Luv
+* [Full course in Competitive programming [ Hindi ] \|\| -by prince](https://www.youtube.com/playlist?list=PLzjZaW71kMwTGbP1suqY16w1VSb9ZNuvE) - Hello World
 
 
 ### Compiler Design
@@ -140,7 +156,14 @@
 * [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College (YouTube)
 * [Linked Lists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
-* [Stack Playlist \| Interview Questions \| Coding \| Tutorials \| Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma
+* [Stack Playlist \| Interview Questions \| Coding \| Tutorials \| Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma 
+* [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
+
+
+### Databases
+
+* [DBMS (Database Management system) Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
+* [DBMS Placements Series 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp - by Babbar
 
 
 ### DevOps
@@ -214,6 +237,7 @@
 * [JavaScript Tutorial for Beginners (In Hindi)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0) - Vinod Bahadur Thapa (Thapa Technical)
 * [JavaScript Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) - CodeWithHarry
 * [JavaScript Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - CodeWithHarry
+* [Namaste JavaScript](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
 * [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 
@@ -233,6 +257,7 @@
 
 #### Node.js
 
+* [NodeJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG) - Telusko
 * [NodeJS Tutorial in Hindi 2020](https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) - Vinod Bahadur Thapa (Thapa Technical)
 
 
@@ -276,6 +301,18 @@
 * [Discrete Mathematics](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3) - Gate Smashers, `tch.:` Varun Singla, `tch.:` Naina Wadhwa Singla
 * [Discrete Mathematics (Full Course) By Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg) - Gajendra Purohit
 * [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
+
+
+### Networking
+
+* [3.4 Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd) - Knowledge Gate
+* [Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers, `tch.:` Varun Singla
+
+
+### Operating Systems
+
+* [Operating System (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p) - Gate Smashers
+* [Operating Systems for Placements 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG) - CodeHelp - by Babbar
 
 
 ### PHP
@@ -341,3 +378,10 @@
 * [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
 * [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) - sudoCODE
 
+
+### Golang
+
+* [Go Lang Tutorials in HINDI](https://www.youtube.com/playlist?list=PL45_xGOyv4bk55CMmqH6S6vvnwKD8qifD) - Coder Singh
+* [Go programming (GoLang) Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLEtkoO2np9szq1XDH1Mfr36Fg5EXh-z20) - Host Progrmming
+* [Go programming Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yu7If3I7GonlWA8YU1BuAk) - CS Geeks
+* [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary

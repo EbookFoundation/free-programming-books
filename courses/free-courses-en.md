@@ -58,6 +58,7 @@
 * [Matlab](#matlab)
 * [Misc](#misc)
 * [.NET](#net)
+* [Networking](#networking)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
 * [Operating Systems](#operating-systems)
@@ -112,16 +113,21 @@
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) - Erik Demaine
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
 * [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
+* [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Pasan Premaratne, Jay McGavren (freeCodeCamp)
 * [Analysis of Algorithms (CSE 373)](https://www3.cs.stonybrook.edu/~skiena/373/videos) - Steven Skiena
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 * [Berkeley's CS 61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
+* [Binary Trees - by LoveBabbar](https://youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner) - CodeHelp - by Babbar
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
 * [C Programming & Data Structures](https://youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
+* [Data Structure and Algorithm](https://www.youtube.com/playlist?list=PLLvKknWU7N4y_eGpQdg1Y-hORO7cxtoLU) - Lalit Vashistha
 * [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
 * [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri, Liz Izhikevich (Stepik)
+* [Data Structures](https://youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) - Neso Academy (YouTube)
 * [Data Structures and Algorithms](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) - CS Dojo
 * [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Jenny's lectures CS/IT NET&JRF
-* [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Moshfegh Hamedani (Programming with Mosh)
+* [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Mosh Hamedani (Programming with Mosh)
+* [Data Structures and Algorithms Full Course](https://www.youtube.com/watch?v=LcKqYoX8uH4) - Simplilearn (YouTube, Video length 7:13:56)
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego, HSE University
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset (freeCodeCamp)
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
@@ -134,6 +140,7 @@
 * [Online Java + DSA + Interview preparation course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 * [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+* [Red Black Tree in Data Structures](https://youtube.com/playlist?list=PLPzfPcir5uPT8KFST1Ba3vN6k9yKE9ZK4) - NG Tutorials
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
@@ -187,9 +194,10 @@
 * [AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099) - Microsoft Azure (Udacity)
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino
 * [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering (YouTube)
-* [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and EdX)
+* [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and edX)
 * [Elements of AI](https://www.elementsofai.com) - University of Helsinki, Reaktor
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.ai (Coursera)
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Prof. Patrick Henry Winston (MIT OpenCourseWare)
 
@@ -237,7 +245,6 @@
 * [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Sujeet Singh (Neso Academy)
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane (freeCodeCamp)
-* [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 
 
@@ -245,6 +252,7 @@
 
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens (Microsoft)
 * [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (YouTube)
+* [C# Programming Language (Console Applications)](https://youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends (YouTube)
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane (freeCodeCamp)
 * [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani (Programming with Mosh)
 * [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
@@ -276,6 +284,7 @@
 
 ### Compilers
 
+* [Compiler Design](https://www.youtube.com/playlist?list=PLLvKknWU7N4zpJWLqk7DXK26JwTB-gFmZ) - Lalit Vashistha
 * [Compiler Design](https://youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q) - Neso Academy
 * [Compilers](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i) - Ghassan Shobaki (YouTube)
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
@@ -289,6 +298,7 @@
 ### Computer Science
 
 * [Berkeley's CS  61A: Taught using SICP](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
+* [Computer Networking - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Ferrill (FreeCodeCamp)
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) - David J. Malan (Harvard OpenCourseWare and edX)
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
@@ -316,12 +326,14 @@
 ### Data Science
 
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
+* [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai
 * [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) - Georgia Tech (Udacity)
 * [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) (Jovian)
 * [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Facebook (Udacity)
 * [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) - Rachael Tatman (Kaggle)
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
 * [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft
+* [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science) - CognitiveClass.ai
 * [Data Science interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-) - Krish Naik
 * [Data Visualization](https://www.kaggle.com/learn/data-visualization) - Alexis Cook (Kaggle)
 * [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher
@@ -337,6 +349,7 @@
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE) - Professor Immanuel Trummer, freeCodeCamp.org (YouTube)
+* [DBMS Placement Series](https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp by Babbar
 * [DML Server Administration](https://alison.com/course/databases-dml-statements-and-sql-server-administration-revised) (Alison)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 * [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)
@@ -446,6 +459,8 @@
 * [Low Poly Art For Video Games](https://www.coursera.org/learn/low-poly-art-video-games) - Andrew Dennis, Ricardo Guimaraes (Coursera)
 * [Make a Platform Shooter - GameMaker Studio 2](https://www.youtube.com/playlist?list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6) - HeartBeast
 * [Multiplayer Shooter Tutorials - Godot](https://www.youtube.com/playlist?list=PL6bQeQE-ybqDmGuN7Nz4ZbTAqyCMyEHQa) - PlugWorld
+* [Platform Game Development w/ Construct 2](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAp287UuTE0-K7Ty-b8rGAX) - thenewboston
+* [Pygame (Python Game Development)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq) - thenewboston
 * [Run Bunny, Run! Creating a 2D game in Unity](https://www.youtube.com/playlist?list=PLvUqRm2B9RRBgJipfDmFR7sFhEwBn7aGT) - Rabidgremlin
 * [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals) - Pluralsight Company (Unity Learn)
 * [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) (Brackeys)
@@ -456,7 +471,7 @@
 
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
-* [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha 
+* [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha
 * [Git](https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR) - Gwendolyn Faraday
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) - Briana Marie, freeCodeCamp.org (YouTube)
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG) - Raghav Pal, Automation Step by Step
@@ -686,8 +701,12 @@
 * [React Context & Hooks Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) - The Net Ninja
 * [React Crash Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) - freecodecamp
 * [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - WebDevSimplified
+* [React Router 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=59IXY5IDrBA) - John Smilga (freeCodeCamp)
+* [React State Management using Context API (useContext + useReducer Hooks = Magic)](https://www.youtube.com/watch?v=zxP4oGejqpU) - The Full Stack Junkie
 * [React Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC) - freeCodeCamp
+* [ReactJS - Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Mosh Hamedani (Programming with Mosh)
 * [ReactJS Basics](https://www.youtube.com/playlist?list=PLe30vg_FG4OSw8SIcLVci-jB_-W1ZkLYp) - Bitfumes
+* [ReactJS Course For Beginners 2022](https://www.youtube.com/playlist?list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR) - PedroTech
 * [ReactJS Frontend Web Development For Beginners](https://www.udemy.com/course/react-tutorial/) - Ryan Dhungel (Udemy)
 * [ReactJS Full Course for Beginners \| Complete All-in-One Tutorial \| 9 Hours](https://www.youtube.com/watch?v=RVFAyFWO4go) - Dave Gray
 * [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - Codevolution
@@ -822,6 +841,10 @@
 
 > :information_source: See also &#8230; [C#](#csharp)
 
+### Networking
+
+* [Computer Networks 5e](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) - Andrew Tanenbaum, David Wetherall (Pearson)
+
 
 ### Objective-C
 
@@ -856,6 +879,7 @@
 
 * [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape (2019)
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
+* [Learn PHP The Right Way - Full PHP Tutorial for Beginners & Advanced](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) - Program With Gio
 * [Learn Top Ten Frameworks In PHP By Building Projects](https://www.eduonix.com/courses/Web-Development/learn-top-ten-frameworks-in-php-by-building-projects) - Eduonix Learning Solutions *(account or email address required)*
 * [Object-Oriented PHP For Beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV) - Dary Nazar (Code with Dary)
 * [Object Oriented PHP Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy) - Shaun Pelling (The Net Ninja)
@@ -889,10 +913,10 @@
 * [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
 * [Berkeley's Structure and Interpretation of Computer Programs](https://cs61a.org)
 * [Codesdope](https://www.codesdope.com/python-introduction)
+* [CS50's Introduction to Programming Using Python](https://cs50.harvard.edu/python/) - David J. Malan (Harvard OpenCourseWare and edX)
 * [Fork Python](https://practice.geeksforgeeks.org/courses/fork-python) (GeeksForGeeks)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
-* [Introduction to Programming Using Python](https://www.edx.org/course/introduction-to-programming-using-python) (edX)
 * [Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python) (Microsoft Docs)
 * [Introduction to Python Basics for Data Science](https://dphi.tech/learn/introduction-to-python-basics-for-data-science) (DPhi)
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (Udacity)
@@ -906,6 +930,7 @@
 * [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) (Coursera)
 * [Practical Python: An Immersive Python Course](https://practical.learnpython.dev) - Nina Zakharenko
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
+* [Problem Solving, Python Programming, and Video Games](https://www.coursera.org/learn/problem-solving-programming-video-games) - Duane Szafron, Paul Lu (Coursera)
 * [Programming, Data Structures And Algorithms Using Python](https://nptel.ac.in/courses/106/106/106106145/) - Prof. Madhavan Mukund (NPTEL)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python 101 – Introduction to Programming](https://www.tutorialspoint.com/python_101_andndash_introduction_to_programming/index.asp) - Zenva (Tutorials Point)
@@ -985,6 +1010,7 @@
 * [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x#!)
 * [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!)
 * [An Introduction to Ruby Programming Language](https://www.researchgate.net/publication/322222154_An_Introduction_to_Ruby_Programming_Language) - Ali Tourani (HTML, PDF)
+* [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) - The Odin Project
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [Learn Ruby](https://www.learnrubyonline.org)
 * [RESTful API with Ruby On Rails 5](https://www.udemy.com/course/restful-api-with-ruby-on-rails-5/) - Udemy
@@ -1059,6 +1085,7 @@
 * [Beginner's Typescript](https://www.totaltypescript.com/tutorials/beginners-typescript) - Matt Pocock
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath (YouTube)
 * [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
+* [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) - (CodeAcademy)
 * [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 
 
@@ -1097,7 +1124,7 @@
 * [ASP.NET Core Tutorial For Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - Venkat (Pragim Technologies)
 * [Command Line Power User - for web developers](https://commandlinepoweruser.com) - WesBos (email address *required*)
 * [Create a Professional Website with Velo by Wix](https://www.codecademy.com/learn/create-a-professional-website-with-velo-by-wix) - Codecademy
-* [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) - Brian Yu, David J. Malan (edX Harvard CS50)
+* [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/) - Brian Yu, David J. Malan (edX Harvard CS50)
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [Essential Nextjs Typescript Tailwind Stack](https://www.youtube.com/playlist?list=PLKEkvhqFCRwL94nLP-TdIfNmbiZk5FCMx) - Fireship, Ben Awad, Traversy Media, Devs Force
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -1109,6 +1136,7 @@
 * [Introduction to Professional Web Development in JavaScript](https://education.launchcode.org/intro-to-professional-web-dev/) - Chris Bay, Jim Flores, Blake Mills, Sally Steuterman, Paul Matthews, Carly Langlois (The LaunchCode Foundation)
 * [Java Web Development](https://education.launchcode.org/java-web-development/) - Chris Bay, Jim Flores, Carly Langlois, Sally Steuterman (The LaunchCode Foundation)
 * [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) - Mozilla Contributors
+* [Programming & Web Development Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8) - Traversy Media
 * [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Web Basics](https://open.cs.uwaterloo.ca/web-basics/) - Centre for Education in Math and Computing (University of Waterloo)

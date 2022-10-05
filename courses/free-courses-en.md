@@ -290,8 +290,8 @@
 * [Computer Architecture Complete course Part 1](https://www.youtube.com/watch?v=9nuAjYRbITQ) - Nerd's lesson (YouTube, Video Length 9:29:50)
 * [Computer Architecture Complete Course Part 2](https://www.youtube.com/watch?v=foCkCSZXOt8) - Nerd's lesson (YouTube, Video Length 9:29:50)
 * [Computer Architecture Complete course Part 3](https://www.youtube.com/watch?v=BHMETwOXvWw) - Nerd's lesson (YouTube, Video Length 9:29:50)
-* [Computer Organization And Architecture \| COA Tutorial With Examples](https://www.learncomputerscienceonline.com/computer-organization-and-architecture) - Learn Computer Science
 * [Computer Organization & Architecture (COA)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q) - Neso Academy (YouTube)
+* [Computer Organization And Architecture \| COA Tutorial With Examples](https://www.learncomputerscienceonline.com/computer-organization-and-architecture) - Learn Computer Science
 
 
 ### Computer Science

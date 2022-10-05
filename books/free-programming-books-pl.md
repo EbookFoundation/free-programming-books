@@ -123,7 +123,7 @@
 
 * [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish) - Janusz Goldasz, Ryszard Ku­biak, To­masz Przech­lewski
-* [Wprowadzenie do systemu LATEX](https://www.math.uni.wroc.pl/sites/default/files/wdsl.pdf) - Karol Selwat, UWr (PDF)
+* [Wprowadzenie do systemu LATEX](https://www.math.uni.wroc.pl/sites/default/files/wdsl.pdf) - Karol Selwat (PDF)
 
 
 ### Lisp

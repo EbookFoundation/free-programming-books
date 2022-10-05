@@ -250,7 +250,7 @@
 -   [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) - John Purcell (Udemy)
 -   [Google's C++ Course](https://developers.google.com/edu/c++/)
 -   [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
--   [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: _archived_)
+-   [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card*file_box: \_archived*)
 
 ### Clojure
 
@@ -678,11 +678,11 @@
 -   [JavaScript Testing Fundamentals](https://vueschool.io/courses/javascript-testing-fundamentals)
 -   [Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals)
 -   [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone)
+-   [Vue test utils](https://youtube.com/playlist?list=PLC2LZCNWKL9ahK1IoODqYxKu5aA9T5IOA) - Lachlan Miller (YouTube)
 -   [Vue.js Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
 -   [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 -   [Vue.js Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) - The Net Ninja (YouTube)
 -   [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
--   [Vue test utils](https://youtube.com/playlist?list=PLC2LZCNWKL9ahK1IoODqYxKu5aA9T5IOA) - Lachlan Miller (YouTube)
 
 ### Kotlin
 
@@ -757,7 +757,7 @@
 
 -   [Advanced Adobe XD (Web Design)](https://webdesign.tutsplus.com/courses/advanced-adobe-xd-for-everyone) - Adi Purdila
 -   [Computer Graphics](http://nptel.ac.in/courses/106106090/)
--   [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic (:card_file_box: _archived_)
+-   [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic (:card*file_box: \_archived*)
 -   [Introduction to Quantum Computing and Quantum Hardware](https://qiskit.org/learn/intro-qc-qh) - Qiskit
 -   [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) - David Silver
 -   [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)

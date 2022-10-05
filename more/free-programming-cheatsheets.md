@@ -16,6 +16,7 @@
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
     * [Nest.js](#nestjs)
+    * [Next.js](#nextjs)
     * [Nuxt.js](#nuxtjs)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
@@ -122,6 +123,7 @@
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
+* [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
 
 
 ### HTML and CSS
@@ -170,6 +172,11 @@
 #### Nest.js
 
 * [Nest.js CheatSheet](https://gist.github.com/guiliredu/0aa9e4d338bbeeac369a597e87c9ba46) (GitHub Gist)
+
+
+#### Next.js
+
+* [Ultimate Next.js Handbook](https://thevalleyofcode.pages.dev/next-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
 
 
 #### Nuxt.js

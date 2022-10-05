@@ -1,9 +1,9 @@
 ### Index
 
-- [Index](#index)
-- [JavaScript](#javascript)
-  - [Node.js](#nodejs)
-  - [React](#react)
+* [Index](#index)
+* [JavaScript](#javascript)
+  * [Node.js](#nodejs)
+  * [React](#react)
 
 
 ### JavaScript

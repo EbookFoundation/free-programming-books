@@ -316,6 +316,8 @@
 * [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) - Mahmud Ahsan (FreeCodeCamp)
 * [Dart Programming Tutorial \| Learn the Dart for Flutter](https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter) (Udemy)
 * [Free Dart Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVR2FiAS7TTCT_n2mDhwISE) - Vandad Nahavandipoor (YouTube)
+* [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Stack Overflow contributors
+* [Essential Dart](https://www.programming-books.io/essential/dart) -  Krzysztof Kowalczyk
 
 
 ### Data Science

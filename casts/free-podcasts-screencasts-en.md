@@ -228,6 +228,8 @@
 #### React.js
 
 * [Chats with Kent C. Dodds](https://kentcdodds.com/chats) - Kent C. Dodds (podcast)
+* [Epic React](https://epicreact.dev/podcast) - Kent C. Dodds (podcast)
+* [React Native Nerds](https://www.reactnativenerds.com) - Spencer Carli, Jonathan Wheat (podcast)
 * [React Native Radio](https://www.reactnativeradio.com/episodes) - Jamon Holmgren, Robin Heinze, Mazen Chami, Jon Major (podcast)
 * [React Podcast](https://reactpodcast.simplecast.fm) - Michael Chan (podcast)
 * [React Round Up](https://reactroundup.com/episodes) - Carl Mungazi, Charles Max Wood, TJ VanToll, Paige Niedringhaus, Jack Herrington, et al. (podcast)

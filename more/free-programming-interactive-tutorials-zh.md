@@ -6,7 +6,7 @@
 
 ## Git
 
-* [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
+* [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN) - Peter M Cottle
 
 
 ### Golang

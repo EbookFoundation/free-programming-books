@@ -291,7 +291,7 @@
 * [Software Engineering Daily](https://softwareengineeringdaily.com) - Jeff Meyerson, Alex DeBrie, Lee Atchison, Jocelyn Byrne Houle, Mike Bifulco, Sean Falconer, et al. (podcast)
 * [Software Engineering Radio](https://www.se-radio.net) - Robert Blumen, Jeff Doolittle, Felienne Hermans, Gavin Henry, Jeremy Jung, Nikhil Krishna, Priyanka Raghavan, Kanchan Shringi, Philip Winston (podcast)
 * [Syscast Podcast](https://podcast.sysca.st) - Mattias Geniar (podcast)
-* [Talking Code](https://www.talkingcode.com) - Josh Smith, Venkat Dinavahi (podcast)
+* [Talking Code](https://podcasts.apple.com/us/podcast/talking-code/id988073177) - Josh Smith, Venkat Dinavahi (podcast)
 * [Talks at Google](https://www.youtube.com/playlist?list=PLGGpadyh0wS7XnpWK8ofxWhL7F72KcDRj) - Google (screencast)
 * [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - Stephen Janaway, Dan Ashby (podcast)
 * [The Big Web Show](https://bigwebshow.fireside.fm) - Jeffrey Zeldman (podcast)

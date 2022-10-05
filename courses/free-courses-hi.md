@@ -12,7 +12,6 @@
 * [Competitive Programming](#competitive-programming)
 * [Compiler Design](#compiler-design)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
-* [Copmuter Science](#computer-science)
 * [Data Structures](#data-structures)
 * [Databases](#databases)
 * [DevOps](#devops)
@@ -138,11 +137,6 @@
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers (YouTube)
 
 
-### Computer Science
-
-* [Computer Networking](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers (YouTube)
-
-
 ### Data Structures
 
 * [2-D Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH) - Pepcoding
@@ -166,6 +160,7 @@
 
 * [DBMS (Database Management System)Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
 * [DBMS Placements Series 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp by Babbar
+* [DBMS Complete Course in Hindi](https://youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV) - Knowledge Gate
 
 
 ### DevOps

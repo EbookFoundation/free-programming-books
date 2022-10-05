@@ -242,7 +242,7 @@
 
 ### <a id="csharp"></a>C\#
 
-* [Building a microservice architecture with ASP.NET Core](https://www.youtube.com/watch?v=SR53SKIUYPA&list=PL03Lrmd9CiGfgBmqFWeRxaUSQ_cSF_rCF&index=30) - Gill Cleeren (Youtube)
+* [Building a microservice architecture with ASP.NET Core - Gill Cleeren - NDC London 2022](https://www.youtube.com/watch?v=SR53SKIUYPA) - Gill Cleeren
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens (Microsoft)
 * [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (YouTube)
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane (freeCodeCamp)

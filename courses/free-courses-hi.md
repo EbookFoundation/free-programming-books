@@ -2,6 +2,7 @@
 
 * [Algorithms](#algorithms)
 * [Android](#android)
+* [Angular](#angular)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)
 * [Bash and Shell](#bash-and-shell)

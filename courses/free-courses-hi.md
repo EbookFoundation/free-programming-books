@@ -306,8 +306,8 @@
 ### Networking
 
 * [3.4 Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd) - Knowledge Gate
-* [Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers, `tch.:` Varun Singla
 * [Computer Networking (in one video)](https://youtu.be/IPvYjXCsTg8) - Kunal Kushwaha
+* [Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers, `tch.:` Varun Singla
 
 
 ### Operating Systems

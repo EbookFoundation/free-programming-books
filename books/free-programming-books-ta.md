@@ -1,7 +1,6 @@
 ## Index
 
-* [Big Data](#bigdata)
-* [Database](#database)
+* [Hadoop](#hadoop)
 * [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
@@ -9,38 +8,35 @@
 * [PHP](#php)
 * [Ruby](#ruby)
 * [Selenium](#selenium)
+* [Software Architecture](#software-architecture)
+* [Wordpress](#wordpress)
 
 
-### BigData
+### Hadoop
 
-* [எளிய தமிழில் Big Data](http://www.kaniyam.com/learn-bigdata-in-tamil-ebooks/)
-
-
-### Database
-
-* [எளிய தமிழில் MySQL ](http://www.kaniyam.com/mysql-book-in-tamil/)
+* [எளிய தமிழில் Big Data](https://freetamilebooks.com/ebooks/learn-bigdata-in-tamil)
 
 
 ### HTML and CSS
 
-* [எளிய தமிழில் CSS](http://www.kaniyam.com/download/learn-css-in-tamil.pdf) - Kaniyam Foundation (PDF)
-* [எளிய தமிழில் CSS](http://www.kaniyam.com/learn-css-in-tamil-ebook/)
-* [எளிய தமிழில் HTML](http://www.kaniyam.com/learn-html-in-tamil/)
+* [எளிய தமிழில் CSS](https://freetamilebooks.com/ebooks/learn-css-in-tamil/) - Kaniyam Foundation (PDF)
+* [எளிய தமிழில் HTML](https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html)
 
 
 ### JavaScript
 
-* [எளிய தமிழில் JavaScript](http://www.kaniyam.com/learn-javascript-in-tamil/)
+* [எளிய தமிழில் JavaScript](https://freetamilebooks.com/ebooks/learn-javascript-in-tamil/)
 
 
 ### MachineLearning
 
-* [எளிய தமிழில் ML](http://www.kaniyam.com/download/e0ae8ee0aeb3e0aebfe0aeaf-e0aea4e0aeaee0aebfe0aeb4e0aebfe0aeb2e0af8d-machine-learning-a4-pdf.html)
+* [எளிய தமிழில் ML](https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/)
 
 
 ### MySQL
 
-* [எளிய தமிழில் MySQL](http://www.kaniyam.com/mysql-book-in-tamil/)
+* [எளிய தமிழில் MySQL ](https://freetamilebooks.com/ebooks/learn-mysql-in-tamil)
+* [எளிய தமிழில் MySQL – பாகம் 2 ](https://freetamilebooks.com/ebooks/learn-mysql-in-tamil-part-2)
 
 
 ### PHP
@@ -50,9 +46,19 @@
 
 ### Ruby
 
-* [எளிய இனிய கணினி மொழி Ruby](http://www.kaniyam.com/download/learn-ruby-in-tamil.pdf) - பிரியா சுந்தரமூர்த்தி (PDF)
+* [எளிய இனிய கணினி மொழி Ruby](https://freetamilebooks.com/ebooks/learn-ruby-in-tamil/) - பிரியா சுந்தரமூர்த்தி (PDF)
 
 
 ### Selenium
 
-* [எளிய தமிழில் Selenium](http://www.kaniyam.com/download/learn-selenium-in-tamil.pdf) - Nithya Durai (PDF)
+* [எளிய தமிழில் Selenium](https://freetamilebooks.com/ebooks/learn-selenium-in-tamil/) - Nithya Durai (PDF)
+
+
+### Software Architecture
+
+* [எளிய தமிழில் Agile/Scrum](https://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil)
+
+
+### WordPress
+
+* [எளிய தமிழில் WordPress](https://freetamilebooks.com/ebooks/learn-wordpress-in-tamil/)

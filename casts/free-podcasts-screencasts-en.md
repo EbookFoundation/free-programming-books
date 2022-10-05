@@ -283,7 +283,7 @@
 * [.NET Rocks!](https://www.dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)
 * [Open Source System Podcast](https://opensourcesystempodcast.vf.io) - Vlad Filippov, Kyle Robinson Young, Tim Branyen, Darcy Clarke, Mike Taylor, Alex Sexton, Jason Etcovitch (podcast)
 * [Programming Throwdown](https://www.programmingthrowdown.com) - Jason Gauci, Patrick Wheeler (podcast)
-* [Reactive](https://reactive.audio) - Kahlil Lechelt, Raquel Vélez, Henning Glatter-Götz (podcast)
+* [Reactive](https://podcasts.apple.com/us/podcast/reactive/id1020286000) - Kahlil Lechelt, Raquel Vélez, Henning Glatter-Götz (podcast)
 * [Security Now](https://www.grc.com/securitynow.htm) - Steve Gibson, Leo Laporte (podcast)
 * [Shop Talk Show](https://shoptalkshow.com) - Dave Rupert, Chris Coyier (podcast)
 * [Smashing podcast](https://podcast.smashingmagazine.com) - Drew McLellan, Smashing Magazine Team (podcast)

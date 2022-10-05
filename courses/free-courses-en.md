@@ -188,6 +188,7 @@
 
 * [AI Courses](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html) - Intel Corporation
 * [AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099) - Microsoft Azure (Udacity)
+* [Artificial Intelligence Search Methods For Problem Solving](https://youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY) - NPTEL HRD
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino
 * [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering (YouTube)
 * [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and EdX)

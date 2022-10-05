@@ -354,3 +354,6 @@
 
 * [Boas Práticas de Segurança da Informação para Sua Empresa](https://www.udemy.com/course/empresa-mais-segura/) - Afonso da Silva E. (Udemy)
 * [Segurança da Informação: Por onde iniciar sua carreira](https://www.udemy.com/course/seguranca-da-informacao-por-onde-iniciar-sua-carreira/) - Alexandro Silva (Udemy)
+* [Proteção de Dados](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/protecao-de-dados?gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOUI11DW2VnmsFESfaI9mZ3Kb2KiKSZZ6hsP3fCxONGiFssgjqGNzdsaAmJyEALw_wcB)
+* [Splunk - Fundamentos](https://www.youtube.com/watch?v=AIJKMk8kunw&list=PL8vOoYAs_ySzhFsDzfM-_JbEfMJtmtdVp)
+* [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/)

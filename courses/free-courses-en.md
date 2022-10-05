@@ -310,12 +310,14 @@
 ### Data Science
 
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
+* [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai
 * [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) - Georgia Tech (Udacity)
 * [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) (Jovian)
 * [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Facebook (Udacity)
 * [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) - Rachael Tatman (Kaggle)
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
 * [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft
+* [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science) - CognitiveClass.ai
 * [Data Science interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-) - Krish Naik
 * [Data Visualization](https://www.kaggle.com/learn/data-visualization) - Alexis Cook (Kaggle)
 * [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher
@@ -325,8 +327,6 @@
 * [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
-* [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science) - CognitiveClass.ai
-* [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai
 
 
 ### Databases

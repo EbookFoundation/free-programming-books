@@ -11,6 +11,7 @@
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
+* [SCSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -135,7 +136,7 @@
 * [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co) - Chris Malven (HTML)
 * [HTML & CSS Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) - Emmet Documentation (HTML, [PDF]( https://docs.emmet.io/cheatsheet-a5.pdf))
 * [HTML CheatSheet](https://htmlcheatsheet.com) - htmlcheatsheet.com (HTML, [PDF](https://htmlcheatsheet.com/HTML-Cheat-Sheet.pdf))
-
+* [SCSS CheatSheet](https://devhints.io/sass) - devhints.io/sass)
 
 ### IDE and editors
 

@@ -17,6 +17,7 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Mathematics](#mathematics)
+* [OpenStack](#openstack)
 * [Operation System](#operation-system)
 * [Perl](#perl)
 * [PHP](#php)
@@ -128,6 +129,11 @@
 ### Mathematics
 
 * [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
+
+
+### OpenStack
+
+* [오픈스택을 다루는 기술](https://thebook.io/006881) - 장현정 (HTML)
 
 
 ### Operation System

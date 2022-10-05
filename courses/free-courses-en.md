@@ -2,8 +2,8 @@
 
 * [0 - MOOC](#0---mooc)
 * [Algorithms & Data Structures](#algorithms--data-structures)
-* [Augmented Reality](#augmented-reality) 
 * [Android](#android)
+* [Augmented Reality](#augmented-reality) 
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)

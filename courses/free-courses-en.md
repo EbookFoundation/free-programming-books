@@ -190,7 +190,7 @@
 * [AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099) - Microsoft Azure (Udacity)
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino
 * [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering (YouTube)
-* [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and EdX)
+* [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and edX)
 * [Elements of AI](https://www.elementsofai.com) - University of Helsinki, Reaktor
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
@@ -893,10 +893,10 @@
 * [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
 * [Berkeley's Structure and Interpretation of Computer Programs](https://cs61a.org)
 * [Codesdope](https://www.codesdope.com/python-introduction)
+* [CS50's Introduction to Programming Using Python](https://cs50.harvard.edu/python/) - David J. Malan (Harvard OpenCourseWare and edX)
 * [Fork Python](https://practice.geeksforgeeks.org/courses/fork-python) (GeeksForGeeks)
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
-* [Introduction to Programming Using Python](https://www.edx.org/course/introduction-to-programming-using-python) (edX)
 * [Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python) (Microsoft Docs)
 * [Introduction to Python Basics for Data Science](https://dphi.tech/learn/introduction-to-python-basics-for-data-science) (DPhi)
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (Udacity)

@@ -58,6 +58,7 @@
 * [Matlab](#matlab)
 * [Misc](#misc)
 * [.NET](#net)
+* [Networking](#networking)
 * [Objective-C](#objective-c)
 * [OCaml](#ocaml)
 * [Operating Systems](#operating-systems)
@@ -815,6 +816,10 @@
 ### .NET
 
 > :information_source: See also &#8230; [C#](#csharp)
+
+### Networking
+
+* [Computer Networks 5e](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) - Andrew Tanenbaum, David Wetherall (Pearson)
 
 
 ### Objective-C

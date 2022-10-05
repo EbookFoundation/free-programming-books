@@ -66,6 +66,7 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](C
 - nếu sách cũ, hãy bao gồm ngày xuất bản cùng với tên sách.
 - bao gồm tên tác giả hoặc tên nếu thích hợp. Bạn có thể rút ngắn danh sách tác giả với "`et al.`".
 - nếu cuốn sách chưa hoàn thành và vẫn đang được hoàn thiện, hãy thêm ký hiệu "`đang xử lý`", như được mô tả [dưới đây](#in_process).
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - nếu địa chỉ email hoặc thiết lập tài khoản được yêu cầu trước khi kích hoạt tải xuống, hãy thêm ghi chú phù hợp với ngôn ngữ trong ngoặc đơn, ví dụ: `(địa chỉ email *được yêu cầu*, không bắt buộc)`.
 
 
@@ -144,6 +145,12 @@ Ví dụ:
     TỐT: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
+- <a id="archived"></a>Archived link:
+
+    ```text
+    TỐT: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
 ### Alphabetical order
 
 - When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
@@ -181,9 +188,17 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 ##### Người Sáng Tạo
 
 - Chúng tôi muốn ghi công những người tạo ra các tài liệu miễn phí nếu thích hợp, bao gồm cả những người dịch!
-- Đối với các tác phẩm đã dịch, tác giả gốc nên được ghi công.
+- Đối với các tác phẩm đã dịch, tác giả gốc nên được ghi công. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-vi.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - Chúng tôi không cho phép liên kết bởi Người sáng tạo.
-- Đối với các tác phẩm tổng hợp hoặc phối lại, "người sáng tạo" có thể cần mô tả. Ví dụ: sách "GoalKicker" được ghi là "`Được tổng hợp từ tài liệu StackOverflow`" (bằng tiếng anh: "`Compiled from StackOverflow documentation`").
+- Đối với các tác phẩm tổng hợp hoặc phối lại, "người sáng tạo" có thể cần mô tả. Ví dụ: sách "GoalKicker" or "RIP Tutorial" được ghi là "`Được tổng hợp từ tài liệu StackOverflow`" (bằng tiếng anh: "`Compiled from StackOverflow documentation`").
 
 
 ##### Nền Tảng và Ghi Chú Truy Cập

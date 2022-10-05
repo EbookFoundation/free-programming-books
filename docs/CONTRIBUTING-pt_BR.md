@@ -56,6 +56,7 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 - se o livro for mais antigo, inclua a data de publicação no título.
 - inclua o(s) nome(s) do(s) autor(es) onde for apropriado. Você pode encurtar a lista de autores com "`et al`".
 - se o livro não estiver completo, e ainda está sendo escrito, adicione a notação "`in process`", como descrito [abaixo](#in_process).
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - se um endereço de email ou configuração de conta for solicitado antes que o _download_ seja habilitado, adicione uma observação no idioma apropriado e entre parênteses. Por exemplo: `(endereço de email é *pedido*, não obrigatório)`.
 
 
@@ -134,6 +135,12 @@ Exemplo:
     BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) (:construction: *em processo*)
     ```
 
+- <a id="archived"></a>Archived link:
+
+    ```text
+    BOM  : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
 ### Alphabetical order
 
 - When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
@@ -171,9 +178,17 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 ##### Criadores
 
 - Queremos creditar os criadores do material gratuito apropriadamente, incluindo tradutores!
-- Para trabalhos traduzidos, o autor original deve ser creditado.
+- Para trabalhos traduzidos, o autor original deve ser creditado. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-pt_BR.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - Não permitimos _links_ para Criadores.
-- Para compilações ou trabalhos remixados, o "criador" pode precisar de uma descrição. Por exemplo, os livros "GoalKicker" são creditados como "`Compilado da documento do StackOverflow`" (em inglês: "`Compiled from StackOverflow documentation`").
+- Para compilações ou trabalhos remixados, o "criador" pode precisar de uma descrição. Por exemplo, os livros "GoalKicker" ou "RIP Tutorial" são creditados como "`Compilado da documento do StackOverflow`" (em inglês: "`Compiled from StackOverflow documentation`").
 
 
 ##### Plataforma e Notas de Acesso

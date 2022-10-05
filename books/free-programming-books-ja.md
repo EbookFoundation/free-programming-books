@@ -300,7 +300,6 @@
 
 ### CoffeeScript
 
-* [CoffeeScript 言語リファレンス](http://memo.sappari.org/coffeescript/coffeescript-langref)
 * [CoffeeScript基礎文法最速マスター](https://blog.bokuweb.me/entry/2015/01/06/190240) - id:bokuweb
 * [The Little Book on CoffeeScript](https://minghai.github.io/library/coffeescript) - Alex MacCaw, Narumi Katoh(翻訳)
 * [基本操作逆引きリファレンス（CoffeeScript）](https://kyu-mu.net/coffeescript/revref) - 飯塚直
@@ -360,13 +359,11 @@
 #### Gradle
 
 * [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf))
-* [ビルドツールGradleスタートアップガイドの紹介](https://www.ntts.co.jp/column/tec/java_03/) - 鈴木雅貴
 
 
 #### Grails
 
 * [Grailsフレームワーク 日本語リファレンス](https://grails.jp/doc/latest) - T.Yamamoto, Japanese Grails Doc Translating Team. Special thanks to NTT Software
-* [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/) - 須藤悠
 
 
 #### Spock Framework
@@ -405,7 +402,6 @@
 * [JavaScript Plugin Architecture](https://azu.gitbooks.io/javascript-plugin-architecture/content) - azu
 * [JavaScript Primer](https://jsprimer.net) - azu, Suguru Inatomi
 * [JavaScript Promiseの本](https://azu.github.io/promises-book) - azu
-* [JavaScript style guide](https://developer.mozilla.org/ja/docs/JavaScript_style_guide) - MDN
 * [JavaScript 基礎文法最速マスター](https://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
 * [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN

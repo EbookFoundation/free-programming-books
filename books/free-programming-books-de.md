@@ -8,6 +8,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Component Pascal](#component-pascal)
+* [Delphi](#delphi)
 * [Git](#git)
 * [Go](#go)
 * [Groovy](#groovy)
@@ -22,12 +23,14 @@
 * [MySQL](#mysql)
 * [Neo4j](#neo4j)
 * [PHP](#php)
+    * [Joomla](#joomla)
     * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
+* [Shell](#shell)
 * [UML](#uml)
 * [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Unix](#unix)
@@ -68,6 +71,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [Einführung in das Programmieren mit C#](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/c) - Bernhard Baltes-Götz (PDF)
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)
 
@@ -83,6 +87,11 @@
 ### Component Pascal
 
 * [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
+
+
+### Delphi
+
+* [Delphi-Starter](https://web.archive.org/web/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*    
 
 
 ### Git
@@ -122,6 +131,7 @@
 
 ### Java
 
+* [Einführung in das Programmieren mit Java](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/java) - Bernhard Baltes-Götz, Johannes Götz (PDF)
 * [EJB 3 für Umsteiger: Neuerungen und Änderungen gegenüber dem EJB-2.x-Standard](http://bsd.de/e3fu/umfrage.html) - Heiko W. Rupp
 * [Java 7 Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7) - Christian Ullenboom (Online)
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel) - Christian Ullenboom (Online)
@@ -146,7 +156,7 @@
 
 ### LaTeX
 
-* [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
+* [LaTeX - eine Einführung und ein bisschen mehr ...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
 * [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz)
 
@@ -178,9 +188,14 @@
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) - Sascha Kersken (PDF)
 
 
+#### Joomla
+
+* [Joomla! 3 - Das umfassende Handbuch](https://openbook.rheinwerk-verlag.de/joomla_3/) - Richard Eisenmenger
+
+
 #### Symfony
 
-* [Symfony 5: Auf der Überholspur](https://symfony.com/doc/5.0/the-fast-track/de/index.html) (Online)
+* [Symfony: Auf der Überholspur](https://symfony.com/doc/current/the-fast-track/de/index.html) (Online)
 
 
 ### Python
@@ -199,7 +214,7 @@
 
 ### Ruby on Rails
 
-* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) (PDF)
+* [Praxiswissen Ruby](https://web.archive.org/web/20160328183933/https://oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) - Sascha Kersken (PDF) *(:card_file_box: archived)*
 * [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) - Denny Carl (PDF)
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF)
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/) - Hussein Morsy, Tanja Otto (Online)
@@ -214,6 +229,11 @@
 ### Scratch
 
 * [Kreative Informatik mit Scratch](http://eis.ph-noe.ac.at/kreativeinformatik)
+
+
+### Shell
+
+* [Shell-Programmierung](https://openbook.rheinwerk-verlag.de/shell_programmierung/) - Jürgen Wolf
 
 
 ### UML
@@ -243,6 +263,5 @@
 
 ### Visual Basic
 
-* [Einstieg in Visual Basic 2010](http://openbook.rheinwerk-verlag.de/einstieg_vb_2010) - Thomas Theis (Online)
 * [Einstieg in Visual Basic 2012](http://openbook.rheinwerk-verlag.de/einstieg_vb_2012) - Thomas Theis (Online)
 * [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008) Andreas Kuehnel, Stephan Leibbrandt (Online)

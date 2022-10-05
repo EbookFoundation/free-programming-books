@@ -9,6 +9,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Competitive Programming](#competitive-programming)
 * [Compiler Design](#compiler-design)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Data Structures](#data-structures)
@@ -117,6 +118,12 @@
 * [C++ Tutorial for Beginners \| C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc8VMy1nNHDQldH2dU8Y08s7) - Manish Gehlot, WsCube Tech Programming Concepts
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+
+
+### Competitive Programming
+
+* [Competitive Programming/DSA Course \| Hindi](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) - Luv
+* [Full course in Competitive programming [ Hindi ] \|\| -by prince](https://www.youtube.com/playlist?list=PLzjZaW71kMwTGbP1suqY16w1VSb9ZNuvE) - Hello World
 
 
 ### Compiler Design

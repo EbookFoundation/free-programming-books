@@ -189,7 +189,7 @@
 * [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and EdX)
 * [Elements of AI](https://www.elementsofai.com) - University of Helsinki, Reaktor
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
-* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow?utm_source=gg&utm_medium=sem&utm_campaign=07_MachineLearningStanfordSearch-ROW&utm_content=B2C&campaignid=2070742271&adgroupid=112394854539&device=c&keyword=&matchtype=&network=g&devicemodel=&adpostion=&creativeid=475480534925&hide_mobile_promo=&gclid=EAIaIQobChMIt9TJibHH-gIV6oBQBh2pPQcfEAAYAyAAEgJH_fD_BwE) - DeepLearning.AI (Coursera)
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.AI, `tch.:` Laurence Moroney (Coursera)
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Prof. Patrick Henry Winston (MIT OpenCourseWare)
 

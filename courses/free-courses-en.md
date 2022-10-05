@@ -3,10 +3,10 @@
 * [0 - MOOC](#0---mooc)
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
-* [Augmented Reality](#augmented-reality) 
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)
+* [Augmented Reality](#augmented-reality) 
 * [AutoIt](#autoit)
 * [Bash / Shell](#bash--shell)
 * [Blockchain](#blockchain)
@@ -146,11 +146,6 @@
 * [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 
 
-### Augmented Reality
-
-* [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar) - Daydream
-
-
 ### Android
 
 * [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) (Udacity)
@@ -213,6 +208,11 @@
 * [Introduction to Assembly Programming with ARM](https://www.udemy.com/course/introduction-to-assembly-programming-with-arm/) - Scott Cosentino (Udemy)
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html) - Matt Briggs (OpenSecurityTraining)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html) - Xeno Kovah (OpenSecurityTraining)
+
+
+### Augmented Reality
+
+* [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar) - Daydream
 
 
 ### AutoIt

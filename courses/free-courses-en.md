@@ -123,7 +123,7 @@
 * [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Moshfegh Hamedani (Programming with Mosh)
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego, HSE University
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset (freeCodeCamp)
-* [Data Structures in C](https://youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
+* [C Programming & Data Structures](https://youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 * [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas (Udacity)
 * [JavaScript Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) - Codevolution

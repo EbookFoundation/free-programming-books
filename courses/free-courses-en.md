@@ -705,6 +705,7 @@
 
 * [Getting Started with Redux](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
+* [Redux Toolkit Tutorial – JavaScript State Management Library](https://www.youtube.com/watch?v=bbkBuqC1rU4&t=878s) - John (freecodecamp)
 
 
 #### Svelte

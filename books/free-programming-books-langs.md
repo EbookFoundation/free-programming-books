@@ -452,6 +452,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
 * [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
+* [Programming in C, Fourth Edition](https://github.com/misstong/CS50-Edx/blob/master/programming%20in%20c%20(4th%20edition)%20%20-%20stephen%20g.%20kochan(1).pdf) - Stephen G. Kochan (PDF)
 * [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
 * [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (PDF)
 * [The C book](http://publications.gbdirect.co.uk/c_book/) - Mike Banahan, Declan Brady, Mark Doran (PDF, HTML)

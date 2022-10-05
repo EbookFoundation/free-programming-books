@@ -59,7 +59,8 @@
 
 ### Android
 
-* [Android App Development Full Course in Hindi](https://youtube.com/playlist?list=PLRu7mEBdW7fAUNtaiPoTCCgWXSlqwqdSP) - Geeky Hub
+* [Android App Development Full Course in Hindi](https://youtube.com/playlist?list=PLRu7mEBdW7fAUNtaiPoTCCgWXSlqwqdSP) - Geeky Hub\
+* [Android App Development Course (Beginner to Advanced) \| WsCube Tech 2.0](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL) - WsCube Tech
 * [Android Development Tutorial for Beginners](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb) - Anuj Bhaiya
 * [Android Development Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd) - CodeWithHarry
 * [App Development Course For School Students \| Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvu4ktQMUJJq-D_6-Eoz8lOk) - Coding Blocks Junior

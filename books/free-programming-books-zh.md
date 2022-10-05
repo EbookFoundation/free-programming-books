@@ -87,7 +87,6 @@
 
 * [沉浸式学 Git](https://web.archive.org/web/20191004044726/http://igit.linuxtoy.org:80/index.html) - Jim Weirich, `trl.:` 徐小东 a.k.a toy *(:card_file_box: archived)*
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/) - Nulab Inc.
-* [学习 Git 分支](https://learngitbranching.js.org/?locale=zh_CN) - Peter Cottle
 * [Git - 简易指南](https://rogerdudler.github.io/git-guide/index.zh.html) - Roger Dudler, `trl.:` 罗杰·杜德勒 (HTML)
 * [Git 参考手册](http://gitref.justjavac.com) - CHEN Yangjian
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) - flyhigher139

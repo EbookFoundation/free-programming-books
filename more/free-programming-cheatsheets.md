@@ -153,6 +153,7 @@
 
 * [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF)
 * [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet) - CodeWithHarry (HTML)
+* [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) - Edureka (HTML)
 
 
 ### JavaScript

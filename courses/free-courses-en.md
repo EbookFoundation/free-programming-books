@@ -89,6 +89,7 @@
 * [Web Development](#web-development)
 * [Windows Phone](#windows-phone)
 
+
 ### 0 - MOOC
 
 * [Codecademy](https://www.codecademy.com)
@@ -1122,6 +1123,7 @@
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
 * [Web Programming](https://open.cs.uwaterloo.ca/web-programming/) - Centre for Education in Math and Computing (University of Waterloo)
 
+
 ### Windows Phone
 
-* [Windows Phone 8.1 Development for Absolute Beginners](https://web.archive.org/web/20150213035325/http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners) - Bob Tabor, Matthias Shapiro, Larry Lieberman (Channel 9, MSDN) (:card_file_box: *archived*) 
+* [Windows Phone 8.1 Development for Absolute Beginners](https://web.archive.org/web/20150213035325/http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners) - Bob Tabor, Matthias Shapiro, Larry Lieberman (Channel 9, MSDN) *(:card_file_box: archived)* 

@@ -28,6 +28,7 @@
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
 * [Scratch](#scratch)
+* [Shell scripting](#shell-scripting)
 * [TypeScript](#typescript)
 
 
@@ -215,6 +216,11 @@
 * [Scratch Programming](https://youtube.com/playlist?list=PLtEypp6e7UDBfNhRt9x3N89mJKl0PztHH) - bdOSN
 * [Scratch Programming for Kids Bangla](https://youtube.com/playlist?list=PLkWIEmwZeYzqpPfmJdlXKgjxrCu47Gfaz) - Opportunities For Kids
 * [Scratch Programming in Bangla](https://youtube.com/playlist?list=PLym69wpbTIIEkUnqkOznZfQU6lRxebpO3) - Tamim Shahriar
+
+
+### Shell scripting
+
+* [Linux Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PLMTKJq4uuKqXVg7S7XujEsONl9ZVT4X0p) - Atiq Hasan Zubu
 
 
 ### TypeScript

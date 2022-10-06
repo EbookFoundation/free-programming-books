@@ -55,8 +55,8 @@
 ### ASP
 
 * [Làm dự án với ASP.NET Core 3.1](https://tedu.com.vn/khoa-hoc/lam-du-an-voi-aspnet-core-31-34.html) - TEDU
-* [Lập trình dự án Website bán hàng ASP.NET MVC 4](https://tedu.com.vn/khoa-hoc/lap-trinh-du-an-website-ban-hang-aspnet-mvc-4-1.html) - TEDU
 * [Lập trình ASP.NET Core từ căn bản đến nâng cao](https://tedu.com.vn/khoa-hoc/lap-trinh-aspnet-core-tu-co-ban-den-nang-cao-33.html) - TEDU
+* [Lập trình dự án Website bán hàng ASP.NET MVC 4](https://tedu.com.vn/khoa-hoc/lap-trinh-du-an-website-ban-hang-aspnet-mvc-4-1.html) - TEDU
 
 
 ### Bash
@@ -105,6 +105,7 @@
 
 * [Cấu trúc dữ liệu và Giải thuật](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev
 
+
 ### Flutter
 
 * [Flutter căn bản](https://tedu.com.vn/khoa-hoc/xay-dung-ung-dung-mobile-voi-flutter-can-ban-31.html) - TEDU
@@ -114,7 +115,7 @@
 
 * [Cách sử dụng Git trong THỰC TẾ \| Github](https://www.youtube.com/watch?v=O5uT6p6VWjY) - Ông Dev
 * [Git - from Zero to Hero](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q) - CodersX
-* [Quản lý source code trong dự án với GIT](https://tedu.com.vn/khoa-hoc/quan-ly-source-code-trong-du-an-voi-git-8.html)- TEDU
+* [Quản lý source code trong dự án với GIT](https://tedu.com.vn/khoa-hoc/quan-ly-source-code-trong-du-an-voi-git-8.html) - TEDU
 * [Từ gà tới pro Git và Github trong 20 phút - Tự học Git siêu tốc](https://www.youtube.com/watch?v=1JuYQgpbrW0) - Phạm Huy Hoàng (toidicodedao)
 
 
@@ -153,10 +154,9 @@
 
 > :information_source: See also &#8230; [Angular](#angular)
 
-* [Angular 2 căn bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular-2-can-ban-10.html) - TEDU
 * [AngularJS cho người mới bắt đầu](https://tedu.com.vn/khoa-hoc/angularjs-cho-nguoi-moi-bat-dau-5.html) - TEDU
 * [AngularJS Cơ Bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsw70vZAkJgALJ1yhgYsqDGx) - TEDU
-* [Làm dự án thực tế với Angular 2+ Web API](https://tedu.com.vn/khoa-hoc/lam-du-an-thuc-te-voi-angular-2-web-api-13.html) - TEDU
+* [Làm dự án với WebAPI, AngularJS và EF Code First](https://tedu.com.vn/khoa-hoc/lam-du-an-thuc-te-voi-webapi-angularjs-va-entity-framework-code-first-7.html) - TEDU
 
 
 #### jQuery
@@ -268,13 +268,14 @@
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU
 
 
-#### AngularJS
+#### Angular
 
 > :information_source: See also &#8230; [AngularJS](#angularjs)
 
+* [Angular 2 căn bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular-2-can-ban-10.html) - TEDU
 * [Angular 2 Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html) - TEDU
 * [Angular 4 Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC) - Khoa Phạm
-* [Làm dự án với WebAPI, AngularJS và EF Code First](https://tedu.com.vn/khoa-hoc/lam-du-an-thuc-te-voi-webapi-angularjs-va-entity-framework-code-first-7.html) - TEDU
+* [Làm dự án thực tế với Angular 2+ Web API](https://tedu.com.vn/khoa-hoc/lam-du-an-thuc-te-voi-angular-2-web-api-13.html) - TEDU
 * [Tự học Angular 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ) - CodersX
 * [Tự học Angular 5](https://www.youtube.com/playlist?list=PLWBrqglnjNl1qQw2nH5O1A8W_DVC3xo-V) - Nguyen Duc Hoang
 

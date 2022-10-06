@@ -7,7 +7,7 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
-* [Data Structures & Algorithms](#data-structures-&-algorithms)
+* [Data Structures & Algorithms](#dsa)
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
@@ -82,7 +82,7 @@
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
 
 
-### Data Structures & Algorithms
+### <a id="dsa"></a>Data Structures & Algorithms
 
 * [Complexities Cheat Sheet](https://www.bigocheatsheet.com) (HTML, PDF)
 

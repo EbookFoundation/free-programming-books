@@ -274,8 +274,8 @@
 
 ### Clojure
 
-* [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 * [Clojure Tutorial](https://www.youtube.com/watch?v=ciGyHkDuPAE) - Derek Banas
+* [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 
 
 ### Cloud Computing

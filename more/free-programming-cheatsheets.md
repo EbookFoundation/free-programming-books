@@ -7,7 +7,7 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Data Science](#data-science)
-* [Data Structures & Algorithms](#data-structures)
+* [Data Structures & Algorithms](#data-structures-&-algorithms)
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)

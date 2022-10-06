@@ -14,6 +14,7 @@
 * [Dart](#dart)
 * [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
+    * [Engenharia de software Moderna](#engenharia-de-software-moderna)
     * [Arquitetura de Software](#arquitetura-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
     * [Outros](#outros)
@@ -136,6 +137,7 @@
 ### Engenharia de Software
 
 * [Engenharia de Software - Uma Abordagem Profissional](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Julho_2019/capas_julho_2019/Pressman_Engenharia0001.pdf) - Roger S. Pressman, Bruce R. Maxim (PDF)
+* [Engenharia de Software Moderna](https://engsoftmoderna.info/) - Marco Tulio Valente (Site)
 
 
 #### Metodologias de Desenvolvimento de Software

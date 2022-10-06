@@ -1080,8 +1080,9 @@
 ### Theory
 
 * [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
-* [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
 * [Computer Graphics, Fall 2009](https://youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g) (Youtube)
+* [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
+
 
 ### TypeScript
 

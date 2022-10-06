@@ -137,6 +137,7 @@
 * [Curso completo e atual de HTML5 e CSS3 - Módulo 4 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) - Gustavo Guanabara (Curso em Vídeo)
 * [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
+* [Discover](https://app.rocketseat.com.br/discover) - Rocketseat
 
 
 ### IDE and editors
@@ -181,6 +182,7 @@
 * [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
 * [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/discover/courses) - Rocketseat
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
+* [Discover](https://app.rocketseat.com.br/discover) - Rocketseat
 
 
 #### Vue.js
@@ -247,6 +249,7 @@
 * [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (YouTube)
 * [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - Erick Wendel (Teachable)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
+* [Ignite](https://www.rocketseat.com.br/ignite) - Rocketseat
 
 
 ### PHP
@@ -304,6 +307,7 @@
 ### React Native
 
 * [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) - Canal Geek Dev (YouTube)
+* [Ignite](https://www.rocketseat.com.br/ignite) - Rocketseat
 
 
 ### Ruby
@@ -335,6 +339,7 @@
 * [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) - Willian Justen Curso (YouTube)
 * [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) - DevDojo (YouTube)
 * [TypeScript, o início, de forma prática](https://www.youtube.com/watch?v=0mYq5LrQN1s) - Rocketseat, Diego Fernandes (YouTube)
+* [Ignite](https://www.rocketseat.com.br/ignite) - Rocketseat
 
 
 #### Angular

@@ -143,8 +143,8 @@
 
 ### GLSL
 
-* [The Book of Shaders](https://thebookofshaders.com)
 * [Graphics Shaders: Theory and Practice](https://cs.uns.edu.ar/cg/clasespdf/GraphicShaders.pdf) - Mike Bailey, Steve Cunningham (PDF)
+* [The Book of Shaders](https://thebookofshaders.com)
 
 
 ### Go

@@ -8,6 +8,7 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Machine Learning](#ml)
 * [PHP](#php)
 * [Python](#python)
 * [SQL](#sql)
@@ -59,6 +60,11 @@ CSE Tamila by Eezytutorials
 * [Javascript (ES6) Tutorials in Tamil](https://youtube.com/playlist?list=PLB8qmogP8oMwFdeaeThAbsR9Vh-873SWb) - Coda - Programming In Tamil
 * [Javascript Full Course in Tamil - in Depth Javascript Tutorials in Tamil](https://youtube.com/playlist?list=PLpYn3LR7eQI3hjh129Bkqkw7onut28hTK) - Tamil Developer
 * [JavaScript in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa) - CyberDude Networks Pvt. Ltd.
+
+
+### Machine Learning
+
+* [Machine Learning in Tamil](https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM) - Nithya Duraisamy
 
 
 ### PHP

@@ -55,6 +55,12 @@
 * [JavaScript in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa) - CyberDude Networks Pvt. Ltd.
 
 
+### Machine Learning
+
+* [Introduction to Machine Learning(Tamil)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX) - IIT Madras NPTEL
+* [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD) - Majaa Matrix
+
+
 ### PHP
 
 * [PHP for beginners In Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfcq_D-sEy0pR4Sl_yipy6Jt) - Tutor Joe's Stanley
@@ -65,11 +71,6 @@
 
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
-
-### Machine Learning
-
-* [Introduction to Machine Learning(Tamil)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX) - IIT Madras NPTEL
-* [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD) - Majaa Matrix
 
 
 ### SQL

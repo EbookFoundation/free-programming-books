@@ -24,9 +24,9 @@
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
-* [MPI/OpenMP](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
+* [MPI/OpenMP](#mpi/openmp)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -225,11 +225,6 @@
 * [Markdown Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Adam Pritchard (HTML)
 
 
-### MPI/OpenMP
-
-* [MPI Cheat Sheet](https://wtpc.github.io/clases/2018/mpicheatsheet.pdf) - SC Education (PDF)
-
-
 ### MATLAB
 
 * [MATLAB Basic Functions Reference Sheet](https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf) - MathWorks (PDF)
@@ -241,6 +236,11 @@
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
 * [MongoDB Cheat Sheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - codecentric (PDF)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (GitHub Gist)
+
+
+### MPI/OpenMP
+
+* [MPI Cheat Sheet](https://wtpc.github.io/clases/2018/mpicheatsheet.pdf) - SC Education (PDF)
 
 
 ### Perl

@@ -4,6 +4,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
+* [Cloud computing](#cloud-computing)
 * [Data Science](#data-science)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
@@ -50,7 +51,9 @@
 
 * [C++ Complete Course](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Yan Chernikov (screencast)
 * [C++ Programming Video Lectures](https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr) - Saurabh School of Computing (screencast)
+* [C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno (screencast)
 * [C++ Standard Library](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - Bo Qian (screencast)
+* [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
 * [CppCast](http://cppcast.com) - Conor Hoekstra, Jason Turner, JeanHeyd Meneide, Matt Godbolt, Rob Irving (podcast)
 
 
@@ -58,6 +61,15 @@
 
 * [ClojureScript Podcast](https://clojurescriptpodcast.com) - Jacek Schae (podcast)
 * [Parens of the Dead](http://www.parens-of-the-dead.com) - Magnar Sveen, Elisabeth Irgens (screencast)
+
+
+### Cloud computing
+
+* [CloudSkills.fm](https://cloudskills.fm) - Mike Pfeiffer (podcast)
+* [Google Cloud Platform Podcast](https://www.gcppodcast.com) - Google Cloud Platform team (podcast)
+* [Microsoft Cloud Show](https://www.microsoftcloudshow.com) -  Andrew Connell and Chris Johnson (podcast)
+* [On Cloud](https://www2.deloitte.com/us/en/pages/consulting/topics/cloud-podcast.html) - Deloitte US (podcast)
+* [The Cloud Pod](https://www.thecloudpod.net) - Justin Brodley, Jonathan Baker, Ryan Lucas and Peter Roosakos (podcast)
 
 
 ### Data Science
@@ -75,10 +87,12 @@
 * [Talking Machines](https://www.thetalkingmachines.com) - Katherine Gorman, Neil Lawrence (podcast)
 * [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi, Christopher Peter Makris, Corey Strausman (podcast)
 * [The Data Science Podcast](https://developer.ibm.com/podcasts/the-data-science-podcast/) - IBM (podcast)
+* [Towards Data Science](https://towardsdatascience.com/podcast/home) - The TDS team (podcast)
 
 
 ### Elixir
 
+* [Elixir Newbie](https://www.elixirnewbie.com/podcast) - Brooklin Myers (podcast)
 * [Elixir Sips](http://elixirsips.com) - Josh Adams (screencast)
 * [ElixirCasts](https://elixircasts.io) - Alekx (screencast)
 * [ElixirConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT) - Confreaks (screencast)
@@ -133,6 +147,7 @@
 
 * [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - Brad Traversy (screencast)
 * [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) - Chris Coyier (screencast)
+* [HTML All The Things](https://www.htmlallthethings.com/podcast) - Matt Lawrence and Mike Karan (podcast)
 * [The CSS Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
 
 
@@ -161,19 +176,27 @@
 * [Front End Happy Hour](https://frontendhappyhour.com) - Ryan Burgess, Jem Young, Stacy London, Augustus Yuan, Mars Jullian, Shirley Wu (podcast)
 * [Frontend First](https://player.fm/series/frontend-first) - Sam Selikoff, Ryan Toronto (podcast)
 * [Frontend Five](https://frontendfive.codeschool.com) - CodeSchool (podcast)
+* [Full Stack Radio](https://fullstackradio.com) - Adam Wathan (podcast)
 * [HTML All The Things](https://www.htmlallthethings.com/podcast) - Mike Karan, Matt Lawrence (podcast)
+* [HTTP203](https://developers.google.com/web/shows/http203/podcast) - Surma, Jake (podcast)
 * [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu, Tyler McGinnis, Kyle Simpson, et al. (podcast)
 * [JavaScript Jabber](https://javascriptjabber.com) - Aimee Knight, AJ O'Neal, Charles Wood, Dan Shappir, Steve Edwards, et al. (podcast)
 * [JS Party](https://changelog.com/jsparty) - Jerod Santo, Nick Nisi, Amelia Wattenberger, Kevin Ball, Divya, Feross Aboukhadijeh, Amal Hussein, Christopher Hiller, Ali Spittel, et al. (podcast)
+* [Ladybug Podcast](https://www.ladybug.dev) - Emma Bostian, Sidney Buckner, Kelly Vaughn, and Ali Spittel (podcast)
 * [Modern Web](https://www.thisdot.co/modern-web) - This Dot Labs (podcast)
 * [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) - YLD Ltd. (screencast)
+* [Purrfect.dev](https://anchor.fm/purrfect-dev) - Developers (podcast)
 * [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
+* [ShopTalk](https://shoptalkshow.com) - Dave Rupert, Chris Coyier. (podcast)
 * [Syntax](https://syntax.fm) - Wes Bos, Scott Tolinski (podcast)
 * [The JavaScript Show](http://javascriptshow.com) - Peter Cooper, Jason Seifer (podcast)
+* [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
+* [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
 
 
 #### Angular
 
+* [Adventures in Angular](https://topenddevs.com/podcasts/adventures-in-angular) - Charles Max Wood, Subrat Mishra, Richard Sithole, Armen Vardanyan, Sani Yusuf, Shai Reznik, Alyssa Nicoll, Brooks Forsyth, Brad McAlister, Chris Ford, Eddie Hinkle, Younes Jaaidi, Brian Love, Jennifer Wadella, Aaron Frost, Joe Eames (podcast)
 * [Angular Air](https://angularair.com) - Justin Schwartzenberger, Alyssa Nicoll, Mike Brocci, Bonnie Brennan, Austin McDaniel (podcast)
 * [Angular Master](https://anchor.fm/angular-master) - Dariusz Kalbarczyk (podcast)
 
@@ -205,9 +228,12 @@
 #### React.js
 
 * [Chats with Kent C. Dodds](https://kentcdodds.com/chats) - Kent C. Dodds (podcast)
+* [Epic React](https://epicreact.dev/podcast) - Kent C. Dodds (podcast)
+* [React Native Nerds](https://www.reactnativenerds.com) - Spencer Carli, Jonathan Wheat (podcast)
 * [React Native Radio](https://www.reactnativeradio.com/episodes) - Jamon Holmgren, Robin Heinze, Mazen Chami, Jon Major (podcast)
 * [React Podcast](https://reactpodcast.simplecast.fm) - Michael Chan (podcast)
 * [React Round Up](https://reactroundup.com/episodes) - Carl Mungazi, Charles Max Wood, TJ VanToll, Paige Niedringhaus, Jack Herrington, et al. (podcast)
+* [React Wednesdays](https://www.telerik.com/react-wednesdays) - Kathryn Grayson Nanz (screencast)
 * [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) - Cassio Zen (screencast, [:package: code sources](https://github.com/cassiozen/ReactCasts)
 * [The React Native Show](https://www.callstack.com/podcast-react-native-show) - Mike Grabowski, Mike Chudziak, Satyajit Sahoo, Michał Pierzchała, et al. (screencast)
 
@@ -225,6 +251,7 @@
 * [ADSP: The Podcast](https://adspthepodcast.com) - Bryce Adelstein Lelbach, Conor Hoekstra (podcast)
 * [Array Cast](https://arraycast.com) - Conor Hoekstra, Adám Brudzewsky, Richard Park, Rodrigo Girão Serrão, Stephen Taylor, Nick Psaris, Bob Therriault (podcast)
 * [Arrested DevOps](https://www.arresteddevops.com) - Bridget Kromhout, Jeff Smith, Jessica Kerr, Joe Laha, Matt Stratton, Trevor Hess (podcast)
+* [AWS TechChat](https://aws.amazon.com/podcasts/aws-techchat/) - AWS Solution Architects (podcast)
 * [baseCS](https://www.codenewbie.org/basecs) - Vaidehi Joshi, Saron Yitbarek (podcast based on [a series of posts on medium](https://medium.com/basecs))
 * [Between \| Screens Podcast](https://soundcloud.com/between-screens) - Ed Wassermann (podcast)
 * [BSDTalk](https://bsdtalk.blogspot.com) - Will Backman (podcast)
@@ -234,6 +261,7 @@
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Saron Yitbarek, Red Hat (podcast)
 * [CTRL+CLICK CAST](https://ctrlclickcast.com) - Lea Alcantara, Emily Lewis, Bright Umbrella (podcast)
 * [Darknet Diaries](https://darknetdiaries.com) - Jack Rhysider, Fiona Guy, Leah Hurvoloy, et al. (podcast)
+* [DevDiscuss](https://dev.to/devdiscuss) - DEV (podcast)
 * [Developer On Fire](https://developeronfire.com) - Dave Rael (podcast)
 * [Developer Tea](https://developertea.com) - Jonathan Cutrell (podcast)
 * [DevelopersHangout](https://www.developershangout.io) - Eric J Silva (podcast)
@@ -255,7 +283,7 @@
 * [.NET Rocks!](https://www.dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)
 * [Open Source System Podcast](https://opensourcesystempodcast.vf.io) - Vlad Filippov, Kyle Robinson Young, Tim Branyen, Darcy Clarke, Mike Taylor, Alex Sexton, Jason Etcovitch (podcast)
 * [Programming Throwdown](https://www.programmingthrowdown.com) - Jason Gauci, Patrick Wheeler (podcast)
-* [Reactive](https://reactive.audio) - Kahlil Lechelt, Raquel Vélez, Henning Glatter-Götz (podcast)
+* [Reactive](https://podcasts.apple.com/us/podcast/reactive/id1020286000) - Kahlil Lechelt, Raquel Vélez, Henning Glatter-Götz (podcast)
 * [Security Now](https://www.grc.com/securitynow.htm) - Steve Gibson, Leo Laporte (podcast)
 * [Shop Talk Show](https://shoptalkshow.com) - Dave Rupert, Chris Coyier (podcast)
 * [Smashing podcast](https://podcast.smashingmagazine.com) - Drew McLellan, Smashing Magazine Team (podcast)
@@ -263,7 +291,8 @@
 * [Software Engineering Daily](https://softwareengineeringdaily.com) - Jeff Meyerson, Alex DeBrie, Lee Atchison, Jocelyn Byrne Houle, Mike Bifulco, Sean Falconer, et al. (podcast)
 * [Software Engineering Radio](https://www.se-radio.net) - Robert Blumen, Jeff Doolittle, Felienne Hermans, Gavin Henry, Jeremy Jung, Nikhil Krishna, Priyanka Raghavan, Kanchan Shringi, Philip Winston (podcast)
 * [Syscast Podcast](https://podcast.sysca.st) - Mattias Geniar (podcast)
-* [Talking Code](https://www.talkingcode.com) - Josh Smith, Venkat Dinavahi (podcast)
+* [Talking Code](https://podcasts.apple.com/us/podcast/talking-code/id988073177) - Josh Smith, Venkat Dinavahi (podcast)
+* [Talks at Google](https://www.youtube.com/playlist?list=PLGGpadyh0wS7XnpWK8ofxWhL7F72KcDRj) - Google (screencast)
 * [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - Stephen Janaway, Dan Ashby (podcast)
 * [The Big Web Show](https://bigwebshow.fireside.fm) - Jeffrey Zeldman (podcast)
 * [The Changelog Podcast](https://changelog.com/podcast/) - Adam Stacoviak, Jerod Santo (podcast)
@@ -277,7 +306,6 @@
 * [The Podcast from DZone.com: "For Developers, by Developers"](https://soundcloud.com/john-esposito-23072673) - John Esposito (podcast)
 * [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet) - Gary McGraw (podcast)
 * [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) - The Stack Overflow team (podcast)
-* [The Web Ahead](https://5by5.tv/webahead) - Jen Simmons (podcast)
 * [The Web Platform](https://thewebplatform.libsyn.com) - Erik Isaksen, Justin Ribeiro, Danny Blue, Amal Hussein, Leon Revill, et al. (podcast)
 * [Thinking with Tanay](https://anchor.fm/tanaypratap) - Tanay Pratap (podcast)
 * [This Developer's Life](https://thisdeveloperslife.com) - Rob Conery, Scott Hanselman (podcast)
@@ -306,6 +334,7 @@
 * [Machine learning](https://anchor.fm/david-nishimoto) - David Nishimoto (podcast)
 * [Talking Machines](http://www.thetalkingmachines.com) - Katherine Gorman, Neil Lawrence (podcast)
 * [The AI Podcast](https://blogs.nvidia.com/ai-podcast/) - NVIDIA, Noah Kravitz (podcast)
+* [Tic-Tac-Toe the Hard Way](https://pair.withgoogle.com/thehardway/) - Google's People + AI Research team (podcast)
 * [TWIML AI Podcast](https://twimlai.com/shows/) - Sam Charrington (podcast)
 
 

@@ -92,7 +92,7 @@
 * [الحريات الرقمية - المفاهيم الرئيسية](https://librebooks.org/digital-freedoms-main-concepts/) - محمد الطاهر (PDF)
 * [المصادر المفتوحة خيارات بلا حدود](https://librebooks.org/opensource-ultimate-options/) - محمد أنس طويلة (PDF)
 * [تعرف على البرمجيات الحرة](https://librebooks.org/know-free-software/) - فهد السعيدي (PDF)
-* [دليل البرمجيات الحرة مفتوحة](https://www.freeopensourceguide.com/) - أحمد م. أبوزيد (PDF)
+* [دليل البرمجيات الحرة مفتوحة](https://www.freeopensourceguide.com) - أحمد م. أبوزيد (PDF)
 * [نبذة عن رخص البرمجيات الحرة](https://librebooks.org/bref-about-foss-licenses/) - جلال شفرور (PDF)
 
 

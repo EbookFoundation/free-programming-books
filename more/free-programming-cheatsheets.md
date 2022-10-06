@@ -8,7 +8,7 @@
 * [Clojure](#clojure)
 * [Data Science](#data-science)
 * [Docker](#docker)
-* [DSA](#data-structures-and-algorithms)
+* [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)

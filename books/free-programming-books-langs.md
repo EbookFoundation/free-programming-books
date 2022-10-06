@@ -2397,6 +2397,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Angular Material](https://material.angular.io/guide) (HTML)
 * [Angular Tutorial](https://angular.io/tutorial) (HTML)
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma (PDF, [:package: code samples](https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore))
+* [Web Development with Bootstrap 4 and Angular 2](https://github.com/NedyUdombatFree-Web-Development-eBooks) - NedyUdombat (HTML)
 
 
 #### Deno

@@ -119,7 +119,7 @@
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
-* [Programação competitiva](https://github.com/edsomjr/TEP) - Edson Alves (HTML)
+* [Tópicos Especiais em Programação](https://github.com/edsomjr/TEP) - Edson Alves (HTML)
 * [Programação Orientada a Objetos em C++](https://web.archive.org/web/20190124233626/http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
 

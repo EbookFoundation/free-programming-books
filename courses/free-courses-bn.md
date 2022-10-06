@@ -211,9 +211,9 @@
 
 ### Scratch
 
-* [Scratch Programming in Bangla](https://youtube.com/playlist?list=PLym69wpbTIIEkUnqkOznZfQU6lRxebpO3) - Tamim Shahriar
-* [Scratch Programming for Kids Bangla](https://youtube.com/playlist?list=PLkWIEmwZeYzqpPfmJdlXKgjxrCu47Gfaz) - Opportunities For Kids
 * [Scratch Programming](https://youtube.com/playlist?list=PLtEypp6e7UDBfNhRt9x3N89mJKl0PztHH) - bdOSN
+* [Scratch Programming for Kids Bangla](https://youtube.com/playlist?list=PLkWIEmwZeYzqpPfmJdlXKgjxrCu47Gfaz) - Opportunities For Kids
+* [Scratch Programming in Bangla](https://youtube.com/playlist?list=PLym69wpbTIIEkUnqkOznZfQU6lRxebpO3) - Tamim Shahriar
 
 
 ### TypeScript

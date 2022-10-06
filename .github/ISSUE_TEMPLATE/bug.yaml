@@ -1,0 +1,60 @@
+name: "Bug Report"
+description: "Submit a bug report to help us improve"
+title: "Bug Report: "
+labels: [🐛 BUG]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out our bug report form.
+  - type: textarea
+    id: steps-to-reproduce
+    validations:
+      required: true
+    attributes:
+      label: "Steps to reproduce"
+      description: "Please walk us through it step by step."
+      placeholder: "First I ..."
+  - type: textarea
+    id: expected-behavior
+    validations:
+      required: true
+    attributes:
+      label: "Expected behavior"
+      description: "What did you think would happen?"
+      placeholder: "It shoulds ..."
+  - type: textarea
+    id: actual-behavior
+    validations:
+      required: true
+    attributes:
+      label: "Actual behavior"
+      description: "What did actually happen? Add screenshots, if it's possiable."
+      placeholder: "It actually ..."
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: "Operating system"
+      description: "What OS is your server / device running on?"
+      options:
+        - Linux
+        - macOS
+        - Windows
+        - Something else
+    validations:
+      required: true
+  - type: checkboxes
+    id: no-duplicate-issues
+    attributes:
+      label: "Have you spent some time to check if this issue has been raised before?"
+      description: "Have you Googled for a similar issue or checked our older issues for a similar bug?"
+      options:
+        - label: "I checked and didn't find similar issue"
+          required: true
+  - type: checkboxes
+    id: read-code-of-conduct
+    attributes:
+      label: "Have you read the Code of Conduct?"
+      options:
+        - label: "I have read the [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CODE_OF_CONDUCT.md)"
+          required: true

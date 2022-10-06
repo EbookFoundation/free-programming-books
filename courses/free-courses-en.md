@@ -606,6 +606,7 @@
 * [Java Server Tutorials - Happy Coding](https://happycoding.io/tutorials/java-server/) - Kevin Workman
 * [Java tutorial for beginners](https://youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1) - Bro Code (YouTube)
 * [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell (Udemy)
+* [Java Tutorial for Beginners | Full Course](https://www.youtube.com/watch?v=8cm1x4bC610) - Navin Reddy, Telusko
 * [JSP (Java server pages) and servlet basics](https://www.udemy.com/course/jsp-servlet-free/) - StudyEasy Organisation, Chaand Sheikh (Udemy)
 * [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
 * [Learn Java](https://www.sololearn.com/learning/1068) - Sololearn *(email address required)*
@@ -617,7 +618,7 @@
 * [Programming in Java](https://nptel.ac.in/courses/106/105/106105191/) - Prof. Debasis Samanta (NPTEL)
 * [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) - MIT Open Learning Library
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
-
+* [Spring Framework Complete Tutorial](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7) - Java Brains (YouTube)
 
 ### JavaScript
 

@@ -56,7 +56,7 @@
 * [Tutorial Dasar Android Studio Bahasa Indonesia](https://www.udemy.com/course/tutorial-dasar-android-studio-bahasa-indonesia-gratis) - Udemy
 
 ### AWS
-* [Roadmap Belajar Cloud di AWS Untuk Pemula] (https://www.youtube.com/watch?v=PD3ZWjvom5g) - Petra Barus - Senior Developer Advocate, AWS (Youtube)
+* [Roadmap Belajar Cloud di AWS Untuk Pemula](https://www.youtube.com/watch?v=PD3ZWjvom5g) - Petra Barus - Senior Developer Advocate, AWS (Youtube)
 
 ### Apache Kafka
 

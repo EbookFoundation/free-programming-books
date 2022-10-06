@@ -2,7 +2,6 @@
 
 * [C](#c)
 * [C#](#csharp)
-* [C++](#cpp)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)

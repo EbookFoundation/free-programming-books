@@ -1247,7 +1247,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 
-
 #### Node.js
 
 * [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))

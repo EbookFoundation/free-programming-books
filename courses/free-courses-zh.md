@@ -11,4 +11,4 @@
 
 ### Linux
 
-* [Linux 核心設計](https://youtube.com/playlist?list=PL6S9AqLQkFpongEA75M15_BlQBC9rTdd8)
+* [Linux 核心設計](https://youtube.com/playlist?list=PL6S9AqLQkFpongEA75M15_BlQBC9rTdd8) - jserv

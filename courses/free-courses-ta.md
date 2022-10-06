@@ -10,6 +10,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [SQL](#sql)
+* [Machine Learning](#machinelearning)
 
 
 ### Android
@@ -70,3 +71,8 @@
 
 * [SQL in Tamil (தமிழில் SQL)](https://www.youtube.com/playlist?list=PLgWpUXNR_WCd-oMh-n6LhRYyNZjiiPVGm) - Payilagam
 * [SQL in Tamil for Beginners](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUBh28ZT2i-jH7kBkTfB_W2) - Logic First Tamil
+
+### Machine Learning
+
+*[Introduction to Machine Learning(Tamil)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX) - IIT Madras NPTEL
+*[Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD) - Majaa Matrix

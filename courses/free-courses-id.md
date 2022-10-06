@@ -1,9 +1,9 @@
 ### Index
 
 * [Android](#android)
-* [AWS](#AWS)
 * [Apache Kafka](#apache-kafka)
 * [AR / VR](#ar--vr)
+* [AWS](#AWS)
 * [Bootstrap](#bootstrap)
 * [C / C++](#c--c)
 * [C#](#csharp)
@@ -55,9 +55,6 @@
 * [Tutorial Android Dasar (Bahasa Indonesia)](https://www.youtube.com/watch?v=pUTz5IOkBtE) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Tutorial Dasar Android Studio Bahasa Indonesia](https://www.udemy.com/course/tutorial-dasar-android-studio-bahasa-indonesia-gratis) - Udemy
 
-### AWS
-* [Roadmap Belajar Cloud di AWS Untuk Pemula](https://www.youtube.com/watch?v=PD3ZWjvom5g) - Petra Barus - Senior Developer Advocate, AWS (Youtube)
-
 ### Apache Kafka
 
 * [Belajar Apache Kafka untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH8dJMuQGojbjUdLEty8mqYF) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
@@ -67,6 +64,10 @@
 
 * [Belajar Membuat Mixed Reality](https://www.dicoding.com/academies/155) - Dicoding, membutuhkan registrasi
 
+### AWS
+* [Roadmap Belajar Cloud di AWS Untuk Pemula](https://www.youtube.com/watch?v=PD3ZWjvom5g) - Petra Barus - Senior Developer Advocate, AWS (Cloud Engineering with Imre),Youtube
+* [Tutorial Belajar AWS | Amazon WEb Services | Belajar Cloud Computing](https://www.youtube.com/playlist?list=PL2O3HdJI4voHl6yAoFI7UR4ne2CkWyVFB) - (Indonesia Belajar), Youtube
+* [Belajar Cloud Computing bersama AWS Indonesia](https://www.youtube.com/playlist?list=PL2O3HdJI4voFv4rLFFDKPY23yWV4ZIzrv) - Petra Novandi Barus (Indonesia Belajar), Youtube
 
 ### Bootstrap
 

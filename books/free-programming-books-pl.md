@@ -86,6 +86,7 @@
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
 * [Kurs podstaw Arduino](https://forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290) - forbot.pl
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/) - Karol Kuczmarski
+* [Programowanie obiektowe i C++](https://mst.mimuw.edu.pl/wyklady/poc/wyklad.pdf) - Janusz Jabłonowski (PDF)
 
 
 ### Haskell
@@ -123,6 +124,7 @@
 
 * [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish) - Janusz Goldasz, Ryszard Ku­biak, To­masz Przech­lewski
+* [Wprowadzenie do systemu LATEX](https://www.math.uni.wroc.pl/sites/default/files/wdsl.pdf) - Karol Selwat (PDF)
 
 
 ### Lisp

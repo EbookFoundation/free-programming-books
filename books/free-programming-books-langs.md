@@ -625,7 +625,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Dart
 
-* [Dart Apprentice (First Edition): Beginning Programming with Dart](https://dokumen.pub/download/dart-apprentice-1nbsped-1950325326-9781950325320.html) - Jonathan Sande and Matt Galloway (PDF)
+* [Dart Apprentice (First Edition): Beginning Programming with Dart](https://www.raywenderlich.com/books/dart-apprentice/v1.0) - Jonathan Sande and Matt Galloway (PDF)
 * [Essential Dart](https://www.programming-books.io/essential/dart/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Compiled from StackOverflow documentation (PDF)
 

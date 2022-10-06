@@ -26,7 +26,7 @@
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
-* [MPI/OpenMP](#mpi/openmp)
+* [MPI](#mpi)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -238,7 +238,7 @@
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (GitHub Gist)
 
 
-### MPI/OpenMP
+### MPI
 
 * [MPI Cheat Sheet](https://wtpc.github.io/clases/2018/mpicheatsheet.pdf) - SC Education (PDF)
 

@@ -705,6 +705,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
 * [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+* [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Kyle Simpson
 
 
 ### Quantum Computing

@@ -24,6 +24,7 @@
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
 * [Markdown](#markdown)
+* [MPI/OpenMP](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
 * [Perl](#perl)
@@ -222,6 +223,11 @@
 
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Markdown Guide (HTML)
 * [Markdown Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Adam Pritchard (HTML)
+
+
+### MPI/OpenMP
+
+* [MPI Cheat Sheet](https://wtpc.github.io/clases/2018/mpicheatsheet.pdf) - SC Education (PDF)
 
 
 ### MATLAB

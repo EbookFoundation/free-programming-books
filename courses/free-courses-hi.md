@@ -2,6 +2,7 @@
 
 * [Algorithms](#algorithms)
 * [Android](#android)
+* [Angular](#angular)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)
 * [Bash and Shell](#bash-and-shell)
@@ -70,6 +71,11 @@
 * [Android Development Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd) - CodeWithHarry
 * [App Development Course For School Students \| Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvu4ktQMUJJq-D_6-Eoz8lOk) - Coding Blocks Junior
 * [Complete Android Development Course in Hindi](https://www.youtube.com/playlist?list=PLUhfM8afLE_Ok-0Lx2v9hfrmbxi3GgsX1) - Neat Roots
+
+
+### Angular 
+
+* [Learn Angular in one video (Hindi)](https://www.youtube.com/watch?v=0LhBvp8qpro&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=21) - Code With Harry 
 
 
 ### Artificial Intelligence

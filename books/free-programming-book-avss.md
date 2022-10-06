@@ -2,6 +2,7 @@
 
 * [C](#c)
 * [C#](#csharp)
+* [C++](#cpp)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -21,6 +22,10 @@
 * [Принципи на програмирането със C#](https://introprogramming.info/intro-csharp-book) - Светлин Наков, Веселин Колев и колектив
 * [Програмиране за .NET Framework](https://www.devbg.org/dotnetbook) - Светлин Наков и колектив
 
+
+### <a id="cpp"></a>C++
+
+* [Основи на програмирането със C++](https://cpp-book.softuni.bg) - Светлин Наков и колектив
 
 
 ### Java

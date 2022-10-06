@@ -127,7 +127,7 @@
 ### Haskell
 
 * [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro (Udemy)
-* [Desenvolvimento Orientado a Tipos](https://www.youtube.com/playlist?list=PLYItvall0TqKaY6qObQMlZ45Bo94xq9Ym/) - UFABC (YouTube)
+* [Desenvolvimento Orientado a Tipos](https://www.youtube.com/playlist?list=PLYItvall0TqKaY6qObQMlZ45Bo94xq9Ym) - UFABC
 
 
 ### HTML and CSS

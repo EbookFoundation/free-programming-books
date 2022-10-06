@@ -99,6 +99,8 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [How-to](HOWTO-sv.md)
 - Tamil / தமிழ்
 - Telugu / తెలుగు
+  - [Code of Conduct](CODE_OF_CONDUCT-te.md)
+  - [Contributing](CONTRIBUTING-te.md)
   - [How-to](HOWTO-te.md)
 - Thai / ไทย
   - [Code of Conduct](CODE_OF_CONDUCT-th.md)

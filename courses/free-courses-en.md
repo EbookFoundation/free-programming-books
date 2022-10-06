@@ -229,6 +229,7 @@
 ### Blockchain
 
 * [Blockchain Developer Tutorials](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id) - Gregory McCubbin (Dapp University)
+* [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) - CognitiveClass.ai
 * [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases) - ConsenSys Academy (Coursera)
 * [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) - Bina Ramamurthy (Coursera)
 * [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://www.youtube.com/watch?v=8wMKq7HvbKw) - Julien Klepatch, EatTheBlocks (freeCodeCamp.org)
@@ -249,11 +250,13 @@
 
 ### <a id="csharp"></a>C\#
 
+* [Building a microservice architecture with ASP.NET Core - Gill Cleeren - NDC London 2022](https://www.youtube.com/watch?v=SR53SKIUYPA) - Gill Cleeren
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens (Microsoft)
 * [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry (YouTube)
 * [C# Programming Language (Console Applications)](https://youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends (YouTube)
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane (freeCodeCamp)
 * [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani (Programming with Mosh)
+* [Domain-Driven Refactoring - Jimmy Bogard - NDC London 2022](https://www.youtube.com/watch?v=f64tZ90Dntg) - Jimmy Bogard
 * [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
 
 
@@ -279,6 +282,8 @@
 
 * [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)
 * [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
+* [IBM Cloud Essentials V3](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - CognitiveClass.ai
+* [Introduction to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud) - CognitiveClass.ai
 * [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
 
 
@@ -300,6 +305,7 @@
 * [Berkeley's CS  61A: Taught using SICP](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
 * [Computer Networking - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Ferrill (FreeCodeCamp)
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) - David J. Malan (Harvard OpenCourseWare and edX)
+* [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar) - Daydream
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
 * [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
@@ -327,6 +333,7 @@
 
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
 * [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai
+* [CS250: Python for Data Science](https://learn.saylor.org/course/view.php?id=504) - Saylor Academy
 * [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) - Georgia Tech (Udacity)
 * [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) (Jovian)
 * [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Facebook (Udacity)
@@ -413,6 +420,7 @@
 ### Docker
 
 * [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
+* [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) - CognitiveClass.ai
 * [Docker Tutorial for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) - Thenewboston
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - FreeCodeCamp
 * [Docker Tutorial for Beginners \[FULL COURSE in 3 Hours\]](https://www.youtube.com/watch?v=3c-iBn73dDE) - TechWorld with Nana
@@ -830,6 +838,7 @@
 * [Introduction to Quantum Computing and Quantum Hardware](https://qiskit.org/learn/intro-qc-qh) - Qiskit
 * [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) - David Silver
 * [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
+* [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) - Dylan Beattie
 
 
 ### .NET

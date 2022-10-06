@@ -310,6 +310,7 @@
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane (freeCodeCamp)
 * [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani (Programming with Mosh)
 * [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
+* [Learn C#](https://www.sololearn.com/learning/1080) - Sololearn *(login required)*
 
 
 ### <a id="cpp"></a>C++
@@ -322,6 +323,7 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
+* [Learn C++](https://www.sololearn.com/learning/1051) - Sololearn *(login required)*
 
 
 #### D3.js
@@ -354,6 +356,7 @@
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
 * [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) - Udacity
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
+* [Learn Python for DataScience](https://www.sololearn.com/learning/1161) - Sololearn *(login required)*
 * [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
@@ -496,6 +499,7 @@
 * [Golang in under an hour](https://www.youtube.com/watch?v=N0fIANJkwic) - Eli Goldberg
 * [Golang Tutorial - Learn Go Programming Language](https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/) - GeeksforGeeks
 * [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com) - Jon Calhoun (email address *required*)
+* [Learn Go](https://www.sololearn.com/learning/1164) - Sololearn *(login required)*
 * [Learn Go \| Learn Go Programming](https://golangr.com) - golangr.com
 * [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) - FreeCodeCamp
 * [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
@@ -607,6 +611,7 @@
 * [JavaScript Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax) - Moshfegh Hamedani (Programming with Mosh)
 * [Javascript30](https://javascript30.com) - Wesbos
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
+* [Learn JavaScript](https://www.sololearn.com/learning/1024) - Sololearn *(login required)*
 * [Learn JavaScript](https://youtube.com/playlist?list=PLgBH1CvjOA636I8hnHSyuOnX341XQrBth) -  Florin Pop (YouTube)
 * [Learn JavaScript](https://www.sololearn.com/learning/1024) - Sololearn *(login required)*
 * [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) -  Beau Carnes, freeCodeCamp.org (YouTube)
@@ -628,6 +633,7 @@
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 * [Introduction to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245) (Udacity)
 * [jQuery Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc) - Brad Traversy, Traversy Media (YouTube)
+* [Learn jQuery](https://www.sololearn.com/learning/1082) - Sololearn *(login required)*
 
 
 ### Kotlin
@@ -636,6 +642,7 @@
 * [Android Kotlin Tutorial: Create Android Apps using Kotlin](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) - Sriyank Siddhartha (YouTube)
 * [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) - Aleks Haecky, Asser Samak, Sean McQuillan (Udacity)
+* [Learn Kotlin](https://www.sololearn.com/learning/1160) - Sololearn *(login required)*
 * [Track: Kotlin Basics](https://hyperskill.org/tracks/18) - Hyperskill, JetBrains (Hyperskill)
 
 
@@ -774,6 +781,7 @@
 ### PHP
 
 * [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape (2019)
+* [Learn PHP](https://www.sololearn.com/learning/1059) - Sololearn *(login required)*
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
 * [Learn Top Ten Frameworks In PHP By Building Projects](https://www.eduonix.com/courses/Web-Development/learn-top-ten-frameworks-in-php-by-building-projects) - Eduonix Learning Solutions *(account or email address required)*
 * [Object-Oriented PHP For Beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV) - Dary Nazar (Code with Dary)
@@ -817,6 +825,7 @@
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (Udacity)
 * [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/) - Avinash Jain, The Codex (Udemy)
 * [Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) (Coursera)
+* [Learn Python](https://www.sololearn.com/learning/1073) - Sololearn *(login required)*
 * [Learn Python](https://pythonspot.com)
 * [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org)
 * [Learn Python From Scratch](https://www.udemy.com/learn-python-from-scratch-w/) - MD. Hasanur Rahaman Hasib (Udemy)
@@ -860,6 +869,7 @@
 
 ### R
 
+* [Learn R](https://www.sololearn.com/learning/1147) - Sololearn *(login required)*
 * [R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/) - R-Tutorials Training (Udemy)
 * [R Programming](https://www.coursera.org/course/rprog)
 * [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) - Barton Poulson (freeCodeCamp)
@@ -963,6 +973,7 @@
 * [Data Structures and Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011) - Udacity
 * [How To Make An App For Beginners (iOS/Swift - 2019)](https://www.udemy.com/how-to-make-an-app-for-beginners-iosswift-2019/) - Chris Ching (Udemy)
 * [Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX) - CodeWithChris
+* [Learn Swift](https://www.sololearn.com/learning/1075) - Sololearn *(login required)*
 * [Swift 5 for Beginners](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW) - iOS Academy
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
 
@@ -972,6 +983,7 @@
 * [Introduction to Database Queries](https://www.edx.org/course/introduction-to-database-queries) - Aspen Olmsted (edX New York University)
 * [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - Rakesh Gopalakrishnan (Udemy)
 * [Learn SQL](https://popsql.com/learn-sql) - PopSQL
+* [Learn SQL](https://www.sololearn.com/learning/1060) - Sololearn *(login required)*
 * [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) - Moshfegh Hamedani (Programming with Mosh)
 * [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri (Udemy)
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)

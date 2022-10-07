@@ -49,6 +49,7 @@
     * [Redux](#redux)
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
+* [Julia](#julia)   
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -766,6 +767,11 @@
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 * [Vue.js Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) - The Net Ninja (YouTube)
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
+
+
+### Julia
+
+* [Beginner Julia Tutorial](https://www.youtube.com/playlist?list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE) - The Julia Programming Language (YouTube)
 
 
 ### Kotlin

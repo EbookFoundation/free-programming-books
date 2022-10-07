@@ -42,6 +42,6 @@
 
 ### PHP
 * [Klasser I PHP](http://halmark.dk/php/classes-in-php.html) - Halmark's Artikler
-* [PHP og MYSQL](http://samples.pubhub.dk/9788778531636.pdf) - Kristian Langborg-Hansen (PDF)
 * [Løkker/loops i PHP](https://www.phpartikler.dk/artikler/loekker.php) - PHP Artikler
 * [PHP if, then, else og switch](https://www.phpartikler.dk/artikler/begynder2.php) - PHP Artikler
+* [PHP og MYSQL](http://samples.pubhub.dk/9788778531636.pdf) - Kristian Langborg-Hansen (PDF)

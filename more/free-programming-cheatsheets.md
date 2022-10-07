@@ -6,6 +6,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
+* [Dart](#dart)
 * [Data Science](#data-science)
 * [Docker](#docker)
 * [Git](#git)
@@ -74,6 +75,14 @@
 ### Clojure
 
 * [Clojure Cheatsheet](http://clojure.org/cheatsheet) (HTML)
+
+
+### Dart
+
+* [Dart Cheatsheet](https://quickref.me/dart) - Quickref.me (HTML)
+* [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet) - Codelabs (HTML)
+* [Dart Cheatsheet](https://simplecheatsheet.com/tag/dart-cheat-sheet/#site-header) - Simplecheatsheet.com (HTML)
+* [Dart Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf) - Koenig-media.raywenderlich.com (PDF)
 
 
 ### Data Science

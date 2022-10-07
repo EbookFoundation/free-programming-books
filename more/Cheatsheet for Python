@@ -1,0 +1,66 @@
+Basics
+Basic syntax from the python programming language
+Showing Output To User
+the print function is used to display or print output
+print("Content that you wanna print on screen")
+Taking Input From User
+the input function is used to take input from the user
+var1 = input("Enter your name: ")
+Empty List
+This method allows you to create an empty list
+my_list = []
+Empty Dictionary
+By putting two curly braces, you can create a blank dictionary
+my_dict = {}
+Range Function
+range function returns a sequence of numbers, eg, numbers starting from 0 to n-1 for range(0, n)
+range(int_value)
+Comments
+Comments are used to make the code more understandable for programmers, and they are not
+executed by compiler or interpreter.
+Home - CodeWithHarry
+2/17
+Single line comment
+#This is a single line comment
+Multi-line comment
+'''This is a
+multi-line
+comment'''
+Escape Sequence
+An escape sequence is a sequence of characters; it doesn't represent itself when used inside
+string literal or character.
+Newline
+Newline Character
+\n
+Backslash
+It adds a backslash
+\\
+Single Quote
+It adds a single quotation mark
+\'
+Tab
+It gives a tab space
+\t
+Home - CodeWithHarry
+3/17
+Backspace
+It adds a backspace
+\b
+Octal value
+It represents the value of an octal number
+\ooo
+Hex value
+It represents the value of a hex number
+\xhh
+Carriage Return
+Carriage return or \r is a unique feature of Python. \r will just work as you have shifted your
+cursor to the beginning of the string or line.
+\r
+Strings
+Python string is a sequence of characters, and each character can be individually accessed. Using
+its index.
+String
+You can create Strings by enclosing text in both forms of quotes - single quotes or doublequotes.
+variable_name = "String Data"
+Slicing
+Home - C

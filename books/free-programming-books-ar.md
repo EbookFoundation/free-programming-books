@@ -88,12 +88,12 @@
 
 ### Open Source Software
 
-* [الأبعاد الاستراتيجية للبرمجيات الحرة مفتوحة المصدر](http://librebooks.org/strategic-dimensions-of-free-and-open-source-software/)
-* [الحريات الرقمية - المفاهيم الرئيسية](http://librebooks.org/digital-freedoms-main-concepts/)
-* [المصادر المفتوحة خيارات بلا حدود](http://librebooks.org/opensource-ultimate-options/)
-* [تعرف على البرمجيات الحرة](http://librebooks.org/know-free-software/)
-* [دليل البرمجيات الحرة مفتوحة](http://librebooks.org/free-opensource-guide/)
-* [نبذة عن رخص البرمجيات الحرة](http://librebooks.org/bref-about-foss-licenses/)
+* [الأبعاد الاستراتيجية للبرمجيات الحرة مفتوحة المصدر](https://librebooks.org/strategic-dimensions-of-free-and-open-source-software/) - فيجن للأنظمة المتقدمة (PDF)
+* [الحريات الرقمية - المفاهيم الرئيسية](https://librebooks.org/digital-freedoms-main-concepts/) - محمد الطاهر (PDF)
+* [المصادر المفتوحة خيارات بلا حدود](https://librebooks.org/opensource-ultimate-options/) - محمد أنس طويلة (PDF)
+* [تعرف على البرمجيات الحرة](https://librebooks.org/know-free-software/) - فهد السعيدي (PDF)
+* [دليل البرمجيات الحرة مفتوحة](https://www.freeopensourceguide.com) - أحمد م. أبوزيد (PDF)
+* [نبذة عن رخص البرمجيات الحرة](https://librebooks.org/bref-about-foss-licenses/) - جلال شفرور (PDF)
 
 
 ### Operating Systems

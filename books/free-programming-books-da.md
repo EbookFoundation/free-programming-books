@@ -31,6 +31,7 @@
 
 
 ### JavaScript
+
 * [Introduktion til objektorienteret JavaScript](https://ecommerce-platforms.com/da/articles/introduction-to-object-oriented-javascript) - Bogdan Rancea
 * [JavaScript Promises - Ryd op i de asynkrone kald](http://qed.dk/poul-foged/2014/02/21/javascript-promises-ryd-op-de-asynkrone-kald/) - Poul Foged
 
@@ -41,6 +42,7 @@
 
 
 ### PHP
+
 * [Klasser I PHP](http://halmark.dk/php/classes-in-php.html) - Halmark's Artikler
 * [Løkker/loops i PHP](https://www.phpartikler.dk/artikler/loekker.php) - PHP Artikler
 * [PHP if, then, else og switch](https://www.phpartikler.dk/artikler/begynder2.php) - PHP Artikler

@@ -1145,6 +1145,7 @@
 * [Frontend UI Development with React](https://www.youtube.com/playlist?list=PL0vfts4VzfNgUUEtEjxDVfh4iocVR3qIb) - Jeff Delaney, Fireship.io (YouTube)
 * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - by AWS on Udacity
 * [Full stack open](https://fullstackopen.com/en/) - University of Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
+* [How to Meet Web Content Accessibility Guidelines (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/) - W3C Web Accessibility Initiative
 * [Introduction to Professional Web Development in JavaScript](https://education.launchcode.org/intro-to-professional-web-dev/) - Chris Bay, Jim Flores, Blake Mills, Sally Steuterman, Paul Matthews, Carly Langlois (The LaunchCode Foundation)
 * [Java Web Development](https://education.launchcode.org/java-web-development/) - Chris Bay, Jim Flores, Carly Langlois, Sally Steuterman (The LaunchCode Foundation)
 * [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) - Mozilla Contributors
@@ -1152,7 +1153,6 @@
 * [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Web Basics](https://open.cs.uwaterloo.ca/web-basics/) - Centre for Education in Math and Computing (University of Waterloo)
-* [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/) - Quick reference to Web Content Accessibility Guidelines (WCAG) 2 requirements (W3C WAI)
 * [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
 * [Web Development Tutorials for Beginners](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) - LearnCode.academy
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)

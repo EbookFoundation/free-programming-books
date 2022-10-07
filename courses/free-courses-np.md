@@ -64,7 +64,6 @@
 * [JavaScript Complete Tutorial In Nepali 2021 [Crash-Course in one video]](https://youtu.be/AaQNfQqy00U) - Crystal Clear Concept
 
 
-
 #### Node.js
 
 * [NodeJS Tutorial for Beginners](https://www.youtube.com/watch?v=17n2xlHbo9E&list=PLdHeoPHWZgiy86jOBxcJJUbti_cyaaUlT) - Prawesh Panthi
@@ -91,7 +90,6 @@
 ### Natural Language Processing
 
 * [Natural Language Processing with Deep NLP from Zero to Hero](https://www.youtube.com/playlist?list=PLtCBuHKmdxOefxJhd6u8KY9vTN8G5D5yG) - Fahad Hussain 
-
 
 
 ### PHP

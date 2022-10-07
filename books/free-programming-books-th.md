@@ -37,7 +37,7 @@
 
 ### JavaScript
 
-* [Javascript The Complete Referrence](https://www.dropbox.com/s/tb0ydw695pw2ppx/javscript%20the%20complete%20referrence.pdf) - กฤษณวัฒน์ แก้วแสนเมือง
+* [Javascript The Complete Referrence](https://www.dropbox.com/s/tb0ydw695pw2ppx/javscript%20the%20complete%20referrence.pdf)- กฤษณวัฒน์ แก้วแสนเมือง (PDF)
 
 
 ### Python

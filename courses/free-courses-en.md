@@ -336,35 +336,36 @@
 
 ### Data Science
 
+* [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
+* [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai
+* [CS250: Python for Data Science](https://learn.saylor.org/course/view.php?id=504) - Saylor Academy
+* [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) - Georgia Tech (Udacity)
+* [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) (Jovian)
+* [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Facebook (Udacity)
+* [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) - Rachael Tatman (Kaggle)
+* [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
+* [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft
+* [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science) - CognitiveClass.ai
+* [Data Science interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-) - Krish Naik
+* [Data Visualization](https://www.kaggle.com/learn/data-visualization) - Alexis Cook (Kaggle)
+* [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
-* [Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science) - Coursera
+* [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) - Udacity
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
+* [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
+* [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
+* [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
+* [Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science) - Coursera
 * [Understanding Data Science](https://app.datacamp.com/learn/courses/data-science-for-everyone?tap_a=5644-dce66f&tap_s=1105403-195eb4&utm_medium=affiliate&utm_source=javinpaul1) - DataCamp
 * [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) - DataCamp
-* [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) - Georgia Tech (Udacity)
-* [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Facebook (Udacity)
-* [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) - Udacity
 * [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) - Udacity
-* [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) - Rachael Tatman (Kaggle)
-* [Data Visualization](https://www.kaggle.com/learn/data-visualization) - Alexis Cook (Kaggle)
-* [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai
-* [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science) - CognitiveClass.ai
 * [An Introduction to Data Science](https://www.udemy.com/course/an-introduction-to-data-science/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-nw0jokvFZP8LzEEyhmdJVg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads) - Udemy
-* [CS250: Python for Data Science](https://learn.saylor.org/course/view.php?id=504) - Saylor Academy
 * [Introduction to Data Science](https://alison.com/course/introduction-to-data-science-revised) - Alison
-* [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft
-* [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) (Jovian)
-* [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher
-* [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
 * [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) - SkillUp by Simplilearn
 * [Career path for Data Scientist](https://www.mygreatlearning.com/academy/career-paths/data-scientist) - Great Learning
 * [Statistics and R](https://pll.harvard.edu/course/statistics-and-r?delta=0) - Harward University
-* [Data Science interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-) - Youtube(Krish Naik)
 * [Learn Data Science Tutorial](https://youtu.be/ua-CiDNNj30) - Youtube(FreeCodeCamp)
-* [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
-* [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
-* [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
-* [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
+
 
 
 ### Databases

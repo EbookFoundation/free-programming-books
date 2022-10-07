@@ -136,6 +136,7 @@
 -   [Aprende JavaScript](https://aprendejavascript.org) - Jonathan MirCha
 -   [Clojure](https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 -   [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
+-   [Curso de JavaScript Gratis](https://codigofacilito.com/cursos/javascript) - Código Facilito
 -   [Curso de Python gratis y con certificación](https://edutin.com/curso-de-python-4276) - Edutin
 -   [Curso Gratis de Programación Básica](https://platzi.com/clases/programacion-basica/) - Platzi
 -   [Curso Gratis de Ruby](https://codigofacilito.com/cursos/ruby-2) - Código Facilito
@@ -168,7 +169,6 @@
 -   [Programador orientado a objetos](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4244) - Carlos Slim Foundation (cuenta requerida)
 -   [Python Módulo 1](https://www.pildorasinformaticas.es/course/curso-python) - Juan Díaz (Píldoras Informáticas)
 -   [Python Módulo 2](https://www.pildorasinformaticas.es/course/curso-python/curso-python-modulo-2) - Juan Díaz (Píldoras Informáticas)
--   [Curso de javaScript Gratis](https://codigofacilito.com/cursos/javascript) - Código Facilito
 
 ### Programación Web & Móvil
 

@@ -357,7 +357,6 @@
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 * [Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science) - Coursera
 * [Understanding Data Science](https://app.datacamp.com/learn/courses/data-science-for-everyone?tap_a=5644-dce66f&tap_s=1105403-195eb4&utm_medium=affiliate&utm_source=javinpaul1) - DataCamp
-* [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) - DataCamp
 * [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) - Udacity
 * [An Introduction to Data Science](https://www.udemy.com/course/an-introduction-to-data-science/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-nw0jokvFZP8LzEEyhmdJVg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads) - Udemy
 * [Introduction to Data Science](https://alison.com/course/introduction-to-data-science-revised) - Alison

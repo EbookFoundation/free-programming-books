@@ -7,7 +7,6 @@
 * [PHP](#php)
 
 
-
 ### Web Development
 
 * [Hyper Text Markup Language](https://html.com)

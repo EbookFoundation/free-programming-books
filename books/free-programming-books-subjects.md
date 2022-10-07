@@ -1,6 +1,6 @@
 ## BY SUBJECT
 
-This list, organized by subject, is for books that cover a programming-related subject in a programming-language agnostic way.    
+This list, organized by subject, is for books that cover a programming-related subject in a programming-language agnostic way.
 Books that cover a specific programming language can be found in the  [BY PROGRAMMING LANGUAGE](free-programming-books-langs.md) list.
 
 
@@ -153,6 +153,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Mastering Ethereum (2018), 1st Edition](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc)
 * [Mastering the Lightning Network](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
 * [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
+* [Certified-Blockchain-Business-Foundations](https://github.com/Samadmemon991/Certified-Blockchain-Business-Foundations/blob/master/CBBFExamPrepGuidev1.1.pdf) - Kris Bennett and Chad Decker (PDF)
 
 
 ### Cellular Automata

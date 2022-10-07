@@ -314,7 +314,7 @@
 
 #### Mongo-Db
 
-* [Mongo DB course for beginners](https://www.youtube.com/watch?v=lBBtq3Oawqw) -Simplilearn
+* [Mongo DB full course for beginners](https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa) -Thapa Technical
 
 
 ### Natural Language Processing

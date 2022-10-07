@@ -79,10 +79,10 @@
 
 ### Dart
 
-* [Dart Cheatsheet](https://quickref.me/dart) - (HTML)
-* [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet) - (HTML)
-* [Dart Cheatsheet](https://simplecheatsheet.com/tag/dart-cheat-sheet/#site-header) - (HTML)
-* [Dart Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf) - (PDF)
+* [Dart Cheatsheet](https://quickref.me/dart) - Quickref.me (HTML)
+* [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet) - Codelabs (HTML)
+* [Dart Cheatsheet](https://simplecheatsheet.com/tag/dart-cheat-sheet/#site-header) - Simplecheatsheet.com (HTML)
+* [Dart Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf) - Koenig-media.raywenderlich.com (PDF)
 
 
 ### Data Science

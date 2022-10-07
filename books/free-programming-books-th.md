@@ -37,8 +37,7 @@
 
 ### JavaScript
 
-* [เสียดายไม่ได้อ่าน จาวาสคริปต์ฝั่งเซิร์ฟเวอร์](https://www.patanasongsivilai.com/blog/download-ebook-free-javascript/) - จตุรพัชร์ พัฒนทรงศิวิไล
-* [Javascript The Complete Referrence](https://www.dropbox.com/s/tb0ydw695pw2ppx/javscript%20the%20complete%20referrence.pdf?dl=0) - กฤษณวัฒน์ แก้วแสนเมือง
+* [Javascript The Complete Referrence](https://www.dropbox.com/s/tb0ydw695pw2ppx/javscript%20the%20complete%20referrence.pdf) - กฤษณวัฒน์ แก้วแสนเมือง
 
 
 ### Python

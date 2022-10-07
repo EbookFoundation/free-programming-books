@@ -354,7 +354,7 @@
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
 * [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
-* [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
+* [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3) - edX
 * [Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science) - Coursera
 * [Understanding Data Science](https://app.datacamp.com/learn/courses/data-science-for-everyone?tap_a=5644-dce66f&tap_s=1105403-195eb4&utm_medium=affiliate&utm_source=javinpaul1) - DataCamp
 * [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) - Udacity

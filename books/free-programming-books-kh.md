@@ -10,8 +10,8 @@
 ### Web Development
 
 * [Hyper Text Markup Language](https://html.com)
-* [Cascading Style Sheets](https://css.com)
-* [Java Script](https://js.com)
+* [Cascading Style Sheets](https://cascadingstylesheets.com)
+* [Java Script](https://javascript.com)
 
 
 ### HTML and CSS

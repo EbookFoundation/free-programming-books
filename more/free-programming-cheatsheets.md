@@ -128,6 +128,7 @@
 
 ### HTML and CSS
 
+* [Accessibility CheatSheet](https://learn-the-web.algonquindesign.ca/topics/accessibility-cheat-sheet/) - Learn the Web, Algonquin Design (HTML)
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)

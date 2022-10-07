@@ -1426,6 +1426,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [UNIX Systems Programming for SVR4](http://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
+* [Learning Linux with Termux on Android](https://medium.com/@virtualwiz/hacking-with-android-termux-581bccae9ae2) - Guide to using termux
 
 
 ### Lisp
@@ -1554,6 +1555,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Essential MySQL](https://www.programming-books.io/essential/mysql/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
 * [MySQL Notes for Professionals](https://goalkicker.com/MySQLBook/) - Compiled from StackOverflow Documentation (PDF)
+* [MySQL Tutorials and guide](https://www.w3schools.com/MySQL/default.asp) - MYSQL guides and tutorials
 
 
 ### Neo4J

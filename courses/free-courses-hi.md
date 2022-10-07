@@ -3,6 +3,7 @@
 * [Algorithms](#algorithms)
 * [Android](#android)
 * [Angular](#angular)
+* [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)
 * [Bash and Shell](#bash-and-shell)
@@ -77,6 +78,12 @@
 ### Angular 
 
 * [Learn Angular in one video (Hindi)](https://www.youtube.com/watch?v=0LhBvp8qpro&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=21) - Code With Harry 
+
+
+### Arduino
+
+* [Arduino Programming Series (हिंदी में)](youtube.com/playlist?list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM) - Engineers & Electronics
+* [Complete Arduino Tutorial Learn Arduino Programming in Hindi](https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s) - Mostly Programing
 
 
 ### Artificial Intelligence

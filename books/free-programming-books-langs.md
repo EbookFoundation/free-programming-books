@@ -533,6 +533,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) - Allen B. Downey (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
 * [Working Draft, Standard for Programming Language C++, 2021 Revision](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) - Thomas Köppe (PDF) *(:construction: in process)*
+* [Object-Oriented Programming in C++ (4th Edition)](https://faculty.ksu.edu.sa/sites/default/files/ObjectOrientedProgramminginC4thEdition.pdf) - Robert Lafore (PDF)
 
 
 ### Chapel

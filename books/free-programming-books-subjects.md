@@ -144,6 +144,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 * [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
 * [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
+* [Certified Blockchain Business Foundations](https://github.com/Samadmemon991/Certified-Blockchain-Business-Foundations/blob/master/CBBFExamPrepGuidev1.1.pdf) - Kris Bennett and Chad Decker (PDF)
 * [chain.courses](https://chain.courses) - James Gan, Rishub Kumar
 * [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
 * [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML)
@@ -153,7 +154,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Mastering Ethereum (2018), 1st Edition](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc)
 * [Mastering the Lightning Network](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
 * [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
-* [Certified-Blockchain-Business-Foundations](https://github.com/Samadmemon991/Certified-Blockchain-Business-Foundations/blob/master/CBBFExamPrepGuidev1.1.pdf) - Kris Bennett and Chad Decker (PDF)
 
 
 ### Cellular Automata

@@ -264,6 +264,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Google Android Developer Training](https://developer.android.com/guide)
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
+* [Android Open source Projects](https://source.android.com) - Open source projects on android to learn from
 
 
 ### APL
@@ -2086,6 +2087,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Raspberry Pi Users Guide (2012)](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
 * [The Official Raspberry Pi Handbook 2023](https://magpi.raspberrypi.com/books/handbook-2023) - The MagPi magazine (PDF)
 * [The Official Raspberry Pi Project Book 1 (2015)](https://magpi.raspberrypi.com/books/projects-1) (PDF)
+* [Guide to making suspicious activity tracking AI camera](https://www.electronicsforu.com/electronics-projects/raspberry-pi-diys/suspicious-activity-tracking-ai-camera) - Extensive HTML Doc
 
 
 ### REBOL

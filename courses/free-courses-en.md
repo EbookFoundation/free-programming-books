@@ -221,6 +221,7 @@
 ### Bash / Shell
 
 * [Bash Basics for Cloud Computing](https://www.udemy.com/course/bash-basics-for-cloud-computing/) - Kumulus Technologies (Udemy)
+* [Bash Scripting Full Course 3 Hours](https://www.youtube.com/watch?v=e7BufAVwDiM) - Linuxhint
 * [Bento Shell Track](https://bento.io/topic/shell) - Jon Chan (Bento)
 * [How to CMake Good](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s) - vector-of-bool (YouTube)
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790) - The Bad Tutorials (YouTube)

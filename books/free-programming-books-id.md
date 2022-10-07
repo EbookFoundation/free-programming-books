@@ -189,6 +189,9 @@
 
 ### TypeScript
 
+* [TypeScript untuk Pemula, Bagian 1: Memulai](https://code.tutsplus.com/id/tutorials/typescript-for-beginners-getting-started--cms-29329) - Tutsplus (HTML)
+
+
 #### Angular
 
 * [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)

@@ -61,6 +61,7 @@
 ### Flutter
 
 * [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
+* [Flutter Developer: Basic State Management](https://buildwithangga.com/kelas/flutter-developer-basic-state-management?thumbnail=mq45o06znF.124&main_leads=catalog) - Buildwithangga *(Membutuhkan akun email yang valid untuk login agar bisa daftar course)*
 
 
 ### Git

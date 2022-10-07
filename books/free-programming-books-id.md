@@ -14,6 +14,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
+    * [Next.js](#nextjs)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Pemrograman Fungsional](#pemrograman-fungsional)
@@ -110,6 +111,10 @@
 * [Tutorial JavaScript Modern](https://id.javascript.info) - Ilya Kantor
 * [Tutorial JavaScript Pemrograman Berorientasi Objek](https://www.youtube.com/watch?v=SDROba_M42g) - Programmer Zaman Now
 
+
+#### Next.js
+
+* [Tutorial Next Js](https://santrikoding.com/kategori/next-js) - SantriKoding.com
 
 #### Vue.js
 

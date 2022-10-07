@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@graph":[
+  {"@type": "WebSite",
+    "name": "Text Fancy",
+    "url": "https://textfancy.com/",
+    "description":"Free online Fancy Text generator"},
+  {"@type":"ImageObject",
+    "@id":"https://textfancy.com/#primaryimage",
+    "url":"https://textfancy.com/img/og.jpg",
+    "width":700,
+    "height":346,
+    "caption":"Fancy Text generator online"}
+]}
+</script>

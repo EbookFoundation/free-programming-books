@@ -37,7 +37,7 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 [![GitHub repo size](https://img.shields.io/github/repo-size/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/EbookFoundation/free-programming-books/archive/refs/heads/main.zip)
 
 </div>
-
+“A reader lives a thousand lives before he dies . . . The man who never reads lives only one.”
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 

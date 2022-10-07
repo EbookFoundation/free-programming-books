@@ -312,7 +312,8 @@
 * [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
 
 ### Mongo-Db
-*[Mongo DB beginners course](https://www.youtube.com/watch?v=lBBtq3Oawqw) -Simplilearn
+
+* [Mongo DB beginners course](https://www.youtube.com/watch?v=lBBtq3Oawqw) -Simplilearn
 
 ### Natural Language Processing
 

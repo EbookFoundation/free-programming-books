@@ -14,7 +14,6 @@
 * [Dart](#dart)
 * [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
-    * [Engenharia de software Moderna](#engenharia-de-software-moderna)
     * [Arquitetura de Software](#arquitetura-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
     * [Outros](#outros)

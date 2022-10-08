@@ -90,7 +90,7 @@
 ### Data Science
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
-* [Cheatsheets for Data Sciece](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf) - MIT (PDF)
+* [Cheatsheets for Data Sciece](https://github.com/aaronwangy/Data-Science-Cheatsheet) - MIT (PDF)
 
 
 ### Docker

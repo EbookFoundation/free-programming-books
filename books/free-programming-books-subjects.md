@@ -520,6 +520,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
 * [Vector Calculus](http://www.mecmath.net) - Michael Corral
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
+* [Fifty challenging problems in probability with solutions](https://mbapreponline.files.wordpress.com/2013/07/fifty_challenging_problems_in__2.pdf) - Frederick Mosteller (PDF)
 
 
 ### Mathematics For Computer Science

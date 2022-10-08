@@ -4,7 +4,7 @@
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
 * [C++](#cpp)
-* [Deep Learning](#dl)
+* [Deep Learning](#deep-learning)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)

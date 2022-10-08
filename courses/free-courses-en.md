@@ -692,7 +692,6 @@
 
 * [Kubernetes Core Concepts](https://kube.academy/paths/kubernetes-core-concepts) - KubeAcademy (VMware)
 * [Kubernetes Tutorial for Beginners](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) - TechWorld with Nana
-* [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
 
 
 ### Linux

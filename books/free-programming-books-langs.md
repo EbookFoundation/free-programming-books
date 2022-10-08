@@ -1036,6 +1036,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [What’s New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
 * [Writing Advanced Applications for the Java 2 Platform](http://www.pawlan.com/monica/books/AdvBk.pdf) - Calvin Austin, Monica Pawlan (PDF)
 
+
 #### Codename One
 
 * [Codename One Developer Guide](https://www.codenameone.com/files/developer-guide.pdf) (PDF)

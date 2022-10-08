@@ -130,7 +130,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Make](#make)
 * [Markdown](#markdown)
 * [Mathematica](#mathematica)
-* [Mathematics for Programming] ()
+* [Mathematics for Programming](#mathematics-for-programming)
 * [MATLAB](#matlab)
 * [Maven](#maven)
 * [Mercury](#mercury)

@@ -156,8 +156,8 @@
 
 ### IDE and editors
 
-* [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas (HTML)
 * [Eclipse Cheat sheet](https://cheatography.com/tag/eclipse/) - Cheatography
+* [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas (HTML)
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
 * [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas (HTML)

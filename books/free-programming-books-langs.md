@@ -256,6 +256,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Android Notes for Professionals](https://goalkicker.com/AndroidBook) - Compiled from StackOverflow Documentation (PDF)
 * [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) (email address *requested*, not required)
+* [Android Open source Projects](https://source.android.com) - Open source projects on android to learn from
 * [Android Tutorial](http://www.tutorialspoint.com/android/) - Tutorials Point (HTML, PDF)
 * [Codelabs for Advanced Android Development](https://developer.android.com/courses/advanced-training/toc)
 * [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
@@ -264,7 +265,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Google Android Developer Training](https://developer.android.com/guide)
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
-* [Android Open source Projects](https://source.android.com) - Open source projects on android to learn from
 
 
 ### APL
@@ -1401,6 +1401,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition](https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition) - Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali (Packt account *required*)
 * [Kali Linux: Professional Penetration-Testing Distribution](http://docs.kali.org)
 * [Learning Debian GNU/Linux](http://www.oreilly.com/openbook/debian/book/index.html)
+* [Learning Linux with Termux on Android](https://medium.com/@virtualwiz/hacking-with-android-termux-581bccae9ae2) - Guide to using termux
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
 * [Linux Appliance Design: A Hands-On Guide to Building Linux Appliances](http://librta.org/book.html) - Bob Smith, John Hardin, Graham Phillips, Bill Pierce (PDF, EPUB, MOBI)
@@ -1426,7 +1427,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [UNIX Systems Programming for SVR4](http://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
-* [Learning Linux with Termux on Android](https://medium.com/@virtualwiz/hacking-with-android-termux-581bccae9ae2) - Guide to using termux
 
 
 ### Lisp
@@ -2084,12 +2084,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Raspberry Pi
 
+* [Guide to making suspicious activity tracking AI camera](https://www.electronicsforu.com/electronics-projects/raspberry-pi-diys/suspicious-activity-tracking-ai-camera) - Extensive HTML Doc
 * [Raspberry Pi Beginner's Guide 4th Edition](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - The MagPi magazine (PDF)
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read) - Malcolm Maclean (HTML)
 * [Raspberry Pi Users Guide (2012)](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
 * [The Official Raspberry Pi Handbook 2023](https://magpi.raspberrypi.com/books/handbook-2023) - The MagPi magazine (PDF)
 * [The Official Raspberry Pi Project Book 1 (2015)](https://magpi.raspberrypi.com/books/projects-1) (PDF)
-* [Guide to making suspicious activity tracking AI camera](https://www.electronicsforu.com/electronics-projects/raspberry-pi-diys/suspicious-activity-tracking-ai-camera) - Extensive HTML Doc
 
 
 ### REBOL

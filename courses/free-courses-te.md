@@ -30,6 +30,7 @@
 * [SQL](#sql)
 * [VueJs](#vuejs)
 
+
 ## NPTEL
 
 * [Various Courses in Telugu](https://sites.google.com/nptel.iitm.ac.in/translated-ebook/telugu)

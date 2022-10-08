@@ -161,6 +161,7 @@
 
 ### Python
 
+* [금융 데이터 분석을 위한 파이썬 판다스](https://wikidocs.net/book/3488) - 조대표
 * [내가 파이썬을 배우는 방법](https://wikidocs.net/7839)
 * [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
 * [실용 파이썬 프로그래밍: 프로그래밍 유경험자를 위한 강좌](https://wikidocs.net/book/4673) - 최용
@@ -173,7 +174,6 @@
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
 * [A Byte of Python 한글 번역](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
-* [금융 데이터 분석을 위한 파이썬 판다스](https://wikidocs.net/book/3488) - 조대표
 
 #### Django
 

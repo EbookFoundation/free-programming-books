@@ -13,6 +13,7 @@
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [React.js](#reactjs)
     * [Vue.js](#vuejs)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
@@ -87,6 +88,7 @@
 #### Bootstrap
 
 * [Bootstrap](https://www.malasngoding.com/category/bootstrap/) - Diki Alfarabi Hadi
+* [Bootstrap 5 : Pengertian, Fitur, Keunggulan dan Cara Menggunakannya](https://www.niagahoster.co.id/blog/tutorial-bootstrap-5/) - Niagahoster (HTML)
 * [Daftar Tutorial Bootstrap 4 Bahasa Indonesia](https://www.bewoksatukosong.com/2019/02/tutorial-bootstrap-4-bahasa-indonesia.html) - Gerald Cahya Prambudi
 
 
@@ -117,6 +119,11 @@
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
 
 
+#### React.js
+
+* [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri
+
+
 ### Machine Learning
 
 * [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Indonesia Belajar
@@ -133,6 +140,7 @@
 * [Belajar Dengan Jenius Amazon Web Service & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/releases/download/1.2/Belajar.Dengan.Jenius.Javascript.Node.pdf) - Gun Gun Febrianza (PDF)
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
 * [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua *(Membutuhkan akun Google Play Books atau email yang valid)*
+* [Tutorial Node js untuk pemula Full Tutorial](https://mfikri.com/artikel/tutorial-nodejs) - Mfikri (HTML)
 
 
 ### NoSQL
@@ -180,6 +188,7 @@
 
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
+* [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri (HTML)
 
 
 ### Solidity

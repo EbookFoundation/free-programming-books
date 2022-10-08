@@ -460,6 +460,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Elements of Abstract and Linear Algebra](https://www.math.miami.edu/~ec/book/) - E. H. Connell
 * [Elements of Differential and Integral Calculus (1911)](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (PDF)
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) - Sean Luke
+* [Fifty challenging problems in probability with solutions](https://mbapreponline.files.wordpress.com/2013/07/fifty_challenging_problems_in__2.pdf) - Frederick Mosteller (PDF)
 * [First Course in Algebra (1910)](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
 * [Foundations of Combinatorics with Applications](https://www.math.ucsd.edu/~ebender/CombText/) - Edward A. Bender, S. Gill Williamson
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan (PDF)
@@ -520,7 +521,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
 * [Vector Calculus](http://www.mecmath.net) - Michael Corral
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
-* [Fifty challenging problems in probability with solutions](https://mbapreponline.files.wordpress.com/2013/07/fifty_challenging_problems_in__2.pdf) - Frederick Mosteller (PDF)
+
 
 
 ### Mathematics For Computer Science

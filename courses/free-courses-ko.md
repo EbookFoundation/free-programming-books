@@ -1,6 +1,5 @@
 ### Index
 
-* [Index](#index)
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
 * [Arduino](#arduino)
@@ -184,8 +183,8 @@
 * [머신러닝/딥러닝 입문 youtube playlist](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS) - 윤인성
 * [파이토치(PyTorch) 튜토리얼 한국어 번역](https://tutorials.pytorch.kr) (HTML) (:construction: *in process* - *번역 진행 중*)
 * [Python tensorflow & 머신러닝 기초 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO) (동빈나)
-* [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/) - Sung Kim
 * [파이토치로 시작하는 딥러닝 기초](https://www.boostcourse.org/ai214) - boostcourse
+* [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/) - Sung Kim
 
 
 ### Mathematics

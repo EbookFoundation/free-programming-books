@@ -38,6 +38,7 @@
 ### Arduino
 
 * [Arduino, creando aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
+* [Arduino desde cero en Español](https://www.youtube.com/watch?v=eBVvD85Ml2c&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2&ab_channel=BitwiseAr) - Bitwise Ar (YouTube)
 
 
 ### Bases de Datos

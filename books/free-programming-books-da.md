@@ -15,12 +15,12 @@
 * [Programmering i C](http://people.cs.aau.dk/~normark/c-prog-06/pdf/all.pdf) - Kurt Nørmark (PDF)
 
 
-### C\#
+### <a id="csharp"></a>C\#
 
 * [Object-oriented Programming in C#](http://people.cs.aau.dk/~normark/oop-csharp/pdf/all.pdf) - Kurt Nørmark (PDF)
 
 
-### C++
+### <a id="cpp"></a>C++
 
 * [Notes about C++](http://people.cs.aau.dk/~normark/ap/index.html) - Kurt Nørmark (HTML)
 

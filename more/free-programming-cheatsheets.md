@@ -39,7 +39,9 @@
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
-
+* [Data Engineering](#DataEngineering) 
+    * [Python](#python)
+    * [SQL](#sql)
 
 ### APL
 

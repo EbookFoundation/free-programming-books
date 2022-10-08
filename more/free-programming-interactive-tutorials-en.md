@@ -245,7 +245,7 @@
 
 #### Svelte
 
-* [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte
+* [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 
 #### Redux
 

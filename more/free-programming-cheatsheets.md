@@ -8,6 +8,7 @@
 * [Clojure](#clojure)
 * [Dart](#dart)
 * [Data Science](#data-science)
+* [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
@@ -90,6 +91,15 @@
 ### Data Science
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
+
+
+### <a id="data-structures-and-algorithms"></a>Data Structures and Algorithms
+
+* [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
+* [An Executable Data Structures Cheat Sheet for Interviews](https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet)
+* [Big O Notation Cheat Sheet](https://algodaily.com/lessons/big-o-notation-cheat-sheet)
+* [Data Structures and Algorithms Cheat Sheet - Cheatography](https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/)
+* [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
 
 ### Docker

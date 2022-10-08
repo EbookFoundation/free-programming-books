@@ -37,6 +37,7 @@
 * [Rust](#rust)
 * [Shell Scripting](#shell-scripting)
 * [Solidity](#solidity)
+* [SpringBoot](#springboot)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
 
@@ -156,6 +157,7 @@
 ### IDE and editors
 
 * [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas (HTML)
+* [Eclipse Cheat sheet](https://cheatography.com/tag/eclipse/) - Cheatography
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
 * [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas (HTML)
@@ -330,12 +332,16 @@
 * [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh (HTML)
 
 
+### SpringBoot
+
+* [Spring Boot Cheatsheet](https://www.jrebel.com/blog/spring-annotations-cheat-sheet) - JRebel
+
+
 ### SQL
 
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
 * [SQL Cheat Sheet](https://www.dataquest.io/wp-content/uploads/2021/01/dataquest-sql-cheat-sheet.pdf) - Dataquest.io (PDF)
-
 
 ### TensorFlow
 

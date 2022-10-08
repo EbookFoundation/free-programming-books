@@ -1270,6 +1270,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 * [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman  *(Leanpub account or valid email requested)*
 
+#### Remix
+
+* [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
+
 
 #### Svelte
 

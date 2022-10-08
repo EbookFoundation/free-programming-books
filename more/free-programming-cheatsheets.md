@@ -37,6 +37,7 @@
 * [Rust](#rust)
 * [Shell Scripting](#shell-scripting)
 * [Solidity](#solidity)
+* [SpringBoot](#springboot)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
 
@@ -156,6 +157,7 @@
 ### IDE and editors
 
 * [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas (HTML)
+* [Eclipse Cheat sheet](https://cheatography.com/tag/eclipse/) - Cheatography
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
 * [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas (HTML)
@@ -328,6 +330,11 @@
 
 * [Solidity Cheat Sheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.pdf) - IntelliPaat (PDF)
 * [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh (HTML)
+
+
+### SpringBoot
+
+* [Spring Boot Cheatsheet](https://www.jrebel.com/blog/spring-annotations-cheat-sheet) - JRebel
 
 
 ### SQL

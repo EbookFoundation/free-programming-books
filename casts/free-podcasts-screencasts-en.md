@@ -255,7 +255,7 @@
 * [baseCS](https://www.codenewbie.org/basecs) - Vaidehi Joshi, Saron Yitbarek (podcast based on [a series of posts on medium](https://medium.com/basecs))
 * [Between \| Screens Podcast](https://soundcloud.com/between-screens) - Ed Wassermann (podcast)
 * [BSDTalk](https://bsdtalk.blogspot.com) - Will Backman (podcast)
-* [Clean Code Lessons by Robert C. Martin](https://www.youtube.com/watch?v=7EmboKQH8lM) - Robert C. Martin
+* [Clean Code Lessons by Robert C. Martin](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLdpsE-GEhYVn_81kDPo1mwE73UgYCeMLu) - Robert C. Martin
 * [CodeNewbie](https://www.codenewbie.org/podcast) - CodeNewbie Team (podcast)
 * [CodePen Radio](https://blog.codepen.io/radio/) - CodePen Team (podcast)
 * [Coding Blocks](https://www.codingblocks.net) - Michael Outlaw, Joe Zack, Allen Underwood (podcast)

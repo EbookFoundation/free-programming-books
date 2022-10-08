@@ -91,7 +91,7 @@
 
 ### BASH
 
-* [Guida avanzata per la bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) (PDF)
+* [Guida avanzata di scripting Bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) - Mendel Cooper (PDF)
 * [La guida di Bash per principianti](http://codex.altervista.org/guidabash/guidabash_1_11.pdf) - Machtelt Garrels (PDF)
 * [Programmazione della shell Bash](https://www.aquilante.net/doc/bash_programming.pdf) - Marco Liverani (PDF)
 

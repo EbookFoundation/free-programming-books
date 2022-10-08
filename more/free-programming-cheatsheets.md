@@ -56,7 +56,7 @@
 
 ### C
 
-* [C Language Basics](https://www.codewithharry.com/blogpost/c-cheatsheet/) (HTML)
+* [C Language Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/) - CodeWithHarry(HTML)
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
 * [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) (HTML)
 * [The C Cheat Sheet: An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) - Andrew Sterian (PDF)
@@ -266,7 +266,7 @@
 
 ### PHP
 
-* [PHP Basics](https://www.codewithharry.com/blogpost/php-cheatsheet/) - CodeWithHarry (HTML)
+* [PHP Cheat Sheet](https://www.codewithharry.com/blogpost/php-cheatsheet/) - CodeWithHarry (HTML)
 * [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - Nick Schäferhoff, WebsiteSetup (HTML, [PDF](https://websitesetup.org/wp-content/uploads/2020/09/PHP-Cheat-Sheet.pdf))
 
 

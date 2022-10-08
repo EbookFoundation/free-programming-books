@@ -190,7 +190,7 @@
 * [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools
 * [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
 * [Front End Development Libraries Certification: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap) - freeCodeCamp
-* [Get started with Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Bootstrap
+* [Get started with Bootstrap](https://getbootstrap.com/docs) - Bootstrap
 
 
 ### Java

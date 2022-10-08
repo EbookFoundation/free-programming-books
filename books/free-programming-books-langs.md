@@ -1501,7 +1501,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 
 ### Mathematics for Programming
+
 * [Mathematics for Programming](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_textbook.pdf) - Eric Lehman and F. Thomson Leighton
+
 
 ### MATLAB
 

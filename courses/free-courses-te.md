@@ -1,7 +1,5 @@
 # Index
 
-## YouTube
-
 * [Android](#android)
 * [Angular](#angular)
 * [Artificial Intelligence](#artificial-intelligence)
@@ -34,8 +32,7 @@
 
 ## NPTEL
 
-* [Telugu Courses](#nptel)
-
+* [Various Courses in Telugu](https://sites.google.com/nptel.iitm.ac.in/translated-ebook/telugu)
 
 
 ### Android
@@ -129,6 +126,7 @@
 * [ExpressJS Tutorial](https://www.youtube.com/watch?v=_jgN80P6YII) - Telugu Skillhub
 * [ExpressJS Playlist](https://www.youtube.com/playlist?list=PLxS8q3V3GDdzobKWCoXVYFsXlb5kyq4_N) - WhatsMySugesstion
 
+
 ### HTML
 
 * [Complete HTML in 3.5 hours](https://www.youtube.com/watch?v=cS0TG1iksLM) - Computers adda
@@ -184,7 +182,6 @@
 * [PHP Playlist](https://www.youtube.com/playlist?list=PLC2mgeYbYNm8TRhX27z6JG0DtR8FR_WuO) - Telugu Computer World
 
 
-
 ### Python
 
 * [Python Full Course](https://www.youtube.com/watch?v=fP9IvI4qu80) - Telugu Computer World
@@ -206,9 +203,3 @@
 ### VueJS
 
 * [VueJS Playlist](https://www.youtube.com/playlist?list=PLO7Oa5iXf4Qjd9AjhYSkOoY4aPe1pkKzk) - TeluguTechSteps
-
-
-
-### NPTEL
-
-* [Various Courses in Telugu](https://sites.google.com/nptel.iitm.ac.in/translated-ebook/telugu)

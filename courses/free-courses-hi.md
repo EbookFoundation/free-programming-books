@@ -33,7 +33,7 @@
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
-* [Mongo-Db](#mongo-db)
+* [Mongo DB](#mongo-db)
 * [Natural Language Processing](#natural-language-processing)
 * [Networking](#networking)
 * [Operating Systems](#operating-systems)
@@ -312,7 +312,7 @@
 * [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
 
 
-### Mongo-Db
+### Mongo DB
 
 * [Mongo DB full course for beginners](https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa) -Thapa Technical
 

@@ -11,6 +11,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Compiladores](#compiladores)
 * [Dart](#dart)
 * [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
@@ -123,6 +124,10 @@
 * [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
 * [Programação Orientada a Objetos em C++](https://web.archive.org/web/20190124233626/http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 * [Tópicos Especiais em Programação](https://github.com/edsomjr/TEP) - Edson Alves (HTML)
+
+
+### Compiladores
+* [Compiladores Princípios, Técnicas e Ferramentas](https://tsxvpsbr.dyndns.org/arquivos/UFFS/Compiladores%20-%20Princ%C3%ADpios%20T%C3%A9cnicas%20e%20Ferramentas.pdf) - Alfred V. Aho, Ravi Sethi, Jeffrey D.Ullman
 
 
 ### Dart

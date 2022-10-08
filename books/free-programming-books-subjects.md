@@ -523,7 +523,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
 
 
-
 ### Mathematics For Computer Science
 
 * [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon

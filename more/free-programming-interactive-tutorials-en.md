@@ -182,6 +182,8 @@
 
 ### IDE and editors
 
+* [CodePen: Online Code Editor and Front End Web Developer Community](https://codepen.io) - CodePen
+* [IDE | GeeksforGeeks | A computer science portal for geeks](https://ide.geeksforgeeks.org/) - GeeksforGeeks
 * [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html) - Henrik Huttunen
 
 

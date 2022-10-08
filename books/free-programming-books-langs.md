@@ -130,6 +130,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Make](#make)
 * [Markdown](#markdown)
 * [Mathematica](#mathematica)
+* [Mathematics for Programming] ()
 * [MATLAB](#matlab)
 * [Maven](#maven)
 * [Mercury](#mercury)
@@ -1498,6 +1499,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Vector Math for 3d Computer Graphics](http://chortle.ccsu.edu/VectorLessons/index.html)
 * [Wolfram Mathematica Product Training: Wolfram U](https://www.wolfram.com/wolfram-u/catalog/product-training/mathematica/)
 
+
+### Mathematics for Programming
+* [Mathematics for Programming](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_textbook.pdf) - Eric Lehman and F. Thomson Leighton
 
 ### MATLAB
 

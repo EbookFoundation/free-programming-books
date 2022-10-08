@@ -4,6 +4,7 @@
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
 * [C++](#cpp)
+* [Deep Learning](#dl)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -33,6 +34,11 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Programming in Tamil](https://youtube.com/playlist?list=PLWbtDrDnmTHBPD-Dt5BJi7iP11x6UvgU0) - CS in Tamil
+
+
+### Deep Learning
+
+* [Deep Learning in Tamil](https://youtube.com/playlist?list=PLJtSFa-YIedY82pcM1RCKkqqArpQRm6tL) - Majaa Matrix
 
 
 ### HTML and CSS

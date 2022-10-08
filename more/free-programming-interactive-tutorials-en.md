@@ -243,6 +243,9 @@
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 
+#### Svelte
+
+* [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte
 
 #### Redux
 

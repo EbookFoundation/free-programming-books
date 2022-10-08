@@ -79,7 +79,7 @@
 
 ### Android
 
-* [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
+* [Guida Android](http://www.html.it/guide/guida-android/) - Giuseppe Maggi, Marco Lecce, Vito Gentile (HTML)
 
 
 ### Assembly Language

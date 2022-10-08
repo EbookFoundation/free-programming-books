@@ -174,9 +174,8 @@
 
 ### Machine-Learning
 
-
-* [Nhập môn học máy](https://preml.vietai.org) - VietAI (:construction: *in process*)
 * [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp (:construction: *in process*)
+* [Nhập môn học máy](https://preml.vietai.org) - VietAI (:construction: *in process*)
 
 
 ### MongoDB
@@ -213,7 +212,6 @@
 
 
 ### Python
-
 
 * [Lập trình website với Python Django](https://www.youtube.com/playlist?list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P) - Kteam
 * [Python Cơ Bản](https://www.codehub.com.vn/Python-Co-Ban) - Codehub

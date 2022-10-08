@@ -113,6 +113,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Redux](#redux)
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
+* [JWT](https://drive.google.com/file/d/1Y4gAQX8vv_08_hcqx4nNXnzdhKcAiVgz/view?usp=sharing)
 * [Jenkins](#jenkins)
 * [Julia](#julia)
 * [Kotlin](#kotlin)

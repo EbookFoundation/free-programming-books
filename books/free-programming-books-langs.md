@@ -994,6 +994,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Java
 
 * [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman (PDF)
+* [A Practical Introduction to Data Structures and Algorithm Analysis Third Edition (Java Version)](https://people.cs.vt.edu/shaffer/Book/Java3e20100119.pdf) - Clifford A. Shaffer (PDF)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson (PDF)
 * [Artificial Intelligence - Foundations of Computational Agents, Second Edition](https://artint.info/2e/html/ArtInt2e.html) - David L. Poole, Alan K. Mackworth
 * [Building Back-End Web Apps with Java, JPA and JSF](https://web-engineering.info/tech/JavaJpaJsf/book/) - Mircea Diaconescu, Gerd Wagner (HTML,PDF)

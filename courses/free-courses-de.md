@@ -3,15 +3,18 @@
 * [C](#c)
 * [C++](#cpp)
 * [Haskell](#haskell)
+* [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Künstliche Intelligenz](#künstliche-intelligenz)
 * [Python](#python)
 * [Rust](#rust)
 * [Spieleentwicklung](#spieleentwicklung)
+* [TypeScript](#typescript)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [C++ Grundlagen Tutorials von Pilzschaf](https://www.youtube.com/playlist?list=PLStQc0GqppuVs05kWvLBoHcWCULX3ueIM) - Pilzschaf
 
@@ -24,6 +27,17 @@
 ### Haskell
 
 * [Haskell Tutorials Deutsch](https://www.youtube.com/playlist?list=PLNmsVeXQZj7pFIXDN1NLw6jMExuK-wN8I) - The Morpheus Tutorials
+
+
+### HTML and CSS
+
+* [CSS lernen](https://youtube.com/playlist?list=PLuBK_vNnGp8ANspdZh_aRAa1InIhFlgm_) - NEW - Vadim
+* [HTML Tutorial Deutsch](https://youtube.com/playlist?list=PLnlqg5o1zhnhVI3t1iTE2oO4QSGpu7EMx) - Markus Reichl
+
+
+#### Bootstrap
+
+* [Bootstrap 4 Tutorial (Deutsch)](https://youtube.com/playlist?list=PLiH_qbTmMNfhcZazOxjK9hFdtRfq_NLld) - Matthias Dangl
 
 
 ### Java
@@ -60,3 +74,9 @@
 ### Spieleentwicklung
 
 * [Unreal Engine 4 Tutorial Deutsch/German](https://www.youtube.com/playlist?list=PLNmsVeXQZj7olLCliQ05e6hvEOl6sbBgv) - The Morpheus Tutorials
+
+
+### TypeScript
+
+* [Erstellen von JavaScript-Anwendungen mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
+* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk) - Golo Roden

@@ -1,16 +1,18 @@
 ### Index
 
 * [Algorithmes & Structures des données](#algorithmes)
+* [APL](#apl)
 * [Bash / Shell](#bash--shell)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
+* [C++](#cpp)
 * [Git](#git)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [jQuery](#jquery)
-  * [React](#react)
-  * [Vue.js](#vuejs)
+    * [jQuery](#jquery)
+    * [React](#react)
+    * [Vue.js](#vuejs)
 * [Linux](#linux)
 * [PHP](#php)
 * [Python](#python)
@@ -21,7 +23,12 @@
 
 ### Algorithmes
 
-* [Cours d'Algorithmie](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) - Formation Video
+* [Algorithmie - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ) - Formation Video
+
+
+### APL
+
+* [Découvrez le langage APL](https://www.youtube.com/watch?v=Nxq1BUUXobM&list=PLYKQVqyrAEj_DwkVAvj7xHxr72ite69nW) - Schraf : Maths-info
 
 
 ### Bash / Shell
@@ -35,12 +42,18 @@
 
 * [Apprendre le langage C](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) - Formation Video
 * [Apprendre le langage C - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) - Formation Video
+* [Le Langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - sur Zeste de Savoir, Informaticienzero, Taure, Paraze, Lucas-84
 * [TUTOS C](https://www.youtube.com/playlist?list=PLEagTQfI6nPOWS4JPnxW5pRVgeyLuS5oC) - PrimFX
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [C# - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) - Formation Video
+
+
+### <a id="cpp"></a>C++
+
+* [La programmation en C++ moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/) - Zeste de savoir informaticienzero mehdidou99
 
 
 ### Git
@@ -49,7 +62,7 @@
 * [Formation Git en vidéo, Cours Complet](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP) - Grafikart
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Apprendre à coder en HTML et CSS \| Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - Pierre Giraud
 * [Apprendre à utiliser le framework Bootstrap \| Cours complet (2020)](https://www.pierre-giraud.com/bootstrap-apprendre-cours/) - Pierre Giraud
@@ -70,13 +83,13 @@
 * [Cours Java](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) - Formation Video
 
 
-### Javascript
+### JavaScript
 
 * [Apprendre à coder en JavaScript \| Cours complet (2020)](https://www.pierre-giraud.com/javascript-apprendre-coder-cours/) - Pierre Giraud
 * [Apprendre le JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw) - Grafikart
 * [Cours JavaScript](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_) - Formation Video
 * [Déboguer son code JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWWXgsHpfCLHJ1Oq4YnE08e) - Grafikart
-* [Tutoriel de javascript moderne](https://fr.javascript.info) - javascript.info
+* [Le Tutoriel JavaScript Moderne](https://fr.javascript.info) - javascript.info
 * [TUTOS JS](https://www.youtube.com/playlist?list=PLEagTQfI6nPPVSKoYo2p8Cf8eijcyz5t9) - PrimFX
 
 

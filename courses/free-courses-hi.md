@@ -38,7 +38,6 @@
 * [Rust](#rust)
 * [Software Engineering](#software-engineering)
 * [System Design](#system-design)
-* [Web Development](#web development)
 
 
 ### Algorithms
@@ -304,12 +303,6 @@
 * [Rust Complete Tutorial In Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
 
 
-### Web development
-
-* [Web dev in hindi](https://youtu.be/6mbwJ2xhgzM) - Code with Harry
-* [Web dev in hindi](https://youtu.be/Rek0NWPCNOc) - Apna College
-
-
 ### Software Engineering
 
 * [Software Engineering](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2) - Gate Smashers
@@ -328,8 +321,4 @@
 * [Go programming (GoLang) Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLEtkoO2np9szq1XDH1Mfr36Fg5EXh-z20) - Host Progrmming
 * [Go programming Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yu7If3I7GonlWA8YU1BuAk) - CS Geeks
 * [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
-
-
-
-
 

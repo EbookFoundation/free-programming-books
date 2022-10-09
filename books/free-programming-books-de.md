@@ -5,29 +5,32 @@
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Component Pascal](#component-pascal)
+* [Delphi](#delphi)
 * [Git](#git)
 * [Go](#go)
 * [Groovy](#groovy)
-* [HTML & CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [React](#react)
+    * [React](#react)
 * [LaTeX](#latex)
 * [Mathematik](#mathematik)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [Neo4j](#neo4j)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Joomla](#joomla)
+    * [Symfony](#symfony)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
+* [Shell](#shell)
 * [UML](#uml)
 * [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Unix](#unix)
@@ -55,25 +58,25 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm) - Paul A. Carter
-* [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres,
-Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
+* [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres, Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 
 ### C
 
 * [C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung) - Wikibooks (HTML)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z) - Jürgen Wolf (Online)
-* [Socket Programmierung in C](http://www.tobscore.com/socket-programmierung-in-c) - B. Hall, Übersetzt von Tobias Kerst (HTML)
+* [Socket Programmierung in C](http://www.tobscore.com/socket-programmierung-in-c) - Brian "Beej Jorgensen" Hall, Übersetzt von Tobias Kerst (HTML)
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
+* [Einführung in das Programmieren mit C#](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/c) - Bernhard Baltes-Götz (PDF)
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de) - Boris Schäling (Online)
 * [Lean Testing für C++-Programmierer (2018)](https://www.assets.dpunkt.de/openbooks/Openbook_Lean_Testing.pdf) - Andreas Spillner, Ulrich Breymann (PDF)
@@ -86,11 +89,16 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 * [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
 
 
+### Delphi
+
+* [Delphi-Starter](https://web.archive.org/web/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*    
+
+
 ### Git
 
-* [Das Git-Buch](http://gitbu.ch) (PDF, EPUB)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de) (Online)
-* [Pro Git](https://git-scm.com/book/de/current) - Scott Chacon, Ben Straub (Online, PDF, EPUB)
+* [Das Git-Buch](http://gitbu.ch) - Valentin Haenel, Julius Plenz (PDF, EPUB)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de) - Ben Lynn, `trl.:` Benjamin Bellee, `trl.:` Armin Stebich (HTML, PDF)
+* [Pro Git](https://git-scm.com/book/de/) - Scott Chacon, Ben Straub, `trl.:` Ben Straub (HTML, PDF, EPUB, Kindle)
 
 
 ### Go
@@ -98,7 +106,7 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 * [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html) (Online)
 * [Eine Tour durch Go](https://github.com/michivo/go-tour-de)
 * [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de)
-* [The Little Go Book](https://github.com/Aaronmacaron/the-little-go-book-de) - Karl Seguin, Aaron Ebnöther ([HTML](https://github.com/Aaronmacaron/the-little-go-book-de/blob/master/de/go.md))
+* [The Little Go Book](https://github.com/Aaronmacaron/the-little-go-book-de) - Karl Seguin, `trl.:` Aaron Ebnöther ([HTML](https://github.com/Aaronmacaron/the-little-go-book-de/blob/master/de/go.md))
 
 
 ### Groovy
@@ -106,7 +114,7 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 * [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) - Jörg Staudemeyer (PDF)
 
 
-### HTML & CSS
+### HTML and CSS
 
 * [CSS](http://www.peterkropff.de/site/css/css.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) (Online, PDF)
 * [HTML](http://www.peterkropff.de/site/html/html.htm) - Peter Kropff (Online, PDF)
@@ -123,10 +131,12 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 ### Java
 
+* [Einführung in das Programmieren mit Java](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/java) - Bernhard Baltes-Götz, Johannes Götz (PDF)
 * [EJB 3 für Umsteiger: Neuerungen und Änderungen gegenüber dem EJB-2.x-Standard](http://bsd.de/e3fu/umfrage.html) - Heiko W. Rupp
 * [Java 7 Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7) - Christian Ullenboom (Online)
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel) - Christian Ullenboom (Online)
 * [Java SE 8 Standard-Bibliothek](http://openbook.rheinwerk-verlag.de/java8) - Christian Ullenboom (Online)
+* [Java Tutorial - Java lernen leicht gemacht](https://java-tutorial.org/index.php) - Björn und Britta Petri
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung)
 * [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
@@ -146,14 +156,14 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 ### LaTeX
 
-* [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
+* [LaTeX - eine Einführung und ein bisschen mehr ...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
 * [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz)
 
 
 ### Mathematik
 
-* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann et al. (PDF)
+* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
 
 
 ### Meta-Lists
@@ -178,9 +188,14 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) - Sascha Kersken (PDF)
 
 
+#### Joomla
+
+* [Joomla! 3 - Das umfassende Handbuch](https://openbook.rheinwerk-verlag.de/joomla_3/) - Richard Eisenmenger
+
+
 #### Symfony
 
-* [Symfony 5: Auf der Überholspur](https://symfony.com/doc/5.0/the-fast-track/de/index.html) (Online)
+* [Symfony: Auf der Überholspur](https://symfony.com/doc/current/the-fast-track/de/index.html) (Online)
 
 
 ### Python
@@ -188,6 +203,7 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 * [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
 * [Einführung in Python](http://www.mschimmels.de/eigeneDateien/Python-Kurs.pdf) - Martin Schimmels (PDF)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de) (Online)
+* [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *(:construction: in process)*
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python) - Johannes Ernesti, Peter Kaiser (Online)
 
 
@@ -198,7 +214,7 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 ### Ruby on Rails
 
-* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) (PDF)
+* [Praxiswissen Ruby](https://web.archive.org/web/20160328183933/https://oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) - Sascha Kersken (PDF) *(:card_file_box: archived)*
 * [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) - Denny Carl (PDF)
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF)
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/) - Hussein Morsy, Tanja Otto (Online)
@@ -213,6 +229,11 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 ### Scratch
 
 * [Kreative Informatik mit Scratch](http://eis.ph-noe.ac.at/kreativeinformatik)
+
+
+### Shell
+
+* [Shell-Programmierung](https://openbook.rheinwerk-verlag.de/shell_programmierung/) - Jürgen Wolf
 
 
 ### UML
@@ -242,6 +263,5 @@ Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 ### Visual Basic
 
-* [Einstieg in Visual Basic 2010](http://openbook.rheinwerk-verlag.de/einstieg_vb_2010) - Thomas Theis (Online)
 * [Einstieg in Visual Basic 2012](http://openbook.rheinwerk-verlag.de/einstieg_vb_2012) - Thomas Theis (Online)
 * [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008) Andreas Kuehnel, Stephan Leibbrandt (Online)

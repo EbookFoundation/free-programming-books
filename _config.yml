@@ -3,7 +3,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 
 # [Conversion]
-markdown: GFM
+markdown: kramdown
 
 # [Used rubygem plugins]
 plugins:

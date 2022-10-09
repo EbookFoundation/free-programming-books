@@ -8,7 +8,7 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [Machine Learning](#machinelearning)
+* [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [Python](#python)
 * [SQL](#sql)
@@ -66,6 +66,8 @@ CSE Tamila by Eezytutorials
 
 * [Introduction to Machine Learning(Tamil)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX) - IIT Madras NPTEL
 * [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD) - Majaa Matrix
+* [Machine Learning in Tamil](https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM) - 
+Nithya Duraisamy
 
 
 ### PHP

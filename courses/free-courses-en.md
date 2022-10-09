@@ -8,10 +8,9 @@
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
 * [Bash / Shell](#bash--shell)
-* [Big Data](#bigdata)
+* [Big Data](#big data)
   * [Hadoop](#hadoop)
   * [Hive](#hive)
-  * [Spark](#spark)
 * [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#csharp)
@@ -249,11 +248,6 @@
 #### Hive
 
 * [Apache Hive Tutorial](https://www.youtube.com/watch?v=MLDcapDQba4&ab_channel=GreatLearning) - Great Learning (YouTube)
-
-
-#### Spark
-
-* [Apache Spark Tutorial](https://www.youtube.com/watch?v=zC9cnh8rJd0&t=9535s&ab_channel=GreatLearning) - Great Learning (YouTube)
 
 
 ### Blockchain

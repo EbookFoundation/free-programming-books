@@ -2,16 +2,20 @@
 
 * [Algorithms](#algorithms)
 * [Android](#android)
+* [Angular](#angular)
 * [Assembly](#assembly)
 * [Bash and Shell](#bash-and-shell)
 * [Blockchain](#blockchain)
 * [C](#c)
 * [C++](#cpp)
+* [C#](#c#)
 * [Compiler Design](#compiler-design)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Data Structures](#data-structures)
 * [DevOps](#devops)
+* [Docker](#docker)
 * [Flutter](#flutter)
+* [Game Development](#game development)
 * [Git and GitHub](#git-and-github)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
@@ -31,14 +35,7 @@
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
-* [React](#react)
-* [Angular](#angular)
-* [Docker](#docker)
 * [Web Development](#web development)
-* [Game Development](#game development)
-* [C#](#c#)
-
-
 
 
 ### Algorithms
@@ -99,6 +96,13 @@
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
 
+### C#
+
+* [C# in hindi](https://youtu.be/tQlGeD5Jbt0) - Great Learning Academy
+* [C# in hindi](https://youtu.be/KO8oBhToN7s) - sunny games and technology
+* [C# in hindi](https://youtu.be/SuLiu5AK9Ps) - Code with Harry
+* [C# in hindi](https://youtu.be/Vo2LHqjgSl0-c#) - Nikhil Malankar
+
 
 ### Compiler Design
 
@@ -135,6 +139,11 @@
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
 
 
+### Docker
+
+* [Docker in hindi](https://youtu.be/Gw2Jrid4SaQ-docker) - Code with Harry
+
+
 ### Flutter
 
 * [Complete Flutter Tutorial In Hindi By Desi Programmer](https://youtube.com/playlist?list=PLlFwzkUNmr94BF0KH7BYPL7DsZjhJRdTm) - Desi Programmer
@@ -142,6 +151,12 @@
 * [Flutter Essential Course](https://www.youtube.com/watch?v=Wdx8vwN_nWI) - freecodecamp (YouTube)
 * [Flutter Series 2020](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo3Cs115GXkot28i406511Y) - CodeHelp - by Babbar (YouTube)
 * [Flutter Tutorial For Beginners in Hindi](https://youtube.com/playlist?list=PLMkkZSS5OjPIwDyHHKVex6zr008U1-sWM) - Geeks Rank
+
+
+### Game Development
+
+* [Game development in hindi](https://youtu.be/oriezhSIIY4) - Code with Harry
+* [Game development in hindi](https://youtu.be/KO8oBhToN7s) - sunny games and technology
 
 
 ### Git and GitHub
@@ -285,34 +300,16 @@
 
 * [Rust Complete Tutorial In Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
 
-### React
-* [React Js Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - Code With Harry
 
 ### Web development
 
-* [Web dev in hindi](https://youtu.be/6mbwJ2xhgzM)- Code with Harry
+* [Web dev in hindi](https://youtu.be/6mbwJ2xhgzM) - Code with Harry
+* [Web dev in hindi](https://youtu.be/Rek0NWPCNOc) - Apna College
 
-* [Web dev in hindi](https://youtu.be/Rek0NWPCNOc)- Apna College
 
 
-### Game Development
 
-* [Game development in hindi](https://youtu.be/oriezhSIIY4)- Code with Harry
 
-* [Game development in hindi](https://youtu.be/KO8oBhToN7s)- sunny games and technology
 
-### C#
-
-* [C# in hindi](https://youtu.be/tQlGeD5Jbt0)- Great Learning Academy
-
-* [C# in hindi](https://youtu.be/KO8oBhToN7s)- sunny games and technology
-
-* [C# in hindi](https://youtu.be/SuLiu5AK9Ps)- Code with Harry
-
-* [C# in hindi](https://youtu.be/Vo2LHqjgSl0-c#)- Nikhil Malankar
-
-### Docker
-
-* [Docker in hindi](https://youtu.be/Gw2Jrid4SaQ-docker)- Code with Harry
 
 

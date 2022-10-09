@@ -466,6 +466,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) - Michael P. Hitchman
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 * [How We Got from There to Here: A Story of Real Analysis](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers, Eugene Boman
+* [Introduction to Modern Statistics](https://openintro-ims.netlify.app) - Mine Çetinkaya-Rundel, Johanna Hardin (HTML, PDF) (email address required for PDF)
 * [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead, J. Laurie Snell
 * [Introduction to Probability and Statistics Spring 2014](http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 * [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon

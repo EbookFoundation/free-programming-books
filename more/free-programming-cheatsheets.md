@@ -6,7 +6,9 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
+* [Dart](#dart)
 * [Data Science](#data-science)
+* [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
@@ -36,6 +38,7 @@
 * [Rust](#rust)
 * [Shell Scripting](#shell-scripting)
 * [Solidity](#solidity)
+* [SpringBoot](#springboot)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
 
@@ -55,6 +58,7 @@
 
 ### C
 
+* [C Language Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/) - CodeWithHarry(HTML)
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
 * [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) (HTML)
 * [The C Cheat Sheet: An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) - Andrew Sterian (PDF)
@@ -69,6 +73,8 @@
 
 * [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) - CodeWithHarry (HTML)
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
+* [MPI Cheat Sheet](https://wtpc.github.io/clases/2018/mpicheatsheet.pdf) - SC Education (PDF)
+* [OpenMP 4.0 API C/C++ Syntax Quick Reference Card](https://www.openmp.org/wp-content/uploads/OpenMP-4.0-C.pdf) (PDF)
 
 
 ### Clojure
@@ -76,9 +82,26 @@
 * [Clojure Cheatsheet](http://clojure.org/cheatsheet) (HTML)
 
 
+### Dart
+
+* [Dart Cheatsheet](https://quickref.me/dart) - Quickref.me (HTML)
+* [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet) - Codelabs (HTML)
+* [Dart Cheatsheet](https://simplecheatsheet.com/tag/dart-cheat-sheet/#site-header) - Simplecheatsheet.com (HTML)
+* [Dart Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf) - Koenig-media.raywenderlich.com (PDF)
+
+
 ### Data Science
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
+
+
+### <a id="data-structures-and-algorithms"></a>Data Structures and Algorithms
+
+* [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
+* [An Executable Data Structures Cheat Sheet for Interviews](https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet)
+* [Big O Notation Cheat Sheet](https://algodaily.com/lessons/big-o-notation-cheat-sheet)
+* [Data Structures and Algorithms Cheat Sheet - Cheatography](https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/)
+* [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
 
 ### Docker
@@ -128,18 +151,23 @@
 
 ### HTML and CSS
 
+* [Accessibility CheatSheet](https://learn-the-web.algonquindesign.ca/topics/accessibility-cheat-sheet/) - Algonquin Design (HTML)
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
+* [CSS Cheatsheet](https://www.codewithharry.com/blogpost/css-cheatsheet/) - CodeWithHarry (HTML)
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
 * [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
 * [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co) - Chris Malven (HTML)
 * [HTML & CSS Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) - Emmet Documentation (HTML, [PDF]( https://docs.emmet.io/cheatsheet-a5.pdf))
 * [HTML CheatSheet](https://htmlcheatsheet.com) - htmlcheatsheet.com (HTML, [PDF](https://htmlcheatsheet.com/HTML-Cheat-Sheet.pdf))
+* [HTML Cheatsheet](https://www.codewithharry.com/blogpost/html-cheatsheet/) - CodeWithHarry (HTML)
 * [SCSS CheatSheet](https://devhints.io/sass) - devhints, Rico Santa Cruz (HTML)
+* [SEO CheatSheet](https://learn-the-web.algonquindesign.ca/topics/seo-cheat-sheet/) - Algonquin Design (HTML)
 
 
 ### IDE and editors
 
+* [Eclipse Cheat sheet](https://cheatography.com/tag/eclipse/) - Cheatography
 * [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas (HTML)
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
 * [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas (HTML)
@@ -250,6 +278,7 @@
 
 ### PHP
 
+* [PHP Cheat Sheet](https://www.codewithharry.com/blogpost/php-cheatsheet/) - CodeWithHarry (HTML)
 * [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - Nick Schäferhoff, WebsiteSetup (HTML, [PDF](https://websitesetup.org/wp-content/uploads/2020/09/PHP-Cheat-Sheet.pdf))
 
 
@@ -313,6 +342,11 @@
 
 * [Solidity Cheat Sheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.pdf) - IntelliPaat (PDF)
 * [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh (HTML)
+
+
+### SpringBoot
+
+* [Spring Boot Cheatsheet](https://www.jrebel.com/blog/spring-annotations-cheat-sheet) - JRebel
 
 
 ### SQL

@@ -4,9 +4,11 @@
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
 * [C++](#cpp)
+* [Data Structures and Algorithms](#dsa)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Machine Learning](#machinelearning)
 * [PHP](#php)
 * [Python](#python)
 * [SQL](#sql)
@@ -34,6 +36,12 @@
 * [C++ Programming in Tamil](https://youtube.com/playlist?list=PLWbtDrDnmTHBPD-Dt5BJi7iP11x6UvgU0) - CS in Tamil
 
 
+### <a id="dsa"></a>Data Structures and Algorithms
+
+* [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - 
+CSE Tamila by Eezytutorials
+
+
 ### HTML and CSS
 
 * [CSS in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh) - CyberDude Networks Pvt. Ltd.
@@ -52,6 +60,12 @@
 * [Javascript (ES6) Tutorials in Tamil](https://youtube.com/playlist?list=PLB8qmogP8oMwFdeaeThAbsR9Vh-873SWb) - Coda - Programming In Tamil
 * [Javascript Full Course in Tamil - in Depth Javascript Tutorials in Tamil](https://youtube.com/playlist?list=PLpYn3LR7eQI3hjh129Bkqkw7onut28hTK) - Tamil Developer
 * [JavaScript in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa) - CyberDude Networks Pvt. Ltd.
+
+
+### Machine Learning
+
+* [Introduction to Machine Learning(Tamil)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX) - IIT Madras NPTEL
+* [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD) - Majaa Matrix
 
 
 ### PHP

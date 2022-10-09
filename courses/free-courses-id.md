@@ -178,6 +178,7 @@
 * [HTML5 Dasar](https://www.buildwithangga.com/kelas/html5-dasar) - BuildWithAngga
 * [HTML5 Pemula Dasar](https://www.petanikode.com/html-dasar/) - petanikode
 
+
 ### Java
 
 * [Belajar Java - Dasar Java](https://www.youtube.com/playlist?list=PLFfUPa9IV8LrtXVMBVcqpjxYeya1j-yiq) - Mastahcode
@@ -384,8 +385,9 @@
 
 ### SASS / SCSS
 
-* [Belajar Menggunakan SASS](https://youtube.com/playlist?list=PLRKMmwY3-5Mxzx31JO3V9JJ8GLdUXYqt0) - Irsyad A. Panjaitan (Parsinta)]
+* [Belajar Menggunakan SASS](https://youtube.com/playlist?list=PLRKMmwY3-5Mxzx31JO3V9JJ8GLdUXYqt0) - Irsyad A. Panjaitan (Parsinta)
 * [Tutorial SASS](https://www.youtube.com/playlist?list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5) - Web Programming UNPAS
+
 
 ### Solidity
 

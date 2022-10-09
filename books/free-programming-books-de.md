@@ -82,6 +82,7 @@
 * [Lean Testing für C++-Programmierer (2018)](https://www.assets.dpunkt.de/openbooks/Openbook_Lean_Testing.pdf) - Andreas Spillner, Ulrich Breymann (PDF)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung)
+* [C++ Today The Beast Is Back](https://resources.jetbrains.com/storage/products/cpp/books/Cplusplus_Today.pdf) - Jon Kalb & Gašper Ažman (PDF)
 
 
 ### Component Pascal

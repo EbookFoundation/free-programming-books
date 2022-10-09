@@ -63,7 +63,6 @@
 * [Mangocast](https://www.mangocast.net) - Lucho Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia (podcast)
 
 
-
 ### Variados
 
 * [Code on the Rocks](http://codeontherocks.fm) - Jorge Barroso, Jorge Lería, Davide Mendolia (podcast)

@@ -244,7 +244,6 @@
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 
 
-
 #### Redux
 
 * [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/redux) - freeCodeCamp

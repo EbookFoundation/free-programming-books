@@ -109,6 +109,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) (email address *requested*, not required)
 * [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) (email address *requested*, not required)
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
+* [Essential Algorithms](https://www.programming-books.io/essential/algorithms) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho, Jeff Ullman
 * [Geometry Algorithms](http://geomalgorithms.com) - Dan Sunday
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)

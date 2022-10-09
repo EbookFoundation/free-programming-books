@@ -32,7 +32,7 @@
 ### DataScience
 
 * [Data Hackers](https://datahackers.com.br/podcast) (podcast)
-* [Data Science Academy](https://blog.dsacademy.com.br/podcast-dsa-2/) (podcast)
+* [Simple Cast](https://data-science-salon-podcast.simplecast.com/episodes/coffee-chat-from-dss-virtual-retail-e-commerce) (podcast)
 * [Intervalo de Confiança](https://rss.podomatic.net/rss/intervalodeconfianca.podomatic.com/rss2.xml) (podcast)
 * [Let's Data](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM) - Bernardo Lago, Felipe Schiavon, Leon Silva (screencast)
 * [Pizza de Dados](https://pizzadedados.com) (podcast)

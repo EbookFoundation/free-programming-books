@@ -1,0 +1,1 @@
+* [Coding Projects in Scratch: A Step-by-Step Visual Guide to Coding Your Own Animations, Games](https://www.pdfdrive.com/coding-projects-in-scratch-a-step-by-step-visual-guide-to-coding-your-own-animations-games-simulations-and-more-e185773799.html) (HTML)

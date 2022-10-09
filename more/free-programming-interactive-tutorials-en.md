@@ -10,23 +10,24 @@
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
 * [Dart](#dart)
-* [Data Science](#datascience)
+* [Data Science](#data-science)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
-  * [Bootstrap](#bootstrap)
+* [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
+* [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
-  * [jQuery](#jquery)
-  * [React](#react)
-  * [Redux](#redux)
+    * [AngularJS](#angularjs)
+    * [jQuery](#jquery)
+    * [React](#react)
+    * [Redux](#redux)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
-  * [Operating Systems](#operating-systems)
+    * [Operating Systems](#operating-systems)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
@@ -45,7 +46,7 @@
 * [Selenium](#selenium)
 * [Solidity](#solidity)
 * [SQL](#sql)
-* [Vim](#vim)
+* [XML](#xml)
 
 
 ### Ada
@@ -67,6 +68,7 @@
 
 ### C
 
+* [C Tutorial](https://www.scaler.com/topics/c/) - Scaler Topics
 * [Learn C](http://www.learn-c.org) - Learn-C
 
 
@@ -81,7 +83,9 @@
 
 ### <a id="cpp"></a>C++
 
+* [C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/) - GeeksforGeeks
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
+* [C++ Tutorial](https://www.scaler.com/topics/cpp/) - Scaler Topics
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
 
 
@@ -116,7 +120,7 @@
 ### Data Science
 
 * [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
-* [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) -KDnuggets
+* [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
@@ -156,7 +160,7 @@
 * [Try Haskell!](http://tryhaskell.org)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [CSS Diner](http://flukeout.github.io)
 * [CSS Speedrun \| Test your CSS Skills](https://css-speedrun.netlify.app) - Vincent Will (HTML)
@@ -167,12 +171,18 @@
 * [Grid Attack](https://codingfantasy.com/games/css-grid-attack) - Nick Bull
 * [Grid Garden](https://cssgridgarden.com)
 * [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
+* [HTML Tutorial](https://www.scaler.com/topics/html/) - Scaler Topics
 * [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
-* [Learn CSS: an evergreen CSS course and reference to level up your styling expertise](https://web.dev/learn/css/) - Andy Bell, Rachel Andrew, Una Kravets, Adam Argyle, Rob Dodson, Jiwoong Lee et al. (web.dev)
+* [Learn CSS: an evergreen CSS course and reference to level up your styling expertise](https://web.dev/learn/css/) - Andy Bell, Rachel Andrew, Una Kravets, Adam Argyle, Rob Dodson, Jiwoong Lee, et al. (web.dev)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 * [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) - freeCodeCamp
+
+
+### IDE and editors
+
+* [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html) - Henrik Huttunen
 
 
 #### Bootstrap
@@ -187,6 +197,7 @@
 * [CodingBat code practice](http://codingbat.com/java)
 * [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Java Tutorial](https://www.w3schools.com/java) - W3Schools
+* [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -195,12 +206,13 @@
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
-* [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
-* [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
+* [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Jeremy Thomas
+* [JavaScript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
+* [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Scaler Topics
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
@@ -242,6 +254,7 @@
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
 * [Kotlin Tutorial](https://www.w3schools.com/kotlin/) - W3Schools
 * [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Galina Podstrechnaya, Alex DiStasi (Codecademy) *(account required)*
+* [Unit 1: Kotlin Basics](https://developer.android.com/courses/android-basics-kotlin/unit-1) Android *(account required)*
 
 
 ### Language Agnostic
@@ -256,6 +269,7 @@
 #### Operating systems
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+* [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
 * [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Dr. Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 
@@ -312,6 +326,7 @@
 ### Python
 
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
+* [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp
 * [futurecoder](https://futurecoder.io) - Alex Hall
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
@@ -323,6 +338,7 @@
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) - GeeksforGeeks
 * [Python Tutorial](https://www.tutlane.com/tutorial/python) - tutlane
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
+* [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
 
 
@@ -375,9 +391,10 @@
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
 * [SQL Teaching](https://www.sqlteaching.com)
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
+* [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
 * [SQLBolt](http://sqlbolt.com)
 
 
-### Vim
+### XML
 
-* [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html)
+* [XML Tutorial](https://www.w3schools.com/xml) - W3Schools

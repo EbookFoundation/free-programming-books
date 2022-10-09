@@ -1,8 +1,8 @@
 ### Index
 
 * [Algoritmalar](#algoritmalar)
-* [HTML / CSS](#html--css)
-* [IDE / Editors](#ide--editors)
+* [HTML and CSS](#html-and-css)
+* [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
@@ -16,7 +16,7 @@
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Bootstrap Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx5ZUs7h8mfGACFpnVipTNkA) - Hakan Yalçınkaya \| Kodluyoruz
 * [CSS Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx501K3-IMgS1fz-KfEB37gM) - Hakan Yalçınkaya \| Kodluyoruz
@@ -25,7 +25,7 @@
 * [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
 
 
-### IDE / Editors
+### IDE and editors
 
 * [Visual Studio Code Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx72uHNQ6aZXxa1pSKViqIhE) - Hakan Yalçınkaya \| Kodluyoruz
 

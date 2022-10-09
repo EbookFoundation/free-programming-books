@@ -3,29 +3,28 @@
 * [Дизайн и Aрхитектура](#design-architecture)
 * [C++](#cpp)
 * [Clojure](#clojure)
-* [CSS](#css)
 * [Dart](#dart)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Node.js](#nodejs)
-  * [React](#react)
+    * [Node.js](#nodejs)
+    * [React](#react)
 * [Julia](#julia)
 * [Kotlin](#kotlin)
 * [Perl](#perl)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
-* [R](#R)
+* [R](#r)
 * [Ruby](#ruby)
 
 
 ### Уровни
 
-BEG - Hовичок. Основы.  
-INT - Cредний. Расширенные возможности.  
+BEG - Hовичок. Основы.    
+INT - Cредний. Расширенные возможности.    
 ADV - Продвинутый. Тонкости.
 
 
@@ -50,11 +49,6 @@ ADV - Продвинутый. Тонкости.
 * [Курс Clojure](https://clojurecourse.by) (BEG)
 
 
-### CSS
-
-* [CSS для начинающих](https://ru.code-basics.com/languages/css) (BEG)
-
-
 ### Dart
 
 * [Основы Dart](https://stepik.org/course/92982) - Анна Музыкина (Stepik) (BEG)
@@ -73,8 +67,9 @@ ADV - Продвинутый. Тонкости.
 * [Функциональное программирование на языке Haskell (часть 2)](https://stepik.org/course/693) - Stepik (ADV)
 
 
-### HTML
+### HTML and CSS
 
+* [CSS для начинающих](https://ru.code-basics.com/languages/css) (BEG)
 * [HTML для начинающих](https://ru.code-basics.com/languages/html) (BEG)
 
 
@@ -105,6 +100,7 @@ ADV - Продвинутый. Тонкости.
 
 #### Node.js
 
+* [Уроки Node JS Для начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet) - Гоша Дударь (BEG)
 * [Node.js введение в технологию](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ) - Тимур Шемсединов (INT)
 
 

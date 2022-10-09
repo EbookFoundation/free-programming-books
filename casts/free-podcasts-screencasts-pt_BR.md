@@ -5,14 +5,14 @@
 * [DataScience](#datascience)
 * [Game development](#game-development)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
 * [PHP](#php)
 * [Python](#python)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [Vue.js](#vuejs)
 
 
@@ -32,7 +32,8 @@
 ### DataScience
 
 * [Data Hackers](https://datahackers.com.br/podcast) (podcast)
-* [Data Science Academy](http://datascienceacademy.com.br/blog/podcast-dsa/) (podcast)
+* [Data Science Academy](https://blog.dsacademy.com.br/podcast-dsa-2/) (podcast)
+* [Intervalo de Confiança](https://rss.podomatic.net/rss/intervalodeconfianca.podomatic.com/rss2.xml) (podcast)
 * [Let's Data](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM) - Bernardo Lago, Felipe Schiavon, Leon Silva (screencast)
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
 * [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
@@ -54,7 +55,7 @@
 * [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) (screencast)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Curso em Vídeo - HTML5, CSS3 e JavaScript](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) - Gustavo Guanabara (screencast)
 
@@ -78,31 +79,33 @@
 
 ### Language Agnostic
 
- * [Castálio Podcast](http://castalio.info) (podcast)
- * [DevNaEstrada](http://devnaestrada.com.br) (podcast)
- * [Grok Podcast](http://www.grokpodcast.com) (podcast)
- * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
- * [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
- * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
- * [PODebug](http://www.podebug.com) (podcast)
- * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
- * [podTag](https://podtag.com.br) (podcast)
- * [Screencast DevMedia - Lazy Load](https://www.youtube.com/playlist?list=PLi75dzoFwEbo89TG5IaD4ODYPeJK9uxA5) (screencast)
- * [Screencasts - Andre Baltieri](https://www.youtube.com/playlist?list=PLTMuY7ptzFISwigIWpZQtp6b0TuEEvqLC) (screencast)
+* [Castálio Podcast](http://castalio.info) (podcast)
+* [DevNaEstrada](http://devnaestrada.com.br) (podcast)
+* [Grok Podcast](http://www.grokpodcast.com) (podcast)
+* [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
+* [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
+* [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
+* [OsProgramadores](https://anchor.fm/osprogramadores) (podcast)
+* [PODebug](http://www.podebug.com) (podcast)
+* [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
+* [podTag](https://podtag.com.br) (podcast)
+* [Pull reCast](https://www.youtube.com/channel/UC4FvW-Q6kVLeZuvhGb4txrQ) - Alan Braz, Matheus Bitencourt (screencast)
+* [Screencast DevMedia - Lazy Load](https://www.youtube.com/playlist?list=PLi75dzoFwEbo89TG5IaD4ODYPeJK9uxA5) (screencast)
+* [Screencasts - Andre Baltieri](https://www.youtube.com/playlist?list=PLTMuY7ptzFISwigIWpZQtp6b0TuEEvqLC) (screencast)
 
 
 ### PHP
 
-* [Curso em Vídeo - PHP Iniciante](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Gustavo Guanabara (screencast)
-* [Curso em Vídeo - PHP Orientado a Objetos](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - Gustavo Guanabara (screencast)
+* [Curso em Vídeo - PHP Iniciante](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Gustavo Guanabara (screencast)
+* [Curso em Vídeo - PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - Gustavo Guanabara (screencast)
 * [UpInside - PHP Tips](https://www.youtube.com/playlist?list=PLi_gvjv-JgXqsmCAOrueT1-4JrnMW8_Gg) (screencast)
 
 
 ### Python
 
-* [Curso em Vídeo - Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (screencast)
-* [Curso em Vídeo - Python Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (screencast)
-* [Curso em Vídeo - Python Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Gustavo Guanabara (screencast)
+* [Curso em Vídeo - Python Mundo 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (screencast)
+* [Curso em Vídeo - Python Mundo 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (screencast)
+* [Curso em Vídeo - Python Mundo 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Gustavo Guanabara (screencast)
 * [Programação Dinâmica - Introdução à Python por Projetos](https://www.youtube.com/playlist?list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) (screencast)
 
 
@@ -118,4 +121,4 @@
 
 ### Vue.js
 
-* [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli  (screencast)
+* [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli (screencast)

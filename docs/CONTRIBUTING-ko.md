@@ -18,11 +18,12 @@
 2. Git을 알 필요는 없습니다: 만약 당신이 조건에 부합하면서 *이미 등재되지 않은* 바로가기를 발견한다면, 새로운 바로가기와 함께 새로운 [이슈](https://github.com/EbookFoundation/free-programming-books/issues)를 열 수 있습니다.
     - 만약 깃 사용법을 알고 있다면, 해당 리포지토리를 Fork 하며 Pull Request (PR)를 보내주세요.
 
-3. 저희는 다섯 가지의 리스트를 제공하고 있습니다. 올바른 것을 선택해 주세요:
+3. 저희는 여섯 가지 종류의 리스트를 제공하고 있습니다. 올바른 것을 선택해 주세요:
 
     - *책* : PDF, HTML, ePub, gitbook.io 기반 웹사이트, 깃 리포지토리, 등.
     - *강좌* : 여기서 강좌는 책이 아닌 교육 도구를 칭합니다. [강좌 예시](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *상호작용을 할 수 있는 강좌* : 사용자가 코드를 입력하거나 명령어를 입력하여 평가을 받을 수 있는 웹사이트를 칭합니다(평가는 채점이 아닙니다). 예시: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *팟캐스트와 화면 녹화*
     - *문제집 & 경쟁 하며 배우는 프로그래밍* : 문제를 풂으로서 프로그래밍 실력을 향상시키는데 도움을 주는 소프트웨어 또는 웹사이트를 칭합니다. 해당 소프트웨어 또는 웹사이트는 동료가 주체가 되는 코드 검토를 포함 할 수 있습니다.
 
@@ -51,6 +52,7 @@
 - 만약 오래된 책이라면, 출판일을 제목과 함께 포함하세요.
 - 작가(들)의 이름을 명시하십시오. "`et al.`"을 사용하여 단축 할 수 있습니다.
 - 만약 책이 아직 완결되지 않았다면, [아래](#in_process)에 명시되어 있다시피, "`in process`" 표시를 추가하십시오.
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - 만약 이메일 주소 또는 계정 생성이 다운로드 이전에 요청된다면, 별도의 노트를 첨부하세요. 예: `(이메일 주소 *요청됨*, 필요 없음)`.
 
 
@@ -101,7 +103,7 @@
     GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
     ```
 
-- 저자는 형식 전에 옵니다:
+- 저자는 형식보다 앞에 쓰입니다:
 
     ```text
     BAD : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe
@@ -127,6 +129,12 @@
 
     ```text
     GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    ```
+
+- <a id="archived"></a>Archived link:
+
+    ```text
+    GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
 ### Alphabetical order
@@ -166,9 +174,17 @@ If you see a misplaced link, check the linter error message to know which lines 
 ##### 제작자
 
 - 저희는 무료로 자료들을 배포하는 제작자들(번역가들 포함)에게 감사함을 표합니다!
-- 번역된 자료들의 경우, 원작자들이 우선적으로 명시되어야 합니다.
+- 번역된 자료들의 경우, 원작자들이 우선적으로 명시되어야 합니다. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-ko.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - 제작자들의 정보로 향하는 바로가기 주소는 허가되지 않습니다.
-- 여러 작업물이 조합된 자료의 경우, "제작자"는 설명이 필요할 수 있습니다. 예를 들어, "GoalKicker" 책들의 제작자들은 "`Compiled from StackOverflow documentation`"로 명시되어야 합니다.
+- 여러 작업물이 조합된 자료의 경우, "제작자"는 설명이 필요할 수 있습니다. 예를 들어, "GoalKicker" or "RIP Tutorial" 책들의 제작자들은 "`Compiled from StackOverflow documentation`"로 명시되어야 합니다.
 
 
 ##### 플랫폼과 접속 노트

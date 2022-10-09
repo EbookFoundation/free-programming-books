@@ -10,7 +10,8 @@
 ### Competitive Programming
 
 * [4Clojure](http://www.4clojure.com)
-* [A2 Online Judge](https://a2oj.com)
+* [A2 Online Judge](https://a2oj.netlify.app)
+* [Algorithms for Competitive Programming](https://cp-algorithms.com)
 * [APL Problem Solving Competition](https://contest.dyalog.com)
 * [AtCoder](https://atcoder.jp)
 * [beecrowd](https://www.beecrowd.com.br)
@@ -47,6 +48,7 @@
 * [Techgig](https://www.techgig.com)
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
+* [USACO.guide](https://usaco.guide)
 
 
 ### Capture the flag
@@ -57,7 +59,7 @@
 * [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
-* [Picoctf](https://picoctf.org/resources) (email address *requested*)
+* [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
 
 
@@ -81,7 +83,7 @@
 ### Problem Sets
 
 * [500 Data structures and algorithms interview questions and their solutions in C++](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
-* [A2 Online Judge](https://a2oj.com/ps)
+* [A2 Online Judge](https://a2oj.netlify.app)
 * [Advent Of Code](http://adventofcode.com)
 * [AdventJS - 25 días de retos con JavaScript](https://adventjs.dev) - Miguel Ángel Durán «midudev» *(GitHub account requested, not required)*
 * [Anarchy Golf](http://golf.shinh.org)
@@ -119,6 +121,8 @@
 * [Rosalind](http://rosalind.info/problems/locations/)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical)
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
+* [The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://blog.shahjalalshohag.com/topic-list/) - Shahjalal Shohag
 * [Timus Online Judge](http://acm.timus.ru)
+* [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/#C%20Programming%20Mock%20Tests) - Geeks For Geeks
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Школа программиста](https://acmp.ru)

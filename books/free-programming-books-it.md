@@ -79,7 +79,7 @@
 
 ### Android
 
-* [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
+* [Guida Android](http://www.html.it/guide/guida-android/) - Giuseppe Maggi, Marco Lecce, Vito Gentile (HTML)
 
 
 ### Assembly Language
@@ -91,7 +91,7 @@
 
 ### BASH
 
-* [Guida avanzata per la bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) (PDF)
+* [Guida avanzata di scripting Bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) - Mendel Cooper (PDF)
 * [La guida di Bash per principianti](http://codex.altervista.org/guidabash/guidabash_1_11.pdf) - Machtelt Garrels (PDF)
 * [Programmazione della shell Bash](https://www.aquilante.net/doc/bash_programming.pdf) - Marco Liverani (PDF)
 
@@ -121,7 +121,7 @@
 * [Basi di Dati](http://dbdmg.polito.it/wordpress/teaching/basi-di-dati/) - Apiletti e Cagliero (Politecnico di Torino)
 * [La progettazione dei database relazionali](http://www.crescenziogallo.it/unifg/medicina/TSRM/master_bioimmagini/db/Teoria_pratica_progettazione_db_relazionali.pdf) - C. Gallo (PDF)
 * [Manuale pratico di disegno e progettazione dei database](http://www.brunasti.eu/unimib/bdsi/manuale-pratico-progettazione-ER-100914.pdf) - P. Brunasti (PDF)
-* [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) (HTML)
+* [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) - Giuseppe Maggi (HTML)
 
 
 #### NoSQL

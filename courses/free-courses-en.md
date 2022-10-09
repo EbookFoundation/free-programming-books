@@ -665,7 +665,7 @@
 
 > :information_source: See also &#8230; [Angular](#angular)
 
-* [AngularJS Tutorial for Beginners](https://www.youtube.com/watch?v=9b9pLgaSQuI) - Yaakov Chaikin, My Lesson (YouTube)
+* [AngularJS Tutorial for Beginners](https://www.youtube.com/watch?v=9b9pLgaSQuI) - Yaakov Chaikin (My Lesson)
 * [Egghead.io - AngularJS](https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7) - John Lindquist (YouTube)
 * [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs) - Codecademy (Codecademy account *required*)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js) - Codeschool (Codeschool account *required*)

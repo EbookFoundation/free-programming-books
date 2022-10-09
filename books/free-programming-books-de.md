@@ -85,7 +85,6 @@
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung)
 
 
-
 ### Component Pascal
 
 * [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)

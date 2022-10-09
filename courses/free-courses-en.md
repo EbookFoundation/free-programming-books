@@ -772,12 +772,12 @@
 
 ### Jenkins
 
-* [FREE Advanced Jenkins in K8s (Docker in Docker)](https://coursesity.com/course-detail/free-advanced-jenkins-in-k8s-docker-in-docker?ref=share-link) - coursesity (Google)
-* [Getting Started with Jenkins](https://www.simplilearn.com/learn-jenkins-basics-free-course-skillup) - simplilearn (Google)
-* [Jenkins](https://youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) - Automation Step by Step (YouTube)
-* [Jenkins Full Course | Jenkins Tutorial For Beginners | Jenkins Tutorial | Simplilearn](https://youtu.be/FX322RVNGj4) - Simplilearn (YouTube)
-* [Jenkins Tutorial Videos | DevOps Tool](https://youtube.com/playlist?list=PL9ooVrP1hQOGM6eCsjnfAousUSvpqD8dW) - edureka! (Youtube)
-* [Learning Jenkins (2018)](https://www.linkedin.com/learning/learning-jenkins-14423877?replacementOf=learning-jenkins-2018) - linkedin (Google)
+* [FREE Advanced Jenkins in K8s (Docker in Docker)](https://www.udemy.com/course/free-advanced-jenkins-in-k8s-docker-in-docker) - Nomad Sashi (Udemy)
+* [Jenkins](https://youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) - Raghav Pal (YouTube)
+* [Jenkins Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial) (Greate Learning)
+* [Jenkins Tutorial Step by Step](https://www.youtube.com/playlist?list=PL8VbCbavWfeGt_Hyq0h9Pymi9DTGowd5X) - Pramod Dutta (YouTube)
+* [Jenkins Tutorial Video [2022 updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKGrfcoNYRgqam5YBERN8xa) - Matthew (Youtube)
+* [Learning Jenkins (2018)](https://www.linkedin.com/learning/learning-jenkins-14423877?replacementOf=learning-jenkins-2018) (linkedin)
 
 
 ### Kotlin

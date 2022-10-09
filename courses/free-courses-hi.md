@@ -98,13 +98,6 @@
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
 
-### C#
-
-* [C# in hindi](https://youtu.be/tQlGeD5Jbt0) - Great Learning Academy
-* [C# in hindi](https://youtu.be/KO8oBhToN7s) - sunny games and technology
-* [C# in hindi](https://youtu.be/SuLiu5AK9Ps) - Code with Harry
-* [C# in hindi](https://youtu.be/Vo2LHqjgSl0-c#) - Nikhil Malankar
-
 
 ### Compiler Design
 
@@ -114,6 +107,14 @@
 ### Computer Organization and Architecture
 
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers (YouTube)
+
+
+### Csharp
+
+* [C# in hindi](https://youtu.be/tQlGeD5Jbt0) - Great Learning Academy
+* [C# in hindi](https://youtu.be/KO8oBhToN7s) - sunny games and technology
+* [C# in hindi](https://youtu.be/SuLiu5AK9Ps) - Code with Harry
+* [C# in hindi](https://youtu.be/Vo2LHqjgSl0-c#) - Nikhil Malankar
 
 
 ### Data Structures

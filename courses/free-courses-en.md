@@ -8,6 +8,10 @@
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
 * [Bash / Shell](#bash--shell)
+* [Big Data](#bigdata)
+  * [Hadoop](#hadoop)
+  * [Hive](#hive)
+  * [Spark](#spark)
 * [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#csharp)
@@ -230,6 +234,26 @@
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790) - The Bad Tutorials (YouTube)
 * [Shell Scripting Tutorial \| Shell Scripting Crash Course \| Linux Certification Training \| Edureka](https://www.youtube.com/watch?v=GtovwKDemnI) - edureka!
 * [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) -  ProgrammingKnowledge (YouTube)
+
+
+### Big Data
+
+* [Mastering Big Data Analytics](https://olympus.mygreatlearning.com/courses/10977) - Great Learning
+
+
+#### Hadoop
+
+* [Hadoop Tutorial for Beginners](https://www.youtube.com/watch?v=JK2MdJAWEGc&list=PLlgLmuG_KgbasW0lpInSAIxYd2vqAEPit&ab_channel=GreatLearning) - Great Learning (YouTube)
+
+
+#### Hive
+
+* [Apache Hive Tutorial](https://www.youtube.com/watch?v=MLDcapDQba4&ab_channel=GreatLearning) - Great Learning (YouTube)
+
+
+#### Spark
+
+* [Spark Tutorial](https://www.youtube.com/watch?v=zC9cnh8rJd0&t=9535s&ab_channel=GreatLearning) - Great Learning (YouTube)
 
 
 ### Blockchain

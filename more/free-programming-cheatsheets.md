@@ -140,6 +140,7 @@
 * [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub (HTML)
 * [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (HTML, PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
+* [Git Cheat Sheet (id)](https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e) - Reyhan Alhafizal (HTML)
 
 
 ### Go

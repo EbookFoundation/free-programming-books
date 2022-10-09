@@ -16,7 +16,6 @@
 * [DevOps](#devops)
 * [Docker](#docker)
 * [Flutter](#flutter)
-* [Game Development](#game development)
 * [Git and GitHub](#git-and-github)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)

@@ -13,19 +13,15 @@
 
 
 ### HTML and CSS
-
 * [HTML සිංහලෙන්](https://youtube.com/playlist?list=PLWAgeLqk4SjDlN6nHs91rECgx4PbzfoZh) - SL Geek School (YouTube)
 
 ### Java
-
 * [Sinhala Java Netbeans Lessons](https://youtube.com/playlist?list=PLA3ZeQncjeVu9VHevp2SmPCQ9muVO3fEB) - Chanux Bro (YouTube)
 
 ### JavaScript
-
 * [JavaScript Tutorial in Sinhala](https://youtube.com/playlist?list=PLYmyc7wRFoQjxkHAzHh1UIdU7ZdjTQvQt) - BestJobsLK (YouTube)
 
 ### UoM Open Learning Platform
-
 * [UoM Open Learning Platform](https://open.uom.lk) - UoM
 
 #### React

@@ -37,7 +37,8 @@
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Web Development](#web development)
-
+* [Software Engineering](#software-engineering)
+* [System Design](#system-design)
 
 ### Algorithms
 

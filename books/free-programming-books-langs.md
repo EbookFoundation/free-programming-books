@@ -377,6 +377,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Bash
 
+* [Linux Shell Scripting with Bash](https://github.com/CyberSecByte/ebooks/blob/main/Linux%20Shell%20Scripting%20with%20Bash%20-%20Sams.pdf) - Ken O.Burtch (PDF)
+* [Bash Cookbook](https://github.com/CyberSecByte/ebooks/blob/main/bash%20Cookbook_%20Solutions%20and%20Examples%20for%20bash%20Users%20(%20PDFDrive%20).pdf) - Carl Albing And JB Vossen (PDF)
+* [Command Line Kung Fu_ Bash Scripting Tricks, Linux Shell Programming Tips, and Bash One-liners](https://github.com/CyberSecByte/ebooks/blob/main/Command%20Line%20Kung%20Fu_%20Bash%20Scripting%20Tricks%2C%20Linux%20Shell%20Programming%20Tips%2C%20and%20Bash%20One-liners%20(%20PDFDrive%20).pdf)) - Jason Cannon (PDF)
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
 * [Bash Guide for Beginners (2008)](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
 * [Bash Notes for Professionals](http://goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (PDF)

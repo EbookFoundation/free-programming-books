@@ -243,7 +243,7 @@
 
 #### Hadoop
 
-* [Hadoop Tutorial for Beginners](https://www.youtube.com/watch?v=JK2MdJAWEGc&list=PLlgLmuG_KgbasW0lpInSAIxYd2vqAEPit&ab_channel=GreatLearning) - Great Learning (YouTube)
+* [Apache Hadoop Tutorial for Beginners](https://www.youtube.com/watch?v=JK2MdJAWEGc&list=PLlgLmuG_KgbasW0lpInSAIxYd2vqAEPit&ab_channel=GreatLearning) - Great Learning (YouTube)
 
 
 #### Hive
@@ -253,7 +253,7 @@
 
 #### Spark
 
-* [Spark Tutorial](https://www.youtube.com/watch?v=zC9cnh8rJd0&t=9535s&ab_channel=GreatLearning) - Great Learning (YouTube)
+* [Apache Spark Tutorial](https://www.youtube.com/watch?v=zC9cnh8rJd0&t=9535s&ab_channel=GreatLearning) - Great Learning (YouTube)
 
 
 ### Blockchain

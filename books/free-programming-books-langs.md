@@ -1275,6 +1275,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Remix
 
 * [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
+* [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
 
 
 #### Svelte

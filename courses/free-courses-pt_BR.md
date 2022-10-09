@@ -252,7 +252,6 @@
 * [TypeScript com NodeJS do jeito certo! | Diego Fernandes ](https://www.youtube.com/watch?v=aTf8QTjw4RE&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei) - Rocketseat (YouTube)
 
 
-
 ### PHP
 
 * [Boas práticas em PHP](https://www.udemy.com/boas-praticas-em-php/) - Diego Mariano (Udemy)

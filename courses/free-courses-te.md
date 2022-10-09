@@ -6,7 +6,7 @@
 * [Automata Theory](#automata-theory)
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
-* [C++](#c++)
+* [C++](#c-1)
 * [Cloud Computing](#cloud-computing)
 * [Compiler Design](#compiler-design)
 * [CSS](#css) 
@@ -24,16 +24,12 @@
 * [MongoDB](#mongodb)
 * [NextJS](#nextjs)
 * [NodeJS](#nodejs)
+* [NPTEL](#nptel)
 * [PHP](#php)
 * [Python](#python)
 * [ReactJS](#reactjs)
 * [SQL](#sql)
 * [VueJs](#vuejs)
-
-
-## NPTEL
-
-* [Various Courses in Telugu](https://sites.google.com/nptel.iitm.ac.in/translated-ebook/telugu)
 
 
 ### Android
@@ -174,6 +170,11 @@
 
 * [NodeJS Tutorial](https://www.youtube.com/watch?v=MY2Vxtfn5Tw) - Telugu Skillhub
 * [NodeJS Playlist](https://www.youtube.com/playlist?list=PLYnehuuSeAHtu27M2By66v6kJpF_oDR5I) - Know something!!!
+
+
+## NPTEL
+
+* [Various Courses in Telugu](https://sites.google.com/nptel.iitm.ac.in/translated-ebook/telugu)
 
 
 ### PHP

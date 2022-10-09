@@ -43,6 +43,7 @@
 * [LeetCode](https://leetcode.com)
 * [LightOJ](https://lightoj.com)
 * [Microcorruption](https://microcorruption.com/login)
+* [Newton School](https://my.newtonschool.co/contest/all)
 * [oj.uz](https://oj.uz)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Techgig](https://www.techgig.com)
@@ -99,6 +100,7 @@
 * [Coding Bat](http://codingbat.com/java)
 * [Coding Interview Questions and answers for practice \| Python, Java & C++](https://www.codingninjas.com/codestudio/problems) - CodingNinjas
 * [CSES Problem Set](https://cses.fi/problemset/)
+* [Dynamic A2OJ](https://a2oj.herokuapp.com/)
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](https://practice.geeksforgeeks.org)

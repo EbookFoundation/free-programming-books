@@ -10,6 +10,7 @@
 * [C](#c)
 * [C++](#cpp)
 * [C#](#c#)
+* [Competitive Programming](#competitive-programming)
 * [Compiler Design](#compiler-design)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Data Structures](#data-structures)
@@ -36,9 +37,9 @@
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
-* [Web Development](#web development)
 * [Software Engineering](#software-engineering)
 * [System Design](#system-design)
+* [Web Development](#web development)
 
 ### Algorithms
 

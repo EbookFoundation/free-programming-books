@@ -59,8 +59,8 @@
 ### Software Libre
 
 * [Compilando Podcast](https://compilando.audio) - Paco Estrada (podcast)
-* [Podcast Linux](https://podcastlinux.com) - Juan Febles (podcast)
 * [Mangocast](https://www.mangocast.net) - Lucho Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia (podcast)
+* [Podcast Linux](https://podcastlinux.com) - Juan Febles (podcast)
 
 
 ### Variados

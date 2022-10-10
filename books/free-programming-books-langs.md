@@ -2091,6 +2091,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Raspberry Pi Users Guide (2012)](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
 * [The Official Raspberry Pi Handbook 2023](https://magpi.raspberrypi.com/books/handbook-2023) - The MagPi magazine (PDF)
 * [The Official Raspberry Pi Project Book 1 (2015)](https://magpi.raspberrypi.com/books/projects-1) (PDF)
+* [The Official Raspberry Pi Project Book 2 (2016)](https://magpi.raspberrypi.com/books/projects-2) (PDF)
 
 
 ### REBOL

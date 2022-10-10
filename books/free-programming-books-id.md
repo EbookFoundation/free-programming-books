@@ -127,6 +127,7 @@
 ### Machine Learning
 
 * [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Indonesia Belajar
+* [Machine Learning] (https://www.tutorialspoint.com/machine_learning/machine_learning_tutorial.pdf) - www.tutorialspoint.com
 
 
 ### MySQL

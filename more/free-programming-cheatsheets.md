@@ -308,6 +308,7 @@
 * [Django Web App Beginners Cheat sheet](https://ordinarycoders.com/blog/article/django-beginners-guide) - Jaysha (HTML)
 * [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)
 
+
 #### Flask
 
 * [Flask Cheatsheet](https://www.codewithharry.com/blogpost/flask-cheatsheet/) - Code with Harry (HTML)

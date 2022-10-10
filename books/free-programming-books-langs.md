@@ -1605,6 +1605,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Nim Basics](https://narimiran.github.io/nim-basics) - narimiran
 * [Nim by Example](https://nim-by-example.github.io) - Flaviu Tamas
 * [Nim Days](https://xmonader.github.io/nimdays) - Ahmed Thabet
+* [Nim - How I Start](https://howistart.org/posts/nim/1/index.html) - Dennis Felsing
 
 
 ### NoSQL

@@ -62,6 +62,7 @@
 ### Flutter
 
 * [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
+* [FLUTTER DAN FLUTLAB](https://utter.academy/uploads/lesson_files/2f0c5c74e9488d4c9c734e4264e5869e.pdf) - Utter academy (PDF)
 
 
 ### Git

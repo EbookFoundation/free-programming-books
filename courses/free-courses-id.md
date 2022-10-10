@@ -187,6 +187,8 @@
 * [ReactJS Untuk Pemula](https://www.petanikode.com/reactjs-untuk-pemula/) - Petani Kode
 * [Tutorial React JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - Lampung JS
 * [Tutorial React Native Bahasa Indonesia (Futsal App)](https://www.youtube.com/playlist?list=PLIan8aHxsPj2NeWJew3o86bSptVPXOppa) - Wahidev Academy
+* [MicroFrontend Dengan React Bahasa Indonesia](https://www.youtube.com/watch?v=q-m70Ww3gqk) - Tekno Bareng Peter
+* [Belajar Testing pada React Dengan Jest dan React Testing Library](https://www.youtube.com/watch?v=yR-NqwbkFgc&list=PLU4DS8KR-LJ1e5H4bX6rCTwBvSl2cll6a) - Prawito Hudoro
 
 
 #### Vue

@@ -112,6 +112,7 @@
 ### Algorithms & Data Structures
 
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) - Erik Demaine
+* [Advanced Data Structures](https://www.youtube.com/playlist?list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT) - Uzair Javed Akhtar
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
 * [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
 * [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Pasan Premaratne, Jay McGavren (freeCodeCamp)
@@ -723,6 +724,7 @@
 * [Frontend Armory: React Fundamentals](https://frontarm.com/courses/react-fundamentals/) - James K. Nelson
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
 * [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)
+* [Learn React for Free](https://scrimba.com/learn/learnreact) - Bob Ziroll (scrimba)
 * [React](https://progate.com/languages/react) (progate) *(account required)*
 * [React basic in just 1 hour](https://www.udemy.com/course/react-basic-in-just-1-hour/) (Udemy)
 * [React Context & Hooks Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) - The Net Ninja
@@ -917,6 +919,7 @@
 ### PHP
 
 * [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape (2019)
+* [Laravel From Scratch 2022 \| 4+ Hour Course](https://www.youtube.com/watch?v=MYyJ4PuL4pY) - Traversy Media (YouTube)
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
 * [Learn PHP The Right Way - Full PHP Tutorial for Beginners & Advanced](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) - Program With Gio
 * [Learn Top Ten Frameworks In PHP By Building Projects](https://www.eduonix.com/courses/Web-Development/learn-top-ten-frameworks-in-php-by-building-projects) - Eduonix Learning Solutions *(account or email address required)*

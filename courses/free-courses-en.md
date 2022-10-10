@@ -974,6 +974,7 @@
 * [Python Built in Functions A to Z Tutorial and Examples](https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X) - Brainy Things
 * [Python Course](https://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
+* [Python Crash course - Python Full Course for all beginners](https://youtu.be/f79MRyMsjrQ) - Programming with mosh
 * [Python Data Analysis](https://www.coursera.org/learn/python-analysis) - Scott Rixner, Joe Warren (Coursera)
 * [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - Joseph Santarcangelo (Coursera)
 * [Python for Everybody](https://www.py4e.com/lessons) (Coursera Reading Materials with YouTube Videos)
@@ -990,7 +991,6 @@
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) - Tech With Tim
 * [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Moshfegh Hamedani (Programming with Mosh)
 * [Python tutorial for beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tss0puRoHDBagvj7Qjin9axl) - ProgrammingWithHarry
-* [Python Crash course - Python Full Course for all beginners](https://youtu.be/f79MRyMsjrQ) - Programming with mosh
 * [Python Tutorial for Beginners - Learn Python in 5 Hours \[FULL COURSE\]](https://www.youtube.com/watch?v=t8pPdKYpowI) - Nana Janashia (TechWorld with Nana)
 * [Python Tutorial For Beginners (With Notes)](https://www.youtube.com/watch?v=EyEqWFvLDT8) - ProgrammingWithHarry
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - Programming with Mosh (YouTube)

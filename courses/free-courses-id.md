@@ -243,7 +243,7 @@
 * [Tutorial React Native Bahasa Indonesia (Futsal App)](https://www.youtube.com/playlist?list=PLIan8aHxsPj2NeWJew3o86bSptVPXOppa) - Wahidev Academy
 * [Tutorial React Native Indonesia](https://youtube.com/playlist?list=PLU4DS8KR-LJ3SP3PpRb870UoT_0_rjLpV) - Prawito Hudoro (YouTube)
 * [MicroFrontend Dengan React Bahasa Indonesia](https://www.youtube.com/watch?v=q-m70Ww3gqk) - Tekno Bareng Peter
-* [Belajar Testing pada React Dengan Jest dan React Testing Library](https://www.youtube.com/watch?v=yR-NqwbkFgc&list=PLU4DS8KR-LJ1e5H4bX6rCTwBvSl2cll6a) - Prawito Hudoro
+* [Belajar Testing Pada React Dengan Jest Dan React Testing Library](https://www.youtube.com/watch?v=yR-NqwbkFgc&list=PLU4DS8KR-LJ1e5H4bX6rCTwBvSl2cll6a) - Prawito Hudoro
 
 
 #### Vue.js

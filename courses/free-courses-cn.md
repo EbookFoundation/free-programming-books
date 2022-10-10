@@ -1,23 +1,20 @@
 ### Index
 
-* [Index](#index)
-* [Computer Networking Full Course](#computer-networking-full-course)
-* [The OSI Model by Example](#the-osi-model-by-example)
-* [Working of OSI Model](#working-of-osi-model)
 
 
-### Computer Networking Full Course
-
-* [Kunal Kushwaha](https://youtu.be/IPvYjXCsTg8) - Kunal Kushwaha
-
-
-### The OSI Model by Example
-
-* [Hussein Nasser](https://youtu.be/eNF9z5JNl-A) - Hussein Nasser
+* [Computer Networking](#computer-networking)
+* [OSI Model](#osi-model)
 
 
-### Working of OSI Model
+### Computer Networking
 
-* [NetworkChuck](https://youtu.be/oIRkXulqJA4) - NetworkChuc
+* [Kunal Kushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8&ab_channel=KunalKushwaha) - Kunal Kushwaha
+
+
+### OSI Model
+
+* [Hussein Nasser](https://www.youtube.com/watch?v=eNF9z5JNl-A&ab_channel=HusseinNasser) - Hussein Nasser
+
+* [NetworkChuck](https://www.youtube.com/watch?v=oIRkXulqJA4&feature=youtu.be&ab_channel=NetworkChuck) - NetworkChuck
 
 

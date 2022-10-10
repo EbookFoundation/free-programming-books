@@ -35,6 +35,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Operating Systems](#operating-systems)
 * [Parallel Programming](#parallel-programming)
 * [Partial Evaluation](#partial-evaluation)
+* [Penetration Testing](#penetration-testing)
 * [Professional Development](#professional-development)
 * [Programming Paradigms](#programming-paradigms)
 * [Quantum Computing](#quantum-computing)
@@ -688,6 +689,11 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Partial Evaluation
 
 * [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - Neil D. Jones, C.K. Gomard, Peter Sestoft (PDF)
+
+
+### Penetration Testing 
+
+* [Penetration Testing: A Hands-On Introduction to Hacking](https://repo.zenk-security.com/Magazine%20E-book/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf) - Georgia Weidman (PDF)
 
 
 ### Professional Development

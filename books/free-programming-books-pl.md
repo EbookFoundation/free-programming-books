@@ -68,6 +68,7 @@
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) - Wikibooks (PDF)
 * [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
+* [Let Us C](https://bcebakhtiyarpur.org/wp-content/uploads/2020/03/file_5e747d69ab58e.pdf) (PDF)
 
 
 ### <a id="csharp"></a>C\#

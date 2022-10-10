@@ -341,8 +341,8 @@
 ### Data Engineering
 
 * [Apache Airflow Tutorials](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2) - Tuan Vu (YouTube)
-* [Data Engineering](https://www.youtube.com/playlist?list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO) - Kahan Data Solutions (YouTube)
 * [Data Build Tool (dbt)](https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT) - Kahan Data Solutions (YouTube)
+* [Data Engineering](https://www.youtube.com/playlist?list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO) - Kahan Data Solutions (YouTube)
 
 
 ### Data Science

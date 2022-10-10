@@ -1129,9 +1129,9 @@
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath (YouTube)
 * [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
 * [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) - (CodeAcademy)
+* [TypeScript Course for Beginners- Learn TypeScript from Scratch!](https://youtu.be/BwuLxPH8IDs) - Academind (YouTube)
 * [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
-* [TypeScript Course for Beginners - Learn TypeScript from Scratch!](https://youtu.be/BwuLxPH8IDs) - Academind (YouTube)
-* [TypeScript Tutorial for Beginners- 2022](https://youtu.be/d56mG7DezGs) - Programming with Mosh,(YouTube)
+* [TypeScript Tutorial for Beginners- 2022](https://youtu.be/d56mG7DezGs) - Programming with Mosh (YouTube)
 
 
 #### Angular

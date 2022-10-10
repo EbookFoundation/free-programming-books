@@ -746,6 +746,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Security
 
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
+* [Android Security Internals: An In-Depth Guide to Android's Security Architecture](https://github.com/EbookFoundation/free-programming-books/files/9746129/AndroidSecurityInternals.pdf) - Nikolay Elenkov (PDF)
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 * [Cryptography](https://en.wikibooks.org/wiki/Cryptography) - Wikibooks (HTML) (:construction: *in process*)
 * [CryptoParty Handbook](https://unglue.it/work/141611/)
@@ -760,9 +761,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [The Joy of Cryptography (2021)](https://web.engr.oregonstate.edu/~rosulekm/crypto/) - Mike Rosulek (PDF) (:construction: *in process*)
-* [Android Security Internals: An In-Depth Guide to Android's Security Architecture](https://github.com/EbookFoundation/free-programming-books/files/9746129/AndroidSecurityInternals.pdf) - Nikolay Elenkov (PDF)
-* [Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](https://github.com/EbookFoundation/free-programming-books/files/9746154/Violent-Python--A-Cookbook-for-Hackers.-Forensic-Analysts.-Penetration-Testers-and-Security-Engineers.pdf) - TJ O'Connor (PDF)
 * [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition](https://github.com/EbookFoundation/free-programming-books/files/9746172/The_Web_Application_Hackers_Handbook-Second_Edition.pdf) - Dafydd Stuttard (PDF)
+* [Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](https://github.com/EbookFoundation/free-programming-books/files/9746154/Violent-Python--A-Cookbook-for-Hackers.-Forensic-Analysts.-Penetration-Testers-and-Security-Engineers.pdf) - TJ O'Connor (PDF)
 
 
 ### Software Architecture

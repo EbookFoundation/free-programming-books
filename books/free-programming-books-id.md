@@ -141,6 +141,7 @@
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
 * [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Tutorial Node js untuk pemula Full Tutorial](https://mfikri.com/artikel/tutorial-nodejs) - Mfikri (HTML)
+* [NodeJS Tutorial] (https://www.academia.edu/41560052/NodeJS_Tutorial) - Jenny Bush (PDF)
 
 
 ### NoSQL

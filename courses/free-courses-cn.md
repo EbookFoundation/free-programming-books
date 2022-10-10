@@ -1,7 +1,6 @@
 ### Index
 
 
-
 * [Computer Networking](#computer-networking)
 * [OSI Model](#osi-model)
 

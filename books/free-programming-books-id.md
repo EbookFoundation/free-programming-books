@@ -37,6 +37,7 @@
 ### C
 
 * [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian (:construction: *in process*)
+* [1440 MENIT BELAJAR C++ UNTUK PEMULA](https://adoc.pub/1440-menit-belajar-c-untuk-pemula.html#google_vignette) - Harjanti Hartono
 
 
 ### <a id="csharp"></a>C\#

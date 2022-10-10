@@ -482,8 +482,9 @@
 * [Platform Game Development w/ Construct 2](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAp287UuTE0-K7Ty-b8rGAX) - thenewboston
 * [Pygame (Python Game Development)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq) - thenewboston
 * [Run Bunny, Run! Creating a 2D game in Unity](https://www.youtube.com/playlist?list=PLvUqRm2B9RRBgJipfDmFR7sFhEwBn7aGT) - Rabidgremlin
-* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals) - Pluralsight Company (Unity Learn)
 * [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) (Brackeys)
+* [Unity Essentials](https://learn.unity.com/pathway/unity-essentials) - Unity Learn
+* [Unity Game Dev: Fundamentals - PluralSight](https://www.pluralsight.com/paths/unity-game-development-core-skills) - Pluralsight
 * [Unity User Manual](https://docs.unity3d.com/Manual/)
 
 

@@ -1094,6 +1094,7 @@
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
 
+
 ### Software Automation Testing
 
 * [Appium- Mobile Automation Testing](https://www.youtube.com/watch?v=Fx3ud5wMHYc) - Rahul Shetty Academy (YouTube)
@@ -1102,6 +1103,7 @@
 * [Robot Framework Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faORDOyJrk0E6k9FM-wKgfPV) - Software Testing Mentor (YouTube)
 * [Selenium Full Course- Learn Selenium in 12 Hours](https://www.youtube.com/watch?v=FRn5J31eAMw) - Edureka (YouTube)
 * [Selenium WebDriver Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faPB-LyEP0-a7Avp_RHO0Lsm) - Software Testing Mentor (YouTube)
+
 
 ### Solidity
 

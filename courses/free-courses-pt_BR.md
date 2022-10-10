@@ -358,6 +358,7 @@
 * [Boas Práticas de Segurança da Informação para Sua Empresa](https://www.udemy.com/course/empresa-mais-segura/) - Afonso da Silva E. (Udemy)
 * [Segurança da Informação: Por onde iniciar sua carreira](https://www.udemy.com/course/seguranca-da-informacao-por-onde-iniciar-sua-carreira/) - Alexandro Silva (Udemy)
 
+
 ### SEO
 
 * [Curso prático de SEO](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90) - Gustavo Guanabara, Curso em Video (YouTube)

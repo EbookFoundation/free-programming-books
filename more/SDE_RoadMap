@@ -1,0 +1,120 @@
+"SDE 1 Interview Preparation Roadmap for Product-Based Companies" is aimed at helping students, freshers and professionals prepare for entry-level software engineering jobs at top tech product-based companies and startups.
+
+This guide will help you create a roadmap for generic SDE, fullstack and backend developer roles. For frontend roles, you might have to spend more time on building strong foundations of frontend-related concepts and building relevant projects.
+
+The guide focuses on building foundations and solving problems to do well in tech interviews of companies like Amazon, Flipkart, Google, Microsoft, Uber, etc. You might want to go through this guide and create your own roadmap depending on your learning pace and interests.
+
+Abbreviations
+CS: Computer Science
+DSA: Data Structures & Algorithms
+OOP: Object-Oriented Programming
+DBMS: Database Management Systems
+OS: Operating Systems
+PS/DS round: Problem Solving, Data Structures & Algorithms Round
+General advice
+Do not fall into the tutorial hell
+Supplement (reading/watching) good tutorials with implementation.
+The number of tutorials you go through is not correlated to your learning.
+Avoid skimming through solutions to past interview questions
+Focus on using your problem-solving skills to actually solve and code problems related to DSA.
+Relying totally on past interview problems without having a very strong foundation and good problem-solving skills is one of the biggest reasons for failures in interviews.
+Don’t look at solutions before putting much effort
+While solving problems, avoid going through the solution before actually spending a lot of time in solving it yourself.
+If it belongs to a new topic then go through that particular topic and then come back to the problem.
+Write readable code
+Use meaningful variable names and make your code modular, wherever possible.
+This would help a lot during both PS/DS interview and machine coding round.
+You may go through “How to prepare for Machine Coding Round?” to understand how to write readable code.
+Know your projects well
+If you’ve done projects (self-projects/jobs/internships/college projects), you should be able to explain everything about your projects.
+Try to map stories from each of your projects to different types of behavioral questions.
+Situational questions from “Cracking the Coding Interview”:
+Most Challenging Thing
+Biggest Learnings
+Most Interesting Thing
+Hardest Bug
+Enjoyed Most
+Conflicts with Teammates
+Create a resume
+Follow resume best practices
+Use a good resume format
+Keep updating your resume based on your performance in competitive programming, addition of new projects/internships, open-source contribution, etc
+Build Foundation (~First 6 months)
+Learn to code in any language of your choice with a strong focus on foundations
+You should aim to get so comfortable in coding that if you’re told the high-level solution, you should be able to code it without much thinking.
+You should also learn how to calculate the time and space complexity of a solution. Many people avoid this step and face difficulty in optimizing their solutions.
+In my opinion, it is a good idea to start with C and then move to any high-level language of your choice (C++, Java, Python, JavaScript, etc).
+Have a strong grasp on Data Structures and Algorithms (DSA)
+The most common data structures that you should master are Array, Linked List, Stack, Queue, HashMap, Tree, Graph and Heap.
+The most common types of algorithms are String Manipulation, Two Pointers, Searching, Sorting, Backtracking, Bit Manipulation, and Dynamic Programming.
+You should be extremely confident with coding major data structures and algorithms after this step.
+You should be able to derive the time and space complexity for those. It would be great if you can tell them off the top of your head.
+Learn Object-Oriented Programming (OOP, commonly known as OOPs)
+Learn to code in the language of your choice using the OOP paradigm.
+Learn the common OOP features (Abstraction, Encapsulation, Inheritance, Polymorphism)
+Have strong foundations of other CS subjects (DBMS, OS, Networking, etc.)
+Try to understand the concepts instead of just memorizing stuff.
+Make sure to create notes of all the important concepts for each of the subjects. Those would be extremely helpful closer to the interviews.
+Practice for interviews (~Last 6 months)
+Solve Problem-Solving, Data Structures & Algorithms problems
+Focus on solving problems related to data structures, algorithms and problem-solving.
+Try to have 100% coverage for all the topics.
+Learn Good Coding Practices
+Go through Design Principles to make your code follow good coding practices.
+You should be able to see a change in your coding style after this step.
+Following these design principles should be good enough at this stage:
+DRY (Don’t repeat yourself)
+KISS (Keep it simple, stupid)
+YAGNI (You aren’t gonna need it)
+SOLID Principles
+Separation of Concerns
+Get ready for Interviews (~Last 2 months)
+Confidence in Problem-Solving, Data Structures & Algorithms (PS/DS)
+Focus on topics where you’re facing difficulties.
+Work on strengthening your foundations of those topics.
+After that, solve problems related to those.
+You should be extremely confident about all the topics before the start of the last month.
+Practice a few machine coding problems
+Try to solve each machine coding problem within 1.5 hours.
+After solving a problem, go through the solutions of others and use the learnings in those while solving the next problem.
+You should be extremely confident in solving machine coding problems within 1.5 hours with readable code and a decent design.
+Refine CS foundations notes
+Go through the notes that you’ve created for all the CS subjects.
+You might have to update some of those notes at this point.
+Go through the topics where you’re facing difficulty and update your notes.
+Fix common interview mistakes
+Go through How to ace the Problem Solving/Data Structures & Algorithms Round? to understand the DOs and DONTs of interviews.
+Start coding a few problems on whiteboard or paper to get used to it.
+Start Revision (Last 1 month)
+Try to solve some problems from each of the DSA topics
+Start with the common questions and questions that you’ve previously faced difficulty solving.
+Go through the notes that you’ve created for all the CS subjects.
+Go through details about your projects in-depth
+Make sure that you’re able to map situational questions to real stories from your projects off the top of your head.
+Mock interviews
+Try to have around 10-15 mock interview sessions to check your preparation.
+Try to identify your strengths and weaknesses and make sure to fix your weaknesses and all common interview mistakes through the mock interviews.
+Between Foundation and Practice
+If you've more than 1 year, try almost all of these based on how much time you've but make sure to stick to at least one. These will make you a better programmer/developer and would add significantly to your resume.
+
+Competitive programming (CP)
+Try out competitive programming.
+CP will help sharpen your problem-solving skills and will help you become a better programmer.
+Try to do well in ACM ICPC and similar contests.
+Open Source
+Try out open-source contribution.
+This may help you learn good coding practices by working on projects used by a lot of people.
+Try to get into GSoC or similar programs.
+Self-projects
+Try to do self-projects to learn and explore how to develop software.
+This may help you become a better developer and will also add a lot to your resume.
+Internships
+Try to get an internship, if possible.
+Even if you're getting an unpaid work-from-home internship, take it as you would get to learn a lot.
+Avoid paid training programs. Training certifications are generally not valuable. On the job, you would be required to learn stuff on your own so it is better to be prepared for self-learning.
+Academia Projects
+Try to get projects with professors from your college or other colleges.
+It is a good way to start working on research and development projects.
+You might want to overlap these with the foundation and practice part to have a better learning experience.
+
+We hope that this guide will be helpful for you in your interview preparation journey. Please share this with your friends and your network to help them achieve their goals.

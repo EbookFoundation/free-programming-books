@@ -1194,5 +1194,5 @@
 
 #### Webpack
 
-* [Webpack Beginner](https://www.codeinwp.com/blog/webpack-tutorial-for-beginners/)- Louis Lazaris (HTML)
+* [Webpack Beginner](https://www.codeinwp.com/blog/webpack-tutorial-for-beginners/) - Louis Lazaris (HTML)
 

@@ -4,10 +4,11 @@
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
 * [C++](#cpp)
+* [Data Structures and Algorithms](#dsa)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [Machine Learning](#machinelearning)
+* [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [Python](#python)
 * [SQL](#sql)
@@ -35,6 +36,12 @@
 * [C++ Programming in Tamil](https://youtube.com/playlist?list=PLWbtDrDnmTHBPD-Dt5BJi7iP11x6UvgU0) - CS in Tamil
 
 
+### <a id="dsa"></a>Data Structures and Algorithms
+
+* [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - 
+CSE Tamila by Eezytutorials
+
+
 ### HTML and CSS
 
 * [CSS in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh) - CyberDude Networks Pvt. Ltd.
@@ -59,6 +66,7 @@
 
 * [Introduction to Machine Learning(Tamil)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX) - IIT Madras NPTEL
 * [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD) - Majaa Matrix
+* [Machine Learning in Tamil](https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM) - Nithya Duraisamy
 
 
 ### PHP

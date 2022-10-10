@@ -44,7 +44,6 @@
 
 ### Android
 
-* [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) - Dicoding, membutuhkan registrasi
 * [Belajar Android Studio](https://www.malasngoding.com/category/android-studio/) - Muzanni (Malas Ngoding)
 * [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) - Dicoding, membutuhkan registrasi
 * [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) - Dicoding, membutuhkan registrasi
@@ -168,6 +167,7 @@
 * [Belajar FLEXBOX](https://www.youtube.com/playlist?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k) - Web Programming UNPAS
 * [Belajar HTML](https://alwaysngoding.com/belajar-html/teori) -  Muhammad Saleh Solahudin, Always Ngoding (account *required*)
 * [Belajar HTML 5](https://www.youtube.com/playlist?list=PLFIM0718LjIX-K5eeHRImnZhPUMhsw9A7) - Sandhika Galih, Web Programming UNPAS
+* [Belajar TAILWINDCSS](https://youtube.com/playlist?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h) - Web Programming UNPAS
 * [CSS Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p) - Web Programming UNPAS
 * [CSS Grid](https://www.youtube.com/playlist?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw) - Web Programming UNPAS
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
@@ -283,6 +283,7 @@
 ### Machine Learning
 
 * [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177) - Dicoding, membutuhkan registrasi
+* [Belajar Machine Learning Dari Awal Buat Yang Ga Jago Matematika](https://www.youtube.com/watch?v=WH1SduDRL_Y&t=2s) - array id (Youtube)
 * [Classic Time Series Forecasting \| Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Ms7wr2zgtcC4LaE_NHQAEjx) - Wira DKP, JCOp Untuk Indonesia (YouTube)
 * [Nusantech Webinar - Introduction to Machine Learning](https://www.youtube.com/watch?v=SezDD2ULQ1o) - Nusantech, Galuh Sahid 
 * [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Setia Budi, Indonesia Belajar (YouTube)

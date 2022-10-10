@@ -226,6 +226,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### ABAP
 
+* [SAP AWS Technical Documentation](https://aws.amazon.com/sap/docs/)
 * [SAP Code Style Guides - Clean ABAP](https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP.md)
 
 

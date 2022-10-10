@@ -84,7 +84,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
-
+* [Belajar Membuat Game untuk Pemula](https://www.dicoding.com/academies/58) - Dicoding, membutuhkan registrasi
 
 ### Construct
 

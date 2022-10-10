@@ -189,6 +189,7 @@
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri (HTML)
+* [Membangun Antarmuka Pengguna Menggunakan ReactJs untuk Modul Manajemen Pengguna](https://journal.uii.ac.id/AUTOMATA/article/download/19443/11544/54661) - Satrio Krisna Murti (PDF)
 
 
 ### Solidity

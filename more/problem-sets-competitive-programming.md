@@ -100,8 +100,8 @@
 * [Coding Bat](http://codingbat.com/java)
 * [Coding Interview Questions and answers for practice \| Python, Java & C++](https://www.codingninjas.com/codestudio/problems) - CodingNinjas
 * [CSES Problem Set](https://cses.fi/problemset/)
-* [Dynamic A2OJ Ladder](https://a2oj.herokuapp.com)
 * [DSA Learning Series](https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa)
+* [Dynamic A2OJ Ladder](https://a2oj.herokuapp.com)
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](https://practice.geeksforgeeks.org)

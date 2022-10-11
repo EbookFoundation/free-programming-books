@@ -1,10 +1,10 @@
 ### Index 
-* [What is solidity ?](#What_is_Solidity_?) 
+* [What is solidity ?](#What_is_Solidity) 
 * [Solidity Video](#Solidity_Video_Courses)
 
 
 
-### What_is_Solidity ?
+### What_is_Solidity
 * [Solidity 101](https://medium.com/coinmonks/solidity-101-eec816744e95) - Medium
 * [Solidity Official](https://soliditylang.org) 
 * [Solidity Tutorial](https://medium.com/edureka/solidity-tutorial-ca49906bdd47) - Medium

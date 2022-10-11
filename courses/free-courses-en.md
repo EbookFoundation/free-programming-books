@@ -1109,9 +1109,9 @@
 ### Solidity
 
 * [Learn Solidity](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg) - Will it Scale (YouTube)
+* [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ) - Patrick Collins
 * [MASTER Solidity for Blockchain](https://youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g) - Dapp University (YouTube)
 * [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY) - Gregory McCubbin @ freeCodeCamp.org & Dapp University (YouTube)
-* [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ) - Patrick Collins
 * [Solidity Tutorial](https://www.youtube.com/watch?v=p3C7jljTXaA&list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea) - EatTheBlocks
 * [Solidity 101](https://www.youtube.com/watch?v=5eLqFac5Tkg&list=PLYORQHvGMg-WS5r8UjaWnnAeCHTH3wRaF) - Secureum
 * [Solidity 201](https://www.youtube.com/watch?v=0kx8M4u5980&list=PLYORQHvGMg-V9w6UZ_YOQYjG5NPqnRwdc) - Secureum

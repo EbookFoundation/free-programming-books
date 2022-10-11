@@ -795,6 +795,12 @@
 * [Learning Jenkins (2018)](https://www.linkedin.com/learning/learning-jenkins-14423877?replacementOf=learning-jenkins-2018) (Linkedin)
 
 
+### Julia
+
+* [GeoStats.jl Tutorials](https://www.youtube.com/playlist?list=PLsH4hc788Z1f1e61DN3EV9AhDlpbhhanw) - Julio Hoffimann (YouTube)
+* [Julia Tutorials (Basic)](https://www.youtube.com/playlist?list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE) - The Julia Programming Language (YouTube)
+
+
 ### Kotlin
 
 * [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) (Udacity)

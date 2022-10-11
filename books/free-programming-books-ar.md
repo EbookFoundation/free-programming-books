@@ -5,7 +5,6 @@
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
 * [C#&lrm;](#csharp)
-* [DB & DBMS](#db--dbms)
 * [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [Java](#java)
@@ -41,11 +40,6 @@
 ### <a id="csharp"></a>C#&lrm;
 
 * [سبيلك المختصر لتعلم لغة c#&lrm; - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani&rlm; (PDF)
-
-
-### DB & DBMS
-
-* [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt, Nelson Eng، ترجمة أيمن طارق وعلا عباس (PDF)
 
 
 ### HTML and CSS

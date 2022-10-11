@@ -28,6 +28,7 @@
 * [Digital Electronics](#digital-electronics)
 * [Docker](#docker)
 * [Elastic](#elastic)
+* [Fortran](#fortran)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git](#git)
@@ -452,6 +453,10 @@
 * [Kibana Fundamentals](https://www.elastic.co/training/kibana-fundamentals) - Elastic
 * [Observability Fundamentals](https://www.elastic.co/training/observability-fundamentals) - Elastic
 * [Workplace Search Fundamentals](https://www.elastic.co/training/workplace-search-fundamentals) - Elastic
+
+
+### Fortran
+* [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas (YouTube)
 
 
 ### Flutter

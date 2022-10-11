@@ -1483,6 +1483,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
 * [Lua Tutorial](http://www.tutorialspoint.com/lua/) - Tutorials Point (HTML, PDF)
 * [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
+* [Programming in Lua (fourth edition)] https://moys.gov.iq/upload/common/Programming_in_Lua%2C_4th_ed._%282017%29_.pdf - Roberto I. (PDF)
 
 
 ### Make

@@ -12,6 +12,7 @@
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
+* [GraphQL](#graphql)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -32,6 +33,7 @@
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -41,6 +43,7 @@
 * [SpringBoot](#springboot)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
+* [Webpack](#webpack)
 
 
 ### APL
@@ -148,6 +151,11 @@
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 * [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
+
+
+### GraphQL
+
+* [GraphQL Cheatsheet]([https://devhints.io/go](https://devhints.io/graphql)) - devhints, Rico Santa Cruz (HTML)
 
 
 ### HTML and CSS
@@ -308,6 +316,11 @@
 * [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)
 
 
+#### Flask
+
+* [Flask Cheatsheet](https://www.codewithharry.com/blogpost/flask-cheatsheet/) - Code with Harry (HTML)
+
+
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
@@ -362,3 +375,8 @@
 * [DeepLearning- Keras & TF Cheat Sheet](https://cheatography.com/chesterhsieh/cheat-sheets/deeplearning-keras-and-tf/pdf/) - Chester Hsieh, Cheatography (PDF) *(:construction: in process)*
 * [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) - Secret data scientist (HTML)
 * [TensorFlow v2.0 Cheat Sheet](https://web.archive.org/web/20200922212358/https://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf) - Altoros (PDF) *(:card_file_box: archived)*
+
+
+### Webpack
+
+* [Webpack cheatsheet](https://devhints.io/webpack) - devhints, Rico Santa Cruz (HTML)

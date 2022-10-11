@@ -248,7 +248,9 @@
 ### Kubernetes
 
 * [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet (HTML)
+* [Kubernetes Cheat Sheet](https://www.mirantis.com/blog/kubernetes-cheat-sheet/) - Nick Chase (HTML)
 * [Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects](https://spacelift.io/blog/kubernetes-cheat-sheet) - Spacelift (HTML)
+
 
 
 ### Language Translations

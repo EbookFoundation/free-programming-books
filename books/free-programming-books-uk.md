@@ -33,9 +33,6 @@
 
 #### Bootstrap
 
-* [Ознайомлення Bootstrap 3.3.2](http://twbs.docs.org.ua)
-
-
 ### Java
 
 * [Програмування на Java для дітей, батьків, дідусів та бабусь](http://myflex.org/books/java4kids/java4kids.htm) - Яків Файн

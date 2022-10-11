@@ -1392,6 +1392,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Limbo
 
 * [Inferno Programming With Limbo](http://doc.cat-v.org/inferno/books/inferno_programming_with_limbo/)
+* [Limbo’s documentation](http://resibots.eu/limbo/#limbo-s-documentation)
 
 
 ### Linux

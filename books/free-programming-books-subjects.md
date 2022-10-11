@@ -727,6 +727,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [RexEgg](http://www.rexegg.com)
 * [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/) - Sundeep Agarwal
 * [The 30 Minute Regex Tutorial](http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
+* [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/) - Russ Cox
 
 
 ### Reverse Engineering

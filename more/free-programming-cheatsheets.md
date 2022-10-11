@@ -156,6 +156,7 @@
 ### GraphQL
 
 * [GraphQL Cheatsheet]([https://devhints.io/go](https://devhints.io/graphql)) - devhints, Rico Santa Cruz (HTML)
+* [GraphQL Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Jim Manico, Jakub Maćkowski (HTML) 
 
 
 ### HTML and CSS

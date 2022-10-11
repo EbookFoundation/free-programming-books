@@ -378,7 +378,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Bash
 
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
-* [Bash Cook book](https://drive.google.com/file/d/15LVUS7KI6JB9OmZSrkNiwN1DLHaz8ttS/view) - Carl Albing & JP Vossen (PDF)
+* [Bash Cook book](https://www.pdfdrive.com/bash-cookbook-solutions-and-examples-for-bash-users-e184776614.html) - Carl Albing & JP Vossen (PDF)
 * [Bash Guide for Beginners (2008)](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
 * [Bash Notes for Professionals](http://goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (PDF)
 * [BASH Programming (2000)](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - Mike G. (HTML)

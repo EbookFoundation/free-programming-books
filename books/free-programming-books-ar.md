@@ -109,7 +109,6 @@
 
 ### Python
 
-* [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)
 
 
 ### Raspberry Pi
@@ -144,7 +143,6 @@
 
 ### SQL
 
-* [ملاحظات للعاملين بلغة SQL](https://academy.hsoub.com/files/16-%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA-%D9%84%D9%84%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86-%D8%A8%D9%84%D8%BA%D8%A9-sql/)
 
 
 #### PostgreSQL

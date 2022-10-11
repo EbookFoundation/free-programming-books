@@ -2534,4 +2534,4 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### YAML
 
-* [YAML Tutorial] (https://www.tutorialspoint.com/yaml/yaml_tutorial.pdf) - TutorialsPoint (PDF)
+* [YAML Tutorial](https://www.tutorialspoint.com/yaml/yaml_tutorial.pdf) - TutorialsPoint (PDF)

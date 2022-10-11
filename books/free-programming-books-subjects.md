@@ -467,7 +467,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 * [How We Got from There to Here: A Story of Real Analysis](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers, Eugene Boman
 * [Introduction to Modern Statistics](https://openintro-ims.netlify.app) - Mine Çetinkaya-Rundel, Johanna Hardin (HTML, PDF) (email address required for PDF)
-* [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead, J. Laurie Snell
+* [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - Charles M. Grinstead, J. Laurie Snell (PDF)
 * [Introduction to Probability and Statistics Spring 2014](http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 * [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon
 * [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7/) - William F. Trench
@@ -759,7 +759,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
-* [The Joy of Cryptography (2021)](https://web.engr.oregonstate.edu/~rosulekm/crypto/) - Mike Rosulek (PDF) (:construction: *in process*)
+* [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
 
 
 ### Software Architecture

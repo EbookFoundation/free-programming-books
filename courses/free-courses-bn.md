@@ -180,6 +180,7 @@
 ### MongoDB
 
 * [Mastering MongoDB](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt) - Foyzul Karim
+* [MongoDB Bangla tutorial series](https://youtube.com/playlist?list=PLgH5QX0i9K3p4ckbNCy71LRr_dG0AWGw9) - Anisul Islam
 
 
 ### MySQL

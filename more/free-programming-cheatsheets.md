@@ -23,6 +23,8 @@
     * [Nuxt.js](#nuxtjs)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
+    * [Testing libraries](#testinglibraries)
+        * [Jest](#jest)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)

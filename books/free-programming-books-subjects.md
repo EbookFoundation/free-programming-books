@@ -433,7 +433,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Calculus Volume 1](https://openstax.org/details/books/calculus-volume-1) - Edwin Herman, Gilbert Strang (PDF)
 * [Calculus Volume 2](https://openstax.org/details/books/calculus-volume-2) - Edwin Herman, Gilbert Strang (PDF)
 * [Calculus Volume 3](https://openstax.org/details/books/calculus-volume-3) - Edwin Herman, Gilbert Strang (PDF)
-* [Category Theory for the Sciences](https://mitpress.ublish.com/ereader/77/?preview#page/Cover) - David I. Spivak
+* [Category Theory for the Sciences](https://math.mit.edu/~dspivak/CT4S.pdf) - David I. Spivak (PDF)
 * [CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
 * [CLP-1 Differential Calculus](https://www.math.ubc.ca/~CLP/CLP1/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
 * [CLP-2 Integral Calculus](https://www.math.ubc.ca/~CLP/CLP2/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager

@@ -28,8 +28,8 @@
 * [Digital Electronics](#digital-electronics)
 * [Docker](#docker)
 * [Elastic](#elastic)
-* [Fortran](#fortran)
 * [Flutter](#flutter)
+* [Fortran](#fortran)
 * [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
@@ -455,10 +455,6 @@
 * [Workplace Search Fundamentals](https://www.elastic.co/training/workplace-search-fundamentals) - Elastic
 
 
-### Fortran
-* [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas (YouTube)
-
-
 ### Flutter
 
 * [Flutter & Firebase App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - The Net Ninja
@@ -469,6 +465,10 @@
 * [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - The Net Ninja
 * [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT) - Vandad Nahavandipoor (YouTube)
 
+
+### Fortran
+
+* [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas (YouTube)
 
 ### Game Development
 

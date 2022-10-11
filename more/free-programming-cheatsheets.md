@@ -308,7 +308,7 @@
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
 * [SQL Cheat Sheet](https://www.dataquest.io/wp-content/uploads/2021/01/dataquest-sql-cheat-sheet.pdf) - Dataquest.io (PDF)
-* [SQL Cheat Sheet by Tomi Mester](https://github.com/fare4z/fare4z/raw/main/SQL%20CHEAT%20SHEET%20created%20by%20Tomi%20Mester.pdf) - data36.com (PDF)
+* [SQL Cheat Sheet by Tomi Mester](https://data36.com/wp-content/uploads/2018/12/sql-cheat-sheet-for-data-scientists-by-tomi-mester.pdf) - Tomi Mester (PDF)
 
 
 ### TensorFlow

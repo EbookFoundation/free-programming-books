@@ -15,7 +15,6 @@
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
-* [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Scratch](#scratch)
@@ -105,12 +104,6 @@
 ### PHP
 
 * [تعلم البرمجة بلغة PHP](https://librebooks.org/learn-programming-with-php/) - Ahmed Abu Al-Saud , Abdul Latif Amish
-
-
-### Python
-
-* [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)
-
 
 ### Raspberry Pi
 

@@ -29,6 +29,7 @@
 * [Docker](#docker)
 * [Elastic](#elastic)
 * [Flutter](#flutter)
+* [Fortran](#fortran)
 * [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
@@ -468,6 +469,11 @@
 * [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - The Net Ninja
 * [Free Flutter Animations Course](https://youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - The Net Ninja
 * [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT) - Vandad Nahavandipoor (YouTube)
+
+
+### Fortran
+
+* [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas (YouTube)
 
 
 ### Game Development

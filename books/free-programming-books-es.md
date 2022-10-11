@@ -129,7 +129,7 @@
 
 ### C
 
-* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf) - Andrés Marzal, Isabel Gracia (PDF) (descarga directa)
+* [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
 
 
 ### <a id="cpp"></a>C++

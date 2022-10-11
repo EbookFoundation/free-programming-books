@@ -11,6 +11,7 @@
 * [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [Python](#python)
+* [R](#r)
 * [SQL](#sql)
 
 
@@ -79,6 +80,11 @@ CSE Tamila by Eezytutorials
 
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
+
+
+### R
+
+* [R Tutorial in Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC) - Tutor Joe's Stanley
 
 
 ### SQL

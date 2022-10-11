@@ -301,6 +301,10 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations
 * [Ray Tracing in One Weekend](https://raytracing.github.io) - Peter Shirley (HTML)
 * [ShaderX series](http://www.realtimerendering.com/resources/shaderx/) - Wolfgang Engel
+* [Tiny Kaboom - 180 lines of C++ code](https://github.com/ssloy/tinykaboom/wiki) - Dmitry V. Sokolov (HTML)
+* [Tiny RayCaster - 486 lines of C++ code](https://github.com/ssloy/tinyraycaster/wiki) - Dmitry V. Sokolov (HTML)
+* [Tiny RayTracer - 256 lines of C++ code](https://github.com/ssloy/tinyraytracer/wiki) - Dmitry V. Sokolov (HTML)
+* [Tiny Renderer - 500 lines of C++ code](https://github.com/ssloy/tinyrenderer/wiki) - Dmitry V. Sokolov (HTML)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
 * [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
 

@@ -108,10 +108,6 @@
 
 
 ### Python
-
-* [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)
-
-
 ### Raspberry Pi
 
 * [احترف الرازبيري باي](https://www.ev-center.com/uploads/2/1/2/6/21261678/كتاب_احترف_الرازبيري_باي.pdf) (PDF)

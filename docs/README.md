@@ -88,14 +88,19 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 - Sinhala / සිංහල
 - Slovak / slovenčina
 - Slovenian / slovenščina
+  - [Code of Conduct](CODE_OF_CONDUCT-sl.md)
   - [How-to](HOWTO-sl.md)
 - Spanish / español / castellano
   - [Código de Conducta](CODE_OF_CONDUCT-es.md)
   - [Contributing](CONTRIBUTING-es.md)
   - [How-to](HOWTO-es.md)
 - Swedish / Svenska
+  - [Code of Conduct](CODE_OF_CONDUCT-sv.md)
+  - [Contributing](CONTRIBUTING-sv.md)
   - [How-to](HOWTO-sv.md)
 - Tamil / தமிழ்
+- Telugu / తెలుగు
+  - [How-to](HOWTO-te.md)
 - Thai / ไทย
   - [Code of Conduct](CODE_OF_CONDUCT-th.md)
   - [How-to](HOWTO-th.md)
@@ -105,6 +110,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Кодекс Поведінки](CODE_OF_CONDUCT-uk.md)
   - [How-to](HOWTO-uk.md)
 - Vietnamese / Tiếng Việt
+  - [Quy tắc ứng sử](CODE_OF_CONDUCT-vi.md)
   - [Đóng Góp](CONTRIBUTING-vi.md)
   - [How-to](HOWTO-vi.md)
 

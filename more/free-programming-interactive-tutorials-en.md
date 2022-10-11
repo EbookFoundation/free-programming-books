@@ -83,6 +83,7 @@
 
 ### <a id="cpp"></a>C++
 
+* [C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/) - GeeksforGeeks
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [C++ Tutorial](https://www.scaler.com/topics/cpp/) - Scaler Topics
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
@@ -135,6 +136,7 @@
 * [Git Tutorial](https://www.w3schools.com/git/) - W3Schools
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](https://learngitbranching.js.org)
+* [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) - Nico Riedmann, Dev.to
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3) - Wei Wang
@@ -207,6 +209,7 @@
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
+* [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Jeremy Thomas
 * [JavaScript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
@@ -252,6 +255,7 @@
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
 * [Kotlin Tutorial](https://www.w3schools.com/kotlin/) - W3Schools
 * [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Galina Podstrechnaya, Alex DiStasi (Codecademy) *(account required)*
+* [Unit 1: Kotlin Basics](https://developer.android.com/courses/android-basics-kotlin/unit-1) Android *(account required)*
 
 
 ### Language Agnostic
@@ -295,6 +299,7 @@
 ### NoSQL
 
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
+* [MongoDB Tutorial](https://www.w3schools.com/mongodb) - W3Schools
 * [Try Redis](http://try.redis.io)
 
 
@@ -323,6 +328,7 @@
 ### Python
 
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
+* [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp
 * [futurecoder](https://futurecoder.io) - Alex Hall
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)

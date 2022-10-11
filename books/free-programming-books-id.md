@@ -9,9 +9,11 @@
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [React.js](#reactjs)
     * [Vue.js](#vuejs)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
@@ -66,6 +68,7 @@
 
 * [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git) - Ahmad Muhardian, Petani Kode (HTML)
 * [Pro Git 2nd Edition](https://git-scm.com/book/id/) - Scott Chacon, Ben Straub (HTML)
+* [Tutorial Git Dasar](https://www.youtube.com/watch?v=fQbTeNX1mvM) - Programmer Zaman Now
 
 
 ### Go
@@ -83,6 +86,13 @@
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
 
 
+#### Bootstrap
+
+* [Bootstrap](https://www.malasngoding.com/category/bootstrap/) - Diki Alfarabi Hadi
+* [Bootstrap 5 : Pengertian, Fitur, Keunggulan dan Cara Menggunakannya](https://www.niagahoster.co.id/blog/tutorial-bootstrap-5/) - Niagahoster (HTML)
+* [Daftar Tutorial Bootstrap 4 Bahasa Indonesia](https://www.bewoksatukosong.com/2019/02/tutorial-bootstrap-4-bahasa-indonesia.html) - Gerald Cahya Prambudi
+
+
 ### IDE and editors
 
 * [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc) - Kholid Fuadi
@@ -91,7 +101,7 @@
 ### Java
 
 * [Java Desktop](https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf) - Ifnu Bima (PDF)
-* [Memulai Java Enterprise dengan Spring Boot](https://raw.githubusercontent.com/teten777/free-ebook-springboot-basic/master/Memulai%20Java%20Enterprise%20dengan%20Spring%20Boot.pdf) - Teten Nugraha (PDF)
+* [Memulai Java Enterprise dengan Spring Boot](https://raw.githubusercontent.com/teten-nugraha/free-ebook-springboot-basic/master/Memulai%20Java%20Enterprise%20dengan%20Spring%20Boot.pdf) - Teten Nugraha (PDF)
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
 
 
@@ -100,12 +110,19 @@
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
+* [Tutorial JavaScript Modern](https://id.javascript.info) - Ilya Kantor
+* [Tutorial JavaScript Pemrograman Berorientasi Objek](https://www.youtube.com/watch?v=SDROba_M42g) - Programmer Zaman Now
 
 
 #### Vue.js
 
 * [Belajar Vue.js](https://variancode.com/belajar-vue-js/) - Varian Hermianto
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
+
+
+#### React.js
+
+* [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri
 
 
 ### Machine Learning
@@ -124,6 +141,7 @@
 * [Belajar Dengan Jenius Amazon Web Service & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/releases/download/1.2/Belajar.Dengan.Jenius.Javascript.Node.pdf) - Gun Gun Febrianza (PDF)
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
 * [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua *(Membutuhkan akun Google Play Books atau email yang valid)*
+* [Tutorial Node js untuk pemula Full Tutorial](https://mfikri.com/artikel/tutorial-nodejs) - Mfikri (HTML)
 
 
 ### NoSQL
@@ -158,6 +176,7 @@
 ### Python
 
 * [Belajar Python](http://www.belajarpython.com)
+* [Cepat Mahir Python](https://gilacoding.com/upload/file/Python.pdf) - Hendri, `edt.:` Romi Satria Wahono (PDF)
 * [Dasar Pemrograman Python](https://www.pythonindo.com/tutorial-python-dasar/)
 * [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) (PDF)
@@ -170,6 +189,7 @@
 
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
+* [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri (HTML)
 
 
 ### Solidity
@@ -178,6 +198,9 @@
 
 
 ### TypeScript
+
+* [TypeScript untuk Pemula, Bagian 1: Memulai](https://code.tutsplus.com/id/tutorials/typescript-for-beginners-getting-started--cms-29329) - Tutsplus (HTML)
+
 
 #### Angular
 

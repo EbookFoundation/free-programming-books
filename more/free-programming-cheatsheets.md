@@ -12,6 +12,7 @@
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
+* [GraphQL](#graphql)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -150,6 +151,11 @@
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 * [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
+
+
+### GraphQL
+
+* [GraphQL Cheatsheet]([https://devhints.io/go](https://devhints.io/graphql)) - devhints, Rico Santa Cruz (HTML)
 
 
 ### HTML and CSS

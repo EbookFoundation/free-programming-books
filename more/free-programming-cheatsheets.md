@@ -325,6 +325,7 @@
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
+* [Data Visualization with ggplot2 : : CHEAT SHEET](https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf) - maths.usyd.edu.au (PDF)
 
 
 ### Raspberry Pi

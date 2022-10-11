@@ -325,6 +325,7 @@
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
+* [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
 
 
 ### Raspberry Pi

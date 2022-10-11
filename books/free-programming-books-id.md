@@ -79,7 +79,6 @@
 
 ### HTML and CSS
 
-* [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
 * [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: Dalam Proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)

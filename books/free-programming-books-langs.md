@@ -1004,8 +1004,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Category wise tutorials - J2EE](https://www.mkyong.com/all-tutorials-on-mkyong-com/) - Yong Mook Kim
 * [Core Servlets and JavaServer Pages, 2nd Ed. (2003)](https://web.archive.org/web/20210126062450/https://pdf.coreservlets.com/) - Marty Hall, Larry Brown *(:card_file_box: archived)*
 * [Data Structures in Java for the Principled Programmer (2007)](https://web.archive.org/web/20190302130416/http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) - Duane A. Bailey (PDF)
-* [Essential Java](https://www.programming-books.io/essential/java/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Effective Java](https://drive.google.com/file/d/1ehRo49R-Ln3YZJ-sDbUZsrEQABkVE2TR/view) - Joshua Bloch(PDF)
+* [Essential Java](https://www.programming-books.io/essential/java/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Introduction to Computer Science "booksite"](https://introcs.cs.princeton.edu/java/cs/) - Robert Sedgewick, Kevin Wayne (HTML)
 * [Introduction to Computer science using Java](http://www.programmedlessons.org/Java9/index.html) - Bradley Kjell

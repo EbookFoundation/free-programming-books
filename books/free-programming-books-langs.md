@@ -1497,6 +1497,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org) - Yihui Xie (HTML) [(PDF, EPUB, MOBI)] (https://bookdown.org/yihui/bookdown/)
 * [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
 
+
 ### Mathematica
 
 * [Mathematica® programming: an advanced introduction](http://www.mathprogramming-intro.org) - Leonid Shifrin

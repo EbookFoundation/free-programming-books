@@ -33,7 +33,6 @@
 
 #### Bootstrap
 
-* [Ознайомлення Bootstrap 3.3.2](http://twbs.docs.org.ua)
 
 
 ### Java

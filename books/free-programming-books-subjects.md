@@ -279,6 +279,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Game AI Pro](http://www.gameaipro.com) - Steve Rabin
 * [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
 * [Game Programming Patterns](http://gameprogrammingpatterns.com) - Bob Nystrom
+* [Level Up! The Guide to Great Video Game Design](https://github.com/Arunabh-gupta/Game_Development_Books/blob/main/Level%20Up!%20The%20Guide%20to%20Great%20Video%20Game%20Design%20(%20PDFDrive%20).pdf) - Scott Rogers
 * [Procedural Content Generation in Games](http://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
 
 

@@ -51,6 +51,7 @@
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Jenkins](#jenkins)
+* [Julia](#julia)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)

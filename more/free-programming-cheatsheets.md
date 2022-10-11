@@ -325,6 +325,7 @@
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
+* [The essential functions of R] (https://www.rforecology.com/uploads/The_essential_R_Cheatsheet_v1_0.pdf) 
 
 
 ### Raspberry Pi
@@ -339,6 +340,7 @@
 ### Ruby
 
 * [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
+* [Ruby monstas Ruby cheat sheet] (https://rubymonstas.ch/materials/canonical/session05/session5-ruby-cheat-sheet.pdf) - rubymonstas.ch (PDF)
 
 
 ### Rust

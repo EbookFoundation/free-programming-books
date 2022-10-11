@@ -224,3 +224,20 @@ You might notice that there are [some missing translations here](docs/README.md#
 ## License
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
+
+
+##
+
+### <p align="center">  Show some ❤️ by starring ⭐ this awesome Repository </p>
+
+##
+
+## <p align="center">  OUR VALUABLE CONTRIBUTORS ✨ </p>
+
+<p align="center">
+<a href="https://github.com/EbookFoundation/free-programming-books/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=EbookFoundation/free-programming-books" />
+</a>
+    </p>
+
+Made with [contrib.rocks](https://contrib.rocks).

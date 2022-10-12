@@ -566,7 +566,6 @@
 
 * [大家來學 LaTeX](https://github.com/49951331/graduate-project-102pj/blob/master/docs/latex123.pdf) (PDF)
 * [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
-* [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)
 
 
 ### Lisp

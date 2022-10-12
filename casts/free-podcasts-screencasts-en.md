@@ -194,6 +194,7 @@
 * [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
 * [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
 
+
 #### Angular
 
 * [Adventures in Angular](https://topenddevs.com/podcasts/adventures-in-angular) - Charles Max Wood, Subrat Mishra, Richard Sithole, Armen Vardanyan, Sani Yusuf, Shai Reznik, Alyssa Nicoll, Brooks Forsyth, Brad McAlister, Chris Ford, Eddie Hinkle, Younes Jaaidi, Brian Love, Jennifer Wadella, Aaron Frost, Joe Eames (podcast)

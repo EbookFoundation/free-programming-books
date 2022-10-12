@@ -114,6 +114,7 @@ This project lists books and other resources grouped by genres:
 + [Spanish / español / castellano](books/free-programming-books-es.md)
 + [Swedish / Svenska](books/free-programming-books-sv.md)
 + [Tamil / தமிழ்](books/free-programming-books-ta.md)
++ [Telugu / తెలుగు](books/free-programming-books-te.md)
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
@@ -130,6 +131,7 @@ This project lists books and other resources grouped by genres:
 + [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
 + [Bengali / বাংলা](courses/free-courses-bn.md)
 + [Bulgarian / български](courses/free-courses-bg.md)
++ [Chinese](courses/free-courses-zh.md)
 + [English](courses/free-courses-en.md)
 + [Finnish](courses/free-courses-fi.md)
 + [French / français](courses/free-courses-fr.md)
@@ -144,6 +146,7 @@ This project lists books and other resources grouped by genres:
 + [Khmer / ភាសាខ្មែរ](courses/free-courses-km.md)
 + [Korean / 한국어 [韓國語]](courses/free-courses-ko.md)
 + [Malayalam / മലയാളം](courses/free-courses-ml.md)
++ [Nepali / नेपाली](courses/free-courses-ne.md)
 + [Persian / Farsi (Iran) / فارسى](courses/free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](courses/free-courses-pl.md)
 + [Portuguese (Brazil)](courses/free-courses-pt_BR.md)
@@ -178,7 +181,9 @@ This project lists books and other resources grouped by genres:
 Free Podcasts and Screencasts:
 
 + [Arabic / al Arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
++ [Chinese / 中文](casts/free-podcasts-screencasts-zh.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
++ [Dutch](casts/free-podcasts-screencasts-nl.md)
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
 + [French / français](casts/free-podcasts-screencasts-fr.md)

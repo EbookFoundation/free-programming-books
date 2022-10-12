@@ -15,7 +15,7 @@
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [Compilers](#compilers)
-* [Compititive Programming](#compititive-programming)
+* [Compititive Programming](#competitive-programming)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
 * [CUDA](#cuda)

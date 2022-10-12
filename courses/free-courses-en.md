@@ -89,6 +89,7 @@
     * [Deno](#deno)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
+* [Webpack](#webpack)
 
 
 ### 0 - MOOC

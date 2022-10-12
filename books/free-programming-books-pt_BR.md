@@ -380,8 +380,12 @@
 ### Shell / Bash
 
 * [Bash Scripting](https://meleu.gitbooks.io/bashscripting/content/) - Meleu (gitbook)
+* [Casamento de Padrões no Shell do GNU/Linux](https://blauaraujo.com/downloads/shell-pattern-matching.pdf) - Blau Araújo (PDF)
+* [Curso Intensivo de Programação do Bash - Guia de Estudos](https://blauaraujo.com/downloads/cipb-guia.pdf) - Blau Araújo (PDF)
+* [Curso Shell GNU](https://blauaraujo.com/downloads/curso-shell-gnu.pdf) - Blau Araújo (PDF) (:construction: *in process*)
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
+* [Pequeno Manual do Programador GNU/Bash](https://blauaraujo.com/downloads/pmpgb.pdf) - Blau Araújo (PDF)
 
 
 ### TypeScript

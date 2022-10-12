@@ -433,7 +433,6 @@
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
 * [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
-* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 
@@ -479,7 +478,6 @@
 * [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * [JavaScript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
-* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
 
 
 #### AngularJS
@@ -545,7 +543,6 @@
 
 * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
 * [React-Bits 中文文档](https://github.com/hateonion/react-bits-CN)
-* [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
 * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
 * [React.js 入门教程](http://fraserxu.me/intro-to-react/)
 * [React.js 中文文档](https://discountry.github.io/react/)
@@ -553,7 +550,6 @@
 
 #### Vue.js
 
-* [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
 * [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
 
 
@@ -566,7 +562,6 @@
 
 * [大家來學 LaTeX](https://github.com/49951331/graduate-project-102pj/blob/master/docs/latex123.pdf) (PDF)
 * [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
-* [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)
 
 
 ### Lisp

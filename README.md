@@ -210,7 +210,7 @@ Write, compile and run your code within a browser. Try it out!
 
 ## Translations
 
-Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
+Many of our Contributing, How-to, and Code of Conduct documents have been translated into the languages included in our lists by volunteers.
 
 + English
   + [Code of Conduct](docs/CODE_OF_CONDUCT.md)

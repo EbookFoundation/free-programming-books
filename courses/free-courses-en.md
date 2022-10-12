@@ -1002,6 +1002,7 @@
 * [Python GUI's With TKinter](https://youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV) - Codemy.com (YouTube)
 * [Python in 80 minutes](https://www.udemy.com/course/learn-python-in-80-minutes/) - Muhammed Ali Dilek (Udemy)
 * [Python Learn Course](https://www.kaggle.com/learn/python) - Colin Morris (Kaggle)
+* [Python OOP : Object Oriented Programming in Python](https://www.udemy.com/course/object-oriented-python-programming/) - Deepali Srivastava (Udemy)
 * [Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) - Corey Schafer
 * [Python Pandas For Your Grandpa](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/) - Ben Gorman
 * [Python Programming Essentials](https://www.coursera.org/learn/python-programming) - Scott Rixner, Joe Warren (Coursera)

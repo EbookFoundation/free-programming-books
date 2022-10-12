@@ -364,7 +364,7 @@
 * [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf) - Antonio José Sáez Castillo (PDF)
 * [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) - Enrique Gabriel Baquela, Andrés Redchuk (PDF)
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf) - Michel Schinz, Philipp Haller, `trl.:` Juanjo Bazán (PDF)
-
+* [Hands-On Programming with R](https://drive.google.com/file/d/19skU6jIB5o3dFsXeepTLGieiCz6Ou-pz/view?usp=sharing) - Hadley Wickham ,Chief Scientist at RStudio(PDF)
 
 ### Scala
 

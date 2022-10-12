@@ -1335,6 +1335,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Vue.js
 
 * [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
+* [Fullstack Vue: The Complete Guide to Vue.js and Friends](https://dl.ebooksworld.ir/motoman/fullstack-vue-book-r8.www.EBooksWorld.ir.pdf) - Hassan Djirdeh, Nate Murray, Ari Lerner (PDF)
 * [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) (PDF)
 * [The Vue.js Handbook](https://flaviocopes.com/page/vue-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 

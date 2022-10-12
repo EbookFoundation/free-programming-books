@@ -2,8 +2,8 @@
 
 * [Android](#android)
 * [C](#c)
-* [<a id="csharp"></a>C\#](#c-1)
-* [<a id="cpp"></a>C++](#c-2)
+* [C#](#csharp)
+* [C++](#cpp)
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
@@ -19,7 +19,7 @@
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Vue.js](#vuejs)
+    * [Vue.js](#vuejs)
 * [Jekyll](#jekyll)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
@@ -35,12 +35,12 @@
 * [React Native](#react-native)
 * [Ruby](#ruby)
 * [Sass](#sass)
+* [Segurança da Informação](#segurança-da-informação)
 * [Shell](#shell)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [WordPress](#wordpress)
-* [Segurança da Informação](#segurança-da-informação)
 
 
 ### Android

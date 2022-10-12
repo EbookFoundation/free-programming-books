@@ -800,8 +800,11 @@
 * [GeoStats.jl Tutorials](https://www.youtube.com/playlist?list=PLsH4hc788Z1f1e61DN3EV9AhDlpbhhanw) - Julio Hoffimann (YouTube)
 * [Julia Tutorials (Basic)](https://www.youtube.com/playlist?list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE) - The Julia Programming Language (YouTube)
 
+
 ### Jupyter
-* [Buildmedia.org](https://buildmedia.readthedocs.org/media/pdf/jupyter-notebook/latest/jupyter-notebook.pdf)
+
+* [Full Jupyter](https://www.youtube.com/watch?v=HW29067qVWk) - Corey Schafer (Youtube)
+
 
 ### Kotlin
 

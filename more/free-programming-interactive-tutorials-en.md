@@ -229,7 +229,6 @@
 * [Jupyter](https://docs.jupyter.org/en/latest/)
 
 
-
 #### AngularJS
 
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson

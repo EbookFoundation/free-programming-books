@@ -400,3 +400,20 @@
 > :information_source: Veja também &#8230; [AngularJS](#angularjs), [IDE and editors](#ide-and-editors)
 
 * [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm) - José Carlos Macoratti (HTML)
+
+
+### Boas praticas
+
+* [Cóidgo Limpo](https://www.academia.edu/19607267/Codigo_Limpo_Completo_PT) - Robert Cecil Martin
+
+
+### Compiladores
+
+* [Compiladores - Princípios Técnicas e Ferramentas](https://tsxvpsbr.dyndns.org/arquivos/UFFS/Compiladores%20-%20Princípios%20Técnicas%20e%20Ferramentas.pdf) (PDF)
+
+
+### Hacking
+
+*  [TESTE DE VULNERABILIDADES EM APLICAÇÕES WEB](https://cepein.femanet.com.br/BDigital/arqTccs/1211330211.pdf) - NÍCHOLAS ANTUNES CINTO
+
+

@@ -70,6 +70,7 @@
 ### <a id="csharp"></a>C\#
 
 * [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
+* [C# Cheat Sheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf) - THECODINGGUYS (PDF)
 
 
 ### <a id="cpp"></a>C++

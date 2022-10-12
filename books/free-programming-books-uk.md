@@ -4,7 +4,6 @@
 * [ClosureScript](#clojurescript)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
-    * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Language Agnostic](#language-agnostic)
@@ -30,11 +29,6 @@
 
 
 ### HTML and CSS
-
-#### Bootstrap
-
-* [Ознайомлення Bootstrap 3.3.2](http://twbs.docs.org.ua)
-
 
 ### Java
 

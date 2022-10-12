@@ -225,8 +225,9 @@
 
 ### Jupyter
 
-* [Jupyter](https://docs.jupyter.org/en/latest/)
 * [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+* [Jupyter](https://docs.jupyter.org/en/latest/)
+
 
 
 #### AngularJS

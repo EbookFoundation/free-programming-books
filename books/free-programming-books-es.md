@@ -130,7 +130,6 @@
 ### C
 
 * [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
-* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf) - Andrés Marzal, Isabel Gracia (PDF) (descarga directa)
 
 
 ### <a id="cpp"></a>C++
@@ -252,7 +251,6 @@
 
 ### Linux
 
-* [Bases de la Programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
 * [BASH Scripting Avanzado: Utilizando Declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) - Eugenia Bahit (descarga directa)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
 * [El Manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) - Raphaël Hertzog, Roland Mas (HTML)

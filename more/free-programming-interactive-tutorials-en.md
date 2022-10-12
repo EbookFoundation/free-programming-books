@@ -25,6 +25,7 @@
     * [jQuery](#jquery)
     * [React](#react)
     * [Redux](#redux)
+* [Jupyter](#jupyter)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
     * [Operating Systems](#operating-systems)
@@ -221,6 +222,9 @@
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
 
+### Jupyter
+* [Jupyter](https://docs.jupyter.org/en/latest/)
+* [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
 #### AngularJS
 

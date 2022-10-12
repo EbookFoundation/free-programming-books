@@ -230,3 +230,6 @@
 * [TypeScript Bangla ( বাংলা ) Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3) - Learn with Sumit
 * [typescript full course in bangla](https://youtube.com/playlist?list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq) - Anisul Islam
 
+### MERN Stack
+
+* [Web Development (বাংলা) Tutorial Series](https://web.programming-hero.com/) - Jhankar Mahbub

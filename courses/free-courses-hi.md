@@ -267,8 +267,9 @@
 #### Node.js
 
 * [NodeJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG) - Telusko
+* [NodeJS Tutorial for Beginners in Hindi/Urdu](https://www.youtube.com/watch?v=o8Yvz7q9uHg&list=PL9fcHFJHtFaYsGwGq-rrzdwMRL7ZF7VtS) -Perfect Web Solutions
 * [NodeJS Tutorial in Hindi 2020](https://youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) - Vinod Bahadur Thapa (Thapa Technical)
-* [NodeJS Tutorial for Beginners in Hindi/Urdu](https://www.youtube.com/watch?v=o8Yvz7q9uHg&list=PL9fcHFJHtFaYsGwGq-rrzdwMRL7ZF7VtS) - Perfect Web Solutions
+
 
 #### React
 

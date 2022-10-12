@@ -169,9 +169,8 @@
 
 * [Corso Python 2016](https://www.youtube.com/playlist?list=PLA27EZBY5veOa-dbNIetJvyrAuoVy4zDD) - POuL Politecnico di Milano
 * [Corso rapido Python per principianti e per esempi](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9) - Fabrizio Camuso
-* [Python for Beginners | Programming Tutorial](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9) - Telusko
 * [Python Tutorial - Python Full Course for Beginners](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9) - Programming with Mosh
-
+* [Python for Beginners | Programming Tutorial](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9) - Telusko
 
 
 ### Programmazione

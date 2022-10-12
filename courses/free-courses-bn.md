@@ -201,6 +201,7 @@
 * [Java and OOO. Learn Object Oriented with Real Example](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDS-5KCnZyPl0LKQ8m49CHM) - Stack Learner
 * [Java and OOP Basics](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB5kP3uxERI1rdrdrNifNwJ) - Stack Learner
 * [Java and OOP: Java Built in Classes and Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBNvGFN6eIre7xjfnb6aVfB) - Stack Learner
+* [Web Development (বাংলা) Tutorial Series](https://www.programming-hero.com) - Jhankar Mahbub
 * [Object Oriented Programming Main Theory in Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCqNHQtxzS9LbeNRMG4AJmG) - Stack Learner
 
 
@@ -230,6 +231,3 @@
 * [TypeScript Bangla ( বাংলা ) Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3) - Learn with Sumit
 * [typescript full course in bangla](https://youtube.com/playlist?list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq) - Anisul Islam
 
-### MERN Stack
-
-* [Web Development (বাংলা) Tutorial Series](https://www.programming-hero.com) - Jhankar Mahbub

@@ -347,7 +347,7 @@
 
 #### React
 
-* [Перевод документации](https://learn-reactjs.ru/home)
+* [Перевод документации](https://ru.reactjs.org/docs/getting-started.html)
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
 * [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/)
@@ -356,7 +356,7 @@
 
 #### Vue.js
 
-* [Перевод документации](https://ru.vuejs.org)
+* [Перевод документации](https://v3.ru.vuejs.org/)
 * [Руководство по Vue.js](https://metanit.com/web/vuejs) - Евгений Попов
 * [VueJS Учебник](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-vuejs/vuejs-uchebnik) - CoderLessons.com
 

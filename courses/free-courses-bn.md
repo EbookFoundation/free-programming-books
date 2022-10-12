@@ -232,4 +232,4 @@
 
 ### MERN Stack
 
-* [Web Development (বাংলা) Tutorial Series](https://web.programming-hero.com/) - Jhankar Mahbub
+* [Web Development (বাংলা) Tutorial Series](https://www.programming-hero.com) - Jhankar Mahbub

@@ -242,6 +242,7 @@
 * [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) - Bina Ramamurthy (Coursera)
 * [Blockchain Tutorial for beginners](https://www.youtube.com/playlist?list=PLxbAS7NVaSZKKxoVuQxKK2k0c8S4t_m8O) - BlockTrain
 * [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://www.youtube.com/watch?v=8wMKq7HvbKw) - Julien Klepatch, EatTheBlocks (freeCodeCamp.org)
+* [Build an IoT Blockchain Network for a Supply Chain](https://cognitiveclass.ai/courses/blockchain-iot-node-red-food-network) - CognitiveClass.ai
 * [Build and Deploy Your First Decentralized App with Etherem](https://www.udemy.com/course/your-first-decentralized-app/) - Gary Simon (Udemy)
 * [CryptoZombies.io](https://cryptozombies.io) - CleverFlare, Loom Network
 * [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
@@ -254,6 +255,7 @@
 * [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Sujeet Singh (Neso Academy)
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane (freeCodeCamp)
+* [Programming in C](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) - Jenny's lectures CS/IT NET&JRF 
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 
 
@@ -1000,6 +1002,7 @@
 * [Python GUI's With TKinter](https://youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV) - Codemy.com (YouTube)
 * [Python in 80 minutes](https://www.udemy.com/course/learn-python-in-80-minutes/) - Muhammed Ali Dilek (Udemy)
 * [Python Learn Course](https://www.kaggle.com/learn/python) - Colin Morris (Kaggle)
+* [Python OOP : Object Oriented Programming in Python](https://www.udemy.com/course/object-oriented-python-programming/) - Deepali Srivastava (Udemy)
 * [Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) - Corey Schafer
 * [Python Pandas For Your Grandpa](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/) - Ben Gorman
 * [Python Programming Essentials](https://www.coursera.org/learn/python-programming) - Scott Rixner, Joe Warren (Coursera)
@@ -1188,7 +1191,6 @@
 * [Essential Nextjs Typescript Tailwind Stack](https://www.youtube.com/playlist?list=PLKEkvhqFCRwL94nLP-TdIfNmbiZk5FCMx) - Fireship, Ben Awad, Traversy Media, Devs Force
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Foundations of Front End Web Development](https://www.udemy.com/course/foundations-of-front-end-development/) - Davide Molin (Udemy)
-* [Free Code Camp](https://www.freecodecamp.org)
 * [Frontend UI Development with React](https://www.youtube.com/playlist?list=PL0vfts4VzfNgUUEtEjxDVfh4iocVR3qIb) - Jeff Delaney, Fireship.io (YouTube)
 * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - by AWS on Udacity
 * [Full stack open](https://fullstackopen.com/en/) - University of Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes

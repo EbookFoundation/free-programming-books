@@ -183,6 +183,7 @@ Free Podcasts and Screencasts:
 + [Arabic / al Arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
 + [Chinese / 中文](casts/free-podcasts-screencasts-zh.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
++ [Dutch](casts/free-podcasts-screencasts-nl.md)
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
 + [French / français](casts/free-podcasts-screencasts-fr.md)

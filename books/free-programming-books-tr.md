@@ -135,11 +135,7 @@
 
 ### Haskell
 
-
-
 * [Zor Yoldan Haskell](https://github.com/emrahburak/zor-yoldan-haskell/) - Yann Esposito,`trl.:` Joomy Korkut
-
-
 
 
 

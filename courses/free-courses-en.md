@@ -79,7 +79,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Security](#security)
-* [Software Automation Testing](#software-automation-testing)
+* [Software Engineering](#software-engineering)
 * [Solidity](#solidity)
 * [Spark](#spark)
 * [Swift](#swift)
@@ -1112,7 +1112,7 @@
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
 
 
-### Software Automation Testing
+### Software Engineering
 
 * [Appium- Mobile Automation Testing](https://www.youtube.com/watch?v=Fx3ud5wMHYc) - Rahul Shetty Academy (YouTube)
 * [Cucumber Selenium Tutorial](https://www.youtube.com/watch?v=ZSfOEBh9BRM) - Edureka (YouTube)

@@ -37,6 +37,7 @@
 ### C
 
 * [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian (:construction: *in process*)
+* [Tutorial Belajar Bahasa Pemrograman C Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/) - Duniailkom
 
 
 ### <a id="csharp"></a>C\#
@@ -68,7 +69,10 @@
 
 * [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git) - Ahmad Muhardian, Petani Kode (HTML)
 * [Pro Git 2nd Edition](https://git-scm.com/book/id/) - Scott Chacon, Ben Straub (HTML)
+
 * [Tutorial Belajar Git dan GitHub untuk Pemula(https://tutorial-git.readthedocs.io/_/downloads/id/latest/pdf/) - Hendy Irawan - (PDF)
+* [Tutorial Git Dasar](https://www.youtube.com/watch?v=fQbTeNX1mvM) - Programmer Zaman Now
+
 
 
 ### Go
@@ -80,7 +84,6 @@
 
 ### HTML and CSS
 
-* [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
 * [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: Dalam Proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)

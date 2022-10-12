@@ -108,6 +108,9 @@
 * [Kurs Python 3](https://www.youtube.com/playlist?list=PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH)
 * [Python 3 - Kurs wideo](https://www.youtube.com/playlist?list=PLbOPmSDkHx2pCboufcEKkinpUuramshmr)
 * [Raspberry Pi kurs od podstaw](https://forbot.pl/blog/kurs-raspberry-pi-od-podstaw-wstep-spis-tresci-id23139) - Piotr Bugalski (FORBOT.pl)
+* [Free Python course by freecodecamp](https://youtu.be/eWRfhZUzrAc)
+* [Free python courses by Mosh](https://youtu.be/_uQrJ0TkZlc)
+* [Free python course by Freecodecamp](https://youtu.be/rfscVS0vtbw)
 
 
 ### Swift

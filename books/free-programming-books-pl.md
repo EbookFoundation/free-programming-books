@@ -22,6 +22,7 @@
 * [Prolog](#prolog)
 * [Python](#python)
     * [Django](#django)
+* [R](#R)
 * [Ruby](#ruby)
 * [SQL](#sql)
 
@@ -168,6 +169,10 @@
 * [Kurs Django](http://www.python.rk.edu.pl/w/p/djangoindex/)
 * [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 
+
+### R
+
+* [Przewodnik po pakiecie R](https://cran.r-project.org/doc/contrib/Biecek-R-basics.pdf) - Przemysław Biecek
 
 ### Ruby
 

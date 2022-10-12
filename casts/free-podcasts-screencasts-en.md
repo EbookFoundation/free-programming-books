@@ -366,6 +366,7 @@
 * [Podcast.\_\_init\_\_](https://podcastinit.com) - Tobias Macey (podcast)
 * [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB) - Harrison Kinsley (screencast)
 * [Python Bytes](https://pythonbytes.fm) - Michael Kennedy, Brian Okken (podcast)
+* [Python Full Course for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Programming With Mosh (podcast)
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) - Christopher Bailey (screencast)
 * [Talk Python To Me - A podcast on Python and related technologies](https://talkpython.fm) - Michael Kennedy (podcast)
 * [Teaching Python](https://www.teachingpython.fm) - Kelly Paredes, Sean Tibor (podcast)

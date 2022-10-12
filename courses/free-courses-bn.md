@@ -27,6 +27,8 @@
 * [PHP](#php)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
+* [Scratch](#scratch)
+* [Shell scripting](#shell-scripting)
 * [TypeScript](#typescript)
 
 
@@ -89,8 +91,9 @@
 
 ### Go
 
-* [Golang কোডিং বুট ক্যাম্প ক্লাস](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - MASTER-ACADEMY
 * [Go Bangla Tutorials 2022](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rtasmmoS_EWXdg0X-eX_x8) - Anisul Islam
+* [Golang Web Development Bangla](https://www.youtube.com/playlist?list=PLF4a815a8kFzPOFGV7uXsm2j1Of9cCwpx) - Learn with Raihan
+* [Golang কোডিং বুট ক্যাম্প ক্লাস](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - MASTER-ACADEMY
 
 
 ### HTML and CSS
@@ -177,6 +180,7 @@
 ### MongoDB
 
 * [Mastering MongoDB](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt) - Foyzul Karim
+* [MongoDB Bangla tutorial series](https://youtube.com/playlist?list=PLgH5QX0i9K3p4ckbNCy71LRr_dG0AWGw9) - Anisul Islam
 
 
 ### MySQL
@@ -206,6 +210,18 @@
 * [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
 * [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
+
+
+### Scratch
+
+* [Scratch Programming](https://youtube.com/playlist?list=PLtEypp6e7UDBfNhRt9x3N89mJKl0PztHH) - bdOSN
+* [Scratch Programming for Kids Bangla](https://youtube.com/playlist?list=PLkWIEmwZeYzqpPfmJdlXKgjxrCu47Gfaz) - Opportunities For Kids
+* [Scratch Programming in Bangla](https://youtube.com/playlist?list=PLym69wpbTIIEkUnqkOznZfQU6lRxebpO3) - Tamim Shahriar
+
+
+### Shell scripting
+
+* [Linux Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PLMTKJq4uuKqXVg7S7XujEsONl9ZVT4X0p) - Atiq Hasan Zubu
 
 
 ### TypeScript

@@ -1,6 +1,5 @@
 ### Index
 
-- [Index](#index)
 - [Android](#android)
 - [C](#c)
 - [<a id="csharp"></a>C\#](#c-1)
@@ -98,8 +97,8 @@
 
 ### Elixir
 
-* [Curso de Elixir](https://www.youtube.com/watch?v=GXlyLSVDkhI&list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR) - ELLY ACADEMY (YouTube)
-* [Curso de Elixir Alquimia](https://www.youtube.com/watch?v=WRGvPgCHMfI&list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone (YouTube)
+* [Curso de Elixir](https://www.youtube.com/playlist?list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR) - ELLY ACADEMY (YouTube)
+* [Curso de Elixir Alquimia](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone (YouTube)
 
 
 ### Flutter

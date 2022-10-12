@@ -46,12 +46,12 @@
 * [Microcorruption](https://microcorruption.com/login)
 * [Newton School](https://my.newtonschool.co/contest/all)
 * [oj.uz](https://oj.uz)
+* [Sigmageek](https://sigmageek.com)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Techgig](https://www.techgig.com)
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
 * [USACO.guide](https://usaco.guide)
-* [Sigmageek](https://sigmageek.com)
 
 
 ### Capture the flag

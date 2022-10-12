@@ -54,7 +54,6 @@
 * [C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno (screencast)
 * [C++ Standard Library](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - Bo Qian (screencast)
 * [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
-* [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - freeCodeCamp.org (podcast)
 * [CppCast](http://cppcast.com) - Conor Hoekstra, Jason Turner, JeanHeyd Meneide, Matt Godbolt, Rob Irving (podcast)
 
 
@@ -366,7 +365,6 @@
 * [Podcast.\_\_init\_\_](https://podcastinit.com) - Tobias Macey (podcast)
 * [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB) - Harrison Kinsley (screencast)
 * [Python Bytes](https://pythonbytes.fm) - Michael Kennedy, Brian Okken (podcast)
-* [Python Full Course for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Programming With Mosh (podcast)
 * [Python Tips](https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i) - Christopher Bailey (screencast)
 * [Talk Python To Me - A podcast on Python and related technologies](https://talkpython.fm) - Michael Kennedy (podcast)
 * [Teaching Python](https://www.teachingpython.fm) - Kelly Paredes, Sean Tibor (podcast)

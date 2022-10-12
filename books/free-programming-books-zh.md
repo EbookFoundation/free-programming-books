@@ -479,7 +479,6 @@
 * [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * [JavaScript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
-* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
 
 
 #### AngularJS

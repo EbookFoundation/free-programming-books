@@ -190,7 +190,13 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 - We do not permit links for Creators.
 - For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "`Compiled from StackOverflow documentation`".
 - We do not include honorifics such as "Prof." or "Dr." in creator names.
-- 
+
+
+##### Time-limited Courses and Trials
+
+- We don't list things that we'll need to remove in six months.
+- If a course has a limited enrollment period or duration, we won't list it.
+- We can't list resources that are free for a limited period.
 
 
 ##### Platforms and Access Notes

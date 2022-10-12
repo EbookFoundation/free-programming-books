@@ -450,7 +450,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) - CodeAhoy (HTML)
 * [Learn to Code With C - The MagPi Essentials](https://magpi.raspberrypi.com/books/essentials-c-v1) (PDF)
 * [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) - Ciaran O’Riordan (PDF)
-* [Let us C](https://web.archive.org/web/20211006163041/http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf) - Yashavant Kanetkar (PDF) *(:card_file_box: archived)*
+* [Let us C](https://archive.org/download/let-us-c/LET%20US%20C.pdf) - Yashavant Kanetkar (PDF) *(:card_file_box: latest 14th edition)*
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
 * [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/) - Jens Gustedt (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)

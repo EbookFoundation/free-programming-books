@@ -3,8 +3,6 @@
 * [C and C++](#c-and-cpp)
 * [ClosureScript](#clojurescript)
 * [Haskell](#haskell)
-* [HTML and CSS](#html-and-css)
-    * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Language Agnostic](#language-agnostic)
@@ -27,13 +25,6 @@
 ### Haskell
 
 * [Вивчити собі Хаскель на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
-
-
-### HTML and CSS
-
-#### Bootstrap
-
-* [Ознайомлення Bootstrap 3.3.2](http://twbs.docs.org.ua)
 
 
 ### Java

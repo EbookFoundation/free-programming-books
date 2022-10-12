@@ -43,6 +43,7 @@
 * [SpringBoot](#springboot)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
+* [Unit testing](#unit-testing)
 * [Webpack](#webpack)
 
 
@@ -383,6 +384,12 @@
 * [DeepLearning- Keras & TF Cheat Sheet](https://cheatography.com/chesterhsieh/cheat-sheets/deeplearning-keras-and-tf/pdf/) - Chester Hsieh, Cheatography (PDF) *(:construction: in process)*
 * [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) - Secret data scientist (HTML)
 * [TensorFlow v2.0 Cheat Sheet](https://web.archive.org/web/20200922212358/https://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf) - Altoros (PDF) *(:card_file_box: archived)*
+
+
+### Unit testing
+
+* [Jest CheatSheet](https://devhints.io/jest) - devhints, Rico Santa Cruz (HTML)
+* [What is Unit testing](https://www.guru99.com/unit-testing-guide.html) - Thomas Hamilton (HTML)
 
 
 ### Webpack

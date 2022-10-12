@@ -75,6 +75,7 @@
 
 ### <a id="cpp"></a>C++
 
+* [CodeChef](https://www.codechef.com/ide)
 * [Coding Blocks](https://ide.codingblocks.com)
 * [Coding Minutes](https://ide.codingminutes.com)
 * [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)

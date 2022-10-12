@@ -1770,7 +1770,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
 * [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
 * [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
-* [Learning Laravel eBook](https://riptutorial.com/Download/laravel.pdf) - Rip Tutorial (Compiled from StackOverflow documentation) (PDF)
+* [LEARNING Laravel](https://riptutorial.com/Download/laravel.pdf) - Rip Tutorial (Compiled from StackOverflow documentation) (PDF)
 
 
 #### Symfony

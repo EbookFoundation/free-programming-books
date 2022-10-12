@@ -265,7 +265,7 @@
 ### Python
 
 * [Apprendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
-* [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et lier ensuite votre compte self-learning à votre compte INGInious. )
+* [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et liez ensuite votre compte self-learning à votre compte INGInious. )
 * [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau, Laurent Pointal
 
@@ -284,7 +284,7 @@
 ### Ruby
 
 * [Ruby en vingt minutes](https://www.ruby-lang.org/fr/documentation/quickstart/)
-* [Venir à Ruby après un autre language](https://www.ruby-lang.org/fr/documentation/ruby-from-other-languages/)
+* [Venir à Ruby après un autre langage](https://www.ruby-lang.org/fr/documentation/ruby-from-other-languages/)
 
 
 #### Ruby on Rails

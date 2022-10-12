@@ -18,28 +18,28 @@
 2. Git을 알 필요는 없습니다: 만약 당신이 조건에 부합하면서 *이미 등재되지 않은* 바로가기를 발견한다면, 새로운 바로가기와 함께 새로운 [이슈](https://github.com/EbookFoundation/free-programming-books/issues)를 열 수 있습니다.
     - 만약 깃 사용법을 알고 있다면, 해당 리포지토리를 Fork 하며 Pull Request (PR)를 보내주세요.
 
-3. 저희는 육 가지의 리스트를 제공하고 있습니다. 올바른 것을 선택해 주세요:
+3. 저희는 여섯 가지 종류의 리스트를 제공하고 있습니다. 올바른 것을 선택해 주세요:
 
     - *책* : PDF, HTML, ePub, gitbook.io 기반 웹사이트, 깃 리포지토리, 등.
     - *강좌* : 여기서 강좌는 책이 아닌 교육 도구를 칭합니다. [강좌 예시](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *상호작용을 할 수 있는 강좌* : 사용자가 코드를 입력하거나 명령어를 입력하여 평가을 받을 수 있는 웹사이트를 칭합니다(평가는 채점이 아닙니다). 예시: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *상호작용을 할 수 있는 강좌* : 사용자가 코드를 입력하거나 명령어를 입력하여 평가를 받을 수 있는 웹사이트를 칭합니다(평가는 채점이 아닙니다). 예시: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
     - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *팟캐스트와 화면 녹화*
     - *문제집 & 경쟁 하며 배우는 프로그래밍* : 문제를 풂으로서 프로그래밍 실력을 향상시키는데 도움을 주는 소프트웨어 또는 웹사이트를 칭합니다. 해당 소프트웨어 또는 웹사이트는 동료가 주체가 되는 코드 검토를 포함 할 수 있습니다.
 
 4. 아래의 [가이드라인](#가이드라인) 을 참조하고 [마크다운 규격](#규격) 을 준수하여 주십시오.
 
-5. GitHub Actions는 각각의 **리스트가 오름차순인지**, 또하 **마크다운 규격이 준수되었는지** 검수 할 것입니다. 각 제출이 검수를 통과하**는지 확인해**주십시오.
+5. GitHub Actions는 각각의 **리스트가 오름차순인지**, 또하 **마크다운 규격이 준수되었는지** 검수할 것입니다. 각 제출이 검수를 통과하**는지 확인해**주십시오.
 
 
 ### 가이드라인
 
-- 책이 무료인지 반드시 확인 해 주십시오. 해당 책이 무료라고 생각하는 이유를 PR의 comment에 포함하는 것은 관리자들에게 큰 도움이 됩니다.
+- 책이 무료인지 반드시 확인해 주십시오. 해당 책이 무료라고 생각하는 이유를 PR의 comment에 포함하는 것은 관리자들에게 큰 도움이 됩니다.
 - 저희는 Google Drive, Dropbox, Mega, Scribd, Issuu 또는 유사한 파일 공유 시스템에 업로드된 파일들을 수락하지 않습니다.
 - 바로가기를 오름차순으로 정렬해 주십시오, as described [below](#alphabetical-order).
 - 가능한 가장 원작자에 가까운 바로가기를 사용해주세요(작가의 웹사이트가 편집자의 웹사이트보다 낫고, 제 3자의 웹사이트보다는 편집자의 것이 낫습니다).
-- 동일한 내용으 포함한다는 전 하에 `https` 주소를 `http`주소보다 우선시 해주십시오
-- 루트 도메인을 사용할때는, 마지막에 붙는 /를 배제하여주십시오. (`http://example.com` 가 `http://example.com/` 보다 낫습니다)
+- 동일한 내용을 포함한다는 전제 하에 `https` 주소를 `http`주소보다 우선시 해주십시오
+- 루트 도메인을 사용할 때는, 마지막에 붙는 /를 배제하여주십시오. (`http://example.com` 가 `http://example.com/`보다 낫습니다)
 - 모든 경우에 더 짧은 링크를 선호합니다: `http://example.com/dir/` 가 `http://example.com/dir/index.html`보다 낫지만, URL 단추 서비스를 사용하지 마십시오.
 - 대부분의 경우에 버전이 명시된 웹사이트보다는 현행 버젼 웹사이트를 선호합니다 (`http://example.com/dir/book/current/`가 `http://example.com/dir/book/v1.0.0/index.html`보다 낫습니다)
 - 만약 해당 바로가기의 인증서가 만료되었다면:
@@ -47,8 +47,8 @@
     2. `http` 버젼이 존재하지 않는다면, 기존의 링크를 사용하십시오. `https`형식또한 예외를 추가한다면 사용할 수 있습니다.
     3. 이외의 경우에 *제외하십시오*
 - 만약 바로가기가 여러 형식으로 존재한다면, 각각을 쪽지와 함께 모두 첨부해주세요.
-- 만약 자료가 여러 사이트에 분산되어 있다면, 가장 믿을 수 있는 바로가기를 첨부해주세요. 만약 각각의 바로가기가 다른 버젼으로 향한다면, 쪽지와 함께 모두 포함하십시오. (참고: [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) 해당문서는 규격에 대해 설명합니다).
-- 대량의 자료를 포함한 하나의 커밋보다는 작은 변화를 포함하는 여러개의 커밋이 선호됩니다.
+- 만약 자료가 여러 사이트에 분산되어 있다면, 가장 믿을 수 있는 바로가기를 첨부해주세요. 만약 각각의 바로가기가 다른 버젼으로 향한다면, 쪽지와 함께 모두 포함하십시오. (참고: [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) 해당 문서는 규격에 대해 설명합니다).
+- 대량의 자료를 포함한 하나의 커밋보다는 작은 변화를 포함하는 여러 개의 커밋이 선호됩니다.
 - 만약 오래된 책이라면, 출판일을 제목과 함께 포함하세요.
 - 작가(들)의 이름을 명시하십시오. "`et al.`"을 사용하여 단축 할 수 있습니다.
 - 만약 책이 아직 완결되지 않았다면, [아래](#in_process)에 명시되어 있다시피, "`in process`" 표시를 추가하십시오.
@@ -103,14 +103,14 @@
     GOOD: * [A Very Awesome Book](https://example.org/book.pdf) (PDF)
     ```
 
-- 저자는 형식 전에 옵니다:
+- 저자는 형식보다 앞에 쓰입니다:
 
     ```text
     BAD : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe
     GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
     ```
 
-- 여러가지의 파일 형식이 존재할떄:
+- 여러 가지의 파일 형식이 존재할 떄:
 
     ```text
     BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
@@ -147,7 +147,7 @@ If you see a misplaced link, check the linter error message to know which lines 
 
 ### 노트(쪽지)
 
-각 파일의 형식은 간단하지만, 목록에는 다양한 형태와 종류의 자료들이 존재할 수 있습니다. 아래에 나열될 항목들은 저희가 그런 다양성을 어떻게 다르는지에 대한 설명 입니다.
+각 파일의 형식은 간단하지만, 목록에는 다양한 형태와 종류의 자료들이 존재할 수 있습니다. 아래에 나열될 항목들은 저희가 그런 다양성을 어떻게 다루는지에 대한 설명입니다.
 
 
 #### 메타데이터
@@ -157,8 +157,8 @@ If you see a misplaced link, check the linter error message to know which lines 
 
 ##### 제목
 
-- 원제를 사용하세요. 저희는 원작(원본)의 제목을 사용하기를 원합니다. 기여자들은 가능한 원제에 가깝거나 동일한 제목을 제공하여야 합니다. 예외는 오래된 책들입니다. 독자들의 더 쉬운 이해와 검색을 위해 현대의 언어로 제목을 새로 짓는것은 허가됩니다.
-- 대문자로만 이루어진 제목은 금지됩니다. 대부분 경우에 title case가 허가되지만, 확실하지 않다면 자료에 명시된 방식으로 기술 하세요.
+- 원제를 사용하세요. 저희는 원작(원본)의 제목을 사용하기를 원합니다. 기여자들은 가능한 원제에 가깝거나 동일한 제목을 제공하여야 합니다. 예외는 오래된 책들입니다. 독자들의 더 쉬운 이해와 검색을 위해 현대의 언어로 제목을 새로 짓는 것은 허가됩니다.
+- 대문자로만 이루어진 제목은 금지됩니다. 대부분 경우에 title case가 허가되지만, 확실하지 않다면 자료에 명시된 방식으로 기술하세요.
 - No emojis.
 
 
@@ -166,7 +166,7 @@ If you see a misplaced link, check the linter error message to know which lines 
 
 - 주소 길이를 줄이는 행위는 허가되지 않습니다.
 - 추적을 위한 코드는 주소에서 제거되어야 합니다.
-- 주소에 영어가 아닌 언어가 포함 된 주소는 허가되지 않습니다. 대부분의 브라우져에서 정상적인 동작을 하지만, 주소창을 그대로 복사해주세요. 부탁드립니다.
+- 주소에 영어가 아닌 언어가 포함된 주소는 허가되지 않습니다. 대부분의 브라우져에서 정상적인 동작을 하지만, 주소창을 그대로 복사해주세요. 부탁드립니다.
 - 보안 주소(`https`)가 존재하는 경우, 보안 주소가 일반 주소(`http`)보다 선호됩니다.
 - 설명과 다른 웹페이지로 향하는 바로가기 주소는 선호되지 않습니다.
 
@@ -189,7 +189,7 @@ If you see a misplaced link, check the linter error message to know which lines 
 
 ##### 플랫폼과 접속 노트
 
-- 강좌, 특히 걍좌 목록의 경우, 플랫폼을 명시하는것이 필수적입니다. 각각의 강좌들의 플랫폼을 추가하여야 무료로 접속할 수 있음을 이용자들이 인지 할 수 있습니다. 일반적으로 로그인이 필요한 책은 목록에 포함하지 않지만, 강좌는 대부분 계정을 생성하지 않으면 접근 할 수 없기 때문에 예외로 합니다. 예시로는 Coursera, EdX, Udacity, 그리고 Udemy가 있습니다. 해당 강좌들이 플랫폼 의존적이라면, 플랫폼의 이름은 반드시 포함되어야 합니다.
+- 강좌, 특히 걍좌 목록의 경우, 플랫폼을 명시하는 것이 필수적입니다. 각각의 강좌들의 플랫폼을 추가하여야 무료로 접속할 수 있음을 이용자들이 인지 할 수 있습니다. 일반적으로 로그인이 필요한 책은 목록에 포함하지 않지만, 강좌는 대부분 계정을 생성하지 않으면 접근 할 수 없기 때문에 예외로 합니다. 예시로는 Coursera, EdX, Udacity, 그리고 Udemy가 있습니다. 해당 강좌들이 플랫폼 의존적이라면, 플랫폼의 이름은 반드시 포함되어야 합니다.
 - 유튜브. YouTube 재생 목록으로 구성된 많은 과정이 있습니다. YouTube를 플랫폼으로 나열하지 않고 종종 하위 플랫폼인 YouTube 제작자를 나열하려고 합니다.
 - 유튜브 동영상. 우리는 일반적으로 1시간 이상 길이가 코스나 튜토리얼처럼 구성되지 않는 한 개별 YouTube 동영상에 링크하지 않습니다.
 - Leanpub는 많은 책들과 강좌에 접근을 제공합니다. 경우에 따라 회원가입 없이 접근 할 수 있는 책들 또한 존재합니다. 경우에 따라 `*(Leanpub account or valid email requested)*` 노트를 포함하여 목록을 작성해야 합니다.

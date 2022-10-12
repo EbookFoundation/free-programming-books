@@ -127,7 +127,6 @@
 
 ### Python
 
-* [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](https://www.ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
 * [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
 
 

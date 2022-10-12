@@ -15,6 +15,7 @@
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [Compilers](#compilers)
+* [Compititive Programming](#compititive-programming)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
 * [CUDA](#cuda)
@@ -305,6 +306,10 @@
 * [Compilers](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i) - Ghassan Shobaki (YouTube)
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
 
+### Competitive Programming
+
+* [Number Theory](https://youtube.com/playlist?list=PL5DyztRVgtRWblnyEHtajWijQffrfwLz6) - CodeNCode
+* [Range Queries - CSES](https://youtube.com/playlist?list=PL5DyztRVgtRWdDXvBxMIbrjyKPN37GnMu) - CodeNCode
 
 ### Computer Organization and Architecture
 

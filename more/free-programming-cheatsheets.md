@@ -44,7 +44,6 @@
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
 * [Unit testing](#unit-testing)
-    * [Jest](#unit-testing)
 * [Webpack](#webpack)
 
 

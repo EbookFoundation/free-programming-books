@@ -745,6 +745,7 @@
 * [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - WebDevSimplified
 * [React Patterns for web apps](https://www.patterns.dev/book/) - Lydia Hallie, Addy Osmani
 * [React Router 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=59IXY5IDrBA) - John Smilga (freeCodeCamp)
+* [React Specialization with UI/UX](https://www.coursera.org/professional-certificates/meta-front-end-developer) Meta (Coursera)
 * [React State Management using Context API (useContext + useReducer Hooks = Magic)](https://www.youtube.com/watch?v=zxP4oGejqpU) - The Full Stack Junkie
 * [React Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC) - freeCodeCamp
 * [ReactJS - Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Mosh Hamedani (Programming with Mosh)

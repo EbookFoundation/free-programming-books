@@ -95,10 +95,12 @@
 * [Curso de Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4) - Robert Silva (YouTube)
 * [Curso de Docker para iniciantes - aprenda Docker em 1 hora](https://www.youtube.com/watch?v=np_vyd7QlXk) - Matheus Battisti
 
+
 ### Elixir
 
 * [Curso de Elixir](https://www.youtube.com/watch?v=GXlyLSVDkhI&list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR) - ELLY ACADEMY (YouTube)
 * [Curso de Elixir Alquimia](https://www.youtube.com/watch?v=WRGvPgCHMfI&list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone (YouTube)
+
 
 ### Flutter
 

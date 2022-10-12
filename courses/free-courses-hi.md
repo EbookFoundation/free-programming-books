@@ -41,6 +41,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [Jupyter](#jupyter)
 * [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
@@ -366,6 +367,11 @@
 #### Flask
 
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
+
+
+#### Jupyter
+
+*[Jupyter Tutorials](https://www.youtube.com/playlist?list=PLBx2L_ikudBO7s6SQZaMDCtbyrjQ-04a8) - Saima Academy
 
 
 ### R

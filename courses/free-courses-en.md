@@ -51,7 +51,6 @@
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Julia](#julia) 
-* [Jupyter](#jupyter)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -73,6 +72,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [Jupyter](#jupyter)
 * [QB64](#qb64)
 * [R](#r)
 * [Robotics](#robotics)
@@ -801,11 +801,6 @@
 * [Julia Tutorials (Basic)](https://www.youtube.com/playlist?list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE) - The Julia Programming Language (YouTube)
 
 
-### Jupyter
-
-* [Full Jupyter](https://www.youtube.com/watch?v=HW29067qVWk) - Corey Schafer (Youtube)
-
-
 ### Kotlin
 
 * [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) (Udacity)
@@ -1047,6 +1042,11 @@
 * [Flask Fridays](https://www.youtube.com/playlist?list=PLCC34OHNcOtolz2Vd9ZSeSXWc8Bq23yEz) - Codemy.com (YouTube)
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) - Tech with Tim
+
+
+#### Jupyter
+
+* [Jupyter Tutorials](https://youtube.com/playlist?list=PL1m-6MPBNAZfF-El7BzqaOrCrTBRgH1Nk) - Emyrrich (Youtube)
 
 
 ### QB64

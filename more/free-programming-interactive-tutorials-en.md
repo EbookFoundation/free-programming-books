@@ -25,7 +25,6 @@
     * [jQuery](#jquery)
     * [React](#react)
     * [Redux](#redux)
-* [Jupyter](#jupyter)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
     * [Operating Systems](#operating-systems)
@@ -39,6 +38,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+    * [Jupyter](#jupyter)
 * [R](#r)
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
@@ -223,12 +223,6 @@
 * [Try jQuery](http://try.jquery.com)
 
 
-### Jupyter
-
-* [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-* [Jupyter](https://docs.jupyter.org/en/latest/)
-
-
 #### AngularJS
 
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson
@@ -349,6 +343,14 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
+
+
+### Jupyter
+
+* [Learn Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) - Read the Docs
+* [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - Benjamin Pryke 
+* [Jupyter](https://docs.jupyter.org/)
+* [Sphinx](https://www.sphinx-doc.org/en/master/)
 
 
 ### R

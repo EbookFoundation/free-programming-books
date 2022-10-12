@@ -74,6 +74,7 @@
     * [Flask](#flask)
 * [QB64](#qb64)
 * [R](#r)
+* [Redis](#redis)
 * [Robotics](#robotics)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -1054,6 +1055,21 @@
 * [R Programming](https://www.coursera.org/course/rprog)
 * [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) - Barton Poulson (freeCodeCamp)
 * [R Tutorial For Beginners \| Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU) - Edureka!
+
+
+### Redis
+
+* [Learning Redis Tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3Mt3iBO2eosx5vXHeaM92TG) - Packt Video
+* [Redis and Redis Sentinel Crash Course - Redis Commands and High Availability tutorial](https://www.youtube.com/watch?v=-a07Ief51H4) - Code Academia
+* [Redis Beginner Tutorials](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8n1fsiT8z_VnDhnUk4vaVq) - Automation Step by Step
+* [Redis CLI Tutorial | Complete Course](https://www.youtube.com/watch?v=0wqZd3zwh7Y) - Daily Code Buffer
+* [Redis Course - In-Memory Database Tutorial](https://www.youtube.com/watch?v=XCsS_NVAa1g) - freeCodeCamp.org
+* [Redis Crash Course](https://www.youtube.com/playlist?list=PLoAsubXIl8uKqhvGFeH8g_gzHPwyFoVJQ) - CodeWithTim
+* [Redis Crash Course - the What, Why and How to use Redis as your primary database](https://www.youtube.com/watch?v=OqCK95AS-YE) - TechWorld with Nana
+* [Redis Crash Course Tutorial](https://www.youtube.com/watch?v=Hbt56gFj998) - Traversy Media
+* [Redis In-Memory Database Crash Course](https://www.youtube.com/watch?v=V7FPk4J10KI) - Hussein Nasser
+* [Redis Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYZZxQdap7Sd0ARKFI-XVsd) - ProgrammingKnowledge
+* [What is Redis and What Does It Do?](https://www.youtube.com/watch?v=8A_iNFRP0F4) - CBT Nuggets
 
 
 ### Robotics

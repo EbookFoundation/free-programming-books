@@ -181,7 +181,6 @@
 * [HTTP203](https://developers.google.com/web/shows/http203/podcast) - Surma, Jake (podcast)
 * [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu, Tyler McGinnis, Kyle Simpson, et al. (podcast)
 * [JavaScript Jabber](https://javascriptjabber.com) - Aimee Knight, AJ O'Neal, Charles Wood, Dan Shappir, Steve Edwards, et al. (podcast)
-* [Javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4) - Telusko (podcast)
 * [JS Party](https://changelog.com/jsparty) - Jerod Santo, Nick Nisi, Amelia Wattenberger, Kevin Ball, Divya, Feross Aboukhadijeh, Amal Hussein, Christopher Hiller, Ali Spittel, et al. (podcast)
 * [Ladybug Podcast](https://www.ladybug.dev) - Emma Bostian, Sidney Buckner, Kelly Vaughn, and Ali Spittel (podcast)
 * [Modern Web](https://www.thisdot.co/modern-web) - This Dot Labs (podcast)

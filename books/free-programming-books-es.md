@@ -283,7 +283,7 @@
 
 #### Redis
 
-* [El pequeño libro Redis](https://raulexposito.com/the-little-redis-book-en-castellano.html) - Karl Seguin, `trl.:` Raúl Expósito (HTML, [PDF](https://raulexposito.com/assets/pdf/redis.pdf), [EPUB](https://raulexposito.com/assets/epub/redis.epub))
+* [El pequeño libro Redis](https://raulexposito.com/the-little-redis-book-en-castellano.html) - Karl Seguin, `trl.:` Raúl Expósito (HTML, PDF, EPUB)
 
 
 ### PHP

@@ -10,6 +10,7 @@
 - [Git](#git)
 - [Go](#go)
 - [Güvenlik ve Gizlilik](#güvenlik-ve-gizlilik)
+- [Haskell](#haskell)
 - [HTML and CSS](#html-and-css)
 - [iOS](#ios)
 - [Java](#java)
@@ -23,7 +24,6 @@
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [Haskell](#haskell)
 
 
 ### Algoritma ve Veri Yapıları
@@ -76,6 +76,11 @@
 ### Güvenlik ve Gizlilik
 
 * [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin, et al.
+
+
+### Haskell
+
+* [Zor Yoldan Haskell](https://github.com/joom/zor-yoldan-haskell) - Yann Esposito,  `trl.:` Joomy Korkut
 
 
 ### HTML and CSS
@@ -159,8 +164,3 @@
 
 * [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
 * [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)
-
-
-### Haskell
-
-*[Zor Yoldan Haskell](https://github.com/joom/zor-yoldan-haskell) - Yann Esposito - Joomy Korkut

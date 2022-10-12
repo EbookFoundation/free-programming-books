@@ -1,27 +1,29 @@
 ### İçindekiler
 
-* [Algoritma ve Veri Yapıları](#algoritma-ve-veri-yapilari)
-* [Android](#android)
-* [C](#c)
-* [C++](#cpp)
-* [D](#d)
-* [Dart](#dart)
-* [Git](#git)
-* [Go](#go)
-* [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
-* [HTML and CSS](#html-and-css)
-* [iOS](#ios)
-* [Java](#java)
-* [JavaScript](#javascript)
-* [LaTeX](#latex)
-* [Linux](#linux)
-* [Matlab](#matlab)
-* [.NET Framework](#net-framework)
-* [Python](#python)
-    * [Django](#django)
-* [R](#r)
-* [Ruby](#ruby)
-* [Rust](#rust)
+- [İçindekiler](#i̇çindekiler)
+- [Algoritma ve Veri Yapıları](#algoritma-ve-veri-yapıları)
+- [Android](#android)
+- [C](#c)
+- [<a id="cpp"></a>C++](#c-1)
+- [D](#d)
+- [Dart](#dart)
+- [Git](#git)
+- [Go](#go)
+- [Güvenlik ve Gizlilik](#güvenlik-ve-gizlilik)
+- [HTML and CSS](#html-and-css)
+- [iOS](#ios)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [LaTeX](#latex)
+- [Linux](#linux)
+- [Matlab](#matlab)
+- [.NET Framework](#net-framework)
+- [Python](#python)
+- [Django](#django)
+- [R](#r)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [Haskell](#haskell)
 
 
 ### Algoritma ve Veri Yapıları
@@ -157,3 +159,6 @@
 
 * [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
 * [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)
+
+### Haskell
+*[Zor Yoldan Haskell](https://github.com/joom/zor-yoldan-haskell) - Yann Esposito - Joomy Korkut

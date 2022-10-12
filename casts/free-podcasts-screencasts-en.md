@@ -192,6 +192,7 @@
 * [The JavaScript Show](http://javascriptshow.com) - Peter Cooper, Jason Seifer (podcast)
 * [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
 * [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
+* [Javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4) - Telusko (podcast)
 
 
 #### Angular

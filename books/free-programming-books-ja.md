@@ -540,7 +540,7 @@
 * [PHP によるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
 * [PHP マニュアル](https://www.php.net/manual/ja) - The PHP Group
 * [PHP 基礎文法最速マスター](https://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
-* [PHP4徹底攻略改訂版](https://prev.net-newbie.com/support/pdf2/)
+* [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 

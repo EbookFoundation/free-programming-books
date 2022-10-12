@@ -1115,11 +1115,11 @@
 ### Software Engineering
 
 * [Appium-Mobile Automation Testing from Scratch in 2 hours](https://www.youtube.com/watch?v=Fx3ud5wMHYc) - Rahul Shetty Academy
-* [Cucumber Selenium Tutorial](https://www.youtube.com/watch?v=ZSfOEBh9BRM) - Edureka (YouTube)
-* [Cypress In 3 Hours](https://www.youtube.com/watch?v=jX3v3N6oN5M) - LambdaTest (YouTube)
-* [Robot Framework Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faORDOyJrk0E6k9FM-wKgfPV) - Software Testing Mentor (YouTube)
-* [Selenium Full Course- Learn Selenium in 12 Hours](https://www.youtube.com/watch?v=FRn5J31eAMw) - Edureka (YouTube)
-* [Selenium WebDriver Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faPB-LyEP0-a7Avp_RHO0Lsm) - Software Testing Mentor (YouTube)
+* [Cucumber Selenium Tutorial](https://www.youtube.com/watch?v=ZSfOEBh9BRM) - Edureka
+* [Cypress In 3 Hours](https://www.youtube.com/watch?v=jX3v3N6oN5M) - LambdaTest
+* [Robot Framework Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faORDOyJrk0E6k9FM-wKgfPV) - Software Testing Mentor
+* [Selenium Full Course- Learn Selenium in 12 Hours](https://www.youtube.com/watch?v=FRn5J31eAMw) - Edureka
+* [Selenium WebDriver Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faPB-LyEP0-a7Avp_RHO0Lsm) - Software Testing Mentor
 
 
 ### Solidity

@@ -494,7 +494,6 @@
 
 #### Backbone.js
 
-* [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
 * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
 * [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *(:card_file_box: archived)*
 

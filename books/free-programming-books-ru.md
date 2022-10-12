@@ -356,7 +356,7 @@
 
 #### Vue.js
 
-* [Перевод документации](https://v3.ru.vuejs.org/)
+* [Перевод документации](https://v3.ru.vuejs.org)
 * [Руководство по Vue.js](https://metanit.com/web/vuejs) - Евгений Попов
 * [VueJS Учебник](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-vuejs/vuejs-uchebnik) - CoderLessons.com
 
@@ -582,7 +582,7 @@
 
 ### TypeScript
 
-* [Карманная книга по TypeScript](https://typescript-handbook.ru/) - Igor Agapov
+* [Карманная книга по TypeScript](https://typescript-handbook.ru) - Igor Agapov
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
 
 

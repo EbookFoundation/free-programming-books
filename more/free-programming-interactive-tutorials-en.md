@@ -347,10 +347,9 @@
 
 ### Jupyter
 
-* [Learn Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) - Read the Docs
 * [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - Benjamin Pryke 
 * [Jupyter](https://docs.jupyter.org/)
-* [Sphinx](https://www.sphinx-doc.org/en/master/)
+* [Learn Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) - Read the Docs
 
 
 ### R

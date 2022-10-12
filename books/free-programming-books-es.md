@@ -241,7 +241,7 @@
 #### React
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux/read) - Sergio Daniel Xalambrí (HTML)
-* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
+* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen, `trl.:` Raúl Expósito (HTML, PDF)
 
 
 ### LaTeX

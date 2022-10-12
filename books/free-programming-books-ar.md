@@ -51,7 +51,6 @@
 ### HTML and CSS
 
 * [التحريك عبر CSS&rlm;](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat&rlm; (PDF)
-* [نحو فهم أعمق لتقنيات HTML5&rlm;](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash&rlm; (PDF)
 
 
 ### Introduction to Programming in Arabic

@@ -86,6 +86,7 @@
 
 * [Kurs MySQL](https://www.youtube.com/playlist?list=PL748D0ACBEC371708)
 * [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ) - Mirosław Zelent, Damian Stelmach
+* [Ms SQL Server – Podstawy](https://kursy.online-project.pl/product/ms-sql-server-podstawy) - Andrzej Śmigielski
 
 
 ### PHP

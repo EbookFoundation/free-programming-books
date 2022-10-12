@@ -196,13 +196,12 @@
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
+* [Free API World Cup 2022](https://github.com/raminmr/free-api-worldcup2022) - Raminmr
 * [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
-* [Free API World Cup 2022](https://github.com/raminmr/free-api-worldcup2022) - Raminmr
-
 
 ### JavaScript
 

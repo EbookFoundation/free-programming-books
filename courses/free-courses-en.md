@@ -1208,4 +1208,5 @@
 
 ### Webpack
 
+* [Webpack basics](https://hackr.io/tutorials/learn-webpack) - hackr.io
 * [Webpack tutorial](https://www.classcentral.com/course/youtube-learn-webpack-course-45823/classroom) - Colt Steele

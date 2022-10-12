@@ -348,8 +348,8 @@
 ### Jupyter
 
 * [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - Benjamin Pryke 
-* [Jupyter](https://docs.jupyter.org/)
-* [Learn Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) - Read the Docs
+* [Jupyter](https://docs.jupyter.org)
+* [Learn Jupyter](https://jupyter-notebook.readthedocs.io) - Read the Docs
 
 
 ### R

@@ -328,7 +328,7 @@
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
-* [Data Visualization with ggplot2 : : CHEAT SHEET](https://ggplot2.tidyverse.org/) - ggplot2.tidyverse.org  (PDF)
+* [Colors in R](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) - Dr. Ying Wei  (PDF)
 
 
 ### Raspberry Pi

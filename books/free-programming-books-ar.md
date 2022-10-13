@@ -16,6 +16,7 @@
 * [Operating System](#operating-systems)
 * [PHP](#php)
 * [Python](#python)
+* [Django](#django)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Scratch](#scratch)
@@ -24,6 +25,8 @@
 * [SQL](#sql)
     * [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
+* [DataScience](#data-science)
+ 
 
 
 ### Arduino
@@ -111,6 +114,10 @@
 
 * [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)
 
+### Django
+
+* [ Begining Django ](https://drive.google.com/file/d/1FvORmn8NUhAqbGxNz7Ha5cdbQiXKYrfs/view)
+
 
 ### Raspberry Pi
 
@@ -156,5 +163,8 @@
 ### UI/UX
 
 * [مدخل إلى تجربة المستخدم](https://academy.hsoub.com/files/11-مدخل-إلى-تجربة-المستخدم-user-experience-ux/)
+
+### DataScience 
+* [Download Data Science from Scratch with R PDF Notes](https://www.techprofree.com/download-data-science-from-scratch-with-r-pdf-notes/)
 
 </div>

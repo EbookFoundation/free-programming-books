@@ -47,7 +47,7 @@
 ### Java
 
 * [Java 5.0, novinky jazyka a upgrade aplikací](http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf) (PDF)
-
+* [JAVA The Complete Reference](https://drive.google.com/file/d/0B6xeB9nZ-6_IVGgtbVd1QXQyRkk/view?resourcekey=0-f_lIDOE6JqDs9e2UFunp5w) (PDF)
 
 ### Git
 

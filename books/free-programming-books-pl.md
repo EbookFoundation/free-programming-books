@@ -172,7 +172,7 @@
 
 ### R
 
-* [Przewodnik po pakiecie R](https://cran.r-project.org/doc/contrib/Biecek-R-basics.pdf) - Przemysław Biecek
+* [Przewodnik po pakiecie R](https://cran.r-project.org/doc/contrib/Biecek-R-basics.pdf) - Przemysław Biecek (PDF)
 
 
 ### Ruby

@@ -6,6 +6,7 @@
 * [C++](#cpp)
 * [Competitive Programming](#competitive-programming)
 * [Dart](#dart)
+* [Docker](#docker)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -21,10 +22,13 @@
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
+* [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
+* [Scratch](#scratch)
+* [Shell scripting](#shell-scripting)
 * [TypeScript](#typescript)
 
 
@@ -66,6 +70,11 @@
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
 
 
+### Docker
+
+* [Docker Tutorial Course](https://www.youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku) - Foyzul Karim
+
+
 ### Flutter
 
 * [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy) - Techno BD XYZ
@@ -82,8 +91,9 @@
 
 ### Go
 
-* [Golang কোডিং বুট ক্যাম্প ক্লাস](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - MASTER-ACADEMY
 * [Go Bangla Tutorials 2022](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rtasmmoS_EWXdg0X-eX_x8) - Anisul Islam
+* [Golang Web Development Bangla](https://www.youtube.com/playlist?list=PLF4a815a8kFzPOFGV7uXsm2j1Of9cCwpx) - Learn with Raihan
+* [Golang কোডিং বুট ক্যাম্প ক্লাস](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - MASTER-ACADEMY
 
 
 ### HTML and CSS
@@ -140,6 +150,7 @@
 * [Complete MERN Stack Course in Bangla](https://www.youtube.com/watch?v=ewBBT6Iph0M&list=PL_XxuZqN0xVD0op-QDEgyXFA4fRPChvkl) - Stack Learner
 * [Dive Into NodeJS](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDHFj-ecFSU0SU-B0TuJRk9) - Stack Learner
 * [Node.js Tutorial Bangla  Series for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM) - Learn With Sumit
+* [NodeJS Tutorial Online](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZHMhSqsdo_Tge0CDxxXd1w) - Foyzul Karim
 * [Raw Node JS Project in Bangla ( বাংলা ) - Uptime Monitoring API](https://youtube.com/playlist?list=PLHiZ4m8vCp9OmVWU2Qf9tZgKdyzoubOpj) - Learn With Sumit
 
 
@@ -164,6 +175,12 @@
 ### Kotlin
 
 * [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
+
+
+### MongoDB
+
+* [Mastering MongoDB](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt) - Foyzul Karim
+* [MongoDB Bangla tutorial series](https://youtube.com/playlist?list=PLgH5QX0i9K3p4ckbNCy71LRr_dG0AWGw9) - Anisul Islam
 
 
 ### MySQL
@@ -195,7 +212,21 @@
 * [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
 
 
+### Scratch
+
+* [Scratch Programming](https://youtube.com/playlist?list=PLtEypp6e7UDBfNhRt9x3N89mJKl0PztHH) - bdOSN
+* [Scratch Programming for Kids Bangla](https://youtube.com/playlist?list=PLkWIEmwZeYzqpPfmJdlXKgjxrCu47Gfaz) - Opportunities For Kids
+* [Scratch Programming in Bangla](https://youtube.com/playlist?list=PLym69wpbTIIEkUnqkOznZfQU6lRxebpO3) - Tamim Shahriar
+
+
+### Shell scripting
+
+* [Linux Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PLMTKJq4uuKqXVg7S7XujEsONl9ZVT4X0p) - Atiq Hasan Zubu
+
+
 ### TypeScript
 
+* [TypeScript Advance Course](https://www.youtube.com/playlist?list=PLEYpvDF6qy8aesJ9a6lREDE4lcIA0iHMR) - Foyzul Karim
 * [TypeScript Bangla ( বাংলা ) Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3) - Learn with Sumit
 * [typescript full course in bangla](https://youtube.com/playlist?list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq) - Anisul Islam
+

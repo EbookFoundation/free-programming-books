@@ -172,6 +172,7 @@
 ### Databases
 
 * [3.1 DBMS In Hindi (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV) - Knowledge Gate
+* [DBMS (Database Management System)](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc) - Jenny's lectures CS/IT NET&JRF
 * [DBMS (Database Management System) Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
 * [DBMS Placements Series 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp - by Babbar
 
@@ -188,6 +189,7 @@
 * [Flutter 3 tutorial in Hindi](https://youtube.com/playlist?list=PLB97yPrFwo5g-XcPlfSXSOeeby23jVAcp) - CODERS NEVER QUIT
 * [Flutter Essential Course](https://www.youtube.com/watch?v=Wdx8vwN_nWI) - freecodecamp (YouTube)
 * [Flutter Series 2020](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo3Cs115GXkot28i406511Y) - CodeHelp - by Babbar (YouTube)
+* [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - The Net Ninja
 * [Flutter Tutorial For Beginners in Hindi](https://youtube.com/playlist?list=PLMkkZSS5OjPIwDyHHKVex6zr008U1-sWM) - Geeks Rank
 
 

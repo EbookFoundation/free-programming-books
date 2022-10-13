@@ -346,7 +346,7 @@
 
 #### React
 
-* [Перевод документации](https://learn-reactjs.ru/home)
+* [Перевод документации](https://ru.reactjs.org/docs/getting-started.html)
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
 * [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/)
@@ -355,7 +355,7 @@
 
 #### Vue.js
 
-* [Перевод документации](https://ru.vuejs.org)
+* [Перевод документации](https://v3.ru.vuejs.org)
 * [Руководство по Vue.js](https://metanit.com/web/vuejs) - Евгений Попов
 * [VueJS Учебник](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-vuejs/vuejs-uchebnik) - CoderLessons.com
 
@@ -519,8 +519,8 @@
 ### Rust
 
 * [Растономикон](https://github.com/ruRust/rustonomicon)
-* [Язык программирования Rust](http://rurust.github.io/rust_book_ru)
-* [Rust на примерах](https://rurust.github.io/rust-by-example-ru)
+* [Язык программирования Rust](https://doc.rust-lang.ru/book/)
+* [Rust на примерах](https://doc.rust-lang.ru/stable/rust-by-example/index.html)
 * [Rust Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchitsia-programmirovaniiu-na-rust/rust-tutorial) - CoderLessons.com
 
 
@@ -576,13 +576,12 @@
 ### Swift
 
 * [Документация и туториалы](https://swiftbook.ru)
-* [Documentation](https://swift.org/documentation)
 * [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial) - CoderLessons.com
 
 
 ### TypeScript
 
-* [Перевод официальной документации Typescript](http://typescript-lang.ru/docs/) - George Kiselev
+* [Карманная книга по TypeScript](https://typescript-handbook.ru) - Igor Agapov
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
 
 

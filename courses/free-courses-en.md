@@ -94,6 +94,7 @@
 
 ### 0 - MOOC
 
+* [class central](https://www.classcentral.com)
 * [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org)
 * [Datacamp](https://www.datacamp.com)
@@ -133,6 +134,7 @@
 * [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Mosh Hamedani (Programming with Mosh)
 * [Data Structures and Algorithms Full Course](https://www.youtube.com/watch?v=LcKqYoX8uH4) - Simplilearn (YouTube, Video length 7:13:56)
 * [Data Structures and Algorithms in Java Full Course](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) - Dinesh Varyani (YouTube playlist)
+* [Data Structures and Algorithms in Python Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA) - Aakash N S (freeCodeCamp)
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego, HSE University
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset (freeCodeCamp)
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
@@ -287,6 +289,7 @@
 
 ### Clojure
 
+* [Clojure language Tutorial - for Beginners](https://www.youtube.com/watch?v=zFPiPBIkAcQ)
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 
 
@@ -631,6 +634,7 @@
 * [Java Programming](https://java-programming.mooc.fi) - University of Helsinki
 * [Java Programming](https://youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5) - Neso Academy
 * [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) - Cezanne Camacho, Asser Samak (Udacity) (account *required*)
+* [Java Programming Basics](https://www.udemy.com/course/java-programming-basics/) - Charles Mulic (Udemy)
 * [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) (Coursera)
 * [Java Server Tutorials - Happy Coding](https://happycoding.io/tutorials/java-server/) - Kevin Workman
 * [Java tutorial for beginners](https://youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1) - Bro Code (YouTube)
@@ -665,9 +669,9 @@
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
 * [JavaScript Mini Course 2020](https://www.udemy.com/course/javascript-essentials-mini-course/) - Kalob Taulien (Udemy)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - The Net Ninja
-* [JavaScript Tutorial for Beginners](https://youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4) - Telusko (YouTube)
 * [JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Moshfegh Hamedani (Programming with Mosh)
 * [JavaScript Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax) - Moshfegh Hamedani (Programming with Mosh)
+* [Javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4) - Telusko (Youtube)
 * [Javascript30](https://javascript30.com) - Wesbos
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [Learn JavaScript](https://youtube.com/playlist?list=PLgBH1CvjOA636I8hnHSyuOnX341XQrBth) -  Florin Pop (YouTube)
@@ -787,7 +791,9 @@
 * [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
 * [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
 * [JavaScript Testing Fundamentals](https://vueschool.io/courses/javascript-testing-fundamentals)
+* [Learn Vue 3 step by step](https://laracasts.com/series/learn-vue-3-step-by-step) - Jeffrey Way
 * [Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals)
+* [Vue JS 3 Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f) - Vishwas Gopinath (Codevolution)
 * [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone)
 * [Vue.js Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
@@ -824,6 +830,7 @@
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
 * [Linux Administration Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik) - edureka!
 * [Linux Command Line](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
+* [Linux Tutorial for Beginners - Learn Linux and the Bash Command Line](https://ryanstutorials.net/linuxtutorial) - Ryan Chadwick
 * [Linux Tutorials and Projects](https://www.udemy.com/course/linux-tutorials/) - Jason Cannon (Udemy)
 * [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat Inc. (Udemy)
 * [The Linux Basics: Beginner to Sysadmin, Step by Step](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
@@ -1086,6 +1093,7 @@
 * [An Introduction to Ruby Programming Language](https://www.researchgate.net/publication/322222154_An_Introduction_to_Ruby_Programming_Language) - Ali Tourani (HTML, PDF)
 * [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) - The Odin Project
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
+* [Learn Rails: Quickly Code, Style and Launch 4 Web Apps](https://www.udemy.com/course/learn-rails) - Adam Eubanks (Udemy)
 * [Learn Ruby](https://www.learnrubyonline.org)
 * [RESTful API with Ruby On Rails 5](https://www.udemy.com/course/restful-api-with-ruby-on-rails-5/) - Udemy
 * [Ruby Tutorial](https://www.w3resource.com/ruby/)
@@ -1101,6 +1109,7 @@
 * [Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ) - Tech With Tim
 * [Rust Projects](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb) - Tensor Programming
 * [Rust Tutorial](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5) - Doug Milford
+* [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Microsoft.com
 
 
 ### Spark

@@ -287,6 +287,7 @@
 
 ### Clojure
 
+* [Clojure language Tutorial - for Beginners](https://www.youtube.com/watch?v=zFPiPBIkAcQ)
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 
 

@@ -282,6 +282,7 @@
 
 ### Perl
 
+* [Perl Cheat Sheet](https://www.pcwdld.com/perl-cheat-sheet#wbounce-modal) - Hitesh J (HTML)
 * [Perl Reference card](https://michaelgoerz.net/refcards/perl_refcard.pdf) (PDF)
 
 

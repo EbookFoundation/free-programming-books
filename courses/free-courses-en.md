@@ -1121,7 +1121,6 @@
 
 ### Software Engineering
 
-* [Appium-Mobile Automation Testing from Scratch in 2 hours](https://www.youtube.com/watch?v=Fx3ud5wMHYc) - Rahul Shetty Academy
 * [Cucumber Selenium Tutorial](https://www.youtube.com/watch?v=ZSfOEBh9BRM) - Edureka
 * [Cypress In 3 Hours](https://www.youtube.com/watch?v=jX3v3N6oN5M) - LambdaTest
 * [Robot Framework Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faORDOyJrk0E6k9FM-wKgfPV) - Software Testing Mentor

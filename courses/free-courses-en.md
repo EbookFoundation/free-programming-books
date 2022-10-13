@@ -93,6 +93,7 @@
 
 ### 0 - MOOC
 
+* [class central](https://www.classcentral.com)
 * [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org)
 * [Datacamp](https://www.datacamp.com)

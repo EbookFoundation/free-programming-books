@@ -172,6 +172,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Pandas](#pandas)
     * [Pyramid](#pyramid)
     * [Tornado](#tornado)
+* [Q#](#q-sharp)
 * [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
@@ -2027,6 +2028,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Tornado
 
 * [Learn Web Programming](https://bitbucket.org/hrojas/learn-web-programming)
+
+
+### <a id="q-sharp"></a>Q\#
+
+* [The Q# quantum programming language user guide](https://learn.microsoft.com/en-us/azure/quantum/user-guide) (HTML)
 
 
 ### QML

@@ -50,8 +50,6 @@
 * [สอนพื้นฐาน JavaScript ทั้งหมดแบบจบในคลิปเดียว !!](https://www.youtube.com/watch?v=PGZ7QiKdumo) - BorntoDev
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) - Zinglecode
 
-### Kotlin
-* [Getting started with Kotlin](https://www.skooldio.com/courses/getting-started-with-kotlin)
 
 #### NodeJS
 
@@ -70,6 +68,10 @@
 * [เมื่อได้รับภารกิจสร้างระบบเข้าร่วม Event ผ่าน Line Liff](https://www.youtube.com/playlist?list=PLSy2hExy-WZN_fJSBbX7bsrAWsm3sbQg-) - CodeTraveler
 * [สอนเขียน VueJS](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBry3sJDNrbqor5ikjwGDJ_7) - CMDev
 * [สอน VueJS + NuxtJS ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCMd24NIQTPcqHhfnK-QbPmD) - Geekstart
+
+
+### Kotlin
+* [Getting started with Kotlin](https://www.skooldio.com/courses/getting-started-with-kotlin)
 
 
 ### Python

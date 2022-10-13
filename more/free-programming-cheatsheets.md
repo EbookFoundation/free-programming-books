@@ -388,9 +388,9 @@
 
 ### Unit testing
 
-* [Enzyme CheatSheet](https://testing-library.com/docs/react-testing-library/cheatsheet/) - Kent C. Dodds and contributors (HTML)
 * [Jest CheatSheet](https://devhints.io/jest) - devhints, Rico Santa Cruz (HTML)
 * [What is Unit testing](https://www.guru99.com/unit-testing-guide.html) - Thomas Hamilton (HTML)
+* [React Testing Library CheatSheet](https://testing-library.com/docs/react-testing-library/cheatsheet/) - Kent C. Dodds and contributors (HTML)
 
 
 ### Webpack

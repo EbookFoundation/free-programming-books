@@ -209,6 +209,8 @@
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) (HTML)
 
+### Jupyter Notebook
+* [Jupyter Notebook Cheat Sheet](https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet) - Datacamp (HTML)
 
 #### jQuery
 

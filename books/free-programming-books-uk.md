@@ -5,6 +5,7 @@
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [React](#react)
 * [Language Agnostic](#language-agnostic)
 * [PHP](#php)
 * [Python](#python)
@@ -14,10 +15,11 @@
 
 ### <a id="c-and-cpp"></a>C and C++
 
-* [С/C++ Теорія та практика](https://shron1.chtyvo.org.ua/Voitenko_Volodymyr/C_Cpp_Teoriia_ta_praktyka.pdf) - Володимир Войтенко
+* [С/C++ Теорія та практика](https://shron1.chtyvo.org.ua/Voitenko_Volodymyr C_Cpp_Teoriia_ta_praktyka.pdf) - Володимир Войтенко
 
 
 ### ClojureScript
+
 * [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled) - Роман Лютіков (LambdaBooks)
 
 
@@ -35,6 +37,8 @@
 
 * [Розуміння ECMAScript 6](http://understandinges6.denysdovhan.com) - Денис Довгань (LambdaBooks)
 
+#### React
+* [Документація React](https://uk.reactjs.org/docs/getting-started.html)
 
 ### Language Agnostic
 

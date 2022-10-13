@@ -371,7 +371,7 @@
 
 #### Jupyter
 
-*[Jupyter Tutorials](https://www.youtube.com/playlist?list=PLBx2L_ikudBO7s6SQZaMDCtbyrjQ-04a8) - Saima Academy
+* [Jupyter Tutorials](https://www.youtube.com/playlist?list=PLBx2L_ikudBO7s6SQZaMDCtbyrjQ-04a8) - Saima Academy
 
 
 ### R

@@ -155,6 +155,7 @@ This project lists books and other resources grouped by genres:
 + [Sinhala / සිංහල](courses/free-courses-si.md)
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Swedish / svenska](courses/free-courses-sv.md)
++ [Telugu / తెలుగు](courses/free-courses-te.md)
 + [Tamil / தமிழ்](courses/free-courses-ta.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)

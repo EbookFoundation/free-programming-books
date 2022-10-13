@@ -266,6 +266,7 @@
 * [Developer On Fire](https://developeronfire.com) - Dave Rael (podcast)
 * [Developer Tea](https://developertea.com) - Jonathan Cutrell (podcast)
 * [DevelopersHangout](https://www.developershangout.io) - Eric J Silva (podcast)
+* [Does Not Compute](https://dnc.show/) - Sean Washington, Rockwell Schrock (podcast)
 * [Domain Driven Design Europe](https://dddeurope.com/videos/) (screencast)
     * [Domain Driven Design Europe - 2017](https://2017.dddeurope.com/#videos) (screencast)
 * [FLOSS WEEKLY](https://twit.tv/shows/floss-weekly) - Doc Searls, Aaron Newcomb, Dan Lynch, Simon Phipps, Jonathan Bennett, Shawn Powers, Katherine Druckman (podcast)

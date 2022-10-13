@@ -60,7 +60,8 @@
 * [grokking-algorithms&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW) - Nehal Elsamoly&rlm; (:construction: *in process*)
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi
 * [Standard Template Library (STL) Full Tutorial Using C++ In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp) - Adel Nasim
-* [Complete C++ Data Structure and Algorithem;](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) Sourabh Choudhary
+* [Structure course- Complete C++ Data Structure and Algorithem;](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - Sourabh Choudhary
+
 
 ### Assembly
 
@@ -85,8 +86,8 @@
 
 ### C
 
-* [Introduction to Programming ( C Language - مقدمة في البرمجة ( لغة السي](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXI8wByY0umF_DQON2S9uws) - Ahmed Sallam
 * [Complete C Language Programming;](https://youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - Sourabh Choudhary
+* [Introduction to Programming ( C Language - مقدمة في البرمجة ( لغة السي](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXI8wByY0umF_DQON2S9uws) - Ahmed Sallam
 
 
 ### <a id="csharp"></a>C#&lrm;

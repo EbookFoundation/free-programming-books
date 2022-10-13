@@ -1121,7 +1121,6 @@
 
 ### Software Engineering
 
-* [Cucumber Selenium Tutorial](https://www.youtube.com/watch?v=ZSfOEBh9BRM) - Edureka
 * [Cypress In 3 Hours](https://www.youtube.com/watch?v=jX3v3N6oN5M) - LambdaTest
 * [Robot Framework Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faORDOyJrk0E6k9FM-wKgfPV) - Software Testing Mentor
 * [Selenium Full Course- Learn Selenium in 12 Hours](https://www.youtube.com/watch?v=FRn5J31eAMw) - Edureka

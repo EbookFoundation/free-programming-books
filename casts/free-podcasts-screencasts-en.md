@@ -38,7 +38,6 @@
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) - Chet Haase, Tor Norbye, Romain Guy, Nick Butcher, et al. Android Developers team (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) - Donn Felker, Kaushik Gopal (podcast)
 * [Now in Android](https://nowinandroid.libsyn.com) - Chet Haase, Dan Galpin, Manuel Vivo, Meghan Mehta, et al. Android Developers team (podcast)
-* [Android](https://www.youtube.com/watch?v=aS__9RbCyHg) - Android Full Course - Learn Android in 9 Hours | Android Development Tutorial for Beginners| Edureka
 * [The complete Android Application Development Course - Work Great in 2020](https://www.youtube.com/playlist?list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe) - Android Developer (screencast)
 
 
@@ -56,6 +55,7 @@
 * [C++ Standard Library](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - Bo Qian (screencast)
 * [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
 * [CppCast](http://cppcast.com) - Conor Hoekstra, Jason Turner, JeanHeyd Meneide, Matt Godbolt, Rob Irving (podcast)
+* [Testing in C++](https://www.twoscomplement.org/podcast/testing_in_cpp.mp3) - Matt and Ben (podcast)
 
 
 ### Clojure

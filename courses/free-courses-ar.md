@@ -86,6 +86,7 @@
 ### C
 
 * [Introduction to Programming ( C Language - مقدمة في البرمجة ( لغة السي](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXI8wByY0umF_DQON2S9uws) - Ahmed Sallam
+* [Complete C Language Programming;](https://youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - Sourabh Choudhary
 
 
 ### <a id="csharp"></a>C#&lrm;

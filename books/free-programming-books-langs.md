@@ -2117,6 +2117,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
+* [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools) - Launch School (HTML)
 * [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
 * [Essential Ruby](https://www.programming-books.io/essential/ruby/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [I Love Ruby](https://i-love-ruby.gitlab.io)

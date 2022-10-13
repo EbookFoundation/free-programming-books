@@ -327,19 +327,19 @@
 
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
+* [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *(:card_file_box: archived)*
+* [現代 C++ 101](https://hackmd.io/@Luminous-Coder/CppTutorial-zh-tw) (:construction: *in process*)
+* [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
+* [C/C++ Primer](https://github.com/andycai/cprimer) - andycai
+* [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
-* [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
-* [C/C++ Primer](https://github.com/andycai/cprimer) - andycai
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
-* [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
-* [現代 C++ 101](https://hackmd.io/@Luminous-Coder/CppTutorial-zh-tw) (:construction: *in process*)
-* [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *(:card_file_box: archived)*
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 
 

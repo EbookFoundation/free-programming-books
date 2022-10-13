@@ -22,7 +22,6 @@
     * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
-* [MDX](#mdx)
 * [.Net](#dotnet)
 * [Nim](#nim)
 * [Node.js](#nodejs)
@@ -196,11 +195,6 @@
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
-### MDX
-
-* [MDX Playground](https://mdxjs.com/playground)
-
-
 ### <a id="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
@@ -215,6 +209,7 @@
 
 * [Hello Node - (Glitch)](https://glitch.new/node) *(Account requested, not required)*
 * [Ideone](https://ideone.com)
+* [MDX Playground](https://mdxjs.com/playground)
 * [SoloLearn](https://code.sololearn.com/nodejs)
 
 

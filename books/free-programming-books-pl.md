@@ -174,6 +174,7 @@
 
 * [Przewodnik po pakiecie R](https://cran.r-project.org/doc/contrib/Biecek-R-basics.pdf) - Przemysław Biecek
 
+
 ### Ruby
 
 * [Ruby](https://pl.wikibooks.org/wiki/Ruby) - Wikibooks

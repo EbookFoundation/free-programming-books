@@ -90,6 +90,7 @@ CSE Tamila by Eezytutorials
 ### React
 
 * [React JS Online Course in Tamil](https://www.youtube.com/playlist?list=PLfD4W8QfMd5DbFccLzRFeG0QjWWHGTT3-) - MaanavaN Learn Code
+* [React JS | Tutorial | Tamil](https://www.youtube.com/playlist?list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ) - VJ Techno Wizard
 
 
 ### SQL

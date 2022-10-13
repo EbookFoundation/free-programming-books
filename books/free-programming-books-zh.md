@@ -328,6 +328,7 @@
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
 * [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *(:card_file_box: archived)*
+* [現代 C++ 101](https://hackmd.io/@Luminous-Coder/CppTutorial-zh-tw) - Luminous-Coder (:construction: *in process*)
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
 * [C/C++ Primer](https://github.com/andycai/cprimer) - andycai
@@ -433,7 +434,6 @@
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
 * [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
-* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 
@@ -479,7 +479,6 @@
 * [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * [JavaScript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
-* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
 
 
 #### AngularJS
@@ -545,7 +544,6 @@
 
 * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
 * [React-Bits 中文文档](https://github.com/hateonion/react-bits-CN)
-* [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
 * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
 * [React.js 入门教程](http://fraserxu.me/intro-to-react/)
 * [React.js 中文文档](https://discountry.github.io/react/)
@@ -553,7 +551,6 @@
 
 #### Vue.js
 
-* [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
 * [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
 
 
@@ -566,7 +563,6 @@
 
 * [大家來學 LaTeX](https://github.com/49951331/graduate-project-102pj/blob/master/docs/latex123.pdf) (PDF)
 * [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
-* [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)
 
 
 ### Lisp

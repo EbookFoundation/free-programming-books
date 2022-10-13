@@ -22,6 +22,7 @@
 * [Prolog](#prolog)
 * [Python](#python)
     * [Django](#django)
+* [R](#R)
 * [Ruby](#ruby)
 * [SQL](#sql)
 
@@ -169,6 +170,11 @@
 * [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 
 
+### R
+
+* [Przewodnik po pakiecie R](https://cran.r-project.org/doc/contrib/Biecek-R-basics.pdf) - Przemysław Biecek (PDF)
+
+
 ### Ruby
 
 * [Ruby](https://pl.wikibooks.org/wiki/Ruby) - Wikibooks
@@ -176,6 +182,7 @@
 
 ### SQL
 
+* [Bazy danych](https://mst.mimuw.edu.pl/wyklady/bad/wyklad.pdf) - Zbigniew Jurkiewicz (PDF)
 * [Kurs SQL](https://www.sqlpedia.pl/kurs-sql) - Jakub Kasprzak
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

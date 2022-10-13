@@ -10,7 +10,7 @@
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [Vue.js](#vuejs)
+* [Vue.js](#vuejs)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
@@ -23,11 +23,10 @@
 * [Security](#security)
 * [SEO](#seo)
 * [SQL](#sql)
-    * [PostgreSQL](#postgresql)
+* [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
 * [DataScience](#data-science)
  
-
 
 ### Arduino
 
@@ -114,6 +113,7 @@
 
 * [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)
 
+
 ### Django
 
 * [ Begining Django ](https://drive.google.com/file/d/1FvORmn8NUhAqbGxNz7Ha5cdbQiXKYrfs/view)
@@ -163,6 +163,7 @@
 ### UI/UX
 
 * [مدخل إلى تجربة المستخدم](https://academy.hsoub.com/files/11-مدخل-إلى-تجربة-المستخدم-user-experience-ux/)
+
 
 ### DataScience 
 * [Download Data Science from Scratch with R PDF Notes](https://www.techprofree.com/download-data-science-from-scratch-with-r-pdf-notes/)

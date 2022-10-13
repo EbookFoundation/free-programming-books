@@ -31,6 +31,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Mathematics For Computer Science](#mathematics-for-computer-science)
 * [Misc](#misc)
 * [Networking](#networking)
+* [Object Oriented Programmig](#object-oriented-programming)
 * [Open Source Ecosystem](#open-source-ecosystem)
 * [Operating Systems](#operating-systems)
 * [Parallel Programming](#parallel-programming)
@@ -626,6 +627,11 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
+
+
+### object oriented programming
+
+* [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Dr Robert Harle (PDF)
 
 
 ### Open Source Ecosystem

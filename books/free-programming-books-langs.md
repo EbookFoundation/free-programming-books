@@ -813,6 +813,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Let's learn Go!](http://go-book.readthedocs.io/en/latest/)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom
 * [Practical Go Lessons](https://www.practical-go-lessons.com) - Maximilien Andile
+* [Production Go](https://leanpub.com/productiongo/read) - Herman Schaaf and Shawn Smith (EPUB, HTML, PDF) (:construction: *in process*) *(Leanpub account or valid email requested for EPUB or PDF)*
 * [The Go Tutorial](http://tour.golang.org)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book) - Karl Seguin ([PDF](https://www.openmymind.net/assets/go/go.pdf), [ePUB](https://www.openmymind.net/assets/go/go.epub))
 * [Web apps in Go, the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
@@ -1117,6 +1118,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite (HTML)
 * [JavaScript Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/javascript) - Cody Lindley (PDF, Kindle; email address *requested*, not required)
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way) - William Oliveira, Allan Esquina (HTML)
+* [JavaScript Wikibook](https://en.wikibooks.org/wiki/JavaScript) - Wikibooks (HTML, PDF)
 * [jQuery Fundamentals](http://jqfundamentals.com) - Bocoup (HTML)
 * [JS Robots](https://web.archive.org/web/20201029045339/http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) - Mark Daggett (PDF) *(:card_file_box: archived)*
 * [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks/read) - Malcolm Maclean (HTML)
@@ -1135,8 +1137,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML,PDF)
 * [The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-* [The JavaScript Tutorial](http://javascript.info) - Ilya Kantor (HTML)
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
+* [The Modern JavaScript Tutorial](https://javascript.info) - Ilya Kantor (HTML)
 * [The Problem with Native JavaScript APIs](https://www.oreilly.com/programming/free/native-javascript-apis.csp) - Nicholas C. Zakas (PDF, email address *requested*)
 * [Thinking in JavaScript](https://www.amazon.com/Thinking-JavaScript-Aravind-Shenoy-ebook/dp/B00JUI6LUQ) - Aravind Shenoy (Kindle)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas (HTML)
@@ -1771,6 +1773,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
 * [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
 * [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
+* [Laravel Tips and Tricks](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) - Bobby Iliev (Markdown, PDF)
 
 
 #### Symfony
@@ -2328,6 +2331,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### SQL (implementation agnostic)
 
 * [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
+* [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 * [Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/)
 * [SQL Notes for Professionals](http://goalkicker.com/SQLBook/) - Compiled from StackOverflow Documentation (PDF)
@@ -2433,6 +2437,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
+* [TypeScript Handbook](https://www.typescriptlang.org/assets/typescript-handbook.pdf) - Microsoft (PDF)
 * [TypeScript Notes for Professionals](https://goalkicker.com/TypeScriptBook2/) - Compiled from StackOverflow documentation ([PDF](https://goalkicker.com/TypeScriptBook2/TypeScriptNotesForProfessionals.pdf))
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
 

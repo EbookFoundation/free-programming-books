@@ -50,6 +50,8 @@
 * [สอนพื้นฐาน JavaScript ทั้งหมดแบบจบในคลิปเดียว !!](https://www.youtube.com/watch?v=PGZ7QiKdumo) - BorntoDev
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) - Zinglecode
 
+### Kotlin
+* [Getting started with Kotlin](https://www.skooldio.com/courses/getting-started-with-kotlin)
 
 #### NodeJS
 

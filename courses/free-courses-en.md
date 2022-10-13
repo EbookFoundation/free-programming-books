@@ -988,6 +988,7 @@
 * [Learn Python](https://pythonspot.com)
 * [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org)
 * [Learn Python From Scratch](https://www.udemy.com/learn-python-from-scratch-w/) - MD. Hasanur Rahaman Hasib (Udemy)
+* [Learn Python Programming - Python Course](https://www.youtube.com/watch?v=f79MRyMsjrQ) - Programming With Mosh (Youtube)
 * [Learn Python Tutorial](https://www.kaggle.com/learn/python) (Kaggle)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
 * [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) (Coursera)
@@ -1002,7 +1003,6 @@
 * [Python Built in Functions A to Z Tutorial and Examples](https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X) - Brainy Things
 * [Python Course](https://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
-* [Python Crash Course](https://www.youtube.com/watch?v=f79MRyMsjrQ) - Programming With Mosh (Youtube)
 * [Python Data Analysis](https://www.coursera.org/learn/python-analysis) - Scott Rixner, Joe Warren (Coursera)
 * [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - Joseph Santarcangelo (Coursera)
 * [Python for Everybody](https://www.py4e.com/lessons) (Coursera Reading Materials with YouTube Videos)

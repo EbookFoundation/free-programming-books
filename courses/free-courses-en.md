@@ -14,6 +14,9 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
+    * [AWS](#aws)
+    * [Azure](#azure)
+    * [IBM](#ibm)
 * [Compilers](#compilers)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
@@ -178,6 +181,7 @@
 * [Jetpack Compose](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC) - Philipp Lackner
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) (Udacity)
 * [Learn Android Application Development for Beginners](https://www.udemy.com/course/learn-android-application-development-y/) - Johan Jurrius, ProgramMe Programming (Udemy)
+* [Learn Android in 9 Hours](https://www.youtube.com/watch?v=aS__9RbCyHg) (Edureka)
 * [Learn how to program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
 * [Material design](https://material.io/guidelines/)
 * [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) (Udacity)
@@ -297,9 +301,22 @@
 
 * [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)
 * [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
-* [IBM Cloud Essentials V3](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - CognitiveClass.ai
 * [Introduction to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud) - CognitiveClass.ai
+
+
+#### AWS
+
+* [Cloud Computing Basics with AWS](https://trailhead.salesforce.com/content/learn/modules/aws-cloud) - Trailhead (Salesforce) (email address *required*)
+
+
+#### Azure
+
 * [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
+
+
+#### IBM
+
+* [IBM Cloud Essentials V3](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - CognitiveClass.ai
 
 
 ### Compilers
@@ -445,6 +462,7 @@
 
 * [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
 * [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) - CognitiveClass.ai
+* [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI) - Programming with Mosh!
 * [Docker Tutorial for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) - Thenewboston
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - FreeCodeCamp
 * [Docker Tutorial for Beginners \[FULL COURSE in 3 Hours\]](https://www.youtube.com/watch?v=3c-iBn73dDE) - TechWorld with Nana

@@ -53,8 +53,9 @@ CSE Tamila by Eezytutorials
 ### Java
 
 * [Java Programming in Tamil](https://www.youtube.com/playlist?list=PLWbtDrDnmTHCsK36VMtXasfeo4qQg3Mjo) - CS in Tamil
-* [Learn Java in Tamil](https://youtube.com/playlist?list=PLYM2_EX_xVvVXm005Gt5unmqW6GGMjHxa) - Logic First Tamil
 * [Java in Tamil - தமிழில் ஜாவா](https://www.youtube.com/playlist?list=PLgWpUXNR_WCfsFtL526RNHQ8a8p2-2m1V) - Payilagam
+* [Learn Java in Tamil](https://youtube.com/playlist?list=PLYM2_EX_xVvVXm005Gt5unmqW6GGMjHxa) - Logic First Tamil
+
 
 
 ### JavaScript

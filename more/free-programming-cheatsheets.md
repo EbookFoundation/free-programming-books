@@ -43,6 +43,7 @@
 * [SpringBoot](#springboot)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
+* [Unit testing](#unit-testing)
 * [Webpack](#webpack)
 
 
@@ -70,6 +71,7 @@
 ### <a id="csharp"></a>C\#
 
 * [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
+* [C# Cheat Sheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf) - THECODINGGUYS (PDF)
 
 
 ### <a id="cpp"></a>C++
@@ -155,7 +157,7 @@
 
 ### GraphQL
 
-* [GraphQL Cheatsheet]([https://devhints.io/go](https://devhints.io/graphql)) - devhints, Rico Santa Cruz (HTML)
+* [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
 
 
 ### HTML and CSS
@@ -196,6 +198,7 @@
 * [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF)
 * [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) - Edureka (HTML)
 * [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet) - CodeWithHarry (HTML)
+* [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/) - Robert Sedgewick and Kevin Wayne (HTML)
 
 
 ### JavaScript
@@ -248,6 +251,7 @@
 ### Kubernetes
 
 * [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet (HTML)
+* [Kubernetes Cheat Sheet](https://www.mirantis.com/blog/kubernetes-cheat-sheet/) - Nick Chase (HTML)
 * [Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects](https://spacelift.io/blog/kubernetes-cheat-sheet) - Spacelift (HTML)
 
 
@@ -265,6 +269,7 @@
 ### MATLAB
 
 * [MATLAB Basic Functions Reference Sheet](https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf) - MathWorks (PDF)
+* [Matlab Cheat Sheet](https://sites.nd.edu/gfu/files/2019/07/cheatsheet.pdf) - Thor Nielsen (PDF)
 
 
 ### MongoDB
@@ -325,6 +330,7 @@
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
+* [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
 
 
 ### Raspberry Pi
@@ -339,6 +345,7 @@
 ### Ruby
 
 * [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
+* [Ruby monstas Ruby cheat sheet](https://rubymonstas.ch/materials/canonical/session05/session5-ruby-cheat-sheet.pdf) - rubymonstas.ch (PDF)
 
 
 ### Rust
@@ -369,6 +376,7 @@
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
 * [SQL Cheat Sheet](https://www.dataquest.io/wp-content/uploads/2021/01/dataquest-sql-cheat-sheet.pdf) - Dataquest.io (PDF)
+* [SQL Cheat Sheet by Tomi Mester](https://data36.com/wp-content/uploads/2018/12/sql-cheat-sheet-for-data-scientists-by-tomi-mester.pdf) - Tomi Mester (PDF)
 
 
 ### TensorFlow
@@ -376,6 +384,12 @@
 * [DeepLearning- Keras & TF Cheat Sheet](https://cheatography.com/chesterhsieh/cheat-sheets/deeplearning-keras-and-tf/pdf/) - Chester Hsieh, Cheatography (PDF) *(:construction: in process)*
 * [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) - Secret data scientist (HTML)
 * [TensorFlow v2.0 Cheat Sheet](https://web.archive.org/web/20200922212358/https://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf) - Altoros (PDF) *(:card_file_box: archived)*
+
+
+### Unit testing
+
+* [Jest CheatSheet](https://devhints.io/jest) - devhints, Rico Santa Cruz (HTML)
+* [What is Unit testing](https://www.guru99.com/unit-testing-guide.html) - Thomas Hamilton (HTML)
 
 
 ### Webpack

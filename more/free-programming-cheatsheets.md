@@ -389,7 +389,7 @@
 
 ### Terraform
 
-* [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - A Cloud Guru, Eric Pulsifer (HTML)
+* [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
 
 
 ### Unit testing

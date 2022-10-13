@@ -37,8 +37,11 @@
 
 * [Розуміння ECMAScript 6](http://understandinges6.denysdovhan.com) - Денис Довгань (LambdaBooks)
 
+
 #### React
+
 * [Документація React](https://uk.reactjs.org/docs/getting-started.html)
+
 
 ### Language Agnostic
 

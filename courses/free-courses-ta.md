@@ -53,7 +53,6 @@ CSE Tamila by Eezytutorials
 ### Java
 
 * [Java Programming in Tamil](https://www.youtube.com/playlist?list=PLWbtDrDnmTHCsK36VMtXasfeo4qQg3Mjo) - CS in Tamil
-* [Java in Tamil](https://www.youtube.com/playlist?list=PLgWpUXNR_WCfsFtL526RNHQ8a8p2-2m1V) - Payilagam
 * [Learn Java in Tamil](https://youtube.com/playlist?list=PLYM2_EX_xVvVXm005Gt5unmqW6GGMjHxa) - Logic First Tamil
 
 
@@ -86,6 +85,11 @@ CSE Tamila by Eezytutorials
 ### R
 
 * [R Tutorial in Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC) - Tutor Joe's Stanley
+
+
+### React
+
+* [React JS Online Course in Tamil](https://www.youtube.com/playlist?list=PLfD4W8QfMd5DbFccLzRFeG0QjWWHGTT3-) - MaanavaN Learn Code
 
 
 ### SQL

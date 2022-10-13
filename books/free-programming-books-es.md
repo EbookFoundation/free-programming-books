@@ -25,6 +25,7 @@
     * [node.js](#nodejs)
     * [React](#react)
 * [LaTeX](#latex)
+* [Lightning Network / Bitcoin](#lightning-network)
 * [Linux](#linux)
 * [Lisp](#lisp)
 * [Matemáticas](#matem%C3%A1ticas)
@@ -405,3 +406,10 @@
 * [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano (HTML, [:package: ejemplos](https://github.com/jorgeucano/entendiendo-angular))
+
+#### Bitcoin and Lightning Network
+
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Andreas Antonopoulos (Repo - PDF)
+* [Mastering The Lightning Network](https://github.com/lnbook/lnbook) - Andreas Antonopoulos (Repo - PDF)
+
+

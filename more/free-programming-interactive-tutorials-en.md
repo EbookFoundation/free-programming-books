@@ -30,6 +30,7 @@
     * [Operating Systems](#operating-systems)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
+* [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [Node](#node)
 * [NoSQL](#nosql)
@@ -120,6 +121,7 @@
 ### Data Science
 
 * [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
+* [Data Science Tutorial](https://www.w3schools.com/datascience/default.asp) - W3Schools
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
@@ -136,6 +138,7 @@
 * [Git Tutorial](https://www.w3schools.com/git/) - W3Schools
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
 * [Learn Git Branching](https://learngitbranching.js.org)
+* [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) - Nico Riedmann, Dev.to
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3) - Wei Wang
@@ -283,6 +286,12 @@
 * [Lisp Koans](https://github.com/google/lisp-koans)
 
 
+### Markdown
+
+* [Markdown Tutorial](https://commonmark.org/help/tutorial) - CommonMark
+* [Markdown Tutorial](https://www.markdowntutorial.com) - Markdown Tutorial
+
+
 ### MATLAB
 
 * [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
@@ -298,6 +307,7 @@
 ### NoSQL
 
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
+* [MongoDB Tutorial](https://www.w3schools.com/mongodb) - W3Schools
 * [Try Redis](http://try.redis.io)
 
 

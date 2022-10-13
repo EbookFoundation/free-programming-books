@@ -88,6 +88,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 - Sinhala / සිංහල
 - Slovak / slovenčina
 - Slovenian / slovenščina
+  - [Code of Conduct](CODE_OF_CONDUCT-sl.md)
   - [How-to](HOWTO-sl.md)
 - Spanish / español / castellano
   - [Código de Conducta](CODE_OF_CONDUCT-es.md)

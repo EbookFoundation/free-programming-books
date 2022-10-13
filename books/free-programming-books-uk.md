@@ -14,22 +14,21 @@
 
 ### <a id="c-and-cpp"></a>C and C++
 
-* [С/C++ Теорія та практика](https://shron1.chtyvo.org.ua/Voitenko_Volodymyr C_Cpp_Teoriia_ta_praktyka.pdf) - Володимир Войтенко
+* [С/C++ Теорія та практика](https://shron1.chtyvo.org.ua/Voitenko_Volodymyr/C_Cpp_Teoriia_ta_praktyka.pdf) - Володимир Войтенко
 
 
 ### ClojureScript
-
 * [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled) - Роман Лютіков (LambdaBooks)
 
 
 ### Haskell
 
-* [Вивчити собі Хаскель на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
+* [Вивчить собі Хаскела на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
 
 
 ### Java
 
-* [Програмування на Java для дітей, батьків, дідусів та бабусь](http://myflex.org/books/java4kids/java4kids.htm) - Яків Файн
+* [Програмування мовою Java для дітей, батьків, дідусів та бабусь](http://myflex.org/books/java4kids/java4kids.htm) - Яків Файн
 
 
 ### JavaScript
@@ -39,13 +38,12 @@
 
 ### Language Agnostic
 
-* [Дизайн патерни - просто, як двері](http://designpatterns.andriybuday.com) - А. Будай
+* [Дизайн-патерни - просто, як двері](http://designpatterns.andriybuday.com) - Андрій Будай
 
 
 ### PHP
 
-* [Symfony. Швидкий старт](https://symfony.com/doc/current/the-fast-track/uk/index.html) - Symfony SAS
-* [Документація Laravel 8.x](https://www.docs-laravel.site/docs/8.x/) - Laravel.su
+* [Symfony: Швидкий старт](https://symfony.com/doc/current/the-fast-track/uk/index.html) - Symfony SAS
 
 
 ### Python
@@ -55,7 +53,7 @@
 
 #### Django
 
-* [Навчальний посібник Django Girls](https://tutorial.djangogirls.org/uk/) (1.11) (HTML)
+* [Навчальний посібник Django Girls](https://tutorial.djangogirls.org/uk/)
 
 
 ### Ruby

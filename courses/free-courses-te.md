@@ -14,7 +14,6 @@
 * [Database Management Systems](#database-management-systems)
 * [Data Science](#data-science)
 * [Data Structures](#data-structures)
-* [Deep Learning](#deep-learning)
 * [Ethical Hacking](#ethical-hacking)
 * [ExpressJS](#expressjs)
 * [HTML](#html)
@@ -30,7 +29,6 @@
 * [R](#r)
 * [ReactJS](#reactjs)
 * [SQL](#sql)
-* [Tailwind CSS](#tailwind-css)
 * [VueJs](#vuejs)
 
 
@@ -82,7 +80,6 @@
 
 ### Cloud Computing
 
-* [Introduction to Cloud Computing in Telugu | Cloud Computing Tutorial in Telugu | Edureka Telugu](https://www.youtube.com/watch?v=hcaROQRJM6k) - edureka! Telugu
 * [Cloud Computing](https://www.youtube.com/playlist?list=PL35ft-0sAlPhkcplnefpnc7U4BzLTh_Uh) - Cloud Computing in Telugu
 
 
@@ -106,19 +103,12 @@
 ### Data Science
 
 * [Data Science Course For Beginners in Telugu](https://www.youtube.com/watch?v=WKHlx--15_I) - Python Life
-* [Maths for DS](https://www.youtube.com/watch?v=8Y982AW4KuY) - Vamsi Bhavani
 
 
 ### Data Structures
 
 * [Data Structures in Telugu in 7hrs | Full Course | Learn Data Structures](https://www.youtube.com/watch?v=pm_ugbO2FlY) - Believer 01
 * [Data Structures](https://www.youtube.com/playlist?list=PLJSrGkRNEDAgmq4kKkPuh8aFJs-zxVbWK) - Lab Mug
-
-
-### Deep Learning
-
-* [Deep learning in Telugu - 1 | Deep learning tutorials in Telugu | Jp NaN Deep learning](https://www.youtube.com/watch?v=nya9vUaXAGY) - Jp NaN
-* [Neural Network in Deep Learning](https://www.youtube.com/watch?v=hfclXCz7l6U) - Python Life
 
 
 ### Ethical Hacking
@@ -128,7 +118,6 @@
 
 ### ExpressJS
 
-* [Express JS in Telugu | express.js Tutorial for Beginners in Telugu](https://www.youtube.com/watch?v=_jgN80P6YII) - Telugu Skillhub
 * [Express JS In Telugu](https://www.youtube.com/playlist?list=PLxS8q3V3GDdzobKWCoXVYFsXlb5kyq4_N) - WhatsMySugesstion
 
 
@@ -196,7 +185,6 @@
 ### R
 
 * [R Programming Language Training Videos In telugu - R ట్రైనింగ్ వీడియోస్ ఇన్ తెలుగు R programming ట్రైనింగ్ వీడియోస్ ఇన్ తెలుగు](https://www.youtube.com/playlist?list=PLXx2-0oYp1LO9H8ciGQaTr6SN80dteTlc) - VLR Training
-* [What is R programming in telugu](https://www.youtube.com/watch?v=02CTDv02awE) - Python Life
 
 
 ### ReactJS
@@ -209,12 +197,6 @@
 
 * [SQL commands and PL/SQL programs complete in telugu - Oracle SQL-PL/SQL in telugu](https://www.youtube.com/watch?v=2XB5CddzEaM) - Edusoft Learning Systems - Learning Simplified
 * [Sql tutorials in telugu - sql video tutorials - sql tutorials for beginners telugu](https://www.youtube.com/playlist?list=PLXx2-0oYp1LPUXvjjriVMaMWALucsitR1) - VLR Training
-
-
-### Tailwind CSS
-
-* [How to make Responsive Website in 5 minutes using Tailwind CSS | TELUGU | UNQCODER](https://www.youtube.com/watch?v=YVaqIIlVr7s) - UNQ Coder
-* [tailwindcss telugu | tailwind css telugu | tailwind css tutorial telugu | tailwind tutorial telugu](https://www.youtube.com/watch?v=XSI6XCgICCs) - Learn With Loks
 
 
 ### VueJS

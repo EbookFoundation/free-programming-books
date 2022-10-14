@@ -305,7 +305,7 @@
 ### Machine Learning
 
 * [Intro to Machine Learning](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHioMKxmCxzpXdNfLE4TVjD) - Pepcoding (YouTube)
-* [Machine Learning](https://www.youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P) - 5 Minutes Engineering (YouTube)
+* [Machine Learning](https://www.youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P) - 5 Minutes Engineering
 * [Machine Learning Full Course](https://www.youtube.com/watch?v=IoZGSQ07e8g) - Bharani Akella, Great Learning (YouTube)
 * [Machine Learning in Hindi](https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr) - Codebasics Hindi
 * [Machine Learning Tutorials For Beginners Using Python in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG) - CodeWithHarry (YouTube)

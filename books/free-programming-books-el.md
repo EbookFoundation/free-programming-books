@@ -3,6 +3,7 @@
 * [C](#c)
 * [C++](#cpp)
 * [Java](#java)
+* [ΗTML&CSS](#html&css)
 * [JavaScript](#javascript)
 * [Python](#python)
 * [Scala](#scala)
@@ -28,10 +29,13 @@
 * [Ηλεκτρονικό εγχειρίδιο της JAVA](http://www.ebooks4greeks.gr/wp-content/uploads/2013/04/java-2012-eBooks4Greeks.gr_.pdf) (PDF)
 * [Σημειώσεις Java](http://www.ebooks4greeks.gr/wp-content/uploads/2013/03/shmeiwseis-Java-eBooks4Greeks.gr_.pdf) (PDF)
 
+### html&css
+
+* [Eισαγωγή στην HTML & CSS](https://courses.e-ce.uth.gr/IACS/HTML.pdf)
 
 ### JavaScript
 
-* [HTML5-JavaScript (Δημιουργώντας παιχνίδια – Ο εύκολος τρόπος)](https://www.ebooks4greeks.gr/html5-javascript)
+* [HTML5-JavaScript (Δημιουργώντας παιχνίδια – Ο εύκολος τρόπος)](https://www.ebooks4greeks.gr/html5-javascript) - courses.e-ce.uth.gr
 
 
 ### Python

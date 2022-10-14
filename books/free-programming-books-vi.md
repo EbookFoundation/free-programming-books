@@ -11,4 +11,4 @@
 
 ### <a id="JAVA"></a>JAVA
 
-* [Effective Java](https://drive.google.com/file/d/1ehRo49R-Ln3YZJ-sDbUZsrEQABkVE2TR/view?usp=sharing) - Joshua Bloch
+* [Effective Java](https://kea.nu/files/textbooks/new/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf) - Joshua Bloch

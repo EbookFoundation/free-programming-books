@@ -1,8 +1,8 @@
 ### Index
 
+* [C and C++](#c-and-cpp)
 * [ClosureScript](#clojurescript)
 * [Haskell](#haskell)
-* [Java](#java)
 * [JavaScript](#javascript)
     * [React](#react)
 * [Language Agnostic](#language-agnostic)
@@ -10,6 +10,11 @@
 * [Python](#python)
     * [Django](#django)
 * [Ruby](#ruby)
+
+
+### <a id="c-and-cpp"></a>C and C++
+
+* [С/C++ Теорія та практика](https://shron1.chtyvo.org.ua/Voitenko_Volodymyr C_Cpp_Teoriia_ta_praktyka.pdf) - Володимир Войтенко
 
 
 ### ClojureScript
@@ -22,11 +27,6 @@
 * [Вивчить собі Хаскела на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
 
 
-### Java
-
-* [Програмування мовою Java для дітей, батьків, дідусів та бабусь](http://myflex.org/books/java4kids/java4kids.htm) - Яків Файн
-
-
 ### JavaScript
 
 * [Розуміння ECMAScript 6](http://understandinges6.denysdovhan.com) - Денис Довгань (LambdaBooks)
@@ -34,7 +34,7 @@
 
 #### React
 
-* [Документація React](https://uk.reactjs.org/docs/getting-started.html)
+* [Початок роботи](https://uk.reactjs.org/docs/getting-started.html)
 
 
 ### Language Agnostic

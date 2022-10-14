@@ -756,6 +756,7 @@
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (YouTube)
 * [Node.js Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) - The Net Ninja
+* [Node.js Full Course for Beginners \| Complete All-in-One Tutorial \| 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8) - Dave Gray
 * [Node.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG) - Telusko (YouTube)
 * [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4) - Moshfegh Hamedani (Programming with Mosh)
 

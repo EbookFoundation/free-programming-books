@@ -12,21 +12,23 @@
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [Vue.js](#vuejs)
+* [Vue.js](#vuejs)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
 * [Python](#python)
+* [Django](#django)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Scratch](#scratch)
 * [Security](#security)
 * [SEO](#seo)
 * [SQL](#sql)
-    * [PostgreSQL](#postgresql)
+* [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
-
+* [DataScience](#data-science)
+ 
 
 ### Arduino
 
@@ -123,6 +125,11 @@
 * [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)
 
 
+### Django
+
+* [ Begining Django ](https://drive.google.com/file/d/1FvORmn8NUhAqbGxNz7Ha5cdbQiXKYrfs/view)
+
+
 ### Raspberry Pi
 
 * [احترف الرازبيري باي](https://www.ev-center.com/uploads/2/1/2/6/21261678/كتاب_احترف_الرازبيري_باي.pdf) (PDF)
@@ -167,5 +174,9 @@
 ### UI/UX
 
 * [مدخل إلى تجربة المستخدم](https://academy.hsoub.com/files/11-مدخل-إلى-تجربة-المستخدم-user-experience-ux/)
+
+
+### DataScience 
+* [Download Data Science from Scratch with R PDF Notes](https://www.techprofree.com/download-data-science-from-scratch-with-r-pdf-notes/)
 
 </div>

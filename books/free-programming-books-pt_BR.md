@@ -74,6 +74,7 @@
 * [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
 * [Paradigmas de programação](https://github.com/edsomjr/Paradigmas) - Edson Alves (HTML)
+* [Algoritmos e Lógica de Programação](https://drive.google.com/file/d/1TBRYMRbF4YQCIfZak7AEOfyX7PPThS-_/view?usp=sharing) - Marcio Aparecido Artero e Vanessa Cadan Scheffer - (PDF)
 
 
 #### Sistemas Operacionais

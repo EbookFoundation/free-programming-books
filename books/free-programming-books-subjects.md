@@ -108,7 +108,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Data Structures and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/) - Tutorials Point (HTML, PDF)
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) (email address *requested*, not required)
 * [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) (email address *requested*, not required)
-* [Data Structures With C](https://www.fresources.tech/dtu/coe/Data%20Structures/file?fileId=https%3A%2F%2Fdata-storage.sgp1.digitaloceanspaces.com%2FDTU%2FDS%2520with%2520C%2520-%2520By%2520Schaum.pdf) - Seymour Lipschutz (pdf)
+* [Data Structures With C](https://www.fresources.tech/dtu/coe/Data%20Structures/file?fileId=https%3A%2F%2Fdata-storage.sgp1.digitaloceanspaces.com%2FDTU%2FDS%2520with%2520C%2520-%2520By%2520Schaum.pdf) - Seymour Lipschutz (PDF)
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
 * [Essential Algorithms](https://www.programming-books.io/essential/algorithms) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho, Jeff Ullman

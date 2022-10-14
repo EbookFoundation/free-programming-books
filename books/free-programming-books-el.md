@@ -22,8 +22,8 @@
 
 ### <a id="html&css"></a> ΗTML & CSS 
 
-* [Eισαγωγή στην HTML & CSS](https://www.ebooks4greeks.gr/eisagwgh-sthn-html-css) (PDF) - Ανδρέας Κομνηνός
-* [Eισαγωγή στην HTML](https://www.ebooks4greeks.gr/eisagwgh-sthn-html) (PDF) - ΚΑΛΛΙΠΟΣ
+* [Eισαγωγή στην HTML & CSS](https://www.ebooks4greeks.gr/eisagwgh-sthn-html-css) - Ανδρέας Κομνηνός (PDF)
+* [Eισαγωγή στην HTML](https://www.ebooks4greeks.gr/eisagwgh-sthn-html) - Καλλίπος (PDF)
 
 
 ### Java

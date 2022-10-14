@@ -1,6 +1,5 @@
 ### Index
 
-* [C and C++](#c-and-cpp)
 * [ClosureScript](#clojurescript)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -10,11 +9,6 @@
 * [Python](#python)
     * [Django](#django)
 * [Ruby](#ruby)
-
-
-### <a id="c-and-cpp"></a>C and C++
-
-* [С/C++ Теорія та практика](https://shron1.chtyvo.org.ua/Voitenko_Volodymyr C_Cpp_Teoriia_ta_praktyka.pdf) - Володимир Войтенко
 
 
 ### ClojureScript

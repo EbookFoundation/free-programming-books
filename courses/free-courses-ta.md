@@ -5,6 +5,7 @@
 * [C](#c)
 * [C++](#cpp)
 * [Data Structures and Algorithms](#dsa)
+* [Flutter](#fla)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -43,6 +44,12 @@
 CSE Tamila by Eezytutorials
 
 
+### Flutter
+
+* [Flutter in Tamil](https://www.youtube.com/playlist?list=PLBngtsPyn30HYEkmqIqZwvLl0c8zWqCtx) - 
+Learn all in tamil
+
+
 ### HTML and CSS
 
 * [CSS in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh) - CyberDude Networks Pvt. Ltd.
@@ -59,7 +66,6 @@ CSE Tamila by Eezytutorials
 ### JavaScript
 
 * [Javascript (ES6) Tutorials in Tamil](https://youtube.com/playlist?list=PLB8qmogP8oMwFdeaeThAbsR9Vh-873SWb) - Coda - Programming In Tamil
-* [Learn JavaScript Full Course in Tamil](https://www.youtube.com/playlist?list=PLyYcNnaAVG5IIyPjuzWOgqFxDORHqRN2W) - selva tutorials
 * [Javascript Full Course in Tamil - in Depth Javascript Tutorials in Tamil](https://youtube.com/playlist?list=PLpYn3LR7eQI3hjh129Bkqkw7onut28hTK) - Tamil Developer
 * [JavaScript in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa) - CyberDude Networks Pvt. Ltd.
 

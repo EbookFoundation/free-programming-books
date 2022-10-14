@@ -5,6 +5,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
+* [DevOps](#devops)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -58,6 +59,10 @@
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
+
+### DevOps
+
+* [Belajar Dengan Jenius DevOps](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps) - Gun Gun Febrianza (HTML)
 
 
 ### Flutter
@@ -140,6 +145,7 @@
 ### Node.js
 
 * [Belajar Dengan Jenius Amazon Web Service & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/releases/download/1.2/Belajar.Dengan.Jenius.Javascript.Node.pdf) - Gun Gun Febrianza (PDF)
+* [Belajar Dengan Jenius AWS & Node.js Volume 2](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js-Vol-2) - Gun Gun Febrianza (HTML)
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
 * [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Tutorial Node js untuk pemula Full Tutorial](https://mfikri.com/artikel/tutorial-nodejs) - Mfikri (HTML)
@@ -199,6 +205,7 @@
 
 ### TypeScript
 
+* [Belajar Dengan Jenius Typescript](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Typescript) - Gun Gun Febrianza (HTML)
 * [TypeScript untuk Pemula, Bagian 1: Memulai](https://code.tutsplus.com/id/tutorials/typescript-for-beginners-getting-started--cms-29329) - Tutsplus (HTML)
 
 

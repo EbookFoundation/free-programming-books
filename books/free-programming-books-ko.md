@@ -167,6 +167,7 @@
 
 ### Python
 
+* [금융 데이터 분석을 위한 파이썬 판다스](https://wikidocs.net/book/3488) - 조대표
 * [내가 파이썬을 배우는 방법](https://wikidocs.net/7839)
 * [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
 * [실용 파이썬 프로그래밍: 프로그래밍 유경험자를 위한 강좌](https://wikidocs.net/book/4673) - 최용

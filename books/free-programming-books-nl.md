@@ -1,11 +1,11 @@
 ### Index
 
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [COBOL](#cobol)
 * [Java](#java)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Python](#python)
 * [Scratch](#scratch)
 
@@ -15,7 +15,7 @@
 * [Programmeren in C](https://nl.wikibooks.org/wiki/Programmeren_in_C) - Wikibooks
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [Programmeren in C Sharp](https://nl.wikibooks.org/wiki/Programmeren_in_C_Sharp) - Wikibooks
 

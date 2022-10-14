@@ -1,25 +1,25 @@
 ### Index
 
 * [Bash](#bash)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
-  * [Algoritmy a datové struktury](#algoritmy-a-datove-struktury)
-  * [Bezpečnost](#bezpecnost)
-  * [Matematika](#matematika)
-  * [Právo](#pravo)
-  * [Regulární výrazy](#regularni-vyrazy)
-  * [Sítě](#site)
+    * [Algoritmy a datové struktury](#algoritmy-a-datove-struktury)
+    * [Bezpečnost](#bezpecnost)
+    * [Matematika](#matematika)
+    * [Právo](#pravo)
+    * [Regulární výrazy](#regularni-vyrazy)
+    * [Sítě](#site)
 * [LaTeX](#latex)
 * [Linux](#linux)
-  * [Distribuce](#distribuce)
+    * [Distribuce](#distribuce)
 * [OpenSource](#opensource)
 * [PHP](#php)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Ruby](#ruby)
 * [TeX](#tex)
 * [Unity](#unity)
@@ -32,13 +32,12 @@
 * [Bash očima Bohdana Milara](http://i.iinfo.cz/files/root/k/bash_ocima_bohdana_milara.pdf) (PDF)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
-* [Programovací jazyk C#](http://www.cs.vsb.cz/behalek/vyuka/pcsharp/text.pdf) - Marek Běhálek (PDF)
 * [Systémové programování v jazyce C#](https://phoenix.inf.upol.cz/esf/ucebni/sysprog.pdf) (PDF)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [Moderní programování objektových aplikací v C++](https://akela.mendelu.cz/~xvencal2/CPP/opora.pdf) (PDF)
 * [Objektové programování v C++](http://media1.jex.cz/files/media1:49e6b94e79262.pdf.upl/07.%20Objektov%C3%A9%20programov%C3%A1n%C3%AD%20v%20C%2B%2B.pdf) (PDF)
@@ -52,10 +51,10 @@
 
 ### Git
 
-* [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon (PDF, EPUB, MOBI)
+* [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon, `trl.:` Ondrej Filip (PDF, EPUB, MOBI)
 
 
-### HTML
+### HTML and CSS
 
 * [Ponořme se do HTML5](https://knihy.nic.cz/#HTML5) - Mark Pilgrim (PDF)
 

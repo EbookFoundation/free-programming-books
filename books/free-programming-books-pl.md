@@ -1,27 +1,28 @@
 ### Index
 
 * [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
+    * [Version Control Systems](#version-control-systems)
 * [Android](#android)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
-* [Common Lisp](#common-lisp)
 * [Coq](#coq)
-* [CSS](#css)
 * [Haskell](#haskell)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [Lisp](#lisp)
 * [MySQL](#mysql)
 * [Perl](#perl)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Prolog](#prolog)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
+* [R](#R)
 * [Ruby](#ruby)
 * [SQL](#sql)
 
@@ -32,11 +33,15 @@
 * [Interaktywna platforma do nauki programowania](http://apki.org)
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS) - Wikibooks
 * [Poradnik początkującego programisty](http://www.eioba.pl/a/2eu1/poradnik-poczatkujacego-programisty) - Mariusz Żurawek
-* [Pro Git](http://git-scm.com/book/pl/)
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
-* [Struktury danych i ich zastosowania](http://informatykaplus.edu.pl/upload/list/czytelnia/Struktury_danych_i_ich_zastosowania.pdf) - Informatyka+ (PDF)
-* [SVN](https://pl.wikibooks.org/wiki/Subversion) - Wikibooks
+* [Struktury danych i ich zastosowania](https://web.archive.org/web/20190126061036/http://informatykaplus.edu.pl/upload/list/czytelnia/Struktury_danych_i_ich_zastosowania.pdf) - Informatyka+ (PDF)
 * [W poszukiwaniu wyzwań 2](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-pl.pdf) - Zadania z AMPPZ 2011–2014 (PDF)
+
+
+#### Version Control Systems
+
+* [Pro Git](https://git-scm.com/book/pl/) - Scott Chacon, Ben Straub, et al. (HTML)
+* [SVN](https://pl.wikibooks.org/wiki/Subversion) - Wikibooks
 
 
 ### Android
@@ -59,17 +64,14 @@
 
 ### C
 
-* [Beej's Guide to Network Programming - Używanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - B. Hall, Przełożył Bartosz Zapałowski (PDF)
-* [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
+* [Beej's Guide to Network Programming - Używanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - Brian "Beej Jorgensen" Hall, Przełożył Bartosz Zapałowski (PDF)
 * [Kurs języka C](http://kurs-c.manifo.com/konfiguracja-srodowiska-298-547) - Mateusz Piaszczak
-* [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
-* [Podstawy programowania Unixa/Linuxa](https://old.opcode.eu.org/programing/c_cpp/)
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) - Wikibooks (PDF)
 * [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [Darmowy kurs C#](http://kurs.aspnetmvc.pl/Csharp)
 * [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając
@@ -78,25 +80,14 @@
 * [Wstęp do programowania w C#](http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF)
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [C++](https://pl.wikibooks.org/wiki/C++) - Wikibooks
 * [Język C++ – podstawy programowania](http://www.dz5.pl/ti/cpp/zz_dodatki/kurs_cpp_szczegolowy2.pdf) - Paweł Mikołajczak (PDF)
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
 * [Kurs podstaw Arduino](https://forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290) - forbot.pl
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/) - Karol Kuczmarski
-
-
-### Common Lisp
-
-* [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php) - Jakub Jankiewicz
-
-
-### CSS
-
-* [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
-* [Kurs CSS](https://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
+* [Programowanie obiektowe i C++](https://mst.mimuw.edu.pl/wyklady/poc/wyklad.pdf) - Janusz Jabłonowski (PDF)
 
 
 ### Haskell
@@ -104,9 +95,11 @@
 * [Haskell](https://pl.wikibooks.org/wiki/Haskell) - Wikibooks
 
 
-### HTML
+### HTML and CSS
 
 * [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html) - Sławomir Kokłowski
+* [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
+* [Kurs CSS](https://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
 * [KURS HTML](http://www.kurshtml.edu.pl) - Sławomir Kokłowski
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
@@ -130,9 +123,14 @@
 
 ### LaTeX
 
-* [LaTeX kurs](http://www.latex-kurs.x25.pl) - Przemysław Spurek
 * [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish) - Janusz Goldasz, Ryszard Ku­biak, To­masz Przech­lewski
+* [Wprowadzenie do systemu LATEX](https://www.math.uni.wroc.pl/sites/default/files/wdsl.pdf) - Karol Selwat (PDF)
+
+
+### Lisp
+
+* [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php) - Jakub Jankiewicz
 
 
 ### MySQL
@@ -143,8 +141,6 @@
 
 ### Perl
 
-* [Kurs Perl](http://zajacmarek.com/2014/10/kurs-perl-cz-1/) - Marek Zając
-* [Kurs PERL](cyberpunk.e-spin.pl/86,41,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PERL)
 * [Perl](https://pl.wikibooks.org/wiki/Perl) - Wikibooks
 * [Samouczek Perl](https://www.w3big.com/pl/perl/default.html) - w3big.com
 
@@ -157,11 +153,6 @@
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 
 
-#### Symfony
-
-* [Symfony 5: Szybki start](https://symfony.com/doc/5.0/the-fast-track/pl/index.html)
-
-
 ### Prolog
 
 * [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl) - Antoni Niederliński
@@ -169,8 +160,6 @@
 
 ### Python
 
-* [Biblioteka Pythona](http://www.python.rk.edu.pl) - Piotr Maliński
-* [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/) - Piotr Maliński
 * [Python dla wszystkich: Odkrywanie danych z Python 3](https://py4e.pl/book) - Charles Russell Severance (PDF, HTML, EPUB, MOBI)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
@@ -181,6 +170,11 @@
 * [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 
 
+### R
+
+* [Przewodnik po pakiecie R](https://cran.r-project.org/doc/contrib/Biecek-R-basics.pdf) - Przemysław Biecek (PDF)
+
+
 ### Ruby
 
 * [Ruby](https://pl.wikibooks.org/wiki/Ruby) - Wikibooks
@@ -188,7 +182,7 @@
 
 ### SQL
 
-* [Kurs SQL](https://dbadmin.net.pl/category/sql/) - Łukasz Bartnicki, (HTML) (:construction: *in process*)
+* [Bazy danych](https://mst.mimuw.edu.pl/wyklady/bad/wyklad.pdf) - Zbigniew Jurkiewicz (PDF)
 * [Kurs SQL](https://www.sqlpedia.pl/kurs-sql) - Jakub Kasprzak
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

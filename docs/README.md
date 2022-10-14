@@ -68,6 +68,8 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-ko.md)
   - [How-to](HOWTO-ko.md)
 - Malayalam / മലയാളം
+- Nepali / नेपाली
+  - [How-to](HOWTO-np.md) 
 - Norwegian / Norsk
 - Persian / Farsi (Iran) / فارسى
   - [مرام‌نامه‌ی](CODE_OF_CONDUCT-fa_IR.md)
@@ -100,6 +102,8 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [How-to](HOWTO-sv.md)
 - Tamil / தமிழ்
 - Telugu / తెలుగు
+  - [Code of Conduct](CODE_OF_CONDUCT-te.md)
+  - [Contributing](CONTRIBUTING-te.md)
   - [How-to](HOWTO-te.md)
 - Thai / ไทย
   - [Code of Conduct](CODE_OF_CONDUCT-th.md)

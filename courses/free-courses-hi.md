@@ -146,6 +146,7 @@
 
 ### Computer Organization and Architecture
 
+* [3.7 COMPUTER ORGANIZATION AND ARCHITECTURE (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesS4B30OmgxP7nrzq1UhiMiv) - KNOWLEDGE GATE
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers (YouTube)
 
 

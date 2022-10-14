@@ -6,7 +6,7 @@
 * [JavaScript](#javascript)
     * [Angular](#angular)
     * [Vue](#vue)
-    * [React Native](#reactnative)
+    * [React Native](#react native)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
@@ -16,7 +16,7 @@
 
 ### C
 
-* [Programmeerimiskeel C](https://et.wikibooks.org/wiki/Programmeerimiskeel_C) - Wikiõpikud
+* [Programmeerimiskeel C](https://et.wikibooks.org/wiki/Programmeerimiskeel_C) - Wikiõpikud 
 
 
 ### C Sharp
@@ -33,8 +33,6 @@
 ### JavaScript
 
 * [JavaScript](http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF)
-* [Javascript](http://lepo.it.da.ut.ee/~epuman/javascript.html) - Ella Puman, Tartu ÜLikooli õppematerjal
-
 
 ##### Angular
 
@@ -42,7 +40,7 @@
 
 #### React Native
 
-* [React Native](https://digikogu.taltech.ee/en/Download/fa57d958-b6eb-4bf9-a39c-ba843f3d4c30) - Roger Kerse
+* [REACT NATIVE RAAMISTIKU KASUTAMINE MOBIILIRAKENDUSE UNISPOTTER NÄITEL](https://digikogu.taltech.ee/en/Download/fa57d958-b6eb-4bf9-a39c-ba843f3d4c30) - Roger Kerse
 
 ##### Vue 
 

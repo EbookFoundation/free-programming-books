@@ -805,10 +805,10 @@
 
 * [FREE Advanced Jenkins in K8s (Docker in Docker)](https://www.udemy.com/course/free-advanced-jenkins-in-k8s-docker-in-docker) - Nomad Sashi (Udemy)
 * [Jenkins](https://youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) - Raghav Pal (YouTube)
+* [Jenkins for Beginners](https://www.udemy.com/course/jenkins-for-beginners-n) - Musab Zayadneh (Udemy)
 * [Jenkins Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial) (Greate Learning)
 * [Jenkins Tutorial Step by Step](https://www.youtube.com/playlist?list=PL8VbCbavWfeGt_Hyq0h9Pymi9DTGowd5X) - Pramod Dutta (YouTube)
 * [Jenkins Tutorial Video [2022 updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKGrfcoNYRgqam5YBERN8xa) - Matthew (Youtube)
-* [Learning Jenkins (2018)](https://www.linkedin.com/learning/learning-jenkins-14423877?replacementOf=learning-jenkins-2018) (Linkedin)
 
 
 ### Julia

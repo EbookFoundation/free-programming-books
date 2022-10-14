@@ -118,6 +118,7 @@
 ### IDE and editors
 
 * [VSCode Complete Tutorial Series \| VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
+* [VSCode Power Tips](https://www.youtube.com/playlist?list=PLoR56CteKZnBmefc8NTiG8GOHlU1vN3-F) - Learn with Hasin Hayder
 
 
 ### Java

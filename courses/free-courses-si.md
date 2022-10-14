@@ -3,7 +3,7 @@
 * [ASP.NET Core](#aspnet-core)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
-* [object oriented programming](#object-oriented-programming)
+    * [Object Oriented Programming](#Object-Oriented-Programming)
 * [JavaScript](#javascript)
     * [React](#react)
 
@@ -23,9 +23,9 @@
 * [Sinhala Java Netbeans Lessons](https://youtube.com/playlist?list=PLA3ZeQncjeVu9VHevp2SmPCQ9muVO3fEB) - Chanux Bro (YouTube)
 
 
-### object oriented programming
+#### Object Oriented Programming
 
-* [Object Oriented Programming (OOP)](https://youtube.com/playlist?list=PLqeCu_1ZdDl63h6YR3QsxcGOB7yDS7i3b) - LankaDroid Programming Kuppiya (YouTube)
+* [Object Oriented Programming ](https://youtube.com/playlist?list=PLqeCu_1ZdDl63h6YR3QsxcGOB7yDS7i3b) - LankaDroid Programming Kuppiya (YouTube)
 
 
 ### JavaScript

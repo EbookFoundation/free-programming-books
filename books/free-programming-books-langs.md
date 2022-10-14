@@ -1332,6 +1332,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Svelte
 
+* [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs
 * [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 * [The Svelte Handbook](https://flaviocopes.com/page/svelte-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 

@@ -1011,6 +1011,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Introduction to Computer Science "booksite"](https://introcs.cs.princeton.edu/java/cs/) - Robert Sedgewick, Kevin Wayne (HTML)
 * [Introduction to Computer science using Java](http://www.programmedlessons.org/Java9/index.html) - Bradley Kjell
+* [Introduction to JAVA](https://www.fresources.tech/dtu/coe/Object%20Oriented%20ProgrammingS/file?fileId=https%3A%2F%2Fdata-storage.sgp1.digitaloceanspaces.com%2FDTU%2F623e4af66eb891facf798325cc2c708c1cb84385Introduction%2520to%2520Java%2520by%2520Y.Daniel.Liang.pdf) - Y. Daniel Liang (PDF)
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick, Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes) - David J. Eck (HTML, PDF, ePUB + exercises)
 * [Introduction to Programming Using Java (5th Edition - final version, 2010 Jun)](https://math.hws.edu/eck/cs124/javanotes5) - David J. Eck (HTML, PDF, ePUB + exercises)

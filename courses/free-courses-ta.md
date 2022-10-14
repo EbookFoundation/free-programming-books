@@ -87,6 +87,12 @@ CSE Tamila by Eezytutorials
 * [R Tutorial in Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC) - Tutor Joe's Stanley
 
 
+### React
+
+* [React JS Online Course in Tamil](https://www.youtube.com/playlist?list=PLfD4W8QfMd5DbFccLzRFeG0QjWWHGTT3-) - MaanavaN Learn Code
+* [React JS | Tutorial | Tamil](https://www.youtube.com/playlist?list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ) - VJ Techno Wizard
+
+
 ### SQL
 
 * [SQL in Tamil (தமிழில் SQL)](https://www.youtube.com/playlist?list=PLgWpUXNR_WCd-oMh-n6LhRYyNZjiiPVGm) - Payilagam

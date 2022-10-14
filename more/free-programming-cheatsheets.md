@@ -388,6 +388,7 @@
 
 ### Unit testing
 
+* [Chai CheatSheet](https://devhints.io/chai) - devhints, Rico Santa Cruz (HTML)
 * [Jest CheatSheet](https://devhints.io/jest) - devhints, Rico Santa Cruz (HTML)
 * [What is Unit testing](https://www.guru99.com/unit-testing-guide.html) - Thomas Hamilton (HTML)
 

@@ -118,6 +118,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) - Nick Parlante (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures: An Introduction](http://opendatastructures.org) - Pat Morin
+* [Object Oriented Programming with C++](https://drive.google.com/file/d/1B9KHeSkyD__CD8EbInJcRTkJGIcKlbCX/view?usp=sharing) - E Balaguruswamy
 * [Planning Algorithms](http://planning.cs.uiuc.edu)
 * [Problems on Algorithms (Second Edition)](http://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [Purely Functional Data Structures (1996)](https://web.archive.org/web/20210917054102/http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF) *(:card_file_box: archived)*

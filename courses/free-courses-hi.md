@@ -226,7 +226,8 @@
 
 #### Tailwind CSS
 
-* [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry
+*  [Tailwind css hindi](https://www.youtube.com/playlist?list=PLLCu4ndnReXLXfD-iIGBEB6_l8uF6TMNO) - NST Infotech
+*  [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry
 
 
 ### Java

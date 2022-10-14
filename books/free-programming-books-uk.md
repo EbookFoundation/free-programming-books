@@ -1,10 +1,7 @@
 ### Index
 
-* [C and C++](#c-and-cpp)
 * [ClosureScript](#clojurescript)
 * [Haskell](#haskell)
-* [HTML and CSS](#html-and-css)
-    * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Language Agnostic](#language-agnostic)
@@ -12,11 +9,6 @@
 * [Python](#python)
     * [Django](#django)
 * [Ruby](#ruby)
-
-
-### <a id="c-and-cpp"></a>C and C++
-
-* [С/C++ Теорія та практика](https://shron1.chtyvo.org.ua/Voitenko_Volodymyr C_Cpp_Teoriia_ta_praktyka.pdf) - Володимир Войтенко
 
 
 ### ClojureScript
@@ -27,13 +19,6 @@
 ### Haskell
 
 * [Вивчити собі Хаскель на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
-
-
-### HTML and CSS
-
-#### Bootstrap
-
-* [Ознайомлення Bootstrap 3.3.2](http://twbs.docs.org.ua)
 
 
 ### Java

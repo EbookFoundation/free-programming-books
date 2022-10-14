@@ -5,6 +5,7 @@
 * [Artificial Intelligence](#artificial-intelligence)
 * [Automata Theory](#automata-theory)
 * [Bash and Shell](#bash-and-shell)
+* [Bootstrap](#bootstrap)
 * [C](#c)
 * [C++](#c-1)
 * [Cloud Computing](#cloud-computing)
@@ -26,8 +27,10 @@
 * [NodeJS](#nodejs)
 * [PHP](#php)
 * [Python](#python)
+* [R](#r)
 * [ReactJS](#reactjs)
 * [SQL](#sql)
+* [Tailwind CSS](#tailwind-css)
 * [VueJs](#vuejs)
 
 
@@ -57,6 +60,12 @@
 
 * [Bash Scripting in Telugu](https://www.youtube.com/playlist?list=PLd8alL65M1GYJOLGK312G1qDv-Tv9aBbs) - Trie Tree Technologies
 * [Shell Scripting full course In Telugu by 7Hills | Linux In Telugu | Bash scripting | programming](https://www.youtube.com/watch?v=Duq5MtBEChc) - 7 Hills 
+
+
+### Bootstrap
+
+* [BOOTSTRAP INTRODUCTION IN TELUGU](https://www.youtube.com/watch?v=1MrR6eTQYgI) - TeluguTechSteps
+* [Bootstrap Tutorials in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUU9Yopth1p1DbEu1ebr1vTb) - Chintu Tutorials
 
 
 ### C
@@ -184,6 +193,12 @@
 * [Full Python Tutorial in Telugu | Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2JgeekeyLRQcwZsfLNbW8zQ) - Telugu Web Guru
 
 
+### R
+
+* [R Programming Language Training Videos In telugu - R ట్రైనింగ్ వీడియోస్ ఇన్ తెలుగు R programming ట్రైనింగ్ వీడియోస్ ఇన్ తెలుగు](https://www.youtube.com/playlist?list=PLXx2-0oYp1LO9H8ciGQaTr6SN80dteTlc) - VLR Training
+* [What is R programming in telugu](https://www.youtube.com/watch?v=02CTDv02awE) - Python Life
+
+
 ### ReactJS
 
 * [React JS In Telugu](https://www.youtube.com/watch?v=1r79Eqw6tfg) - Telugu Skillhub
@@ -194,6 +209,12 @@
 
 * [SQL commands and PL/SQL programs complete in telugu - Oracle SQL-PL/SQL in telugu](https://www.youtube.com/watch?v=2XB5CddzEaM) - Edusoft Learning Systems - Learning Simplified
 * [Sql tutorials in telugu - sql video tutorials - sql tutorials for beginners telugu](https://www.youtube.com/playlist?list=PLXx2-0oYp1LPUXvjjriVMaMWALucsitR1) - VLR Training
+
+
+### Tailwind CSS
+
+* [How to make Responsive Website in 5 minutes using Tailwind CSS | TELUGU | UNQCODER](https://www.youtube.com/watch?v=YVaqIIlVr7s) - UNQ Coder
+* [tailwindcss telugu | tailwind css telugu | tailwind css tutorial telugu | tailwind tutorial telugu](https://www.youtube.com/watch?v=XSI6XCgICCs) - Learn With Loks
 
 
 ### VueJS

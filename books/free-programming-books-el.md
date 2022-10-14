@@ -2,7 +2,7 @@
 
 * [C](#c)
 * [C++](#cpp)
-* [ΗTML&CSS](#html&css)
+* [ΗTML & CSS](#html&css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
@@ -21,8 +21,7 @@
 
 
 ### html&css
-
-* [Eισαγωγή στην HTML & CSS](https://courses.e-ce.uth.gr/IACS/HTML.pdf)
+* [Eισαγωγή στην HTML & CSS](https://www.ebooks4greeks.gr/eisagwgh-sthn-html-css) (PDF) - Ανδρέας Κομνηνός
 
 
 ### Java

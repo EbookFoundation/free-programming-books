@@ -51,6 +51,7 @@
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
 * [USACO.guide](https://usaco.guide)
+* [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
 
 
 ### Capture the flag

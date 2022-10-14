@@ -2,8 +2,8 @@
 
 * [C](#c)
 * [C++](#cpp)
-* [Java](#java)
 * [ΗTML&CSS](#html&css)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
 * [Scala](#scala)
@@ -20,6 +20,11 @@
 * [Εισαγωγή στη C++](http://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf) (PDF)
 
 
+### html&css
+
+* [Eισαγωγή στην HTML & CSS](https://courses.e-ce.uth.gr/IACS/HTML.pdf)
+
+
 ### Java
 
 * [Δομές δεδομένων](https://repository.kallipos.gr/bitstream/11419/6217/4/DataStructures-%ce%9a%ce%9f%ce%a5.pdf) - Γεωργιάδης Λουκάς, Νικολόπουλος Σταύρος, Παληός Λεωνίδας (PDF)
@@ -29,9 +34,6 @@
 * [Ηλεκτρονικό εγχειρίδιο της JAVA](http://www.ebooks4greeks.gr/wp-content/uploads/2013/04/java-2012-eBooks4Greeks.gr_.pdf) (PDF)
 * [Σημειώσεις Java](http://www.ebooks4greeks.gr/wp-content/uploads/2013/03/shmeiwseis-Java-eBooks4Greeks.gr_.pdf) (PDF)
 
-### html&css
-
-* [Eισαγωγή στην HTML & CSS](https://courses.e-ce.uth.gr/IACS/HTML.pdf)
 
 ### JavaScript
 

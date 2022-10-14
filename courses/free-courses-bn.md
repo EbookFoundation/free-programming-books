@@ -29,7 +29,7 @@
 * [Python](#python)
 * [Scratch](#scratch)
 * [Shell scripting](#shell-scripting)
-* [TypeScript](#typescript
+* [TypeScript](#typescript)
 
 
 ### Android

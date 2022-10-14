@@ -214,6 +214,7 @@
 
 #### jQuery
 
+* [Beginner's essential jQuery Cheat Sheet](https://websitesetup.org/wp-content/uploads/2017/01/wsu-jquery-cheat-sheet.pdf) (PDF)
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 
 

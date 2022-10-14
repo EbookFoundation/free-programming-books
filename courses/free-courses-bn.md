@@ -1,35 +1,36 @@
-### Index
+Index
+-
 
-* [Android](#android)
-* [C](#c)
-* [C#](#csharp)
-* [C++](#cpp)
-* [Competitive Programming](#competitive-programming)
-* [Dart](#dart)
-* [Docker](#docker)
-* [Flutter](#flutter)
-* [Git](#git)
-* [Go](#go)
-* [HTML and CSS](#html-and-css)
-    * [Bootstrap](#bootstrap)
-    * [Tailwind](#tailwind)
-* [IDE and editors](#ide-and-editors)
-* [Java](#java)
-* [JavaScript](#javascript)
-    * [jQuery](#jquery)
-    * [Node.js](#nodejs)
-    * [React](#react)
-    * [Svelte](#svelte)
-    * [Vue.js](#vuejs)
-* [Kotlin](#kotlin)
-* [MongoDB](#mongodb)
-* [MySQL](#mysql)
-* [PHP](#php)
-* [Programming paradigms](#programming-paradigms)
-* [Python](#python)
-* [Scratch](#scratch)
-* [Shell scripting](#shell-scripting)
-* [TypeScript](#typescript)
+- [Android](#android)
+- [C](#c)
+- [<a id="csharp"></a>C\#](#c-1)
+- [<a id="cpp"></a>C++](#c-2)
+- [Competitive Programming](#competitive-programming)
+- [Dart](#dart)
+- [Docker](#docker)
+- [Flutter](#flutter)
+- [Git](#git)
+- [Go](#go)
+- [HTML and CSS](#html-and-css)
+  - [Bootstrap](#bootstrap)
+  - [Tailwind](#tailwind)
+- [IDE and editors](#ide-and-editors)
+- [Java](#java)
+- [JavaScript](#javascript)
+  - [jQuery](#jquery)
+  - [Node.js](#nodejs)
+  - [React](#react)
+  - [Svelte](#svelte)
+  - [Vue.js](#vuejs)
+- [Kotlin](#kotlin)
+- [MongoDB](#mongodb)
+- [MySQL](#mysql)
+- [PHP](#php)
+- [Programming paradigms](#programming-paradigms)
+- [Python](#python)
+- [Scratch](#scratch)
+- [Shell scripting](#shell-scripting)
+- [TypeScript](#typescript)
 
 
 ### Android
@@ -87,6 +88,7 @@
 * [Git & GitHub complete course Bangla (Beginner to Advanced)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-) - Anisul Islam
 * [Git and Github in One Video (Theory + Practical) \| A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA) - SHAJ.T3CH
 * [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF) - Stack Learner
+* [গিট পরিচিতি](https://www.youtube.com/playlist?list=PLoR56CteKZnC0lBlHdnVnq0J3yDhgbi9w) - Learn with Hasin Hayder
 
 
 ### Go

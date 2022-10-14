@@ -87,6 +87,7 @@
 * [Spark](#spark)
 * [Swift](#swift)
     * [Vapor](#vapor)
+* [Terraform](#terraform)
 * [Theory](#theory)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -756,6 +757,7 @@
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (YouTube)
 * [Node.js Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) - The Net Ninja
+* [Node.js Full Course for Beginners \| Complete All-in-One Tutorial \| 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8) - Dave Gray
 * [Node.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG) - Telusko (YouTube)
 * [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4) - Moshfegh Hamedani (Programming with Mosh)
 
@@ -1171,6 +1173,16 @@
 #### Vapor
 
 * [Vapor University](https://vapor.university)
+
+
+### Terraform
+
+* [terraform + AWS](https://www.udemy.com/course/terraform-aws) - Rohit Abraham (Udemy)
+* [Terraform + GCP](https://www.udemy.com/course/terraform-gcp) - Rohit Abraham (Udemy)
+* [Terraform 101](https://www.udemy.com/course/terraform-101) - Jacob Jones (Udemy)
+* [Terraform on Azure - Basic Tutorial](https://www.udemy.com/course/terraform-on-azure-basic-tutorial) - Rahul Sawant (Udemy)
+* [Terraform tutorial for beginners Videos in English by Techworld with Murali](https://www.youtube.com/playlist?list=PLuJTeEt6HH9fUj7oRRLT0g1ttVl--Fv1T) - Murali
+* [Terraform Tutorials](https://www.youtube.com/playlist?list=PL2qzCKTbjutKff_ns750TFESQc44nlULv) - Narendra
 
 
 ### Theory

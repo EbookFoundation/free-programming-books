@@ -77,6 +77,7 @@
 
 ### Angular 
 
+* [Angular 12 - 13 tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV45--5t7_N4lveUI6Y31vQ6C) - Code Step By Step
 * [Learn Angular in one video (Hindi)](https://www.youtube.com/watch?v=0LhBvp8qpro&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=21) - Code With Harry 
 
 
@@ -288,11 +289,13 @@
 
 #### Vue.js
 
+* [Vue js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn) - Code Step By Step
 * [Vue JS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhih5ItBhn2cTncaS24_Kgeui) - Rajesh Kumar, Geeky Shows
 
 
 ### Kotlin
 
+* [Kotlin Beginner Tutorials Hindi | Complete Series](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G) - Cheezy Code
 * [Kotlin Programming Complete in one Video (Hindi)](https://www.youtube.com/watch?v=uoP4JKHgzDE) - Geeky Shows, `tch.:` Rajesh Kumar
 
 

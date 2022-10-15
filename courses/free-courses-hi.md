@@ -202,10 +202,10 @@
 
 * [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
 * [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
+* [Git & GitHub Tutorial in Hindi](https://www.youtube.com/watch?v=NR_A2gCxaLE) - Edureka! Hindi
 * [Git and Github | Complete हिंदी में (With Examples)](https://www.youtube.com/watch?v=zGq7T9gZH2k) - Knowledge Gate
 * [Github \| All about Git and GitHub](https://www.youtube.com/watch?v=77b2lVHHZqI) - Anuj Bhaiya
 * [GitHub with Visual Studio (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigWA1mNWzwErSBIZvgOJbNc) - Rajesh Kumar, Geeky Shows
-* [Git & GitHub Tutorial in Hindi](https://www.youtube.com/watch?v=NR_A2gCxaLE) - Edureka! Hindi
 
 
 ### HTML and CSS

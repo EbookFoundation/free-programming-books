@@ -5,7 +5,6 @@
 * [react-hooks](#react)
 * [Next](#nextjs)
 
-# Playgrounds for all  js, css, html زمین بازی برای
 
 ### javascript_html_css
 

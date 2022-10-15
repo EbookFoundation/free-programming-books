@@ -10,6 +10,7 @@
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)
 * [Python](#python)
+* [Sql](#sql)
 
 
 ### Algorithms
@@ -64,3 +65,9 @@
 * [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
 * [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
+
+
+### Sql
+
+* [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.com/sql/sql-intro.php) - SAT Academy
+

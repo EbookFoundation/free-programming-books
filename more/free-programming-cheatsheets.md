@@ -287,7 +287,7 @@
 
 ### Octave
 
-* [Octave Cheat Sheet](https://www.lehman.edu/academics/cmacs/documents/refcard-a4.pdf) (PDF)
+* [Octave Cheat Sheet](https://www.lehman.edu/academics/cmacs/documents/refcard-a4.pdf) - John W. Eaton (PDF)
 
 
 ### Perl

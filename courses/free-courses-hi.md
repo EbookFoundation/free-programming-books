@@ -330,6 +330,7 @@
 ### Mongo DB
 
 * [Mongo DB full course for beginners](https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa) -Thapa Technical
+* [MongoDB tutorial in hindi](https://www.youtube.com/playlist?list=PLolI8AY2AS9aaE4Vx0adwfwUh3XiuVewX) - Code Improve
 * [MongoDB Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLQDioScEMUhkcqbgJ4ap2k4zg3sT_-Bbc) - Programming Experience
 
 

@@ -108,6 +108,7 @@
 * [Linguagem C - Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/) - Carmem Hara, Wagner Zola (HTML, [PDF](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf))
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
+* [C Completo e Total , 3º Edição](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf) - Herbert Schildt.
 
 
 ### <a id="csharp"></a>C\#

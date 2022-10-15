@@ -532,6 +532,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson, Br. Isidore Minerd
 * [Software optimization resources](http://www.agner.org/optimize/) - Agner Fog
 * [The Boost C++ libraries](http://theboostcpplibraries.com) - Boris Schäling (HTML)
+* [The C++ Programming Language 4th Edition.pdf](𝗵𝘁𝘁𝗽𝘀://𝗱𝟯𝟬𝟴𝗯𝟰𝗰𝗯-𝗮𝗲𝗯𝟮-𝟰𝟱𝟰𝗯-𝟵𝟮𝗯𝟲-𝗱𝟮𝟭𝟭𝗮𝟰𝟰𝟵𝗳𝟵𝟲𝗲.𝘂𝘀𝗿𝗳𝗶𝗹𝗲𝘀.𝗰𝗼𝗺/𝘂𝗴𝗱/𝗱𝟯𝟬𝟴𝗯𝟰_𝟴𝟬𝗯𝟭𝟱𝟱𝟵𝟱𝗱𝟮𝟭𝗰𝟰𝟬𝗯𝟯𝗯𝟱𝟮𝟵𝟭𝟭𝗱𝗯𝗱𝟵𝟱𝟭𝟭𝟭𝗯𝟳.𝗽𝗱𝗳) - 𝐁𝐣𝐚𝐫𝐧𝐞 𝐒𝐭𝐫𝐨𝐮𝐬𝐭𝐫𝐮𝐩 (PDF)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) - Jeremy Hansen (PDF)
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
 * [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) - Allen B. Downey (PDF)

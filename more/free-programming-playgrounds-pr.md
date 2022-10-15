@@ -1,4 +1,5 @@
-# وب سایت هایی برای یادگیری برنامه نویس وب جلویی
+### وب سایت هایی برای یادگیری برنامه نویس وب جلویی
+
 * [javascript_html_css](#javascript_html_css)
 * [cssGrid](#css_grid)
 * [react](#react)
@@ -20,7 +21,7 @@
 
 ### react
 
-1. [reactjs](https://reactjs.org/) - وب سایت رسمی
+1. [reactjs](https://reactjs.org) - وب سایت رسمی
 2. [react-hooks](https://dmitripavlutin.com) - وب سایت شخصی دیمیتری
 3. [react-hooks-codecamp](https://www.freecodecamp.org/news/introduction-to-react-hooks) - وب سایت رسمی کدکمپ
 

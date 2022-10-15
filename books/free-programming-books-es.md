@@ -130,7 +130,6 @@
 ### C
 
 * [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
-* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf) - Andrés Marzal, Isabel Gracia (PDF) (descarga directa)
 
 
 ### <a id="cpp"></a>C++
@@ -202,7 +201,7 @@
 ### JavaScript
 
 * [El Tutorial de JavaScript Moderno](https://es.javascript.info) - Ilya Kantor, Elizabeth Portilla, joaquinelio, Ezequiel Castellanos, et al. (HTML)
-* [Eloquent JavaScript 3ra edición](https://codekommissar.github.io/JavaScript-Elocuente) - Marijn Haverbeke (HTML)
+* [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
@@ -242,7 +241,7 @@
 #### React
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux/read) - Sergio Daniel Xalambrí (HTML)
-* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
+* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen, `trl.:` Raúl Expósito (HTML, PDF)
 
 
 ### LaTeX
@@ -252,7 +251,6 @@
 
 ### Linux
 
-* [Bases de la Programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
 * [BASH Scripting Avanzado: Utilizando Declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) - Eugenia Bahit (descarga directa)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
 * [El Manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) - Raphaël Hertzog, Roland Mas (HTML)

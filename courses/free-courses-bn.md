@@ -132,6 +132,7 @@
 
 ### JavaScript
 
+* [DOM: Client Side Javascript](https://www.youtube.com/playlist?list=PL_XxuZqN0xVA10Q5UxbhG3zTPpe_ZdDGg) - Stack Learner
 * [Express JS Crash Course in Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDm9HkiP4h_76qNBZix6XME) - Stack Learner
 * [Functional JavaScript Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDPR9fASxugXgQAWkZLcmt1) - Stack Learner
 * [JavaScript All You Need to Know \| JS Bangla Tutorial \| Stack Learner](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1) - Stack Learner

@@ -113,7 +113,6 @@
 ### Machine Learning
 
 *  [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Indonesia Belajar
-
 *   [Pengenalan Konsep Pembelajaran Mesin dan Deep Learning](https://drive.google.com/file/d/1SxUcjunRR6roas5LUS5wyyy3-h7-oCxZ/view) - PDF by Jan Wira Gotama Putra
 
 ### MySQL

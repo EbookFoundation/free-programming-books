@@ -629,9 +629,9 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
 
 
-### object oriented programming
+### Object Oriented Programming
 
-* [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Dr Robert Harle (PDF)
+* [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Robert Harle (PDF)
 
 
 ### Open Source Ecosystem

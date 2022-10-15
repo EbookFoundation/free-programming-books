@@ -1033,7 +1033,7 @@
 * [Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) (Coursera)
 * [Learn Python](https://pythonspot.com)
 * [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org)
-* [Learn Python For Free](https://scrimba.com/learn/python) - Per Olof Paulson (Scrimba)
+* [Learn Python For Free](https://scrimba.com/learn/python) - Olof Paulson (Scrimba)
 * [Learn Python From Scratch](https://www.udemy.com/learn-python-from-scratch-w/) - MD. Hasanur Rahaman Hasib (Udemy)
 * [Learn Python Programming - Python Course](https://www.youtube.com/watch?v=f79MRyMsjrQ) - Programming With Mosh
 * [Learn Python Tutorial](https://www.kaggle.com/learn/python) (Kaggle)

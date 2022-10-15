@@ -354,6 +354,7 @@
 
 * [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
 * [Ruby monstas Ruby cheat sheet](https://rubymonstas.ch/materials/canonical/session05/session5-ruby-cheat-sheet.pdf) - rubymonstas.ch (PDF)
+* [Ruby Reference Sheet](https://alhassy.github.io/RubyCheatSheet/CheatSheet.pdf) - Musa Alhassy (PDF)
 
 
 ### Rust

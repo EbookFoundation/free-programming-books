@@ -12,6 +12,7 @@
 * [C++](#cpp)
 * [Competitive Programming](#competitive-programming)
 * [Compiler Design](#compiler-design)
+* [Computer Graphics](#computer-graphics)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Data Structures](#data-structures)
 * [Databases](#databases)
@@ -145,6 +146,10 @@
 
 * [Compiler Design (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc) - Gate Smashers (YouTube)
 
+
+### Computer Graphics
+
+* [Computer Graphics](https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T) - 5 Minutes Engineering
 
 ### Computer Organization and Architecture
 
@@ -342,7 +347,7 @@
 
 * [3.4 Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd) - Knowledge Gate
 * [Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers, `tch.:` Varun Singla
-
+* [Computer Network (CN)](https://youtube.com/playlist?list=PLYwpaL_SFmcAXkWn2IR-l_WXOrr0n851a) - 5 Minutes Engineering
 
 ### Operating Systems
 

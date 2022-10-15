@@ -207,6 +207,14 @@
 * [GitHub with Visual Studio (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigWA1mNWzwErSBIZvgOJbNc) - Rajesh Kumar, Geeky Shows
 
 
+### Golang
+
+* [Go Lang Tutorials in HINDI](https://www.youtube.com/playlist?list=PL45_xGOyv4bk55CMmqH6S6vvnwKD8qifD) - Coder Singh
+* [Go programming (GoLang) Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLEtkoO2np9szq1XDH1Mfr36Fg5EXh-z20) - Host Progrmming
+* [Go programming Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yu7If3I7GonlWA8YU1BuAk) - CS Geeks
+* [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
+
+
 ### HTML and CSS
 
 * [CSS Tutorial in Hindi \| Complete CSS Course For Beginners to Advanced \| Step By Step Tutorial](https://www.youtube.com/watch?v=WyxzAU3p8CE) - Vishwajeet Kumar (Tech Gun)
@@ -412,11 +420,3 @@
 
 * [System Analysis and Design](https://www.youtube.com/playlist?list=PLi81x6d2Os_8Sa8HifiFruWK6wmgG3Wrg) - Gursimran Singh Dhillon
 * [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) - sudoCODE
-
-
-### Golang
-
-* [Go Lang Tutorials in HINDI](https://www.youtube.com/playlist?list=PL45_xGOyv4bk55CMmqH6S6vvnwKD8qifD) - Coder Singh
-* [Go programming (GoLang) Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLEtkoO2np9szq1XDH1Mfr36Fg5EXh-z20) - Host Progrmming
-* [Go programming Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yu7If3I7GonlWA8YU1BuAk) - CS Geeks
-* [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary

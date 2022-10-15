@@ -40,12 +40,6 @@
 * [آموزش گیت، گیت هاب و گیت لب - فرادرس](https://faradars.org/courses/fvgit9609-git-github-gitlab) - Jadi Mirmirani *(نیاز به ثبت نام دارد)*
 
 
-### HTML and CSS
-
-* [آموزش html](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-mk1263/) - محمدحسین سیدآقایی *(نیاز به ثبت نام دارد)*
-* [آموزش css](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-css-mk1265/) - محمدحسین سیدآقایی *(نیاز به ثبت نام دارد)*
-
-
 ### Java
 
 * [آموزش  برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos) - Java Cup

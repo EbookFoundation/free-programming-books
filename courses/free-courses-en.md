@@ -587,7 +587,6 @@
 * [Bento CSS Learning Track](https://bento.io/topic/css) (Bento)
 * [Bento HTML Learning Track](https://bento.io/topic/html) (Bento)
 * [Build a Personal Website with Dash](https://dash.generalassemb.ly)
-* [HTML & CSS Crash Course Tutorial For Beginners](https://youtube.com/playlist?list=PLr6-GrHUlVf_HUfo4LyFepGmj23nwqNdk) - EJ Media (YouTube)
 * [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript) - James Quick (Udemy)
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
@@ -610,6 +609,7 @@
 * [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
 * [HTML Tutorial For Beginners (With Notes)](https://www.youtube.com/watch?v=qHB2jUvAlGo) - ProgrammingWithHarry
 * [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) - Stone River eLearning (Udemy)
+* [HTML & CSS Crash Course Tutorial For Beginners](https://youtube.com/playlist?list=PLr6-GrHUlVf_HUfo4LyFepGmj23nwqNdk) - EJ Media (YouTube)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
@@ -622,8 +622,8 @@
 #### Bootstrap
 
 * [Bootstrap 4 Quick Start: Code Modern Responsive Websites](https://www.udemy.com/course/bootstrap-4) - Brad Hussey (Udemy)
-* [Bootstrap Tutorial for Beginners](https://youtube.com/playlist?list=PLr6-GrHUlVf-gjvHuzCnVmeuaeAjRGltv) - EJ Media (YouTube)
 * [Bootstrap 5 Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) - The Net Ninja
+* [Bootstrap Tutorial for Beginners](https://youtube.com/playlist?list=PLr6-GrHUlVf-gjvHuzCnVmeuaeAjRGltv) - EJ Media (YouTube)
 * [Bootstrap tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V) - kudvenkat
 * [Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/course/bootstrap-4-tutorials) - Igneus Technologies (Udemy)
 * [Complete Bootstrap Crash Course \| Bootstrap 4 Tutorial](https://www.youtube.com/watch?v=ZfRn9VJzdGA) - Julio Codes

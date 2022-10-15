@@ -95,6 +95,7 @@
 
 ### Assembly
 
+* [Arquitetura ARM , Linguagem Assembly](https://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/EA869/2018-1/c3-ARM-3.pdf) (PDF)
 * [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
 * [Execução de Programas: Como funcionam carregadores, ligadores e interpretadores](https://www.inf.ufpr.br/bmuller/assets/docs/livroSB.pdf) - Bruno Müller Junior (PDF)
 

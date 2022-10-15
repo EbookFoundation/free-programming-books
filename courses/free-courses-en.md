@@ -311,7 +311,7 @@
 
 ### Computer Organization and Architecture
 
-* [Advanced Computer Organization & Architecture (COA)](https://www.youtube.com/playlist?list=PL1iLu2CSC9EWlusZsVqXQ9BFg5jRRLzom) - Smruti R. Sarangi
+* [Advanced Computer Organization & Architecture (COA)](https://www.youtube.com/playlist?list=PL1iLu2CSC9EWZMIh4_V5dGroMAwA84Lmz) - Smruti R. Sarangi
 * [Computer Organization & Architecture (COA)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q) - Neso Academy (YouTube)
 
 

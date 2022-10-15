@@ -45,7 +45,8 @@
 
 ### DB & DBMS
 
-* [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt, Nelson Eng، ترجمة أيمن طارق وعلا عباس (PDF)
+                                                  Database System Concepts 6 Edition (PDF) -([https://drive.google.com/file/d/13q8K7vhvQaavlgoO1eJpKQHKjaTBh8dP/view) *
+* تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt, Nelson Eng، ترجمة أيمن طارق وعلا عباس (PDF)
 
 
 ### HTML and CSS

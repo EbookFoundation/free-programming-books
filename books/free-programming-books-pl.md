@@ -22,6 +22,7 @@
 * [Prolog](#prolog)
 * [Python](#python)
     * [Django](#django)
+* [R](#R)
 * [Ruby](#ruby)
 * [SQL](#sql)
 
@@ -29,7 +30,6 @@
 ### 0 - Niezależne od języka programowania
 
 * [Git](https://pl.wikibooks.org/wiki/Git) - Wikibooks
-* [Interaktywna platforma do nauki programowania](http://apki.org)
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS) - Wikibooks
 * [Poradnik początkującego programisty](http://www.eioba.pl/a/2eu1/poradnik-poczatkujacego-programisty) - Mariusz Żurawek
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
@@ -167,6 +167,11 @@
 
 * [Kurs Django](http://www.python.rk.edu.pl/w/p/djangoindex/)
 * [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
+
+
+### R
+
+* [Przewodnik po pakiecie R](https://cran.r-project.org/doc/contrib/Biecek-R-basics.pdf) - Przemysław Biecek (PDF)
 
 
 ### Ruby

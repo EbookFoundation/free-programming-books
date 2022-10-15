@@ -12,6 +12,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Chef](#chef)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
     * [AWS](#aws)
@@ -294,6 +295,11 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
+
+
+###Chef
+
+* [CHEF Tutorial](https://www.youtube.com/playlist?list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT) - Online Tutorials
 
 
 ### Clojure

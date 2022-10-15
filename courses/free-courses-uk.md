@@ -2,7 +2,7 @@
 
 * [C++](#cpp)
 * [Java](#java)
-* [PHP](#PHP)
+* [PHP](#php)
 * [Python](#python)
 
 

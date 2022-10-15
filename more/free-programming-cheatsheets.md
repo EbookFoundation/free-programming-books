@@ -358,6 +358,7 @@
 
 ### Rust
 
+* [Rust cheatsheet](https://quickref.me/rust) - QuickRef.ME (HTML)
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
 

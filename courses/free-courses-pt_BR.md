@@ -4,6 +4,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Compiladores](#compiladores)
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
@@ -69,6 +70,11 @@
 ### <a id="cpp"></a>C++
 
 * [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
+
+
+### Compiladores
+
+* [Fundamentos de Compiladores](https://www.youtube.com/playlist?list=PL9-1FzPYzEfA-QTycUARDqIjakp_NJxe5) - Fábio Mendes (YouTube - playlist)
 
 
 ### Dart

@@ -49,6 +49,7 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Shell / Bash Script](#shell--bash)
+* [Sistemas Embarcados](#sistemas-embarcados)
 * [TypeScript](#typescript)
     * [Angular](#angular)
 
@@ -386,6 +387,11 @@
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Pequeno Manual do Programador GNU/Bash](https://blauaraujo.com/downloads/pmpgb.pdf) - Blau Araújo (PDF)
+
+
+### Sistemas Embarcados
+
+* [Fundamentos de Sistemas Embarcados](https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG) - Renato Sampaio (YouTube playlist)
 
 
 ### TypeScript

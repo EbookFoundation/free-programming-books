@@ -1628,6 +1628,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Redis in Action](https://redis.com/ebook/redis-in-action/) - Josiah L. Carlson
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) - Karl Seguin (PDF, Epub)
 
+
 ### Oberon
 
 * [Algorithms and Data-Structures](https://inf.ethz.ch/personal/wirth/AD.pdf) - Niklaus Wirth (PDF)

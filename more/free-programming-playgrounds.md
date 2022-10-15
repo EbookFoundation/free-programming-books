@@ -333,14 +333,14 @@
 * [StackBlitz](https://stackblitz.com/fork/typescript)
 
 
-### V
-
-* [V Playground](https://play.vlang.io) - vlang.io
-
-
 #### Angular
 
 > :information_source: See also &#8230; [AngularJS](#angularjs)
 
 * [Plunker](https://plnkr.co)
 * [StackBlitz](https://stackblitz.com/fork/angular)
+
+
+### V
+
+* [V Playground](https://play.vlang.io) - vlang.io

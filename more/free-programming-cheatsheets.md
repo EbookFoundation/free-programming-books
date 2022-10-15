@@ -231,6 +231,7 @@
 
 #### Nuxt.js
 
+* [Nuxt.js Cheat Sheet](https://devdojo.com/suniljoshi19/nuxtjs-cheat-sheet) - Sunil Joshi (HTML)
 * [Nuxt.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf) - Vue Mastery (PDF)
 
 

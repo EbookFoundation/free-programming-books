@@ -48,6 +48,7 @@
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [XML](#xml)
+* [Salesforce]
 
 
 ### Ada
@@ -409,3 +410,7 @@
 ### XML
 
 * [XML Tutorial](https://www.w3schools.com/xml) - W3Schools
+
+### Salesforce
+
+* [Salesforce Solutioning] (https://www.pluralsight.com/courses/play-by-play-diagramming-salesforce-solutions)

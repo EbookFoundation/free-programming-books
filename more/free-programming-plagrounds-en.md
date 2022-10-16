@@ -10,10 +10,10 @@
 
 ### javascript_html_css
 
-1. [codesandbox](https://codesandbox.io) - official website
-2. [copen](https://codepen.io) - official website
-3. [codeplay](https://www.codeply.com) - official website
-4. [fiddle](https://jsfiddle.net) - official website
+1. [codesandbox](https://codesandbox.io) - codesandbox official website
+2. [copen](https://codepen.io) - codepen official website
+3. [codeplay](https://www.codeply.com) - codepen official website
+4. [fiddle](https://jsfiddle.net) - fiddle official website
 5. [sololearn](https://www.sololearn.com/compiler-playground) - official website
 
 

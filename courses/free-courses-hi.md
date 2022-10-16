@@ -184,7 +184,7 @@
 ### DevOps
 
 * [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
-* [Devops Tutorial For Beginners In Hindi | DevOps Tutorial | DevOps Full Course](https://youtu.be/tgmM3_2dZwg) - Great Learning
+* [DevOps Training Tutorials For Beginners in Hindi](https://youtube.com/playlist?list=PLYEK_dHOjwtODYB46wFuc34muw9Gl5X5x) - Linux Wale Guruji
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
 
 

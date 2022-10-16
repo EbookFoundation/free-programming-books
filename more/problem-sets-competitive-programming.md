@@ -47,6 +47,7 @@
 * [Newton School](https://my.newtonschool.co/contest/all)
 * [oj.uz](https://oj.uz)
 * [Sphere Online Judge](http://www.spoj.com/contests)
+* [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
 * [Techgig](https://www.techgig.com)
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)

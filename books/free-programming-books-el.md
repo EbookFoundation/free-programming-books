@@ -7,7 +7,7 @@
 * [Python](#python)
 * [Scala](#scala)
 * [SQL](#sql)
-
+*.[kotlin](#kotlin)
 
 ### C
 
@@ -48,3 +48,5 @@
 ### SQL
 
 * [Εισαγωγή στην SQL: Εργαστηριακές Ασκήσεις σε MySQL5.7](https://www.ebooks4greeks.gr/eisagwgh-sthn-sql-ergasthriakes-askhseis-se-mysql5-7)
+### kotlin
+*[Kotlin documentation as PDF - kotlin](https://kotlinlang.org/docs/kotlin-pdf.html)

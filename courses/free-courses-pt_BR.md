@@ -340,7 +340,7 @@
 
 ### Sistemas Embarcados
 
-* [Fundamentos de Sistemas Embarcados](https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG) - Renato Sampaio (YouTube playlist)
+* [Fundamentos de Sistemas Embarcados](https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG) - Renato Sampaio
 
 
 ### Swift

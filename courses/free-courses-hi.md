@@ -429,6 +429,7 @@
 ### Rust
 
 * [Rust Complete Tutorial In Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
+* [Rust Programming Tutorials](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL) - dcode
 
 
 ### Software Engineering

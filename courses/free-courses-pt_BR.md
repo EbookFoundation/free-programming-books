@@ -279,7 +279,7 @@
 
 ### Programação
 
-* [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas (YouTube Playlist)
+* [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas (YouTube)
 
 
 ### Python

@@ -9,6 +9,6 @@
 * [ProgSharp](https://www.progsharp.se) - Simon Eddeland
 
 
-### <a id="scratch"></a>C\#
+### <a id="scratch"></a>Scratch
 
 * [Scratch](http://scratchprogrammering.blogspot.com/) - CoderDojo Lund och Daniel Johansson

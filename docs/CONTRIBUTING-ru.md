@@ -146,12 +146,12 @@
     ХОРОШО: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
-### Alphabetical order
+### Алфавитный порядок
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+- Если есть несколько названий, начинающихся на одну и ту же букву, упорядочьте их (названия) по второй букве, и так далее. Например: `aa` должно располагаться перед `ab`.
+- `one two` должно располагаться перед `onetwo`
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+Если вы видите неправильную ссылку, то проверьте сообщение линтера об ошибке, чтобы знать, какие строки следует поменять местами.
 
 
 <!----><a id="notes"></a>

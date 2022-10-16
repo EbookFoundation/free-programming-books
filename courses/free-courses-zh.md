@@ -1,6 +1,5 @@
 ### Index
 
-* [Index](#index)
 * [0 - MOOC](#0---mooc)
 * [Computer Networking](#computer-networking)
 * [Linux](#linux)

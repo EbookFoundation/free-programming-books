@@ -1,4 +1,4 @@
-### Index
+### index
 
 [cssGrid](#css_grid)
 [javascript_html_css](#javascript_html_css)
@@ -9,8 +9,8 @@
 
 ### javascript_html_css
 
-1. [codepen](https://codepen.io) - codepen official website
-2. [codeplay](https://www.codeply.com) - codepen official website
+1. [codepen](https://codepen.io) - codepen official website(s)
+2. [codeplay](https://www.codeply.com) - codepen official website(s)
 3. [codesandbox](https://codesandbox.io) - codesandbox official website
 4. [fiddle](https://jsfiddle.net) - fiddle official website
 5. [sololearn](https://www.sololearn.com/compiler-playground) - official website

@@ -37,6 +37,7 @@
 * [Mongo DB](#mongo-db)
 * [Natural Language Processing](#natural-language-processing)
 * [Networking](#networking)
+* [Object-oriented programming](#object-oriented-programming)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
 * [Python](#python)
@@ -367,6 +368,11 @@
 * [Computer Network (CN)](https://youtube.com/playlist?list=PLYwpaL_SFmcAXkWn2IR-l_WXOrr0n851a) - 5 Minutes Engineering
 * [Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers, `tch.:` Varun Singla
 * [Networking Basics](https://www.youtube.com/playlist?list=PLkW9FMxqUvyZaSQNQslneeODER3bJCb2K) - Bitten Tech
+
+
+### Object-oriented programming
+* [OOP Concepts](https://youtube.com/playlist?list=PLRXO6ANg6wvexUHlJlPDarze1wYB4R90b) - Mokarbeen Ansari 
+* [Java OOPs](https://youtube.com/playlist?list=PLqleLpAMfxGCbdaJ6SoExDfHrTfRDeWeG) - Learn Coding
 
 
 ### Operating Systems

@@ -21,6 +21,7 @@
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
 * [CUDA](#cuda)
+* [Cyber Security](#cyber-security)
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [Databases](#databases)
@@ -365,6 +366,13 @@
 ### Cuda
 
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
+
+
+### Cyber Security
+
+* [Cyber Security Course for Beginners - Level 01](https://www.udemy.com/course/certified-secure-netizen) - FourthWall Technologies (Udemy)
+* [Cyber Security Training [2022 Updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUJfPOj5nRounXvf3n17PCft) - Simplilearn
+* [Cyber Security Training for Beginners | Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_) - edureka!
 
 
 ### Dart

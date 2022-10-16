@@ -265,6 +265,7 @@
 * [Java Tutorials for Beginners](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) - Deepak Panwar, Smart Programming
 * [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - CodeWithHarry
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
+* [Java OOPs](https://youtube.com/playlist?list=PLqleLpAMfxGCbdaJ6SoExDfHrTfRDeWeG) - Learn Coding
 
 
 ### JavaScript
@@ -372,7 +373,6 @@
 
 ### Object-oriented programming
 * [OOP Concepts](https://youtube.com/playlist?list=PLRXO6ANg6wvexUHlJlPDarze1wYB4R90b) - Mokarbeen Ansari 
-* [Java OOPs](https://youtube.com/playlist?list=PLqleLpAMfxGCbdaJ6SoExDfHrTfRDeWeG) - Learn Coding
 
 
 ### Operating Systems

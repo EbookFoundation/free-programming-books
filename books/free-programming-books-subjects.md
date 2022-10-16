@@ -650,6 +650,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The Future of the Internet](http://futureoftheinternet.org) - Jonathan Zittrain
 * [The Open Source Way](http://www.theopensourceway.org/book/)
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
+* [Contributing to opensource: the right way](https://github.com/Mte90/Contribute-to-opensource-the-right-way)
 
 
 ### Operating Systems

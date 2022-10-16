@@ -2,9 +2,9 @@
 
 [cssGrid](#css_grid)
 [javascript_html_css](#javascript_html_css)
-[react](#react)
+[next](#nextjs)
+[reacta](#react)
 [react-hooks](#react)
-[Next](#nextjs)
 
 
 ### javascript_html_css

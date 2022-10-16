@@ -359,6 +359,7 @@
 ### Natural Language Processing
 
 * [Natural Language Processing with Deep NLP from Zero to Hero](https://www.youtube.com/playlist?list=PLtCBuHKmdxOefxJhd6u8KY9vTN8G5D5yG) - Fahad Hussain 
+* [Natural Language Processing with pyton](https://youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX) - Code Basics
 
 
 ### Networking

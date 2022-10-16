@@ -974,6 +974,7 @@
 
 ### Perl
 
+* [Complete Perl Programming Course The Ultimate Guide ( 2022 )](https://www.udemy.com/course/complete-perl-programming-course-the-ultimate-guide-2022) - Rahul Sohday
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
 * [Perl Tutorial: Basics to Advanced](https://youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16) - VLSI Academy
 

@@ -19,14 +19,14 @@
 ### css_grid
 
 1. [grid_flex](https://flexboxfroggy.com) - official website
-2. [grid_garden](https://cssgridgarden.com) - official website
+2. [grid_garden](https://cssgridgarden.com) - grid garden official website
 
 
 ### react
 
 1. [react-hooks](https://dmitripavlutin.com) - official website
 2. [react-hooks-codecamp](https://www.freecodecamp.org/news/introduction-to-react-hooks) - official website
-3. [reactjs](https://reactjs.org) - official website
+3. [reactjs](https://reactjs.org) - react official website
 
 
 ### nextjs

@@ -74,7 +74,7 @@
 
 ### Compiladores
 
-* [Fundamentos de Compiladores](https://www.youtube.com/playlist?list=PL9-1FzPYzEfA-QTycUARDqIjakp_NJxe5) - Fábio Mendes (YouTube - playlist)
+* [Fundamentos de Compiladores](https://www.youtube.com/playlist?list=PL9-1FzPYzEfA-QTycUARDqIjakp_NJxe5) - Fábio Mendes (YouTube)
 
 
 ### Dart

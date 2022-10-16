@@ -186,3 +186,4 @@
 * [Kurs SQL](https://www.sqlpedia.pl/kurs-sql) - Jakub Kasprzak
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)
+* [SQL: Easy SQL Programming & Database Management For Beginners, Your Step-By-Step Guide To Learning The SQL Database](https://www.pdfdrive.com/sql-easy-sql-programming-database-management-for-beginners-your-step-by-step-guide-to-learning-the-sql-database-d184313816.html)

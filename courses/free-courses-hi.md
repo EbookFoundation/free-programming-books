@@ -37,7 +37,7 @@
 * [Mongo DB](#mongo-db)
 * [Natural Language Processing](#natural-language-processing)
 * [Networking](#networking)
-* [Object-oriented programming](#object-oriented-programming)
+* [Object Oriented Programming](#object-oriented-programming)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
 * [Python](#python)

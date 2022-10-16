@@ -108,6 +108,7 @@
 * [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, `trl.:` cv8minix3 (HTML)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Linguagem C - Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/) - Carmem Hara, Wagner Zola (HTML, [PDF](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf))
+* [Linguagem C](https://www.ime.usp.br/~slago/slago-C.pdf) - Silvio do Lago Pereira (PDF)
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
 

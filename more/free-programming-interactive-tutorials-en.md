@@ -43,12 +43,12 @@
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Salesforce] (#salesforce)
 * [Scala](#scala)
 * [Selenium](#selenium)
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [XML](#xml)
-* [Salesforce]
 
 
 ### Ada
@@ -380,6 +380,11 @@
 * [Rustlings](https://github.com/rust-lang/rustlings)
 
 
+### Salesforce
+
+* [Salesforce Solutioning] (https://www.pluralsight.com/courses/play-by-play-diagramming-salesforce-solutions by Matthew Morris and Don Robins)
+
+
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
@@ -411,6 +416,3 @@
 
 * [XML Tutorial](https://www.w3schools.com/xml) - W3Schools
 
-### Salesforce
-
-* [Salesforce Solutioning] (https://www.pluralsight.com/courses/play-by-play-diagramming-salesforce-solutions by Matthew Morris and Don Robins)

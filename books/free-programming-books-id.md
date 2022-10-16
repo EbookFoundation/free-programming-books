@@ -52,12 +52,11 @@
 
 ### CodeIgniter
 
-*  [Codeigniter *Pendekatan Praktis](https://leanpub.com/codeigniter-pendekatanpraktis) - Ibnu Daqiqil Id (HTML, PDF, EPUB, Kindle) _(Membutuhkan akun Leanpub atau email yang valid)_
-*  [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
-*  [Framework Codeigniter – Sebuah Panduan dan Best Practice](https://ibnu.daqiqil.id/buku-codeigniter/) - Ibnu Daqiqil Id, M.Ti (PDF)
-*  [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
-*  [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) _(Dalam Proses)_
-*  [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
+* [Codeigniter - Pendekatan Praktis](https://leanpub.com/codeigniter-pendekatanpraktis) - Ibnu Daqiqil Id (HTML, PDF, EPUB, Kindle) *(Membutuhkan akun Leanpub atau email yang valid)*
+* [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
+* [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
+* [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
+* [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
 
 
 ### Flutter
@@ -177,13 +176,13 @@
 
 ### Python
 
-*  [Belajar Python](http://www.belajarpython.com)
-*  [Cepat Mahir Python](https://gilacoding.com/upload/file/Python.pdf) - Hendri, `edt.:` Romi Satria Wahono (PDF)
-*  [Dasar Pemrograman Python](https://www.pythonindo.com/tutorial-python-dasar/)
-*  [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan _(Membutuhkan akun Google Play Books atau email yang valid)_
-*  [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
-*  [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
-*  [Workshop Python 101](http://sakti.github.io/python101/)
+* [Belajar Python](http://www.belajarpython.com)
+* [Cepat Mahir Python](https://gilacoding.com/upload/file/Python.pdf) - Hendri, `edt.:` Romi Satria Wahono (PDF)
+* [Dasar Pemrograman Python](https://www.pythonindo.com/tutorial-python-dasar/)
+* [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
+* [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
+* [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
+* [Workshop Python 101](http://sakti.github.io/python101/)
 
 
 ### React

@@ -624,6 +624,7 @@
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * [Responsive Web Design with HTML5 and CSS3 - Advanced](https://www.udemy.com/course/responsive-web-design-with-html5-and-css3-advanced/) - Udemy
+* [Responsive Web Design - Interactive Tutorial](https://www.freecodecamp.org/learn/2022/responsive-web-design) - FreeCodeCamp
 * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) - The Net Ninja
 * [Web Development By Doing: HTML / CSS From Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/) - Udemy
@@ -910,6 +911,7 @@
 * [Machine Learning Tutorial Python \| Machine Learning For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) - Dhaval Patel
 * [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Saeed Aghabozorgi (cognitiveclass.ai)
 * [Machine Learning with Python: Zero to GBMs](https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms) (Jovian)
+* [Machine Learning with Python: Interactive Tutorial](https://www.freecodecamp.org/learn/machine-learning-with-python) - FreeCodeCamp
 * [Made with ML](https://madewithml.com) - Goku Mohandas (Applied ML · MLOps · Production)
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Mathematics for Machine Learning - Multivariate Calclus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23) - Imperial College London, Dr David Dye, Dr Sam Cooper

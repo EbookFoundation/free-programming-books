@@ -10,7 +10,7 @@
 <!----><a id="contributor-code-of-conduct"></a>
 ## Кодекс поведения автора
 
-Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](CODE_OF_CONDUCT-ru.md) этого репозитория. ([translations](README.md#
+Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](CODE_OF_CONDUCT-ru.md) этого репозитория. ([translations](README.md#translations)*
 
 
 <!----><a id="in-a-nutshell"></a>

@@ -2078,7 +2078,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [R Programming](https://en.wikibooks.org/wiki/R_Programming) - Wikibooks
 * [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) - Roger D. Peng 
 * [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) (email address *requested*, not required)
-* [Statistical Inference via Data Science](https://moderndive.com) - Chester Ismay and Albert Y. Kim
+* [Statistical Inference via Data Science](https://moderndive.com) - Chester Ismay, Albert Y. Kim
 * [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html) - Salvatore S. Mangiafico
 * [The caret Package](http://topepo.github.io/caret/index.html) - Max Kuhn
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)

@@ -1,4 +1,4 @@
-*[Доступно на других языках](README.md#
+*[Доступно на других языках](README.md#translations)*
 
 
 <!----><a id="contributor-license-agreement"></a>

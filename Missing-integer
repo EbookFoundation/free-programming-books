@@ -1,0 +1,31 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+/*int getMiss(int arr[], int n) {
+   int N = n+1;
+   int total = N * (N + 1) / 2;
+
+   for(int i = 0; i  < n ; i++)
+    total -= arr[i];
+   
+   return total;
+}*/
+
+int getMiss(int arr[], int n){
+    int total = 1, i;
+
+    for(i = 2; i <= (n+1); i++) {
+        total = total + i;
+        total = total - arr[i-2];
+    }
+    return total;
+}
+int main() {
+    int arr[] = {1, 2, 4, 6, 3, 7, 8};
+    int n = sizeof(arr)/sizeof(arr[0]);
+
+    int miss = getMiss(arr,n);
+
+    cout<<"Missing integer will be  : "<<miss;
+    return 0;
+}

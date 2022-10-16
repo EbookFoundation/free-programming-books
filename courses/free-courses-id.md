@@ -39,6 +39,7 @@
 * [Redis](#redis)
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
+* [Terraform](#terraform)
 * [Typescript](#typescript)
 
 
@@ -397,6 +398,10 @@
 
 * [Ethereum Blockchain Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLNl8QwXqW_lvWSc3n3geFSbBtmJvEl4nz) - Odoo Indonesia vITraining
 * [Tutorial Blockchain Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhvZi4kEqU6kCjyv_y8qBae) - Ipung DEV Academy (YouTube)
+
+### Terraform
+
+* [Bajalar Terraform untuk Pemula](https://www.youtube.com/watch?v=Ce4Q1xLDNjE&list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro (YouTube)
 
 
 ### TypeScript

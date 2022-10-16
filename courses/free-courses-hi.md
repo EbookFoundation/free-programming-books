@@ -419,6 +419,7 @@
 ### Ruby
 
 * [Learn Ruby in 45 Minutes \| Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
+* [Ruby Tutorial for Beginners, Ruby programming tutorials](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lx45j3D6da7-Iqvo5wtjKBm) - Smartherd
 
 
 #### Ruby on Rails

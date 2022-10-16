@@ -159,6 +159,7 @@
 ### GraphQL
 
 * [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
+* [GraphQL Cheat Sheet](https://simplecheatsheet.com/tag/graphql-cheat-sheet/) - SIMPLE CHEAT SHEET (HTML)
 
 
 ### HTML and CSS

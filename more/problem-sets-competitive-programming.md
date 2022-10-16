@@ -47,6 +47,7 @@
 * [Newton School](https://my.newtonschool.co/contest/all)
 * [oj.uz](https://oj.uz)
 * [Sphere Online Judge](http://www.spoj.com/contests)
+* [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
 * [Techgig](https://www.techgig.com)
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
@@ -100,7 +101,9 @@
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
 * [Coding Interview Questions and answers for practice \| Python, Java & C++](https://www.codingninjas.com/codestudio/problems) - CodingNinjas
+* [Coding Ninjas Guided Paths](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms)
 * [CSES Problem Set](https://cses.fi/problemset/)
+* [DSA Learning Series](https://www.codechef.com/LEARNDSA)
 * [Dynamic A2OJ Ladder](https://a2oj.herokuapp.com)
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)

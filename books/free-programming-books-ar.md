@@ -44,7 +44,7 @@
 
 
 ### DB & DBMS
-
+                                                        Database System Concepts 7th Edition (PDF) (https://archive.org/details/database-system-concepts-7th-edition) * 
 * [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt, Nelson Eng، ترجمة أيمن طارق وعلا عباس (PDF)
 
 

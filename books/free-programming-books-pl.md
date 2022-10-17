@@ -22,6 +22,7 @@
 * [Prolog](#prolog)
 * [Python](#python)
     * [Django](#django)
+* [R](#R)
 * [Ruby](#ruby)
 * [SQL](#sql)
 
@@ -29,7 +30,6 @@
 ### 0 - Niezależne od języka programowania
 
 * [Git](https://pl.wikibooks.org/wiki/Git) - Wikibooks
-* [Interaktywna platforma do nauki programowania](http://apki.org)
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS) - Wikibooks
 * [Poradnik początkującego programisty](http://www.eioba.pl/a/2eu1/poradnik-poczatkujacego-programisty) - Mariusz Żurawek
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
@@ -86,6 +86,7 @@
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
 * [Kurs podstaw Arduino](https://forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290) - forbot.pl
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/) - Karol Kuczmarski
+* [Programowanie obiektowe i C++](https://mst.mimuw.edu.pl/wyklady/poc/wyklad.pdf) - Janusz Jabłonowski (PDF)
 
 
 ### Haskell
@@ -123,6 +124,7 @@
 
 * [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish) - Janusz Goldasz, Ryszard Ku­biak, To­masz Przech­lewski
+* [Wprowadzenie do systemu LATEX](https://www.math.uni.wroc.pl/sites/default/files/wdsl.pdf) - Karol Selwat (PDF)
 
 
 ### Lisp
@@ -158,6 +160,7 @@
 ### Python
 
 * [Python dla wszystkich: Odkrywanie danych z Python 3](https://py4e.pl/book) - Charles Russell Severance (PDF, HTML, EPUB, MOBI)
+* [Python na luzie](https://jsystems.pl/static/andrzejklusiewicz/PNL.pdf) - Andrzej Klusiewicz (PDF)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 
@@ -167,6 +170,11 @@
 * [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 
 
+### R
+
+* [Przewodnik po pakiecie R](https://cran.r-project.org/doc/contrib/Biecek-R-basics.pdf) - Przemysław Biecek (PDF)
+
+
 ### Ruby
 
 * [Ruby](https://pl.wikibooks.org/wiki/Ruby) - Wikibooks
@@ -174,6 +182,7 @@
 
 ### SQL
 
+* [Bazy danych](https://mst.mimuw.edu.pl/wyklady/bad/wyklad.pdf) - Zbigniew Jurkiewicz (PDF)
 * [Kurs SQL](https://www.sqlpedia.pl/kurs-sql) - Jakub Kasprzak
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

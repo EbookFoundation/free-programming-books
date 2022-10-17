@@ -3,12 +3,14 @@
 * [Algorithms](#algorithms)
 * [Data Science](#data-science)
 * [C](#c)
+* [C++](#cpp)
 * [Go](#go)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)
 * [Python](#python)
+* [Sql](#sql)
 
 
 ### Algorithms
@@ -19,6 +21,11 @@
 ### C
 
 * [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](https://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
+
+
+### <a id="cpp"></a>C++
+
+* [সিপিপি পরিগণনা Computer Programming](https://www.academia.edu/16658418/c_programming_bangla_book) - Mahmudul Hasan (PDF, HTML)
 
 
 ### Data Science
@@ -58,3 +65,9 @@
 * [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
 * [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
+
+
+### Sql
+
+* [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.com/sql/sql-intro.php) - Satt Academy
+

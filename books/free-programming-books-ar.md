@@ -13,6 +13,7 @@
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
 * [Linux](#linux)
+* [Mathematics for Computer Science](#mathematics-for-computer-science)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
@@ -86,7 +87,8 @@
 * [دفتر مدير دبيان](https://ar.debian-handbook.info) - Raphaël Hertzog, Roland Mas, MUHAMMET SAİT Muhammet Sait&rlm; (PDF, HTML)
 * [دليل إدارة خواديم أوبنتو 14.04](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/) - Ubuntu documentation team, Abdullatif Eymash&rlm; (PDF)
 * [سطر أوامر لينكس](https://itwadi.com/node/2765) - Willam E. Shotts Jr., ترجمة عبد اللطيف ايمش (PDF)
-
+### Mathematics for Computer Science
+    *[الرياضيات لعلوم الكمبيوتر] (https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
 
 ### Open Source Software
 

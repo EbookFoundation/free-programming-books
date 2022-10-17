@@ -30,6 +30,7 @@
 * [Networking](#networking)
 * [Node.js](#nodejs)
 * [PHP](#php)
+* [Programação](#programação)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
@@ -275,6 +276,11 @@
 * [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
 * [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
+
+
+### Programação
+
+* [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
 
 
 ### Python

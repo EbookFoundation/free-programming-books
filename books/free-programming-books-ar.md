@@ -13,6 +13,7 @@
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
 * [Linux](#linux)
+* [Mathematics for Computer Science](#mathematics-for-computer-science)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
@@ -87,7 +88,8 @@
 * [دليل إدارة خواديم أوبنتو 14.04](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/) - Ubuntu documentation team, Abdullatif Eymash&rlm; (PDF)
 * [سطر أوامر لينكس](https://itwadi.com/node/2765) - Willam E. Shotts Jr., ترجمة عبد اللطيف ايمش (PDF)
 
-
+### Mathematics for Computer Science 
+          *[الرياضيات لعلوم الكمبيوتر](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)                                              
 ### Open Source Software
 
 * [الأبعاد الاستراتيجية للبرمجيات الحرة مفتوحة المصدر](https://librebooks.org/strategic-dimensions-of-free-and-open-source-software/) - فيجن للأنظمة المتقدمة (PDF)

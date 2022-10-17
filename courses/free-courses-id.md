@@ -387,6 +387,7 @@
 ### SASS / SCSS
 
 * [Belajar Menggunakan SASS](https://youtube.com/playlist?list=PLRKMmwY3-5Mxzx31JO3V9JJ8GLdUXYqt0) - Irsyad A. Panjaitan (Parsinta)
+* [Belajar Sass Biar Nulis Kode CSS Jadi "Absurd"](https://www.youtube.com/watch?v=kNA_wWbBCLc) - array id
 * [Tutorial SASS](https://www.youtube.com/playlist?list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5) - Web Programming UNPAS
 
 

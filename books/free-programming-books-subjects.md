@@ -388,6 +388,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Mathematics for Machine Learning](https://mml-book.github.io) - Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Practitioners guide to MLOps](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) - Khalid Samala, Jarek Kazmierczak, Donna Schut (PDF)
+* [Probabilistic Machine Learning - An Introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 * [Python Machine Learning Projects](https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook) - Lisa Tagliaferri, Brian Boucheron, Michelle Morales, Ellie Birkbeck, Alvin Wan (PDF, EPUB, Kindle)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF)
@@ -541,6 +542,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [A MACHINE MADE THIS BOOK ten sketches of computer science](http://ocaml-book.com/s/popbook.pdf) - JOHN WHITINGTON (PDF)
 * [Ansible Up & Running (first three chapters)](https://www.ansible.com/ebooks) *(account required)*
 * [Asterisk™: The Definitive Guide](http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8) - Leif Madsen, Jim Van Meggelen, Russell Bryant (HTML)
+* [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
 * [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/~playbook/) - David Harel, Rami Marelly
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
@@ -631,6 +633,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### Open Source Ecosystem
 
+* [Contributing to opensource: the right way](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
 * [Data Journalism Handbook](http://datajournalismhandbook.org)
 * [Free as in Freedom: Richard Stallman and the free software revolution](https://archive.org/details/faif-2.0) - Sam Williams (PDF)
 * [Free for All](https://unglue.it/work/136445/) - Peter Wayner
@@ -740,6 +743,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Search Engines
 
+* [Elasticsearch Certified Engineer notes ](https://www.pistocop.dev/posts/es_engineer_exam_notes/) - (HTML)
 * [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elastic/elasticsearch-definitive-guide))
 * [Search Engines: Information Retrieval in Practice](https://ciir.cs.umass.edu/irbook) - W. Bruce Croft, Donald Metzler, Trevor Strohman (PDF)
 * [Solr for newbies workshop (2019)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))

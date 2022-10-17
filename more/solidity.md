@@ -1,7 +1,6 @@
 # ethereum
 [app example](https://github.com/StephenGrider/EthereumCasts)
 
-
 # smart contracts
 [Linux Foundation Hyperledger Fabric](https://www.hyperledger.org/projects/fabric)
 [hyperledger composer playground](http://composer-playground.mybluemix.net/login)
@@ -16,14 +15,12 @@ Business Application -> Hyperledger Composer -> Blockchain ( Hyperledger Fabric)
 user app to communicate with Ethereum
 * Metamask ( chrome extension )
 * Mist browser
-
 ---
 [Rinkeby ethereum account charger](rinkeby-faucet.com)
-[Rinkeby ethereum charger](https://faucet.rinkeby.io/)
-
+[Rinkeby ethereum charger](https://faucet.rinkeby.io)
 ---
 
-## account address types:
+## account address types
 * external ( user account, common for all networks )
 * internal ( contract account, specific for each network )
 ```
@@ -37,8 +34,7 @@ code - compiled machine code
 
 ## [smart contract playground](http://remix.ethereum.org)
 
-
-## SmartContract API collaboration via nodejs app example
+##SmartContract API collaboration via nodejs app example
 * NodeJS ( min version 8.0.1 )
 ```
 # ganache-cli 
@@ -52,19 +48,17 @@ console.log(web3.eth.getAccounts().then(e=>console.log(e)))
 
 http://solidity.readthedocs.io/en/latest/
 
-## contract development phases:
+## contract development phases
 * create project
 ```
 npm init
 npm install -save solc
-
 ```
 * contract creation ( solidity compiler )
 * local testing ( Mocha framework )
 ```
 # npm install mocha ganache-cli web3@1.0.0-beta.26
 npm install mocha ganache-cli web3
- 
 ```
 * deployment ( script )
 ```
@@ -97,11 +91,10 @@ string[] public exampleOfDynamicPublicArray;
 ```
 
 ## function types
+* payable
 * public/private ( default - public )
-* view/constant ( return field, return constant)
 * pure ( don't use any contract-variables to manipulate, 'pure' functions  )
-* payable 
-
+* view/constant ( return field, return constant)
 
 ## useful functions
 * eccak256 

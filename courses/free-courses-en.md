@@ -661,7 +661,9 @@
 
 * [Mastering Next.js](https://masteringnextjs.com)
 * [Next.js Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
-
+* [Next.js for Beginners - Full Course](https://youtu.be/1WmNXEVia8I) - Freecodecamp
+* [Routing in Next.js ](https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/) - Freecodecamp
+* [Build Your Own Blog with Next.js and MDX](https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/) - Freecodecamp
 
 #### NodeJS
 

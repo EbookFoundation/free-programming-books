@@ -21,8 +21,6 @@
  ### Elements of Programming Interviews
  * [https://p302.zlibcdn.com/dtoken/737ae3648d1f229d10fd210e88fad490/Elements.of.Programming.Interviews.300.Questions.and.Solutions.1479274836%20%28Adnad%20Aziz%20%20Amit%20Prakash%29%20%28z-lib.org%29.pdf] - Adnan Aziz, Tsung-Hsien Lee, Amit Prakash&rlm; (PDF)
             **Additonally A course of Javascript Algorithms and Data Structures Masterclass - Colt Steele&rlm; (Udemy)
-
-
 ### Programming Interviews Exposed: Secrets to Landing Your Next Job
 * [https://b-ok.asia/book/490025/d9992f] - John Mongan, Noah Suojanen, Eric Giguère&rlm; (CHM)
 

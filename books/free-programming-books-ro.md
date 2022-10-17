@@ -5,7 +5,6 @@
 * [HTML and CSS](#html-and-css)
 * [MySQL](#mysql)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Scratch](#scratch)
 
 
@@ -32,11 +31,6 @@
 ### PHP
 
 * [PHP](http://php.punctsivirgula.ro)
-
-
-#### Symfony
-
-* [Symfony 5: Curs rapid](https://symfony.com/doc/current/the-fast-track/ro/index.html)
 
 
 ### Scratch

@@ -8,6 +8,7 @@
 * [Database](#database)
 * [Delphi](#delphi)
 * [Docker](#docker)
+* [Elixir](#elixir)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -36,6 +37,7 @@
 * [Sass](#sass)
 * [Segurança da Informação](#segurança-da-informação)
 * [Shell](#shell)
+* [Sistemas Embarcados](#sistemas-embarcados)
 * [Swift](#swift)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -94,6 +96,12 @@
 * [Curso de Docker para iniciantes - aprenda Docker em 1 hora](https://www.youtube.com/watch?v=np_vyd7QlXk) - Matheus Battisti
 
 
+### Elixir
+
+* [Curso de Elixir](https://www.youtube.com/playlist?list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR) - ELLY ACADEMY (YouTube)
+* [Curso de Elixir Alquimia](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone
+
+
 ### Flutter
 
 * [Criando seu primeiro App com Flutter](https://app.balta.io/courses/7184) - Andre Baltieri (balta.io)
@@ -127,6 +135,7 @@
 ### Haskell
 
 * [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro (Udemy)
+* [Desenvolvimento Orientado a Tipos](https://www.youtube.com/playlist?list=PLYItvall0TqKaY6qObQMlZ45Bo94xq9Ym) - UFABC
 
 
 ### HTML and CSS
@@ -327,6 +336,11 @@
 
 * [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
 * [Curso Shell GNU](https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO) - debxp (YouTube)
+
+
+### Sistemas Embarcados
+
+* [Fundamentos de Sistemas Embarcados](https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG) - Renato Sampaio
 
 
 ### Swift

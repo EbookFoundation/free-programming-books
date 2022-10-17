@@ -29,6 +29,7 @@
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
+* [Octave](#octave)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -286,6 +287,11 @@
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
 * [MongoDB Cheat Sheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - codecentric (PDF)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (GitHub Gist)
+
+
+### Octave
+
+* [Octave Cheat Sheet](https://www.lehman.edu/academics/cmacs/documents/refcard-a4.pdf) - John W. Eaton (PDF)
 
 
 ### Perl

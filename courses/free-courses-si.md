@@ -30,3 +30,4 @@
 #### React
 
 * [Fundamentals \| React JS in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2DpDyWwmAjEuicvVxx4vIYB) - Fiqri Ismail (YouTube)
+* [REACT | MERN CRUD App in Sinhala](https://youtube.com/playlist?list=PLtoqJbwHBeHzAooLCGOzYVE9mkAeCnT9y) - Haritha Weerathunga (YouTube)

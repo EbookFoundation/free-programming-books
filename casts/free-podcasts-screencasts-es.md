@@ -1,5 +1,6 @@
 ### Index
 
+* [Bases de Datos](#bases-de-datos)
 * [Ciencia de Datos](#ciencia-de-datos)
 * [Desarrollo Web](#desarrollo-web)
 * [Frontend](#frontend)
@@ -7,6 +8,11 @@
 * [Programación](#programación)
 * [Software Libre](#software-libre)
 * [Variados](#variados)
+
+
+### Bases de Datos
+
+* [Conceptos fundamentales: Bases de datos relacionales](https://www.youtube.com/playlist?list=PLzSFZWTjelbJ01UciHPAWTqUFWesoGr9A) - Programación y más (screencast)
 
 
 ### Ciencia de Datos
@@ -53,6 +59,7 @@
 ### Software Libre
 
 * [Compilando Podcast](https://compilando.audio) - Paco Estrada (podcast)
+* [Mangocast](https://www.mangocast.net) - Lucho Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia (podcast)
 * [Podcast Linux](https://podcastlinux.com) - Juan Febles (podcast)
 
 

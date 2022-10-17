@@ -93,7 +93,9 @@
 * [Kurs PHP](https://www.youtube.com/playlist?list=PLE974A9BEF34A967A)
 * [Kurs PHP](https://www.youtube.com/playlist?list=PLD54FE15FA250C6C0)
 * [Kurs PHP. Programowanie backendowe](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh) - Mirosław Zelent, Damian Stelmach
+* [Nauka PHP online](https://kursphp.com/nauka-php-online) - Marcin Wesel
 * [PHP - Kurs wideo](https://www.youtube.com/playlist?list=PLbOPmSDkHx2qfl91W8DFF3jhgjhWv6fkm)
+* [PHP Challenge - Szkoła IT Coders Lab](https://coderslab.pl/pl/php-challenge/wstep) - Coders Lab
 * [PHP dla początkujących - cały kurs](https://www.youtube.com/playlist?list=PL3pH4hKPTCS2XfwSI1VTRvP8xNtzY3gpi)
 * [Programowanie obiektowe w języku PHP5 (Szkolenie wideo)](https://www.youtube.com/playlist?list=PL_nu3rOfoPo4HIKGae-kSrJL-ebG7vyQ6)
 

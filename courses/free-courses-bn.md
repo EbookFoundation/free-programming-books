@@ -58,6 +58,8 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
+* [C++ Bangla Tutorial for Beginners - 2022](https://www.youtube.com/playlist?list=PLeqnvPK4PpyWsjZvgLTRcc-dkPQXc8SHc) - 
+Shikkhangon BD
 
 
 ### Competitive Programming

@@ -403,7 +403,7 @@
 
 ### Terraform
 
-* [Bajalar Terraform untuk Pemula](https://www.youtube.com/watch?v=Ce4Q1xLDNjE&list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro (YouTube)
+* [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro (YouTube)
 
 
 ### TypeScript

@@ -849,6 +849,7 @@
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 * [Vue.js Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) - The Net Ninja (YouTube)
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
+* [Vue.js 3 state managment with pinia](https://youtu.be/Ok6vO98RV_Q)
 
 
 ### Julia

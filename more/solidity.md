@@ -14,9 +14,7 @@
 # application schema
 
 Business Application -> Hyperledger Composer -> Blockchain ( Hyperledger Fabric)
-```
 [documentation](http://solidity.readthedocs.io/en/latest/)
----
 
 
 # user app to communicate with Ethereum
@@ -37,13 +35,14 @@ storage - data storage
 code - compiled machine code 
 ```
 
-
 ## account credential saving
 
 [bip39](https://iancoleman.io/bip39/)
 
 
-## [smart contract playground](http://remix.ethereum.org)
+## [smart contract playground]
+
+(http://remix.ethereum.org)
 
 
 ##SmartContract API collaboration via nodejs app example

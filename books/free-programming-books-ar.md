@@ -6,6 +6,7 @@
 * [Artificial Intelligence](#artificial-intelligence)
 * [C#&lrm;](#csharp)
 * [DB & DBMS](#db--dbms)
+* [Graph Problems CheatSheet](#graph-problems-cheatsheet)
 * [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [Java](#java)
@@ -46,7 +47,8 @@
 ### DB & DBMS
 
 * [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt, Nelson Eng، ترجمة أيمن طارق وعلا عباس (PDF)
-
+### Graph Problems CheatSheet
+ * [ورقة الغش مشاكل الرسم البياني](https://github.com/EbookFoundation/free-programming-books/files/9795564/javascript.cheatsheat.txt)
 
 ### HTML and CSS
 

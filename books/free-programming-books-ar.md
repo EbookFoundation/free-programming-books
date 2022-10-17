@@ -10,6 +10,7 @@
 * [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [Java](#java)
+* [Java Resource](#java-resource)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
 * [Linux](#linux)
@@ -67,7 +68,8 @@
 * [تفهيم الخوارزميات – الجزء الأول](https://librebooks.org/tafheem-alkhawazimyat/) - جمال بن نوار (PDF)
 * [تفهيم الخوارزميات – الجزء الثاني](https://librebooks.org/tafheem-alkhawazimyat-p2/) - جمال بن نوار (PDF)
 
-
+### Java Resource
+* [جافا الموارد](https://www.tutorialspoint.com/java/java_tutorial.pdf)
 ### JavaScript
 
 * [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)

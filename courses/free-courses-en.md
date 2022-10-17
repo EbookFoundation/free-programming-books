@@ -1070,6 +1070,7 @@
 * [Python Tutorial For Beginners (With Notes)](https://www.youtube.com/watch?v=EyEqWFvLDT8) - ProgrammingWithHarry
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - Programming with Mosh (YouTube)
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
+* [Python Tutorials](https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) - freeCodeCamp.org
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)

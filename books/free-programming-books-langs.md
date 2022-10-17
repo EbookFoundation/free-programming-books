@@ -1949,6 +1949,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Python 2.7 quick reference](https://web.archive.org/web/20171013204449/http://infohost.nmt.edu/tcc/help/pubs/python27/python27.pdf) - John W. Shipman (PDF) (2.7)
 * [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 * [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
+* [Python Basics - A Practical Introduction to Python 3](https://static.realpython.com/python-basics-sample-chapters.pdf) (PDF)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Python for Everybody](http://py4e.com/book) - Charles Russell Severance (PDF, EPUB, HTML) (3.x)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) - Charles Russell Severance (2.7.5)

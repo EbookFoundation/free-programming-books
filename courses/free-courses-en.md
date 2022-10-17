@@ -145,6 +145,7 @@
 * [Data Structures in C++ - For Beginners](https://www.udemy.com/course/data-structures-for-beginners-c-plusplus) - Pedro Mercado (Udemy)
 * [Dynamic Programming](https://www.youtube.com/playlist?list=PLMCXHnjXnTnto1pZVvH7rbZ9W5neZ7Yhc) - Gaurav Sen
 * [Dynamic Programming](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u) - WilliamFiset
+* [Graph Series by Striver \| C++ \| Java \| Interview Centric \| Algorithms \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn) - take U forward
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 * [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas (Udacity)
 * [JavaScript Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) - Codevolution
@@ -160,7 +161,7 @@
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
-
+* [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
 
 ### Android
 

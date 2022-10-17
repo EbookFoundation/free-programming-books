@@ -37,6 +37,7 @@
 * [Sass](#sass)
 * [Segurança da Informação](#segurança-da-informação)
 * [Shell](#shell)
+* [Sistemas Embarcados](#sistemas-embarcados)
 * [Swift](#swift)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -335,6 +336,11 @@
 
 * [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
 * [Curso Shell GNU](https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO) - debxp (YouTube)
+
+
+### Sistemas Embarcados
+
+* [Fundamentos de Sistemas Embarcados](https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG) - Renato Sampaio
 
 
 ### Swift

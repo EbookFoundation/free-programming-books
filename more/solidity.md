@@ -16,18 +16,15 @@
 Business Application -> Hyperledger Composer -> Blockchain ( Hyperledger Fabric)
 ```
 [documentation](http://solidity.readthedocs.io/en/latest/)
-
 ---
 
 
 # user app to communicate with Ethereum
 
-* Metamask ( chrome extension )
+* Metamask( chrome extension )
 * Mist browser
----
 [Rinkeby ethereum account charger](rinkeby-faucet.com)
 [Rinkeby ethereum charger](https://faucet.rinkeby.io)
----
 
 
 ## account address types
@@ -54,17 +51,14 @@ code - compiled machine code
 * NodeJS ( min version 8.0.1 )
 ```
 
-
 # ganache-cli 
 
 const Web3 = require('web3')
 const web3 = new Web3("http://localhost:8545")
-
 console.log(web3.eth.getAccounts().then(e=>console.log(e)))
 ```
 * [Java](https://docs.web3j.io/getting_started.html)
 * [SpringBoot, gradle example, maven plugin](https://github.com/web3j/)
-
 http://solidity.readthedocs.io/en/latest/
 
 
@@ -79,7 +73,6 @@ npm install -save solc
 * local testing ( Mocha framework )
 ```
 
-
 # npm install mocha ganache-cli web3@1.0.0-beta.26
 
 npm install mocha ganache-cli web3
@@ -88,7 +81,6 @@ npm install mocha ganache-cli web3
 ```
 truffle
 ```
-
 
 # [syntax](http://solidity.readthedocs.io/en/latest/)
 
@@ -119,7 +111,6 @@ uint[5] exampleOfFixedArray;
 ```
 string[] public exampleOfDynamicPublicArray;
 ```
-
 
 ## function types
 

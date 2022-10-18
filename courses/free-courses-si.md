@@ -20,6 +20,7 @@
 ### Java
 
 * [Sinhala Java Netbeans Lessons](https://youtube.com/playlist?list=PLA3ZeQncjeVu9VHevp2SmPCQ9muVO3fEB) - Chanux Bro (YouTube)
+* [JAVA Sinhala - UG](https://youtube.com/playlist?list=PLpUo7TyHQvluGs3mj7-qwImxWKAOnhoC3) - Deshan Sumanathilaka IT Academy (YouTube)
 
 
 ### JavaScript

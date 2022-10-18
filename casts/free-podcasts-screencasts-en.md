@@ -402,4 +402,4 @@
 
 ### Swift
 
-* [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundall (podcast)
+* [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)

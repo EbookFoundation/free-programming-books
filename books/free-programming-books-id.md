@@ -142,7 +142,9 @@
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
 * [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Tutorial Node js untuk pemula Full Tutorial](https://mfikri.com/artikel/tutorial-nodejs) - Mfikri (HTML)
-
+* [Belajar Nodejs #01: Pengenalan Dasar Nodejs (untuk Pemula)](https://www.petanikode.com/nodejs-pemula/) - Petani Kode
+* [Tutorial Node.JS: Belajar Dasar-Dasar Node JS](https://halovina.com/tutorial-node-js-belajar-dasar-dasar-node-js/) - Halovina
+* [NodeJS Series](https://medium.easyread.co/nodejs-series-belajar-expressjs-dari-awal-yok-400d9a88e73a) - Musliadi
 
 ### NoSQL
 
@@ -171,6 +173,8 @@
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 * [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(Dalam Proses)*
+* [Tutorial Belajar PHP Dasar Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-php-dasar-untuk-pemula/) - Duniailkom
+* [Belajar PHP Dasar](https://www.malasngoding.com/belajar-php-dasar-pengenalan-dan-kegunaan-php/) - Malasngoding
 
 
 ### Python

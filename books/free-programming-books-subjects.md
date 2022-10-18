@@ -815,8 +815,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
 
 
-
-
 ### Standards
 
 * [Linux Standard Base](http://refspecs.linuxfoundation.org/lsb.shtml)

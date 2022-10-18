@@ -26,6 +26,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
+* [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
@@ -160,6 +161,7 @@
 
 ### GraphQL
 
+* [GraphQL Cheat Sheet](https://simplecheatsheet.com/tag/graphql-cheat-sheet) - Simple Cheat Sheet (HTML)
 * [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
 
 
@@ -266,6 +268,12 @@
 ### Language Translations
 
 * [Swift and C# Quick Reference - Language Equivalents and Code Examples](http://www.globalnerdy.com/wordpress/wp-content/uploads/2015/03/SwiftCSharpPoster.pdf) - Globalnerdy (PDF)
+
+
+### Machine Learning
+
+* [Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet) - DataCamp Team (HTML)
+* [Super VIP Cheatsheet: Machine Learning](https://sgfin.github.io/files/cheatsheets/cs229_2018_cheatsheet.pdf) - Afshine Amidi and Shervine Amidi (PDF)
 
 
 ### Markdown
@@ -407,6 +415,7 @@
 
 ### Terraform
 
+* [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet) - Gineesh Madapparambath (HTML)
 * [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
 
 

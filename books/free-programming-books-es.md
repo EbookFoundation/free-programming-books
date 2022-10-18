@@ -9,7 +9,6 @@
     * [Misceláneos](#miscel&#x00E1;neos)
     * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
-* [C](#c)
 * [C++](#cpp)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
@@ -125,11 +124,6 @@
 
 * [Curso Android](https://www.develou.com/android/) (HTML)
 * [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
-
-
-### C
-
-* [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
 
 
 ### <a id="cpp"></a>C++

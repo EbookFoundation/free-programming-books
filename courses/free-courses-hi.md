@@ -150,6 +150,7 @@
 ### Compiler Design
 
 * [Compiler Design (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc) - Gate Smashers (YouTube)
+* [Compiler Design Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2Ate5DWhppx-MUOtGNA4S3spT) - University Academy
 
 
 ### Computer Graphics

@@ -4,6 +4,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Compiladores](#compiladores)
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
@@ -30,6 +31,7 @@
 * [Networking](#networking)
 * [Node.js](#nodejs)
 * [PHP](#php)
+* [Programação](#programação)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
@@ -69,7 +71,13 @@
 
 ### <a id="cpp"></a>C++
 
+* [Curso C++](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo) - Cláudio Rogério Carvalho Filho (eXcript)
 * [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
+
+
+### Compiladores
+
+* [Compiladores](https://www.youtube.com/playlist?list=PL9-1FzPYzEfA-QTycUARDqIjakp_NJxe5) - Fábio Mendes
 
 
 ### Dart
@@ -275,6 +283,11 @@
 * [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
 * [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
+
+
+### Programação
+
+* [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
 
 
 ### Python

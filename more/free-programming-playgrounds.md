@@ -63,7 +63,7 @@
 
 ### Ballerina
 
-* [Ballerina Playground](https://play.ballerina.io/)
+* [Ballerina Playground](https://play.ballerina.io)
 
 
 ### <a id="c"></a>C

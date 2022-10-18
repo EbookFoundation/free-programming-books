@@ -343,7 +343,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Information Retrieval
 
 * [Information Retrieval: A Survey](http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf) (PDF)
-* [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+* [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book)
 
 
 ### Licensing

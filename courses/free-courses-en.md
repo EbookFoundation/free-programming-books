@@ -845,11 +845,11 @@
 * [Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals)
 * [Vue JS 3 Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f) - Vishwas Gopinath (Codevolution)
 * [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone)
+* [Vue.js 3 state managment with pinia](https://youtu.be/Ok6vO98RV_Q)
 * [Vue.js Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 * [Vue.js Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) - The Net Ninja (YouTube)
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
-* [Vue.js 3 state managment with pinia](https://youtu.be/Ok6vO98RV_Q)
 
 
 ### Julia

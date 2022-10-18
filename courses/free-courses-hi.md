@@ -94,6 +94,7 @@
 ### Assembly
 
 * [x64 Assembly Language](https://www.youtube.com/playlist?list=PL-DxAN1jsRa-3KzeQeEeoL_XpUHKfPL1u) - The Cyber Expert
+* [Assembly Language Programming Tutorials in Urdu Hindii](https://www.youtube.com/playlist?list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1)
 
 
 ### Bash and Shell

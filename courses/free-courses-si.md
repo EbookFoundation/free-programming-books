@@ -12,6 +12,11 @@
 * [WEB API-ASP.NET Core in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2CpeAsq93DqWJHHyvCSa2Qn) - Fiqri Ismail (YouTube)
 
 
+### Flutter
+
+* [Flutter Sinhala Tutorials](https://youtube.com/playlist?list=PLdRfLcb1Dvix15denuU7KoSdPiy_Xzp24) - Code Camp Sri Lanka (YouTube)
+
+
 ### HTML and CSS
 
 * [HTML සිංහලෙන්](https://youtube.com/playlist?list=PLWAgeLqk4SjDlN6nHs91rECgx4PbzfoZh) - SL Geek School (YouTube)

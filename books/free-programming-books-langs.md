@@ -796,6 +796,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [An Introduction to Programming in Go](http://www.golang-book.com)
 * [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+* [Building RESTful Web services with Go](https://github.com/brandon-rowe/my-books/blob/master/WebDev/Building%20RESTful%20Web%20services%20with%20Go.pdf)
 * [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
 * [Effective Go](https://golang.org/doc/effective_go.html)
@@ -819,7 +820,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Go Tutorial](http://tour.golang.org)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book) - Karl Seguin ([PDF](https://www.openmymind.net/assets/go/go.pdf), [ePUB](https://www.openmymind.net/assets/go/go.epub))
 * [Web apps in Go, the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
-* [Building RESTful Web services with Go](https://github.com/brandon-rowe/my-books/blob/master/WebDev/Building%20RESTful%20Web%20services%20with%20Go.pdf)
 
 
 ### GraphQL

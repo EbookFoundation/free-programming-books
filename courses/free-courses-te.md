@@ -31,6 +31,7 @@
 ### Python
 
 * [Python in Telugu - Step by Step Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm-3aTUq98pbmrA3P1_m-aJR) - Telugu Computer World (YouTube)
+* [Object oriented programming with python- Telugu Web Guru](https://www.youtube.com/watch?v=isAFtqGHz6Y&list=PLh6Yk2rpZu2JgeekeyLRQcwZsfLNbW8zQ) -Telugu Web Guru (You Tube)
 
 
 ### R

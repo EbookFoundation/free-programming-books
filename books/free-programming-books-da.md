@@ -31,3 +31,7 @@
 ### Pascal
 
 * [Programmering i Pascal](http://people.cs.aau.dk/~normark/all-basis-97.pdf) - Kurt Nørmark (PDF)
+
+### Java
+
+* [The Complete Reference Java](http://javabog.dk) - Swaminaryan

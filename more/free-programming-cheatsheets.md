@@ -12,6 +12,7 @@
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
+* [GraphQL](#graphql)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -28,10 +29,12 @@
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
+* [Octave](#octave)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -41,6 +44,9 @@
 * [SpringBoot](#springboot)
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
+* [Terraform](#terraform)
+* [Unit testing](#unit-testing)
+* [Webpack](#webpack)
 
 
 ### APL
@@ -67,6 +73,7 @@
 ### <a id="csharp"></a>C\#
 
 * [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
+* [C# Cheat Sheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf) - THECODINGGUYS (PDF)
 
 
 ### <a id="cpp"></a>C++
@@ -79,6 +86,7 @@
 
 ### Clojure
 
+* [Clojure](https://www.programming-idioms.org/cheatsheet/Clojure) - Programming-Idioms (HTML)
 * [Clojure Cheatsheet](http://clojure.org/cheatsheet) (HTML)
 
 
@@ -137,6 +145,7 @@
     * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - Atlassian (PDF)
 * [Git Cheat Sheet](https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF)
+* [Git Cheat Sheet (id)](https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e) - Reyhan Alhafizal (HTML)
 * [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub (HTML)
 * [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (HTML, PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
@@ -149,11 +158,17 @@
 * [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
 
 
+### GraphQL
+
+* [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
+
+
 ### HTML and CSS
 
 * [Accessibility CheatSheet](https://learn-the-web.algonquindesign.ca/topics/accessibility-cheat-sheet/) - Algonquin Design (HTML)
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Cheatsheet](https://www.codewithharry.com/blogpost/css-cheatsheet/) - CodeWithHarry (HTML)
+* [CSS Cheatsheet](https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf) - Stanford (PDF)
 * [CSS Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Chris Coyier (HTML)
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
 * [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
@@ -170,6 +185,7 @@
 * [Eclipse Cheat sheet](https://cheatography.com/tag/eclipse/) - Cheatography
 * [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas (HTML)
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
+* [Jupyter Notebook Cheat sheet](http://datacamp-community-prod.s3.amazonaws.com/21fdc814-3f08-4aa9-90fa-247eedefd655) - Datacamp (PDF)
 * [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Cheat Sheet](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf) - Allison McKnight (PDF)
@@ -186,6 +202,7 @@
 * [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF)
 * [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) - Edureka (HTML)
 * [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet) - CodeWithHarry (HTML)
+* [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/) - Robert Sedgewick and Kevin Wayne (HTML)
 
 
 ### JavaScript
@@ -199,6 +216,7 @@
 
 #### jQuery
 
+* [Beginner's essential jQuery Cheat Sheet](https://websitesetup.org/wp-content/uploads/2017/01/wsu-jquery-cheat-sheet.pdf) (PDF)
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 
 
@@ -209,17 +227,20 @@
 
 #### Next.js
 
+* [Next.js Cheatsheet - handy snippets and tips](https://gourav.io/blog/nextjs-cheatsheet) - Gourav Goyal (HTML)
 * [Ultimate Next.js Handbook](https://thevalleyofcode.pages.dev/next-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
 
 
 #### Nuxt.js
 
+* [Nuxt.js Cheat Sheet](https://devdojo.com/suniljoshi19/nuxtjs-cheat-sheet) - Sunil Joshi (HTML)
 * [Nuxt.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf) - Vue Mastery (PDF)
 
 
 #### React.js
 
 * [React Cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) - Codecademy (HTML)
+* [React.js Cheatsheet](https://devhints.io/react) - Devhints.io (HTML)
 * [Ultimate React.js Cheat Sheet](https://upmostly.com/ultimate-reactjs-cheat-sheet) - Upmostly.com (HTML)
 
 
@@ -238,6 +259,7 @@
 ### Kubernetes
 
 * [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet (HTML)
+* [Kubernetes Cheat Sheet](https://www.mirantis.com/blog/kubernetes-cheat-sheet/) - Nick Chase (HTML)
 * [Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects](https://spacelift.io/blog/kubernetes-cheat-sheet) - Spacelift (HTML)
 
 
@@ -255,6 +277,8 @@
 ### MATLAB
 
 * [MATLAB Basic Functions Reference Sheet](https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf) - MathWorks (PDF)
+* [Matlab Cheat Sheet](https://sites.nd.edu/gfu/files/2019/07/cheatsheet.pdf) - Thor Nielsen (PDF)
+* [Matlab Cheat Sheet](https://www.egr.msu.edu/aesc210/systems/MatlabCheatSheet.pdf) (PDF)
 
 
 ### MongoDB
@@ -265,8 +289,14 @@
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (GitHub Gist)
 
 
+### Octave
+
+* [Octave Cheat Sheet](https://www.lehman.edu/academics/cmacs/documents/refcard-a4.pdf) - John W. Eaton (PDF)
+
+
 ### Perl
 
+* [Perl Cheat Sheet](https://www.pcwdld.com/perl-cheat-sheet) - Hitesh J (HTML)
 * [Perl Reference card](https://michaelgoerz.net/refcards/perl_refcard.pdf) (PDF)
 
 
@@ -280,6 +310,7 @@
 
 * [PHP Cheat Sheet](https://www.codewithharry.com/blogpost/php-cheatsheet/) - CodeWithHarry (HTML)
 * [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - Nick Schäferhoff, WebsiteSetup (HTML, [PDF](https://websitesetup.org/wp-content/uploads/2020/09/PHP-Cheat-Sheet.pdf))
+* [PHP Cheat Sheet - 2021 Edition](https://www.quickstart.com/blog/php-cheat-sheet/) - Zsolt Nagy (HTML)
 
 
 ### Python
@@ -307,9 +338,16 @@
 * [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)
 
 
+#### Flask
+
+* [Flask Cheatsheet](https://www.codewithharry.com/blogpost/flask-cheatsheet/) - Code with Harry (HTML)
+
+
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
+* [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
+* [Cheat Sheet for R and RStudio](https://www.ocf.berkeley.edu/~janastas/docs/RStudioCheatSheet.pdf) - L. Jason Anastasopoulos (PDF)
 
 
 ### Raspberry Pi
@@ -324,10 +362,13 @@
 ### Ruby
 
 * [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
+* [Ruby monstas Ruby cheat sheet](https://rubymonstas.ch/materials/canonical/session05/session5-ruby-cheat-sheet.pdf) - rubymonstas.ch (PDF)
+* [Ruby Reference Sheet](https://alhassy.github.io/RubyCheatSheet/CheatSheet.pdf) - Musa Alhassy (PDF)
 
 
 ### Rust
 
+* [Rust cheatsheet](https://quickref.me/rust) - QuickRef.ME (HTML)
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
 
@@ -354,6 +395,7 @@
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
 * [SQL Cheat Sheet](https://www.dataquest.io/wp-content/uploads/2021/01/dataquest-sql-cheat-sheet.pdf) - Dataquest.io (PDF)
+* [SQL Cheat Sheet by Tomi Mester](https://data36.com/wp-content/uploads/2018/12/sql-cheat-sheet-for-data-scientists-by-tomi-mester.pdf) - Tomi Mester (PDF)
 
 
 ### TensorFlow
@@ -361,3 +403,24 @@
 * [DeepLearning- Keras & TF Cheat Sheet](https://cheatography.com/chesterhsieh/cheat-sheets/deeplearning-keras-and-tf/pdf/) - Chester Hsieh, Cheatography (PDF) *(:construction: in process)*
 * [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) - Secret data scientist (HTML)
 * [TensorFlow v2.0 Cheat Sheet](https://web.archive.org/web/20200922212358/https://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf) - Altoros (PDF) *(:card_file_box: archived)*
+
+
+### Terraform
+
+* [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
+
+
+### Unit testing
+
+* [Chai CheatSheet](https://devhints.io/chai) - devhints, Rico Santa Cruz (HTML)
+* [Cypress CheatSheet](https://cheatography.com/aiqbal/cheat-sheets/cypress-io/) - aiqbal (HTML)
+* [Enzyme CheatSheet](https://devhints.io/enzyme) - devhints, Rico Santa Cruz (HTML)
+* [Jasmine CheatSheet](https://devhints.io/jasmine) - devhints, Rico Santa Cruz (HTML)
+* [Jest CheatSheet](https://devhints.io/jest) - devhints, Rico Santa Cruz (HTML)
+* [React Testing Library CheatSheet](https://testing-library.com/docs/react-testing-library/cheatsheet/) - Kent C. Dodds, et al. (HTML)
+* [What is Unit testing](https://www.guru99.com/unit-testing-guide.html) - Thomas Hamilton (HTML)
+
+
+### Webpack
+
+* [Webpack cheatsheet](https://devhints.io/webpack) - devhints, Rico Santa Cruz (HTML)

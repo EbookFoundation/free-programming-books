@@ -779,6 +779,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)
 * [Code Simplicity: The Fundamentals of Software](https://www.codesimplicity.com/book.pdf) - Max Kanat-Alexander (PDF)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
+* [Designing Data-Intensive Applications](https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md) - Martin Kleppmann
 * [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
 * [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) (email address *requested*, not required)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
@@ -812,7 +813,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
-* [Designing Data-Intensive Applications](https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md) - Martin Kleppmann
+
 
 
 

@@ -35,6 +35,7 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Programming in Tamil](https://youtube.com/playlist?list=PLWbtDrDnmTHBPD-Dt5BJi7iP11x6UvgU0) - CS in Tamil
+* [C++ Programming in Tamil](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUppW1kS91ZNEI20k1V1liI) - Logic First Tamil
 
 
 ### <a id="dsa"></a>Data Structures and Algorithms
@@ -53,6 +54,7 @@ CSE Tamila by Eezytutorials
 ### Java
 
 * [Java Programming in Tamil](https://www.youtube.com/playlist?list=PLWbtDrDnmTHCsK36VMtXasfeo4qQg3Mjo) - CS in Tamil
+* [Java Programming in Tamil](https://www.youtube.com/playlist?list=PLIFRUdRwOM08fR11AtNx674tXpUmgy7lD) - SANTRA TECHSPOT
 * [Learn Java in Tamil](https://youtube.com/playlist?list=PLYM2_EX_xVvVXm005Gt5unmqW6GGMjHxa) - Logic First Tamil
 
 

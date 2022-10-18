@@ -4,6 +4,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Compiladores](#compiladores)
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
@@ -30,6 +31,7 @@
 * [Networking](#networking)
 * [Node.js](#nodejs)
 * [PHP](#php)
+* [Programação](#programação)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
@@ -37,6 +39,7 @@
 * [Sass](#sass)
 * [Segurança da Informação](#segurança-da-informação)
 * [Shell](#shell)
+* [Sistemas Embarcados](#sistemas-embarcados)
 * [Swift](#swift)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -68,7 +71,13 @@
 
 ### <a id="cpp"></a>C++
 
+* [Curso C++](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo) - Cláudio Rogério Carvalho Filho (eXcript)
 * [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
+
+
+### Compiladores
+
+* [Compiladores](https://www.youtube.com/playlist?list=PL9-1FzPYzEfA-QTycUARDqIjakp_NJxe5) - Fábio Mendes
 
 
 ### Dart
@@ -276,6 +285,11 @@
 * [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
 
 
+### Programação
+
+* [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
+
+
 ### Python
 
 * [Algoritmos em Python](https://algoritmosempython.com.br) - Douglas do Couto
@@ -335,6 +349,11 @@
 
 * [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
 * [Curso Shell GNU](https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO) - debxp (YouTube)
+
+
+### Sistemas Embarcados
+
+* [Fundamentos de Sistemas Embarcados](https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG) - Renato Sampaio
 
 
 ### Swift

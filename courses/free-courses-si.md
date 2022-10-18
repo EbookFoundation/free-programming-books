@@ -36,4 +36,4 @@
 
 ### <a id="csharp"></a>C\#
 
-* [C# Full Course in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2CXD2JdZgSBgyl13ODqHOkO) - Fiqri Ismail (YouTube)
+* [C# Full Course in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2CXD2JdZgSBgyl13ODqHOkO) - Fiqri Ismail

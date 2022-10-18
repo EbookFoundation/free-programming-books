@@ -70,6 +70,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 - Malayalam / മലയാളം
 - Nepali / नेपाली
   - [आचार संहिता](CODE_OF_CONDUCT-np.md) 
+  - [contributing](CONTRIBUTING-ko.md)
   - [How-to](HOWTO-np.md) 
 - Norwegian / Norsk
 - Persian / Farsi (Iran) / فارسى

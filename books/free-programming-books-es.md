@@ -129,8 +129,6 @@
 
 ### C
 
-* [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
-
 
 ### <a id="cpp"></a>C++
 

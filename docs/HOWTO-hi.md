@@ -18,8 +18,7 @@
 * [YouTube - मार्कडाउन क्रैश कोर्स](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
-सवाल पूछने में संकोच न करें; हर योगदानकर्ता ने पहले PR के साथ शुरुआत की। आप हमारे हजारवें हो सकते हैं! तो... क्यों न जुड़ें हमारे [बड़े
-,और बढ़ते](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) समुदाय से.
+सवाल पूछने में संकोच न करें; हर योगदानकर्ता ने पहले PR के साथ शुरुआत की। आप हमारे हजारवें हो सकते हैं! तो... क्यों न जुड़ें हमारे [बड़े,और बढ़ते](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) समुदाय से.
 
 <details align="center" markdown="1">
 <summary>वृद्धि उपयोगकर्ता बनाम (vs) समय ग्राफ़ देखने के लिए क्लिक करें।</summary>

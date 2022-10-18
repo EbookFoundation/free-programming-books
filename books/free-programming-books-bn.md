@@ -9,6 +9,7 @@
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)
+* [PHP](#php)
 * [Python](#python)
 
 
@@ -58,6 +59,10 @@
 * [SL3 Framework - Code For Brain](https://web.archive.org/web/20201024204437/https://sl3.app) - Stack Learners *(:card_file_box: archived)*
 * [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
 
+
+### PHP
+
+* [পিএইচপি শিখুন বাংলায় - মিজানুর রহমান ](https://www.amarbooks.org/download.php?id=17935#pdf) - Miznaur Rahman(PDF, HTML)
 
 ### Python
 

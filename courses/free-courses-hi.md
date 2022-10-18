@@ -443,6 +443,7 @@
 
 ### Software Engineering
 
+* [Software Engineering](https://youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm) - Easy Engineering Classes
 * [Software Engineering](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2) - Gate Smashers
 
 

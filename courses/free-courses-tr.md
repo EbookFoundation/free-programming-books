@@ -39,8 +39,8 @@
 ### Java
 
 * [JAVA Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - Engin Demiroğ
-* [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/playlist?list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87) - Engin Demiroğ
 * [Java Programlama](https://www.youtube.com/playlist?list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I) - Mustafa Murat Coşkun
+* [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/playlist?list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87) - Engin Demiroğ
 
 
 ### Python

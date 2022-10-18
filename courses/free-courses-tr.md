@@ -9,7 +9,6 @@
 * [React](#react)
 * [Temel programlama](#temel-programlama)
 * [Version Control Systems](#version-control-systems)
-* [C++](#cplusplus)
 
 
 ### Algoritmalar
@@ -66,6 +65,3 @@
 * [Git Giriş Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya \| Kodluyoruz
 * [Git İleri Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
 
-### C++
-
-* [C++ Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHfmSmNlxXw1j9ZAKzYyiQAq) - Kodluyoruz

@@ -15,7 +15,7 @@
 
 ### Flutter
 
-* [Flutter Sinhala Tutorials](https://youtube.com/playlist?list=PLdRfLcb1Dvix15denuU7KoSdPiy_Xzp24) - Code Camp Sri Lanka (YouTube)
+* [Flutter Sinhala Tutorials](https://youtube.com/playlist?list=PLdRfLcb1Dvix15denuU7KoSdPiy_Xzp24) - Code Camp Sri Lanka
 
 
 ### HTML and CSS

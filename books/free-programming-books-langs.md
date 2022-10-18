@@ -1994,9 +1994,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Django
 
-* [All-Auth](https://django-allauth.readthedocs.io/_/downloads/en/latest/pdf/)(PDF)
-* [AutoComplete-Light](https://django-autocomplete-light.readthedocs.io/_/downloads/en/3.5.1/pdf/)(PDF)
-* [Django Filters](https://github.com/carltongibson/django-filter)(PDF)
+* [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html)(HTML)
+* [AutoComplete-Light](https://django-autocomplete-light.readthedocs.io/en/master/tutorial.html)(HTML)
+* [Django Filters](https://django-filter.readthedocs.io/en/stable/)(HTML)
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
@@ -2008,13 +2008,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/4.0.x/django.pdf) (PDF) (4.0)
 * [Django Rest Framework](https://riptutorial.com/Download/django-rest-framework.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
-* [Django Storages](https://django-storages.readthedocs.io/_/downloads/en/latest/pdf/)(PDF)
-* [Django Tinymce](https://django-tinymce.readthedocs.io/_/downloads/en/latest/pdf/)(PDF)
+* [Django Storages](https://django-storages.readthedocs.io/en/latest/)(HTML)
+* [Django Tinymce](https://django-tinymce.readthedocs.io/en/latest/)(HTML)
 * [Django Web Framework (Python)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - MDN contributors
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](https://web.archive.org/web/20181130092020/http://www.effectivedjango.com/) (1.5)
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
-* [Social Auth App](https://python-social-auth.readthedocs.io/_/downloads/en/stable/pdf/)(PDF)
+* [Social Auth App](https://python-social-auth.readthedocs.io/en/latest/)(HTML)
 * [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
 
 

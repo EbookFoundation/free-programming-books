@@ -21,7 +21,7 @@
     * [Nest.js](#nestjs)
     * [Next.js](#nextjs)
     * [Nuxt.js](#nuxtjs)
-    * [Reactnative](#reactnative)
+    * [React-native](#react-native)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
@@ -240,7 +240,7 @@
 * [Nuxt.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf) - Vue Mastery (PDF)
 
 
-#### Reactnative
+#### React-native
 
 * [Bridging native modules CheatSheet](https://gist.github.com/chourobin/f83f3b3a6fd2053fad29fff69524f91c) - Robin Chou (HTML)
 * [React native core components Cheatsheet](https://www.codecademy.com/learn/learn-react-native/modules/core-components-react-native/cheatsheet) - Codecademy (HTML)

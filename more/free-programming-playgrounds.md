@@ -2,6 +2,7 @@
 
 * [APL](#apl)
 * [Assembly](#assembly)
+* [Ballerina](#ballerina)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -58,6 +59,11 @@
 ### Assembly
 
 * [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
+
+
+### Ballerina
+
+* [Ballerina Playground](https://play.ballerina.io)
 
 
 ### <a id="c"></a>C

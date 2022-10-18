@@ -20,6 +20,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Containers](#containers)
 * [Data Science](#data-science)
 * [Database](#database)
+* [Data Analysis](#data-analysis-cheatsheet)
 * [Game Development](#game-development)
 * [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
@@ -273,7 +274,9 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Temporal Database Management](http://people.cs.aau.dk/~csj/Thesis/) - Christian S. Jensen
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 
+### Data Analysis Cheatsheet
 
+* [Data Analysis Cheatsheet](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) - Data Camp (PDF)
 ### Game Development
 
 * [2D Game Development: From Zero To Hero](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) (:construction: *in process*)

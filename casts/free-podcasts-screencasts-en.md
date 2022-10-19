@@ -45,7 +45,7 @@
 
 ### Blockchain
 
-* [Saket Modi Explains Behind the Scenes of Blockchain, Web3, Crypto World](https://www.youtube.com/watch?v=b_EUd9Mhk1g) - Saket Mode, BeerBiceps
+* [Saket Modi Explains Behind the Scenes of Blockchain, Web3, Crypto World](https://www.youtube.com/watch?v=b_EUd9Mhk1g) - Saket Modi, BeerBiceps
 
 
 ### <a id="csharp"></a>C\#

@@ -39,11 +39,13 @@
 ### Java
 
 * [JAVA Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - Engin Demiroğ
+* [Java Programlama](https://www.youtube.com/playlist?list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I) - Mustafa Murat Coşkun
 * [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/playlist?list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87) - Engin Demiroğ
 
 
 ### Python
 
+* [Python Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O) - Erol Mesutgün
 * [Sıfırdan İleri Seviye Profesyonel Python Yazılım Geliştiricisi Olma Kursu (2021)](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) - Mert Mekatronik
 
 

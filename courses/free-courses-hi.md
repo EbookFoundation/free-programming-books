@@ -81,6 +81,7 @@
 ### Angular 
 
 * [Angular 12 - 13 tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV45--5t7_N4lveUI6Y31vQ6C) - Code Step By Step
+* [Angular 13 Tutorial in Hindi](https://www.youtube.com/playlist?list=PL_qizAfcpJ-N2mRgfQxnDgsv20daqwlfN) - Sahosoft Solutions
 * [Learn Angular in one video (Hindi)](https://www.youtube.com/watch?v=0LhBvp8qpro&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=21) - Code With Harry 
 
 
@@ -106,6 +107,7 @@
 ### Blockchain
 
 * [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0) - Code Eater (YouTube)
+* [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLRlT7xBRpp9MiMN25XJjUVz01rGFQohq2) - Innovate India
 * [Solidity ^0.8 | Blockchain | In Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding (YouTube)
 
 
@@ -144,12 +146,14 @@
 
 * [Competitive Programming/DSA Course \| Hindi](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) - Luv
 * [Full course in Competitive programming [ Hindi ] \|\| -by prince](https://www.youtube.com/playlist?list=PLzjZaW71kMwTGbP1suqY16w1VSb9ZNuvE) - Hello World
+* [Range Queries - Level 3](https://youtube.com/playlist?list=PL-Jc9J83PIiGkI_pL8l67OVvbpnwf-5yO) - Pepcoding
 * [Text Processing - Level 3](https://youtube.com/playlist?list=PL-Jc9J83PIiEoZSwjEZT3TvpKG16FntFL) - Pepcoding
 
 
 ### Compiler Design
 
 * [Compiler Design (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc) - Gate Smashers (YouTube)
+* [Compiler Design Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2Ate5DWhppx-MUOtGNA4S3spT) - University Academy
 
 
 ### Computer Graphics
@@ -175,6 +179,7 @@
 * [DSA-One Course- The Complete Data Structure and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) - Anuj Bhaiya (YouTube)
 * [Functions and Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r) - Pepcoding
 * [Graph Data Structure & Algorithms Full Course In Hindi](https://www.youtube.com/playlist?list=PLzjZaW71kMwSrxEtvK5uQnfNQ9UjGGzA-) - Hello World
+* [Heap Playlist Interview Questions Coding Tutorials Data Structures](https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9) - Aditya Verma 
 * [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College (YouTube)
 * [Linked Lists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
@@ -184,6 +189,7 @@
 ### Databases
 
 * [3.1 DBMS In Hindi (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV) - Knowledge Gate
+* [Database Management System ( DBMS )](https://www.youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn) - Education 4u
 * [DBMS (Database Management System)](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc) - Jenny's lectures CS/IT NET&JRF
 * [DBMS (Database Management System) Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
 * [DBMS Lectures in Hindi](https://www.youtube.com/playlist?list=PL0s3O6GgLL5dg3bZhTicr5zUITPAlZNjj) - Last moment tuitions 
@@ -388,6 +394,7 @@
 ### PHP
 
 * [Core PHP (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigFdLdbSI2EM2MrJB7I0j-B) - Rajesh Kumar, Geeky Shows
+* [PHP Tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc_Hp_bqKH0-cpeboH1_sQg7) - ScoreShala
 * [PHP Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs) - Yahoo Baba
 * [PHP Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR) - CodeWithHarry
 
@@ -408,6 +415,7 @@
 #### Django
 
 * [Django (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6) - Rajesh Kumar, Geeky Shows
+* [Django in Hindi](https://www.youtube.com/playlist?list=PLKkAfNrxxRKqYLB9bCqMXrvoYd13WVxOq) - Effcon Technology
 * [Django REST Framework (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN) - Rajesh Kumar, Geeky Shows
 * [Django Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yWUMgLpWrXtegKxrWLRnRv) - Vijay Manral, CS Geeks
 * [Django(Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6) - Rajesh Kumar, GeekyShows
@@ -417,6 +425,7 @@
 #### Flask
 
 * [[Hindi] Flask Tutorial For Beginners 2020](https://www.youtube.com/playlist?list=PLkPmSWtWNIyQ-_mlHIQho9nCnxdbvnQIl) - Knowledge Shelf
+* [Flask (Python) In Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC) - HindiSiksha
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
 
 

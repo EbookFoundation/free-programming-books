@@ -26,9 +26,11 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
+* [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
+* [Octave](#octave)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -85,6 +87,7 @@
 
 ### Clojure
 
+* [Clojure](https://www.programming-idioms.org/cheatsheet/Clojure) - Programming-Idioms (HTML)
 * [Clojure Cheatsheet](http://clojure.org/cheatsheet) (HTML)
 
 
@@ -158,6 +161,8 @@
 
 ### GraphQL
 
+* [GraphQL Cheat Sheet](https://licor.me/post/graphql) - Chuanrong Li (HTML)
+* [GraphQL Cheat Sheet](https://simplecheatsheet.com/tag/graphql-cheat-sheet) - Simple Cheat Sheet (HTML)
 * [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
 
 
@@ -231,12 +236,14 @@
 
 #### Nuxt.js
 
+* [Nuxt.js Cheat Sheet](https://devdojo.com/suniljoshi19/nuxtjs-cheat-sheet) - Sunil Joshi (HTML)
 * [Nuxt.js Essentials Cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf) - Vue Mastery (PDF)
 
 
 #### React.js
 
 * [React Cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) - Codecademy (HTML)
+* [React.js Cheatsheet](https://devhints.io/react) - Devhints.io (HTML)
 * [Ultimate React.js Cheat Sheet](https://upmostly.com/ultimate-reactjs-cheat-sheet) - Upmostly.com (HTML)
 
 
@@ -264,6 +271,12 @@
 * [Swift and C# Quick Reference - Language Equivalents and Code Examples](http://www.globalnerdy.com/wordpress/wp-content/uploads/2015/03/SwiftCSharpPoster.pdf) - Globalnerdy (PDF)
 
 
+### Machine Learning
+
+* [Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet) - DataCamp Team (HTML)
+* [Super VIP Cheatsheet: Machine Learning](https://sgfin.github.io/files/cheatsheets/cs229_2018_cheatsheet.pdf) - Afshine Amidi and Shervine Amidi (PDF)
+
+
 ### Markdown
 
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Markdown Guide (HTML)
@@ -274,6 +287,7 @@
 
 * [MATLAB Basic Functions Reference Sheet](https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf) - MathWorks (PDF)
 * [Matlab Cheat Sheet](https://sites.nd.edu/gfu/files/2019/07/cheatsheet.pdf) - Thor Nielsen (PDF)
+* [Matlab Cheat Sheet](https://www.egr.msu.edu/aesc210/systems/MatlabCheatSheet.pdf) (PDF)
 
 
 ### MongoDB
@@ -284,8 +298,14 @@
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (GitHub Gist)
 
 
+### Octave
+
+* [Octave Cheat Sheet](https://www.lehman.edu/academics/cmacs/documents/refcard-a4.pdf) - John W. Eaton (PDF)
+
+
 ### Perl
 
+* [Perl Cheat Sheet](https://www.pcwdld.com/perl-cheat-sheet) - Hitesh J (HTML)
 * [Perl Reference card](https://michaelgoerz.net/refcards/perl_refcard.pdf) (PDF)
 
 
@@ -299,6 +319,7 @@
 
 * [PHP Cheat Sheet](https://www.codewithharry.com/blogpost/php-cheatsheet/) - CodeWithHarry (HTML)
 * [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - Nick Schäferhoff, WebsiteSetup (HTML, [PDF](https://websitesetup.org/wp-content/uploads/2020/09/PHP-Cheat-Sheet.pdf))
+* [PHP Cheat Sheet - 2021 Edition](https://www.quickstart.com/blog/php-cheat-sheet/) - Zsolt Nagy (HTML)
 
 
 ### Python
@@ -335,6 +356,7 @@
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 * [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
+* [Cheat Sheet for R and RStudio](https://www.ocf.berkeley.edu/~janastas/docs/RStudioCheatSheet.pdf) - L. Jason Anastasopoulos (PDF)
 
 
 ### Raspberry Pi
@@ -350,10 +372,12 @@
 
 * [Ruby Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf) - CodeConquest.com (PDF)
 * [Ruby monstas Ruby cheat sheet](https://rubymonstas.ch/materials/canonical/session05/session5-ruby-cheat-sheet.pdf) - rubymonstas.ch (PDF)
+* [Ruby Reference Sheet](https://alhassy.github.io/RubyCheatSheet/CheatSheet.pdf) - Musa Alhassy (PDF)
 
 
 ### Rust
 
+* [Rust cheatsheet](https://quickref.me/rust) - QuickRef.ME (HTML)
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
 
@@ -392,12 +416,16 @@
 
 ### Terraform
 
+* [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet) - Gineesh Madapparambath (HTML)
 * [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
 
 
 ### Unit testing
 
 * [Chai CheatSheet](https://devhints.io/chai) - devhints, Rico Santa Cruz (HTML)
+* [Cypress CheatSheet](https://cheatography.com/aiqbal/cheat-sheets/cypress-io/) - aiqbal (HTML)
+* [Enzyme CheatSheet](https://devhints.io/enzyme) - devhints, Rico Santa Cruz (HTML)
+* [Jasmine CheatSheet](https://devhints.io/jasmine) - devhints, Rico Santa Cruz (HTML)
 * [Jest CheatSheet](https://devhints.io/jest) - devhints, Rico Santa Cruz (HTML)
 * [React Testing Library CheatSheet](https://testing-library.com/docs/react-testing-library/cheatsheet/) - Kent C. Dodds, et al. (HTML)
 * [What is Unit testing](https://www.guru99.com/unit-testing-guide.html) - Thomas Hamilton (HTML)

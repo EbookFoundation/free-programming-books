@@ -599,6 +599,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown) - J. Casimir
 * [Learn CF in a Week](http://learncfinaweek.com)
+* [Learning coldfusion](https://riptutorial.com/Download/coldfusion.pdf) - Compiled from StackOverflow documentation (PDF)
 
 
 ### Component Pascal
@@ -1137,6 +1138,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Single page apps in depth](http://singlepageappbook.com) - Mixu (HTML)
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML,PDF)
+* [The Code Challenge Book](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) - Daniel Borowski (PDF)
 * [The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
 * [The Modern JavaScript Tutorial](https://javascript.info) - Ilya Kantor (HTML)
@@ -1498,6 +1500,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Markdown
 
+* [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org) - Yihui Xie (HTML) [(PDF, EPUB, MOBI)] (https://bookdown.org/yihui/bookdown/)
 * [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
 
 
@@ -1884,7 +1887,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Building Skills in Object-Oriented Design, Release 2.2.1](https://web.archive.org/web/20150824204101/http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/latex/BuildingSkillsinOODesign.pdf) - Steven F. Lott (PDF) (2.2.1)
     * [Building Skills in Object-Oriented Design, Release 3.1](https://web.archive.org/web/20160322093622/http://buildingskills.itmaybeahack.com/book/oodesign-3.1/latex/BuildingSkillsinObject-OrientedDesign.pdf) - Steven F. Lott (PDF) (3.1)
 * [Building Skills in Python](https://web.archive.org/web/20190918094202/http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) - Steven F. Lott (PDF) (2.6)
-* [Clean Architectures in Python](https://www.pycabook.com) - Leonardo Giordani (3.x)
+* [Clean Architectures in Python - A practical approach to better software design (2022)](https://www.thedigitalcatbooks.com/pycabook-introduction/) - Leonardo Giordani (3.x) (PDF)
 * [Code Like a Pythonista: Idiomatic Python](https://web.archive.org/web/20180411011411/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) - David Goodger
 * [CodeCademy Python](https://www.codecademy.com/learn/python)
 * [Composing Programs](http://composingprograms.com) (3.x)
@@ -1896,7 +1899,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - Nicolas P. Rougier (3.6)
 * [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
 * [Functional Programming in Python](https://www.oreilly.com/ideas/functional-programming-in-python) - David Mertz
-* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke
 * [Fundamentals of Python Programming](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) (:construction: *in process*)
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
@@ -1951,7 +1953,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) - Charles Russell Severance (2.7.5)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) (2.7.3)
 * [Python for you and me](http://pymbook.readthedocs.org/en/py3/) (3.x)
-* [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (PDF)
+* [Python Idioms](https://bennuttall.com/files/python-idioms-2014-01-16.pdf) (PDF)
 * [Python in Education](https://www.oreilly.com/ideas/python-in-education) - Nicholas Tollervey
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
@@ -1965,6 +1967,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
 * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)
 * [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
+* [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) - Nicolas P. Rougier (PDF)
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
 * [Slither into Python: An introduction to Python for beginners](https://web.archive.org/web/20210411065902/https://www.slitherintopython.com/) (3.7) *(:card_file_box: archived)*
@@ -2051,8 +2054,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### R
 
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
+* [An Introduction to ggplot2](https://bookdown.org/ozancanozdemir/introduction-to-ggplot2) - Ozancan Ozdemir
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) - David M. Smith, William N. Venables
 * [An Introduction to Statistical Learning with Applications in R](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
+* [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR) - Paul Roback, Julie Legler
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) - Yihui Xie, Amber Thomas, Alison Presmanes Hill
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - Rafael A. Irizarry
@@ -2074,6 +2079,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [R Programming](https://en.wikibooks.org/wiki/R_Programming) - Wikibooks
 * [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) - Roger D. Peng 
 * [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) (email address *requested*, not required)
+* [Statistical Inference via Data Science](https://moderndive.com) - Chester Ismay, Albert Y. Kim
 * [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html) - Salvatore S. Mangiafico
 * [The caret Package](http://topepo.github.io/caret/index.html) - Max Kuhn
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
@@ -2162,14 +2168,15 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Ruby on Rails
 
-* [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
 * [Api on Rails 6](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
 * [Building REST APIs with Rails](https://www.softcover.io/read/06acc071/api_on_rails) - Abraham Kuri Vargas
 * [Essential Ruby on Rails](https://www.programming-books.io/essential/rubyonrails/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
 * [Learn Ruby on Rails: Book One](https://learn-rails.com/content/learnrails1) - Daniel Kehoe
+* [Learn Ruby on Rails: Book Two](https://learn-rails.com/content/learnrails2) - Daniel Kehoe
 * [Objects on Rails](https://web.archive.org/web/20190319201525/http://objectsonrails.com/) - Avdi Grimm
 * [Rails Girls Guides](http://guides.railsgirls.com)
+* [Rails Style Guide](https://rails.rubystyle.guide) - Bozhidar Batsov
 * [Ruby Notes for Professionals](https://books.goalkicker.com/RubyBook/) - Compiled from StackOverflow Documentation (PDF)
 * [Ruby on Rails 3.2 - Step by Step](http://www.xyzpub.com/en/ruby-on-rails/3.2/)
 * [Ruby on Rails 4.0 Guide](http://www.xyzpub.com/en/ruby-on-rails/4.0/)
@@ -2325,6 +2332,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
 * [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
+* [Learning Spark: Lightning-Fast Data Analytics](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf) - Jules S. Damji, Brooke Wenig, Tathagata Das, Denny Lee (PDF)
 * [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 
 
@@ -2398,8 +2406,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Hacking with Swift](https://www.hackingwithswift.com)
 * [Swift Handbook](https://thevalleyofcode.com/swift/) - Flavio Copes (HTML, PDF)
 * [Swift Notes for Professionals](https://goalkicker.com/SwiftBook/) - Compiled from StackOverflow Documentation (PDF)
-* [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
-* [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
+* [The Swift Programming Language](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) (HTML)
+    * [The Swift Programming Language (Swift 5.7)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Apple Inc. (iBook)
+    * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) - Apple Inc. (iBook)
 
 
 #### Vapor
@@ -2545,3 +2554,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour) - Wikibooks
 * [CA-Clipper 5.2 Norton Guide](https://web.archive.org/web/20190516192814/http://www.ousob.com/ng/clguide/)
 * [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s)) - Wikibooks
+
+
+### YAML
+
+* [YAML Tutorial](https://www.tutorialspoint.com/yaml/yaml_tutorial.pdf) - TutorialsPoint (PDF)

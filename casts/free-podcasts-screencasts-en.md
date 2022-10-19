@@ -34,7 +34,7 @@
 * [Swift](#swift)
 
 
-### Android
+### <a id="android"></a>Android
 
 * [Android Developers Backstage](http://androidbackstage.blogspot.com) - Chet Haase, Tor Norbye, Romain Guy, Nick Butcher, et al. Android Developers team (podcast)
 * [Fragmented Podcast](http://fragmentedpodcast.com) - Donn Felker, Kaushik Gopal (podcast)
@@ -59,13 +59,13 @@
 * [CppCast](http://cppcast.com) - Conor Hoekstra, Jason Turner, JeanHeyd Meneide, Matt Godbolt, Rob Irving (podcast)
 
 
-### Clojure
+### <a id="clojure"></a>Clojure
 
 * [ClojureScript Podcast](https://clojurescriptpodcast.com) - Jacek Schae (podcast)
 * [Parens of the Dead](http://www.parens-of-the-dead.com) - Magnar Sveen, Elisabeth Irgens (screencast)
 
 
-### Cloud computing
+### <a id="cloud-computing"></a>Cloud computing
 
 * [CloudSkills.fm](https://cloudskills.fm) - Mike Pfeiffer (podcast)
 * [Google Cloud Platform Podcast](https://www.gcppodcast.com) - Google Cloud Platform team (podcast)
@@ -74,7 +74,7 @@
 * [The Cloud Pod](https://www.thecloudpod.net) - Justin Brodley, Jonathan Baker, Ryan Lucas and Peter Roosakos (podcast)
 
 
-### Data Science
+### <a id="data-Science"></a>Data Science
 
 * [Data Futurology - Leadership And Strategy in Artificial Intelligence, Machine Learning, Data Science](https://www.datafuturology.com/podcasts) - Felipe Flores (podcast)
 * [Data Skeptic](https://dataskeptic.com/episodes) - Kyle Polich (podcast)
@@ -92,7 +92,7 @@
 * [Towards Data Science](https://towardsdatascience.com/podcast/home) - The TDS team (podcast)
 
 
-### Elixir
+### <a id="elixir"></a>Elixir
 
 * [Elixir Newbie](https://www.elixirnewbie.com/podcast) - Brooklin Myers (podcast)
 * [Elixir Sips](http://elixirsips.com) - Josh Adams (screencast)
@@ -103,14 +103,14 @@
 * [The Thinking Elixir Podcast](https://thinkingelixir.com/the-podcast) - Mark Ericksen, David Bernheisel, Cade Ward (podcast)
 
 
-### Erlang
+### <a id="erlang"></a>Erlang
 
 * [Erlang Factory SF Bay 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ) - Erlang Solutions (screencast)
 * [Functions \+ Messages \+ Concurrency \= Erlang](http://www.infoq.com/presentations/joe-armstrong-erlang-qcon08) - Joe Armstrong (screencast)
 * [Thinking like an Erlanger](https://www.youtube.com/watch?v=6sBL1kHoMoo) - Torben Hoffmann, Erlang Solutions (screencast)
 
 
-### Git
+### <a id="git"></a>Git
 
 * [All Things Git](https://www.allthingsgit.com) - Edward Thomson, Martin Woodward (podcast)
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - The Coding Train (screencast)
@@ -118,7 +118,7 @@
 * [GitMinutes](https://www.gitminutes.com) - Thomas Ferris Nicolaisen (podcast)
 
 
-### Golang
+### <a id="golang"></a>Golang
 
 * [Build webapp without using a framework](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4) - Suraj Patil (screencast)
 * [Go: An Introduction](https://www.youtube.com/watch?v=SI-okTfauyw) - Shane Logsdon (screencast)
@@ -133,19 +133,19 @@
 * [Hacking with Andrew and Brad: tip.golang.org](https://www.youtube.com/watch?v=1rZ-JorHJEY) - Andrew Gerrand, Brad Fitzpatrick (screencast)
 
 
-### Gulp
+### <a id="gulp"></a>Gulp
 
 * [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp) - Scott Tolinski (screencast)
 
 
-### Haskell
+### <a id="haskell"></a>Haskell
 
 * [Haskell Tutorial](https://www.youtube.com/watch?v=02_H3LjqMr8) - Derek Banas (screencast)
 * [HaskellRank](https://www.youtube.com/playlist?list=PLguYJK7ydFE4aS8fq4D6DqjF6qsysxTnx) - Tsoding, Alexey Kutepov (screencast)
 * [The Haskell Cast](https://www.haskellcast.com) - Chris Forno, Alp Mestanogullari, Rein Henrichs (podcast)
 
 
-### HTML and CSS
+### <a id="html-and-css"></a>HTML and CSS
 
 * [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - Brad Traversy (screencast)
 * [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) - Chris Coyier (screencast)
@@ -153,7 +153,7 @@
 * [The CSS Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
 
 
-### IDE and editors
+### <a id="ide-and-editors"></a>IDE and editors
 
 * [Emacs Cast](https://emacscast.org) - Rakhim Davletkaliyev (podcast)
 * [Emacs Rocks!](http://emacsrocks.com) - Christian Johansen (screencast)
@@ -162,7 +162,7 @@
 * [vim Hacking](https://www.youtube.com/playlist?list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7) - Luke Smith (screencast)
 
 
-### Java
+### <a id="java"></a>Java
 
 * [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
 * [How to Program with Java Podcast](https://www.podbean.com/podcast-detail/6mxhc-344f7/How-to-Program-with-Java-Podcast) - Trevor Page (podcast)
@@ -171,7 +171,7 @@
 * [Java Pub House](https://player.fm/series/java-pub-house) - Freddy Guime, Bob Paulin (podcast)
 
 
-### JavaScript
+### <a id="javascript"></a>JavaScript
 
 * [devMode.fm](https://devmode.fm) - Andrew Welch, Ryan Ire­lan, Patrick Harrington, Jonathan Melville, Michael Rog, Earl John­ston, Mar­i­on Newlevant, Lau­ren Dorman, Matt Stein, Jen­nifer Blumberg (podcast)
 * [FiveJS](https://fivejs.codeschool.com) - CodeSchool (podcast)
@@ -196,38 +196,38 @@
 * [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
 
 
-#### Angular
+#### <a id="angular"></a>Angular
 
 * [Adventures in Angular](https://topenddevs.com/podcasts/adventures-in-angular) - Charles Max Wood, Subrat Mishra, Richard Sithole, Armen Vardanyan, Sani Yusuf, Shai Reznik, Alyssa Nicoll, Brooks Forsyth, Brad McAlister, Chris Ford, Eddie Hinkle, Younes Jaaidi, Brian Love, Jennifer Wadella, Aaron Frost, Joe Eames (podcast)
 * [Angular Air](https://angularair.com) - Justin Schwartzenberger, Alyssa Nicoll, Mike Brocci, Bonnie Brennan, Austin McDaniel (podcast)
 * [Angular Master](https://anchor.fm/angular-master) - Dariusz Kalbarczyk (podcast)
 
 
-#### Elm
+#### <a id="elm"></a>Elm
 
 * [Elm Radio](https://elm-radio.com) - Dillon Kearns, Jeroen Engels (podcast)
 * [Elm Town](https://elmtown.simplecast.com) - Kevin Yank, Ossi Hanhinen, Brian Hicks, Ben Brandt (podcast)
 
 
-#### Ember.js
+#### <a id="emberjs"></a>Ember.js
 
 * [Ember Weekend](https://emberweekend.com/episodes) - Chase McCarthy, Jonathan Jackson (podcast)
 * [The EmberMap Podcast](https://embermap.com/podcast) - Sam Selikoff, Ryan Toronto (podcast)
 
 
-#### Node.js
+#### <a id="nodejs"></a>Node.js
 
 * [Node University](https://nodeuniversity.simplecast.fm) - Azat Mardan (podcast)
 * [Nodeup](https://player.fm/series/nodeup) - Dan Shaw, Stanley Stuart, Jordan Muir (podcast)
 * [Twitter Bot Tutorial - Node.js and Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) - The Coding Train (screencast)
 
 
-#### p5.js
+#### <a id="p5js"></a>p5.js
 
 * [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) - The Coding Train (screencast)
 
 
-#### React.js
+#### <a id="reactjs"></a>React.js
 
 * [Chats with Kent C. Dodds](https://kentcdodds.com/chats) - Kent C. Dodds (podcast)
 * [Epic React](https://epicreact.dev/podcast) - Kent C. Dodds (podcast)
@@ -240,14 +240,14 @@
 * [The React Native Show](https://www.callstack.com/podcast-react-native-show) - Mike Grabowski, Mike Chudziak, Satyajit Sahoo, Michał Pierzchała, et al. (screencast)
 
 
-### Kotlin
+### <a id="kotlin"></a>Kotlin
 
 * [freeCodeCamp - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU) - Nate Ebel (screencast)
 * [Kotlin Beginners Tutorials](https://www.youtube.com/playlist?list=PLpg00ti3ApRweIhdOI4VCFFStx4uXC__u) - Peter Sommerhoff (screencast)
 * [Talking Kotlin](http://talkingkotlin.com) - Hadi Hariri, JetBrains community (podcast)
 
 
-### Language Agnostic
+### <a id="language-agnostic"></a>Language Agnostic
 
 * [/dev/hell](https://devhell.info) - Chris Hartjes, Ed Finkler (podcast)
 * [ADSP: The Podcast](https://adspthepodcast.com) - Bryce Adelstein Lelbach, Conor Hoekstra (podcast)
@@ -322,13 +322,13 @@
 * [Women in TECH with Ariana](https://www.wallwaytech.com/podcast) - Ariana The Techie (podcast)
 
 
-### Lisp
+### <a id="lisp"></a>Lisp
 
 * [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
 * [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
 
 
-### Machine Learning
+### <a id="machine-learning"></a>Machine Learning
 
 * [Concerning AI](https://concerning.ai) - Brandon Sanders, Ted Sarvata (podcast)
 * [Emerj: The AI in Business Podcast](https://emerj.com/artificial-intelligence-podcast/) - Daniel Faggella (podcast)
@@ -342,7 +342,7 @@
 * [TWIML AI Podcast](https://twimlai.com/shows/) - Sam Charrington (podcast)
 
 
-### PHP
+### <a id="php"></a>PHP
 
 * [Laravel News Podcast](https://podcast.laravel-news.com) -  Jacob Bennett, Michael Dyrynda, Eric L. Barnes (podcast)
 * [MageTalk - A Magento Podcast](https://magetalk.com) - Phillip Jackson, Kalen Jordan (podcast)
@@ -353,13 +353,13 @@
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com) - Cal Evans, Khayrattee Wasseem (podcast)
 
 
-### PostgreSQL
+### <a id="postgresql"></a>PostgreSQL
 
 * [PG Casts](https://www.pgcasts.com) - Jack Christensen, Josh Branchaud, Jake Worth, Vidal Ekechukwu, Dorian Karter, Mary Lee, et al. Hashrocket team (screencast)
 * [Scaling Postgres](https://player.fm/series/scaling-postgres) - Ruby Tree Software Inc, Creston Jamison (podcast)
 
 
-### Python
+### <a id="python"></a>Python
 
 * [Build applications in Python - The antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy) - Multiversity (screencast)
 * [Codecasts](https://www.youtube.com/playlist?list=PL_qGav8csvade05RSAYtnxvCfQKTJcZR4) - Daniel Roy Greenfeld (screencast)
@@ -380,7 +380,7 @@
 * [Try Django Tutorial](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx) - Justin Mitchel, CodingEntrepreneurs (screencast)
 
 
-### Ruby
+### <a id="ruby"></a>Ruby
 
 * [Code with Jason](https://www.codewithjason.com/rails-with-jason-podcast/) - Jason Swett (podcast)
 * [Drifting Ruby](https://www.driftingruby.com/episodes?free=true&pro=false) - Dave Kimura (screencast)
@@ -393,13 +393,13 @@
 * [The Ruby Show](http://rubyshow.com) - Peter Cooper, Jason Seifer (podcast)
 
 
-### Rust
+### <a id="rust"></a>Rust
 
 * [New Rustacean](http://www.newrustacean.com) - Chris Krycho (podcast)
 * [Rusty Radio](https://soundcloud.com/posix4e) - Alex Newman (podcast)
 * [The Rustacean Station Podcast](https://rustacean-station.org) - Allen Wyma, Tim McNamara, Sean Chen, et al. (podcast)
 
 
-### Swift
+### <a id="swift"></a>Swift
 
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)

@@ -420,6 +420,7 @@
 #### Flask
 
 * [[Hindi] Flask Tutorial For Beginners 2020](https://www.youtube.com/playlist?list=PLkPmSWtWNIyQ-_mlHIQho9nCnxdbvnQIl) - Knowledge Shelf
+* [Flask (Python) In Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC) - HindiSiksha
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
 
 

@@ -525,8 +525,8 @@
 
 * [Ethical Hacking - Basics (Kali 2021)](https://www.udemy.com/course/ethical-hacking-basics-kali-20211) - Arthur Salmon (Udemy)
 * [Ethical Hacking for beginners: Beginner to Advance](https://www.udemy.com/course/ethical-hacking-for-beginners-beginner-to-advance) - PaceIT Academy (Udemy)
-* [Ethical Hacking from Scratch - The Complete Course](https://www.udemy.com/course/ethical-hacking-by-digiflax) - DIGIFLAX E-LEARNING (Udemy)
 * [Ethical Hacking - SQL Injection Attack](https://www.udemy.com/course/sql-injection-ethical-hacking) - Sunil K. Gupta, Knowledge Aacademy (Udemy)
+* [Ethical Hacking from Scratch - The Complete Course](https://www.udemy.com/course/ethical-hacking-by-digiflax) - DIGIFLAX E-LEARNING (Udemy)
 * [Ethical Hacking Kali Linux Command Line (CLI) Hands-On](https://www.udemy.com/course/kali-linux-command-line-cli-hands-on) - Musab Zayadneh (Udemy)
 * [Ethical hacking with Hak5 devices](https://www.udemy.com/course/ethical-hacking-with-hak5-devices) - David Bombal (Udemy)
 * [Foundations of Hacking and Pentesting Android Apps](https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps) - Scott Cosentino (Udemy)

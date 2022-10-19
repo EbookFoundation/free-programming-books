@@ -277,7 +277,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### Data Analysis Cheatsheet
 
-* [Data Analysis Cheatsheet](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) - Data Camp (PDF)
+* [Python For Data Science Cheat Sheet](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) - Data Camp (PDF)
 
 
 ### Game Development

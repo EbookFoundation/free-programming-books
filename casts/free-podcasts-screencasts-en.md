@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [Blockchain](#blockchain)
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
@@ -40,6 +41,11 @@
 * [Fragmented Podcast](http://fragmentedpodcast.com) - Donn Felker, Kaushik Gopal (podcast)
 * [Now in Android](https://nowinandroid.libsyn.com) - Chet Haase, Dan Galpin, Manuel Vivo, Meghan Mehta, et al. Android Developers team (podcast)
 * [The complete Android Application Development Course - Work Great in 2020](https://www.youtube.com/playlist?list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe) - Android Developer (screencast)
+
+
+### Blockchain
+
+* [Saket Modi Explains Behind the Scenes of Blockchain, Web3, Crypto World](https://www.youtube.com/watch?v=b_EUd9Mhk1g) - Saket Mode, BeerBiceps
 
 
 ### <a id="csharp"></a>C\#

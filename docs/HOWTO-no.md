@@ -1,8 +1,8 @@
-# Korte instruksjoner
+# How-To at a glance
 
 <div align="right" markdown="1">
 
-*[Les dette på andre språk](READ.md#translations)*
+*[Les dette på andre språk](README.md#translations)*
 
 </div>
 
@@ -31,4 +31,4 @@ Ikke nøl med å stille spørsmål; hver bidragsyter startet med en første PR. 
 
 Selv om du er en erfaren åpen kildekode-bidragsyter, er det ting som kan slå deg opp. Når du har sendt inn PR, ***GitHub Actions* vil kjøre en *linter*, ofte finne små mellomrom eller leseferdigheter**. Hvis du får en grønn knapp, er alt klart for gjennomgang, men hvis ikke, klikk "Detaljer" under den mislykkede sjekken for å finne ut hva linteren ikke likte. Løs problemet og legg til en forpliktelse til PR.
 
-Til slutt, hvis du er usikker på om ressursen du vil legge til er passende for `Gratis-Programmerings-Bøker`, les instruksjonene i [CONTRIBUTING](CONTRIBUTING.md) *([oversettelse](README.md#translations) også tilgjengelig)*.
+Til slutt, hvis du er usikker på om ressursen du vil legge til er passende for `Gratis-Programmerings-Bøker`, les instruksjonene i [CONTRIBUTING](CONTRIBUTING.md) *([oversettelse](README.md#translations))*.

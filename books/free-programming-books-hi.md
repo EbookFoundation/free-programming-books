@@ -1,6 +1,7 @@
 ### Index
 
 * [C++](#cpp)
+
 * [Python](#py)
 
 
@@ -11,5 +12,7 @@
 * [C++ Introduction Book \| Hindi](https://ncsmindia.com/wp-content/uploads/2012/04/c++-hindi.pdf) - NCMS India (PDF)
 
 ### <a id="py"></a>Python
-* [Python Introduction \| Hindi](https://www.tutorialinhindi.com/python/history-of-python-hindi/) 
+
+* [Python BriefIntroduction \| Hindi](https://www.tutorialinhindi.com/python/history-of-python-hindi/) 
 * [Python DataTypes \| Hindi](https://www.tutorialinhindi.com/python/python-data-types-hindi/)
+* [Python Variables \| Hindi](https://www.tutorialinhindi.com/python/python-variables-hindi/)

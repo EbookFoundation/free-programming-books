@@ -173,6 +173,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Pyramid](#pyramid)
     * [Tornado](#tornado)
 * [Q#](#q-sharp)
+* [Qiskit](#qiskit)
 * [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
@@ -2044,6 +2045,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### <a id="q-sharp"></a>Q\#
 
 * [The Q# quantum programming language user guide](https://learn.microsoft.com/en-us/azure/quantum/user-guide) (HTML)
+
+
+### Qiskit
+
+* [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Amira Abbas and Stina Andersson and Abraham Asfaw and Antonio Corcoles and Luciano Bello and Yael Ben-Haim and Mehdi Bozzo-Rey and Sergey Bravyi and Nicholas Bronn and Lauren Capelluto and Almudena Carrera Vazquez and Jack Ceroni and Richard Chen and Albert Frisch and Jay Gambetta and Shelly Garion and Leron Gil and Salvador De La Puente Gonzalez and Francis Harkins and Takashi Imamichi and Pavan Jayasinha and Hwajung Kang and Amir h. Karamlou and Robert Loredo and David McKay and Alberto Maldonado and Antonio Macaluso and Antonio Mezzacapo and Zlatko Minev and Ramis Movassagh and Giacomo Nannicini and Paul Nation and Anna Phan and Marco Pistoia and Arthur Rattew and Joachim Schaefer and Javad Shabani and John Smolin and John Stenger and Kristan Temme and Madeleine Tod and Ellinor Wanzambi and Stephen Wood and James Wootton.
 
 
 ### QML

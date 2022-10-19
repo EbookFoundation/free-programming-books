@@ -23,6 +23,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Game Development](#game-development)
 * [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
+* [Hacking](#hacking)
 * [IDE and editors](#ide-and-editors)
 * [Information Retrieval](#information-retrieval)
 * [Licensing](#licensing)
@@ -341,6 +342,9 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole (online, PDF)
 
 
+### Hacking
+
+* [Gray Hat Hacking: The Ethical Hacker's Handbook](https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf) - Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams
 ### Information Retrieval
 
 * [Information Retrieval: A Survey](http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf) (PDF)

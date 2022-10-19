@@ -284,3 +284,4 @@
 ### Web & Webmaster
 
 * [Como crear y administrar un curso en MOODLE - TecNMx](https://mooc.tecnm.mx/courses/course-v1:TecNM+CCACM-003+2022-3/about) (TecNMx)
+* [Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/) - Fernando Herrera (udemy)

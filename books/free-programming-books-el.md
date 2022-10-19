@@ -2,6 +2,7 @@
 
 * [C](#c)
 * [C++](#cpp)
+* [ΗTML & CSS](#html&css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
@@ -19,6 +20,12 @@
 * [Εισαγωγή στη C++](http://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf) (PDF)
 
 
+### <a id="html&css"></a> ΗTML & CSS 
+
+* [Eισαγωγή στην HTML & CSS](https://www.ebooks4greeks.gr/eisagwgh-sthn-html-css) - Ανδρέας Κομνηνός (PDF)
+* [Eισαγωγή στην HTML](https://www.ebooks4greeks.gr/eisagwgh-sthn-html) - Καλλίπος (PDF)
+
+
 ### Java
 
 * [Δομές δεδομένων](https://repository.kallipos.gr/bitstream/11419/6217/4/DataStructures-%ce%9a%ce%9f%ce%a5.pdf) - Γεωργιάδης Λουκάς, Νικολόπουλος Σταύρος, Παληός Λεωνίδας (PDF)
@@ -33,7 +40,7 @@
 
 ### JavaScript
 
-* [HTML5-JavaScript (Δημιουργώντας παιχνίδια – Ο εύκολος τρόπος)](https://www.ebooks4greeks.gr/html5-javascript)
+* [HTML5-JavaScript (Δημιουργώντας παιχνίδια – Ο εύκολος τρόπος)](https://www.ebooks4greeks.gr/html5-javascript) - courses.e-ce.uth.gr
 
 
 ### Python

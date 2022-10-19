@@ -29,6 +29,7 @@
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
     * [Ansible](#ansible)
+    * [Jenkins](#jenkins)
 * [Digital Electronics](#digital-electronics)
 * [Docker](#docker)
 * [Elastic](#elastic)
@@ -487,6 +488,16 @@
 * [DevOps: Beginner's Guide To Automation With Ansible](https://www.udemy.com/course/devops-beginners-guide-to-automation-with-ansible) - TetraNoodle Team, Manuj Aggarwal (Udemy)
 * [Red Hat Ansible Automation for SAP (RH045)](https://www.udemy.com/course/red-hat-ansible-automation-for-sap) - Red Hat, Inc. (Udemy)
 * [Use Ansible with Amazon Web Services](https://www.udemy.com/course/ansible-aws) - Rohit Abraham (Udemy)
+
+
+### Jenkins
+
+* [FREE Advanced Jenkins in K8s (Docker in Docker)](https://www.udemy.com/course/free-advanced-jenkins-in-k8s-docker-in-docker) - Nomad Sashi (Udemy)
+* [Jenkins](https://youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) - Automation Step by Step
+* [Jenkins for Beginners](https://www.udemy.com/course/jenkins-for-beginners-n) - Musab Zayadneh (Udemy)
+* [Jenkins Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial) (Greate Learning)
+* [Jenkins Tutorial Step by Step](https://www.youtube.com/playlist?list=PL8VbCbavWfeGt_Hyq0h9Pymi9DTGowd5X) - The Testing Academy
+* [Jenkins Tutorial Video [2022 updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKGrfcoNYRgqam5YBERN8xa) - Simplilearn
 
 
 ### Digital Electronics

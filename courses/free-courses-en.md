@@ -683,7 +683,7 @@
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
 * [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) (Stanford)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
-* [Java Beginner](https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) - Coding with John (YouTube)
+* [Java Beginner](https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) - Coding with John
 * [Java Design Patterns and Architecture](https://www.udemy.com/course/java-design-patterns-tutorial) - John Purcell (Udemy)
 * [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
 * [Java for Mobile Devices - Introducing Codename One](https://codenameone.teachable.com/p/java-for-mobile-devices-introducing-codename-one)

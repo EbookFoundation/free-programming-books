@@ -451,8 +451,8 @@
 * [Typescript Course For Javascript Developer&rlm;](https://www.youtube.com/playlist?list=PLDQ11FgmbqQNDkXDd5SScLPqJM5w4Kgjc) - Programming Solutions - Academy
 * [typescript for angular developers [arabic tutorial]&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa-BC3yuZdzmAfVC7i5etLWb) - codeZone
 * [TypeScript tutorial Arabic&rlm;](https://www.youtube.com/playlist?list=PLF8OvnCBlEY27rEmxg4F86iFljMXyCmk1) - Hussein Al Rubaye&rlm; (YouTube)
-
-
+* [TypeScript Tutorial ( Arabic ) &rlm;](https://www.youtube.com/playlist?list=PLtFbQRDJ11kH1RHmJD7DYtV9RXY42Al5g) - Unique Coderz Academy (YouTube)
+ 
 #### Angular
 
 * [كورس Angular 2 بالعربي](https://www.youtube.com/playlist?list=PLzCpl3aBwaY7eOwGMlps70dTYs2TSsgj1) - Mobarmg

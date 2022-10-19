@@ -19,7 +19,7 @@
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [AngularJS](#angularjs)
+* [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
@@ -43,7 +43,7 @@
 * [Svelte](#svelte)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-    * [Angular](#angular)
+* [Angular](#angular)
 * [V](#v)
 
 

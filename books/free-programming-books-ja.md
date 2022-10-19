@@ -540,7 +540,7 @@
 * [PHP によるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
 * [PHP マニュアル](https://www.php.net/manual/ja) - The PHP Group
 * [PHP 基礎文法最速マスター](https://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
-* [PHP4徹底攻略改訂版](https://prev.net-newbie.com/support/pdf2/)
+* [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 
@@ -610,7 +610,6 @@
 * [Rによる統計解析の基礎](https://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF)
 * [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
 * [統計解析ソフトRのスクリプト集](https://nuss.nagoya-u.ac.jp/index.php/s/kN6ZxsyReNzRPlM) - 石井秀宗 (PDF)
-* [統計解析フリーソフトRの備忘録](http://cse.naro.affrc.go.jp/takezawa/r-tips.pdf) - 竹澤邦夫 (PDF)
 * [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
 
 

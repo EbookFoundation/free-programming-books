@@ -330,6 +330,7 @@
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
+* [PROGRAMANDO PARA WEB COM PHP/MySQL](https://drive.google.com/file/d/10hnl8I6zkvpjI0yUPRxYOoAsXLQx39KX/view) - Fred Cox Junior
 
 
 ### Python

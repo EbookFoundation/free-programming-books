@@ -40,6 +40,7 @@
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Scala](#scala)
 * [Shell Scripting](#shell-scripting)
 * [Solidity](#solidity)
 * [SpringBoot](#springboot)
@@ -380,6 +381,10 @@
 * [Rust cheatsheet](https://quickref.me/rust) - QuickRef.ME (HTML)
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
+### Scala
+
+* [Scala Cheatsheet](https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf) - Alvin Alexander (PDF)
+* [Scala Cheatsheet - Detailed](https://warisradji.com/Scala-CheatSheet) - Waris RADJI (HTML)
 
 ### Shell Scripting
 

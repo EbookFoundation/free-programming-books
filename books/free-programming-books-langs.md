@@ -2086,6 +2086,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
 * [The R Manuals](http://cran.r-project.org/manuals.html)
 * [Tidy Text Mining with R](http://tidytextmining.com) - Julia Silge, David Robinson
+* [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) (:construction: *in process*)
 
 
 ### Racket

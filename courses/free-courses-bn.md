@@ -6,7 +6,6 @@
 * [C++](#cpp)
 * [Competitive Programming](#competitive-programming)
 * [Dart](#dart)
-* [Django](#django)
 * [Docker](#docker)
 * [Flutter](#flutter)
 * [Git](#git)
@@ -28,6 +27,7 @@
 * [PHP](#php)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
+    * [Django](#django)
 * [Restapi](#restapi)
 * [Scratch](#scratch)
 * [Shell scripting](#shell-scripting)
@@ -73,11 +73,6 @@ Shikkhangon BD
 ### Dart
 
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
-
-
-### Django
-
-* [Django Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V) - Learn Hunter
 
 
 ### Docker
@@ -231,6 +226,11 @@ Shikkhangon BD
 * [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
 * [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
+
+
+#### Django
+
+* [Django Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V) - Learn Hunter
 
 
 ### Scratch

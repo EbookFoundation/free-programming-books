@@ -1188,8 +1188,9 @@
 
 ### Serverless
 
-* [Serverless learning paths using AWS](https://serverlessland.com/learn)
 * [Serverless framework getting started](https://www.serverless.com/framework/docs/getting-started)
+* [Serverless learning paths using AWS](https://serverlessland.com/learn)
+
 
 
 ### Security

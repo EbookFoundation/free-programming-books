@@ -71,6 +71,7 @@ Shikkhangon BD
 ### Dart
 
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
+* [Dart Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnpQarCowZvUJOf4VhiJllX5) - Learn Hunter
 
 
 ### Docker
@@ -151,6 +152,7 @@ Shikkhangon BD
 #### jQuery
 
 * [jQuery Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB) - Anisul Islam
+* [jQuery Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5Onxtpvq--EAMfAHcn8h8_t3iw) - Moshiur
 
 
 #### Node.js
@@ -203,6 +205,7 @@ Shikkhangon BD
 ### PHP
 
 * [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
+* [PHP8 Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqBfSoiU5TG7FF4FQmCpoSp) - Learn Hunter
 
 
 ### Programming paradigms

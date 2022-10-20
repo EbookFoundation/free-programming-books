@@ -183,6 +183,7 @@
 * [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
 * [Introdução à Linguagem de Programação Go](https://josecintra.com/blog/wp-content/uploads/2020/07/introducao_programacao_go.pdf) - Professor José Cintra (PDF)
 
+
 ### Haskell
 
 * [Aprender o Haskell será um grande bem para você](https://github.com/taylorrf/learnhaskell) - Miran Lipovača, `trl.:` Tailor Fontela

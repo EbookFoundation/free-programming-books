@@ -181,7 +181,7 @@
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
 * [Go - hands on](https://github.com/go-br/estudos)
 * [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
-
+* [Introdução à Linguagem de Programação Go](https://josecintra.com/blog/wp-content/uploads/2020/07/introducao_programacao_go.pdf) - Professor José Cintra (PDF)
 
 ### Haskell
 

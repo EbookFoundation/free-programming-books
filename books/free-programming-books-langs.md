@@ -2070,6 +2070,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - Roger D. Peng, Sean Kross, and Brooke Anderson 
 * [ModernDive](https://ismayc.github.io/moderndiver-book/) - Chester Ismay, Albert Y. Kim
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
+* [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) (:construction: *in process*)
 * [R for Data Science](http://r4ds.had.co.nz) - Garrett Grolemund, Hadley Wickham
 * [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
 * [R Language for Programmers](http://www.johndcook.com/blog/r_language_for_programmers) - John D. Cook

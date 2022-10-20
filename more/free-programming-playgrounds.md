@@ -116,6 +116,7 @@
 
 * [Codepen](https://codepen.io/topic/flutter/templates)
 * [Flutter Studio](https://flutterstudio.app)
+* [Dartpad](https://dartpad.dev/?id=e75b493dae1287757c5e1d77a0dc73f1)
 
 
 ### GDScript
@@ -247,6 +248,8 @@
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
 * [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz
+* [Google Colab](https://colab.research.google.com/)
+* [Python Anywhere](https://www.pythonanywhere.com/)
 
 
 ### R
@@ -275,6 +278,7 @@
 * [Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com) - Dan's Tools
 * [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
 * [RegExr: Learn, Build, \& Test RegEx](https://regexr.com) - GSkinner Inc.
+* [Regulex: JavaScript Regular Expression Visualizer](https://jex.im/regulex) - Jex.im
 
 
 ### Ruby
@@ -315,6 +319,8 @@
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
 * [SQLFiddle](http://sqlfiddle.com)
+* [SQLTester](http://sqltester.com)
+* [SQLZoo](https://sqlzoo.net)
 
 
 ### Svelte

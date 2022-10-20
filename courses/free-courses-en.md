@@ -78,6 +78,7 @@
     * [Flask](#flask)
 * [QB64](#qb64)
 * [R](#r)
+* [React-Testing-Library](#react-testing-library)
 * [Robotics](#robotics)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -1139,6 +1140,11 @@
 * [R Programming](https://www.coursera.org/course/rprog)
 * [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) - Barton Poulson (freeCodeCamp)
 * [R Tutorial For Beginners \| Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU) - Edureka!
+
+
+### React-Testing-Library
+
+* [React Testing Library Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ) - The Net Ninja
 
 
 ### Robotics

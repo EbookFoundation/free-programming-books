@@ -115,7 +115,6 @@
 ### Flutter
 
 * [Codepen](https://codepen.io/topic/flutter/templates)
-* [Flutter Studio](https://flutterstudio.app)
 * [Dartpad](https://dartpad.dev/?id=e75b493dae1287757c5e1d77a0dc73f1)
 * [Flutter Studio](https://flutterstudio.app)
 
@@ -242,16 +241,16 @@
 
 * [Codepad](http://codepad.org/?lang=Python)
 * [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
+* [Google Colab](https://colab.research.google.com/)
 * [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
+* [Python Anywhere](https://www.pythonanywhere.com/)
 * [Python Trinket](https://trinket.io/python)
 * [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
 * [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz
-* [Google Colab](https://colab.research.google.com/)
-* [Python Anywhere](https://www.pythonanywhere.com/)
 
 
 ### R

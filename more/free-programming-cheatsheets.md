@@ -384,8 +384,8 @@
 
 ### Scala
 
-* [Scala Cheatsheet](https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf) - Alvin Alexander (PDF)
 * [Scala Cheat Sheet](https://warisradji.com/Scala-CheatSheet) - Waris RADJI (HTML)
+* [Scala Cheatsheet](https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf) - Alvin Alexander (PDF)
 
 
 ### Shell Scripting

@@ -12,6 +12,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
+* [Solidity](#solidity)
 * [SQL](#sql)
 
 
@@ -88,6 +89,11 @@ CSE Tamila by Eezytutorials
 ### R
 
 * [R Tutorial in Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC) - Tutor Joe's Stanley
+
+
+### Solidity
+
+* [Solidity tutorial for complete beginners](https://youtube.com/playlist?list=PLl2NTvGeqw2ZRNLU25-yodXK86EXWV6on)- Ork
 
 
 ### SQL

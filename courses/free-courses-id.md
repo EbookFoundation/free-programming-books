@@ -39,6 +39,7 @@
 * [Redis](#redis)
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
+* [Terraform](#terraform)
 * [Typescript](#typescript)
 
 
@@ -111,6 +112,8 @@
 ### Docker
 
 * [Belajar Docker untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qkxCTe3Gd0wA-bQZChXhsNI) - Giri Kuncoro (YouTube)
+* [Mengenal Container dan Docker Sampai Jago Dalam 2 Jam](https://www.youtube.com/watch?v=26O6Ke03j3Y) - Imre Nagi
+* [Pengembangan Microservice Dengan Docker Compose](https://www.youtube.com/watch?v=ALGVV5cGUtc) - Imre Nagi
 * [Tutorial Docker untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
@@ -139,6 +142,7 @@
 * [Belajar GIT (Source Code Management)](https://www.youtube.com/playlist?list=PL8bBYpHH3RI6BlCzFTMQvt7sGSycUj7S-) - Eka Putra, UpKoding (YouTube)
 * [GIT & GITHUB](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) - Sandhika Galih, Web Programming UNPAS (YouTube)
 * [Git Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_lYGV8hxqjtKmFA_xeLupq) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Jago Git Dalam 2 Jam](https://www.youtube.com/watch?v=KGSfUgaiVNI) - Imre Nagi
 * [Source Code Management untuk Pemula](https://www.dicoding.com/academies/116) - Dicoding, membutuhkan registrasi
 * [Tutorial GIT Bahasa Indonesia Lengkap](https://www.youtube.com/playlist?list=PL1aMeb5UP_PHXTV_Xpt-19x_rVPXrymOM) - IDStack (YouTube)
 
@@ -167,6 +171,7 @@
 * [Belajar FLEXBOX](https://www.youtube.com/playlist?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k) - Web Programming UNPAS
 * [Belajar HTML](https://alwaysngoding.com/belajar-html/teori) -  Muhammad Saleh Solahudin, Always Ngoding (account *required*)
 * [Belajar HTML 5](https://www.youtube.com/playlist?list=PLFIM0718LjIX-K5eeHRImnZhPUMhsw9A7) - Sandhika Galih, Web Programming UNPAS
+* [Belajar TAILWINDCSS](https://youtube.com/playlist?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h) - Web Programming UNPAS
 * [CSS Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p) - Web Programming UNPAS
 * [CSS Grid](https://www.youtube.com/playlist?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw) - Web Programming UNPAS
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
@@ -282,6 +287,7 @@
 ### Machine Learning
 
 * [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177) - Dicoding, membutuhkan registrasi
+* [Belajar Machine Learning Dari Awal Buat Yang Ga Jago Matematika](https://www.youtube.com/watch?v=WH1SduDRL_Y&t=2s) - array id (Youtube)
 * [Classic Time Series Forecasting \| Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Ms7wr2zgtcC4LaE_NHQAEjx) - Wira DKP, JCOp Untuk Indonesia (YouTube)
 * [Nusantech Webinar - Introduction to Machine Learning](https://www.youtube.com/watch?v=SezDD2ULQ1o) - Nusantech, Galuh Sahid 
 * [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Setia Budi, Indonesia Belajar (YouTube)
@@ -385,6 +391,7 @@
 ### SASS / SCSS
 
 * [Belajar Menggunakan SASS](https://youtube.com/playlist?list=PLRKMmwY3-5Mxzx31JO3V9JJ8GLdUXYqt0) - Irsyad A. Panjaitan (Parsinta)
+* [Belajar Sass Biar Nulis Kode CSS Jadi "Absurd"](https://www.youtube.com/watch?v=kNA_wWbBCLc) - array id
 * [Tutorial SASS](https://www.youtube.com/playlist?list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5) - Web Programming UNPAS
 
 
@@ -392,6 +399,11 @@
 
 * [Ethereum Blockchain Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLNl8QwXqW_lvWSc3n3geFSbBtmJvEl4nz) - Odoo Indonesia vITraining
 * [Tutorial Blockchain Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhvZi4kEqU6kCjyv_y8qBae) - Ipung DEV Academy (YouTube)
+
+
+### Terraform
+
+* [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro
 
 
 ### TypeScript

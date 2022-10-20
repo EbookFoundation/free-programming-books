@@ -36,6 +36,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Parallel Programming](#parallel-programming)
 * [Partial Evaluation](#partial-evaluation)
 * [Professional Development](#professional-development)
+* [Programming-with-JS](#Programming-with-JS)
 * [Programming Paradigms](#programming-paradigms)
 * [Quantum Computing](#quantum-computing)
 * [Regular Expressions](#regular-expressions)
@@ -357,6 +358,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### Machine Learning
 
+* [ML-For-Beginners](https://github.com/Microsoft/ML-For-Beginners) - Microsof
 * [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf) - Osvaldo Simeone (PDF)
 * [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
 * [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf) - Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang (PDF)
@@ -709,6 +711,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
+* [Programming-with-JS](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
 
 
 ### Programming Paradigms

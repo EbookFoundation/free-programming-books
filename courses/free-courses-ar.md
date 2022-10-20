@@ -129,6 +129,7 @@
 ### Dart
 
 * [Dart بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAj6Yjdki9OCLSwqdBs4xhQz) - Asem Saafan
+* [Dart بالعربي](https://www.youtube.com/watch?v=kgN7veo9tC0&list=PL93xoMrxRJIsYc9L0XBSaiiuq01JTMQ_o) - Wael abo hamza
 
 
 ### Databases
@@ -308,6 +309,7 @@
 * [ReactJS with zanaty&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiUmNPrv9szscXzENArzQHAe) - Mohammed Elzanaty
 * [Redux ToolKit 2021/2022 part 4 [شرح Redux toolkit] [تعلم Redux] [شرح Redux]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFREfrBoSl8tjAPZOY6HNqZv) - kimz codes
 * [Redux ToolKit Project, Book Store project [تعلم Redux toolkit]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFQFvS469VXyCPO_py_kvVD5) - kimz codes
+* 
 
 
 #### Vue.js

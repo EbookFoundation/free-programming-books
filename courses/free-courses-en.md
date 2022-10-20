@@ -1186,6 +1186,12 @@
 * [Functional Programming in Scala Specialization](https://www.coursera.org/course/reactive)
 
 
+### Serverless
+
+* [Serverless learning paths using AWS](https://serverlessland.com/learn)
+* [Serverless framework getting started](https://www.serverless.com/framework/docs/getting-started)
+
+
 ### Security
 
 * [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014) - Prof. Nickolai Zeldovich (MIT OpenCourseWare)

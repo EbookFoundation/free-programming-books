@@ -93,7 +93,7 @@ CSE Tamila by Eezytutorials
 
 ### Solidity
 
-* [Solidity tutorial for complete beginners](https://youtube.com/playlist?list=PLl2NTvGeqw2ZRNLU25-yodXK86EXWV6on)- Ork
+* [Solidity tutorial for complete beginners](https://youtube.com/playlist?list=PLl2NTvGeqw2ZRNLU25-yodXK86EXWV6on) - Ork
 
 
 ### SQL

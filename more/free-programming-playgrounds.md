@@ -70,6 +70,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 
@@ -97,6 +98,7 @@
 ### Dart
 
 * [DartPad](https://dartpad.dev)
+* [Replit](https://replit.com/languages/dart)
 
 
 ### Docker

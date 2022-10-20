@@ -6,6 +6,7 @@
 * [C++](#cpp)
 * [Competitive Programming](#competitive-programming)
 * [Dart](#dart)
+* [Django](#django)
 * [Docker](#docker)
 * [Flutter](#flutter)
 * [Git](#git)
@@ -27,6 +28,7 @@
 * [PHP](#php)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
+* [Restapi](#restapi)
 * [Scratch](#scratch)
 * [Shell scripting](#shell-scripting)
 * [TypeScript](#typescript)
@@ -71,6 +73,11 @@ Shikkhangon BD
 ### Dart
 
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
+
+
+### Django
+
+* [Django Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V) - Learn Hunter
 
 
 ### Docker
@@ -168,6 +175,11 @@ Shikkhangon BD
 * [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 * [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
 * [React JS Tutorial Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) - Sumit Saha (Learn with Sumit)
+
+
+### Restapi
+
+* [Restapi Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnoQONzuNtFlhEzegTYadoBY) - Learn Hunter
 
 
 #### Svelte

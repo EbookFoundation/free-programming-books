@@ -127,8 +127,6 @@
 
 
 ### Linux
-
-* [리눅스 서버를 다루는 기술](https://web.archive.org/web/20220107111504/https://thebook.io/006718/) *(:card_file_box: archived)*
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
 
 

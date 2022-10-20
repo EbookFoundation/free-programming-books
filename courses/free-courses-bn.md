@@ -172,11 +172,6 @@ Shikkhangon BD
 * [React JS Tutorial Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) - Sumit Saha (Learn with Sumit)
 
 
-### Restapi
-
-* [Restapi Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnoQONzuNtFlhEzegTYadoBY) - Learn Hunter
-
-
 #### Svelte
 
 * [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner
@@ -231,6 +226,11 @@ Shikkhangon BD
 #### Django
 
 * [Django Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V) - Learn Hunter
+
+
+### Restapi
+
+* [Restapi Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnoQONzuNtFlhEzegTYadoBY) - Learn Hunter
 
 
 ### Scratch

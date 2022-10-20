@@ -248,7 +248,6 @@
 * [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) - Ryans Tutorial
 * [Bento Shell Track](https://bento.io/topic/shell) - Jon Chan (Bento)
 * [How to CMake Good](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s) - vector-of-bool (YouTube)
-* [Shell Scripting Tutorial](https://www.shellscript.sh) - Steve Parker
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790) - The Bad Tutorials (YouTube)
 * [Shell Scripting Tutorial \| Shell Scripting Crash Course \| Linux Certification Training \| Edureka](https://www.youtube.com/watch?v=GtovwKDemnI) - edureka!
 * [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) -  ProgrammingKnowledge (YouTube)

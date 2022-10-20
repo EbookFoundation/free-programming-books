@@ -345,6 +345,9 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Hacking
 
 * [Gray Hat Hacking: The Ethical Hacker's Handbook](https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf) - Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams (PDF)
+* [Introduction to Ethical Hacking](principlelogic.com/wp-content/uploads/2018/06/hacking_for_dummies.pdf) - (PDF)
+
+
 ### Information Retrieval
 
 * [Information Retrieval: A Survey](http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf) (PDF)

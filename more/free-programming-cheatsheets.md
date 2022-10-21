@@ -112,7 +112,8 @@
 * [Big O Notation Cheat Sheet](https://algodaily.com/lessons/big-o-notation-cheat-sheet)
 * [Data Structures and Algorithms Cheat Sheet - Cheatography](https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/)
 * [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
-* [Data structures and algorithms study cheatsheets for competitive programming](https://docs.google.com/document/d/1JDnsMrSyLICa0rQ2C4RLLSf735dLtd0wd7_bHw1NGCI/edit?usp=sharing)
+* [Data structures and algorithms study cheatsheets for competitive programming](https://cp-algorithms.com/)
+* [Data structures and algorithms Handbook](https://cses.fi/book/book.pdf)
 
 
 ### Docker

@@ -1,6 +1,6 @@
 ### Índice
 
-* [Agnósticos](#agnósticos)
+* [Diagnósticos](#diagnósticos)
     * [Cloud Computing](#cloud-computing)
     * [IDE and editors](#ide-and-editors)
     * [Programação](#programação)
@@ -53,7 +53,7 @@
     * [Angular](#angular)
 
 
-### Agnósticos
+### Diagnósticos
 
 #### Cloud Computing
 

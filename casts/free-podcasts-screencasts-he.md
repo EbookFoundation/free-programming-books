@@ -1,4 +1,5 @@
 ### כללי
+
 * [ברווזגומי](https://barvazgumi.podbean.com) (פודקאסט)
 * [מדברים סייבר](https://podcastim.org.il/מדברים-סייבר) (פודקאסט)
 * [מפתחים חסרי תרבות](http://notarbut.co) (פודקאסט)

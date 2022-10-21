@@ -105,14 +105,17 @@ Shikkhangon BD
 
 * [CSS Complete Course in Bangla 2021](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO) - Anisul Islam
 * [CSS3 and CSS4 Weird Parts Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVD3oeT3ckKBmnc7krm-SZl2) - Stack Learner
+* [CSS Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5Onxvj4aifOC8P8U8inUqWzdSH) - Moshiur
 * [HTML Complete Course in Bangla 2021(Beginner to Advanced)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3) - Anisul Islam
 * [HTML Tutorial in Bangla](https://w3programmers.com/bangla/html-basics/) - w3programmers
+* [HTML Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5OnxuObyOVSxcM0TUcBLDF2w64) - Moshiur
 
 
 #### Bootstrap
 
 * [Bootstrap 4 Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBr2NqbL3q71nk5FX8zB0nK) - Stack Learner
 * [Bootstrap 5 and 4 Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG) - Anisul Islam
+* [Bootstrap Bangla Tutorial With Projects](https://www.youtube.com/playlist?list=PLm64fbD5OnxuWrqDWyObVkH_Y5R6Wg1wg) - Moshiur
 
 
 #### Tailwind

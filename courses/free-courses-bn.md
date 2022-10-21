@@ -25,6 +25,7 @@
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [PHP](#php)
+    * [Laravel](#laravel)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
     * [Django](#django)
@@ -207,6 +208,11 @@ Shikkhangon BD
 * [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
 
 
+#### Laravel
+
+* [Restapi Bangla tutorial \| Laravel & Lumen Api development](https://www.youtube.com/playlist?list=PLbC4KRSNcMnoQONzuNtFlhEzegTYadoBY) - Learn Hunter
+
+
 ### Programming paradigms
 
 * [Java and OOO. Learn Object Oriented with Real Example](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDS-5KCnZyPl0LKQ8m49CHM) - Stack Learner
@@ -226,11 +232,6 @@ Shikkhangon BD
 #### Django
 
 * [Django Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V) - Learn Hunter
-
-
-### Restapi
-
-* [Restapi Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnoQONzuNtFlhEzegTYadoBY) - Learn Hunter
 
 
 ### Scratch

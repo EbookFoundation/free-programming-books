@@ -47,6 +47,7 @@
 
 * [Python Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O) - Erol Mesutgün
 * [Sıfırdan İleri Seviye Profesyonel Python Yazılım Geliştiricisi Olma Kursu (2021)](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) - Mert Mekatronik
+* [Yeni Başlayanlar İçin Sıfırdan Python Dersleri](https://www.youtube.com/playlist?list=PL3kMAPso9YQ1Ls-5uTTIWWMkJoF_vyj5J) - Python'a Giriş
 
 
 ### React

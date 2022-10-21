@@ -407,11 +407,11 @@
 * [Complete Python Tutorial in Hindi (2020)](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) - Harshit Vashisth
 * [Core Python (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L) - Rajesh Kumar, Geeky Shows
 * [Free Python Course For School Students (Grade7-10) Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvumawW64knIBSJuHALx3zBE) - Coding Blocks Junior
+* [Python](https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF) - Computer Gyan Guruji
+* [Python For Beginners](https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF) - Technical Sagar
 * [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi) (Great Learning) *(account required)*
 * [Python Tutorial For Beginners \| Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - CodeWithHarry
 * [Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX) - edureka! Hindi
-* [Python](https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF) - Computer Gyan Guruji
-* [Python For Beginners](https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF) - Technical Sagar
 
 
 #### Django

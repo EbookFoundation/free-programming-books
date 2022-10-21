@@ -17,7 +17,7 @@ Add resource(s) | Remove resource(s) | Add info | Improve repo
 - [ ] Put lists in alphabetical order, correct spacing.
 - [ ] Add needed indications (PDF, access notes, under construction).
 - [ ] Used an informative name for this pull request.
-
+  
 ## Follow-up
 
 - Check the status of GitHub Actions and resolve any reported warnings!

@@ -52,11 +52,13 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 
+
 #### Cloud Computing
 
 * [Guia da Computação em Nuvem: Conceito, Prática & Capacitação](https://archive.org/details/guia-da-computacao-em-nuvem) - Beatriz Oliveira, Mariana Carvalho (PDF, EPUB)
 
-### Diagnósticos
+
+#### Diagnósticos
 
 #### IDE and editors
 
@@ -64,6 +66,7 @@
 * [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
 * [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
 * [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
+
 
 #### Programação
 
@@ -221,7 +224,6 @@
 #### AngularJS
 
 > :information_source: Veja também &#8230; [Angular](#angular)
-
 * [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/) - Davi Ferreira
 * [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/) - Lucas Caprio
 * [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/) - Diego Eis
@@ -394,5 +396,4 @@
 #### Angular
 
 > :information_source: Veja também &#8230; [AngularJS](#angularjs), [IDE and editors](#ide-and-editors)
-
 * [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm) - José Carlos Macoratti (HTML)

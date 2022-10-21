@@ -1311,6 +1311,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
 * [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [30 days of React: An introduction to React in 30 bite-size morsels](https://www.newline.co/fullstack-react/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf) 
 
 
 #### React Native

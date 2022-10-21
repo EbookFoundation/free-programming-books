@@ -1198,6 +1198,7 @@
 * [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014) - Prof. Nickolai Zeldovich (MIT OpenCourseWare)
 * [Ethical Hacking](https://www.hacker101.com/videos) - Hacker101
 * [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) - Wenke Lee, Mustaque Ahamad, Catherine Gamboa (Udacity)
+* [Modern Binary Exploitation](https://github.com/RPISEC/MBE) - RPISEC
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)

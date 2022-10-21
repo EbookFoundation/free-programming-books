@@ -15,7 +15,7 @@
 
 * [Python in Hindi \| Hindi](https://drive.google.com/file/d/1NX5DHDBmaEacw7bCilQBZ-Lp4A5me6i8/view?usp=sharing) - Kuldeep Chand (PDF)
 
-### <a id="java"></a>Java
+### Java
 
 * [Java in Hindi \| Hindi](https://www.pdfdrive.com/java-in-hindi-e18682381.html) - Kuldeep Chand (PDF)
 

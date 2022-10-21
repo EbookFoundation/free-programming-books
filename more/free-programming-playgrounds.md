@@ -296,8 +296,8 @@
 
 ### Scala
 
-* [Scastie](https://scastie.scala-lang.org)
 * [JDoodle](https://www.jdoodle.com/compile-scala-online)
+* [Scastie](https://scastie.scala-lang.org)
 
 
 ### Scratch
@@ -315,7 +315,7 @@
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
 * [SQLFiddle](http://sqlfiddle.com)
-* [SQLite Online](https://sqliteonline.com/)
+* [SQLite Online](https://sqliteonline.com)
 
 
 ### Svelte

@@ -29,7 +29,6 @@
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
     * [Django](#django)
-* [Restapi](#restapi)
 * [Scratch](#scratch)
 * [Shell scripting](#shell-scripting)
 * [TypeScript](#typescript)

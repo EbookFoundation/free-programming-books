@@ -175,7 +175,6 @@
 ### Linux
 
 * [리눅스 및 커널 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1266434) (금오공대 최태영)
-* [Linux Kernel Basic](https://jihooyim1.gitbooks.io/linuxbasic/content) - Jihoo Yim (gitbook)
 
 
 ### Machine Learning

@@ -205,7 +205,7 @@ Shikkhangon BD
 ### PHP
 
 * [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
-* [PHP8 Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqBfSoiU5TG7FF4FQmCpoSp) - Learn Hunter
+* [php bangla tutorial for beginners | php8 bangla tutorial ](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqBfSoiU5TG7FF4FQmCpoSp) - Learn Hunter
 
 
 ### Programming paradigms

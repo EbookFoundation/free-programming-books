@@ -1,5 +1,11 @@
 ### Index
+
 * [cs50](#cs50)
+
+
 ### Cs50
 
-* [C c++ data structure Tutorials Havard university](https://youtu.be/ywg7cW0Txs4) - by havard university Tutorials
+* [C c++ data structure Tutorials Harvard university]
+(https://youtu.be/ywg7cW0Txs4) - by harvard university Tutorials
+
+

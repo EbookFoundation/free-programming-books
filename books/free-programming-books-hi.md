@@ -11,7 +11,7 @@
 * [C++ in Hindi \| Hindi](https://www.bccfalna.com/IOC-AllEBooks/CPPinHindi.pdf) - Kuldeep Chand (PDF)
 * [C++ Introduction Book \| Hindi](https://ncsmindia.com/wp-content/uploads/2012/04/c++-hindi.pdf) - NCMS India (PDF)
 
-### <a id="python"></a>Python
+### Python
 
 * [Python in Hindi \| Hindi](https://drive.google.com/file/d/1NX5DHDBmaEacw7bCilQBZ-Lp4A5me6i8/view?usp=sharing) - Kuldeep Chand (PDF)
 

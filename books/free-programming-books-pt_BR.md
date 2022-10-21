@@ -1,6 +1,5 @@
 ### Índice
 
-
 * [Android](#android)
 * [Arduino](#arduino)
 * [Assembly](#assembly)
@@ -53,8 +52,6 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 
-
-
 #### Cloud Computing
 
 * [Guia da Computação em Nuvem: Conceito, Prática & Capacitação](https://archive.org/details/guia-da-computacao-em-nuvem) - Beatriz Oliveira, Mariana Carvalho (PDF, EPUB)
@@ -67,7 +64,6 @@
 * [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
 * [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
 * [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
-
 
 #### Programação
 

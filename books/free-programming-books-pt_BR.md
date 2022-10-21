@@ -53,12 +53,12 @@
     * [Angular](#angular)
 
 
+### Diagnósticos
+
 #### Cloud Computing
 
 * [Guia da Computação em Nuvem: Conceito, Prática & Capacitação](https://archive.org/details/guia-da-computacao-em-nuvem) - Beatriz Oliveira, Mariana Carvalho (PDF, EPUB)
 
-
-#### Diagnósticos
 
 #### IDE and editors
 

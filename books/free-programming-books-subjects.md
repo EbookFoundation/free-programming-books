@@ -357,7 +357,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 
 ### Machine Learning
-
+* [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) - Microsoft (Github)
 * [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf) - Osvaldo Simeone (PDF)
 * [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
 * [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf) - Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang (PDF)

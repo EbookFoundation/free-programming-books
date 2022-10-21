@@ -1113,6 +1113,7 @@
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
+* [Python Zip function explained](https://www.youtube.com/watch?v=XMefCVKl2oU) Agus Mathew(Youtube)
 
 
 #### Django

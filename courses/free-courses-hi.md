@@ -159,6 +159,7 @@
 ### Computer Graphics
 
 * [Computer Graphics](https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T) - 5 Minutes Engineering
+* [Computer Graphics and Multimedia (CGMM) Lectures in Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnaTVCcd954N14bVOOgYh-2V) - Easy Engineering Classes
 
 
 ### Computer Organization and Architecture

@@ -294,7 +294,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
 * [Learn Arduino](https://riptutorial.com/Download/arduino.pdf) - Compiled from StackOverflow documentation (PDF)
 * [Open softwear - Fashionable prototyping and wearable computing using the Arduino](https://softwear.cc/book/files/Open_Softwear-beta090712.pdf) - Tony Olsson, David Gaetano, Jonas Odhner, Samson Wiklund (PDF)
-* [Ardiuno Projects Book](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh
+* [Ardiuno Projects Book](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh (PDF)
 
 ### ASP.NET
 

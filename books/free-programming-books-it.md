@@ -275,6 +275,6 @@
 * [Introduzione alla gestione del progetto software con UML](http://areaprofessional.com/documenti/D03_IntroGestioneProgettoSW.pdf) - G. Destri (PDF)
 
 
-### Visual Basic
+### Visual Basic .NET (VB .Net)
 
-* [Corso Visual Basic](http://www.webalice.it/kindofapple/corsovb.pdf) (PDF)
+* [A Scuola con VB2010](https://vbscuola.it/VB2010/A_Scuola_con_VB2010.pdf) (PDF)

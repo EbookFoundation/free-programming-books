@@ -46,6 +46,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Dart](#dart)
 * [DB2](#db2)
 * [DBMS](#dbms)
+* [Data Structure](#ds)
 * [Delphi / Pascal](#delphi--pascal)
 * [DTrace](#dtrace)
 * [Eiffel](#eiffel)
@@ -652,7 +653,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Data Management for Analytics and Applications (2021)](https://bookdown.org/kokkodis/book/) - Marios Kokkodis
 * [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
+* [Database Management System](https://www.pdfdrive.com/download.pdf?id=46256085&h=2ec4a2ca6a9b25434655d55bcaebfd53&u=cache&ext=pdf) - Korth
 
+### DS
+
+* [Data Structures, Algorithms And Applications In C++] (https://o6ucs.files.wordpress.com/2012/10/data-structures-algorithms-and-applications-in-c-by-sartraj-sahani.pdf) - Sartaj sahni
+* [Data Structures and Algorithms in Python](https://www.pdfdrive.com/download.pdf?id=25119593&h=fee65e12c0358194d8f158e1ea5d8090&u=cache&ext=pdf) -by Michael T. Goodrich
+* [Data Structures and Algorithms in Java](https://www.pdfdrive.com/download.pdf?id=18731618&h=a777a7e73caf11fe0e1caf594f7a3205&u=cache&ext=pdf) -by Michael T. Goodrich
 
 ### Delphi / Pascal
 

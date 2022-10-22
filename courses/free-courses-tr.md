@@ -33,6 +33,7 @@
 ### JavaScript
 
 * [JavaScript Dersleri](https://javascript.sitesi.web.tr) - Murat Eliçalişkan
+* [JavaScript Dersleri](https://www.youtube.com/playlist?list=PLdYLIhwDacdFC-Yrz7hscxwmOpuhnMigs) - Mustafa Filiz
 * [JavaScript Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PqKkqSPwph57HNN4RWgR2) - Hakan Yalçınkaya \| Kodluyoruz
 
 

@@ -1,7 +1,8 @@
 ### Index
 
-* [C++](#cpp)
-* [Computer Networks](#cn)
+- [Index](#index)
+- [<a id="cpp"></a>C++](#c)
+- [Networking](#networking)
 
 
 ### <a id="cpp"></a>C++
@@ -11,6 +12,6 @@
 * [C++ Introduction Book \| Hindi](https://ncsmindia.com/wp-content/uploads/2012/04/c++-hindi.pdf) - NCMS India (PDF)
 
 
-### <a id="cn"></a>Computer Networks
+### Networking
 
 * [ डाटा कयनकेशन एंड कंयटर नेटवक ](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%203.pdf) -  ई.हरश दाधीच, ई.वकास माथर (PDF)

@@ -3,11 +3,10 @@
 * [JavaScript](#javascript)
     * [Node.js](#nodejs)
     * [React](#react)
-* [Flutter]
-* [SQL]
-* [C]
-* [C++]
-* [WordPress]
+* [Flutter](#flutter)
+* [SQL](#sql)
+* [C](#c)
+* [WordPress](#wordpress)
 
 ### JavaScript
 
@@ -31,9 +30,6 @@
 
 #### C
 * [C](https://www.youtube.com/watch?v=7WH8C48UNDU&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=3) - Technology Channel
-
-#### C++
-* [C++](https://www.youtube.com/watch?v=Yo2RBUEJNCw&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=4) - Technology Channel
 
 #### WordPress
 * [WordPress](https://www.youtube.com/playlist?list=PL2OJkQtHPRie2xyBApANdVp_LUz4v7xIG) - Technology Channel

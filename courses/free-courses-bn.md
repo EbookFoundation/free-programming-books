@@ -25,8 +25,10 @@
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [PHP](#php)
+    * [Laravel](#laravel)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
+    * [Django](#django)
 * [Scratch](#scratch)
 * [Shell scripting](#shell-scripting)
 * [TypeScript](#typescript)
@@ -212,6 +214,11 @@ Shikkhangon BD
 * [php bangla tutorial for beginners \| php8 bangla tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqBfSoiU5TG7FF4FQmCpoSp) - Learn Hunter
 
 
+#### Laravel
+
+* [Restapi Bangla tutorial \| Laravel & Lumen Api development](https://www.youtube.com/playlist?list=PLbC4KRSNcMnoQONzuNtFlhEzegTYadoBY) - Learn Hunter
+
+
 ### Programming paradigms
 
 * [Java and OOO. Learn Object Oriented with Real Example](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDS-5KCnZyPl0LKQ8m49CHM) - Stack Learner
@@ -226,6 +233,11 @@ Shikkhangon BD
 * [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
 * [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
+
+
+#### Django
+
+* [Django Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V) - Learn Hunter
 
 
 ### Scratch

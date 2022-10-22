@@ -503,9 +503,11 @@
 * [Digital Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) - Neso Academy
 * [Digital Electronics for GATE](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-) - Tutorials Point India Ltd.
 
+
 ### Digital Image Processing
 
-* [IMAGE PROCESSING USING MATLAB](https://youtube.com/playlist?list=PLEo-jHOqGNyUWoCSD3l3V-FjX9PnHvx5n) - Dr. Rashi Agarwal
+* [Image Processing Using Matlab](https://youtube.com/playlist?list=PLEo-jHOqGNyUWoCSD3l3V-FjX9PnHvx5n) - Rashi Agarwal
+
 
 ### Docker
 

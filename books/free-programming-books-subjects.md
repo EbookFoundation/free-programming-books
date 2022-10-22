@@ -60,6 +60,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com)
+* [Geeks for Geeks](https://www.geeksforgeeks.org/)
 * [Goalkicker](https://goalkicker.com) - Programming Notes for Professionals books
 * [IBM Redbooks](http://www.redbooks.ibm.com)
 * [InfoQ Minibooks](http://www.infoq.com/minibooks/)

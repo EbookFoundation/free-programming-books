@@ -167,6 +167,24 @@
 * [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
 
 
+### Competitive Programming
+
+* [Time and Complexity Analysis](https://www.youtube.com/watch?v=mV3wrLBbuuE&t=2535s) - Kunal Kushwaha
+* [Maths For Competitive Programming](https://www.youtube.com/playlist?list=PLN4aKSfpk8TQUiURV1k70At4Tj5oKb92i) - CodeBeyond
+* [Recursion](https://www.youtube.com/watch?v=IJDJ0kBx2LM&t=3342s) - freeCodeCamp.org
+* [Searching and Sorting Applications](https://www.youtube.com/watch?v=YJeoQBevNVo&list=PLDzeHZWIZsTp4pb_WBRahP1tnipLuX9qM) - CodeHelp - by Babbar
+* [Advanced Recursion and Backtracking](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0) - Pepcoding
+* [Dynamic Programming](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY) - take U forward
+* [Bit Manipulation](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe) - Pepcoding
+* [Greedy Algorithms](https://www.youtube.com/watch?v=bC7o8P_Ste4) - freeCodeCamp.org
+* [Range Queries](https://www.youtube.com/playlist?list=PL-Jc9J83PIiGkI_pL8l67OVvbpnwf-5yO) - Pepcoding
+* [Graphs](https://www.youtube.com/watch?v=tWVWeAqZ0WU) - freeCodeCamp.org
+* [Game Theory](https://www.youtube.com/playlist?list=PL-Jc9J83PIiENC1X16gjxjaIbSXBr8C6e) - Pepcoding
+* [String Algorithms](https://www.youtube.com/watch?v=mJDOVG_pHNk) - CodeChef
+* [Trie](https://www.youtube.com/playlist?list=PLEJXowNB4kPyi859E6qGUs7jlpQehJndl) - TECH DOSE
+* [FFT](https://www.youtube.com/watch?v=4yvQRQwa3fY) - CodeChef
+
+
 ### Android
 
 * [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) (Udacity)

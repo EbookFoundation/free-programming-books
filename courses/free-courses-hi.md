@@ -262,8 +262,9 @@
 
 
 ### iOS
-* [iOS Development Course For Beginners](https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo) - Fahad Hussain
+
 * [iOS Development (Crash course)](https://www.youtube.com/watch?v=n7qOGHWunUY) - Akash Padhiyar
+* [iOS Development Course For Beginners](https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo) - Fahad Hussain
 
 
 ### Java

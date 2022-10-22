@@ -16,11 +16,6 @@
 
 * [С/C++ Теорія та практика](https://shron1.chtyvo.org.ua/Voitenko_Volodymyr C_Cpp_Teoriia_ta_praktyka.pdf) - Володимир Войтенко
 
-* [Beginning C](https://pdfhost.io/v/IxeBnMf9A_Beginning_C) - Pulkitkhanna
-
-* [C++ the Complete Reference](https://pdfhost.io/v/zugp6W1Fe_C_Complete_Reference_PDF) - Herb Schildt
-
-
 ### ClojureScript
 
 * [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled) - Роман Лютіков (LambdaBooks)

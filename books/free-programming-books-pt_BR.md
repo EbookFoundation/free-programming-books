@@ -55,12 +55,12 @@
 
 ### Agnósticos
 
-#### Cloud Computing
+#### Computação em nuvem
 
 * [Guia da Computação em Nuvem: Conceito, Prática & Capacitação](https://archive.org/details/guia-da-computacao-em-nuvem) - Beatriz Oliveira, Mariana Carvalho (PDF, EPUB)
 
 
-#### IDE and editors
+#### IDE e editores de código
 
 * [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva, et al.
 * [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)

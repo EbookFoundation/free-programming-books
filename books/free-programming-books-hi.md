@@ -1,8 +1,7 @@
 ### Index
 
-- [Index](#index)
-- [<a id="cpp"></a>C++](#c)
-- [Networking](#networking)
+* [C++](#cpp)
+* [Networking](#networking)
 
 
 ### <a id="cpp"></a>C++

@@ -608,6 +608,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
 * [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
 * [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
+* [Introduction to Information Systems][Introduction to Information Systems.pdf] -  R. Kelly Rainer, Brad Prince, Ingrid Splettstoesser-Hogeterp, Cristobal Sanchez-Rodriguez, Sepideh Ebrahimi
 
 
 ### Networking

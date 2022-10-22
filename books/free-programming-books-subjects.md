@@ -99,6 +99,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Analysis and Design of Algorithms](http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html) - Sandeep Sen, IIT Delhi
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
+* [Artificial Intelligence - Agents and Environments](http://www.e-booksdirectory.com/details.php?ebook=4457) - William John Teahan
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks

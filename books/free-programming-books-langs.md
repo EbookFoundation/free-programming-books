@@ -56,6 +56,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Embedded Systems](#embedded-systems)
 * [Erlang](#erlang)
 * [F#](#f-sharp)
+* [FIORI](#Fiori)
 * [Firefox OS](#firefox-os)
 * [Flutter](#flutter)
 * [Force.com](#forcecom)
@@ -728,6 +729,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Functional Programming Textbook](https://www.overleaf.com/read/hcwwdfxvftfp) - Yusuf M Motara (PDF)
 * [Programming Language Concepts for Software Developers](https://archive.org/details/B-001-003-622)
 
+### Fiori
+* [SAP Press: ABAP RESTful Programming Model - ABAP Development for SAP S/4HANA](https://github.com/FioriS4HANARAP) - SAP Press
 
 ### Firefox OS
 

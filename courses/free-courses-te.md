@@ -2,6 +2,7 @@
 
 * [C](#c)
 * [C++](#cpp)
+* [Flutter](#flutter)
 * [Java](#java)
 * [Javascript](#javascript)
 * [Python](#python)
@@ -16,6 +17,13 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Language Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm9keJjsA95jKa4EUVLd7mQP) - Telugu Computer World (YouTube)
+
+
+### Flutter
+
+* [Dart & Flutter Tutorials in Telugu](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUXoDYMCpMwHNHz875lzTRcH) - Kotha Abhishek (Chintu Tutorials)
+* [Dart Tutorial for Flutter in Telugu](https://www.youtube.com/watch?v=TvSK-451TcA) - Sai Gopi (Sai Gopi)
+* [Flutter Andorid App Beginner Tutorials Telugu](https://www.youtube.com/playlist?list=PLbVPygGblyBwT55MkWTpFeBJdyymx1MIV) - Vamshee (codewithvamshee)
 
 
 ### Java

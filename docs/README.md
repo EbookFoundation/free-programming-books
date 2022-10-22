@@ -84,6 +84,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-pt_BR.md)
   - [How-to](HOWTO-pt_BR.md)
 - Portuguese (Portugal)
+  - [How-to](HOWTO-pt_PT.md)
 - Romanian (Romania) / limba română / român
 - Russian / Русский язык
   - [Кодекс поведения](CODE_OF_CONDUCT-ru.md)

@@ -277,4 +277,4 @@
 
 ### Visual Basic
 
-* [Corso Visual Basic](http://www.webalice.it/kindofapple/corsovb.pdf) (PDF)
+* [A Scuola con VB2010](https://vbscuola.it/VB2010/A_Scuola_con_VB2010.pdf) (PDF)

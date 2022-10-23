@@ -581,7 +581,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers
 * [Image Processing in C: Analyzing and Enhancing Digital Images](http://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
 * [Information Technology and the Networked Economy](https://web.archive.org/web/20200731035935/https://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) - Patrick McKeown (PDF) *(:card_file_box: archived)*
-* [Introduction to Information Systems](https://github.com/UCHIHA-MADRA/Introduction-to-Information-Systems) - R. Kelly Rainer, Brad Prince, Ingrid Splettstoesser-Hogeterp, Cristobal Sanchez-Rodriguez, Sepideh Ebrahimi
+* [Introduction to Information Systems](https://github.com/UCHIHA-MADRA/Introduction-to-Information-Systems) - R. Kelly Rainer, Brad Prince, Ingrid Splettstoesser-Hogeterp, Cristobal Sanchez-Rodriguez, Sepideh Ebrahimi (PDF)
 * [Introduction to Scientific Programming in C++ and Fortran](https://web.corral.tacc.utexas.edu/CompEdu/pdf/isp/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
 * [IRPF90 Fortran code generator](https://www.gitbook.com/book/scemama/irpf90/details) - Anthony Scemama
 * [Learn Programming](https://progbook.org) - Antti Salonen

@@ -12,6 +12,8 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [MATLAB](#MATLAB)
+* [Simulink](#Simulink)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
     * [AWS](#aws)
@@ -306,6 +308,22 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
+
+
+### MATLAB
+
+* [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Renee Bach
+* [MATLAB Fundamentals](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe) - Erin Byrne
+* [MATLAB for Data Processing and Visualization](https://matlabacademy.mathworks.com/details/matlab-for-data-processing-and-visualization/mlvi) - Renee Bach
+* [MATLAB Programming Techniques](https://matlabacademy.mathworks.com/details/matlab-programming-techniques/mlpr) - Matt Tearle
+
+
+### Simulink
+
+* [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) - Alisha Schor
+* [Simulink Fundamentals](https://matlabacademy.mathworks.com/details/simulink-fundamentals/slbe) - Alisha Schor, Zhi Wang
+* [Circuit Simulation Onramp](https://matlabacademy.mathworks.com/details/circuit-simulation-onramp/circuits) - Alisha Schor
+* [Simscape Onramp](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape) - Alisha Schor
 
 
 ### Clojure

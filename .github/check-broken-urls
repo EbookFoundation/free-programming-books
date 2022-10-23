@@ -1,0 +1,86 @@
+name: Check all URLs
+
+# on: [workflow_dispatch]
+on: [push]
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch action
+        id: pl
+        uses: Rishabh510/Path-lister-action@master
+        with:
+          path: "books/"
+          type: ".md"
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - run: gem install awesome_bot
+      - run: | 
+          echo "Found ${{ steps.pl.outputs.path_count }} file(s) with this extension:"
+          for i in ${{ steps.pl.outputs.paths }}; do
+          echo "processing $i";
+          awesome_bot $i --allow-redirect --allow-dupe --allow-ssl || true;
+          done
+  job2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch action
+        id: pl
+        uses: Rishabh510/Path-lister-action@master
+        with:
+          path: "casts/"
+          type: ".md"
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - run: gem install awesome_bot
+      - run: | 
+          echo "Found ${{ steps.pl.outputs.path_count }} file(s) with this extension:"
+          for i in ${{ steps.pl.outputs.paths }}; do
+          echo "processing $i";
+          awesome_bot $i --allow-redirect --allow-dupe --allow-ssl || true;
+          done
+  job3:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch action
+        id: pl
+        uses: Rishabh510/Path-lister-action@master
+        with:
+          path: "courses/"
+          type: ".md"
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - run: gem install awesome_bot
+      - run: | 
+          echo "Found ${{ steps.pl.outputs.path_count }} file(s) with this extension:"
+          for i in ${{ steps.pl.outputs.paths }}; do
+          echo "processing $i";
+          awesome_bot $i --allow-redirect --allow-dupe --allow-ssl || true;
+          done
+  job4:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch action
+        id: pl
+        uses: Rishabh510/Path-lister-action@master
+        with:
+          path: "more/"
+          type: ".md"
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - run: gem install awesome_bot
+      - run: | 
+          echo "Found ${{ steps.pl.outputs.path_count }} file(s) with this extension:"
+          for i in ${{ steps.pl.outputs.paths }}; do
+          echo "processing $i";
+          awesome_bot $i --allow-redirect --allow-dupe --allow-ssl || true;
+          done

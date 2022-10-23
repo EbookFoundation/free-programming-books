@@ -110,6 +110,7 @@
 * [freeCodeCamp](https://www.freecodecamp.org)
 * [FutureLearn](https://www.futurelearn.com)
 * [IITBombayX (IITBX)](https://www.iitbombayx.in)
+* [Inria](https://www.fun-mooc.fr/en/organizations/inria/)
 * [Khan Academy](https://www.khanacademy.org)
 * [MIT OCW](http://ocw.mit.edu)
 * [MOOC.fi](https://www.mooc.fi/en/)
@@ -940,6 +941,7 @@
 * [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
 * [Machine Learning](https://youtube.com/playlist?list=PL7T06JEc5PF5Vuz1U7lEEaFPOExDbKVEh) - Nerd's Lesson
 * [Machine Learning — Andrew Ng, Stanford University](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Andrew Ng
+* [Machine learning in Python with scikit-learn](https://inria.github.io/scikit-learn-mooc/) - Inria
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig (Coursera)
 * [Machine Learning Tutorial in Python](https://youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn) - edureka!

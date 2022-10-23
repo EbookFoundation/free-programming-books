@@ -26,6 +26,7 @@
 * [Language Agnostic](#language-agnostic)
 * [Lisp](#lisp)
 * [Machine Learning](#machine-learning)
+* [Persuasive Technology](#persuasive-technology)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
@@ -340,6 +341,12 @@
 * [The AI Podcast](https://blogs.nvidia.com/ai-podcast/) - NVIDIA, Noah Kravitz (podcast)
 * [Tic-Tac-Toe the Hard Way](https://pair.withgoogle.com/thehardway/) - Google's People + AI Research team (podcast)
 * [TWIML AI Podcast](https://twimlai.com/shows/) - Sam Charrington (podcast)
+
+
+### Persuasive Technology
+
+* [Your Undivided Attention](https://www.humanetech.com/podcast) - Tristan Harris and Aza Raskin (podcast)
+* [Persuasive Technology and Behavioural Design](https://anchor.fm/digital-mindfulness/episodes/DM-20-BJ-Fogg---Persuasive-Technology--Behavioural-Design-eu6onh) - BJ Fogg (podcast)
 
 
 ### PHP

@@ -1,16 +1,14 @@
 ### Index
 * [C](#c)
 * [C++](#cpp)
-* [Hindawi](#hindawi)
 * [Java](#java)
 * [Linux](#linux)
 * [Php](#php)
 * [Python](#python)
-* [Rust](#rust)
 
 ### <a id="c"></a>C
 
-* [C/C++ Tutorial/Notes \| Hindi](https://programming-tutorial-hindi.blogspot.com/p/index.html) - Hridayesh Kumar Gupta
+* [C Tutorial/Notes \| Hindi](https://programming-tutorial-hindi.blogspot.com/p/index.html) - Hridayesh Kumar Gupta
 * [C language Notes by sbistudy.com\| Hindi](https://www.sbistudy.com/c-language-notes-in-hindi/) - Shivom Classes
 * [C Tutorial by Masterprogramming.in \| Hindi](https://masterprogramming.in/learn-c-language-tutorial-in-hindi/) - Jeetu Sahu
 
@@ -19,11 +17,6 @@
 * [C++ Brief Notes \| Hindi](https://ehindistudy.com/2020/12/01/cpp-notes-in-hindi/) - Yugal Joshi
 * [C++ in Hindi \| Hindi](https://www.bccfalna.com/IOC-AllEBooks/CPPinHindi.pdf) - Kuldeep Chand [PDF]
 * [C++ Introduction Book \| Hindi](https://ncsmindia.com/wp-content/uploads/2012/04/c++-hindi.pdf) - NCMS India [PDF]
-
-### <a id="hindawi"></a>Hindawi
-* [Hindawi Indic Programming System](https://sourceforge.net/projects/hindawi/)
-* [Github Profile](https://github.com/hindawiai)
-* [Hindawi Website](https://hindawi.in/)
 
 ### <a id="java"></a>Java
 

@@ -1,11 +1,12 @@
 ### Index
 
 * [0 - Language Agnostic](#0---language-agnostic)
-  * [Облачные Вычисления](#Облачные-вычисления)
-  * [Парадигмы Программирования](#Парадигмы-программирования)
-  * [Работа c cетью](#Работа-с-сетью)
-  * [Управление конфигурациями](#Управление-конфигурациями)
-  * [Экосистема открытого исходного кода](#open-source-ecosystem)
+    * [Облачные Вычисления](#Облачные-вычисления)
+    * [Парадигмы Программирования](#Парадигмы-программирования)
+    * [Работа c cетью](#Работа-с-сетью)
+    * [Управление конфигурациями](#Управление-конфигурациями)
+    * [Экосистема открытого исходного кода](#open-source-ecosystem)
+    * [IDE and editors](#ide-and-editors)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -19,24 +20,24 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML / CSS](#html--css)
-  * [Bootstrap](#bootstrap)
+* [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
 * [Java](#java)
-  * [Android](#android)
-  * [EasyMock](#easymock)
-  * [Hibernate](#hibernate)
-  * [JDBC](#jdbc)
-  * [JUnit](#junit)
-  * [Maven](#maven)
-  * [Spring](#spring)
-  * [Swing UI](#swing-ui)
+    * [Android](#android)
+    * [EasyMock](#easymock)
+    * [Hibernate](#hibernate)
+    * [JDBC](#jdbc)
+    * [JUnit](#junit)
+    * [Maven](#maven)
+    * [Spring](#spring)
+    * [Swing UI](#swing-ui)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
-  * [jQuery](#jquery)
-  * [Node.js](#nodejs)
-  * [nuxt.js](#nuxtjs)
-  * [React](#react)
-  * [vue.js](#vuejs)
+    * [AngularJS](#angularjs)
+    * [jQuery](#jquery)
+    * [Node.js](#nodejs)
+    * [nuxt.js](#nuxtjs)
+    * [React](#react)
+    * [vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
@@ -46,39 +47,36 @@
 * [Objective-C](#objective-c)
 * [Perl](#perl)
 * [PHP](#php)
-  * [CakePHP](#cakephp)
-  * [CodeIgniter](#codeigniter)
-  * [Laravel](#laravel)
-  * [Symfony](#symfony)
+    * [CakePHP](#cakephp)
+    * [CodeIgniter](#codeigniter)
+    * [Laravel](#laravel)
+    * [Symfony](#symfony)
 * [Python](#python)
-  * [Django](#django)
-  * [Jupyter Notebook](#jupyter-notebook)
-  * [NumPy](#numpy)
-  * [Pycharm](#pycharm)
+    * [Django](#django)
+    * [Jupyter Notebook](#jupyter-notebook)
+    * [NumPy](#numpy)
+    * [Pycharm](#pycharm)
 * [R](#r)
 * [Ruby](#ruby)
-  * [RSpec](#rspec)
-  * [Ruby on Rails](#ruby-on-rails)
+    * [RSpec](#rspec)
+    * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Scala](#scala)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [Smalltalk](#smalltalk)
 * [SQL](#sql)
-  * [FirebirdSQL](#firebirdsql)
-  * [PostgreSQL](#postgresql)
+    * [FirebirdSQL](#firebirdsql)
+    * [PostgreSQL](#postgresql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [Unix](#unix)
-* [Vim](#vim)
 
 
 ### 0 - Language Agnostic
 
-* [3D-моделирование в Blender](https://younglinux.info/blender.php) - C. Шапошникова
 * [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
-* [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF)
@@ -100,12 +98,12 @@
 #### Парадигмы программирования
 
 * [Введение в функциональное программирование](http://funprog-ru.github.io) - John Harrison
-* [Практика функционального программирования](http://fprog.ru) - журнал
+* [Практика функционального программирования](https://www.fprog.ru) - журнал
 
 
 #### Работа с сетью
 
-* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси
+* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси (:construction: *in process*)
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 * [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)
 
@@ -120,11 +118,16 @@
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
 
 
+#### IDE and editors
+
+* [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook) - Steve Oualline
+* [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) - Swaroop (PDF)
+
+
 ### Assembly
 
 * [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C) - Викиучебник
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
-* [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) - Андрей Столяров (PDF)
 
 
@@ -191,10 +194,10 @@
 
 ### Git
 
-* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) - Ben Lynn
-* [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
-* [Руководство по Git](http://proselyte.net/tutorials/git) - Евгений Сулейманов
-* [Pro Git](http://git-scm.com/book/ru/v2)
+* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) - Ben Lynn, `trl.:` Tikhon Tarnavsky, `trl.:` Mikhail Dymskov, et al. (HTML)
+* [Простое руководство по работе с Git](https://rogerdudler.github.io/git-guide/index.ru.html) - Roger Dudler, `trl.:` Dmitry Wolf (HTML)
+* [Руководство по Git](https://proselyte.net/tutorials/git) - Евгений Сулейманов (HTML)
+* [Pro Git](http://git-scm.com/book/ru/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB, Kindle)
 
 
 ### Go
@@ -202,9 +205,9 @@
 * [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
 * [Руководство по языку Go](https://metanit.com/go/tutorial) - Евгений Попов
 * [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
-* [Go в примерах](https://gobyexample.ru)
+* [Go в примерах](https://web.archive.org/web/20210727024101/https://gobyexample.ru) *(:card_file_box: archived)*
 * [Go для PHP-разработчиков](https://pahanini.gitbooks.io/golang-for-php-developers/content/) - Pavel Tetyaev (gitbook)
-* [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
+* [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, `trl.:` Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
 
 
 ### Haskell
@@ -217,7 +220,7 @@
 * [Haskell: введение в функциональное программирование](https://wiki.nsunc.com/_export/html/haskell) - В.Н. Власов
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Руководство по HTML5 и CSS3](https://metanit.com/web/html5) - Евгений Попов
 * [Справочник по HTML](http://htmlbook.ru/html) - Влад Мержевич
@@ -340,8 +343,7 @@
 
 #### React
 
-* [Перевод документации](https://learn-reactjs.ru/home)
-* [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian) - Алексей Пыльцын (PDF, ePub, MOBI) *(Требуется аккаунт на Leanpub или действительный адрес электронной почты)*
+* [Перевод документации](https://ru.reactjs.org/docs/getting-started.html)
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
 * [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/)
@@ -350,7 +352,7 @@
 
 #### Vue.js
 
-* [Перевод документации](https://ru.vuejs.org)
+* [Перевод документации](https://v3.ru.vuejs.org)
 * [Руководство по Vue.js](https://metanit.com/web/vuejs) - Евгений Попов
 * [VueJS Учебник](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-vuejs/vuejs-uchebnik) - CoderLessons.com
 
@@ -370,9 +372,8 @@
 
 ### Lisp
 
-* [Common Lisp Cookbook (перевод)](http://lisper.ru/wiki/Cookbook)
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
-* [Practical Common Lisp (перевод)](http://lisper.ru/pcl/) (PDF)
+* [Practical Common Lisp (перевод)](https://web.archive.org/web/20220130051228/http://lisper.ru/pcl/) (HTML) *(:card_file_box: archived)*
 
 
 ### MetaPost
@@ -450,7 +451,7 @@
 
 ### Python
 
-* [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
+* [Вглубь языка Python](https://web.archive.org/web/20170630204729/ru.diveintopython.net/toc.html) *(:card_file_box: archived)*
 * [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
 * [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - MasterGroosha
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
@@ -509,14 +510,14 @@
 #### Ruby on Rails
 
 * [Ruby on Rails по-русски](http://rusrails.ru)
-* [Ruby on Rails Tutorial. Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning) Майкл Хартл
+* [Ruby on Rails Tutorial. Изучение Rails на Примерах](https://web.archive.org/web/20181124010958/railstutorial.ru/chapters/4_0/beginning) - Майкл Хартл *(:card_file_box: archived)*
 
 
 ### Rust
 
 * [Растономикон](https://github.com/ruRust/rustonomicon)
-* [Язык программирования Rust](http://rurust.github.io/rust_book_ru)
-* [Rust на примерах](https://rurust.github.io/rust-by-example-ru)
+* [Язык программирования Rust](https://doc.rust-lang.ru/book/)
+* [Rust на примерах](https://doc.rust-lang.ru/stable/rust-by-example/index.html)
 * [Rust Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchitsia-programmirovaniiu-na-rust/rust-tutorial) - CoderLessons.com
 
 
@@ -572,13 +573,12 @@
 ### Swift
 
 * [Документация и туториалы](https://swiftbook.ru)
-* [Documentation](https://swift.org/documentation)
 * [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial) - CoderLessons.com
 
 
 ### TypeScript
 
-* [Перевод официальной документации Typescript](http://typescript-lang.ru/docs/) - George Kiselev
+* [Карманная книга по TypeScript](https://typescript-handbook.ru) - Igor Agapov
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
 
 
@@ -593,21 +593,14 @@
 
 ### Unix
 
-* [Beyond Linux From Scratch (version * [Архитектура операционной системы Unix](http://lib.ru/BACH) - Maurice J. Bach
+* [Архитектура операционной системы Unix](http://lib.ru/BACH) - Maurice J. Bach, `trl.:` Крюкова А. В.
 * [Введение в системное администрирование UNIX](http://lib.ru/unixhelp) - Мошков Максим Евгеньевич
-* [Введение в Linux. Руководство по работе](https://younglinux.info/linuxintro) - Machtelt Garrels
 * [Внутреннее устройство Ядра Linux 2.4](http://www.opennet.ru/docs/RUS/lki) - Tigran Aivazian
 * [Перевод Linux kernel and C library.](http://man-pages-ru.sourceforge.net)
 * [Программирование в Linux с нуля](http://www.opennet.ru/docs/RUS/zlp) - Nikolay N. Ivanov
 * [Руководство программиста для Linux](http://www.opennet.ru/docs/RUS/Lpg) - Sven Goldt, Matt Welsh
 * [Энциклопедия программиста Linux](http://www.opennet.ru/docs/RUS/lpg) - Алексей Паутов
 * [Энциклопедия разработчика модулей ядра Linux](http://www.opennet.ru/docs/RUS/lkmpg) - Ori Pomerantz
-2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
+* [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html) - The BLFS Development Team, `trl.:` Н.Ромоданов, `trl.:` Сергея Каминского, `trl.:` Александра Андреева
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
 * [The Linux Kernel Module Programming Guide](http://www.opennet.ru/docs/RUS/lkmpg26) - Peter Jay Salzman, Michael Burian, Ori Pomerantz
-
-
-### Vim
-
-* [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook) - Steve Oualline
-* [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) (PDF)

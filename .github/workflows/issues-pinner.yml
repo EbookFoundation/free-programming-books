@@ -1,0 +1,64 @@
+#
+# This workflow adds a label to the issue involved on event when is pinned
+# and removes it when unpinned.
+#
+# It also is enhanced with `stale.yml` workflow: pinned issues never stales
+# because that label is declared as part of it `exempt-issue-labels`
+# input parameter.
+#
+name: Issues pinner management
+
+on:
+  issues:
+    types:
+      - "pinned"
+      - "unpinned"
+
+permissions:
+  # no checkouts/branching needed
+  contents: none
+  # needed by "action-add-labels / action-remove-labels" to CRUD labels
+  issues: write
+
+# This allows a subsequently queued workflow run to interrupt/wait for previous runs
+concurrency:
+  group: '${{ github.workflow }} @ ${{ github.event.issue.number || github.run_id }}'
+  cancel-in-progress: false  # true: interrupt, false = wait for
+
+jobs:
+
+  labeler:
+    name: Pushpin labeler
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Add pushpin label on pinning an issue
+        id: if-pinned
+        if: github.event.action == 'pinned'
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          repo:   ${{ github.repository }}
+          number: ${{ github.event.issue.number }}
+          labels: |
+            :pushpin: pinned
+
+      - name: Remove pushpin label on unpinning an issue
+        id: if-unpinned
+        if: github.event.action == 'unpinned'
+        uses: actions-ecosystem/action-remove-labels@v1
+        with:
+          repo:   ${{ github.repository }}
+          number: ${{ github.event.issue.number }}
+          labels: |
+            :pushpin: pinned
+
+      - name: GitHub reporter
+        # run even previous steps fails
+        if: always()
+        run: |
+          echo "$INPUT_SUMMARY"  >> $GITHUB_STEP_SUMMARY;
+        env:
+          INPUT_SUMMARY: ${{ format('Issue [\#{2}]({0}/{1}/issues/{2}) should be `{3}`.',
+                                    github.server_url, github.repository,
+                                    github.event.issue.number,
+                                    github.event.action) }}

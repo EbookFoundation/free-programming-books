@@ -21,11 +21,12 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 2. No es necesario conocer Git: si encontró algo de interés que *no esté ya en este repositorio*, tenga el gusto de abrir una [Issue][issues] con su propuesta de enlaces.
     - Si ya maneja Git, haga un Fork del repositorio y envíe su contribución mediante Pull Request (PR).
 
-3. Dispone de 5 categorías. Seleccione aquel listado que crea conveniente según:
+3. Dispone de 6 categorías. Seleccione aquel listado que crea conveniente según:
 
     - *Libros* : PDF, HTML, ePub, un recurso alojado en gitbook.io, un repositorio Git, etc.
     - *Cursos* : Un curso es aquel material de aprendizaje que no es un libro. [Esto es un curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriales interactivos* : Un sitio web se considera interactivo si permite al usuario escribir código o comandos y evaluar su resultado ("evaluar" no significa "obtener una calificación"). Por ejemplo: [Pruebe Haskell](http://tryhaskell.org), [Pruebe GitHub](http://try.github.io).
+    - *Playgrounds* : se tratan de sitios en línea interactivos, juegos o software de escritorio cuyo fin es el de aprender programación. Permiten escribir, compiar (o ejecutar), y compartir partes de código fuente. A menudo, ofrecen la posibilidad de hacer bifurcaciones y ensuciarse las manos jugando con el código generado hasta dicho instante.
     - *Podcasts y Screencasts* : Son aquellas retransmisiones grabadas ya sea en audio y/o en vídeo, respectivamente.
     - *Conjuntos de problemas & Programación competitiva* : Se trata de un sitio web o software que le permita evaluar sus habilidades de programación resolviendo problemas simples o complejos, con o sin revisión de código, con o sin comparar los resultados con otros usuarios.
 
@@ -189,7 +190,15 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 ##### Atribuciones
 
 - Queremos dar crédito a los creadores de recursos gratuitos cuando sea apropiado, ¡incluso traductores!
-- En el caso de obras traducidas, se debe acreditar también al autor original.
+- En el caso de obras traducidas, se debe acreditar también al autor original. Recomendamos usar [MARC relators](https://loc.gov/marc/relators/relaterm.html) para dar presencia al resto de creadores diferentes al autor original, tal y como se muestra en este ejemplo:
+
+    ```markdown
+    * [Un libro traducido](http://example.com/book-es.html) - John Doe, `trl.:` Mike Traduce
+    ```
+
+    donde, la anotación `trl.:` incluye el código MARC relator para "traductor".
+- Utilice comas `,` para separar cada elemento de la lista de autores.
+- Cuando sean muchas, puedes valerte de "`et al.`" para acortar dicha lista.
 - No permitimos enlaces directos al creador.
 - En el caso de recopilaciones u obras remezcladas, el "creador" puede necesitar una descripción. Por ejemplo, los libros de "GoalKicker" o "RIP Tutorial" se acreditan como "`Creado a partir de la documentación de StackOverflow`" (en inglés: "`Compiled from StackOverflow documentation`").
 

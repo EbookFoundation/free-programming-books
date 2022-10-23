@@ -3,6 +3,7 @@
 * [Android](#android)
 * [Apache Kafka](#apache-kafka)
 * [AR / VR](#ar--vr)
+* [Bootstrap](#bootstrap)
 * [C / C++](#c--c)
 * [C#](#csharp)
 * [Construct](#construct)
@@ -14,13 +15,13 @@
 * [Git](#git)
 * [Go](#go)
 * [Gradle](#gradle)
-* [HTML / CSS](#html--css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
-  * [Spring](#spring)
+    * [Spring](#spring)
 * [JavaScript](#javascript)
-  * [Node](#node)
-  * [React](#react)
-  * [Vue](#vue)
+    * [Node](#node)
+    * [React](#react)
+    * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -29,21 +30,21 @@
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [PHP](#php)
-  * [Codeigniter](#codeigniter)
-  * [Laravel](#laravel)
+    * [Codeigniter](#codeigniter)
+    * [Laravel](#laravel)
 * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
-  * [PyTorch](#pytorch)
+    * [Django](#django)
+    * [Flask](#flask)
+    * [PyTorch](#pytorch)
 * [Redis](#redis)
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
+* [Terraform](#terraform)
 * [Typescript](#typescript)
 
 
 ### Android
 
-* [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) - Dicoding, membutuhkan registrasi
 * [Belajar Android Studio](https://www.malasngoding.com/category/android-studio/) - Muzanni (Malas Ngoding)
 * [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) - Dicoding, membutuhkan registrasi
 * [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) - Dicoding, membutuhkan registrasi
@@ -64,10 +65,17 @@
 * [Belajar Membuat Mixed Reality](https://www.dicoding.com/academies/155) - Dicoding, membutuhkan registrasi
 
 
+### Bootstrap
+
+* [Belajar Framework Bootstrap 5](https://www.youtube.com/playlist?list=PL53uJBBtLf5ChsCZp26yEcDQu5ujfhsM8) - Ngoding Pintar
+* [Tutorial Bootstrap 4 Lengkap dalam Bahasa Indonesia](https://www.youtube.com/playlist?list=PLce3Eyp7oY9-o3JavSawkXcazJSYx7KAf) - Framework Indonesia
+* [Tutorial Bootstrap 5 untuk Pemula Bahasa Indonesia](https://www.youtube.com/playlist?list=PLnrs9DcLyeJTxqZ4lWgVHXBwFgZEkwp9r) - Cara Fajar
+
+
 ### C / C++
 
 * [Bahasa C dengan Dev-C++](https://www.youtube.com/playlist?list=PLZNiz_sFO6tdZ_DcLhtbxLboLlpuqpzLC) - H.I Edukasi
-* [Belajar Bahasa Pemrograman C++ Lengkap dari Awal untuk Pemula ](https://kodedasar.com/belajar-cpp/) - DAMASDEV
+* [Belajar Bahasa Pemrograman C++ Lengkap dari Awal untuk Pemula](https://kodedasar.com/belajar-cpp/) - DAMASDEV
 * [Belajar C++](https://www.youtube.com/playlist?list=PLF82-I80PwDNKmeyYBe4CkEj7excOdy7f) - Guntur Budi
 * [Belajar C++ - Object Oriented Programming Bahasa Indonesia (OOP)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7-RC_-hkL9gu0_ofABw862) - Kelas Terbuka
 * [Belajar C++ Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI) - Kelas Terbuka
@@ -91,6 +99,7 @@
 * [Dart Programming Untuk Persiapan Belajar Flutter](https://buildwithangga.com/kelas/dart-programming-untuk-persiapan-belajar-flutter) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
 * [Pemrograman Berorientasi Objek - Dart](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Erico Darmawan Handoyo
 * [TUTORIAL DART DASAR (BAHASA INDONESIA)](https://www.youtube.com/watch?v=-mzXdI27tyk) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Tutorial Dart OOP - Bahasa Indonesia](https://www.youtube.com/watch?v=k0ycD2aqPzU) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
 ### Desain dan Arsitektur
@@ -102,6 +111,9 @@
 
 ### Docker
 
+* [Belajar Docker untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qkxCTe3Gd0wA-bQZChXhsNI) - Giri Kuncoro (YouTube)
+* [Mengenal Container dan Docker Sampai Jago Dalam 2 Jam](https://www.youtube.com/watch?v=26O6Ke03j3Y) - Imre Nagi
+* [Pengembangan Microservice Dengan Docker Compose](https://www.youtube.com/watch?v=ALGVV5cGUtc) - Imre Nagi
 * [Tutorial Docker untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
@@ -130,6 +142,7 @@
 * [Belajar GIT (Source Code Management)](https://www.youtube.com/playlist?list=PL8bBYpHH3RI6BlCzFTMQvt7sGSycUj7S-) - Eka Putra, UpKoding (YouTube)
 * [GIT & GITHUB](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) - Sandhika Galih, Web Programming UNPAS (YouTube)
 * [Git Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_lYGV8hxqjtKmFA_xeLupq) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Jago Git Dalam 2 Jam](https://www.youtube.com/watch?v=KGSfUgaiVNI) - Imre Nagi
 * [Source Code Management untuk Pemula](https://www.dicoding.com/academies/116) - Dicoding, membutuhkan registrasi
 * [Tutorial GIT Bahasa Indonesia Lengkap](https://www.youtube.com/playlist?list=PL1aMeb5UP_PHXTV_Xpt-19x_rVPXrymOM) - IDStack (YouTube)
 
@@ -141,6 +154,7 @@
 * [Golang Fundamental](https://buildwithangga.com/kelas/golang-fundamental?thumbnail=nk4neM2UyG.54&main_leads=browse) - BuildWithAngga
 * [Golang Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH-0i9dzMzLw6FKVrFWv3QvQ) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Mahir Golang Dari Dasar](https://youtube.com/playlist?list=PL1aMeb5UP_PHPHEBNrZ3L1V4qpyuC6Aa8) - IDStack
+* [Pemograman Go](https://www.youtube.com/playlist?list=PLlENf46K9qTlOjTZ0cJWcSCb-7gCQXVH5) - Koding Aja Dulu
 * [Tutorial Golang Fundamental Bahasa Indonesia](https://www.youtube.com/watch?v=xzNT4JywW0A) - Agung Setiawan
 * [Tutorial Golang Web API Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=GjI0GSvmcSU) - Agung Setiawan
 * [Tutorial Golang Website Development Bahasa Indonesia](https://www.youtube.com/watch?v=K76y2_ZQYwY) - Agung Setiawan
@@ -151,11 +165,13 @@
 * [Belajar Gradle](https://www.youtube.com/playlist?list=PL-CtdCApEFH8yGJzfU_gners0ybO4MlrV) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [Belajar CSS](https://alwaysngoding.com/belajar-css/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
 * [Belajar FLEXBOX](https://www.youtube.com/playlist?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k) - Web Programming UNPAS
 * [Belajar HTML](https://alwaysngoding.com/belajar-html/teori) -  Muhammad Saleh Solahudin, Always Ngoding (account *required*)
+* [Belajar HTML 5](https://www.youtube.com/playlist?list=PLFIM0718LjIX-K5eeHRImnZhPUMhsw9A7) - Sandhika Galih, Web Programming UNPAS
+* [Belajar TAILWINDCSS](https://youtube.com/playlist?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h) - Web Programming UNPAS
 * [CSS Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p) - Web Programming UNPAS
 * [CSS Grid](https://www.youtube.com/playlist?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw) - Web Programming UNPAS
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
@@ -192,6 +208,7 @@
 ### JavaScript
 
 * [Belajar es6 - javacsript gaya baru](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR) - Sekolah Koding
+* [Belajar Full-stack JavaScript Dengan Next.js Dalam 6 Jam](https://www.youtube.com/watch?v=kproo1ezjH0&t=2s) - Nauval, Array Id (Youtube)
 * [Belajar JavaScript](https://alwaysngoding.com/belajar-javascript/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
@@ -199,6 +216,7 @@
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Dasar](https://www.malasngoding.com/category/javascript/) - Diki Alfarabi Hadi (Malas Ngoding)
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
+* [JavaScript Module](https://devsaurus.com/javascript-module) - Devsaurus
 * [JavaScript Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
 * [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo (YouTube)
@@ -217,6 +235,7 @@
 
 #### React
 
+* [Belajar React JS Dari Awal Buat Yang Nggak Jago JavaScript](https://www.youtube.com/watch?v=JS5w4rUbjQE) - array id
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
 * [Mari Kita Belajar Basic React JS](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwXT8zMPbezhDnTM3cTA5cZ) - Irsyad A. Panjaitan, Parsinta (YouTube)
 * [React JS Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY) - Wahidev Academy
@@ -229,7 +248,7 @@
 * [Tutorial React Native Indonesia](https://youtube.com/playlist?list=PLU4DS8KR-LJ3SP3PpRb870UoT_0_rjLpV) - Prawito Hudoro (YouTube)
 
 
-#### Vue
+#### Vue.js
 
 * [Tutorial Vue JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ) - Sekolah Koding
 * [Tutorial Vuejs Bahasa Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-Z6Gt8uO1XMp4oyMlE3gml) - Baledemy
@@ -260,6 +279,7 @@
 
 ### Linux
 
+* [Belajar linux fundamentals](https://youtube.com/playlist?list=PLbLqbqNn7VYpnd7FggSeq18AgE4gdsy2F) - ID-Networkers
 * [Linux Pemula](https://www.youtube.com/playlist?list=PLACzo3mGgHK_D2wkGu4AvUAQiqLC30PTz) - LINUXcare
 * [Tutorial Terminal Linux Bahasa Indonesia](https://www.youtube.com/playlist?list=PLy1BHEa_Wr-cpjWY5uOqsMxQwiQrRnC8B) - ArtAway
 
@@ -267,7 +287,9 @@
 ### Machine Learning
 
 * [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177) - Dicoding, membutuhkan registrasi
+* [Belajar Machine Learning Dari Awal Buat Yang Ga Jago Matematika](https://www.youtube.com/watch?v=WH1SduDRL_Y&t=2s) - array id (Youtube)
 * [Classic Time Series Forecasting \| Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Ms7wr2zgtcC4LaE_NHQAEjx) - Wira DKP, JCOp Untuk Indonesia (YouTube)
+* [Nusantech Webinar - Introduction to Machine Learning](https://www.youtube.com/watch?v=SezDD2ULQ1o) - Nusantech, Galuh Sahid 
 * [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Setia Budi, Indonesia Belajar (YouTube)
 
 
@@ -307,6 +329,7 @@
 * [Tutorial Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_5lzhkUtrV6ygriYcttMlg) - Framework Indonesia
 * [TUTORIAL CODEIGNITER 4](https://youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) - Sandhika Galih (Web Programming UNPAS)
 * [Tutorial Codeigniter 4 Indonesia](https://youtube.com/playlist?list=PL1aMeb5UP_PFkC4mY3prujavZBehsWAC3) - IDStack
+* [Tutorial Membuat CRUD CodeIgniter 4 & Bootstrap](https://santrikoding.com/tutorial-set/crud-codeigniter-4) - Fika Ridaul Maulayya (Santri Koding)
 * [Tutorial Sistem Informasi Akademik dengan Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_hXzGACf988F1ojvQlYmB0) - Framework Indonesia
 
 
@@ -320,6 +343,7 @@
 * [Fitur Baru Laravel 8](https://www.youtube.com/playlist?list=PLEgI20pG1DqyTqCPiHnuWrBZtVFs5z95p) - Muhammad Amirul Ihsan (Kawan Koding)
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Irsyad A. Panjaitan (Parsinta)
 * [Membuat Tabel Post Tampilan](https://youtu.be/sYTin40_Ukw) - Muhammad Amirul Ihsan (Kawan Koding)
+* [Tutorial Laravel](https://www.youtube.com/playlist?list=PL-CtdCApEFH8AoW8KgbHM9q_gXKsXyyht) -  Eko Kurniawan Khannedy, Programmer Zaman Now  (YouTube)
 * [Tutorial Laravel 5.7 Dasar bahasa Indonesia](https://www.malasngoding.com/category/laravel/) - Diki Alfarabi Hadi (Malas Ngoding)
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
 * [Tutorial Laravel Bahasa Indonesia](https://id-laravel.com) - ID Laravel
@@ -327,6 +351,7 @@
 
 ### Python
 
+* [Belajar Bahasa Pemrograman Python Dasar](https://www.udemy.com/course/belajar-bahasa-pemrograman-python-dasar/) - Cahyo Adhi (Udemy)
 * [Belajar Pemrograman Python untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Belajar Python Bahasa Indonesia [Dasar]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
 * [Belajar Python Bahasa Indonesia [Versi Baru]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY) - Kelas Terbuka
@@ -366,6 +391,7 @@
 ### SASS / SCSS
 
 * [Belajar Menggunakan SASS](https://youtube.com/playlist?list=PLRKMmwY3-5Mxzx31JO3V9JJ8GLdUXYqt0) - Irsyad A. Panjaitan (Parsinta)
+* [Belajar Sass Biar Nulis Kode CSS Jadi "Absurd"](https://www.youtube.com/watch?v=kNA_wWbBCLc) - array id
 * [Tutorial SASS](https://www.youtube.com/playlist?list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5) - Web Programming UNPAS
 
 
@@ -373,6 +399,11 @@
 
 * [Ethereum Blockchain Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLNl8QwXqW_lvWSc3n3geFSbBtmJvEl4nz) - Odoo Indonesia vITraining
 * [Tutorial Blockchain Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhvZi4kEqU6kCjyv_y8qBae) - Ipung DEV Academy (YouTube)
+
+
+### Terraform
+
+* [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro
 
 
 ### TypeScript

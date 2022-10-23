@@ -5,15 +5,15 @@
 * [Arduino](#arduino)
 * [C](#c)
 * [C++](#cpp)
-* [HTML / CSS](#html-css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [Lego Mindstorms](#lego-mindstorms)
-* [LISP](#lisp)
+* [Lisp](#lisp)
 * [.NET](#net)
 * [PHP](#php)
 * [PowerShell](#powershell)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Windows Phone](#windows-phone)
 
 
@@ -24,7 +24,7 @@
 * [Az adatbázistervezés alapjai és titkai](http://mek.oszk.hu/11100/11123/index.phtml) - Halassy Béla (Word, PDF)
 * [Ember, információ, rendszer](http://mek.oszk.hu/11100/11122/index.phtml) - Halassy Béla (Word, PDF)
 * [Formális nyelvek](http://mek.oszk.hu/05000/05099/index.phtml) - Bach Iván (PDF)
-* [Mese a felhasználó központú tervezőről](http://mek.oszk.hu/11700/11748/index.phtml) - David Travis, ford.: Favorit Fordító Iroda (PDF)
+* [Mese a felhasználó központú tervezőről](http://mek.oszk.hu/11700/11748/index.phtml) - David Travis, `trl.:` Favorit Fordító Iroda (PDF)
 * [Prognyelvek portál](http://nyelvek.inf.elte.hu/index.php) - Felelős oktató: Nyékyné Gaizler Judit (HTML)
 
 
@@ -35,7 +35,7 @@
 
 ### Arduino
 
-* [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans írása alapján fordította, kiegészítette és frissítette Cseh Róbert (PDF - regisztráció szükséges)
+* [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans, `trl.:` Cseh Róbert (PDF - regisztráció szükséges)
 
 
 ### C
@@ -48,10 +48,10 @@
 * [Fejlett programozási technikák](http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf) - Antal Margit (PDF)
 
 
-### HTML / CSS
+### HTML and CSS
 
 * [CSS alapjai](http://weblabor.hu/cikkek/cssalapjai1) - Bártházi András (HTML)
-* [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok) - Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan és Mike West, ford.: Nagy Gusztáv (PDF)
+* [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok) - Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan, Mike West, `trl.:` Nagy Gusztáv (PDF)
 
 
 ### Java
@@ -70,10 +70,10 @@
 ### Lego Mindstorms
 
 * [A MINDSTORMS EV3 robotok programozásának alapjai](https://hdidakt.hu/wp-content/uploads/2016/01/dw_74.pdf) - Kiss Róbert (PDF)
-* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF)
+* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](https://web.archive.org/web/20160607074029/http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF) *(:card_file_box: archived)*
 
 
-### LISP
+### Lisp
 
 * [A LISP programozási nyelv](http://mek.oszk.hu/07200/07258/index.phtml) - Zimányi Magdolna, Kálmán László, Fadgyas Tibor (PDF)
 
@@ -87,8 +87,8 @@
 ### .NET
 
 * [C#](http://mek.oszk.hu/10300/10384/index.phtml) - Reiter István (PDF)
-* [C# programozás lépésről lépésre](http://devportal.hu) - Reiter István (PDF)
-* [Honlapépítés a XXI. században](http://mek.oszk.hu/10300/10392/index.phtml) - A WebMatrix csapat és Balássy György (PDF)
+* [C# programozás lépésről lépésre](https://reiteristvan.files.wordpress.com/2018/01/reiter-istvc3a1n-c-programozc3a1s-lc3a9pc3a9src591l-lc3a9pc3a9sre.pdf) - Reiter István (PDF)
+* [Honlapépítés a XXI. században](http://mek.oszk.hu/10300/10392/index.phtml) - A WebMatrix csapat, Balássy György (PDF)
 * [Silverlight 4](http://mek.oszk.hu/10300/10382/index.phtml) - Árvai Zoltán, Csala Péter, Fár Attila Gergő, Kopacz Botond, Reiter István, Tóth László (PDF)
 
 
@@ -107,10 +107,10 @@
 
 ### Python
 
-* [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, ford.: Daróczy Péter (PDF)
-* [Bevezetés a wxPythonba](http://mek.oszk.hu/08400/08446/index.phtml) - Jeremy Berthet, Gilles Doge, ford.: Daróczy Péter (PDF)
-* [Hogyan gondolkozz úgy, mint egy informatikus:Tanulás Python 3 segítségével](https://mtmi.unideb.hu/pluginfile.php/554/mod_resource/content/3/thinkcspy3.pdf) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey és Chris Meyers, ford.: Biró Piroska, Szeghalmy Szilvia és Varga Imre (PDF)
-* [Tanuljunk meg programozni Python nyelven](http://mek.oszk.hu/08400/08435/index.phtml) - Gérard Swinnen, ford.: Daróczy Péter (PDF, ODT)
+* [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, `trl.:` Daróczy Péter (PDF)
+* [Bevezetés a wxPythonba](http://mek.oszk.hu/08400/08446/index.phtml) - Jeremy Berthet, Gilles Doge, `trl.:` Daróczy Péter (PDF)
+* [Hogyan gondolkozz úgy, mint egy informatikus:Tanulás Python 3 segítségével](https://mtmi.unideb.hu/pluginfile.php/554/mod_resource/content/3/thinkcspy3.pdf) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers, `trl.:` Biró Piroska, Szeghalmy Szilvia, Varga Imre (PDF)
+* [Tanuljunk meg programozni Python nyelven](http://mek.oszk.hu/08400/08435/index.phtml) - Gérard Swinnen, `trl.:` Daróczy Péter (PDF, ODT)
 
 
 #### Django

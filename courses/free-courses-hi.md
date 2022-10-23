@@ -218,7 +218,7 @@
 
 ### Game Development
 
-* [Game Development using Unity3D](https://www.youtube.com/playlist?list=PLBh8phtAyHPUY9fqgs1w6aHJALJ3_fMSc) - Farhan Aqeel
+* [Game Development Course](https://www.youtube.com/playlist?list=PLBh8phtAyHPUY9fqgs1w6aHJALJ3_fMSc) - Farhan Aqeel
 * [Python Game Development Course](https://www.youtube.com/watch?v=Wg9J5kiX0wY) - Techonical Infotech Pvt. Ltd.
 
 

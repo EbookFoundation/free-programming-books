@@ -270,8 +270,8 @@
 
 ### C
 
-* [C Language Tutorial for Beginners (With Notes)](https://www.youtube.com/watch?v=_MF8L7ZxwRE) - ProgrammingWithHarry (YouTube)
 * [C Language Tutorial for Beginners](https://www.youtube.com/watch?v=irqbmMNs2Bo) - Apna College
+* [C Language Tutorial for Beginners (With Notes)](https://www.youtube.com/watch?v=_MF8L7ZxwRE) - ProgrammingWithHarry (YouTube)
 * [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) - Sujeet Singh (Neso Academy)
 * [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Sujeet Singh (Neso Academy)
 * [C Programming for Beginners](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) - Programiz

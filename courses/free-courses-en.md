@@ -279,6 +279,7 @@
 * [Learn C Programming](https://www.programiz.com/c-programming) - Programiz (HTML)
 * [Programming in C](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) - Jenny's lectures CS/IT NET&JRF 
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
+* [C Language Tutorial for Beginners](https://www.youtube.com/watch?v=irqbmMNs2Bo) - Apna College 
 
 
 ### <a id="csharp"></a>C\#

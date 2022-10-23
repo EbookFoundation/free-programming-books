@@ -257,6 +257,7 @@ Shikkhangon BD
 * [Flask Web Development with python (Bangla)](https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK) - Naimul Hawk
 
 ### Linux
+
 * [Ubuntu Linux Bangla Tutorial 2021](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw) - STUDY MART
 
 ### Scratch
@@ -271,6 +272,7 @@ Shikkhangon BD
 * [Linux Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PLMTKJq4uuKqXVg7S7XujEsONl9ZVT4X0p) - Atiq Hasan Zubu
 
 ### Swift
+
 * [Swift Programming Tutorial](https://www.youtube.com/playlist?list=PLO3_9DDlL5oQtl1_DmfAC6lAC2IoHx31K) - FHT Bangla
 
 ### TypeScript

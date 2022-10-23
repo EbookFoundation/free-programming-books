@@ -1993,6 +1993,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Tiny Python Projects](http://tinypythonprojects.com/Tiny_Python_Projects.pdf) - Ken Youens-Clark(PDF)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
+* [Learn Powerful Python one-liners](https://rajansahu713.medium.com/learn-powerful-one-liners-in-python-ac2d2e6aa2fb) - Rajan Sahu (HTML)
 
 
 #### Django

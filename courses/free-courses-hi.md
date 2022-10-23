@@ -263,7 +263,7 @@
 
 ### iOS
 
-* [iOS Development (Crash course)](https://www.youtube.com/watch?v=n7qOGHWunUY) - Akash Padhiyar
+* [iOS App Development Crash Course in Hindi](https://www.youtube.com/watch?v=n7qOGHWunUY) - Akash Padhiyar
 * [IOS Mobile App Development Tutorial for beginners](https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo) - Fahad Hussain
 
 

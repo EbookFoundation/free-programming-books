@@ -404,7 +404,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [The Python Game Book](https://web.archive.org/web/20210308080726/https://thepythongamebook.com/en%3Astart) - Horst Jens *(:card_file_box: archived)*
 * [Top 10 Machine Learning Algorithms Every Engineer Should Know](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) - Binny Mathews, Omair Aasim
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) - Shai Shalev-Shwartz, Shai Ben-David
-
+* [Python Data Science Handbook: Essentials Tools for Working with Data](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake Vanderplas
 
 ### Mathematics
 

@@ -385,6 +385,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) - Jupyter Notebooks
 * [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) - Yoshua Bengio (PDF)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
+* [Machine Learning for Beginners](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
 * [Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) - Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/) - Danny Friedman (HTML, PDF, Jupyter Book)
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/) - D. Michie, D.J. Spiegelhalter, C.C. Taylor

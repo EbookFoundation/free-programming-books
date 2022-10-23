@@ -1,5 +1,6 @@
 ### Index
 
+* [Ansible](#ansible)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [C](#c)
@@ -49,6 +50,15 @@
 * [Terraform](#terraform)
 * [Unit testing](#unit-testing)
 * [Webpack](#webpack)
+
+
+### Ansible
+
+* [Ansible Basic Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet) - Intellipaat (HTML)
+* [Ansible Cheat Sheet](https://sites.google.com/site/mrxpalmeiras/ansible/ansible-cheat-sheet) - Mrxpalmeiras (HTML)
+* [Ansible Cheat Sheet — A DevOps Quick Start Guide](https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0) - edureka (HTML, PDF)
+* [Automate your tasks with this Ansible cheat sheet](https://opensource.com/article/20/11/ansible-cheat-sheet) - Opensource (HTML)
+* [How to Use Ansible: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide) - DigitalOcean (HTML)
 
 
 ### APL

@@ -33,6 +33,7 @@
 ### JavaScript
 
 * [JavaScript Dersleri](https://javascript.sitesi.web.tr) - Murat Eliçalişkan
+* [JavaScript Dersleri](https://www.youtube.com/playlist?list=PLdYLIhwDacdFC-Yrz7hscxwmOpuhnMigs) - Mustafa Filiz
 * [JavaScript Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PqKkqSPwph57HNN4RWgR2) - Hakan Yalçınkaya \| Kodluyoruz
 
 
@@ -47,6 +48,7 @@
 
 * [Python Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O) - Erol Mesutgün
 * [Sıfırdan İleri Seviye Profesyonel Python Yazılım Geliştiricisi Olma Kursu (2021)](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) - Mert Mekatronik
+* [Yeni Başlayanlar İçin Python Dersleri 2019](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq9Y_RP7Q9Kn-bgZvVdl1cBy) - Arin Yazilim
 * [Yeni Başlayanlar İçin Sıfırdan Python Dersleri](https://www.youtube.com/playlist?list=PL3kMAPso9YQ1Ls-5uTTIWWMkJoF_vyj5J) - Python'a Giriş
 
 

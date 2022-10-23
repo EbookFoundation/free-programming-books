@@ -365,7 +365,7 @@
 ### Matlab
 
 * [Matlab Complete Course](https://www.youtube.com/watch?v=iS5J4TlLSEM) - Armughan Ali
-* [Matlab for Beginners (Playlist)](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfdIlwG649bdzVHM4iLbD_H) - WsCube Tech, `tch.:` VK Singh
+* [MATLAB Complete Tutorial in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfdIlwG649bdzVHM4iLbD_H) - WsCube Tech, `tch.:` VK Singh
 
 
 ### Mongo DB

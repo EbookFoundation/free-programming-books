@@ -48,6 +48,7 @@
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Software Engineering](#software-engineering)
+* [Swift](#swift)
 * [System Design](#system-design)
 
 
@@ -461,6 +462,11 @@
 ### Software Engineering
 
 * [Software Engineering](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2) - Gate Smashers
+
+
+### Swift
+
+* [Swift Tutorials For Beginners(Full) in Hindi.](https://www.youtube.com/playlist?list=PLWZIhpNhtvfqBd00bF3ouroGHMPe-iroO) - Yogesh Patel
 
 
 ### System Design

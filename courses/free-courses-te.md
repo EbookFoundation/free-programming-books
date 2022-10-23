@@ -2,6 +2,7 @@
 
 * [C](#c)
 * [C++](#cpp)
+* [Data Structures](#ds)
 * [Flutter](#flutter)
 * [Java](#java)
 * [Javascript](#javascript)
@@ -17,6 +18,11 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Language Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm9keJjsA95jKa4EUVLd7mQP) - Telugu Computer World (YouTube)
+
+
+### <a id="ds"></a>Data Structures
+
+* [Stacks and Queues in Telugu || Data Structures in Telugu](https://www.youtube.com/playlist?list=PLXj4XH7LcRfBJVCGguyIFbyj__hDSSBm9) - Sudhakar Atchala (YouTube)
 
 
 ### Flutter

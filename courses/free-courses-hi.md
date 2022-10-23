@@ -264,7 +264,7 @@
 ### iOS
 
 * [iOS Development (Crash course)](https://www.youtube.com/watch?v=n7qOGHWunUY) - Akash Padhiyar
-* [iOS Development Course For Beginners](https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo) - Fahad Hussain
+* [IOS Mobile App Development Tutorial for beginners](https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo) - Fahad Hussain
 
 
 ### Java

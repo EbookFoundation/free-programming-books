@@ -1,0 +1,38 @@
+Following are the most Important Graph Problems ->
+1.	SCC(using KosaRaju’s algorithm) 
+2.	Dijkstra’s Algorithm 
+3.	Bellman-Ford Algo 
+4.	Floyd Warshall Algorithm  
+5.	MST using Prim’s Algo 
+6.	MST using Kruskal’s Algo  
+7.	Find the Bridges in a graph
+8. Clone a graph (Not that easy as it looks) 
+9.	Detect A cycle in Undirected Graph/Directed Graph 
+10.	Topo Sort 
+11.	Longest path in a DAG
+12.	Oliver and the Game(Euler Path)
+13.	Number of islands (Do in Grid and Graph both) 
+14.	Bipartite Check 
+
+
+Some Important Tree Problems->
+1.	Inorder Traversal,Preorder,Postorder
+2.	Find all Duplicate subtrees in a Binary tree [ IMP ]
+3.	Print all "K" Sum paths in a Binary tree
+4.	LeftView Of Binary Tree
+5.	Bottom View of Binary Tree
+6.	Check if 2 n-ary trees are mirror or not
+7.	Level order Traversal / Level order traversal in spiral form 
+8.	Height of a Binary Tree 
+10.	Diameter of Binary Tree 
+11.	Check if Binary tree is height-balanced or not 
+12.	Kth in Binary Tree 
+13.	Check if two trees are identical or not 
+14.	Maximum path sum 
+15.	Construct Binary Tree from inorder and preorder 
+16.	Construct Binary Tree from Inorder and Postorder 
+17.	Symmetric Binary Tree 
+18.	Flatten Binary Tree to LinkedList 
+19.	Check if Binary Tree is mirror of itself or not  
+
+

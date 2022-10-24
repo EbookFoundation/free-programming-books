@@ -46,6 +46,8 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Κώδικα Δεοντολογίας](CODE_OF_CONDUCT-el.md)
   - [Contributing](CONTRIBUTING-el.md)
   - [How-to](HOWTO-el.md)
+- Gujarati / ગુજરાતી
+  - [How-to](HOWTO-gu.md)
 - Hebrew / עברית
 - Hindi / हिन्दी
   - [आचार संहिता](CODE_OF_CONDUCT-hi.md)

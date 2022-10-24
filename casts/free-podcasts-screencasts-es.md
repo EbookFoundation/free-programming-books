@@ -54,6 +54,7 @@
 * [La Buhardilla Geek](https://www.ivoox.com/podcast-buhardilla-geek_sq_f1465450_1.html) - Juan Ángel Romero, Luis Miguel López (podcast)
 * [Maestría JS](https://anchor.fm/maestriajs) - Carlos Rojas (podcast) *(Última Actualización: Mayo 2020)*
 * [Programar es una Mierda](https://www.programaresunamierda.com) - Juan José Meroño Sanchez, Alexandre Ballesté Crevillén (podcast)
+* [DevTalles](https://open.spotify.com/show/0jrfxcnCrD7N9tlA0BGJp5) - Fernando Herrera (podcast)
 
 
 ### Software Libre

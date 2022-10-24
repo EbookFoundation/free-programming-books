@@ -18,7 +18,7 @@
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
     * [jQuery](#jquery)
-    * [Next.js](#next.js)
+    * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
     * [Svelte](#svelte)

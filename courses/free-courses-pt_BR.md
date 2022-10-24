@@ -361,4 +361,7 @@
 
 ### SEO
 
-* [Curso prático de SEO](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90) - Gustavo Guanabara, Curso em Video (YouTube)
+* [Curso prático de SEO](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90) - Gustavo Guanabara (Curso em Video)
+
+* [Curso de SEO - Mão na massa](https://www.youtube.com/playlist?list=PLVPIs-7SxXA_O-fUH5PbKhEHdTPnYKMiE) - 
+Flavio Klens (Agência Klens)

@@ -43,6 +43,6 @@ versiyon 1.3.0, bu adreste bulunabilir: https://contributor-covenant.org/version
 
 [Çeviriler](README.md#translations)
 
-```
+
 [homepage]: https://contributor-covenant.org
-```
+

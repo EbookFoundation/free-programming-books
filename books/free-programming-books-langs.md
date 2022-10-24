@@ -1311,6 +1311,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
+* [The Complete Redux Book](https://www.dsspp.sk/assets/redux-book.pdf) - Boris Dinkevich & Ilya Gelman
 * [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 

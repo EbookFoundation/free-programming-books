@@ -598,7 +598,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown) - J. Casimir
 * [Learn CF in a Week](http://learncfinaweek.com)
-* [Learn Modern ColdFusion <CFML> in 100+ Minutes](https://modern-cfml.ortusbooks.com) - Luis Majano (HTML)
+* [Learn Modern ColdFusion \<CFML\> in 100+ Minutes](https://modern-cfml.ortusbooks.com) - Luis Majano (HTML)
 * [Learning coldfusion](https://riptutorial.com/Download/coldfusion.pdf) - Compiled from StackOverflow documentation (PDF)
 
 

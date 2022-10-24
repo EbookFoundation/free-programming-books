@@ -12,6 +12,7 @@
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [Erlang](#erlang)
+* [Flutter](#flutter)
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
@@ -130,6 +131,12 @@
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)
+
+
+### <a id="flutter"></a>Flutter
+
+* [Write Your First Flutter App, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0) - Google Codelabs
+* [Write Your First Flutter App, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0) - Google Codelabs
 
 
 ### Git

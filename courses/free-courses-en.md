@@ -990,6 +990,8 @@
 ### Networking
 
 * [Computer Networks 5e](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) - Andrew Tanenbaum, David Wetherall (Pearson)
+* [Computer Networking](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=3520s) - Kunal Kushwaha
+* [Computer Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Farrell (FreeCodeCamp.org)
 
 
 ### Objective-C

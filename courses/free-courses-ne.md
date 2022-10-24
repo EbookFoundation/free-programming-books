@@ -11,17 +11,17 @@
 
 ### JavaScript
 
-* [JavaScript Complete Tutorial In Nepali](https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc) - EverydayKarma 🇳🇵
+* [JavaScript](https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc) - EverydayKarma 🇳🇵
 
 
 #### Node.js
 
-* [Node js Complete Tutorial In Nepali](https://www.youtube.com/playlist?list=PLckS_N3kOwFEJnIy0PG0zU6XjUOBGkW9x) - EverydayKarma 🇳🇵
+* [Node js](https://www.youtube.com/playlist?list=PLckS_N3kOwFEJnIy0PG0zU6XjUOBGkW9x) - EverydayKarma 🇳🇵
 
 
 #### React
 
-* [React.js Complete Tutorial In Nepali](https://www.youtube.com/playlist?list=PLckS_N3kOwFHhFEmcRs8jvX7xFaRFI4H1) - EverydayKarma 🇳🇵
+* [React.js](https://www.youtube.com/playlist?list=PLckS_N3kOwFHhFEmcRs8jvX7xFaRFI4H1) - EverydayKarma 🇳🇵
 
 
 #### Flutter
@@ -31,12 +31,12 @@
 
 #### SQL
 
-* [SQL Complete Tutorial In Nepali](https://www.youtube.com/watch?v=Lt52pYaoSR8&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=2) - Technology Channel
+* [SQL Full Course In Nepali](https://www.youtube.com/watch?v=Lt52pYaoSR8&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=2) - Technology Channel
 
 
 #### C
 
-* [C Complete Tutorial In Nepali](https://www.youtube.com/watch?v=7WH8C48UNDU&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=3) - Technology Channel
+* [C Programming Full Course In Nepali](https://www.youtube.com/watch?v=7WH8C48UNDU&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=3) - Technology Channel
 
 
 #### WordPress

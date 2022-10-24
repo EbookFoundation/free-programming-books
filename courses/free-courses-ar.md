@@ -37,6 +37,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    
 * [R](#r)
 * [Software Architecture](#software-architecture)
 * [TypeScript](#typescript)
@@ -60,6 +61,7 @@
 * [grokking-algorithms&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW) - Nehal Elsamoly&rlm; (:construction: *in process*)
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi
 * [Standard Template Library (STL) Full Tutorial Using C++ In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp) - Adel Nasim
+* [problem solving;]https://practice.geeksforgeeks.org/courses/dsa-self-paced?source=google&medium=cpc&device=c&keyword=geeksforgeeks&matchtype=b&campaignid=9546568041&adgroup=97966155295&gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6GJwjQCxGWklTK5wu04RbDe1PpwVkMovDNzJQ_NjmYkOPEJAN3QhkxoCeIQQAvD_BwE
 
 
 ### Assembly

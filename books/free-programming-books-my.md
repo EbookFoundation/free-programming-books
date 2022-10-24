@@ -54,3 +54,8 @@
 * [Professional Web Developer](http://eimaung.com/professional-web-developer) - Ei Maung (PDF)
 * [Professional Web Developer 2022](https://eimaung.com/pwd2022/) - Ei Maung (PDF)
 * [Rockstar Developer](http://eimaung.com/rockstar-developer) - Ei Maung (PDF)
+
+
+### data structures
+
+* [practice data structures problem solving](https://practice.geeksforgeeks.org/courses/dsa-self-paced?source=google&medium=cpc&device=c&keyword=geeksforgeeks&matchtype=b&campaignid=9546568041&adgroup=97966155295&gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6GJwjQCxGWklTK5wu04RbDe1PpwVkMovDNzJQ_NjmYkOPEJAN3QhkxoCeIQQAvD_BwE)

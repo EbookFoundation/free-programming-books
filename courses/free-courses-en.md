@@ -1338,3 +1338,4 @@
 ### YAML
 
 * [Complete YAML Course - Beginner to Advanced for DevOps and more!](https://www.youtube.com/watch?v=IA90BTozdow) - Kunal Kushwaha
+* [YAML Tutorial for Beginners: learn YAML in-dept for DevOps]

@@ -16,7 +16,7 @@
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [AngularJS](#angularJS)
+    * [AngularJS](#angularjs)
     * [jQuery](#jquery)
     * [Next.js](#next.js)
     * [Node.js](#nodejs)

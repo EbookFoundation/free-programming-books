@@ -1389,7 +1389,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks
 * [LaTex Notes for Professionals](https://goalkicker.com/LaTeXBook/) - Compiled from StackOverflow documentation (PDF)
 * [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
-
+* [Guide To LaTeX](https://www.math.ucdavis.edu/~tracy/courses/math129/Guide_To_LaTeX.pdf)-H Kopka & Patrick W. Daly(PDF)
 
 #### TeX
 

@@ -359,6 +359,7 @@
 ### Swift
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
+* [Curso de Swift - Programação](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-) - Tiago Aguiar
 
 
 ### TypeScript

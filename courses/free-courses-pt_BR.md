@@ -218,6 +218,7 @@
 * [Aprenda Kotlin do zero - Módulo Básico](https://www.udemy.com/kotlin-aprenda-do-zero-modulo-basico/) - Pedro Massango (Udemy)
 * [Curso de Kotlin 2020 \| Básico](https://www.youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn) - Douglas Motta (YouTube)
 * [Curso de Kotlin 2021](https://www.youtube.com/playlist?list=PL9dOBCBB2d-hhioxKoL6ODVILWcWuas8b) - Devaria (YouTube)
+* [Curso de Kotlin - Básico](https://www.youtube.com/playlist?list=PLlGFv5gh9fBIJ8SEaQ_AKon-uenAlUbjE) - Rapadura Dev (YouTube)
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
 
 

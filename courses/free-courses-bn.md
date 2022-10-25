@@ -16,7 +16,9 @@
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Angular](#angular)
     * [jQuery](#jquery)
+    * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
     * [Svelte](#svelte)
@@ -29,8 +31,11 @@
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
     * [Django](#django)
+    * [Flask](#flask)
+* [Linux](#linux)
 * [Scratch](#scratch)
 * [Shell scripting](#shell-scripting)
+* [Swift](#swift)
 * [TypeScript](#typescript)
 * [WordPress](#wordpress)
 
@@ -155,10 +160,22 @@ Shikkhangon BD
 * [Play with DOM - Bangla](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_) - Sumit Saha (Learn with Sumit)
 
 
+#### Angular
+
+* [Angularjs bangla tutorial basic](https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG) - Learn Hunter
+* [AngularJS bangla tutorial](https://www.youtube.com/playlist?list=PLZURtcoL43SUpJj_n_yGoqM4RMqQoBbst) - tutplus24
+* [Angular 12 Easy Tutorial in Bangla](https://www.youtube.com/playlist?list=PLEfqpT48xB4H2gOHDzs2dm_ZmoECuTHtR) - web-man
+
+
 #### jQuery
 
 * [jQuery Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB) - Anisul Islam
 * [jQuery Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5Onxtpvq--EAMfAHcn8h8_t3iw) - Moshiur
+
+
+#### Next.js
+
+* [next js bangla(বাংলা) tutorial](https://www.youtube.com/playlist?list=PLQvUYGXiwrskS_C3MOeW0rOVB5Ny2MCR2) - Faazle Rabbi
 
 
 #### Node.js
@@ -240,6 +257,16 @@ Shikkhangon BD
 * [Django Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V) - Learn Hunter
 
 
+#### Flask 
+
+* [Flask Web Development with python (Bangla)](https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK) - Naimul Hawk
+
+
+### Linux
+
+* [Ubuntu Linux Bangla Tutorial 2021](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw) - STUDY MART
+
+
 ### Scratch
 
 * [Scratch Programming](https://youtube.com/playlist?list=PLtEypp6e7UDBfNhRt9x3N89mJKl0PztHH) - bdOSN
@@ -250,6 +277,11 @@ Shikkhangon BD
 ### Shell scripting
 
 * [Linux Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PLMTKJq4uuKqXVg7S7XujEsONl9ZVT4X0p) - Atiq Hasan Zubu
+
+
+### Swift
+
+* [Swift Programming Tutorial](https://www.youtube.com/playlist?list=PLO3_9DDlL5oQtl1_DmfAC6lAC2IoHx31K) - FHT Bangla
 
 
 ### TypeScript

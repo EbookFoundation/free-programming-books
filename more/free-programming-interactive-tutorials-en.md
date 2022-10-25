@@ -210,6 +210,7 @@
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
+* [Learn Java](https://www.javatpoint.com/java-tutorial) - Java by javaTpoint
 
 
 ### JavaScript

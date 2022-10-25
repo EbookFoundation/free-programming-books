@@ -1282,6 +1282,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Practical Node.js: Building Real-World Scalable Web Apps](https://github.com/azat-co/practicalnode) - Azat Mardan
 * [The Node Beginner Book](http://nodebeginner.org)
 * [The Node.js Handbook](https://flaviocopes.com/page/node-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [Web development with Node JS and Express](https://www.vanmeegern.de/fileadmin/user_upload/PDF/Web_Development_with_Node_Express.pdf) - Ethen Brown (PDF) 
+* [NodeJS Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (pdf)
+* [Node For embedded system] (https://www.pdfdrive.com/nodejs-for-embedded-systems-using-web-technologies-to-build-connected-devices-e157056110.html) - Pactrick Mulder and Kelsey Breseman (pdf)
 
 
 #### Nuxt.js

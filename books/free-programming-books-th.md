@@ -5,8 +5,8 @@
 * [Go](#go)
 * [IoT (internet of things)](#iot-internet-of-things)
 * [Java](#java)
-* [Python](#python)
 * [PHP](#PHP)
+* [Python](#python)
 
 
 ### Apache Spark
@@ -37,11 +37,11 @@
 * [Java Programming Concept](http://it.e-tech.ac.th/poohdevil/JavaConcepts/) - Rungrote Phonkam
 
 
-### Python
-
-* [Python ๑๐๑](https://www.cp.eng.chula.ac.th/books/python101/) - กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล, สุกรี สินธุภิญโญ
-
-
 ### PHP
 
 * [พื้นฐานภาษา PHP](http://marcuscode.com/lang/php) - MarcusCode
+
+
+### Python
+
+* [Python ๑๐๑](https://www.cp.eng.chula.ac.th/books/python101/) - กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล, สุกรี สินธุภิญโญ

@@ -380,6 +380,7 @@
 ### WordPress
 
 * [Curso de Loja Virtual: WooCommerce + WordPress](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso de WordPress 2022 Grátis e Completo](https://www.youtube.com/playlist?list=PLltHgIJnfTsAnyA8KPXC6ohTYzGEreVEa) - CursoB Cursos Online
 * [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Gustavo Guanabara (Curso em Vídeo)
 
 

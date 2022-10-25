@@ -35,6 +35,7 @@
 ### Java
 
 * [Full Java Tutorials in Telugu - Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2Lyt9-2hhRj37otchec1OJL) - (YouTube)
+* [Core Java in Telugu - H Y R Tutorials](https://www.youtube.com/playlist?list=PLz8gl4BEGkEGYXNZrIRHJUSoxS_FPBrDy) - (YouTube)
 
 
 ### Javascript

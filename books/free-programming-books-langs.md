@@ -1274,8 +1274,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [How To Code in Node.js - eBook](https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook) - David Landup, Marcus Sanatan @ Stack Abuse, Digital Ocean (PDF, EPUB)
 * [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
 * [Mastering Node](https://github.com/visionmedia/masteringnode) - visionmedia ([PDF](https://github.com/visionmedia/masteringnode/blob/master/book.pdf))
-* [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node For Embedded System] (https://www.pdfdrive.com/nodejs-for-embedded-systems-using-web-technologies-to-build-connected-devices-e157056110.html) - Pactrick Mulder and Kelsey Breseman (PDF)
+* [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
 * [Node Documentation](https://nodejs.org/en/docs/) (PDF)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher

@@ -101,8 +101,7 @@
 * [x64 Assembly Language](https://www.youtube.com/playlist?list=PL-DxAN1jsRa-3KzeQeEeoL_XpUHKfPL1u) - The Cyber Expert
 
 
-### 
-and Shell
+### Bash and Shell
 
 * [Bash Basic Commands](https://youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM) - Noob Coders
 * [Bash scripting tutorial for beginners | learn shell scripting in one video in Hindi English](https://www.youtube.com/watch?v=9T2nEXlLy9o&list=PLxLRoXCDIalcosmDOQizh31EIHEK1njfO&index=1&ab_channel=FortifySolutions) - Fortify Solutions (Savita Dadhwal, Soniya)

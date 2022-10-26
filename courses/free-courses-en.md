@@ -710,7 +710,7 @@
 * [Java Programming Basics](https://www.udemy.com/course/java-programming-basics/) - Charles Mulic (Udemy)
 * [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) (Coursera)
 * [Java Server Tutorials - Happy Coding](https://happycoding.io/tutorials/java-server/) - Kevin Workman
-* [Java Tutorial Advanced](https://www.youtube.com/playlist?list=PLsyeobzWxl7pSqMzPF_SlvQ0IdcGA-XI2) - Telusko (YouTube)
+* [Java Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7pSqMzPF_SlvQ0IdcGA-XI2) - Telusko
 * [Java tutorial for beginners](https://youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1) - Bro Code (YouTube)
 * [Java Tutorial For Beginners](https://youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK) - Telusko (YouTube)
 * [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell (Udemy)

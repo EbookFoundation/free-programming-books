@@ -70,11 +70,13 @@
 
 ### <a id="csharp"></a>C\#
 
+* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 
 ### <a id="cpp"></a>C++
 
+* [Coding Blocks](https://ide.codingblocks.com)
 * [Coding Minutes](https://ide.codingminutes.com)
 * [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
 * [LabStack](https://code.labstack.com/cpp)
@@ -96,11 +98,11 @@
 ### Dart
 
 * [DartPad](https://dartpad.dev)
+* [Replit](https://replit.com/languages/dart)
 
 
 ### Docker
 
-* [Katakoda](https://www.katacoda.com/courses/docker/playground)
 * [Play with Docker](https://labs.play-with-docker.com)
 
 
@@ -144,6 +146,7 @@
 * [Dabblet](https://dabblet.com)
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [SoloLearn](https://code.sololearn.com/web#css)
+* [Tailwind Play](https://play.tailwindcss.com)
 
 
 ### Ionic
@@ -171,6 +174,7 @@
 * [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
+* [OneCompiler](https://onecompiler.com/javascript)
 * [Plunker](https://plnkr.co)
 * [SoloLearn](https://code.sololearn.com/web#javascript)
 
@@ -191,7 +195,6 @@
 
 ### Kubernetes
 
-* [Katakoda](https://www.katacoda.com/courses/kubernetes/playground)
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
@@ -237,7 +240,9 @@
 * [Codepad](http://codepad.org/?lang=Python)
 * [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
 * [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
+* [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Trinket](https://trinket.io/python)
+* [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
@@ -291,7 +296,7 @@
 
 ### Scala
 
-* [ScalaFiddle.io](https://scalafiddle.io)
+* [JDoodle](https://www.jdoodle.com/compile-scala-online)
 * [Scastie](https://scastie.scala-lang.org)
 
 
@@ -310,6 +315,7 @@
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
 * [SQLFiddle](http://sqlfiddle.com)
+* [SQLite Online](https://sqliteonline.com)
 
 
 ### Svelte
@@ -330,14 +336,14 @@
 * [StackBlitz](https://stackblitz.com/fork/typescript)
 
 
-### V
-
-* [V Playground](https://play.vlang.io) - vlang.io
-
-
 #### Angular
 
 > :information_source: See also &#8230; [AngularJS](#angularjs)
 
 * [Plunker](https://plnkr.co)
 * [StackBlitz](https://stackblitz.com/fork/angular)
+
+
+### V
+
+* [V Playground](https://play.vlang.io) - vlang.io

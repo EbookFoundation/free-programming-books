@@ -300,7 +300,6 @@
 
 ### CoffeeScript
 
-* [CoffeeScript 言語リファレンス](http://memo.sappari.org/coffeescript/coffeescript-langref)
 * [CoffeeScript基礎文法最速マスター](https://blog.bokuweb.me/entry/2015/01/06/190240) - id:bokuweb
 * [The Little Book on CoffeeScript](https://minghai.github.io/library/coffeescript) - Alex MacCaw, Narumi Katoh(翻訳)
 * [基本操作逆引きリファレンス（CoffeeScript）](https://kyu-mu.net/coffeescript/revref) - 飯塚直
@@ -360,13 +359,11 @@
 #### Gradle
 
 * [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf))
-* [ビルドツールGradleスタートアップガイドの紹介](https://www.ntts.co.jp/column/tec/java_03/) - 鈴木雅貴
 
 
 #### Grails
 
 * [Grailsフレームワーク 日本語リファレンス](https://grails.jp/doc/latest) - T.Yamamoto, Japanese Grails Doc Translating Team. Special thanks to NTT Software
-* [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/) - 須藤悠
 
 
 #### Spock Framework
@@ -405,7 +402,6 @@
 * [JavaScript Plugin Architecture](https://azu.gitbooks.io/javascript-plugin-architecture/content) - azu
 * [JavaScript Primer](https://jsprimer.net) - azu, Suguru Inatomi
 * [JavaScript Promiseの本](https://azu.github.io/promises-book) - azu
-* [JavaScript style guide](https://developer.mozilla.org/ja/docs/JavaScript_style_guide) - MDN
 * [JavaScript 基礎文法最速マスター](https://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
 * [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
@@ -517,8 +513,6 @@
 
 * [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳)
 * [Objective-C 2.0 基礎文法最速マスター](https://marycore.jp/prog/objective-c/basic-syntax) - @_marycore
-* [Objective-C によるプログラミング](https://developer.apple.com/jp/devcenter/ios/library/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
-* [Objective-C プログラミングの概念](https://developer.apple.com/jp/devcenter/ios/library/documentation/CocoaEncyclopedia.pdf) - Apple Developer (PDF)
 * [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
 * [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - id:fn7
 
@@ -544,7 +538,7 @@
 * [PHP によるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
 * [PHP マニュアル](https://www.php.net/manual/ja) - The PHP Group
 * [PHP 基礎文法最速マスター](https://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
-* [PHP4徹底攻略改訂版](https://prev.net-newbie.com/support/pdf2/)
+* [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 
@@ -613,8 +607,6 @@
 * [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/wordpress/wp-content/uploads/2014/01/R_tutorial20131.pdf) - 小杉考司, 押江隆 (PDF)
 * [Rによる統計解析の基礎](https://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF)
 * [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
-* [統計解析ソフトRのスクリプト集](https://nuss.nagoya-u.ac.jp/index.php/s/kN6ZxsyReNzRPlM) - 石井秀宗 (PDF)
-* [統計解析フリーソフトRの備忘録](http://cse.naro.affrc.go.jp/takezawa/r-tips.pdf) - 竹澤邦夫 (PDF)
 * [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
 
 

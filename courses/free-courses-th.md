@@ -47,6 +47,7 @@
 
 * [จาวาสคริปต์เบื้องต้น](https://phyblas.hinaboshi.com/saraban/javascript) - Phyblas
 * [ภาษา JavaScript](http://marcuscode.com/lang/javascript) - MarcusCode
+* [สอนพื้นฐาน JavaScript ทั้งหมดแบบจบในคลิปเดียว !!](https://www.youtube.com/watch?v=PGZ7QiKdumo) - BorntoDev
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) - Zinglecode
 
 
@@ -58,6 +59,7 @@
 
 #### React
 
+* [สอน React](https://www.youtube.com/playlist?list=PL_xSQKvnccpn-C2fZNJtCykO24yqFWkDn) - Zinglecode
 * [สอน React.JS Tutorial](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBo5SmWJXwv4oKDfeTXA7xgw) - CMDev
 
 

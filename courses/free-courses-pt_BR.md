@@ -4,10 +4,12 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Compiladores](#compiladores)
 * [Dart](#dart)
 * [Database](#database)
 * [Delphi](#delphi)
 * [Docker](#docker)
+* [Elixir](#elixir)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -29,6 +31,7 @@
 * [Networking](#networking)
 * [Node.js](#nodejs)
 * [PHP](#php)
+* [Programação](#programação)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
@@ -36,6 +39,7 @@
 * [Sass](#sass)
 * [Segurança da Informação](#segurança-da-informação)
 * [Shell](#shell)
+* [Sistemas Embarcados](#sistemas-embarcados)
 * [Swift](#swift)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -67,7 +71,13 @@
 
 ### <a id="cpp"></a>C++
 
+* [Curso C++](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo) - Cláudio Rogério Carvalho Filho (eXcript)
 * [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) - Canal Fessor Bruno (CFBCursos)
+
+
+### Compiladores
+
+* [Compiladores](https://www.youtube.com/playlist?list=PL9-1FzPYzEfA-QTycUARDqIjakp_NJxe5) - Fábio Mendes
 
 
 ### Dart
@@ -91,6 +101,13 @@
 ### Docker
 
 * [Curso de Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4) - Robert Silva (YouTube)
+* [Curso de Docker para iniciantes - aprenda Docker em 1 hora](https://www.youtube.com/watch?v=np_vyd7QlXk) - Matheus Battisti
+
+
+### Elixir
+
+* [Curso de Elixir](https://www.youtube.com/playlist?list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR) - ELLY ACADEMY (YouTube)
+* [Curso de Elixir Alquimia](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone
 
 
 ### Flutter
@@ -126,6 +143,7 @@
 ### Haskell
 
 * [Curso Haskell para Iniciantes](https://www.udemy.com/curso-haskell/) - Marcos Castro (Udemy)
+* [Desenvolvimento Orientado a Tipos](https://www.youtube.com/playlist?list=PLYItvall0TqKaY6qObQMlZ45Bo94xq9Ym) - UFABC
 
 
 ### HTML and CSS
@@ -158,6 +176,7 @@
 * [Curso de Java Intermediário](https://loiane.training/curso/java-intermediario) - Loiane Groner
 * [Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara (YouTube)
 * [Curso de Programação Orientada a Objetos em Java - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) - Gustavo Guanabara (YouTube)
+* [Curso de Spring Boot - Criando um blog com Spring Boot e deploy na AWS Elastic Beanstalk](https://www.youtube.com/playlist?list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S) - Michelli Brito (YouTube)
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
 * [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) - Eduardo Guerra, Clovis Fernandes - ITA (Coursera)
 * [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
@@ -198,6 +217,7 @@
 
 * [Aprenda Kotlin do zero - Módulo Básico](https://www.udemy.com/kotlin-aprenda-do-zero-modulo-basico/) - Pedro Massango (Udemy)
 * [Curso de Kotlin 2020 \| Básico](https://www.youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn) - Douglas Motta (YouTube)
+* [Curso de Kotlin 2021](https://www.youtube.com/playlist?list=PL9dOBCBB2d-hhioxKoL6ODVILWcWuas8b) - Devaria (YouTube)
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
 
 
@@ -240,10 +260,13 @@
 ### Node.js
 
 * [Criando APIs com NodeJs](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
+* [Curso de Node](https://www.youtube.com/watch?v=XN705pQeoyU&list=PLx4x_zx8csUjFC41ev2qX5dnr-0ThpoXE) - Bruno CFBCursos (YouTube)
 * [Curso de Node.js](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) - Victor Lima Guia do Programador (YouTube)
 * [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab (YouTube)
 * [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - Erick Wendel (Teachable)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
+* [Serie API NodeJS](https://www.youtube.com/playlist?list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp) - Diego Fernandes (Rocketseat)
+* [Testes no NodeJS aplicando TDD com Jest](https://www.youtube.com/watch?v=2G_mWfG0DZE&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei) - Diego Fernandes (Rocketseat)
 
 
 ### PHP
@@ -260,6 +283,11 @@
 * [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
 * [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
+
+
+### Programação
+
+* [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
 
 
 ### Python
@@ -320,18 +348,26 @@
 ### Shell
 
 * [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
+* [Curso Shell GNU](https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO) - debxp (YouTube)
+
+
+### Sistemas Embarcados
+
+* [Fundamentos de Sistemas Embarcados](https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG) - Renato Sampaio
 
 
 ### Swift
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
+* [Curso de Swift - Programação](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-) - Tiago Aguiar
 
 
 ### TypeScript
 
 * [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) - Willian Justen Curso (YouTube)
 * [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) - DevDojo (YouTube)
-* [TypeScript, o início, de forma prática](https://www.youtube.com/watch?v=0mYq5LrQN1s) - Rocketseat, Diego Fernandes (YouTube)
+* [Typescript - Zero to Hero](https://github.com/glaucia86/curso-typescript-zero-to-hero) - Glaucia Lemos
+* [TypeScript, o início, de forma prática](https://www.youtube.com/watch?v=0mYq5LrQN1s) - Rocketseat, Diego Fernandes (YouTube) 
 
 
 #### Angular
@@ -344,6 +380,7 @@
 ### WordPress
 
 * [Curso de Loja Virtual: WooCommerce + WordPress](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso de WordPress 2022 Grátis e Completo](https://www.youtube.com/playlist?list=PLltHgIJnfTsAnyA8KPXC6ohTYzGEreVEa) - CursoB Cursos Online
 * [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Gustavo Guanabara (Curso em Vídeo)
 
 

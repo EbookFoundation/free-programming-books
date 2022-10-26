@@ -349,7 +349,7 @@
 
 * [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
 * [Curso Shell GNU](https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO) - debxp (YouTube)
-* [Curso Shell Script](https://www.youtube.com/watch?v=EOLPUc6oo-w&list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs) - Bóson Treinamentos (Youtube)
+* [Curso de Shell Scripting - Programação no Linux](https://www.youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs) - Bóson Treinamentos
 
 
 ### Sistemas Embarcados

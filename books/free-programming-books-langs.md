@@ -172,6 +172,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Kivy](#kivy)
     * [Pandas](#pandas)
     * [Pyramid](#pyramid)
+    * [Qiskit](#qiskit)
     * [Tornado](#tornado)
 * [Q#](#q-sharp)
 * [QML](#qml)
@@ -2045,6 +2046,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Pyramid
 
 * [Quick Tutorial for Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html#quick-tutorial)
+
+
+#### Qiskit
+
+* [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Amira Abbas, Stina Andersson, et al. 
 
 
 #### Tornado

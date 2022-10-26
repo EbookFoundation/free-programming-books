@@ -49,7 +49,7 @@
 #### Metodologie di sviluppo del software
 
 * [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia, A. Schaerf (PDF)
-* [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
+* [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html) - Massimo Maria Ghisalberti
 
 
 #### Open source
@@ -277,4 +277,4 @@
 
 ### Visual Basic
 
-* [Corso Visual Basic](http://www.webalice.it/kindofapple/corsovb.pdf) (PDF)
+* [A Scuola con VB2010](https://vbscuola.it/VB2010/A_Scuola_con_VB2010.pdf) (PDF)

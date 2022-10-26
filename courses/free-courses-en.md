@@ -29,6 +29,7 @@
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
     * [Ansible](#ansible)
+    * [Chef](#chef)
 * [Digital Electronics](#digital-electronics)
 * [Docker](#docker)
 * [Elastic](#elastic)
@@ -272,6 +273,7 @@
 * [C Language Tutorial for Beginners (With Notes)](https://www.youtube.com/watch?v=_MF8L7ZxwRE) - ProgrammingWithHarry (YouTube)
 * [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) - Sujeet Singh (Neso Academy)
 * [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Sujeet Singh (Neso Academy)
+* [C Programming 2021: Master The Basics!](https://www.udemy.com/course/c-programming-2019-master-the-basics/) - Ali Badran (Udemy)
 * [C Programming for Beginners](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) - Programiz
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane (freeCodeCamp)
@@ -311,6 +313,7 @@
 
 * [Clojure language Tutorial - for Beginners](https://www.youtube.com/watch?v=zFPiPBIkAcQ)
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
+* [Poetry of Programming - Clojure for Beginners](https://youtube.com/playlist?list=PLI-mrGTUXmHXeKhy6UGdDxIKwM8L4MTbq) - Attila EGRI-NAGY
 
 
 ### Cloud Computing
@@ -329,6 +332,7 @@
 
 #### Azure
 
+* [Azure Administrator Certification](https://www.youtube.com/watch?v=10PbGbTUSAg) - freeCodeCamp
 * [Microsoft Azure Fundamentals](https://youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM) - Adam Marczak
 * [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
 
@@ -342,6 +346,7 @@
 
 * [Compiler Design](https://www.youtube.com/playlist?list=PLLvKknWU7N4zpJWLqk7DXK26JwTB-gFmZ) - Lalit Vashistha
 * [Compiler Design](https://youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q) - Neso Academy
+* [Compiler Design](https://www.youtube.com/playlist?list=PLXj4XH7LcRfC9pGMWuM6UWE3V4YZ9TZzM) - Sudhakar Atchala (YouTube)
 * [Compilers](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i) - Ghassan Shobaki (YouTube)
 * [Stanford's Compilers](https://www.edx.org/course/compilers)
 
@@ -489,6 +494,12 @@
 * [Use Ansible with Amazon Web Services](https://www.udemy.com/course/ansible-aws) - Rohit Abraham (Udemy)
 
 
+###Chef
+
+* [CHEF Tutorial](https://www.youtube.com/playlist?list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT) - Online Tutorials
+* [Learning Chef](https://www.youtube.com/playlist?list=PLKK5zTDXqzFM53J6-rikDrqbbY0Pu-9SP) - Nathen Harvey
+
+
 ### Digital Electronics
 
 * [Digital Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) - Neso Academy
@@ -569,6 +580,7 @@
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
 * [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha
+* [Foundations of Git - Certification Course](https://learn.gitkraken.com/courses/git-foundations) - Axosoft (GitKraken) *(account or email address required)*
 * [Git](https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR) - Gwendolyn Faraday
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) - Briana Marie, freeCodeCamp.org (YouTube)
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG) - Raghav Pal, Automation Step by Step
@@ -720,6 +732,7 @@
 * [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - Jafar Husain
 * [Beginner's Series to: JavaScript](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer (YouTube)
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
+* [Creative Coding for Complete Beginners](https://youtube.com/playlist?list=PLUG_f-krxzVrRCOjGFwOuYj3QarVfPWXK) - Algorithmic Art
 * [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - André Staltz
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath (YouTube)
 * [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function» (YouTube)
@@ -811,6 +824,7 @@
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
 * [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)
 * [Learn React for Free](https://scrimba.com/learn/learnreact) - Bob Ziroll (scrimba)
+* [Learn ReactJS](https://www.codecademy.com/learn/react-101) - Codecademy
 * [React](https://progate.com/languages/react) (progate) *(account required)*
 * [React basic in just 1 hour](https://www.udemy.com/course/react-basic-in-just-1-hour/) (Udemy)
 * [React Context & Hooks Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) - The Net Ninja
@@ -1046,6 +1060,7 @@
 
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
+* [Automate with Python - Full course for Beginners](https://www.youtube.com/watch?v=PXMJ6FS7llk) - FreeCodeCamp
 * [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
 * [Berkeley's Structure and Interpretation of Computer Programs](https://cs61a.org)
 * [Codesdope](https://www.codesdope.com/python-introduction)
@@ -1191,6 +1206,7 @@
 * [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014) - Prof. Nickolai Zeldovich (MIT OpenCourseWare)
 * [Ethical Hacking](https://www.hacker101.com/videos) - Hacker101
 * [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) - Wenke Lee, Mustaque Ahamad, Catherine Gamboa (Udacity)
+* [Modern Binary Exploitation](https://github.com/RPISEC/MBE) - RPISEC
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)

@@ -30,6 +30,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Carbon](#carbon)
 * [Chapel](#chapel)
 * [Cilk](#cilk)
 * [Clojure](#clojure)
@@ -270,8 +271,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### APL
 
-* [A Practical Introduction to APL1 & APL2](http://robertson.uk.net/Files/APL1&2.pdf) - Graeme Donald Robertson (PDF)
-* [A Practical Introduction to APL3 & APL4](http://robertson.uk.net/Files/APL3&4.pdf) - Graeme Donald Robertson (PDF)
 * [APL2 at a glance](https://ia801009.us.archive.org/28/items/apl-2-at-a-glance-brown-pakin-polivka/APL2_at_a_Glance_-_Brown_Pakin_Polivka.pdf) - James A. Brown, Sandra Pakin, Raymond P. Polivka - 1988 (PDF) *(:card_file_box: archived)*
 * [Introduction to College Mathematics with A Programming Language (1978)](http://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E. J. LeCuyer (PDF)
 * [Learning APL](https://xpqz.github.io/learnapl) - Stefan Kruger (HTML,PDF,IPYNB)
@@ -287,6 +286,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Arduino
 
+* [Ardiuno Projects Book](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh (PDF)
 * [Arduino-docs : A beginner's guide](https://arduino-doc.readthedocs.io/en/latest/) - Paramesh Chandra (HTML)
 * [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) (:card_file_box: *archived at unglue.it*)
 * [Arduino Tips, Tricks, and Techniques](https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf) - lady ada (PDF)
@@ -537,6 +537,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) - Allen B. Downey (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
 * [Working Draft, Standard for Programming Language C++, 2021 Revision](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) - Thomas Köppe (PDF) *(:construction: in process)*
+
+
+### Carbon
+
+* [Carbon Compiler User Manual](https://documentation-service.arm.com/static/5ed10fa8ca06a95ce53f8dc5)
 
 
 ### Chapel
@@ -1107,6 +1112,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) - Danny Goodman (PDF)
 * [JavaScript Challenges Book](https://tcorral.github.io/javascript-challenges-book/) - Tomás Corral Casas (HTML)
 * [JavaScript ES6 and beyond](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) - Alberto Montalesi (PDF, epub)
+* [JavaScript For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
 * [JavaScript For Cats](http://jsforcats.com) - Maxwell Ogden (HTML)
 * [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Dr. Axel Rauschmayer (HTML)
 * [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/) - Axel Rauschmayer (HTML)
@@ -1293,6 +1299,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - Airbnb
 * [Essential React](https://www.programming-books.io/essential/react/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Hacking with React](http://www.hackingwithreact.com)
+* [Hands on React](https://handsonreact.com/docs/) - Craig Mckeachie
 * [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
@@ -1515,6 +1522,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### MATLAB
 
+* [A Beginner’s Guide to Matlab](http://math.loyola.edu/~loberbro/matlab/Beginners_guide_to_MATLAB.pdf) - Christos Xenophontos (PDF)
 * [An Interactive Introduction to MATLAB](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf) (PDF)
 * [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/software/MatlabNotes.pdf) (PDF)
 * [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
@@ -1966,6 +1974,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) - Wikibooks (2.7)
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
 * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)
+* [Python Programming Exercises, Gently Explained](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) - Al Sweigart (PDF)
 * [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) - Nicolas P. Rougier (PDF)
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
@@ -1981,6 +1990,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
 * [The Python Handbook](https://flaviocopes.com/page/python-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [The Recursive Book of Recursion](https://inventwithpython.com/recursion/) - Al Swigart (HTML) (3.x)
 * [The Standard Python Library](https://web.archive.org/web/20200626001242/http://effbot.org/librarybook/) - Fredrik Lundh
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 * [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)
@@ -2061,6 +2071,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) - Yihui Xie, Amber Thomas, Alison Presmanes Hill
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - Rafael A. Irizarry
+* [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R) - Wikibooks
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) - Colin Gillespie, Robin Lovelace
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman, George Athanasopoulos
 * [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman, Hadley Wickham

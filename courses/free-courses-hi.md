@@ -18,11 +18,13 @@
 * [Databases](#databases)
 * [DevOps](#devops)
 * [Flutter](#flutter)
+* [Game Development](#game-development)
 * [Git and GitHub](#git-and-github)
 * [Golang](#golang)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
     * [Tailwind CSS](#tailwind-css)
+* [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
@@ -34,6 +36,7 @@
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
+* [Matlab](#matlab)
 * [Mongo DB](#mongo-db)
 * [Natural Language Processing](#natural-language-processing)
 * [Networking](#networking)
@@ -47,6 +50,7 @@
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Software Engineering](#software-engineering)
+* [Swift](#swift)
 * [System Design](#system-design)
 
 
@@ -108,6 +112,7 @@
 
 * [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0) - Code Eater (YouTube)
 * [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLRlT7xBRpp9MiMN25XJjUVz01rGFQohq2) - Innovate India
+* [Complete Blockchain Development Course for Beginners in Hindi](https://www.youtube.com/watch?v=RkYVVC2vXho) - web3Mantra
 * [Solidity ^0.8 | Blockchain | In Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding (YouTube)
 
 
@@ -159,6 +164,7 @@
 ### Computer Graphics
 
 * [Computer Graphics](https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T) - 5 Minutes Engineering
+* [Computer Graphics and Multimedia (CGMM) Lectures in Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnaTVCcd954N14bVOOgYh-2V) - Easy Engineering Classes
 
 
 ### Computer Organization and Architecture
@@ -214,6 +220,12 @@
 * [Flutter Widgets in Hindi](https://www.youtube.com/playlist?list=PLz7ymP4HzwSH3vAnhDWLkO2TLbwGeigl7) - Ahirlog
 
 
+### Game Development
+
+* [Complete Course on Python Game Development](https://www.youtube.com/watch?v=Wg9J5kiX0wY) - Techonical Infotech Pvt. Ltd.
+* [Game Development Course](https://www.youtube.com/playlist?list=PLBh8phtAyHPUY9fqgs1w6aHJALJ3_fMSc) - Farhan Aqeel
+
+
 ### Git and GitHub
 
 * [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
@@ -257,6 +269,12 @@
 * [Tailwind css hindi](https://www.youtube.com/playlist?list=PLLCu4ndnReXLXfD-iIGBEB6_l8uF6TMNO) - NST Infotech
 * [Tailwind CSS In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3l8tWTcB7R7Bsgd86lCa8a) - Thapa Technical
 * [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry
+
+
+### iOS
+
+* [iOS App Development Crash Course in Hindi](https://www.youtube.com/watch?v=n7qOGHWunUY) - Akash Padhiyar
+* [IOS Mobile App Development Tutorial for beginners](https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo) - Fahad Hussain
 
 
 ### Java
@@ -360,6 +378,12 @@
 * [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
 
 
+### Matlab
+
+* [Matlab Complete Course](https://www.youtube.com/watch?v=iS5J4TlLSEM) - Armughan Ali
+* [MATLAB Complete Tutorial in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfdIlwG649bdzVHM4iLbD_H) - WsCube Tech
+
+
 ### Mongo DB
 
 * [Mongo DB full course for beginners](https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa) -Thapa Technical
@@ -453,6 +477,11 @@
 ### Software Engineering
 
 * [Software Engineering](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2) - Gate Smashers
+
+
+### Swift
+
+* [Swift Tutorials For Beginners(Full) in Hindi.](https://www.youtube.com/playlist?list=PLWZIhpNhtvfqBd00bF3ouroGHMPe-iroO) - Yogesh Patel
 
 
 ### System Design

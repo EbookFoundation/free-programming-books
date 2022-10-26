@@ -55,7 +55,7 @@
     * [Redux](#redux)
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
-* [Julia](#julia)   
+* [Julia](#julia)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -126,6 +126,8 @@
 * [Advanced Data Structures](https://www.youtube.com/playlist?list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT) - Uzair Javed Akhtar
 * [Algorithm Design and Implementation](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5)
 * [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
+* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1?irclickid=SQM2%3Av1lzxyNWx23lZzfxRkzUkDV9sSvFzUHxo0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3552395&utm_content=b2c) - Princeton University (Coursera)
+* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2?irclickid=SQM2%3Av1lzxyNWx23lZzfxRkzUkDV9p02FzUHxo0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3552395&utm_content=b2c) - Princeton University (Coursera)
 * [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Pasan Premaratne, Jay McGavren (freeCodeCamp)
 * [Analysis of Algorithms (CSE 373)](https://www3.cs.stonybrook.edu/~skiena/373/videos) - Steven Skiena
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
@@ -278,7 +280,7 @@
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane (freeCodeCamp)
 * [Learn C Programming](https://www.programiz.com/c-programming) - Programiz (HTML)
-* [Programming in C](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) - Jenny's lectures CS/IT NET&JRF 
+* [Programming in C](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) - Jenny's lectures CS/IT NET&JRF
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 
 
@@ -809,6 +811,7 @@
 * [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - Brad Traversy, Traversy Media (YouTube)
 * [ExpressJS Fundamentals](https://www.udemy.com/course/expressjs-fundamentals/) - Patrick Schroeder (Udemy)
 * [Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY) - John Smilga, Coding Addict (YouTube)
+* [Node / Express Course](https://www.youtube.com/watch?v=qwfE7fSVaZM) - Freecodecamp (Youtube)
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (YouTube)
 * [Node.js Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) - The Net Ninja

@@ -1033,6 +1033,7 @@
 * [Learn Top Ten Frameworks In PHP By Building Projects](https://www.eduonix.com/courses/Web-Development/learn-top-ten-frameworks-in-php-by-building-projects) - Eduonix Learning Solutions *(account or email address required)*
 * [Object-Oriented PHP For Beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV) - Dary Nazar (Code with Dary)
 * [Object Oriented PHP Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy) - Shaun Pelling (The Net Ninja)
+* [PHP](https://www.sololearn.com/learning/1059) - (SoloLearn)
 * [PHP (\& MySQL) Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o) - Shaun Pelling (The Net Ninja)
 * [PHP & MySQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b) - The Bad Tutorials (2015)
 * [PHP Courses for Beginner](https://www.learn-php.org) - Learn-PHP.org

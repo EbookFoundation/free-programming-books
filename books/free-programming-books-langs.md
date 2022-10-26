@@ -658,6 +658,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Data Management for Analytics and Applications (2021)](https://bookdown.org/kokkodis/book/) - Marios Kokkodis
 * [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
+* [Fundamentals of Database Systems](https://docs.ccsu.edu/curriculumsheets/ChadTest.pdf) (PDF)
 
 
 ### Delphi / Pascal

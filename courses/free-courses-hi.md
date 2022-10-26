@@ -101,11 +101,12 @@
 * [x64 Assembly Language](https://www.youtube.com/playlist?list=PL-DxAN1jsRa-3KzeQeEeoL_XpUHKfPL1u) - The Cyber Expert
 
 
-### Bash and Shell
+### 
+and Shell
 
 * [Bash Basic Commands](https://youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM) - Noob Coders
-* [Bash Shell Scripting (NOOB)](https://youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe) - Noob Coders
 * [Bash scripting tutorial for beginners | learn shell scripting in one video in Hindi English](https://www.youtube.com/watch?v=9T2nEXlLy9o&list=PLxLRoXCDIalcosmDOQizh31EIHEK1njfO&index=1&ab_channel=FortifySolutions) - Fortify Solutions (Savita Dadhwal, Soniya)
+* [Bash Shell Scripting (NOOB)](https://youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe) - Noob Coders
 * [shell scripting complete tutorial in hindi](https://youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
 
 

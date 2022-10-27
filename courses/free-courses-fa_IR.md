@@ -5,18 +5,19 @@
 * [Git](#git)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [React](#react)
+    * [React](#react)
+    * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Network](#network)
 * [PHP](#php)
-  * [Codeigniter](#codeigniter)
-  * [Laravel](#laravel)
-  * [Yii](#yii)
+    * [Codeigniter](#codeigniter)
+    * [Laravel](#laravel)
+    * [Yii](#yii)
 * [Python](#python)
-  * [Django](#django)
-  * [Flask](#flask)
+    * [Django](#django)
+    * [Flask](#flask)
 * [Web Development](#web-development)
 
 
@@ -49,13 +50,18 @@
 
 ### JavaScript
 
-* [آموزش جاوا اسکریپت برای مبتدیان](https://youtube.com/playlist?list=PLV6mGBuPqmYuZEAJN7IBxkdNCzKXAGpqD) - Mansour Kalagar
-* [دوره اموزشی جاوا اسکریپت از صفر](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF) - Silicium
+* [آموزش فارسی جاوا اسکریپت مقدماتی تا پیشرفته - JavaScript Tutorial](https://youtube.com/playlist?list=PLfbD3-Ao6cPpt5Y3Nkue_W-DrmdOLOaTH) - Mansour Kalagar
+* [دوره اموزشی جاوا اسکریپت از صفر](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF) - Mehran Tarif (Silicium)
 
 
 #### React
 
 * [ری اکت جی اس ۲۰۲۰](https://www.youtube.com/playlist?list=PL3Y-E4YSE4wZpWH8CXwPBI1F13KhkIDEx) - Amir Azimi
+
+
+#### Vue.js
+
+* [آموزش Vue.js از صفر تا صد با 8 درس رایگان](https://sariasan.com/featured/vue-free-full-lessons) - میلاد حیدری
 
 
 ### Kotlin
@@ -67,6 +73,7 @@
 
 ### Linux
 
+* [آموزش رایگان لینوکس](https://www.youtube.com/playlist?list=PLFK3-mgWZHcpWSFgpy-uEwIb6xjj4vfkB) - Morteza Bashsiz
 * [آموزش لینوکس - سکان‌آکادمی](https://sokanacademy.com/courses/linux) - Behzad Moradi
 * [آموزش لینوکس برای آدم های شاد](https://www.youtube.com/playlist?list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd) - Jadi Mirmirani
 * [آموزش لینوکس مقدماتی](https://www.youtube.com/watch?v=ZwaBNkQKrts&list=PLPj7mSUQL4v_oVLO-2Q1QQ9fAH45u8z4A) - Hamid Emamian
@@ -114,22 +121,26 @@
 * [آموزش پایتون - سکان‌آکادمی](https://sokanacademy.com/courses/python) - Narges Asadi
 * [آموزش پایتون مقدماتی](https://gotoclass.ir/courses/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86) - Jadi Mirmirani
 * [دوره آموزش رایگان زبان پایتون ( Python ) از مقدماتی تا پیشرفته](https://toplearn.com/courses/2150/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(-python-)) - Mohammad Ordokhani (TopLearn) *(نیاز به ثبت نام دارد)*
+* [دوره مقدماتی تا پیشترفته پایتون - کدتراپی](https://www.youtube.com/playlist?list=PLSMC8KtOWURqgm0c6iVXrGzK4ymzJUnfj) - CodeTherapy
 
 
-  ### Django
+### Django
 
-  * [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Silicium
-  * [سوکت نویسی با کتابخانه جنگو چنلز](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) - Shahriar Shariati
+* [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Mehran Tarif (Silicium)
+* [سوکت نویسی با کتابخانه جنگو چنلز](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) - Shahriar Shariati
+* [Django2 All In One Course - دوره کامل جنگو و مهندسی بک اند](https://www.youtube.com/playlist?list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr) - Boby Cloud
 
 
-  ### Flask
+### Flask
 
-  * [ آموزش توسعه وب با فریم‌ورک فلسک](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) - Alireza Ayinmehr
+* [آموزش توسعه وب با فریم‌ورک فلسک](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) - Alireza Ayinmehr
 
 
 ### Web Development
 
+* [آموزش اینسپکت المنت](https://holosen.net/inspect-element-1/) - Hossein Badrnezhad
+* [آموزش طراحی وب](https://www.youtube.com/playlist?list=PLF10DSJQktjlCvLNuyxNjMPIHThHuIVqG) - Siavash Mahmoudian
 * [برنامه نویسی وب](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74) - Mohammad Salehe
-* [برنامه نویسی وب با HTML و CSS](https://holosen.net/web-design/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)* 
-* [دوره اموزشی بوت استرپ 5](https://www.youtube.com/playlist?list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Mehran Tarif «Silicium»
-
+* [برنامه نویسی وب با HTML و CSS](https://holosen.net/web-design/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)*
+* [دوره اموزشی بوت استرپ 5](https://www.youtube.com/playlist?list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Mehran Tarif (Silicium)
+* [وب‌فریم‌ورک‌ها چگونه کار می‌کنند؟](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ33x-___WkhyTJ8dDPaoOPk) - Shahriar Shariati

@@ -1,11 +1,12 @@
 ### Index
 
+* [APL](#apl)
+* [Assembly](#assembly)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
-* [CSS](#css)
 * [Dart](#dart)
 * [Docker](#docker)
 * [Elm](#elm)
@@ -14,10 +15,11 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
+* [HTML and CSS](#html-and-css)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [AngularJS](#angularjs)
+    * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
@@ -35,28 +37,48 @@
 * [Rust](#rust)
 * [RxJS](#rxjs)
 * [Scala](#scala)
+* [Scratch](#scratch)
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Svelte](#svelte)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 * [V](#v)
 
 
-### <a name="c"></a>C
+### APL
 
+* [APLgolf](https://razetime.github.io/APLgolf)
+* [ngn/apl](https://abrudz.github.io/ngn-apl)
+* [TryAPL](https://tryapl.org)
+* [TryAPL Mini](https://janiczek.github.io/tryapl-elm)
+
+
+### Assembly
+
+* [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
+
+
+### <a id="c"></a>C
+
+* [InterviewBit - Online C Compiler IDE](https://www.interviewbit.com/online-c-compiler/)
+* [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
+* [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/c)
 
 
-### <a name="csharp"></a>C#
+### <a id="csharp"></a>C\#
 
+* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 
-### <a name="cpp"></a>C++
+### <a id="cpp"></a>C++
 
+* [Coding Blocks](https://ide.codingblocks.com)
 * [Coding Minutes](https://ide.codingminutes.com)
+* [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
 * [LabStack](https://code.labstack.com/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)
@@ -73,23 +95,14 @@
 * [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
 
 
-### CSS
-
-* [CodePen](https://codepen.io)
-* [CSSdeck](https://cssdeck.com)
-* [Dabblet](https://dabblet.com)
-* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
-* [SoloLearn](https://code.sololearn.com/web#css)
-
-
 ### Dart
 
 * [DartPad](https://dartpad.dev)
+* [Replit](https://replit.com/languages/dart)
 
 
 ### Docker
 
-* [Katakoda](https://www.katacoda.com/courses/docker/playground)
 * [Play with Docker](https://labs.play-with-docker.com)
 
 
@@ -126,6 +139,16 @@
 * [Try Haskell](https://www.tryhaskell.org)
 
 
+### HTML and CSS
+
+* [CodePen](https://codepen.io)
+* [CSSdeck](https://cssdeck.com)
+* [Dabblet](https://dabblet.com)
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+* [SoloLearn](https://code.sololearn.com/web#css)
+* [Tailwind Play](https://play.tailwindcss.com)
+
+
 ### Ionic
 
 * [StackBlitz](https://stackblitz.com/fork/ionic)
@@ -133,6 +156,10 @@
 
 ### Java
 
+* [InterviewBit - Online Java Compiler IDE](https://www.interviewbit.com/online-java-compiler/)
+* [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
+* [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
 * [SoloLearn](https://code.sololearn.com/java)
 
@@ -144,8 +171,10 @@
 * [Esfiddle](https://esfiddle.net)
 * [Grasshopper](https://grasshopper.app) *(Google account required)*
 * [Hello Website - (Glitch)](https://glitch.new/website) *(Account requested, not required)*
+* [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
+* [OneCompiler](https://onecompiler.com/javascript)
 * [Plunker](https://plnkr.co)
 * [SoloLearn](https://code.sololearn.com/web#javascript)
 
@@ -166,11 +195,10 @@
 
 ### Kubernetes
 
-* [Katakoda](https://www.katacoda.com/courses/kubernetes/playground)
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
-### <a name="dotnet"></a>.NET
+### <a id="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
 
@@ -189,6 +217,7 @@
 
 ### OCaml
 
+* [OCaml Playground](https://ocaml.org/play)
 * [Try OCaml](https://try.ocamlpro.com)
 
 
@@ -209,10 +238,15 @@
 ### Python
 
 * [Codepad](http://codepad.org/?lang=Python)
+* [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
+* [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
+* [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Trinket](https://trinket.io/python)
+* [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
+* [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz
 
 
 ### R
@@ -262,8 +296,13 @@
 
 ### Scala
 
-* [ScalaFiddle.io](https://scalafiddle.io)
+* [JDoodle](https://www.jdoodle.com/compile-scala-online)
 * [Scastie](https://scastie.scala-lang.org)
+
+
+### Scratch
+
+* [Scratch.mit.edu](https://scratch.mit.edu/create)
 
 
 ### Solidity
@@ -276,6 +315,7 @@
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
 * [SQLFiddle](http://sqlfiddle.com)
+* [SQLite Online](https://sqliteonline.com)
 
 
 ### Svelte
@@ -296,14 +336,14 @@
 * [StackBlitz](https://stackblitz.com/fork/typescript)
 
 
-### V
-
-* [V Playground](https://play.vlang.io) - vlang.io
-
-
 #### Angular
 
 > :information_source: See also &#8230; [AngularJS](#angularjs)
 
 * [Plunker](https://plnkr.co)
 * [StackBlitz](https://stackblitz.com/fork/angular)
+
+
+### V
+
+* [V Playground](https://play.vlang.io) - vlang.io

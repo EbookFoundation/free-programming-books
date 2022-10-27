@@ -1,0 +1,27 @@
+### Index
+
+*[Android](https://developer.android.com/docs)
+*[Azure](https://learn.microsoft.com/en-us/docs)
+*[AWS](https://docs.aws.amazon.com)
+*[Blockchain](https://readthedocs.org/projects/blockchain-guide/downloads/pdf/latest)
+*[C](https://en.cppreference.com/w/c/language)
+*[C++](https://en.cppreference.com/w)
+*[C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp)
+*[DevOps](https://opensource.com/article/21/3/devops-documentation)
+*[Ethereum](https://ethereum.org/en/developers/docs)
+*[Flutter](https://docs.flutter.dev)
+*[Frontend]
+    *[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    *[CSS](w3schools.com/css)
+    *[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    *[Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction)
+    *[jQuery](https://api.jquery.com)
+*[Git](https://git-scm.com/doc)
+*[GitHub](https://docs.github.com/en)
+*[Kotlin](https://kotlinlang.org/docs/home.html)
+*[Markdown](https://www.markdownguide.org/getting-started)
+*[Python](https://docs.python.org/3)
+*[Smart-Contracts](https://docs.openzeppelin.com/learn/developing-smart-contracts)
+*[Solidity](https://docs.soliditylang.org/en/v0.8.17)
+*[Swift](https://www.swift.org/getting-started)
+

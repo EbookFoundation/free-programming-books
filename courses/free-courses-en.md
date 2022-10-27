@@ -54,6 +54,7 @@
     * [React Native](#react-native)
     * [Redux](#redux)
     * [Svelte](#svelte)
+    * [Three.js](#threejs)
     * [Vue.js](#vuejs)
 * [Julia](#julia)   
 * [Kotlin](#kotlin)
@@ -865,6 +866,8 @@
 * [Learn the Svelte JavaScript Framework](https://www.youtube.com/watch?v=ujbE0mzX-CU) - Noah Glaser, freeCodeCamp (YouTube)
 * [Svelte Tutorial](https://www.youtube.com/watch?v=vhGiGqZ78Rs) - Beau Carnes, freeCodeCamp (YouTube)
 
+#### Three.js
+* [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses (YouTube)
 
 #### Vue.js
 

@@ -1012,6 +1012,7 @@
 * [Berkeley's CS 162: Operating Systems and Systems Programming](https://www.youtube.com/watch?v=feAOZuID1HM)
 * [Berkeley's CS 194: What is an Operating System?](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html)
 * [Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) - Neso Academy
+* [Operating System (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p) - Gate Smashers
 
 
 ### Perl

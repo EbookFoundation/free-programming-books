@@ -23,6 +23,7 @@
     * [jQuery](#jquery)
     * [node.js](#nodejs)
     * [React](#react)
+* [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
@@ -236,6 +237,11 @@
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux/read) - Sergio Daniel Xalambrí (HTML)
 * [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen, `trl.:` Raúl Expósito (HTML, PDF)
+
+
+### Kotlin
+
+* [Curso programación Android en Kotlin](https://cursokotlin.com/curso-programacion-kotlin-android/) - AristiDevs (HTML)
 
 
 ### LaTeX

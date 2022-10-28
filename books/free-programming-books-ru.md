@@ -92,7 +92,7 @@
 
 #### Архитектура приложений
 
-* [API](https://twirl.github.io/The-API-Book/index.ru.html) - Сергей Константинов (HTML, PDF, EPUB)
+* [The API](https://twirl.github.io/The-API-Book/index.ru.html) - Сергей Константинов (HTML, PDF, EPUB)
 
 
 #### Облачные вычисления

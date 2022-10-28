@@ -30,6 +30,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Carbon](#carbon)
 * [Chapel](#chapel)
 * [Cilk](#cilk)
 * [Clojure](#clojure)
@@ -538,6 +539,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Working Draft, Standard for Programming Language C++, 2021 Revision](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) - Thomas Köppe (PDF) *(:construction: in process)*
 
 
+### Carbon
+
+* [Carbon Compiler User Manual](https://documentation-service.arm.com/static/5ed10fa8ca06a95ce53f8dc5)
+
+
 ### Chapel
 
 * [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
@@ -598,6 +604,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown) - J. Casimir
 * [Learn CF in a Week](http://learncfinaweek.com)
+* [Learn Modern ColdFusion \<CFML\> in 100+ Minutes](https://modern-cfml.ortusbooks.com) - Luis Majano (HTML)
 * [Learning coldfusion](https://riptutorial.com/Download/coldfusion.pdf) - Compiled from StackOverflow documentation (PDF)
 
 
@@ -872,6 +879,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Haskell](https://en.wikibooks.org/wiki/Haskell) - Wikibooks
 * [Haskell no panic](http://lisperati.com/haskell/) - Conrad Barski
 * [Haskell Notes for Professionals](https://goalkicker.com/HaskellBook/) - Compiled from StackOverflow documentation (PDF)
+* [Haskell Tutorial and Cookbook](https://markwatson.com/books/haskell-cookbook-site/) - Mark Watson
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/) - Yann Esposito
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovaca
@@ -1290,6 +1298,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### React
 
+* [30 days of React: An introduction to React in 30 bite-size morsels](https://www.newline.co/fullstack-react/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf) - Ari Lerner (PDF)
 * [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - Airbnb
 * [Essential React](https://www.programming-books.io/essential/react/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Hacking with React](http://www.hackingwithreact.com)
@@ -1885,6 +1894,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) - Al Sweigart (3.x)
 * [Biopython Tutorial and Cookbook](https://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
 * [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
+* [Building Data Products: The Ultimate Guide](https://resources.montecarlodata.com/c/ebook-building-data-products?x=gEwOdf) (HTML, EPUB)
 * [Building Skills in Object-Oriented Design, V4](https://slott56.github.io/building-skills-oo-design-book/build/html/) - Steven F. Lott (3.7)
     * [Building Skills in Object-Oriented Design, Release 2.2.1](https://web.archive.org/web/20150824204101/http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/latex/BuildingSkillsinOODesign.pdf) - Steven F. Lott (PDF) (2.2.1)
     * [Building Skills in Object-Oriented Design, Release 3.1](https://web.archive.org/web/20160322093622/http://buildingskills.itmaybeahack.com/book/oodesign-3.1/latex/BuildingSkillsinObject-OrientedDesign.pdf) - Steven F. Lott (PDF) (3.1)
@@ -1919,6 +1929,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
 * [Introduction to Python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
 * [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf) - Kevin Sheppard (PDF) (3.8)
+* [Introduction to Scientific Programming with Python](https://library.oapen.org/bitstream/id/56d27e73-e92a-4398-8198-239be7aacc93/2020_Book_IntroductionToScientificProgra.pdf) - Joakim Sundnes (PDF)
 * [Invent Your Own Computer Games With Python](https://inventwithpython.com/invent4thed/) - Al Sweigart (3.4)
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
 * [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
@@ -2005,6 +2016,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) (PDF) (2.2)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.1.x/django.pdf) (PDF) (3.1)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf) (PDF) (3.2)
+* [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/4.0.x/django.pdf) (PDF) (4.0)
 * [Django Rest Framework](https://riptutorial.com/Download/django-rest-framework.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
 * [Django Web Framework (Python)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - MDN contributors

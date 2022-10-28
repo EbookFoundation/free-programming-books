@@ -14,6 +14,7 @@
 ### Algoritmalar
 
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
+* [Algoritmaları Anlamak](https://www.youtube.com/playlist?list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ) - Fatih Özkaynak
 
 
 ### HTML and CSS
@@ -56,6 +57,7 @@
 
 * [Komple React, Redux ve Hooks Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be) - Engin Demiroğ
 * [React Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj) - Mustafa Murat Coşkun
+* [Sıfırdan Uygulamalı React Geliştirme: Hooks,Redux & Firebase](https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb) - Sadık Turan
 
 
 ### Temel programlama
@@ -68,5 +70,5 @@
 ### Version Control Systems
 
 * [Git Giriş Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya \| Kodluyoruz
+* [Git, GitHub ve GitLab Kullanımı](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Barış Aslan
 * [Git İleri Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
-

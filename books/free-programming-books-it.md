@@ -49,7 +49,7 @@
 #### Metodologie di sviluppo del software
 
 * [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia, A. Schaerf (PDF)
-* [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
+* [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html) - Massimo Maria Ghisalberti
 
 
 #### Open source
@@ -266,7 +266,6 @@
 
 * [Applicazioni con Angular e PHP, la guida](https://www.html.it/guide/applicazioni-con-angular-e-php-la-guida/) - Lorenzo De Ambrosis (HTML)
 * [Guida Angular 2](https://www.html.it/guide/guida-angularjs-2/) - Andrea Chiarelli (HTML)
-* [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
 
 
 ### UML

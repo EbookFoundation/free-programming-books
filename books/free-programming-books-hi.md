@@ -1,8 +1,6 @@
 ### Index
 
 * [C++](#cpp)
-* [Java](#java)
-* [Python](#python)
 
 
 ### <a id="cpp"></a>C++

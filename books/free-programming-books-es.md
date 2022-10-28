@@ -135,7 +135,7 @@
 
 ### Ensamblador
 
-* [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme AKA AESOFT (HTML)
+* [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme (HTML)
 * [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A. Carter, `trl.:` Leonardo Rodríguez Mújica (PDF)
 
 

@@ -56,7 +56,7 @@
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
 * [Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) - Cláudio Rogério Carvalho Filho (eXcript)
-* [Curso de Programação C Completo](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA) - Programe seu futuro (YouTube)
+* [Curso de Programação C Completo](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA) - Programe seu futuro
 * [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (YouTube)
 
 
@@ -83,7 +83,7 @@
 
 ### Dart
 
-* [Curso Dart](https://www.youtube.com/playlist?list=PLAqdhPoZdJtBnMfZtpExJlFTuuXE0TabS/) - Luis Claudio Leite Pereira (YouTube)
+* [Curso Dart](https://www.youtube.com/playlist?list=PLAqdhPoZdJtBnMfZtpExJlFTuuXE0TabS) - Luis Claudio Leite Pereira 
 * [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy)
 * [Lógica de Programação com Dart](https://www.udemy.com/course/logica-de-programacao-com-dart/) - Jacob Moura (Udemy)
 

@@ -74,6 +74,7 @@
 ### Java
 
 * [Плейлист видео по Java для новичков](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
+* [javaswag](https://soundcloud.com/javaswag)
 
 
 #### Spring

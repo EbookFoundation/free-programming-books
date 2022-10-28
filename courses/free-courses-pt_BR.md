@@ -304,7 +304,7 @@
 * [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Gustavo Guanabara, Joao Pedro Araujo (Curso em Vídeo)
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
-* [Do zero à implantação utilizando Python](https://github.com/cassiobotaro/do_zero_a_implantacao) - Cássio Botaro, et al.
+* [Do zero à implantação](https://cassiobotaro.dev/do_zero_a_implantacao/) - Cássio Botaro
 * [Estruturas compostas em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Gustavo Guanabara (Curso em Vídeo)
 * [Estruturas de controle em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (Curso em Vídeo)
 * [Fundamentamentos em Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)

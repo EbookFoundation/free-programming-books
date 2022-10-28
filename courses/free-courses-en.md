@@ -869,7 +869,7 @@
 
 #### Three.js
 
-* [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses (YouTube)
+* [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses
 
 
 #### Vue.js

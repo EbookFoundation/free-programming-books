@@ -97,7 +97,7 @@
 
 #### Inteligencia Artificial
 
-* [Libro online de IAAR](https://iaarbook.github.io/) - Raúl E. López Briega, IAAR (HTML)
+* [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
 
 
 #### Metodologías de desarrollo de software

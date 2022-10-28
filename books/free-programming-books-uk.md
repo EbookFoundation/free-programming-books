@@ -40,7 +40,6 @@
 ### Language Agnostic
 
 * [Дизайн-патерни - просто, як двері](http://designpatterns.andriybuday.com) - Андрій Будай
-* []
 
 ### PHP
 

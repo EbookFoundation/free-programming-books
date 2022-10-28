@@ -65,6 +65,7 @@ CSE Tamila by Eezytutorials
 * [JavaScript Crash Course From Scratch to Advanced in Tamil](https://www.youtube.com/playlist?list=PLyYcNnaAVG5IIyPjuzWOgqFxDORHqRN2W) - selva tutorials
 * [Javascript Full Course in Tamil - in Depth Javascript Tutorials in Tamil](https://youtube.com/playlist?list=PLpYn3LR7eQI3hjh129Bkqkw7onut28hTK) - Tamil Developer
 * [JavaScript in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa) - CyberDude Networks Pvt. Ltd.
+* [Learn JavaScript Full Course in Tamil](https://www.youtube.com/playlist?list=PLyYcNnaAVG5IIyPjuzWOgqFxDORHqRN2W) - selva tutorials
 
 
 ### Machine Learning

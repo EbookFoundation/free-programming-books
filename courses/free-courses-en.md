@@ -970,6 +970,7 @@
 ### MATLAB
 
 * [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) (coursera)
+* [Image Processing Using Matlab](https://youtube.com/playlist?list=PLEo-jHOqGNyUWoCSD3l3V-FjX9PnHvx5n) - Rashi Agarwal
 * [Introduction to Matlab in English](https://www.youtube.com/playlist?list=PLGED90Y_uL1KLpdRmVtwfpNoYCWU9RPkK) - Mohammed Mohammed
 * [MATLAB and Simulink Training](https://matlabacademy.mathworks.com)
 * [MATLAB Programming for Numerical Computation NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN) - Niket Kaisare NPTEL (YouTube)

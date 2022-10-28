@@ -5,6 +5,7 @@
 * [C](#c)
 * [C++](#cpp)
 * [Data Structures and Algorithms](#dsa)
+* [Flutter](#flutter)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -43,6 +44,12 @@
 
 * [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - 
 CSE Tamila by Eezytutorials
+
+
+### Flutter
+
+* [Flutter in Tamil](https://www.youtube.com/playlist?list=PLBngtsPyn30HYEkmqIqZwvLl0c8zWqCtx) - 
+Learn all in tamil
 
 
 ### HTML and CSS

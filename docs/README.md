@@ -111,7 +111,6 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Code of Conduct](CODE_OF_CONDUCT-th.md)
   - [How-to](HOWTO-th.md)
 - Turkish / Türkçe
-  - [Code of Conduct](CODE_OF_CONDUCT-tr.md)
   - [How-to](HOWTO-tr.md)
 - Ukrainian / Українська
   - [Кодекс Поведінки](CODE_OF_CONDUCT-uk.md)

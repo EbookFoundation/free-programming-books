@@ -75,6 +75,7 @@
 * [Educando Geek](https://educandogeek.github.io) - Juanjo Gurillo (podcast)
 * [Frikismo Puro](https://www.ivoox.com/podcast-frikismo-puro_sq_f1268809_1.html) - Francisco Javier Gárate Soto, Juan Leiva (podcast)
 * [Hijos de la Web](https://www.ivoox.com/podcast-hijos-web_sq_f1588708_1.html) - Hector Trejo, Juan José Gutierrez, Óscar Miranda (podcast)
+* [HolaMundo](https://www.youtube.com/c/HolaMundoDev) - Nicolas Schurmann (youtube channel)
 * [iCharlas](https://www.ivoox.com/podcast-icharlas-podcast_sq_f155400_1.html) - Manuel Terrón, Philippe Rochette (podcast)
 * [La Tecnologería](https://tecnologeria.com) - Pablo Trinidad, Frank Blanco, Clarisa Guerra, Adrián Mesa, Jorge Cantón, José María García, Manuel Fernández, Iñigo Sendino (podcast)
 * [Más allá de la innovación](https://masalladelainnovacion.com/todos-los-podcasts/) - Philippe Lardy, Rosa Cano, Jose Miguel Parella, Paco Estrada, Mónica del Valle, Beatriz Ferrolasa (podcast)

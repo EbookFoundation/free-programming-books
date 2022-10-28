@@ -21,7 +21,7 @@
 * [C++ Language](https://cplusplus.com/doc/tutorial/)
 * [C++ Tutorial](https://www.w3schools.com/cpp/)
 * [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
-* [Practical C++ Programming](https://personal.utdallas.edu/~veerasam/lectures/KG/AdvJava/basicsCC++1.pdf) (PDF)
+* [C/C++ Basics](https://personal.utdallas.edu/~veerasam/lectures/KG/AdvJava/basicsCC++1.pdf) (PDF)
 
 
 ### Javascript

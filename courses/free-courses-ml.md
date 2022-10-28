@@ -4,6 +4,7 @@
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
 * [C++](#cpp)
+* [Compiler Design](#compiler-design)
 * [Data Structure](#data-structure)
 * [Flutter](#flutter)
 * [Git](#git)
@@ -33,11 +34,16 @@
 
 * [C programming malayalam tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUXh0dSzCk3dvQtGmjT9fBBj) - Yes Tech Media
 * [C programming for beginners in malayalam quarantine learning programming malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdEVpp5vyyfKYdv3r2GC777i) - Tintu Vlogger
-
+* [C Programming](https://www.youtube.com/playlist?list=PLwe8bwPXjlLtPlbzxU_SICYI3PeYpEAtJ) - Learn CSE Malayalam (YouTube)
 
 ### <a id="cpp"></a>C++
 
 * [C++ Malayalam Tutorial Full](https://youtube.com/playlist?list=PL1JrLEBAapUXVcHV3rO-g-N4gBHcBe2c-) - Yes Tech Media
+
+
+### <a id="compiler-design"></a>Compiler Design
+
+* [Compiler Design in Malayalam](https://www.youtube.com/playlist?list=PLwe8bwPXjlLtPlbzxU_SICYI3PeYpEAtJ) -  Learn CSE Malayalam (YouTube)
 
 
 ### Data Structure

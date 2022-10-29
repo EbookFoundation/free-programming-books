@@ -145,6 +145,7 @@ This project lists books and other resources grouped by genres:
 + [Korean / 한국어 [韓國語]](courses/free-courses-ko.md)
 + [Malayalam / മലയാളം](courses/free-courses-ml.md)
 + [Nepali / नेपाली](courses/free-courses-ne.md)
++ [Punjabi / ਪੰਜਾਬੀ (India)](courses/free-courses-pa.md)
 + [Persian / Farsi (Iran) / فارسى](courses/free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](courses/free-courses-pl.md)
 + [Portuguese (Brazil)](courses/free-courses-pt_BR.md)

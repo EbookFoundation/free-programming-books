@@ -13,7 +13,6 @@
   (The list of books in English is here for historical reasons.)
 
 
-
 ### <a id="cpp"></a>C++
 
 * [A Complete Guide to Programming in C++](http://www.lmpt.univ-tours.fr/~volkov/C++.pdf) (PDF)
@@ -25,11 +24,9 @@
 * [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://youtu.be/ZzaPdXTrSb8)
 
 
-
 ### Javascript
 
 * [Javascript Tutorial](https://www.w3schools.com/js/)
 * [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
 * [JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]](https://youtu.be/Qqx_wzMmFeA)
-
 

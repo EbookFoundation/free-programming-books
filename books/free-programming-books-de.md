@@ -27,6 +27,7 @@
     * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
+* [R](#r)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
@@ -209,6 +210,11 @@
 #### Django
 
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/de) (1.11) (HTML) (:construction: *in process*)
+
+
+#### R
+
+* [Einführung in R](https://methodenlehre.github.io/einfuehrung-in-R/) (HTML) - Andrew Ellis & Boris Mayer
 
 
 ### Ruby on Rails

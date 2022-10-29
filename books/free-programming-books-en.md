@@ -15,13 +15,13 @@
 ### <a id="cpp"></a>C++
 
 * [A Complete Guide to Programming in C++](http://www.lmpt.univ-tours.fr/~volkov/C++.pdf) (PDF)
+* [C/C++ Basics](https://personal.utdallas.edu/~veerasam/lectures/KG/AdvJava/basicsCC++1.pdf) (PDF)
 * [C++ Language](https://cplusplus.com/doc/tutorial/)
 * [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://youtu.be/ZzaPdXTrSb8)
 * [C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)
 * [C++ Language](https://cplusplus.com/doc/tutorial/)
 * [C++ Tutorial](https://www.w3schools.com/cpp/)
 * [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
-* [C/C++ Basics](https://personal.utdallas.edu/~veerasam/lectures/KG/AdvJava/basicsCC++1.pdf) (PDF)
 
 
 ### Javascript

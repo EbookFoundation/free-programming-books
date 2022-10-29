@@ -323,6 +323,13 @@
 * [Introduction to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud) - CognitiveClass.ai
 
 
+#### Google Cloud
+
+* [Google Cloud Certification: Associate Cloud Engineer Course](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) - Coursera
+* [Google Cloud Certification: Professional Data Engineer Course](https://in.coursera.org/professional-certificates/gcp-data-engineering) - Coursera
+* [Google Cloud Certification: Cloud Digital Leader Course](https://in.coursera.org/professional-certificates/google-cloud-digital-leader-training) - Coursera
+
+
 #### AWS
 
 * [AWS Certified Cloud Practitioner Course](https://youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek

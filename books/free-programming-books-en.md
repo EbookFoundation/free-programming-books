@@ -22,6 +22,8 @@
 * [C++ Language](https://cplusplus.com/doc/tutorial/)
 * [C++ Tutorial](https://www.w3schools.com/cpp/)
 * [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
+* [C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)
+* [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://youtu.be/ZzaPdXTrSb8)
 
 
 ### Javascript

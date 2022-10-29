@@ -140,11 +140,8 @@
 
 * [Belajar Dengan Jenius Amazon Web Service & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/releases/download/1.2/Belajar.Dengan.Jenius.Javascript.Node.pdf) - Gun Gun Febrianza (PDF)
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
-* [Belajar Nodejs #01: Pengenalan Dasar Nodejs (untuk Pemula)](https://www.petanikode.com/nodejs-pemula/) - Petani Kode
 * [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua *(Membutuhkan akun Google Play Books atau email yang valid)*
-* [Node.js Series](https://medium.easyread.co/nodejs-series-belajar-expressjs-dari-awal-yok-400d9a88e73a) - Musliadi
 * [Tutorial Node js untuk pemula Full Tutorial](https://mfikri.com/artikel/tutorial-nodejs) - Mfikri (HTML)
-* [Tutorial Node.JS: Belajar Dasar-Dasar Node JS](https://halovina.com/tutorial-node-js-belajar-dasar-dasar-node-js/) - Halovina
 
 
 ### NoSQL

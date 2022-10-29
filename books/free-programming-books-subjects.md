@@ -702,6 +702,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - Neil D. Jones, C.K. Gomard, Peter Sestoft (PDF)
 
+
 ### Pentesting and Ethical Hacking
 
 * [Anti-Forensics](https://github.com/cbranan/Anti-Forensics) - cbranan
@@ -709,6 +710,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Pentesting Web Checklist](https://pentestbook.six2dez.com/others/web-checklist) - Six2Dez
 * [Regulator- subdomain Enumeration](https://cramppet.github.io/regulator/index.html) - Unknown
 * [Vmware Workstation Pro keys](https://gist.github.com/williamgh2019/cc2ad94cc18cb930a0aab42ed8d39e6f) - williamgh2019
+
 
 ### Professional Development
 

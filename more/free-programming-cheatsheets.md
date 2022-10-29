@@ -4,6 +4,7 @@
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [C](#c)
+* [Competitive Programming cheat sheet](https://medium.com/cheat-sheets/cheat-sheet-for-competitive-programming-with-c-f2e8156d5aa9)
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)

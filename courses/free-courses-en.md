@@ -20,6 +20,7 @@
 * [Compilers](#compilers)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
+* [Cryptography](#cryptography)
 * [CUDA](#cuda)
 * [Dart](#dart)
 * [Data Science](#data-science)
@@ -371,6 +372,13 @@
 * [MIT's Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - John Guttag (MIT OpenCourseWare)
 * [MIT's Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - Ana Bell, Eric Grimson, John Guttag (MIT OpenCourseWare)
 * [MIT's Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+
+
+### Cryptography
+
+* [Introduction to Cryptography](https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography) (Christof Paar)
+* [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
+* [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 
 
 ### Cuda
@@ -1211,8 +1219,6 @@
 * [Ethical Hacking](https://www.hacker101.com/videos) - Hacker101
 * [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) - Wenke Lee, Mustaque Ahamad, Catherine Gamboa (Udacity)
 * [Modern Binary Exploitation](https://github.com/RPISEC/MBE) - RPISEC
-* [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
-* [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
 

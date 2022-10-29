@@ -1,5 +1,6 @@
 ### Index
 
+* [Ansible](#ansible)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [C](#c)
@@ -26,9 +27,11 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
+* [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
+* [Octave](#octave)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -38,6 +41,7 @@
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Scala](#scala)
 * [Shell Scripting](#shell-scripting)
 * [Solidity](#solidity)
 * [SpringBoot](#springboot)
@@ -46,6 +50,15 @@
 * [Terraform](#terraform)
 * [Unit testing](#unit-testing)
 * [Webpack](#webpack)
+
+
+### Ansible
+
+* [Ansible Basic Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet) - Intellipaat (HTML)
+* [Ansible Cheat Sheet](https://sites.google.com/site/mrxpalmeiras/ansible/ansible-cheat-sheet) - Mrxpalmeiras (HTML)
+* [Ansible Cheat Sheet — A DevOps Quick Start Guide](https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0) - edureka (HTML, PDF)
+* [Automate your tasks with this Ansible cheat sheet](https://opensource.com/article/20/11/ansible-cheat-sheet) - Opensource (HTML)
+* [How to Use Ansible: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide) - DigitalOcean (HTML)
 
 
 ### APL
@@ -85,6 +98,7 @@
 
 ### Clojure
 
+* [Clojure](https://www.programming-idioms.org/cheatsheet/Clojure) - Programming-Idioms (HTML)
 * [Clojure Cheatsheet](http://clojure.org/cheatsheet) (HTML)
 
 
@@ -158,6 +172,8 @@
 
 ### GraphQL
 
+* [GraphQL Cheat Sheet](https://licor.me/post/graphql) - Chuanrong Li (HTML)
+* [GraphQL Cheat Sheet](https://simplecheatsheet.com/tag/graphql-cheat-sheet) - Simple Cheat Sheet (HTML)
 * [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
 
 
@@ -266,6 +282,12 @@
 * [Swift and C# Quick Reference - Language Equivalents and Code Examples](http://www.globalnerdy.com/wordpress/wp-content/uploads/2015/03/SwiftCSharpPoster.pdf) - Globalnerdy (PDF)
 
 
+### Machine Learning
+
+* [Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet) - DataCamp Team (HTML)
+* [Super VIP Cheatsheet: Machine Learning](https://sgfin.github.io/files/cheatsheets/cs229_2018_cheatsheet.pdf) - Afshine Amidi and Shervine Amidi (PDF)
+
+
 ### Markdown
 
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Markdown Guide (HTML)
@@ -285,6 +307,11 @@
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
 * [MongoDB Cheat Sheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - codecentric (PDF)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (GitHub Gist)
+
+
+### Octave
+
+* [Octave Cheat Sheet](https://www.lehman.edu/academics/cmacs/documents/refcard-a4.pdf) - John W. Eaton (PDF)
 
 
 ### Perl
@@ -365,6 +392,12 @@
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
 
+### Scala
+
+* [Scala Cheat Sheet](https://warisradji.com/Scala-CheatSheet) - Waris RADJI (HTML)
+* [Scala Cheatsheet](https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf) - Alvin Alexander (PDF)
+
+
 ### Shell Scripting
 
 * [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
@@ -400,6 +433,7 @@
 
 ### Terraform
 
+* [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet) - Gineesh Madapparambath (HTML)
 * [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
 
 

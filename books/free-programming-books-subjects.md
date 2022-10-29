@@ -511,6 +511,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Precalculus](https://stitz-zeager.com) - Carl Stitz, Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
+* [Probability and Statistics in Engineering](https://pdfcoffee.com/probability-and-statistics-in-engineering-by-william-w-hines-douglas-c-montgomery-david-m-goldsman-connie-m-borror-5-pdf-free.html) -William W. Hines (PDF)
 * [Probability: Lectures and Labs](https://www.markhuberdatascience.org/probability-textbook) - Mark Huber
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (PDF)
 * [Sage for Undergraduates](http://www.gregorybard.com/books.html) - Gregory Bard
@@ -525,7 +526,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
 * [Vector Calculus](http://www.mecmath.net) - Michael Corral
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
-* [Probability and Statistics in Engineering]([https://www.poritz.net/jonathan/share/yaintt.pdf](https://pdfcoffee.com/probability-and-statistics-in-engineering-by-william-w-hines-douglas-c-montgomery-david-m-goldsman-connie-m-borror-5-pdf-free.html)) -William W. Hines (PDF)
 
 
 ### Mathematics For Computer Science

@@ -17,7 +17,6 @@
 ### C
 
 * [C ਪ੍ਰੋਗਰਾਮਿੰਗ ਪੰਜਾਬੀ ਵਿੱਚ](https://www.youtube.com/playlist?list=PLV_K8gHBuQuL8KAMgJZtBaEWUhpHVDsc4) - CJ Singh Vlogs(You Tube)
-* [Programming Fundamentals using C BCA Punjabi](https://www.amazon.in/Programming-Fundamentals-using-BCA-Punjabi/dp/9327267885) - Bhatia S.S. Gupta Vikram(Book)
 
 ### <a id="cpp"></a>C++
 

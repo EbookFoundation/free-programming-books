@@ -20,9 +20,7 @@
 * [C++ Tutorial](https://www.w3schools.com/cpp/)
 * [C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)
 * [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://youtu.be/ZzaPdXTrSb8)
-
-* [C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)
-* [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://youtu.be/ZzaPdXTrSb8)
+* [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
 
 
 ### Javascript

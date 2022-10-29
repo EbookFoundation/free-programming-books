@@ -63,7 +63,7 @@
 ### iOS
 
 * [Build Failed](https://twitter.com/buildfailedcast) (podcast)
-* [CocoaHeads](http://www.cocoaheads.com.br/podcasts) (podcast)
+* [CocoaHeads](https://podcasts-brasileiros.com/podcast/cocoaheads-brasil) (podcast)
 
 
 ### Java

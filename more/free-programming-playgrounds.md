@@ -70,6 +70,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 
@@ -97,6 +98,7 @@
 ### Dart
 
 * [DartPad](https://dartpad.dev)
+* [Replit](https://replit.com/languages/dart)
 
 
 ### Docker
@@ -294,7 +296,7 @@
 
 ### Scala
 
-* [ScalaFiddle.io](https://scalafiddle.io)
+* [JDoodle](https://www.jdoodle.com/compile-scala-online)
 * [Scastie](https://scastie.scala-lang.org)
 
 
@@ -313,6 +315,7 @@
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
 * [SQLFiddle](http://sqlfiddle.com)
+* [SQLite Online](https://sqliteonline.com)
 
 
 ### Svelte

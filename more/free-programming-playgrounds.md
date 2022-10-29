@@ -167,6 +167,7 @@
 ### JavaScript
 
 * [CodePen](https://codepen.io)
+* [CodeHS](https://codehs.com/explore/sandbox/javascript)
 * [CodeSandbox.io](https://codesandbox.io)
 * [Esfiddle](https://esfiddle.net)
 * [Grasshopper](https://grasshopper.app) *(Google account required)*
@@ -175,6 +176,7 @@
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
 * [OneCompiler](https://onecompiler.com/javascript)
+* [PlayCode](https://playcode.io/javascript)
 * [Plunker](https://plnkr.co)
 * [SoloLearn](https://code.sololearn.com/web#javascript)
 

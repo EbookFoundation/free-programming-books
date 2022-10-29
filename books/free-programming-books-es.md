@@ -5,6 +5,7 @@
     * [Algoritmos y Estructuras de Datos](#algoritmos-y-estructuras-de-datos)
     * [Base de Datos](#base-de-datos)
     * [Ciencia Computacional](#ciencia-computacional)
+    * [Inteligencia Artificial](#inteligencia-artificial)
     * [Metodologías de Desarrollo de Software](#metodolog&#x00ED;as-de-desarrollo-de-software)
     * [Misceláneos](#miscel&#x00E1;neos)
     * [Sistemas Operativos](#sistemas-operativos)
@@ -92,6 +93,11 @@
 * [Breves Notas sobre Complejidad](https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
 * [Breves Notas sobre Teoría de la Computación](https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
 * [Teoría de la Computación: Lenguajes, Autómatas, Gramáticas](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Archivos_Libros/Libros_Matematicas/_Teoria_de_la_Computacion___lenguajes__automatas__gramaticas._/teoriacomputacion.pdf) - Rodrigo De Castro Korgi (PDF)
+
+
+#### Inteligencia Artificial
+
+* [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
 
 
 #### Metodologías de desarrollo de software

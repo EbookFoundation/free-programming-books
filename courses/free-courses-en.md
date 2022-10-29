@@ -16,7 +16,7 @@
 * [Cloud Computing](#cloud-computing)
     * [AWS](#aws)
     * [Azure](#azure)
-    * [Google Cloud](#Google Cloud)
+    * [Google Cloud](#google-cloud)
     * [IBM](#ibm)
 * [Compilers](#compilers)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)

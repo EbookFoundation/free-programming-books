@@ -68,6 +68,10 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-ko.md)
   - [How-to](HOWTO-ko.md)
 - Malayalam / മലയാളം
+- Malay / Bahasa Melayu
+    - [Code of Conduct](CODE_OF_CONDUCT-my.md)
+    - [How to](HOWTO-my.md)
+    - [Contributing](CONTRIBUTING-my.md)
 - Nepali / नेपाली
   - [आचार संहिता](CODE_OF_CONDUCT-np.md) 
   - [How-to](HOWTO-np.md) 

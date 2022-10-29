@@ -727,7 +727,8 @@
 * [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) - MIT Open Learning Library
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
 * [What is Java?](https://sagecode.net/java/index.html) - Elucian Moise (Sage-Code)
-
+* [Introduction to Java - Architecture & Installation - I](https://www.youtube.com/watch?v=4EP8YzcN0hQ&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=7) - Kunal Kushwaha
+* [First Java Program - Input/Output, Debugging and Datatypes - II](https://www.youtube.com/watch?v=TAtrPoaJ7gc&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=8) - Kunal Kushwaha
 
 ### JavaScript
 

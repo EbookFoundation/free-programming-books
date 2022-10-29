@@ -166,8 +166,8 @@
 
 ### JavaScript
 
-* [CodePen](https://codepen.io)
 * [CodeHS](https://codehs.com/explore/sandbox/javascript)
+* [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io)
 * [Esfiddle](https://esfiddle.net)
 * [Grasshopper](https://grasshopper.app) *(Google account required)*

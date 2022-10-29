@@ -77,6 +77,7 @@ CSE Tamila by Eezytutorials
 ### PHP
 
 * [PHP for beginners In Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfcq_D-sEy0pR4Sl_yipy6Jt) - Tutor Joe's Stanley
+* [PHP in Tamil](https://www.youtube.com/playlist?list=PLmjuBlzAWCzz8Timg5RP6c-JMemYWRXvV) - Collectiva Knowledge Academy
 * [PHP Tutorial In Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfdrMitLmm8N-idlYQkSCvT9) - Tutor Joe's Stanley
 
 

@@ -16,6 +16,7 @@
 * [Cloud Computing](#cloud-computing)
     * [AWS](#aws)
     * [Azure](#azure)
+    * [Google Cloud](#Google Cloud)
     * [IBM](#ibm)
 * [Compilers](#compilers)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
@@ -331,6 +332,13 @@
 
 * [Microsoft Azure Fundamentals](https://youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM) - Adam Marczak
 * [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
+
+
+#### Google Cloud
+
+* [Google Cloud Certification: Associate Cloud Engineer Course](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) - Coursera
+* [Google Cloud Certification: Professional Data Engineer Course](https://in.coursera.org/professional-certificates/gcp-data-engineering) - Coursera
+* [Google Cloud Certification: Cloud Digital Leader Course](https://in.coursera.org/professional-certificates/google-cloud-digital-leader-training) - Coursera
 
 
 #### IBM

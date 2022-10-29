@@ -12,6 +12,7 @@
 * [4Clojure](http://www.4clojure.com)
 * [A2 Online Judge](https://a2oj.netlify.app)
 * [Algorithms for Competitive Programming](https://cp-algorithms.com)
+* Competitive Programming cheat sheet.
 * [APL Problem Solving Competition](https://contest.dyalog.com)
 * [AtCoder](https://atcoder.jp)
 * [beecrowd](https://www.beecrowd.com.br)

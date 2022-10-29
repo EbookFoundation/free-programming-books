@@ -3,6 +3,7 @@
 * [Ansible](#ansible)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
+* [Competitive Programming cheat sheet](https://medium.com/cheat-sheets/cheat-sheet-for-competitive-programming-with-c-f2e8156d5aa9)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)

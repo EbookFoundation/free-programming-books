@@ -6,6 +6,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Competitive Programming](https://medium.com/cheat-sheets/cheat-sheet-for-competitive-programming-with-c-f2e8156d5aa9)
 * [Clojure](#clojure)
 * [Dart](#dart)
 * [Data Science](#data-science)

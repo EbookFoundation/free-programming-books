@@ -33,6 +33,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Networking](#networking)
 * [Open Source Ecosystem](#open-source-ecosystem)
 * [Operating Systems](#operating-systems)
+* [Pentesting and Ethical Hacking](#pentesting-and-ethical-hacking)
 * [Parallel Programming](#parallel-programming)
 * [Partial Evaluation](#partial-evaluation)
 * [Professional Development](#professional-development)
@@ -700,6 +701,14 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Partial Evaluation
 
 * [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - Neil D. Jones, C.K. Gomard, Peter Sestoft (PDF)
+
+### Pentesting and Ethical Hacking
+
+* [Pentesting Web Checklist](https://pentestbook.six2dez.com/others/web-checklist) - Six2Dez
+* [Vmware Workstation Pro keys](https://gist.github.com/williamgh2019/cc2ad94cc18cb930a0aab42ed8d39e6f) - williamgh2019
+* [Anti-Forensics](https://github.com/cbranan/Anti-Forensics) - cbranan
+* [Regulator- subdomain Enumeration](https://cramppet.github.io/regulator/index.html) - Unknown
+* [HackLido](https://hacklido.com/) 
 
 
 ### Professional Development

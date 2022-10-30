@@ -1107,6 +1107,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Eloquent JavaScript 3rd edition](http://eloquentjavascript.net) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI)
 * [Essential Javascript](https://www.programming-books.io/essential/javascript/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer (HTML)
+* [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Kyle Simpson (HTML)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker (HTML)
 * [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html) - Henrik Joreteg (HTML)
 * [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Lindley (HTML)
@@ -1903,6 +1904,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Code Like a Pythonista: Idiomatic Python](https://web.archive.org/web/20180411011411/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) - David Goodger
 * [CodeCademy Python](https://www.codecademy.com/learn/python)
 * [Composing Programs](http://composingprograms.com) (3.x)
+* [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html) - Ani Adhikari, John DeNero, David Wagner (HTML)
 * [Cracking Codes with Python](https://inventwithpython.com/cracking/) - Al Sweigart (3.6)
 * [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF)
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
@@ -2557,7 +2559,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud](https://web.archive.org/web/20150709045622/http://download.microsoft.com/download/C/4/6/C4635738-5E06-4DF7-904E-BDC22AED2E58/Developing%20an%20Advanced%20Windows%20Phone%207.5%20App%20that%20Connects%20to%20the%20Cloud.pdf) - MSDN Library, David Britch, Francis Cheung, Adam Kinney, Rohit Sharma (PDF) (:card_file_box: *archived*)
 * [Windows Phone 8 Development Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/windowsphone8) - Matteo Pagani (PDF)
-* [Windows Phone 8.1 Development for Absolute Beginners](http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners)
 * [Windows Phone Programming Blue Book](http://www.robmiles.com/c-yellow-book/)
 
 

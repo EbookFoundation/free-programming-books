@@ -14,6 +14,7 @@
 * [JavaScript](#javascript)
     * [Node.js](#nodejs)
     * [React](#react)
+* [Kotlin](#kotlin)
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
@@ -99,6 +100,12 @@
 * [React Challenge](https://youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P) - Brototype Malayalam
 * [React JS - Malayalam Tutorial - by Yes Tech Media](https://youtube.com/playlist?list=PL1JrLEBAapUX44d5zzl0hf7vX7caSCidT) - Yes Tech Media
 * [React js malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4nuKJ3bJSP-LcchabWJtPtE8) - Debug Media
+
+
+### Kotlin
+
+* [Kotlin Malayalam | Kotlin programming Tutorials for android malayalam](https://www.youtube.com/playlist?list=PLaP7lUdqAGYPpEutAk6o1jKC08Rc5xMXs) - CODEAVIAL (YouTube)
+* [Kotlin / Android App Development](https://www.youtube.com/playlist?list=PLefF9wgiOa4WFRP4IvRCZre7xLjRkJdlQ) - Nikin Sk (YouTube)
 
 
 ### PHP

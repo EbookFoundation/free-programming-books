@@ -11,5 +11,5 @@
 
 ### <a id="machine-learning"></a>Học máy
 
-* [Dive into Deep Learning (Đắm chìm vào Học sâu)](https://d2l.ai) - d2l-ai, `trl.:` Nhóm dịch thuật Đắm chìm vào Học sâu (HTML)
+* [Đắm chìm vào Học sâu](https://d2l.aivivn.com) - `trl.:` Nhóm dịch thuật Đắm chìm vào Học sâu (HTML)
 

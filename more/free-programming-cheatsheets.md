@@ -366,7 +366,7 @@
 
 #### Numpy Pandas
 
-* [Pandas, Numpy, Python Cheatsheet]([https://www.codewithharry.com/blogpost/flask-cheatsheet/](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet)) - Kaggle (HTML)
+* [Pandas, Numpy, Python Cheatsheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
 
 
 ### R

@@ -214,7 +214,7 @@
 
 #### R
 
-* [Einführung in R](https://methodenlehre.github.io/einfuehrung-in-R/) - Andrew Ellis & Boris Mayer (HTML)
+* [Einführung in R](https://methodenlehre.github.io/einfuehrung-in-R/) - Andrew Ellis, Boris Mayer (HTML)
 
 
 ### Ruby on Rails

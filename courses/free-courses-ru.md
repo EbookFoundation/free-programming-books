@@ -154,7 +154,7 @@ ADV - Продвинутый. Тонкости.
 * [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG)
 * [Python для начинающих](https://ru.code-basics.com/languages/python) (BEG)
 * [Python: основы и применение](https://stepik.org/course/512) - Константин Зайцев, Антон Гардер (Stepik) (INT)
-* [Python для тех, у кого лапки](https://stepik.org/course/85388) - Мария Чакчурина, Dmitry Kolosov (Stepik) (INT)
+* [Python для тех, у кого лапки](https://stepik.org/course/85388) - Мария Чакчурина, Дмитрий Колосов (Stepik) (INT)
 
 
 ### R

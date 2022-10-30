@@ -2046,9 +2046,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/docs) - Wes McKinney, the Pandas Development Team (HTML, PDF)
 
+
 #### PL/SQL
 
 * [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
+
 
 #### Pyramid
 

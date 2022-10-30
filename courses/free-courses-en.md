@@ -20,6 +20,7 @@
 * [Compilers](#compilers)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
+* [Cryptography](#cryptography)
 * [CUDA](#cuda)
 * [Dart](#dart)
 * [Data Science](#data-science)
@@ -54,6 +55,7 @@
     * [React Native](#react-native)
     * [Redux](#redux)
     * [Svelte](#svelte)
+    * [Three.js](#threejs)
     * [Vue.js](#vuejs)
 * [Julia](#julia)   
 * [Kotlin](#kotlin)
@@ -97,6 +99,7 @@
     * [Deno](#deno)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
+* [Windows Phone](#windows-phone)
 * [YAML](#yaml)
 
 
@@ -106,6 +109,7 @@
 * [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org)
 * [Datacamp](https://www.datacamp.com)
+* [DevDocs](https://devdocs.io)
 * [edX](https://www.edx.org)
 * [freeCodeCamp](https://www.freecodecamp.org)
 * [FutureLearn](https://www.futurelearn.com)
@@ -133,12 +137,14 @@
 * [Binary Trees - by LoveBabbar](https://youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner) - CodeHelp - by Babbar
 * [C Programming & Data Structures](https://youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
+* [Computer Sc - Programming and Data Structure](https://www.youtube.com/playlist?list=PLD9781AC5EBC9FA16) - P.P. Chakraborty
 * [Data Structure and Algorithm](https://www.youtube.com/playlist?list=PLLvKknWU7N4y_eGpQdg1Y-hORO7cxtoLU) - Lalit Vashistha
 * [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
 * [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri, Liz Izhikevich (Stepik)
 * [Data Structures](https://youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) - Neso Academy (YouTube)
 * [Data Structures and Algorithms](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) - CS Dojo
 * [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Jenny's lectures CS/IT NET&JRF
+* [Data Structures and Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true) - Tech Dev Guide by Google
 * [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Mosh Hamedani (Programming with Mosh)
 * [Data Structures and Algorithms Full Course](https://www.youtube.com/watch?v=LcKqYoX8uH4) - Simplilearn (YouTube, Video length 7:13:56)
 * [Data Structures and Algorithms in Java Full Course](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) - Dinesh Varyani (YouTube playlist)
@@ -374,6 +380,13 @@
 * [MIT's Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 
 
+### Cryptography
+
+* [Introduction to Cryptography](https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography) (Christof Paar)
+* [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
+* [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
+
+
 ### Cuda
 
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
@@ -541,6 +554,7 @@
 * [Flutter Tutorial](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Matt Sullivan, James Williams, Mary Xia (Udacity)
 * [Flutter Tutorial for Beginners](https://www.udemy.com/course/learn-flutter-beginners-course) - Mayuresh Wankhede (Udemy)
 * [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - The Net Ninja
+* [Flutter Tutorial for Beginners](https://www.solutelabs.com/blog/flutter-tutorial-for-beginners-step-by-step-guide) - Solute Labs
 * [Free Flutter Animations Course](https://youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - The Net Ninja
 * [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT) - Vandad Nahavandipoor (YouTube)
 
@@ -869,6 +883,11 @@
 * [Svelte Tutorial](https://www.youtube.com/watch?v=vhGiGqZ78Rs) - Beau Carnes, freeCodeCamp (YouTube)
 
 
+#### Three.js
+
+* [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses
+
+
 #### Vue.js
 
 * [Full Stack Vue.js, Express & MongoDB](https://www.youtube.com/playlist?list=PLillGF-RfqbYSx-Ab1xWVanGKtowTsnNm) - Traversy Media (YouTube)
@@ -1112,6 +1131,7 @@
 * [Python Programming Essentials](https://www.coursera.org/learn/python-programming) - Scott Rixner, Joe Warren (Coursera)
 * [Python Programming From Scratch With Practicals](https://www.tutorialspoint.com/python_programming_from_scratch_with_practicals/index.asp) - Sundeep Saradhi Kanthety (Tutorials Point)
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) (Geeks for Geeks)
+* [Python Programming MOOC 2022](https://programming-22.mooc.fi) - University of Helsinki
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) - Tech With Tim
 * [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Moshfegh Hamedani (Programming with Mosh)
@@ -1212,8 +1232,6 @@
 * [Ethical Hacking](https://www.hacker101.com/videos) - Hacker101
 * [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) - Wenke Lee, Mustaque Ahamad, Catherine Gamboa (Udacity)
 * [Modern Binary Exploitation](https://github.com/RPISEC/MBE) - RPISEC
-* [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
-* [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
 
@@ -1271,6 +1289,7 @@
 ### Theory
 
 * [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
+* [Formal Languages & Automata Theory](https://www.youtube.com/playlist?list=PLLvKknWU7N4zvTGcw9N2_7eZSTTkryb0U) - Lalit Vashistha
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
 
 
@@ -1336,6 +1355,8 @@
 * [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) - Mozilla Contributors
 * [Programming & Web Development Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8) - Traversy Media
 * [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
+* [React Fundamentals - The Complete Guide For Beginners](https://www.udemy.com/course/react-fundamentals-the-complete-guide-for-beginners/) - Kerim Abdelmouiz (Udemy)
+* [The GraphQL Apollo (with ReactJS, NodeJS and MongoDB)](https://www.udemy.com/course/the-new-graphql-apollo-course-2020) - Mohd. Raqif Warsi (Udemy)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Web Basics](https://open.cs.uwaterloo.ca/web-basics/) - Centre for Education in Math and Computing (University of Waterloo)
 * [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
@@ -1344,6 +1365,12 @@
 * [Web Programming](https://open.cs.uwaterloo.ca/web-programming/) - Centre for Education in Math and Computing (University of Waterloo)
 
 
+### Windows Phone
+
+* [Windows Phone 8.1 Development for Absolute Beginners](https://web.archive.org/web/20150213035325/http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners) - Bob Tabor, Matthias Shapiro, Larry Lieberman *(:card_file_box: archived)*
+
+
 ### YAML
 
 * [Complete YAML Course - Beginner to Advanced for DevOps and more!](https://www.youtube.com/watch?v=IA90BTozdow) - Kunal Kushwaha
+

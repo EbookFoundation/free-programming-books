@@ -221,6 +221,6 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 
 
-## License
+## License 
 
-Each file included in this repository is licensed under the [CC BY License](LICENSE).
+Each file included in this repository is licensed under the [CC BY License](LICENSE). 

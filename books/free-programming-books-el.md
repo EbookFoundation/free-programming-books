@@ -53,3 +53,4 @@
 * [Εισαγωγή στην SQL: Εργαστηριακές Ασκήσεις σε MySQL5.7](https://www.ebooks4greeks.gr/eisagwgh-sthn-sql-ergasthriakes-askhseis-se-mysql5-7) 
 * [Βάσεις, Αποθήκες και Εξόρυξη Δεδομένων με τον SQL Server](https://repository.kallipos.gr/bitstream/11419/276/3/00_master_symeonidis%2028-10-2015.pdf) (PDF)
 * [Εισαγωγή στα Συστήματα Διαχείρισης Σχεσιακών ΒΔ / MySQL 5.7](https://repository.kallipos.gr/bitstream/11419/6248/2/02_chapter_1.pdf) (PDF)
+Codechef coding

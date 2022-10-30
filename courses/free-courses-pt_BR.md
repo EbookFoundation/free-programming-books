@@ -299,7 +299,7 @@
 
 ### R
 
-* [Curso de R com R Studio](https://www.youtube.com/watch?v=2mS-SzVWPZQ&list=PLzWDDw1w8cTS4i_B49WOWtjngjcMqTruG) - Escola de Inteligência Artificial
+* [Curso de R com R Studio](https://www.youtube.com/playlist?list=PLzWDDw1w8cTS4i_B49WOWtjngjcMqTruG) - Escola de Inteligência Artificial
 * [Curso de R para iniciantes](https://www.youtube.com/watch?v=tfPsmDzS74c&list=PLyqOvdQmGdTQ5dE6hSD7ZGBu8bud70wYf) - Didática Tech
 
 

@@ -2307,7 +2307,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Scratch
 
 * [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html) (HTML)
-* [code club Book of Scratch](https://www.linuxlinks.com/wp-content/uploads/2021/09/magpi-cc-book-of-scratch-v1_compress.pdf) - Rik Cross, Tracy Gardner (PDF)
+* [Code Club Book of Scratch](https://magpi.raspberrypi.com/books/book-of-scratch) - Rik Cross, Tracy Gardner (PDF)
 * [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/) - Michal Armoni, Moti Ben-Ari (PDF)
 * [Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - The MagPi magazine (PDF)
 * [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart (HTML)

@@ -1,4 +1,4 @@
-### Index
+### Περιεχόμενα
 
 * [C](#c)
 * [C++](#cpp)
@@ -17,7 +17,6 @@
 ### <a id="cpp"></a>C++
 
 * [Εισαγωγή στη C++](http://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf) (PDF)
-* [Προγραμματισμός με τη γλώσσα C++](https://repository.kallipos.gr/bitstream/11419/6443/1/00_master_document-KOY.pdf) - Θεόδωρος Αλεβίζος (PDF)
 
 
 ### Java
@@ -28,6 +27,8 @@
 * [Εισαγωγή στη γλώσσα προγραμματισμού JAVA](http://www.ebooks4greeks.gr/dowloads/Pliroforiki/Glosses.program./Java__Downloaded_from_eBooks4Greeks.gr.pdf) (PDF)
 * [Ηλεκτρονικό εγχειρίδιο της JAVA](http://www.ebooks4greeks.gr/wp-content/uploads/2013/04/java-2012-eBooks4Greeks.gr_.pdf) (PDF)
 * [Σημειώσεις Java](http://www.ebooks4greeks.gr/wp-content/uploads/2013/03/shmeiwseis-Java-eBooks4Greeks.gr_.pdf) (PDF)
+* [Γλώσσα προγραμματισμού Java](https://repository.kallipos.gr/bitstream/11419/6232/2/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F%2015.pdf) (PDF)
+* [Διασύνδεση με JAVA Εφαρμογές](https://repository.kallipos.gr/bitstream/11419/6261/2/02_chapter_14.pdf) (PDF)
 
 
 ### JavaScript
@@ -39,6 +40,7 @@
 
 * [Εισαγωγή στον Προγραμματισμό με Αρωγό τη Γλώσσα Python](https://www.ebooks4greeks.gr/eisagwgh-ston-programmatismo-me-arwgo-th-glwssa-python)
 * [Ένα byte της Python](https://archive.org/details/AByteOfPythonEl)
+* [Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python](https://repository.kallipos.gr/bitstream/11419/1708/3/85_Magoutis.pdf) (PDF)
 
 
 ### Scala
@@ -48,4 +50,6 @@
 
 ### SQL
 
-* [Εισαγωγή στην SQL: Εργαστηριακές Ασκήσεις σε MySQL5.7](https://www.ebooks4greeks.gr/eisagwgh-sthn-sql-ergasthriakes-askhseis-se-mysql5-7)
+* [Εισαγωγή στην SQL: Εργαστηριακές Ασκήσεις σε MySQL5.7](https://www.ebooks4greeks.gr/eisagwgh-sthn-sql-ergasthriakes-askhseis-se-mysql5-7) 
+* [Βάσεις, Αποθήκες και Εξόρυξη Δεδομένων με τον SQL Server](https://repository.kallipos.gr/bitstream/11419/276/3/00_master_symeonidis%2028-10-2015.pdf) (PDF)
+* [Εισαγωγή στα Συστήματα Διαχείρισης Σχεσιακών ΒΔ / MySQL 5.7](https://repository.kallipos.gr/bitstream/11419/6248/2/02_chapter_1.pdf) (PDF)

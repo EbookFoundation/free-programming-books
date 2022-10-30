@@ -56,7 +56,7 @@
 
 ### HTML and CSS
 
-* [HTML5 Canvas Notes for Professionals](https://books.goalkicker.com/HTML5CanvasBook) (PDF)
+* [HTML5 Canvas Notes for Professionals](https://books.goalkicker.com/HTML5CanvasBook) - Stack Overflow Contributors (PDF)
 * [Ponořme se do HTML5](https://knihy.nic.cz/#HTML5) - Mark Pilgrim (PDF)
 
 

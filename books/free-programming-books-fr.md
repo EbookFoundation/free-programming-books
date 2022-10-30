@@ -67,7 +67,7 @@
 * [Prologin](https://prologin.org)
 
 
-#### IDE and editors
+#### IDE et éditeurs de texte
 
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/) - Yann Esposito
 * [Vim pour les humains](https://vimebook.com/fr) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)
@@ -87,7 +87,7 @@
 * [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf) (PDF)
 
 
-#### Pédagogie pour enfants et adolescents
+#### Pédagogie pour les enfants et adolescents
 
 * [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
 * [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten, `trl.:` Mike Fellows

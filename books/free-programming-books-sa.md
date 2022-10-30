@@ -1,9 +1,9 @@
 ### Index
 
-* [C](C Language Books)
-* [C#](C# Language Books)
-* [C++](C++ Language Books)
-* [Java](Java Language Books)
+* [C](#C Language Books)
+* [C#](#C# Language Books)
+* [C++](#C++ Language Books)
+* [Java](#Java Language Books)
 
 
 ### C Language Books

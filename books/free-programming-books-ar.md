@@ -24,6 +24,7 @@
 * [SQL](#sql)
     * [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
+* [Quantum Computing](#quantum-computing)
 
 
 ### Arduino
@@ -157,4 +158,6 @@
 
 * [مدخل إلى تجربة المستخدم](https://academy.hsoub.com/files/11-مدخل-إلى-تجربة-المستخدم-user-experience-ux/)
 
+### Quantum Computing
+                                                                               (http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)[A Gentle Introduction] * 
 </div>

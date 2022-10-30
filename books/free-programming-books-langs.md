@@ -1786,7 +1786,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [100 (and counting) Laravel Quick Tips](https://laraveldaily.com/wp-content/uploads/2020/04/laravel-tips-2020-04.pdf) - Povilas Korop / LaravelDaily Team (PDF)
 * [Laravel Best Practices](http://www.laravelbestpractices.com)
-* [Laravel Bootcamp](http://bootcamp.laravel.com) - Laravel Team (HTML)
 * [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
 * [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
 * [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees

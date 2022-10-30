@@ -38,6 +38,7 @@
 * [Objective-C](#objective-c)
 * [Ocaml](#ocaml)
 * [PHP](#php)
+    * [Laravel](#laravel)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [R](#r)
@@ -333,6 +334,11 @@
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
+
+
+#### Laravel
+
+* [Laravel Bootcamp](http://bootcamp.laravel.com) - Laravel Team (HTML)
 
 
 ### PostgreSQL

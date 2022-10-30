@@ -33,6 +33,7 @@
 * [PHP](#php)
 * [Programação](#programação)
 * [Python](#python)
+* [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
 * [Ruby](#ruby)
@@ -323,6 +324,12 @@
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson (YouTube)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)
+
+
+### R
+
+* [Curso de R com R Studio](https://www.youtube.com/playlist?list=PLzWDDw1w8cTS4i_B49WOWtjngjcMqTruG) - Escola de Inteligência Artificial
+* [Curso R para Iniciantes](https://www.youtube.com/playlist?list=PLyqOvdQmGdTQ5dE6hSD7ZGBu8bud70wYf) - Didática Tech
 
 
 ### Raspberry Pi

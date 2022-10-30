@@ -473,6 +473,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### <a id="csharp"></a>C\#
 
 * [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/) - Steve "ardalis" Smith
+* [C# Features Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly) - Dirk Strauss (HTML)
 * [C# Notes for Professionals](http://goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (PDF)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
 * [C# Programming Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)

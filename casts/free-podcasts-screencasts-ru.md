@@ -30,6 +30,7 @@
 ### Новости и Разработка ПО
 
 * [Две Столицы - Уютный подкаст IT панков](http://www.2capitals.space) (Podcast)
+* [Запуск завтра](https://libolibo.ru/zapuskzavtra) (Podcast)
 * [Как делают игры](https://kdicast.com) (Podcast)
 * [Новый подкаст (2)_после правок.final.doc](https://newpodcast2.live) (Podcast)
 * [Радио-Т](https://radio-t.com) (Podcast)

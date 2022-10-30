@@ -1297,7 +1297,7 @@
 
 ### Windows Phone
 
-* [Windows Phone 8.1 Development for Absolute Beginners](https://web.archive.org/web/20150213035325/http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners) - Bob Tabor, Matthias Shapiro, Larry Lieberman (Channel 9, MSDN) *(:card_file_box: archived)*
+* [Windows Phone 8.1 Development for Absolute Beginners](https://web.archive.org/web/20150213035325/http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners) - Bob Tabor, Matthias Shapiro, Larry Lieberman *(:card_file_box: archived)*
 
 
 ### YAML

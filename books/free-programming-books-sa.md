@@ -1,5 +1,4 @@
 ### Free Programming Books for Students
-These are some of the books for people to get help regarding certain languages and prepare for their best self. All the books are in Engish Language.
 
 
 #### C Language Books

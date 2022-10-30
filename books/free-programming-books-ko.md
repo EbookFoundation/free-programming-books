@@ -242,4 +242,4 @@
 
 ### Unity3d
 
-* [번역 Unity Graphics Programming Series](https://github.com/IndieVisualLab/UnityGraphicsProgrammingSeries)
+* [번역 Unity Graphics Programming Series](https://github.com/IndieVisualLab/UnityGraphicsProgrammingSeries) - [Indie Visual Lab](https://github.com/IndieVisualLab)

@@ -148,7 +148,6 @@
 * [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Mosh Hamedani (Programming with Mosh)
 * [Data Structures and Algorithms Full Course](https://www.youtube.com/watch?v=LcKqYoX8uH4) - Simplilearn (YouTube, Video length 7:13:56)
 * [Data Structures and Algorithms in Java Full Course](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) - Dinesh Varyani (YouTube playlist)
-* [Data Structures and Algorithms in Python](https://jovian.ai/learn/data-structures-and-algorithms-in-python) - Jovian (freeCodeCamp)
 * [Data Structures and Algorithms in Python Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA) - Aakash N S (freeCodeCamp)
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego, HSE University
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset (freeCodeCamp)

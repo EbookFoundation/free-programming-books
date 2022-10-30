@@ -6,6 +6,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [ClojureScript](#clojurescript)
+* [ColdFusion](#coldfusion)
 * [Crystal](#crystal)
 * [Dart](#dart)
 * [Docker](#docker)
@@ -90,6 +91,11 @@
 * [Web REPL](http://clojurescript.net)
 
 
+### ColdFusion
+
+* [TryCF](https://trycf.com)
+
+
 ### Crystal
 
 * [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
@@ -166,6 +172,7 @@
 
 ### JavaScript
 
+* [CodeHS](https://codehs.com/explore/sandbox/javascript)
 * [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io)
 * [Esfiddle](https://esfiddle.net)
@@ -175,6 +182,7 @@
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
 * [OneCompiler](https://onecompiler.com/javascript)
+* [PlayCode](https://playcode.io/javascript)
 * [Plunker](https://plnkr.co)
 * [SoloLearn](https://code.sololearn.com/web#javascript)
 
@@ -296,7 +304,7 @@
 
 ### Scala
 
-* [ScalaFiddle.io](https://scalafiddle.io)
+* [JDoodle](https://www.jdoodle.com/compile-scala-online)
 * [Scastie](https://scastie.scala-lang.org)
 
 
@@ -315,6 +323,7 @@
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
 * [SQLFiddle](http://sqlfiddle.com)
+* [SQLite Online](https://sqliteonline.com)
 
 
 ### Svelte

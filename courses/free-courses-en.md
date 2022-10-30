@@ -99,6 +99,7 @@
     * [Deno](#deno)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
+* [Windows Phone](#windows-phone)
 * [YAML](#yaml)
 
 
@@ -1361,6 +1362,12 @@
 * [Web Programming](https://open.cs.uwaterloo.ca/web-programming/) - Centre for Education in Math and Computing (University of Waterloo)
 
 
+### Windows Phone
+
+* [Windows Phone 8.1 Development for Absolute Beginners](https://web.archive.org/web/20150213035325/http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners) - Bob Tabor, Matthias Shapiro, Larry Lieberman *(:card_file_box: archived)*
+
+
 ### YAML
 
 * [Complete YAML Course - Beginner to Advanced for DevOps and more!](https://www.youtube.com/watch?v=IA90BTozdow) - Kunal Kushwaha
+

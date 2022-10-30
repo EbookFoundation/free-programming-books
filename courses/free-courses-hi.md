@@ -284,6 +284,7 @@
 * [Java + DS + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha (Anuj)
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
 * [Java Foundation Course \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk) - Pepcoding
+* [Java Live Community Class](https://www.youtube.com/playlist?list=PLsyeobzWxl7pyuXTES7ZqncOI_X0mgKgK) - Navin Reddy (Telusko)
 * [Java Programming Tutorial (HINDI/URDU)](https://www.youtube.com/playlist?list=PLiOa6ike4WAHljIOitb3vR0nXQgneUedR) - Vikas Pandey, Easytuts4you
 * [Java Tutorial](https://youtube.com/playlist?list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E) - Saurabh Shukla Sir
 * [Java Tutorials for Beginners](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) - Deepak Panwar, Smart Programming

@@ -33,6 +33,7 @@
 * [PHP](#php)
 * [Programação](#programação)
 * [Python](#python)
+* [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
 * [Ruby](#ruby)
@@ -56,6 +57,7 @@
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
 * [Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) - Cláudio Rogério Carvalho Filho (eXcript)
+* [Curso de Programação C Completo](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA) - Programe seu futuro
 * [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (YouTube)
 
 
@@ -82,6 +84,7 @@
 
 ### Dart
 
+* [Curso Dart](https://www.youtube.com/playlist?list=PLAqdhPoZdJtBnMfZtpExJlFTuuXE0TabS) - Luis Claudio Leite Pereira 
 * [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy)
 * [Lógica de Programação com Dart](https://www.udemy.com/course/logica-de-programacao-com-dart/) - Jacob Moura (Udemy)
 
@@ -321,6 +324,12 @@
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson (YouTube)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)
+
+
+### R
+
+* [Curso de R com R Studio](https://www.youtube.com/playlist?list=PLzWDDw1w8cTS4i_B49WOWtjngjcMqTruG) - Escola de Inteligência Artificial
+* [Curso R para Iniciantes](https://www.youtube.com/playlist?list=PLyqOvdQmGdTQ5dE6hSD7ZGBu8bud70wYf) - Didática Tech
 
 
 ### Raspberry Pi

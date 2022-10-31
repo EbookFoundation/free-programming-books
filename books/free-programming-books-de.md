@@ -18,6 +18,7 @@
 * [JavaScript](#javascript)
     * [React](#react)
 * [LaTeX](#latex)
+* [Linux](#linux)
 * [Mathematik](#mathematik)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
@@ -27,6 +28,7 @@
     * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
+* [R](#r)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
@@ -136,6 +138,7 @@
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel) - Christian Ullenboom (Online)
 * [Java SE 8 Standard-Bibliothek](http://openbook.rheinwerk-verlag.de/java8) - Christian Ullenboom (Online)
 * [Java Tutorial - Java lernen leicht gemacht](https://java-tutorial.org/index.php) - Björn und Britta Petri
+* [Nebenläufige Programmierung mit Java](https://www.assets.dpunkt.de/openbooks/Hettel_Nebenlaeufige%20Programmierung%20mit%20Java_Broschuere.pdf) - Jörg Hettel und Manh Tien Tran (PDF)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung)
 * [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
@@ -158,6 +161,11 @@
 * [LaTeX - eine Einführung und ein bisschen mehr ...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
 * [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz)
+
+
+### Linux
+
+* [Linux - Das umfassende Handbuch](https://openbook.rheinwerk-verlag.de/linux/) - Johannes Plötner, Steffen Wendzel (HTML)
 
 
 ### Mathematik
@@ -209,6 +217,11 @@
 #### Django
 
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/de) (1.11) (HTML) (:construction: *in process*)
+
+
+#### R
+
+* [Einführung in R](https://methodenlehre.github.io/einfuehrung-in-R/) - Andrew Ellis, Boris Mayer (HTML)
 
 
 ### Ruby on Rails

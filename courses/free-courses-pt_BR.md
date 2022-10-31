@@ -33,11 +33,13 @@
 * [PHP](#php)
 * [Programação](#programação)
 * [Python](#python)
+* [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
 * [Ruby](#ruby)
 * [Sass](#sass)
 * [Segurança da Informação](#segurança-da-informação)
+* [SEO](#seo)
 * [Shell](#shell)
 * [Sistemas Embarcados](#sistemas-embarcados)
 * [Swift](#swift)
@@ -56,6 +58,7 @@
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
 * [Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) - Cláudio Rogério Carvalho Filho (eXcript)
+* [Curso de Programação C Completo](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA) - Programe seu futuro
 * [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (YouTube)
 
 
@@ -64,6 +67,7 @@
 * [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Utilizando Formulários MDI Parent](https://www.udemy.com/formularios-mdi/) - Gilseone Moraes, Training4All Cursos (Udemy)
+* [Fundamentos do C#](https://balta.io/cursos/fundamentos-csharp) - André Baltieri (Balta.io)
 * [Iniciando com ASP.NET Core](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core) - Eduardo Pires (Desenvolvedor.io)
 * [Introdução ao Entity Framework Core](https://desenvolvedor.io/curso-online-introducao-entity-framework-core) - Rafael Almeida (Desenvolvedor.io)
 * [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
@@ -82,6 +86,7 @@
 
 ### Dart
 
+* [Curso Dart](https://www.youtube.com/playlist?list=PLAqdhPoZdJtBnMfZtpExJlFTuuXE0TabS) - Luis Claudio Leite Pereira 
 * [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy)
 * [Lógica de Programação com Dart](https://www.udemy.com/course/logica-de-programacao-com-dart/) - Jacob Moura (Udemy)
 
@@ -194,6 +199,7 @@
 ### JavaScript
 
 * [Bootcamp da Brainn de React](https://www.youtube.com/playlist?list=PLF7Mi9HNzvVmzOyDyl--xQVdi60jxduU1) - Canal Brainn Co. (YouTube)
+* [Curso de Javascript Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw) - Programação Web
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
 * [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/discover/courses) - Rocketseat
@@ -323,6 +329,12 @@
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)
 
 
+### R
+
+* [Curso de R com R Studio](https://www.youtube.com/playlist?list=PLzWDDw1w8cTS4i_B49WOWtjngjcMqTruG) - Escola de Inteligência Artificial
+* [Curso R para Iniciantes](https://www.youtube.com/playlist?list=PLyqOvdQmGdTQ5dE6hSD7ZGBu8bud70wYf) - Didática Tech
+
+
 ### Raspberry Pi
 
 * [Curso de Raspberry Pi: primeiros passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy) - Gustavo Guanabara (YouTube)
@@ -389,4 +401,11 @@
 ### Segurança da Informação
 
 * [Boas Práticas de Segurança da Informação para Sua Empresa](https://www.udemy.com/course/empresa-mais-segura/) - Afonso da Silva E. (Udemy)
+* [Curso de Segurança da Informação](https://www.youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE) - Gustavo Guanabara, (Curso em Video)
 * [Segurança da Informação: Por onde iniciar sua carreira](https://www.udemy.com/course/seguranca-da-informacao-por-onde-iniciar-sua-carreira/) - Alexandro Silva (Udemy)
+
+
+### SEO
+
+* [Curso de SEO - Mão na massa](https://www.youtube.com/playlist?list=PLVPIs-7SxXA_O-fUH5PbKhEHdTPnYKMiE) - Flavio Klens (Agência Klens)
+* [Curso prático de SEO](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90) - Gustavo Guanabara (Curso em Video)

@@ -45,4 +45,5 @@
 
 ### Python
 
+* [Programming Expert with Python](https://drive.google.com/file/d/0B6N6HcO5p2-9ck50d3d4bG9MRnc/view?usp=sharing&resourcekey=0-T1LaEEp7tQANUSx7iNYgpA) -  สุชาติ คุ้มมะณี 
 * [Python ๑๐๑](https://www.cp.eng.chula.ac.th/books/python101/) - กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล, สุกรี สินธุภิญโญ

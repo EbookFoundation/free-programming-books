@@ -1,5 +1,6 @@
 ### Index
 
+* [Algorithms & Data Structures](#algorithms--data-structures)
 * [Artificial Intelligence](#Artificial-Intelligence)
 * [C](#c)
 * [C#](#csharp)
@@ -14,6 +15,11 @@
 * [Ruby](#ruby)
 * [TypeScript](#typescript)
     * [Angular](#angular)
+
+
+### Algorithms & Data Structures
+
+* [การออกแบบและวิเคราะห์อัลกอริทึม](https://youtube.com/playlist?list=PL0ROnaCzUGB65_YkASLAEmcW_mtxFtq4m) - สมชาย ประสิทธิ์จูตระกูล
 
 
 ### Artificial Intelligence

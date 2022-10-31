@@ -1,20 +1,15 @@
 ### Index
 
-* [JAVASCRIPT](#JS)
-* [PHP](#php)
-* [PYTHON](#python)
-
-
-### JAVASCRIPT
-
-* [Eloquent Javascript](https://www.pdfdrive.com/eloquent-javascript-a-modern-introduction-to-programming-e158409266.html) - pdfdrive
+- [Index](#index)
+- [PHP](#php)
+- [PYTHON](#python)
 
 
 ### PHP
 
-* [Learning PHP A Gentle Introduction to the Web's Most Popular Language](https://www.pdfdrive.com/learning-php-a-gentle-introduction-to-the-webs-most-popular-language-e181260423.html) - pdfdrive
+- [PHP THIS! - A Beginners Guide to Learning Object Oriented PHP](https://www.pdfdrive.com/php-this-a-beginners-guide-to-learning-object-oriented-php-e42041128.html) - pdfdrive
 
 
 ### PYTHON
 
-* [Python Programming: An Introduction to Computer Science](https://www.pdfdrive.com/python-programming-an-introduction-to-computer-science-e941324.html) - pdfdrive
+* [Python Programming for absolute beginners](https://www.pdfdrive.com/python-programming-for-the-absolute-beginner-e34494394.html) - pdfdrive

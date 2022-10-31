@@ -473,6 +473,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### <a id="csharp"></a>C\#
 
 * [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/) - Steve "ardalis" Smith
+* [C# Features Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly) - Dirk Strauss (HTML)
 * [C# Notes for Professionals](http://goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (PDF)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
 * [C# Programming Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)
@@ -1175,6 +1176,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md) - John Papa (HTML)
 * [Angular for the jQuery developer](http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-for-the-jquery-developer.html) - ng-newsletter, Ari Lerner, David Wu, Nate Murray (HTML)
+* [Angular Testing Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/angular-testing-succinctly) - Joseph D. Booth (HTML)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson (HTML)
 * [AngularJS Guide](https://docs.angularjs.org/guide/) (HTML)
 * [AngularJS Material Designing](https://material.angularjs.org/latest/) (HTML)
@@ -2318,10 +2320,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Scratch
 
-* [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html)
-* [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
+* [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html) (HTML)
+* [Code Club Book of Scratch](https://magpi.raspberrypi.com/books/book-of-scratch) - Rik Cross, Tracy Gardner (PDF)
+* [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/) - Michal Armoni, Moti Ben-Ari (PDF)
 * [Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - The MagPi magazine (PDF)
-* [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart
+* [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart (HTML)
 
 
 ### Sed

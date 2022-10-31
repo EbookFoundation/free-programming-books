@@ -37,6 +37,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [Numpy Pandas](#numpy-pandas)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -362,6 +363,11 @@
 #### Flask
 
 * [Flask Cheatsheet](https://www.codewithharry.com/blogpost/flask-cheatsheet/) - Code with Harry (HTML)
+
+
+#### Numpy Pandas
+
+* [Pandas, Numpy, Python Cheatsheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
 
 
 ### R

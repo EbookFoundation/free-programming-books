@@ -1,5 +1,6 @@
 ### Index
 
+* [AI](#AI)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -13,6 +14,9 @@
 * [Ruby](#ruby)
 * [TypeScript](#typescript)
     * [Angular](#angular)
+
+
+### AI
 
 
 ### C

@@ -57,7 +57,7 @@
     * [Svelte](#svelte)
     * [Three.js](#threejs)
     * [Vue.js](#vuejs)
-* [Julia](#julia)   
+* [Julia](#julia) 
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -79,6 +79,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [Jupyter](#jupyter)
 * [QB64](#qb64)
 * [R](#r)
 * [Redis](#redis)
@@ -1174,6 +1175,11 @@
 * [Flask Fridays](https://www.youtube.com/playlist?list=PLCC34OHNcOtolz2Vd9ZSeSXWc8Bq23yEz) - Codemy.com (YouTube)
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) - Tech with Tim
+
+
+#### Jupyter
+
+* [Jupyter Tutorials](https://youtube.com/playlist?list=PL1m-6MPBNAZfF-El7BzqaOrCrTBRgH1Nk) - Emyrrich (Youtube)
 
 
 ### QB64

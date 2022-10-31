@@ -4,13 +4,14 @@
 
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
+* [C Programming](#c-programming)
 * [C#&lrm;](#csharp)
 * [DB & DBMS](#db--dbms)
 * [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [Vue.js](#vuejs)
+* [Vue.js](#vuejs)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
@@ -22,7 +23,7 @@
 * [Security](#security)
 * [SEO](#seo)
 * [SQL](#sql)
-    * [PostgreSQL](#postgresql)
+* [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
 
 
@@ -36,7 +37,9 @@
 ### Artificial Intelligence
 
 * [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-%D9%85%D8%AF%D8%AE%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9/) - Mohamed Lahlah&rlm; (PDF)
+### C Programming
 
+* [c-programming](http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf) -Yashwant Kanetkar&rlm; (PDF)
 
 ### <a id="csharp"></a>C#&lrm;
 

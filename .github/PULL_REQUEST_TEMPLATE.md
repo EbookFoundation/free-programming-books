@@ -21,3 +21,6 @@ Add resource(s) | Remove resource(s) | Add info | Improve repo
 ## Follow-up
 
 - Check the status of GitHub Actions and resolve any reported warnings!
+## added a book for c programming
+
+- check a free resouse in books 

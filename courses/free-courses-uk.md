@@ -2,6 +2,7 @@
 
 * [C++](#cpp)
 * [Java](#java)
+* [PHP](#php)
 * [Python](#python)
 
 
@@ -20,6 +21,11 @@ ADV - Просунутий. Тонкощі.
 ### Java
 
 * [Основи програмування на Java](https://courses.prometheus.org.ua/courses/EPAM/JAVA101/2016_T2/about)
+
+
+### PHP
+
+* [PHP - перше знайомство](https://stepik.org/course/125585) - Ігор Лютий (Stepik) (BEG)
 
 
 ### Python

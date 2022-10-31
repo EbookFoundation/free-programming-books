@@ -7,7 +7,6 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
-* [Competitive Programming](#competitive-programming)
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
@@ -102,10 +101,6 @@
 * [Clojure](https://www.programming-idioms.org/cheatsheet/Clojure) - Programming-Idioms (HTML)
 * [Clojure Cheatsheet](http://clojure.org/cheatsheet) (HTML)
 
-
-### Competitive Programming
-
-* [Competitive Programming Cheat Sheet](https://medium.com/cheat-sheets/cheat-sheet-for-competitive-programming-with-c-f2e8156d5aa9)
 
 ### Dart
 

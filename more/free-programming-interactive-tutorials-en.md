@@ -15,6 +15,7 @@
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
+* [GraphQL](#graphql)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
@@ -30,6 +31,7 @@
     * [Operating Systems](#operating-systems)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
+* [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [Node](#node)
 * [NoSQL](#nosql)
@@ -121,6 +123,7 @@
 ### Data Science
 
 * [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
+* [Data Science Tutorial](https://www.w3schools.com/datascience/default.asp) - W3Schools
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
@@ -155,6 +158,11 @@
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
+
+
+### GraphQL
+
+* [Apollo Odyssey](https://www.apollographql.com/tutorials/)
 
 
 ### Haskell
@@ -192,6 +200,7 @@
 * [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools
 * [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
 * [Front End Development Libraries Certification: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap) - freeCodeCamp
+* [Get started with Bootstrap](https://getbootstrap.com/docs) - Bootstrap
 
 
 ### Java
@@ -283,6 +292,12 @@
 ### Lisp
 
 * [Lisp Koans](https://github.com/google/lisp-koans)
+
+
+### Markdown
+
+* [Markdown Tutorial](https://commonmark.org/help/tutorial) - CommonMark
+* [Markdown Tutorial](https://www.markdowntutorial.com) - Markdown Tutorial
 
 
 ### MATLAB

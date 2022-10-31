@@ -39,6 +39,7 @@
 * [Redis](#redis)
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
+* [Terraform](#terraform)
 * [Typescript](#typescript)
 
 
@@ -111,6 +112,8 @@
 ### Docker
 
 * [Belajar Docker untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qkxCTe3Gd0wA-bQZChXhsNI) - Giri Kuncoro (YouTube)
+* [Mengenal Container dan Docker Sampai Jago Dalam 2 Jam](https://www.youtube.com/watch?v=26O6Ke03j3Y) - Imre Nagi
+* [Pengembangan Microservice Dengan Docker Compose](https://www.youtube.com/watch?v=ALGVV5cGUtc) - Imre Nagi
 * [Tutorial Docker untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
@@ -123,6 +126,7 @@
 
 * [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/academies/195) - Dicoding, membutuhkan registrasi
 * [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159) - Dicoding, membutuhkan registrasi
+* [Fast Track Flutter Beginner](https://www.youtube.com/playlist?list=PL7jdfftn7HKup1bG852c13H6nxpJpmZzP) - Kuldii Project
 * [Flutter Developer: Basic State Management](https://buildwithangga.com/kelas/flutter-developer-basic-state-management) - Tasya Agnes (BuildWithAngga) *(phone number and email address required)*
 * [Flutter for Designer](https://buildwithangga.com/kelas/flutter-for-designer-design-to-code) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
 * [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
@@ -139,6 +143,7 @@
 * [Belajar GIT (Source Code Management)](https://www.youtube.com/playlist?list=PL8bBYpHH3RI6BlCzFTMQvt7sGSycUj7S-) - Eka Putra, UpKoding (YouTube)
 * [GIT & GITHUB](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) - Sandhika Galih, Web Programming UNPAS (YouTube)
 * [Git Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_lYGV8hxqjtKmFA_xeLupq) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Jago Git Dalam 2 Jam](https://www.youtube.com/watch?v=KGSfUgaiVNI) - Imre Nagi
 * [Source Code Management untuk Pemula](https://www.dicoding.com/academies/116) - Dicoding, membutuhkan registrasi
 * [Tutorial GIT Bahasa Indonesia Lengkap](https://www.youtube.com/playlist?list=PL1aMeb5UP_PHXTV_Xpt-19x_rVPXrymOM) - IDStack (YouTube)
 
@@ -216,6 +221,7 @@
 * [JavaScript Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
 * [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo (YouTube)
+* [Tutorial NextJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ3-zouYHHknPq1G5VTB8PRf) - Prawito Hudoro
 * [Tutorial programming dari nol (Javascript)](https://www.youtube.com/playlist?list=PLwF5TtGsdsBdTJdjzZp1Wdog1DNcHZdDu) - Pintar Programming (YouTube)
 * [Tutorial Svelte Indonesia](https://youtube.com/playlist?list=PLH1gH0TmFBBhWp2pn6vRhUVVC1txQuTZE) - Ipung Purwono, Ipung Dev Academy
 
@@ -233,6 +239,7 @@
 
 * [Belajar React JS Dari Awal Buat Yang Nggak Jago JavaScript](https://www.youtube.com/watch?v=JS5w4rUbjQE) - array id
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
+* [Belajar Testing Pada React Dengan Jest dan RTL](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ1e5H4bX6rCTwBvSl2cll6a) - Prawito Hudoro
 * [Mari Kita Belajar Basic React JS](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwXT8zMPbezhDnTM3cTA5cZ) - Irsyad A. Panjaitan, Parsinta (YouTube)
 * [React JS Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY) - Wahidev Academy
 * [ReactJS-Firebase Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ2CnIvj7tI0zoijDSgR1m9j) - Prawito Hudoro
@@ -387,6 +394,7 @@
 ### SASS / SCSS
 
 * [Belajar Menggunakan SASS](https://youtube.com/playlist?list=PLRKMmwY3-5Mxzx31JO3V9JJ8GLdUXYqt0) - Irsyad A. Panjaitan (Parsinta)
+* [Belajar Sass Biar Nulis Kode CSS Jadi "Absurd"](https://www.youtube.com/watch?v=kNA_wWbBCLc) - array id
 * [Tutorial SASS](https://www.youtube.com/playlist?list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5) - Web Programming UNPAS
 
 
@@ -394,6 +402,11 @@
 
 * [Ethereum Blockchain Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLNl8QwXqW_lvWSc3n3geFSbBtmJvEl4nz) - Odoo Indonesia vITraining
 * [Tutorial Blockchain Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhvZi4kEqU6kCjyv_y8qBae) - Ipung DEV Academy (YouTube)
+
+
+### Terraform
+
+* [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro
 
 
 ### TypeScript

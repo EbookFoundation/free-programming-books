@@ -39,6 +39,7 @@
 * [Ruby](#ruby)
 * [Sass](#sass)
 * [Segurança da Informação](#segurança-da-informação)
+* [SEO](#seo)
 * [Shell](#shell)
 * [Sistemas Embarcados](#sistemas-embarcados)
 * [Swift](#swift)
@@ -402,3 +403,9 @@
 * [Boas Práticas de Segurança da Informação para Sua Empresa](https://www.udemy.com/course/empresa-mais-segura/) - Afonso da Silva E. (Udemy)
 * [Curso de Segurança da Informação](https://www.youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE) - Gustavo Guanabara, (Curso em Video)
 * [Segurança da Informação: Por onde iniciar sua carreira](https://www.udemy.com/course/seguranca-da-informacao-por-onde-iniciar-sua-carreira/) - Alexandro Silva (Udemy)
+
+
+### SEO
+
+* [Curso de SEO - Mão na massa](https://www.youtube.com/playlist?list=PLVPIs-7SxXA_O-fUH5PbKhEHdTPnYKMiE) - Flavio Klens (Agência Klens)
+* [Curso prático de SEO](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90) - Gustavo Guanabara (Curso em Video)

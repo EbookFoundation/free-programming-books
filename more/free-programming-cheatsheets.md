@@ -1,5 +1,6 @@
 ### Index
 
+* [Ansible](#ansible)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [C](#c)
@@ -36,10 +37,12 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [Numpy Pandas](#numpy-pandas)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Scala](#scala)
 * [Shell Scripting](#shell-scripting)
 * [Solidity](#solidity)
 * [SpringBoot](#springboot)
@@ -48,6 +51,15 @@
 * [Terraform](#terraform)
 * [Unit testing](#unit-testing)
 * [Webpack](#webpack)
+
+
+### Ansible
+
+* [Ansible Basic Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet) - Intellipaat (HTML)
+* [Ansible Cheat Sheet](https://sites.google.com/site/mrxpalmeiras/ansible/ansible-cheat-sheet) - Mrxpalmeiras (HTML)
+* [Ansible Cheat Sheet — A DevOps Quick Start Guide](https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0) - edureka (HTML, PDF)
+* [Automate your tasks with this Ansible cheat sheet](https://opensource.com/article/20/11/ansible-cheat-sheet) - Opensource (HTML)
+* [How to Use Ansible: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide) - DigitalOcean (HTML)
 
 
 ### APL
@@ -161,6 +173,7 @@
 
 ### GraphQL
 
+* [GraphQL Cheat Sheet](https://licor.me/post/graphql) - Chuanrong Li (HTML)
 * [GraphQL Cheat Sheet](https://simplecheatsheet.com/tag/graphql-cheat-sheet) - Simple Cheat Sheet (HTML)
 * [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
 
@@ -214,6 +227,7 @@
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) (HTML)
+* [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/) - Josh W. Comeau (HTML)
 
 
 #### jQuery
@@ -351,6 +365,11 @@
 * [Flask Cheatsheet](https://www.codewithharry.com/blogpost/flask-cheatsheet/) - Code with Harry (HTML)
 
 
+#### Numpy Pandas
+
+* [Pandas, Numpy, Python Cheatsheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
+
+
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
@@ -378,6 +397,12 @@
 
 * [Rust cheatsheet](https://quickref.me/rust) - QuickRef.ME (HTML)
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
+
+
+### Scala
+
+* [Scala Cheat Sheet](https://warisradji.com/Scala-CheatSheet) - Waris RADJI (HTML)
+* [Scala Cheatsheet](https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf) - Alvin Alexander (PDF)
 
 
 ### Shell Scripting

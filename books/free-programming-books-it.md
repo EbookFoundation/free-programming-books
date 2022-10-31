@@ -17,7 +17,6 @@
     * [NoSQL](#nosql)
     * [Relazionali](#relazionali)
     * [SQL](#sql)
-* [Git](#git)
 * [Golang](#golang)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
@@ -43,14 +42,14 @@
 
 #### Algoritmi e Strutture Dati
 
-* [Appunti di Analisi e Progettazione di Algoritmi](https://www.sci.unich.it/~acciaro/corsoASD.pdf) - V. Acciaro T. Roselli e V. Marengo (PDF)
-* [Progetto e Analisi di Algoritmi](http://bertoni.di.unimi.it/Algoritmi_e_Strutture_Dati.pdf) - A. Bertoni e M. Goldwurm (PDF)
+* [Appunti di Analisi e Progettazione di Algoritmi](https://www.sci.unich.it/~acciaro/corsoASD.pdf) - V. Acciaro T. Roselli, V. Marengo (PDF)
+* [Progetto e Analisi di Algoritmi](http://bertoni.di.unimi.it/Algoritmi_e_Strutture_Dati.pdf) - A. Bertoni, M. Goldwurm (PDF)
 
 
 #### Metodologie di sviluppo del software
 
-* [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia e A. Schaerf (PDF)
-* [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
+* [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia, A. Schaerf (PDF)
+* [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html) - Massimo Maria Ghisalberti
 
 
 #### Open source
@@ -65,13 +64,14 @@
 
 #### Sistemi di controllo versione
 
-* [Controllo di Versione con Subversion](https://svnbook.red-bean.com/index.it.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
+* [Controllo di Versione con Subversion](https://svnbook.red-bean.com/index.it.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato (HTML, PDF)
+* [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 #### Storia dell'informatica
 
 * [Breve storia dell'informatica](http://apav.it/informatica_file1.pdf) - F. Eugeni (PDF)
-* [Corso di storia dell'informatica](http://nid.dimi.uniud.it/computing_history/computing_history.html) - C. Bonfanti e P. Giangrandi (PDF)
+* [Corso di storia dell'informatica](http://nid.dimi.uniud.it/computing_history/computing_history.html) - C. Bonfanti, P. Giangrandi (PDF)
 * [La storia dell'informatica in Mondo Digitale](http://www.aicanet.it/storia-informatica/storia-dell-informatica-in-mondo-digitale) (PDF)
 * [STI: il corso di storia dell'Informatica](https://www.progettohmr.it/Corso/) - G.A. Cignoni (PDF)
 * [Storia dell'informatica](http://www.dsi.unive.it/~pelillo/Didattica/Storia%20dell'informatica/) - M. Pelillo (PDF)
@@ -79,19 +79,19 @@
 
 ### Android
 
-* [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
+* [Guida Android](http://www.html.it/guide/guida-android/) - Giuseppe Maggi, Marco Lecce, Vito Gentile (HTML)
 
 
 ### Assembly Language
 
 * [La CPU Intel 8086: Architettura e Programmazione Assembly](http://www.ce.unipr.it/didattica/calcolatoriA/free-docs/lucidi.pdf) - Alberto Broggi (PDF)
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
-* [Reverse Engineering per Principianti](https://beginners.re/RE4B-IT.pdf) - Dennis Yurichev, Federico Ramondino, Paolo Stivanin, Fabrizio Bertone, Matteo Sticco, Marco Negro et al. (PDF)
+* [Reverse Engineering per Principianti](https://beginners.re/RE4B-IT.pdf) - Dennis Yurichev, Federico Ramondino, Paolo Stivanin, Fabrizio Bertone, Matteo Sticco, Marco Negro, et al. (PDF)
 
 
 ### BASH
 
-* [Guida avanzata per la bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) (PDF)
+* [Guida avanzata di scripting Bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) - Mendel Cooper (PDF)
 * [La guida di Bash per principianti](http://codex.altervista.org/guidabash/guidabash_1_11.pdf) - Machtelt Garrels (PDF)
 * [Programmazione della shell Bash](https://www.aquilante.net/doc/bash_programming.pdf) - Marco Liverani (PDF)
 
@@ -99,9 +99,8 @@
 ### C
 
 * [Guida di Beej alla Programmazione di Rete - Usando Socket Internet](http://linguaggioc.altervista.org/dl/GuidaDiBeejAllaProgrammazioneDiRete.pdf) - Brian "Beej Jorgensen" Hall, Fabrizio Pani (PDF)
-* [Il linguaggio C - Guida pratica alla programmazione](https://eineki.files.wordpress.com/2010/02/guidac.pdf) - (PDF)
+* [Il linguaggio C - Guida pratica alla programmazione](https://eineki.files.wordpress.com/2010/02/guidac.pdf) - BlackLight (PDF)
 * [Linguaggio C - ANSI C](https://web.archive.org/web/20180920221053/http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf) - Brian W. Kernighan, Dennis M. Ritchie (PDF) *(:card_file_box: archived)*
-* [Linguaggio C - Guida alla programmazione](http://www.cbmc.it/~marchettil/Tandem2016/Bellini.pdf) - A. Bellini e A. Guidi _Anno di pubblicazione_ 1999 (PDF)
 * [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
 
 
@@ -112,8 +111,8 @@
 
 ### <a id="cpp"></a>C++
 
-* [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) - (PDF)
-* [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) - (PDF)
+* [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) (PDF)
+* [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) (PDF)
 
 
 ### Database
@@ -121,19 +120,14 @@
 * [Basi di Dati](http://dbdmg.polito.it/wordpress/teaching/basi-di-dati/) - Apiletti e Cagliero (Politecnico di Torino)
 * [La progettazione dei database relazionali](http://www.crescenziogallo.it/unifg/medicina/TSRM/master_bioimmagini/db/Teoria_pratica_progettazione_db_relazionali.pdf) - C. Gallo (PDF)
 * [Manuale pratico di disegno e progettazione dei database](http://www.brunasti.eu/unimib/bdsi/manuale-pratico-progettazione-ER-100914.pdf) - P. Brunasti (PDF)
-* [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) (HTML)
-
-
-#### Git
-
-* [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
+* [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) - Giuseppe Maggi (HTML)
 
 
 #### NoSQL
 
 * [Guida MongoDB](http://www.html.it/guide/guida-mongodb/?cref=system) (HTML)
 * [Guida OrientDB](http://www.html.it/guide/guida-orientdb/?cref=system) (HTML)
-* [Il piccolo libro di MongoDB](https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf) - Traduzione di N. Iarocci dall'originale di K. Seguin (PDF)
+* [Il piccolo libro di MongoDB](https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf) - Karl Seguin, `trl.:` N. Iarocci (PDF)
 * [Redis: la guida](http://www.html.it/guide/redis-la-guida/?cref=system) (HTML)
 
 
@@ -150,7 +144,7 @@
 ### Golang
 
 * [Golang](http://www.vittal.it/wp-content/uploads/2019/01/golang.pdf) - V.Albertoni (PDF)
-* [The Little Go Book](https://github.com/francescomalatesta/the-little-go-book-ita) - Karl Seguin, Francesco Malatesta ([HTML](https://github.com/francescomalatesta/the-little-go-book-ita/blob/master/it/go.md))
+* [The Little Go Book](https://github.com/francescomalatesta/the-little-go-book-ita) - Karl Seguin, `trl.:` Francesco Malatesta ([HTML](https://github.com/francescomalatesta/the-little-go-book-ita/blob/master/it/go.md))
 
 
 ### HTML and CSS
@@ -203,7 +197,7 @@
 * [Il LaTex mediante esempi](http://www.discretephysics.org/MANUALI/Latex.pdf) - E. Tonti (PDF)
 * [Impara LaTeX! (... e mettilo da parte)](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf) - Marc Baudoin (PDF)
 * [Introduzione all'arte della composizione tipografica con LaTeX](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf) - GuIT (PDF)
-* [L'arte di scrivere con LaTeX](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf) - L. Pantieri e T. Gordini (PDF)
+* [L'arte di scrivere con LaTeX](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf) - L. Pantieri, T. Gordini (PDF)
 * [LaTeX facile](https://web.archive.org/web/20180712171427/http://www.guit.sssup.it/downloads/LaTeX-facile.pdf) - N. Garbellini (PDF)
 * [LaTeX, naturalmente!](http://www.batmath.it/latex/pdfs/guida_st.pdf) - L .Battaia (PDF)
 * [LaTeX per l'impaziente](http://www.lorenzopantieri.net/LaTeX_files/LaTeXimpaziente.pdf) - L. Pantieri (PDF)
@@ -242,7 +236,7 @@
 
 * [Il manuale di riferimento di Python](http://docs.python.it/html/ref/)
 * [Il tutorial di Python](http://docs.python.it/html/tut/)
-* [Immersione in Python 3](http://gpiancastelli.altervista.org/dip3-it/) - Mark Pilgrim, _traduzione di: Giulio Piancastelli_ (HTML) [(PDF)](http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip)
+* [Immersione in Python 3](http://gpiancastelli.altervista.org/dip3-it/) - Mark Pilgrim, `trl.:` Giulio Piancastelli (HTML) [(PDF)](http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip)
 * [La libreria di riferimento di Python](http://docs.python.it/html/lib/)
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
 * [Python per tutti: Esplorare dati con Python3](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub)
@@ -272,7 +266,6 @@
 
 * [Applicazioni con Angular e PHP, la guida](https://www.html.it/guide/applicazioni-con-angular-e-php-la-guida/) - Lorenzo De Ambrosis (HTML)
 * [Guida Angular 2](https://www.html.it/guide/guida-angularjs-2/) - Andrea Chiarelli (HTML)
-* [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
 
 
 ### UML
@@ -283,4 +276,4 @@
 
 ### Visual Basic
 
-* [Corso Visual Basic](http://www.webalice.it/kindofapple/corsovb.pdf) (PDF)
+* [A Scuola con VB2010](https://vbscuola.it/VB2010/A_Scuola_con_VB2010.pdf) (PDF)

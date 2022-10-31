@@ -21,14 +21,14 @@
 
 ### شبکه
 
-* آلبرت لازلو باراباسی - [علم شبکه](http://networksciencebook.com)
+* [علم شبکه](http://networksciencebook.com) - آلبرت لازلو باراباسی
 
 
 ### مهندسی نرم‌افزار
 
 * [الگوهای طراحی](https://holosen.net/what-is-design-pattern/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)*
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
-* [ترجمه آزاد کتاب کد تمیز](https://codetamiz.vercel.app) - Robert C. Martin et al.
+* [ترجمه آزاد کتاب کد تمیز](https://codetamiz.vercel.app) - Robert C. Martin, et al.
 
 
 ### HTML and CSS

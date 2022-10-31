@@ -61,6 +61,7 @@ Dengan partisipasi Anda, Anda berjanji untuk mengikuti [Kode Etik](CODE_OF_CONDU
 - jika buku lebih tua, sertakan tanggal penerbitan dengan judul.
 - sertakan nama penulis atau nama yang sesuai. Anda dapat mempersingkat daftar penulis dengan "`et al.`".
 - jika buku belum selesai, dan masih dalam pengerjaan, tambahkan notasi "`dalam proses`", seperti yang dijelaskan [di bawah ini](#in_process).
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - jika alamat email atau pengaturan akun diminta sebelum pengunduhan diaktifkan, tambahkan catatan bahasa yang sesuai dalam tanda kurung, misalnya: `(alamat email *diminta*, tidak wajib)`.
 
 
@@ -140,12 +141,18 @@ Contoh:
     BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
+- <a id="archived"></a>Archived link:
+
+    ```text
+    BAIK  : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
 ### Alphabetical order
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+- Ketika terdapat beberapa judul yang dimulai dengan huruf yang sama, urutkan berdasarkan yang kedua, dan seterusnya. Sebagai contoh: `aa` muncul sebelum `ab`.
+- `one two` muncul sebelum `onetwo`
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+Jika Anda melihat tautan yang salah tempat, periksa pesan kesalahan linter untuk mengetahui baris mana yang harus ditukar.
 
 
 <!----><a id="notes"></a>
@@ -180,9 +187,17 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 ##### Pencipta
 
 - Kami ingin menghargai pencipta sumber daya gratis jika perlu, termasuk penerjemah!
-- Untuk karya terjemahan penulis asli harus dikreditkan.
+- Untuk karya terjemahan penulis asli harus dikreditkan. Kami rekomendasikan memakai [MARC relators](https://loc.gov/marc/relators/relaterm.html) untuk memberi kredit kepada pencipta selain penulis, seperti dalam contoh ini:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-id.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    disini, anotasi `trl.:` memakai kode MARC relator untuk "penerjemah".
+- Gunakan koma `,` untuk membatasi setiap item dalam daftar penulis.
+- Anda dapat mempersingkat daftar penulis dengan "`et al.`".
 - Kami tidak mengizinkan tautan untuk Kreator.
-- Untuk karya kompilasi atau remix, "pencipta" mungkin memerlukan deskripsi. Misalnya, buku "GoalKicker" dikreditkan sebagai "`Dikompilasi dari dokumentasi StackOverflow`" (dalam Bahasa Inggris: `Compiled from StackOverflow documentation`).
+- Untuk karya kompilasi atau remix, "pencipta" mungkin memerlukan deskripsi. Misalnya, buku "GoalKicker" atau "RIP Tutorial" dikreditkan sebagai "`Dikompilasi dari dokumentasi StackOverflow`" (dalam Bahasa Inggris: `Compiled from StackOverflow documentation`).
 
 
 <!----><a id="platforms-and-access-notes"></a>

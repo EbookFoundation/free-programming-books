@@ -42,7 +42,7 @@
 
 * [Apprendre le langage C](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) - Formation Video
 * [Apprendre le langage C - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) - Formation Video
-* [Le Langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - sur Zeste de Savoir de Informaticienzero, Taure, Paraze et Lucas-84
+* [Le Langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - sur Zeste de Savoir, Informaticienzero, Taure, Paraze, Lucas-84
 * [TUTOS C](https://www.youtube.com/playlist?list=PLEagTQfI6nPOWS4JPnxW5pRVgeyLuS5oC) - PrimFX
 
 

@@ -3,6 +3,7 @@
 * [0 - Méta-listes](#0---méta-listes)
 * [1 - Non dépendant du langage](#1---non-dépendant-du-langage)
     * [Algorithmique](#algorithmique)
+    * [IDE and editors](#ide-and-editors)
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
     * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
@@ -62,9 +63,15 @@
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours/) - Michel Quercia
 * [Algorithmique du texte](http://igm.univ-mlv.fr/~mac/CHL/CHL-2011.pdf) - Maxime Crochemore, Christophe Hancart, Thierry Lecroq (PDF)
 * [Complexité algorithmique](http://www.liafa.univ-paris-diderot.fr/~sperifel/livre_complexite.html) - Sylvain Perifel
-* [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) - D. Beauquier, J. Berstel, et Ph. Chrétienne (PDF)
+* [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) - D. Beauquier, J. Berstel, Ph. Chrétienne (PDF)
 * [France-IOI](http://www.france-ioi.org)
 * [Prologin](https://prologin.org)
+
+
+#### IDE and editors
+
+* [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/) - Yann Esposito
+* [Vim pour les humains](https://vimebook.com/fr) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)
 
 
 #### Logiciels libres
@@ -72,7 +79,7 @@
 * [Histoires et cultures du Libre](http://framabook.org/histoiresetculturesdulibre/)
 * [Option libre. Du bon usage des licences libres](http://framabook.org/optionlibre-dubonusagedeslicenceslibres/) - Jean Benjamin
 * [Produire du logiciel libre](http://framabook.org/produire-du-logiciel-libre-2/) - Karl Fogel
-* [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/) - R.M. Stallman, S. Williams et C. Masutti
+* [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/) - R.M. Stallman, S. Williams, C. Masutti
 
 
 #### Makefile
@@ -84,7 +91,7 @@
 #### Pédagogie pour enfants et adolescents
 
 * [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
-* [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten et Mike Fellows (traduit)
+* [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten, `trl.:` Mike Fellows
 
 
 ### Ada
@@ -109,7 +116,7 @@
 
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet](http://vidalc.chez.com/lf/socket.html) - Brian "Beej Jorgensen" Hall (HTML)
-* [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
+* [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier, Daniel Schang
 * [Programmation en Langage C et Systèmes Informatiques](https://sites.uclouvain.be/SystInfo/notes/Theorie/) - O. Bonaventure, E. Riviere, G. Detal, C. Paasch
 
 
@@ -128,7 +135,7 @@
 
 ### Coq
 
-* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot et Pierre Castéran
+* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot, Pierre Castéran
 
 
 ### Fortran
@@ -142,8 +149,8 @@
 
 ### Git
 
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) - Alexandre Garel, Paul Gaborit et Nicolas Deram
-* [Pro Git](http://www.git-scm.com/book/fr/v2) - Scott Chacon et Ben Straub
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) - Ben Lynn, `trl.:` Alexandre Garel, `trl.:` Paul Gaborit, `trl.:` Nicolas Deram (HTML, PDF)
+* [Pro Git](http://www.git-scm.com/book/fr/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 ### Java
@@ -166,7 +173,7 @@
 
 ### Haskell
 
-* [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson et Joseph Fasel
+* [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson, Joseph Fasel, `trl.:` Nicolas Vallée, Gnux, ggnore, fearyourself, Joyeux-oli, Kikof, khayyam90
 * [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr)
 
 
@@ -187,7 +194,7 @@
 
 ##### KOMA-Script
 
-* [KOMA-Script, Typographie universelle avec XƎLaTeX](https://framabook.org/koma-script/) - Raymond Rochedieu (trad.) et Markus Kohm
+* [KOMA-Script, Typographie universelle avec XƎLaTeX](https://framabook.org/koma-script/) - Markus Kohm, Raymond Rochedieu
 
 
 #### Asymptote
@@ -203,24 +210,24 @@
 
 #### PGF/TikZ
 
-* [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/) - Gérard Tisseau et Jacques Duma
+* [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/) - Gérard Tisseau, Jacques Duma
 
 
 #### TeX
 
 * [Apprendre à programmer en TeX](https://ctan.org/pkg/apprendre-a-programmer-en-tex) - Christian Tellechea
-* [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf) - Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche (PDF)
+* [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf) - Paul Abrahams, Kathryn Hargreaves, Karl Berry, `trl.:` Marc Chaudemanche (PDF)
 
 
 ### Lisp
 
 * [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) - Francis Leboutte (PDF)
-* [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) - Robert Strandh et Irène Durand
+* [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) - Robert Strandh, Irène Durand
 
 
 ### Mathématiques
 
-* [Calcul mathématique avec Sage](https://web.archive.org/web/20210715234128/http://sagebook.gforge.inria.fr/) - Paul Zimmermann et al. *(:card_file_box: archived)*
+* [Calcul mathématique avec Sage](https://web.archive.org/web/20210715234128/http://sagebook.gforge.inria.fr/) - Paul Zimmermann, et al. *(:card_file_box: archived)*
 
 
 ### Lua
@@ -259,9 +266,9 @@
 ### Python
 
 * [Apprendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
-* [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et lier ensuite votre compte self-learning à votre compte INGInious. )
+* [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et liez ensuite votre compte self-learning à votre compte INGInious. )
 * [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz
-* [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau et Laurent Pointal
+* [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau, Laurent Pointal
 
 
 #### Django
@@ -271,14 +278,14 @@
 
 ### R
 
-* [Introduction à l'analyse d'enquête avec R et RStudio](https://larmarange.github.io/analyse-R/) - Jospeh Lamarange et al. (PDF version also available)
+* [Introduction à l'analyse d'enquête avec R et RStudio](https://larmarange.github.io/analyse-R/) - Jospeh Lamarange, et al. (PDF version also available)
 * [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) - Vincent Goulet (PDF)
 
 
 ### Ruby
 
 * [Ruby en vingt minutes](https://www.ruby-lang.org/fr/documentation/quickstart/)
-* [Venir à Ruby après un autre language](https://www.ruby-lang.org/fr/documentation/ruby-from-other-languages/)
+* [Venir à Ruby après un autre langage](https://www.ruby-lang.org/fr/documentation/ruby-from-other-languages/)
 
 
 #### Ruby on Rails
@@ -288,8 +295,8 @@
 
 ### Rust
 
-* [Traduction du Rust book en français](https://jimskapt.github.io/rust-book-fr/) par Thomas Ramirez
-* [Tutoriel rust](https://blog.guillaume-gomez.fr/Rust/) par Guillaume Gomez
+* [Traduction du Rust book en français](https://jimskapt.github.io/rust-book-fr/) - Steve Klabnik et Carol Nichols, `trl.:` Thomas Ramirez
+* [Tutoriel rust](https://blog.guillaume-gomez.fr/Rust/) - Guillaume Gomez
 
 
 ### Sage
@@ -309,26 +316,20 @@
 
 ### SPIP
 
-* [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat et collectif SPIP
+* [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat, collectif SPIP
 
 
 ### SQL
 
 * [Cours complet pour apprendre les différents types de bases de données et le langage SQL](https://sgbd.developpez.com/tutoriels/cours-complet-bdd-sql/) - Jacques Le Maitre
-* [Only SQL. Tout ce que vous avez toujours voulu savoir sur les SGBD sans jamais avoir osé le demander.](https://framabook.org/not-only-sql/) - Vincent Lozano et Éric Georges
+* [Only SQL. Tout ce que vous avez toujours voulu savoir sur les SGBD sans jamais avoir osé le demander.](https://framabook.org/not-only-sql/) - Vincent Lozano, Éric Georges
 
 
 ### Systèmes d'exploitation
 
-* [Simple OS (SOS)](http://sos.enix.org/fr/SOSDownload) - David Decotigny et Thomas Petazzoni
+* [Simple OS (SOS)](http://sos.enix.org/fr/SOSDownload) - David Decotigny, Thomas Petazzoni
 
 
 ### TEI
 
-* [Qu'est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237) - Lou Burnard, trad. par Marjorie Burghart
-
-
-### Vim
-
-* [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)
-* [Vim pour les humains](https://vimebook.com/fr) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)
+* [Qu'est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237) - Lou Burnard, `trl.:` Marjorie Burghart

@@ -15,7 +15,7 @@
     * [Sítě](#site)
 * [LaTeX](#latex)
 * [Linux](#linux)
-  * [Distribuce](#distribuce)
+    * [Distribuce](#distribuce)
 * [OpenSource](#opensource)
 * [PHP](#php)
 * [Python](#python)
@@ -34,7 +34,6 @@
 
 ### <a id="csharp"></a>C\#
 
-* [Programovací jazyk C#](http://www.cs.vsb.cz/behalek/vyuka/pcsharp/text.pdf) - Marek Běhálek (PDF)
 * [Systémové programování v jazyce C#](https://phoenix.inf.upol.cz/esf/ucebni/sysprog.pdf) (PDF)
 
 
@@ -52,7 +51,7 @@
 
 ### Git
 
-* [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon (PDF, EPUB, MOBI)
+* [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon, `trl.:` Ondrej Filip (PDF, EPUB, MOBI)
 
 
 ### HTML and CSS

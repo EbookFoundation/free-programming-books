@@ -738,6 +738,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Quantum Computing : A Gentle Introduction The MIT Press](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) - Eleanor Rieffel, Wolfgang Polak (PDF)
 * [Quantum Computing for Everyone](https://www.almani.club/wl/?id=mZQhGgUFxVIyAPbL3gjjLu1z24C6AkgA) - Chris Bernhardt (PDF)
 
+
 ### Regular Expressions
 
 * [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/) - Sundeep Agarwal

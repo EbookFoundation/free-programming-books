@@ -165,6 +165,7 @@
 
 ### Linux
 
+* [Debian GNU/Linux Anwenderhandbuch](https://debiananwenderhandbuch.de) - Frank Ronneburg (HTML)
 * [Linux - Das umfassende Handbuch](https://openbook.rheinwerk-verlag.de/linux/) - Johannes Plötner, Steffen Wendzel (HTML)
 
 

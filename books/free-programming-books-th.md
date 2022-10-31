@@ -45,5 +45,6 @@
 
 ### Python
 
-* [Programming Expert with Python](https://drive.google.com/file/d/0B6N6HcO5p2-9ck50d3d4bG9MRnc/view?usp=sharing&resourcekey=0-T1LaEEp7tQANUSx7iNYgpA) -  สุชาติ คุ้มมะณี 
+* [Programming Expert with Python](https://drive.google.com/file/d/0B6N6HcO5p2-9ck50d3d4bG9MRnc/view?usp=sharing&resourcekey=0-T1LaEEp7tQANUSx7iNYgpA) -  ผศ.ดร.สุชาติ คุ้มมะณี
 * [Python ๑๐๑](https://www.cp.eng.chula.ac.th/books/python101/) - กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล, สุกรี สินธุภิญโญ
+* [Python Programming for Networking and Security](https://drive.google.com/drive/folders/1zRR4KAS0H_Kn5_PVYTIGCRPEALO6R2SO?fbclid=IwAR2RBY1d-3_q1_7YzEPZgjRlInParIrIu6uQfXQ2cwmI2HIsKIP7grj2F5k) - ผศ.ดร.สุชาติ คุ้มมะณี

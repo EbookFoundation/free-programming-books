@@ -1,5 +1,6 @@
 ### Index
 
+* [Ansible](#ansible)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [C](#c)
@@ -36,6 +37,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [Numpy Pandas](#numpy-pandas)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -49,6 +51,15 @@
 * [Terraform](#terraform)
 * [Unit testing](#unit-testing)
 * [Webpack](#webpack)
+
+
+### Ansible
+
+* [Ansible Basic Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet) - Intellipaat (HTML)
+* [Ansible Cheat Sheet](https://sites.google.com/site/mrxpalmeiras/ansible/ansible-cheat-sheet) - Mrxpalmeiras (HTML)
+* [Ansible Cheat Sheet — A DevOps Quick Start Guide](https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0) - edureka (HTML, PDF)
+* [Automate your tasks with this Ansible cheat sheet](https://opensource.com/article/20/11/ansible-cheat-sheet) - Opensource (HTML)
+* [How to Use Ansible: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide) - DigitalOcean (HTML)
 
 
 ### APL
@@ -216,6 +227,7 @@
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) (HTML)
+* [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/) - Josh W. Comeau (HTML)
 
 
 #### jQuery
@@ -351,6 +363,11 @@
 #### Flask
 
 * [Flask Cheatsheet](https://www.codewithharry.com/blogpost/flask-cheatsheet/) - Code with Harry (HTML)
+
+
+#### Numpy Pandas
+
+* [Pandas, Numpy, Python Cheatsheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
 
 
 ### R

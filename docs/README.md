@@ -35,7 +35,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-fil.md)
   - [How-to](HOWTO-fil.md)
 - French / français
-  - [Code de Contrat](CODE_OF_CONDUCT-fr.md)
+  - [Code de Conduite](CODE_OF_CONDUCT-fr.md)
   - [Contributing](CONTRIBUTING-fr.md)
   - [How-to](HOWTO-fr.md)
 - German / Deutsch

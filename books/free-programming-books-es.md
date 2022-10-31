@@ -5,6 +5,7 @@
     * [Algoritmos y Estructuras de Datos](#algoritmos-y-estructuras-de-datos)
     * [Base de Datos](#base-de-datos)
     * [Ciencia Computacional](#ciencia-computacional)
+    * [Inteligencia Artificial](#inteligencia-artificial)
     * [Metodologías de Desarrollo de Software](#metodolog&#x00ED;as-de-desarrollo-de-software)
     * [Misceláneos](#miscel&#x00E1;neos)
     * [Sistemas Operativos](#sistemas-operativos)
@@ -94,6 +95,12 @@
 * [Teoría de la Computación: Lenguajes, Autómatas, Gramáticas](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Archivos_Libros/Libros_Matematicas/_Teoria_de_la_Computacion___lenguajes__automatas__gramaticas._/teoriacomputacion.pdf) - Rodrigo De Castro Korgi (PDF)
 
 
+#### Inteligencia Artificial
+
+* [Deep Learning](http://www.uhu.es/publicaciones/?q=libros&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF)
+* [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
+
+
 #### Metodologías de desarrollo de software
 
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
@@ -135,6 +142,7 @@
 
 ### Ensamblador
 
+* [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme (HTML)
 * [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A. Carter, `trl.:` Leonardo Rodríguez Mújica (PDF)
 
 

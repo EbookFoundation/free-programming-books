@@ -12,5 +12,5 @@
 
 ### <a id="python"></a>Python
 
-* [Python in Hindi](https://drive.google.com/file/d/1_0rMxENpNJf6orWbiNZvd1zqKRJWAlBt/view) - Kuldeep Chand
+* [Python in Hindi](https://www.khansir.co.in/python-notes-in-hindi-pdf) - Kuldeep Chand
 * [Python Notes in Hindi](https://pythoninhindis.blogspot.com/2020/04/python-in-hindi-python-language-in-hindi.html)

@@ -504,8 +504,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [A Complete Guide to Programming in C++](http://www.lmpt.univ-tours.fr/~volkov/C++.pdf) - Ulla Kirch-Prinz (PDF)
 * [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX) (:construction: *in process*)
-* [C++ Annotations](https://fbb-git.gitlab.io/cppannotations) - Frank B. Brokken (HTML, PDF)
 * [C/C++ Basics](http://www.icce.rug.nl/documents/cplusplus) - Frank B. Brokken
+* [C++ Annotations](https://fbb-git.gitlab.io/cppannotations) - Frank B. Brokken (HTML, PDF)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - `edt.:` Bjarne Stroustrup, Herb Sutter
 * [C++ For Programmers](https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf) - JT Kalnay (PDF)
 * [C++ GUI Programming With Qt 3](https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf) - Jasmin Blanchette, Mark Summerfield (PDF)
@@ -545,13 +545,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) - Allen B. Downey (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
 * [Working Draft, Standard for Programming Language C++, 2021 Revision](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) - Thomas Köppe (PDF) *(:construction: in process)*
-* [A Complete Guide to Programming in C++](http://www.lmpt.univ-tours.fr/~volkov/C++.pdf) - Ulla Kirch-Prinz (PDF)
-* [C/C++ Basics](http://www.icce.rug.nl/documents/cplusplus) - Frank B. Brokken
-* [C++ Language](https://cplusplus.com/doc/tutorial)
-* [C++ Tutorial](https://www.w3schools.com/cpp)
-* [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
-* [C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)
-* [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://youtu.be/ZzaPdXTrSb8) 
 
 
 ### Carbon

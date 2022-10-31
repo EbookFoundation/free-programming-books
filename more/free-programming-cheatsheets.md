@@ -339,7 +339,7 @@
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 * [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
 * [Cheat Sheet for R and RStudio](https://www.ocf.berkeley.edu/~janastas/docs/RStudioCheatSheet.pdf) - L. Jason Anastasopoulos (PDF)
-* [Colors in R](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) - Dr. Ying Wei  (PDF)
+* [Colors in R](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) - Ying Wei  (PDF)
 
 
 ### Raspberry Pi

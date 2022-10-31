@@ -60,11 +60,11 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-it.md)
   - [How-to](HOWTO-it.md)
 - Japanese / 日本語
-- Kazakh / қазақша
 - Kannada / ಕನ್ನಡ
   - [How To](HOWTO-kn.md)
   - [Contributing](CONTRIBUTING-kn.md)
   - [Code Of Conduct](CODE_OF_CONDUCT-kn.md)
+- Kazakh / қазақша
 - Khmer / Cambodian / ខ្មែរ
   - [How-to](HOWTO-km.md)
 - Korean / 한국어 [韓國語]

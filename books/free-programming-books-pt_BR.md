@@ -13,6 +13,7 @@
 * [C++](#cpp)
 * [Dart](#dart)
 * [Docker](#docker)
+* [Elixir](#elixir)
 * [Engenharia de software](#engenharia-de-software)
     * [Arquitetura de Software](#arquitetura-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
@@ -133,6 +134,11 @@
 ### Docker
 
 * [Descomplicando o Docker](https://livro.descomplicandodocker.com.br) - Jeferson Fernando
+
+
+### Elixir
+
+* [Elixir DOJO](http://victorolinasc.github.io/elixir_dojo/dojo.html) - Victor Oliveira Nascimento (HTML)
 
 
 ### Engenharia de Software

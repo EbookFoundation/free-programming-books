@@ -1281,7 +1281,9 @@
 * [Server-Side Swift](https://www.udacity.com/course/server-side-swift--ud1031) - Jarrod Parkes, Nic Jackson (Udacity)
 * [Swift 5 for Beginners](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW) - iOS Academy
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
-
+* [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Hacking With Swift UI
+* [What Is Swift UI? Easy Steps Building Your first SwiftUI app](https://www.udemy.com/course/what-is-swift-ui-part-1/) - Matthew Harding (Udemy)
+* [Build Great IOS Apps (Swift)](https://www.udemy.com/course/build-great-ios-apps-with-swift/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-ApSDs.hyUFklgG3FVVuVLA&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads) - Hamad Fouad (Udemy)
 
 #### Vapor
 

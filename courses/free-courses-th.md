@@ -5,6 +5,9 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Databases](#databases)
+    * [NoSQL](#nosql)
+    * [SQL](#sql)
 * [Git](#git)
 * [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
@@ -41,6 +44,17 @@
 ### <a id="cpp"></a>C++
 
 * [ภาษา C++](http://marcuscode.com/lang/cpp) - MarcusCode
+
+
+### Databases
+
+* [Database Systems](https://youtube.com/playlist?list=PL7fB6_3v0nhxRBOP44PL8SnhXnauinlb2) - Aj Earn KMUTNB
+
+
+#### NoSQL
+
+
+#### SQL
 
 
 ### Git

@@ -97,6 +97,7 @@
 
 #### Inteligencia Artificial
 
+* [Deep Learning](http://www.uhu.es/publicaciones/?q=libros&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF)
 * [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
 
 

@@ -15,6 +15,7 @@
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
+* [GraphQL](#graphql)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
@@ -156,6 +157,11 @@
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
+
+
+### GraphQL
+
+* [Apollo Odyssey](https://www.apollographql.com/tutorials/)
 
 
 ### Haskell

@@ -18,6 +18,7 @@
     * [Arquitetura de Software](#arquitetura-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
     * [Outros](#outros)
+* [Fortran](#fortran)
 * [Fundamentos Matemáticos Computacionais](#fundamentos-matemáticos-computacionais)
 * [Git](#git)
 * [Go](#go)
@@ -166,6 +167,11 @@
 * [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
 * [Engenharia de Software Moderna](https://engsoftmoderna.info) - Marco Tulio Valente (HTML)
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
+
+
+### Fortran
+
+* [Introdução ao Fortran90](https://www.cenapad.unicamp.br/treinamentos/apostilas/apostila_fortran90.pdf) - Unicamp/ Cenapad - SP (PDF)
 
 
 ### Fundamentos Matemáticos Computacionais

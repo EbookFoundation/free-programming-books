@@ -21,10 +21,9 @@
 
 ### Go
 
-* [ภาษา Go ตอน 1 ติดตั้ง และ Run Hello World](https://medium.com/odds-team/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-go-%E0%B9%81%E0%B8%9A%E0%B8%9A-step-by-step-%E0%B8%88%E0%B8%B2%E0%B8%81-course-pre-ultimate-go-by-p-yod-%E0%B8%95%E0%B8%AD%E0%B8%99-1-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0-d9ac7913e9a4) - Chaiyarin Niamsuwan
 * [A Tour of Go](https://go-tour-th.appspot.com/tour/list) - พลัฏฐ์ อัญชลีชไมกร
 * [An Introduction to programming in Go](https://www.dropbox.com/sh/is3hwdqa1dpsb99/AACb9QvxPEUo1Z-tD0Nz2KNZa?dl=0) - Caleb Doxsey
-
+* [ภาษา Go ตอน 1 ติดตั้ง และ Run Hello World](https://medium.com/odds-team/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-go-%E0%B9%81%E0%B8%9A%E0%B8%9A-step-by-step-%E0%B8%88%E0%B8%B2%E0%B8%81-course-pre-ultimate-go-by-p-yod-%E0%B8%95%E0%B8%AD%E0%B8%99-1-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0-d9ac7913e9a4) - Chaiyarin Niamsuwan
 
 ### IoT (internet of things)
 

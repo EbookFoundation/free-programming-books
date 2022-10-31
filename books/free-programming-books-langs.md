@@ -545,6 +545,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) - Allen B. Downey (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
 * [Working Draft, Standard for Programming Language C++, 2021 Revision](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) - Thomas Köppe (PDF) *(:construction: in process)*
+* [A Complete Guide to Programming in C++](http://www.lmpt.univ-tours.fr/~volkov/C++.pdf) - Ulla Kirch-Prinz (PDF)
+* [C/C++ Basics](http://www.icce.rug.nl/documents/cplusplus) - Frank B. Brokken
+* [C++ Language](https://cplusplus.com/doc/tutorial)
+* [C++ Tutorial](https://www.w3schools.com/cpp)
+* [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
+* [C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)
+* [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://youtu.be/ZzaPdXTrSb8) 
 
 
 ### Carbon
@@ -1165,6 +1172,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
 * [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
+* [Javascript Tutorial](https://www.w3schools.com/js)
+* [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
+* [JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]](https://youtu.be/Qqx_wzMmFeA) 
 
 
 #### AngularJS

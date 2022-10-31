@@ -126,6 +126,7 @@
 
 * [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/academies/195) - Dicoding, membutuhkan registrasi
 * [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159) - Dicoding, membutuhkan registrasi
+* [Fast Track Flutter Beginner](https://www.youtube.com/playlist?list=PL7jdfftn7HKup1bG852c13H6nxpJpmZzP) - Kuldii Project
 * [Flutter Developer: Basic State Management](https://buildwithangga.com/kelas/flutter-developer-basic-state-management) - Tasya Agnes (BuildWithAngga) *(phone number and email address required)*
 * [Flutter for Designer](https://buildwithangga.com/kelas/flutter-for-designer-design-to-code) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
 * [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*

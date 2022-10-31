@@ -15,6 +15,7 @@
     * [Node.js](#nodejs)
     * [React](#react)
 * [Kotlin](#kotlin)
+* [MySQL](#mysql)
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
@@ -86,6 +87,7 @@
 
 * [JavaScript Malayalam Tutorial](https://www.youtube.com/watch?v=3mjwtu4_0uk) - Yes Tech Media
 * [javascript tutorial in malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdF4irCbI5BdHIEfxEdfMNqA) - Tintu Vlogger
+* [JavaScript Malayalam Tutorials For Beginners](https://www.youtube.com/playlist?list=PLQzHWfiB9fWdQ6qcl5Vo4JPOA3kxpCJ3A) - Learn Programming In Malayalam (YouTube)
 
 
 #### Node.js
@@ -108,6 +110,11 @@
 * [Kotlin / Android App Development](https://www.youtube.com/playlist?list=PLefF9wgiOa4WFRP4IvRCZre7xLjRkJdlQ) - Nikin Sk (YouTube)
 
 
+### MySQL
+
+* [MySQL Malayalam Tutorials for beginners](https://www.youtube.com/playlist?list=PLQzHWfiB9fWcxc10XNwm7CeOEMrjVr8a9) - Learn Programming In Malayalam (YouTube)
+
+
 ### PHP
 
 * [PHP Programming Malayalam Tutorial for Beginners](https://www.youtube.com/watch?v=nFYWCouZ1UA) - Yes Tech Media
@@ -118,6 +125,7 @@
 
 * [Python Programming Malayalam Tutorial](https://www.youtube.com/watch?v=ihnWXGPxNEk) - Yes Tech Media
 * [Python Tutorial Malayalam \| Best Malayalam Python Programming Tutorial](https://youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks) - Brototype Malayalam 
+* [Python](https://www.youtube.com/playlist?list=PLwe8bwPXjlLveEHvTbKMXJOPkFdXnu4xi) - Learn CSE Malayalam (YouTube)
 
 
 #### Django
@@ -129,3 +137,4 @@
 #### Flask
 
 * [Python Flask Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUU-HCC1f5x8YiGEMoZdGl0e) - Yes Tech Media
+* [Web Development with Python Flask](https://www.youtube.com/playlist?list=PLQzHWfiB9fWccYbgcomf5bWTGV7DPqTtB) - Learn Programming In Malayalam (YouTube)

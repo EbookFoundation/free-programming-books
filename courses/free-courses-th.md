@@ -17,7 +17,7 @@
 
 
 ### AI
-
+* [Pattern Recognition](https://youtube.com/playlist?list=PLcBOyD1N1T-MnWcKQZqE8FXrgoiiVdXvI) - EkapolC
 
 ### C
 

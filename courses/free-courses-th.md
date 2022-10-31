@@ -1,5 +1,6 @@
 ### Index
 
+* [AI](#AI)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -14,6 +15,10 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 
+
+### AI
+* [Pattern Recognition](https://youtube.com/playlist?list=PLcBOyD1N1T-MnWcKQZqE8FXrgoiiVdXvI) - EkapolC
+* [Natural language processing](https://youtube.com/playlist?list=PLcBOyD1N1T-PIYnPZ9_iHtug9e-BcHIob) - EkapolC
 
 ### C
 

@@ -48,6 +48,8 @@
 
 ### Databases
 
+* [Database Systems](https://youtube.com/playlist?list=PL7fB6_3v0nhxRBOP44PL8SnhXnauinlb2) - Aj Earn KMUTNB
+
 
 #### NoSQL
 

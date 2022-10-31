@@ -2350,6 +2350,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [SQL Notes for Professionals](http://goalkicker.com/SQLBook/) - Compiled from StackOverflow Documentation (PDF)
 * [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison
 * [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/)
+* [Learn SQL in Detail](https://www.scaler.com/topics/sql/) - Tutorial
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com)
 
 

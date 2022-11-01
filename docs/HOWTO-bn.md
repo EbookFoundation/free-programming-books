@@ -8,7 +8,7 @@
 
 **`Free-Programming-Books` রিপজিটরি তে স্বাগতম!**
 
-আমরা নবাগত কন্ট্রিবিউটরস দের স্বাগতম জানাই; এমনকি যারা GitHub এই প্রথম কোন Pull Request (PR) তৈরি কয়েছেন। যদি আপনি তাদের একজন হয়ে থাকেন তাহলে নিচের রিসোর্স গুলো আপনার কাজে লাগতে পারেঃ
+আমরা নবাগত কন্ট্রিবিউটরস্ দের স্বাগতম জানাই; এমনকি যারা GitHub এ প্রথম কোন Pull Request (PR) তৈরি করেছেন। যদি আপনি তাদের একজন হয়ে থাকেন তাহলে নিচের রিসোর্স গুলো আপনার কাজে লাগতে পারেঃ
 
 * [পুল রিকোয়েস্ট কি?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
 * [কিভাবে পুল রিকোয়েস্ট দিব](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*

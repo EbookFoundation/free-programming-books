@@ -840,6 +840,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Oracle SQL - A Complete Introduction](https://www.udemy.com/course/introduction-to-oracle-sql/)(Video Course)
 * [SQL Notes for Professionals book](https://books.goalkicker.com/SQLBook/)(PDF)
 
+
 ### Standards
 
 * [Linux Standard Base](http://refspecs.linuxfoundation.org/lsb.shtml)

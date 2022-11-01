@@ -102,6 +102,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [Ember.js](#emberjs)
     * [Express.js](#expressjs)
     * [Fastify](#fastify)
+    * [Hydrogen](#hydrogen)  
     * [Ionic](#ionic)
     * [jQuery](#jquery)
     * [meteor](#meteor)
@@ -112,6 +113,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     * [React](#react)
     * [React Native](#react-native)
     * [Redux](#redux)
+    * [Remix](#remix)
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Jenkins](#jenkins)
@@ -307,6 +309,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Diving into ASP.NET WebAPI (2016)](https://github.com/akhilmittal/FreeBooks/) - Akhil Mittal (PDF)
 * [Intro to ASPNET MVC 4 with Visual Studio 2011 Beta (2012)](http://download.microsoft.com/download/0/f/b/0fbfaa46-2bfd-478f-8e56-7bf3c672df9d/intro%20to%20asp.net%20mvc%204%20with%20visual%20studio%20-%20beta.pdf) - Rick Anderson, Scott Hanselman (PDF)
 * [Introducing ASP.NET Web Pages 2 (2012)](https://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Introducing%20ASP.NET%20Web%20Pages%202.pdf) - Mike Pope (PDF)
+* [.NET Framework Notes for Professionals](https://books.goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 
 ### ASP.NET Core
@@ -1096,7 +1099,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide() {](https://airbnb.io/javascript/) - Airbnb (HTML)
+* [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer (HTML)
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
 * [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book) - Gerd Wagner (HTML,PDF)
@@ -1244,6 +1247,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Fastify - Latest Documentation](https://www.fastify.io/docs/latest) (HTML)
 
 
+#### Hydrogen
+
+* [Build a Hydrogen storefront](https://shopify.dev/custom-storefronts/hydrogen/getting-started/tutorial) (HTML)
+
+
 #### Ionic
 
 * [Ionic 4 Succinctly](https://www.syncfusion.com/ebooks/ionic-4-succinctly) - Ed Freitas
@@ -1343,6 +1351,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 * [The Complete Redux Book](https://leanpub.com/redux-book/read) - Boris Dinkevich, Ilya Gelman (HTML)
+
+
+#### Remix
+
+* [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
+* [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
 
 
 #### Svelte
@@ -2012,6 +2026,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 #### Django
 
+* [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html) (HTML)
+* [AutoComplete-Light](https://django-autocomplete-light.readthedocs.io/en/master/tutorial.html) (HTML)
+* [Django Filters](https://django-filter.readthedocs.io/en/stable/) (HTML)
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
@@ -2020,13 +2037,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) (PDF) (2.2)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.1.x/django.pdf) (PDF) (3.1)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf) (PDF) (3.2)
+* [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/4.1.x/django.pdf) (PDF) (4.1)
 * [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/4.0.x/django.pdf) (PDF) (4.0)
 * [Django Rest Framework](https://riptutorial.com/Download/django-rest-framework.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
+* [Django Storages](https://django-storages.readthedocs.io/en/latest/) (HTML)
+* [Django Tinymce](https://django-tinymce.readthedocs.io/en/latest/) (HTML)
 * [Django Web Framework (Python)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - MDN contributors
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](https://web.archive.org/web/20181130092020/http://www.effectivedjango.com/) (1.5)
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
+* [Social Auth App](https://python-social-auth.readthedocs.io/en/latest/) (HTML)
 * [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
 
 

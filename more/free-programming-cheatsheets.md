@@ -37,6 +37,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [Jupyter](#jupyter)
     * [Numpy Pandas](#numpy-pandas)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
@@ -363,6 +364,11 @@
 #### Flask
 
 * [Flask Cheatsheet](https://www.codewithharry.com/blogpost/flask-cheatsheet/) - Code with Harry (HTML)
+
+
+#### Jupyter
+
+* [Jupyter Cheatsheet](https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet) - Data Camp (HTML site with PDF links)
 
 
 #### Numpy Pandas

@@ -220,7 +220,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 * [A Data-Centric Introduction to Computing](https://dcic-world.org) - Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz (HTML)
 * [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) - Jeannette Wing, Carnegie-Mellon University (PDF)
-* [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/src) - Dr. Chris Bourke (PDF) (:construction: *in process*)
+* [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF)
 * [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF)
 * [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial, Barbara Ericson (HTML)
 * [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
@@ -230,6 +230,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 * [Computer Vision](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) - Richard Szeliski
+* [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf) - Ranjay Krishna (PDF)
 * [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com) - Simon J.D. Prince
 * [DALLE-E 2 prompt book](http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson(PDF)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem

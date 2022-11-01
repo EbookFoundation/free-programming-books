@@ -221,6 +221,7 @@
 * [JavaScript Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
 * [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo (YouTube)
+* [Tutorial NextJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ3-zouYHHknPq1G5VTB8PRf) - Prawito Hudoro
 * [Tutorial programming dari nol (Javascript)](https://www.youtube.com/playlist?list=PLwF5TtGsdsBdTJdjzZp1Wdog1DNcHZdDu) - Pintar Programming (YouTube)
 * [Tutorial Svelte Indonesia](https://youtube.com/playlist?list=PLH1gH0TmFBBhWp2pn6vRhUVVC1txQuTZE) - Ipung Purwono, Ipung Dev Academy
 
@@ -238,6 +239,7 @@
 
 * [Belajar React JS Dari Awal Buat Yang Nggak Jago JavaScript](https://www.youtube.com/watch?v=JS5w4rUbjQE) - array id
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
+* [Belajar Testing Pada React Dengan Jest dan RTL](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ1e5H4bX6rCTwBvSl2cll6a) - Prawito Hudoro
 * [Mari Kita Belajar Basic React JS](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwXT8zMPbezhDnTM3cTA5cZ) - Irsyad A. Panjaitan, Parsinta (YouTube)
 * [React JS Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY) - Wahidev Academy
 * [ReactJS-Firebase Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ2CnIvj7tI0zoijDSgR1m9j) - Prawito Hudoro

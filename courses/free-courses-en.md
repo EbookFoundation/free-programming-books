@@ -57,7 +57,7 @@
     * [Svelte](#svelte)
     * [Three.js](#threejs)
     * [Vue.js](#vuejs)
-* [Julia](#julia)   
+* [Julia](#julia) 
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -79,8 +79,10 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [Jupyter](#jupyter)
 * [QB64](#qb64)
 * [R](#r)
+* [Redis](#redis)
 * [Robotics](#robotics)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -426,6 +428,7 @@
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
 * [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
+* [NICO 101 - Introduction to Programming for Big Data](https://github.com/amarallab/Amaral_Lab_Intro_to_Data_Science) - Luis Amaral, Helio Tejedor, Luiz Alves
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 
 
@@ -522,6 +525,7 @@
 
 ### Docker
 
+* [Deploying Containerized Applications Technical Overview](https://www.udemy.com/course/deploying-containerized-applications-technical-overview) - Red Hat
 * [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
 * [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) - CognitiveClass.ai
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI) - Programming with Mosh!
@@ -788,6 +792,7 @@
 
 > :information_source: See also &#8230; [Angular](#angular)
 
+* [AngularJS Tutorial for Beginners](https://www.youtube.com/watch?v=9b9pLgaSQuI) - Yaakov Chaikin (My Lesson)
 * [Egghead.io - AngularJS](https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7) - John Lindquist (YouTube)
 * [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs) - Codecademy (Codecademy account *required*)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js) - Codeschool (Codeschool account *required*)
@@ -1063,6 +1068,7 @@
 * [Object Oriented PHP Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy) - Shaun Pelling (The Net Ninja)
 * [PHP (\& MySQL) Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o) - Shaun Pelling (The Net Ninja)
 * [PHP & MySQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b) - The Bad Tutorials (2015)
+* [PHP Basics](https://www.youtube.com/playlist?list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW ) - Codecourse
 * [PHP Courses for Beginner](https://www.learn-php.org) - Learn-PHP.org
 * [PHP for beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk_fFEWydZJLiXpc9nB1qfpi) - Dary Nazar (Code with Dary)
 * [PHP OOP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) - Dani Krossing
@@ -1172,6 +1178,11 @@
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) - Tech with Tim
 
 
+#### Jupyter
+
+* [Jupyter Tutorials](https://youtube.com/playlist?list=PL1m-6MPBNAZfF-El7BzqaOrCrTBRgH1Nk) - Emyrrich (Youtube)
+
+
 ### QB64
 
 * [Game Programming with QB64](http://qb64sourcecode.com) - Terry Ritchie
@@ -1183,6 +1194,17 @@
 * [R Programming](https://www.coursera.org/course/rprog)
 * [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) - Barton Poulson (freeCodeCamp)
 * [R Tutorial For Beginners \| Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU) - Edureka!
+
+
+### Redis
+
+* [Learning Redis Tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3Mt3iBO2eosx5vXHeaM92TG) - Packt Video
+* [Redis Beginner Tutorials](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8n1fsiT8z_VnDhnUk4vaVq) - Automation Step by Step
+* [Redis CLI Course](https://www.youtube.com/playlist?list=PLhfxuQVMs-nw6wu3HaD4YcO6wlF0AXMkp) - Daily Code Buffer
+* [Redis Crash Course](https://www.youtube.com/playlist?list=PLoAsubXIl8uKqhvGFeH8g_gzHPwyFoVJQ) - CodeWithTim
+* [Redis Data Types](https://www.youtube.com/playlist?list=PL83Wfqi-zYZEnzA9nguVbC-USbBIlRG0y) - Redis
+* [Redis Stack](https://www.youtube.com/playlist?list=PL83Wfqi-zYZFIQyTMUU6X7rPW2kVV-Ppb) - Redis
+* [Redis Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYZZxQdap7Sd0ARKFI-XVsd) - ProgrammingKnowledge
 
 
 ### Robotics

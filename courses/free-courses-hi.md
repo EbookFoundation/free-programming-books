@@ -45,6 +45,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [Jupyter](#jupyter)
 * [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
@@ -433,6 +434,8 @@
 * [Complete Python Tutorial in Hindi (2020)](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) - Harshit Vashisth
 * [Core Python (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L) - Rajesh Kumar, Geeky Shows
 * [Free Python Course For School Students (Grade7-10) Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvumawW64knIBSJuHALx3zBE) - Coding Blocks Junior
+* [Python](https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF) - Computer Gyan Guruji
+* [Python For Beginners](https://youtube.com/playlist?list=PL-5gYa7CLd4iBdPHRaSEwbivCnUq1nxj9) - Technical Sagar
 * [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi) (Great Learning) *(account required)*
 * [Python Tutorial For Beginners \| Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - CodeWithHarry
 * [Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX) - edureka! Hindi
@@ -453,6 +456,11 @@
 * [[Hindi] Flask Tutorial For Beginners 2020](https://www.youtube.com/playlist?list=PLkPmSWtWNIyQ-_mlHIQho9nCnxdbvnQIl) - Knowledge Shelf
 * [Flask (Python) In Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC) - HindiSiksha
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
+
+
+#### Jupyter
+
+* [Jupyter Tutorials](https://www.youtube.com/playlist?list=PLBx2L_ikudBO7s6SQZaMDCtbyrjQ-04a8) - Saima Academy
 
 
 ### R

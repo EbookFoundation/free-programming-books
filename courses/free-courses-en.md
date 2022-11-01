@@ -337,7 +337,7 @@
 
 #### IBM
 
-* [Getting started with IBM Cloud]([https://cognitiveclass.ai/courses/ibm-cloud-essentials](https://www.youtube.com/watch?v=rZ6pKjA5zHQ)) - Horea Porutiu
+* [Getting started with IBM Cloud](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - Horea Porutiu, Steve Martinelli
 * [IBM Cloud Essentials V3](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - CognitiveClass.ai
 
 

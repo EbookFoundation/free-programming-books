@@ -381,6 +381,7 @@
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 * [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
 * [Cheat Sheet for R and RStudio](https://www.ocf.berkeley.edu/~janastas/docs/RStudioCheatSheet.pdf) - L. Jason Anastasopoulos (PDF)
+* [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf) - Melanie Frazier (PDF)
 
 
 ### Raspberry Pi

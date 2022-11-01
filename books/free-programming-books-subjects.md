@@ -787,6 +787,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Software Architecture
 
 * [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
+* [An Introduction to Software Architecture](https://userweb.cs.txstate.edu/~rp31/papers/intro_softarch.pdf) - David Garlan, Mary Shaw
 * [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](http://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
@@ -794,6 +795,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Code Simplicity: The Fundamentals of Software](https://www.codesimplicity.com/book.pdf) - Max Kanat-Alexander (PDF)
 * [Data-Oriented Design](http://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
+* [Designing Software Architectures: A Practical Approach](http://repo.darmajaya.ac.id/3948/1/Designing%20Software%20Architectures_%20A%20Practical%20Approach%20%28%20PDFDrive%20%29.pdf) - Humberto Cervantes, Rick Kazman
 * [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) (email address *requested*, not required)
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans
@@ -818,6 +820,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Serverless Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/serverless-design-patterns-and-best-practices) - Brian Zambrano (Packt account *required*)
 * [Shape Up - Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) - Ryan Singer (PDF)
 * [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
+* [Software Architecture](https://home.cs.colorado.edu/~kena/classes/5828/s10/presentations/softwarearchitecture.pdf) - Nityashree Tumkur, Samyukta Mudugal
 * [Software Architecture Patterns](http://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)

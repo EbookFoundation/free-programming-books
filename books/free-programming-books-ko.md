@@ -65,7 +65,8 @@
 
 ### Docker
 
-* [이재홍의 언제나 최신 Docker(가장 빨리 만나는 Docker 최신 개정판)](http://www.pyrasis.com/jHLsAlwaysUpToDateDocker)
+* [이재홍의 언제나 최신 Docker](http://www.pyrasis.com/jHLsAlwaysUpToDateDocker)
+```title is just "이재홍의 언제나 최신 Docker"
 
 
 ### Elastic

@@ -35,7 +35,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-fil.md)
   - [How-to](HOWTO-fil.md)
 - French / français
-  - [Code de Contrat](CODE_OF_CONDUCT-fr.md)
+  - [Code de Conduite](CODE_OF_CONDUCT-fr.md)
   - [Contributing](CONTRIBUTING-fr.md)
   - [How-to](HOWTO-fr.md)
 - German / Deutsch
@@ -69,6 +69,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [How-to](HOWTO-ko.md)
 - Malayalam / മലയാളം
 - Nepali / नेपाली
+  - [आचार संहिता](CODE_OF_CONDUCT-np.md) 
   - [How-to](HOWTO-np.md) 
 - Norwegian / Norsk
 - Persian / Farsi (Iran) / فارسى
@@ -83,6 +84,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-pt_BR.md)
   - [How-to](HOWTO-pt_BR.md)
 - Portuguese (Portugal)
+  - [How-to](HOWTO-pt_PT.md)
 - Romanian (Romania) / limba română / român
 - Russian / Русский язык
   - [Кодекс поведения](CODE_OF_CONDUCT-ru.md)
@@ -109,6 +111,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Code of Conduct](CODE_OF_CONDUCT-th.md)
   - [How-to](HOWTO-th.md)
 - Turkish / Türkçe
+  - [Code of Conduct](CODE_OF_CONDUCT-tr.md)
   - [How-to](HOWTO-tr.md)
 - Ukrainian / Українська
   - [Кодекс Поведінки](CODE_OF_CONDUCT-uk.md)

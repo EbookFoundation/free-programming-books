@@ -1,6 +1,7 @@
 ### Index
 
 * [Algoritmalar](#algoritmalar)
+* [C#](#c-sharp)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -17,6 +18,11 @@
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 * [Algoritmaları Anlamak](https://www.youtube.com/playlist?list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ) - Fatih Özkaynak
 * [On Derste Algoritma ve Programlama](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNiJdlhiEl_RMkK0PbJ1_DB) - Murat Yücedağ
+
+
+### <a id='c-sharp'></a>C#
+
+* [C# Dersleri \| Visual Studio 2022 ile C# Programlama \| C# Giriş](https://www.youtube.com/playlist?list=PLi1BmHvgBkxIYweLR52cRJnit4AEEugn4) - Yazılım Teknolojileri Akademisi
 
 
 ### HTML and CSS

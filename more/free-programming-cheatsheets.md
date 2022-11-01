@@ -50,6 +50,7 @@
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
 * [Terraform](#terraform)
+* [TypeScript](#typescript)
 * [Unit testing](#unit-testing)
 * [Webpack](#webpack)
 
@@ -452,6 +453,11 @@
 
 * [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet) - Gineesh Madapparambath (HTML)
 * [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
+
+
+### TypeScript
+
+* [TypeScript Cheat Sheet](https://rmolinamir.github.io/typescript-cheatsheet/) - Robert Molina (HTML)
 
 
 ### Unit testing

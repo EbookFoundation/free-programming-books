@@ -43,7 +43,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Search Engines](#search-engines)
 * [Security](#security)
 * [Software Architecture](#software-architecture)
-* [Standards](#standards)
+* [SQL](#sql)
+* * [Standards](#standards)
 * [Theoretical Computer Science](#theoretical-computer-science)
 * [Version Control Systems](#version-control-systems)
 * [Web Performance](#web-performance)
@@ -831,6 +832,13 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
 
+
+### SQL
+
+* [Database design with UML and SQL, 4th edition](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php)(HTML)
+* [Learn SQL - Interactive Tutorial]( https://www.codecademy.com/learn/learn-sql) (Interactive Tutorial)
+* [Oracle SQL - A Complete Introduction](https://www.udemy.com/course/introduction-to-oracle-sql/)(Video Course)
+* [SQL Notes for Professionals book](https://books.goalkicker.com/SQLBook/)(PDF)
 
 ### Standards
 

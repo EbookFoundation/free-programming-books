@@ -417,6 +417,7 @@
 
 * [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+* [Cron Cheatsheet](https://devhints.io/cron) - DevHints, Rico Santa Cruz (HTML)
 * [Fish Shell cheatsheet](https://devhints.io/fish-shell) - DevHints, Rico Santa Cruz (HTML)
 
 

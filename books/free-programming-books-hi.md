@@ -4,6 +4,7 @@
 * [C++](#cpp)
 * [Java](#java)
 * [Linux](#linux)
+* [Networking](#networking)
 * [Php](#php)
 * [Python](#python)
 
@@ -36,6 +37,11 @@
 * [Linux Pocket Guide \| Hindi](https://ia800305.us.archive.org/27/items/LinuxPocketGuideInHindi/LinuxPocketGuideInHindi.pdf) - Ravishankar Shrivastav (PDF)
 
 
+### Networking
+
+* [ डाटा कयनकेशन एंड कंयटर नेटवक ](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%203.pdf) -  ई.हरश दाधीच, ई.वकास माथर (PDF)
+
+
 ### <a id="php"></a>Php
 
 * [Php \| Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com
@@ -45,3 +51,4 @@
 ### <a id="python"></a>Python
 
 * [Python Notes PDF by ehindistudy.com \| Hindi](https://drive.google.com/file/d/1cnJ6Uksso2UXwC5OHBAGk3miMzSveBvr/view) - Yugal Joshi (PDF)
+

@@ -18,7 +18,7 @@
 * [Algoritmaları Anlamak](https://www.youtube.com/playlist?list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ) - Fatih Özkaynak
 
 
-### C#
+### <a id='c-sharp'></a>C#
 
 * [C# Dersleri \| Visual Studio 2022 ile C# Programlama \| C# Giriş](https://www.youtube.com/playlist?list=PLi1BmHvgBkxIYweLR52cRJnit4AEEugn4) - Yazılım Teknolojileri Akademisi
 

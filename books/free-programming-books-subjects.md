@@ -18,6 +18,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Computer Science](#computer-science)
 * [Computer Vision](#computer-vision)
 * [Containers](#containers)
+* [Cybersecurity](#cybersecurity)
 * [Data Science](#data-science)
 * [Database](#database)
 * [Game Development](#game-development)
@@ -246,6 +247,12 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
 
+### Cybersecurity
+
+* [Cybersecurity for Small Business](https://www.ftc.gov/system/files/attachments/cybersecurity-small-business/cybersecuirty_sb_factsheets_all.pdf) - FTC (PDF)
+* [Cyber Security for Beginners](https://heimdalsecurity.com/pdf/cyber_security_for_beginners_ebook.pdf) - Heimdal Security (PDF)
+* [Introduction to Cyber Security](https://www.uou.ac.in/sites/default/files/slm/Introduction-cyber-security.pdf) - Jeetendra Pande (PDF)
+* [The Cyber Security Body of Knowledge](https://www.cybok.org/media/downloads/CyBOK-version-1.0.pdf) (PDF)
 
 ### Data Science
 

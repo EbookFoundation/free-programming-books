@@ -192,7 +192,7 @@
 
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
-* [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri (HTML)
+* [React Redux Tutorial Untuk Pemula](https://medium.com/codeacademia/tutorial-redux-bagian-i-membuat-todo-list-c26a979d0a1f) - Yudi Krisnandi
 
 
 ### Solidity

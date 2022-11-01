@@ -37,6 +37,8 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [Jupyter](#jupyter)
+    * [Numpy Pandas](#numpy-pandas)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -226,6 +228,7 @@
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) (HTML)
+* [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/) - Josh W. Comeau (HTML)
 
 
 #### jQuery
@@ -361,6 +364,16 @@
 #### Flask
 
 * [Flask Cheatsheet](https://www.codewithharry.com/blogpost/flask-cheatsheet/) - Code with Harry (HTML)
+
+
+#### Jupyter
+
+* [Jupyter Cheatsheet](https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet) - Data Camp (HTML site with PDF links)
+
+
+#### Numpy Pandas
+
+* [Pandas, Numpy, Python Cheatsheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
 
 
 ### R

@@ -66,7 +66,6 @@
 ### Docker
 
 * [이재홍의 언제나 최신 Docker](http://www.pyrasis.com/jHLsAlwaysUpToDateDocker)
-```title is just "이재홍의 언제나 최신 Docker"
 
 
 ### Elastic

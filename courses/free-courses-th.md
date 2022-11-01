@@ -70,6 +70,11 @@
 * [สอน VueJS + NuxtJS ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCMd24NIQTPcqHhfnK-QbPmD) - Geekstart
 
 
+### Kotlin
+
+* [Getting started with Kotlin](https://www.skooldio.com/courses/getting-started-with-kotlin) - Somkiat Kijwongwattana
+
+
 ### Python
 
 * [ชีวิตคนช่างแสนสั้น เราไม่หวั่นใช้ python](https://phyblas.hinaboshi.com/saraban/python) - Phyblas

@@ -6,6 +6,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [ClojureScript](#clojurescript)
+* [ColdFusion](#coldfusion)
 * [Crystal](#crystal)
 * [Dart](#dart)
 * [Docker](#docker)
@@ -22,6 +23,7 @@
     * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
+* [Multiple Languages](#multiple-languages)
 * [.Net](#dotnet)
 * [Nim](#nim)
 * [Node.js](#nodejs)
@@ -88,6 +90,11 @@
 
 * [Replumb REPL](https://clojurescript.io)
 * [Web REPL](http://clojurescript.net)
+
+
+### ColdFusion
+
+* [TryCF](https://trycf.com)
 
 
 ### Crystal
@@ -166,6 +173,7 @@
 
 ### JavaScript
 
+* [CodeHS](https://codehs.com/explore/sandbox/javascript)
 * [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io)
 * [Esfiddle](https://esfiddle.net)
@@ -175,6 +183,7 @@
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
 * [OneCompiler](https://onecompiler.com/javascript)
+* [PlayCode](https://playcode.io/javascript)
 * [Plunker](https://plnkr.co)
 * [SoloLearn](https://code.sololearn.com/web#javascript)
 
@@ -198,6 +207,11 @@
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
+### Multiple Languages
+
+* [CodeChef](https://www.codechef.com/ide)
+
+
 ### <a id="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
@@ -212,6 +226,7 @@
 
 * [Hello Node - (Glitch)](https://glitch.new/node) *(Account requested, not required)*
 * [Ideone](https://ideone.com)
+* [MDX Playground](https://mdxjs.com/playground)
 * [SoloLearn](https://code.sololearn.com/nodejs)
 
 

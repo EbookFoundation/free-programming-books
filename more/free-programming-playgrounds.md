@@ -23,6 +23,7 @@
     * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
+* [Multiple Languages](#multiple-languages)
 * [.Net](#dotnet)
 * [Nim](#nim)
 * [Node.js](#nodejs)
@@ -204,6 +205,11 @@
 ### Kubernetes
 
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
+
+
+### Multiple Languages
+
+* [CodeChef](https://www.codechef.com/ide)
 
 
 ### <a id="dotnet"></a>.NET

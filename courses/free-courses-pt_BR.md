@@ -172,6 +172,7 @@
 
 ### Ionic
 
+* [Curso IONIC 6 🚀 - De 0 a PRO](https://www.youtube.com/playlist?list=PLsngLoGbAagFEG-jwlpPhGsLzMSQ0tadP) - Randy Varela
 * [Desenvolvimento com Ionic 3 + WebComponents com StencilJS](https://www.udemy.com/ionic-3-e-webcomponents-com-stenciljs/) - Gabriel Barreto (Udemy)
 * [Ionic 3 para iniciantes](https://www.udemy.com/ionic-3-para-iniciantes/) - Charles dos Santos França (Udemy)
 

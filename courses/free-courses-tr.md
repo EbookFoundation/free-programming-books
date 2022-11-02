@@ -22,7 +22,7 @@
 
 ### <a id='c-sharp'></a>C#
 
-* [C# Başlangıç ve İleri Düzey Eğitimi | Console Dersleri | Form Dersleri](https://www.youtube.com/playlist?list=PLURN6mxdcwL960S-bRuf1F6K09yzNjgcn) - Enes Bayram
+* [C# Başlangıç ve İleri Düzey Eğitimi \| Console Dersleri \| Form Dersleri](https://www.youtube.com/playlist?list=PLURN6mxdcwL960S-bRuf1F6K09yzNjgcn) - Enes Bayram
 * [C# Dersleri \| Visual Studio 2022 ile C# Programlama \| C# Giriş](https://www.youtube.com/playlist?list=PLi1BmHvgBkxIYweLR52cRJnit4AEEugn4) - Yazılım Teknolojileri Akademisi
 
 

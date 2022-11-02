@@ -101,6 +101,7 @@
     * [Deno](#deno)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
+* [Web3](#web3)
 * [Windows Phone](#windows-phone)
 * [YAML](#yaml)
 
@@ -117,6 +118,7 @@
 * [FutureLearn](https://www.futurelearn.com)
 * [IITBombayX (IITBX)](https://www.iitbombayx.in)
 * [Khan Academy](https://www.khanacademy.org)
+* [LearnWeb3 DAO \| Become a Web3 Developer for Free](https://learnweb3.io)
 * [MIT OCW](http://ocw.mit.edu)
 * [MOOC.fi](https://www.mooc.fi/en/)
 * [NPTEL](https://onlinecourses.nptel.ac.in)
@@ -1404,6 +1406,13 @@
 * [Web Development Tutorials for Beginners](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) - LearnCode.academy
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
 * [Web Programming](https://open.cs.uwaterloo.ca/web-programming/) - Centre for Education in Math and Computing (University of Waterloo)
+
+
+### Web3
+
+> :information_source: See also &#8230; [Blockchain](#blockchain), [Solidity](#solidity)
+
+* [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) - Patrick Collins (freeCodeCamp)
 
 
 ### Windows Phone
